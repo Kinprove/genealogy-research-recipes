@@ -25,6 +25,10 @@ thresholds, match limits, kit prefixes or processing times for what the current 
 Use separate workflows for general spreadsheet export and cluster construction. This recipe
 owns the GEDmatch run and comparison records.
 
+Before using another service's result as confirmation or exclusion, apply
+[DNA comparison controls](dna-comparison-controls.md) to exact-test identity,
+query controls, local marker coverage and reporting scope.
+
 ## Eight workflows
 
 ### 1. Establish a kit registry and a comparable run baseline

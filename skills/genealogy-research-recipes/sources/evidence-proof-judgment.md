@@ -34,6 +34,11 @@
 30. *QuickLesson 27: Verifying Historical 'Facts'—A Blueprint* — Elizabeth Shown Mills / Evidence Explained, accessed 2026-10-07 — <https://evidenceexplained.com/content/quicklesson-27-verifying-historical-facts-a-blueprint> — Rights: cited reference, not reproduced.
 31. *Ethics and Standards* — Board for Certification of Genealogists, accessed 2026-10-07 — <https://www.bcgcertification.org/ethics-standards> — Rights: cited reference, not reproduced.
 
+Maintenance note, 2026-10-18: applying a revised premise to aliases, diagrams,
+totals and dated conclusion amendments is Kinprove's original dependency-review
+procedure. It does not claim that the cited standards prescribe this particular
+artifact format.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

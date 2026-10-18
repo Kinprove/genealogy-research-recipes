@@ -82,12 +82,11 @@ register the package in another host's public catalog.
 - **Claude:** this repository already supplies its own `kinprove` marketplace in
   [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.json). It is not a
   claim of inclusion in a separate Anthropic-curated directory.
-- **Hermes:** installation by `Kinprove/genealogy-research-recipes` works without
-  a catalog entry. The [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins)
-  accepts a separate, human-reviewed PR pinned to an exact commit. An open PR is
-  not admission; use the repository install above until the entry is listed.
-  After admission, install by `genealogy-research-recipes` and enable it as above.
-  Catalog updates move only to a newly reviewed pin, not to an arbitrary branch tip.
+- **Hermes:** the [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins)
+  lists this package at a separately reviewed exact commit. Install by
+  `genealogy-research-recipes` and enable it as above, or use the repository install.
+  Catalog updates need a new reviewed SHA-pin PR; a source release alone does not
+  move the catalog installation to that release.
 - **OpenClaw:** [ClawHub](https://clawhub.ai) publication is separate from GitHub
   installation. For a published Kinprove release, use the explicit registry source:
 
@@ -134,6 +133,8 @@ publish to npm merely because this package uses an npm-style scoped name.
 
 ## Recipes
 
+- **Measurement and retrieval controls:** [cross-vendor DNA comparisons](skills/genealogy-research-recipes/recipes/dna-comparison-controls.md), [archival images and search coverage](skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md), [corpus-seeded name searches](skills/genealogy-research-recipes/recipes/corpus-seeded-name-search.md)
+- **Testimony and record episodes:** [Holocaust testimony and survivor sources](skills/genealogy-research-recipes/recipes/holocaust-testimony-source-interpretation.md), [Russian military and Soviet-repression records](skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md)
 - **DNA reasoning:** [unknown parentage and WATO](skills/genealogy-research-recipes/recipes/unknown-parentage-wato.md), [AI for DNA research](skills/genealogy-research-recipes/recipes/ai-for-dna-research.md), [Y-DNA and mtDNA](skills/genealogy-research-recipes/recipes/ydna-mtdna-interpretation.md), [X-DNA and phasing](skills/genealogy-research-recipes/recipes/xdna-phasing-judgment.md)
 - **DNA sites:** [23andMe](skills/genealogy-research-recipes/recipes/23andme-match-research.md), [AncestryDNA](skills/genealogy-research-recipes/recipes/ancestry-dna-match-investigation.md), [FamilyTreeDNA exports and Group Time Tree](skills/genealogy-research-recipes/recipes/ftdna-practical-dna-workflows.md), [GEDmatch](skills/genealogy-research-recipes/recipes/gedmatch-practical-dna-workflows.md), [MyHeritage DNA](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md), [DNA Painter](skills/genealogy-research-recipes/recipes/dnapainter-practical-dna-workflows.md)
 - **Evidence:** [evidence, proof and working hypotheses](skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md), [standards audits](skills/genealogy-research-recipes/recipes/genealogy-standards-audit.md), [AI for documents](skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md)

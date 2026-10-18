@@ -16,6 +16,13 @@
 11. *Reconstructing Grammy’s DNA* — Tanner Tolman (DNA Painter), 2023-06-22 — <https://dnapainter.com/blog/grammys-dna-reconstruction/> — Rights: cited reference, not reproduced.
 12. *What You NEED TO KNOW Before Recreating Deceased Ancestor's DNA* — Family History Fanatics, 2022-06-01 — <https://www.youtube.com/watch?v=VEmq-nF4rPQ> — Rights: cited reference, not reproduced.
 
+For the 2026-10-18 non-PAR and measurement-scope clarification, see H4 (Genome
+Reference Consortium assembly-specific PAR boundaries), H6 (FamilyTreeDNA's X
+inheritance/list scope) and P1 (Page et al.'s primary X–Y recombination study) in
+[DNA comparison controls — sources](dna-comparison-controls.md). Those sources were
+opened during this update. The comparison-control procedure is original synthesis;
+no universal detection threshold or error probability is inferred from it.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
