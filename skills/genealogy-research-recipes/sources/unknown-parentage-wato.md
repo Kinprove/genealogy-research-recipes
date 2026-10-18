@@ -13,6 +13,12 @@
 9. *DNA as Negative Evidence, Revisited* — The DNA Geek, 2022-08-14 — <https://thednageek.com/dna-as-negative-evidence-revisited/> — Rights: cited reference, not reproduced.
 10. *Which WATO Probabilities are Best* — Family Locket (YouTube), 2025-03-12 — <https://www.youtube.com/watch?v=Pj-Hi_DgDUQ> — Rights: cited reference, not reproduced.
 
+Additional primary reference checked 2026-10-18:
+[DNA Painter, original WATO FAQ](https://dnapainter.com/help/wato-faq) — the
+parent/child calculation rule and representation of a tested descendant when
+placing an untested ancestor. Historical-input and unchanged-score checks are
+Kinprove's original comparison controls, not additional WATO calculations.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

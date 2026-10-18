@@ -1,7 +1,7 @@
 ---
 name: genealogy-research-recipes
 description: >-
-  Genealogy: unknown parentage/adoptees, WATO, ancestral couples/endogamy/testing; Y-DNA/SNP/STR/mtDNA/X-DNA/phasing; DNA/documentary identity conflicts, negative evidence, conditional hypotheses, Genealogical Proof Standard, standards audits; AI transcription/translation, hints/photos; Russian Empire names/registration/revision lists/emigrant origins; JewishGen, Beider, HebrewBooks; Ancestry records/DNA/Pro Tools/ThruLines; MyHeritage records/DNA/shared matches/theories; FamilySearch Catalog/DGS/Full Text/Source Linker; 23andMe exports/matrices/painting; FTDNA exports/Family Matching/Group Time Tree; DNA Painter painting/coverage/segment generators; GEDmatch comparisons/triangulation/phasing/Lazarus; Newspapers.com OCR/title holdings; Geni, WikiTree DNA tester/kit links, RootsMagic reconciliation; U.S. census/immigration/naturalization/military pensions; burial/cemetery, city directories, probate inventories, land indexes/book series; Irish Catholic NLI registers; Polish Geneteka/Metryki/Szukaj originals.
+  Genealogy/DNA research: unknown parentage and WATO; endogamy, family comparisons, Y/mt/X DNA, phasing and cross-vendor controls; documentary identity, conditional hypotheses, Genealogical Proof Standard and standards audits; archival image/transcript/index coverage; corpus-seeded Jewish-name/OCR searches; Russian-Empire names, registration and emigrant origins; Holocaust testimony and Russian/Soviet military/repression episodes. Platform recipes for Ancestry, MyHeritage, FamilySearch, JewishGen, HebrewBooks, Beider indexes, 23andMe, FTDNA, GEDmatch, DNA Painter, Newspapers.com, Geni, WikiTree and RootsMagic; U.S., Irish and Polish record recovery. Read the relevant recipe before interpreting findings or planning a search.
 ---
 
 # Genealogy research recipes
@@ -25,6 +25,36 @@ authorship does not require a Kinprove account, connector or scoring engine.
 4. If no recipe matches, answer normally — don't force-fit.
 
 ## Recipes
+
+- **`recipes/dna-comparison-controls.md`** — Reconcile conflicting vendor or native
+  results using exact tests, query controls, local marker coverage and reporting scope.
+  *Use for:* an absent match, raw-file X coverage, PAR/build ambiguity or doubled totals.
+  *Core guardrail:* unavailable inputs and out-of-scope displays are not measured negatives;
+  reciprocal reports are not independent observations.
+
+- **`recipes/archival-image-coverage-verification.md`** — Verify case boundaries,
+  image order, transcript version and the pages and targets actually inspected.
+  *Use for:* catalogue/cover disagreements, conflicting readings or completeness claims.
+  *Core guardrail:* a finished reading pass, readable copy or indexed case does not
+  establish complete image, target-name or subsection coverage.
+
+- **`recipes/corpus-seeded-name-search.md`** — Recover attested spellings across
+  scripts and OCR by separating encoding, orthography and field behaviour.
+  *Use for:* Hebrew/Yiddish name misses, lossy search folds or uncalibrated zero results.
+  *Core guardrail:* normalization is not spelling expansion; preserve originals and
+  treat rescued hits as candidates rather than identity or kinship proof.
+
+- **`recipes/holocaust-testimony-source-interpretation.md`** — Interpret a Yad Vashem
+  result through its testimony, wartime list or survivor source and statement dates.
+  *Use for:* unspecified death circumstances, submitter roles or evacuation conflicts.
+  *Core guardrail:* a memorial database hit is not by itself a death finding; match
+  identities and date roles before combining the timeline.
+
+- **`recipes/russian-military-repression-record-episodes.md`** — Reconcile WWI/WWII
+  and Soviet-repression records as separate dated source episodes.
+  *Use for:* awards versus loss reports, repeated arrests or copied regional entries.
+  *Core guardrail:* administrative dates and alleged events are distinct; a later
+  order does not establish survival and a duplicated index is not independent support.
 
 - **`recipes/genealogy-standards-audit.md`** — Audit a dossier, report, proof draft or
   documented tree by tracing each claim through examined sources and explained reasoning.
@@ -218,8 +248,8 @@ authorship does not require a Kinprove account, connector or scoring engine.
   reconstructed-kit quality, artificial homozygosity, or interpreting matches to a synthetic kit.
   *Core guardrail:* never invent a small-segment or X-DNA false-positive rate or cM threshold — cite
   the specific company/study, since they diverge by design and by pair-sex; phasing reduces but never
-  eliminates pseudosegments on either side; an X-DNA result consistent with a hypothesis is a
-  **veto only**, never confirmation.
+  eliminates pseudosegments on either side; usable X evidence can reject an incompatible
+  non-PAR route, while compatibility alone does not confirm the proposed ancestor.
 
 - **`recipes/ai-for-documentary-records.md`** — Using an AI assistant *reliably* on DOCUMENTARY / records
   work (NOT DNA): handwriting transcription & translation, AI full-text / OCR finding aids (FamilySearch

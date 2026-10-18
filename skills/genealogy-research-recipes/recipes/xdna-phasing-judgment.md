@@ -4,6 +4,14 @@
 
 Given a small DNA segment, an X-DNA match, a chromosome map from visual/parental phasing, or a reconstructed ancestor’s genotype, state precisely what it can confirm or eliminate about a relationship — and refuse the six places confident-sounding analysis is actually fabrication.
 
+The X inheritance rules here concern ordinary 46,XY/46,XX **non-PAR** inheritance.
+Pseudoautosomal regions can recombine between X and Y; identify them using the
+input's genome build. Establish both tests' usable interval coverage and the tool's
+reporting scope before interpreting absence. A missing raw block, an interface
+without X matching and a completed negative comparison are different observations.
+Use [DNA comparison controls](dna-comparison-controls.md) for those checks and its
+primary-source register for the PAR and platform boundaries.
+
 ## The mental model (get this right or everything downstream breaks)
 
 X-DNA's restricted inheritance (no male-to-male transmission) is a genuinely powerful **hard constraint** — it can definitively rule a path *out*. But it is a far weaker **confirmation** tool than a model assumes: low SNP density inflates false-match risk, the field has no single agreed cM floor, and being *consistent* with the inheritance rule is not the same as being *caused by* the hypothesized ancestor. Visual phasing is a genuinely powerful data-reduction tool bound by one hard mechanical rule almost no model knows to check. And underneath both sits the small-segment problem: real, *divergent*, company-specific false-positive data that a model will confidently paper over with one clean invented number instead of reporting the actual spread. The unifying failure isn't ignorance of the 101 mechanics — models recite those fluently — it's that fluency gets substituted for the messier, disputed, source-specific reality underneath.
@@ -56,9 +64,18 @@ In visual phasing (comparing 3+ siblings' recombination points to assign chromos
 
 ### 4 — Misapplied X-DNA elimination logic on a real discriminating case: half-sister vs. aunt
 
-The clean case first, to calibrate: a father–daughter X-DNA comparison should be **all** (100%, since a daughter gets her father's one X intact) or, for a son, **nothing** (0%, since a son gets a Y). Anything in between rules that man out as the biological father — this is airtight *as a transmission rule*, because male X inheritance is a hard, undivided pass-through: no mechanism transmits X from father to son, full stop. But a *reported* nonzero X match on a son isn't automatically the same claim: the source itself flags one confound specific to the son case — if the candidate father and the child's mother are themselves related (the source's example: third or fourth cousins, or closer), the father can share a real X segment with a son *via the mother's line*, without that meaning paternal transmission occurred, since 100% of the son's X came from her. That doesn't weaken the underlying rule (a father still transmits zero X to a son, unconditionally) — it means a small nonzero X "match" on a son should be checked against parental relatedness before being read as disproof. The daughter case has no equivalent caveat: she inherits the father's whole X regardless of who else he's related to. Shared surnames among X matches do not substitute for this test, and it must be paired with checking all 22 autosomal chromosomes (a real father should share roughly half the child's autosomal DNA on every one).
+The transmission rule first: a daughter inherits her father's non-PAR X copy, while
+a son receives his non-PAR X through his mother. A partial browser display is not
+itself proof that either rule was violated: verify exact tests, usable interval
+coverage, call quality and comparison settings before treating a measured
+incompatibility as evidence against parentage. A real father–son X match can arrive
+through a relationship between the father and the son's mother; it is not
+father-to-son X transmission. Conversely, a daughter inherits her father's non-PAR
+copy regardless of additional parental relationships. Keep transmission, observed
+matching and attribution separate, and correlate consequential findings with the
+autosomal evidence. See the comparison-controls primary sources H4, H6 and P1.
 
-Now the case where the same instinct **fails**: distinguishing a half-sister from an aunt when total shared cM sits in the fully-overlapping 1600–2000 cM band. Paternal half-sisters *do* have a clean, definitive X-DNA test — they always share a full X chromosome, because their father passes his single intact X to every daughter. But that rule is specific to the **paternal** case. In a real documented case where the relationship in question was **maternal** (a much-younger presumed aunt who might actually be a maternal half-sister), the paternal-half-sister X shortcut does not apply — because a mother's X recombines before she passes it on, so an aunt sharing the same mother and a maternal half-sister sharing that mother can both show substantial, non-clean-binary X overlap. A model that recites "paternal half-sisters always share a full X, therefore X-DNA resolves half-sister-vs-aunt" and applies it without first checking *which parent* is the one shared will give a false-confident wrong answer on exactly this kind of case.
+Now the case where the same instinct **fails**: distinguishing a half-sister from an aunt when total shared cM sits in the fully-overlapping 1600–2000 cM band. Paternal half-sisters inherit the same paternal non-PAR X copy, subject to the measurement checks above. But that rule is specific to the **paternal** case. In a real documented case where the relationship in question was **maternal** (a much-younger presumed aunt who might actually be a maternal half-sister), the paternal-half-sister X shortcut does not apply — because a mother's X recombines before she passes it on, so an aunt sharing the same mother and a maternal half-sister sharing that mother can both show substantial, non-clean-binary X overlap. A model that applies the paternal shortcut without first checking *which parent* is shared will give a false-confident wrong answer on exactly this kind of case.
 
 What actually discriminates the maternal case, absent a clean X answer:
 
@@ -95,8 +112,8 @@ For each consequential result, record the contributing relatives and markers, un
 ## Prompt-craft (how to keep an assistant honest here)
 
 1. **Ban invented small-segment statistics.** Any false-positive-rate or chance-match number must be attributed to a specific company/study (23andMe 2014, AncestryDNA 2020, FTDNA's Family Finder Matching 5.0) — never a smoothed or averaged figure presented as a universal law.
-2. **Force the parent-of-origin question before any half-sister/aunt-style X-DNA claim.** "Paternal half-sisters share a full X" is airtight only when the shared parent actually is the father — demand that be established first, not assumed.
-3. **Treat X-DNA-consistent-with-inheritance as a veto only, never as confirmation** — a segment that fits the inheritance path can still be misassigned or come from a second true relationship; demand corroboration (documents, "not in common" analysis, or a paper trail) before calling it proof.
+2. **Force the parent-of-origin question before any half-sister/aunt-style X-DNA claim.** Paternal half-sisters inherit the same paternal non-PAR X copy; establish the shared parent and measurement scope before applying that rule.
+3. **Use credible non-PAR X evidence to reject incompatible transmission routes; compatibility alone does not confirm ancestry.** A segment that fits the path can still be misassigned or come from a second true relationship; demand corroboration before attributing it to the proposed ancestor.
 4. **Demand the pair-sex before quoting an X-DNA cM threshold** — male-male, male-female, and female-female carry different pseudosegment risk and therefore different safe floors; a single number without that context is incomplete.
 5. **Never claim "I phased myself, so this small/X segment is now trustworthy."** Phasing is a per-person operation; the match's own (possibly unphased) side still determines whether the shared segment is real.
 6. **Check the mechanical phasing-rule invariant before accepting a visual-phasing chart**: no full-match segment may directly border a no-match segment. A chart or auto-fill that violates this is wrong, not just uncertain.

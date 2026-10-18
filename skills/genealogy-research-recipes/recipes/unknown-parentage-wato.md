@@ -75,13 +75,38 @@ This is the spine. WATO only enters at step 4; everything before and after is hu
 
 Finish with **why the hypotheses remain tied, the most useful next comparison, and the outcome that would favor each**. If no available observation separates them, leave the choice unresolved. Full family inventories and branch/generation sensitivity belong to [ai-for-dna-research](ai-for-dna-research.md#compare-families-across-branches-and-generations).
 
+### Check what the calculation actually evaluated
+
+Trace both tested people's descent to the proposed common ancestor, including
+intervening generations and half/full edges. A person visible in a tree need
+not supply a scored observation. When shared-cM observations to both a matching
+parent and that parent's child are entered, the original WATO FAQ says only the
+parent's observation is used. An untested parent drawn in the tree does not
+replace a tested child's observation. When
+placing an untested ancestor, represent the tested descendant's path in each
+hypothesis; do not score the ancestor as though they supplied the test.
+Other pedigree-aware models need their own route and observation audit.
+
+Preserve the selected people, exact test comparisons, evidence date and
+inclusion rules for the run. A current export cannot reconstruct undocumented
+historical inputs. An unavailable run or component supplies no comparison;
+two missing results do not establish equality.
+
+After new evidence arrives, check whether it changed an input the calculation
+uses. **An unchanged score is not a verdict on new genealogy.** WATO uses
+autosomal total-cM observations. New triangulation may inform ancestral
+attribution without changing those totals; a triad involving the target and
+one confined to comparison relatives answer different placement questions.
+Retain that evidence separately. These are comparison controls, not new WATO
+probabilities. (DNA Painter original WATO FAQ; Kinprove synthesis)
+
 ## Beyond autosomal: Y-DNA, mtDNA, X-DNA as line-narrowing and exclusion tools
 
 WATO scores **autosomal *total* cM only**. **X-DNA is handled separately** (it follows a distinct, restricted inheritance path), and Y-DNA / mtDNA aren't cM-scored at all. Use these as independent tools *around* the autosomal work — they narrow lines and, powerfully, *exclude* them:
 
 - **Y-DNA** — a strong tool for unknown-**father** cases, but only usable when the target *is* male, or when an eligible male relative on the unbroken paternal line (father, brother, paternal uncle, paternal-line cousin) will test. Y-matches *often* cluster by **surname** and can hand you a candidate surname before you have a tree — but not always: NPEs, adoptions, name changes and pre-surname-era ancestry break the surname signal, so treat a surname cluster as a strong lead, not a guarantee.
 - **mtDNA** — traces the **direct maternal** line (mother's mother's mother…). Because mtDNA mutates slowly, a shared maternal ancestor can lie far outside the genealogical timeframe, so an mtDNA **match** is *supportive/consistent-with* a proposed direct-maternal relationship, not confirmation of it. A resolved **mismatch**, however, is a clean *exclusion* of a direct-maternal-line hypothesis.
-- **X-DNA** — its restricted inheritance pattern can **exclude** candidate paths (e.g. a father passes no X to a son), narrowing which ancestral line a shared segment can have come from.
+- **X-DNA** — its restricted **non-PAR** inheritance pattern can **exclude** candidate paths (a father passes no non-PAR X to a son), narrowing which ancestral line a shared segment can have come from. An absent reported match needs the coverage and comparison-scope checks in [X-DNA judgment](xdna-phasing-judgment.md) before it can support exclusion.
 
 ## Named failure modes (the least-obvious, most reusable part)
 
