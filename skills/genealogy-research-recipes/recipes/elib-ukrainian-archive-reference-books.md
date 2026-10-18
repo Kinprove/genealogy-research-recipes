@@ -7,9 +7,9 @@ scope, followed by a usable citation to the actual guide.
 
 ## Retrieve the object behind the catalogue card
 
-Keep the item identifier as text, including leading zeros. The checked example
-`0014010` identifies the Chernihiv archive guide, volume 1, published in 2001. Its
-card supplies bibliographic information and a full-text PDF link. [S1]
+Keep the item identifier as text, including leading zeros. According to its card,
+the checked example `0014010` is the Chernihiv archive guide, volume 1, published
+in 2001; the card also links the full-text PDF. [S1]
 
 Start with the item page, for example:
 
@@ -38,8 +38,8 @@ do not distinguish volumes by themselves. Keep the item ID alongside the volume
 identity so a renamed local file remains traceable.
 
 If extracted cover text is unreadable, inspect the rendered title page or OCR
-that small area. The checked PDF opens while its first-page text extraction is
-garbled: poor extraction alone does not establish a corrupt document. [S2]
+that small area. The checked PDF is accessible, but text extracted from its first
+pages is garbled: poor extraction alone does not establish a corrupt document. [S2]
 Check readable interior pages separately; neither a title guess nor a successful
 download settles the book's identity or completeness.
 

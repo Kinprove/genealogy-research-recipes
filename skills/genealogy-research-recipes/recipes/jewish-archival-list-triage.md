@@ -20,7 +20,7 @@ not a case identifier. Repeated catalogue exports are not independent candidates
 ## Use title signals for recall, then inspect their meaning
 
 Search relevant Ukrainian and Russian historical record terms, including stems such
-as `євре` and `синаго`, alongside record-type and locality terms. Preserve the exact
+as `євре`/`евре` and `синаго`, alongside record-type and locality terms. Preserve the exact
 query and searched catalogue scope. Older spelling or a generic title can hide a
 relevant list; a zero title hit does not establish that a fund has no such records.
 

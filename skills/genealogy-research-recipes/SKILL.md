@@ -37,8 +37,8 @@ authorship does not require a Kinprove account, connector or scoring engine.
   archival guides from ELIB and identify the correct volume, part and fund scope.
   *Use for:* catalogue-card versus PDF confusion, leading-zero item IDs, keyword
   misses, similar volume titles or garbled cover-text extraction.
-  *Core guardrail:* verify the actual book; neither a constructed PDF URL nor a
-  historical guide establishes current case availability or contents.
+  *Core guardrail:* verify the actual book; a constructed URL is a retrieval lead,
+  and a historical guide does not establish current case availability or contents.
 
 - **`recipes/dna-comparison-controls.md`** — Reconcile conflicting vendor or native
   results using exact tests, query controls, local marker coverage and reporting scope.

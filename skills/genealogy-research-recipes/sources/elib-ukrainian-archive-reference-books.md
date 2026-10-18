@@ -9,7 +9,7 @@
 - **S2:** [Full-text PDF linked by that card](https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014010.pdf&IMAGE_FILE_DOWNLOAD=0).
   The PDF was accessible; text extraction from its first pages was garbled.
   The recipe's visual/OCR fallback is a response to that observed extraction
-  limitation, not a claim that all ELIB books have the same encoding problem.
+  limitation, not a claim that all ELIB books have the same extraction problem.
 
 ## Original workflow synthesis
 
@@ -21,6 +21,6 @@ Links cite the guide and metadata; no guide prose or images are reproduced.
 
 ## Credits
 
-- Kinprove — original retrieval and volume-verification procedure (kinprove-original).
+- Kinprove — original retrieval and volume-verification procedure — FSL-1.1-MIT (kinprove-original)
 - Institute of History of Ukraine and the guide's credited editors/publisher —
   bibliographic and source attribution only; their material is not relicensed here.

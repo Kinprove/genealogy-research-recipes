@@ -17,4 +17,4 @@ Jewish lists. No archival case findings are asserted here.
 
 ## Credits
 
-- Kinprove — original archival catalogue-triage procedure (kinprove-original).
+- Kinprove — original archival catalogue-triage procedure — FSL-1.1-MIT (kinprove-original)
