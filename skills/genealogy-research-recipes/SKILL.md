@@ -1,7 +1,7 @@
 ---
 name: genealogy-research-recipes
 description: >-
-  Genealogy/DNA research: unknown parentage and WATO; endogamy, family comparisons, Y/mt/X DNA, phasing and cross-vendor controls; documentary identity, conditional hypotheses, Genealogical Proof Standard and standards audits; archival image/transcript/index coverage; corpus-seeded Jewish-name/OCR searches; Russian-Empire names, registration and emigrant origins; Holocaust testimony and Russian/Soviet military/repression episodes. Platform recipes for Ancestry, MyHeritage, FamilySearch, JewishGen, HebrewBooks, Beider indexes, 23andMe, FTDNA, GEDmatch, DNA Painter, Newspapers.com, Geni, WikiTree and RootsMagic; U.S., Irish and Polish record recovery. Read the relevant recipe before interpreting findings or planning a search.
+  Genealogy/DNA research: unknown parentage and WATO; endogamy, family comparisons, Y/mt/X DNA, phasing and cross-vendor controls; documentary identity, conditional hypotheses, Genealogical Proof Standard and standards audits; archival image/transcript/index coverage, Jewish-list catalogue triage and Ukrainian ELIB guide recovery; corpus-seeded Jewish-name/OCR searches; Russian-Empire names, registration and emigrant origins; Holocaust testimony and Russian/Soviet military/repression episodes. Platform recipes for Ancestry, MyHeritage, FamilySearch, JewishGen, HebrewBooks, Beider indexes, 23andMe, FTDNA, GEDmatch, DNA Painter, Newspapers.com, Geni, WikiTree and RootsMagic; U.S., Irish and Polish record recovery. Read the relevant recipe before interpreting findings or planning a search.
 ---
 
 # Genealogy research recipes
@@ -25,6 +25,20 @@ authorship does not require a Kinprove account, connector or scoring engine.
 4. If no recipe matches, answer normally — don't force-fit.
 
 ## Recipes
+
+- **`recipes/jewish-archival-list-triage.md`** — Select Ukrainian archival cases
+  for named Jewish lists while separating title, geographical and document evidence.
+  *Use for:* false-positive keywords, generic titles, civil-registration fund scope
+  or candidate lists that have been presented as verified contents.
+  *Core guardrail:* a title or locality signal is a retrieval lead; verify the
+  requested named entries and retain uninspected cases explicitly.
+
+- **`recipes/elib-ukrainian-archive-reference-books.md`** — Retrieve Ukrainian
+  archival guides from ELIB and identify the correct volume, part and fund scope.
+  *Use for:* catalogue-card versus PDF confusion, leading-zero item IDs, keyword
+  misses, similar volume titles or garbled cover-text extraction.
+  *Core guardrail:* verify the actual book; a constructed URL is a retrieval lead,
+  and a historical guide does not establish current case availability or contents.
 
 - **`recipes/dna-comparison-controls.md`** — Reconcile conflicting vendor or native
   results using exact tests, query controls, local marker coverage and reporting scope.
