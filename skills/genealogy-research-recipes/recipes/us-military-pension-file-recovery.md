@@ -80,6 +80,12 @@ route, request date/ID, expected scope, received files/images and disclosed limi
 **Check:** “Complete” in a product name is not your image-count or delivery verification.
 Record the actual package and unresolved omissions. Do not claim a request was sent unless it was.
 
+When identifiable prior copies, dated notes or internal references describe particular papers,
+compare them with the newly received package. Queue each unmatched item with its earlier
+locator or observation basis and its current retrieval status. Keep absent testimony unrecovered;
+a note about it does not recreate the document. The [Sarah Cook re-retrieval example](https://dna-explained.com/2023/01/09/sarah-cook-1774-1775-1863-epitome-of-perseverance-52-ancestors-386/)
+motivates this comparison without establishing misfiling or the missing paper's contents.
+
 ## 4. Inventory the pages and reconstruct the claim's sequence
 
 1. Read the received file through once, including covers, administrative notes, rejected claims

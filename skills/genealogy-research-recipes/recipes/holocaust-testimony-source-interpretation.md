@@ -28,6 +28,47 @@ this recipe supplies the source-specific distinctions that must survive that pro
 The last two steps are an extraction worksheet, not a claim about a permanent API schema or
 the present behavior of any search filter.
 
+In a mixed postwar bundle, classify each component instead of inheriting the container's
+“survivors” label or the first document's producer. A component may record deaths, burials,
+relatives' addresses or displaced people. Preserve the stated compiler separately from a
+later forwarding or stamping body and date; a stamp alone does not date compilation. The
+[mixed-list discussion](https://forum.j-roots.info/viewtopic.php?f=26&t=138)
+motivates this check; the underlying components and their individual statements still need inspection.
+
+## Recover the described parts of an original case
+
+If a result opens only part of a list or case, retain the original repository/signature and
+the folios actually inspected. Look for other described digital parts of that same original
+case. Keep the name-record ID, archive item, JM/film key, original list/page/entry and viewer
+image number separate; similar or adjacent IDs establish neither page order nor identity.
+For an unavailable part, prepare the exact title/language/signature and missing extent for
+the actual holder's supported request route. The [forum's partial-list examples](https://forum.j-roots.info/viewtopic.php?f=26&t=1196)
+motivate this handoff, without establishing current access or a universal holding repository.
+
+Before seeking another part, identify what moved and why the record was created: evacuated
+people or archival documents, an arrival/card record or a later damage claim. Compare the
+original-language title, place, date and actual film signature boards. Where descriptions
+identify overlapping district-letter volumes or mixed-region units, retain the precise part
+inspected rather than treating one missing segment as loss of the whole case. The
+[evacuation-source discussion](https://forum.j-roots.info/viewtopic.php?f=197&t=1199)
+motivates these source-class checks without establishing present scan availability.
+
+## Recover separated evacuation household cards
+
+Inspect the actual card's front and reverse before interpreting a derived “with children”
+tag. Where supplied, retain the original list number, page, person serial and explicit
+relationship; use those coordinates to seek separated head/member cards. Alphabetical card
+order and adjacent database IDs do not supply family order. Use recorded addresses and
+attested surname alternatives as additional retrieval keys, preserving competing heads,
+ambiguous roles and missing serials. The same discussion motivates this household crosswalk;
+original coordinates or proximity alone do not establish kinship or complete household survival.
+
+For a compilation covering several regions or source lists, keep the region and source-list
+reference with each row/family counter. Identical counters across lists do not join households.
+Preserve original entries, compiler corrections and oral accounts as separate attributed
+statements. The [regional compilation example](https://forum.j-roots.info/viewtopic.php?f=197&t=12365)
+motivates this qualification of the household crosswalk; underlying records still need inspection.
+
 ## Keep dated observations distinct from final fate
 
 Build one row per statement, including contradictory submissions:

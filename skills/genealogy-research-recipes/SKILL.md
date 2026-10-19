@@ -1,7 +1,7 @@
 ---
 name: genealogy-research-recipes
 description: >-
-  Genealogy/DNA research: unknown parentage and WATO; endogamy, family comparisons, Y/mt/X DNA, phasing and cross-vendor controls; documentary identity, conditional hypotheses, Genealogical Proof Standard and standards audits; archival image/transcript/index coverage, Jewish-list catalogue triage and Ukrainian ELIB guide recovery; corpus-seeded Jewish-name/OCR searches; Russian-Empire names, registration and emigrant origins; Holocaust testimony and Russian/Soviet military/repression episodes. Platform recipes for Ancestry, MyHeritage, FamilySearch, JewishGen, HebrewBooks, Beider indexes, 23andMe, FTDNA, GEDmatch, DNA Painter, Newspapers.com, Geni, WikiTree and RootsMagic; U.S., Irish and Polish record recovery. Read the relevant recipe before interpreting findings or planning a search.
+  Genealogy/DNA research: unknown parentage and WATO; endogamy, family comparisons, Y/mt/X DNA, phasing and cross-vendor controls; documentary identity, conditional hypotheses, Genealogical Proof Standard and standards audits; archival image/transcript/index coverage, Jewish-list catalogue triage and Ukrainian ELIB guide recovery; corpus-seeded Jewish-name/OCR searches; Russian-Empire names, registration and emigrant origins; Holocaust testimony and Russian/Soviet military/repression episodes. Platform recipes for Ancestry, MyHeritage, FamilySearch, JewishGen, HebrewBooks, Beider indexes, 23andMe, FTDNA, GEDmatch, DNA Painter, Newspapers.com, Geni, WikiTree and RootsMagic; U.S., Irish and Polish record recovery, including livestock marks and brands. Read the relevant recipe before interpreting findings or planning a search.
 ---
 
 # Genealogy research recipes
@@ -370,12 +370,12 @@ authorship does not require a Kinprove account, connector or scoring engine.
   *Core guardrail:* verify actual access and quantity scope; keep shared-list
   membership, matching intervals, ancestry estimates and documentary identity separate.
 
-- **`recipes/ftdna-practical-dna-workflows.md`** — Five FTDNA workflows for paired
+- **`recipes/ftdna-practical-dna-workflows.md`** — Eight FTDNA workflows for Matrix observations, paired
   match/segment exports, duplicate-name joins, MyHeritage tree links, Family Matching
-  and public Y-DNA Group Time Tree view packets.
+  and public Y-DNA Group Time Tree, supplied Globetrekker map or two-label comparison packets.
   *Use for:* Family Finder CSV scope, opaque note handles, selected-match segment files,
   transferred links that need confirmation, dated parental-bucket inventories,
-  subgroup selections, branch estimates, hidden details or authorized project-display checks.
+  subgroup selections, branch estimates, obscured map nodes, hidden details or authorized project-display checks.
   *Core guardrail:* reconcile export scope before joining; hold out ambiguous names;
   confirm each tree link and preserve observed vendor assignments separately from pedigree proof.
   A selected Group Time Tree view has its own scope; missing or withheld details

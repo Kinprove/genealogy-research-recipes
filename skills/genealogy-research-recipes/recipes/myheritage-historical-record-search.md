@@ -183,6 +183,16 @@ For a death or unusual incident, search later issues and other local papers: the
 precede a fuller obituary or correction. Preserve newspaper title, publication date, page and a
 full-page copy when available, alongside any clipping. Copied reports are not independent witnesses.
 
+### Use supplied tree-event geography as a search worklist
+
+When a tree-event map or locality list is available, retain its person/branch, event-type
+and date scope before choosing a place. Open the underlying people/events and preserve
+their references. Use that scoped list to choose the next locality and record series,
+keeping uncertain locations and their source support visible. A shared pin establishes
+neither residence nor kinship. The [MyHeritage demonstration](https://www.youtube.com/watch?v=0v0fbjil9W8)
+illustrates this planning use; apply the controls actually available rather than assuming
+a current map widget or export.
+
 ### 14. Turn an index-only hit or automated match into a retrievable lead
 
 If no image is supplied, save the collection citation, originating institution, reference number,

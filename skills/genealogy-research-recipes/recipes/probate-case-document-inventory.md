@@ -35,7 +35,19 @@ case number, candidate related cases, relevant series, coverage and present cust
 **Check:** A collection title or same name is not a case link. Record the stated connection
 between a related proceeding and the principal case, or leave that connection unresolved.
 
+Treat names on a case wrapper as a finding aid, not an exhaustive person index. When
+independently supported locality, family and time context justifies inspecting that case,
+define the internal packet scope rather than restricting it to wrapper-name matches.
+Inspect the available documents within that scope, recording the actual person/event
+each concerns and the extent still uninspected. [Historical demonstration](https://www.youtube.com/watch?v=1FEjeMA41eg).
+
 ## 2. Resolve every discovered reference into its own inventory row
+
+If the packet has a coded document key, locate the collection's actual master legend before
+decoding it. Keep both locators and compare the listed components with inspected documents;
+distinguish listed-but-unseen parts from inspected parts absent from the key. The
+[probate-key example](https://familylocket.com/part-6-pennsylvania-germans-probate-records/)
+illustrates this check. A contents key does not certify complete survival or inspection.
 
 1. Read the starting record for references to another volume, page, docket, journal or file.
 2. Enter each reference in a queue exactly as written, including the record series and book number.
@@ -85,6 +97,13 @@ results and reasons for each extension.
 **Check:** A later recording date is not a later death date. Finding a settlement several years
 after death demonstrates the need for that case's wider search; it supplies no universal deadline.
 
+If an account or receipt describes an administrator's journey, retain the actor, role,
+date, destination and stated purpose. Use that purpose to nominate a bounded related court,
+land-office or transaction-record question in the existing queue, even without a book/page
+citation; establish the actual series and custodian before retrieval. The [administrator-itinerary example](https://dna-explained.com/2023/07/16/new-information-about-philip-jacob-miller-c1726-1799-and-magdalena-possibly-rochette-c1730-1800-1808-52-ancestors-404/)
+motivates the lead. The administrator's destination does not establish the deceased person's
+residence, property, service or another estate proceeding.
+
 ## 4. Reconcile retrieval coverage and hand off interpretation
 
 1. Sort document rows by the dates of the recorded actions while preserving the original
@@ -104,6 +123,42 @@ after death demonstrates the need for that case's wider search; it supplies no u
 
 **Check:** “Will found,” “document packet retrieved” and “relationship established” describe
 different outcomes. State only the outcome the packet supports.
+
+## Optional: recover a reported opinion about the estate
+
+1. When a search or secondary account supplies an estate-related opinion lead, save the exact
+   query or source locator and the context that surfaced it. Copy the case name and citation
+   as supplied, preserving the stated jurisdiction, reporter, volume and page. Leave missing
+   citation components unresolved.
+2. Use those citation components to locate the full opinion in an available reporter or
+   legal-text collection. Save its locator and the pages actually inspected. Record whether
+   you have only an article, a citation/listing, a headnote/summary, or the full opinion text;
+   if the full text is unavailable, retain the citation and a specific next action.
+3. Read the retrieved opinion for references to wills, deeds or other estate instruments.
+   Enter each reference in the existing §2 queue as a separate, initially uninspected target,
+   linked to the citing opinion and its wording. Retrieve and check each instrument separately;
+   discussion of a deed or will in an opinion does not retrieve that instrument. Use the
+   [land-record recovery workflow](land-index-book-series-recovery.md) for queued deeds.
+4. Preserve the opinion's stated court separately from the estate-record court; one does not
+   establish the other. Keep the opinion-to-estate/person link and each instrument's identity
+   state separate from retrieval status. Reconcile the added rows through §4 and send unresolved
+   identity links to the [evidence/proof workflow](evidence-proof-judgment.md). [S4]
+
+**Artifact:** An opinion-lead record with literal search/source context, the supplied citation,
+full-text retrieval/inspection status, and separate linked instrument targets in the existing queue.
+
+**Check:** An article, search listing, headnote or AI explanation is not inspected opinion text.
+Do not fill an unseen opinion or instrument with facts from a summary.
+
+## Optional: recover copied proceedings from an appeal
+
+When a relevant lower-court file is missing and an appeal is evidenced, check the described
+appellate archival packet as a separate target from the published opinion. Its catalogue may
+use a next friend, administrator or another litigant. Inventory transmitted pleadings,
+depositions or a judicially reconstructed will with their own locators and record forms;
+keep them distinct from the absent original. The [Dobkins appeal-copy example](https://dna-explained.com/2022/09/26/why-was-old-man-jacob-dobkins-will-fraudulently-secreted-concealed-and-destroyed-52-ancestors-375/)
+motivates this fallback, without establishing current custody, a complete packet or the
+participants' final outcome after appeal or remand.
 
 ## Prompt pattern
 

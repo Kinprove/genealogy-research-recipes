@@ -32,6 +32,20 @@ Before interpreting GD, retain the tested panel, the level compared, the reporte
 
 The honest output is a **resolution-dependent probability distribution**, which is exactly what FTDNA's **TiP report** (Y-37/Y-111, plus legacy Y-67) and **Match Time Tree** (Big Y-700) produce. Concrete shape: a real TiP estimate of "common ancestor born **1500–1850**" contained the documented truth (**1798**) inside the range; the vendor's single "1650"-type figure is just *the mean of a wide band*, not an answer. (FTDNA, 2026-03; GeneaVlogger, 2026-06)
 
+For an authorized legacy paper result, retain the report and its tester, laboratory, assay
+and panel beside any manual reconstruction. Check each available marker label and value
+against that source before using an offered entry/import route; leave unreadable or unmapped
+fields unresolved. Date and attribute the reconstruction: it represents the old assay, not a
+new test or independent confirmation. The [paper-result recovery example](https://familylocket.com/recreating-a-y-dna-surname-project-at-mitoydna-org/)
+does not supply a current import format or a cross-laboratory conversion.
+
+For several kits, retain the full STR table and make a separate working view of comparable
+marker columns with observed differences. Carry kit/locus labels, panel coverage and unresolved
+or multicopy calls; a missing call is not an observed equality or zero allele. Use that view
+to nominate a locus or source discrepancy for checking. The [difference-view example](https://www.yourdnaguide.com/ydgblog/ydna-for-genealogy)
+supplies the filtering action; the view does not root a tree, count mutation events or identify
+a father or MRCA.
+
 - **Trust / route:** the TiP report or Match Time Tree, quoted **as a range that widens at lower marker counts**. Recommend upgrading Y-37→Y-111→Big Y-700 to *narrow* it.
 - **Never:** a self-computed point estimate, or treating the vendor's midpoint as the relationship.
 
@@ -108,6 +122,18 @@ The output is **tester → documented path → test/tree → SNP → reported st
 - **Third-party autosomal-derived haplogroups aren't Y/mt tests.** A haplogroup inferred from autosomal raw data is high-level and can be **thousands of years off** the tester's true paternal-line MRCA — don't treat it as equivalent to an actual Y-DNA/mtDNA result. (GeneaVlogger, 2025-09/2026-04)
 - **Phylogenetic trees and migration maps are tester-dependent.** Branch definitions and dates differ between platforms, and geography tools (e.g. Globetrekker) mislead when few relevant men have tested — more testers can substantially shift the inferred geography. Never present the current tree as fixed truth. (GeneaVlogger, 2026-05; DNAeXplained, 2026-05)
 - **mtDNA is a weak genealogical instrument by design** — slow mutation, fewer testers, wide match ranges. Great for *eliminating* a direct-maternal-line hypothesis, poor for *pinning* a relationship.
+
+## Build a maternal pedigree and locality worklist
+
+For each selected mtDNA match, place the reported earliest maternal ancestor beside the
+direct-maternal pedigree actually inspected, with sources and unresolved links. Keep
+ancestral location, tester residence and name/email guesses distinct; leave the ancestral
+country unknown without maternal-line evidence. Turn missing links or locations into a
+specific record search or proposed manager question. A separately documented all-maternal
+branch can help distinguish the maternal hypotheses; the match does not identify a mother.
+The [Dorcas Johnson](https://dna-explained.com/2022/05/08/dorcas-johnsons-mitochondrial-dna-secret-revealed-52-ancestors-357/)
+and [Sarah Rash](https://dna-explained.com/2022/05/22/sarah-rashs-and-perhaps-mary-warrens-mitochondrial-dna-52-ancestors-359/)
+examples motivate this documentary worklist, without adding a GD ranking or geographic verdict.
 
 ## Combining tests: establish which ancestral path each supports
 

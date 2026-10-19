@@ -25,6 +25,10 @@ The worksheets below work with manually read images or copied index rows.
    residence, boarding or occupational abbreviations.
 5. Mark an inaccessible edition or uninspected section separately from an inspected section
    with no matching entry. [S2, S3, H1]
+6. For a former-resident directory, read the foreword to identify the addresses' roles.
+   The 1949/50 Breslauer Adressbuch lists later addresses of former Breslau residents but
+   orders entries by earlier street and house number. The ordering address is a lookup key;
+   do not record it as residence in the titled city at publication. [S4]
 
 **Artifact:** One coverage row per edition and relevant section:
 repository, directory title, edition year, locality/section, available/access status,
@@ -35,8 +39,13 @@ repository's copy of that same volume supplies another access route, not another
 
 ## 2. Extract comparable rows without importing the index's mistakes
 
-1. Locate the surname group or candidate entry. If the name index fails, browse the relevant
-   alphabetical section and compare the printed entry with its indexed name.
+1. Locate the surname group or candidate entry using the volume's actual arrangement.
+   If the name index fails, browse a relevant alphabetical section only when one exists,
+   and compare the printed entry with its indexed name. For a former-resident list, use
+   the former street/house as a lookup key only when the foreword or heading confirms
+   that ordering and the former address is available. If the required key is unknown
+   and no usable index supplies another route, leave the entry unlocated and record
+   the lookup as unresolved. Do not invent an alphabetical or DES route. [S3, S4]
 2. Copy the entry as printed, including initials, spouse wording, occupation and address when
    present. Preserve uncertain readings. Keep any normalized name in a separate column.
 3. If copying a site's tabular index into a spreadsheet, take the header once, paste subsequent
@@ -60,8 +69,17 @@ repository's copy of that same volume supplies another access route, not another
 | Locator | Repository/collection, volume, printed page, image link/number |
 | Candidate group | A provisional identifier; leave competing groups separate |
 
+For entries in a former-resident list, add these columns only where that structure applies:
+
+| Field | Preserve |
+| --- | --- |
+| Former address / ordering key | Earlier street and house number as printed in the row or its heading, with locator |
+| Later address as reported | Later address/place as printed, including care-of or household wording |
+| Address-role and time basis | Foreword/heading locator, dates actually stated, and unresolved roles or dates |
+
 **Check:** Do not import an index field as printed evidence when the image says something else.
-An edition year labels the observation; it does not by itself establish an exact move date.
+An edition year identifies the volume; it does not by itself establish a residence date for
+each printed address or an exact move date. Keep an unstated time basis unknown. [S4]
 
 ## 3. Sort the series into questions you can investigate
 
@@ -75,12 +93,29 @@ An edition year labels the observation; it does not by itself establish an exact
    relevant street and nearby entries. Record those observations separately.
 6. Create a question for each change or competing group, with the row IDs that caused it.
    A recurring name, occupation or address is a comparison clue, not an automatic merge. [S1, S2]
+7. For a located former-resident entry with a reported later locality, use that place for
+   one bounded follow-up, such as a later directory or a relevant civil-register search there.
+   Keep it as a source-attributed lead; it does not establish a move at the edition date. [S4]
 
 **Artifact:** The observation table, saved sort/filter criteria, provisional groups and a
 worklist such as “retrieve a record linking observations D07 and D12.”
 
 **Check:** Sorting preserves each row's year, source and raw wording. A group assignment remains
 provisional until the records support that person's identity.
+
+For a supported same-block or building question, retain each literal building and unit number,
+including fractional addresses. Compare dated street/reverse entries and stable-neighbor
+context before choosing between a move, unit conversion, renumbering or an erroneous entry.
+Keep the proposed correspondence provisional until supported; do not silently correct numbers.
+The [old-home address example](https://dna-explained.com/2023/04/09/finding-the-old-home-place-with-zillow-52-ancestors-394/)
+motivates the comparison without proving occupancy, identity, a conveyance or renumbering.
+
+If an inspected auxiliary section labels a land-register reference, preserve its heading,
+locality, street/house wording and land number separately. Carry the stated reference into
+the [land-index/book-series workflow](land-index-book-series-recovery.md); house, parcel and
+land-register numbers are different roles. [CompGen's directory example](https://www.compgen.de/2023/02/adressbuch-mit-unerwartetem-inhalt-entdeckt/)
+identifies such a section, but its missing illustrated table does not establish fields in
+another volume or prove ownership.
 
 ## 4. Describe gaps before assigning events to them
 
@@ -103,5 +138,6 @@ results. Neither alone establishes why the person is missing.
 > Using these directory images, edition descriptions and earlier worksheet rows, produce the
 > coverage sheet and observation table above. Preserve printed names and abbreviations, identify
 > which section and year each row belongs to, and show corrections to index fields separately.
+> For former-resident lists, retain the earlier/ordering and later-address roles separately.
 > Group candidates provisionally, keeping alternatives. Explain each gap using the recorded
 > coverage, then give one bounded next search. Do not infer a move or death from a missing row.

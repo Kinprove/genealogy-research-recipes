@@ -96,6 +96,13 @@ not evidence that the person lacks a death record.
 See [How to Search](https://help.ancestry.com/hc/en-us/articles/53933305561747-How-to-Search-Ancestry)
 and [Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips).
 
+If a candidate's reported surname differs from the hypothesized biological family's surname,
+keep the reported name as the record subject. Test the other surname as an associate/keyword
+clue only where the collection exposes a suitable field; retain supported place/year bounds.
+Inspect the full recovered record and its explicit parent, step-parent or other role before
+resolving the name-change or kinship hypothesis. The [subject-name/keyword example](https://whoareyoumadeof.com/blog/close-dna-match-how-to-figure-out-your-relationship/)
+supports this retrieval tactic, not its narrated identity or fixed cM exclusions.
+
 ### 7. Relax the place level and age separately
 
 **Trigger:** an exact city or birth year eliminates otherwise plausible candidates.
@@ -183,6 +190,15 @@ not a rule for every census. Follow any "see sheet / line" reference on the
 original schedule and check informant footnotes when a neighbor supplied the
 household information. See [NARA's 1950 FAQ](https://www.archives.gov/research/census/1950/faqs).
 
+### Check the extent of a selected application packet
+
+Read the collection's front matter before treating selected pension/bounty papers as a
+complete application. Follow the identified applicant and packet boundary into additional
+components actually offered; record which papers were inspected and what remains outside
+that extent. Preserve the packet locator alongside the individual image locators.
+The [selected-papers demonstration](https://www.youtube.com/watch?v=2TlWZ0KvbxU) supplies this
+extent check, not a guarantee about present collection coverage or access.
+
 ### 12. Carry the original locator beyond Ancestry
 
 **Trigger:** Ancestry has an index entry without an image, a Web Records pointer,
@@ -201,6 +217,19 @@ browse. Do not reuse that locator shape unaltered for the household schedules of
 1911 or 1921. When a whole locality is missing, check the original archive's
 coverage documentation before continuing name permutations.
 See [The National Archives census guide, sections 10–11](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/).
+
+## Find a researcher or locality helper
+
+If the next lookup needs a helper and a member directory/profile is available, distinguish
+research-interest surname, ancestral place and period from the researcher's current
+location and declared help or skills. Check whether a period describes family presence
+in a place or an individual's lifespan before using it as a search constraint.
+Inspect candidate profiles and return their locators, stated interests/help and relevance
+to the lookup. Label them as helper candidates; willingness and competence remain unverified.
+
+These field roles come from [Ancestry's 2012 member-profile demonstration](https://www.youtube.com/watch?v=KRz3hK3KZWc).
+Use fields actually exposed in the available view; the demonstration does not establish
+that the historical directory or its controls are available in the current account.
 
 ## Prompt-craft and search log
 

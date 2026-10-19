@@ -55,6 +55,12 @@ This is the spine. WATO only enters at step 4; everything before and after is hu
 - **Coverage is real: different relatives inherit different segments.** Testing several relatives of the same generation, and asking key matches to share their *full* match list (Ancestry "Collaborator" access), surfaces relevant matches that don't overlap your own DNA at all. A short research summary + a connection diagram makes matches far likelier to share. (Family Locket, 2026-02-12)
 - **Don't over-collect.** Match counts in resolved cases often cluster in the high single digits; more matches from the *wrong* branch resolve nothing. Add matches deliberately to confirm a specific branch, not to bulk up. (Family Locket, 2024-03-18)
 
+For a willing recipient, an optional source-linked progress brief can show the original
+objective, actual findings, represented and still-missing child branches, and the specific
+contribution being requested. Keep a private identity key separate from a redacted report or
+connection diagram. The [test-taker recruitment example](https://familylocket.com/rlp-204-recruiting-test-takers-for-an-autosomal-dna-project/)
+motivates this preparation; a private document can provide the same context as a website.
+
 ## When two hypotheses survive: decide what would separate them
 
 **Diagnose the tie before adding testers or removing inconvenient matches.** Keep the same candidate set, people, cM measurements, probability model and age assumptions while comparing the two explanations.

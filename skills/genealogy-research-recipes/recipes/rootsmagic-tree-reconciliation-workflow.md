@@ -45,6 +45,29 @@ intended_sharing_scope`.
 **Checkpoint:** the backup can be located, the media preservation method is explicit and
 the receiving tree/profile is named before the first mutation.
 
+### Prepare a scoped working database
+
+If a separate database is needed, define each selection by its source person reference,
+ancestor/descendant direction and any parent/spouse inclusion options actually offered.
+Inspect the resulting people and save the selection separately, keeping the master intact.
+Before combining selections, crosswalk their source person references: overlapping
+ancestors or descendants mean selection sizes cannot be added as unique-person counts.
+Keep unresolved matches separate, then inspect the working database's people,
+relationships, facts, sources, notes and media before using the transfer steps below.
+
+The [2012 splitting/combining demonstration](https://www.youtube.com/watch?v=KrdQXvtP0yE)
+illustrates selection and overlap in Family Tree Maker; use the installed application's
+available controls when applying that logic to a RootsMagic working database.
+
+### Choose the intended export snapshot
+
+If a hosted service offers both the originally uploaded GEDCOM and a newly generated
+export of its edited tree, choose the version needed for the task. Record the tree and
+snapshot/date; retain the historical upload separately rather than treating it as current
+research. Apply the person/object checks below to the chosen output. The
+[GEDCOM-transfer demonstration](https://www.youtube.com/watch?v=5qSnG6ENAr8) distinguishes
+these choices; it supplies no universal export control or complete-backup guarantee.
+
 ## 2. Map the actual people before comparing facts
 
 1. Map each RootsMagic record to the intended Ancestry profile and FamilySearch PID.
@@ -75,6 +98,11 @@ An unresolved identity blocks transfers for that pair.
    existing value may have to be replaced rather than preserved as another event. [H2]
 3. Record `accept`, `defer` or `already_equivalent`, the direction, source basis and
    proposed add/update operation. Keep both competing values and the reason when deferring.
+   For custom facts, map the type definition separately from the event instances using it.
+   Inspect the destination's actual date/place/description fields, roles, sentence templates
+   and output/privacy options where applicable; keep unmapped or uninspected behavior as an
+   exception. Copying an instance does not verify its definition or resulting visibility.
+   The [custom-facts demonstration](https://www.youtube.com/watch?v=0X9R-Mz9rvA) shows the distinction.
 4. Review sources separately from facts. FamilySearch Sources supports source copying and
    association changes; WebTag URLs are mapped across this transfer. Inspect the citation
    details and the fact/relationship association instead of relying on source counts. [H3]

@@ -60,6 +60,14 @@ Use this when the question is **how two families connect**, including several re
 
 Keep research priority separate from statistical support. Finish with **the leading research hypothesis, its material limitation, and the next discriminating check**; put the pair matrix and sensitivity details in a supporting artifact. Existing authorization to inspect a dataset covers the necessary bounded reads; keep hypothetical analyses separate from edits to the real tree and respect the user's stated mutation limits.
 
+Build the comparison roster from the union of the selected relatives' own source-labelled
+match shortlists, rather than only the focal tester's largest match in each descendant branch.
+Deduplicate repeated person/kit entries while retaining distinct assays, which tester nominated
+each candidate and unavailable pairs. Then apply the same family and pair controls above.
+The [relative-shortlist example](https://familylocket.com/rlp-206-proving-a-parent-child-link-using-ancestry-thrulines-part-3/)
+supplies this selection tactic; several relatives nominating one candidate do not create
+independent confirmations or waive WATO's assumptions.
+
 ### Fictional worked comparison
 
 All people and measurements here are invented. Ada, Boris and untested Dorian are full siblings; Irma is their tested mother. Celia is Dorian's tested daughter. In the other family, tested Mara, Niko and Owen descend from the candidate couple Ezra–Mina through three different children. Dana is Mara and Niko's tested child and therefore reaches Ezra–Mina by two paths. Mara has two vendor kits, A and B; use A consistently below and retain B as an alternative measurement.
@@ -80,6 +88,39 @@ A candidate connecting Irma to Ezra–Mina must place Ada, Boris and Dorian one 
 **Handoff:** The Irma–Mara connection merits investigation, but its ancestral source and the connecting pedigree remain unresolved, with incomplete counterpart-branch coverage. Verify transmission of the overlapping tract using the available family kits, then use a documented counterpart branch or records that distinguish the surviving family hypotheses. This is a research priority, not a probability or proof of parentage.
 
 **When the data are partial:** another fictional pair has an imported total of 96 cM over 12 segments, an empty imported segment view, an older report of a 16 cM longest segment, and no effective-filter metadata. Keep the imported total labeled with its stated scope; request the matching segment report and settings within the authorized read scope. Do not splice in the older 16 cM value, infer that raw segments are absent, compute a filtered total, or call the total autosomal if its chromosome scope is unknown. The handoff is “segment-based priority unresolved; obtain a comparable report.”
+
+## Reconcile supplied relationship-predictor outputs
+
+Keep the exact pair, provider/version, input quantity and any ages actually used with each
+supplied result. Compare equivalent relationship groups: a grouped prediction and a specific
+age-conditioned label have different resolution. If the relationship is independently
+documented, record whether it is included and its reported probability, including omission;
+otherwise report disagreement only. Omission is not biological exclusion, and related models
+do not supply independent confirmations. The [predictor comparison](https://thednageek.com/the-award-for-best-relationship-predictor-goes-to/)
+motivates manual output reconciliation, not a reproduced benchmark, ranking or calibration claim.
+
+If the supplied comparison spans a probability/model revision, preserve the dated original
+outputs and separate the versions. Where available and authorized, compare the same retained
+inputs under the revised version; otherwise mark earlier rows unavailable for that comparison
+while retaining them in the research record. Do not pool them as an unchanged model.
+The [reported mid-comparison revision](https://thednageek.com/the-relationship-predictor-comparison-a-first-peek/)
+supplies this trigger, without authorizing a new benchmark or establishing a provider ranking.
+
+When comparable supplied mismatches repeatedly centre on one person, audit the entered
+generation and parent/spouse paths against documents before interpreting a biological
+discrepancy. Correct only a supported input error, retain the old inputs/results and correction
+basis, and compare the revised version separately. Do not edit a pedigree to improve fit or
+adopt a model's SD/trial count as a universal threshold. This applies the
+[person-centred input example](https://thednageek.com/power-up-your-dna-analyses/) within the
+existing coherent-placement and baseline rules above.
+
+Before interpreting a supplied two-tester relationship view, check that its stated input
+contract fits the proposed pedigree. The [Shared cM example](https://www.yourdnaguide.com/ydgblog/shared-cm-project)
+requires both testers to have the same genealogical relationship and generational offset to
+the mystery person. Retain each actual pair measurement, including a reported zero distinct
+from unavailable or below-floor data. A zero-to-one plotting workaround belongs only in a
+labelled display copy; it cannot replace the measured zero in evidence or likelihood inputs.
+This input check supplies neither a joint probability model nor a biological exclusion.
 
 ## Prompt-craft that practitioners found works (the reusable core)
 
@@ -112,3 +153,8 @@ A candidate connecting Irma to Ezra–Mina must place Ada, Boris and Dorian one 
 
 - Every AI-produced claim → **verify against the relevant evidence** — prefer *original* records and *primary* information where available, and correlate independent sources — before it enters a tree or report. Use AI to *think faster*, never to *decide*.
 - **De-identify before you share data with any third-party tool, not just before publishing.** Strip direct identifiers before pasting a third party's DNA or match list into a cloud AI (or any external tool) — though raw DNA is inherently re-identifiable, so this is *pseudonymization*, not true anonymization. **Get the person's consent before processing their genetic data — make it a default, not a step you weigh** (it's the community norm, and legally required in many places). De-identify living individuals in anything public as well.
+
+Inspect the actual calculation, table or screenshot intended for the recipient: masking names
+in a tree view need not mask generated output. Keep the private original and the separately
+redacted derivative distinct. The [dated Banyan output example](https://www.yourdnaguide.com/ydgblog/banyandna)
+supplies this verification trigger; it does not validate current controls or anonymity.

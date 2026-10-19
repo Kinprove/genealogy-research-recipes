@@ -44,6 +44,13 @@ every window states which record supports it. Stop treating the years as a
 contradiction once they demonstrably describe different journeys.
 [NARA AR-2 guide](https://www.archives.gov/research/immigration/alien-registration-ar-2)
 
+When an immigrant-community church admission or transfer entry names a previous parish,
+retain that literal field, date and locator as a separate journey clue. It may identify a
+transit or port parish rather than birthplace. Compare independent birthplace evidence and
+collateral relatives' stated localities before choosing a natal family. The
+[Scandinavian-immigrant example](https://familylocket.com/rlp-202-researching-scandinavian-immigrants-with-jenny-hansen/)
+motivates this place-role check without guaranteeing a field or identifying the family.
+
 ### 2. Diagnose the collection before expanding the query
 
 **Trigger:** a New York or Ellis Island search fails, or a portal's name is
@@ -187,6 +194,12 @@ naturalization database has no result.
 3. Search court minutes and related local holdings when a dedicated
    naturalization series is absent. Look for declarations, admission/oath
    entries and attachments, not only a certificate.[12]
+4. Follow the located proceeding through available continuances to its final
+   admission, dismissal or other order; retain the order's locator and date.
+   Report that proceeding's outcome separately from filing or hearing notices.
+   A dismissed petition still has a useful packet; leave later or other
+   proceedings unresolved. The [final-order example](https://familylocket.com/back-to-the-basics-with-naturalization-records-part-3/)
+   motivates this check without adopting its inconsistent dates or ultimate status narrative.
 
 **Output:** a court packet, or a court-by-court recovery queue. **Check:** first
 papers are not completed naturalization. NARA generally holds declarations

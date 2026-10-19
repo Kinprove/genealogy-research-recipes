@@ -38,6 +38,7 @@ printed sheet/page number are separate fields.
 | 7: event lead | `person_as_recorded, census_year, source_locator, field_heading, reported_value, calculation, derived_search_window, proposed_event, conflict, corroborating_locator, next_search` |
 | 8: mortality entry | `person_as_recorded, source_locator, death_month_literal, stated_reporting_window, inferred_death_year, inference_basis, household_reference_literal, population_locator, identity_comparison, conflict` |
 | 9: identity chain | `candidate_link_id, earlier_person_literal, earlier_locator, later_person_literal, later_locator, surname_observations, household_comparison, corroborating_document_locator, enslavement_evidence_status, link_status, next_record` |
+| 10: agricultural entry | `candidate_id, census_year, source_locator, operator_literal, population_candidate_locator, identity_link_basis, printed_line_and_continuation, column_heading, answer_literal, unit, land_record_question, unresolved_conflict` |
 
 For search and coverage outcomes distinguish `not_searched`, `searched_no_candidate`,
 `candidate_found`, `inaccessible`, `incomplete`, and `illegible`.
@@ -57,6 +58,7 @@ For extracted answers distinguish `answered`, `explicit_no`, `blank`, `not_asked
 | You need missing children or a marriage period | 7. Extract family-event leads | Event hypotheses and targeted record searches |
 | Someone may have died before enumeration | 8. Search mortality schedules | Death-window and household correlation |
 | A formerly enslaved family changes surnames | 9. Track the family group | Candidate identity chain across censuses |
+| A population entry or other evidence suggests a farm | 10. Follow agricultural schedules | Linked entry, literal quantities and land-record question |
 
 ## 1. Recover a missing household by changing the search anchor
 
@@ -246,3 +248,24 @@ For extracted answers distinguish `answered`, `explicit_no`, `blank`, `not_asked
 **Example prompt:** “Compare these households while allowing surname changes. Rank proposed person links using the entire family group, keep slavery-status claims separate, and specify what named records would establish each link.”
 
 **Method origin:** Family Locket explicitly discusses surname changes, family-group and age comparison, voter registrations, and the limitations of slave schedules. Its dataset announcements are not treated as currently verified access instructions. [S11](https://familylocket.com/tracing-the-enslaved-in-the-1900-u-s-census-and-enslaved-org-project/)
+
+## 10. Follow a farm lead into an agricultural schedule
+
+**Use when:** A population entry names a farmer/planter, or other evidence supports a farm.
+
+1. Check survival and actual coverage of agricultural schedules for the year and locality.
+   Search supported name variants and inspect the image, including ambiguous indexed initials.
+2. Compare the named operator and locality with the population candidate. Record the identifying
+   evidence and conflicts; a similar name or position in the list leaves the link unresolved.
+3. Read the printed headings and follow the entry across continuation pages using the printed
+   line/page references. Preserve each answer with its heading and unit, including acreage,
+   values, livestock or production only where actually asked and answered.
+4. Use the observations to form a specific [land-record search](land-index-book-series-recovery.md).
+   Farm operation and reported value alone do not establish title, kinship or an identified parcel.
+
+**Output:** An agricultural-entry row using the census locator above, the population candidate,
+link basis, continuation references, literal quantities/units and remaining land-record question.
+
+**Method origin:** [BYU's population-to-agricultural example](https://www.youtube.com/watch?v=CXe0BbBtKME)
+demonstrates an indexed-initial error, a second-page line reference and a deed-search lead.
+Its examples do not establish universal year coverage or independently verify ownership.

@@ -75,6 +75,13 @@ Keep the dates separately:
 **Check:** An unread inscription, missing date or unverified conversion stays unknown. The
 packet records the source statements and does not select a final death date. [P1, O1]
 
+If a source reports reinterment or a replacement marker, retain original burial, reported
+transfer and later marker installation as separate source-linked events. Keep original and
+present cemetery/plot locators separately; seek the relocation or register evidence for an
+unresolved transfer. A new marker does not date the burial or identify the remains. The
+[George Estes dedication example](https://dna-explained.com/2023/09/19/calling-all-descendants-of-george-estes-1763-1859-youre-invited-to-his-revolutionary-war-grave-dedication-52-ancestors-410/)
+motivates this event chain without independently verifying the reported relocation.
+
 ## 4. Carry the hit to the plot and cemetery records
 
 Save the cemetery's name, address, section and plot exactly as supplied. JOWBR's full record or
@@ -89,6 +96,12 @@ recommends asking the office before visiting. Give the candidate name, known dat
 any existing locator; request the corresponding register entry or available burial information.
 Send the request only when contact is authorized. [P1]
 
+Where the actual source offers it, inspect the matched plot's roster before a bounded
+neighboring-plot search. Retain each burial/plot identifier and the actual distance or selected
+area separately from coordinates. Use co-burial/proximity to nominate associates and retrieve
+their burial records before proposing a relationship. The [co-plot search description](https://lostrussianfamily.wordpress.com/2025/10/25/free-database-offers-more-than-5-million-indexed-burial-records-for-moscow/)
+supplies no fixed search radius or current provider/plot-accuracy guarantee.
+
 **Output:** `cemetery | address | section | plot | GPS as supplied | map URL | office/register
 locator | access or contact status | next action`.
 
@@ -101,6 +114,13 @@ Compare the inscription, online transcription and available cemetery record. If 
 differs from a civil or Social Security entry, preserve both values with their sources. The
 gravestone webinar specifically recommends recording the discrepancy, because errors can occur
 in either the stone or a government database. [P1]
+
+Keep an earlier inscription transcript or research letter with its author/date, exact
+reported reading and any available image reference. Record a later inspection separately
+as not located, not inspected, unreadable or partly read, according to what happened.
+A failed present reading neither verifies nor erases the older statement. The [road-trip example](https://familylocket.com/rlp-231-family-history-road-trip/)
+motivates this distinction without supplying an earlier photograph or proving identity,
+marker replacement or the reason a present reading failed.
 
 Choose the next retrieval action from the gap: a clearer photograph for uncertain letters, a
 cemetery register for an unlabelled burial date, or the underlying civil record for a conflicting

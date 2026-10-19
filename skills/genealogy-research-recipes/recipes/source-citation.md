@@ -26,6 +26,16 @@ Attach the citation or its local handle to each extracted observation. Preserve 
 reading, its field role and any uncertain letters in the working packet. Link additional pages
 and annotation or outcome records through their own locators.
 
+If the tree offers reusable sources, reuse the matching book/collection bibliography
+and put this entry's page, passage and item URL in its citation, using the fields above.
+A bookmark helps reopen a site; it does not attach that citation to a supported fact.
+Use the controls actually exposed to attach it only to facts the item supports, then
+reopen each fact's source association to check the citation and its target. Keep the
+repository (holder) distinct from the source's author or publisher.
+
+Historical example: Family History Fanatics, [external-source citations](https://www.youtube.com/watch?v=0nbKvYysxn0)
+(2023-02-06); the demonstrated screen controls are not a current interface contract.
+
 Two providers can display the same underlying record. Preserve both access paths without
 counting them as independent corroboration. Use
 [evidence-proof-judgment.md](evidence-proof-judgment.md) to assess the observation's effect on

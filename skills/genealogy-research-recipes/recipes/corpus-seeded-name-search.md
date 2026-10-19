@@ -24,6 +24,15 @@ Hebrew final letters and Yiddish digraph characters are separately encoded. If n
 
 Removing points does not supply missing vowel letters, convert one surname spelling into another or resolve Hebrew versus Yiddish orthography. Add consonant substitutions only as bounded exploratory lanes motivated by the source, observed OCR errors or linguistic evidence. There is no universal substitution mask that proves coverage of every Slavic name in Hebrew script.
 
+## Retrieve through another recorded participant
+
+When the target name may be misread, try an independently known co-listed household member
+or participant whose name may have survived recognition. Test an optional place constraint
+separately if the entry may omit it, keeping collection/year bounds explicit. Log the alternate
+query, then return to the full entry and image to read the target. The [co-listed-name example](https://genery.com/ru/forum/viewtopic.php?t=4868)
+supplies a retrieval tactic; co-occurrence corrects neither transcription nor kinship by itself.
+Use only syntax supported by the actual field, without transferring another database's controls.
+
 ## Calibrate the actual field
 
 Before interpreting zero results, try an independently known positive that the same field and scope should retrieve. Distinguish catalogue author/title, body-text OCR, typed name fields and free text. If the control fails, investigate scope, access or field behaviour; report the failed control rather than the target's absence. A functioning website does not establish a functioning within-book index.
