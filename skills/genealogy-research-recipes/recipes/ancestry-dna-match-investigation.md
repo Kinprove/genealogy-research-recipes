@@ -16,6 +16,13 @@ the correct tester-to-tree-person link; that link does not grant the helper eith
 Leave missing access unresolved instead of recommending a higher role. The [2024 sharing example](https://dna-explained.com/2024/02/05/ancestrys-thrulines-and-shared-matches-now-require-a-subscription/)
 motivates these separate checks without establishing a current role matrix or membership exception.
 
+Before treating a target's tree as missing, record its DNA-link state and your access
+separately. A match can have unlinked trees, each public or private; no DNA-linked tree
+does not establish that no tree exists. Inspect an accessible unlinked tree as a lead,
+retaining its URL and the person it actually describes. If no relevant tree can be opened,
+keep that access gap and continue through the target's relatives. [Ancestry's comparison guidance](https://help.ancestry.com/hc/en-us/articles/53933331053331-Comparing-AncestryDNA-Matches)
+documents these categories; use only the controls actually available to the account.
+
 ## 1. Find the target through its closest relatives
 
 **Use when:** the target has no useful tree.
@@ -86,6 +93,9 @@ but does not remove a spouse's DNA or rule out additional paths and incomplete v
 **Use when:** generation counts disagree, or ThruLines supplies no path.
 
 Confirm who actually tested and which tree person the DNA is linked to. A link to the tester's parent or grandparent shifts every generation count (Bartlett, 2026-03-27). The manager can be a different person. Cooper (2023-04-23) explains how linking the correct tree person lets Ancestry propose paths through other members' trees.
+
+The tree's home person is a separate setting and can be anyone in that tree. Do not use
+the displayed home person as the tester without checking the actual DNA-to-person link.
 
 Editing a tree leaves DNA matches and cM unchanged; it changes tree-derived paths.
 

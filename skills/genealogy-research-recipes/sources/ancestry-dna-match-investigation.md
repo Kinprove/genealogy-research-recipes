@@ -15,6 +15,16 @@
 - [Downloading DNA Data](https://help.ancestry.com/hc/en-us/articles/53933317283603-Downloading-DNA-Data)
 - [Understanding Unweighted Shared DNA](https://help.ancestry.com/hc/en-us/articles/53933314136083-Understanding-Unweighted-Shared-DNA)
 
+### Tree access and tester identity (checked 2026-10-20)
+
+- [Comparing AncestryDNA Matches](https://help.ancestry.com/hc/en-us/articles/53933331053331-Comparing-AncestryDNA-Matches) — distinguishes public, private and unlinked trees; access to tree features depends on the account.
+- [Linking a Tree to AncestryDNA Results](https://help.ancestry.com/hc/en-us/articles/53933332359187-Linking-a-Tree-to-AncestryDNA-Results) — DNA-to-tree linking is a separate association.
+- [Assigning a Home Person in a Tree](https://help.ancestry.com/hc/en-us/articles/53933270285715-Assigning-a-Home-Person-in-a-Tree) — the home person may be any person in the tree.
+- Ancestry, ["AncestryDNA | What To Do With All Those Matches"](https://www.youtube.com/watch?v=kv3_JCWUF-s), 2013-01-18 — historical motivation for checking unlinked trees and distinguishing the home person from the tester; saved transcript inspected. Original video screens and the current signed-in interface were not inspected.
+
+These additions use the provider's current written documentation for the stated distinctions,
+without claiming a live interface test. They are original synthesis; no source passage is reproduced.
+
 ### Practitioner posts (dated)
 
 - Bartlett, Jim. "Segment Data for Ancestry Matches." Segment-ology, 2022-07-06. [Article](https://segmentology.org/2022/07/06/segment-data-for-ancestry-matches/) (method 8)
