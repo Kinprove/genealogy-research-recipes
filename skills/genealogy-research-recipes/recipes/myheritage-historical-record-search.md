@@ -204,6 +204,17 @@ Compare names, roles, dates, places and relationships against the source; retain
 End with the coverage ledger and next discriminating search, not “MyHeritage has no such record.”
 Use the evidence/proof recipe for any proposed identity or negative-evidence conclusion. [S1, S5]
 
+If you copy information from a Smart Match or Record Match, review fields individually before
+saving. Log the destination person, match/source link, previous value and copied value for each
+change, keeping conflicting evidence visible. A fuller imported value is not necessarily a better
+supported one. [S10, H9, H10]
+
+For **Smart Matches**, undoing confirmation leaves already extracted and saved tree information
+in place. If a match later proves wrong, use the field log to revisit the affected person, facts
+and citations; check their other support before correcting or removing the imported assertions.
+Verify the resulting tree values separately from the match's status. Undoing confirmation alone
+does not repair the tree. [S10, H8]
+
 ## Prompt-craft
 
 Supply sourced facts with uncertainty labels, catalog descriptions, available fields,

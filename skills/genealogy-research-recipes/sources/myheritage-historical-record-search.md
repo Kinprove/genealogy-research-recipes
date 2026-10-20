@@ -22,6 +22,8 @@ The following dates are video upload dates, not independently established sessio
   uploaded 2022-03-13 — [video](https://www.youtube.com/watch?v=pLM4pmlBH5g). Rights: cited reference, not reproduced.
 - **S9:** *10 Must-Have MyHeritage Databases*, MyHeritage,
   uploaded 2020-07-23 — [video](https://www.youtube.com/watch?v=L5osnrCmc04). Rights: cited reference, not reproduced.
+- **S10:** *Top tips for reviewing Smart Matches™ and Record Matches*, MyHeritage,
+  uploaded 2021-11-07 — [video](https://www.youtube.com/watch?v=1nQYqnixgkw). Rights: cited reference, not reproduced.
 
 Current primary documentation, checked 2026-10-03:
 
@@ -32,6 +34,16 @@ Current primary documentation, checked 2026-10-03:
 - **H5:** MyHeritage Blog, [Finding an obituary for a specific person](https://blog.myheritage.com/2024/10/how-to-find-an-obituary-for-a-specific-person-a-comprehensive-guide/), October 2024. Rights: cited reference, not reproduced.
 - **H6:** MyHeritage Blog, [Introducing OldNews](https://blog.myheritage.com/2024/03/introducing-oldnews-com-a-new-website-for-exploring-historical-newspapers/), March 2024. Rights: cited reference, not reproduced.
 - **H7:** MyHeritage Blog, [Structured records extracted from historical newspapers](https://blog.myheritage.com/2024/12/major-breakthrough-3-4-billion-records-extracted-from-historical-newspapers-were-added-to-myheritage/), December 2024. Rights: cited reference, not reproduced.
+
+Primary documentation for the extraction and reversal guidance, checked 2026-10-20:
+
+- **H8:** MyHeritage Help, [Unconfirming a Smart Match](https://www.myheritage.com/help/en/articles/12852081-how-do-i-unconfirm-a-smart-match). Supports the retained extracted-data behavior specifically for Smart Matches. Rights: cited reference, not reproduced.
+- **H9:** MyHeritage Education, [Reviewing Smart Matches](https://education.myheritage.com/article/what-smart-matches-are-and-how-to-make-the-most-of-them/). Supports comparison and selective extraction. Rights: cited reference, not reproduced.
+- **H10:** MyHeritage Help, [Extracting information from Record Matches](https://www.myheritage.com/help/en/articles/12851899-how-do-i-extract-information-from-record-matches). Supports field selection and saving separately. Rights: cited reference, not reproduced.
+
+These are documentation checks, not a live account test. The field log and subsequent evidence
+review are Kinprove's procedure for recovering from the documented failure mode; the recipe does
+not promise an automatic rollback or adopt the old webinar's alternate-fact and ignore controls.
 
 ## Credits
 
