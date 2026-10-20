@@ -127,8 +127,8 @@ newspaper reference and card locator distinct; compare the named couple, dates a
 before linking them. Retain the card's opening date, referring agency and case-file number when
 present. The [project historian's interview](https://familylocket.com/rlp-378-the-jewish-boards-unique-collections-interview-with-gavin-beinart-smollan/)
 describes a card-to-YIVO file route: follow the holder's actual instructions and queue a request
-within the authorized research scope. Some cards have no surviving file; preserve a missing or
-unavailable file separately from one inspected.
+within the authorized research scope. A card does not guarantee a corresponding file; preserve
+a missing or unavailable file separately from one inspected.
 
 In the described catalog, the name search covers the couple, while a referring individual such
 as a rabbi may appear in a separate referred-by field. Check the actual field's availability and
