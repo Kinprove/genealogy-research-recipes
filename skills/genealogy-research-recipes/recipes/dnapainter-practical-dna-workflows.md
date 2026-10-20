@@ -1,8 +1,8 @@
-# Recipe: Practical DNA Painter maps and tree worklists
+# Recipe: Practical DNA Painter maps, matrices and tree worklists
 
 ## Goal
 
-Build a reusable chromosome-map packet and perform the right operation on it: paint an observed match, move existing data, intersect inherited intervals, infer missing intervals, combine overlapping coordinates, or plan another descendant's test. Use a direct-ancestor tree separately when the next task is to inspect pedigree gaps or repeated paths.
+Build a reusable chromosome-map packet and perform the right operation on it: paint an observed match, move existing data, intersect inherited intervals, infer missing intervals, combine overlapping coordinates, or plan another descendant's test. Use a direct-ancestor tree separately when the next task is to inspect pedigree gaps or repeated paths. Use a numeric tester-pair matrix to audit sourced shared amounts beside documented relationships.
 
 The failure to prevent is treating everything DNA Painter draws or calculates as an observed match. A copied segment belongs to its original comparison; an intersection is coordinate geometry; an inferred interval is a deduction; the Coverage Estimator is a pedigree-based estimate. Keep those outputs distinguishable.
 
@@ -12,18 +12,22 @@ Use a named focal tester, authorized segment tables, known relatives and a speci
 
 For the ancestral-tree workflow, use a named root and an authorized pedigree or GEDCOM; it does not require segment data.
 
+For the numeric-matrix workflow, use identified tester pairs, sourced shared cM amounts and
+separate relationship evidence. An ICW cluster membership or pasted list of names supplies
+no missing pairwise amount.
+
 Provider download procedures belong to the relevant provider's documentation; provider investigation belongs to its own recipe. For segment validity, triangulation, X-DNA and phasing judgment use [X-DNA and phasing judgment](../../genealogy-research-recipes/recipes/xdna-phasing-judgment.md). For unknown-person placement use [Unknown parentage and WATO](../../genealogy-research-recipes/recipes/unknown-parentage-wato.md). This recipe owns the subsequent DNA Painter operations.
 
 Keep a small operation register beside the map:
 
 | Field | Record |
 | --- | --- |
-| Operation | Paint, copy, intersect, subtract, union, coverage estimate, cluster annotation or ancestor-gap worklist |
+| Operation | Paint, copy, intersect, subtract, union, coverage estimate, cluster annotation, ancestor-gap worklist or numeric-pair audit |
 | People | Focal tester and both members of each source comparison |
 | Inputs | Saved tables, provider, retrieval date, genome build and filters |
 | Assignment | Maternal/paternal/unknown and named ancestor, couple or provisional group |
-| Output | Saved map or tree, exported table and notes |
-| Status | Observed coordinates, inferred assignment, planning estimate or documentary worklist |
+| Output | Saved map, tree or matrix, exported table and notes |
+| Status | Observed coordinates or amounts, inferred assignment, planning estimate or documentary worklist |
 
 This register is a recommended research artifact; it is not a DNA Painter import format. A person's map is a container for research about that person's chromosomes. Do not reuse another person's coordinates merely because their map is convenient.
 
@@ -162,6 +166,38 @@ report. Treat their button names, limits and defaults as dated descriptions. [S1
 **Checkpoint:** every gap is interpreted within the observed tree scope; the percentage or
 color of a tree view has not become a measurement of inherited DNA.
 
+## 9. Audit a numeric pair matrix against its measurements and relationships
+
+**Use when:** you have pairwise shared amounts and want to check their entry or compare them
+with separately documented relationships. This is a numeric audit, not an ICW graph analysis.
+
+1. Give each tester a distinct identifier and retain each pair's provider, report date,
+   supplied amount and source. Keep unknown amounts blank. Names copied from a cluster
+   do not supply cM values; the November 2025 example explicitly leaves those for manual
+   entry. Use only an import or manual-entry route actually available for the supplied
+   data, then compare the saved cells with their sources. [S15, S18]
+2. Enter relationships separately from measurements and retain their documentary basis.
+   Leave an unresolved relationship unknown or in a hypothesis note. If a sibling-clone
+   control is available, check every copied relationship for that new tester, including
+   half relationships or multiple paths; enter the new tester's own measured amounts.
+   The August 2025 example copies relationship labels but leaves cM blank. [S15, S17]
+3. Inspect one tester's pair values at a time. Where relationship-based percentile or
+   standard-deviation views are offered, retain the selected mode, displayed relationship
+   and reference-data label beside the raw amount. Use an unusual display to recheck
+   the input, tester identity and relationship evidence. A percentile describes position
+   in the referenced distribution; it is not a probability that the relationship is true.
+   No SD cutoff, exclusion threshold or reference-model validation is supplied here.
+   If the display's basis is unavailable, retain it as an unexplained provider output. [S16, S17]
+4. Preserve the original matrix and a correction log. Reopen the saved result after edits;
+   do not assume that a historical edit-mode save/cancel behavior still applies. A symmetric
+   pair shown twice remains one comparison. Keep any shared/exported view within the
+   permissions and fields actually inspected. [S16]
+
+**Artifact:** an identified pair table with source amounts, independently sourced relationships,
+observed display mode, discrepancies and correction history.
+**Checkpoint:** no pasted name, copied relationship, blank cell or display outlier has become
+a measured amount or a new relationship conclusion.
+
 ## Prompt pattern
 
-“For focal tester A, perform only [operation]. Inputs are these labeled tables/tree and these documented relationships. Preserve originals. Return an operation register, the resulting intervals or tree, and the checkpoint result. Keep observed, inferred and estimated outputs distinct. Do not turn an overlap, coordinate union or coverage percentage into a new measured match.”
+“For focal tester A, perform only [operation]. Inputs are these labeled tables/tree and these documented relationships. Preserve originals. Return an operation register, the resulting intervals, matrix or tree, and the checkpoint result. Keep observed, inferred and estimated outputs distinct. Do not turn an overlap, coordinate union or coverage percentage into a new measured match.”
