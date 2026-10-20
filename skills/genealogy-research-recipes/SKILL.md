@@ -381,13 +381,16 @@ authorship does not require a Kinprove account, connector or scoring engine.
   A selected Group Time Tree view has its own scope; missing or withheld details
   do not establish an absent lineage, and kit access does not authorize public display.
 
-- **`recipes/dnapainter-practical-dna-workflows.md`** — Six practical DNA Painter operations:
+- **`recipes/dnapainter-practical-dna-workflows.md`** — Eight practical DNA Painter workflows:
   paint measured matches, copy or merge maps of one tester, intersect phased inheritance,
-  calculate provisional missing intervals, combine coordinate spans and plan descendant tests.
+  calculate provisional missing intervals, combine coordinate spans, plan descendant tests,
+  annotate cluster-derived maps and build direct-ancestor gap worklists.
   *Use for:* Paint a new match, map duplication/CSV transfers, Common Segment Generator,
-  Inferred Segments Generator, Distinct Segment Generator or Coverage Estimator.
+  Inferred Segments Generator, Distinct Segment Generator, Coverage Estimator,
+  Cluster Auto Painter annotations or ancestral-tree reports.
   *Core guardrail:* verify the people, chromosome copy and genome build; keep measured
-  comparisons, inferred intervals, coordinate unions and pedigree estimates distinguishable.
+  comparisons, inferred intervals, coordinate unions, pedigree estimates and documentary
+  tree worklists distinguishable. A relationship note does not assign all of a match's intervals.
 
 - **`recipes/gedmatch-practical-dna-workflows.md`** — Eight GEDmatch workflows:
   establish kit/run baselines, follow shortlist entries into direct comparisons, check

@@ -1,8 +1,8 @@
-# Recipe: Practical DNA Painter chromosome-map workflows
+# Recipe: Practical DNA Painter maps and tree worklists
 
 ## Goal
 
-Build a reusable chromosome-map packet and perform the right operation on it: paint an observed match, move existing data, intersect inherited intervals, infer missing intervals, combine overlapping coordinates, or plan another descendant's test.
+Build a reusable chromosome-map packet and perform the right operation on it: paint an observed match, move existing data, intersect inherited intervals, infer missing intervals, combine overlapping coordinates, or plan another descendant's test. Use a direct-ancestor tree separately when the next task is to inspect pedigree gaps or repeated paths.
 
 The failure to prevent is treating everything DNA Painter draws or calculates as an observed match. A copied segment belongs to its original comparison; an intersection is coordinate geometry; an inferred interval is a deduction; the Coverage Estimator is a pedigree-based estimate. Keep those outputs distinguishable.
 
@@ -10,18 +10,20 @@ The failure to prevent is treating everything DNA Painter draws or calculates as
 
 Use a named focal tester, authorized segment tables, known relatives and a specific question. A segment table needs chromosome and start/end positions; retain reported cM and SNP counts when available. Raw genotype files and a match's total cM alone are not chromosome-painting inputs. [S1, S2]
 
+For the ancestral-tree workflow, use a named root and an authorized pedigree or GEDCOM; it does not require segment data.
+
 Provider download procedures belong to the relevant provider's documentation; provider investigation belongs to its own recipe. For segment validity, triangulation, X-DNA and phasing judgment use [X-DNA and phasing judgment](../../genealogy-research-recipes/recipes/xdna-phasing-judgment.md). For unknown-person placement use [Unknown parentage and WATO](../../genealogy-research-recipes/recipes/unknown-parentage-wato.md). This recipe owns the subsequent DNA Painter operations.
 
 Keep a small operation register beside the map:
 
 | Field | Record |
 | --- | --- |
-| Operation | Paint, copy, intersect, subtract, union or coverage estimate |
+| Operation | Paint, copy, intersect, subtract, union, coverage estimate, cluster annotation or ancestor-gap worklist |
 | People | Focal tester and both members of each source comparison |
 | Inputs | Saved tables, provider, retrieval date, genome build and filters |
 | Assignment | Maternal/paternal/unknown and named ancestor, couple or provisional group |
 | Output | Saved map or tree, exported table and notes |
-| Status | Observed coordinates, inferred assignment or planning estimate |
+| Status | Observed coordinates, inferred assignment, planning estimate or documentary worklist |
 
 This register is a recommended research artifact; it is not a DNA Painter import format. A person's map is a container for research about that person's chromosomes. Do not reuse another person's coordinates merely because their map is convenient.
 
@@ -107,6 +109,58 @@ Use the [Coverage Estimator](https://dnapainter.com/tools/coverage) for a differ
 5. Save to the account where available and download the Coverage tree text file as a recoverable artifact. A browser-local tree can disappear when browser data is cleared. [H4]
 
 **Artifact:** descendant tree, accessible-tester inventory, saved tree file and next-test decision. **Checkpoint:** the displayed percentage remains an estimate; the tree and available tests are checked before interpreting lack of useful matches as evidence against the ancestral hypothesis.
+
+## 7. Annotate a cluster-derived map without assigning the whole cluster
+
+When an existing cluster result needs annotations, preserve its original HTML, focal tester,
+database, run date and filters. The January 2020 Cluster Auto Painter walkthrough describes
+supported cluster HTML and, for its GEDmatch/MyHeritage inputs, a separate shared-segment CSV.
+Check the actual importer's requirements before generating a separate working map; a cluster
+matrix without matching coordinates is not itself a segment table. [S11]
+
+1. Inspect the generated map's available match report and find an identified match. Check the
+   match's source comparison and the cluster it was placed in before annotating it.
+2. Record the documented relationship and its source as a match-level note. Assign a parental
+   side or ancestor to an interval only when that interval has its own support; leave uncertain
+   intervals unassigned. Retain the original cluster membership in the notes or operation register.
+3. Review other matches individually and save the annotated map beside the original cluster
+   output. Keep the relationship evidence distinguishable from imported cluster membership.
+
+The source describes match/group overlays and group/segment notes. The separate working copy
+and annotation register extend this recipe's existing preservation controls. Its worked
+example's overlap-to-parental-side inference is not adopted: an overlapping color does not
+establish mutual matching, triangulation or an ancestral couple. [S11]
+
+**Artifact:** original cluster inputs, annotated working map and assignment evidence.
+**Checkpoint:** a documented relationship has not silently assigned all of the match's
+segments or every member of its cluster to one parental side or ancestor.
+
+## 8. Turn a direct-ancestor tree into a bounded research worklist
+
+An ancestral tree starts with the person whose ancestors are being examined. It differs from
+the descendancy tree used by the Coverage Estimator in workflow 6. The saved tutorials describe
+GEDCOM root selection, tree completeness and repeated-path views, and a separate Brick Walls
+report. Treat their button names, limits and defaults as dated descriptions. [S12, S13, S14]
+
+1. Preserve the input tree and identify the intended root. In the available import or manual
+   entry view, record the included generation depth, notes and living-person handling. Check
+   the resulting root and known ancestors against the input before interpreting gaps.
+2. Inspect the tree's available completeness and repeated-path views. Distinguish a missing
+   ancestor within the imported scope from a generation omitted by the import or view. Repeated
+   appearances are paths to a person in the supplied pedigree, not independent proof of that
+   person's identity or of DNA inherited along each path. [S12, S14]
+3. Build a worklist from the available ancestor-gap report or visible tree. Record the displayed
+   generation filter and preserve the shown rows when exporting; the December 2024 tutorial
+   describes a default recent-generation subset and a CSV of the displayed table. Keep each
+   gap or surname clue tied to its branch and label unproved clues as hypotheses. [S13, S14]
+4. Keep source-backed annotations separate from inherited colors or automatically propagated
+   labels. Before sharing, inspect the actual view and its living-person/notes scope; if that
+   scope cannot be checked, keep the worklist local. The output selects documentary follow-up,
+   not a new ancestral or genetic conclusion. [S12, S14]
+
+**Artifact:** root and import-scope note, preserved tree, branch-specific ancestor-gap worklist.
+**Checkpoint:** every gap is interpreted within the observed tree scope; the percentage or
+color of a tree view has not become a measurement of inherited DNA.
 
 ## Prompt pattern
 
