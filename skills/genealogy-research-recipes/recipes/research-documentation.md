@@ -27,6 +27,17 @@ occurrence rows, not additional records or independent confirmations; keep the o
 The [John Dobkins record-tracking example](https://dna-explained.com/2022/10/16/tracking-john-dobkins-or-dobbins-to-maryland-52-ancestors-378/)
 supplies this two-way lookup; repeated association does not establish kinship.
 
+To compare recurrence across record types, derive a matrix from those occurrence rows:
+one identified person or unresolved identity candidate per row, and one source item per
+column, ordered by the recorded action or observation date. Retain the date and document
+number in each column and mark only observed occurrences. Keep uncertain identities
+separate rather than merging same-named people to fill the grid. Compare recurring
+participants to choose the next distinguishing record; empty cells do not record a
+completed search, and multiple columns containing copies remain dependent evidence.
+The [Alford/Johnson FAN-chart example](https://familylocket.com/rlp-257-alford-johnson-project-interview-with-michelle-mickelson-part-1/)
+supplies the chronological people-by-source view; the identity and blank-cell controls
+apply the existing evidence rules. Keep the underlying log and occurrence rows.
+
 ## Turn locality coverage into the next searches
 
 Keep a locality guide bounded to the question and period: historical jurisdiction, relevant
@@ -50,6 +61,18 @@ separate arrangements. Retain any advance-order requirement and the permitted ca
 if only the index can be inspected, preserve its pointer and leave the document queued.
 The [onsite-trip example](https://familylocket.com/how-to-prepare-for-an-onsite-genealogy-research-trip/)
 motivates this distinction without establishing a repository's current policy or permission.
+
+## Keep next actions linked to their origin
+
+When analysis produces another search, retain a separate pending-action field linked to
+the originating document number or correspondence entry. Derive a list of nonempty actions
+showing that link, a short source description, the proposed search and its repository or
+recipient. Group by repository when planning a session. Mark an action completed with its
+actual result or link to the new log entry; preserve the originating record and analysis.
+This avoids burying a lead in comments or detaching it into an untraceable to-do list.
+The [research-log views example](https://familylocket.com/rlp-258-saving-views-of-your-airtable-research-log/)
+demonstrates filtering next steps and grouping them by repository. These are companion
+views of the log, not replacement search results or a requirement to use Airtable.
 
 ## Compare one family across named censuses
 

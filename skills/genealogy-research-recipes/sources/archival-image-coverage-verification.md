@@ -7,4 +7,8 @@ Primary pages opened 2026-10-18; cited as references, not reproduced.
 - **S3. JewishGen Ukraine Research Division, [FAQ](https://www.jewishgen.org/ukraine/TPL_Base.asp?id=13)**, “How do I find out what new records are being added”. Links monthly and cumulative upload lists and says they change monthly. No individual case's current indexing was investigated for this recipe.
 - **S4. JewishGen, [Transcription Rules for JewishGen Databases](https://www.jewishgen.org/databases/%24transcription.html)**, Source Indicator and Data Entry. Requires original-record locators and separates conjecture from source transcription. It does not certify a dataset's completeness.
 
+Saved community demonstration inspected 2026-10-20:
+
+- **S5. Melissa Barker and Constance Knox, Genealogy TV, [How to Preserve Old Photos and Scrapbooks: The Archive Lady](https://www.youtube.com/watch?v=11wZOvuGtKs)**. Describes retaining an as-found image and another with a folded item opened, and checking the next microfilm frame for a lifted overlay. The recipe applies this to already available images; it adopts no physical treatment, adhesive-removal or storage instructions. The original objects and frames were not independently inspected.
+
 The page × target ledger, field-specific adjudication, catalogue-conflict handling and completeness checks are workflow synthesis from local archival-review practice. They introduce no historical cutoff, archive-specific holding assertion or measured accuracy claim. Genealogical identity and source weighting remain with the existing proof recipe.

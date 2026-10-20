@@ -31,6 +31,12 @@ Classify a disputed number before correcting it: archive case, old office refere
 
 Check sequence independently from totals. Compare foliation, headings and entries continuing across pages, including transitions between digital parts. Repeated page labels can represent recto/verso, restarted numbering or another section. A complete image set can still be in the wrong order. Do not renumber or merge items from filenames alone.
 
+When a folded letter, card or overlay conceals part of an entry, inspect adjacent frames
+for another exposure with it opened or lifted. Confirm that both images show the same
+item, retain both locators and distinguish the as-found view from the revealed text.
+A repeated exposure is a possibility to check, not a guarantee that hidden text was
+captured. If none is available, retain the obscured area as an inspection gap. [S5]
+
 For an unnumbered verso, inspect the actual preceding recto and surrounding sequence before
 assigning a leaf/verso binding; leave it unresolved when that context is missing. A film-end
 card directing continuation on another reel leaves that part queued until inspected. Keep

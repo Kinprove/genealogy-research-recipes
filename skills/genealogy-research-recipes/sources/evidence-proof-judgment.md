@@ -39,6 +39,13 @@ totals and dated conclusion amendments is Kinprove's original dependency-review
 procedure. It does not claim that the cited standards prescribe this particular
 artifact format.
 
+Maintenance note, 2026-10-20: the Scandinavian example was corrected against the
+saved [RLP 286 episode transcript](https://familylocket.com/rlp-286-researching-your-scandinavian-ancestors-with-torhild-shirley-part-2/).
+The speakers treat overlapping tax locations as a hypothesis and then compare
+the families' death and birth chronology. The transcript and source 6 are versions
+of the same episode, not independent corroboration. Original tax and parish
+records were not independently inspected for this correction.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

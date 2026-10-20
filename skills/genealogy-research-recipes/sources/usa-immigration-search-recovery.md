@@ -41,6 +41,13 @@ the relevant workflow. Community references:
     in a Utah County Minute Book*, 17 August 2026.
     <https://familylocket.com/finding-william-henry-kelseys-naturalization-in-a-utah-county-minute-book/>
 
+13. Nicole Dyer and Diana Elder, Family Locket, *RLP 260: Shipindex with Peter
+    McCracken*, 3 July 2023.
+    <https://familylocket.com/rlp-260-shipindex-with-peter-mccracken/>
+    The saved interview supports vessel-name bibliography searches, following citations
+    to holdings and comparing same-name ships or different voyages. It does not verify
+    current index controls, subscriptions, holding availability or the cited originals.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
