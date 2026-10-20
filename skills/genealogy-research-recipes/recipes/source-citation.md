@@ -42,4 +42,14 @@ counting them as independent corroboration. Use
 the research question, and [research-documentation.md](research-documentation.md) to retain
 the search and report.
 
+## Recheck shortened report references after editing
+
+If a shortened note depends on the preceding note for its source, re-resolve that reference
+after moving, inserting or combining notes. It must identify the intended source and actual
+cited page or item. Replace an ambiguous reference with an explicit short citation, especially
+after a note containing several sources; a repeated source can still cite a different page.
+Keep the full source record intact. Family Locket's
+[How to Shorten Citations](https://www.youtube.com/watch?v=DWdb7rQFpf0) (2023-11-11)
+motivates this edit check without imposing an abbreviation, current style rule or software claim.
+
 Original Kinprove reference, licensed FSL-1.1-MIT.

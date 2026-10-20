@@ -33,6 +33,8 @@
 28. *How to Use mtDNA for Genealogy Research* — Katy Rowe-Schurwanz (FamilyTreeDNA), 2026-04-24 — <https://blog.familytreedna.com/using-mtdna-genealogy-research/> — Rights: cited reference, not reproduced.
 29. *Scientific Details: A Deeper Dive Into Age Estimates* — FamilyTreeDNA, 2022-09-19 — <https://blog.familytreedna.com/tmrca-age-estimates-scientific-details/> — Rights: cited reference, not reproduced.
 
+30. *Finding and Contacting DNA Test Takers with Descendancy Research* — Family Locket, 2024-10-09 — <https://www.youtube.com/watch?v=Ff_n37xMPbA> — Rights: cited reference, not reproduced. Reported survivors-only obituary omitted a predeceased son who left a son. The original obituary, descent and any living tester were not independently verified; no contact or current-service claim is adopted.
+
 ## Credits
 
 - Roberta Estes, 'All About AI – What It Is, What It Isn't, and Why It Matters', DNAeXplained, 2026-06-25 — FSL-1.1-MIT (adapted)

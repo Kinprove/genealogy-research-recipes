@@ -35,6 +35,13 @@ The index-audit, locator and series-resolution schemas are original synthesis.
   motivate the tax-coverage inventory. Original tax images, headings and holdings were not
   independently inspected; the example supplies no universal tax classes or liability rules.
 
+- **S9:** Family Locket,
+  [RLP 50: U.S. Land Records Part 3](https://www.youtube.com/watch?v=fEuF00FwZN8),
+  24 June 2019. Reported tract-register route to entries that did not produce a patent.
+  The speaker describes declined neighboring entries, not recovery of a rejected Royston file.
+  Original registers and files were not inspected; universal coverage, survival, locator
+  sufficiency, current access and legal or family conclusions are not adopted.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

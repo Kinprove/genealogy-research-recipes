@@ -172,6 +172,18 @@ Use precise result labels:
 - **Coverage gap:** identify the absent issue, edition or page and the next holding to check.
 - **Access blocked:** identify material that exists but could not be inspected.
 
+### Optional handoff from a religious-life notice
+
+For a supported religious-life lead, inspect available reception or vow notices using relevant
+period terms such as `ceremony of reception`, `receive the habit`, `white veil` or `postulant`.
+Retain any birth/baptismal and religious names actually linked in the same item, its named
+institute, literal event wording/date and notice locator. Use that institute as a lead to its
+actual custodian and appropriate record series through the [manuscript-holder workflow](research-documentation.md).
+Keep a ministry location separate from the motherhouse; shared postnominals do not uniquely
+identify an institute. The [historical interview](https://familylocket.com/rlp-410-catholic-nun-research-with-sunny-morton/)
+motivates this name-to-institute bridge. A notice does not guarantee a personnel file or resolve
+the candidate's identity; preserve its literal ceremony stage rather than equating all stages.
+
 ### Optional handoff from a court notice
 
 If a recovered notice supplies a case or docket number, preserve it with the printed parties,

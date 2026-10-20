@@ -94,6 +94,14 @@ fields to the custodian's actual series description before requesting the entry 
 The [NARA preparation example](https://www.danaleeds.com/10_tips_for_nara/)
 shows the locator worksheet; it is not a specification for a current request form.
 
+After a completed-patent search misses a supported tract lead, check whether the actual holdings
+describe an entry register covering applications that did not reach patent. Follow its arrangement;
+retain the literal entry status, legal description, land office and any entry/file number. Queue
+a corresponding case series only when that locator and the holdings support it, keeping requested
+and retrieved files separate. The [historical tract-book example](https://www.youtube.com/watch?v=fEuF00FwZN8)
+motivates this fallback. A patent-search miss does not establish that no application existed or
+that its file survives; the historical entry status and present retrieval status remain distinct.
+
 Use the described entry class to look for different components in the available packet:
 
 | Entry lead | Components illustrated in the teaching account |

@@ -28,6 +28,12 @@ Additional title/holding resolver sources:
 
 - **S15:** Nicole Elder Dyer, Family Locket, [RLP 359: Until Death Do Us Part… Or Five Weeks Later- A Tale of Marital Woe in 1875 Dallas](https://familylocket.com/rlp-359-until-death-do-us-part-or-five-weeks-later-a-tale-of-marital-woe-in-1875-dallas/), published 2025-05-26. Reported case-number handoff from a newspaper notice to a court file. The original notice, court images and complete transcript were not independently inspected; no case conclusion, legal rule or current access claim is adopted.
 
+- **S16:** Nicole Elder Dyer, Family Locket, interview with Sunny Morton,
+  [RLP 410: Catholic Nun Research with Sunny Morton](https://familylocket.com/rlp-410-catholic-nun-research-with-sunny-morton/),
+  published 2026-05-18. Reception/vow notices may link birth and religious names with an institute.
+  No original notice or individual archive file was inspected; institute identity, record survival,
+  access and the narrated family's relationships remain unverified.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
