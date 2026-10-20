@@ -71,6 +71,13 @@ For extracted answers distinguish `answered`, `explicit_no`, `blank`, `not_asked
 3. Try a short name fragment or wildcard where the platform permits it. Change one constraint at a time and record the actual query. An unsuccessful surname search is a failed query, not evidence that the household was absent.
 4. Extend the locality using relatives' marriages, residences, or other dated evidence. Do not restrict a missing household to the location where it appeared ten years earlier.
 5. Open candidate images. Compare the whole roster, ages, birthplaces, and local associates. Record indexed spelling and the image reading separately. Search the apparent alternative surname locally before dismissing it as a transcription error.
+   If an entry is hard to read, try an available image of the same entry on another host
+   and the adjustment controls actually offered there. Match the schedule, printed page
+   and household or line before comparing readings; viewer image numbers can differ.
+   Record the host, image locator and reading in `image_reading`. A clearer presentation
+   is another copy of the same record, not independent corroboration. If no usable copy
+   is available, retain the legibility gap. Aimee Cross demonstrates this recovery step
+   without establishing that one provider always has better images. [S23]
 6. If name searches remain unproductive, use Recipe 2. A second platform can expose a different index, but two indexes of the same census entry remain one underlying record.
 
 **Output:** A query log containing census year, collection, query, filters, result, candidate image citation, and identity conflicts.

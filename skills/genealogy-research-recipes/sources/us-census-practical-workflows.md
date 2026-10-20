@@ -27,11 +27,17 @@ draw on each source.
 | S20 | Sara Cochran / BYU, Getting Around the Missing 1890 Census | 2023-03-31 | 5 |
 | S21 | James Tanner / BYU, Using Local and State Censuses for Genealogical Research | 2025-02-11 | 5 |
 | S22 | Aimee Cross, [Finding Enslaved Ancestors & Build an African American Family Tree](https://www.youtube.com/watch?v=12gmfLSWs70) | 2023-06-22 | 9 |
+| S23 | Aimee Cross / Ancestry Aimee, [Overview of U S Federal Census Records in Genealogy Research](https://www.youtube.com/watch?v=lwwOLa341-8) | 2021-12-09 | 1 |
 
 S22 supplies a neighborhood-to-earlier-household research route and named-person searches
 in deeds, probate and claims testimony. Its property-value threshold and broad assumptions
 about post-emancipation residence are excluded. The worklist remains a set of candidates;
 it does not identify an enslaver from census proximity, race or wealth.
+
+S23 demonstrates reading the same census entry through another host when the first
+presentation is difficult to read. The matching-locator and reading-copy checks are
+Kinprove synthesis; dated viewer placement and claims of provider superiority are not
+adopted. Copies of the same entry remain one underlying record.
 
 ## Credits
 

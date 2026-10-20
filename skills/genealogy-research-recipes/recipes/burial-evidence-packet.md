@@ -67,6 +67,8 @@ Keep the dates separately:
 | Field | What to retain |
 | --- | --- |
 | Death date on inscription | Literal English/secular and Hebrew forms, each with its label |
+| Age at death on inscription | Literal value and stated units, linked to the inscription's death date; missing units stay unknown |
+| Calculated birth-date lead | Separate derived value, input death date and age, calendar and arithmetic; label `calculated, not stated` |
 | Burial date | The date explicitly supplied as burial, with its source |
 | Database date | Displayed value, field label and record URL |
 | Converted date | Separate derived value, calendar and conversion basis, if checked |
@@ -74,6 +76,16 @@ Keep the dates separately:
 
 **Check:** An unread inscription, missing date or unverified conversion stays unknown. The
 packet records the source statements and does not select a final death date. [P1, O1]
+
+When an inscription supplies a death date and age in years, months and days, retain both
+literal inputs before calculating a birth-date lead. Amy Johnson Crow's example counts
+back the years, then months, then days, carrying the year and using the actual length of
+each month crossed. Record that arithmetic and its calendar basis with the calculated
+value. Incomplete age units, an uncertain calendar or unresolved month-end/leap-day
+conventions do not support a unique exact birth date; leave the calculation unresolved
+where its basis is missing. The recorded age may itself be inaccurate. Keep a separately
+stated birth date alongside the calculation and send a conflict to evidence and proof
+judgment, rather than overwriting either value. [P6]
 
 If a source reports reinterment or a replacement marker, retain original burial, reported
 transfer and later marker installation as separate source-linked events. Keep original and

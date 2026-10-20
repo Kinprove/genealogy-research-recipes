@@ -26,6 +26,12 @@ photographs, database rows and real family examples are not reproduced.
   and possible successor or society/library custody of funeral records. The recipe's
   evidence-of-transfer and actual-holdings checks are Kinprove synthesis; the tutorial's
   blanket retention-law, access and usual-transfer claims are not adopted.
+- **P6:** Amy Johnson Crow, *How to Calculate a Birth Date from Date of Death and Age*,
+  published 2021-11-04 — [tutorial](https://www.youtube.com/watch?v=O1z2pPxEgio).
+  Retaining a stated death date and age, counting back years/months/days, labelling the
+  result as calculated and evaluating a conflicting stated birth date. Calendar and
+  ambiguous-arithmetic stops are Kinprove synthesis; the tutorial's accuracy ranking
+  does not establish a universally correct calculation or an exact birth date.
 - **O1:** JewishGen, *JOWBR FAQ*, checked 2026-10-07 —
   [documentation](https://www.jewishgen.org/databases/Cemetery/JOWBR_FAQ.htm).
   Cemetery inventory, source types, nullable fields, patronymic searches, photographs and
