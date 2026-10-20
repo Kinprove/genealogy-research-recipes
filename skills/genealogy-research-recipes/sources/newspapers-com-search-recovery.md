@@ -26,6 +26,8 @@ Additional title/holding resolver sources:
 - **H1:** Library of Congress, [Chronicling America Website Migration](https://loc.gov/ndnp/migration/), updated 2026-04-01; checked 2026-10-07.
 - **H2:** Library of Congress, [Newspapers — Collections and Access](https://www.loc.gov/research-centers/newspaper-and-current-periodical/collections/newspapers/), publication date unspecified; checked 2026-10-07 through indexed primary-page content.
 
+- **S15:** Nicole Elder Dyer, Family Locket, [RLP 359: Until Death Do Us Part… Or Five Weeks Later- A Tale of Marital Woe in 1875 Dallas](https://familylocket.com/rlp-359-until-death-do-us-part-or-five-weeks-later-a-tale-of-marital-woe-in-1875-dallas/), published 2025-05-26. Reported case-number handoff from a newspaper notice to a court file. The original notice, court images and complete transcript were not independently inspected; no case conclusion, legal rule or current access claim is adopted.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

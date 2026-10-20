@@ -20,6 +20,7 @@
 16. *Multiple Relationships in an African-American Case Study* — Allison Kotter (Family Locket), 2022-10-01 — <https://familylocket.com/multiple-relationships-in-an-african-american-case-study/> — Rights: cited reference, not reproduced.
 17. *Power-Up Your DNA Analyses* — The DNA Geek, 2024-07-01 — <https://thednageek.com/power-up-your-dna-analyses/> — Rights: cited reference, not reproduced.
 18. *Struggles with Smithville* — The DNA Geek, 2025-10-30 — <https://thednageek.com/struggles-with-smithville/> — Rights: cited reference, not reproduced.
+19. *RLP 155: Barsheba Tharp DNA Case Study Part 2* — Family Locket (YouTube), 2021-06-28 — <https://www.youtube.com/watch?v=aTlE-Y33G-k> — Historical correction of an exclusion based on an observed sample maximum. The original sample, PDF and grouping were not independently inspected; no numerical range, pooled-meiosis remedy or family conclusion is adopted. Rights: cited reference, not reproduced.
 
 ## Credits
 

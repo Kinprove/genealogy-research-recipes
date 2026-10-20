@@ -62,7 +62,17 @@ translation and compiled abstract distinct; extract only the household, origin o
 actually present. The same example motivates this related-item check without guaranteeing
 particular fields, complete survival or a present translation service.
 
-### Tax rows filed under another name
+### Tax rolls used for a land lead
+
+For each selected tax year, map the available volumes and their actual township/district and
+tax-class sections before interpreting a surname miss or stopping at one hit. Read the headings
+and sort key in each relevant section: a real-estate section may follow land location while
+another list follows names. Check separately described supplementary, delinquent or nonresident
+sections without assuming every place has them. Retain year, volume/section, key, locator and
+inspected/uninspected extent; recheck the arrangement for another year. The
+[reported one-book to two-book transition](https://familylocket.com/rlp-329-using-ai-in-report-writing/)
+motivates this inventory. A missing name in one section is not absence from the annual set, and
+a complete search of supplied volumes does not establish complete survival or legal liability.
 
 If an expected taxpayer is missing from a roll used for this land lead, inspect its actual
 organization and bounded unsearched sections for entries filed under another payer or estate

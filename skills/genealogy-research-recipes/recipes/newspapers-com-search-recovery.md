@@ -172,6 +172,17 @@ Use precise result labels:
 - **Coverage gap:** identify the absent issue, edition or page and the next holding to check.
 - **Access blocked:** identify material that exists but could not be inspected.
 
+### Optional handoff from a court notice
+
+If a recovered notice supplies a case or docket number, preserve it with the printed parties,
+stated court/jurisdiction and date, keeping the newspaper citation. Resolve the relevant court
+series and present custodian for that period; use the number only in a collection whose actual
+arrangement supports it. Check a retrieved file against the parties and case context, preserving
+its own locator, inspected pages and gaps. Keep a notice-only lead or unavailable file explicit.
+The [reported newspaper-to-divorce-file example](https://familylocket.com/rlp-359-until-death-do-us-part-or-five-weeks-later-a-tale-of-marital-woe-in-1875-dallas/)
+illustrates this handoff. Publication of a notice does not establish its allegations, the final
+judgment or the parties' identities; recovering the notice does not mean the case file was read.
+
 ## Prompt-craft
 
 ```text

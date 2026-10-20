@@ -29,6 +29,11 @@ The index-audit, locator and series-resolution schemas are original synthesis.
   A reported tax entry recovered under an estate administrator's surname motivates the
   alternate filing-key check. Original tax and land records were not independently inspected;
   the recipe does not adopt the account's death, sale, namesake-identity or legal conclusions.
+- **S8:** Nicole Elder Dyer, Family Locket,
+  [RLP 329: Using AI in Report Writing](https://familylocket.com/rlp-329-using-ai-in-report-writing/),
+  28 October 2024. Reported annual volume/section reorganization and differing filing keys
+  motivate the tax-coverage inventory. Original tax images, headings and holdings were not
+  independently inspected; the example supplies no universal tax classes or liability rules.
 
 ## Credits
 

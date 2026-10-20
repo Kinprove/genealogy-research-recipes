@@ -99,6 +99,16 @@ otherwise report disagreement only. Omission is not biological exclusion, and re
 do not supply independent confirmations. The [predictor comparison](https://thednageek.com/the-award-for-best-relationship-predictor-goes-to/)
 motivates manual output reconciliation, not a reproduced benchmark, ranking or calibration claim.
 
+Before using a reported cM range to exclude a relationship, identify what the range describes:
+observed sample values or an interval/limit from a named model. Retain the release, relationship
+category, sample count and inclusion definition when supplied; leave unavailable definitions
+unknown. A sample maximum alone does not establish a biological impossibility. Reopen an
+exclusion based only on that maximum and keep the candidate unresolved while checking an
+applicable model or discriminating documentary evidence. The
+[historical correction example](https://www.youtube.com/watch?v=aTlE-Y33G-k)
+motivates this check; it supplies no current numerical boundary, pooled-meiosis rule or
+recalculated odds.
+
 If the supplied comparison spans a probability/model revision, preserve the dated original
 outputs and separate the versions. Where available and authorized, compare the same retained
 inputs under the revised version; otherwise mark earlier rows unavailable for that comparison
