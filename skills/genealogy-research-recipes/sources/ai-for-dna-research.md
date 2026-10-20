@@ -21,6 +21,9 @@
 17. *Power-Up Your DNA Analyses* — The DNA Geek, 2024-07-01 — <https://thednageek.com/power-up-your-dna-analyses/> — Rights: cited reference, not reproduced.
 18. *Struggles with Smithville* — The DNA Geek, 2025-10-30 — <https://thednageek.com/struggles-with-smithville/> — Rights: cited reference, not reproduced.
 
+19. *An Inside Look | Discover the 2026 AncestryDNA Origins Update | Ancestry* — Ancestry (YouTube), 2026-10-08 — <https://www.youtube.com/watch?v=59wkUV3C3iM> — Rights: cited reference, not reproduced. The saved transcript supports inspecting the actual displayed extent behind a region label. It does not verify the video, current feature access, inference accuracy, reference-panel claims or reconstruction of a relative's genotype.
+20. *Why You Should Pay Attention to Your AncestryDNA Journeys* — Diahan Southard (Family Tree Magazine), 2026-01-05 — <https://familytreemagazine.com/dna/why-you-should-pay-attention-to-your-ancestrydna-journeys/> — Rights: cited reference, not reproduced. Supports retaining a displayed Timeline interval and alternate locality leads for record searches. Actual maps, family records and model inputs were not inspected; tree-fed pins are not independent confirmation, and no personal route or parentage conclusion is adopted.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

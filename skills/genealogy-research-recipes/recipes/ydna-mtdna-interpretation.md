@@ -123,6 +123,24 @@ The output is **tester → documented path → test/tree → SNP → reported st
 - **Phylogenetic trees and migration maps are tester-dependent.** Branch definitions and dates differ between platforms, and geography tools (e.g. Globetrekker) mislead when few relevant men have tested — more testers can substantially shift the inferred geography. Never present the current tree as fixed truth. (GeneaVlogger, 2026-05; DNAeXplained, 2026-05)
 - **mtDNA is a weak genealogical instrument by design** — slow mutation, fewer testers, wide match ranges. Great for *eliminating* a direct-maternal-line hypothesis, poor for *pinning* a relationship.
 
+## Keep an ancient-sample catalogue query separate from ancestry inference
+
+For a supplied ancient-sample catalogue, retain its source and date/version alongside the
+tester's externally reported haplogroup and assay/test level. Search the exact supplied
+label and record the query and returned specimen IDs. If a downstream Y label is absent,
+use an actually supplied or inspected tree to record each upstream label tried; do not
+invent the hierarchy. An unavailable tree or unknown test resolution stays unresolved.
+The [dated British Isles catalogue example](https://dna-explained.com/2022/02/01/dna-from-459-ancient-british-isles-burials-reveals-relationships-does-yours-match/)
+supplies this search step.
+
+Keep each specimen's reported sex, burial/location, dated interval and original or
+reanalysed haplogroup labels with their source references, as available. Record a linked
+tree's observed placement separately, or mark it unavailable. A no-hit concerns only the
+catalogue and labels searched; its coverage is not established by that result. A returned
+specimen is a catalogue lead, not the tester's closest ancient relative, direct ancestor,
+birthplace or migration route. No sequence comparison or relationship estimate follows
+from the label lookup.
+
 ## Inventory lineage and test coverage before choosing another tester
 
 Keep separate Y-DNA and mtDNA lineage rows. For each documented line, record its nearest

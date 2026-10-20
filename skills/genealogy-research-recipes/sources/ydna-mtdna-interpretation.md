@@ -34,6 +34,8 @@
 29. *Scientific Details: A Deeper Dive Into Age Estimates* — FamilyTreeDNA, 2022-09-19 — <https://blog.familytreedna.com/tmrca-age-estimates-scientific-details/> — Rights: cited reference, not reproduced.
 30. *Lineages Versus Ancestors – How to Find and Leverage Yours* — Roberta Estes (DNAeXplained), 2025-02-23 — <https://dna-explained.com/2025/02/23/lineages-versus-ancestors-how-to-find-and-leverage-yours/> — Rights: cited reference, not reproduced. The lineage and test-coverage register is Kinprove's synthesis of the saved article's separate lineage worksheets, navigation-bookmark distinction and eligible-descendant search. It does not reconstruct the missing worksheet images or validate the article's biological absolutes, named mutation ancestors, provider controls or testing recommendations.
 
+31. *DNA from 459 Ancient British Isles Burials Reveals Relationships – Does Yours Match?* — Roberta Estes (DNAeXplained), 2022-02-01 — <https://dna-explained.com/2022/02/01/dna-from-459-ancient-british-isles-burials-reveals-relationships-does-yours-match/> — Rights: cited reference, not reproduced. Supports a query trace and specimen-field record for a supplied catalogue and observed tree. The saved article does not establish current catalogue coverage, assay resolution, closest ancient kinship, direct descent, origin or the validity of the underlying studies' models.
+
 ## Credits
 
 - Roberta Estes, 'All About AI – What It Is, What It Isn't, and Why It Matters', DNAeXplained, 2026-06-25 — FSL-1.1-MIT (adapted)

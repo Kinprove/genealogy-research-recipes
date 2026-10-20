@@ -29,6 +29,23 @@ AI is a **language-prediction system, not a reasoning authority** — it produce
 - **Final evidentiary judgment.** Proof validation is human work; AI drafts, you rule. (Denyse Allen)
 - **Source-type classification without explicit rules.** Ask AI to classify sources as *original / derivative / authored* and it will (a) confuse them with *primary / secondary* (which classify the *information*, a different axis), and (b) invent its own logic — unless you define the rules first. (Family Locket, 2026-03; the framework is Elizabeth Shown Mills methodology, so this is a real, checkable failure mode.)
 
+## Inspect supplied region views before planning a locality search
+
+For a reported region/place discrepancy, retain the provider, result date/version, exact
+label and the map or geographic description actually supplied. Check the displayed extent
+before comparing the label with a modern country name; unavailable map detail stays
+unavailable. The [Ancestry region-description example](https://www.youtube.com/watch?v=59wkUV3C3iM)
+supplies this observation step, without validating the estimate or locating an ancestor.
+
+If the supplied community view includes a Timeline, preserve the selected date interval,
+map and accompanying narration. Compare its place/time leads with separately documented
+family locations, keeping conflicting records and alternative localities in the search
+worklist. The [Journeys example](https://familytreemagazine.com/dna/why-you-should-pay-attention-to-your-ancestrydna-journeys/)
+uses successive time views to suggest where to search records. Tree-fed pins and agreement
+with a known line are not independent validation or confidence calibration. Treat the
+display as a source of documentary search leads, not proof of a personal migration route,
+birthplace, parentage or exclusion of an ancestor.
+
 ## Endogamous matches: separate prioritization from ancestral attribution
 
 These autosomal tactics address Ashkenazi and other endogamous pedigrees; a threshold chosen for one purpose does not establish a relationship or an ancestor.
