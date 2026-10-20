@@ -99,9 +99,11 @@ authorship does not require a Kinprove account, connector or scoring engine.
   sections with no hit; a gap does not establish a move, death or identity.
 
 - **`recipes/land-index-book-series-recovery.md`** — Follow a land-record lead through
-  both relevant index directions to the correct instrument and record-book series.
+  both relevant index directions to the correct instrument and record-book series,
+  or carry a federal patent lead into its separate entry file.
   *Use for:* grantor/grantee indexes, ambiguous book locators, separate book series,
-  delayed recording or a surname search that missed the alternative index entry.
+  delayed recording, a surname search that missed the alternative index entry,
+  or cash-sale, bounty-land and homestead supporting packets.
   *Core guardrail:* copy the original locator, distinguish instrument and recording
   dates, and report bounded retrieval coverage before interpreting title or kinship.
 

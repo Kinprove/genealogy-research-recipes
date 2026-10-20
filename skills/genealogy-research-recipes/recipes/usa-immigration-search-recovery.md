@@ -201,6 +201,15 @@ naturalization database has no result.
    proceedings unresolved. The [final-order example](https://familylocket.com/back-to-the-basics-with-naturalization-records-part-3/)
    motivates this check without adopting its inconsistent dates or ultimate status narrative.
 
+If residence or property evidence supplies a federal homestead-entry lead, add its
+[separate land-entry file](land-index-book-series-recovery.md#5-carry-a-us-federal-patent-lead-into-its-separate-entry-file)
+to the recovery queue. The [NARA records interview](https://www.youtube.com/watch?v=T9iEw4Zhb7M)
+identifies such packets as a possible location of naturalization papers. Preserve any
+paper's actual title, date and supplied court/reference with its locator inside the land
+file; follow a supplied court lead to the corresponding proceeding. A paper found in a
+land packet does not mean the court file has been inspected. This retrieval lead supplies
+no universal eligibility rule, citizenship conclusion or expected packet size.[13]
+
 **Output:** a court packet, or a court-by-court recovery queue. **Check:** first
 papers are not completed naturalization. NARA generally holds declarations
 and petitions rather than the citizenship certificate.

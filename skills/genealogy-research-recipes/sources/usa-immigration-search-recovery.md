@@ -40,6 +40,10 @@ the relevant workflow. Community references:
 12. Nicole Dyer, Family Locket, *Finding William Henry Kelsey’s Naturalization
     in a Utah County Minute Book*, 17 August 2026.
     <https://familylocket.com/finding-william-henry-kelseys-naturalization-in-a-utah-county-minute-book/>
+13. Aimee Cross, *Missed Records at the National Archives*, 17 July 2025.
+    <https://www.youtube.com/watch?v=T9iEw4Zhb7M>
+    A possible naturalization-paper lead inside a homestead packet; the interview's
+    eligibility assertion, digitization heuristic and typical page count are excluded.
 
 ## Credits
 
