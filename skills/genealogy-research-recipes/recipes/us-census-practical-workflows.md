@@ -154,6 +154,9 @@ For extracted answers distinguish `answered`, `explicit_no`, `blank`, `not_asked
 
 1. Compare both households member by member. List people who disappeared, appeared, married, changed names, or changed recorded location. Keep each unexplained change as a separate research question.
 2. Check whether surviving 1890 population fragments cover the locality. Check veterans' schedules separately when relevant; they have their own geographical and subject coverage.
+
+   For a relevant 1890 veterans-schedule entry, read both portions of the sheet. Use the printed line number and sheet context to match the upper service fields with the lower post-office-address, disability and remarks fields. Preserve multiple service rows and widow wording. A widow's post-office address is hers, not evidence of the deceased veteran's residence in 1890. Carry recorded unit and service dates as leads into the [pension-file workflow](us-military-pension-file-recovery.md). If the lower portion or its link is missing or illegible, record the gap instead of transferring a nearby row. [S25, H5, H6]
+
 3. Build a coverage table for state, territorial, local, and school censuses, directories, tax records, vital records, deeds, probate, newspapers, and other dated records. Record actual years and jurisdictions held rather than copying a broad database title.
 4. Search for non-federal censuses between the two federal dates. If no state census is known, investigate municipal, township, county, or other local enumerations. Search library catalogs and finding aids when an online index is absent.
 5. Add dated residence observations to a timeline. Check whether changed county boundaries explain apparently different locations. Search married children separately under supported names.
@@ -166,6 +169,8 @@ For extracted answers distinguish `answered`, `explicit_no`, `blank`, `not_asked
 **Example prompt:** “Using these two households and collection descriptions, create an 1880–1900 coverage plan. Distinguish records searched, records known but inaccessible, and records whose survival has not been established.”
 
 **Method origin:** Sara Cochran discusses fragments, veterans, school censuses, directories, family reconstruction, and boundary changes. James Tanner demonstrates state and local census discovery and library searches. [S20](https://www.youtube.com/watch?v=NmtuDJBE5eQ), [S21](https://www.youtube.com/watch?v=DYAVc-ih68g)
+
+[Ancestry's demonstration](https://www.youtube.com/watch?v=UtoRoxYo2JE) follows the veterans schedule's lower fields and unit clues. The [official form image](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890veteranscensus.jpg) shows the repeated line numbers; the [1890 instructions, printed page 45](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890instructions.pdf), distinguish multiple service spaces and a widow's present post-office address. [S25, H5, H6]
 
 ## 6. Extract the informant, supplementary answers and enumerator notes
 

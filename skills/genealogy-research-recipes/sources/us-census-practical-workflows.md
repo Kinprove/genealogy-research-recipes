@@ -33,6 +33,9 @@ draw on each source.
 | S24 | [Ancestry, 1880 Census: An Overview](https://www.youtube.com/watch?v=hhRsjcf0AQg) | 2016-09-19 | 7 |
 | H3 | [U.S. Census Bureau, 1880 Schedule 1 question headings and notes A, D, E and G](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1880_Census.html) | 1880 form reproduced; checked 2026-10-21 | 7 |
 | H4 | [U.S. Census Bureau, 1880 Instructions to Enumerators, Schedule No. 1](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1880/1880-instructions.html) | 1880 instructions reproduced; checked 2026-10-21 | 7 |
+| S25 | [Ancestry, Hidden Treasures on Ancestry, featuring Juliana Szucs](https://www.youtube.com/watch?v=UtoRoxYo2JE) | 2020-03-18 | 5 |
+| H5 | [U.S. Census Bureau, 1890 veterans special schedule, form image](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890veteranscensus.jpg) | 1890 form reproduced; checked 2026-10-21 | 5 |
+| H6 | [U.S. Census Bureau, 1890 Instructions to Enumerators, Special Schedule, printed page 45](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890instructions.pdf) | 1890 instructions; indexed excerpt checked 2026-10-21 | 5 |
 
 S22 contributes the first-marriage-age calculation; H1 establishes the age reference
 date, allowance for approximate ages and the restriction to entries recorded as married.
@@ -52,6 +55,14 @@ from the visit. The month-to-calendar-year mapping is an analytical adaptation. 
 official instructions nor the demonstration verifies a household's compliance, exact
 dates, spouse identity or marriage order. The printed form image and original household
 were not inspected.
+
+S25 supplies the lower-field and unit-to-pension example. H5 was visually inspected
+for the form structure and repeated line numbers, not to establish facts about the
+people in the sample. The indexed H6 excerpt supplies the multiple-service-space
+and widow-address rules; the full instructions PDF was not read. The original
+demonstration's images, current provider indexing and geographical coverage were
+not verified. No service, residence, pension eligibility or payment is established
+by this procedural addition.
 
 ## Credits
 
