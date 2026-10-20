@@ -21,6 +21,15 @@ search in the user's Ancestry account.
   and [1950 census FAQ](https://www.archives.gov/research/census/1950/faqs).
 - The National Archives, [Census records](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/), especially sections 10–11.
 
+## Volume, schedule and attachment checks added 2026-10-20
+
+- Ancestry, [Understanding More About the Records You Are Using](https://www.youtube.com/watch?v=kXnvin57vgs), 2014-01-10: browse-volume gaps and overlaps. The recipe does not adopt the speaker's shortcuts for identifying copies from an alphabetical index or a ledger label.
+- Ancestry, [Unveiling History: The 1921 Census of England and Wales](https://www.youtube.com/watch?v=lb5QXc1_FAk), 2025-03-26: retrieve the address side as well as the household rows. Findmypast's [RG 15 image-browse documentation](https://www.findmypast.com/discover/census-land-and-surveys/census/1921-census-of-england-and-wales-image-browse), checked 2026-10-20, confirms the document structure and variable image sequences; no fixed Ancestry navigation offset is asserted.
+- Ancestry, [Going Beyond The Shaky Leaf](https://www.youtube.com/watch?v=2SCohCLs8TY), 2013-10-22: inspect the actual attachments after saving. Current [record-saving](https://help.ancestry.com/hc/en-us/articles/53933314225043-Adding-Records-to-a-Tree) and [multi-person source](https://help.ancestry.com/hc/en-us/articles/53933348187923-Managing-Facts-Events-and-Sources-in-Trees) documentation was checked 2026-10-20. The recipe does not repeat the video's historical census-year rules for automatic propagation.
+
+These are source and documentation comparisons, not live account tests. Added prose is original
+synthesis; the new references are cited without reproducing their expression.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
