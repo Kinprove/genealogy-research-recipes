@@ -49,6 +49,27 @@ subsequent county deed. Verify the relevant custody and survival for the actual 
 **Method origin:** [Family Locket's locality research and planning example](https://familylocket.com/using-the-fan-methodology-to-find-a-females-father-part-2-locality-research-and-research-planning/).
 Use [evidence and proof judgment](evidence-proof-judgment.md) to decide what a result changes.
 
+For private family or plantation papers relevant to the locality, use an available collection
+index by place, surname or collection to select the described collection and section. Include
+collections held elsewhere that mention the place. Follow the locator to the actual holder
+and available volume or reel, then read its finding guide before selecting a bounded range
+to browse. A guide may describe only part of the contents; an omitted name or item does not
+establish absence from the papers. Log the pages actually inspected and leave the remainder
+uninspected. Private papers are also a separate lead after courthouse loss; a surviving private
+copy must be located, not presumed. Amy Johnson Crow's [2018 plantation-records interview](https://www.youtube.com/watch?v=in4Jda5KglQ)
+supplies this index-to-collection route, without establishing present holdings or proving that
+the target person appears in a collection.
+
+A genealogical or local-history periodical subject index can supply another locality route.
+Search by place and relevant subject category, or a distinctive surname, using the index's
+actual options. Preserve the article title, periodical, issue and publisher supplied by a hit;
+it is an article citation, not an inspected article. Check the publishing society's holdings
+or copy service, then the indexing library's article-copy route if needed, using current
+instructions and the exact citation. Keep an unavailable or requested article distinct from
+one received and read. Amy Johnson Crow's [2025 PERSI demonstration](https://www.youtube.com/watch?v=Hr6FD9xvNUM)
+supplies this citation-to-article handoff; its historical order form and service terms are not
+a current ordering contract.
+
 Before an onsite visit, confirm the specific service and target volume for the actual date.
 An open building, scheduled tour, onsite finding index and retrieval of original files are
 separate arrangements. Retain any advance-order requirement and the permitted capture route;
