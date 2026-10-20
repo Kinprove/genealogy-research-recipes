@@ -192,11 +192,14 @@ The [MyHeritage census demonstration](https://www.youtube.com/watch?v=4P8sUi-Adn
 
 ## 7. Turn census marriage and child fields into targeted searches
 
-**Use when:** You need a marriage period, missing children, or evidence that a household combines more than one family.
+**Use when:** You need a birth or marriage period, missing children, or evidence that a household combines more than one family.
 
-**Inputs:** Full household images from multiple censuses, literal relationship fields, reported marriage duration or status, and children-born/children-living fields where present. For 1930, retain each person's reported age and age at first marriage separately.
+**Inputs:** Full household images from multiple censuses, literal relationship fields, reported marriage duration or status, and children-born/children-living fields where present. For 1880, retain the birth-month and recent-marriage fields. For 1930, retain each person's reported age and age at first marriage separately.
 
 1. Extract the reported fields without normalizing discrepancies. Include relationships to the head exactly as recorded. A list of co-residents in an 1850 or 1860 population schedule does not supply the relationship column introduced in 1880.
+
+   For 1880, preserve column 7's birth-month entry and column 12's marriage mark, alongside the person's marital-status fields. The census year ran from 1 June 1879 through 31 May 1880. If the entry follows those instructions, June–December birth months suggest 1879 and January–May suggest 1880. Treat an affirmative marriage mark as a lead to that window, not an exact date or an identified spouse. Column 12 applied to married, widowed or divorced people; do not assume the mark dates a first marriage or the union shown in the household. Keep derived leads separate from literal answers and investigate conflicts. A blank does not establish that the person never married. [S24, H3]
+
 2. Derive a marriage-period lead from reported duration. Compare multiple enumerations and retain disagreement. A subtraction such as census year minus reported married years is an approximate search lead, not an exact marriage date.
 3. For 1930, use `1930 - (reported age - reported age at first marriage)` only as a first-marriage search lead for that person. Age refers to 1 April 1930; allow for birthday timing and uncertain reported ages. The estimate need not date the union shown in the household. Compare the spouses' leads: disagreement prompts prior-marriage or reporting-error checks, while agreement does not prove they first married each other. Column 15 applied only to people recorded as married in column 14, so a blank does not establish that the person never married. [S22, H1]
 4. Inspect indications of previous marriages using the relevant form headings and instructions. Do not assume every duration or child count refers only to the couple shown together.
@@ -218,6 +221,12 @@ paragraphs 156–157 and 161 (printed pages 26–27), establish the reference da
 approximate ages and question scope. Agreement between calculated periods is retained as
 a search lead, without adopting the video's conclusion that both spouses necessarily
 married each other first. [S22, H1]
+
+[Ancestry's 1880 example](https://www.youtube.com/watch?v=hhRsjcf0AQg) turns the birth-month
+and recent-marriage fields into record searches. The [official question headings and notes A, D, E and G](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1880_Census.html)
+define their interval and scope. The [instructions for Schedule 1](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1880/1880-instructions.html)
+use 1 June as the reference date, independently of the visit date; a conflicting entry
+still needs corroboration. [S24, H3, H4]
 
 ## 8. Use mortality schedules with the correct death window
 

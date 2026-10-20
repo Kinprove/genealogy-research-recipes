@@ -30,6 +30,9 @@ draw on each source.
 | H1 | [U.S. Bureau of the Census, Instructions to Enumerators (1930), paragraphs 156–157 and 161, printed pages 26–27](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1930instructions.pdf) | 1930; checked 2026-10-20 | 7 |
 | S23 | [MyHeritage, Ask The Expert: How To Work with U.S. Census Records](https://www.youtube.com/watch?v=4P8sUi-Adno) | 2020-09-09 | 6 |
 | H2 | [U.S. Bureau of the Census, 1940 instructions reproduced in Population, volume IV, appendix, paragraph 446](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p1ch2.pdf) | 1940 instructions; checked 2026-10-20 | 6 |
+| S24 | [Ancestry, 1880 Census: An Overview](https://www.youtube.com/watch?v=hhRsjcf0AQg) | 2016-09-19 | 7 |
+| H3 | [U.S. Census Bureau, 1880 Schedule 1 question headings and notes A, D, E and G](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1880_Census.html) | 1880 form reproduced; checked 2026-10-21 | 7 |
+| H4 | [U.S. Census Bureau, 1880 Instructions to Enumerators, Schedule No. 1](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1880/1880-instructions.html) | 1880 instructions reproduced; checked 2026-10-21 | 7 |
 
 S22 contributes the first-marriage-age calculation; H1 establishes the age reference
 date, allowance for approximate ages and the restriction to entries recorded as married.
@@ -42,6 +45,13 @@ indexed reproduction H2 specifies column 7's circled X and the left-margin name 
 outside informant. Verification covers that paragraph's text, not a visual reading of
 the full PDF or an original household. The demonstration's literacy explanation and any
 assumption that one informant supplied or knew every answer are not adopted.
+
+S24 supplies the event-search example. H3 establishes the two field headings, reporting
+interval and marriage-question eligibility; H4 distinguishes the census reference date
+from the visit. The month-to-calendar-year mapping is an analytical adaptation. Neither
+official instructions nor the demonstration verifies a household's compliance, exact
+dates, spouse identity or marriage order. The printed form image and original household
+were not inspected.
 
 ## Credits
 
