@@ -19,14 +19,6 @@ Use `NIL` for a completed search with no hits. Record inaccessible images, inter
 and unsearched collections with their actual status. Keep literal record wording and uncertain
 readings separate from your interpretation.
 
-When sorting a local research table by date, record type or shared cM, reorder complete data
-records so each document or match identifier stays with its values and citations. Keep an
-unchanged copy, then compare identifiable records before and after the sort. Select the relevant
-record range; unrelated blocks, headers and totals need not move. A few spot checks can expose
-detached values but cannot certify every row. The
-[historical DNA-table demonstration](https://www.youtube.com/watch?v=D1I4lYyxvvw)
-motivates this binding check without prescribing current spreadsheet controls.
-
 When building a timeline, keep the date as written, its source locator and stated precision
 separate from any derived sort key. If software supplies a synthetic first day to order a
 month-only date, label that value as an ordering convention and do not export it as the event
