@@ -54,6 +54,21 @@ it does not establish that a person or kit does not exist.
 Historical example: Family History Fanatics, [User Lookup](https://www.youtube.com/watch?v=1QMQ9EgJcK0)
 (2019-04-16), demonstrating Genesis; current tool, field and visibility behavior remain unverified.
 
+When inspecting a supplied combined AutoKinship report, record which component reports
+actually have results. Keep each group label with its run and report type: an AutoCluster
+number and an AutoSegment number identify different groups, even when the numbers match.
+Preserve every reported membership for a kit rather than forcing one group per person.
+An AutoSegment member may lack AutoCluster membership in that report; keep that distinction
+without treating the blank as no DNA match. Estes's 2022 example demonstrates these separate
+numbering systems and memberships. [S7]
+
+For a crosswalk, retain `run_id, report_type, reported_group, kit_id, membership, result_ref`
+and any supplied interval fields. Link entries through verified kit identities while retaining
+each report's original labels and scope; an unresolved identity or unavailable component stays
+unresolved. The crosswalk records tool output, not an ancestral assignment, a validated
+predicted tree or a checked triangulation result. Use the later comparison workflows for
+the pairwise evidence actually needed. This register is synthesis, not an import format. [S7]
+
 **Artifact:** private kit registry: `kit_id, person_handle, source, kit_type, input_kits,
 upload_receipt, readiness, baseline_run_id`. Run manifest: `run_id, retrieved_at, tool_label,
 input_kits, build, cm_min, snp_min, match_cap, chromosome, window_start, window_end, exclusions,

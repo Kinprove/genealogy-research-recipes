@@ -19,6 +19,12 @@ their numeric presets):
   2016-05-18 — [post](https://dna-explained.com/2016/05/18/creating-a-phased-parental-kit-at-gedmatch/).
 - **S6:** Family History Fanatics, *Phasing Parents — GEDmatch Tutorial*, 2018-09-04 —
   [demonstration](https://www.youtube.com/watch?v=G1eM3xloMKA).
+- **S7:** Roberta Estes, *AutoKinship at GEDmatch by Genetic Affairs*, DNAeXplained, 2022-02-21 —
+  [post](https://dna-explained.com/2022/02/21/autokinship-at-gedmatch-by-genetic-affairs/).
+  Separate AutoCluster and AutoSegment numbering, multiple memberships, per-tool result
+  availability and segment-group members outside an AutoCluster. The run/report/kit crosswalk
+  and unresolved-identity controls are synthesis. Current access, thresholds and interface,
+  triangulation assertions and predicted-tree model validity are not established by this capture.
 
 GEDmatch-hosted documentation and tutorials, retrieved 2026-10-04. Retrieval confirms the public
 page's contents; it does not verify the signed-in interface or current access level:
