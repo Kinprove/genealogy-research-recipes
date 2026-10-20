@@ -187,18 +187,19 @@ For extracted answers distinguish `answered`, `explicit_no`, `blank`, `not_asked
 
 **Method origin:** Genealogy TV demonstrates matching a 1940 person to the bottom section. Amy Johnson Crow demonstrates a 1950 sample-line-4 entry and separately discusses locating and linking enumerator notes. The note transcript is incomplete, so specific biographical details from its examples are not adopted. [S7](https://www.youtube.com/watch?v=JJY4EKK_sVg), [S19](https://www.youtube.com/watch?v=jA10V_GJcio), [S8](https://www.youtube.com/watch?v=ZzrQQz4BIT4)
 
-## 7. Turn 1900 and 1910 family fields into targeted searches
+## 7. Turn census marriage and child fields into targeted searches
 
 **Use when:** You need a marriage period, missing children, or evidence that a household combines more than one family.
 
-**Inputs:** Full household images from multiple censuses, literal relationship fields, reported marriage duration or status, and children-born/children-living fields where present.
+**Inputs:** Full household images from multiple censuses, literal relationship fields, reported marriage duration or status, and children-born/children-living fields where present. For 1930, retain each person's reported age and age at first marriage separately.
 
 1. Extract the reported fields without normalizing discrepancies. Include relationships to the head exactly as recorded. A list of co-residents in an 1850 or 1860 population schedule does not supply the relationship column introduced in 1880.
 2. Derive a marriage-period lead from reported duration. Compare multiple enumerations and retain disagreement. A subtraction such as census year minus reported married years is an approximate search lead, not an exact marriage date.
-3. Inspect indications of previous marriages using the relevant form headings and instructions. Do not assume every duration or child count refers only to the couple shown together.
-4. Where both child counts are legible, calculate `reported children born minus reported children living`. Treat the result as a reported difference requiring investigation. Do not create named deceased children from it. A living child absent from the household may be living elsewhere.
-5. Search for missing people through surrounding households, marriages, deaths, cemetery records, probate, and other suitable records. Compare the resulting candidates with the original households.
-6. Store literal statement, calculation, proposed event, and supporting record in separate fields. Keep immigration and naturalization statements as leads to the relevant documentary records rather than exact events established by the census alone.
+3. For 1930, use `1930 - (reported age - reported age at first marriage)` only as a first-marriage search lead for that person. Age refers to 1 April 1930; allow for birthday timing and uncertain reported ages. The estimate need not date the union shown in the household. Compare the spouses' leads: disagreement prompts prior-marriage or reporting-error checks, while agreement does not prove they first married each other. Column 15 applied only to people recorded as married in column 14, so a blank does not establish that the person never married. [S22, H1]
+4. Inspect indications of previous marriages using the relevant form headings and instructions. Do not assume every duration or child count refers only to the couple shown together.
+5. Where both child counts are legible, calculate `reported children born minus reported children living`. Treat the result as a reported difference requiring investigation. Do not create named deceased children from it. A living child absent from the household may be living elsewhere.
+6. Search for missing people through surrounding households, marriages, deaths, cemetery records, probate, and other suitable records. Compare the resulting candidates with the original households.
+7. Store literal statement, calculation, proposed event, and supporting record in separate fields. Keep immigration and naturalization statements as leads to the relevant documentary records rather than exact events established by the census alone.
 
 **Output:** A family-event hypothesis table and specific follow-up searches.
 
@@ -207,6 +208,13 @@ For extracted answers distinguish `answered`, `explicit_no`, `blank`, `not_asked
 **Example prompt:** “Compare these households. Separate literal fields from calculated marriage-period and missing-child leads. Identify prior-marriage questions and name the records needed to resolve them; do not invent relatives.”
 
 **Method origin:** Ancestry's worked comparison produces differing approximate marriage years from successive censuses. BlackProGen discusses children-born/living fields and previous marriages. MyHeritage explains the relationship column and immigration fields. [S6](https://www.youtube.com/watch?v=cMrTbAj5YN0), [S10](https://www.youtube.com/watch?v=Ejmjf550pHc), [S13](https://education.myheritage.com/article/the-u-s-census-tracing-your-family-in-census-records/)
+
+[Ancestry's 1930 example](https://www.youtube.com/watch?v=lvRG8tZ2eYU) supplies the separate
+first-marriage-age calculation. The [official enumerator instructions](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1930instructions.pdf),
+paragraphs 156–157 and 161 (printed pages 26–27), establish the reference date, possible
+approximate ages and question scope. Agreement between calculated periods is retained as
+a search lead, without adopting the video's conclusion that both spouses necessarily
+married each other first. [S22, H1]
 
 ## 8. Use mortality schedules with the correct death window
 

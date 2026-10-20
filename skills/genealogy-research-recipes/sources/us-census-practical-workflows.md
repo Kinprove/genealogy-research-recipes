@@ -26,6 +26,14 @@ draw on each source.
 | S19 | Amy Johnson Crow, Taking a Look at the 1950 Census on the National Archives Website | 2022-04-01 | 6 |
 | S20 | Sara Cochran / BYU, Getting Around the Missing 1890 Census | 2023-03-31 | 5 |
 | S21 | James Tanner / BYU, Using Local and State Censuses for Genealogical Research | 2025-02-11 | 5 |
+| S22 | [Ancestry, Exploring the 1930 U.S. Federal Census](https://www.youtube.com/watch?v=lvRG8tZ2eYU) | 2012-01-05 | 7 |
+| H1 | [U.S. Bureau of the Census, Instructions to Enumerators (1930), paragraphs 156–157 and 161, printed pages 26–27](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1930instructions.pdf) | 1930; checked 2026-10-20 | 7 |
+
+S22 contributes the first-marriage-age calculation; H1 establishes the age reference
+date, allowance for approximate ages and the restriction to entries recorded as married.
+Neither source establishes a particular household's marriage history. Agreement between
+the spouses' calculated periods does not prove that their first marriages were to each
+other, and the procedure does not promise a one-year bound on reported-age error.
 
 ## Credits
 
