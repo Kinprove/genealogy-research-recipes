@@ -21,6 +21,7 @@
 - **S17:** *How to Unmerge People of the Same Name on the FamilySearch Family Tree*, published 2023-06-24 — [publisher shortlink](https://familylocket.com/?p=31567).
 - **S18:** FamilySearch Help Center, *How do I upload memories to FamilySearch?*, dated 2026-05-13; checked 2026-10-04 — [source](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-upload-photos-or-documents-to-memories).
 - **S19:** FamilySearch Help Center, *Guide to memory visibility settings*, dated 2025-08-12; checked 2026-10-04 — [source](https://www.familysearch.org/en/help/helpcenter/article/what-are-private-memories).
+- **S20:** Aimee Cross, *The FamilySearch Catalog: Where the REAL Wealth is Hidden*, published 2026-05-21 — [source](https://www.youtube.com/watch?v=0mxyz1mPVpQ). Catalog-to-WorldCat copy-location leads; prospective holdings and access require separate verification.
 
 ### Source qualifications
 

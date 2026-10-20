@@ -119,6 +119,14 @@ use the controls and access information actually available for the item.
 4. Reopen that same item through the permitted route and record the actual outcome.
 5. If viewing works but downloading is disabled, inspect and transcribe the displayed record and preserve its citation.
 
+If the Catalog entry offers a WorldCat link for other copy locations, follow it and retain
+the matching title, creator, edition/volume and listed institutions as retrieval leads.
+Check the prospective holder's own catalog or item-specific response for the needed volume,
+dates and permitted access before planning a visit or request. Keep an unverified listing
+separate from confirmed holdings and an inspected copy. The [Catalog demonstration](https://www.youtube.com/watch?v=0mxyz1mPVpQ)
+shows this alternate-copy route; it does not establish that another institution can supply
+the particular record or remove the original item's restrictions. [S20]
+
 **Artifact:** An access packet: Catalog URL, identifiers, restriction message, attempted location, permitted route and outcome.
 
 **Check:** An access failure leaves the record unexamined. The tutorials warn that some restrictions remain even at center/library computers.

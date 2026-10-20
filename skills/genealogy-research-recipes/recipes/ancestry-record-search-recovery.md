@@ -85,7 +85,8 @@ Use the existing evidence-judgment recipe before drawing a genealogical conclusi
 
 ### 6. Remove tree facts that belong to another life stage
 
-**Trigger:** a tree-launched search returns nothing useful for childhood or early life.
+**Trigger:** a tree-launched search returns nothing useful for a different life stage,
+such as childhood or a possible remarriage.
 
 Inspect the populated query, including relationships. Remove the later spouse,
 children, later residence and uncertain facts when they constrain an early-life
@@ -95,6 +96,16 @@ collection actually exposes. A missing death-date control in a census search is
 not evidence that the person lacks a death record.
 See [How to Search](https://help.ancestry.com/hc/en-us/articles/53933305561747-How-to-Search-Ancestry)
 and [Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips).
+
+For a possible remarriage, test a supported previous married surname without requiring
+the maiden surname. Inspect prefilled parents and siblings too: a surname removed from
+the subject's field may still constrain the query through those relatives. Save the
+original query, remove those inherited constraints in the comparison query, and narrow
+to marriage records with supported place/time bounds where those fields are available.
+Inspect the recovered record and identifying details before accepting a remarriage.
+The [women's research demonstration](https://www.youtube.com/watch?v=2akp4WbCDlw) shows this
+specific search failure; it does not establish a universal naming practice or prove
+identity from a changed surname alone.
 
 If a candidate's reported surname differs from the hypothesized biological family's surname,
 keep the reported name as the record subject. Test the other surname as an associate/keyword

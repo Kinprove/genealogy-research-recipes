@@ -241,6 +241,20 @@ For extracted answers distinguish `answered`, `explicit_no`, `blank`, `not_asked
 5. When examining unnamed entries in slave schedules, record the literal demographic information and its context. An age/sex match does not name a person or establish a family.
 6. Keep documentary enslavement evidence separate from census race, birthplace, age, and surname observations. A 1900 census profile alone does not establish enslavement or identify an enslaver.
 
+If named post-emancipation records leave an enslaver question unresolved, define a bounded
+1870 neighborhood to inspect and record neighboring households as possible research leads.
+Trace each selected named person into earlier censuses, comparing identity before carrying
+the lead backward. Retain the literal property fields with their year and heading; do not
+use a wealth threshold to infer enslaving status. Search relevant deeds, probate inventories
+and estate-sale records for named people and transactions. Add relatives to the worklist
+when inspected records supply a reason to investigate a transfer or bequest through them.
+Where relevant claims files survive, search both the target's and candidate's names and
+inspect witness testimony. Keep the candidate, reason, earlier locator, record searched,
+named-person evidence, conflicts and next action in a separate worklist. Neighborhood
+proximity, recorded race or property value does not establish an enslaver or show that the
+family remained in its former location. This bounded adaptation of [Aimee Cross's example](https://www.youtube.com/watch?v=12gmfLSWs70)
+excludes the video's property-value heuristic and assumed residence continuity. [S22]
+
 **Output:** A candidate identity chain, household comparisons, surname observations, and the documentary evidence needed for each unresolved link.
 
 **Checkpoint:** Do not attach an unnamed slave-schedule entry or an enslaver to a person solely through matching surname, age, or locality. Keep free status and unknown status open where the documents do not resolve them.

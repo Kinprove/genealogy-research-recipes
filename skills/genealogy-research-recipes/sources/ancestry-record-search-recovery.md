@@ -13,6 +13,7 @@ search in the user's Ancestry account.
 - Ancestry, [Getting Started With Probate Records](https://www.youtube.com/watch?v=bcOlApV2Fng), 2015-09-09; original-index follow-through and book/image pagination.
 - Ancestry, [1950 Census: Weekly Update, Week 1](https://www.youtube.com/watch?v=hQ08OoZDQ8o), 2022-04-06; contemporary address to district images, excluding historical interface and index-release claims.
 - Aimee Cross, [No One at Home? Understanding New Codes and other Helps for the 1950 U.S. Census](https://www.youtube.com/watch?v=WDdp3v8Kitc), 2022-04-07; sheet/line references, late sheets and informant footnotes, excluding unnamed-provider navigation.
+- Aimee Cross, [Genealogy Research Tools for the Women in your Family Tree](https://www.youtube.com/watch?v=2akp4WbCDlw), 2022-03-10; possible-remarriage queries with inherited maiden-surname constraints removed from the subject and prefilled relatives. Naming and identity remain case-specific.
 - Ancestry help: Card Catalog; Refining Your Search; How to Search; Search Tips;
   Spelling Variations; Source and Collection Information; library access; Web
   Records. Links appear beside the methods they support.

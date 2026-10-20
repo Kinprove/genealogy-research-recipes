@@ -26,6 +26,12 @@ draw on each source.
 | S19 | Amy Johnson Crow, Taking a Look at the 1950 Census on the National Archives Website | 2022-04-01 | 6 |
 | S20 | Sara Cochran / BYU, Getting Around the Missing 1890 Census | 2023-03-31 | 5 |
 | S21 | James Tanner / BYU, Using Local and State Censuses for Genealogical Research | 2025-02-11 | 5 |
+| S22 | Aimee Cross, [Finding Enslaved Ancestors & Build an African American Family Tree](https://www.youtube.com/watch?v=12gmfLSWs70) | 2023-06-22 | 9 |
+
+S22 supplies a neighborhood-to-earlier-household research route and named-person searches
+in deeds, probate and claims testimony. Its property-value threshold and broad assumptions
+about post-emancipation residence are excluded. The worklist remains a set of candidates;
+it does not identify an enslaver from census proximity, race or wealth.
 
 ## Credits
 
