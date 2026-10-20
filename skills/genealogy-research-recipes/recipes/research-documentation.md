@@ -19,6 +19,15 @@ Use `NIL` for a completed search with no hits. Record inaccessible images, inter
 and unsearched collections with their actual status. Keep literal record wording and uncertain
 readings separate from your interpretation.
 
+For a broken link to a historical genealogy page, retain the exact original URL and check
+an available web archive, such as the Internet Archive's Wayback Machine, for a dated capture.
+If one is available, inspect it and record the archive URL, capture date and access date;
+keep any known original publication date separate. Record missing pages, images and linked
+material individually. No usable capture means the page remains unavailable. An archived tree
+or transcription keeps that source role; retrieval adds neither independent corroboration nor
+proof of kinship. Roberta Estes's [2026 broken-link example](https://dna-explained.com/2026/10/02/focus-step-1-seven-solutions-for-dna-matches-with-absent-or-shrunken-trees/)
+supplies this recovery route, without guaranteeing a capture or the site's current content.
+
 For a bounded set of multi-person records, an optional associate index can keep one row
 per named person's occurrence, with the same source-item/document number on every row from
 that item. Filter by person to see their occurrences or by item number to recover its named
