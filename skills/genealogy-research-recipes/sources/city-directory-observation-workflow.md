@@ -19,6 +19,12 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   civil-register and subsequent-directory research. The recipe's conditional schema and time-role
   controls are original synthesis from this example; the article, not a directory-book image, was inspected.
 
+- **S5:** CompGen-Forschungstipps, [Räumliche Visualisierung genealogischer Daten mit dem Programm QGIS](https://www.youtube.com/watch?v=Ct-eZM0TONs),
+  5 June 2023. The presenter describes address-book data dominated by household heads and
+  distinguishes women's marital-status wording from occupational wording. This saved
+  transcript does not establish another edition's inclusion policy. Recording an edition's
+  stated rule and locator, or leaving it unknown, is Kinprove synthesis from that limitation.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

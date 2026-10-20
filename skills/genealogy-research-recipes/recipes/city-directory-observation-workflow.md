@@ -133,6 +133,12 @@ another volume or prove ownership.
 **Check:** A gap in a database's editions and an absent entry on inspected pages are different
 results. Neither alone establishes why the person is missing.
 
+Record the edition's stated inclusion rule and its locator beside the coverage row; leave
+that rule unknown when the volume does not establish it. A directory listing household heads
+does not make an unlisted household member absent from the household or locality. CompGen's
+address-book example also distinguishes a woman's marital-status wording from an occupation;
+retain the printed role without inferring employment from it. [S5]
+
 ## Prompt pattern
 
 > Using these directory images, edition descriptions and earlier worksheet rows, produce the

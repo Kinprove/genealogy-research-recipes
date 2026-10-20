@@ -56,6 +56,13 @@ if only the index can be inspected, preserve its pointer and leave the document 
 The [onsite-trip example](https://familylocket.com/how-to-prepare-for-an-onsite-genealogy-research-trip/)
 motivates this distinction without establishing a repository's current policy or permission.
 
+For a written record request, state the person or event, known dates and places, available
+locator, and desired delivery form. If an image of the entry is needed, request a reproduction
+of the original explicitly; distinguish the image, transcription or certified extract actually
+received in the log and citation. The [2021 civil-register request example](https://www.youtube.com/watch?v=dhDhK3sPgyU)
+motivates that product distinction. Check the holder's current service and fee information
+before ordering; the example establishes no present fee, service or certification requirement.
+
 ## Compare one family across named censuses
 
 An optional grid can place people on rows and selected census years on columns, with each
