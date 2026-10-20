@@ -78,6 +78,10 @@
 - *Your Wonderful AI Assistant – Sometimes Wrong, Never Unsure, Always Convincing* — Roberta Estes (dna-explained.com), 2026-06-17 — Rights: cited reference, not reproduced.
 - *All About AI – What It Is, What It Isn't* — Roberta Estes (dna-explained.com), 2026-06-25 — Rights: cited reference, not reproduced.
 
+### CompGen Forschungstipps — YouTube
+
+- *DES-Projekte mit Transkribus* — Michael Rose, 2024-02-23 — <https://www.youtube.com/watch?v=6IwX6kZbx4Q> — Rights: cited reference, not reproduced. Historical correction handoff; destination/version verification is Kinprove synthesis, not a claim about current synchronization or model training.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
