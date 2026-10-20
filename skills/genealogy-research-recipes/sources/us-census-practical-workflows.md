@@ -28,12 +28,20 @@ draw on each source.
 | S21 | James Tanner / BYU, Using Local and State Censuses for Genealogical Research | 2025-02-11 | 5 |
 | S22 | [Ancestry, Exploring the 1930 U.S. Federal Census](https://www.youtube.com/watch?v=lvRG8tZ2eYU) | 2012-01-05 | 7 |
 | H1 | [U.S. Bureau of the Census, Instructions to Enumerators (1930), paragraphs 156–157 and 161, printed pages 26–27](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1930instructions.pdf) | 1930; checked 2026-10-20 | 7 |
+| S23 | [MyHeritage, Ask The Expert: How To Work with U.S. Census Records](https://www.youtube.com/watch?v=4P8sUi-Adno) | 2020-09-09 | 6 |
+| H2 | [U.S. Bureau of the Census, 1940 instructions reproduced in Population, volume IV, appendix, paragraph 446](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p1ch2.pdf) | 1940 instructions; checked 2026-10-20 | 6 |
 
 S22 contributes the first-marriage-age calculation; H1 establishes the age reference
 date, allowance for approximate ages and the restriction to entries recorded as married.
 Neither source establishes a particular household's marriage history. Agreement between
 the spouses' calculated periods does not prove that their first marriages were to each
 other, and the procedure does not promise a one-year bound on reported-age error.
+
+S23 contributes the informant-mark example. The complete paragraph 446 in the official
+indexed reproduction H2 specifies column 7's circled X and the left-margin name of an
+outside informant. Verification covers that paragraph's text, not a visual reading of
+the full PDF or an original household. The demonstration's literacy explanation and any
+assumption that one informant supplied or knew every answer are not adopted.
 
 ## Credits
 

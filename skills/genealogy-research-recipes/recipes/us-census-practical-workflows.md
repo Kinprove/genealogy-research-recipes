@@ -167,25 +167,28 @@ For extracted answers distinguish `answered`, `explicit_no`, `blank`, `not_asked
 
 **Method origin:** Sara Cochran discusses fragments, veterans, school censuses, directories, family reconstruction, and boundary changes. James Tanner demonstrates state and local census discovery and library searches. [S20](https://www.youtube.com/watch?v=NmtuDJBE5eQ), [S21](https://www.youtube.com/watch?v=DYAVc-ih68g)
 
-## 6. Extract supplementary answers and enumerator notes
+## 6. Extract the informant, supplementary answers and enumerator notes
 
 **Use when:** A standard index or household crop seems to contain too little information.
 
 **Inputs:** The full 1940 or 1950 sheet, household line numbers, and adjacent images where an entry continues.
 
 1. Read the whole sheet, including the top, bottom, margins, and any continuation. Record the form and printed headings actually present.
-2. For each household member, check whether the line is designated for supplementary questions. Match the person to the supplementary section by its printed line number.
-3. Transcribe each answer with the question it answers. Do not apply a supplementary answer to every person in the household.
-4. Resolve note numbers and written line references. Attach a note to the indicated entry or field. Notes can explain revisions, unusual ages, employment details, or why an entry was struck through.
-5. Keep blanks, unreadable text, questions not asked, and explicit negative answers distinct. Record uncertainty about the note's subject instead of assigning it by proximity.
+2. For 1940, look for a circled X after a household member's name in column 7. The instructions identify that person as the household informant; information from someone outside the household should instead have that person's name in the left margin opposite the household. Preserve the actual mark or note and its locator. If neither is legible or present, leave the informant unknown rather than assume the household head. The designation does not establish who supplied every answer or whether they knew each fact firsthand. [S23, H2]
+3. For each household member, check whether the line is designated for supplementary questions. Match the person to the supplementary section by its printed line number.
+4. Transcribe each answer with the question it answers. Do not apply a supplementary answer to every person in the household.
+5. Resolve note numbers and written line references. Attach a note to the indicated entry or field. Notes can explain revisions, unusual ages, employment details, or why an entry was struck through.
+6. Keep blanks, unreadable text, questions not asked, and explicit negative answers distinct. Record uncertainty about the note's subject instead of assigning it by proximity.
 
-**Output:** A person-linked extraction containing question, literal answer, sheet/line, supplement or note reference, interpretation, and uncertainty.
+**Output:** A person-linked extraction containing question, literal answer, sheet/line, supplement or note reference, any identified informant with the mark/note locator, interpretation, and uncertainty.
 
 **Checkpoint:** Use the markings on the actual form. Amy Johnson Crow demonstrates a 1950 sample-line-4 example, so a summary listing only other sample lines is incomplete. A crossed-out entry needs its associated note before interpretation.
 
 **Example prompt:** “Extract this household, its marked supplementary questions, and every linked note. Preserve the person-to-line mapping and distinguish blank, unreadable, not asked, and explicit no.”
 
 **Method origin:** Genealogy TV demonstrates matching a 1940 person to the bottom section. Amy Johnson Crow demonstrates a 1950 sample-line-4 entry and separately discusses locating and linking enumerator notes. The note transcript is incomplete, so specific biographical details from its examples are not adopted. [S7](https://www.youtube.com/watch?v=JJY4EKK_sVg), [S19](https://www.youtube.com/watch?v=jA10V_GJcio), [S8](https://www.youtube.com/watch?v=ZzrQQz4BIT4)
+
+The [MyHeritage census demonstration](https://www.youtube.com/watch?v=4P8sUi-Adno) motivates extracting the 1940 informant mark. [Official paragraph 446](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p1ch2.pdf) specifies both the circled X and the outside informant's margin note; this does not verify the demonstrated household or extend the rule to another census year.
 
 ## 7. Turn census marriage and child fields into targeted searches
 
