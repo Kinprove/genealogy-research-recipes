@@ -62,6 +62,31 @@ if only the index can be inspected, preserve its pointer and leave the document 
 The [onsite-trip example](https://familylocket.com/how-to-prepare-for-an-onsite-genealogy-research-trip/)
 motivates this distinction without establishing a repository's current policy or permission.
 
+## Find a manuscript collection's holder
+
+For a supported manuscript lead, search an available cross-repository catalogue by the
+named creator and, separately, a distinctive relevant subject such as an organization.
+Retain both queries and follow a matching collection description or finding aid to the
+holding institution's catalogue. Check the actual collection, series and date coverage
+before queuing a target; a name in a description is not an inspected personal record.
+The [university-archives interview](https://familylocket.com/rlp-284-university-archives-with-sam-howes/)
+demonstrates creator and subject searches in ArchiveGrid. It also reports incomplete
+participation: preserve an aggregator miss as that search's result and check a relevant
+holder's own catalogue when supported by a separate lead. Use the onsite preparation
+checks above for any described material you plan to request.
+
+## Recover a dated page behind a dead citation
+
+For a known URL with available archived captures, inspect the page content as well as the
+capture date. Several later captures may preserve only an error page. Move back to a
+content-bearing capture, then inspect later available versions for the needed pre-change
+page. Record the original URL, archive URL and timestamp, inspected dates and actual
+content or error state; keep any pointer to the underlying source.
+The [digital-publications demonstration](https://www.youtube.com/watch?v=a-539DY1aak)
+shows this temporal search. A surviving page does not mean its search form or database
+was preserved: report failed controls and missing captures as retrieval gaps. An archived
+page's date or an unavailable search does not establish record absence or the truth of its claims.
+
 ## Keep next actions linked to their origin
 
 When analysis produces another search, retain a separate pending-action field linked to

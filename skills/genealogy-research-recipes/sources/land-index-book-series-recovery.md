@@ -15,6 +15,15 @@ The index-audit, locator and series-resolution schemas are original synthesis.
 - **S4:** BYU Family History Library, John Hendrix,
   [U.S. Land Records](https://www.youtube.com/watch?v=gWPPN9DUUSc),
   29 April 2016. Delayed recording, both party indexes and recorded deed-book copies.
+- **S5:** Dana Leeds,
+  [10 Tips for NARA](https://www.danaleeds.com/10_tips_for_nara/),
+  8 December 2023. Historical federal-land locator worksheet; present request forms,
+  appointments and retrieval services were not verified.
+- **S6:** Dana Leeds,
+  [NARA Land Records: Discovering Family History Details That Aren’t Online](https://www.danaleeds.com/nara-land-records-discovering-family-history-details-that-arent-online/),
+  14 December 2023. Reported cash-sale, bounty-warrant and homestead packet components.
+  Original files were not independently inspected. The recipe does not adopt page-count
+  ranges, statutory eligibility, case kinship/service conclusions or current digitization claims.
 
 ## Credits
 

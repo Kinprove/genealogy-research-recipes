@@ -62,6 +62,27 @@ translation and compiled abstract distinct; extract only the household, origin o
 actually present. The same example motivates this related-item check without guaranteeing
 particular fields, complete survival or a present translation service.
 
+### U.S. federal entry packets
+
+For a federal entry lead, retain the stated entry class, act/year, land office, acreage,
+patent or document number and supplied legal description in the retrieval row. Match these
+fields to the custodian's actual series description before requesting the entry file.
+The [NARA preparation example](https://www.danaleeds.com/10_tips_for_nara/)
+shows the locator worksheet; it is not a specification for a current request form.
+
+Use the described entry class to look for different components in the available packet:
+
+| Entry lead | Components illustrated in the teaching account |
+| --- | --- |
+| Cash sale | Register and Receiver receipts, certificate, and any described agency or preemption papers |
+| Bounty land warrant | Certificate and its reverse or assignment endorsements; retain veteran, heir and assignee roles separately |
+| Homestead | Application papers, claimant and witness testimony, and related enclosures actually present |
+
+The [land-file examples](https://www.danaleeds.com/nara-land-records-discovering-family-history-details-that-arent-online/)
+motivate these inspection targets, not a universal contents list or eligibility rule. Record
+the requested and retrieved extent. Keep a reported settlement date separate from the
+application, testimony and patent dates; a patent image alone does not establish packet coverage.
+
 ## 1. Identify how this index actually works
 
 1. Record the index title, jurisdiction, covered dates and the record series it indexes.
