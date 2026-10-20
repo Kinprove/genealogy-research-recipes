@@ -32,6 +32,7 @@
 27. *Using Autosomal DNA in Genealogical Research* — Katy Rowe-Schurwanz (FamilyTreeDNA), 2026-04-09 — <https://blog.familytreedna.com/using-autosomal-dna-genealogy/> — Rights: cited reference, not reproduced.
 28. *How to Use mtDNA for Genealogy Research* — Katy Rowe-Schurwanz (FamilyTreeDNA), 2026-04-24 — <https://blog.familytreedna.com/using-mtdna-genealogy-research/> — Rights: cited reference, not reproduced.
 29. *Scientific Details: A Deeper Dive Into Age Estimates* — FamilyTreeDNA, 2022-09-19 — <https://blog.familytreedna.com/tmrca-age-estimates-scientific-details/> — Rights: cited reference, not reproduced.
+30. *Lineages Versus Ancestors – How to Find and Leverage Yours* — Roberta Estes (DNAeXplained), 2025-02-23 — <https://dna-explained.com/2025/02/23/lineages-versus-ancestors-how-to-find-and-leverage-yours/> — Rights: cited reference, not reproduced. The lineage and test-coverage register is Kinprove's synthesis of the saved article's separate lineage worksheets, navigation-bookmark distinction and eligible-descendant search. It does not reconstruct the missing worksheet images or validate the article's biological absolutes, named mutation ancestors, provider controls or testing recommendations.
 
 ## Credits
 

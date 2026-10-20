@@ -123,6 +123,23 @@ The output is **tester → documented path → test/tree → SNP → reported st
 - **Phylogenetic trees and migration maps are tester-dependent.** Branch definitions and dates differ between platforms, and geography tools (e.g. Globetrekker) mislead when few relevant men have tested — more testers can substantially shift the inferred geography. Never present the current tree as fixed truth. (GeneaVlogger, 2026-05; DNAeXplained, 2026-05)
 - **mtDNA is a weak genealogical instrument by design** — slow mutation, fewer testers, wide match ranges. Great for *eliminating* a direct-maternal-line hypothesis, poor for *pinning* a relationship.
 
+## Inventory lineage and test coverage before choosing another tester
+
+Keep separate Y-DNA and mtDNA lineage rows. For each documented line, record its nearest
+represented person, ordered upstream ancestors, sources and unresolved links, then attach
+the existing tester and actual test type/level. Several ancestors in the same line need
+not become separate testing targets. Keep a tree-page navigation bookmark in its own
+field: the person used to open the next pedigree page may belong to a different lineage.
+The [lineage worksheet example](https://dna-explained.com/2025/02/23/lineages-versus-ancestors-how-to-find-and-leverage-yours/)
+supplies this organizational step.
+
+State the unanswered question beside each row and whether the available assay can address
+it; retain an unknown assay or insufficient resolution as unresolved. A missing result
+can become a search for an eligible descendant, including through another child of an
+upstream ancestor. Verify the required descent path before proposing that person as a
+tester. The register organizes coverage and next questions; it does not establish a DNA
+relationship or authorize contacting, testing or sharing another person's data.
+
 ## Build a maternal pedigree and locality worklist
 
 For each selected mtDNA match, place the reported earliest maternal ancestor beside the
