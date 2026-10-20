@@ -25,6 +25,15 @@
 These additions use the provider's current written documentation for the stated distinctions,
 without claiming a live interface test. They are original synthesis; no source passage is reproduced.
 
+### Manual relationship and parental-side labels (checked 2026-10-21)
+
+- [Assigning Relationships to AncestryDNA Matches](https://help.ancestry.com/hc/en-us/articles/53933287432211-Assigning-Relationships-to-AncestryDNA-Matches) — current written guidance on manual relationship assignments replacing predictions and their viewing scope.
+- [Matches by Parent](https://help.ancestry.com/hc/en-us/articles/53933348047251-Matches-by-Parent) — distinguishes parental inference/orientation from individual manual labels and describes a user-made indication.
+- Ancestry, ["What's New at Ancestry: June 2021"](https://www.youtube.com/watch?v=fBB_OgWJZBY), 2021-06-10 — saved transcript motivates the display-provenance check; original video screens and a current signed-in account were not inspected.
+
+The operational check is original synthesis using current written documentation;
+the historical control sequence and example probabilities are not carried forward.
+
 ### Practitioner posts (dated)
 
 - Bartlett, Jim. "Segment Data for Ancestry Matches." Segment-ology, 2022-07-06. [Article](https://segmentology.org/2022/07/06/segment-data-for-ancestry-matches/) (method 8)

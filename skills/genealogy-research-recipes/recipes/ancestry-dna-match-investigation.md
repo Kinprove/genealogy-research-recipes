@@ -118,9 +118,18 @@ Bartlett (2023-07-08) reported **31 new ThruLines candidates** after changing a 
 
 **Never count a shared-match-informed prediction as independent support for a placement derived from the same graph.** Larkin's 2026-07-24 account identifies the affected range as **~650–2200 cM**, including half-siblings, aunt/uncle/niece/nephew, grandparent/grandchild, first cousins and great-aunt/uncle or great-grandparent relationships.
 
-Keep three columns: observed cM, dated vendor label, and sourced pedigree path. Include half and full alternatives when considering a relationship (Bartlett, 2026-03-27). A changed label belongs in the label/date column; inspect changed measurements, records or tester identity before revising the documented pedigree.
+Before treating a displayed relationship as Ancestry's prediction, check its origin.
+A user-assigned relationship replaces the general prediction in the owner's match
+list; manually assigned or changed parental-side labels carry a user-made indication.
+Record the kit, view, date and label origin (provider prediction, user-assigned or
+unknown), preserving any visible indicator. Treat a manual entry as a user's
+assertion and retain its evidential basis where known; if the capture omits its
+origin, leave it unknown. See [Assigning Relationships](https://help.ancestry.com/hc/en-us/articles/53933287432211-Assigning-Relationships-to-AncestryDNA-Matches)
+and [Matches by Parent](https://help.ancestry.com/hc/en-us/articles/53933348047251-Matches-by-Parent).
 
-**Output:** a comparison table with affected vendor labels marked “shared-graph-informed.”
+Keep three columns: observed cM, dated label with its origin, and sourced pedigree path. Include half and full alternatives when considering a relationship (Bartlett, 2026-03-27). A changed label belongs in the label/date column; inspect changed measurements, records or tester identity before revising the documented pedigree.
+
+**Output:** a comparison table distinguishing user assignments from vendor predictions, with affected predictions marked “shared-graph-informed.”
 
 ## 7. Recover a missing row through another view
 
