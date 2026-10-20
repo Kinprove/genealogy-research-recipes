@@ -39,6 +39,17 @@ series and dates, known loss, present custodian, access and collection/finding-a
 Include geography or administrative history when it changes where to search. A described
 collection remains uninspected until its contents have actually been examined.
 
+For conflicting gazetteer coordinates, retain each source's place identifier, stated
+reference point, coordinate system and date where supplied. A church, market square or
+calculated centre can represent the same settlement; a coordinate difference alone does
+not separate two places. Check the described feature and historical context before merging
+or separating the candidates, without inventing a distance tolerance. If relocation is
+documented, retain the earlier and later sites with their supported dates and identify which
+site each source describes. Leave unknown dates or reference points unresolved instead of
+replacing an earlier site with today's coordinates. The [2025 historical-place data discussion](https://www.youtube.com/watch?v=yR_W3jjwQAU)
+supplies these reference-point and relocation distinctions; their use in this locality guide
+is synthesis, not evidence that any particular place moved.
+
 Use that coverage to choose the next searches: target series and locator, dates or sections
 to inspect, access route and the observation that could distinguish the competing explanations.
 After a local record loss, distinguish copies transmitted to another custodian from records
