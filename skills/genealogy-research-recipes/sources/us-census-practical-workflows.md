@@ -26,6 +26,12 @@ draw on each source.
 | S19 | Amy Johnson Crow, Taking a Look at the 1950 Census on the National Archives Website | 2022-04-01 | 6 |
 | S20 | Sara Cochran / BYU, Getting Around the Missing 1890 Census | 2023-03-31 | 5 |
 | S21 | James Tanner / BYU, Using Local and State Censuses for Genealogical Research | 2025-02-11 | 5 |
+| S22 | Genealogy TV, [Secret Gems on Ancestry](https://www.youtube.com/watch?v=1lrFNBWKwzo) | 2024-02-09 | 4: missing-heading fallback |
+
+S22's saved transcript describes consulting 1790 and 1800 blank forms when original
+headings are missing. Matching the actual schedule and retaining uncertain assignments
+are workflow safeguards. No original schedule, blank-form payload, private handout or
+current download route was inspected for this amendment.
 
 ## Credits
 

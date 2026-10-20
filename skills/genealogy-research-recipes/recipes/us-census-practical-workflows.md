@@ -138,6 +138,14 @@ For extracted answers distinguish `answered`, `explicit_no`, `blank`, `not_asked
 5. Compare candidate heads across adjacent censuses and other records. Track recurring associates and historical jurisdictions. Reject a candidate only for an evidenced conflict, not a surname preference.
 6. Investigate a missing expected adult through alternate names, adjacent locations, property records, or another enumeration. Keep error, absence, and separate residence as distinct explanations.
 
+If headings are missing or unreadable, consult a legible blank form for the same census
+year, jurisdiction and schedule. Compare its column sequence with the actual page's
+remaining labels and layout before assigning a heading; an early handwritten schedule
+need not follow the sample form's arrangement. Keep the form's locator and proposed
+column interpretation separate from the literal image reading. If correspondence cannot
+be established, leave the heading unresolved. The [blank-form demonstration](https://www.youtube.com/watch?v=1lrFNBWKwzo)
+supplies the fallback; these alignment checks do not certify a particular original form.
+
 **Output:** The literal count matrix, proposed person-to-bin assignments, conflicts, and next records needed to test each assignment.
 
 **Checkpoint:** A compatible age bin supports a candidate household. It does not name the unnamed person. Check whether any columns overlap before summing totals.

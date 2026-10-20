@@ -31,6 +31,16 @@ Classify a disputed number before correcting it: archive case, old office refere
 
 Check sequence independently from totals. Compare foliation, headings and entries continuing across pages, including transitions between digital parts. Repeated page labels can represent recto/verso, restarted numbering or another section. A complete image set can still be in the wrong order. Do not renumber or merge items from filenames alone.
 
+Before jumping through an unindexed group, inspect title/end cards and readable internal
+labels to establish its arrangement and direction. An end-of-roll card at the first image
+is a clue to check for reversed order. Within a section whose observed labels support an
+ordered run, retain the labeled positions and use progressively smaller forward/backward
+jumps toward the target label. Recheck the arrangement at section changes; if labels are
+inconsistent or the material is loose, use a bounded sequential inspection instead. Save
+the anchor locators and ranges actually inspected: jumping over images does not search
+them or establish that a target is absent. The map-roll demonstration motivates this
+navigation aid, without verifying the original roll or any household location. [S6]
+
 When a folded letter, card or overlay conceals part of an entry, inspect adjacent frames
 for another exposure with it opened or lifted. Confirm that both images show the same
 item, retain both locators and distinguish the as-found view from the revealed text.
