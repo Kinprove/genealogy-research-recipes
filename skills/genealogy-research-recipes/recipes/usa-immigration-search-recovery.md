@@ -143,6 +143,18 @@ the apparent destination does not fit.
 uncle, cousin or friend is a lead to investigate, including its address; it
 does not establish that relationship without further records.[6,11]
 
+When possible companions may be on other pages, inventory the available passenger rows
+for one defined sailing. Record its date/ship and page extent; retain each row's page and
+image locator, literal name and place-field heading/value. Mark missing pages or rows rather
+than calling an incomplete extract the whole sailing. Sort complete rows together by the
+recorded place field and name, preserving the original text and checking any split names.
+Compare candidates with a source-linked census or tax neighborhood from a stated later
+date, then inspect the passenger images and keep proposed cross-record identities separate.
+This can expose a possible companion several pages away. Sharing a sailing or neighborhood
+does not establish kinship or identity, and finding no overlap does not disprove the voyage.
+The [passenger-inventory demonstration](https://www.youtube.com/watch?v=xm7HHLneP-E)
+supplies this method; no particular export control or complete index is assumed.[15]
+
 ### 7. Turn a detention mark into an outcome search
 
 **Trigger:** the row contains detention or special-inquiry markings, a

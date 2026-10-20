@@ -36,6 +36,10 @@
 
 32. *Breaking a Brick Wall: Finding the Parents of Carding Jackson (b. 1789)* — Aimee Cross / Ancestry Aimee, 2026-02-19 — <https://www.youtube.com/watch?v=UUcoAC0pd_g> — Rights: cited reference, not reproduced. The compiled book's bibliography and publishing historical society lead to a baptismal record on the society's website, also found at Internet Archive. The recipe's bounded inquiry and separate citation/status controls are Kinprove synthesis; the original record and the narrated parentage were not independently verified here.
 
+33. *Watch Someone Build a Family Tree (Start your ancestry RIGHT)* — Aimee Cross / Ancestry Aimee, 2024-01-21 — <https://www.youtube.com/watch?v=90HrQSMi1yo> — Rights: cited reference, not reproduced. Bounded census-year, name and county/adjoining-county searches expose possible same-name rivals; result scarcity is not adopted as identity proof.
+34. *Ancestry Leaves and how to evaluate them* — Aimee Cross / Ancestry Aimee, 2021-10-11 — <https://www.youtube.com/watch?v=B2qWqVlJshI> — Rights: cited reference, not reproduced. Separate census search with limited name/birth constraints and locality narrowing. The example's two E.-initial alternatives remain unexamined in the saved discussion; its conclusion that other possibilities were ruled out is not adopted.
+35. *Should You Use OTHER Family Trees* — Aimee Cross / Ancestry Aimee, 2024-11-21 — <https://www.youtube.com/watch?v=CU8sJO09hfo> — Rights: cited reference, not reproduced. A separate census-year candidate check and review of active search filtering. Current controls remain governed by the Ancestry search-recovery recipe; the worksheet, coverage limits and unresolved-rival status are Kinprove synthesis.
+
 Maintenance note, 2026-10-18: applying a revised premise to aliases, diagrams,
 totals and dated conclusion amendments is Kinprove's original dependency-review
 procedure. It does not claim that the cited standards prescribe this particular

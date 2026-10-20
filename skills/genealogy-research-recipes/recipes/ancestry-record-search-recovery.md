@@ -129,6 +129,15 @@ wider interval. Preserve the reliable anchor while changing one constraint at a
 time, and record which change recovered a candidate.
 See [Ancestry's refinement guide](https://help.ancestry.com/hc/en-us/articles/53933347318419-Refining-Your-Search-to-Improve-Results).
 
+For a missing death record, distinguish a candidate death locality from the last known
+residence. Use independently supported adult children's residences near the estimated
+death interval to build a short list of places where the parent might have stayed. Retain
+each child's identity, dated residence source and the proposed death-search locality as
+separate fields. Check the actual death-record collection's jurisdiction and date coverage
+before searching it. The [adult-child residence example](https://www.youtube.com/watch?v=Sr86Hc000tY)
+supports this locality pivot; a child's residence does not establish the parent's move or
+death there, and no particular child's household has automatic priority.
+
 ### 8. Use wildcards for a specific spelling uncertainty
 
 **Trigger:** a name has plausible transcription or spelling variants.

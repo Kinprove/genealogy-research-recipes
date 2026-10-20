@@ -17,6 +17,7 @@ promise about current controls.
 - **S9:** Ancestry, Crista Cowan, [Uncover Family Stories with Newspapers.com](https://www.ancestry.com/c/discover/education/uncover-family-stories-with-newspapers), publication date unspecified; accessed 2026-10-03.
 - **S10:** Ancestry Support, [Newspapers.com Collections FAQ](https://help.ancestry.com/hc/en-us/articles/53933301811859-Newspapers-com-Collections-FAQ), publication date unspecified; accessed 2026-10-03.
 - **S11:** Devon Noel Lee, Family History Fanatics, [8 Effective Online Genealogy Research Strategies](https://www.youtube.com/watch?v=YAMXdoNTjF0), published 2022-01-10; supplemental example of historical husband-name identification, not platform-specific syntax.
+- **S15:** Aimee Cross / Ancestry Aimee, [Newspaper Search Tricks to Find Your Family](https://www.youtube.com/watch?v=yRpW3iwln9w), published 2023-05-18; a notice's `ult.` date and a request for another place's papers to copy it. Anchor/reprint checks and the distinction between a copy request and residence evidence are Kinprove synthesis; other abbreviation expansions and the narrated family's location are not adopted.
 
 Additional title/holding resolver sources:
 

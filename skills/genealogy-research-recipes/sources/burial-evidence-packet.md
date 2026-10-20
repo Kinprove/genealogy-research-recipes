@@ -32,6 +32,11 @@ photographs, database rows and real family examples are not reproduced.
   result as calculated and evaluating a conflicting stated birth date. Calendar and
   ambiguous-arithmetic stops are Kinprove synthesis; the tutorial's accuracy ranking
   does not establish a universally correct calculation or an exact birth date.
+- **P7:** Amy Johnson Crow, *The photo you NEED at the cemetery!*, published 2023-08-08 —
+  [short tutorial](https://www.youtube.com/watch?v=16ilrQ7MP-8). Photographing the cemetery
+  sign at the start of a visit. Linking actual supplied image IDs and retaining an absent
+  context image as a gap are Kinprove synthesis; the saved transcript ends before its
+  alternative for an unsigned cemetery is complete.
 - **O1:** JewishGen, *JOWBR FAQ*, checked 2026-10-07 —
   [documentation](https://www.jewishgen.org/databases/Cemetery/JOWBR_FAQ.htm).
   Cemetery inventory, source types, nullable fields, patronymic searches, photographs and

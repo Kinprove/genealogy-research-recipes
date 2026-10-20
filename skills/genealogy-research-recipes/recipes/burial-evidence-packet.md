@@ -56,6 +56,13 @@ Open the available photograph and save its URL, cemetery and plot information. K
 original image separate from a working crop or adjusted reading copy. Record which image was
 actually inspected.
 
+For supplied cemetery-visit photographs, retain an actual cemetery-sign photograph as a
+context image and link it to the corresponding grave-photo IDs using the supplied visit
+notes or other documented association. On an authorized future visit, photographing the
+cemetery sign first can help preserve this context. If no such image was supplied, record
+it as absent; do not invent a sign image or assume that every adjacent camera file belongs
+to that cemetery. A sign identifies the photographed place, not the person or burial. [P7]
+
 For a bilingual stone, transcribe the Hebrew and secular-language portions separately. The
 gravestone tutorial demonstrates the deceased's Hebrew given name and the father's Hebrew name
 as useful leads that can be absent from the secular portion. Preserve the raw wording, the

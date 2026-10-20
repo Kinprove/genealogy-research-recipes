@@ -50,6 +50,12 @@ the relevant workflow. Community references:
     Related-person A-file searches across available catalogues; individual identity and
     locator checks are Kinprove synthesis. The title's count, fixed birth-year coverage,
     wildcard syntax, fees and delivery claims are not adopted as current service facts.
+15. Aimee Cross / Ancestry Aimee, *Finding the RIGHT Immigration Record*, 11 December 2025.
+    <https://www.youtube.com/watch?v=xm7HHLneP-E>
+    A sailing-wide passenger worksheet preserves page numbers and image access, sorts rows
+    by place/name and compares them with later census/tax neighbors. Coverage, field meaning
+    and identity controls are Kinprove synthesis; the absence of neighborhood overlap does
+    not establish that a proposed voyage is wrong. Historical copying controls are excluded.
 
 ## Credits
 

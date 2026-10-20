@@ -163,6 +163,23 @@ affinal roles. Preserve supported paths and unresolved alternatives. The [revisi
 motivates this dated comparison without establishing its narrated family solution or a
 universal kinship dictionary.
 
+## Discover same-name rivals before accepting a census hint
+
+Start from the candidate entry and independently supported name, approximate birth interval
+and locality. Run a separate search in that census year and collection, using only supported
+constraints; include the relevant county and adjoining counties when available. A surname-only
+pass can expose variants where the result set remains reviewable. Record the actual query,
+coverage, result count and candidate record IDs. On Ancestry, check whether active filters
+hide saved or previously viewed results using the [search-recovery recipe](ancestry-record-search-recovery.md)
+before treating the displayed list as the available candidates. (Sources 33–35)
+
+Carry the recovered rivals into the descriptor dossier above, with their images and identifying
+details. Keep initial-only and otherwise ambiguous entries open until checked: the demonstrated
+three-result search still included two unexamined E.-initial alternatives. A low result count
+does not establish uniqueness, and the bounded survey is not an exhaustive search of all people.
+Stop the pass at its stated collection, dates and places; record missing coverage and the next
+discriminating record instead of attaching the preferred entry by elimination. (Sources 33–35)
+
 ## Using working hypotheses without inheriting their assumptions
 
 **A provisional link can choose the next search; it cannot supply the answer to that search.** The specific failure is a premise disappearing between steps: the researcher assumes Candidate A is the father, finds A's parents, and the assistant reports those people as the subject's grandparents. The new record can establish A's family while leaving A's relationship to the subject unresolved. Keep those two claims separate. This procedure organizes the hypothesis-testing practices in *Using Hypotheses*, *RLP 187* and Mills's *QuickLesson 16*; the premise IDs, dependency register and statuses below are this recipe's practical worksheet design.

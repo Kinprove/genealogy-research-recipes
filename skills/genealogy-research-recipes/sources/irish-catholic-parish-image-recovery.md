@@ -12,6 +12,12 @@ screenshots, index entries and real family examples are not reproduced.
 - **P3:** Ancestry UK, *Understanding the Irish Catholic Parish Registers*, BTOP 2016,
   uploaded 2016-11-17 — [presentation](https://www.youtube.com/watch?v=Is_TuCW4u9E).
   Diocese/parish/event-volume browsing and earlier neighboring parish coverage.
+- **P4:** Aimee Cross / Ancestry Aimee, interview with Natalie Bodle,
+  *What You Need to Know to Start Family History Research in Ireland*, published 2024-05-30 —
+  [interview](https://www.youtube.com/watch?v=Qa-SALvJ9UA). Destination-country origin clues,
+  including a will naming someone still in Ireland and a sibling's records. The locality
+  worksheet and distinction between the named person's residence and the emigrant's origin
+  are Kinprove synthesis; naming patterns and the narrated family identities are not adopted.
 - **O1:** National Library of Ireland, *Help — Catholic Parish Registers*, checked through
   indexed official documentation on 2026-10-07 — [help](https://registers.nli.ie/help?locale=en).
   Parish/map distinctions, name-search limitation, page-level date filters and reading controls.
