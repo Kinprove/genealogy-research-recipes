@@ -52,6 +52,16 @@ turn a match-level label into an unsupported interval assignment, retain the lab
 external match notes instead. Save which labels were added, left unassigned or could not
 be mapped. [S10]
 
+For a map's optional Y/mt panel, keep three fields distinct: the reported haplogroup and
+its tester/test level, an authorized kit link, and the documented direct-line ancestor
+selected for display. A known lineage can be recorded while its haplogroup remains unknown;
+choosing an ancestor group does not supply a test result. Check the saved panel and linked
+kit before sharing. The chromosome-map panel and an ancestral tree's haplogroup fields are
+different objects: record which was edited. If a tree propagates a label to other people,
+inspect those annotations and preserve the original tester and the conditional lineage
+basis; propagation does not mean those ancestors were tested. Use the
+[Y/mt workflow](ydna-mtdna-interpretation.md) to assess the underlying result. [S19, S20]
+
 ## 2. Copy or merge map data without changing whose DNA it represents
 
 Choose the smallest transfer that answers the question. Duplicate the map for an alternative analysis; copy one match for a focused comparison; export a filtered subset for an ancestor; export the unfiltered table for a whole-map transfer. Use these as alternate maps of the same focal tester. [S4]
@@ -165,6 +175,26 @@ report. Treat their button names, limits and defaults as dated descriptions. [S1
 **Artifact:** root and import-scope note, preserved tree, branch-specific ancestor-gap worklist.
 **Checkpoint:** every gap is interpreted within the observed tree scope; the percentage or
 color of a tree view has not become a measurement of inherited DNA.
+
+When using an available **Dimensions** view, name the category and retain the tree fields
+from which its values were generated. Compare generated values with the person's source
+facts, especially a country inferred from free-text birthplace. Correct a value only with
+support and keep unresolved values unknown. A custom category needs a source for each
+person's entry; a propagation checkbox supplies none for that person's ancestors. Save
+the checked category view with its root and scope. Religion, cause of death and other
+personal facts must not spread through a pedigree merely because a shared color is useful.
+The 2021 tutorial supplies category creation and per-value editing; its limits and privacy
+defaults require checking in the actual interface. [S21]
+
+For a **Places** view, retain the original birthplace wording beside the generated location
+and the root, generation and lineage filters shown. Check ambiguous placements against the
+person's supported locality. Where the actual interface offers text-based re-geocoding or
+a coordinate selector, save the proposed correction and its evidence, inspect the resulting
+placement and keep the original wording. Leave an unresolved place unresolved; a country
+default or a map search result does not establish it. A root location omitted by living-person
+privacy is missing input, not evidence of an unknown birthplace; do not disclose it merely
+to make a map render. The displayed connections link pedigree birthplaces, not observed
+travel routes or the transmission of a particular DNA segment. [S22]
 
 ## 9. Audit a numeric pair matrix against its measurements and relationships
 
