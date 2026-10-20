@@ -125,6 +125,15 @@ wider interval. Preserve the reliable anchor while changing one constraint at a
 time, and record which change recovered a candidate.
 See [Ancestry's refinement guide](https://help.ancestry.com/hc/en-us/articles/53933347318419-Refining-Your-Search-to-Improve-Results).
 
+For the **1841 England and Wales census**, allow for the instruction to round
+ages 15 and above down in five-year steps. Where applied, a recorded age of 30
+represents ages 30–34. Inspect the original age field and retain the reported
+value; an index's calculated birth year is not an exact birth date. Use the
+possible age range and census date to set search bounds, checking other records
+before deciding whether rounding explains a discrepancy. The instruction alone
+does not prove how a particular entry was completed.
+See [The National Archives census guide, section 5](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/).
+
 ### 8. Use wildcards for a specific spelling uncertainty
 
 **Trigger:** a name has plausible transcription or spelling variants.
