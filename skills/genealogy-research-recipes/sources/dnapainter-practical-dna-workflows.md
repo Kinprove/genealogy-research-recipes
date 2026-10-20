@@ -26,6 +26,9 @@ All procedures are independently written paraphrases. Sources are cited, not rep
 - **S22:** Jonny Perl, [Introducing Places, a new geographical map of your Ancestral Tree](https://blog.dnapainter.com/blog/introducing-places-new-map-ancestral-tree/), 2025-03-01. Birthplace-text geocoding, displayed scope and correction routes; original-text/correction logging is synthesis. Missing options, current interface behavior and historical defaults remain unverified; a plotted pedigree is not a genetic journey.
 - **H1–H4:** Current public [Common Segment Generator](https://dnapainter.com/tools/csg), [Inferred Segments Generator](https://dnapainter.com/tools/isg), [Distinct Segment Generator](https://dnapainter.com/tools/dsg) and [Coverage Estimator](https://dnapainter.com/tools/coverage) pages, accessed 2026-10-04.
 
+- **S23:** Blaine Bettinger, [Enhancements to the Shared cM Project at DNAPainter.com](https://thegeneticgenealogist.com/2022/08/27/enhancements-to-the-shared-cm-project-at-dnapainter-com/), 2022-08-27. Relationship-specific histogram bins and approximate cumulative percentages; these are not probabilities of competing relationships.
+- **S24:** Blaine Bettinger, [Leveraging the Power of Siblings and Cousins to Narrow Relationship Possibilities](https://thegeneticgenealogist.com/2022/11/12/leveraging-the-power-of-siblings-and-cousins-to-narrow-relationship-possibilities/), 2022-11-12. Two eligible measured amounts, same-relationship and additional-path conditions, and the first-input percentage display. Missing requirements images and current interface behavior are not reconstructed. Input provenance, retaining all amounts and not treating unavailable comparisons as zero extend this recipe's existing controls; pre-TIMBER preference and cross-company equivalence are not adopted.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

@@ -228,6 +228,40 @@ observed display mode, discrepancies and correction history.
 **Checkpoint:** no pasted name, copied relationship, blank cell or display outlier has become
 a measured amount or a new relationship conclusion.
 
+## 10. Inspect Shared cM histograms and a two-value range screen
+
+Use the available Shared cM Project view to inspect a reported amount against a named
+relationship's reference observations. Preserve the tester pair, provider, date, total
+definition and displayed project version. These totals do not supply painting coordinates.
+
+1. Open the histogram for a relationship being considered and retain the entered cM,
+   bin and displayed number of submissions. A value inside the published range does
+   not establish the relationship. Where percentages below and above the entered value
+   are shown, record which relationship's distribution they describe. The August 2022
+   tutorial uses approximate interpolation within histogram bins; these percentages
+   are not probabilities that one relationship is true rather than another. [S23]
+2. For an available two-value view, identify both measured tester–match pairs first.
+   Check that the two testers have the same genealogical relationship to the match
+   under the hypothesis being examined. Full siblings are the tutorial's starting
+   example; same-generation cousins need additional path checks. Extra relationships
+   through an unshared ancestor or different generations can invalidate this screen.
+   Preserve each total's definition; an unavailable comparison is not a measured zero.
+   Do not choose between filtered and unfiltered totals to favor a hypothesis. [S24]
+3. Enter the two eligible amounts and save the displayed relationship ranges that
+   accommodate both. This is a range screen, not a joint probability calculation or
+   relationship proof. The November 2022 tutorial's histogram percentages describe
+   the **first** input: check the actual view's labels, and swap the order if needed
+   to inspect the other amount. Keep the original pair labels with both views. [S24]
+4. If using the highest and lowest of several eligible relatives' amounts, retain
+   the full measurement set and eligibility checks. The relatives' results are not
+   independent evidence. A surprising screen result sends you back to the inputs,
+   paths and reference scope; it does not by itself reject a documented relationship.
+
+**Artifact:** sourced pair amounts, relationship hypothesis and eligibility checks,
+saved histogram/range views, reference version and interpretation note.
+**Checkpoint:** a distribution percentage, missing comparison or two-input range fit
+has not become a relationship probability or an inferred measurement.
+
 ## Prompt pattern
 
 “For focal tester A, perform only [operation]. Inputs are these labeled tables/tree and these documented relationships. Preserve originals. Return an operation register, the resulting intervals, matrix or tree, and the checkpoint result. Keep observed, inferred and estimated outputs distinct. Do not turn an overlap, coordinate union or coverage percentage into a new measured match.”
