@@ -156,6 +156,19 @@ De-identifying before you use a third-party tool reduces exposure *inside the to
 - **NPE sensitivity.** Unknown-parentage work routinely surfaces *not-parent-expected* events (misattributed parentage, undisclosed adoptions, donor conception). These are family secrets with living stakeholders — handle findings privately and let the people involved control disclosure.
 - **Making contact is a human act, not a data step.** Identifying a bio-parent or close relative ends the analysis but begins the hardest part: a first approach can be life-changing — welcome or unwelcome — for both sides. Go slowly, lead with the other person's choice to engage, and don't treat a confirmed hypothesis as license to appear on a doorstep.
 
+For a proposed first approach, keep permission to use the test/kit, the family or branch the
+recipient wants to explore, and their willingness to hear unexpected findings as separate
+choices. Leave unexpressed preferences unknown; kit permission does not settle the other two.
+The [collaboration example](https://www.yourdnaguide.com/ydgblog/contacting-african-american-dna-matches)
+and [informed-consent discussion](https://www.yourdnaguide.com/ydgblog/informed-consent-for-dna-testing)
+motivate this distinction.
+
+If unexpected findings may be discussed, prepare an unsent private heads-up and a short
+outline separating supported observations from unresolved interpretations. Let the recipient
+choose whether to continue and which channel to use; respect a pause or decline. Send only
+with the researcher's explicit authorization. The [communication example](https://www.yourdnaguide.com/ydgblog/dna-test-surprise-unexpected-news)
+supports this preparation without promising a particular response.
+
 ## Closing the case — and privacy discipline
 
 - **WATO points; DNA testing or documents close.** Treat the top hypothesis as the objective for the next round — which may be recruiting a specific relative to DNA-test *or* a records search: wills that name (or omit) children, marriage and census records, a family bible, newspapers. In the cases reviewed, candidate **elimination** did as much work as the DNA — e.g. ruling out specific Dillard candidates via a will and a family bible (reported by the cited source and not independently verified; the RLP 387 "revisiting" series runs to multiple parts, so treat these specifics as illustrative rather than a complete accounting). (Family Locket RLP 387, 2025-12-08)
