@@ -27,6 +27,25 @@ available; in JOWBR the headstone icon identifies a supplied photograph, and **V
 Record** exposes the available fields and image. Leave missing fields empty. A result without a
 photograph remains a useful locator, but the inscription has not been examined. [O1]
 
+A miss in Find a Grave, BillionGraves or another crowd-sourced site is not a coverage test,
+especially for small, inactive or private-land burial grounds. Also check county-society
+inventories, state cemetery surveys or commission databases, and state-archive or archaeological
+survey files, which may not be digitized. Record each survey's title, date, holding place and any
+registered cemetery number as a separate locator. A listing locates a burial ground, not who lies
+in it. A survey reading is a derivative transcription made at its date. Where a stone has since
+broken or vanished, keep it as a dated observation (Section 5). Keep inscriptions actually read
+apart from locations based on word of mouth or dowsing. The
+[cemetery-records class](https://www.youtube.com/watch?v=th8_R6cKTnw),
+[periodicals talk](https://www.youtube.com/watch?v=ETyI_TSMpzQ),
+[family-cemetery session](https://www.youtube.com/watch?v=4di3XOsN4GE),
+[burial-place talk](https://www.youtube.com/watch?v=Cfdt0Fd0opI),
+[etiquette class](https://www.youtube.com/watch?v=fBm75Zoz1-A),
+[preservation interview](https://www.youtube.com/watch?v=38jzvP3IYKc) and research-trip videos
+([2021](https://www.youtube.com/watch?v=kINOGgLV3ak),
+[2024](https://www.youtube.com/watch?v=0v5fySALYxs)) motivate this. They do not measure how
+complete or accurate a survey is, and a preservation group reports finding errors in its own
+compilation.
+
 **Output:** `database | query | coverage checked | candidate URL | cemetery | section |
 photo available | image examined | next source`.
 
@@ -55,6 +74,18 @@ a civil surname or identify the father.
 Open the available photograph and save its URL, cemetery and plot information. Keep any permitted
 original image separate from a working crop or adjusted reading copy. Record which image was
 actually inspected.
+
+Record which faces of the stone, and of any family marker, the images actually show: front, back
+and sides. A spouse, a second burial or a list of children can appear only on the back. On a
+Jewish stone, the back can carry the Hebrew name and patronymic, while a memorial-site photograph
+may show only the English front. Mark an unseen face `not examined`, not absent, and queue a
+request for its photograph. Do not record a person as absent from a marker after only one face has
+been inspected. The [family-cemeteries video](https://www.youtube.com/watch?v=rA5-uq548q4),
+[cemetery photographs tips](https://www.youtube.com/watch?v=7zW86N6q4Yc),
+[cemetery steps session](https://www.youtube.com/watch?v=crq_j9WnVn8) and
+[Lil Dicky tree session](https://www.youtube.com/watch?v=SKDoU7MJkds) motivate this. A name on
+another face does not by itself establish burial at that spot or a relationship, and the back may
+carry nothing.
 
 For a bilingual stone, transcribe the Hebrew and secular-language portions separately. The
 gravestone tutorial demonstrates the deceased's Hebrew given name and the father's Hebrew name
@@ -96,11 +127,50 @@ recommends asking the office before visiting. Give the candidate name, known dat
 any existing locator; request the corresponding register entry or available burial information.
 Send the request only when contact is authorized. [P1]
 
+Custodians may produce only what is asked for by name. Request each record type separately:
+interment register, plot purchase or deed, burial or grave-opening permit, transit permit,
+funeral-home case file, and any sexton notes or folders. Log each as requested, produced or
+reported absent. Where registers run in interment order, search a reinterred burial under its
+removal date, not the death date. A plot owner, purchaser or payer is a relationship lead, not a
+burial or proven kin. The [death-records class](https://www.youtube.com/watch?v=70ya-VPbkBc),
+[cemetery-records class](https://www.youtube.com/watch?v=th8_R6cKTnw),
+[funeral-home talk](https://www.youtube.com/watch?v=ybuFUjhcwok),
+[sexton-notes episode](https://www.youtube.com/watch?v=7JQcEHgDwxs),
+[plot-purchase distinction](https://www.youtube.com/watch?v=gG5ZL8ueNx4) and Mount Moriah
+interviews ([2020](https://www.youtube.com/watch?v=WoBE9ZAMsg4),
+[2024](https://www.youtube.com/watch?v=gLXeAlkY6j0)) motivate this. They are US examples, and
+record survival and arrangement vary.
+
+When no funeral home or cemetery is named, or the named office or firm has closed, trace who now
+holds the records and list the possible custodians for the period before concluding that no record
+exists or that it is lost. Use that year's city directory
+business and church listings, or an old telephone directory, and census records for the death
+place. Widen to nearby towns or the county where a small place had one firm. Log each funeral
+home, cemetery and church with the directory title and year. When contact is authorized, ask
+surviving local funeral homes about closed firms and small family burial grounds. A listing names
+a possible holder; it does not show that the firm handled this burial or that its records survive.
+The [death-records class](https://www.youtube.com/watch?v=70ya-VPbkBc),
+[burial-place talk](https://www.youtube.com/watch?v=Cfdt0Fd0opI),
+[date-of-death video](https://www.youtube.com/watch?v=bc92E8Oq4zU) and
+[funeral-home tip](https://www.youtube.com/watch?v=twrGXgz08S0) motivate this step.
+
 Where the actual source offers it, inspect the matched plot's roster before a bounded
 neighboring-plot search. Retain each burial/plot identifier and the actual distance or selected
 area separately from coordinates. Use co-burial/proximity to nominate associates and retrieve
 their burial records before proposing a relationship. The [co-plot search description](https://lostrussianfamily.wordpress.com/2025/10/25/free-database-offers-more-than-5-million-indexed-burial-records-for-moscow/)
 supplies no fixed search radius or current provider/plot-accuracy guarantee.
+
+Treat the cemetery named on a volunteer memorial as that memorial's statement, not an observed
+burial. A profile may be created speculatively to request a photo lookup, or by a relative before
+burial arrangements are made, naming the intended cemetery. Record the creator and creation date
+where the page shows them, and any photograph or cited source. Without these, carry the cemetery
+as `cemetery claimed, unsupported` until an interment entry or equivalent burial evidence
+confirms it; a grave photograph or dated society transcription corroborates the marker's location
+and inscription, not the interment. The
+[birth-and-death sources talk](https://www.youtube.com/watch?v=gG5ZL8ueNx4), its
+[later version](https://www.youtube.com/watch?v=YW9oCpm5id4) and the
+[Find a Grave discussion](https://www.youtube.com/watch?v=M6NwvqpYK58) motivate this. They give no
+rate for speculative memorials and do not show how any site displays creation history.
 
 **Output:** `cemetery | address | section | plot | GPS as supplied | map URL | office/register
 locator | access or contact status | next action`.

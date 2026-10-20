@@ -26,6 +26,14 @@ correct behavior for every other kit. If the expected positive is missing,
 investigate the query, selection and processing before interpreting an empty list.
 This control procedure is original methodological synthesis, not a vendor guarantee.
 
+When sharing appears only under relaxed settings, add a known negative. Run the same tool
+and lowered minimum segment size on pairs documented as unrelated within the time frame of
+interest. If those pairs show similar summed small-segment totals, the relaxed total does
+not distinguish a genealogical connection. Do not turn it into a predicted relationship, or
+assign it to a tree line without records or segments above the usual minimum. The
+[unrelated-pair demonstration](https://www.youtube.com/watch?v=ZqK9b2Vt6gQ) motivates this
+check; its pairs are anecdotal, not a measured false-positive rate or a vendor threshold.
+
 ## Establish what could have been observed
 
 Keep the tool, date, exact pair, readiness, chromosome scope, coordinate build and
@@ -66,6 +74,13 @@ explanations for disagreement; the discrepancy alone does not select its cause.
 Family Finder 5.0 is one documented example of processed output, not an unfiltered
 reference instrument. [H3]
 
+For degraded, forensic, artifact or heirloom-derived kits, record the reported call rate or
+processing status with each result, and treat segment count, endpoints and total cM as
+uncertain readings rather than full-coverage input for relationship prediction; the
+[investigative-genealogy discussion](https://www.youtube.com/watch?v=3xodviufcG4) and the
+[heirloom-kit example](https://www.youtube.com/watch?v=lMnm4UjIO60) motivate this but supply
+no validated call-rate cutoff, SNP-density threshold or error bound.
+
 ## Reconcile rows before interpreting totals
 
 Keep the original reports. Identify the pair and interval behind each row before
@@ -87,6 +102,15 @@ Compare totals using the same autosomal/X scope, minimum-segment inclusion and F
 counting convention. A suspiciously doubled total is a reason to inspect reciprocal
 rows, not to apply a universal cM ceiling or divide every result by two. Preserve a
 changed algorithmic measurement separately from any inferred change in relationship.
+
+Small-segment inclusion is a second reason, besides reciprocal rows, why one service's total
+may be much larger. To compare totals from services with different minimum-segment rules,
+recompute from each match's segment-level export. Drop rows below the chosen common minimum,
+sum what remains, and keep the reported total and the recomputed total as separate labelled
+values. Some difference may remain after recomputing; it does not select a cause. The
+[vendor-total explanation](https://www.youtube.com/watch?v=ecwbM9Lc-Gg) and the
+[threshold comparison](https://www.youtube.com/watch?v=W278DGiDKq0) motivate this step; their
+per-vendor thresholds are not verified here and may be out of date.
 
 ## Handoff
 

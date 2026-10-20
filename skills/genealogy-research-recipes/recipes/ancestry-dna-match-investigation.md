@@ -34,7 +34,11 @@ Start with 2–4 anchors whose most recent common ancestor and descent path are 
 
 Use Bartlett's (2024-07-19) pass order: very close target relatives first, then relatives above **90 cM to the target**, then those above **about 50 cM**. Repeat from newly identified anchors. Add an anchor when it separates two open hypotheses.
 
+When a match shares with anchors on two related branches, compare its count for each branch with the number of matches you have already identified on that branch, rather than taking the larger raw count. A branch with many identified matches can outvote a smaller one, even for matches that belong to the smaller branch. Treat the proportion only as a lead toward the branch to test first, then confirm it with the match's tree and records. The [presenter's example](https://www.youtube.com/watch?v=lH2vBiPOeg0) motivates this weighting. It gives no threshold, and shared matches are not triangulation.
+
 Orient SideView's initially anonymous Parent 1/Parent 2 split with known relatives. When a tested biological parent matches you, Ancestry labels the split maternal/paternal automatically.
+
+Orient each kit separately. A sibling's or other relative's Parent 1 can be the opposite side from yours, so record the maternal/paternal mapping for every kit you compare, along with the known relatives that established it. Treat a 'Both sides' assignment as a hypothesis, not evidence of double relatedness, until known relatives, shared matches or mapped segments support it. Leave Unassigned matches unplaced. Check cluster sides against documented relatives as well. The [cluster review](https://www.youtube.com/watch?v=jzcjI59F6YI) found clusters that all came through one parent split across both sides, especially in an endogamous profile. The [sibling comparison](https://www.youtube.com/watch?v=rVndHlIg9-Y) is a 2023 observation from one family. Neither source measures current SideView accuracy, and clusters remain leads, not proof of a common couple.
 
 **Output:** a compact comparison table and the next match that distinguishes the competing paths.
 
@@ -99,6 +103,8 @@ For an unresolved ancestral path:
 4. Repeat for another hypothesis, then restore the original link.
 
 Bartlett (2023-07-08) reported **31 new ThruLines candidates** after changing a speculative lineage. Independently document candidates' descents, check the recorded cM against the relationship-range reference, and compare those sourced placements under the competing hypotheses. Mark paths supplied only by the research tree “tree-generated.”
+
+When a suggested path runs through a match's parent who has also tested, compare both kits' amounts with you. First mark whether each figure is Ancestry's weighted headline or the unweighted amount, and compare the unweighted amounts. A small figure reported for a single match needs the same check. If the child still shares more than the parent, mark the path doubtful and keep three explanations open: a reporting or measurement difference, an incorrect path, or DNA from another source such as the other parent or another relationship. The excess alone does not invalidate the documented path. Check segments and shared matches before building out descendants on the strength of a green leaf. The [Gordon-line example](https://www.youtube.com/watch?v=nffEfpOI_k8), [parent/child example](https://www.youtube.com/watch?v=xv62kjXVi3g) and [small-match example](https://www.youtube.com/watch?v=EHUmd1Sfmn8) motivate this check. They do not verify where weighting applies, set a cM threshold for noise, or show which family carries any extra relationship.
 
 **Output:** a verified tester/link statement and a candidate comparison for each hypothesis.
 

@@ -45,6 +45,8 @@ version is unavailable; an absent film field does not prove that no film exists.
 [Lithuanian image-set example](https://forum.j-roots.info/viewtopic.php?f=164&t=1202)
 motivates this version-specific anchor check.
 
+Do not take an image's record type, denomination or jurisdiction from the collection title. Open the image's own citation or information panel and the volume's headings. Record which parishes, chapels and event types it actually contains; a volume can interleave several. When one image differs from its neighbours, compare the adjacent images and identify it by its printed form heading. The [mislabelled register](https://www.youtube.com/watch?v=jfWVACjBbbM) and [burial-permit](https://www.youtube.com/watch?v=WO4b4eUWm2s) examples motivate this. They do not establish how common mislabelling is or why an item was filed there.
+
 ## Report coverage as pages × targets
 
 For each assigned page, retain its source locator, target-name set, inspected area, readable portions and findings. Distinguish:
@@ -55,11 +57,17 @@ For each assigned page, retain its source locator, target-name set, inspected ar
 
 A completed reader session establishes execution coverage, not transcription accuracy. A new surname was not searched merely because its pages occurred in an earlier sweep for other names. Reconcile existing page/target coverage before repeating or expanding work. For a visual-only request, inspect images; OCR candidates can be a separately labelled channel only when compatible with the requested method.
 
+Jumping to the expected date in a chronological roll or image group covers only that span. Before reporting an entry absent, inspect the group's final images for out-of-sequence additions and any roll index, and record in the coverage statement that the end was checked. A roll index is a finding aid; still read the original entry it points to. The [microfilm rule of thumb](https://www.youtube.com/watch?v=5Rcm-OakCes) motivates this check. It does not establish how often appended images or indexes occur, or that every digitized image group keeps its roll ending.
+
 ## Adjudicate each field against the image
 
 Open a native-resolution passage with preceding words, the complete entry and any continuation line. Keep the full page for headings and context; a tight surname crop can conceal the given name or patronymic. Distinguish an entry's subject from an owner named inside an address, witness, institution or place.
 
+Before reading a conflict into a field, confirm the image reaches the record's outer edges. If one provider's scan looks cropped, shaved or distorted, open the same record at another provider. Record which image supplied each reading. A second scan of the same original completes the reading; it is not independent corroboration. The [draft-card example](https://www.youtube.com/watch?v=mTyYpO_3uPs), where a cut-off edge hid the stated age, motivates this check. It does not explain the remaining birth-year discrepancy.
+
 Keep literal readings, uncertainty and normalized values separate. Confirmation of a surname does not confirm guessed initials or parentage. A readable patronymic supplies the stated paternal name, not a unique father. A clearly printed impossible date remains a literal reading with normalization unresolved.
+
+When register entries carry numbers in the margin, search the same volume for a section keyed to those numbers, for example at the back, before treating the front entry as complete. Extract both parts with their own image locators and cite them together, keeping each reading bound to its part. The [English Jewish birth-register example](https://www.youtube.com/watch?v=BivX3fFXJRw) motivates this check. It does not establish that other registers use the same layout, and failing to find a keyed section in pages not yet inspected is not evidence that none exists.
 
 When readers or the user disagree, compare the same strokes field by field. Preserve the attributed correction and superseded draft, then update the parent assessment so rejected readings do not return in later summaries. Apply the dependency review in [evidence-proof-judgment.md](evidence-proof-judgment.md) if a corrected field changes an identity hypothesis.
 
@@ -80,6 +88,8 @@ the whole census. An index compiled by the original enumerators belongs to the s
 use it to locate an entry or check a reading, cite it separately and verify the entry on the
 census sheet itself. The [Dvinsk census indexing thread](https://forum.j-roots.info/viewtopic.php?f=168&t=289)
 motivates both checks without establishing that the enumerators' index survives complete.
+
+Record which sides of loose documents an image copy shows; filming can miss a page or a reverse side, and a published abstract may exclude whole categories of entries, so read a derivative's front matter for stated exclusions. Report an absent page, side or entry as missing from the inspected copy and queue a check of the original or another filming at the holding archive. The [territorial-census example](https://www.youtube.com/watch?v=Eh06QweqW3g), [unfilmed-reverse remark](https://www.youtube.com/watch?v=t70iQZdquD0) and [parish-register abstract example](https://www.youtube.com/watch?v=t7TW9qyShIU) motivate this. None establishes a filming practice or how often omissions occur.
 
 Deliver the literal passage and verified fields, the exact inspected locator, coverage actually achieved and remaining gaps. For OCR retrieval use [corpus-seeded-name-search.md](corpus-seeded-name-search.md); for household reconstruction use [jewishgen-search-family-reconstruction.md](jewishgen-search-family-reconstruction.md).
 

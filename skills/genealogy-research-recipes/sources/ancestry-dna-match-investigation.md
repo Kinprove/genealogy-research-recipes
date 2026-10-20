@@ -17,6 +17,7 @@
 
 ### Practitioner posts (dated)
 
+- Baker, James. "Overcoming the Most Common DNA Problems." BYU Family History Library, YouTube, 2021-04-19. [Video](https://www.youtube.com/watch?v=lH2vBiPOeg0) (method 2; weighting shared-match counts by the number of identified matches on each branch)
 - Bartlett, Jim. "Segment Data for Ancestry Matches." Segment-ology, 2022-07-06. [Article](https://segmentology.org/2022/07/06/segment-data-for-ancestry-matches/) (method 8)
 - Bartlett, Jim. "Getting ThruLines to Work for Me." Segment-ology, 2023-07-08. [Article](https://segmentology.org/2023/07/08/getting-thrulines-to-work-for-me/) (method 5; dated hypothesis experiment)
 - Bartlett, Jim. "Pro Tools Part 4." Segment-ology, 2024-07-05. [Article](https://segmentology.org/2024/07/05/protools-part-4/) (method 2)
@@ -26,6 +27,11 @@
 - Bartlett, Jim. "ProTools Part 27." Segment-ology, 2026-03-27. [Article](https://segmentology.org/2026/03/27/protools-part-27/) (methods 5–6)
 - Cooper, Kitty. "Make Ancestry Find the Relationship." Kitty Cooper's Blog, 2023-04-23. [Article](https://blog.kittycooper.com/2023/04/make-ancestry-find-the-relationship/) (method 5)
 - Estes, Roberta. "Ancestry Only Shows Shared Matches of 20 cM and Greater: What That Means and Why It Matters." DNAeXplained, 2022-05-12. [Article](https://dna-explained.com/2022/05/12/ancestry-only-shows-shared-matches-of-20-cm-and-greater-what-that-means-why-it-matters/) (method 7)
+- Family History Fanatics. "QUICKLY Add DNA Matches to Your Family Tree From Ancestry ThruLines!!" YouTube, 2025-07-21. [Video](https://www.youtube.com/watch?v=nffEfpOI_k8) (method 5; check where a child shares more than a tested parent on a suggested ThruLines path)
+- Family History Fanatics. "How ACCURATE is Ancestry's Parent 1 / Parent 2 DNA Match Separator?" YouTube, 2023-01-04. [Video](https://www.youtube.com/watch?v=rVndHlIg9-Y) (method 2; Parent 1/Parent 2 sides differ across sibling kits, and a 'Both' assignment can be wrong)
+- GeneaVlogger. "Answering Your DNA and Genealogy Questions Live." YouTube, 2025-09-27. [Video](https://www.youtube.com/watch?v=xv62kjXVi3g) (method 5; labelling weighted versus unweighted cM before comparing parent and child amounts)
+- GeneaVlogger. "Building YOUR Family Tree!" YouTube, 2024-10-11. [Video](https://www.youtube.com/watch?v=EHUmd1Sfmn8) (method 5; labelling weighted versus unweighted cM before using small figures)
+- GeneaVlogger. "How Does Ancestry's New DNA Cluster Tool Work?" YouTube, 2025-07-23. [Video](https://www.youtube.com/watch?v=jzcjI59F6YI) (method 2; SideView side errors in clusters)
 - Larkin, Leah. "AncestryDNA Updates Their Relationship Predictions." The DNA Geek, 2026-07-24. [Article](https://thednageek.com/ancestrydna-updates-their-relationship-predictions/) (method 6)
 - Larkin, Leah. "Working with WATO: Centimorgan Adjustments." The DNA Geek, 2021-06-05; updated 2022-03-29. [Article](https://thednageek.com/working-with-wato-centimorgan-adjustments/) (method 8; independent check of company-specific totals)
 - Leeds, Dana. "The Order of AncestryDNA's Colored Dots." 2023-03-27. [Article](https://www.danaleeds.com/the-order-of-ancestrydnas-colored-dots/) (method 4)

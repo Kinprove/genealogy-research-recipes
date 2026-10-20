@@ -29,6 +29,24 @@ the described scope; it does not verify a signed-in account or every kit generat
   paper, abstract and introduction. Demonstrates male X–Y recombination and
   inheritance in the pseudoautosomal region. No contemporary array or match-rate
   claim is taken from this historical study.
+- **H7:** Family History Fanatics, [The Debate Continues Over Usefulness of Small cM DNA Matches](https://www.youtube.com/watch?v=ZqK9b2Vt6gQ),
+  published 2022-04-27. Used for running known-unrelated pairs at the same lowered
+  segment threshold as a negative control; the reported true-segment percentages are not
+  adopted.
+- **H8:** GeneaVlogger with Cairenn Binder, [The Impact of Ancestry's Ban on Forensic Genealogy | Discussion with Cairenn Binder](https://www.youtube.com/watch?v=3xodviufcG4),
+  published 2025-11-22. Used for the practice of recording a degraded kit's call rate and
+  checking the SNPs read within a segment before trusting a match; the call-rate figures
+  and the unnamed study are not adopted.
+- **H9:** Family History Fanatics, [Heirloom DNA For Genealogy Sounds Amazing… Until You See This Problem](https://www.youtube.com/watch?v=lMnm4UjIO60),
+  published 2026-04-22. Used for the point that coverage gaps in a sparse heirloom kit can
+  split or merge segments, which makes the reported cM unreliable; the presenter's
+  illustrative ranges are not adopted.
+- **H10:** Lisa Lisson with Mary, [Ask Mary Your DNA Questions!](https://www.youtube.com/watch?v=ecwbM9Lc-Gg),
+  published 2021-03-12. Used for recomputing a match total from the segment export at a
+  common minimum before comparing vendors.
+- **H11:** GeneaVlogger, [Answering Live Genealogy and DNA Test Questions](https://www.youtube.com/watch?v=W278DGiDKq0),
+  published 2025-07-12. Used for the point that a low minimum for later segments raises a
+  vendor's totals; the charted threshold values are not adopted.
 
 ## Synthesis boundaries
 

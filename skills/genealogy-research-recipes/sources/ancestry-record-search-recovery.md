@@ -20,6 +20,13 @@ search in the user's Ancestry account.
 - NARA, [1940 census research](https://www.archives.gov/research/census/1940/start-research)
   and [1950 census FAQ](https://www.archives.gov/research/census/1950/faqs).
 - The National Archives, [Census records](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/), especially sections 10–11.
+- Genealogy Gems, [Episode 244](https://www.youtube.com/watch?v=99F9D51wz6Q), 2020-08-25; singular/plural and filter-only Card Catalog variants.
+- GeneaVlogger, [Building an American Jewish Family Tree on Ancestry](https://www.youtube.com/watch?v=GM1i0bLjoWk), 2021-08-25; widening an undocumented death year to the interval between the last census showing the person and the first without him.
+- Family History Fanatics, [How to Find an Ancestor's Birth Date Without a Birth Certificate - FHF Live](https://www.youtube.com/watch?v=v_tpU77sOn4), 2021-04-24; searching transposed-digit years when the index may have reversed them.
+- BYU Family History Library (Sara Cochran), [Who Needed it Anyway? Getting Around the Missing 1890 Census](https://www.youtube.com/watch?v=NmtuDJBE5eQ), 2023-03-31; Nancy Busby, [Ancestry Part 1](https://www.youtube.com/watch?v=iVRTXHqUh98), 2021-04-19; Joyce Whiting, [Finding Birth, Marriage, and Death Records](https://www.youtube.com/watch?v=1LPbDiF6fn8), 2014-03-07; Genealogy Gems, [Episode 92 Dave Obee](https://www.youtube.com/watch?v=14LegPypVRM), 2016-12-23; parent-field-only and mother's-maiden-name searches for unknown or unnamed children.
+- BYU Family History Library (Judy Sharp), [Refining the Research Process](https://www.youtube.com/watch?v=VsbXLVM1-Xk), 2016-08-31; Genealogy Gems, [Episode 197](https://www.youtube.com/watch?v=ezp_SFmMdYM), 2016-12-23; associated facts and unfielded indexed columns in the person-search keyword field.
+- Family History Fanatics, [How to Research Your Genealogy When You're Adopted](https://www.youtube.com/watch?v=KcsQHKLSjFQ), 2019-05-17; a relayed Ancestry tip to search census keywords for 'orphan' to find institutional enumerations.
+- BYU Family History Library (James Tanner), [Catalogs: The Key to Using FamilySearch.org and Ancestry.com](https://www.youtube.com/watch?v=V2vmIxs2WjM), 2016-08-02; Genealogy Gems, [Episode 248](https://www.youtube.com/watch?v=YI-rwxManbs), 2020-12-09; Maureen Brady, [The U. S. Census](https://www.youtube.com/watch?v=o6d7Z_W_qhg), 2022-05-20; GeneaVlogger, [Building FDR's Family Tree](https://www.youtube.com/watch?v=3FJKJFw0Bjo), 2024-05-04; title/citation-keyed searches for other hosts, and shared or duplicated indexes as one source.
 
 ## Credits
 

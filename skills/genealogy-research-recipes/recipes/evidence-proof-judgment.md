@@ -57,13 +57,65 @@ the editor. The [family-specific informant example](https://familylocket.com/rlp
 motivates this retrieval step; an older relative's contribution does not make the whole book
 firsthand, reliable or independent.
 
+Before you rely on any entry in a compiled genealogy, read the work's apparatus: the family and
+locality it covers, its numbering scheme, its inclusion criteria, its transcription conventions and
+any doubts the compiler admits. Keep hedges such as 'probably' attached and record those statements
+as speculation, separate from passages that cite wills, deeds or registers. Weigh each generation by
+whether it lived in the author's own time. Do not treat a progenitor named in the title as
+identified unless the text actually concludes who he was. List the records each statement cites as
+retrieval targets. Search later journal volumes and fraud discussions for reviews, rebuttals or
+revisions. A tree birthplace written as 'of [place]' may be a residence entered as a presumed
+birthplace. Read a same-name hit within its own family and place. Motivating examples:
+[books](https://www.youtube.com/watch?v=PYK389_glSI),
+[surname books](https://www.youtube.com/watch?v=QBLRdzk88po),
+[descendancy book](https://www.youtube.com/watch?v=lqYLQJICzDY),
+[family book](https://www.youtube.com/watch?v=lb58Xkl8czk),
+[journal chains](https://www.youtube.com/watch?v=iUHlYfkHtb8),
+[Horn Papers](https://www.youtube.com/watch?v=73Cnkvh3tmk),
+[compiled histories](https://www.youtube.com/watch?v=d7IaUGH2hPI),
+[Great Migration](https://www.youtube.com/watch?v=AG1TzZ79buQ),
+[preface](https://www.youtube.com/watch?v=cjzdXl19ewA),
+['of' places](https://www.youtube.com/watch?v=ZOBFGCHCKy8). The apparatus and any review guide how
+you read a claim; neither verifies it. If no response to a work turns up, that neither confirms nor
+refutes it.
+
+Treat an accepted lineage-society application, a patriot-database entry or a society's compiled
+study as a dated compiled conclusion, not as proof. Record its acceptance or edition date. Identify
+which child of the qualifying ancestor your line passes through. Examine the documentation cited for
+each generation, which may be hearsay, books or later copies, and assess it against current
+standards. Look for the society's later flags, and for a later revision by the same author or body,
+then retrieve what the revision relies on. Copied trees that repeat the earlier claim do not outweigh
+a revision. Flag tree parents that go beyond a peer-reviewed study as unsupported, for example
+parents given for Mayflower passengers whose origins the study leaves unknown. Motivating
+discussions: [Geni](https://www.youtube.com/watch?v=e9DQLOq0x_o),
+[Mayflower applications](https://www.youtube.com/watch?v=UyinOYMxTOI),
+[DAR papers](https://www.youtube.com/watch?v=CcwF-SvHe5Y),
+[ranking review](https://www.youtube.com/watch?v=Zn1CxFAWFq0),
+[SAR](https://www.youtube.com/watch?v=uVlhnNVudY0),
+[colonial](https://www.youtube.com/watch?v=AG1TzZ79buQ),
+[DAR registrar](https://www.youtube.com/watch?v=CSB6bd-Agcs),
+[Mayflower study](https://www.youtube.com/watch?v=Uetstsga33c). An application without a flag is not
+thereby verified. These sources give no rate at which approvals are later revised.
+
+- **Trace a family tradition to its teller.** Record who first wrote or told the story, their generation, and whether they knew the subject or could have witnessed each episode. A first-person account may describe events from the writer's early childhood, or may have been written as fiction. Ask older relatives whether they heard the story and from whom. Flag a detail that recurs in unrelated families or contradicts the documented procedure. Motivating examples: [grandson's account](https://www.youtube.com/watch?v=qG2YD76a3gk), [novelized memoir](https://www.youtube.com/watch?v=CoxXz-C754c), [recent legend](https://www.youtube.com/watch?v=ekd8yqtdMUE), [shared motif](https://www.youtube.com/watch?v=V6PN8hTtv6c). A contemporaneous record may confirm the event but not the story's extra detail. If elders don't know the story, or the motif turns up elsewhere, the story is weaker but not disproved.
 - **Identity dossier / one-row-per-record descriptor table — and sort it BY descriptor.** Stop expanding the branch, then capture **every** descriptor per record in its own column — the Dewitt case used **40+ columns**: dates, places, occupations, spouses, children, neighbors, signatures, and behavioral **"psychographics"** (the case label "Bad Barney"). The core move is the **sort:** a distinct signature (or cluster of descriptors) surfaces separate people, a matching one unifies records a name alone couldn't — corroborated across the dossier, since a signature can be clerk-written or vary. Have the AI *build* the table; you *read the sort*. (Jan Joyce, RLP 399; From Chaos to Clarity)
 - **Three-bucket identity triage.** Same-name+same-place / same-name+different-place / different-names — each needs a different separation tactic. **Parental sets** and the **FAN** network (Friends, Associates, Neighbors — Elizabeth Shown Mills' term) discriminate same-named people far better than name-spelling variants; for common names, keep candidates in **separate research projects** so records don't cross-contaminate. (Jan Joyce, RLP 399; One Man, Two Same-Named Wives; RLP 288; Seventeen Rules)
+- **Measure the namesake pool before attributing.** Run staged searches in a large index: surname, then given name within a date window, then locality. For a couple, search the surname with both parents' given names across the whole childbearing window and the index's full jurisdiction. Record each count with its collection, scope and search date, and list every candidate or couple returned. Attribute a record only when one candidate fits. Read each attached child's own source, and flag a different parent name or parish for investigation; detach a child only when correlated evidence establishes a different family. In a small community, extract every resident to see how much names and ages normally drift, then link people by recurring spouse and child combinations. Motivating examples: [mixed wives](https://www.youtube.com/watch?v=_ij26t85WY8), [Pryor](https://www.youtube.com/watch?v=Tii0ig0_FuM), [Talbot](https://www.youtube.com/watch?v=19dWr--gyB4), [Findmypast counts](https://www.youtube.com/watch?v=3axBF8ZZJtI), [Beaumont](https://www.youtube.com/watch?v=5frrXOx0Y2E), [John Thomas](https://www.youtube.com/watch?v=7fhBUIK9qkA), [Irish index](https://www.youtube.com/watch?v=AS_MMnXesfg), [spreadsheet](https://www.youtube.com/watch?v=rA6aOQwct2o). Counts measure index entries, not people. A sole candidate is unique only within that index's coverage, a rare name implies no kinship, and uniqueness never proves parentage.
+- **Jr./Sr. separates namesakes; it does not prove descent.** In early records, Senior/Junior (or Elder/Younger) may only tell apart an older and a younger man of the same name in one place on that record's date. The two may be uncle and nephew, cousins or unrelated, and a Junior can become Senior when the elder dies. Record each suffix verbatim with its record date as one descriptor among others (for example a tax entry's land section). Before linking two 'Sr.' entries, work out who was alive and eldest at each date, and do not invent a missing counterpart. Keep other period terms verbatim too ('nephew', 'natural child', 'reputed father', ignotus, or 'orphan', which in one court usage meant fatherless) and check them in a dictionary from the record's period. Motivating discussions: [1](https://www.youtube.com/watch?v=8NPz1yDXe-A), [2](https://www.youtube.com/watch?v=vVWewJI3NgM), [3](https://www.youtube.com/watch?v=MDSb0XgbEJg), [4](https://www.youtube.com/watch?v=llK0cgm8Is0), [5](https://www.youtube.com/watch?v=7yVDky7MvO0), [6](https://www.youtube.com/watch?v=xOWgEolt7-g), [7](https://www.youtube.com/watch?v=y9LHaORmIUE), [8](https://www.youtube.com/watch?v=W3vjuk_Pcvk), [9](https://www.youtube.com/watch?v=YsYAGYqYxzg), [10](https://www.youtube.com/watch?v=DiqiKRy-YAs), [11](https://www.youtube.com/watch?v=6HOBIqyzNo4), [12](https://www.youtube.com/watch?v=Miqeo11X4LI). Any kinship needs its own evidence. None of these sources gives firm period or regional bounds or a frequency, and a dictionary gives possible meanings, not this writer's meaning.
+- **Eliminate same-name candidates only on positive evidence.** List every candidate with parents and residence. Eliminate a candidate only on sufficient correlated evidence; a matched burial before marriageable age, or an independently established concurrent marriage and children elsewhere, are examples, not an exhaustive list. A candidate with no later record, including no burial found, stays open under the negative-evidence gate. Do not exclude a candidate because of a changed wife, children or state (test remarriage and migration first). Do not exclude one over a later self-reported birthplace either: check for an early-childhood move or institutional removal. When you link a common-named person in a new place, search the former place for a namesake who stayed. If two first marriages cannot be told apart, the widow's later remarriage may name her father; then check the rejected candidate's profile for children it has absorbed. Motivating examples: [German parish](https://www.youtube.com/watch?v=g8pltErjQpU), [Lithuanian](https://www.youtube.com/watch?v=49kPDjLKLtg), [brick wall](https://www.youtube.com/watch?v=1pVpwjsp7l4) (also [brick wall, second video](https://www.youtube.com/watch?v=33NcRbkm-eQ)), [Brady](https://www.youtube.com/watch?v=8rMB2nCIZz8), [Hamp](https://www.youtube.com/watch?v=L_69HP2yP3s), [Parkinson](https://www.youtube.com/watch?v=sxEZVAooC58), [Parkinson 2023](https://www.youtube.com/watch?v=M-gAadppRAY). The candidate who survives is a hypothesis that still needs independent linking evidence, not the proven ancestor.
 - **Reality-check filters on any merged or proposed-merge timeline.** A genuine biological/chronological impossibility (childbearing window, post-mortem fatherhood) **blocks the merge**; softer anomalies (a duplicate census enumeration, spouses/children that appear then vanish) are **conflicts to investigate** — resolve them, don't merge over them, but don't treat them as automatic separators either.** On a collaborative tree, read the **change log bottom-up** to recover the profile's *original intended identity* before untangling. (Kathryn Grant, Same Name Trap & Recognizing Problems; New Merge Experience)
+- **Screen a compiled child list for two merged couples.** Look for these signs: an unexplained multi-year gap or an over-long childbearing span; children overlapping under two different spouses; two differently named children born in one year; more attached children than a census child count reports (confirm the field's definition first); grandparents that differ. To split the families, use marriages near each first birth, occupations in the baptism entries, census households, and the exact form of each parent's name that the clerk wrote (Johann vs Johannes). Test each child separately against the father's will (allowing for children who died before it), the siblings' baptism places and the birth spacing. Detach a child only when several independent signals agree, and write the reasons down. Motivating examples: [Makins](https://www.youtube.com/watch?v=p-ImaWJYGMA), [same-name class](https://www.youtube.com/watch?v=D-PJUgIDY-M), [later version](https://www.youtube.com/watch?v=dlFJ4BKQyOg), [merge review](https://www.youtube.com/watch?v=HMoPsznHP1g), [Sutton](https://www.youtube.com/watch?v=jfWVACjBbbM), [20 children](https://www.youtube.com/watch?v=GbTECnZXn88). Each sign is a conflict to investigate, not a separator: gaps, omissions and census answers can have innocent explanations. Children you cannot assign stay uncertain.
+- **Geographic reality check.** Map every event place attached to one identity or family, and trace each place to the record that supplied it: a place taken from a child's record does not put the parent there. Confirm whether each date is a birth or a christening. Then ask whether the mother could plausibly have been present at each birth, given the distance and travel in that period, and flag baptisms that alternate between distant communities. Use a dated boundary source or gazetteer to check whether each place existed then, whether one place lay inside another, whether a county label changed, and how many places shared the name. An event placed somewhere that did not yet exist, or a stated age that conflicts with when the birthplace existed, is unlocated or in conflict; do not quietly modernise it. Motivating examples: [Sanderson](https://www.youtube.com/watch?v=gssWfSl8JwY), [Morgan](https://www.youtube.com/watch?v=oNYa_u3v_c8), [Sutton](https://www.youtube.com/watch?v=Tii0ig0_FuM), [non-event](https://www.youtube.com/watch?v=9YdOl_wgvb4), [mother present](https://www.youtube.com/watch?v=aSwzD902OUE), [English](https://www.youtube.com/watch?v=yLKR7PCqFrc) and [Irish](https://www.youtube.com/watch?v=YWpZYZVqHfw) jurisdictions, [Stepney](https://www.youtube.com/watch?v=NCIZoX2VV04), [Kent](https://www.youtube.com/watch?v=19dWr--gyB4), [hint cluster](https://www.youtube.com/watch?v=3-op5VOfN0M), [places first](https://www.youtube.com/watch?v=cxdv-_iOfH4), [distance](https://www.youtube.com/watch?v=bHpQnoG9PS0), [railroad](https://www.youtube.com/watch?v=eG5ZcWAjiLg), [settlement dates](https://www.youtube.com/watch?v=FDmZ8YGxldo), [alternating counties](https://www.youtube.com/watch?v=uzd9VGvE1yc), [Tipton](https://www.youtube.com/watch?v=3rpwjGBRnG0), [same-named towns](https://www.youtube.com/watch?v=BXde-Z4rocM). A spread, an anachronism or a clash is a conflict to investigate, not a separator. A tight cluster proves nothing, and the presenters' mileages and dates are not rules.
+- **Same-named siblings and apparent twins need a test, not a merge or a split.** Two baptisms with one given name to the same parents years apart may be a child who died and a later namesake. Read both originals, and search that parish's burials for the elder child before the later christening, with an age that fits. Two entries close together may be a provisional baptism, noted in the margin, followed by a later one, not two children. One baptism date can cover children born on different dates. An unexpected index entry sharing the subject's birth date, place and mother's maiden name may have been copied from a neighbouring entry: get the certificate or a no-record statement. Motivating examples: [British Isles](https://www.youtube.com/watch?v=hEZSzJRVXYE), [Scottish](https://www.youtube.com/watch?v=tlfJga5MZ_M), [necessity baptism](https://www.youtube.com/watch?v=_YP7JKXjthk), [Blackburn](https://www.youtube.com/watch?v=e3wVkWt581Y), [Welsh](https://www.youtube.com/watch?v=BAoVsb8RzSQ), [shared baptism](https://www.youtube.com/watch?v=Z-4MobTXiuw), [phantom entry](https://www.youtube.com/watch?v=D3EnR_-ZUhA). Neither a reused name nor a baptism 'of necessity' proves a death. A missing burial counts only under the negative-evidence gate, and marginal practice varied by parish.
 - **Conflict resolution by reliability, not by vote.** Judge each **statement** by its informant's basis of knowledge (a death certificate's informant usually knew the death firsthand but the birth secondhand — classify the statement, not the record), weight by informant proximity, count only **independent** information streams (copies aren't corroboration), correct for document conventions (a standard-form bond signed by a parent doesn't prove minority), and **explain the conflict's cause before choosing a value.** (Power of Proof; Ann Tanner; Slagle)
+- **Test independence before counting agreement.** Open any cited website or database page before counting it. Shared distinctive errors, shared placeholder entries, content matching the Family Tree, or a common descendancy book all mark one copied lineage: record it as one derivative claim and verify it against the original records. Agreement between Ancestral File or Pedigree Resource File and a Tree profile is not corroboration; per the presenter's account, their data were loaded into the Tree. Records that all agree on a father but were each supplied by the subject are one stream as well. Consider a stepparent, and test that by searching for the mother's remarriage and the siblings' or church records. Motivating examples: [shared mistakes](https://www.youtube.com/watch?v=-AqGC6qa2rU), [Bryant book](https://www.youtube.com/watch?v=9Q4qYeK5DTg), [MyHeritage citation](https://www.youtube.com/watch?v=2yVk3RoVGcA), [smart-match artefacts](https://www.youtube.com/watch?v=3-op5VOfN0M), [file history](https://www.youtube.com/watch?v=7KAPMSXHu9M), [stepfather case](https://www.youtube.com/watch?v=dY9EV5R_6ZA). Shared artefacts suggest copying, but they do not identify the original or the direction of copying. Trees without shared errors are not thereby independent.
 - **Negative-evidence gate.** A negative finding carries weight only when the source system and circumstances create a **justified expectation** that the missing information would appear — after ruling out record loss, incomplete coverage, and indexing error, and confirming the record **should** exist. Multiple failed searches alone never convert it (that is just vote-counting). **Log every search's date** — online coverage changes over time. (RLP 409; Writing Up Negative Findings)
+- **A missing marriage record proves neither no marriage nor a marriage.** Before inferring illegitimacy or a legal marriage, establish from a dated legal authority whether the jurisdiction recognised informal marriage at that place and time. Gather holding-out evidence: census marital status, children, land or probate records naming the wife, and any court ruling. When children and long co-residence have no marriage record, keep 'never legally married' as a live alternative. Do not read the woman's surname as either her married or her maiden name, because it may come from an earlier marriage. Test the alternatives with Bible entries, relatives' wills, estate and court records, and presentments (read the outcome too, since an indictment is only an allegation). Motivating examples: [common-law talk](https://www.youtube.com/watch?v=8IyZ2AdcCCo), [Talbott](https://www.youtube.com/watch?v=CgcnOlNO9bA). A census 'married' does not prove a legal marriage, the gate above still applies to the absent entry, and present-day recognition is not historical law.
 - **Indirect-evidence discipline.** Never let "a record mentions X" stand in for "a record proves the relationship." An indirect conclusion must be **written as an explicit correlation argument** chaining the clues, not asserted. (Wrong Until Proven Right; RLP 409; Lesson 5)
+- **A stated status is a statement, not an event.** A census 'widowed' neither proves nor dates a spouse's death: divorce, desertion or separation can lie behind it. Likewise, 'married' does not show that an absent husband was alive. Before recording a death, look for the spouse alive or remarried later, and for death, burial or probate evidence. Where family lore says a spouse vanished, search court calendars and newspaper notices for a divorce, linking them by case number. A licence's 'single and unmarried' gives the status on that date, not 'never married'. A guardianship does not show that both parents were dead (the guardian may be the mother). An orphanage listing does not show orphanhood or adoption: trace the children back to earlier censuses and follow each parent forward. Motivating examples: [time grid](https://www.youtube.com/watch?v=8kc1qA0IKBo), [Wellborne](https://www.youtube.com/watch?v=X4MD-Bitis8), [grass widow](https://www.youtube.com/watch?v=jeshnSv9xQ0), [1900 case](https://www.youtube.com/watch?v=YPKGBX2zZOs), [Holtz](https://www.youtube.com/watch?v=ZbTw-Ba4tBs), [1880](https://www.youtube.com/watch?v=CjjD9mI_dY8), [divorce records](https://www.youtube.com/watch?v=9XPYpWcaU1o), [marriage affidavit](https://www.youtube.com/watch?v=7iLTGhthWKI), [probate](https://www.youtube.com/watch?v=PzZ4fwSbjq8), [orphanage](https://www.youtube.com/watch?v=z9IHEinKGzs). These are single cases. They set no frequency, they do not make every widow suspect, and guardianship rules depend on jurisdiction and period.
+- **Heir lists are not child lists.** A will can leave out children already provided for. An heirs' deed lists the participants and may miss a child who died earlier without heirs. 'Heir' does not mean child. In an intestate estate, record each share's stated chain (heir, deceased intermediate parent, relation to the decedent) as its own observation. Several heirs splitting one share is a lead to a deceased child's descendants. A distribution to siblings raises a question about surviving entitled descendants at that date; resolve entitlement under the descent law in force for that place and date before drawing a survival conclusion, and do not read it as proof that the decedent was childless. Before using relatives from a will or probate index, confirm each name in the testator's own text, because an index can carry names over from the adjacent entry. Motivating examples: [McClure](https://www.youtube.com/watch?v=q9dHUILop_A), [intestacy](https://www.youtube.com/watch?v=CjjD9mI_dY8), [Jerusha Abbott](https://www.youtube.com/watch?v=880wgUzrmhQ), [will index](https://www.youtube.com/watch?v=Z0wwMYchf2I). None of these sources states that law. A fractional share is a lead, not proof of descent.
 - **DNA + paper as one proof.** Document each test-taker's parent-child chain to the common ancestor **before** using the match as evidence; require the documented descent path and the genetic sharing to **converge on the same hypothesis** before the match counts as proof. (Match selection, clustering, coverage across independent descendant lines, and triangulation belong to **unknown-parentage-wato** — route them there, don't re-derive them here.) (Why Document DNA Links; How Many Matches; Coverage; Using DNA Source Citations; RLP 409)
+- **Test a famous or gateway link from the documented end.** First find where the documentation starts. If sources appear only from the noble or gateway generation upward, the connection is unproven: verify each generation from the researcher upward. Watch for same-name ocean crossings, overlapping marriages and geographic leaps, and record a published pedigree's provenance. Check that the famous person left surviving children, and join a line only at a person a documented descendancy actually names. Convert a claimed cousin degree into the shared ancestors it implies and use them as a search guide; rule out slots by dates, then recompute the degree from the joined tree. When trees attach an ancestor to a progenitor because of a rare given name, list the progenitor's same-named descendants and compare their children with men documented locally. Motivating examples: [gateway](https://www.youtube.com/watch?v=mbDqe9rXWx4), [famous ancestor](https://www.youtube.com/watch?v=qG2YD76a3gk), [Truman](https://www.youtube.com/watch?v=Gdyo3ORfPk4), [Tecumseh](https://www.youtube.com/watch?v=jjknGUtMs7s), [rare name](https://www.youtube.com/watch?v=v3x23zLGi04). A compiled descendancy is a source to evaluate. A claim that has not been excluded is still unproved, and a shared rare name proves no link.
 
 ## Worked mini-examples (the reasoning logic)
 
@@ -87,6 +139,22 @@ pattern supplies neither parentage nor a death, religious or ethnic identity.
 This worksheet applies the [2024 UK naming-pattern demonstration](https://www.youtube.com/watch?v=0G_xOogKkTI)
 as a search aid within the conditional-premise procedure below, without imposing a universal
 British naming order.
+
+Verify a name element before using it as a search term or identifier. A middle name, initial or
+suffix found only on a tree profile or in an inherited compilation may be a compiler's label. Check
+whether records or signatures from the person's lifetime show it, and note where it first appears.
+In the illustrated U.S. Army records, 'NMN' is read as 'no middle name'; confirm the abbreviation against the record series. Do not turn an unverified middle
+name into the mother's maiden surname. Where a second given name or a surname-like given name
+appears, test it both as a namesake (relative, friend or minister) and as a maiden surname in the
+mother's or grandmother's generation. Motivating examples:
+[Wales](https://www.youtube.com/watch?v=AExYnNLU_LU),
+[Scotland](https://www.youtube.com/watch?v=4cVRQxlR_jY),
+[maiden names](https://www.youtube.com/watch?v=CAuwye17wbQ),
+[Tefft](https://www.youtube.com/watch?v=W-FMXSswYAY),
+[Morgan](https://www.youtube.com/watch?v=xOWgEolt7-g),
+[entry guide](https://www.youtube.com/watch?v=Y4vkJheOo80). Not finding a name in the records you
+inspected does not prove it was never used. A custom of passing on maternal surnames must be shown
+from the records, and any such clue is a search lead, not parentage.
 
 ## Compare the creation stages within a marriage record
 
@@ -116,6 +184,21 @@ Inspect separately available consent and return material; an index's omitted ass
 or consent is not absence from the packet. The [bondsmen example](https://familylocket.com/rlp-233-marriage-bonds-and-bondsmen/)
 motivates this reverse lookup without promising a current field, image route or legal rule.
 
+A banns entry records an intention to marry, not a marriage, and an index may record banns readings
+as marriage dates. Several dates a few weeks apart for one couple are a sign of this. Inspect the
+full entry and the facing page for a note of solemnization or objection, and search for the marriage
+entry itself. Banns with no recorded outcome leave the marriage open. In the other direction, a
+second ceremony or registration for the same couple is a separate event, not the start of the union
+or a second couple. Examples include a ceremony repeated for an administrative scheme, a later
+religious sealing, or a civil registration made years after the children were born. Keep each entry
+with its locator and role, and do not redate the children's legitimacy from the later event.
+Motivating examples: [banns](https://www.youtube.com/watch?v=HX-vIeT3nuo),
+[indexed banns](https://www.youtube.com/watch?v=ZOBFGCHCKy8),
+[subsidy remarriage](https://www.youtube.com/watch?v=8IyZ2AdcCCo),
+[sealing](https://www.youtube.com/watch?v=vwx-RUk8sbU),
+[late civil registration](https://www.youtube.com/watch?v=uks4xjQvig8). These sources establish no
+indexing practice, period or legal requirement; take those from dated local authority.
+
 ## Follow record versions and test disputed dates
 
 For a struck-out index or later-filed entry, retain both references and distinguish the
@@ -135,6 +218,21 @@ Report compatibility or an unresolved calendar basis; compatibility does not pro
 The [calendar-and-signatory example](https://www.roots-branches.com/examine-assumptions-use-local-expertise/)
 supplies this extra constraint, not a verified date for the present case.
 
+A record made long after the event is a late claim. For a delayed birth certificate or affidavit,
+record the application or issue date separately from the birth date it asserts. Note each informant
+or affiant with their stated relationship and years known, research them as associates, and ask what
+each could actually have known. A precise day may have been fixed from a remembered feast or season,
+so check how the date was established before weighing it, and compare it with earlier records such
+as sibling order across censuses. For a church certificate issued years after the event, check
+whether it identifies an underlying register and classify its information from that evidence. A different given name on it may be a copyist's rendering of an
+original-language form; test that against the register entry. Motivating examples:
+[delayed affidavit](https://www.youtube.com/watch?v=jeshnSv9xQ0),
+[delayed certificate](https://www.youtube.com/watch?v=TW-sRiN0mYM)
+(also [2024](https://www.youtube.com/watch?v=fwjzc6KsI4o)),
+[late baptismal certificate](https://www.youtube.com/watch?v=7vUOB1x6QR0). These are single cases.
+They show neither how common the practice was nor what form was used, and the affiants' stated
+relationships still need independent proof.
+
 When an index names only each entry's principals, a person's later roles as sponsor or
 witness stay hidden. To bound a life window, inspect documented relatives' baptisms backward
 from the latest relevant date and retain the latest entry in which the person actually acts
@@ -152,6 +250,26 @@ path through former/current spouses and subsequent marriages; one person can hol
 affinal roles. Preserve supported paths and unresolved alternatives. The [revision-list discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=13676)
 motivates this dated comparison without establishing its narrated family solution or a
 universal kinship dictionary.
+
+Surnames shift across unions too. A bride's surname on a marriage entry is not her maiden name
+unless the record says so: a widow may marry under an earlier married surname without the record
+mentioning a previous marriage. Check for children carrying that surname, for an earlier marriage,
+for the mother's maiden name in the children's birth registrations, and for a census taken before
+the marriage. Before attaching household members as the head's children, check the relationship
+column, their ages and any earlier marriage of the wife. A census child with no birth registration
+under the household surname may be registered under the mother's maiden or earlier married surname.
+Children of another surname may be a remarried mother's: test this with their later answers about
+her birthplace and with land or probate records she made under both names. Motivating examples:
+[1](https://www.youtube.com/watch?v=DG2eJWmekcY), [2](https://www.youtube.com/watch?v=DncJDtUmqeE),
+[3](https://www.youtube.com/watch?v=EwBoSeXHnX8), [4](https://www.youtube.com/watch?v=Dtl6pnXMiEY),
+[Caroline](https://www.youtube.com/watch?v=gsbQIuilOYk)
+(also [Caroline, second video](https://www.youtube.com/watch?v=LtVWWY1u5OI) and
+[Caroline, third video](https://www.youtube.com/watch?v=gp9OE5-gtG4)),
+[Gertrude](https://www.youtube.com/watch?v=9g14sFJ7ZjY),
+[Patton](https://www.youtube.com/watch?v=svND4WwnX54),
+[Gunton](https://www.youtube.com/watch?v=QOxgU5AZjEo),
+[Dove](https://www.youtube.com/watch?v=pNF5B1jZ8gM). Agreement supports a surname but does not prove
+it. A matching birthplace or a registration under the maiden name identifies no father.
 
 ## Using working hypotheses without inheriting their assumptions
 
@@ -178,6 +296,26 @@ parent-presence events derived solely from that attached child's birth. Compare 
 sourced dated observations instead, retaining gaps as unknown. The [timeline-view example](https://familylocket.com/rlp-218-goldie-may-subway-map-with-richard-miller/)
 motivates this dependency check without assuming a particular tool offers a switch. A plotted
 overlap or absence does not establish or exclude parentage.
+
+Apply the same dependency check to inherited tree dates before they enter a reality check or a
+search window. Ask whether each date is an observation, a derivation or a bound. An unsourced
+'about' year may be a marriage minus an assumed age. A birth date identical to the christening date
+may be a copied placeholder. A 'before' death date may only mean the person was dead by a later
+record, and a death date may have been inferred from 'died as infant'. A baptism supports the
+baptism, the name and the listed parents. It does not support a birth date or sex that the entry
+does not record; without a stated birth date or infant status, treat it only as a born-before limit.
+Distinguish age-derived approximate years from assumption-based search estimates, and do not file a
+conventional marriage age as an observed fact. A record hint that matches your own estimate may only be echoing it. Motivating examples:
+[Parkinson](https://www.youtube.com/watch?v=goYE2J6rp3Y),
+[christening date](https://www.youtube.com/watch?v=mzIbF22wUKM),
+[Levenia](https://www.youtube.com/watch?v=lJSDH-L86oE),
+[Tree Sweeper](https://www.youtube.com/watch?v=Tg7wVQyTvAM),
+[source tagging](https://www.youtube.com/watch?v=QuCBcmiFGFg),
+[timeline grid](https://www.youtube.com/watch?v=yYtExm8oYxE),
+[placeholder hint](https://www.youtube.com/watch?v=XZp1tyYAJc4),
+[adult baptism](https://www.youtube.com/watch?v=v_tpU77sOn4). Label derived values with their basis
+and uncertainty, use them only within that uncertainty, and never count them as independent
+corroboration of the observations they were derived from. Late and adult christenings occur, so treat one as a conflict to explain, not an impossibility.
 
 **Two source examples explain why the register matters.** In Ancestry's *Using Hypotheses*, estimated sibling dates from will order and assumed spacing guide further research; the presenter explains how a newly discovered marriage could require a different family reconstruction. Those assumptions are search aids, not general demographic rules. In Roberta Estes's proof-table discussion, evidence establishing Mary Younger as John Y. Estes's grandmother still does not establish what his middle initial means. Success in proving one relationship does not retrospectively verify every clue that suggested it. (*Using Hypotheses*; *Creating Genealogy Proof Tables*)
 

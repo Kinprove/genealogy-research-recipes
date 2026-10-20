@@ -21,14 +21,43 @@ The worksheets below work with manually read images or copied index rows.
    can include separate alphabetic sections for surrounding communities or a county taxpayer list.
 3. Record which section should contain the target and which you inspected. Inspect another
    relevant locality section when the first does not contain the expected entry.
+   The contents may also show a separately printed racially segregated section; inspect it before
+   recording no entry, and treat a no-hit as especially weak where a group was poorly canvassed.
+   The [presenter's warning](https://www.youtube.com/watch?v=d39IOclm3wU) motivates this check
+   without showing which editions used such sections.
 4. Save the abbreviation key for that edition. Decode an entry with that key before expanding
    residence, boarding or occupational abbreviations.
 5. Mark an inaccessible edition or uninspected section separately from an inspected section
    with no matching entry. [S2, S3, H1]
+   Before marking an inspected edition 'no entry', also search its late-additions, changes,
+   errata, 'removals and corrections' and necrology pages at the front and back of the volume.
+   These sit apart from the main alphabetical list. Record whether each was found and inspected.
+   A search of the index or main list alone is not an inspected-edition negative. An entry on
+   these pages is a separate observation that may correct the main list or the previous edition.
+   It shows the compiler's addition, not an arrival or move date, and gives no destination unless
+   one is printed. An empty late list does not prove absence either, and such pages vary by
+   edition. See the [Cleveland 1915](https://www.youtube.com/watch?v=VcsuFFgIrWw),
+   [1814 Philadelphia](https://www.youtube.com/watch?v=b2O3BFQZ4mg),
+   [Lisa Lisson](https://www.youtube.com/watch?v=31IdUHAYlKw),
+   [removals](https://www.youtube.com/watch?v=a7aEIGoVXJw) and
+   [late-update](https://www.youtube.com/watch?v=NmtuDJBE5eQ) examples.
 6. For a former-resident directory, read the foreword to identify the addresses' roles.
    The 1949/50 Breslauer Adressbuch lists later addresses of former Breslau residents but
    orders entries by earlier street and house number. The ordering address is a lookup key;
    do not record it as residence in the titled city at publication. [S4]
+7. From the title page, introduction or back matter, copy any stated coverage or canvass period
+   (such as a directory 'for the year ending' a given month) and any stated inclusion rule (such
+   as males over a stated age, widows, female heads of household or women in business). If none
+   is found, record that. Judge a presence or absence against that period and rule, not the cover
+   year. Someone who arrived after the canvass, or who falls outside the rule, is not a gap. Also
+   check the business or classified section. Copy a firm listed under another household member's
+   initials exactly, without saying whose it is. A son's first listing under an age rule gives at
+   most a birth-year bound, because a move or an omission can also explain it. Rules differ by
+   edition and may not have been applied consistently. See the
+   [Cleveland title page](https://www.youtube.com/watch?v=VcsuFFgIrWw),
+   [South Haven examples](https://www.youtube.com/watch?v=xjLPo2MMuHs),
+   [front-matter tip](https://www.youtube.com/watch?v=8i1MYac23ec) and
+   [Hayward firm case](https://www.youtube.com/watch?v=68DpL1IWZHc).
 
 **Artifact:** One coverage row per edition and relevant section:
 repository, directory title, edition year, locality/section, available/access status,
@@ -52,6 +81,11 @@ repository's copy of that same volume supplies another access route, not another
    records beneath it, and add the correct edition year to every imported row.
 4. Compare imported fields with the image. Information printed next to a name can be a locality
    or post office rather than another given name; retain the correction and the original index value.
+   Check the image for ditto marks. An index can merge two co-listed people into one row. Make a
+   separate row for each person on the image, expand a ditto only to the line it refers to, and
+   keep the merged index value as the original value. The
+   [MyHeritage example](https://www.youtube.com/watch?v=RRz2QHR4DmE) does not show how ditto
+   conventions differ between publishers.
 5. Check the first and last imported entries, remove repeated headers or interface text, and
    confirm that each row still has its year and locator. Manual extraction uses the same schema.
    [S1, S3]
@@ -93,9 +127,36 @@ each printed address or an exact move date. Keep an unstated time basis unknown.
    relevant street and nearby entries. Record those observations separately.
 6. Create a question for each change or competing group, with the row IDs that caused it.
    A recurring name, occupation or address is a comparison clue, not an automatic merge. [S1, S2]
+   Test the opposite error too: one person can appear as two rows. A married woman may be listed
+   under her husband's entry and again on her own line with her occupation, employer and another
+   address, sometimes spelled differently. If she later appears under a new surname, a continuing
+   occupation can suggest the link. Record both rows as a proposed same-person question with
+   their row IDs. Confirm the link with a marriage or other record, because a common occupation
+   alone is weak. The [presenter's Marion example](https://www.youtube.com/watch?v=d39IOclm3wU)
+   motivates this check without showing how often such double listings occur.
 7. For a located former-resident entry with a reported later locality, use that place for
    one bounded follow-up, such as a later directory or a relevant civil-register search there.
    Keep it as a source-attributed lead; it does not establish a move at the edition date. [S4]
+8. Copy 'widow', 'wid of' or a printed death note exactly, as the status reported in that
+   edition. When a man's run of entries ends and his wife next appears as his widow, rule out
+   same-name men and record both row IDs as a death-interval clue. Propose a death-search window
+   from these observations and the edition's stated coverage and publication frequency, because
+   publication intervals varied; the window is conditional on their dating and accuracy, and the
+   last listing is not an established alive-after bound. Some directories added the label only in the
+   year after the death. Divorced or separated women sometimes reported themselves as widows, so
+   look for the husband elsewhere. Record contents-listed deaths-since-last-edition or
+   divorces-granted lists as separate observations. They are leads to the death or court record,
+   bounded only by the stated period. A printed death date is the directory's statement and
+   should be checked against the death or obituary record; widow labels and death or divorce
+   lists only bound or suggest a death and do not prove one. See the
+   [widow-interval](https://www.youtube.com/watch?v=JY9qiuftib4),
+   [frequency](https://www.youtube.com/watch?v=VDsZBiAxlzg),
+   [paper-widow](https://www.youtube.com/watch?v=dck2TkjsKso),
+   [listener](https://www.youtube.com/watch?v=EsfciqHqnBE),
+   [delay](https://www.youtube.com/watch?v=d39IOclm3wU),
+   [printed-date](https://www.youtube.com/watch?v=iTdSalYI6a4),
+   [death-list](https://www.youtube.com/watch?v=9Lz5OLRv8E0) and
+   [divorce-list](https://www.youtube.com/watch?v=9XPYpWcaU1o) examples.
 
 **Artifact:** The observation table, saved sort/filter criteria, provisional groups and a
 worklist such as “retrieve a record linking observations D07 and D12.”

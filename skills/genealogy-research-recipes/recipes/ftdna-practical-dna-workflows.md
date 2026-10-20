@@ -53,6 +53,16 @@ rather than a filtered export. After correcting the export choice, re-export bot
 session. Resolve remaining name mismatches through the note-handle procedure below before joining. Record intentional filtered or
 selected exports as subsets with their criteria and actual export choice.
 
+When the match list is filtered by ancestral surname or haplogroup, treat the result as a search
+subset. A surname search may return similar spellings: check each returned row's surname fields for
+the target surname, and mark the others `similar-name hit` before following their shared matches. A
+haplogroup filter or same-haplogroup indicator covers only haplogroups FTDNA holds for those kits.
+Record a match missing from that result as `haplogroup not shown`, not as carrying a different
+haplogroup. The [2021 search discussion](https://www.youtube.com/watch?v=gNFNKpvy1no) motivates both
+checks, including a haplogroup known only from another vendor's test that did not appear. It leaves
+untested whether an upload changes this. It does not establish current matching rules, current
+filter behaviour or how the surname columns are filled.
+
 **Artifact:** export manifest, one row per file: kit handle, retrieval date/time, file name, tool, export
 choice, active filters, scope (`all`, `filtered: <criteria>`, `selected: <n>`), row count, interface
 count, `links_as_of`, check results. **Stop when** the recorded scope, displayed match count and

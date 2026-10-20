@@ -8,6 +8,17 @@ Read candidate-bearing passages in the available corpus before fixing the search
 
 Keep observed spellings, dictionary forms and generated possibilities in separate columns. A remembered list is a starting set, not an exhaustive inventory; corpus discovery is also not a guarantee of completeness. Review matched surface forms with context before interpreting counts. Short stems can match ordinary words, place names and unrelated surnames.
 
+For each attested form, also record who produced it: family tradition, an enumerator or clerk, a
+formal document or the person's own signature. Add the record type, place and date range. Mark
+forms seen only once, or only in one record class or under one recorder. Check whether a spelling
+change coincides with a new priest or clerk, or whether forms cluster by jurisdiction. These
+patterns guide later searches. They do not choose a 'correct' spelling, and they do not prove that
+differently spelled entries are one person. Examples from
+[Brady](https://www.youtube.com/watch?v=aL2BGQ7raRw),
+[Castillo](https://www.youtube.com/watch?v=qDW8dEp5mN0) and
+[Allen](https://www.youtube.com/watch?v=XJeAPcgLHpc) motivate this step. Allen's AI-generated
+spelling explanations were not verified.
+
 Determine whether each token is a given name, compound-name component, patronymic, surname, occupation or another descriptor. Do not discard an occupational-looking token categorically: it may function as a surname in the particular record. Search the plausible roles separately when unresolved. Neither a descriptive title nor an occupational surname by itself proves that two people had the same occupation.
 
 ## Diagnose three different failures
@@ -24,6 +35,17 @@ Hebrew final letters and Yiddish digraph characters are separately encoded. If n
 
 Removing points does not supply missing vowel letters, convert one surname spelling into another or resolve Hebrew versus Yiddish orthography. Add consonant substitutions only as bounded exploratory lanes motivated by the source, observed OCR errors or linguistic evidence. There is no universal substitution mask that proves coverage of every Slavic name in Hebrew script.
 
+When a record was written in a language or dialect other than the family's, search the recording
+office's form of the name as a separate lane. Church entries may Latinize given names. A French
+administration may write Jean for Johann. A court, military or district office in a High German
+area may give a Low German parish family's name in its High German form. In Lithuanian Lutheran
+records, different pastors, even in one church, may record the same person under very different
+German or Lithuanian name forms. Check where the recording office sat, not only the parish, and
+keep the literal form in the inventory. The [Jensen](https://www.youtube.com/watch?v=g8pltErjQpU),
+[Minert](https://www.youtube.com/watch?v=cc8_6tNN8C4) and
+[Sinickas](https://www.youtube.com/watch?v=xoY83Sx3ANk) transcripts give examples, not a
+systematic conversion table. A matching form is a candidate, not proof of identity.
+
 ## Retrieve through another recorded participant
 
 When the target name may be misread, try an independently known co-listed household member
@@ -38,6 +60,19 @@ Use only syntax supported by the actual field, without transferring another data
 Before interpreting zero results, try an independently known positive that the same field and scope should retrieve. Distinguish catalogue author/title, body-text OCR, typed name fields and free text. If the control fails, investigate scope, access or field behaviour; report the failed control rather than the target's absence. A functioning website does not establish a functioning within-book index.
 
 Remote services may normalize differently from local code. Submit original and transformed queries separately and compare returned identifiers. Check only the syntax needed for the task; do not transfer local regex, wildcards or Boolean syntax to an undocumented interface.
+
+Some lists, registers and card indexes are arranged alphabetically and may need to be browsed in
+filing order when a name search fails. Before you report a name as absent from one, find out how
+its compiler filed letters. A list made in a language with extra letters may give letters such as
+Spanish ñ or the traditional ll, or Icelandic á, ð and þ, their own alphabet position, while a
+transcribed copy may have dropped those letters. Browse both positions, plus the entries just
+before and after the target surname, and record the ranges you browsed. The
+[Scandinavian](https://www.youtube.com/watch?v=1CzAygZqg2Q),
+[Icelandic](https://www.youtube.com/watch?v=4jhIdvmyFUw) and
+[Mexican](https://www.youtube.com/watch?v=siMS_6gGKYs) examples supply no collation table for any
+particular index. In the [Maryland death-index example](https://www.youtube.com/watch?v=ClvFJDrlrUw),
+browsing the Murray cards filed right after Murphy found a card whose date conflicted with the
+known events. A card found by browsing is only a candidate until it is tested against known events.
 
 JewishGen's transcription rules allow hidden “Other Surnames” and “Other Towns” fields to make names in comments searchable in typed fields. Their existence does not show they were populated in a particular collection. Compare free-text and typed-field retrieval where supported. [S3]
 

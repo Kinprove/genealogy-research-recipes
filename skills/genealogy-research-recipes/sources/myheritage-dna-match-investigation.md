@@ -18,6 +18,8 @@ patterns; current vendor pages supply checkable platform behavior. Checked 2026-
 - [Chromosome browser upgrade](https://blog.myheritage.com/2018/03/major-upgrade-to-the-myheritage-chromosome-browser-for-better-exploration-of-dna-matches/) — triangulation of the selected group.
 - [Contacting DNA matches is free](https://blog.myheritage.com/2018/01/contacting-dna-matches-is-now-free/) — contact from DNA-match cards and kit managers.
 - [Why can't I upload my DNA data file?](https://www.myheritage.com/help/en/articles/12852724-why-can-t-i-upload-my-dna-data-file) — current upload restriction, relevant to excluding obsolete setup advice.
+- [Using My Heritage DNA for Segment Analysis — James Baker](https://www.youtube.com/watch?v=DzNZhaIdQJo) (BYU Family History Library, 2021-08-06) — sorting an unfiltered segment export, checking overlapping matches against an anchor's shared matches for the other parental side, and a segment lost to a working cM cutoff.
+- [MyHeritage's New Whole Genome Sequence Test | 700k vs 3 billion DNA markers](https://www.youtube.com/watch?v=arP83dD_7a0) (GeneaVlogger, 2025-10-18) — vendor FAQ read aloud: no reprocessing of array kits, mixed processing during the transition, and processing type stated in the raw-file header.
 
 ## Credits
 

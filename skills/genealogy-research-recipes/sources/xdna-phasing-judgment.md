@@ -15,6 +15,8 @@
 
 11. *Reconstructing Grammy’s DNA* — Tanner Tolman (DNA Painter), 2023-06-22 — <https://dnapainter.com/blog/grammys-dna-reconstruction/> — Rights: cited reference, not reproduced.
 12. *What You NEED TO KNOW Before Recreating Deceased Ancestor's DNA* — Family History Fanatics, 2022-06-01 — <https://www.youtube.com/watch?v=VEmq-nF4rPQ> — Rights: cited reference, not reproduced.
+13. *DNA Painter's New Individual Match Filter - Genealogy Tutorials (Quick Genealogy Tip #25)* — GeneaVlogger, 2019-09-27 — <https://www.youtube.com/watch?v=jusPVWoQFr0> — Used for the step of re-summing a match's segment table above a stated cutoff and comparing it with the vendor total to rank endogamous matches. Rights: cited reference, not reproduced.
+14. *Advanced DNA Techniques Live Demonstration - Visual Phasing and DNA Painting* — GeneaVlogger, 2024-04-06 — <https://www.youtube.com/watch?v=Spc5UugzRUo> — Used for nominating the non-recombining parental side on a phased map as a candidate, pending transmission evidence and checks for other ancestral paths. Rights: cited reference, not reproduced.
 
 For the 2026-10-18 non-PAR and measurement-scope clarification, see H4 (Genome
 Reference Consortium assembly-specific PAR boundaries), H6 (FamilyTreeDNA's X

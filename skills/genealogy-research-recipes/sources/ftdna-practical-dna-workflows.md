@@ -32,6 +32,13 @@ Additional Matrix sources:
 - **S9:** Katy Rowe-Schurwanz, FamilyTreeDNA, [The Matrix Refreshed: New Functionality For A Classic Family Finder Tool](https://blog.familytreedna.com/family-finder-matrix-update/), 2025-02-13; checked 2026-10-19. Cited for factual support; no third-party passages reproduced.
 - **H9:** FamilyTreeDNA Help, [Family Finder Matrix Guide](https://help.familytreedna.com/hc/en-us/articles/4411225071247-Family-Finder-Matrix-Guide), checked 2026-10-19. Cited for factual support; no third-party passages reproduced.
 
+Additional match-list search source:
+
+- **S10:** Lisa Lisson with Mary Eberle, *Genetic Genealogy with Mary Eberle*, YouTube, 2021-08-13 —
+  [video](https://www.youtube.com/watch?v=gNFNKpvy1no). Used for the observations that FTDNA surname
+  search returned similar surnames, which motivates checking each returned row, and that haplogroup
+  search and matching indicators reflected only haplogroups from FTDNA tests.
+
 The Matrix check used S9 for X exclusions and the direct-pair interval limitation, H9 for the
 three comparison choices, and H6 for the focal-kit scope of the Chromosome Browser. H6 was
 rechecked on 2026-10-19; its original check date above is preserved. Public documentation was

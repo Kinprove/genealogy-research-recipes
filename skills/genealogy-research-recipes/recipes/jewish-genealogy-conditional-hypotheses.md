@@ -58,6 +58,8 @@ A candidate's registration or a death during a visit supplies a search place; it
 
 Do not use a hypothesis-built branch, a chromosome-map label or a copied tree as independent confirmation of the assumption that produced it. Track the originating record or observation, not the number of websites displaying it. [S4, S5]
 
+If the target's own Hebrew inscription is unavailable, a proposed sibling's gravestone can supply a candidate father's name. Record that name as conditional on the sibling proposition, which is a separate K1. It is not the target's own patronymic. A later burial in the origin area with that name, a plausible age and a matching town is still only a search hit. Test it against records that tie that man to the sibling's or the target's household. The [GeneaVlogger case](https://www.youtube.com/watch?v=2h6zplRuD28) motivates this step without confirming either the sibling link or the 1910 burial identity.
+
 Use the general dependency-review rule when a premise changes. The Jewish-specific check is which of K1, A1, N1, C1, T1 and D1 actually changed: a new naming practice, a town-role correction and a rejected father have different consequences. Keep independently supported descendants and literal records. [S1–S5, S11]
 
 ## Worked example: a naming clue becomes a search, not a death date
@@ -79,6 +81,8 @@ Two separately documented Jewish descendant families share a surname. H1 connect
 Keep a DNA match as an observation. If you label it “from H1's father” using the hypothetical bridge, that label is an instance of D1, not a second piece of support for H1. An endogamous cousin can share DNA through additional paths; a documented relationship does not automatically assign every shared segment to that relationship. [S4, S9]
 
 If a proposed DNA test predicts the same result for H1 and H2, it does not distinguish them. A compatible Y-DNA result does not by itself identify a named father or reconstruct a migration itinerary. Do not turn the case presenter's confidence into your conclusion. [S2, S3]
+
+For a small Sephardic or Mizrahi component in an otherwise Ashkenazi ethnicity estimate, treat the estimate as an unresolved lead. Look for matches whose own ancestry is largely only Sephardic or Mizrahi. A mixed Ashkenazi ancestry label alone does not distinguish these explanations; retain such matches for separate pedigree and interval checks. If a surname or place hint appears, search both the Sephardic and the Ashkenazi record sets for that community. The [presenter's answer](https://www.youtube.com/watch?v=zOzzh0xDYY0) motivates this step. It gives no match count or threshold and proves nothing on its own.
 
 ## Prompt craft
 

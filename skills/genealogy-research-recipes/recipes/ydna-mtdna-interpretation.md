@@ -62,6 +62,15 @@ A **GD-0 at Y-37**, or an **HVR1/HVR2 mtDNA match**, is frequently a **ceiling a
 - **Trust:** "exact at low resolution ⇒ *unresolved*, could be recent or ancient — upgrade to find out." For mtDNA, only the **full sequence** is worth interpreting, and even then not for recent/geographic claims. A Romanian mtDNA peak that also lights up Hungary may just be a **sibling line** — there is little you can reliably conclude from it. (GeneaVlogger, 2025-09)
 - **Never:** "you match exactly, so you're closely related," or an mtDNA HVR/region match as evidence of a specific place or recent maternal ancestor.
 
+If the purchased Y-STR level shows no matches, view the match list at a lower comparison level
+before concluding that no paternal-line relatives have tested. Record which level produced each
+match. A different-surname match seen only at a lower level remains unresolved as recent or ancient.
+Check its actual panel coverage and available higher-level results, and compare the documented
+places of origin of both surnames as one lead. The
+[brother's Y-67 example](https://www.youtube.com/watch?v=0c9tQzocXZs) motivates this check. A
+shared region of origin does not establish when or how the lines connect, and such a match does
+not identify a recent family.
+
 ### 3 — NEVER treat mtDNA genetic distance as a clean, linear closeness ranking
 
 A mtDNA **genetic distance (GD)** count is not the even measuring stick it looks like. FTDNA's full-sequence matching allows **up to 3 differences** (heteroplasmy included) but **completely excludes the poly-C insertion positions 309 and 315** from the GD count (a 309.1C/315.1C difference never registers) — and, by community/historical convention, the 522/523 deletions. Other fast-mutating positions, most notably the hypervariable **16519** (and 16189/16193), are **down-weighted only for *haplogroup* assignment** — too unstable to help define a branch — but they **still count toward GD**. Do not confuse the two lists: only 309/315 (plus 522/523 by convention) are GD-*excluded*; 16519 and its neighbors are merely down-weighted for haplogroup purposes and remain fully counted in the match's GD number. (FamilyTreeDNA Help Center; Estes, DNAeXplained, 2016-06-29)
@@ -121,6 +130,14 @@ The output is **tester → documented path → test/tree → SNP → reported st
 - **Surname timing traps.** "Different surname ⇒ NPE" ignores that hereditary surnames were adopted late and unevenly — as recently as the **1930s** in some regions; Dutch not standardized until **1811**; Normandy by the 14th c. (the 1539 Ordinance of Villers-Cotterêts then required priests to record surnames in parish registers — it fixed name *recording*, it did not mandate hereditary surnames). A shared paternal ancestor may simply predate surnames, or a surname was government-assigned for taxation/conscription. Compare the estimated MRCA date to *when surnames were adopted in that region* before reading a mismatch as an event. (FTDNA, 2026-03/2026-05; GeneaVlogger, 2025-09/2025-12; DNAeXplained, 2026-05)
 - **Third-party autosomal-derived haplogroups aren't Y/mt tests.** A haplogroup inferred from autosomal raw data is high-level and can be **thousands of years off** the tester's true paternal-line MRCA — don't treat it as equivalent to an actual Y-DNA/mtDNA result. (GeneaVlogger, 2025-09/2026-04)
 - **Phylogenetic trees and migration maps are tester-dependent.** Branch definitions and dates differ between platforms, and geography tools (e.g. Globetrekker) mislead when few relevant men have tested — more testers can substantially shift the inferred geography. Never present the current tree as fixed truth. (GeneaVlogger, 2026-05; DNAeXplained, 2026-05)
+- **Origins reported by matches are a location lead, not an origin finding.** For a
+  paternal-origin question (England vs Ireland, England vs Germany), tabulate the earliest known
+  ancestor and place reported by each Y match or nearby Block Tree non-match. Label each entry as
+  self-reported and note its test level and branch. A pattern can show the question is worth
+  asking, but it does not answer it, verify those trees, or date a migration. The pattern depends
+  on who has tested (see the tester-dependence pitfall above). The
+  [Eberle origin-question remark](https://www.youtube.com/watch?v=0c9tQzocXZs) and the
+  [Big Y Block Tree case](https://www.youtube.com/watch?v=bEDj6kd-15Q) motivate this tabulation.
 - **mtDNA is a weak genealogical instrument by design** — slow mutation, fewer testers, wide match ranges. Great for *eliminating* a direct-maternal-line hypothesis, poor for *pinning* a relationship.
 
 ## Build a maternal pedigree and locality worklist

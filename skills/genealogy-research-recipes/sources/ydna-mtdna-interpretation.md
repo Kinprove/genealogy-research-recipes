@@ -32,6 +32,8 @@
 27. *Using Autosomal DNA in Genealogical Research* — Katy Rowe-Schurwanz (FamilyTreeDNA), 2026-04-09 — <https://blog.familytreedna.com/using-autosomal-dna-genealogy/> — Rights: cited reference, not reproduced.
 28. *How to Use mtDNA for Genealogy Research* — Katy Rowe-Schurwanz (FamilyTreeDNA), 2026-04-24 — <https://blog.familytreedna.com/using-mtdna-genealogy-research/> — Rights: cited reference, not reproduced.
 29. *Scientific Details: A Deeper Dive Into Age Estimates* — FamilyTreeDNA, 2022-09-19 — <https://blog.familytreedna.com/tmrca-age-estimates-scientific-details/> — Rights: cited reference, not reproduced.
+30. *Using Y-DNA for Genealogical Research with Mary Eberle* — Lisa Lisson, 2023-02-17 — <https://www.youtube.com/watch?v=0c9tQzocXZs> — Used for the lower-level match-list check and the origin-comparison lead (also the match-reported origin tabulation). Rights: cited reference, not reproduced.
+31. *Exploring Big Y-DNA | A Case Study!* — Lisa Lisson, 2023-04-21 — <https://www.youtube.com/watch?v=bEDj6kd-15Q> — Used for tabulating the earliest-ancestor origins reported by matches and Block Tree neighbours, as a location lead only. Rights: cited reference, not reproduced.
 
 ## Credits
 

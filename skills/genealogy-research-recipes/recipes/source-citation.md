@@ -16,9 +16,24 @@ For each source you inspect, record:
 - The stable item URL or database identifier and date accessed.
 - Saved image filenames, including continuation pages.
 
+When you photograph material in a repository, also photograph the item's identifying pages and
+containers. For a book, that means the title page. For a manuscript collection or vertical file,
+it means the folder and the box-end label. Store these images with the target images so each one
+keeps its collection, box and folder context. A label photo records the arrangement at the time
+of your visit. It supports the citation but is not the citation. The
+[archivist's advice](https://www.youtube.com/watch?v=zNVSOhlUmgI) motivates this step.
+
 Keep the record's creation date separate from the date you viewed it. Preserve a documented
 mapping between archive and film identifiers when available. An index entry and an inspected
 original image have different retrieval paths; record which one you used.
+
+Before you record a URL, test whether it reopens the specific entry in a new session. Some
+search-result URLs expire, and some only reopen the search form. If so, save a capture of the
+entry and record its locators in the fields above. If another site has a persistent page for the
+same index entry, cite it as a second access path (see the two-provider rule below). The
+[FreeReg example](https://www.youtube.com/watch?v=1OyoTZez5NA) and the
+[GRO index example](https://www.youtube.com/watch?v=QuCBcmiFGFg) motivate this step. Neither
+establishes how any site's links behave today.
 
 ## Connect the citation to the evidence
 

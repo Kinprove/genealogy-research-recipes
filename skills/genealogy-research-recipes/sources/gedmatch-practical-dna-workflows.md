@@ -19,6 +19,37 @@ their numeric presets):
   2016-05-18 — [post](https://dna-explained.com/2016/05/18/creating-a-phased-parental-kit-at-gedmatch/).
 - **S6:** Family History Fanatics, *Phasing Parents — GEDmatch Tutorial*, 2018-09-04 —
   [demonstration](https://www.youtube.com/watch?v=G1eM3xloMKA).
+- **S7:** GeneaVlogger, *Answering Live Genealogy and DNA Test Questions*, 2025-06-21 —
+  [live answer](https://www.youtube.com/watch?v=U27k4R4rUkY). Used for recording half-identical
+  versus fully identical region state from a One-to-One comparison when relationship ranges
+  overlap.
+- **S8:** Family History Fanatics, *SHOULD You Use Siblings to Make a GEDMatch SuperKit?*,
+  2022-12-07 — [demonstration](https://www.youtube.com/watch?v=-C6gmmx8nr0). Used for why raw
+  files from different people must not be merged into one kit (multi-allele positions and false
+  reported matches).
+- **S9:** Family History Fanatics, *Does Ancient DNA Prove Native American Ancestry? (No — Here's
+  Why)*, 2026-04-29 — [answer](https://www.youtube.com/watch?v=GEc8JVzCX5o). Used for not
+  treating a One-to-One shared-SNP percentage as evidence of relatedness, and for recording an
+  unrelated-pair baseline.
+- **S10:** Family History Fanatics, *What to Do When Your DNA Clusters Don't Match Your 3rd
+  Great-Grandparents*, 2026-07-08 — [answer](https://www.youtube.com/watch?v=KY_t2X7yXNY). Used
+  for tabulating exact segment boundaries across two candidate groups and for the chip-dependence
+  of those boundaries.
+- **S12:** Family History Fanatics, *Which Tools to Use FIRST on GEDmatch for Every Kit — The
+  Order Matters*, 2026-09-22 — [walkthrough](https://www.youtube.com/watch?v=PBL_T2TY93U). Used
+  for running the parental-relatedness check per managed kit from the tester's own data alone.
+- **S14:** Family History Fanatics, *GEDmatch: What is the Gen Column on One-to-Many Results?*,
+  2021-08-18 — [analysis](https://www.youtube.com/watch?v=V9hvINBzZmc). Used for treating a
+  displayed generation estimate as derived from the shared total rather than independent
+  evidence.
+- **S15:** Family History Fanatics, *GEDmatch One-to-Many: More Questions About Overlap
+  Explained*, 2022-02-02 — [discussion](https://www.youtube.com/watch?v=Ypfn6mzRbOc). Used for
+  recording per-row overlap with kit version and treating a missing overlap value as unreported
+  scope.
+- **S16:** Lisa Lisson with Mary Eberle, *Chatting DNA & Genealogy with Expert Mary Eberle of DNA
+  Hunters*, 2020-11-13 — [interview](https://www.youtube.com/watch?v=zvZhuusSROY). Used for
+  keeping one of a person's several uploads active for matching; the interview reports that several
+  active uploads could produce repeated rows, which is not verified as current behaviour.
 
 GEDmatch-hosted documentation and tutorials, retrieved 2026-10-04. Retrieval confirms the public
 page's contents; it does not verify the signed-in interface or current access level:

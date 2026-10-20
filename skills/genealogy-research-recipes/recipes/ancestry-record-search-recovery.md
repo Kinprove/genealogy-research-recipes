@@ -57,6 +57,13 @@ registers when searching for census-like household or residence evidence.
 Open each plausible collection and inspect its actual coverage.
 See [the Card Catalog guide](https://help.ancestry.com/hc/en-us/articles/53933305954579-Using-the-Card-Catalog).
 
+If a catalog search returns nothing, try the singular and plural forms separately. In one
+demonstration a singular term missed plural titles. Also run a pass with no text at all, using
+only category and place filters, in case the catalog uses different vocabulary. Record each
+variant's count and rerun it later, because the presenter saw results change between runs.
+[Genealogy Gems' Card Catalog session](https://www.youtube.com/watch?v=99F9D51wz6Q) motivates
+these variants. It does not establish a stable matching rule.
+
 ### 4. Revisit collections that changed after the failed search
 
 **Trigger:** an old search log says the relevant collection produced no candidate.
@@ -118,6 +125,17 @@ wider interval. Preserve the reliable anchor while changing one constraint at a
 time, and record which change recovered a candidate.
 See [Ancestry's refinement guide](https://help.ancestry.com/hc/en-us/articles/53933347318419-Refining-Your-Search-to-Improve-Results).
 
+Treat an undocumented event year from a tree or family note as a possible estimate. A death year
+can be a midpoint between the last census showing the person and the first census without them.
+When the exact year fails, search that whole bracket. In the
+[Ohio death example](https://www.youtube.com/watch?v=GM1i0bLjoWk), a stated 1935 hid a 1930 death
+record, although the source does not show where the estimate came from. If widening still fails,
+try one query with transposed digits, such as 1762 for 1726. An indexer's transposition can fall
+outside any reasonable interval. The
+[birth-date strategies discussion](https://www.youtube.com/watch?v=v_tpU77sOn4) reports this from
+experience and says nothing about how often it happens. Any hit is only a candidate: check it
+against the image, the census date and other same-name people before attaching it.
+
 ### 8. Use wildcards for a specific spelling uncertainty
 
 **Trigger:** a name has plausible transcription or spelling variants.
@@ -146,11 +164,29 @@ entry point. Open the resulting image and inspect the target household or nearby
 pages. Ancestry's April 2026 tutorial recovers a mistranscribed Cowan household
 using non-name fields and the parents' names after direct searches fail.
 
+For births, search the parent fields alone, including a mother's-maiden-name field where the
+birth index offers one; some early registers omit the child's name, so a search by the child's
+name cannot reach those entries. Treat hits as candidates and match them by parents, date and
+place ([Joyce Whiting](https://www.youtube.com/watch?v=1LPbDiF6fn8),
+[Dave Obee](https://www.youtube.com/watch?v=14LegPypVRM)).
+
 Use [Ancestry's horizontal-search advice](https://help.ancestry.com/hc/en-us/articles/53933305561747-How-to-Search-Ancestry)
 and, for the 1950 census, [NARA's household/neighbor search guidance](https://www.archives.gov/research/census/1950/faqs).
 These are retrieval pivots; route any identity decision to the evidence-judgment
 recipe. Do not add a recovered household to the tree merely because it matches
 the search constraints.
+
+A person-search keyword field offers another pivot. Keep only name, birth year and place, and put
+one known associated fact in the keyword field instead of a structured field. That fact can be an
+address from another record, a city whose county changed, a regiment from a draft card, or an
+indexed column without its own field, such as a passenger list's nationality. For a child who may
+have lived in an institution, try a status term such as 'orphan' in a census keyword field, then
+inspect the full institutional pages. Check that the current collection indexes that text.
+Co-residents and listed inmates are leads, not relatives or identifications.
+[Judy Sharp's examples](https://www.youtube.com/watch?v=VsbXLVM1-Xk), the
+[Swiss keyword tip](https://www.youtube.com/watch?v=ezp_SFmMdYM) and a relayed
+[adoptee-research tip](https://www.youtube.com/watch?v=KcsQHKLSjFQ) motivate this. They do not
+document current keyword coverage.
 
 ### 10. Use the volume's own index and page numbering
 
@@ -210,6 +246,17 @@ custodian and its image or copy-request route; an Ancestry index does not guaran
 Ancestry hosts the image. Access conditions can differ between a personal account
 and a library edition. See [Ancestry's library guide](https://help.ancestry.com/hc/en-us/articles/53933331964691-Searching-on-Ancestry-at-a-Library-or-School)
 and [Web Records guide](https://help.ancestry.com/hc/en-us/articles/53933331868179-Finding-Records-Online-with-Ancestry-Web-Records).
+
+Use the collection title, or a hit's source citation (publication, place, year), as a search key
+for other hosts, library copies or digitized editions, and read the entry there. Record each
+host as a separate retrieval attempt with its coverage, edition and search behaviour. Shared
+underlying records remain dependent evidence: a [2022 talk](https://www.youtube.com/watch?v=o6d7Z_W_qhg)
+reports one shared 1880 U.S. census index. Duplicate hits from overlapping collections, such as
+[two Find a Grave indexes](https://www.youtube.com/watch?v=3FJKJFw0Bjo), count as one source, as
+does a second copy of the same printed page. The
+[catalog-title](https://www.youtube.com/watch?v=V2vmIxs2WjM) and
+[directory](https://www.youtube.com/watch?v=YI-rwxManbs) examples do not show how to verify that
+the editions match.
 
 For England and Wales censuses **1841–1901**, carry the archive series, piece,
 folio/page and, where applicable, book reference into a reference search or image

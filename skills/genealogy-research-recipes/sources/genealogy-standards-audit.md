@@ -43,6 +43,18 @@ citations and certification rubrics are not reproduced. Checked 2026-10-07.
 - Dyer and Elder, [RLP 193: Five Takeaways from the DNA Proof Arguments SLIG Course](https://familylocket.com/rlp-193-five-takeaways-from-the-dna-proof-arguments-slig-course/)
   (2022-03-21) — organize proof around reasoning and distinguish it from reporting
   the research process. Rights: cited for attribution, not reproduced.
+- James Tanner (BYU Family History Library), [Untangling a Mess on the FamilySearch Family Tree](https://www.youtube.com/watch?v=9YdOl_wgvb4)
+  (2024-10-15); [Evaluating the Accuracy of Entries in the FamilySearch Family Tree](https://www.youtube.com/watch?v=-mmKGzEd7PE)
+  (2024-07-17); [Brickwall vs. End-of-Line, Which is it?](https://www.youtube.com/watch?v=i5nCiwPqqCQ)
+  (2022-10-12). Used for: locate the first parent-child link that no source supports, treat it
+  as the research frontier, and flag impossible chronology. Rights: cited for attribution, not
+  reproduced.
+- GeneaVlogger, [Why Everyone is Wrong about Jewish Pirates of the Caribbean](https://www.youtube.com/watch?v=8AMDbehYYts)
+  (2022-07-22). Used for: comparing a published book's quotation with the original source
+  wording before accepting an identity claim. Rights: cited for attribution, not reproduced.
+- James Tanner (BYU Family History Library), [What Are the Oldest Reliable Genealogy Records?](https://www.youtube.com/watch?v=xJpWr2DmpVA)
+  (2023-03-08). Used for: checking event places in a tree against when the named town, county
+  and state were created. Rights: cited for attribution, not reproduced.
 
 ## Credits
 

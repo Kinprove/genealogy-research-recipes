@@ -43,6 +43,12 @@ conveyances, leaving missing parts and conflicting dates or acreage unresolved. 
 [Pennsylvania acquisition example](https://familylocket.com/part-4-pennsylvania-germans-the-land-acquisition-process-in-colonial-pennsylvania/)
 motivates the crosswalk; it does not establish a universal grant procedure or legal title.
 
+Do not assume the warrant, survey and patent were completed before private sales began. A
+warranted or surveyed tract may pass through county deeds before a later patent, so the patentee
+can be a later holder rather than the first settler. Search county indexes for the tract between
+the survey and patent dates. The [Pennsylvania discussion](https://www.youtube.com/watch?v=V0he2PdYk2k)
+motivates this order check. [S7]
+
 When a supported warrant/survey or assignment lead remains unexplained by a deed search,
 follow the applicable grant/patent index to the described original survey and jacket. Inspect
 available assignment endorsements; retain assignor, assignee, requested grantee and dates as
@@ -136,6 +142,18 @@ separately from recorded deed books; distinguish the target requested from what 
 The [loose-deed example](https://familylocket.com/rlp-225-how-multiple-relationships-affect-dna-match-analysis/)
 motivates this fallback without guaranteeing survival, access or a reason for nonrecording.
 
+When a record-loss report covers the period, do not treat it as absence. Ask the custodian, or
+check the holdings description, whether deeds were re-recorded from returned originals, and
+search those books and their indexes. Record a re-recorded entry as a later copy, keeping the
+instrument date, any stated earlier recording reference and the re-recording date apart. Also ask
+whether an abstract or title company keeps its own tract records for the area. Record any copy
+obtained as a third-party abstract or copy with its custody stated, and keep any official
+book/page it cites as a retrieval lead. The [burned-county discussion](https://www.youtube.com/watch?v=zSx_9MrKP0M)
+and [title-plant remark](https://www.youtube.com/watch?v=gssWfSl8JwY) motivate these routes. They
+do not show that a given county re-recorded, how such entries are marked, that every original
+came back, or that a plant survives, covers the period, is accessible or reaches back to the
+original grant. [S5, S6]
+
 ## 4. Preserve two dates and close the bounded retrieval audit
 
 1. From the retrieved document, record the instrument's stated date and the recording date
@@ -172,6 +190,31 @@ The [Joanna West deed example](https://familylocket.com/rlp-217-joanna-west-case
 supplies this crosscheck. Placement or omission alone does not establish widowhood, legal
 incapacity, a spouse's death or kinship; execution names in a recorded copy are not necessarily
 original autographs.
+
+Before reporting a grantor's wife absent from a sale, read the recorded instrument through its
+acknowledgments for a release or separate-examination clause. If none appears, search later index
+entries over an explicit, recorded range for a separately recorded release or disclaimer deed,
+which may have been made years after the sale [S4], and link it to the sale's instrument ID.
+Record her name as written, any date the release states, and any stated source of her interest,
+such as inheritance. The [disclaimer-deed explanation](https://www.youtube.com/watch?v=Gci5qXFBtrQ)
+and [release-of-dower discussion](https://www.youtube.com/watch?v=CjjD9mI_dY8) motivate this
+check. Release requirements varied by state. Neither a missing release nor the witnesses' names
+establish her death, marital status or kinship. [S9]
+
+A grantor/grantee index often names only the parties to an instrument. Determine from the index
+itself whether it covers only parties or also witnesses, adjoiners, heirs or other people named in
+the text, and report a negative search within that verified scope. Where a full-text search of deed images exists, or the relevant instruments
+are already in hand, search or read them for the person and verify any hit on the image. The
+[full-text search remark](https://www.youtube.com/watch?v=kFxsAw8HHAs) motivates this
+distinction. Full-text coverage and machine reading vary, so a full-text miss does not prove
+absence either. [S8]
+
+When an original deed survives outside the recorded book, read any clerk's endorsement giving
+the book, page or acknowledgment date. Use it to find the recorded copy, then compare the two
+texts instead of assuming the transcription is exact. Where a court ordered recording, search the
+order or minute book for that entry and keep its date in its own field. The
+[deed-process explanation](https://www.youtube.com/watch?v=gWPPN9DUUSc) motivates this crosswalk.
+Endorsement and court-order practice varied, and the source shows no example endorsement. [S4]
 
 ## Prompt pattern
 

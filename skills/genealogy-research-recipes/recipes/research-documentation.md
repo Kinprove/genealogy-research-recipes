@@ -19,6 +19,21 @@ Use `NIL` for a completed search with no hits. Record inaccessible images, inter
 and unsearched collections with their actual status. Keep literal record wording and uncertain
 readings separate from your interpretation.
 
+Date each NIL against the collection as it stood at the time. Record the collection title and any
+coverage or last-updated note the provider showed. A NIL covers only that version. If the provider
+later lists the collection as added to or updated, for example with new counties or years, re-run
+the logged search as a new dated row. Do not overwrite the old row. The
+[Lisa Lisson update-check example](https://www.youtube.com/watch?v=0_GHyojrnu8) motivates this
+re-check. An update notice does not show that the target place or period was added, so confirm the
+new coverage before expecting a hit.
+
+If searches went unlogged, a browser-history export for that period can list the pages to reopen.
+Rebuild each citation and log row from the reopened record page, not from the URL, and mark these
+rows as reconstructed after the fact. History lists the URLs of visited pages. It does not show
+every query run or every result inspected and dismissed, so do not turn it into NIL entries. The
+[Family History Fanatics recovery example](https://www.youtube.com/watch?v=BSOrsobztYY) motivates
+this step without naming a tool or making extraction from record pages automatic.
+
 For a bounded set of multi-person records, an optional associate index can keep one row
 per named person's occurrence, with the same source-item/document number on every row from
 that item. Filter by person to see their occurrences or by item number to recover its named
@@ -39,12 +54,29 @@ series and dates, known loss, present custodian, access and collection/finding-a
 Include geography or administrative history when it changes where to search. A described
 collection remains uninspected until its contents have actually been examined.
 
+List every body that created records for the place and period as a separate line in the guide.
+That includes town, school and church bodies, special-purpose districts such as irrigation or
+hospital districts, and the county, state and national levels. Records at these levels may contain
+different information or copies of the same information; check their creation and copying
+relationships. A NIL at one level leaves the others unsearched. When judging who supplied a found document's
+information, note which level created it. James Tanner's
+[jurisdiction-layer example](https://www.youtube.com/watch?v=7Jn_XMUozo0) motivates this list. It
+does not establish that any district's records survive or name individuals.
+
 Use that coverage to choose the next searches: target series and locator, dates or sections
 to inspect, access route and the observation that could distinguish the competing explanations.
 After a local record loss, distinguish copies transmitted to another custodian from records
 created separately by another administrative level. In Family Locket's 2022 example, state-held
 tax copies and federal land patents supply different routes; a patent does not replace a
 subsequent county deed. Verify the relevant custody and survival for the actual locality.
+
+Trace custody series by series across every jurisdiction that controlled the spot during the
+record period. After a county split, older records may stay with the parent county, pass to the
+new county, go to a state archive or library, or be destroyed. After a border change, church and
+land records may have gone to different archives, or originals may have left with emigrants. James
+Tanner's [records-move rule](https://www.youtube.com/watch?v=aSwzD902OUE) and Dave Obee's
+[border-change example](https://www.youtube.com/watch?v=NQ8E1t7xN4g) motivate this check. Neither
+supplies a custody history for any particular place.
 
 **Method origin:** [Family Locket's locality research and planning example](https://familylocket.com/using-the-fan-methodology-to-find-a-females-father-part-2-locality-research-and-research-planning/).
 Use [evidence and proof judgment](evidence-proof-judgment.md) to decide what a result changes.
