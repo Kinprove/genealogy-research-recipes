@@ -80,7 +80,7 @@ Check the image inventory separately before deciding which material is absent.
 See [Ancestry's collection-information guide](https://help.ancestry.com/hc/en-us/articles/53933269983507-Source-and-Collection-Information).
 
 Compare the date spans of the listed volumes. Queue every relevant volume whose
-span covers the target period, including overlaps; keep each volume's inspected
+span overlaps the target period; keep each volume's inspected
 range separately. A gap in this inventory does not establish that the original
 records were destroyed. Matching dates or titles do not establish that two books
 are copies, or which is earlier: inspect the records and their provenance before
