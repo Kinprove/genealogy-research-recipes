@@ -73,6 +73,14 @@ For JewishGen Ukraine, follow the current Ukraine RD FAQ to its monthly/cumulati
 
 An upload for a case does not establish that its supplementary, merchant or other subsection was completely indexed. Resolve that narrower question against a stated coverage scope or the relevant source entries. Index records, people, households and scan pages have different denominators; equal totals do not prove completeness. Preserve the original's locator for each indexed entry, as JewishGen's transcription guidance requires. [S4]
 
+A later volunteer surname index to a census can state what its compilers skipped, such as
+military lists, households whose first-listed resident was outside the target group, or
+attached workforce lists. Keep those omissions with the index; its no-hit is not a search of
+the whole census. An index compiled by the original enumerators belongs to the same census:
+use it to locate an entry or check a reading, cite it separately and verify the entry on the
+census sheet itself. The [Dvinsk census indexing thread](https://forum.j-roots.info/viewtopic.php?f=168&t=289)
+motivates both checks without establishing that the enumerators' index survives complete.
+
 Deliver the literal passage and verified fields, the exact inspected locator, coverage actually achieved and remaining gaps. For OCR retrieval use [corpus-seeded-name-search.md](corpus-seeded-name-search.md); for household reconstruction use [jewishgen-search-family-reconstruction.md](jewishgen-search-family-reconstruction.md).
 
 Sources and the distinction between provider facts and workflow synthesis: [source notes](../sources/archival-image-coverage-verification.md).

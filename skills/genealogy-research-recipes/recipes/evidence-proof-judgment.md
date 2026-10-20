@@ -135,6 +135,14 @@ Report compatibility or an unresolved calendar basis; compatibility does not pro
 The [calendar-and-signatory example](https://www.roots-branches.com/examine-assumptions-use-local-expertise/)
 supplies this extra constraint, not a verified date for the present case.
 
+When an index names only each entry's principals, a person's later roles as sponsor or
+witness stay hidden. To bound a life window, inspect documented relatives' baptisms backward
+from the latest relevant date and retain the latest entry in which the person actually acts
+as sponsor or witness. A mere mention in someone else's record, such as a spouse named in a
+burial entry without participation or living-status wording, does not by itself establish
+survival. The [Port Royal godmother example](https://dna-explained.com/2024/06/16/francoise-dugas-1679-after-1751-goodbye-port-royal-52-ancestors-426/)
+motivates this search; a latest appearance is not a death date.
+
 ## Resolve a relationship label across successive unions
 
 Retain an in-law term verbatim with its reference person and record date. Compare earlier

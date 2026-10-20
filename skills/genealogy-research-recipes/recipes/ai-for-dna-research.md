@@ -68,6 +68,14 @@ The [relative-shortlist example](https://familylocket.com/rlp-206-proving-a-pare
 supplies this selection tactic; several relatives nominating one candidate do not create
 independent confirmations or waive WATO's assumptions.
 
+For a question about recurrence across the research ancestor's documented child branches, an
+optional working view can list candidates nominated by testers in at least two of those
+branches. Keep the full union, single-branch candidates and unavailable pairs; a candidate seen
+through only one tester can still be relevant. Recurrence orders documentary checks; it
+neither proves the ancestor nor counts as independent evidence. The [multi-tester comparison](https://familylocket.com/rlp-248-rlp-with-dna-10-research-logs/)
+and [Dyer project](https://familylocket.com/rlp-251-florence-matilda-creer-a-favorite-photo/)
+examples motivate this view.
+
 ### Fictional worked comparison
 
 All people and measurements here are invented. Ada, Boris and untested Dorian are full siblings; Irma is their tested mother. Celia is Dorian's tested daughter. In the other family, tested Mara, Niko and Owen descend from the candidate couple Ezra–Mina through three different children. Dana is Mara and Niko's tested child and therefore reaches Ezra–Mina by two paths. Mara has two vendor kits, A and B; use A consistently below and retain B as an alternative measurement.
@@ -158,3 +166,11 @@ Inspect the actual calculation, table or screenshot intended for the recipient: 
 in a tree view need not mask generated output. Keep the private original and the separately
 redacted derivative distinct. The [dated Banyan output example](https://www.yourdnaguide.com/ydgblog/banyandna)
 supplies this verification trigger; it does not validate current controls or anonymity.
+
+Consent to analyze a match does not cover naming that person in a shared or published
+report. When the researcher asks, state the documented or hypothesized connection with its
+uncertainty, how the name or data will appear and where the report will be shared; leave out
+sensitive findings about other people, such as unexpected parentage. Offer an excerpt limited
+to that person's own data or a redacted preview. Record the actual response and any limits
+with that report version. No reply is not permission: anonymize or omit instead. The [permission-request example](https://familylocket.com/rlp-250-rlp-with-dna-12-whats-next/)
+supplies this preparation step; it does not settle legal sufficiency or guarantee anonymity.

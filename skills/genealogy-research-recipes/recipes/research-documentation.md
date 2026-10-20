@@ -27,6 +27,11 @@ occurrence rows, not additional records or independent confirmations; keep the o
 The [John Dobkins record-tracking example](https://dna-explained.com/2022/10/16/tracking-john-dobkins-or-dobbins-to-maryland-52-ancestors-378/)
 supplies this two-way lookup; repeated association does not establish kinship.
 
+Record which names you deliberately searched in each resource, with the date and method.
+A name met incidentally while extracting other surnames is an occurrence, not a completed
+search for that name; queue that search separately. The [extraction-log example](https://dna-explained.com/2024/06/14/genealogy-proof-series-extracting-and-recording-data-so-that-you-can-find-it/)
+motivates this distinction without requiring every name to be transcribed.
+
 ## Turn locality coverage into the next searches
 
 Keep a locality guide bounded to the question and period: historical jurisdiction, relevant
@@ -74,6 +79,13 @@ State the person and question, list the records inspected, and explain which obs
 support or contradict each proposed identity, movement or locality. Refer to the document
 numbers and citations so another researcher can retrace the analysis.
 
+If the report may be shared in parts, keep the project name, report version date and page
+N of M on every page. Keep each figure, table and document number with its citation, so an
+extracted page can be traced to the full report. Retain the full report and original images
+separately from the sharing copy. The [report-formatting](https://familylocket.com/rlp-249-rlp-with-dna-11-research-reports/)
+and [report-sharing](https://familylocket.com/rlp-250-rlp-with-dna-12-whats-next/) examples
+motivate these page-level details; a PDF does not prevent alteration or misuse of an excerpt.
+
 Preserve unresolved questions and name the next record that would distinguish the possibilities.
 Use [evidence-proof-judgment.md](evidence-proof-judgment.md) to assess identity and conflicts.
 
@@ -87,5 +99,11 @@ Track updates to each destination tree separately using observed status: finishi
 does not establish that every tree was updated. The [project-tracking example](https://familylocket.com/rlp-223-tracking-research-projects-in-airtable/)
 supplies this handoff without requiring a particular database or treating custom status
 labels as proof grades.
+
+Before extending an earlier phase's log for a new phase, keep a dated copy of that log linked
+to the earlier report. Add later observations in a new working copy or as dated rows, so what
+was known at the earlier conclusion stays distinguishable. The [research-planning](https://familylocket.com/rlp-247-rlp-with-dna-9-research-planning/)
+and [research-log](https://familylocket.com/rlp-248-rlp-with-dna-10-research-logs/) examples
+motivate this baseline; a saved log records that phase's scope, not source truth.
 
 Original Kinprove reference, licensed FSL-1.1-MIT.

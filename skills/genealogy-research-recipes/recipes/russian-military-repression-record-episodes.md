@@ -40,6 +40,12 @@ The date cautions are inferences about what a document actually asserts. In part
 award order after a missing report does not, by itself, establish survival between those dates.
 Obtain an event-specific source before extending a life or death interval.
 
+A casualty compilation can list the wounded beside the dead, and a database built from it
+can enter the out-of-action date in a field labelled as death. Record the compilation's own
+event class and date separately from the database label before treating the date as a death.
+The [Russo-Japanese War casualty-book discussion](https://forum.j-roots.info/viewtopic.php?f=181&t=2248)
+motivates this check; it does not establish any particular person's fate.
+
 Keep repeated arrests as separate episodes even if the identity is established. OpenList's own
 description explains that people can occur in several regional Books of Memory, can have been
 persecuted more than once, and can acquire OCR or field-placement errors during compilation.
