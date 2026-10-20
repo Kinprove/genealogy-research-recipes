@@ -15,6 +15,14 @@ and its [source notes](archival-image-coverage-verification.md). Those reference
 support that verification stage, not a claim that any particular fund contains
 Jewish lists. No archival case findings are asserted here.
 
+## Practitioner example
+
+Vera Miller, [Wiki site details records of Ukrainian archives on a user-friendly and searchable site](https://lostrussianfamily.wordpress.com/2024/02/24/wiki-site-details-records-of-ukrainian-archives-on-a-user-friendly-and-searchable-site/),
+published 2024-02-24, supplies the translated-proper-name warning, separate site/page search
+scopes and the Ukrainian case-ending example. These are paraphrased retrieval diagnostics;
+the article's fixed-letter truncation suggestion is not adopted, and current site coverage
+or search behavior is not asserted.
+
 ## Credits
 
 - Kinprove — original archival catalogue-triage procedure — FSL-1.1-MIT (kinprove-original)

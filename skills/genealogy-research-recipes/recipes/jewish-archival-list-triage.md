@@ -24,6 +24,19 @@ as `євре`/`евре` and `синаго`, alongside record-type and locality 
 query and searched catalogue scope. Older spelling or a generic title can hide a
 relevant list; a zero title hit does not establish that a fund has no such records.
 
+Preserve the original Ukrainian title beside any translated display. A browser translation
+can turn a surname or locality into an ordinary word; it is not the literal catalogue text.
+An exact query can also miss an inflected heading: the [Ukrainian archive-wiki example](https://lostrussianfamily.wordpress.com/2024/02/24/wiki-site-details-records-of-ukrainian-archives-on-a-user-friendly-and-searchable-site/)
+contrasts `Канівський повіт` with `Канівського повіту`. After an exact miss, test a distinctive
+stem or the relevant case ending, retaining each original query and inspecting the returned
+contexts. There is no universal rule to remove a fixed number of letters.
+
+When site search is unhelpful, try browser Find on the original-language page and record
+that page's scope separately from a whole-site or archive-specific search. A shortened
+search string is a retrieval probe, not a new historical name form. Use
+[corpus-seeded name search](corpus-seeded-name-search.md) for the wider spelling and field
+diagnostics; the archive-wiki example does not verify the contents of any retrieved fund.
+
 An isolated `жид` or `ізраїл` token, surname, patronymic or nearby town is a lead to
 read in context. It may be part of a personal name or place name. A geographical
 association does not establish either Jewish contents or the identity of a person.
