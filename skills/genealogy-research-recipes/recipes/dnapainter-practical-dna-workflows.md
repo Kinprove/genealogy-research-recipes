@@ -2,7 +2,7 @@
 
 ## Goal
 
-Build a reusable chromosome-map packet and perform the right operation on it: paint an observed match, move existing data, intersect inherited intervals, infer missing intervals, combine overlapping coordinates, or plan another descendant's test. Use a direct-ancestor tree separately when the next task is to inspect pedigree gaps or repeated paths. Use a numeric tester-pair matrix to audit sourced shared amounts beside documented relationships.
+Build a reusable chromosome-map packet and perform the right operation on it: paint an observed match, move existing data, intersect inherited intervals, infer missing intervals, combine overlapping coordinates, or plan another descendant's test. Use a direct-ancestor tree separately when the next task is to inspect pedigree gaps or repeated paths. Use a numeric tester-pair matrix to audit sourced shared amounts beside documented relationships. Use Shared cM histograms and a two-value range screen to inspect sourced pair amounts.
 
 The failure to prevent is treating everything DNA Painter draws or calculates as an observed match. A copied segment belongs to its original comparison; an intersection is coordinate geometry; an inferred interval is a deduction; the Coverage Estimator is a pedigree-based estimate. Keep those outputs distinguishable.
 
@@ -22,7 +22,7 @@ Keep a small operation register beside the map:
 
 | Field | Record |
 | --- | --- |
-| Operation | Paint, copy, intersect, subtract, union, coverage estimate, cluster annotation, ancestor-gap worklist or numeric-pair audit |
+| Operation | Paint, copy, intersect, subtract, union, coverage estimate, cluster annotation, ancestor-gap worklist, numeric-pair audit or Shared cM histogram/range screen |
 | People | Focal tester and both members of each source comparison |
 | Inputs | Saved tables, provider, retrieval date, genome build and filters |
 | Assignment | Maternal/paternal/unknown and named ancestor, couple or provisional group |

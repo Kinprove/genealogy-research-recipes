@@ -236,7 +236,8 @@ authorship does not require a Kinprove account, connector or scoring engine.
   and coherent family comparisons across tested ancestors, siblings and descendants.
   *Also use for:* "how are these two families connected", multiple related focal testers,
   repeated descent paths, a long segment in a relative that is shorter/absent in a descendant,
-  mixed-origin segment overhangs, fused clusters, or validating a match's own pedigree.
+  mixed-origin segment overhangs, fused clusters, validating a match's own pedigree,
+  or inspecting supplied ethnicity-region maps and AncestryDNA Journeys timelines for locality-search leads.
   *Use for:* any "can AI/ChatGPT/Claude help me with my DNA / tree / citations", **or** whenever
   you (the assistant) are about to compute or assert something in this domain.
   *Core guardrail:* never fabricate cM→relationship odds (route to the Shared cM Project / DNA
@@ -383,13 +384,15 @@ authorship does not require a Kinprove account, connector or scoring engine.
   A selected Group Time Tree view has its own scope; missing or withheld details
   do not establish an absent lineage, and kit access does not authorize public display.
 
-- **`recipes/dnapainter-practical-dna-workflows.md`** — Nine practical DNA Painter workflows:
+- **`recipes/dnapainter-practical-dna-workflows.md`** — Ten practical DNA Painter workflows:
   paint measured matches, copy or merge maps of one tester, intersect phased inheritance,
   calculate provisional missing intervals, combine coordinate spans, plan descendant tests,
-  annotate cluster-derived maps, build direct-ancestor gap worklists and audit numeric pair amounts.
+  annotate cluster-derived maps, build direct-ancestor gap worklists, audit numeric pair amounts,
+  and inspect Shared cM histograms and two-value range screens.
   *Use for:* Paint a new match, map duplication/CSV transfers, Common Segment Generator,
   Inferred Segments Generator, Distinct Segment Generator, Coverage Estimator,
-  Cluster Auto Painter annotations, ancestral-tree reports or sourced numeric pair matrices.
+  Cluster Auto Painter annotations, ancestral-tree reports, sourced numeric pair matrices,
+  or Shared cM histograms and two-value range screens.
   *Core guardrail:* verify the people, chromosome copy and genome build; keep measured
   comparisons, inferred intervals, coordinate unions, pedigree estimates and documentary
   tree worklists distinguishable. A relationship note does not assign all of a match's intervals;
