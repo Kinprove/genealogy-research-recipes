@@ -35,6 +35,17 @@ This register is a recommended research artifact; it is not a DNA Painter import
 
 **Artifact:** source segment table, saved match and assignment note. **Checkpoint:** every retained painted interval can be traced to the correct focal-tester/match comparison; hidden layers have been inspected.
 
+If an FTDNA segment map already exists, keep any later import of parental-side information
+as a separate operation. Jonny Perl's September 2024 tutorial describes importing a second
+file containing FTDNA's match-level maternal/paternal bucket information after the segment
+file. Preserve both dated files and check that they concern the same kit and matching
+identities. Use that route only if the actual importer and its identity mapping can be
+inspected; ambiguous matches remain unresolved. Keep the reported bucket label separate
+from your evidence for a segment's parental side or ancestor. If the tool would silently
+turn a match-level label into an unsupported interval assignment, retain the label in your
+external match notes instead. Save which labels were added, left unassigned or could not
+be mapped. [S10]
+
 ## 2. Copy or merge map data without changing whose DNA it represents
 
 Choose the smallest transfer that answers the question. Duplicate the map for an alternative analysis; copy one match for a focused comparison; export a filtered subset for an ancestor; export the unfiltered table for a whole-map transfer. Use these as alternate maps of the same focal tester. [S4]

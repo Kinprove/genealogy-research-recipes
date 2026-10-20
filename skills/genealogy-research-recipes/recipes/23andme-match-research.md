@@ -326,6 +326,16 @@ an old tutorial is a lead to verify, not a standing list of working destinations
 For example, MyHeritage's current official help says it no longer accepts DNA uploads;
 an older instruction to upload 23andMe there is obsolete. [O13]
 
+If the user requests a privacy or account change, clarify the requested object before
+acting: destruction of a stored physical sample, deletion of stored digital genetic/account
+data, or withdrawal of research consent. A March 2025 article treats these as separate
+actions. Keep one entry for each requested object, with the request date, available provider
+response and unresolved questions; do not infer one action from confirmation of another.
+Make the user's preservation choices before any separately authorized irreversible action.
+A confirmation records what the provider reported; it is not independent verification of
+destruction, deletion or an effect on completed research. Where the current request route
+or effect is unavailable, leave it unresolved. [S20]
+
 ## Recipe 7: preserve ancestry painting without turning it into matching evidence
 
 When the question concerns an ancestry assignment, use Ancestry Composition's chromosome

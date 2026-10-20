@@ -11,6 +11,7 @@ All procedures are independently written paraphrases. Sources are cited, not rep
 - **S7:** Jonny Perl, [A new feature in the inferred segments generator](https://blog.dnapainter.com/blog/a-new-feature-in-the-inferred-segments-generator/), 2021-09-29.
 - **S8:** Jonny Perl, [Distinct segment generator](https://blog.dnapainter.com/blog/distinct-segment-generator/), 2021-09-29.
 - **S9:** Jonny Perl, [How to use the new DNA Coverage tool](https://dnapainter.com/blog/how-to-use-the-new-dna-coverage-tool/), 2022-10-17.
+- **S10:** Jonny Perl, [You can import GEDCOM and segment data: did you know? #6](https://blog.dnapainter.com/blog/you-can-import-gedcom-and-segment-data-did-you-know-6/), 2024-09-26. Historical separate match-file input; current importer/schema/access not verified.
 - **H1–H4:** Current public [Common Segment Generator](https://dnapainter.com/tools/csg), [Inferred Segments Generator](https://dnapainter.com/tools/isg), [Distinct Segment Generator](https://dnapainter.com/tools/dsg) and [Coverage Estimator](https://dnapainter.com/tools/coverage) pages, accessed 2026-10-04.
 
 ## Credits

@@ -22,6 +22,7 @@ not reproduced. Practitioner reports below preserve their publication dates.
 - **S17:** Family Locket, [RLP 146: 23andMe and Ancesetry Trees](https://www.youtube.com/watch?v=nefNkREHA3Y), 26 April 2021. Private research trees, floating branches, provider/tester tags, notes and genealogy follow-up. The title says 146 but the opening says 147; that discrepancy remains unresolved. The available transcript's outro is clipped.
 - **S18:** Who Are You Made Of?, [What's New With the 23andMe 2025 Update?](https://whoareyoumadeof.com/blog/whats-new-with-the-23andme-2025-update/), 10 October 2025. Version comparison lead; current controls checked against O18.
 - **S19:** Diahan Southard, [How Accurate is 23andMe? Ancestry and Ethnicity](https://www.yourdnaguide.com/ydgblog/how-accurate-is-23andme-ancestry-and-ethnicity), 27 January 2022. Geographic drill-down lead; present distinctions checked against O19–O20.
+- **S20:** Katharine Andrew, [23andMe Files for Bankruptcy: What Genealogists Need to Know](https://familytreemagazine.com/dna/23andme-bankruptcy/), 25 March 2025. Historical distinction among request objects; current controls, retention, anonymity and legal/backend effects unverified.
 
 - **O1:** 23andMe, [DNA Relatives Privacy and Display Settings](https://support.23andme.org/hc/en-150/articles/42963215411607-DNA-Relatives-Privacy-Display-Settings), retrieved 3 October 2026.
 - **O2:** 23andMe, [DNA Comparison Feature](https://support.23andme.org/hc/en-150/articles/42963121775895-DNA-Comparison-Feature), retrieved 3 October 2026.
