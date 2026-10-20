@@ -122,6 +122,16 @@ A failed present reading neither verifies nor erases the older statement. The [r
 motivates this distinction without supplying an earlier photograph or proving identity,
 marker replacement or the reason a present reading failed.
 
+If an online memorial assigns an early burial to a named cemetery, compare the burial date
+with that cemetery's documented opening or operating period. An opening after the burial
+excludes it as the original burial ground; keep a later reinterment or marker transfer
+unresolved until its own evidence is found (section 3). Record the dating source and any
+uncertainty about earlier use of the site. Use the burial entry's parish or church and the
+locality's cemetery histories to list grounds operating at the burial date as candidates,
+with a source for each period and parish connection. A candidate ground does not locate
+a grave. The [Anne Doucet example](https://dna-explained.com/2025/01/04/anne-doucet-1713-1791-oceans-rivers-and-perseverance-52-ancestors-438/)
+motivates this chronology check; its proposed final grave location remains unverified. [P4]
+
 Choose the next retrieval action from the gap: a clearer photograph for uncertain letters, a
 cemetery register for an unlabelled burial date, or the underlying civil record for a conflicting
 death date. Finding a death record does not guarantee that a burial record will be found, and

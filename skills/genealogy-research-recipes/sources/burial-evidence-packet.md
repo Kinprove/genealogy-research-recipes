@@ -14,6 +14,12 @@ photographs, database rows and real family examples are not reproduced.
   published 2025-03-29 —
   [article](https://lostrussianfamily.wordpress.com/2025/03/29/more-free-cemetery-databases-are-helping-to-find-graves-in-eastern-european/).
   Native-script searches and the demonstrated Pomnim/Pogost field order.
+- **P4:** Roberta Estes, *Anne Doucet (1713–1791), Oceans, Rivers, and Perseverance —
+  52 Ancestors #438*, published 2025-01-04 —
+  [article](https://dna-explained.com/2025/01/04/anne-doucet-1713-1791-oceans-rivers-and-perseverance-52-ancestors-438/).
+  Comparing a memorial's cemetery assignment with cemetery chronology and forming a
+  historical-ground candidate list. The founding dates, proposed final location and reports
+  of moved stones are the author's account; this recipe does not independently verify them.
 - **O1:** JewishGen, *JOWBR FAQ*, checked 2026-10-07 —
   [documentation](https://www.jewishgen.org/databases/Cemetery/JOWBR_FAQ.htm).
   Cemetery inventory, source types, nullable fields, patronymic searches, photographs and
