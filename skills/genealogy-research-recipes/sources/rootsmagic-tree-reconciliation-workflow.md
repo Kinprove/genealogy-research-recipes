@@ -5,6 +5,7 @@
 
 - **S1:** Nicky Smith, BYU Family History Library, [RootsMagic Relay: Seamlessly Transferring Your Family Tree Data](https://www.youtube.com/watch?v=2sRRacGr01k), 2024-07-30; local master, TreeShare and source transfer demonstration. Rights: cited, not reproduced.
 - **S2:** Family History Fanatics, [Syncing RootsMagic with Ancestry and FamilySearch: What Could Possibly Go Wrong?](https://www.youtube.com/watch?v=2SF0IVQn1zk), 2024-12-10; selective person/fact work and a worked citation-representation problem. Rights: cited, not reproduced.
+- **S3:** [Family Tree Maker place-name demonstration, video 44HrciUhiHI](https://www.youtube.com/watch?v=44HrciUhiHI), undated. Descriptive title; saved metadata supplies the video ID as title and no author or publication date. Per-place choices, county/city distinction and preserved sub-place detail; no current RootsMagic control or historical-jurisdiction equivalence is inferred. Rights: cited, not reproduced.
 - **H1:** RootsMagic 11 Help, [Ancestry TreeShare](https://help.rootsmagic.com/RM11/ancestry-treeshare.html), checked 2026-10-07. Rights: cited, not reproduced.
 - **H2:** RootsMagic 11 Help, [Share Data with FamilySearch](https://help.rootsmagic.com/RM11/familysearch-share-data.html), checked 2026-10-07. Rights: cited, not reproduced.
 - **H3:** RootsMagic 11 Help, [FamilySearch Sources](https://help.rootsmagic.com/RM11/familysearch-sources.html), checked 2026-10-07. Rights: cited, not reproduced.

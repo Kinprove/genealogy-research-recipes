@@ -163,6 +163,17 @@ These are retrieval pivots; route any identity decision to the evidence-judgment
 recipe. Do not add a recovered household to the tree merely because it matches
 the search constraints.
 
+### Check whose record row supplies the saved facts
+
+When an authorized tree attachment follows recovery, select the established person's
+own entry in a multi-person record before choosing the destination profile. Inspect the
+name, role and proposed age, birthplace or parent fields; another household member's
+entry can propose that member's details. Keep existing supported values and source
+associations visible while reviewing a conflict. Reopen the saved record and affected
+facts to check the person-row/profile pairing. The [2025 tree-cleanup demonstration](https://www.youtube.com/watch?v=TjFQv6LAjUY)
+shows this wrong-row failure; use the controls and proposed fields actually offered.
+This check does not authorize deleting other attachments or accepting an unresolved identity.
+
 ### 10. Use the volume's own index and page numbering
 
 **Trigger:** an image collection exists, but its searchable index misses the target
@@ -221,6 +232,17 @@ custodian and its image or copy-request route; an Ancestry index does not guaran
 Ancestry hosts the image. Access conditions can differ between a personal account
 and a library edition. See [Ancestry's library guide](https://help.ancestry.com/hc/en-us/articles/53933331964691-Searching-on-Ancestry-at-a-Library-or-School)
 and [Web Records guide](https://help.ancestry.com/hc/en-us/articles/53933331868179-Finding-Records-Online-with-Ancestry-Web-Records).
+
+If an inspected record supplies a religious name and a named community affiliation,
+carry both with that record's locator into an institutional-archive inquiry. Check the
+community's actual holdings and present custodian, including a documented later name or
+successor archive; ask whether a personnel file is held and accessible for that person.
+Keep any returned letters, obituaries or photographs separately identified and verify
+their link to the researched person. The [interview with Sunny Jane Morton](https://www.youtube.com/watch?v=hUmGeEvOWbU)
+supplies this possible file target. It does not guarantee survival, access or contents.
+Keep a birth-name/religious-name link unresolved until supported; do not infer community
+membership or parentage from a name form, initials, clothing or Catholic context alone.
+The life-stage query in workflow 6 already handles supported name variants.
 
 For England and Wales censuses **1841–1901**, carry the archive series, piece,
 folio/page and, where applicable, book reference into a reference search or image

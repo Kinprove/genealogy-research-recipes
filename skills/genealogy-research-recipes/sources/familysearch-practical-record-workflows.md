@@ -22,6 +22,7 @@
 - **S18:** FamilySearch Help Center, *How do I upload memories to FamilySearch?*, dated 2026-05-13; checked 2026-10-04 — [source](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-upload-photos-or-documents-to-memories).
 - **S19:** FamilySearch Help Center, *Guide to memory visibility settings*, dated 2025-08-12; checked 2026-10-04 — [source](https://www.familysearch.org/en/help/helpcenter/article/what-are-private-memories).
 - **S20:** Aimee Cross, *The FamilySearch Catalog: Where the REAL Wealth is Hidden*, published 2026-05-21 — [source](https://www.youtube.com/watch?v=0mxyz1mPVpQ). Catalog-to-WorldCat copy-location leads; prospective holdings and access require separate verification.
+- **S21:** Aimee Cross, *DON'T MISS this IMPORTANT Full Text Search Update 2026*, published 2026-07-23 — [source](https://www.youtube.com/watch?v=gX-d5Szg9XY). Observed limited-access result scope and blocked-image leads; no backend-search behavior, current access or identity conclusion is adopted.
 
 ### Source qualifications
 
