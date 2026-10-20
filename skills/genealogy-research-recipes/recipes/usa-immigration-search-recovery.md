@@ -254,6 +254,14 @@ research has stalled at a generic USCIS request.
 4. For C-Files, use the USCIS Genealogy Program: a known valid certificate/file number allows a [Genealogy Records Request (G-1041A)](https://www.uscis.gov/sites/default/files/document/forms/g-1041ainstr.pdf); without that number, an Index Search Request (G-1041) may be needed first.
    For other records outside the located NARA holdings, consult current USCIS instructions for the identified record type and available identifiers.
 
+Alongside an A-file lead, search supported spouses, former spouses, siblings or travel
+companions as separate file candidates in the catalogues or collections actually available.
+Retain each candidate's own name, identifiers and Contact(s), and compare its identifying
+details before using the file. A related person's file is a possible source about the
+target, not the target's file or proof of the relationship. The
+[related-file search account](https://lostrussianfamily.wpcomstaging.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/)
+supplies this extension; the existing type and custody checks still apply.[14]
+
 **Output:** a request-ready locator packet and named custodian. **Check:** an
 A-number alone proves neither A-File custody nor AR-2 image availability. A
 catalog miss leaves custody unresolved.

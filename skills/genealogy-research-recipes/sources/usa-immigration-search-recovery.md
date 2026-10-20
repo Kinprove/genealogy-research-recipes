@@ -44,6 +44,12 @@ the relevant workflow. Community references:
     <https://www.youtube.com/watch?v=T9iEw4Zhb7M>
     A possible naturalization-paper lead inside a homestead packet; the interview's
     eligibility assertion, digitization heuristic and typical page count are excluded.
+14. Vera Miller, Lost Russian & Ukrainian Family, *NARA quietly expands two databases
+    of its most valuable immigration collections to 2.5 million files*, 26 September 2026.
+    <https://lostrussianfamily.wpcomstaging.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/>
+    Related-person A-file searches across available catalogues; individual identity and
+    locator checks are Kinprove synthesis. The title's count, fixed birth-year coverage,
+    wildcard syntax, fees and delivery claims are not adopted as current service facts.
 
 ## Credits
 
