@@ -19,6 +19,8 @@
 14. *DNA Test Surprise? Giving the News with Compassion* — Diahan Southard, Your DNA Guide, 2022-01-06 — <https://www.yourdnaguide.com/ydgblog/dna-test-surprise-unexpected-news> — Rights: cited reference, not reproduced. Supplies advance notice, a private setting, a written outline and room to pause. An unsent draft, recipient-chosen channel and separation of observations from interpretation extend existing consent/evidence controls; no counseling method, therapeutic outcome or actual disclosure is implied.
 15. *Informed Consent for DNA Testing | 5 Things to Consider* — Sonja Sarantis, Your DNA Guide, 2024-04-09 — <https://www.yourdnaguide.com/ydgblog/informed-consent-for-dna-testing> — Rights: cited reference, not reproduced. Permission to use a test and preference about hearing unexpected findings are separate. Prevalence figures, legal-form efficacy and absent linked forms are not adopted.
 
+16. *An In-Depth Analysis of the Use of Small Segments as Genealogical Evidence* — Blaine Bettinger, The Genetic Genealogist, 2022-08-07 — <https://thegeneticgenealogist.com/2022/08/07/an-in-depth-analysis-of-the-use-of-small-segments-as-genealogical-evidence/> — Rights: cited reference, not reproduced. Separates small-segment validity from ancestral age/source and retains documented relationships when their reported small segment cannot serve as genetic evidence. Triangulation or a shared ancestor alone does not settle those questions. No universal size cutoff, current provider threshold, error percentage or independent model validation is adopted.
+
 Additional primary reference checked 2026-10-18:
 [DNA Painter, original WATO FAQ](https://dnapainter.com/help/wato-faq) — the
 parent/child calculation rule and representation of a tested descendant when
