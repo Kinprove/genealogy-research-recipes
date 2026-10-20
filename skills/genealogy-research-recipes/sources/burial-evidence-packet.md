@@ -20,6 +20,12 @@ photographs, database rows and real family examples are not reproduced.
   Comparing a memorial's cemetery assignment with cemetery chronology and forming a
   historical-ground candidate list. The founding dates, proposed final location and reports
   of moved stones are the author's account; this recipe does not independently verify them.
+- **P5:** Aimee Cross / Ancestry Aimee, *What death records are you missing?*, published
+  2024-10-31 — [tutorial](https://www.youtube.com/watch?v=6TDebNoMsvQ).
+  Death-certificate undertaker/address fields, period-directory business identification,
+  and possible successor or society/library custody of funeral records. The recipe's
+  evidence-of-transfer and actual-holdings checks are Kinprove synthesis; the tutorial's
+  blanket retention-law, access and usual-transfer claims are not adopted.
 - **O1:** JewishGen, *JOWBR FAQ*, checked 2026-10-07 —
   [documentation](https://www.jewishgen.org/databases/Cemetery/JOWBR_FAQ.htm).
   Cemetery inventory, source types, nullable fields, patronymic searches, photographs and

@@ -96,6 +96,18 @@ recommends asking the office before visiting. Give the candidate name, known dat
 any existing locator; request the corresponding register entry or available burial information.
 Send the request only when contact is authorized. [P1]
 
+If an inspected death certificate names an undertaker or funeral home, preserve its literal
+name, address and date as a separate record-recovery route. Use a period city directory's
+business or address entries to clarify a difficult name. For a closed firm, look for evidence
+of a successor business or a funeral-record collection deposited at a historical society or
+library. Another firm at the same address is a lead, not proof of business succession or
+record transfer. Confirm the relevant dated holdings and access with the actual prospective
+holder before treating the records as available; keep the certificate, directory entry and
+custody evidence separately cited. Prepare a bounded request for the person's funeral or
+burial record, retaining requested, unavailable and received states. Use the same contact
+authorization rule above. The demonstration establishes no present holder, guaranteed survival
+or entitlement to the records. [P5]
+
 Where the actual source offers it, inspect the matched plot's roster before a bounded
 neighboring-plot search. Retain each burial/plot identifier and the actual distance or selected
 area separately from coordinates. Use co-burial/proximity to nominate associates and retrieve
