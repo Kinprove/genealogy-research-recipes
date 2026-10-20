@@ -12,9 +12,55 @@ Choose a locality, supported name forms and a bounded period. Establish the hist
 jurisdiction and present custodian from the locality's record descriptions.
 Copy any supplied property description exactly, including directional letters and numbers.
 
+For a supplied land lead, distinguish an original government disposition from a later
+private conveyance before choosing the index. Use the stated issuing authority and
+historical holdings descriptions to select the relevant grant/entry series or conveyance
+records; verify present custody and index/image date coverage separately. Leave an
+uncertain record class unresolved. [Historical demonstration](https://www.youtube.com/watch?v=0fFPtZb5TQw).
+
+If the grant is filed under a historical land district, preserve that district/code separately
+from the parcel's county. Use the period district map and stated property description to resolve
+the county before selecting local indexes; leave an unsupported mapping unresolved. A familiar
+district name does not establish the same-named modern county or the person's residence.
+The [district/parcel example](https://familylocket.com/rlp-196-texas-land-grants-republic-and-statehood/)
+motivates this field-role check without resolving legal boundaries.
+
+When a patent states the grantee is “of” another place, preserve that exact residence
+statement and date separately from the parcel description and county. Use each place role
+as a bounded follow-up lead, retaining namesake alternatives and the actual search outcome.
+The [female-parentage research example](https://familylocket.com/rlp-230-finding-a-females-father-research-log-and-report/)
+motivates this handoff without independently establishing the stated residence or identity.
+
 Use the existing platform workflow to open an image-only index and distinguish printed page
 numbers from viewer image numbers. This recipe adds land-index and book-series controls.
 It does not infer kinship, explain property law, draw plats or build a chain of title.
+
+For an original-government grant lead, carry separately supplied warrant, survey and patent
+book/page references into linked retrieval rows; seek any separately described application.
+Preserve applicant/warrantee, assignee and final patentee, each action's date and stage-specific
+acreage. Reconcile the retrieved components against the register before following later private
+conveyances, leaving missing parts and conflicting dates or acreage unresolved. The
+[Pennsylvania acquisition example](https://familylocket.com/part-4-pennsylvania-germans-the-land-acquisition-process-in-colonial-pennsylvania/)
+motivates the crosswalk; it does not establish a universal grant procedure or legal title.
+
+When a supported warrant/survey or assignment lead remains unexplained by a deed search,
+follow the applicable grant/patent index to the described original survey and jacket. Inspect
+available assignment endorsements; retain assignor, assignee, requested grantee and dates as
+separate stages with their own locators. The [Dobkins survey example](https://dna-explained.com/2022/10/16/tracking-john-dobkins-or-dobbins-to-maryland-52-ancestors-378/)
+identifies this next target without assuming assignments were universally unrecorded or
+establishing residence, ownership, kinship or a complete chain of title.
+
+When a tax row explicitly supplies the original grantee or abstract number, carry that exact
+parcel reference into the government-grant search while keeping the assessed taxpayer's role
+separate. Queue later local conveyances separately; first tax appearance does not date
+acquisition or arrival. The [Mexican Texas research example](https://familylocket.com/rlp-195-texas-land-grants-mexican-era/)
+supplies this tax-to-grant handoff.
+
+If a finding description identifies a related character certificate, queue it separately from
+the grant and follow an abstract's ellipsis to the available full item. Keep original,
+translation and compiled abstract distinct; extract only the household, origin or oath wording
+actually present. The same example motivates this related-item check without guaranteeing
+particular fields, complete survival or a present translation service.
 
 ## 1. Identify how this index actually works
 
@@ -55,6 +101,13 @@ book-series label, book/page as written, tentative reading, correction basis and
 **Check:** The fetched document matches the indexed parties and locator. The second index entry
 checks retrieval; it does not create independent evidence of the underlying transaction.
 
+When parallel registers, translations or compiled indexes are supplied, align the same entry
+and its original page/sequence before comparing locators. Keep a compiler's bracketed grant
+reference or added field separate from the original register's words. Use the added locator
+as an attributed retrieval lead; do not date that information to the original register or
+count derivative versions as independent witnesses. The [parallel Texas-register example](https://familylocket.com/navigating-the-unique-texas-land-grant-system-mexican-era-1821-1836/)
+motivates this check, without requiring three versions or validating the translation or legal claim.
+
 ## 3. Resolve the book series instead of guessing from the number
 
 1. Read the index's instrument-type and series columns and the repository's book descriptions.
@@ -76,6 +129,12 @@ result, verified document extent and any conflict between the supplied and retri
 
 **Check:** A miss in deed volume 12 does not settle an index reference to an unspecified volume
 12. Record which series was tested and what makes an alternative series plausible.
+
+When an attributed lead identifies a loose or unrecorded deed, retain its parties, date and
+property clues. Check the actual custodian's holdings and finding route for those papers
+separately from recorded deed books; distinguish the target requested from what was recovered.
+The [loose-deed example](https://familylocket.com/rlp-225-how-multiple-relationships-affect-dna-match-analysis/)
+motivates this fallback without guaranteeing survival, access or a reason for nonrecording.
 
 ## 4. Preserve two dates and close the bounded retrieval audit
 
@@ -105,6 +164,14 @@ result, verified document extent and any conflict between the supplied and retri
 
 **Check:** A later registration does not move the underlying transaction to that year.
 Do not fill an absent date from an index column whose meaning remains unknown.
+
+Compare the opening party roster with the execution names and roles before reporting a
+person absent from a deed. Retain blanks, additional names and discrepancies with their page
+locators; use relevant book practice and independent records to investigate unresolved roles.
+The [Joanna West deed example](https://familylocket.com/rlp-217-joanna-west-case-study-part-2/)
+supplies this crosscheck. Placement or omission alone does not establish widowhood, legal
+incapacity, a spouse's death or kinship; execution names in a recorded copy are not necessarily
+original autographs.
 
 ## Prompt pattern
 

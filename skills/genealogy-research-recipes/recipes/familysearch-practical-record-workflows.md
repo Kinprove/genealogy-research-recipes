@@ -21,7 +21,7 @@ checks the visibility choice. The cited tutorials date from 2020–2026; confirm
 labels when running a workflow. The artifact columns and checks below are the durable procedure. Tree changes require
 an established identity or correction basis; unresolved candidates stay in the working packet.
 
-## Seventeen workflows
+## Nineteen workflows
 
 ### 1. Resolve the event's historical jurisdiction
 
@@ -47,6 +47,13 @@ an established identity or correction basis; unresolved candidates stay in the w
 3. Inspect each entry's creator, language, notes, dates and individual volume/film rows.
 4. Record indexed search, browsable images, digital books and physical holdings as separate access routes.
 5. Cross-check Images for relevant groups that have not reached the Catalog.
+
+For a digital-book lead, use Books search when available and record the title/edition of the volume
+you actually open. Search within that volume; distinguish next-book/result navigation from page
+navigation. Confirm the volume and printed page before saving a passage and attaching its citation
+to supported facts. Record the item's actual viewing and downloading state in the coverage ledger.
+The [Books demonstration](https://www.youtube.com/watch?v=1hPFe9IHyKQ) illustrates the handoff;
+use the controls and access information actually available for the item.
 
 **Artifact:** A coverage ledger: jurisdiction, series, volume dates, Catalog URL, film/DGS/item, access route, index status and examined/unexamined.
 
@@ -246,6 +253,12 @@ an established identity or correction basis; unresolved candidates stay in the w
 
 **Sources:** [S16](https://www.youtube.com/watch?v=48yoEQ0t0ow).
 
+For an indexed household record, distinguish the display title from each named participant's
+attachment to a Tree PID. Retitling the source does not correct a wrong participant link;
+use the identity and copied-fact checks below. This distinction comes from the
+[person-page sources demonstration](https://www.youtube.com/watch?v=0G7cwls5N8U), without
+adopting its speculation about hint algorithms or a universal source-object structure.
+
 ### 15. Detach a wrong source and inspect copied facts
 
 **Trigger:** A historical record has been attached to the wrong Tree person.
@@ -268,6 +281,10 @@ an established identity or correction basis; unresolved candidates stay in the w
 
 1. Load the full change history to its earliest entries and record surviving/deleted IDs for each merge.
 2. Open each deleted person's history; reconstruct its earlier relatives and facts in a comparison table.
+   If a nested history is incomplete or unavailable, reconstruct dated spouse/child groups from inspected
+   records in a separate comparison. Check the men's identities as well as the women's: an apparent
+   duplicate-wife problem may arise from conflated husbands. Repair an established husband conflation
+   without treating it as a decision on any still-unresolved wife identity.
 3. Research the proposed distinct identities before choosing which IDs to restore; true duplicates stay merged.
 4. Using the available restore/unmerge route, restore only the established distinct identities, then allocate facts, sources and relationships to the correct profiles.
 5. Add the reasoning/report and an alert note explaining the confusion; record final PIDs in the local comparison document.
@@ -276,7 +293,7 @@ an established identity or correction basis; unresolved candidates stay in the w
 
 **Check:** The 2023 case required manual cleanup after restoration. An alert note informs collaborators; it does not establish the identity or prevent further editing. A deleted profile's old facts are historical tree claims to investigate.
 
-**Sources:** [S17](https://familylocket.com/?p=31567).
+**Sources:** [S17](https://familylocket.com/?p=31567), [same-named wives case](https://www.youtube.com/watch?v=0tNC4c2HmQQ).
 
 ### 17. Reuse one documentary source across the people it names
 
@@ -295,6 +312,30 @@ an established identity or correction basis; unresolved candidates stay in the w
 **Check:** Other Tree users can see a private Memory's source information without being able to read the Memory. Verify that the intended audience can inspect the evidence in the PDF or visible summary. Sharing a source does not imply every fact or conclusion applies to every named person. The report is an authored analysis; preserve its underlying evidence.
 
 **Sources:** [S17](https://familylocket.com/?p=31567), [S18](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-upload-photos-or-documents-to-memories), [S19](https://www.familysearch.org/en/help/helpcenter/article/what-are-private-memories).
+
+### 18. Recover a missing Memory from an independent copy
+
+Preserve the affected item's references, associated profiles/albums and surviving title,
+tags or text. Locate a separately preserved, authorized original or attributable earlier
+copy; check the intended image or complete story before using an available restore/upload
+route. Reopen the result and inspect the actual file/text and its associations separately.
+Mark unrecovered content explicitly: surviving metadata cannot recreate missing content.
+The [media-recovery demonstration](https://www.youtube.com/watch?v=52zi94jhRVQ) motivates this
+dispatch; verify current available controls rather than assuming a restore tool, cause of
+loss or lossless result.
+
+**Artifact:** A recovery record with the item/copy references, actual file/text inspected,
+associations checked and unrecovered content.
+
+### 19. Record a supported relationship without inventing a parent
+
+For two established PIDs and an inspected source stating their relationship, use an actually
+offered Other Relationships control when appropriate. Inspect its directional role labels;
+retain the exact stated relationship and citation in the reason, then check the saved
+association. A generic “relative” label does not itself encode “brother.” Leave an unknown
+intermediate parent or uncertain ancestral link unresolved rather than creating a fictional
+parent to connect the profiles. The [Other Relationships example](https://familylocket.com/other-relationships-on-familysearch/)
+motivates the task; confirm the controls actually offered before any authorized Tree change.
 
 ## Common working table
 

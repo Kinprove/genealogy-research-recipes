@@ -10,6 +10,12 @@ Read [ai-for-dna-research.md](ai-for-dna-research.md) for cM ranges, endogamy an
 
 The ordinary shared-match preview shows up to three people without membership; family-history membership unlocks the full list. Enhanced Shared Matches adds match-to-match cM with Pro Tools. That enhanced website view is available in the US, Canada, Australia and UK. Obtain a missing comparison from an authorized kit manager when your own access cannot show it.
 
+For an authorized helper, check DNA-result access and access to the needed tree independently,
+including whether each intended invitation is accepted and usable. Keep both separate from
+the correct tester-to-tree-person link; that link does not grant the helper either permission.
+Leave missing access unresolved instead of recommending a higher role. The [2024 sharing example](https://dna-explained.com/2024/02/05/ancestrys-thrulines-and-shared-matches-now-require-a-subscription/)
+motivates these separate checks without establishing a current role matrix or membership exception.
+
 ## 1. Find the target through its closest relatives
 
 **Use when:** the target has no useful tree.
@@ -57,6 +63,22 @@ Leeds (2023-03-27) documents group dots following palette order rather than the 
 
 Put a match in each relevant group. Revisit its note when a tree, record, relative or available view changes.
 
+When evidence changes a group's ancestral interpretation, record the revised claim and basis,
+then review the assigned matches against it. Renaming or recoloring alone does not audit
+membership. Preserve the matches and independent observations; distinguish reviewed,
+unresolved and unsupported assignments. The [group-renaming example](https://whoareyoumadeof.com/blog/create-a-custom-group-of-dna-matches-on-ancestry/)
+motivates this check without promising current edit/delete controls or limits.
+
+For a working group labelled with an ancestral couple, preserve its roster. Record observed
+membership in a second group anchored by a documented path through one spouse's line. The
+members observed in the first group but outside the second can form a research queue; keep
+unreviewed or unavailable membership separate. This is the remainder, not the intersection,
+and supplies no proof that the remaining matches descend from the other spouse.
+The [couple-group example](https://www.yourdnaguide.com/ydgblog/finding-3xgg-with-dna)
+motivates this selection. A documented descendant through an ancestor's other partner can
+help focus the anchor question, as in the [half-sibling example](https://www.yourdnaguide.com/ydgblog/half-siblings),
+but does not remove a spouse's DNA or rule out additional paths and incomplete visibility.
+
 **Output:** a branch you can recognize while scanning a shared list, plus an explicit next task.
 
 ## 5. Fix the tester link; search hypotheses with a separate tree
@@ -99,6 +121,12 @@ Standard Matches by Cluster uses **65–1300 cM** to the tester as its window an
 For a 25 cM target below the standard window, set a **custom cluster's search range to 20–60 cM**, select the target as primary, and add up to four sidekicks shared with it. Save the selections and returned rows. Sidekicks already within the chosen range need not be added separately.
 
 Inspect a missing pair from another authorized kit's perspective (Estes, 2022-05-12).
+
+If an extension-modified browser view hides a known row or saved group, compare the same
+authorized account, kit and filters in an available unmodified view. Retain the observed
+row/group differences before concluding removal or a failed save; reappearance does not
+identify the cause. The [2020 rendering example](https://genealem-geneticgenealogy.blogspot.com/2020/07/greetings-this-email-is-only-for-those.html)
+does not establish a current extension defect or require an extension change.
 
 **Output:** a recovered observation with its kit, view, filters and date, or a request naming the missing tester pair. An absent row is “not shown,” never a measured zero.
 

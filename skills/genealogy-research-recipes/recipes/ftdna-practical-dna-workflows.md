@@ -8,13 +8,22 @@ relinking. The output is a paired export, a name-safe joined table and a dated l
 For a public Y-DNA project, the output can instead be a dated Group Time Tree view packet:
 selected subgroups, visible branches/estimates, display exceptions and any authorized
 administrator configuration check. This route does not require Family Finder exports.
-All examples are synthetic.
+For a Family Finder Matrix question, save a dated comparison roster and metric-labeled cells,
+with separate references for any focal and direct-pair interval evidence. This route also works
+without the paired exports.
+For a supplied animated map, preserve the node and time view actually inspected, including
+any displayed upstream substitute. Its locations and dates remain attributed model output.
+For two supplied Y-haplogroup labels, retain their report basis and the actual comparison
+reference before interpreting the observed joining node or shared display categories.
+All worked dataset examples below are synthetic.
 
 ## The failure to prevent
 
 A match name is a join key, not a unique person identifier. Matching Bucket and Linked Relationship
 are values observed at download. Record link changes separately from the retrieval date, keep the
 export choice and kit with the rows, and refresh match metadata after relinking.
+A Matrix pair value reports sharing between two matches; it does not locate that sharing on
+an interval where both overlap the focal kit.
 
 ## Before starting
 
@@ -22,7 +31,12 @@ For workflows 1–4, use authorized account access and start with the paired exp
 require two-factor authentication. [H6]
 Keep original files and profile details private; use opaque handles in shared summaries.
 
-## Five workflows
+For an authorized kit-continuity handoff, distinguish present access from a recorded kit
+manager and any separately recorded beneficiary. Leave missing or unconfirmed designations
+unresolved; shared credentials do not establish either designation. The [2023 update](https://dna-explained.com/2023/12/11/familytreedna-2023-update-past-present-and-future/)
+motivates this distinction without establishing current forms, legal effect or continuing access.
+
+## Eight workflows
 
 ### 1. Export the match and segment pair, and record its scope
 
@@ -182,6 +196,20 @@ setting. Having access to a kit does not by itself authorize its public display.
 public tree after an update and record unresolved display exceptions instead of changing a
 member's opt-in to make a row appear. [H8]
 
+When using a project Country Map beside the tree, inspect and record the map's own included
+population and active filters. Do not carry the tree's subgroup selection over by assumption.
+Label a broader project population separately from the selected paternal line; leave an unknown
+population unresolved. The [tree preview](https://dna-explained.com/2023/01/13/sneak-preview-introducing-the-familytreedna-group-time-tree/)
+and [administrator example](https://dna-explained.com/2023/01/17/project-administrators-how-to-prepare-your-project-for-familytreednas-new-group-time-tree/)
+motivate this cross-view check; their dated descriptions do not establish one current map rule.
+
+If the question needs broader tested-tree context, retain an available broader branch view
+beside the selected project view, with its own branch, population and selection. Project
+membership, map population and haplotree country counts do not carry over automatically.
+The [project-to-broader-tree example](https://dna-explained.com/2023/10/18/y-dna-haplogroup-o-when-and-how-did-it-get-to-the-americas/)
+supplies this handoff; modern earliest-ancestor places plus node ages do not establish a
+historical ancestor's location, migration or identity.
+
 **Artifact:** one dated view record: project URL, selected subgroups, display options, branch
 label, displayed estimate/interval, screenshot reference and participant-display exceptions.
 If you administer the project, add a private configuration record: prior/current public-report
@@ -197,6 +225,60 @@ and each expected but unresolved display is labeled `selection mismatch`,
 exception `K2: details withheld`. This record establishes what was visible in that selection,
 not that a historical ancestor has been identified. Send lineage, SNP or date interpretation
 with the saved view to `genealogy-research-recipes` → `ydna-mtdna-interpretation.md`.
+
+### 6. Record a Family Finder Matrix comparison
+
+Using authorized access, select the intended people on Family Finder Matches and open the
+Matrix, or select them within the Matrix. Save the focal kit handle, retrieval time, exact
+roster and displayed comparison label. The documented quantities are **Total Shared cM**,
+**Number of Shared Segments**, and **Predicted Relationship Range**; current Help uses slightly
+different labels for the same three choices. Record the label actually offered. [S9, H9]
+
+Keep each metric separate: the cM and segment-count views exclude X; the relationship range is
+a provider estimate, not a documented pedigree relationship. Preserve each selected pair's
+displayed value, including any blank or unavailable state, rather than turning it into a
+measured zero. [S9] Use `dna-comparison-controls.md` for the common observation-state rules.
+
+For an interval question, save the focal Chromosome Browser comparison for the same people,
+including coordinates and build when available. A Matrix cell does not identify the segment
+that the two matches in that cell share with each other. Before recording that pair as sharing the
+focal overlap, obtain its direct pair segment comparison through an authorized data source
+and check the interval. A count of one segment does not replace that check. Without it, record
+`mutual interval unverified` and retain the group as a lead. [S9, H6]
+
+**Artifact:** one row per selected pair and metric: focal kit handle, retrieval time, roster,
+row/column handles, displayed metric label/value, focal-interval reference, direct-pair reference
+and interval status. **Stop when** the selected roster and displayed values or unavailable states
+are preserved, and every interval claim has direct-pair evidence or remains explicitly unverified.
+Route segment trust and triangulation to `xdna-phasing-judgment.md`, and ancestral attribution to
+`ai-for-dna-research.md`.
+
+### 7. Inspect the node actually displayed in a supplied time map
+
+For a dated Globetrekker view or recording, retain the requested terminal node and the node
+actually displayed, including an upstream substitute. If a later co-located marker covers
+an earlier node, use an actually available earlier time view, enlargement or linked tree to
+inspect it; otherwise record that view as unavailable. The [2023 map-view example](https://dna-explained.com/2023/08/04/globetrekker-a-new-feature-for-big-y-customers-from-familytreedna/)
+motivates this check without promising current controls or validating the model.
+
+**Artifact:** node identifier, time/view and source reference, with the displayed location/date
+labels and any substitution or inspection gap. An obscured marker is not absent data; a model
+path is not a documented ancestral journey or evidence identifying a particular ancestor.
+
+### 8. Preserve the inputs and reference in a two-label comparison
+
+Keep both supplied Y-haplogroup labels verbatim with their stated assay/report basis and
+retrieval date. In an actually available comparison, record which input or logged-in report
+serves as the displayed reference. Preserve conflicting labels rather than silently resolving
+them. Save the observed joining node and paths separately from shared study, celebrity or
+geographical categories. An upstream label or upgrade prompt does not establish assay history.
+The [2023 comparison example](https://dna-explained.com/2023/10/11/new-discover-tool-compare-haplogroups-more-at-familytreedna/)
+motivates this input/reference crosswalk without promising current controls, colours or access.
+
+**Artifact:** two source-labelled inputs, the observed reference/view and displayed results,
+with unresolved labels or unavailable views. These are attributed provider outputs, not
+measured pairwise DNA sharing or documented descent from a named person. Send interpretation
+to [Y-DNA and mtDNA judgment](ydna-mtdna-interpretation.md).
 
 ## Hand off interpretation
 

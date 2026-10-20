@@ -88,6 +88,24 @@ pages are in [Chronicling America](https://www.loc.gov/collections/chronicling-a
 The 2016/2023 tutorials' old tabs and screen positions are historical examples. Use current
 collection links and inspect the destination rather than reproducing those old controls. (H1)
 
+## Use a notice index's documented personal-place field
+
+If a separate notice index actually documents a place-only query that includes personal
+origin or birthplace, try the supported locality without an uncertain surname. Retain that
+field's meaning, filters and candidate identifiers, then inspect the full notices.
+Publication place has a different role. The [Ryerson index description](https://lostrussianfamily.wordpress.com/2025/09/27/two-major-australian-databases-ease-researching-of-ussr-ancestors-and-relatives/)
+supplies a conditional retrieval route; when the field role is unknown, keep the route
+unavailable rather than assuming present syntax or coverage on any provider.
+
+## Follow an obituary collection's actual arrangement
+
+Inspect the index or clipping collection before repeating a global name query. Select the
+required year in a year-gated text index. For a volume limited to a surname/letter range,
+choose the supported volume and browse bounded pages when usable text search is absent.
+Carry any newspaper, issue and page reference to the full notice; keep missing publication
+details unknown. The [year-index and clipping-volume examples](https://whoareyoumadeof.com/blog/how-to-search-for-obituaries-for-free-by-name/)
+motivate this dispatch. Searching accessible text does not search unseen images or other volumes.
+
 ## Search recipes
 
 The following names, addresses and queries are invented examples, not executed searches
@@ -109,6 +127,12 @@ Boolean behavior. Set place and publication-date limits separately. (S9)
 | 10 | The hometown paper fails or an immigrant's name is distorted. | Search neighboring towns, regional papers and former residences. Include ethnic-language papers serving the community, even when published outside its city; try attested native-language name forms. (S3, S6) | Separate publication place from event place. Inspect the actual foreign-language name and origin statement rather than assuming an English rendering preserved them. |
 | 11 | One article suggests a longer story. | Search subsequent months for court proceedings, settlement or verdict; revisit former residences for a death mention. Reuse newly recovered witnesses, addresses and institutions as search clues. (S2, S3) | Record each article's publication date and reported event date separately. Do not turn the first report or filing into the final outcome. |
 | 12 | Keywords still fail despite an available likely issue. | Switch retrieval mode: browse its pages directly. For an obituary or marriage item, also search the relevant Newspapers.com index on Ancestry and follow any candidate to the image. (S6, S10) | The index is another access path, not independent corroboration. Check the full notice and its boundaries; inspect missing or inaccessible pages separately. |
+
+For an independently documented business/address, also search a successor's advertisement
+and read any wording naming the former operator. Retain the notice date and literal wording
+about the former and current operators as a business-occupancy lead. Correlate dated records before
+assigning the person's residence or departure. The [successor-notice example](https://familylocket.com/eleven-newspaper-notices-how-hotel-ads-and-sheriffs-sales-helped-prove-thomas-beverly-roystons-parentage/)
+supports this retrieval pivot; one later advertisement supplies no exact move or ownership date.
 
 ## Bounded execution and stopping rules
 

@@ -34,7 +34,21 @@ working loop and records, rather than another clustering or cM interpretation me
    session header, then save and recheck the association.
    The documented reassignment procedure does not apply to DNA Health kits.
 
-**Output:** one session header plus a saved theory packet before any reassignment.
+### Before replacing the whole linked tree
+
+While both trees remain accessible, list the affected kit identifiers and map each old
+tree/person reference to its intended replacement. Confirm that the tested person's
+profile exists inside the replacement tree using the identity checks above; resolve
+absent, ambiguous or inaccessible profiles before removing their old mapping.
+Reuse steps 4–5 for theory preservation, permission and reassignment. After an authorized
+change, reopen each affected kit and compare its actual linked tree/person with the
+crosswalk; record the check date and leave unobserved associations unverified.
+
+This preflight addresses the tree-replacement question in [MyHeritage's 2022 Q&A](https://www.youtube.com/watch?v=0TUlka43n2I).
+It supplies no guarantee that replacing a tree preserves links or deleted theories.
+
+**Output:** one session header plus a saved theory packet before any reassignment;
+for a whole-tree replacement, also the old/new kit-profile crosswalk and observed links.
 
 ## 2. Build a shortlist without losing matches behind an old filter
 

@@ -12,11 +12,38 @@ FamilySearch distinguishes image numbers, record pages, household numbers and fa
 
 For the requested item, inspect opening and closing material and representative interior pages. Reconcile its covers, title boards, headings, foliation and entries with the catalogue. A readable copy's own page count is not independent evidence that it contains the whole case. If an inventory, certification or other copy establishes a boundary, cite that evidence; otherwise report inspected pages with completeness unresolved.
 
+When a supplied archival image package includes a repository-produced HTML companion, retain
+it beside the images. It may preserve the archival signature, reported image count, repository
+link and received usage statement that image filenames omit. Bind it to the stated unit and
+apply the existing extent checks separately. The [NRW archive download description](https://www.compgen.de/2025/10/landesarchiv-nrw-mit-neuen-digitalisaten-und-downloadmoeglichkeiten/)
+motivates retaining that source object; a stated count does not establish complete coverage.
+
 ## Catalogue disagreements and reading order
+
+If a copy-holder's short catalogue description leaves several possible originating files,
+inspect an actually available fuller catalogue representation and the copy's title board.
+Keep the copy item/film key and proposed original repository/signature separate; bind only
+the supported original unit and inspected copy extent. The [CAHJP copy example](https://forum.j-roots.info/viewtopic.php?f=153&t=1225)
+describes a fuller MARC record, without establishing current fields or controls. A selected-city
+copy can be a fragment of the original case; leave an unsupported binding unresolved.
 
 Classify a disputed number before correcting it: archive case, old office reference, volume, act, page or leaf. An old cover and a current inventory can use different identifiers for the same physical object. Preserve both readings and seek their binding; a numerical pattern on neighbouring covers only suggests a mapping. Read struck-out and replacement labels together. A deciphered digit alone does not settle current catalogue attribution.
 
 Check sequence independently from totals. Compare foliation, headings and entries continuing across pages, including transitions between digital parts. Repeated page labels can represent recto/verso, restarted numbering or another section. A complete image set can still be in the wrong order. Do not renumber or merge items from filenames alone.
+
+For an unnumbered verso, inspect the actual preceding recto and surrounding sequence before
+assigning a leaf/verso binding; leave it unresolved when that context is missing. A film-end
+card directing continuation on another reel leaves that part queued until inspected. Keep
+printed page, original folio and viewer frame separate rather than deriving one with a fixed
+ratio. The [evacuation-film examples](https://forum.j-roots.info/viewtopic.php?f=197&t=1199)
+sharpen the sequence check without establishing that the reported images are complete.
+
+When an index points into an earlier image set, locate a known entry or heading in both
+versions and retain its old/new coordinates before reusing the pointer. Added or removed blank
+and duplicate frames can break a fixed offset. Leave the conversion unresolved if the needed
+version is unavailable; an absent film field does not prove that no film exists. The
+[Lithuanian image-set example](https://forum.j-roots.info/viewtopic.php?f=164&t=1202)
+motivates this version-specific anchor check.
 
 ## Report coverage as pages × targets
 

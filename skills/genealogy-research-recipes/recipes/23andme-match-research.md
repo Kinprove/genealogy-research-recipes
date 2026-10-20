@@ -32,6 +32,12 @@ regional availability, and match-list limits change. A missing button deserves a
 check; a withheld comparison belongs in the worksheet as **unavailable**. Participation and
 ancestry sharing disclose different fields; record both. [O1]
 
+For a requested visibility pause, check matching participation, existing Connections and the
+actual ancestry/health sharing scope for each managed profile separately. Record the states
+actually offered; do not assume a matching opt-out stops established sharing or deletes data.
+The [2023 Connections correction](https://dna-explained.com/2023/10/29/23andme-dna-relatives-connections-event-history-report-and-other-security-tools/)
+motivates this check without guaranteeing current controls or invisibility.
+
 Practitioners described a returned chromosome browser and newly introduced clustering in
 2026; current official help describes both tools. Check access for this profile; help pages can retain
 outage banners alongside feature documentation. A returned browser does not establish that

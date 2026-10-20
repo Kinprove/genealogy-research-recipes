@@ -75,6 +75,14 @@ or cM values require reconciliation; approximate overlap alone is insufficient t
 declare records identical. This follows from the pairwise measurement definition,
 not an empirical relationship cutoff.
 
+When one provider's row overlaps several rows in another report, retain a one-to-many
+crosswalk: original row IDs, endpoints, cM and SNP counts for every reported fragment.
+Preserve internal gaps and unresolved splitting/joining after checking the actual tests,
+build and reporting scope. Close endpoints or similar summed cM do not justify filling a
+gap, merging rows or declaring equivalent inherited tracts. This applies the
+[fragment-comparison example](https://www.youtube.com/watch?v=3vWBeFUBVdg) without adopting
+its proposed endpoint tolerance or inferring the cause of a provider difference.
+
 Compare totals using the same autosomal/X scope, minimum-segment inclusion and FIR
 counting convention. A suspiciously doubled total is a reason to inspect reciprocal
 rows, not to apply a universal cM ceiling or divide every result by two. Preserve a

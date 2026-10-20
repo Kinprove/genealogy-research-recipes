@@ -13,6 +13,11 @@ The worksheet schemas, validation controls and prompt are original synthesis.
 - **H1:** Library of Congress, [Directory Holdings Data Package README](https://data.labs.loc.gov/directories/README.html),
   version 1.2, 17 April 2024; checked 7 October 2026. Holdings tables can omit localities within a
   volume and are not comprehensive; directory coverage can contain gaps.
+- **S4:** Jesper Zedlitz, CompGen, [Das “Breslauer-Adressbuch” – eine einmalige Quelle für Personen mit Verbindung nach Breslau](https://www.compgen.de/2022/02/das-breslauer-adressbuch-eine-einmalige-quelle-fuer-alle-personen-mit-verbindung-nach-breslau/),
+  6 February 2022. The article quotes the 1949/50 volume's foreword: later addresses of former
+  residents are arranged by earlier Breslau street and house number. Later localities can guide
+  civil-register and subsequent-directory research. The recipe's conditional schema and time-role
+  controls are original synthesis from this example; the article, not a directory-book image, was inspected.
 
 ## Credits
 

@@ -69,6 +69,30 @@ Each of these is a documented failure, not a hypothetical.
 13. **Verify large batches in Excel.** Export a big structured extraction (a GEDCOM index, obituary fields) to a spreadsheet and check row counts and filters, because LLMs silently drop or invent data in the *middle* of a large input rather than raising a capacity error. (Genealogy TV — Little & Thompson)
 14. **Run two strong models and diff.** Transcribe or translate the same record with two different models and reconcile the disagreements — the diff points straight at the uncertain tokens. Combining Claude + Gemini outputs is itself a method. (Kitty Cooper)
 
+### Generate candidates for an uncertain German word
+
+Retain the partial literal reading and visible beginning/ending letters. Compare candidates
+at the estimated letter length and one letter shorter/longer, checking each against the image
+and document context. For a possible place name, narrow historical-gazetteer candidates by
+the independently supported region. Preserve unresolved letters and historical spellings;
+modern spellcheck approval, popularity or familiarity does not verify a reading.
+[CompGen's German-handwriting worksheet](https://www.compgen.de/2023/04/fuenf-fantastische-technik-tricks-zur-entschluesselung-der-deutschen-handschrift/)
+supports this optional sequence, not automatic replacement or current wildcard/menu syntax.
+
+For an uncertain name, place or relationship parse, compare several available complete entries
+in the same clerk's hand. Note repeated formula words and their field roles; keep a change of
+hand in a separate comparison block. Preserve alternative readings rather than replacing all
+similar tokens. The [locality-reading discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=1272)
+motivates this contextual check without verifying its proposed place or subject-status readings.
+
+### Assemble a whole-letter reading copy
+
+After checking each page against its image, assemble a separate transcript in source-page
+order. Retain page labels/links and unresolved or missing-page markers, together with the
+images and native page transcripts. Label the combined reading copy as a derivative of those
+pages. The [four-page letter example](https://whoareyoumadeof.com/blog/ancestry-ai-image-transcript-feature-how-to-use/)
+motivates this portable output; its historical interface and accuracy claims are not required.
+
 ## Worked mini-examples (workflow logic, not clicks)
 
 - **Full-Text Search for ENSLAVED ancestors.** Search slaveholders, plantation names, overseers, and distinctive property — probate/estate files, bills of sale, and deeds of gift (within FamilySearch's U.S. Plantation and Land & Probate collections) name enslaved people by name, age, value, and family ties that traditional indexes omit. Search spelling and HTR variants (and wildcards) — an AI-misread or misspelled name won't exact-match — and re-run every week or two as processing continues. (James Tanner)

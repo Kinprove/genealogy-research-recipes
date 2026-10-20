@@ -50,6 +50,13 @@ Two consequences follow, and they are the whole recipe: (1) treat the model as a
 
 ## Techniques that work
 
+For a compiled genealogy or local history, inspect its preface/editorial notes for a named
+contributor to the relevant family or section. Retain that attribution and locator, then assess
+the contributor's possible knowledge of each statement rather than assigning every fact to
+the editor. The [family-specific informant example](https://familylocket.com/rlp-185-revisiting-timelines-and-analysis-again/)
+motivates this retrieval step; an older relative's contribution does not make the whole book
+firsthand, reliable or independent.
+
 - **Identity dossier / one-row-per-record descriptor table — and sort it BY descriptor.** Stop expanding the branch, then capture **every** descriptor per record in its own column — the Dewitt case used **40+ columns**: dates, places, occupations, spouses, children, neighbors, signatures, and behavioral **"psychographics"** (the case label "Bad Barney"). The core move is the **sort:** a distinct signature (or cluster of descriptors) surfaces separate people, a matching one unifies records a name alone couldn't — corroborated across the dossier, since a signature can be clerk-written or vary. Have the AI *build* the table; you *read the sort*. (Jan Joyce, RLP 399; From Chaos to Clarity)
 - **Three-bucket identity triage.** Same-name+same-place / same-name+different-place / different-names — each needs a different separation tactic. **Parental sets** and the **FAN** network (Friends, Associates, Neighbors — Elizabeth Shown Mills' term) discriminate same-named people far better than name-spelling variants; for common names, keep candidates in **separate research projects** so records don't cross-contaminate. (Jan Joyce, RLP 399; One Man, Two Same-Named Wives; RLP 288; Seventeen Rules)
 - **Reality-check filters on any merged or proposed-merge timeline.** A genuine biological/chronological impossibility (childbearing window, post-mortem fatherhood) **blocks the merge**; softer anomalies (a duplicate census enumeration, spouses/children that appear then vanish) are **conflicts to investigate** — resolve them, don't merge over them, but don't treat them as automatic separators either.** On a collaborative tree, read the **change log bottom-up** to recover the profile's *original intended identity* before untangling. (Kathryn Grant, Same Name Trap & Recognizing Problems; New Merge Experience)
@@ -68,6 +75,75 @@ Two consequences follow, and they are the whole recipe: (1) treat the model as a
 - **Undocumented descent blocks the DNA argument.** Two starting test-takers lacked documented lines of descent, so their matches couldn't serve as strong evidence until the **paper descent was built** — proof came from correlating the DNA cluster *with* a documented line to the common ancestor, not from the match list alone. (Why Document DNA Links; RLP 409)
 - **"Wrong until proven right" (Josiah How).** Census, military, and pension records *about* Josiah didn't prove the family story until each was checked for belonging to the correct man **and** actually proving kinship — which overturned the story (he survived the Civil War). (Wrong Until Proven Right)
 - **Immigrant identity across two countries (Ane Jensen).** Connecting the right person in the US with the right person in the home country was itself an indirect-evidence correlation problem — resolved by correlating census and newspaper conflicts, *not* by assuming the matching name was the match. (How to Know if You've Met the GPS)
+
+## Use a naming pattern to choose a search
+
+For competing families, compare their documented children in birth order with independently
+known relatives. Attribute any proposed naming custom to its locality and period; record
+missing order, repeated names and exceptions. Use a plausible expected name to choose the
+next parent-record search, then compare dates, places and the other families. An apparent
+pattern supplies neither parentage nor a death, religious or ethnic identity.
+
+This worksheet applies the [2024 UK naming-pattern demonstration](https://www.youtube.com/watch?v=0G_xOogKkTI)
+as a search aid within the conditional-premise procedure below, without imposing a universal
+British naming order.
+
+## Compare the creation stages within a marriage record
+
+When a loose license/return and a book entry survive, compare the license, ceremony return
+and filing/recording endorsements separately. Retain both locators and each component's
+creator or handwriting, action date and copying relationship. Issue, ceremony and recording
+dates answer different questions.
+
+The [RLP 371 discussion](https://www.youtube.com/watch?v=wxj2UzRtJ98) qualifies the author's
+earlier [article](https://familylocket.com/comparing-marriage-records-original-licence-and-return-vs-marriage-book-entry/):
+in the demonstrated 1888 Texas case, a book can combine a contemporaneous license entry
+with a deputy's copied return. Examine the volume and surrounding entries to establish
+the actual process; give components their own source classifications. Copied wording is
+dependent evidence. A blank return leaves both an unperformed ceremony and a missing
+returned/recorded certificate open. The article and episode belong to one authorial chain;
+establish another jurisdiction's process from its records.
+
+Before treating a bond witness as a family associate, compare the name/hand and stated role
+on available contemporaneous bonds or court records. Retain actual evidence of routine clerk
+or other official service; repetition alone proves neither office nor kinship. Keep witness,
+bondsman and consenting-person roles distinct. The [marriage-bond example](https://familylocket.com/back-to-the-basics-with-marriage-records-part-1-marriage-bonds/)
+adds this comparison to the existing form-convention and signature controls.
+
+If an actual index exposes a bondsman/surety field, search the identified actor in that
+role and carry each couple, date, jurisdiction and index locator to the original bond.
+Inspect separately available consent and return material; an index's omitted associate
+or consent is not absence from the packet. The [bondsmen example](https://familylocket.com/rlp-233-marriage-bonds-and-bondsmen/)
+motivates this reverse lookup without promising a current field, image route or legal rule.
+
+## Follow record versions and test disputed dates
+
+For a struck-out index or later-filed entry, retain both references and distinguish the
+event, registration and change dates. Follow supplied amendment/court references to the
+available original and amended records. Read a later marginal identity or married-name
+note separately from the original statement, retaining its date/author when known; compare
+all live namesake candidates. A later filing alone establishes neither adoption nor biological
+parentage. These are retrieval checks illustrated by the
+[Edna Estes](https://dna-explained.com/2022/06/12/edna-estes-miller-1920-1990-sister-once-found-twice-lost-52-ancestors-361/)
+and [Gockeler](https://dna-explained.com/2022/08/18/wolfgangius-gockeler-his-wife-barbara-born-c-1585-i-baptize-thee-52-ancestors-370-371/)
+cases; their original records remain to be inspected in any new investigation.
+
+If a disputed year comes with a month/day and liturgical observance, preserve the literal
+forms and test candidate years against the documented calendar/tradition. Compare independent
+chronology, considering a later-added signature only where the document supports it.
+Report compatibility or an unresolved calendar basis; compatibility does not prove the year.
+The [calendar-and-signatory example](https://www.roots-branches.com/examine-assumptions-use-local-expertise/)
+supplies this extra constraint, not a verified date for the present case.
+
+## Resolve a relationship label across successive unions
+
+Retain an in-law term verbatim with its reference person and record date. Compare earlier
+and later household entries and independently supported unions before calling the term a
+scribal error or reconciling different fathers through a double name. Show each candidate
+path through former/current spouses and subsequent marriages; one person can hold two
+affinal roles. Preserve supported paths and unresolved alternatives. The [revision-list discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=13676)
+motivates this dated comparison without establishing its narrated family solution or a
+universal kinship dictionary.
 
 ## Using working hypotheses without inheriting their assumptions
 
@@ -88,6 +164,12 @@ Use this small register alongside the ordinary research log:
 | P1 | Candidate A is the subject's father; hypothesis from the existing clues | H1's stated observations | Reassess after identifying records |
 | O1 | Record R names Candidate A's parents; cite and verify R's identity | R's information, independent of P1 | Keep the supported observation about A |
 | C1 | R's named people are the subject's grandparents | O1 and P1 | Withdraw that attribution if P1 fails; do not delete O1 |
+
+When testing a parent-child link with a generated timeline, mark or temporarily exclude
+parent-presence events derived solely from that attached child's birth. Compare independently
+sourced dated observations instead, retaining gaps as unknown. The [timeline-view example](https://familylocket.com/rlp-218-goldie-may-subway-map-with-richard-miller/)
+motivates this dependency check without assuming a particular tool offers a switch. A plotted
+overlap or absence does not establish or exclude parentage.
 
 **Two source examples explain why the register matters.** In Ancestry's *Using Hypotheses*, estimated sibling dates from will order and assumed spacing guide further research; the presenter explains how a newly discovered marriage could require a different family reconstruction. Those assumptions are search aids, not general demographic rules. In Roberta Estes's proof-table discussion, evidence establishing Mary Younger as John Y. Estes's grandmother still does not establish what his middle initial means. Success in proving one relationship does not retrospectively verify every clue that suggested it. (*Using Hypotheses*; *Creating Genealogy Proof Tables*)
 

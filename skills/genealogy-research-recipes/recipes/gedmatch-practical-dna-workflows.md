@@ -44,6 +44,16 @@ query controls, local marker coverage and reporting scope.
    chromosome/window filters, exclusions and other changed options. Mark controls the tool
    does not expose as `not exposed`; save the parameter screen with the result.
 
+If an authorized, available lookup tool accepts a retained exact kit ID, email or GEDCOM
+ID, query that key and record its type and the actual lookup scope. Preserve returned
+aliases, associated kits/GEDCOMs and contact/manager roles; one email's kits need not
+represent one tested person. Verify tested-kit provenance separately before comparison.
+Keep an empty, inaccessible or unavailable lookup unresolved under its observed scope;
+it does not establish that a person or kit does not exist.
+
+Historical example: Family History Fanatics, [User Lookup](https://www.youtube.com/watch?v=1QMQ9EgJcK0)
+(2019-04-16), demonstrating Genesis; current tool, field and visibility behavior remain unverified.
+
 **Artifact:** private kit registry: `kit_id, person_handle, source, kit_type, input_kits,
 upload_receipt, readiness, baseline_run_id`. Run manifest: `run_id, retrieved_at, tool_label,
 input_kits, build, cm_min, snp_min, match_cap, chromosome, window_start, window_end, exclusions,

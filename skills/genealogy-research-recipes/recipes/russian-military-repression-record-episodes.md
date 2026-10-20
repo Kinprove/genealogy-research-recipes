@@ -65,6 +65,28 @@ the date difference alone does not select among them. [H2]
    actually checked. Ask about a documented transfer or another specific creator when relevant;
    do not translate a local reply into proof of universal loss or launch an endless archive sweep.
 
+When a report wrapper explicitly describes attached family correspondence, continue to the
+actual letter and envelope within the available unit. Keep their separate locators, writer,
+soldier and addressee roles, date and literal return/delivery address. Use that dated address
+for a specific locality-list search; a later list's different date, address and member roles
+remain a separate episode. The [attached-letter example](https://forum.j-roots.info/viewtopic.php?f=197&t=1199)
+motivates this handoff. Unnamed children in a letter do not establish a named parent's edge,
+and a reported attachment remains uninspected until its actual pages are examined.
+
+For a supported conscription-office/date lead, check confirmed surviving series for the
+conscription-registration entry and its dispatch/command identifier, and separately the
+register of incoming front notifications. Carry actual entry and notification locators into
+the next retrieval step. Compare available departure, receiving/training and later-unit
+records before treating a former unit's missing report as final fate. Dispatch or a hospital
+destination does not demonstrate arrival or death. The [soldiers' records discussion](https://forum.j-roots.info/viewtopic.php?f=36&t=1813)
+motivates these complementary series checks without establishing survival or current custody.
+
+If a source names the target's commander or another documented officer associate, retain
+the event date and exact name/role. Seek that officer's service record for the relevant date,
+then use a supported unit reference to choose documents that might name the target. Do not
+carry a unit known in a later year back to an earlier event. The same discussion motivates
+this associate-to-unit lead; shared service, the target's presence and fate need their own records.
+
 **Stop condition:** finish the bounded source/episode inventory, state the remaining identity or
 fate question, and name the document that could distinguish the alternatives. A further inquiry
 needs an identifiable input/custodian and a result that can change the decision. Sending a request
