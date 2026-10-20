@@ -93,6 +93,20 @@ placing an untested ancestor, represent the tested descendant's path in each
 hypothesis; do not score the ancestor as though they supplied the test.
 Other pedigree-aware models need their own route and observation audit.
 
+**When moving a legacy tree into WATO Plus, check whom each hypothesis represents.**
+Preserve the old tree, candidate set, tested people and run inputs before using an
+available transfer route. Perl's [2024 migration account](https://blog.dnapainter.com/blog/from-what-are-the-odds-to-wato-plus-in-one-click/)
+describes old hypotheses representing the DNA tester, while the Plus hypotheses
+represent the proposed unknown parent; that conversion removes the old hypotheses.
+Rebuild the plausible alternatives for the intended question and inspect each path
+from the proposed parent through intervening generations to the actual tester. The
+[introduction](https://blog.dnapainter.com/blog/introducing-wato-a-new-tool-for-investigating-family-mysteries/)
+describes generating that trail from the structured question. Check the actual
+version's question and resulting path before proceeding. A copied tree does not preserve hypothesis
+meaning by itself; removed alternatives or changed model/age settings are not new
+genealogical evidence. Leave score comparison unresolved if the referent or path
+cannot be established.
+
 Preserve the selected people, exact test comparisons, evidence date and
 inclusion rules for the run. A current export cannot reconstruct undocumented
 historical inputs. An unavailable run or component supplies no comparison;

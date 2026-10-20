@@ -12,6 +12,8 @@
 8. *Jan and the Complex Pedigree Analysis* — The DNA Geek, 2023-09-29 — <https://thednageek.com/jan-and-the-complex-pedigree-analysis/> — Rights: cited reference, not reproduced.
 9. *DNA as Negative Evidence, Revisited* — The DNA Geek, 2022-08-14 — <https://thednageek.com/dna-as-negative-evidence-revisited/> — Rights: cited reference, not reproduced.
 10. *Which WATO Probabilities are Best* — Family Locket (YouTube), 2025-03-12 — <https://www.youtube.com/watch?v=Pj-Hi_DgDUQ> — Rights: cited reference, not reproduced.
+11. *From What are the Odds to WATO plus in one click* — Jonny Perl (DNA Painter), 2024-03-28 — <https://blog.dnapainter.com/blog/from-what-are-the-odds-to-wato-plus-in-one-click/> — Rights: cited reference, not reproduced. Historical hypothesis-referent change and removal during conversion; no current transfer control or entitlement is promised.
+12. *Introducing WATO plus, a new tool for investigating family mysteries* — Jonny Perl (DNA Painter), 2024-02-26 — <https://blog.dnapainter.com/blog/introducing-wato-a-new-tool-for-investigating-family-mysteries/> — Rights: cited reference, not reproduced. Structured-question-to-tester trail; missing field lists, default ages and model details are not reconstructed.
 
 Additional primary reference checked 2026-10-18:
 [DNA Painter, original WATO FAQ](https://dnapainter.com/help/wato-faq) — the
