@@ -55,6 +55,15 @@ not proof that no application exists in any series.
 **Check:** The request identifies the intended claimant and application. An index card supplies
 a locator; it does not substitute for reading the application documents.
 
+If an application or certificate number is unreadable, check whether a separately arranged
+index covers that service and claimant category. Use supported regiment/company and applicant
+context to find a candidate; reconcile the claim category and application-versus-certificate
+fields before using its number. Preserve both index locators and literal readings with the
+resolution basis; unresolved digits stay unreadable. The
+[historical regiment-index teaching example](https://www.youtube.com/watch?v=dSVVQE7iVgo)
+supplies this recovery route, not a verified matched-card pair or current hosting/coverage
+guarantee. A second index can resolve a locator without independently confirming its genealogy.
+
 ## 3. Obtain the intended file product and record its limits
 
 1. Check whether the result is only an index image, a selected extract, or a multi-image
