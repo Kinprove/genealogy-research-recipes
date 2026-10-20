@@ -24,6 +24,11 @@ The index-audit, locator and series-resolution schemas are original synthesis.
   14 December 2023. Reported cash-sale, bounty-warrant and homestead packet components.
   Original files were not independently inspected. The recipe does not adopt page-count
   ranges, statutory eligibility, case kinship/service conclusions or current digitization claims.
+- **S7:** Family Locket,
+  [RLP 315: Tips for When the Courthouse Burned](https://familylocket.com/rlp-315-tips-for-when-the-courthouse-burned/).
+  A reported tax entry recovered under an estate administrator's surname motivates the
+  alternate filing-key check. Original tax and land records were not independently inspected;
+  the recipe does not adopt the account's death, sale, namesake-identity or legal conclusions.
 
 ## Credits
 

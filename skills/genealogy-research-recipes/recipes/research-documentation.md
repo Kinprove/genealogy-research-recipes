@@ -19,6 +19,15 @@ Use `NIL` for a completed search with no hits. Record inaccessible images, inter
 and unsearched collections with their actual status. Keep literal record wording and uncertain
 readings separate from your interpretation.
 
+When building a timeline, keep the date as written, its source locator and stated precision
+separate from any derived sort key. If software supplies a synthetic first day to order a
+month-only date, label that value as an ordering convention and do not export it as the event
+date. Preserve qualifiers and ranges in the displayed value. Overlapping uncertain intervals
+leave event order unresolved even when the software presents one row before another.
+The [timeline-sorting example](https://www.youtube.com/watch?v=8Smljk9Aink) reports a partial
+date beside a generated first-of-month value. It motivates this distinction without
+establishing a current formula or interface contract.
+
 For a bounded set of multi-person records, an optional associate index can keep one row
 per named person's occurrence, with the same source-item/document number on every row from
 that item. Filter by person to see their occurrences or by item number to recover its named

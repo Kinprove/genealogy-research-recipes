@@ -62,6 +62,20 @@ translation and compiled abstract distinct; extract only the household, origin o
 actually present. The same example motivates this related-item check without guaranteeing
 particular fields, complete survival or a present translation service.
 
+### Tax rows filed under another name
+
+If an expected taxpayer is missing from a roll used for this land lead, inspect its actual
+organization and bounded unsearched sections for entries filed under another payer or estate
+representative. Preserve the names and sections searched, their extent and the result.
+In the [1849 tax-roll example](https://familylocket.com/rlp-315-tips-for-when-the-courthouse-burned/),
+the speaker reports finding John Cline's entry under W for administrator Wiseman after
+missing it under C.
+
+Keep the literal payer, represented person or estate, and stated role separate. Carry any
+supplied parcel reference into the comparison with land records. This recovery step does not
+by itself establish a death date, a sale, kinship, legal liability or the identity of same-name
+people.
+
 ### U.S. federal entry packets
 
 For a federal entry lead, retain the stated entry class, act/year, land office, acreage,
