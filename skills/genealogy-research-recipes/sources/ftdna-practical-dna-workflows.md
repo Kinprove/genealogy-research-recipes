@@ -47,6 +47,24 @@ Additional project-roster example:
   no current signed-in interface was verified. The conditional availability check, saved
   selection record, unknown-scope state and documentary-worklist boundary are Kinprove synthesis.
 
+Additional combined-test scope example:
+
+- **S11:** Roberta Estes, [Mitochondrial DNA A–Z: A Step-by-Step Guide to Matches, Mitotree, and mtDNA Discover](https://dna-explained.com/2025/09/02/mitochondrial-dna-a-z-a-step-by-step-guide-to-matches-mitotree-and-mtdna-discover/), DNAeXplained, 2025-09-02.
+  The Advanced Matching section distinguishes all-selected-test matches from the broader
+  individually matching lists and warns that mtDNA and autosomal matches may follow different
+  ancestors. Recording the supplied setting, keeping differently configured rosters separate
+  and retaining unknown scope are Kinprove synthesis. No current interface, default, roster
+  arithmetic or common-ancestor inference is established.
+
+Additional preservation trigger:
+
+- **S12:** Katy Rowe-Schurwanz, [Zoom In on Your Roots: Upgrading Your Family Finder® to Next-Generation Sequencing](https://blog.familytreedna.com/family-finder-ngs-upgrade/), FamilyTreeDNA Blog, 2026-08-18 (saved publication metadata).
+  The saved notice warns about replacement of previous results and advises downloads or
+  screenshots before an upgrade, with different availability for transfer kits. Preserving
+  available products before an independently authorized change, recording unavailable states
+  and separating result versions are Kinprove synthesis. Current removal, recovery, transfer
+  access, specimen requirements, upgrade eligibility and performance remain unverified.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

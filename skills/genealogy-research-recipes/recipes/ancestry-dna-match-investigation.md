@@ -139,6 +139,15 @@ row/group differences before concluding removal or a failed save; reappearance d
 identify the cause. The [2020 rendering example](https://genealem-geneticgenealogy.blogspot.com/2020/07/greetings-this-email-is-only-for-those.html)
 does not establish a current extension defect or require an extension change.
 
+When a supplied cluster grid and its dropdown lists differ, preserve both with the kit,
+retrieval date and selected parental view. Record each person's listed groups separately
+from the cross-group cells actually visible in the grid; retain discrepancies and multiple
+observed associations rather than forcing one group per person. If the grid is unavailable,
+mark those associations unverified. The [2025 example](https://dna-explained.com/2025/07/10/how-to-use-ancestrys-new-match-clusters-and-what-they-mean/)
+motivates this comparison without making either representation authoritative or establishing
+current display limits. Check saved manual tags against the recorded observations; neither
+tags nor cross-group cells establish an ancestral path or segment triangulation.
+
 **Output:** a recovered observation with its kit, view, filters and date, or a request naming the missing tester pair. An absent row is “not shown,” never a measured zero.
 
 ## 8. Match the person across sites before using segments
