@@ -13,6 +13,12 @@ The linked routing, request-receipt and image/timeline schemas are original synt
 - **S3:** Ancestry, Loretta Evans,
   [U.S. Military Pension Files](https://www.youtube.com/watch?v=RRzzQVNQU2I),
   20 April 2016. Separate service, pension and bounty-land records; unsuccessful applications.
+- **S4:** Aimee Cross, with Brian Reinhardt,
+  [Avoid These Military Record Mistakes | Get The Right Card](https://www.youtube.com/watch?v=g5OAEKwzgeU),
+  28 November 2024. Comparing pension-index card versions for a later XC file identifier omitted
+  from another version. The per-version locator comparison and unresolved-mismatch handling
+  are original synthesis. Historical provider coverage and transfer descriptions are not adopted
+  as current website or custody guarantees.
 - **H1:** National Archives,
   [Requesting Copies of Older Military Service Records](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records),
   page reviewed 16 January 2026; checked 7 October 2026. Request forms, federal scope and
