@@ -253,6 +253,16 @@ are preserved, and every interval claim has direct-pair evidence or remains expl
 Route segment trust and triangulation to `xdna-phasing-judgment.md`, and ancestral attribution to
 `ai-for-dna-research.md`.
 
+For a locality or surname question, check whether the authorized focal kit offers a
+project-restricted Family Finder view, such as the Advanced Matches report demonstrated in
+[this 2026 project example](https://www.youtube.com/watch?v=84MgafRdVg0). Save the focal kit,
+selected project, test/filter state, retrieval date, returned identities and displayed
+relationship labels. Record the project's stated admission scope, or `unknown` if unavailable.
+This is a roster of matches to that focal kit within the selected project: membership or
+concentration does not establish origin, an ancestral path or pairwise matching among members.
+Use it as a scoped documentary research queue. The dated demonstration does not establish
+current access or controls.
+
 ### 7. Inspect the node actually displayed in a supplied time map
 
 For a dated Globetrekker view or recording, retain the requested terminal node and the node

@@ -57,6 +57,16 @@ the editor. The [family-specific informant example](https://familylocket.com/rlp
 motivates this retrieval step; an older relative's contribution does not make the whole book
 firsthand, reliable or independent.
 
+When a compiled book gives a relationship or event without an item citation, retain the exact
+passage and inspect its bibliography for the missing source. If the compiler cannot clarify
+it, use the book's named publisher or local historical society to prepare a bounded inquiry
+about that statement and its underlying record. Obtain a record reference and inspect the
+available item, distinguishing an image, transcription or later compilation; retain any gap
+to the original. Cite the book and recovered item separately before reassessing the claim.
+The [Carding Jackson case](https://www.youtube.com/watch?v=UUcoAC0pd_g) follows this route from an
+uncited compiled parentage to a society's baptismal record; it does not establish that every
+publisher holds the source or that a retrieved web item is the archival original.
+
 - **Identity dossier / one-row-per-record descriptor table — and sort it BY descriptor.** Stop expanding the branch, then capture **every** descriptor per record in its own column — the Dewitt case used **40+ columns**: dates, places, occupations, spouses, children, neighbors, signatures, and behavioral **"psychographics"** (the case label "Bad Barney"). The core move is the **sort:** a distinct signature (or cluster of descriptors) surfaces separate people, a matching one unifies records a name alone couldn't — corroborated across the dossier, since a signature can be clerk-written or vary. Have the AI *build* the table; you *read the sort*. (Jan Joyce, RLP 399; From Chaos to Clarity)
 - **Three-bucket identity triage.** Same-name+same-place / same-name+different-place / different-names — each needs a different separation tactic. **Parental sets** and the **FAN** network (Friends, Associates, Neighbors — Elizabeth Shown Mills' term) discriminate same-named people far better than name-spelling variants; for common names, keep candidates in **separate research projects** so records don't cross-contaminate. (Jan Joyce, RLP 399; One Man, Two Same-Named Wives; RLP 288; Seventeen Rules)
 - **Reality-check filters on any merged or proposed-merge timeline.** A genuine biological/chronological impossibility (childbearing window, post-mortem fatherhood) **blocks the merge**; softer anomalies (a duplicate census enumeration, spouses/children that appear then vanish) are **conflicts to investigate** — resolve them, don't merge over them, but don't treat them as automatic separators either.** On a collaborative tree, read the **change log bottom-up** to recover the profile's *original intended identity* before untangling. (Kathryn Grant, Same Name Trap & Recognizing Problems; New Merge Experience)

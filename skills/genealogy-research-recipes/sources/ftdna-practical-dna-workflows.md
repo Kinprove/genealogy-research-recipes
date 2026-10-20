@@ -38,6 +38,15 @@ rechecked on 2026-10-19; its original check date above is preserved. Public docu
 inspected; no signed-in kit interface was verified. The observation fields and stop/status
 rules are original Kinprove synthesis.
 
+Additional project-roster example:
+
+- **S10:** FamilyTreeDNA, [Irish Ancestry & Brick Walls: How Geographical Group Projects Reveal Your Roots](https://www.youtube.com/watch?v=84MgafRdVg0), 2026-03-17.
+  The saved demonstration selects Family Finder and a project in Advanced Matches to list
+  matches to the focal kit within that project. It also describes different admission scopes
+  for a broad geographical project and its subprojects. These are historical observations;
+  no current signed-in interface was verified. The conditional availability check, saved
+  selection record, unknown-scope state and documentary-worklist boundary are Kinprove synthesis.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

@@ -25,6 +25,12 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   transcript does not establish another edition's inclusion policy. Recording an edition's
   stated rule and locator, or leaving it unknown, is Kinprove synthesis from that limitation.
 
+- **S6:** Aimee Cross / Ancestry Aimee, [Finding Ancestors’ Addresses: Why They Matter & Where to Look](https://www.youtube.com/watch?v=7U_z66Fl0MQ),
+  5 February 2026. Compares listing-site construction years with a census and a draft-card
+  address date. The recipe's source check and distinction between chronological compatibility,
+  occupancy and unchanged appearance are Kinprove synthesis; the listing years were not
+  independently verified in the demonstration.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

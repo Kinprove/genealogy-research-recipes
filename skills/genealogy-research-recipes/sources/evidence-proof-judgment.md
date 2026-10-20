@@ -34,6 +34,8 @@
 30. *QuickLesson 27: Verifying Historical 'Facts'—A Blueprint* — Elizabeth Shown Mills / Evidence Explained, accessed 2026-10-07 — <https://evidenceexplained.com/content/quicklesson-27-verifying-historical-facts-a-blueprint> — Rights: cited reference, not reproduced.
 31. *Ethics and Standards* — Board for Certification of Genealogists, accessed 2026-10-07 — <https://www.bcgcertification.org/ethics-standards> — Rights: cited reference, not reproduced.
 
+32. *Breaking a Brick Wall: Finding the Parents of Carding Jackson (b. 1789)* — Aimee Cross / Ancestry Aimee, 2026-02-19 — <https://www.youtube.com/watch?v=UUcoAC0pd_g> — Rights: cited reference, not reproduced. The compiled book's bibliography and publishing historical society lead to a baptismal record on the society's website, also found at Internet Archive. The recipe's bounded inquiry and separate citation/status controls are Kinprove synthesis; the original record and the narrated parentage were not independently verified here.
+
 Maintenance note, 2026-10-18: applying a revised premise to aliases, diagrams,
 totals and dated conclusion amendments is Kinprove's original dependency-review
 procedure. It does not claim that the cited standards prescribe this particular
