@@ -29,6 +29,7 @@
 - Larkin, Leah. "AncestryDNA Updates Their Relationship Predictions." The DNA Geek, 2026-07-24. [Article](https://thednageek.com/ancestrydna-updates-their-relationship-predictions/) (method 6)
 - Larkin, Leah. "Working with WATO: Centimorgan Adjustments." The DNA Geek, 2021-06-05; updated 2022-03-29. [Article](https://thednageek.com/working-with-wato-centimorgan-adjustments/) (method 8; independent check of company-specific totals)
 - Leeds, Dana. "The Order of AncestryDNA's Colored Dots." 2023-03-27. [Article](https://www.danaleeds.com/the-order-of-ancestrydnas-colored-dots/) (method 4)
+- Southard, Diahan / Your DNA Guide. "AncestryDNA ThruLines." 2020-04-10. [Video](https://www.youtube.com/watch?v=em_dMWtbJ-s) (method 5; saved transcript's child-path count example and one-generation-higher comparison). The per-match path register, dependent-tester checks and retained unknowns are synthesis. Historical counts are not adopted as subtraction, probability or parentage proof; current interface behavior remains unverified.
 
 ### Relationship-range reference
 

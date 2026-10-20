@@ -100,6 +100,17 @@ For an unresolved ancestral path:
 
 Bartlett (2023-07-08) reported **31 new ThruLines candidates** after changing a speculative lineage. Independently document candidates' descents, check the recorded cM against the relationship-range reference, and compare those sourced placements under the competing hypotheses. Mark paths supplied only by the research tree “tree-generated.”
 
+Before treating a suggested ancestor's displayed match count as support for an older link,
+inspect the available paths by child. Keep a row for each identified match and proposed
+descent, distinguishing paths through your already-known ancestor from paths that might
+independently check that ancestor's parentage. Preserve unknown paths, dependent testers
+and possible additional relationships; a different child label alone does not establish
+independent evidence. If the available view reaches one generation higher, compare those
+paths too: support for the wider family does not select the particular child through whom
+you descend. Southard's [2020 worked example](https://www.youtube.com/watch?v=em_dMWtbJ-s)
+shows why the headline count can be misleading. This is a path-review worklist, not a
+subtraction rule or a probability; document each proposed link before promoting it.
+
 **Output:** a verified tester/link statement and a candidate comparison for each hypothesis.
 
 ## 6. Detect a label that already uses your shared-match evidence
