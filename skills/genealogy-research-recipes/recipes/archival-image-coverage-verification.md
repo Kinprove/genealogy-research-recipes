@@ -8,6 +8,14 @@ Keep the archival case/volume, digital file or image group, index record, and pe
 
 For a transcript, retain its image/leaf binding, version or timestamp, and whether human correction is established. Manually triggering recognition still produces machine text. An unavailable newer version neither makes an older transcript current nor disproves its readings. Identify the text actually consulted and its unchecked relationship to the image.
 
+If an original register is unavailable but separately prepared transcriptions are available,
+compare their entries and stated record-type coverage for the same target name and period.
+Retain both derivative locators, their claimed common original and unresolved discrepancies
+or bindings. One transcript's silence does not establish that the original omitted an event;
+agreement between copies is not independent corroboration. Family Locket's example describes
+a marriage present in a handwritten transcription but absent from a typed one, while the
+one-person-or-two question remained open. [S7]
+
 FamilySearch distinguishes image numbers, record pages, household numbers and family numbers. Its item-grouping instructions allow multiple books on a film and a book split across films. A film's image count therefore cannot establish a particular case's boundaries. [S1, S2]
 
 For the requested item, inspect opening and closing material and representative interior pages. Reconcile its covers, title boards, headings, foliation and entries with the catalogue. A readable copy's own page count is not independent evidence that it contains the whole case. If an inventory, certification or other copy establishes a boundary, cite that evidence; otherwise report inspected pages with completeness unresolved.
