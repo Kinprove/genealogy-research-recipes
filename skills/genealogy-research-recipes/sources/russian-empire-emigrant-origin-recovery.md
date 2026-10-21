@@ -59,6 +59,16 @@
   [live stream](https://www.youtube.com/watch?v=VQgE0u9SGSU). Passage-ticket ledger fields and a
   purchaser-passenger link between surname forms; the presenter's uncertainty about the repository
   and column meanings is retained.
+- **S14:** J-Roots participants, *Не знаете, где спросить? Спросите здесь*, thread begun 2009-08-24 —
+  [discussion](https://forum.j-roots.info/viewtopic.php?f=75&t=7576). Rights: cited reference, not
+  reproduced. Used for the pointer to Russian consular records in the USA (viewable on FamilySearch
+  film) as a source for undelivered-remittance files naming sender and recipient; coverage is not
+  adopted from the thread.
+- **S15:** Ahnenforschung.net participants, Ahnenforschung.net topic 3013995, thread begun 2026-04-30 —
+  [discussion](https://forum.ahnenforschung.net/forum/thread/3013995-suche-herkunftsort-und-heiratsort-von-johann-otterst%C3%A4tler-katharina-keller-auswa/).
+  Rights: cited reference, not reproduced. Used for comparing census birthplaces and manifest origin
+  when a German-speaking family recorded as born in 'Germany' may come from Russian Empire German
+  colonies; the family's identity and ancestral origin are not adjudicated here.
 - **H1:** U.S. National Archives, [Passenger Arrival Records](https://www.archives.gov/research/immigration/passenger-arrival.html).
 - **H2:** U.S. National Archives, [Naturalization Records](https://www.archives.gov/research/immigration/naturalization).
 - **H3:** Marian L. Smith, [By Way of Canada](https://www.archives.gov/publications/prologue/2000/fall/us-canada-immigration-records-1.html),

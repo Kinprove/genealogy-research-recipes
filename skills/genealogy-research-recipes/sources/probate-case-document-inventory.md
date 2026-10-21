@@ -88,6 +88,18 @@ The linked inventory/queue schema and scope-completion rule are original synthes
   [What's in a Probate Record and How to Use it for Genealogical Research](https://www.youtube.com/watch?v=TBB8OPPFSsM),
   13 September 2023. Used for widening the venue set (residence, death place, heirs' residence,
   adjoining counties) and the multi-year search after a death when nothing is found nearby.
+- **S15:** Ahnenforschung.net Forum,
+  [Auswanderung 1857 aus Hessen, über Bremen nach Amerika.](https://forum.ahnenforschung.net/forum/thread/2999515-auswanderung-1857-aus-hessen-%C3%BCber-bremen-nach-amerika/),
+  first post 25 February 2026. Rights: cited reference, not reproduced. Used for comparing a
+  database index's heir list with the will image and recording index-only names as discrepancies
+  rather than as additional persons.
+- **S16:** Уральская генеалогия forum,
+  [Запросы о поиске ПОТОМКОВ, а не ПРЕДКОВ !!!](https://rodgersforum.borda.ru/?1-2-0-00001643-000-0-0-1734245901=),
+  first post undated; with
+  [2021-2024 Великая Отечественная. Наши деды - участники ВОВ](https://rodgersforum.borda.ru/?1-23-0-00000042-000-0-0-1730531911=),
+  first post undated. Rights: cited reference, not reproduced. Used for recording notarial
+  inheritance-case registry hits (death date, case number, opening notary, notarial chamber) as
+  separate candidate case rows that need an independent identity check.
 
 ## Credits
 

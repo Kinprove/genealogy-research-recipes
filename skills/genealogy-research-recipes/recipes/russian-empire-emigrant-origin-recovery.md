@@ -59,6 +59,16 @@ that country. [James Tanner's talk](https://www.youtube.com/watch?v=wUyse0sA2cU)
 check as a general warning about nineteenth-century enumeration. It gives no rule for a particular
 census and does not make every such entry a port.
 
+A German-speaking household recorded as born in “Germany” may instead come from the Russian Empire's
+German colonies, for example in Bessarabia. Compare the birthplace across every census year and the
+manifest's origin field before searching German emigration sources. A later census or manifest
+origin that reads “Russia” is a reason to add a colony candidate; a reported miss in German
+emigration lists is not. In the
+[Bessarabian-colonist case](https://forum.ahnenforschung.net/forum/thread/3013995-suche-herkunftsort-und-heiratsort-von-johann-otterst%C3%A4tler-katharina-keller-auswa/),
+the manifest that was found had sailed from Bremen, and the colony marriage and manifest were linked
+only by names, ages and a child. Treat such a link as a candidate to test. It does not settle the
+family's earlier German origin.
+
 Make one chronology row per reported or documented movement. Preserve every reported immigration
 year with its source, then identify the interval supported by the dated appearances. Keep conflicting
 arrival dates visible. A later return, a child's separate arrival and an onward crossing are separate
@@ -203,6 +213,14 @@ GeneaVlogger's [ledger walkthrough](https://www.youtube.com/watch?v=pVfGwY6uBHU)
 [surname case](https://www.youtube.com/watch?v=VQgE0u9SGSU), the presenter is unsure of some
 columns and of the holding repository. The ledger does not state the payer's relationship, and the
 presenter calls the match strong but not confirmed.
+
+If money was sent between the emigrant and relatives back home, search the surname in the documents
+of Russian consulates in the USA, for example by asking in the J-Roots forum's index topic for them. A
+[consular-records reply](https://forum.j-roots.info/viewtopic.php?f=75&t=7576) says hits can be
+viewed through FamilySearch, and the poster found documents on an undelivered money transfer and
+refund that way. The reply gives no period, coverage, finding aid or field list. Record any named
+person and place as written, as an unverified contact lead, and do not treat a miss as a negative
+search.
 
 **Artifact — contact worklist:**
 

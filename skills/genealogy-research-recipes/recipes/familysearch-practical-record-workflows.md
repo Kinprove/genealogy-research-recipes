@@ -134,6 +134,15 @@ holder before citing it; cite the copy you read. Sources:
 4. Search Full Text with the DGS and a name/keyword; the dated sources also describe comma-separated group numbers.
 5. Record both item-view and complete-group image positions when they differ.
 
+When an external index supplies an archive signature (holding archive, record group, accession, file
+number), do not open the first Catalog collection whose title matches the record type. Compare each
+candidate Catalog entry with the index's signature (holder, record group, accession). Then check that
+the chosen entry's volumes are arranged by file number, not by letter volumes or number ranges that
+cannot hold that file. Locate the file by its number and record any locked image range as an access
+state (workflow 6). A [probate-file index discussion](https://forum.ahnenforschung.net/forum/thread/148940-neues-bei-der-brandenburg-datenbank-mit-berlin/)
+shows a wrong series with the same title being corrected; the thread does not show which details
+confirmed the right series. A matching title alone does not establish the right series.
+
 **Artifact:** A crosswalk: Catalog URL, series/years, physical film/item, DGS, image URL, viewing scope and exact Full Text query.
 
 **Check:** Each DGS belongs to the intended series and period. Confirm the document from its visible heading, date and original page content.

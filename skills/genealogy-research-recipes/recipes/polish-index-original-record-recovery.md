@@ -94,6 +94,15 @@ that website. It does not mean the archival documents never existed. If the need
 online image, preserve its reference and prepare an image/copy request to the identified holder;
 contact remains a separately authorized action. [O1]
 
+For a Congress Poland (Kingdom of Poland) register from roughly the late 1860s onward, expect the
+original entry to be written in Russian. When preparing the request, give the surname in both
+Polish and Russian (Cyrillic) forms. List the known spelling variants and ask explicitly for
+similar-sounding names to be checked. A [Polish archive-request
+discussion](https://forum.j-roots.info/viewtopic.php?f=165&t=470) reports that archives do not
+widen a search unless asked. The source gives only an approximate year for the changeover, so
+confirm the language from the unit itself. Treat a match on a variant as a candidate, not as an
+identity. [C1]
+
 Use one gap label per unresolved route: `index only`, `broken link`, `fonds unavailable on portal`,
 `unit described without scan`, `access blocked`, or `bounded range inspected without candidate`.
 Keep uninspected and inspected material separate.

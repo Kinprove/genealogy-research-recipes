@@ -27,6 +27,14 @@ Keep the record's creation date separate from the date you viewed it. Preserve a
 mapping between archive and film identifiers when available. An index entry and an inspected
 original image have different retrieval paths; record which one you used.
 
+An archive can renumber an inventory, so file numbers in older extracts may no longer match its
+current numbering. Record the file number as you found it, and mark whether it follows the old or
+the current numbering. A
+[parish-register extract discussion](https://rodgersforum.borda.ru/?1-29-0-00001515-000-0-0-1777199479=)
+motivates this step: the poster notes that the numbers in his old extracts predate the renumbering
+and labels one file number as new. It does not give a concordance or say when the renumbering
+happened.
+
 Before you record a URL, test whether it reopens the specific entry in a new session. Some
 search-result URLs expire, and some only reopen the search form. If so, save a capture of the
 entry and record its locators in the fields above. If another site has a persistent page for the

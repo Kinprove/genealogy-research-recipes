@@ -58,6 +58,7 @@ The worksheets below work with manually read images or copied index rows.
    [South Haven examples](https://www.youtube.com/watch?v=xjLPo2MMuHs),
    [front-matter tip](https://www.youtube.com/watch?v=8i1MYac23ec) and
    [Hayward firm case](https://www.youtube.com/watch?v=68DpL1IWZHc).
+8. For a trade directory such as 'Вся Россия', read the inclusion rule in the volume itself. Posters in a [trade-directory discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) say only larger or guild-paying traders appeared, so a small trader's absence is weak. The town printed can be where the trader registered capital or traded rather than lived. A same-name hit in another town is therefore neither ruled out nor matched.
 
 **Artifact:** One coverage row per edition and relevant section:
 repository, directory title, edition year, locality/section, available/access status,
@@ -75,6 +76,8 @@ repository's copy of that same volume supplies another access route, not another
    that ordering and the former address is available. If the required key is unknown
    and no usable index supplies another route, leave the entry unlocated and record
    the lookup as unresolved. Do not invent an alphabetical or DES route. [S3, S4]
+
+   If a long surname run looks unordered, test other sort keys before scanning every line. Within one surname, some volumes sorted entries by occupation, men before women, and filed a widow under her late husband's occupation, e.g. 'verwitwete Hauptmann'. Look for her under that word and copy the printed form. A [Berlin address-book discussion](https://forum.ahnenforschung.net/forum/thread/2950717-gesucht-hauptmann-walther-rudolph-fischer-1870-bis-ca-1919/) states this for Berlin up to about 1925. Do not assume it for other cities or years, and treat the widow wording as status, not a death date (section 3, step 8).
 2. Copy the entry as printed, including initials, spouse wording, occupation and address when
    present. Preserve uncertain readings. Keep any normalized name in a separate column.
 3. If copying a site's tabular index into a spreadsheet, take the header once, paste subsequent
@@ -86,6 +89,8 @@ repository's copy of that same volume supplies another access route, not another
    keep the merged index value as the original value. The
    [MyHeritage example](https://www.youtube.com/watch?v=RRz2QHR4DmE) does not show how ditto
    conventions differ between publishers.
+
+   In a 1913 Russian trade directory entry, an address such as 'Александровск., д.' followed by a surname in the genitive is probably a street name plus 'house of' an owner, not a town and a village. Record the street, the house owner and the listed firm holder or occupant in separate fields; the owner need not be the occupant. Check the edition's abbreviation key before expanding 'д.'. A [directory-address discussion](https://forum.j-roots.info/viewtopic.php?f=15&t=64) offers this reading as probable. It does not quote the key or show how the owner relates to the occupant.
 5. Check the first and last imported entries, remove repeated headers or interface text, and
    confirm that each row still has its year and locator. Manual extraction uses the same schema.
    [S1, S3]
@@ -134,9 +139,13 @@ each printed address or an exact move date. Keep an unstated time basis unknown.
    their row IDs. Confirm the link with a marriage or other record, because a common occupation
    alone is weak. The [presenter's Marion example](https://www.youtube.com/watch?v=d39IOclm3wU)
    motivates this check without showing how often such double listings occur.
+
+   A business run under one initial across many editions may cover more than one holder, such as a husband and then his widow continuing the trade. Before assigning the run to one person, check the death dates of possible holders and split the run at any death as a question. A death record giving another occupation does not by itself rule out the match. A [business-run discussion](https://forum.ahnenforschung.net/forum/thread/3014463-eierhandlung-berta-fliegner-in-kreuzberg/) proposes this reading as a hypothesis. It did not compare the initial and full given name edition by edition.
 7. For a located former-resident entry with a reported later locality, use that place for
    one bounded follow-up, such as a later directory or a relevant civil-register search there.
    Keep it as a source-attributed lead; it does not establish a move at the edition date. [S4]
+
+   In a former-resident list, also read the other rows under the target's former house number. Their later addresses are leads to where the household went, not evidence of a tie; in a large city a shared address can be coincidence. Copy 'über' or 'üb.' places as printed. They name the delivering post office, not the residence. Confirm the place in that locality's own directory before searching there, and check the supplement, where a later entry may give another form. An [expellee address-book discussion](https://forum.ahnenforschung.net/forum/thread/3014348-suche-nach-meinem-urgro%C3%9Fvater/) shows both checks. It does not establish the co-resident link.
 8. Copy 'widow', 'wid of' or a printed death note exactly, as the status reported in that
    edition. When a man's run of entries ends and his wife next appears as his widow, rule out
    same-name men and record both row IDs as a death-interval clue. Propose a death-search window

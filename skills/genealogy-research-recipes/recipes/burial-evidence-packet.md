@@ -46,6 +46,15 @@ apart from locations based on word of mouth or dowsing. The
 complete or accurate a survey is, and a preservation group reports finding errors in its own
 compilation.
 
+For a published necropolis or burial list, record what it was compiled from: cemetery documents
+or monuments, or the death section of parish metrical books. Treat the two kinds as separate
+sources and compare them where both exist. A list built from death entries records deaths in the
+parish, not observed graves, though it may be the only option once a cemetery has been destroyed.
+A highly selective compilation, such as the consistory lists described in the
+[necropolis-list discussion](https://rodgersforum.borda.ru/?1-7-0-00000136-000-0-0-1774709430=),
+is not a coverage test, so a name missing from it proves nothing. The thread reports no result
+from comparing the two kinds.
+
 **Output:** `database | query | coverage checked | candidate URL | cemetery | section |
 photo available | image examined | next source`.
 
@@ -75,6 +84,15 @@ Open the available photograph and save its URL, cemetery and plot information. K
 original image separate from a working crop or adjusted reading copy. Record which image was
 actually inspected.
 
+Record whether the stone's letters were traced (outlined) before the photograph was taken. A
+traced photograph shows the tracer's reading, not the carving itself. Check each doubtful letter
+against the wording expected at that point in the formula and, where available, a better or
+untreated image; note which image each reading comes from. The
+[matzevah-reading discussion](https://forum.j-roots.info/viewtopic.php?f=208&t=9621) shows a
+letter read as מ that a participant identified as a wrongly traced ה of צנועה. It supplies no
+untreated comparison images, and the expected formula only flags a doubtful letter; it does not
+settle the reading.
+
 Record which faces of the stone, and of any family marker, the images actually show: front, back
 and sides. A spouse, a second burial or a list of children can appear only on the back. On a
 Jewish stone, the back can carry the Hebrew name and patronymic, while a memorial-site photograph
@@ -92,6 +110,15 @@ gravestone tutorial demonstrates the deceased's Hebrew given name and the father
 as useful leads that can be absent from the secular portion. Preserve the raw wording, the
 person's stated role and uncertain letters before adding a translation. Do not require every
 stone to contain the same fields. [P1, O1]
+
+Before treating a word on a Hebrew stone as a surname, check whether it is a status or occupation
+marker, such as כ"ץ for a kohen, הלוי for a Levite, or, less certainly, שו"ב for a ritual
+slaughterer. Record the literal letters and the proposed expansion separately. Assign the title to
+the man it follows: after a woman's patronymic, it describes her father, not her. Try to find the
+person in the locality's records for the period by given name and father's name rather than by the
+apparent surname. The [matzevah-reading discussion](https://forum.j-roots.info/viewtopic.php?f=208&t=9621)
+and [title question](https://forum.j-roots.info/viewtopic.php?f=75&t=7576) motivate this. כ"ץ (Katz) can be a real surname in other contexts, and neither thread proves an identification. A conflict such as
+'bar' followed by a female name stays unresolved until the image is checked.
 
 Keep the dates separately:
 
@@ -140,6 +167,14 @@ burial or proven kin. The [death-records class](https://www.youtube.com/watch?v=
 interviews ([2020](https://www.youtube.com/watch?v=WoBE9ZAMsg4),
 [2024](https://www.youtube.com/watch?v=gLXeAlkY6j0)) motivate this. They are US examples, and
 record survival and arrangement vary.
+
+A burial register or burial-certificate file can confirm a burial without giving any grave
+location. Record the plot as `not recorded in this series` instead of expecting the register to
+supply it. Where the burial series closely parallels the death register for the same community, as
+in the [Moscow burial-certificate discussion](https://forum.j-roots.info/viewtopic.php?f=20&t=5084),
+cite both and mark them as related records, not two independent confirmations. That example rests
+on one researcher's description of a single year's file. It does not show how other cemeteries or
+periods kept their records.
 
 When no funeral home or cemetery is named, or the named office or firm has closed, trace who now
 holds the records and list the possible custodians for the period before concluding that no record

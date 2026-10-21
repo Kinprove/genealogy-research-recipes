@@ -357,6 +357,15 @@ catalog miss leaves custody unresolved.
 [A-Files](https://www.archives.gov/research/immigration/aliens),
 [AR-2](https://www.archives.gov/research/immigration/alien-registration-ar-2)
 
+Do not use the immigration visa number printed on an arrival manifest as the file locator for a
+visa file. These files are reportedly not arranged by that number. Request a USCIS index search
+for the arrival first to get the file number, then make a separate records request. Expect the file to hold papers needed for entry, such as birth and good-conduct certificates, recent residences and a photograph.
+Do not expect evidence of life after arrival unless a naturalization application or other official
+attention followed. The
+[visa-file discussion](https://forum.ahnenforschung.net/forum/thread/185403-auswanderung-usa/)
+paraphrases USCIS guidance, but the search it reports came back empty. Verify current USCIS
+instructions and any NARA custody.
+
 Alien registration was not only the 1940 AR-2. For WWI enemy-alien registrations and state-run
 registrations, ask both the state archives and the NARA regional facility with jurisdiction over
 that state. Log which level and which series were checked. Many of these series are browse-only

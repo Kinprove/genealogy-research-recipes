@@ -78,6 +78,31 @@ Tanner's [records-move rule](https://www.youtube.com/watch?v=aSwzD902OUE) and Da
 [border-change example](https://www.youtube.com/watch?v=NQ8E1t7xN4g) motivate this check. Neither
 supplies a custody history for any particular place.
 
+For one parish's registers or one revision year, keep a year-by-year holdings list beside the
+locality guide. For each year and section, record every known locator, including parallel files in
+another inventory or fond. Also record the parish's own page range inside a multi-parish volume and
+scope notes such as births, marriages or deaths only, non-confessing only, or near-illegibility.
+Cite the page range, not only the volume, and log which file you actually inspected. A year missing
+or nearly illegible in one file is not lost or NIL until the parallel files are checked. Where
+files are stated to copy each other, treat them as one source, not independent confirmation;
+otherwise do not assume parallel files are identical. A
+[parish register holdings-list example](https://rodgersforum.borda.ru/?1-7-0-00001326-000-0-0-1780129313=),
+a [parish locator table](https://rodgersforum.borda.ru/?1-7-0-00001306-000-0-0-1766240961=) and a
+[revision-list duplicate discussion](https://rodgersforum.borda.ru/?1-7-0-00001332-000-0-0-1772787407=)
+motivate this. None shows which file is the original, or that copies agree in completeness or
+marginal notes.
+
+When searching an archival catalogue or reference database, use the administrative units in force
+at the record date, not an earlier or later unit, such as a former sloboda or a Soviet oblast or
+raion. A birthplace stated in a unit created after the event uses later terminology; convert it to
+the units in force at that date before searching. If the settlement returns nothing, repeat the
+search at the enclosing district and then the province, because files covering a whole district may
+be indexed only there. A [J-Roots archive-reference discussion](https://forum.j-roots.info/viewtopic.php?f=152&t=36),
+a [J-Roots beginners' advice thread](https://forum.j-roots.info/viewtopic.php?f=20&t=5084) and an
+[Ural revision-list exchange](https://rodgersforum.borda.ru/?1-14-0-00000139-000-0-0-1767764008=)
+motivate this. They do not show how other catalogues index places, and a NIL at every level covers
+only the catalogue searched.
+
 **Method origin:** [Family Locket's locality research and planning example](https://familylocket.com/using-the-fan-methodology-to-find-a-females-father-part-2-locality-research-and-research-planning/).
 Use [evidence and proof judgment](evidence-proof-judgment.md) to decide what a result changes.
 

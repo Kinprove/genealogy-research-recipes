@@ -52,6 +52,19 @@ persecuted more than once, and can acquire OCR or field-placement errors during 
 Thus different dates can describe successive events, duplicates or a collision of identities;
 the date difference alone does not select among them. [H2]
 
+A death certificate issued to relatives of an executed or repressed person is a separate
+administrative document. It is not the record of the event. Record its issue date, issuer and its
+stated date, place and cause apart from the sentence and any execution record. A later corrected
+certificate is a further episode. A [repression-records discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=561)
+relays a poster's account that relatives of people sentenced to death in 1937–38 were told of
+ten-year camp terms without correspondence and later given fictitious natural-cause certificates.
+A [publication notice](https://forum.ahnenforschung.net/forum/thread/7649-linktipps-allgemeine/)
+reports deliberately false certificates for people executed in Moscow in 1950–53. Rehabilitation
+wording saying that relatives were not found or whereabouts are unknown records an inquiry, and an
+early case termination does not establish death: the repression-records discussion reports a release after one.
+Not every certificate is false, and neither thread offers a test. Seek decision, execution,
+custody or later-residence records before closing the life interval.
+
 ## Recover the next document before combining the biography
 
 1. Copy the compilation's original source citation and archival locator. For a name collision,
@@ -60,6 +73,17 @@ the date difference alone does not select among them. [H2]
 2. For a repression lead, separate the investigation/decision record from custody, transfer,
    settlement and rehabilitation records. Preserve the exact legal code, jurisdiction and date;
    do not guess a missing subarticle or transfer another republic's numbering automatically.
+   Treat each file class as its own retrieval target. Posters in a [repression-records discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=561)
+   report that the investigation file stays where the case was heard. It holds interrogations,
+   the decision and rehabilitation papers, not confinement details. A prisoner's personal file
+   stayed where the sentence was served, and a transfer could start a second file. For custody,
+   ask the interior-ministry information centre of the region of last confinement for a
+   registration card, which may carry a file number or a destruction note. For exile, ask the
+   place of exile. A [regulation extract](https://forum.j-roots.info/viewtopic.php?f=64&t=564)
+   adds exile/special-settlement files and filtration-check files after capture. It also says
+   only the requested person's portion of a group case is supplied. The survival and retention
+   claims are unverified, and a destruction note is not a negative search of other series. A
+   standard certificate gives only core fields, so request family composition explicitly.
 3. Identify the present custodian from a current official finding aid or archive response for
    the particular file/series. A broad Imperial/Soviet/WWII year division is only a starting
    clue; branch, record creator and later transfers can matter. This recipe supplies no fixed
@@ -71,6 +95,19 @@ the date difference alone does not select among them. [H2]
    actually checked. Ask about a documented transfer or another specific creator when relevant;
    do not translate a local reply into proof of universal loss or launch an endless archive sweep.
 
+A target can also appear in someone else's case. A sentence 'as ЧСИР' (member of a
+traitor-to-the-motherland's family) points to a relative's own entry and case number. That
+relative was not always a husband, and a shared surname does not identify them. A person with no
+file of his own may appear as a witness, or be mentioned, in the investigation files of
+relatives, in-laws or colleagues. Record the interrogation date and his self-reported statements
+from that file. Keep each person's arrest, deciding body, sentence and rehabilitation as separate
+episodes. The [camp-relatives discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=7064),
+a [witness-interrogation example](https://rodgersforum.borda.ru/?1-29-0-00001498-000-0-0-1668855363=)
+and a [relative's-case suggestion](https://rodgersforum.borda.ru/?1-29-0-00000128-000-0-0-1768448567=)
+motivate this. Absence from repression lists does not show that a person was never repressed or
+died naturally. None of these sources establishes a later fate, or a relative's identity without
+documented descriptors.
+
 When a report wrapper explicitly describes attached family correspondence, continue to the
 actual letter and envelope within the available unit. Keep their separate locators, writer,
 soldier and addressee roles, date and literal return/delivery address. Use that dated address
@@ -78,6 +115,20 @@ for a specific locality-list search; a later list's different date, address and 
 remain a separate episode. The [attached-letter example](https://forum.j-roots.info/viewtopic.php?f=197&t=1199)
 motivates this handoff. Unnamed children in a letter do not establish a named parent's edge,
 and a reported attachment remains uninspected until its actual pages are examined.
+
+Read an obtained investigation file for its embedded documents, not only the accusation. The
+arrestee questionnaire or interrogation record may name the spouse, children, siblings and
+parents. Copied identity papers may cite issuing offices and children's birth-certificate
+numbers. A later prosecution's file may hold a petition from an earlier case. Give each item its
+own page locator, date and author, and keep earlier-case papers in their first episode. Treat
+family answers as the arrestee's own statements: they are leads to civil-registry (ZAGS) or
+village-soviet records, not proof of kinship. If two documents list different children, keep both
+versions. The [questionnaire](https://forum.j-roots.info/viewtopic.php?f=64&t=561),
+[interrogation-record](https://forum.j-roots.info/viewtopic.php?f=64&t=558),
+[copied-passport](https://rodgersforum.borda.ru/?1-16-0-00001211-000-0-0-1779216842=) and
+[repeat-prosecution](https://rodgersforum.borda.ru/?1-14-0-00000057-000-0-0-1768992933=) reports
+each describe particular files. They do not show that every file holds such material, or that an
+earlier case file is lost.
 
 For a supported conscription-office/date lead, check confirmed surviving series for the
 conscription-registration entry and its dispatch/command identifier, and separately the

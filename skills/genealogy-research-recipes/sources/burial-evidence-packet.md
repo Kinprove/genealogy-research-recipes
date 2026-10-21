@@ -62,6 +62,23 @@ photographs, database rows and real family examples are not reproduced.
 - **P14:** GeneaVlogger, *Building Lil Dicky's Family Tree*, published 2024-02-23 —
   [video](https://www.youtube.com/watch?v=SKDoU7MJkds). Front-only memorial photographs of Jewish
   stones.
+- **P15:** J-Roots Forum, *Отголоски семейных историй. Тема для пробных постов начинающих
+  генеалогов*, first post 2010-05-16 — [thread](https://forum.j-roots.info/viewtopic.php?f=20&t=5084).
+  Rights: cited reference, not reproduced. Used for burial-certificate files that run parallel to
+  death registers and omit the grave location.
+- **P16:** Уральская генеалогия, *Кладбищенские списки. Некрополи*, first post undated —
+  [thread](https://rodgersforum.borda.ru/?1-7-0-00000136-000-0-0-1774709430=). Rights: cited
+  reference, not reproduced. Used for telling necropolis lists compiled from cemetery documents
+  apart from those compiled from metrical death entries, and for the selectivity of consistory
+  lists.
+- **P17:** J-Roots Forum, *"Мишпоха" - Кладбище в Яновичах*, first post 2020-06-05 —
+  [thread](https://forum.j-roots.info/viewtopic.php?f=208&t=9621). Rights: cited reference, not
+  reproduced. Used for treating painted or chalked letters on photographed stones as an
+  interpretation that must be re-checked, and for reading kohen, Levite and occupation markers as
+  titles rather than surnames (with P18).
+- **P18:** J-Roots Forum, *Не знаете, где спросить? Спросите здесь*, first post 2009-08-24 —
+  [thread](https://forum.j-roots.info/viewtopic.php?f=75&t=7576). Rights: cited reference, not
+  reproduced. Used for attaching a Levite title after a woman's patronymic to her father.
 - **O1:** JewishGen, *JOWBR FAQ*, checked 2026-10-07 —
   [documentation](https://www.jewishgen.org/databases/Cemetery/JOWBR_FAQ.htm).
   Cemetery inventory, source types, nullable fields, patronymic searches, photographs and

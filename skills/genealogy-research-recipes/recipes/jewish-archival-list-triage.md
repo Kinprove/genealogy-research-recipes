@@ -44,6 +44,17 @@ territory relevant, retain its in-scope cases as geographical candidates for rev
 Do not label the entire fund Jewish, assume all years are relevant, or infer a
 person's ethnicity from the administrative boundary.
 
+Search for named lists at town, uezd and guberniya level. Include uezd- and governorate-level
+fiscal creators such as a treasury chamber, not only funds or titles that name a Jewish
+community. A [discussion of uezd-level Jewish lists](https://forum.j-roots.info/viewtopic.php?f=20&t=5084)
+warns that a list titled by uezd may cover only the district outside its uezd town, so check
+its stated territory before treating an absent name as a negative. A
+[discussion of registration societies and neutral case titles](https://forum.j-roots.info/viewtopic.php?f=20&t=4270)
+cites a revision list held under a title that names only the uezd. Before this search, read which society the person's own record names. A burgher society of a place does not prove that no separate
+Jewish society existed there, and the place of registration need not be the place of
+residence. A neutrally titled case is still only a catalogue lead until its pages are
+inspected.
+
 If combining keyword and model-assisted title review, use the same frozen input
 pool, merge by the full case key, and preserve which method proposed each row.
 Agreement between two title classifiers is still title-level evidence. A model's

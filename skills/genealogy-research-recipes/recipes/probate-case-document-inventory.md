@@ -61,6 +61,16 @@ search later volumes across the case's active years.
 system must be established for each court and period; neither source documents the filing system
 of a specific court. [S5]
 
+For a death in Russia in the late Soviet period or later, search the public notarial
+inheritance-case registry by full name. Enter each hit as a candidate case row: death date, case
+number and year, the opening notary or state notary office, and the notarial chamber named for
+further enquiry. Keep same-name hits as separate candidates. An entry may give no birth date or
+only an uncertain one, so confirm identity from independent sources before linking it. Examples in
+a [descendant-search thread](https://rodgersforum.borda.ru/?1-2-0-00001643-000-0-0-1734245901=)
+and a [wartime-relatives thread](https://rodgersforum.borda.ru/?1-23-0-00000042-000-0-0-1730531911=)
+motivate this. An entry does not name heirs or show the file's contents. Neither thread shows the
+file being opened, the registry's starting year, or what a missing entry means. [S16]
+
 ## 2. Resolve every discovered reference into its own inventory row
 
 If the packet has a coded document key, locate the collection's actual master legend before
@@ -105,6 +115,15 @@ evidence that no grant exists. [S13]
 
 **Check:** A will can be indexed while a referenced docket or journal is not. A link to an
 index entry is not a completed retrieval of the document it points to.
+
+When an index or database abstract lists a will's heirs or beneficiaries, record that list as the
+indexer's derived data, separate from the will row. Read the will image itself and compare the two
+name by name. Mark any name that appears in only one of them as a discrepancy. Do not count an
+index-only name as a separate person, and do not drop a will-named child because the index uses a
+different name. Hand the reconciliation, for example against a household census entry, to the evidence
+workflow. A [will-versus-index comparison](https://forum.ahnenforschung.net/forum/thread/2999515-auswanderung-1857-aus-hessen-%C3%BCber-bremen-nach-amerika/)
+motivates this check. It does not explain why the index differs, and it does not show that the
+will is complete. [S15]
 
 Inventory a loose original and a clerk's recorded copy as separate rows with separate locators,
 and record which form each image shows. A will in a will book is usually the court's recorded

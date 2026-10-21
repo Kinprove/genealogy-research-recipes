@@ -11,6 +11,14 @@ original synthesis, applying the existing evidence/proof recipe to these source 
   undated form, first page; opened 18 October 2026. A submitter need not be a relative; the
   instructions permit “Holocaust” when death circumstances are unknown. The recipe interprets
   that allowance narrowly; it does not certify any individual submission's accuracy.
+- **H3:** J-Roots Forum, "Отголоски семейных историй. Тема для пробных постов начинающих генеалогов",
+  first post 2010-05-16, <https://forum.j-roots.info/viewtopic.php?f=20&t=5084>. Rights: cited
+  reference, not reproduced. Used for the reported difference between the original evacuation card
+  (birthplace, nationality) and the summary certificate issued from it.
+- **H4:** J-Roots Forum, thread "Музей Холокоста / Вашингтон", first post 2016-02-12,
+  <https://forum.j-roots.info/viewtopic.php?f=167&t=4906>. Rights: cited reference, not
+  reproduced. Used for examples of USHMM copy collections from Kazakh regional archives whose
+  finding aids describe evacuation files by original file and folio.
 
 ## Verification limits
 

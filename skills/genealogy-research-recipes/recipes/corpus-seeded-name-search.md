@@ -21,6 +21,17 @@ spelling explanations were not verified.
 
 Determine whether each token is a given name, compound-name component, patronymic, surname, occupation or another descriptor. Do not discard an occupational-looking token categorically: it may function as a surname in the particular record. Search the plausible roles separately when unresolved. Neither a descriptive title nor an occupational surname by itself proves that two people had the same occupation.
 
+An index may also have given a token the wrong role. A word repeated in every entry on a register
+page, such as a German 'died' formula, can be indexed as a first name. A copied tree may carry
+another researcher's placeholder for an unknown name, such as Danish 'Ukendt'. The compiler of a
+surname index to a Russian regional-history book cautions that headings formed from given names
+may be patronymics rather than surnames. Before adding such a token to the
+inventory or searching it as a family surname, read the original entries or the indexed page. The
+[register-formula example](https://forum.ahnenforschung.net/forum/thread/928-humoris-causa/) and
+the compiler's caution in a
+[book surname-index thread](https://rodgersforum.borda.ru/?1-7-0-00000258-000-0-0-1776484154=)
+motivate this check. They supply no list of formula words, placeholders or affected headings.
+
 ## Diagnose three different failures
 
 | Failure | Controlled comparison | Limitation |
@@ -35,6 +46,15 @@ Hebrew final letters and Yiddish digraph characters are separately encoded. If n
 
 Removing points does not supply missing vowel letters, convert one surname spelling into another or resolve Hebrew versus Yiddish orthography. Add consonant substitutions only as bounded exploratory lanes motivated by the source, observed OCR errors or linguistic evidence. There is no universal substitution mask that proves coverage of every Slavic name in Hebrew script.
 
+Transcription can also move or replace whole name parts. When an expected entry is missing from a
+transcribed index, test a query with the given name and patronymic swapped, since a man recorded
+as X son of Y may be indexed as Y son of X. Also allow for an indexer who substituted a dissimilar
+local name for a Jewish given name. Run these as separate logged lanes and confirm any hit against
+the record image before using it. A
+[transcribed metrical-index example](https://forum.j-roots.info/viewtopic.php?f=164&t=6963)
+reports both errors in one database. It gives no error rate and does not say which collections are
+affected.
+
 When a record was written in a language or dialect other than the family's, search the recording
 office's form of the name as a separate lane. Church entries may Latinize given names. A French
 administration may write Jean for Johann. A court, military or district office in a High German
@@ -45,6 +65,19 @@ keep the literal form in the inventory. The [Jensen](https://www.youtube.com/wat
 [Minert](https://www.youtube.com/watch?v=cc8_6tNN8C4) and
 [Sinickas](https://www.youtube.com/watch?v=xoY83Sx3ANk) transcripts give examples, not a
 systematic conversion table. A matching form is a candidate, not proof of identity.
+
+Grammatical endings need their own lanes. In German-language registers, a woman's surname may
+carry a feminine -in suffix that is not part of the family name. When such a name is hard to read,
+drop the suffix, keep uncertain first letters open, check the readings against a local family
+book's surname variants and list of wives, then return to the original entry. In Ural and Siberian
+records an indeclinable -ских form may alternate with -ские or -ская for one family, and -ов/-ев
+could be written inconsistently. Search each ending, including feminine and plural forms, and keep
+each literal ending in the inventory. See the
+[family-book example](https://forum.ahnenforschung.net/forum/thread/17915-familienbuch-hajos/),
+the [Ural Civil War thread](https://rodgersforum.borda.ru/?1-23-0-00000012-000-0-0-1714980847=)
+and the [genealogy terms thread](https://rodgersforum.borda.ru/?1-0-0-00000141-000-0-0-1701453218=).
+None gives a rule for which form a clerk used. A family book is a compilation, and identity still
+needs original entries and place and household evidence.
 
 ## Retrieve through another recorded participant
 
