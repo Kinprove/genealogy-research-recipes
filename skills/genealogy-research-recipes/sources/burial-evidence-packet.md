@@ -31,6 +31,12 @@ photographs, database rows and real family examples are not reproduced.
   independently inspected. The saved narration ends mid-phrase and does not establish the
   complete original video's extent.
 
+- **P6:** Genealogy TV, [Great Family History Ideas - Genealogy TV (Podcast)](https://www.youtube.com/watch?v=NMcfeyT55ao),
+  26 September 2025. The saved narration describes reflected or flashlight illumination held
+  to one side during inscription photography. The optional capture instruction and view/uncertainty
+  controls are procedural synthesis. No before/after photographs, recovered inscription or
+  conservation assessment were independently inspected; no physical treatment is prescribed.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of the attributed cemetery, gravestone and burial-record workflows — FSL-1.1-MIT (kinprove-original)

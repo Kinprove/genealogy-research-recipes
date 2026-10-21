@@ -23,6 +23,17 @@ The following dates are video upload dates, not independently established sessio
 - **S9:** *10 Must-Have MyHeritage Databases*, MyHeritage,
   uploaded 2020-07-23 — [video](https://www.youtube.com/watch?v=L5osnrCmc04). Rights: cited reference, not reproduced.
 
+- **S10:** MyHeritage Knowledge Base, [Looking for Info on an Old Family Business? Try School Yearbooks](https://education.myheritage.com/article/looking-for-info-on-an-old-family-business-try-school-yearbooks/).
+  The saved record dates the article to 2021-08-12; that publication date was not independently
+  verified. The author reports a 26-page advertising section in the 1956 Elletian but leaves
+  the Barker storefront-photo search unresolved. No actual advertisement or business identity
+  was independently inspected. Rights: cited reference, not reproduced.
+- **S11:** MyHeritage Knowledge Base, [Using U.S. Yearbooks for Family History Research](https://education.myheritage.com/article/using-u-s-yearbooks-for-family-history-research/).
+  The saved record dates the article to 2021-08-12; that publication date was not independently
+  verified. It supports inspecting rear advertisements/sponsors. Its broad copyright assertion
+  is not adopted. The two articles are teaching accounts from the same publisher, not independent
+  original evidence of a particular business. Rights: cited reference, not reproduced.
+
 Current primary documentation, checked 2026-10-03:
 
 - **H1:** MyHeritage Help, [Historical records search engine](https://www.myheritage.com/help/en/articles/12889277-how-do-i-use-the-myheritage-historical-records-search-engine). Rights: cited reference, not reproduced.

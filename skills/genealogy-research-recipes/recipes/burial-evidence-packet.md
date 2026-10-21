@@ -56,6 +56,11 @@ Open the available photograph and save its URL, cemetery and plot information. K
 original image separate from a working crop or adjusted reading copy. Record which image was
 actually inspected.
 
+For a difficult inscription, an optional second photograph uses light directed from the side
+by a hand-held reflector or flashlight, held clear of the marker. Keep the ordinary-light and
+side-lit views together, label the surface and lighting, and leave uncertain letters unresolved.
+This step does not involve rubbing, cleaning, wetting or touching the marker. [P6]
+
 For a family monument, inspect available views of its front, reverse and lower additions.
 Label the surface shown and keep unseen or unreadable parts explicit. For each named person,
 retain the literal burial-place statement and its image/surface locator separately from the
