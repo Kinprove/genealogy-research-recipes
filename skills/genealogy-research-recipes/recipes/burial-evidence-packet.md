@@ -90,6 +90,13 @@ have GPS information; the cemetery-program tutorial demonstrates using its map t
 marker. Record a supplied coordinate as a coordinate, and a section/plot reference as a separate
 locator. [P2, O1]
 
+If a form can capture the device's current position, use that control only while physically at
+the intended site. When entering information off-site, leave current-position capture unused.
+Retain where the coordinate came from and what point it represents; keep an independently
+supplied coordinate with its source instead of replacing it with the contributor's location.
+Unknown point meaning stays unresolved. The dated Cemetery Registry demonstration motivates this
+capture-origin check, not a guarantee of coordinate accuracy, grave identity or access. [P4]
+
 When the plot cannot be located or the online entry lacks detail, identify the cemetery office
 and prepare a request for the recorded burial and its plot location. The gravestone tutorial
 recommends asking the office before visiting. Give the candidate name, known date, cemetery and

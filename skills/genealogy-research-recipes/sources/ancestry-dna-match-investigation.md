@@ -30,6 +30,12 @@
 - Larkin, Leah. "Working with WATO: Centimorgan Adjustments." The DNA Geek, 2021-06-05; updated 2022-03-29. [Article](https://thednageek.com/working-with-wato-centimorgan-adjustments/) (method 8; independent check of company-specific totals)
 - Leeds, Dana. "The Order of AncestryDNA's Colored Dots." 2023-03-27. [Article](https://www.danaleeds.com/the-order-of-ancestrydnas-colored-dots/) (method 4)
 
+- Dyer, Nicole. "How to Create Custom Clusters with an Unknown Match." Family Locket, 2026-06-12.
+  [Video](https://www.youtube.com/watch?v=1hwGyO2ft4g). Alternate-primary selection after
+  known-branch results. The demonstration reconstructs a previously researched line with
+  a hypothesis already in the tree. No actual matrix or pedigree was independently verified;
+  its thresholds, standard-deviation selection band and repeated-trial advice are not adopted.
+
 ### Relationship-range reference
 
 - [Shared cM Project, DNA Painter](https://dnapainter.com/tools/sharedcmv4): relationship-range reference for the worked example.

@@ -19,6 +19,11 @@ photographs, database rows and real family examples are not reproduced.
   Cemetery inventory, source types, nullable fields, patronymic searches, photographs and
   full-record/cemetery links.
 
+- **P4:** Genealogy TV, [Cemetery Registry in the United States](https://www.youtube.com/watch?v=_H9cfhjSTvE),
+  9 January 2026. Current-device coordinate capture at the site versus off-site entry. The
+  narrated verification label concerns cemetery GPS, not a verified burial or person. No
+  actual coordinate, present form, accuracy or legal access claim was independently verified.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of the attributed cemetery, gravestone and burial-record workflows — FSL-1.1-MIT (kinprove-original)

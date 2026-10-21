@@ -26,6 +26,12 @@ The linked routing, request-receipt and image/timeline schemas are original synt
   [Genealogy Research in Military Records](https://www.archives.gov/research/military/genealogy),
   checked 7 October 2026. Record-type, service category and custodian routing.
 
+- **S5:** Genealogy TV, [Revolutionary War Records for Genealogy Research - Part Two](https://www.youtube.com/watch?v=HdLpafGWn6A),
+  10 July 2020. Searching Southern Campaign pension abstracts for a target mentioned in
+  another applicant's file, then returning to the original. Only the saved teaching transcript
+  was inspected here; the original pension, named people and their service or relationships
+  were not verified. Current hosting, coverage, charges and eligibility rules are not adopted.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

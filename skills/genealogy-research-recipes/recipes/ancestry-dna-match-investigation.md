@@ -34,6 +34,16 @@ Start with 2–4 anchors whose most recent common ancestor and descent path are 
 
 Use Bartlett's (2024-07-19) pass order: very close target relatives first, then relatives above **90 cM to the target**, then those above **about 50 cM**. Repeat from newly identified anchors. Add an anchor when it separates two open hypotheses.
 
+If a retained custom-cluster run seeded from a documented branch mainly returns branches already
+resolved for the question, select one unresolved shared match with an inspectable tree as an
+alternate primary. Treat that match as a research target, not a documented branch anchor. Retain
+both runs with their seed, supplied cohort/settings and sidekicks actually used, then inspect
+returned members' documentary paths. A lower-sharing seed does not establish an older ancestor.
+
+[Nicole Dyer's 2026 demonstration](https://www.youtube.com/watch?v=1hwGyO2ft4g) reconstructs a
+previously explored line; it does not validate discovery performance, and hints generated from
+the research tree remain dependent aids.
+
 Orient SideView's initially anonymous Parent 1/Parent 2 split with known relatives. When a tested biological parent matches you, Ancestry labels the split maternal/paternal automatically.
 
 **Output:** a compact comparison table and the next match that distinguishes the competing paths.

@@ -36,6 +36,15 @@ claimant category, index/series coverage, current custodian, retrieval route and
 **Check:** A service record is not a pension file. A pension-index miss describes that search,
 not proof that no application exists in any series.
 
+Where an available pension-abstract or full-text collection covers the question, search
+supported target-name forms in the text as well as the claimant index. The target may appear in
+another applicant's file. Retain the actual applicant/file locator and the abstract passage,
+then seek that file and inspect the named person's stated role in the original document. Keep an
+unresolved locator or identity open; a mention does not establish that the target applied for a
+pension, served in the stated unit or was related to the applicant. The Southern Campaign
+teaching example motivates this route without verifying the narrated case or promising
+comprehensive coverage. [S5]
+
 ## 2. Preserve the complete index-card locator
 
 1. Open the index image when available. Copy the soldier and applicant names, service designation,
