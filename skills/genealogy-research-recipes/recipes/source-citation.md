@@ -20,6 +20,17 @@ Keep the record's creation date separate from the date you viewed it. Preserve a
 mapping between archive and film identifiers when available. An index entry and an inspected
 original image have different retrieval paths; record which one you used.
 
+If a cited web URL no longer resolves, try that original URL in the Wayback Machine.
+If an archived copy opens, inspect what it actually contains and retain the original URL,
+archived-capture URL and timestamp, and your access date separately. Cite the capture you
+inspected; its timestamp is not the record's creation date. Missing captures or linked material
+remain gaps.
+
+The [historical lookup example](https://www.youtube.com/watch?v=OHDYkHli39k) motivates this
+fallback. [Internet Archive's capture-data documentation](https://archive.org/help/wayback_api.php)
+(updated 2013-09-24; text checked 2026-10-21) describes snapshot links and timestamps;
+the citation and gap controls are Kinprove synthesis.
+
 ## Connect the citation to the evidence
 
 Attach the citation or its local handle to each extracted observation. Preserve the literal
