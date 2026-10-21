@@ -28,6 +28,7 @@ draw on each source.
 | S21 | James Tanner / BYU, Using Local and State Censuses for Genealogical Research | 2025-02-11 | 5 |
 | S22 | Genealogy TV, [Secret Gems on Ancestry](https://www.youtube.com/watch?v=1lrFNBWKwzo) | 2024-02-09 | 4: missing-heading fallback |
 | S23 | Genealogy TV, [How to Use Excel for Genealogy](https://www.youtube.com/watch?v=eONcu9lTbYY) | 2022-06-24 | Output schema: age-calculation exception |
+| S24 | Family Locket, [RLP 123: African American Research Part 3](https://www.youtube.com/watch?v=YSF4GCv61kg) | 2020-11-16 | 6: identified WPA/CCC personnel-record lead |
 
 S22's saved transcript describes consulting 1790 and 1800 blank forms when original
 headings are missing. Matching the actual schedule and retaining uncertain assignments
@@ -39,6 +40,11 @@ and removing the infant before filling relative references. Preserving the perso
 literal source value while leaving the calculation unresolved is an authored safeguard.
 The workbook, stored cell types, complete corrected output and a normalization method were
 not inspected or validated; no downstream row mismatch or current software rule is asserted.
+
+S24 describes the 1940 emergency-work reference week and separate WPA/CCC personnel
+pointers to NARA in St. Louis. The program-identification and current-guide checks are
+authored safeguards. No original census entry, personnel file, current series/custody or
+request form was inspected; the narration does not establish an NYA route or military service.
 
 ## Credits
 

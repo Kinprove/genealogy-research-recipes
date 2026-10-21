@@ -198,6 +198,15 @@ supplies the fallback; these alignment checks do not certify a particular origin
 
 **Checkpoint:** Use the markings on the actual form. Amy Johnson Crow demonstrates a 1950 sample-line-4 example, so a summary listing only other sample lines is incomplete. A crossed-out entry needs its associated note before interpretation.
 
+When an identified WPA or CCC connection accompanies a 1940 emergency-work entry,
+follow it to civilian personnel or application records. Preserve the entry's reference
+week; a generic yes or program names printed in the question do not identify a program.
+[Family Locket's discussion](https://www.youtube.com/watch?v=YSF4GCv61kg) [S24] points to
+WPA and CCC records at NARA in St. Louis. Use that historical pointer to find the identified
+program's current series, custodian and request guide before requesting. Leave other or
+unknown programs unresolved; no NYA route is supplied here. CCC files may name camps;
+civilian service is not military service.
+
 **Example prompt:** “Extract this household, its marked supplementary questions, and every linked note. Preserve the person-to-line mapping and distinguish blank, unreadable, not asked, and explicit no.”
 
 **Method origin:** Genealogy TV demonstrates matching a 1940 person to the bottom section. Amy Johnson Crow demonstrates a 1950 sample-line-4 entry and separately discusses locating and linking enumerator notes. The note transcript is incomplete, so specific biographical details from its examples are not adopted. [S7](https://www.youtube.com/watch?v=JJY4EKK_sVg), [S19](https://www.youtube.com/watch?v=jA10V_GJcio), [S8](https://www.youtube.com/watch?v=ZzrQQz4BIT4)
