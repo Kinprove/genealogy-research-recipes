@@ -56,6 +56,13 @@ Open the available photograph and save its URL, cemetery and plot information. K
 original image separate from a working crop or adjusted reading copy. Record which image was
 actually inspected.
 
+For a family monument, inspect available views of its front, reverse and lower additions.
+Label the surface shown and keep unseen or unreadable parts explicit. For each named person,
+retain the literal burial-place statement and its image/surface locator separately from the
+monument's physical cemetery and plot. A family monument can name people buried elsewhere;
+compare their location statements with available burial records instead of assigning everyone
+named on the monument to its plot. Unresolved burial locations stay open. [P5]
+
 For a bilingual stone, transcribe the Hebrew and secular-language portions separately. The
 gravestone tutorial demonstrates the deceased's Hebrew given name and the father's Hebrew name
 as useful leads that can be absent from the secular portion. Preserve the raw wording, the

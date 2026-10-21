@@ -24,6 +24,13 @@ photographs, database rows and real family examples are not reproduced.
   narrated verification label concerns cemetery GPS, not a verified burial or person. No
   actual coordinate, present form, accuracy or legal access claim was independently verified.
 
+- **P5:** Genealogy TV, [Tombstones Hidden Secrets - Learn Genealogy Research (How to Research Your Family Tree) - Tiny Tip](https://www.youtube.com/watch?v=MXcC-gpSLSg),
+  11 September 2018. The narrated family monuments have inscriptions on multiple surfaces
+  and name people reportedly buried elsewhere. Surface coverage and person-specific location
+  fields are procedural synthesis; no original inscription, burial record or identity was
+  independently inspected. The saved narration ends mid-phrase and does not establish the
+  complete original video's extent.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of the attributed cemetery, gravestone and burial-record workflows — FSL-1.1-MIT (kinprove-original)
