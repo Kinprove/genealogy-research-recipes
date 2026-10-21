@@ -32,6 +32,15 @@ the compiler's caution in a
 [book surname-index thread](https://rodgersforum.borda.ru/?1-7-0-00000258-000-0-0-1776484154=)
 motivate this check. They supply no list of formula words, placeholders or affected headings.
 
+In some German registers, a person appears as 'X gnt. Y' (genannt). X is usually the birth or
+earlier surname and Y a farm or house name. A man who married onto a farm, or a later spouse of its
+widow or widower, may take the farm name. Names can also stack ('X gnt. Y gnt. Z'). Record each
+part separately, and search the birth surname and every farm name as separate lanes. A shared farm
+name links people to a holding; by itself it does not show blood kinship. A
+[chain-marriage example](https://forum.ahnenforschung.net/forum/thread/928-humoris-causa/)
+motivates this step. It does not show how widespread the custom was or how consistently clerks
+wrote it.
+
 ## Diagnose three different failures
 
 | Failure | Controlled comparison | Limitation |
@@ -79,6 +88,15 @@ and the [genealogy terms thread](https://rodgersforum.borda.ru/?1-0-0-00000141-0
 None gives a rule for which form a clerk used. A family book is a compilation, and identity still
 needs original entries and place and household evidence.
 
+Latin inflection needs its own lanes too. A Latin church entry may name a child's father in the
+genitive, so both the given name and a Latinized surname end in -i instead of the nominative form.
+An indexer may misread such an ending as a new name. Early-modern university matriculations may
+Latinize the surname with an -us ending and add adjectival words for town or nation after it.
+Search the nominative, the inflected Latin form and a reconstructed vernacular form as separate
+lanes. Keep the literal entry, and do not search origin adjectives as surnames. The
+[Latin register-name examples](https://forum.ahnenforschung.net/forum/thread/928-humoris-causa/)
+give two instances and no conversion rules. A reconstructed vernacular name is only a candidate.
+
 ## Retrieve through another recorded participant
 
 When the target name may be misread, try an independently known co-listed household member
@@ -93,6 +111,14 @@ Use only syntax supported by the actual field, without transferring another data
 Before interpreting zero results, try an independently known positive that the same field and scope should retrieve. Distinguish catalogue author/title, body-text OCR, typed name fields and free text. If the control fails, investigate scope, access or field behaviour; report the failed control rather than the target's absence. A functioning website does not establish a functioning within-book index.
 
 Remote services may normalize differently from local code. Submit original and transformed queries separately and compare returned identifiers. Check only the syntax needed for the task; do not transfer local regex, wildcards or Boolean syntax to an undocumented interface.
+
+A site search can silently drop one query term. Some engines ignore words outside a length range or
+on a common-word list, then return results for the remaining words. A multi-word result list may
+therefore not contain the target at all. Read any ignored-terms notice even if its stated reason
+looks wrong, and compare each term with the engine's stated limits. Retry an over-long name as a
+shorter stem with a wildcard, and confirm that hits contain the target. The
+[forum-search test](https://forum.j-roots.info/viewtopic.php?f=181&t=9163) documents one
+installation's configurable limits. Other sites differ, and a stem can match unrelated words.
 
 Some lists, registers and card indexes are arranged alphabetically and may need to be browsed in
 filing order when a name search fails. Before you report a name as absent from one, find out how

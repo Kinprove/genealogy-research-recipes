@@ -30,6 +30,7 @@
 26. *Using DNA to Uncover Max Miller's Hidden Ancestry* — GeneaVlogger (YouTube), 2024-10-12 — <https://www.youtube.com/watch?v=9RYQTQzo45I> — confirmation through the candidate's other parental side. Rights: cited reference, not reproduced.
 27. *Building Taylor Swift's Paternal Family Tree* — GeneaVlogger (YouTube), 2024-01-05 — <https://www.youtube.com/watch?v=qg_l4olzWYI> — 'identified children' wording. Rights: cited reference, not reproduced.
 28. *DNA Tests Are NOT Magic! Here's What You Forgot to Do* — Family History Fanatics (YouTube), 2025-05-19 — <https://www.youtube.com/watch?v=wCYIda-4sfk> — motivates the city-directory opportunity comparison between DNA-indistinguishable brothers. Rights: cited reference, not reproduced.
+29. *Cuckoldry* — GenArchivist Forum, undated — <https://genarchivist.net/showthread.php?tid=1838> — Rights: cited reference, not reproduced. A single case in which consistently halved sharing on one line, no unplaced matches and an excess of matches on another line pointed, through descendancy tracing, to a likely biological father from an already-related family.
 
 Additional primary reference checked 2026-10-18:
 [DNA Painter, original WATO FAQ](https://dnapainter.com/help/wato-faq) — the

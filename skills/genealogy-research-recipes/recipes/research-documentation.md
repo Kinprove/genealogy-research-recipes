@@ -27,6 +27,14 @@ the logged search as a new dated row. Do not overwrite the old row. The
 re-check. An update notice does not show that the target place or period was added, so confirm the
 new coverage before expecting a hit.
 
+When a database displays only a fixed maximum number of hits, a list that reaches that cap may be
+incomplete, so a target missing from it is untested, not a NIL. Narrow the query, for example to
+one record category and one year range at a time, until each slice returns fewer hits than the cap.
+Log each slice as its own row with the category and range used. A
+[J-Roots database-search tip](https://forum.j-roots.info/viewtopic.php?f=20&t=5084) motivates this
+for one site's 100-record display. Check each tool's actual cap. A completed set of slices still
+covers only that database.
+
 If searches went unlogged, a browser-history export for that period can list the pages to reopen.
 Rebuild each citation and log row from the reopened record page, not from the URL, and mark these
 rows as reconstructed after the fact. History lists the URLs of visited pages. It does not show
@@ -46,6 +54,15 @@ Record which names you deliberately searched in each resource, with the date and
 A name met incidentally while extracting other surnames is an occurrence, not a completed
 search for that name; queue that search separately. The [extraction-log example](https://dna-explained.com/2024/06/14/genealogy-proof-series-extracting-and-recording-data-so-that-you-can-find-it/)
 motivates this distinction without requiring every name to be transcribed.
+
+For women in a parish's metrical books, a per-surname extraction table can hold two marriage lists
+besides family groups: brides born with the surname, and brides who married into it. Record any
+prior married surname each entry gives. A widow recorded without a maiden name can then be traced
+back one marriage at a time to her first marriage, which states her birth surname. Each link is a
+candidate until the original entry is reread. Ages at remarriage may be unreliable, and the lists
+cover only the books extracted. A
+[metrical-book marriage-table example](https://rodgersforum.borda.ru/?1-0-0-00000238-000-0-0-1721744472=)
+demonstrates this chaining.
 
 ## Turn locality coverage into the next searches
 

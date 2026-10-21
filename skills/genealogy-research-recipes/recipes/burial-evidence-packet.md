@@ -111,6 +111,14 @@ as useful leads that can be absent from the secular portion. Preserve the raw wo
 person's stated role and uncertain letters before adding a translation. Do not require every
 stone to contain the same fields. [P1, O1]
 
+On a short formulaic Hebrew epitaph, transcribe the descriptor before the name as its own field:
+for example איש or אשה, הבתולה (maiden), הבחור (young man) or הישיש (old man). Use it as a possible
+life-stage or marital-status clue when comparing candidates. Do not turn it into an age or a proven
+marital status. Leave a doubtful term unresolved. In the
+[epitaph-descriptor discussion](https://forum.j-roots.info/viewtopic.php?f=208&t=9621), the sense
+of החתן (groom, young man or something else) stayed disputed; one participant only tentatively
+settled on "young man".
+
 Before treating a word on a Hebrew stone as a surname, check whether it is a status or occupation
 marker, such as כ"ץ for a kohen, הלוי for a Levite, or, less certainly, שו"ב for a ritual
 slaughterer. Record the literal letters and the proposed expansion separately. Assign the title to
@@ -119,6 +127,15 @@ person in the locality's records for the period by given name and father's name 
 apparent surname. The [matzevah-reading discussion](https://forum.j-roots.info/viewtopic.php?f=208&t=9621)
 and [title question](https://forum.j-roots.info/viewtopic.php?f=75&t=7576) motivate this. כ"ץ (Katz) can be a real surname in other contexts, and neither thread proves an identification. A conflict such as
 'bar' followed by a female name stays unresolved until the image is checked.
+
+Treat ר' or 'Reb' before a man's name on a stone as an honorific, not evidence of rabbinic
+ordination. Likewise, do not turn 'Rabbi' or 'Rev.' in later family or community sources into the
+occupation rabbi. Record the literal title. Then look for period or scholarly accounts of what the
+person actually did, such as ritual slaughterer, teacher or prayer leader. The
+[title-and-ordination discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) motivates
+this. It sets a tombstone reading beside community histories that describe the man's roles and
+mention no ordination. Usage varied by period and community; the title alone neither proves nor
+rules out ordination.
 
 Keep the dates separately:
 
@@ -133,12 +150,30 @@ Keep the dates separately:
 **Check:** An unread inscription, missing date or unverified conversion stays unknown. The
 packet records the source statements and does not select a final death date. [P1, O1]
 
+When an inscription dates the death by a festival day or its abbreviation, such as אחש for the
+last day of Pesach, expand it to the Hebrew calendar day before any Julian or Gregorian
+conversion. Keep the literal phrase, the expansion and the reference used as the basis in the
+Converted date row. Check the day against the community's festival practice, and convert only when
+the year has been read. Do not replace the phrase with an approximate 'around Passover'. The
+[festival-date discussion](https://forum.j-roots.info/viewtopic.php?f=208&t=9621) motivates this
+with one abbreviation glossed by a link. It sets no conversion rules.
+
 If a source reports reinterment or a replacement marker, retain original burial, reported
 transfer and later marker installation as separate source-linked events. Keep original and
 present cemetery/plot locators separately; seek the relocation or register evidence for an
 unresolved transfer. A new marker does not date the burial or identify the remains. The
 [George Estes dedication example](https://dna-explained.com/2023/09/19/calling-all-descendants-of-george-estes-1763-1859-youre-invited-to-his-revolutionary-war-grave-dedication-52-ancestors-410/)
 motivates this event chain without independently verifying the reported relocation.
+
+In a damaged or cleared cemetery, compare the present enclosure with any dated map of its former
+extent. Record the areas outside the boundary as lost or not examined, so that a missing stone is
+not read as absence of burial. For a stone recovered from a pile or dump, or reset in a special
+row, record where it was found, the project's stone number or marking, and whether the reset spot
+is reported as its original place. A displaced stone's present position does not locate the grave
+and supports no neighbour inference. The
+[cemetery-restoration discussion](https://forum.j-roots.info/viewtopic.php?f=208&t=9621) motivates
+this. It does not show how original positions were determined, and its burial-count estimate is
+simple arithmetic.
 
 ## 4. Carry the hit to the plot and cemetery records
 
@@ -153,6 +188,16 @@ and prepare a request for the recorded burial and its plot location. The gravest
 recommends asking the office before visiting. Give the candidate name, known date, cemetery and
 any existing locator; request the corresponding register entry or available burial information.
 Send the request only when contact is authorized. [P1]
+
+Before treating a missing or unfindable marker as a wrong lead, ask the cemetery office about the
+grave's type and status when contact is authorized. Is it a war grave? Was the stone removed, for
+example as unstable? Record any reported grave status and the current section, row and number
+beside the original locator. If the office reports an anonymous interment, ask for the recorded
+burial field and log it as the locator of an unmarked burial. The
+[Berlin grave-photo request thread](https://forum.ahnenforschung.net/forum/thread/19335-fotow%C3%BCnsche-berlin-wer-braucht-fotos-von-berliner-grabstellen-kirchen-h%C3%A4user/)
+motivates this. Its report that a war grave survives and its advice that the office can name the
+field of an anonymous burial are local forum statements; the thread does not show a field being
+released, and grave-retention rules vary by cemetery and period. [P19]
 
 Custodians may produce only what is asked for by name. Request each record type separately:
 interment register, plot purchase or deed, burial or grave-opening permit, transit permit,

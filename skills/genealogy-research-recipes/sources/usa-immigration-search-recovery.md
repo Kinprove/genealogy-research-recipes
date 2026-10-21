@@ -110,7 +110,8 @@ the relevant workflow. Community references:
 28. Ahnenforschung.net Forum, *Auswanderung USA*, first post 22 November 2021.
     <https://forum.ahnenforschung.net/forum/thread/185403-auswanderung-usa/> — Rights: cited
     reference, not reproduced. Used for the warning that manifest visa numbers do not locate
-    USCIS visa files, which need an index search first, and for the limited contents to expect.
+    USCIS visa files, which need an index search first, and for the limited contents to expect;
+    also used for searching British inbound passenger lists for a return leg through Britain.
 
 ## Credits
 

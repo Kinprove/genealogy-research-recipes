@@ -27,6 +27,15 @@ Keep the record's creation date separate from the date you viewed it. Preserve a
 mapping between archive and film identifiers when available. An index entry and an inspected
 original image have different retrieval paths; record which one you used.
 
+A cropped image or transcription of one register entry often loses the page header, so it may
+carry no year or place. While the full page is still open, record those values from the page
+header or margin next to the crop's locators. A
+[metrical-book screenshot collection discussion](https://forum.j-roots.info/viewtopic.php?f=181&t=4753)
+motivates this step. A
+[church-book transcription anecdote](https://forum.ahnenforschung.net/forum/thread/928-humoris-causa/)
+shows the same loss when the date stands only in a heading or margin. Neither source supplies the
+crop's archival signature, which still needs its own locator.
+
 An archive can renumber an inventory, so file numbers in older extracts may no longer match its
 current numbering. Record the file number as you found it, and mark whether it follows the old or
 the current numbering. A
@@ -34,6 +43,24 @@ the current numbering. A
 motivates this step: the poster notes that the numbers in his old extracts predate the renumbering
 and labels one file number as new. It does not give a concordance or say when the renumbering
 happened.
+
+An entry number alone may not identify one entry when a register section runs more than one
+numbering sequence. Cite the entry by file, leaf and side, section, sequence (in this example,
+apparently one for males and one for females), number and date as written. A
+[metrical-book transcription](https://rodgersforum.borda.ru/?1-7-0-00001326-000-0-0-1780129313=)
+motivates this step. In one year's deaths section, two sequences interleave, so the same numbers
+appear twice. The transcription does not explain the page layout. It does not show that every
+parish or year numbered entries this way, so check the image before choosing the sequence.
+
+When a printed local history cites archive files for a passage, cite the book and page as the
+source you actually read. Record the author's fond, inventory, file and folio citation in its own
+field as a lead to the original. Do not record it as an inspected source. Keep any hedge as given:
+if a citation is marked only as a possible source, record it that way, and note whether the book
+or the person excerpting it supplied the citation. A
+[local-history excerpt thread](https://rodgersforum.borda.ru/?1-7-0-00000258-000-0-0-1776484154=)
+shows both kinds of citation as posted by a forum member; it does not show which of them the book
+prints itself. It does not establish that the cited files exist under those numbers today or that
+they contain the paraphrased content.
 
 Before you record a URL, test whether it reopens the specific entry in a new session. Some
 search-result URLs expire, and some only reopen the search form. If so, save a capture of the

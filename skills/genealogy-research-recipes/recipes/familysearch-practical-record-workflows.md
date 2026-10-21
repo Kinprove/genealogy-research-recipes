@@ -247,6 +247,13 @@ kinship.
 4. Compare material names, dates and legal roles in the AI transcript with the image; preserve uncertain readings.
 5. Build any summary from the corrected reading of that document.
 
+Before reading a register page as complete, do not assume the adjacent image shows the neighbouring
+page: some registers had left and right pages filmed separately, so the pages before and after may
+lie elsewhere in the same group. Record the image numbers of every page you use. A
+[split-page filming discussion](https://forum.ahnenforschung.net/forum/thread/3014856-r%C3%A4tselhaft-zwei-ehen-gleichzeitig-in-einem-jahr/)
+flags a baptism film whose preceding and following pages lay more than a hundred images away from the
+cited image. It does not say how those pages were found or how common such filming is.
+
 **Artifact:** An image sequence, document-boundary map, original/corrected transcript and source-linked summary.
 
 **Check:** Every material claim traces to an image. A page summary can combine several documents, and a deed-book entry may be a clerk's copy. The tutorials disagree on availability of a transcript-editing control, so no editing button is required by this workflow.

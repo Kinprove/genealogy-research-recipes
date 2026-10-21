@@ -84,6 +84,14 @@ for a whole-tree replacement, also the old/new kit-profile crosswalk and observe
 5. Save empty results with their actual query, kit, filters and date. Do not fill an unshown DNA
    measurement with zero or infer that a person outside the list has no shared DNA.
 
+Outside the DNA Matches list, MyHeritage's tree-based Cousin Finder lists relatives found through
+family trees, including people who may never have tested. Record each entry as a tree assertion
+that is only as good as the trees behind it. Do not treat it as a DNA match or a DNA-supported
+relationship, and do not give it shortlist cM fields. In a
+[Cousin Finder discussion](https://genarchivist.net/showthread.php?tid=1549), one user reports that
+the "DNA Match" marker indicates results on MyHeritage (tested there or uploaded), and that some
+relatives who tested elsewhere appear unmarked. So do not read a missing marker as untested; check other companies, or ask the relative when contact is authorized, before planning a test.
+
 **Output:** shortlist rows and a search log, including filtered negative searches.
 
 ## 3. Use labels for branches, notes for evidence, and favorites for follow-up

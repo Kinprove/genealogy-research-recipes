@@ -50,6 +50,15 @@ their numeric presets):
   Hunters*, 2020-11-13 — [interview](https://www.youtube.com/watch?v=zvZhuusSROY). Used for
   keeping one of a person's several uploads active for matching; the interview reports that several
   active uploads could produce repeated rows, which is not verified as current behaviour.
+- **S17:** МолГен, *Аномальные китайцы?*, 2022-09-23 —
+  [discussion](https://forum.molgen.org/index.php/topic,14468.0.html). Used for checking a kit's
+  whole One-to-Many profile (many large totals with small longest segments) and the top matches'
+  own lists before reading a total as a relationship; cause and thresholds are not established.
+  Rights: cited reference, not reproduced.
+- **S18:** МолГен, *GEDmatch Genesis*, 2017-06-22 —
+  [thread](https://forum.molgen.org/index.php/topic,10116.0.html). Used for recording each kit's
+  vendor and export format with a run, since some vendors' raw files are reported unsuitable for
+  GEDmatch; no test or cause is shown. Rights: cited reference, not reproduced.
 
 GEDmatch-hosted documentation and tutorials, retrieved 2026-10-04. Retrieval confirms the public
 page's contents; it does not verify the signed-in interface or current access level:

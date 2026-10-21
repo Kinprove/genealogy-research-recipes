@@ -21,6 +21,10 @@ screenshots, catalog entries and real family examples are not reproduced.
   arrangement of these books, the warning that external indexes of them are incomplete, and for
   giving Polish and Russian surname forms and spelling variants when requesting Congress Poland
   register entries.
+- **C2:** J-Roots Forum, *Нужно мнение коллег*, first post 2015-09-22 —
+  [thread](https://forum.j-roots.info/viewtopic.php?f=4&t=4667). Rights: cited reference, not
+  reproduced. Used for the warning that many 20th-century Polish civil-status registers are still
+  held by the local Urząd Stanu Cywilnego rather than the state archive.
 
 ## Credits
 

@@ -98,6 +98,16 @@ known-relative control has a saved result. Record unavailable controls explicitl
    match-list scope and readiness. Re-run with comparable exposed controls; retain both original
    reports. Do not lower the threshold simply to recover a desired match.
 
+Before following a candidate, read the focal kit's whole match-list profile. When a kit returns
+many rows with large shared totals whose longest segments stay small, open several of its top
+matches' own One-to-Many lists. If those show no comparable inflation, mark the kit
+`profile anomalous` and do not convert its totals into relationships. Record each kit's vendor
+and export format with the observation. An
+[anomalous match-list thread](https://forum.molgen.org/index.php/topic,14468.0.html) and a
+[vendor-upload discussion](https://forum.molgen.org/index.php/topic,10116.0.html) motivate the
+check. Neither establishes a cause (population background, chip or file artifact, or altered
+data) or sets any threshold, and neither verifies which vendors' files are unsuitable.
+
 Keep every displayed match-list column as reported, but mark any estimated generation or
 relationship column as derived from the shared total. A derived value is not a second
 observation. Do not add it to the cM figure as corroboration, and do not convert it into a cousin

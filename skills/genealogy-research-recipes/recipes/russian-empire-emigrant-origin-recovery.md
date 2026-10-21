@@ -187,6 +187,16 @@ and citizenship records for origin clues. Search later-arriving relatives and fe
 clearer locality wording, using the chronology to test whether they belong to the same family
 network. [S1, S3, S4]
 
+When records turn up several people with the destination contact's name, give each namesake a
+separate row: birth, arrival and naturalization data, plus the dated addresses from censuses and
+citizenship papers. Before linking any of them to the traveler, compare each dated address with the
+manifest's contact address. A
+[contact-namesake discussion](https://forum.ahnenforschung.net/forum/thread/185403-auswanderung-usa/)
+shows this check. The candidates' 1925 and 1930 census addresses did not quite match the manifest
+address, and one candidate's naturalization address was only nearby. A nearby street or a similar
+year narrows the field but does not identify the contact. The link to the traveler's home district
+still has to be tested.
+
 Only after the target's own, family and contact records give no usable origin, and when the surname
 is genuinely rare, build a separate surname survey as a lead list. Record each passenger-list or
 other origin-bearing entry for the surname with its stated place, place role, date and locator.
@@ -240,6 +250,15 @@ or reporting date; resolve the locality before selecting a modern country's arch
 localities, the JewishGen Communities Database supplies historical names/jurisdictions, including
 Yiddish variants. Its omission of a village does not show that no Jews lived there; use its Gazetteer
 and relevant historical gazetteers/maps for additional candidates. [S6, H6]
+
+When a place string on a passenger list cannot be identified, compare its doubtful letters with the
+same letter groups in other words on the page. Then test
+whether the string is a German transcription of a Slavic name (for example, Sch for Ш) and enter
+each resulting candidate in the competing-locality table. In a
+[manifest place-reading discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667), one
+participant read an unrecognised name as Schomer, comparing the same letter group elsewhere on the page, and
+participants considered Zhitomir. The thread shows no confirming record, so a reconstructed reading
+stays a candidate and is not the locality.
 
 A place name that matches a guberniya or a major city can be a province-level or nearby-city answer
 rather than the town of origin. Before entering Kovno, Vilna, Warsaw or a similar name as a town

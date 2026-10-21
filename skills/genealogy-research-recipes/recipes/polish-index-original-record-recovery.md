@@ -53,6 +53,14 @@ record type and archive; **PRADZIAD does not contain scans**. To investigate sca
 the supplied reference code into the archival fonds, then open **List of files**. The official
 instructions say that the file list shows available units and scan counts. [O1]
 
+Do not infer the parish's location from the city of the holding archive. A [Polish
+archive-holdings discussion](https://forum.j-roots.info/viewtopic.php?f=165&t=470) shows that a
+register answered by a Warsaw archive came from an Archiwum Główne Akt Dawnych (AGAD) inventory of
+registers from the "eastern territories", not from a Warsaw parish. Identify the fonds, its
+inventory and the unit signature, and treat the parish's location as unresolved until that
+description or another source places it. Record whether the signature has scans. The source covers
+only this inventory, not AGAD's full scope or current scan coverage. [C1]
+
 **Output:** `description URL | creator/locality | confession | record type | described years |
 archive | full fonds reference | unit/year needed | scans listed`.
 
@@ -93,6 +101,14 @@ In Szukaj's vital-record results, **no fonds** means that the fonds is currently
 that website. It does not mean the archival documents never existed. If the needed unit has no
 online image, preserve its reference and prepare an image/copy request to the identified holder;
 contact remains a separately authorized action. [O1]
+
+For a 20th-century civil-status register, do not assume the state archive is the holder. A
+[civil-registry custody discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) reports
+that many such books are still held by the local civil registry office (Urząd Stanu Cywilnego).
+When the archive's catalog shows no unit for a recent year, check the current USC custody for that
+locality before sending the request. Do not label the record missing. The source states no transfer
+threshold, so confirm current custody rules and the office's actual holdings rather than inferring
+a cutoff year. [C2]
 
 For a Congress Poland (Kingdom of Poland) register from roughly the late 1860s onward, expect the
 original entry to be written in Russian. When preparing the request, give the surname in both

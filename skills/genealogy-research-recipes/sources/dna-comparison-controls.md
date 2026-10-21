@@ -47,6 +47,50 @@ the described scope; it does not verify a signed-in account or every kit generat
 - **H11:** GeneaVlogger, [Answering Live Genealogy and DNA Test Questions](https://www.youtube.com/watch?v=W278DGiDKq0),
   published 2025-07-12. Used for the point that a low minimum for later segments raises a
   vendor's totals; the charted threshold values are not adopted.
+- **H12:** GenArchivist Forum, [The quality is deteriorating - 435k vs 677k snps](https://genarchivist.net/showthread.php?tid=2449),
+  first post 2026-03-13; [Y and X SNPs missing in new myHeritage raw data?](https://genarchivist.net/showthread.php?tid=1739),
+  first post undated; [MyHeritage upgrades its consumer DNA test to whole-genome sequencing](https://genarchivist.net/showthread.php?tid=1999),
+  first post undated; [Additional lines/rsids in 23andMe raw data file](https://genarchivist.net/showthread.php?tid=729),
+  first post 2024-04-14. Rights: cited reference, not reproduced. Used for inventorying each
+  raw file by download date, header and per-chromosome counts, for comparing two files' SNP sets
+  and no-calls directly because the same format label covered different marker sets, and for
+  keeping file counts separate from a tool's usable counts; reported vendor policies are not
+  adopted.
+- **H13:** GenArchivist Forum, [FTDNA is updating Family Finder](https://genarchivist.net/showthread.php?tid=2412),
+  first post 2026-02-24. Rights: cited reference, not reproduced. Used for recording the assay
+  generation of each file; the reported batch and date cutoffs are not adopted.
+- **H14:** МолГен forum, [WGSExtract, FASTQ и разные референсные геномы](https://forum.molgen.org/index.php/topic,14971.0.html),
+  first post 2023-09-09. Rights: cited reference, not reproduced. Used for building a
+  WGS-derived comparison file in the comparison data's reference build instead of lifting
+  coordinates over, and for screening a derived file's summary statistics (no-call share,
+  heterozygosity) before treating it as comparison input; the posters' figures and causal
+  hypotheses are not adopted.
+- **H15:** GenArchivist Forum, [Sampling by Country for YFull and FTDNA](https://genarchivist.net/showthread.php?tid=106),
+  first post undated. Rights: cited reference, not reproduced. Used for treating excess
+  heterozygosity, sex-chromosome calls inconsistent with known sex, and implausible matches to
+  known samples as signs of a bad sequencing-derived file.
+- **H16:** GenArchivist Forum, [Dante's hell](https://genarchivist.net/showthread.php?tid=1345),
+  first post 2024-12-21. Rights: cited reference, not reproduced. Used for the point that a
+  variant-only VCF yields limited chip-format data and that a BAM rebuilt from a VCF adds no
+  coverage, so BAM/CRAM is the conversion source.
+- **H17:** GenArchivist Forum, [MyHeritage Update June 2024](https://genarchivist.net/showthread.php?tid=939),
+  first post 2024-06-27. Rights: cited reference, not reproduced. Used for converting a WGS BAM
+  to a chip-format raw file before upload, which makes the uploaded kit a derived input.
+- **H18:** МолГен forum, [GEDmatch Genesis](https://forum.molgen.org/index.php/topic,10116.0.html),
+  first post 2017-06-22. Rights: cited reference, not reproduced. Used for keeping one match's
+  several platform kits as separate rows with their compared-SNP overlap; the poster's causal
+  explanation is not adopted.
+- **H19:** МолГен forum, [LivingDNA](https://forum.molgen.org/index.php/topic,10423.0.html),
+  first post 2017-10-27. Rights: cited reference, not reproduced. Used for recording
+  self-conversion and receiving-site imputation per kit when one match's total differs widely
+  between services; the chip SNP counts and imputation confidences are not adopted.
+- **H20:** GenArchivist Forum, [Timber is deeply, deeply flawed](https://genarchivist.net/showthread.php?tid=137),
+  first post undated. Rights: cited reference, not reproduced. Used for comparing another
+  vendor's total with Ancestry's unweighted figure rather than its Timber-adjusted total.
+- **H21:** GenArchivist Forum, [Multiple AncestryDNA Tests](https://genarchivist.net/showthread.php?tid=905),
+  first post 2024-06-17. Rights: cited reference, not reproduced. Used for treating a direct
+  comparison in another tool, made when an Ancestry match is missing or reduced, as a separate
+  measurement.
 
 ## Synthesis boundaries
 

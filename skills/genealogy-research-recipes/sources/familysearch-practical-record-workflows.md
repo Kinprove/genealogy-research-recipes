@@ -56,6 +56,7 @@
 - **S52:** BYU Family History Library (Kathryn Grant), *Duplicates in Family Tree, Part 1: Why They're There and How to Find Them*, published 2020-06-23 — [source](https://www.youtube.com/watch?v=pdqsz950wnc). Used for extraction duplicates as a source of repeated records.
 - **S53:** BYU Family History Library (James Tanner), *Evaluating FamilySearch Record Hints*, published 2026-01-13 — [source](https://www.youtube.com/watch?v=F_sCTFN-c0o). Used for evaluating record hints before attaching them.
 - **S54:** Ahnenforschung.net Forum, *Neues bei der Brandenburg-Datenbank (mit Berlin)*, first post 2019-05-30 — [source](https://forum.ahnenforschung.net/forum/thread/148940-neues-bei-der-brandenburg-datenbank-mit-berlin/). Rights: cited reference, not reproduced. Used for matching an external index's archive signature and file number to the correct Catalog series rather than a same-titled collection.
+- **S55:** Ahnenforschung.net Forum, *Rätselhaft...Zwei Ehen gleichzeitig in einem Jahr?*, first post 2026-05-28 — [source](https://forum.ahnenforschung.net/forum/thread/3014856-r%C3%A4tselhaft-zwei-ehen-gleichzeitig-in-einem-jahr/). Rights: cited reference, not reproduced. Used for the warning that a register's left and right pages can be filmed separately, so a facing page may lie far from the adjacent image.
 - S16 ([Source Linker webinar and Q&A](https://www.youtube.com/watch?v=48yoEQ0t0ow)) additionally used for the absent duplicate warning, married-surname misses and attaching each separately made copy.
 
 ### Source qualifications

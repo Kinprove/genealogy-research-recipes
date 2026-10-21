@@ -60,6 +60,13 @@ collateral relatives' stated localities before choosing a natal family. The
 [Scandinavian-immigrant example](https://familylocket.com/rlp-202-researching-scandinavian-immigrants-with-jenny-hansen/)
 motivates this place-role check without guaranteeing a field or identifying the family.
 
+For a return leg through Britain, search British inbound passenger lists and verify their route and
+year coverage before recording a gap; a missing list is not evidence the person stayed. In the
+[return-voyage discussion](https://forum.ahnenforschung.net/forum/thread/185403-auswanderung-usa/),
+a forum participant states this for an interwar return without citing a source. It does not
+establish coverage by year or route, or what records the home locality kept, so check the finding
+aid of the collection you choose.
+
 ### 2. Diagnose the collection before expanding the query
 
 **Trigger:** a New York or Ellis Island search fails, or a portal's name is

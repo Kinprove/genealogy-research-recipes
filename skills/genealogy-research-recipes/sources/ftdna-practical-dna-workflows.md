@@ -39,6 +39,14 @@ Additional match-list search source:
   search returned similar surnames, which motivates checking each returned row, and that haplogroup
   search and matching indicators reflected only haplogroups from FTDNA tests.
 
+Additional GenArchivist and МолГен forum sources:
+
+- **S13:** GenArchivist Forum, *Coming Soon: Y-DNA Haplogroups for Family Finder*, first post undated — [thread](https://genarchivist.net/showthread.php?tid=275). Rights: cited reference, not reproduced. Used for the reported 2021 default match dates and for the order-history and administrator lab-results views of chip history, which motivate recording match date separately from test date; also used for the haplotree-versus-Discover count comparison and the quoted surname-report display criterion with users' terminal-branch observation (workflow 5).
+- **S14:** GenArchivist Forum, *NEW: MTDNA discover*, 2025-03-07 — [thread](https://genarchivist.net/showthread.php?tid=1508). Rights: cited reference, not reproduced. Used, with S13, for user comparisons showing that Ancient Connections and Classic Tree views report different counts or sample lists for the same branch, motivating per-view count provenance.
+- **S15:** GenArchivist Forum, *FTDNA Discover*, first post undated — [thread](https://genarchivist.net/showthread.php?tid=416). Rights: cited reference, not reproduced. Used for the reported route from a Discover branch tester who is not a match, via Suggested Projects, to a public project display showing surname, earliest known ancestor and haplotype.
+- **S16:** GenArchivist Forum, *Big Y700*, first post undated — [thread](https://genarchivist.net/showthread.php?tid=6). Rights: cited reference, not reproduced. Used for the reported dated haplotree version in Discover's About section, the lag before Discover updates, and a Big Y placement that reverted shortly after assignment.
+- **S17:** МолГен forum, *Family Finder от FTDNA*, first post 2010-02-21 — [thread](https://forum.molgen.org/index.php/topic,1298.0.html). Rights: cited reference, not reproduced. Used for posts on Family Finder reruns in 2012–2013, which removed and later restored matches; these motivate classifying changes between dated exports as list changes, not relationship evidence.
+
 The Matrix check used S9 for X exclusions and the direct-pair interval limitation, H9 for the
 three comparison choices, and H6 for the focal-kit scope of the Chromosome Browser. H6 was
 rechecked on 2026-10-19; its original check date above is preserved. Public documentation was

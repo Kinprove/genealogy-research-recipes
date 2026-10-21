@@ -59,6 +59,7 @@ Additional reprint, timing, vital-event, legal-notice and venue sources:
 - **S43:** James Tanner, BYU Family History Library, [Legal Notices for Genealogists](https://www.youtube.com/watch?v=q5-kKlUKfHs), published 2017-01-19; checking period publication law to identify which paper and county had to carry a legal notice.
 - **S44:** Genealogy Gems, [Reveal Your Unique Story through DNA, Family History & Video](https://www.youtube.com/watch?v=5iXqxWAnHRQ), published 2017-09-25; listing honorific forms (Mr./Mrs./Master Surname) found in earlier notices and searching each.
 - **S45:** Lisa Lisson, [Genealogy Q&A: YOUR Questions Answered!](https://www.youtube.com/watch?v=UMxoiaZiSkc), published 2024-06-18; a viewer-suggested obituary search on relationship phrases joined to a relative's name. (S15 reused for typesetter shortcuts and title-only references.)
+- **S46:** Ahnenforschung.net Forum, [Zufallsfunde](https://forum.ahnenforschung.net/forum/thread/1082-zufallsfunde/), first post 2006-09-04. Rights: cited reference, not reproduced. Used for printed Vienna newspaper death lists that state a deceased migrant's place of arrival, age, occupation and hospital.
 
 ## Credits
 

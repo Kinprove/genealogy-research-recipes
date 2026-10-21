@@ -42,6 +42,8 @@ The one genuine exception: a small segment at the **very end of a chromosome** (
 
 **Related but distinct mechanism — pileup regions.** A population-shared or human-wide region (often near an immune-system or smell-related gene) produces widespread false-positive matches regardless of segment size; FTDNA's own worked example discarded part of a **42.3 cM** paternal-group overlap because it substantially coincided with a known pileup region. Segment *size* alone doesn't clear this — check against a known pileup map (e.g. DNA Painter's) before trusting even a large overlap in an endogamous context.
 
+**Check the whole pile-up, not only the hypothesis group.** When matches from one target population cluster on a segment, look the segment up in a pile-up table. Then review every match on that interval, not only those that fit the hypothesis. Many unrelated matchers mixed on the same interval point to a pile-up artefact. A [pile-up region discussion](https://genarchivist.net/showthread.php?tid=558) shows most such chromosome 22 matches being discarded after this check. One poster reports that significant matches usually extended beyond the pile-up and triangulated; triangulation alone is not treated as sufficient (see above). The thread gives no cM threshold and does not establish that a group-level pile-up shows membership in that population.
+
 **Recompute the match total before trusting it.** A vendor's total cM can be mostly small segments. Take the match's full segment table from the chromosome browser and sum only the segments at or above a stated cutoff. Record whether X segments were excluded. Report three things side by side: the vendor total, the cutoff used and the filtered total. In an endogamous profile, a large drop marks a lower-priority lead. In [GeneaVlogger's walkthrough](https://www.youtube.com/watch?v=jusPVWoQFr0), totals above 100 cM fell below 40 cM. The filtered total is a triage aid, not a validated relationship estimate. The cutoff (the presenter uses 10 cM for Jewish endogamy) is a choice, not an established threshold.
 
 ### 2 — Phasing yourself does not rescue an unphased match's false positive
@@ -55,6 +57,8 @@ This generalizes cleanly to X-DNA, where pseudosegment risk is a **joint, pairwi
 - **Female–female** comparisons carry the *highest* risk — both sides can weave between unphased maternal/paternal X copies.
 
 So "is this X match trustworthy" depends on *whose* X chromosomes are being compared, not on whether you personally phased.
+
+**Check an ancient or historical-sample match against tested parents.** These vendor matches usually rest on one small segment. Before reading one as inherited, record which parents or close relatives were compared and whether either parent shows the same sample match on that segment. If neither parent carries it, treat it as a probable pseudosegment, as a [historical-match discussion](https://genarchivist.net/showthread.php?tid=662) argues. If an unphased identity-by-state result can be rerun with a phased-haplotype tool, treat a segment that only the unphased method finds as suspect, as an [ancient-DNA matching comparison](https://genarchivist.net/showthread.php?tid=1285) reports. A segment a parent carries is still not evidence of descent from that sample (section 1). Neither thread gives a measured false-positive rate.
 
 ### 3 — The mechanical visual-phasing rule most models don't know
 
@@ -89,6 +93,8 @@ What actually discriminates the maternal case, absent a clean X answer:
 - Note also: ~10% of third cousins won't share enough DNA to register as a match at all (recombination), so an *absent* expected match on one side isn't automatically informative either.
 
 **A second, related trap**: an X-DNA overlap that is *mechanically consistent* with the hypothesized inheritance path (doesn't violate the male-blocker rule) is **not proof** it came from that path. FTDNA's own tutorial flags exactly this: an X overlap that fits the inheritance pattern but traces to an apparently unrelated tree branch may signal either a linking mistake or a genuine *second* true relationship (common in endogamous or Ashkenazi-Jewish contexts) — the elimination logic is airtight as a **veto** (violates the rule → impossible), but its absence is not itself **confirmation**.
+
+**Do not check X sharing against autosomal sharing as a ratio.** A first cousin's X and autosomal amounts may look proportional to each chromosome set's length, but more distant matches need not: autosomal DNA from a given ancestor can drop out within a few generations, so a sizeable X segment beside little or no autosomal sharing is not by itself an inconsistency, nor is it evidence of a recent relationship. An [X-versus-autosomal proportion discussion](https://forum.molgen.org/index.php/topic,3315.0.html) motivates recording the two as separate observations. Neither direction validates the other: a relatively large X segment still needs the pair-sex and density checks in sections 2 and 5, and the thread gives no figures or threshold.
 
 ### 5 — The X-DNA cM threshold: real, sourced disagreement — never state one confident number
 

@@ -298,6 +298,18 @@ Use the haplogroup shown in a profile as a bounded search clue. For incompatible
 direct-line exclusions, and choosing a more informative test, use
 [ydna-mtdna-interpretation](ydna-mtdna-interpretation.md).
 
+Treat a haplogroup search as a lead list, not a count. Test a DNA Relatives keyword search with
+a relative whose profile visibly shows that haplogroup. If that known positive is missing,
+record the search as unreliable for this profile, not as zero matches. Check that a short label
+does not also return longer labels it prefixes. When searching dated relatives exports, use
+23andMe's own label string and record each file's tester, download date and approximate match
+count. 23andMe's haplogroup tree can skip levels another vendor names, so also count broader upstream labels; a
+match may carry only a less specific call. A hit is a contact lead, not a measured Y-DNA match
+or proof of your direct line; check its side against a parent's list. No hit covers only the
+files searched. The [keyword-search discussion](https://genarchivist.net/showthread.php?tid=1392)
+and [a saved-download search thread](https://genarchivist.net/showthread.php?tid=275) report
+these failures without establishing their cause. [S24]
+
 ## Recipe 6: preserve the five different data products
 
 | Artifact | What it preserves | Practical handling |
@@ -357,6 +369,14 @@ found both a broad population and its narrower child population in the same 23an
 Keep the original rows and choose a consistent category level for a summary; do not add
 nested labels as if they were independent tracts. Record that filtering choice. [S11]
 
+Where a parent has a 23andMe ancestry result, compare the population painted at the same
+chromosome interval in both kits. Treat different labels on an interval believed inherited from
+that parent as a discrepancy to investigate, not as proof that either label is wrong. The
+parent's painted label may be on the copy that was not passed on. Unless phasing or matching
+establishes which parent passed on the child's segment, it may come from the other parent. A
+[version-update discussion comparing parent and child paintings](https://genarchivist.net/showthread.php?tid=1972)
+motivates this check without validating any category. [S26]
+
 Before relying on a small or trace assignment, open 23andMe's Ancestry Composition white
 paper, matching the result's version where identifiable (our precaution; the video does not
 address versions). Record that population's published precision and recall. These figures
@@ -385,6 +405,15 @@ settings. The September 2025 version-7 announcement limits that release to V5 cu
 with ancestry-service access and gives Premium members a broader previous-version/confidence
 history. Compare what this account offers; an algorithm update changes the estimate rather
 than documenting a newly inherited ancestor. [S18, O18]
+
+Where the profile-data settings offer a Computed Data download, request it as a further dated
+artifact and inspect whether it holds earlier Ancestry Composition versions. A
+[computed-data discussion](https://genarchivist.net/showthread.php?tid=730) reports past-version
+coordinates in this file, including for recent-chip testers. Keep each row's version or revision
+label and confidence level, and compare versions at the same confidence level. Retain the
+original before importing it into a third-party painter, whose colors need not match 23andMe's.
+The thread does not establish which version is more accurate, nor that the file or menu path is
+still offered. [S25]
 
 Where an Ancestry Timeline is offered, record each population's displayed birth range. The cited
 presenter interprets it as an estimate of when the most recent ancestor fully of that population

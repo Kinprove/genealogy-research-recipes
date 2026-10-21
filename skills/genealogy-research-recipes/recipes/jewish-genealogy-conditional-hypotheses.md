@@ -42,6 +42,8 @@ Put these distinct propositions in the general register when the case uses them.
 
 K1 and A1 need not rise or fall together. In the Kiev case, a proposed brother connection meets different recorded fathers' names; a compound-name reconciliation is an additional identity hypothesis, not the solution to the relationship question. Test the name reconciliation rather than spending it as established parentage. [S2, S10, S11]
 
+A Russian-language civil record, such as a Soviet passport, may give a man a given name and a patronymic formed from the same civil name. That alone does not contradict a deceased-relative naming custom or show a recording error. Two distinct Hebrew names, for example Shlomo and Shalom, can both be rendered as the one Russian civil name Solomon. Before you reject the record or the stated parent, compare the birth or marriage entry, where the parent's name may appear in a different Russified form (for example Sholom or Shulim rather than Solomon), and keep A1 separate from C1. A [name-collapse discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) shows that this mechanism is possible. It does not show that it applies in any given case. Do not assume two different Hebrew names behind an identical civil pair without a record that shows them. [S14]
+
 Likewise, changing C1 from a deceased-relative expectation to a living-relative practice removes that route to a death-before-birth inference; it does not disprove K1. A naming clue can direct a death search while N1 and C1 remain unproved. Record the resulting search window as a scenario, not a death fact. [S6, S7, S11]
 
 ## 3. Apply the register to Jewish research outputs

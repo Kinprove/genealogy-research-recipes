@@ -27,6 +27,7 @@
 23. *J-Roots topic 4270* — J-Roots Forum, 2014-10-26 onward — <https://forum.j-roots.info/viewtopic.php?f=20&t=4270> — Rights: cited reference, not reproduced. Used for the description of an 1831 recruit-turn book that lists both sexes and cites household numbers from the 1816 revision and the 1818 additional list.
 24. *Случайные находки* — J-Roots Forum, 2009-08-25 onward — <https://forum.j-roots.info/viewtopic.php?f=15&t=64> — Rights: cited reference, not reproduced. Used for the Vitebsk provincial-board lists of Jews living in rural settlements (1882, 1894) and the fields their entries carry.
 25. *Не знаете, где спросить? Спросите здесь* — J-Roots Forum, 2009-08-24 onward — <https://forum.j-roots.info/viewtopic.php?f=75&t=7576> — Rights: cited reference, not reproduced. Used for the point that revisions list Jewish townspeople either in separate files or in combined files with Christian мещане.
+26. *Крымская война 1853-1856 годов. Участники крымской войны* — Уральская генеалогия forum, n.d. — <https://rodgersforum.borda.ru/?1-23-0-00000023-000-0-0-1743010117=> — Rights: cited reference, not reproduced. Used for an additional revision list of furloughed privates enrolled into a town мещанство by treasury-chamber order, with the fields its entries carry, and for the caution that campaign medals do not prove combat.
 
 ## Credits
 

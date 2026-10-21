@@ -69,6 +69,16 @@
   Rights: cited reference, not reproduced. Used for comparing census birthplaces and manifest origin
   when a German-speaking family recorded as born in 'Germany' may come from Russian Empire German
   colonies; the family's identity and ancestral origin are not adjudicated here.
+- **S16:** Ahnenforschung.net participants, *Auswanderung USA*, thread begun 2021-11-22 —
+  [discussion](https://forum.ahnenforschung.net/forum/thread/185403-auswanderung-usa/). Rights:
+  cited reference, not reproduced. Used for separating same-named destination contacts and
+  comparing each one's dated addresses with the manifest contact address; no candidate is adopted
+  as the contact.
+- **S17:** J-Roots participants, *Нужно мнение коллег*, thread begun 2015-09-22 —
+  [discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667). Rights: cited reference, not
+  reproduced. Used for reconstructing an unrecognised place name on a German-written passenger list
+  by comparing letterforms on the page and German spellings of Slavic sounds; the proposed reading
+  is not adopted as confirmed.
 - **H1:** U.S. National Archives, [Passenger Arrival Records](https://www.archives.gov/research/immigration/passenger-arrival.html).
 - **H2:** U.S. National Archives, [Naturalization Records](https://www.archives.gov/research/immigration/naturalization).
 - **H3:** Marian L. Smith, [By Way of Canada](https://www.archives.gov/publications/prologue/2000/fall/us-canada-immigration-records-1.html),

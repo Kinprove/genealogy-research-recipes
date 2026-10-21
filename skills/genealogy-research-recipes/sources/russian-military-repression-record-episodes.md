@@ -55,6 +55,45 @@ community percentages, legal advice or person-specific examples.
   <https://rodgersforum.borda.ru/?1-29-0-00000128-000-0-0-1768448567=>. Rights: cited reference, not
   reproduced. Used for the suggestion to check a son's case file rather than read absence from
   lists as natural death.
+- **H12:** J-Roots Forum, thread "\"Память Народа\", \"Подвиг Народа\", \"ОБД Мемориал\"", first post
+  2010-04-23, <https://forum.j-roots.info/viewtopic.php?f=36&t=4542>. Rights: cited reference, not
+  reproduced. Used for the quoted project description that unit-level award orders after 10
+  November 1942 carry the deed in the award-list row instead of a separate award sheet, and for
+  loss-report relatives columns naming a dead parent or an evacuation address.
+- **H6 (addition):** J-Roots Forum, thread "Базы данных \"Жертвы политических репрессий\"", first
+  post 2010-01-04, <https://forum.j-roots.info/viewtopic.php?f=64&t=558>. Rights: cited reference,
+  not reproduced. Also used for recording a victims' list's inclusion rule, and for the
+  Russia-centred database coverage versus Ukrainian regional rehabilitation volumes.
+- **H3 (addition):** J-Roots Forum, thread "Вопросы и обсуждения по репрессированным", first post
+  2009-09-27, <https://forum.j-roots.info/viewtopic.php?f=64&t=561>. Rights: cited reference, not
+  reproduced. Also used for searching the database of the republic where a case was tried when
+  Russian aggregators have no entry, and for posters' reports of uneven regional loading of that
+  database.
+- **H13:** J-Roots Forum, topic 7018 (forum f=64), first post 2018-05-17,
+  <https://forum.j-roots.info/viewtopic.php?f=64&t=7018>. Rights: cited reference, not reproduced.
+  Used for searching both the online database and the printed regional volumes of one Ukrainian
+  repression project, and for the volumes predating file transfers.
+- **H3 (addition):** J-Roots Forum, thread "Вопросы и обсуждения по репрессированным", first post
+  2009-09-27, <https://forum.j-roots.info/viewtopic.php?f=64&t=561>. Rights: cited reference, not
+  reproduced. Also used for posters' reports that a 1950s case review and a 1990s formal
+  rehabilitation could be separate decisions with different wording.
+- **H3 (addition):** J-Roots Forum, thread "Вопросы и обсуждения по репрессированным", first post
+  2009-09-27, <https://forum.j-roots.info/viewtopic.php?f=64&t=561>. Rights: cited reference, not
+  reproduced. Also used for the typical fields of an archival certificate from an investigation or
+  prisoner file and for treating omissions in a certificate as unchecked rather than absent.
+- **H14:** J-Roots Forum, thread "* УКРАИНА РЕПРЕССИИ", first post 2017-02-24,
+  <https://forum.j-roots.info/viewtopic.php?f=64&t=5700>. Rights: cited reference, not reproduced.
+  Used for distinguishing an archival certificate, selected copies and in-person reading of the
+  file.
+- **H15:** Уральская генеалогия forum, "Запросы о поиске ПОТОМКОВ, а не ПРЕДКОВ !!!", first post
+  undated, <https://rodgersforum.borda.ru/?1-2-0-00001643-000-0-0-1734245901=>. Rights: cited
+  reference, not reproduced. Used for a son's WWII-record next-of-kin entry giving a later address
+  for a parent from a family exiled in 1933, treated as a dated residence lead separate from the
+  exile episode.
+- **H3 (addition):** J-Roots Forum, thread "Вопросы и обсуждения по репрессированным", first post
+  2009-09-27, <https://forum.j-roots.info/viewtopic.php?f=64&t=561>. Rights: cited reference, not
+  reproduced. Also used for a child's personnel-file autobiography that reported a repressed
+  parent's death year without mentioning the arrest.
 
 ## Verification limits
 

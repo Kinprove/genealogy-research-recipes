@@ -177,6 +177,14 @@ identical text may be a copy. Sources: [timing](https://www.youtube.com/watch?v=
 [concurrent obituaries](https://www.youtube.com/watch?v=qLzNItRPj_c) and S3. None sets a typical
 interval, so set the extended window as an explicit budget.
 
+For a migrant who died away from home, also read any death lists a destination-city newspaper
+printed. A [Vienna death-list series](https://forum.ahnenforschung.net/forum/thread/1082-zufallsfunde/)
+shows entries giving the death date, name, occupation, age, the place the person had arrived from,
+the cause and the hospital or address. Record the issue date and page separately from the death
+date, and carry the stated origin to that place's registers. 'Arrived from' may name a last
+residence rather than a birthplace. A list entry is a printed summary, not the register entry. The
+examples do not establish which years or cities printed such lists.
+
 For vital events, run surname-plus-event passes instead of full-name searches: born, christened,
 engaged (a truncated stem where the engine supports it), shower, wedding, eloped, divorce,
 anniversary, funeral, cards of thanks. A birth notice may name only the parents ('born to Mr and

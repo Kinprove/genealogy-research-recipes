@@ -91,6 +91,8 @@ repository's copy of that same volume supplies another access route, not another
    conventions differ between publishers.
 
    In a 1913 Russian trade directory entry, an address such as 'Александровск., д.' followed by a surname in the genitive is probably a street name plus 'house of' an owner, not a town and a village. Record the street, the house owner and the listed firm holder or occupant in separate fields; the owner need not be the occupant. Check the edition's abbreviation key before expanding 'д.'. A [directory-address discussion](https://forum.j-roots.info/viewtopic.php?f=15&t=64) offers this reading as probable. It does not quote the key or show how the owner relates to the occupant.
+
+   When working from a volunteer transcription or extract rather than the volume, record which printed fields it left out, such as street, district, establishment type or owner-versus-lessee wording, and any sort order the transcriber added. Mark the omitted fields unknown, not absent, and take them from the edition before interpreting anyone's role. A [transcribed address-book discussion](https://forum.ahnenforschung.net/forum/thread/2552-adressb%C3%BCcher-lexika-verzeichnisse-in-euren-regalen/) describes such a field-limited extract. It does not show the original pages or check the extract's accuracy.
 5. Check the first and last imported entries, remove repeated headers or interface text, and
    confirm that each row still has its year and locator. Manual extraction uses the same schema.
    [S1, S3]
@@ -141,6 +143,8 @@ each printed address or an exact move date. Keep an unstated time basis unknown.
    motivates this check without showing how often such double listings occur.
 
    A business run under one initial across many editions may cover more than one holder, such as a husband and then his widow continuing the trade. Before assigning the run to one person, check the death dates of possible holders and split the run at any death as a question. A death record giving another occupation does not by itself rule out the match. A [business-run discussion](https://forum.ahnenforschung.net/forum/thread/3014463-eierhandlung-berta-fliegner-in-kreuzberg/) proposes this reading as a hypothesis. It did not compare the initial and full given name edition by edition.
+
+   When a Russian or Soviet city directory shows same-named entries at one address with different occupations, do not merge or split them on the directory alone. When contact is authorized, request the house books (домовые книги) for that building and period, which register residents individually. Treat a professional directory, such as a medical one, as a separate series whose first listing can differ from the general directory's. A [house-book discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) and a [directory-and-house-book example](https://forum.j-roots.info/viewtopic.php?f=9&t=4132) motivate this. They do not establish survival outside one city or current access rules.
 7. For a located former-resident entry with a reported later locality, use that place for
    one bounded follow-up, such as a later directory or a relevant civil-register search there.
    Keep it as a source-attributed lead; it does not establish a move at the edition date. [S4]

@@ -79,6 +79,16 @@ photographs, database rows and real family examples are not reproduced.
 - **P18:** J-Roots Forum, *Не знаете, где спросить? Спросите здесь*, first post 2009-08-24 —
   [thread](https://forum.j-roots.info/viewtopic.php?f=75&t=7576). Rights: cited reference, not
   reproduced. Used for attaching a Levite title after a woman's patronymic to her father.
+- **P19:** Ahnenforschung.net Forum, *Fotowünsche Berlin - Wer braucht Fotos von Berliner
+  Grabstellen, Kirchen, Häuser?*, first post 2010-04-18 —
+  [thread](https://forum.ahnenforschung.net/forum/thread/19335-fotow%C3%BCnsche-berlin-wer-braucht-fotos-von-berliner-grabstellen-kirchen-h%C3%A4user/).
+  Rights: cited reference, not reproduced. Used for asking the cemetery office about grave type and status, such as a war grave or a removed stone, and about the recorded field of an anonymous burial, before
+  treating a missing marker as a failed lead.
+- **P20:** J-Roots Forum, *Нужно мнение коллег*, first post 2015-09-22 —
+  [thread](https://forum.j-roots.info/viewtopic.php?f=4&t=4667). Rights: cited reference, not
+  reproduced. Used for reading 'Reb' on a tombstone, and 'Rabbi' or 'Rev.' in later sources, as
+  titles to check against accounts of the person's actual role rather than as proof of
+  ordination.
 - **O1:** JewishGen, *JOWBR FAQ*, checked 2026-10-07 —
   [documentation](https://www.jewishgen.org/databases/Cemetery/JOWBR_FAQ.htm).
   Cemetery inventory, source types, nullable fields, patronymic searches, photographs and
