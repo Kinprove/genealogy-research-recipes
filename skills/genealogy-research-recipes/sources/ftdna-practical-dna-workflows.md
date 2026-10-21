@@ -38,6 +38,15 @@ rechecked on 2026-10-19; its original check date above is preserved. Public docu
 inspected; no signed-in kit interface was verified. The observation fields and stop/status
 rules are original Kinprove synthesis.
 
+Additional combined-test scope source:
+
+- **S10:** Genealogy TV, interview with Roberta Estes,
+  [Roberta Estes Explains the NEW UPDATES for Mitochondrial DNA (mtDNA)](https://www.youtube.com/watch?v=essG5JYMERw),
+  2025-04-03. The saved discussion describes separate kit identities preventing the intended
+  Advanced Matching intersection. The test-to-kit crosswalk and unavailable-query status are
+  authored controls. No signed-in query, current merge/transfer policy, purchase or upload
+  was verified; a match across tests does not identify a single ancestral path.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

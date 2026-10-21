@@ -45,6 +45,13 @@ For search and coverage outcomes distinguish `not_searched`, `searched_no_candid
 For extracted answers distinguish `answered`, `explicit_no`, `blank`, `not_asked`, and
 `unreadable`. A blank is not an explicit negative.
 
+Before applying an age-based calculation, check that its input represents the recorded age
+in the required unit. If the calculation cannot handle that value, retain the person,
+literal age/unit and source locator and mark only the calculation unresolved. Do not clear
+the source value or remove the person to make a formula fill. Genealogy TV's
+[historical Excel demonstration](https://www.youtube.com/watch?v=eONcu9lTbYY) [S23]
+motivates this safeguard; it does not validate a formula or establish a birth date.
+
 ## Choose a recipe
 
 | Problem | Recipe | Deliverable |

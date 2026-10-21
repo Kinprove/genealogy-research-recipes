@@ -52,4 +52,15 @@ Keep the full source record intact. Family Locket's
 [How to Shorten Citations](https://www.youtube.com/watch?v=DWdb7rQFpf0) (2023-11-11)
 motivates this edit check without imposing an abbreviation, current style rule or software claim.
 
+## Follow an earlier application cited as evidence
+
+If a lineage application's generation-specific source area cites an earlier member's national
+number instead of supporting documents, retain the reference and use it to identify and seek
+the cited earlier application. Preserve locators and dates for both applications, then inspect
+what the earlier source area actually supplies for the relevant generation. Keep a transcription
+distinct from an inspected application image. The later application's date does not date its
+underlying evidence; unavailable or uninformative earlier material remains an explicit gap.
+Genealogy TV's [Sons of the American Revolution with Deborah Maddox](https://www.youtube.com/watch?v=EyHcF0-Xqyk)
+(2025-04-11) motivates this handoff without guaranteeing access or proving the claimed lineage.
+
 Original Kinprove reference, licensed FSL-1.1-MIT.

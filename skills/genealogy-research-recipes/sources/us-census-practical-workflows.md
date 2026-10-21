@@ -27,11 +27,18 @@ draw on each source.
 | S20 | Sara Cochran / BYU, Getting Around the Missing 1890 Census | 2023-03-31 | 5 |
 | S21 | James Tanner / BYU, Using Local and State Censuses for Genealogical Research | 2025-02-11 | 5 |
 | S22 | Genealogy TV, [Secret Gems on Ancestry](https://www.youtube.com/watch?v=1lrFNBWKwzo) | 2024-02-09 | 4: missing-heading fallback |
+| S23 | Genealogy TV, [How to Use Excel for Genealogy](https://www.youtube.com/watch?v=eONcu9lTbYY) | 2022-06-24 | Output schema: age-calculation exception |
 
 S22's saved transcript describes consulting 1790 and 1800 blank forms when original
 headings are missing. Matching the actual schedule and retaining uncertain assignments
 are workflow safeguards. No original schedule, blank-form payload, private handout or
 current download route was inspected for this amendment.
+
+S23 narrates an infant age in months, a nonnumeric calculation error, clearing a value
+and removing the infant before filling relative references. Preserving the person and
+literal source value while leaving the calculation unresolved is an authored safeguard.
+The workbook, stored cell types, complete corrected output and a normalization method were
+not inspected or validated; no downstream row mismatch or current software rule is asserted.
 
 ## Credits
 
