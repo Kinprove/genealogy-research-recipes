@@ -21,6 +21,8 @@
 - **S17:** *How to Unmerge People of the Same Name on the FamilySearch Family Tree*, published 2023-06-24 — [publisher shortlink](https://familylocket.com/?p=31567).
 - **S18:** FamilySearch Help Center, *How do I upload memories to FamilySearch?*, dated 2026-05-13; checked 2026-10-04 — [source](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-upload-photos-or-documents-to-memories).
 - **S19:** FamilySearch Help Center, *Guide to memory visibility settings*, dated 2025-08-12; checked 2026-10-04 — [source](https://www.familysearch.org/en/help/helpcenter/article/what-are-private-memories).
+- **S20:** MyHeritage, *We're live with Gena Philibert-Ortega about researching your female ancestors!*, published 2020-12-17 — [source](https://www.youtube.com/watch?v=LaqAID03XqM). The saved transcript motivates following an inspected entry's subject links to related titles.
+- **S21:** FamilySearch Help Center, *How do I use the FamilySearch Catalog to learn about the digitized historical records on FamilySearch?*, article 828, dated 2026-07-14 — [source](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-the-catalog-to-learn-more-about-the-collections-in-historical-records). Its indexed step 6 supports Locality Subject and Subject links for related items; inspected 2026-10-21.
 
 ### Source qualifications
 
@@ -37,6 +39,11 @@
   item and complete-group numbering separate.
 - S10 and S11 credit Virginia Pratt in their bodies. S08's saved Pros/Cons sections and referenced
   screenshots are incomplete; their missing contents do not supply any recipe step.
+- S20's original media and narrated catalog item were not independently inspected. S21 was
+  available as indexed official text; direct article retrieval failed. Workflow 2 is conditional
+  on links actually offered, with no live-account test or claim of a recovered record. Preserving
+  labels and checking candidate metadata are Kinprove synthesis. No universal subject authority,
+  cross-catalog heading equivalence or WorldCat subject-search behavior is asserted.
 
 ## Credits
 

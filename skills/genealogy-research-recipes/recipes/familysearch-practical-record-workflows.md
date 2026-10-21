@@ -48,6 +48,12 @@ an established identity or correction basis; unresolved candidates stay in the w
 4. Record indexed search, browsable images, digital books and physical holdings as separate access routes.
 5. Cross-check Images for relevant groups that have not reached the Catalog.
 
+When an inspected entry offers Locality Subject or Subject links, save the exact label and entry
+URL and follow a relevant link to related items. Check each candidate's creator, place, dates,
+record type and access before adding it to the coverage ledger. A subject heading describes
+catalogued material; it does not show that an ancestor appears in it. A search with no useful
+result does not exhaust the holdings.
+
 For a digital-book lead, use Books search when available and record the title/edition of the volume
 you actually open. Search within that volume; distinguish next-book/result navigation from page
 navigation. Confirm the volume and printed page before saving a passage and attaching its citation
@@ -59,7 +65,7 @@ use the controls and access information actually available for the item.
 
 **Check:** Relevant image-only holdings remain outstanding after a negative name search. Never calculate indexing coverage by dividing or subtracting record counts and image counts.
 
-**Sources:** [S12](https://www.youtube.com/watch?v=MMe67JLgS08), [S14](https://www.youtube.com/watch?v=XOnRrT771CY), [S08](https://familylocket.com/finding-your-family-in-familysearch-images/).
+**Sources:** [S12](https://www.youtube.com/watch?v=MMe67JLgS08), [S14](https://www.youtube.com/watch?v=XOnRrT771CY), [S08](https://familylocket.com/finding-your-family-in-familysearch-images/), [S20](https://www.youtube.com/watch?v=LaqAID03XqM), [S21](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-the-catalog-to-learn-more-about-the-collections-in-historical-records).
 
 ### 3. Use a photographed index to browse an unindexed register
 
