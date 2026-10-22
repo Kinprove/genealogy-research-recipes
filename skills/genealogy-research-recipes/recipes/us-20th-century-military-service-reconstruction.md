@@ -4,7 +4,7 @@ Use this when a 20th-century Army or Air Force personnel file burned, came back 
 
 ## Find out the file's actual status before saying "it burned"
 
-Do not tell the user the records burned and nothing survives. On July 12, 1973 a fire at the National Personnel Records Center (NPRC) in St. Louis destroyed about 16–18 million Official Military Personnel Files (OMPFs). NARA gives these losses ([NARA, 1973 fire](https://www.archives.gov/personnel-records-center/fire-1973); presenter account in [S11], [S12]):
+Do not claim that the records burned and nothing survives. On July 12, 1973 a fire at the National Personnel Records Center (NPRC) in St. Louis destroyed about 16–18 million Official Military Personnel Files (OMPFs). NARA gives these losses ([NARA, 1973 fire](https://www.archives.gov/personnel-records-center/fire-1973); presenter account in [S11], [S12]):
 
 - Army: about 80% of files lost for men discharged November 1, 1912 – January 1, 1960.
 - Air Force: about 75% of files lost for discharges September 25, 1947 – January 1, 1964, but only for names alphabetically after "Hubbard, James E."
