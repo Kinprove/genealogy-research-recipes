@@ -72,12 +72,16 @@ particular fields, complete survival or a present translation service.
 
 ### Tax rolls used for a land lead
 
-For each selected tax year, map the available volumes and their actual township/district and
-tax-class sections before interpreting a surname miss or stopping at one hit. Read the headings
-and sort key in each relevant section: a real-estate section may follow land location while
-another list follows names. Check separately described supplementary, delinquent or nonresident
-sections without assuming every place has them. Retain year, volume/section, key, locator and
-inspected/uninspected extent; recheck the arrangement for another year. The
+Use the [tax roll observation](tax-roll-observation-workflow.md) workflow for the annual series
+register and its inspection statuses, separate tax-type searches, reading a volume's arrangement,
+literal capacity notations such as *administrator of* or *estate of*, and delinquent addenda.
+A roll used for a land lead adds these checks.
+
+Map every volume and tax-class section of each selected year before interpreting a surname miss
+or stopping at one hit, and record each section's own sort key, locator and inspected extent in
+the series register: a real-estate section may follow land location while another list follows
+names. Check separately described supplementary or nonresident sections without assuming every
+place has them, and recheck the arrangement for another year. The
 [reported one-book to two-book transition](https://familylocket.com/rlp-329-using-ai-in-report-writing/)
 motivates this inventory. A missing name in one section is not absence from the annual set, and
 a complete search of supplied volumes does not establish complete survival or legal liability.
@@ -87,41 +91,9 @@ organization and bounded unsearched sections for entries filed under another pay
 representative. Preserve the names and sections searched, their extent and the result.
 In the [1849 tax-roll example](https://familylocket.com/rlp-315-tips-for-when-the-courthouse-burned/),
 the speaker reports finding John Cline's entry under W for administrator Wiseman after
-missing it under C.
-
-Keep the literal payer, represented person or estate, and stated role separate. Carry any
-supplied parcel reference into the comparison with land records. This recovery step does not
-by itself establish a death date, a sale, kinship, legal liability or the identity of same-name
-people.
-
-### U.S. federal entry packets
-
-For a federal entry lead, retain the stated entry class, act/year, land office, acreage,
-patent or document number and supplied legal description in the retrieval row. Match these
-fields to the custodian's actual series description before requesting the entry file.
-The [NARA preparation example](https://www.danaleeds.com/10_tips_for_nara/)
-shows the locator worksheet; it is not a specification for a current request form.
-
-After a completed-patent search misses a supported tract lead, check whether the actual holdings
-describe an entry register covering applications that did not reach patent. Follow its arrangement;
-retain the literal entry status, legal description, land office and any entry/file number. Queue
-a corresponding case series only when that locator and the holdings support it, keeping requested
-and retrieved files separate. The [historical tract-book example](https://www.youtube.com/watch?v=fEuF00FwZN8)
-motivates this fallback. A patent-search miss does not establish that no application existed or
-that its file survives; the historical entry status and present retrieval status remain distinct.
-
-Use the described entry class to look for different components in the available packet:
-
-| Entry lead | Components illustrated in the teaching account |
-| --- | --- |
-| Cash sale | Register and Receiver receipts, certificate, and any described agency or preemption papers |
-| Bounty land warrant | Certificate and its reverse or assignment endorsements; retain veteran, heir and assignee roles separately |
-| Homestead | Application papers, claimant and witness testimony, and related enclosures actually present |
-
-The [land-file examples](https://www.danaleeds.com/nara-land-records-discovering-family-history-details-that-arent-online/)
-motivate these inspection targets, not a universal contents list or eligibility rule. Record
-the requested and retrieved extent. Keep a reported settlement date separate from the
-application, testimony and patent dates; a patent image alone does not establish packet coverage.
+missing it under C. Carry any supplied parcel reference into the comparison with land records.
+This recovery step does not by itself establish a death date, a sale, kinship, legal liability
+or the identity of same-name people.
 
 ## 1. Identify how this index actually works
 
@@ -274,8 +246,13 @@ Endorsement and court-order practice varied, and the source shows no example end
 ## 5. Carry a U.S. federal patent lead into its separate entry file
 
 **Use when:** the inspected patent or finding description identifies a federal land entry
-whose supporting papers have not been examined. Keep this route separate from later
-county conveyance indexes.
+whose supporting papers have not been examined, or a completed-patent search misses a
+supported tract lead. Keep this route separate from later county conveyance indexes.
+
+The [U.S. federal land entry files](us-federal-land-entry-file-recovery.md) workflow carries
+the full entry route: routing the entry by its authority, the separate bounty-land application
+and entry series, the party-role table, the tract-book search behind a missing patent, and the
+case-file request and inventory. This step adds the locator, packet and date controls below.
 
 1. Save the patent image/locator and its supplied state, land office, act and date,
    acreage, document/patent number and exact land description. Keep these labelled fields
@@ -283,20 +260,39 @@ county conveyance indexes.
    The [NARA preparation account](https://www.danaleeds.com/10_tips_for_nara/) shows a
    BLM-linked locator worksheet, not a universal current request form. [S10]
 2. Identify the entry class from the document or finding description. The cited cases
-   include cash sales, bounty-land military warrants and homestead entries. Follow the
-   actual custodian's instructions for that class and period to identify the corresponding
-   file/series locator; record unresolved class, custody or access separately. A patent
-   image does not establish that its supporting packet has been retrieved. [S11, S12]
-3. When the packet is available, compare its identifiers with the patent lead and inventory
-   the actual jacket and component documents. Inspect certificate and assignment reverses
-   where present. Retain the available receipts, applications, affidavits, claimant testimony
-   and witness papers with their individual locators; do not assume a fixed page count or
-   a complete packet from the presence of a certificate. [S11]
-4. In bounty-land papers, preserve the named veteran, heir and assignee as separate roles.
-   An assignee is not thereby the veteran or a resident of the parcel. In homestead papers,
-   keep reported settlement, filing, improvements, testimony and patent dates distinct.
-   Attribute claimant and witness statements to their actual documents; route conflicts
-   and identity questions to the evidence/proof workflow. [S11]
+   include cash sales, bounty-land military warrants and homestead entries. Match the
+   locator fields to the actual custodian's series description and instructions for that
+   class and period before requesting the file; record unresolved class, custody or access
+   separately. A patent image does not establish that its supporting packet has been
+   retrieved. [S11, S12]
+3. After a completed-patent search misses a supported tract lead, follow the linked
+   workflow's tract-book route to entries that did not reach patent, and retain the literal
+   entry status, legal description, land office and any entry/file number. Queue a
+   corresponding case series only when that locator and the actual holdings support it,
+   keeping requested and retrieved files separate. The [historical tract-book example](https://www.youtube.com/watch?v=fEuF00FwZN8)
+   motivates this fallback. A patent-search miss does not establish that an application's
+   file survives; the historical entry status and present retrieval status remain distinct.
+4. When the packet is available, compare its identifiers with the patent lead and inventory
+   the actual jacket and component documents against the entry-class targets below. Inspect
+   certificate and assignment reverses where present. Retain each component actually present,
+   including affidavits, with its individual locator, and record the requested and retrieved
+   extent; do not assume a fixed page count or a complete packet from the presence of a
+   certificate. [S11]
+5. In bounty-land papers, keep the named veteran, heir and assignee as separate rows of the
+   linked workflow's party-role table. An assignee is not thereby the veteran or a resident
+   of the parcel. In homestead papers, keep the reported settlement, application, filing,
+   improvements, testimony and patent dates distinct. Attribute claimant and witness
+   statements to their actual documents; route conflicts and identity questions to the
+   evidence/proof workflow. [S11]
+
+| Entry lead | Components illustrated in the teaching account |
+| --- | --- |
+| Cash sale | Register and Receiver receipts, certificate, and any described agency or preemption papers |
+| Bounty land warrant | Certificate and its reverse or assignment endorsements |
+| Homestead | Application papers, claimant and witness testimony, and related enclosures actually present |
+
+The [land-file examples](https://www.danaleeds.com/nara-land-records-discovering-family-history-details-that-arent-online/)
+motivate these inspection targets, not a universal contents list or eligibility rule.
 
 **Artifact:** patent-to-file locator crosswalk, entry class and retrieval state, component
 inventory, named roles and separately sourced event dates.

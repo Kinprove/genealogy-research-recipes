@@ -39,26 +39,20 @@ The index-audit, locator and series-resolution schemas are original synthesis.
   wife and the date of her examination.
 - **S10:** Dana Leeds,
   [My First-Hand Experience and Top 10 Tips for Researching at NARA](https://www.danaleeds.com/10_tips_for_nara/),
-  8 December 2023. BLM-linked patent information and land-office/document-number preparation;
-  historical visit and request-form procedures are not a current access contract.
+  8 December 2023. BLM-linked patent information, land-office/document-number preparation and a
+  historical federal-land locator worksheet; historical visit and request-form procedures are not
+  a current access contract, and present request forms, appointments and retrieval services were
+  not verified.
 - **S11:** Dana Leeds,
   [NARA Land Records: Discovering Family History Details That Aren’t Online](https://www.danaleeds.com/nara-land-records-discovering-family-history-details-that-arent-online/),
-  14 December 2023. Cash-sale, bounty-land and homestead packet components, certificate reverses,
-  person roles and distinct event dates. Fixed page counts, statutory summaries and the
-  author's family conclusions are not adopted.
+  14 December 2023. Reported cash-sale, bounty-land and homestead packet components, certificate
+  reverses, person roles and distinct event dates. Original files were not independently inspected.
+  The recipe does not adopt fixed page counts or page-count ranges, statutory summaries or
+  eligibility, the author's family, kinship or service conclusions, or current digitization claims.
 - **S12:** Amy, Legacy Tree Genealogists Editor,
   [Women Homesteaders and the Homestead Act: 160 Acres of Independence](https://www.legacytree.com/blog/women-and-the-homestead-act),
   5 May 2026. Patent-to-separate-homestead-file distinction and supplied locator leads;
   no current holdings or request outcome is established by this reference.
-- **S13:** Dana Leeds,
-  [10 Tips for NARA](https://www.danaleeds.com/10_tips_for_nara/),
-  8 December 2023. Historical federal-land locator worksheet; present request forms,
-  appointments and retrieval services were not verified.
-- **S14:** Dana Leeds,
-  [NARA Land Records: Discovering Family History Details That Aren’t Online](https://www.danaleeds.com/nara-land-records-discovering-family-history-details-that-arent-online/),
-  14 December 2023. Reported cash-sale, bounty-warrant and homestead packet components.
-  Original files were not independently inspected. The recipe does not adopt page-count
-  ranges, statutory eligibility, case kinship/service conclusions or current digitization claims.
 - **S15:** Family Locket,
   [RLP 315: Tips for When the Courthouse Burned](https://familylocket.com/rlp-315-tips-for-when-the-courthouse-burned/).
   A reported tax entry recovered under an estate administrator's surname motivates the
@@ -69,7 +63,6 @@ The index-audit, locator and series-resolution schemas are original synthesis.
   28 October 2024. Reported annual volume/section reorganization and differing filing keys
   motivate the tax-coverage inventory. Original tax images, headings and holdings were not
   independently inspected; the example supplies no universal tax classes or liability rules.
-
 - **S17:** Family Locket,
   [RLP 50: U.S. Land Records Part 3](https://www.youtube.com/watch?v=fEuF00FwZN8),
   24 June 2019. Reported tract-register route to entries that did not produce a patent.
