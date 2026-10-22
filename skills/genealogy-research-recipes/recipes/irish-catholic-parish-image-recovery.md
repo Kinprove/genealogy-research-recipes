@@ -15,6 +15,15 @@ FamilySearch and Ancestry recipes for their own search/access tools, source-cita
 construction, and ai-for-documentary-records for handwriting or Latin interpretation. This recipe
 adds the NLI parish, register, filter and image-recovery procedure.
 
+If an emigrant's origin is only "Ireland", first seek a more specific locality in a bounded
+set of destination-country records. In particular, inspect an available will for a named
+executor or beneficiary still in Ireland, and follow a documented sibling's records for an
+origin clue. Record `literal place | person and role | record/date/locator | next locality check`.
+A beneficiary's Irish residence is a locality lead, not the emigrant's birthplace or proof
+of their relationship. Compare the recovered place with the Catholic parish and diocese in
+step 1; do not silently substitute a civil parish or townland. If no sufficiently specific
+place emerges, leave the parish unresolved rather than selecting a same-name family. [P6]
+
 ## 1. Select the Catholic parish and the correct register
 
 Search the NLI parish name or use its map to inspect the locality. Confirm the Catholic parish
@@ -24,6 +33,10 @@ unit. The map supports adjoining-parish discovery; it is not an exact boundary m
 Read the selected parish's register information. Record microfilm/item, event type and available
 dates, then open the corresponding register image or microfilm link. A parish can have several
 volumes covering different events and years, as the Ancestry demonstration shows. [P3, O1]
+
+Record the alternative names given on the NLI parish page. A Catholic parish can appear under more
+than one name, so a lead's parish name may not match the NLI heading. Match the lead's parish name
+to an NLI name or listed variant before concluding the parish is absent. [P4]
 
 If the target date precedes the available register, inspect earlier-starting neighboring registers
 and evidence of a predecessor parish. The demonstration shows an older parish divided when a
@@ -47,6 +60,13 @@ to NLI. In the 2024 comparison, a Findmypast transcript has both an NLI register
 separate original-record viewer: one opens the NLI sequence at its beginning, while the other
 opens the demonstrated entry in Findmypast. These are historical examples; verify the actual
 destination and access outcome instead of assuming every current index has either link. [P1, P2]
+
+If no index lead appears under the English given name, search again under its Latin register form.
+In the 2022 classes Johnson says Ancestry (and Findmypast, which shares its database) shows
+the priest's Latin given name without an English equivalent. Neither class gives a list of
+equivalents or says whether this still holds, so record which form produced the hit. A nil result
+under one form is not evidence that no entry exists. Confirm any Latin-form hit on the image before
+linking it to the English-named person. [P1, P4]
 
 Preserve both the index URL and the opened image/register URL. If a link lands at the register's
 start, the original entry remains to be located. If access fails, record the exact route and
@@ -72,6 +92,14 @@ Preserve the original name forms and uncertain letters. The 2022 tutorial finds 
 transcription difference in the image. The 2024 tutorial finds a transcription that presents the
 baptism date as an estimated birth date. Keep those source statements separate; do not copy the
 estimate into an asserted birth. [P1, P2]
+
+Do not count matching Ancestry and Findmypast entries as two confirmations. Johnson says Ancestry
+and Findmypast use the same transcription; in the Lisa Lisson discussion a vendor speaker says the
+two publish the same images and indexed them together, though the indexes differ slightly.
+Johnson's class shows an inferred father's surname that only the image corrected, and it treats
+RootsIreland as a separately made transcription. In the Lisson discussion, the vendor speaker
+advises that if one platform finds nothing, the search should be repeated on the other. Any hit is
+still only a lead to the image. Neither source says how the indexes differ today. [P4, P5]
 
 For faint text, try NLI's documented brightness, contrast or inverse-image controls. Label the
 adjusted view; retain the original locator. Route disputed readings to the documentary-records

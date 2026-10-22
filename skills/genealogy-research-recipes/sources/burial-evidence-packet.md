@@ -14,10 +14,135 @@ photographs, database rows and real family examples are not reproduced.
   published 2025-03-29 —
   [article](https://lostrussianfamily.wordpress.com/2025/03/29/more-free-cemetery-databases-are-helping-to-find-graves-in-eastern-european/).
   Native-script searches and the demonstrated Pomnim/Pogost field order.
+- **P4:** James Tanner (BYU Family History Library), *Finding and Using Cemetery Records Like a
+  Pro*, published 2020-11-20 — [class](https://www.youtube.com/watch?v=th8_R6cKTnw). Published and
+  commission cemetery surveys beyond the large sites; records created by the burial process.
+- **P5:** James Tanner (BYU Family History Library), *Discovering Your Ancestors Using
+  Genealogical Periodicals*, published 2021-08-24 —
+  [class](https://www.youtube.com/watch?v=ETyI_TSMpzQ); *Using Online Maps to Locate Cemeteries*,
+  published 2016-05-05 — [class](https://www.youtube.com/watch?v=A5dJ4WoeukQ); *Surviving Your
+  Visit to a Cemetery: Cemetery Etiquette*, published 2023-09-27 —
+  [class](https://www.youtube.com/watch?v=fBm75Zoz1-A). County-society and state cemetery
+  inventories with registered numbers; older compiled transcriptions.
+- **P6:** Lisa Lisson, *What Are You Missing in the Family Cemetery?*, published 2021-07-30 —
+  [session](https://www.youtube.com/watch?v=4di3XOsN4GE); *Finding Where An Ancestor Was Buried*,
+  published 2021-11-19 — [video](https://www.youtube.com/watch?v=Cfdt0Fd0opI), with *Unique
+  Genealogy Finds in the Archives* ([Unique Genealogy Finds in the Archives](https://www.youtube.com/watch?v=Jnr2WGm219s)). Local, state and
+  archaeological cemetery surveys.
+- **P7:** Denyse Allen, *Berks County Association for Graveyard Preservation*, published
+  2020-11-20 — [interview](https://www.youtube.com/watch?v=38jzvP3IYKc); *Why I Did a Genealogy
+  Research Trip*, published 2021-08-06 — [video](https://www.youtube.com/watch?v=kINOGgLV3ak) and
+  2024-07-25 — [video](https://www.youtube.com/watch?v=0v5fySALYxs). Older society surveys as
+  dated witnesses of lost stones; compiled inventories with errors and dowsing-based entries.
+- **P8:** Denyse Allen, *10 Ways to Get Birth and Death Information for Your Ancestors*,
+  published 2022-09-21 — [video](https://www.youtube.com/watch?v=gG5ZL8ueNx4) and 2024-07-25 —
+  [video](https://www.youtube.com/watch?v=YW9oCpm5id4). Speculative memorial profiles; plot
+  purchase kept separate from interment.
+- **P9:** GeneaVlogger, *The Curious Case of the Body Counters at Find a Grave*, published
+  2022-07-08 — [video](https://www.youtube.com/watch?v=M6NwvqpYK58). A memorial created before the
+  burial, naming the intended cemetery.
+- **P10:** James Tanner (BYU Family History Library), *Digging Deep into Death Records*,
+  published 2017-09-15 — [class](https://www.youtube.com/watch?v=70ya-VPbkBc); *Using the
+  Genealogical Resources of Funeral Homes and Mortuaries*, published 2023-11-15 —
+  [talk](https://www.youtube.com/watch?v=ybuFUjhcwok). Requesting permits, deeds and payment
+  records by name; custody routes for closed cemeteries and mortuaries.
+- **P11:** Genealogy Gems, *Episode 285 - Cemetery research, tombstones and stories*, published
+  2024-07-11 — [episode](https://www.youtube.com/watch?v=7JQcEHgDwxs); also *Finding Ancestors'
+  Stories at Cemeteries*, published 2021-06-03 —
+  [video](https://www.youtube.com/watch?v=OZMFkh2drkA). Informal sexton notes beyond the register.
+- **P12:** Denyse Allen with Mount Moriah Cemetery, *Urban Cemetery Research with Mount Moriah
+  Cemetery*, published 2020-11-27 — [interview](https://www.youtube.com/watch?v=WoBE9ZAMsg4) and
+  2024-07-25 — [video](https://www.youtube.com/watch?v=gLXeAlkY6j0). Interment-order registers
+  searched by removal date.
+- **P13:** Lisa Lisson, *How to Read Family Cemeteries: Clues Most Genealogists Miss (Part 2)*,
+  published 2025-06-22 — [video](https://www.youtube.com/watch?v=rA5-uq548q4); with related
+  sessions ([related session 1](https://www.youtube.com/watch?v=7zW86N6q4Yc),
+  [related session 2](https://www.youtube.com/watch?v=crq_j9WnVn8)). Inspecting every face before concluding that
+  someone is absent.
+- **P14:** GeneaVlogger, *Building Lil Dicky's Family Tree*, published 2024-02-23 —
+  [video](https://www.youtube.com/watch?v=SKDoU7MJkds). Front-only memorial photographs of Jewish
+  stones.
+- **P15:** J-Roots Forum, *Отголоски семейных историй. Тема для пробных постов начинающих
+  генеалогов*, first post 2010-05-16 — [thread](https://forum.j-roots.info/viewtopic.php?f=20&t=5084).
+  Rights: cited reference, not reproduced. Used for burial-certificate files that run parallel to
+  death registers and omit the grave location.
+- **P16:** Уральская генеалогия, *Кладбищенские списки. Некрополи*, first post undated —
+  [thread](https://rodgersforum.borda.ru/?1-7-0-00000136-000-0-0-1774709430=). Rights: cited
+  reference, not reproduced. Used for telling necropolis lists compiled from cemetery documents
+  apart from those compiled from metrical death entries, and for the selectivity of consistory
+  lists.
+- **P17:** J-Roots Forum, *"Мишпоха" - Кладбище в Яновичах*, first post 2020-06-05 —
+  [thread](https://forum.j-roots.info/viewtopic.php?f=208&t=9621). Rights: cited reference, not
+  reproduced. Used for treating painted or chalked letters on photographed stones as an
+  interpretation that must be re-checked, and for reading kohen, Levite and occupation markers as
+  titles rather than surnames (with P18).
+- **P18:** J-Roots Forum, *Не знаете, где спросить? Спросите здесь*, first post 2009-08-24 —
+  [thread](https://forum.j-roots.info/viewtopic.php?f=75&t=7576). Rights: cited reference, not
+  reproduced. Used for attaching a Levite title after a woman's patronymic to her father.
+- **P19:** Ahnenforschung.net Forum, *Fotowünsche Berlin - Wer braucht Fotos von Berliner
+  Grabstellen, Kirchen, Häuser?*, first post 2010-04-18 —
+  [thread](https://forum.ahnenforschung.net/forum/thread/19335/).
+  Rights: cited reference, not reproduced. Used for asking the cemetery office about grave type and status, such as a war grave or a removed stone, and about the recorded field of an anonymous burial, before
+  treating a missing marker as a failed lead.
+- **P20:** J-Roots Forum, *Нужно мнение коллег*, first post 2015-09-22 —
+  [thread](https://forum.j-roots.info/viewtopic.php?f=4&t=4667). Rights: cited reference, not
+  reproduced. Used for reading 'Reb' on a tombstone, and 'Rabbi' or 'Rev.' in later sources, as
+  titles to check against accounts of the person's actual role rather than as proof of
+  ordination.
+- **P21:** Roberta Estes, *Anne Doucet (1713–1791), Oceans, Rivers, and Perseverance —
+  52 Ancestors #438*, published 2025-01-04 —
+  [article](https://dna-explained.com/2025/01/04/anne-doucet-1713-1791-oceans-rivers-and-perseverance-52-ancestors-438/).
+  Comparing a memorial's cemetery assignment with cemetery chronology and forming a
+  historical-ground candidate list. The founding dates, proposed final location and reports
+  of moved stones are the author's account; this recipe does not independently verify them.
+- **P22:** Aimee Cross / Ancestry Aimee, *What death records are you missing?*, published
+  2024-10-31 — [tutorial](https://www.youtube.com/watch?v=6TDebNoMsvQ).
+  Death-certificate undertaker/address fields, period-directory business identification,
+  and possible successor or society/library custody of funeral records. The recipe's
+  evidence-of-transfer and actual-holdings checks are Kinprove synthesis; the tutorial's
+  blanket retention-law, access and usual-transfer claims are not adopted.
+- **P23:** Amy Johnson Crow, *How to Calculate a Birth Date from Date of Death and Age*,
+  published 2021-11-04 — [tutorial](https://www.youtube.com/watch?v=O1z2pPxEgio).
+  Retaining a stated death date and age, counting back years/months/days, labelling the
+  result as calculated and evaluating a conflicting stated birth date. Calendar and
+  ambiguous-arithmetic stops are Kinprove synthesis; the tutorial's accuracy ranking
+  does not establish a universally correct calculation or an exact birth date.
+- **P24:** Amy Johnson Crow, *The photo you NEED at the cemetery!*, published 2023-08-08 —
+  [short tutorial](https://www.youtube.com/watch?v=16ilrQ7MP-8). Photographing the cemetery
+  sign at the start of a visit. Linking actual supplied image IDs and retaining an absent
+  context image as a gap are Kinprove synthesis; the available transcript ends before its
+  alternative for an unsigned cemetery is complete.
 - **O1:** JewishGen, *JOWBR FAQ*, checked 2026-10-07 —
   [documentation](https://www.jewishgen.org/databases/Cemetery/JOWBR_FAQ.htm).
   Cemetery inventory, source types, nullable fields, patronymic searches, photographs and
   full-record/cemetery links.
+- **C-FH:** BYU Family History Library, James Tanner, *Digging Deep into Death Records*,
+  published 2017-09-15 — [class](https://www.youtube.com/watch?v=70ya-VPbkBc); Lisa Lisson,
+  *Finding Where An Ancestor Was Buried*, published 2021-11-19 —
+  [video](https://www.youtube.com/watch?v=Cfdt0Fd0opI); Lisa Lisson, *Finding An Ancestor's Date of
+  Death*, published 2020-03-13 — [video](https://www.youtube.com/watch?v=bc92E8Oq4zU); Lisa Lisson,
+  *31 Days of Uncommon Genealogy Tips - Day 11 - Funeral Home Records*, published 2019-07-11 —
+  [video](https://www.youtube.com/watch?v=twrGXgz08S0). Using period directories and census
+  occupations to list funeral homes, cemeteries and churches, and asking surviving local firms
+  about closed firms' records.
+
+- **P25:** Genealogy TV, [Cemetery Registry in the United States](https://www.youtube.com/watch?v=_H9cfhjSTvE),
+  9 January 2026. Current-device coordinate capture at the site versus off-site entry. The
+  narrated verification label concerns cemetery GPS, not a verified burial or person. No
+  actual coordinate, present form, accuracy or legal access claim was independently verified.
+
+- **P26:** Genealogy TV, [Tombstones Hidden Secrets - Learn Genealogy Research (How to Research Your Family Tree) - Tiny Tip](https://www.youtube.com/watch?v=MXcC-gpSLSg),
+  11 September 2018. The narrated family monuments have inscriptions on multiple surfaces
+  and name people reportedly buried elsewhere. Surface coverage and person-specific location
+  fields are procedural synthesis; no original inscription, burial record or identity was
+  independently inspected. The available transcript ends mid-phrase, so it may not cover the
+  whole video.
+
+- **P27:** Genealogy TV, [Great Family History Ideas - Genealogy TV (Podcast)](https://www.youtube.com/watch?v=NMcfeyT55ao),
+  26 September 2025. The narration describes reflected or flashlight illumination held
+  to one side during inscription photography. The optional capture instruction and view/uncertainty
+  controls are procedural synthesis. No before/after photographs, recovered inscription or
+  conservation assessment were independently inspected; no physical treatment is prescribed.
 
 ## Credits
 

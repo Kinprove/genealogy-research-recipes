@@ -15,6 +15,16 @@ screenshots, catalog entries and real family examples are not reproduced.
   fonds list page*, checked 2026-10-07 —
   [official instructions](https://www.szukajwarchiwach.gov.pl/en/instrukcje-wyszukiwania).
   Current PRADZIAD, vital-record, fonds and file-list distinctions.
+- **C1:** J-Roots Forum, *Архивы Польши*, first post 2009-12-07 —
+  [thread](https://forum.j-roots.info/viewtopic.php?f=165&t=470). Rights: cited reference, not
+  reproduced. Used for the Księga ludności / Spis ludności search terms, the house-number
+  arrangement of these books, the warning that external indexes of them are incomplete, and for
+  giving Polish and Russian surname forms and spelling variants when requesting Congress Poland
+  register entries.
+- **C2:** J-Roots Forum, *Нужно мнение коллег*, first post 2015-09-22 —
+  [thread](https://forum.j-roots.info/viewtopic.php?f=4&t=4667). Rights: cited reference, not
+  reproduced. Used for the warning that many 20th-century Polish civil-status registers are still
+  held by the local Urząd Stanu Cywilnego rather than the state archive.
 
 ## Credits
 

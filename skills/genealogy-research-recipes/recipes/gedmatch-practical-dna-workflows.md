@@ -44,6 +44,28 @@ query controls, local marker coverage and reporting scope.
    chromosome/window filters, exclusions and other changed options. Mark controls the tool
    does not expose as `not exposed`; save the parameter screen with the result.
 
+Never combine raw files from different people into one uploaded kit. A merged file can carry
+more than two alleles at a position, so the matcher may report sharing that no single genome
+supports. Coverage gained this way is not a measured relationship. Combine only one person's own
+tests, and register the result as a derived kit that lists every source file. Represent an
+untested person through workflows 7–8 and keep the role label. When one person has several
+uploads, record which kit is active for matching and which are held aside, and name the active
+kit as that person's baseline. In the cited interview, several active uploads could produce repeated
+kit rows for one tester; verify the current matching controls and the rows actually returned. Match lists can also differ by source, so record the kit actually used in
+every run. The [sibling walkthrough](https://www.youtube.com/watch?v=-C6gmmx8nr0) and
+[interview answer](https://www.youtube.com/watch?v=zvZhuusSROY) motivate this. Current upload
+validation, and the matching setting's name and effect, remain unverified.
+
+When parental relatedness affects the interpretation, run the parental-relatedness check on the
+relevant selected kit and store the result, its thresholds, the output it reports and its
+limitations in the kit registry. The check reads only that tester's own data, so no parent kit is
+required. Do not copy this kit's detected-run result to another relative; interpret its relevance
+through documented shared parents, and retain each kit's own detection limits. Interpreting any run
+of shared material belongs to `xdna-phasing-judgment.md` and the endogamy guidance in
+`ai-for-dna-research.md`. The
+[presenter's tool-order walkthrough](https://www.youtube.com/watch?v=PBL_T2TY93U) motivates the
+per-kit step.
+
 If an authorized, available lookup tool accepts a retained exact kit ID, email or GEDCOM
 ID, query that key and record its type and the actual lookup scope. Preserve returned
 aliases, associated kits/GEDCOMs and contact/manager roles; one email's kits need not
@@ -53,6 +75,21 @@ it does not establish that a person or kit does not exist.
 
 Historical example: Family History Fanatics, [User Lookup](https://www.youtube.com/watch?v=1QMQ9EgJcK0)
 (2019-04-16), demonstrating Genesis; current tool, field and visibility behavior remain unverified.
+
+When inspecting a supplied combined AutoKinship report, record which component reports
+actually have results. Keep each group label with its run and report type: an AutoCluster
+number and an AutoSegment number identify different groups, even when the numbers match.
+Preserve every reported membership for a kit rather than forcing one group per person.
+An AutoSegment member may lack AutoCluster membership in that report; keep that distinction
+without treating the blank as no DNA match. Estes's 2022 example demonstrates these separate
+numbering systems and memberships. [S19]
+
+For a crosswalk, retain `run_id, report_type, reported_group, kit_id, membership, result_ref`
+and any supplied interval fields. Link entries through verified kit identities while retaining
+each report's original labels and scope; an unresolved identity or unavailable component stays
+unresolved. The crosswalk records tool output, not an ancestral assignment, a validated
+predicted tree or a checked triangulation result. Use the later comparison workflows for
+the pairwise evidence actually needed. This register is synthesis, not an import format. [S19]
 
 **Artifact:** private kit registry: `kit_id, person_handle, source, kit_type, input_kits,
 upload_receipt, readiness, baseline_run_id`. Run manifest: `run_id, retrieved_at, tool_label,
@@ -76,6 +113,43 @@ known-relative control has a saved result. Record unavailable controls explicitl
    match-list scope and readiness. Re-run with comparable exposed controls; retain both original
    reports. Do not lower the threshold simply to recover a desired match.
 
+Before following a candidate, read the focal kit's whole match-list profile. When a kit returns
+many rows with large shared totals whose longest segments stay small, open several of its top
+matches' own One-to-Many lists. If those show no comparable inflation, mark the kit
+`profile anomalous` and do not convert its totals into relationships. Record each kit's vendor
+and export format with the observation. An
+[anomalous match-list thread](https://forum.molgen.org/index.php/topic,14468.0.html) and a
+[vendor-upload discussion](https://forum.molgen.org/index.php/topic,10116.0.html) motivate the
+check. Neither establishes a cause (population background, chip or file artifact, or altered
+data) or sets any threshold, and neither verifies which vendors' files are unsuitable.
+
+Keep every displayed match-list column as reported, but mark any estimated generation or
+relationship column as derived from the shared total. A derived value is not a second
+observation. Do not add it to the cM figure as corroboration, and do not convert it into a cousin
+level by a fixed offset, because one total is consistent with several relationship ranges. Record
+the total and let `ai-for-dna-research.md` and `unknown-parentage-wato.md` handle relationship
+ranges. The [presenter's analysis of the generation column](https://www.youtube.com/watch?v=V9hvINBzZmc)
+motivates this; his plotted figures are his own and are not reproduced here.
+
+When the question turns on identity state rather than amount, also record whether each reported
+region is half-identical or fully identical, and which tool reported it. Sibling-type questions
+whose totals fall in an overlapping relationship range depend on this state. A segment list of cM
+and SNP counts cannot supply it, and vendor exports may omit it. The
+[presenter's sibling answer](https://www.youtube.com/watch?v=U27k4R4rUkY) motivates recording the
+state. It does not set any threshold for how much fully identical material a relationship
+requires. Send the recorded regions to `ai-for-dna-research.md` (its fully-identical-regions step) for the
+relationship assessment.
+
+Where a match list reports an overlap figure, record it per row with each kit's testing source and
+version. Overlap describes which positions both kits were assayed at, not shared ancestry. Keep a
+missing or NA overlap value as unexplained, not as zero overlap or as evidence of no
+relationship. Separately, a One-to-One shared-SNP percentage is not evidence of relatedness or
+ancestry: unrelated pairs commonly show similar percentages. If you cite one, record an
+unrelated-pair comparison under the same settings as a baseline and rely on the reported
+segments. The [overlap discussion](https://www.youtube.com/watch?v=Ypfn6mzRbOc) and
+[ancient-sample answer](https://www.youtube.com/watch?v=GEc8JVzCX5o) motivate this. Neither sets a
+threshold or an expected range, or explains why values are missing.
+
 **Artifact:** candidate-to-comparison ledger: `candidate_run_id, pair_run_id, kit_a, kit_b,
 chromosome, start, end, cm, snps, comparison_type, status, discrepancy_reason`.
 
@@ -95,6 +169,14 @@ chromosome, start, end, cm, snps, comparison_type, status, discrepancy_reason`.
 4. Record the status as `three pairwise intervals overlap`, `no common core`, `pair missing`
    or `unavailable`. Send the measured intervals to the interpretation recipe before assigning
    an ancestor. [H4]
+
+When candidates overlapping one region fall into two separate ancestral groups, tabulate exact
+start and end positions from each pair's comparison table rather than from the graphic, and check
+every unordered pair in the set. Record the testing source behind each kit. When kits were
+assayed on different chips, endpoint differences alone do not establish different inherited
+tracts; preserve the differences and check the actual comparable overlap. Matching boundaries do not establish a shared ancestor or a parental side. The
+[presenter's two-group case](https://www.youtube.com/watch?v=KY_t2X7yXNY) motivates the position
+tabulation. His reading of identical starts as proof of relatedness is not established.
 
 **Artifact:** triplet table: `kit_a, kit_b, kit_c, ab_run, ac_run, bc_run, chromosome, build,
 pair_intervals, core_start, core_end, status, interpretation_ref`.

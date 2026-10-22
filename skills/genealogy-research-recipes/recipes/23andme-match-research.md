@@ -273,6 +273,15 @@ Family Phasing without a connected parent; do not carry the older classic parent
 phasing requirement into that different product. Record the feature name and inference
 basis with the result. [O6]
 
+Treat an inferred side assignment as suspect where the database relatives it relies on are
+related through more than one path, such as in endogamous families or with double cousins and
+other double relationships. A relative known on one side may also carry DNA from the other,
+which can pull segments to the wrong parent. Check the affected matches against documented
+pedigrees and an identified anchor before sorting matches by this label. The
+[GeneaVlogger update discussion](https://www.youtube.com/watch?v=gpq-ePNCr9E) explains this
+mechanism for automated side-assignment tools; it does not test 23andMe's feature
+specifically and gives no error rate. [S20]
+
 To orient the generated Family Tree, start with an identified cousin or other documented
 relative and check their placed branch. Do not assume that the left/right order names your
 mother's and father's sides. The 2023 unknown-grandparent workflow combines these anchors,
@@ -288,6 +297,18 @@ evidence recipes. This worklist is synthesis of the source's method.
 Use the haplogroup shown in a profile as a bounded search clue. For incompatible calls,
 direct-line exclusions, and choosing a more informative test, use
 [ydna-mtdna-interpretation](ydna-mtdna-interpretation.md).
+
+Treat a haplogroup search as a lead list, not a count. Test a DNA Relatives keyword search with
+a relative whose profile visibly shows that haplogroup. If that known positive is missing,
+record the search as unreliable for this profile, not as zero matches. Check that a short label
+does not also return longer labels it prefixes. When searching dated relatives exports, use
+23andMe's own label string and record each file's tester, download date and approximate match
+count. 23andMe's haplogroup tree can skip levels another vendor names, so also count broader upstream labels; a
+match may carry only a less specific call. A hit is a contact lead, not a measured Y-DNA match
+or proof of your direct line; check its side against a parent's list. No hit covers only the
+files searched. The [keyword-search discussion](https://genarchivist.net/showthread.php?tid=1392)
+and [a saved-download search thread](https://genarchivist.net/showthread.php?tid=275) report
+these failures without establishing their cause. [S24]
 
 ## Recipe 6: preserve the five different data products
 
@@ -326,6 +347,16 @@ an old tutorial is a lead to verify, not a standing list of working destinations
 For example, MyHeritage's current official help says it no longer accepts DNA uploads;
 an older instruction to upload 23andMe there is obsolete. [O13]
 
+If the user requests a privacy or account change, clarify the requested object before
+acting: destruction of a stored physical sample, deletion of stored digital genetic/account
+data, or withdrawal of research consent. A March 2025 article treats these as separate
+actions. Keep one entry for each requested object, with the request date, available provider
+response and unresolved questions; do not infer one action from confirmation of another.
+Make the user's preservation choices before any separately authorized irreversible action.
+A confirmation records what the provider reported; it is not independent verification of
+destruction, deletion or an effect on completed research. Where the current request route
+or effect is unavailable, leave it unresolved. [S27]
+
 ## Recipe 7: preserve ancestry painting without turning it into matching evidence
 
 When the question concerns an ancestry assignment, use Ancestry Composition's chromosome
@@ -348,6 +379,23 @@ found both a broad population and its narrower child population in the same 23an
 Keep the original rows and choose a consistent category level for a summary; do not add
 nested labels as if they were independent tracts. Record that filtering choice. [S11]
 
+Where a parent has a 23andMe ancestry result, compare the population painted at the same
+chromosome interval in both kits. Treat different labels on an interval believed inherited from
+that parent as a discrepancy to investigate, not as proof that either label is wrong. The
+parent's painted label may be on the copy that was not passed on. Unless phasing or matching
+establishes which parent passed on the child's segment, it may come from the other parent. A
+[version-update discussion comparing parent and child paintings](https://genarchivist.net/showthread.php?tid=1972)
+motivates this check without validating any category. [S26]
+
+Before relying on a small or trace assignment, open 23andMe's Ancestry Composition white
+paper, matching the result's version where identifiable (our precaution; the video does not
+address versions). Record that population's published precision and recall. These figures
+vary by population, so judge each trace against its own population's figures; do not treat
+every trace as noise or every trace as real. They are aggregate performance figures; they do
+not prove that this tester's trace is correct. The
+[GeneaVlogger white-paper walkthrough](https://www.youtube.com/watch?v=19axV2xDZSU)
+motivates this check without establishing current values. [S21]
+
 Keep ancestry overlays in a clearly labeled map or layer, separate from a map of identified
 matching relatives. Painting both can help explore an interval, but a matching color is not
 an ancestor identification. Check the imported intervals and the original confidence
@@ -368,6 +416,25 @@ with ancestry-service access and gives Premium members a broader previous-versio
 history. Compare what this account offers; an algorithm update changes the estimate rather
 than documenting a newly inherited ancestor. [S18, O18]
 
+Where the profile-data settings offer a Computed Data download, request it as a further dated
+artifact and inspect whether it holds earlier Ancestry Composition versions. A
+[computed-data discussion](https://genarchivist.net/showthread.php?tid=730) reports past-version
+coordinates in this file, including for recent-chip testers. Keep each row's version or revision
+label and confidence level, and compare versions at the same confidence level. Retain the
+original before importing it into a third-party painter, whose colors need not match 23andMe's.
+The thread does not establish which version is more accurate, nor that the file or menu path is
+still offered. [S25]
+
+Where an Ancestry Timeline is offered, record each population's displayed birth range. The cited
+presenter interprets it as an estimate of when the most recent ancestor fully of that population
+was likely born, assuming the whole share came from one ancestor; keep that reading unresolved
+until current help for the feature and the result version establish its definition, and verify it
+there before using the range to select generations. It does not mean the population appears in
+every generation since that date, and several ancestors may have contributed. Use the range only
+to choose which generation of the documented tree to search first, not to identify a particular
+ancestor. The [presenter's explanation](https://www.youtube.com/watch?v=bGT_9CcA674)
+motivates this reading without vendor documentation. [S22]
+
 For a recent geographic lead, open the Country Match or Genetic Group and save its displayed
 confidence label. Inspect a Country Match's available shaded subregions: darker shading
 reflects more DNA-sharing participants reporting ancestors there, not a percentage of your
@@ -376,6 +443,18 @@ recent-ancestor birth locations and can cross national borders. Use the named pl
 choose records and compare documented family locations, without assigning a particular
 ancestor or parental side from this display alone. Current help gives inconsistent numeric
 confidence bands, so retain the actual qualitative label. [S19, O19, O20]
+
+Where a ranked list of match-reported locations is shown for a population (the 2021 videos
+show one; check whether the current Country Match display offers it), read it as places that
+matches report in their own family information. The presenter says most of those places usually
+come from the matches' lines unrelated to their connection with you; treat that as his
+observation, not a provider fact, and keep each place's relevance unresolved.
+Large metropolitan areas rank high because many people in that population report them. An
+unexpectedly small locality is the more useful lead. Hold it as a hypothesis to test against
+documented lines, not as an origin. The
+[presenter's ranked-list example](https://www.youtube.com/watch?v=bv9KiUV4Os8) and
+[a second review](https://www.youtube.com/watch?v=dCLTYFFRPVk) motivate this from his own
+understanding, without vendor documentation. [S23]
 
 ## Recipe 8: bucket a legacy segment file with a known relative's list
 

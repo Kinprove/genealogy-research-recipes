@@ -58,9 +58,32 @@ item back to the claim. Check these failure points:
 - **Independence inflation:** several citations repeat the same information
   stream. Record that dependence and route its evidentiary assessment to the
   judgment recipe; citation count is not witness count.
+- **Quotation drift:** a published history or compiled genealogy quotes a source to show who a
+  person was. Follow its short citation to the full original and compare the quoted wording,
+  especially names, aliases and qualifiers. Record any difference as a discrepancy. The
+  [GeneaVlogger comparison](https://www.youtube.com/watch?v=8AMDbehYYts) found an alias dropped
+  from such a quote. A changed quotation sends the identity claim back to the original's own
+  evidence. It does not disprove the identity.
+- **Place anachronism:** a tree or pedigree entry names a town, county or state that did not
+  exist at the event date, even when sources are attached. Check when each named jurisdiction was
+  created. An anachronistic place makes the entry unreliable as written and may indicate copying;
+  it does not show that the person or event is fictitious.
 
 An inaccessible original leaves original-image validation unassessed. It does not
 automatically erase the value of a honestly identified index or derivative source.
+
+For a documented tree or compiled pedigree, check the parent-child links one at a time,
+starting with the present generation and moving back. Stop at the first link that lacks cited
+evidence and an inspectable argument supporting the relationship; consider both direct and
+correlated indirect evidence. A count of other sources attached to the person does not supply it.
+Report that link as the research frontier and mark everyone above it as unsupported; do not
+propose searches for the topmost name. A relationship-viewer path only repeats tree entries. On
+each link, also flag biologically impossible timing; a birth after the father's death alone is
+not an impossibility. James
+Tanner's [walk-back example](https://www.youtube.com/watch?v=9YdOl_wgvb4) and
+[pedigree review](https://www.youtube.com/watch?v=-mmKGzEd7PE) motivate this step. An
+unsupported link is not a disproved one. A missing register can explain the gap, but it does not
+settle the parentage ([end-of-line example](https://www.youtube.com/watch?v=i5nCiwPqqCQ)).
 
 ## Audit the searches behind an absence claim
 

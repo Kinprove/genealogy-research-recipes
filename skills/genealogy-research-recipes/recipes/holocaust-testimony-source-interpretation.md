@@ -53,6 +53,15 @@ inspected rather than treating one missing segment as loss of the whole case. Th
 [evacuation-source discussion](https://forum.j-roots.info/viewtopic.php?f=197&t=1199)
 motivates these source-class checks without establishing present scan availability.
 
+When an evacuation entry names a destination region, check whether another repository holds
+selected copies from that region's state archive. The
+[USHMM evacuation finding-aid examples](https://forum.j-roots.info/viewtopic.php?f=167&t=4906)
+show copy collections from Kazakh regional archives whose finding aids describe evacuee lists and
+aid files by original file (delo) and folio. Record the copy's accession/RG number and the
+original archive, file and folio as separate locators. A selected-records copy may not reproduce
+a whole file. A finding-aid description does not show that a given person appears, so inspect the
+listed folios before drawing any conclusion.
+
 ## Recover separated evacuation household cards
 
 Inspect the actual card's front and reverse before interpreting a derived “with children”
@@ -62,6 +71,15 @@ order and adjacent database IDs do not supply family order. Use recorded address
 attested surname alternatives as additional retrieval keys, preserving competing heads,
 ambiguous roles and missing serials. The same discussion motivates this household crosswalk;
 original coordinates or proximity alone do not establish kinship or complete household survival.
+
+When an evacuation search returns only a summary certificate (справка) and the question is origin
+or ethnicity, request a copy of the card itself. An
+[evacuation-card discussion](https://forum.j-roots.info/viewtopic.php?f=20&t=5084) reports that
+cards recorded nationality and birthplace, while the certificate issued from them omits
+birthplace. Record whether you inspected the card or only the certificate. A certificate's silence
+is not evidence that no birthplace was recorded, and a card entry is a registration statement,
+not a birth record. The thread does not show which card formats carry these fields, or the
+current request conditions.
 
 For a compilation covering several regions or source lists, keep the region and source-list
 reference with each row/family counter. Identical counters across lists do not join households.

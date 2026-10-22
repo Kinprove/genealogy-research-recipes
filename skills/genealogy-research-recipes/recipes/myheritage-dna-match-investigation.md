@@ -34,6 +34,13 @@ working loop and records, rather than another clustering or cM interpretation me
    session header, then save and recheck the association.
    The documented reassignment procedure does not apply to DNA Health kits.
 
+If one tested person has several MyHeritage kits (for example an upload and a lab-processed test),
+record each kit's identifier and processing type before comparing their match lists or cM values.
+MyHeritage's FAQ, as read in [GeneaVlogger's review](https://www.youtube.com/watch?v=arP83dD_7a0),
+says the downloaded raw-file header states the processing used and that array-processed kits are
+not reprocessed. Take the type from the header, otherwise record `not_observed`; do not infer it
+from purchase date. This source does not measure how results differ between kit types.
+
 ### Before replacing the whole linked tree
 
 While both trees remain accessible, list the affected kit identifiers and map each old
@@ -76,6 +83,14 @@ for a whole-tree replacement, also the old/new kit-profile crosswalk and observe
    can make a moderate match more useful for this question than an uninformative higher-cM match.
 5. Save empty results with their actual query, kit, filters and date. Do not fill an unshown DNA
    measurement with zero or infer that a person outside the list has no shared DNA.
+
+Outside the DNA Matches list, MyHeritage's tree-based Cousin Finder lists relatives found through
+family trees, including people who may never have tested. Record each entry as a tree assertion
+that is only as good as the trees behind it. Do not treat it as a DNA match or a DNA-supported
+relationship, and do not give it shortlist cM fields. In a
+[Cousin Finder discussion](https://genarchivist.net/showthread.php?tid=1549), one user reports that
+the "DNA Match" marker indicates results on MyHeritage (tested there or uploaded), and that some
+relatives who tested elsewhere appear unmarked. So do not read a missing marker as untested; check other companies, or ask the relative when contact is authorized, before planning a test.
 
 **Output:** shortlist rows and a search log, including filtered negative searches.
 
@@ -138,6 +153,16 @@ for a whole-tree replacement, also the old/new kit-profile crosswalk and observe
    bars alone do not establish triangulation. Use the documented relative as a lead to a branch;
    identifying a particular ancestor still requires the pedigree and record investigation.
 
+When working from an exported segment file rather than the browser, keep the unfiltered export and
+analyse a copy sorted by chromosome, then start position. Matches overlapping a documented
+relative's long segment are only candidates. Overlap at one position fits either parent's copy of
+that chromosome. Check each candidate against that relative's shared-match list. Put overlapping
+non-shared matches in a provisional other-side group to test against an anchor from that side.
+Shared-match status is not triangulation, and a missing shared match may reflect a display
+threshold. If a cM cutoff in your copy hides a relevant segment, return to the unfiltered file. The
+[BYU presentation's chromosome 13 example](https://www.youtube.com/watch?v=DzNZhaIdQJo) motivates
+this check without verifying its branch assignments.
+
 **Output:** one segment observation per exact comparison set, with display evidence and date.
 
 ## 6. Audit a Theory of Family Relativity one connection at a time
@@ -184,6 +209,13 @@ for a whole-tree replacement, also the old/new kit-profile crosswalk and observe
 ## 8. Send a message the match or manager can answer
 
 **Use when:** a particular pedigree detail could resolve the next investigation step.
+
+Before the first approved message to a close match, preserve its minimal visible basis in the
+private `selected_matches` packet: kit/match identifiers, observation date, and the relevant
+profile/tree or shared-match observations and links. This fixes the basis of the question if
+access later changes; it neither establishes why a row disappeared nor turns it into a measured
+zero. The [2024 Q&A](https://www.youtube.com/watch?v=Nsir-VBEhWg) motivates this timing;
+the limited packet reuses workflow 9's preservation controls.
 
 1. Use Contact on the DNA-match card. Identify whether the recipient manages another person's
    kit; address the tested person's relationship in the question.

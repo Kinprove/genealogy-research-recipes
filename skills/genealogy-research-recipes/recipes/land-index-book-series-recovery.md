@@ -1,10 +1,12 @@
-# Recipe: Recover land instruments through indexes and book series
+# Recipe: Recover land instruments through indexes, book series and entry files
 
 ## Goal
 
 Follow a land-record lead through the correct index and record-book series.
 Keep both index directions, the instrument and recording dates, and the original locator
 visible, so one missed surname entry or guessed book does not become a false absence.
+For a U.S. federal patent lead, use the separate entry-file workflow below to recover
+the supporting packet rather than treating the patent as the complete file.
 
 ## Before starting
 
@@ -32,7 +34,7 @@ The [female-parentage research example](https://familylocket.com/rlp-230-finding
 motivates this handoff without independently establishing the stated residence or identity.
 
 Use the existing platform workflow to open an image-only index and distinguish printed page
-numbers from viewer image numbers. This recipe adds land-index and book-series controls.
+numbers from viewer image numbers. This recipe adds land-index, book-series and entry-file controls.
 It does not infer kinship, explain property law, draw plats or build a chain of title.
 
 For an original-government grant lead, carry separately supplied warrant, survey and patent
@@ -42,6 +44,12 @@ acreage. Reconcile the retrieved components against the register before followin
 conveyances, leaving missing parts and conflicting dates or acreage unresolved. The
 [Pennsylvania acquisition example](https://familylocket.com/part-4-pennsylvania-germans-the-land-acquisition-process-in-colonial-pennsylvania/)
 motivates the crosswalk; it does not establish a universal grant procedure or legal title.
+
+Do not assume the warrant, survey and patent were completed before private sales began. A
+warranted or surveyed tract may pass through county deeds before a later patent, so the patentee
+can be a later holder rather than the first settler. Search county indexes for the tract between
+the survey and patent dates. The [Pennsylvania discussion](https://www.youtube.com/watch?v=V0he2PdYk2k)
+motivates this order check. [S7]
 
 When a supported warrant/survey or assignment lead remains unexplained by a deed search,
 follow the applicable grant/patent index to the described original survey and jacket. Inspect
@@ -61,6 +69,31 @@ the grant and follow an abstract's ellipsis to the available full item. Keep ori
 translation and compiled abstract distinct; extract only the household, origin or oath wording
 actually present. The same example motivates this related-item check without guaranteeing
 particular fields, complete survival or a present translation service.
+
+### Tax rolls used for a land lead
+
+Use the [tax roll observation](tax-roll-observation-workflow.md) workflow for the annual series
+register and its inspection statuses, separate tax-type searches, reading a volume's arrangement,
+literal capacity notations such as *administrator of* or *estate of*, and delinquent addenda.
+For a roll used for a land lead, also apply the checks below.
+
+Map every volume and tax-class section of each selected year before interpreting a surname miss
+or stopping at one hit, and record each section's own sort key, locator and inspected extent in
+the series register: a real-estate section may follow land location while another list follows
+names. Check separately described supplementary or nonresident sections without assuming every
+place has them, and recheck the arrangement for another year. The
+[reported one-book to two-book transition](https://familylocket.com/rlp-329-using-ai-in-report-writing/)
+motivates this inventory. A missing name in one section is not absence from the annual set, and
+a complete search of supplied volumes does not establish complete survival or legal liability.
+
+If an expected taxpayer is missing from a roll used for this land lead, inspect its actual
+organization and bounded unsearched sections for entries filed under another payer or estate
+representative. Preserve the names and sections searched, their extent and the result.
+In the [1849 tax-roll example](https://familylocket.com/rlp-315-tips-for-when-the-courthouse-burned/),
+the speaker reports finding John Cline's entry under W for administrator Wiseman after
+missing it under C. Carry any supplied parcel reference into the comparison with land records.
+This recovery step does not by itself establish a death date, a sale, kinship, legal liability
+or the identity of same-name people.
 
 ## 1. Identify how this index actually works
 
@@ -136,6 +169,18 @@ separately from recorded deed books; distinguish the target requested from what 
 The [loose-deed example](https://familylocket.com/rlp-225-how-multiple-relationships-affect-dna-match-analysis/)
 motivates this fallback without guaranteeing survival, access or a reason for nonrecording.
 
+When a record-loss report covers the period, do not treat it as absence. Ask the custodian, or
+check the holdings description, whether deeds were re-recorded from returned originals, and
+search those books and their indexes. Record a re-recorded entry as a later copy, keeping the
+instrument date, any stated earlier recording reference and the re-recording date apart. Also ask
+whether an abstract or title company keeps its own tract records for the area. Record any copy
+obtained as a third-party abstract or copy with its custody stated, and keep any official
+book/page it cites as a retrieval lead. The [burned-county discussion](https://www.youtube.com/watch?v=zSx_9MrKP0M)
+and [title-plant remark](https://www.youtube.com/watch?v=gssWfSl8JwY) motivate these routes. They
+do not show that a given county re-recorded, how such entries are marked, that every original
+came back, or that a plant survives, covers the period, is accessible or reaches back to the
+original grant. [S5, S6]
+
 ## 4. Preserve two dates and close the bounded retrieval audit
 
 1. From the retrieved document, record the instrument's stated date and the recording date
@@ -172,6 +217,90 @@ The [Joanna West deed example](https://familylocket.com/rlp-217-joanna-west-case
 supplies this crosscheck. Placement or omission alone does not establish widowhood, legal
 incapacity, a spouse's death or kinship; execution names in a recorded copy are not necessarily
 original autographs.
+
+Before reporting a grantor's wife absent from a sale, read the recorded instrument through its
+acknowledgments for a release or separate-examination clause. If none appears, search later index
+entries over an explicit, recorded range for a separately recorded release or disclaimer deed,
+which may have been made years after the sale [S4], and link it to the sale's instrument ID.
+Record her name as written, any date the release states, and any stated source of her interest,
+such as inheritance. The [disclaimer-deed explanation](https://www.youtube.com/watch?v=Gci5qXFBtrQ)
+and [release-of-dower discussion](https://www.youtube.com/watch?v=CjjD9mI_dY8) motivate this
+check. Release requirements varied by state. Neither a missing release nor the witnesses' names
+establish her death, marital status or kinship. [S9]
+
+A grantor/grantee index often names only the parties to an instrument. Determine from the index
+itself whether it covers only parties or also witnesses, adjoiners, heirs or other people named in
+the text, and report a negative search within that verified scope. Where a full-text search of deed images exists, or the relevant instruments
+are already in hand, search or read them for the person and verify any hit on the image. The
+[full-text search remark](https://www.youtube.com/watch?v=kFxsAw8HHAs) motivates this
+distinction. Full-text coverage and machine reading vary, so a full-text miss does not prove
+absence either. [S8]
+
+When an original deed survives outside the recorded book, read any clerk's endorsement giving
+the book, page or acknowledgment date. Use it to find the recorded copy, then compare the two
+texts instead of assuming the transcription is exact. Where a court ordered recording, search the
+order or minute book for that entry and keep its date in its own field. The
+[deed-process explanation](https://www.youtube.com/watch?v=gWPPN9DUUSc) motivates this crosswalk.
+Endorsement and court-order practice varied, and the source shows no example endorsement. [S4]
+
+## 5. Carry a U.S. federal patent lead into its separate entry file
+
+**Use when:** the inspected patent or finding description identifies a federal land entry
+whose supporting papers have not been examined, or a completed-patent search misses a
+supported tract lead. Keep this route separate from later county conveyance indexes.
+
+The [U.S. federal land entry files](us-federal-land-entry-file-recovery.md) workflow carries
+the full entry route: routing the entry by its authority, the separate bounty-land application
+and entry series, the party-role table, the tract-book search behind a missing patent, and the
+case-file request and inventory. This step adds the locator, packet and date controls below.
+
+1. Save the patent image/locator and its supplied state, land office, act and date,
+   acreage, document/patent number and exact land description. Keep these labelled fields
+   separate; an absent entry-file number is not supplied by relabelling the patent number.
+   The [NARA preparation account](https://www.danaleeds.com/10_tips_for_nara/) shows a
+   BLM-linked locator worksheet, not a universal current request form. [S10]
+2. Identify the entry class from the document or finding description. The cited cases
+   include cash sales, bounty-land military warrants and homestead entries. Match the
+   locator fields to the actual custodian's series description and instructions for that
+   class and period before requesting the file; record unresolved class, custody or access
+   separately. A patent image does not establish that its supporting packet has been
+   retrieved. [S11, S12]
+3. After a completed-patent search misses a supported tract lead, follow the tract-book route in
+   [U.S. federal land entry files](us-federal-land-entry-file-recovery.md) to entries that did
+   not reach patent, and retain the literal entry status, legal description, land office and any
+   entry/file number. Queue a
+   corresponding case series only when that locator and the actual holdings support it,
+   keeping requested and retrieved files separate. The [historical tract-book example](https://www.youtube.com/watch?v=fEuF00FwZN8)
+   motivates this fallback. A patent-search miss does not establish that no application existed
+   or that its file survives; the historical entry status and present retrieval status remain
+   distinct. [S17]
+4. When the packet is available, compare its identifiers with the patent lead and inventory
+   the actual jacket and component documents against the entry-class targets below. Inspect
+   certificate and assignment reverses where present. Retain each component actually present,
+   including affidavits, with its individual locator, and record the requested and retrieved
+   extent; do not assume a fixed page count or a complete packet from the presence of a
+   certificate. [S11]
+5. In bounty-land papers, keep the named veteran, heir and assignee as separate rows of the
+   party-role table in U.S. federal land entry files. An assignee is not thereby the veteran or
+   a resident of the parcel. In homestead papers, keep the reported settlement, application, filing,
+   improvements, testimony and patent dates distinct. Attribute claimant and witness
+   statements to their actual documents; route conflicts and identity questions to the
+   evidence/proof workflow. [S11]
+
+| Entry lead | Components illustrated in the teaching account |
+| --- | --- |
+| Cash sale | Register and Receiver receipts, certificate, and any described agency or preemption papers |
+| Bounty land warrant | Certificate and its reverse or assignment endorsements |
+| Homestead | Application papers, claimant and witness testimony, and related enclosures actually present |
+
+The [land-file examples](https://www.danaleeds.com/nara-land-records-discovering-family-history-details-that-arent-online/)
+motivate these inspection targets, not a universal contents list or eligibility rule.
+
+**Artifact:** patent-to-file locator crosswalk, entry class and retrieval state, component
+inventory, named roles and separately sourced event dates.
+**Check:** the patent, supporting entry file and later deed remain separate record objects.
+The cited cases supply no universal eligibility rule, period of residence, page count,
+digitization guarantee or independently verified family conclusion.
 
 ## Prompt pattern
 

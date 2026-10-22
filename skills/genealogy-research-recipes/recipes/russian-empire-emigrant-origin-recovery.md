@@ -51,16 +51,52 @@ records, directories, naturalization papers and children's records. Separate an 
 the later record's reporting date. A child born abroad is a lead to family movement, not proof that
 every household member traveled together. [S4]
 
+A destination census or similar later record that reports “Germany” or “England” for a Russian
+Empire family may reflect the port the informant named, such as Hamburg or Liverpool, rather than
+birthplace or nationality. Record the country as written, with its informant and record role. Test
+it against the arrival record's embarkation and last-residence fields before sending any search to
+that country. [James Tanner's talk](https://www.youtube.com/watch?v=wUyse0sA2cU) motivates this
+check as a general warning about nineteenth-century enumeration. It gives no rule for a particular
+census and does not make every such entry a port.
+
+A German-speaking household recorded as born in “Germany” may instead come from the Russian Empire's
+German colonies, for example in Bessarabia. Compare the birthplace across every census year and the
+manifest's origin field before searching German emigration sources. A later census or manifest
+origin that reads “Russia” is a reason to add a colony candidate; a reported miss in German
+emigration lists is not. In the
+[Bessarabian-colonist case](https://forum.ahnenforschung.net/forum/thread/3013995/),
+the manifest that was found had sailed from Bremen, and the colony marriage and manifest were linked
+only by names, ages and a child. Treat such a link as a candidate to test. It does not settle the
+family's earlier German origin.
+
 Make one chronology row per reported or documented movement. Preserve every reported immigration
 year with its source, then identify the interval supported by the dated appearances. Keep conflicting
 arrival dates visible. A later return, a child's separate arrival and an onward crossing are separate
 events, not corrections to one universal immigration date. [S1, S5]
+
+A destination marriage can exist as several separately filed records: an application, a licence, a
+certificate or return, a county or state copy, and a religious record. Each was made for a
+different purpose and can carry different fields. Retrieve every component the jurisdiction created
+before concluding that the marriage gives no origin. In the
+[village-finding interview](https://www.youtube.com/watch?v=RKqz2lXQU7w), the interviewee describes
+a New York City licence application that asked for the couple's and parents' birthplaces. The
+interviewee puts it at about 1908–1937 without certainty, so confirm the jurisdiction's actual
+series and coverage before relying on those years.
 
 For a U.S. citizenship clue, find the issuing court and retrieve the declaration and petition, plus
 attached arrival evidence when present. The stages can be in different courts. Before September 27,
 1906, municipal, county, state and federal courts could naturalize; a NARA miss does not exhaust
 local court holdings. Later records also require checking the actual court and repository. [H2]
 Do not expect every emigrant, wife or child to have a separate naturalization packet.
+
+When a declaration of intention bears the emigrant's signature in Yiddish or another non-Latin
+script, record it as a separate, self-written name observation. Have it read independently, log
+every proposed reading and any illegible portion, and add the readings to the name-variant searches
+for origin-side records. The
+[GeneaVlogger's great-grandfather case](https://www.youtube.com/watch?v=2YLat4WuFKY) and the
+[later recap](https://www.youtube.com/watch?v=2h6zplRuD28) motivate this step: a crowd reading
+produced a surname different from the family's American surname, with an uncertain ending. A
+signature reading is a search key. It does not prove the name used in origin records.
 
 **Artifact — movement chronology:**
 
@@ -151,6 +187,25 @@ and citizenship records for origin clues. Search later-arriving relatives and fe
 clearer locality wording, using the chronology to test whether they belong to the same family
 network. [S1, S3, S4]
 
+When records turn up several people with the destination contact's name, give each namesake a
+separate row: birth, arrival and naturalization data, plus the dated addresses from censuses and
+citizenship papers. Before linking any of them to the traveler, compare each dated address with the
+manifest's contact address. A
+[contact-namesake discussion](https://forum.ahnenforschung.net/forum/thread/185403/)
+shows this check. The candidates' 1925 and 1930 census addresses did not quite match the manifest
+address, and one candidate's naturalization address was only nearby. A nearby street or a similar
+year narrows the field but does not identify the contact. The link to the traveler's home district
+still has to be tested.
+
+Only after the target's own, family and contact records give no usable origin, and when the surname
+is genuinely rare, build a separate surname survey as a lead list. Record each passenger-list or
+other origin-bearing entry for the surname with its stated place, place role, date and locator.
+Clusters become candidates for the competing-locality table. The
+[Genealogy Gems planning episode](https://www.youtube.com/watch?v=3y1JkCoCpyU) and its
+[repeat](https://www.youtube.com/watch?v=VWxN39TRlMk) motivate the survey. Neither measures how
+rare a surname is or establishes kinship; a shared surname only guides the next search and never
+substitutes for the record that distinguishes the possibilities.
+
 When the direct traveler has only “Russia” in the birthplace field, a sibling's full arrival or
 naturalization record can supply a locality lead. Preserve the documented sibling relationship
 and the sibling's own place role: their birthplace is not automatically the target's birthplace.
@@ -158,6 +213,24 @@ For destination/return newspaper searches, use the specific retrieval loops in
 [newspapers-com-search-recovery.md](../../genealogy-research-recipes/recipes/newspapers-com-search-recovery.md).
 For an obscured relative's birthplace or parentage, request the record that distinguishes the
 possibilities rather than collecting unrelated people with the surname.
+
+If a relative may have prepaid the passage, look for passage-ticket records such as immigrant-bank
+ledgers (e.g. Blitzstein), and open the original entry rather than stopping at an index. Extract
+the date, passenger, the passenger's origin address, route and line, then add the purchaser's name
+and address as its own contact row. A purchaser recorded under a different surname can be a lead
+linking pre-migration and American names; test it by comparing addresses with other records. In the
+GeneaVlogger's [ledger walkthrough](https://www.youtube.com/watch?v=pVfGwY6uBHU) and
+[surname case](https://www.youtube.com/watch?v=VQgE0u9SGSU), the presenter is unsure of some
+columns and of the holding repository. The ledger does not state the payer's relationship, and the
+presenter calls the match strong but not confirmed.
+
+If money was sent between the emigrant and relatives back home, search the surname in the documents
+of Russian consulates in the USA, for example by asking in the J-Roots forum's index topic for them. A
+[consular-records reply](https://forum.j-roots.info/viewtopic.php?f=75&t=7576) says hits can be
+viewed through FamilySearch, and the poster found documents on an undelivered money transfer and
+refund that way. The reply gives no period, coverage, finding aid or field list. Record any named
+person and place as written, as an unverified contact lead, and do not treat a miss as a negative
+search.
 
 **Artifact — contact worklist:**
 
@@ -177,6 +250,24 @@ or reporting date; resolve the locality before selecting a modern country's arch
 localities, the JewishGen Communities Database supplies historical names/jurisdictions, including
 Yiddish variants. Its omission of a village does not show that no Jews lived there; use its Gazetteer
 and relevant historical gazetteers/maps for additional candidates. [S6, H6]
+
+When a place string on a passenger list cannot be identified, compare its doubtful letters with the
+same letter groups in other words on the page. Then test
+whether the string is a German transcription of a Slavic name (for example, Sch for Ш) and enter
+each resulting candidate in the competing-locality table. In a
+[manifest place-reading discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667), one
+participant read an unrecognised name as Schomer, comparing the same letter group elsewhere on the page, and
+participants considered Zhitomir. The thread shows no confirming record, so a reconstructed reading
+stays a candidate and is not the locality.
+
+A place name that matches a guberniya or a major city can be a province-level or nearby-city answer
+rather than the town of origin. Before entering Kovno, Vilna, Warsaw or a similar name as a town
+candidate, add a second row that reads it as the province or as a stand-in for a nearby locality,
+and look for a record that names a smaller place. The
+[Lithuanian genealogy talk](https://www.youtube.com/watch?v=mXVe1M5AibY) and the
+[village-finding interview](https://www.youtube.com/watch?v=RKqz2lXQU7w) motivate this check.
+Neither shows which reading applies to a given record, and the talk's generalization about who
+lived in cities does not decide between them.
 
 Use [jewishgen-search-family-reconstruction.md](../../genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md)
 for the Jewish place/name search ladder. For every confession, identify the register jurisdiction

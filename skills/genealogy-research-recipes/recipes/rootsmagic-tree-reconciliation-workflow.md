@@ -117,6 +117,22 @@ decision, operation, reason, attempted_at, result_state`.
 **Checkpoint:** every staged change has a destination and a reason. A color or difference
 marker identifies a comparison result; it does not decide which fact is supported.
 
+### Review place detail before a bulk normalization
+
+If an available tool proposes place-name changes, retain the original place and affected
+person/fact references before accepting a batch. Decide which proposed forms to accept,
+keep unchanged or defer to individual fact review. Preserve ward, district, neighborhood
+or other sub-place text in an appropriate detail/description field when separating it
+from the place; inspect the actual field mapping rather than discarding unmatched text.
+Keep an intentional county-level location distinct from a same-named city. A recognized
+modern place is not authority to replace the event's historical jurisdiction: retain the
+source wording and use the [historical-jurisdiction check](familysearch-practical-record-workflows.md#1-resolve-the-events-historical-jurisdiction)
+where needed. Then apply the existing backup, scoped transfer and destination checks.
+
+The [Family Tree Maker demonstration](https://www.youtube.com/watch?v=44HrciUhiHI)
+supplies the keep/change/detail/defer choices. It does not establish a RootsMagic bulk
+control, historical place equivalence or lossless transfer. [S3]
+
 ## 4. Reopen the destination and check what arrived
 
 1. Accept only the reviewed batch, then reopen each affected destination profile.

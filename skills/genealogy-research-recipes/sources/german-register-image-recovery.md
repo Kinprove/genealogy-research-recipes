@@ -1,0 +1,62 @@
+## Sources
+
+S1–S25 are recorded talks, reviewed 2026-10-20. No register image, gazetteer entry or microfilm was independently inspected.
+
+- **S1:** BYU Family History Library / Roger P. Minert, [German Immigrants in American Church Records goes to Pennsylvania!](https://www.youtube.com/watch?v=A_eY1eeeAqY), 2025-05-29. Used for the b/p, d/t, g/k swaps, the reverse-alphabetical lists, the reported 38.2% misspelling figure and the occasional unresolved name.
+- **S2:** BYU Family History Library / Joe Everett, [Deciphering Names of German People and Places](https://www.youtube.com/watch?v=s-QxuAMseWU), 2022-07-02. Used for the Meyers wildcard filtered by state (Weikersheim, Oberamt Mergentheim), confirming a place by its nearness to a related place, and Minert's provincial reverse indexes.
+- **S3:** BYU Family History Library / Emma Ruddy, [Germans in America: A Guide to Finding Your Ancestor's Hometown](https://www.youtube.com/watch?v=a7j-39Lb9Hw), 2024-04-15. Used for the Meyers asterisk search, the entry contents and map views, and the GenTeam gazetteer fields.
+- **S4:** BYU Family History Library / Larry Jensen, [Understanding German Historical Background](https://www.youtube.com/watch?v=_cX2kyEZ1-w), 2023-07-31. Used for the Sorbian name absent from Meyers and resolved through the Saxon register and an 1871 map.
+- **S5:** BYU Family History Library / Joe Everett, [Case Studies using German Immigrants in American Church Records](https://www.youtube.com/watch?v=1v_HTrJfiJU), 2026-02-20. Used for Hülshagen (own civil registry, no church), the Lauenhagen parish, the presenter's statement that the Schaumburg-Lippe registers were not online, and the researcher's extracts.
+- **S6:** BYU Family History Library / Roger Minert, [Making the Most out of GIACR](https://www.youtube.com/watch?v=eDhvxqgx2NE), 2020-02-22. Used for town ≠ parish (about one in ten match), Meyers and GenTeam, Archion and Matricula, and the rounded ages.
+- **S7:** BYU Family History Library / Larry Jensen, [Understanding German Records and Jurisdictions](https://www.youtube.com/watch?v=uSAI9qahIV8), 2023-03-16. Used for the evPfk/kathPfk/StdA/AG/BKdo abbreviations, the comma/semicolon rule, the holding town, and registers on Archion but not filmed.
+- **S8:** BYU Family History Library / Milan Pohontsch, [German Online Sources](https://www.youtube.com/watch?v=pIQhfZ_LDsM), 2016-06-14. Used for the Prussian gazetteer's volume/page/line index and fields, its incompleteness, and the Kartenmeister area.
+- **S9:** BYU Family History Library / Angela Sinickas, [Resources for Lithuanian Genealogy](https://www.youtube.com/watch?v=49kPDjLKLtg), 2019-06-05. Used for the five same-named places and the gazetteer giving dated former names and the nearest church of each confession.
+- **S10:** BYU Family History Library / Angela Sinickas, [Lutherans in Lithuania](https://www.youtube.com/watch?v=xoY83Sx3ANk), 2019-11-18. Used for choosing by county in Kartenmeister and the modern name with the nearest Lutheran and Catholic parishes.
+- **S11:** BYU Family History Library / Larry Jensen, [Using German Periodicals & Periodical Indexes: Part 3](https://www.youtube.com/watch?v=gK5L1R9CL5w), 2020-09-30. Used for the two places named Rosenthal separated through court, muster-roll and house-owner records.
+- **S12:** BYU Family History Library / Larry Jensen, [Using German Maps and Atlases](https://www.youtube.com/watch?v=GrluYdQecz4), 2024-02-21. Used for the 674-sheet map key, choosing a map sheet from the office towns, the railway-station radius, and the German-to-Polish register's film reference.
+- **S13:** Genealogy Gems, [Episode 261 – 10 Top Tips for German Genealogy](https://www.youtube.com/watch?v=rYN1VEUdSzA), 2022-02-10. Used for Meyers covering the pre-WWI empire, same-named towns, and the historical map toggle.
+- **S14:** BYU Family History Library / Laurie Castillo, [Beginning German Research](https://www.youtube.com/watch?v=DweRAvdqzRk), 2016-11-14. Used for state-of-origin birthplaces, the change from Nassau to Hessen-Nassau, territory moved without migration, and phonetic census takers.
+- **S15:** Genealogy Gems / James M. Beidler, [Finding German Villages for Genealogy and Family History](https://www.youtube.com/watch?v=lj_nACJZt94), 2018-03-28. Used for archival custody following the historical state rather than the present one.
+- **S16:** BYU Family History Library / Larry Jensen, [German Reference and Research Tools](https://www.youtube.com/watch?v=e-TjolszpWk), 2022-09-09. Used for the German-to-foreign register's arrangement, choosing by Kreis, the German-to-Polish register's columns and film reference, and the BGN USSR gazetteer.
+- **S17:** BYU Family History Library / Milan Pohontsch, [Printed Sources for German Research](https://www.youtube.com/watch?v=TOkMTqw_Edo), 2016-03-01. Used for the two catalogue searches (foreign and German name) and the catalogue place database's limits.
+- **S18:** Genealogy Gems, [Source Citation for Genealogy – Elevenses with Lisa Episode 60](https://www.youtube.com/watch?v=Eh06QweqW3g), 2021-06-17. Used for the original and duplicate images differing in added entry and page numbers and stamps.
+- **S19:** Genealogy Gems / James Beidler interview, [Episode 191 The Genealogy Gems Podcast](https://www.youtube.com/watch?v=IHADRsl3qCM), 2016-12-23. Used for church-book duplicates versus transcripts/abstracts/extracts as gateways, and whether the original survives.
+- **S20:** Denyse Allen / James Beidler, [Researching German Americans with James Beidler](https://www.youtube.com/watch?v=uzd9VGvE1yc), 2024-07-25. Used for the family-arranged register as a later recopy (Stöver).
+- **S21:** BYU Family History Library / James Baker, [Bonanza! Strategies to Add a Lot of People to Your Family Tree](https://www.youtube.com/watch?v=C4GoY90Jjzw), 2021-12-20. Used for Familienbuch and Sippenbuch scope, finding copies through the FamilySearch catalogue and WorldCat, and the books usually not being online.
+- **S22:** BYU Family History Library / Larry Jensen, [Using German Periodicals & Periodical Indexes: Part 2](https://www.youtube.com/watch?v=zEZRFDKESXs), 2020-09-24. Used for navigating by lineage-book family numbers and parents' numbers.
+- **S23:** BYU Family History Library / Larry Jensen, [Using German Periodicals & Periodical Indexes: Part 4](https://www.youtube.com/watch?v=W_IeM93Lcn4), 2020-10-22. Used for finding a periodical parish extract by place index and table of contents and using it as a guide to the original.
+- **S24:** BYU Family History Library / Larry Jensen, [Determining Places of Origin of German Immigrant Ancestors](https://www.youtube.com/watch?v=2PxBQeskcSI), 2021-02-21. Used for the illegitimate baptism, the father named at the foot of the page, the later legitimation and the surname change.
+- **S25:** BYU Family History Library / Larry Jensen, [Understanding German Cultural Background](https://www.youtube.com/watch?v=g8pltErjQpU), 2024-01-26. Used for the legitimation dated 30 May 1842 and done by the local Amt, and the presenter's 1826 and 1677 legal statements.
+
+S26–S39 are threads in the Ahnenforschung.net forum, reviewed 2026-10-21. The date given is the date the thread started. Everything taken from them is a participant report.
+
+- **S26:** Ahnenforschung.net Forum, [a thread on a search for a Wehrmacht-era soldier's birthplace (Josefsdorf/Józefin)](https://forum.ahnenforschung.net/forum/thread/3015319/), 2026-06-12. Used for searching the Standesamt that covered the place in the event year, and the Berlin-held marriage registers of a former Upper Silesian office.
+- **S27:** Ahnenforschung.net Forum, [a thread on a Berlin family search using a death entry](https://forum.ahnenforschung.net/forum/thread/3015270/), 2026-06-11. Used for the death entry citing the marriage office and number, and checking which register years survive.
+- **S28:** Ahnenforschung.net Forum, [Linktipps von A-Z - Berlin](https://forum.ahnenforschung.net/forum/thread/191941/), 2022-04-26. Used for Standesamt I Berlin as replacement registry office for the former German territories.
+- **S29:** Ahnenforschung.net Forum, [Neues bei der Brandenburg-Datenbank (mit Berlin)](https://forum.ahnenforschung.net/forum/thread/148940/), 2019-05-30. Used for the Stralau count of unindexed entries and the war-loss reply for Berlin III.
+- **S30:** Ahnenforschung.net Forum, [a thread on a family search in Meimersdorf near Kiel](https://forum.ahnenforschung.net/forum/thread/2990576/), 2026-01-28. Used for Meimersdorf baptisms alternating between Flintbek and Kiel St. Nikolai.
+- **S31:** Ahnenforschung.net Forum, [a thread on finding a baptism for a man born near Preetz, Schleswig-Holstein](https://forum.ahnenforschung.net/forum/thread/2988195/), 2026-01-21. Used for Meyers' ecclesiastical view (Preetz/Wankendorf) and getting the civil marriage entry before searching on tree data.
+- **S32:** Ahnenforschung.net Forum, [Zufallsfunde Berlin](https://forum.ahnenforschung.net/forum/thread/1550/), 2006-12-26. Used for the Teupitz banns entry for a Luisenstadtkirche wedding and the Breslau III marginal marriage notes.
+- **S33:** Ahnenforschung.net Forum, [Kirchenbuch Behlendorf (vor 1761)](https://forum.ahnenforschung.net/forum/thread/2961522/), 2025-10-18. Used for Behlendorf on Archion from 1761 and the Nusse copies in the Lübeck city archive.
+- **S34:** Ahnenforschung.net Forum, [Ich suche das Buch ... Wer hat es? Diskussion/Anfragen](https://forum.ahnenforschung.net/forum/thread/2550/), 2006-08-17. Used for Danzig-Emaus (1906) and St. Nikolai, and the civil-register fallback when church books have a gap.
+- **S35:** Ahnenforschung.net Forum, [Humoris causa](https://forum.ahnenforschung.net/forum/thread/928/), 2006-07-14. Used for the original and Zweitschrift naming different mothers, the 'Civil' christening, and death crosses.
+- **S36:** Ahnenforschung.net Forum, [Suche die FN TRAPP, GÖHLMANN und POLCZYK](https://forum.ahnenforschung.net/forum/thread/202416/), 2023-02-10. Used for the Namensregister line as a locator, fetching entry and Sammelakte from the Landesarchiv, and continuing in the archive's name indexes.
+- **S37:** Ahnenforschung.net Forum, [a thread on a retired Prussian captain (1870 to c. 1919)](https://forum.ahnenforschung.net/forum/thread/2950717/), 2025-09-07. Used for per-office marriage Sammelakten and the file holding only the banns certificate.
+- **S38:** Ahnenforschung.net Forum, [Charlottenburg Geburt 1925](https://forum.ahnenforschung.net/forum/thread/3014937/), 2026-05-31. Used for a birth certificate filed with the banns or death registration as a route to the birth entry.
+- **S39:** Ahnenforschung.net Forum, [Leitfaden zur Anforderung von Urkunden aus Archiven](https://forum.ahnenforschung.net/forum/thread/78693/), 2014-05-15. Used for wording an archive request as a complete uncertified copy with all marginal notes rather than an 'Urkunde'.
+
+**What is synthesis and what is not verified.** The ordered procedure, jurisdiction row, version classes and recovery packet are authored synthesis. The sources supply the techniques and the worked examples. Facts checked against outside authorities are stated directly in the text; the rest are attributed to the presenter or forum participant who stated them.
+
+Not verified, and attributed in the text:
+
+- The 38.2% figure and the one-in-ten town/parish match.
+- The 1826 and 1677 legal provisions. The presenter frames them in Bavarian/Prussian terms while using a Württemberg example.
+- The Meyers comma/semicolon rule for offices held in the town.
+- The German-to-Polish register's film and image numbers, which the two lectures render differently.
+- Forum reports: the Stralau index count, the Berlin III war loss, the Danzig-Emaus founding date and the Nusse/Lübeck year ranges, the Berlin-held Upper Silesian marriage registers, the 'Civil' christening coding, and the contents of Sammelakten.
+
+The cited sources did not cover several points in this topic, and the recipe therefore gives no rules for them: movable-feast and saint's-day date conversion, archaic month names, divorce and funeral-sermon notes, "stillborn" usage, names inferred from sponsors, identical sibling names, daughter-church copies, and surname-distribution maps.
+
+## Credits
+
+- Kinprove original procedural structure and synthesis; techniques and worked examples are restated from community lectures and Ahnenforschung.net forum threads cited as S1–S39 — FSL-1.1-MIT (kinprove-original)

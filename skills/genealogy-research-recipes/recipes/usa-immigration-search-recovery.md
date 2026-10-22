@@ -44,12 +44,28 @@ every window states which record supports it. Stop treating the years as a
 contradiction once they demonstrably describe different journeys.
 [NARA AR-2 guide](https://www.archives.gov/research/immigration/alien-registration-ar-2)
 
+Treat the ship and arrival date on an AR-2 as the registrant's own statement, not a verified
+locator. Record them as an attributed journey claim, and confirm that the named ship made that
+voyage and that the person appears on its manifest before treating it as an established journey.
+If the claim conflicts with a manifest already found, record the conflict rather than inventing a
+second trip. The
+[Annie's Ghosts example](https://www.youtube.com/watch?v=9OkR0D6bDyg) motivates this check: the
+registrant named a voyage that never took place. It does not establish how often such answers
+are wrong.
+
 When an immigrant-community church admission or transfer entry names a previous parish,
 retain that literal field, date and locator as a separate journey clue. It may identify a
 transit or port parish rather than birthplace. Compare independent birthplace evidence and
 collateral relatives' stated localities before choosing a natal family. The
 [Scandinavian-immigrant example](https://familylocket.com/rlp-202-researching-scandinavian-immigrants-with-jenny-hansen/)
 motivates this place-role check without guaranteeing a field or identifying the family.
+
+For a return leg through Britain, search British inbound passenger lists and verify their route and
+year coverage before recording a gap; a missing list is not evidence the person stayed. In the
+[return-voyage discussion](https://forum.ahnenforschung.net/forum/thread/185403/),
+a forum participant states this for an interwar return without citing a source. It does not
+establish coverage by year or route, or what records the home locality kept, so check the finding
+aid of the collection you choose.
 
 ### 2. Diagnose the collection before expanding the query
 
@@ -71,6 +87,15 @@ Arrival Records Collection includes entry points beyond New York; check the
 selected series rather than copying old New-York-only coverage claims.
 [Foundation collection guide](https://www.statueofliberty.org/discover/heritagesearch/)
 
+For a Chinese traveler under the exclusion laws, a passenger-list search is not the only arrival
+route. Check the exclusion registers kept at the port of entry for the recorded status category
+(for example laborer, merchant or son of a native) and the admission result. Then look for the
+person's exclusion or immigration case file. These files can include departure statements,
+photographs, signatures, letters and witness interview transcripts. Treat status claims and
+testimony as statements made to win admission, not as independent proof of kinship. The
+[My China Roots demonstration](https://www.youtube.com/watch?v=x5P9fKp25lw) shows these record
+types through one vendor's images. Confirm the custodian and the file locator separately.
+
 ### 3. Recover the recorded name without inventing a renaming event
 
 **Trigger:** the U.S. name is absent from the arrival index.
@@ -87,6 +112,27 @@ selected series rather than copying old New-York-only coverage claims.
 indexed spelling and the image reading separately. A spelling resemblance
 retrieves a candidate; companions and destination details must connect it to
 the researched person.
+
+In the Statue of Liberty–Ellis Island database, the
+[Genealogy Gems interview](https://www.youtube.com/watch?v=4xyd2c5Cv1Q) recommends not using the
+search filters for arrivals outside 1892–1924. It says many post-1924 records were added later,
+indexed only by year with a 1 January placeholder date, so a month-and-day search returns
+nothing. Never record an indexed 1 January as the arrival date until the manifest image confirms
+it. An empty exact-date search does not show absence. This describes the indexing in 2023;
+re-check current behaviour.
+
+When the U.S. surname differs from earlier records, look for a record that states the change.
+Naturalization papers can ask what name the applicant will use, a pension file may give an
+alias, a passport application may explain a difference from the father's name, and courts or
+newspapers may record a legal change. Log each earlier name with its source and date. Allow for
+parallel use too: a congregation's register may keep the birth name while newspapers or work
+records use an anglicized form. For Italian emigrants, also search a married woman under her
+birth surname. Children listed beside an adult with another surname may be travelling with their
+mother. [Castillo's talk](https://www.youtube.com/watch?v=qDW8dEp5mN0),
+[Lisson's discussion](https://www.youtube.com/watch?v=dcx-iIn1TzE) and the
+[Italian-records discussion](https://www.youtube.com/watch?v=UC1J5HuNYns) motivate these checks.
+They do not show that a given file states a change or how a clerk recorded a surname, so confirm
+relationships from other records.
 
 ### 4. Split a Canadian or Mexican route into its actual legs
 
@@ -108,6 +154,19 @@ has its own locator; an unavailable early series is a coverage gap.
 [Mexican border crossing series and coverage](https://www.archives.gov/research/immigration/border-mexico),
 [Canadian-border district explanation](https://www.archives.gov/publications/prologue/2000/fall/us-canada-immigration-records-1.html)
 
+On the Canadian side, Library and Archives Canada staff said in a
+[2017 interview](https://www.youtube.com/watch?v=Dqa7RGnfDOk) that no Canadian government
+border-entry records exist before 1908, and that Canada recorded entries, not departures. Treat
+this as the speakers' description: unless a repository finding aid shows otherwise, do not expect
+pre-1908 Canadian land-border lists, and do not treat a missing Canadian exit record as negative
+evidence. Census and city-directory entries can bracket otherwise undocumented
+crossings. Verify current LAC coverage. Before treating an early Canadian arrival list as a full
+roster, check which passengers it itemizes. Some earlier lists left out personal details for
+wives, minor children, labourer groups and cabin passengers, so a spouse or child who seems to
+be missing stays an open question. The
+[Scottish-migration lecture](https://www.youtube.com/watch?v=aZgUeKOaLtY) does not identify which
+years or ports are affected.
+
 ### 5. Recover an arrival through the departure list
 
 **Trigger:** the arrival transcription is confusing, or the departure port
@@ -124,6 +183,34 @@ and sailing are known.
 **Check:** confirm the same person and journey before combining the entries.
 Two websites reproducing one manifest are alternate access paths to that
 record, not two independent attestations.
+
+A published passenger compilation is a derivative, so read its introduction. Some departure-port
+compilations, such as a Bremen-to-New York set, were rebuilt from U.S. arrival manifests. Cite
+such a compilation as derived from the arrival record, not as independent departure evidence,
+and check each entry against the arrival image. For the 1727–1808 ship lists of German
+passengers, which the speakers describe as held by the Pennsylvania State Archives (confirm the
+holding before requesting), cite Strassburger and Hinke's German
+Pioneers volumes as transcriptions. When the immigrant's signature or written name form matters,
+ask the Pennsylvania State Archives for copies of the original ship lists. The
+[German-origins lecture](https://www.youtube.com/watch?v=2PxBQeskcSI) and the
+[State Archives staff account](https://www.youtube.com/watch?v=lZl4PtvBXIU) motivate this step.
+They do not describe the compilers' extraction criteria or which lists carry signatures, and a
+signature alone does not identify a person.
+
+#### Follow a known vessel into a bibliographic source
+
+For an already supported ship and journey, search a vessel bibliography for references
+to a log, voyage account, passenger or crew record. Preserve the cited title, volume/page
+or manuscript description and follow it to the actual library or archival holding.
+A bibliographic entry remains a lead until the cited material is retrieved and inspected.
+
+Before attaching a reference or illustration to the journey, compare its dates and vessel
+with the supported sailing: use vessel type, captain, tonnage or documented renaming when
+available. Keep unresolved namesakes separate, including different voyages of the same
+ship. Preserve an original spelling beside a proposed correction. A contemporary account
+can supply voyage context without proving that the ancestor personally experienced each
+event it describes. The ShipIndex interview illustrates this bibliography-to-holding route
+and the risk of same-name vessels; it does not establish current holdings or access.[32]
 
 ### 6. Reconstruct the whole manifest row
 
@@ -142,6 +229,30 @@ the apparent destination does not fit.
 **Check:** the headings govern the interpretation. A contact recorded as an
 uncle, cousin or friend is a lead to investigate, including its address; it
 does not establish that relationship without further records.[6,11]
+
+A clerk may have filled a column such as nationality or residence once and drawn a ditto line
+down the page. When a filter on an attribute you know is correct returns nothing, rerun the
+search without it. Read a dittoed value as the page's default, not as that passenger's own
+statement. In the [Journey Takers example](https://www.youtube.com/watch?v=nto6GVn0CLk), a German
+family was recorded under the Swedish entry at the top of their page. Also do not assume a
+family appears together on one list. Follow annotations that point to another page and line. In
+later periods, search the same voyage's U.S.-citizen list for a naturalized relative who may
+have gone back to bring them over. The
+[Lisa Lisson interview](https://www.youtube.com/watch?v=4d43ZFUIzbs) states this as a pattern.
+When separate citizen lists existed depends on the period and port, and neither source shows how
+widespread these practices were.
+
+When possible companions may be on other pages, inventory the available passenger rows
+for one defined sailing. Record its date/ship and page extent; retain each row's page and
+image locator, literal name and place-field heading/value. Mark missing pages or rows rather
+than calling an incomplete extract the whole sailing. Sort complete rows together by the
+recorded place field and name, preserving the original text and checking any split names.
+Compare candidates with a source-linked census or tax neighborhood from a stated later
+date, then inspect the passenger images and keep proposed cross-record identities separate.
+This can expose a possible companion several pages away. Sharing a sailing or neighborhood
+does not establish kinship or identity, and finding no overlap does not disprove the voyage.
+The [passenger-inventory demonstration](https://www.youtube.com/watch?v=xm7HHLneP-E)
+supplies this method; no particular export control or complete index is assumed.[31]
 
 ### 7. Turn a detention mark into an outcome search
 
@@ -201,10 +312,38 @@ naturalization database has no result.
    proceedings unresolved. The [final-order example](https://familylocket.com/back-to-the-basics-with-naturalization-records-part-3/)
    motivates this check without adopting its inconsistent dates or ultimate status narrative.
 
+If residence or property evidence supplies a federal homestead-entry lead, add its
+[separate land-entry file](land-index-book-series-recovery.md#5-carry-a-us-federal-patent-lead-into-its-separate-entry-file)
+to the recovery queue. The [NARA records interview](https://www.youtube.com/watch?v=T9iEw4Zhb7M)
+identifies such packets as a possible location of naturalization papers. Preserve any
+paper's actual title, date and supplied court/reference with its locator inside the land
+file; follow a supplied court lead to the corresponding proceeding. A paper found in a
+land packet does not mean the court file has been inspected. This retrieval lead supplies
+no universal eligibility rule, citizenship conclusion or expected packet size.[29]
+
 **Output:** a court packet, or a court-by-court recovery queue. **Check:** first
 papers are not completed naturalization. NARA generally holds declarations
 and petitions rather than the citizenship certificate.
 [NARA naturalization guide](https://www.archives.gov/research/immigration/naturalization)
+
+Before reporting a declaration or petition as lost, or blaming a court not yet searched, check
+whether the paper was required at all. Read the act cited on any petition you find, and check
+the exemptions in force for the dates. A declarant's widow and minor children might need only
+the oath. An honorably discharged soldier might petition without a declaration. Some states gave
+voting or land rights on a declaration alone, so a petition may never have been filed. Extend
+the search window through the person's whole life, since naturalization could come decades after
+arrival. The [naturalization introduction](https://www.youtube.com/watch?v=2K4FYUhoNbc) and
+[Tanner's lecture](https://www.youtube.com/watch?v=8d_4x7YTNQA) motivate this check but do not
+give each act's exact terms. Verify the law that applied.
+
+In a naturalization file, check adjacent images for a certificate of arrival. Use its port,
+date, ship and arrival name to retrieve the manifest image, then compare the petitioner's own
+statements with that row. A certificate points to a manifest entry; it does not automatically
+identify the petitioner. Matching file numbers link papers to each other, but a petitioner who
+is absent from the cited manifest and gives a different arrival year may have used someone
+else's arrival. The [Lil Dicky tree example](https://www.youtube.com/watch?v=SKDoU7MJkds) and
+[Mayhem on a Manifest](https://www.youtube.com/watch?v=ZgyxRZdHgcw) motivate this; neither shows
+how common borrowed certificates were.
 
 ### 10. Replace a missing woman's or child's petition with a status timeline
 
@@ -228,6 +367,15 @@ naturalization petition is found.
 absence of a personal petition does not establish noncitizenship; the
 supporting family events and historical rule must be checked separately.
 
+Check the reverse case too. A U.S.-born married woman recorded as alien in a census may have
+lost citizenship through her marriage; the entry is not necessarily an enumeration error. Check
+the rule for her marriage date, then search naturalization records in her own name for a later
+repatriation oath or application. Once a man's naturalization after 1922 is found, inspect the
+entries next to it in the same series for a separate filing by his wife or another relative.
+Compare their stated facts as separate observations. The
+[naturalization introduction](https://www.youtube.com/watch?v=2K4FYUhoNbc) motivates both
+checks, each from one family. A related filing is not guaranteed to sit next to his.
+
 ### 11. Route federal records by type and actual custody
 
 **Trigger:** a court packet is incomplete, an A-number appears, or the
@@ -245,12 +393,38 @@ research has stalled at a generic USCIS request.
 4. For C-Files, use the USCIS Genealogy Program: a known valid certificate/file number allows a [Genealogy Records Request (G-1041A)](https://www.uscis.gov/sites/default/files/document/forms/g-1041ainstr.pdf); without that number, an Index Search Request (G-1041) may be needed first.
    For other records outside the located NARA holdings, consult current USCIS instructions for the identified record type and available identifiers.
 
+Alongside an A-file lead, search supported spouses, former spouses, siblings or travel
+companions as separate file candidates in the catalogues or collections actually available.
+Retain each candidate's own name, identifiers and Contact(s), and compare its identifying
+details before using the file. A related person's file is a possible source about the
+target, not the target's file or proof of the relationship. The
+[related-file search account](https://lostrussianfamily.wordpress.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/)
+supplies this extension; the existing type and custody checks still apply.[30]
+
 **Output:** a request-ready locator packet and named custodian. **Check:** an
 A-number alone proves neither A-File custody nor AR-2 image availability. A
 catalog miss leaves custody unresolved.
 [NARA naturalization](https://www.archives.gov/research/immigration/naturalization),
 [A-Files](https://www.archives.gov/research/immigration/aliens),
 [AR-2](https://www.archives.gov/research/immigration/alien-registration-ar-2)
+
+Do not use the immigration visa number printed on an arrival manifest as the file locator for a
+visa file. These files are reportedly not arranged by that number. Request a USCIS index search
+for the arrival first to get the file number, then make a separate records request. Expect the file to hold papers needed for entry, such as birth and good-conduct certificates, recent residences and a photograph.
+Do not expect evidence of life after arrival unless a naturalization application or other official
+attention followed. The
+[visa-file discussion](https://forum.ahnenforschung.net/forum/thread/185403/)
+paraphrases USCIS guidance, but the search it reports came back empty. Verify current USCIS
+instructions and any NARA custody.
+
+Alien registration was not only the 1940 AR-2. For WWI enemy-alien registrations and state-run
+registrations, ask both the state archives and the NARA regional facility with jurisdiction over
+that state. Log which level and which series were checked. Many of these series are browse-only
+or missing from the major search engines. The speaker's examples include Minnesota 1918 and
+North Carolina 1927–1940, and a German registrant's papers can name family in Germany. The
+[Lisa Lisson interview](https://www.youtube.com/watch?v=4d43ZFUIzbs) and
+[Miles Meyer](https://www.youtube.com/watch?v=tBweLebo7TA) motivate this; verify each series'
+existence, eligibility and survival.
 
 ### 12. Repair an image failure with an archival locator
 

@@ -36,6 +36,16 @@ manager and any separately recorded beneficiary. Leave missing or unconfirmed de
 unresolved; shared credentials do not establish either designation. The [2023 update](https://dna-explained.com/2023/12/11/familytreedna-2023-update-past-present-and-future/)
 motivates this distinction without establishing current forms, legal effect or continuing access.
 
+For an intended mtDNA/autosomal match intersection, record the verified tested person,
+each kit identifier and which test results are available to the actual query. If results
+are held under separate kit identities and the available query cannot combine them, record
+the intersection as unavailable, not an empty match result. Before any separately authorized
+transfer or additional test, verify the intended destination kit and current provider handling.
+Retain the test-to-kit mapping and query scope. The [2025 discussion](https://www.youtube.com/watch?v=essG5JYMERw)
+motivates this check without establishing a current kit-merging rule. [S19] Read a returned
+multiple-test roster with the Advanced Matches checks at the end of
+[workflow 6](#6-record-a-family-finder-matrix-comparison).
+
 ## Eight workflows
 
 ### 1. Export the match and segment pair, and record its scope
@@ -53,6 +63,20 @@ rather than a filtered export. After correcting the export choice, re-export bot
 session. Resolve remaining name mismatches through the note-handle procedure below before joining. Record intentional filtered or
 selected exports as subsets with their criteria and actual export choice.
 
+When the match list is filtered by ancestral surname or haplogroup, treat the result as a search
+subset. A surname search may return similar spellings: check each returned row's surname fields for
+the target surname, and mark the others `similar-name hit` before following their shared matches. A
+haplogroup filter or same-haplogroup indicator covers only haplogroups FTDNA holds for those kits.
+Record a match missing from that result as `haplogroup not shown`, not as carrying a different
+haplogroup. The [2021 search discussion](https://www.youtube.com/watch?v=gNFNKpvy1no) motivates both
+checks, including a haplogroup known only from another vendor's test that did not appear. It leaves
+untested whether an upload changes this. It does not establish current matching rules, current
+filter behaviour or how the surname columns are filled.
+
+Treat a match-date value as the date shown on that match row, not as the match's test date, chip version or processing cohort. A [Family Finder match-date discussion](https://genarchivist.net/showthread.php?tid=275) reports older matches showing 2021 dates after matching was recalculated. It also shows a kit's order history and administrator lab-results view recording a later chip procedure for an earlier order. Where authorized, take test and chip history from those records; otherwise record `test date unknown`. The posts do not establish which rows were re-dated, or the current display rules.
+
+A match present in only one of two dated exports of the same kit is a list change (`absent in later export` or `new in later export`, with both retrieval dates), not relationship evidence. A [Family Finder reprocessing discussion](https://forum.molgen.org/index.php/topic,1298.0.html) shows matches removed and later restored after provider reruns; it does not establish current processing or which list is correct.
+
 **Artifact:** export manifest, one row per file: kit handle, retrieval date/time, file name, tool, export
 choice, active filters, scope (`all`, `filtered: <criteria>`, `selected: <n>`), row count, interface
 count, `links_as_of`, check results. **Stop when** the recorded scope, displayed match count and
@@ -61,6 +85,15 @@ cross-file name check reconcile. Carry that scope into the joined table.
 **Synthetic manifest example:** kit `K1`, retrieval date/time `2026-10-03T10:00:00Z`, file `K1-matches.csv`, tool
 `Family Finder Matches`, export choice `All Matches`, active filters `none`, scope `all`, row count
 `240`, interface count `240`, links as of `2026-10-02`, checks `passed`.
+
+Before an independently authorized upgrade or replacement of an existing Family Finder
+result, preserve the currently available match and segment files, raw data and origins
+report, or the supplied views where exports are unavailable. Record each saved product's
+kit, date and processing/test version, plus anything unavailable to save. Keep later results
+separate. The [2026 upgrade notice](https://blog.familytreedna.com/family-finder-ngs-upgrade/)
+warned that prior results would be removed and described different export access for transfer
+kits. This motivates the preservation checkpoint; it does not establish current deletion,
+recovery or download behavior, or that an uploaded file supplies a specimen for sequencing. [S12]
 
 ### 2. Join matches to segments without collisions
 
@@ -210,6 +243,12 @@ The [project-to-broader-tree example](https://dna-explained.com/2023/10/18/y-dna
 supplies this handoff; modern earliest-ancestor places plus node ages do not establish a
 historical ancestor's location, migration or identity.
 
+When quoting a branch's tester count, country distribution or ancient-sample list from FamilyTreeDNA's public trees or Discover, record the view, branch level and retrieval date with each number. A [haplotree-versus-Discover count comparison](https://genarchivist.net/showthread.php?tid=275) found materially different country counts for the same branch, matching the pages' own descriptions of FTDNA-tested users versus testers plus academic participants; an [mtDNA Ancient Connections versus Classic Tree count](https://genarchivist.net/showthread.php?tid=1508) also differed, without an explained cause. Do not combine, subtract or substitute counts across views, and do not read a sample missing from one view as absent from the branch. The threads do not establish each view's current inclusion rules or completeness.
+
+Treat a public haplotree surname report as a display subset, not a branch roster. A [surname-report discussion](https://genarchivist.net/showthread.php?tid=275) quotes a display rule requiring at least two kits with public project-profile sharing and the same surname spelling; posters also observed names listed only at the kits' terminal branch. Record a surname missing from the report as `surname not displayed`, not as evidence that no tester of that surname sits on the branch, and note the branch level viewed. The thread does not establish current display rules, and a listed surname does not establish a shared recent ancestor.
+
+When a Discover branch shows a tester who is not among the kit's matches, check whether the branch's suggested projects lead to a public project results page listing that tester. Record the project URL, retrieval date and the displayed surname, earliest known ancestor and haplotype exactly as published, labelled as project-display data. Record how the project row was tied to the branch entry; if the link rests only on inference, label it `unconfirmed link`. A [Discover-to-project lookup](https://genarchivist.net/showthread.php?tid=416) motivates this route. It shows only what that project chooses to publish. It establishes no match, contact route or genealogical connection.
+
 **Artifact:** one dated view record: project URL, selected subgroups, display options, branch
 label, displayed estimate/interval, screenshot reference and participant-display exceptions.
 If you administer the project, add a private configuration record: prior/current public-report
@@ -253,6 +292,26 @@ are preserved, and every interval claim has direct-pair evidence or remains expl
 Route segment trust and triangulation to `xdna-phasing-judgment.md`, and ancestral attribution to
 `ai-for-dna-research.md`.
 
+For a locality or surname question, check whether the authorized focal kit offers a
+project-restricted Family Finder view, such as the Advanced Matches report demonstrated in
+[this 2026 project example](https://www.youtube.com/watch?v=84MgafRdVg0). Save the focal kit,
+selected project, test/filter state, retrieval date, returned identities and displayed
+relationship labels. Record the project's stated admission scope, or `unknown` if unavailable.
+This is a roster of matches to that focal kit within the selected project: membership or
+concentration does not establish origin, an ancestral path or pairwise matching among members.
+Use it as a scoped documentary research queue. The dated demonstration does not establish
+current access or controls.
+
+For a supplied Advanced Matches result using multiple tests, preserve each selected test and
+the displayed combination setting. Establish whether the supplied setting requires a match on
+all selected tests or includes matches on any selected test before using its roster; if that
+scope cannot be verified, record it as unknown. Keep differently configured results separate.
+The [2025 example](https://dna-explained.com/2025/09/02/mitochondrial-dna-a-z-a-step-by-step-guide-to-matches-mitotree-and-mtdna-discover/)
+distinguishes these scopes for mtDNA and Family Finder without establishing current controls
+or a default setting. Matching the focal kit on both tests does not establish that both matches
+come through the same ancestor or descent path; such a match still needs
+[separate ancestral-path analysis](ydna-mtdna-interpretation.md#combining-tests-establish-which-ancestral-path-each-supports). [S11]
+
 ### 7. Inspect the node actually displayed in a supplied time map
 
 For a dated Globetrekker view or recording, retain the requested terminal node and the node
@@ -274,6 +333,8 @@ them. Save the observed joining node and paths separately from shared study, cel
 geographical categories. An upstream label or upgrade prompt does not establish assay history.
 The [2023 comparison example](https://dna-explained.com/2023/10/11/new-discover-tool-compare-haplogroups-more-at-familytreedna/)
 motivates this input/reference crosswalk without promising current controls, colours or access.
+
+With each supplied Y label, also record the haplotree version shown in Discover's About section, if available, and the date the label last changed. Treat a label that changed recently or is under a pending analysis as `provisional`. Recheck it after a later published tree version, including the haplogroup's variants/equivalents details. A [Big Y results discussion](https://genarchivist.net/showthread.php?tid=6) reports a dated snapshot version, publication lag and a placement that reverted within a day. It establishes no current update cadence, waiting period or error rate.
 
 **Artifact:** two source-labelled inputs, the observed reference/view and displayed results,
 with unresolved labels or unavailable views. These are attributed provider outputs, not

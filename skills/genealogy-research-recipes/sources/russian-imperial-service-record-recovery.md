@@ -1,0 +1,85 @@
+## Sources
+
+- **S1:** J-Roots Forum, [Отголоски семейных историй. Тема для пробных постов начинающих генеалогов](https://forum.j-roots.info/viewtopic.php?f=20&t=5084), thread started 2010-05-16. Used for:
+  - one participant's reading of a medical-list entry (diploma year, Л-prefixed birth year, specialty);
+  - directory namesakes treated as candidates;
+  - the corrected account of pharmacy stages and owner versus pharmacist;
+  - the list of sources for pharmacy questions.
+- **S2:** Уральская генеалогия, [Участники русско-турецкой войны 1877—1878 гг.](https://rodgersforum.borda.ru/?1-23-0-00000043-000-0-0-1743010301=), start date not shown. Used for:
+  - service lists of war participants in ГАПК ф. 143, 162 and 111;
+  - Starchevsky's 1878 reference.
+- **S3:** Уральская генеалогия, [Полицейские](https://rodgersforum.borda.ru/?1-11-0-00000237-000-0-0-1780934391=), start date not shown. Used for:
+  - police posts in metrical entries and the advice to search police fonds;
+  - the ГАПК ф. 132 files;
+  - police inspectors' and a factory-office employee's lists filed in ф. 111;
+  - lists in ф. 36;
+  - family blocks and several lists for one person.
+- **S4:** Уральская генеалогия, [Ярославский Демидовский юридический лицей](https://rodgersforum.borda.ru/?1-11-0-00000243-000-0-0-1748684177=), start date not shown. Used for:
+  - district-court files in ГАПК ф. 1 оп. 2;
+  - a land captain's file in ф. 38 оп. 2;
+  - adoption by court ruling;
+  - closing entries naming the next employer.
+- **S5:** Уральская генеалогия, [2023 Потомственные и личные почетные граждане](https://rodgersforum.borda.ru/?1-11-0-00000255-000-0-0-1774707238=), start date not shown. Used for:
+  - treasury and chancery lists in ф. 111 and ф. 36;
+  - seniority dates for ranks and honorary citizenship;
+  - visible date slips in abstracts.
+- **S6:** Уральская генеалогия, [Медицина и фармакология (продолжение 2)](https://rodgersforum.borda.ru/?1-11-0-00000262-000-0-0-1768844276=), start date not shown. Used for:
+  - pharmacy apprentice and assistant files in ГАПК ф. 143 оп. 1;
+  - examining bodies;
+  - pharmacies named by owner and managing pharmacist;
+  - moves between provinces.
+- **S7:** Уральская генеалогия, [Лесная стража](https://rodgersforum.borda.ru/?1-11-0-00000270-000-0-0-1772555736=), start date not shown. Used for:
+  - the ГАСО forestry fond list;
+  - folio ranges by dacha and volost in 55-2-377;
+  - related ф. 55, 72 and 78 files;
+  - paper-only access;
+  - forest officials' lists in ГАПК.
+- **S8:** Уральская генеалогия, [2023-2024 Чиновники (продолжение)](https://rodgersforum.borda.ru/?1-11-0-00000276-000-0-0-1781377984=), start date not shown. Used for:
+  - ф. 111 оп. 1 lists with marriage dates and maiden names;
+  - a prison-department clerk's service file;
+  - adopted children;
+  - closing entries (railway control, military call-up, retirement);
+  - seniority dates.
+- **S9:** Уральская генеалогия, [a thread on a Urals clergy family](https://rodgersforum.borda.ru/?1-29-0-00001516-000-0-0-1773915766=), start date not shown. Used for:
+  - zemstvo veterinary postings and Весь Киев entries;
+  - the 1914 list of subjects caught abroad;
+  - an RMS entry in the standard layout;
+  - linking a clergyman to a later civil clerk.
+- **S10:** Уральская генеалогия, [a thread on a Urals clergy family (continuation, 2022–2026)](https://rodgersforum.borda.ru/?1-29-0-00001597-000-0-0-1780931575=), start date not shown. Used for:
+  - year-by-year Tobolsk address calendars and Памятная книжка entries;
+  - RMS 1914 and 1916 "as of" dates and pages;
+  - the women-physicians list;
+  - a miss specific to one section.
+- **S11:** Уральская генеалогия, [a thread on an official's daughter in Perm province](https://rodgersforum.borda.ru/?1-2-0-00002035-000-0-0-1775028086=), start date not shown. Used for: a father's service file (ГАПК ф. 113 оп. 1) giving a daughter's birth date and town.
+- **S12:** J-Roots Forum, [Варшава. Императорский Университет](https://forum.j-roots.info/viewtopic.php?f=175&t=4188), thread started 2014-10-06. Used for:
+  - following a university record into the RMS;
+  - its reported free online access;
+  - failed searches under spelling variants.
+- **S13:** Уральская генеалогия, [Заграничный поход Русской армии 1813 - 1814](https://rodgersforum.borda.ru/?1-23-0-00000055-000-0-0-1743010435=), start date not shown. Used for: veterans' military careers restated in treasury service lists, ГАПК ф. 111 оп. 1 д. 1021.
+
+**What is authored and what the forum threads supply.**
+
+- **Authored synthesis:**
+  - the routing order (post, employer, personnel-holding bodies, later employer);
+  - the observation table and the two-date rule as an output column;
+  - the access register;
+  - the rules for candidates and gaps.
+- **From forum participants:** the fond and file locators, folio ranges, examining bodies, edition pages and the reported access states.
+- **Limits of that evidence.** Most ГАПК entries are abstracts posted by one compiler across several threads, so their agreement is one compiler's work, not independent confirmation.
+
+## Credits
+
+- J-Roots Forum, beginners' trial-post thread on echoes of family stories — Forum post, all rights reserved by the posters; short quotation for citation (quoted)
+- Уральская генеалогия forum, continuation thread on a Urals clergy family, 2022–2026 — Forum post, all rights reserved by the posters; short quotation for citation (quoted)
+- Уральская генеалогия forum, thread on an official's daughter in Perm province — Forum post, all rights reserved by the posters; factual restatement (adapted)
+- J-Roots Forum, thread on the Imperial University of Warsaw — Forum post, all rights reserved by the posters; factual restatement (adapted)
+- Уральская генеалогия forum, thread on the Russian army's foreign campaign of 1813–1814 — Forum post, all rights reserved by the posters; factual restatement (adapted)
+- Уральская генеалогия forum, thread on participants of the 1877–1878 Russo-Turkish war — Forum post, all rights reserved by the posters; factual restatement (adapted)
+- Уральская генеалогия forum, thread on police officials — Forum post, all rights reserved by the posters; factual restatement (adapted)
+- Уральская генеалогия forum, thread on graduates of the Yaroslavl Demidov juridical lyceum — Forum post, all rights reserved by the posters; factual restatement (adapted)
+- Уральская генеалогия forum, thread on hereditary and personal honorary citizens — Forum post, all rights reserved by the posters; factual restatement (adapted)
+- Уральская генеалогия forum, continuation thread on medicine and pharmacology — Forum post, all rights reserved by the posters; short quotation for citation (quoted)
+- Уральская генеалогия forum, thread on forest guards — Forum post, all rights reserved by the posters; factual restatement (adapted)
+- Уральская генеалогия forum, continuation thread on officials, 2023–2024 — Forum post, all rights reserved by the posters; factual restatement (adapted)
+- Уральская генеалогия forum, thread on a Urals clergy-descended family — Forum post, all rights reserved by the posters; short quotation for citation (quoted)
+- Kinprove original procedural synthesis drawing on forum threads cited as S1–S13 — FSL-1.1-MIT (kinprove-original)
