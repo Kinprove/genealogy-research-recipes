@@ -1,7 +1,7 @@
 ---
 name: genealogy-research-recipes
 description: >-
-  Genealogy/DNA research: unknown parentage and WATO; endogamy, family comparisons, Y/mt/X DNA, phasing, admixture, cross-vendor controls, match outreach; documentary identity, conditional hypotheses, Genealogical Proof Standard and standards audits; archival image/transcript/index coverage, Ukrainian Jewish-list triage, ELIB guides; Jewish-name/OCR searches; Russian-Empire names, registration and emigrant origins; Holocaust testimony; Russian/Soviet military/repression episodes. Workflows for Ancestry, MyHeritage, FamilySearch, JewishGen, HebrewBooks, Beider indexes, 23andMe, FTDNA, GEDmatch, DNA Painter, Newspapers.com, Geni, WikiTree and RootsMagic. U.S., UK, Irish, Polish, Dutch, French, German, Nordic, Hispanic and Russian record recovery: church/civil registers, censuses, court, prison, asylum, school files, land, tax, livestock brands, military, place names, maps, books, manuscripts; Chinese jiapu, Japanese koseki; family photos, papers, Bible registers, oral history. Read the recipe first.
+  Genealogy/DNA research: unknown parentage and WATO; endogamy, family comparisons, Y/mt/X DNA, phasing, admixture, cross-vendor controls, match outreach; documentary identity, conditional hypotheses, Genealogical Proof Standard and standards audits; archival image/transcript/index coverage, Ukrainian Jewish-list triage, ELIB guides; Jewish-name/OCR searches; Russian-Empire names, registration and emigrant origins; Holocaust testimony; Russian/Soviet military/repression episodes. Workflows for Ancestry, MyHeritage, FamilySearch, JewishGen, HebrewBooks, Beider indexes, 23andMe, FTDNA, GEDmatch, DNA Painter, Newspapers.com, Geni, WikiTree and RootsMagic. U.S., UK, Irish, Polish, Dutch, French, German, Nordic, Hispanic and Russian record recovery: church/civil registers, censuses, court, prison, asylum and school files, land, tax, livestock brands, military, place names, maps, books and manuscripts; Chinese jiapu, Japanese koseki; family photos, papers, Bible registers, oral history. Read the recipe first.
 ---
 
 # Genealogy research recipes
@@ -409,8 +409,8 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## More recipes by topic
 
-These recipes follow the same rule as the entries above: read the matching file in full before
-advising, and treat its guardrail as a hard limit on your own output.
+Steps 2 and 3 of How to use apply here too: read the matching file in full before advising,
+and treat its guardrail as a hard limit on your own output.
 
 ### Church and civil registers
 
@@ -507,14 +507,14 @@ advising, and treat its guardrail as a hard limit on your own output.
 
 - **`recipes/family-collection-intake-and-capture.md`** — Take in, inventory, plan the capture of and hand over an inherited family collection of boxes, albums, loose photographs, papers or existing scans. *Guardrail:* do not optimize for tidy files; renaming, re-ordering, front-only scans or treating a crop as the master destroys the holder, order and reverse evidence.
 - **`recipes/family-photograph-attribution-and-dating.md`** — Attribute and date an inherited family photograph from captions, provenance and the photographer's imprint. *Guardrail:* never compare faces or name anyone by appearance; record each identification as an attributed claim, test it against the named person's documented lifetime, and turn each date clue into a bound.
-- **`recipes/family-papers-and-bible-register-dating.md`** — Separate writing, mailing and event dates in letters, envelopes, address books, family Bible registers and inscribed books. *Guardrail:* a postmark or return address records a mailing or an address, not the event itself, and each Bible entry's writing occasion is assessed separately from its stated event date (it may have been written near the event or copied later).
+- **`recipes/family-papers-and-bible-register-dating.md`** — Separate writing, mailing and event dates in letters, envelopes, address books, family Bible registers and inscribed books. *Guardrail:* a postmark or return address records a mailing or an address, not the event; assess each Bible entry's writing occasion, near the event or copied later, separately from its stated event date.
 - **`recipes/family-interviews-and-oral-tradition.md`** — Record an interview with a relative, a supplied recording or an inherited story with its speaker, prompter and chain of transmission. *Guardrail:* do not turn a recollection straight into tree facts; keep the prompter's details apart from the speaker's, an uncertain name uncertain, and each relay in the chain as its own witness.
-- **`recipes/repository-photograph-collection-search.md`** — Search repository photograph collections for an ancestor, home, shop or community by place and subject. *Guardrail:* a name-search miss does not show that no image exists, and a donor caption or added geotag is not a settled identification or location. The agent never compares faces or names anyone by appearance; a recognition by the user or a relative is recorded as that person's attributed claim.
+- **`recipes/repository-photograph-collection-search.md`** — Search repository photograph collections for an ancestor, home, shop or community by place and subject. *Guardrail:* never compare faces or name anyone by appearance, and record a recognition by the user or a relative as that person's attributed claim; a name-search miss does not show that no image exists, and a donor caption or added geotag is not a settled identification or location.
 
 ### DNA workflows and research planning
 
 - **`recipes/admixture-model-run-scope.md`** — Record the run scope of a G25, calculator or qpAdm admixture result before reading it. *Guardrail:* check fit and scope before reading proportions, and never rank runs across calculators.
-- **`recipes/dna-match-outreach-staging.md`** — Stage and draft outreach to a DNA match, a match's account manager or an untested relative. *Guardrail:* when the tester's consent is missing or unclear, prepare only a contact plan and a draft for the tester's own review; the agent does not choose recipients or send anything. Never announce a suspected relationship, and log silence as silence, not refusal.
+- **`recipes/dna-match-outreach-staging.md`** — Stage and draft outreach to a DNA match, a match's account manager or an untested relative. *Guardrail:* when the tester's consent is missing or unclear, prepare only a contact plan and a draft for the tester's own review, and do not choose recipients or send anything. In every case, never announce a suspected relationship, and log silence as silence, not refusal.
 - **`recipes/descendancy-gap-worklist.md`** — Turn "research the descendants" into a ranked list of gaps tied to the records each lifespan crosses. *Guardrail:* an empty tree field leaves the event unresolved; it does not mean the event never happened.
 
 ## Supporting references

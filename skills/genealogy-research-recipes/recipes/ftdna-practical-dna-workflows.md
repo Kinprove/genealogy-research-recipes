@@ -43,7 +43,8 @@ the intersection as unavailable, not an empty match result. Before any separatel
 transfer or additional test, verify the intended destination kit and current provider handling.
 Retain the test-to-kit mapping and query scope. The [2025 discussion](https://www.youtube.com/watch?v=essG5JYMERw)
 motivates this check without establishing a current kit-merging rule. [S19] Read a returned
-multiple-test roster with the checks at the end of workflow 6.
+multiple-test roster with the Advanced Matches checks at the end of
+[workflow 6](#6-record-a-family-finder-matrix-comparison).
 
 ## Eight workflows
 

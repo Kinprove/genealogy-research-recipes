@@ -197,16 +197,17 @@ searches in cross-repository catalogues, the trace from a collection description
 own catalogue, and the request states. The
 [university-archives interview](https://familylocket.com/rlp-284-university-archives-with-sam-howes/)
 demonstrates creator and subject searches in ArchiveGrid and reports its incomplete participation.
+Use the onsite preparation checks above for any described material you plan to request.
 
 ## Recover a dated page behind a dead citation
 
 For a broken link to a historical genealogy page, retain the exact original URL and check
 an available web archive, such as the Internet Archive's Wayback Machine, for a dated capture.
-Inspect each available capture's page content as well as its capture date: several later
+Inspect a capture's page content as well as its capture date: several later
 captures may preserve only an error page. Move back to a content-bearing capture, then inspect
 later available versions for the needed pre-change page. Record the original URL, archive URL
 and capture timestamp, inspected dates, access date and actual content or error state; keep any
-known original publication date separate, and keep any pointer to the underlying source. Record
+known original publication date separate and retain any pointer to the underlying source. Record
 missing pages, images and linked material individually. No usable capture means the page
 remains unavailable. An archived tree or transcription keeps that source role; retrieval adds
 neither independent corroboration nor proof of kinship. Roberta Estes's

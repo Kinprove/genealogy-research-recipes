@@ -145,9 +145,8 @@ Wednesday', retain the literal wording and its anchor before deriving a date. Th
 `ult.` refers to the preceding month; use that reading only after checking the notice's context
 and whether its anchor is the issue date, a dated letter or an earlier report. Save `wording |
 anchor and basis | derived event date | uncertainty` separately from the publication date. If a
-reprint or ambiguous anchor prevents a reliable calculation, including a reprint whose original
-date is unknown, leave the event date unresolved. (S47;
-[relative-date example](https://www.youtube.com/watch?v=XfEvV8TVnmw))
+reprint, such as one whose original date is unknown, or an ambiguous anchor prevents a reliable
+calculation, leave the event date unresolved. (S33, S47)
 
 For an independently documented business/address, also search a successor's advertisement
 and read any wording naming the former operator. Retain the notice date and literal wording
@@ -158,10 +157,10 @@ supports this retrieval pivot; one later advertisement supplies no exact move or
 When the local issue is lost, undigitized or silent, search the name across all titles without a
 place filter for a reprint. Editors exchanged papers and copied items, often crediting the source,
 and wire copies reached distant and overseas titles. A "[place] papers please copy" request, as at
-the end of a death notice, shows only that the notice's author wanted it reprinted there; it does
-not prove that another paper printed it. Preserve the request as a publication-locality lead and use
-the title/holding workflow above to search a bounded interval in that place's papers. It is not
-proof of residence or route. (S47) Record each version's title, date, length,
+the end of a death notice, shows only that the notice's author wanted it reprinted there; it
+proves neither that another paper printed it nor residence or route. Preserve the request as a
+publication-locality lead and use the title/holding workflow above to search a bounded interval
+in that place's papers. (S47) Record each version's title, date, length,
 differing details and any credited original separately, and group copies under their originating
 report. A reprint may be abridged or altered and is not independent corroboration. A distant
 paper's 'native of' claim may come from the original report. The
@@ -228,7 +227,7 @@ browse the legal-notice matter as well as running name searches. Notices may lac
 among advertisements. Find the publication rule in force for that time and place. It may name a
 qualifying paper, another county or a number of insertions, so search every qualifying paper,
 including cheap legal-notice papers, across the whole insertion run. Copy any deed book and page,
-trustees, recording date or land description verbatim, and use them to request the record; carry a
+trustees, recording date or land description verbatim, and use them to request the record; carry any
 court and case number into the [handoff from a court notice](#optional-handoff-from-a-court-notice).
 A notice is a published summary. It does not establish the outcome, title or kinship,
 or that the book survives. 'Residence unknown' means unknown to officials on that date, not a move
@@ -314,8 +313,9 @@ the candidate's identity; preserve its literal ceremony stage rather than equati
 
 If a recovered notice supplies a case or docket number, preserve it with the printed parties,
 stated court/jurisdiction and date, keeping the newspaper citation. Resolve the relevant court
-series and present custodian for that period with [court case files](court-case-file-recovery.md),
-or with [U.S. federal court case files](us-federal-court-case-file-recovery.md) when the court was
+series and present custodian for that period; for a U.S. court use
+[court case files](court-case-file-recovery.md), or
+[U.S. federal court case files](us-federal-court-case-file-recovery.md) when the court was
 federal; for a reported arrest, criminal trial or imprisonment, also use
 [criminal court and prison records](criminal-court-prison-record-recovery.md). Use the number only
 in a collection whose actual arrangement supports it. Check a retrieved file against the parties

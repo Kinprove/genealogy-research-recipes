@@ -75,7 +75,7 @@ particular fields, complete survival or a present translation service.
 Use the [tax roll observation](tax-roll-observation-workflow.md) workflow for the annual series
 register and its inspection statuses, separate tax-type searches, reading a volume's arrangement,
 literal capacity notations such as *administrator of* or *estate of*, and delinquent addenda.
-A roll used for a land lead adds these checks.
+For a roll used for a land lead, also apply the checks below.
 
 Map every volume and tax-class section of each selected year before interpreting a surname miss
 or stopping at one hit, and record each section's own sort key, locator and inspected extent in
@@ -265,13 +265,15 @@ case-file request and inventory. This step adds the locator, packet and date con
    class and period before requesting the file; record unresolved class, custody or access
    separately. A patent image does not establish that its supporting packet has been
    retrieved. [S11, S12]
-3. After a completed-patent search misses a supported tract lead, follow the linked
-   workflow's tract-book route to entries that did not reach patent, and retain the literal
-   entry status, legal description, land office and any entry/file number. Queue a
+3. After a completed-patent search misses a supported tract lead, follow the tract-book route in
+   [U.S. federal land entry files](us-federal-land-entry-file-recovery.md) to entries that did
+   not reach patent, and retain the literal entry status, legal description, land office and any
+   entry/file number. Queue a
    corresponding case series only when that locator and the actual holdings support it,
    keeping requested and retrieved files separate. The [historical tract-book example](https://www.youtube.com/watch?v=fEuF00FwZN8)
-   motivates this fallback. A patent-search miss does not establish that an application's
-   file survives; the historical entry status and present retrieval status remain distinct.
+   motivates this fallback. A patent-search miss does not establish that no application existed
+   or that its file survives; the historical entry status and present retrieval status remain
+   distinct. [S17]
 4. When the packet is available, compare its identifiers with the patent lead and inventory
    the actual jacket and component documents against the entry-class targets below. Inspect
    certificate and assignment reverses where present. Retain each component actually present,
@@ -279,8 +281,8 @@ case-file request and inventory. This step adds the locator, packet and date con
    extent; do not assume a fixed page count or a complete packet from the presence of a
    certificate. [S11]
 5. In bounty-land papers, keep the named veteran, heir and assignee as separate rows of the
-   linked workflow's party-role table. An assignee is not thereby the veteran or a resident
-   of the parcel. In homestead papers, keep the reported settlement, application, filing,
+   party-role table in U.S. federal land entry files. An assignee is not thereby the veteran or
+   a resident of the parcel. In homestead papers, keep the reported settlement, application, filing,
    improvements, testimony and patent dates distinct. Attribute claimant and witness
    statements to their actual documents; route conflicts and identity questions to the
    evidence/proof workflow. [S11]
