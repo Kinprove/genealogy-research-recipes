@@ -145,7 +145,7 @@ number), do not open the first Catalog collection whose title matches the record
 candidate Catalog entry with the index's signature (holder, record group, accession). Then check that
 the chosen entry's volumes are arranged by file number, not by letter volumes or number ranges that
 cannot hold that file. Locate the file by its number and record any locked image range as an access
-state (workflow 6). A [probate-file index discussion](https://forum.ahnenforschung.net/forum/thread/148940-neues-bei-der-brandenburg-datenbank-mit-berlin/)
+state (workflow 6). A [probate-file index discussion](https://forum.ahnenforschung.net/forum/thread/148940/)
 shows a wrong series with the same title being corrected; the thread does not show which details
 confirmed the right series. A matching title alone does not establish the right series.
 
@@ -264,7 +264,7 @@ kinship.
 Before reading a register page as complete, do not assume the adjacent image shows the neighbouring
 page: some registers had left and right pages filmed separately, so the pages before and after may
 lie elsewhere in the same group. Record the image numbers of every page you use. A
-[split-page filming discussion](https://forum.ahnenforschung.net/forum/thread/3014856-r%C3%A4tselhaft-zwei-ehen-gleichzeitig-in-einem-jahr/)
+[split-page filming discussion](https://forum.ahnenforschung.net/forum/thread/3014856/)
 flags a baptism film whose preceding and following pages lay more than a hundred images away from the
 cited image. It does not say how those pages were found or how common such filming is.
 

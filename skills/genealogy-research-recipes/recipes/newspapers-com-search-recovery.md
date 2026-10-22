@@ -188,7 +188,7 @@ identical text may be a copy. Sources: [timing](https://www.youtube.com/watch?v=
 interval, so set the extended window as an explicit budget.
 
 For a migrant who died away from home, also read any death lists a destination-city newspaper
-printed. A [Vienna death-list series](https://forum.ahnenforschung.net/forum/thread/1082-zufallsfunde/)
+printed. A [Vienna death-list series](https://forum.ahnenforschung.net/forum/thread/1082/)
 shows entries giving the death date, name, occupation, age, the place the person had arrived from,
 the cause and the hospital or address. Record the issue date and page separately from the death
 date, and carry the stated origin to that place's registers. 'Arrived from' may name a last

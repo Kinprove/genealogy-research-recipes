@@ -232,7 +232,7 @@ grave's type and status when contact is authorized. Is it a war grave? Was the s
 example as unstable? Record any reported grave status and the current section, row and number
 beside the original locator. If the office reports an anonymous interment, ask for the recorded
 burial field and log it as the locator of an unmarked burial. The
-[Berlin grave-photo request thread](https://forum.ahnenforschung.net/forum/thread/19335-fotow%C3%BCnsche-berlin-wer-braucht-fotos-von-berliner-grabstellen-kirchen-h%C3%A4user/)
+[Berlin grave-photo request thread](https://forum.ahnenforschung.net/forum/thread/19335/)
 motivates this. Its report that a war grave survives and its advice that the office can name the
 field of an anonymous burial are local forum statements; the thread does not show a field being
 released, and grave-retention rules vary by cemetery and period. [P19]

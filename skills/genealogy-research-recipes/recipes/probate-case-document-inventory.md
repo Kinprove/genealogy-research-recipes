@@ -121,7 +121,7 @@ indexer's derived data, separate from the will row. Read the will image itself a
 name by name. Mark any name that appears in only one of them as a discrepancy. Do not count an
 index-only name as a separate person, and do not drop a will-named child because the index uses a
 different name. Hand the reconciliation, for example against a household census entry, to the evidence
-workflow. A [will-versus-index comparison](https://forum.ahnenforschung.net/forum/thread/2999515-auswanderung-1857-aus-hessen-%C3%BCber-bremen-nach-amerika/)
+workflow. A [will-versus-index comparison](https://forum.ahnenforschung.net/forum/thread/2999515/)
 motivates this check. It does not explain why the index differs, and it does not show that the
 will is complete. [S15]
 

@@ -23,7 +23,7 @@ community percentages, legal advice or person-specific examples.
   in an archival certificate. Also used for the arrestee questionnaire in an investigative case as
   a list of relatives given by the arrestee.
 - **H4:** Ahnenforschung.net Forum, thread "Linktipps (allgemeine)", first post 2006-02-01,
-  <https://forum.ahnenforschung.net/forum/thread/7649-linktipps-allgemeine/>. Rights: cited
+  <https://forum.ahnenforschung.net/forum/thread/7649/>. Rights: cited
   reference, not reproduced. Used for one post's report that death certificates sent to relatives of
   people executed in Moscow in 1950–53 deliberately carried false data and could later be replaced
   with corrected ones.

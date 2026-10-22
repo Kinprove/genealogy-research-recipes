@@ -27,7 +27,7 @@ another researcher's placeholder for an unknown name, such as Danish 'Ukendt'. T
 surname index to a Russian regional-history book cautions that headings formed from given names
 may be patronymics rather than surnames. Before adding such a token to the
 inventory or searching it as a family surname, read the original entries or the indexed page. The
-[register-formula example](https://forum.ahnenforschung.net/forum/thread/928-humoris-causa/) and
+[register-formula example](https://forum.ahnenforschung.net/forum/thread/928/) and
 the compiler's caution in a
 [book surname-index thread](https://rodgersforum.borda.ru/?1-7-0-00000258-000-0-0-1776484154=)
 motivate this check. They supply no list of formula words, placeholders or affected headings.
@@ -37,7 +37,7 @@ earlier surname and Y a farm or house name. A man who married onto a farm, or a 
 widow or widower, may take the farm name. Names can also stack ('X gnt. Y gnt. Z'). Record each
 part separately, and search the birth surname and every farm name as separate lanes. A shared farm
 name links people to a holding; by itself it does not show blood kinship. A
-[chain-marriage example](https://forum.ahnenforschung.net/forum/thread/928-humoris-causa/)
+[chain-marriage example](https://forum.ahnenforschung.net/forum/thread/928/)
 motivates this step. It does not show how widespread the custom was or how consistently clerks
 wrote it.
 
@@ -82,7 +82,7 @@ book's surname variants and list of wives, then return to the original entry. In
 records an indeclinable -ских form may alternate with -ские or -ская for one family, and -ов/-ев
 could be written inconsistently. Search each ending, including feminine and plural forms, and keep
 each literal ending in the inventory. See the
-[family-book example](https://forum.ahnenforschung.net/forum/thread/17915-familienbuch-hajos/),
+[family-book example](https://forum.ahnenforschung.net/forum/thread/17915/),
 the [Ural Civil War thread](https://rodgersforum.borda.ru/?1-23-0-00000012-000-0-0-1714980847=)
 and the [genealogy terms thread](https://rodgersforum.borda.ru/?1-0-0-00000141-000-0-0-1701453218=).
 None gives a rule for which form a clerk used. A family book is a compilation, and identity still
@@ -94,7 +94,7 @@ An indexer may misread such an ending as a new name. Early-modern university mat
 Latinize the surname with an -us ending and add adjectival words for town or nation after it.
 Search the nominative, the inflected Latin form and a reconstructed vernacular form as separate
 lanes. Keep the literal entry, and do not search origin adjectives as surnames. The
-[Latin register-name examples](https://forum.ahnenforschung.net/forum/thread/928-humoris-causa/)
+[Latin register-name examples](https://forum.ahnenforschung.net/forum/thread/928/)
 give two instances and no conversion rules. A reconstructed vernacular name is only a candidate.
 
 ## Retrieve through another recorded participant

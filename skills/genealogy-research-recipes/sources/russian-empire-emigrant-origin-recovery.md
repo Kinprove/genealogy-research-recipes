@@ -11,7 +11,7 @@
   detention lists and browsing after failed name searches. Historical database coverage and the
   participants' proposed OCR explanation are not adopted as current facts.
 - **S3:** Ahnenforschung.net participants, *FN Lavender 1922 aus Polen nach NY, jewish*, thread begun
-  2026-02-26 — [discussion](https://forum.ahnenforschung.net/forum/thread/2999886-fn-lavender-1922-aus-polen-nach-ny-jewish/).
+  2026-02-26 — [discussion](https://forum.ahnenforschung.net/forum/thread/2999886/).
   Child-name variant recovery and separately reading origin/destination contact fields. The
   discussed family's identity and locality are not independently adjudicated here.
 - **S4:** Aimee Cross, *Finding the RIGHT Immigration Record*, 2025-12-11 —
@@ -65,12 +65,12 @@
   film) as a source for undelivered-remittance files naming sender and recipient; coverage is not
   adopted from the thread.
 - **S15:** Ahnenforschung.net participants, Ahnenforschung.net topic 3013995, thread begun 2026-04-30 —
-  [discussion](https://forum.ahnenforschung.net/forum/thread/3013995-suche-herkunftsort-und-heiratsort-von-johann-otterst%C3%A4tler-katharina-keller-auswa/).
+  [discussion](https://forum.ahnenforschung.net/forum/thread/3013995/).
   Rights: cited reference, not reproduced. Used for comparing census birthplaces and manifest origin
   when a German-speaking family recorded as born in 'Germany' may come from Russian Empire German
   colonies; the family's identity and ancestral origin are not adjudicated here.
 - **S16:** Ahnenforschung.net participants, *Auswanderung USA*, thread begun 2021-11-22 —
-  [discussion](https://forum.ahnenforschung.net/forum/thread/185403-auswanderung-usa/). Rights:
+  [discussion](https://forum.ahnenforschung.net/forum/thread/185403/). Rights:
   cited reference, not reproduced. Used for separating same-named destination contacts and
   comparing each one's dated addresses with the manifest contact address; no candidate is adopted
   as the contact.

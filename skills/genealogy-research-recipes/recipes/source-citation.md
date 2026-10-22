@@ -32,7 +32,7 @@ carry no year or place. While the full page is still open, record those values f
 header or margin next to the crop's locators. A
 [metrical-book screenshot collection discussion](https://forum.j-roots.info/viewtopic.php?f=181&t=4753)
 motivates this step. A
-[church-book transcription anecdote](https://forum.ahnenforschung.net/forum/thread/928-humoris-causa/)
+[church-book transcription anecdote](https://forum.ahnenforschung.net/forum/thread/928/)
 shows the same loss when the date stands only in a heading or margin. Neither source supplies the
 crop's archival signature, which still needs its own locator.
 

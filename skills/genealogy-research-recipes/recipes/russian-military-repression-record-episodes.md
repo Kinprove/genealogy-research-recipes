@@ -87,7 +87,7 @@ stated date, place and cause apart from the sentence and any execution record. A
 certificate is a further episode. A [repression-records discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=561)
 relays a poster's account that relatives of people sentenced to death in 1937–38 were told of
 ten-year camp terms without correspondence and later given fictitious natural-cause certificates.
-A [publication notice](https://forum.ahnenforschung.net/forum/thread/7649-linktipps-allgemeine/)
+A [publication notice](https://forum.ahnenforschung.net/forum/thread/7649/)
 reports deliberately false certificates for people executed in Moscow in 1950–53. Rehabilitation
 wording saying that relatives were not found or whereabouts are unknown records an inquiry, and an
 early case termination does not establish death: the repression-records discussion reports a release after one.

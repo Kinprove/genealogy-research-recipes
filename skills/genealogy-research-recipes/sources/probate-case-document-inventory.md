@@ -89,7 +89,7 @@ The linked inventory/queue schema and scope-completion rule are original synthes
   13 September 2023. Used for widening the venue set (residence, death place, heirs' residence,
   adjoining counties) and the multi-year search after a death when nothing is found nearby.
 - **S15:** Ahnenforschung.net Forum,
-  [Auswanderung 1857 aus Hessen, über Bremen nach Amerika.](https://forum.ahnenforschung.net/forum/thread/2999515-auswanderung-1857-aus-hessen-%C3%BCber-bremen-nach-amerika/),
+  [Auswanderung 1857 aus Hessen, über Bremen nach Amerika.](https://forum.ahnenforschung.net/forum/thread/2999515/),
   first post 25 February 2026. Rights: cited reference, not reproduced. Used for comparing a
   database index's heir list with the will image and recording index-only names as discrepancies
   rather than as additional persons.

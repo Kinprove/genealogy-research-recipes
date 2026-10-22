@@ -81,7 +81,7 @@ photographs, database rows and real family examples are not reproduced.
   reproduced. Used for attaching a Levite title after a woman's patronymic to her father.
 - **P19:** Ahnenforschung.net Forum, *Fotowünsche Berlin - Wer braucht Fotos von Berliner
   Grabstellen, Kirchen, Häuser?*, first post 2010-04-18 —
-  [thread](https://forum.ahnenforschung.net/forum/thread/19335-fotow%C3%BCnsche-berlin-wer-braucht-fotos-von-berliner-grabstellen-kirchen-h%C3%A4user/).
+  [thread](https://forum.ahnenforschung.net/forum/thread/19335/).
   Rights: cited reference, not reproduced. Used for asking the cemetery office about grave type and status, such as a war grave or a removed stone, and about the recorded field of an anonymous burial, before
   treating a missing marker as a failed lead.
 - **P20:** J-Roots Forum, *Нужно мнение коллег*, first post 2015-09-22 —

@@ -62,7 +62,7 @@ motivates this place-role check without guaranteeing a field or identifying the 
 
 For a return leg through Britain, search British inbound passenger lists and verify their route and
 year coverage before recording a gap; a missing list is not evidence the person stayed. In the
-[return-voyage discussion](https://forum.ahnenforschung.net/forum/thread/185403-auswanderung-usa/),
+[return-voyage discussion](https://forum.ahnenforschung.net/forum/thread/185403/),
 a forum participant states this for an interwar return without citing a source. It does not
 establish coverage by year or route, or what records the home locality kept, so check the finding
 aid of the collection you choose.
@@ -413,7 +413,7 @@ visa file. These files are reportedly not arranged by that number. Request a USC
 for the arrival first to get the file number, then make a separate records request. Expect the file to hold papers needed for entry, such as birth and good-conduct certificates, recent residences and a photograph.
 Do not expect evidence of life after arrival unless a naturalization application or other official
 attention followed. The
-[visa-file discussion](https://forum.ahnenforschung.net/forum/thread/185403-auswanderung-usa/)
+[visa-file discussion](https://forum.ahnenforschung.net/forum/thread/185403/)
 paraphrases USCIS guidance, but the search it reports came back empty. Verify current USCIS
 instructions and any NARA custody.
 

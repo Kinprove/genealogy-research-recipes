@@ -64,7 +64,7 @@ German colonies, for example in Bessarabia. Compare the birthplace across every 
 manifest's origin field before searching German emigration sources. A later census or manifest
 origin that reads “Russia” is a reason to add a colony candidate; a reported miss in German
 emigration lists is not. In the
-[Bessarabian-colonist case](https://forum.ahnenforschung.net/forum/thread/3013995-suche-herkunftsort-und-heiratsort-von-johann-otterst%C3%A4tler-katharina-keller-auswa/),
+[Bessarabian-colonist case](https://forum.ahnenforschung.net/forum/thread/3013995/),
 the manifest that was found had sailed from Bremen, and the colony marriage and manifest were linked
 only by names, ages and a child. Treat such a link as a candidate to test. It does not settle the
 family's earlier German origin.
@@ -191,7 +191,7 @@ When records turn up several people with the destination contact's name, give ea
 separate row: birth, arrival and naturalization data, plus the dated addresses from censuses and
 citizenship papers. Before linking any of them to the traveler, compare each dated address with the
 manifest's contact address. A
-[contact-namesake discussion](https://forum.ahnenforschung.net/forum/thread/185403-auswanderung-usa/)
+[contact-namesake discussion](https://forum.ahnenforschung.net/forum/thread/185403/)
 shows this check. The candidates' 1925 and 1930 census addresses did not quite match the manifest
 address, and one candidate's naturalization address was only nearby. A nearby street or a similar
 year narrows the field but does not identify the contact. The link to the traveler's home district
