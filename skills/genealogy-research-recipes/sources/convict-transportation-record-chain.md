@@ -1,0 +1,14 @@
+## Sources
+
+- **S1:** BYU Family History Library / James Tanner, [Stand and Deliver: What if your ancestor was a criminal](https://www.youtube.com/watch?v=AyfhLlKm18I), published 2017-11-22. Used for: the newspaper arrest report, the hulk register entry that does not show its sentencing stage, working back from the Australian records, the gaol and indent sequence, and the presenter's pardoned-on-marriage claim (not adopted).
+- **S2:** BYU Family History Library / James Tanner, [What if Your Ancestor Ended Up in Jail?](https://www.youtube.com/watch?v=TV83Sbd_O6k), published 2023-11-10. Used for: the ordered chain from trial report to marriage, the assizes/sessions register entry, a hulk entry with conviction and received dates, the arrival index and physical-description indent, the conflicting arrival years, the Newcastle gaol admission, the conditional pardon citing good conduct, and the permission to marry.
+- **S3:** BYU Family History Library / James Tanner, [Finding Your English Ancestors in Australia](https://www.youtube.com/watch?v=uA4DnmxywD4), published 2017-02-07. Used for: the series names shown in Ancestry (pardons and tickets of leave, criminal register, register of conditional and absolute pardons, gaol books, hulk registers) and the presenter's uncommon-surname reasoning.
+- **S4:** Genealogy Gems, [Episode 167 – Colonial American Genealogy](https://www.youtube.com/watch?v=JOkEuLRA3nk), published 2016-12-23. Used for: the Old Bailey Online searched by sentence = transportation (the guest's all-courts description is not adopted), Coldham's compilations, and runaway notices giving physical descriptions.
+
+The stage worklist, the date-role rules, the jurisdiction bounding and the episode table are authored synthesis. The videos supply one worked chain for a single convict, together with the presenters' own descriptions of collections. Not verified: the details of the teaching case (trial date and court, arrival date, gaol admission age, pardon wording), the 1837–1842 partial index as a named archive index, the holdings of Findmypast, the vessel name (unclear in the audio), and any general rule linking pardons to marriage. No law on transportation, tickets of leave or pardons is adopted here.
+
+## Credits
+
+- Ancestry collection titles and the NSW indent column heading as shown in S2 and S3, checked against Ancestry's catalogue and the Digital Panopticon — Factual titles/labels; not subject to copyright (quoted)
+- Genealogy Gems, Episode 167 – Colonial American Genealogy (guest remarks on runaway notices) — Third-party video (YouTube standard license); brief attributed paraphrase (adapted)
+- Kinprove original procedural synthesis; the teaching case and collection descriptions are attributed to S1-S4 (BYU Family History Library / James Tanner talks; Genealogy Gems Episode 167) — FSL-1.1-MIT (kinprove-original)

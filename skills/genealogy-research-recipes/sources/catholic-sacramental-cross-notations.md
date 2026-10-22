@@ -1,0 +1,19 @@
+## Sources
+
+- **S1:** Family History Fanatics, [How to Make Sense of This Published Genealogy - Genealogy Q&A](https://www.youtube.com/watch?v=CcwF-SvHe5Y), 2023-01-20 (the relevant material is an answer near the end of the Q&A, not the headline topic). Used for: marriage entries stating where the parties were baptized; letters between priests; marriage notes in baptism parishes; indexes leaving these notes out; the ideal but not guaranteed linking of three parishes; priests varying in detail.
+- **S2:** Family History Fanatics, [Research Catholic Baptism Records on Findmypast](https://www.youtube.com/watch?v=nQfk1SHaq7U), 2020-05-11. Used for: the presenter dating the rule change to 1908 (notes after Easter 1908); an example baptism note giving the spouse and place of marriage. The presenter's exact wording is not confirmed.
+- **S3:** Denyse Allen (Chronicle Makers), [Researching Siblings for Clues](https://www.youtube.com/watch?v=KAnLeVCJTCg), 2021-06-04. Used for: a priest's note in a marriage entry giving a baptized-or-born place at a Methodist church; the officiating church being unidentifiable from the online image; the plan to ask the archdiocese.
+- **S4:** Lisa Lisson, [Find Hidden Americans in British Records](https://www.youtube.com/watch?v=5tsM3pHQTwE), 2020-12-16. Used for: margin notes added later to an Archdiocese of Philadelphia baptism entry; the presenter's account of a Vatican requirement covering "all" sacraments; a Cork-baptized man married in Philadelphia whose Irish baptism entry records the marriage; witnesses and godparents as clues.
+- **S5:** Lisa Lisson, [Your Ancestor's Marriage Record: How To Find All of the Clues!](https://www.youtube.com/watch?v=a0Vei6f0ngY), 2022-08-16. Used for: the remarks column of a Philadelphia baptism register in Findmypast's Catholic Heritage collection and the confirmation entries in the same register; a 1919 baptism entry noting a 1943 marriage with witnesses and officiant; following up with the marriage register and civil registration; the presenter's uncertainty about how widespread the practice was.
+
+Authored synthesis: the two-direction procedure, treating the note as a separate derivative observation, reading a missing note by its date relative to Easter 1908, and the return packet. From the sources: the examples and the presenters' statements. From outside authorities: the name, date and article of *Ne temere*, the 1983 canons, and the CHRC request terms.
+
+## Credits
+
+- Family History Fanatics, How to Make Sense of This Published Genealogy - Genealogy Q&A, YouTube video — Standard YouTube License (all rights reserved by creator); short quotation with attribution (quoted)
+- Family History Fanatics, Research Catholic Baptism Records on Findmypast, YouTube video — Standard YouTube License (all rights reserved by creator); short quotation with attribution (quoted)
+- Denyse Allen (Chronicle Makers), Researching Siblings for Clues, YouTube, 2021-06-04 — Standard YouTube License (all rights reserved by creator); brief attributed adaptation (adapted)
+- Lisa Lisson, Find Hidden Americans in British Records, YouTube video — Standard YouTube License (all rights reserved by creator); short quotation with attribution (quoted)
+- Lisa Lisson, Your Ancestor's Marriage Record: How To Find All of the Clues!, YouTube video — Standard YouTube License (all rights reserved by creator); short quotation with attribution (quoted)
+- Kinprove paraphrase of facts from the Ne temere decree text, the 1983 Code of Canon Law canons 535 §2 and 1682 §2 (Dicastery for Legislative Texts English text), and the Catholic Historical Research Center of the Archdiocese of Philadelphia request forms page — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; community video examples cited as S1–S5 — FSL-1.1-MIT (kinprove-original)

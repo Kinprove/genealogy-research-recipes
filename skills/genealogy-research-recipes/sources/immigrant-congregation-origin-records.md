@@ -1,0 +1,15 @@
+## Sources
+
+- **S1:** BYU Family History Library / Joe Everett, [Case Studies using German Immigrants in American Church Records](https://www.youtube.com/watch?v=1v_HTrJfiJU), published 2026-02-20. Used for: fixing residence from the census and choosing the state's volumes; gathering context; searching neighbouring places and relatives; browsing past an index miss (the n/u confusion); copying the section heading's source reference; checking the original image; originals held only locally; the presenter's accuracy estimate.
+- **S2:** BYU Family History Library / Roger Minert, [Germans Immigrants in American Church Records](https://www.youtube.com/watch?v=XadMLrXNX9U), published 2020-01-23. Used for: register types that give origin places (baptism parents' birthplaces, confirmation, marriage, death with age), and the roughly 20% baptism figure.
+- **S3:** BYU Family History Library / Roger P. Minert, [German Immigrants in American Church Records goes to Pennsylvania!](https://www.youtube.com/watch?v=A_eY1eeeAqY), published 2025-05-29. Used for: Protestant scope; inclusion of only European-born persons; German Catholics in Irish/French parishes and Latin country terms; country or region labels that do not locate a town; the Palatinate label; denominational archives and contacting congregations; the renaming example; no confirmation against German records.
+- **S4:** BYU Family History Library / Laurie Castillo, [Jurisdiction = When + Where](https://www.youtube.com/watch?v=S_X6RH7iugM), published 2017-03-03. Used for: the printed versus online *Official Catholic Directory*; narrowing by ethnic parish, founding date and city-directory address; visiting clergy in places without a resident priest.
+- **S5:** Denyse Allen, [Northeast Pennsylvania Genealogical Society](https://www.youtube.com/watch?v=7XPtWJZDh-w), published 2024-07-25. Used for: choosing churches by language community rather than distance, and Polish members splitting from a German church.
+- **S6:** Denyse Allen, [Podcast: Northeast Pennsylvania Genealogical Society](https://www.youtube.com/watch?v=o335CdVWm5E), published 2020-09-26. This is an earlier telling of the S5 account and not an independent observation.
+
+**What is synthesis.** The candidate table, entry log, custodian log and not-searched list are authored synthesis. The sources supply the selection criteria, register-type expectations, index-miss example and renaming example. No current holdings, access policies or series coverage by state were verified, and no original register image was inspected for this recipe.
+
+## Credits
+
+- Roger P. Minert, German Immigrants in American Church Records goes to Pennsylvania!, BYU Family History Library video, 2025-05-29 — All rights reserved by the rights holder; short attributed quotation (quoted)
+- Kinprove original procedural synthesis; the techniques and examples are paraphrased and attributed to S1–S6 (Everett, Minert, Castillo, Allen video presentations) — FSL-1.1-MIT (kinprove-original)
