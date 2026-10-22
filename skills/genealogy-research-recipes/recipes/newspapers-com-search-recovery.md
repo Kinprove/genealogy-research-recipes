@@ -140,17 +140,14 @@ Boolean behavior. Set place and publication-date limits separately. (S9)
 | 11 | One article suggests a longer story. | Search subsequent months for court proceedings, settlement or verdict; revisit former residences for a death mention. Reuse newly recovered witnesses, addresses and institutions as search clues. (S2, S3) | Record each article's publication date and reported event date separately. Do not turn the first report or filing into the final outcome. |
 | 12 | Keywords still fail despite an available likely issue. | Switch retrieval mode: browse its pages directly. For an obituary or marriage item, also search the relevant Newspapers.com index on Ancestry and follow any candidate to the image. (S6, S10) | The index is another access path, not independent corroboration. Check the full notice and its boundaries; inspect missing or inaccessible pages separately. |
 
-When a notice dates an event relative to another date, retain the literal wording and its
-anchor before deriving a date. The demonstrated `ult.` refers to the preceding month; use
-that reading only after checking the notice's context and whether its anchor is the issue
-date, a dated letter or an earlier report. Save `wording | anchor and basis | derived event
-date | uncertainty` separately from the publication date. If a reprint or ambiguous anchor
-prevents a reliable calculation, leave the event date unresolved. (S47)
-
-A request such as "[place] papers please copy" supplies a specific publication-locality
-lead. Preserve the request, then use the title/holding workflow above to search a bounded
-interval in that place. The request neither establishes family residence there nor proves
-that another paper printed it. An actual copied notice remains dependent on its source. (S47)
+When a notice dates an event relative to another date, such as 'issued yesterday' or 'last
+Wednesday', retain the literal wording and its anchor before deriving a date. The demonstrated
+`ult.` refers to the preceding month; use that reading only after checking the notice's context
+and whether its anchor is the issue date, a dated letter or an earlier report. Save `wording |
+anchor and basis | derived event date | uncertainty` separately from the publication date. If a
+reprint or ambiguous anchor prevents a reliable calculation, including a reprint whose original
+date is unknown, leave the event date unresolved. (S47;
+[relative-date example](https://www.youtube.com/watch?v=XfEvV8TVnmw))
 
 For an independently documented business/address, also search a successor's advertisement
 and read any wording naming the former operator. Retain the notice date and literal wording
@@ -160,9 +157,11 @@ supports this retrieval pivot; one later advertisement supplies no exact move or
 
 When the local issue is lost, undigitized or silent, search the name across all titles without a
 place filter for a reprint. Editors exchanged papers and copied items, often crediting the source,
-and wire copies reached distant and overseas titles. A death notice ending "[place] papers please
-copy" shows only that the notice's author wanted it reprinted there. Treat it as a possible lead to
-that place's papers, not as proof of residence or route. Record each version's title, date, length,
+and wire copies reached distant and overseas titles. A "[place] papers please copy" request, as at
+the end of a death notice, shows only that the notice's author wanted it reprinted there; it does
+not prove that another paper printed it. Preserve the request as a publication-locality lead and use
+the title/holding workflow above to search a bounded interval in that place's papers. It is not
+proof of residence or route. (S47) Record each version's title, date, length,
 differing details and any credited original separately, and group copies under their originating
 report. A reprint may be abridged or altered and is not independent corroboration. A distant
 paper's 'native of' claim may come from the original report. The
@@ -203,16 +202,13 @@ anniversary, funeral, cards of thanks. A birth notice may name only the parents 
 Mrs …'), so a miss on the child's name eliminates nothing. Linking an unnamed child rests on date,
 parents and family records, so record that link as inferred. Where marriage records are lost or
 announcements scarce, search marriage-licence lists. A licence does not prove that a ceremony took
-place, or when. Keep relative wording ('issued yesterday', 'last Wednesday') literal. Establish which
-dateline the relative wording refers to before deriving the date, labelled derived; leave it
-unresolved when a reprint's original date is unknown. Sources:
+place, or when. Derive a date from a list's relative wording only as described for relative dates
+above. Sources:
 [vital-event keywords](https://www.youtube.com/watch?v=RvbalvEJXn8),
 [death-notice types](https://www.youtube.com/watch?v=_PfJrt10Srg),
 [unnamed child](https://www.youtube.com/watch?v=v_tpU77sOn4),
 [licence lists](https://www.youtube.com/watch?v=NMjImd0Oy7U)
-([also](https://www.youtube.com/watch?v=ezp_SFmMdYM)),
-[relative date](https://www.youtube.com/watch?v=XfEvV8TVnmw). A surname hit is not an identity
-match.
+([also](https://www.youtube.com/watch?v=ezp_SFmMdYM)). A surname hit is not an identity match.
 
 Do not cap the publication-date filter at the event year, and open hits dated long after the
 person's lifetime. Congregation histories, 'years ago' columns and rosters of a war's participants
@@ -231,9 +227,10 @@ For probate, court, tax or land matters, and especially when deeds or court file
 browse the legal-notice matter as well as running name searches. Notices may lack a heading and sit
 among advertisements. Find the publication rule in force for that time and place. It may name a
 qualifying paper, another county or a number of insertions, so search every qualifying paper,
-including cheap legal-notice papers, across the whole insertion run. Copy any court, case number,
-deed book and page, trustees, recording date or land description verbatim, and use them to request
-the record. A notice is a published summary. It does not establish the outcome, title or kinship,
+including cheap legal-notice papers, across the whole insertion run. Copy any deed book and page,
+trustees, recording date or land description verbatim, and use them to request the record; carry a
+court and case number into the [handoff from a court notice](#optional-handoff-from-a-court-notice).
+A notice is a published summary. It does not establish the outcome, title or kinship,
 or that the book survives. 'Residence unknown' means unknown to officials on that date, not a move
 or death. The [legal-notice examples](https://www.youtube.com/watch?v=Mr03rzuk2gA),
 [child-support account](https://www.youtube.com/watch?v=5vF5SAYIYU0) and
@@ -317,9 +314,13 @@ the candidate's identity; preserve its literal ceremony stage rather than equati
 
 If a recovered notice supplies a case or docket number, preserve it with the printed parties,
 stated court/jurisdiction and date, keeping the newspaper citation. Resolve the relevant court
-series and present custodian for that period; use the number only in a collection whose actual
-arrangement supports it. Check a retrieved file against the parties and case context, preserving
-its own locator, inspected pages and gaps. Keep a notice-only lead or unavailable file explicit.
+series and present custodian for that period with [court case files](court-case-file-recovery.md),
+or with [U.S. federal court case files](us-federal-court-case-file-recovery.md) when the court was
+federal; for a reported arrest, criminal trial or imprisonment, also use
+[criminal court and prison records](criminal-court-prison-record-recovery.md). Use the number only
+in a collection whose actual arrangement supports it. Check a retrieved file against the parties
+and case context, preserving its own locator, inspected pages and gaps. Keep a notice-only lead or
+unavailable file explicit.
 The [reported newspaper-to-divorce-file example](https://familylocket.com/rlp-359-until-death-do-us-part-or-five-weeks-later-a-tale-of-marital-woe-in-1875-dallas/)
 illustrates this handoff. Publication of a notice does not establish its allegations, the final
 judgment or the parties' identities; recovering the notice does not mean the case file was read.

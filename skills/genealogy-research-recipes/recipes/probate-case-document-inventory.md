@@ -206,9 +206,10 @@ a guardianship alone does not establish the father's death. [S10]
 
 If land passed jointly to several heirs, or the estate papers or deeds point to a suit, add a
 bounded search of the court's civil or equity series for a partition, sale or title suit. An
-heir, another household member or the administrator may have brought it. Inventory it as a
-related case with its own locator and stated link to the estate, and record each heir's name and
-residence as stated, including married names. Such suits could be the legal route to settlement or
+heir, another household member or the administrator may have brought it. Recover a U.S. suit file
+through [court case files](court-case-file-recovery.md), and inventory it as a related case with
+its own locator and stated link to the estate; record each heir's name and residence as stated,
+including married names. Such suits could be the legal route to settlement or
 clear title, so a family-versus-family caption is not evidence of a feud. The
 [Family History Fanatics example](https://www.youtube.com/watch?v=CjjD9mI_dY8) and
 [court-records remark](https://www.youtube.com/watch?v=KjWd4X-7o_k) motivate this lead without
