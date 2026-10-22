@@ -60,6 +60,8 @@
 - S16 ([Source Linker webinar and Q&A](https://www.youtube.com/watch?v=48yoEQ0t0ow)) additionally used for the absent duplicate warning, married-surname misses and attaching each separately made copy.
 - **S56:** Aimee Cross, *The FamilySearch Catalog: Where the REAL Wealth is Hidden*, published 2026-05-21 — [source](https://www.youtube.com/watch?v=0mxyz1mPVpQ). Catalog-to-WorldCat copy-location leads; prospective holdings and access require separate verification.
 - **S57:** Aimee Cross, *DON'T MISS this IMPORTANT Full Text Search Update 2026*, published 2026-07-23 — [source](https://www.youtube.com/watch?v=gX-d5Szg9XY). Observed limited-access result scope and blocked-image leads; no backend-search behavior, current access or identity conclusion is adopted.
+- **S58:** MyHeritage, *We're live with Gena Philibert-Ortega about researching your female ancestors!*, published 2020-12-17 — [source](https://www.youtube.com/watch?v=LaqAID03XqM). The saved transcript motivates following an inspected entry's subject links to related titles.
+- **S59:** FamilySearch Help Center, *How do I use the FamilySearch Catalog to learn about the digitized historical records on FamilySearch?*, article 828, dated 2026-07-14 — [source](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-the-catalog-to-learn-more-about-the-collections-in-historical-records). Its indexed step 6 supports Locality Subject and Subject links for related items; inspected 2026-10-21.
 
 ### Source qualifications
 
@@ -76,6 +78,11 @@
   item and complete-group numbering separate.
 - S10 and S11 credit Virginia Pratt in their bodies. S08's saved Pros/Cons sections and referenced
   screenshots are incomplete; their missing contents do not supply any recipe step.
+- S58's original media and narrated catalog item were not independently inspected. S59 was
+  available as indexed official text; direct article retrieval failed. Workflow 2 is conditional
+  on links actually offered, with no live-account test or claim of a recovered record. Preserving
+  labels and checking candidate metadata are Kinprove synthesis. No universal subject authority,
+  cross-catalog heading equivalence or WorldCat subject-search behavior is asserted.
 
 ## Credits
 

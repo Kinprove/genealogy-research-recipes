@@ -86,6 +86,13 @@ zero results can reflect unindexed images, missing fields or restrictive setting
 Check the image inventory separately before deciding which material is absent.
 See [Ancestry's collection-information guide](https://help.ancestry.com/hc/en-us/articles/53933269983507-Source-and-Collection-Information).
 
+Compare the date spans of the listed volumes. Queue every relevant volume whose
+span overlaps the target period; keep each volume's inspected
+range separately. A gap in this inventory does not establish that the original
+records were destroyed. Matching dates or titles do not establish that two books
+are copies, or which is earlier: inspect the records and their provenance before
+combining their evidence.
+
 Keep three observations separate: no indexed candidate; no matching images in the
 available inventory; and documented absence in the original surviving records.
 Use the existing evidence-judgment recipe before drawing a genealogical conclusion.
@@ -146,6 +153,15 @@ outside any reasonable interval. The
 [birth-date strategies discussion](https://www.youtube.com/watch?v=v_tpU77sOn4) reports this from
 experience and says nothing about how often it happens. Any hit is only a candidate: check it
 against the image, the census date and other same-name people before attaching it.
+
+For the **1841 England and Wales census**, allow for the instruction to round
+ages 15 and above down in five-year steps. Where applied, a recorded age of 30
+represents ages 30–34. Inspect the original age field and retain the reported
+value; an index's calculated birth year is not an exact birth date. Use the
+possible age range and census date to set search bounds, checking other records
+before deciding whether rounding explains a discrepancy. The instruction alone
+does not prove how a particular entry was completed.
+See [The National Archives census guide, section 5](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/).
 
 For a missing death record, distinguish a candidate death locality from the last known
 residence. Use independently supported adult children's residences near the estimated
@@ -306,6 +322,24 @@ browse. Do not reuse that locator shape unaltered for the household schedules of
 1911 or 1921. When a whole locality is missing, check the original archive's
 coverage documentation before continuing name permutations.
 See [The National Archives census guide, sections 10–11](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/).
+
+For a **1921 household schedule**, recover the address panel and instructions as
+well as the person rows. Keep the schedule's identity and each image locator;
+check that the sides belong together. Findmypast's [RG 15 image guide](https://www.findmypast.com/discover/census-land-and-surveys/census/1921-census-of-england-and-wales-image-browse)
+describes the address panel on the front and household details on the back, with
+different sequences for longer schedules and attachments. Do not assume that a
+fixed previous/next-image offset always retrieves the other side.
+
+## Check the saved record on each intended person
+
+If you save a recovered record, list the source's named people and their intended
+tree profiles first. Select the facts and people deliberately, then open each
+intended profile and verify its source attachment and resulting facts against
+the record. A successful save to one person does not verify all intended people.
+Use the current per-person attachment controls to address a missing link; do not
+infer a parent-child relationship from household membership. Ancestry documents
+[field and person selection](https://help.ancestry.com/hc/en-us/articles/53933314225043-Adding-Records-to-a-Tree)
+and [saving a source to another person](https://help.ancestry.com/hc/en-us/articles/53933348187923-Managing-Facts-Events-and-Sources-in-Trees).
 
 ## Find a researcher or locality helper
 

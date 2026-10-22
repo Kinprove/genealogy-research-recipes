@@ -1,7 +1,8 @@
 ## Sources
 
 Sources are cited and paraphrased, not reproduced. Community tutorials supply practical working
-patterns; current vendor pages supply checkable platform behavior. Checked 2026-10-03.
+patterns; vendor pages supply checkable platform behavior. Vendor sources checked 2026-10-03;
+the additional Q&A transcript was inspected 2026-10-21.
 
 - [Reviewing your DNA matches on MyHeritage](https://education.myheritage.com/article/reviewing-your-dna-matches-on-myheritage/) — match-review features and shared-match investigation.
 - [Eight mistakes with MyHeritage DNA and how to fix them](https://education.myheritage.com/article/8-mistakes-you-might-be-making-with-myheritage-dna-and-how-to-fix-them/) — labels, notes and avoiding repeated investigation.
@@ -21,6 +22,11 @@ patterns; current vendor pages supply checkable platform behavior. Checked 2026-
 - [Using My Heritage DNA for Segment Analysis — James Baker](https://www.youtube.com/watch?v=DzNZhaIdQJo) (BYU Family History Library, 2021-08-06) — sorting an unfiltered segment export, checking overlapping matches against an anchor's shared matches for the other parental side, and a segment lost to a working cM cutoff.
 - [MyHeritage's New Whole Genome Sequence Test | 700k vs 3 billion DNA markers](https://www.youtube.com/watch?v=arP83dD_7a0) (GeneaVlogger, 2025-10-18) — vendor FAQ read aloud: no reprocessing of array kits, mixed processing during the transition, and processing type stated in the raw-file header.
 - [My Heritage Cousin Finder](https://genarchivist.net/showthread.php?tid=1549) (GenArchivist Forum, first post 2025-03-31) — Rights: cited reference, not reproduced. Used for treating Cousin Finder entries as tree assertions and reading a missing "DNA Match" marker as no results at MyHeritage, not as untested.
+- MyHeritage, [Live DNA Q&A With the Experts!](https://www.youtube.com/watch?v=Nsir-VBEhWg),
+  published 2024-09-18 — the saved transcript motivates preserving the basis of a question before
+  first contact with a close match. Workflow 8's minimal private packet is Kinprove synthesis;
+  the source's “screenshot everything” advice and causal account of withdrawal are not adopted.
+  No actual withdrawn kit, original video or current hide/delete mechanism was verified.
 
 ## Credits
 

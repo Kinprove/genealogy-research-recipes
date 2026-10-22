@@ -198,6 +198,9 @@ supplies the fallback; these alignment checks do not certify a particular origin
 1. Compare both households member by member. List people who disappeared, appeared, married, changed names, or changed recorded location. Keep each unexplained change as a separate research question.
 2. Check whether surviving 1890 population fragments cover the locality. Check veterans' schedules separately when relevant; they have their own geographical and subject coverage.
    Before searching the 1890 Union veterans and widows schedules, check the state. The National Archives description quoted by [Genealogy Gems](https://www.youtube.com/watch?v=zRuGRGwNmf0) says they survive largely for Kentucky through Wyoming, with Alabama through Kansas only as miscellaneous returns. Search for widows as well as soldiers. For a veteran who died before 1890, the widow's entry may name both and give the unit and service dates ([Family History Fanatics](https://www.youtube.com/watch?v=cpulm6BuAJ8)). A widow listed under a surname different from her soldier's is a remarriage lead. Some Confederates were entered against instructions and some of those lines crossed out; record struck lines literally ([Cochran](https://www.youtube.com/watch?v=NmtuDJBE5eQ), [Lefler](https://www.youtube.com/watch?v=ygn9UBhamaI)). Coverage is fragmentary and inclusion inconsistent. An entry does not prove service, and a widow's entry must still be matched to the right soldier.
+
+   For a relevant 1890 veterans-schedule entry, read both portions of the sheet. Use the printed line number and sheet context to match the upper service fields with the lower post-office-address, disability and remarks fields. Preserve multiple service rows and widow wording. A widow's post-office address is hers, not evidence of the deceased veteran's residence in 1890. Carry recorded unit and service dates as leads into the [pension-file workflow](us-military-pension-file-recovery.md). If the lower portion or its link is missing or illegible, record the gap instead of transferring a nearby row. [S76, H5, H6]
+
 3. Build a coverage table for state, territorial, local, and school censuses, directories, tax records, vital records, deeds, probate, newspapers, and other dated records. Record actual years and jurisdictions held rather than copying a broad database title.
    Where a census social schedule survives for the county and year, read it even though it names no one. It can list the taxes collected, the newspapers published and how often they appeared, and the churches counted by denomination. Turn these into coverage-table rows: tax series to request, newspaper titles to locate, and the congregations of the family's supported denomination whose records to seek. The [Curt Witcher interview](https://www.youtube.com/watch?v=uhOTAGepIms) motivates this step. It does not establish which years or places survive, where the schedules are held, or that a listed church's records still exist. A finite church count narrows the search; it does not identify the family's congregation.
 4. Search for non-federal censuses between the two federal dates. If no state census is known, investigate municipal, township, county, or other local enumerations. Search library catalogs and finding aids when an online index is absent.
@@ -213,7 +216,9 @@ supplies the fallback; these alignment checks do not certify a particular origin
 
 **Method origin:** Sara Cochran discusses fragments, veterans, school censuses, directories, family reconstruction, and boundary changes. James Tanner demonstrates state and local census discovery and library searches. [S20](https://www.youtube.com/watch?v=NmtuDJBE5eQ), [S21](https://www.youtube.com/watch?v=DYAVc-ih68g)
 
-## 6. Extract supplementary answers and enumerator notes
+[Ancestry's demonstration](https://www.youtube.com/watch?v=UtoRoxYo2JE) follows the veterans schedule's lower fields and unit clues. The [official form image](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890veteranscensus.jpg) shows the repeated line numbers; the [1890 instructions, printed page 45](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890instructions.pdf), distinguish multiple service spaces and a widow's present post-office address. [S76, H5, H6]
+
+## 6. Extract the informant, supplementary answers and enumerator notes
 
 **Use when:** A standard index or household crop seems to contain too little information.
 
@@ -221,12 +226,13 @@ supplies the fallback; these alignment checks do not certify a particular origin
 
 1. Read the whole sheet, including the top, bottom, margins, and any continuation. Record the form and printed headings actually present.
    On a 1940 sheet, look for the informant mark. The cited presenters report that the instructions call for an X in a circle after the name of the person who gave the information ([Genealogy Gems 1950 preview](https://www.youtube.com/watch?v=87hGRjeZ5o4), [provenance episode](https://www.youtube.com/watch?v=mTyYpO_3uPs), [Episode 260](https://www.youtube.com/watch?v=R3Ds6GLx4es), [Brady](https://www.youtube.com/watch?v=o6d7Z_W_qhg)); confirm this in that year's enumerator instructions. Record that person, or a written-in neighbour, as the household informant, and weigh each answer by what they were likely to know. A relationship may reflect the informant's view, such as a widow labelled 'mother' because her daughter answered ([GeneaVlogger](https://www.youtube.com/watch?v=g5aMe7oUW_A)). A surname may be copied from the head ([FHF](https://www.youtube.com/watch?v=CC-6uGAuSiY)). An alphabetical run under an institution heading suggests an official's list ([Crow](https://www.youtube.com/watch?v=D5weC7CmDlo)). Compare the enumerator's letter forms before calling a spelling an error ([GeneaVlogger](https://www.youtube.com/watch?v=-CxvuPelZ4I)). A 1950 transient marked REG was copied from a lodging register. The mark was not always used carefully. It shows who answered, not whether the answers are accurate, and a missing mark leaves the informant unknown.
-2. For each household member, check whether the line is designated for supplementary questions. Match the person to the supplementary section by its printed line number.
-3. Transcribe each answer with the question it answers. Do not apply a supplementary answer to every person in the household.
-4. Resolve note numbers and written line references. Attach a note to the indicated entry or field. Notes can explain revisions, unusual ages, employment details, or why an entry was struck through.
-5. Keep blanks, unreadable text, questions not asked, and explicit negative answers distinct. Record uncertainty about the note's subject instead of assigning it by proximity.
+2. For 1940, look for a circled X after a household member's name in column 7. The instructions identify that person as the household informant; information from someone outside the household should instead have that person's name in the left margin opposite the household. Preserve the actual mark or note and its locator. If neither is legible or present, leave the informant unknown rather than assume the household head. The designation does not establish who supplied every answer or whether they knew each fact firsthand. [S74, H2]
+3. For each household member, check whether the line is designated for supplementary questions. Match the person to the supplementary section by its printed line number.
+4. Transcribe each answer with the question it answers. Do not apply a supplementary answer to every person in the household.
+5. Resolve note numbers and written line references. Attach a note to the indicated entry or field. Notes can explain revisions, unusual ages, employment details, or why an entry was struck through.
+6. Keep blanks, unreadable text, questions not asked, and explicit negative answers distinct. Record uncertainty about the note's subject instead of assigning it by proximity.
 
-**Output:** A person-linked extraction containing question, literal answer, sheet/line, supplement or note reference, interpretation, and uncertainty.
+**Output:** A person-linked extraction containing question, literal answer, sheet/line, supplement or note reference, any identified informant with the mark/note locator, interpretation, and uncertainty.
 
 **Checkpoint:** Use the markings on the actual form. Amy Johnson Crow demonstrates a 1950 sample-line-4 example, so a summary listing only other sample lines is incomplete. A crossed-out entry needs its associated note before interpretation.
 
@@ -243,20 +249,26 @@ civilian service is not military service.
 
 **Method origin:** Genealogy TV demonstrates matching a 1940 person to the bottom section. Amy Johnson Crow demonstrates a 1950 sample-line-4 entry and separately discusses locating and linking enumerator notes. The note transcript is incomplete, so specific biographical details from its examples are not adopted. [S7](https://www.youtube.com/watch?v=JJY4EKK_sVg), [S19](https://www.youtube.com/watch?v=jA10V_GJcio), [S8](https://www.youtube.com/watch?v=ZzrQQz4BIT4)
 
-## 7. Turn 1900 and 1910 family fields into targeted searches
+The [MyHeritage census demonstration](https://www.youtube.com/watch?v=4P8sUi-Adno) motivates extracting the 1940 informant mark. [Official paragraph 446](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p1ch2.pdf) specifies both the circled X and the outside informant's margin note; this does not verify the demonstrated household or extend the rule to another census year.
 
-**Use when:** You need a marriage period, missing children, or evidence that a household combines more than one family.
+## 7. Turn census marriage and child fields into targeted searches
 
-**Inputs:** Full household images from multiple censuses, literal relationship fields, reported marriage duration or status, and children-born/children-living fields where present.
+**Use when:** You need a birth or marriage period, missing children, or evidence that a household combines more than one family.
+
+**Inputs:** Full household images from multiple censuses, literal relationship fields, reported marriage duration or status, and children-born/children-living fields where present. For 1880, retain the birth-month and recent-marriage fields. For 1930, retain each person's reported age and age at first marriage separately.
 
 1. Extract the reported fields without normalizing discrepancies. Include relationships to the head exactly as recorded. A list of co-residents in an 1850 or 1860 population schedule does not supply the relationship column introduced in 1880.
+
+   For 1880, preserve column 7's birth-month entry and column 12's marriage mark, alongside the person's marital-status fields. The census year ran from 1 June 1879 through 31 May 1880. If the entry follows those instructions, June–December birth months suggest 1879 and January–May suggest 1880. Treat an affirmative marriage mark as a lead to that window, not an exact date or an identified spouse. Column 12 applied to married, widowed or divorced people; do not assume the mark dates a first marriage or the union shown in the household. Keep derived leads separate from literal answers and investigate conflicts. A blank does not establish that the person never married. [S75, H3]
+
 2. Derive a marriage-period lead from reported duration. Compare multiple enumerations and retain disagreement. A subtraction such as census year minus reported married years is an approximate search lead, not an exact marriage date.
-3. Inspect indications of previous marriages using the relevant form headings and instructions. Do not assume every duration or child count refers only to the couple shown together.
+3. For 1930, use `1930 - (reported age - reported age at first marriage)` only as a first-marriage search lead for that person. Age refers to 1 April 1930; allow for birthday timing and uncertain reported ages. The estimate need not date the union shown in the household. Compare the spouses' leads: disagreement prompts prior-marriage or reporting-error checks, while agreement does not prove they first married each other. Column 15 applied only to people recorded as married in column 14, so a blank does not establish that the person never married. [S73, H1]
+4. Inspect indications of previous marriages using the relevant form headings and instructions. Do not assume every duration or child count refers only to the couple shown together.
    Test the reported marriage duration, or the 1930 age at first marriage, against the known marriage date and the children's ages. A child born before the derived period, or a first-marriage age that predates the known wedding, is an earlier-marriage lead ([Grant 1930](https://www.youtube.com/watch?v=Dtl6pnXMiEY), [BYU 1900](https://www.youtube.com/watch?v=cZZ2IbQSyPc)). On 1930 schedules, also compare each spouse's current age minus age at first marriage. A disagreement beyond reporting error suggests that one spouse married before ([Brady](https://www.youtube.com/watch?v=o6d7Z_W_qhg)). Read a 1910 code such as M2 as a second or later marriage, not necessarily the second ([Lisson](https://www.youtube.com/watch?v=7kVPg63qM2g)). Households can give stepchildren the current surname, so check birth registrations under that surname, then under the mother's earlier married surname ([Grant 1911](https://www.youtube.com/watch?v=S7NX-GnX4UU)). These are approximate leads. Ages and durations can be misreported, and parentage needs the registrations or other records.
-4. Where both child counts are legible, calculate `reported children born minus reported children living`. Treat the result as a reported difference requiring investigation. Do not create named deceased children from it. A living child absent from the household may be living elsewhere.
+5. Where both child counts are legible, calculate `reported children born minus reported children living`. Treat the result as a reported difference requiring investigation. Do not create named deceased children from it. A living child absent from the household may be living elsewhere.
    Record 'widowed' or 'single' as the reported status, not proof that a spouse died or never existed. A Census Bureau marriage-and-divorce report quoted by [Genealogy Gems](https://www.youtube.com/watch?v=SExmNq646NM) says divorced people often reported themselves as single or widowed. [Lisa Lisson](https://www.youtube.com/watch?v=Hi9QQZG8JoI) keeps divorce, desertion or bigamy open when there is no death record. Search for the spouse as a living person, including in that spouse's parents' household with any missing children, then for divorce records in the relevant jurisdiction. Do not derive a death date from the census year. Neither source shows how common misreporting was.
-5. Search for missing people through surrounding households, marriages, deaths, cemetery records, probate, and other suitable records. Compare the resulting candidates with the original households.
-6. Store literal statement, calculation, proposed event, and supporting record in separate fields. Keep immigration and naturalization statements as leads to the relevant documentary records rather than exact events established by the census alone.
+6. Search for missing people through surrounding households, marriages, deaths, cemetery records, probate, and other suitable records. Compare the resulting candidates with the original households.
+7. Store literal statement, calculation, proposed event, and supporting record in separate fields. Keep immigration and naturalization statements as leads to the relevant documentary records rather than exact events established by the census alone.
    Where the form records language or mother tongue, extract it next to the country of birth as a separate observation. This matters most when the birthplace names an empire or a pre-unification label such as Austria or Germany. A language that does not fit the stated country can point to a region inside a multinational state, as when Magyar redirected Austria-born research to Hungary ([Tanner](https://www.youtube.com/watch?v=htx73TZD-bo), [Hungary](https://www.youtube.com/watch?v=PeS050cNO-A), [immigrant](https://www.youtube.com/watch?v=SxDbhOu-_1Y)). Test it together with religion. Language narrows a region. It does not identify a town or establish a birthplace or modern country, and many languages were spoken across several countries.
 
 **Output:** A family-event hypothesis table and specific follow-up searches.
@@ -266,6 +278,19 @@ civilian service is not military service.
 **Example prompt:** “Compare these households. Separate literal fields from calculated marriage-period and missing-child leads. Identify prior-marriage questions and name the records needed to resolve them; do not invent relatives.”
 
 **Method origin:** Ancestry's worked comparison produces differing approximate marriage years from successive censuses. BlackProGen discusses children-born/living fields and previous marriages. MyHeritage explains the relationship column and immigration fields. [S6](https://www.youtube.com/watch?v=cMrTbAj5YN0), [S10](https://www.youtube.com/watch?v=Ejmjf550pHc), [S13](https://education.myheritage.com/article/the-u-s-census-tracing-your-family-in-census-records/)
+
+[Ancestry's 1930 example](https://www.youtube.com/watch?v=lvRG8tZ2eYU) supplies the separate
+first-marriage-age calculation. The [official enumerator instructions](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1930instructions.pdf),
+paragraphs 156–157 and 161 (printed pages 26–27), establish the reference date, possible
+approximate ages and question scope. Agreement between calculated periods is retained as
+a search lead, without adopting the video's conclusion that both spouses necessarily
+married each other first. [S73, H1]
+
+[Ancestry's 1880 example](https://www.youtube.com/watch?v=hhRsjcf0AQg) turns the birth-month
+and recent-marriage fields into record searches. The [official question headings and notes A, D, E and G](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1880_Census.html)
+define their interval and scope. The [instructions for Schedule 1](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1880/1880-instructions.html)
+use 1 June as the reference date, independently of the visit date; a conflicting entry
+still needs corroboration. [S75, H3, H4]
 
 ## 8. Use mortality schedules with the correct death window
 

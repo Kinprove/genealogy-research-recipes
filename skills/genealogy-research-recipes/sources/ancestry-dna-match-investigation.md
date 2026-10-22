@@ -15,6 +15,25 @@
 - [Downloading DNA Data](https://help.ancestry.com/hc/en-us/articles/53933317283603-Downloading-DNA-Data)
 - [Understanding Unweighted Shared DNA](https://help.ancestry.com/hc/en-us/articles/53933314136083-Understanding-Unweighted-Shared-DNA)
 
+### Tree access and tester identity (checked 2026-10-20)
+
+- [Comparing AncestryDNA Matches](https://help.ancestry.com/hc/en-us/articles/53933331053331-Comparing-AncestryDNA-Matches) — distinguishes public, private and unlinked trees; access to tree features depends on the account.
+- [Linking a Tree to AncestryDNA Results](https://help.ancestry.com/hc/en-us/articles/53933332359187-Linking-a-Tree-to-AncestryDNA-Results) — DNA-to-tree linking is a separate association.
+- [Assigning a Home Person in a Tree](https://help.ancestry.com/hc/en-us/articles/53933270285715-Assigning-a-Home-Person-in-a-Tree) — the home person may be any person in the tree.
+- Ancestry, ["AncestryDNA | What To Do With All Those Matches"](https://www.youtube.com/watch?v=kv3_JCWUF-s), 2013-01-18 — historical motivation for checking unlinked trees and distinguishing the home person from the tester; saved transcript inspected. Original video screens and the current signed-in interface were not inspected.
+
+These additions use the provider's current written documentation for the stated distinctions,
+without claiming a live interface test. They are original synthesis; no source passage is reproduced.
+
+### Manual relationship and parental-side labels (checked 2026-10-21)
+
+- [Assigning Relationships to AncestryDNA Matches](https://help.ancestry.com/hc/en-us/articles/53933287432211-Assigning-Relationships-to-AncestryDNA-Matches) — current written guidance on manual relationship assignments replacing predictions and their viewing scope.
+- [Matches by Parent](https://help.ancestry.com/hc/en-us/articles/53933348047251-Matches-by-Parent) — distinguishes parental inference/orientation from individual manual labels and describes a user-made indication.
+- Ancestry, ["What's New at Ancestry: June 2021"](https://www.youtube.com/watch?v=fBB_OgWJZBY), 2021-06-10 — saved transcript motivates the display-provenance check; original video screens and a current signed-in account were not inspected.
+
+The operational check is original synthesis using current written documentation;
+the historical control sequence and example probabilities are not carried forward.
+
 ### Practitioner posts (dated)
 
 - Baker, James. "Overcoming the Most Common DNA Problems." BYU Family History Library, YouTube, 2021-04-19. [Video](https://www.youtube.com/watch?v=lH2vBiPOeg0) (method 2; weighting shared-match counts by the number of identified matches on each branch)

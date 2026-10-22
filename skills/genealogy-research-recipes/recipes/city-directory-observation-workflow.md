@@ -198,6 +198,14 @@ land-register numbers are different roles. [CompGen's directory example](https:/
 identifies such a section, but its missing illustrated table does not establish fields in
 another volume or prove ownership.
 
+If a marriage record names an officiant without identifying a congregation, check an available
+directory near the event's date for a clergy listing. Preserve the printed name, denomination
+and address with the edition and entry locators; keep an unstated address role unknown.
+Compare the directory's church listings for a possible congregation, then establish whether
+its relevant marriage register survives and who holds it before requesting a record.
+Keep the affiliation provisional: matching denomination or nearby addresses do not establish
+the ceremony's location or either spouse's membership. [S2]
+
 ## 4. Describe gaps before assigning events to them
 
 1. For the first or last apparent appearance, return to the coverage sheet.

@@ -32,6 +32,20 @@ search in the user's Ancestry account.
 - Family History Fanatics, [How to Research Your Genealogy When You're Adopted](https://www.youtube.com/watch?v=KcsQHKLSjFQ), 2019-05-17; a relayed Ancestry tip to search census keywords for 'orphan' to find institutional enumerations.
 - BYU Family History Library (James Tanner), [Catalogs: The Key to Using FamilySearch.org and Ancestry.com](https://www.youtube.com/watch?v=V2vmIxs2WjM), 2016-08-02; Genealogy Gems, [Episode 248](https://www.youtube.com/watch?v=YI-rwxManbs), 2020-12-09; Maureen Brady, [The U. S. Census](https://www.youtube.com/watch?v=o6d7Z_W_qhg), 2022-05-20; GeneaVlogger, [Building FDR's Family Tree](https://www.youtube.com/watch?v=3FJKJFw0Bjo), 2024-05-04; title/citation-keyed searches for other hosts, and shared or duplicated indexes as one source.
 
+## Volume, schedule and attachment checks added 2026-10-20
+
+- Ancestry, [Understanding More About the Records You Are Using](https://www.youtube.com/watch?v=kXnvin57vgs), 2014-01-10: browse-volume gaps and overlaps. The recipe does not adopt the speaker's shortcuts for identifying copies from an alphabetical index or a ledger label.
+- Ancestry, [Unveiling History: The 1921 Census of England and Wales](https://www.youtube.com/watch?v=lb5QXc1_FAk), 2025-03-26: retrieve the address side as well as the household rows. Findmypast's [RG 15 image-browse documentation](https://www.findmypast.com/discover/census-land-and-surveys/census/1921-census-of-england-and-wales-image-browse), checked 2026-10-20, confirms the document structure and variable image sequences; no fixed Ancestry navigation offset is asserted.
+- Ancestry, [Going Beyond The Shaky Leaf](https://www.youtube.com/watch?v=2SCohCLs8TY), 2013-10-22: inspect the actual attachments after saving. Current [record-saving](https://help.ancestry.com/hc/en-us/articles/53933314225043-Adding-Records-to-a-Tree) and [multi-person source](https://help.ancestry.com/hc/en-us/articles/53933348187923-Managing-Facts-Events-and-Sources-in-Trees) documentation was checked 2026-10-20. The recipe does not repeat the video's historical census-year rules for automatic propagation.
+
+These are source and documentation comparisons, not live account tests. Added prose is original
+synthesis; the new references are cited without reproducing their expression.
+
+## 1841 age search bounds added 2026-10-21
+
+- Chris Paton, [Learn more about our Scottish records at this Facebook Live with Chris Paton!](https://www.youtube.com/watch?v=A_n0FbzORKA), motivates checking age precision. The [National Records of Scotland guide](https://www.nrscotland.gov.uk/learning-and-events/research-guides/census-1841/) confirms the Scottish instruction and exceptions; it does not establish how an individual entry was recorded.
+- The existing England and Wales workflow uses [The National Archives guide, section 5](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/) for its jurisdiction-specific rule. Checked 2026-10-21 through the indexed official page after a direct fetch returned 403. This is an interpretation and query-bound control; no census image or live account search was tested.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

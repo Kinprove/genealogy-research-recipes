@@ -16,6 +16,13 @@ the correct tester-to-tree-person link; that link does not grant the helper eith
 Leave missing access unresolved instead of recommending a higher role. The [2024 sharing example](https://dna-explained.com/2024/02/05/ancestrys-thrulines-and-shared-matches-now-require-a-subscription/)
 motivates these separate checks without establishing a current role matrix or membership exception.
 
+Before treating a target's tree as missing, record its DNA-link state and your access
+separately. A match can have unlinked trees, each public or private; no DNA-linked tree
+does not establish that no tree exists. Inspect an accessible unlinked tree as a lead,
+retaining its URL and the person it actually describes. If no relevant tree can be opened,
+keep that access gap and continue through the target's relatives. [Ancestry's comparison guidance](https://help.ancestry.com/hc/en-us/articles/53933331053331-Comparing-AncestryDNA-Matches)
+documents these categories; use only the controls actually available to the account.
+
 ## 1. Find the target through its closest relatives
 
 **Use when:** the target has no useful tree.
@@ -107,6 +114,9 @@ but does not remove a spouse's DNA or rule out additional paths and incomplete v
 
 Confirm who actually tested and which tree person the DNA is linked to. A link to the tester's parent or grandparent shifts every generation count (Bartlett, 2026-03-27). The manager can be a different person. Cooper (2023-04-23) explains how linking the correct tree person lets Ancestry propose paths through other members' trees.
 
+The tree's home person is a separate setting and can be anyone in that tree. Do not use
+the displayed home person as the tester without checking the actual DNA-to-person link.
+
 Editing a tree leaves DNA matches and cM unchanged; it changes tree-derived paths.
 
 For ThruLines, matching must be enabled, with family-history membership, two-step verification or Apple/Google sign-in, and a linked public or private searchable tree containing identifying details across at least four generations. ThruLines reaches fifth-great-grandparents. Its parent filter uses biological-parent labels in the tree, rather than DNA By Parent.
@@ -141,11 +151,20 @@ subtraction rule or a probability; document each proposed link before promoting 
 
 **Never count a shared-match-informed prediction as independent support for a placement derived from the same graph.** Larkin's 2026-07-24 account identifies the affected range as **~650–2200 cM**, including half-siblings, aunt/uncle/niece/nephew, grandparent/grandchild, first cousins and great-aunt/uncle or great-grandparent relationships.
 
-Keep three columns: observed cM, dated vendor label, and sourced pedigree path. Include half and full alternatives when considering a relationship (Bartlett, 2026-03-27). A changed label belongs in the label/date column; inspect changed measurements, records or tester identity before revising the documented pedigree.
+Before treating a displayed relationship as Ancestry's prediction, check its origin.
+A user-assigned relationship replaces the general prediction in the owner's match
+list; manually assigned or changed parental-side labels carry a user-made indication.
+Record the kit, view, date and label origin (provider prediction, user-assigned or
+unknown), preserving any visible indicator. Treat a manual entry as a user's
+assertion and retain its evidential basis where known; if the capture omits its
+origin, leave it unknown. See [Assigning Relationships](https://help.ancestry.com/hc/en-us/articles/53933287432211-Assigning-Relationships-to-AncestryDNA-Matches)
+and [Matches by Parent](https://help.ancestry.com/hc/en-us/articles/53933348047251-Matches-by-Parent).
 
 Before mapping an Ancestry amount to a relationship, record the weighted headline, unweighted amount, segment count, longest segment, kit and view date. If the longest segment alone exceeds the headline, mark it possibly reduced by weighting. If a figure still looks low for a documented path, use the match-to-match view to find the match's close relatives and compare your and your tested relatives' sharing with them through the same line; consistently larger amounts make the low figure doubtful, not the path. Keep the low figure recorded as observed and check the relationship range against each figure separately. The [Timber-weighting discussion](https://genarchivist.net/showthread.php?tid=576) and a [match-to-match comparison discussion](https://genarchivist.net/showthread.php?tid=137) motivate these flags. Close relatives inherit different segments; the examples set no threshold, do not show the unweighted figure is always more accurate, and the sourced pedigree decides the relationship.
 
-**Output:** a comparison table with affected vendor labels marked “shared-graph-informed.”
+Keep three columns: observed cM, dated label with its origin, and sourced pedigree path. Include half and full alternatives when considering a relationship (Bartlett, 2026-03-27). A changed label belongs in the label/date column; inspect changed measurements, records or tester identity before revising the documented pedigree.
+
+**Output:** a comparison table distinguishing user assignments from vendor predictions, with affected predictions marked “shared-graph-informed.”
 
 ## 7. Recover a missing row through another view
 

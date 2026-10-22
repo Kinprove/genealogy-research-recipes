@@ -210,6 +210,13 @@ this check without verifying its branch assignments.
 
 **Use when:** a particular pedigree detail could resolve the next investigation step.
 
+Before the first approved message to a close match, preserve its minimal visible basis in the
+private `selected_matches` packet: kit/match identifiers, observation date, and the relevant
+profile/tree or shared-match observations and links. This fixes the basis of the question if
+access later changes; it neither establishes why a row disappeared nor turns it into a measured
+zero. The [2024 Q&A](https://www.youtube.com/watch?v=Nsir-VBEhWg) motivates this timing;
+the limited packet reuses workflow 9's preservation controls.
+
 1. Use Contact on the DNA-match card. Identify whether the recipient manages another person's
    kit; address the tested person's relationship in the question.
 2. Draft a short message naming the tested people, displayed shared DNA, research question, one

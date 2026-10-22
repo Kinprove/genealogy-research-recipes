@@ -77,6 +77,16 @@ draw on each source.
 | S70 | Genealogy TV, [Secret Gems on Ancestry](https://www.youtube.com/watch?v=1lrFNBWKwzo) | 2024-02-09 | 4: missing-heading fallback |
 | S71 | Genealogy TV, [How to Use Excel for Genealogy](https://www.youtube.com/watch?v=eONcu9lTbYY) | 2022-06-24 | Output schema: age-calculation exception |
 | S72 | Family Locket, [RLP 123: African American Research Part 3](https://www.youtube.com/watch?v=YSF4GCv61kg) | 2020-11-16 | 6: identified WPA/CCC personnel-record lead |
+| S73 | [Ancestry, Exploring the 1930 U.S. Federal Census](https://www.youtube.com/watch?v=lvRG8tZ2eYU) | 2012-01-05 | 7 |
+| H1 | [U.S. Bureau of the Census, Instructions to Enumerators (1930), paragraphs 156–157 and 161, printed pages 26–27](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1930instructions.pdf) | 1930; checked 2026-10-20 | 7 |
+| S74 | [MyHeritage, Ask The Expert: How To Work with U.S. Census Records](https://www.youtube.com/watch?v=4P8sUi-Adno) | 2020-09-09 | 6 |
+| H2 | [U.S. Bureau of the Census, 1940 instructions reproduced in Population, volume IV, appendix, paragraph 446](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p1ch2.pdf) | 1940 instructions; checked 2026-10-20 | 6 |
+| S75 | [Ancestry, 1880 Census: An Overview](https://www.youtube.com/watch?v=hhRsjcf0AQg) | 2016-09-19 | 7 |
+| H3 | [U.S. Census Bureau, 1880 Schedule 1 question headings and notes A, D, E and G](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1880_Census.html) | 1880 form reproduced; checked 2026-10-21 | 7 |
+| H4 | [U.S. Census Bureau, 1880 Instructions to Enumerators, Schedule No. 1](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1880/1880-instructions.html) | 1880 instructions reproduced; checked 2026-10-21 | 7 |
+| S76 | [Ancestry, Hidden Treasures on Ancestry, featuring Juliana Szucs](https://www.youtube.com/watch?v=UtoRoxYo2JE) | 2020-03-18 | 5 |
+| H5 | [U.S. Census Bureau, 1890 veterans special schedule, form image](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890veteranscensus.jpg) | 1890 form reproduced; checked 2026-10-21 | 5 |
+| H6 | [U.S. Census Bureau, 1890 Instructions to Enumerators, Special Schedule, printed page 45](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890instructions.pdf) | 1890 instructions; indexed excerpt checked 2026-10-21 | 5 |
 
 S68 supplies a neighborhood-to-earlier-household research route and named-person searches
 in deeds, probate and claims testimony. Its property-value threshold and broad assumptions
@@ -103,6 +113,33 @@ S72 describes the 1940 emergency-work reference week and separate WPA/CCC person
 pointers to NARA in St. Louis. The program-identification and current-guide checks are
 authored safeguards. No original census entry, personnel file, current series/custody or
 request form was inspected; the narration does not establish an NYA route or military service.
+
+S73 contributes the first-marriage-age calculation; H1 establishes the age reference
+date, allowance for approximate ages and the restriction to entries recorded as married.
+Neither source establishes a particular household's marriage history. Agreement between
+the spouses' calculated periods does not prove that their first marriages were to each
+other, and the procedure does not promise a one-year bound on reported-age error.
+
+S74 contributes the informant-mark example. The complete paragraph 446 in the official
+indexed reproduction H2 specifies column 7's circled X and the left-margin name of an
+outside informant. Verification covers that paragraph's text, not a visual reading of
+the full PDF or an original household. The demonstration's literacy explanation and any
+assumption that one informant supplied or knew every answer are not adopted.
+
+S75 supplies the event-search example. H3 establishes the two field headings, reporting
+interval and marriage-question eligibility; H4 distinguishes the census reference date
+from the visit. The month-to-calendar-year mapping is an analytical adaptation. Neither
+official instructions nor the demonstration verifies a household's compliance, exact
+dates, spouse identity or marriage order. The printed form image and original household
+were not inspected.
+
+S76 supplies the lower-field and unit-to-pension example. H5 was visually inspected
+for the form structure and repeated line numbers, not to establish facts about the
+people in the sample. The indexed H6 excerpt supplies the multiple-service-space
+and widow-address rules; the full instructions PDF was not read. The original
+demonstration's images, current provider indexing and geographical coverage were
+not verified. No service, residence, pension eligibility or payment is established
+by this procedural addition.
 
 ## Credits
 
