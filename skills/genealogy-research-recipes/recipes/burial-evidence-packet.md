@@ -98,22 +98,21 @@ by a hand-held reflector or flashlight, held clear of the marker. Keep the ordin
 side-lit views together, label the surface and lighting, and leave uncertain letters unresolved.
 This step does not involve rubbing, cleaning, wetting or touching the marker. [P27]
 
-Record which faces of the stone, and of any family marker, the images actually show: front, back
-and sides. A spouse, a second burial or a list of children can appear only on the back. On a
-Jewish stone, the back can carry the Hebrew name and patronymic, while a memorial-site photograph
-may show only the English front. Mark an unseen face `not examined`, not absent, and queue a
-request for its photograph. Do not record a person as absent from a marker after only one face has
-been inspected. The [family-cemeteries video](https://www.youtube.com/watch?v=rA5-uq548q4),
+Record which faces of the stone, and of any family marker, the images actually show: front, back,
+sides and any lower additions. A spouse, a second burial or a list of children can appear only on
+the back. On a Jewish stone, the back can carry the Hebrew name and patronymic, while a
+memorial-site photograph may show only the English front. Mark an unseen face `not examined`, not
+absent, and queue a request for its photograph. Label the surface each image shows and keep
+unreadable parts explicit. [P26] Do not record a person as absent from a marker after only one face
+has been inspected. The [family-cemeteries video](https://www.youtube.com/watch?v=rA5-uq548q4),
 [cemetery photographs tips](https://www.youtube.com/watch?v=7zW86N6q4Yc),
 [cemetery steps session](https://www.youtube.com/watch?v=crq_j9WnVn8) and
 [Lil Dicky tree session](https://www.youtube.com/watch?v=SKDoU7MJkds) motivate this. A name on
 another face does not by itself establish burial at that spot or a relationship, and the back may
 carry nothing.
 
-For a family monument, inspect available views of its front, reverse and lower additions.
-Label the surface shown and keep unseen or unreadable parts explicit. For each named person,
-retain the literal burial-place statement and its image/surface locator separately from the
-monument's physical cemetery and plot. A family monument can name people buried elsewhere;
+For each person named on a family monument, retain the literal burial-place statement and its
+image/surface locator separately from the monument's physical cemetery and plot. A family monument can name people buried elsewhere;
 compare their location statements with available burial records instead of assigning everyone
 named on the monument to its plot. Unresolved burial locations stay open. [P26]
 

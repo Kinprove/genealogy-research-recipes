@@ -22,9 +22,6 @@ The following dates are video upload dates, not independently established sessio
   uploaded 2022-03-13 — [video](https://www.youtube.com/watch?v=pLM4pmlBH5g). Rights: cited reference, not reproduced.
 - **S9:** *10 Must-Have MyHeritage Databases*, MyHeritage,
   uploaded 2020-07-23 — [video](https://www.youtube.com/watch?v=L5osnrCmc04). Rights: cited reference, not reproduced.
-- **S12:** *Top tips for reviewing Smart Matches™ and Record Matches*, MyHeritage,
-  uploaded 2021-11-07 — [video](https://www.youtube.com/watch?v=1nQYqnixgkw). Rights: cited reference, not reproduced.
-
 - **S10:** MyHeritage Knowledge Base, [Looking for Info on an Old Family Business? Try School Yearbooks](https://education.myheritage.com/article/looking-for-info-on-an-old-family-business-try-school-yearbooks/).
   The saved record dates the article to 2021-08-12; that publication date was not independently
   verified. The author reports a 26-page advertising section in the 1956 Elletian but leaves
@@ -35,6 +32,8 @@ The following dates are video upload dates, not independently established sessio
   verified. It supports inspecting rear advertisements/sponsors. Its broad copyright assertion
   is not adopted. The two articles are teaching accounts from the same publisher, not independent
   original evidence of a particular business. Rights: cited reference, not reproduced.
+- **S12:** *Top tips for reviewing Smart Matches™ and Record Matches*, MyHeritage,
+  uploaded 2021-11-07 — [video](https://www.youtube.com/watch?v=1nQYqnixgkw). Rights: cited reference, not reproduced.
 
 Current primary documentation, checked 2026-10-03:
 

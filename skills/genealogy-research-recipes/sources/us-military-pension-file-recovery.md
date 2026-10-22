@@ -75,6 +75,11 @@ The linked routing, request-receipt and image/timeline schemas are original synt
   27 April 2020. Posed unreadable-number problem and a separately arranged regiment/company
   index route. No original card pair was inspected; universal index coverage, current hosting,
   death-date availability and historical custody or eligibility assertions are not adopted.
+- **S16:** Genealogy TV, [Revolutionary War Records for Genealogy Research - Part Two](https://www.youtube.com/watch?v=HdLpafGWn6A),
+  10 July 2020. Searching Southern Campaign pension abstracts for a target mentioned in
+  another applicant's file, then returning to the original. Only the saved teaching transcript
+  was inspected here; the original pension, named people and their service or relationships
+  were not verified. Current hosting, coverage, charges and eligibility rules are not adopted.
 - **H1:** National Archives,
   [Requesting Copies of Older Military Service Records](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records),
   page reviewed 16 January 2026; checked 7 October 2026. Request forms, federal scope and
@@ -82,12 +87,6 @@ The linked routing, request-receipt and image/timeline schemas are original synt
 - **H2:** National Archives,
   [Genealogy Research in Military Records](https://www.archives.gov/research/military/genealogy),
   checked 7 October 2026. Record-type, service category and custodian routing.
-
-- **S16:** Genealogy TV, [Revolutionary War Records for Genealogy Research - Part Two](https://www.youtube.com/watch?v=HdLpafGWn6A),
-  10 July 2020. Searching Southern Campaign pension abstracts for a target mentioned in
-  another applicant's file, then returning to the original. Only the saved teaching transcript
-  was inspected here; the original pension, named people and their service or relationships
-  were not verified. Current hosting, coverage, charges and eligibility rules are not adopted.
 
 ## Credits
 

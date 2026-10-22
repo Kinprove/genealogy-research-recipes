@@ -224,17 +224,6 @@ Co-residents and listed inmates are leads, not relatives or identifications.
 [adoptee-research tip](https://www.youtube.com/watch?v=KcsQHKLSjFQ) motivate this. They do not
 document current keyword coverage.
 
-### Check whose record row supplies the saved facts
-
-When an authorized tree attachment follows recovery, select the established person's
-own entry in a multi-person record before choosing the destination profile. Inspect the
-name, role and proposed age, birthplace or parent fields; another household member's
-entry can propose that member's details. Keep existing supported values and source
-associations visible while reviewing a conflict. Reopen the saved record and affected
-facts to check the person-row/profile pairing. The [2025 tree-cleanup demonstration](https://www.youtube.com/watch?v=TjFQv6LAjUY)
-shows this wrong-row failure; use the controls and proposed fields actually offered.
-This check does not authorize deleting other attachments or accepting an unresolved identity.
-
 ### 10. Use the volume's own index and page numbering
 
 **Trigger:** an image collection exists, but its searchable index misses the target
@@ -332,14 +321,22 @@ fixed previous/next-image offset always retrieves the other side.
 
 ## Check the saved record on each intended person
 
-If you save a recovered record, list the source's named people and their intended
-tree profiles first. Select the facts and people deliberately, then open each
-intended profile and verify its source attachment and resulting facts against
-the record. A successful save to one person does not verify all intended people.
+If you save a recovered record as an authorized tree attachment, list the source's named
+people and their intended tree profiles first. Select the facts and people deliberately, then
+open each intended profile and verify its source attachment, person-row pairing and resulting
+facts against the record. A successful save to one person does not verify all intended people.
 Use the current per-person attachment controls to address a missing link; do not
 infer a parent-child relationship from household membership. Ancestry documents
 [field and person selection](https://help.ancestry.com/hc/en-us/articles/53933314225043-Adding-Records-to-a-Tree)
 and [saving a source to another person](https://help.ancestry.com/hc/en-us/articles/53933348187923-Managing-Facts-Events-and-Sources-in-Trees).
+
+In a multi-person record, select the established person's own entry before choosing the
+destination profile. Inspect the name, role and proposed age, birthplace or parent fields;
+another household member's entry can propose that member's details. Keep existing supported
+values and source associations visible while reviewing a conflict. The
+[2025 tree-cleanup demonstration](https://www.youtube.com/watch?v=TjFQv6LAjUY) shows this
+wrong-row failure; use the controls and proposed fields actually offered. This check does not
+authorize deleting other attachments or accepting an unresolved identity.
 
 ## Find a researcher or locality helper
 

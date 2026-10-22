@@ -92,6 +92,15 @@ names, units and dates can be wrong, and a regiment may be named several ways. T
 establish each version's coverage or accuracy, that browsing is complete, or that a site's
 arrangement stays the same.
 
+When another index-card version or series is actually available for the same supported claim,
+compare its image with the first card. A later file identifier may appear on one version and be
+absent on another; the interview in S14 illustrates this with an XC number. In each version's
+locator row, keep its available filing/transfer dates and number, preserving both images
+where permitted. Carry an additional identifier into the custody check without overwriting the
+earlier application/certificate locator. An unresolved mismatch remains open; a missing field on
+one card does not establish that no later identifier exists. Do not assume a particular website
+always supplies the fuller card or that a prefix establishes the file's present location. [S14]
+
 Read a card's claimant details as they stood at that filing. For the illustrated card
 series, presenters describe the state as where the claimant lived when filing, not the enlistment or
 unit state; verify the series' field definition, then treat a different state as a migration lead ([Findmypast walkthrough](https://www.youtube.com/watch?v=Wo-M7iIWj78)). The widow
@@ -109,15 +118,6 @@ These are tendencies and single examples, not rules for every war, state or inde
 
 **Check:** The request identifies the intended claimant and application. An index card supplies
 a locator; it does not substitute for reading the application documents.
-
-When another index-card version or series is actually available for the same supported claim,
-compare its image with the first card. A later file identifier may appear on one version and be
-absent on another; the interview in S14 illustrates this with an XC number. Keep each collection,
-card locator, available filing/transfer dates and number separately, preserving both images
-where permitted. Carry an additional identifier into the custody check without overwriting the
-earlier application/certificate locator. An unresolved mismatch remains open; a missing field on
-one card does not establish that no later identifier exists. Do not assume a particular website
-always supplies the fuller card or that a prefix establishes the file's present location. [S14]
 
 If an application or certificate number is unreadable, check whether a separately arranged
 index covers that service and claimant category. Use supported regiment/company and applicant

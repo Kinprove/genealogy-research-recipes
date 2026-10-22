@@ -47,10 +47,11 @@ The worksheets below work with manually read images or copied index rows.
    do not record it as residence in the titled city at publication. [S4]
 7. From the title page, introduction or back matter, copy any stated coverage or canvass period
    (such as a directory 'for the year ending' a given month) and any stated inclusion rule (such
-   as males over a stated age, widows, female heads of household or women in business). If none
-   is found, record that. Judge a presence or absence against that period and rule, not the cover
-   year. Someone who arrived after the canvass, or who falls outside the rule, is not a gap. Also
-   check the business or classified section. Copy a firm listed under another household member's
+   as males over a stated age, widows, female heads of household or women in business). Record the
+   stated inclusion rule and its locator beside the coverage row; if no period or rule is found,
+   record that, leaving the rule unknown. [S20] Judge a presence or absence against that period
+   and rule, not the cover year. Someone who arrived after the canvass, or who falls outside the
+   rule, is not a gap. Also check the business or classified section. Copy a firm listed under another household member's
    initials exactly, without saying whose it is. A son's first listing under an age rule gives at
    most a birth-year bound, because a move or an omission can also explain it. Rules differ by
    edition and may not have been applied consistently. See the
@@ -222,11 +223,10 @@ the ceremony's location or either spouse's membership. [S2]
 **Check:** A gap in a database's editions and an absent entry on inspected pages are different
 results. Neither alone establishes why the person is missing.
 
-Record the edition's stated inclusion rule and its locator beside the coverage row; leave
-that rule unknown when the volume does not establish it. A directory listing household heads
-does not make an unlisted household member absent from the household or locality. CompGen's
-address-book example also distinguishes a woman's marital-status wording from an occupation;
-retain the printed role without inferring employment from it. [S20]
+A directory listing household heads does not make an unlisted household member absent from the
+household or locality. CompGen's address-book example also distinguishes a woman's
+marital-status wording from an occupation; retain the printed role without inferring employment
+from it. [S20]
 
 ## Prompt pattern
 

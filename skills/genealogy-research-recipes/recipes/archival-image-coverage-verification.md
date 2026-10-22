@@ -14,7 +14,7 @@ Retain both derivative locators, their claimed common original and unresolved di
 or bindings. One transcript's silence does not establish that the original omitted an event;
 agreement between copies is not independent corroboration. Family Locket's example describes
 a marriage present in a handwritten transcription but absent from a typed one, while the
-one-person-or-two question remained open. [S7]
+one-person-or-two question remained open. [S26]
 
 FamilySearch distinguishes image numbers, record pages, household numbers and family numbers. Its item-grouping instructions allow multiple books on a film and a book split across films. A film's image count therefore cannot establish a particular case's boundaries. [S1, S2]
 
@@ -53,13 +53,13 @@ jumps toward the target label. Recheck the arrangement at section changes; if la
 inconsistent or the material is loose, use a bounded sequential inspection instead. Save
 the anchor locators and ranges actually inspected: jumping over images does not search
 them or establish that a target is absent. The map-roll demonstration motivates this
-navigation aid, without verifying the original roll or any household location. [S6]
+navigation aid, without verifying the original roll or any household location. [S25]
 
 When a folded letter, card or overlay conceals part of an entry, inspect adjacent frames
 for another exposure with it opened or lifted. Confirm that both images show the same
 item, retain both locators and distinguish the as-found view from the revealed text.
 A repeated exposure is a possibility to check, not a guarantee that hidden text was
-captured. If none is available, retain the obscured area as an inspection gap. [S5]
+captured. If none is available, retain the obscured area as an inspection gap. [S24]
 
 For an unnumbered verso, inspect the actual preceding recto and surrounding sequence before
 assigning a leaf/verso binding; leave it unresolved when that context is missing. A film-end
@@ -91,7 +91,7 @@ For each assigned page, retain its source locator, target-name set, inspected ar
 
 A completed reader session establishes execution coverage, not transcription accuracy. A new surname was not searched merely because its pages occurred in an earlier sweep for other names. Reconcile existing page/target coverage before repeating or expanding work. For a visual-only request, inspect images; OCR candidates can be a separately labelled channel only when compatible with the requested method.
 
-Jumping to the expected date in a chronological roll or image group covers only that span. Before reporting an entry absent, inspect the group's final images for out-of-sequence additions and any roll index, and record in the coverage statement that the end was checked. A roll index is a finding aid; still read the original entry it points to. The [microfilm rule of thumb](https://www.youtube.com/watch?v=5Rcm-OakCes) motivates this check. It does not establish how often appended images or indexes occur, or that every digitized image group keeps its roll ending.
+After a jump to the expected date in a chronological roll or image group, and before reporting an entry absent, inspect the group's final images for out-of-sequence additions and any roll index, and record in the coverage statement that the end was checked. A roll index is a finding aid; still read the original entry it points to. The [microfilm rule of thumb](https://www.youtube.com/watch?v=5Rcm-OakCes) motivates this check. It does not establish how often appended images or indexes occur, or that every digitized image group keeps its roll ending.
 
 In a revision list or other listing of several places, a place need not form one continuous block. It can have a main section, a separate section for those who died or departed since the previous count, or a short later entry under its heading that continues another place's numbering. Before reporting a household absent or counting a place's households, read the case's full leaf sequence and record every leaf range bearing its heading. A compiler's place index is a finding aid; verify its ranges on the images. In the coverage statement, record a missing beginning or end, or missing old-numbered leaves, as ranges in both old and current leaf numbering. The [revision-list leaf discussion](https://rodgersforum.borda.ru/?1-14-0-00000057-000-0-0-1768992933=) and [1744 revision-list place index](https://rodgersforum.borda.ru/?1-7-0-00001243-000-0-0-1778141289=) motivate this. Each concerns one case, and the index's leaf numbers were not checked against images.
 
