@@ -18,7 +18,7 @@ This recipe covers locating German local records and keeping place roles separat
 
 ## Do not open with a survival verdict
 
-Do not tell the user that German nominal census lists are lost or rare.
+Do not claim that German nominal census lists are lost or rare.
 
 - **Coverage:** Censuses were taken across the German states throughout 1816–1916. The presenter, who surveyed the topic state by state over several years, found censuses in all 38 states of the period. [S1] Many states counted every three years from 1834 under the customs union (Zollverein), whose population counts set each state's share of customs revenue. [S1] Regular imperial censuses followed in 1871, 1875 and every five years to 1910. [S1] The regular 1915 census was cancelled (Wikipedia, "Census in Germany"). Wartime counts were held on 1 December 1916 and 5 December 1917 (Archivportal-D, Brandenburgisches Landeshauptarchiv file 8 Oderberg 109).
 - **Content:** Heads-only lists and lists naming every inhabitant coexist; no single date separates them. Until about the 1840s most lists name only the head of household, with household members counted by gender, status, occupation or religion. Heads-only series continued much later, though: Mecklenburg-Schwerin took a heads-of-household census every year from 1828 to 1868, and Schaumburg's surviving lists for 1836–67 are heads of household. Meanwhile an 1819 Mecklenburg list already gives every person's full name and birth date. Lists that name every inhabitant may give age, birth date or birthplace. Identify the format from the state, the year and the actual form before reading anything into a missing spouse or child. [S1]
