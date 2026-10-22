@@ -42,8 +42,8 @@ are held under separate kit identities and the available query cannot combine th
 the intersection as unavailable, not an empty match result. Before any separately authorized
 transfer or additional test, verify the intended destination kit and current provider handling.
 Retain the test-to-kit mapping and query scope. The [2025 discussion](https://www.youtube.com/watch?v=essG5JYMERw)
-motivates this check without establishing a current kit-merging rule. [S19] A match on both
-tests still needs [separate ancestral-path analysis](ydna-mtdna-interpretation.md#combining-tests-establish-which-ancestral-path-each-supports).
+motivates this check without establishing a current kit-merging rule. [S19] Read a returned
+multiple-test roster with the checks at the end of workflow 6.
 
 ## Eight workflows
 
@@ -308,7 +308,8 @@ scope cannot be verified, record it as unknown. Keep differently configured resu
 The [2025 example](https://dna-explained.com/2025/09/02/mitochondrial-dna-a-z-a-step-by-step-guide-to-matches-mitotree-and-mtdna-discover/)
 distinguishes these scopes for mtDNA and Family Finder without establishing current controls
 or a default setting. Matching the focal kit on both tests does not establish that both matches
-come through the same ancestor or descent path. [S11]
+come through the same ancestor or descent path; such a match still needs
+[separate ancestral-path analysis](ydna-mtdna-interpretation.md#combining-tests-establish-which-ancestral-path-each-supports). [S11]
 
 ### 7. Inspect the node actually displayed in a supplied time map
 
