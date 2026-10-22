@@ -1,8 +1,8 @@
-# Recipe: Practical DNA Painter chromosome-map workflows
+# Recipe: Practical DNA Painter maps, matrices and tree worklists
 
 ## Goal
 
-Build a reusable chromosome-map packet and perform the right operation on it: paint an observed match, move existing data, intersect inherited intervals, infer missing intervals, combine overlapping coordinates, or plan another descendant's test.
+Build a reusable chromosome-map packet and perform the right operation on it: paint an observed match, move existing data, intersect inherited intervals, infer missing intervals, combine overlapping coordinates, or plan another descendant's test. Use a direct-ancestor tree separately when the next task is to inspect pedigree gaps or repeated paths. Use a numeric tester-pair matrix to audit sourced shared amounts beside documented relationships. Use Shared cM histograms and a two-value range screen to inspect sourced pair amounts.
 
 The failure to prevent is treating everything DNA Painter draws or calculates as an observed match. A copied segment belongs to its original comparison; an intersection is coordinate geometry; an inferred interval is a deduction; the Coverage Estimator is a pedigree-based estimate. Keep those outputs distinguishable.
 
@@ -10,18 +10,24 @@ The failure to prevent is treating everything DNA Painter draws or calculates as
 
 Use a named focal tester, authorized segment tables, known relatives and a specific question. A segment table needs chromosome and start/end positions; retain reported cM and SNP counts when available. Raw genotype files and a match's total cM alone are not chromosome-painting inputs. [S1, S2]
 
+For the ancestral-tree workflow, use a named root and an authorized pedigree or GEDCOM; it does not require segment data.
+
+For the numeric-matrix workflow, use identified tester pairs, sourced shared cM amounts and
+separate relationship evidence. An ICW cluster membership or pasted list of names supplies
+no missing pairwise amount.
+
 Provider download procedures belong to the relevant provider's documentation; provider investigation belongs to its own recipe. For segment validity, triangulation, X-DNA and phasing judgment use [X-DNA and phasing judgment](../../genealogy-research-recipes/recipes/xdna-phasing-judgment.md). For unknown-person placement use [Unknown parentage and WATO](../../genealogy-research-recipes/recipes/unknown-parentage-wato.md). This recipe owns the subsequent DNA Painter operations.
 
 Keep a small operation register beside the map:
 
 | Field | Record |
 | --- | --- |
-| Operation | Paint, copy, intersect, subtract, union or coverage estimate |
+| Operation | Paint, copy, intersect, subtract, union, coverage estimate, cluster annotation, ancestor-gap worklist, numeric-pair audit or Shared cM histogram/range screen |
 | People | Focal tester and both members of each source comparison |
 | Inputs | Saved tables, provider, retrieval date, genome build and filters |
 | Assignment | Maternal/paternal/unknown and named ancestor, couple or provisional group |
-| Output | Saved map or tree, exported table and notes |
-| Status | Observed coordinates, inferred assignment or planning estimate |
+| Output | Saved map, tree or matrix, exported table and notes |
+| Status | Observed coordinates or amounts, inferred assignment, planning estimate or documentary worklist |
 
 This register is a recommended research artifact; it is not a DNA Painter import format. A person's map is a container for research about that person's chromosomes. Do not reuse another person's coordinates merely because their map is convenient.
 
@@ -34,6 +40,27 @@ This register is a recommended research artifact; it is not a DNA Painter import
 5. Preserve a note explaining the assignment and its source comparison. For an apparent contradiction, inspect the underlying intervals and provider comparison before recoloring anything. DNA Painter cannot compare raw DNA between two matches; a visual overlap is a reason to investigate, not a triangulation result. [S2]
 
 **Artifact:** source segment table, saved match and assignment note. **Checkpoint:** every retained painted interval can be traced to the correct focal-tester/match comparison; hidden layers have been inspected.
+
+If an FTDNA segment map already exists, keep any later import of parental-side information
+as a separate operation. Jonny Perl's September 2024 tutorial describes importing a second
+file containing FTDNA's match-level maternal/paternal bucket information after the segment
+file. Preserve both dated files and check that they concern the same kit and matching
+identities. Use that route only if the actual importer and its identity mapping can be
+inspected; ambiguous matches remain unresolved. Keep the reported bucket label separate
+from your evidence for a segment's parental side or ancestor. If the tool would silently
+turn a match-level label into an unsupported interval assignment, retain the label in your
+external match notes instead. Save which labels were added, left unassigned or could not
+be mapped. [S10]
+
+For a map's optional Y/mt panel, keep three fields distinct: the reported haplogroup and
+its tester/test level, an authorized kit link, and the documented direct-line ancestor
+selected for display. A known lineage can be recorded while its haplogroup remains unknown;
+choosing an ancestor group does not supply a test result. Check the saved panel and linked
+kit before sharing. The chromosome-map panel and an ancestral tree's haplogroup fields are
+different objects: record which was edited. If a tree propagates a label to other people,
+inspect those annotations and preserve the original tester and the conditional lineage
+basis; propagation does not mean those ancestors were tested. Use the
+[Y/mt workflow](ydna-mtdna-interpretation.md) to assess the underlying result. [S19, S20]
 
 ## 2. Copy or merge map data without changing whose DNA it represents
 
@@ -97,6 +124,144 @@ Use the [Coverage Estimator](https://dnapainter.com/tools/coverage) for a differ
 
 **Artifact:** descendant tree, accessible-tester inventory, saved tree file and next-test decision. **Checkpoint:** the displayed percentage remains an estimate; the tree and available tests are checked before interpreting lack of useful matches as evidence against the ancestral hypothesis.
 
+## 7. Annotate a cluster-derived map without assigning the whole cluster
+
+When an existing cluster result needs annotations, preserve its original HTML, focal tester,
+database, run date and filters. The January 2020 Cluster Auto Painter walkthrough describes
+supported cluster HTML and, for its GEDmatch/MyHeritage inputs, a separate shared-segment CSV.
+Check the actual importer's requirements before generating a separate working map; a cluster
+matrix without matching coordinates is not itself a segment table. [S11]
+
+1. Inspect the generated map's available match report and find an identified match. Check the
+   match's source comparison and the cluster it was placed in before annotating it.
+2. Record the documented relationship and its source as a match-level note. Assign a parental
+   side or ancestor to an interval only when that interval has its own support; leave uncertain
+   intervals unassigned. Retain the original cluster membership in the notes or operation register.
+3. Review other matches individually and save the annotated map beside the original cluster
+   output. Keep the relationship evidence distinguishable from imported cluster membership.
+
+The source describes match/group overlays and group/segment notes. The separate working copy
+and annotation register extend this recipe's existing preservation controls. Its worked
+example's overlap-to-parental-side inference is not adopted: an overlapping color does not
+establish mutual matching, triangulation or an ancestral couple. [S11]
+
+**Artifact:** original cluster inputs, annotated working map and assignment evidence.
+**Checkpoint:** a documented relationship has not silently assigned all of the match's
+segments or every member of its cluster to one parental side or ancestor.
+
+## 8. Turn a direct-ancestor tree into a bounded research worklist
+
+An ancestral tree starts with the person whose ancestors are being examined. It differs from
+the descendancy tree used by the Coverage Estimator in workflow 6. The saved tutorials describe
+GEDCOM root selection, tree completeness and repeated-path views, and a separate Brick Walls
+report. Treat their button names, limits and defaults as dated descriptions. [S12, S13, S14]
+
+1. Preserve the input tree and identify the intended root. In the available import or manual
+   entry view, record the included generation depth, notes and living-person handling. Check
+   the resulting root and known ancestors against the input before interpreting gaps.
+2. Inspect the tree's available completeness and repeated-path views. Distinguish a missing
+   ancestor within the imported scope from a generation omitted by the import or view. Repeated
+   appearances are paths to a person in the supplied pedigree, not independent proof of that
+   person's identity or of DNA inherited along each path. [S12, S14]
+3. Build a worklist from the available ancestor-gap report or visible tree. Record the displayed
+   generation filter and preserve the shown rows when exporting; the December 2024 tutorial
+   describes a default recent-generation subset and a CSV of the displayed table. Keep each
+   gap or surname clue tied to its branch and label unproved clues as hypotheses. [S13, S14]
+4. Keep source-backed annotations separate from inherited colors or automatically propagated
+   labels. Before sharing, inspect the actual view and its living-person/notes scope; if that
+   scope cannot be checked, keep the worklist local. The output selects documentary follow-up,
+   not a new ancestral or genetic conclusion. [S12, S14]
+
+**Artifact:** root and import-scope note, preserved tree, branch-specific ancestor-gap worklist.
+**Checkpoint:** every gap is interpreted within the observed tree scope; the percentage or
+color of a tree view has not become a measurement of inherited DNA.
+
+When using an available **Dimensions** view, name the category and retain the tree fields
+from which its values were generated. Compare generated values with the person's source
+facts, especially a country inferred from free-text birthplace. Correct a value only with
+support and keep unresolved values unknown. A custom category needs a source for each
+person's entry; a propagation checkbox supplies none for that person's ancestors. Save
+the checked category view with its root and scope. Religion, cause of death and other
+personal facts must not spread through a pedigree merely because a shared color is useful.
+The 2021 tutorial supplies category creation and per-value editing; its limits and privacy
+defaults require checking in the actual interface. [S21]
+
+For a **Places** view, retain the original birthplace wording beside the generated location
+and the root, generation and lineage filters shown. Check ambiguous placements against the
+person's supported locality. Where the actual interface offers text-based re-geocoding or
+a coordinate selector, save the proposed correction and its evidence, inspect the resulting
+placement and keep the original wording. Leave an unresolved place unresolved; a country
+default or a map search result does not establish it. A root location omitted by living-person
+privacy is missing input, not evidence of an unknown birthplace; do not disclose it merely
+to make a map render. The displayed connections link pedigree birthplaces, not observed
+travel routes or the transmission of a particular DNA segment. [S22]
+
+## 9. Audit a numeric pair matrix against its measurements and relationships
+
+**Use when:** you have pairwise shared amounts and want to check their entry or compare them
+with separately documented relationships. This is a numeric audit, not an ICW graph analysis.
+
+1. Give each tester a distinct identifier and retain each pair's provider, report date,
+   supplied amount and source. Keep unknown amounts blank. Names copied from a cluster
+   do not supply cM values; the November 2025 example explicitly leaves those for manual
+   entry. Use only an import or manual-entry route actually available for the supplied
+   data, then compare the saved cells with their sources. [S15, S18]
+2. Enter relationships separately from measurements and retain their documentary basis.
+   Leave an unresolved relationship unknown or in a hypothesis note. If a sibling-clone
+   control is available, check every copied relationship for that new tester, including
+   half relationships or multiple paths; enter the new tester's own measured amounts.
+   The August 2025 example copies relationship labels but leaves cM blank. [S15, S17]
+3. Inspect one tester's pair values at a time. Where relationship-based percentile or
+   standard-deviation views are offered, retain the selected mode, displayed relationship
+   and reference-data label beside the raw amount. Use an unusual display to recheck
+   the input, tester identity and relationship evidence. A percentile describes position
+   in the referenced distribution; it is not a probability that the relationship is true.
+   No SD cutoff, exclusion threshold or reference-model validation is supplied here.
+   If the display's basis is unavailable, retain it as an unexplained provider output. [S16, S17]
+4. Preserve the original matrix and a correction log. Reopen the saved result after edits;
+   do not assume that a historical edit-mode save/cancel behavior still applies. A symmetric
+   pair shown twice remains one comparison. Keep any shared/exported view within the
+   permissions and fields actually inspected. [S16]
+
+**Artifact:** an identified pair table with source amounts, independently sourced relationships,
+observed display mode, discrepancies and correction history.
+**Checkpoint:** no pasted name, copied relationship, blank cell or display outlier has become
+a measured amount or a new relationship conclusion.
+
+## 10. Inspect Shared cM histograms and a two-value range screen
+
+Use the available Shared cM Project view to inspect a reported amount against a named
+relationship's reference observations. Preserve the tester pair, provider, date, total
+definition and displayed project version. These totals do not supply painting coordinates.
+
+1. Open the histogram for a relationship being considered and retain the entered cM,
+   bin and displayed number of submissions. A value inside the published range does
+   not establish the relationship. Where percentages below and above the entered value
+   are shown, record which relationship's distribution they describe. The August 2022
+   tutorial uses approximate interpolation within histogram bins; these percentages
+   are not probabilities that one relationship is true rather than another. [S23]
+2. For an available two-value view, identify both measured tester–match pairs first.
+   Check that the two testers have the same genealogical relationship to the match
+   under the hypothesis being examined. Full siblings are the tutorial's starting
+   example; same-generation cousins need additional path checks. Extra relationships
+   through an unshared ancestor or different generations can invalidate this screen.
+   Preserve each total's definition; an unavailable comparison is not a measured zero.
+   Do not choose between filtered and unfiltered totals to favor a hypothesis. [S24]
+3. Enter the two eligible amounts and save the displayed relationship ranges that
+   accommodate both. This is a range screen, not a joint probability calculation or
+   relationship proof. The November 2022 tutorial's histogram percentages describe
+   the **first** input: check the actual view's labels, and swap the order if needed
+   to inspect the other amount. Keep the original pair labels with both views. [S24]
+4. If using the highest and lowest of several eligible relatives' amounts, retain
+   the full measurement set and eligibility checks. The relatives' results are not
+   independent evidence. A surprising screen result sends you back to the inputs,
+   paths and reference scope; it does not by itself reject a documented relationship.
+
+**Artifact:** sourced pair amounts, relationship hypothesis and eligibility checks,
+saved histogram/range views, reference version and interpretation note.
+**Checkpoint:** a distribution percentage, missing comparison or two-input range fit
+has not become a relationship probability or an inferred measurement.
+
 ## Prompt pattern
 
-“For focal tester A, perform only [operation]. Inputs are these labeled tables/tree and these documented relationships. Preserve originals. Return an operation register, the resulting intervals or tree, and the checkpoint result. Keep observed, inferred and estimated outputs distinct. Do not turn an overlap, coordinate union or coverage percentage into a new measured match.”
+“For focal tester A, perform only [operation]. Inputs are these labeled tables/tree and these documented relationships. Preserve originals. Return an operation register, the resulting intervals, matrix or tree, and the checkpoint result. Keep observed, inferred and estimated outputs distinct. Do not turn an overlap, coordinate union or coverage percentage into a new measured match.”

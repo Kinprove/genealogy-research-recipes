@@ -58,6 +58,8 @@
 - **S54:** Ahnenforschung.net Forum, *Neues bei der Brandenburg-Datenbank (mit Berlin)*, first post 2019-05-30 — [source](https://forum.ahnenforschung.net/forum/thread/148940-neues-bei-der-brandenburg-datenbank-mit-berlin/). Rights: cited reference, not reproduced. Used for matching an external index's archive signature and file number to the correct Catalog series rather than a same-titled collection.
 - **S55:** Ahnenforschung.net Forum, *Rätselhaft...Zwei Ehen gleichzeitig in einem Jahr?*, first post 2026-05-28 — [source](https://forum.ahnenforschung.net/forum/thread/3014856-r%C3%A4tselhaft-zwei-ehen-gleichzeitig-in-einem-jahr/). Rights: cited reference, not reproduced. Used for the warning that a register's left and right pages can be filmed separately, so a facing page may lie far from the adjacent image.
 - S16 ([Source Linker webinar and Q&A](https://www.youtube.com/watch?v=48yoEQ0t0ow)) additionally used for the absent duplicate warning, married-surname misses and attaching each separately made copy.
+- **S56:** Aimee Cross, *The FamilySearch Catalog: Where the REAL Wealth is Hidden*, published 2026-05-21 — [source](https://www.youtube.com/watch?v=0mxyz1mPVpQ). Catalog-to-WorldCat copy-location leads; prospective holdings and access require separate verification.
+- **S57:** Aimee Cross, *DON'T MISS this IMPORTANT Full Text Search Update 2026*, published 2026-07-23 — [source](https://www.youtube.com/watch?v=gX-d5Szg9XY). Observed limited-access result scope and blocked-image leads; no backend-search behavior, current access or identity conclusion is adopted.
 
 ### Source qualifications
 

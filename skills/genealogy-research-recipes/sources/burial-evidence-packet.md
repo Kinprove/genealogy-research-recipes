@@ -89,6 +89,29 @@ photographs, database rows and real family examples are not reproduced.
   reproduced. Used for reading 'Reb' on a tombstone, and 'Rabbi' or 'Rev.' in later sources, as
   titles to check against accounts of the person's actual role rather than as proof of
   ordination.
+- **P21:** Roberta Estes, *Anne Doucet (1713–1791), Oceans, Rivers, and Perseverance —
+  52 Ancestors #438*, published 2025-01-04 —
+  [article](https://dna-explained.com/2025/01/04/anne-doucet-1713-1791-oceans-rivers-and-perseverance-52-ancestors-438/).
+  Comparing a memorial's cemetery assignment with cemetery chronology and forming a
+  historical-ground candidate list. The founding dates, proposed final location and reports
+  of moved stones are the author's account; this recipe does not independently verify them.
+- **P22:** Aimee Cross / Ancestry Aimee, *What death records are you missing?*, published
+  2024-10-31 — [tutorial](https://www.youtube.com/watch?v=6TDebNoMsvQ).
+  Death-certificate undertaker/address fields, period-directory business identification,
+  and possible successor or society/library custody of funeral records. The recipe's
+  evidence-of-transfer and actual-holdings checks are Kinprove synthesis; the tutorial's
+  blanket retention-law, access and usual-transfer claims are not adopted.
+- **P23:** Amy Johnson Crow, *How to Calculate a Birth Date from Date of Death and Age*,
+  published 2021-11-04 — [tutorial](https://www.youtube.com/watch?v=O1z2pPxEgio).
+  Retaining a stated death date and age, counting back years/months/days, labelling the
+  result as calculated and evaluating a conflicting stated birth date. Calendar and
+  ambiguous-arithmetic stops are Kinprove synthesis; the tutorial's accuracy ranking
+  does not establish a universally correct calculation or an exact birth date.
+- **P24:** Amy Johnson Crow, *The photo you NEED at the cemetery!*, published 2023-08-08 —
+  [short tutorial](https://www.youtube.com/watch?v=16ilrQ7MP-8). Photographing the cemetery
+  sign at the start of a visit. Linking actual supplied image IDs and retaining an absent
+  context image as a gap are Kinprove synthesis; the saved transcript ends before its
+  alternative for an unsigned cemetery is complete.
 - **O1:** JewishGen, *JOWBR FAQ*, checked 2026-10-07 —
   [documentation](https://www.jewishgen.org/databases/Cemetery/JOWBR_FAQ.htm).
   Cemetery inventory, source types, nullable fields, patronymic searches, photographs and

@@ -42,6 +42,15 @@ every query run or every result inspected and dismissed, so do not turn it into 
 [Family History Fanatics recovery example](https://www.youtube.com/watch?v=BSOrsobztYY) motivates
 this step without naming a tool or making extraction from record pages automatic.
 
+For a broken link to a historical genealogy page, retain the exact original URL and check
+an available web archive, such as the Internet Archive's Wayback Machine, for a dated capture.
+If one is available, inspect it and record the archive URL, capture date and access date;
+keep any known original publication date separate. Record missing pages, images and linked
+material individually. No usable capture means the page remains unavailable. An archived tree
+or transcription keeps that source role; retrieval adds neither independent corroboration nor
+proof of kinship. Roberta Estes's [2026 broken-link example](https://dna-explained.com/2026/10/02/focus-step-1-seven-solutions-for-dna-matches-with-absent-or-shrunken-trees/)
+supplies this recovery route, without guaranteeing a capture or the site's current content.
+
 For a bounded set of multi-person records, an optional associate index can keep one row
 per named person's occurrence, with the same source-item/document number on every row from
 that item. Filter by person to see their occurrences or by item number to recover its named
@@ -79,6 +88,17 @@ relationships. A NIL at one level leaves the others unsearched. When judging who
 information, note which level created it. James Tanner's
 [jurisdiction-layer example](https://www.youtube.com/watch?v=7Jn_XMUozo0) motivates this list. It
 does not establish that any district's records survive or name individuals.
+
+For conflicting gazetteer coordinates, retain each source's place identifier, stated
+reference point, coordinate system and date where supplied. A church, market square or
+calculated centre can represent the same settlement; a coordinate difference alone does
+not separate two places. Check the described feature and historical context before merging
+or separating the candidates, without inventing a distance tolerance. If relocation is
+documented, retain the earlier and later sites with their supported dates and identify which
+site each source describes. Leave unknown dates or reference points unresolved instead of
+replacing an earlier site with today's coordinates. The [2025 historical-place data discussion](https://www.youtube.com/watch?v=yR_W3jjwQAU)
+supplies these reference-point and relocation distinctions; their use in this locality guide
+is synthesis, not evidence that any particular place moved.
 
 Use that coverage to choose the next searches: target series and locator, dates or sections
 to inspect, access route and the observation that could distinguish the competing explanations.
@@ -123,12 +143,40 @@ only the catalogue searched.
 **Method origin:** [Family Locket's locality research and planning example](https://familylocket.com/using-the-fan-methodology-to-find-a-females-father-part-2-locality-research-and-research-planning/).
 Use [evidence and proof judgment](evidence-proof-judgment.md) to decide what a result changes.
 
+For private family or plantation papers relevant to the locality, use an available collection
+index by place, surname or collection to select the described collection and section. Include
+collections held elsewhere that mention the place. Follow the locator to the actual holder
+and available volume or reel, then read its finding guide before selecting a bounded range
+to browse. A guide may describe only part of the contents; an omitted name or item does not
+establish absence from the papers. Log the pages actually inspected and leave the remainder
+uninspected. Private papers are also a separate lead after courthouse loss; a surviving private
+copy must be located, not presumed. Amy Johnson Crow's [2018 plantation-records interview](https://www.youtube.com/watch?v=in4Jda5KglQ)
+supplies this index-to-collection route, without establishing present holdings or proving that
+the target person appears in a collection.
+
+A genealogical or local-history periodical subject index can supply another locality route.
+Search by place and relevant subject category, or a distinctive surname, using the index's
+actual options. Preserve the article title, periodical, issue and publisher supplied by a hit;
+it is an article citation, not an inspected article. Check the publishing society's holdings
+or copy service, then the indexing library's article-copy route if needed, using current
+instructions and the exact citation. Keep an unavailable or requested article distinct from
+one received and read. Amy Johnson Crow's [2025 PERSI demonstration](https://www.youtube.com/watch?v=Hr6FD9xvNUM)
+supplies this citation-to-article handoff; its historical order form and service terms are not
+a current ordering contract.
+
 Before an onsite visit, confirm the specific service and target volume for the actual date.
 An open building, scheduled tour, onsite finding index and retrieval of original files are
 separate arrangements. Retain any advance-order requirement and the permitted capture route;
 if only the index can be inspected, preserve its pointer and leave the document queued.
 The [onsite-trip example](https://familylocket.com/how-to-prepare-for-an-onsite-genealogy-research-trip/)
 motivates this distinction without establishing a repository's current policy or permission.
+
+For a written record request, state the person or event, known dates and places, available
+locator, and desired delivery form. If an image of the entry is needed, request a reproduction
+of the original explicitly; distinguish the image, transcription or certified extract actually
+received in the log and citation. The [2021 civil-register request example](https://www.youtube.com/watch?v=dhDhK3sPgyU)
+motivates that product distinction. Check the holder's current service and fee information
+before ordering; the example establishes no present fee, service or certification requirement.
 
 ## Compare one family across named censuses
 

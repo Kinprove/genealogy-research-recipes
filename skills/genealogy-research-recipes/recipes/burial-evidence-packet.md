@@ -105,6 +105,13 @@ been inspected. The [family-cemeteries video](https://www.youtube.com/watch?v=rA
 another face does not by itself establish burial at that spot or a relationship, and the back may
 carry nothing.
 
+For supplied cemetery-visit photographs, retain an actual cemetery-sign photograph as a
+context image and link it to the corresponding grave-photo IDs using the supplied visit
+notes or other documented association. On an authorized future visit, photographing the
+cemetery sign first can help preserve this context. If no such image was supplied, record
+it as absent; do not invent a sign image or assume that every adjacent camera file belongs
+to that cemetery. A sign identifies the photographed place, not the person or burial. [P24]
+
 For a bilingual stone, transcribe the Hebrew and secular-language portions separately. The
 gravestone tutorial demonstrates the deceased's Hebrew given name and the father's Hebrew name
 as useful leads that can be absent from the secular portion. Preserve the raw wording, the
@@ -142,6 +149,8 @@ Keep the dates separately:
 | Field | What to retain |
 | --- | --- |
 | Death date on inscription | Literal English/secular and Hebrew forms, each with its label |
+| Age at death on inscription | Literal value and stated units, linked to the inscription's death date; missing units stay unknown |
+| Calculated birth-date lead | Separate derived value, input death date and age, calendar and arithmetic; label `calculated, not stated` |
 | Burial date | The date explicitly supplied as burial, with its source |
 | Database date | Displayed value, field label and record URL |
 | Converted date | Separate derived value, calendar and conversion basis, if checked |
@@ -157,6 +166,16 @@ Converted date row. Check the day against the community's festival practice, and
 the year has been read. Do not replace the phrase with an approximate 'around Passover'. The
 [festival-date discussion](https://forum.j-roots.info/viewtopic.php?f=208&t=9621) motivates this
 with one abbreviation glossed by a link. It sets no conversion rules.
+
+When an inscription supplies a death date and age in years, months and days, retain both
+literal inputs before calculating a birth-date lead. Amy Johnson Crow's example counts
+back the years, then months, then days, carrying the year and using the actual length of
+each month crossed. Record that arithmetic and its calendar basis with the calculated
+value. Incomplete age units, an uncertain calendar or unresolved month-end/leap-day
+conventions do not support a unique exact birth date; leave the calculation unresolved
+where its basis is missing. The recorded age may itself be inaccurate. Keep a separately
+stated birth date alongside the calculation and send a conflict to evidence and proof
+judgment, rather than overwriting either value. [P23]
 
 If a source reports reinterment or a replacement marker, retain original burial, reported
 transfer and later marker installation as separate source-linked events. Keep original and
@@ -234,6 +253,18 @@ The [death-records class](https://www.youtube.com/watch?v=70ya-VPbkBc),
 [date-of-death video](https://www.youtube.com/watch?v=bc92E8Oq4zU) and
 [funeral-home tip](https://www.youtube.com/watch?v=twrGXgz08S0) motivate this step.
 
+If an inspected death certificate names an undertaker or funeral home, preserve its literal
+name, address and date as a separate record-recovery route. Use a period city directory's
+business or address entries to clarify a difficult name. For a closed firm, look for evidence
+of a successor business or a funeral-record collection deposited at a historical society or
+library. Another firm at the same address is a lead, not proof of business succession or
+record transfer. Confirm the relevant dated holdings and access with the actual prospective
+holder before treating the records as available; keep the certificate, directory entry and
+custody evidence separately cited. Prepare a bounded request for the person's funeral or
+burial record, retaining requested, unavailable and received states. Use the same contact
+authorization rule above. The demonstration establishes no present holder, guaranteed survival
+or entitlement to the records. [P22]
+
 Where the actual source offers it, inspect the matched plot's roster before a bounded
 neighboring-plot search. Retain each burial/plot identifier and the actual distance or selected
 area separately from coordinates. Use co-burial/proximity to nominate associates and retrieve
@@ -271,6 +302,16 @@ as not located, not inspected, unreadable or partly read, according to what happ
 A failed present reading neither verifies nor erases the older statement. The [road-trip example](https://familylocket.com/rlp-231-family-history-road-trip/)
 motivates this distinction without supplying an earlier photograph or proving identity,
 marker replacement or the reason a present reading failed.
+
+If an online memorial assigns an early burial to a named cemetery, compare the burial date
+with that cemetery's documented opening or operating period. An opening after the burial
+excludes it as the original burial ground; keep a later reinterment or marker transfer
+unresolved until its own evidence is found (section 3). Record the dating source and any
+uncertainty about earlier use of the site. Use the burial entry's parish or church and the
+locality's cemetery histories to list grounds operating at the burial date as candidates,
+with a source for each period and parish connection. A candidate ground does not locate
+a grave. The [Anne Doucet example](https://dna-explained.com/2025/01/04/anne-doucet-1713-1791-oceans-rivers-and-perseverance-52-ancestors-438/)
+motivates this chronology check; its proposed final grave location remains unverified. [P21]
 
 Choose the next retrieval action from the gap: a clearer photograph for uncertain letters, a
 cemetery register for an unlabelled burial date, or the underlying civil record for a conflicting

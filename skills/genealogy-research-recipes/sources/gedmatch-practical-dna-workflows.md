@@ -59,6 +59,12 @@ their numeric presets):
   [thread](https://forum.molgen.org/index.php/topic,10116.0.html). Used for recording each kit's
   vendor and export format with a run, since some vendors' raw files are reported unsuitable for
   GEDmatch; no test or cause is shown. Rights: cited reference, not reproduced.
+- **S19:** Roberta Estes, *AutoKinship at GEDmatch by Genetic Affairs*, DNAeXplained, 2022-02-21 —
+  [post](https://dna-explained.com/2022/02/21/autokinship-at-gedmatch-by-genetic-affairs/).
+  Separate AutoCluster and AutoSegment numbering, multiple memberships, per-tool result
+  availability and segment-group members outside an AutoCluster. The run/report/kit crosswalk
+  and unresolved-identity controls are synthesis. Current access, thresholds and interface,
+  triangulation assertions and predicted-tree model validity are not established by this capture.
 
 GEDmatch-hosted documentation and tutorials, retrieved 2026-10-04. Retrieval confirms the public
 page's contents; it does not verify the signed-in interface or current access level:

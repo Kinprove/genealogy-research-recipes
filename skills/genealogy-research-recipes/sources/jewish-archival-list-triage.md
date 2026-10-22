@@ -23,6 +23,14 @@ Jewish lists. No archival case findings are asserted here.
 - S4 — J-Roots Forum — "Где-то попадалось на форуме, а теперь не могу найти" — first post 2018-08-12 — <https://forum.j-roots.info/viewtopic.php?f=75&t=5625> — Rights: cited reference, not reproduced. Used for treating 1920s synagogue religious-community member lists as a named-list candidate and for the partial online posting of their inventory.
 - S5 — J-Roots Forum — "Музей Холокоста / Вашингтон" — first post 2016-02-12 — <https://forum.j-roots.info/viewtopic.php?f=167&t=4906> — Rights: cited reference, not reproduced. Used for searching occupation-era Gebietskommissariat and burgomaster fonds, and for keeping the original case keys beside copy-collection references.
 
+## Practitioner example
+
+Vera Miller, [Wiki site details records of Ukrainian archives on a user-friendly and searchable site](https://lostrussianfamily.wordpress.com/2024/02/24/wiki-site-details-records-of-ukrainian-archives-on-a-user-friendly-and-searchable-site/),
+published 2024-02-24, supplies the translated-proper-name warning, separate site/page search
+scopes and the Ukrainian case-ending example. These are paraphrased retrieval diagnostics;
+the article's fixed-letter truncation suggestion is not adopted, and current site coverage
+or search behavior is not asserted.
+
 ## Credits
 
 - Kinprove — original archival catalogue-triage procedure — FSL-1.1-MIT (kinprove-original)

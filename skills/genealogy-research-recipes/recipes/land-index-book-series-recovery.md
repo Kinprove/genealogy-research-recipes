@@ -1,10 +1,12 @@
-# Recipe: Recover land instruments through indexes and book series
+# Recipe: Recover land instruments through indexes, book series and entry files
 
 ## Goal
 
 Follow a land-record lead through the correct index and record-book series.
 Keep both index directions, the instrument and recording dates, and the original locator
 visible, so one missed surname entry or guessed book does not become a false absence.
+For a U.S. federal patent lead, use the separate entry-file workflow below to recover
+the supporting packet rather than treating the patent as the complete file.
 
 ## Before starting
 
@@ -32,7 +34,7 @@ The [female-parentage research example](https://familylocket.com/rlp-230-finding
 motivates this handoff without independently establishing the stated residence or identity.
 
 Use the existing platform workflow to open an image-only index and distinguish printed page
-numbers from viewer image numbers. This recipe adds land-index and book-series controls.
+numbers from viewer image numbers. This recipe adds land-index, book-series and entry-file controls.
 It does not infer kinship, explain property law, draw plats or build a chain of title.
 
 For an original-government grant lead, carry separately supplied warrant, survey and patent
@@ -215,6 +217,39 @@ texts instead of assuming the transcription is exact. Where a court ordered reco
 order or minute book for that entry and keep its date in its own field. The
 [deed-process explanation](https://www.youtube.com/watch?v=gWPPN9DUUSc) motivates this crosswalk.
 Endorsement and court-order practice varied, and the source shows no example endorsement. [S4]
+
+## 5. Carry a U.S. federal patent lead into its separate entry file
+
+**Use when:** the inspected patent or finding description identifies a federal land entry
+whose supporting papers have not been examined. Keep this route separate from later
+county conveyance indexes.
+
+1. Save the patent image/locator and its supplied state, land office, act and date,
+   acreage, document/patent number and exact land description. Keep these labelled fields
+   separate; an absent entry-file number is not supplied by relabelling the patent number.
+   The [NARA preparation account](https://www.danaleeds.com/10_tips_for_nara/) shows a
+   BLM-linked locator worksheet, not a universal current request form. [S10]
+2. Identify the entry class from the document or finding description. The source cases
+   include cash sales, bounty-land military warrants and homestead entries. Follow the
+   actual custodian's instructions for that class and period to identify the corresponding
+   file/series locator; record unresolved class, custody or access separately. A patent
+   image does not establish that its supporting packet has been retrieved. [S11, S12]
+3. When the packet is available, compare its identifiers with the patent lead and inventory
+   the actual jacket and component documents. Inspect certificate and assignment reverses
+   where present. Retain the available receipts, applications, affidavits, claimant testimony
+   and witness papers with their individual locators; do not assume a fixed page count or
+   a complete packet from the presence of a certificate. [S11]
+4. In bounty-land papers, preserve the named veteran, heir and assignee as separate roles.
+   An assignee is not thereby the veteran or a resident of the parcel. In homestead papers,
+   keep reported settlement, filing, improvements, testimony and patent dates distinct.
+   Attribute claimant and witness statements to their actual documents; route conflicts
+   and identity questions to the evidence/proof workflow. [S11]
+
+**Artifact:** patent-to-file locator crosswalk, entry class and retrieval state, component
+inventory, named roles and separately sourced event dates.
+**Check:** the patent, supporting entry file and later deed remain separate record objects.
+The cited cases supply no universal eligibility rule, period of residence, page count,
+digitization guarantee or independently verified family conclusion.
 
 ## Prompt pattern
 

@@ -72,6 +72,18 @@ draw on each source.
 | S65 | [Lisa Lisson, Tuesday's Genealogy Tip - Widows and Widowers](https://www.youtube.com/watch?v=Hi9QQZG8JoI) Used for treating 'widowed' as reported status with divorce, abandonment or bigamy as alternatives. | 2015-06-10 | 7 |
 | S66 | BYU Family History Library, James Tanner, [What can I do if my Ancestors came from Hungary?](https://www.youtube.com/watch?v=PeS050cNO-A); [Proven Ways to Find Your Immigrant Ancestors (2016-03-16)](https://www.youtube.com/watch?v=SxDbhOu-_1Y) Used for comparing the census language field with the stated country of birth. | 2024-07-22 | 7 |
 | S67 | [BYU Family History Library, James Tanner, Ten Steps to Finding Your Immigrant Ancestor](https://www.youtube.com/watch?v=htx73TZD-bo) Used for comparing the language/mother-tongue field with the recorded birth country. | 2024-01-31 | 7 |
+| S68 | Aimee Cross, [Finding Enslaved Ancestors & Build an African American Family Tree](https://www.youtube.com/watch?v=12gmfLSWs70) | 2023-06-22 | 9 |
+| S69 | Aimee Cross / Ancestry Aimee, [Overview of U S Federal Census Records in Genealogy Research](https://www.youtube.com/watch?v=lwwOLa341-8) | 2021-12-09 | 1 |
+
+S68 supplies a neighborhood-to-earlier-household research route and named-person searches
+in deeds, probate and claims testimony. Its property-value threshold and broad assumptions
+about post-emancipation residence are excluded. The worklist remains a set of candidates;
+it does not identify an enslaver from census proximity, race or wealth.
+
+S69 demonstrates reading the same census entry through another host when the first
+presentation is difficult to read. The matching-locator and reading-copy checks are
+Kinprove synthesis; dated viewer placement and claims of provider superiority are not
+adopted. Copies of the same entry remain one underlying record.
 
 ## Credits
 

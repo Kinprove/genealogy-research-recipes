@@ -88,6 +88,13 @@ year's definitions for another.
    Before recording a member as missing, moved or dead, read that year's rules on who was counted where. Keep the sheet's visit date separate from the official reference date ([Tanner 1880](https://www.youtube.com/watch?v=7Jn_XMUozo0)). Someone who died after the reference date may rightly be listed ([Genealogy Gems](https://www.youtube.com/watch?v=p4O1Zlol-2k)), and a baby born after it should be absent ([Tanner 1880](https://www.youtube.com/watch?v=7Jn_XMUozo0), [FHF](https://www.youtube.com/watch?v=GNX7J94oEIE)). As the cited presenters describe them (confirm in the 1950 enumerator instructions), the 1950 rules count college students at college and leave visitors, boarding pupils, inmates and absent servicemen out of the home household ([FHF](https://www.youtube.com/watch?v=GNX7J94oEIE), [Genealogy Gems](https://www.youtube.com/watch?v=87hGRjeZ5o4), [podcast](https://www.youtube.com/watch?v=R3Ds6GLx4es)). Lisa Lisson reports separate P-5 overseas and P8 reservation schedules, and no enumeration of other Americans abroad ([overview](https://www.youtube.com/watch?v=q7-fXZJTU7U), [preview](https://www.youtube.com/watch?v=tnaXso4LSCE)); a Family History Fanatics case shows a citizen abroad uncounted in 1930 and 1940 ([case](https://www.youtube.com/watch?v=gsbQIuilOYk)). Search where the rule points, such as an institution. Other years need their own rules, enumerators may not have complied, and an explanation stays unproven until another record places the person.
 5. Open candidate images. Compare the whole roster, ages, birthplaces, and local associates. Record indexed spelling and the image reading separately. Search the apparent alternative surname locally before dismissing it as a transcription error.
    Before concluding that a household or member was omitted, check the page edges. A household at the top or bottom of a page may continue on the previous or next image, and an index may leave the parts unconnected ([Lefler](https://www.youtube.com/watch?v=7yVDky7MvO0), [FamilySearch indexing example](https://www.youtube.com/watch?v=vdpmIU_XOA4)). Record the continuation locator. Check the printed page sequence for a missing page, and look for a damaged or illegible entry. Test whether the head's surname was carried onto a wife and children living apart, whether children carry a stepfather's surname, and whether travel took the family away during enumeration ([FHF](https://www.youtube.com/watch?v=itVYbPHf_Oc), [travel example](https://www.youtube.com/watch?v=jeshnSv9xQ0)). If the surname on the image is blank or crossed out, also search under the previous household's surname, as in one 1930 indexing error ([Annie's Ghosts](https://www.youtube.com/watch?v=9OkR0D6bDyg)). Line order is not a relationship. Each explanation stays a hypothesis until a linked entry or dated record supports it.
+   If an entry is hard to read, try an available image of the same entry on another host
+   and the adjustment controls actually offered there. Match the schedule, printed page
+   and household or line before comparing readings; viewer image numbers can differ.
+   Record the host, image locator and reading in `image_reading`. A clearer presentation
+   is another copy of the same record, not independent corroboration. If no usable copy
+   is available, retain the legibility gap. Aimee Cross demonstrates this recovery step
+   without establishing that one provider always has better images. [S69]
 6. If name searches remain unproductive, use Recipe 2. A second platform can expose a different index, but two indexes of the same census entry remain one underlying record.
 7. Expect that one person may appear twice in a census year. Examples: a 1950 student at a dormitory and with a military family, a married son still listed by his parents ([Brady](https://www.youtube.com/watch?v=o6d7Z_W_qhg), [Tanner](https://www.youtube.com/watch?v=xW-2pvfobaE), [Genealogy Gems](https://www.youtube.com/watch?v=dY9EV5R_6ZA)), or a servant entered days before her family's listing ([Genealogy Gems](https://www.youtube.com/watch?v=xzJUics2RDs)). A family that moved between districts during enumeration can be missed at both addresses or counted at both, so compare the dates written on the sheets ([Legacy Tree answer](https://www.youtube.com/watch?v=LwjPdTcCxMM)). Keep both entries with their dates and locators. Do not split them into two people or discard one, and do not choose a residence without other evidence. Test the double-enumeration or move hypothesis with independent records. None of these sources says how often it happens.
 
@@ -268,6 +275,20 @@ year's definitions for another.
 4. Use age and household continuity to generate searches in named post-emancipation records, such as voter registrations, and appropriate records that can identify enslaved people or establish family links.
 5. When examining unnamed entries in slave schedules, record the literal demographic information and its context. An age/sex match does not name a person or establish a family.
 6. Keep documentary enslavement evidence separate from census race, birthplace, age, and surname observations. A 1900 census profile alone does not establish enslavement or identify an enslaver.
+
+If named post-emancipation records leave an enslaver question unresolved, define a bounded
+1870 neighborhood to inspect and record neighboring households as possible research leads.
+Trace each selected named person into earlier censuses, comparing identity before carrying
+the lead backward. Retain the literal property fields with their year and heading; do not
+use a wealth threshold to infer enslaving status. Search relevant deeds, probate inventories
+and estate-sale records for named people and transactions. Add relatives to the worklist
+when inspected records supply a reason to investigate a transfer or bequest through them.
+Where relevant claims files survive, search both the target's and candidate's names and
+inspect witness testimony. Keep the candidate, reason, earlier locator, record searched,
+named-person evidence, conflicts and next action in a separate worklist. Neighborhood
+proximity, recorded race or property value does not establish an enslaver or show that the
+family remained in its former location. This bounded adaptation of [Aimee Cross's example](https://www.youtube.com/watch?v=12gmfLSWs70)
+excludes the video's property-value heuristic and assumed residence continuity. [S68]
 
 **Output:** A candidate identity chain, household comparisons, surname observations, and the documentary evidence needed for each unresolved link.
 

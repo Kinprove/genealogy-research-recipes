@@ -64,6 +64,12 @@ The linked routing, request-receipt and image/timeline schemas are original synt
   [Episode 209](https://www.youtube.com/watch?v=CPSlx8VfKps), 11 October 2017. A pension file may
   leave out regular-army or earlier Confederate service. S7 also covers pension applicants absent
   from the roster.
+- **S14:** Aimee Cross, with Brian Reinhardt,
+  [Avoid These Military Record Mistakes | Get The Right Card](https://www.youtube.com/watch?v=g5OAEKwzgeU),
+  28 November 2024. Comparing pension-index card versions for a later XC file identifier omitted
+  from another version. The per-version locator comparison and unresolved-mismatch handling
+  are original synthesis. Historical provider coverage and transfer descriptions are not adopted
+  as current website or custody guarantees.
 - **H1:** National Archives,
   [Requesting Copies of Older Military Service Records](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records),
   page reviewed 16 January 2026; checked 7 October 2026. Request forms, federal scope and

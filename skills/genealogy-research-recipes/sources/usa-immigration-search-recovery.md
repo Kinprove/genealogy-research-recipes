@@ -112,6 +112,22 @@ the relevant workflow. Community references:
     reference, not reproduced. Used for the warning that manifest visa numbers do not locate
     USCIS visa files, which need an index search first, and for the limited contents to expect;
     also used for searching British inbound passenger lists for a return leg through Britain.
+29. Aimee Cross, *Missed Records at the National Archives*, 17 July 2025.
+    <https://www.youtube.com/watch?v=T9iEw4Zhb7M>
+    A possible naturalization-paper lead inside a homestead packet; the interview's
+    eligibility assertion, digitization heuristic and typical page count are excluded.
+30. Vera Miller, Lost Russian & Ukrainian Family, *NARA quietly expands two databases
+    of its most valuable immigration collections to 2.5 million files*, 26 September 2026.
+    <https://lostrussianfamily.wpcomstaging.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/>
+    Related-person A-file searches across available catalogues; individual identity and
+    locator checks are Kinprove synthesis. The title's count, fixed birth-year coverage,
+    wildcard syntax, fees and delivery claims are not adopted as current service facts.
+31. Aimee Cross / Ancestry Aimee, *Finding the RIGHT Immigration Record*, 11 December 2025.
+    <https://www.youtube.com/watch?v=xm7HHLneP-E>
+    A sailing-wide passenger worksheet preserves page numbers and image access, sorts rows
+    by place/name and compares them with later census/tax neighbors. Coverage, field meaning
+    and identity controls are Kinprove synthesis; the absence of neighborhood overlap does
+    not establish that a proposed voyage is wrong. Historical copying controls are excluded.
 
 ## Credits
 

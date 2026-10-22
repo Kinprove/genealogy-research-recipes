@@ -92,7 +92,8 @@ Use the existing evidence-judgment recipe before drawing a genealogical conclusi
 
 ### 6. Remove tree facts that belong to another life stage
 
-**Trigger:** a tree-launched search returns nothing useful for childhood or early life.
+**Trigger:** a tree-launched search returns nothing useful for a different life stage,
+such as childhood or a possible remarriage.
 
 Inspect the populated query, including relationships. Remove the later spouse,
 children, later residence and uncertain facts when they constrain an early-life
@@ -102,6 +103,16 @@ collection actually exposes. A missing death-date control in a census search is
 not evidence that the person lacks a death record.
 See [How to Search](https://help.ancestry.com/hc/en-us/articles/53933305561747-How-to-Search-Ancestry)
 and [Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips).
+
+For a possible remarriage, test a supported previous married surname without requiring
+the maiden surname. Inspect prefilled parents and siblings too: a surname removed from
+the subject's field may still constrain the query through those relatives. Save the
+original query, remove those inherited constraints in the comparison query, and narrow
+to marriage records with supported place/time bounds where those fields are available.
+Inspect the recovered record and identifying details before accepting a remarriage.
+The [women's research demonstration](https://www.youtube.com/watch?v=2akp4WbCDlw) shows this
+specific search failure; it does not establish a universal naming practice or prove
+identity from a changed surname alone.
 
 If a candidate's reported surname differs from the hypothesized biological family's surname,
 keep the reported name as the record subject. Test the other surname as an associate/keyword
@@ -135,6 +146,15 @@ outside any reasonable interval. The
 [birth-date strategies discussion](https://www.youtube.com/watch?v=v_tpU77sOn4) reports this from
 experience and says nothing about how often it happens. Any hit is only a candidate: check it
 against the image, the census date and other same-name people before attaching it.
+
+For a missing death record, distinguish a candidate death locality from the last known
+residence. Use independently supported adult children's residences near the estimated
+death interval to build a short list of places where the parent might have stayed. Retain
+each child's identity, dated residence source and the proposed death-search locality as
+separate fields. Check the actual death-record collection's jurisdiction and date coverage
+before searching it. The [adult-child residence example](https://www.youtube.com/watch?v=Sr86Hc000tY)
+supports this locality pivot; a child's residence does not establish the parent's move or
+death there, and no particular child's household has automatic priority.
 
 ### 8. Use wildcards for a specific spelling uncertainty
 
@@ -187,6 +207,17 @@ Co-residents and listed inmates are leads, not relatives or identifications.
 [Swiss keyword tip](https://www.youtube.com/watch?v=ezp_SFmMdYM) and a relayed
 [adoptee-research tip](https://www.youtube.com/watch?v=KcsQHKLSjFQ) motivate this. They do not
 document current keyword coverage.
+
+### Check whose record row supplies the saved facts
+
+When an authorized tree attachment follows recovery, select the established person's
+own entry in a multi-person record before choosing the destination profile. Inspect the
+name, role and proposed age, birthplace or parent fields; another household member's
+entry can propose that member's details. Keep existing supported values and source
+associations visible while reviewing a conflict. Reopen the saved record and affected
+facts to check the person-row/profile pairing. The [2025 tree-cleanup demonstration](https://www.youtube.com/watch?v=TjFQv6LAjUY)
+shows this wrong-row failure; use the controls and proposed fields actually offered.
+This check does not authorize deleting other attachments or accepting an unresolved identity.
 
 ### 10. Use the volume's own index and page numbering
 
@@ -257,6 +288,17 @@ does a second copy of the same printed page. The
 [catalog-title](https://www.youtube.com/watch?v=V2vmIxs2WjM) and
 [directory](https://www.youtube.com/watch?v=YI-rwxManbs) examples do not show how to verify that
 the editions match.
+
+If an inspected record supplies a religious name and a named community affiliation,
+carry both with that record's locator into an institutional-archive inquiry. Check the
+community's actual holdings and present custodian, including a documented later name or
+successor archive; ask whether a personnel file is held and accessible for that person.
+Keep any returned letters, obituaries or photographs separately identified and verify
+their link to the researched person. The [interview with Sunny Jane Morton](https://www.youtube.com/watch?v=hUmGeEvOWbU)
+supplies this possible file target. It does not guarantee survival, access or contents.
+Keep a birth-name/religious-name link unresolved until supported; do not infer community
+membership or parentage from a name form, initials, clothing or Catholic context alone.
+The life-stage query in workflow 6 already handles supported name variants.
 
 For England and Wales censuses **1841–1901**, carry the archive series, piece,
 folio/page and, where applicable, book reference into a reference search or image

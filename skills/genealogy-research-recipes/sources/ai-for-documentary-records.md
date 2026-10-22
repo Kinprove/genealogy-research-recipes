@@ -117,6 +117,10 @@
 - Ahnenforschung.net Forum — *Transkription alter lettischer Texte* — first post 2025-11-23 — <https://forum.ahnenforschung.net/forum/thread/2971674-transkription-alter-lettischer-texte/> — used for converting pre-reform Latvian spelling with a published correspondence table before machine translation. Rights: cited reference, not reproduced.
 - J-Roots Forum — *Нужно мнение коллег* — first post 2015-09-22 — <https://forum.j-roots.info/viewtopic.php?f=4&t=4667> — used for the metrical-book convention of bracketing a miswriting with an 'окаймленное не читать' note as a cancellation. Rights: cited reference, not reproduced.
 
+### CompGen Forschungstipps — YouTube
+
+- *DES-Projekte mit Transkribus* — Michael Rose, 2024-02-23 — <https://www.youtube.com/watch?v=6IwX6kZbx4Q> — Rights: cited reference, not reproduced. Historical correction handoff; destination/version verification is Kinprove synthesis, not a claim about current synchronization or model training.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

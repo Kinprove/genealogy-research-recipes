@@ -44,6 +44,9 @@
 - Larkin, Leah. "AncestryDNA Updates Their Relationship Predictions." The DNA Geek, 2026-07-24. [Article](https://thednageek.com/ancestrydna-updates-their-relationship-predictions/) (method 6)
 - Larkin, Leah. "Working with WATO: Centimorgan Adjustments." The DNA Geek, 2021-06-05; updated 2022-03-29. [Article](https://thednageek.com/working-with-wato-centimorgan-adjustments/) (method 8; independent check of company-specific totals)
 - Leeds, Dana. "The Order of AncestryDNA's Colored Dots." 2023-03-27. [Article](https://www.danaleeds.com/the-order-of-ancestrydnas-colored-dots/) (method 4)
+- Southard, Diahan / Your DNA Guide. "AncestryDNA ThruLines." 2020-04-10. [Video](https://www.youtube.com/watch?v=em_dMWtbJ-s) (method 5; saved transcript's child-path count example and one-generation-higher comparison). The per-match path register, dependent-tester checks and retained unknowns are synthesis. Historical counts are not adopted as subtraction, probability or parentage proof; current interface behavior remains unverified.
+
+- Estes, Roberta. "How to Use Ancestry's New Match Clusters and What They Mean." DNAeXplained, 2025-07-10. [Article](https://dna-explained.com/2025/07/10/how-to-use-ancestrys-new-match-clusters-and-what-they-mean/) (method 7). The dated example describes grid/dropdown differences, multiple associations and checking saved tags. Separate observation records, unresolved discrepancies and unavailable-view states are Kinprove synthesis; current limits, current behavior and ancestral attribution are not established.
 
 ### Relationship-range reference
 

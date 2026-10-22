@@ -112,6 +112,17 @@ Bartlett (2023-07-08) reported **31 new ThruLines candidates** after changing a 
 
 When a suggested path runs through a match's parent who has also tested, compare both kits' amounts with you. First mark whether each figure is Ancestry's weighted headline or the unweighted amount, and compare the unweighted amounts. A small figure reported for a single match needs the same check. If the child still shares more than the parent, mark the path doubtful and keep three explanations open: a reporting or measurement difference, an incorrect path, or DNA from another source such as the other parent or another relationship. The excess alone does not invalidate the documented path. Check segments and shared matches before building out descendants on the strength of a green leaf. The [Gordon-line example](https://www.youtube.com/watch?v=nffEfpOI_k8), [parent/child example](https://www.youtube.com/watch?v=xv62kjXVi3g) and [small-match example](https://www.youtube.com/watch?v=EHUmd1Sfmn8) motivate this check. They do not verify where weighting applies, set a cM threshold for noise, or show which family carries any extra relationship.
 
+Before treating a suggested ancestor's displayed match count as support for an older link,
+inspect the available paths by child. Keep a row for each identified match and proposed
+descent, distinguishing paths through your already-known ancestor from paths that might
+independently check that ancestor's parentage. Preserve unknown paths, dependent testers
+and possible additional relationships; a different child label alone does not establish
+independent evidence. If the available view reaches one generation higher, compare those
+paths too: support for the wider family does not select the particular child through whom
+you descend. Southard's [2020 worked example](https://www.youtube.com/watch?v=em_dMWtbJ-s)
+shows why the headline count can be misleading. This is a path-review worklist, not a
+subtraction rule or a probability; document each proposed link before promoting it.
+
 **Output:** a verified tester/link statement and a candidate comparison for each hypothesis.
 
 ## 6. Detect a label that already uses your shared-match evidence
@@ -143,6 +154,15 @@ authorized account, kit and filters in an available unmodified view. Retain the 
 row/group differences before concluding removal or a failed save; reappearance does not
 identify the cause. The [2020 rendering example](https://genealem-geneticgenealogy.blogspot.com/2020/07/greetings-this-email-is-only-for-those.html)
 does not establish a current extension defect or require an extension change.
+
+When a supplied cluster grid and its dropdown lists differ, preserve both with the kit,
+retrieval date and selected parental view. Record each person's listed groups separately
+from the cross-group cells actually visible in the grid; retain discrepancies and multiple
+observed associations rather than forcing one group per person. If the grid is unavailable,
+mark those associations unverified. The [2025 example](https://dna-explained.com/2025/07/10/how-to-use-ancestrys-new-match-clusters-and-what-they-mean/)
+motivates this comparison without making either representation authoritative or establishing
+current display limits. Check saved manual tags against the recorded observations; neither
+tags nor cross-group cells establish an ancestral path or segment triangulation.
 
 **Output:** a recovered observation with its kit, view, filters and date, or a request naming the missing tester pair. An absent row is “not shown,” never a measured zero.
 

@@ -101,6 +101,15 @@ These are tendencies and single examples, not rules for every war, state or inde
 **Check:** The request identifies the intended claimant and application. An index card supplies
 a locator; it does not substitute for reading the application documents.
 
+When another index-card version or series is actually available for the same supported claim,
+compare its image with the first card. A later file identifier may appear on one version and be
+absent on another; the interview in S14 illustrates this with an XC number. Keep each collection,
+card locator, available filing/transfer dates and number separately, preserving both images
+where permitted. Carry an additional identifier into the custody check without overwriting the
+earlier application/certificate locator. An unresolved mismatch remains open; a missing field on
+one card does not establish that no later identifier exists. Do not assume a particular website
+always supplies the fuller card or that a prefix establishes the file's present location. [S14]
+
 ## 3. Obtain the intended file product and record its limits
 
 1. Check whether the result is only an index image, a selected extract, or a multi-image

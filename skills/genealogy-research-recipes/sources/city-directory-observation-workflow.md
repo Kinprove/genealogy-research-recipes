@@ -61,6 +61,18 @@ The worksheet schemas, validation controls and prompt are original synthesis.
 - **S18:** Ahnenforschung.net Forum, [Adressbücher, Lexika, Verzeichnisse ... in Euren Regalen!](https://forum.ahnenforschung.net/forum/thread/2552-adressb%C3%BCcher-lexika-verzeichnisse-in-euren-regalen/), first post 2 August 2006. Rights: cited reference, not reproduced. Used for recording the fields a volunteer transcription left out or re-sorted.
 - **S19:** J-Roots Forum, [Черта оседлости](https://forum.j-roots.info/viewtopic.php?f=9&t=4132), first post 10 October 2009. Rights: cited reference, not reproduced. Used for comparing a general city directory with a professional directory and house books for one household.
 
+- **S20:** CompGen-Forschungstipps, [Räumliche Visualisierung genealogischer Daten mit dem Programm QGIS](https://www.youtube.com/watch?v=Ct-eZM0TONs),
+  5 June 2023. The presenter describes address-book data dominated by household heads and
+  distinguishes women's marital-status wording from occupational wording. This saved
+  transcript does not establish another edition's inclusion policy. Recording an edition's
+  stated rule and locator, or leaving it unknown, is Kinprove synthesis from that limitation.
+
+- **S21:** Aimee Cross / Ancestry Aimee, [Finding Ancestors’ Addresses: Why They Matter & Where to Look](https://www.youtube.com/watch?v=7U_z66Fl0MQ),
+  5 February 2026. Compares listing-site construction years with a census and a draft-card
+  address date. The recipe's source check and distinction between chronological compatibility,
+  occupancy and unchanged appearance are Kinprove synthesis; the listing years were not
+  independently verified in the demonstration.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

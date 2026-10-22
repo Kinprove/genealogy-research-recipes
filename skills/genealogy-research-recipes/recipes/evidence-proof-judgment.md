@@ -97,6 +97,16 @@ discussions: [Geni](https://www.youtube.com/watch?v=e9DQLOq0x_o),
 [Mayflower study](https://www.youtube.com/watch?v=Uetstsga33c). An application without a flag is not
 thereby verified. These sources give no rate at which approvals are later revised.
 
+When a compiled book gives a relationship or event without an item citation, retain the exact
+passage and inspect its bibliography for the missing source. If the compiler cannot clarify
+it, use the book's named publisher or local historical society to prepare a bounded inquiry
+about that statement and its underlying record. Obtain a record reference and inspect the
+available item, distinguishing an image, transcription or later compilation; retain any gap
+to the original. Cite the book and recovered item separately before reassessing the claim.
+The [Carding Jackson case](https://www.youtube.com/watch?v=UUcoAC0pd_g) follows this route from an
+uncited compiled parentage to a society's baptismal record; it does not establish that every
+publisher holds the source or that a retrieved web item is the archival original.
+
 - **Trace a family tradition to its teller.** Record who first wrote or told the story, their generation, and whether they knew the subject or could have witnessed each episode. A first-person account may describe events from the writer's early childhood, or may have been written as fiction. Ask older relatives whether they heard the story and from whom. Flag a detail that recurs in unrelated families or contradicts the documented procedure. Motivating examples: [grandson's account](https://www.youtube.com/watch?v=qG2YD76a3gk), [novelized memoir](https://www.youtube.com/watch?v=CoxXz-C754c), [recent legend](https://www.youtube.com/watch?v=ekd8yqtdMUE), [shared motif](https://www.youtube.com/watch?v=V6PN8hTtv6c). A contemporaneous record may confirm the event but not the story's extra detail. If elders don't know the story, or the motif turns up elsewhere, the story is weaker but not disproved.
 - **Identity dossier / one-row-per-record descriptor table — and sort it BY descriptor.** Stop expanding the branch, then capture **every** descriptor per record in its own column — the Dewitt case used **40+ columns**: dates, places, occupations, spouses, children, neighbors, signatures, and behavioral **"psychographics"** (the case label "Bad Barney"). The core move is the **sort:** a distinct signature (or cluster of descriptors) surfaces separate people, a matching one unifies records a name alone couldn't — corroborated across the dossier, since a signature can be clerk-written or vary. Have the AI *build* the table; you *read the sort*. (Jan Joyce, RLP 399; From Chaos to Clarity)
 - **Three-bucket identity triage.** Same-name+same-place / same-name+different-place / different-names — each needs a different separation tactic. **Parental sets** and the **FAN** network (Friends, Associates, Neighbors — Elizabeth Shown Mills' term) discriminate same-named people far better than name-spelling variants; for common names, keep candidates in **separate research projects** so records don't cross-contaminate. (Jan Joyce, RLP 399; One Man, Two Same-Named Wives; RLP 288; Seventeen Rules)
@@ -311,6 +321,23 @@ When a woman's marriage entry is lost, search the parish baptisms for her as a s
 When a mother is recorded only by given name and patronymic, look at the godparents at her children's baptisms and the sureties at their marriages for someone who shares her patronymic. Treat that person as a lead to a possible natal family, not as a brother. Then reconstruct the candidate family from a compiled family table of the registers: look for one father with both a son of the sponsor's name and a daughter of the mother's name, at compatible ages. Seek her own baptism or marriage entry to confirm the link; neither thread cited below does. Motivating examples: a [godparent-patronymic test](https://rodgersforum.borda.ru/?1-0-0-00000238-000-0-0-1721744472=) and a [surety-patronymic lead](https://rodgersforum.borda.ru/?1-2-0-00001505-000-0-0-1775639167=). Sponsors need not be kin and patronymics are common, so a fit is a reconstruction until her own record states it.
 
 If one person has a different patronymic or surname in revision lists than in metrical books, keep both forms. Test upbringing in another household in both directions between the two candidate families, A and B: a child born to B raised in A, or a child born to A, raised by B, who later took back the birth name. Check three things. Does the candidate family's birth spacing leave room in the years whose registers are missing? Do the two households stand godparent for each other before and after the gap? What do dated confession lists say about when each wife died? Record which lists you could not consult. Motivating sources: a [patronymic-mismatch case study](https://rodgersforum.borda.ru/?1-0-0-00000238-000-0-0-1721744472=) and a [rough-notes remark](https://rodgersforum.borda.ru/?1-0-0-00000230-000-0-0-1775396698=). The case's author left it a working hypothesis; a good fit proves neither direction nor identity.
+
+## Discover same-name rivals before accepting a census hint
+
+Start from the candidate entry and independently supported name, approximate birth interval
+and locality. Run a separate search in that census year and collection, using only supported
+constraints; include the relevant county and adjoining counties when available. A surname-only
+pass can expose variants where the result set remains reviewable. Record the actual query,
+coverage, result count and candidate record IDs. On Ancestry, check whether active filters
+hide saved or previously viewed results using the [search-recovery recipe](ancestry-record-search-recovery.md)
+before treating the displayed list as the available candidates. (Sources 161–163)
+
+Carry the recovered rivals into the descriptor dossier above, with their images and identifying
+details. Keep initial-only and otherwise ambiguous entries open until checked: the demonstrated
+three-result search still included two unexamined E.-initial alternatives. A low result count
+does not establish uniqueness, and the bounded survey is not an exhaustive search of all people.
+Stop the pass at its stated collection, dates and places; record missing coverage and the next
+discriminating record instead of attaching the preferred entry by elimination. (Sources 161–163)
 
 ## Using working hypotheses without inheriting their assumptions
 

@@ -37,6 +37,19 @@ The index-audit, locator and series-resolution schemas are original synthesis.
   [3 MUST Search Genealogy Records to Find US Ancestors Before 1850](https://www.youtube.com/watch?v=CjjD9mI_dY8),
   23 August 2019. Separate disclaimer deeds and end-of-deed dower releases that name the grantor's
   wife and the date of her examination.
+- **S10:** Dana Leeds,
+  [My First-Hand Experience and Top 10 Tips for Researching at NARA](https://www.danaleeds.com/10_tips_for_nara/),
+  8 December 2023. BLM-linked patent information and land-office/document-number preparation;
+  historical visit and request-form procedures are not a current access contract.
+- **S11:** Dana Leeds,
+  [NARA Land Records: Discovering Family History Details That Aren’t Online](https://www.danaleeds.com/nara-land-records-discovering-family-history-details-that-arent-online/),
+  14 December 2023. Cash-sale, bounty-land and homestead packet components, certificate reverses,
+  person roles and distinct event dates. Fixed page counts, statutory summaries and the
+  author's family conclusions are not adopted.
+- **S12:** Amy, Legacy Tree Genealogists Editor,
+  [Women Homesteaders and the Homestead Act: 160 Acres of Independence](https://www.legacytree.com/blog/women-and-the-homestead-act),
+  5 May 2026. Patent-to-separate-homestead-file distinction and supplied locator leads;
+  no current holdings or request outcome is established by this reference.
 
 ## Credits
 

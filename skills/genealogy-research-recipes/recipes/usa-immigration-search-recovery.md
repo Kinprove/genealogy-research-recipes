@@ -227,6 +227,18 @@ have gone back to bring them over. The
 When separate citizen lists existed depends on the period and port, and neither source shows how
 widespread these practices were.
 
+When possible companions may be on other pages, inventory the available passenger rows
+for one defined sailing. Record its date/ship and page extent; retain each row's page and
+image locator, literal name and place-field heading/value. Mark missing pages or rows rather
+than calling an incomplete extract the whole sailing. Sort complete rows together by the
+recorded place field and name, preserving the original text and checking any split names.
+Compare candidates with a source-linked census or tax neighborhood from a stated later
+date, then inspect the passenger images and keep proposed cross-record identities separate.
+This can expose a possible companion several pages away. Sharing a sailing or neighborhood
+does not establish kinship or identity, and finding no overlap does not disprove the voyage.
+The [passenger-inventory demonstration](https://www.youtube.com/watch?v=xm7HHLneP-E)
+supplies this method; no particular export control or complete index is assumed.[31]
+
 ### 7. Turn a detention mark into an outcome search
 
 **Trigger:** the row contains detention or special-inquiry markings, a
@@ -284,6 +296,15 @@ naturalization database has no result.
    A dismissed petition still has a useful packet; leave later or other
    proceedings unresolved. The [final-order example](https://familylocket.com/back-to-the-basics-with-naturalization-records-part-3/)
    motivates this check without adopting its inconsistent dates or ultimate status narrative.
+
+If residence or property evidence supplies a federal homestead-entry lead, add its
+[separate land-entry file](land-index-book-series-recovery.md#5-carry-a-us-federal-patent-lead-into-its-separate-entry-file)
+to the recovery queue. The [NARA records interview](https://www.youtube.com/watch?v=T9iEw4Zhb7M)
+identifies such packets as a possible location of naturalization papers. Preserve any
+paper's actual title, date and supplied court/reference with its locator inside the land
+file; follow a supplied court lead to the corresponding proceeding. A paper found in a
+land packet does not mean the court file has been inspected. This retrieval lead supplies
+no universal eligibility rule, citizenship conclusion or expected packet size.[29]
 
 **Output:** a court packet, or a court-by-court recovery queue. **Check:** first
 papers are not completed naturalization. NARA generally holds declarations
@@ -356,6 +377,14 @@ research has stalled at a generic USCIS request.
    the form may have moved into an A-File.
 4. For C-Files, use the USCIS Genealogy Program: a known valid certificate/file number allows a [Genealogy Records Request (G-1041A)](https://www.uscis.gov/sites/default/files/document/forms/g-1041ainstr.pdf); without that number, an Index Search Request (G-1041) may be needed first.
    For other records outside the located NARA holdings, consult current USCIS instructions for the identified record type and available identifiers.
+
+Alongside an A-file lead, search supported spouses, former spouses, siblings or travel
+companions as separate file candidates in the catalogues or collections actually available.
+Retain each candidate's own name, identifiers and Contact(s), and compare its identifying
+details before using the file. A related person's file is a possible source about the
+target, not the target's file or proof of the relationship. The
+[related-file search account](https://lostrussianfamily.wpcomstaging.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/)
+supplies this extension; the existing type and custody checks still apply.[30]
 
 **Output:** a request-ready locator packet and named custodian. **Check:** an
 A-number alone proves neither A-File custody nor AR-2 image availability. A

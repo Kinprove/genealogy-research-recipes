@@ -140,6 +140,18 @@ Boolean behavior. Set place and publication-date limits separately. (S9)
 | 11 | One article suggests a longer story. | Search subsequent months for court proceedings, settlement or verdict; revisit former residences for a death mention. Reuse newly recovered witnesses, addresses and institutions as search clues. (S2, S3) | Record each article's publication date and reported event date separately. Do not turn the first report or filing into the final outcome. |
 | 12 | Keywords still fail despite an available likely issue. | Switch retrieval mode: browse its pages directly. For an obituary or marriage item, also search the relevant Newspapers.com index on Ancestry and follow any candidate to the image. (S6, S10) | The index is another access path, not independent corroboration. Check the full notice and its boundaries; inspect missing or inaccessible pages separately. |
 
+When a notice dates an event relative to another date, retain the literal wording and its
+anchor before deriving a date. The demonstrated `ult.` refers to the preceding month; use
+that reading only after checking the notice's context and whether its anchor is the issue
+date, a dated letter or an earlier report. Save `wording | anchor and basis | derived event
+date | uncertainty` separately from the publication date. If a reprint or ambiguous anchor
+prevents a reliable calculation, leave the event date unresolved. (S47)
+
+A request such as "[place] papers please copy" supplies a specific publication-locality
+lead. Preserve the request, then use the title/holding workflow above to search a bounded
+interval in that place. The request neither establishes family residence there nor proves
+that another paper printed it. An actual copied notice remains dependent on its source. (S47)
+
 For an independently documented business/address, also search a successor's advertisement
 and read any wording naming the former operator. Retain the notice date and literal wording
 about the former and current operators as a business-occupancy lead. Correlate dated records before

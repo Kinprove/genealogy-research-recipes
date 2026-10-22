@@ -20,6 +20,12 @@ screenshots, index entries and real family examples are not reproduced.
   [discussion](https://www.youtube.com/watch?v=kG5ylKec2Kg). Used for treating the Ancestry and
   Findmypast indexes as one derived source rather than corroboration, and for retrying a failed
   search on the other platform.
+- **P6:** Aimee Cross / Ancestry Aimee, interview with Natalie Bodle,
+  *What You Need to Know to Start Family History Research in Ireland*, published 2024-05-30 —
+  [interview](https://www.youtube.com/watch?v=Qa-SALvJ9UA). Destination-country origin clues,
+  including a will naming someone still in Ireland and a sibling's records. The locality
+  worksheet and distinction between the named person's residence and the emigrant's origin
+  are Kinprove synthesis; naming patterns and the narrated family identities are not adopted.
 - **O1:** National Library of Ireland, *Help — Catholic Parish Registers*, checked through
   indexed official documentation on 2026-10-07 — [help](https://registers.nli.ie/help?locale=en).
   Parish/map distinctions, name-search limitation, page-level date filters and reading controls.

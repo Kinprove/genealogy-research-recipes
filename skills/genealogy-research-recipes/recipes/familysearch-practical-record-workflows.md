@@ -159,6 +159,14 @@ confirmed the right series. A matching title alone does not establish the right 
 4. Reopen that same item through the permitted route and record the actual outcome.
 5. If viewing works but downloading is disabled, inspect and transcribe the displayed record and preserve its citation.
 
+If the Catalog entry offers a WorldCat link for other copy locations, follow it and retain
+the matching title, creator, edition/volume and listed institutions as retrieval leads.
+Check the prospective holder's own catalog or item-specific response for the needed volume,
+dates and permitted access before planning a visit or request. Keep an unverified listing
+separate from confirmed holdings and an inspected copy. The [Catalog demonstration](https://www.youtube.com/watch?v=0mxyz1mPVpQ)
+shows this alternate-copy route; it does not establish that another institution can supply
+the particular record or remove the original item's restrictions. [S56]
+
 **Artifact:** An access packet: Catalog URL, identifiers, restriction message, attempted location, permitted route and outcome.
 
 **Check:** An access failure leaves the record unexamined. The tutorials warn that some restrictions remain even at center/library computers.
@@ -301,6 +309,16 @@ cited image. It does not say how those pages were found or how common such filmi
 3. Use indexed Records or browse the image group when the material exists outside Full Text.
 4. Save exact queries, filters, groups and a dated coverage observation.
 5. Set a revisit date and rerun the saved searches when material may have been added or processed.
+
+Where Full Text offers an option to include limited-access content, record its displayed
+label and state with the query. The [July 2026 demonstration](https://www.youtube.com/watch?v=gX-d5Szg9XY)
+shows restricted items appearing in the result list while their images remain blocked.
+Compare the same query with the option changed when useful; a zero in a view excluding
+those results does not establish absent holdings. This records visible result scope,
+not which material the backend searched. Save any restricted hit's displayed details
+and locator as an unviewed lead, then use workflow 6 to check its actual access route.
+The hit does not establish the person's identity or the document's contents. Confirm
+the control actually offered; the demonstration is not a current interface guarantee. [S57]
 
 **Artifact:** A coverage/retry log: attempted surfaces and queries, available groups, access state, inspected range, outstanding work and revisit date.
 

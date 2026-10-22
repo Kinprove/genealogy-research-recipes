@@ -99,9 +99,11 @@ authorship does not require a Kinprove account, connector or scoring engine.
   sections with no hit; a gap does not establish a move, death or identity.
 
 - **`recipes/land-index-book-series-recovery.md`** — Follow a land-record lead through
-  both relevant index directions to the correct instrument and record-book series.
+  both relevant index directions to the correct instrument and record-book series,
+  or carry a federal patent lead into its separate entry file.
   *Use for:* grantor/grantee indexes, ambiguous book locators, separate book series,
-  delayed recording or a surname search that missed the alternative index entry.
+  delayed recording, a surname search that missed the alternative index entry,
+  or cash-sale, bounty-land and homestead supporting packets.
   *Core guardrail:* copy the original locator, distinguish instrument and recording
   dates, and report bounded retrieval coverage before interpreting title or kinship.
 
@@ -234,7 +236,8 @@ authorship does not require a Kinprove account, connector or scoring engine.
   and coherent family comparisons across tested ancestors, siblings and descendants.
   *Also use for:* "how are these two families connected", multiple related focal testers,
   repeated descent paths, a long segment in a relative that is shorter/absent in a descendant,
-  mixed-origin segment overhangs, fused clusters, or validating a match's own pedigree.
+  mixed-origin segment overhangs, fused clusters, validating a match's own pedigree,
+  or inspecting supplied ethnicity-region maps and AncestryDNA Journeys timelines for locality-search leads.
   *Use for:* any "can AI/ChatGPT/Claude help me with my DNA / tree / citations", **or** whenever
   you (the assistant) are about to compute or assert something in this domain.
   *Core guardrail:* never fabricate cM→relationship odds (route to the Shared cM Project / DNA
@@ -381,13 +384,19 @@ authorship does not require a Kinprove account, connector or scoring engine.
   A selected Group Time Tree view has its own scope; missing or withheld details
   do not establish an absent lineage, and kit access does not authorize public display.
 
-- **`recipes/dnapainter-practical-dna-workflows.md`** — Six practical DNA Painter operations:
+- **`recipes/dnapainter-practical-dna-workflows.md`** — Ten practical DNA Painter workflows:
   paint measured matches, copy or merge maps of one tester, intersect phased inheritance,
-  calculate provisional missing intervals, combine coordinate spans and plan descendant tests.
+  calculate provisional missing intervals, combine coordinate spans, plan descendant tests,
+  annotate cluster-derived maps, build direct-ancestor gap worklists, audit numeric pair amounts,
+  and inspect Shared cM histograms and two-value range screens.
   *Use for:* Paint a new match, map duplication/CSV transfers, Common Segment Generator,
-  Inferred Segments Generator, Distinct Segment Generator or Coverage Estimator.
+  Inferred Segments Generator, Distinct Segment Generator, Coverage Estimator,
+  Cluster Auto Painter annotations, ancestral-tree reports, sourced numeric pair matrices,
+  or Shared cM histograms and two-value range screens.
   *Core guardrail:* verify the people, chromosome copy and genome build; keep measured
-  comparisons, inferred intervals, coordinate unions and pedigree estimates distinguishable.
+  comparisons, inferred intervals, coordinate unions, pedigree estimates and documentary
+  tree worklists distinguishable. A relationship note does not assign all of a match's intervals;
+  matrix shading does not establish a relationship, and copied names do not supply cM.
 
 - **`recipes/gedmatch-practical-dna-workflows.md`** — Eight GEDmatch workflows:
   establish kit/run baselines, follow shortlist entries into direct comparisons, check

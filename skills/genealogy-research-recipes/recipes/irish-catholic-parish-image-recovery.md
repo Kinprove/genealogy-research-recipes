@@ -15,6 +15,15 @@ FamilySearch and Ancestry recipes for their own search/access tools, source-cita
 construction, and ai-for-documentary-records for handwriting or Latin interpretation. This recipe
 adds the NLI parish, register, filter and image-recovery procedure.
 
+If an emigrant's origin is only "Ireland", first seek a more specific locality in a bounded
+set of destination-country records. In particular, inspect an available will for a named
+executor or beneficiary still in Ireland, and follow a documented sibling's records for an
+origin clue. Record `literal place | person and role | record/date/locator | next locality check`.
+A beneficiary's Irish residence is a locality lead, not the emigrant's birthplace or proof
+of their relationship. Compare the recovered place with the Catholic parish and diocese in
+step 1; do not silently substitute a civil parish or townland. If no sufficiently specific
+place emerges, leave the parish unresolved rather than selecting a same-name family. [P6]
+
 ## 1. Select the Catholic parish and the correct register
 
 Search the NLI parish name or use its map to inspect the locality. Confirm the Catholic parish

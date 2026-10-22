@@ -184,6 +184,13 @@ Keep the proposed correspondence provisional until supported; do not silently co
 The [old-home address example](https://dna-explained.com/2023/04/09/finding-the-old-home-place-with-zillow-52-ancestors-394/)
 motivates the comparison without proving occupancy, identity, a conveyance or renumbering.
 
+Before treating the present building at that address as the historical dwelling, compare its
+construction date with the record date and retain the construction-date source. An unverified
+listing year flags a question; a supported construction date after the record excludes that
+structure, while leaving an earlier building or changed address correspondence to investigate.
+An earlier construction date is only compatible with the historical observation; it proves
+neither occupancy nor that today's appearance is unchanged. [S21]
+
 If an inspected auxiliary section labels a land-register reference, preserve its heading,
 locality, street/house wording and land number separately. Carry the stated reference into
 the [land-index/book-series workflow](land-index-book-series-recovery.md); house, parcel and
@@ -206,6 +213,12 @@ another volume or prove ownership.
 
 **Check:** A gap in a database's editions and an absent entry on inspected pages are different
 results. Neither alone establishes why the person is missing.
+
+Record the edition's stated inclusion rule and its locator beside the coverage row; leave
+that rule unknown when the volume does not establish it. A directory listing household heads
+does not make an unlisted household member absent from the household or locality. CompGen's
+address-book example also distinguishes a woman's marital-status wording from an occupation;
+retain the printed role without inferring employment from it. [S20]
 
 ## Prompt pattern
 

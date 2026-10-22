@@ -76,6 +76,15 @@ cross-file name check reconcile. Carry that scope into the joined table.
 `Family Finder Matches`, export choice `All Matches`, active filters `none`, scope `all`, row count
 `240`, interface count `240`, links as of `2026-10-02`, checks `passed`.
 
+Before an independently authorized upgrade or replacement of an existing Family Finder
+result, preserve the currently available match and segment files, raw data and origins
+report, or the supplied views where exports are unavailable. Record each saved product's
+kit, date and processing/test version, plus anything unavailable to save. Keep later results
+separate. The [2026 upgrade notice](https://blog.familytreedna.com/family-finder-ngs-upgrade/)
+warned that prior results would be removed and described different export access for transfer
+kits. This motivates the preservation checkpoint; it does not establish current deletion,
+recovery or download behavior, or that an uploaded file supplies a specimen for sequencing. [S12]
+
 ### 2. Join matches to segments without collisions
 
 The match file has one row per match; the segment file repeats a match for each reported interval.
@@ -272,6 +281,25 @@ and interval status. **Stop when** the selected roster and displayed values or u
 are preserved, and every interval claim has direct-pair evidence or remains explicitly unverified.
 Route segment trust and triangulation to `xdna-phasing-judgment.md`, and ancestral attribution to
 `ai-for-dna-research.md`.
+
+For a locality or surname question, check whether the authorized focal kit offers a
+project-restricted Family Finder view, such as the Advanced Matches report demonstrated in
+[this 2026 project example](https://www.youtube.com/watch?v=84MgafRdVg0). Save the focal kit,
+selected project, test/filter state, retrieval date, returned identities and displayed
+relationship labels. Record the project's stated admission scope, or `unknown` if unavailable.
+This is a roster of matches to that focal kit within the selected project: membership or
+concentration does not establish origin, an ancestral path or pairwise matching among members.
+Use it as a scoped documentary research queue. The dated demonstration does not establish
+current access or controls.
+
+For a supplied Advanced Matches result using multiple tests, preserve each selected test and
+the displayed combination setting. Establish whether the supplied setting requires a match on
+all selected tests or includes matches on any selected test before using its roster; if that
+scope cannot be verified, record it as unknown. Keep differently configured results separate.
+The [2025 example](https://dna-explained.com/2025/09/02/mitochondrial-dna-a-z-a-step-by-step-guide-to-matches-mitotree-and-mtdna-discover/)
+distinguishes these scopes for mtDNA and Family Finder without establishing current controls
+or a default setting. Matching the focal kit on both tests does not establish that both matches
+come through the same ancestor or descent path. [S11]
 
 ### 7. Inspect the node actually displayed in a supplied time map
 

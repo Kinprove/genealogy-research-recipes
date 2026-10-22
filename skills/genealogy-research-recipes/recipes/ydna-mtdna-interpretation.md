@@ -62,7 +62,7 @@ Label every branch age you quote. Say whether it is a formed age (the split from
 
 ### 2 — NEVER read an exact match at low resolution as "recent"
 
-A **GD-0 at Y-37**, or an **HVR1/HVR2 mtDNA match**, is frequently a **ceiling artifact**: the panel has run out of resolution, so "identical" only means "indistinguishable *at this level*," and the shared ancestor can be **deep-time**. An exact Y-37 match can sit thousands of years back; the same pair often shows real genetic distance once tested at Y-111 or Big Y-700. Think of each level as a **window**: Y-37 is a small pane (wide, blurry timeframe); Big Y-700 is a bay window (a much tighter view). Upgrading routinely makes **distant, irrelevant "matches" disappear** as the allowed-difference thresholds tighten — in one real Schultz project, 37-marker matches (closest still 3 steps away) vanished entirely at 67 and 111. (Your DNA Guide, 2025-10; GeneaVlogger, 2026-04; Family Locket, 2024-01)
+A **GD-0 at Y-37**, or an **HVR1/HVR2 mtDNA match**, is frequently a **ceiling artifact**: the panel has run out of resolution, so "identical" only means "indistinguishable *at this level*," and the shared ancestor can be **deep-time**. An exact Y-37 match can sit thousands of years back; the same pair often shows real genetic distance once tested at Y-111 or Big Y-700. Upgrading routinely makes **distant, irrelevant "matches" disappear** as the allowed-difference thresholds tighten — in one real Schultz project, 37-marker matches (closest still 3 steps away) vanished entirely at 67 and 111. (Your DNA Guide, 2025-10; GeneaVlogger, 2026-04; Family Locket, 2024-01)
 
 - **Trust:** "exact at low resolution ⇒ *unresolved*, could be recent or ancient — upgrade to find out." For mtDNA, only the **full sequence** is worth interpreting, and even then not for recent/geographic claims. A Romanian mtDNA peak that also lights up Hungary may just be a **sibling line** — there is little you can reliably conclude from it. (GeneaVlogger, 2025-09)
 - **Never:** "you match exactly, so you're closely related," or an mtDNA HVR/region match as evidence of a specific place or recent maternal ancestor.
@@ -157,6 +157,41 @@ The output is **tester → documented path → test/tree → SNP → reported st
   [Big Y Block Tree case](https://www.youtube.com/watch?v=bEDj6kd-15Q) motivate this tabulation.
 - **mtDNA is a weak genealogical instrument by design** — slow mutation, fewer testers, wide match ranges. Great for *eliminating* a direct-maternal-line hypothesis, poor for *pinning* a relationship.
 - **An mtDNA label is only as deep as the positions behind it.** Record the tool, the tree build and the regions sequenced. For each candidate, record the matched, extra and untested or no-call defining positions. HVR-only data support at most the shared parent of tied sibling subclades, so keep a deeper label provisional until coding-region calls support it ([predictor report](https://forum.molgen.org/index.php/topic,1856.0.html); [predictor output](https://forum.molgen.org/index.php/topic,2099.0.html); [tie resolved by full sequence](https://forum.molgen.org/index.php/topic,2548.0.html); [preset panels](https://forum.molgen.org/index.php/topic,3315.0.html); [control-region remark](https://genarchivist.net/showthread.php?tid=95)). Check the base each mutation requires against the observed base, reading '!' by the tree's convention ([notation discussion](https://genarchivist.net/showthread.php?tid=1987)). Read a label's parent from the tree path, not from its letters, and after an update check whether the branch was renamed or actually moved ([Mitotree label discussion](https://genarchivist.net/showthread.php?tid=1161)). When labels or providers disagree, tabulate each node's defining mutations and their stability instead of adopting either label ([placement discussion](https://genarchivist.net/showthread.php?tid=84); [coverage discussion](https://genarchivist.net/showthread.php?tid=32)). None of these sources measures accuracy. Route the current label to Mitotree.
+
+## Keep an ancient-sample catalogue query separate from ancestry inference
+
+For a supplied ancient-sample catalogue, retain its source and date/version alongside the
+tester's externally reported haplogroup and assay/test level. Search the exact supplied
+label and record the query and returned specimen IDs. If a downstream Y label is absent,
+use an actually supplied or inspected tree to record each upstream label tried; do not
+invent the hierarchy. An unavailable tree or unknown test resolution stays unresolved.
+The [dated British Isles catalogue example](https://dna-explained.com/2022/02/01/dna-from-459-ancient-british-isles-burials-reveals-relationships-does-yours-match/)
+supplies this search step.
+
+Keep each specimen's reported sex, burial/location, dated interval and original or
+reanalysed haplogroup labels with their source references, as available. Record a linked
+tree's observed placement separately, or mark it unavailable. A no-hit concerns only the
+catalogue and labels searched; its coverage is not established by that result. A returned
+specimen is a catalogue lead, not the tester's closest ancient relative, direct ancestor,
+birthplace or migration route. No sequence comparison or relationship estimate follows
+from the label lookup.
+
+## Inventory lineage and test coverage before choosing another tester
+
+Keep separate Y-DNA and mtDNA lineage rows. For each documented line, record its nearest
+represented person, ordered upstream ancestors, sources and unresolved links, then attach
+the existing tester and actual test type/level. Several ancestors in the same line need
+not become separate testing targets. Keep a tree-page navigation bookmark in its own
+field: the person used to open the next pedigree page may belong to a different lineage.
+The [lineage worksheet example](https://dna-explained.com/2025/02/23/lineages-versus-ancestors-how-to-find-and-leverage-yours/)
+supplies this organizational step.
+
+State the unanswered question beside each row and whether the available assay can address
+it; retain an unknown assay or insufficient resolution as unresolved. A missing result
+can become a search for an eligible descendant, including through another child of an
+upstream ancestor. Verify the required descent path before proposing that person as a
+tester. The register organizes coverage and next questions; it does not establish a DNA
+relationship or authorize contacting, testing or sharing another person's data.
 
 ## Build a maternal pedigree and locality worklist
 
