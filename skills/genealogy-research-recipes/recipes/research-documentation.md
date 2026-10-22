@@ -42,15 +42,6 @@ every query run or every result inspected and dismissed, so do not turn it into 
 [Family History Fanatics recovery example](https://www.youtube.com/watch?v=BSOrsobztYY) motivates
 this step without naming a tool or making extraction from record pages automatic.
 
-For a broken link to a historical genealogy page, retain the exact original URL and check
-an available web archive, such as the Internet Archive's Wayback Machine, for a dated capture.
-If one is available, inspect it and record the archive URL, capture date and access date;
-keep any known original publication date separate. Record missing pages, images and linked
-material individually. No usable capture means the page remains unavailable. An archived tree
-or transcription keeps that source role; retrieval adds neither independent corroboration nor
-proof of kinship. Roberta Estes's [2026 broken-link example](https://dna-explained.com/2026/10/02/focus-step-1-seven-solutions-for-dna-matches-with-absent-or-shrunken-trees/)
-supplies this recovery route, without guaranteeing a capture or the site's current content.
-
 When building a timeline, keep the date as written, its source locator and stated precision
 separate from any derived sort key. If software supplies a synthetic first day to order a
 month-only date, label that value as an ordering convention and do not export it as the event
@@ -200,28 +191,33 @@ before ordering; the example establishes no present fee, service or certificatio
 
 ## Find a manuscript collection's holder
 
-For a supported manuscript lead, search an available cross-repository catalogue by the
-named creator and, separately, a distinctive relevant subject such as an organization.
-Retain both queries and follow a matching collection description or finding aid to the
-holding institution's catalogue. Check the actual collection, series and date coverage
-before queuing a target; a name in a description is not an inspected personal record.
-The [university-archives interview](https://familylocket.com/rlp-284-university-archives-with-sam-howes/)
-demonstrates creator and subject searches in ArchiveGrid. It also reports incomplete
-participation: preserve an aggregator miss as that search's result and check a relevant
-holder's own catalogue when supported by a separate lead. Use the onsite preparation
-checks above for any described material you plan to request.
+For a supported manuscript lead, switch to
+[manuscript collection recovery](manuscript-collection-recovery.md) for the creator and subject
+searches in cross-repository catalogues, the trace from a collection description to the holder's
+own catalogue, and the request states. The
+[university-archives interview](https://familylocket.com/rlp-284-university-archives-with-sam-howes/)
+demonstrates creator and subject searches in ArchiveGrid and reports its incomplete participation.
 
 ## Recover a dated page behind a dead citation
 
-For a known URL with available archived captures, inspect the page content as well as the
-capture date. Several later captures may preserve only an error page. Move back to a
-content-bearing capture, then inspect later available versions for the needed pre-change
-page. Record the original URL, archive URL and timestamp, inspected dates and actual
-content or error state; keep any pointer to the underlying source.
+For a broken link to a historical genealogy page, retain the exact original URL and check
+an available web archive, such as the Internet Archive's Wayback Machine, for a dated capture.
+Inspect each available capture's page content as well as its capture date: several later
+captures may preserve only an error page. Move back to a content-bearing capture, then inspect
+later available versions for the needed pre-change page. Record the original URL, archive URL
+and capture timestamp, inspected dates, access date and actual content or error state; keep any
+known original publication date separate, and keep any pointer to the underlying source. Record
+missing pages, images and linked material individually. No usable capture means the page
+remains unavailable. An archived tree or transcription keeps that source role; retrieval adds
+neither independent corroboration nor proof of kinship. Roberta Estes's
+[2026 broken-link example](https://dna-explained.com/2026/10/02/focus-step-1-seven-solutions-for-dna-matches-with-absent-or-shrunken-trees/)
+supplies this recovery route, without guaranteeing a capture or the site's current content.
+
 The [digital-publications demonstration](https://www.youtube.com/watch?v=a-539DY1aak)
-shows this temporal search. A surviving page does not mean its search form or database
-was preserved: report failed controls and missing captures as retrieval gaps. An archived
-page's date or an unavailable search does not establish record absence or the truth of its claims.
+shows the temporal search across captures. A surviving page does not mean its search form or
+database was preserved: report failed controls and missing captures as retrieval gaps. An
+archived page's date or an unavailable search does not establish record absence or the truth
+of its claims.
 
 ## Keep next actions linked to their origin
 

@@ -70,11 +70,10 @@ same index entry, cite it as a second access path (see the two-provider rule bel
 [GRO index example](https://www.youtube.com/watch?v=QuCBcmiFGFg) motivate this step. Neither
 establishes how any site's links behave today.
 
-If a cited web URL no longer resolves, try that original URL in the Wayback Machine.
-If an archived copy opens, inspect what it actually contains and retain the original URL,
-archived-capture URL and timestamp, and your access date separately. Cite the capture you
-inspected; its timestamp is not the record's creation date. Missing captures or linked material
-remain gaps.
+If a cited web URL no longer resolves, recover a dated capture with the
+[dead-citation procedure](research-documentation.md#recover-a-dated-page-behind-a-dead-citation).
+Cite the capture you inspected, retaining the original URL, archived-capture URL and timestamp,
+and your access date separately; its timestamp is not the record's creation date.
 
 The [historical lookup example](https://www.youtube.com/watch?v=OHDYkHli39k) motivates this
 fallback. [Internet Archive's capture-data documentation](https://archive.org/help/wayback_api.php)
