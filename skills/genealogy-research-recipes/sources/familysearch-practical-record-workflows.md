@@ -60,7 +60,7 @@
 - **S56:** Aimee Cross, *The FamilySearch Catalog: Where the REAL Wealth is Hidden*, published 2026-05-21 — [source](https://www.youtube.com/watch?v=0mxyz1mPVpQ). Catalog-to-WorldCat copy-location leads; prospective holdings and access require separate verification.
 - **S57:** Aimee Cross, *DON'T MISS this IMPORTANT Full Text Search Update 2026*, published 2026-07-23 — [source](https://www.youtube.com/watch?v=gX-d5Szg9XY). Observed limited-access result scope and blocked-image leads; no backend-search behavior, current access or identity conclusion is adopted.
 - **S58:** MyHeritage, *We're live with Gena Philibert-Ortega about researching your female ancestors!*, published 2020-12-17 — [source](https://www.youtube.com/watch?v=LaqAID03XqM). The episode motivates following an inspected entry's subject links to related titles.
-- **S59:** FamilySearch Help Center, *How do I use the FamilySearch Catalog to learn about the digitized historical records on FamilySearch?*, article 828, dated 2026-07-14 — [source](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-the-catalog-to-learn-more-about-the-collections-in-historical-records). Its indexed step 6 supports Locality Subject and Subject links for related items; inspected 2026-10-21.
+- **S59:** FamilySearch Help Center, *How do I use the FamilySearch Catalog to learn about the digitized historical records on FamilySearch?*, article 828, dated 2026-07-14 — [source](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-the-catalog-to-learn-more-about-the-collections-in-historical-records). Its step 6 supports Locality Subject and Subject links for related items; inspected 2026-10-21.
 
 ### Source qualifications
 
