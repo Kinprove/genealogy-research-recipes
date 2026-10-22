@@ -282,7 +282,7 @@ county conveyance indexes.
    separate; an absent entry-file number is not supplied by relabelling the patent number.
    The [NARA preparation account](https://www.danaleeds.com/10_tips_for_nara/) shows a
    BLM-linked locator worksheet, not a universal current request form. [S10]
-2. Identify the entry class from the document or finding description. The source cases
+2. Identify the entry class from the document or finding description. The cited cases
    include cash sales, bounty-land military warrants and homestead entries. Follow the
    actual custodian's instructions for that class and period to identify the corresponding
    file/series locator; record unresolved class, custody or access separately. A patent
