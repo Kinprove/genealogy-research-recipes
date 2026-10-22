@@ -152,7 +152,7 @@ segments or every member of its cluster to one parental side or ancestor.
 ## 8. Turn a direct-ancestor tree into a bounded research worklist
 
 An ancestral tree starts with the person whose ancestors are being examined. It differs from
-the descendancy tree used by the Coverage Estimator in workflow 6. The saved tutorials describe
+the descendancy tree used by the Coverage Estimator in workflow 6. The tutorials describe
 GEDCOM root selection, tree completeness and repeated-path views, and a separate Brick Walls
 report. Treat their button names, limits and defaults as dated descriptions. [S12, S13, S14]
 

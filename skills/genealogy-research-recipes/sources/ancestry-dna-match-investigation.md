@@ -20,7 +20,7 @@
 - [Comparing AncestryDNA Matches](https://help.ancestry.com/hc/en-us/articles/53933331053331-Comparing-AncestryDNA-Matches) — distinguishes public, private and unlinked trees; access to tree features depends on the account.
 - [Linking a Tree to AncestryDNA Results](https://help.ancestry.com/hc/en-us/articles/53933332359187-Linking-a-Tree-to-AncestryDNA-Results) — DNA-to-tree linking is a separate association.
 - [Assigning a Home Person in a Tree](https://help.ancestry.com/hc/en-us/articles/53933270285715-Assigning-a-Home-Person-in-a-Tree) — the home person may be any person in the tree.
-- Ancestry, ["AncestryDNA | What To Do With All Those Matches"](https://www.youtube.com/watch?v=kv3_JCWUF-s), 2013-01-18 — historical motivation for checking unlinked trees and distinguishing the home person from the tester; saved transcript inspected. Original video screens and the current signed-in interface were not inspected.
+- Ancestry, ["AncestryDNA | What To Do With All Those Matches"](https://www.youtube.com/watch?v=kv3_JCWUF-s), 2013-01-18 — historical motivation for checking unlinked trees and distinguishing the home person from the tester; narration reviewed. Original video screens and the current signed-in interface were not inspected.
 
 These additions use the provider's current written documentation for the stated distinctions,
 without claiming a live interface test. They are original synthesis; no source passage is reproduced.
@@ -29,7 +29,7 @@ without claiming a live interface test. They are original synthesis; no source p
 
 - [Assigning Relationships to AncestryDNA Matches](https://help.ancestry.com/hc/en-us/articles/53933287432211-Assigning-Relationships-to-AncestryDNA-Matches) — current written guidance on manual relationship assignments replacing predictions and their viewing scope.
 - [Matches by Parent](https://help.ancestry.com/hc/en-us/articles/53933348047251-Matches-by-Parent) — distinguishes parental inference/orientation from individual manual labels and describes a user-made indication.
-- Ancestry, ["What's New at Ancestry: June 2021"](https://www.youtube.com/watch?v=fBB_OgWJZBY), 2021-06-10 — saved transcript motivates the display-provenance check; original video screens and a current signed-in account were not inspected.
+- Ancestry, ["What's New at Ancestry: June 2021"](https://www.youtube.com/watch?v=fBB_OgWJZBY), 2021-06-10 — the narration motivates the display-provenance check; original video screens and a current signed-in account were not inspected.
 
 The operational check is original synthesis using current written documentation;
 the historical control sequence and example probabilities are not carried forward.
@@ -63,7 +63,7 @@ the historical control sequence and example probabilities are not carried forwar
 - Larkin, Leah. "AncestryDNA Updates Their Relationship Predictions." The DNA Geek, 2026-07-24. [Article](https://thednageek.com/ancestrydna-updates-their-relationship-predictions/) (method 6)
 - Larkin, Leah. "Working with WATO: Centimorgan Adjustments." The DNA Geek, 2021-06-05; updated 2022-03-29. [Article](https://thednageek.com/working-with-wato-centimorgan-adjustments/) (method 8; independent check of company-specific totals)
 - Leeds, Dana. "The Order of AncestryDNA's Colored Dots." 2023-03-27. [Article](https://www.danaleeds.com/the-order-of-ancestrydnas-colored-dots/) (method 4)
-- Southard, Diahan / Your DNA Guide. "AncestryDNA ThruLines." 2020-04-10. [Video](https://www.youtube.com/watch?v=em_dMWtbJ-s) (method 5; saved transcript's child-path count example and one-generation-higher comparison). The per-match path register, dependent-tester checks and retained unknowns are synthesis. Historical counts are not adopted as subtraction, probability or parentage proof; current interface behavior remains unverified.
+- Southard, Diahan / Your DNA Guide. "AncestryDNA ThruLines." 2020-04-10. [Video](https://www.youtube.com/watch?v=em_dMWtbJ-s) (method 5; the video's child-path count example and one-generation-higher comparison). The per-match path register, dependent-tester checks and retained unknowns are synthesis. Historical counts are not adopted as subtraction, probability or parentage proof; current interface behavior remains unverified.
 
 - Estes, Roberta. "How to Use Ancestry's New Match Clusters and What They Mean." DNAeXplained, 2025-07-10. [Article](https://dna-explained.com/2025/07/10/how-to-use-ancestrys-new-match-clusters-and-what-they-mean/) (method 7). The dated example describes grid/dropdown differences, multiple associations and checking saved tags. Separate observation records, unresolved discrepancies and unavailable-view states are Kinprove synthesis; current limits, current behavior and ancestral attribution are not established.
 

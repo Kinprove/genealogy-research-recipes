@@ -110,7 +110,7 @@ photographs, database rows and real family examples are not reproduced.
 - **P24:** Amy Johnson Crow, *The photo you NEED at the cemetery!*, published 2023-08-08 —
   [short tutorial](https://www.youtube.com/watch?v=16ilrQ7MP-8). Photographing the cemetery
   sign at the start of a visit. Linking actual supplied image IDs and retaining an absent
-  context image as a gap are Kinprove synthesis; the saved transcript ends before its
+  context image as a gap are Kinprove synthesis; the available transcript ends before its
   alternative for an unsigned cemetery is complete.
 - **O1:** JewishGen, *JOWBR FAQ*, checked 2026-10-07 —
   [documentation](https://www.jewishgen.org/databases/Cemetery/JOWBR_FAQ.htm).
@@ -135,11 +135,11 @@ photographs, database rows and real family examples are not reproduced.
   11 September 2018. The narrated family monuments have inscriptions on multiple surfaces
   and name people reportedly buried elsewhere. Surface coverage and person-specific location
   fields are procedural synthesis; no original inscription, burial record or identity was
-  independently inspected. The saved narration ends mid-phrase and does not establish the
-  complete original video's extent.
+  independently inspected. The available transcript ends mid-phrase, so it may not cover the
+  whole video.
 
 - **P27:** Genealogy TV, [Great Family History Ideas - Genealogy TV (Podcast)](https://www.youtube.com/watch?v=NMcfeyT55ao),
-  26 September 2025. The saved narration describes reflected or flashlight illumination held
+  26 September 2025. The narration describes reflected or flashlight illumination held
   to one side during inscription photography. The optional capture instruction and view/uncertainty
   controls are procedural synthesis. No before/after photographs, recovered inscription or
   conservation assessment were independently inspected; no physical treatment is prescribed.

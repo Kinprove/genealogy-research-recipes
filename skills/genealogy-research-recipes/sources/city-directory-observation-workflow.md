@@ -65,8 +65,8 @@ The worksheet schemas, validation controls and prompt are original synthesis.
 
 - **S20:** CompGen-Forschungstipps, [Räumliche Visualisierung genealogischer Daten mit dem Programm QGIS](https://www.youtube.com/watch?v=Ct-eZM0TONs),
   5 June 2023. The presenter describes address-book data dominated by household heads and
-  distinguishes women's marital-status wording from occupational wording. This saved
-  transcript does not establish another edition's inclusion policy. Recording an edition's
+  distinguishes women's marital-status wording from occupational wording. This
+  talk does not establish another edition's inclusion policy. Recording an edition's
   stated rule and locator, or leaving it unknown, is Kinprove synthesis from that limitation.
 
 - **S21:** Aimee Cross / Ancestry Aimee, [Finding Ancestors’ Addresses: Why They Matter & Where to Look](https://www.youtube.com/watch?v=7U_z66Fl0MQ),

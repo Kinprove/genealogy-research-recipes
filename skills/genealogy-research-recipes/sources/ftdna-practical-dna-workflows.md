@@ -56,7 +56,7 @@ rules are original Kinprove synthesis.
 Additional project-roster example:
 
 - **S18:** FamilyTreeDNA, [Irish Ancestry & Brick Walls: How Geographical Group Projects Reveal Your Roots](https://www.youtube.com/watch?v=84MgafRdVg0), 2026-03-17.
-  The saved demonstration selects Family Finder and a project in Advanced Matches to list
+  The demonstration selects Family Finder and a project in Advanced Matches to list
   matches to the focal kit within that project. It also describes different admission scopes
   for a broad geographical project and its subprojects. These are historical observations;
   no current signed-in interface was verified. The conditional availability check, saved
@@ -73,8 +73,8 @@ Additional combined-test scope example:
 
 Additional preservation trigger:
 
-- **S12:** Katy Rowe-Schurwanz, [Zoom In on Your Roots: Upgrading Your Family Finder® to Next-Generation Sequencing](https://blog.familytreedna.com/family-finder-ngs-upgrade/), FamilyTreeDNA Blog, 2026-08-18 (saved publication metadata).
-  The saved notice warns about replacement of previous results and advises downloads or
+- **S12:** Katy Rowe-Schurwanz, [Zoom In on Your Roots: Upgrading Your Family Finder® to Next-Generation Sequencing](https://blog.familytreedna.com/family-finder-ngs-upgrade/), FamilyTreeDNA Blog, 2026-08-18.
+  The notice warns about replacement of previous results and advises downloads or
   screenshots before an upgrade, with different availability for transfer kits. Preserving
   available products before an independently authorized change, recording unavailable states
   and separating result versions are Kinprove synthesis. Current removal, recovery, transfer
@@ -84,7 +84,7 @@ Additional combined-test scope source:
 
 - **S19:** Genealogy TV, interview with Roberta Estes,
   [Roberta Estes Explains the NEW UPDATES for Mitochondrial DNA (mtDNA)](https://www.youtube.com/watch?v=essG5JYMERw),
-  2025-04-03. The saved discussion describes separate kit identities preventing the intended
+  2025-04-03. The discussion describes separate kit identities preventing the intended
   Advanced Matching intersection. The test-to-kit crosswalk and unavailable-query status are
   authored controls. No signed-in query, current merge/transfer policy, purchase or upload
   was verified; a match across tests does not identify a single ancestral path.

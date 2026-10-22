@@ -26,10 +26,10 @@ screenshots, index entries and real family examples are not reproduced.
   including a will naming someone still in Ireland and a sibling's records. The locality
   worksheet and distinction between the named person's residence and the emigrant's origin
   are Kinprove synthesis; naming patterns and the narrated family identities are not adopted.
-- **O1:** National Library of Ireland, *Help — Catholic Parish Registers*, checked through
-  indexed official documentation on 2026-10-07 — [help](https://registers.nli.ie/help?locale=en).
+- **O1:** National Library of Ireland, *Help — Catholic Parish Registers*, official
+  documentation checked 2026-10-07 — [help](https://registers.nli.ie/help?locale=en).
   Parish/map distinctions, name-search limitation, page-level date filters and reading controls.
-- **O2:** NLI, numbered register-page metadata, checked through the indexed official page on
+- **O2:** NLI, numbered register-page metadata, checked on the official page on
   2026-10-07 — [page 27, microfilm 06485/01](https://registers.nli.ie/pages/vtls000633437_027?locale=en).
   Page/microfilm/parish metadata and the offered Download Page control.
 

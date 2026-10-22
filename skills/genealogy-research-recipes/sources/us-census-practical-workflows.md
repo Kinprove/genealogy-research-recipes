@@ -5,7 +5,7 @@
 
 ### Source register
 
-Recorded publication dates are listed below. Workflow numbers show which procedures
+Publication dates are listed below. Workflow numbers show which procedures
 draw on each source.
 
 | ID | Source | Recorded date | Recipes |
@@ -66,7 +66,7 @@ draw on each source.
 | S59 | [GeneaVlogger, Building Martin Luther King Jr's Family Tree](https://www.youtube.com/watch?v=-CxvuPelZ4I) Used for the informant mark and comparing the enumerator's handwriting. | 2024-01-20 | 6 |
 | S60 | [GeneaVlogger, Identifying a Town of Origin for Jewish Genealogy](https://www.youtube.com/watch?v=g5aMe7oUW_A) Used for relationship read from the informant's view. | 2021-08-04 | 6 |
 | S61 | [Family History Fanatics, FamilySearch Record Search Strategies : FHF Live](https://www.youtube.com/watch?v=CC-6uGAuSiY) Used for grandmother mislabelled and indexed under the head's surname. | 2020-05-30 | 6 |
-| S62 | BYU Family History Library, Kathryn Grant, [Ready for Temple Work? Top Tips for Checking Names in FamilySearch](https://www.youtube.com/watch?v=Dtl6pnXMiEY); plus [BYU Family History Library video cZZ2IbQSyPc](https://www.youtube.com/watch?v=cZZ2IbQSyPc) (title and date not given) Used for testing a 1930 age-at-first-marriage entry against a known marriage, and for testing 1900 years-married against children's ages. | 2018-08-27 | 7 |
+| S62 | BYU Family History Library, Kathryn Grant, [Ready for Temple Work? Top Tips for Checking Names in FamilySearch](https://www.youtube.com/watch?v=Dtl6pnXMiEY); plus [BYU Family History Library, Julie Wilcox, Tips and Tricks for Improving Your Search Results](https://www.youtube.com/watch?v=cZZ2IbQSyPc) (2024-06-05) Used for testing a 1930 age-at-first-marriage entry against a known marriage, and for testing 1900 years-married against children's ages. | 2018-08-27 | 7 |
 | S63 | [BYU Family History Library, Kathryn Grant, Easy Ways to Improve Data Quality in FamilySearch Family Tree](https://www.youtube.com/watch?v=S7NX-GnX4UU) Used for testing children's census surnames against birth registrations and a mother's earlier marriage. | 2024-10-29 | 7 |
 | S64 | [Genealogy Gems, Episode 110 - Turn of the Century Divorce, and The Photo Detective at Who Do You Think You Are?](https://www.youtube.com/watch?v=SExmNq646NM) Used for the quoted Census Bureau statement that divorced people reported themselves as single or widowed, and the living-spouse search. | 2016-12-23 | 7 |
 | S65 | [Lisa Lisson, Tuesday's Genealogy Tip - Widows and Widowers](https://www.youtube.com/watch?v=Hi9QQZG8JoI) Used for treating 'widowed' as reported status with divorce, abandonment or bigamy as alternatives. | 2015-06-10 | 7 |
@@ -86,7 +86,7 @@ draw on each source.
 | H4 | [U.S. Census Bureau, 1880 Instructions to Enumerators, Schedule No. 1](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1880/1880-instructions.html) | 1880 instructions reproduced; checked 2026-10-21 | 7 |
 | S76 | [Ancestry, Hidden Treasures on Ancestry, featuring Juliana Szucs](https://www.youtube.com/watch?v=UtoRoxYo2JE) | 2020-03-18 | 5 |
 | H5 | [U.S. Census Bureau, 1890 veterans special schedule, form image](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890veteranscensus.jpg) | 1890 form reproduced; checked 2026-10-21 | 5 |
-| H6 | [U.S. Census Bureau, 1890 Instructions to Enumerators, Special Schedule, printed page 45](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890instructions.pdf) | 1890 instructions; indexed excerpt checked 2026-10-21 | 5 |
+| H6 | [U.S. Census Bureau, 1890 Instructions to Enumerators, Special Schedule, printed page 45](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890instructions.pdf) | 1890 instructions; excerpt checked 2026-10-21 | 5 |
 
 S68 supplies a neighborhood-to-earlier-household research route and named-person searches
 in deeds, probate and claims testimony. Its property-value threshold and broad assumptions
@@ -98,10 +98,10 @@ presentation is difficult to read. The matching-locator and reading-copy checks 
 Kinprove synthesis; dated viewer placement and claims of provider superiority are not
 adopted. Copies of the same entry remain one underlying record.
 
-S70's saved transcript describes consulting 1790 and 1800 blank forms when original
+S70 describes consulting 1790 and 1800 blank forms when original
 headings are missing. Matching the actual schedule and retaining uncertain assignments
 are workflow safeguards. No original schedule, blank-form payload, private handout or
-current download route was inspected for this amendment.
+current download route was inspected for this recipe.
 
 S71 narrates an infant age in months, a nonnumeric calculation error, clearing a value
 and removing the infant before filling relative references. Preserving the person and
@@ -121,7 +121,7 @@ the spouses' calculated periods does not prove that their first marriages were t
 other, and the procedure does not promise a one-year bound on reported-age error.
 
 S74 contributes the informant-mark example. The complete paragraph 446 in the official
-indexed reproduction H2 specifies column 7's circled X and the left-margin name of an
+reproduction H2 specifies column 7's circled X and the left-margin name of an
 outside informant. Verification covers that paragraph's text, not a visual reading of
 the full PDF or an original household. The demonstration's literacy explanation and any
 assumption that one informant supplied or knew every answer are not adopted.

@@ -118,7 +118,7 @@ the relevant workflow. Community references:
     eligibility assertion, digitization heuristic and typical page count are excluded.
 30. Vera Miller, Lost Russian & Ukrainian Family, *NARA quietly expands two databases
     of its most valuable immigration collections to 2.5 million files*, 26 September 2026.
-    <https://lostrussianfamily.wpcomstaging.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/>
+    <https://lostrussianfamily.wordpress.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/>
     Related-person A-file searches across available catalogues; individual identity and
     locator checks are Kinprove synthesis. The title's count, fixed birth-year coverage,
     wildcard syntax, fees and delivery claims are not adopted as current service facts.
@@ -132,7 +132,7 @@ the relevant workflow. Community references:
 32. Nicole Dyer and Diana Elder, Family Locket, *RLP 260: Shipindex with Peter
     McCracken*, 3 July 2023.
     <https://familylocket.com/rlp-260-shipindex-with-peter-mccracken/>
-    The saved interview supports vessel-name bibliography searches, following citations
+    The interview supports vessel-name bibliography searches, following citations
     to holdings and comparing same-name ships or different voyages. It does not verify
     current index controls, subscriptions, holding availability or the cited originals.
 

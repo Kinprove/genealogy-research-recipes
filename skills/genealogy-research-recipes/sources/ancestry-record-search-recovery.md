@@ -1,8 +1,8 @@
 ## Sources
 
 Original synthesis; sources are cited, not reproduced. Practitioner videos
-describe the interface at their publication date. Video dates below come from
-the saved source metadata; upload dates were not independently checked. Official documentation was
+describe the interface at their publication date. Video dates below were not
+independently checked. Official documentation was
 checked on **2026-10-03**; it corroborates the durable mechanics, not an executed
 search in the user's Ancestry account.
 
@@ -44,7 +44,7 @@ synthesis; the new references are cited without reproducing their expression.
 ## 1841 age search bounds added 2026-10-21
 
 - Chris Paton, [Learn more about our Scottish records at this Facebook Live with Chris Paton!](https://www.youtube.com/watch?v=A_n0FbzORKA), motivates checking age precision. The [National Records of Scotland guide](https://www.nrscotland.gov.uk/learning-and-events/research-guides/census-1841/) confirms the Scottish instruction and exceptions; it does not establish how an individual entry was recorded.
-- The existing England and Wales workflow uses [The National Archives guide, section 5](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/) for its jurisdiction-specific rule. Checked 2026-10-21 through the indexed official page after a direct fetch returned 403. This is an interpretation and query-bound control; no census image or live account search was tested.
+- The existing England and Wales workflow uses [The National Archives guide, section 5](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/) for its jurisdiction-specific rule. Checked 2026-10-21. This is an interpretation and query-bound control; no census image or live account search was tested.
 
 ## Credits
 

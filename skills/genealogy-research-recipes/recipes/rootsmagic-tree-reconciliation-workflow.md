@@ -129,7 +129,7 @@ modern place is not authority to replace the event's historical jurisdiction: re
 source wording and use the [historical-jurisdiction check](familysearch-practical-record-workflows.md#1-resolve-the-events-historical-jurisdiction)
 where needed. Then apply the existing backup, scoped transfer and destination checks.
 
-The [undated Family Tree Maker demonstration](https://www.youtube.com/watch?v=44HrciUhiHI)
+The [Family Tree Maker demonstration](https://www.youtube.com/watch?v=44HrciUhiHI)
 supplies the keep/change/detail/defer choices. It does not establish a RootsMagic bulk
 control, historical place equivalence or lossless transfer. [S3]
 

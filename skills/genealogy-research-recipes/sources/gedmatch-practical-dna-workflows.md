@@ -64,7 +64,7 @@ their numeric presets):
   Separate AutoCluster and AutoSegment numbering, multiple memberships, per-tool result
   availability and segment-group members outside an AutoCluster. The run/report/kit crosswalk
   and unresolved-identity controls are synthesis. Current access, thresholds and interface,
-  triangulation assertions and predicted-tree model validity are not established by this capture.
+  triangulation assertions and predicted-tree model validity are not established by this source.
 
 GEDmatch-hosted documentation and tutorials, retrieved 2026-10-04. Retrieval confirms the public
 page's contents; it does not verify the signed-in interface or current access level:

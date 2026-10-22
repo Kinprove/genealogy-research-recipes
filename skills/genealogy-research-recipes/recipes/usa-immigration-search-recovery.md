@@ -398,7 +398,7 @@ companions as separate file candidates in the catalogues or collections actually
 Retain each candidate's own name, identifiers and Contact(s), and compare its identifying
 details before using the file. A related person's file is a possible source about the
 target, not the target's file or proof of the relationship. The
-[related-file search account](https://lostrussianfamily.wpcomstaging.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/)
+[related-file search account](https://lostrussianfamily.wordpress.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/)
 supplies this extension; the existing type and custody checks still apply.[30]
 
 **Output:** a request-ready locator packet and named custodian. **Check:** an
