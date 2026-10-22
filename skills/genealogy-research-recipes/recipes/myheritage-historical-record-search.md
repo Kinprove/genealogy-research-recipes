@@ -136,6 +136,13 @@ A property advertisement or legal notice may identify an address without naming 
 Use period occupation terms, street-name variants and relevant local vocabulary. A contextual hit
 locates a page to read; it does not establish who occupied the address at another date. [S2, S3, S6]
 
+For a documented local business, locality and period, consider an available local school yearbook
+from that period and inspect its actual advertising section, often near the back. The business
+owner need not be known as a pupil. Record the school, edition/year and page or image locator
+with the advertisement's literal business name, address and any pictured premises, then seek
+corroborating records. An advertisement alone does not establish ownership, school attendance
+or patronage. Keep an unavailable edition or uninspected section as a gap. [S10, S11]
+
 ### 10. Move from a person-name index to full text when available
 
 Check whether the same material has a structured name index and a full-text counterpart.

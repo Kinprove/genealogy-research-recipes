@@ -51,6 +51,15 @@ or transcription keeps that source role; retrieval adds neither independent corr
 proof of kinship. Roberta Estes's [2026 broken-link example](https://dna-explained.com/2026/10/02/focus-step-1-seven-solutions-for-dna-matches-with-absent-or-shrunken-trees/)
 supplies this recovery route, without guaranteeing a capture or the site's current content.
 
+When building a timeline, keep the date as written, its source locator and stated precision
+separate from any derived sort key. If software supplies a synthetic first day to order a
+month-only date, label that value as an ordering convention and do not export it as the event
+date. Preserve qualifiers and ranges in the displayed value. Overlapping uncertain intervals
+leave event order unresolved even when the software presents one row before another.
+The [timeline-sorting example](https://www.youtube.com/watch?v=8Smljk9Aink) reports a partial
+date beside a generated first-of-month value. It motivates this distinction without
+establishing a current formula or interface contract.
+
 For a bounded set of multi-person records, an optional associate index can keep one row
 per named person's occurrence, with the same source-item/document number on every row from
 that item. Filter by person to see their occurrences or by item number to recover its named
@@ -58,6 +67,17 @@ participants. Retain documentary roles and unresolved same-name identities. Thes
 occurrence rows, not additional records or independent confirmations; keep the ordinary log.
 The [John Dobkins record-tracking example](https://dna-explained.com/2022/10/16/tracking-john-dobkins-or-dobbins-to-maryland-52-ancestors-378/)
 supplies this two-way lookup; repeated association does not establish kinship.
+
+To compare recurrence across record types, derive a matrix from those occurrence rows:
+one identified person or unresolved identity candidate per row, and one source item per
+column, ordered by the recorded action or observation date. Retain the date and document
+number in each column and mark only observed occurrences. Keep uncertain identities
+separate rather than merging same-named people to fill the grid. Compare recurring
+participants to choose the next distinguishing record; empty cells do not record a
+completed search, and multiple columns containing copies remain dependent evidence.
+The [Alford/Johnson FAN-chart example](https://familylocket.com/rlp-257-alford-johnson-project-interview-with-michelle-mickelson-part-1/)
+supplies the chronological people-by-source view; the identity and blank-cell controls
+apply the existing evidence rules. Keep the underlying log and occurrence rows.
 
 Record which names you deliberately searched in each resource, with the date and method.
 A name met incidentally while extracting other surnames is an occurrence, not a completed
@@ -177,6 +197,43 @@ of the original explicitly; distinguish the image, transcription or certified ex
 received in the log and citation. The [2021 civil-register request example](https://www.youtube.com/watch?v=dhDhK3sPgyU)
 motivates that product distinction. Check the holder's current service and fee information
 before ordering; the example establishes no present fee, service or certification requirement.
+
+## Find a manuscript collection's holder
+
+For a supported manuscript lead, search an available cross-repository catalogue by the
+named creator and, separately, a distinctive relevant subject such as an organization.
+Retain both queries and follow a matching collection description or finding aid to the
+holding institution's catalogue. Check the actual collection, series and date coverage
+before queuing a target; a name in a description is not an inspected personal record.
+The [university-archives interview](https://familylocket.com/rlp-284-university-archives-with-sam-howes/)
+demonstrates creator and subject searches in ArchiveGrid. It also reports incomplete
+participation: preserve an aggregator miss as that search's result and check a relevant
+holder's own catalogue when supported by a separate lead. Use the onsite preparation
+checks above for any described material you plan to request.
+
+## Recover a dated page behind a dead citation
+
+For a known URL with available archived captures, inspect the page content as well as the
+capture date. Several later captures may preserve only an error page. Move back to a
+content-bearing capture, then inspect later available versions for the needed pre-change
+page. Record the original URL, archive URL and timestamp, inspected dates and actual
+content or error state; keep any pointer to the underlying source.
+The [digital-publications demonstration](https://www.youtube.com/watch?v=a-539DY1aak)
+shows this temporal search. A surviving page does not mean its search form or database
+was preserved: report failed controls and missing captures as retrieval gaps. An archived
+page's date or an unavailable search does not establish record absence or the truth of its claims.
+
+## Keep next actions linked to their origin
+
+When analysis produces another search, retain a separate pending-action field linked to
+the originating document number or correspondence entry. Derive a list of nonempty actions
+showing that link, a short source description, the proposed search and its repository or
+recipient. Group by repository when planning a session. Mark an action completed with its
+actual result or link to the new log entry; preserve the originating record and analysis.
+This avoids burying a lead in comments or detaching it into an untraceable to-do list.
+The [research-log views example](https://familylocket.com/rlp-258-saving-views-of-your-airtable-research-log/)
+demonstrates filtering next steps and grouping them by repository. These are companion
+views of the log, not replacement search results or a requirement to use Airtable.
 
 ## Compare one family across named censuses
 

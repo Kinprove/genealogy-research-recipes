@@ -125,6 +125,14 @@ The output is **tester → documented path → test/tree → SNP → reported st
 - **Read a proposed split against the calls.** Positive results for some block variants and reliable ancestral results for others can support subdivision. No-calls cannot supply the negative half. Even a supported split does not by itself identify the named man in whom each mutation arose. (Rowe-Schurwanz, 2023-11-22; 2024-09-05)
 - **An unchanged label is not a failed experiment.** Inspect the variant evidence. It may add shared variants without resolving their order, or leave the placement unchanged. FamilyTreeDNA describes tree refinement as evidence-driven aggregate analysis; do not promise every kit an individual manual review followed by a changed haplogroup on a fixed schedule. (Rowe-Schurwanz, 2023-11-22)
 
+### Keep predeceased sons in the tester worklist
+
+Before closing a candidate Y-DNA branch because an obituary names no surviving son, compare
+the notice with the documented child roster. Check whether a son who died earlier left sons,
+and trace the relevant male-line descendants with evidence for each parent-child link. Leave
+unexamined branches unresolved. The [historical obituary demonstration](https://www.youtube.com/watch?v=Ff_n37xMPbA)
+motivates this roster check; it does not establish a living tester or the reported descent.
+
 ## Prompt-craft (how to keep an assistant honest here)
 
 1. **Assign nothing; route it.** For any haplogroup/tree question, output "check FTDNA Discover / Mitotree" — do **not** name a haplogroup or its meaning from memory. (The Anzick failure is precisely a from-memory assignment.)

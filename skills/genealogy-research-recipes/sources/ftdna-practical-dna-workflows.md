@@ -80,6 +80,15 @@ Additional preservation trigger:
   and separating result versions are Kinprove synthesis. Current removal, recovery, transfer
   access, specimen requirements, upgrade eligibility and performance remain unverified.
 
+Additional combined-test scope source:
+
+- **S19:** Genealogy TV, interview with Roberta Estes,
+  [Roberta Estes Explains the NEW UPDATES for Mitochondrial DNA (mtDNA)](https://www.youtube.com/watch?v=essG5JYMERw),
+  2025-04-03. The saved discussion describes separate kit identities preventing the intended
+  Advanced Matching intersection. The test-to-kit crosswalk and unavailable-query status are
+  authored controls. No signed-in query, current merge/transfer policy, purchase or upload
+  was verified; a match across tests does not identify a single ancestral path.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

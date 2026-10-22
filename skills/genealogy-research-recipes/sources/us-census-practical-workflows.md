@@ -74,6 +74,9 @@ draw on each source.
 | S67 | [BYU Family History Library, James Tanner, Ten Steps to Finding Your Immigrant Ancestor](https://www.youtube.com/watch?v=htx73TZD-bo) Used for comparing the language/mother-tongue field with the recorded birth country. | 2024-01-31 | 7 |
 | S68 | Aimee Cross, [Finding Enslaved Ancestors & Build an African American Family Tree](https://www.youtube.com/watch?v=12gmfLSWs70) | 2023-06-22 | 9 |
 | S69 | Aimee Cross / Ancestry Aimee, [Overview of U S Federal Census Records in Genealogy Research](https://www.youtube.com/watch?v=lwwOLa341-8) | 2021-12-09 | 1 |
+| S70 | Genealogy TV, [Secret Gems on Ancestry](https://www.youtube.com/watch?v=1lrFNBWKwzo) | 2024-02-09 | 4: missing-heading fallback |
+| S71 | Genealogy TV, [How to Use Excel for Genealogy](https://www.youtube.com/watch?v=eONcu9lTbYY) | 2022-06-24 | Output schema: age-calculation exception |
+| S72 | Family Locket, [RLP 123: African American Research Part 3](https://www.youtube.com/watch?v=YSF4GCv61kg) | 2020-11-16 | 6: identified WPA/CCC personnel-record lead |
 
 S68 supplies a neighborhood-to-earlier-household research route and named-person searches
 in deeds, probate and claims testimony. Its property-value threshold and broad assumptions
@@ -84,6 +87,22 @@ S69 demonstrates reading the same census entry through another host when the fir
 presentation is difficult to read. The matching-locator and reading-copy checks are
 Kinprove synthesis; dated viewer placement and claims of provider superiority are not
 adopted. Copies of the same entry remain one underlying record.
+
+S70's saved transcript describes consulting 1790 and 1800 blank forms when original
+headings are missing. Matching the actual schedule and retaining uncertain assignments
+are workflow safeguards. No original schedule, blank-form payload, private handout or
+current download route was inspected for this amendment.
+
+S71 narrates an infant age in months, a nonnumeric calculation error, clearing a value
+and removing the infant before filling relative references. Preserving the person and
+literal source value while leaving the calculation unresolved is an authored safeguard.
+The workbook, stored cell types, complete corrected output and a normalization method were
+not inspected or validated; no downstream row mismatch or current software rule is asserted.
+
+S72 describes the 1940 emergency-work reference week and separate WPA/CCC personnel
+pointers to NARA in St. Louis. The program-identification and current-guide checks are
+authored safeguards. No original census entry, personnel file, current series/custody or
+request form was inspected; the narration does not establish an NYA route or military service.
 
 ## Credits
 

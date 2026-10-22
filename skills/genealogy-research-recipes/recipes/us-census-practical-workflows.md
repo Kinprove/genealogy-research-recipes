@@ -60,6 +60,13 @@ term the same way and record it literally ([FHF 2020](https://www.youtube.com/wa
 what an enumerator did. Keep the literal entry beside the interpretation, and do not reuse one
 year's definitions for another.
 
+Before applying an age-based calculation, check that its input represents the recorded age
+in the required unit. If the calculation cannot handle that value, retain the person,
+literal age/unit and source locator and mark only the calculation unresolved. Do not clear
+the source value or remove the person to make a formula fill. Genealogy TV's
+[historical Excel demonstration](https://www.youtube.com/watch?v=eONcu9lTbYY) [S71]
+motivates this safeguard; it does not validate a formula or establish a birth date.
+
 ## Choose a recipe
 
 | Problem | Recipe | Deliverable |
@@ -166,6 +173,14 @@ year's definitions for another.
 5. Compare candidate heads across adjacent censuses and other records. Track recurring associates and historical jurisdictions. Reject a candidate only for an evidenced conflict, not a surname preference.
 6. Investigate a missing expected adult through alternate names, adjacent locations, property records, or another enumeration. Keep error, absence, and separate residence as distinct explanations.
 
+If headings are missing or unreadable, consult a legible blank form for the same census
+year, jurisdiction and schedule. Compare its column sequence with the actual page's
+remaining labels and layout before assigning a heading; an early handwritten schedule
+need not follow the sample form's arrangement. Keep the form's locator and proposed
+column interpretation separate from the literal image reading. If correspondence cannot
+be established, leave the heading unresolved. The [blank-form demonstration](https://www.youtube.com/watch?v=1lrFNBWKwzo)
+supplies the fallback; these alignment checks do not certify a particular original form.
+
 **Output:** The literal count matrix, proposed person-to-bin assignments, conflicts, and next records needed to test each assignment.
 
 **Checkpoint:** A compatible age bin supports a candidate household. It does not name the unnamed person. Check whether any columns overlap before summing totals.
@@ -214,6 +229,15 @@ year's definitions for another.
 **Output:** A person-linked extraction containing question, literal answer, sheet/line, supplement or note reference, interpretation, and uncertainty.
 
 **Checkpoint:** Use the markings on the actual form. Amy Johnson Crow demonstrates a 1950 sample-line-4 example, so a summary listing only other sample lines is incomplete. A crossed-out entry needs its associated note before interpretation.
+
+When an identified WPA or CCC connection accompanies a 1940 emergency-work entry,
+follow it to civilian personnel or application records. Preserve the entry's reference
+week; a generic yes or program names printed in the question do not identify a program.
+[Family Locket's discussion](https://www.youtube.com/watch?v=YSF4GCv61kg) [S72] points to
+WPA and CCC records at NARA in St. Louis. Use that historical pointer to find the identified
+program's current series, custodian and request guide before requesting. Leave other or
+unknown programs unresolved; no NYA route is supplied here. CCC files may name camps;
+civilian service is not military service.
 
 **Example prompt:** “Extract this household, its marked supplementary questions, and every linked note. Preserve the person-to-line mapping and distinguish blank, unreadable, not asked, and explicit no.”
 

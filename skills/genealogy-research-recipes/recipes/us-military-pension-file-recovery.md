@@ -57,6 +57,15 @@ claimant category, index/series coverage, current custodian, retrieval route and
 **Check:** A service record is not a pension file. A pension-index miss describes that search,
 not proof that no application exists in any series.
 
+Where an available pension-abstract or full-text collection covers the question, search
+supported target-name forms in the text as well as the claimant index. The target may appear in
+another applicant's file. Retain the actual applicant/file locator and the abstract passage,
+then seek that file and inspect the named person's stated role in the original document. Keep an
+unresolved locator or identity open; a mention does not establish that the target applied for a
+pension, served in the stated unit or was related to the applicant. The Southern Campaign
+teaching example motivates this route without verifying the narrated case or promising
+comprehensive coverage. [S16]
+
 ## 2. Preserve the complete index-card locator
 
 1. Open the index image when available. Copy the soldier and applicant names, service designation,
@@ -109,6 +118,15 @@ where permitted. Carry an additional identifier into the custody check without o
 earlier application/certificate locator. An unresolved mismatch remains open; a missing field on
 one card does not establish that no later identifier exists. Do not assume a particular website
 always supplies the fuller card or that a prefix establishes the file's present location. [S14]
+
+If an application or certificate number is unreadable, check whether a separately arranged
+index covers that service and claimant category. Use supported regiment/company and applicant
+context to find a candidate; reconcile the claim category and application-versus-certificate
+fields before using its number. Preserve both index locators and literal readings with the
+resolution basis; unresolved digits stay unreadable. The
+[historical regiment-index teaching example](https://www.youtube.com/watch?v=dSVVQE7iVgo)
+supplies this recovery route, not a verified matched-card pair or current hosting/coverage
+guarantee. A second index can resolve a locator without independently confirming its genealogy.
 
 ## 3. Obtain the intended file product and record its limits
 

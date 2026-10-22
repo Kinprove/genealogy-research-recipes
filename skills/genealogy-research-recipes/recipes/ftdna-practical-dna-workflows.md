@@ -36,6 +36,15 @@ manager and any separately recorded beneficiary. Leave missing or unconfirmed de
 unresolved; shared credentials do not establish either designation. The [2023 update](https://dna-explained.com/2023/12/11/familytreedna-2023-update-past-present-and-future/)
 motivates this distinction without establishing current forms, legal effect or continuing access.
 
+For an intended mtDNA/autosomal match intersection, record the verified tested person,
+each kit identifier and which test results are available to the actual query. If results
+are held under separate kit identities and the available query cannot combine them, record
+the intersection as unavailable, not an empty match result. Before any separately authorized
+transfer or additional test, verify the intended destination kit and current provider handling.
+Retain the test-to-kit mapping and query scope. The [2025 discussion](https://www.youtube.com/watch?v=essG5JYMERw)
+motivates this check without establishing a current kit-merging rule. [S19] A match on both
+tests still needs [separate ancestral-path analysis](ydna-mtdna-interpretation.md#combining-tests-establish-which-ancestral-path-each-supports).
+
 ## Eight workflows
 
 ### 1. Export the match and segment pair, and record its scope

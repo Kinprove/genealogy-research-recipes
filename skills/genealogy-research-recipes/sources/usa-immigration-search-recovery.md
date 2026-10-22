@@ -129,6 +129,13 @@ the relevant workflow. Community references:
     and identity controls are Kinprove synthesis; the absence of neighborhood overlap does
     not establish that a proposed voyage is wrong. Historical copying controls are excluded.
 
+32. Nicole Dyer and Diana Elder, Family Locket, *RLP 260: Shipindex with Peter
+    McCracken*, 3 July 2023.
+    <https://familylocket.com/rlp-260-shipindex-with-peter-mccracken/>
+    The saved interview supports vessel-name bibliography searches, following citations
+    to holdings and comparing same-name ships or different voyages. It does not verify
+    current index controls, subscriptions, holding availability or the cited originals.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

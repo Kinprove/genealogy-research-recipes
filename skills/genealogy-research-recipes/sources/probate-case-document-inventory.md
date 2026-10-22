@@ -101,6 +101,14 @@ The linked inventory/queue schema and scope-completion rule are original synthes
   inheritance-case registry hits (death date, case number, opening notary, notarial chamber) as
   separate candidate case rows that need an independent identity check.
 
+- **S17:** Genealogy TV, interview with Judy Russell,
+  [Understanding Wills, Probate, Estate Records, and Women's Rights for Genealogy](https://www.youtube.com/watch?v=jydLZrDuzCM),
+  recorded publication 2021-09-24. A later widow's death or a child's later control of property
+  is suggested as a lead for further estate records. Requiring an inspected condition and
+  independently documented potential event is workflow synthesis, not a universal legal rule.
+  The narrated 1806/1848 case, instrument, event evidence, counties and governing law were not
+  independently inspected; no fixed age, automatic reopening or current-law claim is adopted.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

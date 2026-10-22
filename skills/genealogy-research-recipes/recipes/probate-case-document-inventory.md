@@ -168,6 +168,15 @@ results and reasons for each extension.
 **Check:** A later recording date is not a later death date. Finding a settlement several years
 after death demonstrates the need for that case's wider search; it supplies no universal deadline.
 
+If an inspected estate instrument defers distribution or control until a condition is met,
+retain its literal terms and locator. When independent records support a potential triggering
+event and date, such as a specified beneficiary's later death, add a bounded search for later
+estate action to the queue. Record the condition, event evidence, selected court/series and
+date bounds; verify any returned case link separately. Keep an uncertain condition or trigger
+unresolved, and do not assume a universal age or automatic reopening. Judy Russell's dated
+late-estate example motivates this search input without verifying the narrated case or its
+governing law. [S17]
+
 If an account or receipt describes an administrator's journey, retain the actor, role,
 date, destination and stated purpose. Use that purpose to nominate a bounded related court,
 land-office or transaction-record question in the existing queue, even without a book/page

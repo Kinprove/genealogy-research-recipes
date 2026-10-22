@@ -197,6 +197,21 @@ ask the Pennsylvania State Archives for copies of the original ship lists. The
 They do not describe the compilers' extraction criteria or which lists carry signatures, and a
 signature alone does not identify a person.
 
+#### Follow a known vessel into a bibliographic source
+
+For an already supported ship and journey, search a vessel bibliography for references
+to a log, voyage account, passenger or crew record. Preserve the cited title, volume/page
+or manuscript description and follow it to the actual library or archival holding.
+A bibliographic entry remains a lead until the cited material is retrieved and inspected.
+
+Before attaching a reference or illustration to the journey, compare its dates and vessel
+with the supported sailing: use vessel type, captain, tonnage or documented renaming when
+available. Keep unresolved namesakes separate, including different voyages of the same
+ship. Preserve an original spelling beside a proposed correction. A contemporary account
+can supply voyage context without proving that the ancestor personally experienced each
+event it describes. The ShipIndex interview illustrates this bibliography-to-holding route
+and the risk of same-name vessels; it does not establish current holdings or access.[32]
+
 ### 6. Reconstruct the whole manifest row
 
 **Trigger:** an index exposes only a name and year, a relative is missing, or

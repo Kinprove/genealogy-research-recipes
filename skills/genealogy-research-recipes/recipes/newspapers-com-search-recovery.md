@@ -301,6 +301,29 @@ Use precise result labels:
 - **Coverage gap:** identify the absent issue, edition or page and the next holding to check.
 - **Access blocked:** identify material that exists but could not be inspected.
 
+### Optional handoff from a religious-life notice
+
+For a supported religious-life lead, inspect available reception or vow notices using relevant
+period terms such as `ceremony of reception`, `receive the habit`, `white veil` or `postulant`.
+Retain any birth/baptismal and religious names actually linked in the same item, its named
+institute, literal event wording/date and notice locator. Use that institute as a lead to its
+actual custodian and appropriate record series through the [manuscript-holder workflow](research-documentation.md).
+Keep a ministry location separate from the motherhouse; shared postnominals do not uniquely
+identify an institute. The [historical interview](https://familylocket.com/rlp-410-catholic-nun-research-with-sunny-morton/)
+motivates this name-to-institute bridge. A notice does not guarantee a personnel file or resolve
+the candidate's identity; preserve its literal ceremony stage rather than equating all stages.
+
+### Optional handoff from a court notice
+
+If a recovered notice supplies a case or docket number, preserve it with the printed parties,
+stated court/jurisdiction and date, keeping the newspaper citation. Resolve the relevant court
+series and present custodian for that period; use the number only in a collection whose actual
+arrangement supports it. Check a retrieved file against the parties and case context, preserving
+its own locator, inspected pages and gaps. Keep a notice-only lead or unavailable file explicit.
+The [reported newspaper-to-divorce-file example](https://familylocket.com/rlp-359-until-death-do-us-part-or-five-weeks-later-a-tale-of-marital-woe-in-1875-dallas/)
+illustrates this handoff. Publication of a notice does not establish its allegations, the final
+judgment or the parties' identities; recovering the notice does not mean the case file was read.
+
 ## Prompt-craft
 
 ```text

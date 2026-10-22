@@ -140,6 +140,16 @@ Before entering an Ancestry total into a Shared cM or other relationship-probabi
 
 When birth years are used to choose between relationships with overlapping cM, such as half-aunt versus first cousin, first identify whether each uncertain link passes through a mother or a father. Allow a much wider span of birth years on paternal links: a father's children can be born decades apart, so a paternal route can be off by more than one generation. The [presenter's age screen](https://www.youtube.com/watch?v=o8Mc7UsnTzE) uses illustrative ages, not sourced limits. Treat age as a plausibility screen only. It never establishes a placement, and it should not exclude a paternal-route option on a fixed generation length.
 
+Before using a reported cM range to exclude a relationship, identify what the range describes:
+observed sample values or an interval/limit from a named model. Retain the release, relationship
+category, sample count and inclusion definition when supplied; leave unavailable definitions
+unknown. A sample maximum alone does not establish a biological impossibility. Reopen an
+exclusion based only on that maximum and keep the candidate unresolved while checking an
+applicable model or discriminating documentary evidence. The
+[historical correction example](https://www.youtube.com/watch?v=aTlE-Y33G-k)
+motivates this check; it supplies no current numerical boundary, pooled-meiosis rule or
+recalculated odds.
+
 If the supplied comparison spans a probability/model revision, preserve the dated original
 outputs and separate the versions. Where available and authorized, compare the same retained
 inputs under the revised version; otherwise mark earlier rows unavailable for that comparison

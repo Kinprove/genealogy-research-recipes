@@ -89,6 +89,8 @@
 
 84. *DNA from 459 Ancient British Isles Burials Reveals Relationships – Does Yours Match?* — Roberta Estes (DNAeXplained), 2022-02-01 — <https://dna-explained.com/2022/02/01/dna-from-459-ancient-british-isles-burials-reveals-relationships-does-yours-match/> — Rights: cited reference, not reproduced. Supports a query trace and specimen-field record for a supplied catalogue and observed tree. The saved article does not establish current catalogue coverage, assay resolution, closest ancient kinship, direct descent, origin or the validity of the underlying studies' models.
 
+85. *Finding and Contacting DNA Test Takers with Descendancy Research* — Family Locket, 2024-10-09 — <https://www.youtube.com/watch?v=Ff_n37xMPbA> — Rights: cited reference, not reproduced. Reported survivors-only obituary omitted a predeceased son who left a son. The original obituary, descent and any living tester were not independently verified; no contact or current-service claim is adopted.
+
 ## Credits
 
 - Roberta Estes, 'All About AI – What It Is, What It Isn't, and Why It Matters', DNAeXplained, 2026-06-25 — FSL-1.1-MIT (adapted)

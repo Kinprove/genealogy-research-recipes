@@ -126,6 +126,24 @@ photographs, database rows and real family examples are not reproduced.
   occupations to list funeral homes, cemeteries and churches, and asking surviving local firms
   about closed firms' records.
 
+- **P25:** Genealogy TV, [Cemetery Registry in the United States](https://www.youtube.com/watch?v=_H9cfhjSTvE),
+  9 January 2026. Current-device coordinate capture at the site versus off-site entry. The
+  narrated verification label concerns cemetery GPS, not a verified burial or person. No
+  actual coordinate, present form, accuracy or legal access claim was independently verified.
+
+- **P26:** Genealogy TV, [Tombstones Hidden Secrets - Learn Genealogy Research (How to Research Your Family Tree) - Tiny Tip](https://www.youtube.com/watch?v=MXcC-gpSLSg),
+  11 September 2018. The narrated family monuments have inscriptions on multiple surfaces
+  and name people reportedly buried elsewhere. Surface coverage and person-specific location
+  fields are procedural synthesis; no original inscription, burial record or identity was
+  independently inspected. The saved narration ends mid-phrase and does not establish the
+  complete original video's extent.
+
+- **P27:** Genealogy TV, [Great Family History Ideas - Genealogy TV (Podcast)](https://www.youtube.com/watch?v=NMcfeyT55ao),
+  26 September 2025. The saved narration describes reflected or flashlight illumination held
+  to one side during inscription photography. The optional capture instruction and view/uncertainty
+  controls are procedural synthesis. No before/after photographs, recovered inscription or
+  conservation assessment were independently inspected; no physical treatment is prescribed.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of the attributed cemetery, gravestone and burial-record workflows — FSL-1.1-MIT (kinprove-original)

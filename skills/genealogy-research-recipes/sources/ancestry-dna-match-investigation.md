@@ -48,6 +48,12 @@
 
 - Estes, Roberta. "How to Use Ancestry's New Match Clusters and What They Mean." DNAeXplained, 2025-07-10. [Article](https://dna-explained.com/2025/07/10/how-to-use-ancestrys-new-match-clusters-and-what-they-mean/) (method 7). The dated example describes grid/dropdown differences, multiple associations and checking saved tags. Separate observation records, unresolved discrepancies and unavailable-view states are Kinprove synthesis; current limits, current behavior and ancestral attribution are not established.
 
+- Dyer, Nicole. "How to Create Custom Clusters with an Unknown Match." Family Locket, 2026-06-12.
+  [Video](https://www.youtube.com/watch?v=1hwGyO2ft4g). Alternate-primary selection after
+  known-branch results. The demonstration reconstructs a previously researched line with
+  a hypothesis already in the tree. No actual matrix or pedigree was independently verified;
+  its thresholds, standard-deviation selection band and repeated-trial advice are not adopted.
+
 ### Relationship-range reference
 
 - [Shared cM Project, DNA Painter](https://dnapainter.com/tools/sharedcmv4): relationship-range reference for the worked example.

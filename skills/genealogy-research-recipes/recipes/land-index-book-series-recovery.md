@@ -70,6 +70,59 @@ translation and compiled abstract distinct; extract only the household, origin o
 actually present. The same example motivates this related-item check without guaranteeing
 particular fields, complete survival or a present translation service.
 
+### Tax rolls used for a land lead
+
+For each selected tax year, map the available volumes and their actual township/district and
+tax-class sections before interpreting a surname miss or stopping at one hit. Read the headings
+and sort key in each relevant section: a real-estate section may follow land location while
+another list follows names. Check separately described supplementary, delinquent or nonresident
+sections without assuming every place has them. Retain year, volume/section, key, locator and
+inspected/uninspected extent; recheck the arrangement for another year. The
+[reported one-book to two-book transition](https://familylocket.com/rlp-329-using-ai-in-report-writing/)
+motivates this inventory. A missing name in one section is not absence from the annual set, and
+a complete search of supplied volumes does not establish complete survival or legal liability.
+
+If an expected taxpayer is missing from a roll used for this land lead, inspect its actual
+organization and bounded unsearched sections for entries filed under another payer or estate
+representative. Preserve the names and sections searched, their extent and the result.
+In the [1849 tax-roll example](https://familylocket.com/rlp-315-tips-for-when-the-courthouse-burned/),
+the speaker reports finding John Cline's entry under W for administrator Wiseman after
+missing it under C.
+
+Keep the literal payer, represented person or estate, and stated role separate. Carry any
+supplied parcel reference into the comparison with land records. This recovery step does not
+by itself establish a death date, a sale, kinship, legal liability or the identity of same-name
+people.
+
+### U.S. federal entry packets
+
+For a federal entry lead, retain the stated entry class, act/year, land office, acreage,
+patent or document number and supplied legal description in the retrieval row. Match these
+fields to the custodian's actual series description before requesting the entry file.
+The [NARA preparation example](https://www.danaleeds.com/10_tips_for_nara/)
+shows the locator worksheet; it is not a specification for a current request form.
+
+After a completed-patent search misses a supported tract lead, check whether the actual holdings
+describe an entry register covering applications that did not reach patent. Follow its arrangement;
+retain the literal entry status, legal description, land office and any entry/file number. Queue
+a corresponding case series only when that locator and the holdings support it, keeping requested
+and retrieved files separate. The [historical tract-book example](https://www.youtube.com/watch?v=fEuF00FwZN8)
+motivates this fallback. A patent-search miss does not establish that no application existed or
+that its file survives; the historical entry status and present retrieval status remain distinct.
+
+Use the described entry class to look for different components in the available packet:
+
+| Entry lead | Components illustrated in the teaching account |
+| --- | --- |
+| Cash sale | Register and Receiver receipts, certificate, and any described agency or preemption papers |
+| Bounty land warrant | Certificate and its reverse or assignment endorsements; retain veteran, heir and assignee roles separately |
+| Homestead | Application papers, claimant and witness testimony, and related enclosures actually present |
+
+The [land-file examples](https://www.danaleeds.com/nara-land-records-discovering-family-history-details-that-arent-online/)
+motivate these inspection targets, not a universal contents list or eligibility rule. Record
+the requested and retrieved extent. Keep a reported settlement date separate from the
+application, testimony and patent dates; a patent image alone does not establish packet coverage.
+
 ## 1. Identify how this index actually works
 
 1. Record the index title, jurisdiction, covered dates and the record series it indexes.

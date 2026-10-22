@@ -59,9 +59,22 @@
 - *RLP 417: AI Handwritten Text Recognition Tools at the RootsTech Expo Hall* — Family Locket (familylocket.com) — Rights: cited reference, not reproduced.
 - *RLP 379: Handwritten Text Recognition with Google AI Studio* — Family Locket (familylocket.com) — Rights: cited reference, not reproduced.
 - *RLP 402: Transforming Court Records Research with AI — Finding and Logging* — Family Locket (familylocket.com) — Rights: cited reference, not reproduced.
-- *Transforming Court Records Research with AI: Colonial Virginia Part 2 (Analysis)* — Family Locket (familylocket.com) — Rights: cited reference, not reproduced.
+- *Transforming Court Records Research with AI: A Case Study from Colonial Virginia Part 1 – Finding and Logging* — Diana Elder, Family Locket, 2026-02-06 — [article](https://familylocket.com/transforming-court-records-research-with-ai-a-case-study-from-colonial-virginia-part-1-finding-and-logging/) — Rights: cited reference, not reproduced.
+- *Transforming Court Records Research with AI: A Case Study from Colonial Virginia Part 2: Analysis* — Diana Elder, Family Locket, 2026-02-13 — [article](https://familylocket.com/transforming-court-records-research-with-ai-a-case-study-from-colonial-virginia-part-2-analysis/) — Rights: cited reference, not reproduced.
 - *What Genealogists Are Saying About AI Transcription of Foreign-Language Documents* — Family Locket (familylocket.com) — Rights: cited reference, not reproduced.
 - *Using AI as Your Genealogical Deed Abstracting Partner* — Family Locket (familylocket.com) — Rights: cited reference, not reproduced.
+
+- *Transkribus: Revolutionizing Handwritten Text Analysis with AI* — Nicole Elder Dyer,
+  Family Locket, 2024-07-03 —
+  [article](https://familylocket.com/transkribus-revolutionizing-handwritten-text-analysis-with-ai/)
+  — Rights: cited reference, not reproduced. Separate layout recognition and region/baseline
+  correction before text recognition on complex pages. The tutorial discloses Gemini-assisted
+  writing; no actual layout artifact, run log or benchmark was supplied.
+
+The two court case-study articles support the attributed Middlesex image-group workflow.
+The original orders, twelve-entry log/table and a completed legal-dictionary check were not
+inspected here. Layout processing remains conditional on the actual tool; current menus,
+pricing, model suitability and recognition gains are not verified.
 
 ### Kitty Cooper's Blog (blog.kittycooper.com)
 

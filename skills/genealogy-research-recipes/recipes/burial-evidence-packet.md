@@ -93,6 +93,11 @@ letter read as מ that a participant identified as a wrongly traced ה of צנו
 untreated comparison images, and the expected formula only flags a doubtful letter; it does not
 settle the reading.
 
+For a difficult inscription, an optional second photograph uses light directed from the side
+by a hand-held reflector or flashlight, held clear of the marker. Keep the ordinary-light and
+side-lit views together, label the surface and lighting, and leave uncertain letters unresolved.
+This step does not involve rubbing, cleaning, wetting or touching the marker. [P27]
+
 Record which faces of the stone, and of any family marker, the images actually show: front, back
 and sides. A spouse, a second burial or a list of children can appear only on the back. On a
 Jewish stone, the back can carry the Hebrew name and patronymic, while a memorial-site photograph
@@ -104,6 +109,13 @@ been inspected. The [family-cemeteries video](https://www.youtube.com/watch?v=rA
 [Lil Dicky tree session](https://www.youtube.com/watch?v=SKDoU7MJkds) motivate this. A name on
 another face does not by itself establish burial at that spot or a relationship, and the back may
 carry nothing.
+
+For a family monument, inspect available views of its front, reverse and lower additions.
+Label the surface shown and keep unseen or unreadable parts explicit. For each named person,
+retain the literal burial-place statement and its image/surface locator separately from the
+monument's physical cemetery and plot. A family monument can name people buried elsewhere;
+compare their location statements with available burial records instead of assigning everyone
+named on the monument to its plot. Unresolved burial locations stay open. [P26]
 
 For supplied cemetery-visit photographs, retain an actual cemetery-sign photograph as a
 context image and link it to the corresponding grave-photo IDs using the supplied visit
@@ -201,6 +213,13 @@ cemetery link can provide cemetery contact information and maps. A BillionGraves
 have GPS information; the cemetery-program tutorial demonstrates using its map to locate a
 marker. Record a supplied coordinate as a coordinate, and a section/plot reference as a separate
 locator. [P2, O1]
+
+If a form can capture the device's current position, use that control only while physically at
+the intended site. When entering information off-site, leave current-position capture unused.
+Retain where the coordinate came from and what point it represents; keep an independently
+supplied coordinate with its source instead of replacing it with the contributor's location.
+Unknown point meaning stays unresolved. The dated Cemetery Registry demonstration motivates this
+capture-origin check, not a guarantee of coordinate accuracy, grave identity or access. [P25]
 
 When the plot cannot be located or the online entry lacks detail, identify the cemetery office
 and prepare a request for the recorded burial and its plot location. The gravestone tutorial

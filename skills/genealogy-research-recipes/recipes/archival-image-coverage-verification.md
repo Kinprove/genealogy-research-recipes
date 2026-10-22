@@ -8,6 +8,14 @@ Keep the archival case/volume, digital file or image group, index record, and pe
 
 For a transcript, retain its image/leaf binding, version or timestamp, and whether human correction is established. Manually triggering recognition still produces machine text. An unavailable newer version neither makes an older transcript current nor disproves its readings. Identify the text actually consulted and its unchecked relationship to the image.
 
+If an original register is unavailable but separately prepared transcriptions are available,
+compare their entries and stated record-type coverage for the same target name and period.
+Retain both derivative locators, their claimed common original and unresolved discrepancies
+or bindings. One transcript's silence does not establish that the original omitted an event;
+agreement between copies is not independent corroboration. Family Locket's example describes
+a marriage present in a handwritten transcription but absent from a typed one, while the
+one-person-or-two question remained open. [S7]
+
 FamilySearch distinguishes image numbers, record pages, household numbers and family numbers. Its item-grouping instructions allow multiple books on a film and a book split across films. A film's image count therefore cannot establish a particular case's boundaries. [S1, S2]
 
 For the requested item, inspect opening and closing material and representative interior pages. Reconcile its covers, title boards, headings, foliation and entries with the catalogue. A readable copy's own page count is not independent evidence that it contains the whole case. If an inventory, certification or other copy establishes a boundary, cite that evidence; otherwise report inspected pages with completeness unresolved.
@@ -36,6 +44,22 @@ Classify a disputed number before correcting it: archive case, old office refere
 Treat a fund/inventory/case citation from older notes or a publication as a dated, second-hand lead recorded with its citing source, not as a current locator. If it does not match the current inventory or cover label, check for renumbering, splitting during restoration, or parts moved into separate units. Map it through an archive conversion table where one is available, then read the sheet numbers again and keep the old and new locators. Recheck 'lost' conclusions made under the old numbering. The [renumbered-inventory discussion](https://rodgersforum.borda.ru/?1-3-0-00000102-000-0-0-1780133454=), [separated-lists note](https://rodgersforum.borda.ru/?1-36-0-00000063-000-0-0-1769266561=) and [secondary-citation caution](https://forum.j-roots.info/viewtopic.php?f=181&t=4753) motivate this. They do not supply a conversion table.
 
 Check sequence independently from totals. Compare foliation, headings and entries continuing across pages, including transitions between digital parts. Repeated page labels can represent recto/verso, restarted numbering or another section. A complete image set can still be in the wrong order. Do not renumber or merge items from filenames alone.
+
+Before jumping through an unindexed group, inspect title/end cards and readable internal
+labels to establish its arrangement and direction. An end-of-roll card at the first image
+is a clue to check for reversed order. Within a section whose observed labels support an
+ordered run, retain the labeled positions and use progressively smaller forward/backward
+jumps toward the target label. Recheck the arrangement at section changes; if labels are
+inconsistent or the material is loose, use a bounded sequential inspection instead. Save
+the anchor locators and ranges actually inspected: jumping over images does not search
+them or establish that a target is absent. The map-roll demonstration motivates this
+navigation aid, without verifying the original roll or any household location. [S6]
+
+When a folded letter, card or overlay conceals part of an entry, inspect adjacent frames
+for another exposure with it opened or lifted. Confirm that both images show the same
+item, retain both locators and distinguish the as-found view from the revealed text.
+A repeated exposure is a possibility to check, not a guarantee that hidden text was
+captured. If none is available, retain the obscured area as an inspection gap. [S5]
 
 For an unnumbered verso, inspect the actual preceding recto and surrounding sequence before
 assigning a leaf/verso binding; leave it unresolved when that context is missing. A film-end

@@ -75,6 +75,7 @@
 
 71. *An Inside Look | Discover the 2026 AncestryDNA Origins Update | Ancestry* — Ancestry (YouTube), 2026-10-08 — <https://www.youtube.com/watch?v=59wkUV3C3iM> — Rights: cited reference, not reproduced. The saved transcript supports inspecting the actual displayed extent behind a region label. It does not verify the video, current feature access, inference accuracy, reference-panel claims or reconstruction of a relative's genotype.
 72. *Why You Should Pay Attention to Your AncestryDNA Journeys* — Diahan Southard (Family Tree Magazine), 2026-01-05 — <https://familytreemagazine.com/dna/why-you-should-pay-attention-to-your-ancestrydna-journeys/> — Rights: cited reference, not reproduced. Supports retaining a displayed Timeline interval and alternate locality leads for record searches. Actual maps, family records and model inputs were not inspected; tree-fed pins are not independent confirmation, and no personal route or parentage conclusion is adopted.
+73. *RLP 155: Barsheba Tharp DNA Case Study Part 2* — Family Locket (YouTube), 2021-06-28 — <https://www.youtube.com/watch?v=aTlE-Y33G-k> — Historical correction of an exclusion based on an observed sample maximum. The original sample, PDF and grouping were not independently inspected; no numerical range, pooled-meiosis remedy or family conclusion is adopted. Rights: cited reference, not reproduced.
 
 ## Credits
 

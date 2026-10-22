@@ -126,6 +126,23 @@ When a family's births and deaths appear in its home-town registers but no marri
 - **Repeat the saved query after a relevant indexing update.** Preserve its previous date and coverage; an expanded dataset can change the result. For an unindexed list, a town/project specialist can point to the surviving source. Contact is a separate action requiring authorization. [Ukraine indexing demonstration](https://www.youtube.com/watch?v=NsdlMwZX9yg), [Genealogy Gems interview](https://www.youtube.com/watch?v=eB5KRGKSC1M).
 - **A public-database miss can come before a project's release.** Some projects have released new translations to their contributors before the public database; Litvak SIG district research groups were reported doing so in 2012, with JewishGen release about 18 months later. Before reading a negative, check the project's list of translated records and record a matching series as pending rather than as absence. Joining a group needs the researcher's authorization; the reported delay and access terms are dated and must be rechecked. [Lithuanian archive discussion](https://forum.j-roots.info/viewtopic.php?f=164&t=5924).
 
+## From a missing-husband notice to an agency case file
+
+For a supported family-separation lead in the relevant period, compare JewishGen's Gallery of
+Missing Husbands entries with the separate National Desertion Bureau Card Catalog. Keep the
+newspaper reference and card locator distinct; compare the named couple, dates and case context
+before linking them. Retain the card's opening date, referring agency and case-file number when
+present. The [project historian's interview](https://familylocket.com/rlp-378-the-jewish-boards-unique-collections-interview-with-gavin-beinart-smollan/)
+describes a card-to-YIVO file route: follow the holder's actual instructions and queue a request
+within the authorized research scope. A card does not guarantee a corresponding file; preserve
+a missing or unavailable file separately from one inspected.
+
+In the described catalog, the name search covers the couple, while a referring individual such
+as a rabbi may appear in a separate referred-by field. Check the actual field's availability and
+meaning before querying it. A newspaper entry or card is not the full file. Keep stated causes
+and case outcomes attributed to their informants and record context; they do not independently
+establish motives, accusations or identity. Current fees, form limits and access remain to check.
+
 ## Prompt-craft and output contract
 
 > Build a JewishGen retrieval plan from the supplied records. Preserve raw names and dates. For every proposed query give collection, person's role, fields, match methods, Boolean logic, geography role and reason. Mark proposed versus executed queries. Generate competing natal/married-household candidates without assuming the unknown surname or husband. For ages identify the actual column and observation date. Return supporting rows, counterevidence, coverage gaps and the next discriminating query or original record. Do not convert a phonetic, household or age match into a relationship.

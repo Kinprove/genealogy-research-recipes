@@ -36,6 +36,16 @@ Use Bartlett's (2024-07-19) pass order: very close target relatives first, then 
 
 When a match shares with anchors on two related branches, compare its count for each branch with the number of matches you have already identified on that branch, rather than taking the larger raw count. A branch with many identified matches can outvote a smaller one, even for matches that belong to the smaller branch. Treat the proportion only as a lead toward the branch to test first, then confirm it with the match's tree and records. The [presenter's example](https://www.youtube.com/watch?v=lH2vBiPOeg0) motivates this weighting. It gives no threshold, and shared matches are not triangulation.
 
+If a retained custom-cluster run seeded from a documented branch mainly returns branches already
+resolved for the question, select one unresolved shared match with an inspectable tree as an
+alternate primary. Treat that match as a research target, not a documented branch anchor. Retain
+both runs with their seed, supplied cohort/settings and sidekicks actually used, then inspect
+returned members' documentary paths. A lower-sharing seed does not establish an older ancestor.
+
+[Nicole Dyer's 2026 demonstration](https://www.youtube.com/watch?v=1hwGyO2ft4g) reconstructs a
+previously explored line; it does not validate discovery performance, and hints generated from
+the research tree remain dependent aids.
+
 Orient SideView's initially anonymous Parent 1/Parent 2 split with known relatives. When a tested biological parent matches you, Ancestry labels the split maternal/paternal automatically.
 
 Orient each kit separately. A sibling's or other relative's Parent 1 can be the opposite side from yours, so record the maternal/paternal mapping for every kit you compare, along with the known relatives that established it. Treat a 'Both sides' assignment as a hypothesis, not evidence of double relatedness, until known relatives, shared matches or mapped segments support it. Leave Unassigned matches unplaced. Check cluster sides against documented relatives as well. The [cluster review](https://www.youtube.com/watch?v=jzcjI59F6YI) found clusters that all came through one parent split across both sides, especially in an endogamous profile. The [sibling comparison](https://www.youtube.com/watch?v=rVndHlIg9-Y) is a 2023 observation from one family. Neither source measures current SideView accuracy, and clusters remain leads, not proof of a common couple.
