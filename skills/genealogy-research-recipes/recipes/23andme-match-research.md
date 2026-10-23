@@ -416,8 +416,7 @@ chromosomes and Copy 2 of others, or on both copies at different places on one c
 still come from one parent. Keep its side unknown until a tested parent or other phasing
 evidence settles it. Large overlapping regions painted with that population on both copies of
 several chromosomes are different: at any one position one copy comes from each parent, so they
-can indicate that both parents carry some of that ancestry. That reading still rests on the
-painting's own population assignments. [S28]
+can indicate that both parents carry some of that ancestry. [S28]
 
 For a changed ancestry result, open the available **Version History**, compare the new and
 previous outputs, and read its **Change Log**. Record both version labels and confidence
