@@ -24,7 +24,7 @@ Additional Group Time Tree sources:
 
 - **S6:** FamilyTreeDNA, [The Group Time Tree: A New Big Y Tool for FamilyTreeDNA Group Projects](https://blog.familytreedna.com/group-time-tree/), 2023-02-15.
 - **S7:** Roberta Estes, [Project Administrators: How to Prepare Your Project for FamilyTreeDNA's New Group Time Tree](https://dna-explained.com/2023/01/17/project-administrators-how-to-prepare-your-project-for-familytreednas-new-group-time-tree/), 2023-01-17.
-- **S8:** Roberta Estes, [Sneak Preview: Introducing the FamilyTreeDNA Group Time Tree](https://dna-explained.com/2023/01/13/sneak-preview-introducing-the-familytreedna-group-time-tree/), 2023-01-13.
+- **S8:** Roberta Estes, [Sneak Preview: Introducing the FamilyTreeDNA Group Time Tree](https://dna-explained.com/2023/01/13/sneak-preview-introducing-the-familytreedna-group-time-tree/), 2023-01-13. With S7, it motivates the Country Map cross-view check in workflow 5; neither dated description establishes a current map rule.
 - **H8:** FamilyTreeDNA Help, [Setting Project Preferences](https://help.familytreedna.com/hc/en-us/articles/4401855065743-Setting-Project-Preferences), checked 2026-10-07.
 
 Additional Matrix sources:
@@ -37,15 +37,17 @@ Additional match-list search source:
 - **S10:** Lisa Lisson with Mary Eberle, *Genetic Genealogy with Mary Eberle*, YouTube, 2021-08-13 —
   [video](https://www.youtube.com/watch?v=gNFNKpvy1no). Used for the observations that FTDNA surname
   search returned similar surnames, which motivates checking each returned row, and that haplogroup
-  search and matching indicators reflected only haplogroups from FTDNA tests.
+  search and matching indicators reflected only haplogroups from FTDNA tests. It leaves untested
+  whether an upload changes this, and does not establish current matching rules, filter behaviour
+  or how the surname columns are filled.
 
 Additional GenArchivist and МолГен forum sources:
 
-- **S13:** GenArchivist Forum, *Coming Soon: Y-DNA Haplogroups for Family Finder*, first post undated — [thread](https://genarchivist.net/showthread.php?tid=275). Rights: cited reference, not reproduced. Used for the reported 2021 default match dates and for the order-history and administrator lab-results views of chip history, which motivate recording match date separately from test date; also used for the haplotree-versus-Discover count comparison and the quoted surname-report display criterion with users' terminal-branch observation (workflow 5).
-- **S14:** GenArchivist Forum, *NEW: MTDNA discover*, 2025-03-07 — [thread](https://genarchivist.net/showthread.php?tid=1508). Rights: cited reference, not reproduced. Used, with S13, for user comparisons showing that Ancient Connections and Classic Tree views report different counts or sample lists for the same branch, motivating per-view count provenance.
+- **S13:** GenArchivist Forum, *Coming Soon: Y-DNA Haplogroups for Family Finder*, first post undated — [thread](https://genarchivist.net/showthread.php?tid=275). Rights: cited reference, not reproduced. Used for the reported 2021 default match dates and for the order-history and administrator lab-results views of chip history, which motivate recording match date separately from test date; also used for the haplotree-versus-Discover count comparison and the quoted surname-report display criterion with users' terminal-branch observation (workflow 5). The posts do not establish which match rows were re-dated, current match-date or surname-report display rules, or each view's current inclusion rules or completeness.
+- **S14:** GenArchivist Forum, *NEW: MTDNA discover*, 2025-03-07 — [thread](https://genarchivist.net/showthread.php?tid=1508). Rights: cited reference, not reproduced. Used, with S13, for user comparisons showing that Ancient Connections and Classic Tree views report different counts or sample lists for the same branch, motivating per-view count provenance. Neither thread establishes each view's current inclusion rules or completeness.
 - **S15:** GenArchivist Forum, *FTDNA Discover*, first post undated — [thread](https://genarchivist.net/showthread.php?tid=416). Rights: cited reference, not reproduced. Used for the reported route from a Discover branch tester who is not a match, via Suggested Projects, to a public project display showing surname, earliest known ancestor and haplotype.
-- **S16:** GenArchivist Forum, *Big Y700*, first post undated — [thread](https://genarchivist.net/showthread.php?tid=6). Rights: cited reference, not reproduced. Used for the reported dated haplotree version in Discover's About section, the lag before Discover updates, and a Big Y placement that reverted shortly after assignment.
-- **S17:** МолГен forum, *Family Finder от FTDNA*, first post 2010-02-21 — [thread](https://forum.molgen.org/index.php/topic,1298.0.html). Rights: cited reference, not reproduced. Used for posts on Family Finder reruns in 2012–2013, which removed and later restored matches; these motivate classifying changes between dated exports as list changes, not relationship evidence.
+- **S16:** GenArchivist Forum, *Big Y700*, first post undated — [thread](https://genarchivist.net/showthread.php?tid=6). Rights: cited reference, not reproduced. Used for the reported dated haplotree version in Discover's About section, the lag before Discover updates, and a Big Y placement that reverted shortly after assignment. It establishes no current update cadence, waiting period or error rate.
+- **S17:** МолГен forum, *Family Finder от FTDNA*, first post 2010-02-21 — [thread](https://forum.molgen.org/index.php/topic,1298.0.html). Rights: cited reference, not reproduced. Used for posts on Family Finder reruns in 2012–2013, which removed and later restored matches; these motivate classifying changes between dated exports as list changes, not relationship evidence. They do not establish current processing or which list is correct.
 
 The Matrix check used S9 for X exclusions and the direct-pair interval limitation, H9 for the
 three comparison choices, and H6 for the focal-kit scope of the Chromosome Browser. H6 was
@@ -59,7 +61,7 @@ Additional project-roster example:
   The demonstration selects Family Finder and a project in Advanced Matches to list
   matches to the focal kit within that project. It also describes different admission scopes
   for a broad geographical project and its subprojects. These are historical observations;
-  no current signed-in interface was verified. The conditional availability check, saved
+  no current access or signed-in interface was verified. The conditional availability check, saved
   selection record, unknown-scope state and documentary-worklist boundary are Kinprove synthesis.
 
 Additional combined-test scope example:
@@ -77,8 +79,8 @@ Additional preservation trigger:
   The notice warns about replacement of previous results and advises downloads or
   screenshots before an upgrade, with different availability for transfer kits. Preserving
   available products before an independently authorized change, recording unavailable states
-  and separating result versions are Kinprove synthesis. Current removal, recovery, transfer
-  access, specimen requirements, upgrade eligibility and performance remain unverified.
+  and separating result versions are Kinprove synthesis. Current removal, recovery, download and
+  transfer access, specimen requirements, upgrade eligibility and performance remain unverified.
 
 Additional combined-test scope source:
 
@@ -102,6 +104,19 @@ Additional surname-list sources:
   DNAeXplained, 2020-07-07. Used for the dated display that moves surnames shared with the
   viewer to the top of a match's list in bold. The current display order was not verified;
   FamilyTreeDNA Help was not reachable when checked.
+
+Additional dated examples cited inline:
+
+- **S22:** Roberta Estes, [FamilyTreeDNA 2023 Update – Past, Present and Future](https://dna-explained.com/2023/12/11/familytreedna-2023-update-past-present-and-future/),
+  DNAeXplained, 2023-12-11. Motivates separating present access, a recorded kit manager and a
+  beneficiary in a kit-continuity handoff. It does not establish current forms, legal effect or
+  continuing access.
+- **S23:** Roberta Estes, [Globetrekker™ – A New Feature for Big Y Customers From FamilyTreeDNA](https://dna-explained.com/2023/08/04/globetrekker-a-new-feature-for-big-y-customers-from-familytreedna/),
+  DNAeXplained, 2023-08-04. Motivates the displayed-node check in workflow 7. It does not
+  establish current controls or validate the model.
+- **S24:** Roberta Estes, [New Discover Tool – Compare Haplogroups & More at FamilyTreeDNA](https://dna-explained.com/2023/10/11/new-discover-tool-compare-haplogroups-more-at-familytreedna/),
+  DNAeXplained, 2023-10-11. Motivates the input/reference crosswalk in workflow 8. It does not
+  establish current controls, colours or access.
 
 ## Credits
 
