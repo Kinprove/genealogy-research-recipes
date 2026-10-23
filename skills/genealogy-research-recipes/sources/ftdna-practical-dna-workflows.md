@@ -89,6 +89,20 @@ Additional combined-test scope source:
   authored controls. No signed-in query, current merge/transfer policy, purchase or upload
   was verified; a match across tests does not identify a single ancestral path.
 
+Additional surname-list sources:
+
+- **S20:** Paul Woodbury, [Genetic Genealogy Mysteries: How to proceed if a DNA match never responds](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds),
+  Legacy Tree Genealogists, 2024-08-07. Used for self-published surname lists entered in
+  different orders, searching compiled trees for surname combinations together with the
+  most distant paternal and maternal ancestors on FamilyTreeDNA profiles, and accounting
+  for the remaining surnames through descendancy research. The `candidate couple` status
+  and the list of unexplained surnames are Kinprove synthesis; current profile fields are
+  not verified.
+- **S21:** Roberta Estes, [“Earliest Known Ancestors” at Family Tree DNA in 3 Easy Steps](https://dna-explained.com/2020/07/07/earliest-known-ancestors-at-family-tree-dna-in-3-easy-steps/),
+  DNAeXplained, 2020-07-07. Used for the dated display that moves surnames shared with the
+  viewer to the top of a match's list in bold. The current display order was not verified;
+  FamilyTreeDNA Help was not reachable when checked.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

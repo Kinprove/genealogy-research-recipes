@@ -62,6 +62,8 @@ Address the message so that it works whether the recipient is the tester or some
 
 Keep it short. The aim is that the recipient does not have to move from website to website to find the match, and has enough to form their own hypothesis [S5]. Some testers care only about ethnicity results and may have no genealogical information [S5], so make the question answerable without genealogical knowledge.
 
+Do not make the one question a request for access to the recipient's test results. Ask for that only after they have replied. Legacy Tree lists results access among useful requests but suggests it may wait until contact is established [S6].
+
 For the most sensitive tier, step 2 limits what you may say, and those limits override this list. Kit and cM details are allowed only if they do not state the relationship for the recipient.
 
 ## 4. Inviting an untested relative to test
@@ -75,6 +77,8 @@ For the most sensitive tier, step 2 limits what you may say, and those limits ov
 ## 5. Log every attempt; record silence as silence
 
 For each message, log the date, recipient, kit, site, channel, sender (tester or helper), the disclosure tier used, and the reply status.
+
+Before the first message to any match, and before posting about the case online, save dated screenshots of the match entry (kit names, shared cM, longest segment) and of any tree linked to the match. Keep them with the log. Matches may later make their profiles private or remove their trees [S7].
 
 Record a missing reply as **no response as of [date]**, never as "refused" or "declined". Silence is common when a close relative is implicated, and it is not an answer. Jones describes a cousin who narrowed her father to one of six brothers and had no reply after more than a year. He attributes this to the brothers all being married now and the risk of disrupting families [S3]. Silence does not confirm or rule out any hypothesis. Respond with the step 2 fallback, not with follow-ups to the same person.
 

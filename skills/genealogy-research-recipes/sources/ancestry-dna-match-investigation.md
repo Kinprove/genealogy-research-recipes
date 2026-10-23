@@ -73,6 +73,10 @@ the historical control sequence and example probabilities are not carried forwar
   a hypothesis already in the tree. No actual matrix or pedigree was independently verified;
   its thresholds, standard-deviation selection band and repeated-trial advice are not adopted.
 
+- Woodbury, Paul / Legacy Tree Genealogists. "Genetic Genealogy Mysteries: How to proceed if a DNA match never responds." 2024-08-07. [Article](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds) (access and inputs; opening the full tree even when it holds one person, other trees on a user's or manager's profile, tree names as surname clues, and searching a private Ancestry tree for surnames predicted by shared matches). Recording each search and reading a miss as no disproof are Kinprove synthesis. The article names no company for the preview limit; current Ancestry profile tree listings and what a private-tree search returns are not verified.
+
+- Southard, Diahan / FamilySearch. "DNA Swim School - Part 3: Swimming Toward Your Ancestors." YouTube, 2026-05-15. [Video](https://www.youtube.com/watch?v=D9rSab4b9EI) (method 2; reading a custom cluster's matrix member by member: members added through two cells, a subgroup brought in by one match, and unexplained members tied to one spouse's subgroup). Cell-count triage, provisional spouse-family labels and work order are Kinprove synthesis; the demonstration sets no threshold and measures no accuracy.
+
 ### Relationship-range reference
 
 - [Shared cM Project, DNA Painter](https://dnapainter.com/tools/sharedcmv4): relationship-range reference for the worked example.

@@ -5,17 +5,21 @@
 - **S3:** Family History Fanatics with Larry Jones, [Larry Jones of DNA Family Trees Shares His Story of How to Handle DNA Surprises](https://www.youtube.com/watch?v=pI-BFI-19Lg), upload date not confirmed. Used for: approaching a second cousin when a close relative will not engage, and silence as a possible sign of family disruption (the six-brothers anecdote).
 - **S4:** Lisa Lisson with Mary Eberle, [Talking DNA with Expert Mary Eberle of DNA Hunters](https://www.youtube.com/watch?v=kgjB_Ok2xhI), upload date not confirmed. Used for: a helper contacting distant cousins with the client's permission, the client contacting a possible birth parent or half-sibling, and the non-accusatory fill-in model letter, identified as Leah Larkin's "Letter to a Birth Parent" (The DNA Geek, 2017-07-19).
 - **S5:** GeneaVlogger (Joe Rossi), [Optimize DNA Results by Contacting DNA Matches - (Quick Genealogy Tip #21)](https://www.youtube.com/watch?v=vimyq2Z0mmw), upload date not confirmed. Used for: naming the matching kits and site, shared cM and longest segment, a surname or town hypothesis, a tree link, keeping the message short, and not assuming the reader is the tester.
+- **S6:** Legacy Tree Genealogists, [Five Tips for Contacting Genetic Cousins](https://www.legacytree.com/blog/five-tips-for-contacting-genetic-cousins), published 19 March 2024. Used for: access to test results as one of the useful requests to a genetic cousin, with the suggestion that it may wait until contact is established.
+- **S7:** Legacy Tree Genealogists (researcher Michelle), [What Should You Do After Receiving Unexpected DNA Results? 5 Practical Tips for Navigating Family History Surprises](https://www.legacytree.com/blog/unexpected-dna-results), published 8 September 2026. Used for: saving screenshots of matches, shared cM and linked trees before contacting close matches or posting online, because matches may later make profiles private or remove trees.
 
 **What is synthesis and what is not verified:**
 
 - The following are authored synthesis and are not prescribed by any single presenter: the consent gate as a hard stop, the tier ordering, putting first cousins, aunts and uncles in the sensitive tier by default, the rule that the sensitive tier overrides the message checklist, preferring inline images or links to attachments, and the log format.
+- Also synthesis: the firm rule that a request for results access waits for a reply (S6 says only that it may wait until contact is established), and widening S7's screenshot step from close matches to any match, with the fields and date to capture.
 - Each source gives one practitioner's advice. None is a professional standard, and none reports measured response rates.
 - Not verified:
   - the model letter's exact wording;
   - any site's current messaging or tree-sharing features;
   - any company's privacy terms;
   - whether the second-cousin approach generally succeeds beyond Jones's own account;
-  - the upload dates of S1–S5.
+  - the upload dates of S1–S5;
+  - S7's publication date, which is taken from the scraped copy of the page.
 
 ## Credits
 
@@ -24,4 +28,6 @@
 - Family History Fanatics with Larry Jones, Larry Jones of DNA Family Trees Shares His Story of How to Handle DNA Surprises — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
 - Lisa Lisson with Mary Eberle, Talking DNA with Expert Mary Eberle of DNA Hunters — Third-party content, all rights reserved by the creator; brief quotation with attribution (quoted)
 - GeneaVlogger (Joe Rossi), Optimize DNA Results by Contacting DNA Matches, Quick Genealogy Tip 21 — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
-- Kinprove original procedural synthesis drawing on presenter advice cited as S1 to S5 — FSL-1.1-MIT (kinprove-original)
+- Legacy Tree Genealogists, Five Tips for Contacting Genetic Cousins — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
+- Legacy Tree Genealogists (researcher Michelle), What Should You Do After Receiving Unexpected DNA Results? 5 Practical Tips for Navigating Family History Surprises — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
+- Kinprove original procedural synthesis drawing on presenter and author advice cited as S1 to S7 — FSL-1.1-MIT (kinprove-original)

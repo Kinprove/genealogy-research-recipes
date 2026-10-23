@@ -27,6 +27,11 @@ the additional Q&A was reviewed 2026-10-21.
   first contact with a close match. Workflow 8's minimal private packet is Kinprove synthesis;
   the source's “screenshot everything” advice and causal account of withdrawal are not adopted.
   No actual withdrawn kit, original video or current hide/delete mechanism was verified.
+- [Part Two: MyHeritage DNA Theories of Family Relativity](https://www.legacytree.com/blog/myheritage-dna-theories-of-family-relativity)
+  (Legacy Tree Genealogists, 2023-06-02) — Rights: cited reference, not reproduced. Used for a
+  proposed theory path not necessarily being the source of the shared DNA, and for shared matches
+  and AutoClusters as checks. Extending the caution from a vendor-proposed path to a fully
+  documented one, and the `unresolved` default, are Kinprove synthesis.
 
 ## Credits
 

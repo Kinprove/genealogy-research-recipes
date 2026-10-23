@@ -23,6 +23,17 @@ retaining its URL and the person it actually describes. If no relevant tree can 
 keep that access gap and continue through the target's relatives. [Ancestry's comparison guidance](https://help.ancestry.com/hc/en-us/articles/53933331053331-Comparing-AncestryDNA-Matches)
 documents these categories; use only the controls actually available to the account.
 
+Open an accessible tree itself rather than relying on the match-page view, which can show
+only direct ancestors. Open even a one-person tree, and search its full people list for
+deceased or non-private collateral relatives and for the tester's birth date, year or
+place. If the match's or manager's profile shows other trees, check those too and read any
+visible tree name as a surname lead. If the available search reaches a linked private
+tree, search it for the surnames your shared matches and hypothesis predict, and record
+each surname, result and date. A hit is a lead to document. A miss does not disprove the
+line; the tree may simply not reach it. A [2024 Legacy Tree guide](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds)
+describes these steps; it does not establish current Ancestry profile contents or what a
+private-tree search returns.
+
 ## 1. Find the target through its closest relatives
 
 **Use when:** the target has no useful tree.
@@ -52,6 +63,19 @@ returned members' documentary paths. A lower-sharing seed does not establish an 
 [Nicole Dyer's 2026 demonstration](https://www.youtube.com/watch?v=1hwGyO2ft4g) reconstructs a
 previously explored line; it does not validate discovery performance, and hints generated from
 the research tree remain dependent aids.
+
+Read a cluster's matrix member by member before assigning members to the cluster's line.
+Count each member's filled cells with the cluster's documented members. Treat a member tied
+by only one or two cells as weakly attached, and check its tree and records before using it
+for the line. When one member is the only link to a subgroup whose own cells are sparse,
+treat the subgroup as a likely shared-match chain and work it last. When unexplained members
+share mainly with a subgroup already documented to one spouse's family, label them
+provisionally with that spouse's family and stop extending their trees for the other
+spouse's line. Record each call and its basis as a matrix observation. A blank cell is
+“not shown,” never a measured zero (see [section 7](#7-recover-a-missing-row-through-another-view)),
+so these calls set work order and exclude no one from the family. A
+[2026 FamilySearch cluster walk-through](https://www.youtube.com/watch?v=D9rSab4b9EI)
+motivates these checks; it sets no threshold and measures no accuracy.
 
 Orient SideView's initially anonymous Parent 1/Parent 2 split with known relatives. When a tested biological parent matches you, Ancestry labels the split maternal/paternal automatically.
 

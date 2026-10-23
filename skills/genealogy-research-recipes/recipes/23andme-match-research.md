@@ -409,6 +409,16 @@ phasing. Save those labels verbatim and check the present export's phasing basis
 rename Copy 1 globally as Mom from one chromosome. This is a dated export lesson, not a
 requirement that every current phasing feature have a tested parent. [S13]
 
+Do not read a population painted on both copies as ancestry from both parents unless both
+copies carry it over the same interval. Without identified-parent phasing, one painted copy can
+combine maternal and paternal DNA along a single chromosome. A population on Copy 1 of some
+chromosomes and Copy 2 of others, or on both copies at different places on one chromosome, may
+still come from one parent. Keep its side unknown until a tested parent or other phasing
+evidence settles it. Large overlapping regions painted with that population on both copies of
+several chromosomes are different: at any one position one copy comes from each parent, so they
+can indicate that both parents carry some of that ancestry. That reading still rests on the
+painting's own population assignments. [S28]
+
 For a changed ancestry result, open the available **Version History**, compare the new and
 previous outputs, and read its **Change Log**. Record both version labels and confidence
 settings. The September 2025 version-7 announcement limits that release to V5 customers
