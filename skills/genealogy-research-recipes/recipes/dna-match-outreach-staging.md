@@ -23,7 +23,7 @@ It does not cover the following, which have their own recipes:
   - who makes the first contact (the helper or the tester);
   - which matches the helper may contact;
   - what may be disclosed: the case question, the adoptee's or NPE status, names, birth details and tree links.
-- Require a written informed-consent agreement. It must state that the helper does not discuss the case with others, and does not contact matches, without the tester's permission. The reason: that contact may be the only one the tester ever gets with that person [S1]. A badly judged first message may be a loss you cannot recover. It is not a draft you can revise later.
+- Require a written informed-consent agreement. It must state that the helper does not discuss the case with others, and does not contact matches, without the tester's permission. The reason: that contact may be the only one the tester ever gets with that person [S1]. Treat a first message as final: you cannot revise it later.
 - If consent is missing or unclear, stop at the contact plan and a draft for the tester to review. Do not choose recipients yourself.
 
 ## 2. Stage the approach by relationship closeness
@@ -44,7 +44,7 @@ Rank every planned recipient by how close the relationship is and how sensitive 
   - Then ask for help. The letter must not state the conclusion. Leave the recipient to work it out and decide whether and how to reply. [S4]
   - Eberle credits this kind of model letter to a template a genetic genealogist published in 2017, and points to The DNA Geek blog [S4]. The template is Leah Larkin's [Letter to a Birth Parent](https://thednageek.com/letter-to-a-birth-parent/) (The DNA Geek, 2017-07-19). Read the published template before using it. Do not reconstruct it from memory.
 - **First cousins, aunts, uncles and anyone in between.** Put them in the sensitive tier unless the tester decides otherwise. A close relative's reply can itself reveal the parentage answer.
-- **A close implicated relative who does not reply.** Do not send repeated or more pointed messages. Write instead to a second cousin on the same line. People a couple of generations removed do not carry the same emotions and are freer to talk factually. Jones says he has given this advice several times and that people found it successful [S3]. Ask that person for tree facts, not for a ruling on parentage.
+- **A close implicated relative who does not reply.** Do not send repeated or more pointed messages. Write instead to a second cousin on the same line. People a couple of generations removed do not carry the same emotions and are freer to talk factually. Jones has given this advice several times and reports that it worked [S3]. Ask that person for tree facts, not for a ruling on parentage.
 - **Writing again to the same close match.** Wait at least a year, then send a new sensitive-tier message, not a reminder. Bardige gives this advice for a close match (570 cM in his example) who stops replying after first contact [S8].
 
 Contacting a more distant relative is still contact. It needs the same consent and disclosure limits as step 1.
@@ -65,11 +65,11 @@ Keep it short. The aim is that the recipient does not have to move from website 
 
 Check the match's linked tree for signs that someone other than the tester runs the kit, sometimes the family's genealogist [S9]. If so, write to that person. In the sensitive tier, the tester decides first whether that person may be contacted (step 1).
 
-Do not make the one question a request for access to the recipient's test results. Ask for that only after they have replied. Legacy Tree lists results access among useful requests but suggests it may wait until contact is established [S6]. This governs what a message asks; a site's own connection or sharing request, such as 23andMe's, follows that site's recipe.
+Do not make the one question a request for access to the recipient's test results. Ask for that only after they have replied. Legacy Tree lists results access among useful requests to a genetic cousin [S6]. This governs what a message asks; a site's own connection or sharing request, such as 23andMe's, follows that site's recipe.
 
 Do not make the hypothesis or the question a suspected religious or ethnic origin, such as Jewish ancestry. Ask for neutral tree facts instead, such as how far back the recipient's family records go. Milgrom got no answers while she asked Iberian matches about Jewish lineage. She got usable answers once she asked only whether they had family information going back to the 1400s and 1500s [S10]. Write in the recipient's likely language as well as your own; she sent short templates in English and Spanish [S10].
 
-For the most sensitive tier, step 2 limits what you may say, and those limits override this list. Kit and cM details are allowed only if they do not state the relationship for the recipient.
+For the most sensitive tier, step 2 limits what you may say, and those limits override this list. Leave out any kit or cM detail that would itself tell the recipient how they are related to the tester.
 
 ## 4. Inviting an untested relative to test
 
