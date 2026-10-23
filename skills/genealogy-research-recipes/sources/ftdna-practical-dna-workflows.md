@@ -117,6 +117,10 @@ Additional dated examples cited inline:
 - **S24:** Roberta Estes, [New Discover Tool – Compare Haplogroups & More at FamilyTreeDNA](https://dna-explained.com/2023/10/11/new-discover-tool-compare-haplogroups-more-at-familytreedna/),
   DNAeXplained, 2023-10-11. Motivates the input/reference crosswalk in workflow 8. It does not
   establish current controls, colours or access.
+- **S25:** Roberta Estes, [Y-DNA Haplogroup O – When and How Did It Get to the Americas?](https://dna-explained.com/2023/10/18/y-dna-haplogroup-o-when-and-how-did-it-get-to-the-americas/),
+  DNAeXplained, 2023-10-18. Supplies the project-to-broader-tree handoff example. Treating modern
+  earliest-ancestor places plus node ages as no evidence of a historical ancestor's location,
+  migration or identity is Kinprove's caution.
 
 ## Credits
 
