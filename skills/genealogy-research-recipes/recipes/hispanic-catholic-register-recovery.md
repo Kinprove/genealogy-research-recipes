@@ -66,7 +66,7 @@ For machine- or AI-indexed versions of these entries, use the correct-and-verify
   - the two surnames hyphenated or joined into one word, forms some immigrants adopted in the United States [S18]
 
   A U.S. record may have dropped one surname [S2]. Record every ordering searched and its result.
-- **Immigrants appear under a Spanish form of their name.** In one Puerto Rican marriage record, a couple from the French Caribbean are cited with Spanish forms of their given names (Jean as Juan, Julienne as Juliana) [S19]. Another immigrant to Puerto Rico took the Spanish form of his middle name as his given name and his mother's surname as his second surname [S20]. Search the Spanish form and the two-surname pattern as well as the birth name. Keep each form as its own observation in the name register.
+- **Immigrants appear under a Spanish form of their name.** In one Puerto Rican marriage record, a couple from the French Caribbean are cited with Spanish forms of their given names [S19]. Another immigrant to Puerto Rico took the Spanish form of his middle name as his given name and his mother's surname as his second surname [S20]. Search the Spanish form and the two-surname pattern as well as the birth name. Keep each form as its own observation in the name register.
 - **When the index fails, browse the images.** Compound surnames make Latin American indexes unreliable: an indexer has to pick one surname, and people who did not follow the standard pattern get lost [S2]. Browse the chronological registers by place and date [S2], [S4]. A zero-result index query is not an absence finding.
 
 ## 4. Keep each date in its own role

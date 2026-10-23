@@ -43,7 +43,7 @@
 
 **Not covered by the cited sources:** Freedman's Bank account fields and county free-registration books. This recipe makes no claims about their fields.
 
-**Not verified independently:** that a non-NARA Bureau finding aid keeps NARA's order but leaves out roll numbers (S30's 2025 report only), the "all her issue" form of the bequest (S37 only), and the current coverage of the Mapping the Freedmen's Bureau site.
+**Not verified independently:** that a non-NARA Bureau finding aid keeps NARA's order but leaves out roll numbers (S30's 2025 report only), the "all her issue" form of the bequest (S37 only; that a bare bequest of "increase" usually meant later-born children unless the will showed otherwise follows North Carolina case law such as Reddick, 29 N.C. 87, and Williamson v. Williamson, 57 N.C. 281 (1858), not S37), and the current coverage of the Mapping the Freedmen's Bureau site.
 
 ## Credits
 
