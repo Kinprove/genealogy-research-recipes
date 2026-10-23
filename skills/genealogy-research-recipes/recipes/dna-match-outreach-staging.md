@@ -62,7 +62,7 @@ Address the message so that it works whether the recipient is the tester or some
 
 Keep it short. The aim is that the recipient does not have to move from website to website to find the match, and has enough to form their own hypothesis [S5]. Some testers care only about ethnicity results and may have no genealogical information [S5], so make the question answerable without genealogical knowledge.
 
-Do not make the one question a request for access to the recipient's test results. Ask for that only after they have replied. Legacy Tree lists results access among useful requests but suggests it may wait until contact is established [S6].
+Do not make the one question a request for access to the recipient's test results. Ask for that only after they have replied. Legacy Tree lists results access among useful requests but suggests it may wait until contact is established [S6]. This governs what a message asks; a site's own connection or sharing request, such as 23andMe's, follows that site's recipe.
 
 For the most sensitive tier, step 2 limits what you may say, and those limits override this list. Kit and cM details are allowed only if they do not state the relationship for the recipient.
 
