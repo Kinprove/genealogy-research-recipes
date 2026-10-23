@@ -7,11 +7,15 @@
 - **S5:** GeneaVlogger (Joe Rossi), [Optimize DNA Results by Contacting DNA Matches - (Quick Genealogy Tip #21)](https://www.youtube.com/watch?v=vimyq2Z0mmw), upload date not confirmed. Used for: naming the matching kits and site, shared cM and longest segment, a surname or town hypothesis, a tree link, keeping the message short, and not assuming the reader is the tester.
 - **S6:** Legacy Tree Genealogists, [Five Tips for Contacting Genetic Cousins](https://www.legacytree.com/blog/five-tips-for-contacting-genetic-cousins), published 19 March 2024. Used for: access to test results as one of the useful requests to a genetic cousin, with the suggestion that it may wait until contact is established.
 - **S7:** Legacy Tree Genealogists (researcher Michelle), [What Should You Do After Receiving Unexpected DNA Results? 5 Practical Tips for Navigating Family History Surprises](https://www.legacytree.com/blog/unexpected-dna-results), published 8 September 2026. Used for: saving screenshots of matches, shared cM and linked trees before contacting close matches or posting online, because matches may later make profiles private or remove trees.
+- **S8:** JewishGen (presenter Gil Bardige), [JewishGen Talks: Help! I Got My DNA Results and I'm Confused -- Part 1.25](https://www.youtube.com/watch?v=0hGonlNLinM), 2026-01-25. Used for: waiting at least a year before writing again to a close match who has stopped replying, and reading a "no, I don't recognise those names" reply as a reply about the recipient's documented tree only.
+- **S9:** JewishGen, [JewishGen Talks: Challenges of DNA for Jews: Overcoming Endogamy](https://www.youtube.com/watch?v=xaa5FcbZYb8), 2025-01-22. Used for: checking a match's family tree for someone other than the tester who manages the kit, and contacting that person.
+- **S10:** JewishGen (presenter Genie Milgrom), [Introducing the New JewishGen Crypto Jewish Collection with Genie Milgrom](https://www.youtube.com/watch?v=RD6rtHS53To), 2020-11-11. Used for: short English and Spanish templates, and her report that asking Iberian matches about Jewish lineage got no answers while asking about family information back to the 1400s and 1500s did.
 
 **What is synthesis and what is not verified:**
 
 - The following are authored synthesis and are not prescribed by any single presenter: the consent gate as a hard stop, the tier ordering, putting first cousins, aunts and uncles in the sensitive tier by default, the rule that the sensitive tier overrides the message checklist, preferring inline images or links to attachments, and the log format.
 - Also synthesis: the firm rule that a request for results access waits for a reply (S6 says only that it may wait until contact is established), and widening S7's screenshot step from close matches to any match, with the fields and date to capture.
+- Also synthesis: widening S10's report on Jewish lineage to any suspected religious or ethnic origin, and widening her English and Spanish templates to the recipient's likely language. S10 names only matches in Spain and Portugal.
 - Each source gives one practitioner's advice. None is a professional standard, and none reports measured response rates.
 - Not verified:
   - the model letter's exact wording;
@@ -19,6 +23,8 @@
   - any company's privacy terms;
   - whether the second-cousin approach generally succeeds beyond Jones's own account;
   - the upload dates of S1–S5;
+  - the "open at first, then dropped out of sight" detail of the S8 case, which the checked passage does not show;
+  - that MyHeritage's current help pages still offer contact with a DNA kit manager (S9 shows only the speaker's advice to check the tree);
   - S7's publication date, which is taken from the scraped copy of the page.
 
 ## Credits
@@ -30,4 +36,7 @@
 - GeneaVlogger (Joe Rossi), Optimize DNA Results by Contacting DNA Matches, Quick Genealogy Tip 21 — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
 - Legacy Tree Genealogists, Five Tips for Contacting Genetic Cousins — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
 - Legacy Tree Genealogists (researcher Michelle), What Should You Do After Receiving Unexpected DNA Results? 5 Practical Tips for Navigating Family History Surprises — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
-- Kinprove original procedural synthesis drawing on presenter and author advice cited as S1 to S7 — FSL-1.1-MIT (kinprove-original)
+- JewishGen (Gil Bardige), JewishGen Talks: Help! I Got My DNA Results and I'm Confused -- Part 1.25 — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
+- JewishGen, JewishGen Talks: Challenges of DNA for Jews: Overcoming Endogamy — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
+- JewishGen (Genie Milgrom), Introducing the New JewishGen Crypto Jewish Collection with Genie Milgrom — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
+- Kinprove original procedural synthesis drawing on presenter and author advice cited as S1 to S10 — FSL-1.1-MIT (kinprove-original)

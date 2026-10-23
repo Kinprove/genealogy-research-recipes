@@ -97,6 +97,8 @@
 
 88. *Were Your Ancestors Part of a Scottish Clan?* — Legacy Tree Genealogists (researcher Caleb), 2026-08-19 — <https://www.legacytree.com/blog/scottish-clan> — Rights: cited reference, not reproduced. Used for a same-surname Y comparison with a chiefly family's tested line as a clue to descent from that family, and for DNA giving clues, not proof, of clan membership, which records must address. The article's statements on how clans were organised, who belonged to them, when surnames were adopted and when the clan system ended are not adopted. Widening the rule to other named-lineage projects, and the surname-timing check, are Kinprove's synthesis.
 
+89. *JewishGen Talks: We Were Together at Sinai — A Genetic Census of the Jewish People* — JewishGen, 2026-07-05 — <https://www.youtube.com/watch?v=JGYHcA31I8g> — Rights: cited reference, not reproduced. Used for the warning against reading a large branch as an early founder, and for under-sampling of thin sibling branches. The speakers' own explanation (largely statistical chance) is not adopted; the point that branch age comes from the tree's dated estimate is Kinprove's synthesis.
+
 ## Credits
 
 - Roberta Estes, 'All About AI – What It Is, What It Isn't, and Why It Matters', DNAeXplained, 2026-06-25 — FSL-1.1-MIT (adapted)
