@@ -24,7 +24,6 @@
   - whether the second-cousin approach generally succeeds beyond Jones's own account;
   - the upload dates of S1–S5;
   - the "open at first, then dropped out of sight" detail of the S8 case, which the checked passage does not show;
-  - that MyHeritage's current help pages still offer contact with a DNA kit manager (S9 shows only the speaker's advice to check the tree);
   - S7's publication date, which is taken from the scraped copy of the page.
 
 ## Credits
