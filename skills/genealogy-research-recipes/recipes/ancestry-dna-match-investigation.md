@@ -31,8 +31,7 @@ visible tree name as a surname lead. If the available search reaches a linked pr
 tree, search it for the surnames your shared matches and hypothesis predict, and record
 each surname, result and date. A hit is a lead to document. A miss does not disprove the
 line; the tree may simply not reach it. A [2024 Legacy Tree guide](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds)
-describes these steps; it does not establish current Ancestry profile contents or what a
-private-tree search returns.
+describes these steps.
 
 ## 1. Find the target through its closest relatives
 
@@ -75,7 +74,7 @@ spouse's line. Record each call and its basis as a matrix observation. A blank c
 “not shown,” never a measured zero (see [section 7](#7-recover-a-missing-row-through-another-view)),
 so these calls set work order and exclude no one from the family. A
 [2026 FamilySearch cluster walk-through](https://www.youtube.com/watch?v=D9rSab4b9EI)
-motivates these checks; it sets no threshold and measures no accuracy.
+motivates these checks.
 
 Orient SideView's initially anonymous Parent 1/Parent 2 split with known relatives. When a tested biological parent matches you, Ancestry labels the split maternal/paternal automatically.
 
