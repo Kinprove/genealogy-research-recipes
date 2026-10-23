@@ -41,6 +41,14 @@ Open Enhanced Shared Matches and sort by cM **to the target**. Start with its hi
 
 Open those relatives' trees and use obituaries, births and census households to identify the target and its parents. At 1773 cM, the [chart-supported candidates](https://dnapainter.com/tools/sharedcmv4) are full/half sibling, aunt/uncle–niece/nephew and grandparent–grandchild paths. If their trees are also missing, use recipe 3.
 
+Before tracing the target's parents' families, use its documented relatives to choose which side
+to search first. Record each close relative's side of the target's family, as its tree and records
+show it, and its cM with you. A relative on one side who also shares substantially with you points
+the search to that side, as in a [JewishGen endogamy talk](https://www.youtube.com/watch?v=xaa5FcbZYb8).
+One who shares little with you, like Ruth in the worked example, identifies the target but not the
+side of your connection. Treat the choice as work order, not exclusion: under endogamy a relative
+can share with you through another line, and a relative not shown with you is not a measured zero.
+
 **Output:** the target's identity and sourced parents or grandparents, obtained through a relative whose tree is informative.
 
 ## 2. Work a branch with a small anchor table
@@ -166,6 +174,13 @@ you descend. Southard's [2020 worked example](https://www.youtube.com/watch?v=em
 shows why the headline count can be misleading. This is a path-review worklist, not a
 subtraction rule or a probability; document each proposed link before promoting it.
 
+Treat a ThruLines “half” relationship as a reading of the trees, not of the DNA. A
+[JewishGen endogamy talk](https://www.youtube.com/watch?v=xaa5FcbZYb8) reports half labels that
+arose because a contributing tree recorded only one parent of the ancestral couple; no Ancestry
+help page confirms this cause. Before recording a half relationship or a second partner, check
+whether your tree and the trees on the path record both spouses of the common couple. Resolve the
+couple from records and keep the half and full alternatives open.
+
 **Output:** a verified tester/link statement and a candidate comparison for each hypothesis.
 
 ## 6. Detect a label that already uses your shared-match evidence
@@ -184,6 +199,13 @@ origin, leave it unknown. See [Assigning Relationships](https://help.ancestry.co
 and [Matches by Parent](https://help.ancestry.com/hc/en-us/articles/53933348047251-Matches-by-Parent).
 
 Before mapping an Ancestry amount to a relationship, record the weighted headline, unweighted amount, segment count, longest segment, kit and view date. If the longest segment alone exceeds the headline, mark it possibly reduced by weighting. If a figure still looks low for a documented path, use the match-to-match view to find the match's close relatives and compare your and your tested relatives' sharing with them through the same line; consistently larger amounts make the low figure doubtful, not the path. Keep the low figure recorded as observed and check the relationship range against each figure separately. The [Timber-weighting discussion](https://genarchivist.net/showthread.php?tid=576) and a [match-to-match comparison discussion](https://genarchivist.net/showthread.php?tid=137) motivate these flags. Close relatives inherit different segments; the examples set no threshold, do not show the unweighted figure is always more accurate, and the sourced pedigree decides the relationship.
+
+Pair the longest segment only with the unweighted amount, because Ancestry reports it before
+Timber weighting. A [JewishGen talk](https://www.youtube.com/watch?v=0hGonlNLinM) that cites
+Ancestry's white paper says the segment count is unweighted too; no readable Ancestry page
+confirmed that. Compute an average segment length as unweighted amount ÷ segment count, and label
+it so. Dividing the weighted headline by the count understates the average and mixes two
+measurements.
 
 Keep three columns: observed cM, dated label with its origin, and sourced pedigree path. Include half and full alternatives when considering a relationship (Bartlett, 2026-03-27). A changed label belongs in the label/date column; inspect changed measurements, records or tester identity before revising the documented pedigree.
 

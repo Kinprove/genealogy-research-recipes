@@ -77,6 +77,9 @@ the historical control sequence and example probabilities are not carried forwar
 
 - Southard, Diahan / FamilySearch. "DNA Swim School - Part 3: Swimming Toward Your Ancestors." YouTube, 2026-05-15. [Video](https://www.youtube.com/watch?v=D9rSab4b9EI) (method 2; reading a custom cluster's matrix member by member: members added through two cells, a subgroup brought in by one match, and unexplained members tied to one spouse's subgroup). Cell-count triage, provisional spouse-family labels and work order are Kinprove synthesis; the demonstration sets no threshold and measures no accuracy.
 
+- JewishGen.org. "JewishGen Talks: Challenges of DNA for Jews: Overcoming Endogamy." JewishGen, YouTube, 2025-01-22. [Video](https://www.youtube.com/watch?v=xaa5FcbZYb8) (methods 1 and 5; choosing which side of a target's tree to search from a documented relative who also shares with you, and ThruLines half labels reported from trees naming one spouse). The speaker's hedged reasoning sets no threshold. The ThruLines half-label cause rests on this talk and a 2019 blog case; no Ancestry help page confirms it, so it stays unverified vendor behaviour. Rights: cited reference, not reproduced.
+- JewishGen.org. "JewishGen Talks: Help! I Got My DNA Results and I'm Confused -- Part 1.25." JewishGen, YouTube, 2026-01-25. [Video](https://www.youtube.com/watch?v=0hGonlNLinM) (method 6; unweighted amount, segment count and longest segment). Secondary sources confirm the longest segment is shown before Timber weighting. That the segment count is unweighted rests on the speaker citing Ancestry's white paper; the white paper and help pages could not be read, so it is unverified. Rights: cited reference, not reproduced.
+
 ### Relationship-range reference
 
 - [Shared cM Project, DNA Painter](https://dnapainter.com/tools/sharedcmv4): relationship-range reference for the worked example.
