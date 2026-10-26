@@ -178,7 +178,7 @@ submitted to demonstrate need, together with its accompanying household statemen
 Build a dated household-and-means row: named people, stated relationships and ages, residence,
 occupation, ability to work, assets, debts and income, recording only fields actually supplied.
 Keep the applicant's statement separate from a clerk's or witness's assessment. Such papers can
-name family members missing from a contemporary census return; retrieve the cited pension images
+name family members not individually named in a contemporary census return; retrieve the pension images
 before treating an article's extract as an inspected original. Preserve the declaration's
 need-supporting purpose: its valuations are reported claims, and the listed household is not a
 complete list of the veteran's relatives. [S17, S18, H3]
