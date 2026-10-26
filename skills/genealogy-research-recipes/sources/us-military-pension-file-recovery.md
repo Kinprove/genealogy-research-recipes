@@ -80,6 +80,16 @@ The linked routing, request-receipt and image/timeline schemas are original synt
   another applicant's file, then returning to the original. Only the teaching narration
   was inspected here; the original pension, named people and their service or relationships
   were not verified. Current hosting, coverage, charges and eligibility rules are not adopted.
+- **S17:** Vita Brevis, Danielle Rose,
+  [Pension record insights](https://vitabrevis.americanancestors.org/2022/07/pension-record-insights),
+  13 July 2022. Property and income statements in a need-based Revolutionary War claim.
+  The article's blanket 1818–1832 schedule chronology is not adopted.
+- **S18:** Vita Brevis, Jonathan Hill,
+  [Cato Freedom: Soldier of the Revolution](https://vitabrevis.americanancestors.org/cato-freedom),
+  24 February 2025. A household declaration beside the claimant's property, occupation and
+  ability to work, with a separate clerk's assessment. Only the article was inspected here;
+  the original pension images, named family and narrated explanation for a muster-roll gap
+  were not verified. The dated household-and-means row is original synthesis.
 - **H1:** National Archives,
   [Requesting Copies of Older Military Service Records](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records),
   page reviewed 16 January 2026; checked 7 October 2026. Request forms, federal scope and
@@ -87,6 +97,11 @@ The linked routing, request-receipt and image/timeline schemas are original synt
 - **H2:** National Archives,
   [Genealogy Research in Military Records](https://www.archives.gov/research/military/genealogy),
   checked 7 October 2026. Record-type, service category and custodian routing.
+- **H3:** National Archives, D. Meadows,
+  [Family Tree Friday: More Unexpected Finds in Military Pensions](https://narations.blogs.archives.gov/2009/11/20/family-tree-friday-more-unexpected-finds-in-military-pensions/),
+  20 November 2009; checked 26 October 2026. An 1820 need-supporting property inventory and
+  accompanying letter about the claimant's wife and resident daughter. Corroborates looking
+  beyond service testimony; the historical hosted-file link is not a current access guarantee.
 
 ## Credits
 

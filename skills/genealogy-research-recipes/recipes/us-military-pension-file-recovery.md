@@ -173,6 +173,16 @@ motivates this comparison without establishing misfiling or the missing paper's 
 6. End with a claim-action timeline, source-linked leads and explicit gaps. Send identity,
    relationship or conflicting-evidence conclusions to the evidence/proof workflow. [S1, S2]
 
+For a Revolutionary War veteran's postwar household, look for a property or income schedule
+submitted to demonstrate need, together with its accompanying household statement or letter.
+Build a dated household-and-means row: named people, stated relationships and ages, residence,
+occupation, ability to work, assets, debts and income, recording only fields actually supplied.
+Keep the applicant's statement separate from a clerk's or witness's assessment. Such papers can
+name family members missing from a contemporary census return; retrieve the cited pension images
+before treating an article's extract as an inspected original. Preserve the declaration's
+need-supporting purpose: its valuations are reported claims, and the listed household is not a
+complete list of the veteran's relatives. [S17, S18, H3]
+
 Never read a filing date as a death date. Take death dates from a document that states them, such
 as a drop report, a widow's declaration, or a later widow's proof that an earlier marriage had
 ended ([Lisson's death-date session](https://www.youtube.com/watch?v=bc92E8Oq4zU)). Record such a
