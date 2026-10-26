@@ -22,10 +22,12 @@
 - **S20:** GeneaVlogger, [Answering Live Genealogy and DNA Test Questions](https://www.youtube.com/watch?v=U27k4R4rUkY), 2025-06-21. C-file and VA master index card requests; the conflicting "79th" unit number.
 - **S21:** GeneaVlogger, [Hanging Out Answering Genealogy Questions](https://www.youtube.com/watch?v=w52SjzPpDiA), 2025-08-30. VA C-file requests refused in 2025, with the presenter's own speculation about why.
 - **S22:** Family History Fanatics, [Explore Passenger Lists on Ancestry](https://www.youtube.com/watch?v=UFJQYcw-X18), 2022-10-03. Army transport lists; following ditto marks to read the unit; relative and address as identity checks.
+- **S23:** Reclaiming Kin, [WWI Soldier Pictures and More](https://reclaimingkin.com/wwi-soldier-pictures-and-more/), 2023-05-30. State WWI questionnaires and Gold Star examples with family biographies, photographs, letters and death notifications. A collateral file and a Mississippi-born soldier's file in the Tennessee discussion motivate family and next-of-kin state leads, not a universal eligibility rule. The author reports that an Alabama PDF can hold images absent from its preview. Original files and current race grouping, filters, download controls and Ancestry access were not inspected.
+- **H1:** Alabama Department of Archives and History, [Research Tips: World War I Gold Star Files](https://www.archives.alabama.gov/research/guidance/tips.aspx), checked 2026-10-26. Describes a separate state collection built from survivors' contributions about Alabama service members who died in World War I. Corroborates its commemorative purpose and source of information, not the completeness of its coverage or any file's genealogy.
 
 The routing register, the product-by-product request order, the three-column timeline and the personal/unit/derivative separation are authored synthesis. The presenters supply the case accounts, the file product names and the access experiences.
 
-The cited videos do not support, so this recipe does not include: state statement-of-service cards, state war-history questionnaires, pre-1917 foreign service records, wound or gas lists by record group, officer service-number dating, or how morning reports record entries.
+The videos S1–S22 do not support state war-history questionnaires; that separate route rests on the new source S23 and the custodian's description H1. This recipe still does not include state statement-of-service cards, pre-1917 foreign service records, wound or gas lists by record group, officer service-number dating, or how morning reports record entries.
 
 ## Credits
 
@@ -35,4 +37,4 @@ The cited videos do not support, so this recipe does not include: state statemen
 - GeneaVlogger, Hanging Out Answering Genealogy Questions, 2025-08-30 — Short attributed quotation (fair use) (quoted)
 - BYU Family History Library, James Tanner, Finding Your Ancestors and Relatives with Military Records, 2020-11-17 — Short attributed quotation (fair use) (quoted)
 - BYU Family History Library, James Tanner, Finding that Genealogical Gold Right Under Your Feet, 2017-04-26 — Short attributed quotation (fair use) (quoted)
-- Kinprove original procedural synthesis drawing on presenter case accounts S1–S22 and on custodian facts from NARA, FamilySearch, Ancestry and Reclaim The Records, all paraphrased — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis drawing on presenter case accounts S1–S22, Reclaiming Kin's state-file examples S23 and custodian facts from NARA, FamilySearch, Ancestry, Reclaim The Records and the Alabama Department of Archives and History, all paraphrased — FSL-1.1-MIT (kinprove-original)
