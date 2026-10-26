@@ -7,6 +7,7 @@
 - **S5:** Denyse Allen, [Centre County Library & Historical Museum](https://www.youtube.com/watch?v=_u2AXAJGbJQ), 2024-07-25. Used for: the same account, which matches S4.
 - **S6:** BYU Family History Library, Jerroleen Sorensen, [Adoption and Illegitimacy Research in the UK](https://www.youtube.com/watch?v=OsTDv3X3rBw), 2025-08-12. Used for: "otherwise", "alias" and unhyphenated double surnames, household and age-gap signals and her counter-example, and false "married"/"widow" statuses.
 - **S7:** Ahnenforschung.net Forum, [Linktipps](https://forum.ahnenforschung.net/forum/thread/78308/), 2014-05-05. Used for: a participant's tip on the Kalocsa diocesan case list (sorting by *impraegnatio* and locality, its incompleteness, and some parties marrying later).
+- **S8:** Reclaiming Kin, [Two Men Become One: Identity](https://reclaimingkin.com/two-men-become-one-identity/), published 2022-04-05. Used for: the account's transcription of an apprenticeship instrument that expressly describes the child's status and names the mother under one surname with her current husband. Keeping the statement distinct from the series type and separating recorded surnames, current marriage and biological parentage are procedural synthesis. The original instrument and its complete archival locator were not independently inspected; the account's identity conclusion is not adopted.
 
 **Authored content.** The series checklist, the status labels and the allegation-level recording format are authored synthesis. S4 and S5 repeat the same story and are not independent.
 
@@ -14,4 +15,4 @@
 
 - Lisa Lisson, Tracing Ancestors Born Out of Wedlock, video, 2020-07-03 — Third-party content, all rights reserved by the rights holder; brief attributed adaptation (adapted)
 - BYU Family History Library, Jerroleen Sorensen, Adoption and Illegitimacy Research in the UK, video, 2025-08-12 — Third-party content, all rights reserved by the rights holder; brief attributed adaptation (adapted)
-- Kinprove original procedural synthesis drawing on the cited presenters and forum participant (S1-S7) and outside authorities named in the text — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis drawing on the cited presenters and forum participant (S1-S7), the paraphrased research account S8 and outside authorities named in the text — FSL-1.1-MIT (kinprove-original)

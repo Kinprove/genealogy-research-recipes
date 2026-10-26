@@ -2,9 +2,11 @@
 
 Use this recipe when a birth, marriage, death or land transaction for an early New England person may appear only in a town clerk's book, or when a compiled marriage entry such as Torrey's is the main lead. It covers three things: identifying the jurisdiction (parent, daughter and neighbouring towns), reading whole volumes with recorded coverage, and decoding Torrey's notation before using it. For a bride with an earlier marriage, use the successive-unions step in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For logging coverage after a jurisdiction split, use [research documentation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md). Town books can mention land sales and estates, but probate files and deed indexes have their own recipes: [probate case inventory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md) and [land index recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/land-index-book-series-recovery.md).
 
-**Inputs:** the person or couple, approximate dates, the current town name, and any Torrey or other compiled entry copied exactly, including its brackets, parentheses, question marks and abbreviations.
+**Inputs:** the person or couple, approximate dates, the recorded locality and any candidate town name, and any Torrey or other compiled entry copied exactly, including its brackets, parentheses, question marks and abbreviations.
 
 ## Work out the towns before reading anything
+
+If the supplied place is a village or another local place name, first identify the town whose register covered it at the event date. Keep the recorded village name and the recordkeeping town as separate fields; do not assume the village has its own clerk or vital-record series. Confirm the relationship from a dated town guide or the actual register description before selecting the books. The Assonet/Freetown register lead illustrates this distinction. [S6]
 
 Do not search only the town as it exists today. Look the town up in a New England town guide and record three things: when it was incorporated or established, any parent town, and any daughter towns. New England towns were often carved out of a larger original town, and the earlier records usually stayed with the older town [S4], [S5]. Example: Abington, Massachusetts, established 10 June 1712 (o.s.), now in Plymouth County, was formerly part of Bridgewater [S4], [S5] ([Massachusetts Historical Commission town report](https://www.sec.state.ma.us/divisions/mhc/preservation/survey/town-reports/abi.pdf)). Early Abington residents must also be searched in Bridgewater.
 
@@ -15,7 +17,7 @@ Do not search only the town as it exists today. Look the town up in a New Englan
   - The American Ancestors town guides. The [town-guide page](https://AmericanAncestors.org/node/1535) lists seven state guides, including a Vermont Town Guide. The presenter described them as free [S4].
   - For Massachusetts, *Historical Data Relating to Counties, Cities and Towns in Massachusetts* (Secretary of the Commonwealth; 5th ed. 1997 by NEHGS), which gives each town's chronology of establishment and boundary changes ([Secretary of the Commonwealth](https://www.sec.state.ma.us/divisions/cis/historical/information-data.htm)) [S4].
 
-**Output:** a town list giving each town's role (current, parent, daughter or neighbour), its set-off or establishment date, and the guide entry that supports it.
+**Output:** a town list giving each town's role (current, parent, daughter or neighbour), its set-off or establishment date, and the guide entry that supports it. Keep any village-to-town mapping with its dated basis.
 
 ## Read each book whole, in order
 
@@ -24,6 +26,7 @@ Most town books are the clerk's running minutes [S3]. Treat such a book as a con
 - Do not stop at the pages around the expected date. Clerks sometimes recorded a family's remaining children together at a later date, after an earlier birth or marriage entry, so you cannot be sure nothing was missed unless the whole record is read [S2].
 - For each entry you extract, record the volume and the page. Mark it **contemporaneous** or **retrospective** only on evidence of when it was written or copied relative to the event: for example, a clerk's note that it was entered later, ink or hand that matches the surrounding entries, or a statement that the volume is a copy. Arrangement alone, whether date order or family grouping, does not decide the label; when only the arrangement is known, mark the timing **undetermined**. Note the page of a retrospective entry even if a contemporaneous entry for the same event also exists.
 - Compiled extracts, such as James N. Arnold's *Vital Record of Rhode Island, 1636–1850* (21 vols.), are useful but can contain transcription errors and may be too brief to identify a person (e.g. only a child's name and parents' names) [S2]. Use them to find the original page, then read that original.
+- A column can contain a narrative instead of its expected value. In the foundling entry reported in S6, the birthplace column describes where the child was found and gives a physician's estimated age. Preserve such wording rather than forcing it into a birthplace field. Keep the finding place, finder, opinion or estimate, and stated date separate. The finding place is not thereby the birthplace, and neither the finder nor the household head is thereby a parent. Unknown parents remain unknown. [S6]
 - Originals may also be held in historical societies or university special collections, and some may be unreadable because of their condition [S1], [S3]. Record a volume you could not read as **unread**, not as read with no result.
 
 **Never report "not in the town records" without the coverage behind it.** Name the towns, volumes and page ranges actually read, and the volumes not read.
@@ -44,7 +47,7 @@ A decoded Torrey entry is a lead to the cited works and to the town books. It do
 
 ## Return the packet
 
-1. A town list: current, parent, daughter and neighbouring towns, with dates and the guide entry for each.
+1. A town list: current, parent, daughter and neighbouring towns, with dates and the guide entry for each, plus any recorded village-to-town mapping and its dated basis.
 2. A coverage register: town, volume, page range read, date read, and whether any clerk index was used and which series it covered.
 3. Extracted entries with volume and page, each marked contemporaneous, retrospective or undetermined, with the evidence for that label.
 4. The Torrey entry exactly as printed, with each surname's position, bracket, parenthesis, "w", "?" and abbreviation decoded against Torrey's key, and each abbreviation expanded to a full citation.
