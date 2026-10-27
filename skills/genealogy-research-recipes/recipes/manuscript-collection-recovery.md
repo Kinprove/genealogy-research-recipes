@@ -28,6 +28,14 @@ describes a death-claim packet containing a 1915 insurance application with fami
 Keep that application's date and informant separate from the death claim. One reported packet
 does not establish standard contents, verify family statements or guarantee a current copy route. [S29]
 
+For an identified Emigrant Industrial Savings Bank account, check whether the actual collection
+separately describes deposit ledgers and test books. If it does, use the supplied account number
+to look for a test-book entry for that account, checking the entry's own heading and date. The
+ACPL presentation distinguishes transaction-ledger material from test books used for security
+questions; reading a transaction-only ledger does not exhaust that separate target. Keep any
+test book not located or inspected outstanding. The narrated example does not establish
+standard fields, identity or current availability. [S33]
+
 After a gap in sacramental registers, include the identified parish's cash accounts
 (`Kirchenkassen-Rechnungen`) in the context search. Gegner-Sünkler's Canditten articles
 describe named contributors and an administrative letter in those accounts. Check the actual
