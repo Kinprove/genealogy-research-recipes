@@ -23,6 +23,16 @@ authorship does not require a Kinprove account, connector or scoring engine.
    those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
    reading a WATO ranking as a verdict, ignoring endogamy).
 4. If no recipe matches, answer normally — don't force-fit.
+5. Before linking DNA results to a searchable tree, transferring genetic or match data to
+   another service, or using an extension to export it, make a separate privacy decision.
+   Record the people and exact data involved, the destination and intended audience; inspect
+   the available visibility/searchability controls, export fields and extension permissions.
+   Explain any tentative relationships or sensitive findings the action could disclose.
+   Require explicit permission covering that action, destination and each person's genetic
+   data; kit/account access or permission to analyze alone does not establish it.
+   If permission or disclosure scope is unclear, do not link, transfer or export; keep the
+   material local. Apply the consent and redaction rules in
+   [AI for DNA research](recipes/ai-for-dna-research.md#verification--privacy-discipline).
 
 ## Recipes
 

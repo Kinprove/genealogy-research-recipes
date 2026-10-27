@@ -121,7 +121,15 @@ Editing a tree leaves DNA matches and cM unchanged; it changes tree-derived path
 
 For ThruLines, matching must be enabled, with family-history membership, two-step verification or Apple/Google sign-in, and a linked public or private searchable tree containing identifying details across at least four generations. ThruLines reaches fifth-great-grandparents. Its parent filter uses biological-parent labels in the tree, rather than DNA By Parent.
 
-For an unresolved ancestral path:
+**Privacy checkpoint before relinking:** A separate, labeled tree is not by itself a
+privacy safeguard. Before changing the DNA link or searchability, inspect the candidate
+people, notes and tentative relationships against the actual visibility/searchability
+controls, and apply the separate permission gate in `SKILL.md`. Do not make a sensitive
+hypothesis searchable just to obtain suggestions. If that disclosure is not explicitly
+approved or its scope cannot be checked, leave the current link unchanged and keep the
+hypothesis local and unlinked.
+
+Only after that privacy decision, for an unresolved ancestral path:
 
 1. Preserve the evidenced tree and record the original DNA-to-tree link.
 2. Put one candidate lineage in a separate, labeled research tree and link your test to **yourself as the actual tester** there.
