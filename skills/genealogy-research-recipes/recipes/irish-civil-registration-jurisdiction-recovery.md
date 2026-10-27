@@ -36,6 +36,8 @@ From the index entry, copy these fields exactly: year, quarter (from 1878 only),
 - **Don't treat the quarter as the birth date.** In the presenter's example, the index showed a registration quarter of April–June 1942, but the child was born in March 1942. Births are registered after they happen, so put the quarter in its own field. Take the event date only from the certificate. [S1]
 - **Page through every result.** Do not stop at the first page of index hits. In the presenter's example, the target was on the second page. [S1]
 
+Where the actual search expands name variants only for the primary party and treats the second-party name literally, rerun the marriage search with the parties exchanged, even after a plausible hit. [S5]
+
 **Coverage.** Civil registration of non-Catholic marriages began in 1845. Registration of all births, deaths and marriages began in 1864. [S1] IrishGenealogy.ie releases records under a 100/75/50-year rule (births older than 100 years, marriages older than 75, deaths older than 50) and adds about one more year each year. Work out the current cutoff for the event type before you report a search as complete.
 
 **Northern Ireland after 1921.** IrishGenealogy.ie holds no Northern Ireland civil records after 1921, so a nil result there is not a negative search. [S1] The presenter described FamilySearch films of Northern Ireland indexes and certificate images for 1922–1959 as restricted. Record that as an access status, not as "no record". [S1]
