@@ -31,6 +31,8 @@ Run batches that combine place with a creating body, record type, religion, occu
 
 If a town search is thin, widen it to the county and then the state [S4].
 
+For a store or professional ledger, also try `account book`, `journal`, `daybook`, `business papers` and `business records` with the supported creator or place. These are alternate finding-aid labels, not a promise that every business-paper hit contains a ledger; check the description for the dated volume [S28].
+
 Do not limit the search to repositories near the ancestor. Papers move with descendants, migrants, donors and collectors. The George S. Tanner papers on northern Arizona are held at the University of Utah. The presenters also report Biltmore Hotel material at a different university than expected, and migrants' letters donated in the state where descendants settled [S3], [S5], [S9], [S14], [S15]. Do not apply a portal's map or repository filter before the keyword search [S3], [S7].
 
 If a result set is large, switch ArchiveGrid to its summary view and narrow by people/family, place, archive location or topic. Write down the facet state with the result count [S3], [S6], [S7].
@@ -87,6 +89,8 @@ Before you request or travel, ask the repository:
 The presenters describe items that are digital but sit behind a sign-in, and others that can be viewed only on site, or only after an access or digitisation request [S21], [S23]. Record of Members is also being indexed on FamilySearch (collection 3714676), which changes what a name search can reach for that collection. NEHGS holds the April 1755 list of payments to New Hampshire officers for the Crown Point expedition (Mss C 2051). The item is also listed in the free Digital Commonwealth portal. Check every free access route before you pay for a membership or a copy.
 
 Request items by the repository's own locator (collection or call number, box, folder or item), not by a surname. If staff say a collection is not held, ask again using the repository's own catalogue record. In the presenter's account in [S15], the front desk first denied a holding that was in fact there.
+
+For a ledger copy request, include the account heading and any linked continuation pages. The article in [S28] describes debit amounts that can continue on another page and a separate payment column. Check the actual volume's labels and page links before treating a partial page as the complete account; no particular debit/credit layout is assumed.
 
 Keep every candidate in exactly one of three states: **catalogue hit**, **requested**, or **inspected**. Record which boxes or volumes were actually read. Anything unread stays unread, not negative [S17], [S19].
 

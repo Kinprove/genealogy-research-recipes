@@ -29,6 +29,7 @@ Based on recorded talks (reviewed 2026-10-20) and two forum threads (S26, S27); 
 - **S25:** BYU Family History Library / Ada Nelson, [Online Resources for Hispanic Research](https://www.youtube.com/watch?v=6Cv70YyM0vo), 2019-11-09. Use the portal to get the archive's name, then go to the archive's own site.
 - **S26:** Ahnenforschung.net Forum, [Landesarchiv in Schleswig](https://forum.ahnenforschung.net/forum/thread/2962139/), 2025-10-21. A participant's report that Arcinsys Schleswig-Holstein does not yet cover all districts; the Kunz guides, arranged by district, to the Landesarchiv's holdings.
 - **S27:** Ahnenforschung.net Forum, [Ich brauch bitte einmal eure Hilfe in Bezug meiner Suche in Nürnberg 1600](https://forum.ahnenforschung.net/forum/thread/3014835/), 2026-05-27. A series-name search that found nothing; council decrees listed in a copybook's contents note; the note visible in search but not in the tectonics view (participant report); searching parent bodies; Fünfergericht files divided among the city archive, state archive and special collections; the target decree not found.
+- **S28:** Reclaiming Kin / Robyn, [Using Ledgers and Account Books](https://reclaimingkin.com/using-ledgers-and-account-books/), 2024-07-09, saved article reviewed 2026-10-27. Used for alternate finding-aid labels (account book, journal, daybook, business papers and business records) and requesting the account heading with linked continuation pages. The article describes debit amounts continuing onto another page and a separate payment column; no universal layout is adopted. Its pictured accounts, named identities, holdings, search counts, digitization, historical claims and proposed personal inferences were not independently established or incorporated.
 
 **What is synthesis.** The recipe's structure is authored synthesis: the context and creator registers, the layer log, the three request states and the closing packet. The presenters and forum participants supply the example searches, the reported counts and extents, and some portal-coverage statements.
 
@@ -36,4 +37,4 @@ The two Tanner talks give conflicting extents and family relationships for the s
 
 ## Credits
 
-- Kinprove original procedural synthesis drawing on community videos and forum threads cited as S1 to S27 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis drawing on community videos, forum threads and the Reclaiming Kin article cited as S1 to S28 — FSL-1.1-MIT (kinprove-original)
