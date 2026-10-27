@@ -71,6 +71,13 @@ and a [wartime-relatives thread](https://rodgersforum.borda.ru/?1-23-0-00000042-
 motivate this. An entry does not name heirs or show the file's contents. Neither thread shows the
 file being opened, the registry's starting year, or what a missing entry means. [S16]
 
+For a Dutch will whose notary or date is unknown, Hoitink describes a historical Central Last
+Wills Register filed by the testator's birth year. Where the inventory confirms that register
+and arrangement, take a matching entry's notary, notary's place, will date and number to the
+notarial series. She also describes a death-duty file as a will locator, reached where applicable
+through its contemporary `table V-bis`; follow the will's notary/date/place reference actually
+given in that file. [S19]
+
 ## 2. Resolve every discovered reference into its own inventory row
 
 If the packet has a coded document key, locate the collection's actual master legend before
