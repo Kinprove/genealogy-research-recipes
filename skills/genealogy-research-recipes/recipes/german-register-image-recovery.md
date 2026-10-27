@@ -127,6 +127,7 @@ Most towns had no parish of their own. One presenter estimates that the birth to
 
 ## 8. Read the full entry, including the bottom of the page
 
+- **Keep a named sponsor separate from a proxy.** If a baptism names one sponsor and another person acting in that sponsor's place, record both people with their distinct roles and the literal clause. Do not merge them into one person or an undifferentiated list of co-sponsors. Keep an uncertain role reading explicit in the associate worklist. The article in [S43] supplies a reported translation with this distinction; the original and translation were not independently checked.
 - **Check illegitimate baptisms for a later note.** In the presenter's Württemberg example, a child born in 1841 was entered under the mother's surname. The father's name and a legitimation date about a year later (30 May 1842) were written at the bottom of the page. [S24], [S25]
   - The presenter says this legitimation was done by the local Amt (lower court), not the church. Treat the court record as a separate retrieval lead. [S25]
   - Search the child under both surnames. Later records, such as an emigration index, may use the father's name. [S24], [S25]
@@ -141,6 +142,6 @@ Return the following:
 - **Jurisdictions:** each confession's parish, StdA, AG and BKdo, each marked as held in the town or by a named other town.
 - **Territory and names:** territories by period, the modern foreign name, and the catalogue search terms.
 - **Versions:** a version classification for each image, with separate locators.
-- **Entry text:** a full transcription that includes the marginal and closing notes.
+- **Entry text:** a full transcription that includes the marginal and closing notes, with separately labelled sponsor and proxy roles when the entry distinguishes them.
 - **Status flags:** verified on the original image; gazetteer-stated; derivative-only; volume lost/unavailable (with the last entry number seen); or access-pending (only after the portals and catalogue were rechecked, with the check date).
 - **Next step:** the next record that would decide the case (court legitimation file, house-owner book, muster roll, Sammelakte, marginal-note reference, or the other register version).
