@@ -1,5 +1,6 @@
 name: genealogy-research-recipes
-version: 1.6.3
+version: 1.6.4
+requires_hermes: ">=0.21.5"
 description: Fact-checked genealogy recipes for DNA evidence, record searches and proof judgment.
 author: Kinprove
 license: FSL-1.1-MIT
