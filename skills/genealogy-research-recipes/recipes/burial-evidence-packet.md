@@ -297,6 +297,10 @@ area separately from coordinates. Use co-burial/proximity to nominate associates
 their burial records before proposing a relationship. The [co-plot search description](https://lostrussianfamily.wordpress.com/2025/10/25/free-database-offers-more-than-5-million-indexed-burial-records-for-moscow/)
 supplies no fixed search radius or current provider/plot-accuracy guarantee.
 
+If a plot-owner card points to the named owner's other cards or lots, follow those
+locators even when they fall outside the neighboring area; keep owners and referenced
+lots separate from actual interments. [P29]
+
 Treat the cemetery named on a volunteer memorial as that memorial's statement, not an observed
 burial. A profile may be created speculatively to request a photo lookup, or by a relative before
 burial arrangements are made, naming the intended cemetery. Record the creator and creation date

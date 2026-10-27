@@ -127,6 +127,12 @@ admission as a possible source. Add a separate search target only where the loca
 supports the series and period, retaining its own locator. This is not evidence that
 notification was required or that a notice survives for the person. [S7]
 
+Where clues suggest municipal funding, check whether the municipality's archival
+descriptions include registers of decisions or resolutions for the period. From a
+relevant entry, retain the dated payment or placement decision and follow any court
+or authorization reference it supplies; Hoitink's Leeuwarden example begins with a
+resolution abstract, which is a lead to the entry. [S8]
+
 ## 4. Estimate admission from an in-institution death certificate
 
 - When the patient died in the institution, check the death certificate for a stated length of
