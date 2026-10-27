@@ -57,6 +57,17 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
 - **Check each holding volume by volume.** Library and digitized runs often have gaps. A digitized run only shows the copies one repository held, and Google Books results do not list volumes in order. Record which volumes and issues each holding actually has. [S5]
 - **Check the volume itself.** Once you have the volume, also check its table of contents and any surname index for the volume or issue. [S12]
 
+If a PERSI heading is missing from the cited issue's table of contents, first confirm the journal,
+volume and issue, then inspect the complete cited issue for the indexed subject. The ACPL
+presentation explains that indexers sometimes create a title for an untitled passage. Preserve
+the index heading separately from the printed passage and its page locator; a TOC miss alone
+does not close the enquiry. [S16]
+
+When the citation or inspected article suggests continuation in another issue, identify the
+additional parts in the copy request. If the extent is unclear, ask the holder whether it
+continues and which parts the request covers. Record each supplied or still-outstanding part;
+one indexed citation or one received copy does not establish that every instalment was obtained. [S17]
+
 ## Report bounded results
 
 - **No hits:** report a no-hit as no match in the named index and the sections or fields you actually searched (for example "no PERSI title/author/assigned-subject match" or "no entry in the Familiengeschichtliche Quellen surname index"). Give the index's depth, the periodical years it covers and the queries you ran. It does not mean no article mentions the person.
