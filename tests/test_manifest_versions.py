@@ -19,7 +19,7 @@ class ManifestVersionTests(unittest.TestCase):
         versions["plugin.yaml"] = hermes.group(1)
 
         self.assertEqual(len(set(versions.values())), 1, versions)
-        self.assertEqual(versions["package.json"], "1.6.4")
+        self.assertEqual(versions["package.json"], "1.6.5")
 
 
 if __name__ == "__main__":
