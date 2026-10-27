@@ -28,6 +28,13 @@ describes a death-claim packet containing a 1915 insurance application with fami
 Keep that application's date and informant separate from the death claim. One reported packet
 does not establish standard contents, verify family statements or guarantee a current copy route. [S29]
 
+After a gap in sacramental registers, include the identified parish's cash accounts
+(`Kirchenkassen-Rechnungen`) in the context search. Gegner-Sünkler's Canditten articles
+describe named contributors and an administrative letter in those accounts. Check the actual
+series description for relevant volumes and associated papers; do not restrict the enquiry
+to payer lists. These are reported contents of one parish's accounts, not standard contents
+or a complete parish census. [S30, S31]
+
 ## Query by context, and log what each portal actually covers
 
 Run batches that combine place with a creating body, record type, religion, occupation, ethnicity or event. The presenters' examples include:
