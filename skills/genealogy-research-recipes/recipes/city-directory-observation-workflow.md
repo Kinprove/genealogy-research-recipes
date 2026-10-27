@@ -79,6 +79,14 @@ repository's copy of that same volume supplies another access route, not another
    the lookup as unresolved. Do not invent an alphabetical or DES route. [S3, S4]
 
    If a long surname run looks unordered, test other sort keys before scanning every line. Within one surname, some volumes sorted entries by occupation, men before women, and filed a widow under her late husband's occupation, e.g. 'verwitwete Hauptmann'. Look for her under that word and copy the printed form. A [Berlin address-book discussion](https://forum.ahnenforschung.net/forum/thread/2950717/) states this for Berlin up to about 1925. Do not assume it for other cities or years, and treat the widow wording as status, not a death date (section 3, step 8).
+
+   If the names listed at a dated address are unknown, no usable street or reverse
+   lookup exists, and the entries print addresses, a finite pass through the relevant
+   locality section or volume in its actual arrangement can recover literal
+   street/house-number matches. Add each match to the existing observation table
+   and record the inspected range; Gegner-Sünkler describes this approach for the
+   1812 Bremen directory. [S22]
+
 2. Copy the entry as printed, including initials, spouse wording, occupation and address when
    present. Preserve uncertain readings. Keep any normalized name in a separate column.
 3. If copying a site's tabular index into a spreadsheet, take the header once, paste subsequent

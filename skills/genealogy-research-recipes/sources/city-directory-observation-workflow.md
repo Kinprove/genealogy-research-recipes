@@ -75,6 +75,16 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   occupancy and unchanged appearance are Kinprove synthesis; the listing years were not
   independently verified in the demonstration.
 
+- **S22:** Irmi Gegner-Sünkler, [Martha Elisabeth Schaumlöffel (1789-1812)](https://www.genealogie-tagebuch.de/?p=20411),
+  5 October 2025 (saved publication metadata); saved article read 27 October 2026.
+  Describes reading the 1812 Bremen directory because it was not street-arranged,
+  to find entries at a death address. Only the saved article was inspected, not the
+  directory, death certificate or map. Its prose gives Johann Wilhelm Eitzen where
+  its reproduced row gives Hermann Wilhelm; that difference remains unresolved.
+  The finite search extent and existing-table reuse are authored synthesis. Original
+  record accuracy, current access and coverage, employer or kinship, ownership and
+  continuity with modern numbering are not established.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
