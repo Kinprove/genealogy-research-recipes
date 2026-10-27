@@ -27,6 +27,10 @@ Some steps belong to other recipes. To test a disputed year against the document
 4. Read the full image of each marriage minute or certificate for the witness list. The 2017 presenter reports that witnesses appear in the records but were not indexed [S2]. Transcribe the witnesses and other associates from the image. Never infer them from the name index.
 5. For any entry dated after the Hicksite/Orthodox separation in the meeting's own yearly meeting, record which branch kept it. The 2017 presenter notes that the split affected record-keeping [S2]. New York Yearly Meeting's historical statement dates the separation to 1827 for Philadelphia, and to 1828 for New York, Ohio, Indiana and Baltimore. It also records later Wilburite/Conservative separations, in New England in 1845 and New York in 1853. Take the keeping meeting's affiliation and dates from the custodian's finding aid, not from the date alone. Where both branches had a meeting in the area, search both sets of books. A gap in one branch's books is not absence from the Society.
 
+## Check meeting-related court proceedings when minutes are unavailable
+
+If early minutes for the target meeting are unavailable, use its locality and period to look for court proceedings concerning Quaker gatherings, then inspect whom they name as attending. Ruane's Salem account motivates this fallback; keep a described gathering separate from the identified monthly-meeting unit, and do not treat an accusation or reported attendance as proof of membership. [S3]
+
 ## Preserve numbered dates literally
 
 1. Copy each date exactly as written: day, numbered month (Roman or Arabic numerals), and year. Put the converted modern date in square brackets after it, for example "27 IV 1731 [June 1731]" [S1]. Never replace the literal value with the conversion.

@@ -97,6 +97,12 @@ A draft registration shows a man was present when he registered, not that he ser
 
 With a service number and unit, get the morning reports and after-action reports covering his dates. Morning reports and muster rolls are unit records that were not part of the OMPF, and the fire did not touch them [S10], [S16].
 
+Check whether the selected morning-report series and period record personnel changes rather
+than a full roster. McComb describes entries for changes such as promotion, illness or
+absence [S24]. Where that practice is confirmed, use an independently dated status change
+to choose an initial, bounded run of the supported unit or company's reports. A name missing
+on one day then does not show that the man was absent from the unit.
+
 - **Online first:** NARA has been adding digitized WWII Army morning reports to the National Archives Catalog. As of February 2025, reports through about July 1944 were online, and NARA was adding the rest of 1944–1946. Search the Catalog for the unit and his dates first. If his reports are not there, use the offline route. The 2023 advice that morning reports are "not online" [S16] is out of date.
 - **Offline access:** for archival Army morning reports (1912–1968), NPRC does not take written requests. Read them in person at St. Louis by appointment, or hire an independent researcher. Mail and fax requests apply only to non-archival 1969–1974 reports ([NARA](https://www.archives.gov/personnel-records-center/military-personnel/morning-reports-and-unit-rosters)).
 - **Personal entries:** promotions and furloughs, dated to the day [S16]. Log only entries that name him.

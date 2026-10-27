@@ -19,7 +19,9 @@
   - the 2017 coverage figures;
   - marriage witnesses present in the records but not indexed.
 
-What is authored synthesis: the coverage-first ordering, the "coverage unconfirmed" status, pairing outgoing and receiving certificates, the series inventory, and the packet. What the sources supply: record behaviour as reported by the presenters.
+- **S3:** Anna Ruane, Vita Brevis, [Friends and Devils: Quakers and Witchcraft Accusations in the 17th Century Massachusetts Bay Colony](https://vitabrevis.americanancestors.org/friends-and-devils), published 2026-10-19 (saved metadata), saved article read 2026-10-27. Used for the conditional court-record fallback when early meeting minutes are unavailable: the article reports named attenders of a Salem meeting and cites *Records and Files of the Quarterly Courts of Essex County, Massachusetts*, vol. 2, pp. 104–107, and Joseph Besse's *A Collection of the Sufferings of the People Called Quakers* (1753). Only the saved article was inspected; those cited works and original proceedings were not read. Actual record loss, named identities, faith, law, current custody, access and rights were not independently established.
+
+What is authored synthesis: the coverage-first ordering, the "coverage unconfirmed" status, pairing outgoing and receiving certificates, the series inventory, the conditional meeting-to-court selection and the packet. What the sources supply: record behaviour as reported by the presenters and the court-record example reported by Ruane.
 
 What was not verified:
 
@@ -30,4 +32,4 @@ What was not verified:
 ## Credits
 
 - BYU Family History Library, Maureen Brady, Quaker Family History Research (5 November 2025) — Third-party content, all rights reserved by the rights holder; brief attributed adaptation (adapted)
-- Kinprove original procedural synthesis; record behaviour reported by Maureen Brady (S1) and Joyce Whiting (S2) is paraphrased and attributed — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; record behaviour reported by Maureen Brady (S1) and Joyce Whiting (S2), and the court-record example reported by Anna Ruane (S3), are paraphrased and attributed — FSL-1.1-MIT (kinprove-original)
