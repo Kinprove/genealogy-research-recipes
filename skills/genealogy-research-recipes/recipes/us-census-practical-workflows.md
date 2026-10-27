@@ -173,6 +173,12 @@ motivates this safeguard; it does not validate a formula or establish a birth da
 5. Compare candidate heads across adjacent censuses and other records. Track recurring associates and historical jurisdictions. Reject a candidate only for an evidenced conflict, not a surname preference.
 6. Investigate a missing expected adult through alternate names, adjacent locations, property records, or another enumeration. Keep error, absence, and separate residence as distinct explanations.
 
+To seek names behind household counts before 1850, consider the Pennsylvania account's reported
+'Poor School Children' lists at the ends of township tax volumes. Confirm the locality, year and
+surviving volume, then follow any county index to the original list. Record only the child names,
+ages or family connections it states, with its date and inclusion limits; keep proposed census-bin
+matches separate. Compatible ages alone do not identify an unnamed household member. [S79]
+
 If headings are missing or unreadable, consult a legible blank form for the same census
 year, jurisdiction and schedule. Compare its column sequence with the actual page's
 remaining labels and layout before assigning a heading; an early handwritten schedule
@@ -317,6 +323,12 @@ still needs corroboration. [S75, H3, H4]
 3. Search name and locality variants, then compare age, birthplace, occupation, and other recorded details.
 4. Where a mortality entry supplies a household or family reference, follow it into the corresponding population schedule. Compare the surviving household; do not assume an identical name identifies the deceased.
 5. Preserve literal death month, inferred calendar year, stated reporting window, and identity reasoning separately. Retain any conflict with other death evidence.
+
+Legacy Tree's discussion of 1880 mortality returns reports physician notes on the reverse of the
+main form. Check whether the surviving copy includes those pages before calling an entry complete.
+Keep each family answer, physician statement and enumerator addition separately attributed, with
+its subject and locator; leave uncertain authorship unresolved. A later medical explanation remains
+a claim to assess, rather than automatically replacing the earlier answer. [S78]
 
 **Output:** A cited death-window extraction and any supported link to the population household.
 

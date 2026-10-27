@@ -221,6 +221,13 @@ supplied coordinate with its source instead of replacing it with the contributor
 Unknown point meaning stays unresolved. The dated Cemetery Registry demonstration motivates this
 capture-origin check, not a guarantee of coordinate accuracy, grave identity or access. [P25]
 
+If the death municipality in France is known but the cemetery is not, check whether its archival
+descriptions list `registres des convois funéraires` or `registres des transports de corps` for the
+relevant period. The Auprès de nos Racines article describes this municipal record leading to an
+out-of-town cemetery. Keep the transport date and stated destination separate, then seek that
+cemetery's interment entry for burial and plot. The stated destination is a lead, not proof of
+burial. [P28]
+
 When the plot cannot be located or the online entry lacks detail, identify the cemetery office
 and prepare a request for the recorded burial and its plot location. The gravestone tutorial
 recommends asking the office before visiting. Give the candidate name, known date, cemetery and
