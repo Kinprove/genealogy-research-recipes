@@ -1,5 +1,5 @@
 name: genealogy-research-recipes
-version: 1.6.4
+version: 1.6.5
 requires_hermes: ">=0.21.5"
 description: Fact-checked genealogy recipes for DNA evidence, record searches and proof judgment.
 author: Kinprove
