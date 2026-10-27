@@ -19,6 +19,15 @@ Before you query, build two registers.
 
 For a congregation or similar unit, first fix the specific unit from a dated source. Then search for that unit's records instead of the person. The Church History Library example searches a named ward for the period, which turns up material that a name search misses [S21].
 
+When the identified creator is a fraternal insurer, check whether its actual collection has
+an index by personal name. Carry a matching entry and supplied claim/certificate numbers
+to the file's established holder, and seek the complete claim folder. For a family-origin
+question, look for an earlier application rather than stopping at a death certificate.
+Szczepankiewicz's [PRCUA account](https://fromshepherdsandshoemakers.com/2022/01/24/researching-marianna-drajem/)
+describes a death-claim packet containing a 1915 insurance application with family information.
+Keep that application's date and informant separate from the death claim. One reported packet
+does not establish standard contents, verify family statements or guarantee a current copy route. [S29]
+
 ## Query by context, and log what each portal actually covers
 
 Run batches that combine place with a creating body, record type, religion, occupation, ethnicity or event. The presenters' examples include:

@@ -4,6 +4,20 @@ Use this when you have the image of a French-language birth, marriage or death a
 
 Work from the original image. A yearly index or a ten-year table (*table décennale*, available for Belgian civil registers in the FamilySearch catalog) is only a way to find the act. Marriage acts hold leads that an index leaves out. [S1], [S2]
 
+## Check a Paris reconstructed-record branch
+
+If the original Paris civil series is unavailable for the event, [S3] identifies a
+separate *état civil reconstitué* and its *fichiers*. Check the actual collection
+description and coverage, then use an applicable reconstruction-file name/date lead
+to locate the reconstructed act. Searching the ordinary register series does not
+search this separately created corpus.
+
+Read and cite that act as a reconstruction. Preserve any stated reconstruction
+date and basis separately from the event date; a named parish register, notarial act
+or family paper remains an uninspected source until retrieved. Record the
+reconstruction ranges actually checked. A miss there does not show that the event
+did not occur or that no other reconstruction survives.
+
 ## Anchor every act on its own date
 
 1. Record the act's opening date first, as its own field. In birth and death acts this is the date the act was recorded, not the date of the event. [S1]

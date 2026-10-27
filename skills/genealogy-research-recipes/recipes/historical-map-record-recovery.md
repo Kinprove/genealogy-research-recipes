@@ -19,6 +19,15 @@ Use this recipe when you are about to use a Sanborn fire-insurance sheet, a land
 3. A keyword hit is a hit on catalogue information. On David Rumsey, a keyword finds any term in a map's metadata [S7]. So check that the map image actually shows the target place before you count it as coverage. Start with a broad search without exact-phrase quotes, then narrow it [S7].
 4. Land-ownership maps are rarely indexed, so expect to browse. Narrow the search with the census township name or the land description [S11]. Not every county had an atlas published [S11]. Record which sites, holders and editions you checked. A site you did not check is a gap, not a negative result.
 
+When an archival map has been detached into a map collection, search relevant finding aids
+for a possible originating dispute or court case, using the supported places, parties and
+subject. Preserve both locators and why the link is proposed. Hoitink's
+[example](https://www.dutchgenealogy.nl/map-of-the-week-shooting-of-tonis-willinck-circa-1590/)
+describes this route; retain the map-to-case link as a candidate until the records establish it.
+Keep the estimated map-production date, the case-file span and any dated event statements
+separate. Seek the case's actual statements before dating the depicted event or moving a
+same-named person to another generation. [S31]
+
 ## Read a Sanborn volume, not a loose sheet
 
 1. Use the volume's street index and key map to reach the detail sheet. Follow the adjoining-sheet numbers printed in the margins. In Smith's example, sheet 208 points to 209 [S3]. An uncoloured block on the key map either was mapped in a separate volume or was left out by the surveyors. Check the city's other volumes for the same year before you decide which [S3].
