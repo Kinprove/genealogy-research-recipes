@@ -35,6 +35,13 @@ series description for relevant volumes and associated papers; do not restrict t
 to payer lists. These are reported contents of one parish's accounts, not standard contents
 or a complete parish census. [S30, S31]
 
+For a property-change question tied to an identified early-Prussian territorial Amt and
+period, check whether the actual local muster-roll inventory includes relevant appendices:
+Gegner-Sünkler describes reports of `Besitzveränderungen` among the rolls' `Beilagen`.
+If the inventory supports that target, request the relevant dated papers rather than limiting
+the request to names and equipment on the roster. The article's reported contents do not
+establish ownership, a completed transfer, personal service or a legal duty. [S32]
+
 ## Query by context, and log what each portal actually covers
 
 Run batches that combine place with a creating body, record type, religion, occupation, ethnicity or event. The presenters' examples include:
