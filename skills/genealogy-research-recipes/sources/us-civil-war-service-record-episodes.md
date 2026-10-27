@@ -10,9 +10,11 @@
 - **S5:** BYU Family History Library / Alyssa Martinez, [O Say, Can You See: Introducing U.S. Military Records](https://www.youtube.com/watch?v=mRt2jTgEqVw), published 2024-06-12. Used for: CMSRs covering volunteers only, Regular Army men having registers instead, the 1890s compilation for pension verification, the cards being assumed to belong together, and the two-men/two-CMSR risk.
 - **S6:** BYU Family History Library / Michael Strauss, [The Road to Independence: Revolutionary War Research](https://www.youtube.com/watch?v=nJsQ9ftU9iM), published 2025-02-08. Used for: the personal-papers count, the R&P bookmark notation and how to request it, the statement that bookmark files have never been digitized, and the remark on Civil War aliases. The demonstration jacket is from the Revolutionary War.
 - **S7:** GenArchivist Forum, [Battles Your Ancestors Fought In](https://genarchivist.net/showthread.php?tid=152), 2023-10-13. Used for: a participant's 23rd/3rd Mississippi example, including the quoted (uncited) regimental history giving the renumbering of 19 November 1861, the Fort Donelson narrative under "Third", and maps labelled "23 MS".
+- **S8:** Allen County Public Library, [I Have a Civil War Ancestor... Now What?](https://www.youtube.com/watch?v=pCon8NiNMoU), published 2022-11-05. Used for: the presenter's statement that Union carded-medical records are requested separately, and his card-to-hospital-ledger demonstration. The conditional follow-up from an unidentified sickness entry combines separate narrated cases.
 
 **What is authored and what is not verified.** The muster-row table, the inference labels, the designation list, the transfer-bounds note and the packet are authored synthesis. The sources supply the examples and the presenters' and participants' claims. Not verified:
 
+- the exact medical-card series, its arrangement, survival or current access, whether a particular soldier has a card or usable hospital/ledger reference, and the identities or diagnoses narrated in S8;
 - that CMSR cards are filmed out of date order;
 - that R&P bookmark files have never been digitized;
 - that aliases were more common in the later Civil War;
@@ -28,3 +30,4 @@
 - BYU Family History Library, Alyssa Martinez, O Say, Can You See: Introducing U.S. Military Records, video published 2024-06-12 — Third-party; all rights reserved by creator; short attributed adaptation (adapted)
 - GenArchivist Forum, Battles Your Ancestors Fought In, thread posted 2023-10-13 — Third-party forum post; all rights reserved by author; short attributed quotation (quoted)
 - Kinprove original procedural synthesis; examples and presenter claims cited as S1 to S7; facts checked against NARA Prologue and NPS unit histories — FSL-1.1-MIT (kinprove-original)
+- Kinprove conditional medical-card lookup synthesis from S8, with the separate-case and unverified-holdings limits above — FSL-1.1-MIT (kinprove-original)
