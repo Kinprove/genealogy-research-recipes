@@ -204,6 +204,14 @@ varied by place and period; a failed guardianship search carries evidentiary wei
 establishing the applicable requirement, the expected recording and adequate surviving coverage, and
 a guardianship alone does not establish the father's death. [S10]
 
+For a bounded ancestor, locality and period, reverse the guardianship question: look for wards
+for whom that person acted, not only guardians of their own children. Inspect which roles the
+actual guardianship index names. If it omits guardians, a name-search miss is not a test of
+the register; inspect a bounded relevant register range where its arrangement and available
+extent allow, or leave the lookup unresolved. Keep guardian, ward and parent as separate
+roles, and queue each located proceeding with its own locator. Hoitink suggests this reverse
+search; guardianship alone establishes no kinship. [S18]
+
 If land passed jointly to several heirs, or the estate papers or deeds point to a suit, add a
 bounded search of the court's civil or equity series for a partition, sale or title suit. An
 heir, another household member or the administrator may have brought it. Recover a U.S. suit file

@@ -110,7 +110,8 @@ authorship does not require a Kinprove account, connector or scoring engine.
 - **`recipes/probate-case-document-inventory.md`** — Recover the documents behind
   a probate index, will or administrator's bond as a case inventory with unresolved leads.
   *Use for:* probate record series, references to other documents, later actions,
-  non-will proceedings or an estate search that stopped at the first useful document.
+  non-will proceedings, reverse searches from a guardian to wards, or an estate search
+  that stopped at the first useful document.
   *Core guardrail:* finding a will does not finish the case; retain each document's
   locator and remaining retrieval gaps, then hand off evidence interpretation.
 
@@ -424,7 +425,7 @@ and treat its guardrail as a hard limit on your own output.
 - **`recipes/catholic-sacramental-cross-notations.md`** — Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish. *Guardrail:* indexes drop the baptism-place statement and the later marriage note, so read the original page in both directions.
 - **`recipes/hispanic-catholic-register-recovery.md`** — Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers. *Guardrail:* select the parish, not the town, search every surname arrangement, and never copy a baptism date into the birth field.
 - **`recipes/french-canadian-register-recovery.md`** — Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts. *Guardrail:* do not call the person absent until the French-Canadian name forms are exhausted.
-- **`recipes/french-belgian-civil-act-extraction.md`** — Extract French or Belgian civil acts and check the separate Paris reconstructed-record branch when the original series is unavailable. *Guardrail:* an index only finds the act; preserve a reconstruction's stated basis, keep record and event dates apart, and convert Republican dates with a tool, never by arithmetic.
+- **`recipes/french-belgian-civil-act-extraction.md`** — Extract French or Belgian civil acts, trace French marginal continuations and separately maintained copies, and check Paris reconstructions when the original series is unavailable. *Guardrail:* bind each annotation to its subject and copy; keep record and event dates apart, and convert Republican dates with a tool, never by arithmetic.
 - **`recipes/dutch-civil-church-record-recovery.md`** — Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian agreements; search burial/fee entries under the household head and trace pre-1811 church registers. *Guardrail:* an index miss is not absence, and a father, death date or sibling set from a compiled tree needs the original entries.
 - **`recipes/amsterdam-archival-record-recovery.md`** — Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register entry. *Guardrail:* read the entry by its register type, not by the index label; an ondertrouw is a registration, not a wedding.
 - **`recipes/scandinavian-parish-record-recovery.md`** — Reconstruct a Swedish household through the household-examination, birth, marriage, death and moving registers. *Guardrail:* follow the family by farm and page cross-reference, not by patronymic, and settle identity at the household level.
@@ -479,7 +480,7 @@ and treat its guardrail as a hard limit on your own output.
 - **`recipes/criminal-court-prison-record-recovery.md`** — Find the trying court, its present custodian and the surviving prison series for a suspected arrest, trial or imprisonment. *Guardrail:* establish which court tried the case before searching, and weigh an inmate-list miss against other evidence.
 - **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and the petition behind it. *Guardrail:* do not stop at the one-line index or printed act, ignore entries at the same locator, or skip legislative records because the event looks like a county matter.
 - **`recipes/illegitimacy-record-recovery.md`** — Find the bastardy bonds, court proceedings, support orders and church entries that a birth outside marriage could create, and preserve express status statements in apprenticeship instruments. *Guardrail:* do not decide illegitimacy from weak signals, and record allegations, not paternity.
-- **`recipes/institutional-patient-record-recovery.md`** — Recover an asylum or state-hospital patient through the current custodian, the committing court and newspaper court reports. *Guardrail:* do not answer "sealed, nothing can be done", and record which copy product actually came back.
+- **`recipes/institutional-patient-record-recovery.md`** — Seek asylum or state-hospital records through the custodian, court and newspapers; in Dutch research, check a child's marriage papers and locally described admission correspondence. *Guardrail:* incapacity does not establish admission or diagnosis, and an access refusal does not establish that no file survives.
 
 ### U.S. military service
 

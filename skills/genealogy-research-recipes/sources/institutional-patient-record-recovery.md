@@ -7,6 +7,8 @@
 - **S5:** Genealogy Gems, [Genealogy Gems Podcast Episode 231 with Lisa Louise Cooke](https://www.youtube.com/watch?v=vaSTQKvU2z8), published 2019-07-17. Used: counting back from an institutional death certificate's residence length, testing it against the Exeter school's opening and almshouse-transfer history, finding annual reports through the Library of Congress catalogue and WorldCat, and newspapers as a counterweight to self-serving reports.
 - **S6:** Family History Fanatics with Amy Johnson Crow, [Get MORE CLUES From Genealogy Records](https://www.youtube.com/watch?v=D5weC7CmDlo), published 2022-05-14. Used: state-to-state variation (Illinois judge's order for an 1899 death; Ohio depending on time period), the Ohio History Connection as holder of Columbus State Hospital records, committing-county probate or civil court records, newspaper court recaps, and annual reports as context that rarely names patients.
 
+- **S7:** Yvette Hoitink / Dutch Genealogy, [Quick tip – Was your relative in an asylum?](https://www.dutchgenealogy.nl/was-your-relative-in-an-asylum/), 2022-06-01 (saved publication metadata); saved article reviewed 2026-10-27. Identifies a child's marriage supplements and municipal correspondence about forced admission as possible Dutch discovery sources. Only the saved article was inspected, not an actual supplement, notice, local inventory or patient file. Conditional locator/series checks and separation of incapacity, diagnosis and admission are authored synthesis. No universal consent or notification law, standard document contents, individual admission, survival, current custody or access is established.
+
 The five-step route, the product labels, the search register and the packet are authored
 synthesis. The sources supply the presenters' experiences and the Pennsylvania archive's
 described policy; published repository and agency statements add context.
@@ -17,5 +19,5 @@ described policy; published repository and agency statements add context.
 - Denyse Allen, Podcast: Pennsylvania State Archives (2020) and Pennsylvania State Archives (2024), archivist's description and host's account of her request — Third-party; close attributed paraphrase, not licensed by Kinprove (adapted)
 - Family History Fanatics with Amy Johnson Crow, Get MORE CLUES From Genealogy Records (2022) — Third-party; brief attributed quotation, not licensed by Kinprove (quoted)
 - Kinprove original citation apparatus and notes summarising published repository and agency statements — FSL-1.1-MIT (kinprove-original)
-- Kinprove original procedural synthesis — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis, including the conditional Dutch discovery and municipal-correspondence checks attributed to Yvette Hoitink [S7] — FSL-1.1-MIT (kinprove-original)
 - Genealogy Gems Episodes 120, 219 and 231; Family History Fanatics with Amy Johnson Crow, Get MORE CLUES From Genealogy Records — Third-party; attributed paraphrase, not licensed by Kinprove (adapted)

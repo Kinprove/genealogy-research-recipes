@@ -59,6 +59,19 @@ For each parent marked as deceased, record the basis of the statement as one of 
 2. For each child, record: sex, the commune where the birth was registered (in a phrase like "inscribed in the civil-status registers of …"), the date given (as written; convert it if Republican), and the name under which the child was registered. The presenter usually sees one such child, sometimes two, and gives an example with five. [S1], [S2]
 3. Look for the birth act in that commune on that date under the **mother's surname**, and check its margin for a legitimation note. Then link it to the **father's surname** the child is expected to use in later records. Keep both forms as linked name variants, not as a merge. Whether the man legitimating the child is the biological father is a separate question. [S1], [S2]
 
+## Check marginal continuations and separate copies
+
+For French acts, [S4] describes margin notes continued on the register's end pages or beside a
+neighbouring act. Before treating a margin as complete, inspect those places where available.
+Retain each note's locator and establish which person or act it concerns from its wording and
+any cross-reference; proximity alone does not assign it to the adjacent act.
+
+Where the local descriptions establish separate municipal and court copies, compare the
+available annotations with a separate locator for each copy. Check any stated transfer or
+annotation-maintenance dates instead of assuming both copies were updated alike. A missing
+note in one copy is not proof of no marriage, divorce or death, nor of an event before a
+cutoff. [S4]
+
 ## Output
 
 For each act, return a table with these fields:

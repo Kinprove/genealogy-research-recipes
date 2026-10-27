@@ -38,6 +38,12 @@ records [S6]. Find out the actual rule before you advise the user. Never treat a
 form letter or a court-order requirement as evidence that no file exists. Log it as an access
 outcome and switch to the court and newspaper routes below.
 
+In Dutch research, a child's marriage supplements are a possible source for a parent's
+reported inability to consent. Inspect the actual papers for the wording and any named
+institution, place, date or reference; carry a supplied locator into the institutional search
+below. Hoitink suggests this discovery route. An incapacity statement alone does not establish
+a diagnosis or admission, and the supplement may name no institution. [S7]
+
 ## 1. Identify the current custodian and its access rules
 
 - Find out who holds a closed institution's records now. A web search told the guest that
@@ -114,6 +120,12 @@ outcome and switch to the court and newspaper routes below.
   the name forms used, and the result (hit, no hit, unavailable or not searched). For
   newspapers, record the title and issue range. A missing court entry is bounded by what you
   actually searched.
+
+For a Dutch case, also check the relevant municipality's archival descriptions for
+admission-related correspondence. Hoitink identifies municipal correspondence about forced
+admission as a possible source. Add a separate search target only where the local description
+supports the series and period, retaining its own locator. This is not evidence that
+notification was required or that a notice survives for the person. [S7]
 
 ## 4. Estimate admission from an in-institution death certificate
 
