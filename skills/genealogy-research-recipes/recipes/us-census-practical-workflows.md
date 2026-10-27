@@ -173,6 +173,12 @@ motivates this safeguard; it does not validate a formula or establish a birth da
 5. Compare candidate heads across adjacent censuses and other records. Track recurring associates and historical jurisdictions. Reject a candidate only for an evidenced conflict, not a surname preference.
 6. Investigate a missing expected adult through alternate names, adjacent locations, property records, or another enumeration. Keep error, absence, and separate residence as distinct explanations.
 
+To seek names behind household counts before 1850, consider the Pennsylvania account's reported
+'Poor School Children' lists at the ends of township tax volumes. Confirm the locality, year and
+surviving volume, then follow any county index to the original list. Record only the child names,
+ages or family connections it states, with its date and inclusion limits; keep proposed census-bin
+matches separate. Compatible ages alone do not identify an unnamed household member. [S79]
+
 If headings are missing or unreadable, consult a legible blank form for the same census
 year, jurisdiction and schedule. Compare its column sequence with the actual page's
 remaining labels and layout before assigning a heading; an early handwritten schedule
@@ -266,6 +272,20 @@ The [MyHeritage census demonstration](https://www.youtube.com/watch?v=4P8sUi-Adn
 4. Inspect indications of previous marriages using the relevant form headings and instructions. Do not assume every duration or child count refers only to the couple shown together.
    Test the reported marriage duration, or the 1930 age at first marriage, against the known marriage date and the children's ages. A child born before the derived period, or a first-marriage age that predates the known wedding, is an earlier-marriage lead ([Grant 1930](https://www.youtube.com/watch?v=Dtl6pnXMiEY), [BYU 1900](https://www.youtube.com/watch?v=cZZ2IbQSyPc)). Read a 1910 code such as M2 as a second or later marriage, not necessarily the second ([Lisson](https://www.youtube.com/watch?v=7kVPg63qM2g)). Households can give stepchildren the current surname, so check birth registrations under that surname, then under the mother's earlier married surname ([Grant 1911](https://www.youtube.com/watch?v=S7NX-GnX4UU)). These are approximate leads. Ages and durations can be misreported, and parentage needs the registrations or other records.
 5. Where both child counts are legible, calculate `reported children born minus reported children living`. Treat the result as a reported difference requiring investigation. Do not create named deceased children from it. A living child absent from the household may be living elsewhere.
+
+   Adapt [Robyn N. Smith's child-count comparison](https://reclaimingkin.com/two-men-become-one-identity/)
+   to test a one-child/two-child hypothesis: when two names may denote one child or two,
+   build a separate child roster for each hypothesis. Record each documented child once
+   per roster, its maternal-link evidence and whether it was alive on each census reference
+   date; leave unknown links or survival unresolved. Compare each roster's required
+   born/living totals with the mother's literal reported counts. Apply the
+   [1900 question definitions, paragraphs 136–137](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1900/1900-instructions.html)
+   and [1910 definitions, paragraphs 116–117](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1910/1910-instructions.html):
+   these concern her own lifetime children, including living children elsewhere. Log the
+   discrepancy and the maternal link, birth, death or census answer to check. Counts alone
+   do not merge names or exclude a child; pass both hypotheses and linked observations to
+   [evidence and proof judgment](evidence-proof-judgment.md). [S77, H7, H8]
+
    Record 'widowed' or 'single' as the reported status, not proof that a spouse died or never existed. A Census Bureau marriage-and-divorce report quoted by [Genealogy Gems](https://www.youtube.com/watch?v=SExmNq646NM) says divorced people often reported themselves as single or widowed. [Lisa Lisson](https://www.youtube.com/watch?v=Hi9QQZG8JoI) keeps divorce, desertion or bigamy open when there is no death record. Search for the spouse as a living person, including in that spouse's parents' household with any missing children, then for divorce records in the relevant jurisdiction. Do not derive a death date from the census year. Neither source shows how common misreporting was.
 6. Search for missing people through surrounding households, marriages, deaths, cemetery records, probate, and other suitable records. Compare the resulting candidates with the original households.
 7. Store literal statement, calculation, proposed event, and supporting record in separate fields. Keep immigration and naturalization statements as leads to the relevant documentary records rather than exact events established by the census alone.
@@ -303,6 +323,12 @@ still needs corroboration. [S75, H3, H4]
 3. Search name and locality variants, then compare age, birthplace, occupation, and other recorded details.
 4. Where a mortality entry supplies a household or family reference, follow it into the corresponding population schedule. Compare the surviving household; do not assume an identical name identifies the deceased.
 5. Preserve literal death month, inferred calendar year, stated reporting window, and identity reasoning separately. Retain any conflict with other death evidence.
+
+Legacy Tree's discussion of 1880 mortality returns reports physician notes on the reverse of the
+main form. Check whether the surviving copy includes those pages before calling an entry complete.
+Keep each family answer, physician statement and enumerator addition separately attributed, with
+its subject and locator; leave uncertain authorship unresolved. A later medical explanation remains
+a claim to assess, rather than automatically replacing the earlier answer. [S78]
 
 **Output:** A cited death-window extraction and any supported link to the population household.
 

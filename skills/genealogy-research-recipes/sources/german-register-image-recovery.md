@@ -45,6 +45,13 @@ S26–S39 are threads in the Ahnenforschung.net forum, reviewed 2026-10-21. The 
 - **S38:** Ahnenforschung.net Forum, [Charlottenburg Geburt 1925](https://forum.ahnenforschung.net/forum/thread/3014937/), 2026-05-31. Used for a birth certificate filed with the banns or death registration as a route to the birth entry.
 - **S39:** Ahnenforschung.net Forum, [Leitfaden zur Anforderung von Urkunden aus Archiven](https://forum.ahnenforschung.net/forum/thread/78693/), 2014-05-15. Used for wording an archive request as a complete uncertified copy with all marginal notes rather than an 'Urkunde'.
 
+S40 is a saved community article; S41–S42 are official portal descriptions read on 2026-10-26 UTC.
+
+- **S40:** Auprès de nos Racines / Elise, [Rechercher les archives de l’état civil en Allemagne](https://www.aupresdenosracines.com/retrouver-ancetre-allemagne-archives-etat-civil/), 2025-02-09. Used only for the suggested locality plus `Personenstandsbücher` inventory search in Archivportal-D and Deutsche Digitale Bibliothek. The exact query, Munich example, first-result order and current controls were not reproduced. Its fees, access rules, legal dates and general claims about online holdings are not adopted.
+- **S41:** Deutsche Digitale Bibliothek, [Archivportal-D project description](https://pro.deutsche-digitale-bibliothek.de/ueber-uns/projekte/archivportal-d), undated. Read for cross-archive discovery of archival descriptions, the archive directory and the distinction from selected partner-supplied digitized material.
+- **S42:** Deutsche Digitale Bibliothek / Stadtarchiv und Landesgeschichtliche Bibliothek Bielefeld, [104,2.22/Standesamt, Sammelakten, Geburten, Eheschließungen und Sterbefälle (Bestand)](https://www.deutsche-digitale-bibliothek.de/item/BWAU3KYQ44VU7JCH6XWDHUP5BIITW6FK?lang=de), undated. The opened fonds-level description names the archive, archival references, partner catalogue/object links and an Archivportal-D counterpart. No linked catalogue or record image was opened. Its title and citation instruction disagree on a reference number; neither locator is normalized or prescribed here. Detailed collection-history and legal statements are not adopted.
+- **S43:** Julie Roberts Szczepankiewicz / From Shepherds and Shoemakers, [Sweet Success! Finding My Murre Family in Waldmünchen!](https://fromshepherdsandshoemakers.com/2022/07/28/sweet-success-finding-my-murre-family-in-waldmunchen/), 2022-07-28, saved article reviewed 2026-10-27. Its reported baptism transcription/translation distinguishes a named godfather from another person standing as proxy. Used only for the conditional role-recording safeguard. The original image, Latin reading, translation, identities, parentage, military-unit attribution, legal context and DNA conclusions were not independently verified or adopted.
+
 **What is synthesis and what is not verified.** The ordered procedure, jurisdiction row, version classes and recovery packet are authored synthesis. The sources supply the techniques and the worked examples. Facts checked against outside authorities are stated directly in the text; the rest are attributed to the presenter or forum participant who stated them.
 
 Not verified, and attributed in the text:
@@ -54,9 +61,11 @@ Not verified, and attributed in the text:
 - The Meyers comma/semicolon rule for offices held in the town.
 - The German-to-Polish register's film and image numbers, which the two lectures render differently.
 - Forum reports: the Stralau index count, the Berlin III war loss, the Danzig-Emaus founding date and the Nusse/Lübeck year ranges, the Berlin-held Upper Silesian marriage registers, the 'Civil' christening coding, and the contents of Sammelakten.
+- The exact locality/book-type query result, current Archivportal-D/DDB controls, the article's Munich holding, completeness and original-image access. The two opened official descriptions support metadata discovery, not any particular family's register retrieval.
+- The source-reported baptism translation and named sponsor/proxy case in S43. The procedure preserves distinct roles when the entry states them; it supplies no universal Latin term or proof of kinship.
 
 The cited sources did not cover several points in this topic, and the recipe therefore gives no rules for them: movable-feast and saint's-day date conversion, archaic month names, divorce and funeral-sermon notes, "stillborn" usage, names inferred from sponsors, identical sibling names, daughter-church copies, and surname-distribution maps.
 
 ## Credits
 
-- Kinprove original procedural structure and synthesis; techniques and worked examples are restated from community lectures and Ahnenforschung.net forum threads cited as S1–S39 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural structure and synthesis; techniques and worked examples are restated from community lectures, Ahnenforschung.net forum threads, the Auprès de nos Racines article and Julie Roberts Szczepankiewicz's From Shepherds and Shoemakers article cited as S1–S40 and S43. Official portal descriptions S41–S42 are cited for metadata-discovery checks — FSL-1.1-MIT (kinprove-original)

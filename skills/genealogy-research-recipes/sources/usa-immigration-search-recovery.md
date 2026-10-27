@@ -136,6 +136,25 @@ the relevant workflow. Community references:
     to holdings and comparing same-name ships or different voyages. It does not verify
     current index controls, subscriptions, holding availability or the cited originals.
 
+33. Legacy Tree Genealogists, *Cuban Genealogy Research: Useful Tips and Tricks*,
+    12 May 2023. <https://www.legacytree.com/blog/cuban-genealogy-research-tips>
+    Names plane manifests among U.S.-side hometown leads. The article does not
+    demonstrate a passenger search or establish how many Cuban arrivals were by air.
+34. National Archives, *Passenger Arrival Records* and *Browse by Port of Entry*,
+    checked 26 October 2026.
+    <https://www.archives.gov/research/immigration/passenger-arrival.html>
+    <https://www.archives.gov/research/immigration/ports>
+    Port/airport arrangement and separate airplane/vessel series corroborate the
+    mode-specific route. No passenger image was inspected; current partner controls,
+    complete coverage and a specific person's journey are not established.
+35. Christopher C. Child, Vita Brevis, *Complicated Naturalizations*, 3 March 2025.
+    <https://vitabrevis.americanancestors.org/complicated-naturalizations>
+    Reported renunciation and alien-parent wording motivate literal clause extraction
+    as a nationality/parent lead. The original court paper was not inspected and has
+    no precise locator in the article. Its Royal Charter, Foraker/Jones Act and Danish
+    nationality-inheritance claims are not adopted. The lead row and its limits are
+    Kinprove synthesis.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

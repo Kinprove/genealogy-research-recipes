@@ -71,6 +71,13 @@ and a [wartime-relatives thread](https://rodgersforum.borda.ru/?1-23-0-00000042-
 motivate this. An entry does not name heirs or show the file's contents. Neither thread shows the
 file being opened, the registry's starting year, or what a missing entry means. [S16]
 
+For a Dutch will whose notary or date is unknown, Hoitink describes a historical Central Last
+Wills Register filed by the testator's birth year. Where the inventory confirms that register
+and arrangement, take a matching entry's notary, notary's place, will date and number to the
+notarial series. She also describes a death-duty file as a will locator, reached where applicable
+through its contemporary `table V-bis`; follow the will's notary/date/place reference actually
+given in that file. [S19]
+
 ## 2. Resolve every discovered reference into its own inventory row
 
 If the packet has a coded document key, locate the collection's actual master legend before
@@ -203,6 +210,14 @@ children are later found ([guardianship tip](https://www.youtube.com/watch?v=Cjj
 varied by place and period; a failed guardianship search carries evidentiary weight only after
 establishing the applicable requirement, the expected recording and adequate surviving coverage, and
 a guardianship alone does not establish the father's death. [S10]
+
+For a bounded ancestor, locality and period, reverse the guardianship question: look for wards
+for whom that person acted, not only guardians of their own children. Inspect which roles the
+actual guardianship index names. If it omits guardians, a name-search miss is not a test of
+the register; inspect a bounded relevant register range where its arrangement and available
+extent allow, or leave the lookup unresolved. Keep guardian, ward and parent as separate
+roles, and queue each located proceeding with its own locator. Hoitink suggests this reverse
+search; guardianship alone establishes no kinship. [S18]
 
 If land passed jointly to several heirs, or the estate papers or deeds point to a suit, add a
 bounded search of the court's civil or equity series for a partition, sale or title suit. An

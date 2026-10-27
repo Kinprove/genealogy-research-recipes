@@ -19,6 +19,29 @@ Before you query, build two registers.
 
 For a congregation or similar unit, first fix the specific unit from a dated source. Then search for that unit's records instead of the person. The Church History Library example searches a named ward for the period, which turns up material that a name search misses [S21].
 
+When the identified creator is a fraternal insurer, check whether its actual collection has
+an index by personal name. Carry a matching entry and supplied claim/certificate numbers
+to the file's established holder, and seek the complete claim folder. For a family-origin
+question, look for an earlier application rather than stopping at a death certificate.
+Szczepankiewicz's [PRCUA account](https://fromshepherdsandshoemakers.com/2022/01/24/researching-marianna-drajem/)
+describes a death-claim packet containing a 1915 insurance application with family information.
+Keep that application's date and informant separate from the death claim. One reported packet
+does not establish standard contents, verify family statements or guarantee a current copy route. [S29]
+
+After a gap in sacramental registers, include the identified parish's cash accounts
+(`Kirchenkassen-Rechnungen`) in the context search. Gegner-Sünkler's Canditten articles
+describe named contributors and an administrative letter in those accounts. Check the actual
+series description for relevant volumes and associated papers; do not restrict the enquiry
+to payer lists. These are reported contents of one parish's accounts, not standard contents
+or a complete parish census. [S30, S31]
+
+For a property-change question tied to an identified early-Prussian territorial Amt and
+period, check whether the actual local muster-roll inventory includes relevant appendices:
+Gegner-Sünkler describes reports of `Besitzveränderungen` among the rolls' `Beilagen`.
+If the inventory supports that target, request the relevant dated papers rather than limiting
+the request to names and equipment on the roster. The article's reported contents do not
+establish ownership, a completed transfer, personal service or a legal duty. [S32]
+
 ## Query by context, and log what each portal actually covers
 
 Run batches that combine place with a creating body, record type, religion, occupation, ethnicity or event. The presenters' examples include:
@@ -30,6 +53,8 @@ Run batches that combine place with a creating body, record type, religion, occu
 - "Crown Point expedition" for a 1755 participant [S24].
 
 If a town search is thin, widen it to the county and then the state [S4].
+
+For a store or professional ledger, also try `account book`, `journal`, `daybook`, `business papers` and `business records` with the supported creator or place. These are alternate finding-aid labels, not a promise that every business-paper hit contains a ledger; check the description for the dated volume [S28].
 
 Do not limit the search to repositories near the ancestor. Papers move with descendants, migrants, donors and collectors. The George S. Tanner papers on northern Arizona are held at the University of Utah. The presenters also report Biltmore Hotel material at a different university than expected, and migrants' letters donated in the state where descendants settled [S3], [S5], [S9], [S14], [S15]. Do not apply a portal's map or repository filter before the keyword search [S3], [S7].
 
@@ -87,6 +112,8 @@ Before you request or travel, ask the repository:
 The presenters describe items that are digital but sit behind a sign-in, and others that can be viewed only on site, or only after an access or digitisation request [S21], [S23]. Record of Members is also being indexed on FamilySearch (collection 3714676), which changes what a name search can reach for that collection. NEHGS holds the April 1755 list of payments to New Hampshire officers for the Crown Point expedition (Mss C 2051). The item is also listed in the free Digital Commonwealth portal. Check every free access route before you pay for a membership or a copy.
 
 Request items by the repository's own locator (collection or call number, box, folder or item), not by a surname. If staff say a collection is not held, ask again using the repository's own catalogue record. In the presenter's account in [S15], the front desk first denied a holding that was in fact there.
+
+For a ledger copy request, include the account heading and any linked continuation pages. The article in [S28] describes debit amounts that can continue on another page and a separate payment column. Check the actual volume's labels and page links before treating a partial page as the complete account; no particular debit/credit layout is assumed.
 
 Keep every candidate in exactly one of three states: **catalogue hit**, **requested**, or **inspected**. Record which boxes or volumes were actually read. Anything unread stays unread, not negative [S17], [S19].
 

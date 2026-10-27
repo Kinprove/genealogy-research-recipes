@@ -87,6 +87,11 @@ draw on each source.
 | S76 | [Ancestry, Hidden Treasures on Ancestry, featuring Juliana Szucs](https://www.youtube.com/watch?v=UtoRoxYo2JE) | 2020-03-18 | 5 |
 | H5 | [U.S. Census Bureau, 1890 veterans special schedule, form image](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890veteranscensus.jpg) | 1890 form reproduced; checked 2026-10-21 | 5 |
 | H6 | [U.S. Census Bureau, 1890 Instructions to Enumerators, Special Schedule, printed page 45](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1890instructions.pdf) | 1890 instructions; excerpt checked 2026-10-21 | 5 |
+| S77 | Robyn N. Smith (Reclaiming Kin; byline Robyn), [Two Men Become One: Identity](https://reclaimingkin.com/two-men-become-one-identity/) | 2022-04-05 | 7 |
+| H7 | [U.S. Census Bureau, 1900 Instructions to Enumerators, paragraphs 136–137](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1900/1900-instructions.html) | 1900 instructions; HTML excerpt checked 2026-10-26 | 7 |
+| H8 | [U.S. Census Bureau, 1910 Instructions to Enumerators, paragraphs 116–117](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1910/1910-instructions.html) | 1910 instructions; HTML excerpt checked 2026-10-26 | 7 |
+| S78 | Legacy Tree Genealogists, [Digging for Deaths Part 2: Census Mortality Schedules](https://www.legacytree.com/blog/census-mortality-schedules-digging-for-deaths-part-2) | 2023-03-23 in saved metadata | 8: physician-note reverse |
+| S79 | Kristin W., Legacy Tree Genealogists, [Finding Women Ancestors In Your Genealogy Research: Remember the Ladies!](https://www.legacytree.com/blog/finding-women-ancestors-in-your-genealogy-research) | 2023-12-29 in saved metadata | 4: named-child tax-volume appendix |
 
 S68 supplies a neighborhood-to-earlier-household research route and named-person searches
 in deeds, probate and claims testimony. Its property-value threshold and broad assumptions
@@ -140,6 +145,30 @@ and widow-address rules; the full instructions PDF was not read. The original
 demonstration's images, current provider indexing and geographical coverage were
 not verified. No service, residence, pension eligibility or payment is established
 by this procedural addition.
+
+S77 motivates comparing a mother's reported child totals with competing identity hypotheses.
+The separate rosters and discrepancy checks are Kinprove's analytical adaptation. H7 and H8
+establish the year-specific question scopes, including the woman's own children living
+elsewhere and the exclusion of stillbirths. H8 also excludes the present husband's children
+by a former wife. Only these official HTML excerpts and the case narrative were inspected;
+the original household images, maternal links and birth/death records were not verified.
+The article's named identity conclusion and the accuracy or completeness of reported counts
+are not established here. A count discrepancy prompts a check, not an automatic identity
+exclusion.
+
+S78 describes physician notes on the reverse of an 1880 mortality form. Only the saved article
+was inspected, not an original mortality entry, blank form, instructions or physician page.
+The conditional page-extent and statement-attribution checks are Kinprove synthesis. Actual
+authorship, medical causes, individual cases, year-wide form practice and present provider
+completeness/access remain unverified; a later explanation does not automatically supersede
+an earlier recorded answer.
+
+S79 describes Pennsylvania 'Poor School Children' lists appended to township tax records and
+some county indexes. Only the saved article was inspected, not an index or original list.
+The original-list and constrained census-match checks are Kinprove synthesis. Local existence,
+dates, inclusion rules and fields, the reported 1809/legal history, parentage, poverty,
+attendance and named-case conclusions remain unverified. The saved byline gives Kristin W.;
+no fuller surname is inferred.
 
 ## Credits
 

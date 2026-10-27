@@ -83,6 +83,9 @@ Most towns had no parish of their own. One presenter estimates that the birth to
 
 - **For a town now in another country, search the FamilySearch catalogue twice:** once under the present foreign name and once under the historical German name. The catalogue's place database is good but not perfect. [S17]
 - **If the village is missing, search under its parish town** or the town that held the relevant office. [S6], [S7], [S17]
+- **Find the civil-register custodian through archive descriptions.** The Auprès de nos Racines article suggests searching the locality together with `Personenstandsbücher` in Archivportal-D and Deutsche Digitale Bibliothek. Treat this as a finding-aid search tactic; the article's Munich result and current search controls were not reproduced. [S40]
+  - Open the description and record its level (fonds, series or item), named archive, archival reference and link to the partner's catalogue. Archivportal-D searches partner-supplied archival descriptions as well as selected digitized material; an opened DDB civil-registration-related fonds description names its archive and partner-object links. [S41], [S42]
+  - Follow the partner reference to establish the register type, years and next retrieval step. A fonds description is a lead to the books, not an inspected entry or a promise of images. Keep image access unverified until the relevant book or entry is actually opened.
 - **Check the online portals:** Archion for Protestant registers and Matricula for mainly Catholic ones. [S6] One parish's registers were available on Archion even though FamilySearch had not filmed them. [S7]
 - **Recheck the portals before you mark a register access-pending.** In February 2026 the presenter said the Schaumburg-Lippe registers were not online, so a researcher with access made extracts for the Hülshagen case. [S5] Archion now hosts the registers of the former Ev.-luth. Landeskirche Schaumburg-Lippe (Niedersächsisches Landesarchiv, Abt. Bückeburg), and its list includes Lauenhagen with Hülshagen ([Archion collection page](https://www.archion.de/de/alle-archive/niedersachsen/niedersaechsisches-landesarchiv/kirchenbuecher-der-evangelisch-lutherischen-landeskirche-schaumburg-lippe/)). For this case, go to the Archion images and check the extracts against them. The extracts remain derivatives. Use "access-pending" only after you have checked Archion, Matricula and the FamilySearch catalogue and found no images.
 - **A no-hit in an online civil index is not absence.**
@@ -124,6 +127,7 @@ Most towns had no parish of their own. One presenter estimates that the birth to
 
 ## 8. Read the full entry, including the bottom of the page
 
+- **Keep a named sponsor separate from a proxy.** If a baptism names one sponsor and another person acting in that sponsor's place, record both people with their distinct roles and the literal clause. Do not merge them into one person or an undifferentiated list of co-sponsors. Keep an uncertain role reading explicit in the associate worklist. The article in [S43] supplies a reported translation with this distinction; the original and translation were not independently checked.
 - **Check illegitimate baptisms for a later note.** In the presenter's Württemberg example, a child born in 1841 was entered under the mother's surname. The father's name and a legitimation date about a year later (30 May 1842) were written at the bottom of the page. [S24], [S25]
   - The presenter says this legitimation was done by the local Amt (lower court), not the church. Treat the court record as a separate retrieval lead. [S25]
   - Search the child under both surnames. Later records, such as an emigration index, may use the father's name. [S24], [S25]
@@ -138,6 +142,6 @@ Return the following:
 - **Jurisdictions:** each confession's parish, StdA, AG and BKdo, each marked as held in the town or by a named other town.
 - **Territory and names:** territories by period, the modern foreign name, and the catalogue search terms.
 - **Versions:** a version classification for each image, with separate locators.
-- **Entry text:** a full transcription that includes the marginal and closing notes.
+- **Entry text:** a full transcription that includes the marginal and closing notes, with separately labelled sponsor and proxy roles when the entry distinguishes them.
 - **Status flags:** verified on the original image; gazetteer-stated; derivative-only; volume lost/unavailable (with the last entry number seen); or access-pending (only after the portals and catalogue were rechecked, with the check date).
 - **Next step:** the next record that would decide the case (court legitimation file, house-owner book, muster roll, Sammelakte, marginal-note reference, or the other register version).

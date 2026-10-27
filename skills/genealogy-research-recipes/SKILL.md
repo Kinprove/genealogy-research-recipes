@@ -110,14 +110,16 @@ authorship does not require a Kinprove account, connector or scoring engine.
 - **`recipes/probate-case-document-inventory.md`** — Recover the documents behind
   a probate index, will or administrator's bond as a case inventory with unresolved leads.
   *Use for:* probate record series, references to other documents, later actions,
-  non-will proceedings or an estate search that stopped at the first useful document.
+  non-will proceedings, reverse searches from a guardian to wards, or an estate search
+  that stopped at the first useful document.
   *Core guardrail:* finding a will does not finish the case; retain each document's
   locator and remaining retrieval gaps, then hand off evidence interpretation.
 
 - **`recipes/us-military-pension-file-recovery.md`** — Carry a service clue or pension
   index card to the appropriate application file and inventory the claim's documents.
   *Use for:* pension-card identifiers, record custodians, complete versus abbreviated
-  copy products, widow/dependent applications, objections or later claim decisions.
+  copy products, widow/dependent applications, household and means statements,
+  objections or later claim decisions.
   *Core guardrail:* distinguish the index, service record, pension file and copy product;
   preserve original image order beside the claim timeline and explicit missing material.
 
@@ -150,11 +152,11 @@ authorship does not require a Kinprove account, connector or scoring engine.
   comparison or DNA-confirmed relationship; preserve each observation separately.
 
 - **`recipes/usa-immigration-search-recovery.md`** — Twelve historical U.S. immigration
-  workflows: reconstruct journeys, test port and border coverage, recover name variants,
+  workflows: reconstruct journeys, test port, airport and border coverage, recover name variants,
   pair departures with arrivals, read complete manifests, distinguish detention outcomes,
   interpret dated verification marks, find naturalizations across courts, check historical
   citizenship rules, locate federal files and recover broken image links.
-  *Use for:* passenger lists, Canada/Mexico crossing records, naturalization minute books,
+  *Use for:* ship and aircraft passenger lists, Canada/Mexico crossing records, naturalization minute books,
   C-files, A-files and AR-2 records.
   *Core guardrail:* preserve the complete image context and actual collection coverage;
   resolve citizenship rules and file custody for the person's dates before drawing conclusions.
@@ -189,7 +191,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
   pre-1850 age bins, bridge the 1890 gap, extract supplements and family fields, search
   mortality schedules, and follow surname changes.
   *Use for:* a missing census household, an address without a name hit, sheet 71,
-  tick-mark counts, substitute censuses, sample lines, marriage/children fields,
+  tick-mark counts, substitute censuses, sample lines, marriage/children fields, competing child rosters,
   mortality reporting windows, or formerly enslaved families under different surnames.
   *Core guardrail:* preserve the original locator and literal observations; keep
   calculated intervals and proposed identities separate, and route proof rulings to
@@ -417,14 +419,14 @@ and treat its guardrail as a hard limit on your own output.
 - **`recipes/us-vital-registration-coverage.md`** — Build a register of every U.S. birth and death registration authority and series before calling a record missing. *Guardrail:* the statewide mandate year is not the first year of coverage, and one county index miss is not "no record exists".
 - **`recipes/us-church-record-custody.md`** — Work out the denominational branch, congregation and current custodian of a U.S. church record. *Guardrail:* do not report "not found" or "records lost" until that custody path has been checked.
 - **`recipes/missing-marriage-jurisdiction-search.md`** — Replace a marriage missing from the couple's home county with a dated, ranked list of candidate jurisdictions. *Guardrail:* one county miss is not a finished search; report a gap only after every ranked candidate is searched or recorded as unavailable.
-- **`recipes/early-new-england-town-records.md`** — Read early New England town books across parent, daughter and neighbouring towns and decode Torrey's marriage notation. *Guardrail:* decode a Torrey entry before using it, and record which whole volumes were read.
+- **`recipes/early-new-england-town-records.md`** — Resolve village names to recordkeeping towns, read early New England town books across parent, daughter and neighbouring towns, preserve foundling narrative fields and decode Torrey's marriage notation. *Guardrail:* decode a Torrey entry before using it, and record which whole volumes were read.
 - **`recipes/quaker-meeting-record-recovery.md`** — Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both removal-certificate series. *Guardrail:* check that Hinshaw covers the meeting, decode the meeting before placing the entry, and keep each numbered date exactly as written.
-- **`recipes/catholic-parish-diocesan-record-recovery.md`** — Build a holdings register for a Catholic sacrament across the parish, alternative parishes, the diocesan copy, the successor custodian and any dispensation file. *Guardrail:* one failed parish search or online collection does not show that the entry never existed or that the register was lost.
+- **`recipes/catholic-parish-diocesan-record-recovery.md`** — Build a holdings register for a Catholic sacrament across the parish, alternative parishes, the diocesan copy, the successor custodian, dispensation files and Puerto Rican probanzas de soltería. *Guardrail:* one failed parish search or online collection does not show that the entry never existed or that the register was lost.
 - **`recipes/catholic-sacramental-cross-notations.md`** — Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish. *Guardrail:* indexes drop the baptism-place statement and the later marriage note, so read the original page in both directions.
 - **`recipes/hispanic-catholic-register-recovery.md`** — Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers. *Guardrail:* select the parish, not the town, search every surname arrangement, and never copy a baptism date into the birth field.
 - **`recipes/french-canadian-register-recovery.md`** — Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts. *Guardrail:* do not call the person absent until the French-Canadian name forms are exhausted.
-- **`recipes/french-belgian-civil-act-extraction.md`** — Extract a French or Belgian birth, marriage or death act field by field from the original image. *Guardrail:* a yearly index or ten-year table only finds the act; keep act and event dates apart, and convert Republican dates with a tool, never by arithmetic.
-- **`recipes/dutch-civil-church-record-recovery.md`** — Recover Dutch civil acts through ten-year tables and marriage supplements and carry them back to pre-1811 church registers. *Guardrail:* an index miss is not absence, and a father, death date or sibling set from a compiled tree needs the original entries.
+- **`recipes/french-belgian-civil-act-extraction.md`** — Extract French or Belgian civil acts, trace French marginal continuations and separately maintained copies, and check Paris reconstructions when the original series is unavailable. *Guardrail:* bind each annotation to its subject and copy; keep record and event dates apart, and convert Republican dates with a tool, never by arithmetic.
+- **`recipes/dutch-civil-church-record-recovery.md`** — Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian agreements; search burial/fee entries under the household head and trace pre-1811 church registers. *Guardrail:* an index miss is not absence, and a father, death date or sibling set from a compiled tree needs the original entries.
 - **`recipes/amsterdam-archival-record-recovery.md`** — Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register entry. *Guardrail:* read the entry by its register type, not by the index label; an ondertrouw is a registration, not a wedding.
 - **`recipes/scandinavian-parish-record-recovery.md`** — Reconstruct a Swedish household through the household-examination, birth, marriage, death and moving registers. *Guardrail:* follow the family by farm and page cross-reference, not by patronymic, and settle identity at the household level.
 - **`recipes/scandinavian-patronymic-farm-name-record-recovery.md`** — Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names. *Guardrail:* the American surname is usually not the register name; separate same-named parishioners by birth date, parents, spouse and farm, never by name alone.
@@ -442,7 +444,7 @@ and treat its guardrail as a hard limit on your own output.
 
 ### German records
 
-- **`recipes/german-register-image-recovery.md`** — Trace an emigrant's German place name to its church or civil register entry through the locality, record offices and register version. *Guardrail:* do not take the first same-named town, assume it kept its own records, or cite a derivative as the original.
+- **`recipes/german-register-image-recovery.md`** — Trace an emigrant's German place name to its church or civil register entry through the locality, record offices and register version; retain distinct named sponsor and proxy roles. *Guardrail:* do not take the first same-named town, assume it kept its own records, or cite a derivative as the original.
 - **`recipes/german-emigrant-origin-sources.md`** — Trace a German emigrant's home town through emigration files, indexes and the origin parish register. *Guardrail:* a miss in permission files or a regional index does not prove that the person did not come from that state; confirm every hit in the original register.
 - **`recipes/german-local-census-registration-recovery.md`** — Recover German nominal census lists (roughly 1816–1916) and residential-registration entries for a town. *Guardrail:* "we have no census" is not proof of absence, statistical tables are not the record, and a stated origin town is not the birthplace.
 - **`recipes/german-military-record-period-routing.md`** — Route a German soldier to the series that survive for his period, army and rank class. *Guardrail:* a canton, gazette notice or casualty-list line is a lead, never a birthplace, death date or identity.
@@ -467,7 +469,7 @@ and treat its guardrail as a hard limit on your own output.
 
 - **`recipes/canadian-census-interpretation.md`** — Read a historical Canadian census line as a de jure listing, and browse by geography when a name search misses. *Guardrail:* do not read a Canadian listing as a "present on census night" headcount.
 - **`recipes/tax-roll-observation-workflow.md`** — Read town, township or county tax lists as a liability-bounded annual series for each jurisdiction and tax type. *Guardrail:* a first appearance, last appearance or gap is a bounded interval under that year's liability rules, not a birth, coming of age, move or death.
-- **`recipes/deed-content-relationship-clues.md`** — Read a retrieved deed's type, consideration, estate terms, parties and parcel for dated clues to heirship, probate, migration or land identity. *Guardrail:* every clue is a dated hypothesis with a stated corroboration need, never a kinship finding.
+- **`recipes/deed-content-relationship-clues.md`** — Read a retrieved deed's type, consideration, estate terms, parties, court-bond security recitals and parcel for dated clues to heirship, probate, migration or land identity. *Guardrail:* every clue is a dated hypothesis with a stated corroboration need, never a kinship finding.
 - **`recipes/us-federal-land-entry-file-recovery.md`** — Follow a GLO patent, bounty-land number or final-proof notice to the federal land-entry case file. *Guardrail:* the patent image is not the entry file, and a failed GLO name search does not prove that no claim existed.
 - **`recipes/marks-and-brands-record-recovery.md`** — Carry a livestock marks-and-brands index entry to the actual registration or a described copy. *Guardrail:* read the index's own filing key before searching, since it can be the brand's initial rather than the owner's surname.
 
@@ -477,14 +479,14 @@ and treat its guardrail as a hard limit on your own output.
 - **`recipes/us-federal-court-case-file-recovery.md`** — Take a lead to the right federal court for the period, its National Archives record group and index, and the loose case file. *Guardrail:* decide whether the matter is federal before searching a county courthouse; a complete-index miss is a bounded negative that does not clear other relatives.
 - **`recipes/criminal-court-prison-record-recovery.md`** — Find the trying court, its present custodian and the surviving prison series for a suspected arrest, trial or imprisonment. *Guardrail:* establish which court tried the case before searching, and weigh an inmate-list miss against other evidence.
 - **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and the petition behind it. *Guardrail:* do not stop at the one-line index or printed act, ignore entries at the same locator, or skip legislative records because the event looks like a county matter.
-- **`recipes/illegitimacy-record-recovery.md`** — Find the bastardy bonds, court proceedings, support orders and church entries that a birth outside marriage could create. *Guardrail:* do not decide illegitimacy from weak signals, and record allegations, not paternity.
-- **`recipes/institutional-patient-record-recovery.md`** — Recover an asylum or state-hospital patient through the current custodian, the committing court and newspaper court reports. *Guardrail:* do not answer "sealed, nothing can be done", and record which copy product actually came back.
+- **`recipes/illegitimacy-record-recovery.md`** — Find the bastardy bonds, court proceedings, support orders and church entries that a birth outside marriage could create, and preserve express status statements in apprenticeship instruments. *Guardrail:* do not decide illegitimacy from weak signals, and record allegations, not paternity.
+- **`recipes/institutional-patient-record-recovery.md`** — Seek asylum or state-hospital records through the custodian, court and newspapers; in Dutch research, check a child's marriage papers and locally described admission correspondence. *Guardrail:* incapacity does not establish admission or diagnosis, and an access refusal does not establish that no file survives.
 
 ### U.S. military service
 
 - **`recipes/us-military-service-type-record-routing.md`** — Route pre-1900 U.S. military service by service type to its own record series and custodian. *Guardrail:* a miss in federal compiled-service or pension indexes is not "no service", and an empty bounty-land search means nothing if the man was never eligible.
 - **`recipes/us-civil-war-service-record-episodes.md`** — Read Civil War draft registration, service cards, roster remarks and unit events as separate episodes. *Guardrail:* registration is not service, the regiment's battles are not the soldier's, and a database miss does not prove non-service.
-- **`recipes/us-20th-century-military-service-reconstruction.md`** — Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned, thin or restricted personnel file. *Guardrail:* check the file's actual status before saying "it burned", and do not give the man his unit's events.
+- **`recipes/us-20th-century-military-service-reconstruction.md`** — Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned, thin or restricted personnel file, including state WWI questionnaires and Gold Star family packets. *Guardrail:* check the file's actual status before saying "it burned", and do not give the man his unit's events.
 
 ### Migration and origins
 
@@ -497,10 +499,10 @@ and treat its guardrail as a hard limit on your own output.
 ### Places, maps, libraries and manuscripts
 
 - **`recipes/historical-place-name-resolution.md`** — Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from period gazetteers. *Guardrail:* do not default to the well-known namesake; keep the name as written and let other dated evidence choose.
-- **`recipes/historical-map-record-recovery.md`** — Read a fire-insurance sheet, atlas, plat, quadrangle or overlay as one producer's dated, copy-specific observation. *Guardrail:* take people's names from other dated records, not from the map.
+- **`recipes/historical-map-record-recovery.md`** — Read a fire-insurance sheet, atlas, plat, quadrangle or overlay as a dated observation; trace a detached archival map toward its possible originating case. *Guardrail:* a candidate case link or estimated map date does not establish the depicted event or a same-named person's identity.
 - **`recipes/published-book-catalogue-and-full-text-discovery.md`** — Find a published local history, compiled genealogy or family book across catalogues and full text. *Guardrail:* a metadata search miss never establishes that a book does not exist or is not held; record what each tool covered.
 - **`recipes/periodical-index-search-retrieval.md`** — Search a genealogical periodical index such as PERSI and retrieve the article. *Guardrail:* these indexes are not full text, so a personal-name miss usually means the article text was never searched, and a hit is only a citation.
-- **`recipes/manuscript-collection-recovery.md`** — Find personal, family and organisational papers by context and trace a hit to the holding repository's finding aid. *Guardrail:* do not start with the ancestor's name, and never report "no manuscripts exist" because a name search failed.
+- **`recipes/manuscript-collection-recovery.md`** — Find personal, family and organisational papers by context, alternate ledger/daybook labels and an established society's personal-name index; request linked account pages or a complete claim folder with earlier applications. *Guardrail:* a name-search miss is not absence, and one reported packet does not guarantee standard contents or a current copy route.
 - **`recipes/local-repository-uncatalogued-holdings.md`** — Ask a local library, society or archive about its uncatalogued holdings after its catalogue returns nothing. *Guardrail:* an empty catalogue search leaves the uncatalogued holdings uninspected, so it is not a negative.
 
 ### Family papers, photographs and oral history

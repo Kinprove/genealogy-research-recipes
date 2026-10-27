@@ -74,11 +74,34 @@ Search both states' Guard records. Search the unit's later federal designation, 
 
 Check the county for a locally recorded discharge, even if the family holds the Army papers. Tanner found that an Apache County–recorded copy carried information missing from the Army documents [S2]. Record it as a separate source with its own custodian, and compare it field by field. Strauss also found Pennsylvania local records that were not in federal hands [S11].
 
+Search the state archive's WWI historical-project questionnaires and Gold Star files as a
+separate product from the OMPF or federal burial file. Read the collection's own inclusion
+rule first: Alabama's Gold Star project collected survivors' contributions about service
+members who died, so a miss is not a general test of service. Use documented state ties,
+including a supported collateral soldier or next of kin living elsewhere, to choose other
+collections whose scope fits. Birthplace alone need not identify the right one; a relative's
+residence does not itself establish eligibility. [S23, H1]
+
+Inventory the supplied biography, questionnaire, letters, photographs and notification papers
+rather than treating the result as a service abstract. Record who supplied each family
+statement, keeping apparent or unknown informants uncertain, and carry names and addresses
+as attributed leads. Where both an online preview and a downloadable packet are available,
+compare their page/image extents and log omissions before calling the packet inspected.
+Contents and access vary by collection; these state papers do not reconstruct a complete
+service history. The Reclaiming Kin examples motivate the family-file and extent checks;
+their historical site controls are not current access promises. [S23]
+
 A draft registration shows a man was present when he registered, not that he served [S5], [S14]. The 1917 card asks about prior military service, and Strauss says Guard service was often noted [S14]. Read the whole card, but don't count it as service.
 
 ## Place him with unit records without giving him the unit's events
 
 With a service number and unit, get the morning reports and after-action reports covering his dates. Morning reports and muster rolls are unit records that were not part of the OMPF, and the fire did not touch them [S10], [S16].
+
+Check whether the selected morning-report series and period record personnel changes rather
+than a full roster. McComb describes entries for changes such as promotion, illness or
+absence [S24]. Where that practice is confirmed, use an independently dated status change
+to choose an initial, bounded run of the supported unit or company's reports. A name missing
+on one day then does not show that the man was absent from the unit.
 
 - **Online first:** NARA has been adding digitized WWII Army morning reports to the National Archives Catalog. As of February 2025, reports through about July 1944 were online, and NARA was adding the rest of 1944–1946. Search the Catalog for the unit and his dates first. If his reports are not there, use the offline route. The 2023 advice that morning reports are "not online" [S16] is out of date.
 - **Offline access:** for archival Army morning reports (1912–1968), NPRC does not take written requests. Read them in person at St. Louis by appointment, or hire an independent researcher. Mail and fax requests apply only to non-archival 1969–1974 reports ([NARA](https://www.archives.gov/personnel-records-center/military-personnel/morning-reports-and-unit-rosters)).
@@ -105,7 +128,7 @@ Do not accept the National Archives WWII casualty lists as a complete roster. Th
 
 Deliver three things:
 
-1. **Register:** one row per product (OMPF/B/R/auxiliary, burial case file/IDPF with its custodian, VA C-file, VA Master Index card, BIRLS, compensation file, headstone application both sides, Guard records per state, county discharge, morning/after-action reports, transport lists, unit histories). Each row gives custodian, access status, release used, date requested and result (including page count, refusal, summary-only reply, appeal or pending).
+1. **Register:** one row per product (OMPF/B/R/auxiliary, burial case file/IDPF with its custodian, VA C-file, VA Master Index card, BIRLS, compensation file, headstone application both sides, Guard records per state, county discharge, state WWI questionnaire/Gold Star packet, morning/after-action reports, transport lists, unit histories). Each row gives custodian, access status, release used, date requested and result (including page count, refusal, summary-only reply, appeal or pending). For a state questionnaire packet, also retain its subject, collection inclusion rule, family informants and the received page/image extent.
 2. **Dated timeline:** three marked columns: personal entries, unit-level context and derivative annotations.
 3. **Negative searches:** each with its scope (database, name form, branch, state, date range).
 

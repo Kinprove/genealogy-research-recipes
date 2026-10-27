@@ -40,10 +40,11 @@ Before you record "not found", check:
 
 If any of these apply, record a **coverage gap** naming the parish, diocese and years, not a negative result. Send the request to the diocesan archive or the parish. At the start, offer to pay costs or make a donation. [S1], [S3]
 
-## 5. Search for a dispensation as its own record
+## 5. Search dispensations and status proofs as separate records
 
 - If the spouses share a surname, are suspected cousins, or the marriage entry mentions a dispensation, search the diocesan matrimonial or dispensation records. The parish marriage entry is not the only record. Dispensations for related couples went through the diocese, so the files sit at diocesan level. [S1], [S2], [S7], [S8], [S10]
 - First read which impediment the dispensation names. Only a consanguinity dispensation means the couple were related, and a dispensation for another impediment, such as marriage to an unbaptized person, says nothing about kinship. For a consanguinity dispensation the couple had to show how they were related, so expect a declared pedigree or statement of the relationship. Files often also contain affidavits and witness testimony. They are free-form, vary in length and are less often digitized than parish registers. [S1], [S2], [S8] Record the file with its own locator, and mark it searched, not searched or not available.
+- For a foreign-born spouse marrying in Puerto Rico, add a separate enquiry about **probanzas de soltería**, proofs of single or widowed status described in the cited research account. They are a different target from consanguinity dispensations. The account reports possible origin statements, baptism extracts and evidence of a former spouse's death. [S16] Confirm the actual custodian, series, period and locator before requesting a file. In a retrieved file, keep each document's issuer, date and stated purpose separate. A status-proof file does not itself establish consanguinity.
 - A pedigree in the file is the relationship the parties declared, so treat it as a claim to check. A shared surname or a related witness stays a hypothesis. [S10] Applications for cousin marriages were very common, so this search is worth doing wherever the couple came from a small or close community. [S9] If no dispensation file is found, that does not prove the couple were unrelated.
 
 ## 6. Check for batch recording before using exact dates and places
@@ -52,4 +53,4 @@ If several baptisms are entered under one date, the priest may have gathered not
 
 ## Output: holdings register
 
-Return one row per holding: parish (dedication + town + diocese) and the reason it was chosen, original or copy, years covered, locator, level inspected, and result. List coverage gaps separately: closure, retained registers, not filmed, outside a holder's span, or browse-only and not browsed. Add the successor custodian, the dispensation-file row and any batch-recording flags. State negative results only for the holdings you actually inspected.
+Return one row per holding: parish (dedication + town + diocese) and the reason it was chosen, original or copy, years covered, locator, level inspected, and result. List coverage gaps separately: closure, retained registers, not filmed, outside a holder's span, or browse-only and not browsed. Add the successor custodian, separate dispensation and status-proof file rows, and any batch-recording flags. State negative results only for the holdings you actually inspected.

@@ -144,6 +144,22 @@ photographs, database rows and real family examples are not reproduced.
   controls are procedural synthesis. No before/after photographs, recovered inscription or
   conservation assessment were independently inspected; no physical treatment is prescribed.
 
+- **P28:** Auprès de nos Racines, [Comment retrouver la tombe d’un ancêtre](https://www.aupresdenosracines.com/retrouver-tombe-sepulture-ancetre-cimetiere/),
+  published 2024-05-11 in the saved metadata. Used for the source-described French municipal
+  convoi/body-transport register as a destination-cemetery lead, followed by a separate interment
+  record. Only the saved article was inspected; no original transport or interment record was
+  examined. Local series, arrangement, survival, current custody/access, the article's 50-year
+  rule, coverage spans and individual examples remain unverified. The conditional retrieval and
+  record-role checks are Kinprove synthesis; a stated destination does not establish burial.
+
+- **P29:** Julie Roberts Szczepankiewicz, [McNamara’s Band: A Closer Look at Some of the Walshes’ FANs](https://fromshepherdsandshoemakers.com/2022/09/08/mcnamaras-band-a-closer-look-at-some-of-the-walshes-fans/),
+  published 2022-09-08 in the saved metadata. Describes a cemetery plot-owner card's
+  explicit references to the named owner's other cards and lots. Used for following those
+  locators beyond a neighboring-plot search. Only the saved article was inspected; the
+  private card images, researcher correspondence, markers and cemetery originals were not.
+  No universal card arrangement, current holder/access, interment, identity or kinship is
+  established. The conditional retrieval and record-role distinction are Kinprove synthesis.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of the attributed cemetery, gravestone and burial-record workflows — FSL-1.1-MIT (kinprove-original)

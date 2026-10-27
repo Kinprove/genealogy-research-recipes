@@ -16,9 +16,9 @@ for an identity conclusion, use `evidence-proof-judgment`.
 
 Keep three small working sheets:
 
-- **Journey table:** record date, event date, original name, departure,
-  arrival, destination, companions, citizenship/traveler category and locator.
-- **Coverage table:** repository, collection/series, port or district,
+- **Journey table:** record date, event date, original name, supported travel mode,
+  departure, arrival, destination, companions, citizenship/traveler category and locator.
+- **Coverage table:** repository, collection/series, mode, port/airport or district,
   dates, traveler categories, index versus images, access and gaps.
 - **Recovery queue:** failed query or image, proposed repair, exact locator,
   result and next stopping condition.
@@ -72,7 +72,7 @@ aid of the collection you choose.
 **Trigger:** a New York or Ellis Island search fails, or a portal's name is
 being used as proof of arrival place.
 
-1. Read the selected collection's description. Record its actual ports,
+1. Read the selected collection's description. Record its actual ports or airports,
    dates, series and traveler categories in the coverage table.
 2. Rank other entry points from evidence: destination, a documented ship,
    relatives' routes, a citizenship file or a border entry. Residence in New
@@ -80,6 +80,15 @@ being used as proof of arrival place.
 3. Search the matching port/series directly. If the relevant period has
    incomplete passenger records, choose another record type rather than
    repeating an unsupported exact-name search.
+
+If the evidence supports a flight, search the airport's passenger-arrival series,
+not only ship lists for the nearest seaport. Keep any supplied airport, airline
+and flight details with the date and traveler category. NARA lists airplane and
+vessel series separately, sometimes with different date ranges and indexes;
+check the selected series' description and access before inspecting its manifest.
+A ship-list miss does not test the airplane series. The Cuban-research article
+names plane manifests as a possible hometown source; it establishes neither a
+particular person's route nor that a manifest supplies a birthplace.[33,34]
 
 **Output:** a coverage-backed route shortlist. **Check:** a negative result
 applies only to the searched series and window. The Foundation's current
@@ -366,6 +375,16 @@ naturalization petition is found.
 **Output:** a status hypothesis linked to specific record searches. **Check:**
 absence of a personal petition does not establish noncitizenship; the
 supporting family events and historical rule must be checked separately.
+
+When a naturalization paper names a former sovereign or an "alien parent," copy
+that clause literally with the named person, the paper's date and its locator.
+Keep it as the applicant's nationality statement and a separate parent/origin
+lead, including an unfamiliar name form. Compare the parent's dated records
+before choosing an origin jurisdiction. Do not replace the stated allegiance
+with the present-day country of the petitioner's birthplace, or infer inherited
+citizenship from a parent's birthplace. The Complicated Naturalizations article
+reports such a clause; its original court paper and legal interpretation remain
+unverified.[35]
 
 Check the reverse case too. A U.S.-born married woman recorded as alien in a census may have
 lost citizenship through her marriage; the entry is not necessarily an enumeration error. Check

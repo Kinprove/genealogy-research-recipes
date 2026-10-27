@@ -109,6 +109,17 @@ The linked inventory/queue schema and scope-completion rule are original synthes
   The narrated 1806/1848 case, instrument, event evidence, counties and governing law were not
   independently inspected; no fixed age, automatic reopening or current-law claim is adopted.
 
+- **S18:** Yvette Hoitink / Dutch Genealogy, [Quick tip – Who was your ancestor the guardian for?](https://www.dutchgenealogy.nl/who-was-your-ancestor-guardian-for/), 2024-03-27 (saved publication metadata); saved article reviewed 2026-10-27. Suggests searching for people for whom an ancestor acted as guardian and notes that a guardian may be omitted from an index arranged by deceased parents. Only the saved article was inspected, not an actual register, index or family case. Checking the actual indexed roles, bounding any browse and retaining separate person roles are authored synthesis. The article's generalizations about index practice and close-relative guardians, any kinship, local series, legal requirement, survival, current custody and access are not established.
+
+- **S19:** Yvette Hoitink / Dutch Genealogy, [Ask Yvette – How to find a Dutch will](https://www.dutchgenealogy.nl/ask-yvette-how-to-find-a-dutch-will/),
+  2022-04-29 (saved publication metadata); saved article read 2026-10-27. Used for the historical
+  Central Last Wills Register's birth-year filing key and the death-duty file/table V-bis route
+  to a will's locator. Only the complete saved article was inspected, not an original card,
+  index, fiscal file, will or local inventory. Creation and coverage cutoffs, registration,
+  tax and filing duties, access and transfer rules, current provider UI, custody, services,
+  fees and the named case's no-will conclusion remain unverified and are not adopted.
+  Conditional series and input checks are authored synthesis.
+
 ## Credits
 
-- Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
+- Kinprove — original distillation and synthesis, including the bounded reverse-guardian search and role checks attributed to S18 — FSL-1.1-MIT (kinprove-original)
