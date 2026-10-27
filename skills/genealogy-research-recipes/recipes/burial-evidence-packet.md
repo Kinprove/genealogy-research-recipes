@@ -46,6 +46,11 @@ apart from locations based on word of mouth or dowsing. The
 complete or accurate a survey is, and a preservation group reports finding errors in its own
 compilation.
 
+If a heritage inventory catalogues a cemetery and its individual markers separately, search both
+relevant asset categories for the locality. McGuiggan's 2022 MACRIS account describes a cemetery survey
+under `Burial Ground` and individual markers under `Object`; verify the actual inventory's
+headings and retain each category search and item locator separately. [P29]
+
 For a published necropolis or burial list, record what it was compiled from: cemetery documents
 or monuments, or the death section of parish metrical books. Treat the two kinds as separate
 sources and compare them where both exist. A list built from death entries records deaths in the

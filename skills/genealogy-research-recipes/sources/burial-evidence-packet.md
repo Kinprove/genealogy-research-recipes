@@ -152,6 +152,15 @@ photographs, database rows and real family examples are not reproduced.
   rule, coverage spans and individual examples remain unverified. The conditional retrieval and
   record-role checks are Kinprove synthesis; a stated destination does not establish burial.
 
+- **P29:** Amy Whorf McGuiggan (Vita Brevis), [A cultural heritage database](https://vitabrevis.americanancestors.org/2022/02/a-cultural-heritage-database),
+  published 2022-02-09 in the saved metadata. Describes a cemetery survey and individual markers
+  catalogued under different MACRIS resource types. Used for the conditional search of both asset
+  categories and their separate locators. Only the saved article was read; current headings,
+  interface, terms, access and survey completeness were not checked. Original Old Burial Hill
+  and Truro inventory files, images and individual marker or burial claims were not inspected.
+  The lookup and locator controls are Kinprove procedural synthesis; no universal category labels
+  or source-material reuse rights are inferred.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of the attributed cemetery, gravestone and burial-record workflows — FSL-1.1-MIT (kinprove-original)
