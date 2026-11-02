@@ -20,6 +20,12 @@ Related recipes:
   - In one case the reply also said that a neighbouring parish's books for that year had never reached the archive. The researcher noticed this only on rereading, after a party file had already confirmed the birthplace [S3].
 - **Check a "not preserved" reply against the archive's own inventory or online images where you can.** A participant said that one archive had reported no interwar Jewish metrical book for a town, yet its inventory listed a combined births-and-deaths book for 1922–1928. The participant suggested that only one event type might be missing for one year [S2].
 - **For an Orthodox parish, ask about the second copy.** The second copy of the metrical book was kept at the consistory. A participant reported that the modern diocesan administration answers requests by sending people to the state archive [S3].
+- **Russia: a ZAGS or Gosuslugi "not found" may cover only the electronic register.** When an act is not in the unified register (ЕГР ЗАГС), the law requires a check of the paper record (Federal Law 143-FZ, Art. 9, Part 4). Ask whether that office's paper books for the year were searched, and how a missing record is found and entered [S25].
+  - Any ZAGS office accepts an in-person request for a repeat certificate or extract; it need not be the office that registered the event. Issue is same-day when the act is in the register; otherwise the office searches the paper record, which in Moscow takes up to 30 days [S25], [S27].
+  - Moscow reported in December 2020 that its whole ZAGS archive from 1926 was digitised and can be requested at any ZAGS in Russia. Its "Мои документы" (My Documents) service centres also issue repeat ZAGS documents [S26], [S27].
+- **Ukraine: route a civil-status request by the act's age.** Civil-registration offices (ДРАЦС) keep the act books for 75 years from the act's date. They then transfer them each year to the state archive of the oblast, of Kyiv or Sevastopol, or of the Autonomous Republic of Crimea (Ministry of Justice order No. 2804/5 of 30.12.2013, §§ II.1, V.1) [S22]. Send a request for an older act to that state archive, not to the ДРАЦС. Russia's custody term differs: see [Russian-Empire Jewish metrical-book recovery § 6](russian-empire-jewish-metrical-book-recovery.md#6-switch-to-zags-registers-when-the-territory-changed-over).
+  - A repeat certificate of a living person's own birth is a later derivative of the act, and requesting one is that person's own action. Read it as [§ 4 of that recipe](russian-empire-jewish-metrical-book-recovery.md#4-when-the-book-is-lost-search-for-named-substitutes) reads Soviet repeat certificates.
+  - Diia (the Ukrainian state services portal) can order repeat certificates and extracts, but the application must be signed with a Ukrainian qualified electronic signature (КЕП) or Diia.Signature. Ukrposhta delivery of the result is available only within Ukraine (Diia notice of 10.07.2026, checked 2026-11-02). From abroad, apply through a Ukrainian consulate [S23], [S24].
 - **Then stop chasing the register.** Participants reported the Jewish metrical books of Starodub and Kremenchug as not surviving. For losses like these they gave one instruction: work from Soviet-period files on work, study, evacuation and party membership [S2].
 
 ## 2. Build a life-course inventory for the subject, the spouse and the descendants
@@ -33,6 +39,11 @@ List every institution each person passed through. In each of them the person fi
 - **Any pre-1917 social estate or town of registration** that turns up in an administrative list. A participant used a 1908 list of criminal-record certificates (ведомость справок о судимости) to fix the приписка before searching Soviet catalogues. The list gave the estate as мещанин of a named town [S2].
 
 Do not stop at the subject's own files. A descendant's file can hold the parents' details even when nothing survives for the parents themselves. In one worked case, a son's party registration card gave his father's birth-year range, birthplace, occupations and year of death [S9]. In other cases participants pointed to a son's party files and to two sisters' university files as the next requests [S2].
+
+**Read a Soviet internal passport field by field.** Copy each mark literally: the ZAGS marks of marriage and divorce, the прописка and выписка (residence registration and deregistration) stamps as dated residences, the birthplace as written, and the children entries.
+
+- Under the 1974 Passport Regulation, ZAGS enters the holder's children and the marriage and divorce marks, and internal-affairs bodies make the residence stamps. When a passport is exchanged or replaced, only children under 16 are entered in the new one, so the page is not a complete list of children [S19].
+- Identify the passport model before you read an absence or an unexpected mark. The 1974 rules forbid any marks other than those they list [S19]. Earlier passports could carry a residence-restriction entry citing Article 38 or 39 of the passport regulations, which applied to released convicts. Treat such an entry as a lead to a conviction file [S20], [S21].
 
 ## 3. Route each institution to its series and present custodian
 
@@ -112,6 +123,9 @@ Write one row per locator and person, using the fields in the output register at
 - NARB f. 968 is the fond of the Supreme Soviet of the BSSR.
 - A participant reported that it holds award sheets attached to the Presidium decrees on the Honorary Diploma, filed by award date. The sheets give position and workplace, birth date, nationality, party membership, education, home address and a short career note [S11].
 - Participants said the nomination came from the enterprise together with its party, trade-union and Komsomol organisations, or from a raikom. Look for the character reference in the enterprise records or in the raikom fond in the party archive [S11].
+- **Soviet maternal awards** were created by the Presidium decree of 8 July 1944: «Мать-героиня» (Mother Heroine) for ten or more children, the order «Материнская слава» (Maternal Glory, III, II and I class) for seven, eight or nine, and the «Медаль материнства» (Motherhood Medal, II and I class) for five or six [S16], [S18].
+  - Under the 1944 text, the award was made once the youngest child reached one year and while the mother's other children were alive, and it counted children killed or missing at the front [S16]. So the class reflects the children counted at the award date, not all births, and the award date shows only that the youngest child was at least a year old by then.
+  - The USSR Supreme Soviet Presidium conferred Mother Heroine by decree, the union- and autonomous-republic Supreme Soviet presidiums awarded Maternal Glory and the Motherhood Medal, and oblast, city and district executive committees handed over those two awards (statutes of 18 August 1944, Vedomosti 1944 No. 45) [S17]. Search those bodies' fonds for the award papers, under the mother's own surname, which may differ from her children's. Read the rules in the edition in force at the award date.
 
 **Residence.**
 
@@ -120,10 +134,21 @@ Write one row per locator and person, using the fields in the output register at
 - For Leningrad, check the city archives website for surviving house books and taxpayer lists at a known address, and look there for relatives living at the same address [S2].
 - Detailed ZAGS extracts for a death, a marriage or a child's birth give addresses for these searches [S2].
 - A Yad Vashem evacuation entry fixed one family's Moscow occupation and residence. The next steps were detailed ZAGS records and the лишенец file of the elderly dependant [S2].
+- **For a rural family, add the village-soviet household books (похозяйственные книги).** Village soviets kept them from 1934 (decree No. 185 of 26 January 1934 of the СНК СССР, the USSR Council of People's Commissars), one entry per household beginning with its head [S14].
+  - They now sit in district or city archives, sometimes in the oblast state archive, and some are still with the local administration [S14], [S15]. Runs can start late: in the Minsk oblast state archive most districts' books survive only from 1944 [S15].
+  - Request the book for the named settlement and period and the entry for the household of the named head, with name variants, and ask whether a copy of the family-composition entry is possible. If the head is unknown, request a surname search within that settlement and ask its terms.
+  - An entry lists the members, their relation to the head and their age, with marks of arrival in and departure from the household. The form changed several times between 1934 and 1975, so read the columns of the book you receive [S14].
 
 **Collectivisation-era village records.** A participant quoted the regional fond on church closures (ГАСО f. Р-102, op. 1, d. 865, 1930). It contains collective-farm meeting minutes naming the chairman and secretary, with attendance lists on folios 13–17 [S12].
 
 **Pensions.** Reports conflict. One participant said social-security (собес) pension files are destroyed within about five years of death. Another obtained a Kharkiv pension file for a 1962 death. The same participant's request in Dnipro for a 1968 death found nothing, which the participant put down to a move, although that office still held files for that year [S1]. Ask the office about the years you need instead of assuming either answer.
+
+**Death and inheritance (Russia).** The Federal Notarial Chamber's probate-case register (Реестр наследственных дел, notariat.ru) has run in the notarial information system since 1 July 2014 [S29]. It is an auxiliary index of opened inheritance cases, not a death record and not proof of kinship.
+
+- Names match exactly: a query without a patronymic finds only cases recorded without one. Birth and death dates may be partial or left out; if a doubtful date filter returns nothing, retry without it. The form limits the number of queries per period of time [S28].
+- A year in the case number is not the death year. The register states no coverage period, so completeness for older deaths is unknown and a miss is not a negative [S28].
+- The notarial district does not prove the last residence. When the last residence is unknown or abroad, the inheritance opens where the inherited property in Russia lies, immovable property (or its most valuable part) first (Civil Code, Art. 1115, Part 2) [S30], [S31].
+- Do not collect living heirs' addresses or contacts. For the grave itself, use the Russian cemetery-database rules in [burial evidence packet § 2](burial-evidence-packet.md#2-search-the-recorded-name-fields-separately).
 
 ## 4. Search under every name the person actually used
 
@@ -148,6 +173,7 @@ Write one row per locator and person, using the fields in the output register at
 - **A name match is a candidate.** Participants qualify their own hits: "could be namesakes", "probably the son", "possibly the daughter", or "could it be connected to yours?" [S2], [S13].
 - **An estimate mismatch lowers the rank; it does not exclude.** In one case a participant offered a same-surname birth entry, and the researcher rejected it because it did not fit the town and birth years known from the son's party card [S9]. Rank a candidate lower when an estimated birth year disagrees, but do not exclude it on that ground alone. Leave the identity ruling to evidence/proof judgment.
 - **Request status is part of the row.** Note whether you asked for copies or only for an archival certificate (архивная справка). A participant noted that without proof of kinship you can still ask for the certificate, and that an older file may be released anyway [S2].
+- **Build a kinship-proof chain only from documents the user holds.** When an archive requires proof of kinship for a personal file, make each missing link (for example one generation's birth or marriage certificate) its own early request. It gates access to that file only; carry on with the other searches. In Russia the basis is Federal Law 125-FZ, Art. 25, Part 3: archival documents containing a citizen's personal or family secrets or private life are closed for 75 years from the document's creation, and before then open only with the person's written permission or, after death, that of their heirs [S32].
 
 ## 6. Read questionnaires and autobiographies as dated self-reports
 

@@ -31,6 +31,18 @@ record the failure. The absence of that link establishes no absence in other ima
 the holding archive. The Polish-records guide demonstrates both Geneteka's scan links and a
 subsequent Search the Archives route. [P1]
 
+Before you trust a Geneteka row or a miss, set the search to fit the lead. For the former eastern
+lands, select the **Ukraina**, **Białoruś** and **Litwa** territories as well as the modern
+voivodeships, and check coverage for each act type. To find a person as a parent, leave
+**Nie wyszukuj w rodzicach** (do not search parents) unticked; a child's birth row is not the
+parent's birth. Use **Wyszukaj jako para** (search as a couple) for a couple.
+**Wyszukaj również w pobliskich parafiach (15km)** adds nearby parishes; a hit there does not place
+the person in that parish. Some indexed data has no available scans. [O2], [O3], [O4]
+
+A results page read with a fetch or HTML tool can show the column headers and no rows, even for a
+very common surname; one such fetch on 2026-11-02 also showed no result counter. Check the loaded
+rows and the counter in a real browser, and never log NIL from such a fetch. [O3]
+
 **Output:** `index URL | candidate | locality/district | confession | event | year | act |
 comments | SKAN destination | observed link result`.
 
@@ -59,7 +71,9 @@ register answered by a Warsaw archive came from an Archiwum Główne Akt Dawnych
 registers from the "eastern territories", not from a Warsaw parish. Identify the fonds, its
 inventory and the unit signature, and treat the parish's location as unresolved until that
 description or another source places it. Record whether the signature has scans. The source covers
-only this inventory, not AGAD's full scope or current scan coverage. [C1]
+only this inventory, not AGAD's full scope or current scan coverage. [C1] For Eastern Galician
+metrical books in Lviv (TsDIAL) and Warsaw (AGAD), see
+[Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
 
 **Output:** `description URL | creator/locality | confession | record type | described years |
 archive | full fonds reference | unit/year needed | scans listed`.

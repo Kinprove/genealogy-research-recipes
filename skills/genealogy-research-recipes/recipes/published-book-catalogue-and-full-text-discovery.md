@@ -82,6 +82,8 @@ Record each range you browsed and the volumes you actually opened.
 
 **Search Google Books for the ancestor's name across all books, not only full-view ones.** For a common name, put the full name in quotation marks and add a place or occupation qualifier [S6]. Record every query string exactly as you ran it.
 
+**For Central and Eastern European directories, yizkor (memorial) books and military lists, search Genealogy Indexer (genealogyindexer.org).** It searches the OCR text of these publications, and its guide warns that the OCR is not fully accurate [S16], [S17]. An empty 'surname near uezd' proximity query is weaker evidence than an empty surname-only query, because an OCR error in either word blocks the match. Also try its OCR-Adjusted matching and wildcards [S17]. If the source list shows no edition for the target guberniya, look for its residents in empire-wide editions and the WWI casualty lists. The page images sit on the holders' websites, and a moved image shows the host's error page, so find the volume at another holder [S18]. Its robots.txt disallows /search/ and /words/ for all robots (checked 2026-11-02), so run searches only in the user's browser [S19].
+
 ## 5. Carry the confirmed title across holders
 
 **Once the exact title is confirmed, search for that title at each other holder.** Check:

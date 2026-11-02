@@ -98,7 +98,7 @@ The linked routing, request-receipt and image/timeline schemas are original synt
   [Genealogy Research in Military Records](https://www.archives.gov/research/military/genealogy),
   checked 7 October 2026. Record-type, service category and custodian routing.
 - **H3:** National Archives, NARAtions,
-  [Family Tree Friday: More Unexpected Finds in Military Pensions](https://narations.blogs.archives.gov/2009/11/20/family-tree-friday-more-unexpected-finds-in-military-pensions/),
+  [Family Tree Friday: More Unexpected Finds in Military Pensions](https://narations.blogs.archives.gov/?p=603),
   20 November 2009; checked 26 October 2026. An 1820 need-supporting property inventory and
   accompanying letter about the claimant's wife and resident daughter. Corroborates looking
   beyond service testimony; the historical hosted-file link is not a current access guarantee.

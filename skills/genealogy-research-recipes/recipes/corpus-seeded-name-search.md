@@ -55,6 +55,18 @@ Hebrew final letters and Yiddish digraph characters are separately encoded. If n
 
 Removing points does not supply missing vowel letters, convert one surname spelling into another or resolve Hebrew versus Yiddish orthography. Add consonant substitutions only as bounded exploratory lanes motivated by the source, observed OCR errors or linguistic evidence. There is no universal substitution mask that proves coverage of every Slavic name in Hebrew script.
 
+Pre-1918 Russian text needs a pre-reform spelling lane. OCR of pre-reform print and HTR
+(handwriting recognition) of manuscripts can keep the old letters, so a query in modern spelling
+can miss the entry. The decree of 10 October 1918 replaced ять (ѣ) with е, фита (ѳ) with ф and і
+with и, and dropped ъ at the end of words while keeping it inside words as a separator [S17]. The
+Narkompros (People's Commissariat for Education) decree of 23 December 1917 had set the same rules
+[S18]. Ижица (ѵ, izhitsa) is named in neither decree: it had become rare, fell out of use gradually
+and still turns up in some register names, so treat it as a rare variant [S17, S19]. Search both
+forms, for example Ѳома/Фома, Ѳеодоръ/Феодор (and the vernacular Фёдор), Тимоѳей/Тимофей and
+Аѳанасій/Афанасий, and keep the forms the returned text actually holds. Confirm every hit on the
+image. In a volume that binds several parishes, limit a negative to the target parish's section
+and to the years and pages that carry recognised text.
+
 Transcription can also move or replace whole name parts. When an expected entry is missing from a
 transcribed index, test a query with the given name and patronymic swapped, since a man recorded
 as X son of Y may be indexed as Y son of X. Also allow for an indexer who substituted a dissimilar
@@ -73,7 +85,9 @@ German or Lithuanian name forms. Check where the recording office sat, not only 
 keep the literal form in the inventory. The [Jensen](https://www.youtube.com/watch?v=g8pltErjQpU),
 [Minert](https://www.youtube.com/watch?v=cc8_6tNN8C4) and
 [Sinickas](https://www.youtube.com/watch?v=xoY83Sx3ANk) transcripts give examples, not a
-systematic conversion table. A matching form is a candidate, not proof of identity.
+systematic conversion table. A matching form is a candidate, not proof of identity. For Romanian
+and Russian name lanes in Bessarabian records, see
+[Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
 
 Grammatical endings need their own lanes. In German-language registers, a woman's surname may
 carry a feminine -in suffix that is not part of the family name. When such a name is hard to read,
@@ -81,7 +95,9 @@ drop the suffix, keep uncertain first letters open, check the readings against a
 book's surname variants and list of wives, then return to the original entry. In Ural and Siberian
 records an indeclinable -ских form may alternate with -ские or -ская for one family, and -ов/-ев
 could be written inconsistently. Search each ending, including feminine and plural forms, and keep
-each literal ending in the inventory. See the
+each literal ending in the inventory. A -ских form can also be the genitive plural of an owner's
+-ский surname, as in 'вотчина графинь X-ских' (the estate of the Countesses X-sky). Decide from
+grammar and context before you create an indeclinable -ских peasant family. See the
 [family-book example](https://forum.ahnenforschung.net/forum/thread/17915/),
 the [Ural Civil War thread](https://rodgersforum.borda.ru/?1-23-0-00000012-000-0-0-1714980847=)
 and the [genealogy terms thread](https://rodgersforum.borda.ru/?1-0-0-00000141-000-0-0-1701453218=).
@@ -96,6 +112,8 @@ Search the nominative, the inflected Latin form and a reconstructed vernacular f
 lanes. Keep the literal entry, and do not search origin adjectives as surnames. The
 [Latin register-name examples](https://forum.ahnenforschung.net/forum/thread/928/)
 give two instances and no conversion rules. A reconstructed vernacular name is only a candidate.
+For Polish-orthography and Latin given-name lanes in Galician registers, see
+[Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
 
 ## Retrieve through another recorded participant
 
@@ -111,6 +129,17 @@ Use only syntax supported by the actual field, without transferring another data
 Before interpreting zero results, try an independently known positive that the same field and scope should retrieve. Distinguish catalogue author/title, body-text OCR, typed name fields and free text. If the control fails, investigate scope, access or field behaviour; report the failed control rather than the target's absence. A functioning website does not establish a functioning within-book index.
 
 Remote services may normalize differently from local code. Submit original and transformed queries separately and compare returned identifiers. Check only the syntax needed for the task; do not transfer local regex, wildcards or Boolean syntax to an undocumented interface.
+
+A Belarusian or Ukrainian database may index names in that language's spelling, in Russian, or
+both. Run each spelling as a separate lane, and calibrate each database's own convention before
+trusting a zero. On 2026-11-02 the Virtual Museum of Soviet Repressions in Belarus (represii.net)
+returned no hits for a common surname in Russian spelling and 194 for its Belarusian spelling
+[S20]. Zhnivo (db.zhnivo.com) covers the historical Belarusian lands and destinations of Belarusian
+migration such as Siberia and the Baltics. Its search help asks for the surname in Russian,
+although the site is in Belarusian, with `|` between alternatives in one field and `*` as a
+wildcard. The help also warns that machine-read names can differ from the original by a letter or
+two, so confirm each hit on the document it points to. Its terms forbid automated bulk or partial
+download without the project's permission, so search it by hand in the user's browser. [S21]
 
 A site search can silently drop one query term. Some engines ignore words outside a length range or
 on a common-word list, then return results for the remaining words. A multi-word result list may

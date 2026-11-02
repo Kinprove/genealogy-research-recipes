@@ -8,7 +8,7 @@
 - **S6:** Уральская генеалогия, [a thread on a village in Talovskaya volost](https://rodgersforum.borda.ru/?1-14-0-00000006-000-0-0-1779191822=), start date not recorded. Used for: edinoverie residents using another village's church, a 1911 neighbouring church taking part of a village, books held in a museum, and conflicting parish assignments.
 - **S7:** Уральская генеалогия, [Гражданская война 1918-1922 годов. Участники гражданской войны](https://rodgersforum.borda.ru/?1-23-0-00000012-000-0-0-1714980847=), start date not recorded. Used for: the chain list of populated places → diocesan reference book → fond/opis/delo; GASO f. 6 op. 10 and Tobolsk f. 156 op. 20; a reading-room restriction on other opisi, reported there but now superseded; surname-ending variation.
 - **S8:** Уральская генеалогия, [Шадринский архив, описи некоторых фондов](https://rodgersforum.borda.ru/?1-14-0-00000044-000-0-0-1768939977=), start date not recorded. Used for: inventory notes of transfer to a district ZAGS, inventory dates that differ from the contents, events held in non-home churches, and the archive guide's date range for the Shadrinsk edinoverie church fond.
-- **S9:** Уральская генеалогия, [311 стрелковая дивизия](https://rodgersforum.borda.ru/?1-23-0-00000052-000-0-0-1684215091=), start date not recorded. Used for: a "выслано" 1951 reissue note on a birth entry.
+- **S9:** Уральская генеалогия, [311 стрелковая дивизия](https://rodgersforum.borda.ru/?1-23-0-00000052-000-0-0-1684215091=), start date not recorded. Used for: a participant's reading of a "выслано" note of 1951 on a birth entry as a reissued certificate.
 - **S10:** Уральская генеалогия, [Катайский острог, Катайская слобода (волость)](https://rodgersforum.borda.ru/?1-14-0-00000075-000-0-0-1768980711=), start date not recorded. Used for: routing by the period uezd and see, consistory versus parish copy custody, Soviet-era transfers, pre-consistory periods, the later-reported Katai holdings (Kurgan Ф. 243 Оп. 1 Д. 1 for 1780–1790; Shadrinsk Ф. 328 Оп. 1 Д. 2 for 1798–1812), and documents hidden under other inventory names.
 - **S11:** Уральская генеалогия, [Необычные алгоритмы поиска](https://rodgersforum.borda.ru/?1-0-0-00000122-000-0-0-1756999245=), start date not recorded. Used for: bride-candidate elimination; confession-list identification with independent confirmation; brides as godmothers; patronymics from a godfather, maternal grandfather or stepfather; wrong bride names; a participant's answer on whether a godfather could be the father.
 - **S12:** Уральская генеалогия, [a surname thread for a village near Shadrinsk](https://rodgersforum.borda.ru/?1-14-0-00000134-000-0-0-1776231771=), start date not recorded. Used for: an edinoverie parish's village lists from clergy registers (GASO f. 37 op. 4 d. 89); overlapping Orthodox parishes; the quoted 1902 account of the 1839 founding and the earlier churches; pre-1839 fallbacks; a surname changing to an origin-based form; Dionisiy/Denis.
@@ -25,6 +25,16 @@
 - **S23:** Уральская генеалогия, [Пермское губернское правление (продолжение)](https://rodgersforum.borda.ru/?1-11-0-00000271-000-0-0-1745136493=), start date not recorded. Used for: a service file stating a patronymic given from the godfather (GAPK f. 36 op. 6), with two surname forms.
 - **S24:** Уральская генеалогия, [a family-search thread for the village of Yugovskoe](https://rodgersforum.borda.ru/?1-2-0-00000636-000-0-0-1779081499=), start date not recorded. Used for: parish and consistory copies, the diocesan administration's referral to GAPK, and a birth predating the local church's reported 1866 founding.
 - **S25:** Уральская генеалогия, [Вопросы по содержанию источников, термины](https://rodgersforum.borda.ru/?1-7-0-00001201-000-0-0-1758005162=), start date not recorded. Used for: "полуторный брак".
+- **S26:** Yandex, [Поиск по архивам — справка](https://yandex.com/archive/help), opened 2026-11-02. Used for: the document types (metrical books, revision tales, confession lists), the 18th- to early-20th-century range, the archives the service names, machine recognition of the text, and the login required to view documents.
+- **S27:** Wikipedia (Ukrainian), [Українські прізвища](https://uk.wikipedia.org/wiki/Українські_прізвища), opened 2026-11-02. Used for: -ів surnames as possessive adjectives from given names, common in Galicia, and their female forms.
+- **S28:** Wikipedia (English), [Ukrainian surnames](https://en.wikipedia.org/wiki/Ukrainian_surnames), opened 2026-11-02. Used for: -ів as an old Ruthenian surname type, agreeing with S27.
+- **S29:** mos.ru, [«Моя семья»: метрические книги из Главархива стали доступны онлайн](https://www.mos.ru/news/item/84607073/), opened 2026-11-02. Used for: Glavarchiv metrical books viewable online in the «Моя семья» service.
+- **S30:** РИАМО, [news report on confession lists in Glavarchiv's online service](https://riamo.ru/news/obschestvo/ispovednye-vedomosti-stali-dostupny-v-onlajn-servise-glavarhiva-moskvy-xl/), opened 2026-11-02. Used for: Glavarchiv confession lists added to the same online service.
+- **S31:** State Archive of Sverdlovsk Oblast, [Метрические книги ГАСО](https://metriki.gaso-ural.ru/), opened 2026-11-02. Used for: the viewer holding f. 6 (Ekaterinburg consistory) only, and its фонд/опись/дело/скан search prefixes.
+- **S32:** State Archive of Rostov Oblast, [Метрические книги православных церквей](https://donarch.ru/metrikbooks/), opened 2026-11-02. Used for: Don metrical books arranged by settlement and okrug, with scan previews on settlement pages.
+- **S33:** State Archive of Oryol Oblast, [Генеалогические запросы](https://gaorel.ru/requests/genealogical), opened 2026-11-02. Used for: paid thematic genealogical requests stopped or limited, and a prepayment not refunded when nothing is found.
+- **S34:** State Archive of Ivanovo Oblast, [home page](https://ivarh.ru/), opened 2026-11-02. Used for: genealogical requests suspended.
+- **S35:** State Archive of Bryansk Oblast, [Приём генеалогических запросов прекращён](https://old.archive-bryansk.ru/priem-gineologii), opened 2026-11-02. Used for: genealogical requests stopped, with users sent to search in the reading room.
 
 **What is authored and what the sources supply.**
 
@@ -36,7 +46,7 @@ The following are authored synthesis:
 - the treatment of margin notes as separate dated events with follow-up series
 - the rule that age mismatches rank candidates rather than exclude them.
 
-The sources supply the archive locators, the formula readings and the worked cases. All of these are forum participants' reports and demonstrations, almost entirely from one Urals forum and the Perm, Ekaterinburg and Tobolsk sees.
+The sources supply the archive locators, the formula readings and the worked cases. In S1–S25 these are forum participants' reports and demonstrations, almost entirely from one Urals forum and the Perm, Ekaterinburg and Tobolsk sees. The service, archive, news and encyclopedia pages S26–S35 supply the facts on full-text search, possessive name forms, online viewers and archive requests.
 
 The following were NOT verified:
 
@@ -44,7 +54,8 @@ The following were NOT verified:
 - the five-year rule for falling into the schism, and the unrecorded pledge
 - the exact title and year of the 1899 compendium
 - which exemplar carried divorce notes
-- whether these inventory structures hold for other consistories.
+- whether these inventory structures hold for other consistories
+- how the Yandex full-text search treats pre-reform letters, word forms and quotation marks.
 
 ## Credits
 

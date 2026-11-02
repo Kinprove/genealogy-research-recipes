@@ -17,6 +17,8 @@ Other recipes cover the overlapping steps:
 - **Cancellations and AI transcription.** For bracketed cancellations and AI transcription, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
 - **Kinship rulings.** For legitimacy labels, separation versus divorce, and the final kinship ruling, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 - **Jewish records.** For Jewish rabbinate books and registration (приписка), use [Russian-Empire Jewish identity attribution](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md).
+- **Bessarabian books.** For Bessarabian metrical books of 1811–1923, which the National Archives Agency of Moldova (ANA) keeps in fond 211 by district opis (its op. 23 covers Tiraspol uezd of Kherson guberniya), use [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
+- **Galician books.** For Galician Greek Catholic and Roman Catholic books and the archives that hold them, use [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
 
 ## 1. Route by the period uezd, guberniya and see, never by the modern oblast
 
@@ -63,6 +65,13 @@ Every parish-year has two possible copies: the parish copy stayed at the church,
   - Another said that in Perm many documents are hidden in inventories under other names. [S10]
   - The 1776 confession list participants cited is catalogued under a church name and a see that differ from today's. [S10]
 - **The diocesan office.** A participant reported that the present Perm diocesan administration answers queries by referring people to the Perm state archive (ГАПК). [S24]
+- **Open the custodian's own online viewer before ordering.** Some archives publish their books as images:
+  - Moscow Glavarchiv publishes metrical books (cgamos.ru/metric-books/) and confession lists (cgamos.ru/ispovedalnye_vedomosti/) as online images in its «Моя семья» service. [S29], [S30] Have the user open it in their browser.
+  - The Sverdlovsk oblast archive (GASO) runs a metrical-book viewer at metriki.gaso-ural.ru. On 2026-11-02 it held only f. 6, the Ekaterinburg consistory, so it reaches the GASO f. 6 dela this recipe cites. Search it with the prefixes "фонд:", "опись:", "дело:" (for example "дело: 01_6_15_100") and "скан:". [S31]
+  - The Rostov oblast archive (GARO) arranges Don metrical books by settlement and okrug at donarch.ru/metrikbooks/, with scan previews on each settlement page. [S32]
+
+  Years missing from an online list are not proof of loss. Browse at a human pace and never fetch in bulk.
+- **Before asking a Russian regional state archive to search,** read its current requests page and record the URL and the date you read it. Many of these archives have stopped or limited thematic genealogical searches. Some take a prepayment that is not refunded when nothing is found, and some send users to search the reading room themselves. [S33], [S34], [S35] Route the user to self-search or remote viewing, and order copies by cipher and leaf.
 
 ## 4. Inside a consistory fond, record the delo and the leaf span, and check every delo for the year
 
@@ -135,6 +144,9 @@ Apply each reading literally, then test it against the rest of the entry.
 - **Several infants baptised on one date from one village** may be a visiting priest's batch. Expect different birth dates, and record the place of baptism as an inference.
   - One participant suggested weighing the infants' villages and their distance from the church, other rites held the same day, and whether the day was a Sunday or a feast.
   - Another said priests wrote in a notebook on the round and copied the entries into the book later. [S18]
+- **Month headings.** A month written once at the head of a section or column belongs to the entries it heads, not to every date on the page. Take a first entry under a June heading with birth "31" and baptism "1 June": it is a 31 May birth when the previous spread and the date sequence support May. Record the month as taken from context, keep the baptism date separate, and never write "31 June".
+- **Possessive name forms in Galician and Western-Ukrainian entries.** Surnames in -ів (Петрів, Михайлів) are possessive adjectives formed from a given name that became fixed surnames, and they are common in Galicia. Their female forms include Павліва and Павлова beside Павлів. [S27], [S28] So in "Іван Петрів" or "Марія Іванова" the second word may name the father or may already be a surname. Decide from the column heading, the grammar and the neighbouring entries, never from the ending alone.
+- **"родомъ X" (by origin X) is not a maiden name by itself.** Treat a maiden name as established only when an explicit "урождённая" (née) or other family records state it. Otherwise keep it as a hypothesis.
 
 ## 8. Copy every margin note as its own dated event and follow it
 
@@ -152,7 +164,7 @@ Copy each note in full, with its issuing body, date and number, as a separate ob
   - The stated cause is the wording of the decision, not necessarily what happened. A participant read a case in which the husband agreed to a divorce only if the wife's adultery was named as the cause. [S17]
 - **Legitimation.** A 1911 birth entry received a note in 1915, entered under Ufa consistory decree № 1514 of 27 January 1915 following a decision of the Elisavetgrad circuit court of 2 January 1915, that legitimated the child to a named couple. Follow the court decision in that court's records: the court and the recording consistory were in different provinces. [S17]
 - **Adoption after 1917.** A participant reported a notice pasted onto a 1905 birth entry, addressed to the ZAGS office attached to the uezd-town militia; the extract does not name the sender. It recorded an adoption in 1917, the adopter, the new surname, given name and patronymic, and the number of the certificate issued. Another participant said such notes appear regularly but not for every adopted child, so their absence proves nothing. [S5]
-- **Reissued certificates.** A birth entry marked "выслано" with the year 1951 records a reissued birth certificate. A participant raised it for a soldier missing from a regional memorial book. Record it as a dated event that points to post-war records. On its own it does not show who asked, where they lived, or that the person was alive. [S9]
+- **"Выслано" (sent) notes.** A participant raised a birth entry marked "выслано" with the year 1951 for a soldier missing from a regional memorial book. [S9] Copy the full note with its position, and take what was sent or issued from its formula and particulars, not from the word alone. Record it as a dated event that points to post-war records. On its own it does not show who asked, where they lived, or that the person was alive. [S9]
 - **Official communications in death entries.** Copy any cited "отношение" with its office, date and number. A participant transcribed two examples:
   - a factory physician's communication № 256 (GASO f. 6 op. 19 d. 422, 1908)
   - a communication № 926 of 8 July 1909 from the court investigator of the 7th district of Ekaterinburg uezd (d. 427, 1909).
@@ -193,6 +205,19 @@ Copy each note in full, with its issuing body, date and number, as a separate ob
   - godparent patterns.
 
   Leave the ruling to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). [S11], [S19]
+
+## 10. Use machine-read full-text search for leads, never for a negative
+
+Yandex «Поиск по архивам» (yandex.ru/archive) searches machine-recognised text of 18th- to early-20th-century metrical books, revision tales and confession lists. It names archives of Moscow and of the Astrakhan, Orenburg and Irkutsk regions, among others. Viewing a document needs a login, which the user does. [S26]
+
+- **A miss is not a negative.** Full text finds only what the machine recognised. Log the volumes, years and pages that have no recognised text: a page without text is not a blank page. An archive missing from the results is not proof that the service lacks it.
+- **Take spellings from the text itself.** Run pre-reform forms (Ѳеодоръ) beside modern ones (Фёдор) until you see which the recognised text uses, and build further variants from forms you actually find, using [corpus-seeded name searches](corpus-seeded-name-search.md#diagnose-three-different-failures). Take the query syntax from the service's current help page, not from web-search habits. Confirm every near hit on the image.
+- **Read the full delo title.** A composite volume (step 4) can name the target church last. In a multi-church delo, find the target parish's pages before you assign a hit to it, and limit any negative to that section and to the years and pages read.
+- **Entries without surnames.** A surname query misses surnameless entries (step 9): query the given name, patronymic and village, or browse the section.
+- **A snippet is not the entry.** Open the page text and the image. For a revision-tale household, check the next leaf. Read ages, death years and marriage-out remarks from their columns on the image.
+- **Person lists and filters.** Treat any list of names or event filter the service offers as a lead to the image, not as a second source.
+- **Locators.** Take the archive and cipher from the document description and cite the archive, not the service.
+- **Images.** Never get around a file restriction. Where the original file is not served, save a viewer screenshot with the scan URL and label it as a screenshot, not the archival original.
 
 ## Output
 
