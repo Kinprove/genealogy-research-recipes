@@ -122,7 +122,7 @@ every collection supplies every field:
 | --- | --- | --- |
 | Award material | Action/service dates, recommendation, higher commanders' conclusions, award ordered, order or decree title and date, recipient descriptors, any posthumous wording | Order date for a dated observation of life; the recommended award for the award ordered |
 | Loss or missing report | Event/status as written, last contact/event date, report date, unit, informant | “Missing” for a demonstrated death date |
-| Military-registration (военкомат) entry | Office, kind of registration, call-up date and 'дата выбытия' (date of leaving the register) exactly as written | 'Выбытие' (death, a move or other removal from the register) for a death date or an upper bound on life; a commissariat away from the family's residence for a proven move |
+| Military-registration (военкомат) entry | Office, kind of registration, call-up date and 'дата выбытия' (date of leaving the register) exactly as written | 'Выбытие' for a death date or an upper bound on life; a commissariat away from the family's residence for a proven move |
 | Hospital or prisoner record | Admission/capture/registration event, place/unit/camp, identifier and recorded outcome | Arrival for discharge, recovery or death |
 | Burial entry | Original burial, later reburial if stated, dates and supporting document | Original site for verified present grave location |
 | Repression entry | Arrest, allegation/code, deciding body, decision, punishment, later rehabilitation | Allegation for factual guilt; sentence for demonstrated execution |

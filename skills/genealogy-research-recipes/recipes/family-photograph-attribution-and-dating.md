@@ -29,7 +29,7 @@ To seek other prints:
 1. Ask distant and collateral branches, heirs of the relevant household goods and lines present at a photographed event [S8], [S9].
 2. Search the literal studio name and town [S10], and check published family genealogies for reproductions of the whole image [S11].
 3. Before you upload a private family photograph to any outside service (reverse image search, enhancement or colorization), get the user's explicit permission for that service. Never reverse-search an image that shows living people, and never send an image to a face-recognition service. With permission, reverse-search a cropped copy and keep only exact-copy hits, as leads to ask about [S12].
-4. Record each copy's holder or host, uploader, displayed date, apparent generation and caption writer. Make observations from the copy nearest the original. Whoever posted an image online is not necessarily its rights holder, and online availability grants no right to reproduce it, even in a family report.
+4. Record each copy's holder or host, uploader, displayed date, apparent generation and caption writer. Make observations from the copy nearest the original. Before reproducing an image, even in a family report, ask who holds the rights; do not take the uploader for the rights holder.
 5. Another copy's caption is its source's attribution. Count matching captions across trees, books and sites as one attribution until someone shows an independent basis: wrong identifications are copied quickly. The earliest upload points to a holder, not a maker or sitter [S12]. A place found for one album item is a lead for its neighbours, not a finding. These are leads to ask, never resemblance matches.
 
 ## Bound the date from the photographer's imprint
