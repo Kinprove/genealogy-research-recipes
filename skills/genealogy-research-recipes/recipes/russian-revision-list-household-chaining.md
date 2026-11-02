@@ -1,6 +1,6 @@
 # Chain a Russian-Empire revision-list household across copies, sections and revisions (Urals evidence)
 
-Use this recipe for a non-Jewish revision list (ревизская сказка) of the Russian Empire. The evidence behind it comes almost entirely from the Urals and Trans-Urals (the Ekaterinburg administration, the Perm, Shadrinsk, Kamensk, Katai and Zlatoust areas). The method carries over to other provinces. The fond numbers, the age-bias pattern and the boilerplate formulas do not, so check them locally before relying on them. The recipe covers mainly 18th- and 19th-century returns for state, factory-ascribed, monastery and seigneurial peasants, plus town-estate (мещане) lists.
+Use this recipe for a non-Jewish revision list (ревизская сказка) of the Russian Empire. The evidence behind it comes almost entirely from the Urals and Trans-Urals (the Ekaterinburg administration, the Perm, Shadrinsk, Kamensk, Katai and Zlatoust areas). The method carries over to other provinces. The fond numbers, the age-bias pattern and the boilerplate formulas do not, so check them locally before relying on them. The recipe covers mainly 18th- and 19th-century returns for state, factory-ascribed, monastery and seigneurial peasants, plus town-estate (мещане) lists. Steps 8 and 9 add two checks outside the Urals evidence: whether 1897 census sheets survive, and the published estate inventories that come before the first revision in former Grand Duchy lands.
 
 Use it in any of these situations:
 
@@ -19,6 +19,8 @@ Use these recipes for the steps they already cover:
 - Keeping a holdings list for each revision year and searching by the administrative units of the period: [research documentation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md).
 - Working out which date each age column is reckoned from: [JewishGen family reconstruction, Ages](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md).
 - Identity, parentage and "no records" rulings: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- Machine-read full-text search of revision tales and confession lists (Yandex «Поиск по архивам»), where a miss is never a negative: [Russian Orthodox metrical-book recovery, step 10](russian-orthodox-metrical-book-recovery.md#10-use-machine-read-full-text-search-for-leads-never-for-a-negative).
+- Bessarabian revision lists and the state and district that recorded each period: [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
 
 ## 1. Fix who held the village, and under which unit, on the revision date
 
@@ -156,7 +158,27 @@ A person, household or village that is not found counts only as a gap with state
 - the administrative unit and owner on that date
 - the next revision's exit remarks
 
-[S1], [S5], [S12] Also check whether leaves missing from one online image set survive elsewhere. A participant could not find a person in the 1795 Zlatoust factory leaves on the NARB site and expected him on the missing leaves. Another participant then posted his entry from the 1795 list (cited as И-138-2-59, ll.266–266 ob.). Separately, a participant said she held missing leaves of the same revision and offered them to a researcher, who had meanwhile found his person with other help. [S12] Absence from a revision can mean the person was moved, was counted at the official place, or was outside the taxable population. [S9], [S23]
+[S1], [S5], [S12] Also check whether leaves missing from one online image set survive elsewhere. A participant could not find a person in the 1795 Zlatoust factory leaves on the NARB site and expected him on the missing leaves. Another participant then posted his entry from the 1795 list (cited as И-138-2-59, ll.266–266 ob.). [S12] NARB (НАРБ) is ambiguous: it abbreviates the National Archive of the Republic of Bashkortostan in Ufa [S34], and other recipes in this catalog use it for the National Archive of the Republic of Belarus. Confirm which archive holds fond И-138 in that archive's own catalogue, and write the archive's full name in the citation. Separately, a participant said she held missing leaves of the same revision and offered them to a researcher, who had meanwhile found his person with other help. [S12] Absence from a revision can mean the person was moved, was counted at the official place, or was outside the taxable population. [S9], [S23]
+
+## 8. Check that 1897 census sheets survive before routing anyone to them
+
+The household sheets of the 1897 census were ordered destroyed after tabulation. The order was not carried out everywhere, so sheets survive only for some guberniyas and are scattered among archives. [S26] Before you send anyone to "the 1897 census":
+
+1. Check the survival catalogues. The volunteer catalogue at metrics.tilda.ws/perepis1897 is arranged by country and archive, sometimes down to fond, delo and uezd, and marks some entries as unconfirmed. [S27] Altai State University's arch1897.histcensus.asu.ru catalogues the census's archival fonds. [S28]
+2. Then read the holder's own inventory. A census-commission fond does not mean that named sheets survive, and an uezd absent from a catalogue is not proven lost.
+
+Rootera's 1897 index (rootera.lv) covers only places in present-day Latvia and is still being extended. [S30]
+
+## 9. Before the first revision in former Grand Duchy lands, read the published estate inventories
+
+For 16th- to 18th-century estates of the Grand Duchy of Lithuania, now in Belarus and Lithuania, the Vilna Archaeographic Commission's «Акты» volumes publish estate инвентари (inventories). These are economic descriptions of starosties, estates, folwarks and villages, with their peasants and dues, not archival описи (finding aids). [S31], [S32], [S33]
+
+- **Choose the volume by the documents' dates, not the publication year.** Vol. XXV (1898) holds inventories and boundary acts catalogued as 16th–17th century, with indexes on pp. 517–614. [S33] Vol. XXXV (1910) holds inventories of 1751–1789. [S31] Vol. XXXVIII (1914) holds inventories of 1720–1798. [S32]
+- **Start from the contents and the indexes,** and search the estate's name as well as the village's. [S31], [S32]
+- **Map printed pages to the PDF for each location** instead of carrying one offset across the volume or to another copy, and check the errata list.
+- **Read the neighbouring pages** for the document's heading, start and continuation.
+- **Bound what an inventory shows.** It is not a full list of residents, and its content depends on the document. An empty OCR search of the scans is not a negative.
+- Link the online copies; do not redistribute them.
 
 ## Output
 

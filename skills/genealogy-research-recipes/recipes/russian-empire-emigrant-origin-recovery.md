@@ -69,6 +69,15 @@ the manifest that was found had sailed from Bremen, and the colony marriage and 
 only by names, ages and a child. Treat such a link as a candidate to test. It does not settle the
 family's earlier German origin.
 
+If the family moved in the 1939–1945 resettlement of ethnic Germans from the USSR, interwar
+Poland and Volhynia, Bessarabia or the Baltic states, check the naturalisation and resettlement
+files of the Einwandererzentralstelle (EWZ). [H9, H12] The originals are at the Bundesarchiv as
+R 69 (Einwandererzentralstelle Litzmannstadt). [H10] NARA holds a copy as Microfilm Publication
+A3342 in Record Group 242; its films are not digitised, and searches go through NARA College
+Park. [H11] FamilySearch holds only part of the series on film. [H12] Consult these copies before
+writing to Germany. A Bundesarchiv request needs a signed application (Benutzungsantrag), which
+the user signs and sends by post or as a scan by email. [H9]
+
 Make one chronology row per reported or documented movement. Preserve every reported immigration
 year with its source, then identify the interval supported by the dated appearances. Keep conflicting
 arrival dates visible. A later return, a child's separate arrival and an onward crossing are separate
@@ -139,6 +148,15 @@ branch; absence from its ordinary passenger-name index does not exhaust that rec
 Passengers in transit directly to the United States were not required to complete Form 30A:
 prioritize U.S. Canadian-seaport/border records and do not treat a missing form by itself as a
 record gap. [H3, H4, H7]
+
+For an emigrant who settled in Canada, also search LAC's *Immigrants from the Russian Empire,
+1898–1922*. It indexes by name the Passport and Identity Papers files of the Russian consulates
+in Montréal, Vancouver and Halifax (Likacheff-Ragosine-Mathers collection), with filters for
+birth year and religion. Only that series is digitised, so a miss there does not cover the
+collection's other files, which LAC holds on microfilm. [H8] On Doukhobor ship lists (arrivals
+1898–99, 1902–06, 1909–14 and 1925–32), a patronymic or family nickname was sometimes recorded
+instead of the official surname, so add patronymic-as-surname and nickname search lanes.
+[S18]
 
 **Artifact:** research-log rows and a candidate list:
 
@@ -249,7 +267,9 @@ jurisdiction and nearby places. “Russia” or “Poland” can be the jurisdic
 or reporting date; resolve the locality before selecting a modern country's archive. For Jewish
 localities, the JewishGen Communities Database supplies historical names/jurisdictions, including
 Yiddish variants. Its omission of a village does not show that no Jews lived there; use its Gazetteer
-and relevant historical gazetteers/maps for additional candidates. [S6, H6]
+and relevant historical gazetteers/maps for additional candidates. [S6, H6] For a Bessarabian
+origin, take the state and district of the event date from
+[Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
 
 When a place string on a passenger list cannot be identified, compare its doubtful letters with the
 same letter groups in other words on the page. Then test
@@ -302,7 +322,9 @@ person_handle | requested_event_and_years | name_variants_with_record_ids | birt
 record needed to choose between towns. If two towns remain viable, send the competing candidates
 and discriminating question. Do not issue an archive request as though the locality were settled.
 The 1811 revision-list technique for earlier internal resettlement is a separate task; it is not
-the starting record for an 1880–1924 overseas departure.
+the starting record for an 1880–1924 overseas departure. For resettlement within the Empire in
+the 1880s–1917, to Siberia or the Steppe, use the internal-resettlement paragraph of
+[russian-volost-town-administration-records.md](../../genealogy-research-recipes/recipes/russian-volost-town-administration-records.md).
 
 ## Delegation boundary
 

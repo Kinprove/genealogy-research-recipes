@@ -61,6 +61,12 @@
 - **S57:** Aimee Cross, *DON'T MISS this IMPORTANT Full Text Search Update 2026*, published 2026-07-23 — [source](https://www.youtube.com/watch?v=gX-d5Szg9XY). Observed limited-access result scope and blocked-image leads; no backend-search behavior, current access or identity conclusion is adopted.
 - **S58:** MyHeritage, *We're live with Gena Philibert-Ortega about researching your female ancestors!*, published 2020-12-17 — [source](https://www.youtube.com/watch?v=LaqAID03XqM). The episode motivates following an inspected entry's subject links to related titles.
 - **S59:** FamilySearch Help Center, *How do I use the FamilySearch Catalog to learn about the digitized historical records on FamilySearch?*, article 828, dated 2026-07-14 — [source](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-the-catalog-to-learn-more-about-the-collections-in-historical-records). Its step 6 supports Locality Subject and Subject links for related items; inspected 2026-10-21.
+- **S60:** FamilySearch, *Terms of Use*, updated 2023-09-01; opened 2026-11-02 — [source](https://www.familysearch.org/en/legal/terms). Used for: the Code of Conduct's ban on software for bulk download, scraping or harvesting without prior written permission, and its separate ban on circumventing controls or usage rules.
+- **S61:** FamilySearch, an image ARK example (`ark:/61903/3:1:…`), opened 2026-11-02 — [source](https://www.familysearch.org/ark:/61903/3:1:3QHJ-5QHW-RZG1); and FamilySearch Developers, *Persistent Identifiers*, opened 2026-11-02 — [source](https://developers.familysearch.org/main/docs/persistent-identifiers). Used for: a 3:1 ARK opening the image viewer, whose Image Index panel read "No indexes are available for this image", and records and images as separate persistent-identifier types.
+- **S62:** WikiTree, *Help: Links to FamilySearch*, opened 2026-11-02 — [source](https://WikiTree.com/wiki/Help:Links_to_FamilySearch). Used for: `ark:/61903/1:1` links as record (index-entry) links and `ark:/61903/3:1` links as image links.
+- **S63:** FamilySearch Community, discussion comment 556104, opened 2026-11-02 — [source](https://community.familysearch.org/en/discussion/comment/556104). Used for: the 1:1 record-style link of index entries, independently of S62.
+- **S64:** FamilySearch Developers, *FamilySearch Tree System*, opened 2026-11-02 — [source](https://developers.familysearch.org/main/docs/familysearch-tree-system). Used for: living persons kept in a private space, deceased persons typically in the public space, and the global Tree open for others to edit.
+- **S65:** FamilySearch Developers, *Private Spaces and Data Access Control*, opened 2026-11-02 — [source](https://developers.familysearch.org/main/docs/private-spaces-and-data-access-control). Used for: a private-space person flagged deceased becoming public, and only an administrator setting it back to living.
 
 ### Source qualifications
 
@@ -82,6 +88,11 @@
   on links actually offered, with no live-account test or claim of a recovered record. Preserving
   labels and checking candidate metadata are Kinprove synthesis. No universal subject authority,
   cross-catalog heading equivalence or WorldCat subject-search behavior is asserted.
+- No FamilySearch page defining the 1:1 and 3:1 ARK namespaces was found; the record-ARK reading
+  rests on S62 and S63, which agree. The connector-authentication sentence names no connector; it
+  applies S60's scraping and circumvention clauses.
+- S60–S65 supply the facts for the scraping and connector paragraph, the ARK labels and the
+  Tree-write rule.
 
 ## Credits
 

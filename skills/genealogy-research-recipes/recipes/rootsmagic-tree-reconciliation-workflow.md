@@ -67,6 +67,8 @@ snapshot/date; retain the historical upload separately rather than treating it a
 research. Apply the person/object checks below to the chosen output. The
 [GEDCOM-transfer demonstration](https://www.youtube.com/watch?v=5qSnG6ENAr8) distinguishes
 these choices; it supplies no universal export control or complete-backup guarantee.
+For writing research conclusions to a GEDCOM file, see
+[Export research findings to a GEDCOM file without changing what they prove](gedcom-research-export.md).
 
 ## 2. Map the actual people before comparing facts
 

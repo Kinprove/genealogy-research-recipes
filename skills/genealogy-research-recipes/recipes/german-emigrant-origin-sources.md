@@ -6,6 +6,7 @@ This recipe does not cover these steps, so use the linked recipes for them:
 
 - Arrival and manifest work: [U.S. immigration search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md).
 - Working from a destination clue to a locality and handing off to the archive, shown for a different emigration system: [Russian-Empire emigrant origin recovery § 5](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md).
+- EWZ resettlement files for ethnic Germans resettled from the USSR, Poland, Bessarabia or the Baltic states in 1939–1945: [Russian-Empire emigrant origin recovery § 1](russian-empire-emigrant-origin-recovery.md#1-bound-the-movement-before-searching-for-a-ship).
 - Catalogue, film and image crosswalks: [FamilySearch record workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
 - Same-name and identity rulings: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 

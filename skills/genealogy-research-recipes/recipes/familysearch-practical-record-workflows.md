@@ -21,6 +21,18 @@ checks the visibility choice. The cited tutorials date from 2020–2026; confirm
 labels when running a workflow. The artifact columns and checks below are the durable procedure. Tree changes require
 an established identity or correction basis; unresolved candidates stay in the working packet.
 
+FamilySearch's Terms of Use (updated 2023-09-01) forbid using software to bulk-download, scrape or
+harvest the site's content without prior written permission, and separately forbid circumventing
+its controls or usage rules [S60]. So when asked to check every entry in a film, read it image by
+image in the user's own session. Do not script retrieval of result lists or image ranges, and do
+not use a tool that harvests in bulk. Community-built FamilySearch connectors, such as MCP servers
+and API wrappers, are third-party tools. Read a connector's tool schema before relying on a filter, because a
+server can drop an argument it does not support, such as a DGS, collection, date or relative,
+without warning. Log an empty reply or a lone first page as an interrupted search, not as NIL (see the
+[research log](research-documentation.md#research-log)). Use the website for anything the connector lacks; a connected server
+does not show that a book is indexed or fully viewable. Check how a connector authenticates: one
+that replays the website session may breach the terms. [S60]
+
 ## Nineteen workflows
 
 ### 1. Resolve the event's historical jurisdiction
@@ -188,6 +200,11 @@ the particular record or remove the original item's restrictions. [S56]
 3. Record film/item and DGS separately.
 4. Label each image ordinal with its viewing scope: individual item or complete group.
 5. Reopen the saved link and compare the actual document; test both scopes when useful.
+
+Label each saved ARK by type. A record ARK (`…/ark:/61903/1:1:…`) points to an indexed record
+[S62], [S63]. An image ARK (`…/ark:/61903/3:1:…`) opens the image viewer, whose index panel can
+report that no indexes are available for that image [S61]. An image ARK does not show that an
+index entry exists. Never construct a record ID for a line that has no index entry.
 
 **Artifact:** A citation with an identifier crosswalk and any permitted local image/transcription.
 
@@ -373,6 +390,12 @@ plausible but unresearched relatives unattached for later work rather than dismi
 presenter's living-person judgement is a heuristic, not a rule. Apply your privacy policy and confirm
 the current controls.
 
+Never set Deceased, a birth year or another required field without evidence just to make an add or
+attach succeed. A profile marked deceased normally becomes public in the shared Tree, where any user
+can see and edit it, and only a FamilySearch administrator can set it back to living [S64], [S65].
+If the tool cannot express the record or the chosen scope, keep the change queued in the working
+packet, and never switch to another tree or scope to make the write succeed.
+
 **Artifact:** An attachment checklist: record/image URL, named person, documentary role, Tree PID, attachment and reason.
 
 **Check:** The right person is attached, not merely a same-named person on the visible screen. The transcript's focus controls are a 2024 observation.
@@ -416,7 +439,8 @@ nothing. Sources: [history](https://www.youtube.com/watch?v=Q4YYIXVwfGE),
 [IGI](https://www.youtube.com/watch?v=HrQhzcfNHmY),
 [compiled](https://www.youtube.com/watch?v=1E6zygUP02I),
 [Tree history](https://www.youtube.com/watch?v=8Q4gESv4aJ0),
-[double extraction](https://www.youtube.com/watch?v=6K9ZF5aunMs).
+[double extraction](https://www.youtube.com/watch?v=6K9ZF5aunMs). For exporting or importing a
+GEDCOM, see [Export research findings to a GEDCOM file without changing what they prove](gedcom-research-export.md).
 
 Do not enter tentative facts to generate hints. Hints match the data already on the profile, so a
 hint that agrees with a guess or a merged-in fact is circular confirmation. Give each reviewed hint an

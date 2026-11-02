@@ -30,6 +30,18 @@
 - **S28:** Ahnenforschung.net Forum, [a thread on a search for a Wehrmacht-era soldier's birthplace (Josefsdorf/Józefin)](https://forum.ahnenforschung.net/forum/thread/3015319/), 2026-06-12. Used: a search-engine identification challenged because no printed gazetteer supported it; two civil registers (Zembowitz, Domb) checked for the exact date, with no entry found; other same-named places in West Prussia and Volhynia only listed.
 - **S29:** МолГен (Molgen forum), [Family Finder от FTDNA](https://forum.molgen.org/index.php/topic,1298.0.html), thread started 2010-02-21. Used: a Soviet certificate giving the birthplace as Kalinino, traced to the earlier factory settlement Yugo-Knaufsky zavod; a date and given-name match under a different surname, which the poster questioned and later reported as not confirmed.
 - **S30:** J-Roots Forum, [Акмолинский лагерь жён изменников Родины (А. Л. Ж. И. Р.)](https://forum.j-roots.info/viewtopic.php?f=64&t=7064), 2018-02-16. Used: a participant's inference, from finding only four Leningrad-born prisoners, that the prisoner database apparently records birthplaces as Leningrad rather than Petersburg or Petrograd.
+- **S31:** Wikipedia, [Komsomolsk-on-Amur](https://en.wikipedia.org/wiki/Komsomolsk-on-Amur), opened 2026-11-02. Used for: the village of Permskoye on the later city site, against the city's listed founding in 1932.
+- **S32:** Циклопедия, [Комсомольск-на-Амуре](https://www.cyclowiki.org/wiki/%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA-%D0%BD%D0%B0-%D0%90%D0%BC%D1%83%D1%80%D0%B5), opened 2026-11-02 (read from the search result). Used for: the earlier name Пермское-на-Амуре and the village's conversion into a city in 1932, independently of S31.
+- **S33:** Википедия, [Фалешты](https://ru.wikipedia.org/wiki/Фалешты), opened 2026-11-02. Used for: the Fălești ↔ Фалешты pair (-ești → -ешты).
+- **S34:** JewishGen Bessarabia SIG, [gazetteer entry for Fălești](https://www.jewishgen.org/Bessarabia/GEO_town.asp?id=48), opened 2026-11-02. Used for: the Russian form Foleshty with the same -ешты ending, independently of S33.
+- **S35:** Википедия, [Маркауцы (Бричанский район)](https://ru.wikipedia.org/wiki/Маркауцы_(Бричанский_район)), opened 2026-11-02. Used for: the Mărcăuți ↔ Маркауцы pair (-ăuți → -ауцы).
+- **S36:** EHRI / Yad Vashem Archives, [catalogue record for a 1941 list of Jewish residents of Grimankautsy (Hotin district)](https://portal.ehri-project.eu/units/il-002798-4019581-o_32_20-2?dlid=eng), opened 2026-11-02. Used for: an archival catalogue writing Grimăncăuți in the Russian-derived form Grimankautsy, independently of S35. No person in the list is named here.
+- **S37:** Yad Vashem Collections, [catalogue record citing «Українська РСР: адміністративно-територіальний поділ на 1 вересня 1946 року»](https://collections.yadvashem.org/en/places/5431919), opened 2026-11-02 (the citation was read from the search result; the page did not render). Used for: the handbook's title, reference date, Kyiv imprint and 1947 publication year.
+- **S38:** Зеркало недели, [«Наконец-то Украина получила свой паспорт»](https://zn.ua/HISTORY/nakonec-to-ukraina-poluchila-svoy-pasport.html), opened 2026-11-02. Used for: the Ukrainian SSR administrative-territorial handbook published in 1947 and reissued in later editions, independently of S37.
+- **S39:** Rohatyn District Research Group, [Galicia](https://www.rohatyndrg.org/home/topic/galicia), opened 2026-11-02. Used for: the Special-Orts-Repertorium for Galicia (Vienna 1886 and 1893, from the 1880 and 1890 censuses) and the Gemeindelexikon vol. XII Galizien (Vienna 1907).
+- **S40:** GenWiki, [Gemeindelexikon der im Reichsrate vertretenen Königreiche und Länder/12](https://wiki.genealogy.net/Gemeindelexikon_der_im_Reichsrate_vertretenen_K%C3%B6nigreiche_und_L%C3%A4nder/12), opened 2026-11-02 (read from the search result; the page was behind bot protection). Used for: the 1907 Galicia volume based on the census of 31 December 1900, independently of S39.
+- **S41:** *Rocznik Wieluński* 1 (2001), [article in the BazHum repository](https://bazhum.muzhp.pl/media/texts/rocznik-wielunski/2001-tom-1/rocznik_wielunski-r2001-t1-s111-174.pdf), opened 2026-11-02 (citation read from the search result). Used for: the GUS *Skorowidz miejscowości Rzeczypospolitej Polskiej*, compiled from the census of 30 September 1921 and issued in voivodeship volumes from 1923.
+- **S42:** Dolnośląska Biblioteka Cyfrowa, [Skorowidz miejscowości Rzeczypospolitej Polskiej z oznaczeniem terytorjalnie im właściwych władz i urzędów oraz urządzeń komunikacyjnych (Bystrzycki)](https://dbc.wroc.pl/dlibra/publication/14361/edition/12667?language=pl), opened 2026-11-02. Used for: Bystrzycki's gazetteer, Przemyśl–Warszawa, Książnica Naukowa, ca. 1933, which names the competent authorities and offices for each place.
 
 **How the procedure was built.** The procedure is authored synthesis that combines these presenters' case examples and forum participants' worked threads. The synthesis includes:
 
@@ -37,6 +49,8 @@
 - the rule that a candidate stays a hypothesis until a named record confirms it
 - keeping both sides of a boundary as candidate jurisdictions
 - the candidate-table columns
+
+S31–S42 supply the dated facts, the editions and the suffix examples for the Russian-Empire, Soviet and Galician checks in §2–§4.
 
 **What holds generally.** Three patterns recur across independent presenters and are confirmed by checked cases (Edison/South Tacoma, Neuse Crossroads, Small/Fremont→Clark County):
 
