@@ -68,6 +68,9 @@ Additional reprint, timing, vital-event, legal-notice and venue sources:
   published 2026-05-18. Reception/vow notices may link birth and religious names with an institute.
   No original notice or individual archive file was inspected; institute identity, record survival,
   access and the narrated family's relationships remain unverified.
+- **S50:** Vera Miller, Lost Russian & Ukrainian Family, [Two major Australian databases ease researching of USSR ancestors and relatives](https://lostrussianfamily.wordpress.com/2025/09/27/two-major-australian-databases-ease-researching-of-ussr-ancestors-and-relatives/), published 2025-09-27; Ryerson Index description used as a conditional route for a place-only notice-index query that includes personal origin or birthplace. Present syntax, field role and coverage on any provider are not adopted.
+- **S51:** Who are You Made Of?, [How to Search For Obituaries For Free by Name](https://whoareyoumadeof.com/blog/how-to-search-for-obituaries-for-free-by-name/), published 2023-07-04; examples of a year-gated obituary index and of clipping volumes limited to a surname/letter range, motivating a search that follows the collection's arrangement.
+- **S52:** Diana Elder, Family Locket, [Eleven Newspaper Notices: How Hotel Ads and Sheriff’s Sales Helped Prove Thomas Beverly Royston’s Parentage](https://familylocket.com/eleven-newspaper-notices-how-hotel-ads-and-sheriffs-sales-helped-prove-thomas-beverly-roystons-parentage/), published 2026-09-13; a successor's advertisement naming a business's former operator, used as a business-occupancy retrieval pivot. No move or ownership date is adopted from it.
 
 ## Credits
 

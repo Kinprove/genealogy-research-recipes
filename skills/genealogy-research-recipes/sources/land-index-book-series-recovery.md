@@ -69,6 +69,48 @@ The index-audit, locator and series-resolution schemas are original synthesis.
   The speaker describes declined neighboring entries, not recovery of a rejected Royston file.
   Original registers and files were not inspected; universal coverage, survival, locator
   sufficiency, current access and legal or family conclusions are not adopted.
+- **S18:** BYU Family History Library, James Tanner,
+  [State-land States vs Public Land States for Genealogists - James Tanner](https://www.youtube.com/watch?v=0fFPtZb5TQw),
+  13 September 2016. Historical demonstration of separating an original government disposition
+  from a later private conveyance before the grant/entry or conveyance series is chosen.
+- **S19:** Nicole Elder Dyer, Family Locket,
+  [RLP 196: Texas Land Grants – Republic and Statehood](https://familylocket.com/rlp-196-texas-land-grants-republic-and-statehood/),
+  11 April 2022. A grant filed under a historical land district rather than the parcel's county
+  motivates keeping district and county as separate fields; legal boundaries are not resolved.
+- **S20:** Nicole Elder Dyer, Family Locket,
+  [RLP 230: Finding a Female’s Father – Research Log and Report](https://familylocket.com/rlp-230-finding-a-females-father-research-log-and-report/),
+  5 December 2022. A patent's statement that the grantee was "of" another place motivates
+  keeping that residence statement as a separate follow-up lead; it does not establish the
+  stated residence or identity.
+- **S21:** Alice Childs, Family Locket,
+  [Part 4: Pennsylvania Germans: The Land Acquisition Process in Colonial Pennsylvania](https://familylocket.com/part-4-pennsylvania-germans-the-land-acquisition-process-in-colonial-pennsylvania/),
+  25 February 2022. Warrant, survey and patent references with their party roles, dates and
+  acreage motivate the grant-component crosswalk; no universal grant procedure or legal title
+  is adopted.
+- **S22:** Roberta Estes, DNAeXplained,
+  [Tracking John Dobkins or Dobbins to Maryland – 52 Ancestors #378](https://dna-explained.com/2022/10/16/tracking-john-dobkins-or-dobbins-to-maryland-52-ancestors-378/),
+  16 October 2022. An original survey and its assignment endorsements as the next target when
+  a deed search leaves a warrant/survey or assignment lead unexplained. The recipe does not
+  adopt universally unrecorded assignments, residence, ownership, kinship or a chain of title.
+- **S23:** Nicole Elder Dyer, Family Locket,
+  [RLP 195: Texas Land Grants – Mexican Era](https://familylocket.com/rlp-195-texas-land-grants-mexican-era/),
+  4 April 2022. A tax row naming the original grantee or abstract number carried into the grant
+  search, and a related character certificate and abstract ellipsis followed to the full item;
+  no particular fields, complete survival or present translation service are established.
+- **S24:** Diana Elder, Family Locket,
+  [Navigating the Unique Texas Land Grant System: Mexican Era 1821-1836](https://familylocket.com/navigating-the-unique-texas-land-grant-system-mexican-era-1821-1836/),
+  13 February 2022. Parallel original, translated and compiled registers with a compiler's
+  added grant reference motivate the entry-alignment check; the translation and legal claims
+  are not validated.
+- **S25:** Nicole Elder Dyer, Family Locket,
+  [RLP 225: How Multiple Relationships Affect DNA Match Analysis](https://familylocket.com/rlp-225-how-multiple-relationships-affect-dna-match-analysis/),
+  31 October 2022. An attributed loose or unrecorded deed lead motivates checking the custodian's
+  holdings separately from recorded deed books; survival, access and a reason for nonrecording
+  are not established.
+- **S26:** Nicole Elder Dyer, Family Locket,
+  [RLP 217: Joanna West Case Study Part 2](https://familylocket.com/rlp-217-joanna-west-case-study-part-2/),
+  5 September 2022. A deed example comparing the opening party roster with the execution names;
+  placement or omission is not taken to establish widowhood, incapacity, a death or kinship.
 
 ## Credits
 

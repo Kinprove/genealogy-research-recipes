@@ -34,6 +34,11 @@ The following dates are video upload dates, not independently established sessio
   original evidence of a particular business. Rights: cited reference, not reproduced.
 - **S12:** *Top tips for reviewing Smart Matches™ and Record Matches*, MyHeritage,
   uploaded 2021-11-07 — [video](https://www.youtube.com/watch?v=1nQYqnixgkw). Rights: cited reference, not reproduced.
+- **S13:** *Making the Most of MyHeritage com - James Tanner*, BYU Library Family History Center (presenter James Tanner),
+  uploaded 2016-08-17 — [video](https://www.youtube.com/watch?v=0v0fbjil9W8). Illustrates using tree-event geography
+  (an event map or locality list) to plan the next locality and record series to search. It is a 2016
+  demonstration; the recipe applies the controls actually available rather than assuming a current map
+  widget or export. Rights: cited reference, not reproduced.
 
 Current primary documentation, checked 2026-10-03:
 
