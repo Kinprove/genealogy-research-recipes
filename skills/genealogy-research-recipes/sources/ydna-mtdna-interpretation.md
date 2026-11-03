@@ -91,6 +91,12 @@
 
 85. *Finding and Contacting DNA Test Takers with Descendancy Research* — Family Locket, 2024-10-09 — <https://www.youtube.com/watch?v=Ff_n37xMPbA> — Rights: cited reference, not reproduced. Reported survivors-only obituary omitted a predeceased son who left a son. The original obituary, descent and any living tester were not independently verified; no contact or current-service claim is adopted.
 
+86. *Recreating a Y-DNA Surname Project at mitoYDNA.org* — Diana Elder (Family Locket), 2022-04-10 — <https://familylocket.com/recreating-a-y-dna-surname-project-at-mitoydna-org/> — Rights: cited reference, not reproduced. Used for the example of recovering legacy paper Y-STR results through a manual reconstruction; the recipe takes no current import format or cross-laboratory conversion from it.
+
+87. *YDNA for Genealogy: Finding 2 Birth Fathers* — Melanie Mohler (Your DNA Guide), 2022-12-06 — <https://www.yourdnaguide.com/ydgblog/ydna-for-genealogy> — Rights: cited reference, not reproduced. Used for the filtering action that turns a multi-kit STR table into a working view of the marker columns with observed differences; the recipe does not use that view to root a tree, count mutation events or identify a father or MRCA.
+
+88. *Dorcas Johnson’s Mitochondrial DNA Secret Revealed – 52 Ancestors #357* — Roberta Estes (DNAeXplained), 2022-05-08 — <https://dna-explained.com/2022/05/08/dorcas-johnsons-mitochondrial-dna-secret-revealed-52-ancestors-357/> — Rights: cited reference, not reproduced. Used, with source 21, as an example for the maternal pedigree and locality worklist: setting each mtDNA match's reported earliest maternal ancestor beside the inspected direct-maternal pedigree and turning missing links or locations into record searches. No GD ranking or geographic verdict is adopted.
+
 ## Credits
 
 - Roberta Estes, 'All About AI – What It Is, What It Isn't, and Why It Matters', DNAeXplained, 2026-06-25 — FSL-1.1-MIT (adapted)

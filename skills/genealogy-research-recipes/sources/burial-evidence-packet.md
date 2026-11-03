@@ -184,6 +184,26 @@ not observed behaviour of any named site.
   2026-11-02. Used for: a nationwide aggregator built from user and organisation submissions,
   with moderation and geolocated records.
 
+- **P35:** Roberta Estes, [Calling All Descendants of George Estes (1763-1859) – You’re Invited to His Revolutionary War Grave Dedication – 52 Ancestors #410](https://dna-explained.com/2023/09/19/calling-all-descendants-of-george-estes-1763-1859-youre-invited-to-his-revolutionary-war-grave-dedication-52-ancestors-410/),
+  DNAeXplained, published 2023-09-19 in the saved metadata. Used for: a reported relocation and
+  grave dedication as the example for keeping original burial, reported transfer and later marker
+  installation as separate source-linked events. The reported relocation is the author's account;
+  this recipe does not independently verify it.
+
+- **P36:** Vera Miller, [Free database offers more than 5 million indexed burial records for Moscow](https://lostrussianfamily.wordpress.com/2025/10/25/free-database-offers-more-than-5-million-indexed-burial-records-for-moscow/),
+  Lost Russian & Ukrainian Family, published 2025-10-25 in the saved metadata. Used for: the
+  described co-plot search of a Moscow burial database. The article supplies
+  no fixed search radius or current provider/plot-accuracy guarantee; inspecting the matched plot's
+  roster first, bounding the neighboring search, nominating associates from co-burial and
+  retrieving their records before proposing a relationship are Kinprove synthesis.
+
+- **P37:** Nicole Elder Dyer, [RLP 231: Family History Road Trip](https://familylocket.com/rlp-231-family-history-road-trip/),
+  Family Locket, published 2022-12-12 in the saved metadata. Used for: the example of an earlier
+  reported inscription reading set beside a later inspection that did not locate or fully read
+  the marker. The page supplies no earlier photograph and does not prove identity, marker
+  replacement or why the present reading failed; recording the two statements separately is
+  Kinprove synthesis.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of the attributed cemetery, gravestone and burial-record workflows — FSL-1.1-MIT (kinprove-original)

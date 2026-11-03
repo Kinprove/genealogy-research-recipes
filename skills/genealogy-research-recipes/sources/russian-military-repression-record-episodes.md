@@ -191,6 +191,27 @@ search-engine extracts, as marked), and details those pages did not support were
 - **H44:** Андрій Когут, [Архіви для правосуддя](https://www.istpravda.com.ua/columns/2026/06/16/165946/),
   Історична правда, 2026-06-16, opened 2026-11-02. Used for: ГДА СБУ still operating and citing
   its own fonds in 2026.
+- **H45:** J-Roots Forum, thread "САЙТ и ФОРУМ: вопросы по БД наших проектов, замечания и
+  предложения", first post 2011-06-01, <https://forum.j-roots.info/viewtopic.php?f=181&t=2248>.
+  Rights: cited reference, not reproduced. Used for the Russo-Japanese War casualty-book report
+  that a casualty compilation can list the wounded beside the dead and that a database built from
+  it can enter the out-of-action date in a field labelled as death. It does not establish any
+  particular person's fate.
+- **H46:** J-Roots Forum, thread "Эвакуация - поиск данных об эвакуированных", first post
+  2009-08-29, <https://forum.j-roots.info/viewtopic.php?f=197&t=1199>. Rights: cited reference,
+  not reproduced. Used for the attached-letter example that motivates following a report
+  wrapper's description of attached family correspondence to the actual letter and envelope. It
+  does not establish a named parent's relationship, and a reported attachment remains
+  uninspected until its pages are examined.
+- **H47:** J-Roots Forum, thread "Судьбы солдат ВОВ", first post 2009-12-25,
+  <https://forum.j-roots.info/viewtopic.php?f=36&t=1813>. Rights: cited reference, not reproduced.
+  Used for checking the conscription-registration entry with its dispatch/command identifier and,
+  separately, the register of incoming front notifications, and for comparing departure,
+  receiving/training and later-unit records before treating a former unit's missing report as
+  final fate. Also used for seeking a named commander's or other documented officer associate's
+  service record for the event date as a unit lead for choosing documents that might name the
+  target. It does not establish shared service, the target's presence, survival or current
+  custody.
 
 ## Verification limits
 

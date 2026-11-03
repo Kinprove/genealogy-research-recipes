@@ -154,6 +154,72 @@ the relevant workflow. Community references:
     no precise locator in the article. Its Royal Charter, Foraker/Jones Act and Danish
     nationality-inheritance claims are not adopted. The lead row and its limits are
     Kinprove synthesis.
+36. National Archives, *Alien Registration (AR-2) Forms*, last reviewed 6 September 2024.
+    <https://www.archives.gov/research/immigration/alien-registration-ar-2>
+    Used for the AR-2 fields that separate first arrival from most recent arrival, for
+    checking the Flexoline Index before following NARA's AR-2 instructions, and for the
+    warning that an indexed number can lack a form image because the form may have
+    moved into an A-File.
+37. Nicole Elder Dyer, Family Locket, *RLP 202: Researching Scandinavian Immigrants
+    with Jenny Hansen*, 23 May 2022.
+    <https://familylocket.com/rlp-202-researching-scandinavian-immigrants-with-jenny-hansen/>
+    An example that motivates reading a previous parish named in an immigrant-community
+    church admission or transfer entry as a possible transit or port parish rather than
+    a birthplace. It does not guarantee such a field or identify a family.
+38. Statue of Liberty & Ellis Island Foundation, *Passenger Search*, undated.
+    <https://www.statueofliberty.org/discover/heritagesearch/>
+    Used for the statement that the Foundation's Arrival Records Collection includes
+    entry points beyond New York, so old New-York-only coverage claims are not copied.
+39. National Archives, *Mexican Border Crossing Records, ca. 1903–ca. 1955*, last
+    reviewed 14 February 2025.
+    <https://www.archives.gov/research/immigration/border-mexico>
+    Used for the Mexican border crossing series and their coverage, checked against the
+    crossing period.
+40. Marian L. Smith, National Archives, *Prologue*, *By Way of Canada: U.S. Records of
+    Immigration Across the U.S.-Canadian Border, 1895–1954 (St. Albans Lists)*, Fall 2000.
+    <https://www.archives.gov/publications/prologue/2000/fall/us-canada-immigration-records-1.html>
+    Used for the point that the St. Albans district collection name does not establish
+    a crossing at St. Albans, Vermont.
+41. JewishGen, *Manifest Markings - Left Margin*, undated.
+    <https://jewishgen.org/infofiles/manifests/left/>
+    Used to identify detention, special-inquiry and crossing-out marks from a
+    manifest-annotation guide rather than from their appearance.
+42. JewishGen, *Manifest Markings - Occupation Column*, undated.
+    <https://jewishgen.org/InfoFiles/Manifests/occ/>
+    Used for reading occupation-column verification marks: districts were renumbered,
+    so the key for the annotation's date applies, and the verification application
+    number cannot locate naturalization records.
+43. Diana Elder, Family Locket, *Back to the Basics with Naturalization Records: Part 3*,
+    17 September 2023.
+    <https://familylocket.com/back-to-the-basics-with-naturalization-records-part-3/>
+    An example that motivates following a proceeding through its continuances to the
+    final order. Its inconsistent dates and ultimate status narrative are not adopted.
+44. National Archives, *Naturalization Records*, last reviewed 10 September 2025.
+    <https://www.archives.gov/research/immigration/naturalization>
+    Used for the points that NARA generally holds declarations and petitions rather
+    than the citizenship certificate, and that C-Files cover naturalizations from 27 September
+    1906 through 31 March 1956 with later records filed in A-Files.
+45. Marian L. Smith, National Archives, *Prologue*, *"Any woman who is now or may
+    hereafter be married . . ." Women and Naturalization, ca. 1802–1940*, Summer 1998.
+    <https://www.archives.gov/publications/prologue/1998/summer/women-and-naturalization-1.html>
+    Used for the historical marriage-related changes to a woman's citizenship, checked
+    against the dates of her timeline.
+46. U.S. Department of State, Foreign Affairs Manual, 8 FAM section on historical
+    derivative-citizenship charts, undated.
+    <https://fam.state.gov/FAM/08FAM/08FAM030109.html>
+    Used for selecting the period and conditions under which a child's status may
+    follow a parent's naturalization. The fetch failed with a certificate error on
+    3 November 2026, so the title and contents were not confirmed.
+47. National Archives, *Alien Files (A-Files)*, last reviewed 19 August 2025.
+    <https://www.archives.gov/research/immigration/aliens>
+    Used for checking an A-File's catalog entry and Contact(s), for saving the name,
+    NAID and A-number, and for the point that eligibility for transfer by age does not
+    prove transfer.
+48. Stephen P. Morse, *Searching the Ellis Island Database in One Step: Frequently
+    Asked Questions*, undated.
+    <https://stevemorse.org/ellis2/faq.htm>
+    Used for repairing wrong-image and missing-frame failures by browsing from the
+    ship and date or from nearby frames instead of repeating name queries.
 
 ## Credits
 

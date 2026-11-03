@@ -91,6 +91,10 @@ the described scope; it does not verify a signed-in account or every kit generat
   first post 2024-06-17. Rights: cited reference, not reproduced. Used for treating a direct
   comparison in another tool, made when an Ancestry match is missing or reduced, as a separate
   measurement.
+- **H22:** Family History Fanatics, [Do Chromosome Segment End Points Matter? | Genetic Genealogy Explained](https://www.youtube.com/watch?v=3vWBeFUBVdg),
+  published 2021-02-03. Used for the example of one provider's segment overlapping several
+  fragment rows in another report, applied as a one-to-many crosswalk that keeps every fragment;
+  the proposed endpoint tolerance and any cause of the provider difference are not adopted.
 
 ## Synthesis boundaries
 

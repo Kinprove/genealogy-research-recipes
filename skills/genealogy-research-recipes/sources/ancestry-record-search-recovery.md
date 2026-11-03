@@ -17,9 +17,15 @@ search in the user's Ancestry account.
 - Aimee Cross, [Cleaning Up Ancestry Tree](https://www.youtube.com/watch?v=TjFQv6LAjUY), 2025-01-02; select the intended person's record row before saving facts and check the resulting person/fact association. Presenter preferences, media-policy assertions and general tree cleanup are excluded.
 - Aimee Cross, interview with Sunny Jane Morton, [Did Your Ancestor Disappear? How to Find the Nuns in Your Family Tree (3 Sure Steps)](https://www.youtube.com/watch?v=hUmGeEvOWbU), 2026-07-09; a documented community affiliation can lead to a possible personnel file at its archive or successor custodian. General naming, post-nominal and directory conventions, membership inference and guaranteed holdings/access are excluded.
 - Amy Johnson Crow, [Why You're Not Finding Death Records -- and How You Can Fix It!](https://www.youtube.com/watch?v=Sr86Hc000tY), 2021-10-17; trace supported adult children's residences near the death interval as candidate death-search localities. A parent's relocation, a preference for married daughters and universal death-registration jurisdiction are not inferred; collection-specific coverage checks are Kinprove synthesis.
-- Ancestry help: Card Catalog; Refining Your Search; How to Search; Search Tips;
-  Spelling Variations; Source and Collection Information; library access; Web
-  Records. Links appear beside the methods they support.
+- Ancestry help: [Card Catalog](https://help.ancestry.com/hc/en-us/articles/53933305954579-Using-the-Card-Catalog);
+  [Refining Your Search](https://help.ancestry.com/hc/en-us/articles/53933347318419-Refining-Your-Search-to-Improve-Results);
+  [How to Search](https://help.ancestry.com/hc/en-us/articles/53933305561747-How-to-Search-Ancestry);
+  [Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips);
+  [Spelling Variations](https://help.ancestry.com/hc/en-us/articles/53933306665107-Searching-with-Spelling-Variations);
+  [Source and Collection Information](https://help.ancestry.com/hc/en-us/articles/53933269983507-Source-and-Collection-Information);
+  [library access](https://help.ancestry.com/hc/en-us/articles/53933331964691-Searching-on-Ancestry-at-a-Library-or-School);
+  [Web Records](https://help.ancestry.com/hc/en-us/articles/53933331868179-Finding-Records-Online-with-Ancestry-Web-Records).
+  The recipe also links each page beside the method it supports.
 - Lisa Louise Cooke, [Browse-only records at Ancestry](https://lisalouisecooke.com/2019/11/17/browse-only-records-at-ancestry/), 2019-11-17.
 - NARA, [1940 census research](https://www.archives.gov/research/census/1940/start-research)
   and [1950 census FAQ](https://www.archives.gov/research/census/1950/faqs).
@@ -31,6 +37,9 @@ search in the user's Ancestry account.
 - BYU Family History Library (Judy Sharp), [Refining the Research Process](https://www.youtube.com/watch?v=VsbXLVM1-Xk), 2016-08-31; Genealogy Gems, [Episode 197](https://www.youtube.com/watch?v=ezp_SFmMdYM), 2016-12-23; associated facts and unfielded indexed columns in the person-search keyword field.
 - Family History Fanatics, [How to Research Your Genealogy When You're Adopted](https://www.youtube.com/watch?v=KcsQHKLSjFQ), 2019-05-17; a relayed Ancestry tip to search census keywords for 'orphan' to find institutional enumerations.
 - BYU Family History Library (James Tanner), [Catalogs: The Key to Using FamilySearch.org and Ancestry.com](https://www.youtube.com/watch?v=V2vmIxs2WjM), 2016-08-02; Genealogy Gems, [Episode 248](https://www.youtube.com/watch?v=YI-rwxManbs), 2020-12-09; Maureen Brady, [The U. S. Census](https://www.youtube.com/watch?v=o6d7Z_W_qhg), 2022-05-20; GeneaVlogger, [Building FDR's Family Tree](https://www.youtube.com/watch?v=3FJKJFw0Bjo), 2024-05-04; title/citation-keyed searches for other hosts, and shared or duplicated indexes as one source.
+- Who are You Made Of?, [Close DNA Match: How to Figure Out Your Relationship](https://whoareyoumadeof.com/blog/close-dna-match-how-to-figure-out-your-relationship/), 2024-06-09; keeping a candidate's reported surname as the record subject and testing the other surname as an associate/keyword clue. The narrated identity and fixed cM exclusions are not adopted.
+- Family History Fanatics, [Do THIS to Research America Revolutionary Ancestors on Ancestry](https://www.youtube.com/watch?v=2TlWZ0KvbxU), 2021-07-05; reading the collection's front matter before treating selected pension/bounty papers as a complete application. Present collection coverage and access are not asserted.
+- Ancestry, [Using Ancestry.com Member Profiles | Ancestry](https://www.youtube.com/watch?v=KRz3hK3KZWc), 2012-06-19; member-profile field roles: research-interest surname, ancestral place and period, as distinct from the researcher's current location and declared help or skills. Availability of the historical directory and its controls in a current account is not asserted.
 
 ## Volume, schedule and attachment checks
 

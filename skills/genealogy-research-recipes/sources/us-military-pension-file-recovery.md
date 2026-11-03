@@ -90,6 +90,12 @@ The linked routing, request-receipt and image/timeline schemas are original synt
   ability to work, with a separate clerk's assessment. Only the article was inspected here;
   the original pension images, named family and narrated explanation for a muster-roll gap
   were not verified. The dated household-and-means row is original synthesis.
+- **S19:** DNAeXplained, Roberta Estes,
+  [Sarah Cook (1774/1775-1863), Epitome of Perseverance – 52 Ancestors #386](https://dna-explained.com/2023/01/09/sarah-cook-1774-1775-1863-epitome-of-perseverance-52-ancestors-386/),
+  9 January 2023. A re-retrieval example that motivates comparing a newly received pension
+  package with earlier copies or notes. The unmatched-item queue, with its locator, observation
+  basis and retrieval status, is original synthesis. Misfiling and the contents of any missing
+  paper are not adopted.
 - **H1:** National Archives,
   [Requesting Copies of Older Military Service Records](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records),
   page reviewed 16 January 2026; checked 7 October 2026. Request forms, federal scope and

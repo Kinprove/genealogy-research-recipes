@@ -56,6 +56,10 @@ S44 is an official archive instruction page, read on 2026-11-02.
 
 - **S44:** Hessisches Landesarchiv, [Recherche digitalisierte Personenstandsnebenregister](https://landesarchiv.hessen.de/ueber-uns/personenstandsarchiv-hessen/recherche-digitalisierte-personenstandsnebenregister), opened 2026-11-02. Used for: the Arcinsys path to HStAM 900–926, what a thumbnail means, 'Digitalisate öffnen' and the DFG-Viewer, the LAGIS overview, the usual online cut-offs (births 1900, marriages 1930, deaths 1965) and the 60-year rule in § 9(2) sentence 3 HArchivG.
 
+S45 is a church-register portal collection page, read on 2026-11-03.
+
+- **S45:** Archion (Kirchenbuchportal GmbH), [Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe: Kirchenbücher online mit ARCHION](https://www.archion.de/de/alle-archive/niedersachsen/niedersaechsisches-landesarchiv/kirchenbuecher-der-evangelisch-lutherischen-landeskirche-schaumburg-lippe/), undated, opened 2026-11-03. Used for: Archion hosting the registers of the former Ev.-luth. Landeskirche Schaumburg-Lippe (Niedersächsisches Landesarchiv, Abt. Bückeburg), and its list including Lauenhagen with Hülshagen. The recipe sets this against the presenter's February 2026 statement in S5. The individual volumes, year ranges and images for the Hülshagen case were not opened or checked.
+
 **What is synthesis and what is not verified.** The ordered procedure, jurisdiction row, version classes and recovery packet are authored synthesis. The sources supply the techniques and the worked examples. The Hesse portal route follows the archive's own instructions (S44). Facts checked against outside authorities are stated directly in the text; the rest are attributed to the presenter or forum participant who stated them.
 
 Not verified, and attributed in the text:
@@ -72,4 +76,4 @@ The cited sources did not cover several points in this topic, and the recipe the
 
 ## Credits
 
-- Kinprove original procedural structure and synthesis; techniques and worked examples are restated from community lectures, Ahnenforschung.net forum threads, the Auprès de nos Racines article and Julie Roberts Szczepankiewicz's From Shepherds and Shoemakers article cited as S1–S40 and S43. Official portal descriptions S41–S42 are cited for metadata-discovery checks — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural structure and synthesis; techniques and worked examples are restated from community lectures, Ahnenforschung.net forum threads, the Auprès de nos Racines article and Julie Roberts Szczepankiewicz's From Shepherds and Shoemakers article cited as S1–S40 and S43. Official portal descriptions S41–S42, the archive instruction page S44 and the Archion collection page S45 are cited for metadata-discovery and access checks — FSL-1.1-MIT (kinprove-original)

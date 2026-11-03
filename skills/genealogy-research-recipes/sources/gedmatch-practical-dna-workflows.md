@@ -65,6 +65,11 @@ their numeric presets):
   availability and segment-group members outside an AutoCluster. The run/report/kit crosswalk
   and unresolved-identity controls are synthesis. Current access, thresholds and interface,
   triangulation assertions and predicted-tree model validity are not established by this source.
+- **S20:** Family History Fanatics, *User Lookup Tool EXPLAINED | GEDmatch Tutorial Genetic Genealogy*,
+  2019-04-16 — [demonstration](https://www.youtube.com/watch?v=1QMQ9EgJcK0). Used as the
+  historical Genesis-era example of the User Lookup tool cited with the recipe's lookup step. The
+  key-type, lookup-scope, returned-alias and unresolved-lookup controls are synthesis. Current
+  tool, field and visibility behaviour are not established by this source.
 
 GEDmatch-hosted documentation and tutorials, retrieved 2026-10-04. Retrieval confirms the public
 page's contents; it does not verify the signed-in interface or current access level:

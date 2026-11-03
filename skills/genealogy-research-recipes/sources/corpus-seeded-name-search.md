@@ -23,9 +23,10 @@ Primary pages opened 2026-10-18; cited as references, not reproduced.
 - **S19. Википедия, [Ижица](https://ru.wikipedia.org/wiki/Ижица)**, opened 2026-11-02. Used for: ижица being rare by the reform, unnamed in the reform decrees, falling out of use gradually and still appearing in some parish-register names.
 - **S20. Віртуальны музей савецкіх рэпрэсій у Беларусі, search for a common surname in [Russian spelling](https://represii.net/repressed?search=Иванов) and in [Belarusian spelling](https://represii.net/repressed?search=Іваноў)**, opened 2026-11-02. Used for: 0 hits in Russian spelling against 194 in Belarusian spelling on that date. A dated observation; counts change.
 - **S21. Жніво, [Belarus genealogical databases: search help and terms](https://db.zhnivo.com/by/belarus-genealogical-databases/)**, opened 2026-11-02. Used for: entering the surname in Russian, `|` alternatives and the `*` wildcard, the coverage statement, the warning about machine-read names, and the ban on automated bulk or partial download without the project's permission.
+- **S22. Древо Жизни Форум, "О толковании записей в метрических церковных книгах"** (first post 2024-05-20, [thread](https://genery.com/ru/forum/viewtopic.php?t=4868)). Rights: cited reference, not reproduced. Used for retrieving an entry whose target name may be misread by searching for an independently known co-listed participant, then reading the target in the full entry.
 
 Corpus attestation, positive-control queries, surface-form review and separately labelled search lanes are workflow synthesis. The decrees, the encyclopedia entry and the two sites supply the facts for the pre-reform spelling lane and per-database language calibration. No percentage improvement, universal consonant swap or claimed complete name inventory is asserted. Dictionary membership, search counts and successful normalization provide no person-identity or kinship proof.
 
 ## Credits
 
-- Kinprove original procedural synthesis; references are cited as S1 to S21 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; references are cited as S1 to S22 — FSL-1.1-MIT (kinprove-original)

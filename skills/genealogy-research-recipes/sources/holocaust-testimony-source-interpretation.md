@@ -19,6 +19,23 @@ original synthesis, applying the existing evidence/proof recipe to these source 
   <https://forum.j-roots.info/viewtopic.php?f=167&t=4906>. Rights: cited reference, not
   reproduced. Used for examples of USHMM copy collections from Kazakh regional archives whose
   finding aids describe evacuation files by original file and folio.
+- **H5:** J-Roots Forum, thread "Холокост: обсуждаем документы и публикации", first post 2009-09-17,
+  <https://forum.j-roots.info/viewtopic.php?f=26&t=138>. Rights: cited reference, not
+  reproduced. Used as the mixed-list discussion that motivates classifying each component of a
+  mixed postwar bundle, and keeping the stated compiler separate from a later forwarding or
+  stamping body.
+- **H6:** J-Roots Forum, thread "Яд-ваШем - база данных жертв Холокоста", first post 2009-12-02,
+  <https://forum.j-roots.info/viewtopic.php?f=26&t=1196>. Rights: cited reference, not
+  reproduced. Used for partial-list examples that motivate seeking other described parts of the
+  same original case and preparing a request for an unavailable part.
+- **H7:** J-Roots Forum, thread "Эвакуация - поиск данных об эвакуированных", first post 2009-08-29,
+  <https://forum.j-roots.info/viewtopic.php?f=197&t=1199>. Rights: cited reference, not
+  reproduced. Used as the evacuation-source discussion that motivates the source-class checks
+  (what moved, why the record was created, overlapping volumes) and the household-card crosswalk.
+- **H8:** J-Roots Forum, thread "Эвакуация из Городка Витебской области", first post 2021-12-12,
+  <https://forum.j-roots.info/viewtopic.php?f=197&t=12365>. Rights: cited reference, not
+  reproduced. Used as the regional compilation example that motivates keeping the region and
+  source-list reference with each row or family counter.
 
 ## Verification limits
 

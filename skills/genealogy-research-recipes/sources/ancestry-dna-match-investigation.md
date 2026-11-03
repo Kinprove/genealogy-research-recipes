@@ -73,6 +73,16 @@ the historical control sequence and example probabilities are not carried forwar
   a hypothesis already in the tree. No actual matrix or pedigree was independently verified;
   its thresholds, standard-deviation selection band and repeated-trial advice are not adopted.
 
+- Estes, Roberta. "Ancestry's ThruLines and Shared Matches Now Require a Subscription." DNAeXplained, 2024-02-05. [Article](https://dna-explained.com/2024/02/05/ancestrys-thrulines-and-shared-matches-now-require-a-subscription/) (access and inputs; a dated sharing example that motivates checking an authorized helper's DNA-result access and tree access separately). Separate access checks and unresolved access gaps are Kinprove synthesis; no current role matrix or membership exception is established.
+
+- Who are You Made Of? "Create a Custom Group of DNA Matches on Ancestry." 2023-03-20. [Article](https://whoareyoumadeof.com/blog/create-a-custom-group-of-dna-matches-on-ancestry/) (method 4; a group-renaming example that motivates reviewing assigned matches after a group's ancestral interpretation changes). Current edit/delete controls and limits are not established.
+
+- Mohler, Melanie. "Finding 3XGG with DNA: Splitting Genetic Networks." Your DNA Guide, 2023-06-19. [Article](https://www.yourdnaguide.com/ydgblog/finding-3xgg-with-dna) (method 4; a couple-labelled group compared with a second group anchored through one spouse's line, with the remaining members as a research queue). The remainder is not taken as proof of descent from the other spouse.
+
+- Mohler, Melanie. "Half-Siblings On Your Family Tree? Try This DNA Strategy." Your DNA Guide, 2023-01-23. [Article](https://www.yourdnaguide.com/ydgblog/half-siblings) (method 4; a documented descendant through an ancestor's other partner used to focus the anchor question). It does not remove a spouse's DNA or rule out additional paths and incomplete visibility.
+
+- Genealem. "AncestryDNA's Coming Changes and What You Can Do - Especially if you have MedBetter." Genealem's Genetic Genealogy, 2020-07-26. [Article](https://genealem-geneticgenealogy.blogspot.com/2020/07/greetings-this-email-is-only-for-those.html) (method 7; a 2020 rendering example involving a browser extension, motivating comparison of the same account, kit and filters in an unmodified view). It does not establish a current extension defect or require an extension change.
+
 ### Relationship-range reference
 
 - [Shared cM Project, DNA Painter](https://dnapainter.com/tools/sharedcmv4): relationship-range reference for the worked example.

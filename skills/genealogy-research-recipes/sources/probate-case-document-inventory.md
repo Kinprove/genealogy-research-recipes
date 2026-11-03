@@ -120,6 +120,36 @@ The linked inventory/queue schema and scope-completion rule are original synthes
   fees and the named case's no-will conclusion remain unverified and are not adopted.
   Conditional series and input checks are authored synthesis.
 
+- **S20:** BlackProGen Live,
+  [BlackProGen LIVE! Ep45: Finding Your Roots Season 4 Recap, Part 2](https://www.youtube.com/watch?v=1FEjeMA41eg),
+  2017-10-26 (saved publication metadata). Used for treating names on a case wrapper as a finding
+  aid rather than an exhaustive person index, setting the packet scope from independently
+  supported locality, family and time context, and recording the person or event each inspected
+  document concerns.
+
+- **S21:** Alice Childs / Family Locket,
+  [Part 6: Pennsylvania Germans: Probate Records](https://familylocket.com/part-6-pennsylvania-germans-probate-records/),
+  2022-03-11 (saved publication metadata). Used for the probate-key example: locating the
+  collection's master legend before decoding a coded document key, and comparing the listed
+  components with the inspected documents. A contents key is not taken as certifying complete
+  survival or inspection.
+
+- **S22:** Roberta Estes / DNAeXplained,
+  [New Information About Philip Jacob Miller (c1726-1799) and Magdalena Possibly Rochette (c1730-1800/1808) – 52 Ancestors #404](https://dna-explained.com/2023/07/16/new-information-about-philip-jacob-miller-c1726-1799-and-magdalena-possibly-rochette-c1730-1800-1808-52-ancestors-404/),
+  2023-07-16 (saved publication metadata). Used for the administrator-itinerary example: an
+  administrator's journey and stated purpose, as described in an account or receipt, as a lead
+  to a bounded related court, land-office or transaction-record question. The destination is not
+  taken as establishing the deceased person's residence, property, service or another estate
+  proceeding.
+
+- **S23:** Roberta Estes / DNAeXplained,
+  [Why was Old Man Jacob Dobkins' Will Fraudulently Secreted, Concealed and Destroyed? – 52 Ancestors #375](https://dna-explained.com/2022/09/26/why-was-old-man-jacob-dobkins-will-fraudulently-secreted-concealed-and-destroyed-52-ancestors-375/),
+  2022-09-26 (saved publication metadata). Used for the appeal-copy example: checking an appellate
+  archival packet as a target separate from the published opinion when the lower-court file is
+  missing, and inventorying transmitted pleadings, depositions or a judicially reconstructed will
+  apart from the absent original. Current custody, packet completeness and the participants'
+  final outcome are not established.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis, including the bounded reverse-guardian search and role checks attributed to S18 — FSL-1.1-MIT (kinprove-original)
