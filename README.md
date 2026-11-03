@@ -14,8 +14,19 @@ No Kinprove account is needed to read the recipes.
 /plugin install genealogy-research-recipes@kinprove
 ```
 
+Claude Code does not auto-update third-party marketplaces by default. To receive new
+versions automatically, run `/plugin`, open **Marketplaces**, select `kinprove` and choose
+**Enable auto-update**. To update once by hand, run
+`claude plugin update genealogy-research-recipes@kinprove`.
+
 **Claude.ai and the Claude desktop app** — open **Customize → Plugins → Add → Add marketplace**,
 enter `Kinprove/genealogy-research-recipes`, then add `genealogy-research-recipes`.
+To update, select **Check for updates** on the `kinprove` marketplace, or turn on
+**Sync automatically**.
+
+The skill states its own release date. When an installed copy is more than a week old, the
+agent mentions once per conversation that a newer version may exist and how to update.
+The agent does not check for updates over the network.
 
 **Hermes Agent** — install and explicitly enable the native plugin:
 

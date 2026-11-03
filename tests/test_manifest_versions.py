@@ -1,5 +1,6 @@
-"""Every host manifest must carry the same release version."""
+"""Every host manifest and the skill's own version line must carry the same release version."""
 
+import datetime
 import json
 import re
 import unittest
@@ -7,6 +8,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 JSON_MANIFESTS = (".claude-plugin/plugin.json", "openclaw.plugin.json", "package.json")
+SKILL = ROOT / "skills/genealogy-research-recipes/SKILL.md"
+SKILL_VERSION_LINE = re.compile(r"^This copy is version (\S+), released (\d{4}-\d{2}-\d{2})\.$", re.MULTILINE)
 
 
 class ManifestVersionTests(unittest.TestCase):
@@ -18,8 +21,14 @@ class ManifestVersionTests(unittest.TestCase):
         assert hermes is not None, "plugin.yaml has no version"
         versions["plugin.yaml"] = hermes.group(1)
 
+        stamps = SKILL_VERSION_LINE.findall(SKILL.read_text(encoding="utf-8"))
+        self.assertEqual(len(stamps), 1, "SKILL.md must state its version and release date exactly once")
+        skill_version, released = stamps[0]
+        versions["SKILL.md"] = skill_version
+        datetime.date.fromisoformat(released)
+
         self.assertEqual(len(set(versions.values())), 1, versions)
-        self.assertEqual(versions["package.json"], "1.7.1")
+        self.assertEqual(versions["package.json"], "1.7.2")
 
 
 if __name__ == "__main__":

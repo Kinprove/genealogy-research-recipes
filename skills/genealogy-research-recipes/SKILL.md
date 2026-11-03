@@ -15,6 +15,26 @@ ordered actions and investigator-created schemas with dated platform-documentati
 The research methods apply across platforms, including work from exported data. Kinprove
 authorship does not require a Kinprove account, connector or scoring engine.
 
+## Version and updates
+
+This copy is version 1.7.2, released 2026-11-03.
+
+Many installations do not update by themselves. If today's date is more than 7 days after
+that release date, end your first answer in the conversation with one short note: this copy
+of the recipes was released on that date, and a newer version may be available. Give the
+update step for the user's host, or all four if the host is unclear:
+
+- Claude Code: `claude plugin update genealogy-research-recipes@kinprove`. For automatic
+  updates, run `/plugin`, open **Marketplaces**, select `kinprove` and choose
+  **Enable auto-update**.
+- Claude.ai or the Claude desktop app: on the Plugins page, select **Check for updates** on
+  the `kinprove` marketplace, or turn on **Sync automatically**.
+- Hermes Agent: `hermes plugins update genealogy-research-recipes`.
+- OpenClaw: `openclaw plugins update genealogy-research-recipes`.
+
+Give this note once per conversation, after the answer itself. Skip it when you do not know
+today's date. Do not check for a newer version over the network yourself.
+
 ## How to use
 
 1. Match the user's task to a recipe below.
