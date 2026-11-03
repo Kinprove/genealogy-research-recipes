@@ -199,8 +199,8 @@ search-engine extracts, as marked), and details those pages did not support were
   particular person's fate.
 - **H46:** J-Roots Forum, thread "Эвакуация - поиск данных об эвакуированных", first post
   2009-08-29, <https://forum.j-roots.info/viewtopic.php?f=197&t=1199>. Rights: cited reference,
-  not reproduced. Used for the attached-letter example that motivates going on from a report
-  wrapper that describes attached family correspondence to the actual letter and envelope. It
+  not reproduced. Used for the attached-letter example that motivates following a report
+  wrapper's description of attached family correspondence to the actual letter and envelope. It
   does not establish a named parent's relationship, and a reported attachment remains
   uninspected until its pages are examined.
 - **H47:** J-Roots Forum, thread "Судьбы солдат ВОВ", first post 2009-12-25,

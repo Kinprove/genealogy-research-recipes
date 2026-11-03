@@ -21,7 +21,7 @@
 
 - **S3:** Anna Ruane, Vita Brevis, [Friends and Devils: Quakers and Witchcraft Accusations in the 17th Century Massachusetts Bay Colony](https://vitabrevis.americanancestors.org/friends-and-devils), published 2026-10-19 (saved metadata), saved article read 2026-10-27. Used for the conditional court-record fallback when early meeting minutes are unavailable: the article reports named attenders of a Salem meeting and cites *Records and Files of the Quarterly Courts of Essex County, Massachusetts*, vol. 2, pp. 104–107, and Joseph Besse's *A Collection of the Sufferings of the People Called Quakers* (1753). Only the saved article was inspected; those cited works and original proceedings were not read. Actual record loss, named identities, faith, law, current custody, access and rights were not independently established.
 
-- **S4:** Swarthmore College, Friends Historical Library, [The Quaker Calendar](https://www.swarthmore.edu/friends-historical-library/quaker-calendar), undated (the page shows no publication date), page read 2026-11-03. Used for:
+- **S4:** Swarthmore College, Friends Historical Library, [The Quaker Calendar](https://www.swarthmore.edu/friends-historical-library/quaker-calendar), undated, page read 2026-11-03. Used for:
   - the worked examples confirming that before 1752 1st month is March and 4th month (iv) is June;
   - the examples' treatment of single-dated entries from January to 24 March before 1752, which the recipe reports as matching the presenter's reading (S1);
   - the page and its converter as the tool for date conversions.

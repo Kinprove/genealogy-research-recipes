@@ -25,7 +25,7 @@ search in the user's Ancestry account.
   [Source and Collection Information](https://help.ancestry.com/hc/en-us/articles/53933269983507-Source-and-Collection-Information);
   [library access](https://help.ancestry.com/hc/en-us/articles/53933331964691-Searching-on-Ancestry-at-a-Library-or-School);
   [Web Records](https://help.ancestry.com/hc/en-us/articles/53933331868179-Finding-Records-Online-with-Ancestry-Web-Records).
-  Links appear beside the methods they support.
+  The recipe also links each page beside the method it supports.
 - Lisa Louise Cooke, [Browse-only records at Ancestry](https://lisalouisecooke.com/2019/11/17/browse-only-records-at-ancestry/), 2019-11-17.
 - NARA, [1940 census research](https://www.archives.gov/research/census/1940/start-research)
   and [1950 census FAQ](https://www.archives.gov/research/census/1950/faqs).

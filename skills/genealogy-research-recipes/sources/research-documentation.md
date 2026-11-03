@@ -79,7 +79,7 @@ are used.
 - S17. Уральская генеалогия forum, thread "Барневская слобода" (Barnevskaya sloboda),
   <https://rodgersforum.borda.ru/?1-14-0-00000139-000-0-0-1767764008=>. Title from the saved copy.
   The page fetched on 2026-11-03 had broken text encoding; its first post is dated 2022-11-05.
-  Used for: a revision-list exchange used as an example for the same place-unit search rule.
+  Used for: a revision-list exchange that illustrates the same place-unit search rule (S16).
 - S18. Diana Elder, "Using the Fan Methodology to Find a Female's Father: Part 2 – Locality
   Research and Research Planning", Family Locket, 2022-10-20,
   <https://familylocket.com/using-the-fan-methodology-to-find-a-females-father-part-2-locality-research-and-research-planning/>.
