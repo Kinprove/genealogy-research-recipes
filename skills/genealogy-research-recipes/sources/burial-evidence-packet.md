@@ -1,7 +1,10 @@
 ## Sources
 
 Original procedural synthesis. The sources below are attributed and paraphrased; their prose,
-photographs, database rows and real family examples are not reproduced.
+photographs, database rows and real family examples are not reproduced. The facts in the
+former-Soviet grave-portrait, burial-database and Russian municipal-database rules were checked
+on 2026-11-02 against P30–P34. The е/ё, row-cap, UTC and aggregator rules are reasoning rules,
+not observed behaviour of any named site.
 
 - **P1:** MyHeritage, *Discover Family History Through Gravestones*, published 2014-03-31 —
   [webinar](https://www.youtube.com/watch?v=xsDpYFkS_LI). Office/plot preparation, bilingual
@@ -159,6 +162,27 @@ photographs, database rows and real family examples are not reproduced.
   private card images, researcher correspondence, markers and cemetery originals were not.
   No universal card arrangement, current holder/access, interment, identity or kinship is
   established. The conditional retrieval and record-role distinction are Kinprove synthesis.
+
+- **P30:** КиберЛенинка, [Фотография как средство проживания скорби (Провиденский район, Чукотка)](https://cyberleninka.ru/article/n/fotografiya-kak-sredstvo-prozhivaniya-skorbi-providenskiy-rayon-chukotka),
+  opened 2026-11-02. Used for: portraits on about half the monuments of one Soviet and
+  post-Soviet cemetery from the 1960s on, in several forms (photographs under plexiglass, enamel
+  and ceramic plates).
+
+- **P31:** ОСН, [Богословы и священники назвали допустимым размещать фото умерших на крестах](https://www.osnmedia.ru/interesnoe/bogoslovy-i-svyashhenniki-nazvali-dopustimym-razmeshhat-foto-umershih-na-krestah/),
+  opened 2026-11-02. Used for: a photograph of the deceased becoming an almost standard element of
+  the gravestone in the Soviet period. Popular article; agrees with P30.
+
+- **P32:** Pomnim, [public burial database](https://pomnim.com.ua/en), opened 2026-11-02. Used
+  for: burial cards with monument photographs and, for some entries, coordinates (filters "With
+  photos" and "With coordinates"), on a site run alongside grave-care services.
+
+- **P33:** E-poisk, [захоронения Москвы](https://epoisk.ru/burmsk/), opened 2026-11-02. Used
+  for: the site's notice that, after a Roskomnadzor demand dated 03.08.2026, results show only the
+  number of matches; its data source is the Moscow Government open-data portal.
+
+- **P34:** Помним Онлайн, [общедоступная база захоронений](https://pomnim.online/), opened
+  2026-11-02. Used for: a nationwide aggregator built from user and organisation submissions,
+  with moderation and geolocated records.
 
 ## Credits
 

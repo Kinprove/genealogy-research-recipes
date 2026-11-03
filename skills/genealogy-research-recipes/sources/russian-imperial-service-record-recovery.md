@@ -56,6 +56,11 @@
   - its reported free online access;
   - failed searches under spelling variants.
 - **S13:** Уральская генеалогия, [Заграничный поход Русской армии 1813 - 1814](https://rodgersforum.borda.ru/?1-23-0-00000055-000-0-0-1743010435=), start date not shown. Used for: veterans' military careers restated in treasury service lists, ГАПК ф. 111 оп. 1 д. 1021.
+- **S14:** National Library of Russia (РНБ), [Памятные книжки губерний и областей Российской империи — список губерний](https://nlr.ru/elibrarypro/memo/RA5888/spisok-guberniy), opened 2026-11-02. Used for: the live entry point to the Памятные книжки by guberniya (the bare `/elibrarypro/memo/` address returned 404).
+- **S15:** National Library of Russia (РНБ), [Указатель наличия изданий в библиотеках, архивах и музеях](https://nlr.ru/elibrarypro/memo/RA5937/ukazatel-nalichiya-izdaniy-v-bibliotekakh), opened 2026-11-02. Used for: the index of institutions holding Памятные книжки, arranged by city.
+- **S16:** Vologda Regional Universal Scientific Library (booksite.ru), [Персоналии из «Памятных книжек»](https://booksite.ru/novgorod-pk/index.html) and [full-text Памятные книжки](https://booksite.ru/fulltext/memo/book/1.htm), opened 2026-11-02. Used for: the library's Памятные книжки material.
+- **S17:** Presidential Library (prlib.ru), [search page](https://www.prlib.ru/search?ss=памятная%20книжка), opened 2026-11-02, when it returned a browser security check ('Проверяем ваш браузер перед доступом к сайту') instead of results, as a participant had reported on 2026-10-28. Used for: handing prlib.ru searches to the user's browser. Perishable; recheck before relying on it.
+- **S18:** Leibniz-Institut für Ost- und Südosteuropaforschung, [Erik Amburger Database on Foreigners in Prerevolutionary Russia](https://leibniz-ios.de/en/library/databases/erik-amburger-database), opened 2026-11-02. Used for: about 100,000 foreigners in the Russian Empire until 1917, the published list of database sources and the database's origin in Amburger's card file.
 
 **What is authored and what the forum threads supply.**
 
@@ -65,6 +70,7 @@
   - the access register;
   - the rules for candidates and gaps.
 - **From forum participants:** the fond and file locators, folio ranges, examining bodies, edition pages and the reported access states.
+- **From the library and institute pages (S14–S18):** the library locators and the Amburger lead.
 - **Limits of that evidence.** Most ГАПК entries are abstracts posted by one compiler across several threads, so their agreement is one compiler's work, not independent confirmation.
 
 ## Credits

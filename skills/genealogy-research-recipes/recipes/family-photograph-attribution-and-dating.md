@@ -27,9 +27,10 @@ Record non-biometric context relevant to the question: an inscription, a stated 
 To seek other prints:
 
 1. Ask distant and collateral branches, heirs of the relevant household goods and lines present at a photographed event [S8], [S9].
-2. Search the literal studio name and town [S10], check published family genealogies for reproductions of the whole image [S11], and reverse-search a cropped copy for exact matches [S12].
-3. Record each copy's holder or host, uploader, displayed date, apparent generation and caption writer. Make observations from the copy nearest the original.
-4. Another copy's caption is its source's attribution. Count matching captions across trees, books and sites as one attribution until someone shows an independent basis: wrong identifications are copied quickly. The earliest upload points to a holder, not a maker or sitter [S12]. A place found for one album item is a lead for its neighbours, not a finding. These are leads to ask, never resemblance matches.
+2. Search the literal studio name and town [S10], and check published family genealogies for reproductions of the whole image [S11].
+3. Before you upload a private family photograph to any outside service (reverse image search, enhancement or colorization), get the user's explicit permission for that service. Never reverse-search an image that shows living people, and never send an image to a face-recognition service. With permission, reverse-search a cropped copy and keep only exact-copy hits, as leads to ask about [S12].
+4. Record each copy's holder or host, uploader, displayed date, apparent generation and caption writer. Make observations from the copy nearest the original. Before reproducing an image, even in a family report, ask who holds the rights; do not take the uploader for the rights holder.
+5. Another copy's caption is its source's attribution. Count matching captions across trees, books and sites as one attribution until someone shows an independent basis: wrong identifications are copied quickly. The earliest upload points to a holder, not a maker or sitter [S12]. A place found for one album item is a lead for its neighbours, not a finding. These are leads to ask, never resemblance matches.
 
 ## Bound the date from the photographer's imprint
 
@@ -53,8 +54,11 @@ Treat date clues as ranges or one-sided bounds. Record conflicting features inst
 - A dress, long hair or pink/blue coloring does not establish a child's sex. Long skirts marked a child's age: boys wore them until they were breeched, commonly between four and seven [S23].
 - An old-system house number bounds the image only where dated directories show the change [S24].
 - A licence plate's year bounds the photograph only approximately, because next year's plates could go on sale before the year began. The plate is a lead to the vehicle's owner, not to who is pictured [S25].
+- Inspect each photo in a supplied identity document (an internal passport, a party or military card, a pass) and its reverse. A photo shown to have been pasted in at issue was taken no later than the issue date, but the issue date is not the sitting date. A replacement photo or a copy needs its own bound: under the 1974 Soviet Passport Regulation, new photos were pasted in at ages 25 and 45, and the holder had a month after that birthday to hand them in [S31].
 
 **Uniforms, insignia and medals.** For a uniformed portrait, keep the full image and make linked detail crops of the cockade, belt buckle, shoulder straps, badges and awards. Date each regulated element from its cited introducing order or a medal's establishment, and treat that as an earliest bound for the picture. Where an order set a later date for wear, take the earliest bound from that date: in [S21], a 1907 order set one uniform pattern for wear from 1909. Do not turn an abolition order into a latest bound: in the same discussion, a portrait dated after the cited abolition still showed the emblem [S21]. A jubilee medal's eligibility rule limits which candidates could have worn it; keep that apart from the photo-date bound. Record each order or statute as cited. A worn medal does not prove whose award it was.
+
+**Red Army shoulder boards, 1943.** Shoulder boards (погоны) were introduced in the Red Army by the Presidium decree of 6 January 1943 and NKO (People's Commissariat of Defence) Order No. 25 of 15 January 1943 [S28], [S29], [S30]. Summaries disagree on when wear began: one museum page gives 15 January, the date of the order itself [S30]. Take the wear date from the text of Order No. 25 [S28] before using it as the earliest bound. Use that bound only for a confirmed Red Army serviceman in his own period's uniform, never for imperial or foreign uniforms, costume or re-enactment. Collar-tab rank insignia (кубари and шпалы, squares and bars) belong to the uniform before this reform, but by the abolition rule above they set no hard latest bound, because the changeover took time [S28].
 
 ## Test an attribution by documented-lifetime consistency
 

@@ -1,0 +1,103 @@
+# Export research findings to a GEDCOM file without changing what they prove
+
+Use this recipe when a user asks you to build, export or convert a GEDCOM (`.ged`) file from research findings, or to bring a supplied GEDCOM into existing research. GEDCOM is a format for transmitting and storing genealogical data [S1]. It is not an application, a tree service or a place to publish. The recipe prevents seven failures: changing the header version and calling the file converted, attaching a child to the father's wife because she shares his family record, turning a shared patronymic and surname into a parent link, reading QUAY as a research status, silently converting an Old Style date or padding an approximate year, culling or confirming a supplied tree's claims during a format change, and marking people deceased so that they can go into a shared file.
+
+Link out for the shared steps:
+
+- **Identity rulings, source independence, working statuses and revising a rejected premise:** [evidence/proof judgment § Techniques that work and § Using working hypotheses without inheriting their assumptions](evidence-proof-judgment.md).
+- **Old Style offsets by century and the 1918 switch:** [evidence/proof judgment § Follow record versions and test disputed dates](evidence-proof-judgment.md).
+- **Building a citation and its locator:** [source citation § Preserve the locator](source-citation.md).
+- **The research log and report, which a GEDCOM does not replace:** [research log and report](research-documentation.md).
+- **Moving facts between RootsMagic, Ancestry and FamilySearch, and checking what arrived:** [RootsMagic tree reconciliation § 4](rootsmagic-tree-reconciliation-workflow.md).
+- **Inherited GEDCOMs on FamilySearch as compiled claims, and people who may still be living:** [FamilySearch practical workflows § 15 and § 14](familysearch-practical-record-workflows.md).
+- **Exporting a GEDCOM from Geni:** [Geni practical workflows § 8](geni-practical-research-workflows.md).
+- **A blank death, spouse or child field:** [descendancy gap worklist § Do not read a blank as a finding](descendancy-gap-worklist.md).
+
+## Inputs to gather first
+
+Gather these before writing:
+
+- the destination: the program or service the user named, or none
+- the GEDCOM version that program imports, if the user knows it
+- for a conversion or an import: the supplied file, and the version and character set its header declares
+- the research notes: each evaluated person, event and link with its status, source and locator, plus the hypotheses, open conflicts and rejected identifications
+- who in the data may be living, and whether the file is for the user's own use or for sharing
+
+## 1. Choose the destination and the version
+
+- **Write a local `.ged` file unless the user chose another destination.** A connected tree service is not the destination just because it is connected. Do not read from it or write to it for this task unless the user chose it.
+- **Write the version the target program imports.** If the user names none, ask. If the user cannot say, write GEDCOM 5.5.1 with `CHAR UTF-8`. The official index still lists 5.5 and 5.5.1 as in use in the marketplace [S2], a software vendor announced in 2021 that its export would default to 5.5.1 until 7.0 is in widespread use [S3], and 5.5.1 permits UTF-8 as its character set [S4], [S5]. When the user later names a program, re-export in its version.
+- **Do not treat a header change as a conversion.** Between 5.5.1 and 7.0, rewrite at least these [S1]:
+  - **Character set:** 7.0 uses only UTF-8.
+  - **Continuation lines:** 7.0 removed `CONC` along with the old line-length limits. Join `CONC`-split values into one line.
+  - **Calendars:** 7.0 writes the calendar as a keyword (`GREGORIAN`, `JULIAN`, `FRENCH_R`, `HEBREW`). Versions 4.0 to 5.5.1 used an `@#D…@` escape instead.
+  - **Extension tags:** 7.0 maps documented extension tags to their URIs in `HEAD.SCHMA`.
+- **Check the syntax against the official specification of the target version,** linked from the gedcom.io index [S2]. Do not invent a dialect.
+- **For a conversion, keep the original file unchanged** and write the result as a separate derivative file.
+- **Keep the research log, the research notes and the report.** The GEDCOM does not replace them. Do not hold the export back until every search is finished.
+
+## 2. Put only evaluated findings in the file
+
+- **Export only people, events and links that have been evaluated against the evidence.** Keep hypotheses, candidates and unresolved alternatives in the research notes, not as facts or links in the file.
+- **If the user wants a hypothesis in the file, flag it in a NOTE** on that event or link, with its handle from the notes.
+
+## 3. Export each parent link on its own evidence
+
+- **Evaluate each parent–child link separately.**
+- **If a record proves only the father, write a FAM with him as the only partner and the child as CHIL.** Keep the mother unresolved in the notes. HUSB and WIFE are each optional in 7.0 [S1] and in 5.5.1 [S4], [S6].
+- **Never put the child into the father's existing couple family.** Being his wife does not prove she is the mother. The father then belongs to two FAM records, one with his wife and one with the child.
+- **Never turn a shared patronymic and surname into a CHIL link.** Keep the candidate in the notes and go on with the search that can tell the candidates apart.
+- **Do not infer a partner's sex or role from the HUSB or WIFE pointer.** GEDCOM 7 says so explicitly [S1]; 5.5.1 still assumes HUSB is male and WIFE is female [S4], so a 5.5.1 reader may do exactly that.
+
+## 4. Cite the source, and carry the status in a NOTE, not in QUAY
+
+- **Keep every SOUR citation already in the data.** For each new claim, cite its source and put the specific leaf, act or entry in PAGE, the field for where in the source the material is [S1].
+- **Invent no locator.** For an interview or an unpaginated source, keep the locator that exists in the citation or a NOTE. When a converted tree gives no primary source, say so in a NOTE rather than supplying one.
+- **Put the research status and the claim or link handle in a NOTE,** using the labels of the evidence/proof judgment worksheet: open, supported so far, contradicted or rejected.
+- **Never map QUAY to or from a research status.** QUAY uses the values 0–3 to rate the credibility of a piece of information. Per the GEDCOM 7 spec, the values "do not have numeric meaning", and QUAY is "not intended to eliminate the receivers' need to evaluate the evidence for themselves" [S1]. A QUAY of 3 does not make a link proved, and a missing QUAY does not make it doubtful.
+
+## 5. Keep names, dates and calendars as the records give them
+
+- **Keep the original name spellings, the date uncertainty, the calendar and the historical jurisdiction.**
+- **Write an Old Style date as Julian in the target syntax:** `JULIAN 3 MAY 1892` in 7.0 [S1], `@#DJULIAN@ 3 MAY 1892` in 5.5.1 [S4], [S7], [S8]. A 7.0 date without a calendar is read as Gregorian [S1], so the keyword is required. Never convert a date to New Style silently; take the offset for the date's century from evidence/proof judgment.
+- **Do not pad an approximate date.** `ABT 1890` stays `ABT 1890`, never a full day and month. 7.0 has `ABT`, `CAL` and `EST` for approximations, `BEF` and `AFT` for one-sided bounds, and `BET … AND` for a range [S1]. If the target version cannot express a detail, keep it in a NOTE and in the notes, and say what was lost.
+- **When versions conflict, keep both.** For example, a tree gives a birth year and a document gives a Julian date in another year. Keep both in the notes with their provenance, and add a NOTE in the export that names the dispute. Do not choose one silently.
+- **Never re-export a disputed link as confirmed, and never overwrite the user's file** with a new conclusion.
+
+## 6. Convert a supplied tree without culling or confirming it
+
+- **A pure format conversion keeps every claim and link of the supplied tree,** unverified ones included, with their provenance and status. It is not an evidence cull: do not drop claims that would fail the bar for new research findings. It confirms nothing either.
+- **List every custom tag, attachment and media link that was not carried over,** and carry its meaning in a standard NOTE where you can.
+- **Do not call a conversion lossless, or an import into another program successful, until you have checked it in that program.** For transfers between RootsMagic, Ancestry and FamilySearch, use the RootsMagic recipe's destination check.
+
+## 7. Bring a supplied tree into existing research
+
+- **Keep the file unchanged as a source.** Record where and when you received it, and its SHA-256 hash.
+- **Map its cross-reference IDs to your own person handles** in a small table. Do not merge same-named people automatically, and do not overwrite existing candidates.
+- **Enter its links as hypotheses** until the documents behind them are evaluated. A website copy of the same tree is not a second source; test independence as evidence/proof judgment sets out.
+- **Never mark anyone deceased from a birth-year cutoff or a missing death date** in order to export, share or publish them. Treat probably living people as living.
+- **State partial coverage,** for example "40 of 200 people parsed", and keep the unsupported fields for review. Work on the parsed part without waiting for the rest.
+- **Do not let a re-import restore an identification rejected earlier.** Keep the rejection, its reason and any justified revision, as the evidence/proof judgment worksheet does when a premise changes.
+
+## 8. Check the written file before handing it over
+
+- **Check that the file conforms to the declared version:** the header, the character set, the date syntax and the tags of that version.
+- **Check that every INDI, FAM and SOUR pointer resolves.** In 7.0, every pointer except the null pointer `@VOID@` must occur as the cross-reference identifier of a structure in the same file [S1].
+- **Compare the exported links, citations and notes with the research notes.**
+- **Apply the living-person rules to a copy prepared for sharing.** Leave out or redact the living and probably living, private notes, and attachments the user did not choose to share. Writing a local export publishes nothing; do not upload the file or its attachments anywhere the user did not choose.
+- **Report what was not checked.** Give the file path, the version and the material limits of the transfer.
+
+## Close with an export packet
+
+Return:
+
+- **File row:** path, version, character set, and whether it is a new export or a derivative of a supplied file kept unchanged.
+- **Destination:** the user's choice, or local by default.
+- **ID map:** the supplied file's cross-reference IDs against your person handles.
+- **Coverage:** people parsed out of the total, and the unsupported fields kept.
+- **Not carried over:** custom tags, attachments, media and details the version cannot express, each with the NOTE that carries its meaning, if any.
+- **Disputes:** each conflicting version with its provenance, and the NOTE that names it in the file.
+- **Checks:** version conformance, pointer resolution, agreement with the research notes, and any check in a destination program.
+- **Sharing:** the living-person handling applied, or "local only".
+
+The model writes and checks the file. The researcher decides identity and kinship.

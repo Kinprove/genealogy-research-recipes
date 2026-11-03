@@ -43,6 +43,22 @@ pages is garbled: poor extraction alone does not establish a corrupt document. [
 Check readable interior pages separately; neither a title guess nor a successful
 download settles the book's identity or completeness.
 
+## Check the consolidated metrical-book catalogue
+
+Once a guide names the archive, check whether the consolidated catalogue series
+`Зведений каталог метричних книг, що зберігаються в державних архівах України`
+(consolidated catalogue of metrical books held in the state archives of Ukraine;
+Ukrderzharkhiv and UNDIASD) has a volume for it. Volume 8 covers the State
+Archive of Khmelnytskyi Oblast (Kyiv, 2013, two books); ELIB items `0013670`
+and `0013671` are its cards. Book 1 covers Orthodox parishes of all twelve
+Podolia uyezds, some now in Vinnytsia and Odesa oblasts. Book 2 covers Orthodox
+parishes in Volhynia and Kyiv guberniyas, plus Roman Catholic, Old Believer and
+Jewish records. Book 1 opens with an overview of the fonds that hold the
+registers, and both books have settlement indexes. [S3, S4]
+
+The archive hosts both PDFs without login, as `mbv8-b1.pdf` and `mbv8-b2.pdf`
+under `https://dahmo.gov.ua/pdf/`. [S5]
+
 ## Recover from a failed catalogue search without inventing coverage
 
 A keyword miss can reflect the search interface, indexing or the query. If a
@@ -68,4 +84,5 @@ person. Check those narrower questions against current archive information and
 the actual case. Continue with [archival-image-coverage-verification.md](archival-image-coverage-verification.md)
 when identifying or inspecting retrieved case images.
 
-Provider examples were checked on 2026-10-18; see [source notes](../sources/elib-ukrainian-archive-reference-books.md).
+Provider examples were checked on 2026-10-18 and the consolidated-catalogue
+volume on 2026-11-02; see [source notes](../sources/elib-ukrainian-archive-reference-books.md).

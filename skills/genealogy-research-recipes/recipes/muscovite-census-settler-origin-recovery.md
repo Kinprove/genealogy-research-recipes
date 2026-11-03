@@ -47,7 +47,7 @@ The Poskochin Tobolsk locator below has been confirmed against a published descr
 - A participant reports that RGADA has posted typed f.214 inventories as PDFs with a text layer (op.1 parts 2 and 4, op.4, op.5, op.6). [S21] Use them to find cases, and record the opis and item before you order.
 - If an f.1209 alphabetical list gives only a column (столбец) reference, open the register volumes of the same opis that key that alphabet. In the worked case a participant pointed from an op.85 alphabet to the register volumes d.1195i and d.1196i of RGADA f.1209 op.85, which gave each name its column, year and folio. Resolve each name to its column, year and folio, and log which names you left unresolved. [S13]
 - RGADA cases can be viewed remotely through online.archives.ru with a Gosuslugi login. Access is billed by time: 90 rubles per hour (350 rubles per day) under government resolution No. 982 of 30 June 2025, in force from 10 July 2025.
-- A note forwarded on the forum adds that you must order every case you want before paying, because no other case can be opened once the session is paid for. [S21] Plan your case list first.
+- A note forwarded on the forum adds that you must order every case you want before paying, because no other case can be opened once the session is paid for. [S21] Plan your case list first. The paid time starts when the first case is opened, not at payment, so open the cases only when you are ready to read them. [S26], [S27]
 
 For a village founded after 1719, search the parent sloboda's books first. The 1744 revision lists such villages as newly founded and names households as moved there from the sloboda or another village. Only then turn to the village's own church fond. [S1], [S10]
 

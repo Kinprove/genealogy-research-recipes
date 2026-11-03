@@ -72,6 +72,18 @@ adds gender and cemetery. Enter the supported native-script form rather than ass
 translated page has translated the database's names. Confirm the current form when executing
 these older examples. [P3]
 
+For a Russian municipal cemetery database, a result that shows only a count of matches
+identifies no one: after a demand by Roskomnadzor (the federal communications regulator) dated
+3 August 2026, Moscow's E-poisk shows only match counts. [P33] Search both е and ё spellings. If
+a search matches fields exactly and caps the number of rows, split it by cemetery or year. If
+dates come back as UTC timestamps, do not shift them yourself; keep the raw value and take the
+calendar date from the card or the burial record. Treat a nationwide aggregator such as Pomnim
+Online, which collects entries from users and organisations, as a copy: confirm the entry in the
+local database and read the headstone photograph against the registry spelling. [P34] Recent
+burials concern living relatives, so do not collect grave-holders' contacts. For a Russian death
+with no burial hit, the notarial probate-case register is a separate locator; see
+[soviet-personal-file-recovery § 3](soviet-personal-file-recovery.md#3-route-each-institution-to-its-series-and-present-custodian).
+
 **Output:** a query row for each field combination, retaining the exact entered strings and
 the candidate record links.
 
@@ -116,6 +128,13 @@ image/surface locator separately from the monument's physical cemetery and plot.
 monument can name people buried elsewhere; compare their location statements with available
 burial records instead of assigning everyone named on the monument to its plot.
 Unresolved burial locations stay open. [P26]
+
+Many 20th-century monuments in the former Soviet Union carry a portrait of the deceased: a
+photoceramic or enamel medallion, or a photograph under glass or plastic. [P30, P31] A grave
+photograph is then also a person photograph. Record the portrait as attributed by the inscription
+on the same monument, never identified by face, and never compare it with other photographs.
+Repeated photographs of one monument are one chain for its inscription and portrait, not
+independent confirmations.
 
 For supplied cemetery-visit photographs, retain an actual cemetery-sign photograph as a
 context image and link it to the corresponding grave-photo IDs using the supplied visit
@@ -296,6 +315,13 @@ neighboring-plot search. Retain each burial/plot identifier and the actual dista
 area separately from coordinates. Use co-burial/proximity to nominate associates and retrieve
 their burial records before proposing a relationship. The [co-plot search description](https://lostrussianfamily.wordpress.com/2025/10/25/free-database-offers-more-than-5-million-indexed-burial-records-for-moscow/)
 supplies no fixed search radius or current provider/plot-accuracy guarantee.
+
+Some online burial databases, including ones run alongside grave-care businesses, publish
+burial cards with monument photographs and, for some entries, coordinates. [P32] Where one holds
+a card for a known deceased relative, use its photograph and coordinates to find older
+neighbouring monuments and cards on the same plot, as locators only. Coverage is limited to what
+that site has recorded, and proximity is not kinship. Keep only a crop of the relevant monument,
+because such photographs can show living mourners.
 
 If a plot-owner card points to the named owner's other cards or lots, follow those
 locators even when they fall outside the neighboring area; keep owners and referenced

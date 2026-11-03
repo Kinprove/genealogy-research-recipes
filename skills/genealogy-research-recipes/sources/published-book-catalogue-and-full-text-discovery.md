@@ -15,6 +15,10 @@
 - **S13:** Genealogy Gems, [Episode 270 Pennsylvania and Ohio Genealogy](https://www.youtube.com/watch?v=PwqGA5Dqdgg), 2022-11-14. Used: an Ohio Memory guest describes search across OCR and partner metadata, period-accurate keywords and the "exclude full text sources" option.
 - **S14:** Genealogy Gems, [Internet Archive: 10 Amazing Genealogy Finds You Need!](https://www.youtube.com/watch?v=_wIjmUTZPrA), 2021-02-11. Used: reading the sponsor of an Internet Archive collection and searching the sponsor's (Allen County Public Library) own site.
 - **S15:** BYU Family History Library / James Tanner, [Maximizing Your Use of Google for Genealogists](https://www.youtube.com/watch?v=yPEzq2OPsBc), 2016-08-10. Used: Google Books read/snippet/preview views; a "no ebook available" book with a complete FamilySearch copy; Google Books' link to WorldCat (then labelled "Find in a library").
+- **S16:** Genealogy Indexer, [home page](https://genealogyindexer.org/), opened 2026-11-02. Used for: OCR full text of historical directories (mostly Central and Eastern Europe), yizkor books and military lists, and the OCR-Adjusted match mode.
+- **S17:** Genealogy Indexer, [Search Guide](https://genealogyindexer.org/guide), opened 2026-11-02. Used for: the warning that OCR is not fully accurate and can block matches, OCR-Adjusted matching, wildcards and proximity syntax.
+- **S18:** Genealogy Indexer, [Help](https://genealogyindexer.org/help), opened 2026-11-02. Used for: page images hosted on the source websites, the host's error page for a moved image, and the per-gubernia source list.
+- **S19:** Genealogy Indexer, [robots.txt](https://genealogyindexer.org/robots.txt), opened 2026-11-02. Used for: /search/ and /words/ disallowed for all user agents on that date.
 
 **What is synthesis and what the sources supply.** The following are authored synthesis:
 
@@ -24,7 +28,7 @@
 - the view-level vocabulary;
 - the register format.
 
-The sources supply the presenters' worked examples and observations, recorded 2016–2024. Platform behaviours were checked against documentation and secondary guides. Nothing was re-tested by live searching.
+The sources supply the presenters' worked examples and observations, recorded 2016–2024. Platform behaviours were checked against documentation and secondary guides. Nothing was re-tested by live searching. The Genealogy Indexer paragraph's facts come from the site's own pages and robots.txt (S16–S19), opened 2026-11-02.
 
 ## Credits
 
