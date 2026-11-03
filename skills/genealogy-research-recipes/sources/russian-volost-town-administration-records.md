@@ -5,7 +5,7 @@
   - inventories ф. 717–732: guardianship, registration, reservist, militia, allowance, settler and householder lists, annual call-up lists from 1874, pre-1874 recruit-levy and lower-rank files in ф. 723, village-society fonds 721–722, and the ф. 724 pension petitions;
   - the skipped-sheet note on the ф. 725 inventory;
   - repeated delo numbers, undated and impossible dates, and gaps in annual series;
-  - the participant report on the "Великие описи" transcription.
+  - the participant report on the "Великія описи" transcription.
 - **S3:** Уральская генеалогия, [Шадринск – жители](https://rodgersforum.borda.ru/?1-14-0-00000001-000-0-0-1769166590=). Start date not shown. Used for: the Shadrinsk town-administration voter-list locators (ф. И-473 оп. 1 дд. 633, 2064) and the voter-list files dated 1905–1907 and 1905–1909, the anachronistic "State Duma 1883–1884" title, the full title of the 1917 Constituent Assembly list, and the rate-sheet and qualification fields (their meaning was left unanswered).
 - **S4:** Уральская генеалогия, [Мещане Екатеринбурга](https://rodgersforum.borda.ru/?1-11-0-00000009-000-0-0-1781462060=). Start date not shown. Used for: GASO ф. 62 оп. 1 дд. 27а (1874 family list for military service) and 28 (call-up lists 1878–79), and ф. 8 оп. 1 (1858 revision lists, 1867 registration into the мещане society).
 - **S5:** Уральская генеалогия, [presentation of a reference book on Yekaterinburg and its residents, 1875–1911](https://rodgersforum.borda.ru/?1-22-0-00000267-000-0-0-1722543762=). Start date not shown. Used for: the abstract of ф. 62 files 746–813 (house construction and alteration) with surname and address indexes.
@@ -15,12 +15,27 @@
 - **S9:** J-Roots Forum, [a family-search thread for two Rogachev and Rechitsa uezd localities](https://forum.j-roots.info/viewtopic.php?f=20&t=4270), started 2014-10-26. Used for: participants' description of Duma voter-list contents and the age threshold.
 - **S10:** J-Roots Forum, [Случайные находки](https://forum.j-roots.info/viewtopic.php?f=15&t=64), started 2009-08-25. Used for: an exclusion complaint (1907) in NIAB ф. 2558 оп. 1.
 - **S11:** J-Roots Forum, [Национальный исторический архив Беларуси (НИАБ)](https://forum.j-roots.info/viewtopic.php?f=152&t=36), started 2009-08-18. Used for: a prayer-school permission case (ф. 299 оп. 2 т. 5 д. 16988) with no sheet count in the inventory but heads-of-family lists inside, the Slutsk county military-service lists (ф. 627 оп. 1 д. 11), and the Pinsk town call-up list (ф. 611 оп. 5 д. 194) with its year conflict.
+- **S12:** State Archive of Altai Krai (ГААК), [анкеты Всероссийской переписи 1917 года](https://altarchives.ru/census1917), opened 2026-11-02. Used for: the index of 1917 agricultural and urban census forms for Altai (Tomsk) guberniya (May–September 1917), what a card gives and what the form gives, the prepaid, non-refundable request for the form, and the warning that some settlements have incomplete data or none.
+- **S13:** FamilySearch Catalog, [Поземельная перепись, 1917](https://www.familysearch.org/search/catalog/1495503), checked 2026-11-02: the record page needs a sign-in, and the title, fond and film format were read in search results. Used for: filmed 1917 land-census files.
+- **S14:** Мои предки – из Беларуси!, [Справочник столыпинских переселенцев](https://belarus-tomsk.ru/spravochnik), opened 2026-11-02. Used for: a surname-level index of 1906–1917 Stolypin settlers to present-day Tomsk Oblast, with origin and place of settlement in early-20th-century units and a GATO delo number for each entry, and no fond named.
+- **S15:** Великія описи, [home page](https://inv.velikie.org/), opened 2026-11-02. Used for: the site publishing no scans or photocopies.
+- **S16:** Великія описи, [FAQ](https://inv.velikie.org/faq/), opened 2026-11-02. Used for: coverage limited to what volunteers have typed, and copies ordered from the archive.
+- **S17:** Великія описи, [Пользовательское соглашение](https://inv.velikie.org/agreement/), opened 2026-11-02. Used for: the ban on automated mass collection that overloads the site or bypasses its API (§8.1), and the duty to cite the archive and cipher (§6.1).
+- **S18:** Великія описи, [Поиск](https://inv.velikie.org/search/), opened 2026-11-02. Used for: the «Дела без датировки» and «Непривязанные документы» search options.
+- **S19:** National Historical Archive of Belarus, [Our Collections](https://niab.by/newsite/en/node/157), opened 2026-11-02. Used for: NIAB's pre-1917 holdings, parish registers, and the Vitebsk, Minsk and Mogilev guberniyas.
+- **S20:** Archives of Belarus, [National Historical Archives of Belarus in Grodno](https://archives.gov.by/en/?p=846631), opened 2026-11-02. Used for: the Grodno archive as a separate central archive covering Grodno guberniya and the Vileika, Disna, Lida and Oshmiany uezds of Vilna guberniya.
+- **S21:** EHRI portal, [National Archive of the Republic of Belarus](https://portal.ehri-project.eu/institutions/by-002080), opened 2026-11-02. Used for: NARB's full name, as an archive separate from NIAB.
+- **S22:** SODD NAF, [quick search help](https://sodd.by/info/15b4aa12-8f49-4c21-b2ea-b0900442eee8), opened 2026-11-02. Used for: the portal's state operator (BelCCAD), its coverage of state archives' fonds, and quick search matching part of a word and ignoring case.
+- **S23:** НашиПредки, [НАРБ (Уфа): fond list](https://nashipredki.com/archive/narb-ufa), opened 2026-11-02. Used for: НАРБ used as the abbreviation of the Ufa archive.
 
-**What is authored and what the sources supply.** The following are authored synthesis: the register layout, the status vocabulary, the series-class grouping, the rule against linking by house number, and the ranking rule. The fond, opis and delo locators, titles, dates and sheet counts come from archive inventories as transcribed by forum participants. They have not been checked against the archives' current inventories. Almost all examples come from one archive (GASO) and a few Ural counties. The town examples are Yekaterinburg and Shadrinsk, plus Vitebsk, Polotsk and Pinsk from NIAB.
+**What is authored and what the sources supply.** The following are authored synthesis: the register layout, the status vocabulary, the series-class grouping, the rule against linking by house number, and the ranking rule. The fond, opis and delo locators, titles, dates and sheet counts come from archive inventories as transcribed by forum participants. They have not been checked against the archives' current inventories. Almost all examples come from one archive (GASO) and a few Ural counties. The town examples are Yekaterinburg and Shadrinsk, plus Vitebsk, Polotsk and Pinsk from NIAB. The archive, portal, catalogue and index pages S12–S23 supply the facts in the 1917 census, internal-resettlement, Великія описи and Belarusian-holder guidance.
 
 Not verified:
 
 - current holdings and access;
+- the column sets of 1917 census forms outside Altai (Tomsk) guberniya;
+- which GATO fond the Tomsk settler index draws on;
+- how the two Великія описи options change a filtered search;
 - whether the inventories have been renumbered since they were transcribed;
 - the meaning of the Shadrinsk rate-sheet and qualification fields;
 - what the 1883–1884 Shadrinsk list actually is;

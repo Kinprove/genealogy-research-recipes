@@ -28,7 +28,7 @@ There is no route here for:
 - Imperial enlisted men in peacetime
 - personnel records of armies other than the Prussian one
 
-Do not reuse the Prussian loss findings for those armies. Give each such man a row marked *route not covered here*. Find out which archive holds that state's records before you record any series as destroyed or searched.
+Do not reuse the Prussian loss findings for those armies. Give each such man a row marked *route not covered here*. Find out which archive holds that state's records before you record any series as destroyed or searched. For Austro-Hungarian service of men from Galicia and Bukovina, see [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md), steps 5 to 8.
 
 ## 2. Old-Prussian army (1714–1806): the Stammrollen are gone, so work from church books and the canton
 

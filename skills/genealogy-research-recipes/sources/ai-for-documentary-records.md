@@ -134,6 +134,11 @@ pricing, model suitability and recognition gains are not verified.
 
 - *DES-Projekte mit Transkribus* — Michael Rose, 2024-02-23 — <https://www.youtube.com/watch?v=6IwX6kZbx4Q> — Rights: cited reference, not reproduced. Historical correction handoff; destination/version verification is Kinprove synthesis, not a claim about current synchronization or model training.
 
+### Vendor documentation
+
+- *Vision* (Resolution and token cost; Image quality guidance) — Claude API Docs (Anthropic) — <https://platform.claude.com/docs/en/build-with-claude/vision> — opened 2026-11-02 — Used for: oversized images being downscaled before processing by default, model-dependent limits, the option to reject instead of resize, and the guidance not to crop away key visual context solely to enlarge text. Rights: cited reference, not reproduced.
+- *Computer use tool* (Size screenshots to fit image limits) — Claude API Docs (Anthropic) — <https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool> — opened 2026-11-02 — Used for: the agent harness resizing screenshots itself, because the API rejects oversized tool-result images instead of downscaling them. Rights: cited reference, not reproduced.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

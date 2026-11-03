@@ -19,6 +19,11 @@ Use `NIL` for a completed search with no hits. Record inaccessible images, inter
 and unsearched collections with their actual status. Keep literal record wording and uncertain
 readings separate from your interpretation.
 
+A web search-engine query, including a `site:` query, does not search a site's internal database.
+Run the site's own search across the name variants (such as Cyrillic е/ё spellings and -ев/-ов
+surname endings), and log that venue and query as what was searched; an empty search-engine result
+is not a NIL for the site's database.
+
 Date each NIL against the collection as it stood at the time. Record the collection title and any
 coverage or last-updated note the provider showed. A NIL covers only that version. If the provider
 later lists the collection as added to or updated, for example with new counties or years, re-run
@@ -189,6 +194,18 @@ received in the log and citation. The [2021 civil-register request example](http
 motivates that product distinction. Check the holder's current service and fee information
 before ordering; the example establishes no present fee, service or certification requirement.
 
+Take the addressee, the answering department and the intake channel (e-mail, web form, portal
+account, post) from the holder's official site, and record the URL and check date. Never build an
+e-mail address from a domain pattern. Prepare a mailbox draft only where e-mail intake is stated;
+otherwise prepare text to paste into the form. Do not send one request to every institution: write
+only where there is a reason to think it holds the record or is the competent reference body. Never
+state a degree of kinship, representative authority, address or signature the user has not given,
+and present family tradition and hypotheses as such, apart from documented facts. When a form
+requires a child's name and the names are unknown, never enter a guessed name, because the archive
+may search only that name. Give the parents, the place and a reasoned period, and ask whether a
+search for the couple's children is possible and on what terms. A negative reply for one name does
+not exclude other children.
+
 ## Find a manuscript collection's holder
 
 For a supported manuscript lead, switch to
@@ -232,6 +249,11 @@ The [research-log views example](https://familylocket.com/rlp-258-saving-views-o
 demonstrates filtering next steps and grouping them by repository. These are companion
 views of the log, not replacement search results or a requirement to use Airtable.
 
+In a next-steps list, mark each proposed source's access as checked, with date and URL, or as
+unverified. Never state from memory that a series is online, for example that a village's 1858
+revision lists are online. Say what each step would settle and what it depends on, and give cost
+or turnaround only when known.
+
 ## Compare one family across named censuses
 
 An optional grid can place people on rows and selected census years on columns, with each
@@ -254,6 +276,21 @@ without imposing an additional approval process.
 State the person and question, list the records inspected, and explain which observations
 support or contradict each proposed identity, movement or locality. Refer to the document
 numbers and citations so another researcher can retrace the analysis.
+
+Give the summary, captions, chart and "how we are related" chain the same qualifier as the body,
+and never a higher status than the working notes: a front page saying "fought in WWI" over a
+chapter saying "almost certainly" fails this. Give each parent-child link in the chain its own
+label, the reason the records concern the same person, and the namesakes excluded. For a chart
+that still asserts a disputed link, see
+[evidence and proof judgment](evidence-proof-judgment.md#using-working-hypotheses-without-inheriting-their-assumptions).
+Before handing the report to the family, re-read it as a reader with no context of the case,
+looking for confused names and unexplained terms.
+
+Report sensitive findings neutrally, as documented facts with their sources and no evaluative
+comment. This covers children's birth dates against the parents' marriage-registration date,
+repression, criminal records, and ethnicity or confession. Give the dates and entries; do not
+characterise a birth before the registration date, or a conviction. For an unexpected parentage
+finding, follow the disclosure care in [unknown parentage and WATO](unknown-parentage-wato.md).
 
 If the report may be shared in parts, keep the project name, report version date and page
 N of M on every page. Keep each figure, table and document number with its citation, so an
@@ -283,3 +320,7 @@ and [research-log](https://familylocket.com/rlp-248-rlp-with-dna-10-research-log
 motivate this baseline; a saved log records that phase's scope, not source truth.
 
 Original Kinprove reference, licensed FSL-1.1-MIT.
+
+## Sources
+
+[Source notes and credits](../sources/research-documentation.md).

@@ -50,6 +50,16 @@ Use only collections whose catalogue or description actually covers the place an
 
 "No image found" covers only the surfaces you logged. List undigitized manuscript photographs and on-site-only holdings as unsearched, not as negative results.
 
+## Add family-uploaded memorial portals in former Soviet cases
+
+For a person from the former Soviet Union, memorial portals filled by families are a separate surface for a person photograph. Choose them by case type and search each with its own search:
+
+- **WWII participants:** Бессмертный полк (Immortal Regiment, moypolk.ru), whose veteran stories carry portraits [S8], and Дорога памяти (Road of Memory, 1418museum.ru, formerly foto.pamyat-naroda.ru), a Russian Ministry of Defence project that collects participants' photographs [S9].
+- **Repression victims:** Бессмертный барак (Immortal Barracks, bessmertnybarak.com), which describes itself as collecting documents and photographs of victims [S10].
+- **Deported or dekulakised families:** add local publications from the place of exile, not only from the place of origin.
+
+Log each portal as its own surface. A family caption on a portal is an attribution: record it as in "Record a proposed identification as an attribution" below, and never compare faces.
+
 ## Keep each statement about the image separate
 
 For every candidate image, record these as separate fields:
@@ -73,7 +83,7 @@ Offer a supported identification to the holding institution as a suggested metad
 
 ## Return
 
-- **A coverage log** by repository, collection and surface: photo database, each photographer collection, finding aids, county or society sites. Mark each surface as browsed, searched or not yet searched.
+- **A coverage log** by repository, collection and surface: photo database, each photographer collection, finding aids, county or society sites, memorial portals. Mark each surface as browsed, searched or not yet searched.
 - **Candidate image records**, each with:
   - the stable item locator
   - the original caption and date

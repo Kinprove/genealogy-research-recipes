@@ -1,7 +1,9 @@
 ## Sources (provenance + dates)
 
 > Original Kinprove procedural synthesis. Third-party passages are **not reproduced**. Artifact
-> schemas and the example are original; practitioner procedures are attributed below.
+> schemas and the example are original; practitioner procedures are attributed below. H8–H12
+> and S18 supply the facts in the Canadian consular index, Doukhobor surname and 1939–1945
+> resettlement notes.
 
 - **S1:** Ancestry, *Top Tips for Beginning Jewish Family History Research*, 2013-10-15 —
   [presentation](https://www.youtube.com/watch?v=Pf-olbDbZlY). Destination research, birthplace versus
@@ -79,6 +81,9 @@
   reproduced. Used for reconstructing an unrecognised place name on a German-written passenger list
   by comparing letterforms on the page and German spellings of Slavic sounds; the proposed reading
   is not adopted as confirmed.
+- **S18:** Doukhobor Genealogy, [Ship Passenger Lists](https://doukhobor.org/shiplists/),
+  opened 2026-11-02. Used for: the Doukhobor arrival periods, and patronymics or family nicknames
+  sometimes recorded instead of official surnames.
 - **H1:** U.S. National Archives, [Passenger Arrival Records](https://www.archives.gov/research/immigration/passenger-arrival.html).
 - **H2:** U.S. National Archives, [Naturalization Records](https://www.archives.gov/research/immigration/naturalization).
 - **H3:** Marian L. Smith, [By Way of Canada](https://www.archives.gov/publications/prologue/2000/fall/us-canada-immigration-records-1.html),
@@ -92,6 +97,26 @@
 - **H7:** Library and Archives Canada,
   [Form 30A, Ocean arrivals 1919 to 1924](https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/form-30a-ocean-arrivals-1919-1924.html).
   Form coverage, browsing and the exemption for passengers in transit to the United States.
+- **H8:** Library and Archives Canada,
+  [Immigrants from the Russian Empire, 1898–1922](https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/immigrants-russian-empire.html),
+  opened 2026-11-02. Used for: the name index of the Passport and Identity Papers files of the
+  Russian consulates in Montréal, Vancouver and Halifax, its search filters, and that only this
+  series is digitised.
+- **H9:** Bundesarchiv,
+  [Personen- und Familienforschung](https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/personen-und-familienforschung/),
+  opened 2026-11-02. Used for: EWZ naturalisation records among its holdings, and the signed
+  Benutzungsantrag sent by post or as an emailed scan.
+- **H10:** EHRI portal (USHMM description),
+  [Einwandererzentralstelle Litzmannstadt (R 69)](https://portal.ehri-project.eu/units/us-005578-irn502308),
+  opened 2026-11-02. Used for: the Bundesarchiv record group R 69.
+- **H11:** NARA History Hub,
+  [thread on A3342-EWZ50 application files](https://openhistoryhub.com/t/seeking-information-from-a3342-ewz50-antrage-applications-files/27920),
+  opened 2026-11-02. Used for: NARA staff naming Microfilm Publication A3342 in Record Group 242,
+  not digitised, searched through College Park.
+- **H12:** FamilySearch,
+  [blog post on using the EWZ records](https://www.familysearch.org/blog/en/using-the-ewz-records-for-german-and-eastern-european-research),
+  opened 2026-11-02. Used for: the origin regions of the resettled groups, and FamilySearch
+  holding only part of the series on film.
 
 ## Credits
 

@@ -1,7 +1,7 @@
 ---
 name: genealogy-research-recipes
 description: >-
-  Genealogy/DNA research: unknown parentage and WATO; endogamy, family comparisons, Y/mt/X DNA, phasing, admixture, cross-vendor controls, match outreach; documentary identity, conditional hypotheses, Genealogical Proof Standard and standards audits; archival image/transcript/index coverage, Ukrainian Jewish-list triage, ELIB guides; Jewish-name/OCR searches; Russian-Empire names, registration and emigrant origins; Holocaust testimony; Russian/Soviet military/repression episodes. Workflows for Ancestry, MyHeritage, FamilySearch, JewishGen, HebrewBooks, Beider indexes, 23andMe, FTDNA, GEDmatch, DNA Painter, Newspapers.com, Geni, WikiTree and RootsMagic. U.S., UK, Irish, Polish, Dutch, French, German, Nordic, Hispanic and Russian record recovery: church/civil registers, censuses, court, prison, asylum and school files, land, tax, livestock brands, military, place names, maps, books and manuscripts; Chinese jiapu, Japanese koseki; family photos, papers, Bible registers, oral history. Read the recipe first.
+  Genealogy/DNA research: unknown parentage and WATO; endogamy, family comparisons, Y/mt/X DNA, phasing, admixture, cross-vendor controls, match outreach; documentary identity, conditional hypotheses, GPS and standards audits; archival image/transcript/index coverage, Ukrainian Jewish-list triage, ELIB guides; Jewish-name/OCR searches; Russian-Empire names, registration and emigrant origins; Holocaust testimony; Russian/Soviet military, repression and 1944 deportation records. Workflows for Ancestry, MyHeritage, FamilySearch, JewishGen, HebrewBooks, Beider indexes, 23andMe, FTDNA, GEDmatch, DNA Painter, Newspapers.com, Geni, WikiTree and RootsMagic. U.S., UK, Irish, Polish, Dutch, French, German, Nordic, Hispanic, Russian, Bessarabian and Galician record recovery: church/civil registers, censuses, court, prison, asylum and school files, land, tax, brands, military, place names, maps, books and manuscripts; Chinese jiapu, Japanese koseki; family photos, papers, Bible registers, oral history; GEDCOM export.
 ---
 
 # Genealogy research recipes
@@ -33,6 +33,14 @@ authorship does not require a Kinprove account, connector or scoring engine.
    If permission or disclosure scope is unclear, do not link, transfer or export; keep the
    material local. Apply the consent and redaction rules in
    [AI for DNA research](recipes/ai-for-dna-research.md#verification--privacy-discipline).
+6. For a living person, stay on the family-history question and the materials the user
+   supplied. Do not look up a living person's current address, phone number, workplace,
+   online accounts, movements or finances, and do not trace minors on the web. Do not use
+   people-search or contact-aggregator services to locate living people. Never use leaked
+   or breached data, another person's account or session, or a false pretext. When the
+   question itself concerns a living person (unknown parentage, a planned contact), keep
+   the data to the minimum and stage any contact through
+   [DNA match outreach staging](recipes/dna-match-outreach-staging.md).
 
 ## Recipes
 
@@ -76,7 +84,8 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 - **`recipes/russian-military-repression-record-episodes.md`** — Reconcile WWI/WWII
   and Soviet-repression records as separate dated source episodes.
-  *Use for:* awards versus loss reports, repeated arrests or copied regional entries.
+  *Use for:* awards versus loss reports, repeated arrests or copied regional entries,
+  GWAR and OBD Memorial queries, Russian-front WWI prisoners of war.
   *Core guardrail:* administrative dates and alleged events are distinct; a later
   order does not establish survival and a duplicated index is not independent support.
 
@@ -177,10 +186,11 @@ authorship does not require a Kinprove account, connector or scoring engine.
   registration/residence attribution, use the [Russian-Empire identity recipe](recipes/russian-empire-jewish-identity-attribution.md).
   The U.S. workflows can also be used independently.
 
-- **`recipes/familysearch-practical-record-workflows.md`** — Seventeen FamilySearch operations:
+- **`recipes/familysearch-practical-record-workflows.md`** — Nineteen FamilySearch operations:
   recover Catalog/DGS holdings and image-only records, preserve view-scoped citations,
   refine Full Text/Simple Search, clean up Source Linker attachments and same-name Tree repairs,
-  and share research reports with checked visibility and reader access.
+  share research reports with checked visibility and reader access, recover a missing Memory
+  from an independent copy and record a supported relationship without inventing a parent.
   *Use for:* FamilySearch howtos, Catalog/film/DGS crosswalks, unindexed images, Full Text
   or Simple Search, Source Linker cleanup, profile repair and Source Box reuse.
   *Core guardrail:* inspect actual images and identities; preserve query/view scope;
@@ -474,6 +484,9 @@ and treat its guardrail as a hard limit on your own output.
 - **`recipes/russian-imperial-service-record-recovery.md`** — Recover a pre-1917 official's formulary or service list through the employing institution's fond. *Guardrail:* do not stop at metrical books, revision lists or a military archive; search the employer, provincial and later-employer fonds, not only the first.
 - **`recipes/school-university-record-recovery.md`** — Recover a pupil or student across school, educational-district, parallel-copy, yearbook and later-file layers. *Guardrail:* absence from a compiled or published list does not show that the person never attended.
 - **`recipes/soviet-personal-file-recovery.md`** — Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are lost. *Guardrail:* a negative archive reply is not a dead end; questionnaires and autobiographies are dated self-reports, and catalogue name hits are candidates.
+- **`recipes/bessarabia-moldova-record-routing.md`** — Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis. *Guardrail:* the word "Bessarabia" or today's border does not pick the archive; Ясский уезд is the Bessarabian Bălți district, and a name-index miss in a browse-only collection says nothing.
+- **`recipes/galicia-bukovina-habsburg-record-routing.md`** — Route a Galician or Bukovinian event by date, confession and custodian, and decide the army before searching WWI records. *Guardrail:* start an ethnic Ukrainian villager in Austrian Galicia in Greek Catholic books, not Orthodox ones (add Orthodox books for Lemkos from 1926; Bukovina starts in Orthodox books), and birthplace alone decides neither the army nor where the Grundbuchblatt is kept.
+- **`recipes/chechen-ingush-1944-deportation-records.md`** — Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both names of renamed places and both ends of the exile. *Guardrail:* "the files burned" is not an answer; ask the Chechen custodians and the place of settlement, and treat any online list as a partial list.
 
 ### Censuses, tax, land and property
 
@@ -528,6 +541,7 @@ and treat its guardrail as a hard limit on your own output.
 - **`recipes/admixture-model-run-scope.md`** — Record the run scope of a G25, calculator or qpAdm admixture result before reading it. *Guardrail:* check fit and scope before reading proportions, and never rank runs across calculators.
 - **`recipes/dna-match-outreach-staging.md`** — Stage and draft outreach to a DNA match, a match's account manager or an untested relative. *Guardrail:* when the tester's consent is missing or unclear, prepare only a contact plan and a draft for the tester's own review, and do not choose recipients or send anything. In every case, never announce a suspected relationship, and log silence as silence, not refusal.
 - **`recipes/descendancy-gap-worklist.md`** — Turn "research the descendants" into a ranked list of gaps tied to the records each lifespan crosses. *Guardrail:* an empty tree field leaves the event unresolved; it does not mean the event never happened.
+- **`recipes/gedcom-research-export.md`** — Export research findings to a GEDCOM file, or bring a supplied one into research, without changing what they prove. *Guardrail:* a header version change is not a conversion, each parent link needs its own evidence, and QUAY or a format change neither confirms nor culls a claim.
 
 ## Supporting references
 
