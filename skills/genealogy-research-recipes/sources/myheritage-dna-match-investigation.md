@@ -27,6 +27,11 @@ the additional Q&A was reviewed 2026-10-21.
   first contact with a close match. Workflow 8's minimal private packet is Kinprove synthesis;
   the source's “screenshot everything” advice and causal account of withdrawal are not adopted.
   No actual withdrawn kit, original video or current hide/delete mechanism was verified.
+- MyHeritage, [Ask The Expert - Exploring Your Family Tree Timeline on MyHeritage](https://www.youtube.com/watch?v=0TUlka43n2I),
+  published 2022-04-26 — the recipe calls this a 2022 Q&A and uses its question about replacing
+  the linked tree, which workflow 1's "Before replacing the whole linked tree" preflight addresses.
+  The old/new kit-profile crosswalk and post-change link check are Kinprove synthesis. The recipe
+  takes no guarantee from this source that replacing a tree preserves links or deleted theories.
 
 ## Credits
 

@@ -25,6 +25,11 @@ Additional Group Time Tree sources:
 - **S6:** FamilyTreeDNA, [The Group Time Tree: A New Big Y Tool for FamilyTreeDNA Group Projects](https://blog.familytreedna.com/group-time-tree/), 2023-02-15.
 - **S7:** Roberta Estes, [Project Administrators: How to Prepare Your Project for FamilyTreeDNA's New Group Time Tree](https://dna-explained.com/2023/01/17/project-administrators-how-to-prepare-your-project-for-familytreednas-new-group-time-tree/), 2023-01-17.
 - **S8:** Roberta Estes, [Sneak Preview: Introducing the FamilyTreeDNA Group Time Tree](https://dna-explained.com/2023/01/13/sneak-preview-introducing-the-familytreedna-group-time-tree/), 2023-01-13.
+- **S20:** Roberta Estes, [Y-DNA Haplogroup O – When and How Did It Get to the Americas?](https://dna-explained.com/2023/10/18/y-dna-haplogroup-o-when-and-how-did-it-get-to-the-americas/), DNAeXplained, 2023-10-18.
+  Used as the example of a handoff from a selected project view to a broader tested-tree
+  branch view. Recording each view's own branch, population and selection, and the limit that
+  modern earliest-ancestor places plus node ages do not establish a historical ancestor's
+  location, migration or identity, are Kinprove synthesis.
 - **H8:** FamilyTreeDNA Help, [Setting Project Preferences](https://help.familytreedna.com/hc/en-us/articles/4401855065743-Setting-Project-Preferences), checked 2026-10-07.
 
 Additional Matrix sources:
@@ -88,6 +93,24 @@ Additional combined-test scope source:
   Advanced Matching intersection. The test-to-kit crosswalk and unavailable-query status are
   authored controls. No signed-in query, current merge/transfer policy, purchase or upload
   was verified; a match across tests does not identify a single ancestral path.
+
+Additional kit-continuity, map-view and comparison examples:
+
+- **S21:** Roberta Estes, [FamilyTreeDNA 2023 Update – Past, Present and Future](https://dna-explained.com/2023/12/11/familytreedna-2023-update-past-present-and-future/), DNAeXplained, 2023-12-11.
+  Motivates distinguishing present access from a recorded kit manager and a separately
+  recorded beneficiary in a kit-continuity handoff. Leaving missing or unconfirmed
+  designations unresolved is Kinprove synthesis. No current forms, legal effect or continuing
+  access is established.
+- **S22:** Roberta Estes, [Globetrekker™ – A New Feature for Big Y Customers From FamilyTreeDNA](https://dna-explained.com/2023/08/04/globetrekker-a-new-feature-for-big-y-customers-from-familytreedna/), DNAeXplained, 2023-08-04.
+  Dated map-view example motivating the check of the requested node against the node
+  actually displayed, including an upstream substitute and an earlier node covered by a later
+  co-located marker. The artifact fields and the unavailable-view status are Kinprove
+  synthesis. No current controls are promised and the model is not validated.
+- **S23:** Roberta Estes, [New Discover Tool – Compare Haplogroups & More at FamilyTreeDNA](https://dna-explained.com/2023/10/11/new-discover-tool-compare-haplogroups-more-at-familytreedna/), DNAeXplained, 2023-10-11.
+  Dated comparison example motivating the crosswalk between the two supplied labels and the
+  displayed reference. Preserving conflicting labels and keeping the observed joining node and
+  paths separate from shared study, celebrity or geographical categories are Kinprove
+  synthesis. No current controls, colours or access are promised.
 
 ## Credits
 
