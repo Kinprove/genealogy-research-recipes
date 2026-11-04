@@ -32,6 +32,11 @@ the additional Q&A was reviewed 2026-10-21.
   the linked tree, which workflow 1's "Before replacing the whole linked tree" preflight addresses.
   The old/new kit-profile crosswalk and post-change link check are Kinprove synthesis. The recipe
   takes no guarantee from this source that replacing a tree preserves links or deleted theories.
+- [Part Two: MyHeritage DNA Theories of Family Relativity](https://www.legacytree.com/blog/myheritage-dna-theories-of-family-relativity)
+  (Legacy Tree Genealogists, 2023-06-02) — Rights: cited reference, not reproduced. Used for a
+  proposed theory path not necessarily being the source of the shared DNA, and for shared matches
+  and AutoClusters as checks. Extending the caution from a vendor-proposed path to a fully
+  documented one, and the `unresolved` default, are Kinprove synthesis.
 
 ## Credits
 

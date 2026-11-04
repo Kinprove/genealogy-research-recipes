@@ -17,7 +17,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## Version and updates
 
-This copy is version 1.7.2, released 2026-11-03.
+This copy is version 1.8.0, released 2026-11-04.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
@@ -132,8 +132,9 @@ today's date. Do not check for a newer version over the network yourself.
 
 - **`recipes/city-directory-observation-workflow.md`** — Build a comparable series
   of city-directory names, addresses and occupations from checked editions and sections.
-  *Use for:* surrounding locality sections, abbreviation keys, index errors,
-  address/occupation changes or a person missing from one directory edition.
+  *Use for:* a known address with unknown names, surrounding locality sections,
+  abbreviation keys, index errors, address/occupation changes or a person missing
+  from one directory edition.
   *Core guardrail:* separate unavailable and uninspected editions from inspected
   sections with no hit; a gap does not establish a move, death or identity.
 
@@ -464,6 +465,7 @@ and treat its guardrail as a hard limit on your own output.
 - **`recipes/catholic-parish-diocesan-record-recovery.md`** — Build a holdings register for a Catholic sacrament across the parish, alternative parishes, the diocesan copy, the successor custodian, dispensation files and Puerto Rican probanzas de soltería. *Guardrail:* one failed parish search or online collection does not show that the entry never existed or that the register was lost.
 - **`recipes/catholic-sacramental-cross-notations.md`** — Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish. *Guardrail:* indexes drop the baptism-place statement and the later marriage note, so read the original page in both directions.
 - **`recipes/hispanic-catholic-register-recovery.md`** — Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers. *Guardrail:* select the parish, not the town, search every surname arrangement, and never copy a baptism date into the birth field.
+- **`recipes/portuguese-parish-civil-register-recovery.md`** — Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books or the civil register. *Guardrail:* do not treat Portuguese records like Spanish or Hispanic ones: choose the register by date and religion, find which archive holds the book before calling it missing, and do not read the first surname as the father's.
 - **`recipes/french-canadian-register-recovery.md`** — Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts. *Guardrail:* do not call the person absent until the French-Canadian name forms are exhausted.
 - **`recipes/french-belgian-civil-act-extraction.md`** — Extract French or Belgian civil acts, trace French marginal continuations and separately maintained copies, and check Paris reconstructions when the original series is unavailable. *Guardrail:* bind each annotation to its subject and copy; keep record and event dates apart, and convert Republican dates with a tool, never by arithmetic.
 - **`recipes/dutch-civil-church-record-recovery.md`** — Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian agreements; search burial/fee entries under the household head and trace pre-1811 church registers. *Guardrail:* an index miss is not absence, and a father, death date or sibling set from a compiled tree needs the original entries.

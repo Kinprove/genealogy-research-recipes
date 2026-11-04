@@ -25,8 +25,10 @@ The national start years in step 5 have been checked against FamilySearch. Compl
 ## 1. Select the parish, not the town
 
 - **A town lead is not a register selection.** A larger town or city has many parishes, so the town alone does not tell you which books to search. One presenter puts the number as high as a hundred in a larger town or city [S4]. Ask relatives which church the family used for baptisms and marriages, and record that answer as its own lead [S4].
+- **A large city can also have several civil registry offices.** Havana and Santiago de Cuba have many parishes and municipal districts [S13]. Cuban records are held by the individual church or by the regional civil registry office, and one original Havana entry came from the Registro Civil of Norte de La Habana [S13]. Identify the registry district as well as the parish, and record both.
 - **Parish and municipality boundaries differ.** One parish can cover several municipalities, and one municipality can contain several parishes [S1].
 - **The FamilySearch Catalog can list a parish and a municipality under the same place name.** The presenter's example reads the first entry as the parish and the second as the municipality [S1]. Open each entry's record list. Do not stop at the first match.
+- **Catholic marriage records can sit in two Catalog series.** The Catalog usually lists them under Matrimonios and Información matrimonial [S14]. Search both when the parish has both, and record which series supplied each entry.
 - **A small chapel visited by a priest normally kept no books.** If no parish appears for a small town, go up one level to the municipality and search its parish seat [S6].
 - **Records can move when a parish changes.** When a family vanishes from a parish's books, check whether the parish closed, a new parish was founded, or the books were transferred. The people may have stayed put while their records moved [S1]. Follow the books before you infer that the family migrated.
 
@@ -44,6 +46,12 @@ Extract each field separately [S10], [S2]:
   - A note can record a later death [S10]. Treat it as its own event and as a lead to the burial record.
   - A note can record a later marriage with its date, place and spouse. The priest added it when the baptism was checked before the marriage [S9]. Treat it the same way: its own event, and a lead to the marriage record.
 - **Other fields:** parents, their origin and residence, godparents, and any occupation or residence that separates same-named men [S2], [S10].
+- **Grandparents:** an entry can also name the paternal and maternal grandparents. Extract each one as its own field, marked paternal or maternal, with any birthplace or residence given. Each named grandparent takes the line up a generation [S15]; use them to target the parents' baptisms and marriage. Not every entry names them, and how often they appear varies:
+  - Cuban civil and church entries follow the Spanish model and almost always name the grandparents, often with each one's birthplace [S13].
+  - One source says baptisms often name both sets from the 19th century on [S16].
+  - One researcher finds that Mexican civil births of legitimate children often name both sets, while the entries for two natural children named no other family [S17].
+
+  Do not read a missing grandparent line as a wrong match. When a civil birth names no grandparents, search the baptism, which can also carry lineage [S17]. A transcribed certificate kept by the family can leave out the grandparents' birthplaces that the original entry gives [S13]; obtain the original register entry before you record a field as absent. If the direct ancestor's marriage cannot be found, search a full sibling's records, which name the same parents [S15].
 
 For machine- or AI-indexed versions of these entries, use the correct-and-verify loop in the AI-for-documentary-records recipe.
 
@@ -55,8 +63,10 @@ For machine- or AI-indexed versions of these entries, use the correct-and-verify
   - the paternal surname
   - the maternal surname
   - the full compound, with and without the joining y/e [S2]
+  - the two surnames hyphenated or joined into one word, forms some immigrants adopted in the United States [S18]
 
   A U.S. record may have dropped one surname [S2]. Record every ordering searched and its result.
+- **Immigrants appear under a Spanish form of their name.** In one Puerto Rican marriage record, a couple from the French Caribbean are cited with Spanish forms of their given names [S19]. Another immigrant to Puerto Rico took the Spanish form of his middle name as his given name and his mother's surname as his second surname [S20]. Search the Spanish form and the two-surname pattern as well as the birth name. Keep each form as its own observation in the name register.
 - **When the index fails, browse the images.** Compound surnames make Latin American indexes unreliable: an indexer has to pick one surname, and people who did not follow the standard pattern get lost [S2]. Browse the chronological registers by place and date [S2], [S4]. A zero-result index query is not an absence finding.
 
 ## 4. Keep each date in its own role
@@ -74,9 +84,13 @@ For machine- or AI-indexed versions of these entries, use the correct-and-verify
   - Mexico: civil registration was required from 1859 but not strictly enforced until 1867, and compliance was incomplete even after that (FamilySearch) [S1].
   - Chile: civil registers begin in 1885 [S10].
   - Puerto Rico: civil registration began in 1885, though a few municipalities started earlier [S10].
+  - Any other country: take the start year from the FamilySearch Wiki page "Civil Registration in Latin America" [S21]. Start years differ widely: the Dominican Republic began in 1828 and Bolivia not until 1940 [S21]. Do not assume a late-19th-century start.
 
   Before the start year, rely on the parish books [S10]. After it, a missing civil entry in a given municipality may be a compliance gap, so keep searching the parish books.
 - **Build a paired event table.** Each row holds the event, the record type, the date role and the locator. A civil entry and a church entry for the same event stay as two rows.
+- **Deaths: get both records.** Search the civil death register as well as the burial book. The civil entry can give the cause of death and name the informant, who may be a relative [S21].
+- **One Mexican marriage can leave several entries with different dates.** Once civil registration was in force, a marriage is often found in both the civil and the church register, usually on different dates [S22]. The civil entry is often the earlier, but the church entry is occasionally earlier [S22]. Different dates mark different stages, not a conflict or a second couple. Do not reject a church entry because it predates the civil act.
+- **A Mexican civil register can hold more than one act for one couple.** The 1859 civil-marriage law set out the steps: a declaration of intention before the registrar, a public notice posted for 15 days, then the marriage act [S22]. Search back from the marriage act for the declaration. In one worked example the declaration, an appointment to marry and the marriage were three numbered acts. The declaration came 24 days before the marriage and gave each party's parents, age, residence and marital status, with two witnesses for each; the church marriage followed days later [S22]. Search for every act and give each its own row and date role.
 
 ## 6. Sweep the family from a confirmed anchor
 
@@ -85,6 +99,7 @@ For machine- or AI-indexed versions of these entries, use the correct-and-verify
 - **A long gap between children is only a prompt.** The presenter gives a four- to eight-year gap as a reason to search for a missing child [S10]. Do not record a gap as evidence of anything.
 - **Godparents can be grandparents, as a hypothesis.** One presenter says godparents were often the grandparents [S3]. Hold that as a hypothesis to test against marriages and baptisms. Witnesses at a marriage are often relatives [S10].
 - **Same-surname spouses.** If bride and groom share surnames, they may have been cousins who needed a dispensation. Dispensations are held at the diocesan level [S10].
+- **Check the pre-marriage investigation file.** The Información matrimonial series (step 1) holds the pre-marriage investigations into canonical impediments [S21]. When the marriage entry leaves out a birthplace, an age or the parents, search those files [S21]. Do not assume they are indexed: browse the images page by page [S21]. A failed index search does not cover them.
 - **If the person disappears, check in turn** [S10]:
   - baptism margins and burials for a death within a few years
   - a marriage under a changed name
@@ -92,6 +107,7 @@ For machine- or AI-indexed versions of these entries, use the correct-and-verify
   - the priesthood or religious vows
 
   Also work backward from a burial to the marriage or the children's baptisms [S10]. For burial-record handling, use the [burial evidence packet](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/burial-evidence-packet.md).
+- **A death entry can point to a will.** In Puerto Rico a death entry can name the notary, the filing date and the executors of a will; the source finds this mostly in civil death records and occasionally in church ones [S19]. Record the notary and the date as the lead to the will. The source points to the Last Wills and Testaments series at the Archivo General de Puerto Rico in San Juan [S19]. Read the death entry for this note before you conclude that no will exists.
 
 ## 7. Check the diocesan copy before calling an entry missing
 
@@ -105,7 +121,7 @@ For machine- or AI-indexed versions of these entries, use the correct-and-verify
 
 Return:
 
-- **Entry extraction:** the literal margin name, legitimacy term, baptism date, any stated birth date, margin notes and priest, each in its own field.
+- **Entry extraction:** the literal margin name, legitimacy term, baptism date, any stated birth date, margin notes, priest and any named grandparents (marked paternal or maternal), each in its own field.
 - **Name register:** the baptismal and everyday forms and every surname ordering searched.
 - **Paired civil/church event table:** with the date role of each entry.
 - **Sweep log:** each search tied to the anchor entry, with its date range.

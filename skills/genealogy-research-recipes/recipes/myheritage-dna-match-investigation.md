@@ -183,6 +183,12 @@ this check without verifying its branch assignments.
 4. Compare the proposed relationship with the observed DNA using the judgment recipe; do not
    replace a missing record with the theory's displayed confidence. An unresolved connection
    leaves that path provisional; inspect alternative paths separately.
+   A path with every connection `supported` still does not show that the shared DNA came through
+   it; the DNA may come from another line, as a
+   [Legacy Tree review of these theories](https://www.legacytree.com/blog/myheritage-dna-theories-of-family-relativity)
+   notes. Test the line against the match's shared matches and its AutoClusters cluster (run
+   through the companion clustering procedure), looking for relatives documented to the proposed
+   couple. Without that support, record the DNA source as unresolved.
 5. Confirm or reject only after review. Save the reason in the packet. Confirmation tracks your
    assessment; it neither supplies documentary proof nor automatically updates the family tree.
    No theory means no generated suggestion currently visible, not no biological relationship.

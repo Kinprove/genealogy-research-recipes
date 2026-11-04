@@ -112,6 +112,17 @@ Use the [Distinct Segment Generator](https://dnapainter.com/tools/dsg) when seve
 
 **Artifact:** labeled source tables, distinct intervals and a prioritization note. **Checkpoint:** no relationship or ancestral-genome coverage claim is inferred solely from the union total.
 
+Treat the union total as a minimum for what the untested ancestor shared with the target
+match only if every interval came through that ancestor and no other path connects the
+testers and the target. If you divide the union by a Coverage Estimator percentage
+(workflow 6), compute that percentage for exactly the testers whose comparisons formed the
+union. Label the quotient a modeled estimate and keep it beside the observed union; a low
+percentage magnifies every error in the union. A Shared cM Project lookup from that
+estimate is a hypothesis for tree research. The 2022 Legacy Tree article ranks this
+estimate as stronger evidence of the relationship than any single tester's pairwise
+amount; that ranking is not adopted here, because the quotient carries the coverage
+figure's uncertainty while the pairwise amounts are measured. [S25]
+
 ## 6. Plan the next descendant's test with the Coverage Estimator
 
 Use the [Coverage Estimator](https://dnapainter.com/tools/coverage) for a different question: how much of an ancestor's autosomal DNA is expected to be represented by tested descendants? It takes a descendancy tree and tester marks, not a segment union. [S9, H4]
@@ -119,7 +130,7 @@ Use the [Coverage Estimator](https://dnapainter.com/tools/coverage) for a differ
 1. Start a tree with the ancestor as root; add the documented descendants or import a GEDCOM and select that ancestor. Back up an existing tree before GEDCOM import, which replaces its contents.
 2. Mark the descendants whose tests you can use. Check every tester's descent paths to the root: a tester related to the root more than once must appear on each documented path and be marked as tested at each occurrence. These are occurrences of the same tester, not additional independent tests. Record database access; realizing the full represented coverage requires access to the tests in the same database. A mixed-database tree is not automatically an accessible combined research dataset. [H4]
 3. Mark deceased people and known testing willingness. Note the current estimate, request next-tester suggestions and compare feasible candidates. Suggestions exclude people marked willing as well as unwilling, so compare willing candidates manually too. A tested child of an already-tested parent does not add coverage in this model. [S9]
-4. Record the proposed tester and expected change, then compare feasibility with the research question. This is a planning estimate based on typical inheritance; actual inherited DNA can differ. [S9]
+4. Record the proposed tester, the request the suggestion implies and the expected change, then compare feasibility with the research question. A suggested descendant may already have tested in another database or without sharing results with you; for that person the suggestion calls for access to the result or, where the research database accepts uploads, a transfer, not automatically a new test. This is a planning estimate based on typical inheritance; actual inherited DNA can differ. [S9, S25]
 5. Save to the account where available and download the Coverage tree text file as a recoverable artifact. A browser-local tree can disappear when browser data is cleared. [H4]
 
 **Artifact:** descendant tree, accessible-tester inventory, saved tree file and next-test decision. **Checkpoint:** the displayed percentage remains an estimate; the tree and available tests are checked before interpreting lack of useful matches as evidence against the ancestral hypothesis.
@@ -234,12 +245,26 @@ Use the available Shared cM Project view to inspect a reported amount against a 
 relationship's reference observations. Preserve the tester pair, provider, date, total
 definition and displayed project version. These totals do not supply painting coordinates.
 
+Where the view also shows relationship probabilities, record the basis it states for them;
+if none is stated, record the basis as unknown. A basis drawn from AncestryDNA simulations
+or probabilities fits Ancestry's Timber-weighted totals most directly. On 2026-10-23
+DNA Painter's Shared cM Project tool credited its probabilities to "stats from The DNA
+Geek"; the 2024 Legacy Tree article traces those to AncestryDNA's white paper. Before
+using such a probability with another company's total, state that mismatch in the note;
+do not present the figure as calibrated for that company. [S26, H5]
+
 1. Open the histogram for a relationship being considered and retain the entered cM,
    bin and displayed number of submissions. A value inside the published range does
    not establish the relationship. Where percentages below and above the entered value
    are shown, record which relationship's distribution they describe. The August 2022
    tutorial uses approximate interpolation within histogram bins; these percentages
    are not probabilities that one relationship is true rather than another. [S23]
+
+   In the probability table, a probability given for a group of genetically equivalent
+   relationships belongs to the whole group: do not report it as the chance of one label
+   in that group, such as second cousin when the group also holds first cousin twice
+   removed. The histograms are per relationship and come from separate reference data;
+   keep the two outputs apart. [S26]
 2. For an available two-value view, identify both measured tester–match pairs first.
    Check that the two testers have the same genealogical relationship to the match
    under the hypothesis being examined. Full siblings are the tutorial's starting
