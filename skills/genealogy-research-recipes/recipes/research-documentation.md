@@ -187,6 +187,15 @@ if only the index can be inspected, preserve its pointer and leave the document 
 The [onsite-trip example](https://familylocket.com/how-to-prepare-for-an-onsite-genealogy-research-trip/)
 motivates this distinction without establishing a repository's current policy or permission.
 
+For the cotes already on the visit worklist, check the target archive's current per-order and
+daily request limits, where applicable, and when requests are collected and documents delivered.
+Prioritize the cotes within that capacity and retrieval schedule, allowing time to examine each
+item; leave work exceeding the day's capacity queued. Keep each cote attached to its notes and
+saved images through the permitted capture route. The
+[departmental-archive visit tutorial](https://www.youtube.com/watch?v=nveyeh3OT1k) describes local
+request limits and retrieval rounds. It motivates this capacity check; do not copy its example
+numbers or assume the whole worklist can be retrieved in one day.
+
 For a written record request, state the person or event, known dates and places, available
 locator, and desired delivery form. If an image of the entry is needed, request a reproduction
 of the original explicitly; distinguish the image, transcription or certified extract actually

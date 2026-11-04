@@ -143,6 +143,14 @@ are used.
   comparison, exception record and regeneration controls. Limits: no new video inspection or
   current Heredis interface or export behavior was verified; the example does not establish
   list completeness or measured benefit. Third-party material is cited, not reproduced.
+- S35. Généalogie Archives & Culture, "La première visite aux archives départementales 3/3",
+  YouTube video in French, 2026-04-17, <https://www.youtube.com/watch?v=nveyeh3OT1k>. Used for:
+  historical saved-transcript examples of local request limits, retrieval rounds and keeping the
+  cote with notes or photographs. Kinprove synthesis: checking the target archive's actual request
+  capacity and scheduling the visit worklist within it, while retaining the existing capture
+  controls. Limits: no new video inspection was performed; current archive rules, permissions
+  and service quality remain unverified. The example does not establish universal numerical
+  limits or measured benefit. Third-party material is cited, not reproduced.
 
 ## Credits
 
