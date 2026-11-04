@@ -143,6 +143,30 @@ publisher holds the source or that a retrieved web item is the archival original
 - **DNA + paper as one proof.** Document each test-taker's parent-child chain to the common ancestor **before** using the match as evidence; require the documented descent path and the genetic sharing to **converge on the same hypothesis** before the match counts as proof. (Match selection, clustering, coverage across independent descendant lines, and triangulation belong to **unknown-parentage-wato** — route them there, don't re-derive them here.) (Why Document DNA Links; How Many Matches; Coverage; Using DNA Source Citations; RLP 409)
 - **Test a famous or gateway link from the documented end.** First find where the documentation starts. If sources appear only from the noble or gateway generation upward, the connection is unproven: verify each generation from the researcher upward. Watch for same-name ocean crossings, overlapping marriages and geographic leaps, and record a published pedigree's provenance. Check that the famous person left surviving children, and join a line only at a person a documented descendancy actually names. Convert a claimed cousin degree into the shared ancestors it implies and use them as a search guide; rule out slots by dates, then recompute the degree from the joined tree. When trees attach an ancestor to a progenitor because of a rare given name, list the progenitor's same-named descendants and compare their children with men documented locally. Motivating examples: [gateway](https://www.youtube.com/watch?v=mbDqe9rXWx4), [famous ancestor](https://www.youtube.com/watch?v=qG2YD76a3gk), [Truman](https://www.youtube.com/watch?v=Gdyo3ORfPk4), [Tecumseh](https://www.youtube.com/watch?v=jjknGUtMs7s), [rare name](https://www.youtube.com/watch?v=v3x23zLGi04). A compiled descendancy is a source to evaluate. A claim that has not been excluded is still unproved, and a shared rare name proves no link.
 
+### Preserve candidate-generation settings and different-person decisions
+
+Before reviewing possible duplicate people in a genealogy file, record the
+candidate-generator settings: name agreement, whether parental names are
+required, exact dates or years versus a justified date window, and the event
+fields being compared. A requirement for parental agreement can hide a person
+whose parents are absent. Exact dates can hide an otherwise plausible pair
+when one entry records a baptism or has lower date precision.
+
+Run complementary settings when those omissions are plausible. Retain the
+settings and which pairs each pass admitted; inspect examples excluded by the
+restrictive pass. Preserve birth and baptism as different event roles, and keep
+uncertain dates uncertain. An empty candidate list describes the chosen
+settings, not proof that the file contains no duplicates.
+
+For each pair, retain stable person identifiers, the criteria that produced it,
+source-linked family/event context, and a decision of duplicate, different
+people, or unresolved with reasons. Preserve explicit different-person
+decisions in the application's supported control or a separate pair ledger;
+review them separately when relevant new evidence appears. A matching name or
+date is a candidate, not an identity conclusion. Compare parents, partners,
+children, places and records before proposing a merge; keep unresolved pairs
+separate. Contextual review cannot recover pairs excluded before review.
+
 ## Worked mini-examples (the reasoning logic)
 
 - **Two-way descriptor sort splits and unifies at once (Dewitt).** Sorting a 40+-column spreadsheet of "David Dewitt" *and* "Henry Dewitt" records simultaneously **split** two men named David (two distinct signatures on an 1833 petition) **and unified** "Maryland Henry" with "Ohio Henry" — Maryland Henry vanished from Maryland tax records in 1815–1816, Ohio Henry bought Holmes County land on 26 May 1815 — as one man, David's father. The name carried zero discriminating power; the descriptor pattern carried all of it. (From Chaos to Clarity)

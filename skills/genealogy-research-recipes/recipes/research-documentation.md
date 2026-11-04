@@ -249,6 +249,25 @@ The [research-log views example](https://familylocket.com/rlp-258-saving-views-o
 demonstrates filtering next steps and grouping them by repository. These are companion
 views of the log, not replacement search results or a requirement to use Airtable.
 
+### Reconcile every task before producing an archive visit list
+
+For each event task, retain the person/event identifier, target record, archive
+or custodian, locator or clue, project, entered research status, and the actual
+searched scope and result. Keep the evidence and task status separate: a status
+such as complete or unfindable does not prove source exhaustion.
+
+Before planning a visit, save an all-status inventory and the needed/in-progress
+work list for the same project, people, events and snapshot. Compare task
+identifiers, not just row counts. For every task present only in the all-status
+inventory, record its status and whether its omission is intentional. Check
+tasks left at a default such as no research needed even when their target and
+archive fields are populated.
+
+Correct an erroneous status with a reason, then regenerate and reconcile the
+work list. Preserve intentional exclusions and unresolved exceptions. The
+visit list should link back to the complete inventory and show which settings
+produced it. A nonempty action list by itself does not establish completeness.
+
 In a next-steps list, mark each proposed source's access as checked, with date and URL, or as
 unverified. Never state from memory that a series is online, for example that a village's 1858
 revision lists are online. Say what each step would settle and what it depends on, and give cost
