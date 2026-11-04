@@ -252,8 +252,9 @@ the relevant workflow. Community references:
 55. Die Maus, Gesellschaft für Familienforschung, Bremen, *Passagierlisten*
     (passenger lists) database page, opened 4 November 2026.
     <https://www.public-juling.de/passagierlisten/?lang=en>
-    Used for the count of about 3,000 surviving Bremen lists for 1920–1939, all
-    other lists being lost.
+    Used for the count of about 3,000 surviving Bremen original lists for
+    1920–1939, and the surviving statistical copies of the 1907/08 and 1913/14
+    lists.
 
 ## Credits
 

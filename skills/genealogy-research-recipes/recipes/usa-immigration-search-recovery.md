@@ -199,10 +199,9 @@ searching:
 
 - **Hamburg:** the Staatsarchiv Hamburg holds 555 volumes of emigrant lists,
   1850–1934, also searchable on Ancestry.[49]
-- **Bremen:** the lists were almost all destroyed. About 3,000 survive for
-  1920–1939, plus fragments for 1907/08, of which only about 16% of the lists
-  remain.[50,55] Treat a Bremen miss outside those years as expected, not as a
-  negative.
+- **Bremen:** most original lists were destroyed. About 3,000 survive for
+  1920–1939, and copies made for statistics survive for 1907/08 (only about 16%
+  of those lists) and 1913/14.[50,55]
 - **Rotterdam:** the Stadsarchief Rotterdam holds the Holland America Line
   passenger lists with a name search. The index names only the person who made
   the booking, often with an initial for the first name, so search the person

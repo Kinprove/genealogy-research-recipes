@@ -19,12 +19,12 @@ The presenter said he found most of the chain on Findmypast, with other items fr
 
 ## Route the colonial stages by the receiving colony
 
-The series named in stages 5 to 8 are New South Wales series. Fix the receiving colony from the ship, the trial report or the colonial record you hold, and route the colonial rows by it:
+Stages 5 to 8 name New South Wales series; only the stage 7 pardons collection also covers Tasmania. Fix the receiving colony from the ship, the trial report or the colonial record you hold, and route the colonial rows by it:
 
 - **Van Diemen's Land (Tasmania), from 1803** [S5]. Libraries Tasmania holds the conduct registers (CON31, CON40), indents (CON14 to CON16) and description lists (CON18, CON19) [S6]. Search the person by name in the Tasmanian Names Index, whose convict records cover people transported to Tasmania and people convicted locally, and which also indexes convict permissions to marry [S5].
 - **Western Australia, June 1850 to January 1868.** The State Records Office of Western Australia holds the convict registers and character books, ticket-of-leave, expiree and reconviction registers, medical records and correspondence [S7].
 
-A miss in NSW series says nothing about a Tasmanian or Western Australian convict. Record which colony's series each search covered.
+A miss in a NSW-only series says nothing about a Tasmanian or Western Australian convict. Record which colony's series each search covered.
 
 ## Keep each stage's date role and what it proves
 
