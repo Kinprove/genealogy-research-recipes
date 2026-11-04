@@ -141,10 +141,10 @@ For general FamilySearch jurisdiction and missed-person recovery, use
     likely to be unregistered [S15]. Entries can be misindexed or indexed under another form of
     the forename [S20], or under the mother's surname. Report the windows actually searched.
 5. Check the GRO online index's range before a sweep. It covers births 1837–1934 and deaths
-    1837–1957, then both again from 1984 to about two years ago, so it has no entries for births
-    1935–1983 or deaths 1958–1983, and it has no marriage index [S24]. The range moves; read the
-    current one on the GRO site. For those gaps and for every marriage, use FreeBMD or another
-    copy of the quarterly index.
+    1837–1957, then both again from 1984 to a recent year, so it has no entries for births 1935–1983 or
+    deaths 1958–1983, and it has no marriage index [S24]. Read the current end year on the GRO
+    site. For those gaps and for every marriage, use FreeBMD or another copy of the quarterly
+    index.
 6. Before calling a miss final, search the local register-office index for the district,
     reached through the UKBMD county pages. Local indexes are transcribed from the district's own
     registers, not from the GRO copies, so they can hold entries that are missing or misindexed in

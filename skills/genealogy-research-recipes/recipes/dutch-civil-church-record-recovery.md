@@ -70,7 +70,7 @@ After the bevolkingsregisters (population registers), many municipalities kept g
 - **Death between 1939 and 1 October 1994:** the CBG holds the persoonskaart of almost everyone who died while registered in a Dutch municipality. [S11]
 - **Death after 1 October 1994:** the CBG holds the persoonslijst (personal record list). [S11]
 - **Where to ask:** request an extract from the CBG, not the regional archive. The cards and lists cannot be searched online. [S11]
-- **Gaps:** for a death between 1939 and 1 October 1994, a person who had emigrated is not in this register. A Dutch national who died abroad after 1 October 1994 can be in it as a non-resident registration, even after emigrating; those lists can be incomplete. Cards created around 1939 may be incomplete. Grown children who had already left home in 1939 are often missing from their parents' card. [S11]
+- **Gaps:** for a death between 1939 and 1 October 1994, a person who had emigrated is not in this register. A Dutch national who died abroad after 1 October 1994 can be in it as a non-resident registration, even after emigrating; a miss in those lists is not a negative. Grown children who had already left home in 1939 are often missing from their parents' card. [S11]
 
 ## Return a recovery packet
 

@@ -91,7 +91,7 @@ For the Akta Stanu Cywilnego (ASC, the civil-status registers kept by each confe
 Katowice describes, the duplicates went to the competent local courts from the early nineteenth
 century, and the state archive now holds them. [O14] Record which copy an
 image or index row comes from. Before you call an entry unreadable or unannotated, look for the
-other copy, which may sit with a different custodian.
+other copy and record its custodian.
 
 Do not infer the parish's location from the city of the holding archive. A [Polish
 archive-holdings discussion](https://forum.j-roots.info/viewtopic.php?f=165&t=470) shows that a
@@ -153,9 +153,8 @@ threshold, so confirm current custody rules and the office's actual holdings rat
 a cutoff year. [C2]
 
 For a Congress Poland (Kingdom of Poland) civil-registration register, expect Polish entries until the end of 1867.
-A regulation required Russian from 1 January 1868, but many parishes made the change late, so
-read the language of each year's entries and its index rather than assuming the switch came
-exactly in 1868. Do not expect a Latin-to-Russian switch in these registers. [P8], [P9] Use the year's language to choose the search spelling
+A regulation required Russian from 1 January 1868, so expect Russian from 1868 and confirm it
+from the language of each transition year's entries and its index. Do not expect a Latin-to-Russian switch in these registers. [P8], [P9] Use the year's language to choose the search spelling
 and to judge whether a Cyrillic or index spelling re-transliterates a Polish original.
 
 When preparing the request, give the surname in both Polish and Russian (Cyrillic) forms. List the
