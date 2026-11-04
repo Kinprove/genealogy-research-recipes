@@ -75,8 +75,8 @@
 - **S71:** FamilySearch Innovate, *Download your family tree*, opened 2026-11-04 — [source](https://familysearch.org/innovate/export). Used for: GEDCOM export being no longer supported through that resource, with users sent to compatible Family Tree Management Apps in the Solutions Gallery.
 - **S72:** FamilySearch, *App Approval Considerations*, opened 2026-11-04 — [source](https://www.familysearch.org/innovate/app-approval-considerations). Used for: the API being closed to the general public, and solutions that simply copy data out of FamilySearch possibly not being approved.
 - **S73:** FamilySearch Developers, *Compatibility Review Process*, opened 2026-11-04 — [source](https://developers.familysearch.org/main/docs/compatibility-review-process). Used for: the review required for a beta or production key, and the agreements to sign.
-- **S74:** RootsMagic, *FamilySearch Central* (RootsMagic 9 help), opened 2026-11-04 — [source](https://help.rootsmagic.com/RM9/familysearch-central.html). Used for: matching people in a RootsMagic file to FamilySearch and exchanging information person by person.
-- **S75:** Ancestral Quest, *FamilySearch features* and *AQ and FamilySearch overview*, opened 2026-11-04 — [source](https://ancquest.com/FamSrchFeats.htm), [overview](https://ancquest.com/aqfsoverview.htm). Used for: linking and synchronising Ancestral Quest data with the Family Tree.
+- **S74:** RootsMagic, *FamilySearch Central* (RootsMagic 9 help), opened 2026-11-04 — [source](https://help.rootsmagic.com/RM9/familysearch-central.html). Used for: the Import button importing a tree from FamilySearch directly into a RootsMagic database, and AutoMatch matching people in the file to FamilySearch.
+- **S75:** Ancestral Quest, *FamilySearch features* and *AQ and FamilySearch overview*, opened 2026-11-04 — [source](https://ancquest.com/FamSrchFeats.htm), [overview](https://ancquest.com/aqfsoverview.htm). Used for: Get Ancestors importing ancestral lines from the Family Tree into a local file, import of individuals and families, and individual and group matching with the Family Tree.
 
 ### Source qualifications
 

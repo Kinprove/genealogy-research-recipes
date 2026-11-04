@@ -214,9 +214,9 @@ not observed behaviour of any named site. The facts in the Israeli burial-societ
   The lookup and locator controls are Kinprove procedural synthesis; no universal category labels
   or source-material reuse rights are inferred.
 
-- **P39:** Israel Genealogical Society, [Burial Societies](https://genealogy.org.il/resource-guides/burial-societies/),
-  opened 2026-11-04. Used for: burial societies holding the burial records, and a current English
-  list of societies based on the Ministry of Religious Services' Hebrew lists.
+- **P39:** Israel Genealogy Research Association (IGRA), [Burial Societies](https://genealogy.org.il/resource-guides/burial-societies/),
+  opened 2026-11-04. Used for: a current English list of societies based on the Ministry of
+  Religious Services' Hebrew lists.
 
 - **P40:** MyHeritage Wiki, [Grave records in Israel](https://www.myheritage.com/wiki/Grave_records_in_Israel),
   opened 2026-11-04. Used for: a nationwide collection of grave images from 138 Israeli cemeteries,
@@ -247,7 +247,7 @@ not observed behaviour of any named site. The facts in the Israeli burial-societ
   and Adar counted twice in leap years, as a second reference beside P44 and P45.
 
 - **P47:** Wikipedia, [Honorifics for the dead in Judaism](https://en.wikipedia.org/wiki/Honorifics_for_the_dead_in_Judaism),
-  opened 2026-11-04. Used for: the expansion of נלב"ע as נפטר לבית עולמו before a death date.
+  opened 2026-11-04. Used for: the expansion of נלב"ע as נפטר לבית עולמו.
 
 - **P48:** Hebrew Wiktionary, [ב"ב](https://he.wiktionary.org/wiki/%D7%91%22%D7%91), opened
   2026-11-04. Used for: the list of expansions of ב"ב, including בני ביתו, בבא בתרא, בעל בית, בן בנו

@@ -47,10 +47,10 @@ complete or accurate a survey is, and a preservation group reports finding error
 compilation.
 
 For an Israeli burial, work from the burial society (חברה קדישא, chevra kadisha) that served the
-place, because the societies keep the burial records. [P39] Nationwide aggregators are incomplete:
+place. Nationwide aggregators are incomplete:
 MyHeritage's Israel grave collection, built with BillionGraves, covers 138 cemeteries and says it
 does not hold every grave. [P40] So a miss there, in JOWBR or in Find a Grave is not a negative.
-Find the society in the Israel Genealogical Society's list of burial societies, which is based on
+Find the society in the Israel Genealogy Research Association (IGRA) list of burial societies, which is based on
 the Ministry of Religious Services lists, and ask it for the entry when contact is authorized. [P39]
 
 If a heritage inventory catalogues a cemetery and its individual markers separately, search both
@@ -229,8 +229,8 @@ for a date from Tishrei to 31 December and 3760 for a date from 1 January to the
 1 Tishrei 5718 fell on 26 September 1957. [P43, P45] A year read without its month therefore
 spans two civil years (5718 gives 1957 or 1958): record the span in the Converted date row, not
 one year. In a leap year a bare Adar is ambiguous unless the stone says Adar I or Adar II; keep
-both candidate dates. [P45, P46] נלב"ע (נפטר לבית עולמו, 'departed to his eternal home') introduces
-the death date. [P47]
+both candidate dates. [P45, P46] נלב"ע expands to נפטר לבית עולמו ('departed to his eternal
+home'). [P47]
 
 When an inscription supplies a death date and age in years, months and days, retain both
 literal inputs before calculating a birth-date lead. Amy Johnson Crow's example counts
