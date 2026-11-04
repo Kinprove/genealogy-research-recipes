@@ -75,14 +75,24 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   occupancy and unchanged appearance are Kinprove synthesis; the listing years were not
   independently verified in the demonstration.
 
-- **S22:** Roberta Estes, DNAeXplained, [Finding the Old Home Place with Zillow – 52 Ancestors #394](https://dna-explained.com/2023/04/09/finding-the-old-home-place-with-zillow-52-ancestors-394/),
+- **S22:** Irmi Gegner-Sünkler, [Martha Elisabeth Schaumlöffel (1789-1812)](https://www.genealogie-tagebuch.de/?p=20411),
+  5 October 2025 (saved publication metadata); saved article read 27 October 2026.
+  Describes reading the 1812 Bremen directory because it was not street-arranged,
+  to find entries at a death address. Only the saved article was inspected, not the
+  directory, death certificate or map. Its prose gives Johann Wilhelm Eitzen where
+  its reproduced row gives Hermann Wilhelm; that difference remains unresolved.
+  The finite search extent and existing-table reuse are authored synthesis. Original
+  record accuracy, current access and coverage, employer or kinship, ownership and
+  continuity with modern numbering are not established.
+
+- **S23:** Roberta Estes, DNAeXplained, [Finding the Old Home Place with Zillow – 52 Ancestors #394](https://dna-explained.com/2023/04/09/finding-the-old-home-place-with-zillow-52-ancestors-394/),
   9 April 2023. Used as the example that motivates comparing literal building and unit numbers
   with dated street or reverse entries and stable-neighbor context. The recipe's choice between
   a move, unit conversion, renumbering or an erroneous entry, and keeping the correspondence
   provisional, are Kinprove synthesis; the example does not prove occupancy, identity, a
   conveyance or renumbering.
 
-- **S23:** CompGen Blog, News-Redaktion, [Adressbuch mit unerwartetem Inhalt entdeckt](https://www.compgen.de/2023/02/adressbuch-mit-unerwartetem-inhalt-entdeckt/),
+- **S24:** CompGen Blog, News-Redaktion, [Adressbuch mit unerwartetem Inhalt entdeckt](https://www.compgen.de/2023/02/adressbuch-mit-unerwartetem-inhalt-entdeckt/),
   17 February 2023. Used for identifying an address-book auxiliary section that labels
   land-register references. Keeping its heading, locality, street/house wording and land number
   as separate fields and passing the reference to the land-index workflow are Kinprove synthesis.

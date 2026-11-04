@@ -132,8 +132,9 @@ today's date. Do not check for a newer version over the network yourself.
 
 - **`recipes/city-directory-observation-workflow.md`** — Build a comparable series
   of city-directory names, addresses and occupations from checked editions and sections.
-  *Use for:* surrounding locality sections, abbreviation keys, index errors,
-  address/occupation changes or a person missing from one directory edition.
+  *Use for:* a known address with unknown names, surrounding locality sections,
+  abbreviation keys, index errors, address/occupation changes or a person missing
+  from one directory edition.
   *Core guardrail:* separate unavailable and uninspected editions from inspected
   sections with no hit; a gap does not establish a move, death or identity.
 
