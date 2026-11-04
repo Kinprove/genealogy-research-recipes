@@ -79,6 +79,16 @@ birthplace. Read a same-name hit within its own family and place. Motivating exa
 you read a claim; neither verifies it. If no response to a work turns up, that neither confirms nor
 refutes it.
 
+**Check printed cross-references and attribution layers.** Codes and cross-references can be
+wrong: compare the person's full entry with spouse mentions, marriage subheadings and
+continuations before resolving the identity or relationship. Preserve conflicting codes as
+printed rather than silently repairing them. Check footnotes in related family entries,
+including parents, siblings and half-siblings; the compiler may give the basis there. For a
+disputed claim, retain the exact passage and locator at each layer: what the underlying text
+explicitly states, whom an editor identifies, and what a later compiler repeats. A footnote
+supporting an age does not also support parentage, and repetition along that chain is not
+independent corroboration.
+
 Treat an accepted lineage-society application, a patriot-database entry or a society's compiled
 study as a dated compiled conclusion, not as proof. Record its acceptance or edition date. Identify
 which child of the qualifying ancestor your line passes through. Examine the documentation cited for
