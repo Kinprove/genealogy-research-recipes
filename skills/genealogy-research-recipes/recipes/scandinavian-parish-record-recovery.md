@@ -79,10 +79,10 @@ In these cases, browse the examination volumes by the recorded birth date. Birth
 
 ## Bridge gaps with poll-tax registers and probate
 
-- **Mantalslängder (poll-tax registers).** They were compiled every year and place adults on a farm year by year, so use them to bridge a lost or missing household examination volume. [S6], [S7] The Stockholm city lists are at Stockholms stadsarkiv. [S6] Before 1766 the registers list mainly the people liable to the tax, from about age 15; the poor, the sick and the nobility were exempt. From 1766 everyone was meant to be counted. Even then, children and other non-taxpayers usually appear only as numbers in columns, and exempt adults may be missing or entered only with a note. [S7] A mantalslängd household is not a complete list of names.
+- **Mantalslängder (poll-tax registers).** They were compiled every year and place adults on a farm year by year, so use them to bridge a lost or missing household examination volume. [S6], [S7] The Stockholm city lists are at Stockholms stadsarkiv. [S6] The registers list mainly the people liable to the tax, from age 15. [S18] A royal letter of 18 February 1765 ordered the whole population to be entered in them. [S18] Even after that, children and other non-taxpayers usually appear only as numbers in columns, and exempt adults may be missing or entered only with a note. [S7] A mantalslängd household is not a complete list of names.
 - **Probate inventories.** Search them by the deceased and the court district. Use the heirs named to bridge parish moves and to check a sibling set.
-  - Sweden: bouppteckningar from before 1980 are in the archives of the häradsrätt (rural district court), rådhusrätt (town court) or domsaga, the predecessors of the tingsrätt. Riksarkivet supplies inventories drawn up up to 30 June 2001. [S8]
-  - Norway: skifteprotokoller (probate journals) are on Digitalarkivet under each sorenskriveri (district court) archive, in the series *Dødsfall og skifte*. Some recent volumes are closed. [S9]
+  - Sweden: bouppteckningar from before 1980 are in the archives of the tingsrätt (district court) and of its predecessors: the rådhusrätt (town court), the domsaga and the häradsrätt (rural district court). Riksarkivet supplies inventories drawn up up to 30 June 2001. [S8]
+  - Norway: death and probate records are in the archive of the sorenskriver (rural district judge) or, for a town, the byfogd (town judge). [S19] On Digitalarkivet the skifteprotokoller (probate journals) sit under that archive, in the series *Dødsfall og skifte*. Some recent volumes are closed. [S9]
 
 ## Before 1869, look for emigrants in the moving-out registers
 
@@ -93,6 +93,7 @@ Emiweb hosts the Swedish port passenger lists (*Passagerarlistor för svenska ha
 ## Finland: work the rippikirjat the same way
 
 - The Finnish household register is the rippikirja (communion book; Swedish kommunionbok). It is a running register of the parish's inhabitants, so follow it by farm and page as above. [S14]
+- Where the parish also kept a lastenkirja (children's book), the rippikirja lists only confirmed parishioners, usually those over 15. Look for younger children in the lastenkirja; their entries were moved to the rippikirja after confirmation. Where the parish kept only a rippikirja, it usually lists all ages. [S17]
 - Church records were mostly kept in Swedish until the later 19th century and mainly in Finnish after that. [S14] Search Swedish and Finnish forms of names and places. For the period under Russian rule, add Russian forms as well.
 - HisKi does not cover every parish or year. [S15] Check which parishes and years it covers before you read a nil, and verify every hit against the church-book image.
 - Katiha (katiha.kansallisarkisto.fi) is a searchable database of data from the church archives of the Karelian areas ceded to the USSR, from the 1600s to the 1900s. [S16]

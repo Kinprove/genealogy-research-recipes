@@ -74,7 +74,7 @@ A candidate matches only when several of these discriminators agree. Leave any c
 ## Use Norwegian censuses and emigrant protocols within their ranges
 
 - The national censuses that name each person are 1801, 1865, 1875, 1891, 1900, 1910 and 1920. [S13], [S15] The 1815, 1825, 1835, 1845 and 1855 censuses were numeric counts. Only some name lists from them survive, in ministers' and town archives, so a gap between 1801 and 1865 is expected. [S13]
-- The 1920 census was released in December 2020 as scans first, with searchable transcriptions added gradually. Check whether your municipality is searchable before you read a nil from a name search. [S15]
+- Check whether your municipality is searchable in the 1920 census before you read a nil from a name search.
 - Police emigrant protocols start at different dates in each port. Oslo's begin in 1867. [S14] Check the range for the port on Digitalarkivet. For a departure before that range, search the home parish's church book for a moving-out note.
 - Treat a link in Historisk befolkningsregister (histreg.no) as a derived hypothesis. Check it against the scanned record.
 

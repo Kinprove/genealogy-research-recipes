@@ -18,7 +18,7 @@ Date the start of civil registration by region before you choose between civil a
 - **Zeeuws-Vlaanderen:** 1796. Registration became official on 1 July 1796, and separate civil registers began on 22 September 1796. Entries made before that date went into confiscated church registers, the provisionele burgerlijke stand (provisional civil registration). [S12], [S13]
 - **Limburg:** 1796 in most of the province. Check the first year of each Limburg municipality's registers. [S14]
 - **Vlissingen:** 1 April 1808. [S12]
-- **Everywhere else:** 1 January 1811. [S12]
+- **Everywhere else:** 1811. [S12] Take the first date of each municipality's own birth, marriage and death registers before you choose between civil and church records; they can start months into 1811. Schiedam's first civil marriage act is dated 23 June 1811, and its births and deaths start a month later. [S15]
 
 The civil marriage act names the couple's parents and places of origin. The marriage supplements (huwelijksbijlagen) hold the proofs each spouse had to file: a birth or baptism proof, parental consent where it was required, and death proofs for parents who had died. If a spouse was born before civil registration began in the birthplace, the proof is a baptism extract. That extract names the church and its denomination, which tells you which register to search next. [S2]
 
@@ -70,7 +70,7 @@ After the bevolkingsregisters (population registers), many municipalities kept g
 - **Death between 1939 and 1 October 1994:** the CBG holds the persoonskaart of almost everyone who died while registered in a Dutch municipality. [S11]
 - **Death after 1 October 1994:** the CBG holds the persoonslijst (personal record list). [S11]
 - **Where to ask:** request an extract from the CBG, not the regional archive. The cards and lists cannot be searched online. [S11]
-- **Gaps:** a person who emigrated is not in this register. Cards created around 1939 may be incomplete. Grown children who had already left home in 1939 are often missing from their parents' card. [S11]
+- **Gaps:** for a death between 1939 and 1 October 1994, a person who had emigrated is not in this register. A Dutch national who died abroad after 1 October 1994 can be in it as a non-resident registration, even after emigrating; those lists can be incomplete. Cards created around 1939 may be incomplete. Grown children who had already left home in 1939 are often missing from their parents' card. [S11]
 
 ## Return a recovery packet
 

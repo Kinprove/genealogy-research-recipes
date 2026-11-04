@@ -14,7 +14,7 @@
 - **S12:** UND Libraries, [Conducting Research with Bygdebøker](https://apps.library.und.edu/bygdebok/research-guide), opened 2026-11-04. Used for: bygdebøker as compiled histories of the families on each farm.
 - **S13:** Digitalarkivet, [Public censuses](https://www.digitalarkivet.no/en/content/1579/public-censuses), opened 2026-11-04. Used for: the individual-level censuses of 1801, 1865, 1875, 1891 and 1900; the numeric censuses of 1815 to 1855 and their surviving name lists. Digitalarkivet also hosts the [1920 census](https://www.digitalarkivet.no/en/census/district_list/73858).
 - **S14:** Digitalarkivet, [Oslo politidistrikt, emigrant protocol no. 2, 1867–1869](https://www.digitalarkivet.no/en/source/43609), opened 2026-11-04. Used for: the Oslo police emigrant protocols starting in 1867.
-- **S15:** Lokalhistoriewiki, [Folketellinga 1920](https://lokalhistoriewiki.no/wiki/Folketellinga_1920), opened 2026-11-04. Used for: the 1910 and 1920 censuses on Digitalarkivet, and the 1920 release in December 2020 as scans with transcriptions added gradually.
+- **S15:** Lokalhistoriewiki, [Folketellinga 1920](https://lokalhistoriewiki.no/wiki/Folketellinga_1920), opened 2026-11-04. Used for: the 1910 and 1920 censuses on Digitalarkivet.
 - **S16:** Dansk Demografisk Database (Rigsarkivet), [DDD](https://www.ddd.dda.dk/), opened 2026-11-04. Used for: DDD as a Rigsarkivet database of census transcriptions.
 - **S17:** Rigsarkivet, [Lægdsruller – kom godt i gang](https://www.rigsarkivet.dk/vejledning/laegdsruller-og-soeruller/laegdsruller-kom-godt-i-gang/), opened 2026-11-04. Used for: scattered rolls before 1788; peasant-class males from birth from 1788 to 1848 and all men from 1849; the father's or mother's name; moves, followed nationwide from 1789.
 
