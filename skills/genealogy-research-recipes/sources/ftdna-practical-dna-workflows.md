@@ -100,7 +100,7 @@ Additional surname-list sources:
   for the remaining surnames through descendancy research. The `candidate couple` status
   and the list of unexplained surnames are Kinprove synthesis; current profile fields are
   not verified.
-- **S21:** Roberta Estes, [“Earliest Known Ancestors” at Family Tree DNA in 3 Easy Steps](https://dna-explained.com/2020/07/07/earliest-known-ancestors-at-family-tree-dna-in-3-easy-steps/),
+- **S21:** Roberta Estes, [“Earliest Known Ancestors” at Family Tree DNA in 3 Easy Steps](https://dna-explained.com/?p=31186),
   DNAeXplained, 2020-07-07. Used for the dated display that moves surnames shared with the
   viewer to the top of a match's list in bold. The current display order was not verified;
   FamilyTreeDNA Help was not reachable when checked.
