@@ -52,7 +52,7 @@ Genealogiczne lists (1918–1920 soldier lists and the 1926 Polish declaration f
 States); it does not search the regional projects. Log each project searched and its coverage for
 the parish before you record NIL. [O5], [O6], [O7], [O8], [O9], [O10], [O11], [O12], [O13]
 
-Search every form of a woman's surname. A surname ending in a consonant takes -owa for a wife and
+Search every form of a woman's surname. A surname ending in a consonant other than -g takes -owa for a wife and
 -ówna for a daughter (Nowakowa, Nowakówna); one ending in a vowel or -g takes -ina/-yna and -anka
 (Konopczyna, Konopczanka); -ski becomes -ska. [P4], [P6] A maiden name is written z + genitive
 plural: "z Kowalskich" means née Kowalska. The same construction can name a place of origin, so
@@ -87,8 +87,9 @@ record type and archive; **PRADZIAD does not contain scans**. To investigate sca
 the supplied reference code into the archival fonds, then open **List of files**. The official
 instructions say that the file list shows available units and scan counts. [O1]
 
-Registers were kept in two copies, and from the early nineteenth century the duplicate went to
-the local court; the state archive now holds these court duplicates. [O14] Record which copy an
+For the Akta Stanu Cywilnego (ASC, the civil-status registers kept by each confession) that AP
+Katowice describes, the duplicates went to the competent local courts from the early nineteenth
+century, and the state archive now holds them. [O14] Record which copy an
 image or index row comes from. Before you call an entry unreadable or unannotated, look for the
 other copy, which may sit with a different custodian.
 
@@ -151,11 +152,10 @@ locality before sending the request. Do not label the record missing. The source
 threshold, so confirm current custody rules and the office's actual holdings rather than inferring
 a cutoff year. [C2]
 
-For a Congress Poland (Kingdom of Poland) register, expect Polish entries until the end of 1867.
+For a Congress Poland (Kingdom of Poland) civil-registration register, expect Polish entries until the end of 1867.
 A regulation required Russian from 1 January 1868, but many parishes made the change late, so
 read the language of each year's entries and its index rather than assuming the switch came
-exactly in 1868. Do not expect a Latin-to-Russian switch in these registers; Latin belongs to the
-Austrian and Prussian partitions. [P8], [P9] Use the year's language to choose the search spelling
+exactly in 1868. Do not expect a Latin-to-Russian switch in these registers. [P8], [P9] Use the year's language to choose the search spelling
 and to judge whether a Cyrillic or index spelling re-transliterates a Polish original.
 
 When preparing the request, give the surname in both Polish and Russian (Cyrillic) forms. List the

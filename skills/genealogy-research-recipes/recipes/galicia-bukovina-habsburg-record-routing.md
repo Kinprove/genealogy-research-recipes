@@ -71,7 +71,7 @@ Transcarpathia is not covered. Link out for the shared steps:
 - **Before 1772, choose the archive by the institution that created the record, not by today's border.** TsDIAL, for example, holds the court books of eastern Galicia from the 15th to 18th centuries, more than 6,500 volumes [S38].
 - **Do not assume an Austrian church-book portal covers Galicia.** Check that Matricula's catalogue lists the parish before you search it.
 - **Check survival before an exhaustive search for a Jewish town.** Open Gesher Galicia's record inventories (geshergalicia.org/inventory/, including its inventory of AGAD Fond 300) [S17], [S39]. Then search the Routes to Roots Foundation Archive Database (rtrfoundation.org/search.php), which lists by town the surviving Jewish and civil records of Eastern European archives, with years and holding archive; use its "Begins With" town search so district-level records also appear [S40]. Each covers only what it has inventoried.
-- **A book on no list is "not located", not lost.** Record each archive and catalogue you checked. Only when the inventories above and the archive checks in this step all show no surviving registers is "town identified, registers lost" a documented endpoint.
+- **A book on no list is "not located", not lost.** Record each archive and catalogue you checked.
 
 ## 5. Decide the army before searching military records
 

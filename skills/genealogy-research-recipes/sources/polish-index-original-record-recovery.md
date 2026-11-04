@@ -45,7 +45,7 @@ screenshots, catalog entries and real family examples are not reproduced.
   2026-11-04. Used for: the Lublin-region index search.
 - **O8:** Projekt Podlasie, [indeksy](https://indeksy.projektpodlasie.pl/), opened 2026-11-04.
   Used for: register indexes from 450 parishes of Podlasie and Mazovia.
-- **O9:** Towarzystwo Genealogiczne Ziemi Jaćwieskiej (JZI), [start page](https://jzi.org.pl/),
+- **O9:** Jamiński Zespół Indeksacyjny (JZI, Jaminy Indexing Team), [start page](https://jzi.org.pl/),
   opened 2026-11-04. Used for: indexes for the Suwałki and Augustów area and the GENEO search.
 - **O10:** Świętokrzyskie Towarzystwo Genealogiczne Świętogen,
   [indeksy](https://www.genealodzy-kielce.pl/indeksy/), opened 2026-11-04. Used for: indexes of
@@ -59,8 +59,8 @@ screenshots, catalog entries and real family examples are not reproduced.
   opened 2026-11-04. Used for: the databases a Geneszukacz surname check covers (Geneteka, the 1926
   Polish declaration for the United States and two 1918–1920 soldier lists).
 - **O14:** Archiwum Państwowe w Katowicach, [Akta metrykalne](https://katowice.ap.gov.pl/ap/wpis_online/akta-metrykalne),
-  opened 2026-11-04. Used for: duplicates sent to the local courts from the early nineteenth
-  century and now held by the state archive.
+  opened 2026-11-04. Used for: the ASC registers kept by each confession, sent as duplicates to
+  the competent local courts from the early nineteenth century, and the archive's ASC duplicate fonds.
 - **O15:** Biblioteka Narodowa, [POLONA](https://www.bn.org.pl/uslugi/centrum-kompetencji/udostepnianie-zbiorow-cyfrowych/polona/),
   opened 2026-11-04. Used for: Polona's material types, the daily-newspaper press panel with a
   calendar, and the OCR text layer.
@@ -77,8 +77,7 @@ screenshots, catalog entries and real family examples are not reproduced.
   opened 2026-11-04. Used for: records that show only one of the two joined surnames.
 - **P8:** Hanna Krajewska, [Introduction to Metrical and Civil Registration Books in the Polish State
   Archives](https://www.jri-poland.org/?p=3899), reprint, opened 2026-11-04. Used for: Polish as
-  the first language of Kingdom of Poland civil registration, Russian from 1 January 1868, and
-  Latin named only for the Austrian and Prussian partitions.
+  the first language of Kingdom of Poland civil registration, and Russian from 1 January 1868.
 - **P9:** Renata Lesiakowska, [Rusyfikacja Królestwa Polskiego a ewangelicy i ich akta
   metrykalne/akta stanu cywilnego: rok 1868](https://ceeol.com/search/article-detail?id=1133084),
   Studia Archiwalne 9 (2022), opened 2026-11-04. Used for: the Russian requirement from the
