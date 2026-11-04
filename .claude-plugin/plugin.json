@@ -8,5 +8,8 @@
   },
   "license": "FSL-1.1-MIT",
   "homepage": "https://github.com/Kinprove/genealogy-research-recipes",
-  "repository": "https://github.com/Kinprove/genealogy-research-recipes"
+  "repository": "https://github.com/Kinprove/genealogy-research-recipes",
+  "documentationUrl": "https://github.com/Kinprove/genealogy-research-recipes#readme",
+  "supportUrl": "https://github.com/Kinprove/genealogy-research-recipes/issues",
+  "privacyPolicyUrl": "https://kinprove.io/privacy"
 }

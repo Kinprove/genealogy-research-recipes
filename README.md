@@ -168,6 +168,15 @@ publish to npm merely because this package uses an npm-style scoped name.
 
 Each recipe's sources are in [`sources/`](skills/genealogy-research-recipes/sources/).
 
+## Privacy
+
+The plugin collects, stores and sends nothing by itself. It is text, plus one script
+(`scripts/lookup_beider_name.py`) that looks up name variants offline, on your machine.
+Some recipes tell the agent to search public record sites, such as FamilySearch or national
+archives, for the names, places and dates you give it. Those searches run through your agent's
+own web tools, during the research you ask it to do. Kinprove's privacy policy:
+<https://kinprove.io/privacy>.
+
 ## Kinprove MCP (optional)
 
 Add `https://api.kinprove.io/mcp/v1` as an MCP connector so the agent can read your own Kinprove
