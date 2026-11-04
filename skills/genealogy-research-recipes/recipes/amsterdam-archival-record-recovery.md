@@ -54,7 +54,7 @@ Before you interpret entries, read the inleiding (introduction) or PDF inventory
 
 ## Civil-period follow-ups
 
-Civil registration began in the Netherlands, including Amsterdam, in 1811.
+Civil registration began in Amsterdam in 1811 [S13], [S14]. Do not give 1811 as the national start; for regional start dates use [Dutch civil and church record recovery](dutch-civil-church-record-recovery.md).
 
 - **Browse unindexed civil births from the register date.** Where civil births are not indexed, take the population-register birth date and browse the civil birth images a few days on either side [S1].
 - **Check both register sets on a film before reporting "not found".** Per S1's presenter, some films hold two register sets covering the same period, and a birth may appear in only one of them [S1].

@@ -5,7 +5,7 @@ Use this recipe when a user asks you to build, export or convert a GEDCOM (`.ged
 Link out for the shared steps:
 
 - **Identity rulings, source independence, working statuses and revising a rejected premise:** [evidence/proof judgment § Techniques that work and § Using working hypotheses without inheriting their assumptions](evidence-proof-judgment.md).
-- **Old Style offsets by century and the 1918 switch:** [evidence/proof judgment § Follow record versions and test disputed dates](evidence-proof-judgment.md).
+- **Old Style offsets by century, the pre-1752 25 March year start and the 1918 switch:** [evidence/proof judgment § Follow record versions and test disputed dates](evidence-proof-judgment.md).
 - **Building a citation and its locator:** [source citation § Preserve the locator](source-citation.md).
 - **The research log and report, which a GEDCOM does not replace:** [research log and report](research-documentation.md).
 - **Moving facts between RootsMagic, Ancestry and FamilySearch, and checking what arrived:** [RootsMagic tree reconciliation § 4](rootsmagic-tree-reconciliation-workflow.md).
@@ -60,6 +60,7 @@ Gather these before writing:
 
 - **Keep the original name spellings, the date uncertainty, the calendar and the historical jurisdiction.**
 - **Write an Old Style date as Julian in the target syntax:** `JULIAN 3 MAY 1892` in 7.0 [S1], `@#DJULIAN@ 3 MAY 1892` in 5.5.1 [S4], [S7], [S8]. A 7.0 date without a calendar is read as Gregorian [S1], so the keyword is required. Never convert a date to New Style silently; take the offset for the date's century from evidence/proof judgment.
+- **Keep a dual year.** Before 1752, England, Wales, Ireland and the British colonies began the year on 25 March; Scotland used 1 January from 1600 [S9], [S10]. A date from 1 January to 24 March may therefore belong to the next modern year; a record may write it as a dual year such as 1731/32. In 7.0 the year is a plain integer with no slash form [S1]. Put the New Style year in DATE, keep the Julian calendar keyword, and put the literal dual date in PHRASE: `2 DATE JULIAN 30 JAN 1649` with `3 PHRASE 30th of January, 1648/9`. Moving the year start does not convert the day and month to Gregorian. If the year itself is uncertain, write `2 DATE BET 1648 AND 1649` with `3 PHRASE 1648/9` [S1]. In 5.5.1, carry the literal dual date in a NOTE beside the DATE. Never drop to one year silently: that moves ages and the order of events by a year. How to read such a date: [evidence/proof judgment § Follow record versions and test disputed dates](evidence-proof-judgment.md).
 - **Do not pad an approximate date.** `ABT 1890` stays `ABT 1890`, never a full day and month. 7.0 has `ABT`, `CAL` and `EST` for approximations, `BEF` and `AFT` for one-sided bounds, and `BET … AND` for a range [S1]. If the target version cannot express a detail, keep it in a NOTE and in the notes, and say what was lost.
 - **When versions conflict, keep both.** For example, a tree gives a birth year and a document gives a Julian date in another year. Keep both in the notes with their provenance, and add a NOTE in the export that names the dispute. Do not choose one silently.
 - **Never re-export a disputed link as confirmed, and never overwrite the user's file** with a new conclusion.
@@ -73,7 +74,8 @@ Gather these before writing:
 ## 7. Bring a supplied tree into existing research
 
 - **Keep the file unchanged as a source.** Record where and when you received it, and its SHA-256 hash.
-- **Map its cross-reference IDs to your own person handles** in a small table. Do not merge same-named people automatically, and do not overwrite existing candidates.
+- **Decode before you match.** Earlier versions allowed several character encodings and defaulted to ANSEL; 7.0 uses only UTF-8 [S1]. Decode a 5.5 or 5.5.1 file with the character set its header declares. If names show stray accented capitals or symbols where letters belong, the file was decoded with the wrong character set: fix that first. Next, repair family links recorded on only one side, in the FAM record but not in the person's record or the reverse. Run duplicate detection only after both repairs. Otherwise a garbled spelling and the correct one, or a half-linked record and its fully linked twin, look like two people.
+- **Map its cross-reference IDs to your own person handles** in a small table. Do not merge same-named people automatically, and do not overwrite existing candidates. Same-named children of one couple may be two children, one named after a dead sibling: run the burial and forward-trace test in [evidence/proof judgment § Techniques that work](evidence-proof-judgment.md) before you merge them.
 - **Enter its links as hypotheses** until the documents behind them are evaluated. A website copy of the same tree is not a second source; test independence as evidence/proof judgment sets out.
 - **Never mark anyone deceased from a birth-year cutoff or a missing death date** in order to export, share or publish them. Treat probably living people as living.
 - **State partial coverage,** for example "40 of 200 people parsed", and keep the unsupported fields for review. Work on the parsed part without waiting for the rest.
@@ -86,6 +88,15 @@ Gather these before writing:
 - **Compare the exported links, citations and notes with the research notes.**
 - **Apply the living-person rules to a copy prepared for sharing.** Leave out or redact the living and probably living, private notes, and attachments the user did not choose to share. Writing a local export publishes nothing; do not upload the file or its attachments anywhere the user did not choose.
 - **Report what was not checked.** Give the file path, the version and the material limits of the transfer.
+
+## 9. When the destination rejects the file or replaces a tree
+
+- **Separate conformance from importer support before you edit the file.** A file that passes a local parser can still be rejected by a program. Check the rule in the target version's specification first, then the program's own import help.
+- **Check the version differences that trip importers** [S1]:
+  - **`@` in a value:** 5.5.1 doubled every `@`; 7.0 doubles an `@` only when it is the first character of the line string.
+  - **Cross-reference IDs:** in 7.0 an ID is any run of uppercase letters, digits and underscores between `@` signs, so a leading digit is allowed. `@VOID@` is reserved.
+  - **Date phrases:** 5.5.1 put them inside the DATE value; 7.0 moved them to a PHRASE substructure.
+- **Never upload a reduced test file over an existing online tree.** A re-import can replace the tree. Familio's help (a Russian-language tree service; checked 2026-11-04) says a re-import always fully replaces person pages: the new file replaces the old one, and all edits made by hand on Familio are lost [S11]. Test on a separate test tree or with a small synthetic file, and only on a destination the user chose.
 
 ## Close with an export packet
 

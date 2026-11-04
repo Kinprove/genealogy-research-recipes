@@ -10,8 +10,11 @@
 - **S8:** Denyse Allen, [All About Early Philadelphia Vital Records](https://www.youtube.com/watch?v=w2PgteWzpiQ), date not shown. Used for: an interview with the Philadelphia City Archives on its original holdings (holding years corrected in the text), almshouse and Philadelphia General Hospital births, weekly group registers and burial-return death ledgers, and the uncertainty over how far online copies match the originals.
 - **S9:** Lisa Lisson, [Delayed Birth Certificates – A Genealogist's Treasure Chest!](https://www.youtube.com/watch?v=W_3wAbRJV6Q), 2019-08-21. Used for: asking the county to search for a delayed application; evidence items as leads; parent-living and married-name clues.
 - **S10:** Denyse Allen, [City of Philadelphia Archives](https://www.youtube.com/watch?v=_RnewkohVvM), 2024-07-25. Used for: holding years restated (corrected in the text); the index → register → cemetery → original sequence for Philadelphia deaths filed by cemetery.
+- **S11:** NYC Department of Records and Information Services, Municipal Archives, [List of Holdings](https://www.nyc.gov/site/records/historical-records/holdings.page), opened 2026-11-04. Used for: the date ranges of each borough's vital-record series; Bronx, Queens and Richmond series starting in 1898; Bronx areas annexed before 1898 being in the Manhattan records; the pre-consolidation town and village series and Long Island City records.
+- **S12:** New York State Department of Health, [Genealogy Records & Resources](https://healthweb-back.health.ny.gov/vital_records/genealogy.htm), opened 2026-11-04. Used for: the state not filing New York City births and deaths, and its holding of Queens and Richmond records for 1881–1897.
+- **S13:** Michael R. Haines, *Historical Statistics of the United States, Millennial Edition*, [Vital statistics essay (Ab.ESS.01)](https://hsus.cambridge.org/HSUSWeb/toc/showEssayIdAb.ESS.01.html), opened 2026-11-04. Used for: the official Death Registration Area from 1900, the Birth Registration Area from 1915, the 90% completeness test for admission, and full coverage of both areas in 1933.
 
-The authority-and-series register, the result vocabulary and the rule against stating absence are authored synthesis. The presenters supply examples of early city registration, separate series, custodians and delayed-certificate contents. They do not supply a general schedule of U.S. start dates.
+The authority-and-series register, the result vocabulary and the rule against stating absence are authored synthesis. The presenters supply examples of early city registration, separate series, custodians and delayed-certificate contents. They do not supply a general schedule of U.S. start dates. The New York City routing comes from the city and state custodians (S11, S12), and the registration-area dates and admission test from a scholarly reference work (S13).
 
 Not verified:
 
@@ -22,6 +25,8 @@ Not verified:
 - the Utah midwives' and physicians' catalog heading
 - the claim that the four online providers carry different collections under repository contracts
 - current access rules and online availability at providers not named in this recipe
+- the coverage and search fields of the online platform a860-historicalvitalrecords.nyc.gov (no date ranges are given for it here)
+- the 1880 start sometimes given for the Death Registration Area (the formal area dates from 1900, S13)
 
 ## Credits
 

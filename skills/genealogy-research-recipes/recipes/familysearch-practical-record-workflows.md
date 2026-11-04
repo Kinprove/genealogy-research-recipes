@@ -33,6 +33,18 @@ without warning. Log an empty reply or a lone first page as an interrupted searc
 does not show that a book is indexed or fully viewable. Check how a connector authenticates: one
 that replays the website session may breach the terms. [S60]
 
+FamilySearch.org has no GEDCOM export of the shared Family Tree: its own export page says GEDCOM
+export is no longer supported there and points to compatible tree-management apps [S71]. Never send
+a user to a website "Export GEDCOM" menu. Tree data reaches a local file only through
+FamilySearch-compatible software that syncs with the Tree, such as RootsMagic or Ancestral Quest:
+import the tree or the ancestral lines into a local file, then match and reconcile individual
+records [S74], [S75]. Then run the destination check in
+[RootsMagic tree reconciliation § 4](rootsmagic-tree-reconciliation-workflow.md), and build the file
+with [GEDCOM export](gedcom-research-export.md). Do not offer the API as a route either. It is
+closed to the general public and is not a self-service personal key: beta and production keys need
+a compatibility review and signed agreements, and apps that simply copy data out of FamilySearch may not be approved
+[S72], [S73].
+
 ## Nineteen workflows
 
 ### 1. Resolve the event's historical jurisdiction

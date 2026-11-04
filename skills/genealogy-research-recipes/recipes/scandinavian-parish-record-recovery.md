@@ -1,6 +1,6 @@
 # Reconstruct a Swedish household through parish examination and moving registers
 
-Use this recipe when you have a Swedish ancestor's name, a rough parish or farm, and rough birth or marriage dates, and you can view digitized images of the household examination (husförhör), birth, marriage, death and moving-in/moving-out registers. The household examination is your index into the other registers. Follow the family by farm or residence and by page cross-reference, not by patronymic. Settle identity at the household level.
+Use this recipe when you have a Swedish or Finnish ancestor's name, a rough parish or farm, and rough birth or marriage dates, and you can view digitized images of the household examination (husförhör), birth, marriage, death and moving-in/moving-out registers. The household examination is your index into the other registers. Follow the family by farm or residence and by page cross-reference, not by patronymic. Settle identity at the household level. Finland kept the same kind of register; its differences are in "Finland: work the rippikirjat the same way" below.
 
 FamilySearch is not the only place to find images. Riksarkivet and ArkivDigital also hold them, and some FamilySearch images can only be viewed at a FamilySearch Center (FamilySearch Wiki). Check each parish's holdings, not the country as a whole.
 
@@ -77,6 +77,27 @@ In these cases, browse the examination volumes by the recorded birth date. Birth
   - Expect separate moving-in and moving-out registers from the 1800s (FamilySearch Wiki). Everett's mid-1700s date for permanent keeping [S2] describes the legal requirement, not what survives. For earlier moves, use the examination's own moving columns.
 - Before you claim any volume is missing, check that parish's actual holdings.
 
+## Bridge gaps with poll-tax registers and probate
+
+- **Mantalslängder (poll-tax registers).** They were compiled every year and place adults on a farm year by year, so use them to bridge a lost or missing household examination volume. [S6], [S7] The Stockholm city lists are at Stockholms stadsarkiv. [S6] The registers list mainly the people liable to the tax, from age 15. [S18] A royal letter of 18 February 1765 ordered the whole population to be entered in them. [S18] Even after that, children and other non-taxpayers usually appear only as numbers in columns, and exempt adults may be missing or entered only with a note. [S7] A mantalslängd household is not a complete list of names.
+- **Probate inventories.** Search them by the deceased and the court district. Use the heirs named to bridge parish moves and to check a sibling set.
+  - Sweden: bouppteckningar from before 1980 are in the archives of the tingsrätt (district court) and of its predecessors: the rådhusrätt (town court), the domsaga and the häradsrätt (rural district court). Riksarkivet supplies inventories drawn up up to 30 June 2001. [S8]
+  - Norway: death and probate records are in the archive of the sorenskriver (rural district judge) or, for a town, the byfogd (town judge). [S19] On Digitalarkivet the skifteprotokoller (probate journals) sit under that archive, in the series *Dødsfall og skifte*. Some recent volumes are closed. [S9]
+
+## Before 1869, look for emigrants in the moving-out registers
+
+Swedish emigration registration began in 1869. The lists were filed with the police in the ports of departure, Gothenburg being the largest. [S10] The Gothenburg series is in the archive of Göteborgs poliskammare at Riksarkivet. [S11] Earlier emigration is recorded only in the parish moving-out registers (utflyttningslängder), and possibly in military records. [S10] A port-list nil before 1869 is not a negative: search the moving-out register, then cross-check the household examination rolls.
+
+Emiweb hosts the Swedish port passenger lists (*Passagerarlistor för svenska hamnar*) as a subscription database. Its only free option is a trial with limited search. [S12], [S13]
+
+## Finland: work the rippikirjat the same way
+
+- The Finnish household register is the rippikirja (communion book; Swedish kommunionbok). It is a running register of the parish's inhabitants, so follow it by farm and page as above. [S14]
+- Where the parish also kept a lastenkirja (children's book), the rippikirja lists only confirmed parishioners, usually those over 15. Look for younger children in the lastenkirja; their entries were moved to the rippikirja after confirmation. Where the parish kept only a rippikirja, it usually lists all ages. [S17]
+- Church records were mostly kept in Swedish until the later 19th century and mainly in Finnish after that. [S14] Search Swedish and Finnish forms of names and places. For the period under Russian rule, add Russian forms as well.
+- HisKi does not cover every parish or year. [S15] Check which parishes and years it covers before you read a nil, and verify every hit against the church-book image.
+- Katiha (katiha.kansallisarkisto.fi) is a searchable database of data from the church archives of the Karelian areas ceded to the USSR, from the 1600s to the 1900s. [S16]
+
 ## Close with a household chain packet
 
 Return:
@@ -85,6 +106,7 @@ Return:
 - each member's birth date exactly as recorded on each page, with any christening date labelled separately;
 - links to the original birth, marriage and death entries;
 - the origin and destination parishes, with dates, from the moving registers;
+- any mantalslängd years and probate inventories used to bridge a gap, with their court or archive locators;
 - children found only in the vital registers, listed separately;
 - each gap, labelled as a volume that is unavailable, a volume that has not been inspected, or a volume that was inspected without finding the person or the connecting entry, with a note of what was searched.
 

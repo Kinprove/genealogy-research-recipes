@@ -4,6 +4,14 @@ Use this when you have the image of a French-language birth, marriage or death a
 
 Work from the original image. A yearly index or a ten-year table (*table décennale*, available for Belgian civil registers in the FamilySearch catalog) is only a way to find the act. Marriage acts hold leads that an index leaves out. [S1], [S2]
 
+## Find Belgian register images in AGATHA
+
+- Search Belgian parish and civil registers in the State Archives' AGATHA (agatha.arch.be). It replaced the old SEARCH site (search.arch.be), which was shut down on 23 December 2024. Links and guides that point to search.arch.be no longer reach the registers. A SEARCH account also works on AGATHA. [S5]
+- Create an AGATHA account from its homepage before opening register images. [S5]
+- A person hit in AGATHA is a pointer. Open the register image and extract the act from it.
+- Search the locality under its French, Dutch and German forms. Belgian place names have several official forms, and an index may use only one.
+- For a large city such as Antwerp or Brussels, also check the city archives before closing a population or migration search.
+
 ## Check a Paris reconstructed-record branch
 
 If the original Paris civil series is unavailable for the event, [S3] identifies a

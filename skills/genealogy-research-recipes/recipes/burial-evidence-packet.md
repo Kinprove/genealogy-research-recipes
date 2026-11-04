@@ -46,6 +46,13 @@ apart from locations based on word of mouth or dowsing. The
 complete or accurate a survey is, and a preservation group reports finding errors in its own
 compilation.
 
+For an Israeli burial, work from the burial society (חברה קדישא, chevra kadisha) that served the
+place. Nationwide aggregators are incomplete:
+MyHeritage's Israel grave collection, built with BillionGraves, covers 138 cemeteries and says it
+does not hold every grave. [P40] So a miss there, in JOWBR or in Find a Grave is not a negative.
+Find the society in the Israel Genealogy Research Association (IGRA) list of burial societies, which is based on
+the Ministry of Religious Services lists, and ask it for the entry when contact is authorized. [P39]
+
 If a heritage inventory catalogues a cemetery and its individual markers separately, search both
 relevant asset categories for the locality. McGuiggan's 2022 MACRIS account describes a cemetery survey
 under `Burial Ground` and individual markers under `Object`; verify the actual inventory's
@@ -88,6 +95,12 @@ local database and read the headstone photograph against the registry spelling. 
 burials concern living relatives, so do not collect grave-holders' contacts. For a Russian death
 with no burial hit, the notarial probate-case register is a separate locator; see
 [soviet-personal-file-recovery § 3](soviet-personal-file-recovery.md#3-route-each-institution-to-its-series-and-present-custodian).
+
+For a Riga burial, search cemety.lv by given name and surname; do not stop at BillionGraves or Find
+a Grave. Riga City digitised data on about 800,000 burials in 13 municipal cemeteries and published
+it there, and the site's region filter also covers many other Latvian municipalities. [P41, P42]
+Citizens can submit updates and additions, so treat an entry as possibly amended by a user and
+check it against the municipal record or the gravestone. [P41]
 
 **Output:** a query row for each field combination, retaining the exact entered strings and
 the candidate record links.
@@ -180,6 +193,12 @@ this. It sets a tombstone reading beside community histories that describe the m
 mention no ordination. Usage varied by period and community; the title alone neither proves nor
 rules out ordination.
 
+Do not expand ב"ב as the city of Bnei Brak by default. The abbreviation has many expansions, among
+them בני ביתו ('his household'), the Talmud tractate בבא בתרא (Bava Batra), בעל בית ('householder')
+and בן בנו ('his grandson'). [P48] In a rabbinic citation, test the tractate first [P49]; after a
+person's name in a greeting or dedication, test 'his household'. Read it as Bnei Brak only when the
+context is clearly a modern address; otherwise the family gets a false residence.
+
 Keep the dates separately:
 
 | Field | What to retain |
@@ -202,6 +221,16 @@ Converted date row. Check the day against the community's festival practice, and
 the year has been read. Do not replace the phrase with an approximate 'around Passover'. The
 [festival-date discussion](https://forum.j-roots.info/viewtopic.php?f=208&t=9621) motivates this
 with one abbreviation glossed by a link. It sets no conversion rules.
+
+Read how a Hebrew year is written before converting it. לפ"ק (לפרט קטן, 'by the small count')
+marks a year written without the thousands, so תשי"ח לפ"ק is 5718. [P44, P46] The numbers 15 and
+16 are written ט"ו and ט"ז, not י"ה and י"ו. [P44] The Hebrew year begins in Tishrei: subtract 3761
+for a date from Tishrei to 31 December and 3760 for a date from 1 January to the end of Elul.
+1 Tishrei 5718 fell on 26 September 1957. [P43, P45] A year read without its month therefore
+spans two civil years (5718 gives 1957 or 1958): record the span in the Converted date row, not
+one year. In a leap year a bare Adar is ambiguous unless the stone says Adar I or Adar II; keep
+both candidate dates. [P45, P46] נלב"ע expands to נפטר לבית עולמו ('departed to his eternal
+home'). [P47]
 
 When an inscription supplies a death date and age in years, months and days, retain both
 literal inputs before calculating a birth-date lead. Amy Johnson Crow's example counts
@@ -331,6 +360,16 @@ because such photographs can show living mourners.
 If a plot-owner card points to the named owner's other cards or lots, follow those
 locators even when they fall outside the neighboring area; keep owners and referenced
 lots separate from actual interments. [P29]
+
+In immigrant-city Jewish cemeteries, such as those around New York, many plots belonged to
+landsmanshaftn (hometown societies), as well as to synagogues, unions, family circles and
+fraternal orders. [P51, P52] A society or section name in an interment record, such as
+'First [Town]er … Society', points to a hometown. Not every member came from the named town, and
+neighbouring graves in a society plot may belong to unrelated members. A married woman buried in
+her husband's society plot gets his town, not necessarily her birthplace. The YIVO Archives at the
+Center for Jewish History hold records of many landsmanshaftn, some with plot maps, and the
+finding aid is arranged by ancestral town. [P50, P51, P52] For congregation and society records as
+origin evidence, see [immigrant-congregation-origin-records.md](immigrant-congregation-origin-records.md).
 
 Treat the cemetery named on a volunteer memorial as that memorial's statement, not an observed
 burial. A profile may be created speculatively to request a photo lookup, or by a relative before

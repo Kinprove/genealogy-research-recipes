@@ -26,6 +26,7 @@ The national start years in step 5 have been checked against FamilySearch. Compl
 
 - **A town lead is not a register selection.** A larger town or city has many parishes, so the town alone does not tell you which books to search. One presenter puts the number as high as a hundred in a larger town or city [S4]. Ask relatives which church the family used for baptisms and marriages, and record that answer as its own lead [S4].
 - **A large city can also have several civil registry offices.** Havana and Santiago de Cuba have many parishes and municipal districts [S13]. Cuban records are held by the individual church or by the regional civil registry office, and one original Havana entry came from the Registro Civil of Norte de La Habana [S13]. Identify the registry district as well as the parish, and record both.
+- **Order a Buenos Aires civil act by its reference.** The city's Registro Civil identifies each act by circunscripción or sección (registry district), tomo (volume), acta (act number) and year [S23]. Take that reference from an index entry before you request a copy through the city's Solicitud de partidas procedure. You can still order by name and approximate date, but then the registry has to run a separate search [S23]. Record the reference next to the parish locator, as for the Havana registry district.
 - **Parish and municipality boundaries differ.** One parish can cover several municipalities, and one municipality can contain several parishes [S1].
 - **The FamilySearch Catalog can list a parish and a municipality under the same place name.** The presenter's example reads the first entry as the parish and the second as the municipality [S1]. Open each entry's record list. Do not stop at the first match.
 - **Catholic marriage records can sit in two Catalog series.** The Catalog usually lists them under Matrimonios and Información matrimonial [S14]. Search both when the parish has both, and record which series supplied each entry.
@@ -41,6 +42,7 @@ Extract each field separately [S10], [S2]:
 - **Margin name:** copy it exactly. It can be written surname first, with the given name abbreviated (the presenter's example shows Torres before an abbreviated Juan Pablo) [S10]. Use the margin name to find your subject [S2].
 - **Officiating priest:** the opening formula names the priest. Do not record him as the child or a relative [S2].
 - **Legitimacy:** record the term exactly as written (legítimo, hijo natural or an abbreviation such as L) [S10]. In a parish register, legítimo means the parents were married in the church. Natural means the child was not born of a church marriage. Usually that means born out of wedlock [S10], but a child whose parents had married only civilly was also entered as natural [S2]. So "natural" does not prove the parents never married. Search the civil marriage register before you state that they were unmarried. When a child carries the mother's surname, one presenter takes it as a likely sign that the parents were unmarried [S2]. Treat that as a hypothesis.
+- **Casta label:** copy any colonial casta or calidad label (español, mestizo, castizo, mulato, indio and others) exactly as written. It is the priest's or official's description in that one entry. Labels for the same person could shift between records, by passing or drift [S24]. A label mismatch does not, by itself, show that two entries are different people. The label is not proof of ancestry either: it recorded social standing (calidad), judged also by dress, speech and conduct, as well as descent [S24].
 - **Dates:** keep the baptism date and any stated birth date in separate fields [S10], [S2]. A stated birth date often is not there; one presenter calls it a bonus [S2].
 - **Margin notes:**
   - A note can record a later death [S10]. Treat it as its own event and as a lead to the burial record.
@@ -108,6 +110,7 @@ For machine- or AI-indexed versions of these entries, use the correct-and-verify
 
   Also work backward from a burial to the marriage or the children's baptisms [S10]. For burial-record handling, use the [burial evidence packet](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/burial-evidence-packet.md).
 - **A death entry can point to a will.** In Puerto Rico a death entry can name the notary, the filing date and the executors of a will; the source finds this mostly in civil death records and occasionally in church ones [S19]. Record the notary and the date as the lead to the will. The source points to the Last Wills and Testaments series at the Archivo General de Puerto Rico in San Juan [S19]. Read the death entry for this note before you conclude that no will exists.
+- **In Argentina, search the gazette for a succession edict.** A court edict that "cita y emplaza … a herederos y acreedores de …" (summons the heirs and creditors of …) names the deceased, the court (juzgado and its number) and the secretaría handling the sucesión (probate file) [S25]. Use the court and secretaría to find the sucesión file. The edict shows only that the death came before its first publication, which can be months or years after the death; do not record the publication as a death date. The national Boletín Oficial is on the Internet Archive from its 1893 issues [S26], [S27]. Its OCR is noisy, so search spelling variants of the name. From January 1950 the court edicts are in the segunda sección (second section). Before that they are in the first section [S25].
 
 ## 7. Check the diocesan copy before calling an entry missing
 
@@ -121,7 +124,7 @@ For machine- or AI-indexed versions of these entries, use the correct-and-verify
 
 Return:
 
-- **Entry extraction:** the literal margin name, legitimacy term, baptism date, any stated birth date, margin notes, priest and any named grandparents (marked paternal or maternal), each in its own field.
+- **Entry extraction:** the literal margin name, legitimacy term, any casta label, baptism date, any stated birth date, margin notes, priest and any named grandparents (marked paternal or maternal), each in its own field.
 - **Name register:** the baptismal and everyday forms and every surname ordering searched.
 - **Paired civil/church event table:** with the date role of each entry.
 - **Sweep log:** each search tied to the anchor entry, with its date range.

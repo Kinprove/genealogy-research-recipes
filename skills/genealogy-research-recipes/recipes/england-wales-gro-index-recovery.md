@@ -140,6 +140,43 @@ For general FamilySearch jurisdiction and missed-person recovery, use
 4. A failed search is not a finding. Births before 1875, especially near 1837, are the most
     likely to be unregistered [S15]. Entries can be misindexed or indexed under another form of
     the forename [S20], or under the mother's surname. Report the windows actually searched.
+5. Check the GRO online index's range before a sweep. It covers births 1837–1934 and deaths
+    1837–1957, then both again from 1984 to a recent year, so it has no entries for births 1935–1983 or
+    deaths 1958–1983, and it has no marriage index [S24]. Read the current end year on the GRO
+    site. For those gaps and for every marriage, use FreeBMD or another copy of the quarterly
+    index.
+6. Before calling a miss final, search the local register-office index for the district,
+    reached through the UKBMD county pages. Local indexes are transcribed from the district's own
+    registers, not from the GRO copies, so they can hold entries that are missing or misindexed in
+    the GRO index [S25]. Some local marriage indexes name the church; Lancashire BMD, for example,
+    has a marriage-venue search [S27]. Order from the local office with its own register and
+    entry reference: the GRO volume and page mean nothing there [S26].
+
+## Route Isle of Man and Channel Islands events to the islands
+
+1. The Isle of Man, Jersey and Guernsey (with Alderney and Sark) keep their own civil
+    registration, outside the England and Wales system, and Jersey and Guernsey also keep their
+    own probate and deeds records. A GRO, FreeBMD or English probate nil is not a search of the
+    islands [S28], [S30], [S31]. Route to:
+    - **Isle of Man:** Manx National Heritage for archives and the parish registers, with
+      finding aids on iMuseum [S28], [S32];
+    - **Jersey:** Jersey Archive (Jersey Heritage), which holds the BMD indexes and wills of
+      movable property from 1660 to 1999 [S30];
+    - **Guernsey:** the civil registry and the conveyancing registers (from 1567) at the Greffe,
+      the Island Archives, and the Priaulx Library for census and parish-register copies
+      [S31], [S28].
+2. The 1837 start date does not apply. Civil registration began in Guernsey in 1840, Jersey in
+    1842, Alderney in 1850 and Sark in 1915. On the Isle of Man it began in 1849 but was
+    compulsory only from 1878, and from 1884 for marriages [S28]. Before those dates use
+    the parish registers, such as Guernsey's at the Priaulx Library and the Manx registers
+    (c.1607–1878) at Manx National Heritage [S28]. A civil-index nil before the start date is a
+    coverage gap.
+3. Island census returns are part of the UK census series at The National Archives [S29]; read
+    them with [UK census and 1939 Register interpretation](uk-census-and-1939-register-interpretation.md).
+4. For Jersey and Guernsey residents during the German Occupation (1940–45), use the
+    registration cards and identity forms as identity sources. Jersey cards give name, address
+    and date of birth, and the Guernsey forms cover everyone over 14 who stayed on the island
+    [S30], [S31]. The Isle of Man was not occupied.
 
 ## Order the certificate and close the packet
 

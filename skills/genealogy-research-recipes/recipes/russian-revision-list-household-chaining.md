@@ -1,6 +1,6 @@
 # Chain a Russian-Empire revision-list household across copies, sections and revisions (Urals evidence)
 
-Use this recipe for a non-Jewish revision list (ревизская сказка) of the Russian Empire. The evidence behind it comes almost entirely from the Urals and Trans-Urals (the Ekaterinburg administration, the Perm, Shadrinsk, Kamensk, Katai and Zlatoust areas). The method carries over to other provinces. The fond numbers, the age-bias pattern and the boilerplate formulas do not, so check them locally before relying on them. The recipe covers mainly 18th- and 19th-century returns for state, factory-ascribed, monastery and seigneurial peasants, plus town-estate (мещане) lists. Steps 8 and 9 add two checks outside the Urals evidence: whether 1897 census sheets survive, and the published estate inventories that come before the first revision in former Grand Duchy lands.
+Use this recipe for a non-Jewish revision list (ревизская сказка) of the Russian Empire. The evidence behind it comes almost entirely from the Urals and Trans-Urals (the Ekaterinburg administration, the Perm, Shadrinsk, Kamensk, Katai and Zlatoust areas). The method carries over to other provinces. The fond numbers, the age-bias pattern and the boilerplate formulas do not, so check them locally before relying on them. The recipe covers mainly 18th- and 19th-century returns for state, factory-ascribed, monastery and seigneurial peasants, plus town-estate (мещане) lists. Steps 8 to 10 add three checks outside the Urals evidence: whether 1897 census sheets survive, the published estate inventories that come before the first revision in former Grand Duchy lands, and which later revisions exist for an Orenburg Cossack household.
 
 Use it in any of these situations:
 
@@ -48,6 +48,7 @@ Record one row per copy. Do not stop at the first copy you find.
 - **County-treasury and volost fonds:** the GASO inventory of the Irbit county treasury (f.674, op.1) lists revision tales for 1816, 1834 and 1850 by volost, town and factory. It also has supplementary tales (дополнительная) and separate tales for individual landowners' household serfs. Check these fonds as well as the provincial chamber. [S4]
 - **Supplementary and special lists:**
   - Books of those who left after the 1st revision exist as a type. RGADA 350-2-1153 is one, for the Arsk road of Kazan district (1748). It is not a Urals file. [S5]
+  - In an alphabet of leavers (алфавит выбывших), do not assume the number by a name is a leaf number; columns can differ between files. Read the column header and test one entry before you search by number. Also look the village up under its "тож" second name.
   - Supplementary tales for 1850–1853 for Shadrinsk district are filed by volost in GAPK f.111, op.1, d.2536. [S14]
   - For the 1858 town-estate tales, a participant cited GASO f.8, op.1, d.1776–1779, including "private" tales (частные) and tales of newly enrolled townsmen (вновь причисленные). The same participant cited lists of factory people discharged into the town estate (d.1922, 1922a) and enrolment into the town society (d.1935a). [S8], [S20]
   - In the Ekaterinburg area, Old Believers were also counted in separate schismatic series, which you must search alongside the revision. Participants cited the 1742 schismatic census (GASO f.24, op.1, d.1000), a 1752 list of Old Believer children born after the revision (d.1370) and the 1765 schismatic tales (GASO f.34, op.1, d.187). [S2]
@@ -179,6 +180,11 @@ For 16th- to 18th-century estates of the Grand Duchy of Lithuania, now in Belaru
 - **Read the neighbouring pages** for the document's heading, start and continuation.
 - **Bound what an inventory shows.** It is not a full list of residents, and its content depends on the document. An empty OCR search of the scans is not a negative.
 - Link the online copies; do not redistribute them.
+
+## 10. For an Orenburg Cossack household, confirm which later revisions exist
+
+- **Do not assume 9th or 10th revision tales exist for a Cossack household.** Check the holding archive's inventory for which revisions were taken and survive, and search the Host's own records for the later years.
+- **Read the surname handbook as an index.** Vishnevsky's handbook of Orenburg Cossack surnames is a surname index built from revision tales in the Bashkortostan, Samara and Orenburg archives, not a set of family lists. [S36] A hit does not prove residence in that place and year. A miss does not disprove a later document.
 
 ## Output
 

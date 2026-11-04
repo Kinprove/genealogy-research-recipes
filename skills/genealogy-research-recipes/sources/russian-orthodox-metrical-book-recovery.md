@@ -35,6 +35,7 @@
 - **S33:** State Archive of Oryol Oblast, [Генеалогические запросы](https://gaorel.ru/requests/genealogical), opened 2026-11-02. Used for: paid thematic genealogical requests stopped or limited, and a prepayment not refunded when nothing is found.
 - **S34:** State Archive of Ivanovo Oblast, [home page](https://ivarh.ru/), opened 2026-11-02. Used for: genealogical requests suspended.
 - **S35:** State Archive of Bryansk Oblast, [Приём генеалогических запросов прекращён](https://old.archive-bryansk.ru/priem-gineologii), opened 2026-11-02. Used for: genealogical requests stopped, with users sent to search in the reading room.
+- **S36:** Yandex, [Поиск по архивам](https://yandex.ru/archive), opened 2026-11-04. Used for: search of the recognised document text by surname or settlement, showing the documents where the name occurs.
 
 **What is authored and what the sources supply.**
 
@@ -46,7 +47,7 @@ The following are authored synthesis:
 - the treatment of margin notes as separate dated events with follow-up series
 - the rule that age mismatches rank candidates rather than exclude them.
 
-The sources supply the archive locators, the formula readings and the worked cases. In S1–S25 these are forum participants' reports and demonstrations, almost entirely from one Urals forum and the Perm, Ekaterinburg and Tobolsk sees. The service, archive, news and encyclopedia pages S26–S35 supply the facts on full-text search, possessive name forms, online viewers and archive requests.
+The sources supply the archive locators, the formula readings and the worked cases. In S1–S25 these are forum participants' reports and demonstrations, almost entirely from one Urals forum and the Perm, Ekaterinburg and Tobolsk sees. The service, archive, news and encyclopedia pages S26–S36 supply the facts on full-text search, possessive name forms, online viewers and archive requests.
 
 The following were NOT verified:
 

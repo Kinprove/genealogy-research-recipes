@@ -1,0 +1,82 @@
+# Route an Austrian or Czech-lands vital event to the confessional register that recorded it
+
+Use this recipe before you search for a birth, marriage or death in present-day Austria before 1939 (outside Burgenland, which was Hungarian until 1921), in Vienna at any date, or in the Czech lands. It sends each event to the register that legally recorded it: a church or religious-community register, or the regional archive that now holds the books. It prevents five failures: looking for a pre-1938 Standesamt (civil registry office) record that never existed, expecting today's Standesamt to hold the old confessional books, searching every Vienna parish instead of fixing the address first, paging through year volumes when a name index exists, and reading a Catholic baptism or burial as proof that a Viennese family had no Jewish origin.
+
+It covers the 1938–1939 cutover, the Vienna address and index route, withdrawals from Judaism in Vienna, and the Czech regional-archive route. Link out for the shared steps:
+
+- **Parish candidates, merged or closed parishes, diocesan copies:** [Catholic parish and diocesan record recovery](catholic-parish-diocesan-record-recovery.md).
+- **Building a directory series and reading gaps between editions:** [city-directory observation workflow](city-directory-observation-workflow.md).
+- **A grave, cemetery register or burial permit:** [burial evidence packet](burial-evidence-packet.md).
+- **A village with German and Czech names, or a namesake problem:** [historical place-name resolution](historical-place-name-resolution.md); the GenTeam gazetteer step in [German register image recovery](german-register-image-recovery.md), step 2.
+- **Galicia and Bukovina, including Austro-Hungarian military sheets:** [Galicia and Bukovina Habsburg record routing](galicia-bukovina-habsburg-record-routing.md).
+- **A Jewish DNA signal or naming clue in a family recorded as Christian:** [Jewish genealogy conditional hypotheses](jewish-genealogy-conditional-hypotheses.md).
+- **Frame versus volume and the inspection ledger:** [archival image coverage verification](archival-image-coverage-verification.md).
+- **Identity rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
+
+## Inputs to gather first
+
+Gather these before searching:
+
+- the event type and exact or approximate date
+- the place under every name form seen (German, Czech), each with the record it came from
+- for Vienna: a street address and the year it was valid, if any record gives one
+- the confession at the event date, and any sign of a change: a conversion, a withdrawal, a mixed marriage or an unexplained gap
+- any register signature, Matricula volume or index hit already seen
+
+## 1. Fix which register the law used on the event date (present-day Austria)
+
+This step does not cover Burgenland, which was Hungarian until 1921.
+
+- **Before the cutover, search the confessional register for a member of a recognised church or religious community.** Austria had no state civil registration for the general population before 1938. The recognised churches and religious communities kept the vital registers on the state's behalf: Catholic, Protestant and Jewish (Israelitische Kultusgemeinde, IKG) registers among them [S2]. These are the official records for the period, not a substitute.
+- **For a person in no recognised church or religious community, search the civil register of the political authority.** Under the law of 9 April 1870, the Bezirkshauptmannschaft (district authority), or in a town with its own statute the municipal authority, handled their marriages and kept their birth and death registers [S13]. Someone who left a church without joining another confession is recorded there, not in a parish book.
+- **Use the cutover dates exactly.** Standesämter recorded marriages from 1 August 1938 and births and deaths from 1 January 1939 [S1], [S2]. A marriage in autumn 1938 is in the Standesamt; a birth in the same months is still in the confessional register.
+- **Search the old books at their holders, not at the Standesamt.** The law assigns the registers from before those dates to the churches, religious communities and authorities that hold them, which keep and continue them [S1].
+- **Search each spouse's confession for a mixed or changed-confession family.** One household can have events in two confessional series.
+
+## 2. In Vienna, fix the address before choosing the parish
+
+- **Do not search every Vienna parish.** Catholic parishes cover street-defined territories, so the district does not fix the parish. Take the address for the event year, then place it in the parish that covered that street. Check the parish against the event date with the Catholic recipe.
+- **Get the address from Lehmann's directory.** Lehmann's Vienna address book ran from 1859 to 1942, with no volumes for 1862, 1863, 1866 and 1869; Wienbibliothek Digital offers the digitised volumes with full-text search [S3]. It gives residence and occupation year by year, apart from those four years. Log those four missing years as gaps under the [city-directory observation workflow](city-directory-observation-workflow.md).
+- **Search ANNO for death notices and announcements.** ANNO is the Austrian National Library's searchable portal of digitised newspapers [S4]. A notice can give the address, the date and the church of a funeral.
+- **Search Friedhöfe Wien for a grave.** Its deceased search (Verstorbenensuche) covers the cemeteries Friedhöfe Wien runs and excludes the denominational cemeteries [S5]. A miss there says nothing about a Jewish, Protestant or other confessional cemetery.
+
+## 3. Check the Vienna indexes before paging through year volumes
+
+- **Look for a separate index volume on Matricula.** Vienna Catholic registers on Matricula include index volumes next to the year books; Döbling B-01, for example, is an "Index Trauungen" (marriage index) for 1783–1850 [S6]. Open the parish's volume list and search an index before you turn pages.
+- **Search GenTeam's Vienna databases.** GenTeam is free with a registered login. Its Vienna databases include Catholic baptisms (Katholische Taufen) and Jewish registers (Jüdische Matriken), with separate Catholic, Protestant and Jewish index groups [S7].
+- **Treat every index hit as a pointer.** Open the register image it points to and read the entry there before you record the event.
+
+## 4. Search a Viennese withdrawal from Judaism in both communities
+
+- **Search GenTeam's IKG Austritte 1868–1914 index for a withdrawal.** It indexes about 18,000 withdrawals from the official withdrawal declarations and the withdrawal protocols (Austrittsprotokolle) of the Vienna Jewish communities; its IKG field gives the year and sequence number of the protocol entry [S10]. If the person was baptised, also search the receiving parish's register for the adult baptism.
+- **Use the published indexes by period:**
+
+  | Period | Work | Scope |
+  | --- | --- | --- |
+  | 1782–1868 | Anna L. Staudacher, *Jüdische Konvertiten in Wien 1782–1868* (Peter Lang, 2002) | about 3,000 adults baptised in Vienna [S9] |
+  | 1868–1914 | Anna L. Staudacher, *"… meldet den Austritt aus dem mosaischen Glauben": 18000 Austritte aus dem Judentum in Wien, 1868–1914* (Peter Lang, 2009) | about 18,000 withdrawals [S8] |
+
+  Do not merge the two works into one range or count.
+- **Do not read a Catholic baptism or burial as proof of non-Jewish origin.** For a Catholic Viennese family with a Jewish DNA signal or an unexplained gap, search both works and the parish adult baptisms before you call the Jewish link unproven.
+
+## 5. In the Czech lands, route by the regional archive
+
+- **Search the state regional archive, not the parish.** Czech parish registers (matriky) are held by region in the state regional archives (státní oblastní archivy) [S11]. Route by the archive whose present territory includes the parish that kept the register.
+- **Route the exceptions elsewhere** [S11]:
+  - Jewish registers: the National Archive (Národní archiv);
+  - military registers: the Military Central Archive;
+  - Prague registers: the Prague City Archives.
+- **Route a recent register by its book's last entry.** The registry office (matriční úřad) keeps a birth book for 100 years and a marriage or death book for 75 years after the book's last entry, then transfers it to the competent state regional archive [S14]. A book past that period is at the archive: find the volume in its catalogue, not at the registry office.
+- **Use the archive's own viewer.** The Moravian Provincial Archive in Brno (Moravský zemský archiv, MZA) publishes the registers it holds in Acta Publica, filterable by church originator (Roman Catholic, Evangelical and others) and by civil registry office [S12]. Search the regional archive's online registers before you write to a parish.
+
+## Close with a routing packet
+
+Return:
+
+- **Jurisdiction row:** the place under each name form, the confession at the event date, and which register the law used: confessional, the political authority's civil register for a person without a recognised confession, Standesamt, or Czech regional archive.
+- **Address rows (Vienna):** each Lehmann edition read, the address and occupation found, missing editions, and the parish chosen for each address and year.
+- **Series rows:** for each event, the register or index searched, its holder, the locator (Matricula signature, GenTeam database, archive and volume), and the status: searched, found, not found or not online.
+- **Confession changes:** every withdrawal or adult baptism searched, with the work or register used and the result.
+- **Gaps:** directory years missing, denominational cemeteries not searched, index hits not yet opened on the image.
+
+The model assembles this packet. The researcher decides identity and kinship.

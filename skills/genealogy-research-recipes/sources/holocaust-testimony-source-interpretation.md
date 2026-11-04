@@ -36,6 +36,13 @@ original synthesis, applying the existing evidence/proof recipe to these source 
   <https://forum.j-roots.info/viewtopic.php?f=197&t=12365>. Rights: cited reference, not
   reproduced. Used as the regional compilation example that motivates keeping the region and
   source-list reference with each row or family counter.
+- **H9:** Agency «Узархив» of the Republic of Uzbekistan, [evacuation database](https://evacuation.archive.uz/),
+  opened 2026-11-04. Used for the operator, the name search, and what two opened record pages
+  showed on that date: a "Holocaust" fund label on evacuees recorded as Russian, a list number with
+  a position on the list and no page, and a placeholder birth date.
+- **H10:** State Archive of the Republic of Mari El, [databases of the archive](https://gosarhivrme.ru/ru/bazy-dannykh-gosudarstvennogo-arkhiva-respubliki-mariy-el),
+  opened 2026-11-04. Used for the published lists of citizens evacuated to the Mari ASSR in
+  1941–1945 at evacuation.gosarhivrme.ru.
 
 ## Verification limits
 

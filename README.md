@@ -1,146 +1,63 @@
 # Genealogy Research Recipes
 
-Fact-checked recipes that keep an AI assistant from the usual genealogy mistakes, for DNA
-evidence and for record searches. One [Agent Skill](https://code.claude.com/docs/en/skills),
-packaged for Claude, Hermes Agent and OpenClaw, by [Kinprove](https://kinprove.io).
-No Kinprove account is needed to read the recipes.
+One skill instead of many: DNA evidence and record searches across countries, archives and
+testing companies, in one catalog that grows with every release. Every recipe is fact-checked,
+and its sources are listed beside it.
+
+It is one [Agent Skill](https://code.claude.com/docs/en/skills) for Claude, Hermes Agent and
+OpenClaw, by [Kinprove](https://kinprove.io). It needs no Kinprove account or API key, registers
+no tools or hooks, and makes no network calls of its own.
 
 ## Install
 
-**Claude Code** — run in a session:
+**Claude Code:**
 
 ```text
 /plugin marketplace add Kinprove/genealogy-research-recipes
 /plugin install genealogy-research-recipes@kinprove
 ```
 
-Claude Code does not auto-update third-party marketplaces by default. To receive new
-versions automatically, run `/plugin`, open **Marketplaces**, select `kinprove` and choose
-**Enable auto-update**. To update once by hand, run
-`claude plugin update genealogy-research-recipes@kinprove`.
+Update with `claude plugin update genealogy-research-recipes@kinprove`, or turn on
+**Enable auto-update** for the `kinprove` marketplace under `/plugin` → **Marketplaces**.
 
-**Claude.ai and the Claude desktop app** — open **Customize → Plugins → Add → Add marketplace**,
-enter `Kinprove/genealogy-research-recipes`, then add `genealogy-research-recipes`.
-To update, select **Check for updates** on the `kinprove` marketplace, or turn on
-**Sync automatically**.
+**Claude.ai and the Claude desktop app:** **Customize → Plugins → Add → Add marketplace**, enter
+`Kinprove/genealogy-research-recipes`, then add `genealogy-research-recipes`. Update with
+**Check for updates** on the `kinprove` marketplace, or turn on **Sync automatically**.
 
-The skill states its own release date. When an installed copy is more than a week old, the
-agent mentions once per conversation that a newer version may exist and how to update.
-The agent does not check for updates over the network.
-
-**Hermes Agent** — install and explicitly enable the native plugin:
+**Hermes Agent:**
 
 ```sh
 hermes plugins install Kinprove/genealogy-research-recipes --no-enable
 hermes plugins enable genealogy-research-recipes
 ```
 
-After enabling, ask the agent to discover the plugin with `skills_list` and load
-`genealogy-research-recipes:genealogy-research-recipes` with `skill_view`. Skill-only
-plugins can become available in an open chat; start a new session only if discovery
-has not refreshed. A Hermes Gateway restart is not required for this skill bundle.
+Load it with `skill_view(name="genealogy-research-recipes:genealogy-research-recipes")`; a recipe
+loads with the extra argument `file_path="recipes/<name>.md"`. Update with
+`hermes plugins update genealogy-research-recipes`.
 
-Agent tool calls (not shell commands):
-
-```python
-skills_list(category="plugin")
-skill_view(name="genealogy-research-recipes:genealogy-research-recipes")
-skill_view(
-    name="genealogy-research-recipes:genealogy-research-recipes",
-    file_path="recipes/ai-for-dna-research.md",
-)
-```
-
-Use a relative `file_path` for a recipe, its corresponding `sources/` file, or
-another bundled resource. For example, ask: "Load the Kinprove recipes, read
-`recipes/xdna-phasing-judgment.md`, and distinguish what my X-DNA evidence can
-support from what still needs verification."
-
-Native plugin skills are read-only, namespaced and explicitly loaded; Hermes does
-not add them to the automatic system-prompt skill index. Existing skills with the
-same bare name remain separate. The plugin needs no Python dependencies, API keys
-or Kinprove account and does not configure the optional MCP connector.
-
-Update the installed plugin with:
-
-```sh
-hermes plugins update genealogy-research-recipes
-```
-
-**OpenClaw** — install the native plugin:
+**OpenClaw:**
 
 ```sh
 openclaw plugins install git:github.com/Kinprove/genealogy-research-recipes
 ```
 
-OpenClaw asks you to confirm the source and the plugin's skills. Restart the Gateway
-after installing. The `genealogy-research-recipes` skill then loads like any other
-OpenClaw skill, with every recipe file beside it. The plugin registers no tools or
-hooks, needs no Node dependencies, API keys or Kinprove account and does not
-configure the optional MCP connector.
+Restart the Gateway after installing. Update with
+`openclaw plugins update genealogy-research-recipes`. Published releases are also on
+[ClawHub](https://clawhub.ai) as `clawhub:@kinprove/genealogy-research-recipes`.
 
-Update the installed plugin with:
+The skill states its release date. When an installed copy is more than a week old, the agent
+mentions once per conversation that a newer version may exist and how to update.
 
-```sh
-openclaw plugins update genealogy-research-recipes
-```
+## Registries
 
-## Registries and provenance
-
-These are separate distribution surfaces; adding a native adapter does not
-register the package in another host's public catalog.
-
-- **Claude:** this repository already supplies its own `kinprove` marketplace in
-  [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.json). It is not a
-  claim of inclusion in a separate Anthropic-curated directory.
+- **Claude:** this repository is its own `kinprove` marketplace
+  ([`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.json)), not an entry in an
+  Anthropic-curated directory.
 - **Hermes:** the [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins)
-  lists this package at a separately reviewed exact commit. Install by
-  `genealogy-research-recipes` and enable it as above, or use the repository install.
-  Catalog updates need a new reviewed SHA-pin PR; a source release alone does not
-  move the catalog installation to that release.
-- **OpenClaw:** [ClawHub](https://clawhub.ai) publication is separate from GitHub
-  installation. For a published Kinprove release, use the explicit registry source:
-
-  ```sh
-  openclaw plugins install clawhub:@kinprove/genealogy-research-recipes
-  ```
-
-  Check the publisher, version and source commit on ClawHub before installing.
-  If that release is not available, use the GitHub install above. The OpenClaw
-  runtime plugin ID and update target remain `genealogy-research-recipes`.
-
-To make a direct Hermes repository install reproducible, add
-`--ref <full-commit-sha>` to the install command. Public catalog inclusion does not
-mean a package is maintained by the host or has received a full security audit.
-
-The native adapters expose bundled instructions, not automatic access to your
-DNA accounts or records. They do not make service calls, install an MCP server,
-store credentials, send telemetry, or start background jobs. Individual recipes
-can describe optional services and commands; executing those still requires the
-host's appropriate tools, permissions and any service-specific credentials.
-
-## Publishing to ClawHub (maintainers)
-
-Use a clean checkout of the reviewed commit, with all host manifest versions
-synchronized. Publish under the ClawHub `kinprove` owner using an account with
-access to that owner. The `@kinprove/` package scope must match it.
-
-```sh
-npx --yes clawhub@0.23.3 package validate . --out ../clawhub-validation --json
-npx --yes clawhub@0.23.3 package publish . --family code-plugin --owner kinprove --dry-run --json
-```
-
-Check that the dry-run reports `code-plugin`, the intended version and the exact
-reviewed commit before making a separately authorized live publication. Keep
-`--family code-plugin`: Claude manifests coexist in this repository, so automatic
-family detection can choose a Claude bundle instead of the native OpenClaw package.
-The npm artifact deliberately includes native OpenClaw code and the complete
-skill/resources/license tree, not the other hosts' adapters or development files.
-
-A successful dry-run is not a public release. Authenticate securely, publish the
-same clean commit with the same flags (without `--dry-run`), and verify its
-ClawHub publication/security-check status before announcing availability. Do not
-publish to npm merely because this package uses an npm-style scoped name.
+  pins a reviewed commit, so it can lag behind the latest release; the repository install above
+  follows the default branch.
+- **OpenClaw:** ClawHub publication is separate from the GitHub install; check the publisher,
+  version and source commit on ClawHub before installing from it.
 
 ## Recipes
 
@@ -155,7 +72,8 @@ publish to npm merely because this package uses an npm-style scoped name.
 - **Testimony and record episodes:** [Holocaust testimony and survivor sources](skills/genealogy-research-recipes/recipes/holocaust-testimony-source-interpretation.md), [Russian military and Soviet-repression records](skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md)
 - **Ukrainian archives:** [Jewish named-list triage](skills/genealogy-research-recipes/recipes/jewish-archival-list-triage.md), [ELIB archival guides and volume identity](skills/genealogy-research-recipes/recipes/elib-ukrainian-archive-reference-books.md)
 - **Church and civil registers:** [U.S. vital-registration coverage](skills/genealogy-research-recipes/recipes/us-vital-registration-coverage.md), [U.S. church-record custody](skills/genealogy-research-recipes/recipes/us-church-record-custody.md), [missing marriages](skills/genealogy-research-recipes/recipes/missing-marriage-jurisdiction-search.md), [early New England town books](skills/genealogy-research-recipes/recipes/early-new-england-town-records.md), [Quaker meetings](skills/genealogy-research-recipes/recipes/quaker-meeting-record-recovery.md), [Catholic parish, diocesan and status-proof holdings](skills/genealogy-research-recipes/recipes/catholic-parish-diocesan-record-recovery.md), [Catholic cross-notations](skills/genealogy-research-recipes/recipes/catholic-sacramental-cross-notations.md), [Hispanic Catholic registers](skills/genealogy-research-recipes/recipes/hispanic-catholic-register-recovery.md), [Portuguese parish and civil registers](skills/genealogy-research-recipes/recipes/portuguese-parish-civil-register-recovery.md), [French-Canadian registers](skills/genealogy-research-recipes/recipes/french-canadian-register-recovery.md), [French and Belgian civil acts](skills/genealogy-research-recipes/recipes/french-belgian-civil-act-extraction.md), [Dutch civil and church records](skills/genealogy-research-recipes/recipes/dutch-civil-church-record-recovery.md), [Amsterdam City Archives](skills/genealogy-research-recipes/recipes/amsterdam-archival-record-recovery.md), [Swedish parish registers](skills/genealogy-research-recipes/recipes/scandinavian-parish-record-recovery.md), [Scandinavian patronymic and farm names](skills/genealogy-research-recipes/recipes/scandinavian-patronymic-farm-name-record-recovery.md)
-- **Irish and British records:** [England and Wales GRO indexes](skills/genealogy-research-recipes/recipes/england-wales-gro-index-recovery.md), [English records beyond the parish register](skills/genealogy-research-recipes/recipes/english-nonregister-record-recovery.md), [UK censuses and the 1939 Register](skills/genealogy-research-recipes/recipes/uk-census-and-1939-register-interpretation.md), [Scottish parish and statutory registers](skills/genealogy-research-recipes/recipes/scottish-parish-statutory-record-recovery.md), [Irish civil registration](skills/genealogy-research-recipes/recipes/irish-civil-registration-jurisdiction-recovery.md), [Irish emigrant origins](skills/genealogy-research-recipes/recipes/irish-emigrant-origin-locality.md), [Irish valuation and tithe lists](skills/genealogy-research-recipes/recipes/irish-land-valuation-occupancy-series.md), [transported convicts](skills/genealogy-research-recipes/recipes/convict-transportation-record-chain.md)
+- **Country routing:** [Italy](skills/genealogy-research-recipes/recipes/italian-stato-civile-parish-record-recovery.md), [historic Hungary](skills/genealogy-research-recipes/recipes/historic-hungary-record-routing.md), [Austria and the Czech lands](skills/genealogy-research-recipes/recipes/austrian-confessional-register-routing.md), [Spain and Andorra](skills/genealogy-research-recipes/recipes/spanish-civil-parish-record-routing.md), [France by département](skills/genealogy-research-recipes/recipes/french-departmental-record-routing.md), [Australia and New Zealand](skills/genealogy-research-recipes/recipes/australia-nz-record-routing.md), [Canada by province](skills/genealogy-research-recipes/recipes/canadian-provincial-record-routing.md)
+- **Irish and British records:** [England and Wales GRO indexes](skills/genealogy-research-recipes/recipes/england-wales-gro-index-recovery.md), [English records beyond the parish register](skills/genealogy-research-recipes/recipes/english-nonregister-record-recovery.md), [UK censuses and the 1939 Register](skills/genealogy-research-recipes/recipes/uk-census-and-1939-register-interpretation.md), [Scottish parish and statutory registers](skills/genealogy-research-recipes/recipes/scottish-parish-statutory-record-recovery.md), [Irish civil registration](skills/genealogy-research-recipes/recipes/irish-civil-registration-jurisdiction-recovery.md), [Irish wills and deeds](skills/genealogy-research-recipes/recipes/irish-probate-and-deed-recovery.md), [Irish emigrant origins](skills/genealogy-research-recipes/recipes/irish-emigrant-origin-locality.md), [Irish valuation and tithe lists](skills/genealogy-research-recipes/recipes/irish-land-valuation-occupancy-series.md), [transported convicts](skills/genealogy-research-recipes/recipes/convict-transportation-record-chain.md)
 - **German records:** [German register entries](skills/genealogy-research-recipes/recipes/german-register-image-recovery.md), [German emigrant origins](skills/genealogy-research-recipes/recipes/german-emigrant-origin-sources.md), [German local censuses and residential registration](skills/genealogy-research-recipes/recipes/german-local-census-registration-recovery.md), [German military records](skills/genealogy-research-recipes/recipes/german-military-record-period-routing.md), [German official gazettes](skills/genealogy-research-recipes/recipes/german-official-gazette-notice-search.md), [German compensation files](skills/genealogy-research-recipes/recipes/german-compensation-file-recovery.md)
 - **Russian Empire and Soviet records:** [Orthodox metrical books](skills/genealogy-research-recipes/recipes/russian-orthodox-metrical-book-recovery.md), [Jewish metrical books and rabbinates](skills/genealogy-research-recipes/recipes/russian-empire-jewish-metrical-book-recovery.md), [revision-list households](skills/genealogy-research-recipes/recipes/russian-revision-list-household-chaining.md), [Muscovite census and settler origins](skills/genealogy-research-recipes/recipes/muscovite-census-settler-origin-recovery.md), [estate registration status](skills/genealogy-research-recipes/recipes/russian-estate-registration-status.md), [volost and town administrations](skills/genealogy-research-recipes/recipes/russian-volost-town-administration-records.md), [Old Believers](skills/genealogy-research-recipes/recipes/old-believer-sectarian-record-recovery.md), [Orthodox clergy](skills/genealogy-research-recipes/recipes/orthodox-clergy-record-recovery.md), [imperial service lists](skills/genealogy-research-recipes/recipes/russian-imperial-service-record-recovery.md), [schools and universities](skills/genealogy-research-recipes/recipes/school-university-record-recovery.md), [Soviet personal files](skills/genealogy-research-recipes/recipes/soviet-personal-file-recovery.md), [Bessarabia and Moldova by period and district](skills/genealogy-research-recipes/recipes/bessarabia-moldova-record-routing.md), [Galicia and Bukovina by confession and custodian](skills/genealogy-research-recipes/recipes/galicia-bukovina-habsburg-record-routing.md), [the 1944 Chechen and Ingush deportation](skills/genealogy-research-recipes/recipes/chechen-ingush-1944-deportation-records.md)
 - **Censuses, tax, land and property:** [Canadian censuses](skills/genealogy-research-recipes/recipes/canadian-census-interpretation.md), [tax rolls](skills/genealogy-research-recipes/recipes/tax-roll-observation-workflow.md), [deed content](skills/genealogy-research-recipes/recipes/deed-content-relationship-clues.md), [U.S. federal land-entry files](skills/genealogy-research-recipes/recipes/us-federal-land-entry-file-recovery.md), [livestock marks and brands](skills/genealogy-research-recipes/recipes/marks-and-brands-record-recovery.md)
@@ -185,4 +103,4 @@ matches and projects.
 ## License
 
 [FSL-1.1-MIT](LICENSE), © 2026 Kinprove; each version becomes MIT two years after its release.
-Third-party data: [NOTICE](NOTICE).
+Third-party data: [NOTICE](NOTICE). Release and publishing notes: [MAINTAINERS.md](MAINTAINERS.md).

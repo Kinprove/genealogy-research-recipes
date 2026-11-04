@@ -1,6 +1,6 @@
 # Recover Dutch civil acts and the pre-1811 church register behind them
 
-Use this recipe when a Dutch person or couple is missing from an online index, when a marriage after 1811 has to be carried back to baptism registers from before 1811, or when a compiled tree supplies a father, a death date or a sibling set that the original entries may not support. It covers the ten-year tables, marriage supplements and separate contracts, choosing a church register, and the roles of dates in Dutch church registers. For an intention to marry (ondertrouw, banns) compared with the marriage itself, and for testing a reused given name, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For AI extraction of event types, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md). For FamilySearch Catalog and film navigation, use [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
+Use this recipe when a Dutch person or couple is missing from an online index, when a civil marriage has to be carried back to the church baptism registers kept before civil registration began (1811 in most of the country), or when a compiled tree supplies a father, a death date or a sibling set that the original entries may not support. It covers the ten-year tables, marriage supplements and separate contracts, choosing a church register, and the roles of dates in Dutch church registers. For an intention to marry (ondertrouw, banns) compared with the marriage itself, and for testing a reused given name, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For AI extraction of event types, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md). For FamilySearch Catalog and film navigation, use [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
 
 ## When the index fails, open the ten-year tables
 
@@ -11,9 +11,16 @@ A failed online search does not show that the event is missing from the municipa
 - Go to that year's register for that event type, browse to the date, and read the full act. Several candidates with the same name can turn up. Keep each one as a separate candidate until the full act ties it to your family. [S3]
 - If the event may fall outside the block you read (for example a death), repeat the search in the next decade's table. Record which blocks and event groups you read. [S3]
 
-## After 1811, use the marriage supplements to reach the church
+## Once civil registration starts, use the marriage supplements to reach the church
 
-The civil marriage act names the couple's parents and places of origin. The marriage supplements (huwelijksbijlagen) hold the proofs each spouse had to file: a birth or baptism proof, parental consent where it was required, and death proofs for parents who had died. If a spouse was born before 1811, the proof is a baptism extract. That extract names the church and its denomination, which tells you which register to search next. [S2]
+Date the start of civil registration by region before you choose between civil and church records. Do not treat 1811 as one national date:
+
+- **Zeeuws-Vlaanderen:** 1796. Registration became official on 1 July 1796, and separate civil registers began on 22 September 1796. Entries made before that date went into confiscated church registers, the provisionele burgerlijke stand (provisional civil registration). [S12], [S13]
+- **Limburg:** 1796 in most of the province. Check the first year of each Limburg municipality's registers. [S14]
+- **Vlissingen:** 1 April 1808. [S12]
+- **Everywhere else:** 1811. [S12] Take the first date of each municipality's own birth, marriage and death registers before you choose between civil and church records; they can start months into 1811. Schiedam's first civil marriage act is dated 23 June 1811, and its births and deaths start a month later. [S15]
+
+The civil marriage act names the couple's parents and places of origin. The marriage supplements (huwelijksbijlagen) hold the proofs each spouse had to file: a birth or baptism proof, parental consent where it was required, and death proofs for parents who had died. If a spouse was born before civil registration began in the birthplace, the proof is a baptism extract. That extract names the church and its denomination, which tells you which register to search next. [S2]
 
 Make an inventory of the supplements one document at a time: what kind of document it is, which person it concerns, who issued it, and its date. Do not infer a spouse's age from whether a consent document is present. The presenter suggested consent was needed under 21, which is not correct as a general rule. Under the 1838 Dutch Civil Code, consent was required under age 23, and adults still had to ask for it up to age 30. For marriages from 1811 to 1838, apply no age threshold. In every period, read the consent document itself rather than applying an age rule. [S2]
 
@@ -29,6 +36,8 @@ Before you search images, use a register repertorium to see which baptism, marri
 
 A family may have been baptized or married in another town's church of their denomination. The presenter's Catholic ancestors had to go to another town for baptisms and marriages. Do not assume that a town had no church of a denomination: Leiden, her example, did have Catholic places of worship, including hidden churches and, from 1808, the Lodewijkskerk. Use the repertorium to list the registers of that denomination in the home town and in nearby towns. Search all of them before you conclude anything from the home town's registers alone. [S2]
 
+Put the Mennonite (Doopsgezind) and Walloon Reformed registers on that list too, before you call a church-period event missing. Walloon Reformed registers are written in French, so read them with French record terms. [S8], [S10]
+
 ## Give each church-register date its own role
 
 - **Burial:** the date in a pre-1811 burial register is usually a burial date, not a death date. Many entries are really fee records (lists of amounts paid for the burial). Some entries do also give the date of death. Copy a death date only when the entry states one, and never put a burial date in a death field. [S2]
@@ -36,6 +45,7 @@ A family may have been baptized or married in another town's church of their den
 - **Unnamed child:** an entry such as "a child of [father]" often gives only the father. A baptism followed soon after by a child burial is an assumption, not an identification. Keep the burial unassigned unless other evidence names the child. [S2]
 - **Marriage:** the date in a church marriage register is usually the ondertrouw date (when the couple registered their intent to marry), not the wedding date. Read the register's heading or introduction, then label the date "ondertrouw". Use "proclamation" only when the heading or introduction says the entries are banns postings, and "marriage" only when the entry records the ceremony. [S2]
 - **Baptism:** a baptism date is not a birth date unless the entry records both. Typical gaps give an estimate only. Catholic baptisms usually took place within one or two days of birth, often on the day of birth. Reformed baptisms usually took place on the following Sunday, and in some northern provinces up to several weeks later. Record a birth date estimated this way as "on or before [baptism date], estimated", never as a calculated birth date. [S2]
+- **Mennonite baptism:** Doopsgezind congregations baptized only adults, so their baptism date is an adult baptism. Never use it as a birth or infant-baptism date. Find the birth in another source. [S8], [S9]
 
 ## Different surnames do not rule out siblings
 
@@ -53,6 +63,15 @@ In the presenter's demonstration, she searched both spouses at once using "begin
 
 Add a child's baptism, a death or a marriage to the couple's events only when the record ties it to that couple. If the record names a spouse or mother, it must be the same person; a different name excludes the record. If it names no spouse, as many baptism and burial entries name only the father, keep the event as a candidate until other evidence ties it to the same couple. Several men in one town may share a name. Treat a given name reused after a child's death as a hypothesis, and test it as the proof recipe describes.
 
+## After the population registers, request the CBG card
+
+After the bevolkingsregisters (population registers), many municipalities kept gezinskaarten (family cards). Persoonskaarten (personal record cards) replaced them from 1939. [S11]
+
+- **Death between 1939 and 1 October 1994:** the CBG holds the persoonskaart of almost everyone who died while registered in a Dutch municipality. [S11]
+- **Death after 1 October 1994:** the CBG holds the persoonslijst (personal record list). [S11]
+- **Where to ask:** request an extract from the CBG, not the regional archive. The cards and lists cannot be searched online. [S11]
+- **Gaps:** for a death between 1939 and 1 October 1994, a person who had emigrated is not in this register. A Dutch national who died abroad after 1 October 1994 can be in it as a non-resident registration, even after emigrating; a miss in those lists is not a negative. Grown children who had already left home in 1939 are often missing from their parents' card. [S11]
+
 ## Return a recovery packet
 
 Return the following:
@@ -64,5 +83,6 @@ Return the following:
 - the repertorium entry and the church and denomination you chose, including any neighbouring-town registers you searched
 - every church date labelled with its role (burial/fee, ondertrouw/proclamation, baptism, estimated birth)
 - name-adoption register findings
+- the civil-registration start year used for the place, and any CBG card or list requested
 - the recognition wording, quoted literally
 - the questions still open: which spouse is meant, which child is buried, and who the father is

@@ -9,6 +9,9 @@ Use this recipe for retrieval on Newspapers.com and for resolving an alternate h
 coverage is insufficient. For evaluating a recovered person's
 identity, use [Evidence and Proof Judgment](evidence-proof-judgment.md). For difficult
 image transcription or translation, use [AI for Documentary Records](ai-for-documentary-records.md).
+For Australian and New Zealand newspapers, start from Trove and Papers Past with
+[Australia and New Zealand record routing](australia-nz-record-routing.md); the OCR and
+notice-reading rules here apply to them too.
 
 ## Decisive rules
 

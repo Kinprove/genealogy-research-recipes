@@ -84,6 +84,8 @@ Record each range you browsed and the volumes you actually opened.
 
 **For Central and Eastern European directories, yizkor (memorial) books and military lists, search Genealogy Indexer (genealogyindexer.org).** It searches the OCR text of these publications, and its guide warns that the OCR is not fully accurate [S16], [S17]. An empty 'surname near uezd' proximity query is weaker evidence than an empty surname-only query, because an OCR error in either word blocks the match. Also try its OCR-Adjusted matching and wildcards [S17]. If the source list shows no edition for the target guberniya, look for its residents in empire-wide editions and the WWI casualty lists. The page images sit on the holders' websites, and a moved image shows the host's error page, so find the volume at another holder [S18]. Its robots.txt disallows /search/ and /words/ for all robots (checked 2026-11-02), so run searches only in the user's browser [S19].
 
+**For people who lived in Latvia, search the National Library of Latvia's periodika.lv and its digitised books.** Periodika searches the OCR full text of Latvian periodicals from the 18th century to the present, with a language filter [S20]. It includes Russian-language press of the Latvian SSR, such as the Riga paper *Советская молодежь* (Sovetskaya molodezh) [S21]. Some titles still under copyright are not available in full text [S22]. The digitised books collection holds interwar telephone subscriber lists, such as Jelgava 1932/33 [S23]; use them as an address and occupation lead. OCR can merge adjacent columns into a false match, so confirm every hit on the page image.
+
 ## 5. Carry the confirmed title across holders
 
 **Once the exact title is confirmed, search for that title at each other holder.** Check:

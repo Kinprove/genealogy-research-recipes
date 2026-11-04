@@ -72,6 +72,11 @@
 - **S68:** Family History Fanatics, *One Man, Two Same-Named Wives? How to AVOID Bad Merges on FamilySearch*, published 2026-06-15 — [source](https://www.youtube.com/watch?v=0tNC4c2HmQQ). Used for: the same-named wives case listed among workflow 16's sources for untangling a profile that combines several same-named people.
 - **S69:** Family History Fanatics, *Rescue Your Lost Memories: FamilySearch Media Recovery Tool!😟*, published 2023-09-04 — [source](https://www.youtube.com/watch?v=52zi94jhRVQ). Used for: motivating workflow 18's recovery of a missing Memory from an independent copy; no restore tool, cause of loss or lossless result is adopted.
 - **S70:** Family Locket (Nicole Elder Dyer), *Other Relationships on FamilySearch*, published 2023-06-16 — [source](https://familylocket.com/other-relationships-on-familysearch/). Used for: motivating workflow 19's recording of a stated relationship between two established PIDs through Other Relationships; its controls are not treated as current.
+- **S71:** FamilySearch Innovate, *Download your family tree*, opened 2026-11-04 — [source](https://familysearch.org/innovate/export). Used for: GEDCOM export being no longer supported through that resource, with users sent to compatible Family Tree Management Apps in the Solutions Gallery.
+- **S72:** FamilySearch, *App Approval Considerations*, opened 2026-11-04 — [source](https://www.familysearch.org/innovate/app-approval-considerations). Used for: the API being closed to the general public, and solutions that simply copy data out of FamilySearch possibly not being approved.
+- **S73:** FamilySearch Developers, *Compatibility Review Process*, opened 2026-11-04 — [source](https://developers.familysearch.org/main/docs/compatibility-review-process). Used for: the review required for a beta or production key, and the agreements to sign.
+- **S74:** RootsMagic, *FamilySearch Central* (RootsMagic 9 help), opened 2026-11-04 — [source](https://help.rootsmagic.com/RM9/familysearch-central.html). Used for: the Import button importing a tree from FamilySearch directly into a RootsMagic database, and AutoMatch matching people in the file to FamilySearch.
+- **S75:** Ancestral Quest, *FamilySearch features* and *AQ and FamilySearch overview*, opened 2026-11-04 — [source](https://ancquest.com/FamSrchFeats.htm), [overview](https://ancquest.com/aqfsoverview.htm). Used for: Get Ancestors importing ancestral lines from the Family Tree into a local file, import of individuals and families, and individual and group matching with the Family Tree.
 
 ### Source qualifications
 
@@ -98,6 +103,11 @@
   applies S60's scraping and circumvention clauses.
 - S60–S65 supply the facts for the scraping and connector paragraph, the ARK labels and the
   Tree-write rule.
+- S71–S75 supply the facts for the no-website-export and API paragraph. The FamilySearch Help
+  article on creating a GEDCOM file redirected to a page that could not be opened on 2026-11-04, and
+  the current Solutions Gallery listing could not be checked; FamilySearch's current label is
+  "compatible", not "certified". Sending the user to compatible software and then to the
+  destination check is Kinprove synthesis.
 
 ## Credits
 

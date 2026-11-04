@@ -66,6 +66,17 @@ limited to the family's later church. Each step below blocks one of these errors
   absence from a name list ranks an area down but does not exclude it. Houser describes the same
   approach, using surname-distribution views from the 1850s and 1901. It works best for a
   relatively uncommon surname [S7], [S8].
+- Check which census years survive before you log a year as searched. The 1821–1851 returns were
+  mostly destroyed in the 1922 Public Record Office fire at the Four Courts, leaving only fragments.
+  The 1861 and 1871 returns were destroyed by government order shortly after collection, and 1881
+  and 1891 were pulped during the First World War. 1901 and 1911 are the only complete returns
+  from before independence [S14]. For 1841 and 1851, use the census search forms: searches of those
+  returns made for people proving their age for an old-age pension under the 1908 Act. The National
+  Archives of Ireland has withdrawn their online catalogue; use its Reading Room microfilm,
+  FamilySearch or Findmypast, and PRONI for Ulster counties [S15]. The 1926 census covers only the
+  26 counties of the Free State, not Northern Ireland, and has been free online at the National
+  Archives of Ireland since 18 April 2026 [S16]. Report a missing year as a survival gap, not as a
+  failed search.
 - Use the 1901/1911 religious profile of the surname (both censuses record each person's religion)
   to decide which denominations' registers to search. Allow for conversion after emigration. In the
   guests' example, a family that was Catholic in Australia carried a surname that was entirely
@@ -84,6 +95,15 @@ limited to the family's later church. Each step below blocks one of these errors
   date of the lease it recites, and cite the recited lease only through the later document.
 - Search every denomination's registers and every record type held for the locality: land,
   church and miscellaneous name lists. Do not stop at the presumed church [S9], [S10].
+- Search the townland in these further name lists and court books for the years each covers, and
+  log whom each one covers:
+  - the 1766 religious census: surviving parts only, free in the Virtual Record Treasury of
+    Ireland [S17];
+  - the 1796 flax growers' premium lists: about 60,000 growers, most of them in Ulster [S18];
+  - petty sessions order books, largely 1851–1924 with gaps: only people who came before the
+    court [S19].
+
+  Each list covers one class of people, so absence from it does not prove absence from the place.
 
 ## 5. Treat a townland-named farm as a hypothesis
 

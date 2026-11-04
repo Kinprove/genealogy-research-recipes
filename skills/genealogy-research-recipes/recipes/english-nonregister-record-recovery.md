@@ -1,6 +1,6 @@
 # Recover English records beyond the parish register
 
-Use this recipe when an English parish register runs out before the question is answered: a baptism with no father, a death with no will found yet, or a person whose denomination is unclear. List the parish's dated jurisdictions first. Then take each question to the series that applies to it: poor-law, apprenticeship, pre-1858 ecclesiastical probate, or dissenter and Catholic records. Carry each locator from the index to the original. Record which series do not cover the case. The register being silent does not make the question unanswerable.
+Use this recipe when an English parish register runs out before the question is answered: a baptism with no father, a death with no will found yet, or a person whose denomination is unclear. List the parish's dated jurisdictions first. Then take each question to the series that applies to it: poor-law, apprenticeship, pre-1858 ecclesiastical probate, or dissenter and Catholic records. Carry each locator from the index to the original. Record which series do not cover the case. The register being silent does not make the question unanswerable. For a Welsh parish, also apply §6, which covers Welsh names and the Welsh custodians.
 
 Other recipes cover the neighbouring steps:
 
@@ -98,6 +98,21 @@ Other recipes cover the neighbouring steps:
    - The Act of Toleration (1689) gave Protestant dissenters freedom of worship but excluded Catholics [S11] and those who denied the Trinity (Queen Mary University of London, Dissenting Academies Online).
    - Search Anglican, parish-chest, nonconformist and Catholic records for the whole period before calling the person absent. Not being in a Catholic register is not proof they were not Catholic [S11].
    - The presenter names the Catholic Record Society's transcribed Catholic censuses as a route to check [S11]. The Society published the 1767 Returns of Papists. The presenter's claim that it has transcribed most surviving censuses is unconfirmed.
+4. **For a marriage from 1754 to 1837, search the Anglican register first.** From 25 March 1754 (Hardwicke's Marriage Act, replaced in 1823 by a Marriage Act with the same rule) until civil marriage began in 1837, only Church of England marriages were legal in England and Wales [S12], [S16]. Quakers, Jews and the royal family were exempt [S12], [S14]. A nonconformist or Catholic couple of those years will normally be in the parish register. The rule did not apply in Scotland or Ireland [S14], [S15].
+5. **Do not treat TNA as the home of every chapel register.** Registers surrendered to the Non-Parochial Registers Commissions of 1837 (deposited in 1840) and 1857 are at TNA in RG 4 and RG 8 [S12], [S13]. Many chapels kept theirs. Most post-1837 nonconformist registers are in local record offices, and many burial registers are still at the burial ground [S12]. A miss in RG 4 or RG 8 is not a search of the chapel's own registers.
+
+## 6. Wales: names and record routing
+
+1. **Do not identify a Welsh person by surname alone.** Fixed surnames came late and from the top down: most noble families had them by the 16th century, the gentry generally in the 16th, yeomen in the 17th and 18th, and many farmers and labourers only in the 19th or later. Patronymics lasted into the early 19th century in rural areas [S22], [S23], [S27].
+   - Before a fixed surname, a man is named as X ap (or ab) Y, "son of Y", and a woman as X ferch Y, "daughter of Y" [S22], [S23].
+   - Surnames grew out of these forms: ap Rhys became Price, ap Hywel Powell and ap Hugh Pugh; others add -s to the father's forename, as in Jones or Davies [S22], [S23].
+   - Father and son, or brothers, can therefore carry different surnames [S22]. Do not reject a candidate father for that reason. Identify people by parish, farm, occupation and spouse.
+   - Search places in both their English and Welsh forms. The same patronymic problem in another region is handled in [Scandinavian patronymic and farm-name record recovery](scandinavian-patronymic-farm-name-record-recovery.md).
+2. **Look for pre-1858 Welsh wills at the National Library of Wales (NLW), not at TNA or a county record office.** NLW holds the wills proved in the Welsh church courts [S17]. TNA has only PCC wills, for example where the deceased held land in more than one Welsh diocese [S17]. Some border parishes in Powys and Monmouthshire lay in the diocese of Hereford; their wills are at Herefordshire Archive and Records Centre [S18]. Read the diocese from the §1 jurisdiction table before choosing.
+3. **Use NLW for the other diocesan series too.** It holds the marriage bonds and allegations (search its catalogue for them), the bishop's transcripts (not digitised) and the diocesan copies of the tithe maps and apportionments, except for districts that went to English dioceses at disestablishment [S19], [S20], [S21].
+4. **Search chapel registers alongside parish registers.** On Census Sunday 1851 most people attending worship in Wales were nonconformists [S24], [S25]. Apply §5 to Welsh chapels.
+5. **Search Welsh newspapers in Welsh and in English.** An English-only search misses the Welsh-language press.
+6. **Find the local archive with the Archives Wales repository map.** Services follow modern local authorities, not historic counties [S26].
 
 ## Deliver
 
@@ -109,3 +124,4 @@ Return:
 - a parish-chest, union or petty-sessions search log listing survival, digitisation and access gaps
 - named men, premium payers and denomination clues, each recorded as a separate hypothesis with its source
 - original labels quoted exactly
+- for Welsh cases, the diocese and custodian chosen for wills, and the name forms searched

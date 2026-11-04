@@ -212,6 +212,9 @@ search-engine extracts, as marked), and details those pages did not support were
   service record for the event date as a unit lead for choosing documents that might name the
   target. It does not establish shared service, the target's presence, survival or current
   custody.
+- **H48:** Военно-медицинский музей, [Архивные справки](https://milmed.spb.ru/en/arkhivnye-spravki/),
+  opened 2026-11-04. Used for: the museum not answering archive requests since 2012 and sending
+  them to the TsAMO branch for military-medical documents at Lazaretny per. 2, St Petersburg.
 
 ## Verification limits
 

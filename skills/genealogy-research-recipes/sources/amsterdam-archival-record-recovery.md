@@ -12,6 +12,8 @@
 - **S10:** GeneaVlogger, [Answering Live Genealogy and DNA Test Questions](https://www.youtube.com/watch?v=U27k4R4rUkY), 2025-06-21. Used for: ondertrouw fields including the parent a party lived with, and archive 334.
 - **S11:** GeneaVlogger, [Building Michael J. Fox's Family Tree](https://www.youtube.com/watch?v=UKLfId6f51c), 2024-01-12. Used for: following an index hit to the image, marks, and Hebrew-script signatures.
 - **S12:** GeneaVlogger, [Answering Live Genealogy and DNA Test Questions](https://www.youtube.com/watch?v=zOzzh0xDYY0), 2025-08-23. Used for: community vs Dutch-clerk surname spellings.
+- **S13:** Wikipedia (NL), [Burgerlijke stand](https://nl.wikipedia.org/wiki/Burgerlijke_stand), opened 2026-11-04. Used for: the national regulation of 1811 that brought civil registration to Amsterdam, and earlier starts elsewhere.
+- **S14:** encyclo.nl, [Burgerlijke Stand](https://www.encyclo.nl/begrip/Burgerlijke%20Stand), opened 2026-11-04. Used for: the 1811 start in the rest of the Netherlands, which includes Amsterdam, after the earlier southern starts.
 
 **Synthesis vs sources.** Three things are authored synthesis:
 
@@ -23,4 +25,4 @@ The presenters supply the worked examples and their readings of the registers. N
 
 ## Credits
 
-- Kinprove original procedural synthesis; presenter worked examples cited as S1 to S12 and institutional facts checked against the Stadsarchief Amsterdam guides — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; presenter worked examples cited as S1 to S12, civil-registration start dates cited to the reference pages S13 and S14, and institutional facts checked against the Stadsarchief Amsterdam guides — FSL-1.1-MIT (kinprove-original)

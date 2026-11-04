@@ -17,6 +17,15 @@ Start from whichever end you hold. In the teaching case the convict was first fo
 
 The presenter said he found most of the chain on Findmypast, with other items from British and Australian archives [S2]. In an earlier talk he found it through the record suggestions Ancestry linked to one hit [S3]. A platform suggestion is a lead to a record series. It is not a verified episode.
 
+## Route the colonial stages by the receiving colony
+
+Stages 5 to 8 name New South Wales series; only the stage 7 pardons collection also covers Tasmania. Fix the receiving colony from the ship, the trial report or the colonial record you hold, and route the colonial rows by it:
+
+- **Van Diemen's Land (Tasmania), from 1803** [S5]. Libraries Tasmania holds the conduct registers (CON31, CON40), indents (CON14 to CON16) and description lists (CON18, CON19) [S6]. Search the person by name in the Tasmanian Names Index, whose convict records cover people transported to Tasmania and people convicted locally, and which also indexes convict permissions to marry [S5].
+- **Western Australia, June 1850 to January 1868.** The State Records Office of Western Australia holds the convict registers and character books, ticket-of-leave, expiree and reconviction registers, medical records and correspondence [S7].
+
+A miss in a NSW-only series says nothing about a Tasmanian or Western Australian convict. Record which colony's series each search covered.
+
 ## Keep each stage's date role and what it proves
 
 - **A hulk entry does not prove conviction.** The presenter pointed out that one hulk register entry did not show whether the man was held before or after sentence [S1]. Another hulk entry he showed did give a conviction date and a received date [S2]. Record whatever the entry actually states. If it states nothing about sentence, record "stage unstated". Never fill in the conviction from the hulk row.

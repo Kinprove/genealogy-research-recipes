@@ -131,6 +131,11 @@ The date cautions are inferences about what a document actually asserts. In part
 award order after a missing report does not, by itself, establish survival between those dates.
 Obtain an event-specific source before extending a life or death interval.
 
+For a WWII hospital or wound question, send the archive request to the TsAMO branch for
+military-medical documents (филиал ЦАМО РФ военно-медицинских документов, Lazaretny per. 2,
+St Petersburg). The Military Medical Museum has not answered archive requests since 2012 and
+redirects them to that branch. [H48]
+
 For a WWI prisoner taken on the Russian front, the ICRC Geneva archive is the wrong default. By the
 ICRC's own FAQ, lists from the Russian front were not sent to Geneva but collected by the Danish
 Red Cross in Copenhagen; the Geneva documents come mainly from the Western, Romanian and Serbian

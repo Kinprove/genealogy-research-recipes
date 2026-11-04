@@ -99,6 +99,11 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   The post's illustrated table is missing; it does not establish fields in another volume or
   prove ownership.
 
+- **S25:** CompGen, [CompGen-Adressbuch-Datenbank in der Deutschen Nationalbibliothek](https://www.compgen.de/?p=58032),
+  5 April 2023; opened 2026-11-04. Used for: the Datenbank Historischer Adressbücher as a free
+  name-and-place search of 4.4 million transcribed entries at adressbuecher.genealogy.net, the
+  separate DES address-book search, and the scanned address books in CompGen's DigiBib.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

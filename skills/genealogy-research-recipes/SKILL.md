@@ -17,7 +17,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## Version and updates
 
-This copy is version 1.8.0, released 2026-11-04.
+This copy is version 1.9.0, released 2026-11-04.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
@@ -473,6 +473,16 @@ and treat its guardrail as a hard limit on your own output.
 - **`recipes/scandinavian-parish-record-recovery.md`** — Reconstruct a Swedish household through the household-examination, birth, marriage, death and moving registers. *Guardrail:* follow the family by farm and page cross-reference, not by patronymic, and settle identity at the household level.
 - **`recipes/scandinavian-patronymic-farm-name-record-recovery.md`** — Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names. *Guardrail:* the American surname is usually not the register name; separate same-named parishioners by birth date, parents, spouse and farm, never by name alone.
 
+### Country record routing
+
+- **`recipes/italian-stato-civile-parish-record-recovery.md`** — Send an Italian birth, marriage or death to the register that was the legal record in that place and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato civile), then search conscription lists and the population register as separate series. *Guardrail:* date civil registration by the state that ruled the place, not by one national year; an Antenati name-search miss or a missing year is a coverage gap, not proof of absence.
+- **`recipes/historic-hungary-record-routing.md`** — Route a birth, marriage, death, census or tax entry from the pre-1920 Kingdom of Hungary by county, successor state and record type. *Guardrail:* today's border does not pick the holder; fix the county in the event year, and search the 1828 national conscription centrally wherever the village lies today, outside Transylvania.
+- **`recipes/austrian-confessional-register-routing.md`** — Route an Austrian or Czech-lands vital event to the register that legally recorded it: a confessional register, the 1870 register for people outside a recognised church, or the regional archive that now holds the books. *Guardrail:* do not look for a Standesamt record before the 1938 changeover, and a Catholic baptism or burial does not show that a Viennese family had no Jewish origin.
+- **`recipes/spanish-civil-parish-record-routing.md`** — Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the body that holds it on the event date. *Guardrail:* the Registro Civil starts in 1871, the diocese does not follow the modern province, and a parish book is not lost until the diocesan survival list and duplicates are checked.
+- **`recipes/french-departmental-record-routing.md`** — Route a French civil, census, military or notarial record to the département archive and series that hold it, and check whether the act is open. *Guardrail:* there is no national index; a name-search miss in mostly unindexed census lists is not absence, and a soldier is searched by classe and recruitment bureau, not by birth year.
+- **`recipes/australia-nz-record-routing.md`** — Route an Australian or New Zealand birth, marriage, death, electoral roll, arrival, newspaper notice, Māori Land Court record or Aboriginal agency file to the holder and date window of its record. *Guardrail:* a pre-separation event belongs to today's state registry, and a miss inside a closure window or outside a digitised run is not a negative.
+- **`recipes/canadian-provincial-record-routing.md`** — Route a Canadian vital registration, world-war personnel file, Métis or First Nations record, or British Home Child to the province, custodian and access category of its date and series. *Guardrail:* Canadian vital records are not one national system; a miss past an archive's release cut-off or inside a registration gap is not an absence.
+
 ### Irish and British records
 
 - **`recipes/england-wales-gro-index-recovery.md`** — Read England and Wales GRO and FreeBMD index entries as registration observations. *Guardrail:* an entry gives a registration quarter, district and locator, not an event date, birthplace, spouse pairing or parentage.
@@ -480,6 +490,7 @@ and treat its guardrail as a hard limit on your own output.
 - **`recipes/uk-census-and-1939-register-interpretation.md`** — Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules. *Guardrail:* settle the year's image, writer, reference night and coverage before reading any value as presence, age or status.
 - **`recipes/scottish-parish-statutory-record-recovery.md`** — Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry and kirk-session records. *Guardrail:* register gaps and unsearched denominations are coverage still to search, not proof that the event did not happen.
 - **`recipes/irish-civil-registration-jurisdiction-recovery.md`** — Carry an Irish civil-registration index entry or townland lead to the matching certificate and its jurisdiction chain. *Guardrail:* the index film is not the certificate and the registration quarter is not the birth date; keep same-named townlands and civil versus Catholic parishes apart.
+- **`recipes/irish-probate-and-deed-recovery.md`** — Recover an Irish will, administration or deed after the 1922 losses through the surviving calendars, will books, indexes and the Registry of Deeds, north and south. *Guardrail:* a calendar entry is neither the will nor proof that it survives, and a Registry of Deeds nil does not show that no land or transaction existed.
 - **`recipes/irish-emigrant-origin-locality.md`** — Resolve an Irish place named by an emigrant's records or family tradition to a searchable locality. *Guardrail:* a named town is a lead of unknown administrative level, not the birthplace, and surname presence or a matching farm name does not prove origin.
 - **`recipes/irish-land-valuation-occupancy-series.md`** — Read Griffith's Valuation, tithe books, valuation revisions and estate rentals as dated occupancy series. *Guardrail:* these lists are not household censuses, and an occupier change is not father-to-son inheritance.
 - **`recipes/convict-transportation-record-chain.md`** — Rebuild a transported British convict's sentence as a chain of dated record episodes. *Guardrail:* one index entry never stands for the whole chain; each episode keeps its own series, locator and date role.
