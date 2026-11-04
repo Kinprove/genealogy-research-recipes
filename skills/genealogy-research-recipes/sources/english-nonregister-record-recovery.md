@@ -22,12 +22,13 @@
 - **S20:** National Library of Wales, [bishop's transcripts FAQ](https://national-library-wales.libanswers.com/faq/230005), opened 2026-11-04. Used for: NLW's bishop's transcripts not being digitised.
 - **S21:** National Library of Wales, [tithe maps FAQ](https://national-library-wales.libanswers.com/faq/229982), opened 2026-11-04. Used for: NLW's set of diocesan tithe maps, excluding districts that moved to English dioceses.
 - **S22:** FamilySearch Research Wiki, [Wales Names, Personal](https://www.familysearch.org/en/wiki/Wales_Names,_Personal), opened 2026-11-04. Used for: ap, ab and ferch naming; when each class took surnames; the Price, Powell and Pugh derivations; brothers with different surnames.
-- **S23:** Wikipedia, [Welsh surnames](https://en.wikipedia.org/wiki/Welsh_surnames), opened 2026-11-04. Used for: patronymics lasting into the early 19th century in rural areas; ap-form and -s surnames.
+- **S23:** Wikipedia, [Welsh surnames](https://en.wikipedia.org/wiki/Welsh_surnames), opened 2026-11-04. Used for: patronymics lasting into the early 19th century in rural areas; surnames hereditary among the gentry from Henry VIII's reign; ap-form and -s surnames.
 - **S24:** Wikipedia, [Nonconformity in Wales](https://en.wikipedia.org/wiki/Nonconformity_in_Wales), opened 2026-11-04. Used for: the nonconformist majority among worshippers on Census Sunday 1851.
 - **S25:** The Open University, OpenLearn, [Methodism in Wales 1730–1850](https://www.open.edu/openlearn/history-the-arts/methodism-wales-17301850/content-section-4), opened 2026-11-04. Used for: the 1851 religious census figures for Wales.
 - **S26:** Archives Wales, [Welsh archive repositories](https://archives.wales/welsh-archive-repositories), opened 2026-11-04. Used for: the map of local archive services.
+- **S27:** FamilySearch, [Welsh Naming Patterns](https://cms-b-assets.familysearch.org/3a/83/1d1c937ade13ac0ea918be16aaa9/welsh-naming-patterns-c-foster.pdf) (class handout), opened 2026-11-04. Used for: fixed surnames adopted by the Welsh gentry in the 16th century and by yeomen in the 17th and 18th.
 
-**What is authored and what comes from the sources.** The question-by-question routing, the locator chain and the deliverable are authored synthesis. The sources supply the worked examples and the presenters' statements. No paternity, denomination or kinship conclusion is drawn from any example. The marriage-law, register-custody and Welsh facts come from the archive, statute, library and reference pages cited as S12–S26; the Welsh routing order and the bilingual newspaper search are authored synthesis.
+**What is authored and what comes from the sources.** The question-by-question routing, the locator chain and the deliverable are authored synthesis. The sources supply the worked examples and the presenters' statements. No paternity, denomination or kinship conclusion is drawn from any example. The marriage-law, register-custody and Welsh facts come from the archive, statute, library and reference pages cited as S12–S27; the Welsh routing order and the bilingual newspaper search are authored synthesis.
 
 ## Credits
 

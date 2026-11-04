@@ -103,7 +103,7 @@ Other recipes cover the neighbouring steps:
 
 ## 6. Wales: names and record routing
 
-1. **Do not identify a Welsh person by surname alone.** Fixed surnames came late and from the top down: most noble families had them by the 16th century, the gentry in the 18th, and many farmers and labourers only in the 19th or later. Patronymics lasted into the early 19th century in rural areas [S22], [S23].
+1. **Do not identify a Welsh person by surname alone.** Fixed surnames came late and from the top down: most noble families had them by the 16th century, the gentry generally in the 16th, yeomen in the 17th and 18th, and many farmers and labourers only in the 19th or later. Patronymics lasted into the early 19th century in rural areas [S22], [S23], [S27].
    - Before a fixed surname, a man is named as X ap (or ab) Y, "son of Y", and a woman as X ferch Y, "daughter of Y" [S22], [S23].
    - Surnames grew out of these forms: ap Rhys became Price, ap Hywel Powell and ap Hugh Pugh; others add -s to the father's forename, as in Jones or Davies [S22], [S23].
    - Father and son, or brothers, can therefore carry different surnames [S22]. Do not reject a candidate father for that reason. Identify people by parish, farm, occupation and spouse.

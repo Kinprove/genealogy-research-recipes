@@ -95,8 +95,8 @@ limited to the family's later church. Each step below blocks one of these errors
   date of the lease it recites, and cite the recited lease only through the later document.
 - Search every denomination's registers and every record type held for the locality: land,
   church and miscellaneous name lists. Do not stop at the presumed church [S9], [S10].
-- For the years before Tithe and Griffith's, search the townland in the class-specific name lists
-  and log the class each one covers:
+- Search the townland in these further name lists and court books for the years each covers, and
+  log whom each one covers:
   - the 1766 religious census: surviving parts only, free in the Virtual Record Treasury of
     Ireland [S17];
   - the 1796 flax growers' premium lists: about 60,000 growers, most of them in Ulster [S18];
