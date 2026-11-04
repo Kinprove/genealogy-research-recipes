@@ -19,6 +19,10 @@
 - **S17:** Genealogy Indexer, [Search Guide](https://genealogyindexer.org/guide), opened 2026-11-02. Used for: the warning that OCR is not fully accurate and can block matches, OCR-Adjusted matching, wildcards and proximity syntax.
 - **S18:** Genealogy Indexer, [Help](https://genealogyindexer.org/help), opened 2026-11-02. Used for: page images hosted on the source websites, the host's error page for a moved image, and the per-gubernia source list.
 - **S19:** Genealogy Indexer, [robots.txt](https://genealogyindexer.org/robots.txt), opened 2026-11-02. Used for: /search/ and /words/ disallowed for all user agents on that date.
+- **S20:** National Library of Latvia, [Periodika](https://lnb.lv/lv/periodika/), opened 2026-11-04. Used for: full-text OCR search of Latvian periodicals from the 18th century to the present, with a language filter.
+- **S21:** National Library of Latvia, [*Советская молодежь*, 18 May 1977, no. 97](https://dom.lndb.lv/data/obj/796499.html), digital object record, opened 2026-11-04. Used for: a Russian-language Riga newspaper of the Latvian SSR in the Periodika collection, with ALTO OCR files.
+- **S22:** National Library of Latvia, [Digitālā bibliotēka article](https://digitalabiblioteka.lv/?module=articleRead&id=656dd366b12db), opened 2026-11-04. Used for: full text being unavailable for some titles because of copyright.
+- **S23:** National Library of Latvia, [*Jelgavas telefonu abonentu saraksts 1932./33. gads*](https://dom.lndb.lv/data/obj/422864.html), digital object record, opened 2026-11-04. Used for: a digitised interwar telephone subscriber list in the Books collection, with page images and ALTO text. No digitised Riga telephone list was found, so the recipe names none.
 
 **What is synthesis and what the sources supply.** The following are authored synthesis:
 
@@ -28,7 +32,7 @@
 - the view-level vocabulary;
 - the register format.
 
-The sources supply the presenters' worked examples and observations, recorded 2016–2024. Platform behaviours were checked against documentation and secondary guides. Nothing was re-tested by live searching. The Genealogy Indexer paragraph's facts come from the site's own pages and robots.txt (S16–S19), opened 2026-11-02.
+The sources supply the presenters' worked examples and observations, recorded 2016–2024. Platform behaviours were checked against documentation and secondary guides. Nothing was re-tested by live searching. The Genealogy Indexer paragraph's facts come from the site's own pages and robots.txt (S16–S19), opened 2026-11-02. The Latvian paragraph's facts come from the National Library of Latvia's own pages and object records (S20–S23), opened 2026-11-04; the column-merge caution is reasoning.
 
 ## Credits
 

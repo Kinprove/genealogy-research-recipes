@@ -60,6 +60,13 @@ S45 is a church-register portal collection page, read on 2026-11-03.
 
 - **S45:** Archion (Kirchenbuchportal GmbH), [Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe: Kirchenbücher online mit ARCHION](https://www.archion.de/de/alle-archive/niedersachsen/niedersaechsisches-landesarchiv/kirchenbuecher-der-evangelisch-lutherischen-landeskirche-schaumburg-lippe/), undated, opened 2026-11-03. Used for: Archion hosting the registers of the former Ev.-luth. Landeskirche Schaumburg-Lippe (Niedersächsisches Landesarchiv, Abt. Bückeburg), and its list including Lauenhagen with Hülshagen. The recipe sets this against the presenter's February 2026 statement in S5. The individual volumes, year ranges and images for the Hülshagen case were not opened or checked.
 
+S46–S49 are pages of the gazetteer's operator and of the Landesarchiv Baden-Württemberg, read on 2026-11-04.
+
+- **S46:** Verein für Computergenealogie (CompGen), [Meyers Gazetteer und Geschichtliches Ortsverzeichnis GOV – eine Gegenüberstellung](https://www.compgen.de/?p=27139), opened 2026-11-04. Used for: GOV recording places and their administrative and church units at historical dates, against Meyers' single 1912 state.
+- **S47:** Verein für Computergenealogie (CompGen), [Geschichtliches Ortsverzeichnis GOV jetzt im GEDCOM-Standard](https://www.compgen.de/?p=67776), opened 2026-11-04. Used for: the unique GOV ID and its citation as a gov.genealogy.net link.
+- **S48:** Landesarchiv Baden-Württemberg, Generallandesarchiv Karlsruhe, [Findbuch 390: Standesbücher – Einführung](https://www2.landesarchiv-bw.de/ofs21/olf/einfueh.php?bestand=12390), opened 2026-11-04. Used for: clergy and rabbis as civil-status officials from 1 January 1810, the yearly second copy sent to the Bezirksamt, mayors as registrars from 1 February 1870, and the transfer of the southern Baden books to Freiburg.
+- **S49:** Landesarchiv Baden-Württemberg, [Familienforschung: Lebensdaten](https://www.landesarchiv-bw.de/de/recherche/rechercheratgeber/57481), opened 2026-11-04. Used for: the Standesbücher 1810–1870 in GLA Karlsruhe 390 (northern Baden) and Staatsarchiv Freiburg L 10 (southern Baden), fully digitised and online.
+
 **What is synthesis and what is not verified.** The ordered procedure, jurisdiction row, version classes and recovery packet are authored synthesis. The sources supply the techniques and the worked examples. The Hesse portal route follows the archive's own instructions (S44). Facts checked against outside authorities are stated directly in the text; the rest are attributed to the presenter or forum participant who stated them.
 
 Not verified, and attributed in the text:

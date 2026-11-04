@@ -60,6 +60,7 @@ The worksheets below work with manually read images or copied index rows.
    [front-matter tip](https://www.youtube.com/watch?v=8i1MYac23ec) and
    [Hayward firm case](https://www.youtube.com/watch?v=68DpL1IWZHc).
 8. For a trade directory such as 'Вся Россия', read the inclusion rule in the volume itself. Posters in a [trade-directory discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) say only larger or guild-paying traders appeared, so a small trader's absence is weak. The town printed can be where the trader registered capital or traded rather than lived. A same-name hit in another town is therefore neither ruled out nor matched.
+9. For a German town, search CompGen's Datenbank Historischer Adressbücher (adressbuecher.genealogy.net), a free index of transcribed address-book entries searchable by name and place. Also run CompGen's separate DES address-book search, which covers further books, and look for page images in CompGen's DigiBib. A hit is an index row: use it for yearly residence and occupation only after opening the edition, and cite the edition, place and page. [S25]
 
 **Artifact:** One coverage row per edition and relevant section:
 repository, directory title, edition year, locality/section, available/access status,

@@ -62,6 +62,15 @@ original archive, file and folio as separate locators. A selected-records copy m
 a whole file. A finding-aid description does not show that a given person appears, so inspect the
 listed folios before drawing any conclusion.
 
+Archives of evacuation destinations also run their own name-searchable evacuee databases, such as
+the Uzarchive agency's evacuation.archive.uz (Uzbekistan) and the Mari El State Archive's
+evacuation.gosarhivrme.ru (people evacuated to the Mari ASSR, 1941–1945). [H9], [H10] Search the
+destination region's database, then the original list it cites. Uzbek records give a list number
+and a position on that list, not a page. A miss is not a negative. A fund label such as
+'Holocaust' on a result says nothing about the person's ethnicity or fate: Uzbek records carry it
+even for evacuees recorded as Russian. On 2026-11-04 the birth dates on the Uzbek records opened
+showed a placeholder date, so take birth data from the original list, not the database card. [H9]
+
 ## Recover separated evacuation household cards
 
 Inspect the actual card's front and reverse before interpreting a derived “with children”

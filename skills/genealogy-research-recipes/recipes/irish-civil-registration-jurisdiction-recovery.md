@@ -40,7 +40,7 @@ Where the actual search expands name variants only for the primary party and tre
 
 **Coverage.** Civil registration of non-Catholic marriages began in 1845. Registration of all births, deaths and marriages began in 1864. [S1] IrishGenealogy.ie releases records under a 100/75/50-year rule (births older than 100 years, marriages older than 75, deaths older than 50) and adds about one more year each year. Work out the current cutoff for the event type before you report a search as complete.
 
-**Northern Ireland after 1921.** IrishGenealogy.ie holds no Northern Ireland civil records after 1921, so a nil result there is not a negative search. [S1] The presenter described FamilySearch films of Northern Ireland indexes and certificate images for 1922–1959 as restricted. Record that as an access status, not as "no record". [S1]
+**Northern Ireland after 1921.** IrishGenealogy.ie holds no Northern Ireland civil records after 1921, so a nil result there is not a negative search. [S1] The presenter described FamilySearch films of Northern Ireland indexes and certificate images for 1922–1959 as restricted. Record that as an access status, not as "no record". [S1] Search GRONI (General Register Office Northern Ireland) instead. It holds the registrations for what is now Northern Ireland from the start, births and deaths from 1864 and marriages from 1845 (non-Catholic) and 1864 (all), so it also covers six-county events before 1922. [S7] GRONI Online shows births over 100 years old, marriages over 75 and deaths over 50. For later entries, book the Public Search Room in Belfast or order a certificate. [S6]
 
 ## 4. Check where non-Catholic registers survive before choosing a route
 

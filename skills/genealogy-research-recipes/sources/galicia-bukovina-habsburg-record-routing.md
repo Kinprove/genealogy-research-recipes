@@ -1,6 +1,6 @@
 ## Sources
 
-Facts were checked on 2026-11-02 against two Polish statutes, archive pages and catalogue records, scholarly articles, reference works and genealogy sites (S2–S38). No register, card file or archive unit was inspected.
+Facts were checked on 2026-11-02 against two Polish statutes, archive pages and catalogue records, scholarly articles, reference works and genealogy sites (S2–S38); S39–S40 were opened on 2026-11-04. No register, card file or archive unit was inspected.
 
 - **S2:** Wikipedia, [Kingdom of Galicia and Lodomeria](https://en.wikipedia.org/wiki/Kingdom_of_Galicia_and_Lodomeria), opened 2026-11-02. Used for Habsburg rule in Galicia from 1772 (with S3), the Kreise until 1867 and the political districts (Bezirkshauptmannschaften, powiaty) from 1867 (with S35), and the West Ukrainian People's Republic of late 1918 (with S33).
 - **S3:** Archiwum Państwowe w Zamościu, [*Archiwariusz*, 2020 (PDF)](https://archiwariusz.zamosc.ap.gov.pl/images/pliki/2020/2020_3.pdf), seen in search results only, 2026-11-02. Used for the Austrian occupation from 1772 (with S2).
@@ -47,9 +47,11 @@ Facts were checked on 2026-11-02 against two Polish statutes, archive pages and 
 - **S36:** Sejm of the Republic of Poland (ELI), [Ustawa z dnia 12 lutego 1926 r. o utworzeniu samodzielnej gminy wiejskiej „Czachary-Zbaraskie” w powiecie zbaraskim (Dz.U. 1926 poz. 130)](https://api.sejm.gov.pl/eli/acts/DU/1926/130/text.html), opened 2026-11-02. Used for the rural commune (gmina wiejska) within a powiat under the Galician municipal statute of 12 August 1866.
 - **S37:** The Archives of Jewish Bukovina & Transylvania (Leo Baeck Institute), [Collection of civil records (Suceava county)](https://jbat.lbi.org/items/show/1740), opened 2026-11-02. Used for the civil-status collection of the National Archives of Romania, Suceava County Branch (Colecție de stare civilă, fond 12): birth, marriage and death books of 1784–1950, mostly kept by the clergy and collected by the archives after the Second World War, arranged by locality and then by confession, for today's Suceava county, which includes all of Southern Bukovina.
 - **S38:** Internet Encyclopedia of Ukraine, [Central State Historical Archive of Ukraine in Lviv](https://www.encyclopediaofukraine.com/pages%5CC%5CE%5CCentralStateHistoricalArchiveofUkraineinLviv.htm), opened 2026-11-02. Used for TsDIAL's court books of eastern Galicia from the 15th to 18th centuries, more than 6,500 volumes.
+- **S39:** Gesher Galicia, [Record Inventories](https://www.geshergalicia.org/inventory/), opened 2026-11-04. Used for the searchable inventories of Galician record holdings, including Gesher Galicia's inventory of AGAD Fond 300 (with S17).
+- **S40:** Routes to Roots Foundation, [Archive Database](http://www.rtrfoundation.org/search.php), opened 2026-11-04. Used for the town-by-town listing of surviving Jewish and civil records in Eastern European archives, with years and holding archive, and the recommended "Begins With" town search.
 
 **What is authored synthesis:** the step order, the date-and-village jurisdiction rule, the confession defaults turned into searches, the name lanes, the Lviv-and-Warsaw check, the cohort-and-domicile route for military papers and the routing packet are this recipe's own, while the sources supply the dates, custody facts, record contents and figures.
 
 ## Credits
 
-- Kinprove original procedural synthesis; facts checked against two Polish statutes, Austrian State Archives pages and catalogue records, AGAD and TsDIAL publications, a Romanian archive catalogue record, CompGen pages, the Internet Encyclopedia of Ukraine, scholarly articles and genealogy sites cited as S2 to S38 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; facts checked against two Polish statutes, Austrian State Archives pages and catalogue records, AGAD and TsDIAL publications, a Romanian archive catalogue record, CompGen pages, the Internet Encyclopedia of Ukraine, scholarly articles and genealogy sites cited as S2 to S40 — FSL-1.1-MIT (kinprove-original)

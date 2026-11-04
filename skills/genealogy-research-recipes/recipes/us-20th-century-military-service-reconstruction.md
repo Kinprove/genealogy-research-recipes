@@ -61,6 +61,16 @@ The stone itself can supply the unit when nothing else names it [S5], [S6].
 
 Not appearing in the VA Nationwide Gravesite Locator is a non-result. Tanner says his grandfather had a VA marker but was missing from the locator [S5]. Log the search and its scope, then check the marker and the application.
 
+## Bound a WWII Army enlistment search in AAD before reading a miss
+
+NARA's WWII Army Enlistment Records in the Access to Archival Databases (AAD) hold about 9 million Army enlistments from 1938–1946, including the Women's Army Auxiliary Corps and the Enlisted Reserve Corps. They exclude Army officers and every other service: Navy, Marine Corps and Coast Guard ([NARA, WWII electronic records](https://www.archives.gov/research/military/ww2/electronic-records.html); [NARA press release, 2004](https://www.archives.gov/press/press-releases/2004/nr04-64.html)).
+
+The file was converted from punch-card microfilm. 212 rolls holding about 1.5 million cards were too dark to scan, and 160,390 records only flag that cards at that point were unreadable ([Prologue, 2006](https://www.archives.gov/publications/prologue/2006/spring/aad-ww2.html)). An AAD miss is therefore not evidence that he did not enlist.
+
+- Coded fields, such as residence state and county, need AAD's code lists and field notes. Read the code from the list; do not guess it ([Prologue, 2006](https://www.archives.gov/publications/prologue/2006/spring/aad-ww2.html)).
+- Tell same-name men apart by state of residence and year of birth. For a common surname, narrow the query by state of residence before reading the results.
+- AAD can refuse automated fetches: an automated fetch got HTTP 403 on 2026-11-04. Do not rely on web search to find its record pages. Log a 403 or an empty web search as an access failure, not a no-record finding, and search AAD in a browser session.
+
 ## Test state and local routes before calling the claim unsupported
 
 Absence from federal service lists does not show non-service. In Tanner's repeated account, a man missing from every WWI list he searched had served in a National Guard unit [S1], [S3], [S4], [S5], [S6]:
@@ -128,7 +138,7 @@ Do not accept the National Archives WWII casualty lists as a complete roster. Th
 
 Deliver three things:
 
-1. **Register:** one row per product (OMPF/B/R/auxiliary, burial case file/IDPF with its custodian, VA C-file, VA Master Index card, BIRLS, compensation file, headstone application both sides, Guard records per state, county discharge, state WWI questionnaire/Gold Star packet, morning/after-action reports, transport lists, unit histories). Each row gives custodian, access status, release used, date requested and result (including page count, refusal, summary-only reply, appeal or pending). For a state questionnaire packet, also retain its subject, collection inclusion rule, family informants and the received page/image extent.
+1. **Register:** one row per product (OMPF/B/R/auxiliary, burial case file/IDPF with its custodian, VA C-file, VA Master Index card, BIRLS, AAD enlistment record, compensation file, headstone application both sides, Guard records per state, county discharge, state WWI questionnaire/Gold Star packet, morning/after-action reports, transport lists, unit histories). Each row gives custodian, access status, release used, date requested and result (including page count, refusal, summary-only reply, appeal or pending). For a state questionnaire packet, also retain its subject, collection inclusion rule, family informants and the received page/image extent.
 2. **Dated timeline:** three marked columns: personal entries, unit-level context and derivative annotations.
 3. **Negative searches:** each with its scope (database, name form, branch, state, date range).
 

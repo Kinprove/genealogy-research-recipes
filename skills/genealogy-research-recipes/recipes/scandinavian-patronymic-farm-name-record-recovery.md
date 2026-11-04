@@ -64,6 +64,25 @@ Tanner warns that a Norwegian line with no source at the house-census or farm le
 
 A candidate matches only when several of these discriminators agree. Leave any column you could not fill blank, and send the merge-or-separate decision to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Read a Norwegian bygdebok by farm, then verify it
+
+- A bygdebok, often a *gard og slekt* (farm and family) volume, is a compiled secondary source. It is arranged by gårdsnummer and bruksnummer (farm and holding numbers), and husmannsplasser (cottars' places) are treated in the chapter of the farm they belong to. [S10], [S12] Find the volume for the parish and read it under the farm and its numbers, not by surname.
+- Rygh's *Norske Gaardnavne* covers the matrikkel (land-register) farm names. For a plass, search under its parent farm. The same farm name recurs in different parishes; Rygh lists 13 farms called Nyborg. [S11] Fix the parish before you use a farm name as a key.
+- Search nb.no (Nettbiblioteket, the National Library's online library) for the volume. If you cannot open the full text, log an access gap, not a miss.
+- Check every bygdebok statement against the kirkebøker (church books) and censuses on Digitalarkivet before you use it.
+
+## Use Norwegian censuses and emigrant protocols within their ranges
+
+- The national censuses that name each person are 1801, 1865, 1875, 1891, 1900, 1910 and 1920. [S13], [S15] The 1815, 1825, 1835, 1845 and 1855 censuses were numeric counts. Only some name lists from them survive, in ministers' and town archives, so a gap between 1801 and 1865 is expected. [S13]
+- The 1920 census was released in December 2020 as scans first, with searchable transcriptions added gradually. Check whether your municipality is searchable before you read a nil from a name search. [S15]
+- Police emigrant protocols start at different dates in each port. Oslo's begin in 1867. [S14] Check the range for the port on Digitalarkivet. For a departure before that range, search the home parish's church book for a moving-out note.
+- Treat a link in Historisk befolkningsregister (histreg.no) as a derived hypothesis. Check it against the scanned record.
+
+## Denmark: go beyond the church books
+
+- Use the census transcriptions in DDD (Dansk Demografisk Database, run by Rigsarkivet), and check each one against the scan on Arkivalieronline. [S16]
+- Use the lægdsruller (military levying rolls) to bridge censuses for men. From 1788 to 1848 they enrolled males of the peasant class from birth, and from 1849 all men. They give the father's name (the mother's if the man was born outside marriage) and the man's moves while liable for service. Moves can be followed across the country from 1789. Before 1788 only scattered rolls survive. [S17]
+
 ## Rebuild siblings and marriages from the named parents
 
 - **Sibling sets.** Build these from the parents named in each baptism, not from a shared surname. Around a parish's change to fixed surnames, older children may carry the father's patronymic while younger ones carry a fixed surname [S6]. Brady says adult siblings in Sweden chose their own fixed surnames, so two brothers can have different surnames [S1].

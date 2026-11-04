@@ -1,6 +1,6 @@
 ## Sources
 
-Based on recorded talks (reviewed 2026-10-20). Selected claims were checked against FamilySearch on 2026-10-21. S13 to S22 add blog posts and one further recorded talk (S15); their claims were checked against FamilySearch and other web pages on 2026-10-23, and those not confirmed are listed below. The registers, Catalog entries and diocesan holdings mentioned were not independently inspected.
+Based on recorded talks (reviewed 2026-10-20). Selected claims were checked against FamilySearch on 2026-10-21. S13 to S22 add blog posts and one further recorded talk (S15); their claims were checked against FamilySearch and other web pages on 2026-10-23, and those not confirmed are listed below. The registers, Catalog entries and diocesan holdings mentioned were not independently inspected. S23 to S27 are official, archival and scholarly sources opened on 2026-11-04 for the Buenos Aires, Argentine gazette and casta additions.
 
 - **S1:** BYU Family History Library / James Tanner, [Researching Mexico](https://www.youtube.com/watch?v=9v7JgWO4ePE), 2015-08-24. Used for:
   - parish versus municipality jurisdiction and same-named Catalog entries
@@ -60,6 +60,11 @@ Based on recorded talks (reviewed 2026-10-20). Selected claims were checked agai
   - civil and church entries for one Mexican marriage with different dates, and which is usually earlier
   - the steps of the 1859 civil-marriage law, also checked against a transcription of the law
   - the worked example of three civil acts followed by the church marriage
+- **S23:** Gobierno de la Ciudad de Buenos Aires, [Solicitud de partidas](https://buenosaires.gob.ar/tramites/solicitud-partidas), opened 2026-11-04. Used for: the act reference (circunscripción/sección, tomo, acta, year), and orders without the reference going through a separate registry search.
+- **S24:** Robert McCaa, [Calidad and clase in Spanish America, 17-18th centuries](https://users.pop.umn.edu/~rmccaa/colonial/calidad/slides.htm) (lecture slides), opened 2026-11-04. Used for: calidad as social standing shaped by dress, speech and conduct as well as descent, and labels shifting by passing and drift.
+- **S25:** Internet Archive, [Boletín Oficial de la República Argentina, 2da sección, 2 January 1950 (OCR text)](https://archive.org/stream/Boletin_Oficial_Republica_Argentina_2da_seccion_1950-01-02/1950-01-02_djvu.txt), opened 2026-11-04, compared with the [1ra sección of 29 December 1949](https://archive.org/stream/Boletin_Oficial_Republica_Argentina_1ra_seccion_1949-12-29/1949-12-29_djvu.txt). Used for: succession edicts naming the court and secretaría, and court edicts in the second section from January 1950 and in the first section before.
+- **S26:** Internet Archive, [Advanced search: Boletín Oficial 1ra sección items](https://archive.org/advancedsearch.php?q=identifier%3ABoletin_Oficial_Republica_Argentina_1ra_seccion*&fl%5B%5D=identifier&sort%5B%5D=identifier+asc&rows=5&output=json), opened 2026-11-04. Used for: the gazette on the Internet Archive from its 1893 issues.
+- **S27:** Boletín Oficial de la República Argentina, [130 Aniversario: Historia](https://s3.arsat.com.ar/cdn-bo-001/130_Aniversario-Historia.pdf), opened 2026-11-04. Used for: the gazette's publication since 1893.
 
 **What is authored synthesis:** the ordering of the steps, the field-separated extraction, the name register, the paired event table, the sweep log and the coverage packet. The presenters supply the record behaviours and the examples. Also authored: recording the civil registry district and the Catalog series used, using named grandparents to target the parents' records, searching back from a civil marriage act for the declaration, and reading differing civil and church marriage dates as stages.
 
@@ -82,4 +87,4 @@ No Catalog structure, diocesan holding or current FamilySearch behaviour is asse
 
 ## Credits
 
-- Kinprove original procedural synthesis; record behaviours and examples paraphrased from recorded BYU Family History Library, Family History Fanatics and JewishGen talks and from Legacy Tree Genealogists and Vita Brevis (NEHGS) blog posts, cited as S1 to S22, with selected facts checked against FamilySearch Wiki, collection and Catalog pages — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; record behaviours and examples paraphrased from recorded BYU Family History Library, Family History Fanatics and JewishGen talks and from Legacy Tree Genealogists and Vita Brevis (NEHGS) blog posts, cited as S1 to S22, with selected facts checked against FamilySearch Wiki, collection and Catalog pages; Buenos Aires registry, gazette and casta facts cited to the official, archival and scholarly sources S23 to S27 — FSL-1.1-MIT (kinprove-original)

@@ -4,7 +4,8 @@ Original procedural synthesis. The sources below are attributed and paraphrased;
 photographs, database rows and real family examples are not reproduced. The facts in the
 former-Soviet grave-portrait, burial-database and Russian municipal-database rules were checked
 on 2026-11-02 against P30–P34. The е/ё, row-cap, UTC and aggregator rules are reasoning rules,
-not observed behaviour of any named site.
+not observed behaviour of any named site. The facts in the Israeli burial-society, Riga, Hebrew-year,
+ב"ב and landsmanshaft-plot rules were checked on 2026-11-04 against P39–P52.
 
 - **P1:** MyHeritage, *Discover Family History Through Gravestones*, published 2014-03-31 —
   [webinar](https://www.youtube.com/watch?v=xsDpYFkS_LI). Office/plot preparation, bilingual
@@ -212,6 +213,64 @@ not observed behaviour of any named site.
   and Truro inventory files, images and individual marker or burial claims were not inspected.
   The lookup and locator controls are Kinprove procedural synthesis; no universal category labels
   or source-material reuse rights are inferred.
+
+- **P39:** Israel Genealogical Society, [Burial Societies](https://genealogy.org.il/resource-guides/burial-societies/),
+  opened 2026-11-04. Used for: burial societies holding the burial records, and a current English
+  list of societies based on the Ministry of Religious Services' Hebrew lists.
+
+- **P40:** MyHeritage Wiki, [Grave records in Israel](https://www.myheritage.com/wiki/Grave_records_in_Israel),
+  opened 2026-11-04. Used for: a nationwide collection of grave images from 138 Israeli cemeteries,
+  built with BillionGraves, that does not contain every grave. No source checked states outright
+  whether an official national register exists, so the recipe makes no claim either way.
+
+- **P41:** Riga City, [Data on 800,000 burials digitised in Riga](https://www.riga.lv/en/article/data-800000-burials-digitised-riga),
+  dated 2022-11-11, opened 2026-11-04. Used for: about 800,000 burials in 13 Riga cemeteries
+  digitised and published on cemety.lv, and citizens being able to send updates and additions.
+
+- **P42:** cemety.lv, [cemetery information system](https://cemety.lv/), opened 2026-11-04. Used for:
+  name and surname search, and a region filter covering Rīga and other Latvian municipalities.
+
+- **P43:** Hebcal, [Hebrew date converter: 1 Tishrei 5718](https://www.hebcal.com/converter?hd=1&hm=Tishrei&hy=5718&h2g=1),
+  opened 2026-11-04. Used for: 1 Tishrei 5718 = 26 September 1957, which anchors the −3761 and −3760
+  rule.
+
+- **P44:** Wikipedia, [Hebrew numerals](https://en.wikipedia.org/wiki/Hebrew_numerals), opened
+  2026-11-04. Used for: tombstone years written without the thousands (לפ"ק), and 15 and 16 written
+  ט"ו and ט"ז.
+
+- **P45:** Wikipedia, [Hebrew calendar](https://en.wikipedia.org/wiki/Hebrew_calendar), opened
+  2026-11-04. Used for: adding 3760 before Rosh Hashanah and 3761 after it, Adar I and Adar II in
+  leap years, and sources disagreeing on which Adar is the 'real' one.
+
+- **P46:** Guide to the Jewish Cemetery in Kalisz, [Tombstone records](https://sites.google.com/view/guidetothejewishcemeteryinkali/home/tambstone-records),
+  opened 2026-11-04. Used for: the death year given without the thousands ('by the small count'),
+  and Adar counted twice in leap years, as a second reference beside P44 and P45.
+
+- **P47:** Wikipedia, [Honorifics for the dead in Judaism](https://en.wikipedia.org/wiki/Honorifics_for_the_dead_in_Judaism),
+  opened 2026-11-04. Used for: the expansion of נלב"ע as נפטר לבית עולמו before a death date.
+
+- **P48:** Hebrew Wiktionary, [ב"ב](https://he.wiktionary.org/wiki/%D7%91%22%D7%91), opened
+  2026-11-04. Used for: the list of expansions of ב"ב, including בני ביתו, בבא בתרא, בעל בית, בן בנו
+  and בני ברק. The list does not rank them; no source checked says which reading is usual in
+  pre-state documents.
+
+- **P49:** Saul Lieberman, *Tosefta Ki-Fshutah*, [abbreviation list (PDF)](https://www.massorti.com/IMG/pdf/liberman_tosseftanashim6.pdf),
+  opened 2026-11-04. Used for: ב"ב as בבא בתרא in rabbinic scholarly usage.
+
+- **P50:** YIVO Institute for Jewish Research, [Guide to the YIVO Archives in New York](https://yivoarchives.yivo.org/index.php?p=pages/yivoarchives_in_new_york),
+  opened 2026-11-04. Used for: the YIVO Archives holding the records of hundreds of landsmanshaftn.
+  The guide and P51 give different counts, so the recipe states none.
+
+- **P51:** Center for Jewish History, [Landsmanshaftn subject guide](https://libguides.cjh.org/JewishPhilanthropy/Landsmanshaftn),
+  opened 2026-11-04. Used for: landsmanshaftn as societies of immigrants from the same town, YIVO's
+  landsmanshaft holdings with a finding aid arranged by ancestral town, and the database of Jewish
+  burial-society plots in New York area cemeteries, which also covers synagogues, family circles,
+  fraternal groups and unions.
+
+- **P52:** Jewish Genealogical Society of New York, [Burial Society Plot Maps in YIVO's Landsmanshaftn Collections](https://jgsny.org/searchable-databases/burial-society-databases/burial-society-plot-maps),
+  opened 2026-11-04. Used for: society plot maps held in YIVO record groups. Whether relatives
+  cluster in a society plot, and how often a wife was buried in her husband's society plot, were
+  not confirmed; the recipe's caution on her birthplace is reasoning.
 
 ## Credits
 

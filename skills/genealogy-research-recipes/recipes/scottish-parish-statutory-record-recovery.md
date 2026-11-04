@@ -34,6 +34,7 @@ Some steps overlap with other recipes; use those recipes for them:
 - **Leave an OPR index entry unclassified until you read the original.** The index does not show whether an entry is a proclamation of banns or a marriage. [S8]
 - **Read the date's meaning from the entry wording, register by register.** Some registers record the marriage date and some record the proclamation of banns. [S8] Where an entry says "regularly proclaimed and married", Brady reads the date as the first proclamation, with the ceremony after the third Sunday's reading. Record that as "married on or after [date]", not as the marriage date. All three proclamations could be made on one day if a fee was paid, so the marriage can follow the date closely. [S4], [S8]
 - **Keep every date the entry gives as its own field.** Some rural entries give both a contract date and a marriage date. Early baptism entries can give both a birth date and a baptism date. [S1]
+- **Do not move a Scottish January–March date into the next year.** Scotland has started the year on 1 January since 1600, while England kept 25 March until 1752. [S12], [S13], [S14] An OPR date between 1 January and 24 March from 1600 onward is already in the modern year: do not add a year to it and do not double-date it. Where a Scottish document itself writes a double date such as 1 February 1699/1700, the later year is the Scottish year. [S12] The only 1752 change in Scotland is the Gregorian 11-day shift: Wednesday 2 September was followed by Thursday 14 September. [S12], [S14] The English 25 March check still applies to English dates before 1752, including English Quaker records; see [Quaker meeting record recovery](quaker-meeting-record-recovery.md).
 - **Keep two entries for one couple or child as two observations.** They may be:
   - banns proclaimed in both partners' parishes [S8];
   - a baptism in a neighbouring parish [S8];
@@ -68,6 +69,24 @@ Some steps overlap with other recipes; use those recipes for them:
   The presenter worked from a local transcription. She compared the result with the next census to separate the birth mother from the stepmother who raised the child. A confession is the church court's record, not proof of biological parentage. [S5], [S6]
 - **Choose the church register from the civil marriage entry's denomination, not its venue.** Read the "how married" wording (for example, "after banns according to the forms of" a named church) and the officiating minister's signature to identify the denomination and congregation. Use the place of marriage only as an extra locator: regular marriages often took place in private homes. An irregular marriage has no officiating minister and may have no church entry. Where the entry indicates a Catholic marriage, search Findmypast's Scottish Catholic collection, which covers all eight dioceses, for the religious record of the same event. Keep the civil and church entries as two records. [S11]
 
+## Read Scottish census images as enumeration books
+
+- **Every Scottish census image from 1841 to 1911 is an enumeration book.** The household schedules, 1911 included, were destroyed once the census work was finished; the books hold the enumerator's transcription of them. [S20], [S21] A Scottish 1911 entry is therefore an enumerator's copy, not the household's own statement. Do not carry over the England and Wales 1911 household-schedule rule from [UK census and 1939 Register interpretation](uk-census-and-1939-register-interpretation.md). The images are on ScotlandsPeople, and some 1841 books are lost. [S21]
+- **Gaelic was first counted in 1881, not 1871.** [S22] The G or G and E marking in the enumeration books dates from 1891. [S21] Do not expect a Gaelic answer before 1881.
+
+## Route executry and land apart from English probate
+
+- **Executry is not probate.** Commissary courts confirmed executors until 1823, when the local courts were abolished and their business passed to the sheriff courts; Edinburgh's court kept a limited jurisdiction until it was abolished in 1836. [S16] Search the commissary court registers before that and the sheriff court registers after it.
+- **A testament dative does not prove intestacy.** A testament testamentar confirms an executor the deceased named. A testament dative confirms an executor appointed by the court because the deceased named none; the statutory form defines it by the missing executor, not by a missing will. [S15], [S18] NRS and ScotlandsPeople guides shorten this to "no will"; do not repeat that as a finding.
+- **Do not look for land in a testament before 1868.** Only from 1868 could a will pass heritable property. [S15] Trace earlier land through sasines and services of heirs (retours).
+- **Search the right index for the year.** ScotlandsPeople indexes wills and testaments from 1513 to 1925 [S17] (NRS gives the start as 1514 [S15]). For later years use the printed Calendar of Confirmations; NRS holds the 1901–1959 volumes as digitised Virtual Volumes in its search rooms. [S15]
+
+## Bridge censuses with valuation rolls
+
+- **Use the rolls for residence and ownership between censuses.** Assessors compiled valuation rolls every year from 1855, naming the proprietor, tenant and occupier of each property with its annual rateable value. [S19] ScotlandsPeople has indexes and images for 1855, 1865, 1875, 1885, 1895, 1905, 1915, 1920, 1925, 1930, 1935 and 1940. [S19]
+- **A roll is not a household list.** It names only the owner and the resident head of household. Properties rented at under £4 a year, unless on a long lease, carry little detail. [S19] Absence or a bare entry does not prove the person lived elsewhere.
+- **Search by place as well as by name.** The search form has place, parish and burgh fields. The index expands every Mc to Mac; also allow for M' spellings and tee-names (by-names). [S19]
+
 ## Close with an event register
 
 Return the following:
@@ -76,6 +95,7 @@ Return the following:
 - each entry classified from its image, with its locator;
 - the gap periods and denominations searched, and those not searched;
 - the informant-supplied statutory leads as retrieval targets, noting the 1856–60 field omissions where relevant;
-- RCE and kirk-session observations, each dated separately.
+- RCE and kirk-session observations, each dated separately;
+- the testament, valuation-roll and census series searched, with the court or index years covered.
 
 Leave identity and parentage rulings to evidence/proof judgment.

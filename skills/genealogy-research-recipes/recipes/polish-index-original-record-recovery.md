@@ -43,6 +43,28 @@ A results page read with a fetch or HTML tool can show the column headers and no
 very common surname; one such fetch on 2026-11-02 also showed no result counter. Check the loaded
 rows and the counter in a real browser, and never log NIL from such a fetch. [O3]
 
+A Geneteka miss does not exhaust the Polish indexes. Search the regional projects whose area fits
+the parish: Poznań Project (Wielkopolska marriages, 1800–1899), BaSIA (western Poland), Lubgens
+(Lublin region), Projekt Podlasie (Podlasie and Mazovia), GENEO at JZI (Suwałki and Augustów
+area), Świętogen (Kielce region), PomGenBaza (Pomerania) and JRI-Poland (Jewish records).
+Geneszukacz checks a surname only across Geneteka and three other Polskie Towarzystwo
+Genealogiczne lists (1918–1920 soldier lists and the 1926 Polish declaration for the United
+States); it does not search the regional projects. Log each project searched and its coverage for
+the parish before you record NIL. [O5], [O6], [O7], [O8], [O9], [O10], [O11], [O12], [O13]
+
+Search every form of a woman's surname. A surname ending in a consonant takes -owa for a wife and
+-ówna for a daughter (Nowakowa, Nowakówna); one ending in a vowel or -g takes -ina/-yna and -anka
+(Konopczyna, Konopczanka); -ski becomes -ska. [P4], [P6] A maiden name is written z + genitive
+plural: "z Kowalskich" means née Kowalska. The same construction can name a place of origin, so
+read the plural family-name form before taking it as a maiden name. [P5] If an indexed maiden name
+matches no known surname, open the image for a misread "z …" phrase, then search the rebuilt base
+form and the indexed form as separate lanes.
+
+A name joined by "vel" or "alias" (Nowak alias Vilk) is a second name of the same person, not a second
+person, and records may show either name alone. Search each element and the compound, copy the
+compound as written, and do not treat a switch from one element to the other as a new family
+without looking for the joined form. [P5], [P6], [P7]
+
 **Output:** `index URL | candidate | locality/district | confession | event | year | act |
 comments | SKAN destination | observed link result`.
 
@@ -64,6 +86,11 @@ Treat PRADZIAD as a finding aid. Its descriptions can identify locality, confess
 record type and archive; **PRADZIAD does not contain scans**. To investigate scans, follow
 the supplied reference code into the archival fonds, then open **List of files**. The official
 instructions say that the file list shows available units and scan counts. [O1]
+
+Registers were kept in two copies, and from the early nineteenth century the duplicate went to
+the local court; the state archive now holds these court duplicates. [O14] Record which copy an
+image or index row comes from. Before you call an entry unreadable or unannotated, look for the
+other copy, which may sit with a different custodian.
 
 Do not infer the parish's location from the city of the holding archive. A [Polish
 archive-holdings discussion](https://forum.j-roots.info/viewtopic.php?f=165&t=470) shows that a
@@ -124,14 +151,23 @@ locality before sending the request. Do not label the record missing. The source
 threshold, so confirm current custody rules and the office's actual holdings rather than inferring
 a cutoff year. [C2]
 
-For a Congress Poland (Kingdom of Poland) register from roughly the late 1860s onward, expect the
-original entry to be written in Russian. When preparing the request, give the surname in both
-Polish and Russian (Cyrillic) forms. List the known spelling variants and ask explicitly for
-similar-sounding names to be checked. A [Polish archive-request
-discussion](https://forum.j-roots.info/viewtopic.php?f=165&t=470) reports that archives do not
-widen a search unless asked. The source gives only an approximate year for the changeover, so
-confirm the language from the unit itself. Treat a match on a variant as a candidate, not as an
+For a Congress Poland (Kingdom of Poland) register, expect Polish entries until the end of 1867.
+A regulation required Russian from 1 January 1868, but many parishes made the change late, so
+read the language of each year's entries and its index rather than assuming the switch came
+exactly in 1868. Do not expect a Latin-to-Russian switch in these registers; Latin belongs to the
+Austrian and Prussian partitions. [P8], [P9] Use the year's language to choose the search spelling
+and to judge whether a Cyrillic or index spelling re-transliterates a Polish original.
+
+When preparing the request, give the surname in both Polish and Russian (Cyrillic) forms. List the
+known spelling variants and ask explicitly for similar-sounding names to be checked. A [Polish
+archive-request discussion](https://forum.j-roots.info/viewtopic.php?f=165&t=470) reports that
+archives do not widen a search unless asked. Treat a match on a variant as a candidate, not as an
 identity. [C1]
+
+When the vital-record route stops and you turn to printed context, Polona, the National Library of
+Poland's digital library, holds digitised books, periodicals and daily newspapers (browsable by
+date in its press panel), maps, flyers and posters. Treat its OCR text layer as a lead and cite the
+publication and page from the image. [O15]
 
 Use one gap label per unresolved route: `index only`, `broken link`, `fonds unavailable on portal`,
 `unit described without scan`, `access blocked`, or `bounded range inspected without candidate`.

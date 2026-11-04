@@ -1,8 +1,8 @@
 ## Sources
 
-Based on recorded talks (reviewed 2026-10-20). No GRO, FreeBMD, UKBMD or aggregator search screens,
-certificates or registers were inspected. Selected claims were checked against the authorities
-named in Credits.
+S1–S23 are recorded talks, reviewed 2026-10-20. S24–S32 are official, archive and local-index
+pages, opened 2026-11-04. No search screens, certificates or registers were inspected. Selected
+claims were checked against the authorities named in Credits.
 
 - **S1:** BYU Family History Library / Kathryn Grant, [English Civil Registration Made Easy](https://www.youtube.com/watch?v=nKzlWqJ9tX8), 2018-05-30. Quarter names, the 42-day/at-time/five-day deadlines, December-to-March example, districts as administrative units.
 - **S2:** BYU Family History Library / Harold Davis, [GRO Certificates](https://www.youtube.com/watch?v=MhGemAgWBbY), 2017-06-21. Ordering by index details; March-quarter interval reaching into the prior year; certificate contents; don't date from the index.
@@ -27,6 +27,15 @@ named in Credits.
 - **S21:** BYU Family History Library / Kathryn Grant, [Using What You Know to Discover What You Don't Know](https://www.youtube.com/watch?v=rHfbVYAru7s), 2025-11-11. Pre-marriage search under maiden surname; FreeBMD versus GRO fields; dash; volume/page ordering.
 - **S22:** BYU Family History Library / Jerroleen Sorensen, [Adoption and Illegitimacy Research in the UK](https://www.youtube.com/watch?v=OsTDv3X3rBw), 2025-08-12. Hyphen as a general clue; coincident parental surnames.
 - **S23:** BYU Family History Library / Kathryn Grant, [Getting Relationships Right in the FamilySearch Family Tree](https://www.youtube.com/watch?v=PL3LBCW5D6c), 2026-08-19. Marriage index pages listing several unpaired people; fragment built from an index entry.
+- **S24:** General Register Office, [Frequently Asked Questions (certificates)](https://www.gro.gov.uk/gro/content/certificates/faq.asp), opened 2026-11-04. Used for: online index coverage of births 1837–1934 and deaths 1837–1957, plus 1984 to two years ago; births and deaths only.
+- **S25:** UKBMD, [Gloucestershire local BMD indexes](https://ukbmd.org.uk/county/gloucestershire/local_bmd), opened 2026-11-04. Used for: local indexes transcribed from the original registers held by local register offices, and errors and omissions in the GRO's copy.
+- **S26:** Cheshire Archives, [Births, marriages and deaths](https://www.cheshirearchives.org.uk/family-history/births-marriages-and-deaths.aspx), opened 2026-11-04. Used for: GRO volume and page references being unusable when ordering from a local register office.
+- **S27:** Lancashire BMD, [search page](https://lancashirebmd.org.uk/bmdsearch.php), opened 2026-11-04. Used for: a marriage-venue search field and local reference numbers that lead to ordering.
+- **S28:** The National Archives, [Births, marriages and deaths in the Channel Islands and the Isle of Man](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/birth-marriage-death-channel-islands-and-man/), opened 2026-11-04. Used for: civil registration start dates on each island; the Isle of Man's 1849 start and compulsory registration from 1878 (1884 for marriages); parish registers at the Priaulx Library and Manx National Heritage.
+- **S29:** The National Archives, [Census returns, HO 107](https://beta.nationalarchives.gov.uk/catalogue/id/C8971), opened 2026-11-04. Used for: census schedules for England, Wales, the Channel Islands and the Isle of Man in one series.
+- **S30:** Jersey Heritage, [Family history research](https://www.jerseyheritage.org/research-and-collections/family-history-research), opened 2026-11-04. Used for: Jersey civil registration from 1842, wills 1660–1999 and Occupation registration cards at Jersey Archive.
+- **S31:** States of Guernsey, [Island Archives](https://www.gov.gg/islandarchives), opened 2026-11-04. Used for: the civil registry and conveyancing registers at the Greffe, Occupation identity registration forms for everyone over 14, and census records at the Priaulx Library.
+- **S32:** Manx National Heritage, [Library and archives](https://manxnationalheritage.im/collections/library-and-archives), opened 2026-11-04. Used for: Manx National Heritage archives and iMuseum finding aids.
 
 S18 supports the forename-blank technique in "Sweep for the full sibling group", step 1, alongside S12–S14.
 
@@ -34,10 +43,12 @@ S18 supports the forename-blank technique in "Sweep for the full sibling group",
 candidate-spouse table and output packet are authored synthesis. The sources supply the field
 meanings, search behaviours and case examples. Registration deadlines, the 1874 Act's start
 date and late-registration provisions, the 1912 spouse-surname start, FreeBMD's start quarter
-and the GRO's search limits were checked against the authorities listed below. Not checked:
-ordering prices, current aggregator displays, the exact quarter from which the original index
-carried a mother's maiden surname, and the GRO online index's year coverage. No coding for
-under-one ages at death, FreeBMD wildcard syntax or GRO index end date is adopted.
+and the GRO's search limits were checked against the authorities listed below. The GRO online
+index's year coverage, the local-index route and the Isle of Man and Channel Islands routing
+were checked against the official and archive pages cited as S24–S32. Not checked: ordering
+prices, current aggregator displays, and the exact quarter from which the original index
+carried a mother's maiden surname. No coding for under-one ages at death or FreeBMD wildcard
+syntax is adopted.
 
 ## Credits
 

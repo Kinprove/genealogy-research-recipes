@@ -193,6 +193,22 @@ and sailing are known.
 Two websites reproducing one manifest are alternate access paths to that
 record, not two independent attestations.
 
+Departure lists survive unevenly. Choose the series from the manifest's port of
+embarkation and record that series' surviving span in the coverage table before
+searching:
+
+- **Hamburg:** the Staatsarchiv Hamburg holds 555 volumes of emigrant lists,
+  1850–1934, also searchable on Ancestry.[49]
+- **Bremen:** the lists were almost all destroyed. About 3,000 survive for
+  1920–1939, plus fragments for 1907/08, of which only about 16% of the lists
+  remain.[50,55] Treat a Bremen miss outside those years as expected, not as a
+  negative.
+- **Rotterdam:** the Stadsarchief Rotterdam holds the Holland America Line
+  passenger lists with a name search. The index names only the person who made
+  the booking, often with an initial for the first name, so search the person
+  likely to have made the booking, and do not expect other party members to be
+  named.[51]
+
 A published passenger compilation is a derivative, so read its introduction. Some departure-port
 compilations, such as a Bremen-to-New York set, were rebuilt from U.S. arrival manifests. Cite
 such a compilation as derived from the arrival record, not as independent departure evidence,
@@ -465,6 +481,16 @@ repeating name queries once the failure is demonstrably in the image link or
 digitization. A missing online page does not establish that the archival entry
 is missing.
 [Morse image and browse FAQ](https://stevemorse.org/ellis2/faq.htm)
+
+For New York arrivals, browse the NARA microfilm by roll when the index fails
+or a name was never indexed. M237 covers 1820–1897 (675 rolls) and T715 covers
+1897–1957 (8,892 rolls); the two series meet in June 1897.[52] Find the roll
+for the ship and arrival date and read it image by image. Single reels are also
+on the Internet Archive, one item per reel with the reel's date span in the
+description (item IDs such as `passengerlistsoo0148unix` for M237 and
+`passengercrewlis4247unit` for T715).[53] For an 1820–1891 name index, use
+FamilySearch's "New York, Passenger Lists, 1820-1891" (collection 1849782);
+arrivals from 1892 to 1897 are in a separate collection.[54]
 
 ## Prompt-craft
 

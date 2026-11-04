@@ -130,6 +130,8 @@ Before interpreting zero results, try an independently known positive that the s
 
 Remote services may normalize differently from local code. Submit original and transformed queries separately and compare returned identifiers. Check only the syntax needed for the task; do not transfer local regex, wildcards or Boolean syntax to an undocumented interface.
 
+If you build a word index from Tesseract's TSV output, parse it as raw tab-separated text, not as quoted CSV: Tesseract writes each word into its row with no quoting or escaping. [S23] A default reader, such as Python's `csv` module or pandas `read_csv`, uses `"` as its quote character with `QUOTE_MINIMAL`. It treats a word token that begins with a double quote, such as an OCR'd opening quotation mark, as the start of a quoted field, and a quoted field can run across tabs and line ends. [S24, S25] The following rows are then swallowed into one cell, their words vanish from the index, and a name looks absent when it is not: a false negative. Parse with quoting disabled (`csv.QUOTE_NONE`, or `quoting=3` in pandas). Compare the parsed row count with the file's line count minus the header, and check that no text field contains the TSV header or runs of numeric columns.
+
 A Belarusian or Ukrainian database may index names in that language's spelling, in Russian, or
 both. Run each spelling as a separate lane, and calibrate each database's own convention before
 trusting a zero. On 2026-11-02 the Virtual Museum of Soviet Repressions in Belarus (represii.net)

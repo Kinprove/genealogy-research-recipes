@@ -72,6 +72,21 @@ carries a number, record it as part of the locator; in her example the marriage 
 Record the volume, year and entry letter/number for each entry, and keep the literal French
 wording beside your translation.
 
+## Use the second copy when the parish copy fails
+
+Do not say Québec had no civil registration before 1994. Clergy and other legally authorized
+officers kept the civil-status registers in duplicate: one copy stayed in the parish, and the
+civil copy went each year to the local court clerk (prothonotary). [S3], [S4] The Civil Code of
+Québec, in force on 1 January 1994, made the Directeur de l'état civil (registrar of civil
+status) the sole officer of civil status. [S4]
+
+- The court copy is a separately written copy of the same entries. BAnQ holds it once the record
+  is more than 100 years old; more recent registers are with the Directeur de l'état civil. [S3]
+- Because the registers were made in duplicate, one copy may survive where the other was
+  destroyed. [S5] When the parish copy is damaged, illegible or missing, look for the other copy.
+- Image sets such as the Drouin collection or FamilySearch's Québec Catholic parish registers can
+  show either copy. Check which one the image shows, and log the copy you read with the entry.
+
 ## Search the post's own register first, then Notre-Dame de Montréal
 
 Before treating an event as unrecorded, write down the date the local register begins. A register
@@ -131,8 +146,8 @@ family used him.
 Return the following:
 
 1. **Variant log:** every form and order searched, with the database and result for each.
-2. **Combined-register entries:** B/M/S entries with volume and entry locators, plus literal
-   wording.
+2. **Combined-register entries:** B/M/S entries with volume and entry locators, the copy read
+   (parish or court), plus literal wording.
 3. **Register routes:** the post or regional register and its start date, any Notre-Dame de
    Montréal searches (or the unsearched lead), and the date window for each.
 4. **Notarial leads:** grouped by notary, with each marked as inspected act, répertoire only, or

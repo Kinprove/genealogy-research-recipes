@@ -220,6 +220,40 @@ the relevant workflow. Community references:
     <https://stevemorse.org/ellis2/faq.htm>
     Used for repairing wrong-image and missing-frame failures by browsing from the
     ship and date or from nearby frames instead of repeating name queries.
+49. Freie und Hansestadt Hamburg, Behörde für Kultur und Medien, *Link to your
+    Roots*, opened 4 November 2026.
+    <https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/projekte-und-initiativen/link-to-your-roots-110216>
+    Used for the Staatsarchiv Hamburg's 555 volumes of emigrant lists, 1850–1934,
+    searchable on Ancestry.
+50. Staatsarchiv Bremen, *4.57/5 Statistisches Landesamt – Passagierlisten
+    1907–1908* (Archivportal-D), opened 4 November 2026.
+    <https://www.archivportal-d.de/item/RMQ7S2OPT7GU6SOFJ5W327XM4QOJTMCN?lang=en>
+    Used for the surviving 1907/08 Bremen lists, about 16% of those once held.
+51. Stadsarchief Rotterdam, *Passagierslijsten Holland Amerika Lijn*, opened
+    4 November 2026.
+    <https://stadsarchief.rotterdam.nl/passagierslijsten>
+    Used for custody of the HAL passenger lists, the surname and first-name search,
+    and the index naming only the person who made the booking.
+52. National Archives at Atlanta, *Immigration and Naturalization Microfilm*,
+    opened 4 November 2026.
+    <https://www.archives.gov/atlanta/finding-aids/microfilm/immigration.html>
+    Used for M237 (New York arrivals 1820–1897, 675 rolls) and T715 (New York
+    passenger and crew lists 1897–1957, 8,892 rolls).
+53. Internet Archive, *Passenger and Crew Lists of Vessels Arriving at New York,
+    NY, 1897-1957, Reel 4247*, opened 4 November 2026.
+    <https://archive.org/details/passengercrewlis4247unit>
+    Used for the rolls online as one item per reel, with the reel's date span in
+    the description (contributed by the Allen County Public Library).
+54. FamilySearch, *New York, Passenger Lists, 1820-1891* (collection 1849782),
+    opened 4 November 2026.
+    <https://www.familysearch.org/search/collection/1849782>
+    Used for the collection title and ID, and for arrivals 1892–1897 being in a
+    separate collection.
+55. Die Maus, Gesellschaft für Familienforschung, Bremen, *Passagierlisten*
+    (passenger lists) database page, opened 4 November 2026.
+    <https://www.public-juling.de/passagierlisten/?lang=en>
+    Used for the count of about 3,000 surviving Bremen lists for 1920–1939, all
+    other lists being lost.
 
 ## Credits
 
