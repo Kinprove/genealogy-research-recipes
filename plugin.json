@@ -1,0 +1,43 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "genealogy-research-recipes",
+  "version": "1.9.1",
+  "description": "Fact-checked genealogy research recipes: DNA evidence, record searches and proof judgment.",
+  "author": {
+    "name": "Kinprove Ltd",
+    "email": "hola@kinprove.io",
+    "url": "https://kinprove.io"
+  },
+  "homepage": "https://github.com/Kinprove/genealogy-research-recipes",
+  "repository": "https://github.com/Kinprove/genealogy-research-recipes",
+  "license": "FSL-1.1-MIT",
+  "keywords": ["genealogy", "family-history", "dna", "genetic-genealogy", "records", "jewish-genealogy"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Genealogy Research Recipes",
+        "shortDescription": "Fact-checked genealogy recipes",
+        "longDescription": "One skill with fact-checked recipes for family-history research with DNA and records. It covers how to judge evidence and proof, how to reason about DNA matches (unknown parentage, endogamy, Y, mitochondrial and X DNA, cross-vendor comparisons), and practical search playbooks for record sites and testing companies such as FamilySearch, Ancestry, MyHeritage, JewishGen, 23andMe, FamilyTreeDNA and GEDmatch. Country guides cover the United States, the United Kingdom, Ireland, Poland, the Netherlands, France, Germany, Scandinavia, Spain and Latin America, the Russian Empire and the Soviet Union, and more.\n\nFor genealogists, adoptees and family historians who use an AI assistant for research. Every recipe lists its sources.\n\nThe recipes are guidance for the assistant: they do not search record sites, read your DNA results or change any family tree by themselves. The plugin needs no account, registers no tools and makes no network calls of its own; one bundled script looks up name variants offline.",
+        "developerName": "Kinprove Ltd",
+        "category": "Research",
+        "capabilities": [
+          "Judge genealogical evidence and proof",
+          "Interpret DNA matches and shared centimorgans",
+          "Plan record searches by country and archive"
+        ],
+        "websiteURL": "https://kinprove.io",
+        "supportURL": "https://github.com/Kinprove/genealogy-research-recipes/issues",
+        "privacyPolicyURL": "https://kinprove.io/privacy",
+        "termsOfServiceURL": "https://kinprove.io/terms",
+        "defaultPrompt": [
+          "My DNA match shares 1,800 cM with me. What relationships fit, and how do I tell them apart?",
+          "Where should I look for my great-grandfather's birth record in Galicia around 1880?",
+          "Does my evidence that these two men are the same person meet the Genealogical Proof Standard?"
+        ],
+        "brandColor": "#1E3A2F",
+        "composerIcon": "./assets/logo.png",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}
