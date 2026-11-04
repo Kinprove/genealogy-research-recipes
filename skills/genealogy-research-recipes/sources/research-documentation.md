@@ -135,6 +135,14 @@ are used.
 - S33. Nicole Elder Dyer, "RLP 248: RLP with DNA 10 – Research Logs", Family Locket, 2023-04-10,
   <https://familylocket.com/rlp-248-rlp-with-dna-10-research-logs/>. Used for: a research-log
   example, which motivates keeping a dated copy of an earlier phase's log.
+- S34. Roland zu Dortmund, "HEREDIS-ONLINE-ANWENDERTREFFEN - Neues, Fragen, Tipps & Tricks
+  zur beliebten Genealogie-Software", YouTube video, 2023-04-29,
+  <https://www.youtube.com/watch?v=3mYu9JZKeJ0>. Used for: historical saved-transcript
+  examples of event research statuses and filtered research logs, which motivate reconciling
+  a complete task inventory with an archive visit list. Kinprove synthesis: the identifier
+  comparison, exception record and regeneration controls. Limits: no new video inspection or
+  current Heredis interface or export behavior was verified; the example does not establish
+  list completeness or measured benefit. Third-party material is cited, not reproduced.
 
 ## Credits
 

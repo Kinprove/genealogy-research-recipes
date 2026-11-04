@@ -102,6 +102,29 @@ counting them as independent corroboration. Use
 the research question, and [research-documentation.md](research-documentation.md) to retain
 the search and report.
 
+### Diagnose attachment scope and retain the source image during correction
+
+When an image appears in person media but not in a source preview, inspect the
+person-media link and the source attachment separately. Record the expected
+source, image/page locator, person and event. Image presence somewhere in the
+file does not establish attachment to the source or support for a particular
+fact. Resolve the association scope before treating a missing preview as a
+missing file or copying media again.
+
+Keep the correct source page and relevant passage visibly available while
+correcting the related event. Use a supported pinned or locked source view, or
+a separate visible image view if the application permits it. Confirm that
+navigating to the event has not changed the displayed person, source or page.
+If the available viewer blocks editing or cannot retain the image context,
+record that limitation instead of assuming that a particular pane can detach.
+
+Compare the old and proposed event values against that image, preserving the
+source citation and other supported facts. After an authorized correction,
+independently reopen both the source attachment and the person/event: verify
+the intended image association, corrected value, citation, and preservation of
+other facts and relationships. A visible image alone is not attachment or
+successful-save evidence.
+
 ## Recheck shortened report references after editing
 
 If a shortened note depends on the preceding note for its source, re-resolve that reference
