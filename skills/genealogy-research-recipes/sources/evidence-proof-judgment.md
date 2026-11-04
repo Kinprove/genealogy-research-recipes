@@ -203,6 +203,11 @@ the families' death and birth chronology. The transcript and source 6 are versio
 of the same episode, not independent corroboration. Original tax and parish
 records were not independently inspected for this correction.
 
+Maintenance note, 2026-11-04: the printed cross-reference checks, search of related-entry
+footnotes and statement-by-statement attribution chain are Kinprove's original methodological
+synthesis. They add no universal error rate or verified historical identification and are not
+represented as instructions prescribed by the cited third-party sources.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
