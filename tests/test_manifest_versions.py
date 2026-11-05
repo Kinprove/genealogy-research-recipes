@@ -28,7 +28,7 @@ class ManifestVersionTests(unittest.TestCase):
         datetime.date.fromisoformat(released)
 
         self.assertEqual(len(set(versions.values())), 1, versions)
-        self.assertEqual(versions["package.json"], "1.9.1")
+        self.assertEqual(versions["package.json"], "1.9.2")
 
 
 if __name__ == "__main__":
