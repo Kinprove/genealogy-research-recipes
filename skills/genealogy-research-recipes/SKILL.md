@@ -545,7 +545,7 @@ and treat its guardrail as a hard limit on your own output.
 
 - **`recipes/us-military-service-type-record-routing.md`** — Route pre-1900 U.S. military service by service type to its own record series and custodian. *Guardrail:* a miss in federal compiled-service or pension indexes is not "no service", and an empty bounty-land search means nothing if the man was never eligible.
 - **`recipes/us-civil-war-service-record-episodes.md`** — Read Civil War draft registration, service cards, roster remarks and unit events as separate episodes. *Guardrail:* registration is not service, the regiment's battles are not the soldier's, and a database miss does not prove non-service.
-- **`recipes/us-20th-century-military-service-reconstruction.md`** — Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned, thin or restricted personnel file, including state WWI questionnaires and Gold Star family packets. *Guardrail:* check the file's actual status before saying "it burned", and do not give the man his unit's events.
+- **`recipes/us-20th-century-military-service-reconstruction.md`** — Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned, thin or restricted personnel file, including state WWI questionnaires and Gold Star family packets, separate court-martial trial files, discharge-gated final pay and award General Orders. *Guardrail:* check the file's actual status before saying "it burned", keep trial/award references separate from retrieved files, and do not give the man his unit's events.
 
 ### Migration and origins
 
