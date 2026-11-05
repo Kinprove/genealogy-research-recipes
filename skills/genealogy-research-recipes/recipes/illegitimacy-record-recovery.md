@@ -2,7 +2,7 @@
 
 Use this recipe when a child may have been born outside marriage and you need the records that such a birth could create in that jurisdiction: county bastardy bonds, criminal-court fornication and bastardy proceedings, support orders, grand-jury presentments, church discipline or baptism entries, and church-court suits. It covers which records to search and how to record what they say. It does not decide parentage. For the "never legally married" hypothesis and the warning that a woman's recorded surname may not be her maiden name, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). The same recipe covers keeping terms such as "natural child" and "reputed father" in their original wording.
 
-The series checklist below covers US county and court records (North Carolina and Pennsylvania) and church records. It does not list English, Welsh or Scottish parish and Poor Law series. If you are working in those jurisdictions, build their series list separately.
+The series checklist below covers US county and court records (North Carolina and Pennsylvania) and church records, followed by Swedish court and child-welfare retrieval. It does not list English, Welsh or Scottish parish and Poor Law series. If you are working in those jurisdictions, build their series list separately.
 
 ## Do not decide illegitimacy from weak signals
 
@@ -35,6 +35,43 @@ Before searching, find out which of these series exist for the county and period
 4. **Grand-jury presentments or indictments for adultery or fornication.** Search these when a presumed couple has no marriage or divorce record. In Lisson's own family, a grand-jury indictment for living in adultery, about 20 years after the couple's supposed marriage, led her into further court and grand-jury research, and she reports concluding that the couple never married [S3].
 5. **Church records.** First find out how the family's denomination treated an unwed mother and her child. Then search its baptism, discipline and excommunication records for both of them [S2]. Quaker monthly meetings, for example, recorded charges and disownments for being with child while unmarried. In Latin registers, look for *ignotus* ("unknown") in place of the father, for example *nomine ignoto* ("name unknown") [S2].
    - **Church-court suits.** A blank father in the baptism is no reason to stop at the parish register: a diocese may keep its own list of impregnation cases, and such a list can name the accused man. One reported example is the Hungarian Archdiocese of Kalocsa's spreadsheet of illegitimate impregnations, divorces and separations [S7]. To work a list like this, sort on the case-type column (*pertípus*), pick out the rows coded *impraegnatio* (Latin for impregnation), and order those rows by locality [S7]. Expect gaps. The list does not hold every such pregnancy, and the source guesses that only cases that went to a suit (*Klage*) appear in it [S7], so a missing case is uninformative. For a listed case, record the suit as an allegation, not as paternity. Trace it to the underlying record where one survives, then search for a later marriage of the couple, because some of the listed parties married afterwards and some did not [S7]. The source describes only the list. Reading such lists as a diocesan-court series with case files behind them is this recipe's own inference, and the Kalocsa list and its coverage rest on a single forum post. Before you describe such a list, ask the diocesan archive what it covers and whether files survive behind it.
+
+## Swedish unknown-parent record retrieval
+
+Choose the record-creating authority for the child's dates before searching: a court proceeding, a child-welfare file and a statement in a later church record are separate evidence [S9], [S10]. Have the archive confirm the historical authority and applicable series dates before switching between court and child-welfare routes; the examples below do not supply a universal legal cutoff.
+
+### Fines-list paragraph to court proceeding
+
+For an unknown-father inquiry about a child born in 1852, ArkivDigital suggests starting with the *häradsrätt* covering the mother's locality and its *domböcker* for the birth year and following year [S9]. The mother's locality is a search lead; the child's birth parish does not establish the offense venue. Establish the period's court jurisdiction and legal context before expecting a proceeding, and do not presume prosecution.
+
+Browse backward in a surviving court-minute volume for a *saköreslängd* (fines list). If you find an entry for the mother, retain any named man and copy the paragraph reference, then retrieve that paragraph in the corresponding court and term's *dombok*. Retain court, year, term, volume, paragraph and image locators beside the entry and proceeding [S9].
+
+Account for every court term in the selected interval: terms may be bound together or occupy separate volumes [S9]. Check actual catalogue holdings and keep unavailable or uninspected volumes distinct from inspected no-hits. Record any named man and court outcome at allegation level; an absent list or proceeding does not establish paternity or exclude a candidate. The example does not establish a universal prosecution cutoff.
+
+### Child-welfare file to its later custodian
+
+Where the historical responsibility points to a *barnavårdsman* or *barnavårdsnämnd*, ask the responsible municipal archive for both the child's register entry (*liggare*) and individual case file (*akt*), supplying the child, mother, birth date and known residence or move dates [S10], [S11]. Request the file references and surviving documents, rather than treating a name-only reply as the complete case.
+
+Follow the file across documented moves. If the first archive does not hold it, ask whether it was transferred, and request the destination board, transfer date and any register or file reference. Use those references to request the receiving authority's entry and file [S10], [S11]. Linköping's archive guide describes the forwarding of child-welfare papers when a child moved and became registered in another municipality; it also warns of gaps in particular rural series [S11]. A birth-municipality no-hit therefore leaves transfer and survival unresolved.
+
+ArkivDigital reports that a file could close when the parents married or the child was adopted [S10]. Ask for the closing entry, its date and any reference to another authority or case. Closure does not establish destruction, successful identification of the father or an adoption decision; retain the welfare file and any separate court proceeding as distinct records.
+
+Follow the child into later confirmation records, moving certificates or court statements when those records survive: the presenter describes them as possible later statements of the father's identity [S10]. Preserve who supplied the name and when, and test that statement against the mother, child and alleged man's dated records before combining it with the earlier case.
+
+### Allmänna barnhuset roll to admission papers
+
+If this inquiry already identifies a child in an Allmänna barnhuset roll, open the original roll image and retain the child's name, dates, admission number and any written reference or abbreviation [S12]. The roll can record foster placements and information about the mother, while her name may remain absent [S13]. Keep institutional admission separate from a finding about the child's birth outside marriage.
+
+Follow the roll's actual reference to the linked papers, usually admission documents. Use the admission number or referenced category to select the corresponding series in Allmänna barnhuset, SE/SSA/0809A [S12], [S13]:
+
+| Roll or reference category | Supporting-paper series |
+| --- | --- |
+| *Barnrulla* | E5A |
+| *Rulla över späda barn* (SpB) | E5B |
+| *Rulla över äldre barn* (ÄB) | E5C |
+| *Rulla över utlämnade barn* | E5F |
+
+Request the actual surviving papers with the roll, entry, year and reference; preserve their own names, roles and statements after inspection. The table does not establish what a particular file contains or identify a parent. If the roll instead gives a diary number/year, follow that distinct reference to *Huvuddiarium* C1 and its accompanying papers E4A [S13]. Keep the different identifiers separate, and record an unavailable or uninspected file without treating it as evidence about parentage.
 
 ## Record allegations, not paternity
 
