@@ -1,6 +1,6 @@
 ## Sources
 
-Based on recorded talks (reviewed 2026-10-20). The presenters' statements were checked on 2026-10-21 against archive and collection pages. No tax list image was inspected.
+**Review note for S1–S24:** Recorded talks reviewed on 2026-10-20; the presenters' statements were checked on 2026-10-21 against archive and collection pages. No tax list image was inspected.
 
 - **S1:** Family History Fanatics, [Using Tax Records to Research AROUND The 1890 Census Loss in Genealogy](https://www.youtube.com/watch?v=9jtYj2BEgD4), 2018-10-03. Learn the tax law for that place and year. An absence does not mean evasion or absence from the area. North Carolina poll-tax ages as described by the presenter (white males over 21; over 50 exempt by 1801); the State Library of North Carolina gives freemen and male servants 21+ by 1784. Preambles and headings as scope sources.
 - **S2:** Family History Fanatics, [How to Research Tax Records for Your Ancestors](https://www.youtube.com/watch?v=VVlrL4iKUE4), 2020-06-05. Statutes for taxable ages, property and exemptions. Rates from newspapers. Ohio and Michigan volumes arranged by township/range rather than alphabetically, read with a map (presenter's experience).
