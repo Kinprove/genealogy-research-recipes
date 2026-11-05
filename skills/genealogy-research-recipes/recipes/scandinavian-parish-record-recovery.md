@@ -38,6 +38,56 @@ The cross-references run both ways. Expect them and follow them [S5]:
 
 Record every page reference exactly as written, including ones you have not followed yet. If an expected reference is missing, note that as well.
 
+### Decode an urban number before opening a page
+
+An urban reference can identify a *tomt* (lot), rather than a printed page. In
+ArkivDigital's Borås demonstration, the birth entry's number 7 leads through a lot
+index to page 15; later references require other lots and a named locality [S23].
+Use the actual book's headings and indexes to establish the reference's role.
+
+1. Copy the reference and its column heading, parish, date and referring volume.
+   Distinguish a lot number, a printed page or folio (*fol.*), and a viewer image
+   number. Leave an unexplained number unresolved.
+2. Compare all volumes covering the relevant period. Their descriptions may divide
+   the town by lot ranges, named places or page intervals. Select the volume whose
+   stated division contains the target; overlapping years do not mean duplicate books.
+3. Read the contents and place/lot indexes at the front or back. Follow the lot's
+   index entry to its printed page, then check the lot heading and household there.
+   Keep the index locator, target page and viewer image separate.
+4. If the destination changes from a number to a place name, check the town's
+   place indexes before choosing a same-named parish elsewhere. The demonstrated
+   Karlsdal index has two starting references; inspect each relevant block and its
+   continuations, recording their results rather than stopping after the first miss.
+5. Re-read the receiving page's layout: moving-in, moving-out and death columns
+   can change position or extend across a spread. Compare the receiving entry's
+   stated previous residence and year with the departing entry. Preserve conflicts
+   instead of silently making the two references agree. [S23]
+
+A strike-through alone records neither death nor emigration. Read the corresponding
+death or departure column and follow the actual reference. If it gives a parish and
+moving date or entry number, carry those into the moving-register search; do not turn
+every crossed-out household into a death or overseas departure. [S23]
+
+### Follow an unknown-whereabouts reference as a register continuation
+
+When the destination says *obefintlighetsbok*, preserve that wording and any folio
+reference. ArkivDigital's example explains it as a register for people whose residence
+was not known to the parish, including people who had not taken out a moving certificate.
+The label does not establish that they emigrated. [S23]
+
+Check the catalogue and contents for the relevant dates: the section may be embedded in
+a household volume or kept in a separate book. Follow the supplied folio into that
+actual section, verify the person and household, and read any later departure note.
+Retain a newly different birth date as a discrepancy against the earlier birth and
+household entries. The demonstration later follows a Stockholm parish destination;
+that later statement is separate from the unknown-whereabouts classification. [S23]
+
+Add each step to the household chain: referring entry and literal wording, reference
+type and its reading basis, selected volume/index block, received entry, incoming/outgoing
+crosscheck and retrieval status. An unavailable section, unreadable number or unresolved
+destination stays an open link. This procedure establishes how to test a continuation;
+it does not verify the narrated family's identity or explain an unlocated person's absence.
+
 ## Carry the household from volume to volume by residence
 
 1. Write down the farm or residence from the current volume.
@@ -135,6 +185,7 @@ Emiweb hosts the Swedish port passenger lists (*Passagerarlistor för svenska ha
 Return:
 
 - the chain of parish, volume, page and farm for each observation, in order;
+- urban lot/place and unknown-whereabouts references, with their decoded roles, tested index blocks and unresolved continuations;
 - each member's birth date exactly as recorded on each page, with any christening date labelled separately;
 - links to the original birth, marriage and death entries;
 - the origin and destination parishes, with dates, from the moving registers;

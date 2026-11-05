@@ -86,6 +86,42 @@ Then inspect the original image for three things:
 
 Keep three locators separate and linked: the abstract page, the film, archive or Ancestry reference, and the image locator. For catalogue and film navigation, use [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) or [Ancestry search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md).
 
+### Swedish-American membership entry to a Swedish parish search
+
+For a Swedish emigrant whose American surname does not recover a reliable origin,
+inspect the selected Swedish-American congregation's membership images for a birth
+parish and date. ArkivDigital's 2022 demonstration uses an American-name entry to
+obtain those two search anchors and then checks a Swedish household image [S7].
+The German abstract series described above is a separate finding aid.
+
+1. Use the candidate congregation table to select the U.S. church and relevant years.
+   Check which membership and other register volumes are actually available. The
+   demonstration covers selected congregations and says record types vary between
+   them; its historical counts do not establish current coverage. A missing church,
+   year or image remains unsearched or unavailable rather than a person-level no-hit.
+2. From the image, retain the American name, literal birth place and date, and any
+   spouse, children, admission and migration statements with their own field labels.
+   Keep the original place spelling beside a separately justified Swedish parish
+   reading; do not turn a residence or church-admission date into a birth date.
+3. Resolve numeric date order before using an exact-date search. The presentation
+   warns that these books can use either American month/day or European day/month
+   order [S7]. Check this entry's headings and unambiguous dates in its context;
+   never decide from the book's U.S. location alone. Preserve the literal date and
+   the basis for its reading. If both readings remain possible, retain both as
+   search candidates and leave the date unresolved; a convenient hit does not settle it.
+4. Use the parish/date candidates and supported given-name or patronymic variants
+   to locate Swedish entries. Inspect the original birth entry and household page,
+   comparing parents, household and subsequent dated observations. Keep an index
+   result separate from its image. Use the [Swedish household workflow](scandinavian-parish-record-recovery.md)
+   to follow the household and moving references, and retain discrepancies between
+   the U.S. membership and Swedish records.
+
+**Return:** the membership-image locator, congregation/year coverage, literal name,
+place and date, date-order decision or alternatives, and linked Swedish birth/household
+locators with comparison results. This is a testable origin lead. Neither a matching
+date nor the demonstration establishes the emigrant's identity or migration; send that
+ruling to the evidence workflow and keep missing origin-side records explicit.
+
 ## 5. If the registers are not filmed, trace the successor and custodian
 
 Everett says that some sections were abstracted from books held by a local church or church archive. For those sections, the original can only be seen at that local church or archive. If the section heading gives no film or Ancestry reference, request the original from its custodian. [S1]
