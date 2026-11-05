@@ -4,6 +4,10 @@ Use this recipe before you search for a French birth, marriage, death, census, m
 
 It covers routing, access delays, the INSEE death file, the succession tables, the censuses, the registres matricules, ancien-régime duplicates, notarial minutes and the Pyrénées-Orientales camp files. Link out for the shared steps:
 
+For an adoption lead, a French Basque house-name change or a Breton marriage decree,
+use section 10 to identify the separate judgment, house-entry or consent records to seek.
+These are conditional retrieval routes; an uninspected record does not resolve the family link.
+
 - **Reading the act once you have it** (act date versus event date, Republican dates, *je dis* corrections, status words, legitimated children, margin notes): [French and Belgian civil act extraction](french-belgian-civil-act-extraction.md).
 - **A commune you cannot place, or one renamed or merged:** [historical place-name resolution](historical-place-name-resolution.md).
 - **Frame versus page, gaps in an image series and the inspection ledger:** [archival image coverage verification](archival-image-coverage-verification.md).
@@ -85,6 +89,75 @@ Gather these before searching:
 - **Check the Archives nationales police card files for a refugee with a French police file:** the Sûreté nationale central file, individual files to 1940 [S27], and the administrative police file, about 150,000 files opened from March 1941 to 1949, which records internment, transfer and release [S26]. These are individual police files, not camp lists.
 - **Carry the search back to Spain** from the birthplace or identity these files give.
 
+## 10. Follow family-linkage clues into their separate records
+
+### An adoption claim without its judgment
+
+Search the person's marriage and death acts, including their margins, and the reported
+adoptant's succession papers for an adoption-judgment date or reference. The 2022 adoption
+presentation identifies these places as possible sources of the judgment date [S29].
+Use the succession-table route in step 4 when it supplies a declaration to inspect;
+do not assume the table itself contains the adoption reference.
+
+- Copy the judgment date and any court, parties or locator actually written, beside the
+  referring act's own date and image. Keep an unreadable or absent court unresolved.
+- With those details, ask the relevant archive to identify the historically competent
+  court, surviving judgment series and request conditions for that period. A date alone
+  does not identify a court, and this route supplies no universal adoption-series code.
+- Keep the judgment as a separate retrieval target. Do not apply the civil-register
+  access calculation in step 2 automatically to it or to an earlier birth act replaced
+  after adoption; confirm the applicable conditions with the custodian.
+- Report the reference found and whether the judgment was requested, inspected,
+  unavailable or still unidentified. Upbringing does not establish adoption. Use
+  [evidence/proof judgment](evidence-proof-judgment.md) to keep any documented legal
+  parentage distinct from biological descent.
+
+### A Basque surname change across a marriage
+
+In a French Basque inquiry, test a house-entry explanation when the records show a name
+change across marriage. The 2022 names presentation describes a man entering an heiress's
+household and using her surname, itself a house name [S30]. Treat that as a hypothesis
+for the particular couple, rather than a rule for every family, period or inheritance.
+
+1. Keep the person's earlier surname, spouse's surname and house name as separate fields,
+   each with its dated source and commune. Preserve any wording for entry into the house.
+2. Retrieve the marriage entry. Use step 8 to locate the relevant notary and any surviving
+   marriage contract, inheritance instrument or post-mortem inventory described for that
+   place and period. Follow an actual reference to house or succession papers; if no
+   reference or custody is established, leave that target unresolved.
+3. Compare the spouses, stated parents, dates, house wording and succession roles across
+   the inspected documents. Record which document connects the earlier name to the later
+   household, and which links remain hypotheses. A same-named house can have successive,
+   unrelated occupants; a house label alone does not identify a person or establish title.
+4. Return the name-and-house sequence with its supporting locators and missing links.
+   Do not turn surname frequency into origin evidence, or house-name continuity into an
+   uninterrupted paternal line. A claimed heiress's status or property right still needs
+   documentary and historical legal support.
+
+### A Breton marriage mentioning a decree of justice
+
+When a historical Breton marriage says a party is *décrété* or names a *décret de justice*,
+copy that wording and any jurisdiction, seat and date before searching only notarial
+minutes. The 2022 presentation describes a judicial marriage-consent route for a party
+under 25 whose father had died, with a sénéchal rather than a notary recording it [S31].
+Confirm that context for the actual party and period; the label alone does not establish it.
+
+1. Use the jurisdiction named in the marriage to select that court's finding aid at the
+   relevant AD. Look for the described consent proceedings in series B, verifying the
+   particular court, date span and cote rather than applying another AD's subdivision.
+   If the marriage supplies no jurisdiction, ask the archive to resolve it for the stated
+   residence and period; do not choose a court from a modern commune name alone.
+2. Request the surviving decree or consent proceeding and record the actual access and
+   image availability. The presentation's 2022 statement about documents not being online
+   is not a current digitization rule or a survival guarantee.
+3. Inspect the proceeding for filiation and for each person's stated relationship and
+   paternal or maternal side. The source describes such kin statements; do not fill them
+   into an uninspected file or expect every proceeding to preserve the same roster.
+4. Return the marriage-to-court locator chain and the statements actually recovered.
+   Keep friends, relatives and consenting parties in their stated roles, and test identity
+   and kinship under the evidence/proof workflow. A marriage act or a notarial-only search
+   does not exhaust this separate judicial route.
+
 ## Close with a routing packet
 
 Return:
@@ -93,6 +166,9 @@ Return:
 - **Access row:** for each birth or marriage, the open date computed from closure and deaths, and whether the act was ordered from the mairie.
 - **Series rows:** for each search, the AD, series and cote (or the INSEE file, Grand Mémorial or Archives nationales finding aid), the classe and bureau for a soldier, the notary for a notarial act, and the status: searched, found, not found, closed or not online.
 - **Census rows:** each commune and year read, the pages read, and whether a name index existed.
+- **Family-linkage rows:** the adoption-date reference and separate judgment target, the
+  Basque name-and-house sequence, or the Breton marriage-to-consent locator chain, with
+  the records inspected, unresolved custody/access and unproven links kept explicit.
 - **Gaps:** INSEE years 1970–1975, greffe copies before 1736, unindexed census years, and for early 1939 whether the Archives nationales camp lists were read.
 
 The model assembles this packet. The researcher decides identity and kinship.
