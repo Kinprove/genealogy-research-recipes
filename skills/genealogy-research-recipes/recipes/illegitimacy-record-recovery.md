@@ -46,7 +46,7 @@ For an unknown-father inquiry about a child born in 1852, ArkivDigital suggests 
 
 Browse backward in a surviving court-minute volume for a *saköreslängd* (fines list). If you find an entry for the mother, retain any named man and copy the paragraph reference, then retrieve that paragraph in the corresponding court and term's *dombok*. Retain court, year, term, volume, paragraph and image locators beside the entry and proceeding [S9].
 
-Account for every court term in the selected interval: terms may be bound together or occupy separate volumes [S9]. Check actual catalogue holdings and keep unavailable or uninspected volumes distinct from inspected no-hits. Record any named man and court outcome at allegation level; an absent list or proceeding does not establish paternity or exclude a candidate. The example does not establish a universal prosecution cutoff.
+Account for every court term in the selected interval: terms may be bound together or occupy separate volumes [S9]. Check actual catalogue holdings and keep unavailable or uninspected volumes distinct from inspected no-hits. Record the named people and the court's actual finding in their recorded roles; neither establishes biological parentage. An absent list or proceeding does not establish paternity or exclude a candidate. The example does not establish a universal prosecution cutoff.
 
 ### Child-welfare file to its later custodian
 
