@@ -17,8 +17,9 @@
 - **S15:** Lokalhistoriewiki, [Folketellinga 1920](https://lokalhistoriewiki.no/wiki/Folketellinga_1920), opened 2026-11-04. Used for: the 1910 and 1920 censuses on Digitalarkivet.
 - **S16:** Dansk Demografisk Database (Rigsarkivet), [DDD](https://www.ddd.dda.dk/), opened 2026-11-04. Used for: DDD as a Rigsarkivet database of census transcriptions.
 - **S17:** Rigsarkivet, [Lægdsruller – kom godt i gang](https://www.rigsarkivet.dk/vejledning/laegdsruller-og-soeruller/laegdsruller-kom-godt-i-gang/), opened 2026-11-04. Used for: scattered rolls before 1788; peasant-class males from birth from 1788 to 1848 and all men from 1849; the father's or mother's name; moves, followed nationwide from 1789.
+- **S18:** ArkivDigital, [Föreläsning den 1 april 2026 – Lär dig mer om ArkivDigitalprogrammet](https://www.youtube.com/watch?v=6GU1XmuCY9A), published 2026-04-08. Used for: intervening regimental rolls outside the demonstrated general-muster index; original dismissal/support annotations leading to the Krigsmanshuset archive; the separate rusthållare fee route; and details omitted from indexed fields. These are search leads from the saved April 2026 demonstration, not verified current coverage or surviving holdings for a particular case.
 
-The name-form register, the candidate comparison table, the bounded-browse reporting and the origin packet are authored synthesis. The presenters supply the naming mechanisms, the examples and the failure cases. S10 to S17 supply the bygdebok, census, emigrant-protocol and Danish record facts. The following were NOT verified:
+The name-form register, the candidate comparison table, the bounded-browse reporting and the origin packet are authored synthesis. The presenters supply the naming mechanisms, the examples and the failure cases. S10 to S17 supply the bygdebok, census, emigrant-protocol and Danish record facts; S18 supplies the Swedish military-record routes. The following were NOT verified:
 
 - Castillo's 1860 start date for Swedish surname changes
 - whether vaccination columns appear in a given Swedish or Icelandic parish or period
@@ -34,4 +35,5 @@ No individual identity or kinship conclusion from the examples is adopted.
 - Joe Everett, Scandinavian Research, BYU Family History Library — Third-party source, all rights reserved; brief adapted paraphrase with attribution (adapted)
 - Lisa Lisson, Scandinavian Naming Patterns (guest remark); James Tanner, Finding Your Ancestors in Iceland, BYU Family History Library — Third-party source, all rights reserved; brief quotation for critical commentary (quoted)
 - Lisa Lisson, Scandinavian Naming Patterns — Third-party source, all rights reserved; brief adapted paraphrase with attribution (adapted)
-- Kinprove original procedural synthesis; naming mechanisms, examples and failure cases attributed to presenters S1–S9 and to the cited references, with archive and reference facts cited as S10–S17 — FSL-1.1-MIT (kinprove-original)
+- ArkivDigital, Föreläsning den 1 april 2026 – Lär dig mer om ArkivDigitalprogrammet — Third-party source, all rights reserved; brief adapted paraphrase with attribution (adapted)
+- Kinprove original procedural synthesis; naming mechanisms, examples and failure cases attributed to presenters S1–S9 and S18 and to the cited references, with archive and reference facts cited as S10–S17 — FSL-1.1-MIT (kinprove-original)
