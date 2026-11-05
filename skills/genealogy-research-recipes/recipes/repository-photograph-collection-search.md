@@ -34,7 +34,53 @@ Use only collections whose catalogue or description actually covers the place an
 4. On unidentified-photo sites, query the ancestral town and state. In [S7], a researcher typed the town and state instead of the surname and reached a "mystery photo" of her relative.
 5. Also run a surname-only search with the format filter set to images. A presenter recommends the surname alone, without forenames, because it tolerates spelling variants [S3]. Log it as one surface among several, not as the whole search.
 
+## Riddarhuset portraits: select the branch, then inspect the object
+
+Use this branch for a portrait sought through a Swedish noble family. A surname can
+return several distinct families or branches. ArkivDigital's October 2026 Minerva
+demonstration distinguishes family searching from object searching, then demonstrates
+a separate ArkivDigital portrait index leading to cards, images and identifying backs
+[S14]. These are complementary search surfaces, not a demonstrated complete crosswalk
+between the two services.
+
+1. Start with independently supported family context. In Minerva's family results,
+   preserve the full name, noble rank, introduced number and branch qualifier actually
+   supplied. Keep same-surname entries separate until the target branch is resolved;
+   an attractive portrait does not resolve that choice.
+2. Search the selected family page's related objects and the separate object search.
+   Record the family/branch filter and object type, such as portrait or photograph,
+   used on each surface. The demonstration also searches other objects; a document
+   result and a portrait result are different targets. Do not assume every family
+   has the same object coverage or that one result searches the other surface.
+3. Check ArkivDigital's Riddarhuset portrait finding aid as a separate surface, using
+   the supported family name. Save the returned locator and open it. In the
+   demonstration, the first image is a catalogue card rather than the portrait [S14].
+   Verify which object the current image shows before marking a portrait retrieved.
+4. Browse the adjoining images for the matching portrait and any photographed reverse.
+   Record each card, front and back with its own image locator and observed connection;
+   do not assume a fixed image offset or that every object has a digitized reverse.
+   Copy identifying inscriptions and cataloguer attributions separately, retaining
+   their wording and any conflict. A reverse can supply a statement about the sitter;
+   it does not establish that statement's correctness.
+5. Compare the retrieved object's stated person, dates and branch with the search
+   context, keeping uncertainty explicit. Do not identify a face or adopt a family
+   relationship from a surname, a card or the presentation's example. Return missing
+   objects, uninspected reverses and unresolved branch matches as those exact gaps.
+
+Record Minerva and ArkivDigital searches separately, linking their results only when
+the inspected descriptions or objects support the connection. In the 2026 talk,
+Riddarhuset explicitly describes its genealogies as Word/PDF documents rather than a
+database answering spouse, child or parent queries [S14]. A family hit therefore does
+not execute such a relationship search. The talk establishes a historical retrieval
+route, not current controls, complete holdings or a verified portrait identification.
+
 ## Browse neighboring aerial-image series and paper copies
+
+**A series marker is not the photographed house's coordinate.** In its July 2026
+demonstration, ArkivDigital explains that it positioned aerial series from routes
+drawn on flight maps, without knowing the exact house locations or the path flown
+between houses [S15]. Keep that series position separate from a house location
+established from the actual view. Proximity to a marker does not geolocate the image.
 
 **Inspect several surrounding series, not only the nearest map marker.** In ArkivDigital's June 2024 demonstration, the presenter says the precise flight routes are unknown and recommends opening several nearby series [S11]. The nearest marker is a starting point; it does not establish which views the flight contains.
 
@@ -103,3 +149,6 @@ Offer a supported identification to the holding institution as a suggested metad
   - holder-added coordinates, flagged approximate
   - any "local context only" label
 - **Any proposed attribution and its basis**, kept separate, plus an optional draft metadata-correction suggestion.
+- **For a Riddarhuset portrait search:** the exact family/rank/number/branch candidates,
+  each search surface and object filter, linked card/front/back locators, literal
+  identification statements and unresolved branch, object or reverse gaps.

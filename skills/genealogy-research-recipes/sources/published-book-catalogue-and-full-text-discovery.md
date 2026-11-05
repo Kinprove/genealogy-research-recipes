@@ -24,6 +24,9 @@
 - **S22:** National Library of Latvia, [Digitālā bibliotēka article](https://digitalabiblioteka.lv/?module=articleRead&id=656dd366b12db), opened 2026-11-04. Used for: full text being unavailable for some titles because of copyright.
 - **S23:** National Library of Latvia, [*Jelgavas telefonu abonentu saraksts 1932./33. gads*](https://dom.lndb.lv/data/obj/422864.html), digital object record, opened 2026-11-04. Used for: a digitised interwar telephone subscriber list in the Books collection, with page images and ALTO text. No digitised Riga telephone list was found, so the recipe names none.
 
+- **S24:** ArkivDigital, [Frågestund på Zoom den 7 februari 2024](https://www.youtube.com/watch?v=DoRSQ94Hd1M), demonstrated 2024-02-07, published 2024-02-09. Used: principal-officer biographies do not expose every incidental person; a separate photographed all-person card index held at Riddarhuset points into Lewenhaupt's biographies. Checked against the saved transcript. The demonstration's exact person spellings, card/page crosswalk and current catalogue route were not independently verified; no example identity or relationship is adopted.
+- **S25:** Adam Lewenhaupt, [*Karl XII:s officerare. Biografiska anteckningar*](https://runeberg.org/karlxiioff/), Stockholm, 1920, digitized book at Project Runeberg, opened 2026-11-05. Used only to confirm the title and author against the noisy lecture transcript. No particular all-person card or cited biography page was verified from this title record.
+
 **What is synthesis and what the sources supply.** The following are authored synthesis:
 
 - the per-tool classification of search types;
@@ -32,9 +35,10 @@
 - the view-level vocabulary;
 - the register format.
 
-The sources supply the presenters' worked examples and observations, recorded 2016–2024. Platform behaviours were checked against documentation and secondary guides. Nothing was re-tested by live searching. The Genealogy Indexer paragraph's facts come from the site's own pages and robots.txt (S16–S19), opened 2026-11-02. The Latvian paragraph's facts come from the National Library of Latvia's own pages and object records (S20–S23), opened 2026-11-04; the column-merge caution is reasoning.
+The sources supply the presenters' worked examples and observations, recorded 2016–2024. Platform behaviours were checked against documentation and secondary guides. Nothing was re-tested by live searching. The Genealogy Indexer paragraph's facts come from the site's own pages and robots.txt (S16–S19), opened 2026-11-02. The Latvian paragraph's facts come from the National Library of Latvia's own pages and object records (S20–S23), opened 2026-11-04; the column-merge caution is reasoning. The external-card procedure combines S24's retrieval mechanism with the existing edition, citation and incidental-mention controls; S25 resolves only the book's title and author. No lecture media, card image or demonstrated family identification was independently checked.
 
 ## Credits
 
 - Genealogy Gems, Episode 270 Pennsylvania and Ohio Genealogy, Ohio Memory guest segment, 2022-11-14 — Third-party, all rights reserved; brief quotation of an interface label with attribution (quoted)
 - Kinprove original procedural synthesis; presenter worked examples are cited as S1 to S15 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original card-to-biography procedure and source annotations; S24-S25 cited for factual support, without reproducing source passages or images — FSL-1.1-MIT (kinprove-original)

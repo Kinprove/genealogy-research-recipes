@@ -86,6 +86,39 @@ Record each range you browsed and the volumes you actually opened.
 
 **For people who lived in Latvia, search the National Library of Latvia's periodika.lv and its digitised books.** Periodika searches the OCR full text of Latvian periodicals from the 18th century to the present, with a language filter [S20]. It includes Russian-language press of the Latvian SSR, such as the Riga paper *Советская молодежь* (Sovetskaya molodezh) [S21]. Some titles still under copyright are not available in full text [S22]. The digitised books collection holds interwar telephone subscriber lists, such as Jelgava 1932/33 [S23]; use them as an address and occupation lead. OCR can merge adjacent columns into a false match, so confirm every hit on the page image.
 
+### Follow a separate all-person index into the biography
+
+When the book's headings or index cover only the principal subjects, look for a
+separately held index of people mentioned in the text. ArkivDigital's February 2024
+demonstration describes photographed Riddarhuset cards for incidental people in
+Lewenhaupt's *Karl XII:s officerare. Biografiska anteckningar* [S24]. The title is
+confirmed by the digitized book [S25]. This supplies a route for a woman or another
+secondary person who has no officer biography of their own; an officer-name miss
+has not searched that separate index.
+
+1. Confirm the book's exact title, author and edition, and establish what its own
+   index covers. Locate the separately described card index in the actual catalogue;
+   the historical demonstration does not guarantee its current menu or availability.
+2. Search the secondary person's supported name forms in that index. Preserve each
+   card's literal name, any married-name or other cross-reference, and any stated
+   family designation separately. A family reference is another lead, not an identity
+   or relationship ruling.
+3. Copy the card's cited principal subject, book/volume and page exactly as supplied.
+   Keep the card image locator separate from the biography's printed page and viewer
+   image. Leave an unreadable or absent locator unresolved instead of inventing a page.
+4. Open the referenced biography in the matching edition and read the complete entry
+   and its continuation. Verify that the secondary name actually appears and record
+   the role and relationship wording the text supplies. Preserve a discrepancy between
+   the card and book rather than silently making them agree.
+5. Link the card and inspected biography as finding aid and target. A card hit alone
+   is not an inspected mention, and the two objects are not independent evidence for
+   the biography's statements. Pass any identity or kinship question to the evidence
+   workflow.
+
+Add the card-to-biography crosswalk and its retrieval status to the book-discovery
+register. The demonstrated names and card/page references have not been independently
+verified here; use the procedure to check the actual case rather than copy its example.
+
 ## 5. Carry the confirmed title across holders
 
 **Once the exact title is confirmed, search for that title at each other holder.** Check:
