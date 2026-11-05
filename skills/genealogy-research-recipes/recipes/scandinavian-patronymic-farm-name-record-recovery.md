@@ -29,6 +29,16 @@ Create one row for each form you expect or observe. Record the literal form, the
 
 In your tree, enter the name exactly as it appears in the christening (the first record) as the primary form. Log every farm, soldier or American name as an alternate with its source [S6].
 
+## Follow a Swedish soldier name beyond the muster index
+
+ArkivDigital's April 2026 demonstration distinguishes its general-muster index from other regimental rolls. Starting from a Swedish soldier name and regiment [S18]:
+
+- Browse the regiment's rolls for intervening years as well as the periodic general musters; those separate rolls need not be in the general-muster index.
+- If a dismissal note refers the soldier for *underhåll*, use that referral to investigate the Krigsmanshuset archive.
+- If the original names a *rusthållare* and records a *krigsmanshusavgift*, investigate the fee documentation for changes of rusthållare. Keep that holder and fee distinct from the soldier and his support history.
+
+The demonstration's original records contain support and fee annotations absent from the index. Check the actual indexed fields and the surviving regiment/archive volumes for the relevant interval; the demonstration does not establish current coverage or an individual's identity. [S18]
+
 ## Search the forms, then browse to the known date
 
 Search the parish indexes under each patronymic and farm form in the register. If all of them fail, do not conclude the person is absent. Browse the parish register to the known birth date and recognize the entry from its context. Everett found Slangerup this way after no index search could reach him [S2].
