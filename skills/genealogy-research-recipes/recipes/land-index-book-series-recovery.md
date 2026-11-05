@@ -7,6 +7,8 @@ Keep both index directions, the instrument and recording dates, and the original
 visible, so one missed surname entry or guessed book does not become a false absence.
 For a U.S. federal patent lead, use the separate entry-file workflow below to recover
 the supporting packet rather than treating the patent as the complete file.
+For Swedish property research, keep registered title separate from use of a farm or dwelling;
+follow a supported non-owner lead into the relevant duty, lease or support records.
 
 ## Before starting
 
@@ -193,6 +195,13 @@ through numbered entries and a later book. It does not verify the questioner's f
    volume's arrangement and locate the farm and stated property designation. Preserve the
    farm number, parish and any *mantal* or fractional description exactly; do not substitute
    the current designation without a documented connection.
+   If a carryover gives a book label that the catalogue does not recognize, compare the
+   available spine/title images with the catalogue's series description. Keep both labels
+   in a volume crosswalk, with the image that connects them. In the lecture's example, a
+   later ownership column points back to an older book and numbered rooms, while the book's
+   spine and catalogue use different labels [S28]. Verify that match for the actual archive;
+   the example is not a nationwide series-code conversion. Check the farm-name alphabetic
+   division and covered years as well: the same name can require successive period volumes.
 2. Copy the entry's *rum* number, the numbered space in the book, separately from the
    printed page and viewer image. In the predecessor's column, follow a supplied room
    reference backward; in the remarks, follow the reference to the next owner's room.
@@ -236,12 +245,29 @@ parcel link. Nor does the same *mantal* alone establish an unchanged parcel. [S2
    where available; a missing parent record remains a gap. Do not derive a parent by
    deleting digits or force every historical holding into one modern unit. [S28, S30, S31]
 
+For a historical survey whose act reference is not yet known, use an available survey
+register card as a finding aid. The lecture locates a farm-number card through the county,
+parish and farm's register, then takes the card's act label and year to the corresponding
+map [S28]. Copy the card's farm identifier, act/signum, year and stated survey action;
+retain separate rows for subdivisions, partitions, road divisions or other listed acts.
+Register formats vary by locality, so inspect the actual headings rather than applying the
+example's card layout elsewhere. A card listing is a retrieval target, not an inspected act.
+
+Open the matching act and use its map with the descriptions and decisions already required
+above. Compare the card's reference with the act actually retrieved, and retain any missing
+text or map as an unresolved component. Record later parcel labels or annotations separately
+from the survey's original date: the lecture's map had numbers added afterwards [S28]. Use
+the [map-record workflow](historical-map-record-recovery.md) for this copy's legend and
+base/correction dates. An undated added label cannot date that designation or building to
+the original survey, and a named feature does not identify its occupant.
+
 **Artifact:** a linked book-entry and parcel-reference ledger:
 
 | Link | Preserve |
 | --- | --- |
 | Book entry | Court/archive, volume, property wording, room, page/image and stated share |
 | Book continuation | Incoming/outgoing room or successor-book reference and verified destination |
+| Volume crosswalk | Spine/title label, catalogue series, alphabetic division, period and supporting image |
 | Acquisition document | Type, parties, document date, application/grant dates, protocol reference and retrieval state |
 | Parcel change | Old/new designations, parent/successor units, act identifier, dated map/text evidence and unresolved links |
 
@@ -249,6 +275,55 @@ parcel link. Nor does the same *mantal* alone establish an unchanged parcel. [S2
 recovered. Keep parcel formation, the underlying acquisition and its registration separate.
 This sequence supplies retrieval evidence, not a complete chain of title, a tenure-law
 interpretation or proof that an occupant owned the farm.
+
+### When the person used the farm or dwelling without a matching title entry
+
+A *lagfartsbok* follows registered owners, not every tenant or cultivator. A named husband
+does not make an unlisted wife absent from the household or settle her interest in the
+property [S28]. Keep the title entry and the residence observation as separate records.
+If the question concerns a user rather than the registered owner, choose a branch below
+only from evidence for that farm's assignment or the dwelling's arrangement.
+
+**A military-assigned farm:** establish the actual assignment before looking for duty-specific
+papers. The lecture describes *rusthållsförändringar*, change receipts or lists for a farm
+supporting the cavalry, as a route beyond the succession visible in tax rolls [S28]. Ask
+for the relevant farm and period in the described *Krigsmanshuskontoret*, regimental or
+county *landskansli* holdings; establish each custodian's actual series and coverage
+separately. Preserve the named outgoing and incoming holder, date, farm/share, recorded
+role and any explicit relationship wording. Keep a holder change distinct from a sale;
+the lecture discusses both Crown and privately owned farms. Tax-list proximity does not
+establish the relationship, and a narrated example does not verify the people in your case.
+
+If the evidence instead identifies an *officersboställe* or another service holding covered
+by the inspection series, seek the described *husesynsprotokoll* for a change of holder.
+The lecture points to inspection records under *Krigskollegium* for building-by-building
+descriptions and information about users and entry into possession [S28]. Verify the
+holding, period and surviving series before requesting them. Record the inspection date,
+holder and cultivator separately, the buildings actually described and any stated entry
+date; do not give a cultivator the officer's role or treat an inspection as a title transfer.
+
+**A torp or stuga on another owner's ground:** retain the parent farm and the evidence for
+the small dwelling's location and use. A missing separate parcel/title entry does not show
+that the dwelling did not exist. The lecture suggests *jordtorpsundersökningar* for torps
+with labor-rent obligations; this is a population-specific survey, not a register of every
+small house [S28]. Check the survey's actual locality, period and included categories before
+using it. Record the holding, user, work obligation or payment only as the inspected entry
+states them, and keep a survey miss bounded to that coverage.
+
+For a private rental or lease, look for a specific surviving lead among the owner's or
+tenant's papers; a title-book miss does not locate those papers. If a record identifies an
+*undantag* support arrangement, seek its contract
+and any referenced court copy. The lecture notes that copies can occur in *småprotokoll*
+[S28]; establish the relevant court and surviving series before treating this as a target.
+Record the people, dwelling/use terms, dated obligations and record form actually recovered.
+Do not turn a lifetime support clause into ownership of the underlying land, or assume
+that a private contract survives or was copied by a court.
+
+**Return:** add the triggering assignment, residence or contract reference to the existing
+ledger, with its source, selected branch, custodian/series, requested target, inspected
+document and unresolved gap. Stop at the documented result. These routes can recover
+statements about use, succession or relationships; they do not establish kinship, farm
+tenure, parcel lineage or a complete history of an unregistered dwelling.
 
 ## 4. Preserve two dates and close the bounded retrieval audit
 

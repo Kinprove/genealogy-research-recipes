@@ -121,7 +121,13 @@ The index-audit, locator and series-resolution schemas are original synthesis.
 - **S28:** ArkivDigital,
   [Föreläsning den 6 maj 2026 - Så forskar du om din fastighet eller gård](https://www.youtube.com/watch?v=HSY904f8uPU),
   7 May 2026. The saved-transcript discussion of old farm/mantal descriptions, subdivisions,
-  mergers and numbering exceptions motivates following documented property links. The recipe
+  mergers and numbering exceptions motivates following documented property links. It also
+  supplies the catalogue/spine and period-volume crosswalk, historical survey-card-to-act
+  route, later map annotations, conditional military-farm change/inspection targets and
+  labor-rent, private-lease and support-contract alternatives for dependent dwellings.
+  These are source-reported retrieval routes; no individual title book, survey card, military
+  receipt, inspection, labor-rent survey or private/court-copy contract was inspected for
+  these teaching cases. Survival and present custody must be checked separately. The recipe
   does not adopt the lecture's reform dates, tenure chronology, ownership conclusions,
   current service descriptions or an inference from a unique mantal alone.
 - **S29:** Riksarkivet,
