@@ -2,7 +2,7 @@
 
 Use this recipe when you need an image of an ancestor, or of their home, shop or community. It covers holdings from photographers, studios, historical societies and manuscript collections. The common mistake is to search the photo database for the ancestor's name, get no hit and report that no image exists. A related mistake is to treat a donor caption, a geotag the holder added, or a facial resemblance as a settled identification or an exact location.
 
-This recipe covers search coverage and caption provenance only.
+This recipe covers search coverage and caption provenance. For a located Swedish aerial view, it also names the next resident and ownership records to search.
 
 - For AI analysis of context clues in a photo, such as a car model, a uniform or a shop sign, use [AI for documentary records § What to delegate freely](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md), which treats such output as leads. Faces are never compared.
 - Identity rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
@@ -41,6 +41,10 @@ Use only collections whose catalogue or description actually covers the place an
 **Check for a corresponding paper-print series as well as the negatives.** Establish the relationship from the collection's actual metadata and images. ArkivDigital's June 2026 demonstration shows negative series marked O and paper-copy series marked R; some scanned print backs supply a place or purchaser's name [S12]. Follow that counterpart route where it exists, rather than assuming every negative has a surviving print.
 
 Use [archival image coverage verification](https://github.com/Kinprove/genealogy-research-recipes/blob/85d9681ceb84175c7f8796657e073eb54b4e0f26/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) to check the observed order and sides. In the 2026 demonstration, stepping two images at a time could show only fronts or only backs [S12]. Do not count a run of fronts as inspection of both sides. Record the series/item locator and the side that supplies a clue. The examples describe those historical demonstrations; check the actual collection and viewer before relying on their codes or controls.
+
+**For a located Swedish aerial view, search residents by the period property designation.** ArkivDigital's April 2026 demonstration advises locating the view, using historical maps to recover its address or *fastighetsbeteckning* at that time, then searching the designation in *Sveriges befolkning 1940–1990* [S13]. An approximate flight marker or a name on a print back is a clue; it does not establish that location.
+
+**Keep the ownership search separate.** The same demonstration directs ownership questions to *fastighetsböcker* (property books), mentioning Riksarkivet's reading rooms [S13]. A population-register resident is not thereby the owner. Check the relevant historical property and ownership entry separately; the demonstration does not establish current holdings or access.
 
 ## Exhaust each repository's surfaces before reporting no image
 
