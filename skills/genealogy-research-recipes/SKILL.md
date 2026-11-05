@@ -151,7 +151,8 @@ today's date. Do not check for a newer version over the network yourself.
 - **`recipes/probate-case-document-inventory.md`** — Recover the documents behind
   a probate index, will or administrator's bond as a case inventory with unresolved leads.
   *Use for:* probate record series, references to other documents, later actions,
-  non-will proceedings, reverse searches from a guardian to wards, or an estate search
+  non-will proceedings, Swedish court-copy versus heirs-original and poverty-certificate
+  checks, reverse searches from a guardian to wards, or an estate search
   that stopped at the first useful document.
   *Core guardrail:* finding a will does not finish the case; retain each document's
   locator and remaining retrieval gaps, then hand off evidence interpretation.
@@ -534,7 +535,7 @@ and treat its guardrail as a hard limit on your own output.
 
 - **`recipes/court-case-file-recovery.md`** — Recover a U.S. civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers. *Guardrail:* captions, arrests, index entries and case-law searches stay bounded leads.
 - **`recipes/us-federal-court-case-file-recovery.md`** — Take a lead to the right federal court for the period, its National Archives record group and index, and the loose case file. *Guardrail:* decide whether the matter is federal before searching a county courthouse; a complete-index miss is a bounded negative that does not clear other relatives.
-- **`recipes/criminal-court-prison-record-recovery.md`** — Find the trying court, its present custodian and the surviving prison series for a suspected arrest, trial or imprisonment. *Guardrail:* establish which court tried the case before searching, and weigh an inmate-list miss against other evidence.
+- **`recipes/criminal-court-prison-record-recovery.md`** — Find the trying court, its present custodian and the surviving prison series for a suspected arrest, trial or imprisonment; check separately surviving Swedish court-book or appeal copies when leaves are missing. *Guardrail:* establish the actual authority and copy coverage, and weigh an inmate-list miss against other evidence.
 - **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and the petition behind it. *Guardrail:* do not stop at the one-line index or printed act, ignore entries at the same locator, or skip legislative records because the event looks like a county matter.
 - **`recipes/illegitimacy-record-recovery.md`** — Find the bastardy bonds, court proceedings, support orders and church entries that a birth outside marriage could create, and preserve express status statements in apprenticeship instruments. *Guardrail:* do not decide illegitimacy from weak signals, and record allegations, not paternity.
 - **`recipes/institutional-patient-record-recovery.md`** — Seek asylum or state-hospital records through the custodian, court and newspapers; in Dutch research, check a child's marriage papers and locally described admission correspondence. *Guardrail:* incapacity does not establish admission or diagnosis, and an access refusal does not establish that no file survives.

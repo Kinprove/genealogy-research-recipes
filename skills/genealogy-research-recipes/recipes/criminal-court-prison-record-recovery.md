@@ -40,6 +40,38 @@ Use this recipe when an ancestor disappears from records and you suspect arrest,
 - Classify each series as **inspected**, **restricted**, **destroyed**, **not held by custodian**, **referred elsewhere** or **not yet asked**. A restricted, unheld or destroyed series does not mean "no record".
 - Check index numbers for gaps. The NYC Municipal Archives holds NYPD Bertillon identification cards, and the presenter used digitized cards from the city's records access website [S5]. A friend's index of the cards jumped from card 14885 to 14889, and he treated that as a possible indexing gap rather than lost cards. He arranged for someone to check the originals on site [S5]. He tied card 14885 to his relative by matching its arrest date (7 January 1908) and charge to a newspaper report dated the next day [S5].
 
+## Swedish court books: recover a separately surviving copy
+
+Use this branch when an identified Swedish proceeding has an incomplete *dombok* entry.
+Retain the court, year, term, paragraph and inspected page/image extent from the actual
+record. A missing conclusion in one volume does not establish the case's outcome. [S6]
+
+1. Compare the book's pagination and text with the image sequence. Record whether the gap
+   appears to be an omitted image, a missing leaf or an uncertain continuation. Inspect the
+   available volume for displaced continuations before describing the original as lost;
+   consecutive viewer images do not establish consecutive surviving leaves.
+2. Ask the custodian whether a matching *renovation* (a court-book copy sent to the
+   *hovrätt*) survives. ArkivDigital points to the appellate court's *advokatfiskal* archive
+   for this route, while warning that a copy may be unavailable for a late-nineteenth-century
+   case. Establish the appropriate appellate authority and its actual court/year coverage
+   before requesting a volume; the suggested archive name is not a surviving-copy locator.
+3. If a docket, judgment or other inspected record establishes an appeal, retain its higher
+   authority and case reference, and request that separate file. Look for transmitted copies
+   of the lower court's papers and protocols. Follow a further appeal only when the records
+   supply that link; an incomplete trial entry alone does not establish any appeal.
+4. Inventory each recovered copy separately from the incomplete book. Compare the case,
+   dates, paragraph and surviving overlap before using it to fill the gap; preserve differences
+   and any missing ending. A copied judgment is not the missing original leaf. [S6]
+
+**Artifact:** add a copy-recovery row to the routing and series inventory: original locator,
+gap evidence, proposed copying or appeal authority, matching series coverage, requested
+reference, copy actually inspected and unresolved text.
+
+**Check:** ArkivDigital's Arjeplog example supplies a retrieval route, not a verified copy
+for that case. Leave the copy's survival, an appeal and the outcome unresolved until their
+records establish them. This branch does not identify a civil or military authority for an
+unlocated death inquiry, or establish criminality from a death or prison reference.
+
 ## Weigh an inmate-list miss against other evidence
 
 - An archivist's statement that someone is "not on the list" describes that list, not whether the person was held. NARA San Bruno holds the Alcatraz inmate files (1934–1963). The presenter reports that Irving Wexler was missing from its Alcatraz inmate list, even though a California death certificate and a New York Times article put his death at Alcatraz [S3]. Contemporary wire reports also place his death there, in June 1952. His file turned up in the Bureau of Prisons notorious-offenders series (RG 129) at NARA College Park [S3].
