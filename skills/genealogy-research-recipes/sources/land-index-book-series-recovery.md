@@ -146,6 +146,31 @@ The index-audit, locator and series-resolution schemas are original synthesis.
   that complement register summaries. No individual act, parcel, access entitlement or
   current interface procedure was verified for the teaching cases.
 
+- **S32:** Bayerischer Landesverein für Familienkunde e.V.,
+  [Briefprotokolle](https://www.youtube.com/watch?v=3kNQBuEpwZg),
+  4 May 2025; saved transcript window checked 5 November 2026. Property-protocol creator
+  versus landlord consent, subordinate Ämter and indexes sometimes at the back of a volume.
+  The recipe does not adopt narrated archive locations, prices, access/legal statements,
+  individual identities or a complete historical court hierarchy.
+- **S33:** Bayerischer Landesverein für Familienkunde e.V.,
+  [Recherchemöglichkeiten im Bayerischen Staatsarchiv in Landshut](https://www.youtube.com/watch?v=AzU31Iw2B0k),
+  26 January 2022; saved transcript windows checked 5 November 2026. Secondary dues/endowment
+  recipients as property-book creators, one Salbuch's appended deed copies, initial tax
+  cadastres, chronological running-number changes and later volumes divided by house numbers.
+  No universal appended contents, exact historical names/shelfmarks, actual farm sequence,
+  present holdings or access was verified.
+- **S34:** Bayerischer Landesverein für Familienkunde e.V.,
+  [13. Niederbayernstammtisch, Das Grundsteuerkataster](https://www.youtube.com/watch?v=j4vSFm6eW9A),
+  24 February 2022; saved transcript window checked 5 November 2026. Historical tax district
+  and Rentamt leads, possession-number searches in chronological change books, liquidation
+  text/map targets, split volumes, old/new house numbers, parcel movements and possible
+  notarial references. No original book, map or table was inspected. The recipe adopts no
+  universal transition date, map-color or numbering rule, current catalogue/custody/access
+  guarantee, inferred kinship, construction date or complete legal title sequence.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
+- Kinprove — original Bavarian property-record routing and identifier-crosswalk synthesis,
+  using the attributed presentations S32–S34 without reproduced transcript passages,
+  images, maps or tables, or a claim to their rights — FSL-1.1-MIT (kinprove-original)

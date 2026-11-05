@@ -9,6 +9,8 @@ For a U.S. federal patent lead, use the separate entry-file workflow below to re
 the supporting packet rather than treating the patent as the complete file.
 For Swedish property research, keep registered title separate from use of a farm or dwelling;
 follow a supported non-owner lead into the relevant duty, lease or support records.
+For a Bavarian farm lead, distinguish the property-protocol creator from the landlord,
+and follow the tax books' changing possession, house and parcel identifiers.
 
 ## Before starting
 
@@ -324,6 +326,82 @@ ledger, with its source, selected branch, custodian/series, requested target, in
 document and unresolved gap. Stop at the documented result. These routes can recover
 statements about use, succession or relationships; they do not establish kinship, farm
 tenure, parcel lineage or a complete history of an unregistered dwelling.
+
+### Bavarian farms: select the property-record creator and the book's lookup key
+
+**Use when:** a securely identified farm and bounded period lead to Bavarian property
+protocols or tax cadastres. Preserve the farm wording and dated location before selecting
+records. The presentations describe historical retrieval examples [S32–S34]; their
+archive locations, catalogue screens and access statements are not current instructions.
+
+#### Locate the farm-transfer protocol by its creating court
+
+Keep the named *Grundherr* (landlord), recording court and subordinate *Amt* separate.
+The Briefprotokolle presentation describes a landlord consenting to a transfer recorded
+by another authority, and court records divided among subordinate Ämter [S32].
+
+1. Use dated jurisdiction descriptions and the court's history to identify the lower
+   court responsible for this farm's property protocol. A named monastery or landlord
+   supplies a relationship to investigate, not automatically the creating court.
+2. Read that creator's finding aid for the relevant *Briefprotokolle*, period and Amt.
+   Preserve competing court/Amt candidates where the allegiance is unresolved; a modern
+   locality does not choose between them. Take the actual shelfmark from the inventory.
+3. Check the volume's beginning and end for an index before deciding how to browse.
+   The presentation reports indexes at the back as well as volumes without one [S32].
+   Apply the index and locator controls above to the actual arrangement; an index miss
+   is bounded by its verified coverage, not a finding that the transfer never occurred.
+
+#### Follow a documented secondary obligation to another institution's book
+
+If the farm's records identify dues or an endowment owed to a second court, church or
+foundation, preserve that institution and the obligation's wording, date and source.
+The Landshut presentation describes farms appearing in such books despite belonging
+to another principal lord, and a *Salbuch* with earlier deed copies appended [S33].
+
+Use the evidenced recipient to select its property-book descriptions for the farm and
+period. Inspect the identified entry and any described appendices or associated deed
+copies; keep each copy and its stated original date as a separate retrieval target.
+A principal-series miss alone supplies no second institution to search. An entry for
+dues is not a title entry, and not every Salbuch has an appended deed collection.
+
+#### Carry the changing identifier through the cadastral books
+
+Use the actual book headings and references at each stage. The Landshut and cadastre
+presentations distinguish an initial fixed assessment from chronological changes and
+later house-number-partitioned volumes [S33, S34].
+
+1. Establish the farm's historical *Steuerdistrikt* from dated place/atlas descriptions,
+   keeping it separate from the modern municipality. Locate the corresponding early
+   *Häuser- und Rustikalsteuerkataster* under its actual Rentamt inventory; check later
+   *Grundsteuerkataster* descriptions separately. The source's two catalogue placements
+   are finding leads to verify, not a fixed present-day menu path [S34].
+2. In the initial entry, copy the farm description, recorded person, house number and
+   each *Besitznummer* separately. A farm can have several possession numbers. Carry
+   those numbers into the matching *Umschreibebuch*: the early example follows them
+   chronologically rather than arranging every change under the house number [S34].
+   Record the period and extent actually inspected; keep each transfer reference.
+3. Seek the corresponding *Liquidationsprotokoll* and map through their actual finding
+   descriptions. Compare the text's holding description and parcel numbers with the
+   map's identifiers, keeping *Flurnummer*, house number and possession number distinct.
+   Use the [map-record workflow](historical-map-record-recovery.md) for the actual legend,
+   map date and later annotations. A narration about a map does not establish a parcel link.
+4. Follow the references into the later cadastre and its *Umschreibehefte*. Inventory all
+   plausible volumes for the period: identical date spans can cover different house-number
+   ranges, and the catalogue may omit those divisions [S33, S34]. Inspect their actual
+   coverage or index before choosing one; the first same-dated volume may be insufficient.
+5. Carry an explicitly recorded old/new house number into the next volume. When a sale
+   or subdivision creates another possession number or sends parcels to another entry,
+   follow each stated destination and preserve the remaining holding separately [S34].
+   Keep multiple resulting units; number similarity or an unchanged farm name is not a link.
+6. Copy any actual notary, instrument date and document number from the change entry,
+   then use the series and full-instrument retrieval controls above. Keep the cadastral
+   entry, underlying act and any later annotation as linked records with their own dates.
+
+**Return:** extend the existing locator ledger with the historical tax district and
+creator/Amt, the book and identifier used at each stage, the supporting cross-reference,
+and every uninspected or uncertain destination. Report recorded succession statements,
+not a verified chain of title or descent. A transfer described as an *Übernahme*, a payment
+or continuity of the farm's name does not establish a family relationship.
 
 ## 4. Preserve two dates and close the bounded retrieval audit
 
