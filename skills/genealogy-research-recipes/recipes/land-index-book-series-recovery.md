@@ -181,6 +181,75 @@ do not show that a given county re-recorded, how such entries are marked, that e
 came back, or that a plant survives, covers the period, is accessible or reaches back to the
 original grant. [S5, S6]
 
+### Swedish property books: follow rooms and changed parcel identifiers
+
+**Use when:** an identified Swedish farm lacks a purchase date, or its older designation
+does not match the parcel now being searched. Start with the actual property description
+and available book coverage; an approximate purchase decade need not be the only entry key.
+The [property-book demonstration](https://www.youtube.com/watch?v=DoRSQ94Hd1M) follows a property
+through numbered entries and a later book. It does not verify the questioner's farm. [S27]
+
+1. Establish the relevant court archive and volume from the holdings description. Read the
+   volume's arrangement and locate the farm and stated property designation. Preserve the
+   farm number, parish and any *mantal* or fractional description exactly; do not substitute
+   the current designation without a documented connection.
+2. Copy the entry's *rum* number, the numbered space in the book, separately from the
+   printed page and viewer image. In the predecessor's column, follow a supplied room
+   reference backward; in the remarks, follow the reference to the next owner's room.
+   Record which column supplied each direction. The
+   [Riksarkivet guide](https://riksarkivet.se/resurser/guide-till-lagfartsbok)
+   explains these distinct references. [S29]
+3. If a margin transfers the entry into a new *lagfartsbok*, copy that book reference and
+   locate the corresponding entry there. Verify the property description and any stated
+   share at the destination. Keep an uncertain room reading unresolved instead of choosing
+   the next plausible name. A successor book's opening year is a locator, not a purchase date.
+4. For each entry, preserve applicant, transferor, acquisition type, underlying document
+   and its date, application date, granted-registration date and any protocol paragraph.
+   Keep a stated half-share as a half-share; do not silently make every entry a whole-farm
+   sale. A will or probate reference is a target to retrieve, not permission to call the
+   transfer a purchase or infer kinship. [S27, S29]
+5. Carry the registration year and act/paragraph reference into the corresponding
+   *lagfartsprotokoll* to seek the underlying acquisition document. Record the book entry
+   and retrieved protocol/document as linked objects, retaining any conflict between them.
+   If the protocol or cited will/probate is unavailable, report that exact missing target.
+   Room navigation alone does not resolve the ownership chronology. [S29]
+
+When a designation changes, resolve that break before attaching an earlier book entry to
+the modern parcel. The [property-history discussion](https://www.youtube.com/watch?v=HSY904f8uPU)
+describes subdivisions, mergers and numbering exceptions; number similarity is not a
+parcel link. Nor does the same *mantal* alone establish an unchanged parcel. [S28]
+
+1. Keep the older farm/parish/number and assessed *mantal* alongside the full modern
+   designation. In an available register extract, copy *Tidigare fastighetsbeteckning*
+   (previous designation), its date and act reference, and *Ursprung* (parent property or
+   properties) as separate fields. The
+   [register description](https://www.lantmateriet.se/sv/fastighet-och-mark/information-om-fastigheter/Fastighetsregistret/registrets-innehall/)
+   identifies these fields; do not assume that every extract supplies the whole history. [S30]
+2. Use the cited act identifier to retrieve the relevant *förrättningsakt*. Read its map
+   together with the descriptions, decisions and protocol actually present to identify
+   the old and new units and the change connecting them. The
+   [act description](https://www.lantmateriet.se/sv/fastighet-och-mark/information-om-fastigheter/Forrattningsakter/)
+   explains why the register summary and the survey file are separate retrieval targets. [S31]
+3. Give each documented subdivision, merger or renumbering its own link. Retain multiple
+   parent or successor units where the records show them, including an older designation
+   that no longer names an active parcel. Follow supplied references in both directions
+   where available; a missing parent record remains a gap. Do not derive a parent by
+   deleting digits or force every historical holding into one modern unit. [S28, S30, S31]
+
+**Artifact:** a linked book-entry and parcel-reference ledger:
+
+| Link | Preserve |
+| --- | --- |
+| Book entry | Court/archive, volume, property wording, room, page/image and stated share |
+| Book continuation | Incoming/outgoing room or successor-book reference and verified destination |
+| Acquisition document | Type, parties, document date, application/grant dates, protocol reference and retrieval state |
+| Parcel change | Old/new designations, parent/successor units, act identifier, dated map/text evidence and unresolved links |
+
+**Check:** report which book entries, protocol documents and parcel links were actually
+recovered. Keep parcel formation, the underlying acquisition and its registration separate.
+This sequence supplies retrieval evidence, not a complete chain of title, a tenure-law
+interpretation or proof that an occupant owned the farm.
+
 ## 4. Preserve two dates and close the bounded retrieval audit
 
 1. From the retrieved document, record the instrument's stated date and the recording date

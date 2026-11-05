@@ -143,6 +143,7 @@ today's date. Do not check for a newer version over the network yourself.
   or carry a federal patent lead into its separate entry file.
   *Use for:* grantor/grantee indexes, ambiguous book locators, separate book series,
   delayed recording, a surname search that missed the alternative index entry,
+  Swedish property-book room/successor references and changed parcel designations,
   or cash-sale, bounty-land and homestead supporting packets.
   *Core guardrail:* copy the original locator, distinguish instrument and recording
   dates, and report bounded retrieval coverage before interpreting title or kinship.
