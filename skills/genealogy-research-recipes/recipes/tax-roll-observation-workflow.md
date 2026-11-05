@@ -50,6 +50,19 @@ Before paging through an unindexed volume, read its township or section headings
 
 Treat names next to each other as neighbour candidates only if you have shown the list follows a geographic or assessor-visit order. Alphabetical, letter-grouped or recopied lists say nothing about who lived next to whom. In a letter-grouped list, read the whole letter block before you record "inspected – no hit". Write the arrangement you found into the register.
 
+### Swedish mantalslängder: enter by parish and year
+
+When a parish is known from church records but the tax archive uses unfamiliar administrative divisions, look for a parish/year contents index rather than guessing the tax district. ArkivDigital's 7 February 2024 demonstration used *Innehållsförteckningar till mantalslängder* to reach the parish's section of the original roll [S25]. This is a contents index, not a person index.
+
+1. Fix the parish and bounded years from the household research. In the demonstrated route, choose the tax-roll contents index under register search, enter the parish and year range, and inspect the returned roll references. Locate the corresponding finding aid in the current service; the demonstration does not guarantee today's menu or coverage.
+2. Keep each returned volume separate. The example returned two rolls for one year [S25]; one result is not necessarily the whole annual set. Copy the archive, volume, stated year and parish-section locator supplied by each result into the series register.
+3. Follow the image link to the original roll and verify its parish heading and year. Then locate the recorded farm or residence within that section. The contents hit establishes a browsing entry point; it does not establish that the household is present.
+4. Read the volume's opening pages and original column headings before extracting counts or marks. In the demonstration, the presenter returns to the first page to explain the columns and stresses that their meanings vary by period [S25]. Keep the heading locator and literal labels with that year's entries; leave an unexplained column unresolved.
+5. Repeat for the next inspected year, retaining the same farm/residence clue alongside the names, household categories and counts actually recorded. Recheck headings and liability rules rather than carrying a column meaning or age threshold across years automatically.
+6. Apply the interval and competing-explanation checks below. The presenter describes annual farm tracking and warns that a child's appearance can reflect the applicable taxable age, while an adult's disappearance can reflect exemption from tax [S25]. Neither change dates a birth or death. A missing or uninspected roll remains a gap in the chain.
+
+**Return:** a parish/year-to-roll crosswalk with one row per candidate volume, the verified parish-section and farm locators, the heading reference, inspection status and linked annual observations. Keep an unresolved tax district or column meaning explicit. This route does not establish a universal Swedish tax age, exemption rule, complete household roster or survival of the requested years.
+
 ## 5. Extract one row per entry
 
 For each entry, keep:

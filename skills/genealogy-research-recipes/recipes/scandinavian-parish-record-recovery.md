@@ -46,6 +46,16 @@ Record every page reference exactly as written, including ones you have not foll
 4. Local societies have made name indexes only for some larger parishes and cities [S5]. They save time, but they are not the route.
 5. Brady notes that the examination books were later replaced by a different format [S1]: the parish books, which Riksarkivet's census database also draws on. When the examination series ends, open the parish's parish books in the Catalog and keep following the residence.
 
+### Resolve GB/NB against the chronological volume set
+
+When an entry gives *GB* or *GL* with a page, ArkivDigital explains these as *gamla boken* or *gamla längden*, the previous book or register. *NB* or *NL* means *nya boken* or *nya längden*, the following book or register [S21]. Preserve the letters and page exactly before resolving the destination.
+
+1. Record the current parish, series, volume and stated years alongside the reference. Identify the preceding or following chronological set of household examination or parish books from the volume descriptions.
+2. Check how that set is divided. A large parish can have several books in one period; the target need not have the immediately preceding or following catalogue number, and the books' year ranges need not match exactly [S21].
+3. Use the recorded farm or residence and the available residence index to select a book in that set. Open the referenced printed page, keeping its number separate from the viewer image number.
+4. Compare the destination's household, residence and dates with the starting entry. Keep a missing or conflicting destination unresolved; do not replace the written reference with the nearest catalogue number or a same-name household.
+5. Add the starting entry, literal reference, tested destination and result to the household chain. A resolved continuation supplies another register observation; it does not make the volume boundary a move date.
+
 ## Do not treat one entry as the whole family
 
 - Read forward to the latest volume that shows the couple. Hallen says early entries list only the children born so far, and later children were added afterwards [S3].
@@ -71,6 +81,23 @@ Genealogy Gems lists several ways the trail can break [S5]:
 
 In these cases, browse the examination volumes by the recorded birth date. Birth dates sit in their own column and are easier to spot than names [S5]. A birth-date hit is only a candidate household. Before you link it, confirm it by matching the other members and the farm, and by at least one independent birth, marriage or death entry. Use any surviving farm or moving references as further support. In these cases their absence is expected and does not block the link.
 
+### Follow a Norwegian or Danish lead through its separate bulletin index
+
+When a dated move, destination or other independent lead points to Norway or Denmark, check that country's police-bulletin finding aids separately. In its 4 June 2025 demonstration, ArkivDigital described Norwegian name-register volumes outside its Swedish searchable police-notice index, and Danish index sections for people born in Sweden or Norway [S22]. These provide a separate entry route; a Swedish index miss does not search them.
+
+| Country and series | Entry route described in the demonstration |
+| --- | --- |
+| Norway: *Polititidende* | Select Norway in the archive search and inspect the series' separate name-register volumes; the presenter also points to the Norwegian National Library's digitized series. |
+| Denmark: *Politiets Efterretninger* | Inspect the name registers, including the separate sections for Swedish- and Norwegian-born men and women; the presenter points to Copenhagen City Archives. |
+
+1. Check the actual catalogue and index volume for the lead's dates. Record the years, sections and fields it covers, the extent inspected and any unavailable volume. The demonstration's holdings and interface are historical, and do not establish present access or complete country coverage.
+2. Search the supported name forms in the appropriate index or birthplace section. A special Swedish/Norwegian-born section is a finding route, not proof that its birthplace information is correct or that every migrant appears there.
+3. Copy the index's year, division, notice or item number and any other locator exactly, then retrieve that specific notice. Retain the index and notice as linked records; a name-register row is not the notice itself [S22].
+4. Extract only the notice's actual names, stated birth details, dates, places and roles. Preserve the reporting authority and whether the text concerns a missing person, an allegation, release or another matter. The demonstration includes notices beyond criminal convictions [S22]. Neither disappearance from a household register nor presence in a police index establishes a crime or guilt.
+5. Use a stated place and date to queue the corresponding local household or moving record. Compare the notice's birth details with the parish evidence before linking people. Record a date discrepancy rather than silently correcting it, and keep an unsuccessful search bounded to the inspected index's fields and years.
+
+This route leaves unverified holdings, unindexed fields and Finnish bulletin coverage unresolved. It supplies a possible next locality or record, not an explanation for every disappearance.
+
 ## Do not call it a census
 
 - Everett describes household examinations as registers kept parish by parish by the priest. He says they could be written up at different times of the year, so strictly they are not a government census taken on one day [S2]. Do not give an examination entry a single enumeration date. Cite the volume and its stated year range.
@@ -84,6 +111,7 @@ In these cases, browse the examination volumes by the recorded birth date. Birth
 ## Bridge gaps with poll-tax registers and probate
 
 - **Mantalslängder (poll-tax registers).** They were compiled every year and place adults on a farm year by year, so use them to bridge a lost or missing household examination volume. [S6], [S7] The Stockholm city lists are at Stockholms stadsarkiv. [S6] The registers list mainly the people liable to the tax, from age 15. [S18] A royal letter of 18 February 1765 ordered the whole population to be entered in them. [S18] Even after that, children and other non-taxpayers usually appear only as numbers in columns, and exempt adults may be missing or entered only with a note. [S7] A mantalslängd household is not a complete list of names.
+  - If the parish is known but the tax archive's administrative arrangement is not, use the [parish/year contents-index route](tax-roll-observation-workflow.md#swedish-mantalslängder-enter-by-parish-and-year). Carry each inspected year into the household chain; read its headings before interpreting a change.
 - **Probate inventories.** Search them by the deceased and the court district. Use the heirs named to bridge parish moves and to check a sibling set.
   - Sweden: bouppteckningar from before 1980 are in the archives of the tingsrätt (district court) and of its predecessors: the rådhusrätt (town court), the domsaga and the häradsrätt (rural district court). Riksarkivet supplies inventories drawn up up to 30 June 2001. [S8]
   - Norway: death and probate records are in the archive of the sorenskriver (rural district judge) or, for a town, the byfogd (town judge). [S19] On Digitalarkivet the skifteprotokoller (probate journals) sit under that archive, in the series *Dødsfall og skifte*. Some recent volumes are closed. [S9]
