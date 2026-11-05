@@ -17,6 +17,8 @@ Classify each service clue into exactly one working type, and record the basis f
 
 If the type is unknown, keep two or more routes open. Do not choose one by default. Expect a man to have service of more than one type. An empty or incomplete CMSR search does not end the search. Check pension and state records for service the CMSR leaves out (pension recipe §4).
 
+If a CMSR jacket has a bookmark notation, preserve the complete reference and the jacket locator. Identify the Adjutant General's Office filing series from its branch designation, then follow that reference to the separate letters or documents, or include it in a targeted request. The referenced papers may be absent from the CMSR; leave that lead open until the referenced file is inspected [S9].
+
 ## 2. Write each series' eligibility rule before reading a miss
 
 Build a routing table with one row per series: custodian, coverage, eligibility rule, and whether a miss is meaningful. A miss counts only when the man met the eligibility rule **and** the series covers his period and place.
