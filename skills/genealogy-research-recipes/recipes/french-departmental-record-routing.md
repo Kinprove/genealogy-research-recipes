@@ -1,12 +1,16 @@
-# Route a French record search to the right département, series and access rule
+# Route French records by département, creator, series and access rule
 
-Use this recipe before you search for a French birth, marriage, death, census, military or notarial record. It sends each search to the département archive and series that hold it, and tells you when an act is open. It prevents eight failures: looking for one national French index that does not exist; reporting "not in the census" after a name search of lists that are mostly unindexed; looking for a soldier's register under his birth year and birth département instead of his classe and recruitment bureau; calling a recent birth or marriage "missing" when it is closed but can be ordered; expecting a duplicate parish register before 1667; looking for a Paris-suburb notary at the Archives nationales; assuming a former Meurthe commune's present département without checking the 1871 annexation line; and stopping an early-1939 camp search at the Pyrénées-Orientales archives, which hold no lists for those months, when the Archives nationales do.
+Use this recipe before you search for a French birth, marriage, death, census, military, notarial, decoration or consular record. It identifies the relevant archive and series from the record's creator and period, and tells you when a civil act is open. It prevents failures such as looking for one national French index that does not exist; reporting "not in the census" after a name search of lists that are mostly unindexed; looking for a soldier's register under his birth year and birth département instead of his classe and recruitment bureau; calling a recent birth or marriage "missing" when it is closed but can be ordered; expecting a duplicate parish register before 1667; looking for a Paris-suburb notary at the Archives nationales; assuming a former Meurthe commune's present département without checking the 1871 annexation line; and stopping an early-1939 camp search at the Pyrénées-Orientales archives, which hold no lists for those months, when the Archives nationales do.
 
 It covers routing, access delays, the INSEE death file, the succession tables, the censuses, the registres matricules, ancien-régime duplicates, notarial minutes and the Pyrénées-Orientales camp files. Link out for the shared steps:
 
 For an adoption lead, a French Basque house-name change or a Breton marriage decree,
 use section 10 to identify the separate judgment, house-entry or consent records to seek.
 These are conditional retrieval routes; an uninspected record does not resolve the family link.
+
+For a medal application or a French resident abroad, section 11 selects the award
+administration or consular post before choosing its records. A consular record follows
+its post and collection, rather than the domestic département route alone.
 
 - **Reading the act once you have it** (act date versus event date, Republican dates, *je dis* corrections, status words, legitimated children, margin notes): [French and Belgian civil act extraction](french-belgian-civil-act-extraction.md).
 - **A commune you cannot place, or one renamed or merged:** [historical place-name resolution](historical-place-name-resolution.md).
@@ -158,6 +162,60 @@ Confirm that context for the actual party and period; the label alone does not e
    and kinship under the evidence/proof workflow. A marriage act or a notarial-only search
    does not exhaust this separate judicial route.
 
+## 11. Select the creator behind a medal or consular lead
+
+### Sainte-Hélène: departmental lists and the separate application
+
+Start from an independently identified applicant and the supported application commune.
+The 2026 presentation describes requests passing from the mairie to the préfecture and
+central administration, with departmental communal lists in M or sometimes R and
+separately surviving individual packets assembled by mayors [S32].
+
+1. Check that department's actual inventory for the named decoration, commune and period.
+   Treat M/R as search leads, not fixed cotes. A report of central-file loss does not
+   establish the loss of local lists or packets.
+2. Retrieve the communal entry and ask separately whether its application packet survives.
+   Preserve each locator and the documents actually present; a list is not the packet.
+3. Compare the index's birth year or age with the application statements, original birth
+   entry and any dated service evidence recovered. Preserve conflicting values and any
+   calendar-conversion basis; do not silently correct an index or infer service from age.
+4. Return the index, local entry and packet as linked records with their retrieval status.
+   An incomplete index miss or unresolved date does not settle identity or service.
+
+### Epidemic decorations: distinguish the form, date and awarding administration
+
+Record the medal's actual inscription, any named recipient, date, class and whether it is
+a table medal or a wearable decoration. The 2022 presentation distinguishes these forms
+and describes different responsible administrations over time [S33].
+
+- Use the form and period to identify the issuing administration before choosing its
+  records. Check the AD's decoration descriptions in M, then the responsible ministry's
+  holdings. The source also names R for military material; confirm the actual series and
+  creator rather than copying a code or assuming one ministry covers every form.
+- Search the locality's press around a supported award date, using Gallica or RetroNews
+  where relevant issues are available. Carry an announcement's date, recipient and award
+  wording into the administrative search; keep it distinct from an inspected award file.
+- Return the variant, issuer-selection basis, inventories and bounded press result.
+  Leave uncertain attribution, missing files and conflicting dates unresolved. Census
+  sub-series 6 M in step 5 is not a decoration-file locator.
+
+### A French resident under an overseas consular post
+
+Fix the consulate or consular section and residence period first. The official guide
+routes immatriculation through the post fonds' *chancellerie*, distinguishes civil and
+notarial primata collections from duplicata, and warns that registration was voluntary
+[S35]. Check those separate inventories, including earlier notarial registers left in
+the post fonds; take custody and request conditions from the selected description.
+
+The consular-fonds guide also identifies military material [S36]. Keep military files
+separate from consular immatriculation despite the shared word *matricule*. The 2022
+presentation motivates these parallel searches [S34]; its reading-room and date-limit
+statements are not current access instructions.
+
+Return the post, period, collection, cote, inspection status and actual family or image
+content. An unregistered person is not thereby absent from the country, and a file
+description does not establish a photograph, service history or family relationship.
+
 ## Close with a routing packet
 
 Return:
@@ -169,6 +227,9 @@ Return:
 - **Family-linkage rows:** the adoption-date reference and separate judgment target, the
   Basque name-and-house sequence, or the Breton marriage-to-consent locator chain, with
   the records inspected, unresolved custody/access and unproven links kept explicit.
+- **Award/consular rows:** the decoration form and creator or consular post, separate
+  index/list/packet or registration/civil/notarial/military targets, actual inventory
+  references, inspected contents and unresolved date, custody or identity questions.
 - **Gaps:** INSEE years 1970–1975, greffe copies before 1736, unindexed census years, and for early 1939 whether the Archives nationales camp lists were read.
 
 The model assembles this packet. The researcher decides identity and kinship.
