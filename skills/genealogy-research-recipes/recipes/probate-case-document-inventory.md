@@ -78,6 +78,44 @@ notarial series. She also describes a death-duty file as a will locator, reached
 through its contemporary `table V-bis`; follow the will's notary/date/place reference actually
 given in that file. [S19]
 
+### Swedish absent probate: separate production from surviving copies
+
+When an expected *bouppteckning* is absent, carry the supported name forms, death date,
+residence and verified court coverage into the existing case register. Keep four questions
+separate: was an inventory made, was a court copy filed, does a copy survive, and does the
+searched index or image set expose it? A legal expectation alone answers none of them. [S24]
+
+- **Index and filing date:** apply the later-year search already described above, retaining
+  death and filing dates separately. ArkivDigital reports an example filed decades after
+  death; it supplies no universal filing interval. Where the available index supports them,
+  use justified name variants or wildcards, log the actual date coverage, and retrieve the
+  court document behind a candidate. Do not carry the talk's historical index-coverage claim
+  forward as a guarantee about the current service.
+- **Court copy and heirs' original:** the presenter distinguishes the copy filed with the
+  court from the inventory delivered to heirs. If the court copy cannot be found, queue an
+  heir-held original only when a family-paper inventory, citation or other evidence gives
+  a specific lead. Record its private custody and provenance separately; if both versions
+  are recovered, compare their text. A court-series miss does not locate a private original.
+- **Poverty certificate:** for an urban case with evidence suggesting this route, ask the
+  relevant custodian whether a priest's *fattigbevis* survives for that person and period,
+  and obtain its actual filing reference before requesting it. Record what an inspected
+  certificate says and its date; an empty probate search does not establish poverty or
+  prove that no inventory was made.
+- **Lifetime transfer:** if a dated instrument or reference supports a distribution during
+  life, retrieve it through [land-record recovery](land-index-book-series-recovery.md)
+  where applicable and link it to the estate question. Preserve the transferred property,
+  parties and date. Do not infer an empty estate or nonproduction from a later probate miss.
+  Poverty and lifetime distribution are possibilities mentioned in the talk, not diagnoses
+  for an unlocated estate. [S24]
+
+**Artifact:** for each branch, add its actual evidence, target/custodian, covered dates,
+retrieval result and remaining production or survival question to the case register.
+
+**Check:** report an index miss, an unavailable court copy, an inspected private original
+or a dated certificate as that specific outcome. None alone establishes a general production
+rule or survival rate. For the talk's unlocated 1935 estate, the reason for absence and any
+later filing remain unknown.
+
 ## 2. Resolve every discovered reference into its own inventory row
 
 If the packet has a coded document key, locate the collection's actual master legend before

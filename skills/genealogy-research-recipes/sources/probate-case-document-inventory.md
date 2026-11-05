@@ -150,6 +150,18 @@ The linked inventory/queue schema and scope-completion rule are original synthes
   apart from the absent original. Current custody, packet completeness and the participants'
   final outcome are not established.
 
+- **S24:** ArkivDigital,
+  [Frågestund på Zoom den 21 november 2023](https://www.youtube.com/watch?v=__gjVQwiKWc),
+  published 2023-11-22 (saved publication metadata). Used for the distinction between an
+  heirs' original and a court-filed copy; reported very late filing; variant/wildcard searches;
+  and poverty certificates or lifetime distribution as possible explanations to investigate.
+  Only the saved transcript was inspected, not the questioner's 1935 estate, a certificate,
+  transfer, court volume or private original. The presenter's estimated survival percentage,
+  general legal-production statement and historical index-completeness claim are not adopted.
+  Requiring a specific private-paper lead, verified local filing/coverage and separate
+  production/copy/index outcomes is authored synthesis; no current holding or legal duty is
+  established.
+
 ## Credits
 
-- Kinprove — original distillation and synthesis, including the bounded reverse-guardian search and role checks attributed to S18 — FSL-1.1-MIT (kinprove-original)
+- Kinprove — original distillation and synthesis, including the bounded reverse-guardian search and role checks attributed to S18 and Swedish production/copy retrieval controls attributed to S24 — FSL-1.1-MIT (kinprove-original)
