@@ -1,8 +1,8 @@
 # Route French records by département, creator, series and access rule
 
-Use this recipe before you search for a French birth, marriage, death, census, military, notarial, decoration or consular record. It identifies the relevant archive and series from the record's creator and period, and tells you when a civil act is open. It prevents failures such as looking for one national French index that does not exist; reporting "not in the census" after a name search of lists that are mostly unindexed; looking for a soldier's register under his birth year and birth département instead of his classe and recruitment bureau; calling a recent birth or marriage "missing" when it is closed but can be ordered; expecting a duplicate parish register before 1667; looking for a Paris-suburb notary at the Archives nationales; assuming a former Meurthe commune's present département without checking the 1871 annexation line; and stopping an early-1939 camp search at the Pyrénées-Orientales archives, which hold no lists for those months, when the Archives nationales do.
+Use this recipe before you search for a French birth, marriage, death, census, military, property, notarial, decoration or consular record. It identifies the relevant archive and series from the record's creator and period, and tells you when a civil act is open. It prevents failures such as looking for one national French index that does not exist; reporting "not in the census" after a name search of lists that are mostly unindexed; looking for a soldier's register under his birth year and birth département instead of his classe and recruitment bureau; calling a recent birth or marriage "missing" when it is closed but can be ordered; expecting a duplicate parish register before 1667; looking for a Paris-suburb notary at the Archives nationales; assuming a former Meurthe commune's present département without checking the 1871 annexation line; and stopping an early-1939 camp search at the Pyrénées-Orientales archives, which hold no lists for those months, when the Archives nationales do.
 
-It covers routing, access delays, the INSEE death file, the succession tables, the censuses, the registres matricules, ancien-régime duplicates, notarial minutes and the Pyrénées-Orientales camp files. Link out for the shared steps:
+It covers routing, access delays, the INSEE death file, the succession tables, the censuses, the registres matricules, ancien-régime duplicates, property registers, notarial minutes and the Pyrénées-Orientales camp files. Link out for the shared steps:
 
 For an adoption lead, a French Basque house-name change or a Breton marriage decree,
 use section 10 to identify the separate judgment, house-entry or consent records to seek.
@@ -11,6 +11,9 @@ These are conditional retrieval routes; an uninspected record does not resolve t
 For a medal application or a French resident abroad, section 11 selects the award
 administration or consular post before choosing its records. A consular record follows
 its post and collection, rather than the domestic département route alone.
+
+For a known property, section 8 carries a cadastral name into the relevant mortgage
+records, or a historical Paris address into its property register and notarial reference.
 
 - **Reading the act once you have it** (act date versus event date, Republican dates, *je dis* corrections, status words, legitimated children, margin notes): [French and Belgian civil act extraction](french-belgian-civil-act-extraction.md).
 - **A commune you cannot place, or one renamed or merged:** [historical place-name resolution](historical-place-name-resolution.md).
@@ -28,6 +31,8 @@ Gather these before searching:
 - for a man born from about 1847, his birth year and every known residence around age 20
 - for a recent event, the person's death date if known, and for a marriage, both spouses' death dates
 - any series reference (cote) or image locator already seen
+- for a property inquiry, the historical location, bounded transfer period and any
+  cadastral case, recorded name, address or deed reference, each with its own source
 
 ## 1. Route by département, not by a national index
 
@@ -131,12 +136,68 @@ uncertainty. A blank departure field does not establish continuous presence.
 - **Expect patchy greffe copies from 1667 to 1736.** The royal declaration of 9 April 1736 restated the duty because it had been widely neglected, and required two registers, both authentic [S19]. In the Gard the greffe collection starts between 1667 and 1736 depending on the parish [S20].
 - **When one copy is lost or damaged, look for the other in a different series.** The parish original usually sits in the communal fonds (GG, then E) or E-dépôt; the greffe copy forms its own E sub-series [S18]. In the Côtes-d'Armor the greffe copy of the parish registers is in 6 E (7 E holds the civil registers) [S18]; read each AD's finding aid for both copies.
 
-## 8. Find notarial minutes through the notary
+## 8. Find property transfers and notarial minutes
+
+### When the notary is known
 
 - **Look for minutes over 75 years old in the AD.** Take the sub-series from that AD's finding aid; the Nièvre, for example, files them in 3 E [S22]. Younger minutes usually stay with the notary's office [S21].
 - **Send only Paris intra-muros notaries to the Archives nationales.** Their minutes go to the Minutier central; notaries elsewhere, the Paris suburbs included, deposit with their AD [S21].
 - **Search by notary, not by client.** Identify the notaries working in the place and period, then read each one's chronological répertoire (*répertoire*), kept alongside the minutes [S21]. Use a name index only where one exists for that notary.
 - **Expect marriage contracts and inventaires après décès (post-mortem inventories)** among the minutes; the Archives nationales publish a series of Minutier central inventaires après décès [S23].
+
+### From a cadastral case to a transfer deed
+
+Keep the fiscal case, named person and parcel as separate references. The 2024 presentation
+warns that a case can continue after a death and omit intermediate heirs [S39]. Use the
+entry as a retrieval lead, not as proof of an unbroken ownership or complete heir list.
+
+1. Copy the recorded name and dated parcel information. Select the historical mortgage
+   bureau covering the commune and the period from its actual inventory. The
+   Côtes-d'Armor guide describes a name-based search: a cadastral reference first supplies
+   a person's name, rather than directly identifying a mortgage account [S40].
+2. Follow the bureau's *registre indicateur* from surname to the alphabetical table's
+   volume and folio; identify the person there and copy the repertoire volume and case.
+   The mortgage case is a person's account, not the cadastral case [S40]. Preserve both
+   locators and resolve namesakes before joining them.
+3. In that account, distinguish transcriptions from credit inscriptions. Follow any
+   continuation account and retain the transcription volume/article and date [S40].
+   The entries are not identified by parcel: inspect candidate acts within the supported
+   period and compare their property descriptions rather than choosing by name alone.
+4. Convert the fiscal volume reference to an archival cote through that bureau's
+   inventory, then obtain the complete transcription [S40]. Use any actual notary/date
+   reference to seek the minute through the route above. Keep the two copies distinct.
+5. Compare the inspected act's parties and stated succession roles with the fiscal entry
+   and other evidence. Reuse [land-index recovery](land-index-book-series-recovery.md)
+   for the full-instrument inspection and [tax observations](tax-roll-observation-workflow.md)
+   for fiscal capacity. A missing heir in the matrix proves neither exclusion nor title.
+
+Return the name-to-account-to-act chain and the parcel match actually established.
+An unidentified bureau, missing register or unresolved identity remains a retrieval gap;
+no index hit establishes which heirs held this property.
+
+### A Paris address: choose its property record before the notary
+
+Fix the historical street name, number, date and location within the old Paris core or
+an annexed commune. Use [place-name resolution](historical-place-name-resolution.md)
+and [historical maps](historical-map-record-recovery.md) for name, numbering and
+boundary changes; a modern arrondissement alone does not select the historical record.
+
+- **Old core:** use a *calepin des propriétés bâties* for the recorded owners, occupants
+  and building description, and a *sommier foncier* for mutation references [S39], [S41].
+  These sources overlap: the official guide lists sommier periods 1809–1859, 1859–1880
+  and 1880–1945. Do not stop the sommier search at 1852 when calepins begin.
+- **Search the address as indexed for that period.** The guide indexes calepins under
+  both the historical arrondissement or commune and the present location [S41]. Keep
+  each returned cote and date span; an address match is not yet a person match.
+- **Carry the sommier's actual mutation date, nature and notary into the minute search.**
+  Its property entry is the bridge to the notary [S39], [S41]; retain the referring
+  entry and the separate notarial act, including any conflicting names or dates.
+- **A commune before its 1860 annexation:** select its cadastral records instead of
+  assuming the old-core route applies [S39]. Compare intermediate dated plans when
+  urban change prevents a secure parcel/address match; leave uncertain links open.
+- **Check access before ordering.** The official page opened 2026-11-05 warns that
+  D1P4 before 1901 is inaccessible because of asbestos [S41]. A descriptive hit does
+  not establish that a calepin can be inspected; record its actual access status.
 
 ## 9. Follow a 1939 Spanish refugee into the Pyrénées-Orientales camp files
 
@@ -286,6 +347,10 @@ Return:
   entries with literal outcomes and any stated destination; or the matricule-derived
   unit/date bounds, selected JMO pages and unit observations kept separate from personal
   presence, departure or participation conclusions.
+- **Property rows:** separate cadastral and mortgage cases, historical bureau, table and
+  transcription locators, or the dated Paris address and selected property register;
+  the deed/notary reference, actual access and inspection status, and unresolved parcel,
+  person or succession links.
 - **Gaps:** INSEE years 1970–1975, greffe copies before 1736, unindexed census years, and for early 1939 whether the Archives nationales camp lists were read.
 
 The model assembles this packet. The researcher decides identity and kinship.
