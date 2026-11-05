@@ -29,7 +29,14 @@ Name each product in the request, and log the product returned and its page coun
 - **Reconstructed (R) file:** assembled after the fire from alternate sources: VA claim files, final pay vouchers, state records, Selective Service records, hospital records and organizational records ([NARA](https://www.archives.gov/personnel-records-center/fire-1973)). The presenter adds that veterans were asked to send in copies of their discharge papers [S9]. Expect only a few pages [S9].
 - **Auxiliary file:** ask for it by name when the OMPF is lost, and expect it to be minimal. One example is a final pay voucher giving name, service number, and dates and character of service ([NARA, other records](https://www.archives.gov/st-louis/other-records)). Strauss adds rank, last duty station, last unit, pay and overseas status, all from the man's last period of service [S9]. His own WWI request returned three pages: a final pay roll naming the man with other men of his unit [S11]. Log the product under the label the custodian puts on it.
 
-A payroll entry dates the end of service and names the last unit. It is not a full service history. Log "no OMPF; auxiliary returned, 3 pp." rather than "file destroyed".
+Before choosing final pay as a substitute, distinguish a discharge from an in-service
+death. NARA's 2023 presentation says a final pay voucher required discharge: a person
+killed in service would have one only from an earlier break before the final reenlistment
+[S27]. Preserve the evidence for that earlier separation and request the voucher for its
+actual period; an in-service death alone does not supply that target. Use the separate
+death-file route below. A missing voucher is not evidence of non-service.
+
+A payroll entry dates the end of service and names the last unit. It is not a full service history. The recorded unit may be a separation unit rather than the operational unit [S27]. Log "no OMPF; auxiliary returned, 3 pp." rather than "file destroyed".
 
 ## Request records that were never part of the OMPF
 
@@ -46,6 +53,38 @@ A payroll entry dates the end of service and names the last unit. It is not a fu
 - **VA Master Index card (1917–1940):** held by NARA St. Louis, not the VA. It is digitized and free to search on [FamilySearch](https://familysearch.org/search/collection/2968245). Search there first and log it as its own product [S20].
 - **BIRLS entry:** BIRLS (Beneficiary Identification Records Locator Subsystem) is a VA index of veterans and beneficiaries who claimed benefits, built from the 1980s on. Death does not create a BIRLS record. The public release covers only veterans the VA has confirmed as deceased ([birls.org](https://www.birls.org); [S17]). A BIRLS hit tells you a claim file may exist. Log it as its own product.
 - **Compensation file:** one presenter used a WWI "compensation file" listing company, battalion, division and dated engagements [S17]. Take the custodian from the file's own heading or citation and record it exactly as found.
+
+### A separate Army or Air Force court-martial trial file
+
+Keep the trial record separate from personnel-file remarks. Gather the service, trial
+year or bounded interval, court type, original outcome and any later appeal or discharge
+upgrade. NARA's 2024 presentation describes these historical selection distinctions [S26]:
+
+| Described Army/Air Force trial series | Selection described in the presentation |
+| --- | --- |
+| General and special, 1917–1938 | Included regardless of outcome |
+| General, 1939–1976 | Separate trial-record series |
+| Special, 1939–1976 | Proceedings resulting in a bad-conduct discharge |
+
+The presentation places surviving summary-court details in the OMPF rather than a separate
+trial series. Use these distinctions to select a candidate finding description, then
+verify its actual period, custodian, survival and access before requesting it. They do
+not establish that an individual's file survives or was destroyed. A later discharge
+upgrade alone does not settle survival; preserve the original disposition and appeal dates.
+
+For a trial-file search without a case number:
+
+1. Preserve any case number already supplied; otherwise use the **defendant's surname**
+   as the lookup lead. The presentation describes staff card indexes arranged by service
+   and surname, not by the victim or witness [S26]. Check the custodian's present finder
+   and request requirements rather than assuming the 2024 index format is unchanged.
+2. Supply the service, all known names and aliases, including married/maiden names, and
+   the trial date or bounded interval. Keep unit and trial location as additional clues
+   when the date is uncertain. For a joint trial, one known defendant can supply the
+   individual card lead; the presentation does not require every defendant's name [S26].
+3. Retain any separately cited appeal case number as another retrieval target. Record
+   the trial file requested, the actual file or personnel-file extract returned, its
+   extent and unresolved references. Personnel remarks are not the trial transcript.
 
 ## Read the headstone application as a derivative summary
 
@@ -118,6 +157,27 @@ on one day then does not show that the man was absent from the unit.
 - **Personal entries:** promotions and furloughs, dated to the day [S16]. Log only entries that name him.
 - **Unit context:** movements, incidents and after-action detail [S16]. An after-action report corrected a family memory of an incident's date (Christmas Day versus Christmas Eve) [S16]. Note that it dates the unit's incident, not his part in it.
 
+**An award reference:** an OMPF decorations field is a lead to an order, not the order
+itself. For Korean War Army records, NARA's 2023 presentation gives two search keys:
+the General Order (GO) number, or the awarding unit and approximate award date [S28].
+Preserve whichever is actually supplied; a surname alone does not identify the order.
+
+1. Copy the GO number and any date or issuing unit from the referring document. With
+   only unit/date evidence, identify the actual awarding unit before selecting records.
+   Keep the supported interval and any unresolved command relationship explicit.
+2. Search that unit's actual record descriptions. If the company or battalion search
+   misses, use its documented command relationship to inspect the relevant higher-level
+   regiment or other issuing formation. The presentation shows regimental records that
+   cover subordinate units [S28]; do not substitute an unrelated same-numbered formation.
+3. Retrieve the matching order and retain its locator and extent. Compare the actual
+   name, rank, service number and organization with the independent identity anchors.
+   Keep order, award and action dates in their stated roles. Some orders list only basic
+   award details; record an individual action only when the inspected order states it.
+
+Keep the order as a separate row in the routing register. A GO is not a complete personnel
+roster, and neither an uninspected award reference nor a unit narrative proves the man's
+action. Continue to separate personal statements from unit context in the timeline.
+
 Search Army transport passenger lists (RG 92, 1910–1939, on Ancestry), both outbound and returning ([Ancestry](https://search.ancestry.com/search/db.aspx?dbid=61174); [S14], [S22]):
 
 - Record the vessel, dates, service number, company/regiment and named nearest relative with the stated relationship [S14].
@@ -138,7 +198,7 @@ Do not accept the National Archives WWII casualty lists as a complete roster. Th
 
 Deliver three things:
 
-1. **Register:** one row per product (OMPF/B/R/auxiliary, burial case file/IDPF with its custodian, VA C-file, VA Master Index card, BIRLS, AAD enlistment record, compensation file, headstone application both sides, Guard records per state, county discharge, state WWI questionnaire/Gold Star packet, morning/after-action reports, transport lists, unit histories). Each row gives custodian, access status, release used, date requested and result (including page count, refusal, summary-only reply, appeal or pending). For a state questionnaire packet, also retain its subject, collection inclusion rule, family informants and the received page/image extent.
+1. **Register:** one row per product (OMPF/B/R/auxiliary, separate court-martial trial file, burial case file/IDPF with its custodian, VA C-file, VA Master Index card, BIRLS, AAD enlistment record, compensation file, headstone application both sides, Guard records per state, county discharge, state WWI questionnaire/Gold Star packet, morning/after-action reports, award GO, transport lists, unit histories). Each row gives custodian, access status, release used, date requested and result (including page count, refusal, summary-only reply, appeal or pending). For a state questionnaire packet, also retain its subject, collection inclusion rule, family informants and the received page/image extent.
 2. **Dated timeline:** three marked columns: personal entries, unit-level context and derivative annotations.
 3. **Negative searches:** each with its scope (database, name form, branch, state, date range).
 
