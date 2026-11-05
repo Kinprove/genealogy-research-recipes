@@ -112,6 +112,34 @@ The index-audit, locator and series-resolution schemas are original synthesis.
   5 September 2022. A deed example comparing the opening party roster with the execution names;
   placement or omission is not taken to establish widowhood, incapacity, a death or kinship.
 
+- **S27:** ArkivDigital,
+  [Frågestund på Zoom den 7 februari 2024](https://www.youtube.com/watch?v=DoRSQ94Hd1M),
+  9 February 2024. A saved-transcript demonstration of farm-based lagfartsbok entry,
+  marginal room references, fractional shares, will/probate references and a successor book.
+  The questioner's Falun property was not located in the demonstration; its substituted
+  example and uncertain room reading do not establish a verified ownership sequence.
+- **S28:** ArkivDigital,
+  [Föreläsning den 6 maj 2026 - Så forskar du om din fastighet eller gård](https://www.youtube.com/watch?v=HSY904f8uPU),
+  7 May 2026. The saved-transcript discussion of old farm/mantal descriptions, subdivisions,
+  mergers and numbering exceptions motivates following documented property links. The recipe
+  does not adopt the lecture's reform dates, tenure chronology, ownership conclusions,
+  current service descriptions or an inference from a unique mantal alone.
+- **S29:** Riksarkivet,
+  [Guide till lagfartsbok](https://riksarkivet.se/resurser/guide-till-lagfartsbok),
+  26 February 2025, checked 5 November 2026. Authoritative explanation of room numbers,
+  backward and forward room references, acquisition-document fields, separate application
+  and grant dates, and year/act/paragraph references into lagfartsprotokoll.
+- **S30:** Lantmäteriet,
+  [Innehåll i fastighetsregistret](https://www.lantmateriet.se/sv/fastighet-och-mark/information-om-fastigheter/Fastighetsregistret/registrets-innehall/),
+  checked 5 November 2026. Previous designations with date/act references, parent-property
+  information and links to survey records. The described fields do not establish that a
+  particular extract contains a complete parcel history.
+- **S31:** Lantmäteriet,
+  [Förrättningsakter](https://www.lantmateriet.se/sv/fastighet-och-mark/information-om-fastigheter/Forrattningsakter/),
+  checked 5 November 2026. Survey acts contain maps, descriptions, decisions and protocols
+  that complement register summaries. No individual act, parcel, access entitlement or
+  current interface procedure was verified for the teaching cases.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
