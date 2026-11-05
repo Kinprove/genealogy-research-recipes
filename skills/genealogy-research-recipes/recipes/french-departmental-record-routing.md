@@ -66,12 +66,64 @@ Gather these before searching:
 - **Read the columns of the year you open.** The lists give names and occupations [S6]; the role in the household (head, wife, children) is given only from 1881 [S5]. Other columns change by year: birthplace and nationality are absent from 1856 to 1866, and from 1906 a birth date replaces the age [S5]. Do not expect a birthplace in every year.
 - **Browse, do not name-search.** Most years have no name index. A few have one, such as the Côtes-d'Armor 1906 census indexed by a local genealogy centre [S5]. Without an index, read the commune household by household, and record a miss only after reading every page of that list.
 
-## 6. Find a man in the registres matricules by classe and bureau
+## 6. Follow the military record created at each stage
+
+Use the classe/bureau route for the matricule series it covers. For earlier recruitment,
+retain each selection stage separately; for unit context, start from independently
+verified service dates.
+
+### Find a man in the registres matricules by classe and bureau
 
 - **Compute the classe as birth year plus 20.** The registers run from the classe of 1867, so men born about 1847 onward [S9].
 - **Route by recruitment bureau, not by birthplace.** Registers are kept by classe and by recruitment bureau, and a man is recorded where he lived at age 20 [S9]. Some cantons belonged to a bureau in another département, whose archives hold their registers [S10]. Search the département of his residence around age 20 first, then his birth département.
 - **Open the alphabetical table for each classe and bureau** [S9], then the register entry. Check the classes either side if the birth year is uncertain.
 - **Use Grand Mémorial as a finder for the classes of 1887–1921.** It searches the departmental registre-matricule indexes nationally and links each hit to the departmental archive's record [S11]. Coverage depends on each AD's indexing. Cite the departmental register and image, not Grand Mémorial.
+
+### Before classe 1867: follow the local recruitment stages
+
+For a corroborated earlier class and locality, check the surviving recruitment series
+before assuming the later matricule lookup applies. The 2025 presentation describes
+municipal H and departmental R as finding leads [S38]; take each cote and covered year
+from the actual local inventory.
+
+1. Locate the municipal alphabetical recruitment list and preserve the commune, class
+   year, person details and entry locator actually supplied. The presentation places
+   this list in communal series H; verify its survival and custody for the commune.
+2. Follow the candidate into the canton's *tableau de recensement*, described in
+   departmental R. Compare the recorded identity details across the two entries;
+   a same-name hit does not establish that they concern the same recruit.
+3. Read that canton and class's lottery list. Copy the number, literal outcome and any
+   recorded exemption, replacement or number exchange, keeping the named parties in
+   their stated roles. A draw or a census entry alone does not establish service.
+4. Seek the *liste définitive du contingent* in the relevant departmental inventory.
+   Retain its recorded final status, dates and any destination unit or battalion; the
+   source describes a destination as a possible field, not a universal one [S38].
+5. Return the linked stages and unresolved links. A selection or final-contingent listing
+   does not by itself establish physical departure or a complete service history.
+   If the final record or destination is missing, leave it unresolved before choosing
+   a unit to trace.
+
+### A First World War matricule: select a bounded JMO interval
+
+Start from an independently identified matricule and its dated unit transitions.
+Preserve each unit designation, arrival, transfer and injury date with its source and
+uncertainty. A blank departure field does not establish continuous presence.
+
+1. Choose a small interval around a supported arrival or recorded injury, death or
+   decoration, within the unit/date bounds actually documented. Distinguish assignment
+   from confirmed presence and leave gaps unresolved. Do not select a convenient unit
+   journal merely because its dates overlap the war.
+2. The 2024 presentation carries matricule-derived regimental information to the
+   histories and *journaux de marche et d'opérations* (JMO) on Mémoire des Hommes [S37].
+   Verify the actual journal's unit and date coverage, then inspect the selected pages.
+   Keep the journal date and page/image locator separate from the personal record.
+3. Record what the journal states about the unit, and about an individual only where
+   it actually identifies that person. Compare the unit context with the matricule's
+   transitions and preserve conflicts. A unit action is not automatically the soldier's
+   participation, and the journal may omit him entirely.
+4. Return the bounded interval, pages inspected and resulting unit context, with any
+   unavailable, uninspected or uncertain stretch explicit. Do not fill the soldier's
+   personal chronology from the regiment's whole wartime narrative.
 
 ## 7. Look for the right copy of an ancien-régime parish register
 
@@ -230,6 +282,10 @@ Return:
 - **Award/consular rows:** the decoration form and creator or consular post, separate
   index/list/packet or registration/civil/notarial/military targets, actual inventory
   references, inspected contents and unresolved date, custody or identity questions.
+- **Military-stage/context rows:** linked municipal, canton, lottery and final-contingent
+  entries with literal outcomes and any stated destination; or the matricule-derived
+  unit/date bounds, selected JMO pages and unit observations kept separate from personal
+  presence, departure or participation conclusions.
 - **Gaps:** INSEE years 1970–1975, greffe copies before 1736, unindexed census years, and for early 1939 whether the Archives nationales camp lists were read.
 
 The model assembles this packet. The researcher decides identity and kinship.
