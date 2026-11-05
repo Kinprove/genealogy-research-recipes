@@ -14,6 +14,8 @@
 - **S12:** GeneaVlogger, [Answering Live Genealogy and DNA Test Questions](https://www.youtube.com/watch?v=zOzzh0xDYY0), 2025-08-23. Used for: community vs Dutch-clerk surname spellings.
 - **S13:** Wikipedia (NL), [Burgerlijke stand](https://nl.wikipedia.org/wiki/Burgerlijke_stand), opened 2026-11-04. Used for: the national regulation of 1811 that brought civil registration to Amsterdam, and earlier starts elsewhere.
 - **S14:** encyclo.nl, [Burgerlijke Stand](https://www.encyclo.nl/begrip/Burgerlijke%20Stand), opened 2026-11-04. Used for: the 1811 start in the rest of the Netherlands, which includes Amsterdam, after the earlier southern starts.
+- **S15:** Sephardic Genealogy, [Selomoh Ayllion - Controversial Rabbi](https://www.youtube.com/watch?v=UFFNZj2PWoY), 2024-06-16. Used for: a remarriage's orphan-chamber marginal note leading to a declaration about children's maternal inheritance, their stated ages and a married daughter's household; the missing first-marriage ketubah and suggested earlier provision remain unverified. This is a narrated example, not an independent inspection of the chamber entry.
+- **S16:** Sephardic Genealogy, [Alternative Sources for Genealogy in Amsterdam](https://www.youtube.com/watch?v=WV3PzSTckHg), 2024-05-09. Used for: marriage-ban clearance to a chamber declaration, separate guardian appointments, replacements and later discharges; a no-means declaration that still names children, wills described as excluding chamber intervention, and an uncle whose family side is unspecified. The lecture's legal explanations, case identities and original records are not independently verified here.
 
 **Synthesis vs sources.** Three things are authored synthesis:
 
@@ -23,6 +25,12 @@
 
 The presenters supply the worked examples and their readings of the registers. No register image was inspected for this revision.
 
+The orphan-chamber search order, linked-record table and separation of recorded estate
+statements from a hypothesized missing marriage provision are original procedural
+synthesis of S15 and S16. Their examples establish neither present holdings or access
+nor a universal guardianship rule. The two lectures are cited and paraphrased; no
+transcript passage or register image is reproduced.
+
 ## Credits
 
-- Kinprove original procedural synthesis; presenter worked examples cited as S1 to S12, civil-registration start dates cited to the reference pages S13 and S14, and institutional facts checked against the Stadsarchief Amsterdam guides — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; presenter worked examples cited as S1 to S12 and S15 to S16, civil-registration start dates cited to the reference pages S13 and S14, and institutional facts checked against the Stadsarchief Amsterdam guides — FSL-1.1-MIT (kinprove-original)

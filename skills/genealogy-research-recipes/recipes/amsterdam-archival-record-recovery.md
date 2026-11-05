@@ -45,6 +45,75 @@ Before you interpret entries, read the inleiding (introduction) or PDF inventory
 - **Follow a widowed party back to the first marriage.** Age was recorded only at a first marriage. If the intention says a party was widowed, look for the intention of the named previous marriage. Repeat until you reach a first marriage. S1's presenter adds that widowed parties' later intentions usually also lack a birthplace, which the first marriage gives [S1].
 - **Link pre-1811 Ashkenazi patronymics to later surnames.** Ashkenazi parties usually appear under patronymics until surnames were adopted under Napoleonic rule in 1811. Treat the link between a patronymic form and the later surname as a hypothesis. Do not search only under the later surname. S8's example is a 1793 intention whose groom later carries an added surname [S8].
 
+### Follow a remarriage clearance into orphan-chamber records
+
+Use this branch when a widowed party's intention has an orphan-chamber (*Weeskamer*)
+note, or when an earlier household remains incomplete because its first-marriage
+ketubah is missing. The two Sephardic Genealogy lectures follow marriage-ban
+marginalia into chamber declarations, guardian appointments and later discharges
+[S15], [S16]. These are municipal records: do not restrict the search to the
+Portuguese-Jewish community's archive 334 or assume the route applies only to Jews.
+Check the chamber's actual finding aid, period and surviving series before searching.
+
+1. **Preserve the starting note.** Copy the complete marginal wording or abbreviation,
+   its date if supplied, the intention's locator, the widowed party and the named
+   previous spouse. Keep an uncertain reading unresolved. In S16, the presenter reads
+   the note as satisfaction of the orphan chamber; that is a lead to the chamber's
+   record, not a statement that the wedding took place or that money was paid.
+2. **Find and check the chamber entry.** Use the supported names, dated remarriage
+   context and any explicit reference to search the relevant chamber register or
+   index. Preserve its own archive, inventory, folio and image locator. Compare the
+   surviving parent, deceased spouse and children actually named before linking it
+   to the intention. A clearance note need not contain a complete chamber locator;
+   an unlocated entry remains an open target rather than a reconstructed account.
+3. **Extract the earlier household from the account or declaration.** Record each
+   child separately, with the age as stated and the date of that statement. Copy
+   maternal-estate wording, amounts or shares and named recipients exactly. Retain
+   adult or married children and any stated spouse or sibling relationship; the
+   relevant roster need not consist only of minors in the parent's later household.
+   S15 reports children aged 12 to 22 and a brother-in-law connected to an already
+   married daughter. That supplies an extraction target, not verified people for
+   another tree or a complete list of every child.
+4. **Follow appointments beyond the first entry.** Locate the separately described
+   guardian-appointment register for the supported people and period. Copy each
+   appointment, replacement, account reference and discharge with its own date and
+   locator. Use later entries to test the earlier roster: S16 follows replacement
+   guardians and a later review of their administration. Keep guardian, child,
+   reviewer and estate representative as separate roles; a replacement or discharge
+   does not by itself establish a death, exact birthday or new family relationship.
+5. **Reconcile the money without inventing the missing ketubah.** A chamber statement
+   that the children received their mother's inheritance can recover a dated estate
+   observation even when the first-marriage contract is unavailable. It does not
+   recover that contract's terms or establish where the money originated. S15's
+   suggested connection to an earlier marriage provision remains a hypothesis.
+   S16 also shows a declaration naming five children while reporting no means to
+   declare. Keep a named child roster separate from a positive cash balance.
+
+Before using a chamber miss, check any located will for the executors, guardians
+and chamber-exclusion wording it actually contains. S16 describes wills that
+excluded chamber intervention; this is a reason to inspect the will, not a
+universal legal rule or an explanation for every absent entry. Record whether a
+will was inspected, unavailable or not yet located. Neither a chamber miss nor a
+declaration reporting no means establishes that there were no children.
+
+Keep an unspecified **uncle** unspecified. In S16, the presenter cannot determine
+whether the named uncle belongs to the deceased wife's family or the surviving
+husband's. Preserve the literal relationship and the person to whom it refers,
+where stated; leave the family side open. Appointment as guardian does not resolve it.
+
+Add the linked records to the register-entry packet:
+
+| Record | Keep beside its own locator |
+| --- | --- |
+| Marriage intention | Prior spouse, literal clearance note, dated context and unresolved reading |
+| Chamber declaration or account | Children and stated ages, maternal-estate wording, amount/share or no-means statement |
+| Appointment and later discharge | Named roles, action dates, changes of guardian and referenced accounts |
+| Will, if located | Actual appointments or exclusion wording and its inspection status |
+
+Report which links were recovered and which remain unsearched, unavailable or
+unresolved. These lectures supply the retrieval sequence and narrated examples;
+the underlying chamber entries and missing ketubah have not been inspected here.
+
 ## Population register: a running household ledger
 
 - **A crossed-out name means the person left the household, not that they died**, unless the entry says death. Record the departure date and destination beside each person as a separate observation. Keep other family groups on the same sheet apart [S2], [S3], [S6].
