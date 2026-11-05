@@ -34,6 +34,14 @@ Use only collections whose catalogue or description actually covers the place an
 4. On unidentified-photo sites, query the ancestral town and state. In [S7], a researcher typed the town and state instead of the surname and reached a "mystery photo" of her relative.
 5. Also run a surname-only search with the format filter set to images. A presenter recommends the surname alone, without forenames, because it tolerates spelling variants [S3]. Log it as one surface among several, not as the whole search.
 
+## Browse neighboring aerial-image series and paper copies
+
+**Inspect several surrounding series, not only the nearest map marker.** In ArkivDigital's June 2024 demonstration, the presenter says the precise flight routes are unknown and recommends opening several nearby series [S11]. The nearest marker is a starting point; it does not establish which views the flight contains.
+
+**Check for a corresponding paper-print series as well as the negatives.** Establish the relationship from the collection's actual metadata and images. ArkivDigital's June 2026 demonstration shows negative series marked O and paper-copy series marked R; some scanned print backs supply a place or purchaser's name [S12]. Follow that counterpart route where it exists, rather than assuming every negative has a surviving print.
+
+Use [archival image coverage verification](https://github.com/Kinprove/genealogy-research-recipes/blob/85d9681ceb84175c7f8796657e073eb54b4e0f26/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) to check the observed order and sides. In the 2026 demonstration, stepping two images at a time could show only fronts or only backs [S12]. Do not count a run of fronts as inspection of both sides. Record the series/item locator and the side that supplies a clue. The examples describe those historical demonstrations; check the actual collection and viewer before relying on their codes or controls.
+
 ## Exhaust each repository's surfaces before reporting no image
 
 **Search every photographer collection that holds images of people, not only the largest one.** The [S3] example comes from BYU special collections. There, a surname search filtered to images returned mostly hits from the George Edward Anderson collection, but other collections also produced results. The presenter advises searching at least both of the main people-image collections, Anderson and C. R. Savage, rather than going straight to Anderson [S3]. The general lesson: one photographer's collection is never the whole repository.

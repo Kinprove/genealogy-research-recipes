@@ -11,7 +11,10 @@
 - **S9:** Музейный комплекс «Дорога Памяти», [1418museum.ru](https://1418museum.ru/), opened 2026-11-02. Used: the current home of Road of Memory (the old foto.pamyat-naroda.ru address redirects here), its WWII participant cards and its Ministry of Defence links.
 - **S10:** Бессмертный барак, [bessmertnybarak.com](https://bessmertnybarak.com/), opened 2026-11-02. Used: the repression-victim portal is live at the .com domain, with search, and describes itself as collecting documents and photographs.
 
-**Authored synthesis.** The following is not taken from any one presenter: the order of the search, the separate-field record, the coverage log, the "local context only" label, the attribution format, and extending the finding-aid caution beyond BYU. The presenters supply the examples and the failure modes. The portals in the former-Soviet memorial-portal section were checked against S8–S10.
+- **S11:** ArkivDigital, [Föreläsning med ArkivDigital den 5 juni 2024 - Sommarinspiration](https://www.youtube.com/watch?v=ZUovCZwgL98), demonstrated 2024-06-05, published 2024-06-07. Used: the presenter says the precise aerial flight routes are unknown and recommends inspecting several surrounding image series instead of only the nearest plane marker. Checked against the saved transcript; original media and current controls were not checked.
+- **S12:** ArkivDigital, [Föreläsning den 3 juni 2026 - Gravstenar, flygbilder och frågesport](https://www.youtube.com/watch?v=X6m7ShbPzY8), demonstrated 2026-06-03, published 2026-06-04. Used: demonstrated O-negative/R-paper series, scanned print backs sometimes carrying place/purchaser clues, and two-image stepping that can show only fronts or only backs. Checked against the saved transcript; no universal counterpart availability, current codes/controls or identification is verified.
+
+**Authored synthesis.** The following is not taken from any one presenter: the order of the search, the separate-field record, the coverage log, the "local context only" label, the attribution format, and extending the finding-aid caution beyond BYU. The presenters supply the examples and the failure modes. The portals in the former-Soviet memorial-portal section were checked against S8–S10. The aerial-image section combines the historical examples in S11–S12 with the existing archival image coverage procedure; it does not introduce a new reverse-checking method.
 
 **Not verified:**
 
@@ -28,4 +31,4 @@ No identification in the presenters' examples was independently checked.
 - BYU Family History Library / Ryan Lee, Family History Resources in Special Collections, YouTube, 2016-05-31 — Standard YouTube License (all rights reserved); short attributed adaptation (adapted)
 - Genealogy Gems, Episode 74 - An Amazing Story Featuring DeadFred, YouTube, 2016-12-23 — Standard YouTube License (all rights reserved); brief attributed quotation of a site category term (quoted)
 - Kinprove original source annotations — FSL-1.1-MIT (kinprove-original)
-- Kinprove original procedural synthesis; presenter examples paraphrased with attribution and cited as S1-S7 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; presenter examples paraphrased with attribution and cited as S1-S7 and S11-S12 — FSL-1.1-MIT (kinprove-original)
