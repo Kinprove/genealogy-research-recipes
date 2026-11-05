@@ -40,6 +40,60 @@ Use this recipe when an ancestor disappears from records and you suspect arrest,
 - Classify each series as **inspected**, **restricted**, **destroyed**, **not held by custodian**, **referred elsewhere** or **not yet asked**. A restricted, unheld or destroyed series does not mean "no record".
 - Check index numbers for gaps. The NYC Municipal Archives holds NYPD Bertillon identification cards, and the presenter used digitized cards from the city's records access website [S5]. A friend's index of the cards jumped from card 14885 to 14889, and he treated that as a possible indexing gap rather than lost cards. He arranged for someone to check the originals on site [S5]. He tied card 14885 to his relative by matching its arrest date (7 January 1908) and charge to a newspaper report dated the next day [S5].
 
+## Swedish monthly prison rolls: follow the annotations beyond the index
+
+Use this branch when a Swedish prison-roll index hit gives a name or alleged offence
+but leaves the court, proceeding date or next destination unclear. ArkivDigital's
+September 2024 demonstration opens monthly returns sent to *Justitiekanslern* and
+reads columns that its name index does not expose [S7]. The index is an entry point,
+not an abstract of every procedural or movement note.
+
+1. Open the linked original roll image and retain the prison, return month/year,
+   archive, volume, printed page and image locator. Read the whole entry across its
+   columns and any continuation. Copy the literal name and abbreviation, occupation,
+   stated origin and custody details; leave an uncertain expansion unresolved.
+   Check the actual index and volume's date and institution coverage before treating
+   a miss as informative. The demonstration's index counts and coverage are historical.
+2. Separate the dates and roles before choosing the next record. Keep the roll's
+   reporting month apart from admission, release, hearing, order and transport dates.
+   Copy each action's wording and status: awaiting a decision, undergoing proceedings,
+   ordered to leave and reported sent are different observations. An offence label or
+   pending proceeding does not establish conviction or the final outcome. [S7]
+3. Build a separate retrieval target for each authority or destination actually named,
+   using the routing rows below. Identify its historical jurisdiction, surviving series
+   and current custodian before requesting records. Preserve the roll reference beside
+   each target so a failed lookup does not erase the original lead.
+
+| Annotation in the inspected roll | Next retrieval target and limit |
+| --- | --- |
+| Named court, proceeding date and action | Locate that court's relevant minute or case series for the stated date/term; compare the retrieved entry's person and procedural stage. A hearing court or higher-court decision still awaited is not automatically a court of conviction. |
+| Governor's office or other administrative authority | Preserve the authority, locality, date and action actually attributed to it. Ask its custodian whether corresponding interrogation or administrative papers survive. A release or passport statement alone does not show that an interrogation file exists or that the governor personally questioned the prisoner. |
+| Onward transport, destination and date | Retain whether transport was ordered or reported as carried out. Follow the named receiving court or institution for the bounded destination/date question; request a cited transport document separately when a reference or finding aid identifies one. Do not invent a receiving prison from a court-district name. |
+
+The demonstration's September 1826 example supplies both a dated court proceeding and
+a later transport to another district [S7]. These are separate retrieval leads. A
+transport annotation does not retrieve a transport order, prove arrival or establish
+what happened in the receiving court. Keep a missing date, document reference or
+receiving institution unresolved rather than filling it from the next plausible hit.
+
+1. Compare other monthly hits only as candidate observations. Record the literal name,
+   descriptors, institution and event dates for each, then test a proposed connection
+   against those fields and the retrieved court or administrative record. The presenter
+   explicitly warns that repeated hits for the same name need not be one person [S7].
+   Retain conflicting or insufficiently identified rows separately; the reporting month
+   alone neither dates a new imprisonment nor proves continuous custody between returns.
+2. Add each followed reference to the existing routing row and request log. Record the
+   source annotation, exact court/authority/destination, dated action, target series,
+   requested item, retrieved locator and comparison result. Distinguish an inspected
+   no-hit from an unsearched month, unindexed field, unavailable volume or unlocated
+   administrative/transport paper. Pass identity and conflict rulings to the evidence
+   workflow, preserving both the allegation and the procedural stage.
+
+**Return:** a dated roll-entry and follow-up chain with one row per observation and
+one result per target. This branch supplies a way to recover court, interrogation-authority
+and movement leads; it does not establish current national index completeness, applicable
+passport or vagrancy law, guilt, identity, a surviving file or an actual case outcome.
+
 ## Swedish court books: recover a separately surviving copy
 
 Use this branch when an identified Swedish proceeding has an incomplete *dombok* entry.
@@ -93,5 +147,6 @@ Return:
 - the surviving-series inventory with each series' status
 - the conflict list on whether the person was held
 - the admission-field lead table, with the informant marked for every field
+- when monthly Swedish rolls are used, the dated annotation-to-record chain, with unresolved identities and transport targets kept separate
 
 Name the next custodian, series or on-site check for every open gap.
