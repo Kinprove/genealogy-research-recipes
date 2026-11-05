@@ -4,8 +4,8 @@ One skill instead of many: DNA evidence and record searches across countries, ar
 testing companies, in one catalog that grows with every release. Every recipe is fact-checked,
 and its sources are listed beside it.
 
-It is one [Agent Skill](https://code.claude.com/docs/en/skills) for Claude, Hermes Agent and
-OpenClaw, by [Kinprove](https://kinprove.io). It needs no Kinprove account or API key, registers
+It is one [Agent Skill](https://code.claude.com/docs/en/skills) for Claude, Codex, Hermes Agent
+and OpenClaw, by [Kinprove](https://kinprove.io). It needs no Kinprove account or API key, registers
 no tools or hooks, and makes no network calls of its own.
 
 ## Install
@@ -23,6 +23,16 @@ Update with `claude plugin update genealogy-research-recipes@kinprove`, or turn 
 **Claude.ai and the Claude desktop app:** **Customize → Plugins → Add → Add marketplace**, enter
 `Kinprove/genealogy-research-recipes`, then add `genealogy-research-recipes`. Update with
 **Check for updates** on the `kinprove` marketplace, or turn on **Sync automatically**.
+
+**Codex:**
+
+```sh
+codex plugin marketplace add Kinprove/genealogy-research-recipes
+codex plugin add genealogy-research-recipes@kinprove
+```
+
+Update with `codex plugin marketplace upgrade kinprove`, then run the `codex plugin add` command
+again.
 
 **Hermes Agent:**
 

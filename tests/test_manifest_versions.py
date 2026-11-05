@@ -7,7 +7,7 @@ import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-JSON_MANIFESTS = (".claude-plugin/plugin.json", "openclaw.plugin.json", "package.json")
+JSON_MANIFESTS = (".claude-plugin/plugin.json", "openclaw.plugin.json", "package.json", "plugin.json")
 SKILL = ROOT / "skills/genealogy-research-recipes/SKILL.md"
 SKILL_VERSION_LINE = re.compile(r"^This copy is version (\S+), released (\d{4}-\d{2}-\d{2})\.$", re.MULTILINE)
 
