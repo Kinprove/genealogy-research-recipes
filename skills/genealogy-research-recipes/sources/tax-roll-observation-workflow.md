@@ -1,6 +1,6 @@
 ## Sources
 
-Based on recorded talks (reviewed 2026-10-20). The presenters' statements were checked on 2026-10-21 against archive and collection pages. No tax list image was inspected.
+**Review note for S1–S24:** Recorded talks reviewed on 2026-10-20; the presenters' statements were checked on 2026-10-21 against archive and collection pages. No tax list image was inspected.
 
 - **S1:** Family History Fanatics, [Using Tax Records to Research AROUND The 1890 Census Loss in Genealogy](https://www.youtube.com/watch?v=9jtYj2BEgD4), 2018-10-03. Learn the tax law for that place and year. An absence does not mean evasion or absence from the area. North Carolina poll-tax ages as described by the presenter (white males over 21; over 50 exempt by 1801); the State Library of North Carolina gives freemen and male servants 21+ by 1784. Preambles and headings as scope sources.
 - **S2:** Family History Fanatics, [How to Research Tax Records for Your Ancestors](https://www.youtube.com/watch?v=VVlrL4iKUE4), 2020-06-05. Statutes for taxable ages, property and exemptions. Rates from newspapers. Ohio and Michigan volumes arranged by township/range rather than alphabetically, read with a map (presenter's experience).
@@ -26,10 +26,12 @@ Based on recorded talks (reviewed 2026-10-20). The presenters' statements were c
 - **S22:** BYU Family History Library / James Tanner, [Researching In-depth](https://www.youtube.com/watch?v=_-q0vqAdMiw), 2015-03-18. Annual rolls as a US stand-in for house registers, bracketing arrival and departure.
 - **S23:** BYU Family History Library / Jerroleen Sorensen, [Using Historical Sources To Make Inferences](https://www.youtube.com/watch?v=BXde-Z4rocM), 2022-06-06. Absence may mean death or being under 21, depending on local law.
 - **S24:** Lisa Lisson, [How to Research Your Common Surname Ancestors](https://www.youtube.com/watch?v=2MsRyfJqELI), 2017-10-23. First and last appearance, each read against that year's tax law.
+- **S25:** ArkivDigital, [Frågestund på Zoom den 7 februari 2024](https://www.youtube.com/watch?v=DoRSQ94Hd1M), published 2024-02-09. Used for: parish/year search in *Innehållsförteckningar till mantalslängder* as an administrative bridge into an original roll's parish section; multiple roll results for one year; returning to the first page for period-specific column headings; annual farm tracking with taxable-age and exemption alternatives to vital-event inferences. The interface and example holdings are historical demonstrations, not current coverage, survival, household completeness or a universal tax rule.
 
 The following are authored synthesis and do not come from the videos: the four-status series register, the rule that an index miss is not an inspection, the per-year liability-scope record, the interval format, the rule that neighbour inference depends on list order, the letter-block completion rule, and the delinquent-addendum and newspaper checks. The videos supply the failure patterns and the worked examples. The James Tanner (S18–S20) and Genealogy Gems (S5) segments repeat each other and are not independent support.
 
 ## Credits
 
 - BYU Family History Library, Julia Anderson, Deep South Research: A Beginner's Guide and Case Study, 2026-10-02 — All rights reserved by the presenter; short factual adaptation with attribution (adapted)
+- ArkivDigital, Frågestund på Zoom den 7 februari 2024 (video, 2024-02-09), cited as S25 — Short attributed adaptation of the parish/year contents-index entry route and annual-heading checks; video remains under its publisher's terms (adapted)
 - Kinprove original procedural synthesis; presenter statements cited as S1–S24 and checked against state library, archive and collection guides — FSL-1.1-MIT (kinprove-original)
