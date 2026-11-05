@@ -56,6 +56,10 @@ Record every page reference exactly as written, including ones you have not foll
 
 If a person's birth, or a parent's birth, is not in the current parish, keep going. Search that parish's moving-in and moving-out registers. Record the previous or next parish and the date given, then continue in that parish's examination and vital registers [S2]. Tanner says a moving-out note usually records where the person went [S4].
 
+When a Swedish receiving household entry gives only a birth year, establish the approximate arrival date and receiving parish, then check whether incoming moving certificates (*inflyttningsattester*) survive for that interval. Browse that series for the identified person: the sending priest's certificate may retain an exact birth date and place omitted from the receiving entry. ArkivDigital demonstrated this possibility on 1 April 2026; survival and contents vary by case. Reconcile any recovered detail with available original birth entries. [S20]
+
+Before declaring a Swedish parish event missing, check the archive information and its NAD (Riksarkivet's national archive database) link for dated pastorate membership, mother/annex relationships and documented losses. Establish the relationship for the event year: a jointly kept book may be filed under the other parish. ArkivDigital's 1 April 2026 demonstration used arrow-marked linked volumes to open that other parish's book. Follow the identified book and verify its actual parish/year coverage; a documented loss explains unavailable evidence, not whether the event occurred. [S20]
+
 ## When the page trail breaks
 
 Genealogy Gems lists several ways the trail can break [S5]:
