@@ -28,8 +28,13 @@
 - **S26:** Archives Wales, [Welsh archive repositories](https://archives.wales/welsh-archive-repositories), opened 2026-11-04. Used for: the map of local archive services.
 - **S27:** FamilySearch, [Welsh Naming Patterns](https://cms-b-assets.familysearch.org/3a/83/1d1c937ade13ac0ea918be16aaa9/welsh-naming-patterns-c-foster.pdf) (class handout), opened 2026-11-04. Used for: fixed surnames adopted by the Welsh gentry in the 16th century and by yeomen in the 17th and 18th.
 
+- **S28:** GenealCymru, [Reading Genealogy Records like a Pro!](https://www.youtube.com/watch?v=PuPW7Vc-XUA), published 2025-06-20 (saved publication metadata). Used for: the marriage register's banns/licence designation as a route to separate records, and occasional farm names in pre-1837 licence material. Only the saved transcript's original bounded passage was reread. The claim that all licences are online is not adopted; no underlying marriage, supplemental record, farm-name reading or identity was verified. The dated house-to-census/tithe/event search and explicit co-resident-namesake test are authored controls.
+- **S29:** National Library of Wales, [Marriage bonds](https://www.library.wales/catalogues-searching/catalogues/specialist-catalogues/marriage-bonds), opened 2026-11-05. Used for: bonds supporting a licence without publication of banns, and the location details they can contain. The current page distinguishes the pre-1837 index from later unindexed records; no universal digitisation, house-name field or surviving case is asserted.
+
 **What is authored and what comes from the sources.** The question-by-question routing, the locator chain and the deliverable are authored synthesis. The sources supply the worked examples and the presenters' statements. No paternity, denomination or kinship conclusion is drawn from any example. The marriage-law, register-custody and Welsh facts come from the archive, statute, library and reference pages cited as S12–S27; the Welsh routing order and the bilingual newspaper search are authored synthesis.
 
 ## Credits
+
+- GenealCymru, Reading Genealogy Records like a Pro! (2025-06-20), cited as S28 — Short attributed adaptation of the banns/licence-to-supplemental-record procedure; video remains under its publisher's terms (adapted)
 
 - Kinprove original procedural synthesis; the presenters' worked examples and statements are cited as S1–S11, with The National Archives research guides and Queen Mary University of London's Dissenting Academies Online named as authorities for corrected facts — FSL-1.1-MIT (kinprove-original)
