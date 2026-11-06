@@ -101,8 +101,8 @@ combined with another service's autosomal total.
 | AncestryDNA | No X match data; its 2025 matching white paper describes matching steps on the autosomes only | Not applicable |
 | MyHeritage | Matching uses autosomal DNA; the chromosome browser does not show X | Not applicable |
 
-A service that shows no X has not tested the raw file's X markers; check the file
-itself before treating X as unavailable. Recheck a row before relying on it.
+A service's lack of X reporting does not establish that the raw file lacks usable X
+markers; check the file itself before treating X as unavailable. Recheck a row before relying on it.
 [H23–H28, H6]
 
 A result below a reporting floor need not appear. The smallest match in an old

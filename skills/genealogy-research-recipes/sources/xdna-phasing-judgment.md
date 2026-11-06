@@ -34,6 +34,11 @@ inheritance/list scope) and P1 (Page et al.'s primary X–Y recombination study)
 opened during this update. The comparison-control procedure is original synthesis;
 no universal detection threshold or error probability is inferred from it.
 
+The 2026-11-06 statement that AncestryDNA and MyHeritage show no X matches rests on H26–H28
+(AncestryDNA's 2025 matching white paper, a 2026 DNAeXplained post, and MyHeritage's help on
+DNA Matching and its chromosome browser) in
+[DNA comparison controls — sources](dna-comparison-controls.md), checked that day.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

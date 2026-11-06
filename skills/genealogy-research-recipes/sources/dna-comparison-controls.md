@@ -99,7 +99,7 @@ the described scope; it does not verify a signed-in account or every kit generat
 X reporting table, checked 2026-11-06 (H6 supplies the FamilyTreeDNA row):
 
 - **H23:** 23andMe Customer Care, [DNA Relatives: Detecting Relatives and Predicting Relationships](https://support.23andme.org/hc/en-us/articles/42963245607063-DNA-Relatives-Detecting-Relatives-and-Predicting-Relationships),
-  edited 2026-09-10. DNA Relatives compares autosomes and X; the parent-child segment counts
+  updated 2026-11-05. DNA Relatives compares autosomes and X; the parent-child segment counts
   (a male shares 23 segments with his mother). It does not say whether the percentage includes X.
 - **H24:** GEDmatch, [One-to-Many DNA Comparison](https://www.gedmatch.com/applications/one-to-many/),
   undated. The "(X-DNA) Total cM" and "(X-DNA) Largest" columns.
