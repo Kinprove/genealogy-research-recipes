@@ -40,6 +40,7 @@ class ClawHubPackageTests(unittest.TestCase):
         expected = {
             "package.json", "index.js", "openclaw.plugin.json", "README.md", "LICENSE", "NOTICE",
             "skills/genealogy-research-recipes/SKILL.md",
+            "skills/genealogy-research-recipes/CHANGELOG.md",
             "skills/genealogy-research-recipes/LICENSE",
             "skills/genealogy-research-recipes/NOTICE",
         }
