@@ -21,7 +21,7 @@ The participant may refuse a question, take a break, end the session, restrict a
 
 Before you record, check the recording law where each person is. U.S. federal law lets you record a conversation you take part in, but some states require every party's consent, for conversations in person as well as for calls, and a call across state lines can fall under the stricter state's law. Record openly, with consent captured at the start [S16]. In the UK and EU, a recording of an identifiable living person is personal data, and so is what it says about other identifiable living people [S17]. Data-protection law does not apply to purely personal or household activity [S18], [S19]; before you share, deposit or publish a recording, check whether that exemption still covers what you are doing.
 
-If you doubt that the participant can understand who will hear the recording and how it may be used, for example because of dementia, explain the session in plain words and let a trusted carer, relative or friend be present, with that person's role agreed in advance [S20]. A recording made without the participant's own informed agreement stays family memory, kept with the carer's agreement: do not deposit or publish it.
+If you doubt that the participant can understand who will hear the recording and how it may be used, for example because of dementia, explain the session in plain words and let a trusted carer, relative or friend be present, with that person's role agreed in advance [S20]. A carer supports the participant; the carer's agreement is not the participant's consent. If the participant cannot give informed agreement, make no recording for any use beyond private family memory. If the family keeps such a recording, with the carer's agreement, record in the session register that the participant's own agreement is absent, and never deposit or publish it.
 
 For a supplied recording, record the consent, release and restrictions that are known. Record an unknown basis as unknown, and do not deposit or publish a recording whose basis is unknown.
 
@@ -63,8 +63,9 @@ Deliver the requested source files and notes with the observed export gaps and a
 - **A session register** with one row per session:
   - speaker and everyone present
   - date and context, when known
-  - consent: how, when and by whom it was given (the participant, or a carer with an agreed role), the agreed topic, who may hear the recording and its intended use
+  - the participant's own consent: how and when it was given, or that it is absent; the agreed topic, who may hear the recording and its intended use
   - authorization to share: signed release, joint statement of intent, recorded declaration, not yet given or unknown, with any restrictions, review or withdrawal
+  - any carer or supporter present, with their agreed role and, separately, any agreement they gave
   - the prompt or item reference
   - the file and the recording segments
   - any note that you stopped, and why
