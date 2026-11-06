@@ -136,6 +136,13 @@ tagged profiles retain their existing permissions and privacy settings.
 
 ## 5. Compare duplicates, then resolve field conflicts separately
 
+Who can complete a merge decides what step 3 records. Geni completes a merge at once when you have
+permission on both profiles: profiles you manage, profiles managed by someone in your Family Group,
+or a collaborator's public profiles. Otherwise Geni sends a merge request, and every other manager
+must accept it; you can never complete a merge when one of the profiles has been claimed. Curators
+can approve merges. Pending merges can be viewed, completed or undone in the Merge Center.
+[H19, H20, H21, H22, H24]
+
 1. Preserve both candidate URLs, immediate families and sources. Open the second candidate before
    starting **Actions → Merge This Profile** on the first; the documentation recommends this to
    populate the recently viewed selection. [H11]
@@ -148,7 +155,9 @@ tagged profiles retain their existing permissions and privacy settings.
 4. Handle field disagreements through **Actions → Resolve Conflicting Data** or the Match Center's
    **Data Conflicts** view. Choose the supported value for each field and retain the rejected
    alternative and its source in the register. Editing rights are required; for a claimed profile,
-   its owner handles the conflicting information. [H12]
+   its owner handles the conflicting information. If a field will not change, check whether a
+   curator has made the profile a Master Profile and locked that field or the whole profile; ask
+   that curator, then recheck the field. [H12, H23]
 5. Reopen the combined profile and review the immediate family as well as the saved fields. A
    completed merge and resolved dates do not establish that duplicate relatives or competing
    parents have been resolved; use the next procedure for those structural conflicts.
@@ -177,10 +186,12 @@ family-structure review are recorded as separate outcomes.
    **view**. Inspect both profiles and their immediate families as shown at the merge. From that
    page, use **View revision history** for the profile merged into the primary one; its older
    history is not all visible on the combined profile's ordinary revision list. [H14]
-5. Prepare a curator request containing the merge event, profile URLs, the demonstrated mismatch,
+5. If the merge is still pending, undo it in the Merge Center; no curator is needed. Otherwise
+   prepare a curator request containing the merge event, profile URLs, the demonstrated mismatch,
    source locators and the intended separation. Geni documents curator assistance to undo a bad
    merge through its linked assistance discussion. Keep private details out of a public request.
-   After the curator acts, recheck family links and fields and record any remaining conflicts. [H15]
+   After the curator acts, recheck family links and fields and record any remaining conflicts.
+   [H15, H21]
 
 **Artifact schema:** `conflicted_profile_url, conflict_type, implicated_profile_urls, merge_event,
 evidence_for_each_link, proposed_action, curator_request_status, post_action_family_check,

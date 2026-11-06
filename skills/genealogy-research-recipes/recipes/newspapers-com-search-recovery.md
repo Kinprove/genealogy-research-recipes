@@ -44,6 +44,15 @@ notice-reading rules here apply to them too.
 6. **Publication location and date describe the newspaper.** They do not automatically
    identify the person's residence or the event's date. Travel, regional circulation,
    reprints and later proceedings can move the useful notice elsewhere. (S2, S3, S6)
+7. **Make a clipping private before you save it.** Newspapers.com clippings are public by
+   default: other people can see them on the All Clippings tab, in search and on your profile,
+   with your member name. Before you clip an obituary, a notice that names living people or
+   material for a client, set new clippings to private in Account Details → Clipping
+   Settings, or choose private while you create that clipping. The setting changes only new
+   clippings; use Edit on each existing clipping to change it. A library guide warns that
+   saving or downloading a selected part of a page might also create a public clipping, so
+   check My Clippings afterwards. In the research record, cite the title, date, page and page
+   URL, not only a clipping link. (H4, H5, H6, S54)
 
 ## Resolve a title to a holding and an issue
 
@@ -135,16 +144,19 @@ motivate this dispatch. Searching accessible text does not search unseen images 
 ## Search recipes
 
 The following names, addresses and queries are invented examples, not executed searches
-or reported discoveries. Quotation marks request an exact phrase on Newspapers.com.
-Other examples are simple keyword inputs; they make no promise about term proximity or
-Boolean behavior. Set place and publication-date limits separately. (S9)
+or reported discoveries. Newspapers.com documents this syntax: a search requires all its
+terms by default; quotation marks keep words together; `?` replaces one letter and `*`
+several letters; `OR` and `NOT` go between terms, written in capitals as in its examples.
+It documents no minimum number of letters for a wildcard and no proximity operator, so do
+not rely on either. A wildcard hit is an OCR probe, not a spelling the newspaper printed.
+Set place and publication-date limits separately. (S9, H7, H8, H9)
 
 | # | Trigger | Search or browse plan | What to inspect before using the result |
 | --- | --- | --- | --- |
-| 1 | Nothing appears for the expected place and date. | Use Browse to inspect titles and the actual available issues for that interval. Check competing papers and predecessor/successor titles, including small title changes such as adding Daily. (S3, S8, S9) | Is the relevant issue, edition and page present and accessible? Record a coverage gap separately from a query that returned no match. |
+| 1 | Nothing appears for the expected place and date. | Use Browse to inspect titles and the actual available issues for that interval. Check competing papers and predecessor/successor titles, including small title changes such as adding Daily. (S3, S8, S9) | Is the relevant issue, edition and page present and accessible with your subscription tier? Record a coverage gap separately from a query that returned no match. |
 | 2 | A full name returns no useful notice. | Inspect naming style in a known issue. For William Richard Evans, try `"Richard Evans"`, `"W R Evans"` and a surname-only `Evans` search in a tighter place/time scope. Also try a known nickname. (S2, S6) | Are these forms actually used by the title or plausible for this person? Initial spacing and punctuation can differ; a failed exact phrase does not eliminate the initial form. |
 | 3 | A woman's own full name is missing. | Try her maiden and married surnames, then her husband's name or initials: `"Mrs Robert Evans"`, `"Mrs R Evans"`. Search surname-only lists and notices about relatives when her given name is omitted. (S5, S9, S11) | Does the item identify the wife, or only a different person sharing the surname? Read compressed lists with their heading and surrounding sentences. |
-| 4 | The image looks readable but the query misses it. | Test a small set of visually plausible letter confusions, such as B/E or E/C, based on the scan. Shorten an over-specific phrase or search another intact word from the expected notice. (S1, S10) | Read the original letters. Label a distorted search form as an OCR probe, not a corrected historical name. |
+| 4 | The image looks readable but the query misses it. | First look at how the OCR read the name: check the highlighted words on a hit's page thumbnail, or open the article text (OCR) under a clipping of the item, made private as in rule 7. Query the misreading you see. Otherwise test a small set of visually plausible letter confusions, such as B/E or E/C, based on the scan, or run one wildcard probe such as `Ev?ns`. Shorten an over-specific phrase or search another intact word from the expected notice. (S1, S10, H7, H8, H10) | Read the original letters. Label a distorted or wildcard search form as an OCR probe, not a corrected historical name. |
 | 5 | A smudged target name may be in a group notice. | Search a known relative, witness, neighbor or club member who could appear in that same item; alternatively search the known club name within the relevant title/time. (S1) | Does the recovered item actually include the target? A notice about the club alone supplies context, not personal participation. |
 | 6 | A common surname produces too much noise. | Try a surname with a known occupation or address: `Evans carpenter`, `Evans "42 Oak Street"`. Run these as separate clue-based passes. (S3) | Do the clue and surname belong to the same notice and person? Inspect the full address; a reused address can lead to different occupants. |
 | 7 | You need a visit, departure or migration clue. | Run one verb per pass: `Evans visited`, `Evans arrived`, `Evans left`, `Evans returned`, `Evans moved`. Read society items in both plausible departure and destination papers. (S4) | Who performed the action, when, and where? A highlighted surname beside an unrelated arrival notice is not the searched person's trip. |
@@ -152,7 +164,7 @@ Boolean behavior. Set place and publication-date limits separately. (S9)
 | 9 | You need an overlooked connection to a place. | Search `"letter list"` in a plausible locality and interval, then read the listed names, including initials and women. Browse such lists when the person's name fails OCR. (S7) | An unclaimed letter can suggest an intended destination or travel stop. It does not establish residence; shared surnames do not establish kinship. |
 | 10 | The hometown paper fails or an immigrant's name is distorted. | Search neighboring towns, regional papers and former residences. Include ethnic-language papers serving the community, even when published outside its city; try attested native-language name forms. (S3, S6) | Separate publication place from event place. Inspect the actual foreign-language name and origin statement rather than assuming an English rendering preserved them. |
 | 11 | One article suggests a longer story. | Search subsequent months for court proceedings, settlement or verdict; revisit former residences for a death mention. Reuse newly recovered witnesses, addresses and institutions as search clues. (S2, S3) | Record each article's publication date and reported event date separately. Do not turn the first report or filing into the final outcome. |
-| 12 | Keywords still fail despite an available likely issue. | Switch retrieval mode: browse its pages directly. For an obituary or marriage item, also search the relevant Newspapers.com index on Ancestry and follow any candidate to the image. (S6, S10) | The index is another access path, not independent corroboration. Check the full notice and its boundaries; inspect missing or inaccessible pages separately. |
+| 12 | Keywords still fail despite an available likely issue. | Switch retrieval mode: browse its pages directly. For an obituary, marriage or birth item, also search the matching index. On Newspapers.com, choose the event type in the Categories drop-down under the Keyword box. For an obituary or marriage, the Newspapers.com index on Ancestry is a second route. Follow any candidate to the image. (S6, S10, H13, H14) | The index is another access path, not independent corroboration. A category search reaches only items placed in that index, so a miss there needs the same search without the category. Check the full notice and its boundaries; inspect missing or inaccessible pages separately. |
 
 When a notice dates an event relative to another date, such as 'issued yesterday' or 'last
 Wednesday', retain the literal wording and its anchor before deriving a date. The demonstrated
@@ -311,7 +323,8 @@ Run the recovery in this order:
    dimension per pass so you know which adjustment produced a candidate. (S1, S2, S5, S6)
 3. **Change the route.** Search an associate or distinctive clue; expand publication
    geography and timing when the person's movements or the story justify it. For the
-   relevant event types, try the Ancestry index route. (S1, S2, S3, S6, S10)
+   relevant event types, try the matching index through Categories or on Ancestry.
+   (S1, S2, S3, S6, S10, H13)
 4. **Read selected issues.** Use the expected section as an entry point. If its placement
    is unknown, browse the selected issue's pages. Record which issues and pages you
    actually examined; skipped or inaccessible pages remain unexamined. (S6)
@@ -331,6 +344,13 @@ Use precise result labels:
   Do not broaden this to “no newspaper record exists.”
 - **Coverage gap:** identify the absent issue, edition or page and the next holding to check.
 - **Access blocked:** identify material that exists but could not be inspected.
+- **Publisher Extra required:** a kind of access blocked. Use it when a hit is listed but its
+  page needs a Publisher Extra subscription. Publisher Extra adds the papers still under
+  copyright ("typically 1931 and newer", per the plans page); Basic does not include them.
+  Such a hit shows that the issue exists and that its OCR matched the query, so it is neither
+  a coverage gap nor a no match in examined scope. Record the subscription tier you searched
+  with: Ancestry's current All Access offer names Publisher Extra, but its 2024 wording named
+  Basic, so check the account rather than assume. (H11, H12)
 
 ### Optional handoff from a religious-life notice
 
@@ -370,7 +390,8 @@ occupation, church, club]. Query budget: [limit]. Browse budget: [specific issue
 Check actual issue availability first. Inspect the title's naming style; try initials,
 middle names and relevant maiden/married/husband-name forms. If OCR fails, search an
 associate or distinctive clue, then browse selected issues. Expand place/date only with
-a stated reason. Use only currently documented query syntax.
+a stated reason. Use only currently documented query syntax. Make any clipping private
+before saving it.
 
 When Browse coverage is insufficient, follow the title–holding–issue workflow and
 return its register with the documented fields, statuses and next action.
