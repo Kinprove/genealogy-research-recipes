@@ -205,6 +205,21 @@ confirmed the right series. A matching title alone does not establish the right 
 4. Reopen that same item through the permitted route and record the actual outcome.
 5. If viewing works but downloading is disabled, inspect and transcribe the displayed record and preserve its citation.
 
+The message shown when the image is opened states its access class. FamilySearch's Help Center
+lists these [S86]:
+
+- **"Images Available", at a FamilySearch center or an affiliate library:** sign in at either.
+- **"Images Available", at a FamilySearch center only:** an affiliate library will not show the image.
+- **"Images Available", at a third-party subscription site or the legal record custodian:** look there; fees may apply.
+- **"Unable to Display Image":** FamilySearch lacks permission to share the image, usually because of the
+  record's creator or custodian or privacy law; ask the custodian.
+- **"Image Unavailable":** usually temporary, while permissions are updated; retry later.
+
+Copy the opened message word for word into the access packet. The Catalog's restricted icon (a camera
+with an alert sign; older pages describe a key) and its hover text only flag a restriction [S87]; plan a
+visit from the opened message, not from the icon. Before a trip to an affiliate library, check that the
+message names affiliate libraries: by contract, FamilySearch cannot share every image with them [S88].
+
 If the Catalog entry offers a WorldCat link for other copy locations, follow it and retain
 the matching title, creator, edition/volume and listed institutions as retrieval leads.
 Check the prospective holder's own catalog or item-specific response for the needed volume,
@@ -215,9 +230,9 @@ the particular record or remove the original item's restrictions. [S56]
 
 **Artifact:** An access packet: Catalog URL, identifiers, restriction message, attempted location, permitted route and outcome.
 
-**Check:** An access failure leaves the record unexamined. The tutorials warn that some restrictions remain even at center/library computers.
+**Check:** An access failure leaves the record unexamined. Some restrictions remain even at center/library computers, as the tutorials warn and the Help Center's classes show.
 
-**Sources:** [S14](https://www.youtube.com/watch?v=XOnRrT771CY), [S13](https://www.youtube.com/watch?v=0Qor-XLujh4).
+**Sources:** [S14](https://www.youtube.com/watch?v=XOnRrT771CY), [S13](https://www.youtube.com/watch?v=0Qor-XLujh4), [S86](https://articles.familysearch.org/hc/en-us/articles/41693898891931-What-are-the-image-restrictions-in-Historical-Records), [S88](https://articles.familysearch.org/hc/en-us/articles/41653513329435-Our-affiliate-library-needs-access-to-restricted-images).
 
 ### 7. Save a locator that survives item-view renumbering
 
@@ -244,7 +259,7 @@ index entry exists. Never construct a record ID for a line that has no index ent
 
 **Trigger:** Records returns no useful match, although relevant material may exist.
 
-1. Try the separate Full Text route described in the cited tutorials.
+1. Open Full Text from the main Search menu, or from the full-text icon in a Catalog entry. It has been a standard search tool since 30 August 2025; tutorials from 2024 show it in FamilySearch Labs, which no longer applies [S89].
 2. Start with a surname or distinctive documented name.
 3. Compare keyword search with the Name field; recognized-name search can miss words present in the transcript.
 4. Try documented initials, abbreviations, spelling variants and name order.
@@ -278,7 +293,7 @@ kinship.
 
 **Check:** Confirm candidates from the image and context. A name appearing in text does not establish the candidate's identity.
 
-**Sources:** [S01](https://www.youtube.com/watch?v=mZc2-Z-TROw), [S03](https://www.youtube.com/watch?v=NUwBg94RXdk).
+**Sources:** [S01](https://www.youtube.com/watch?v=mZc2-Z-TROw), [S03](https://www.youtube.com/watch?v=NUwBg94RXdk), [S89](https://www.familysearch.org/en/blog/full-text-search-leaves-familysearch-labs).
 
 ### 9. Test Full Text operators with a baseline
 
@@ -361,6 +376,11 @@ cited image. It does not say how those pages were found or how common such filmi
 4. Save exact queries, filters, groups and a dated coverage observation.
 5. Set a revisit date and rerun the saved searches when material may have been added or processed.
 
+Full Text covers only part of FamilySearch's image collections, and more are added over time; no complete
+coverage list is published. Check a collection with the tool's Find a Collection field or Browse all
+collections option [S89], [S90]. A Full Text zero describes that coverage and its AI transcripts, not the
+records.
+
 Where Full Text offers an option to include limited-access content, record its displayed
 label and state with the query. The [July 2026 demonstration](https://www.youtube.com/watch?v=gX-d5Szg9XY)
 shows restricted items appearing in the result list while their images remain blocked.
@@ -375,7 +395,7 @@ the control actually offered; the demonstration is not a current interface guara
 
 **Check:** Zero hits record a query or coverage limitation. They do not establish that the person or document is absent.
 
-**Sources:** [S02](https://www.youtube.com/watch?v=_szy7VbYPjE), [S01](https://www.youtube.com/watch?v=mZc2-Z-TROw), [S03](https://www.youtube.com/watch?v=NUwBg94RXdk), [S05](https://familylocket.com/ai-and-familysearch-full-text-search-working-together-to-make-discoveries/).
+**Sources:** [S02](https://www.youtube.com/watch?v=_szy7VbYPjE), [S01](https://www.youtube.com/watch?v=mZc2-Z-TROw), [S03](https://www.youtube.com/watch?v=NUwBg94RXdk), [S05](https://familylocket.com/ai-and-familysearch-full-text-search-working-together-to-make-discoveries/), [S89](https://www.familysearch.org/en/blog/full-text-search-leaves-familysearch-labs), [S90](https://articles.familysearch.org/hc/en-us/articles/41171158944667-How-do-I-use-Fulltext-Search).
 
 ### 14. Attach a family record by changing Source Linker's focus
 
@@ -420,7 +440,10 @@ the current controls.
 
 Never set Deceased, a birth year or another required field without evidence just to make an add or
 attach succeed. A profile marked deceased normally becomes public in the shared Tree, where any user
-can see and edit it, and only a FamilySearch administrator can set it back to living [S64], [S65].
+can see and edit it [S64], [S65]. Setting it back to living is in the user's own hands only if the
+user created the record and no one else has contributed: then Edit → Living → Save makes it private
+again. Otherwise Save opens a request form; the user enters an explanation and submits it, and a
+FamilySearch system administrator reviews the request [S85].
 If the tool cannot express the record or the chosen scope, keep the change queued in the working
 packet, and never switch to another tree or scope to make the write succeed.
 
