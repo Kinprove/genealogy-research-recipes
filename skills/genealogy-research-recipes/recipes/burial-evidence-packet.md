@@ -108,12 +108,12 @@ is not a negative.
   1939–1947, and civilians killed by enemy action in 1939–1947. A record generally gives the place
   of burial or commemoration, and next of kin only in some cases. [P68, P69]
 - **ABMC** lists Americans buried or commemorated in its overseas First and Second World War
-  cemeteries and on its Walls of the Missing, with plot, row and grave for a burial. It does not include those
-  brought home for burial, or any burial in the United States. [P70]
+  cemeteries and on its Walls of the Missing, with plot, row and grave for a burial. It does not
+  include those brought home for burial, or any burial in the United States. [P70]
 - **VA Nationwide Gravesite Locator** covers national, state veterans', other military and
   Department of the Interior cemeteries. It covers a private cemetery only where the grave has a
-  government marker, and has no private-cemetery burials before 1997. [P71] A miss there is a
-  non-result; see
+  government marker, and has no private-cemetery burials before 1997. [P71] Even within that
+  coverage, a miss there is not a negative; see
   [us-20th-century-military-service-reconstruction.md](us-20th-century-military-service-reconstruction.md).
 - **Volksbund Gräbersuche online** lists over 5.4 million German war dead and missing, mainly of
   the two world wars, with places of death and grave locations. About 450,000 names are still to be
@@ -396,7 +396,7 @@ record survival and arrangement vary.
 Address each request to the body that holds that record. In the United States the usual holders
 are:
 
-| Record | Usual holder | What it shows |
+| Record | Usual holder or issuer | What it shows |
 | --- | --- | --- |
 | Church burial register | The church, parish or its archive | The burial service; the person may be buried elsewhere [P78] |
 | Interment register; lot or plot-ownership books | The sexton or cemetery office; for a public cemetery, the town or county, or in some states, such as Utah, the state archives [P79, P80] | Burials, and separately who owned each plot |
@@ -469,15 +469,15 @@ lots separate from actual interments. [P29]
 In immigrant-city Jewish cemeteries, such as those around New York, many plots belonged to
 landsmanshaftn (hometown societies), as well as to synagogues, unions, family circles and
 fraternal orders. [P51, P52] A society or section name in an interment record, such as
-'First [Town]er … Society', points to a hometown. In New York and New Jersey cemeteries, a
-society plot usually has a gate or arch naming the society, often with its officers: record that
-inscription as its own locator, with its photograph, beside the plot reference. Gate names can be
-eroded, and a plot can pass from one society to another, so confirm it in the cemetery's records.
-[P83] Not every member came from the named town, and
+'First [Town]er … Society', points to a hometown. Not every member came from the named town, and
 neighbouring graves in a society plot may belong to unrelated members. A married woman buried in
 her husband's society plot gets his town, not necessarily her birthplace. The YIVO Archives at the
 Center for Jewish History hold records of many landsmanshaftn, some with plot maps, and the
-finding aid is arranged by ancestral town. [P50, P51, P52] For congregation and society records as
+finding aid is arranged by ancestral town. [P50, P51, P52] In New York and New Jersey cemeteries,
+a society plot usually has a gate or arch naming the society, often with its officers: record that
+inscription as its own locator, with its photograph, beside the plot reference. Gate names can be
+eroded, and a plot can pass from one society to another, so confirm it in the cemetery's records.
+[P83] For congregation and society records as
 origin evidence, see [immigrant-congregation-origin-records.md](immigrant-congregation-origin-records.md).
 
 Treat the cemetery named on a volunteer memorial as that memorial's statement, not an observed
@@ -497,16 +497,17 @@ asked to do, not what was checked. Contributors are asked to add only verified b
 presumed ones, and a memorial with the burial details unknown is warranted only in rare cases.
 [P84, P85] Memorials for living people are not acceptable, and one is removed when the person or
 a family member asks; a person may create a pre-need memorial for themselves once a pre-need
-headstone is in place. [P84] A cenotaph, a memorial for someone buried
-elsewhere, is marked by a setting among the grave-marker options, and family links belong on the
-memorial of the actual burial. [P86] Members enter the family links themselves [P87]: record them
+headstone is in place. [P84] A cenotaph, a memorial for someone buried elsewhere, is marked by a
+setting among the grave-marker options, and family links belong on the memorial of the actual
+burial. [P86] Members enter the family links themselves [P87]: record them
 as the contributor's claim. Corrections go through Suggest Edits; the manager may decline one, and
 an edit left unanswered for 21 days passes to Find a Grave's own queue. [P88] For a photograph,
 the help pages direct you to the contributor for permission [P89]. The contributor is the contact
 for permission and provenance, not proof of who owns the copyright: an uploaded studio portrait
-may belong to someone else. On BillionGraves, the app attaches GPS to photographs taken with it,
-volunteers transcribe the stones, and records not uploaded through the app have no GPS. [P90,
-P91]
+may belong to someone else.
+
+On BillionGraves, the app attaches GPS to photographs taken with it, volunteers transcribe the
+stones, and records not uploaded through the app have no GPS. [P90, P91]
 
 **Output:** `cemetery | address | section | plot | GPS as supplied | map URL | office/register
 locator | access or contact status | next action`.

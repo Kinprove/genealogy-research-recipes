@@ -139,9 +139,9 @@ For a person from the former Soviet Union, memorial portals filled by families a
 - **Repression victims:** Бессмертный барак (Immortal Barracks, bessmertnybarak.com), which describes itself as collecting documents and photographs of victims [S10].
 - **Deported or dekulakised families:** add local publications from the place of exile, not only from the place of origin.
 
-Log each portal as its own surface. A family caption on a portal is an attribution: record it as in "Record a proposed identification as an attribution" below, and never compare faces.
+Log each portal as its own surface. A family caption on a portal is an attribution: record it as in "Record a proposed identification as an attribution" below, but give its source as the portal's family contributor, with the relationship if the page shows one, never the contributor's name; and never compare faces.
 
-These portals concern living families. A Бессмертный полк page names the relative who keeps it, with their relationship, a contact form and sometimes a phone number [S28]. Record the person and the story, never collect contributors' names or contact details, and use a portal's contact form only when the user asks to make contact. When you record a portal caption as an attribution, name its source as the portal's family contributor, with the relationship if the page shows one, not the contributor's name.
+These portals concern living families. A Бессмертный полк page names the relative who keeps it, with their relationship, a contact form and sometimes a phone number [S28]. Record the person and the story, never collect contributors' names or contact details, and use a portal's contact form only when the user asks to make contact.
 
 ## Keep each statement about the image separate
 
