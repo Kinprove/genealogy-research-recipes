@@ -24,7 +24,7 @@ Read [ai-for-dna-research.md](ai-for-dna-research.md) for cM ranges, endogamy an
 
 ## Access and inputs
 
-The ordinary shared-match preview shows up to three people without membership; family-history membership unlocks the full list. Enhanced Shared Matches adds match-to-match cM with Pro Tools. That enhanced website view is available in the US, Canada, Australia and UK. Obtain a missing comparison from an authorized kit manager when your own access cannot show it.
+The ordinary shared-match preview shows up to three people without membership; family-history membership unlocks the full list. Enhanced Shared Matches adds match-to-match cM with Pro Tools. That enhanced website view is available in the US, Canada, Australia and UK, as listed in Ancestry's help checked 2026-10-03; Ancestry can change availability without notice, so check the current page. Obtain a missing comparison from an authorized kit manager when your own access cannot show it.
 
 For an authorized helper, check DNA-result access and access to the needed tree independently,
 including whether each intended invitation is accepted and usable. Keep both separate from
@@ -53,7 +53,7 @@ describes these steps.
 
 **Use when:** the target has no useful tree.
 
-Open Enhanced Shared Matches and sort by cM **to the target**. Start with its highest-sharing relatives, including people far down your own match list. Enhanced Shared Matches lists relatives below the old 20 cM shared-match floor: Bartlett (2024-07-07) found a relative sharing just **9 cM with him but 1773 cM with his 25 cM target**.
+Open Enhanced Shared Matches and sort by cM **to the target**. Start with its highest-sharing relatives, including people far down your own match list. Enhanced Shared Matches lists relatives below the 20 cM floor that still applies to the standard shared-match list, which omits a shared match who shares less than 20 cM with you (Estes, 2022-05-12; Ancestry's current help states no figure): Bartlett (2024-07-07) found a relative sharing just **9 cM with him but 1773 cM with his 25 cM target**.
 
 Open those relatives' trees and use obituaries, births and census households to identify the target and its parents. At 1773 cM, the [chart-supported candidates](https://dnapainter.com/tools/sharedcmv4) are full/half sibling, aunt/uncle–niece/nephew and grandparent–grandchild paths. If their trees are also missing, use recipe 3.
 
@@ -161,7 +161,7 @@ the displayed home person as the tester without checking the actual DNA-to-perso
 
 Editing a tree leaves DNA matches and cM unchanged; it changes tree-derived paths.
 
-For ThruLines, matching must be enabled, with family-history membership, two-step verification or Apple/Google sign-in, and a linked public or private searchable tree containing identifying details across at least four generations. ThruLines reaches fifth-great-grandparents. Its parent filter uses biological-parent labels in the tree, rather than DNA By Parent.
+For ThruLines, matching must be enabled, with family-history membership, two-step verification or Apple/Google sign-in, and a linked public or private searchable tree containing identifying details across at least four generations. ThruLines reaches fifth-great-grandparents. A match appears in ThruLines only when that match also has a linked public or private searchable tree in which a common ancestor can be identified. A missing ThruLine can therefore reflect the match's tree, link or searchability, or an unidentified common ancestor; on its own it does not disprove a relationship. Its parent filter uses biological-parent labels in the tree, rather than DNA By Parent.
 
 **Privacy checkpoint before relinking:** A separate, labeled tree is not by itself a
 privacy safeguard. Before changing the DNA link or searchability, inspect the candidate
