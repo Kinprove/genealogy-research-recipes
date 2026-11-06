@@ -541,7 +541,7 @@ class BeiderLookupTests(unittest.TestCase):
                 manifest = fixture_manifest()
                 manifest["rights"] = rights
                 self.assert_manifest_rejected(manifest)
-        for field in lookup.RIGHTS_FIELDS:
+        for field in ("license", "permission", "basis"):
             for value in (None, "", "  ", 1, ["not requested"]):
                 with self.subTest(field=field, value=value):
                     manifest = fixture_manifest()
