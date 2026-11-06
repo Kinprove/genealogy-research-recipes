@@ -89,9 +89,9 @@ occur despite X sharing. These are documented tool behaviors, checked 2026-10-18
 recheck the actual service rather than extending them to every raw-file generation
 or future interface. [H5, H6]
 
-How five services report X-DNA, checked 2026-11-06. Use it to decide whether an absent X
-match is an observation and whether a vendor total must have X removed before it is
-combined with another service's autosomal total.
+This table, checked 2026-11-06, shows how five services report X-DNA. Use it to decide
+whether an absent X match is an observation and whether a vendor total must have X removed
+before it is combined with another service's autosomal total.
 
 | Service and view | What it reports about X | X in the main shared total? |
 | --- | --- | --- |
@@ -102,8 +102,8 @@ combined with another service's autosomal total.
 | MyHeritage | Matching uses autosomal DNA; the chromosome browser does not show X | Not applicable |
 
 A service's lack of X reporting does not establish that the raw file lacks usable X
-markers; check the file itself before treating X as unavailable. Recheck a row before relying on it.
-[H23–H28, H6]
+markers; check the file itself before treating X as unavailable. Recheck a row before
+relying on it. [H6, H23–H28]
 
 A result below a reporting floor need not appear. The smallest match in an old
 export does not establish the service's current admission rule. Differences in

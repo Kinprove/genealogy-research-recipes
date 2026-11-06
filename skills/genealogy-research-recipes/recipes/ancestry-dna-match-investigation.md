@@ -53,7 +53,7 @@ describes these steps.
 
 **Use when:** the target has no useful tree.
 
-Open Enhanced Shared Matches and sort by cM **to the target**. Start with its highest-sharing relatives, including people far down your own match list. Enhanced Shared Matches lists relatives below the 20 cM floor that still applies to the standard shared-match list, which omits a shared match who shares less than 20 cM with you (Estes, 2022-05-12; Ancestry's current help states no figure): Bartlett (2024-07-07) found a relative sharing just **9 cM with him but 1773 cM with his 25 cM target**.
+Open Enhanced Shared Matches and sort by cM **to the target**. Start with its highest-sharing relatives, including people far down your own match list. The standard shared-match list still omits a shared match who shares less than 20 cM with you (Estes, 2022-05-12; Ancestry's current help states no figure). Enhanced Shared Matches lists relatives below that floor: Bartlett (2024-07-07) found a relative sharing just **9 cM with him but 1773 cM with his 25 cM target**.
 
 Open those relatives' trees and use obituaries, births and census households to identify the target and its parents. At 1773 cM, the [chart-supported candidates](https://dnapainter.com/tools/sharedcmv4) are full/half sibling, aunt/uncle–niece/nephew and grandparent–grandchild paths. If their trees are also missing, use recipe 3.
 

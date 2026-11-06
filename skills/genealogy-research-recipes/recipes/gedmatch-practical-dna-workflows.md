@@ -31,9 +31,9 @@ tool is an access limitation, not a completed comparison. Do not substitute reme
 thresholds, match limits, kit prefixes or processing times for what the current screen reports.
 
 Plan for paid tools before the session. GEDmatch's Tier 1 help (checked 2026-11-06) lists
-Segment Search, the Phasing tool and Lazarus among the paid Tier 1 tools, says tools marked
-"Tier 1" on the home page require a paid membership, and lists One-to-Many and One-to-One as
-free. Check the home-page marking for Matching Segment Search, Triangulation and Multiple Kit
+Segment Search, the Phasing tool and Lazarus among the paid Tier 1 tools. It says tools marked
+"Tier 1" on the home page require a paid membership, and it lists One-to-Many and One-to-One
+as free. Check the home-page marking for Matching Segment Search, Triangulation and Multiple Kit
 Analysis before planning workflows 4–8. [H9]
 
 **Privacy checkpoint before any upload:** Authorization to analyze a kit is not permission to

@@ -56,7 +56,7 @@ not reprocessed. Take the type from the header, otherwise record `not_observed`;
 from purchase date. This source does not measure how results differ between kit types.
 
 An uploaded kit can only be an earlier one: MyHeritage's help (page dated 21 July 2026) says
-DNA uploads are no longer supported. It says nothing about kits uploaded before then, so record
+DNA uploads are no longer supported. It says nothing about kits uploaded before the change, so record
 what such a kit currently shows in the account rather than assuming its matches are gone or
 complete.
 
