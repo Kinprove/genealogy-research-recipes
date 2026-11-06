@@ -62,6 +62,8 @@ The worksheets below work with manually read images or copied index rows.
 8. For a trade directory such as 'Вся Россия', read the inclusion rule in the volume itself. Posters in a [trade-directory discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) say only larger or guild-paying traders appeared, so a small trader's absence is weak. The town printed can be where the trader registered capital or traded rather than lived. A same-name hit in another town is therefore neither ruled out nor matched.
 9. For a German town, search CompGen's Datenbank Historischer Adressbücher (adressbuecher.genealogy.net), a free index of transcribed address-book entries searchable by name and place. Also run CompGen's separate DES address-book search, which covers further books, and look for page images in CompGen's DigiBib. A hit is an index row: use it for yearly residence and occupation only after opening the edition, and cite the edition, place and page. [S25]
 
+   A database no-hit is not an inspected-edition negative. Check CompGen's GenWiki address-book portal for whether that edition is listed in DigiBib but not yet transcribed, or was transcribed only partly (for example, only up to a certain surname). If so, page through the DigiBib scans. Where the volume's alphabetical name register has been broken down for navigation, as in some big-city series, jump through it to the surname. Record which layer you searched: transcribed database or page images. [S26]
+
 **Artifact:** One coverage row per edition and relevant section:
 repository, directory title, edition year, locality/section, available/access status,
 section image range, inspected range, abbreviation-key locator and result.

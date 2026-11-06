@@ -71,6 +71,17 @@ Record a match missing from that result as `haplogroup not shown`, not as carryi
 haplogroup. The [2021 search discussion](https://www.youtube.com/watch?v=gNFNKpvy1no) motivates both
 checks, including a haplogroup known only from another vendor's test that did not appear.
 
+For a same-surname search, also compare the Y haplogroups shown for male matches. A label may
+be STR-predicted, derived from the Family Finder test (partial, SNP-based) or SNP-tested; a
+more refined Family Finder label replaces the STR prediction. Ancestry and 23andMe transfers
+show no haplogroup to matches, and female testers have no Y label: record those as
+`haplogroup not shown`, never as a mismatch. A label from a different source or at a different
+depth is not a conflict until both labels have been put into Discover's **Compare** and recorded
+as in [workflow 8](#8-preserve-the-inputs-and-reference-in-a-two-label-comparison). If they fall
+in the same lineage, keep the man as a candidate for Y-DNA testing or for shared-match and
+triangulation work. Only a different major haplogroup rules him out as a direct paternal-line
+candidate; he can still be an autosomal relative. [S24, S26, S27, S28]
+
 Read a match's ancestral surname list as self-reported. Its order carries no fixed meaning: a list may run by generation, alphabetically or in order of appearance, and a [2020 FamilyTreeDNA walkthrough](https://dna-explained.com/?p=31186) shows surnames shared with the viewer moved to the top in bold. Do not infer side, generation or line from a surname's position. To reconstruct the tree of a match without a usable tree, search compiled trees for combinations of the listed surnames and any most distant paternal and maternal ancestors named on the profile. Record a couple found this way as `candidate couple` until descendancy research accounts for the other listed surnames; list any surname it leaves unexplained. A [2024 case-study article](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds) motivates this check. [S20, S21]
 
 Treat a match-date value as the date shown on that match row, not as the match's test date, chip version or processing cohort. A [Family Finder match-date discussion](https://genarchivist.net/showthread.php?tid=275) reports older matches showing 2021 dates after matching was recalculated. It also shows a kit's order history and administrator lab-results view recording a later chip procedure for an earlier order. Where authorized, take test and chip history from those records; otherwise record `test date unknown`.
@@ -309,6 +320,14 @@ distinguishes these scopes for mtDNA and Family Finder. Matching the focal kit o
 does not establish that both matches come through the same ancestor or descent path; such a
 match still needs
 [separate ancestral-path analysis](ydna-mtdna-interpretation.md#combining-tests-establish-which-ancestral-path-each-supports). [S11]
+
+When a Y-DNA test is among the selections, record the exact Y choice. A
+[2026 example](https://dna-explained.com/2026/11/02/focus-step-3-breaking-through-brick-walls-using-y-dna-and-mitochondrial-dna/)
+reports that **All Y-DNA** requires a match at every marker level from 12 through 111, not at
+any one level. For a Y/Family Finder overlap, select one Y-DNA marker level both men have
+tested and set **Show only people I match in all selected tests** to Yes; otherwise the roster
+combines both tests' matches. Record a person absent from an **All Y-DNA** roster as
+`not shown under All Y-DNA`, not as a non-match. [S26, H10]
 
 ### 7. Inspect the node actually displayed in a supplied time map
 

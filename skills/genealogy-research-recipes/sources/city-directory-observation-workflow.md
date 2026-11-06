@@ -104,6 +104,12 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   name-and-place search of 4.4 million transcribed entries at adressbuecher.genealogy.net, the
   separate DES address-book search, and the scanned address books in CompGen's DigiBib.
 
+- **S26:** Günter Junkers, CompGen Blog, [Sechs Adressbücher im Oktober 2026 fertig bearbeitet – zwei in der Erfassung](https://www.compgen.de/2026/11/bearbeitete-adressbuecher-im-oktober-2026/),
+  4 November 2026; opened 2026-11-06. Used for: the GenWiki address-book portal showing which
+  DigiBib address books are listed but not yet transcribed, an earlier partial transcription that
+  stopped at a surname, and the alphabetical name register broken down in some big-city series.
+  The GenWiki portal page itself could not be opened, so the first point rests on this post.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

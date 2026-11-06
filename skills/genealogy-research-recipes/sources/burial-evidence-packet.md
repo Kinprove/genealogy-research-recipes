@@ -5,7 +5,9 @@ photographs, database rows and real family examples are not reproduced. The fact
 former-Soviet grave-portrait, burial-database and Russian municipal-database rules were checked
 on 2026-11-02 against P30–P34. The е/ё, row-cap, UTC and aggregator rules are reasoning rules,
 not observed behaviour of any named site. The facts in the Israeli burial-society, Riga, Hebrew-year,
-ב"ב and landsmanshaft-plot rules were checked on 2026-11-04 against P39–P52.
+ב"ב and landsmanshaft-plot rules were checked on 2026-11-04 against P39–P52. The facts in the
+German gravestone-survey and Polish cemetery-search rules were checked on 2026-11-06 against
+P53–P59.
 
 - **P1:** MyHeritage, *Discover Family History Through Gravestones*, published 2014-03-31 —
   [webinar](https://www.youtube.com/watch?v=xsDpYFkS_LI). Office/plot preparation, bilingual
@@ -271,6 +273,37 @@ not observed behaviour of any named site. The facts in the Israeli burial-societ
   opened 2026-11-04. Used for: society plot maps held in YIVO record groups. Whether relatives
   cluster in a society plot, and how often a wife was buried in her husband's society plot, were
   not confirmed; the recipe's caution on her birthplace is reasoning.
+
+- **P53:** Andreas Bold, CompGen Blog, [Statistische Spurensuche: Was uns das Grabstein-Projekt über das Sterbealter verrät](https://www.compgen.de/2026/10/statistische-spurensuche-was-uns-das-grabstein-projekt-ueber-das-sterbealter-verraet/),
+  published 2026-10-25, opened 2026-11-06. Used for: small children around 1900 rarely receiving
+  permanent stones, graves being reused quickly, and the Grabstein-Projekt database showing what
+  survived rather than actual mortality.
+
+- **P54:** City of Cologne, [Ruhezeiten auf Friedhöfen](https://www.stadt-koeln.de/leben-in-koeln/soziales/sterbefall/ruhezeiten-auf-friedhofen),
+  opened 2026-11-06. Used for: rest periods (Ruhezeiten) deciding when a grave can be reused.
+
+- **P55:** Your Roots in Poland, [Cemeteries ONLINE – find out where your loved ones are buried in Poland](https://yourrootsinpoland.com/cemeteries-online-find-out-where-your-loved-ones-are-buried-in-poland/),
+  published 2026-10-26, opened 2026-11-06. Used for: searching Polish cemetery databases and
+  city grave locators beyond the international sites. Of its longer list of resources, only those
+  in P56–P59 were confirmed and used.
+
+- **P56:** Grobonet, [search for buried persons](https://www.grobonet.com), opened 2026-11-06.
+  Used for: a nationwide Polish search whose data come from local cemetery systems. The separate
+  portal polskie-cmentarze.com points users to it.
+
+- **P57:** City grave locators: Zarząd Cmentarzy Komunalnych w Krakowie, [zck-krakow.pl](https://www.zck-krakow.pl);
+  Wrocław, [groby.cui.wroclaw.pl](https://groby.cui.wroclaw.pl) and
+  [wyszukiwarka grobów](https://www.wroclaw.pl/dla-mieszkanca/wyszukiwarka-grobow-wroclaw); Warsaw,
+  [cmentarze – wyszukiwarka osób pochowanych](https://warszawa19115.pl/pl/-/cmentarze-wyszukiwarka-os%C3%B3b-pochowanych),
+  opened 2026-11-06. Used for: city-run grave locators in Kraków, Wrocław and Warsaw.
+
+- **P58:** Polskie Towarzystwo Genealogiczne, [Nekrologi publikowane w Życiu Warszawy](https://nekrologi.genealodzy.pl),
+  opened 2026-11-06. Used for: an index of the obituary notices printed in Życie Warszawy in 1945,
+  giving the issue number, date and microfilm number.
+
+- **P59:** CompGen, [Projektinformation Grabsteine 02/2016](https://www.compgen.de/?p=2614),
+  31 January 2016, opened 2026-11-06. Used for: the Grabstein-Projekt at grabsteine.genealogy.net
+  including former German cemeteries in West Pomerania, Poland.
 
 ## Credits
 

@@ -122,6 +122,25 @@ Additional dated examples cited inline:
   earliest-ancestor places plus node ages as no evidence of a historical ancestor's location,
   migration or identity is Kinprove's caution.
 
+Additional Y-haplogroup and Advanced Matches sources:
+
+- **S26:** Roberta Estes, [FOCUS: Step 3 – Breaking Through Brick Walls Using Y-DNA and Mitochondrial DNA](https://dna-explained.com/2026/11/02/focus-step-3-breaking-through-brick-walls-using-y-dna-and-mitochondrial-dna/),
+  DNAeXplained, 2026-11-02. Used for the report that **All Y-DNA** requires a match at every
+  marker level, choosing one shared Y level with Family Finder, and comparing the Y haplogroups
+  of same-surname Family Finder matches through Discover Compare, with a different major
+  haplogroup ruling out the direct paternal line. FamilyTreeDNA documentation does not confirm
+  the every-level behaviour.
+- **S27:** Katy Rowe-Schurwanz, [Introducing Y-DNA Haplogroups for Family Finder Customers](https://blog.familytreedna.com/y-dna-haplogroups-family-finder/),
+  FamilyTreeDNA Blog, 2023-07-31, later updated; checked 2026-11-06. Used for partial
+  SNP-based haplogroups from autosomal tests, their display in the match list, and Ancestry and
+  23andMe transfer haplogroups shown only to the tester.
+- **S28:** Roberta Estes, [FamilyTreeDNA Provides Y DNA Haplogroups from Family Finder Autosomal Tests](https://dna-explained.com/2023/11/30/familytreedna-provides-y-dna-haplogroups-from-family-finder-autosomal-tests/),
+  DNAeXplained, 2023-11-30. Used for STR-predicted haplogroups being updated to a more refined
+  Family Finder haplogroup.
+- **H10:** FamilyTreeDNA Help, [Advanced Matches Guide](https://help.familytreedna.com/hc/en-us/articles/4402652972815-Advanced-Matches-Guide),
+  checked 2026-11-06. Separate Y-DNA12 to Y-DNA111 selections and the **Show only people I
+  match in all selected tests** option.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

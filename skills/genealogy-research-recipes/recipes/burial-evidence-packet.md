@@ -46,6 +46,13 @@ apart from locations based on word of mouth or dowsing. The
 complete or accurate a survey is, and a preservation group reports finding errors in its own
 compilation.
 
+German graves are reassigned after a rest period (Ruhezeit), and small children rarely received
+permanent stones. A gravestone survey such as the CompGen Grabstein-Projekt
+(grabsteine.genealogy.net) therefore under-represents older burials, above all infants and young
+children from around 1900 and earlier. A missing child there is an expected gap, not a negative.
+Do not rebuild a sibship from the stones. Take child deaths from the civil (Standesamt) or church
+death and burial registers. [P53, P54]
+
 For an Israeli burial, work from the burial society (חברה קדישא, chevra kadisha) that served the
 place. Nationwide aggregators are incomplete:
 MyHeritage's Israel grave collection, built with BillionGraves, covers 138 cemeteries and says it
@@ -101,6 +108,17 @@ a Grave. Riga City digitised data on about 800,000 burials in 13 municipal cemet
 it there, and the site's region filter also covers many other Latvian municipalities. [P41, P42]
 Citizens can submit updates and additions, so treat an entry as possibly amended by a user and
 check it against the municipal record or the gravestone. [P41]
+
+For a Polish burial, do not stop at Find a Grave or BillionGraves either. Search Grobonet
+(grobonet.com), a nationwide search fed by local cemetery systems. Then find the city's own
+cemetery-administration locator by searching `[city] wyszukiwarka grobów` ('grave search');
+Kraków, Warsaw and Wrocław, for example, run municipal locators. Coverage follows the
+administrator or provider, so a miss is not a negative. Check a hit against the cemetery office's
+record or the gravestone. [P55, P56, P57] For a Warsaw death in 1945, the Polish Genealogical
+Society's obituary index (nekrologi.genealodzy.pl) covers the notices printed in Życie Warszawy
+that year; each hit gives the issue, date and microfilm reference. [P58] For a former German
+cemetery now in Poland, search the Grabstein-Projekt (section 1); it covers selected cemeteries,
+not all of them. [P59]
 
 **Output:** a query row for each field combination, retaining the exact entered strings and
 the candidate record links.

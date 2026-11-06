@@ -257,6 +257,16 @@ extent allow, or leave the lookup unresolved. Keep guardian, ward and parent as 
 roles, and queue each located proceeding with its own locator. Hoitink suggests this reverse
 search; guardianship alone establishes no kinship. [S18]
 
+Inventory each guardianship paper for the same minor as its own row. A court appointment and a
+later nomination of the same guardian are separate events, not duplicates and not a change of
+guardian. Record any stated age bracket literally, such as "under fourteen" or "above 14 years
+... has chosen him", and whether the minor chose the guardian. Use the dated wording to bound the
+minor's age only after establishing the rule for that place and period. When the mother's maiden
+name is unknown, a guardian with a surname other than the father's is a possible lead to her kin
+for the evidence workflow; check it in that family's own probate and vital records. The
+[Warham Wheeler guardianship example](https://vitabrevis.americanancestors.org/the-warham-wheeler-affair)
+motivates this. [S25]
+
 If land passed jointly to several heirs, or the estate papers or deeds point to a suit, add a
 bounded search of the court's civil or equity series for a partition, sale or title suit. An
 heir, another household member or the administrator may have brought it. Recover a U.S. suit file

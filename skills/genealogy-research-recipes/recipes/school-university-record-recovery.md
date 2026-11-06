@@ -108,6 +108,10 @@ Related recipes cover overlapping steps. For index hits that are not proof a fil
     - ЦГИА СПб f.963 (Mining Institute, 1773–1918). A participant said its annotation lists files on students, auditors and staff.
     - ЦГА СПб f.Р-8811 (from 1917). A participant said its inventories are online. [S11]
   - Odessa University: personal files at ДАОО. Participants said its inventories are on the archive's website. [S19]
+- **German chemistry candidates, 1898–1939.** Search the [CompGen DES transcription](https://des.genealogy.net/chemiker/search) of the *Berichte des Verbandes der Laboratoriums-Vorstände an deutschen Hochschulen*. It has 30 booklets and about 29,500 entries, and lists people who passed the Verband's preliminary examination, received a Technische Hochschule diploma or took a doctorate. [S22], [S23]
+  - Read the Hochschule field before you name the school. Munich had both a university and a Technische Hochschule. So did Berlin, but its TH stood in Charlottenburg, a separate city until 1920. [S22], [S24]
+  - Read the Typ field as the qualification. A Verbandszeugnis is the certificate of an examination that admitted the candidate to doctoral or diploma study; it is not a degree. Link one person's separate entries, which may be at different institutions, into a dated sequence. [S22], [S25]
+  - Entries often give place of origin, prior schooling and the supervising professor. Check each dissertation against the *Jahresverzeichnis der Deutschen Hochschulschriften*. [S22]
 - Use the higher-school route to find the school too. Entry to a university required a gymnasium certificate, earned either by study or as an external candidate. [S1], [S4]
 
 ## 6. Read the full original list, not a filtered extract

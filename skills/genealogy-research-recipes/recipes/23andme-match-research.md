@@ -76,6 +76,7 @@ everyday procedures alongside the less obvious permission and data-format distin
 | Place a new match against family data | Add tested-family sharing columns to an anchor segment worksheet | 4 |
 | Orient the generated tree | Use an identified cousin to establish which placed branch is which | 5 |
 | Investigate a missing grandparent line | Keep four branch columns plus unassigned/multiple-lines leads | 5 |
+| Estimate an ancestor's haplogroup | Document matches' direct lines through two different children | 5 |
 | Request genotype data | Start the separate raw-data request and retain confirmation | 6 |
 | Preserve an account snapshot | Keep five distinct products and retain older exports as dated originals | 6 |
 | Compare ancestry confidence | Save two supported confidence views and their coordinate exports | 7 |
@@ -309,6 +310,20 @@ or proof of your direct line; check its side against a parent's list. No hit cov
 files searched. The [keyword-search discussion](https://genarchivist.net/showthread.php?tid=1392)
 and [a saved-download search thread](https://genarchivist.net/showthread.php?tid=275) report
 these failures without establishing their cause. [S24]
+
+To estimate a target ancestor's haplogroup, search DNA Relatives for that family's rare
+surnames and places. For each hit, document the match's direct female line (for mtDNA) or
+male line (for Y) back to the ancestor. Use profile fields such as grandparents' birthplaces
+and surnames as leads; confirm each generation in records. An autosomal match through the
+ancestor does not by itself carry the ancestor's haplogroup. Accept a partial haplogroup only
+when at least two documented lines through different children of the ancestor show compatible
+calls, and record it at the shared upstream level. One line, or two lines through the same
+child, remains a hypothesis. A match's haplogroups show only where that person has chosen to
+show ancestry results. 23andMe assigns a paternal haplogroup only to males; one shown for a
+woman comes from a linked male relative's result, such as her father's or brother's, so record
+it as his call. 23andMe offers no Y or mtDNA matching: DNA Relatives compares shared chromosome
+segments, so this is not a measured haplogroup match. For a deeper call or the next test, use
+[ydna-mtdna-interpretation](ydna-mtdna-interpretation.md). [S30, O1, O21, O22]
 
 ## Recipe 6: preserve the five different data products
 

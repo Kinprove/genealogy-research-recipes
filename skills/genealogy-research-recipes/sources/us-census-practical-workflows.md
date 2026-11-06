@@ -92,6 +92,7 @@ draw on each source.
 | H8 | [U.S. Census Bureau, 1910 Instructions to Enumerators, paragraphs 116–117](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1910/1910-instructions.html) | 1910 instructions; HTML excerpt checked 2026-10-26 | 7 |
 | S78 | Legacy Tree Genealogists, [Digging for Deaths Part 2: Census Mortality Schedules](https://www.legacytree.com/blog/census-mortality-schedules-digging-for-deaths-part-2) | 2023-03-23 in saved metadata | 8: physician-note reverse |
 | S79 | Kristin W., Legacy Tree Genealogists, [Finding Women Ancestors In Your Genealogy Research: Remember the Ladies!](https://www.legacytree.com/blog/finding-women-ancestors-in-your-genealogy-research) | 2023-12-29 in saved metadata | 4: named-child tax-volume appendix |
+| S80 | Nicole Elder Dyer, Family Locket, [RLP 434: Newspaper Notices and Thomas B. Royston's Parentage](https://familylocket.com/rlp-434-newspaper-notices-and-thomas-b-roystons-parentage/) | 2026-11-02 | 4: boarding-house test for tallies |
 
 S68 supplies a neighborhood-to-earlier-household research route and named-person searches
 in deeds, probate and claims testimony. Its property-value threshold and broad assumptions
@@ -169,6 +170,14 @@ The original-list and constrained census-match checks are Kinprove synthesis. Lo
 dates, inclusion rules and fields, the reported 1809/legal history, parentage, poverty,
 attendance and named-case conclusions remain unverified. The saved byline gives Kristin W.;
 no fuller surname is inferred.
+
+S80 describes an 1830 household with many males aged 15–29 under one head, and two newspaper
+notices: the head's own notice offering to accommodate boarders and travelers, and a successor
+keeper's November 1830 notice naming him as a former keeper of a house adjacent to the college
+and able to accommodate 40 students. The hosts keep the missing relative's presence there as a
+probable explanation, not a proven fact. The episode page was checked; the original schedule
+and newspaper images were not inspected for this recipe. Comparing notice dates with the census
+reference date is a Kinprove safeguard.
 
 ## Credits
 
