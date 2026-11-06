@@ -1,5 +1,15 @@
 # Recipe: Interpret a Holocaust name record through its underlying source
 
+## Contents
+
+- Goal
+- Recover the source, not only the name result
+- Recover the described parts of an original case
+- Recover separated evacuation household cards
+- Keep dated observations distinct from final fate
+- Choose the next retrieval action from the actual gap
+- Sources
+
 ## Goal
 
 Recover the information behind a Yad Vashem name result without converting a memorial

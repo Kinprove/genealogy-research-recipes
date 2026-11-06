@@ -7,6 +7,16 @@ Other recipes cover the neighbouring steps:
 - Once a probate case is found, list its documents with [probate case inventory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md).
 - For allegations, presentments and negative findings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- 1\. Build the dated jurisdiction table before choosing a series
+- 2\. Pre-1858 probate: court first, then index, then register
+- 3\. Father missing from a baptism
+- 4\. Apprenticeships
+- 5\. A label that says only "dissenter" or "nonconformist"
+- 6\. Wales: names and record routing
+- Deliver
+
 ## 1. Build the dated jurisdiction table before choosing a series
 
 1. Identify the exact ancient parish, not just the town or the county.

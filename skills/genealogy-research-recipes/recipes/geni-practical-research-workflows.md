@@ -1,5 +1,19 @@
 # Recipe: Practical Geni research workflows
 
+## Contents
+
+- Goal
+- Inputs and routing
+- 1\. Recover a profile through name variants without creating duplicates
+- 2\. Pin the intended pair and inspect blood and in-law paths separately
+- 3\. Attach a document to the facts and relationships it supports
+- 4\. Use a locality project for collaboration and a private workspace for unfinished leads
+- 5\. Compare duplicates, then resolve field conflicts separately
+- 6\. Diagnose tree conflicts and recover a mistaken merge through its history
+- 7\. Import onto the intended focus and resolve stopped branches deliberately
+- 8\. Preserve a scoped GEDCOM or a readable ancestor/descendant report
+- Prompt pattern
+
 ## Goal
 
 Produce a reproducible Geni investigation packet: identified profiles, checked relationship paths,

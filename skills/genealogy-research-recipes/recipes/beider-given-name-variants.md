@@ -1,5 +1,13 @@
 # Recipe: Ashkenazi given-name variants from Beider's indexes
 
+## Contents
+
+- Goal
+- Load only the requested name
+- What the index changes in a search
+- Apply the result to records and DNA research
+- Fact-check status
+
 ## Goal
 
 Find an ancestor or a DNA match's documentary family under another recorded given-name

@@ -1,5 +1,13 @@
 # Ancestry record-search recovery
 
+## Contents
+
+- Goal
+- Twelve recovery methods
+- Check the saved record on each intended person
+- Find a researcher or locality helper
+- Prompt-craft and search log
+
 ## Goal
 
 Recover an archival record when Ancestry's hints, person search or name index fails.

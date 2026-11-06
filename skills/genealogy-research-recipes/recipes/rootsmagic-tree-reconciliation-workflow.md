@@ -1,5 +1,16 @@
 # RootsMagic: Reconcile a Local Tree with Ancestry and FamilySearch
 
+## Contents
+
+- Goal
+- The failure to prevent
+- 1\. Establish the master and a small working scope
+- 2\. Map the actual people before comparing facts
+- 3\. Make a separate decision for every object
+- 4\. Reopen the destination and check what arrived
+- 5\. Resume from changed people, preserving the decisions
+- Prompt pattern
+
 ## Goal
 
 Share selected, supported facts and sources between a RootsMagic database, an Ancestry

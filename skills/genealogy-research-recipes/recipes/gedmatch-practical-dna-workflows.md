@@ -1,5 +1,13 @@
 # Recipe: Working reproducibly with GEDmatch
 
+## Contents
+
+- Goal
+- The failure to prevent
+- Before starting
+- Eight workflows
+- Hand off interpretation
+
 ## Goal
 
 Run GEDmatch comparisons, targeted segment searches, triangulation, parental phasing and Lazarus

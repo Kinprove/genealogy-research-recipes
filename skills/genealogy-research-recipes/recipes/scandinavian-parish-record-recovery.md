@@ -10,6 +10,20 @@ Related recipes:
 - [Evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) for merge, separate and proof rulings.
 - [Archival image coverage](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) for claims that a volume's images are complete.
 
+## Contents
+
+- Do not start from a patronymic name hit
+- Read the household examination page as a locator set
+- Carry the household from volume to volume by residence
+- Do not treat one entry as the whole family
+- Follow a missing birth to another parish
+- When the page trail breaks
+- Do not call it a census
+- Bridge gaps with poll-tax registers and probate
+- Before 1869, look for emigrants in the moving-out registers
+- Finland: work the rippikirjat the same way
+- Close with a household chain packet
+
 ## Do not start from a patronymic name hit
 
 - Do not link people from a name index just because they share a -son/-dotter name and similar dates in one parish. A shared patronymic only shows that their fathers had the same given name. It is not evidence of kinship.

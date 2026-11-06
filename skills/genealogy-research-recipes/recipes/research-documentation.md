@@ -3,6 +3,18 @@
 Use this reference to preserve the searches and record links in an
 [emigrant-origin packet](russian-empire-emigrant-origin-recovery.md).
 
+## Contents
+
+- Research log
+- Turn locality coverage into the next searches
+- Find a manuscript collection's holder
+- Recover a dated page behind a dead citation
+- Keep next actions linked to their origin
+- Compare one family across named censuses
+- Research report
+- Find earlier projects for a person
+- Sources
+
 ## Research log
 
 Retain these columns in this order:

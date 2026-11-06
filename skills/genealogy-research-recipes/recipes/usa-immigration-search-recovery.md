@@ -1,5 +1,11 @@
 # Recover U.S. immigration and naturalization records
 
+## Contents
+
+- Goal
+- Recovery workflows
+- Prompt-craft
+
 ## Goal
 
 Recover the record behind a failed name-and-year search. The recurring mistake

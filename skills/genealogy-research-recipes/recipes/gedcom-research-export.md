@@ -13,6 +13,20 @@ Link out for the shared steps:
 - **Exporting a GEDCOM from Geni:** [Geni practical workflows § 8](geni-practical-research-workflows.md).
 - **A blank death, spouse or child field:** [descendancy gap worklist § Do not read a blank as a finding](descendancy-gap-worklist.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Choose the destination and the version
+- 2\. Put only evaluated findings in the file
+- 3\. Export each parent link on its own evidence
+- 4\. Cite the source, and carry the status in a NOTE, not in QUAY
+- 5\. Keep names, dates and calendars as the records give them
+- 6\. Convert a supplied tree without culling or confirming it
+- 7\. Bring a supplied tree into existing research
+- 8\. Check the written file before handing it over
+- 9\. When the destination rejects the file or replaces a tree
+- Close with an export packet
+
 ## Inputs to gather first
 
 Gather these before writing:

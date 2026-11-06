@@ -1,5 +1,14 @@
 # Recipe: Recovering historical records with MyHeritage
 
+## Contents
+
+- Goal
+- The mental model
+- Operating rules
+- Fourteen practical howtos
+- Prompt-craft
+- Pitfalls worth internalizing
+
 ## Goal
 
 Recover candidate historical records when a MyHeritage search fails or returns too much.

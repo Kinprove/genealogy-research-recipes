@@ -11,6 +11,21 @@ for provider-specific search controls. This recipe supplies the census working r
 Route identity, kinship and negative-evidence rulings to
 [evidence and proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/main/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- Preserve the output schema
+- Choose a recipe
+- 1\. Recover a missing household by changing the search anchor
+- 2\. Turn an address into an enumeration-district search
+- 3\. Recover a 1950 household from the revisit sheets
+- 4\. Use pre-1850 age bins as constraints on candidate households
+- 5\. Bridge the 1890 gap with a coverage table and dated timeline
+- 6\. Extract the informant, supplementary answers and enumerator notes
+- 7\. Turn census marriage and child fields into targeted searches
+- 8\. Use mortality schedules with the correct death window
+- 9\. Track a formerly enslaved family through changing surnames
+- 10\. Follow a farm lead into an agricultural schedule
+
 ## Preserve the output schema
 
 Each procedure below produces the corresponding table. These column orders are this

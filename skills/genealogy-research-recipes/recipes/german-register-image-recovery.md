@@ -8,6 +8,18 @@ Use this recipe when a German place name from an emigrant's records, usually wri
 
 For general dated-gazetteer checks and counting namesakes, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For letter-pattern candidates for an uncertain German word, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md). For Catalog/film/DGS work and jurisdiction by event year, use [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md). For Polish seat and confession districts, use [Polish index-to-original recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/polish-index-original-record-recovery.md). For Russian-Empire origins, use [Russian-Empire emigrant origin recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md). For Jewish registration offices, use [JewishGen family reconstruction](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md).
 
+## Contents
+
+- 1\. Keep the literal string; generate readings before searching
+- 2\. Resolve the candidate in a period gazetteer, then confirm it with context
+- 3\. Separate namesakes with the Kreis and non-parish records
+- 4\. Read the office line; record each jurisdiction separately
+- 5\. Date the territory and convert the name
+- 6\. Search catalogues as finding aids, not gazetteers
+- 7\. Classify the register version behind every image
+- 8\. Read the full entry, including the bottom of the page
+- Close with a recovery packet
+
 ## 1. Keep the literal string; generate readings before searching
 
 - **Copy the place exactly as written** in each record, with the record type, date and writer. Check every spelling before you search on it.

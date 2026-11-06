@@ -1,5 +1,15 @@
 # Recipe: Recover and inventory a U.S. military pension file
 
+## Contents
+
+- Goal
+- Before starting
+- 1\. Choose the record type and present custodian
+- 2\. Preserve the complete index-card locator
+- 3\. Obtain the intended file product and record its limits
+- 4\. Inventory the pages and reconstruct the claim's sequence
+- Prompt pattern
+
 ## Goal
 
 Move from a military-service clue or pension index card to the appropriate application file,

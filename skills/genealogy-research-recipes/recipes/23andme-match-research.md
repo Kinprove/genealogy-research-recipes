@@ -1,5 +1,24 @@
 # Working with 23andMe DNA: matches, matrices, segments, and preservation
 
+## Contents
+
+- Goal
+- Start with the account you actually have
+- Practical how-to index
+- Recipe 1: find a usable anchor and build a match worksheet
+- Recipe 2: use both rankings without mixing the quantities
+- Recipe 3: turn a cluster into a numeric research matrix
+- Recipe 4: get the segment comparison you can actually perform
+- Recipe 5: distinguish DNA Relatives parent labels from ancestry-side inference
+- Recipe 6: preserve the five different data products
+- Recipe 7: preserve ancestry painting without turning it into matching evidence
+- Recipe 8: bucket a legacy segment file with a known relative's list
+- Recipe 9: improve a Reconstructed Ancestor through verified tree placements
+- Recipe 10: export and group visible matches with Genealogy Assistant
+- Recipe 11: build a manual Leeds worklist from Relatives in Common
+- Recipe 12: carry a match into an unconnected research-tree branch
+- Prompt patterns
+
 ## Goal
 
 Turn a 23andMe account into a usable research packet: identified matches, a between-match

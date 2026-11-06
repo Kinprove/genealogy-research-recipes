@@ -1,5 +1,19 @@
 # Recipe: Interpreting Y-DNA and mtDNA — what a haplogroup or STR/sequence match can (and can't) establish
 
+## Contents
+
+- Goal
+- The mental model (get this right or everything downstream breaks)
+- Rules of thumb — the resolution → timeframe map (interpretive ceilings, not a tutorial)
+- What to trust vs never fabricate (the four failure modes)
+- When Y haplogroups differ: compare calls, then choose the next tester
+- Prompt-craft (how to keep an assistant honest here)
+- Pitfalls worth internalizing (least-obvious, most-LLM-usable)
+- Keep an ancient-sample catalogue query separate from ancestry inference
+- Inventory lineage and test coverage before choosing another tester
+- Build a maternal pedigree and locality worklist
+- Combining tests: establish which ancestral path each supports
+
 ## Goal
 
 Given a Y-DNA or mtDNA result — a **haplogroup assignment**, a **Y-STR genetic-distance match**, or an **mtDNA sequence match** — state what it can genuinely establish about a *genealogical-timeframe* relationship (roughly the last ~500 years, the paper-trail era), and refuse the four places where confident interpretation crosses into fabrication.

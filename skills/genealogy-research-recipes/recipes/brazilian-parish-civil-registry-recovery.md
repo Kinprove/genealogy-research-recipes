@@ -19,6 +19,20 @@ Link out for the shared steps:
 - **Working through a probate file document by document:** [probate case inventory](probate-case-document-inventory.md).
 - **Identity and kinship rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Build the dated jurisdiction chain before you search
+- 2\. Send a civil entry to the registry district of its date, then up the chain
+- 3\. Search forward for late registrations, and weigh how they were made
+- 4\. Choose the record that can answer the question
+- 5\. Use FamilySearch to find the entry, and order the inteiro teor when the copy matters
+- 6\. Find the parish book under its mother parish and its present custodian
+- 7\. When the parish books are lost, rebuild from the substitute series
+- 8\. Read Brazilian names by Brazilian practice
+- 9\. Record access states, not absences
+- Close with a jurisdiction and holdings packet
+
 ## Inputs to gather first
 
 Gather these before searching:

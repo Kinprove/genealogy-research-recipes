@@ -1,5 +1,13 @@
 # Recipe: DNA comparison controls across services
 
+## Contents
+
+- Goal
+- Resolve the tests and the search
+- Establish what could have been observed
+- Reconcile rows before interpreting totals
+- Handoff
+
 ## Goal
 
 Decide what agreement, an absent match, or a changed shared-cM total can establish

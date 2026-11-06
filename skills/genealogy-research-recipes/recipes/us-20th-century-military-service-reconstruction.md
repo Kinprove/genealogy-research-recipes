@@ -2,6 +2,18 @@
 
 Use this when a 20th-century Army or Air Force personnel file burned, came back thin or is restricted, or when a family says a man served but he does not appear in federal lists. The task is to rebuild his service from records held separately from that file, and to log each record's custodian and scope. For older compiled service records, pension files and choosing a custodian, use [military pension file recovery § 1](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md). For the grave and cemetery-record packet, use [burial evidence packet](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/burial-evidence-packet.md). For naturalization C-files, use [U.S. immigration search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md). Identity and proof rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- Find out the file's actual status before saying "it burned"
+- Request each file product by name and log what comes back
+- Request records that were never part of the OMPF
+- Read the headstone application as a derivative summary
+- Bound a WWII Army enlistment search in AAD before reading a miss
+- Test state and local routes before calling the claim unsupported
+- Place him with unit records without giving him the unit's events
+- Treat WWII casualty lists as incomplete
+- Return a routing register
+
 ## Find out the file's actual status before saying "it burned"
 
 Do not claim that the records burned and nothing survives. On July 12, 1973 a fire at the National Personnel Records Center (NPRC) in St. Louis destroyed about 16–18 million Official Military Personnel Files (OMPFs). NARA gives these losses ([NARA, 1973 fire](https://www.archives.gov/personnel-records-center/fire-1973); presenter account in [S11], [S12]):

@@ -4,6 +4,16 @@ Use this recipe when a child may have been born outside marriage and you need th
 
 The series checklist below covers US county and court records (North Carolina and Pennsylvania) and church records, followed by Swedish court and child-welfare retrieval. It does not list English, Welsh or Scottish parish and Poor Law series. If you are working in those jurisdictions, build their series list separately.
 
+## Contents
+
+- Do not decide illegitimacy from weak signals
+- Search under the mother's surname first
+- Work a jurisdiction and period series checklist
+- Swedish unknown-parent record retrieval
+- Record allegations, not paternity
+- Read absences and surnames narrowly
+- Return
+
 ## Do not decide illegitimacy from weak signals
 
 Do not label a child illegitimate because of any of the following:

@@ -10,6 +10,18 @@ It covers the choice of register, who holds the books, tombo.pt, the separate se
 - **The U.S. arrival and naturalization side of an emigrant:** [U.S. immigration search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md).
 - **Identity rulings and same-named people:** [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Choose the register by date and religion
+- 2\. Find who holds the book before you search
+- 3\. Use tombo.pt as a list of books, not as an archive
+- 4\. Search the marriage-process file and other series separately
+- 5\. Expect only what each period recorded
+- 6\. Build the name in Portuguese order
+- 7\. Find the parish of an emigrant
+- Close with a register packet
+
 ## Inputs to gather first
 
 Gather these before searching:

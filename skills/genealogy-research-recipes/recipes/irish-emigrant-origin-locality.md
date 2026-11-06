@@ -10,6 +10,16 @@ If a "previous parish" or residence field may be a transit point, use [U.S. immi
 The same place-role logic for the Russian Empire is in [Russian-Empire emigrant origin recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md).
 Identity rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- The failure this prevents
+- 1\. Collect and classify every place statement before choosing one
+- 2\. Generate same-named and mis-transcribed candidates
+- 3\. Test each candidate against surname and denomination
+- 4\. Search the whole locality, including estate papers
+- 5\. Treat a townland-named farm as a hypothesis
+- 6\. Output and handoff
+
 ## The failure this prevents
 
 The usual error is to read a named town as the birthplace and search a common name there. That

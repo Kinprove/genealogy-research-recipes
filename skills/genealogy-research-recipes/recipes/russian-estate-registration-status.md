@@ -18,6 +18,16 @@ Related recipes cover the neighbouring ground:
 - For AI transcriptions and translations of status words, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
 - For identity rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- 1\. Parse the estate phrase into separate fields
+- 2\. Test each status against its chronology
+- 3\. Date when the person acquired the status
+- 4\. Choose the record series by the acquisition date
+- 5\. Search where the family actually lived
+- 6\. Treat catalogue annotations and absences as leads
+- Output: status timeline and series worklist
+
 ## 1. Parse the estate phrase into separate fields
 
 For each record, copy the estate phrase exactly as written, with its date, record type and locator. Then split it into these fields:

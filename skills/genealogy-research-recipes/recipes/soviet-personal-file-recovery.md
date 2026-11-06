@@ -14,6 +14,16 @@ Related recipes:
 - Spelling expansion across scripts: the catalogue's recipe on recovering attested spellings across scripts and OCR.
 - Identity, namesake and nationality rulings: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- 1\. Read the negative reply before you treat it as a dead end
+- 2\. Build a life-course inventory for the subject, the spouse and the descendants
+- 3\. Route each institution to its series and present custodian
+- 4\. Search under every name the person actually used
+- 5\. Log each catalogue hit as a candidate with its own locator
+- 6\. Read questionnaires and autobiographies as dated self-reports
+- Output: personal-file register
+
 ## 1. Read the negative reply before you treat it as a dead end
 
 - **Record the archive's exact wording.** "Not found in the book for that year", "books not preserved" and "books were never received by the archive" are three different results.

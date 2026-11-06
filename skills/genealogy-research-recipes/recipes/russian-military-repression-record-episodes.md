@@ -1,5 +1,13 @@
 # Recipe: Recover separate military and Soviet-repression record episodes
 
+## Contents
+
+- Goal
+- Start from the event and source scope
+- Preserve date roles and successive episodes
+- Recover the next document before combining the biography
+- Sources
+
 ## Goal
 
 Move from WWI/WWII or Soviet-repression name hits to source-linked episodes without merging

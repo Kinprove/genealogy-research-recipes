@@ -9,6 +9,16 @@ town, see [arrival-record extraction](https://github.com/Kinprove/genealogy-rese
 Route identity rulings to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md)
 and AI transcription of characters to [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
 
+## Contents
+
+- Set two prerequisites before placing anyone
+- Never derive a character from a romanization
+- Build the name/place register
+- Search jiapu collections by exact character and county
+- Place the ancestor as a hypothesis
+- Keep literal dates apart from derived values
+- Close with a lineage packet
+
 ## Set two prerequisites before placing anyone
 
 Do not place anyone in a jiapu until you hold two things in characters:

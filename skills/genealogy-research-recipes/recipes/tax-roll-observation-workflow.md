@@ -2,6 +2,16 @@
 
 Use this when a person turns up in, or goes missing from, annual town, township or county tax lists, and someone wants to read a first appearance, last appearance or gap as a birth, coming of age, move or death. Read the lists as a series for each jurisdiction and each tax type. Check each year against the liability rules in force then, and record every change as a bounded interval. For the general rule that absence is not proof, use the [negative-evidence gate](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). That recipe also covers Jr./Sr. namesake separation and every proof ruling. For judging directory gaps against a list's inclusion rule, use the [city-directory workflow](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md). For using local lists to bridge 1890, use [census workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md). For AI abstracts that call amounts "wealth", use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
 
+## Contents
+
+- 1\. Build the series register before reading any entry
+- 2\. Record the liability scope for each year before interpreting
+- 3\. Search each tax series separately
+- 4\. Learn how the volume is arranged before browsing
+- 5\. Extract one row per entry
+- 6\. Turn appearances into intervals, then test them
+- 7\. Close with a tax-series packet
+
 ## 1. Build the series register before reading any entry
 
 Make one row for each combination of jurisdiction (town, township or county), tax type (land, personal property, poll/tithable, other) and year. Give every cell one status:

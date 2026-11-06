@@ -6,6 +6,20 @@ The worked cases come mostly from Tobolsk and Verkhoturye uezds and from the nor
 
 Related recipes: for searching under historical administrative units, parallel copies and coverage logging, use [research documentation: turn locality coverage into the next searches](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md). For dated-jurisdiction checks, same-name separation and the final identity ruling, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). To keep literal spelling attestations as search leads, use the catalogue's recipe on recovering attested spellings across scripts and OCR. For locators, use the [source citation record](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md).
 
+## Contents
+
+- 1\. Start from the books that covered the territory and year
+- 2\. Extract each statement literally, with its folio
+- 3\. Convert years without mixing year systems or folios
+- 4\. Treat origin, arrival year and age as testimony
+- 5\. Resolve the stated origin through the uezd
+- 6\. Confirm the origin on the departure side
+- 7\. Chain households through backward statements, fiscal and inquiry records
+- 8\. Compare parallel copies entry by entry
+- 9\. Link across books only as tested hypotheses
+- 10\. Classify an absence before reading it
+- Output: source-episode register
+
 ## 1. Start from the books that covered the territory and year
 
 The revisions are not the earliest layer. For the Ural and Siberian side, the Siberian Prikaz fond (RGADA f.214) and related fonds hold a dense pre-1719 series. Before you search a surname, list the books that fit the target sloboda's uezd and period.

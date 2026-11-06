@@ -1,5 +1,13 @@
 # Recipe: Recovering a Russian Empire emigrant's origin locality
 
+## Contents
+
+- Goal
+- The failure to prevent
+- Before starting
+- Five workflows
+- Delegation boundary
+
 ## Goal
 
 Build a destination-to-origin research packet for a person who left the Russian Empire or its

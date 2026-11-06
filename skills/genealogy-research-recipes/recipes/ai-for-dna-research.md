@@ -1,5 +1,20 @@
 # Recipe: Using AI reliably in DNA genealogy research
 
+## Contents
+
+- Goal
+- The mental model (get this right or everything downstream breaks)
+- What to delegate freely (AI is genuinely good at these)
+- What to never trust or delegate (verify, or don't)
+- Inspect supplied region views before planning a locality search
+- Endogamous matches: separate prioritization from ancestral attribution
+- Reconcile supplied relationship-predictor outputs
+- Read ethnicity estimates as dated, version-bound observations
+- Prompt-craft that practitioners found works (the reusable core)
+- Worked mini-examples (workflow logic, not clicks)
+- The pitfalls worth internalizing (the least-obvious, most-LLM-usable part)
+- Verification & privacy discipline
+
 ## Goal
 
 How an AI assistant (or a genealogist using one) can apply AI to DNA/genealogy work **reliably** — what to delegate freely, what to never trust, and the prompt patterns that actually work.

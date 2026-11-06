@@ -1,5 +1,20 @@
 # Recipe: Work an unknown-parentage case with DNA matches and WATO
 
+## Contents
+
+- Goal
+- The mental model (get this right or everything downstream breaks)
+- The reasoning arc — the human-owned sequence
+- What the tool (and an AI) can carry
+- What to never trust or delegate (the judgment a human must own)
+- Match selection dominates the answer (input quality > input volume)
+- When two hypotheses survive: decide what would separate them
+- Beyond autosomal: Y-DNA, mtDNA, X-DNA as line-narrowing and exclusion tools
+- Named failure modes (the least-obvious, most reusable part)
+- Prompt-craft when an AI is in the loop
+- Ethics and the human layer
+- Closing the case — and privacy discipline
+
 ## Goal
 
 Place an unknown person — an unknown parent, adoptee's bio-parent, or an unplaced ancestor — into a tree, using the cM they share with known DNA matches. **WATO ("What Are The Odds?", a DNA Painter tool built by Leah Larkin (the DNA Geek) and Jonny Perl, with the underlying probability calculations derived by Leah Larkin and Andrew Millard) is the odds engine for that placement:** you build the matches' shared tree, propose candidate slots, and it scores each slot against relationship probability distributions. This recipe is the *judgment* around that engine — what a human must decide, what the tool computes, and where the whole thing quietly breaks.

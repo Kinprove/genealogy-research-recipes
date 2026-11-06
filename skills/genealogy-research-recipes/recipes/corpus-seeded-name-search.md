@@ -2,6 +2,14 @@
 
 Use when a remembered spelling, transliteration or name dictionary fails to retrieve a person from Hebrew/Yiddish or other historical text. This recipe owns retrieval diagnostics. Use [beider-given-name-variants.md](beider-given-name-variants.md) for dictionary candidates and [jewishgen-search-family-reconstruction.md](jewishgen-search-family-reconstruction.md) for database-specific family searches.
 
+## Contents
+
+- Build a small attestation inventory
+- Diagnose three different failures
+- Retrieve through another recorded participant
+- Calibrate the actual field
+- Stop with a scoped result
+
 ## Build a small attestation inventory
 
 Read candidate-bearing passages in the available corpus before fixing the search pattern. Retain each literal surface form, source/page, surrounding words, possible name role and confidence. For a large corpus, use bounded discovery batches; report which portions were actually examined. With only a remote search interface, seed from returned passages and existing records rather than claiming a full-corpus pass.

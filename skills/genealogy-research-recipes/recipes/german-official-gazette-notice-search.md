@@ -10,6 +10,17 @@ Each notice is a dated act by a named authority. It does not show that the perso
 
 Other notice types and steps belong to other recipes. District-gazette notices of intent to emigrate are outside this recipe. For address-book follow-up, and the rule that an edition date does not show a move, use the [city-directory observation workflow](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md). To follow a Russian-Empire registration community into the registration records kept there, use [Russian-Empire Jewish identity attribution](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md) and the locality handoff in [emigrant origin recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md). For rulings on whether to merge or separate people, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- 1\. Pick the notice class from the person's status
+- 2\. Search year by year and know what you are reading
+- 3\. Transcribe each notice into separate fields
+- 4\. Do not read the gazette's place as residence, or a decision as a departure
+- 5\. Expatriation lists: one row per person per list date
+- 6\. Personnel notices: chain postings across years and titles
+- 7\. Keep identity open and choose the next search
+- Output: notice register
+
 ## 1. Pick the notice class from the person's status
 
 Choose the class before you search. Do not use the gazette as a general name index.

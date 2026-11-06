@@ -1,5 +1,15 @@
 # Recipe: Build a checked city-directory observation series
 
+## Contents
+
+- Goal
+- Before starting
+- 1\. Audit the editions and their internal sections
+- 2\. Extract comparable rows without importing the index's mistakes
+- 3\. Sort the series into questions you can investigate
+- 4\. Describe gaps before assigning events to them
+- Prompt pattern
+
 ## Goal
 
 Turn city-directory entries into a comparable series of names, addresses and occupations.

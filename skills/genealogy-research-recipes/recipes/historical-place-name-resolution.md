@@ -12,6 +12,17 @@ Not covered here:
 
 **The failure this prevents:** taking the best-known or first match, treating a historical name as the modern place with the same name, calling a name that can't be found an error, or treating a sound-alike or a gazetteer hit with coordinates as proof of where someone lived. A gazetteer hit gives you a candidate. It does not establish residence.
 
+## Contents
+
+- 1\. Record the literal form and how it reached the page
+- 2\. List every same-named feature, not just towns
+- 3\. Date the name before matching it
+- 4\. Convert phonetic and translated forms back to the source language
+- 5\. Look below the settlement level, and resolve nicknames
+- 6\. Plot candidates against dated jurisdictions
+- 7\. Narrow candidates only with independent, dated evidence
+- 8\. Return a candidate table
+
 ## 1. Record the literal form and how it reached the page
 
 - Copy the place exactly as written. Record who wrote it, when, in what source, and from whose speech. Do not modernise or correct it in the working record.

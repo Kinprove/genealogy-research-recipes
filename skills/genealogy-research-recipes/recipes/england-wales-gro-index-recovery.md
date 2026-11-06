@@ -10,6 +10,18 @@ For general FamilySearch jurisdiction and missed-person recovery, use
 [FamilySearch practical workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md)
 (§1 jurisdiction, §8 missed persons). This recipe covers only the mechanics of the index itself.
 
+## Contents
+
+- Map the parish to its district for the period
+- Record the entry literally, then calculate an interval
+- Sweep for the full sibling group
+- Identify the wife from the maiden-surname field
+- Recover children registered under the mother's surname
+- Treat a marriage page as a candidate list
+- Reconcile copies of one index
+- Route Isle of Man and Channel Islands events to the islands
+- Order the certificate and close the packet
+
 ## Map the parish to its district for the period
 
 1. Before searching, find the registration district that covered the parish or residence *at

@@ -19,6 +19,19 @@ Link out for the shared steps:
 - **Victims' name records:** [Holocaust name-record interpretation](holocaust-testimony-source-interpretation.md).
 - **Identity rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Classify the document and its required depth
+- 2\. Read every certification as a check of a copy
+- 3\. Open the register entry behind each line
+- 4\. Record religion fields and regime labels as classification inputs
+- 5\. Route the search by the role that required the proof
+- 6\. Search the Berlin Document Center holdings by the applicant only
+- 7\. Compute the protection period before you ask
+- 8\. Treat the regime's card indexes and films as derivatives that may be the only witness
+- Close with a proof packet
+
 ## Inputs to gather first
 
 - every page of the document in hand, including stamps, certification wording, dates and blank lines

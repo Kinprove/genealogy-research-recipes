@@ -1,5 +1,15 @@
 # Recover a Polish original from an index or archival description
 
+## Contents
+
+- Goal
+- Inputs and routing
+- 1\. Preserve the index lead before following SKAN
+- 2\. Use the description to identify the holding series
+- 3\. Move from the unit to the original entry
+- 4\. Classify the gap and choose another holding route
+- Completion packet and prompt
+
 ## Goal
 
 Turn a Polish index entry or register description into an inspected original entry, or a precise

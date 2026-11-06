@@ -9,6 +9,17 @@ so use that recipe for it. To build the newspaper lead, use [newspaper search re
 To transcribe the papers with an AI tool, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
 Identity rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- Classify the matter before choosing where to look
+- Pick the court for the date and follow an appeal elsewhere
+- Map the court to its record group and custodian
+- Search the index first, then request the file
+- Inventory every series, not just the docket
+- Record a complete-index negative, then widen to relatives
+- Turn schedules and parties into local leads
+- Close with a case packet
+
 ## Classify the matter before choosing where to look
 
 Decide whether the matter is federal before you search a county courthouse or a large genealogy

@@ -15,6 +15,17 @@ It covers the period routing, the left bank, the 1941–1944 Transnistria fonds,
 - **A German colonist recorded abroad as born in "Germany" or "Russia":** [Russian-Empire emigrant origin recovery](russian-empire-emigrant-origin-recovery.md).
 - **Identity rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Fix the state and district on the event date
+- 2\. Look for a left-bank event outside the Bessarabian books
+- 3\. For 1941–1944 east of the Dniester, add the Transnistria Governorate fonds
+- 4\. Search Bessarabian metrical books in ANA fond 211 by opis
+- 5\. Search revision and census lists by fond, not by name
+- 6\. Generate Romanian and Cyrillic name forms as query lanes
+- Close with a routing packet
+
 ## Inputs to gather first
 
 Gather these before searching:

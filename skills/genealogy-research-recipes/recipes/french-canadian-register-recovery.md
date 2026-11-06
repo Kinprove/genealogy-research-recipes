@@ -9,6 +9,16 @@ use the catalogue's recipe on name searches across scripts and OCR
 identity rulings to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md)
 and FamilySearch Catalog/film navigation to [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
 
+## Contents
+
+- Do not call the person absent until the name forms are exhausted
+- Join variants through documented ties, starting with the sacramental entries
+- Read a combined register as one chronological book
+- Use the second copy when the parish copy fails
+- Search the post's own register first, then Notre-Dame de Montréal
+- Find marriage contracts and estate acts by notary
+- Close with a register packet
+
 ## Do not call the person absent until the name forms are exhausted
 
 A miss under the name the family used is not a finding. Before reporting absence, re-run each

@@ -6,6 +6,17 @@ Use this recipe when a metrical entry, family story, directory or medical list g
 
 Related recipes cover overlapping steps. For decoding each directory edition from its own key and for recording which editions and sections you covered, use [city-directory observation workflow](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md). For AI reading of Russian civil-service files, including the seniority-date trap, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md). For checking folio ranges and what you actually read in a long file, use [archival image coverage verification](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md). Identity rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For later WWI or Soviet-era records of the same person, use [Russian military and repression record episodes](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md).
 
+## Contents
+
+- 1\. Turn the post as written into an employing institution
+- 2\. Search the employer's fond, the fonds of personnel-holding bodies and later employers
+- 3\. Choose the right folios inside a combined staff-list file
+- 4\. Extract the service list as career data and as a family source
+- 5\. Add dated observations from professional lists and calendars
+- 6\. A family-story "аптекарь": keep two hypotheses
+- 7\. Candidates and gaps
+- Output: career-observation table
+
 ## 1. Turn the post as written into an employing institution
 
 - Copy the post exactly as the record gives it, with its locality, for example пристав 3-го стана Красноуфимского уезда or полицейский надзиратель Сысертского завода. Metrical entries often name a father only by his post and rank, or say he has no rank (не имеющий чина). [S3]
