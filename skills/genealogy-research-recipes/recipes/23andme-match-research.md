@@ -207,7 +207,7 @@ permission is unclear, or the matrix cannot be used with handles, keep it in the
    they are not chromosome start/end coordinates.
 3. Open the file in a spreadsheet. Check the row and column identities and a few displayed
    pair values against the account before using it to infer close relationships.
-4. Only after that checkpoint: the February 2026 DNA Painter account describes pasting this
+4. Only after the privacy checkpoint above: the February 2026 DNA Painter account describes pasting this
    CSV into a matrix through its **Load** menu. Verify that route in the current tool, then check imported labels and
    pair values. [S2]
 5. Treat the controls separately: minimum/maximum sharing with you, minimum sharing between
@@ -270,8 +270,10 @@ Retain the original copied table alongside any reshaped import file.
 data, and a comparison between two other profiles holds both of theirs. Before pasting it into DNA
 Painter, make the separate privacy decision in `SKILL.md` step 5 for each person in the table:
 record the destination map and who can see it, and require explicit permission covering this
-action and destination. Being permitted to view a comparison does not establish that permission.
-If it is unclear, keep the rows in the local worksheet.
+action and destination. Label each person with a local handle in the map, as
+[AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline) requires. Being
+permitted to view a comparison does not establish that permission. If it is unclear, keep the
+rows in the local worksheet.
 
 For a single match, DNA Painter's current help describes pasting the numerical comparison
 table into **Paint a new match**. Preview it before saving: confirm the intended partner,
@@ -572,10 +574,11 @@ current eligibility rather than copying the tutorial's beta-enrollment requireme
 1. Save the ancestor label, displayed reconstructed amount/completeness, available ancestry
    view and listed contributing relatives before changing the tree.
 2. Verify the identity and descent of a useful DNA Relative. Check their current placement
-   and relevant alternate paths before adding or correcting their position. Also check who
-   can see the Family Tree and its placements under the current settings; if anyone besides
-   the account holder can, make the separate privacy decision in `SKILL.md` step 5 before
-   placing the relative. Attach the actual DNA Relative to the right tree person; merely typing an ancestor's name supplies
+   and relevant alternate paths before adding or correcting their position.
+   **Privacy checkpoint:** check who can see the Family Tree and its placements under the
+   current settings; if anyone besides the account holder can, make the separate privacy
+   decision in `SKILL.md` step 5 before placing the relative. Attach the actual DNA Relative
+   to the right tree person; merely typing an ancestor's name supplies
    no additional tested DNA. [S12]
 3. Revisit the profile after the tool updates. Save the date, placed relative and changed
    output. The vendor says additional placed relatives can make a profile more complete;

@@ -320,7 +320,7 @@ paths and selecting relatives; `unknown-parentage-wato.md` for placement hypothe
 `evidence-proof-judgment.md` for documentary identity and conclusions. Pass the preserved
 run records with those requests.
 
-**Privacy checkpoint before painting:** the measurements carry other testers' segment data. Before
+**Privacy checkpoint before painting:** The measurements carry other testers' segment data. Before
 passing them to DNA Painter, make the separate privacy decision in `SKILL.md` step 5: require
 explicit permission covering this action, this destination and each person's data, and strip
 identifiers the map does not need, as

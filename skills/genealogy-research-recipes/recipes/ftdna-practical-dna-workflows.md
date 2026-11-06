@@ -151,8 +151,8 @@ segment file. Do not join a held-out person until both conditions hold.
 
 **Privacy checkpoint before connecting a tree or linking a match:** A link ties a tester's DNA
 result to a person in the tree, and the tree's settings decide who else can see that person and
-relationship. Before connecting, switching or relinking a tree, make the separate privacy decision
-in `SKILL.md` step 5: record each match and tree person involved, inspect the current tree and
+relationship. Before connecting or switching a tree, or linking or relinking a match, make the
+separate privacy decision in `SKILL.md` step 5: record each match and tree person involved, inspect the current tree and
 profile visibility settings, and require explicit permission covering each link from the kit
 holder and from the linked tester. Account access does not establish it. If permission or
 visibility is unclear, keep the ledger rows local and leave the current link unchanged. Apply the

@@ -35,7 +35,8 @@ measured sharing, inheritance-path eligibility and relationship conclusions.
    and the test information. [S2, S3] **Privacy checkpoint:** edit permission is not the
    privacy decision. A registered test feeds DNA Connections lists on related profiles, and a
    GEDmatch kit ID links GEDmatch results to the WikiTree pedigree. Before saving any test,
-   identifier or kit ID, make the separate privacy decision in `SKILL.md` step 5: record the
+   identifier, kit ID or the FamilyTreeDNA WikiTree setting in section 2, make the separate
+   privacy decision in `SKILL.md` step 5: record the
    tester, the values to be entered and who can see the affected profiles under their current
    privacy settings, and require the tester's explicit permission for these links. If it is
    unclear, keep the details in the private register and save nothing. Apply the consent rules

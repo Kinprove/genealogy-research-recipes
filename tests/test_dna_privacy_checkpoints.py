@@ -10,7 +10,8 @@ MARKER = "`SKILL.md` step 5"
 PRIVACY_LINK = "ai-for-dna-research.md#verification--privacy-discipline"
 HEADING = re.compile(r"^#{1,6} (.*)$", re.MULTILINE)
 
-# (recipe, exact text of an action that moves genetic or match data outside the account)
+# (recipe, text of an action that moves genetic or match data outside the account;
+# case, line breaks and indentation are ignored)
 ACTIONS = [
     ("23andme-match-research.md", "pasting this CSV into a matrix through its **Load** menu"),
     ("23andme-match-research.md", "pasting the numerical comparison table into **Paint a new match**"),
@@ -49,9 +50,7 @@ def fold(text):
 
 def sections(text):
     """Split the text before every heading line (`#` to `######`)."""
-    lines = text.splitlines()
-    starts = [0] + [index for index, line in enumerate(lines) if HEADING.match(line)]
-    return ["\n".join(lines[start:end]) for start, end in zip(starts, starts[1:] + [len(lines)])]
+    return re.split(r"^(?=#{1,6} )", text, flags=re.MULTILINE)
 
 
 def text_before_action(text, action):
@@ -65,7 +64,7 @@ def text_before_action(text, action):
     count = fold(text).count(needle)
     if count != 1:
         raise AssertionError(f"expected the action exactly once, found {count}: {action!r}")
-    section = next(fold(part) for part in sections(text) if needle in fold(part))
+    section = next(part for part in map(fold, sections(text)) if needle in part)
     return section[: section.index(needle)]
 
 
