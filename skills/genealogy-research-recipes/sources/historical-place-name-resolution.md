@@ -45,7 +45,6 @@
 - **S43:** FamilySearch, [Heritage Travel Hacks for a Meaningful Family Holiday](https://www.youtube.com/watch?v=HD01BGPMoK4), 2026-10-23. Used: a Penmark (Glamorgan) parish burial entry whose abode column reads *Cwm* instead of the parish name; asking local church members to identify the place.
 - **S44:** A Vision of Britain through Time (GB Historical GIS / University of Portsmouth), [History of Cwm, in The Vale of Glamorgan](https://www.visionofbritain.org.uk/place/23266), opened 2026-11-06 (read from the search result). Used for: Wilson's *Imperial Gazetteer of England and Wales* (1870–72) describing Cwm as a village in Penmark parish.
 - **S45:** UK Genealogy Archives, [Penmark, Glamorgan](https://ukga.org/index.php?pageid=16829), opened 2026-11-06. Used for: the *Comprehensive Gazetteer of England & Wales* (1894–5) listing Cwm among the villages of Penmark parish.
-- **S46:** British Listed Buildings, [Listed buildings in Rhoose, Vale of Glamorgan](https://britishlistedbuildings.co.uk/wales/rhoose-vale-of-glamorgan), opened 2026-11-06. Used for: Cwm-cidy Farm as a present-day named place.
 
 **How the procedure was built.** The procedure is authored synthesis that combines these presenters' case examples and forum participants' worked threads. The synthesis includes:
 
@@ -54,7 +53,7 @@
 - keeping both sides of a boundary as candidate jurisdictions
 - the candidate-table columns
 
-S31–S42 supply the dated facts, the editions and the suffix examples for the Russian-Empire, Soviet and Galician checks in §2–§4. S44–S46 supply the gazetteer and present-day evidence for the Welsh *Cwm* example in §5.
+S31–S42 supply the dated facts, the editions and the suffix examples for the Russian-Empire, Soviet and Galician checks in §2–§4. S44–S45 supply the gazetteer evidence for the Welsh *Cwm* example in §5.
 
 **What holds generally.** Three patterns recur across independent presenters and are confirmed by checked cases (Edison/South Tacoma, Neuse Crossroads, Small/Fremont→Clark County):
 

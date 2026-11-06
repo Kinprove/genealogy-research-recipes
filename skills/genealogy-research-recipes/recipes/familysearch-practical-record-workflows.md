@@ -419,8 +419,9 @@ Before any write, check which tree holds the profile. An uploaded GEDCOM becomes
 tree whose people have their own person IDs; editing them does not change the shared Family Tree
 [S78]. Open the person in the uploaded tree and in the shared Family Tree, for example in two tabs,
 and compare the IDs. A different ID means a separate copy that changes only that tree. The shared
-Family Tree's ID means the public profile that anyone can edit. Do not claim an edit is private
-until the IDs show it. Living people in a family group tree are separate records from your own
+Family Tree's ID means the edit changes the shared tree. Person IDs distinguish records, not
+visibility: check the selected tree, its privacy settings and the person's living or confidential
+status before describing an edit as private. Living people in a family group tree are separate records from your own
 private copies, and the two cannot be merged [S81]. [S77]
 
 A family group tree does not shield deceased ancestors. Deceased people in it are the public
@@ -428,7 +429,8 @@ Tree's profiles, so any user can edit them and those edits show in the group tre
 ancestor cannot be moved into group-only view. The exception is confidential people copied from
 your private list, who are visible only to the group [S82]. What the group adds is shared access
 to living people: every member can see and edit living relatives that other members add, and
-their stories, photos and recordings stay within the group [S82], [S83]. Do not use a group tree
+their stories, photos and recordings can be restricted to the group by setting each Memory
+to Private and selecting that group [S82], [S83]. Do not use a group tree
 to protect research from outside edits. [S77]
 
 **Artifact:** An attachment checklist: record/image URL, named person, documentary role, Tree PID, attachment and reason.

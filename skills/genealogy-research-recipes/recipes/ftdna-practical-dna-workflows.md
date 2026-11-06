@@ -79,8 +79,9 @@ show no haplogroup to matches, and female testers have no Y label: record those 
 depth is not a conflict until both labels have been put into Discover's **Compare** and recorded
 as in [workflow 8](#8-preserve-the-inputs-and-reference-in-a-two-label-comparison). If they fall
 in the same lineage, keep the man as a candidate for Y-DNA testing or for shared-match and
-triangulation work. Only a different major haplogroup rules him out as a direct paternal-line
-candidate; he can still be an autosomal relative. [S24, S26, S27, S28]
+triangulation work. Reliable, incompatible SNP-defined lineages rule him out as a recent direct
+paternal-line candidate, even within one major haplogroup; he can still be an autosomal relative.
+Different upstream and downstream labels alone do not establish incompatibility. [S24, S26, S27, S28]
 
 Read a match's ancestral surname list as self-reported. Its order carries no fixed meaning: a list may run by generation, alphabetically or in order of appearance, and a [2020 FamilyTreeDNA walkthrough](https://dna-explained.com/?p=31186) shows surnames shared with the viewer moved to the top in bold. Do not infer side, generation or line from a surname's position. To reconstruct the tree of a match without a usable tree, search compiled trees for combinations of the listed surnames and any most distant paternal and maternal ancestors named on the profile. Record a couple found this way as `candidate couple` until descendancy research accounts for the other listed surnames; list any surname it leaves unexplained. A [2024 case-study article](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds) motivates this check. [S20, S21]
 

@@ -157,12 +157,13 @@ about the former and current operators as a business-occupancy lead. Correlate d
 assigning the person's residence or departure. The [successor-notice example](https://familylocket.com/eleven-newspaper-notices-how-hotel-ads-and-sheriffs-sales-helped-prove-thomas-beverly-roystons-parentage/)
 supports this retrieval pivot; one later advertisement supplies no exact move or ownership date.
 
-Date every letter-list entry and read it as the post office where the person expected mail on
-that date. A pickup office can sit in another county or state than the residence, so search the
+Date every letter-list entry and record the office holding the unclaimed mail; it suggests an
+intended destination or travel stop, not a residence. A pickup office can sit in another county or state than the residence, so search the
 residence records of every county that office served, including across the border. A dated
 series of offices can frame a migration before residence records show it; a new pickup office
-supports a move hypothesis, not a move date. The same case shows a December 1841 entry at
-Columbus, Georgia, for a man about to settle in Chambers County, Alabama. Columbus is across the
+supports a move hypothesis, not a move date. In the same case, a December 1841 entry at
+Columbus, Georgia, prompted the hypothesis that the man meant to collect mail there while moving
+to Chambers County, Alabama. Columbus is across the
 Chattahoochee and not on Chambers County's border. One case does not show how often pickup
 offices crossed borders. (S7, S52, S53, H3)
 
