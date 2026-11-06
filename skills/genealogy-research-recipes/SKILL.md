@@ -212,7 +212,8 @@ today's date. Do not check for a newer version over the network yourself.
 
 - **`recipes/familysearch-practical-record-workflows.md`** — Nineteen FamilySearch operations:
   recover Catalog/DGS holdings and image-only records, preserve view-scoped citations,
-  refine Full Text/Simple Search, clean up Source Linker attachments and same-name Tree repairs,
+  refine Full Text/Simple Search, recover page references hidden in an assertion’s reason,
+  clean up Source Linker attachments and same-name Tree repairs,
   share research reports with checked visibility and reader access, recover a missing Memory
   from an independent copy and record a supported relationship without inventing a parent.
   *Use for:* FamilySearch howtos, Catalog/film/DGS crosswalks, unindexed images, Full Text
@@ -503,7 +504,7 @@ and treat its guardrail as a hard limit on your own output.
 - **`recipes/german-register-image-recovery.md`** — Trace an emigrant's German place name to its church or civil register entry through the locality, record offices and register version; retain distinct named sponsor and proxy roles. *Guardrail:* do not take the first same-named town, assume it kept its own records, or cite a derivative as the original.
 - **`recipes/german-emigrant-origin-sources.md`** — Trace a German emigrant's home town through emigration files, indexes and the origin parish register. *Guardrail:* a miss in permission files or a regional index does not prove that the person did not come from that state; confirm every hit in the original register.
 - **`recipes/german-local-census-registration-recovery.md`** — Recover German nominal census lists (roughly 1816–1916), residential-registration entries and associated settlement or trade-permission files. *Guardrail:* "we have no census" is not proof of absence, statistical tables are not the record, and a stated origin town is not the birthplace. Request associated files separately; a residence occupation does not establish municipal employment.
-- **`recipes/german-military-record-period-routing.md`** — Route a German soldier to the series that survive for his period, army and rank class. *Guardrail:* a canton, gazette notice or casualty-list line is a lead, never a birthplace, death date or identity.
+- **`recipes/german-military-record-period-routing.md`** — Route a German soldier to the series that survive for his period, army and rank class; recover dated hospital-book episodes when personnel files are missing. *Guardrail:* a canton, gazette notice or casualty-list line is a lead, never a birthplace, death date or identity.
 - **`recipes/german-official-gazette-notice-search.md`** — Read German gazette personnel, expulsion and expatriation notices as dated acts by a named authority. *Guardrail:* a notice does not show residence in the district, prove a departure or confirm identity.
 - **`recipes/german-compensation-file-recovery.md`** — Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it. *Guardrail:* a hit does not show who filed, which relatives the file names or that the indexed person is yours, and a no-hit does not mean no file mentions a relative.
 

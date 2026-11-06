@@ -78,6 +78,8 @@
 - **S74:** RootsMagic, *FamilySearch Central* (RootsMagic 9 help), opened 2026-11-04 — [source](https://help.rootsmagic.com/RM9/familysearch-central.html). Used for: the Import button importing a tree from FamilySearch directly into a RootsMagic database, and AutoMatch matching people in the file to FamilySearch.
 - **S75:** Ancestral Quest, *FamilySearch features* and *AQ and FamilySearch overview*, opened 2026-11-04 — [source](https://ancquest.com/FamSrchFeats.htm), [overview](https://ancquest.com/aqfsoverview.htm). Used for: Get Ancestors importing ancestral lines from the Family Tree into a local file, import of individuals and families, and individual and group matching with the Family Tree.
 
+- **S76:** GENEALOGIA PARA INICIANTES, *INFORMAÇÕES DESPERCEBIDAS NO CADASTRO DO ANCESTRAL NO FAMILYSEARCH*, published 2023-11-13 — [source](https://www.youtube.com/watch?v=Uujh5lL2krI). Used for: inspecting a vital assertion’s contributor reason for overlooked census/book page references, then retrieving the cited page; no current control label or profile fact is adopted.
+
 ### Source qualifications
 
 - S01's camera indicates the image viewer; its paper/star icon identifies Full Text in the

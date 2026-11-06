@@ -45,6 +45,13 @@ closed to the general public and is not a self-service personal key: beta and pr
 a compatibility review and signed agreements, and apps that simply copy data out of FamilySearch may not be approved
 [S72], [S73].
 
+When a vital assertion lacks expected support in the profile’s ordinary source list, inspect the
+contributor’s reason or explanation for that assertion. If that text is collapsed and an
+expansion control is available, reveal it. Record any cited book title and page or census year
+with the profile/assertion and available contributor/date context. Treat each reference as a
+retrieval lead: obtain and inspect the cited page before using its statement, and keep unread or
+unavailable pages unresolved. This check does not require changing the profile. [S76]
+
 ## Nineteen workflows
 
 ### 1. Resolve the event's historical jurisdiction

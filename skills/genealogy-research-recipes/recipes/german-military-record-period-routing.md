@@ -14,11 +14,12 @@ Record three things, each with the document that supports it:
 
 A retired officer who died before or during the First World War belongs in the Imperial-officer route [S1]. If he could have been alive in August 1914, also open a casualty-list row until service evidence settles whether he was reactivated. If the period or rank class is uncertain, open one row for each possibility. Do not pick one.
 
-**Scope of this recipe.** The routes below cover five combinations:
+**Scope of this recipe.** The routes below cover six combinations:
 
 - Old-Prussian enlisted men and NCOs
 - Imperial Prussian officers, active or retired
 - First World War casualty-list and memorial entries
+- First World War hospital-book episodes where the selected holding confirms coverage
 - Wehrmacht soldiers
 - Old-Prussian military church books for all ranks
 
@@ -71,6 +72,35 @@ Do not reuse the Prussian loss findings for those armies. Give each such man a r
 - A one-year difference in birth year, or a mismatch between birthplace and residence, ranks a candidate lower but never excludes it. Record the wounding and the death as separate episodes ([episode discipline](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md)).
 - Write the result as an inference ("probably the same man; no namesake found in [books searched] for [years]"). The same thread shows family books disagreeing with each other and with the registers on names and dates, so record which ones you checked [S3]. Leave the identity ruling to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+### When a First World War personnel file is missing: seek a hospital-book episode
+
+A lost personnel file need not end a service inquiry. The 2022 Bundesarchiv presentation
+describes surviving Krankenbuchlager material and *Lazarettbücher* that can document
+particular hospital stays [S8]. Select this route for the period and holding actually
+confirmed by the custodian; it does not extend the Prussian loss findings to other armies.
+
+1. Give the archive the independently supported name, birth details and any hospital,
+   unit or date clues you have. Ask which surviving hospital book or associated finding
+   reference could cover that episode, who now holds it and what the current request
+   terms require. Preserve the reply and book/entry reference separately from the
+   missing personnel-file result.
+2. Request the identified entry. The presentation describes collective pages containing
+   several patients, with scans sometimes masking other people's entries [S8]. Ask for
+   the relevant entry under the custodian's reproduction conditions; a collective page
+   is not automatically available in full.
+3. Extract the fields actually present: identity or identification-tag detail, incoming
+   unit, admission date, hospital, diagnoses, named relatives and discharge or transfer
+   destination. Keep a return-to-duty entry and its named unit as a separate dated
+   observation. The presentation describes these possible fields, not a standard form
+   or a promise that every entry contains them [S8].
+4. Use an actual transfer, hospital or unit reference to select the next record to ask
+   about. Compare the person across the linked entries before joining the episodes;
+   preserve conflicting dates and unresolved names. A relative named in the book is
+   a recorded relationship claim to test, not an identity ruling.
+5. Return the book/entry locator, inspected extract, dated admission/discharge/transfer
+   observations and remaining gaps. A hospital stay establishes only the episode the
+   record documents, not continuous service or a complete military history.
+
 ## 5. Wehrmacht: personnel and loss documents first, then unit records
 
 - **Request the man's documents from the Bundesarchiv.** The WASt (Deutsche Dienststelle) holdings became part of the Bundesarchiv on 1 January 2019, initially as department PA. Send the request to the Bundesarchiv, addressed to the department its current guidance names for pre-1945 military personnel records. These records give personal details, including unit information. A participant advised asking for them because they may also give the birthplace, division and regiment [S4]. Log this request on its own. It is not the same as a Volksbund query.
@@ -90,3 +120,4 @@ Do not reuse the Prussian loss findings for those armies. Give each such man a r
 4. **Death window:** earliest bound (leaving the army), the last address-book listing and the first inspected absence, any latest bound with the dated death or widowhood evidence behind it, and the newspapers and registers searched, with each register's place of death and access status.
 5. **Casualty-list identity notes:** the namesake search (books, indexes, years), any script or language confusion considered, and the inference as worded.
 6. **WWII leads:** Bundesarchiv request log (department addressed and date), Volksbund query and reply status, regiment and division, and NARA unit-record leads (microfilm series and unit). Keep these separate from personal documents.
+7. **Hospital episodes:** custodian reply and current request terms, hospital-book and entry references, inspected or restricted reproduction, actual admission/discharge/unit/transfer fields, and unresolved links between episodes.
