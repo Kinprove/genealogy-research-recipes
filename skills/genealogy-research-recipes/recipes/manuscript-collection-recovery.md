@@ -100,7 +100,7 @@ A catalogue hit tells you that a collection exists and who holds it. It does not
 - related or digital links;
 - whether the holding is the original or a copy [S6], [S7], [S8], [S15], [S24].
 
-Do not assume a personal name in a collection title is the creator or donor. A collection can be titled for its subject: DACS rule 2.3.23 gives the example of a collection on Isadora Duncan that she did not collect. Take the named person's role from the finding aid's creator, acquisition and scope notes. Either way, the title does not index the people inside. The presenter in [S3] shows the Miriam Matthews collection of Los Angeles newspapers on African Americans at UCLA, where the description shows that she assembled and donated it.
+Do not assume a personal name in a collection title is the creator or donor. A collection can be titled for its subject: DACS rule 2.3.23 gives the example of a collection on Isadora Duncan that she did not collect [S34]. Take the named person's role from the finding aid's creator, acquisition and scope notes. Either way, the title does not index the people inside. The presenter in [S3] shows the Miriam Matthews collection of Los Angeles newspapers on African Americans at UCLA, where the description shows that she assembled and donated it.
 
 Watch for copies held elsewhere. The University of Utah holds the original George S. Tanner papers, 21.25 linear feet. The presenter in [S15] worked from a copy set at Northern Arizona University. Record the original holder separately from any copy holder, and take each holder's extent from its own current description.
 
