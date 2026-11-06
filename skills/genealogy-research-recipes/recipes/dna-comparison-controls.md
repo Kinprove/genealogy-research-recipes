@@ -89,6 +89,22 @@ occur despite X sharing. These are documented tool behaviors, checked 2026-10-18
 recheck the actual service rather than extending them to every raw-file generation
 or future interface. [H5, H6]
 
+How five services report X-DNA, checked 2026-11-06. Use it to decide whether an absent X
+match is an observation and whether a vendor total must have X removed before it is
+combined with another service's autosomal total.
+
+| Service and view | What it reports about X | X in the main shared total? |
+| --- | --- | --- |
+| 23andMe DNA Relatives | Compares autosomes and X; an X segment counts among shared segments (a male shares 23 segments with his mother) | Help does not say whether the percentage includes X |
+| FamilyTreeDNA Family Finder | X Match column, only for matches that meet the autosomal minimum | No: X cM do not count toward overall shared cM |
+| GEDmatch One-to-Many and One-to-One X | One-to-Many "(X-DNA) Total cM" and "(X-DNA) Largest" columns; a separate One-to-One X tool | Reported in separate columns; help does not say outright that the autosomal total leaves X out |
+| AncestryDNA | No X match data; its 2025 matching white paper describes matching steps on the autosomes only | Not applicable |
+| MyHeritage | Matching uses autosomal DNA; the chromosome browser does not show X | Not applicable |
+
+A service that shows no X has not tested the raw file's X markers; check the file
+itself before treating X as unavailable. Recheck a row before relying on it.
+[H23–H28, H6]
+
 A result below a reporting floor need not appear. The smallest match in an old
 export does not establish the service's current admission rule. Differences in
 marker coverage, maps, phasing, imputation, joining and filters offer possible
