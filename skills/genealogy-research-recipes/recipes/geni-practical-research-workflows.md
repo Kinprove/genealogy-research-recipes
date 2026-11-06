@@ -186,11 +186,12 @@ family-structure review are recorded as separate outcomes.
    **view**. Inspect both profiles and their immediate families as shown at the merge. From that
    page, use **View revision history** for the profile merged into the primary one; its older
    history is not all visible on the combined profile's ordinary revision list. [H14]
-5. Prepare a curator request containing the merge event, profile URLs, the demonstrated mismatch,
+5. If the merge is still pending, undo it in the Merge Center; no curator is needed. Otherwise
+   prepare a curator request containing the merge event, profile URLs, the demonstrated mismatch,
    source locators and the intended separation. Geni documents curator assistance to undo a bad
    merge through its linked assistance discussion. Keep private details out of a public request.
-   After the curator acts, recheck family links and fields and record any remaining conflicts. A
-   merge that is still pending needs no curator: undo it in the Merge Center. [H15, H21]
+   After the curator acts, recheck family links and fields and record any remaining conflicts.
+   [H15, H21]
 
 **Artifact schema:** `conflicted_profile_url, conflict_type, implicated_profile_urls, merge_event,
 evidence_for_each_link, proposed_action, curator_request_status, post_action_family_check,

@@ -186,21 +186,21 @@ death there, and no particular child's household has automatic priority.
 
 Search recorded alternatives, initials and abbreviations; then use a pattern
 such as `Niels?n` or `Greenbla*`. Keep a stable fragment and test one uncertain
-part at a time. Ancestry's help pages say that wildcards do not work in combination
-with Soundex, so run a wildcard search without Soundex. Separately, a Soundex code
-always begins with the name's first letter, so an incorrect initial also defeats a
-Soundex search. Use an alternative spelling or a name-free recovery instead of
-repeating it.
+part at a time. Ancestry's help pages say wildcards do not work with Soundex, so run
+a wildcard search without Soundex. A Soundex code always begins with the name's first
+letter, so a wrong initial defeats a Soundex search; then try an alternative spelling
+or a name-free recovery instead of repeating that search.
 
-Current Ancestry help pages state different wildcard limits.
-[Getting Started, Lesson 5](https://help.ancestry.co.uk/hc/en-gb/articles/53933301322899-Getting-Started-Lesson-5-Search-Tips)
-requires at least three non-wildcard letters and a letter as the first or last
-character, and lets `*` stand for zero to five letters.
-[Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips)
-allows `?` and `*` anywhere with at least one letter and says `*` replaces one or
-more letters. Both say `?` stands for one letter. A pattern with at least three
-literal letters that begins or ends with a letter, like the two above, satisfies
-both. Do not infer a universal short-pattern rule or require an Exact checkbox from
+Current Ancestry help pages state different wildcard limits:
+
+- [Getting Started, Lesson 5](https://help.ancestry.co.uk/hc/en-gb/articles/53933301322899-Getting-Started-Lesson-5-Search-Tips):
+  at least three non-wildcard letters, a letter as the first or last character, and `*`
+  for zero to five letters.
+- [Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips):
+  `?` and `*` anywhere, at least one letter, and `*` for one or more letters.
+
+Both say `?` stands for one letter. A pattern with at least three non-wildcard letters
+that begins or ends with a letter, like the two above, satisfies both. Do not infer a universal short-pattern rule or require an Exact checkbox from
 an old tutorial; check the current field's instructions when a pattern is rejected.
 See also [Spelling Variations](https://help.ancestry.com/hc/en-us/articles/53933306665107-Searching-with-Spelling-Variations)
 and [Searching with Soundex](https://help.ancestry.com/hc/en-us/articles/53933287988883-Searching-with-Soundex).
@@ -220,10 +220,10 @@ Once the image shows a mistranscription, the user can add the correct reading: t
 record page's three-dot menu has **Add or update information**, which adds it as
 searchable alternate information and leaves the original index unchanged
 ([Correcting a Record](https://help.ancestry.com/hc/en-us/articles/53933317670547-Correcting-a-Record)).
-The same mechanism explains some hits: a record can be found only through another
-user's alternate, which a [2019 account](https://lisalouisecooke.com/2019/03/28/ancestry-indexing-mistake/)
-shows beside the original indexed name rather than in place of it. Cite the image's
-own wording, not the alternate.
+The same mechanism explains some hits: a record may match only through alternate
+information another user added. A [2019 account](https://lisalouisecooke.com/2019/03/28/ancestry-indexing-mistake/)
+shows it beside the original indexed name, not in place of it. Cite the image's own
+wording, not the alternate.
 
 For births, search the parent fields alone, including a mother's-maiden-name field where the
 birth index offers one; some early registers omit the child's name, so a search by the child's

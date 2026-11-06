@@ -164,7 +164,7 @@ Set place and publication-date limits separately. (S9, H7, H8, H9)
 | 9 | You need an overlooked connection to a place. | Search `"letter list"` in a plausible locality and interval, then read the listed names, including initials and women. Browse such lists when the person's name fails OCR. (S7) | An unclaimed letter can suggest an intended destination or travel stop. It does not establish residence; shared surnames do not establish kinship. |
 | 10 | The hometown paper fails or an immigrant's name is distorted. | Search neighboring towns, regional papers and former residences. Include ethnic-language papers serving the community, even when published outside its city; try attested native-language name forms. (S3, S6) | Separate publication place from event place. Inspect the actual foreign-language name and origin statement rather than assuming an English rendering preserved them. |
 | 11 | One article suggests a longer story. | Search subsequent months for court proceedings, settlement or verdict; revisit former residences for a death mention. Reuse newly recovered witnesses, addresses and institutions as search clues. (S2, S3) | Record each article's publication date and reported event date separately. Do not turn the first report or filing into the final outcome. |
-| 12 | Keywords still fail despite an available likely issue. | Switch retrieval mode: browse its pages directly. For an obituary, marriage or birth item, also search the matching index: choose it in the Categories drop-down under the Keyword box on Newspapers.com or, for an obituary or marriage, search the Newspapers.com index on Ancestry; follow any candidate to the image. (S6, S10, H13, H14) | The index is another access path, not independent corroboration. A category search reaches only items placed in that index, so a miss there needs the same search without the category. Check the full notice and its boundaries; inspect missing or inaccessible pages separately. |
+| 12 | Keywords still fail despite an available likely issue. | Switch retrieval mode: browse its pages directly. For an obituary, marriage or birth item, also search the matching index. On Newspapers.com, choose the event type in the Categories drop-down under the Keyword box. For an obituary or marriage, the Newspapers.com index on Ancestry is a second route. Follow any candidate to the image. (S6, S10, H13, H14) | The index is another access path, not independent corroboration. A category search reaches only items placed in that index, so a miss there needs the same search without the category. Check the full notice and its boundaries; inspect missing or inaccessible pages separately. |
 
 When a notice dates an event relative to another date, such as 'issued yesterday' or 'last
 Wednesday', retain the literal wording and its anchor before deriving a date. The demonstrated
@@ -344,13 +344,13 @@ Use precise result labels:
   Do not broaden this to “no newspaper record exists.”
 - **Coverage gap:** identify the absent issue, edition or page and the next holding to check.
 - **Access blocked:** identify material that exists but could not be inspected.
-- **Publisher Extra required:** a special case of access blocked, when a hit is listed but its
-  page needs a Publisher Extra subscription, which adds the papers still under copyright
-  ("typically 1931 and newer", per the plans page); Basic does not include them. The hit
-  shows that the issue exists and that its OCR matched the query, so it is not a coverage
-  gap and not a no-match. Record the tier you searched with: Ancestry's current All Access
-  offer names Publisher Extra, but its 2024 wording named Basic, so check the account
-  rather than assume. (H11, H12)
+- **Publisher Extra required:** a kind of access blocked. Use it when a hit is listed but its
+  page needs a Publisher Extra subscription. Publisher Extra adds the papers still under
+  copyright ("typically 1931 and newer", per the plans page); Basic does not include them.
+  Such a hit shows that the issue exists and that its OCR matched the query, so it is neither
+  a coverage gap nor a no match in examined scope. Record the subscription tier you searched
+  with: Ancestry's current All Access offer names Publisher Extra, but its 2024 wording named
+  Basic, so check the account rather than assume. (H11, H12)
 
 ### Optional handoff from a religious-life notice
 

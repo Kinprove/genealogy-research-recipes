@@ -163,7 +163,7 @@ verified here; use the procedure to check the actual case rather than copy its e
   Google digitised most HathiTrust content, so check Google Books for a locked item, as the presenter does [S7]. Google Books also decides what a reader may view from the reader's country and IP address [S33].
 - **A FamilySearch access-restriction message** (such as "not authorized to view") means the book is restricted, not missing. FamilySearch gives each book one of three access levels, shown in its search result and in the Access Level filter [S34]:
   - **Available Online:** searched and viewed online; it can be downloaded and printed [S35].
-  - **Protected (search only):** searched online, generally not viewable. One current help article says it cannot be viewed; another says it can be viewed but not printed or downloaded [S34], [S35]. Promise no viewing.
+  - **Protected (search only):** searched online, generally not viewable. One current help article says it cannot be viewed; another says it can be viewed but not printed or downloaded [S34], [S35]. Do not tell the user they can view it.
   - **Viewable in Library:** searched online and viewed only on site ("from a Family Search Center or Library", in the help's words), without printing or downloading [S34], [S35].
 
   Affiliate libraries do not get restricted Books images [S36]. Read the level on the book's search result and confirm that book's access with FamilySearch or the center before you plan a visit. The presenter adds that a "not authorized to view" message can also mean the book's limit on simultaneous viewers has been reached [S6]. Record the exact restriction message you saw.

@@ -199,14 +199,13 @@ confirmed the right series. A matching title alone does not establish the right 
 
 **Trigger:** An image is blocked at home, a restriction symbol appears, or Download is disabled.
 
-1. Save the exact message shown when the image opens, and the film/DGS/item; distinguish blocked viewing from disabled downloading. The messages and their access classes are listed after these steps.
+1. Save the exact image message (the one shown when the image opens) and the film/DGS/item; distinguish blocked viewing from disabled downloading. The image messages and their access classes are listed after these steps.
 2. Inspect Catalog notes and availability information for the authorized route.
 3. Confirm that route for the specific item before arranging a library or center visit.
 4. Reopen that same item through the permitted route and record the actual outcome.
 5. If viewing works but downloading is disabled, inspect and transcribe the displayed record and preserve its citation.
 
-The message shown when the image is opened states its access class. FamilySearch's Help Center
-lists these [S86]:
+FamilySearch's Help Center lists these image messages and their access classes [S86]:
 
 - **"Images Available", at a FamilySearch center or an affiliate library:** sign in at either.
 - **"Images Available", at a FamilySearch center only:** an affiliate library will not show the image.
@@ -215,10 +214,9 @@ lists these [S86]:
   record's creator or custodian or privacy law; ask the custodian.
 - **"Image Unavailable":** usually temporary, while permissions are updated; retry later.
 
-Copy the opened message word for word into the access packet. The Catalog's restricted icon (a camera
-with an alert sign; older pages describe a key) and its hover text only flag a restriction [S87]; plan a
-visit from the opened message, not from the icon. Before a trip to an affiliate library, check that the
-message names affiliate libraries: by contract, FamilySearch cannot share every image with them [S88].
+The Catalog's restricted icon (a camera with an alert sign; older pages describe a key) and its hover
+text only flag a restriction [S87]; plan a visit from the image message, not from the icon. Before a
+trip to an affiliate library, check that the image message names affiliate libraries: by contract, FamilySearch cannot share every image with them [S88].
 
 If the Catalog entry offers a WorldCat link for other copy locations, follow it and retain
 the matching title, creator, edition/volume and listed institutions as retrieval leads.
@@ -376,10 +374,8 @@ cited image. It does not say how those pages were found or how common such filmi
 4. Save exact queries, filters, groups and a dated coverage observation.
 5. Set a revisit date and rerun the saved searches when material may have been added or processed.
 
-Full Text covers only part of FamilySearch's image collections, and more are added over time; no complete
-coverage list is published. Check a collection with the tool's Find a Collection field or Browse all
-collections option [S89], [S90]. A Full Text zero describes that coverage and its AI transcripts, not the
-records.
+Full Text covers only part of FamilySearch's image collections, and more are added over time. For step 1,
+use the tool's Find a Collection field or Browse all collections option [S89], [S90].
 
 Where Full Text offers an option to include limited-access content, record its displayed
 label and state with the query. The [July 2026 demonstration](https://www.youtube.com/watch?v=gX-d5Szg9XY)
@@ -440,10 +436,10 @@ the current controls.
 
 Never set Deceased, a birth year or another required field without evidence just to make an add or
 attach succeed. A profile marked deceased normally becomes public in the shared Tree, where any user
-can see and edit it [S64], [S65]. Setting it back to living is in the user's own hands only if the
-user created the record and no one else has contributed: then Edit → Living → Save makes it private
-again. Otherwise Save opens a request form; the user enters an explanation and submits it, and a
-FamilySearch system administrator reviews the request [S85].
+can see and edit it [S64], [S65]. The user can set it back to living only if they created the record
+and no one else has contributed: Edit → Living → Save makes it private again. Otherwise Save opens a
+request form; the user explains the change and submits it, and a FamilySearch system administrator
+reviews it [S85].
 If the tool cannot express the record or the chosen scope, keep the change queued in the working
 packet, and never switch to another tree or scope to make the write succeed.
 
