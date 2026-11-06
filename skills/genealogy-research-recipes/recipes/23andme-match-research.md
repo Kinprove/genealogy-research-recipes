@@ -194,13 +194,21 @@ than reverse-engineering a biological relationship from the order. [O4]
 Where clustering is available, begin with a known anchor or a target's Relatives in Common.
 Record the selected target and all thresholds before generating the chart. [S1, S2]
 
+**Privacy checkpoint before step 4:** Loading the cluster CSV into DNA Painter puts the listed
+matches' names and shared amounts into an outside tool. Before loading, make the separate privacy
+decision in `SKILL.md` step 5: record whose rows the file holds, check who can see the matrix in
+that account, and require explicit permission covering this action, this destination and each
+person's data in the file. Replace match names with local handles before loading, as
+[AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline) requires. If
+permission is unclear, or the matrix cannot be used with handles, keep it in the local spreadsheet.
+
 1. Hover useful intersections to inspect the between-match amounts.
 2. Download the cluster CSV and retain the original. Its cells describe pairwise sharing;
    they are not chromosome start/end coordinates.
 3. Open the file in a spreadsheet. Check the row and column identities and a few displayed
    pair values against the account before using it to infer close relationships.
-4. The February 2026 DNA Painter account describes pasting this CSV into a matrix through
-   its **Load** menu. Verify that route in the current tool, then check imported labels and
+4. Only after the privacy checkpoint above: the February 2026 DNA Painter account describes pasting this
+   CSV into a matrix through its **Load** menu. Verify that route in the current tool, then check imported labels and
    pair values. [S2]
 5. Treat the controls separately: minimum/maximum sharing with you, minimum sharing between
    matches, and connection strength. Current official help gives an exploratory Leeds-style
@@ -257,6 +265,15 @@ Preserve the focal profile, comparison partner, chromosome, start/end positions,
 if supplied, units, genome build if supplied, and retrieval date. Preserve half/full IBD
 labels when supplied. Keep provider columns verbatim. If a field is absent, record that absence; do not manufacture it for an importer.
 Retain the original copied table alongside any reshaped import file.
+
+**Privacy checkpoint before painting:** The copied table holds the comparison partner's segment
+data, and a comparison between two other profiles holds both of theirs. Before pasting it into DNA
+Painter, make the separate privacy decision in `SKILL.md` step 5 for each person in the table:
+record the destination map and who can see it, and require explicit permission covering this
+action and destination. Label each person with a local handle in the map, as
+[AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline) requires. Being
+permitted to view a comparison does not establish that permission. If it is unclear, keep the
+rows in the local worksheet.
 
 For a single match, DNA Painter's current help describes pasting the numerical comparison
 table into **Paint a new match**. Preview it before saving: confirm the intended partner,
@@ -373,6 +390,13 @@ participation, access, or list limits; inspect those conditions before using the
 an analysis. The 2024 preservation article describes an outage-era workflow and historical
 exports, not the current feature set. [S5, S6]
 
+**Privacy checkpoint before any transfer:** Uploading the genotype file gives another service the
+tester's genome and, under its settings, can show the tester in other users' match lists. Before
+any upload, make the separate privacy decision in `SKILL.md` step 5: record the tester, the
+destination and the matching and visibility settings it offers, and require the tester's explicit
+permission for that destination and those settings. Permission to test with 23andMe or to analyze
+the results does not cover another service. If permission is unclear, keep the file local.
+
 Keep the untouched 23andMe genotype file before any transfer or format conversion, and
 preserve transformed copies separately. Check the destination's current acceptance page
 for the original chip/file version and live upload availability. A destination's usable
@@ -395,6 +419,13 @@ or effect is unavailable, leave it unresolved. [S27]
 
 When the question concerns an ancestry assignment, use Ancestry Composition's chromosome
 painting and confidence controls rather than a match-segment table.
+
+**Privacy checkpoint before importing ancestry coordinates:** Pasting the ancestry-coordinate CSV
+or a Computed Data file into DNA Painter or another painter gives that tool the tester's
+chromosome-level ancestry assignments. Before importing either file, make the separate privacy
+decision in `SKILL.md` step 5: record whose results they are, the destination map and who can see
+it, and require explicit permission covering this action, this destination and each person's data.
+If permission is unclear, keep the coordinates in a local spreadsheet.
 
 1. Record the selected confidence threshold and save the ancestry-coordinate export.
    Current official help specifies NCBI Build 37 for this CSV; keep that build with these
@@ -505,6 +536,15 @@ An older all-match segment export can still support a new branch-focused worklis
 Painter's Bucketing tool filters the main segment file by identifiers found in other files;
 it does not require a tested parent. [S10]
 
+**Privacy checkpoint before bucketing:** Both files list third parties' match data, and the
+companion file belongs to another tester. Before loading either file, or a filtered result, into
+DNA Painter, make the separate privacy decision in `SKILL.md` step 5: require explicit permission
+covering this action, this destination and each person's data in both files, including the
+relative's permission for their file, and strip identifiers the tool does not need, as
+[AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline) requires. Access to
+a relative's file is not that permission. If it is unclear, filter the files locally in a
+spreadsheet instead.
+
 1. Select your original segment CSV as the main file. Use the correct tester's file; a raw
    genotype download or clustering matrix is a different input.
 2. Add an authorized match or segment file from an identified relative on the branch of
@@ -534,8 +574,11 @@ current eligibility rather than copying the tutorial's beta-enrollment requireme
 1. Save the ancestor label, displayed reconstructed amount/completeness, available ancestry
    view and listed contributing relatives before changing the tree.
 2. Verify the identity and descent of a useful DNA Relative. Check their current placement
-   and relevant alternate paths before adding or correcting their position. Attach the
-   actual DNA Relative to the right tree person; merely typing an ancestor's name supplies
+   and relevant alternate paths before adding or correcting their position.
+   **Privacy checkpoint:** check who can see the Family Tree and its placements under the
+   current settings; if anyone besides the account holder can, make the separate privacy
+   decision in `SKILL.md` step 5 before placing the relative. Attach the actual DNA Relative
+   to the right tree person; merely typing an ancestor's name supplies
    no additional tested DNA. [S12]
 3. Revisit the profile after the tool updates. Save the date, placed relative and changed
    output. The vendor says additional placed relatives can make a profile more complete;
@@ -555,6 +598,15 @@ groups. Its developer separately documents match-list and shared-match CSV downl
 These are extension operations, distinct from a native 23andMe export. Check the extension's
 current installation, license and feature settings before relying on them. No extension was
 installed or used on a private account for this recipe. [S15, O14, O15]
+
+**Privacy checkpoint before using the extension:** These features run a third-party extension
+inside the signed-in DNA Relatives pages and save matches' names, amounts, relationships and links,
+up to the whole accessible list. Before enabling any of them, make the separate privacy decision in
+`SKILL.md` step 5: record the tester and the fields each export collects, inspect the extension's
+current permissions and where it sends or stores data, including its saved groups, and require
+explicit permission covering the extension, each export and the people's data it collects. Keep
+the CSVs private and local. If permission or the extension's data handling is unclear, do not
+install or run it; use the manual worklist in recipe 11.
 
 1. Enable **23andMe Download Matches Pages as CSV File** in the extension panel and open
    DNA Relatives. Set a page count or leave it empty for all pages in the accessible list.
@@ -623,6 +675,14 @@ An external research tree can hold an identified match's family while their rela
 the tester remains unresolved. A 2021 Family Locket tutorial demonstrates private Ancestry
 trees, floating branches, custom tags and person notes. Use a tree tool that supports
 unconnected people and check its present controls. [S17]
+
+**Privacy checkpoint before adding a match:** An external research tree stores the match's
+identity, amounts, haplogroups and notes with that service, even when the tree is private and
+unsearchable. Before adding a match (step 2), make the separate privacy decision in `SKILL.md`
+step 5: record the match and the fields to be stored, inspect the tree's current privacy and
+searchability settings, and require explicit permission covering this action, this destination
+and each person's data. If permission is unclear, keep this branch work in local software or files
+instead.
 
 1. Create a research tree and choose its privacy/searchability settings. The tutorial's
    unknown-parentage project uses a private, unsearchable tree. Record the focal tester and

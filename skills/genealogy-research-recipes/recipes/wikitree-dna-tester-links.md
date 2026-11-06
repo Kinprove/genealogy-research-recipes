@@ -32,7 +32,15 @@ measured sharing, inheritance-path eligibility and relationship conclusions.
    documentary identity basis; the signed-in member and kit manager can be different people.
 2. Open that person's DNA Tests page. Read the named person in the page header before
    selecting an existing test or adding one. Confirm permission to edit both this profile
-   and the test information. [S2, S3]
+   and the test information. [S2, S3] **Privacy checkpoint:** edit permission is not the
+   privacy decision. A registered test feeds DNA Connections lists on related profiles, and a
+   GEDmatch kit ID links GEDmatch results to the WikiTree pedigree. Before saving any test,
+   identifier, kit ID or the FamilyTreeDNA WikiTree setting in section 2, make the separate
+   privacy decision in `SKILL.md` step 5: record the
+   tester, the values to be entered and who can see the affected profiles under their current
+   privacy settings, and require the tester's explicit permission for these links. If it is
+   unclear, keep the details in the private register and save nothing. Apply the consent rules
+   in [AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline).
 3. Select the testing company and actual test type/level. Enter only verified provider
    identifiers, usernames and haplogroup labels in the applicable fields. Keep a reported
    haplogroup's laboratory/test basis beside it; a consumer autosomal haplogroup label
@@ -55,7 +63,9 @@ in the private register.
 ## 2. Verify the correct external linking mechanism
 
 These routes use different inputs. Completing one does not establish that the other link
-works or that a pedigree connection is genetically confirmed.
+works or that a pedigree connection is genetically confirmed. Save either connection only after
+the privacy decision in `SKILL.md` step 5 (section 1, step 2); it covers the FamilyTreeDNA setting
+as well as the GEDmatch kit ID.
 
 | Provider | Connection route | Destination check |
 | --- | --- | --- |
