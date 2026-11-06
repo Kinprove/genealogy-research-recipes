@@ -100,6 +100,30 @@ A highly selective compilation, such as the consistory lists described in the
 is not a coverage test, so a name missing from it proves nothing. The thread reports no result
 from comparing the two kinds.
 
+For a death in war or a veteran's burial, search the official registers, which governments and
+war-graves bodies compile, each as its own surface. A miss outside a register's stated coverage
+is not a negative.
+
+- **CWGC Find War Dead** covers about 1.7 million Commonwealth service dead of 1914–1921 and
+  1939–1947, and civilians killed by enemy action in 1939–1947. A record generally gives the place
+  of burial or commemoration, and next of kin only in some cases. [P68, P69]
+- **ABMC** lists Americans buried or commemorated in its overseas First and Second World War
+  cemeteries and on its Walls of the Missing, with plot, row and grave. It does not include those
+  brought home for burial, or any burial in the United States. [P70]
+- **VA Nationwide Gravesite Locator** covers national, state veterans', other military and
+  Department of the Interior cemeteries. It covers a private cemetery only where the grave has a
+  government marker, and has no private-cemetery burials before 1997. [P71] A miss there is a
+  non-result; see
+  [us-20th-century-military-service-reconstruction.md](us-20th-century-military-service-reconstruction.md).
+- **Volksbund Gräbersuche online** lists over 5.4 million German war dead and missing, mainly of
+  the two world wars, with places of death and grave locations. About 450,000 names are still to be
+  entered. [P72] For the Volksbund as a lead beside service records, see
+  [german-military-record-period-routing.md](german-military-record-period-routing.md).
+- **ОБД Мемориал**, the Russian Ministry of Defence database of Red Army losses in the Second
+  World War and after, gives the original burial places of more than 5 million soldiers and
+  officers. [P73] An original burial place can differ from the present grave after a reburial, so
+  look for the present grave separately.
+
 **Output:** `database | query | coverage checked | candidate URL | cemetery | section |
 photo available | image examined | next source`.
 
@@ -278,6 +302,13 @@ one year. In a leap year a bare Adar is ambiguous unless the stone says Adar I o
 both candidate dates. [P45, P46] נלב"ע expands to נפטר לבית עולמו ('departed to his eternal
 home'). [P47]
 
+A Hebrew day begins at sunset. Converters return the civil date of the daytime part, so a death
+after sunset may have fallen on the civil evening before the converted date: keep both civil dates
+unless the time of death is known, and compare each with the civil record. [P74, P75] Most Hebrew
+stones give the date of death, after נפטר or נפטרה ('died'); some older European stones give the
+date of burial instead. Note which word the date follows before you label it a death date. [P76,
+P77]
+
 When an inscription supplies a death date and age in years, months and days, retain both
 literal inputs before calculating a birth-date lead. Amy Johnson Crow's example counts
 back the years, then months, then days, carrying the year and using the actual length of
@@ -362,6 +393,18 @@ interviews ([2020](https://www.youtube.com/watch?v=WoBE9ZAMsg4),
 [2024](https://www.youtube.com/watch?v=gLXeAlkY6j0)) motivate this. They are US examples, and
 record survival and arrangement vary.
 
+Address each request to the body that holds that record. In the United States the usual holders
+are:
+
+| Record | Usual holder | What it shows |
+| --- | --- | --- |
+| Church burial register | The church, parish or its archive | The burial service; the person may be buried elsewhere [P78] |
+| Interment register; lot or plot-ownership books | The sexton or cemetery office; for a public cemetery, the town or county, or a state archives [P79, P80] | Burials, and separately who owned each plot |
+| Burial, removal or transit permit | Issued under state law, usually through the funeral home and the local vital-records office; old permits can reach county or state archives [P81] | Permission to bury, cremate or move the body |
+| Funeral-home case file | The firm or its successor; some collections were given to libraries, archives or societies [P82] | Private business records, kept at the firm's discretion |
+
+Permit rules and record survival vary by state and period.
+
 A burial register or burial-certificate file can confirm a burial without giving any grave
 location. Record the plot as `not recorded in this series` instead of expecting the register to
 supply it. Where the burial series closely parallels the death register for the same community, as
@@ -426,7 +469,11 @@ lots separate from actual interments. [P29]
 In immigrant-city Jewish cemeteries, such as those around New York, many plots belonged to
 landsmanshaftn (hometown societies), as well as to synagogues, unions, family circles and
 fraternal orders. [P51, P52] A society or section name in an interment record, such as
-'First [Town]er … Society', points to a hometown. Not every member came from the named town, and
+'First [Town]er … Society', points to a hometown. In New York and New Jersey cemeteries, a
+society plot usually has a gate or arch naming the society, often with its officers: record that
+inscription as its own locator, with its photograph, beside the plot reference. Gate names can be
+eroded, and a plot can pass from one society to another, so confirm it in the cemetery's records.
+[P83] Not every member came from the named town, and
 neighbouring graves in a society plot may belong to unrelated members. A married woman buried in
 her husband's society plot gets his town, not necessarily her birthplace. The YIVO Archives at the
 Center for Jewish History hold records of many landsmanshaftn, some with plot maps, and the
@@ -444,6 +491,22 @@ and inscription, not the interment. The
 [later version](https://www.youtube.com/watch?v=YW9oCpm5id4) and the
 [Find a Grave discussion](https://www.youtube.com/watch?v=M6NwvqpYK58) motivate this. They give no
 rate for speculative memorials and do not show how any site displays creation history.
+
+Read a Find a Grave memorial against the site's own rules, which describe what contributors are
+asked to do, not what was checked. Contributors are asked to add only verified burial places, not
+presumed ones; a memorial with the burial details unknown is allowed, and a memorial is not
+reviewed before it appears. [P84, P85] Memorials for living people are not acceptable, but one is
+removed only when the person or a relative asks, and a memorial made before death is allowed
+where the headstone is already in place. [P84] A cenotaph, a memorial for someone buried
+elsewhere, is marked by a setting among the grave-marker options, and family links belong on the
+memorial of the actual burial. [P86] Members enter the family links themselves [P87]: record them
+as the contributor's claim. Corrections go through Suggest Edits; the manager may decline one, and
+an edit left unanswered for 21 days passes to Find a Grave's own queue. [P88] For a photograph,
+the help pages direct you to the contributor for permission [P89]. The contributor is the contact
+for permission and provenance, not proof of who owns the copyright: an uploaded studio portrait
+may belong to someone else. On BillionGraves, the app attaches GPS to photographs taken with it,
+volunteers transcribe the stones, and records not uploaded through the app have no GPS. [P90,
+P91]
 
 **Output:** `cemetery | address | section | plot | GPS as supplied | map URL | office/register
 locator | access or contact status | next action`.

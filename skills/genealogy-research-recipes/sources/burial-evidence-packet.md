@@ -355,6 +355,119 @@ Find a Grave original-image rules were checked on 2026-11-06 against P62–P65 a
 - **P67:** Find a Grave, [memorial page with photo gallery](https://www.findagrave.com/memorial/192415894/original_find_a_grave),
   opened 2026-11-06. Used for: the **View original** link on gallery images.
 
+- **P68:** Commonwealth War Graves Commission, [Find war dead](https://admin.cwgc.org/find-records/find-war-dead/),
+  opened 2026-11-06 on the commission's admin host, because the www address refused the fetcher.
+  Used for: the 1.7 million Commonwealth war dead the commission commemorates, and the separate
+  civilian war dead search.
+
+- **P69:** Commonwealth War Graves Commission, [Frequently Asked Questions](https://admin.cwgc.org/find-records/frequently-asked-questions/),
+  opened 2026-11-06. Used for: service deaths from 4 August 1914 to 31 August 1921 and from
+  3 September 1939 to 31 December 1947; civilians who died from enemy action in 1939–1947; records
+  that generally give the place of burial or commemoration; and next of kin only in some cases.
+
+- **P70:** American Battle Monuments Commission, [Search ABMC Burials and Memorials](https://web.archive.org/web/20240531071918/https://www.abmc.gov/database-search),
+  Wayback Machine copy of 2024-05-31, opened 2026-11-06; the live search at weremember.abmc.gov was
+  also opened. Used for: a register of those buried and commemorated at the overseas First and
+  Second World War cemeteries and on the Walls of the Missing, excluding the dead repatriated to the
+  United States and all burials within the United States; and a live record showing plot, row and
+  grave.
+
+- **P71:** U.S. Department of Veterans Affairs, National Cemetery Administration, [Nationwide Gravesite Locator](https://www.cem.va.gov/nationwide-gravesite-locator/),
+  updated 2026-03-19, opened 2026-11-06. Used for: coverage of national, state veterans', other
+  military and Department of the Interior cemeteries; private cemeteries only where the grave has a
+  government marker; and no private-cemetery burials before 1997.
+
+- **P72:** Volksbund Deutsche Kriegsgräberfürsorge, [Gräbersuche online](https://www.volksbund.de/erinnern-gedenken/graebersuche-online),
+  opened 2026-11-06, with its genealogy page. Used for: 5,428,566 war dead and missing listed on
+  6 November 2026, about 450,000 names still to be entered, and places of death and grave locations,
+  mainly for the two world wars.
+
+- **P73:** Ministry of Defence of the Russian Federation, [ОБД Мемориал: О проекте](https://obd-memorial.ru/html/about.htm),
+  opened 2026-11-06. Used for: a database of Red Army losses in the Second World War and the
+  post-war period, with about 20 million name records, and the original (first) burial places of
+  more than 5 million soldiers and officers.
+
+- **P74:** Joachim Mugdan, JewishGen, [Introduction to the Jewish Calendar](https://www.jewishgen.org/infofiles/m_calint.htm),
+  revised 2011, opened 2026-11-06. Used for: the Jewish day beginning at sunset, and conversions
+  based on the daylight part of the day, so an event may have fallen on the civil evening before.
+
+- **P75:** Stephen P. Morse, [Deciphering Hebrew Tombstone Dates in One Step](https://stevemorse.org/jcal/tombstone.html),
+  opened 2026-11-06. Used for: decreasing the converted civil date by one day for a death after
+  sundown and before midnight.
+
+- **P76:** Warren Blatt, JewishGen, [How to Read a Hebrew Tombstone](https://www.jewishgen.org/Infofiles/Tombstones.html),
+  opened 2026-11-06. Used for: Hebrew stones showing the date of death, and the words niftar and
+  nifterah ('died').
+
+- **P77:** Eva Macková, Národní památkový ústav, [Interesting Tombstones in the Jičín Jewish Cemetery](https://npu.cz/uop/josefov/publikace/kulturni%20pamatka/sedlicky%20hrbitov%20eng.pdf),
+  leaflet, 2017, opened 2026-11-06. Used for: inscriptions giving the date of death, or even of
+  burial.
+
+- **P78:** Christ Church, Philadelphia, [Burials, Christ Church, 1832-1870](https://openn.library.upenn.edu/Data/0034/html/ChristChurch.RectorsRegisters_Burials1832-1978_v039.html),
+  catalogue record on OPenn, University of Pennsylvania Libraries, opened 2026-11-06. Used for: a
+  register of burial services rather than interments, with not all of the deceased buried in the
+  church's burial ground.
+
+- **P79:** FamilySearch Research Wiki, [United States Cemeteries](https://www.familysearch.org/en/wiki/United_States_Cemeteries),
+  edited 2026-10-12, opened 2026-11-06. Used for: sextons or caretakers keeping burial records and
+  plot maps, and the present sexton, funeral home or minister holding burial registers and plot
+  records.
+
+- **P80:** Utah Division of Archives and Records Service, [Cemetery and Burial Records](https://web.archive.org/web/20261006040815/https://archives.utah.gov/research/guides/cemetery/),
+  Wayback Machine copy of 2026-10-06, opened 2026-11-06. Used for: plot-ownership records and
+  interment registers as the two forms of cemetery records, and the state archives holding records
+  of many publicly owned cemeteries.
+
+- **P81:** City of Long Beach, Health and Human Services, [Burial, Removal and Transit Permits](https://longbeach.gov/health/services/directory/records/burial-removal-and-transit-permits),
+  opened 2026-11-06. Used for: burial permits required by California law before disposition and
+  obtained through a funeral establishment or the vital-records office. The Washington State
+  Archives' Lewis County burial-transit permit series, also opened, shows such permits reaching a
+  state archives.
+
+- **P82:** Melissa C. Tennant, Allen County Public Library Genealogy Center, [Death Business: Searching Funeral Home Collections](https://static.libnet.info/images/pdfs/acpl/Genealogy/Death_Business_Handout.pdf),
+  handout, 2020, opened 2026-11-06. Used for: funeral-home records as private business documents
+  with no legal duty to keep them, and collections given to libraries, archives and societies.
+
+- **P83:** Jewish Genealogical Society (New York), [Send Us Your Burial Society Gate Photos](https://jgsny.org/searchable-databases/burial-society-databases/send-us-your-burial-society-gate-photos)
+  and its [Burial Society FAQ](https://jgsny.org/searchable-databases/burial-society-databases/burial-society-faq),
+  opened 2026-11-06. Used for: the gate or arch at a society plot's entrance, often naming the
+  society's officers, and plots that may have belonged to more than one society over time. The
+  Museum of Family History's society-gates pages, also opened, describe gates in the New York–New
+  Jersey area and gate names too eroded to read.
+
+- **P84:** Find a Grave, [Creating Memorials](https://support.findagrave.com/hc/en-us/articles/53933374689811-Creating-Memorials),
+  opened 2026-11-06 through the help centre's public data feed, because the article page refused
+  the fetcher. Used for: burial places that should be verified, not presumed; memorials for living
+  people not acceptable but removed on request of the person or a relative; and memorials made
+  before death allowed where a headstone is in place.
+
+- **P85:** Find a Grave, [Non-Cemetery Burials and Other burial types](https://support.findagrave.com/hc/en-us/articles/53933342903187-Non-Cemetery-Burials-and-Other-burial-types),
+  opened 2026-11-06 the same way. Used for: memorials with burial details unknown, and memorials
+  not reviewed before they appear.
+
+- **P86:** Find a Grave, [Cenotaph and Monument Information](https://support.findagrave.com/hc/en-us/articles/53933375396243-Cenotaph-and-Monument-Information),
+  opened 2026-11-06 the same way. Used for: the cenotaph setting under the grave-marker options, and
+  family links placed on the memorial of the actual burial.
+
+- **P87:** Find a Grave, [Family Members](https://support.findagrave.com/hc/en-us/articles/53933375214355-Family-Members),
+  opened 2026-11-06 the same way. Used for: members entering family links by memorial ID. The page
+  describes no check of the links; treating them as the contributor's claim is Kinprove synthesis.
+
+- **P88:** Find a Grave, [Suggest Edits](https://support.findagrave.com/hc/en-us/articles/53933424659475-Suggest-Edits),
+  opened 2026-11-06 the same way. Used for: corrections suggested to the memorial manager, who may
+  decline them, and edits not answered within 21 days passing to Find a Grave's queue.
+
+- **P89:** Find a Grave, [Questions about Photos](https://support.findagrave.com/hc/en-us/articles/53933391181843-Questions-about-Photos),
+  opened 2026-11-06 the same way. Used for: asking the contributor's permission before using a
+  photograph. The page does not say who holds the copyright.
+
+- **P90:** BillionGraves, [How does BillionGraves work?](https://support.billiongraves.com/support/solutions/articles/35000113634-how-does-billiongraves-work-),
+  opened 2026-11-06. Used for: photographs taken with the app carrying GPS, and volunteer
+  transcription.
+
+- **P91:** BillionGraves, [Do all headstone records have GPS?](https://support.billiongraves.com/support/solutions/articles/35000308542-do-all-headstone-records-have-gps-),
+  opened 2026-11-06. Used for: GPS present only on records uploaded through the app.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of the attributed cemetery, gravestone and burial-record workflows — FSL-1.1-MIT (kinprove-original)
