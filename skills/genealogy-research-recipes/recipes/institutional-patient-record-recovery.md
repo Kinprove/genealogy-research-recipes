@@ -13,6 +13,16 @@ For newspaper coverage and OCR problems, use
 For identity rulings, use
 [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- Do not answer "sealed, nothing can be done"
+- 1\. Identify the current custodian and its access rules
+- 2\. Ask for the complete file and record what actually came back
+- 3\. Search the committing court and newspaper court recaps
+- 4\. Estimate admission from an in-institution death certificate
+- 5\. Use annual reports only as context
+- Close with a patient-record packet
+
 ## Do not answer "sealed, nothing can be done"
 
 A general privacy concern is not a search result. Access depends on the custodian and on the

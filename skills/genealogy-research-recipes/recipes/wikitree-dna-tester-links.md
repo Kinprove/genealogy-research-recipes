@@ -1,5 +1,14 @@
 # WikiTree: Link DNA Tests to the Correct Tester and External Kit
 
+## Contents
+
+- Goal
+- The failure to prevent
+- 1\. Register the test on the tested person's profile
+- 2\. Verify the correct external linking mechanism
+- 3\. Turn propagated connections into a bounded research queue
+- Prompt pattern
+
 ## Goal
 
 Make a WikiTree profile and its external DNA-test links point to the actual tested person,

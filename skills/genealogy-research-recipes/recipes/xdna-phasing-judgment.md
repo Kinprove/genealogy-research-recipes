@@ -1,5 +1,12 @@
 # Recipe: X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong
 
+## Contents
+
+- Goal
+- The mental model (get this right or everything downstream breaks)
+- What to trust vs never fabricate (six failure modes)
+- Prompt-craft (how to keep an assistant honest here)
+
 ## Goal
 
 Given a small DNA segment, an X-DNA match, a chromosome map from visual/parental phasing, or a reconstructed ancestor’s genotype, state precisely what it can confirm or eliminate about a relationship — and refuse the six places confident-sounding analysis is actually fabrication.

@@ -1,5 +1,16 @@
 # Recipe: Recover land instruments through indexes, book series and entry files
 
+## Contents
+
+- Goal
+- Before starting
+- 1\. Identify how this index actually works
+- 2\. Copy the locator, then reconcile the alternative entry
+- 3\. Resolve the book series instead of guessing from the number
+- 4\. Preserve two dates and close the bounded retrieval audit
+- 5\. Carry a U.S. federal patent lead into its separate entry file
+- Prompt pattern
+
 ## Goal
 
 Follow a land-record lead through the correct index and record-book series.

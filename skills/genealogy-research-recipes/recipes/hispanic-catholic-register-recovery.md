@@ -9,6 +9,18 @@ The recipe covers parish selection, reading the entry field by field, devotional
 - **AI-indexed Iberian entries, abbreviation expansion and the margin-note correction loop:** [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
 - **Catalog, film and DGS mechanics and unindexed image browsing:** [FamilySearch practical workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Select the parish, not the town
+- 2\. Read the entry field by field
+- 3\. Search both name forms and every surname arrangement
+- 4\. Keep each date in its own role
+- 5\. Pair the civil and church records
+- 6\. Sweep the family from a confirmed anchor
+- 7\. Check the diocesan copy before calling an entry missing
+- Close with a coverage packet
+
 ## Inputs to gather first
 
 Gather these before searching:

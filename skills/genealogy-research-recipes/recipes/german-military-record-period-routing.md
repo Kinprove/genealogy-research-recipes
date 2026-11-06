@@ -4,6 +4,15 @@ Use this recipe before you send anyone to look for a German soldier's personnel 
 
 For using address books to bound a death window, use [city-directory observation workflow](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md). For keeping loss, burial and administrative dates as separate episodes, the closest model is [Russian military and repression record episodes](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md). For any ruling that two entries are or are not the same man, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- 1\. Classify the man before choosing a series
+- 2\. Old-Prussian army (1714–1806): the Stammrollen are gone, so work from church books and the canton
+- 3\. Imperial officers, active or retired: gazette, chronicle, then a death window
+- 4\. First World War casualty lists and memorials: check for a namesake, then check the script
+- 5\. Wehrmacht: personnel and loss documents first, then unit records
+- Output
+
 ## 1. Classify the man before choosing a series
 
 Record three things, each with the document that supports it:

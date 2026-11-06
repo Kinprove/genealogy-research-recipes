@@ -3,6 +3,13 @@
 Use this reference to preserve a retrievable source record for the
 [emigrant-origin packet](russian-empire-emigrant-origin-recovery.md).
 
+## Contents
+
+- Preserve the locator
+- Connect the citation to the evidence
+- Recheck shortened report references after editing
+- Follow an earlier application cited as evidence
+
 ## Preserve the locator
 
 For each source you inspect, record:

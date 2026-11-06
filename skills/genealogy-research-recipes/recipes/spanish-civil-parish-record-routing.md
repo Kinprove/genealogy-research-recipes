@@ -13,6 +13,22 @@ Link out for the shared steps:
 - **The arrival-side search for a U.S. immigrant:** [U.S. immigration search recovery](usa-immigration-search-recovery.md).
 - **Identity rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Fix the civil-registration period
+- 2\. Find the diocese that held the parish on the event date
+- 3\. Check survival and duplicates before calling a book lost
+- 4\. For Andorra, ask the holders and widen to the Catalan valleys
+- 5\. Find residence and household evidence: padrones, electoral rolls and tax lists
+- 6\. Search the Catastro de Ensenada only where it was taken
+- 7\. Search notarial protocols by notary, not by client
+- 8\. Widen beyond the earliest parish book: pedigree proofs and university files
+- 9\. Request military files and read the gazettes
+- 10\. Route Civil War and repression files by holder
+- 11\. Search the Spanish departure side for an emigrant
+- Close with a routing packet
+
 ## Inputs to gather first
 
 Gather these before searching:

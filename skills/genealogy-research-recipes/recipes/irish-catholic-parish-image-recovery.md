@@ -1,5 +1,15 @@
 # Recover an Irish Catholic parish entry at the NLI
 
+## Contents
+
+- Goal
+- Inputs and routing
+- 1\. Select the Catholic parish and the correct register
+- 2\. Use the external index to reach the image sequence
+- 3\. Narrow pages by event and date, then inspect the entry
+- 4\. Save the register identity and the exact image locator
+- Prompt pattern
+
 ## Goal
 
 Carry an Irish Catholic baptism or marriage lead into the National Library of Ireland's register

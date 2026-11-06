@@ -17,6 +17,21 @@ Link out for the shared steps:
 - **Citation format and the research log:** [source citation record](source-citation.md) and [research log and report](research-documentation.md).
 - **Identity rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Send an Australian BDM search to today's state registry
+- 2\. Read a pre-civil index entry as a church record
+- 3\. Check the release window before reading a miss
+- 4\. Search both New Zealand registers for a Māori event
+- 5\. Route Aboriginal and Torres Strait Islander records by state and agency
+- 6\. Read an electoral roll against the enrolment law of its date
+- 7\. Route passenger lists by port and date, not by Federation
+- 8\. Search Trove and Papers Past inside their digitised runs
+- 9\. Search Archives New Zealand in Collections Search
+- 10\. Read Māori Land Court minute books as contested testimony
+- Close with a routing packet
+
 ## Inputs to gather first
 
 Gather these before searching:

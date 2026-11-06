@@ -17,6 +17,19 @@ Link out for the shared steps:
 - **Exporting and painting Ancestry Chromosome Painter segments:** [DNA Painter workflows](dnapainter-practical-dna-workflows.md).
 - **User-run calculators and admixture models:** [admixture run scope](admixture-model-run-scope.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Save the outgoing version before the vendor withdraws it
+- 2\. Date each estimate by when the vendor computed it, and label its version
+- 3\. Write down the method change before reading any number
+- 4\. Align the two versions through the vendor's hierarchy, broadest level first
+- 5\. Sort every change into a known update effect before calling it new
+- 6\. Compare the new percentage with the old range, never one range with another
+- 7\. Apply the version's own reliability floor to small regions
+- 8\. Keep a version log and form hypotheses only from what is left unexplained
+- Close with a version-comparison packet
+
 ## Inputs to gather first
 
 - vendor, kit, whether the kit is the vendor's own test or an upload, the assay (chip or sequencing), and the version label each estimate shows

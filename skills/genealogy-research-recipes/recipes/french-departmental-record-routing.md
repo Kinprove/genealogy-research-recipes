@@ -21,6 +21,23 @@ records, or a historical Paris address into its property register and notarial r
 - **Citing the departmental image:** [source citation](source-citation.md).
 - **Identity rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Route by département, not by a national index
+- 2\. Work out whether the act is open yet
+- 3\. Date a death after 1970 with the INSEE death file
+- 4\. Find a death when the commune is unknown
+- 5\. Read the nominative census lists household by household
+- 6\. Follow the military record created at each stage
+- 7\. Choose an ancien-régime register or an earlier civic substitute
+- 8\. Find property transfers and notarial minutes
+- 9\. Follow a 1939 Spanish refugee into the Pyrénées-Orientales camp files
+- 10\. Follow family-linkage clues into their separate records
+- 11\. Select the creator behind a medal or consular lead
+- 12\. Follow a named prison into its admission register
+- Close with a routing packet
+
 ## Inputs to gather first
 
 Gather these before searching:

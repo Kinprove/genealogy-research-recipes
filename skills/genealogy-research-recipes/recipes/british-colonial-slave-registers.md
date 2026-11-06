@@ -18,6 +18,20 @@ Link out for the shared steps:
 - **A family account of descent from a named estate:** [family interviews and oral tradition](family-interviews-and-oral-tradition.md).
 - **Identity and kinship rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Fix the colony's register years and mark each return full or changes-only
+- 2\. Anchor at emancipation, then rebuild the owner's population at the last return
+- 3\. Search under whoever made the return, not only the owner
+- 4\. Bridge an estate name to its owner
+- 5\. Use compensation records for claimants, counts and details missing from the registers
+- 6\. Follow each change entry to its other side
+- 7\. Read alias entries and baptism names as two names of one person
+- 8\. Link by mother, age and origin, not by surname or a presumed father
+- 9\. Use the newer online copy and search the owner fields
+- Close with a register packet
+
 ## Inputs to gather first
 
 - the earliest record of the person after the colony's emancipation date (§ 2): baptism, marriage, burial or later civil record, with its parish, district or estate and the age given

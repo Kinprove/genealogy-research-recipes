@@ -22,6 +22,20 @@ Use these recipes for the steps they already cover:
 - Machine-read full-text search of revision tales and confession lists (Yandex «Поиск по архивам»), where a miss is never a negative: [Russian Orthodox metrical-book recovery, step 10](russian-orthodox-metrical-book-recovery.md#10-use-machine-read-full-text-search-for-leads-never-for-a-negative).
 - Bessarabian revision lists and the state and district that recorded each period: [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
 
+## Contents
+
+- 1\. Fix who held the village, and under which unit, on the revision date
+- 2\. Map every copy and section of the revision, and give each its own locator
+- 3\. Use the volume's own finding aids, then check that the file is what its title says
+- 4\. Transcribe each entry field by field
+- 5\. Test formulas, placements and ages before using them
+- 6\. Chain the household one revision at a time
+- 7\. Bound every absence
+- 8\. Check that 1897 census sheets survive before routing anyone to them
+- 9\. Before the first revision in former Grand Duchy lands, read the published estate inventories
+- 10\. For an Orenburg Cossack household, confirm which later revisions exist
+- Output
+
 ## 1. Fix who held the village, and under which unit, on the revision date
 
 - Before you search, find the estate category and the owner on the revision date: state, factory-ascribed, monastery or a private owner. Monastery peasants were enumerated separately. A participant reported that the 1744 Shadrinsk district revision file at RGADA (f.614, op.1, d.73) contains no Dalmatov monastery holdings. Another participant gave the monastery's own censuses and revisions in the monastery fond at the Shadrinsk archive: Ф.И-224, оп.1, with d.3157 (1719), d.3155 (1727), d.3238 (1742), d.282, 3155 and 3156 (1744–1745) and d.3144 (1757). [S1]

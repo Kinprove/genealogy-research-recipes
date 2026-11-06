@@ -11,6 +11,19 @@ Link out for the shared steps:
 - **Finding a copy of a printed book:** [published book catalogue and full-text discovery](published-book-catalogue-and-full-text-discovery.md).
 - **Identity rulings, the different-names test, source independence and negative evidence:** [evidence/proof judgment § Techniques that work](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Read what the family already holds
+- 2\. Fix the jurisdiction at each event's date
+- 3\. Search both names of a renamed place
+- 4\. Build name query lanes before searching
+- 5\. Ask the Chechen Republic's custodians
+- 6\. Search the place of settlement
+- 7\. Read Kazakh online lists for what they cover
+- 8\. Check WWII service in the Chechen memory book
+- Close with a deportation packet
+
 ## Inputs to gather first
 
 Gather these before searching:

@@ -1,5 +1,15 @@
 # Recipe: Auditing a genealogy research package against professional standards
 
+## Contents
+
+- Goal
+- Fix the question and the audit boundary
+- Trace claims across artifacts
+- Audit the searches behind an absence claim
+- Replace GPS checkmarks with evidence pointers
+- Choose the writing product after the audit
+- Deliver a reviewable handoff
+
 ## Goal
 
 Find the exact point where an asserted identity, relationship or event stops

@@ -4,6 +4,16 @@ Use this recipe when the metrical books or revision lists for a Russian-Empire p
 
 Before you start, establish the person's estate and registration society (приписка), and learn to read family and recruit lists, using [Russian-Empire identity attribution](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md). Mark each case as a catalogue lead, inspected or unavailable, and keep titles separate from contents, using [Jewish archival list triage](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewish-archival-list-triage.md). Check case boundaries, skipped inventory sheets and image coverage with [archival image coverage verification](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md). A printed guide or finding aid does not prove that a file is held today ([ELIB reference books](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/elib-ukrainian-archive-reference-books.md)). For reading the locator behind an index hit, use [JewishGen family reconstruction](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md). To date a family list from its entries rather than its label, and for any identity ruling, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- 1\. Pick the fond family by estate, then find every holder
+- 2\. Build the register by series class
+- 3\. Read the inventory as a list with defects
+- 4\. Treat voter lists and anachronistic titles with care
+- 5\. Use published abstracts only to reach the file
+- 6\. Record inspected entries as household observations
+- Output: administrative series register
+
 ## 1. Pick the fond family by estate, then find every holder
 
 - **Peasants:** search the fond of the volost board for the volost and period, and any separate village-society or village-assembly (сельский сход) fond. In the Sverdlovsk regional archive (GASO), village-society fonds stand on their own. Examples are ф. 721 (the Dolmatovo village assembly under the Lyapunovo volost board, 1914–1919) and ф. 722 (Znamenskoe society, Irbit uezd, 1892–1919). These are mostly assembly-sentence books. ф. 721 also has 1917–1918 minute books of the society's general meetings, and ф. 722 also has 1918–1919 orders and correspondence. [S2]

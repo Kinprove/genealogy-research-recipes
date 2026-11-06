@@ -17,6 +17,17 @@ Related recipes:
 
 Nothing in this recipe establishes an ancestor, an origin locality or a relationship. A result that disagrees with a documented pedigree may make a candidate less likely. It never rules one out.
 
+## Contents
+
+- 1\. Open a run register before reading any number
+- 2\. Label how each coordinate set was produced
+- 3\. Check fit and scope before reading proportions
+- 4\. Test a minor component with reruns that change one input
+- 5\. Audit the reference labels the result depends on
+- 6\. qpAdm: specify the model and screen the population lists
+- 7\. Compare only within one declared scope
+- Output: run register and component status
+
 ## 1. Open a run register before reading any number
 
 Make one row per run, never one row per person. Record:

@@ -2,6 +2,15 @@
 
 Use this when an ancestor's letters, diaries, activities, employment, membership or locality may survive in personal papers, family papers or organisational records held by a special-collections library, historical society or archive. This recipe covers union-catalogue querying by context, tracing a hit to its holding repository and finding aid, and keeping catalogue, requested and inspected states apart. For single-vendor catalogue keyword behaviour, use [Ancestry catalogue searching](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md), [FamilySearch holdings audits](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) or [MyHeritage collection search](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md). For Ukrainian archival lists, use [Jewish archival list triage](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewish-archival-list-triage.md). For logging and citation format, use [research documentation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md) and [source citation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md). Identity and kinship rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- Do not start with the ancestor's name
+- Query by context, and log what each portal actually covers
+- Read the hit as a description, not as contents
+- Trace the hit to the repository's own finding aid
+- Form a bounded request and keep three states
+- Close with a collection packet
+
 ## Do not start with the ancestor's name
 
 Archives arrange papers by creator or donor. They describe holdings by collection, series, extent and a brief summary, so they seldom index the people named inside the papers [S1], [S17], [S19]. A personal-name search that finds nothing is therefore not a finding. Never report "no manuscripts exist" or "not in this archive" because a name search failed [S1], [S3], [S21]. You may run the ancestor's name as one facet. Collection-level cataloguing gives name access mainly to creators, donors and prominent subjects, so a name search finds people who were famous or who created or donated a collection, and seldom anyone else [S3].

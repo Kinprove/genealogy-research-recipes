@@ -1,5 +1,14 @@
 # Recipe: FamilySearch record recovery and Tree maintenance
 
+## Contents
+
+- Goal
+- The failure to prevent
+- Before starting
+- Nineteen workflows
+- Common working table
+- Hand off interpretation
+
 ## Goal
 
 Produce a repeatable FamilySearch research packet through missed name searches, image-only holdings,

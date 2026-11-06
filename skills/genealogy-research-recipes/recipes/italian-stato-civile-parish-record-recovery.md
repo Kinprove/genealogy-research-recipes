@@ -19,6 +19,17 @@ Link out for the shared steps:
 - **Frame versus page, and scan availability versus index coverage:** [archival image coverage verification](archival-image-coverage-verification.md).
 - **Identity rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Date the civil record by the state that ruled the place
+- 2\. Search Antenati by its scope, not as a complete holding
+- 3\. Read the marriage's supporting file before chasing the previous generation
+- 4\. Route parish books by the historical diocese
+- 5\. Search conscription lists and service rolls as two series
+- 6\. Send each comune request to the right office
+- Close with a register packet
+
 ## Inputs to gather first
 
 Gather these before searching:

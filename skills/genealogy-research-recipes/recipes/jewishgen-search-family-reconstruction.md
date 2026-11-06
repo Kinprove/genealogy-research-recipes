@@ -1,5 +1,19 @@
 # Recipe: JewishGen searches that recover families missed by a name-and-town query
 
+## Contents
+
+- Goal
+- The matching unit comes before the query
+- A query ladder, with an explicit reason for every change
+- Geography has several roles
+- Ages: choose the observation date before choosing the search window
+- Double names and ambiguous patronymics
+- A wife's natal family when the marriage entry is unavailable
+- A daughter's married household when neither husband nor married surname is known
+- Further pivots that a single person search misses
+- From a missing-husband notice to an agency case file
+- Prompt-craft and output contract
+
 ## Goal
 
 Turn an unsuccessful JewishGen search into a sequence of discriminating queries. Recover competing family candidates without assuming a fixed surname, a literal name match, one town, one birth year or a known husband. This recipe owns retrieval and comparison; identity and relationship rulings belong to [evidence-proof-judgment](evidence-proof-judgment.md) and [Russian-Empire identity attribution](russian-empire-jewish-identity-attribution.md).

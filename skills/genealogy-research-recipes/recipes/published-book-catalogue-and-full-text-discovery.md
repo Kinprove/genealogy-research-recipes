@@ -10,6 +10,18 @@ This recipe covers the cross-platform discovery of a book. Some steps overlap wi
 - Hebrew-language book platforms: [HebrewBooks recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/hebrewbooks-search-recovery.md)
 - Deciding whether a mention identifies your person: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md)
 
+## Contents
+
+- 1\. Classify the target, then classify each tool
+- 2\. Query catalogues the way a cataloguer would describe the item
+- 3\. Browse the classification range from a relevant hit
+- 4\. Search the full text inside candidate books
+- 5\. Carry the confirmed title across holders
+- 6\. Open the copy and cite the real host
+- 7\. Search photographs and other non-text items through their descriptions
+- 8\. Treat snippets, incidental mentions and transcriptions as leads
+- 9\. Close with a book-discovery register
+
 ## 1. Classify the target, then classify each tool
 
 **Decide whether the target is published or archival before choosing a catalogue.** A presenter from Library and Archives Canada called this the first decision point, because LAC is both a library and an archive and, when she spoke, used a separate catalogue for each [S4]. Those catalogues have since been replaced: Aurora searches LAC's published holdings, and Collection Search covers both archival and published records. Use the institution's current tools, but make this decision first.

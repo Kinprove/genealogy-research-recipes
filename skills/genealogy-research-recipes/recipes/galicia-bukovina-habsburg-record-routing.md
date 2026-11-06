@@ -20,6 +20,20 @@ Transcarpathia is not covered. Link out for the shared steps:
 - **Russian WWI service, captivity in Russia and Soviet repression episodes:** [Russian military and repression record episodes](russian-military-repression-record-episodes.md).
 - **Identity rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Fix the jurisdiction at the event date
+- 2\. Choose the books by confession
+- 3\. Read the register language, then build name lanes
+- 4\. Find who holds the books
+- 5\. Decide the army before searching military records
+- 6\. Search the Austro-Hungarian casualty lists
+- 7\. Find the Grundbuchblatt by birth cohort and domicile
+- 8\. When no Grundbuchblatt is found, use the loss cards and hospital sheets
+- 9\. Find Northern Bukovina repression cases in Нескорена Буковина
+- Close with a routing packet
+
 ## Inputs to gather first
 
 - every place form as written, with its record, date and language

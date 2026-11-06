@@ -2,6 +2,20 @@
 
 Use this recipe when an ancestor disappears from records and you suspect arrest, trial or imprisonment. It also applies when a census institution entry, newspaper report or family story names a prison. Before choosing where to search for court files, establish which court tried the case and who holds the records now. For U.S. cases distinguish federal, territorial and state jurisdiction; use the separate England and Wales branch for a British no-fixed-abode lead. If the prison is already known, open that prison's admission record first to find the trying court: the Idaho convict description in S4 records the county (Washington County) and the court term (May 1896) [S4]. Then work out which prison series survive and what access rules apply to them. Use [newspaper search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md) to find the arrest or trial report, and [census workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md) to recover the institution enumeration. Identity and conflict rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- Fix place, offence and a narrow window or inmate number before searching registers
+- Determine the trying court and its present custodian
+- Route the request and log it
+- Inventory surviving series and access rules
+- England and Wales: follow a no-fixed-abode incident beyond a census miss
+- Swedish monthly prison rolls: follow the annotations beyond the index
+- Swedish police gazette: follow back-references beyond the register hit list
+- Swedish court books: recover a separately surviving copy
+- Weigh an inmate-list miss against other evidence
+- Extract admission fields as self-reported leads
+- Output
+
 ## Fix place, offence and a narrow window or inmate number before searching registers
 
 - Gather the triggers: a census line in a prison or asylum [S1], newspaper arrest, trial or incarceration reports [S1], [S3], and family accounts. Keep every family kernel, even ones that later prove wrong, and test each one [S3]. Some families avoid the subject, so a family's silence is not a negative [S1], [S3].

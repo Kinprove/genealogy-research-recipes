@@ -1,5 +1,13 @@
 # Recipe: Maintaining FamilyTreeDNA exports and tree links
 
+## Contents
+
+- Goal
+- The failure to prevent
+- Before starting
+- Eight workflows
+- Hand off interpretation
+
 ## Goal
 
 Keep a usable FamilyTreeDNA (FTDNA) match/segment dataset through exports, name collisions and tree

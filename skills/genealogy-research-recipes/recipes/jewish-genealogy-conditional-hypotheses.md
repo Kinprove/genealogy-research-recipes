@@ -2,6 +2,17 @@
 
 > Version 1.0 · 2026-10-07
 
+## Contents
+
+- Goal
+- The failure to prevent
+- 1\. Make the Jewish context an input, not a universal rule
+- 2\. Separate the propositions before combining clues
+- 3\. Apply the register to Jewish research outputs
+- Worked example: a naming clue becomes a search, not a death date
+- Worked example: an endogamous match cannot close its own bridge
+- Prompt craft
+
 ## Goal
 
 Apply a working hypothesis to Jewish naming, locality and DNA clues without letting one supported proposition establish the others. A proposed father can select a search town; establishing that father still does not establish the child's birthplace, the intended namesake or the ancestor behind every shared segment.

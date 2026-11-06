@@ -1,5 +1,21 @@
 # Recipe: Practical DNA Painter maps, matrices and tree worklists
 
+## Contents
+
+- Goal
+- Inputs and routing
+- 1\. Paint a measured match and inspect the saved result
+- 2\. Copy or merge map data without changing whose DNA it represents
+- 3\. Remap inherited intervals with the Common Segment Generator
+- 4\. Calculate provisional missing intervals with the Inferred Segments Generator
+- 5\. Combine overlapping comparisons with the Distinct Segment Generator
+- 6\. Plan the next descendant's test with the Coverage Estimator
+- 7\. Annotate a cluster-derived map without assigning the whole cluster
+- 8\. Turn a direct-ancestor tree into a bounded research worklist
+- 9\. Audit a numeric pair matrix against its measurements and relationships
+- 10\. Inspect Shared cM histograms and a two-value range screen
+- Prompt pattern
+
 ## Goal
 
 Build a reusable chromosome-map packet and perform the right operation on it: paint an observed match, move existing data, intersect inherited intervals, infer missing intervals, combine overlapping coordinates, or plan another descendant's test. Use a direct-ancestor tree separately when the next task is to inspect pedigree gaps or repeated paths. Use a numeric tester-pair matrix to audit sourced shared amounts beside documented relationships. Use Shared cM histograms and a two-value range screen to inspect sourced pair amounts.

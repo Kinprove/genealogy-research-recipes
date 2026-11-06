@@ -9,6 +9,18 @@ Overlapping steps live in sibling recipes:
 - Recovering a whole estate file: [probate case inventory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md).
 - Identity rulings: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- What goes wrong
+- 1\. Test free versus enslaved status first
+- 2\. Look for a document that names the enslaver
+- 3\. Generate and eliminate candidate enslavers
+- 4\. Follow the personal-property chain, not land
+- 5\. Build a per-document register of named enslaved people
+- 6\. Check segregated series before calling a search negative
+- 7\. Keep narratives and DNA as separate tests
+- Outputs
+
 ## What goes wrong
 
 An unaided assistant tends to make these mistakes:

@@ -4,6 +4,20 @@ Use this when a Danish, Norwegian, Swedish or Icelandic emigrant is known from d
 
 Covered elsewhere and not repeated here: [same-name elimination](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md), [searching through an associate (§9)](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md), classifying name tokens (the catalogue's recipe on name searches across scripts and OCR), [native spellings and holdings audits (§2)](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
 
+## Contents
+
+- Fix the identity anchors before touching home-country indexes
+- Build the expected name forms and log them as a register
+- Follow a Swedish soldier name beyond the muster index
+- Search the forms, then browse to the known date
+- Pivot through co-travellers when the passenger search fails
+- Discriminate same-named candidates with a comparison table
+- Read a Norwegian bygdebok by farm, then verify it
+- Use Norwegian censuses and emigrant protocols within their ranges
+- Denmark: go beyond the church books
+- Rebuild siblings and marriages from the named parents
+- Close with an origin packet
+
 ## Fix the identity anchors before touching home-country indexes
 
 From destination records (census, church, naturalization, obituary, passenger list), extract and keep separate:

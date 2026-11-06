@@ -5,6 +5,13 @@ metrical books, revision lists, resident rolls or civil registers. This is catal
 triage before document retrieval. For checking the retrieved object's boundaries and
 inspected pages, continue with [archival-image-coverage-verification.md](archival-image-coverage-verification.md).
 
+## Contents
+
+- Set the target before filtering
+- Use title signals for recall, then inspect their meaning
+- Keep geographical selection separate from content verification
+- Record what each decision rests on
+
 ## Set the target before filtering
 
 Define whether the task needs a list of named people, a personal dossier, aggregate

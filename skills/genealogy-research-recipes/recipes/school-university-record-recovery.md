@@ -13,6 +13,19 @@ A compiled or published list is a lead with limited coverage. Absence from it do
 
 Related recipes cover overlapping steps. For index hits that are not proof a file exists, and for keeping a copy-holder's item (such as a CAHJP film) separate from the original repository's signature, use [archival image coverage verification](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md). For an archive's "no records" reply and for identity rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For Cyrillic, Latin and Hebrew spelling expansion, use the catalogue's recipe on recovering attested spellings across scripts and OCR. For Ukrainian case titles that only look like named lists, use [Jewish archival list triage](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewish-archival-list-triage.md). For names that changed at conversion or re-registration, use [Russian-Empire Jewish identity attribution](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md).
 
+## Contents
+
+- 1\. Fix the institution and its educational district at that date
+- 2\. Judge the school's own fond from its inventory
+- 3\. If the school's fond is lost, go to the district curator and cross-district lists
+- 4\. Compare parallel custodial copies entry by entry
+- 5\. For higher schools, check every index hit against the inventory and the file
+- 6\. Read the full original list, not a filtered extract
+- 7\. Classify each entry's role before you infer years or graduation
+- 8\. Build a dated career series from serial yearbooks
+- 9\. When institutional files are lost, recover the school from later files
+- Output: school and custody register
+
 ## 1. Fix the institution and its educational district at that date
 
 - List every school of the right type in the town for the attendance years. Do the same for every higher school the person could have reached. Sources for this include:

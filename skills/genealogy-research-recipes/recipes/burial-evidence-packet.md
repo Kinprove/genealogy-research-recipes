@@ -1,5 +1,16 @@
 # Build a burial evidence packet from cemetery records
 
+## Contents
+
+- Goal
+- Before starting
+- 1\. Check coverage before changing the name
+- 2\. Search the recorded name fields separately
+- 3\. Preserve the photograph and both inscriptions
+- 4\. Carry the hit to the plot and cemetery records
+- 5\. Keep a discrepancy open and choose the next record
+- Prompt pattern
+
 ## Goal
 
 Recover a cemetery entry, its available photograph or inscription, and the information needed

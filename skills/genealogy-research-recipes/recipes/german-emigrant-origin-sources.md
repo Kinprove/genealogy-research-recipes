@@ -10,6 +10,17 @@ This recipe does not cover these steps, so use the linked recipes for them:
 - Catalogue, film and image crosswalks: [FamilySearch record workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
 - Same-name and identity rulings: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- 1\. Find the office that created the emigration files
+- 2\. Separate official records from compiled resources
+- 3\. Record each index's stated coverage before searching
+- 4\. Search the series for people who left without permission
+- 5\. Check U.S. church-extract series against their congregation list first
+- 6\. Identify the contingent of a Revolutionary-era "Hessian"
+- 7\. Confirm the hit in the original birth or baptism register
+- 8\. Return an origin worksheet
+
 ## 1. Find the office that created the emigration files
 
 Translate the U.S. clue into the historical territory (the lectures call it the "nobility area"; in German, Territorium or Land). Then list that territory's upper, middle and lower government levels. The presenter uses a chart that names, for each territory, the office that kept emigration records. Search the catalogue under that office, not just under the state name. [S1], [S2]

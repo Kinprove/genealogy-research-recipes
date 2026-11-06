@@ -1,5 +1,24 @@
 # Recipe: Correlating evidence & proving identity — the judgment AI gets wrong
 
+## Contents
+
+- Goal
+- The mental model (proof is one correlated argument, not a pile of facts)
+- Hard rules — apply these before you rule (the load-bearing directives)
+- What the HUMAN must own (never delegate to an AI conclusion)
+- Where AI reliably goes wrong (the named failure modes — never trust)
+- Techniques that work
+- Worked mini-examples (the reasoning logic)
+- Use a naming pattern to choose a search
+- Compare the creation stages within a marriage record
+- Follow record versions and test disputed dates
+- Resolve a relationship label across successive unions
+- Discover same-name rivals before accepting a census hint
+- Using working hypotheses without inheriting their assumptions
+- Pitfalls worth internalizing (the least-obvious, most-LLM-usable part)
+- Verification discipline
+- Related
+
 ## Goal
 
 How an AI assistant (or a genealogist using one) can correlate documentary + DNA evidence and rule on **identity and proof** without inheriting the model's biases — what the human must decide, where the model reliably fails, and the techniques that actually separate same-named people and reconcile conflicts.

@@ -2,6 +2,14 @@
 
 Use when an image, transcription, catalogue or name index disagrees with another copy, or when reporting that a case was completely inspected. This recipe verifies the source and the inspected scope; identity conclusions belong to [evidence-proof-judgment.md](evidence-proof-judgment.md).
 
+## Contents
+
+- Separate the objects before counting them
+- Catalogue disagreements and reading order
+- Report coverage as pages × targets
+- Adjudicate each field against the image
+- Scan availability and index coverage are different questions
+
 ## Separate the objects before counting them
 
 Keep the archival case/volume, digital file or image group, index record, and person distinct. Record the archive/fund/inventory/case, film or DGS, item or digital part, viewer image, and printed page or leaf/verso in separate fields. Preserve identifiers literally before adding a proposed mapping.

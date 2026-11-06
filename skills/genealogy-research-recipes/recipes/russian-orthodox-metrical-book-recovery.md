@@ -20,6 +20,20 @@ Other recipes cover the overlapping steps:
 - **Bessarabian books.** For Bessarabian metrical books of 1811–1923, which the National Archives Agency of Moldova (ANA) keeps in fond 211 by district opis (its op. 23 covers Tiraspol uezd of Kherson guberniya), use [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
 - **Galician books.** For Galician Greek Catholic and Roman Catholic books and the archives that hold them, use [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
 
+## Contents
+
+- 1\. Route by the period uezd, guberniya and see, never by the modern oblast
+- 2\. List every parish that could have served the village in that year
+- 3\. Route each parish-year to both custodians
+- 4\. Inside a consistory fond, record the delo and the leaf span, and check every delo for the year
+- 5\. When an entry conflicts with other records, read the other exemplar
+- 6\. Recover a missing marriage
+- 7\. Read the formulae literally first
+- 8\. Copy every margin note as its own dated event and follow it
+- 9\. Treat names and patronymics as hypotheses
+- 10\. Use machine-read full-text search for leads, never for a negative
+- Output
+
 ## 1. Route by the period uezd, guberniya and see, never by the modern oblast
 
 - **Start from the pre-1917 units, not today's oblast.** Place the village in its pre-1917 uezd and guberniya, then find the see that held its parish in the event year. Today's oblast boundaries say nothing about where the books accumulated.

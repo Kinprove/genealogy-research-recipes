@@ -1,5 +1,17 @@
 # Recipe: Name mismatch in a Russian-Empire Jewish family — which branch, and what DNA can still say
 
+## Contents
+
+- Goal
+- The mental model (a name is a household label; the register is a ledger of registration)
+- Hard rules — apply before you place anyone
+- What the HUMAN must own
+- Where AI reliably goes wrong (the named failure modes)
+- Techniques that work
+- Worked mini-examples (the reasoning logic)
+- Pitfalls worth internalizing
+- Verification discipline
+
 ## Goal
 
 When a Jewish person from the Pale, Lithuania, Belarus, Ukraine, Latvia or Congress Poland turns up under a given name, patronymic or surname that fits neither candidate branch — or fits the wrong one — decide which branch (if either) they belong to: which record features and household-structure signals actually discriminate, in what order to check them, which naming and re-registration mechanisms must be carried as explicit competing hypotheses, and what DNA can still contribute when the tree carries endogamy plus repeated pedigree collapse. The statutory dates cited below are the Russian imperial regime of the Pale guberniyas; Congress Poland kept its own civil-status registration and surname chronology, and Courland and Bessarabia have their own — confirm the jurisdiction before applying a date.

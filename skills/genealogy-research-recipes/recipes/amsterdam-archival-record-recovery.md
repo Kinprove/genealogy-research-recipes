@@ -9,6 +9,16 @@ For the general rule that an intention or banns entry is not a marriage, use [ev
 - browsing film images: [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md)
 - patronymic-to-surname hypotheses: [Jewish conditional hypotheses](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewish-genealogy-conditional-hypotheses.md)
 
+## Contents
+
+- Read the index hit before trusting it
+- Fix the locator and the register's own rules
+- Ondertrouw: a registration, not a wedding
+- Population register: a running household ledger
+- Civil-period follow-ups
+- Portuguese-Jewish material before and after 1811
+- Close with a register-entry packet
+
 ## Read the index hit before trusting it
 
 - **Check the role column of every hit.** The name shown can be the father's rather than the child's. In S2's example, a doop hit that looked like a man's 1799 birth was really his son's entry [S2].

@@ -6,6 +6,17 @@ Scope: this recipe covers the Lastenausgleich series reached through invenio and
 
 For the general rule that an index entry or no-hit is not the file's contents, use [archival image coverage verification](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md). For the same locator-and-claimant pattern in another country, see [US military pension file recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md). For scoping a zero-hit query to what the field covers, use the catalogue's recipe on recovering attested spellings across scripts and OCR and [FamilySearch workflows § 13](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md). Same-name and identity rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). Keep the request log in the format of the [research log](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md).
 
+## Contents
+
+- 1\. Choose the index that fits the file class
+- 2\. Record every hit as a row with separate locator fields
+- 3\. Keep same-name hits apart until the fields match
+- 4\. Separate the indexed person, the applicant and the relatives inside the file
+- 5\. Estimate family content from the applicant's role before ordering
+- 6\. Order by exact signature and log each access state with dates
+- 7\. Route residences and dates to the next records
+- Output: hit register
+
 ## 1. Choose the index that fits the file class
 
 - **Lastenausgleich (Bundesarchiv, invenio).** This is the route described by participants who order these files regularly [S1]:

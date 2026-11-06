@@ -16,6 +16,20 @@ Link out for the shared steps:
 - **Following the household and the moving registers:** [Swedish parish record recovery](scandinavian-parish-record-recovery.md).
 - **Identity rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Classify the man before choosing a series
+- 2\. Read a nil only against what the index actually covers
+- 3\. Work the general muster rolls as dated snapshots, not a career file
+- 4\. Before 1683 and in the Great Northern War: browse by regiment and year
+- 5\. Treat a soldier name as the *rote*'s label, not the man's identity
+- 6\. Officers and NCOs: the pension fund holds the career file
+- 7\. Conscripts: search the card by name, read both sides, and follow the number
+- 8\. Båtsmän: navy series by naval station
+- 9\. Enlisted men: rolls survive only for garrisoned regiments, and contracts sit in the regiment's archive
+- Close with a routing packet
+
 ## Inputs to gather first
 
 - the title exactly as written in each parish entry, with its date, and any regiment, company, number or *rote* (allotment district) named

@@ -1,5 +1,21 @@
 # AncestryDNA: eight practical ways to investigate matches
 
+## Contents
+
+- Goal
+- Access and inputs
+- 1\. Find the target through its closest relatives
+- 2\. Work a branch with a small anchor table
+- 3\. Search collateral names, not just the ancestral surname
+- 4\. Put the branch code first; make the dots readable
+- 5\. Fix the tester link; search hypotheses with a separate tree
+- 6\. Detect a label that already uses your shared-match evidence
+- 7\. Recover a missing row through another view
+- 8\. Match the person across sites before using segments
+- Worked example
+- Never delegate
+- Reusable prompt
+
 ## Goal
 
 Find a target's family even when its own tree is missing, then pursue the connection to your family. The key shortcut is to work the target's relatives in order of **cM to the target**, rather than cM to you.

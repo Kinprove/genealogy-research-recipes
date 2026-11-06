@@ -1,5 +1,19 @@
 # Recipe: MyHeritage DNA match investigation playbook
 
+## Contents
+
+- Goal
+- 1\. Start with the right kit and preserve theories before relinking
+- 2\. Build a shortlist without losing matches behind an old filter
+- 3\. Use labels for branches, notes for evidence, and favorites for follow-up
+- 4\. Turn shared matches into specific comparison candidates
+- 5\. Use the triangulation shortcut, then compare smaller subsets
+- 6\. Audit a Theory of Family Relativity one connection at a time
+- 7\. Recover genealogical leads when the match's tree is missing or private
+- 8\. Send a message the match or manager can answer
+- 9\. Resume with comparable snapshots and a preserved evidence packet
+- Artifact schemas
+
 ## Goal
 
 Produce a small, reproducible investigation packet: a match shortlist, dated notes and labels,

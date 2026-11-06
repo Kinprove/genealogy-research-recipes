@@ -1,5 +1,17 @@
 # Recipe: Inventory the documents of a probate case
 
+## Contents
+
+- Goal
+- Before starting
+- 1\. Establish the case and its record-series scope
+- 2\. Resolve every discovered reference into its own inventory row
+- 3\. Search for later and non-will parts of the proceeding
+- 4\. Reconcile retrieval coverage and hand off interpretation
+- Optional: recover a reported opinion about the estate
+- Optional: recover copied proceedings from an appeal
+- Prompt pattern
+
 ## Goal
 
 Recover the available documents behind a probate index, will or administrator's bond.

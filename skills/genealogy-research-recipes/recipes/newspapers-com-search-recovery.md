@@ -1,5 +1,16 @@
 # Newspapers.com: Recover Notices That Name Searches Miss
 
+## Contents
+
+- Goal
+- Decisive rules
+- Resolve a title to a holding and an issue
+- Use a notice index's documented personal-place field
+- Follow an obituary collection's actual arrangement
+- Search recipes
+- Bounded execution and stopping rules
+- Prompt-craft
+
 ## Goal
 
 Recover an ancestral newspaper notice when an exact-name search fails, and distinguish a

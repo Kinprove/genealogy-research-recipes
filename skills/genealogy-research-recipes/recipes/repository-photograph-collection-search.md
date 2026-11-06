@@ -9,6 +9,18 @@ This recipe covers search coverage and caption provenance. For a located Swedish
 - Record your searches with the [research log](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md).
 - For street and business names by year, use [city-directory observations](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md).
 
+## Contents
+
+- Find the collections that cover the town and period
+- Browse by place, subject and business, not by person
+- Riddarhuset portraits: select the branch, then inspect the object
+- Browse neighboring aerial-image series and paper copies
+- Exhaust each repository's surfaces before reporting no image
+- Add family-uploaded memorial portals in former Soviet cases
+- Keep each statement about the image separate
+- Record a proposed identification as an attribution
+- Return
+
 ## Find the collections that cover the town and period
 
 Start from the family's locality and date range, not from the name. List these candidate holdings:

@@ -11,6 +11,16 @@ Related recipes cover the surrounding steps:
 - For fixing residences, use the [census](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md) and [city-directory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md) recipes.
 - For identity rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- Mistakes this recipe prevents
+- 1\. Fix residence and context before choosing a church
+- 2\. Build a candidate congregation table, not a nearest-church guess
+- 3\. Search every register type and every relative
+- 4\. Get past index misses to the original image
+- 5\. If the registers are not filmed, trace the successor and custodian
+- Outputs and limits
+
 ## Mistakes this recipe prevents
 
 - Searching only the church nearest the census address, then treating a miss there as absence.

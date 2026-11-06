@@ -18,6 +18,17 @@ file. It does not cover these related tasks, which have their own recipes:
 - Retrieving records from Polish archives: [Polish original-record recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/polish-index-original-record-recovery.md).
 - Identity and birthplace rulings: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- Do not open with a survival verdict
+- Pin the town and county first
+- Search the catalogues beyond "census"
+- Write locally, in order
+- Classify every reply; do not convert it to absence
+- Read registration place roles separately
+- Follow a settlement or residential entry into its associated file
+- Close with a request-and-reply packet
+
 ## Do not open with a survival verdict
 
 Do not claim that German nominal census lists are lost or rare.

@@ -1,5 +1,18 @@
 # Recipe: Using AI reliably in documentary & records genealogy research
 
+## Contents
+
+- Goal
+- The mental model (get this right or everything downstream breaks)
+- Operating rules — the non-negotiables (apply these on every task)
+- What to delegate freely (AI is genuinely good at these)
+- What to never trust or delegate (verify, or don't)
+- Prompt-craft that practitioners found works (the reusable core)
+- Worked mini-examples (workflow logic, not clicks)
+- Image restoration, colorization & generation — protecting evidentiary trust
+- The pitfalls worth internalizing (the least-obvious, most-LLM-usable part)
+- Verification & privacy discipline
+
 ## Goal
 
 How an AI assistant (or a genealogist using one) applies AI to **documentary records** — handwritten, foreign-language, and unindexed sources — reliably: what to hand off freely, what to never trust, the prompt patterns that hold up, and why generated or "restored" images corrupt evidentiary trust.

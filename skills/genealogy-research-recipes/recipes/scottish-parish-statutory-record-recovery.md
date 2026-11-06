@@ -9,6 +9,18 @@ Some steps overlap with other recipes; use those recipes for them:
 - FamilySearch Catalog and image routes: [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
 - Whether a negative search is reasonably exhaustive: [standards audit](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/genealogy-standards-audit.md).
 
+## Contents
+
+- Fix the jurisdiction as of the event date
+- Choose the register system by date
+- Classify each OPR entry from the image
+- Test gaps before reporting absence
+- Follow corrections and church-court records as later sources
+- Read Scottish census images as enumeration books
+- Route executry and land apart from English probate
+- Bridge censuses with valuation rolls
+- Close with an event register
+
 ## Fix the jurisdiction as of the event date
 
 - **Record the county exactly as the record writes it.** Before 1890, some parishes lay in detached parts of another county, and some parishes straddled a county line. The Boundary Commissioners under the Local Government (Scotland) Act 1889 reassigned these in 1889–92. For example, most of Caputh's detached parts went to Angus parishes in 1891. Indexes can therefore put one parish in different counties before and after the change. Brady's example is a border parish indexed in Aberdeenshire before 1890 and in Banffshire afterwards, even where the record names the other county. If the parish does not turn up, search the neighbouring county's index as well. [S1], [S3]
