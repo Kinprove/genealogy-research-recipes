@@ -9,23 +9,25 @@ RECIPES = ROOT / "skills/genealogy-research-recipes/recipes"
 MAX_LINES_WITHOUT_CONTENTS = 100
 CONTENTS = "## Contents"
 NUMBERED = re.compile(r"^(\d+)\. ")
-FENCE = re.compile(r"^(`{3,}|~{3,})(.*)$")
+FENCE = re.compile(r"^ {0,3}(`{3,}|~{3,})(.*)$")
 
 
 def h2_headings(lines):
     """Return (line index, line) for each `## ` heading outside fenced code blocks.
 
-    As in CommonMark, a fence closes only on a line of the same character, at least as
-    long as the opening fence, with nothing after it. A ```` block can hold a ``` example.
+    As in CommonMark, a fence line is indented by at most three spaces, a backtick
+    fence's info string has no backtick, and a fence closes only on a line of the same
+    character, at least as long as the opening fence, with nothing after it. A ```` block
+    can hold a ``` example.
     """
     fence = None
     headings = []
     for index, line in enumerate(lines):
-        match = FENCE.match(line.lstrip())
+        match = FENCE.match(line)
         if fence:
             if match and match[1][0] == fence[0] and len(match[1]) >= len(fence) and not match[2].strip():
                 fence = None
-        elif match:
+        elif match and (match[1][0] == "~" or "`" not in match[2]):
             fence = match[1]
         elif line.startswith("## "):
             headings.append((index, line))
@@ -45,6 +47,11 @@ class RecipeContentsTests(unittest.TestCase):
     def test_a_longer_fence_hides_an_inner_fence_and_its_headings(self):
         lines = ["## A", "````markdown", "```text", "## Not a section", "```", "````"]
         lines += ["~~~", "## Not a section either", "```", "~~~", "## B"]
+        self.assertEqual([line for _, line in h2_headings(lines)], ["## A", "## B"])
+
+    def test_only_a_fence_indented_up_to_three_spaces_opens_or_closes_a_block(self):
+        lines = ["```text", "    ```", "## Not a section", "```", "    ```", "## A"]
+        lines += ["   ```", "## Not a section either", "   ```", "``` not`a fence", "## B"]
         self.assertEqual([line for _, line in h2_headings(lines)], ["## A", "## B"])
 
     def test_contents_lists_name_every_section_in_order(self):
