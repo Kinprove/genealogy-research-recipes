@@ -164,8 +164,7 @@ series of offices can frame a migration before residence records show it; a new 
 supports a move hypothesis, not a move date. In the same case, a December 1841 entry at
 Columbus, Georgia, prompted the hypothesis that the man meant to collect mail there while moving
 to Chambers County, Alabama. Columbus is across the
-Chattahoochee and not on Chambers County's border. One case does not show how often pickup
-offices crossed borders. (S7, S52, S53, H3)
+Chattahoochee and not on Chambers County's border. (S7, S52, S53, H3)
 
 When the local issue is lost, undigitized or silent, search the name across all titles without a
 place filter for a reprint. Editors exchanged papers and copied items, often crediting the source,
