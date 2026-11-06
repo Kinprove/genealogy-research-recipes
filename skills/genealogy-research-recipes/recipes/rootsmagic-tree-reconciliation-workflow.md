@@ -85,7 +85,9 @@ For writing research conclusions to a GEDCOM file, see
 
 1. Map each RootsMagic record to the intended Ancestry profile and FamilySearch PID.
    Compare immediate family and identifying records, not only the displayed name.
-2. For Ancestry, use TreeShare from the Publish page. Initial upload creates a new
+2. For Ancestry, use TreeShare from the Publish page in RootsMagic 8 and later.
+   RootsMagic 7.5 had it under the Internet menu, with a toolbar button added on first
+   use. [H1, H8] Initial upload creates a new
    Ancestry tree; downloading an existing tree creates a new RootsMagic database.
    Do not describe those operations as attaching any existing local file to any tree.
    Record which local file the connection belongs to. [H1]
@@ -173,8 +175,11 @@ Unselected or unavailable objects stay explicit; do not call the whole person sy
 Use TreeShare's changed-person view or FamilySearch Central's updates list to identify
 the next bounded comparison. Recheck the linked person and current destination before
 reusing an earlier decision; another FamilySearch contributor may have changed the profile.
-Do not disconnect and reconnect a tree merely to clear comparison markers. The current
-RootsMagic help warns that disconnecting its Ancestry link cannot simply be undone. [H1, H6, H7]
+Do not disconnect and reconnect a tree merely to clear comparison markers. RootsMagic's
+WebHint Settings help warns that disconnecting the file from its Ancestry tree cannot be
+undone: reconnecting means uploading to a new Ancestry tree, downloading into a new
+RootsMagic file or restoring an earlier backup. [H7] The TreeShare help's own no-undo
+note is for the "Delete the person from…" button. [H1]
 
 Stop when the agreed batch is verified and every exception has a next action, or when
 access, unresolved identity or the batch budget prevents further supported transfers.

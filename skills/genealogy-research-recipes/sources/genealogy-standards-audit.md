@@ -16,7 +16,15 @@ citations and certification rubrics are not reproduced. Checked 2026-10-07.
 - BCG, [Proof Statements 1](https://www.bcgcertification.org/ten-minute-methodology-proof-statements-1)
   and [Proof Summaries and Arguments 1](https://www.bcgcertification.org/ten-minute-methodology-proof-summaries-and-arguments-1)
   — context-dependent proof statements and the continuum of writing forms.
+  Rechecked 2026-11-06 for the quoted standard: proof statements are used "when at
+  least two citations demonstrate that a conclusion's accuracy requires no
+  explanation", and conflicting evidence needs more than a proof statement.
   Rights: cited for attribution, not reproduced.
+- Thomas W. Jones, [The Genealogical Proof Standard: How Simple Can It Be?](https://bcgcertification.org/skillbuilding-the-genealogical-proof-standard-how-simple-can-it-be/)
+  (BCG OnBoard, 2010; opened 2026-11-06) — a simple proof whose citations show the
+  sources' independent origins and in which no source disagrees with another's answer.
+  Counting citations by information stream is this recipe's reading of these sources,
+  not a quoted rule. Rights: cited for attribution, not reproduced.
 - Elizabeth Shown Mills, [QuickLesson 19: Layered Citations](https://www.evidenceexplained.com/content/quicklesson-19-layered-citations-work-layered-clothing)
   and [Source Citations: The Velcro Principle](https://www.evidenceexplained.com/quicktips/source-citations-velcro-principle)
   — consulted versions, source-of-source details and locator ownership.

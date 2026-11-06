@@ -137,15 +137,18 @@ independently supported observations are retained with their original attributio
 | Situation | Appropriate product |
 | --- | --- |
 | Work completed for a bounded phase, with unanswered questions or unavailable evidence | Research report: work performed, findings, limits and specific next steps |
-| At least two supporting citations in the statement or its broader documented context support a directly evidenced conclusion that needs no explanatory discussion; that context demonstrates adequate research scope | Proof statement in that context |
+| At least two supporting citations, to agreeing sources of independent origin, in the statement or its broader documented context support a directly evidenced conclusion that needs no explanatory discussion; that context demonstrates adequate research scope | Proof statement in that context |
 | Direct evidence supports a relatively straightforward answer; any small inconsistencies can be explained briefly | Proof summary with the supporting references and explanation |
 | Direct evidence is absent, significant conflicts must be resolved, or the identity/relationship depends on substantial correlation | Proof argument organized around the reasoning and relevant alternatives |
 
-Locate those supporting citations before recommending a proof statement. The
-two-citation condition selects a writing form; it does not establish source
-independence or evidentiary sufficiency. If the packet supplies only one, identify
-the missing support and retain a research report or qualified draft while it is
-addressed; do not add a token citation to meet a count.
+Locate those supporting citations before recommending a proof statement. Count
+them by information stream: an index and the register it abstracts, or two trees
+copying one claim, count as one. If they disagree, or their independence needs
+explaining, the conclusion needs discussion and a proof statement is the wrong
+form. The two-citation condition selects a writing form; it does not establish
+evidentiary sufficiency. If the packet supplies only one independent citation,
+identify the missing support and retain a research report or qualified draft while
+it is addressed; do not add a token citation to meet a count.
 
 Summary and argument are a continuum, not word-count categories. More explanation
 is useful only when it makes the inferential chain visible. A proof draft organized

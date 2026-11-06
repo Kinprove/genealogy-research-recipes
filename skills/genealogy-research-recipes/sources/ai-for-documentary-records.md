@@ -142,6 +142,12 @@ pricing, model suitability and recognition gains are not verified.
 - *Vision* (Resolution and token cost; Image quality guidance) — Claude API Docs (Anthropic) — <https://platform.claude.com/docs/en/build-with-claude/vision> — opened 2026-11-02 — Used for: oversized images being downscaled before processing by default, model-dependent limits, the option to reject instead of resize, and the guidance not to crop away key visual context solely to enlarge text. Rights: cited reference, not reproduced.
 - *Computer use tool* (Size screenshots to fit image limits) — Claude API Docs (Anthropic) — <https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool> — opened 2026-11-02 — Used for: the agent harness resizing screenshots itself, because the API rejects oversized tool-result images instead of downscaling them. Rights: cited reference, not reproduced.
 
+### Census indexes on Ancestry
+
+- *The Wait is Over! The 1950 U.S. Census Now Available on Ancestry®, Powering Countless New Discoveries* — Ancestry corporate blog, 2022-04-01 — <https://careers.ancestry.com/blogs/ancestry-corporate/the-wait-is-over-the-1950-u-s-census-now-available-on-ancestry-powering-countless-new-discoveries> — opened 2026-11-06 — Used for: Ancestry's proprietary AI handwriting recognition making the 1950 U.S. census searchable. Rights: cited reference, not reproduced.
+- *The 1931 Census is now online* — Library and Archives Canada news release, 2023-06-01 — <https://www.canada.ca/en/library-archives/news/2023/06/the-1931-census-is-now-online.html> — opened 2026-11-06 — Used for: Ancestry applying its proprietary handwriting-recognition AI to transcribe the 1931 Census of Canada. Rights: cited reference, not reproduced.
+- *1921 census released on Ancestry* — Who Do You Think You Are? Magazine, 2025-01-09 — <https://www.whodoyouthinkyouaremagazine.com/news/1921-census-ancestry> — opened 2026-11-06 — Used for: Ancestry licensing Findmypast's transcription of the 1921 England and Wales census rather than producing its own. Rights: cited reference, not reproduced.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

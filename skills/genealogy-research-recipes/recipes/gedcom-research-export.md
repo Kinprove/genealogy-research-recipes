@@ -40,11 +40,13 @@ Gather these before writing:
 ## 1. Choose the destination and the version
 
 - **Write a local `.ged` file unless the user chose another destination.** A connected tree service is not the destination just because it is connected. Do not read from it or write to it for this task unless the user chose it.
-- **Write the version the target program imports.** If the user names none, ask. If the user cannot say, write GEDCOM 5.5.1 with `CHAR UTF-8`. The official index still lists 5.5 and 5.5.1 as in use in the marketplace [S2], a software vendor announced in 2021 that its export would default to 5.5.1 until 7.0 is in widespread use [S3], and 5.5.1 permits UTF-8 as its character set [S4], [S5]. When the user later names a program, re-export in its version.
+- **Write the version the target program imports.** If the user names none, ask. If the user cannot say, write GEDCOM 5.5.1 with `CHAR UTF-8` and the rest of the header that 5.5.1 requires: `SOUR`, a `SUBM` pointer to a submitter (SUBM) record in the same file, and `GEDC` with `VERS 5.5.1` and `FORM LINEAGE-LINKED` [S4]. The official index still lists 5.5 and 5.5.1 as in use in the marketplace [S2], a software vendor announced in 2021 that its export would default to 5.5.1 until 7.0 is in widespread use [S3], and 5.5.1 permits UTF-8 as its character set [S4], [S5]. When the user later names a program, re-export in its version.
 - **Do not treat a header change as a conversion.** Between 5.5.1 and 7.0, rewrite at least these [S1]:
   - **Character set:** 7.0 uses only UTF-8.
+  - **Header:** 7.0 has no `HEAD.CHAR` or `HEAD.GEDC.FORM`, and `HEAD.SUBM` is optional. A 5.5.1 file needs all three, and its SUBM pointer needs a matching SUBM record [S4].
   - **Continuation lines:** 7.0 removed `CONC` along with the old line-length limits. Join `CONC`-split values into one line.
   - **Calendars:** 7.0 writes the calendar as a keyword (`GREGORIAN`, `JULIAN`, `FRENCH_R`, `HEBREW`). Versions 4.0 to 5.5.1 used an `@#D…@` escape instead.
+  - **BC years:** 5.5.1 writes `B.C.` after the year [S4]; 7.0 writes the epoch `BCE` after the date [S1].
   - **Extension tags:** 7.0 maps documented extension tags to their URIs in `HEAD.SCHMA`.
 - **Check the syntax against the official specification of the target version,** linked from the gedcom.io index [S2]. Do not invent a dialect.
 - **For a conversion, keep the original file unchanged** and write the result as a separate derivative file.
@@ -61,6 +63,7 @@ Gather these before writing:
 - **If a record proves only the father, write a FAM with him as the only partner and the child as CHIL.** Keep the mother unresolved in the notes. HUSB and WIFE are each optional in 7.0 [S1] and in 5.5.1 [S4], [S6].
 - **Never put the child into the father's existing couple family.** Being his wife does not prove she is the mother. The father then belongs to two FAM records, one with his wife and one with the child.
 - **Never turn a shared patronymic and surname into a CHIL link.** Keep the candidate in the notes and go on with the search that can tell the candidates apart.
+- **After an import, open each one-parent family in the destination.** A reply in a 2024 FamilySearch Community thread on its new GEDCOM upload says the system creates an "Unknown" parent when one is missing [S13]. RootsMagic shows "Unknown spouse" over an empty slot that holds no person [S14]. Do not treat such a placeholder as an identified partner or attach evidence to it; list it in the export packet.
 - **Do not infer a partner's sex or role from the HUSB or WIFE pointer.** GEDCOM 7 says so explicitly [S1]; 5.5.1 still assumes HUSB is male and WIFE is female [S4], so a 5.5.1 reader may do exactly that.
 
 ## 4. Cite the source, and carry the status in a NOTE, not in QUAY
@@ -75,7 +78,7 @@ Gather these before writing:
 - **Keep the original name spellings, the date uncertainty, the calendar and the historical jurisdiction.**
 - **Write an Old Style date as Julian in the target syntax:** `JULIAN 3 MAY 1892` in 7.0 [S1], `@#DJULIAN@ 3 MAY 1892` in 5.5.1 [S4], [S7], [S8]. A 7.0 date without a calendar is read as Gregorian [S1], so the keyword is required. Never convert a date to New Style silently; take the offset for the date's century from evidence/proof judgment.
 - **Keep a dual year.** Before 1752, England, Wales, Ireland and the British colonies began the year on 25 March; Scotland used 1 January from 1600 [S9], [S10]. A date from 1 January to 24 March may therefore belong to the next modern year; a record may write it as a dual year such as 1731/32. In 7.0 the year is a plain integer with no slash form [S1]. Put the New Style year in DATE, keep the Julian calendar keyword, and put the literal dual date in PHRASE: `2 DATE JULIAN 30 JAN 1649` with `3 PHRASE 30th of January, 1648/9`. Moving the year start does not convert the day and month to Gregorian. If the year itself is uncertain, write `2 DATE BET 1648 AND 1649` with `3 PHRASE 1648/9` [S1]. In 5.5.1, carry the literal dual date in a NOTE beside the DATE. Never drop to one year silently: that moves ages and the order of events by a year. How to read such a date: [evidence/proof judgment § Follow record versions and test disputed dates](evidence-proof-judgment.md).
-- **Do not pad an approximate date.** `ABT 1890` stays `ABT 1890`, never a full day and month. 7.0 has `ABT`, `CAL` and `EST` for approximations, `BEF` and `AFT` for one-sided bounds, and `BET … AND` for a range [S1]. If the target version cannot express a detail, keep it in a NOTE and in the notes, and say what was lost.
+- **Do not pad an approximate date.** `ABT 1890` stays `ABT 1890`, never a full day and month. Both 5.5.1 and 7.0 have `ABT`, `CAL` and `EST` for approximations, `BEF` and `AFT` for one-sided bounds, `BET … AND` for a range, and `FROM … TO` for a period [S1], [S4]. The versions differ in how they write the calendar and a BC year (section 1). If the target version cannot express a detail, keep it in a NOTE and in the notes, and say what was lost.
 - **When versions conflict, keep both.** For example, a tree gives a birth year and a document gives a Julian date in another year. Keep both in the notes with their provenance, and add a NOTE in the export that names the dispute. Do not choose one silently.
 - **Never re-export a disputed link as confirmed, and never overwrite the user's file** with a new conclusion.
 
@@ -83,6 +86,7 @@ Gather these before writing:
 
 - **A pure format conversion keeps every claim and link of the supplied tree,** unverified ones included, with their provenance and status. It is not an evidence cull: do not drop claims that would fail the bar for new research findings. It confirms nothing either.
 - **List every custom tag, attachment and media link that was not carried over,** and carry its meaning in a standard NOTE where you can.
+- **Media files do not travel inside a `.ged` file.** A 5.5.1 `OBJE` `FILE` value is a local or remote file reference [S4], often a path on the sender's computer such as `d:\Media\…` [S12], so the link breaks when the file moves. 7.0 defines GEDZIP: a `.gdz` zip archive that holds the dataset as `gedcom.ged` together with the local media files it references [S1]. Write a GEDZIP only when the destination imports it; otherwise hand the media files over separately and list them.
 - **Do not call a conversion lossless, or an import into another program successful, until you have checked it in that program.** For transfers between RootsMagic, Ancestry and FamilySearch, use the RootsMagic recipe's destination check.
 
 ## 7. Bring a supplied tree into existing research
@@ -97,7 +101,7 @@ Gather these before writing:
 
 ## 8. Check the written file before handing it over
 
-- **Check that the file conforms to the declared version:** the header, the character set, the date syntax and the tags of that version.
+- **Check that the file conforms to the declared version:** the header, the character set, the date syntax and the tags of that version. A 5.5.1 header needs `SOUR`, `SUBM`, `GEDC` with `VERS` and `FORM LINEAGE-LINKED`, and `CHAR`, and the file needs the SUBM record that `SUBM` points to [S4].
 - **Check that every INDI, FAM and SOUR pointer resolves.** In 7.0, every pointer except the null pointer `@VOID@` must occur as the cross-reference identifier of a structure in the same file [S1].
 - **Compare the exported links, citations and notes with the research notes.**
 - **Apply the living-person rules to a copy prepared for sharing.** Leave out or redact the living and probably living, private notes, and attachments the user did not choose to share. Writing a local export publishes nothing; do not upload the file or its attachments anywhere the user did not choose.
@@ -120,7 +124,8 @@ Return:
 - **Destination:** the user's choice, or local by default.
 - **ID map:** the supplied file's cross-reference IDs against your person handles.
 - **Coverage:** people parsed out of the total, and the unsupported fields kept.
-- **Not carried over:** custom tags, attachments, media and details the version cannot express, each with the NOTE that carries its meaning, if any.
+- **Not carried over:** custom tags, attachments, media and details the version cannot express, each with the NOTE that carries its meaning, if any; and whether media travel in a GEDZIP or separately.
+- **Placeholders:** any "Unknown" partner a destination showed or created for a one-parent family.
 - **Disputes:** each conflicting version with its provenance, and the NOTE that names it in the file.
 - **Checks:** version conformance, pointer resolution, agreement with the research notes, and any check in a destination program.
 - **Sharing:** the living-person handling applied, or "local only".
