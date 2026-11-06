@@ -10,6 +10,10 @@
   - *Used for:* a participant's report of GDR-era Kreismeldekartei cards received from a Kreisarchiv and their contents; differing release terms, including a data-protection refusal; the suggestion to ask for the legal basis of a refusal under the state archive law.
 - **S5:** Ahnenforschung.net Forum, [Suche nach meinem Urgroßvater](https://forum.ahnenforschung.net/forum/thread/3014348/), 2026-05-12.
   - *Used for:* the case of a 1947 deregistration to a named village, followed by "no further entries" replies from local and state archives, and then the person's appearance in a 1950 district address book, as reported by participants.
+- **S6:** Bayerischer Landesverein für Familienkunde e.V., [Recherchemöglichkeiten im Bayerischen Staatsarchiv in Landshut](https://www.youtube.com/watch?v=AzU31Iw2B0k), 2022-01-26; original saved transcript window checked 2026-11-06.
+  - *Used for:* the settlement/permission finder-to-personal-file route in the presentation's patrimonial-administration discussion, an origin lead and examples of surviving personal enclosures. The transcript is noisy; no depicted finder, contents table, attachment or original file was inspected. The example establishes neither a universal attachment set or administrative date boundary nor present custody, survival, access or a person's origin.
+- **S7:** Bayerischer Landesverein für Familienkunde e.V., [Familienforschung Stadtarchiv Augsburg, Teil 2](https://www.youtube.com/watch?v=CvkUR0-sqBQ), 2022-02-20; original saved transcript window checked 2026-11-06.
+  - *Used for:* a residential occupation list followed to a trade card and a separate trade-permission file, attributed testimony in that file and a separately described municipal personnel file. No original card, file, depicted extract or employment record was inspected. Independent evidence of municipal employment as the gate to a personnel-file search is authored synthesis; no general licensing rule, adverse character claim, complete career or present holdings/access is established.
 
 **What the sources supply and what is authored:** S1–S3 are lectures by one presenter. His survival percentages, fee examples, archive anecdotes and the record-return agreement are his own claims and estimates. S4 and S5 are forum participant reports. The following are authored synthesis, not the presenter's or participants' procedure: the contact ordering as a decision rule, the reply-status register, the place-role fields, the confirmation gate for inferred birthplaces, the rule of treating card entries as leads, the forward-following rule for departure entries, and the German heading variants other than *Volkszählung* and *Einwohner* (standard archival vocabulary matched to the headings he names).
 
@@ -17,6 +21,7 @@
 
 ## Credits
 
+- Kinprove original settlement- and registration-led associated-file retrieval synthesis from the attributed presentations S6–S7, without reproduced transcript passages, images or tables or a claim to their rights — FSL-1.1-MIT (kinprove-original)
 - BYU Family History Library, Roger Minert, German Census Records: A New Genealogical Source, YouTube lecture, 2023-03-01 — Standard YouTube License; all rights reserved by the creator (adapted)
 - BYU Family History Library, Roger Minert, Census Records in Germany 1816-1916, YouTube lecture, 2021-01-15 — Standard YouTube License; all rights reserved by the creator (adapted)
 - BYU Family History Library, Roger Minert, Residential Registration in Germany, YouTube lecture, 2021-01-29 — Standard YouTube License; all rights reserved by the creator (adapted)

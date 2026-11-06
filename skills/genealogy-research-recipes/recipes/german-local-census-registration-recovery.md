@@ -9,7 +9,9 @@ Use this recipe when the research needs a German nominal census list (roughly 18
 - accepting statistical tables as the record;
 - treating a stated origin town as the birthplace.
 
-This recipe covers locating German local records and keeping place roles separate. It does not cover these related tasks, which have their own recipes:
+This recipe covers locating German local records, keeping place roles separate and following
+a supported settlement or residential-registration lead into its associated administrative
+file. It does not cover these related tasks, which have their own recipes:
 
 - Checking parent and child jurisdictions in the FamilySearch Catalog: [FamilySearch holdings audit](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) (§ 2).
 - Getting from U.S. arrival records to an origin locality: [emigrant-origin recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md).
@@ -98,6 +100,60 @@ When a destination record names an origin town and searches of baptism, confirma
 
 An inferred birthplace stays a hypothesis until a church or civil entry in that place confirms it. Route the identity ruling to the proof recipe.
 
+## Follow a settlement or residential entry into its associated file
+
+### A Bavarian settlement or marriage-permission lead
+
+When local marriage and parish records leave an origin unresolved, check the dated
+settlement or permission administration as a separate record family. The Landshut
+presentation describes this route in its discussion of patrimonial administration in
+1808–1848, using a finder and an *Ansässigmachung* file with personal papers [S6].
+That setting is a historical finding lead, not a rule for every Bavarian town or period.
+
+1. Use the supported residence, person and period to identify the responsible settlement
+   office in the actual holdings description, including a patrimonial court where the
+   description places those records. Do not substitute the parish or modern municipality
+   for the creating authority.
+2. Inspect its settlement or marriage-permission finder. Preserve the name, any origin
+   statement and the actual file reference supplied. Use that entry to identify the
+   separate personal file; if the locator is unclear, retain the entry when asking the
+   custodian to resolve it. A finder entry is not the file.
+3. Retrieve the file and inspect its contents list and surviving enclosures. The source
+   illustrates school or trade papers, military discharge, property statements and a
+   travel book; these are examples, not a required attachment set [S6]. Record what was
+   actually received, including missing or uninspected components.
+4. Carry an attributed birthplace, former residence, institution or travel place into
+   a dated follow-up search. Keep the place's stated role and the document's informant;
+   an attachment or finder statement does not itself settle birthplace or identity.
+
+### An occupation on a residential sheet leads to a trade file
+
+Use the actual occupation wording and dates from an inspected residential sheet as
+search keys, rather than treating its occupation list as a complete work history.
+The Augsburg presentation follows a *Meldebogen* to a *Gewerbekartei* card naming an
+additional trade and then to a separate *Gewerbeamt* permission file [S7].
+
+1. Search the responsible archive's trade-card or trade-registration finder for the
+   supported person and period. Compare its identifiers with the residential entry;
+   preserve an additional occupation as a separately sourced statement.
+2. Use the named trade and dates to select the actual office's surviving permission
+   or concession-file descriptions. Follow any reference supplied, but do not invent
+   one or assume every occupation required a licence. Verify custody and access for
+   that product before requesting it.
+3. Inspect the retrieved file's actual documents and dates. Attribute an employer's
+   or colleague's assessment to that speaker and document, rather than turning adverse
+   testimony into established biography. Keep an application, refusal, appeal and
+   permission separate where the file actually records them.
+4. Seek a municipal personnel file only when a separate evidenced employment link
+   supplies the municipal office or post and period. Use those details to select its
+   personnel-file description. Private employment or a residence occupation alone
+   does not establish municipal employment. The source's separate personnel-file
+   example is not a promise that every resident has one [S7].
+
+Return the linked entry, finder/card and separate file, with each locator, received
+extent and attributed place or work statement. Leave unsupported employment links,
+missing files and a complete career reconstruction unresolved.
+
 ## Close with a request-and-reply packet
 
 Return:
@@ -108,5 +164,7 @@ Return:
 - the reply-status register;
 - the inspected enumeration or registration pages, with archive locators kept separate from film or image locators;
 - for each person, the birthplace, previous residence and destination fields, each with its confirmation status.
+- where an associated-file route was followed, the referring entry, separate file and
+  actual enclosures, with their retrieval status and unresolved links.
 
 Name the next archive or heading for any route still open. Log searches using [research documentation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md).
