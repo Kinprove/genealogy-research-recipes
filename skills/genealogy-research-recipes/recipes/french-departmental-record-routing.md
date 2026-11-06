@@ -64,6 +64,26 @@ Gather these before searching:
 - **Read what an entry gives:** date of death and domicile, the surviving or predeceased spouse in tables opened from about the late 1880s, and the date of the succession declaration, with its number in later tables [S7]. Entries are not always complete [S8].
 - **Follow the declaration date into the registre des mutations par décès (register of transfers on death)** of the same office [S7], then order the death act from the commune the domicile points to.
 
+### A 1902 Saint-Pierre victim-index or family lead
+
+For a person independently connected with the Martinique disaster, carry the name and
+family clues beyond the victim index. The 2024 presentation describes an incomplete list
+assembled from civil registration at the Archives nationales d’outre-mer (ANOM) and death
+judgments registered at the Fort-de-France court [S44]. These are two record targets.
+
+1. Search the described memorial or Généalogie et Histoire des Caraïbes victim list where
+   available. Preserve the exact entry and any cited act or judgment reference; an absent
+   name in this partial list does not establish survival.
+2. Follow a civil-registration reference into ANOM’s relevant commune and register.
+   For a death-judgment reference, ask the archive which inventory and surviving records
+   cover the Fort-de-France court and stated period. If the family lead has no locator,
+   use its supported name, locality and dates to request those two searches separately;
+   do not substitute the ordinary mainland mairie route for the named court target.
+3. Compare the inspected civil entry and judgment with the independent family details.
+   Keep their dates, stated persons and locators separate, recording which record
+   actually identifies the victim and which link is unresolved. Return the index →
+   civil-registration/judgment chain; a surname match alone does not identify a victim.
+
 ## 5. Read the nominative census lists household by household
 
 - **Expect a list every five years from 1836 to 1936, then 1946.** The 1871 census was taken in 1872 and none was taken in 1916 [S5].
@@ -130,11 +150,33 @@ uncertainty. A blank departure field does not establish continuous presence.
    unavailable, uninspected or uncertain stretch explicit. Do not fill the soldier's
    personal chronology from the regiment's whole wartime narrative.
 
-## 7. Look for the right copy of an ancien-régime parish register
+## 7. Choose an ancien-régime register or an earlier civic substitute
 
 - **Expect one copy before 1667.** The Ordonnance de Saint-Germain-en-Laye of 1667 required parish registers to be kept in two copies, one sent to the court registry (*greffe*) [S18].
 - **Expect patchy greffe copies from 1667 to 1736.** The royal declaration of 9 April 1736 restated the duty because it had been widely neglected, and required two registers, both authentic [S19]. In the Gard the greffe collection starts between 1667 and 1736 depending on the parish [S20].
 - **When one copy is lost or damaged, look for the other in a different series.** The parish original usually sits in the communal fonds (GG, then E) or E-dépôt; the greffe copy forms its own E sub-series [S18]. In the Côtes-d'Armor the greffe copy of the parish registers is in 6 E (7 E holds the civil registers) [S18]; read each AD's finding aid for both copies.
+
+### Before parish registers: a northern town’s civic admission book
+
+For a known northern French or Picard town and a lineage gap before parish registers,
+select its *registre de réception* or *livre de bourgeoisie*. The 2026 presentation
+describes chronological civic admissions, possible filiation and published transcriptions
+of these books [S45]. Civic status itself does not establish the proposed parent.
+
+1. Use the town and bounded admission period to identify the relevant book and edition
+   in the local inventory or catalogue. Keep the civic-admission record distinct from a
+   parish register; the source also describes nonresident bourgeois, so residence alone
+   does not determine whom the book can include.
+2. Use a published transcription as a finder. If it has an index, check its covered
+   years and follow the reference into the dated entry; otherwise search the relevant
+   chronological stretch. Preserve the admission date and register/page locator, then
+   seek the corresponding original entry. If only the edition is accessible, cite it
+   explicitly and leave the original’s inspection status open.
+3. Extract the literal parent wording and the named parties’ stated roles. Compare that
+   statement with the existing lineage before adding a parent; distinguish an explicit
+   filiation from a shared surname, a civic-status label or a later editor’s inference.
+   Return the town/period → admission book → transcription/original entry chain and
+   the relationship wording actually recovered.
 
 ## 8. Find property transfers and notarial minutes
 
@@ -398,6 +440,9 @@ Return:
 - **Prison row:** the dated institutional clue, selected penal category, table or
   repertory reference, admission number and original entry locator, with identity links
   supported by the inspected records.
+- **Alternative death/parentage rows:** the Saint-Pierre index and separate civil or
+  court targets, or the town’s civic-admission book and edition/original locator; retain
+  the wording inspected and any unresolved victim or parentage link.
 - **Gaps:** INSEE years 1970–1975, greffe copies before 1736, unindexed census years, and for early 1939 whether the Archives nationales camp lists were read.
 
 The model assembles this packet. The researcher decides identity and kinship.
