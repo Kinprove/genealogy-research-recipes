@@ -30,6 +30,14 @@ controls and access requirements. Tutorials below describe historical interfaces
 tool is an access limitation, not a completed comparison. Do not substitute remembered default
 thresholds, match limits, kit prefixes or processing times for what the current screen reports.
 
+**Privacy checkpoint before any upload:** Authorization to analyze a kit is not permission to
+upload it. An upload places that person's genome in GEDmatch, where the kit's settings decide who
+can match and see it. Before each upload, make the separate privacy decision in `SKILL.md` step 5:
+record the tested person, the file and the visibility and matching options the upload form
+currently offers, and require that person's explicit permission for GEDmatch and the chosen
+options. If permission is unclear, do not upload. Apply the consent rules in
+[AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline).
+
 Use separate workflows for general spreadsheet export and cluster construction. This recipe
 owns the GEDmatch run and comparison records.
 
@@ -42,8 +50,9 @@ query controls, local marker coverage and reporting scope.
 ### 1. Establish a kit registry and a comparable run baseline
 
 1. Record each kit's tested person, testing source and whether it is measured, phased or
-   reconstructed. Keep multiple tests of one person as separate kit records. Preserve the
-   original download and the upload receipt; use the vendor's current upload instructions. [H1]
+   reconstructed. Keep multiple tests of one person as separate kit records. Upload only after
+   the privacy decision in `SKILL.md` step 5 (see the checkpoint in "Before starting"). Preserve
+   the original download and the upload receipt; use the vendor's current upload instructions. [H1]
 2. Record the readiness state actually shown. After processing, use a known relative as a
    comparison control. Save its baseline One-to-One result rather than treating an upload
    receipt as evidence that matching is ready. [H2]
@@ -309,5 +318,12 @@ Use `genealogy-research-recipes` → `xdna-phasing-judgment.md` for segment trus
 phasing and reconstructed-kit quality; `ai-for-dna-research.md` for endogamy, multiple descent
 paths and selecting relatives; `unknown-parentage-wato.md` for placement hypotheses; and
 `evidence-proof-judgment.md` for documentary identity and conclusions. Pass the preserved
-run records with those requests. Pass verified measurements to the painting workflow in
-DNA Painter.
+run records with those requests.
+
+**Privacy checkpoint before painting:** the measurements carry other testers' segment data. Before
+passing them to DNA Painter, make the separate privacy decision in `SKILL.md` step 5: require
+explicit permission covering this action, this destination and each person's data, and strip
+identifiers the map does not need, as
+[AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline) requires. If
+permission is unclear, keep the measurements in the local run records. With that permission, pass
+verified measurements to the painting workflow in DNA Painter.

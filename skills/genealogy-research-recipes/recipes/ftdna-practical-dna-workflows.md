@@ -38,6 +38,9 @@ an interval where both overlap the focal kit.
 For workflows 1–4, use authorized account access and start with the paired export in workflow 1. FTDNA downloads
 require two-factor authentication. [H6]
 Keep original files and profile details private; use opaque handles in shared summaries.
+Authorized access covers analysis, not tree changes: workflows 3 and 4 also need the privacy
+decision in `SKILL.md` step 5, set out at the start of workflow 3, before any tree connection or
+match link.
 
 For an authorized kit-continuity handoff, distinguish present access from a recorded kit
 manager and any separately recorded beneficiary. Leave missing or unconfirmed designations
@@ -146,6 +149,15 @@ segment file. Do not join a held-out person until both conditions hold.
 
 ### 3. Inventory links before any tree change; relink deliberately
 
+**Privacy checkpoint before connecting a tree or linking a match:** A link ties a tester's DNA
+result to a person in the tree, and the tree's settings decide who else can see that person and
+relationship. Before connecting, switching or relinking a tree, make the separate privacy decision
+in `SKILL.md` step 5: record each match and tree person involved, inspect the current tree and
+profile visibility settings, and require explicit permission covering each link from the kit
+holder and from the linked tester. Account access does not establish it. If permission or
+visibility is unclear, keep the ledger rows local and leave the current link unchanged. Apply the
+consent rules in [AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline).
+
 Before connecting, switching or disconnecting the MyHeritage tree, seed a link inventory from the
 match export's **Linked Relationship** and **Matching Bucket** columns, then record the corresponding
 tree person from your existing link ledger and documented pedigree path for each linked match.
@@ -178,6 +190,10 @@ second cousin). To assign a match, FTDNA detects a shared phased DNA block betwe
 match and linked relative: the block is carried by the same alleles and meets the special Family
 Matching threshold. The linked relative's tree position supplies the parental side. ICW is not
 used for bucketing. [H4, S5]
+
+**Privacy checkpoint:** Each anchor link puts a relative's DNA result on the tree. Apply the
+workflow 3 checkpoint (`SKILL.md` step 5) to every anchor before linking it, including that
+relative's own permission.
 
 Link documented relatives who identify one side first: parents and grandparents, then aunts,
 uncles and cousins. Children and full siblings share both sides and cannot split them. [S5] An
