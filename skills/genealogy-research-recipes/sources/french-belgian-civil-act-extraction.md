@@ -20,5 +20,5 @@ fraction and named family conclusions are not adopted as verified claims.
 
 - BYU Family History Library, Liz Hutchison, Belgium Civil Records in French (After 1795), class recorded 2 Sep 2022 — YouTube standard license, rights reserved by the publisher (adapted)
 - BYU Family History Library, Liz Hutchison, The French Republic Records and Calendar (1792-1815), class recorded 9 Sep 2022 — YouTube standard license, rights reserved by the publisher (adapted)
-- Elise Lenoble, Auprès de nos Racines, Rechercher dans les archives de l’état civil de Paris, 2024-12-29 — cited procedural source (adapted; no record images reproduced)
+- Elise Lenoble, Auprès de nos Racines, Rechercher dans les archives de l’état civil de Paris, 2024-12-29 — cited procedural source; no record images reproduced (adapted)
 - Kinprove original procedural synthesis, including the conditional marginal-note locator, subject and copy checks attributed to S4; the presenter's reading techniques and worked examples are cited as S1 and S2; Belgian archive routing is checked against the State Archives and pages cited as S5 — FSL-1.1-MIT (kinprove-original)

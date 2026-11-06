@@ -38,6 +38,6 @@ Links cite the guide and metadata; no guide prose or images are reproduced.
 
 ## Credits
 
-- Kinprove — original retrieval and volume-verification procedure — FSL-1.1-MIT (kinprove-original)
-- Institute of History of Ukraine and the guide's credited editors/publisher —
-  bibliographic and source attribution only; their material is not relicensed here.
+- Kinprove — original retrieval and volume-verification procedure; the Institute of History of
+  Ukraine and the guides' credited editors and publishers are cited for bibliographic attribution
+  only and keep their rights — FSL-1.1-MIT (kinprove-original)
