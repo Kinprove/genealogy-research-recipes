@@ -9,16 +9,25 @@ RECIPES = ROOT / "skills/genealogy-research-recipes/recipes"
 MAX_LINES_WITHOUT_CONTENTS = 100
 CONTENTS = "## Contents"
 NUMBERED = re.compile(r"^(\d+)\. ")
+FENCE = re.compile(r"^(`{3,}|~{3,})(.*)$")
 
 
 def h2_headings(lines):
-    """Return (line index, line) for each `## ` heading outside fenced code blocks."""
-    in_fence = False
+    """Return (line index, line) for each `## ` heading outside fenced code blocks.
+
+    As in CommonMark, a fence closes only on a line of the same character, at least as
+    long as the opening fence, with nothing after it. A ```` block can hold a ``` example.
+    """
+    fence = None
     headings = []
     for index, line in enumerate(lines):
-        if line.lstrip().startswith(("```", "~~~")):
-            in_fence = not in_fence
-        elif not in_fence and line.startswith("## "):
+        match = FENCE.match(line.lstrip())
+        if fence:
+            if match and match[1][0] == fence[0] and len(match[1]) >= len(fence) and not match[2].strip():
+                fence = None
+        elif match:
+            fence = match[1]
+        elif line.startswith("## "):
             headings.append((index, line))
     return headings
 
@@ -33,6 +42,11 @@ def expected_contents(section_headings):
 
 
 class RecipeContentsTests(unittest.TestCase):
+    def test_a_longer_fence_hides_an_inner_fence_and_its_headings(self):
+        lines = ["## A", "````markdown", "```text", "## Not a section", "```", "````"]
+        lines += ["~~~", "## Not a section either", "```", "~~~", "## B"]
+        self.assertEqual([line for _, line in h2_headings(lines)], ["## A", "## B"])
+
     def test_contents_lists_name_every_section_in_order(self):
         paths = sorted(RECIPES.glob("*.md"))
         self.assertTrue(paths, f"no recipes found in {RECIPES}")
