@@ -67,15 +67,15 @@ search and collection pages refused automated access that day:
   the filters under "+ More".
 - **H11:** MyHeritage, interface text of the SuperSearch form, served by MyHeritage's content server
   on 2026-11-06 (last modified 2026-11-05). Used for: the switch label "Show results from other
-  languages" under the title Global Name Translation, and the note that a bracketed translated name
-  is not in the original data and may be inaccurate. This is the observed interface, not a help
-  page; no default state is documented, so the recipe asks for the state to be recorded.
+  languages" under the title Global Name Translation, and a translated name shown in square
+  brackets. This is the observed interface, not a help page; no default state is documented, so the recipe asks for the state to be recorded.
 - **H12:** MyHeritage, [Names & Stories in Newspapers from OldNews.com (New York, New Jersey, Rhode Island, Connecticut)](https://www.myheritage.com/research/collection-12016/names-stories-in-newspapers-from-oldnewscom-new-york-new-jersey),
   collection page, read from the Internet Archive capture of 2026-07-17 (the same text is on the
   2026-03-19 capture of collection 12009). Used for: records extracted by AI, an AI-generated summary
-  on every record, mistakes such as incorrect relationships, and the advice to read the scanned page.
-  No MyHeritage page says that a summary merges items; the recipe's misattribution caution is
-  Kinprove synthesis from the summary being generated text.
+  on every record, mistakes such as incorrect relationships, and the advice to read the scanned page;
+  also, in the search-form text embedded in these captures, the note that a bracketed translated name
+  is not in the original data and may be inaccurate. No MyHeritage page says that a summary merges
+  items; the recipe's caution about the summary is Kinprove synthesis from its being generated text.
 
 ## Credits
 

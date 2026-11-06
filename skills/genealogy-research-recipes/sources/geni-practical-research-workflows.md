@@ -34,6 +34,7 @@ latest captures found, from 2023.
 - **H21:** Geni Help, [What is a Merge Request?](https://help.geni.com/hc/en-us/articles/229705447-What-is-a-Merge-Request-), capture of 2023-05-30; the Merge Center lists pending merges, which can be viewed, completed or undone there.
 - **H22:** Geni Help, [What permissions do Curators have in my tree?](https://help.geni.com/hc/en-us/articles/229706807-What-permissions-do-Curators-have-in-my-tree-), capture of 2023-11-29; curators approve merges and designate Master Profiles, optionally locking fields from being edited.
 - **H23:** Geni Help, [What is a Master Profile?](https://help.geni.com/hc/en-us/articles/229704047-What-is-a-Master-Profile-), capture of 2023-09-29; curators may lock individual fields of a Master Profile or the whole profile, and a user who wants to edit a locked field contacts that profile's curator. No page found says what a merge does to a locked field, so the recipe states no outcome.
+- **H24:** Geni blog, [New Feature: Merge Center](https://www.geni.com/blog/?p=841), 2010-08-19, opened 2026-11-06; a merge completes immediately when you have permission on both profiles, otherwise it becomes a request to the managers, and an accepted collaboration lets you complete merges on the collaborator's public profiles.
 
 ## Credits
 

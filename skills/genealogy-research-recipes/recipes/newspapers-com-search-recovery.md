@@ -344,7 +344,7 @@ Use precise result labels:
   Do not broaden this to “no newspaper record exists.”
 - **Coverage gap:** identify the absent issue, edition or page and the next holding to check.
 - **Access blocked:** identify material that exists but could not be inspected.
-- **Publisher Extra required:** a special case of access blocked. The hit is listed, but the
+- **Publisher Extra required:** a special case of access blocked, when a hit is listed but its
   page needs a Publisher Extra subscription, which adds the papers still under copyright
   ("typically 1931 and newer", per the plans page); Basic does not include them. The hit
   shows that the issue exists and that its OCR matched the query, so it is not a coverage

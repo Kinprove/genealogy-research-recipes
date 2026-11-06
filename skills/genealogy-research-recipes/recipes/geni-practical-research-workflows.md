@@ -141,7 +141,7 @@ permission on both profiles: profiles you manage, profiles managed by someone in
 or a collaborator's public profiles. Otherwise Geni sends a merge request, and every other manager
 must accept it; you can never complete a merge when one of the profiles has been claimed. Curators
 can approve merges. Pending merges can be viewed, completed or undone in the Merge Center.
-[H19, H20, H21, H22]
+[H19, H20, H21, H22, H24]
 
 1. Preserve both candidate URLs, immediate families and sources. Open the second candidate before
    starting **Actions → Merge This Profile** on the first; the documentation recommends this to

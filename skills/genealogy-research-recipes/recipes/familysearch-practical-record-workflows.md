@@ -199,7 +199,7 @@ confirmed the right series. A matching title alone does not establish the right 
 
 **Trigger:** An image is blocked at home, a restriction symbol appears, or Download is disabled.
 
-1. Save the exact message and film/DGS/item; distinguish blocked viewing from disabled downloading.
+1. Save the exact message shown when the image opens, and the film/DGS/item; distinguish blocked viewing from disabled downloading. The messages and their access classes are listed after these steps.
 2. Inspect Catalog notes and availability information for the authorized route.
 3. Confirm that route for the specific item before arranging a library or center visit.
 4. Reopen that same item through the permitted route and record the actual outcome.
@@ -259,7 +259,7 @@ index entry exists. Never construct a record ID for a line that has no index ent
 
 **Trigger:** Records returns no useful match, although relevant material may exist.
 
-1. Open Full Text from the main Search menu, or from the full-text icon in a Catalog entry. It has been a standard search tool since 30 August 2025; tutorials from 2024 show it in FamilySearch Labs, which no longer applies [S89].
+1. Open Full Text from the main Search menu, or from the full-text icon in a Catalog entry. It has been a standard search tool since 30 August 2025; it started in FamilySearch Labs in 2024, so older tutorials may show it there [S87], [S89].
 2. Start with a surname or distinctive documented name.
 3. Compare keyword search with the Name field; recognized-name search can miss words present in the transcript.
 4. Try documented initials, abbreviations, spelling variants and name order.
