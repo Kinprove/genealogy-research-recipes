@@ -173,6 +173,16 @@ motivates this safeguard; it does not validate a formula or establish a birth da
 5. Compare candidate heads across adjacent censuses and other records. Track recurring associates and historical jurisdictions. Reject a candidate only for an evidenced conflict, not a surname preference.
 6. Investigate a missing expected adult through alternate names, adjacent locations, property records, or another enumeration. Keep error, absence, and separate residence as distinct explanations.
 
+If one head's tallies hold more young men or children than a family plausibly contains,
+especially near a college or academy, test a commercial or institutional household. Search
+local newspapers for tavern, hotel, boarding-house or school notices that name the head,
+including notices by later keepers that name him as a former proprietor. Record each notice's
+date and locator, and compare the date with the census reference date, because a house can
+change keepers. A notice offering student lodging at that house supports reading the excess
+counts as boarders rather than the head's children. A young relative otherwise thought missed
+may be one of those boarders. Keep that as a hypothesis: a compatible bin does not name him,
+and it does not exclude another enumeration elsewhere. [S80]
+
 To seek names behind household counts before 1850, consider the Pennsylvania account's reported
 'Poor School Children' lists at the ends of township tax volumes. Confirm the locality, year and
 surviving volume, then follow any county index to the original list. Record only the child names,

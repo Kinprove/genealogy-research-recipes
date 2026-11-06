@@ -80,6 +80,15 @@
 
 - **S76:** GENEALOGIA PARA INICIANTES, *INFORMAÇÕES DESPERCEBIDAS NO CADASTRO DO ANCESTRAL NO FAMILYSEARCH*, published 2023-11-13 — [source](https://www.youtube.com/watch?v=Uujh5lL2krI). Used for: inspecting a vital assertion’s contributor reason for overlooked census/book page references, then retrieving the cited page; no current control label or profile fact is adopted.
 
+- **S77:** Aimee Cross (Ancestry Aimee), *Personal Family Tree on FamilySearch*, published 2026-10-29 — [source](https://www.youtube.com/watch?v=Xe9Bvo0nDCA). Used for: comparing a person's ID in an uploaded tree with the shared Family Tree's, a GEDCOM upload as a separately controlled tree, and the warning that a family group tree does not protect deceased ancestors from outside edits. Its upload menu path, its claim that accepting a match mirrors Family Tree data, its "latest changes" view and its GEDCOM-tree alternative to a group tree are not adopted.
+- **S78:** FamilySearch Developers, *Comparison of Family Tree and User Trees*, opened 2026-11-06 — on [FamilySearch Developers](https://developers.familysearch.org/main/docs/), found by its title. Used for: person IDs unique across Family Tree and user trees, and changes to a person in one tree not changing the other trees.
+- **S79:** FamilySearch, *New Family Tree Menu Options for Genealogies and Family Group Users*, published 2026-06-10; opened 2026-11-06 — on the [FamilySearch blog](https://www.familysearch.org/en/blog/), found by its title. Used for: GEDCOM upload at Family Tree > Manage Trees, uploaded trees in the User Trees collection of Genealogies, and Review Matches as the place to compare the tree's people with the Family Tree.
+- **S80:** FamilySearch Developers, *User Tree Privacy Settings*, opened 2026-11-06 — [source](https://developers.familysearch.org/main/docs/user-tree-privacy-model). Used for: private trees kept out of search, only deceased, non-sensitive people made public in a public tree, and a private tree becoming public after two years of inactivity, with owner logins and contributor edits counting as activity.
+- **S81:** FamilySearch Help Center, *Family Group Trees Learning Center*, opened 2026-11-06 — [source](https://www.familysearch.org/en/help/helpcenter/family-group-trees-learning-center). Used for: a person's record in a private tree and in a family group tree being separate records that cannot be merged.
+- **S82:** FamilySearch Help Center, *Who can see and edit people in a family group tree?*, read 2026-11-06 — [source](https://www.familysearch.org/en/help/helpcenter/article/see-and-edit-people-in-a-family-group-tree). Used for: deceased ancestors in a group tree being in the public tree, where all users can see and edit them, with no way to move one to group-only view; confidential people copied from a private list as the exception; group members seeing and editing all group-tree information.
+- **S83:** FamilySearch, *Family Group Trees—A Secure Way to Share Living Family Information*, published 2025-01-23; opened 2026-11-06 — [source](https://www.familysearch.org/en/blog/family-group-trees-release). Used for: living relatives' stories, photos and recordings kept private within the group.
+- **S84:** FamilySearch Developers, *Uploading a Tree to User Trees*, opened 2026-11-06 — [source](https://developers.familysearch.org/main/docs/uploading-a-user-tree). Used for: user-tree membership and roles managed on FamilySearch.org, with contributors invited to the tree.
+
 ### Source qualifications
 
 - S01's camera indicates the image viewer; its paper/star icon identifies Full Text in the
@@ -110,6 +119,9 @@
   the current Solutions Gallery listing could not be checked; FamilySearch's current label is
   "compatible", not "certified". Sending the user to compatible software and then to the
   destination check is Kinprove synthesis.
+- S77–S84 supply the facts for the tree-scope, group-tree and private-workspace paragraphs in
+  workflows 14 and 15. S82 was read through search results; the article refused direct access on
+  2026-11-06. The two-tab ID comparison and the workspace-not-evidence rule are Kinprove synthesis.
 
 ## Credits
 

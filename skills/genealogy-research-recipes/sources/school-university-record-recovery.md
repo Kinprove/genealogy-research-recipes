@@ -21,6 +21,10 @@
 - **S19:** J-Roots Forum, [Одесса. Новороссийский Императорский Университет](https://forum.j-roots.info/viewtopic.php?f=175&t=4515), started 2015-04-14. Used for: the three-way conversion search; ДАОО personal-file contents; online inventories; printed lists ending in 1903.
 - **S20:** Ahnenforschung.net Forum, [a thread on a Silesian–Berlin family search](https://forum.ahnenforschung.net/forum/thread/2991761/), started 2026-02-01. Used for: an unlocated Berlin student-list entry, its visible fields, and using the father's details to separate men with the same name.
 - **S21:** Уральская генеалогия, [Запросы о поиске потомков духовенства](https://rodgersforum.borda.ru/?1-29-0-00001498-000-0-0-1668855363=), start date not recorded. Used for: school files giving classes completed, teaching posts, who paid for keep and residence address.
+- **S22:** Michael Rose / CompGen Blog (Verein für Computergenealogie), [DES-Projekt Berichte des Verbandes der Laboratoriums-Vorstände erweitert](https://www.compgen.de/2026/10/des-projekt-berichte-des-verbandes-der-laboratoriums-vorstaende-erweitert/), published 2026-10-29. Used for: the 1898–1939 span; 30 booklets and 29,482 entries; the Hochschule field naming the examining institution rather than the town; the Typ field separating dissertations, Verband certificates and diplomas; place of origin, prior schooling and supervising professor in entries; the cross-check with the *Jahresverzeichnis der Deutschen Hochschulschriften*. The post also names Dresden as a city with both a university and a TH; Dresden had no university in this period, so that example is not used.
+- **S23:** Verein für Computergenealogie, [Search in Berichte des Verbandes der Laboratoriumsvorstände](https://des.genealogy.net/chemiker/search), opened 2026-11-06. Used for: the search form and its Hochschule, Typ, Herkunftsort and Vorbildung fields.
+- **S24:** German Wikipedia, [Technische Universität Berlin](https://de.wikipedia.org/wiki/Technische_Universit%C3%A4t_Berlin), opened 2026-11-06. Used for: the Technische Hochschule's founding in the separate city of Charlottenburg and its renaming after Charlottenburg's incorporation into Greater Berlin in 1920.
+- **S25:** German Wikipedia, [Verbandsexamen](https://de.wikipedia.org/wiki/Verbandsexamen), opened 2026-11-06. Used for: the Verband examination, introduced in 1898, as the prerequisite for admission to the doctorate or diploma examination, not a degree.
 
 **What is authored and what the sources supply.** Some parts are authored synthesis:
 
@@ -58,4 +62,4 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - J-Roots Forum, thread on Tartu (Dorpat/Yuryev) University — Forum terms of use; paraphrased with attribution (adapted)
 - J-Roots Forum, thread on Warsaw higher and professional schools — Forum terms of use; folder identifiers cited as references (adapted)
 - J-Roots Forum, thread on schools of the Moscow educational district — Forum terms of use; paraphrased with attribution (adapted)
-- Kinprove original procedural synthesis drawing on the forum threads cited as S1–S21 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis drawing on the forum threads cited as S1–S21 and the CompGen blog post S22, with facts checked against S23–S25 — FSL-1.1-MIT (kinprove-original)

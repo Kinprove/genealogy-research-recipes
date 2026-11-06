@@ -82,6 +82,26 @@ screenshots, catalog entries and real family examples are not reproduced.
   metrykalne/akta stanu cywilnego: rok 1868](https://ceeol.com/search/article-detail?id=1133084),
   Studia Archiwalne 9 (2022), opened 2026-11-04. Used for: the Russian requirement from the
   beginning of 1868 and its late introduction in many parishes.
+- **P10:** Tatiana Midura, Your Roots in Poland, [A Muslim man, a Catholic woman, and… retirement.
+  An interfaith marriage from 1921](https://yourrootsinpoland.com/a-muslim-man-a-catholic-woman-and-retirement-an-interfaith-marriage-from-1921/),
+  published 2026-11-06, opened 2026-11-06. Used for: a marriage accompanied by a separate, dated
+  supporting paper, the lead for checking the annexes unit. The pledge in its example and where
+  it was filed were not confirmed and are not used.
+- **P11:** Grzegorz Trafalski, [Alegata – źródło do badań genealogicznych. Aneksy z łowickich
+  urzędów stanu cywilnego z lat 1808–1815](https://bazhum.muzhp.pl/media/texts/rocznik-lubelskiego-towarzystwa-genealogicznego/2014-tom-6/rocznik_lubelskiego_towarzystwa_genealogicznego-r2014-t6-s105-124.pdf),
+  Rocznik Lubelskiego Towarzystwa Genealogicznego 6 (2014), opened 2026-11-06. Used for: alegata
+  as the annexes, or proofs, filed with civil marriage acts (birth acts, acts of notoriety and
+  other papers), and register entries that leave some of them unmentioned, such as the banns
+  certificate.
+- **P12:** Adam Szot, [Przejęcie przez władze państwowe ksiąg metrycznych w 1949 r. (w polskiej
+  części archidiecezji wileńskiej)](https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/5076/1/RTK_3_2004_A.Szot_Przyjecie_przez_wladze_panstwowe_ksiag_metrycznych_w_1949_r.pdf),
+  Rocznik Teologii Katolickiej 3 (2004), opened 2026-11-06. Used for: the metrical books of the
+  Polish part of the Vilnius archdiocese being church documents, not civil-status acts.
+- **O16:** Szukaj w Archiwach, ASC fonds descriptions
+  [31560](https://www.szukajwarchiwach.gov.pl/en/zespol/-/zespol/31560) and
+  [31525](https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/31525), opened 2026-11-06. Used for:
+  alegata listed as their own units, with their own signatures and scans, in Congress Poland ASC
+  fonds, running into the interwar years (in one fonds, alegata 1810–1943, scanned).
 
 ## Credits
 

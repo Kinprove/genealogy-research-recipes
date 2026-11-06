@@ -117,6 +117,14 @@ identification pages and actual content before searching for the act. Use a phot
 where available, or define a bounded page range to browse. Record the act/page reference and
 the image locator separately.
 
+For a marriage in an ASC fonds from the Congress Poland civil-status system, check the fonds'
+**List of files** for a separate annexes unit (alegata) for the same year as well as the
+register. The annexes hold the dated supporting papers, such as birth extracts and banns
+certificates, whose content the register entry leaves out. Cite each paper as its own source with
+its own date, and do not use any of them as the marriage date. Where the parish kept only church
+metrical books, as in the former Russian western provinces, do not expect an alegata unit.
+[O16], [P10], [P11], [P12]
+
 When Metryki covers the relevant register, the demonstrated route is region → parish → available
 years/record type → scans. The tutorial follows those choices into a register image; this is
 a second retrieval route, not a promise that every Polish parish is included. [P2]

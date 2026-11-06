@@ -415,6 +415,24 @@ can see and edit it, and only a FamilySearch administrator can set it back to li
 If the tool cannot express the record or the chosen scope, keep the change queued in the working
 packet, and never switch to another tree or scope to make the write succeed.
 
+Before any write, check which tree holds the profile. An uploaded GEDCOM becomes a separate user
+tree whose people have their own person IDs; editing them does not change the shared Family Tree
+[S78]. Open the person in the uploaded tree and in the shared Family Tree, for example in two tabs,
+and compare the IDs. A different ID means a separate copy that changes only that tree. The shared
+Family Tree's ID means the edit changes the shared tree. Person IDs distinguish records, not
+visibility: check the selected tree, its privacy settings and the person's living or confidential
+status before describing an edit as private. Living people in a family group tree are separate records from your own
+private copies, and the two cannot be merged [S81]. [S77]
+
+A family group tree does not shield deceased ancestors. Deceased people in it are the public
+Tree's profiles, so any user can edit them and those edits show in the group tree; a deceased
+ancestor cannot be moved into group-only view. The exception is confidential people copied from
+your private list, who are visible only to the group [S82]. What the group adds is shared access
+to living people: every member can see and edit living relatives that other members add, and
+their stories, photos and recordings can be restricted to the group by setting each Memory
+to Private and selecting that group [S82], [S83]. Do not use a group tree
+to protect research from outside edits. [S77]
+
 **Artifact:** An attachment checklist: record/image URL, named person, documentary role, Tree PID, attachment and reason.
 
 **Check:** The right person is attached, not merely a same-named person on the visible screen. The transcript's focus controls are a 2024 observation.
@@ -460,6 +478,17 @@ nothing. Sources: [history](https://www.youtube.com/watch?v=Q4YYIXVwfGE),
 [Tree history](https://www.youtube.com/watch?v=8Q4gESv4aJ0),
 [double extraction](https://www.youtube.com/watch?v=6K9ZF5aunMs). For exporting or importing a
 GEDCOM, see [Export research findings to a GEDCOM file without changing what they prove](gedcom-research-export.md).
+
+For a tree on FamilySearch that only you control, upload a GEDCOM at **Family Tree > Manage
+Trees**; export it from Ancestry or MyHeritage, or build it in desktop software [S79]. The upload
+becomes a User Tree in the Genealogies collection. You and the people you invite can edit it, and
+the shared Family Tree stays untouched [S78], [S84]. In Settings, mark it private to keep it out
+of Genealogies search; a public tree shows its deceased, non-sensitive people in search. A private
+tree becomes public after two years with no activity; signing in or a contributor's edit resets
+that clock [S80]. The tree is a workspace, not evidence: it holds derived claims, like any
+compiled tree. Use **Review Matches** as a list of people to compare with existing Family Tree
+profiles, check each match against its sources, and do not push the tree's people into the Family
+Tree in bulk [S79]. [S77]
 
 Do not enter tentative facts to generate hints. Hints match the data already on the profile, so a
 hint that agrees with a guess or a merged-in fact is circular confirmation. Give each reviewed hint an

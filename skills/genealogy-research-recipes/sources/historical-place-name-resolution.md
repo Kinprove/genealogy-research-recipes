@@ -42,6 +42,9 @@
 - **S40:** GenWiki, [Gemeindelexikon der im Reichsrate vertretenen Königreiche und Länder/12](https://wiki.genealogy.net/Gemeindelexikon_der_im_Reichsrate_vertretenen_K%C3%B6nigreiche_und_L%C3%A4nder/12), opened 2026-11-02 (read from the search result; the page was behind bot protection). Used for: the 1907 Galicia volume based on the census of 31 December 1900, independently of S39.
 - **S41:** *Rocznik Wieluński* 1 (2001), [article in the BazHum repository](https://bazhum.muzhp.pl/media/texts/rocznik-wielunski/2001-tom-1/rocznik_wielunski-r2001-t1-s111-174.pdf), opened 2026-11-02 (citation read from the search result). Used for: the GUS *Skorowidz miejscowości Rzeczypospolitej Polskiej*, compiled from the census of 30 September 1921 and issued in voivodeship volumes from 1923.
 - **S42:** Dolnośląska Biblioteka Cyfrowa, [Skorowidz miejscowości Rzeczypospolitej Polskiej z oznaczeniem terytorjalnie im właściwych władz i urzędów oraz urządzeń komunikacyjnych (Bystrzycki)](https://dbc.wroc.pl/dlibra/publication/14361/edition/12667?language=pl), opened 2026-11-02. Used for: Bystrzycki's gazetteer, Przemyśl–Warszawa, Książnica Naukowa, ca. 1933, which names the competent authorities and offices for each place.
+- **S43:** FamilySearch, [Heritage Travel Hacks for a Meaningful Family Holiday](https://www.youtube.com/watch?v=HD01BGPMoK4), 2026-10-23. Used: a Penmark (Glamorgan) parish burial entry whose abode column reads *Cwm* instead of the parish name; asking local church members to identify the place.
+- **S44:** A Vision of Britain through Time (GB Historical GIS / University of Portsmouth), [History of Cwm, in The Vale of Glamorgan](https://www.visionofbritain.org.uk/place/23266), opened 2026-11-06 (read from the search result). Used for: Wilson's *Imperial Gazetteer of England and Wales* (1870–72) describing Cwm as a village in Penmark parish.
+- **S45:** UK Genealogy Archives, [Penmark, Glamorgan](https://ukga.org/index.php?pageid=16829), opened 2026-11-06. Used for: the *Comprehensive Gazetteer of England & Wales* (1894–5) listing Cwm among the villages of Penmark parish.
 
 **How the procedure was built.** The procedure is authored synthesis that combines these presenters' case examples and forum participants' worked threads. The synthesis includes:
 
@@ -50,7 +53,7 @@
 - keeping both sides of a boundary as candidate jurisdictions
 - the candidate-table columns
 
-S31–S42 supply the dated facts, the editions and the suffix examples for the Russian-Empire, Soviet and Galician checks in §2–§4.
+S31–S42 supply the dated facts, the editions and the suffix examples for the Russian-Empire, Soviet and Galician checks in §2–§4. S44–S45 supply the gazetteer evidence for the Welsh *Cwm* example in §5.
 
 **What holds generally.** Three patterns recur across independent presenters and are confirmed by checked cases (Edison/South Tacoma, Neuse Crossroads, Small/Fremont→Clark County):
 
@@ -62,4 +65,4 @@ Treat those patterns as standing working rules.
 
 ## Credits
 
-- Kinprove original procedural synthesis; presenter talks and forum threads are cited as S1-S30 for case facts and examples — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; presenter talks and forum threads are cited as S1-S30 and S43 for case facts and examples — FSL-1.1-MIT (kinprove-original)

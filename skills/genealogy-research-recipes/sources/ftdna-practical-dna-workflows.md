@@ -122,6 +122,38 @@ Additional dated examples cited inline:
   earliest-ancestor places plus node ages as no evidence of a historical ancestor's location,
   migration or identity is Kinprove's caution.
 
+Additional Y-haplogroup and Advanced Matches sources:
+
+- **S26:** Roberta Estes, [FOCUS: Step 3 – Breaking Through Brick Walls Using Y-DNA and Mitochondrial DNA](https://dna-explained.com/2026/11/02/focus-step-3-breaking-through-brick-walls-using-y-dna-and-mitochondrial-dna/),
+  DNAeXplained, 2026-11-02. Used for the report that **All Y-DNA** requires a match at every
+  marker level, choosing one shared Y level with Family Finder, and comparing the Y haplogroups
+  of same-surname Family Finder matches through Discover Compare, with a different major
+  haplogroup ruling out the direct paternal line. FamilyTreeDNA documentation does not confirm
+  the every-level behaviour.
+- **S27:** Katy Rowe-Schurwanz, [Introducing Y-DNA Haplogroups for Family Finder Customers](https://blog.familytreedna.com/y-dna-haplogroups-family-finder/),
+  FamilyTreeDNA Blog, 2023-07-31, later updated; checked 2026-11-06. Used for partial
+  SNP-based haplogroups from autosomal tests, their display in the match list, and Ancestry and
+  23andMe transfer haplogroups shown only to the tester.
+- **S28:** Roberta Estes, [FamilyTreeDNA Provides Y DNA Haplogroups from Family Finder Autosomal Tests](https://dna-explained.com/2023/11/30/familytreedna-provides-y-dna-haplogroups-from-family-finder-autosomal-tests/),
+  DNAeXplained, 2023-11-30. Used for STR-predicted haplogroups being updated to a more refined
+  Family Finder haplogroup.
+- **H10:** FamilyTreeDNA Help, [Advanced Matches Guide](https://help.familytreedna.com/hc/en-us/articles/4402652972815-Advanced-Matches-Guide),
+  checked 2026-11-06. Separate Y-DNA12 to Y-DNA111 selections and the **Show only people I
+  match in all selected tests** option.
+
+Additional project-results search sources:
+
+- **S29:** Roberta Estes, [FOCUS: Step 2 – Finding the Y-DNA and Mitochondrial DNA of Your Ancestors](https://dna-explained.com/2026/10/23/focus-step-2-finding-the-y-dna-and-mitochondrial-dna-of-your-ancestors/),
+  DNAeXplained, 2026-10-23. Used for expanding a project's results page from 25 to 5000 rows
+  before a browser search, searching the earliest-known-ancestor column surname by surname
+  through the line, colour marking predicted haplogroups, and checking that a hit's listed
+  woman belongs to the matrilineal line. The `candidate row` status is Kinprove synthesis.
+- **H11:** FamilyTreeDNA Help, [Using the Admin - mtDNA Results Report](https://help.familytreedna.com/hc/en-us/articles/4484000525455-Using-the-Admin-mtDNA-Results-Report),
+  checked 2026-11-06 through search results; the page itself returned an access error. Used for
+  the **Page Size** control, its warning that large page sizes may not work, and results shown in
+  administrator-defined subgroups. It documents the administrator report; the public results
+  page was not checked.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

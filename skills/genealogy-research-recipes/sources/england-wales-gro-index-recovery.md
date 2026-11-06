@@ -1,7 +1,8 @@
 ## Sources
 
 S1–S23 are recorded talks, reviewed 2026-10-20. S24–S32 are official, archive and local-index
-pages, opened 2026-11-04. No search screens, certificates or registers were inspected. Selected
+pages, opened 2026-11-04. S33 is a television programme published on YouTube; S34–S37 are
+collection, index-coverage and official ordering pages, opened 2026-11-06. No search screens, certificates or registers were inspected. Selected
 claims were checked against the authorities named in Credits.
 
 - **S1:** BYU Family History Library / Kathryn Grant, [English Civil Registration Made Easy](https://www.youtube.com/watch?v=nKzlWqJ9tX8), 2018-05-30. Quarter names, the 42-day/at-time/five-day deadlines, December-to-March example, districts as administrative units.
@@ -36,6 +37,11 @@ claims were checked against the authorities named in Credits.
 - **S30:** Jersey Heritage, [Family history research](https://www.jerseyheritage.org/research-and-collections/family-history-research), opened 2026-11-04. Used for: Jersey civil registration from 1842, wills 1660–1999 and Occupation registration cards at Jersey Archive.
 - **S31:** States of Guernsey, [Island Archives](https://www.gov.gg/islandarchives), opened 2026-11-04. Used for: the civil registry and conveyancing registers at the Greffe, Occupation identity registration forms for everyone over 14, and census records at the Priaulx Library.
 - **S32:** Manx National Heritage, [Library and archives](https://manxnationalheritage.im/collections/library-and-archives), opened 2026-11-04. Used for: Manx National Heritage archives and iMuseum finding aids.
+- **S33:** Ancestry, [MI5 Spies, Secret Societies & Lost Millions | Heir Hunters | MARATHON | Ancestry](https://www.youtube.com/watch?v=hfbqfRFBntc), 2026-10-29. A presenter's remark that most marriage indexes in use stop at 2005, prompting the end-year check for a recent marriage; the programme's case is not used.
+- **S34:** Ancestry, [England & Wales, Marriage Index, 1916-2005](https://www.ancestry.co.uk/search/collections/8753), opened 2026-11-06. Used for: the index ending in 2005.
+- **S35:** FamilySearch, [England and Wales, Marriage Registration Index, 1837-2005](https://www.familysearch.org/en/search/collection/2285732), opened 2026-11-06. Used for: the index ending in 2005, supplied by Findmypast.
+- **S36:** FreeBMD, [Marriage transcription progress](https://www.freebmd.org.uk/progressM.shtml), opened 2026-11-06. Used for: the marriage progress chart ending at 2000, and the index not yet fully transcribed.
+- **S37:** GOV.UK, [Order a copy of a birth, death or marriage certificate](https://www.gov.uk/order-copy-birth-death-marriage-certificate), opened 2026-11-06. Used for: ordering from the GRO without an index reference for an extra search fee and later dispatch, and ordering from the local register office where the event was registered.
 
 S18 supports the forename-blank technique in "Sweep for the full sibling group", step 1, alongside S12–S14.
 
@@ -45,7 +51,9 @@ meanings, search behaviours and case examples. Registration deadlines, the 1874 
 date and late-registration provisions, the 1912 spouse-surname start, FreeBMD's start quarter
 and the GRO's search limits were checked against the authorities listed below. The GRO online
 index's year coverage, the local-index route and the Isle of Man and Channel Islands routing
-were checked against the official and archive pages cited as S24–S32. Not checked: ordering
+were checked against the official and archive pages cited as S24–S32. The marriage-index end
+years and the route for ordering a marriage without a reference were checked against S34–S37.
+Not checked: ordering
 prices, current aggregator displays, and the exact quarter from which the original index
 carried a mother's maiden surname. No coding for under-one ages at death or FreeBMD wildcard
 syntax is adopted.
@@ -54,5 +62,5 @@ syntax is adopted.
 
 - Search-form option names and collection or quarter labels as reported by presenters S4, S5, S6, S13 and S15 — Third-party interface and collection labels as reported by the cited presenters; short quotation with attribution, not relicensed (quoted)
 - Kinprove original bibliography and source notes; video titles and channel names given as bibliographic references — FSL-1.1-MIT (kinprove-original)
-- Kinprove original procedural synthesis; field meanings, search behaviours and case examples are paraphrased from community presenters cited as S1–S23 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; field meanings, search behaviours and case examples are paraphrased from community presenters cited as S1–S23 and a television programme cited as S33 — FSL-1.1-MIT (kinprove-original)
 - Kinprove original wording of facts checked against the Births and Deaths Registration Act 1874 (Irish Statute Book and legislation.gov.uk texts), FreeBMD help pages, Free UK Genealogy news, a GRO leaflet, UKBMD district pages, a FamilySearch handout, a LostCousins newsletter and a State Library of Queensland guide — FSL-1.1-MIT (kinprove-original)

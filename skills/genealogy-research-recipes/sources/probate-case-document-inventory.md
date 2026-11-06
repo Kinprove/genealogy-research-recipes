@@ -162,6 +162,14 @@ The linked inventory/queue schema and scope-completion rule are original synthes
   production/copy/index outcomes is authored synthesis; no current holding or legal duty is
   established.
 
+- **S25:** Ashley Morin / Vita Brevis (NEHGS),
+  [The Warham Wheeler Affair](https://vitabrevis.americanancestors.org/the-warham-wheeler-affair),
+  published 2026-11-02. Used for the guardianship example: a 1779 paper for a minor "under
+  fourteen" and a 1783 nomination of the same guardian, whom the minor "above 14 years" had
+  chosen, and the guardian's possible link to the minor's mother, which the article treats as a
+  theory. The separate-row inventory and the rule-first age bound are authored synthesis; no
+  age-of-choice rule for any place or period and no kinship are established.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis, including the bounded reverse-guardian search and role checks attributed to S18 and Swedish production/copy retrieval controls attributed to S24 — FSL-1.1-MIT (kinprove-original)

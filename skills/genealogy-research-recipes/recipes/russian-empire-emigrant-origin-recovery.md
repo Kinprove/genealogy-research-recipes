@@ -296,6 +296,18 @@ registration society separately from residence or birthplace; use
 [russian-empire-jewish-identity-attribution.md](../../genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md)
 when imperial Jewish registration or household placement is the unresolved issue.
 
+When the emigrant may have left while charged or sought by the authorities, search pre-1917
+Russian-language newspapers for court search notices. Include the provincial *gubernskie
+vedomosti*, which printed official search notices. [H13] Search under the Russian name form with
+patronymic. Such a notice can name the issuing court, the person's estate (*soslovie*) and town of
+registration, and the article charged. Enter that town as a registration-society row in the
+competing-locality table, not as a birthplace. Use the court and case details to look for the case
+file, and search the town's metrical books for siblings. In
+[*Finding Your Roots* (PBS, season 10, episode 9)](https://www.pbs.org/video/michael-douglas-unravels-his-familys-secret-past),
+a 1906 Mogilev District Court notice described the man sought as a townsperson of Chausy and gave
+the article he was charged under. A notice matched on name and patronymic is a candidate to test
+against the chronology. It does not identify the emigrant. [S19]
+
 **Artifact — competing localities:**
 
 ```text

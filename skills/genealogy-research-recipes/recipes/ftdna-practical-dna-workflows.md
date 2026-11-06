@@ -71,6 +71,18 @@ Record a match missing from that result as `haplogroup not shown`, not as carryi
 haplogroup. The [2021 search discussion](https://www.youtube.com/watch?v=gNFNKpvy1no) motivates both
 checks, including a haplogroup known only from another vendor's test that did not appear.
 
+For a same-surname search, also compare the Y haplogroups shown for male matches. A label may
+be STR-predicted, derived from the Family Finder test (partial, SNP-based) or SNP-tested; a
+more refined Family Finder label replaces the STR prediction. Ancestry and 23andMe transfers
+show no haplogroup to matches, and female testers have no Y label: record those as
+`haplogroup not shown`, never as a mismatch. A label from a different source or at a different
+depth is not a conflict until both labels have been put into Discover's **Compare** and recorded
+as in [workflow 8](#8-preserve-the-inputs-and-reference-in-a-two-label-comparison). If they fall
+in the same lineage, keep the man as a candidate for Y-DNA testing or for shared-match and
+triangulation work. Reliable, incompatible SNP-defined lineages rule him out as a recent direct
+paternal-line candidate, even within one major haplogroup; he can still be an autosomal relative.
+Different upstream and downstream labels alone do not establish incompatibility. [S24, S26, S27, S28]
+
 Read a match's ancestral surname list as self-reported. Its order carries no fixed meaning: a list may run by generation, alphabetically or in order of appearance, and a [2020 FamilyTreeDNA walkthrough](https://dna-explained.com/?p=31186) shows surnames shared with the viewer moved to the top in bold. Do not infer side, generation or line from a surname's position. To reconstruct the tree of a match without a usable tree, search compiled trees for combinations of the listed surnames and any most distant paternal and maternal ancestors named on the profile. Record a couple found this way as `candidate couple` until descendancy research accounts for the other listed surnames; list any surname it leaves unexplained. A [2024 case-study article](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds) motivates this check. [S20, S21]
 
 Treat a match-date value as the date shown on that match row, not as the match's test date, chip version or processing cohort. A [Family Finder match-date discussion](https://genarchivist.net/showthread.php?tid=275) reports older matches showing 2021 dates after matching was recalculated. It also shows a kit's order history and administrator lab-results view recording a later chip procedure for an earlier order. Where authorized, take test and chip history from those records; otherwise record `test date unknown`.
@@ -248,6 +260,8 @@ Treat a public haplotree surname report as a display subset, not a branch roster
 
 When a Discover branch shows a tester who is not among the kit's matches, check whether the branch's suggested projects lead to a public project results page listing that tester. Record the project URL, retrieval date and the displayed surname, earliest known ancestor and haplotype exactly as published, labelled as project-display data. Record how the project row was tied to the branch entry; if the link rests only on inference, label it `unconfirmed link`. A [Discover-to-project lookup](https://genarchivist.net/showthread.php?tid=416) motivates this route. It shows only what that project chooses to publish. It establishes no match, contact route or genealogical connection.
 
+Before searching a project's public results for a line, set the page size so every row is on one page; a browser search of the first page alone gives a false negative. A [2026 walkthrough](https://dna-explained.com/2026/10/23/focus-step-2-finding-the-y-dna-and-mitochondrial-dna-of-your-ancestors/) changed a default of 25 rows to 5000. If a very large page size fails to load, step through the pages instead. Search the earliest-known-ancestor column for each surname in the documented line, generation by generation, in every subgroup: results sit in subgroups the project administrator defines. A haplogroup's colour can mark it as predicted rather than SNP-confirmed. Record a surname hit as `candidate row` until the listed ancestor is shown to be a documented member of the line; for mtDNA, that means a woman in the direct maternal chain or her matrilineal relative, such as a sister. [S29, H11]
+
 **Artifact:** one dated view record: project URL, selected subgroups, display options, branch
 label, displayed estimate/interval, screenshot reference and participant-display exceptions.
 If you administer the project, add a private configuration record: prior/current public-report
@@ -309,6 +323,14 @@ distinguishes these scopes for mtDNA and Family Finder. Matching the focal kit o
 does not establish that both matches come through the same ancestor or descent path; such a
 match still needs
 [separate ancestral-path analysis](ydna-mtdna-interpretation.md#combining-tests-establish-which-ancestral-path-each-supports). [S11]
+
+When a Y-DNA test is among the selections, record the exact Y choice. A
+[2026 example](https://dna-explained.com/2026/11/02/focus-step-3-breaking-through-brick-walls-using-y-dna-and-mitochondrial-dna/)
+reports that **All Y-DNA** requires a match at every marker level from 12 through 111, not at
+any one level. For a Y/Family Finder overlap, select one Y-DNA marker level both men have
+tested and set **Show only people I match in all selected tests** to Yes; otherwise the roster
+combines both tests' matches. Record a person absent from an **All Y-DNA** roster as
+`not shown under All Y-DNA`, not as a non-match. [S26, H10]
 
 ### 7. Inspect the node actually displayed in a supplied time map
 

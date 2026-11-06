@@ -34,6 +34,7 @@ Before you interpret entries, read the inleiding (introduction) or PDF inventory
 - **Record the intention date as the date of a public announcement of an intended marriage, not as the ceremony.** The announcement was made so that objections could be raised [S2], [S9], [S11]. Find the marriage, ketubah or civil act separately.
 - **Check whether the intention was crossed out or rejected.** Read the marginal note. Per the Stadsarchief, these notes can point to a separate register of objections or of refusals of parental consent. Open that register as well. S1's presenter shows the index marking a struck-through intention. In S1's example the intention was stopped because the couple were too closely related. Expect the couple to register again later [S1].
 - **Do not count two registrations of one couple as two marriages.** Church (kerk) and city-hall (pui) ondertrouw series both exist. Per S1's presenter, one couple can appear in both the Dutch Reformed church register and the pui register. Treat these as duplicate registrations of one couple [S1].
+- **Do not read the series as proof of religion.** Up to June 1795, search both the church and pui series. From 6 June 1795 to 1811 there is only one series [S18]. In the 17th century, Sephardic Jews often used a former Iberian Christian name alongside their Jewish name, so one person can appear under two names in different records [S17], [S18]. Link two names only through an explicit alias statement, such as an ondertrouw entry, a settlement or an estate division, or other documented evidence that they identify the same person. Otherwise keep the link unresolved.
 - **Extract every field on the image.** The Stadsarchief lists birthplace, age, marital status, residence and witnesses as standard fields. The presenters' images also show:
   - origin ("van …")
   - any parent the party lived with
@@ -42,6 +43,7 @@ Before you interpret entries, read the inleiding (introduction) or PDF inventory
   - signature or mark, including Hebrew-script signatures [S1], [S2], [S10], [S11]
 
   Record the clerk's spelling and the party's own signature as two separate attested forms. The signed form can point to the place of origin [S1], [S2].
+- **Treat an assisting relative as a role, not proof of parentage.** An ondertrouw entry names whoever appeared to assist each party, and the relationship it gives can be wrong or can belong to a stand-in [S17]. Before you add a named parent, check for a burial entry showing an earlier death, and for later deeds that name the relationship.
 - **Follow a widowed party back to the first marriage.** Age was recorded only at a first marriage. If the intention says a party was widowed, look for the intention of the named previous marriage. Repeat until you reach a first marriage. S1's presenter adds that widowed parties' later intentions usually also lack a birthplace, which the first marriage gives [S1].
 - **Link pre-1811 Ashkenazi patronymics to later surnames.** Ashkenazi parties usually appear under patronymics until surnames were adopted under Napoleonic rule in 1811. Treat the link between a patronymic form and the later surname as a hypothesis. Do not search only under the later surname. S8's example is a 1793 intention whose groom later carries an added surname [S8].
 
@@ -88,6 +90,16 @@ Check the chamber's actual finding aid, period and surviving series before searc
    suggested connection to an earlier marriage provision remains a hypothesis.
    S16 also shows a declaration naming five children while reporting no means to
    declare. Keep a named child roster separate from a positive cash balance.
+
+The chamber's own records are Stadsarchief archive 5073 [S20]. The chamber registered
+each orphan's inherited share and held it until the child came of age at 25 [S17], [S19].
+If a share was paid out earlier, look for a declaration of majority (*venia aetatis*).
+The States of Holland, and sometimes a city, granted it after the minor applied to the
+local authority with a baptism or birth certificate, on statements from that authority,
+relatives and guardians. Those registers are at the Nationaal Archief, not the
+Stadsarchief: States of Holland archive 3.01.04.01, with petitions from 1652 to 1795 at
+inventory numbers 2085–2191 (indexed to 1700) and registers of grants at 2192–2193. For
+1801–1802, see the Hof van Holland archive 3.03.01.01, inventory number 4883 [S19].
 
 Before using a chamber miss, check any located will for the executors, guardians
 and chamber-exclusion wording it actually contains. S16 describes wills that

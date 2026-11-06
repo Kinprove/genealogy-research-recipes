@@ -3,7 +3,8 @@
 > Original Kinprove procedural synthesis. Third-party passages are **not reproduced**. Artifact
 > schemas and the example are original; practitioner procedures are attributed below. H8–H12
 > and S18 supply the facts in the Canadian consular index, Doukhobor surname and 1939–1945
-> resettlement notes.
+> resettlement notes. S19 and H13 supply the court search-notice example and the provincial
+> gazettes' search notices.
 
 - **S1:** Ancestry, *Top Tips for Beginning Jewish Family History Research*, 2013-10-15 —
   [presentation](https://www.youtube.com/watch?v=Pf-olbDbZlY). Destination research, birthplace versus
@@ -84,6 +85,13 @@
 - **S18:** Doukhobor Genealogy, [Ship Passenger Lists](https://doukhobor.org/shiplists/),
   opened 2026-11-02. Used for: the Doukhobor arrival periods, and patronymics or family nicknames
   sometimes recorded instead of official surnames.
+- **S19:** Ancestry, *Michael Douglas Discovers the Untold Truth About His History | PBS' Finding
+  Your Roots | Ancestry*, published 2026-10-27 — [clip](https://www.youtube.com/watch?v=uFyZWbkmoAs);
+  from PBS, *Finding Your Roots*, season 10, episode 9 —
+  [clip page with transcript](https://www.pbs.org/video/michael-douglas-unravels-his-familys-secret-past),
+  opened 2026-11-06. A 1906 Mogilev District Court notice seeking a Chausy townsperson and naming
+  the article charged, used as a lead to a registration town, court files and siblings' metrical
+  entries; the programme's other claims about the charge and the family are not adopted.
 - **H1:** U.S. National Archives, [Passenger Arrival Records](https://www.archives.gov/research/immigration/passenger-arrival.html).
 - **H2:** U.S. National Archives, [Naturalization Records](https://www.archives.gov/research/immigration/naturalization).
 - **H3:** Marian L. Smith, [By Way of Canada](https://www.archives.gov/publications/prologue/2000/fall/us-canada-immigration-records-1.html),
@@ -117,6 +125,10 @@
   [blog post on using the EWZ records](https://www.familysearch.org/blog/en/using-the-ewz-records-for-german-and-eastern-european-research),
   opened 2026-11-02. Used for: the origin regions of the resettled groups, and FamilySearch
   holding only part of the series on film.
+- **H13:** RAPSI (Russian legal news agency), Anna Shubina,
+  [«100 лет назад. 25 ноября – 1 декабря»](https://rapsinews.ru/judicial_analyst/20131125/269819088.html)
+  ("100 years ago"), 2013-11-25, opened 2026-11-06. Used for: search notices from a prison inspectorate and district
+  police offices printed in *Vologodskie gubernskie vedomosti* in November 1913.
 
 ## Credits
 

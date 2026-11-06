@@ -157,6 +157,15 @@ about the former and current operators as a business-occupancy lead. Correlate d
 assigning the person's residence or departure. The [successor-notice example](https://familylocket.com/eleven-newspaper-notices-how-hotel-ads-and-sheriffs-sales-helped-prove-thomas-beverly-roystons-parentage/)
 supports this retrieval pivot; one later advertisement supplies no exact move or ownership date.
 
+Date every letter-list entry and record the office holding the unclaimed mail; it suggests an
+intended destination or travel stop, not a residence. A pickup office can sit in another county or state than the residence, so search the
+residence records of every county that office served, including across the border. A dated
+series of offices can frame a migration before residence records show it; a new pickup office
+supports a move hypothesis, not a move date. In the same case, a December 1841 entry at
+Columbus, Georgia, prompted the hypothesis that the man meant to collect mail there while moving
+to Chambers County, Alabama. Columbus is across the
+Chattahoochee and not on Chambers County's border. (S7, S52, S53, H3)
+
 When the local issue is lost, undigitized or silent, search the name across all titles without a
 place filter for a reprint. Editors exchanged papers and copied items, often crediting the source,
 and wire copies reached distant and overseas titles. A "[place] papers please copy" request, as at
@@ -238,6 +247,18 @@ or death. The [legal-notice examples](https://www.youtube.com/watch?v=Mr03rzuk2g
 [child-support account](https://www.youtube.com/watch?v=5vF5SAYIYU0) and
 [attorney's account](https://www.youtube.com/watch?v=q5-kKlUKfHs) motivate this. The statute in the attorney's account is
 illustrative; establish each jurisdiction's actual rule.
+
+When a county's own records are burned or thin, search its associates who advertised often,
+such as innkeepers and merchants, as hard as the target. Date each advertisement and notice by
+title and issue. An associate's run can trace a group's route where the target yields only one
+or two notices. An associate's advertisement places the associate, not the target, so tie the
+target in with a notice that names him, such as a sheriff's sale he signed as deputy, which
+places him in office in that county on that date. Pair a sheriff's-sale, execution or
+bankruptcy notice with any surviving sheriff's deed: the notice explains why the deed exists,
+and the deed confirms the sale took place. In the
+[Royston case](https://familylocket.com/eleven-newspaper-notices-how-hotel-ads-and-sheriffs-sales-helped-prove-thomas-beverly-roystons-parentage/),
+the target produced two useful notices and an advertising associate produced eight. That is one
+case, not a typical yield. (S52, S53)
 
 From notices already found, list every printed form of address and search those the initials and
 married-name passes miss. These include title-only forms (`Judge Evans`), honorific-only forms

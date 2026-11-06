@@ -75,7 +75,11 @@ an unavailable match view and a verified destination are different completion st
 
 1. On one relevant ancestor's profile, inspect DNA Connections or the Ancestors/Descendants
    view. Record the ancestor and tester IDs, displayed test/company and the tree path
-   connecting them. [S2]
+   connecting them. [S2] Treat a Y-DNA or mtDNA haplogroup shown there as the label
+   entered with the tester's registered test, not a live provider result. FamilyTreeDNA
+   shares no DNA data with WikiTree, so the label stays as entered after a newer Y-DNA or
+   Mitotree assignment. Record it as `displayed_haplogroup` and compare it with the
+   tester's current provider report before using it to place a line. [S1, S5]
 2. Preserve the date and exact view. Inspect the parent-child links needed by the path and
    mark undocumented links for research. Adding a test and extending a tree can populate
    further connections; that propagation supplies candidates for investigation. [S2]
@@ -90,7 +94,7 @@ an unavailable match view and a verified destination are different completion st
    observed links and remaining research tasks are recorded.
 
 **Artifact:** `ancestor_wikitree_id, tester_wikitree_id, observed_at, view,
-registered_test, displayed_path, unsupported_links, external_comparison_reference,
+registered_test, displayed_haplogroup, displayed_path, unsupported_links, external_comparison_reference,
 confirmation_basis, next_document_or_comparison`.
 
 **Checkpoint:** a reader can distinguish a registered test, a pedigree-derived display

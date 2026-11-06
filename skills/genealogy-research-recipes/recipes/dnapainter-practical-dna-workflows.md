@@ -27,7 +27,7 @@ Keep a small operation register beside the map:
 | Inputs | Saved tables, provider, retrieval date, genome build and filters |
 | Assignment | Maternal/paternal/unknown and named ancestor, couple or provisional group |
 | Output | Saved map, tree or matrix, exported table and notes |
-| Status | Observed coordinates or amounts, inferred assignment, planning estimate or documentary worklist |
+| Status | Observed coordinates or amounts, inferred assignment, provider population estimate, planning estimate or documentary worklist |
 
 This register is a recommended research artifact; it is not a DNA Painter import format. A person's map is a container for research about that person's chromosomes. Do not reuse another person's coordinates merely because their map is convenient.
 
@@ -61,6 +61,30 @@ different objects: record which was edited. If a tree propagates a label to othe
 inspect those annotations and preserve the original tester and the conditional lineage
 basis; propagation does not mean those ancestors were tested. Use the
 [Y/mt workflow](ydna-mtdna-interpretation.md) to assess the underlying result. [S19, S20]
+
+Ancestry's Chromosome Painter shows population segments without coordinates. To get them,
+use Kevin Borland's bookmarklet, linked from DNA Painter's [ACPS tool page](https://dnapainter.com/tools/acps):
+drag it to the bookmarks bar, open the Chromosome Painter page and click it to download a
+CSV. Its own page states build 37 output. The older ACPS copy-and-paste route still works,
+but since August 2025 it needs a line of JavaScript in the browser console, and it does not
+work in Firefox; ACPS estimates positions from build 37 chromosome lengths. Follow the
+current steps on the tool page. Import the CSV with **Import segment data**, or paste only
+the rows you need into **Paint a new match**; apply the build check in step 1 before adding
+them to a map that already holds match segments. For segment sizes, paste chromosome,
+start and end rows into the [cM estimator](https://dnapainter.com/tools/cme) and use
+**Get centimorgans for a batch**; it takes up to 20 segments at a time and uses build 37.
+[S27, S28, H6, H7, H8]
+
+Put each painted population region in its own group labeled as a provider estimate, for
+example `Ancestry region — Devon & Somerset`. Never use such a group as a parental-side or
+ancestor assignment; ACPS itself warns that Ancestry's split between parents may not be
+accurate. Use it only as a clue: compare it with intervals already assigned through
+identified matches and with a tested parent's own region segments. When a region segment
+lies on DNA assigned to a documented ancestor from elsewhere, the region label loses; it is
+not evidence against the documentation. Treat a trace region on one parent's side that is
+missing from that parent's own report but fits the other parent's ancestry as a suspected
+side error. A region broad enough to cover both branches cannot tell them apart. Leave any
+portion the provider does not attribute unassigned. [S27, H6]
 
 ## 2. Copy or merge map data without changing whose DNA it represents
 
