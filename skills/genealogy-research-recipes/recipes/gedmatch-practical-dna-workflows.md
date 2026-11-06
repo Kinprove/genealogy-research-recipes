@@ -30,6 +30,12 @@ controls and access requirements. Tutorials below describe historical interfaces
 tool is an access limitation, not a completed comparison. Do not substitute remembered default
 thresholds, match limits, kit prefixes or processing times for what the current screen reports.
 
+Plan for paid tools before the session. GEDmatch's Tier 1 help (checked 2026-11-06) lists
+Segment Search, the Phasing tool and Lazarus among the paid Tier 1 tools, says tools marked
+"Tier 1" on the home page require a paid membership, and lists One-to-Many and One-to-One as
+free. Check the home-page marking for Matching Segment Search, Triangulation and Multiple Kit
+Analysis before planning workflows 4–8. [H9]
+
 **Privacy checkpoint before any upload:** Authorization to analyze a kit is not permission to
 upload it. An upload places that person's genome in GEDmatch, where the kit's settings decide who
 can match and see it. Before each upload, make the separate privacy decision in `SKILL.md` step 5:
@@ -53,7 +59,9 @@ query controls, local marker coverage and reporting scope.
    reconstructed. Keep multiple tests of one person as separate kit records. Upload only after
    the privacy decision in `SKILL.md` step 5 (see the checkpoint in "Before starting"). Preserve
    the original download and the upload receipt; use the vendor's current upload instructions. [H1]
-2. Record the readiness state actually shown. After processing, use a known relative as a
+2. Record the readiness state actually shown. GEDmatch's help says a kit must finish processing,
+   "typically 24–48 hours after upload", before its matching tools work; use that only to plan
+   the session, and let the status shown decide. [H10] After processing, use a known relative as a
    comparison control. Save its baseline One-to-One result rather than treating an upload
    receipt as evidence that matching is ready. [H2]
 3. Start a run record before every subsequent workflow. Capture the precise tool name/version

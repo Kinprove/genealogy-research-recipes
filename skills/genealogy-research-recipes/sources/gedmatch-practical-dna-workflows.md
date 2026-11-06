@@ -83,6 +83,11 @@ page's contents; it does not verify the signed-in interface or current access le
 - **H7:** GEDmatch / Andy Lee, [Chromosome and segment tools for Multiple Kit Analysis](https://www.gedmatch.com/education/chromosome-and-segment-tools-for-multiple-kit-analysis/).
 - **H8:** GEDmatch / Andy Lee, [The Lazarus tool](https://www.gedmatch.com/education/the-lazarus-tool-how-to-bring-dna-back-from-the-dead/).
 
+GEDmatch support articles (undated), retrieved 2026-11-06:
+
+- **H9:** GEDmatch Support, [Tier 1 Subscription: Pricing, Features, Cancellation & Payment Management](https://support.gedmatch.com/portal/en/kb/articles/tier-1-subscription-pricing-features-cancellation-payment-management). Segment Search, the Phasing tool and Lazarus listed among Tier 1 features; tools marked "Tier 1" on the home page require a paid membership; One-to-Many and One-to-One listed as free.
+- **H10:** GEDmatch Support, [How to Use GEDmatch DNA Matching Tools (One-to-Many, One-to-One, Segment Search)](https://support.gedmatch.com/portal/en/kb/articles/how-to-use-gedmatch-dna-matching-tools-one-to-many-one-to-one-segment-search). A kit must finish processing, "typically 24–48 hours after upload", before matching tools are available.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
