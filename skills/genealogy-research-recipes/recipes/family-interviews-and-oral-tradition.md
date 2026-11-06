@@ -2,7 +2,7 @@
 
 Use this recipe when you are about to interview a relative, when someone hands you a recording of a family conversation, or when an inherited account is about to go into a tree. An inherited account can be a story everyone repeats, a note or an "as told by" typescript. A supplied file does not require a new interview. The common mistake is to turn the recollection straight into tree facts and fill its gaps. That means rebuilding an answer nobody could hear from the question that was asked, or crediting a detail the prompter supplied to the speaker. It also means polishing an uncertain name into a quotation, or collapsing a relayed or retyped account into one witness.
 
-This recipe covers prompting, recording, attributing and preserving spoken accounts only.
+This recipe covers consent, prompting, recording, attributing and preserving spoken accounts only.
 
 - Weigh what an account can prove with [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 - Cite the recording and each copy with the [source citation record](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md).
@@ -13,9 +13,21 @@ This recipe covers prompting, recording, attributing and preserving spoken accou
 
 Preserve the source recording and its stated context before making an edit or transcript. If you were given a file, work from that file.
 
+## Get consent before recording and authorization before sharing
+
+Before a new recording starts, explain the topic, who will hear the recording and how it may be used, and get the participant's consent. Written and signed consent is preferred; otherwise record the spoken consent at the start of the recording [S12], [S14]. When the session ends, ask the participant to confirm the terms of use, ideally by signing a release form, otherwise by a recorded declaration, and note any restrictions [S13], [S14]. A family can use a simple joint statement of intent, filled in by both of you after the recording [S15]. Do not deposit, publish or share a recording beyond the agreed circle until the participant has given that authorization [S12].
+
+The participant may refuse a question, take a break, end the session, restrict access or withdraw the interview. Once a recording has been shared publicly or deposited in an archive, it may not be possible to remove it fully, so say that before it leaves the family [S14]. Whenever possible, let the participant review the recording or transcript before it is shared [S12]. Record each decision in the session register.
+
+Before you record, check the recording law where each person is. U.S. federal law lets you record a conversation you take part in, but some states require every party's consent, for conversations in person as well as for calls, and a call across state lines can fall under the stricter state's law. Record openly, with consent captured at the start [S16]. In the UK and EU, a recording of an identifiable living person is personal data, and so is what it says about other living people [S17]. Data-protection law does not apply to purely personal or household activity [S18], [S19]; before you share, deposit or publish a recording, check whether that exemption still covers what you are doing.
+
+If you doubt that the participant can understand who will hear the recording and how it may be used, for example because of dementia, explain the session in plain words and let a trusted carer, relative or friend be present, with that person's role agreed in advance [S20]. Without the participant's own informed agreement, keep the recording as family memory, with the carer's agreement, and do not deposit or publish it.
+
+For a supplied recording, record the consent, release and restrictions that are known. An unknown basis stays unknown: do not deposit or publish a recording on it.
+
 ## Agree the session and choose a bounded prompt
 
-For a new recording, agree with the participant on the topic, recording and intended use, including any limits on sharing. Use a bounded prompt such as a photograph, object, recipe or experienced event. With a photograph, ask about the vehicles, buildings, place and season before asking who the people are, and never supply a desired identity [S2]. After an important question, stay silent and let the participant remember [S3], [S11]. Respect a decision not to discuss the topic. Relatives raised in one household can have experienced the same events differently: record each relative's version as that person's own account [S2].
+For a new recording, use a bounded prompt such as a photograph, object, recipe or experienced event. With a photograph, ask about the vehicles, buildings, place and season before asking who the people are, and never supply a desired identity [S2]. After an important question, stay silent and let the participant remember [S3], [S11]. Respect a decision not to discuss the topic. Relatives raised in one household can have experienced the same events differently: record each relative's version as that person's own account [S2].
 
 If the participant names someone in a photograph, record it as their identification, with the basis they give. Never compare faces or assign identity by appearance yourself. Resemblance is never evidence by itself.
 
@@ -23,11 +35,11 @@ Use a census page the participant would remember as a neighbourhood prompt: with
 
 ## Record the answers, not only the questions
 
-Place the microphone on the relative answering, not on the interviewer [S3]. Keep each recording to a few minutes, splitting a long interview into short recordings, and replay each one right after making it to check audibility and completeness [S1]. If an answer was not recorded or cannot be heard, record that limitation; never reconstruct it from the question. For supplied recordings, mark inaudible or missing passages and keep any available session notes separate.
+Make a short test recording of both voices and play it back before the interview [S23]. For a seated one-to-one interview indoors, clip a lapel (lavalier) microphone on the relative answering [S3], [S21], [S22]. Record the interviewer's questions and any cueing relative too: with a second microphone if the recorder takes one, or with the recorder placed between you, so that every question and cue can be heard later [S21], [S22]. Keep the recorder running for the whole session instead of stopping and restarting it, and watch the counter or level meter while it runs [S21], [S23]. A recorder that splits a long session into files of about an hour is fine [S23]. If you can, run a second device as a backup [S24]. The advice in [S1] to keep recordings to a few minutes belongs to that app's memory-recording feature, not to interviews. Check the file right after the session for audibility and completeness [S1], and copy it to a second place [S13]. If an answer was not recorded or cannot be heard, record that limitation; never reconstruct it from the question. For supplied recordings, mark inaudible or missing passages and keep any available session notes separate.
 
 ## Record who prompted each answer
 
-Record who prompted each answer. A familiar sibling or other close relative can help a participant with memory difficulties by cueing ("do you remember when…") [S11]. When that happens, note who was present, the cue's wording or recording offset and the response that followed. Details introduced only by the prompter remain the prompter's account. On revisits, record which session first supplied each detail. Flag details that appear only after repeated pressing as possibly reconstructed. Stop when the participant strains to be helpful, note that you stopped, and corroborate such details with documents [S10].
+Record who prompted each answer. A familiar sibling or other close relative can help a participant with memory difficulties by cueing ("do you remember when…") [S11]; settle consent first, as in the capacity paragraph above. When that happens, note who was present, the cue's wording or recording offset and the response that followed. Details introduced only by the prompter remain the prompter's account. On revisits, record which session first supplied each detail. Flag details that appear only after repeated pressing as possibly reconstructed. Stop when the participant strains to be helpful, note that you stopped, and corroborate such details with documents [S10].
 
 ## Record the chain of a relayed or inherited account
 
@@ -51,7 +63,8 @@ Deliver the requested source files and notes with the observed export gaps and a
 - **A session register** with one row per session:
   - speaker and everyone present
   - date and context, when known
-  - the agreed topic, intended use and any limits on sharing
+  - consent: how and when it was given, the agreed topic, who may hear the recording and its intended use
+  - authorization to share: signed release, recorded declaration, not yet given or unknown, with any restrictions, review or withdrawal
   - the prompt or item reference
   - the file and the recording segments
   - any note that you stopped, and why
