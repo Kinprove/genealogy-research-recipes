@@ -415,6 +415,21 @@ A confirmation records what the provider reported; it is not independent verific
 destruction, deletion or an effect on completed research. Where the current request route
 or effect is unavailable, leave it unresolved. [S27]
 
+The owner changed in 2025, so check current terms before advising on 23andMe data. On
+30 June 2025 23andMe announced that the U.S. Bankruptcy Court for the Eastern District of
+Missouri had approved the sale to TTAM Research Institute, a nonprofit. TTAM completed the
+acquisition of the Personal Genome Service and Research Services business lines on 14 July
+2025. [O24, O25] TTAM committed to honour 23andMe's existing policies that let individuals
+delete their account and genetic data and opt out of research. [O23] Before the sale, the
+attorneys general of New York and 27 other jurisdictions, including the District of Columbia,
+sued, arguing that 23andMe could not sell customers' genetic data without their consent. [O26] The service
+now runs as 23andMe Research Institute. Its privacy statement, read on 6 November 2026 (last
+updated 17 October 2025), says an account can be deleted in Account Settings at any time,
+that deletion opts the account out of research and discards the sample, that deletion cannot
+be reversed and that it is subject to retention requirements. [O27] Before advising whether
+to delete, preserve or transfer the data, read the current privacy statement and terms; do
+not rely on guidance written before the sale.
+
 ## Recipe 7: preserve ancestry painting without turning it into matching evidence
 
 When the question concerns an ancestry assignment, use Ancestry Composition's chromosome
