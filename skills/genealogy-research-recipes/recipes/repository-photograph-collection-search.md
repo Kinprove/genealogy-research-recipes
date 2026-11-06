@@ -16,6 +16,7 @@ This recipe covers search coverage and caption provenance. For a located Swedish
 - Riddarhuset portraits: select the branch, then inspect the object
 - Browse neighboring aerial-image series and paper copies
 - Exhaust each repository's surfaces before reporting no image
+- Check records that carry a portrait
 - Add family-uploaded memorial portals in former Soviet cases
 - Keep each statement about the image separate
 - Record a proposed identification as an attribution
@@ -120,6 +121,16 @@ Use [archival image coverage verification](https://github.com/Kinprove/genealogy
 
 "No image found" covers only the surfaces you logged. List undigitized manuscript photographs and on-site-only holdings as unsearched, not as negative results.
 
+## Check records that carry a portrait
+
+Some records about a person include that person's photograph, and for many immigrant families these are the only surviving portraits. The record that holds the photograph attributes it; never match it to another image by face. Log each record type as its own surface, and note which copy you inspected: court, agency or family.
+
+- **U.S. passport applications.** Photographs have been required since 21 December 1914. The National Archives holds applications from October 1795 to March 1925; the State Department holds later ones. Until 1941 most U.S. citizens needed no passport to travel abroad, so a missing application is normal [S16].
+- **U.S. naturalization papers.** Declarations of intention filed from 1 July 1929 have a space for the declarant's photograph, and certificates issued from 1 July 1929 carry the holder's signed photograph [S17], [S18]. The National Archives usually has no copy of the certificate [S19]. The USCIS C-file holds a duplicate, and C-files (27 September 1906 to 31 March 1956) include photographs only from 1929 onward [S20]. A National Archives archivist states that petitions for naturalization never carried a photograph [S21]. For the request route, see [U.S. immigration search recovery](usa-immigration-search-recovery.md).
+- **Alien Files (A-files).** They can contain photographs among visas and applications [S22]. The 1940 alien registration form (AR-2) records a fingerprint and a physical description, not a photograph [S23].
+- **U.S. federal prison inmate case files.** They carry identification photographs, front and side views. The National Archives holds, for example, Leavenworth files dated 1895 to 1952 and Alcatraz files dated 1934 to 1963 [S24], [S25].
+- **Soviet internal passports and personnel files.** Under the 1974 Passport Regulation, applicants handed in two photographs, and new ones were pasted in at ages 25 and 45, so one passport can hold portraits from different ages [S26]. To bound the date of each, see [family photograph attribution and dating](family-photograph-attribution-and-dating.md). A workplace personnel file (личное дело) may have a photograph pasted in, but not always [S27]; to find the file, see [Soviet personal-file recovery](soviet-personal-file-recovery.md).
+
 ## Add family-uploaded memorial portals in former Soviet cases
 
 For a person from the former Soviet Union, memorial portals filled by families are a separate surface for a person photograph. Choose them by case type and search each with its own search:
@@ -129,6 +140,8 @@ For a person from the former Soviet Union, memorial portals filled by families a
 - **Deported or dekulakised families:** add local publications from the place of exile, not only from the place of origin.
 
 Log each portal as its own surface. A family caption on a portal is an attribution: record it as in "Record a proposed identification as an attribution" below, and never compare faces.
+
+These portals concern living families. A Бессмертный полк page names the relative who keeps it, with their relationship, a contact form and sometimes a phone number [S28]. Record the person and the story, never collect contributors' names or contact details, and use a portal's contact form only when the user asks to make contact.
 
 ## Keep each statement about the image separate
 
@@ -153,7 +166,7 @@ Offer a supported identification to the holding institution as a suggested metad
 
 ## Return
 
-- **A coverage log** by repository, collection and surface: photo database, each photographer collection, finding aids, county or society sites, memorial portals. Mark each surface as browsed, searched or not yet searched.
+- **A coverage log** by repository, collection and surface: photo database, each photographer collection, finding aids, county or society sites, records that carry a portrait (with the copy inspected), memorial portals. Mark each surface as browsed, searched or not yet searched.
 - **Candidate image records**, each with:
   - the stable item locator
   - the original caption and date
