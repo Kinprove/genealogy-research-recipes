@@ -8,6 +8,8 @@
 - **S6:** Ahnenforschung.net Forum, [Zufallsfunde Berlin](https://forum.ahnenforschung.net/forum/thread/1550/), thread started 2006-12-26. Used for: the church book of the Regiment des Königs Nr. 18 (Wehrkreis-Pfarramt Spandau) kept apart from civil parishes, and a published Stammrolle extract (Regiment Prinz Heinrich, 1777/78) cited to the Geheimes Staatsarchiv, Rep. 92 B V.1.
 - **S7:** Ahnenforschung.net Forum, [Ich suche das Buch ... Wer hat es? Diskussion/Anfragen](https://forum.ahnenforschung.net/forum/thread/2550/), thread started 2006-08-17. Used for: the title of Eger's directory of military church books (a book-list mention), and searching the Ancestry fallen-soldier cards (1939–48) by regiment, company and date, with place wording, grave location, cause of death and a cross-border place name.
 
+- **S8:** Bayerischer Landesverein für Familienkunde e.V., [Das Bundesarchiv – Forschungsmöglichkeiten in der ehem. WASt und dem Krankenbuchlager](https://www.youtube.com/watch?v=2D9m315lHt8), published 2022-01-15; saved transcript claim windows checked 2026-11-06. Used for: surviving Krankenbuchlager/Lazarettbuch material as an alternative source for particular First World War hospital episodes; possible unit, admission, discharge, transfer, diagnosis and relative fields; collective pages and masked reproductions. The presentation supplies historical collection descriptions; the selected custodian confirms current coverage and request conditions.
+
 **What is authored and what the sources supply.** The following are authored synthesis:
 
 - the classification by period, army and rank class
@@ -16,7 +18,7 @@
 - the treatment of the canton as a ranked search area
 - the rule that an absence counts only as far as each list's coverage reaches
 
-The sources supply forum participants' reports and worked examples. Several key reports come from a single participant, including the loss of the Stammrollen, the Lyncker canton and the Militär-Wochenblatt description. S1 and S2 share participants, so they are not independent of each other. Thread links for S1, S2 and S4 are shortened to the thread number so that personal names stay out of the recipe.
+The hospital-book request, extraction and episode-linking sequence is original procedural synthesis from S8. Its entries remain separate from a complete service history. S1–S7 supply forum participants' reports and worked examples. Several key reports come from a single participant, including the loss of the Stammrollen, the Lyncker canton and the Militär-Wochenblatt description. S1 and S2 share participants, so they are not independent of each other. Thread links for S1, S2 and S4 are shortened to the thread number so that personal names stay out of the recipe.
 
 ## Credits
 
@@ -28,3 +30,4 @@ The sources supply forum participants' reports and worked examples. Several key 
 - Ahnenforschung.net Forum, Berlin chance-finds thread with garrison church book and muster-roll extracts — Forum post content, rights held by post authors (adapted)
 - Ahnenforschung.net Forum, book-request discussion thread — Forum post content, rights held by post authors (adapted)
 - Kinprove original procedural synthesis; forum threads cited as S1–S7 supply worked examples — FSL-1.1-MIT (kinprove-original)
+- Kinprove original hospital-book retrieval and episode-linking synthesis, using the attributed presentation S8; no reproduced transcript passages, images or tables, and no claim to the presentation’s rights — FSL-1.1-MIT (kinprove-original)
