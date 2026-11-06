@@ -86,7 +86,7 @@ Gather these before writing:
 
 - **A pure format conversion keeps every claim and link of the supplied tree,** unverified ones included, with their provenance and status. It is not an evidence cull: do not drop claims that would fail the bar for new research findings. It confirms nothing either.
 - **List every custom tag, attachment and media link that was not carried over,** and carry its meaning in a standard NOTE where you can.
-- **Media files do not travel inside a `.ged` file.** A 5.5.1 `OBJE` `FILE` value is a local or remote file reference [S4], often a path on the sender's computer such as `d:\Media\…` [S12], so the link breaks when the file moves. 7.0 defines GEDZIP: a `.gdz` zip archive that holds the dataset as `gedcom.ged` together with the local media files it references [S1]. Write a GEDZIP only when the destination imports it; otherwise hand the media files over separately and list them.
+- **Media files do not travel inside a `.ged` file.** A 5.5.1 `OBJE` `FILE` value is a local or remote file reference [S4]. A path on the sender's computer, such as the migration guide's `d:\Media\…` example [S12], breaks after transfer when that path is not available on the receiving computer. 7.0 defines GEDZIP: a `.gdz` zip archive that holds the dataset as `gedcom.ged` together with the local media files it references [S1]. Write a GEDZIP only when the destination imports it; otherwise hand the media files over separately and list them.
 - **Do not call a conversion lossless, or an import into another program successful, until you have checked it in that program.** For transfers between RootsMagic, Ancestry and FamilySearch, use the RootsMagic recipe's destination check.
 
 ## 7. Bring a supplied tree into existing research
