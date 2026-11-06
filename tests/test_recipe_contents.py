@@ -45,20 +45,18 @@ class RecipeContentsTests(unittest.TestCase):
                 continue
             checked += 1
             with self.subTest(recipe=path.name):
-                self.assertTrue(
-                    headings and headings[0][1] == CONTENTS,
-                    f"a recipe longer than {MAX_LINES_WITHOUT_CONTENTS} lines needs `{CONTENTS}` as its first `##` heading",
-                )
-                sections = [line for _, line in headings[1:]]
-                self.assertTrue(sections, "the Contents list has no `##` sections to name")
-                self.assertNotIn(CONTENTS, sections, f"`{CONTENTS}` appears more than once")
+                sections = [line for _, line in headings if line != CONTENTS]
                 expected = expected_contents(sections)
-                actual = lines[headings[0][0] : headings[1][0]]
-                self.assertEqual(
-                    actual,
-                    expected,
-                    "the Contents list must name every `##` section in file order:\n" + "\n".join(expected),
+                hint = "the Contents list must name every `##` section in file order:\n" + "\n".join(expected)
+                self.assertTrue(sections, "the Contents list has no `##` sections to name")
+                self.assertTrue(
+                    headings[0][1] == CONTENTS,
+                    f"a recipe longer than {MAX_LINES_WITHOUT_CONTENTS} lines needs `{CONTENTS}` as its first "
+                    f"`##` heading; {hint}",
                 )
+                self.assertEqual(len(headings) - len(sections), 1, f"`{CONTENTS}` appears more than once")
+                actual = lines[headings[0][0] : headings[1][0]]
+                self.assertEqual(actual, expected, hint)
         self.assertGreater(checked, 0, "no recipe needed a Contents list; the line count is probably wrong")
 
 
