@@ -50,6 +50,18 @@ search in the user's Ancestry account.
 These are source and documentation comparisons, not live account tests. Added prose is original
 synthesis; the new references are cited without reproducing their expression.
 
+## Wildcard limits and alternate information
+
+The live Ancestry help pages refused automated access on 2026-11-06, so these were read that day
+from the Internet Archive capture named. No live search was run.
+
+- Ancestry help, [Getting Started, Lesson 5: Search Tips](https://help.ancestry.co.uk/hc/en-gb/articles/53933301322899-Getting-Started-Lesson-5-Search-Tips), UK copy, capture of 2026-10-16: at least three non-wildcard letters, a letter as the first or last character, `*` for zero to five letters, `?` for one, and no wildcards with Soundex.
+- Ancestry help, [Ancestry Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips), captures of 2026-09-30 (US) and 2026-10-23 (UK): `?` for one letter, `*` for one or more, both allowed anywhere with at least one letter, and no wildcards with Soundex.
+- Ancestry help, [Searching with Wild Cards](https://help.ancestry.com/hc/en-us/articles/53933334751763-Searching-with-Wild-Cards): no capture exists; search-engine snippets attribute the three-letter minimum and the no-Soundex rule to it. The recipe relies on Lesson 5 for those rules.
+- Ancestry help, [Searching with Soundex](https://help.ancestry.com/hc/en-us/articles/53933287988883-Searching-with-Soundex), capture of 2026-10-18: a Soundex code is one letter and three numbers and always begins with the name's first letter. No page read gives a reason for the wildcard–Soundex limit, so the recipe gives none.
+- Ancestry help, [Correcting a Record](https://help.ancestry.com/hc/en-us/articles/53933317670547-Correcting-a-Record), capture of 2026-09-30: the **Add or update information** menu item, the original index left unchanged, and the correction added as searchable alternate information.
+- Lisa Louise Cooke, [How to Correct Mistakes in Ancestry.com Indexes](https://lisalouisecooke.com/2019/03/28/ancestry-indexing-mistake/), 2019-03-28, opened 2026-11-06; secondary: the added name is searchable by others and shows beside the original indexed name. The current display was not checked.
+
 ## 1841 age search bounds
 
 - Chris Paton, [Learn more about our Scottish records at this Facebook Live with Chris Paton!](https://www.youtube.com/watch?v=A_n0FbzORKA), motivates checking age precision. The [National Records of Scotland guide](https://www.nrscotland.gov.uk/learning-and-events/research-guides/census-1841/) confirms the Scottish instruction and exceptions; it does not establish how an individual entry was recorded.

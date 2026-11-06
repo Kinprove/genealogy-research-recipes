@@ -186,16 +186,24 @@ death there, and no particular child's household has automatic priority.
 
 Search recorded alternatives, initials and abbreviations; then use a pattern
 such as `Niels?n` or `Greenbla*`. Keep a stable fragment and test one uncertain
-part at a time. Do not combine wildcard searches with Soundex. Soundex emphasizes
-the name's initial letter; an incorrect initial can defeat that matching method.
-Use an alternative spelling or a name-free recovery instead of repeating it.
+part at a time. Ancestry's help pages say that wildcards do not work in combination
+with Soundex, so run a wildcard search without Soundex. Separately, a Soundex code
+always begins with the name's first letter, so an incorrect initial also defeats a
+Soundex search. Use an alternative spelling or a name-free recovery instead of
+repeating it.
 
-Current Ancestry help pages disagree about wildcard minimum lengths and positioning.
-The patterns above satisfy both published sets of restrictions. Do not infer a
-universal short-pattern rule or require an Exact checkbox from an old tutorial;
-check the current field's instructions when a pattern is rejected.
-See [Spelling Variations](https://help.ancestry.com/hc/en-us/articles/53933306665107-Searching-with-Spelling-Variations)
-and [Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips).
+Current Ancestry help pages state different wildcard limits.
+[Getting Started, Lesson 5](https://help.ancestry.co.uk/hc/en-gb/articles/53933301322899-Getting-Started-Lesson-5-Search-Tips)
+requires at least three non-wildcard letters and a letter as the first or last
+character, and lets `*` stand for zero to five letters.
+[Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips)
+allows `?` and `*` anywhere with at least one letter and says `*` replaces one or
+more letters. Both say `?` stands for one letter. A pattern with at least three
+literal letters that begins or ends with a letter, like the two above, satisfies
+both. Do not infer a universal short-pattern rule or require an Exact checkbox from
+an old tutorial; check the current field's instructions when a pattern is rejected.
+See also [Spelling Variations](https://help.ancestry.com/hc/en-us/articles/53933306665107-Searching-with-Spelling-Variations)
+and [Searching with Soundex](https://help.ancestry.com/hc/en-us/articles/53933287988883-Searching-with-Soundex).
 
 ### 9. Recover an index entry without the target's name
 
@@ -207,6 +215,15 @@ a sibling, household head or known neighbor with a more distinctive name as an
 entry point. Open the resulting image and inspect the target household or nearby
 pages. Ancestry's April 2026 tutorial recovers a mistranscribed Cowan household
 using non-name fields and the parents' names after direct searches fail.
+
+Once the image shows a mistranscription, the user can add the correct reading: the
+record page's three-dot menu has **Add or update information**, which adds it as
+searchable alternate information and leaves the original index unchanged
+([Correcting a Record](https://help.ancestry.com/hc/en-us/articles/53933317670547-Correcting-a-Record)).
+The same mechanism explains some hits: a record can be found only through another
+user's alternate, which a [2019 account](https://lisalouisecooke.com/2019/03/28/ancestry-indexing-mistake/)
+shows beside the original indexed name rather than in place of it. Cite the image's
+own wording, not the alternate.
 
 For births, search the parent fields alone, including a mother's-maiden-name field where the
 birth index offers one; some early registers omit the child's name, so a search by the child's
