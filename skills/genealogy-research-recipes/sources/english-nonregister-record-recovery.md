@@ -36,5 +36,4 @@
 ## Credits
 
 - GenealCymru, Reading Genealogy Records like a Pro! (2025-06-20), cited as S28 — Short attributed adaptation of the banns/licence-to-supplemental-record procedure; video remains under its publisher's terms (adapted)
-
 - Kinprove original procedural synthesis; the presenters' worked examples and statements are cited as S1–S11, with The National Archives research guides and Queen Mary University of London's Dissenting Academies Online named as authorities for corrected facts — FSL-1.1-MIT (kinprove-original)

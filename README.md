@@ -112,5 +112,23 @@ matches and projects.
 
 ## License
 
-[FSL-1.1-MIT](LICENSE), © 2026 Kinprove; each version becomes MIT two years after its release.
-Third-party data: [NOTICE](NOTICE). Release and publishing notes: [MAINTAINERS.md](MAINTAINERS.md).
+[FSL-1.1-MIT](LICENSE), © 2026 Kinprove. Each version becomes MIT two years after its release; the
+dates are in the [release history](skills/genealogy-research-recipes/CHANGELOG.md). Third-party
+material quoted or adapted in the recipes, and the Beider name data, are not licensed by Kinprove:
+see [NOTICE](NOTICE).
+
+How Kinprove reads the licence (the [LICENSE](LICENSE) text governs). Allowed:
+
+- distributing the unmodified package, with LICENSE and NOTICE, through plugin marketplaces and
+  catalogs;
+- running the recipes in an AI assistant, or offering them as an installable plugin in one,
+  including on paid plans;
+- personal, educational and research use;
+- professional genealogists using the recipes in their research for clients.
+
+A commercial genealogy or DNA product or service that builds the recipes into what it offers its
+own customers, for example its own research assistant, needs a licence from Kinprove until that
+version becomes MIT. Licence requests, questions, and rights holders' requests to rewrite or remove
+a passage: <hola@kinprove.io>.
+
+Release and publishing notes: [MAINTAINERS.md](MAINTAINERS.md).

@@ -3,7 +3,7 @@
   "version": "1.12.0",
   "private": false,
   "description": "Fact-checked genealogy recipes for DNA evidence, record searches and proof judgment.",
-  "license": "FSL-1.1-MIT",
+  "license": "FSL-1.1-MIT AND LicenseRef-Third-Party-Content",
   "repository": {
     "type": "git",
     "url": "https://github.com/Kinprove/genealogy-research-recipes.git"
@@ -14,6 +14,7 @@
     "openclaw.plugin.json",
     "NOTICE",
     "skills/genealogy-research-recipes/SKILL.md",
+    "skills/genealogy-research-recipes/CHANGELOG.md",
     "skills/genealogy-research-recipes/LICENSE",
     "skills/genealogy-research-recipes/NOTICE",
     "skills/genealogy-research-recipes/recipes/**/*.md",

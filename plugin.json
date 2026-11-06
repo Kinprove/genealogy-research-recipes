@@ -10,7 +10,7 @@
   },
   "homepage": "https://github.com/Kinprove/genealogy-research-recipes",
   "repository": "https://github.com/Kinprove/genealogy-research-recipes",
-  "license": "FSL-1.1-MIT",
+  "license": "FSL-1.1-MIT AND LicenseRef-Third-Party-Content",
   "keywords": ["genealogy", "family-history", "dna", "genetic-genealogy", "records", "jewish-genealogy"],
   "extensions": {
     "com.openai": {

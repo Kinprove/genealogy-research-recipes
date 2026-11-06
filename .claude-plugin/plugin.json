@@ -6,7 +6,7 @@
     "name": "Kinprove",
     "email": "hola@kinprove.io"
   },
-  "license": "FSL-1.1-MIT",
+  "license": "FSL-1.1-MIT AND LicenseRef-Third-Party-Content",
   "homepage": "https://github.com/Kinprove/genealogy-research-recipes",
   "repository": "https://github.com/Kinprove/genealogy-research-recipes",
   "documentationUrl": "https://github.com/Kinprove/genealogy-research-recipes#readme",

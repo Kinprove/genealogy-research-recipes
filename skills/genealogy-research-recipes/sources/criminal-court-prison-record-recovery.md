@@ -20,8 +20,7 @@ The routing row, request log, series-status vocabulary, conflict list and lead t
 
 ## Credits
 
-- GenealCymru, Homelessness in Victorian Britain (2023-04-27), cited as S8 — Cited and paraphrased for historical record leads; the narrated case and excluded census/legal claims are not reproduced as findings (not reproduced)
-
+- GenealCymru, Homelessness in Victorian Britain (2023-04-27), cited as S8 — Cited and paraphrased for historical record leads; the narrated case and excluded census/legal claims are not reproduced as findings (adapted)
 - BYU Family History Library, James Tanner, What if Your Ancestor Ended Up in Jail? (2023) — Short quotation for attribution; rights remain with the source (quoted)
 - Genealogy Gems, Episode 45 - Prison stories & research (2016), listener letter — Short quotation for attribution; rights remain with the source (quoted)
 - Lisa Lisson, Finding Your Ancestor's Prison Record on Ancestry.com (2020) — Short quotation for attribution; rights remain with the source (quoted)
