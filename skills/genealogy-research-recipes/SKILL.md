@@ -589,7 +589,7 @@ and treat its guardrail as a hard limit on your own output.
 ## Supporting references
 
 - [Research log and report](recipes/research-documentation.md) preserves searches, document
-  numbers, results and the analysis needed to resume an emigrant-origin investigation.
+  numbers, results and the analysis needed to resume any investigation.
 - [Source citation record](recipes/source-citation.md) preserves repository, collection,
   archive/film identifiers, item locators, images and access dates for each observation.
 

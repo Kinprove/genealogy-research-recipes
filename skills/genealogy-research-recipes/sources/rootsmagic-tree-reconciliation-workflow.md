@@ -9,13 +9,14 @@
 - **S4:** Ancestry, [Splitting or Combining Family Trees | Ancestry](https://www.youtube.com/watch?v=KrdQXvtP0yE), 2012-07-31; Family Tree Maker demonstration of selecting people and of overlap between selections when splitting or combining trees. The recipe applies that logic to a scoped RootsMagic working database; no RootsMagic control is inferred. Rights: cited, not reproduced.
 - **S5:** Family History Fanatics, [How to Save Gedcom Files to Transfer to Other Genealogy Websites](https://www.youtube.com/watch?v=5qSnG6ENAr8), 2020-03-29; distinction between the originally uploaded GEDCOM and a newly generated export of the edited hosted tree. No universal export control or complete-backup guarantee is inferred. Rights: cited, not reproduced.
 - **S6:** Family History Fanatics, [RootsMagic 8 Facts Types | EASY Genealogy Research Organization](https://www.youtube.com/watch?v=0X9R-Mz9rvA), 2022-10-31; distinction between a custom fact type definition and the event instances that use it. Rights: cited, not reproduced.
-- **H1:** RootsMagic 11 Help, [Ancestry TreeShare](https://help.rootsmagic.com/RM11/ancestry-treeshare.html), checked 2026-10-07. Rights: cited, not reproduced.
+- **H1:** RootsMagic 11 Help, [Ancestry TreeShare](https://help.rootsmagic.com/RM11/ancestry-treeshare.html), checked 2026-10-07; rechecked 2026-11-06, with the same wording in the RootsMagic 12 help, for TreeShare on the Publish page and the "NO UNDO" note on "Delete the person from…". Rights: cited, not reproduced.
 - **H2:** RootsMagic 11 Help, [Share Data with FamilySearch](https://help.rootsmagic.com/RM11/familysearch-share-data.html), checked 2026-10-07. Rights: cited, not reproduced.
 - **H3:** RootsMagic 11 Help, [FamilySearch Sources](https://help.rootsmagic.com/RM11/familysearch-sources.html), checked 2026-10-07. Rights: cited, not reproduced.
 - **H4:** RootsMagic 11 Help, [Feature List](https://help.rootsmagic.com/RM11/feature-list.html), checked 2026-10-07; database backup and edition-specific media backup. Rights: cited, not reproduced.
 - **H5:** RootsMagic 11 Help, [FamilySearch](https://help.rootsmagic.com/RM11/familysearch.html), checked 2026-10-07. Rights: cited, not reproduced.
 - **H6:** RootsMagic 11 Help, [FamilySearch Central](https://help.rootsmagic.com/RM11/familysearch-central.html), checked 2026-10-07. Rights: cited, not reproduced.
-- **H7:** RootsMagic 11 Help, [WebHint Settings](https://help.rootsmagic.com/RM11/webhint-settings.html), checked 2026-10-07. Rights: cited, not reproduced.
+- **H7:** RootsMagic 11 Help, [WebHint Settings](https://help.rootsmagic.com/RM11/webhint-settings.html), checked 2026-10-07; rechecked 2026-11-06, with the same wording in the RootsMagic 12 help, for "Disconnect from Ancestry Tree … This cannot be undone" and the three ways to reconnect. Rights: cited, not reproduced.
+- **H8:** RootsMagic, [TreeShare for Ancestry: FAQ](http://files.rootsmagic.com/guides/Magic_Guide_TreeShare_Ancestry_FAQ.pdf), 2017-06-28, checked 2026-11-06; RootsMagic 7.5 placed TreeShare under the Internet menu and added a toolbar icon on first use. Rights: cited, not reproduced.
 
 ## Credits
 

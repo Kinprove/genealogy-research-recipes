@@ -1,7 +1,7 @@
 # Research log and report
 
-Use this reference to preserve the searches and record links in an
-[emigrant-origin packet](russian-empire-emigrant-origin-recovery.md).
+Use this reference to preserve the searches and record links of any investigation, for
+example an [emigrant-origin packet](russian-empire-emigrant-origin-recovery.md).
 
 ## Contents
 

@@ -4,7 +4,7 @@ Use this recipe when you are researching downward from an ancestor who is alread
 
 ## Do not read a blank as a finding
 
-The tree shows no spouse, no death or no children for someone. Record that as an **open question**. Do not write "never married", "died young" or "childless" unless a source says so. One unrecorded marriage can hide a whole branch. The presenter's example is Henry Woodson Morgan, who lived from 1830 to 1895 (65 years) with no marriage shown. The presenter estimates that if he did marry and have children, there could be two or three thousand descendants between 1830 and the present to account for [S1]. Only state an absence as a conclusion after a search, and give the source for it (see the closing section below).
+The tree shows no spouse, no death or no children for someone. Record that as an **open question**. Do not write "never married", "died young" or "childless" unless a source says so. One unrecorded marriage can hide a whole branch. The presenter's example is Henry Woodson Morgan, who lived from 1830 to 1895 (65 years) with no marriage shown. The presenter estimates that if he did marry and have children, there could be two or three thousand descendants between 1830 and the present to account for [S1]. Only state an absence as a conclusion when a source states it or it passes the negative-evidence gate, and give the source for it (see the closing section below).
 
 ## Flag the three gap patterns
 
@@ -24,12 +24,12 @@ For each person on the list, record: person ID, gap type, source count, lifespan
 
 ## Tie each gap to the records its span crosses
 
-From each lifespan, list every census taken while the person was alive. Then mark each one as name-level, head-only, or largely lost. The name-level censuses that survive are the first targets [S1]. In the U.S., the 1820, 1830 and 1840 censuses name only heads of household, so anyone else appears only as an unnamed tally in the household where they were counted. The 1890 population schedule was mostly destroyed after the January 1921 Commerce Department fire. Check the surviving fragments, but expect a gap between 1880 and 1900.
+From each lifespan, list every census taken while the person was alive. Then mark each one as name-level, head-only, or largely lost. The name-level censuses that survive are the first targets [S1]. In the U.S., the censuses from 1790 to 1840 name only heads of household, so anyone else appears only as an unnamed tally in the household where they were counted [S4]. The 1890 population schedule was mostly destroyed after the January 1921 Commerce Department fire. Check the surviving fragments, but expect a gap between 1880 and 1900.
 
 The presenter's examples, with those coverage notes added:
 
 - **Born 1819, died 1893 (U.S.).** The presenter names the 1850, 1860, 1870 and 1880 censuses, which are the four surviving censuses that list this person by name. By 1850 the person was an adult [S1]. The same lifespan also crosses 1820–1840, where only heads of household are named: in 1840, first search for the person by name as a head of household; if they are not found, find the household in which they were counted. It also crosses 1890, where you should check the fragments.
-- **Born 1855.** The presenter places this person in the 1860, 1870 and 1880 U.S. censuses, and says that in England the equivalent would be 1861, 1871, 1881 and 1891 [S1]. The two lists cover different spans. If the person was alive in 1890, the U.S. 1890 census is largely lost. If they lived longer, add 1900 and later in the U.S., and 1901, 1911 and 1921 in England.
+- **Born 1855.** The presenter places this person in the 1860, 1870 and 1880 U.S. censuses, and says that in England the equivalent would be 1861, 1871, 1881 and 1891 [S1]. The two lists cover different spans. If the person was alive in 1890, the U.S. 1890 census is largely lost. If they lived longer, add 1900 and later in the U.S., and 1901, 1911 and 1921 in England. The England and Wales list stops there: the 1931 census was destroyed by fire in 1942, and no census was taken in 1941 [S5]. For those years, use the 1939 Register, taken on 29 September 1939 [S6].
 
 Work out the list from each person's own dates and jurisdiction. Do not reuse these lists as fixed defaults. The presenter calls people in this period comparatively accessible because these censuses exist, and treats that as a factor in choosing whom to research first [S1]. Rank them accordingly.
 
@@ -49,7 +49,7 @@ Do not follow whatever branch looks most interesting. Jumping around that way is
 Give every family in the sweep log one status:
 
 - **Open:** gaps remain. Name the next records to check.
-- **Closed:** state the reason and the source. For example, a "never married/no children" tag tells collaborators this absence was researched [S3].
+- **Closed:** a source states the absence, or the absence passes the negative-evidence gate in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md): the records should have shown the event, record loss, coverage gaps and index errors are ruled out, and every search is logged with its date. State the reason and the source. A "never married/no children" tag then tells collaborators this absence was researched [S3]. A search that found nothing does not close the family by itself: keep it Open and log "searched X on date, no entry".
 - **Corrected:** research may show that the people in a family are not actually related to each other, or that the family was made up. If so, stop going down. Go back up the line and correct it until you reach the right ancestors, then continue [S1]. Send merge and separation decisions to the human through [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
 Return three things: the ranked worklist, the sweep log with each family's status, and a list of families flagged for correction. Leave out open-ended "research the descendants" suggestions. For exporting the corrected tree as GEDCOM, see [Export research findings to a GEDCOM file without changing what they prove](gedcom-research-export.md).

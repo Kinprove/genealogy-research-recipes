@@ -1,7 +1,7 @@
 # Source citation record
 
-Use this reference to preserve a retrievable source record for the
-[emigrant-origin packet](russian-empire-emigrant-origin-recovery.md).
+Use this reference to preserve a retrievable source record for any recipe's findings, for
+example the [emigrant-origin packet](russian-empire-emigrant-origin-recovery.md).
 
 ## Contents
 
@@ -17,6 +17,12 @@ For each source you inspect, record:
 - Your local record handle, such as `R1`.
 - The holding repository and collection or series title.
 - The record type and its date as written.
+- Who created the record: the office, clergyman, clerk, compiler or author.
+- The layer you consulted (original image, transcript, abstract or index), with its provider.
+  When it is not the original, name the original it reproduces as well. Mills's
+  [creator-first citation pattern](https://www.evidenceexplained.com/quicktips/citations-1-2-3-easy)
+  and [layered citations](https://www.evidenceexplained.com/content/quicklesson-19-layered-citations-work-layered-clothing)
+  motivate these two fields.
 - The archive fund, inventory and file reference when present.
 - The film or DGS identifier when present, in a separate field.
 - The volume, page, passenger line or other item locator.
