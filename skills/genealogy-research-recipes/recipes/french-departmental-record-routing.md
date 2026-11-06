@@ -1,8 +1,8 @@
 # Route French records by département, creator, series and access rule
 
-Use this recipe before you search for a French birth, marriage, death, census, military, property, notarial, decoration or consular record. It identifies the relevant archive and series from the record's creator and period, and tells you when a civil act is open. It prevents failures such as looking for one national French index that does not exist; reporting "not in the census" after a name search of lists that are mostly unindexed; looking for a soldier's register under his birth year and birth département instead of his classe and recruitment bureau; calling a recent birth or marriage "missing" when it is closed but can be ordered; expecting a duplicate parish register before 1667; looking for a Paris-suburb notary at the Archives nationales; assuming a former Meurthe commune's present département without checking the 1871 annexation line; and stopping an early-1939 camp search at the Pyrénées-Orientales archives, which hold no lists for those months, when the Archives nationales do.
+Use this recipe before you search for a French birth, marriage, death, census, military, property, notarial, decoration, consular or prison record. It identifies the relevant archive and series from the record's creator and period, and tells you when a civil act is open. It prevents failures such as looking for one national French index that does not exist; reporting "not in the census" after a name search of lists that are mostly unindexed; looking for a soldier's register under his birth year and birth département instead of his classe and recruitment bureau; calling a recent birth or marriage "missing" when it is closed but can be ordered; expecting a duplicate parish register before 1667; looking for a Paris-suburb notary at the Archives nationales; assuming a former Meurthe commune's present département without checking the 1871 annexation line; and stopping an early-1939 camp search at the Pyrénées-Orientales archives, which hold no lists for those months, when the Archives nationales do.
 
-It covers routing, access delays, the INSEE death file, the succession tables, the censuses, the registres matricules, ancien-régime duplicates, property registers, notarial minutes and the Pyrénées-Orientales camp files. Link out for the shared steps:
+It covers routing, access delays, the INSEE death file, the succession tables, the censuses, the registres matricules, ancien-régime duplicates, property registers, notarial minutes, the Pyrénées-Orientales camp files and prison admission registers. Link out for the shared steps:
 
 For an adoption lead, a French Basque house-name change or a Breton marriage decree,
 use section 10 to identify the separate judgment, house-entry or consent records to seek.
@@ -312,6 +312,25 @@ and describes different responsible administrations over time [S33].
   Leave uncertain attribution, missing files and conflicting dates unresolved. Census
   sub-series 6 M in step 5 is not a decoration-file locator.
 
+### A Légion d’honneur lead missing from Léonore
+
+Keep the independent award clue, identified person and plausible award period even when
+Léonore returns no dossier. The 2024 presentation names two published alternatives:
+the five-volume *Fastes de la Légion d’honneur* (1845) for early promotions, and
+*Bulletin des lois* nomination announcements from 1818 [S42].
+
+1. Select the publication whose period covers the clue. Search its actual name index
+   where available, preserving name variants and the volume/page reference. The
+   presentation describes Gallica copies and Filae indexes; check which volumes and
+   indexes you can actually consult rather than assuming complete online coverage.
+2. Follow the index reference into the publication itself. Record the printed name,
+   nomination date, award wording and original page, keeping the index entry separate.
+   Compare the person with independent identity clues before joining the nomination
+   to the dossier search.
+3. Return either that dated nomination or the publications, volumes and index coverage
+   checked. Both alternatives are incomplete [S42]: another miss does not disprove the
+   award, and a nomination does not by itself establish receipt of the decoration.
+
 ### A French resident under an overseas consular post
 
 Fix the consulate or consular section and residence period first. The official guide
@@ -328,6 +347,31 @@ statements are not current access instructions.
 Return the post, period, collection, cote, inspection status and actual family or image
 content. An unregistered person is not thereby absent from the country, and a file
 description does not establish a photograph, service history or family relationship.
+
+## 12. Follow a named prison into its admission register
+
+Start from a dated press report or military-record annotation that actually names a
+prison. Keep its wording and identity clues beside the bounded detention period. The
+2024 presentation uses these leads to select an institution before searching its
+*registres d’écrou* (admission registers) [S43].
+
+1. Open the relevant AD’s finding aid for that institution and period. The presentation
+   gives series Y as a lead; take the actual cote and surviving date span from the
+   selected inventory. Distinguish the penal categories and register types it describes,
+   using the clue’s stated status rather than choosing a register by surname alone.
+2. Locate that institution’s alphabetical table or general repertory. The presentation
+   describes alphabetical tables in older registers and later repertories referring to
+   several register types [S43]; use the actual arrangement without assuming a common
+   transition date. Read the name entry for its admission number (*numéro d’écrou*)
+   and any register, date or category reference.
+3. Carry those references into the specified register and admission entry. If a separate
+   nominative index supplies an archival cote, follow that cote back to the AD record;
+   retain the index and original as distinct sources. Copy the admission number and
+   page/image locator so another researcher can retrace the handoff.
+4. Compare the entry’s recorded civil identity, occupation and dates with the independent
+   clues. Preserve any judgment or sentence reference for separate retrieval; record
+   only the fields actually present. Return the clue → institution/category → table or
+   repertory → register-entry chain, with unresolved identity and retrieval links.
 
 ## Close with a routing packet
 
@@ -351,6 +395,9 @@ Return:
   transcription locators, or the dated Paris address and selected property register;
   the deed/notary reference, actual access and inspection status, and unresolved parcel,
   person or succession links.
+- **Prison row:** the dated institutional clue, selected penal category, table or
+  repertory reference, admission number and original entry locator, with identity links
+  supported by the inspected records.
 - **Gaps:** INSEE years 1970–1975, greffe copies before 1736, unindexed census years, and for early 1939 whether the Archives nationales camp lists were read.
 
 The model assembles this packet. The researcher decides identity and kinship.
