@@ -25,6 +25,16 @@ All procedures are independently written paraphrases. Sources are cited, not rep
 - **H17:** Geni Help, [Ancestor/Descendant reports](https://help.geni.com/hc/en-us/articles/360055684513-How-do-I-view-Ancestor-Descendant-reports).
 - **H18:** Geni Help, [Export a GEDCOM](https://help.geni.com/hc/en-us/articles/229705167-How-can-I-export-my-GEDCOM); includes focus eligibility, export groups, language and privacy options.
 
+Merge permissions and locked fields. The live Geni help center refused automated access on
+2026-11-06, so each page was read that day from the Internet Archive capture named; these are the
+latest captures found, from 2023.
+
+- **H19:** Geni Help, [Who are Collaborators?](https://help.geni.com/hc/en-us/articles/229705467-Who-are-Collaborators-), capture of 2023-09-29; collaborators can view, edit and merge each other's public profiles, gain nothing on private profiles, and merging has been free for everyone since November 2012.
+- **H20:** Geni Help, [What is the difference between approving a match vs. requesting a merge?](https://help.geni.com/hc/en-us/articles/229705567-What-is-the-difference-between-approving-a-match-vs-requesting-a-merge-), capture of 2023-05-30; each other manager must accept the merge, permission comes from managing a profile or from a Family Group member managing it, and a merge involving a claimed profile can never be completed by you.
+- **H21:** Geni Help, [What is a Merge Request?](https://help.geni.com/hc/en-us/articles/229705447-What-is-a-Merge-Request-), capture of 2023-05-30; the Merge Center lists pending merges, which can be viewed, completed or undone there.
+- **H22:** Geni Help, [What permissions do Curators have in my tree?](https://help.geni.com/hc/en-us/articles/229706807-What-permissions-do-Curators-have-in-my-tree-), capture of 2023-11-29; curators approve merges and designate Master Profiles, optionally locking fields from being edited.
+- **H23:** Geni Help, [What is a Master Profile?](https://help.geni.com/hc/en-us/articles/229704047-What-is-a-Master-Profile-), capture of 2023-09-29; curators may lock individual fields of a Master Profile or the whole profile, and a user who wants to edit a locked field contacts that profile's curator. No page found says what a merge does to a locked field, so the recipe states no outcome.
+
 ## Credits
 
 - Kinprove original procedural synthesis; Geni platform facts and community workflows attributed to the pages and tutorials listed in Sources — FSL-1.1-MIT (kinprove-original)
