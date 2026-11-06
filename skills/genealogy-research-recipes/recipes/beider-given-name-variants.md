@@ -24,9 +24,10 @@ complete first-post archive captures dated 2024-12-25, retrieved on 2026-10-03. 
 records the archive URLs, capture dates and source hashes; it does not claim to reflect
 later forum edits.
 
-Run from this skill's directory:
+Run from this skill's directory (`-h` or `--help` displays options; all query invocations return a single JSON object):
 
 ```sh
+python3 scripts/lookup_beider_name.py -h
 python3 scripts/lookup_beider_name.py --sex male --name "Гершель"
 python3 scripts/lookup_beider_name.py --sex female --name "Песя"
 ```
