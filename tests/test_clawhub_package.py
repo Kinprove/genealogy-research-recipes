@@ -16,9 +16,8 @@ class ClawHubPackageTests(unittest.TestCase):
         package = json.loads((ROOT / "package.json").read_text(encoding="utf-8"))
         self.assertEqual(package["name"], "@kinprove/genealogy-research-recipes")
 
-    def test_registry_metadata_preserves_license_and_source(self):
+    def test_registry_metadata_preserves_source(self):
         package = json.loads((ROOT / "package.json").read_text(encoding="utf-8"))
-        self.assertEqual(package.get("license"), "FSL-1.1-MIT AND LicenseRef-Third-Party-Content")
         self.assertEqual(package.get("repository"), {
             "type": "git",
             "url": "https://github.com/Kinprove/genealogy-research-recipes.git",

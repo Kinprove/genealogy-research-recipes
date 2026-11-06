@@ -7,13 +7,15 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SKILL_DIR = ROOT / "skills/genealogy-research-recipes"
-EXPRESSION = "FSL-1.1-MIT AND LicenseRef-Third-Party-Content"
-JSON_MANIFESTS = (".claude-plugin/plugin.json", "package.json", "plugin.json")
+THIRD_PARTY_REF = "LicenseRef-Third-Party-Content"
+EXPRESSION = f"FSL-1.1-MIT AND {THIRD_PARTY_REF}"
+# openclaw.plugin.json has no license field.
+LICENSED_JSON_MANIFESTS = (".claude-plugin/plugin.json", "package.json", "plugin.json")
 
 
 def declared_licences():
     licences = {
-        name: json.loads((ROOT / name).read_text(encoding="utf-8"))["license"] for name in JSON_MANIFESTS
+        name: json.loads((ROOT / name).read_text(encoding="utf-8"))["license"] for name in LICENSED_JSON_MANIFESTS
     }
     marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))
     for plugin in marketplace["plugins"]:
@@ -30,14 +32,9 @@ class LicenseMetadataTests(unittest.TestCase):
         self.assertEqual(len(licences), 5, licences)
         self.assertEqual(set(licences.values()), {EXPRESSION}, licences)
 
-    def test_notice_defines_every_licence_reference_in_the_expression(self):
+    def test_notice_defines_the_licence_reference(self):
         notice = (ROOT / "NOTICE").read_text(encoding="utf-8")
-        references = re.findall(r"LicenseRef-[A-Za-z0-9.-]+", EXPRESSION)
-        self.assertTrue(references)
-        for reference in references:
-            self.assertRegex(
-                notice, rf"(?m)^{re.escape(reference)}$", f"NOTICE needs a section headed {reference}"
-            )
+        self.assertRegex(notice, rf"(?m)^{THIRD_PARTY_REF}$", f"NOTICE needs a section headed {THIRD_PARTY_REF}")
 
     def test_notice_and_license_copies_are_identical(self):
         for name in ("NOTICE", "LICENSE"):

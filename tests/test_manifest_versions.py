@@ -30,12 +30,12 @@ def skill_stamp():
 
 
 def history_rows():
-    """(version, released, becomes MIT on) for each table row, newest first as written."""
-    return [
-        (tuple(int(part) for part in version.split(".")), datetime.date.fromisoformat(released),
-         datetime.date.fromisoformat(mit))
-        for version, released, mit in CHANGELOG_ROW.findall(CHANGELOG.read_text(encoding="utf-8"))
-    ]
+    """(version, released, becomes MIT on) strings for each table row, in file order."""
+    return CHANGELOG_ROW.findall(CHANGELOG.read_text(encoding="utf-8"))
+
+
+def version_key(version):
+    return tuple(int(part) for part in version.split("."))
 
 
 class ManifestVersionTests(unittest.TestCase):
@@ -59,11 +59,9 @@ class ReleaseHistoryTests(unittest.TestCase):
     def test_newest_row_is_this_release(self):
         rows = history_rows()
         self.assertTrue(rows, f"no release rows found in {CHANGELOG}")
-        version, released = skill_stamp()
-        newest = rows[0]
         self.assertEqual(
-            (".".join(map(str, newest[0])), newest[1].isoformat()),
-            (version, released),
+            rows[0][:2],
+            skill_stamp(),
             "add a row for this release to the top of CHANGELOG.md with the SKILL.md release date",
         )
 
@@ -71,16 +69,17 @@ class ReleaseHistoryTests(unittest.TestCase):
         rows = history_rows()
         for newer, older in zip(rows, rows[1:]):
             with self.subTest(newer=newer[0], older=older[0]):
-                self.assertGreater(newer[0], older[0])
+                self.assertGreater(version_key(newer[0]), version_key(older[0]))
                 self.assertGreaterEqual(newer[1], older[1])
 
     def test_each_version_becomes_mit_on_its_second_anniversary(self):
         for version, released, mit in history_rows():
             with self.subTest(version=version):
-                self.assertEqual(mit, released.replace(year=released.year + 2))
+                day = datetime.date.fromisoformat(released)
+                self.assertEqual(datetime.date.fromisoformat(mit), day.replace(year=day.year + 2))
 
     def test_earlier_releases_keep_their_reviewed_dates(self):
-        rows = {".".join(map(str, version)): released.isoformat() for version, released, _ in history_rows()}
+        rows = {version: released for version, released, _ in history_rows()}
         for version, released in EARLIER_RELEASES.items():
             with self.subTest(version=version):
                 self.assertEqual(rows.get(version), released, "keep every earlier row; add new releases above them")

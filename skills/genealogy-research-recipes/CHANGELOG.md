@@ -5,7 +5,7 @@ the MIT licence on the second anniversary of the day it was first made available
 ([LICENSE](LICENSE), "Grant of Future License"). Third-party material is not licensed
 by Kinprove and does not become MIT through this licence; see [NOTICE](NOTICE).
 
-Released is the day, in UTC, that a version first appeared in the public repository
+The Released column gives the day, in UTC, that a version first appeared in the public repository
 <https://github.com/Kinprove/genealogy-research-recipes>: the day its pull request was
 merged into `main`, or, for 0.2.0 and 0.2.2, which had no pull request, the day its tag
 was created. Release notes, where a version has them, are on the repository's Releases

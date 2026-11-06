@@ -114,7 +114,7 @@ matches and projects.
 
 [FSL-1.1-MIT](LICENSE), © 2026 Kinprove. Each version becomes MIT two years after its release; the
 dates are in the [release history](skills/genealogy-research-recipes/CHANGELOG.md). Third-party
-material quoted or adapted in the recipes, and the Beider name data, is not licensed by Kinprove:
+material quoted or adapted in the recipes, and the Beider name data, are not licensed by Kinprove:
 see [NOTICE](NOTICE).
 
 How Kinprove reads the licence (the [LICENSE](LICENSE) text governs). Allowed:

@@ -20,8 +20,8 @@ Third-party material that the package reproduces is not licensed by Kinprove
 and keeps its own rights. This covers:
 
   - the Beider name-index data described below; and
-  - the passages credited "(quoted)" or "(adapted)" in the Credits list of a
-    recipe's sources/<slug>.md file.
+  - a source's own expression in the passages credited "(quoted)" or
+    "(adapted)" in the Credits list of a recipe's sources/<slug>.md file.
 
 Kinprove grants no licence to this material, under FSL-1.1-MIT or otherwise.
 Anyone who reuses it needs whatever permission its rights holder requires.

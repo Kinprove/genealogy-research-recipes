@@ -16,6 +16,7 @@ MAX_LIMIT = 50
 DASHES = str.maketrans({char: "-" for char in "‐‑‒–—−"})
 CONSONANTS = str.maketrans("БВГДЖЗ", "ПФКТШС")
 MATCH_ORDER = {"exact": 0, "separator_normalized": 1, "fuzzy": 2}
+RIGHTS_FIELDS = ("license", "permission", "basis")
 
 
 class SourceUnavailable(Exception):
@@ -119,9 +120,6 @@ def validate_index(record: dict) -> dict:
         raise ValueError("invalid source content hash")
     rows = validate_entries(record["entries"], record["entry_count"])
     return {**record, "entries": rows}
-
-
-RIGHTS_FIELDS = ("license", "permission", "basis")
 
 
 def validate_rights(rights: dict) -> None:

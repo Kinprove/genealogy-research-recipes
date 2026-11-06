@@ -6,24 +6,24 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = ROOT / "skills/genealogy-research-recipes/sources"
-CREDITS = "## Credits"
-# The form the family-tree exporter renders: "- <source> — <rights statement> (<class>)".
+CREDITS_HEADING = "## Credits"
+# Each Credits bullet: "- <source> — <rights statement> (<class>)", with the classes NOTICE defines.
 CREDIT_LINE = re.compile(r"^- \S.* — .*\S \((kinprove-original|quoted|adapted)\)$")
 
 
-def credit_lines(text):
+def credit_bullets(text):
     """Return the Credits bullets, each with its indented continuation lines joined.
 
     Raise ValueError when the file has no Credits section, more than one, a section after it,
     or anything other than one bullet list inside it.
     """
     lines = text.splitlines()
-    starts = [index for index, line in enumerate(lines) if line == CREDITS]
+    starts = [index for index, line in enumerate(lines) if line == CREDITS_HEADING]
     if len(starts) != 1:
-        raise ValueError(f"needs exactly one `{CREDITS}` heading, found {len(starts)}")
+        raise ValueError(f"needs exactly one `{CREDITS_HEADING}` heading, found {len(starts)}")
     body = lines[starts[0] + 1 :]
     if any(line.startswith("#") for line in body):
-        raise ValueError(f"`{CREDITS}` must be the last section")
+        raise ValueError(f"`{CREDITS_HEADING}` must be the last section")
     while body and not body[0].strip():
         body.pop(0)
     while body and not body[-1].strip():
@@ -48,8 +48,9 @@ def unclassed(bullets):
 class CreditsParserTests(unittest.TestCase):
     def test_wrapped_bullet_is_joined_before_its_class_is_read(self):
         text = "## Sources\n\n- **S1:** A.\n\n## Credits\n\n- Source A —\n  short quotation (quoted)\n"
-        self.assertEqual(credit_lines(text), ["- Source A — short quotation (quoted)"])
-        self.assertEqual(unclassed(credit_lines(text)), [])
+        bullets = credit_bullets(text)
+        self.assertEqual(bullets, ["- Source A — short quotation (quoted)"])
+        self.assertEqual(unclassed(bullets), [])
 
     def test_a_line_without_one_of_the_three_classes_at_its_end_is_reported(self):
         for bullet in (
@@ -63,7 +64,7 @@ class CreditsParserTests(unittest.TestCase):
 
     def test_a_blank_line_inside_the_list_is_refused(self):
         with self.assertRaisesRegex(ValueError, "one bullet list"):
-            credit_lines("## Credits\n\n- A — x (quoted)\n\n- B — y (adapted)\n")
+            credit_bullets("## Credits\n\n- A — x (quoted)\n\n- B — y (adapted)\n")
 
     def test_a_missing_repeated_or_non_final_credits_section_is_refused(self):
         for text, message in (
@@ -73,24 +74,21 @@ class CreditsParserTests(unittest.TestCase):
             ("## Credits\n\n", "empty"),
         ):
             with self.subTest(message=message), self.assertRaisesRegex(ValueError, message):
-                credit_lines(text)
+                credit_bullets(text)
 
 
 class SourcesCreditsTests(unittest.TestCase):
     def test_every_credits_line_names_its_rights_class(self):
         paths = sorted(SOURCES.glob("*.md"))
         self.assertTrue(paths, f"no sources files found in {SOURCES}")
-        checked = 0
         for path in paths:
             with self.subTest(sources=path.name):
-                bullets = credit_lines(path.read_text(encoding="utf-8"))
+                bullets = credit_bullets(path.read_text(encoding="utf-8"))
                 self.assertEqual(
                     unclassed(bullets),
                     [],
                     "end each Credits line with ' — <rights statement> (kinprove-original)', '(quoted)' or '(adapted)'",
                 )
-                checked += len(bullets)
-        self.assertGreaterEqual(checked, len(paths))
 
 
 if __name__ == "__main__":
