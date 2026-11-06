@@ -141,6 +141,19 @@ Additional Y-haplogroup and Advanced Matches sources:
   checked 2026-11-06. Separate Y-DNA12 to Y-DNA111 selections and the **Show only people I
   match in all selected tests** option.
 
+Additional project-results search sources:
+
+- **S29:** Roberta Estes, [FOCUS: Step 2 – Finding the Y-DNA and Mitochondrial DNA of Your Ancestors](https://dna-explained.com/2026/10/23/focus-step-2-finding-the-y-dna-and-mitochondrial-dna-of-your-ancestors/),
+  DNAeXplained, 2026-10-23. Used for expanding a project's results page from 25 to 5000 rows
+  before a browser search, searching the earliest-known-ancestor column surname by surname
+  through the line, colour marking predicted haplogroups, and checking that a hit's listed
+  woman belongs to the matrilineal line. The `candidate row` status is Kinprove synthesis.
+- **H11:** FamilyTreeDNA Help, [Using the Admin - mtDNA Results Report](https://help.familytreedna.com/hc/en-us/articles/4484000525455-Using-the-Admin-mtDNA-Results-Report),
+  checked 2026-11-06 through search results; the page itself returned an access error. Used for
+  the **Page Size** control, its warning that large page sizes may not work, and results shown in
+  administrator-defined subgroups. It documents the administrator report; the public results
+  page was not checked.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

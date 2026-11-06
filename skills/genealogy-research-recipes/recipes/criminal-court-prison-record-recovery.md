@@ -105,6 +105,15 @@ one result per target. This branch supplies a way to recover court, interrogatio
 and movement leads; it does not establish current national index completeness, applicable
 passport or vagrancy law, guilt, identity, a surviving file or an actual case outcome.
 
+## Swedish police gazette: follow back-references beyond the register hit list
+
+Use this branch for a Swede in police contact between 1878 and 1950. Search ArkivDigital's *Polisunderrättelser* (police gazette) name register, indexed for 1878–1950, by name and its variants [S11], [S12]. Check each hit's birth date against the person.
+
+- Open each hit's page image. Record the year, issue number, section and the literal entry. The sections are A (wanted persons), B (detained persons and cancelled notices), C (miscellaneous notices), D (released prisoners) and E (stolen and lost property) [S13].
+- Follow every back-reference in the remarks column to an earlier volume and section by hand, even where ArkivDigital has linked it; it links them only as far as possible [S12]. The presenter's example points to issue 104 of 1907, section D1 [S11]. Open that year, issue and section, and record the earlier entry as a separate observation.
+- Do not treat the register's hit list as complete. Indexing errors and name variants can hide appearances that the back-references reveal. Log each one found only by following a reference.
+- A gazette entry is a lead to the trying court, not proof of conviction. Add the named court, conviction date or prison to the routing row.
+
 ## Swedish court books: recover a separately surviving copy
 
 Use this branch when an identified Swedish proceeding has an incomplete *dombok* entry.

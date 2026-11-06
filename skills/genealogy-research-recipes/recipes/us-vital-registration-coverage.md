@@ -52,6 +52,8 @@ A search of a filmed copy is not a search of the original holding. Record which 
 
 For Philadelphia City Archives death records filed by cemetery, follow the Archives' own sequence: index, then register page, then cemetery name, then original return. A known cemetery and burial date can be a shortcut into the original records [S10].
 
+For a New York City birth, marriage or death listed in an index on FamilySearch, Ancestry or elsewhere, copy the certificate number, year and borough. Search the Municipal Archives image site by certificate number, limited to that borough and year, not by name: numbering restarts every year in each borough, and name spellings differ between indexes [S15], [S14]. The year on a certificate is the year it was filed, so if nothing comes up, check the number and borough, then try the following year [S15]. If there is still no image, record `unavailable (not online)` for that row and order the certificate from the Municipal Archives; orders for records not yet digitized are typically filled within six weeks [S16]. Do not record `searched – no hit`. Many indexed certificates are not yet digitized, including most corrected "S" birth certificates, and some images are mis-indexed [S17], [S18], [S15].
+
 ## Widen the places searched before recording a miss
 
 - **A nearby city where the person worked but did not live.** People living just outside a city could register a birth or death with the city's board [S7], [S6].

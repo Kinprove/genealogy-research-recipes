@@ -110,6 +110,11 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   stopped at a surname, and the alphabetical name register broken down in some big-city series.
   The GenWiki portal page itself could not be opened, so the first point rests on this post.
 
+- **S27:** Denyse Allen • Chronicle Makers, [Get Ready to Write: Find the History to Add to Your Chronicle (Livestream)](https://www.youtube.com/watch?v=ZF6-fUVVzH0),
+  23 October 2026. Used for: checking contemporary city directories for every factory of the
+  stated trade in the town before naming an employer. Listing every match with its locators and
+  keeping even a unique match as an inference are Kinprove synthesis.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

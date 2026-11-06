@@ -13,6 +13,11 @@
 - **S11:** NYC Department of Records and Information Services, Municipal Archives, [List of Holdings](https://www.nyc.gov/site/records/historical-records/holdings.page), opened 2026-11-04. Used for: the date ranges of each borough's vital-record series; Bronx, Queens and Richmond series starting in 1898; Bronx areas annexed before 1898 being in the Manhattan records; the pre-consolidation town and village series and Long Island City records.
 - **S12:** New York State Department of Health, [Genealogy Records & Resources](https://healthweb-back.health.ny.gov/vital_records/genealogy.htm), opened 2026-11-04. Used for: the state not filing New York City births and deaths, and its holding of Queens and Richmond records for 1881–1897.
 - **S13:** Michael R. Haines, *Historical Statistics of the United States, Millennial Edition*, [Vital statistics essay (Ab.ESS.01)](https://hsus.cambridge.org/HSUSWeb/toc/showEssayIdAb.ESS.01.html), opened 2026-11-04. Used for: the official Death Registration Area from 1900, the Birth Registration Area from 1915, the 90% completeness test for admission, and full coverage of both areas in 1933.
+- **S14:** GeneaVlogger, [Researching My Family Tree Live](https://www.youtube.com/watch?v=DANo4VGjIW0), 2026-10-31. Used for: copying the certificate number from an aggregator's New York City index entry and searching the city's image site by that number rather than by name; reading a failed number search as not yet digitized or mis-indexed, not as a missing record. Its digitization-progress display is not used.
+- **S15:** NYC Department of Records and Information Services, Municipal Archives, [NYC Historical Vital Records search](https://a860-historicalvitalrecords.nyc.gov/search) and [FAQ](https://a860-historicalvitalrecords.nyc.gov/faq), checked 2026-11-06 through search results (both pages refused direct access). Used for: certificate numbering restarting each year in each borough, so a search is limited by borough and year; the certificate year being the filing year; the following-year retry; volunteer-transcribed indexes with errors.
+- **S16:** NYC311, [Historic Birth, Death, or Marriage Record](https://portal.311.nyc.gov/article/?kanumber=KA-02750), opened 2026-11-06. Used for: ordering certificates that are not digitized, typically fulfilled within 6 weeks.
+- **S17:** German Genealogy Group, [Births – Records Search](http://www.germangenealogygroup.com/records-search/births.php), opened 2026-11-06. Used for: most corrected "S" (Special) birth certificates not being on the city's image site, and viewable at the Municipal Archives.
+- **S18:** New York Genealogical and Biographical Society, [New York City Public Digitized Vital Records Now Online for Free!](https://www.newyorkfamilyhistory.org/blog/new-york-city-public-digitized-vital-records-now-online-free), undated post citing a March 2022 count, opened 2026-11-06. Used for: digitization being incomplete (70% complete at that count).
 
 The authority-and-series register, the result vocabulary and the rule against stating absence are authored synthesis. The presenters supply examples of early city registration, separate series, custodians and delayed-certificate contents. They do not supply a general schedule of U.S. start dates. The New York City routing comes from the city and state custodians (S11, S12), and the registration-area dates and admission test from a scholarly reference work (S13).
 
@@ -25,9 +30,9 @@ Not verified:
 - the Utah midwives' and physicians' catalog heading
 - the claim that the four online providers carry different collections under repository contracts
 - current access rules and online availability at providers not named in this recipe
-- the coverage and search fields of the online platform a860-historicalvitalrecords.nyc.gov (no date ranges are given for it here)
+- the coverage of the online platform a860-historicalvitalrecords.nyc.gov (no date ranges are given for it here); its certificate-number search rules come from the site's own pages (S15), read through search results
 - the 1880 start sometimes given for the Death Registration Area (the formal area dates from 1900, S13)
 
 ## Credits
 
-- Kinprove original procedural synthesis; presenter examples are cited as S1 to S10 and dates were checked against named archival and vital-records authorities, including the Pennsylvania State Archives municipal records inventory — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; presenter examples are cited as S1 to S10 and S14 and dates were checked against named archival and vital-records authorities, including the Pennsylvania State Archives municipal records inventory — FSL-1.1-MIT (kinprove-original)

@@ -32,7 +32,11 @@ especially for small, inactive or private-land burial grounds. Also check county
 inventories, state cemetery surveys or commission databases, and state-archive or archaeological
 survey files, which may not be digitized. Record each survey's title, date, holding place and any
 registered cemetery number as a separate locator. A listing locates a burial ground, not who lies
-in it. A survey reading is a derivative transcription made at its date. Where a stone has since
+in it. For older compiled transcriptions, check the local-history collection of the library or
+historical society near the cemetery; some hold transcriptions made as early as the 1930s, such as
+the US Works Progress Administration (WPA) tombstone transcripts. Run FamilySearch Full-Text search
+(Search > Full-Text, free account) for `cemetery` with the place name to find digitised ones.
+[P61, P64, P65] A survey reading is a derivative transcription made at its date. Where a stone has since
 broken or vanished, keep it as a dated observation (Section 5). Keep inscriptions actually read
 apart from locations based on word of mouth or dowsing. The
 [cemetery-records class](https://www.youtube.com/watch?v=th8_R6cKTnw),
@@ -52,6 +56,17 @@ permanent stones. A gravestone survey such as the CompGen Grabstein-Projekt
 children from around 1900 and earlier. A missing child there is an expected gap, not a negative.
 Do not rebuild a sibship from the stones. Take child deaths from the civil (Standesamt) or church
 death and burial registers. [P53, P54]
+
+Swedish and Danish graves are leased, so expect missing stones there too. A Swedish grave right
+(gravrätt) now runs 25 years; older rights ran 50 years or in perpetuity. An unrenewed grave returns
+to the cemetery administration, which takes the stone into its care, and the plot can be reused 25
+years after the last burial. A Danish grave is cleared (sløjfet) once its protection period
+(fredningstid) has ended and the lease is not renewed: the family may take the stone, the cemetery
+may store it for a time, and unless it is registered as worth preserving (bevaringsværdig) it may be
+discarded. An emigrated family left nobody to renew, so a missing stone there is weak evidence that
+nobody was buried. Take the burial from the parish burial register and the cemetery's grave
+register. Then check the cemetery wall or lapidarium, where some cemeteries keep selected older
+stones. [P61, P62, P63]
 
 For an Israeli burial, work from the burial society (חברה קדישא, chevra kadisha) that served the
 place. Nationwide aggregators are incomplete:
@@ -130,7 +145,9 @@ a civil surname or identify the father.
 
 Open the available photograph and save its URL, cemetery and plot information. Keep any permitted
 original image separate from a working crop or adjusted reading copy. Record which image was
-actually inspected.
+actually inspected. On a memorial site, open every gallery image at its original size (on Find a
+Grave, **View original**). A main photo may be cropped to one name and hide a spouse on the same
+face. Record a cropped image as a partial view of that face. [P66, P67]
 
 Record whether the stone's letters were traced (outlined) before the photograph was taken. A
 traced photograph shows the tracer's reading, not the carving itself. Check each doubtful letter
@@ -267,6 +284,11 @@ unresolved transfer. A new marker does not date the burial or identify the remai
 [George Estes dedication example](https://dna-explained.com/2023/09/19/calling-all-descendants-of-george-estes-1763-1859-youre-invited-to-his-revolutionary-war-grave-dedication-52-ancestors-410/)
 motivates this event chain without independently verifying the reported relocation.
 
+When one grave has a family stone and a commemorative marker, such as a military marker a society
+placed later, record each date with the marker it comes from, who placed it and when. Record
+lettering cut later, such as sandblasted text beside raised original lettering, as a later
+addition. A date conflict between markers stays an unresolved discrepancy (Section 5). [P66]
+
 In a damaged or cleared cemetery, compare the present enclosure with any dated map of its former
 extent. Record the areas outside the boundary as lost or not examined, so that a missing stone is
 not read as absence of burial. For a stone recovered from a pile or dump, or reset in a special
@@ -361,6 +383,17 @@ custody evidence separately cited. Prepare a bounded request for the person's fu
 burial record, retaining requested, unavailable and received states. Use the same contact
 authorization rule above. The demonstration establishes no present holder, guaranteed survival
 or entitlement to the records. [P22]
+
+Read every page and face of an inspected death certificate, not only the personal particulars. On
+some early-20th-century certificates, such as one New York City example, the undertaker's
+certification names the person who hired the undertaker and that person's relationship to the
+deceased. That may be the only mention of a sibling. Record the employer's name and the stated
+relationship literally, as a relationship lead. An initial before a woman's stated role ("M.
+[Surname], the sister of deceased") may be her husband's initial, in the form 'Mrs. [husband's
+name]'. Search both for a sister married to a man with that initial and for a sister whose own name
+has that initial; do not pick one reading. Record the certificate's place-of-burial field as a
+cemetery lead, then find the interment entry there. A burial-place match in another state supports
+identity, but it is not the interment record. [P60]
 
 Where the actual source offers it, inspect the matched plot's roster before a bounded
 neighboring-plot search. Retain each burial/plot identifier and the actual distance or selected

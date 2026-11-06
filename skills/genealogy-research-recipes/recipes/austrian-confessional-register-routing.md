@@ -62,12 +62,15 @@ This step does not cover Burgenland, which was Hungarian until 1921.
 ## 5. In the Czech lands, route by the regional archive
 
 - **Search the state regional archive, not the parish.** Czech parish registers (matriky) are held by region in the state regional archives (státní oblastní archivy) [S11]. Route by the archive whose present territory includes the parish that kept the register.
+- **Pick the archive by territory.** Bohemia has five state regional archives (SOA): Litoměřice for the north, Plzeň for the west, Třeboň for the south, Hradec Králové for the east (SOA Zámrsk until 2022, the name older guides use) and Praha for Central Bohemia only. In Moravia and Silesia, the Moravian Provincial Archive in Brno (MZA) covers the south and the Provincial Archive in Opava (Zemský archiv v Opavě) covers north Moravia and Silesia [S11], [S16]. A parish inside the city of Prague goes to the Prague City Archives (AHMP), not SOA Praha. Each archive runs its own online register portal.
 - **Route the exceptions elsewhere** [S11]:
   - Jewish registers: the National Archive (Národní archiv);
   - military registers: the Military Central Archive;
   - Prague registers: the Prague City Archives.
 - **Route a recent register by its book's last entry.** The registry office (matriční úřad) keeps a birth book for 100 years and a marriage or death book for 75 years after the book's last entry, then transfers it to the competent state regional archive [S14]. A book past that period is at the archive: find the volume in its catalogue, not at the registry office.
+- **Ask the registry office for an open entry in a book it still holds.** Access periods run from the entry itself: 100 years for a birth, 75 for a marriage, 30 for a death. If the entry is past its period but later entries keep its book at the registry office, ask that matriční úřad to let you inspect it. Under § 25b of Act No. 301/2000 Coll., anyone may then inspect the entry and take extracts in the registrar's presence, with no proof of relationship; the fee is 50 Kč per entry [S17], [S18]. Certificates go only to the persons entitled under § 25(1) [S18]. Do not record the register as lost.
 - **Use the archive's own viewer.** The Moravian Provincial Archive in Brno (Moravský zemský archiv, MZA) publishes the registers it holds in Acta Publica, filterable by church originator (Roman Catholic, Evangelical and others) and by civil registry office [S12]. Search the regional archive's online registers before you write to a parish.
+- **Read the volume type.** Czech register catalogues sort volumes by event: N (narození, births or baptisms), O (oddaní, marriages), Z (zemřelí, deaths) [S20]. Acta Publica writes the types out in full (Narození, Oddaní, Zemřelí), gives each index its own field (index narození, index oddaní, index zemřelí) and uses the letters in its notes, as in N+O [S19]. Open the index before paging through a year book. Search a woman's surname with the feminine -ová ending as well as the masculine form [S15].
 
 ## Close with a routing packet
 

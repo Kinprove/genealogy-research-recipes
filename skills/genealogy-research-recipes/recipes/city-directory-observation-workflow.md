@@ -218,6 +218,13 @@ its relevant marriage register survives and who holds it before requesting a rec
 Keep the affiliation provisional: matching denomination or nearby addresses do not establish
 the ceremony's location or either spouse's membership. [S2]
 
+If a census or other record gives an occupation but no employer, check a classified or business
+section from a directory near the record date for the town of residence. List every business of
+that trade with its edition and page locators. Propose a specific employer only when it is the only
+one listed, and keep it marked as an inference until an employment or other record names it. An
+employer named by a web page or AI answer is not a substitute for this check. A business section
+can be incomplete, so a single listing does not prove there was no other employer. [S27]
+
 ## 4. Describe gaps before assigning events to them
 
 1. For the first or last apparent appearance, return to the coverage sheet.

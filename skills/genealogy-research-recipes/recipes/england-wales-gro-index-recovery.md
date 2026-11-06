@@ -144,7 +144,12 @@ For general FamilySearch jurisdiction and missed-person recovery, use
     1837–1957, then both again from 1984 to a recent year, so it has no entries for births 1935–1983 or
     deaths 1958–1983, and it has no marriage index [S24]. Read the current end year on the GRO
     site. For those gaps and for every marriage, use FreeBMD or another copy of the quarterly
-    index.
+    index. Check the marriage index's end year before you treat a miss on a recent marriage as a
+    nil [S33]. Ancestry's marriage index and the Findmypast index on FamilySearch stop at 2005
+    [S34], [S35]. FreeBMD stops sooner: its marriage chart ends at 2000, and its transcription is
+    incomplete [S36]. Order a later marriage from the GRO without a reference by giving the date
+    and place (extra search fee, slower dispatch), or from the register office for the district
+    where it took place [S37].
 6. Before calling a miss final, search the local register-office index for the district,
     reached through the UKBMD county pages. Local indexes are transcribed from the district's own
     registers, not from the GRO copies, so they can hold entries that are missing or misindexed in

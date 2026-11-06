@@ -105,6 +105,12 @@
 
 92. *Dorcas Johnson’s Mitochondrial DNA Secret Revealed – 52 Ancestors #357* — Roberta Estes (DNAeXplained), 2022-05-08 — <https://dna-explained.com/2022/05/08/dorcas-johnsons-mitochondrial-dna-secret-revealed-52-ancestors-357/> — Rights: cited reference, not reproduced. Used, with source 21, as an example for the maternal pedigree and locality worklist: setting each mtDNA match's reported earliest maternal ancestor beside the inspected direct-maternal pedigree and turning missing links or locations into record searches. No GD ranking or geographic verdict is adopted.
 
+93. *FOCUS: Step 2 – Finding the Y-DNA and Mitochondrial DNA of Your Ancestors* — Roberta Estes (DNAeXplained), 2026-10-23 — <https://dna-explained.com/2026/10/23/focus-step-2-finding-the-y-dna-and-mitochondrial-dna-of-your-ancestors/> — Rights: cited reference, not reproduced. Used for searching a kit number from WikiTree, or an earliest known ancestor's name, restricted to familytreedna.com before recruiting a tester, and for also searching daughters' names for a maternal line because women seldom appear in surname projects. The article's extra `projects` keyword is not adopted: it is a plain search word, not an operator.
+
+94. *Understanding the Admin - Public Results Display Settings Tool* — FamilyTreeDNA Help Center, checked 2026-11-06 through search results — <https://help.familytreedna.com/hc/en-us/articles/10278367606671-Understanding-the-Admin-Public-Results-Display-Settings-Tool> — Rights: cited reference, not reproduced. Used for the administrator setting that controls whether members' Y-DNA and mtDNA results appear on a project's public website.
+
+95. *Terry: FAQ* — FamilyTreeDNA group project page, checked 2026-11-06 — <https://www.familytreedna.com/groups/terry/faq> — Rights: cited reference, not reproduced. Used for the member's opt-in to public sharing and the Genealogy settings where the earliest known ancestor is entered. It is one project's page, not FamilyTreeDNA policy.
+
 ## Credits
 
 - Roberta Estes, 'All About AI – What It Is, What It Isn't, and Why It Matters', DNAeXplained, 2026-06-25 — FSL-1.1-MIT (adapted)

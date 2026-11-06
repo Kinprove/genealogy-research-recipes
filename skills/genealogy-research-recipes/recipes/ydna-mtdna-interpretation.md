@@ -205,6 +205,19 @@ upstream ancestor. Verify the required descent path before proposing that person
 tester. The register organizes coverage and next questions; it does not establish a DNA
 relationship or authorize contacting, testing or sharing another person's data.
 
+Before recruiting a new tester, search for results already published. Where a WikiTree DNA
+Tests entry or another source gives a FamilyTreeDNA kit number, run a web search for
+`"KITNUMBER" site:familytreedna.com`. Without a kit number, search the earliest known
+ancestor's name the same way. For a maternal line, also search each documented daughter's
+name: mtDNA testers seldom appear in surname projects, so a hit usually comes from a
+haplogroup or geographic project that lists a woman as earliest known ancestor. A public
+project page shows a kit number and earliest known ancestor only when the member opted in,
+entered an ancestor, and the administrator enabled public display. A hit or a miss reflects
+those settings and search indexing, not whether a tester exists. Record the project URL,
+retrieval date and displayed row as project-display data. Verify the descent path from the
+listed ancestor before counting that kit as coverage for the row. (Estes, DNAeXplained,
+2026-10-23)
+
 ## Build a maternal pedigree and locality worklist
 
 For each selected mtDNA match, place the reported earliest maternal ancestor beside the

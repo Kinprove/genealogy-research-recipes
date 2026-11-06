@@ -7,7 +7,8 @@ on 2026-11-02 against P30–P34. The е/ё, row-cap, UTC and aggregator rules ar
 not observed behaviour of any named site. The facts in the Israeli burial-society, Riga, Hebrew-year,
 ב"ב and landsmanshaft-plot rules were checked on 2026-11-04 against P39–P52. The facts in the
 German gravestone-survey and Polish cemetery-search rules were checked on 2026-11-06 against
-P53–P59.
+P53–P59. The facts in the Scandinavian grave-lease, FamilySearch Full-Text, WPA transcription and
+Find a Grave original-image rules were checked on 2026-11-06 against P62–P65 and P67.
 
 - **P1:** MyHeritage, *Discover Family History Through Gravestones*, published 2014-03-31 —
   [webinar](https://www.youtube.com/watch?v=xsDpYFkS_LI). Office/plot preparation, bilingual
@@ -304,6 +305,55 @@ P53–P59.
 - **P59:** CompGen, [Projektinformation Grabsteine 02/2016](https://www.compgen.de/?p=2614),
   31 January 2016, opened 2026-11-06. Used for: the Grabstein-Projekt at grabsteine.genealogy.net
   including former German cemeteries in West Pomerania, Poland.
+
+- **P60:** GeneaVlogger, [Researching My Family Tree Live](https://www.youtube.com/watch?v=DANo4VGjIW0),
+  published 2026-10-31. Used for: reading the undertaker's certification on an early-20th-century
+  New York City death certificate as a lead to the person who hired the undertaker and their
+  relationship, the initial that may be the husband's, and the place-of-burial field linking a
+  death to a cemetery in another state. The certificate layout is one narrated example; searching
+  both readings of the initial is Kinprove synthesis.
+
+- **P61:** FamilySearch, [Discovering the Past, One Headstone at a Time](https://www.youtube.com/watch?v=Cid_0GZZ1jM),
+  published 2026-10-30. Used for: leased Scandinavian graves losing their stones once nobody
+  renews them, a missing stone as weak evidence of no burial, older cemetery transcriptions in
+  local-history collections, and FamilySearch Full-Text search for digitised transcriptions. Its
+  claims that removed stones are routinely lined up at the cemetery edge and that Danish stones are
+  usually crushed are not adopted.
+
+- **P62:** Svenska kyrkan parish pages: Trollhättan, [Frågor och svar kring gravrätt](https://www.svenskakyrkan.se/trollhattan/kgf/fragor-och-svar-kring-gravratt);
+  Uddevalla, [Gravrätt och gravbrev](https://www.svenskakyrkan.se/uddevalla/gravratt-och-gravbrev);
+  Ljungby, [Odensjö kyrkogård](https://www.svenskakyrkan.se/ljungby/odensjo-kyrkogard); Lundby,
+  [Lapidarium](https://www.svenskakyrkan.se/lundby/lapidarium); Hammarö,
+  [Lapidarium på N:a kyrkogården](https://www.svenskakyrkan.se/hammaro/lapidarium-pa-na-kyrkogarden),
+  opened 2026-11-06. Used for: 25-year grave rights, a returned grave passing to the cemetery
+  administration with its stone, reuse no earlier than 25 years after the last burial, and older
+  stones worth preserving kept along a cemetery wall or in a lapidarium.
+
+- **P63:** Danish cemetery sources: Lex, [gravsten](https://lex.dk/gravsten); Leif Arffmann,
+  [De gamle sten: Overvejelser under registrering af gravminder](https://tidsskrift.dk/kirkegaardskultur/article/download/126239/172619/266138),
+  *Kirkegårdskultur*, 1994; Claes Foghmoes, [Kan landsbykirkegårdens anlæg tilpasses nye tider?](https://tidsskrift.dk/vorekirkegaarde/article/download/123909/170885/260150),
+  *Vore Kirkegaarde*, 1983; Hadsund Provsti, [Vedtægt for Hadsund kirkegård (PDF)](https://www.vive-hadsundpastorat.dk/uploads/7Hp13mOt/Kirkegrdsvedtgt2025.pdf),
+  revision of 2025-09-12; opened 2026-11-06. Used for: cleared (sløjfede) family graves, the
+  holder's right to remove the stone when the lease ends, temporary storage of stones not worth
+  preserving, registration of stones worth preserving, and stones from expired graves being
+  thrown out. No official source checked gives Danish protection-period lengths, so the recipe
+  states none.
+
+- **P64:** FamilySearch, [Full-Text Search Leaves FamilySearch Labs](https://www.familysearch.org/en/blog/full-text-search-leaves-familysearch-labs),
+  published 2025-08-30, opened 2026-11-06. Used for: Full-Text search in the main Search menu.
+
+- **P65:** South Carolina State Library, [South Carolina State Library Digitizes Works Progress Administration (WPA) Transcripts of Tombstone Inscriptions in South Carolina](https://statelibrary.sc.gov/news/south-carolina-state-library-digitizes-works-progress-administration-wpa-transcripts-tombstone),
+  dated 2025-04-14, opened 2026-11-06. Used for: WPA tombstone transcriptions made in the late
+  1930s, with the original cards held by the South Carolina Historical Society.
+
+- **P66:** Genealogy TV, [Discovering Your Roots: Cemetery Research Guide, Tombstone Symbols, and Find a Grave Tips](https://www.youtube.com/watch?v=dAV-AS0-474),
+  published 2026-10-23. Used for: recording dates from a family stone and a later commemorative
+  marker separately, lettering added later to an original stone, and checking every gallery image
+  at full size because a main photo may be cropped to one name. Its timing for the added marker is
+  not adopted.
+
+- **P67:** Find a Grave, [memorial page with photo gallery](https://www.findagrave.com/memorial/192415894/original_find_a_grave),
+  opened 2026-11-06. Used for: the **View original** link on gallery images.
 
 ## Credits
 
