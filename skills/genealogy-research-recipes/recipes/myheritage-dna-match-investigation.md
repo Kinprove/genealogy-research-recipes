@@ -55,6 +55,11 @@ says the downloaded raw-file header states the processing used and that array-pr
 not reprocessed. Take the type from the header, otherwise record `not_observed`; do not infer it
 from purchase date. This source does not measure how results differ between kit types.
 
+An uploaded kit can only be an earlier one: MyHeritage's help (page dated 21 July 2026) says
+DNA uploads are no longer supported. It says nothing about kits uploaded before the change, so record
+what such a kit currently shows in the account rather than assuming its matches are gone or
+complete.
+
 ### Before replacing the whole linked tree
 
 While both trees remain accessible, list the affected kit identifiers and map each old

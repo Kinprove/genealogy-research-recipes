@@ -96,6 +96,25 @@ the described scope; it does not verify a signed-in account or every kit generat
   fragment rows in another report, applied as a one-to-many crosswalk that keeps every fragment;
   the proposed endpoint tolerance and any cause of the provider difference are not adopted.
 
+X reporting table, checked 2026-11-06 (H6 supplies the FamilyTreeDNA row):
+
+- **H23:** 23andMe Customer Care, [DNA Relatives: Detecting Relatives and Predicting Relationships](https://support.23andme.org/hc/en-us/articles/42963245607063-DNA-Relatives-Detecting-Relatives-and-Predicting-Relationships),
+  updated 2026-11-05. DNA Relatives compares autosomes and X; the parent-child segment counts
+  (a male shares 23 segments with his mother). It does not say whether the percentage includes X.
+- **H24:** GEDmatch, [One-to-Many DNA Comparison](https://www.gedmatch.com/applications/one-to-many/),
+  undated. The "(X-DNA) Total cM" and "(X-DNA) Largest" columns.
+- **H25:** GEDmatch Support, [How to Use GEDmatch DNA Matching Tools (One-to-Many, One-to-One, Segment Search)](https://support.gedmatch.com/portal/en/kb/articles/how-to-use-gedmatch-dna-matching-tools-one-to-many-one-to-one-segment-search),
+  undated. The separate One-to-One X DNA comparison tool, which compares only the X chromosome.
+- **H26:** AncestryDNA, [Matching White Paper](https://www.ancestrycdn.com/support/us/2025/01/2025matchingwhitepaper.pdf),
+  last updated 2025-01-10. Timber windows "on autosomal chromosomes 1 through 22" and phasing
+  "across the autosome"; it states no X matching. Roberta Estes, [Understanding X-DNA Inheritance Video](https://dna-explained.com/2026/03/16/understanding-x-dna-inheritance-video/),
+  DNAeXplained, 2026-03-16, a secondary source, says FamilyTreeDNA is the only genetic genealogy
+  company to include X-DNA matching with autosomal results.
+- **H27:** MyHeritage Help, [What type of DNA test is used for DNA Matching?](https://www.myheritage.com/help/en/articles/13130239-what-type-of-dna-test-is-used-for-dna-matching),
+  dated 2026-07-21. DNA Matching uses autosomal DNA.
+- **H28:** MyHeritage Help, [In the Chromosome browser, is it possible to distinguish between DNA segments which were inherited from the paternal and maternal side?](https://www.myheritage.com/help/en/articles/12852329-in-the-chromosome-browser-is-it-possible-to-distinguish-between-dna-segments-which-were-inherited-from-the-paternal-and-maternal-side),
+  dated 2026-07-21. The X chromosome is not shown in the chromosome browser; X support is planned.
+
 ## Synthesis boundaries
 
 The exact-test registry, known-positive query check, result-status table, local

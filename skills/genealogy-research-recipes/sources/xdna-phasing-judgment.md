@@ -21,6 +21,11 @@
 16. *23andMe’s Historical Matches* — GenArchivist Forum, first post undated — <https://genarchivist.net/showthread.php?tid=662> — Used for checking a vendor's historical-sample match against tested parents before treating the small segment as inherited. Rights: cited reference, not reproduced.
 17. *DNA GENICS Ancient DNA Matches* — GenArchivist Forum, first post undated — <https://genarchivist.net/showthread.php?tid=1285> — Used for treating a segment found only by an unphased identity-by-state method, and not by a phased-haplotype method, as suspect. Rights: cited reference, not reproduced.
 18. *Вопрос начинающего* — МолГен forum, 2012-01-14 — <https://forum.molgen.org/index.php/topic,3315.0.html> — Used for the caution against requiring X and autosomal shared amounts to be proportional when judging a distant match. Rights: cited reference, not reproduced.
+19. *X-Matches* — FamilyTreeDNA Help Center, edited 2026-01-06, checked 2026-11-06 — <https://help.familytreedna.com/hc/en-us/articles/9134064538895-X-Matches> — Used for: no published minimum X cM; X cM not counted in overall shared cM; a match listed only when it meets the autosomal minimum; the 16 cM X ≈ 7 cM autosomal example. Rights: cited reference, not reproduced.
+20. *Visual Phasing: An Example (Part 1 of 5)* — Blaine Bettinger, The Genetic Genealogist, 2016-11-21 — <https://thegeneticgenealogist.com/2016/11/21/visual-phasing-an-example-part-1-of-5/> — Used for: visual phasing assigns three siblings' DNA to four grandparents without tested parents, and cousin matches identify which grandparent each group is. Rights: cited reference, not reproduced.
+21. *DNA Painter: Frequently Asked Questions* — DNA Painter, undated, checked 2026-11-06 — <https://dnapainter.com/help/faq> — Used for: segments shared with a full sibling mix maternal and paternal sides unless both kits are phased. Rights: cited reference, not reproduced.
+22. *Common segment generator* — Jonny Perl, DNA Painter blog, 2021-04-12 — <https://dnapainter.com/blog/common-segment-generator/> — Used for: a "turbo" visual phasing comparing phased maternal and paternal DNA with three siblings, with both parents tested. Rights: cited reference, not reproduced.
+23. *Concepts – Parental Phasing* — Roberta Estes, DNAeXplained, 2016-04-06 — <https://dna-explained.com/2016/04/06/concepts-parental-phasing/> — Used for: with one parent tested, matches that do not match that parent may be on the other side or identical by chance. Rights: cited reference, not reproduced.
 
 For the 2026-10-18 non-PAR and measurement-scope clarification, see H4 (Genome
 Reference Consortium assembly-specific PAR boundaries), H6 (FamilyTreeDNA's X
@@ -28,6 +33,11 @@ inheritance/list scope) and P1 (Page et al.'s primary X–Y recombination study)
 [DNA comparison controls — sources](dna-comparison-controls.md). Those sources were
 opened during this update. The comparison-control procedure is original synthesis;
 no universal detection threshold or error probability is inferred from it.
+
+The 2026-11-06 statement that AncestryDNA and MyHeritage show no X matches rests on H26–H28
+(AncestryDNA's 2025 matching white paper, a 2026 DNAeXplained post, and MyHeritage's help on
+DNA Matching and its chromosome browser) in
+[DNA comparison controls — sources](dna-comparison-controls.md), checked that day.
 
 ## Credits
 
