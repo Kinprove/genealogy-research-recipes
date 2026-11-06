@@ -108,7 +108,7 @@ is not a negative.
   1939–1947, and civilians killed by enemy action in 1939–1947. A record generally gives the place
   of burial or commemoration, and next of kin only in some cases. [P68, P69]
 - **ABMC** lists Americans buried or commemorated in its overseas First and Second World War
-  cemeteries and on its Walls of the Missing, with plot, row and grave. It does not include those
+  cemeteries and on its Walls of the Missing, with plot, row and grave for a burial. It does not include those
   brought home for burial, or any burial in the United States. [P70]
 - **VA Nationwide Gravesite Locator** covers national, state veterans', other military and
   Department of the Interior cemeteries. It covers a private cemetery only where the grave has a
@@ -399,8 +399,8 @@ are:
 | Record | Usual holder | What it shows |
 | --- | --- | --- |
 | Church burial register | The church, parish or its archive | The burial service; the person may be buried elsewhere [P78] |
-| Interment register; lot or plot-ownership books | The sexton or cemetery office; for a public cemetery, the town or county, or a state archives [P79, P80] | Burials, and separately who owned each plot |
-| Burial, removal or transit permit | Issued under state law, usually through the funeral home and the local vital-records office; old permits can reach county or state archives [P81] | Permission to bury, cremate or move the body |
+| Interment register; lot or plot-ownership books | The sexton or cemetery office; for a public cemetery, the town or county, or in some states, such as Utah, the state archives [P79, P80] | Burials, and separately who owned each plot |
+| Burial, removal or transit permit | Issued under state law; in California, through a funeral establishment or the local vital-records office [P81] | Permission to bury, cremate or move the body |
 | Funeral-home case file | The firm or its successor; some collections were given to libraries, archives or societies [P82] | Private business records, kept at the firm's discretion |
 
 Permit rules and record survival vary by state and period.
@@ -494,10 +494,10 @@ rate for speculative memorials and do not show how any site displays creation hi
 
 Read a Find a Grave memorial against the site's own rules, which describe what contributors are
 asked to do, not what was checked. Contributors are asked to add only verified burial places, not
-presumed ones; a memorial with the burial details unknown is allowed, and a memorial is not
-reviewed before it appears. [P84, P85] Memorials for living people are not acceptable, but one is
-removed only when the person or a relative asks, and a memorial made before death is allowed
-where the headstone is already in place. [P84] A cenotaph, a memorial for someone buried
+presumed ones, and a memorial with the burial details unknown is warranted only in rare cases.
+[P84, P85] Memorials for living people are not acceptable, and one is removed when the person or
+a family member asks; a person may create a pre-need memorial for themselves once a pre-need
+headstone is in place. [P84] A cenotaph, a memorial for someone buried
 elsewhere, is marked by a setting among the grave-marker options, and family links belong on the
 memorial of the actual burial. [P86] Members enter the family links themselves [P87]: record them
 as the contributor's claim. Corrections go through Suggest Edits; the manager may decline one, and

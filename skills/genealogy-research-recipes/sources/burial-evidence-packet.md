@@ -378,7 +378,7 @@ Find a Grave original-image rules were checked on 2026-11-06 against P62–P65 a
   government marker; and no private-cemetery burials before 1997.
 
 - **P72:** Volksbund Deutsche Kriegsgräberfürsorge, [Gräbersuche online](https://www.volksbund.de/erinnern-gedenken/graebersuche-online),
-  opened 2026-11-06, with its genealogy page. Used for: 5,428,566 war dead and missing listed on
+  opened 2026-11-06, with its [genealogy page](https://www.volksbund.de/erinnern-gedenken/graebersuche-online/ahnenforschung). Used for: 5,428,566 war dead and missing listed on
   6 November 2026, about 450,000 names still to be entered, and places of death and grave locations,
   mainly for the two world wars.
 
@@ -399,7 +399,7 @@ Find a Grave original-image rules were checked on 2026-11-06 against P62–P65 a
   opened 2026-11-06. Used for: Hebrew stones showing the date of death, and the words niftar and
   nifterah ('died').
 
-- **P77:** Eva Macková, Národní památkový ústav, [Interesting Tombstones in the Jičín Jewish Cemetery](https://npu.cz/uop/josefov/publikace/kulturni%20pamatka/sedlicky%20hrbitov%20eng.pdf),
+- **P77:** Terezie Dubinová, Národní památkový ústav, [Interesting Tombstones in the Jičín Jewish Cemetery](https://npu.cz/uop/josefov/publikace/kulturni%20pamatka/sedlicky%20hrbitov%20eng.pdf),
   leaflet, 2017, opened 2026-11-06. Used for: inscriptions giving the date of death, or even of
   burial.
 
@@ -420,9 +420,7 @@ Find a Grave original-image rules were checked on 2026-11-06 against P62–P65 a
 
 - **P81:** City of Long Beach, Health and Human Services, [Burial, Removal and Transit Permits](https://longbeach.gov/health/services/directory/records/burial-removal-and-transit-permits),
   opened 2026-11-06. Used for: burial permits required by California law before disposition and
-  obtained through a funeral establishment or the vital-records office. The Washington State
-  Archives' Lewis County burial-transit permit series, also opened, shows such permits reaching a
-  state archives.
+  obtained through a funeral establishment or the vital-records office.
 
 - **P82:** Melissa C. Tennant, Allen County Public Library Genealogy Center, [Death Business: Searching Funeral Home Collections](https://static.libnet.info/images/pdfs/acpl/Genealogy/Death_Business_Handout.pdf),
   handout, 2020, opened 2026-11-06. Used for: funeral-home records as private business documents
@@ -432,18 +430,19 @@ Find a Grave original-image rules were checked on 2026-11-06 against P62–P65 a
   and its [Burial Society FAQ](https://jgsny.org/searchable-databases/burial-society-databases/burial-society-faq),
   opened 2026-11-06. Used for: the gate or arch at a society plot's entrance, often naming the
   society's officers, and plots that may have belonged to more than one society over time. The
-  Museum of Family History's society-gates pages, also opened, describe gates in the New York–New
-  Jersey area and gate names too eroded to read.
+  Museum of Family History's [society-gates page](https://www.museumoffamilyhistory.com/cp-sg.htm),
+  also opened, describes gates in the New York–New Jersey area, and its pages show gate names too
+  eroded to read.
 
 - **P84:** Find a Grave, [Creating Memorials](https://support.findagrave.com/hc/en-us/articles/53933374689811-Creating-Memorials),
   opened 2026-11-06 through the help centre's public data feed, because the article page refused
   the fetcher. Used for: burial places that should be verified, not presumed; memorials for living
-  people not acceptable but removed on request of the person or a relative; and memorials made
-  before death allowed where a headstone is in place.
+  people not acceptable, and removed when a family member or the individual asks; and a person's
+  own pre-need memorial allowed once a pre-need headstone is in place.
 
 - **P85:** Find a Grave, [Non-Cemetery Burials and Other burial types](https://support.findagrave.com/hc/en-us/articles/53933342903187-Non-Cemetery-Burials-and-Other-burial-types),
-  opened 2026-11-06 the same way. Used for: memorials with burial details unknown, and memorials
-  not reviewed before they appear.
+  opened 2026-11-06 the same way. Used for: memorials with burial details unknown, warranted only in
+  rare cases.
 
 - **P86:** Find a Grave, [Cenotaph and Monument Information](https://support.findagrave.com/hc/en-us/articles/53933375396243-Cenotaph-and-Monument-Information),
   opened 2026-11-06 the same way. Used for: the cenotaph setting under the grave-marker options, and
