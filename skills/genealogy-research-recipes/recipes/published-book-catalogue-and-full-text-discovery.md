@@ -36,7 +36,12 @@ This recipe covers the cross-platform discovery of a book. Some steps overlap wi
 - **Catalogue search** (WorldCat, a library OPAC) matches only the terms cataloguers assigned. WorldCat does not search a book's contents [S2], [S12]. Some records include a table of contents or a summary, and those are searched too.
 - **OCR full-text search** matches words inside the scanned pages. MyHeritage's book collection (Compilation of Published Sources) is OCR'd and searchable page by page [S12]. Google Books searches the text of the books it has scanned. A quoted search for the presenter's great-grandfather returned about 154 books that mention him. Google Books also searches inside snippet-view books, not only "read" (full view) books. For a snippet-view book it shows only a few snippets around the term, not every page where the term appears [S6], [S15]. HathiTrust's full-text search matches the OCR text and lists individual volumes.
 
-**Test FamilySearch Books, Internet Archive and any other tool whose search type you haven't established before you count a zero as a negative.** Search a distinctive phrase that you know appears only in the body text of a book the tool holds, such as a name from a page you have already read.
+**Know which search each tool runs before you count a zero as a negative:**
+
+- FamilySearch Books searches the full text of its books as well as their descriptions [S26].
+- Internet Archive searches metadata (title, creator, description, subjects) by default. To search the OCR text of books, choose **Text Contents** in the search drop-down or tab (its help pages call the option "Search text contents"), or open `https://archive.org/search?query=TERM&sin=TXT`. A default search can miss a book whose pages contain the term [S27], [S28].
+
+**Test any other tool whose search type you haven't established.** Search a distinctive phrase that you know appears only in the body text of a book the tool holds, such as a name from a page you have already read.
 
 - One hit proves the tool searches page text.
 - One miss proves nothing: OCR misreadings can keep a book out of the results for a word it contains. Test two more distinct phrases from different pages.
@@ -152,11 +157,18 @@ verified here; use the procedure to check the actual case rather than copy its e
   - For restricted items, mainly those digitised by Google, non-members can download only one page at a time.
   - Members of partner institutions can download all public-domain works in full.
   - Copyrighted limited (search-only) books stay closed even to members logging in through their institution. HathiTrust says it cannot provide access to them.
+  - Full view also depends on the country you search from. In 2026, works published in the U.S. in 1930 or earlier, or elsewhere in 1900 or earlier, are public domain for everyone. Works published outside the U.S. from 1901 to 1930 open in full view only from a U.S. IP address and show as "Limited (search-only)" elsewhere. Works from 1931 on are in copyright. These years move forward each January, and the rights code on the volume decides; the rarer code `icus` opens a volume only outside the U.S. [S29], [S30].
+  - HathiTrust's default search lists only items you can read, so outside the U.S. set Item Viewability to All Items to see that a volume exists [S31]. Its Bibliographic API reports the view for a U.S. user, so a "Full View" there is not the answer for a reader elsewhere [S32].
 
-  Google digitised most HathiTrust content, so check Google Books for a locked item, as the presenter does [S7].
-- **A FamilySearch access-restriction message** (such as "not authorized to view") means the book is restricted, not missing. FamilySearch confirms that some Books images are restricted by contract and can be viewed only at the Family History Library or FamilySearch centers. Affiliate libraries do not get those restricted images. The presenter adds that a "not authorized to view" message can also mean the book's limit on simultaneous viewers has been reached [S6]. Record the exact restriction message you saw.
+  Google digitised most HathiTrust content, so check Google Books for a locked item, as the presenter does [S7]. Google Books also decides what a reader may view from the reader's country and IP address [S33].
+- **A FamilySearch access-restriction message** (such as "not authorized to view") means the book is restricted, not missing. FamilySearch gives each book one of three access levels, shown in its search result and in the Access Level filter [S34]:
+  - **Available Online:** searched and viewed online; it can be downloaded and printed [S35].
+  - **Protected (search only):** searched online, generally not viewable. One current help article says it cannot be viewed; another says it can be viewed but not printed or downloaded [S34], [S35]. Promise no viewing.
+  - **Viewable in Library:** searched online and viewed only on site ("from a Family Search Center or Library", in the help's words), without printing or downloading [S34], [S35].
 
-**Record a view level for each holder checked:** full view or "read", snippet, preview, timed loan, restricted/on-site, or catalogue only. Note which copy and edition you actually read.
+  Affiliate libraries do not get restricted Books images [S36]. Read the level on the book's search result and confirm that book's access with FamilySearch or the center before you plan a visit. The presenter adds that a "not authorized to view" message can also mean the book's limit on simultaneous viewers has been reached [S6]. Record the exact restriction message you saw.
+
+**Record a view level for each holder checked:** full view or "read", snippet, preview, timed loan, restricted/on-site, or catalogue only. Note which copy and edition you actually read, and the country you searched from.
 
 ## 6. Open the copy and cite the real host
 
