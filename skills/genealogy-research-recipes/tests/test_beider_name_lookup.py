@@ -44,6 +44,11 @@ def fixture_manifest():
     return {
         "schema_version": 2,
         "snapshot_date": "2026-10-03",
+        "rights": {
+            "license": "LicenseRef-Third-Party-Content",
+            "permission": "not requested",
+            "basis": "Factual mappings reproduced without a licence.",
+        },
         "indexes": {
             sex: {
                 "title": title,
@@ -526,6 +531,32 @@ class BeiderLookupTests(unittest.TestCase):
                 manifest[field] = value
                 self.assert_manifest_rejected(manifest)
         self.assert_manifest_rejected([])
+
+    def test_missing_or_incomplete_rights_record_is_unavailable(self):
+        manifest = fixture_manifest()
+        del manifest["rights"]
+        self.assert_manifest_rejected(manifest)
+        for rights in (None, "LicenseRef-Third-Party-Content", []):
+            with self.subTest(rights=rights):
+                manifest = fixture_manifest()
+                manifest["rights"] = rights
+                self.assert_manifest_rejected(manifest)
+        for field in lookup.RIGHTS_FIELDS:
+            for value in (None, "", "  ", 1, ["not requested"]):
+                with self.subTest(field=field, value=value):
+                    manifest = fixture_manifest()
+                    manifest["rights"][field] = value
+                    self.assert_manifest_rejected(manifest)
+            with self.subTest(field=field, value="missing"):
+                manifest = fixture_manifest()
+                del manifest["rights"][field]
+                self.assert_manifest_rejected(manifest)
+
+    def test_bundled_data_carries_its_rights_record(self):
+        rights = json.loads(lookup.MANIFEST.read_text(encoding="utf-8"))["rights"]
+        self.assertEqual(rights["license"], "LicenseRef-Third-Party-Content")
+        self.assertEqual(rights["permission"], "not requested")
+        self.assertIn("NOTICE", rights["basis"])
 
     def test_invalid_source_metadata_is_unavailable(self):
         for field, value in (

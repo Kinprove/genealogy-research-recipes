@@ -121,6 +121,18 @@ def validate_index(record: dict) -> dict:
     return {**record, "entries": rows}
 
 
+RIGHTS_FIELDS = ("license", "permission", "basis")
+
+
+def validate_rights(rights: dict) -> None:
+    """Require the rights record that travels with the reproduced third-party data."""
+    if not isinstance(rights, dict):
+        raise ValueError("rights must be an object")
+    for field in RIGHTS_FIELDS:
+        if not isinstance(rights[field], str) or not rights[field].strip():
+            raise ValueError(f"invalid rights {field}")
+
+
 def load_manifest(path: Path | None = None) -> dict:
     try:
         manifest = json.loads((MANIFEST if path is None else path).read_text(encoding="utf-8"))
@@ -132,6 +144,7 @@ def load_manifest(path: Path | None = None) -> dict:
         ):
             raise ValueError("invalid snapshot date")
         date.fromisoformat(snapshot_date)
+        validate_rights(manifest["rights"])
         indexes = manifest["indexes"]
         if not isinstance(indexes, dict) or set(indexes) != {"male", "female"}:
             raise ValueError("both indexes are required")

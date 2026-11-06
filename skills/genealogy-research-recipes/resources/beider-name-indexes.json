@@ -1,6 +1,11 @@
 {
   "schema_version": 2,
   "snapshot_date": "2026-10-03",
+  "rights": {
+    "license": "LicenseRef-Third-Party-Content",
+    "permission": "not requested",
+    "basis": "Factual recorded-name to dictionary-article mappings, reproduced without a licence; Kinprove grants no rights in them and removes them on request. See NOTICE."
+  },
   "indexes": {
     "male": {
       "title": "Мужские имена — индекс Бейдера",
