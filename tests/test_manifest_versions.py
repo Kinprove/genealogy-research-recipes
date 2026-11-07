@@ -1,6 +1,7 @@
 """Every host manifest, the skill's version line and the release history agree on the current release."""
 
 import datetime
+import importlib.util
 import json
 import re
 import unittest
@@ -12,6 +13,10 @@ SKILL = ROOT / "skills/genealogy-research-recipes/SKILL.md"
 SKILL_VERSION_LINE = re.compile(r"^This copy is version (\S+), released (\d{4}-\d{2}-\d{2})\.$", re.MULTILINE)
 CHANGELOG = ROOT / "skills/genealogy-research-recipes/CHANGELOG.md"
 CHANGELOG_ROW = re.compile(r"^\| (\d+\.\d+\.\d+) \| (\d{4}-\d{2}-\d{2}) \| (\d{4}-\d{2}-\d{2}) \|$", re.MULTILINE)
+EXPECTED_VERSION = "1.12.0"
+SPEC = importlib.util.spec_from_file_location("bump_version", ROOT / "scripts/bump_version.py")
+release = importlib.util.module_from_spec(SPEC)
+SPEC.loader.exec_module(release)
 # Reviewed first-availability days (UTC) of the versions released before the history file existed.
 EARLIER_RELEASES = {
     "1.12.0": "2026-11-06", "1.11.0": "2026-11-06", "1.10.0": "2026-11-05", "1.9.2": "2026-11-04",
@@ -49,10 +54,12 @@ class ManifestVersionTests(unittest.TestCase):
 
         skill_version, released = skill_stamp()
         versions["SKILL.md"] = skill_version
-        datetime.date.fromisoformat(released)
+        day = datetime.date.fromisoformat(released)
+        release.version_key(skill_version)
+        release.validate_release_date(day, release.previous_tag_date(ROOT, skill_version))
 
         self.assertEqual(len(set(versions.values())), 1, versions)
-        self.assertEqual(versions["package.json"], "1.12.0")
+        self.assertEqual(versions["package.json"], EXPECTED_VERSION)
 
 
 class ManifestDescriptionTests(unittest.TestCase):
@@ -104,7 +111,11 @@ class ReleaseHistoryTests(unittest.TestCase):
         for version, released, mit in history_rows():
             with self.subTest(version=version):
                 day = datetime.date.fromisoformat(released)
-                self.assertEqual(datetime.date.fromisoformat(mit), day.replace(year=day.year + 2))
+                try:
+                    anniversary = day.replace(year=day.year + 2)
+                except ValueError:
+                    anniversary = day.replace(year=day.year + 2, day=28)
+                self.assertEqual(datetime.date.fromisoformat(mit), anniversary)
 
     def test_earlier_releases_keep_their_reviewed_dates(self):
         rows = {version: released for version, released, _ in history_rows()}

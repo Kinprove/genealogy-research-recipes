@@ -65,3 +65,32 @@ the change, and state which checks you ran and their results. Add a regression
 check when a behavioral defect needs one. Leave unrelated files and release
 versions alone; coordinate releases with the maintainers. Include no private
 research data or credentials in the diff or commit history.
+
+## Preparing a release
+
+Start from a clean checkout with all intended changes committed. Fetch tags so
+the date check can use the preceding version's tag as well as the release history:
+
+```sh
+git fetch origin --tags
+python3 scripts/bump_version.py 1.13.0 2026-11-07
+```
+
+Replace the example version and date with the intended release. The date is the
+first public availability day in UTC, as defined in
+[the release history](skills/genealogy-research-recipes/CHANGELOG.md).
+The command updates all five host manifests, the skill's version/date, the test's
+expected version and a new history row including its MIT anniversary. It refuses
+staged, unstaged or untracked changes, a version that does not increase, invalid
+versions/dates, future dates and dates before the preceding release. Ignored
+build outputs do not make a checkout dirty.
+
+Review the diff and run the checks above before committing and opening a release
+pull request. If the public availability day changes before merge, correct the
+skill stamp and the new history row together, then rerun the checks. Date checks
+use UTC; when Git tags are absent (for example in a source archive or shallow
+CI checkout), the history still enforces release-date ordering.
+
+The bump command prepares files only. Tagging, host updates and live publication
+are separate release actions; use [MAINTAINERS.md](MAINTAINERS.md) for ClawHub
+validation and publication.
