@@ -64,6 +64,11 @@ Build a crosswalk from each pointer to the file it implies. Keep these parts sep
 
 ## Request the loose papers as their own series
 
+**Privacy gate:** <!-- privacy-gate: request --> A court-file request can disclose a party's
+identity and allegations or family circumstances involving people who may be living. Answer
+the privacy gate in `SKILL.md` before sending a request or supporting documents to the court
+or archive.
+
 Archives often bring out only the bound minute books. Ask separately for the loose papers or case file: affidavits, subpoenas and other working papers. The county archivist on S5 says these are kept apart from the minute books. Also find out where the court's files were later transferred, whether to a basement, attic, storage facility, microfilm or online images. Do not assume the files stayed at the courthouse. [S2], [S5]
 
 For recent state/county files, start with the court clerk (called the prothonotary for some

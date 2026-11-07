@@ -13,8 +13,8 @@
 
 The register, the token classification, the search log and the hypothesis labelling are authored
 synthesis. The presentations supply the examples and failure cases. Still presenter-reported:
-the ~13 million image figure; My China Roots' full-text-only status and province filter; the
-Shanghai Library holdings count in the older account; the presenters' romanized readings of names; the 1104 founder
+the ~13 million image figure; My China Roots' full-text-only status and province filter;
+the presenters' romanized readings of names; the 1104 founder
 date and the 95% placement; the placeholder-wife convention. The exact Western day of the
 Tongzhi example is not adopted until it is checked in a conversion table.
 

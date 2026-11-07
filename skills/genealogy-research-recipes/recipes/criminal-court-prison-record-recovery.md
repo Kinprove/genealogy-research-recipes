@@ -21,7 +21,7 @@ Use this recipe when an ancestor disappears from records and you suspect arrest,
 
 The detailed jurisdiction, inmate-file and request routes below are **U.S. routes**; the
 England/Wales and Swedish sections cover the specific retrieval problems they name, not all
-British or European criminal records. For federal and territorial case files, use
+British or European criminal records. For U.S. federal court case files, use
 [U.S. federal court recovery](us-federal-court-case-file-recovery.md). For a British conviction
 followed by overseas transportation, use [the convict transportation chain](convict-transportation-record-chain.md).
 
@@ -40,6 +40,11 @@ followed by overseas transportation, use [the convict transportation chain](conv
 - Output
 
 ## Choose available name indexes before browsing chronological registers
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool, request --> A name search or register
+request can disclose an inmate's identity and alleged criminal history to Ancestry or an
+archive, including someone who may be living. Answer the privacy gate in `SKILL.md` before
+entering identifying search terms or sending a record request.
 
 - Gather the triggers: a census line in a prison or asylum [S1], newspaper arrest, trial or incarceration reports [S1], [S3], and family accounts. Keep every family kernel, even ones that later prove wrong, and test each one [S3]. Some families avoid the subject, so a family's silence is not a negative [S1], [S3].
 - Start with the location and approximate period, but check available **name indexes before requiring a date or inmate number**. Sing Sing admission registers (B0143) are searchable on Ancestry as *New York, U.S., Sing Sing Prison Admission Registers, 1865–1939*. The New York partnership offers free access to New York State residents with a free account; others need an applicable subscription or library access. Verify each result on the register image. [S14]

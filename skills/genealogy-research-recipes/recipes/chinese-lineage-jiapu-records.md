@@ -56,10 +56,14 @@ Look for these in sources that write characters:
 - tombstones, which can give both the village and the name;
 - Chinese association histories or officer lists. [S1], [S2]
 
+**Privacy gate:** <!-- privacy-gate: request --> An exclusion-file request can disclose an
+emigrant's identity and sensitive family links, including relatives who may be living. Answer
+the privacy gate in `SKILL.md` before sending a request or supporting identity documents.
+
 For emigrants to the United States, also check **Chinese Exclusion Act case files in NARA
 RG 85**. They can contain Chinese names, village maps, family details and interrogation
 statements. Use the port or immigration office and case references to locate the relevant
-series; verify its current NARA custodian and access rules. The exclusion laws operated in
+series. Before requesting a file, verify its current NARA custodian and access rules. The exclusion laws operated in
 1882–1943, but individual series and files can extend beyond those dates. NARA's older
 holdings guide is a starting point, not a current facility list. [S6]
 
@@ -177,7 +181,8 @@ full-text searchable but not yet name-indexed, with results filterable by provin
   generation number, counted from the founding migrant ancestor, use it to narrow browsing.
   [S1], [S3], [S9]
 - A matching character or poem does not establish a shared lineage between same-surname
-  families. Branches can use different sequences, and a shared sequence is not a substitute
+  families. A generation-character match does not identify a person either.
+  Branches can use different sequences, and a shared sequence is not a substitute
   for village and recorded parent/child links. An emigrant's overseas school, courtesy or
   paper name may have no generation character; leave the generation unresolved rather than
   forcing that name into a poem. The presenter also notes looser practice in recent generations
