@@ -31,6 +31,13 @@ this recipe supplies the source-specific distinctions that must survive that pro
    from the form's name or a family relationship. The official instructions allow the entry
    “Holocaust” when the circumstances of death are unknown: that word supplies neither a specific
    death location nor an execution date. [H2; interpretation of the form]
+   Pages were gathered in several collection drives, from the 1950s and again in a large drive in
+   1999, and the names database shows records from independent sources side by side, each with
+   its own fate statement. [H11] If you find several Pages for one victim, keep each with its own
+   submitter, birth year and death place instead of merging them. A death place on a Page may be
+   the submitter's inference from what happened to the town or the transport; unless the Page
+   says how the submitter knew, record it as the submitter's statement, not as a known place of
+   death.
 4. Keep birth, prewar residence, wartime location, evacuation destination and alleged death place
    in distinct columns. Retain all alternative names actually displayed; compare them with the
    image rather than resolving a field conflict by overwriting it.
@@ -137,6 +144,22 @@ These are reasoning consequences of the source types, not a reliability ranking 
   Record whether names were searched in an index, read in images, or remain uninspected.
 - If a submitter is useful, treat the name and stated relationship as a lead. Researchers can
   submit Pages of Testimony; a contact field does not establish a living relative. [H1, H2]
+- If the alleged death place or last residence points to another record set, search the
+  matching database below. Each has its own coverage, so a miss covers only that database.
+
+  | Alleged death place or last residence | Search next | What it can add |
+  | --- | --- | --- |
+  | A camp, ghetto, deportation, forced-labour or displaced-persons trail, anywhere | [Arolsen Archives online collections](https://collections.arolsen-archives.org/en/search) | Scans of camp, deportation, forced-labour and postwar records [H12] |
+  | Germany, within its borders of 31 December 1937 | [Bundesarchiv Gedenkbuch](https://apps.bundesarchiv.de/gedenkbuch/) | A name list of Jews who lived there and were murdered or died as a result of persecution; no images [H13] |
+  | Theresienstadt, or deportation from today's Czech Republic | [Terezín Initiative database of victims](https://www.holocaust.cz/en/database-of-victims/) | About 80,000 deported people, with document images for some entries [H14] |
+  | Łódź ghetto | [JewishGen Łódź Ghetto Database](https://www.jewishgen.org/databases/Poland/LodzGhetto.html) | Entries from the 1994 *Lodz-Names* list of ghetto inhabitants, drawn from the ghetto's population registry books [H15] |
+  | France | [Mémorial de la Shoah person search](https://ressources.memorialdelashoah.org/rechav_pers.php) | Jews deported from France and other people in its records; searchable by convoy number [H16] |
+  | Any | [USHMM Holocaust Survivors and Victims Database](https://www.ushmm.org/remember/resources-holocaust-survivors-victims/database-of-holocaust-survivor-and-victim-names/search-names); [JewishGen Holocaust Database](https://www.jewishgen.org/databases/holocaust/) | Records from the museum's collections that name individuals, survivors included; camp records, transport lists and other name lists [H17] |
+
+  An Arolsen T/D (tracing and documentation) file is opened when someone enquires about a
+  person, and later enquiries go into the same file. [H12] An enquirer's statements in it carry
+  the enquirer's knowledge, like a Page of Testimony. Classify copies of other documents in the
+  file by their own author and purpose, as for a mixed postwar bundle above.
 - If no name result is found, report the names/scripts, fields, filters, collection and date
   actually checked. The historical guide describes incomplete victim and survivor documentation;
   do not replace that limitation with a fixed present-day coverage percentage. [H1]
