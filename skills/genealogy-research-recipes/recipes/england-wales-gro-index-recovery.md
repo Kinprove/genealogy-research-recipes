@@ -151,9 +151,9 @@ For general FamilySearch jurisdiction and missed-person recovery, use
     1969, death entries give the date of birth instead of the age [S39]. Before those quarters a
     copy has no such field to read or search. GRO built its online index from its own digitised
     records and added the mother's maiden surname to earlier births "where possible" [S38]; 2016
-    launch reports say it also gives ages at death before 1866 [S41]. For births under 100 years
-    old, the GRO index shows the mother's maiden surname only if you entered it in the search
-    [S38]. In one example, FreeBMD had no maiden name for a child whose GRO entry showed a dash
+    launch reports say it also gives ages at death for earlier deaths, but they disagree on the
+    first year [S41]. For births under 100 years old, the GRO index shows the mother's maiden
+    surname only if you entered it in the search [S38]. In one example, FreeBMD had no maiden name for a child whose GRO entry showed a dash
     [S21]. FreeBMD is volunteer-transcribed and incomplete [S21]. Its coverage starts with the
     September quarter of 1837. Rule: when FreeBMD or an aggregator finds an entry inside the GRO
     online index's years (step 5), rerun its exact spelling in the GRO index to get the
