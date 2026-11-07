@@ -1,0 +1,42 @@
+name: Recipe defect
+description: Report an incorrect claim, missing qualification, or broken research step.
+title: "Recipe defect: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For security or privacy problems, follow [SECURITY.md](https://github.com/Kinprove/genealogy-research-recipes/security/policy) and report privately. Do not post credentials, DNA data, private photographs, or identifying details of living people.
+  - type: input
+    id: location
+    attributes:
+      label: File and line or section
+      description: Give the repository path and a line number or section heading.
+      placeholder: skills/genealogy-research-recipes/recipes/example.md, section 2
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Package version or commit
+      description: Include the version you read, or its commit or permalink.
+    validations:
+      required: true
+  - type: textarea
+    id: passage
+    attributes:
+      label: Current passage and problem
+      description: Quote the affected passage and explain what a reader or agent would get wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Expected text or behavior
+      description: Suggest corrected wording or describe what the step should do.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting evidence
+      description: Link the source, note its date and relevant passage, or provide a minimal redacted example. Say when the evidence is uncertain or unavailable.
