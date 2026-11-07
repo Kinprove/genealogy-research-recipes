@@ -127,6 +127,14 @@ class BehaviouralHarnessTests(unittest.TestCase):
         failures = deterministic(case, "The database, headstone and burial give claims about death.", reads)
         self.assertEqual(failures, [])
 
+    def test_endogamy_plain_language_is_accepted_but_omission_is_not(self):
+        reads = {"ai-for-dna-research": {"complete": True, "lines": []}}
+        answer = ("Use the Shared cM Tool for the relationship range. "
+                  "Have the families married within one small community?")
+        self.assertEqual(deterministic(self.case, answer, reads), [])
+        failures = deterministic(self.case, "Use the Shared cM Tool for the range.", reads)
+        self.assertTrue(any("Missing regex" in failure for failure in failures))
+
     def test_equivalent_living_person_removal_wording_is_accepted(self):
         case = next(case for case in load_cases() if case["id"] == "gedcom-ancestry")
         reads = {"gedcom-research-export": {"complete": True, "lines": []}}
