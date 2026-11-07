@@ -27,8 +27,14 @@ not a case identifier. Repeated catalogue exports are not independent candidates
 ## Use title signals for recall, then inspect their meaning
 
 Search relevant Ukrainian and Russian historical record terms, including stems such
-as `євре`/`евре` and `синаго`, alongside record-type and locality terms. Preserve the exact
-query and searched catalogue scope. Older spelling or a generic title can hide a
+as `євре`/`евре` and `синаго`, alongside record-type and locality terms. Pre-1917 file titles
+about Jewish communities also use `кагал` (kahal), `коробочн` (the kosher-meat tax,
+коробочный сбор), `свечн` (the candle tax, свечной сбор), `посемейн` (family lists), `мещанск`
+with `еврейск` in either order (a Jewish townspeople's society; titles have both «еврейского
+мещанского» and «мещанского еврейского») and `призывн` (conscription lists, not specific to
+Jews, so read each hit in context). These are the Russian forms found in file titles; a
+Ukrainian catalogue description may translate them, so test the Ukrainian equivalent as well.
+Preserve the exact query and searched catalogue scope. Older spelling or a generic title can hide a
 relevant list; a zero title hit does not establish that a fund has no such records.
 
 Preserve the original Ukrainian title beside any translated display. A browser translation
