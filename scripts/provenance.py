@@ -28,9 +28,19 @@ CURRENT = re.compile(
     r'https?://|\b[a-zA-Z0-9-]+\.(?:com|org|gov|net|ie|uk)\b|[$€£]|'
     r'\b(?:currently|as of|now available|fees?|subscription|custod(?:y|ian)|'
     r'National Archives|National Library|State Archives|ScotlandsPeople|GRONI)\b', re.I)
-HEDGE = re.compile(r'\b(?:reports?|reported|according to|snippet|search[- ]result|'
+HEDGE = re.compile(r'\b(?:according to|reported (?:by|in)|'
+                   r'(?:source|page|snippet|archive|video|author|presenter|guide|documentation)'
+                   r'(?: [SHPOCNB]\d+)? reports?|search[- ]result|snippet[- ]only|'
                    r'not (?:independently )?(?:read|inspected|verified)|could not|'
-                   r'unverified|partial|refused|inaccessible|private video|HTTP 403)\b', re.I)
+                   r'unverified|refused|inaccessible|private video|HTTP 403)\b', re.I)
+# Partial facts need an access/scope disclosure, not generic attribution or a
+# noun such as "reports". This remains a wording check, not semantic validation.
+PARTIAL_LIMIT = re.compile(
+    r'\b(?:partially (?:read|inspected|viewed)|partial (?:read|inspection|access)|'
+    r'(?:only|just) (?:the )?(?:first|opening|available|inspected) (?:page|section|portion|excerpt)|'
+    r'(?:from|within|based on) (?:the )?(?:inspected|read|available) (?:page|pages|section|portion|excerpt)|'
+    r'(?:only|limited to) (?:a |an |the )?(?:excerpt|summary|transcript)|'
+    r'(?:read|inspected|viewed) (?:only|just) (?:a |an |the )?(?:page|section|portion|excerpt))\b', re.I)
 SOURCE_FIELDS = {'id', 'kind', 'urls', 'published', 'retrieved', 'access', 'rights',
                  'basis', 'entry_sha256', 'claims', 'review'}
 CLAIM_FIELDS = {'id', 'kind', 'anchor', 'sources', 'checked', 'stated_as', 'review'}
@@ -349,7 +359,7 @@ def validate(slug, source_text, recipe_text, ledger, exceptions, today):
                     for marker, context in marker_contexts(anchor, sid)),
                     f'{label}: unread source {sid} needs an attributed dagger observation')
             if source['access'] == 'partial':
-                require(all(HEDGE.search(context) for _, context in marker_contexts(anchor, sid)),
+                require(all(PARTIAL_LIMIT.search(context) for _, context in marker_contexts(anchor, sid)),
                         f'{label}: partial source needs a visible qualification')
             if checked:
                 require(source['retrieved'] and checked <= dt.date.fromisoformat(source['retrieved']),

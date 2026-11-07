@@ -157,6 +157,32 @@ class ProvenanceTests(unittest.TestCase):
         ledger['sources'][0]['access'] = 'partial'
         self.rejects(ledger, 'partial source', recipe=RECIPE)
 
+    def test_report_nouns_and_generic_attribution_do_not_disclose_partial_access(self):
+        for text, valid in [
+            ('The archive currently provides parish reports.', False),
+            ('According to the archive, it currently provides parish reports.', False),
+            ('The archive currently provides partial parish reports.', False),
+            ('The partially restored archive currently provides parish reports.', False),
+            ('From the inspected excerpt, the archive appears to provide parish reports.', True),
+            ('Only the first page was inspected; it describes parish reports.', True),
+        ]:
+            with self.subTest(text=text):
+                ledger = reviewed()
+                ledger['sources'][0]['access'] = 'partial'
+                anchor = text + ' [S1 @2026-11-07]'
+                ledger['claims'][0]['anchor'] = anchor
+                if valid:
+                    self.check(ledger, recipe='# Example\n\n' + anchor)
+                else:
+                    self.rejects(ledger, 'partial source', recipe='# Example\n\n' + anchor)
+
+    def test_report_noun_does_not_turn_an_unread_claim_into_attribution(self):
+        ledger = reviewed()
+        ledger['sources'][0]['access'] = 'snippet-only'
+        anchor = 'The archive currently provides parish reports. [S1† @2026-11-07]'
+        ledger['claims'][0].update(anchor=anchor, stated_as='observation')
+        self.rejects(ledger, 'unread source', recipe='# Example\n\n' + anchor)
+
     def test_one_hedged_sentence_does_not_qualify_another_sentence(self):
         ledger = reviewed()
         ledger['sources'][0]['access'] = 'snippet-only'
