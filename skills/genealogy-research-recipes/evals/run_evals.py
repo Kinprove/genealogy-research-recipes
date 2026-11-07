@@ -92,15 +92,19 @@ def invoke(prompt, skill, output, model, profile="claude", tools="recipes", sche
     return terminal.get("result", ""), events
 
 
-def read_path(block, skill):
+def read_path(block, skill, source_skill=None):
     arguments = block.get("input", {})
     path = Path(arguments.get("file_path", arguments.get("path", "")))
     if block["name"] == READ_TOOL and not path.is_absolute() and (not path.parts or path.parts[0] != "recipes"):
         path = Path("recipes") / path
-    return (Path(skill) / path).resolve() if not path.is_absolute() else path.resolve()
+    original = Path(source_skill or skill).resolve()
+    path = (original / path).resolve() if not path.is_absolute() else path.resolve()
+    if path.parent != original / "recipes" or path.suffix != ".md":
+        return None
+    return (Path(skill) / "recipes" / path.name).resolve()
 
 
-def successful_reads(events, skill):
+def successful_reads(events, skill, source_skill=None):
     """Track successful reads and line coverage; also understand older native Read traces."""
     pending, opened = {}, {}
     recipes = (Path(skill) / "recipes").resolve()
@@ -108,8 +112,8 @@ def successful_reads(events, skill):
         message = event.get("message", {})
         for block in message.get("content", []) if isinstance(message.get("content"), list) else []:
             if block.get("type") == "tool_use" and block.get("name") in {"Read", READ_TOOL}:
-                path = read_path(block, skill)
-                if path.parent == recipes and path.suffix == ".md" and path.is_file():
+                path = read_path(block, skill, source_skill)
+                if path is not None and path.parent == recipes and path.is_file():
                     pending[block["id"]] = path
             if block.get("type") == "tool_result":
                 identifier = block.get("tool_use_id")
@@ -132,15 +136,15 @@ def unexpected_tools(events, allowed):
                    and block["name"] not in allowed})
 
 
-def read_failures(events, skill=SKILL):
+def read_failures(events, skill=SKILL, source_skill=None):
     pending, failures = set(), []
     for event in events:
         content = event.get("message", {}).get("content", [])
         for block in content if isinstance(content, list) else []:
             if block.get("type") == "tool_use" and block.get("name") in {"Read", READ_TOOL}:
                 pending.add(block["id"])
-                path = read_path(block, skill)
-                if path.parent != (Path(skill) / "recipes").resolve() or path.suffix != ".md":
+                path = read_path(block, skill, source_skill)
+                if path is None:
                     failures.append("Out-of-scope read: " + block["id"])
             if block.get("type") == "tool_result" and block.get("tool_use_id") in pending:
                 pending.remove(block["tool_use_id"])
@@ -257,11 +261,13 @@ def sample(case, number, args, rules):
                                    tools="native" if reader == "native" else "recipes",
                                    skill_instructions=(args.skill / "SKILL.md").read_text(encoding="utf-8"))
         write_json(directory / "assistant-events.json", trace)
-        reads = successful_reads(trace, args.skill)
+        source_skill = getattr(args, "replay_skill", None)
+        reads = successful_reads(trace, args.skill, source_skill)
         result["reads"] = reads
         result["answer"] = answer
         result["deterministic_failures"] = deterministic(case, answer, reads, judgment_recipes(args.skill), args.skill)
-        result["read_failures"] = read_failures(trace, args.skill)
+        result["trace_skill"] = str(source_skill or args.skill)
+        result["read_failures"] = read_failures(trace, args.skill, source_skill)
         result["deterministic_failures"].extend(result["read_failures"])
         other_tools = unexpected_tools(trace, {"Read", READ_TOOL})
         if other_tools:
@@ -348,6 +354,8 @@ def main():
         previous_cases = {case["id"]: case for case in previous["cases"]}
         if previous["skill_sha256"] != digest.hexdigest() or any(previous_cases.get(case["id"]) != case for case in cases):
             parser.exit(1, "Replay skill bytes or case contracts differ; keep the original run and make a new sample run.\n")
+        args.replay_skill = Path(previous["skill"])
+        rules = previous["guardrails"]
     materials = {name: (HERE / "fixtures" / name).read_text(encoding="utf-8")
                  for case in cases for name in case["materials"]}
     if args.replay:
@@ -363,12 +371,13 @@ def main():
         "profile": args.profile,
         "reader": args.reader,
         "replay_source": str(args.replay) if args.replay else None,
+        "replay_original_skill": str(args.replay_skill) if args.replay else None,
         "materials": materials,
         "replay_materials_verified": ("materials" in previous) if args.replay else None,
         "harness_sha256": hashlib.sha256(Path(__file__).read_bytes() + (HERE / "checks.py").read_bytes() + (HERE / "read_server.py").read_bytes()).hexdigest(),
         "baseline": args.baseline, "static": static, "cases": cases,
         "guardrails": rules, "samples_per_case": 3,
-        "guardrail_contract_skill": str(SKILL),
+        "guardrail_contract_skill": previous.get("guardrail_contract_skill", str(SKILL)) if args.replay else str(SKILL),
     })
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:
         futures = [pool.submit(sample, case, index, args, rules) for case in cases for index in range(1, 4)]

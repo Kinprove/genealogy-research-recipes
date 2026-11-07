@@ -166,6 +166,21 @@ class BehaviouralHarnessTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "no frozen fixtures"):
             verify_replay_materials({}, {})
 
+    def test_replay_of_ci_paths_uses_verified_local_copy_without_rewriting_raw_trace(self):
+        old_skill = Path("/ci/original/skills/genealogy-research-recipes")
+        original_path = old_skill / "recipes/ai-for-dna-research.md"
+        content = read_recipe(SKILL / "recipes", original_path.name)
+        trace = self.trace(original_path, content)
+        reads = successful_reads(trace, SKILL, old_skill)
+        self.assertTrue(reads[original_path.stem]["complete"])
+        self.assertEqual(read_failures(trace, SKILL, old_skill), [])
+        self.assertEqual(trace[0]["message"]["content"][0]["input"]["file_path"], str(original_path))
+        # A path outside the recorded root cannot become valid merely because it
+        # happens to point inside the new checkout.
+        outside_original = self.trace(SKILL / "recipes/ai-for-dna-research.md")
+        self.assertEqual(successful_reads(outside_original, SKILL, old_skill), {})
+        self.assertTrue(any("Out-of-scope" in failure for failure in read_failures(outside_original, SKILL, old_skill)))
+
     def test_successful_chunks_accumulate_and_tasks_require_every_line(self):
         path = SKILL / "recipes/family-interviews-and-oral-tradition.md"
         count = len(path.read_text(encoding="utf-8").splitlines())
