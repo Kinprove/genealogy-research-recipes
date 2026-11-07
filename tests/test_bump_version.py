@@ -24,7 +24,8 @@ class ReleaseCommandTests(unittest.TestCase):
         self.directory = tempfile.TemporaryDirectory()
         self.addCleanup(self.directory.cleanup)
         self.root = Path(self.directory.name)
-        for name in (*FILES, "scripts/bump_version.py", ".gitignore"):
+        for name in (*FILES, "scripts/bump_version.py", ".gitignore",
+                     ".claude-plugin/marketplace.json", "index.js", "__init__.py"):
             target = self.root / name
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(ROOT / name, target)
