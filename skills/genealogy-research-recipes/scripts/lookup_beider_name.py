@@ -18,6 +18,10 @@ DASHES = str.maketrans({char: "-" for char in "‐‑‒–—−"})
 CONSONANTS = str.maketrans("БВГДЖЗ", "ПФКТШС")
 MATCH_ORDER = {"exact": 0, "separator_normalized": 1, "fuzzy": 2}
 RIGHTS_FIELDS = ("license", "permission", "basis")
+# Control (Cc) and format (Cf) characters: a zero-width space or soft hyphen makes a
+# name look identical to a clean one while never matching it.
+INVISIBLE_CATEGORIES = {"Cc", "Cf"}
+MAX_COMPONENTS_PER_INPUT = 6
 
 
 class SourceUnavailable(Exception):
@@ -96,8 +100,11 @@ def validate_entries(entries: list, entry_count: int) -> list[tuple[str, str]]:
             raise ValueError("index entry must be a name/key pair")
         if any(not isinstance(value, str) or not value.strip() for value in entry):
             raise ValueError("index entry values must be nonempty strings")
-        if any(any(unicodedata.category(char) == "Cc" for char in value) for value in entry):
-            raise ValueError("index entry contains control characters")
+        if any(
+            any(unicodedata.category(char) in INVISIBLE_CATEGORIES for char in value)
+            for value in entry
+        ):
+            raise ValueError("index entry contains control or format characters")
         row = tuple(normalize_name(value) for value in entry)
         if not re.fullmatch(r"[A-Z][A-Z' -]*", row[1]):
             raise ValueError("invalid dictionary article key")
@@ -108,7 +115,7 @@ def validate_entries(entries: list, entry_count: int) -> list[tuple[str, str]]:
     return rows
 
 
-def validate_index(record: dict) -> dict:
+def validate_index(record: dict, snapshot_date: date) -> dict:
     """Validate local entries and keep source metadata for attribution only."""
     if not isinstance(record["title"], str) or not record["title"].strip():
         raise ValueError("invalid index title")
@@ -116,6 +123,13 @@ def validate_index(record: dict) -> dict:
         raise ValueError("invalid post id")
     if not isinstance(record["url"], str) or not record["url"].startswith("https://"):
         raise ValueError("invalid source url")
+    if not isinstance(record["archive_url"], str) or not record["archive_url"].startswith("https://"):
+        raise ValueError("invalid archive url")
+    capture_date = record["source_capture_date"]
+    if not isinstance(capture_date, str) or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", capture_date):
+        raise ValueError("invalid source capture date")
+    if date.fromisoformat(capture_date) > snapshot_date:
+        raise ValueError("source capture date is after the snapshot date")
     digest = record["content_sha256"]
     if not isinstance(digest, str) or not re.fullmatch(r"[0-9a-f]{64}", digest):
         raise ValueError("invalid source content hash")
@@ -142,12 +156,12 @@ def load_manifest(path: Path | None = None) -> dict:
             r"\d{4}-\d{2}-\d{2}", snapshot_date
         ):
             raise ValueError("invalid snapshot date")
-        date.fromisoformat(snapshot_date)
+        snapshot = date.fromisoformat(snapshot_date)
         validate_rights(manifest["rights"])
         indexes = manifest["indexes"]
         if not isinstance(indexes, dict) or set(indexes) != {"male", "female"}:
             raise ValueError("both indexes are required")
-        return {sex: validate_index(indexes[sex]) for sex in ("male", "female")}
+        return {sex: validate_index(indexes[sex], snapshot) for sex in ("male", "female")}
     except (OSError, ValueError, KeyError, TypeError, AttributeError) as error:
         raise SourceUnavailable("manifest_invalid") from error
 
@@ -254,6 +268,7 @@ def component_queries(names: list[str]) -> list[dict]:
     queries = []
     for query in dict.fromkeys(names):
         parts = [part for part in re.split(r"[-\s]+", query.translate(DASHES).strip()) if part]
+        parts = parts[:MAX_COMPONENTS_PER_INPUT]
         if len(parts) > 1:
             seen = set()
             for position, part in enumerate(parts, 1):
@@ -280,6 +295,7 @@ def run_query(
             "max_edits_by_length": {"1-2": 0, "3-4": 1, "5+": 2},
             "phonetics": "Cyrillic consonant signature, ranking ties only",
             "limit_unit": "article groups across selected sexes and inputs, per bucket",
+            "max_components_per_input": MAX_COMPONENTS_PER_INPUT,
         }
         result.update(search_candidates(indexes, sex=sex, names=names, limit=limit))
         if result["results"]:
