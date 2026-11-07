@@ -36,7 +36,7 @@ For general dated-gazetteer checks and counting namesakes, use [evidence/proof j
 ## 2. Resolve the candidate in a period gazetteer, then confirm it with context
 
 - **Choose the gazetteer that matches the area:**
-  - Meyers Orts- und Verkehrs-Lexikon (1912–13) for the German Empire at its pre-World War I extent, including areas now in Poland, France, Denmark and Lithuania [S3], [S12], [S13];
+  - Meyers Orts- und Verkehrs-Lexikon (1912) for the German Empire at its pre-World War I extent, including areas now in Poland, France, Denmark and Lithuania [S3], [S12], [S13];
   - GenTeam for Austrian, Czech, Slovak and Slovenian areas. It needs a free login and gives former and current names, the parish and archive information. [S3], [S6]
   - Kartenmeister for places east of the Oder–Neisse, including East and West Prussia. It gives the modern name and the nearest parish. [S8], [S10]
   - the 1905 Prussian municipality gazetteer (Gemeindelexikon) on Ancestry, which gives Protestant and Catholic parishes and the civil registry office. The presenter says its index gives a volume, page and line, and he warns that the Ancestry set is far from complete. [S8]
@@ -56,7 +56,7 @@ For general dated-gazetteer checks and counting namesakes, use [evidence/proof j
 
 ## 4. Read the office line; record each jurisdiction separately
 
-Most towns had no parish of their own. One presenter estimates that the birth town and the baptism church match in only about one case in ten. [S6] Before you search anything, build a jurisdiction row from the gazetteer entry.
+Many smaller places had no parish of their own. One presenter estimates that the birth town and the baptism church match in only about one case in ten. [S6] Before you search anything, build a jurisdiction row from the gazetteer entry.
 
 - **Read the office abbreviations in the Meyers entry:**
   - evPfk: Protestant parish church;
@@ -67,7 +67,17 @@ Most towns had no parish of their own. One presenter estimates that the birth to
 - **Use the punctuation to tell who held each office.** The presenter's rule: an office followed by a comma or semicolon was held in the town itself. [S7] Build the jurisdiction row on it; before you conclude from it that a town lacked an office, confirm the rule in the gazetteer's own introduction.
 - **Do not read an absent church as a gap in the data.** The presenter says a church appears in the entry only if the town had one. [S7] For the civil, court and military offices, the gazetteer names the town that held them when the place did not. [S7]
 - **Record each office independently.** Worked example: Meyers showed that Hülshagen had its own civil registry office but no church. The parish to search was nearby Lauenhagen. [S5]
-- **Fix the Standesamt for the event year, and log what survives.** The Prussian law standardizing civil registration took effect on 1 October 1874. Parts of the Rhineland already kept civil registers (in the Düsseldorf area from 1798 left of the Rhine and from 1810 right of it), so check earlier local civil-register series separately.
+- **Fix the Standesamt for the event year, and log what survives.**
+  - Civil registration did not start everywhere at once. Check which rule covered the place in the event year:
+    - left bank of the Rhine, including the Pfalz and Rheinhessen: French-style civil registers from 1798 (in some places 1796), kept until 1875 [S56], [S57], [S58];
+    - right bank of the Rhine in the Rhineland: from 1810 to 1875 [S56]. Westphalia went back to church-book duplicates in 1813/14 [S56], so do not extend this date to the Westphalian parts of the former Grand Duchy of Berg;
+    - Bremen and Lübeck: from 20 August 1811 to the end of 1875 (in Lübeck, after 1813 only the city) [S59], [S60];
+    - Hamburg: civil registers under French rule (the archive holds volumes of 1814), then its own civil registers from 1866 [S61], [S62];
+    - Frankfurt am Main: marriages from 1849, births and deaths from 1851 [S63];
+    - Baden: church-kept civil-status books from 1810, mayors as registrars from 1 February 1870 (section 6) [S48];
+    - Prussia: from 1 October 1874 [S64];
+    - the rest of the German Empire, Württemberg included: from 1 January 1876. [S64]
+  - Before the date for your place, search the church registers and any state copies (section 7).
   - Use the Standesamt district that covered the place in the event year, not the later Kreis or the nearest town. [S26]
   - Before you search an office, note which year ranges of its registers survive and where they are kept. Record a missing range as a coverage gap, not as evidence that the event did not happen. A civil death entry may cite the marriage office and its register number. [S27]
   - For offices in the former eastern territories, Standesamt I in Berlin acts as the replacement registry office, and registers past their closure periods are generally at the Landesarchiv Berlin. [S28] One participant reports that a former Upper Silesian office's marriage registers are there and indexed on Ancestry. [S26]
@@ -99,10 +109,14 @@ Most towns had no parish of their own. One presenter estimates that the birth to
 - **Find the civil-register custodian through archive descriptions.** The Auprès de nos Racines article suggests searching the locality together with `Personenstandsbücher` in Archivportal-D and Deutsche Digitale Bibliothek. Treat this as a finding-aid search tactic; the article's Munich result and current search controls were not reproduced. [S40]
   - Open the description and record its level (fonds, series or item), named archive, archival reference and link to the partner's catalogue. Archivportal-D searches partner-supplied archival descriptions as well as selected digitized material; an opened DDB civil-registration-related fonds description names its archive and partner-object links. [S41], [S42]
   - Follow the partner reference to establish the register type, years and next retrieval step. A fonds description is a lead to the books, not an inspected entry or a promise of images. Keep image access unverified until the relevant book or entry is actually opened.
-- **Check the online portals:** Archion for Protestant registers and Matricula for mainly Catholic ones. [S6] One parish's registers were available on Archion even though FamilySearch had not filmed them. [S7]
+- **Check the online portals by the archive that holds the parish, not by confession alone.** [S6] One parish's registers were available on Archion even though FamilySearch had not filmed them. [S7]
+  - Archion needs a paid, time-limited pass to open images. Its archives are mostly Protestant Landeskirchen and state archives, and include the Catholic dioceses of Hildesheim, Speyer and Trier. [S67], [S68]
+  - Matricula lists 19 German Catholic dioceses and the Landesarchiv Baden-Württemberg's state copies for Baden, Württemberg and Hohenzollern. The dioceses of Berlin, Erfurt, Freiburg, Görlitz, Hamburg, Köln, Speyer and Trier are not listed. [S69], [S70]
+  - A listed archive may still lack the parish or years. Open the parish page and note the years shown.
+  - Also search Ancestry and FamilySearch. Ancestry has Protestant sets for Baden, Württemberg and Hesse, and the Württemberg family tables; check whether a set shows images or only an index. [S66], [S71] FamilySearch has the Brandenburg and Posen church-book duplicates with images. [S72]
 - **Hesse: open the civil-register second copies in Arcinsys Hessen.** The digitised Personenstandsnebenregister (the registry offices' second copies, now archive holdings) sit under Staatsarchiv Marburg > H Personenstandsarchiv Hessen, holdings HStAM 900–926. [S44]
   - A thumbnail beside the archival reference marks a digitised volume. Open it with 'Digitalisate öffnen' or in the DFG-Viewer. LAGIS lists the online volumes by registry office. [S44]
-  - In most cases volumes are online up to births of 1900, marriages of 1930 and deaths of 1965; the death cut-off follows a 60-year rule (§ 9(2) sentence 3 HArchivG). So wartime deaths (1939–45) normally fall inside the online range and births after 1900 normally do not; confirm coverage for the specific volume. [S44]
+  - In January 2026 volumes were online up to births of 1900, marriages of 1930 and deaths of 1965; the death cut-off follows a 60-year rule (§ 9(2) sentence 3 HArchivG). [S44], [S64] Deaths up to 1980 were available on application, with a user form, to the Hessisches Staatsarchiv Marburg. [S64] So wartime deaths (1939–45) normally fall inside the online range and births after 1900 normally do not; confirm coverage for the specific volume. Check the archive's current cut-off before you plan a request.
   - A missing thumbnail means the volume is not yet digitised or not yet cleared for publication, not that it is lost. [S44]
   - Check other Länder on their own official sites.
 - **North Rhine-Westphalia: check the Landesarchiv NRW's second registers before writing to a Standesamt or municipal archive.** Marriages 1874/1876–1899 and deaths 1874/1876–1938 are digitised; coverage is partial and growing, and birth registers are not on the list. Start from the Landesarchiv's [Digital family research](https://www.archive.nrw.de/en/landesarchiv-nrw/geschichte-erfahren/familienforschung/digital-family-research) page. Westphalia-Lippe registers open through the archive.nrw.de search; Rhineland volumes (PA 3102 marriages, PA 3103 deaths) open through the department's online pages. [S50], [S51]
@@ -111,7 +125,8 @@ Most towns had no parish of their own. One presenter estimates that the birth to
 - **Baden 1810–1870: open the Standesbücher.** From 1 January 1810 the clergy, and the rabbis for Jewish communities, kept their registers as civil-status books and sent a second copy (Standesbuch) to the district office after each year's end. Mayors became civil registrars only from 1 February 1870. [S48]
   - The second copies are at the Generallandesarchiv Karlsruhe (390) for northern Baden and at the Staatsarchiv Freiburg (L 10) for southern Baden, both fully digitised by the Landesarchiv Baden-Württemberg. [S48], [S49]
   - For a Baden event of 1810–1870, check this copy as well as the parish original. Classify it as a church-kept duplicate (section 7), not a Standesamt record.
-- **Recheck the portals before you mark a register access-pending.** In February 2026 the presenter said the Schaumburg-Lippe registers were not online, so a researcher with access made extracts for the Hülshagen case. [S5] Archion now hosts the registers of the former Ev.-luth. Landeskirche Schaumburg-Lippe (Niedersächsisches Landesarchiv, Abt. Bückeburg), and its list includes Lauenhagen with Hülshagen ([Archion collection page](https://www.archion.de/de/alle-archive/niedersachsen/niedersaechsisches-landesarchiv/kirchenbuecher-der-evangelisch-lutherischen-landeskirche-schaumburg-lippe/)). For this case, go to the Archion images and check the extracts against them. The extracts remain derivatives. Use "access-pending" only after you have checked Archion, Matricula and the FamilySearch catalogue and found no images.
+- **Württemberg from 1808: check the parish Familienregister.** From 1 January 1808 the Protestant and Catholic parishes of Württemberg kept a Familienregister (family register) on printed forms, one sheet per couple with the couple's parents and children. [S65] Ancestry has a set called "Württemberg, Germany, Family Tables, 1550-1985". [S66] Treat a Familienregister line as a parish-kept compilation (section 7) and check it against the baptism, marriage and burial books.
+- **Recheck the portals before you mark a register access-pending.** In February 2026 the presenter said the Schaumburg-Lippe registers were not online, so a researcher with access made extracts for the Hülshagen case. [S5] Archion now hosts the registers of the former Ev.-luth. Landeskirche Schaumburg-Lippe (Niedersächsisches Landesarchiv, Abt. Bückeburg), and its list includes Lauenhagen with Hülshagen ([Archion collection page](https://www.archion.de/de/alle-archive/niedersachsen/niedersaechsisches-landesarchiv/kirchenbuecher-der-evangelisch-lutherischen-landeskirche-schaumburg-lippe/)). For this case, go to the Archion images and check the extracts against them. The extracts remain derivatives. Use "access-pending" only after you have checked Archion, Matricula, Ancestry and the FamilySearch catalogue and found no images.
 - **A no-hit in an online civil index is not absence.**
   - One forum contributor counted 525 of 1,712 death entries for Standesamt Stralau (1874–1885) that Ancestry had not indexed. Many were hospital or asylum deaths written as side text on the entry. Browse the images for the year.
   - If an online register stops partway through a year (for example, at entry 882 when you need 910), record the last number present and check whether the volume survives. A participant called the Berlin III volume concerned a war loss. Flag the range 'volume lost/unavailable', not 'searched, not found'. [S29]
@@ -126,6 +141,7 @@ Most towns had no parish of their own. One presenter estimates that the birth to
   - parish original;
   - church-book duplicate (Kirchenbuchduplikat);
   - later recopy;
+  - parish family register (Württemberg Familienregister);
   - transcript, abstract or extract;
   - periodical extract;
   - compiled Familienbuch, Ortsfamilienbuch or Ortssippenbuch.
