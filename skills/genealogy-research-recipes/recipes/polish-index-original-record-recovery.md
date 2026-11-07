@@ -92,7 +92,7 @@ the parish or synagogue district where supported. The official examples distingu
 Catholic parish from an **Okręg Bożniczy**, a synagogue district. Select the series that fits
 the lead; do not substitute a modern municipal name for the record creator. [O1]
 
-Treat PRADZIAD as a finding aid. It is searched inside Szukaj w Archiwach: choose **PRADZIAD**
+Treat PRADZIAD as a finding aid. Search it inside Szukaj w Archiwach: choose **PRADZIAD**
 in the document-type list, or use **Search vital records**, whose rows carry PRADZIAD description
 fields. Its descriptions can identify locality, confession, years, record type and archive;
 **PRADZIAD does not contain scans**. To investigate scans, follow
@@ -187,8 +187,8 @@ book, it gives access under the archives act (art. 130(3)–(4)). [O17]
 because a person entered in it has no recorded death, so it may name living people; answer the
 privacy gate in `SKILL.md` before sending it.
 
-Ask the USC that holds the book for access to the named book and entry before you call it lost, and
-record whether it granted access or refused. [O17]
+Ask the USC that holds the book for access to the named book and entry, and record whether it
+granted access or refused. [O17]
 
 For a Congress Poland (Kingdom of Poland) civil-registration register, expect Polish entries until the end of 1867.
 A regulation required Russian from 1 January 1868, so expect Russian from 1868 and confirm it

@@ -146,9 +146,9 @@ Run a short, logged ladder:
    make a second independent record. If a ship/date is known, browse its arrival list and relevant
    passenger sections rather than repeating the same failed name query. [S2, S4]
 5. If the arrival record or a family account names Hamburg as the port of departure, search the
-   Hamburg emigrant lists: 1850–1934 with a gap for 1915–1919, separate direct and indirect
-   lists for 1854–1910, and the last place of residence on most lists, which can name the town
-   that a manifest gives only as "Russia". Ancestry indexes them, partly. [H14, H15] For other
+   Hamburg emigrant lists. They cover 1850–1934 with a gap for 1915–1919, and have separate
+   direct and indirect lists for 1854–1910. Most give the last place of residence, which can name
+   the town that a manifest gives only as "Russia". Ancestry has a partial index. [H14, H15] For other
    ports and for pairing a departure list with its arrival, use
    [U.S. immigration search recovery, workflow 5](usa-immigration-search-recovery.md#5-recover-an-arrival-through-the-departure-list).
 

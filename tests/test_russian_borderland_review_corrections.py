@@ -43,7 +43,7 @@ class PolishCustodyTests(unittest.TestCase):
 
     def test_pradziad_is_searched_inside_szukaj_without_a_closure_year(self):
         passage = between(self.TEXT, "Treat PRADZIAD as a finding aid.", "**List of files**")
-        self.assertIn("It is searched inside Szukaj w Archiwach", passage)
+        self.assertIn("Search it inside Szukaj w Archiwach", passage)
         # A window, not a sentence: dots inside domain names would end a sentence pattern early.
         self.assertIsNone(re.search(r"PRADZIAD.{0,200}\b2019\b|\b2019\b.{0,200}PRADZIAD", self.TEXT))
 
@@ -66,9 +66,8 @@ class GaliciaHoldersTests(unittest.TestCase):
         ):
             self.assertIn(phrase, step)
         # No source showed parish books at the Lviv oblast archive; its books went to TsDIAL.
-        self.assertNotIn("ДАЛО", step)
-        self.assertNotIn("DALO", step)
-        self.assertNotIn("parish originals", step)
+        for unsupported in ("ДАЛО", "DALO", "parish originals"):
+            self.assertNotIn(unsupported, step)
 
     def test_cadastre_fonds_are_both_named(self):
         self.assertIn("Josephine (TsDIAL fond 19) and Franciscan (TsDIAL fond 20)", self.TEXT)
@@ -79,12 +78,15 @@ class GaliciaHoldersTests(unittest.TestCase):
         self.assertIn("supervised the Jewish books, which the communities kept from 1789", step)
         self.assertIn("no formal regulations or consistency until 1877", step)
         self.assertIsNone(
-            re.search(r"(search|look)[^.]*(Roman Catholic|RC|Catholic) (parish )?register", step, re.IGNORECASE)
+            re.search(r"(search|look)[^.]*(RC|Catholic) (parish )?register", step, re.IGNORECASE)
         )
 
     def test_khotin_villages_are_sent_to_the_bessarabia_recipe(self):
-        self.assertIn("that was in Khotin uezd of Bessarabia before 1918", self.TEXT)
-        self.assertIn("(bessarabia-moldova-record-routing.md)", self.TEXT)
+        self.assertIn(
+            "that was in Khotin uezd of Bessarabia before 1918, use"
+            " [Route a Bessarabian or Moldovan record](bessarabia-moldova-record-routing.md)",
+            self.TEXT,
+        )
 
 
 class SovietRepressionTests(unittest.TestCase):
