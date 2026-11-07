@@ -27,11 +27,13 @@ def source_entries(text):
     """Read numbered entries before Credits; a bare credit never defines a source."""
     body = text.split("## Credits", 1)[0]
     entries = {}
-    for match in SOURCE.finditer(body):
+    matches = list(SOURCE.finditer(body))
+    for index, match in enumerate(matches):
         source_id = match[1]
         if source_id in entries:
             raise AssertionError(f"duplicate numbered source {source_id}")
-        entries[source_id] = body[match.start():].split("\n\n", 1)[0]
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(body)
+        entries[source_id] = body[match.start():end].split("\n\n", 1)[0]
     return entries
 
 
@@ -80,6 +82,18 @@ class BindingParserTests(unittest.TestCase):
     def test_a_publication_date_alone_is_not_an_inspection_date(self):
         with self.assertRaisesRegex(AssertionError, "inspection date"):
             check_binding(self.recipe, self.source.replace("checked", "published"), self.claim, ["S2"])
+
+    def test_an_adjacent_source_cannot_supply_a_missing_inspection_date(self):
+        adjacent = self.source.replace("S2", "S3")
+        sources = self.source.replace("checked", "published") + adjacent
+        with self.assertRaisesRegex(AssertionError, "inspection date"):
+            check_binding(self.recipe, sources, self.claim, ["S2"])
+
+    def test_an_adjacent_source_cannot_supply_a_missing_url(self):
+        adjacent = self.source.replace("S2", "S3")
+        sources = self.source.replace("https://archive.example/visit", "Visit") + adjacent
+        with self.assertRaisesRegex(AssertionError, "needs a URL"):
+            check_binding(self.recipe, sources, self.claim, ["S2"])
 
     def test_a_date_without_a_source_url_does_not_bind(self):
         with self.assertRaisesRegex(AssertionError, "needs a URL"):
