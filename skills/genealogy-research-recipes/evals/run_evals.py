@@ -207,8 +207,10 @@ def judge_prompt(case, answer, rules, materials=None):
         "For a conditional question, apply the obligation only when its condition occurs. "
         "All parts of a conjunctive question must pass; an omission makes its verdict false. "
         "Do not call tools except StructuredOutput to return your verdict. "
-        "Also decide whether the answer asks one relevant scoping question before substantive advice "
-        "when the expected clarify flag is true. Return ONLY JSON with keys: "
+        "When the expected clarify flag is true, decide whether the ENTIRE response stops at one "
+        "relevant focused scoping question and a brief rationale, waiting for the user's answer. "
+        "A source list, assumed population/place, or research workflow after the question makes "
+        "clarify false, just as substantive advice before it does. Return ONLY JSON with keys: "
         "clarify (boolean), items (array of {guardrail, pass (boolean), reason (string)}).\n" +
         json.dumps({"prompt": case["prompt"], "expect_clarify": case["expect"]["clarify"],
                     "materials": materials if materials is not None else fixture_materials(case),
@@ -237,7 +239,7 @@ def sample(case, number, args, rules):
         materials = fixture_materials(case, getattr(args, "materials", None))
         reader = getattr(args, "reader", "mcp")
         read_instruction = (
-            "Use the native Read tool with offset 1 and explicit limit 1000 in one call for each "
+            "Use the native Read tool with offset 1, explicit limit 1000 and allow_large true in one call for each "
             "recipe you choose to open, including judgment recipes. This fallback has no section "
             "parameter; reading complete files matches the read_file server's default. "
             if reader == "native" else
