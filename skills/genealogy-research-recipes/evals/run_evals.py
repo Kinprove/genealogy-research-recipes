@@ -237,8 +237,9 @@ def sample(case, number, args, rules):
         materials = fixture_materials(case, getattr(args, "materials", None))
         reader = getattr(args, "reader", "mcp")
         read_instruction = (
-            "Use the native Read tool. For a complete task recipe use offset 1 and explicit limit 1000 "
-            "in one call. For judgment rules, use the relevant bounded section. "
+            "Use the native Read tool with offset 1 and explicit limit 1000 in one call for each "
+            "recipe you choose to open, including judgment recipes. This fallback has no section "
+            "parameter; reading complete files matches the read_file server's default. "
             if reader == "native" else
             "Use read_file, which returns complete files; its optional section parameter is for judgment rules. "
         )

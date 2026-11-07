@@ -58,6 +58,8 @@ today's date. Do not check for a newer version over the network yourself.
    broad recipe fits. While waiting, give the one question and a brief reason for it;
    save the source list and research workflow for the reply. "Came from Russia" alone
    does not establish a modern country, community or destination record system.
+   For a general question about proof or research method, give a conditional method
+   plan and ask for the context needed to choose actual record collections.
 2. **Read the selected task recipe in full before advising** — the value is in the
    specifics, not the summary. If a tool returns only part of the file, continue through
    its remaining sections to the end. For a judgment recipe, read its rules and the

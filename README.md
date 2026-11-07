@@ -84,7 +84,8 @@ use only the scoped evaluation MCP server, with built-in and other connected too
 the profile itself is not reconfigured. The server rejects paths and symlinks outside `recipes/`.
 The judge uses schema-validated structured output and sees the same fixtures.
 For profiles that shorten large MCP outputs, `--reader native` uses native `Read` with
-an explicit bounded line limit and denies MCP tools instead. The same line-coverage and
+an explicit bounded line limit to read each selected file completely, matching the server's
+complete-file default, and denies MCP tools instead. The same line-coverage and
 case requirements apply; a shortened response cannot pass as a complete recipe read.
 
 Before merging content changes, run the ten guardrail cases against an unchanged snapshot
