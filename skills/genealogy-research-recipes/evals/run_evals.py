@@ -40,9 +40,11 @@ JUDGE_SCHEMA = {
 def invoke(prompt, skill, output, model, profile="claude", tools="recipes", schema=None, skill_instructions=None):
     servers = {"mcpServers": {"recipe_evals": {"command": sys.executable,
                "args": [str(HERE / "read_server.py"), str(skill / "recipes")]}}} if tools == "recipes" else {"mcpServers": {}}
-    args = ["-p", "--verbose", "--output-format", "stream-json", "--model", model,
+    args = ["-p", "--verbose", "--output-format", "stream-json",
             "--tools", "Read" if tools == "native" else "", "--max-turns", "12",
             "--no-session-persistence"]
+    if model:
+        args += ["--model", model]
     if tools == "native":
         args += ["--disallowedTools", "mcp__*", "--allowedTools", f"Read({skill}/recipes/**)"]
     else:
@@ -307,8 +309,8 @@ def main():
     parser.add_argument("--skill", type=Path, default=SKILL, help="Installed skill or baseline snapshot")
     parser.add_argument("--case", action="append", help="Case ID; repeat to select several")
     parser.add_argument("--output", type=Path, default=Path("eval-results"))
-    parser.add_argument("--model", default=os.environ.get("EVAL_MODEL", "sonnet"))
-    parser.add_argument("--judge-model", default=os.environ.get("EVAL_JUDGE_MODEL", "sonnet"))
+    parser.add_argument("--model", default=os.environ.get("EVAL_MODEL") or None)
+    parser.add_argument("--judge-model", default=os.environ.get("EVAL_JUDGE_MODEL") or None)
     parser.add_argument("--profile", choices=["claude", "claude2", "claude3"], default="claude")
     parser.add_argument("--reader", choices=["mcp", "native"], default="mcp", help="Native fallback for profiles that compress MCP output")
     parser.add_argument("--workers", type=int, choices=range(1, 5), default=2)

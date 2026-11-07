@@ -56,8 +56,8 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PYTHONDONTWRITEBYTECODE: '1'
-          EVAL_MODEL: ${{ vars.EVAL_MODEL || 'sonnet' }}
-          EVAL_JUDGE_MODEL: ${{ vars.EVAL_JUDGE_MODEL || 'sonnet' }}
+          EVAL_MODEL: ${{ vars.EVAL_MODEL }}
+          EVAL_JUDGE_MODEL: ${{ vars.EVAL_JUDGE_MODEL }}
         run: python3 -B skills/genealogy-research-recipes/evals/run_evals.py --output eval-results
       - name: Keep answers, tool traces, judge decisions and run identity
         if: always()

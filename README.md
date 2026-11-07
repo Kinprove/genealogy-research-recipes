@@ -71,8 +71,9 @@ and are excluded from the installed npm package.
 [The model workflow](.github/workflows/behavioural-evals.yml) runs nightly, manually, and on
 same-repository PRs with the `behavioural-evals` label. Fork PRs skip it; without the
 `ANTHROPIC_API_KEY` repository secret it reports a credential skip, not a model pass. The
-optional `EVAL_MODEL` and `EVAL_JUDGE_MODEL` repository variables select the models; default
-is `sonnet`, with the actual resolved model recorded in each CLI transcript. Full assistant
+optional `EVAL_MODEL` and `EVAL_JUDGE_MODEL` repository variables select the models; otherwise
+the CLI uses its normal configured model. Pin these variables for comparisons across model
+updates; each CLI transcript records the actual resolved model. Full assistant
 and judge transcripts, answers, case contracts and the skill hash are retained as artifacts
 for 30 days. Locally, an authenticated CLI works without an API key; `--profile claude3`
 uses that profile's normal shell alias, settings and loaded plugins. Evaluation invocations
