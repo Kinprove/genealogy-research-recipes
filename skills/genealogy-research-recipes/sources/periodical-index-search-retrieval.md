@@ -20,6 +20,8 @@
 - **S18:** Allen County Public Library Genealogy Center, [PERSI](https://www.genealogycenter.info/persi), read 2026-11-07 in the Internet Archive capture of 2026-09-03 (the live site refused automated access). Used for: PERSI compiled by ACPL staff, and more than 3.2 million citations in ACPL's free search.
 - **S19:** Findmypast, [Periodical Source Index](https://www.findmypast.com/discover/newspapers-directories-and-social-history/directories-and-almanacs/periodical-source-index), read 2026-11-07 in the Internet Archive capture of 2025-09-09. Used for: Findmypast's copy of PERSI, about 3.1 million entries, with article images for some entries.
 
+- **S20:** Allen County Public Library, [Ask A Librarian](https://www.acpl.lib.in.us/about/ask-a-librarian), checked 2026-11-07. Used for: <genealogy@acpl.info> as the Genealogy Center's direct contact. This page does not set PERSI article-copy prices, order-form requirements or turnaround; S2 supplies the presenter's email-for-quote workflow.
+
 The depth-first query log, the bounded no-hit wording and the retrieval register are authored synthesis. The presenters supply the indexing descriptions, search tactics and retrieval routes.
 
 Not verified:

@@ -115,7 +115,7 @@ Limits: the gazette notices were chance finds, not a complete run, and a notice 
 
 ## 5. Check U.S. church-extract series against their congregation list first
 
-The German Immigrants in American Church Records series is ongoing. The presenter said there were 40 volumes in April 2024. The publisher now lists through Volume 48 (August 2026). Volumes are grouped by U.S. state, but not strictly one per state: some cover a single city, several states, or "Revisited" parts. Each volume has an every-name index in the back. [S4]
+The German Immigrants in American Church Records series is ongoing. The presenter said there were 40 volumes in April 2024. The author's volume page, checked 2026-11-07, says Pennsylvania volumes 47–49 have been produced; consult that page and its congregation lists for the current scope. [S16] Volumes are grouped by U.S. state, but not strictly one per state: some cover a single city, several states, or "Revisited" parts. Each volume has an every-name index in the back. [S4]
 
 Steps [S4]:
 
