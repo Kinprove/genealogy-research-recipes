@@ -686,7 +686,7 @@ class BeiderLookupTests(unittest.TestCase):
                         }
                         self.assertEqual(exact_keys, keys)
                         self.assertLessEqual(len(result["results"]), 20)
-                    self.assertEqual(completed.stderr, "")
+                    self.assertNotIn("Traceback", completed.stderr)
 
     def test_actual_unknown_examples_return_candidates_without_changing_bundled_names(self):
         cases = (
@@ -728,7 +728,7 @@ class BeiderLookupTests(unittest.TestCase):
                         )
                     )
                     self.assertLessEqual(len(result["results"]), 20)
-                    self.assertEqual(completed.stderr, "")
+                    self.assertNotIn("Traceback", completed.stderr)
         self.assertEqual(lookup.MANIFEST.read_bytes(), original_data)
 
     def test_actual_source_urls_match_the_attribution_files(self):

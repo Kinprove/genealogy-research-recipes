@@ -104,3 +104,14 @@ DNA accounts or records. They do not make service calls, install an MCP server,
 store credentials, send telemetry, or start background jobs. Individual recipes
 can describe optional services and commands; executing those still requires the
 host's appropriate tools, permissions and any service-specific credentials.
+
+## Running the tests
+
+Run both unit-test suites (the repository's `tests/` and the skill's own `tests/`) with:
+
+```sh
+python3 tests/run_all.py
+```
+
+It exits non-zero when a test fails or a suite collects no tests. The npm package test
+skips when `npm` is not installed, except in CI.
