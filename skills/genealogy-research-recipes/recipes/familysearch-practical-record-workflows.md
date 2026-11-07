@@ -722,9 +722,10 @@ stating record. Mark inferred dates, cite the records in the reason and recheck 
 child. Sources: [Q&A 2017](https://www.youtube.com/watch?v=9ZZpLzsGF5A),
 [Q&A 2022](https://www.youtube.com/watch?v=K9iQ-kWP46c),
 [relationships 2026](https://www.youtube.com/watch?v=PL3LBCW5D6c),
-[relationships 2017](https://www.youtube.com/watch?v=TuEwBt1JCiw),
-[relationships webinar](https://www.youtube.com/watch?v=Y2S38-s3tSc); confirm which types are
-offered.
+[relationships 2017](https://www.youtube.com/watch?v=TuEwBt1JCiw); confirm which types are
+offered. The additional [relationships class video](https://www.youtube.com/watch?v=Y2S38-s3tSc)
+was private when checked on 2026-10-22; its title and date were unavailable, and it does not
+verify the parent-link types above [S47].
 
 When people repeat in a pedigree or family display, compare PIDs before proposing a merge. A repeated
 identical PID means an extra relationship or a loop, not a duplicate. First distinguish valid pedigree

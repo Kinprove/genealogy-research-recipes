@@ -48,6 +48,10 @@ today's date. Do not check for a newer version over the network yourself.
 
 1. Match the user's task to a recipe below.
 2. **Read that recipe file in full before advising** — the value is in the specifics, not the summary.
+   Carry any material source limitation alongside the claim it affects: a search-result extract,
+   unread page or unavailable recording is a lead, not a verified reading. Consult the paired
+   `sources/` file when the claim's support is unclear; attribute an independently read source
+   explicitly rather than treating an inaccessible additional citation as confirmation.
 3. Apply its "never trust / never delegate" boundaries as **hard constraints on your own output** —
    those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
    reading a WATO ranking as a verdict, ignoring endogamy).

@@ -19,6 +19,6 @@ The order of steps (jurisdiction first, then whole-volume reading with a coverag
 
 ## Credits
 
-- FamilySearch Catalog record for New London, Connecticut town records (catalog 192308) — Short quotation used for verification under source terms; not relicensed (quoted)
+- FamilySearch Catalog record for New London, Connecticut town records (catalog 192308) — Reported index-note quotation retained in the source entry with its sign-in limitation; not independently verified or relicensed (quoted)
 - Kinprove original procedural synthesis; the reading practice, parent-town principle and Torrey walkthrough are paraphrased from the cited videos S1-S5 and checked against outside authorities; the village and foundling example is paraphrased from S6 with its inspection limits stated above — FSL-1.1-MIT (kinprove-original)
 - Clarence Almon Torrey's notation key as quoted in the FamilySearch Wiki article Torrey's New England Marriages Prior to 1700 — Factual conventions paraphrased with attribution; source text not relicensed (adapted)

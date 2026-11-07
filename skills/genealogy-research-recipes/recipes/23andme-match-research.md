@@ -415,10 +415,11 @@ describe ancestry assignments; they do not establish a match's shared segment. [
 genome; answer the privacy gate in `SKILL.md` before requesting it, and keep the file on the
 user's own device.
 
-Request raw data early if preservation matters. Processing may take days; confirm the email
-address and retain the request confirmation. Follow the current delivery instructions rather
-than promising an immediate download. This is a separate genotype request, not a backup of
-DNA Relatives. [O8]
+Request raw data early if preservation matters. The available summary of 23andMe's raw-data
+help suggests allowing days for processing; the full article was unavailable, so timing and
+delivery details remain unconfirmed [O8]. Confirm the email address and retain the request
+confirmation as preservation checks. Read the current delivery instructions before promising
+a download time. This is a separate genotype request, not a backup of DNA Relatives.
 
 Preserve profile clues, external tree links, useful communications, and the match worksheet
 alongside exported files. Start with the closest identified matches and the branch relevant

@@ -401,8 +401,11 @@ naturalization petition is found.
    residence and the child's age at each relevant event.
 2. Check the historical rule applicable to those dates and circumstances.
    Use [NARA's women's naturalization history](https://www.archives.gov/publications/prologue/1998/summer/women-and-naturalization-1.html)
-   for marriage-related changes, and the [State Department's historical derivative-citizenship charts](https://fam.state.gov/FAM/08FAM/08FAM030109.html)
-   for a child whose status may follow a parent's naturalization. Select the
+   for marriage-related changes. The [State Department FAM link](https://fam.state.gov/FAM/08FAM/08FAM030109.html)
+   is a lead for historical derivative-citizenship charts for a child whose status may follow a
+   parent's naturalization: the source fetch failed with a certificate error on 3 November 2026,
+   so the page's title and contents were not confirmed (sources, item 46). Obtain a readable
+   authoritative rule before using it to infer citizenship. Select the
    period and check its conditions before predicting a record category; do not
    apply the modern rule across all periods.
 3. Search the spouse's/parents' court papers, derivative citizenship

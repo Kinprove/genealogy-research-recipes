@@ -153,7 +153,7 @@ Some records about a person include that person's photograph, and for some famil
 
 For a person from the former Soviet Union, memorial portals filled by families are a separate surface for a person photograph. Choose them by case type and search each with its own search:
 
-- **WWII participants:** Бессмертный полк (Immortal Regiment, moypolk.ru), whose veteran stories carry portraits [S8], and Дорога памяти (Road of Memory, 1418museum.ru, formerly foto.pamyat-naroda.ru), a Russian Ministry of Defence project that collects participants' photographs [S9].
+- **WWII participants:** Бессмертный полк (Immortal Regiment, moypolk.ru), whose veteran stories carry portraits [S8], and Дорога памяти (Road of Memory, 1418museum.ru, formerly foto.pamyat-naroda.ru), a Russian Ministry of Defence project that collects participants' photographs [S9]. Road of Memory's participant-search link was a placeholder when checked on 2026-11-02; working person search was not verified. Treat it as an unsearched lead until an actual search or browse surface is available, and do not count an unavailable search as a name miss.
 - **Repression victims:** Бессмертный барак (Immortal Barracks, bessmertnybarak.com), which describes itself as collecting documents and photographs of victims [S10].
 - **Deported or dekulakised families:** add local publications from the place of exile, not only from the place of origin.
 
