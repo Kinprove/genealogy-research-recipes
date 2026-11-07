@@ -193,7 +193,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [japanese-koseki-honseki-recovery](skills/genealogy-research-recipes/recipes/japanese-koseki-honseki-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [jewish-archival-list-triage](skills/genealogy-research-recipes/recipes/jewish-archival-list-triage.md) | record catalogues and original images | — | — | — | — | — |
 | [jewish-genealogy-conditional-hypotheses](skills/genealogy-research-recipes/recipes/jewish-genealogy-conditional-hypotheses.md) | — | — | — | — | — | — |
-| [jewishgen-search-family-reconstruction](skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md) | record catalogues and original images | — | — | — | contact | required |
+| [jewishgen-search-family-reconstruction](skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md) | jewishgen | — | — | — | contact | required |
 | [land-index-book-series-recovery](skills/genealogy-research-recipes/recipes/land-index-book-series-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [local-repository-uncatalogued-holdings](skills/genealogy-research-recipes/recipes/local-repository-uncatalogued-holdings.md) | record catalogues and original images | — | — | — | — | — |
 | [manuscript-collection-recovery](skills/genealogy-research-recipes/recipes/manuscript-collection-recovery.md) | record catalogues and original images | — | — | — | — | — |

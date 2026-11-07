@@ -464,6 +464,7 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Core guardrail:* verify each collection's field and search-method semantics; a name, age or
   household match creates a candidate, and a recruitment explanation remains a hypothesis until
   independent records support it.
+  *Dated source check:* 2026-10-01.
 
 - **`recipes/beider-given-name-variants.md`** — Ashkenazi given-name variants from Beider's indexes.
   Expanding documentary searches with recorded Ashkenazi given-name forms from the male and female

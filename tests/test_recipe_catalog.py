@@ -74,6 +74,33 @@ class RecipeCatalogTests(unittest.TestCase):
         text = "[paper](https://example.org/paper.md) **segment-level** `foo.csv` [source](../sources/a.md)"
         self.assertEqual(list(catalog.recipe_references(text)), [])
 
+    def test_removing_a_recipe_can_regenerate_its_stale_old_catalog_entry(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            skill = root / catalog.SKILL_PATH
+            skill.mkdir(parents=True)
+            keep, remove = self.items[:2]
+            (skill / "SKILL.md").write_text(catalog.render_router([keep, remove]))
+            (root / "README.md").write_text(catalog.render_capabilities([keep, remove]))
+            outputs = list(catalog.generated_files(root, [keep]))
+            for path, text in outputs:
+                self.assertNotIn(remove[0]["id"], text)
+                path.write_text(text)
+            self.assertEqual(outputs, list(catalog.generated_files(root, [keep])))
+
+    def test_jewishgen_uses_actual_documentation_checks_and_platform_freshness(self):
+        m, body = next(item for item in self.items if item[0]["id"] == "jewishgen-search-family-reconstruction")
+        self.assertEqual(m["kind"], "platform")
+        self.assertIn("jewishgen", m["scope"]["platforms"])
+        self.assertEqual(m["checked_basis"], "fetched 2026-10-01")
+        expired = dt.date.fromisoformat(m["checked"]) + dt.timedelta(days=catalog.MAX_PLATFORM_AGE_DAYS + 1)
+        with self.assertRaisesRegex(catalog.CatalogError, "older than"):
+            catalog.validate_header(m, body, m["id"] + ".md", expired)
+        m = copy.deepcopy(m)
+        m.update(kind="records", checked="2009-08-18", checked_basis="opened 2009-08-18")
+        with self.assertRaisesRegex(catalog.CatalogError, "topic opening date"):
+            catalog.load_catalog(replacement=(m["id"] + ".md", catalog.emit_recipe(m, body)))
+
     def test_router_dangling_reference_and_changed_core_guardrail_fail(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

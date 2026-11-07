@@ -114,7 +114,7 @@ def validate_header(m, body, filename, today):
         basis = m["checked_basis"]
         require(isinstance(basis, str) and bool(basis.strip()), "checked_basis must quote dated source evidence")
         require(re.fullmatch(
-            r"(?:rechecked|checked|consulted|accessed|retrieved|verified|opened)(?: on)?\s+"
+            r"(?:rechecked|checked|consulted|accessed|retrieved|fetched|verified|opened)(?: on)?\s+"
             r"(?:20\d\d-\d\d-\d\d|\d{1,2} [A-Z][a-z]+ 20\d\d)", basis, re.I),
             "checked_basis must name a source check, not a publication/capture date")
         dates = re.findall(r"20\d\d-\d\d-\d\d|\d{1,2} [A-Z][a-z]+ 20\d\d", basis)
@@ -181,8 +181,11 @@ def load_catalog(root=None, today=None, replacement=None):
             if m["checked_basis"]:
                 source = skill / "sources" / name
                 require(source.is_file(), "missing source sidecar for dated check")
-                require(m["checked_basis"] in source.read_text(encoding="utf-8"),
-                        "checked_basis is absent from source sidecar")
+                source_text = source.read_text(encoding="utf-8")
+                occurrences = list(re.finditer(re.escape(m["checked_basis"]), source_text))
+                require(bool(occurrences), "checked_basis is absent from source sidecar")
+                require(any(not re.search(r"topic(?: was)?\s+$", source_text[max(0, x.start() - 30):x.start()], re.I)
+                            for x in occurrences), "checked_basis is a topic opening date, not a source check")
             catalog.append((m, body))
         except CatalogError as exc:
             raise CatalogError(f"{name}: {exc}") from exc
@@ -272,10 +275,13 @@ def replace_region(text, start, end, content):
 def generated_files(root, catalog):
     skill_file = root / SKILL_PATH / "SKILL.md"
     text = skill_file.read_text(encoding="utf-8")
+    rendered = replace_region(text, ROUTER_START, ROUTER_END, render_router(catalog))
     ids = {m["id"] for m, _ in catalog}
-    for target in recipe_references(text):
+    # Removed/renamed recipes can remain in the old generated region until this
+    # very write. Validate the replacement and the retained handwritten text.
+    for target in recipe_references(rendered):
         require(target in ids, f"SKILL.md: missing recipe {target}")
-    yield skill_file, replace_region(text, ROUTER_START, ROUTER_END, render_router(catalog))
+    yield skill_file, rendered
     readme = root / "README.md"
     yield readme, replace_region(readme.read_text(encoding="utf-8"), TABLE_START, TABLE_END,
                                 render_capabilities(catalog))

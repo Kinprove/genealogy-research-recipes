@@ -9,8 +9,8 @@ privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "RESEARCH-DOCUMENTATION-01", "text": "Record inaccessible, interrupted and unsearched collections separately from completed searches with no hits."}]
 handoff: ["evidence-proof-judgment", "manuscript-collection-recovery", "russian-empire-emigrant-origin-recovery", "source-citation", "unknown-parentage-wato"]
-checked: null
-checked_basis: null
+checked: "2026-11-03"
+checked_basis: "fetched on 2026-11-03"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": []}
 router: {"tier": "full", "group": "Evidence and documentation", "order": 134}
 ---
