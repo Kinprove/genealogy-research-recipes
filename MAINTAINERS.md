@@ -57,6 +57,20 @@ instructions outside them directly. Do not hand-edit generated entries or the
 capability table. Tests reject a dangling recipe, duplicate rule ID, missing
 privacy declaration, expired platform check or generated-output drift.
 
+The Markdown CI job also checks relative links in every tracked Markdown file,
+including heading fragments, images and reference links. Run it locally with:
+
+```sh
+npm ci --ignore-scripts
+npm run test:markdown-links
+```
+
+The check resolves paths offline and uses `github-slugger` for heading IDs,
+including Unicode and duplicate headings. Code examples and front matter are
+excluded. Non-Markdown resources are checked for existence; their format-specific
+fragments (such as PDF page numbers) are left alone. The npm development
+dependencies are only for these checks; installed plugins do not need them.
+
 For a **new** recipe, prepare its reviewed body and a complete header object
 as JSON, plus its source sidecar and any privacy-inventory entries, then use:
 
