@@ -297,19 +297,25 @@
   "recipe": "chechen-ingush-1944-deportation-records.md",
   "kind": "request",
   "action": "Neither tells you where one family's file is. Ask both ends.",
-  "checkpoint": "A request at either end, to the Kazakh Archive of the President or to a ZAGS office"
+  "checkpoint": "A request at either end, to the Kazakh Archive of the President, to the Kazakh legal-statistics committee or to a ZAGS office"
  },
  {
   "recipe": "chechen-ingush-1944-deportation-records.md",
   "kind": "request",
   "action": "has a separate procedure and sample form for requests about victims of political repression in 1920–1950",
-  "checkpoint": "A request at either end, to the Kazakh Archive of the President or to a ZAGS office"
+  "checkpoint": "A request at either end, to the Kazakh Archive of the President, to the Kazakh legal-statistics committee or to a ZAGS office"
  },
  {
   "recipe": "chechen-ingush-1944-deportation-records.md",
   "kind": "request",
   "action": "For a birth in exile, search the civil-registration (ZAGS) records of the place of settlement.",
-  "checkpoint": "A request at either end, to the Kazakh Archive of the President or to a ZAGS office"
+  "checkpoint": "A request at either end, to the Kazakh Archive of the President, to the Kazakh legal-statistics committee or to a ZAGS office"
+ },
+ {
+  "recipe": "chechen-ingush-1944-deportation-records.md",
+  "kind": "request",
+  "action": "Also ask the Prosecutor General's Committee on Legal Statistics and Special Accounts (КПСиСУ).",
+  "checkpoint": "A request at either end, to the Kazakh Archive of the President, to the Kazakh legal-statistics committee or to a ZAGS office"
  },
  {
   "recipe": "criminal-court-prison-record-recovery.md",
@@ -1108,6 +1114,12 @@
   "kind": "request",
   "action": "Ask about a documented transfer or another specific creator when relevant;",
   "checkpoint": "A follow-up archive inquiry asks again about"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "request",
+  "action": "So ask for the file itself, state the kinship and attach its proof",
+  "checkpoint": "The custody and exile requests below ask for"
  },
  {
   "recipe": "scottish-parish-statutory-record-recovery.md",

@@ -33,7 +33,8 @@ search-engine extracts, as marked), and details those pages did not support were
 - **H5:** J-Roots Forum, thread "Поиск информации о репрессированном родственнике. Теория", first
   post 2010-01-04, <https://forum.j-roots.info/viewtopic.php?f=64&t=564>. Rights: cited reference,
   not reproduced. Used for the distinct criminal, administrative and filtration-check file classes
-  and group-case portions; access rules were not adopted.
+  and group-case portions; its access rules were not adopted. The Russian access rule in step 2
+  comes from the order and laws in H49–H51 instead.
 - **H6:** J-Roots Forum, thread "Базы данных \"Жертвы политических репрессий\"", first post
   2010-01-04, <https://forum.j-roots.info/viewtopic.php?f=64&t=558>. Rights: cited reference, not
   reproduced. Used for extracting family statements from an interrogation record as leads separate
@@ -215,6 +216,59 @@ search-engine extracts, as marked), and details those pages did not support were
 - **H48:** Военно-медицинский музей, [Архивные справки](https://milmed.spb.ru/en/arkhivnye-spravki/),
   opened 2026-11-04. Used for: the museum not answering archive requests since 2012 and sending
   them to the TsAMO branch for military-medical documents at Lazaretny per. 2, St Petersburg.
+- **H49:** Legalacts.ru, [Приказ Минкультуры РФ N 375, МВД РФ N 584, ФСБ РФ N 352 от
+  25.07.2006](https://legalacts.ru/doc/prikaz-minkultury-rf-n-375-mvd-rf/), opened 2026-11-07, with
+  Garant's [copy of the same order](https://base.garant.ru/12149362/) for its registration with the
+  Ministry of Justice (15 September 2006, No. 8296) and the absence of a repeal mark. Used for: access
+  of relatives of a rehabilitated person (identity and kinship documents plus the person's written
+  consent or proof of death); access of other people before 75 years from the creation of the
+  documents only with the written consent of the rehabilitated person or, after death, the heirs;
+  the order not governing files of people refused rehabilitation or not reviewed, with a certificate
+  of the review result for files with negative findings; and basic biographical data and the review
+  result being issued to any user without consent.
+- **H50:** Legalacts.ru, [Закон РФ от 18.10.1991 N 1761-1 «О реабилитации жертв политических
+  репрессий»](https://legalacts.ru/doc/zakon-rsfsr-ot-18101991-n-1761-1-s/) (wording of 25 December
+  2023), opened 2026-11-07. Used for: art. 11, relatives' right to read terminated files with the
+  rehabilitated person's consent or after death, and the archive's duty to tell applicants the time
+  and cause of death and the burial place if it holds them.
+- **H51:** КонсультантПлюс, [Федеральный закон от 22.10.2004 N 125-ФЗ, статья
+  25](https://www.consultant.ru/document/cons_doc_LAW_1406/2476677c14d65b4e41f542f0e8548dc8226e5084/),
+  opened 2026-11-07 (the same page as `soviet-personal-file-recovery` S32). Used for: the 75-year
+  restriction on documents with personal and family secrets, counted from the day the documents were
+  created.
+- **H52:** Meduza, [Росархив ограничил исследователям доступ к делам жертв политических
+  репрессий](https://meduza.io/news/2025/10/06/rosarhiv-ogranichil-issledovatelyam-dostup-k-delam-zhertv-politicheskih-repressiy),
+  6 October 2025, after Kommersant, opened 2026-11-07 (a news report, secondary). Used for: state
+  archives reported refusing researchers access to files of rehabilitated victims without proof of
+  kinship under Rosarkhiv order No. 38 of 20 March 2025, and Rosarkhiv's confirmation that its
+  restricted list covers information on victims of political repression.
+- **H53:** Interfax, [Верховный суд ликвидировал общество "Мемориал"](https://www.interfax.ru/russia/812969),
+  28 December 2021, opened 2026-11-07. Used for: the Supreme Court's order liquidating the
+  International Memorial society and its regional branches.
+- **H54:** Supreme Court of the Russian Federation, [Верховный Суд признал международное общественное
+  движение «Мемориал» экстремистской организацией](https://www.vsrf.ru/news/35711), 9 April 2026,
+  opened 2026-11-07. Used for: the movement and its structural units declared extremist and banned
+  in Russia, with immediate effect.
+- **H55:** Zona.media, [Russia adds Memorial and 35 'offshoots' to 'extremist organisations'
+  register](https://en.zona.media/article/2026/06/04/nomemory), 4 June 2026, opened 2026-11-07.
+  Used for: Memorial's online archives, including information on the fates of people repressed in
+  the USSR, taken offline after the designation.
+- **H56:** Kinprove's own checks of 7 November 2026, a method rather than a publication: DNS queries
+  to the memo.ru domain's authoritative name server returned no address records for memo.ru,
+  base.memo.ru or stalin.memo.ru, and the [Internet Archive CDX
+  index](https://web.archive.org/cdx/search/cdx?url=base.memo.ru/&from=20260301&output=json) shows
+  the last captures of base.memo.ru and lists.memo.ru on 28 March 2026 and of stalin.memo.ru in
+  March 2026. Used for: the sites being offline on that date.
+- **H57:** Kommersant, [item of 6 December 2017](https://www.kommersant.ru/doc/3488108), opened
+  2026-11-07, and an [Internet Archive capture of base.memo.ru of 28 March
+  2026](https://web.archive.org/web/20260328095059/https://base.memo.ru/). Used for: the database's
+  new online version of December 2017 (3,102,000 names), which the March 2026 page still called the
+  current, fifth version.
+- **H58:** Open List, [main page](https://ru.openlist.wiki/), opened 2026-11-07, and Meduza,
+  [Опубликован «Открытый список» жертв политических репрессий в
+  СССР](https://meduza.io/news/2016/04/28/opublikovan-otkrytyy-spisok-zhertv-politicheskih-repressiy-v-sssr),
+  28 April 2016, opened 2026-11-07. Used for: Open List being built on Memorial's database,
+  supplemented from other sources, with users adding names.
 
 ## Verification limits
 
@@ -230,8 +284,10 @@ archived capture read in an earlier review; they are dated in the recipe. Indexi
 18 October, these extracts are cited, but their entries say 'seen', not 'opened'.
 
 Withheld: exact archive year boundaries, medical-archive request prerequisites, award-class
-proxies, fixed POW/searchability percentages, default portal filter settings, rehabilitation/access
-rules, database migrations and current endpoint health. None is needed for the episode workflow.
+proxies, fixed POW/searchability percentages, default portal filter settings, access rules outside
+Russia, database migrations and current endpoint health other than the dated Memorial check (H56).
+The Russian access rule for rehabilitated persons' files was added on 7 November 2026 from the
+order and laws in H49–H51. None is needed for the episode workflow.
 Also withheld because no source checked on 2 November 2026 confirmed them: where on a WWII award
 sheet the higher conclusions sit, what Pamyat Naroda unit pages show about subordination, the
 ICRC card-filing order, which archive GWAR's POW card file came from, GWAR's loss-card

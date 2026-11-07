@@ -81,6 +81,18 @@ predate many file transfers, so they do not identify the present custodian. Sear
 republic's database and volumes, recording each result separately. A miss is absence from that set
 only; these posts describe past coverage without measuring it.
 
+Memorial's database «Жертвы политического террора в СССР» (base.memo.ru; its last published
+version dates from December 2017) and the Stalin execution lists (stalin.memo.ru) were offline on
+7 November 2026: the hosts had no address records, and the newest web-archive captures date from
+March 2026. Russia's Supreme Court ordered the International Memorial society liquidated on
+28 December 2021 and, on 9 April 2026, declared the international public movement Memorial
+extremist; Zona.media reported that Memorial's online archives were then taken offline. [H53],
+[H54], [H55], [H56], [H57] Cite an earlier search with its site and date, or use a web-archive
+capture and say so. Open List (ru.openlist.wiki) is a separate database built on Memorial's and
+extended by its users, not a copy of it. [H2], [H58] A portal page that times out, fails its
+certificate check or shows a robot check has not been searched: record an access failure, not a
+negative result.
+
 The Perm Memorial martyrology states its own inclusion rule. It lists only people repressed on
 political grounds by judicial and extrajudicial bodies in Perm krai and since rehabilitated,
 compiled from investigation files in ПермГАНИ (Perm State Archive of Recent History). It does not
@@ -272,6 +284,19 @@ pages can name living relatives; keep their details out of shared output.
    ([archive-access guide](https://forum.j-roots.info/viewtopic.php?f=64&t=5700)); cite a
    certificate as the certificate, not the inspected file, and treat an omitted fact such as
    relatives as unchecked rather than absent.
+   In Russia, the file of a rehabilitated person is open to relatives who show identity and
+   kinship and either the person's written consent or proof of death. Other people need the
+   written consent of the rehabilitated person or, after death, of the heirs until 75 years after
+   the documents were created (joint order of the Ministry of Culture, MVD and FSB No. 375/584/352
+   of 25 July 2006; Law 1761-1, art. 11; Federal Law 125-FZ, art. 25 part 3). [H49], [H50], [H51]
+   Since 2025 some state archives have been reported refusing researchers without proof of kinship
+   even after 75 years, under Rosarkhiv order No. 38 of 20 March 2025. [H52] The order does not
+   govern files of people refused rehabilitation or whose cases were not reviewed; for a file with
+   a negative rehabilitation finding, the archive gives a certificate of the review result. [H49]
+   Any user can get basic biographical data and the review result without consent: that is the
+   short certificate. So ask for the file itself, state the kinship and attach its proof, and ask
+   for the time and cause of death and the burial place, which the archive must give for a
+   rehabilitated person if it holds them. [H49], [H50]
 3. Identify the present custodian from a current official finding aid or archive response for
    the particular file/series. A broad Imperial/Soviet/WWII year division is only a starting
    clue; branch, record creator and later transfers can matter. For example, in Ukraine the SBU
@@ -280,8 +305,8 @@ pages can name living relatives; keep their details out of shared output.
    the transfer of the repressive organs' 1917–1991 records to ГДА УІНП within two years, but the
    transfer has not been shown complete: ГДА УІНП's 2025 report lists no SBU accession, and ГДА
    СБУ still cited its own fonds in 2026. Confirm the holder of the specific file and do not assume
-   either. [H42], [H43], [H44] This recipe supplies no fixed
-   archive boundary, access entitlement or response-time promise.
+   either. [H42], [H43], [H44] Apart from the Russian access rule in step 2, this recipe
+   supplies no fixed archive boundary, access entitlement or response-time promise.
 4. Record what was delivered: pages/images inspected, stated omissions and any unavailable,
    withheld or redacted material. An inaccessible image is not a negative name search. Do not
    recover deliberately withheld content through alternate image leakage.
