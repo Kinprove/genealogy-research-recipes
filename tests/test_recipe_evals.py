@@ -116,6 +116,12 @@ class BehaviouralHarnessTests(unittest.TestCase):
         failures = deterministic(self.case, "I read ai-for-dna-research. Shared cM, endogamy.", {})
         self.assertTrue(any("Unread recipes" in failure for failure in failures))
 
+    def test_equivalent_stone_wording_does_not_fail_the_inscription_regex(self):
+        case = next(case for case in load_cases() if case["id"] == "memorial-proof")
+        reads = {"burial-evidence-packet": {"complete": True, "lines": []}}
+        failures = deterministic(case, "The database, headstone and burial give claims about death.", reads)
+        self.assertEqual(failures, [])
+
     def test_denied_read_and_outside_path_never_count(self):
         path = SKILL / "recipes/ai-for-dna-research.md"
         self.assertEqual(successful_reads(self.trace(path, error=True), SKILL), {})

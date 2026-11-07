@@ -13,7 +13,7 @@
   },
   "assert": {
     "regex_present": [
-      "inscription",
+      "inscription|(?:head)?stone",
       "burial",
       "death"
     ],
