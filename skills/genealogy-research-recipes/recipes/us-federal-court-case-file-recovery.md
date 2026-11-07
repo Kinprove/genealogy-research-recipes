@@ -94,7 +94,8 @@ Pittsburgh Division bankruptcy indexes and docket books among the Philadelphia t
 records. Ask Philadelphia for the index first, then request the case file from Kansas City
 with the reference copied from it. Kansas City asks for the court, the case number, the
 parties and the period; for a case filed in 1940 or later it also needs a Federal Records
-Center transfer number, which comes from the court [S4].
+Center transfer number, which comes from the court. If the court no longer has that number
+because the case is old, say so in the request [S4].
 
 Expect to work mostly with originals. The presenter says very little of this material was filmed
 [S2]. NARA does have a microfilm catalog for federal court records, and some RG 267 series are on
