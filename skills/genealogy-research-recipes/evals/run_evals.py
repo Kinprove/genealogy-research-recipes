@@ -355,7 +355,7 @@ def main():
         previous_cases = {case["id"]: case for case in previous["cases"]}
         if previous["skill_sha256"] != digest.hexdigest() or any(previous_cases.get(case["id"]) != case for case in cases):
             parser.exit(1, "Replay skill bytes or case contracts differ; keep the original run and make a new sample run.\n")
-        args.replay_skill = Path(previous["skill"])
+        args.replay_skill = Path(previous.get("replay_original_skill") or previous["skill"])
         rules = previous["guardrails"]
     materials = {name: (HERE / "fixtures" / name).read_text(encoding="utf-8")
                  for case in cases for name in case["materials"]}

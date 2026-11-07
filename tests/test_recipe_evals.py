@@ -1,6 +1,7 @@
 """Regression tests for the evaluator's failure modes, independent of a model/key."""
 
 import datetime as dt
+import hashlib
 import json
 from pathlib import Path
 import shutil
@@ -16,7 +17,7 @@ EVALS = ROOT / "skills/genealogy-research-recipes/evals"
 sys.path.insert(0, str(EVALS))
 from checks import SKILL, guardrails, header, load_cases, required_lines, static_checks
 from recipe_catalog import emit_recipe
-from run_evals import aggregate, deterministic, parse_judgment, read_failures, sample, successful_reads, unexpected_tools, verify_replay_materials
+from run_evals import aggregate, deterministic, main as eval_main, parse_judgment, read_failures, sample, successful_reads, unexpected_tools, verify_replay_materials
 from read_server import read_recipe
 
 
@@ -192,6 +193,51 @@ class BehaviouralHarnessTests(unittest.TestCase):
         outside_original = self.trace(SKILL / "recipes/ai-for-dna-research.md")
         self.assertEqual(successful_reads(outside_original, SKILL, old_skill), {})
         self.assertTrue(any("Out-of-scope" in failure for failure in read_failures(outside_original, SKILL, old_skill)))
+
+    def test_successive_subset_replays_preserve_original_ci_trace_root(self):
+        case = self.case
+        old_skill = Path("/ci/original/skills/genealogy-research-recipes")
+        path = old_skill / "recipes/ai-for-dna-research.md"
+        trace = self.trace(path, read_recipe(SKILL / "recipes", path.name))
+        trace[0]["message"]["content"][0]["input"]["limit"] = 1000
+        digest = hashlib.sha256()
+        for resource in sorted(SKILL.rglob("*.md")):
+            digest.update(resource.relative_to(SKILL).as_posix().encode())
+            digest.update(resource.read_bytes())
+        judgment = {"clarify": False, "items": [{"guardrail": item["guardrail"], "pass": True, "reason": "Observed"}
+                                               for item in case["assert"]["rubric"]]}
+        answer = "Shared cM Project keeps several candidates open. Does endogamy apply?"
+        with tempfile.TemporaryDirectory() as directory:
+            original = Path(directory) / "original"
+            original.mkdir()
+            material = (EVALS / "fixtures/matches.csv").read_text(encoding="utf-8")
+            (original / "run.json").write_text(json.dumps({
+                "skill": str(old_skill), "skill_sha256": digest.hexdigest(), "cases": [case],
+                "guardrails": guardrails(), "materials": {"matches.csv": material, "unused.txt": "unused"},
+            }), encoding="utf-8")
+            for number in range(1, 4):
+                folder = original / case["id"] / str(number)
+                folder.mkdir(parents=True)
+                (folder / "result.json").write_text(json.dumps({"answer": answer}), encoding="utf-8")
+                (folder / "assistant.jsonl").write_text("\n".join(json.dumps(event) for event in trace) + "\n", encoding="utf-8")
+
+            def transport(prompt, skill, output, model, *args, **kwargs):
+                self.assertEqual(output.name, "judge.jsonl")  # assistant samples must not be regenerated
+                output.write_text("{}\n", encoding="utf-8")
+                return json.dumps(judgment), []
+
+            previous = original
+            for index in range(2):
+                output = Path(directory) / f"replay-{index}"
+                argv = ["run_evals.py", "--replay", str(previous), "--case", case["id"],
+                        "--output", str(output), "--skill", str(SKILL), "--workers", "1"]
+                with patch.object(sys, "argv", argv), patch("run_evals.invoke", side_effect=transport), \
+                        patch("run_evals.subprocess.check_output", return_value="test-cli\n"):
+                    self.assertEqual(eval_main(), 0)
+                manifest = json.loads((output / "run.json").read_text(encoding="utf-8"))
+                self.assertEqual(manifest["replay_original_skill"], str(old_skill))
+                self.assertEqual(json.loads((output / case["id"] / "1/assistant-events.json").read_text()), trace)
+                previous = output
 
     def test_successful_chunks_accumulate_and_tasks_require_every_line(self):
         path = SKILL / "recipes/family-interviews-and-oral-tradition.md"
