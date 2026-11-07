@@ -4,7 +4,7 @@ Use this recipe when a Dutch person or couple is missing from an online index, w
 
 ## When the index fails, open the ten-year tables
 
-A failed online search does not show that the event is missing from the municipality's records. Open the municipality's ten-year tables (tienjarige tafels) instead. Within each ten-year block, the tables are grouped by event type (births, marriages, deaths), and each group is alphabetical by surname. How the letters are grouped varies from one archive to another. In the presenter's example, one filmed volume of about 170 pages covered 1812–1842. Use the page headings to jump between event groups and periods instead of reading page by page. [S3]
+A failed search on WieWasWie or Open Archieven (openarchieven.nl) does not show that the event is missing from the municipality's records. WieWasWie covers the civil acts of most municipalities, not all, and Open Archieven also carries records from archives that do not take part in WieWasWie. [S19], [S20] Search both, then open the municipality's ten-year tables (tienjarige tafels). Within each ten-year block, the tables are grouped by event type (births, marriages, deaths), and each group is alphabetical by surname. How the letters are grouped varies from one archive to another. In the presenter's example, one filmed volume of about 170 pages covered 1812–1842. Use the page headings to jump between event groups and periods instead of reading page by page. [S3]
 
 - Read how the entries are laid out before you search. In the presenter's marriage example, the groom's name was written surname first and the bride's given name first. Check the name order in your own table before you search. [S3]
 - Copy each candidate line exactly as written: the names, the parent or spouse shown, and the date. In the birth tables the date is normally the date of the act (the registration), not the birth date. Get the actual birth date from the act. In the presenter's marriage and death examples, the date given was the event date. [S3]
@@ -22,13 +22,15 @@ Date the start of civil registration by region before you choose between civil a
 
 The civil marriage act names the couple's parents and places of origin. The marriage supplements (huwelijksbijlagen) hold the proofs each spouse had to file: a birth or baptism proof, parental consent where it was required, and death proofs for parents who had died. If a spouse was born before civil registration began in the birthplace, the proof is a baptism extract. That extract names the church and its denomination, which tells you which register to search next. [S2]
 
-Make an inventory of the supplements one document at a time: what kind of document it is, which person it concerns, who issued it, and its date. Do not infer a spouse's age from whether a consent document is present. The presenter suggested consent was needed under 21, which is not correct as a general rule. Under the 1838 Dutch Civil Code, consent was required under age 23, and adults still had to ask for it up to age 30. For marriages from 1811 to 1838, apply no age threshold. In every period, read the consent document itself rather than applying an age rule. [S2]
+Make an inventory of the supplements one document at a time: what kind of document it is, which person it concerns, who issued it, and its date. Do not infer a spouse's age from whether a consent document is present. The presenter suggested consent was needed under 21, which is not correct as a general rule. [S2] Under the French Code civil, in force from 1811 until the Dutch Civil Code took effect on 1 October 1838 (1 January 1842 in Limburg), a son under 25 and a daughter under 21 needed their parents' consent. An older child had to ask the parents' advice, or the grandparents' if the parents had died, by a formal acte respectueux. Up to age 30 for a son and 25 for a daughter, the act was repeated twice more, a month apart, if consent did not follow; after that, one act sufficed. [S16], [S18] Under the 1838 Dutch Civil Code, consent was required under age 23, and adults still had to ask for it up to age 30. [S17] These rules tell you which documents to expect in the supplements; they do not give a spouse's age. In every period, read the consent document itself rather than applying an age rule.
 
 ## Check separate contracts and guardian agreements
 
 A `huwelijkscontract` or `huwelijkse voorwaarden` is a prenuptial agreement, a separate target from the marriage act and its `huwelijksbijlagen`. Check the locality's finding aids for the relevant notarial or, where applicable, voluntary-court series. Known banns and wedding dates give a starting search window, not a reason to exclude other dates. Hoitink describes this route; the actual series must be established for the place and period. [S6]
 
 If a surviving parent remarried with minor children, also ask whether a separate agreement with the children's guardians survives. Keep it distinct from the couple's contract and ordinary guardianship appointments or accounts, each with its own locator. This is Hoitink's document lead, not a claim that an agreement was legally required or created in every case. For the wider guardianship search, use [probate case inventories](probate-case-document-inventory.md). [S7]
+
+For a death from 1806 on, also look for the memorie van successie (estate-tax return) in the series of the tax office that covered the place of death. Record the years that office's series covers: the Zuid-Holland series runs 1806–1927, and other series differ. [S22], [S23] Heirs in the direct line paid no tax until 1878, so an entry can be short. [S23] If no return turns up, record the result as "not found in that series".
 
 ## Choose the register by denomination and place
 
@@ -65,7 +67,7 @@ Add a child's baptism, a death or a marriage to the couple's events only when th
 
 ## After the population registers, request the CBG card
 
-After the bevolkingsregisters (population registers), many municipalities kept gezinskaarten (family cards). Persoonskaarten (personal record cards) replaced them from 1939. [S11]
+Most municipalities began a bevolkingsregister (population register) in 1850, and some kept one earlier; take the first year from the municipality's inventory. [S21] After the bevolkingsregisters, many municipalities kept gezinskaarten (family cards). Persoonskaarten (personal record cards) replaced them from 1939. [S11]
 
 - **Death between 1939 and 1 October 1994:** the CBG holds the persoonskaart of almost everyone who died while registered in a Dutch municipality. [S11]
 - **Death after 1 October 1994:** the CBG holds the persoonslijst (personal record list). [S11]
