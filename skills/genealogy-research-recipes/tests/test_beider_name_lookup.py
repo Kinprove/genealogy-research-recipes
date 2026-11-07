@@ -55,6 +55,8 @@ def fixture_manifest():
                 "title": title,
                 "url": url,
                 "post_id": post_id,
+                "archive_url": "https://web.archive.org/web/20241225000000id_/" + url.split("#")[0],
+                "source_capture_date": "2024-12-25",
                 "content_sha256": "a" * 64,
                 "entry_count": len(entries),
                 "entries": copy.deepcopy(entries),
@@ -588,11 +590,48 @@ class BeiderLookupTests(unittest.TestCase):
             ("url", "http://example.test"),
             ("post_id", "invalid"),
             ("content_sha256", "incomplete"),
+            ("archive_url", "http://web.archive.org/web/2024/"),
+            ("archive_url", "https://"),
+            ("archive_url", "https:///capture"),
+            ("archive_url", "https://localhost/web/2024/"),
+            ("archive_url", "https://web.archive.org:x/web/2024/"),
+            ("archive_url", "https://web archive.org/web/2024/"),
+            ("archive_url", None),
+            ("source_capture_date", "2024-12-32"),
+            ("source_capture_date", "25.12.2024"),
+            ("source_capture_date", "2026-10-04"),
         ):
             with self.subTest(field=field):
                 manifest = fixture_manifest()
                 manifest["indexes"]["male"][field] = value
                 self.assert_manifest_rejected(manifest)
+
+    def test_missing_provenance_fields_are_unavailable(self):
+        for field in ("archive_url", "source_capture_date"):
+            with self.subTest(field=field):
+                manifest = fixture_manifest()
+                del manifest["indexes"]["female"][field]
+                self.assert_manifest_rejected(manifest)
+
+    def test_format_characters_in_entries_are_unavailable(self):
+        for char in ("\u200b", "\u00ad", "\u200d", "\ufeff", "\u200f"):
+            for column in (0, 1):
+                with self.subTest(char=hex(ord(char)), column=column):
+                    manifest = fixture_manifest()
+                    entry = manifest["indexes"]["male"]["entries"][0]
+                    entry[column] = entry[column][:2] + char + entry[column][2:]
+                    self.assert_manifest_rejected(manifest)
+
+    def test_component_search_is_capped_per_input(self):
+        query = "-".join(["ХАИМ", "ГОЛДА", "ПЕСЯ", "БАСЯ", "ГОСЯ", "ГОДЕС", "ЕСЕЛЬ", "ЁСЕЛЬ"])
+        result, _ = self.query(names=[query])
+        components = result["component_search"]["queries"]
+        self.assertEqual(len(components), lookup.MAX_COMPONENTS_PER_INPUT)
+        self.assertEqual([part["position"] for part in components], [1, 2, 3, 4, 5, 6])
+        self.assertEqual(
+            result["query"]["matching_policy"]["max_components_per_input"],
+            lookup.MAX_COMPONENTS_PER_INPUT,
+        )
 
     def test_missing_or_corrupt_file_is_unavailable(self):
         with tempfile.TemporaryDirectory() as directory:

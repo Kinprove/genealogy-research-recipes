@@ -104,7 +104,8 @@ An approximate-only whole-name result has `status: candidates_found`; a whole-na
 separator match has `status: found`.
 
 Whitespace/hyphen compounds also produce a separate `component_search`, recording each part's
-parent input and position. Its article groups have their own bound, count and truncation.
+parent input and position; only the first six parts of each input are searched
+(`max_components_per_input` in the reported matching policy). Its article groups have their own bound, count and truncation.
 Component matches never count as an exact whole-name match: `Довид-Хаим` may have useful
 component results while the whole-name status remains `not_in_index`. Compare the original
 document before interpreting parts as a double given name.
