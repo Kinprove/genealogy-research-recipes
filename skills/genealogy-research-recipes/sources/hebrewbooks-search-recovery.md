@@ -47,8 +47,9 @@
   2026-11-07. Supports the size (156,000 books), the OCR full-text search and its sale as a
   paid product.
 - Automated requests to `https://beta.hebrewbooks.org/` and `https://hebrewbooks.org/` on
-  2026-11-07 returned HTTP 403 with a Cloudflare challenge, so neither page could be read that
-  day; the step therefore asks for a browser check.
+  2026-11-07 got mixed answers: several returned HTTP 403 with a Cloudflare challenge, a later
+  one returned HTTP 200, and the pages' content was not inspected. The step therefore asks for a
+  browser check instead of stating the beta site's status.
 
 ## Credits
 

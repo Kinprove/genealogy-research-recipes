@@ -86,9 +86,9 @@ book's edition and page as in step 6.
    `site:hebrewbooks.org <Hebrew phrase>` in an external search engine; include the
    OCR-confused spelling when that is the probe. MacDowell demonstrates exactly this
    combination with `site:hebrewbooks.org ימקב`. Also try `https://beta.hebrewbooks.org/`,
-   the enhanced search entry point identified by Brand's 2022 guide. On 2026-11-07 it, like the
-   main site, answered automated requests with HTTP 403 and a Cloudflare challenge, so confirm in
-   a browser that it is still offered. For full-text search in another large Hebrew library,
+   the enhanced search entry point identified by Brand's 2022 guide. On 2026-11-07 automated
+   requests to it and to the main site got mixed answers, some of them HTTP 403 with a Cloudflare
+   challenge, so confirm in a browser that it is still offered. For full-text search in another large Hebrew library,
    Otzar HaHochma (`https://www.otzar.org/`) offers OCR search of about 156,000 Judaic books as
    a paid service.
    **For an inaccessible catalogue, also use the [Shafeh search form](https://shafeh.org/hb/search).**
