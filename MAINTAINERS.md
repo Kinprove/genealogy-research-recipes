@@ -70,15 +70,47 @@ An upstream draft exporter may produce the body first; pass that body through
 this step before committing it here. Existing public recipes are edited in
 place, preserving their headers and public corrections.
 
+## Locked maintainer and CI tools
+
+Use Node 24.16 or newer (Node 24 or 26) and install the tools from the repository
+root:
+
+```sh
+npm ci --prefix ci-tools --ignore-scripts
+```
+
+`ci-tools/package-lock.json` locks OpenClaw, Claude Code, markdownlint-cli2 and
+ClawHub, including their transitive dependencies. Keep lifecycle scripts disabled.
+The CI plugin checks, Markdown lint and ClawHub validation work without them;
+optional native features of OpenClaw are outside these checks. Claude Code ships
+`cli-wrapper.cjs` specifically for installs with scripts disabled: it launches
+the locked platform binary directly, without the postinstall copy needed by
+`.bin/claude`:
+
+```sh
+node ci-tools/node_modules/@anthropic-ai/claude-code/cli-wrapper.cjs plugin validate . --strict
+ci-tools/node_modules/.bin/markdownlint-cli2 "**/*.md"
+```
+
+ClawHub validation selects the installed OpenClaw SDK explicitly; its default
+would resolve the latest release. The OpenClaw runtime check installs the packed
+plugin artifact so development tools are not copied into its temporary profile.
+
+When changing a tool version, update `ci-tools/package.json`, regenerate the lock
+with `npm install --prefix ci-tools --package-lock-only --ignore-scripts`, then
+repeat the clean install and runtime checks. Commit both files. These tools are
+development dependencies and are excluded from the published plugin artifact.
+
 ## Publishing to ClawHub
 
 Use a clean checkout of the reviewed commit, with all host manifest versions
 synchronized. Publish under the ClawHub `kinprove` owner using an account with
-access to that owner. The `@kinprove/` package scope must match it.
+access to that owner. The `@kinprove/` package scope must match it. Install the
+locked tools above first, and run these commands from the repository root.
 
 ```sh
-npx --yes clawhub@0.23.3 package validate . --out ../clawhub-validation --json
-npx --yes clawhub@0.23.3 package publish . --family code-plugin --owner kinprove --dry-run --json
+ci-tools/node_modules/.bin/clawhub package validate . --openclaw ci-tools/node_modules/openclaw --out ../clawhub-validation --json
+ci-tools/node_modules/.bin/clawhub package publish . --family code-plugin --owner kinprove --dry-run --json
 ```
 
 Check that the dry-run reports `code-plugin`, the intended version and the exact

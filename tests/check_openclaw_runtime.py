@@ -19,6 +19,8 @@ PLUGIN = "genealogy-research-recipes"
 def main():
     openclaw = shutil.which("openclaw")
     assert openclaw, "The openclaw CLI is not on PATH"
+    npm = shutil.which("npm")
+    assert npm, "npm is required to pack the plugin artifact"
     with tempfile.TemporaryDirectory(prefix="kinprove-openclaw-test-", dir=os.environ.get("TMPDIR")) as directory:
         home = Path(directory).resolve()
         state = home / ".openclaw"
@@ -34,7 +36,14 @@ def main():
         def openclaw_json(*arguments):
             return json.loads(run_openclaw(*arguments, "--json", stdout=subprocess.PIPE, text=True).stdout)
 
-        run_openclaw("plugins", "install", str(ROOT), "--force", "--accept-capabilities")
+        # Directory installs copy development files, including ci-tools/node_modules.
+        # Exercise the published artifact instead, with the same files allowlist as ClawHub.
+        packed = subprocess.run(
+            [npm, "pack", "--ignore-scripts", "--json", "--pack-destination", str(home)],
+            cwd=ROOT, stdin=subprocess.DEVNULL, capture_output=True, text=True, check=True, timeout=120,
+        )
+        archive = home / json.loads(packed.stdout)[0]["filename"]
+        run_openclaw("plugins", "install", str(archive), "--force", "--accept-capabilities")
 
         report = openclaw_json("plugins", "inspect", PLUGIN, "--runtime")
         plugin = report["plugin"]
