@@ -61,6 +61,14 @@ Write down the parish, register volume and date range you browsed. If you get no
 
 ## Pivot through co-travellers when the passenger search fails
 
+First search the departure registers kept in the home country:
+
+- Denmark: the Copenhagen police registered emigrants' shipping contracts from 1868 to 1934, and the State Emigration Office from 1934. Rigsarkivet says the registers for 1868–1911 are name-searchable on the Danish Emigration Archives' site; that site's own year list runs to 1920, with 1912, 1917 and 1918 missing. [S23], [S24]
+- Norway: search the police emigrant protocols in [Use Norwegian censuses and emigrant protocols within their ranges](#use-norwegian-censuses-and-emigrant-protocols-within-their-ranges).
+- Sweden: search the port lists and moving-out registers described in [Swedish household reconstruction](scandinavian-parish-record-recovery.md#before-1869-look-for-emigrants-in-the-moving-out-registers). Emiweb's *Emigranter i svenska kyrkböcker* (formerly Emibas) indexes emigrants from parish registers. It was compiled systematically only for about 1836–1895, and not for Uppsala, Norrbotten or Stockholm counties. It is a subscription database. [S25]
+
+Record the register, years and index you searched. A miss is bounded by them.
+
 If you cannot find the emigrant on a passenger list:
 
 1. Open the manifest of a known co-traveller, such as a future spouse or a sibling. In S5, the guest found his great-grandfather next to his future wife, listed under a father-derived "-son" form instead of the American surname.
@@ -98,13 +106,13 @@ A candidate matches only when several of these discriminators agree. Leave any c
 ## Use Norwegian censuses and emigrant protocols within their ranges
 
 - The national censuses that name each person are 1801, 1865, 1875, 1891, 1900, 1910 and 1920. [S13], [S15] The 1815, 1825, 1835, 1845 and 1855 censuses were numeric counts. Only some name lists from them survive, in ministers' and town archives, so a gap between 1801 and 1865 is expected. [S13]
-- A nil from a 1920 census name search is not a negative until you confirm the municipality is searchable.
+- A nil from a census name search is not a negative until you confirm the municipality is transcribed for that year.
 - Police emigrant protocols start at different dates in each port. Oslo's begin in 1867. [S14] For any other port, read its start date on Digitalarkivet. For a departure before that range, search the home parish's church book for a moving-out note.
 - Treat a link in Historisk befolkningsregister (histreg.no) as a derived hypothesis. Check it against the scanned record.
 
 ## Denmark: go beyond the church books
 
-- Use the census transcriptions in DDD (Dansk Demografisk Database, run by Rigsarkivet), and check each one against the scan on Arkivalieronline. [S16]
+- Rigsarkivet has scanned every census of the kingdom up to 1940 on Arkivalieronline. Name-searchable transcriptions are complete for 1787, 1801/1803, 1834, 1840, 1845, 1850, 1860, 1880, 1885 (Copenhagen only) and 1901, and partial for other years up to 1930. They are in DDD (Dansk Demografisk Database, run by Rigsarkivet), which Rigsarkivet is moving into Søg i Samlingerne. A nil in a partly transcribed year is not a negative. Check each transcription against the scan. [S16], [S22]
 - Use the lægdsruller (military levying rolls) to bridge censuses for men. From 1788 to 1848 they enrolled males of the peasant class from birth, and from 1849 all men. They give the father's name (the mother's if the man was born outside marriage) and the man's moves while liable for service. Moves can be followed across the country from 1789. Before 1788 only scattered rolls survive. [S17]
 
 ## Rebuild siblings and marriages from the named parents
@@ -112,7 +120,7 @@ A candidate matches only when several of these discriminators agree. Leave any c
 - **Sibling sets.** Build these from the parents named in each baptism, not from a shared surname. Around a parish's change to fixed surnames, older children may carry the father's patronymic while younger ones carry a fixed surname [S6]. Brady says adult siblings in Sweden chose their own fixed surnames, so two brothers can have different surnames [S1].
 - **Transition dates.** The laws differ by country, and people widely ignored them, so read the actual parish entries:
   - Denmark: a decree in 1828 and a ministerial circular in 1856.
-  - Sweden: Brady places voluntary fixed surnames around the 1880s [S1], and Castillo dates the first changes to about 1860 [S3]. The names act of 5 December 1901 then required anyone without a fixed surname to take the masculine form of the father's surname.
+  - Sweden: Brady places voluntary fixed surnames around the 1880s [S1], and Castillo dates the first changes to about 1860 [S3]. The ordinance of 5 December 1901 on adopting family names (SFS 1901:125) controlled which new family names a parish could enter in the church book. It obliged no one to take a family name, and patronymics were still in use in every registration district in the late 1950s [S19]. The Names Act (SFS 1963:521) took effect on 1 January 1964 [S20]. From 1 January 1983 the law allowed a person to take a -son or -dotter surname for special reasons, and from 1 July 2017 a child can get one at birth [S21]. A modern -son or -dotter surname therefore does not show the old practice.
   - Norway: the first Name Act came on 9 February 1923.
   - Iceland never abandoned patronymics [S9].
 

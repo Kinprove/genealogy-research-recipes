@@ -8,6 +8,7 @@ The recipe covers parish selection, reading the entry field by field, devotional
 - **Index-to-image steps for parish registers:** [Irish parish image recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/irish-catholic-parish-image-recovery.md).
 - **AI-indexed Iberian entries, abbreviation expansion and the margin-note correction loop:** [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
 - **Catalog, film and DGS mechanics and unindexed image browsing:** [FamilySearch practical workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
+- **A Brazilian or Portuguese ancestor:** [Brazilian parish and civil registry recovery](brazilian-parish-civil-registry-recovery.md) or [Portuguese parish and civil register recovery](portuguese-parish-civil-register-recovery.md). Do not use this recipe's civil start years for them.
 
 ## Contents
 
@@ -30,9 +31,9 @@ Gather these before searching:
 - an approximate event date
 - the town or municipality
 - any lead to a parish or civil register
-- the year civil registration began in that country, and whether the municipality complied from that year
+- the year civil registration began in that jurisdiction (the country, or the province where registration was provincial), and whether the municipality complied from that year
 
-The national start years in step 5 have been checked against FamilySearch. Compliance varied by place, so check the local register's actual first year in the Catalog before treating an earlier gap as an absence.
+The start years in step 5 come from FamilySearch and the laws and archive pages cited there. Compliance varied by place, so check the local register's actual first year in the Catalog before treating an earlier gap as an absence.
 
 ## 1. Select the parish, not the town
 
@@ -42,6 +43,7 @@ The national start years in step 5 have been checked against FamilySearch. Compl
 - **Parish and municipality boundaries differ.** One parish can cover several municipalities, and one municipality can contain several parishes [S1].
 - **The FamilySearch Catalog can list a parish and a municipality under the same place name.** The presenter's example reads the first entry as the parish and the second as the municipality [S1]. Open each entry's record list. Do not stop at the first match.
 - **Catholic marriage records can sit in two Catalog series.** The Catalog usually lists them under Matrimonios and Información matrimonial [S14]. Search both when the parish has both, and record which series supplied each entry.
+- **A colonial parish could keep separate books by calidad.** Mexico City's Sagrario parish kept baptism and marriage books for españoles and separate books for castas, while Indians had parishes of their own [S32]. In Valladolid (now Morelia, Michoacán), one book was divided into sections by calidad from 1643, and separate books began in 1652 [S33]. The book followed the calidad the priest assigned, and a person's calidad could vary: one child has entries in both the castas and the españoles books, under the same baptism date [S33]. When a colonial entry is missing, search every book the parish kept for those years, and record which book held the entry.
 - **A small chapel visited by a priest normally kept no books.** If no parish appears for a small town, go up one level to the municipality and search its parish seat [S6].
 - **Records can move when a parish changes.** When a family vanishes from a parish's books, check whether the parish closed, a new parish was founded, or the books were transferred. The people may have stayed put while their records moved [S1]. Follow the books before you infer that the family migrated.
 
@@ -98,7 +100,10 @@ For machine- or AI-indexed versions of these entries, use the correct-and-verify
   - Mexico: civil registration was required from 1859 but not strictly enforced until 1867, and compliance was incomplete even after that (FamilySearch) [S1].
   - Chile: civil registers begin in 1885 [S10].
   - Puerto Rico: civil registration began in 1885, though a few municipalities started earlier [S10].
-  - Any other country: take the start year from the FamilySearch Wiki page "Civil Registration in Latin America" [S21]. Start years differ widely: the Dominican Republic began in 1828 and Bolivia not until 1940 [S21]. Do not assume a late-19th-century start.
+  - Cuba: the Spanish civil-registry law of 1870 applied from 1 January 1885. Before that, search the parish books [S28].
+  - Spain: the Registro Civil starts on 1 January 1871, and some larger towns kept municipal civil registers from 1841. Use step 1 of [Spanish record routing](spanish-civil-parish-record-routing.md), which covers both.
+  - Argentina: there is no single national start year. The 1884 law covered only the city of Buenos Aires and the national territories, and the city registry began in August 1886 [S29], [S30]. Buenos Aires province opened its offices from 1 January 1889 under its own law [S31]. For any other province, take the first year from that province's FamilySearch Catalog entries.
+  - Any other country: use the FamilySearch Wiki page "Civil Registration in Latin America" [S21] only as a first guess. Start years differ widely: the Dominican Republic began in 1828 and Bolivia not until 1940 [S21]. The page gives one national year per country and was last edited in 2021; its years for Argentina (1881), Mexico (1857) and Brazil (1850) differ from the dates above and from the Brazilian recipe [S21]. Confirm the year in the municipality's Catalog entries before you treat an earlier gap as an absence. Do not assume a late-19th-century start.
 
   Before the start year, rely on the parish books [S10]. After it, a missing civil entry in a given municipality may be a compliance gap, so keep searching the parish books.
 - **Build a paired event table.** Each row holds the event, the record type, the date role and the locator. A civil entry and a church entry for the same event stay as two rows.

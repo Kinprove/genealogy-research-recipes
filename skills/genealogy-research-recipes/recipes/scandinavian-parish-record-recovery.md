@@ -9,6 +9,7 @@ Related recipes:
 - [FamilySearch record workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) for FamilySearch Catalog, film and image-route steps.
 - [Evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) for merge, separate and proof rulings.
 - [Archival image coverage](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) for claims that a volume's images are complete.
+- [Scandinavian patronymic and farm names](scandinavian-patronymic-farm-name-record-recovery.md) for Norwegian censuses and emigrant protocols, and Danish censuses and levying rolls.
 
 ## Contents
 
@@ -147,6 +148,8 @@ Genealogy Gems lists several ways the trail can break [S5]:
 
 In these cases, browse the examination volumes by the recorded birth date. Birth dates sit in their own column and are easier to spot than names [S5]. A birth-date hit is only a candidate household. Before you link it, confirm it by matching the other members and the farm, and by at least one independent birth, marriage or death entry. Use any surviving farm or moving references as further support. In these cases their absence is expected and does not block the link.
 
+For Stockholm city from 1878 to 1926, the roteman offices kept the population register because parish registration could no longer keep up. Search the Rotemansarkivet at Stockholms stadsarkiv. Its online database is incomplete; the whole archive is on the computers in the archive's reading rooms. Record which version you searched. [S27]
+
 ### Follow a Norwegian or Danish lead through its separate bulletin index
 
 When a dated move, destination or other independent lead points to Norway or Denmark, check that country's police-bulletin finding aids separately. In its 4 June 2025 demonstration, ArkivDigital described Norwegian name-register volumes outside its Swedish searchable police-notice index, and Danish index sections for people born in Sweden or Norway [S22]. These provide a separate entry route; a Swedish index miss does not search them.
@@ -167,7 +170,7 @@ This route leaves unverified holdings, unindexed fields and Finnish bulletin cov
 ## Do not call it a census
 
 - Everett describes household examinations as registers kept parish by parish by the priest. He says they could be written up at different times of the year, so strictly they are not a government census taken on one day [S2]. Do not give an examination entry a single enumeration date. Cite the volume and its stated year range.
-- Riksarkivet's census database (Folkräkningar) is built from extracts of household examinations and later parish books. You can search it for 1860, 1870, 1880, 1890, 1900, 1910 and 1930. 1920 is not in it. The 1930 census is also compiled from parish-book extracts plus tax registers. It is being added in batches and is limited to people born more than 100 years ago. Use the database as an extract of selected years. It does not cover every year and does not replace the volumes in between. Everett describes it as "1860 through 1920" and says 1930 was left out as Sweden's first national census [S2]. Both statements are wrong, so do not repeat them.
+- Riksarkivet's census database (Folkräkningar) is built from extracts of household examinations and later parish books. It is complete for 1880, 1890, 1900 and 1910. For 1860 it covers only Jämtlands län, and for 1870 only Västerbottens and Norrbottens län. 1920 is not in the database. 1930 is complete for some counties and still being registered for the rest; check the county in Riksarkivet's registration-status table, since a miss outside the registered counties is not a negative [S26]. The 1930 census is also compiled from parish-book extracts plus tax registers, and is limited to people born more than 100 years ago. Use the database as an extract of selected years. It does not cover every year and does not replace the volumes in between. Everett describes it as "1860 through 1920" and says 1930 was left out as Sweden's first national census [S2]. Both statements are wrong, so do not repeat them.
 - Early coverage:
   - The Church Law of 1686 came into effect in 1688 and required household examinations and moving records (FamilySearch Wiki). Brady's "1686" [S1] and Tanner's "1688 law requiring annual examinations" [S4] both refer to this one law.
   - Survival is a separate question from the law. Expect examinations to begin in the 1720s in most parishes and from the 1620s in Dalarna and Västmanland (FamilySearch Wiki). Brady's practical floor is about 1756: from then on you can count on a volume [S1]. For any earlier year, check the parish's holdings in the FamilySearch Catalog.

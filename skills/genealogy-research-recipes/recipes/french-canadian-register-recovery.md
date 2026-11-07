@@ -86,14 +86,20 @@ wording beside your translation.
 
 Do not say Québec had no civil registration before 1994. Clergy and other legally authorized
 officers kept the civil-status registers in duplicate: one copy stayed in the parish, and the
-civil copy went each year to the local court clerk (prothonotary). [S3], [S4] The Civil Code of
+civil copy went each year to the local court clerk (prothonotary). [S3], [S4] The duty to keep
+two copies dates from 7 November 1678, when the Conseil souverain at Québec registered the royal
+Ordonnance of 1667. The Ordonnance also made priests hand the second copy to the civil
+authority after each year. [S6] How far priests complied in the 17th century cannot be
+measured, so do not assume a court copy for every early parish or year. [S6] The Civil Code of
 Québec, in force on 1 January 1994, made the Directeur de l'état civil (registrar of civil
 status) the sole officer of civil status. [S4]
 
 - The court copy is a separately written copy of the same entries. BAnQ holds it once the record
   is more than 100 years old; more recent registers are with the Directeur de l'état civil. [S3]
 - Because the registers were made in duplicate, one copy may survive where the other was
-  destroyed. [S5] When the parish copy is damaged, illegible or missing, look for the other copy.
+  destroyed. [S5] When the parish copy is damaged, illegible or missing, or the entry you expect
+  is not in the copy you read, search the same dates in the other copy. The PRDH team filled some
+  gaps in the parish series from the court copies this way. [S6]
 - Image sets such as the Drouin collection or FamilySearch's Québec Catholic parish registers can
   show either copy. Check which one the image shows, and log the copy you read with the entry.
 
@@ -138,13 +144,18 @@ FamilySearch has "Canada, Quebec, Quebec Judicial District, Guardianships, 1639-
 tutelle, search the judicial series for the district first, then the notary. To search the
 notarial records:
 
-- Québec notarial records are arranged by notary and date, not by the names of the people
-  involved. FamilySearch's "Canada, Quebec, Notarial Records, 1800-1920" is browse-only images
-  with no name index. To browse it, find the notary working in the family's town, or one named in
-  a compiled genealogy. [S1]
-- Start with Ancestry's "Quebec, Canada, Notarial Records, 1637-1935". Many hits there are
-  répertoire (notary's index) pages only. Use a hit as a lead to the notary and act date, then
-  find and inspect the act itself. [S1]
+- For an act before 1810, search Parchemin first. It is an
+  inventory of Québec notarial minutes that gives the names of the parties and the kind of
+  transaction. Its publisher gives its span as 1626–1809 and sells access to institutions only,
+  so ask BAnQ or a genealogical library whether it subscribes. Treat a Parchemin entry as a lead
+  to the notary and act date, then find and inspect the act. [S7]
+- Then, or when Parchemin is not available, search Ancestry's "Quebec, Canada, Notarial Records,
+  1637-1935". Many hits there are répertoire (notary's index) pages only. Use a hit as a lead to
+  the notary and act date, then find and inspect the act itself. [S1]
+- When neither finds the act, browse by notary. Québec notarial records are arranged by notary
+  and date, not by the names of the people involved. FamilySearch's "Canada, Quebec, Notarial
+  Records, 1800-1920" is browse-only images with no name index. To browse it, find the notary
+  working in the family's town, or one named in a compiled genealogy. [S1]
 
 Log notarial leads by notary: the notary's name, the town, the date range browsed, the act
 date/number if shown, and whether you actually inspected the act or only saw a répertoire line. A
@@ -160,8 +171,8 @@ Return the following:
    (parish or court), plus literal wording.
 3. **Register routes:** the post or regional register and its start date, any Notre-Dame de
    Montréal searches (or the unsearched lead), and the date window for each.
-4. **Notarial leads:** grouped by notary, with each marked as inspected act, répertoire only, or
-   not inspected; tutelle searches in judicial series listed by series.
+4. **Notarial leads:** grouped by notary, with each marked as inspected act, répertoire only,
+   Parchemin entry only, or not inspected; tutelle searches in judicial series listed by series.
 5. **Person links:** two separate lists, reconciled and unreconciled.
 
 Name the next register, volume or notary still to be searched. Do not fill the gap with a

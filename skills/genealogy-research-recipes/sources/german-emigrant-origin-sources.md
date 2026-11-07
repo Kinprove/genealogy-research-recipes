@@ -12,7 +12,9 @@
 - **S10:** Ahnenforschung.net Forum, [Auswanderung nach Südamerika - Buenos Aires](https://forum.ahnenforschung.net/forum/thread/177213/), 2021-04-18. Used for: conscription-list entries recording actual mustering in 1879 and 1880, and the conscript's residence field, as departure bounds.
 - **S11:** Ahnenforschung.net Forum, [Auswanderung 1857 aus Hessen, über Bremen nach Amerika.](https://forum.ahnenforschung.net/forum/thread/2999515/), 2026-02-25. Used for: matching census neighbours and a local settlement article to one village's emigrants in LAGIS; the group passenger-list entry; a participant's impression that the village's LAGIS entries begin in 1847.
 - **S12:** Die Maus Bremen / Staatsarchiv Bremen, [Bremen passenger lists database](https://www.public-juling.de/passagierlisten/?lang=en), opened 2026-11-04. Used for: the 3,017 surviving lists of 1920–1939 and their online index, the discarding of 1875–1908 lists older than three years, and the loss of the other lists in World War II.
-- **S13:** Freie und Hansestadt Hamburg, Behörde für Kultur und Medien, [Link to your Roots](https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/projekte-und-initiativen/link-to-your-roots-110216), opened 2026-11-04. Used for: the Staatsarchiv Hamburg emigrant lists covering 1850–1934.
+- **S13:** Freie und Hansestadt Hamburg, Behörde für Kultur und Medien, [Link to your Roots](https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/projekte-und-initiativen/link-to-your-roots-110216), opened 2026-11-04. Used for: the Staatsarchiv Hamburg emigrant lists covering 1850–1934; and, reopened 2026-11-07, the name, place-of-origin and destination fields and the database searchable on Ancestry, in the Staatsarchiv and at the BallinStadt museum.
+- **S14:** Verein für Computergenealogie, [Hamburger Passagierlisten bei Ancestry](https://compgen.de/2019/08/hamburger-passagierlisten-bei-ancestry), 2019-08-09, opened 2026-11-07. Used for: the place shown as the residence (*Wohnort*) in the Ancestry collection, and free access to it in the Staatsarchiv reading room and the BallinStadt family research centre.
+- **S15:** Verein für Computergenealogie, [genealogy.net - Online-OFBs](https://www.online-ofb.de/), read 2026-11-07 in the Internet Archive capture of 2026-11-03 (the live page showed a bot check). Used for: the online Ortsfamilienbücher listed at online-ofb.de, and the large number of books that exist in print.
 
 **What is authored and what the sources supply.** The ordering of steps, the classification of every source, the coverage-bounded wording for a miss and the worksheet are authored synthesis. The presenters supply:
 
@@ -20,11 +22,11 @@
 - the statements about unauthorized emigration and about "Hessian" contingents;
 - the description of HETRINA and of the church-extract series.
 
-Forum participants (S7–S11) supply worked examples of home-side local records, departure windows and chain migration. These are participant reports.
+Forum participants (S7–S11) supply worked examples of home-side local records, departure windows and chain migration. These are participant reports. S12–S15 are archive and society pages; they supply the Bremen and Hamburg list facts and the online Ortsfamilienbuch catalogue.
 
 Corrections to the lectures rest on outside authorities.
 
 ## Credits
 
 - BYU Family History Library / Larry Jensen, Understanding German Records and Jurisdictions, lecture 2022-10-20 — All rights reserved; short attributed quotation (quoted)
-- Kinprove original procedural synthesis drawing on lectures S1-S6 and forum threads S7-S11 as cited — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis drawing on lectures S1-S6 and forum threads S7-S11 as cited, and on the archive and society pages S12-S15, paraphrased — FSL-1.1-MIT (kinprove-original)
