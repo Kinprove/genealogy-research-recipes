@@ -10,10 +10,12 @@ or redacted examples in issues, pull requests and test fixtures.
 From the repository root, use Python 3.11 or newer for both offline test suites:
 
 ```sh
-python3 -B -m unittest discover -s tests -p 'test_*.py'
-python3 -B -m unittest discover -s skills/genealogy-research-recipes/tests -p 'test_*.py'
+python3 -B tests/run_all.py
 python3 scripts/recipe_catalog.py --check
 ```
+
+The runner exits non-zero if either suite fails or collects no tests. The npm
+artifact check skips without npm outside CI; CI requires npm.
 
 The tests use Python's standard library. The root suite also exercises the native
 JavaScript adapter, so have Node.js available. For Markdown lint, use Node.js 22

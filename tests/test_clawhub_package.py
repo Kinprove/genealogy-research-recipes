@@ -1,6 +1,7 @@
 """Regression checks for the Kinprove native ClawHub package."""
 
 import json
+import os
 import shutil
 import subprocess
 import tarfile
@@ -9,6 +10,22 @@ import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+
+
+def tracked_files():
+    """Return the repository's tracked files, so local untracked folders stay out of the pack."""
+    git = shutil.which("git")
+    if git and (ROOT / ".git").exists():
+        result = subprocess.run(
+            [git, "ls-files", "-z"], cwd=ROOT, capture_output=True, check=True, timeout=60,
+        )
+        return [path for path in result.stdout.decode("utf-8").split("\0") if path]
+    ignored = {".git", "node_modules", "__pycache__"}
+    return [
+        path.relative_to(ROOT).as_posix()
+        for path in ROOT.rglob("*")
+        if path.is_file() and not ignored.intersection(path.relative_to(ROOT).parts)
+    ]
 
 
 class ClawHubPackageTests(unittest.TestCase):
@@ -34,7 +51,11 @@ class ClawHubPackageTests(unittest.TestCase):
 
     def test_npm_artifact_ships_only_native_code_and_complete_skill_resources(self):
         npm = shutil.which("npm")
-        assert npm is not None, "npm is required to exercise the real package artifact"
+        if npm is None:
+            if os.environ.get("CI"):
+                self.fail("npm is required in CI to exercise the real package artifact")
+            self.skipTest("npm not installed")
+        tracked = tracked_files()
         skill = ROOT / "skills" / "genealogy-research-recipes"
         expected = {
             "package.json", "index.js", "openclaw.plugin.json", "README.md", "LICENSE", "NOTICE",
@@ -44,11 +65,11 @@ class ClawHubPackageTests(unittest.TestCase):
             "skills/genealogy-research-recipes/NOTICE",
         }
         for directory in ("recipes", "sources", "scripts", "resources"):
+            prefix = (skill / directory).relative_to(ROOT).as_posix() + "/"
             resources = {
-                path.relative_to(ROOT).as_posix()
-                for path in (skill / directory).rglob("*")
-                if path.is_file() and "__pycache__" not in path.parts
-                and path.suffix != ".pyc" and path.name != ".DS_Store"
+                path for path in tracked
+                if path.startswith(prefix) and "__pycache__" not in path.split("/")
+                and not path.endswith(".pyc") and not path.endswith("/.DS_Store")
             }
             self.assertTrue(resources, f"Missing {directory} resources")
             expected.update(resources)
@@ -56,14 +77,22 @@ class ClawHubPackageTests(unittest.TestCase):
         with tempfile.TemporaryDirectory(prefix="kinprove-npm-pack-") as directory:
             temporary = Path(directory)
             source = temporary / "source"
-            shutil.copytree(ROOT, source, ignore=shutil.ignore_patterns(".git", "node_modules", "__pycache__"))
+            for relative in tracked:
+                target = source / relative
+                target.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(ROOT / relative, target)
             (source / "untracked-output.txt").write_text("must not ship\n", encoding="utf-8")
             cache = source / "skills" / "genealogy-research-recipes" / "scripts" / "__pycache__"
             cache.mkdir(parents=True)
             (cache / "lookup_beider_name.pyc").write_bytes(b"must not ship")
+            # Ignore the developer's own ~/.npmrc.
+            userconfig = temporary / "empty-npmrc"
+            userconfig.write_text("", encoding="utf-8")
+            env = {**os.environ, "NPM_CONFIG_USERCONFIG": str(userconfig)}
             result = subprocess.run(
                 [npm, "pack", "--ignore-scripts", "--json", "--pack-destination", str(temporary)],
-                cwd=source, stdin=subprocess.DEVNULL, capture_output=True, text=True, timeout=120, check=False,
+                cwd=source, env=env, stdin=subprocess.DEVNULL, capture_output=True, text=True, timeout=120,
+                check=False,
             )
             self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
             packages = json.loads(result.stdout)
