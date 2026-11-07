@@ -4,11 +4,25 @@
   "private": false,
   "description": "Fact-checked genealogy recipes for DNA evidence, record searches and proof judgment.",
   "license": "FSL-1.1-MIT AND LicenseRef-Third-Party-Content",
+  "author": {
+    "name": "Kinprove",
+    "email": "hola@kinprove.io"
+  },
+  "homepage": "https://github.com/Kinprove/genealogy-research-recipes",
+  "keywords": ["genealogy", "family-history", "dna", "genetic-genealogy", "records", "jewish-genealogy"],
   "repository": {
     "type": "git",
     "url": "https://github.com/Kinprove/genealogy-research-recipes.git"
   },
   "type": "module",
+  "peerDependencies": {
+    "openclaw": ">=2026.9.8"
+  },
+  "peerDependenciesMeta": {
+    "openclaw": {
+      "optional": true
+    }
+  },
   "files": [
     "index.js",
     "openclaw.plugin.json",
