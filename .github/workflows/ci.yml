@@ -112,7 +112,7 @@ jobs:
           fetch-depth: 0
       # The export's D1 guard checks equality with the private source config.
       # Public CI requires the exported config and scans files and all fetched refs.
-      - name: Verify the scanner detects keys deleted from history
+      - name: Verify added-and-deleted keys fail the scan
         run: python3 -B tests/check_secret_scan.py
       - name: gitleaks (pinned image, working tree and history)
         run: bash scripts/check_secrets.sh
