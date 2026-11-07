@@ -88,8 +88,8 @@ Do not say Québec had no civil registration before 1994. Clergy and other legal
 officers kept the civil-status registers in duplicate: one copy stayed in the parish, and the
 civil copy went each year to the local court clerk (prothonotary). [S3], [S4] The duty to keep
 two copies dates from 7 November 1678, when the Conseil souverain at Québec registered the royal
-Ordonnance of 1667. It made priests keep their registers in duplicate and hand the copy to the
-civil authority after each year. [S6] How far priests complied in the 17th century cannot be
+Ordonnance of 1667. The Ordonnance also made priests hand the second copy to the civil
+authority after each year. [S6] How far priests complied in the 17th century cannot be
 measured, so do not assume a court copy for every early parish or year. [S6] The Civil Code of
 Québec, in force on 1 January 1994, made the Directeur de l'état civil (registrar of civil
 status) the sole officer of civil status. [S4]
@@ -144,7 +144,7 @@ FamilySearch has "Canada, Quebec, Quebec Judicial District, Guardianships, 1639-
 tutelle, search the judicial series for the district first, then the notary. To search the
 notarial records:
 
-- For an act before 1810, search Parchemin first when a library gives you access. It is an
+- For an act before 1810, search Parchemin first. It is an
   inventory of Québec notarial minutes that gives the names of the parties and the kind of
   transaction. Its publisher gives its span as 1626–1809 and sells access to institutions only,
   so ask BAnQ or a genealogical library whether it subscribes. Treat a Parchemin entry as a lead

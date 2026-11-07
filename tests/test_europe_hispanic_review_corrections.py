@@ -45,15 +45,16 @@ class EuropeHispanicReviewCorrectionsTests(unittest.TestCase):
         self.assertTrue(any("1870" in s and "Västerbotten" in s and "Norrbotten" in s for s in sentences))
         self.assertNotIn("You can search it for 1860, 1870, 1880", text)
 
-    def test_one_case_in_ten_stays_the_presenters_estimate(self):
+    def test_places_without_a_parish_are_many_and_one_in_ten_stays_attributed(self):
         text = recipe("german-register-image-recovery.md")
-        self.assertIn("One presenter estimates that the birth town and the baptism church match in only about one case in ten.", text)
+        self.assertIn("Many smaller places had no parish of their own. One presenter estimates", text)
         self.assertNotIn("Most towns had no parish of their own", text)
 
     def test_meyers_edition_year_matches_across_recipes(self):
-        self.assertIn("Meyers Orts- und Verkehrs-Lexikon (1912)", recipe("german-register-image-recovery.md"))
+        german = recipe("german-register-image-recovery.md")
+        self.assertIn("Meyers Orts- und Verkehrs-Lexikon (1912)", german)
+        self.assertNotIn("(1912–13)", german)
         self.assertIn("Meyers Orts- und Verkehrs-Lexikon (1912 edition)", recipe("historical-place-name-resolution.md"))
-        self.assertNotIn("(1912–13)", recipe("german-register-image-recovery.md"))
 
     def test_prussian_hospital_books_are_at_the_bundesarchiv(self):
         text = recipe("german-military-record-period-routing.md")

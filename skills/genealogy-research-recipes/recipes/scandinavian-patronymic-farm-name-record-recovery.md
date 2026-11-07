@@ -64,7 +64,7 @@ Write down the parish, register volume and date range you browsed. If you get no
 First search the departure registers kept in the home country:
 
 - Denmark: the Copenhagen police registered emigrants' shipping contracts from 1868 to 1934, and the State Emigration Office from 1934. Rigsarkivet says the registers for 1868–1911 are name-searchable on the Danish Emigration Archives' site; that site's own year list runs to 1920, with 1912, 1917 and 1918 missing. [S23], [S24]
-- Norway: search the police emigrant protocols described below under Norwegian censuses and emigrant protocols.
+- Norway: search the police emigrant protocols in [Use Norwegian censuses and emigrant protocols within their ranges](#use-norwegian-censuses-and-emigrant-protocols-within-their-ranges).
 - Sweden: search the port lists and moving-out registers described in [Swedish household reconstruction](scandinavian-parish-record-recovery.md#before-1869-look-for-emigrants-in-the-moving-out-registers). Emiweb's *Emigranter i svenska kyrkböcker* (formerly Emibas) indexes emigrants from parish registers. It was compiled systematically only for about 1836–1895, and not for Uppsala, Norrbotten or Stockholm counties. It is a subscription database. [S25]
 
 Record the register, years and index you searched. A miss is bounded by them.
@@ -120,7 +120,7 @@ A candidate matches only when several of these discriminators agree. Leave any c
 - **Sibling sets.** Build these from the parents named in each baptism, not from a shared surname. Around a parish's change to fixed surnames, older children may carry the father's patronymic while younger ones carry a fixed surname [S6]. Brady says adult siblings in Sweden chose their own fixed surnames, so two brothers can have different surnames [S1].
 - **Transition dates.** The laws differ by country, and people widely ignored them, so read the actual parish entries:
   - Denmark: a decree in 1828 and a ministerial circular in 1856.
-  - Sweden: Brady places voluntary fixed surnames around the 1880s [S1], and Castillo dates the first changes to about 1860 [S3]. The ordinance of 5 December 1901 on adopting family names (SFS 1901:125) controlled which new family names a parish could enter in the church book. It obliged no one to take a family name, and patronymics were still in use in every registration district in the late 1950s [S19]. The Names Act (SFS 1963:521) took effect on 1 January 1964 [S20]. From 1 January 1983 the law allowed a person to take a -son or -dotter surname for special reasons, and from 1 July 2017 a child can get one at birth [S21], so a modern -son or -dotter surname does not show the old practice.
+  - Sweden: Brady places voluntary fixed surnames around the 1880s [S1], and Castillo dates the first changes to about 1860 [S3]. The ordinance of 5 December 1901 on adopting family names (SFS 1901:125) controlled which new family names a parish could enter in the church book. It obliged no one to take a family name, and patronymics were still in use in every registration district in the late 1950s [S19]. The Names Act (SFS 1963:521) took effect on 1 January 1964 [S20]. From 1 January 1983 the law allowed a person to take a -son or -dotter surname for special reasons, and from 1 July 2017 a child can get one at birth [S21]. A modern -son or -dotter surname therefore does not show the old practice.
   - Norway: the first Name Act came on 9 February 1923.
   - Iceland never abandoned patronymics [S9].
 
