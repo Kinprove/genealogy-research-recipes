@@ -10,7 +10,15 @@
     "clarify": false,
     "read_full": [
       "dna-match-outreach-staging"
-    ]
+    ],
+    "optional_read_sections": {
+      "ai-for-dna-research": [
+        "Verification & privacy discipline"
+      ],
+      "unknown-parentage-wato": [
+        "Ethics and the human layer"
+      ]
+    }
   },
   "assert": {
     "regex_present": [],

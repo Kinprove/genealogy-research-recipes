@@ -13,6 +13,11 @@
         "The mental model (get this right or everything downstream breaks)",
         "What to never trust or delegate (the judgment a human must own)"
       ]
+    },
+    "optional_read_sections": {
+      "evidence-proof-judgment": [
+        "Hard rules — apply these before you rule (the load-bearing directives)"
+      ]
     }
   },
   "assert": {

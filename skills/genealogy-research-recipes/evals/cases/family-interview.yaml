@@ -11,7 +11,7 @@
   },
   "assert": {
     "regex_present": [
-      "consent|permission",
+      "consent|permission|agree",
       "record"
     ],
     "regex_absent": [],

@@ -156,6 +156,18 @@ class BehaviouralHarnessTests(unittest.TestCase):
         failures = deterministic(case, "The database, inscription, burial and death stay distinct.", reads)
         self.assertTrue(any("Unread recipes: evidence-proof-judgment" in failure for failure in failures))
 
+    def test_optional_companion_is_not_mandatory_but_its_rules_must_be_read_if_opened(self):
+        case = next(case for case in load_cases() if case["id"] == "photo-attribution")
+        answer = "The studio interval is 1882–1901; exposure and sitter remain unresolved."
+        reads = {"family-photograph-attribution-and-dating": {"complete": True, "lines": []}}
+        self.assertEqual(deterministic(case, answer, reads), [])
+        recipe = "evidence-proof-judgment"
+        sections = case["expect"]["optional_read_sections"][recipe]
+        reads[recipe] = {"complete": False, "lines": sorted(required_lines(SKILL, recipe, sections))}
+        self.assertEqual(deterministic(case, answer, reads), [])
+        reads[recipe]["lines"] = [1]
+        self.assertTrue(any("Judgment rules not read" in failure for failure in deterministic(case, answer, reads)))
+
     def test_replay_subset_uses_only_selected_fixtures_but_rejects_changed_ones(self):
         previous = {"materials": {"matches.csv": "same", "family.ged": "unselected"}}
         verify_replay_materials(previous, {"matches.csv": "same"})

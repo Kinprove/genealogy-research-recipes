@@ -63,6 +63,8 @@ Recipes named in `read_sections` are mandatory supplements, except alternatives 
 `any_of`. Cases bind required judgment sections to returned body-line spans: opening only a title or
 Goal cannot satisfy them. Denied, unfinished and out-of-scope reads fail even after another
 successful read. A subset replay checks the saved fixtures used by that subset.
+`optional_read_sections` binds the rules of additional judgment recipes when opened; it does
+not require those additional routes. Their rules still need complete coverage.
 Questions in the rubric are bound to exact recipe sentences and their current body line numbers.
 The `.yaml` cases use JSON syntax, a YAML 1.2 subset; headers use the strict subset described
 in [MAINTAINERS.md](MAINTAINERS.md). The offline tier needs only Python's standard library.

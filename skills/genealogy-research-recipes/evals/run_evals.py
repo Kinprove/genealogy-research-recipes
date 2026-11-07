@@ -174,7 +174,8 @@ def deterministic(case, answer, reads, judgments=None, skill=SKILL):
             if (name not in judgments or name in expected.get("read_full", [])) and not evidence["complete"]:
                 failures.append("Task recipe not read in full: " + name)
             elif name in judgments and not evidence["complete"]:
-                sections = expected.get("read_sections", {}).get(name)
+                sections = (expected.get("read_sections", {}).get(name)
+                            or expected.get("optional_read_sections", {}).get(name))
                 if not sections or not required_lines(skill, name, sections) <= set(evidence["lines"]):
                     failures.append("Judgment rules not read: " + name)
     for pattern in case["assert"]["regex_present"]:

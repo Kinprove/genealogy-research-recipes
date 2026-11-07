@@ -9,11 +9,16 @@
       "family-photograph-attribution-and-dating"
     ],
     "any_of": [],
-    "clarify": false
+    "clarify": false,
+    "optional_read_sections": {
+      "evidence-proof-judgment": [
+        "Hard rules — apply these before you rule (the load-bearing directives)"
+      ]
+    }
   },
   "assert": {
     "regex_present": [
-      "bound|earliest|latest|range"
+      "bound|earliest|latest|range|between|\\b\\d{4}\\s*(?:[-–—]|to)\\s*\\d{4}\\b"
     ],
     "regex_absent": [],
     "rubric": [

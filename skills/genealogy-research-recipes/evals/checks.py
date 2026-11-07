@@ -150,7 +150,11 @@ def static_checks(skill=SKILL, cases_dir=HERE / "cases", today=None):
         for name in expected["recipes"] + expected.get("any_of", []) + expected.get("read_full", []):
             if name not in recipes:
                 raise ValueError(f"{case['id']}: missing recipe {name}")
-        for name, sections in expected.get("read_sections", {}).items():
+        required_sections = expected.get("read_sections", {})
+        optional_sections = expected.get("optional_read_sections", {})
+        if set(required_sections) & set(optional_sections):
+            raise ValueError(f"{case['id']}: required and optional section bindings overlap")
+        for name, sections in {**required_sections, **optional_sections}.items():
             if name not in recipes or not sections:
                 raise ValueError(f"{case['id']}: invalid rule-section binding")
             required_lines(skill, name, sections)
