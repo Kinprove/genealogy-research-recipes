@@ -1,7 +1,7 @@
 ## Sources (provenance + dates)
 
 1. Nison, *Мужские имена — индекс Бейдера*, J-Roots Forum, 2011-04-10,
-   [first index post, p32424](https://forum.j-roots.info/viewtopic.php?t=2060#p32424).
+   [first index post, p32424](https://forum.j-roots.info/viewtopic.php?f=98&t=2060#p32424).
    Consulted 2026-10-01. Name forms and article labels are taken from this post;
    later discussion posts are outside the lookup dataset.
 2. Nison, *Женские имена — индекс Бейдера*, J-Roots Forum, 2011-04-10,

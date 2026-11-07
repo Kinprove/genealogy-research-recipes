@@ -20,7 +20,7 @@ router: {"tier": "full", "group": "Featured workflows", "order": 37}
 ## Contents
 
 - Goal
-- Twelve recovery methods
+- Thirteen recovery methods
 - Check the saved record on each intended person
 - Find a researcher or locality helper
 - Prompt-craft and search log
@@ -36,7 +36,7 @@ This recipe owns Ancestry retrieval. For identity and negative-evidence judgment
 read [evidence-proof-judgment.md](evidence-proof-judgment.md); for AI transcription
 and full-text finding aids, read [ai-for-documentary-records.md](ai-for-documentary-records.md).
 
-## Twelve recovery methods
+## Thirteen recovery methods
 
 ### 1. Reset the search state before changing the ancestor
 
@@ -304,7 +304,7 @@ not a rule for every census. Follow any "see sheet / line" reference on the
 original schedule and check informant footnotes when a neighbor supplied the
 household information. See [NARA's 1950 FAQ](https://www.archives.gov/research/census/1950/faqs).
 
-### Check the extent of a selected application packet
+### 12. Check the extent of a selected application packet
 
 Read the collection's front matter before treating selected pension/bounty papers as a
 complete application. Follow the identified applicant and packet boundary into additional
@@ -313,7 +313,7 @@ that extent. Preserve the packet locator alongside the individual image locators
 The [selected-papers demonstration](https://www.youtube.com/watch?v=2TlWZ0KvbxU) supplies this
 extent check, not a guarantee about present collection coverage or access.
 
-### 12. Carry the original locator beyond Ancestry
+### 13. Carry the original locator beyond Ancestry
 
 **Trigger:** Ancestry has an index entry without an image, a Web Records pointer,
 or a different provider finds a page that Ancestry's name search misses.

@@ -9,5 +9,5 @@ def register(ctx):
     ctx.register_skill(
         "genealogy-research-recipes",
         skill_md,
-        description="Fact-checked genealogy recipes: DNA evidence, record searches and proof judgment.",
+        description="Fact-checked genealogy recipes for DNA evidence, record searches and proof judgment.",
     )

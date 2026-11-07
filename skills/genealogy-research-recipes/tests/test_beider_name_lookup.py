@@ -18,7 +18,7 @@ SPEC = importlib.util.spec_from_file_location("lookup_beider_name", HELPER)
 lookup = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(lookup)
 
-MALE_URL = "https://forum.j-roots.info/viewtopic.php?t=2060#p32424"
+MALE_URL = "https://forum.j-roots.info/viewtopic.php?f=98&t=2060#p32424"
 FEMALE_URL = "https://forum.j-roots.info/viewtopic.php?f=98&t=2059#p32423"
 MALE_ENTRIES = [
     ["ХАИМ", "KHAYEM"],
@@ -769,6 +769,27 @@ class BeiderLookupTests(unittest.TestCase):
                     self.assertLessEqual(len(result["results"]), 20)
                     self.assertEqual(completed.stderr, "")
         self.assertEqual(lookup.MANIFEST.read_bytes(), original_data)
+
+    def test_actual_source_urls_match_the_attribution_files(self):
+        skill = HELPER.parents[1]
+        attribution_files = (
+            skill / "NOTICE",
+            skill.parents[1] / "NOTICE",
+            skill / "sources/beider-given-name-variants.md",
+        )
+        indexes = lookup.load_manifest()
+        self.assertEqual(indexes["male"]["url"], MALE_URL)
+        self.assertEqual(indexes["female"]["url"], FEMALE_URL)
+        for path in attribution_files:
+            text = path.read_text(encoding="utf-8")
+            for sex, record in indexes.items():
+                with self.subTest(file=path.name, sex=sex):
+                    self.assertIn(record["url"], text)
+
+    def test_manifest_rejects_a_url_fragment_that_differs_from_the_post_id(self):
+        manifest = fixture_manifest()
+        manifest["indexes"]["male"]["url"] = MALE_URL.replace("#p32424", "#p32423")
+        self.assert_manifest_rejected(manifest)
 
     def test_actual_basheve_key_retains_pesya_and_basheva(self):
         result, code = lookup.run_query(

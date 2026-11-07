@@ -148,6 +148,8 @@ def validate_index(record: dict, snapshot_date: date) -> dict:
         raise ValueError("invalid post id")
     if not isinstance(record["url"], str) or not record["url"].startswith("https://"):
         raise ValueError("invalid source url")
+    if not record["url"].endswith("#" + record["post_id"]):
+        raise ValueError("source url does not point at the post id")
     if not is_https_url(record["archive_url"]):
         raise ValueError("invalid archive url")
     capture_date = record["source_capture_date"]

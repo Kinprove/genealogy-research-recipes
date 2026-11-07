@@ -55,6 +55,34 @@ class ManifestVersionTests(unittest.TestCase):
         self.assertEqual(versions["package.json"], "1.12.0")
 
 
+class ManifestDescriptionTests(unittest.TestCase):
+    def test_all_hosts_carry_one_description(self):
+        descriptions = {
+            name: json.loads((ROOT / name).read_text(encoding="utf-8"))["description"] for name in JSON_MANIFESTS
+        }
+        marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))
+        descriptions[".claude-plugin/marketplace.json"] = marketplace["plugins"][0]["description"]
+        for name, pattern in (
+            ("plugin.yaml", r"^description:\s*(.+?)\s*$"),
+            ("index.js", r'^\s*description:\s*"([^"]+)"'),
+            ("__init__.py", r'^\s*description="([^"]+)"'),
+        ):
+            match = re.search(pattern, (ROOT / name).read_text(encoding="utf-8"), re.MULTILINE)
+            assert match is not None, f"{name} has no description"
+            descriptions[name] = match.group(1)
+        self.assertEqual(len(set(descriptions.values())), 1, descriptions)
+
+    def test_package_json_carries_the_listing_metadata(self):
+        package = json.loads((ROOT / "package.json").read_text(encoding="utf-8"))
+        marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))
+        plugin = marketplace["plugins"][0]
+        for field in ("keywords", "homepage", "author"):
+            with self.subTest(field=field):
+                self.assertEqual(package.get(field), plugin[field])
+        self.assertEqual(package["peerDependencies"]["openclaw"], package["openclaw"]["compat"]["pluginApi"])
+        self.assertIs(package["peerDependenciesMeta"]["openclaw"]["optional"], True)
+
+
 class ReleaseHistoryTests(unittest.TestCase):
     def test_newest_row_is_this_release(self):
         rows = history_rows()
