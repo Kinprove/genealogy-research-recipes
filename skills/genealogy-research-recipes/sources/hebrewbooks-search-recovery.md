@@ -28,7 +28,29 @@
   `fetchSearchBooks` at line 359; the provider stores the supplied value without trimming.
   [Dart String.length documentation](https://api.dart.dev/dart-core/String/length.html)
   confirms that the measurement is UTF-16 code units.
+- Tom Chatt, *Prenumerantn*, [JewishGen InfoFile](https://www.jewishgen.org/InfoFiles/prenumerantn.htm),
+  checked 2026-11-07. Supports the bibliographic details of Berl Kagan's *Sefer HaPrenumerantn*
+  (New York, 1975) and its arrangement as an index by town to the books that list the town's
+  subscribers.
+- Chaim Freedman, [prenumeranten](https://www.jewishgen.org/Rabbinic/infofiles/prenumeranten.htm),
+  JewishGen Rabbinic Genealogy infofile, checked 2026-11-07. Supports subscriber lists as a
+  genealogical source and the family information in rabbinic books' introductions and title pages.
+- JewishGen Rabbinic Genealogy, [resources](https://www.jewishgen.org/Rabbinic/infofiles/resources.htm),
+  checked 2026-11-07. Lists introductions, approbations, responsa and pedigree documents among
+  rabbinic texts used in genealogy.
+- Shahar Mahpod and Yosi Keller, *Auto-ML Deep Learning for Rashi Scripts OCR*,
+  [arXiv:1811.01290](https://arxiv.org/abs/1811.01290), 2018, checked 2026-11-07. Supports the
+  use of commercial OCR packages by HebrewBooks and similar projects and the absence, at the
+  time, of commercial or academic OCR for Rashi script. It is not a measurement of HebrewBooks'
+  current OCR.
+- Otzar HaHochma, [English home page](https://www.otzar.org/otzaren/indexeng.asp), checked
+  2026-11-07. Supports the size (156,000 books), the OCR full-text search and its sale as a
+  paid product.
+- Automated requests to `https://beta.hebrewbooks.org/` and `https://hebrewbooks.org/` on
+  2026-11-07 got mixed answers: several returned HTTP 403 with a Cloudflare challenge, a later
+  one returned HTTP 200, and the pages' content was not inspected. The step therefore asks for a
+  browser check instead of stating the beta site's status.
 
 ## Credits
 
-- Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
+- Kinprove — original distillation and synthesis; the list of what to look for and the OCR and Otzar HaHochma notes paraphrase the JewishGen guides, the 2018 study and the Otzar HaHochma page above — FSL-1.1-MIT (kinprove-original)

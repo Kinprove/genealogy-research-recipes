@@ -118,6 +118,49 @@ The last male and female examples appear under more than one article. Keep every
 article rather than silently choosing the first. Likewise, an unfamiliar-looking form such
 as Песя is a reason to consult the entry, not to guess a connection from its sound.
 
+### Sacred names and their vernacular companions
+
+The index files a Hebrew sacred name and the Yiddish name traditionally paired with it under
+separate article keys, and `--key` does not follow one article to another. A man recorded as
+Лейба in one document can be Yehuda or Aryeh on a gravestone or in a marriage contract. Query
+every key in the row. The pairs are those in Warren Blatt's JewishGen talk on Jewish given names,
+which notes that the origins of some associations are debated. JewishGen's
+[Given Names Data Bases](https://www.jewishgen.org/databases/givennames/) list such double names
+by region. A pair is a search lead, not evidence that two records name one person.
+
+| Sacred name or kinnui | Vernacular companion | Article keys to query |
+| --- | --- | --- |
+| Yehuda; Aryeh | Leib | `YUDE`, `ARYE`, `LEYB` |
+| Naftali; Tsvi | Hirsh | `NAFTOLE`, `HIRSH` (no key for Tsvi) |
+| Binyamin; Ze'ev | Volf | `BENYOMEN`, `ZEV`, `VOLF` |
+| Yissakhar; Dov | Ber | `ISOKHER`, `DOV`, `BER` |
+| Efraim | Fishel | `EFROYEM`, `FISHL` |
+| Asher | Zelig | `OSHER`, `ZELIKMAN` |
+| Uri | Shraga | `URE`, `SHRAGE`, `URSHRAGE` |
+| Menachem | Mendel | `MENAKHEM`, `MAN` (Мендель is filed under MAN) |
+| Meshulam | Zalman | `MESHULEM`, `SHLOYME` (Залман is filed under SHLOYME) |
+| Yehoshua | Falk | `YOSHUE`, `FALK` |
+| Mordechai | Gimpel | `MORTKHE`, `GIMPL` |
+| Eliezer | Lipman | `ELIEYZER`, `LIPMAN` |
+| Chanokh | Zundel | `KHANEKH`, `ZUNDL` |
+
+Some companions already sit inside the sacred name's own article, so `--key` returns them:
+Залман under SHLOYME, Занвель under SHMUEL, Айзик under ITSKHOK, Иосель under YOYSEF and Лазар
+under ELOZER.
+
+### Entries to check against the dictionary
+
+A few entries in the source posts look out of place. The bundled data keep them exactly as the
+posts give them, so check the dictionary article before you rely on one:
+
+| Index | Recorded form | Article in the post | Why to check |
+| --- | --- | --- | --- |
+| Male | `ЗЫСМАН` | `ZISKIND` | ЗУСМАН and ЗЫСЬКА are under ZUSMAN |
+| Male | `МИЛЯ` | `RAKHMIEL`, `SHMUEL` | Eight РАХМ- forms are under IRAKHMIEL; query `--key IRAKHMIEL` and `--key RAKHMIEL` together |
+| Male | `ИОСИЯ` | `HOSHEYE` | The form may belong to another biblical name |
+| Male | `ПЕРЛ` | `BER` | The female index files Перла and Перля under PERLE |
+| Female | `МОША` | `MOYSHE` | MOYSHE is otherwise a male article |
+
 ## Apply the result to records and DNA research
 
 1. Preserve the original spelling and identify the field: given name, double-name element,
@@ -138,6 +181,8 @@ as Песя is a reason to consult the entry, not to guess a connection from its
 ## Fact-check status
 
 The examples and ambiguous entries above were checked directly against the two indexes on
-2026-10-01. Their historical coverage is the index compiler's stated scope. The complete
+2026-10-01. The entries to check were compared with the 2024-12-25 archive captures named in the
+JSON on 2026-11-07, and the companion pairs with Blatt's slides and the bundled keys on the
+same day. The indexes' historical coverage is the compiler's stated scope. The complete
 dictionary articles and the equivalence of any particular person's records have not been
 established by this lookup.

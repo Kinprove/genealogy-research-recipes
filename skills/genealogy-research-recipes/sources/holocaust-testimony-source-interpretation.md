@@ -43,6 +43,43 @@ original synthesis, applying the existing evidence/proof recipe to these source 
 - **H10:** State Archive of the Republic of Mari El, [databases of the archive](https://gosarhivrme.ru/ru/bazy-dannykh-gosudarstvennogo-arkhiva-respubliki-mariy-el),
   opened 2026-11-04. Used for the published lists of citizens evacuated to the Mari ASSR in
   1941–1945 at evacuation.gosarhivrme.ru.
+- **H11:** Yad Vashem, [names database FAQ](https://www.yadvashem.org/archive/hall-of-names/database/faq.html)
+  and [Our Collections](https://www.yadvashem.org/archive/about/our-collections.html), both
+  answering HTTP 403 to automated requests on 2026-11-07 and read only through search-result
+  snippets that day; and [Around a million names of Shoah victims still missing](https://www.jns.org/around-a-million-names-of-shoah-victims-still-missing),
+  JNS interview with the director of the Hall of Names, opened 2026-11-07. Rights: cited
+  reference, not reproduced. Used for Pages collected from the 1950s and again in a 1999 drive,
+  and for records from independent sources shown side by side with fate statements that may
+  differ. The point that a death place may be the submitter's inference is the recipe's own
+  reading of the form, not a Yad Vashem statement.
+- **H12:** Arolsen Archives, [online collections search](https://collections.arolsen-archives.org/en/search)
+  and the e-Guide's [T/D file explanation](https://eguide.arolsen-archives.org/en/archive/overlay/show/513),
+  opened 2026-11-07. Rights: cited reference, not reproduced. Used for the online scans of camp,
+  deportation, forced-labour and postwar records, and for a T/D file being opened on an enquiry
+  about a person, with later enquiries added to the same file. Treating an enquirer's statements
+  like a Page of Testimony is the recipe's own inference.
+- **H13:** Bundesarchiv, [Gedenkbuch](https://apps.bundesarchiv.de/gedenkbuch/) and its
+  [introduction](https://apps.bundesarchiv.de/gedenkbuch/introduction/), opened 2026-11-07.
+  Rights: cited reference, not reproduced. Used for its scope: Jews murdered or dead as a result
+  of persecution who lived in the German Reich within its borders of 31 December 1937 between
+  1933 and 1945.
+- **H14:** Terezín Initiative Institute, [database of victims](https://www.holocaust.cz/en/database-of-victims/),
+  opened 2026-11-07. Rights: cited reference, not reproduced. Used for its scope (about 80,000
+  people deported from the territory of today's Czech Republic and other European countries,
+  most first to Theresienstadt) and for document images shown with some entries.
+- **H15:** JewishGen, [Łódź Ghetto Database](https://www.jewishgen.org/databases/Poland/LodzGhetto.html),
+  opened 2026-11-07. Rights: cited reference, not reproduced. Used for its source: *Lodz-Names:
+  List of the Ghetto Inhabitants, 1940–1944* (1994), with the registry books at the State
+  Archives in Łódź.
+- **H16:** Mémorial de la Shoah, [person search](https://ressources.memorialdelashoah.org/rechav_pers.php)
+  and [Wall of Names](https://www.memorialdelashoah.org/the-memorial/the-spaces-of-the-museum-memorial/the-wall-of-names.html),
+  opened 2026-11-07. Rights: cited reference, not reproduced. Used for the search by name and
+  convoy number and for its coverage of Jews deported from France.
+- **H17:** United States Holocaust Memorial Museum, [Holocaust Survivors and Victims Database](https://www.ushmm.org/remember/resources-holocaust-survivors-victims/database-of-holocaust-survivor-and-victim-names),
+  and JewishGen, [Holocaust Database](https://www.jewishgen.org/databases/holocaust/), opened
+  2026-11-07. Rights: cited reference, not reproduced. Used for the museum database holding only
+  records that name individuals, survivors included, and for JewishGen's collection of camp
+  records, transport lists and other name lists (more than 6 million records as of May 2025).
 
 ## Verification limits
 
@@ -55,4 +92,4 @@ documents support durable source distinctions, not a current platform manual.
 
 ## Credits
 
-- Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
+- Kinprove — original distillation and synthesis; the routing table and the several-Pages rule rest on H11–H17, paraphrased — FSL-1.1-MIT (kinprove-original)

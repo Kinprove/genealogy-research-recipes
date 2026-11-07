@@ -1,5 +1,14 @@
 # Recipe: Recovering HebrewBooks search misses
 
+## Contents
+
+- Goal
+- Mental model
+- What to look for in Hebrew books
+- Decision procedure
+- Prompt patterns
+- Failure modes
+
 ## Goal
 
 Recover a name or passage hidden by Hebrew OCR, catalogue spelling or a query that
@@ -18,6 +27,22 @@ Keep these observations separate; each changes the next useful action.
 | Printed name index | Entries organized by the index's own key | Establish given-name versus surname ordering |
 | Viewer page pointer | A location in a particular scan | Read the printed locator and edition |
 | HTTP 403 | An inaccessible route | Switch discovery route and retain the intended query |
+
+## What to look for in Hebrew books
+
+A person can appear in a Hebrew book without being its subject or author:
+
+- **Subscriber lists (prenumeranten).** Many books printed the names of those who ordered a copy
+  before publication, arranged by town. Berl Kagan's *Sefer HaPrenumerantn* (New York, 1975)
+  indexes which books carry subscribers from which towns. It lists towns, not names, so use it
+  to choose the books, then read each list.
+- **Introductions and title pages.** In rabbinic books these usually give information about the
+  author's family.
+- **Approbations (haskamot), responsa and pedigree documents (yichus briefs)**, which JewishGen's
+  rabbinic-genealogy resources list as genealogical material.
+
+Record whether a name comes from the author, an approbation or a subscriber list, with the
+book's edition and page as in step 6.
 
 ## Decision procedure
 
@@ -52,12 +77,20 @@ Keep these observations separate; each changes the next useful action.
 
    Test one changed letter per probe. The malformed query is a retrieval key:
    **never record `ימקב` as a historical variant of `יעקב` on this basis**.
+   A 2018 study notes that HebrewBooks and similar projects used commercial OCR packages, and
+   that no commercial or academic OCR then handled Rashi script, the typeface of many
+   commentaries. When the passage you need is set in Rashi script, read the page image before
+   recording a miss.
 
 4. **Change discovery route when the surface has failed.** Run
    `site:hebrewbooks.org <Hebrew phrase>` in an external search engine; include the
    OCR-confused spelling when that is the probe. MacDowell demonstrates exactly this
    combination with `site:hebrewbooks.org ימקב`. Also try `https://beta.hebrewbooks.org/`,
-   the enhanced search entry point identified by Brand's 2022 guide.
+   the enhanced search entry point identified by Brand's 2022 guide. On 2026-11-07 automated
+   requests to it and to the main site got mixed answers, some of them HTTP 403 with a Cloudflare
+   challenge, so confirm in a browser that it is still offered. Another large Hebrew library,
+   Otzar HaHochma (`https://www.otzar.org/`), sells OCR full-text search of about 156,000
+   Judaic books.
    **For an inaccessible catalogue, also use the [Shafeh search form](https://shafeh.org/hb/search).**
    It exposes separate title, author and OCR fields. A live title-field query for
    `מסילת ישרים` on 2026-10-03 returned matching record **41768**, alongside partial
