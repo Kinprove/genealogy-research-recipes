@@ -11,6 +11,7 @@ import sys
 import unicodedata
 from datetime import date
 from pathlib import Path
+from urllib.parse import urlsplit
 
 MANIFEST = Path(__file__).resolve().parents[1] / "resources" / "beider-name-indexes.json"
 MAX_LIMIT = 50
@@ -22,6 +23,8 @@ RIGHTS_FIELDS = ("license", "permission", "basis")
 # name look identical to a clean one while never matching it.
 INVISIBLE_CATEGORIES = {"Cc", "Cf"}
 MAX_COMPONENTS_PER_INPUT = 6
+# A dotted DNS name: at least two labels of letters, digits and inner hyphens.
+HOSTNAME = re.compile(r"[a-z0-9]([a-z0-9-]*[a-z0-9])?(\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)+")
 
 
 class SourceUnavailable(Exception):
@@ -115,6 +118,19 @@ def validate_entries(entries: list, entry_count: int) -> list[tuple[str, str]]:
     return rows
 
 
+def is_https_url(value) -> bool:
+    """An https URL with a real host: rejects "https://", "https:///x" and bad ports."""
+    if not isinstance(value, str) or any(char.isspace() for char in value):
+        return False
+    try:
+        parts = urlsplit(value)
+        parts.port  # raises ValueError for a malformed port
+    except ValueError:
+        return False
+    host = parts.hostname or ""
+    return parts.scheme == "https" and bool(HOSTNAME.fullmatch(host))
+
+
 def validate_index(record: dict, snapshot_date: date) -> dict:
     """Validate local entries and keep source metadata for attribution only."""
     if not isinstance(record["title"], str) or not record["title"].strip():
@@ -123,7 +139,7 @@ def validate_index(record: dict, snapshot_date: date) -> dict:
         raise ValueError("invalid post id")
     if not isinstance(record["url"], str) or not record["url"].startswith("https://"):
         raise ValueError("invalid source url")
-    if not isinstance(record["archive_url"], str) or not record["archive_url"].startswith("https://"):
+    if not is_https_url(record["archive_url"]):
         raise ValueError("invalid archive url")
     capture_date = record["source_capture_date"]
     if not isinstance(capture_date, str) or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", capture_date):
