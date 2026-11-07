@@ -36,9 +36,18 @@ There is no route here for:
 
 - Old-Prussian officers
 - Imperial enlisted men in peacetime
-- personnel records of armies other than the Prussian one
+- full routes for personnel records of armies other than the Prussian one (for First World War rolls, see the list below)
 
 Do not reuse the Prussian loss findings for those armies. Give each such man a row marked *route not covered here*. Find out which archive holds that state's records before you record any series as destroyed or searched. For Austro-Hungarian service of men from Galicia and Bukovina, see [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md), steps 5 to 8.
+
+**First World War soldier of another German contingent.** Write to the archive that holds that state's army records:
+
+- **Bavaria:** Bayerisches Hauptstaatsarchiv, Abteilung IV Kriegsarchiv, Munich [S9]. Its Kriegsstammrollen (wartime muster rolls) of 1914–1918 are on Ancestry as "Bavaria, Germany, World War I Personnel Rosters, 1914-1918" [S10].
+- **Württemberg:** Hauptstaatsarchiv Stuttgart [S9]. The Kriegsstammrollen are filed by unit, for example M 493 for the Landsturm infantry battalions, and some volumes are online [S11].
+- **Baden:** Generallandesarchiv Karlsruhe [S9]. The Kriegsstammrollen of 1914–1918 are in 456 C and the Kriegsranglisten in 456 D [S11].
+- **Saxony:** Hauptstaatsarchiv Dresden [S9]. Personnel lists of 1914–1918 survive in at least some units' files, so ask for the unit's finding aid [S13].
+
+For a Prussian soldier, most Prussian army files burned at Potsdam in 1945 [S9]. Use the casualty lists and the hospital books (§ 4) instead.
 
 ## 2. Old-Prussian army (1714–1806): the Stammrollen are gone, so work from church books and the canton
 
@@ -87,6 +96,10 @@ A lost personnel file need not end a service inquiry. The 2022 Bundesarchiv pres
 describes surviving Krankenbuchlager material and *Lazarettbücher* that can document
 particular hospital stays [S8]. Select this route for the period and holding actually
 confirmed by the custodian; it does not extend the Prussian loss findings to other armies.
+
+The surviving books of the Krankenbuchlager Berlin, which held the hospital books of
+Prussian soldiers, are in the Bundesarchiv (Abteilung PA). The depots for the other armies
+in Dresden, Stuttgart and Munich were destroyed in the Second World War [S12].
 
 1. Give the archive the independently supported name, birth details and any hospital,
    unit or date clues you have. Ask which surviving hospital book or associated finding
