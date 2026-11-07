@@ -63,16 +63,11 @@ Choose these from the person's known biography (places of work, study, military 
 
 ## 6. Switch to ZAGS registers when the territory changed over
 
-The Soviet decree on civil registration is dated 18 (31) December 1917, but the changeover did not happen everywhere at once:
-
-- Civil registration was already working in Vitebsk guberniya in 1918. In Gorodok (Vitebsk guberniya), births, marriages and deaths were being recorded by October 1918.
-- Moscow's Glavarchiv publishes Jewish metrical books only up to 1918.
-- Elsewhere the switch came later, into the early 1920s. In western areas outside Soviet control it came much later still.
-- Participants give 1919/1920 or 1919/21 as the end of the crown rabbinates. [S3] Treat that as their regional experience, not a general date.
+Establish the changeover from the actual local books or a dated archive description. Participants give 1919/1920 or 1919/21 as the end of the crown rabbinates. [S3] Treat that as their regional experience, not a general date or proof that a particular place had already changed to civil registration. A portal's last published book does not establish when local registration changed.
 
 For the transition years, search both the rabbinate books and the ZAGS registers until you know the actual changeover date for that place.
 
-A participant reported that ZAGS books up to about 1926 sit in the oblast archive and later books stay with ZAGS. [S3] Treat that cut-off as reported practice only. Custody rules differ by country and region (in Russia, for example, they follow a 100-year retention period), so confirm them with the archive for the country concerned.
+A participant reported that ZAGS books up to about 1926 sit in the oblast archive and later books stay with ZAGS. [S3] Treat that cut-off as reported practice only. Confirm the current custody and access rule with the archive for the country and region concerned; the reported cut-off is not a retention rule.
 
 An early-Soviet village birth can produce the same layered replies as section 3. In one case a user received separate replies: "not preserved" for some years, "entry not found" for another year, and a further reply about a church parish book. Record each reply as its own row. [S3]
 

@@ -46,6 +46,8 @@
 - **S44:** A Vision of Britain through Time (GB Historical GIS / University of Portsmouth), [History of Cwm, in The Vale of Glamorgan](https://www.visionofbritain.org.uk/place/23266), opened 2026-11-06 (read from the search result). Used for: Wilson's *Imperial Gazetteer of England and Wales* (1870–72) describing Cwm as a village in Penmark parish.
 - **S45:** UK Genealogy Archives, [Penmark, Glamorgan](https://ukga.org/index.php?pageid=16829), opened 2026-11-06. Used for: the *Comprehensive Gazetteer of England & Wales* (1894–5) listing Cwm among the villages of Penmark parish.
 
+- **S46:** U.S. Geological Survey / U.S. Board on Geographic Names, [What is the Geographic Names Information System (GNIS)?](https://www.usgs.gov/us-board-on-geographic-names/what-geographic-names-information-system-gnis), checked 2026-11-07. Used for: the 2021 removal of the listed administrative/man-made feature classes from GNIS and the distinction from natural features and retained classes. Removal from GNIS is not evidence that the historical feature never existed.
+
 **How the procedure was built.** The procedure is authored synthesis that combines these presenters' case examples and forum participants' worked threads. The synthesis includes:
 
 - the stage order and the minimum passes in §8

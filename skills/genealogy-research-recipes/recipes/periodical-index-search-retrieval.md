@@ -45,7 +45,7 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
   - the publisher or society
   - other repositories, such as FamilySearch holdings or a state memory project
   - WorldCat holdings and interlibrary loan
-  - a copy order from ACPL. One presenter treats this as the fallback when no other copy turns up. ACPL takes requests by email to <genealogy@acpl.info> with the citation, or on its order form.
+  - a copy order from ACPL. One presenter treats this as the fallback when no other copy turns up. The presenter describes emailing the citation to ACPL for a copy quote [S2]. ACPL's contact page, checked 2026-11-07, confirms <genealogy@acpl.info> for the Genealogy Center. [S20] Ask for the current article-order procedure and quote rather than treating the old form or fee as current.
 
   [S2], [S3], [S6], [S7], [S8], [S9]
 - **Confirm ACPL's current order terms before relying on them.** Presenters in 2021–22 mentioned these terms, and none has been confirmed as current:
