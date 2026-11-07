@@ -9,6 +9,8 @@
 - **S7:** Library and Archives Canada, [About the Census - Census of Canada, 1891](https://epe.lac-bac.gc.ca/100/201/301/news_release_lac/2009/03-13/databases/census-1891/001081-2000-e.html), 2009 page kept in LAC's web archive, opened 2026-11-07. Used for: the 1891 population counted "as it existed on April 5, 1891".
 - **S8:** Dominion Bureau of Statistics, [Canada Year Book 1927–28, p. 101](https://www66.statcan.gc.ca/eng/1927-28/192701430101_p.%20101.pdf), hosted by Statistics Canada, opened 2026-11-07. Used for: census dates of April 5, 1891 and June 1, 1911. It gives April 1, 1901 where LAC gives March 31; the recipe follows LAC, whose 1901 age column counts years completed before March 31.
 
+- **S9:** Library and Archives Canada, [1931 Census of Canada launch: Phase two complete!](https://www.canada.ca/en/library-archives/corporate/updates/2023/1931-census-phase-two-complete.html), checked 2026-11-07. Used for: the free searchable 1931 census index in Census Search, developed with Ancestry and FamilySearch, replacing the temporary June 2023 image database. The collaboration is asserted for 1931, not every index in Census Search.
+
 The following are authored synthesis:
 
 - the annotated-observation fields
