@@ -139,7 +139,7 @@ name, copied the file reference and then requested the file [S2]. Do the same:
 
 Book before you go. The presenter's 2019 description of walk-in, same-day service is out of date
 for Philadelphia. Its page, checked 2026-11-07, lists the research room as appointment-only, Monday to Friday,
-9 a.m. to 4 p.m., and gives <philadelphia.archives@nara.gov> and 215-305-2044. [S9]
+9 a.m. to 4 p.m., and gives <philadelphia.archives@nara.gov> and 215-305-2044. [S9 @2026-11-07]
 Recheck those hours and contact details before booking. For any other facility,
 check its current page for appointment and remote-request rules.
 

@@ -4,7 +4,7 @@
 
 The objective is to make an assertion traceable to its evidence and recorded access
 limits, and to expose missing checks before a release. Earlier corrections (#65,
-#76, #78, #83 and #96) fixed individual defects and routing metadata. They did not
+issues #76, #78, #83 and #96) fixed individual defects and routing metadata. They did not
 create a claim-to-source contract. #77, #81, #82 and #84 remain separate work; this
 migration must preserve their findings rather than declare them resolved.
 

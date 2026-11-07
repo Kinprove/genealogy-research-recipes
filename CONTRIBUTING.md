@@ -46,7 +46,10 @@ from your inference, and keep dates, access limits and uncertainty visible. Upda
 the corresponding `sources/<slug>.md` when its evidence or attribution changes.
 
 Follow [MAINTAINERS.md](MAINTAINERS.md) for recipe headers, source-check dates,
-new-recipe exports and privacy declarations. An outbound action needs its privacy
+source/claim ledgers, new-recipe exports and privacy declarations. Give provenance
+reports a stable locator such as `recipe-slug#S12` or `recipe-slug#C-claim-id`, the
+defect class, exact passage, observed access status and observation date. An
+outbound action needs its privacy
 checkpoint, capability declaration and reviewed inventory entry. An existing
 inventory entry or a passing test does not itself establish permission.
 
