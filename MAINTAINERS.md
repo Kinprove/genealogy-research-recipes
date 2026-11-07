@@ -18,7 +18,7 @@ are rejected. The schema is enforced by
 | `triggers` | Nonempty list of task phrases; additional phrases appear in full router entries. |
 | `privacy` | `none`, `living-person`, `genetic-self`, or `genetic-third-party`. This describes the gated data, not permission. |
 | `gates` | `privacy-transfer` for any extension, data-transfer or contact action; otherwise empty. |
-| `guardrails` | Nonempty list of `{id, text}` objects; IDs are globally unique. The router copies the first rule verbatim, apart from wrapping. |
+| `guardrails` | Nonempty list of `{id, text}` objects; IDs are globally unique. Full router entries copy the first rule verbatim, apart from wrapping; topic pointers defer to the header. |
 | `handoff` | Recipe IDs to consult next; all must exist. Local recipe links and code filenames are also checked. |
 | `checked`, `checked_basis` | ISO date and an exact dated excerpt from the source sidecar, or both `null` when no dated check is recorded. |
 | `capabilities` | String lists for `browse`, `local_script`, `extensions`, `data_transfer`, and `contact`. Described actions, not automatically executed tools. |

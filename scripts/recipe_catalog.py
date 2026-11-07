@@ -218,7 +218,7 @@ def wrap(text):
 def render_router(catalog):
     lines = [ROUTER_START, "## Recipes", "",
              "Generated from the recipe headers. Full entries give task triggers and the first guardrail.",
-             "The topic pointers give a summary and the same first guardrail; read their headers for triggers,",
+             "The short topic pointers are discovery links; their recipe headers carry the triggers, guardrails,",
              "capabilities and handoffs. Both tiers require reading the recipe before advising.",
              "A dated source check is a maintenance reminder, not verification of every claim or live control.", ""]
     group = None
@@ -238,7 +238,7 @@ def render_router(catalog):
             tasks = "; ".join(m["scope"]["tasks"])
             extra = [s for s in m["triggers"] if s.casefold() not in tasks.casefold()]
             lines += [wrap("*Use for:* " + "; ".join([tasks] + extra))]
-        lines += [wrap("*Core guardrail:* " + m["guardrails"][0]["text"])]
+            lines += [wrap("*Core guardrail:* " + m["guardrails"][0]["text"])]
         if m["kind"] == "platform":
             lines += [wrap(f"*Dated source check:* {m['checked']}.")]
         lines += [""]

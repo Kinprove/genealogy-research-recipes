@@ -137,7 +137,7 @@ shared with others. Refer to them by role, for example "a witness".
 ## Recipes
 
 Generated from the recipe headers. Full entries give task triggers and the first guardrail.
-The topic pointers give a summary and the same first guardrail; read their headers for triggers,
+The short topic pointers are discovery links; their recipe headers carry the triggers, guardrails,
 capabilities and handoffs. Both tiers require reading the recipe before advising.
 A dated source check is a maintenance reminder, not verification of every claim or live control.
 
@@ -595,99 +595,66 @@ A dated source check is a maintenance reminder, not verification of every claim 
 - **`recipes/us-vital-registration-coverage.md`** — Build a U.S. vital-registration coverage register before calling a birth or death record missing.
   Build a register of every U.S. birth and death registration authority and series before calling a
   record missing.
-  *Core guardrail:* the statewide mandate year is not the first year of coverage, and one county
-  index miss is not "no record exists".
 
 - **`recipes/us-church-record-custody.md`** — Find the custodian of a U.S. church record before calling it missing.
   Work out the denominational branch, congregation and current custodian of a U.S. church record.
-  *Core guardrail:* do not report "not found" or "records lost" until that custody path has been
-  checked.
 
 - **`recipes/missing-marriage-jurisdiction-search.md`** — Search candidate jurisdictions for a missing marriage.
   Replace a marriage missing from the couple's home county with a dated, ranked list of candidate
   jurisdictions.
-  *Core guardrail:* one county miss is not a finished search; report a gap only after every ranked
-  candidate is searched or recorded as unavailable.
 
 - **`recipes/early-new-england-town-records.md`** — Read early New England town books across parent towns and decode Torrey entries.
   Resolve village names to recordkeeping towns, read early New England town books across parent,
   daughter and neighbouring towns, preserve foundling narrative fields and decode Torrey's marriage
   notation.
-  *Core guardrail:* decode a Torrey entry before using it, and record which whole volumes were read.
 
 - **`recipes/quaker-meeting-record-recovery.md`** — Recover a Quaker ancestor from monthly-meeting minutes and removal certificates.
   Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both
   removal-certificate series.
-  *Core guardrail:* check that Hinshaw covers the meeting, decode the meeting before placing the
-  entry, and keep each numbered date exactly as written.
 
 - **`recipes/catholic-parish-diocesan-record-recovery.md`** — Recover a Catholic sacramental entry through parish, diocesan and successor holdings.
   Build a holdings register for a Catholic sacrament across the parish, alternative parishes, the
   diocesan copy, the successor custodian, dispensation files and Puerto Rican probanzas de soltería.
-  *Core guardrail:* one failed parish search or online collection does not show that the entry never
-  existed or that the register was lost.
 
 - **`recipes/catholic-sacramental-cross-notations.md`** — Follow Catholic baptism–marriage cross-notations between parishes.
   Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another
   parish.
-  *Core guardrail:* indexes drop the baptism-place statement and the later marriage note, so read
-  the original page in both directions.
 
 - **`recipes/hispanic-catholic-register-recovery.md`** — Recover a Mexican or Hispanic Catholic ancestor across parish and civil registers.
   Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers.
-  *Core guardrail:* select the parish, not the town, search every surname arrangement, and never
-  copy a baptism date into the birth field.
 
 - **`recipes/portuguese-parish-civil-register-recovery.md`** — Recover a Portuguese ancestor in the parish and civil registers of mainland Portugal, the Azores and Madeira.
   Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books
   or the civil register.
-  *Core guardrail:* do not treat Portuguese records like Spanish or Hispanic ones: choose the
-  register by date and religion, find which archive holds the book before calling it missing, and do
-  not read the first surname as the father's.
 
 - **`recipes/brazilian-parish-civil-registry-recovery.md`** — Recover a Brazilian ancestor in parish books, registry-office records and their substitutes.
   Find a Brazilian baptism, church marriage or burial, or a civil birth, marriage or death entry,
   and rebuild a family when the parish books are lost.
-  *Core guardrail:* build the dated jurisdiction chain first: a civil entry belongs to the registry
-  district of its date and a church record to its mother parish, and a short-form certificate omits
-  fields that the full text (inteiro teor) holds.
 
 - **`recipes/french-canadian-register-recovery.md`** — Recover French-Canadian ancestors from combined registers, post and Montréal entries and notarial acts.
   Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal
   entries and notarial acts.
-  *Core guardrail:* do not call the person absent until the French-Canadian name forms are
-  exhausted.
 
 - **`recipes/french-belgian-civil-act-extraction.md`** — Extract French and Belgian civil acts field by field.
   Extract French or Belgian civil acts, trace French marginal continuations and separately
   maintained copies, and check Paris reconstructions when the original series is unavailable.
-  *Core guardrail:* bind each annotation to its subject and copy; keep record and event dates apart,
-  and convert Republican dates with a tool, never by arithmetic.
 
 - **`recipes/dutch-civil-church-record-recovery.md`** — Recover Dutch civil acts and the pre-1811 church register behind them.
   Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian
   agreements; search burial/fee entries under the household head and trace pre-1811 church
   registers.
-  *Core guardrail:* an index miss is not absence, and a father, death date or sibling set from a
-  compiled tree needs the original entries.
 
 - **`recipes/amsterdam-archival-record-recovery.md`** — Recover and read an Amsterdam City Archives register entry.
   Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register
   entry.
-  *Core guardrail:* read the entry by its register type, not by the index label; an ondertrouw is a
-  registration, not a wedding.
 
 - **`recipes/scandinavian-parish-record-recovery.md`** — Reconstruct a Swedish household through parish examination and moving registers.
   Reconstruct a Swedish household through the household-examination, birth, marriage, death and
   moving registers.
-  *Core guardrail:* follow the family by farm and page cross-reference, not by patronymic, and
-  settle identity at the household level.
 
 - **`recipes/scandinavian-patronymic-farm-name-record-recovery.md`** — Recover a Scandinavian emigrant's home-parish entries under patronymic, farm and soldier names.
   Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic,
   farm and soldier names.
-  *Core guardrail:* the American surname is usually not the register name; separate same-named
-  parishioners by birth date, parents, spouse and farm, never by name alone.
 
 ### Country record routing
 
@@ -695,29 +662,19 @@ A dated source check is a maintenance reminder, not verification of every claim 
   Send an Italian birth, marriage or death to the register that was the legal record in that place
   and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato
   civile), then search conscription lists and the population register as separate series.
-  *Core guardrail:* date civil registration by the state that ruled the place, not by one national
-  year; an Antenati name-search miss or a missing year is a coverage gap, not proof of absence.
 
 - **`recipes/historic-hungary-record-routing.md`** — Route a record from historic Hungary by county, successor state and record type.
   Route a birth, marriage, death, census or tax entry from the pre-1920 Kingdom of Hungary by
   county, successor state and record type.
-  *Core guardrail:* today's border does not pick the holder; fix the county in the event year, and
-  search the 1828 national conscription centrally wherever the village lies today, outside
-  Transylvania.
 
 - **`recipes/austrian-confessional-register-routing.md`** — Route an Austrian or Czech-lands vital event to the confessional register that recorded it.
   Route an Austrian or Czech-lands vital event to the register that legally recorded it: a
   confessional register, the 1870 register for people outside a recognised church, or the regional
   archive that now holds the books.
-  *Core guardrail:* do not look for a Standesamt record before the 1938 changeover, and a Catholic
-  baptism or burial does not show that a Viennese family had no Jewish origin.
 
 - **`recipes/spanish-civil-parish-record-routing.md`** — Route a Spanish or Andorran record to the archive that holds it on the event date.
   Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the
   body that holds it on the event date.
-  *Core guardrail:* the Registro Civil starts in 1871, the diocese does not follow the modern
-  province, and a parish book is not lost until the diocesan survival list and duplicates are
-  checked.
 
 - **`recipes/french-departmental-record-routing.md`** — Route French records by département, creator, series and access rule.
   Route French civil, census, military, property, notarial, medal, consular, OFPRA refugee and
@@ -727,449 +684,297 @@ A dated source check is a maintenance reminder, not verification of every claim 
   admissions; follow missing Léonore dossiers into published nominations and named prisons through
   tables to admission entries; distinguish recruitment stages and JMO context, adoption-date
   references, Basque house-entry names and Breton marriage decrees.
-  *Core guardrail:* there is no national index; fiscal cases do not prove ownership or a complete
-  heir list, an unindexed census miss is not absence, matricules use classe and bureau, and
-  recruitment or unit records do not establish individual service.
 
 - **`recipes/swedish-military-record-routing.md`** — Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period.
   Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his
   type and period.
-  *Core guardrail:* classify the man as allotted, enlisted, navy, officer or conscript before
-  choosing a series; a soldier name labels the *rote*, not the man, and a nil counts only inside
-  what the index covers.
 
 - **`recipes/australia-nz-record-routing.md`** — Route an Australian or New Zealand record to the holder and window of its date.
   Route an Australian or New Zealand birth, marriage, death, electoral roll, arrival, newspaper
   notice, Māori Land Court record or Aboriginal agency file to the holder and date window of its
   record.
-  *Core guardrail:* a pre-separation event belongs to today's state registry, and a miss inside a
-  closure window or outside a digitised run is not a negative.
 
 - **`recipes/canadian-provincial-record-routing.md`** — Route a Canadian vital, military or Indigenous-series record to its province, custodian and access category.
   Route a Canadian vital registration, world-war personnel file, Métis or First Nations record, or
   British Home Child to the province, custodian and access category of its date and series.
-  *Core guardrail:* Canadian vital records are not one national system; a miss past an archive's
-  release cut-off or inside a registration gap is not an absence.
 
 ### Irish and British records
 
 - **`recipes/england-wales-gro-index-recovery.md`** — Read England and Wales GRO and FreeBMD index entries as registration observations.
   Read England and Wales GRO and FreeBMD index entries as registration observations.
-  *Core guardrail:* an entry gives a registration quarter, district and locator, not an event date,
-  birthplace, spouse pairing or parentage.
 
 - **`recipes/english-nonregister-record-recovery.md`** — Recover English records beyond the parish register.
   Take an English or Welsh question past the parish register to poor-law, apprenticeship, pre-1858
   church-court probate, dissenter or Catholic series, and Welsh marriage supplements with house/farm
   clues.
-  *Core guardrail:* a silent parish register does not make the question unanswerable; record which
-  series do not cover the case.
 
 - **`recipes/uk-census-and-1939-register-interpretation.md`** — Read England and Wales censuses and the 1939 Register under each year's own rules.
   Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own
   rules.
-  *Core guardrail:* settle the year's image, writer, reference night and coverage before reading any
-  value as presence, age or status.
 
 - **`recipes/scottish-parish-statutory-record-recovery.md`** — Recover a Scottish birth, marriage or death across parish and statutory registers.
   Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry
   and kirk-session records.
-  *Core guardrail:* register gaps and unsearched denominations are coverage still to search, not
-  proof that the event did not happen.
 
 - **`recipes/irish-civil-registration-jurisdiction-recovery.md`** — Recover an Irish civil-registration certificate and its jurisdiction chain.
   Carry an Irish civil-registration index entry or townland lead to the matching certificate and its
   jurisdiction chain.
-  *Core guardrail:* the index film is not the certificate and the registration quarter is not the
-  birth date; keep same-named townlands and civil versus Catholic parishes apart.
 
 - **`recipes/irish-probate-and-deed-recovery.md`** — Recover an Irish will, grant or deed after the 1922 losses.
   Recover an Irish will, administration or deed after the 1922 losses through the surviving
   calendars, will books, indexes and the Registry of Deeds, north and south.
-  *Core guardrail:* a calendar entry is neither the will nor proof that it survives, and a Registry
-  of Deeds nil does not show that no land or transaction existed.
 
 - **`recipes/irish-emigrant-origin-locality.md`** — Resolve an Irish emigrant's origin locality from a place statement.
   Resolve an Irish place named by an emigrant's records or family tradition to a searchable
   locality.
-  *Core guardrail:* a named town is a lead of unknown administrative level, not the birthplace, and
-  surname presence or a matching farm name does not prove origin.
 
 - **`recipes/irish-land-valuation-occupancy-series.md`** — Read Irish valuation, tithe and estate-rental lists as dated occupancy series.
   Read Griffith's Valuation, tithe books, valuation revisions and estate rentals as dated occupancy
   series.
-  *Core guardrail:* these lists are not household censuses, and an occupier change is not
-  father-to-son inheritance.
 
 - **`recipes/irish-1901-1911-census-returns.md`** — Search, retrieve and read the Irish 1901 and 1911 census returns.
   Search, retrieve and read the Irish 1901 and 1911 census returns.
-  *Core guardrail:* a name-search miss is not absence until the townland is shown to have online
-  returns; read ages and every column under that year's printed instructions.
 
 - **`recipes/convict-transportation-record-chain.md`** — Reconstruct a transported convict as a chain of record episodes.
   Rebuild a transported British convict's sentence as a chain of dated record episodes.
-  *Core guardrail:* one index entry never stands for the whole chain; each episode keeps its own
-  series, locator and date role.
 
 ### German records
 
 - **`recipes/german-register-image-recovery.md`** — Recover a German register entry through its locality, record offices and register version.
   Trace an emigrant's German place name to its church or civil register entry through the locality,
   record offices and register version; retain distinct named sponsor and proxy roles.
-  *Core guardrail:* do not take the first same-named town, assume it kept its own records, or cite a
-  derivative as the original.
 
 - **`recipes/german-emigrant-origin-sources.md`** — Trace a German emigrant's home town through emigration files, indexes and the parish register.
   Trace a German emigrant's home town through emigration files, indexes and the origin parish
   register.
-  *Core guardrail:* a miss in permission files or a regional index does not prove that the person
-  did not come from that state; confirm every hit in the original register.
 
 - **`recipes/german-local-census-registration-recovery.md`** — Recover German local census lists and residential-registration entries.
   Recover German nominal census lists (roughly 1816–1916), residential-registration entries and
   associated settlement or trade-permission files.
-  *Core guardrail:* "we have no census" is not proof of absence, statistical tables are not the
-  record, and a stated origin town is not the birthplace. Request associated files separately; a
-  residence occupation does not establish municipal employment.
 
 - **`recipes/german-military-record-period-routing.md`** — Route a German soldier to the military series that survive for his period, army and rank.
   Route a German soldier to the series that survive for his period, army and rank class; recover
   dated hospital-book episodes when personnel files are missing.
-  *Core guardrail:* a canton, gazette notice or casualty-list line is a lead, never a birthplace,
-  death date or identity.
 
 - **`recipes/nazi-era-ancestry-proof-records.md`** — Find and read a Nazi-era ancestry proof as a certified copy of register entries.
   Find and read a Nazi-era ancestry proof (Ahnenpass, Ahnentafel, certified extracts) and route the
   search by the role that required it.
-  *Core guardrail:* a proof is a certified copy of register entries; open the entry behind each line
-  and keep regime labels apart from evidence.
 
 - **`recipes/german-official-gazette-notice-search.md`** — Read German official-gazette personnel, expulsion and expatriation notices as dated administrative notices.
   Read German gazette personnel, expulsion and expatriation notices as dated acts by a named
   authority.
-  *Core guardrail:* a notice does not show residence in the district, prove a departure or confirm
-  identity.
 
 - **`recipes/german-compensation-file-recovery.md`** — Recover a German compensation file from a Lastenausgleich or Wiedergutmachung index hit.
   Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it.
-  *Core guardrail:* a hit does not show who filed, which relatives the file names or that the
-  indexed person is yours, and a no-hit does not mean no file mentions a relative.
 
 ### Russian Empire and Soviet records
 
 - **`recipes/russian-orthodox-metrical-book-recovery.md`** — Recover a Russian Orthodox metrical-book entry through the period parish, the consistory copy and its margin notes.
   Locate and read a Russian Orthodox metrical entry through the period parish, the consistory copy
   and its margin notes.
-  *Core guardrail:* margin decrees are separate dated events, and names and patronymics are
-  hypotheses, not proof of descent.
 
 - **`recipes/russian-empire-jewish-metrical-book-recovery.md`** — Recover a Russian-Empire Jewish metrical entry through the registering rabbinate and its substitutes.
   Find the crown rabbinate that registered a Jewish community in the event year, check its book's
   survival and list named substitutes.
-  *Core guardrail:* synagogues or a large Jewish population do not show that a place had its own
-  crown rabbi, so do not search for "the village's" book.
 
 - **`recipes/russian-revision-list-household-chaining.md`** — Chain a Russian-Empire revision-list household across copies, sections and revisions (Urals evidence).
   Chain a non-Jewish revision-list household across copies, sections and revisions.
-  *Core guardrail:* a central and a local copy are not two confirmations, and Urals fond numbers and
-  age patterns must be checked locally.
 
 - **`recipes/muscovite-census-settler-origin-recovery.md`** — Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books.
   Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and
   fugitive-inquiry books.
-  *Core guardrail:* each book is a copy-specific observation, and a stated origin stays testimony
-  until a departure-side entry matches.
 
 - **`recipes/russian-estate-registration-status.md`** — Read a Russian-Empire estate label as a dated registration status and choose the series by date.
   Read a Russian-Empire estate label as a dated registration status and choose the record series by
   the date it was acquired.
-  *Core guardrail:* the town in the label is not the birthplace or residence, and a factory or
-  rural-inhabitant label is not a job.
 
 - **`recipes/russian-volost-town-administration-records.md`** — Find household-level series in volost, village-society and town-administration fonds.
   Find household-level lists in volost, village-society and town-administration fonds when metrical
   books or revision lists stop.
-  *Core guardrail:* do not stop at church registers and revision lists, and an inventory title stays
-  a lead until the file is inspected.
 
 - **`recipes/old-believer-sectarian-record-recovery.md`** — Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds.
   Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district
   and police fonds.
-  *Core guardrail:* absence from the ordinary Orthodox books does not mean the family went
-  unrecorded; a confession label is a dated administrative classification.
 
 - **`recipes/orthodox-clergy-record-recovery.md`** — Rebuild a Russian Orthodox cleric's career and household from directories, eparchial gazettes and clergy registers.
   Rebuild a Russian Orthodox cleric's dated chain of posts and household from directories, eparchial
   gazettes and clergy registers.
-  *Core guardrail:* do not merge or split clergy who share a surname before that chain is built, and
-  re-establish editions and fonds for each diocese.
 
 - **`recipes/russian-imperial-service-record-recovery.md`** — Recover a pre-1917 Russian official's service list through the employing institution's fond.
   Recover a pre-1917 official's formulary or service list through the employing institution's fond.
-  *Core guardrail:* do not stop at metrical books, revision lists or a military archive; search the
-  employer, provincial and later-employer fonds, not only the first.
 
 - **`recipes/school-university-record-recovery.md`** — Recover a pupil or student through school, district, copy and later-file layers.
   Recover a pupil or student across school, educational-district, parallel-copy, yearbook and
   later-file layers.
-  *Core guardrail:* absence from a compiled or published list does not show that the person never
-  attended.
 
 - **`recipes/soviet-personal-file-recovery.md`** — Recover Soviet personal files when ZAGS or metrical records are lost.
   Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are
   lost.
-  *Core guardrail:* a negative archive reply is not a dead end; questionnaires and autobiographies
-  are dated self-reports, and catalogue name hits are candidates.
 
 - **`recipes/bessarabia-moldova-record-routing.md`** — Route a Bessarabian or Moldovan record by date, district and bank of the Dniester.
   Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present
   custodian, then search ANA fond 211 by opis.
-  *Core guardrail:* the word "Bessarabia" or today's border does not pick the archive; Ясский уезд
-  is the Bessarabian Bălți district, and a name-index miss in a browse-only collection says nothing.
 
 - **`recipes/galicia-bukovina-habsburg-record-routing.md`** — Route a Galician or Bukovinian record by date, confession and custodian.
   Route a Galician or Bukovinian event by date, confession and custodian, and decide the army before
   searching WWI records.
-  *Core guardrail:* start an ethnic Ukrainian villager in Austrian Galicia in Greek Catholic books,
-  not Orthodox ones (add Orthodox books for Lemkos from 1926; Bukovina starts in Orthodox books),
-  and birthplace alone decides neither the army nor where the Grundbuchblatt is kept.
 
 - **`recipes/chechen-ingush-1944-deportation-records.md`** — Trace a Chechen or Ingush family through the 1944 deportation and special settlement.
   Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both
   names of renamed places and both ends of the exile.
-  *Core guardrail:* "the files burned" is not an answer; ask the Chechen custodians and the place of
-  settlement, and treat any online list as a partial list.
 
 ### Censuses, tax, land and property
 
 - **`recipes/canadian-census-interpretation.md`** — Interpret a historical Canadian census entry as a de jure listing.
   Read a historical Canadian census line as a de jure listing, and browse by geography when a name
   search misses.
-  *Core guardrail:* do not read a Canadian listing as a "present on census night" headcount.
 
 - **`recipes/tax-roll-observation-workflow.md`** — Read tax rolls as a liability-bounded annual series.
   Read town, township or county tax lists as a liability-bounded annual series for each jurisdiction
   and tax type.
-  *Core guardrail:* a first appearance, last appearance or gap is a bounded interval under that
-  year's liability rules, not a birth, coming of age, move or death.
 
 - **`recipes/deed-content-relationship-clues.md`** — Read deed content as dated relationship, probate, migration and parcel hypotheses.
   Read a retrieved deed's type, consideration, estate terms, parties, court-bond security recitals
   and parcel for dated clues to heirship, probate, migration or land identity.
-  *Core guardrail:* every clue is a dated hypothesis with a stated corroboration need, never a
-  kinship finding.
 
 - **`recipes/us-federal-land-entry-file-recovery.md`** — Recover a U.S. federal land-entry case file behind (or without) a GLO patent.
   Follow a GLO patent, bounty-land number or final-proof notice to the federal land-entry case file.
-  *Core guardrail:* the patent image is not the entry file, and a failed GLO name search does not
-  prove that no claim existed.
 
 - **`recipes/marks-and-brands-record-recovery.md`** — Recover a livestock mark or brand registration.
   Carry a livestock marks-and-brands index entry to the actual registration or a described copy.
-  *Core guardrail:* read the index's own filing key before searching, since it can be the brand's
-  initial rather than the owner's surname.
 
 ### Courts, legislatures, prisons and institutions
 
 - **`recipes/court-case-file-recovery.md`** — Recover a U.S. court case file from its pointer records.
   Recover a U.S. civil, chancery, divorce, criminal or incapacity case file through the records that
   point to it, then inventory its loose papers.
-  *Core guardrail:* captions, arrests, index entries and case-law searches stay bounded leads.
 
 - **`recipes/us-federal-court-case-file-recovery.md`** — Recover a U.S. federal court case file.
   Take a lead to the right federal court for the period, its National Archives record group and
   index, and the loose case file.
-  *Core guardrail:* decide whether the matter is federal before searching a county courthouse; a
-  complete-index miss is a bounded negative that does not clear other relatives.
 
 - **`recipes/criminal-court-prison-record-recovery.md`** — Recover a criminal court and prison record through the right jurisdiction and custodian.
   Find the trying court, its present custodian and the surviving prison series; follow British
   no-fixed-abode incidents through calendars, police and workhouse records, or seek separately
   surviving Swedish court-book and appeal copies; search the Swedish police gazette (1878–1950) as a
   lead to the trying court.
-  *Core guardrail:* establish the actual authority and copy coverage, and weigh an inmate-list miss
-  against other evidence.
 
 - **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act and its petition.
   Recover a state legislative private act, such as a legitimation, name change, divorce or pension,
   and the petition behind it.
-  *Core guardrail:* do not stop at the one-line index or printed act, ignore entries at the same
-  locator, or skip legislative records because the event looks like a county matter.
 
 - **`recipes/illegitimacy-record-recovery.md`** — Recover records of a birth outside marriage.
   Find the bastardy bonds, court proceedings, support orders and church entries that a birth outside
   marriage could create, and preserve express status statements in apprenticeship instruments.
-  *Core guardrail:* do not decide illegitimacy from weak signals, and record allegations, not
-  paternity.
 
 - **`recipes/institutional-patient-record-recovery.md`** — Recover an asylum or state-hospital patient through custodians, courts and newspapers.
   Seek asylum or state-hospital records through the custodian, court and newspapers; in Dutch
   research, check a child's marriage papers and locally described admission correspondence.
-  *Core guardrail:* incapacity does not establish admission or diagnosis, and an access refusal does
-  not establish that no file survives.
 
 ### U.S. military service
 
 - **`recipes/us-military-service-type-record-routing.md`** — Route pre-1900 U.S. military service by service type before searching or ruling it out.
   Route pre-1900 U.S. military service by service type to its own record series and custodian.
-  *Core guardrail:* a miss in federal compiled-service or pension indexes is not "no service", and
-  an empty bounty-land search means nothing if the man was never eligible.
 
 - **`recipes/us-civil-war-service-record-episodes.md`** — Read Civil War registration, service cards and unit events as separate episodes.
   Read Civil War draft registration, service cards, roster remarks and unit events as separate
   episodes.
-  *Core guardrail:* registration is not service, the regiment's battles are not the soldier's, and a
-  database miss does not prove non-service.
 
 - **`recipes/us-20th-century-military-service-reconstruction.md`** — Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction.
   Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned,
   thin or restricted personnel file, including state WWI questionnaires and Gold Star family
   packets, separate court-martial trial files, discharge-gated final pay and award General Orders.
-  *Core guardrail:* check the file's actual status before saying "it burned", keep trial/award
-  references separate from retrieved files, and do not give the man his unit's events.
 
 ### Migration and origins
 
 - **`recipes/immigrant-congregation-origin-records.md`** — Find an immigrant's hometown in U.S. congregation records.
   Find an immigrant's hometown in the registers of U.S. congregations chosen by language community,
   dates and address.
-  *Core guardrail:* a miss at the nearest church or in an abstract's index is not absence, and one
-  hometown statement is not proven identity.
 
 - **`recipes/surname-distribution-locality-leads.md`** — Rank localities to search from dated surname-distribution sources.
   Rank localities to search from dated surname-distribution sources for an uncommon surname.
-  *Core guardrail:* the result is a bounded search list, never an origin finding.
 
 - **`recipes/us-freedpeople-record-recovery.md`** — Trace an African American ancestor across the 1870 boundary.
   Trace an African American family back across the 1870 boundary.
-  *Core guardrail:* test free versus enslaved status first; a surname, enslaver, list order or DNA
-  signal stays a hypothesis until a record names the person.
 
 - **`recipes/british-colonial-slave-registers.md`** — Trace an enslaved ancestor through the British colonial slave registers and compensation records.
   Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the
   compensation records.
-  *Core guardrail:* fix each colony's register years and whether each return is full or
-  changes-only; link people by mother, age and origin, never by surname or a presumed father.
 
 - **`recipes/chinese-lineage-jiapu-records.md`** — Recover a Chinese emigrant's lineage from character-written names, village and jiapu.
   Recover a Chinese emigrant's character-written name and ancestral village before searching lineage
   genealogies (jiapu).
-  *Core guardrail:* never derive a character from a romanization, and keep each romanization, port
-  and generation-character match as its own observation.
 
 - **`recipes/japanese-koseki-honseki-recovery.md`** — Recover the kanji name and honseki before requesting a Japanese koseki.
   Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family
   register (koseki).
-  *Core guardrail:* a romanized name or remembered region is not enough for a request, and a
-  passenger-list hit is a candidate, not an identity.
 
 ### Places, maps, libraries and manuscripts
 
 - **`recipes/historical-place-name-resolution.md`** — Resolve a historical place name to dated, same-named candidates.
   Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from
   period gazetteers.
-  *Core guardrail:* do not default to the well-known namesake; keep the name as written and let
-  other dated evidence choose.
 
 - **`recipes/historical-map-record-recovery.md`** — Recover and read historical maps as dated, copy-specific evidence.
   Read a fire-insurance sheet, atlas, plat, quadrangle or overlay as a dated observation; trace a
   detached archival map toward its possible originating case.
-  *Core guardrail:* a candidate case link or estimated map date does not establish the depicted
-  event or a same-named person's identity.
 
 - **`recipes/published-book-catalogue-and-full-text-discovery.md`** — Find a published local history, compiled genealogy or family book across catalogues and full text.
   Find a published local history, compiled genealogy or family book across catalogues and full text.
-  *Core guardrail:* a metadata search miss never establishes that a book does not exist or is not
-  held; record what each tool covered.
 
 - **`recipes/periodical-index-search-retrieval.md`** — Search a genealogical periodical index and retrieve the article.
   Search a genealogical periodical index such as PERSI and retrieve the article.
-  *Core guardrail:* these indexes are not full text, so a personal-name miss usually means the
-  article text was never searched, and a hit is only a citation.
 
 - **`recipes/manuscript-collection-recovery.md`** — Recover manuscript and archival collections that may mention an ancestor.
   Find personal, family and organisational papers by context, alternate ledger/daybook labels and an
   established society's personal-name index; request linked account pages or a complete claim folder
   with earlier applications.
-  *Core guardrail:* a name-search miss is not absence, and one reported packet does not guarantee
-  standard contents or a current copy route.
 
 - **`recipes/local-repository-uncatalogued-holdings.md`** — Ask for a local repository's uncatalogued holdings before reporting a negative.
   Ask a local library, society or archive about its uncatalogued holdings after its catalogue
   returns nothing.
-  *Core guardrail:* an empty catalogue search leaves the uncatalogued holdings uninspected, so it is
-  not a negative.
 
 ### Family papers, photographs and oral history
 
 - **`recipes/family-collection-intake-and-capture.md`** — Take in, capture and hand over an inherited family collection.
   Take in, inventory, plan the capture of and hand over an inherited family collection of boxes,
   albums, loose photographs, papers or existing scans.
-  *Core guardrail:* do not optimize for tidy files; renaming, re-ordering, front-only scans or
-  treating a crop as the master destroys the holder, order and reverse evidence. Keep cased images
-  off a flatbed, never press on glass plates, and leave suspected nitrate film and damaged plates to
-  a specialist.
 
 - **`recipes/family-photograph-attribution-and-dating.md`** — Attribute and date an inherited family photograph from captions, provenance and imprints.
   Attribute and date an inherited family photograph from captions, provenance and the photographer's
   imprint.
-  *Core guardrail:* never compare faces or name anyone by appearance; record each identification as
-  an attributed claim, test it against the named person's documented lifetime, and turn each date
-  clue into a bound.
 
 - **`recipes/family-papers-and-bible-register-dating.md`** — Separate writing, mailing and event dates in family papers and Bible registers.
   Separate writing, mailing and event dates in letters, envelopes, address books, family Bible
   registers and inscribed books.
-  *Core guardrail:* a postmark or return address records a mailing or an address, not the event;
-  assess each Bible entry's writing occasion, near the event or copied later, separately from its
-  stated event date.
 
 - **`recipes/family-interviews-and-oral-tradition.md`** — Record a family interview or inherited account with its speaker, prompter and chain.
   Record an interview with a relative, a supplied recording or an inherited story with its speaker,
   prompter and chain of transmission.
-  *Core guardrail:* do not turn a recollection straight into tree facts; keep the prompter's details
-  apart from the speaker's, an uncertain name uncertain, and each relay in the chain as its own
-  witness. Obtain consent before recording, document it at the session's start, and get the
-  participant's authorization, ideally a signed release, before any deposit or publication.
 
 - **`recipes/repository-photograph-collection-search.md`** — Search repository photograph collections by place and subject.
   Search repository photograph collections for an ancestor, home, shop or community by place and
   subject.
-  *Core guardrail:* never compare faces or name anyone by appearance, and record a recognition by
-  the user or a relative as that person's attributed claim; a name-search miss does not show that no
-  image exists, and a donor caption or added geotag is not a settled identification or location.
 
 ### DNA workflows and research planning
 
 - **`recipes/admixture-model-run-scope.md`** — Record the run scope before reading a G25, calculator or qpAdm admixture result.
   Record the run scope of a G25, calculator or qpAdm admixture result before reading it.
-  *Core guardrail:* check fit and scope before reading proportions, and never rank runs across
-  calculators.
 
 - **`recipes/ethnicity-estimate-version-comparison.md`** — Save, date and compare successive ethnicity-estimate versions.
   Save, date and compare successive ethnicity-estimate versions (AncestryDNA, MyHeritage,
   FamilyTreeDNA).
-  *Core guardrail:* write down the method change before reading any number; compare a new percentage
-  only with the old range, never one range with another, and form hypotheses only from changes no
-  update effect explains.
 
 - **`recipes/dna-match-outreach-staging.md`** — Stage and draft outreach to a DNA match or untested relative.
   Stage and draft outreach to a DNA match, a match's account manager or an untested relative.
-  *Core guardrail:* when the tester's consent is missing or unclear, prepare only a contact plan and
-  a draft for the tester's own review, and do not choose recipients or send anything. In every case,
-  never announce a suspected relationship, and log silence as silence, not refusal.
 
 - **`recipes/descendancy-gap-worklist.md`** — Build a ranked descendancy gap worklist.
   Turn "research the descendants" into a ranked list of gaps tied to the records each lifespan
   crosses.
-  *Core guardrail:* an empty tree field leaves the event unresolved; it does not mean the event
-  never happened.
 
 - **`recipes/gedcom-research-export.md`** — Export research findings to a GEDCOM file without changing what they prove.
   Export research findings to a GEDCOM file, or bring a supplied one into research, without changing
   what they prove.
-  *Core guardrail:* a header version change is not a conversion, each parent link needs its own
-  evidence, and QUAY or a format change neither confirms nor culls a claim.
 
 <!-- recipe-catalog:end -->
 
