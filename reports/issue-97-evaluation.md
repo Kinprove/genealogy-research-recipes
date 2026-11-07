@@ -1,6 +1,6 @@
 # Issue 97 evaluation evidence
 
-The revised candidate passes **14/14 cases** across the documented local case batches, with three samples per case.
+The candidate at the source commit below passed **14/14 cases** across the documented local case batches, with three samples per case.
 
 The skill inputs are commit `4653a3e70554d6ed3e403a274f1e9990d37656c2`. The normal `claude3` profile resolved to `claude-opus-5-5`; no model override was supplied. Native Read returned complete selected files, matching the primary read-file server's default. All materials are synthetic.
 
@@ -30,3 +30,10 @@ A later full batch stopped after 34 completed samples when native Read rejected 
 The unchanged **v1.12.0** release has preserved failures: its upload replies omit destination/setting consent, and its GEDCOM replies omit living-person redaction. Historical totals in the receipt use their recorded contracts and are diagnostics rather than a final direct comparison. The false QUAY-to-proven mapping control is also preserved and rejected.
 
 On 2026-11-07 the owner explicitly revised issue 97's merge gate: preserve the failed unchanged-release baseline and require all revised-candidate cases to pass. Per-case criteria are unchanged. This decision does not authorize a merge. GitHub-hosted model evaluation is last observed skipped without the repository's ANTHROPIC_API_KEY secret; the owner will add it. The successful local profile does not supply that runner credential.
+
+These local runs precede integration of upstream commit `a756a40a34e47bb4544a718e98529f7ddf1cf987`.
+The rebased harness and case/fixture bytes match the tested versions. Skill inputs now include
+updated install instructions and court routing, other record guidance, and a dated catalog-volume
+citation in the opened German-emigrant recipe. Integrated unit and static checks pass. The hosted
+14-case run will verify the rebased head once its credential is available; the earlier local
+results remain bound to their recorded input commit and hash.

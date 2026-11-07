@@ -375,7 +375,8 @@
       "revised_gate": "Preserve the failed unchanged-release baseline and require all revised-candidate cases to pass. Per-case criteria are unchanged; this is not merge authorization."
     },
     "hosted_model_job": "Last observed skipped without ANTHROPIC_API_KEY; owner will add the secret. Local profile authentication does not authenticate GitHub-hosted runners.",
-    "revised_candidate_gate_passed": true
+    "tested_snapshot_candidate_gate_passed": true,
+    "integrated_head_gate": "Pending hosted behavioural verification after upstream integration"
   },
   "earlier_candidate": {
     "guide_commit": "0ba735a9b6ec2938b7f2e2d717cd75f20a483374",
@@ -3527,5 +3528,15 @@
         "source_batch": "tmp/large-read-rest"
       }
     ]
+  },
+  "upstream_integration": {
+    "base_commit": "a756a40a34e47bb4544a718e98529f7ddf1cf987",
+    "published_equivalent_harness_commit": "e31647a50d4ff1aafe9ccf4411f67038e987314e",
+    "harness_and_cases_unchanged": true,
+    "integrated_skill_sha256": "f81e51e769bdd1355ef5fb52c47216e43d833e9602fbf2a8661cea8205c6fd6a",
+    "local_model_runs_apply_to": "4653a3e70554d6ed3e403a274f1e9990d37656c2",
+    "changed_evaluated_recipe": "german-emigrant-origin-sources: dated catalog-volume citation",
+    "other_input_changes": "SKILL update instructions and criminal-court routing; unrelated record recipes/source checks",
+    "integrated_head_behavioural_validation": "pending hosted workflow with repository credential"
   }
 }
