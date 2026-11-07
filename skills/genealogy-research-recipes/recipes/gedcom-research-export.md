@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["Export research findings to a GEDCOM file, o
 triggers: ["Export research findings to a GEDCOM file", "or bring a supplied one into research", "without changing what they prove"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "GEDCOM-RESEARCH-EXPORT-01", "text": "a header version change is not a conversion, each parent link needs its own evidence, and QUAY or a format change neither confirms nor culls a claim."}, {"id": "GED-01", "text": "**Never mark anyone deceased from a birth-year cutoff or a missing death date** in order to export, share or publish them."}, {"id": "GED-02", "text": "**Apply the living-person rules to a copy prepared for sharing.**"}, {"id": "GED-03", "text": "**Never map QUAY to or from a research status.**"}]
+guardrails: [{"id": "GEDCOM-RESEARCH-EXPORT-01", "text": "a header version change is not a conversion, each parent link needs its own evidence, and QUAY or a format change neither confirms nor culls a claim."}, {"id": "GED-01", "text": "**Never mark anyone deceased from a birth-year cutoff or a missing death date** in order to export, share or publish them."}, {"id": "GED-02", "text": "**Apply the living-person rules to a copy prepared for sharing.**"}, {"id": "GED-03", "text": "**Never map QUAY to or from a research status.**"}, {"id": "GED-04", "text": "For an online destination, identify living or possibly living people and state the redaction and destination-specific permission still required before upload."}, {"id": "GED-05", "text": "A supplied `QUAY 3` and a source title or research note saying \"unverified\" are not contradictory merely because of that research-status wording."}]
 handoff: ["descendancy-gap-worklist", "evidence-proof-judgment", "familysearch-practical-record-workflows", "geni-practical-research-workflows", "research-documentation", "rootsmagic-tree-reconciliation-workflow", "source-citation"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
@@ -54,6 +54,8 @@ Gather these before writing:
 - the research notes: each evaluated person, event and link with its status, source and locator, plus the hypotheses, open conflicts and rejected identifications
 - who in the data may be living, and whether the file is for the user's own use or for sharing
 
+Treat structural validity and sharing readiness as separate findings. For an online destination, identify living or possibly living people and state the redaction and destination-specific permission still required before upload. Pointing only to the privacy gate or the destination's privacy settings is not a redaction assessment.
+
 ## 1. Choose the destination and the version
 
 - **Write a local `.ged` file unless the user chose another destination.** A connected tree service is not the destination just because it is connected. Do not read from it or write to it for this task unless the user chose it.
@@ -89,6 +91,8 @@ Gather these before writing:
 - **Invent no locator.** For an interview or an unpaginated source, keep the locator that exists in the citation or a NOTE. When a converted tree gives no primary source, say so in a NOTE rather than supplying one.
 - **Put the research status and the claim or link handle in a NOTE,** using the labels of the evidence/proof judgment worksheet: open, supported so far, contradicted or rejected.
 - **Never map QUAY to or from a research status.** QUAY uses the values 0–3 to rate the credibility of a piece of information. Per the GEDCOM 7 spec, the values "do not have numeric meaning", and QUAY is "not intended to eliminate the receivers' need to evaluate the evidence for themselves" [S1]. A QUAY of 3 does not make a link proved, and a missing QUAY does not make it doubtful.
+
+A supplied `QUAY 3` and a source title or research note saying "unverified" are not contradictory merely because of that research-status wording. Preserve the code and text separately. Whether the underlying information merits its credibility code is a separate source-evaluation question; do not change QUAY solely to mirror research status.
 
 ## 5. Keep names, dates and calendars as the records give them
 
