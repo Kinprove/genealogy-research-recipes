@@ -21,7 +21,7 @@ Use this recipe before you draft or send any message to a DNA match, a match's a
 
 It does not cover the following, which have their own recipes:
 
-- Selecting and investigating matches on one site: [MyHeritage step 8](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) and the [23andMe match worksheet](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/23andme-match-research.md).
+- Selecting and investigating matches on one site: [MyHeritage steps 2–7](myheritage-dna-match-investigation.md#2-build-a-shortlist-without-losing-matches-behind-an-old-filter) and the [23andMe match worksheet](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/23andme-match-research.md).
 - The ethics of unknown-parentage cases: [unknown parentage / WATO](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/unknown-parentage-wato.md).
 - Consent before an AI processes or names a match: [AI for DNA research](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-dna-research.md).
 - Whether a placement is proven: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).

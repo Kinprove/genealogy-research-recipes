@@ -16,10 +16,13 @@
 - **S14:** Российская государственная библиотека, [Алфавитный указатель имен и фамилий лиц, помещенных в Ведомости справок о судимости за 1886 год. Ч. 2](https://search.rsl.ru/ru/record/01005499993), catalogue record, opened 2026-11-04. Used for: an annual name index issued by part, printed in 1887 for 1886, with a free online scan.
 - **S15:** Российская государственная библиотека, [Ведомость справок о судимости, 1886, кн. 8, ч. 2](https://search.rsl.ru/ru/record/01005426156), catalogue record, opened 2026-11-04. Used for: a year's part split into numbered books and digitised for free reading.
 
+- **S16:** Central State Archive of Kirov Oblast (ЦГАКО), [Ревизские сказки](https://cgako.ru/base/base_tale/tale.php), read 2026-11-07. Used for: its table dating the tenth revision to 1857–1859 and its separate notice of later revision-list files, including 1860–1865. This dates the revision, not every surviving file; the archive's database concerns Vyatka guberniya.
+
 **What is authored and what the sources supply.** The authored synthesis is: the field split, the status timeline, the order of the chronology test, the rule choosing the series by acquisition date, the gap rules, and the rule that an age mismatch lowers a candidate's rank. The archive locators, the meanings of terms and the worked cases come from forum participants. Several participants posted in more than one thread, so their agreement is not always independent. The library catalogue records S14–S15 supply the index route to the Ведомость справок о судимости.
 
 ## Credits
 
+- Central State Archive of Kirov Oblast, revision-list guide — Official archive page; revision dates and later-file caveat paraphrased (adapted)
 - J-Roots Forum, thread on the National Historical Archives of Belarus and its holdings — Forum post; no explicit licence; paraphrase with attribution (adapted)
 - Уральская генеалогия forum, thread of questions on where to find documents — Forum post; no explicit licence; paraphrase with attribution (adapted)
 - Уральская генеалогия forum, thread on two families of Shartash — Forum post; no explicit licence; short quotation for citation (quoted)

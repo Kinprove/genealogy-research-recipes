@@ -36,7 +36,13 @@ screenshots, catalog entries and real family examples are not reproduced.
   reproduced. Used for the Księga ludności / Spis ludności search terms, the house-number
   arrangement of these books, the warning that external indexes of them are incomplete, and for
   giving Polish and Russian surname forms and spelling variants when requesting Congress Poland
-  register entries.
+  register entries. Checked 2026-11-07: post 1 was read in search-result text after direct access
+  failed; it bases the advice to request spelling variants explicitly on the writer's exchanges
+  with Radom, Kielce and Warsaw archives;
+  it does not establish a policy for every archive. [Post 21](https://forum.j-roots.info/viewtopic.php?t=470&start=20)
+  was read through the web reader and identifies the linked `ge298x.xml` inventory as AGAD's eastern-territory metrical books after a
+  reader mistook the holding city for the parish location. Used only for that reported inventory
+  example; neither the inventory nor its current scans were independently checked.
 - **C2:** J-Roots Forum, *Нужно мнение коллег*, first post 2015-09-22 —
   [thread](https://forum.j-roots.info/viewtopic.php?f=4&t=4667). Rights: cited reference, not
   reproduced. Used for the warning that many 20th-century Polish civil-status registers are still

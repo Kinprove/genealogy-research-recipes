@@ -8,7 +8,7 @@ Based on recorded talks (reviewed 2026-10-20). Selected claims were checked agai
   - parish closures and transferred books
   - bishop's transcripts as a second copy, made periodically
   - the two-year sibling sweep
-  - the presenter's 1859/1867 Mexican civil-registration dates
+  - the presenter's 1859/1867 Mexican civil-registration dates, independently checked in S34
 - **S2:** BYU Family History Library / James Tanner, [Beginning Latin American Research: Introduction to the Records](https://www.youtube.com/watch?v=cSMD3LQfvVs), 2016-11-11. Used for:
   - late and whole-family baptisms
   - the priest's name in the opening formula and use of the margin name
@@ -35,7 +35,7 @@ Based on recorded talks (reviewed 2026-10-20). Selected claims were checked agai
   - sibling gaps and witnesses
   - dispensations for related couples held at the diocesan level
   - the checklist for a disappeared person
-  - the presenter's 1885 Chile and Puerto Rico civil-registration dates
+  - the presenter's 1885 Chile and Puerto Rico civil-registration dates, independently checked in S35–S36
 - **S11:** Family History Fanatics, [Questions About Building a Family Tree? 7 Answers You Need Now](https://www.youtube.com/watch?v=6gDcwXUCDYE), 2023-02-18. Used for the baptismal José Miguel appearing as Miguel in census records.
 - **S12:** Family History Fanatics, [How do you evaluate genealogy records? And, share a unique ancestor's name.](https://www.youtube.com/watch?v=jdfYdkc-DLM), 2019-11-01. Used for one parish naming all boys José and all girls María, and the risk of misreading that as middle-name changes.
 - **S13:** Legacy Tree Genealogists, [Cuban Genealogy Research: Useful Tips and Tricks](https://www.legacytree.com/blog/cuban-genealogy-research-tips), 2023-05-12. Used for:
@@ -72,6 +72,10 @@ Based on recorded talks (reviewed 2026-10-20). Selected claims were checked agai
 - **S32:** Bravo Rubio, [«La materia, la forma y el ministro». El bautizo de párvulos y adultos en la parroquia del Sagrario metropolitano de México (1690–1728)](https://www.lhlt.mpg.de/1531245/gplh_5_bravo-rubio.pdf), in *Normatividades e instituciones eclesiásticas en la Nueva España, siglos XVI–XIX* (Global Perspectives on Legal History 5), Max Planck Institute for European Legal History, 2018, pp. 155–168, opened 2026-11-07 (PDF). Used for: separate baptism and marriage books for españoles and for castas in Mexico City's Sagrario parish, and separate parishes (doctrinas) for Indians.
 - **S33:** Talavera Ibarra, [La evolución de los bautizos y la asignación de "calidad" en Valladolid, Michoacán (1594-1820), ejemplo la familia Morelos y Pavón](https://www.redalyc.org/journal/137/13774526001/13774526001.pdf), *Relaciones. Estudios de Historia y Sociedad* 43 (170), 2022, pp. 1–28, El Colegio de Michoacán, DOI 10.24901/rehs.v43i170.881, opened 2026-11-07 (PDF). Used for: sections by calidad within one book from 1643 and separate books from 1652; one child with entries in two books, the parents called castizos in one and españoles in the other, under the same baptism date; and the city's registers cited as those of the Sagrario Metropolitano of Morelia, Michoacán.
 
+- **S34:** FamilySearch, [Mexico, Hidalgo, Civil Registration](https://www.familysearch.org/en/search/collection/1919702), collection description read 2026-11-07 through the web reader. Used for: its Mexico-wide explanation that civil registration was required from 1859, not strictly enforced until 1867, and remained incomplete. The separate country Wiki page refused automated access; the Hidalgo collection's own coverage years are not used as national start years.
+- **S35:** Debbie Gurtler / FamilySearch, [Civil Registration Basics for Latin America](https://cms-b-assets.familysearch.org/5f/7a/c5430d8147f9aeac30d60e7695d7/civil-registration-basics-for-latam-jmr.pdf), p. 1, read 2026-11-07. Used only for Chile's 1885 civil-registration start in its country table; the table does not establish each municipality's compliance or holdings.
+- **S36:** Sunny Jane Morton / FamilySearch, [Puerto Rico Vital Records: Civil Registration and Church Records](https://www.familysearch.org/en/blog/puerto-rico-vital-records), published 2020-12-22, read 2026-11-07. Used for: civil registration from 1885 and earlier starts in some municipalities.
+
 **What is authored synthesis:** the ordering of the steps, the field-separated extraction, the name register, the paired event table, the sweep log and the coverage packet. The presenters supply the record behaviours and the examples. Also authored: recording the civil registry district and the Catalog series used, using named grandparents to target the parents' records, searching back from a civil marriage act for the declaration, and reading differing civil and church marriage dates as stages.
 
 **What was not verified:**
@@ -89,8 +93,10 @@ Based on recorded talks (reviewed 2026-10-20). Selected claims were checked agai
 - the Spanish name forms in the Puerto Rican marriage record, taken from the author's image caption (S19), and the act numbers in the Mexican marriage example (S22); neither record image was viewed
 - the civil registry districts of Santiago de Cuba (S13's wording only)
 
-No Catalog structure, diocesan holding or current FamilySearch behaviour is asserted beyond what the presenters describe and the checks below confirm.
+No Catalog structure, diocesan holding or current FamilySearch behaviour is asserted beyond the
+attributed descriptions and the dated checks recorded in the entries above. Documentation checks
+do not establish the contents or availability of an individual register.
 
 ## Credits
 
-- Kinprove original procedural synthesis; record behaviours and examples paraphrased from recorded BYU Family History Library, Family History Fanatics and JewishGen talks and from Legacy Tree Genealogists and Vita Brevis (NEHGS) blog posts, cited as S1 to S22, with selected facts checked against FamilySearch Wiki, collection and Catalog pages; Buenos Aires registry, gazette, casta, Cuban and Argentine civil-registration and colonial register-book facts cited to the official, archival and scholarly sources S23 to S33 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; record behaviours and examples paraphrased from recorded BYU Family History Library, Family History Fanatics and JewishGen talks and from Legacy Tree Genealogists and Vita Brevis (NEHGS) blog posts, cited as S1 to S22, with selected facts checked against FamilySearch Wiki, collection and Catalog pages; Buenos Aires registry, gazette, casta, Cuban and Argentine civil-registration and colonial register-book facts cited to the official, archival and scholarly sources S23 to S33, with the Mexican, Chilean and Puerto Rican start-date checks in FamilySearch sources S34 to S36 — FSL-1.1-MIT (kinprove-original)

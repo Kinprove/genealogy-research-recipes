@@ -45,7 +45,9 @@ merge; a report and a GEDCOM have different scopes.
 ## Inputs and routing
 
 Start with a research question, the relevant profile URLs, available source records and the
-account's actual viewing/editing permissions. Preserve URLs as the working identity keys;
+account's actual viewing/editing permissions. H1–H18 were read on 2026-11-07; the menu paths
+below are documented paths, not checks in a signed-in account. Confirm the offered controls and
+permissions before acting. Preserve URLs as the working identity keys;
 display names alone cannot distinguish same-named people.
 
 These procedures own Geni operations. Use [Evidence and proof judgment](../../genealogy-research-recipes/recipes/evidence-proof-judgment.md)

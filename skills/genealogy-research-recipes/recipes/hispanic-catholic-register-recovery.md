@@ -114,9 +114,9 @@ For machine- or AI-indexed versions of these entries, use the correct-and-verify
 
 - **Direction of search.** The civil birth registration usually came before the baptism [S10]. From a baptism, search backward for the civil birth. From a civil birth, search forward for the baptism. If nothing turns up, reverse the direction [S10].
 - **Search civil records only after civil registration began there.**
-  - Mexico: civil registration was required from 1859 but not strictly enforced until 1867, and compliance was incomplete even after that (FamilySearch) [S1].
-  - Chile: civil registers begin in 1885 [S10].
-  - Puerto Rico: civil registration began in 1885, though a few municipalities started earlier [S10].
+  - Mexico: civil registration was required from 1859 but not strictly enforced until 1867, and compliance was incomplete even after that (FamilySearch) [S1, S34].
+  - Chile: civil registers begin in 1885 [S10, S35].
+  - Puerto Rico: civil registration began in 1885, though a few municipalities started earlier [S10, S36].
   - Cuba: the Spanish civil-registry law of 1870 applied from 1 January 1885. Before that, search the parish books [S28].
   - Spain: the Registro Civil starts on 1 January 1871, and some larger towns kept municipal civil registers from 1841. Use step 1 of [Spanish record routing](spanish-civil-parish-record-routing.md), which covers both.
   - Argentina: there is no single national start year. The 1884 law covered only the city of Buenos Aires and the national territories, and the city registry began in August 1886 [S29], [S30]. Buenos Aires province opened its offices from 1 January 1889 under its own law [S31]. For any other province, take the first year from that province's FamilySearch Catalog entries.

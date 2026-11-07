@@ -94,7 +94,7 @@ If the bracket is open, record it as open. Do not fill the gap by assuming the s
 
 ## 4. Choose the record series by the acquisition date
 
-The 10th revision, carried out in 1857–1859, was the last. Town lists of that revision are usually dated 1858 and are called the 1858 revision below. Compare the acquisition date or bracket with that revision before you send anyone to a revision list. [S10] For an Orenburg Cossack household after 1834, check the holding archive's inventory for which revisions exist; see [revision-list household chaining, step 10](russian-revision-list-household-chaining.md#10-for-an-orenburg-cossack-household-confirm-which-later-revisions-exist).
+The 10th revision (1857–1859) was the last; later revision-list files also survive. [S16] Town lists of that revision are usually dated 1858 and are called the 1858 revision below. Compare the acquisition date or bracket with that revision before you send anyone to a revision list. [S10] For an Orenburg Cossack household after 1834, check the holding archive's inventory for which revisions exist; see [revision-list household chaining, step 10](russian-revision-list-household-chaining.md#10-for-an-orenburg-cossack-household-confirm-which-later-revisions-exist).
 
 **Honorary citizens, whatever the acquisition date.** Go first to the honorary-citizen grant files and formulary lists under the post-1858 branch below; RGIA f. 1343, op. 39 starts in 1830. Do not let the revision cutoff decide their series. [S1], [S9]
 
