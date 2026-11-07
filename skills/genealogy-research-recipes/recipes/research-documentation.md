@@ -317,6 +317,10 @@ State the person and question, list the records inspected, and explain which obs
 support or contradict each proposed identity, movement or locality. Refer to the document
 numbers and citations so another researcher can retrace the analysis.
 
+**Privacy gate:** <!-- privacy-gate: publish --> Handing or sharing the report, in full or in parts,
+exposes what it says about living relatives to family members and other readers; answer the
+privacy gate in `SKILL.md` first.
+
 Give the summary, captions, chart and "how we are related" chain the same qualifier as the body,
 and never a higher status than the working notes: a front page saying "fought in WWI" over a
 chapter saying "almost certainly" fails this. Give each parent-child link in the chain its own

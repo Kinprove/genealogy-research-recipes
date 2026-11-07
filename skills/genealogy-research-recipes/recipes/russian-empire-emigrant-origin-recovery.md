@@ -250,6 +250,10 @@ GeneaVlogger's [ledger walkthrough](https://www.youtube.com/watch?v=pVfGwY6uBHU)
 columns and of the holding repository. The ledger does not state the payer's relationship, and the
 presenter calls the match strong but not confirmed.
 
+**Privacy gate:** <!-- privacy-gate: publish --> A forum question publicly exposes the family
+surname and case details, which can identify the user and living relatives; answer the privacy
+gate in `SKILL.md` before posting.
+
 If money was sent between the emigrant and relatives back home, search the surname in the documents
 of Russian consulates in the USA, for example by asking in the J-Roots forum's index topic for them. A
 [consular-records reply](https://forum.j-roots.info/viewtopic.php?f=75&t=7576) says hits can be

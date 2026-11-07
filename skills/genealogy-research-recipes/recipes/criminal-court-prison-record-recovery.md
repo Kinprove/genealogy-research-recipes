@@ -33,6 +33,7 @@ Use this recipe when an ancestor disappears from records and you suspect arrest,
 
 ## Route the request and log it
 
+- **Privacy gate:** <!-- privacy-gate: request --> A Bureau of Prisons, department of corrections or state archives request asks for a file about an inmate who may be living, and it may name living relatives. Before you file either request below, answer the privacy gate in `SKILL.md` first.
 - **Federal conviction:** start with the series NARA still holds. A NARA History Hub reply says most individual federal inmate case files were temporary records and are not held by NARA. The exceptions include Alcatraz, Leavenworth, Atlanta and McNeil Island, and the notorious-offenders files. Check whether your inmate was held at one of those penitentiaries or falls in the notorious-offenders series before you file any Bureau of Prisons request. If none applies, file the request anyway, log the reply and classify the series from it.
   - A listener's 2007 account shows the request route [S2]. A county society redirected her to the Oklahoma corrections department, which sent her on to the Bureau of Prisons because, she reports, "bootlegging was a federal crime" [S2].
   - The Bureau's emailed public-information reply was a bare-bones extract of the file [S2]. Do not file such a reply as the prison record.

@@ -24,7 +24,9 @@ Read [ai-for-dna-research.md](ai-for-dna-research.md) for cM ranges, endogamy an
 
 ## Access and inputs
 
-The ordinary shared-match preview shows up to three people without membership; family-history membership unlocks the full list. Enhanced Shared Matches adds match-to-match cM with Pro Tools. That enhanced website view is available in the US, Canada, Australia and UK, as listed in Ancestry's help checked 2026-10-03; Ancestry can change availability without notice, so check the current page. Obtain a missing comparison from an authorized kit manager when your own access cannot show it.
+The ordinary shared-match preview shows up to three people without membership; family-history membership unlocks the full list. Enhanced Shared Matches adds match-to-match cM with Pro Tools. That enhanced website view is available in the US, Canada, Australia and UK, as listed in Ancestry's help checked 2026-10-03; Ancestry can change availability without notice, so check the current page.
+
+**Privacy gate:** <!-- privacy-gate: contact --> Asking a kit manager for a comparison involves living testers' DNA; answer the privacy gate in `SKILL.md` and stage the request through [DNA match outreach staging](dna-match-outreach-staging.md). Obtain a missing comparison from an authorized kit manager when your own access cannot show it.
 
 For an authorized helper, check DNA-result access and access to the needed tree independently,
 including whether each intended invitation is accepted and usable. Keep both separate from
@@ -55,7 +57,7 @@ describes these steps.
 
 Open Enhanced Shared Matches and sort by cM **to the target**. Start with its highest-sharing relatives, including people far down your own match list. The standard shared-match list still omits a shared match who shares less than 20 cM with you (Estes, 2022-05-12; Ancestry's current help states no figure). Enhanced Shared Matches lists relatives below that floor: Bartlett (2024-07-07) found a relative sharing just **9 cM with him but 1773 cM with his 25 cM target**.
 
-Open those relatives' trees and use obituaries, births and census households to identify the target and its parents. At 1773 cM, the [chart-supported candidates](https://dnapainter.com/tools/sharedcmv4) are full/half sibling, aunt/uncle–niece/nephew and grandparent–grandchild paths. If their trees are also missing, use recipe 3.
+Open those relatives' trees and use obituaries, births and census households to place the target and its parents in the family. Identify a living target only as far as the family question needs: name, parents and place in the family, never its current address, contacts, workplace or online accounts (Living people, in `SKILL.md`). At 1773 cM, the [chart-supported candidates](https://dnapainter.com/tools/sharedcmv4) are full/half sibling, aunt/uncle–niece/nephew and grandparent–grandchild paths. If their trees are also missing, use recipe 3.
 
 Before tracing the target's parents' families, use its documented relatives to choose which side
 to search first. Record each close relative's side of the target's family, as its tree and records
@@ -113,6 +115,8 @@ Search Ancestry matches for surnames along the descent paths, including spouses 
 
 Surname and birthplace searches require no membership; viewing tree details does.
 
+**Privacy gate:** <!-- privacy-gate: contact --> Confirming a tester with a kit manager is contact with a living person about their DNA; answer the privacy gate in `SKILL.md` and stage it through [DNA match outreach staging](dna-match-outreach-staging.md).
+
 Before searching a match's linked tree for the shared line, check that its home person is plausibly the tester. For example, compare the sex shown on the match page (such as the profile colour) with the tree's home person. If they differ, re-anchor on the likely tester, such as a spouse, and record that change before comparing surnames or places. A [tree-anchoring example](https://genarchivist.net/showthread.php?tid=588) found the shared line only after this switch. A corrected anchor is still a tree hypothesis: confirm the tester with the manager and the descent with records.
 
 Treat a settler or diaspora Journey as a lead for a match search, not as evidence that a direct ancestor lived there. A [Journeys discussion](https://genarchivist.net/showthread.php?tid=1212) describes an assignment that came from an emigrant sibling's many descendants. Where the view is available, filter matches by that Journey and trace their trees to the collateral line that connects. Record the Journey's paternal/maternal label with its date, and separately the side of each tree person it lists. In a [later example](https://genarchivist.net/showthread.php?tid=2418) the list split across both parents. Those people come from your own tree, so they do not independently confirm it.
@@ -163,10 +167,10 @@ Editing a tree leaves DNA matches and cM unchanged; it changes tree-derived path
 
 For ThruLines, matching must be enabled, with family-history membership, two-step verification or Apple/Google sign-in, and a linked public or private searchable tree containing identifying details across at least four generations. ThruLines reaches fifth-great-grandparents. A match appears in ThruLines only when that match also has a linked public or private searchable tree in which a common ancestor can be identified. A missing ThruLine can therefore reflect the match's tree, link or searchability, or an unidentified common ancestor; on its own it does not disprove a relationship. Its parent filter uses biological-parent labels in the tree, rather than DNA By Parent.
 
-**Privacy checkpoint before relinking:** A separate, labeled tree is not by itself a
+**Privacy gate before relinking:** <!-- privacy-gate: link --> A separate, labeled tree is not by itself a
 privacy safeguard. Before changing the DNA link or searchability, inspect the candidate
 people, notes and tentative relationships against the actual visibility/searchability
-controls, and apply the separate permission gate in `SKILL.md`. Do not make a sensitive
+controls, and answer the privacy gate in `SKILL.md`. Do not make a sensitive
 hypothesis searchable just to obtain suggestions. If that disclosure is not explicitly
 approved or its scope cannot be checked, leave the current link unchanged and keep the
 hypothesis local and unlinked.
@@ -179,6 +183,8 @@ Only after that privacy decision, for an unresolved ancestral path:
 4. Repeat for another hypothesis, then restore the original link.
 
 Bartlett (2023-07-08) reported **31 new ThruLines candidates** after changing a speculative lineage. Independently document candidates' descents, check the recorded cM against the relationship-range reference, and compare those sourced placements under the competing hypotheses. Mark paths supplied only by the research tree “tree-generated.”
+
+**Privacy gate:** <!-- privacy-gate: contact --> Writing to a match for records, photos and stories is contact with a living person; answer the privacy gate in `SKILL.md` and stage it through [DNA match outreach staging](dna-match-outreach-staging.md).
 
 Do not drop a match whose descent from the common couple is documented just because it shares under 15 or 20 cM. True distant cousins often share one small segment (Bartlett, 2026-11-04). Make two separate decisions: whether to contact the match for records, photos and stories, and whether its segment counts as evidence. A small match can be a records lead even when its DNA cannot support the placement. Sort your documented matches by cM to see how many a proposed cutoff would discard.
 
@@ -261,6 +267,8 @@ tags nor cross-group cells establish an ancestral path.
 ## 8. Match the person across sites before using segments
 
 **Use when:** another site's segment data is offered for an Ancestry match.
+
+**Privacy gate:** <!-- privacy-gate: contact --> Asking the tester or kit manager to confirm identity is contact with a living person; answer the privacy gate in `SKILL.md` first.
 
 Compare the tested person's name or initials, manager, tree people and overlapping matches (Bartlett, 2022-07-06). Confirm identity through documented test-registration/upload provenance or the tester/kit manager. Compare Ancestry's **unweighted cM**, the amount before Timber, with the other provider's total, rather than using Ancestry's weighted headline (Larkin, 2021-06-05; updated 2022-03-29).
 

@@ -36,12 +36,15 @@ measured sharing, inheritance-path eligibility and relationship conclusions.
    privacy decision. A registered test feeds DNA Connections lists on related profiles, and a
    GEDmatch kit ID links GEDmatch results to the WikiTree pedigree. Before saving any test,
    identifier, kit ID or the FamilyTreeDNA WikiTree setting in section 2, make the separate
-   privacy decision in `SKILL.md` step 5: record the
+   privacy decision by answering the privacy gate in `SKILL.md`: record the
    tester, the values to be entered and who can see the affected profiles under their current
    privacy settings, and require the tester's explicit permission for these links. If it is
    unclear, keep the details in the private register and save nothing. Apply the consent rules
    in [AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline).
-3. Select the testing company and actual test type/level. Enter only verified provider
+3. **Privacy gate:** <!-- privacy-gate: link --> Provider identifiers, usernames, haplogroup
+   labels, a GEDmatch kit ID and any further test registration link the living tester's DNA
+   tests to their WikiTree profile and pedigree; answer the privacy gate in `SKILL.md` first.
+   Select the testing company and actual test type/level. Enter only verified provider
    identifiers, usernames and haplogroup labels in the applicable fields. Keep a reported
    haplogroup's laboratory/test basis beside it; a consumer autosomal haplogroup label
    does not become a dedicated Y-DNA or mtDNA test.
@@ -64,8 +67,12 @@ in the private register.
 
 These routes use different inputs. Completing one does not establish that the other link
 works or that a pedigree connection is genetically confirmed. Save either connection only after
-the privacy decision in `SKILL.md` step 5 (section 1, step 2); it covers the FamilyTreeDNA setting
+the privacy decision made through the privacy gate in `SKILL.md` (section 1, step 2); it covers the FamilyTreeDNA setting
 as well as the GEDmatch kit ID.
+
+**Privacy gate:** <!-- privacy-gate: link --> Saving the WikiTree ID in FamilyTreeDNA or the
+GEDmatch kit ID on WikiTree links the living tester's kit to their WikiTree tree and pedigree;
+answer the privacy gate in `SKILL.md` first.
 
 | Provider | Connection route | Destination check |
 | --- | --- | --- |

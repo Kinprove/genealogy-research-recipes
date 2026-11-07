@@ -43,24 +43,91 @@ today's date. Do not check for a newer version over the network yourself.
    those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
    reading a WATO ranking as a verdict, ignoring endogamy).
 4. If no recipe matches, answer normally — don't force-fit.
-5. Before linking DNA results to a searchable tree, transferring genetic or match data to
-   another service, or using an extension to export it, make a separate privacy decision.
-   Record the people and exact data involved, the destination and intended audience; inspect
-   the available visibility/searchability controls, export fields and extension permissions.
-   Explain any tentative relationships or sensitive findings the action could disclose.
-   Require explicit permission covering that action, destination and each person's genetic
-   data; kit/account access or permission to analyze alone does not establish it.
-   If permission or disclosure scope is unclear, do not link, transfer or export; keep the
-   material local. Apply the consent and redaction rules in
-   [AI for DNA research](recipes/ai-for-dna-research.md#verification--privacy-discipline).
-6. For a living person, stay on the family-history question and the materials the user
-   supplied. Do not look up a living person's current address, phone number, workplace,
-   online accounts, movements or finances, and do not trace minors on the web. Do not use
-   people-search or contact-aggregator services to locate living people. Never use leaked
-   or breached data, another person's account or session, or a false pretext. When the
-   question itself concerns a living person (unknown parentage, a planned contact), keep
-   the data to the minimum and stage any contact through
-   [DNA match outreach staging](recipes/dna-match-outreach-staging.md).
+5. Before any step that uploads, exports, links, publishes, contacts a person, requests a
+   record about a person who may be living, or pastes data into a third-party tool, answer
+   the [privacy gate](#privacy-gate). Recipes mark such steps with a **Privacy gate**
+   checkpoint; the gate applies to unmarked steps of the same kinds too. For a living person,
+   also follow [Living people](#living-people).
+
+## Privacy gate
+
+Answer these items in writing, in your reply, before the step runs. If any answer is
+unknown, do not move the data: keep it local and tell the user what is missing.
+
+- **People.** Name everyone whose data is involved. Treat anyone who may be living as
+  living. A minor's data needs a parent's or guardian's permission.
+- **Data.** Name the exact fields, files, segments, photos or records. Say explicitly when
+  they show health status, a tentative relationship, unexpected parentage or another
+  sensitive finding.
+- **Destination.** Name the service, tool, person or place the data goes to.
+- **Audience.** Say who can see it there, now and after later setting changes.
+- **Controls.** Inspect the destination's visibility, searchability, matching and export
+  settings and any extension's permissions, and record what you saw and the date. For a DNA
+  database, include whether law-enforcement uploads can match the kit.
+- **Permission.** Get explicit permission from each living person whose data leaves the user's
+  own device or account, or becomes visible to others there (a tree link, a searchable or
+  shared setting), for this action and this destination; an extension or a tool that
+  receives the data counts as a destination. Kit or account access, or permission to analyze,
+  is not permission to move or disclose. A file that stays on the user's own device needs no
+  further permission, but the Retention item applies to it. A private first message that asks
+  a person for permission needs the tester's (or user's) authorization, not that person's
+  prior permission; it may show that person only their own data and the question, never
+  other people's sensitive findings.
+- **Redaction.** Say what you remove or replace before the data moves.
+- **Retention.** Keep exported match lists, segment files and record copies on the user's
+  own device, not in shared folders or other services. Delete them when the research
+  question is answered, unless the tester (for records, the user) asks to keep them.
+- **Jurisdiction.** Ask where the user, the tester and each named person live, and which
+  rules apply there. Data-protection law can apply: genetic data is "sensitive" data under
+  the EU GDPR ([European Commission](https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en))
+  and [UK GDPR Article 9](https://www.legislation.gov.uk/eur/2016/679/article/9); both laws
+  exclude purely personal or household activity, which sharing or publishing can leave (see
+  [family interviews](recipes/family-interviews-and-oral-tradition.md)); U.S. state laws such
+  as California's Genetic Information Privacy Act give rights over genetic data a testing
+  company holds ([California Attorney General](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers));
+  Russia's personal-data law is [152-FZ](https://www.consultant.ru/document/cons_doc_LAW_61801/).
+  Record requests have their own access rules, such as Japan's koseki rule
+  ([koseki recipe](recipes/japanese-koseki-honseki-recovery.md#4-check-eligibility-before-requesting))
+  and the 75-year rule for Russian archives
+  ([Soviet personal files](recipes/soviet-personal-file-recovery.md#5-log-each-catalogue-hit-as-a-candidate-with-its-own-locator)). The destination's
+  terms apply too. Do not state a legal conclusion: ask the user to confirm the rule that
+  applies, or keep the data local.
+
+For DNA data, also apply the consent and redaction rules in
+[AI for DNA research](recipes/ai-for-dna-research.md#verification--privacy-discipline).
+
+### Living people
+
+Stay on the family-history question and the materials the user supplied. Do not look up a
+living person's current address, phone number, email, workplace, online accounts,
+movements or finances, and do not trace minors on the web. Do not use people-search or
+contact-aggregator services. Never use leaked or breached data, another person's account or
+session, or a false pretext. When the question itself concerns a living person (unknown
+parentage, a planned contact), identify them only as far as the question needs and keep the
+data to the minimum.
+
+Contact a living person only through a route the person or the tester already has, the
+testing site's own messaging, or a relative who agrees to pass the message on. The identity
+that must be easy to check is the sender's. Stage a contact about DNA (a DNA match, a kit
+manager, or a relative asked to test or approached about a DNA or parentage question) through
+[DNA match outreach staging](recipes/dna-match-outreach-staging.md). For any other contact,
+such as a cousin asked for a photograph, a record submitter or a donor, apply that recipe's
+consent and disclosure rules and its log, and skip what applies only to DNA tests (a tester's
+agreement, kit pair, site, shared cM).
+
+### Record requests
+
+When a record may be about a living person, request only what the family question needs.
+Never request a record to find a living person or to learn about their present life. Name
+the record's own access rule (closure period, who is entitled, the subject's consent) and
+follow it. Send only the identity and kinship proof the custodian asks for. The Retention
+item and the next rule apply to what arrives.
+
+### Third persons in sensitive files
+
+Informers, witnesses, interrogators and co-accused named in repression, interrogation,
+police or compensation files are not republished, and are not named in a report or tree
+shared with others. Refer to them by role, for example "a witness".
 
 ## Recipes
 

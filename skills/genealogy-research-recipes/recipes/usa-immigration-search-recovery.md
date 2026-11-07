@@ -427,7 +427,10 @@ research has stalled at a generic USCIS request.
    subsequent naturalization records were filed in A-Files.
 2. For an A-File, inspect NARA's catalog entry and Contact(s). Save the name,
    NAID and A-number. Transfer eligibility by age does not prove transfer.
-3. For AR-2, check the Flexoline Index's current coverage, then follow NARA's
+3. **Privacy gate:** <!-- privacy-gate: request --> An AR-2 or C-File request
+   sends the identifiers of a registrant or naturalized person, who may be
+   living, to NARA or USCIS; answer the privacy gate in `SKILL.md` first.
+   For AR-2, check the Flexoline Index's current coverage, then follow NARA's
    AR-2 instructions. An indexed number can lack a corresponding form image;
    the form may have moved into an A-File.
 4. For C-Files, use the USCIS Genealogy Program: a known valid certificate/file number allows a [Genealogy Records Request (G-1041A)](https://www.uscis.gov/sites/default/files/document/forms/g-1041ainstr.pdf); without that number, an Index Search Request (G-1041) may be needed first.
@@ -447,6 +450,10 @@ catalog miss leaves custody unresolved.
 [NARA naturalization](https://www.archives.gov/research/immigration/naturalization),
 [A-Files](https://www.archives.gov/research/immigration/aliens),
 [AR-2](https://www.archives.gov/research/immigration/alien-registration-ar-2)
+
+**Privacy gate:** <!-- privacy-gate: request --> A USCIS index search, a visa-file request or an
+alien-registration request names an immigrant who may be living, and the files can name family
+members; answer the privacy gate in `SKILL.md` before sending any of them.
 
 Do not use the immigration visa number printed on an arrival manifest as the file locator for a
 visa file. These files are reportedly not arranged by that number. Request a USCIS index search
@@ -477,7 +484,9 @@ expected entry cannot be reached in the viewer.
 2. Browse from the ship/date or nearby valid frames; try another provider of
    the same series. For court volumes, inspect page-number continuity and
    the volume's internal index.[12]
-3. If the digitized sequence skips the referenced page, prepare a targeted
+3. **Privacy gate:** <!-- privacy-gate: request --> A targeted request names the
+   researched person, who may be living; answer the privacy gate in `SKILL.md`
+   first. If the digitized sequence skips the referenced page, prepare a targeted
    request to the holding archive with the volume, page, person and date;
    include the observed image gap.
 

@@ -102,7 +102,13 @@ The plugin collects, stores and sends nothing by itself. It is text, plus one sc
 (`scripts/lookup_beider_name.py`) that looks up name variants offline, on your machine.
 Some recipes tell the agent to search public record sites, such as FamilySearch or national
 archives, for the names, places and dates you give it. Those searches run through your agent's
-own web tools, during the research you ask it to do. Kinprove's privacy policy:
+own web tools, during the research you ask it to do.
+
+Some recipes go further: they describe uploading a DNA file or a tree to another service (such
+as GEDmatch or DNA Painter), exporting match lists, using a browser extension, requesting
+records about people who may be living, or contacting relatives and DNA matches. Before each
+of these steps the skill tells the agent to stop at its privacy gate: say what data leaves,
+whose it is and where it goes, and ask you first. Kinprove's privacy policy:
 <https://kinprove.io/privacy>.
 
 ## Kinprove MCP (optional)

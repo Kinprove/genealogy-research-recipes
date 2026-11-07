@@ -9,6 +9,16 @@ It does not cover the following, which have their own recipes:
 - Consent before an AI processes or names a match: [AI for DNA research](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-dna-research.md).
 - Whether a placement is proven: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- Common assistant failures this recipe prevents
+- 1\. Clear the consent gate first
+- 2\. Stage the approach by relationship closeness
+- 3\. Write a first message the recipient can check
+- 4\. Inviting an untested relative to test
+- 5\. Log every attempt; record silence as silence
+- Output
+
 ## Common assistant failures this recipe prevents
 
 - Drafting or sending contact on its own initiative, or for a helper, without the tester's consent.
@@ -28,6 +38,8 @@ It does not cover the following, which have their own recipes:
 
 ## 2. Stage the approach by relationship closeness
 
+**Privacy gate:** <!-- privacy-gate: contact --> Every message in this step goes to a living person and can disclose the tester's case; clear step 1 and answer the privacy gate in `SKILL.md` before any of them is sent.
+
 Rank every planned recipient by how close the relationship is and how sensitive the case is. Then apply these tiers:
 
 - **Distant cousins (second cousin or further, where the match is not itself evidence of the parentage question).**
@@ -35,7 +47,8 @@ Rank every planned recipient by how close the relationship is and how sensitive 
   - Ask for something factual and limited, such as sharing a locked or missing tree ("I'm helping someone; could you please share your tree with us?").
   - Source: Eberle's practice in client cases [S4].
 - **Possible birth parent, half-sibling or another immediate relative implicated in the question.**
-  - The tester sends the message, not the helper. The helper only supports, for example by finding contact details. [S4]
+  - The tester sends the message, not the helper. The helper only supports, for example by drafting the message and keeping the log. [S4]
+  - Use a contact route the tester already has, the testing site's messaging, or a relative who agrees to pass the message on. Do not search for the recipient's address, phone number, email or online accounts (Living people, in `SKILL.md`).
   - Use a fill-in template that sets out facts only:
     - the sender is an adoptee (or describe the situation);
     - the sender has DNA tested and has these matches;
@@ -50,6 +63,8 @@ Rank every planned recipient by how close the relationship is and how sensitive 
 Contacting a more distant relative is still contact. It needs the same consent and disclosure limits as step 1.
 
 ## 3. Write a first message the recipient can check
+
+**Privacy gate:** <!-- privacy-gate: contact, publish --> The message names kits, shared DNA and possibly a tree with living relatives in it; answer the privacy gate in `SKILL.md` before sending it or the tree link.
 
 Address the message so that it works whether the recipient is the tester or someone managing the kit. Rossi manages several kits and warns against assuming that the reader is the matching tester, or that you are matching their own kit [S5]. Include:
 
@@ -73,7 +88,8 @@ For the most sensitive tier, step 2 limits what you may say, and those limits ov
 
 ## 4. Inviting an untested relative to test
 
-- **Channel and identity.** Make first contact by email or, better, social media, from an identity the recipient can look up and confirm is real. Do not cold call or send unsolicited postal letters: strangers' contact raises scam worries, and the recipient has to trust that you are real before you can persuade them to test [S2].
+- **Privacy gate:** <!-- privacy-gate: contact, publish --> The invitation, and any tree snapshot or family photos sent with it, reach a living person and may show other living relatives; answer the privacy gate in `SKILL.md` first.
+- **Channel and identity.** Reach the relative through a route the tester already has, or through a relative who knows them and agrees to pass the message on. Do not search for their email address, phone number or social-media accounts. Write from an identity the recipient can look up and confirm is real; when the route is email or social media, the presenter prefers social media for that reason. Do not cold call or send unsolicited postal letters: strangers' contact raises scam worries, and the recipient has to trust that you are real before you can persuade them to test [S2].
 - **Say what the test would resolve.** Name the specific question, such as which ancestor or which brick wall, and why the answer is good for the recipient. "If you can DNA test, we can learn so much more about the family" is the vague form the presenter criticises [S2].
 - **Help them recognise the connection.** Offer a tree snapshot, or photos of relatives you share or of their own family. Second cousins of a grandparent may still know people you know. [S2] The presenter warns to be careful with attachments [S2]. Since the barrier at this point is scam suspicion, put the snapshot in the message body or send a tree link rather than an unsolicited file.
 - **Privacy.** If asked, describe the privacy risks plainly. Do not sugarcoat them or lie [S2]. Do not assert any company's current privacy terms unless you have checked them.
@@ -82,6 +98,8 @@ For the most sensitive tier, step 2 limits what you may say, and those limits ov
 ## 5. Log every attempt; record silence as silence
 
 For each message, log the date, recipient, kit, site, channel, sender (tester or helper), the disclosure tier used, and the reply status.
+
+**Privacy gate:** <!-- privacy-gate: export, publish --> Screenshots of match entries and trees name living testers: keep them on the user's device and delete them with the case files, as the privacy gate's Retention item says. Posting about the case online publishes it; answer the privacy gate in `SKILL.md` first.
 
 Before the first message to any match, and before posting about the case online, save dated screenshots of the match entry (kit names, shared cM, longest segment) and of any tree linked to the match. Keep them with the log. Matches may later make their profiles private or remove their trees [S7].
 

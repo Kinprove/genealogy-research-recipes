@@ -42,6 +42,9 @@ without warning. Log an empty reply or a lone first page as an interrupted searc
 does not show that a book is indexed or fully viewable. Check how a connector authenticates: one
 that replays the website session may breach the terms. [S60]
 
+**Privacy gate:** <!-- privacy-gate: export --> Syncing Family Tree data into a local file copies the
+details of any living relatives in it; answer the privacy gate in `SKILL.md` first.
+
 FamilySearch.org has no GEDCOM export of the shared Family Tree: its own export page says GEDCOM
 export is no longer supported there and points to compatible tree-management apps [S71]. Never send
 a user to a website "Export GEDCOM" menu. Tree data reaches a local file only through
@@ -507,6 +510,10 @@ nothing. Sources: [history](https://www.youtube.com/watch?v=Q4YYIXVwfGE),
 [double extraction](https://www.youtube.com/watch?v=6K9ZF5aunMs). For exporting or importing a
 GEDCOM, see [Export research findings to a GEDCOM file without changing what they prove](gedcom-research-export.md).
 
+**Privacy gate:** <!-- privacy-gate: export, upload --> Exporting a GEDCOM from Ancestry or MyHeritage
+and uploading it to FamilySearch moves everyone in the tree, including anyone who may be living;
+answer the privacy gate in `SKILL.md` first and record the tree's Settings visibility.
+
 For a tree on FamilySearch that only you control, upload a GEDCOM at **Family Tree > Manage
 Trees**; export it from Ancestry or MyHeritage, or build it in desktop software [S79]. The upload
 becomes a User Tree in the Genealogies collection. You and the people you invite can edit it, and
@@ -650,7 +657,7 @@ observations; confirm the current controls and do not assume one repair cleans b
 1. Create a source with the original record link, citation and the relevant passage.
 2. Verify that the created source is available in Source Box rather than assuming it was saved.
 3. On each additional established person, use the Source Box attachment route described in the case.
-4. Before adding a research report, choose who needs to read it. Keep the sensitive master private; prepare a shareable, redacted version when collaborators need the PDF.
+4. **Privacy gate:** <!-- privacy-gate: publish --> Before adding a research report, choose who needs to read it and answer the privacy gate in `SKILL.md`, because the report and its summary may name living people. Keep the sensitive master private; prepare a shareable, redacted version when collaborators need the PDF.
 5. Upload the chosen PDF to Memories, explicitly select its visibility, and verify the saved setting before selecting it through Add New Memory Source. Current upload guidance defaults Memories to private; uploading or attaching a source does not establish public visibility.
 6. If the PDF stays private, put a self-contained, shareable evidence summary and underlying citations in visible source/reason fields so collaborators can assess the correction without opening the PDF.
 7. Reopen each profile's source and confirm the right person and documentary role. Check access from the intended audience's perspective, with authorized access, and record whether that audience can read the PDF or the evidence summary.
@@ -662,6 +669,9 @@ observations; confirm the current controls and do not assume one repair cleans b
 **Sources:** [S17](https://familylocket.com/?p=31567), [S18](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-upload-photos-or-documents-to-memories), [S19](https://www.familysearch.org/en/help/helpcenter/article/what-are-private-memories).
 
 ### 18. Recover a missing Memory from an independent copy
+
+**Privacy gate:** <!-- privacy-gate: upload --> A restored photo or story may show or name living
+people; answer the privacy gate in `SKILL.md` before restoring or re-uploading it.
 
 Preserve the affected item's references, associated profiles/albums and surviving title,
 tags or text. Locate a separately preserved, authorized original or attributable earlier

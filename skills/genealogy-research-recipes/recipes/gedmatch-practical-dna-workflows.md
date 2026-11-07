@@ -36,12 +36,15 @@ Segment Search, the Phasing tool and Lazarus among the paid Tier 1 tools. It say
 as free. Check the home-page marking for Matching Segment Search, Triangulation and Multiple Kit
 Analysis before planning workflows 4–8. [H9]
 
-**Privacy checkpoint before any upload:** Authorization to analyze a kit is not permission to
+**Privacy gate before any upload:** Authorization to analyze a kit is not permission to
 upload it. An upload places that person's genome in GEDmatch, where the kit's settings decide who
-can match and see it. Before each upload, make the separate privacy decision in `SKILL.md` step 5:
-record the tested person, the file and the visibility and matching options the upload form
-currently offers, and require that person's explicit permission for GEDmatch and the chosen
-options. If permission is unclear, do not upload. Apply the consent rules in
+can match and see it. Before each upload, answer the privacy gate in `SKILL.md`: record the
+tested person, the file and the privacy option the upload form currently offers, with what
+GEDmatch's current terms say each option allows for law-enforcement matching (the uploader
+chooses an option at upload [H11]; read the terms rather than assuming an opt-out excludes
+every law-enforcement comparison), and require that person's explicit permission for GEDmatch
+and the chosen option. If permission is unclear,
+do not upload. Apply the consent rules in
 [AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline).
 
 Use separate workflows for general spreadsheet export and cluster construction. This recipe
@@ -55,10 +58,11 @@ query controls, local marker coverage and reporting scope.
 
 ### 1. Establish a kit registry and a comparable run baseline
 
-1. Record each kit's tested person, testing source and whether it is measured, phased or
-   reconstructed. Keep multiple tests of one person as separate kit records. Upload only after
-   the privacy decision in `SKILL.md` step 5 (see the checkpoint in "Before starting"). Preserve
-   the original download and the upload receipt; use the vendor's current upload instructions. [H1]
+1. **Privacy gate:** <!-- privacy-gate: upload --> Upload a kit only after the privacy gate in
+   `SKILL.md`, as the checkpoint in "Before starting" describes. Record each kit's tested person,
+   testing source and whether it is measured, phased or reconstructed. Keep multiple tests of one
+   person as separate kit records. Preserve the original download and the upload receipt; use
+   the vendor's current upload instructions. [H1]
 2. Record the readiness state actually shown. GEDmatch's help says a kit must finish processing,
    "typically 24–48 hours after upload", before its matching tools work; use that only to plan
    the session, and let the status shown decide. [H10] After processing, use a known relative as a
@@ -92,9 +96,10 @@ of shared material belongs to `xdna-phasing-judgment.md` and the endogamy guidan
 per-kit step.
 
 If an authorized, available lookup tool accepts a retained exact kit ID, email or GEDCOM
-ID, query that key and record its type and the actual lookup scope. Preserve returned
-aliases, associated kits/GEDCOMs and contact/manager roles; one email's kits need not
-represent one tested person. Verify tested-kit provenance separately before comparison.
+ID, query that key and record its type and the actual lookup scope. Preserve the returned
+aliases, associated kits/GEDCOMs and manager roles the comparison needs; do not copy contact
+details beyond what the kit already shows to matches (Living people, in `SKILL.md`). One
+email's kits need not represent one tested person. Verify tested-kit provenance separately before comparison.
 Keep an empty, inaccessible or unavailable lookup unresolved under its observed scope;
 it does not establish that a person or kit does not exist.
 
@@ -129,8 +134,10 @@ known-relative control has a saved result. Record unavailable controls explicitl
 1. Run One-to-Many for the focal kit and preserve the candidate row, including the match kit,
    total/longest-segment values, source and reported overlap when present. Use kit IDs as keys;
    display names are labels. [H3]
-2. Open the candidate's direct comparison, or enter the two kit IDs into One-to-One. Save the
-   position table and, when useful, the graphics. Historical tutorials demonstrate using the
+2. **Privacy gate:** <!-- privacy-gate: export --> The saved table holds a living match's segment
+   data; keep it on the user's device and delete it when the question is answered, as the
+   privacy gate in `SKILL.md` says. Open the candidate's direct comparison, or enter the two kit
+   IDs into One-to-One. Save the position table and, when useful, the graphics. Historical tutorials demonstrate using the
    match-list link to prefill the pair and a positions-only view for copying. [S1, H2]
 3. Record every reported segment: kit pair, chromosome, start/end, cM and SNP count, with its
    run ID. Keep X comparisons in separately labeled rows.
@@ -183,8 +190,11 @@ chromosome, start, end, cm, snps, comparison_type, status, discrepancy_reason`.
 
 ### 3. Turn a match-both lead into a checked three-kit comparison
 
-1. Use the current match-one-or-both/shared-match tool to collect candidate C for focal kits A
-   and B. Save that run's settings and the original membership list. [S2]
+1. **Privacy gate:** <!-- privacy-gate: export --> The membership list names living testers;
+   keep it on the user's device and delete it when the question is answered, as the privacy
+   gate in `SKILL.md` says. Use the current match-one-or-both/shared-match tool to collect
+   candidate C for focal kits A and B. Save that run's settings and the original membership
+   list. [S2]
 2. Run A–B, A–C and B–C One-to-One comparisons. The membership list does not supply the
    three chromosome-level results. [S3, H4]
 3. For intervals on the same chromosome and coordinate build, record their common core:
@@ -213,8 +223,10 @@ B–C comparison cannot be replaced by two overlaps with A.
 
 1. Choose a saved segment, then enter its focal kit, chromosome and coordinate window in
    Segment Search. Capture the display build, match cap, thresholds and exclusions shown. [H5]
-2. Save the returned CSV when offered; otherwise preserve the table and report with their
-   run manifest. Treat every returned interval as a candidate: the search can return a segment
+2. **Privacy gate:** <!-- privacy-gate: export --> Segment Search results list living matches'
+   kits and segments; keep them on the user's device and delete them when the question is
+   answered, as the privacy gate in `SKILL.md` says. Save the returned CSV when offered;
+   otherwise preserve the table and report with their run manifest. Treat every returned interval as a candidate: the search can return a segment
    that overlaps only part of the requested window. Its display color is not a pairwise test. [H5]
 3. Sort by chromosome/start/end and record the actual overlap with the target window. Select
    useful candidates for Multiple Kit Analysis or workflow 3; retain the selection list. [H5]
@@ -328,8 +340,8 @@ paths and selecting relatives; `unknown-parentage-wato.md` for placement hypothe
 `evidence-proof-judgment.md` for documentary identity and conclusions. Pass the preserved
 run records with those requests.
 
-**Privacy checkpoint before painting:** The measurements carry other testers' segment data. Before
-passing them to DNA Painter, make the separate privacy decision in `SKILL.md` step 5: require
+**Privacy gate before painting:** <!-- privacy-gate: third-party-tool --> The measurements carry other testers' segment data. Before
+passing them to DNA Painter, answer the privacy gate in `SKILL.md`: require
 explicit permission covering this action, this destination and each person's data, and strip
 identifiers the map does not need, as
 [AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline) requires. If

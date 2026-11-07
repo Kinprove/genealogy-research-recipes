@@ -28,6 +28,8 @@ Record the entry's locator and the domicile exactly as written, before any norma
 
 Treat the recovered domicile as a set of historical place names: prefecture, county and village. Trace the village through its municipal mergers to the present municipality. The presenter uses the county and village articles on Wikipedia, with machine translation if needed. His example goes from a Wakayama Prefecture county and village to its successor town. [S2]
 
+**Privacy gate:** <!-- privacy-gate: request --> A koseki request sends the requester's identity and proof of descent to a municipal office for a register that may name living relatives, so answer the privacy gate in `SKILL.md` first.
+
 Record the historical name and the current municipality side by side, with each step in the merger chain and where you found it. Send the request to the current successor's office, not the one nearest a remembered hometown. Confirm the merger with the municipality if the chain is unclear.
 
 ## 4. Check eligibility before requesting
@@ -36,6 +38,7 @@ Record the historical name and the current municipality side by side, with each 
 - Requests go up the direct line: yourself, then parents, grandparents and further back. Collateral relatives' registers (aunts, uncles, nieces, nephews, cousins) are not available as of right. [S1]
 - A proxy can request on the descendant's behalf with a letter of authorization (委任状) signed by the requester. The proxy presents the request form, the 委任状 and the proxy's own ID ([Edogawa City FAQ](https://www.city.edogawa.tokyo.jp/e031/qa/kurashi/todokede/kosekishomei08.html)). The presenter asks his clients for a notarized power of attorney. That is his own practice, not a general legal requirement. [S1]
 - Prove direct descent with ID plus birth and death certificates and immigration records that link you to the ancestor. If you hold your own koseki, ID plus that koseki is enough to start, because it names your parents. [S1], [S2]
+- **Privacy gate:** <!-- privacy-gate: request --> Each koseki or closed-register request sends ID and descent proof and returns registers that may name the requester, parents and other living relatives, so answer the privacy gate in `SKILL.md` before each request.
 - Each koseki is organized by family unit and names the parents. Request one generation at a time until no earlier register survives. Genealogy requests of this kind are common, and they can take weeks ([Fukuoka City](https://www.city.fukuoka.lg.jp/shimin/kusei/life/koseki_kouikikoufu.html)). [S2]
 - **Wide-area issuance (広域交付).** Since 1 March 2024, an eligible requester can get koseki and closed-register (除籍) certificates at any municipal office in Japan. Some koseki and closed registers that have not been computerized are excluded, so request those from the honseki municipality. The requester must appear in person, requests by post or by a proxy are not allowed, and it covers only the requester, the spouse and direct-line relatives ([MOJ](https://www.moj.go.jp/MINJI/minji04_00082.html)). Fukuoka City's list of certificates under this route also includes pre-revision registers (改製原戸籍) ([Fukuoka City](https://www.city.fukuoka.lg.jp/shimin/kusei/life/koseki_kouikikoufu.html)). Most overseas descendants cannot appear in person, so for them this route does not help.
 
