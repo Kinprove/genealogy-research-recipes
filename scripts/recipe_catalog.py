@@ -256,7 +256,7 @@ def render_capabilities(catalog):
              "| Recipe | Browse | Local script | Extensions | Data transfer | Contact | Privacy gate |",
              "| --- | --- | --- | --- | --- | --- | --- |"]
     for m, _ in sorted(catalog, key=lambda item: item[0]["id"]):
-        cells = [f"[{m['id']}]({SKILL_PATH}/recipes/{m['id']}.md)"]
+        cells = [f"[{m['id']}]({SKILL_PATH.as_posix()}/recipes/{m['id']}.md)"]
         cells += [", ".join(m["capabilities"][k]).replace("|", "&#124;") or "—"
                   for k in ("browse", "local_script", "extensions", "data_transfer", "contact")]
         cells += ["required" if m["gates"] else "—"]

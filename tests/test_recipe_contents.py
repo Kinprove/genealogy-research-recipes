@@ -84,6 +84,70 @@ class RecipeContentsTests(unittest.TestCase):
                 self.assertEqual(actual, expected, hint)
         self.assertGreater(checked, 0, "no recipe needed a Contents list; the line count is probably wrong")
 
+    def test_recipe_heading_counts_match_subsections(self):
+        """Issue #78: Recipe heading counts of the form `## <Number word> ...` must match the `###` subsections."""
+        word_to_num = {
+            "one": 1, "two": 2, "three": 3, "four": 4, "five": 5,
+            "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10,
+            "eleven": 11, "twelve": 12, "thirteen": 13, "fourteen": 14, "fifteen": 15,
+            "sixteen": 16, "seventeen": 17, "eighteen": 18, "nineteen": 19, "twenty": 20,
+        }
+        h2_count_re = re.compile(r"^##\s+([A-Za-z]+)\s+.*")
+        checked = 0
+        for path in sorted(RECIPES.glob("*.md")):
+            lines = path.read_text(encoding="utf-8").splitlines()
+            for i, line in enumerate(lines):
+                m = h2_count_re.match(line)
+                if m and m.group(1).lower() in word_to_num:
+                    expected = word_to_num[m.group(1).lower()]
+                    sub_count = 0
+                    for next_line in lines[i + 1 :]:
+                        if next_line.startswith("## "):
+                            break
+                        if next_line.startswith("### "):
+                            sub_count += 1
+                    with self.subTest(recipe=path.name, heading=line):
+                        self.assertEqual(
+                            sub_count,
+                            expected,
+                            f"{path.name}: heading {line!r} claims {expected} sections but has {sub_count}",
+                        )
+                    checked += 1
+        self.assertGreater(checked, 0)
+
+    def test_skill_summary_counts_match_recipes(self):
+        """Issue #78: Counts in SKILL.md recipe descriptions must match the actual number of procedures."""
+        skill_file = ROOT / "skills/genealogy-research-recipes/SKILL.md"
+        word_to_num = {
+            "one": 1, "two": 2, "three": 3, "four": 4, "five": 5,
+            "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10,
+            "eleven": 11, "twelve": 12, "thirteen": 13, "fourteen": 14, "fifteen": 15,
+            "sixteen": 16, "seventeen": 17, "eighteen": 18, "nineteen": 19, "twenty": 20,
+        }
+        skill_text = skill_file.read_text(encoding="utf-8")
+        pattern = re.compile(r"-\s+\*\*`recipes/([^`]+)`\*\*[^\r\n]*\r?\n\s+([A-Za-z]+)\s+.*")
+        checked = 0
+        for m in pattern.finditer(skill_text):
+            recipe_name = m.group(1)
+            word = m.group(2).lower()
+            if word in word_to_num:
+                expected = word_to_num[word]
+                rpath = RECIPES / recipe_name
+                if rpath.exists():
+                    rlines = rpath.read_text(encoding="utf-8").splitlines()
+                    h2_nums = [l for l in rlines if re.match(r"^##\s+\d+\.", l)]
+                    h3_nums = [l for l in rlines if re.match(r"^###\s+\d+\.", l)]
+                    actual = len(h2_nums) or len(h3_nums)
+                    if actual:
+                        with self.subTest(recipe=recipe_name):
+                            self.assertEqual(
+                                actual,
+                                expected,
+                                f"SKILL.md claims {expected} ({word}) for {recipe_name} but recipe has {actual}",
+                            )
+                        checked += 1
+        self.assertGreater(checked, 0)
+
 
 if __name__ == "__main__":
     unittest.main()
