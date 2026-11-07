@@ -288,4 +288,5 @@ own customers, for example its own research assistant, needs a licence from Kinp
 version becomes MIT. Licence requests, questions, and rights holders' requests to rewrite or remove
 a passage: <hola@kinprove.io>.
 
-Release and publishing notes: [MAINTAINERS.md](MAINTAINERS.md).
+Release and publishing notes, including the locked `ci-tools` install:
+[MAINTAINERS.md](MAINTAINERS.md).

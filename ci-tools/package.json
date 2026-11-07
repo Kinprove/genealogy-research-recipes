@@ -1,0 +1,13 @@
+{
+  "name": "genealogy-research-recipes-ci-tools",
+  "private": true,
+  "engines": {
+    "node": ">=24.16.0 <25 || >=26.1.0"
+  },
+  "devDependencies": {
+    "@anthropic-ai/claude-code": "2.1.318",
+    "clawhub": "0.23.3",
+    "markdownlint-cli2": "0.23.0",
+    "openclaw": "2026.9.8"
+  }
+}

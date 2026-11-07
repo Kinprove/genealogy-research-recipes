@@ -11,6 +11,7 @@ __pycache__/
 .ruff_cache/
 
 # Packaging / build artifacts
+node_modules/
 *.zip
 *.tgz
 node_modules/
