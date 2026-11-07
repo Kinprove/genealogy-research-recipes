@@ -22,8 +22,8 @@
   },
   "assert": {
     "regex_present": [
-      "relative",
-      "endogam|pedigree collapse|multiple.*paths"
+      "relative|compar|among.*hypothes|between.*hypothes",
+      "endogam|pedigree collapse|(?:two|multiple|several).{0,30}(?:lines|paths)|cousin.marri|intermarri|community.{0,50}marri|marri.{0,80}(?:community|population)"
     ],
     "regex_absent": [],
     "rubric": [

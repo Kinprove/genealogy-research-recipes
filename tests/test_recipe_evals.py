@@ -153,6 +153,16 @@ class BehaviouralHarnessTests(unittest.TestCase):
         failures = deterministic(case, "Whose test is it? Permission must cover GEDmatch.", reads)
         self.assertTrue(any("Missing regex" in failure for failure in failures))
 
+    def test_wato_comparison_and_multiple_paths_can_use_plain_language(self):
+        case = next(case for case in load_cases() if case["id"] == "wato-ranking")
+        reads = {"unknown-parentage-wato": {"complete": True, "lines": []}}
+        for description in ("related through two lines", "cousin marriages", "an intermarried community"):
+            with self.subTest(description=description):
+                answer = f"WATO only compares entered hypotheses. Could matches be {description}?"
+                self.assertEqual(deterministic(case, answer, reads), [])
+        failures = deterministic(case, "WATO says hypothesis 3 is best.", reads)
+        self.assertTrue(any("Missing regex" in failure for failure in failures))
+
     def test_denied_read_and_outside_path_never_count(self):
         path = SKILL / "recipes/ai-for-dna-research.md"
         self.assertEqual(successful_reads(self.trace(path, error=True), SKILL), {})
