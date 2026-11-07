@@ -5,13 +5,13 @@ summary: "Recover a U.S. civil, chancery, divorce, criminal or incapacity case f
 kind: "records"
 scope: {"platforms": [], "tasks": ["Recover a U.S. civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."]}
 triggers: ["Recover a U.S. civil", "chancery", "divorce", "criminal", "incapacity case file through the records that point to it", "then inventory its loose papers"]
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "COURT-CASE-FILE-RECOVERY-01", "text": "captions, arrests, index entries and case-law searches stay bounded leads."}]
-handoff: []
-checked: null
-checked_basis: null
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+handoff: ["us-federal-court-case-file-recovery"]
+checked: "2026-11-07"
+checked_basis: "checked 2026-11-07"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1102}
 ---
 

@@ -9,8 +9,8 @@ privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "JAPANESE-KOSEKI-HONSEKI-RECOVERY-01", "text": "a romanized name or remembered region is not enough for a request, and a passenger-list hit is a candidate, not an identity."}]
 handoff: []
-checked: null
-checked_basis: null
+checked: "2026-11-07"
+checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Migration and origins", "order": 1116}
 ---

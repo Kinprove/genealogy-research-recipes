@@ -5,13 +5,13 @@ summary: "Recover a Chinese emigrant's character-written name and ancestral vill
 kind: "records"
 scope: {"platforms": [], "tasks": ["Recover a Chinese emigrant's character-written name and ancestral village before searching lineage genealogies (jiapu)."]}
 triggers: ["Recover a Chinese emigrant's character-written name and ancestral village before searching lineage genealogies (jiapu)"]
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "CHINESE-LINEAGE-JIAPU-RECORDS-01", "text": "never derive a character from a romanization, and keep each romanization, port and generation-character match as its own observation."}]
 handoff: []
-checked: null
-checked_basis: null
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+checked: "2026-11-07"
+checked_basis: "opened 2026-11-07"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Migration and origins", "order": 1115}
 ---
 

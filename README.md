@@ -136,12 +136,12 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [catholic-parish-diocesan-record-recovery](skills/genealogy-research-recipes/recipes/catholic-parish-diocesan-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [catholic-sacramental-cross-notations](skills/genealogy-research-recipes/recipes/catholic-sacramental-cross-notations.md) | record catalogues and original images | — | — | — | — | — |
 | [chechen-ingush-1944-deportation-records](skills/genealogy-research-recipes/recipes/chechen-ingush-1944-deportation-records.md) | record catalogues and original images | — | — | request | — | required |
-| [chinese-lineage-jiapu-records](skills/genealogy-research-recipes/recipes/chinese-lineage-jiapu-records.md) | record catalogues and original images | — | — | — | — | — |
+| [chinese-lineage-jiapu-records](skills/genealogy-research-recipes/recipes/chinese-lineage-jiapu-records.md) | record catalogues and original images | — | — | request | — | required |
 | [city-directory-observation-workflow](skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md) | record catalogues and original images | — | — | — | — | — |
 | [convict-transportation-record-chain](skills/genealogy-research-recipes/recipes/convict-transportation-record-chain.md) | record catalogues and original images | — | — | — | — | — |
 | [corpus-seeded-name-search](skills/genealogy-research-recipes/recipes/corpus-seeded-name-search.md) | — | — | — | — | — | — |
-| [court-case-file-recovery](skills/genealogy-research-recipes/recipes/court-case-file-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [criminal-court-prison-record-recovery](skills/genealogy-research-recipes/recipes/criminal-court-prison-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [court-case-file-recovery](skills/genealogy-research-recipes/recipes/court-case-file-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [criminal-court-prison-record-recovery](skills/genealogy-research-recipes/recipes/criminal-court-prison-record-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [deed-content-relationship-clues](skills/genealogy-research-recipes/recipes/deed-content-relationship-clues.md) | record catalogues and original images | — | — | — | — | — |
 | [descendancy-gap-worklist](skills/genealogy-research-recipes/recipes/descendancy-gap-worklist.md) | — | — | — | export | — | required |
 | [dna-comparison-controls](skills/genealogy-research-recipes/recipes/dna-comparison-controls.md) | — | — | — | export, third-party-tool | — | required |
@@ -180,7 +180,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [historical-map-record-recovery](skills/genealogy-research-recipes/recipes/historical-map-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [historical-place-name-resolution](skills/genealogy-research-recipes/recipes/historical-place-name-resolution.md) | record catalogues and original images | — | — | — | — | — |
 | [holocaust-testimony-source-interpretation](skills/genealogy-research-recipes/recipes/holocaust-testimony-source-interpretation.md) | record catalogues and original images | — | — | request | contact | required |
-| [illegitimacy-record-recovery](skills/genealogy-research-recipes/recipes/illegitimacy-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [illegitimacy-record-recovery](skills/genealogy-research-recipes/recipes/illegitimacy-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [immigrant-congregation-origin-records](skills/genealogy-research-recipes/recipes/immigrant-congregation-origin-records.md) | record catalogues and original images | — | — | — | — | — |
 | [institutional-patient-record-recovery](skills/genealogy-research-recipes/recipes/institutional-patient-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [irish-1901-1911-census-returns](skills/genealogy-research-recipes/recipes/irish-1901-1911-census-returns.md) | record catalogues and original images | — | — | — | — | — |

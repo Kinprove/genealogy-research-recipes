@@ -1,17 +1,17 @@
 ---
 id: "criminal-court-prison-record-recovery"
-title: "Recover a criminal court and prison record through the right jurisdiction and custodian"
-summary: "Find the trying court, its present custodian and the surviving prison series; follow British no-fixed-abode incidents through calendars, police and workhouse records, or seek separately surviving Swedish court-book and appeal copies; search the Swedish police gazette (1878–1950) as a lead to the trying court."
+title: "Recover U.S. criminal court and prison records, with England/Wales and Swedish routes"
+summary: "Recover U.S. criminal court and prison records, including separate clemency and pardon files; use the specific England/Wales no-fixed-abode and Swedish prison, police-gazette and court-copy routes for those retrieval problems."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find the trying court, its present custodian and the surviving prison series; follow British no-fixed-abode incidents through calendars, police and workhouse records, or seek separately surviving Swedish court-book and appeal copies; search the Swedish police gazette (1878–1950) as a lead to the trying court."]}
-triggers: ["Find the trying court", "its present custodian and the surviving prison series", "follow British no-fixed-abode incidents through calendars", "police and workhouse records", "or seek separately surviving Swedish court-book and appeal copies", "search the Swedish police gazette (1878–1950) as a lead to the trying court"]
+scope: {"platforms": [], "tasks": ["Recover U.S. criminal court and prison records, including separate clemency and pardon files; use the specific England/Wales no-fixed-abode and Swedish prison, police-gazette and court-copy routes for those retrieval problems."]}
+triggers: ["U.S. criminal court and prison records", "Sing Sing name indexes", "state clemency and federal pardon files", "England/Wales no-fixed-abode records", "Swedish prison rolls, police gazette and court copies"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "CRIMINAL-COURT-PRISON-RECORD-RECOVERY-01", "text": "establish the actual authority and copy coverage, and weigh an inmate-list miss against other evidence."}]
-handoff: ["english-nonregister-record-recovery", "uk-census-and-1939-register-interpretation"]
+guardrails: [{"id": "CRIMINAL-COURT-PRISON-RECORD-RECOVERY-01", "text": "establish the actual authority, index and copy coverage and access; weigh an inmate-list miss against other evidence. A petition or accusation is not a granted pardon or conviction."}]
+handoff: ["english-nonregister-record-recovery", "uk-census-and-1939-register-interpretation", "us-federal-court-case-file-recovery", "convict-transportation-record-chain"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
 router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1104}
 ---
 
