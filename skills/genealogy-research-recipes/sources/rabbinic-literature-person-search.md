@@ -72,16 +72,24 @@ cited instead.
   (*Otzar ha-Rabbanim*, 1975, about 20,000 rabbis);
   [JewishGen review of *Me'orei Galicia*](https://www.jewishgen.org/rabbinic/journal/mgalicia.htm)
   (genealogies of Galician rabbinic families arranged by surname);
-  [Avotaynu, *The Unbroken Chain*, third edition](https://www.avotaynu.com/books/UnbrokenChain-1.html)
-  (a published genealogy of rabbinic dynasties).
+  Bill Gladstone, [An unbroken chain of Jewish genealogy](https://thecjn.ca/arts-culture/unbroken-chain-jewish-genealogy/),
+  *The Canadian Jewish News*, 2017-08-19 (Neil Rosenstein's study of the genealogy of the
+  major Ashkenazi rabbinical dynasties).
 - **S17. Moreh tzedek as a leading rabbi.** [Kedem auction 27 catalogue](https://bidspirit-images.global.ssl.fastly.net/kedemauctionDocs/430/catalog/Keden_27_WebCat.pdf),
   item 390: a signature as moreh tzedek of Minsk, and Minsk's avoidance of the title av beit
   din after 1813.
 - **S18. Dates in Russian-Polish acts.** [JewishGen, Polish records, question 7](https://jewishgen.org/InfoFiles/Poland/Questions.htm):
   acts that give the Julian date first and the Gregorian date second.
+- **S19. Approbations.** [Encyclopaedia Judaica, "Haskamah", via Encyclopedia.com](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/haskamah):
+  approbations carry biographical and geographical data, and the bibliography cites
+  L. Loewenstein, *Index Approbationum* (1923).
+- **S20. The Hebrew press.** [Wikipedia, "Historical Jewish Press"](https://en.wikipedia.org/wiki/Historical_Jewish_Press):
+  the joint National Library of Israel and Tel Aviv University site with full-text search,
+  including *HaMagid* and *HaMelitz*.
 
 **What is Kinprove's own work.** The procedure, its order and the screening rules, including
-the readings of honorifics, kinship words and title-page dates, are Kinprove synthesis from
+the readings of era markers, honorifics, office formulae, kinship words and title-page
+dates, are Kinprove synthesis from
 its own research in rabbinic and Hasidic books between 2026-05 and 2026-10. The counts in the recipe come from that reading of public books: the surname that
 appears once against 121 mentions of "the Rav of <town>" (an English edition of Breslov
 works); at least six men called "R. Nachman" (the *Siach Sarfei Kodesh* series); 80 of 81
