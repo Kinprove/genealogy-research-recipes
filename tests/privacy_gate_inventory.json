@@ -276,6 +276,12 @@
   "checkpoint": "Asking the tester or kit manager to confirm identity is contact"
  },
  {
+  "recipe": "bessarabia-moldova-record-routing.md",
+  "kind": "request",
+  "action": "for a register still inside the 100-year term, ask ASP",
+  "checkpoint": "A request to the Public Services Agency or to ANA for a register inside or near the 100-year term"
+ },
+ {
   "recipe": "burial-evidence-packet.md",
   "kind": "contact",
   "action": "the help pages direct you to the contributor for permission [P89]. The contributor is the contact",
@@ -297,19 +303,25 @@
   "recipe": "chechen-ingush-1944-deportation-records.md",
   "kind": "request",
   "action": "Neither tells you where one family's file is. Ask both ends.",
-  "checkpoint": "A request at either end, to the Kazakh Archive of the President or to a ZAGS office"
+  "checkpoint": "A request at either end, to the Kazakh Archive of the President, to the Kazakh legal-statistics committee or to a ZAGS office"
  },
  {
   "recipe": "chechen-ingush-1944-deportation-records.md",
   "kind": "request",
   "action": "has a separate procedure and sample form for requests about victims of political repression in 1920–1950",
-  "checkpoint": "A request at either end, to the Kazakh Archive of the President or to a ZAGS office"
+  "checkpoint": "A request at either end, to the Kazakh Archive of the President, to the Kazakh legal-statistics committee or to a ZAGS office"
  },
  {
   "recipe": "chechen-ingush-1944-deportation-records.md",
   "kind": "request",
   "action": "For a birth in exile, search the civil-registration (ZAGS) records of the place of settlement.",
-  "checkpoint": "A request at either end, to the Kazakh Archive of the President or to a ZAGS office"
+  "checkpoint": "A request at either end, to the Kazakh Archive of the President, to the Kazakh legal-statistics committee or to a ZAGS office"
+ },
+ {
+  "recipe": "chechen-ingush-1944-deportation-records.md",
+  "kind": "request",
+  "action": "Also ask the Prosecutor General's Committee on Legal Statistics and Special Accounts (КПСиСУ).",
+  "checkpoint": "A request at either end, to the Kazakh Archive of the President, to the Kazakh legal-statistics committee or to a ZAGS office"
  },
  {
   "recipe": "criminal-court-prison-record-recovery.md",
@@ -696,6 +708,12 @@
   "checkpoint": "Public project results expose members' display"
  },
  {
+  "recipe": "galicia-bukovina-habsburg-record-routing.md",
+  "kind": "request",
+  "action": "Ask the civil-registry office for a recent or bound-in book.",
+  "checkpoint": "A request to a Ukrainian civil-registry office (ДРАЦС) can name people who are still living"
+ },
+ {
   "recipe": "gedcom-research-export.md",
   "kind": "upload",
   "action": "Test on a separate test tree or with a small synthetic file, and only on a destination the user chose.",
@@ -996,6 +1014,12 @@
   "checkpoint": "A request for a protected file, or for earlier access to it"
  },
  {
+  "recipe": "polish-index-original-record-recovery.md",
+  "kind": "request",
+  "action": "Ask the USC that holds the book for access to the named book and entry",
+  "checkpoint": "A USC request can reach a book the office kept"
+ },
+ {
   "recipe": "repository-photograph-collection-search.md",
   "kind": "third-party-tool",
   "action": "For AI analysis of context clues in a photo, such as a car model, a uniform",
@@ -1098,6 +1122,12 @@
   "checkpoint": "A follow-up archive inquiry asks again about"
  },
  {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "request",
+  "action": "So ask for the file itself, state the kinship and attach its proof",
+  "checkpoint": "The custody and exile requests below ask for"
+ },
+ {
   "recipe": "scottish-parish-statutory-record-recovery.md",
   "kind": "request",
   "action": "For an entry still inside the closure period, use the search result's",
@@ -1112,7 +1142,7 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Send a request for an older act to that state archive, not to the ДРАЦС.",
+  "action": "Send a request for an older act to that state archive, not to the ДРАЦС, unless",
   "checkpoint": "A Ukrainian civil-status request, even for an act over 75 years old, can name people who are still living"
  },
  {

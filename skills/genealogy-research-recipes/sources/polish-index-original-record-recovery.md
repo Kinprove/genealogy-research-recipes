@@ -14,7 +14,11 @@ screenshots, catalog entries and real family examples are not reproduced.
 - **O1:** Szukaj w Archiwach, *Search instructions* → *Genealogy search* and *Search on the
   fonds list page*, checked 2026-10-07 —
   [official instructions](https://www.szukajwarchiwach.gov.pl/en/instrukcje-wyszukiwania).
-  Current PRADZIAD, vital-record, fonds and file-list distinctions.
+  Current PRADZIAD, vital-record, fonds and file-list distinctions. Re-read 2026-11-07 from
+  Internet Archive captures of the Polish (2026-03-20) and English (2025-04-04) genealogy-search
+  pages, because the live site blocks automated access: PRADZIAD is chosen in the document-type
+  list of the home-page search, and the vital-records search shows rows with PRADZIAD description
+  fields. The pages give no year in which the standalone PRADZIAD database closed.
 - **O2:** Polskie Towarzystwo Genealogiczne, *Geneteka* search form, opened 2026-11-02 —
   [start page](https://geneteka.genealodzy.pl/). Used for: the territory list, which includes
   Ukraina, Białoruś and Litwa after the Polish voivodeships.
@@ -102,6 +106,16 @@ screenshots, catalog entries and real family examples are not reproduced.
   [31525](https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/31525), opened 2026-11-06. Used for:
   alegata listed as their own units, with their own signatures and scans, in Congress Poland ASC
   fonds, running into the interwar years (in one fonds, alegata 1810–1943, scanned).
+- **O17:** Kancelaria Sejmu, *Obwieszczenie Marszałka Sejmu RP z dnia 12 marca 2026 r. w sprawie
+  ogłoszenia jednolitego tekstu ustawy – Prawo o aktach stanu cywilnego*, Dz.U. 2026 poz. 393 —
+  [consolidated text, PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/393/text.pdf), opened
+  2026-11-07 through the Sejm ELI API (isap.sejm.gov.pl showed a CAPTCHA). Used for: art. 128(1)
+  (100 years from the closing of a birth book, 80 years for marriage and death books, the last book
+  of a combined volume), art. 128(1a)–(1b) (a book kept while a person in it has no recorded death;
+  transfer allowed without a PESEL number), art. 129(3) (transfer within two years after a period
+  ending after 1 March 2015), and art. 130(3)–(4) (no certificates after the period; access at the
+  USC under the archives act until transfer). Art. 28 of the same act sets the periods for acts in
+  the electronic register used since 2015 and is not the rule for the older books.
 
 ## Credits
 

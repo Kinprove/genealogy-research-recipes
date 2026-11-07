@@ -129,6 +129,16 @@
   [«100 лет назад. 25 ноября – 1 декабря»](https://rapsinews.ru/judicial_analyst/20131125/269819088.html)
   ("100 years ago"), 2013-11-25, opened 2026-11-06. Used for: search notices from a prison inspectorate and district
   police offices printed in *Vologodskie gubernskie vedomosti* in November 1913.
+- **H14:** Freie und Hansestadt Hamburg, Behörde für Kultur und Medien,
+  [Link to your Roots](https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/projekte-und-initiativen/link-to-your-roots-110216),
+  opened 2026-11-07. Used for: the Staatsarchiv Hamburg's 555 volumes of emigrant lists for
+  1850–1934, recording name, place of origin and destination, searchable online at Ancestry.
+- **H15:** Ancestry, [Hamburg Passenger Lists, 1850-1934](https://www.ancestry.com/search/collections/1068)
+  (collection 1068), read from an
+  [Internet Archive capture of 2026-10-21](https://web.archive.org/web/20261021055337/https://www.ancestry.com/search/collections/1068)
+  on 2026-11-07 (the live page returned HTTP 403). Used for: the gap of 1915–1919, separate direct
+  and indirect lists for 1854–1910, the last place of residence on most lists, and a partial index
+  for 1850–1914 and 1920–1934.
 
 ## Credits
 

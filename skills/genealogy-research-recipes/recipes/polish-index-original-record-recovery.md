@@ -92,8 +92,10 @@ the parish or synagogue district where supported. The official examples distingu
 Catholic parish from an **Okręg Bożniczy**, a synagogue district. Select the series that fits
 the lead; do not substitute a modern municipal name for the record creator. [O1]
 
-Treat PRADZIAD as a finding aid. Its descriptions can identify locality, confession, years,
-record type and archive; **PRADZIAD does not contain scans**. To investigate scans, follow
+Treat PRADZIAD as a finding aid. Search it inside Szukaj w Archiwach: choose **PRADZIAD**
+in the document-type list, or use **Search vital records**, whose rows carry PRADZIAD description
+fields. Its descriptions can identify locality, confession, years, record type and archive;
+**PRADZIAD does not contain scans**. To investigate scans, follow
 the supplied reference code into the archival fonds, then open **List of files**. The official
 instructions say that the file list shows available units and scan counts. [O1]
 
@@ -166,9 +168,27 @@ For a 20th-century civil-status register, do not assume the state archive is the
 [civil-registry custody discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) reports
 that many such books are still held by the local civil registry office (Urząd Stanu Cywilnego).
 When the archive's catalog shows no unit for a recent year, check the current USC custody for that
-locality before sending the request. Do not label the record missing. The source states no transfer
-threshold, so confirm current custody rules and the office's actual holdings rather than inferring
-a cutoff year. [C2]
+locality before sending the request. Do not label the record missing. [C2]
+
+The Civil Status Records Act (Prawo o aktach stanu cywilnego, Dz.U. 2014 poz. 1741) sets the
+transfer rule for books kept before 1 March 2015. The USC passes a book to the competent state
+archive 100 years after the birth book was closed, and 80 years after the marriage or death book was
+closed. When one volume holds several books, the period runs from the closing of the last of them
+(art. 128(1)). A book whose period ended after 1 March 2015 goes to the archive within two years after
+its period ends (art. 129(3)). A birth or marriage book stays at the USC longer while a person entered in
+it has no death act or registered death; if that person has no PESEL number, the USC may transfer
+the book anyway (art. 128(1a)–(1b)). [O17]
+
+So a book older than 100 or 80 years can still be at the USC. Once the period, including that
+extension, has run out, the USC issues no certificate (odpis) from the book. Until it transfers the
+book, it gives access under the archives act (art. 130(3)–(4)). [O17]
+
+**Privacy gate:** <!-- privacy-gate: request --> A USC request can reach a book the office kept
+because a person entered in it has no recorded death, so it may name living people; answer the
+privacy gate in `SKILL.md` before sending it.
+
+Ask the USC that holds the book for access to the named book and entry, and record whether it
+granted access or refused. [O17]
 
 For a Congress Poland (Kingdom of Poland) civil-registration register, expect Polish entries until the end of 1867.
 A regulation required Russian from 1 January 1868, so expect Russian from 1868 and confirm it
