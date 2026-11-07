@@ -2,7 +2,8 @@
 
 S1–S23 are recorded talks, reviewed 2026-10-20. S24–S32 are official, archive and local-index
 pages, opened 2026-11-04. S33 is a television programme published on YouTube; S34–S37 are
-collection, index-coverage and official ordering pages, opened 2026-11-06. No search screens, certificates or registers were inspected. Selected
+collection, index-coverage and official ordering pages, opened 2026-11-06. S38–S41 are a GRO
+guide, FreeBMD help pages, a Findmypast search page and a news report, opened 2026-11-07. No search screens, certificates or registers were inspected. Selected
 claims were checked against the authorities named in Credits.
 
 - **S1:** BYU Family History Library / Kathryn Grant, [English Civil Registration Made Easy](https://www.youtube.com/watch?v=nKzlWqJ9tX8), 2018-05-30. Quarter names, the 42-day/at-time/five-day deadlines, December-to-March example, districts as administrative units.
@@ -42,6 +43,10 @@ claims were checked against the authorities named in Credits.
 - **S35:** FamilySearch, [England and Wales, Marriage Registration Index, 1837-2005](https://www.familysearch.org/en/search/collection/2285732), opened 2026-11-06. Used for: the index ending in 2005, supplied by Findmypast.
 - **S36:** FreeBMD, [Marriage transcription progress](https://www.freebmd.org.uk/progressM.shtml), opened 2026-11-06. Used for: the marriage progress chart ending at 2000, and the index not yet fully transcribed.
 - **S37:** GOV.UK, [Order a copy of a birth, death or marriage certificate](https://www.gov.uk/order-copy-birth-death-marriage-certificate), opened 2026-11-06. Used for: ordering from the GRO without an index reference for an extra search fee and later dispatch, and ordering from the local register office where the event was registered.
+- **S38:** General Register Office, [GRO online birth and death indexes overview (Customer Guide 11)](https://www.gro.gov.uk/gro/content/certificates/images/CG11.pdf), version 1.03, April 2025, opened 2026-11-07. Used for: event type, year, surname and sex as the minimum search fields; a dash meaning the detail was not captured ("A dash is recorded where the details have not been data captured in the index"); the mother's maiden surname added to historic births "where possible"; the index built from GRO's digitised records; for modern births (under 100 years old), the mother's maiden surname returned only if entered in the search.
+- **S39:** FreeBMD, [GRO Index](https://www.freebmd.org.uk/GRO-Index.html) and [search help](https://www.freebmd.org.uk/search-help.shtml), opened 2026-11-07. Used for: the quarters from which the printed index added fields (mother's maiden surname from the September quarter 1911, age at death from the March quarter 1866, date of birth instead of age from the June quarter 1969), and that a maiden-surname search returns only births from the September quarter 1911.
+- **S40:** Findmypast, [England & Wales Births 1837-2006 search page](https://web.archive.org/web/20261012024044/https://search.findmypast.co.uk/search-world-records/england-and-wales-births-1837-2006), Internet Archive capture of 2026-10-12 (the live page refused automated access), opened 2026-11-07. Used for: the collection's 1837–2006 span and its mother's-maiden-name field, which "can only be used for births from 1911 onwards".
+- **S41:** Irish Genealogy News, [GRO England & Wales launches enhanced indexes](https://www.irishgenealogynews.com/2016/11/gro-england-wales-launches-enhanced.html), 2016-11-07, opened 2026-11-07. Used for: the 2016 launch report that the new GRO index gives the mother's maiden name for births before 1911 where possible and ages at death for earlier deaths. Other 2016 reports give the age-at-death cut-off as 1860 or 1866, so the recipe states no year.
 
 S18 supports the forename-blank technique in "Sweep for the full sibling group", step 1, alongside S12–S14.
 
@@ -53,14 +58,16 @@ and the GRO's search limits were checked against the authorities listed below. T
 index's year coverage, the local-index route and the Isle of Man and Channel Islands routing
 were checked against the official and archive pages cited as S24–S32. The marriage-index end
 years and the route for ordering a marriage without a reference were checked against S34–S37.
-Not checked: ordering
-prices, current aggregator displays, and the exact quarter from which the original index
-carried a mother's maiden surname. No coding for under-one ages at death or FreeBMD wildcard
-syntax is adopted.
+The required search fields, the meaning of a dash, the quarters from which the printed index
+added fields and the display of the maiden surname for modern births were checked against
+S38–S40. Not checked: ordering prices, current aggregator displays, and the year from which
+the GRO online index first gives ages at death (S41). No coding for under-one ages at death or
+FreeBMD wildcard syntax is adopted.
 
 ## Credits
 
 - Search-form option names and collection or quarter labels as reported by presenters S4, S5, S6, S13 and S15 — Third-party interface and collection labels as reported by the cited presenters; short quotation with attribution, not relicensed (quoted)
+- Short phrases from GRO Customer Guide 11 (S38) and a Findmypast search-form hint (S40) — Crown copyright and third-party text; short quotation with attribution, not relicensed (quoted)
 - Kinprove original bibliography and source notes; video titles and channel names given as bibliographic references — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural synthesis; field meanings, search behaviours and case examples are paraphrased from community presenters cited as S1–S23 and a television programme cited as S33 — FSL-1.1-MIT (kinprove-original)
-- Kinprove original wording of facts checked against the Births and Deaths Registration Act 1874 (Irish Statute Book and legislation.gov.uk texts), FreeBMD help pages, Free UK Genealogy news, a GRO leaflet, UKBMD district pages, a FamilySearch handout, a LostCousins newsletter and a State Library of Queensland guide — FSL-1.1-MIT (kinprove-original)
+- Kinprove original wording of facts checked against the Births and Deaths Registration Act 1874 (Irish Statute Book and legislation.gov.uk texts), FreeBMD help pages, Free UK Genealogy news, a GRO leaflet, UKBMD district pages, a FamilySearch handout, a LostCousins newsletter, a State Library of Queensland guide, a GRO customer guide, a Findmypast search page and a 2016 Irish Genealogy News report — FSL-1.1-MIT (kinprove-original)

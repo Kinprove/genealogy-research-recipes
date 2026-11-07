@@ -6,6 +6,7 @@ Use this recipe when an England and Wales census return from 1841 to 1921, or a 
 
 Open one observation record for each year, with these fields: observation date, image type (copy or schedule), writer of the values, place role, coverage note and access gaps. Fill them in from the rules below.
 
+- **Census nights.** 6 June 1841, 30 March 1851, 7 April 1861, 2 April 1871, 3 April 1881, 5 April 1891, 31 March 1901 and 2 April 1911 [S16]. For 1921, see its own bullet below. Enter the year's census night as the observation date, and calculate ages and residence from it.
 - **1841–1901: the enumerator's copy.** The surviving returns up to 1901 are enumeration books that the enumerator copied from the household schedules. Most of those schedules were destroyed [S9]. Treat the books as a derivative source. Lines can be dropped, misread from poor handwriting or entered on the wrong line [S9]. Do not call such an entry the household's own statement.
 - **1841 ages.** Ages of people aged 15 and over were rounded down to a multiple of five, so a stated 35 means 35–39. Ages under 15 were to be exact, though some enumerators rounded children's ages too [S6], [S9]. Always carry an 1841 birth year as a range. **Do not extend the rounding to 1851.** One presenter says the 1851 instructions also called for rounding [S8], but that is wrong. From 1851 ages were recorded as age at last birthday, and rounding applied only in 1841.
 - **1841 birthplace and household columns.** The birthplace column says only whether the person was born in the county of enumeration (Y, N or NK for not known), or marks S, I or F for Scotland, Ireland or foreign parts [S17]. Read F as foreign parts; where TNA's guide prints P, treat it as the same mark [S16]. It names no parish and no other county [S16], [S17]. An index value such as "1841 birthplace: Lancashire" is derived from that answer, not stated. 1841 also has no relationship-to-head or marital-status column; both start in 1851 [S16]. Do not label a wife or child from their position in the household. Take the birthplace and relationships from 1851 or later returns.
@@ -47,7 +48,7 @@ When a person or household is missing from the expected address:
 
 ## Check birthplaces against the image
 
-If a transcription gives only a county as the birthplace, open the image. A presenter found the parish written on the original 1851 return, and says county-only transcriptions of birthplaces are common for English censuses [S4]. Record the transcribed value and your reading of the image as separate fields.
+If a transcription gives only a county as the birthplace, open the image. A presenter found the parish written on the original 1851 return, and says county-only transcriptions of birthplaces are common for English censuses [S4]. Record the transcribed value and your reading of the image as separate fields. This does not apply to 1841: its image has no parish to find, only the in-county answer described above, so a county-only 1841 value is not a transcription error.
 
 ## Read the 1939 Register as a registration list, not a census
 
@@ -61,7 +62,7 @@ If a transcription gives only a county as the birthplace, open the image. A pres
 
 ## Check what the year covers before reading an absence
 
-- **Scotland.** Scotland took its own census, processed and held separately from the England and Wales returns. Its 1921 returns are not in the England and Wales collection [S8]. A presenter reports that a few forms crossed the border in each direction [S8]. Search the Scottish census for anyone who may have been north of the border.
+- **Scotland.** Scotland took its own census, processed and held separately from the England and Wales returns. Its 1921 returns are not in the England and Wales collection [S8]. A presenter reports that a few forms crossed the border in each direction [S8]. Search the Scottish census for anyone who may have been north of the border. The Scottish returns from 1841 to 1921 are on ScotlandsPeople. The Scottish 1921 census is not in Ancestry's or Findmypast's 1921 collections, which cover England and Wales; search it on ScotlandsPeople. Its index is free to search with an account; each image costs 6 credits (£1.50) as of 7 November 2026 [S18], [S19], [S20].
 - **Ireland and Northern Ireland, 1921.** No census was taken in Ireland in 1921, including the area that became Northern Ireland. Ireland is outside the England and Wales returns in any case. If someone was resident there in 1921, their absence from the England and Wales census is a coverage gap, not a failed search.
 - **1931 and 1941.** The 1931 England and Wales returns were destroyed by fire in 1942, and no census was taken in 1941 [S8], [S11]. A gap for those years is a record gap, not a failed search. Use the 1939 Register for the period between [S11].
 - **Merchant mariners at sea and other coverage limits.** The cited presentations cover vessels in port [S12], [S13] but do not establish coverage of mariners at sea. Check TNA coverage notes before reading an absence for a seafarer.
@@ -70,7 +71,7 @@ If a transcription gives only a county as the birthplace, open the image. A pres
 
 For each year, return:
 
-- the observation date: census night (19 June for 1921), or for 1939 the registration day, 29 September 1939;
+- the observation date: that year's census night (listed above; 19 June for 1921), or for 1939 the registration day, 29 September 1939;
 - the image type (copy or schedule) and the writer of each value;
 - literal values, with ages carried as ranges;
 - the place role: residence on the night, or birthplace;
