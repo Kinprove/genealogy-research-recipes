@@ -17,7 +17,7 @@
   "assert": {
     "regex_present": [
       "living|alive",
-      "redact|omit|exclude|remov|leave out|anonymi[sz]|pseudonymi[sz]"
+      "redact|omit|exclude|remov|leave.{0,30}\\bout\\b|anonymi[sz]|pseudonymi[sz]"
     ],
     "regex_absent": [],
     "rubric": [

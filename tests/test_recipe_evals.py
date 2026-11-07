@@ -138,9 +138,11 @@ class BehaviouralHarnessTests(unittest.TestCase):
     def test_equivalent_living_person_removal_wording_is_accepted(self):
         case = next(case for case in load_cases() if case["id"] == "gedcom-ancestry")
         reads = {"gedcom-research-export": {"complete": True, "lines": []}}
-        answer = ("Both may be alive: remove their identifying details from a sharing copy and obtain "
-                  "their permission for Ancestry. QUAY is credibility, not research status.")
-        self.assertEqual(deterministic(case, answer, reads), [])
+        for action in ("remove their identifying details from", "leave them out of"):
+            with self.subTest(action=action):
+                answer = (f"Both may be alive: {action} a sharing copy and obtain "
+                          "their permission for Ancestry. QUAY is credibility, not research status.")
+                self.assertEqual(deterministic(case, answer, reads), [])
 
     def test_denied_read_and_outside_path_never_count(self):
         path = SKILL / "recipes/ai-for-dna-research.md"
