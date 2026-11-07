@@ -1,3 +1,20 @@
+---
+id: "chinese-lineage-jiapu-records"
+title: "Recover a Chinese emigrant's lineage from character-written names, village and jiapu"
+summary: "Recover a Chinese emigrant's character-written name and ancestral village before searching lineage genealogies (jiapu)."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover a Chinese emigrant's character-written name and ancestral village before searching lineage genealogies (jiapu)."]}
+triggers: ["Recover a Chinese emigrant's character-written name and ancestral village before searching lineage genealogies (jiapu)"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "CHINESE-LINEAGE-JIAPU-RECORDS-01", "text": "never derive a character from a romanization, and keep each romanization, port and generation-character match as its own observation."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Migration and origins", "order": 1115}
+---
+
 # Recover a Chinese emigrant's lineage from character-written names, village and jiapu
 
 Use when a Western record (manifest, obituary, census, family group sheet) names a Chinese

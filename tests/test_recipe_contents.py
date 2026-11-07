@@ -59,7 +59,11 @@ class RecipeContentsTests(unittest.TestCase):
         self.assertTrue(paths, f"no recipes found in {RECIPES}")
         checked = 0
         for path in paths:
-            lines = path.read_text(encoding="utf-8").splitlines()
+            text = path.read_text(encoding="utf-8")
+            # Routing metadata is not a body section and does not need navigation.
+            if text.startswith("---\n"):
+                text = text.split("\n---\n", 1)[1].lstrip("\n")
+            lines = text.splitlines()
             headings = h2_headings(lines)
             has_contents = any(line == CONTENTS for _, line in headings)
             if len(lines) <= MAX_LINES_WITHOUT_CONTENTS and not has_contents:

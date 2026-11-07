@@ -1,3 +1,20 @@
+---
+id: "quaker-meeting-record-recovery"
+title: "Recover a Quaker ancestor from monthly-meeting minutes and removal certificates"
+summary: "Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both removal-certificate series."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both removal-certificate series."]}
+triggers: ["Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both removal-certificate series"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "QUAKER-MEETING-RECORD-RECOVERY-01", "text": "check that Hinshaw covers the meeting, decode the meeting before placing the entry, and keep each numbered date exactly as written."}]
+handoff: []
+checked: "2026-11-07"
+checked_basis: "opened 2026-11-07"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1046}
+---
+
 # Recover a Quaker ancestor from monthly-meeting minutes and removal certificates
 
 Use this recipe when you have a Quaker surname, a candidate monthly meeting and state, and a Hinshaw or Ancestry index entry or abstract. Before relying on Hinshaw, check that it covers the meeting. Decode the entry's meeting before you assign it to a place. Then read the original men's and women's minutes and both removal-certificate series as images. Keep each numbered date exactly as written.

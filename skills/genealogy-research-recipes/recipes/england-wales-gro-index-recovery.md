@@ -1,3 +1,20 @@
+---
+id: "england-wales-gro-index-recovery"
+title: "Read England and Wales GRO and FreeBMD index entries as registration observations"
+summary: "Read England and Wales GRO and FreeBMD index entries as registration observations."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Read England and Wales GRO and FreeBMD index entries as registration observations."]}
+triggers: ["Read England and Wales GRO and FreeBMD index entries as registration observations"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "ENGLAND-WALES-GRO-INDEX-RECOVERY-01", "text": "an entry gives a registration quarter, district and locator, not an event date, birthplace, spouse pairing or parentage."}]
+handoff: ["uk-census-and-1939-register-interpretation"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Irish and British records", "order": 1066}
+---
+
 # Read England and Wales GRO and FreeBMD index entries as registration observations
 
 Use when an England or Wales civil-registration index entry (GRO online index, FreeBMD, or an

@@ -1,3 +1,20 @@
+---
+id: "ai-for-dna-research"
+title: "Using AI reliably in DNA genealogy research"
+summary: "Using an AI assistant *reliably* on DNA/genealogy work: what to delegate freely, what to never trust, and the prompt patterns that work. Includes endogamous match prioritization, segment attribution, targeted testing of outmarrying branches, and coherent family comparisons across tested ancestors, siblings and descendants. *Also use for:* \"how are these two families connected\", multiple related focal testers, repeated descent paths, a long segment in a relative that is shorter/absent in a descendant, mixed-origin segment overhangs, fused clusters, validating a match's own pedigree, or inspecting supplied ethnicity-region maps and AncestryDNA Journeys timelines for locality-search leads."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["any \"can AI/ChatGPT/Claude help me with my DNA / tree / citations\", **or** whenever you (the assistant) are about to compute or assert something in this domain."]}
+triggers: ["any \"can AI/ChatGPT/Claude help me with my DNA / tree / citations\"", "**or** whenever you (the assistant) are about to compute", "assert something in this domain"]
+privacy: "genetic-third-party"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "AI-FOR-DNA-RESEARCH-01", "text": "never fabricate cM→relationship odds (route to the Shared cM Project / DNA Painter WATO); every AI output is a **hypothesis to verify**, never a fact to file."}]
+handoff: ["23andme-match-research", "unknown-parentage-wato", "xdna-phasing-judgment"]
+checked: "2026-07-18"
+checked_basis: "accessed 2026-07-18"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool"], "contact": ["contact"]}
+router: {"tier": "full", "group": "Featured workflows", "order": 26}
+---
+
 # Recipe: Using AI reliably in DNA genealogy research
 
 ## Contents

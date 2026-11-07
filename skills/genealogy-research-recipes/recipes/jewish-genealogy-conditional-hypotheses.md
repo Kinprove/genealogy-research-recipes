@@ -1,3 +1,20 @@
+---
+id: "jewish-genealogy-conditional-hypotheses"
+title: "Jewish genealogy: conditional naming, town and DNA clues"
+summary: "Apply working hypotheses to Jewish naming, locality and DNA clues while keeping each proposition separate."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["proposed parentage, name equivalence, namesakes, naming customs, ancestral towns, conditional branches or segment attribution through an endogamous pedigree."]}
+triggers: ["proposed parentage", "name equivalence", "namesakes", "naming customs", "ancestral towns", "conditional branches"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "JEWISH-GENEALOGY-CONDITIONAL-HYPOTHESES-01", "text": "settling kinship does not settle birthplace, namesake or every segment; preserve the premises and dependencies in `recipes/evidence-proof-judgment.md`."}]
+handoff: ["evidence-proof-judgment", "jewishgen-search-family-reconstruction", "russian-empire-jewish-identity-attribution"]
+checked: "2026-10-07"
+checked_basis: "Checked 2026-10-07"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 8}
+---
+
 # Jewish genealogy: conditional naming, town and DNA clues
 
 > Version 1.0 · 2026-10-07

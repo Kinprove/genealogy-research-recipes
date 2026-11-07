@@ -104,12 +104,157 @@ Some recipes tell the agent to search public record sites, such as FamilySearch 
 archives, for the names, places and dates you give it. Those searches run through your agent's
 own web tools, during the research you ask it to do.
 
-Some recipes go further: they describe uploading a DNA file or a tree to another service (such
-as GEDmatch or DNA Painter), exporting match lists, using a browser extension, requesting
-records about people who may be living, or contacting relatives and DNA matches. Before each
-of these steps the skill tells the agent to stop at its privacy gate: say what data leaves,
-whose it is and where it goes, and ask you first. Kinprove's privacy policy:
-<https://kinprove.io/privacy>.
+Before an outbound step, answer the skill’s privacy gate: whose data leaves, what leaves,
+where it goes and who has authorized it. Kinprove’s privacy policy: <https://kinprove.io/privacy>.
+
+<details>
+<summary>Recipe capabilities and privacy gates</summary>
+
+<!-- recipe-capabilities:start -->
+These are described actions, not permissions or tools that the plugin runs. An empty cell means
+no declared action of that kind. The privacy gate also applies to unlisted outbound steps.
+
+| Recipe | Browse | Local script | Extensions | Data transfer | Contact | Privacy gate |
+| --- | --- | --- | --- | --- | --- | --- |
+| [23andme-match-research](skills/genealogy-research-recipes/recipes/23andme-match-research.md) | 23andme, dna-painter | — | Genea browser extension (optional) | export, link, third-party-tool, upload | contact | required |
+| [admixture-model-run-scope](skills/genealogy-research-recipes/recipes/admixture-model-run-scope.md) | — | — | — | — | — | — |
+| [ai-for-dna-research](skills/genealogy-research-recipes/recipes/ai-for-dna-research.md) | — | — | — | export, third-party-tool | contact | required |
+| [ai-for-documentary-records](skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md) | — | generated plotting script | — | export, third-party-tool | — | required |
+| [amsterdam-archival-record-recovery](skills/genealogy-research-recipes/recipes/amsterdam-archival-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [ancestry-dna-match-investigation](skills/genealogy-research-recipes/recipes/ancestry-dna-match-investigation.md) | ancestrydna | — | browser extension view comparison (optional) | link | contact | required |
+| [ancestry-record-search-recovery](skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md) | ancestry | — | — | — | — | — |
+| [archival-image-coverage-verification](skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) | — | — | — | — | — | — |
+| [australia-nz-record-routing](skills/genealogy-research-recipes/recipes/australia-nz-record-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [austrian-confessional-register-routing](skills/genealogy-research-recipes/recipes/austrian-confessional-register-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [beider-given-name-variants](skills/genealogy-research-recipes/recipes/beider-given-name-variants.md) | — | scripts/lookup_beider_name.py | — | — | — | — |
+| [bessarabia-moldova-record-routing](skills/genealogy-research-recipes/recipes/bessarabia-moldova-record-routing.md) | record catalogues and original images | — | — | request | — | required |
+| [brazilian-parish-civil-registry-recovery](skills/genealogy-research-recipes/recipes/brazilian-parish-civil-registry-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [british-colonial-slave-registers](skills/genealogy-research-recipes/recipes/british-colonial-slave-registers.md) | record catalogues and original images | — | — | — | — | — |
+| [burial-evidence-packet](skills/genealogy-research-recipes/recipes/burial-evidence-packet.md) | record catalogues and original images | — | — | — | contact | required |
+| [canadian-census-interpretation](skills/genealogy-research-recipes/recipes/canadian-census-interpretation.md) | record catalogues and original images | — | — | — | — | — |
+| [canadian-provincial-record-routing](skills/genealogy-research-recipes/recipes/canadian-provincial-record-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [catholic-parish-diocesan-record-recovery](skills/genealogy-research-recipes/recipes/catholic-parish-diocesan-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [catholic-sacramental-cross-notations](skills/genealogy-research-recipes/recipes/catholic-sacramental-cross-notations.md) | record catalogues and original images | — | — | — | — | — |
+| [chechen-ingush-1944-deportation-records](skills/genealogy-research-recipes/recipes/chechen-ingush-1944-deportation-records.md) | record catalogues and original images | — | — | request | — | required |
+| [chinese-lineage-jiapu-records](skills/genealogy-research-recipes/recipes/chinese-lineage-jiapu-records.md) | record catalogues and original images | — | — | — | — | — |
+| [city-directory-observation-workflow](skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md) | record catalogues and original images | — | — | — | — | — |
+| [convict-transportation-record-chain](skills/genealogy-research-recipes/recipes/convict-transportation-record-chain.md) | record catalogues and original images | — | — | — | — | — |
+| [corpus-seeded-name-search](skills/genealogy-research-recipes/recipes/corpus-seeded-name-search.md) | — | — | — | — | — | — |
+| [court-case-file-recovery](skills/genealogy-research-recipes/recipes/court-case-file-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [criminal-court-prison-record-recovery](skills/genealogy-research-recipes/recipes/criminal-court-prison-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [deed-content-relationship-clues](skills/genealogy-research-recipes/recipes/deed-content-relationship-clues.md) | record catalogues and original images | — | — | — | — | — |
+| [descendancy-gap-worklist](skills/genealogy-research-recipes/recipes/descendancy-gap-worklist.md) | — | — | — | export | — | required |
+| [dna-comparison-controls](skills/genealogy-research-recipes/recipes/dna-comparison-controls.md) | — | — | — | export, third-party-tool | — | required |
+| [dna-match-outreach-staging](skills/genealogy-research-recipes/recipes/dna-match-outreach-staging.md) | — | — | — | export, publish | contact | required |
+| [dnapainter-practical-dna-workflows](skills/genealogy-research-recipes/recipes/dnapainter-practical-dna-workflows.md) | dna-painter | — | — | export, link, publish, third-party-tool, upload | — | required |
+| [dutch-civil-church-record-recovery](skills/genealogy-research-recipes/recipes/dutch-civil-church-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [early-new-england-town-records](skills/genealogy-research-recipes/recipes/early-new-england-town-records.md) | record catalogues and original images | — | — | — | — | — |
+| [elib-ukrainian-archive-reference-books](skills/genealogy-research-recipes/recipes/elib-ukrainian-archive-reference-books.md) | elib.nlu.org.ua | — | — | — | — | — |
+| [england-wales-gro-index-recovery](skills/genealogy-research-recipes/recipes/england-wales-gro-index-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [english-nonregister-record-recovery](skills/genealogy-research-recipes/recipes/english-nonregister-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [ethnicity-estimate-version-comparison](skills/genealogy-research-recipes/recipes/ethnicity-estimate-version-comparison.md) | — | — | — | export | — | required |
+| [evidence-proof-judgment](skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) | — | — | — | — | — | — |
+| [family-collection-intake-and-capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md) | record catalogues and original images | — | — | — | contact | required |
+| [family-interviews-and-oral-tradition](skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md) | record catalogues and original images | — | — | export | — | required |
+| [family-papers-and-bible-register-dating](skills/genealogy-research-recipes/recipes/family-papers-and-bible-register-dating.md) | record catalogues and original images | — | — | third-party-tool | — | required |
+| [family-photograph-attribution-and-dating](skills/genealogy-research-recipes/recipes/family-photograph-attribution-and-dating.md) | record catalogues and original images | — | — | publish, third-party-tool | contact | required |
+| [familysearch-practical-record-workflows](skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) | familysearch | — | — | export, publish, upload | — | required |
+| [french-belgian-civil-act-extraction](skills/genealogy-research-recipes/recipes/french-belgian-civil-act-extraction.md) | record catalogues and original images | — | — | — | — | — |
+| [french-canadian-register-recovery](skills/genealogy-research-recipes/recipes/french-canadian-register-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [french-departmental-record-routing](skills/genealogy-research-recipes/recipes/french-departmental-record-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [ftdna-practical-dna-workflows](skills/genealogy-research-recipes/recipes/ftdna-practical-dna-workflows.md) | familytreedna | — | — | export, link, publish | — | required |
+| [galicia-bukovina-habsburg-record-routing](skills/genealogy-research-recipes/recipes/galicia-bukovina-habsburg-record-routing.md) | record catalogues and original images | — | — | request | — | required |
+| [gedcom-research-export](skills/genealogy-research-recipes/recipes/gedcom-research-export.md) | — | — | — | export, upload | — | required |
+| [gedmatch-practical-dna-workflows](skills/genealogy-research-recipes/recipes/gedmatch-practical-dna-workflows.md) | gedmatch | — | — | export, third-party-tool, upload | — | required |
+| [genealogy-standards-audit](skills/genealogy-research-recipes/recipes/genealogy-standards-audit.md) | — | — | — | — | — | — |
+| [geni-practical-research-workflows](skills/genealogy-research-recipes/recipes/geni-practical-research-workflows.md) | geni | — | — | export, publish, upload | contact | required |
+| [german-compensation-file-recovery](skills/genealogy-research-recipes/recipes/german-compensation-file-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [german-emigrant-origin-sources](skills/genealogy-research-recipes/recipes/german-emigrant-origin-sources.md) | record catalogues and original images | — | — | — | — | — |
+| [german-local-census-registration-recovery](skills/genealogy-research-recipes/recipes/german-local-census-registration-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [german-military-record-period-routing](skills/genealogy-research-recipes/recipes/german-military-record-period-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [german-official-gazette-notice-search](skills/genealogy-research-recipes/recipes/german-official-gazette-notice-search.md) | record catalogues and original images | — | — | — | — | — |
+| [german-register-image-recovery](skills/genealogy-research-recipes/recipes/german-register-image-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [hebrewbooks-search-recovery](skills/genealogy-research-recipes/recipes/hebrewbooks-search-recovery.md) | hebrewbooks | — | — | — | — | — |
+| [hispanic-catholic-register-recovery](skills/genealogy-research-recipes/recipes/hispanic-catholic-register-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [historic-hungary-record-routing](skills/genealogy-research-recipes/recipes/historic-hungary-record-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [historical-map-record-recovery](skills/genealogy-research-recipes/recipes/historical-map-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [historical-place-name-resolution](skills/genealogy-research-recipes/recipes/historical-place-name-resolution.md) | record catalogues and original images | — | — | — | — | — |
+| [holocaust-testimony-source-interpretation](skills/genealogy-research-recipes/recipes/holocaust-testimony-source-interpretation.md) | record catalogues and original images | — | — | request | contact | required |
+| [illegitimacy-record-recovery](skills/genealogy-research-recipes/recipes/illegitimacy-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [immigrant-congregation-origin-records](skills/genealogy-research-recipes/recipes/immigrant-congregation-origin-records.md) | record catalogues and original images | — | — | — | — | — |
+| [institutional-patient-record-recovery](skills/genealogy-research-recipes/recipes/institutional-patient-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [irish-1901-1911-census-returns](skills/genealogy-research-recipes/recipes/irish-1901-1911-census-returns.md) | record catalogues and original images | — | — | — | — | — |
+| [irish-catholic-parish-image-recovery](skills/genealogy-research-recipes/recipes/irish-catholic-parish-image-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [irish-civil-registration-jurisdiction-recovery](skills/genealogy-research-recipes/recipes/irish-civil-registration-jurisdiction-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [irish-emigrant-origin-locality](skills/genealogy-research-recipes/recipes/irish-emigrant-origin-locality.md) | record catalogues and original images | — | — | — | — | — |
+| [irish-land-valuation-occupancy-series](skills/genealogy-research-recipes/recipes/irish-land-valuation-occupancy-series.md) | record catalogues and original images | — | — | — | — | — |
+| [irish-probate-and-deed-recovery](skills/genealogy-research-recipes/recipes/irish-probate-and-deed-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [italian-stato-civile-parish-record-recovery](skills/genealogy-research-recipes/recipes/italian-stato-civile-parish-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [japanese-koseki-honseki-recovery](skills/genealogy-research-recipes/recipes/japanese-koseki-honseki-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [jewish-archival-list-triage](skills/genealogy-research-recipes/recipes/jewish-archival-list-triage.md) | record catalogues and original images | — | — | — | — | — |
+| [jewish-genealogy-conditional-hypotheses](skills/genealogy-research-recipes/recipes/jewish-genealogy-conditional-hypotheses.md) | — | — | — | — | — | — |
+| [jewishgen-search-family-reconstruction](skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md) | jewishgen | — | — | — | contact | required |
+| [land-index-book-series-recovery](skills/genealogy-research-recipes/recipes/land-index-book-series-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [local-repository-uncatalogued-holdings](skills/genealogy-research-recipes/recipes/local-repository-uncatalogued-holdings.md) | record catalogues and original images | — | — | — | — | — |
+| [manuscript-collection-recovery](skills/genealogy-research-recipes/recipes/manuscript-collection-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [marks-and-brands-record-recovery](skills/genealogy-research-recipes/recipes/marks-and-brands-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [missing-marriage-jurisdiction-search](skills/genealogy-research-recipes/recipes/missing-marriage-jurisdiction-search.md) | record catalogues and original images | — | — | — | — | — |
+| [muscovite-census-settler-origin-recovery](skills/genealogy-research-recipes/recipes/muscovite-census-settler-origin-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [myheritage-dna-match-investigation](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) | myheritage | — | — | export, link | contact | required |
+| [myheritage-historical-record-search](skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md) | myheritage | — | — | — | — | — |
+| [nazi-era-ancestry-proof-records](skills/genealogy-research-recipes/recipes/nazi-era-ancestry-proof-records.md) | record catalogues and original images | — | — | request | — | required |
+| [newspapers-com-search-recovery](skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md) | newspapers.com | — | — | — | — | — |
+| [old-believer-sectarian-record-recovery](skills/genealogy-research-recipes/recipes/old-believer-sectarian-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [orthodox-clergy-record-recovery](skills/genealogy-research-recipes/recipes/orthodox-clergy-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [periodical-index-search-retrieval](skills/genealogy-research-recipes/recipes/periodical-index-search-retrieval.md) | record catalogues and original images | — | — | — | — | — |
+| [polish-index-original-record-recovery](skills/genealogy-research-recipes/recipes/polish-index-original-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [portuguese-parish-civil-register-recovery](skills/genealogy-research-recipes/recipes/portuguese-parish-civil-register-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [probate-case-document-inventory](skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md) | record catalogues and original images | — | — | — | — | — |
+| [published-book-catalogue-and-full-text-discovery](skills/genealogy-research-recipes/recipes/published-book-catalogue-and-full-text-discovery.md) | record catalogues and original images | — | — | — | — | — |
+| [quaker-meeting-record-recovery](skills/genealogy-research-recipes/recipes/quaker-meeting-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [rabbinic-literature-person-search](skills/genealogy-research-recipes/recipes/rabbinic-literature-person-search.md) | record catalogues and original images | — | — | — | — | — |
+| [repository-photograph-collection-search](skills/genealogy-research-recipes/recipes/repository-photograph-collection-search.md) | record catalogues and original images | — | — | publish, third-party-tool | contact | required |
+| [research-documentation](skills/genealogy-research-recipes/recipes/research-documentation.md) | — | — | — | publish | — | required |
+| [rootsmagic-tree-reconciliation-workflow](skills/genealogy-research-recipes/recipes/rootsmagic-tree-reconciliation-workflow.md) | rootsmagic, ancestry, familysearch | — | — | export, link, upload | — | required |
+| [russian-empire-emigrant-origin-recovery](skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md) | record catalogues and original images | — | — | publish | — | required |
+| [russian-empire-jewish-identity-attribution](skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md) | record catalogues and original images | — | — | — | contact | required |
+| [russian-empire-jewish-metrical-book-recovery](skills/genealogy-research-recipes/recipes/russian-empire-jewish-metrical-book-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [russian-estate-registration-status](skills/genealogy-research-recipes/recipes/russian-estate-registration-status.md) | record catalogues and original images | — | — | — | — | — |
+| [russian-imperial-service-record-recovery](skills/genealogy-research-recipes/recipes/russian-imperial-service-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [russian-military-repression-record-episodes](skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md) | record catalogues and original images | — | — | request | — | required |
+| [russian-orthodox-metrical-book-recovery](skills/genealogy-research-recipes/recipes/russian-orthodox-metrical-book-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [russian-revision-list-household-chaining](skills/genealogy-research-recipes/recipes/russian-revision-list-household-chaining.md) | record catalogues and original images | — | — | — | — | — |
+| [russian-volost-town-administration-records](skills/genealogy-research-recipes/recipes/russian-volost-town-administration-records.md) | record catalogues and original images | — | — | — | — | — |
+| [scandinavian-parish-record-recovery](skills/genealogy-research-recipes/recipes/scandinavian-parish-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [scandinavian-patronymic-farm-name-record-recovery](skills/genealogy-research-recipes/recipes/scandinavian-patronymic-farm-name-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [school-university-record-recovery](skills/genealogy-research-recipes/recipes/school-university-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [scottish-parish-statutory-record-recovery](skills/genealogy-research-recipes/recipes/scottish-parish-statutory-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [source-citation](skills/genealogy-research-recipes/recipes/source-citation.md) | — | — | — | — | — | — |
+| [soviet-personal-file-recovery](skills/genealogy-research-recipes/recipes/soviet-personal-file-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [spanish-civil-parish-record-routing](skills/genealogy-research-recipes/recipes/spanish-civil-parish-record-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [state-legislative-private-act-petitions](skills/genealogy-research-recipes/recipes/state-legislative-private-act-petitions.md) | record catalogues and original images | — | — | — | — | — |
+| [surname-distribution-locality-leads](skills/genealogy-research-recipes/recipes/surname-distribution-locality-leads.md) | record catalogues and original images | — | — | — | — | — |
+| [swedish-military-record-routing](skills/genealogy-research-recipes/recipes/swedish-military-record-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [tax-roll-observation-workflow](skills/genealogy-research-recipes/recipes/tax-roll-observation-workflow.md) | record catalogues and original images | — | — | — | — | — |
+| [uk-census-and-1939-register-interpretation](skills/genealogy-research-recipes/recipes/uk-census-and-1939-register-interpretation.md) | record catalogues and original images | — | — | — | — | — |
+| [unknown-parentage-wato](skills/genealogy-research-recipes/recipes/unknown-parentage-wato.md) | — | — | — | link, publish, third-party-tool, upload | contact | required |
+| [us-20th-century-military-service-reconstruction](skills/genealogy-research-recipes/recipes/us-20th-century-military-service-reconstruction.md) | record catalogues and original images | — | — | request | — | required |
+| [us-census-practical-workflows](skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md) | record catalogues and original images | — | — | — | — | — |
+| [us-church-record-custody](skills/genealogy-research-recipes/recipes/us-church-record-custody.md) | record catalogues and original images | — | — | — | — | — |
+| [us-civil-war-service-record-episodes](skills/genealogy-research-recipes/recipes/us-civil-war-service-record-episodes.md) | record catalogues and original images | — | — | — | — | — |
+| [us-federal-court-case-file-recovery](skills/genealogy-research-recipes/recipes/us-federal-court-case-file-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [us-federal-land-entry-file-recovery](skills/genealogy-research-recipes/recipes/us-federal-land-entry-file-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [us-freedpeople-record-recovery](skills/genealogy-research-recipes/recipes/us-freedpeople-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [us-military-pension-file-recovery](skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [us-military-service-type-record-routing](skills/genealogy-research-recipes/recipes/us-military-service-type-record-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [us-vital-registration-coverage](skills/genealogy-research-recipes/recipes/us-vital-registration-coverage.md) | record catalogues and original images | — | — | — | — | — |
+| [usa-immigration-search-recovery](skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [wikitree-dna-tester-links](skills/genealogy-research-recipes/recipes/wikitree-dna-tester-links.md) | wikitree, familytreedna | — | — | link | — | required |
+| [xdna-phasing-judgment](skills/genealogy-research-recipes/recipes/xdna-phasing-judgment.md) | — | — | — | third-party-tool | — | required |
+| [ydna-mtdna-interpretation](skills/genealogy-research-recipes/recipes/ydna-mtdna-interpretation.md) | — | — | — | third-party-tool, upload | contact | required |
+<!-- recipe-capabilities:end -->
+
+</details>
 
 ## Kinprove MCP (optional)
 

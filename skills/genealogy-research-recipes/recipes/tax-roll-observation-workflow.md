@@ -1,3 +1,20 @@
+---
+id: "tax-roll-observation-workflow"
+title: "Read tax rolls as a liability-bounded annual series"
+summary: "Read town, township or county tax lists as a liability-bounded annual series for each jurisdiction and tax type."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Read town, township or county tax lists as a liability-bounded annual series for each jurisdiction and tax type."]}
+triggers: ["Read town", "township", "county tax lists as a liability-bounded annual series for each jurisdiction and tax type"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "TAX-ROLL-OBSERVATION-WORKFLOW-01", "text": "a first appearance, last appearance or gap is a bounded interval under that year's liability rules, not a birth, coming of age, move or death."}]
+handoff: []
+checked: "2026-10-21"
+checked_basis: "checked on 2026-10-21"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1098}
+---
+
 # Read tax rolls as a liability-bounded annual series
 
 Use this when a person turns up in, or goes missing from, annual town, township or county tax lists, and someone wants to read a first appearance, last appearance or gap as a birth, coming of age, move or death. Read the lists as a series for each jurisdiction and each tax type. Check each year against the liability rules in force then, and record every change as a bounded interval. For the general rule that absence is not proof, use the [negative-evidence gate](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). That recipe also covers Jr./Sr. namesake separation and every proof ruling. For judging directory gaps against a list's inclusion rule, use the [city-directory workflow](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md). For using local lists to bridge 1890, use [census workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md). For AI abstracts that call amounts "wealth", use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).

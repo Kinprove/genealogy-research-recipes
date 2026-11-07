@@ -1,3 +1,20 @@
+---
+id: "british-colonial-slave-registers"
+title: "Trace an enslaved ancestor through the British colonial slave registers and compensation records"
+summary: "Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records."]}
+triggers: ["Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "BRITISH-COLONIAL-SLAVE-REGISTERS-01", "text": "fix each colony's register years and whether each return is full or changes-only; link people by mother, age and origin, never by surname or a presumed father."}]
+handoff: ["evidence-proof-judgment", "family-interviews-and-oral-tradition", "historical-place-name-resolution", "probate-case-document-inventory", "us-freedpeople-record-recovery"]
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Migration and origins", "order": 1114}
+---
+
 # Trace an enslaved ancestor through the British colonial slave registers and compensation records
 
 Use this recipe when a person of African descent is documented in a British colony after emancipation and the next step is the slave registers of 1813–1834 and the compensation records of 1833–1842. It works back from the owner's population at emancipation, not forward from the first register. It prevents these failures:

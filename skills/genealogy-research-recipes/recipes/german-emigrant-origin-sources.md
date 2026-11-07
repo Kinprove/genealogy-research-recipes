@@ -1,3 +1,20 @@
+---
+id: "german-emigrant-origin-sources"
+title: "Trace a German emigrant's home town through emigration files, indexes and the parish register"
+summary: "Trace a German emigrant's home town through emigration files, indexes and the origin parish register."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Trace a German emigrant's home town through emigration files, indexes and the origin parish register."]}
+triggers: ["Trace a German emigrant's home town through emigration files", "indexes and the origin parish register"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "GERMAN-EMIGRANT-ORIGIN-SOURCES-01", "text": "a miss in permission files or a regional index does not prove that the person did not come from that state; confirm every hit in the original register."}]
+handoff: ["german-register-image-recovery", "russian-empire-emigrant-origin-recovery", "usa-immigration-search-recovery"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "German records", "order": 1077}
+---
+
 # Trace a German emigrant's home town through emigration files, indexes and the parish register
 
 Use this recipe when a U.S. record names only a German state, region, partial place, regiment or congregation, and you need the home town. The main mistake to avoid is treating a miss in official emigration-permission files or a regional index as proof that the person did not come from that state. Before you read a miss as absence, check four things: which office created the files, whether the item is an official record or a compiled resource, what the index says it covers, and whether there is a separate series for people who left without permission. Confirm every index hit in the original birth or baptism register of the place of origin.

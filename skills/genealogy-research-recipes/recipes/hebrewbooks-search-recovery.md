@@ -1,3 +1,20 @@
+---
+id: "hebrewbooks-search-recovery"
+title: "Recovering HebrewBooks search misses"
+summary: "Recover HebrewBooks names or passages missed by OCR, catalogue spelling or a query that never reached search."
+kind: "platform"
+scope: {"platforms": ["hebrewbooks"], "tasks": ["Hebrew OCR letter confusions, catalogue versus full-text searches, short mobile queries, inaccessible routes, Shafeh title searches, given-name indexes and viewer versus printed page numbers."]}
+triggers: ["Hebrew OCR letter confusions", "catalogue versus full-text searches", "short mobile queries", "inaccessible routes", "Shafeh title searches", "given-name indexes and viewer versus printed page numbers"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "HEBREWBOOKS-SEARCH-RECOVERY-01", "text": "distinguish an unsubmitted query or access error from a completed search with no hits. Keep OCR test strings separate from historical names, and record the book ID, viewer page, printed locator and edition separately."}]
+handoff: []
+checked: "2026-11-07"
+checked_basis: "checked\n  2026-11-07"
+capabilities: {"browse": ["hebrewbooks"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 36}
+---
+
 # Recipe: Recovering HebrewBooks search misses
 
 ## Contents

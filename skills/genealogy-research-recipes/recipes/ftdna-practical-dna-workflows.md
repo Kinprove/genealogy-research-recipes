@@ -1,3 +1,20 @@
+---
+id: "ftdna-practical-dna-workflows"
+title: "Maintaining FamilyTreeDNA exports and tree links"
+summary: "Eight FTDNA workflows for Matrix observations, paired match/segment exports, duplicate-name joins, MyHeritage tree links, Family Matching and public Y-DNA Group Time Tree, supplied Globetrekker map or two-label comparison packets."
+kind: "platform"
+scope: {"platforms": ["familytreedna"], "tasks": ["Family Finder CSV scope, opaque note handles, selected-match segment files, transferred links that need confirmation, dated parental-bucket inventories, subgroup selections, branch estimates, obscured map nodes, hidden details or authorized project-display checks."]}
+triggers: ["Family Finder CSV scope", "opaque note handles", "selected-match segment files", "transferred links that need confirmation", "dated parental-bucket inventories", "subgroup selections"]
+privacy: "genetic-third-party"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "FTDNA-PRACTICAL-DNA-WORKFLOWS-01", "text": "reconcile export scope before joining; hold out ambiguous names; confirm each tree link and preserve observed vendor assignments separately from pedigree proof. A selected Group Time Tree view has its own scope; missing or withheld details do not establish an absent lineage, and kit access does not authorize public display."}]
+handoff: ["ai-for-dna-research", "dna-comparison-controls", "myheritage-dna-match-investigation", "xdna-phasing-judgment", "ydna-mtdna-interpretation"]
+checked: "2026-10-03"
+checked_basis: "checked 2026-10-03"
+capabilities: {"browse": ["familytreedna"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish"], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 39}
+---
+
 # Recipe: Maintaining FamilyTreeDNA exports and tree links
 
 ## Contents

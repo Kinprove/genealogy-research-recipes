@@ -1,3 +1,20 @@
+---
+id: "family-collection-intake-and-capture"
+title: "Take in, capture and hand over an inherited family collection"
+summary: "Take in, inventory, plan the capture of and hand over an inherited family collection of boxes, albums, loose photographs, papers or existing scans."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Take in, inventory, plan the capture of and hand over an inherited family collection of boxes, albums, loose photographs, papers or existing scans."]}
+triggers: ["Take in", "inventory", "plan the capture of and hand over an inherited family collection of boxes", "albums", "loose photographs", "papers"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "FAMILY-COLLECTION-INTAKE-AND-CAPTURE-01", "text": "do not optimize for tidy files; renaming, re-ordering, front-only scans or treating a crop as the master destroys the holder, order and reverse evidence. Keep cased images off a flatbed, never press on glass plates, and leave suspected nitrate film and damaged plates to a specialist."}]
+handoff: []
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
+router: {"tier": "pointer", "group": "Family papers, photographs and oral history", "order": 1123}
+---
+
 # Take in, capture and hand over an inherited family collection
 
 Use this recipe when you help take in, inventory, plan the capture of, or hand over an inherited family collection. That covers boxes, albums, loose photographs, papers, and scans someone has already made. It applies to a physical collection, a capture plan or existing scans, and it never requires you to see or handle the originals. The common mistake is to optimize for tidy files. The model renames files by person, re-orders items, scans fronts only, imposes one resolution or format, treats a received crop or a stitched assembly as the master, and assumes an export kept the captions. Each of those destroys part of the record that later identification depends on: who held the item, the order it arrived in, its reverse, and the surfaces nobody has inspected yet.

@@ -1,3 +1,20 @@
+---
+id: "us-20th-century-military-service-reconstruction"
+title: "Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction"
+summary: "Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned, thin or restricted personnel file, including state WWI questionnaires and Gold Star family packets, separate court-martial trial files, discharge-gated final pay and award General Orders."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned, thin or restricted personnel file, including state WWI questionnaires and Gold Star family packets, separate court-martial trial files, discharge-gated final pay and award General Orders."]}
+triggers: ["Rebuild a 20th-century U.S. Army", "Air Force service record from records held outside a burned", "thin", "restricted personnel file", "including state WWI questionnaires and Gold Star family packets", "separate court-martial trial files"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "US-20TH-CENTURY-MILITARY-SERVICE-RECONSTRUCTION-01", "text": "check the file's actual status before saying \"it burned\", keep trial/award references separate from retrieved files, and do not give the man his unit's events."}]
+handoff: []
+checked: "2026-10-26"
+checked_basis: "checked 2026-10-26"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "U.S. military service", "order": 1110}
+---
+
 # Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction
 
 Use this when a 20th-century Army or Air Force personnel file burned, came back thin or is restricted, or when a family says a man served but he does not appear in federal lists. The task is to rebuild his service from records held separately from that file, and to log each record's custodian and scope. For older compiled service records, pension files and choosing a custodian, use [military pension file recovery § 1](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md). For the grave and cemetery-record packet, use [burial evidence packet](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/burial-evidence-packet.md). For naturalization C-files, use [U.S. immigration search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md). Identity and proof rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).

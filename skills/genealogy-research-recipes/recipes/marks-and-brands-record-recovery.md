@@ -1,3 +1,20 @@
+---
+id: "marks-and-brands-record-recovery"
+title: "Recover a livestock mark or brand registration"
+summary: "Carry a livestock marks-and-brands index entry to the actual registration or a described copy."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Carry a livestock marks-and-brands index entry to the actual registration or a described copy."]}
+triggers: ["Carry a livestock marks-and-brands index entry to the actual registration", "a described copy"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "MARKS-AND-BRANDS-RECORD-RECOVERY-01", "text": "read the index's own filing key before searching, since it can be the brand's initial rather than the owner's surname."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1101}
+---
+
 # Recover a livestock mark or brand registration
 
 Use when a supported person/locality/period leads to a marks-and-brands index or register.

@@ -1,3 +1,20 @@
+---
+id: "english-nonregister-record-recovery"
+title: "Recover English records beyond the parish register"
+summary: "Take an English or Welsh question past the parish register to poor-law, apprenticeship, pre-1858 church-court probate, dissenter or Catholic series, and Welsh marriage supplements with house/farm clues."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Take an English or Welsh question past the parish register to poor-law, apprenticeship, pre-1858 church-court probate, dissenter or Catholic series, and Welsh marriage supplements with house/farm clues."]}
+triggers: ["Take an English", "Welsh question past the parish register to poor-law", "apprenticeship", "pre-1858 church-court probate", "dissenter", "Catholic series"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "ENGLISH-NONREGISTER-RECORD-RECOVERY-01", "text": "a silent parish register does not make the question unanswerable; record which series do not cover the case."}]
+handoff: ["scandinavian-patronymic-farm-name-record-recovery"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Irish and British records", "order": 1067}
+---
+
 # Recover English records beyond the parish register
 
 Use this recipe when an English parish register runs out before the question is answered: a baptism with no father, a death with no will found yet, or a person whose denomination is unclear. List the parish's dated jurisdictions first. Then take each question to the series that applies to it: poor-law, apprenticeship, pre-1858 ecclesiastical probate, or dissenter and Catholic records. Carry each locator from the index to the original. Record which series do not cover the case. The register being silent does not make the question unanswerable. For a Welsh parish, also apply §6, which covers Welsh names and the Welsh custodians.

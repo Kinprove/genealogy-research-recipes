@@ -1,3 +1,20 @@
+---
+id: "portuguese-parish-civil-register-recovery"
+title: "Recover a Portuguese ancestor in the parish and civil registers of mainland Portugal, the Azores and Madeira"
+summary: "Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books or the civil register."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books or the civil register."]}
+triggers: ["Find a baptism", "marriage", "death in mainland Portugal", "the Azores", "Madeira in the parish books", "the civil register"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "PORTUGUESE-PARISH-CIVIL-REGISTER-RECOVERY-01", "text": "do not treat Portuguese records like Spanish or Hispanic ones: choose the register by date and religion, find which archive holds the book before calling it missing, and do not read the first surname as the father's."}]
+handoff: []
+checked: "2026-10-23"
+checked_basis: "checked on 2026-10-23"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1050}
+---
+
 # Recover a Portuguese ancestor in the parish and civil registers of mainland Portugal, the Azores and Madeira
 
 Use this recipe to find a baptism, marriage or death in mainland Portugal, the Azores or Madeira, in the parish books or the civil register. Use it before you treat Portuguese records like Spanish or Hispanic ones. That mistake leads to four failures: searching a civil register that did not cover the person, looking in the wrong archive, reading the first surname as the father's, and calling a book missing when another archive holds it. Brazil is out of scope. So are Portuguese-Jewish communities abroad; for Amsterdam, use [Amsterdam archival record recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/b89b086db98d5f1588e5c07b0b02854d14893708/skills/genealogy-research-recipes/recipes/amsterdam-archival-record-recovery.md).

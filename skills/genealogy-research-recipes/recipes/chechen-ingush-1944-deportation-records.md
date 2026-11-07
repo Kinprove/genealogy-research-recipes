@@ -1,3 +1,20 @@
+---
+id: "chechen-ingush-1944-deportation-records"
+title: "Trace a Chechen or Ingush family through the 1944 deportation and special settlement"
+summary: "Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both names of renamed places and both ends of the exile."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both names of renamed places and both ends of the exile."]}
+triggers: ["Trace a Chechen", "Ingush family through the 1944 deportation and special settlement", "with both names of renamed places and both ends of the exile"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "CHECHEN-INGUSH-1944-DEPORTATION-RECORDS-01", "text": "\"the files burned\" is not an answer; ask the Chechen custodians and the place of settlement, and treat any online list as a partial list."}]
+handoff: ["evidence-proof-judgment", "family-collection-intake-and-capture", "historical-place-name-resolution", "published-book-catalogue-and-full-text-discovery", "russian-military-repression-record-episodes", "soviet-personal-file-recovery"]
+checked: "2026-11-02"
+checked_basis: "checked 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1096}
+---
+
 # Trace a Chechen or Ingush family through the 1944 deportation and special settlement
 
 Use this recipe when a Chechen or Ingush family lived in the Chechen-Ingush ASSR before 1944, when a line runs through the 1944 deportation and special settlement in the Kazakh or Kirghiz SSR, or when names and village names in documents differ from the ones the family uses. It prevents six failures: placing a 1944–1957 event in a republic that did not exist then, searching only one name of a renamed village, splitting relatives or merging strangers by surname and spelling, predicting a file's absence from Grozny's war losses, asking only one end for a special settler's file, and reading a miss in a partial online list as proof that nobody was deported. The custodian routes in step 5 are those of the Chechen Republic. For an Ingush family, establish the Republic of Ingushetia's custodians separately; this recipe does not cover them.

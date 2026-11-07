@@ -1,3 +1,20 @@
+---
+id: "soviet-personal-file-recovery"
+title: "Recover Soviet personal files when ZAGS or metrical records are lost"
+summary: "Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are lost."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are lost."]}
+triggers: ["Rebuild a Soviet-era life from institutional personal files when ZAGS", "metrical records are lost"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "SOVIET-PERSONAL-FILE-RECOVERY-01", "text": "a negative archive reply is not a dead end; questionnaires and autobiographies are dated self-reports, and catalogue name hits are candidates."}]
+handoff: ["burial-evidence-packet", "evidence-proof-judgment", "russian-empire-jewish-metrical-book-recovery"]
+checked: "2026-10-21"
+checked_basis: "checked on 2026-10-21"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1093}
+---
+
 # Recover Soviet personal files when ZAGS or metrical records are lost
 
 Use this recipe when a metrical book from before 1917 or a ZAGS act book is reported lost, never received or not found, and the person lived into the Soviet period. It also applies when the only advice so far has been "ask ZAGS" or "search the military databases". The method has three parts:

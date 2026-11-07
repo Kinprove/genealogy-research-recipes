@@ -1,3 +1,20 @@
+---
+id: "german-local-census-registration-recovery"
+title: "Recover German local census lists and residential-registration entries"
+summary: "Recover German nominal census lists (roughly 1816–1916), residential-registration entries and associated settlement or trade-permission files."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover German nominal census lists (roughly 1816–1916), residential-registration entries and associated settlement or trade-permission files."]}
+triggers: ["Recover German nominal census lists (roughly 1816–1916)", "residential-registration entries and associated settlement", "trade-permission files"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "GERMAN-LOCAL-CENSUS-REGISTRATION-RECOVERY-01", "text": "\"we have no census\" is not proof of absence, statistical tables are not the record, and a stated origin town is not the birthplace. Request associated files separately; a residence occupation does not establish municipal employment."}]
+handoff: ["german-emigrant-origin-sources"]
+checked: "2026-11-06"
+checked_basis: "checked 2026-11-06"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "German records", "order": 1078}
+---
+
 # Recover German local census lists and residential-registration entries
 
 Use this recipe when the research needs a German nominal census list (roughly 1816–1916) or a residential-registration (newcomer/departure) entry for a known or probable town. It also applies when a destination record names a German origin town but that town's church and civil records do not contain the person. The common mistakes are:

@@ -1,3 +1,20 @@
+---
+id: "russian-military-repression-record-episodes"
+title: "Recover separate military and Soviet-repression record episodes"
+summary: "Reconcile WWI/WWII and Soviet-repression records as separate dated source episodes."
+kind: "records"
+scope: {"platforms": [], "tasks": ["awards versus loss reports, repeated arrests or copied regional entries, GWAR and OBD Memorial queries, Russian-front WWI prisoners of war."]}
+triggers: ["awards versus loss reports", "repeated arrests", "copied regional entries", "GWAR and OBD Memorial queries", "Russian-front WWI prisoners of war"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "RUSSIAN-MILITARY-REPRESSION-RECORD-EPISODES-01", "text": "administrative dates and alleged events are distinct; a later order does not establish survival and a duplicated index is not independent support."}]
+handoff: ["chechen-ingush-1944-deportation-records", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "research-documentation"]
+checked: "2026-10-18"
+checked_basis: "opened 18 October 2026"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 6}
+---
+
 # Recipe: Recover separate military and Soviet-repression record episodes
 
 ## Contents

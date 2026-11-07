@@ -1,3 +1,20 @@
+---
+id: "family-interviews-and-oral-tradition"
+title: "Record a family interview or inherited account with its speaker, prompter and chain"
+summary: "Record an interview with a relative, a supplied recording or an inherited story with its speaker, prompter and chain of transmission."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Record an interview with a relative, a supplied recording or an inherited story with its speaker, prompter and chain of transmission."]}
+triggers: ["Record an interview with a relative", "a supplied recording", "an inherited story with its speaker", "prompter and chain of transmission"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "FAMILY-INTERVIEWS-AND-ORAL-TRADITION-01", "text": "do not turn a recollection straight into tree facts; keep the prompter's details apart from the speaker's, an uncertain name uncertain, and each relay in the chain as its own witness. Obtain consent before recording, document it at the session's start, and get the participant's authorization, ideally a signed release, before any deposit or publication."}]
+handoff: []
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": []}
+router: {"tier": "pointer", "group": "Family papers, photographs and oral history", "order": 1126}
+---
+
 # Record a family interview or inherited account with its speaker, prompter and chain
 
 Use this recipe when you are about to interview a relative, when someone hands you a recording of a family conversation, or when an inherited account is about to go into a tree. An inherited account can be a story everyone repeats, a note or an "as told by" typescript. A supplied file does not require a new interview. The common mistake is to turn the recollection straight into tree facts and fill its gaps. That means rebuilding an answer nobody could hear from the question that was asked, or crediting a detail the prompter supplied to the speaker. It also means polishing an uncertain name into a quotation, or collapsing a relayed or retyped account into one witness.

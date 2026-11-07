@@ -1,3 +1,20 @@
+---
+id: "periodical-index-search-retrieval"
+title: "Search a genealogical periodical index and retrieve the article"
+summary: "Search a genealogical periodical index such as PERSI and retrieve the article."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Search a genealogical periodical index such as PERSI and retrieve the article."]}
+triggers: ["Search a genealogical periodical index such as PERSI and retrieve the article"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "PERIODICAL-INDEX-SEARCH-RETRIEVAL-01", "text": "these indexes are not full text, so a personal-name miss usually means the article text was never searched, and a hit is only a citation."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Places, maps, libraries and manuscripts", "order": 1120}
+---
+
 # Search a genealogical periodical index and retrieve the article
 
 Use this recipe when an ancestor's surname, place or event might appear in a genealogical or historical society periodical, and you are searching an article index such as PERSI or the German indexes Der Schlüssel, Familiengeschichtliche Quellen and Quellenschau für Familienforscher. None of these is a full-text index. Most of what they record comes from article titles, plus authors and subjects that indexers assign. A personal-name miss therefore usually means the article text was never searched, and a hit is only a citation. The same logic applies to book searches that cover only metadata, which are handled in [HebrewBooks search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/hebrewbooks-search-recovery.md). To audit FamilySearch Catalog holdings for a locality, use [FamilySearch practical workflows § 2](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md). For wording negative-search statements in a report, use the [standards audit](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/genealogy-standards-audit.md).

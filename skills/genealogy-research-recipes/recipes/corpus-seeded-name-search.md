@@ -1,3 +1,20 @@
+---
+id: "corpus-seeded-name-search"
+title: "Corpus-seeded name searches across scripts and OCR"
+summary: "Recover attested spellings across scripts and OCR by separating encoding, orthography and field behaviour."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["Hebrew/Yiddish name misses, lossy search folds or uncalibrated zero results."]}
+triggers: ["Hebrew/Yiddish name misses", "lossy search folds", "uncalibrated zero results"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "CORPUS-SEEDED-NAME-SEARCH-01", "text": "normalization is not spelling expansion; preserve originals and treat rescued hits as candidates rather than identity or kinship proof."}]
+handoff: ["archival-image-coverage-verification", "beider-given-name-variants", "bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing", "jewishgen-search-family-reconstruction"]
+checked: "2026-10-18"
+checked_basis: "opened 2026-10-18"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 4}
+---
+
 # Recipe: Corpus-seeded name searches across scripts and OCR
 
 Use when a remembered spelling, transliteration or name dictionary fails to retrieve a person from Hebrew/Yiddish or other historical text. This recipe owns retrieval diagnostics. Use [beider-given-name-variants.md](beider-given-name-variants.md) for dictionary candidates and [jewishgen-search-family-reconstruction.md](jewishgen-search-family-reconstruction.md) for database-specific family searches.

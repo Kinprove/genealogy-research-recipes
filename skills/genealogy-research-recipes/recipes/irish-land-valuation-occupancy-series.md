@@ -1,3 +1,20 @@
+---
+id: "irish-land-valuation-occupancy-series"
+title: "Read Irish valuation, tithe and estate-rental lists as dated occupancy series"
+summary: "Read Griffith's Valuation, tithe books, valuation revisions and estate rentals as dated occupancy series."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Read Griffith's Valuation, tithe books, valuation revisions and estate rentals as dated occupancy series."]}
+triggers: ["Read Griffith's Valuation", "tithe books", "valuation revisions and estate rentals as dated occupancy series"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "IRISH-LAND-VALUATION-OCCUPANCY-SERIES-01", "text": "these lists are not household censuses, and an occupier change is not father-to-son inheritance."}]
+handoff: []
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Irish and British records", "order": 1073}
+---
+
 # Read Irish valuation, tithe and estate-rental lists as dated occupancy series
 
 Use this recipe when an Irish surname, county and possibly a parish or townland lead you to Griffith's (Primary) Valuation, the Tithe Applotment books, the manuscript valuation revision books or an estate-court rental. Read each one as a dated list of occupiers and holdings. None of them is a household census. The common mistakes are:

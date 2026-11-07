@@ -1,3 +1,20 @@
+---
+id: "dnapainter-practical-dna-workflows"
+title: "Practical DNA Painter maps, matrices and tree worklists"
+summary: "Ten practical DNA Painter workflows: paint measured matches, copy or merge maps of one tester, intersect phased inheritance, calculate provisional missing intervals, combine coordinate spans, plan descendant tests, annotate cluster-derived maps, build direct-ancestor gap worklists, audit numeric pair amounts, and inspect Shared cM histograms and two-value range screens."
+kind: "platform"
+scope: {"platforms": ["dna-painter"], "tasks": ["Paint a new match, map duplication/CSV transfers, Common Segment Generator, Inferred Segments Generator, Distinct Segment Generator, Coverage Estimator, Cluster Auto Painter annotations, ancestral-tree reports, sourced numeric pair matrices, or Shared cM histograms and two-value range screens."]}
+triggers: ["Paint a new match", "map duplication/CSV transfers", "Common Segment Generator", "Inferred Segments Generator", "Distinct Segment Generator", "Coverage Estimator"]
+privacy: "genetic-third-party"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "DNAPAINTER-PRACTICAL-DNA-WORKFLOWS-01", "text": "verify the people, chromosome copy and genome build; keep measured comparisons, inferred intervals, coordinate unions, pedigree estimates and documentary tree worklists distinguishable. A relationship note does not assign all of a match's intervals; matrix shading does not establish a relationship, and copied names do not supply cM."}]
+handoff: ["unknown-parentage-wato", "xdna-phasing-judgment", "ydna-mtdna-interpretation"]
+checked: "2026-10-04"
+checked_basis: "accessed 2026-10-04"
+capabilities: {"browse": ["dna-painter"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "third-party-tool", "upload"], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 40}
+---
+
 # Recipe: Practical DNA Painter maps, matrices and tree worklists
 
 ## Contents

@@ -1,3 +1,20 @@
+---
+id: "swedish-military-record-routing"
+title: "Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period"
+summary: "Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period."]}
+triggers: ["Route a Swedish soldier", "sailor", "officer", "conscript to the military series that survive for his type and period"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "SWEDISH-MILITARY-RECORD-ROUTING-01", "text": "classify the man as allotted, enlisted, navy, officer or conscript before choosing a series; a soldier name labels the *rote*, not the man, and a nil counts only inside what the index covers."}]
+handoff: ["evidence-proof-judgment", "scandinavian-parish-record-recovery", "scandinavian-patronymic-farm-name-record-recovery"]
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Country record routing", "order": 1063}
+---
+
 # Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period
 
 Use this recipe when a Swedish or pre-1809 Finnish parish entry, census, emigrant record or family story calls a man *soldat*, *ryttare*, *dragon*, *husar*, *grenadjär*, *artillerist*, *båtsman*, *korpral*, an NCO or officer title, *värvad*, *volontär* or *värnpliktig*, or gives a military number. Swedish military records are not one searchable pool. Each index covers one series, one branch and one period, so classify the man first and read every miss against the coverage of the index you searched. It prevents these failures:

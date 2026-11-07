@@ -8,6 +8,8 @@
     "MD013": false,
     "MD033": false,
     "MD041": false,
+    // Header titles are routing metadata; the body still has exactly one H1.
+    "MD025": { "front_matter_title": "" },
     "MD024": { "siblings_only": true }
   },
   "globs": ["**/*.md"],

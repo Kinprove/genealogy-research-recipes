@@ -1,3 +1,20 @@
+---
+id: "polish-index-original-record-recovery"
+title: "Recover a Polish original from an index or archival description"
+summary: "Recover an original Polish register entry from Geneteka, Metryki or Szukaj w Archiwach, or document the retrieval gap."
+kind: "records"
+scope: {"platforms": [], "tasks": ["SKAN links, locality/confession/year/act locators, PRADZIAD descriptions, archival fonds and units, missing scans or alternative holding routes."]}
+triggers: ["SKAN links", "locality/confession/year/act locators", "PRADZIAD descriptions", "archival fonds and units", "missing scans", "alternative holding routes"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "POLISH-INDEX-ORIGINAL-RECORD-RECOVERY-01", "text": "an index or holding description is not an inspected original; preserve the act's locator and the exact level where access or retrieval stopped."}]
+handoff: ["galicia-bukovina-habsburg-record-routing"]
+checked: "2026-10-07"
+checked_basis: "checked 2026-10-07"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 15}
+---
+
 # Recover a Polish original from an index or archival description
 
 ## Contents

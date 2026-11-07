@@ -1,3 +1,20 @@
+---
+id: "us-civil-war-service-record-episodes"
+title: "Read Civil War registration, service cards and unit events as separate episodes"
+summary: "Read Civil War draft registration, service cards, roster remarks and unit events as separate episodes."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Read Civil War draft registration, service cards, roster remarks and unit events as separate episodes."]}
+triggers: ["Read Civil War draft registration", "service cards", "roster remarks and unit events as separate episodes"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "US-CIVIL-WAR-SERVICE-RECORD-EPISODES-01", "text": "registration is not service, the regiment's battles are not the soldier's, and a database miss does not prove non-service."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "U.S. military service", "order": 1109}
+---
+
 # Read Civil War registration, service cards and unit events as separate episodes
 
 Use this recipe when a Civil War soldier or sailor has a Union draft registration, compiled-service-record (CMSR) cards, a roster remark such as "tr.", a regimental history, or a database search result. It prevents four common errors: treating registration as service, giving the soldier every battle his regiment fought, guessing a transfer's date or meaning, and treating a database miss as proof of non-service. Treat each record as its own dated observation.

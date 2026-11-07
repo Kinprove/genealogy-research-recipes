@@ -1,3 +1,20 @@
+---
+id: "bessarabia-moldova-record-routing"
+title: "Route a Bessarabian or Moldovan record by date, district and bank of the Dniester"
+summary: "Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis."]}
+triggers: ["Route a Bessarabian", "Moldovan", "left-bank Dniester event by its date", "district and present custodian", "then search ANA fond 211 by opis"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "BESSARABIA-MOLDOVA-RECORD-ROUTING-01", "text": "the word \"Bessarabia\" or today's border does not pick the archive; Ясский уезд is the Bessarabian Bălți district, and a name-index miss in a browse-only collection says nothing."}]
+handoff: ["archival-image-coverage-verification", "corpus-seeded-name-search", "evidence-proof-judgment", "familysearch-practical-record-workflows", "galicia-bukovina-habsburg-record-routing", "historical-place-name-resolution", "jewishgen-search-family-reconstruction", "old-believer-sectarian-record-recovery", "russian-empire-emigrant-origin-recovery", "russian-empire-jewish-metrical-book-recovery", "russian-orthodox-metrical-book-recovery", "russian-revision-list-household-chaining"]
+checked: "2026-11-02"
+checked_basis: "consulted 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1094}
+---
+
 # Route a Bessarabian or Moldovan record by date, district and bank of the Dniester
 
 Use this recipe before you search for a birth, marriage, death or census entry from Bessarabia, today's Moldova or the left bank of the Dniester. It sends each event to the state, district and archive of its own date. It prevents six failures: routing by the word "Bessarabia" or by today's border, reading Ясский уезд (Yassy uezd) as the Romanian city of Iași, sending a post-1940 search for the north of Khotin or for the south to Chișinău, looking for a left-bank event in Bessarabian books, reading a FamilySearch name-search miss as an absence, and correcting a Romanian or Cyrillic spelling instead of searching both.

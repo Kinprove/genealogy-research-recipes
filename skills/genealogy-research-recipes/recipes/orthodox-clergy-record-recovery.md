@@ -1,3 +1,20 @@
+---
+id: "orthodox-clergy-record-recovery"
+title: "Rebuild a Russian Orthodox cleric's career and household from directories, eparchial gazettes and clergy registers"
+summary: "Rebuild a Russian Orthodox cleric's dated chain of posts and household from directories, eparchial gazettes and clergy registers."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Rebuild a Russian Orthodox cleric's dated chain of posts and household from directories, eparchial gazettes and clergy registers."]}
+triggers: ["Rebuild a Russian Orthodox cleric's dated chain of posts and household from directories", "eparchial gazettes and clergy registers"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "ORTHODOX-CLERGY-RECORD-RECOVERY-01", "text": "do not merge or split clergy who share a surname before that chain is built, and re-establish editions and fonds for each diocese."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1090}
+---
+
 # Rebuild a Russian Orthodox cleric's career and household from directories, eparchial gazettes and clergy registers
 
 Use this recipe when the person you are researching was a Russian Orthodox priest, deacon, psalmist (дьячок, пономарь, псаломщик), prosphora-maker or clergy widow or child, and you need a dated chain of posts and a household. Use it before you search metrical books or a present-day oblast archive, and before you merge or split clergy who share a surname. It is built on Ural forum work in the Perm, Yekaterinburg, Tobolsk and Orenburg dioceses. The order of work and the record types carry over to other dioceses. The editions, fonds and boundaries listed below do not, so re-establish them for each diocese.

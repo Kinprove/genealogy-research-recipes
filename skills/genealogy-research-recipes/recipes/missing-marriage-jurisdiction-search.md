@@ -1,3 +1,20 @@
+---
+id: "missing-marriage-jurisdiction-search"
+title: "Search candidate jurisdictions for a missing marriage"
+summary: "Replace a marriage missing from the couple's home county with a dated, ranked list of candidate jurisdictions."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Replace a marriage missing from the couple's home county with a dated, ranked list of candidate jurisdictions."]}
+triggers: ["Replace a marriage missing from the couple's home county with a dated", "ranked list of candidate jurisdictions"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "MISSING-MARRIAGE-JURISDICTION-SEARCH-01", "text": "one county miss is not a finished search; report a gap only after every ranked candidate is searched or recorded as unavailable."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1044}
+---
+
 # Search candidate jurisdictions for a missing marriage
 
 Use this recipe when a marriage is not found in the county where the couple lived. It replaces a single miss with a dated, ranked list of candidate jurisdictions, each with a reason, a law and date basis, the record series searched and its result. A verified original that resolves the marriage ends the search. Otherwise the search is not finished, and the gap is not reported, until every ranked candidate has been searched or recorded as unavailable. To decide what an absence means, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For the probate version of a widened court search, see [probate case inventory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md).

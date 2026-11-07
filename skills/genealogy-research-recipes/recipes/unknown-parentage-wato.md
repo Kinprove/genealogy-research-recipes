@@ -1,3 +1,20 @@
+---
+id: "unknown-parentage-wato"
+title: "Work an unknown-parentage case with DNA matches and WATO"
+summary: "Placing an unknown person (an unknown parent, an adoptee's bio-parent, an unplaced ancestor) into a tree using DNA matches + WATO odds."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["\"who is my unknown grandfather/father\", adoptee bio-family search, WATO hypothesis scoring, clustering matches to an ancestral couple, tied hypotheses, choosing a discriminating tester, or deciding which observations to withhold from a calculation."]}
+triggers: ["\"who is my unknown grandfather/father\"", "adoptee bio-family search", "WATO hypothesis scoring", "clustering matches to an ancestral couple", "tied hypotheses", "choosing a discriminating tester"]
+privacy: "genetic-third-party"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "UNKNOWN-PARENTAGE-WATO-01", "text": "WATO ranks placements on a tree **you already built**, gives **relative** odds among competing hypotheses (never a verdict), and breaks **silently** under endogamy / pedigree collapse / any multi-path match."}]
+handoff: ["ai-for-dna-research", "ancestry-dna-match-investigation", "dna-comparison-controls", "dna-match-outreach-staging", "xdna-phasing-judgment"]
+checked: "2026-10-18"
+checked_basis: "checked 2026-10-18"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["link", "publish", "third-party-tool", "upload"], "contact": ["contact"]}
+router: {"tier": "full", "group": "Featured workflows", "order": 25}
+---
+
 # Recipe: Work an unknown-parentage case with DNA matches and WATO
 
 ## Contents

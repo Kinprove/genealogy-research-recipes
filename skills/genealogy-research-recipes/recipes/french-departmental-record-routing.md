@@ -1,3 +1,20 @@
+---
+id: "french-departmental-record-routing"
+title: "Route French records by département, creator, series and access rule"
+summary: "Route French civil, census, military, property, notarial, medal, consular, OFPRA refugee and prison records by creator, département, series and access rule; follow cadastral names through mortgage accounts to deeds and historical Paris addresses to property registers; trace Saint-Pierre victim leads to civil records/death judgments and pre-parish town lineages to civic admissions; follow missing Léonore dossiers into published nominations and named prisons through tables to admission entries; distinguish recruitment stages and JMO context, adoption-date references, Basque house-entry names and Breton marriage decrees."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Route French civil, census, military, property, notarial, medal, consular, OFPRA refugee and prison records by creator, département, series and access rule; follow cadastral names through mortgage accounts to deeds and historical Paris addresses to property registers; trace Saint-Pierre victim leads to civil records/death judgments and pre-parish town lineages to civic admissions; follow missing Léonore dossiers into published nominations and named prisons through tables to admission entries; distinguish recruitment stages and JMO context, adoption-date references, Basque house-entry names and Breton marriage decrees."]}
+triggers: ["Route French civil", "census", "military", "property", "notarial", "medal"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "FRENCH-DEPARTMENTAL-RECORD-ROUTING-01", "text": "there is no national index; fiscal cases do not prove ownership or a complete heir list, an unindexed census miss is not absence, matricules use classe and bureau, and recruitment or unit records do not establish individual service."}]
+handoff: ["archival-image-coverage-verification", "evidence-proof-judgment", "french-belgian-civil-act-extraction", "historical-map-record-recovery", "historical-place-name-resolution", "land-index-book-series-recovery", "source-citation", "tax-roll-observation-workflow"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Country record routing", "order": 1062}
+---
+
 # Route French records by département, creator, series and access rule
 
 Use this recipe before you search for a French birth, marriage, death, census, military, property, notarial, decoration, consular or prison record. It identifies the relevant archive and series from the record's creator and period, and tells you when a civil act is open. It prevents failures such as looking for one national French index that does not exist; reporting "not in the census" after a name search of lists that are mostly unindexed; looking for a soldier's register under his birth year and birth département instead of his classe and recruitment bureau; calling a recent birth or marriage "missing" when it is closed but can be ordered; expecting a duplicate parish register before 1667; looking for a Paris-suburb notary at the Archives nationales; assuming a former Meurthe commune's present département without checking the 1871 annexation line; and stopping an early-1939 camp search at the Pyrénées-Orientales archives, which hold no lists for those months, when the Archives nationales do.

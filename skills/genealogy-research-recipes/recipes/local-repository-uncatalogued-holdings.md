@@ -1,3 +1,20 @@
+---
+id: "local-repository-uncatalogued-holdings"
+title: "Ask for a local repository's uncatalogued holdings before reporting a negative"
+summary: "Ask a local library, society or archive about its uncatalogued holdings after its catalogue returns nothing."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Ask a local library, society or archive about its uncatalogued holdings after its catalogue returns nothing."]}
+triggers: ["Ask a local library", "society", "archive about its uncatalogued holdings after its catalogue returns nothing"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "LOCAL-REPOSITORY-UNCATALOGUED-HOLDINGS-01", "text": "an empty catalogue search leaves the uncatalogued holdings uninspected, so it is not a negative."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Places, maps, libraries and manuscripts", "order": 1122}
+---
+
 # Ask for a local repository's uncatalogued holdings before reporting a negative
 
 Use when a local, county or state library, a historical or genealogical society, or a county or state

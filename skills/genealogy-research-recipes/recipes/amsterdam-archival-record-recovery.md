@@ -1,3 +1,20 @@
+---
+id: "amsterdam-archival-record-recovery"
+title: "Recover and read an Amsterdam City Archives register entry"
+summary: "Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register entry."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register entry."]}
+triggers: ["Follow an Amsterdam City Archives index hit", "tree claim", "burial card back to its own register entry"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "AMSTERDAM-ARCHIVAL-RECORD-RECOVERY-01", "text": "read the entry by its register type, not by the index label; an ondertrouw is a registration, not a wedding."}]
+handoff: ["dutch-civil-church-record-recovery"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1055}
+---
+
 # Recover and read an Amsterdam City Archives register entry
 
 Use this recipe when you need to follow something back to the entry in its own register. That something can be an Amsterdam City Archives (Stadsarchief) index hit, a failed name search, a tree claim, a Beth Haim burial card or a population-register line. Each register type has its own meaning. Typical cases are an ondertrouw (marriage-intention) entry, a population-register (bevolkingsregister) line, a doop entry, a burial card and an entry in a community inventory. Read the entry by its register type, not by the index label.

@@ -1,3 +1,20 @@
+---
+id: "holocaust-testimony-source-interpretation"
+title: "Interpret a Holocaust name record through its underlying source"
+summary: "Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement dates."
+kind: "records"
+scope: {"platforms": [], "tasks": ["unspecified death circumstances, submitter roles or evacuation conflicts."]}
+triggers: ["unspecified death circumstances", "submitter roles", "evacuation conflicts"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "HOLOCAUST-TESTIMONY-SOURCE-INTERPRETATION-01", "text": "a memorial database hit is not by itself a death finding; match identities and date roles before combining the timeline."}]
+handoff: ["dna-match-outreach-staging", "evidence-proof-judgment"]
+checked: "2026-10-18"
+checked_basis: "opened 18 October 2026"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
+router: {"tier": "full", "group": "Featured workflows", "order": 5}
+---
+
 # Recipe: Interpret a Holocaust name record through its underlying source
 
 ## Contents

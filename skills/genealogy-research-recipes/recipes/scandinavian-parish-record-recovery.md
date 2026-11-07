@@ -1,3 +1,20 @@
+---
+id: "scandinavian-parish-record-recovery"
+title: "Reconstruct a Swedish household through parish examination and moving registers"
+summary: "Reconstruct a Swedish household through the household-examination, birth, marriage, death and moving registers."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Reconstruct a Swedish household through the household-examination, birth, marriage, death and moving registers."]}
+triggers: ["Reconstruct a Swedish household through the household-examination", "birth", "marriage", "death and moving registers"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "SCANDINAVIAN-PARISH-RECORD-RECOVERY-01", "text": "follow the family by farm and page cross-reference, not by patronymic, and settle identity at the household level."}]
+handoff: ["scandinavian-patronymic-farm-name-record-recovery", "tax-roll-observation-workflow"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1056}
+---
+
 # Reconstruct a Swedish household through parish examination and moving registers
 
 Use this recipe when you have a Swedish or Finnish ancestor's name, a rough parish or farm, and rough birth or marriage dates, and you can view digitized images of the household examination (husförhör), birth, marriage, death and moving-in/moving-out registers. The household examination is your index into the other registers. Follow the family by farm or residence and by page cross-reference, not by patronymic. Settle identity at the household level. Finland kept the same kind of register; its differences are in "Finland: work the rippikirjat the same way" below.

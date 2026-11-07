@@ -1,3 +1,20 @@
+---
+id: "family-papers-and-bible-register-dating"
+title: "Separate writing, mailing and event dates in family papers and Bible registers"
+summary: "Separate writing, mailing and event dates in letters, envelopes, address books, family Bible registers and inscribed books."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Separate writing, mailing and event dates in letters, envelopes, address books, family Bible registers and inscribed books."]}
+triggers: ["Separate writing", "mailing and event dates in letters", "envelopes", "address books", "family Bible registers and inscribed books"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "FAMILY-PAPERS-AND-BIBLE-REGISTER-DATING-01", "text": "a postmark or return address records a mailing or an address, not the event; assess each Bible entry's writing occasion, near the event or copied later, separately from its stated event date."}]
+handoff: []
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"tier": "pointer", "group": "Family papers, photographs and oral history", "order": 1125}
+---
+
 # Separate writing, mailing and event dates in family papers and Bible registers
 
 Use this recipe when a date, place or hand on an inherited letter, card, envelope, address book, family Bible register or inscribed book is about to go into a timeline, a tree or a proof argument. The common mistake is to read every date and place on these papers as an event fact: a postmark as the date of the news in the letter, a return address as a birthplace, the earlier entries in a Bible register as written when the events happened, the latest address-book entry as one dated snapshot, and an inscription in another copy of the same book as dating the family's copy. Each of these records something else: a mailing, the sender's address at that time, a later copying or recollection, a keeper's layered updates, or a different object.

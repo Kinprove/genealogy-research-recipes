@@ -1,3 +1,20 @@
+---
+id: "us-vital-registration-coverage"
+title: "Build a U.S. vital-registration coverage register before calling a birth or death record missing"
+summary: "Build a register of every U.S. birth and death registration authority and series before calling a record missing."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Build a register of every U.S. birth and death registration authority and series before calling a record missing."]}
+triggers: ["Build a register of every U.S. birth and death registration authority and series before calling a record missing"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "US-VITAL-REGISTRATION-COVERAGE-01", "text": "the statewide mandate year is not the first year of coverage, and one county index miss is not \"no record exists\"."}]
+handoff: []
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1042}
+---
+
 # Build a U.S. vital-registration coverage register before calling a birth or death record missing
 
 Use this recipe when a U.S. birth or death search has failed and someone is about to write "no record exists". The usual mistake is to treat the statewide mandate year as the first year of coverage, search one certificate index for one county, and report a negative. Before any absence statement, build a register with one row for each registration authority and each separate series.

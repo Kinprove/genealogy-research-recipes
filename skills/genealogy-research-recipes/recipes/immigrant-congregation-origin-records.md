@@ -1,3 +1,20 @@
+---
+id: "immigrant-congregation-origin-records"
+title: "Find an immigrant's hometown in U.S. congregation records"
+summary: "Find an immigrant's hometown in the registers of U.S. congregations chosen by language community, dates and address."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Find an immigrant's hometown in the registers of U.S. congregations chosen by language community, dates and address."]}
+triggers: ["Find an immigrant's hometown in the registers of U.S. congregations chosen by language community", "dates and address"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "IMMIGRANT-CONGREGATION-ORIGIN-RECORDS-01", "text": "a miss at the nearest church or in an abstract's index is not absence, and one hometown statement is not proven identity."}]
+handoff: ["scandinavian-parish-record-recovery"]
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Migration and origins", "order": 1111}
+---
+
 # Find an immigrant's hometown in U.S. congregation records
 
 Use this recipe when U.S. civil, census, passenger or naturalization records name only a country or region ("Germany", "Prussia", "Bavaria") and the family's U.S. residence is known. The recipe has three parts. First, choose candidate congregations by language community, dates and address. Then work each candidate's registers past index misses to the original image. If the registers have not been filmed, trace the congregation's present-day successor or custodian.

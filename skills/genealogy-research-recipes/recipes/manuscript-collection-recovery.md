@@ -1,3 +1,20 @@
+---
+id: "manuscript-collection-recovery"
+title: "Recover manuscript and archival collections that may mention an ancestor"
+summary: "Find personal, family and organisational papers by context, alternate ledger/daybook labels and an established society's personal-name index; request linked account pages or a complete claim folder with earlier applications."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Find personal, family and organisational papers by context, alternate ledger/daybook labels and an established society's personal-name index; request linked account pages or a complete claim folder with earlier applications."]}
+triggers: ["Find personal", "family and organisational papers by context", "alternate ledger/daybook labels and an established society's personal-name index", "request linked account pages", "a complete claim folder with earlier applications"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "MANUSCRIPT-COLLECTION-RECOVERY-01", "text": "a name-search miss is not absence, and one reported packet does not guarantee standard contents or a current copy route."}]
+handoff: []
+checked: "2026-10-21"
+checked_basis: "checked 2026-10-21"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Places, maps, libraries and manuscripts", "order": 1121}
+---
+
 # Recover manuscript and archival collections that may mention an ancestor
 
 Use this when an ancestor's letters, diaries, activities, employment, membership or locality may survive in personal papers, family papers or organisational records held by a special-collections library, historical society or archive. This recipe covers union-catalogue querying by context, tracing a hit to its holding repository and finding aid, and keeping catalogue, requested and inspected states apart. For single-vendor catalogue keyword behaviour, use [Ancestry catalogue searching](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md), [FamilySearch holdings audits](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) or [MyHeritage collection search](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md). For Ukrainian archival lists, use [Jewish archival list triage](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewish-archival-list-triage.md). For logging and citation format, use [research documentation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md) and [source citation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md). Identity and kinship rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).

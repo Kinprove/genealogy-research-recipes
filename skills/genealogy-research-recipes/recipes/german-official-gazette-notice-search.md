@@ -1,3 +1,20 @@
+---
+id: "german-official-gazette-notice-search"
+title: "Read German official-gazette personnel, expulsion and expatriation notices as dated administrative notices"
+summary: "Read German gazette personnel, expulsion and expatriation notices as dated acts by a named authority."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Read German gazette personnel, expulsion and expatriation notices as dated acts by a named authority."]}
+triggers: ["Read German gazette personnel", "expulsion and expatriation notices as dated acts by a named authority"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "GERMAN-OFFICIAL-GAZETTE-NOTICE-SEARCH-01", "text": "a notice does not show residence in the district, prove a departure or confirm identity."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "German records", "order": 1081}
+---
+
 # Read German official-gazette personnel, expulsion and expatriation notices as dated administrative notices
 
 Use this recipe when a person who is not a noble may appear in a German official gazette. That includes an official, a clergyman, a teacher (including Jewish teachers), a forester, a postal clerk, an elected town councillor, a foreign subject expelled from the Reich, or a 1930s–40s émigré whose citizenship was revoked. It covers three classes of notice:

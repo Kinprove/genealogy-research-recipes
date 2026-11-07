@@ -1,3 +1,20 @@
+---
+id: "rootsmagic-tree-reconciliation-workflow"
+title: "RootsMagic: Reconcile a Local Tree with Ancestry and FamilySearch"
+summary: "Reconcile selected facts and sources between RootsMagic, Ancestry TreeShare and FamilySearch."
+kind: "platform"
+scope: {"platforms": ["rootsmagic", "ancestry", "familysearch"], "tasks": ["person crosswalks, staged additions/replacements, citation and media transfer, duplicate sources, destination checks or resuming a bounded synchronization batch."]}
+triggers: ["person crosswalks", "staged additions/replacements", "citation and media transfer", "duplicate sources", "destination checks", "resuming a bounded synchronization batch"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "ROOTSMAGIC-TREE-RECONCILIATION-WORKFLOW-01", "text": "review each object and direction, then reopen the destination to verify the saved content; the three trees are not an automatic mirror."}]
+handoff: ["familysearch-practical-record-workflows", "gedcom-research-export"]
+checked: "2026-10-07"
+checked_basis: "checked 2026-10-07"
+capabilities: {"browse": ["rootsmagic", "ancestry", "familysearch"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "upload"], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 16}
+---
+
 # RootsMagic: Reconcile a Local Tree with Ancestry and FamilySearch
 
 ## Contents

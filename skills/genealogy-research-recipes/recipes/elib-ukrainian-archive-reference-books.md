@@ -1,3 +1,20 @@
+---
+id: "elib-ukrainian-archive-reference-books"
+title: "Recovering and identifying Ukrainian archival guides in ELIB"
+summary: "Retrieve Ukrainian archival guides from ELIB and identify the correct volume, part and fund scope."
+kind: "platform"
+scope: {"platforms": ["elib.nlu.org.ua"], "tasks": ["catalogue-card versus PDF confusion, leading-zero item IDs, keyword misses, similar volume titles or garbled cover-text extraction."]}
+triggers: ["catalogue-card versus PDF confusion", "leading-zero item IDs", "keyword misses", "similar volume titles", "garbled cover-text extraction"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "ELIB-UKRAINIAN-ARCHIVE-REFERENCE-BOOKS-01", "text": "verify the actual book; a constructed URL is a retrieval lead, and a historical guide does not establish current case availability or contents."}]
+handoff: ["archival-image-coverage-verification"]
+checked: "2026-10-18"
+checked_basis: "checked 2026-10-18"
+capabilities: {"browse": ["elib.nlu.org.ua"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 1}
+---
+
 # Recipe: Recovering and identifying Ukrainian archival guides in ELIB
 
 Use for a Ukrainian regional archive's `Путівник`, `Анотований реєстр описів` or

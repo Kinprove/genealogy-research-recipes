@@ -1,3 +1,20 @@
+---
+id: "xdna-phasing-judgment"
+title: "X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong"
+summary: "X-DNA matches and visual/parental phasing: what a segment, an X match, or a phased chromosome map can actually confirm or eliminate, and where confident-sounding analysis is actually fabrication."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["\"is this X-DNA match trustworthy\", \"what's the minimum X cM threshold\", \"phase my kit against a parent or siblings\", \"half-sister or aunt\", \"does this X match rule out a father\", reconstructed-kit quality, artificial homozygosity, or interpreting matches to a synthetic kit."]}
+triggers: ["\"is this X-DNA match trustworthy\"", "\"what's the minimum X cM threshold\"", "\"phase my kit against a parent", "siblings\"", "\"half-sister", "aunt\""]
+privacy: "genetic-third-party"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "XDNA-PHASING-JUDGMENT-01", "text": "never invent a small-segment or X-DNA false-positive rate or cM threshold — cite the specific company/study, since they diverge by design and by pair-sex; phasing reduces but never eliminates pseudosegments on either side; usable X evidence can reject an incompatible non-PAR route, while compatibility alone does not confirm the proposed ancestor."}]
+handoff: ["dna-comparison-controls"]
+checked: "2026-11-06"
+checked_basis: "checked 2026-11-06"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 28}
+---
+
 # Recipe: X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong
 
 ## Contents

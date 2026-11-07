@@ -1,3 +1,20 @@
+---
+id: "convict-transportation-record-chain"
+title: "Reconstruct a transported convict as a chain of record episodes"
+summary: "Rebuild a transported British convict's sentence as a chain of dated record episodes."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Rebuild a transported British convict's sentence as a chain of dated record episodes."]}
+triggers: ["Rebuild a transported British convict's sentence as a chain of dated record episodes"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "CONVICT-TRANSPORTATION-RECORD-CHAIN-01", "text": "one index entry never stands for the whole chain; each episode keeps its own series, locator and date role."}]
+handoff: []
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Irish and British records", "order": 1075}
+---
+
 # Reconstruct a transported convict as a chain of record episodes
 
 Use this recipe when you have a convict index hit, a family story about transportation, or a colonial pardon or ticket-of-leave entry for a British convict. The goal is to rebuild the sentence as a series of dated episodes. Each episode comes from its own record series, has its own locator and has its own date role. One index entry never stands for the whole chain. The discipline of keeping episodes and date roles apart is the same one used in [Soviet-repression and military episodes](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md) (§ Preserve date roles and successive episodes). Rulings on identity belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For failed platform searches, use [Ancestry search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md) or [newspaper search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md).

@@ -1,3 +1,20 @@
+---
+id: "institutional-patient-record-recovery"
+title: "Recover an asylum or state-hospital patient through custodians, courts and newspapers"
+summary: "Seek asylum or state-hospital records through the custodian, court and newspapers; in Dutch research, check a child's marriage papers and locally described admission correspondence."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Seek asylum or state-hospital records through the custodian, court and newspapers; in Dutch research, check a child's marriage papers and locally described admission correspondence."]}
+triggers: ["Seek asylum", "state-hospital records through the custodian", "court and newspapers", "in Dutch research", "check a child's marriage papers and locally described admission correspondence"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "INSTITUTIONAL-PATIENT-RECORD-RECOVERY-01", "text": "incapacity does not establish admission or diagnosis, and an access refusal does not establish that no file survives."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1107}
+---
+
 # Recover an asylum or state-hospital patient through custodians, courts and newspapers
 
 Use when an ancestor's asylum, state-hospital or similar institutional file is closed, lost or

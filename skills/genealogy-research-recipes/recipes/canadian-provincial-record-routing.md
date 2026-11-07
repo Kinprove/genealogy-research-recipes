@@ -1,3 +1,20 @@
+---
+id: "canadian-provincial-record-routing"
+title: "Route a Canadian vital, military or Indigenous-series record to its province, custodian and access category"
+summary: "Route a Canadian vital registration, world-war personnel file, Métis or First Nations record, or British Home Child to the province, custodian and access category of its date and series."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Route a Canadian vital registration, world-war personnel file, Métis or First Nations record, or British Home Child to the province, custodian and access category of its date and series."]}
+triggers: ["Route a Canadian vital registration", "world-war personnel file", "Métis", "First Nations record", "or British Home Child to the province", "custodian and access category of its date and series"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "CANADIAN-PROVINCIAL-RECORD-ROUTING-01", "text": "Canadian vital records are not one national system; a miss past an archive's release cut-off or inside a registration gap is not an absence."}]
+handoff: ["canadian-census-interpretation", "catholic-parish-diocesan-record-recovery", "evidence-proof-judgment", "french-canadian-register-recovery", "historical-place-name-resolution", "us-vital-registration-coverage", "usa-immigration-search-recovery"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Country record routing", "order": 1065}
+---
+
 # Route a Canadian vital, military or Indigenous-series record to its province, custodian and access category
 
 Use this recipe before you search for a Canadian birth, marriage or death registration, a First or Second World War personnel file, a Métis or First Nations record, or a British Home Child. It sends each record to the custodian and access category of its own province, date and series. It prevents five failures: treating Canadian vital records as one national system, reading a miss past an archive's release cut-off or inside a registration gap as an absence, calling a Second World War file unavailable without checking whether it is open or closed, searching treaty paylists and scrip by surname alone, and searching for a Home Child with the family instead of inside the agency party.

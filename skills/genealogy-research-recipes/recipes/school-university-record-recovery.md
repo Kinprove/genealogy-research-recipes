@@ -1,3 +1,20 @@
+---
+id: "school-university-record-recovery"
+title: "Recover a pupil or student through school, district, copy and later-file layers"
+summary: "Recover a pupil or student across school, educational-district, parallel-copy, yearbook and later-file layers."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover a pupil or student across school, educational-district, parallel-copy, yearbook and later-file layers."]}
+triggers: ["Recover a pupil", "student across school", "educational-district", "parallel-copy", "yearbook and later-file layers"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "SCHOOL-UNIVERSITY-RECORD-RECOVERY-01", "text": "absence from a compiled or published list does not show that the person never attended."}]
+handoff: []
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1092}
+---
+
 # Recover a pupil or student through school, district, copy and later-file layers
 
 Use this recipe when family memory, a photograph or a later document puts someone in a gymnasium, progymnasium, real school, Talmud Torah, lyceum, institute, university or higher courses. It mainly covers the Russian Empire, with some German and Polish holdings. Use it too when a search has stopped at one published list, one guberniya archive or one index hit. The method searches every layer that could hold the person:

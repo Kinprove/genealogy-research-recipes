@@ -1,3 +1,20 @@
+---
+id: "irish-1901-1911-census-returns"
+title: "Search, retrieve and read the Irish 1901 and 1911 census returns"
+summary: "Search, retrieve and read the Irish 1901 and 1911 census returns."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Search, retrieve and read the Irish 1901 and 1911 census returns."]}
+triggers: ["Search", "retrieve and read the Irish 1901 and 1911 census returns"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "IRISH-1901-1911-CENSUS-RETURNS-01", "text": "a name-search miss is not absence until the townland is shown to have online returns; read ages and every column under that year's printed instructions."}]
+handoff: ["evidence-proof-judgment", "irish-civil-registration-jurisdiction-recovery", "irish-emigrant-origin-locality", "irish-land-valuation-occupancy-series", "uk-census-and-1939-register-interpretation"]
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Irish and British records", "order": 1074}
+---
+
 # Search, retrieve and read the Irish 1901 and 1911 census returns
 
 Use this recipe when a person or household should appear in the 1901 or 1911 census of Ireland, or when a return you found is about to be used as evidence of age, birthplace, kinship, religion or residence. It covers all 32 counties, including today's Northern Ireland: both censuses were taken for the whole island and are searched on the National Archives of Ireland (NAI) site [S23], [S24]. It prevents these failures:

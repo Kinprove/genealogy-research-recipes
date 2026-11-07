@@ -1,3 +1,20 @@
+---
+id: "us-federal-court-case-file-recovery"
+title: "Recover a U.S. federal court case file"
+summary: "Take a lead to the right federal court for the period, its National Archives record group and index, and the loose case file."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Take a lead to the right federal court for the period, its National Archives record group and index, and the loose case file."]}
+triggers: ["Take a lead to the right federal court for the period", "its National Archives record group and index", "and the loose case file"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "US-FEDERAL-COURT-CASE-FILE-RECOVERY-01", "text": "decide whether the matter is federal before searching a county courthouse; a complete-index miss is a bounded negative that does not clear other relatives."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1103}
+---
+
 # Recover a U.S. federal court case file
 
 Use when a newspaper item, family paper or other lead suggests an ancestor was in a federal

@@ -1,3 +1,20 @@
+---
+id: "irish-emigrant-origin-locality"
+title: "Resolve an Irish emigrant's origin locality from a place statement"
+summary: "Resolve an Irish place named by an emigrant's records or family tradition to a searchable locality."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Resolve an Irish place named by an emigrant's records or family tradition to a searchable locality."]}
+triggers: ["Resolve an Irish place named by an emigrant's records", "family tradition to a searchable locality"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "IRISH-EMIGRANT-ORIGIN-LOCALITY-01", "text": "a named town is a lead of unknown administrative level, not the birthplace, and surname presence or a matching farm name does not prove origin."}]
+handoff: []
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Irish and British records", "order": 1072}
+---
+
 # Resolve an Irish emigrant's origin locality from a place statement
 
 Use when a destination record or family tradition names an Irish place (Cork, Belfast, Mullingar,

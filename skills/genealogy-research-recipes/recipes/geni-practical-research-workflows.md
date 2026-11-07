@@ -1,3 +1,20 @@
+---
+id: "geni-practical-research-workflows"
+title: "Practical Geni research workflows"
+summary: "Eight practical Geni workflows: recover name variants, preserve relationship focus, cite facts, choose projects, compare merge candidates, track tree conflicts, create GEDCOM branches and inspect scoped exports."
+kind: "platform"
+scope: {"platforms": ["geni"], "tasks": ["Geni language/alias fields, relationship paths, source documents, public projects or private workspaces, merge requests, unmerge requests, GEDCOM imports and tree reports."]}
+triggers: ["Geni language/alias fields", "relationship paths", "source documents", "public projects", "private workspaces", "merge requests"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "GENI-PRACTICAL-RESEARCH-WORKFLOWS-01", "text": "preserve profile URLs and dated scope; distinguish tree assertions, source-supported statements, pending requests and completed changes. Draft manager or curator requests for human review, and inspect private content before sharing an export."}]
+handoff: ["evidence-proof-judgment", "ydna-mtdna-interpretation"]
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": ["geni"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": ["contact"]}
+router: {"tier": "full", "group": "Featured workflows", "order": 22}
+---
+
 # Recipe: Practical Geni research workflows
 
 ## Contents

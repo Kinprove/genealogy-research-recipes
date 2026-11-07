@@ -1,3 +1,20 @@
+---
+id: "canadian-census-interpretation"
+title: "Interpret a historical Canadian census entry as a de jure listing"
+summary: "Read a historical Canadian census line as a de jure listing, and browse by geography when a name search misses."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Read a historical Canadian census line as a de jure listing, and browse by geography when a name search misses."]}
+triggers: ["Read a historical Canadian census line as a de jure listing", "and browse by geography when a name search misses"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "CANADIAN-CENSUS-INTERPRETATION-01", "text": "do not read a Canadian listing as a \"present on census night\" headcount."}]
+handoff: []
+checked: "2026-11-07"
+checked_basis: "opened 2026-11-07"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1097}
+---
+
 # Interpret a historical Canadian census entry as a de jure listing
 
 Use this recipe when a historical Canadian census line is about to be used as evidence of where someone lived, whether they were alive, who was in the household, or their marital status. Also use it when a name search of a Canadian census, such as 1931, misses a household and you have to browse the images by geography. The default mistake is to read a Canadian listing the way you would read a "present on census night" listing. For year-specific U.S. counting rules, double enumeration and district carry-over, use [U.S. census workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md). For stated statuses and merge conflicts in general, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
