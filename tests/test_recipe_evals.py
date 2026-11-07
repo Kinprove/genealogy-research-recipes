@@ -30,7 +30,11 @@ class StaticEvaluationTests(unittest.TestCase):
 
     def test_current_skill_and_all_cases_are_bound(self):
         report = static_checks()
-        self.assertEqual(report["cases"], 13)
+        required = {"cm-relationship", "gedmatch-upload", "match-outreach", "match-outreach-helper",
+                    "wato-ranking", "ystr-distance", "memorial-proof", "photo-attribution",
+                    "family-interview", "gedcom-ancestry", "parentage-proof", "russia-origin",
+                    "deportation-1944", "unreadable-village"}
+        self.assertLessEqual(required, {case["id"] for case in load_cases()})
         self.assertGreater(report["recipes"], 100)
         self.assertGreaterEqual(report["guardrails"], 20)
 

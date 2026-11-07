@@ -52,7 +52,7 @@ python3 skills/genealogy-research-recipes/evals/run_evals.py --static
 python3 skills/genealogy-research-recipes/evals/run_evals.py --output eval-results
 ```
 
-The behavioural tier has [ten guardrail cases and three ambiguity cases](skills/genealogy-research-recipes/evals/cases/),
+The behavioural tier has [ten starting guardrail cases, a helper-consent variant and three ambiguity cases](skills/genealogy-research-recipes/evals/cases/),
 with synthetic materials only. It appends the literal `SKILL.md` as system instructions to
 Claude Code, provides a read-only `read_file` tool over `recipes/`, and records successful
 reads and line coverage, and checks the answer with regexes and an independent rubric call.

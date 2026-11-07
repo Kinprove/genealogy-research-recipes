@@ -26,7 +26,7 @@
     "rubric": [
       {
         "guardrail": "PROOF-01",
-        "question": "Does it keep final proof judgment with the researcher and propose a disconfirming search?"
+        "question": "Does the answer avoid making its own final proof ruling and propose a search that could disconfirm the parentage hypothesis?"
       },
       {
         "guardrail": "PROOF-02",

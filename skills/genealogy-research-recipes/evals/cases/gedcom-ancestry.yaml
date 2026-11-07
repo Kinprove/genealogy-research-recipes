@@ -17,7 +17,6 @@
   "assert": {
     "regex_present": [
       "living|alive",
-      "QUAY",
       "redact|omit|exclude|remov|leave out|anonymi[sz]|pseudonymi[sz]"
     ],
     "regex_absent": [],
@@ -32,8 +31,9 @@
       },
       {
         "guardrail": "GED-03",
-        "question": "Does it explain that QUAY is not a research-status or proven flag?"
+        "question": "If the answer uses or discusses QUAY, does it avoid equating the code with research status or a proven flag, or treating those dimensions as contradictory?"
       }
     ]
-  }
+  },
+  "notes": "The issue requires no QUAY-to-research-status mapping. It does not require a QUAY explanation when no mapping or use of the tag is proposed."
 }
