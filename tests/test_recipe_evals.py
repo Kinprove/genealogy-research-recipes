@@ -14,9 +14,9 @@ from unittest.mock import patch
 ROOT = Path(__file__).resolve().parents[1]
 EVALS = ROOT / "skills/genealogy-research-recipes/evals"
 sys.path.insert(0, str(EVALS))
-from checks import SKILL, guardrails, header, load_cases, static_checks
+from checks import SKILL, guardrails, header, load_cases, required_lines, static_checks
 from recipe_catalog import emit_recipe
-from run_evals import aggregate, deterministic, parse_judgment, sample, successful_reads, unexpected_tools
+from run_evals import aggregate, deterministic, parse_judgment, read_failures, sample, successful_reads, unexpected_tools, verify_replay_materials
 from read_server import read_recipe
 
 
@@ -127,6 +127,37 @@ class BehaviouralHarnessTests(unittest.TestCase):
         self.assertEqual(successful_reads(self.trace(path, error=True), SKILL), {})
         self.assertEqual(successful_reads(self.trace(Path("/tmp/not-a-recipe.md")), SKILL), {})
         self.assertEqual(successful_reads(self.trace(path)[:1], SKILL), {})
+
+    def test_denied_or_unfinished_reads_fail_even_after_a_successful_read(self):
+        path = SKILL / "recipes/ai-for-dna-research.md"
+        trace = self.trace(path, error=True) + self.trace(path)
+        self.assertTrue(any("Denied/error read" in failure for failure in read_failures(trace)))
+        self.assertTrue(any("Incomplete read" in failure for failure in read_failures(self.trace(path)[:1])))
+        self.assertTrue(any("Out-of-scope" in failure for failure in read_failures(self.trace(Path("/tmp/private.md")))))
+
+    def test_goal_or_first_line_cannot_stand_in_for_judgment_rules(self):
+        case = next(case for case in load_cases() if case["id"] == "parentage-proof")
+        path = SKILL / "recipes/evidence-proof-judgment.md"
+        goal = read_recipe(SKILL / "recipes", path.name, "Goal")
+        for content in ("1\t---", goal):
+            reads = successful_reads(self.trace(path, content), SKILL)
+            self.assertTrue(any("Judgment rules not read" in failure for failure in deterministic(case, "A plan", reads)))
+        sections = case["expect"]["read_sections"][path.stem]
+        content = "\n".join(read_recipe(SKILL / "recipes", path.name, section) for section in sections)
+        reads = successful_reads(self.trace(path, content), SKILL)
+        self.assertFalse(reads[path.stem]["complete"])
+        self.assertTrue(required_lines(SKILL, path.stem, sections) <= set(reads[path.stem]["lines"]))
+        self.assertFalse(any("Judgment rules not read" in failure for failure in deterministic(case, "A plan", reads)))
+
+    def test_replay_subset_uses_only_selected_fixtures_but_rejects_changed_ones(self):
+        previous = {"materials": {"matches.csv": "same", "family.ged": "unselected"}}
+        verify_replay_materials(previous, {"matches.csv": "same"})
+        with self.assertRaisesRegex(ValueError, "fixture contents differ"):
+            verify_replay_materials(previous, {"matches.csv": "changed"})
+        with self.assertRaisesRegex(ValueError, "fixture contents differ"):
+            verify_replay_materials(previous, {"missing.csv": "new"})
+        with self.assertRaisesRegex(ValueError, "no frozen fixtures"):
+            verify_replay_materials({}, {})
 
     def test_successful_chunks_accumulate_and_tasks_require_every_line(self):
         path = SKILL / "recipes/family-interviews-and-oral-tradition.md"

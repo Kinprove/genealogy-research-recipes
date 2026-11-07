@@ -9,7 +9,12 @@
       "burial-evidence-packet"
     ],
     "any_of": [],
-    "clarify": false
+    "clarify": false,
+    "read_sections": {
+      "evidence-proof-judgment": [
+        "Hard rules — apply these before you rule (the load-bearing directives)"
+      ]
+    }
   },
   "assert": {
     "regex_present": [

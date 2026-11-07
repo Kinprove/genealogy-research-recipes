@@ -8,7 +8,17 @@
       "evidence-proof-judgment",
       "genealogy-standards-audit"
     ],
-    "clarify": false
+    "clarify": false,
+    "read_sections": {
+      "evidence-proof-judgment": [
+        "Hard rules — apply these before you rule (the load-bearing directives)",
+        "What the HUMAN must own (never delegate to an AI conclusion)"
+      ],
+      "genealogy-standards-audit": [
+        "Fix the question and the audit boundary",
+        "Replace GPS checkmarks with evidence pointers"
+      ]
+    }
   },
   "assert": {
     "regex_present": [],

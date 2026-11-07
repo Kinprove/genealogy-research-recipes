@@ -7,7 +7,12 @@
       "gedmatch-practical-dna-workflows"
     ],
     "any_of": [],
-    "clarify": false
+    "clarify": false,
+    "read_sections": {
+      "ai-for-dna-research": [
+        "Verification & privacy discipline"
+      ]
+    }
   },
   "assert": {
     "regex_present": [

@@ -11,6 +11,7 @@ HERE = Path(__file__).resolve().parent
 SKILL = HERE.parent
 sys.path.insert(0, str(HERE.parents[2] / "scripts"))
 from recipe_catalog import generated_files, load_catalog, parse_recipe, validate_header
+from read_server import read_recipe
 
 
 def load_cases(directory=HERE / "cases"):
@@ -31,6 +32,10 @@ def load_cases(directory=HERE / "cases"):
             raise ValueError(f"{case['id']}: empty rubric")
         for pattern in case["assert"]["regex_present"] + case["assert"]["regex_absent"]:
             re.compile(pattern, re.I | re.S)
+        for material in case["materials"]:
+            fixture = (HERE / "fixtures" / material).resolve()
+            if not fixture.is_relative_to(HERE / "fixtures") or not fixture.is_file():
+                raise ValueError(f"{case['id']}: invalid fixture {material}")
     return cases
 
 
@@ -52,6 +57,14 @@ def judgment_recipes(skill=SKILL):
 
 
 JUDGMENT = judgment_recipes()
+
+
+def required_lines(skill, recipe, sections):
+    lines = set()
+    for section in sections:
+        text = read_recipe(Path(skill) / "recipes", recipe + ".md", section)
+        lines.update(int(line.partition("\t")[0]) for line in text.splitlines())
+    return lines
 
 
 def guardrails(skill=SKILL):
@@ -137,6 +150,13 @@ def static_checks(skill=SKILL, cases_dir=HERE / "cases", today=None):
         for name in expected["recipes"] + expected.get("any_of", []) + expected.get("read_full", []):
             if name not in recipes:
                 raise ValueError(f"{case['id']}: missing recipe {name}")
+        for name, sections in expected.get("read_sections", {}).items():
+            if name not in recipes or not sections:
+                raise ValueError(f"{case['id']}: invalid rule-section binding")
+            required_lines(skill, name, sections)
+        for name in (set(expected["recipes"]) | set(expected.get("any_of", []))) & JUDGMENT:
+            if name not in expected.get("read_full", []) and name not in expected.get("read_sections", {}):
+                raise ValueError(f"{case['id']}: judgment recipe {name} needs a rule-section binding")
         for item in case["assert"]["rubric"]:
             if item["guardrail"] not in rules or not item["question"].endswith("?"):
                 raise ValueError(f"{case['id']}: missing guardrail or invalid yes/no question")

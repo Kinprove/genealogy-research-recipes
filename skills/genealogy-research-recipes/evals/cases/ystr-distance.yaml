@@ -7,7 +7,13 @@
       "ydna-mtdna-interpretation"
     ],
     "any_of": [],
-    "clarify": false
+    "clarify": false,
+    "read_sections": {
+      "ydna-mtdna-interpretation": [
+        "The mental model (get this right or everything downstream breaks)",
+        "Rules of thumb — the resolution → timeframe map (interpretive ceilings, not a tutorial)"
+      ]
+    }
   },
   "assert": {
     "regex_present": [

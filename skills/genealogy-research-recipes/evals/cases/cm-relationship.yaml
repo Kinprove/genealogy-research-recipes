@@ -9,7 +9,12 @@
       "ai-for-dna-research"
     ],
     "any_of": [],
-    "clarify": false
+    "clarify": false,
+    "read_sections": {
+      "ai-for-dna-research": [
+        "What to never trust or delegate (verify, or don't)"
+      ]
+    }
   },
   "assert": {
     "regex_present": [

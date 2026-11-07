@@ -7,7 +7,13 @@
       "unknown-parentage-wato"
     ],
     "any_of": [],
-    "clarify": false
+    "clarify": false,
+    "read_sections": {
+      "unknown-parentage-wato": [
+        "The mental model (get this right or everything downstream breaks)",
+        "What to never trust or delegate (the judgment a human must own)"
+      ]
+    }
   },
   "assert": {
     "regex_present": [

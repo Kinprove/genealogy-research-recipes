@@ -14,7 +14,7 @@ import shutil
 import subprocess
 import sys
 
-from checks import HERE, JUDGMENT, SKILL, guardrails, judgment_recipes, load_cases, static_checks
+from checks import HERE, JUDGMENT, SKILL, guardrails, judgment_recipes, load_cases, required_lines, static_checks
 
 READ_TOOL = "mcp__recipe_evals__read_file"
 
@@ -90,6 +90,14 @@ def invoke(prompt, skill, output, model, profile="claude", tools="recipes", sche
     return terminal.get("result", ""), events
 
 
+def read_path(block, skill):
+    arguments = block.get("input", {})
+    path = Path(arguments.get("file_path", arguments.get("path", "")))
+    if block["name"] == READ_TOOL and not path.is_absolute() and (not path.parts or path.parts[0] != "recipes"):
+        path = Path("recipes") / path
+    return (Path(skill) / path).resolve() if not path.is_absolute() else path.resolve()
+
+
 def successful_reads(events, skill):
     """Track successful reads and line coverage; also understand older native Read traces."""
     pending, opened = {}, {}
@@ -98,11 +106,7 @@ def successful_reads(events, skill):
         message = event.get("message", {})
         for block in message.get("content", []) if isinstance(message.get("content"), list) else []:
             if block.get("type") == "tool_use" and block.get("name") in {"Read", READ_TOOL}:
-                arguments = block.get("input", {})
-                path = Path(arguments.get("file_path", arguments.get("path", "")))
-                if block["name"] == READ_TOOL and not path.is_absolute() and (not path.parts or path.parts[0] != "recipes"):
-                    path = Path("recipes") / path
-                path = (Path(skill) / path).resolve() if not path.is_absolute() else path.resolve()
+                path = read_path(block, skill)
                 if path.parent == recipes and path.suffix == ".md" and path.is_file():
                     pending[block["id"]] = path
             if block.get("type") == "tool_result":
@@ -126,7 +130,25 @@ def unexpected_tools(events, allowed):
                    and block["name"] not in allowed})
 
 
-def deterministic(case, answer, reads, judgments=None):
+def read_failures(events, skill=SKILL):
+    pending, failures = set(), []
+    for event in events:
+        content = event.get("message", {}).get("content", [])
+        for block in content if isinstance(content, list) else []:
+            if block.get("type") == "tool_use" and block.get("name") in {"Read", READ_TOOL}:
+                pending.add(block["id"])
+                path = read_path(block, skill)
+                if path.parent != (Path(skill) / "recipes").resolve() or path.suffix != ".md":
+                    failures.append("Out-of-scope read: " + block["id"])
+            if block.get("type") == "tool_result" and block.get("tool_use_id") in pending:
+                pending.remove(block["tool_use_id"])
+                if block.get("is_error"):
+                    failures.append("Denied/error read: " + block["tool_use_id"])
+    failures.extend("Incomplete read: " + identifier for identifier in sorted(pending))
+    return failures
+
+
+def deterministic(case, answer, reads, judgments=None, skill=SKILL):
     expected = case["expect"]
     judgments = JUDGMENT if judgments is None else judgments
     failures = []
@@ -142,6 +164,10 @@ def deterministic(case, answer, reads, judgments=None):
         for name, evidence in reads.items():
             if (name not in judgments or name in expected.get("read_full", [])) and not evidence["complete"]:
                 failures.append("Task recipe not read in full: " + name)
+            elif name in judgments and not evidence["complete"]:
+                sections = expected.get("read_sections", {}).get(name)
+                if not sections or not required_lines(skill, name, sections) <= set(evidence["lines"]):
+                    failures.append("Judgment rules not read: " + name)
     for pattern in case["assert"]["regex_present"]:
         if not re.search(pattern, answer, re.I | re.S):
             failures.append("Missing regex: " + pattern)
@@ -229,7 +255,9 @@ def sample(case, number, args, rules):
         reads = successful_reads(trace, args.skill)
         result["reads"] = reads
         result["answer"] = answer
-        result["deterministic_failures"] = deterministic(case, answer, reads, judgment_recipes(args.skill))
+        result["deterministic_failures"] = deterministic(case, answer, reads, judgment_recipes(args.skill), args.skill)
+        result["read_failures"] = read_failures(trace, args.skill)
+        result["deterministic_failures"].extend(result["read_failures"])
         other_tools = unexpected_tools(trace, {"Read", READ_TOOL})
         if other_tools:
             result["deterministic_failures"].append("Unexpected tools: " + ", ".join(other_tools))
@@ -263,6 +291,14 @@ def aggregate(cases, results):
             "rubric_passes": sum(row["rubric_pass"] for row in rows),
         }
     return summary
+
+
+def verify_replay_materials(previous, selected):
+    if "materials" not in previous:
+        raise ValueError("Original run has no frozen fixtures; cannot verify replay")
+    saved = previous["materials"]
+    if any(name not in saved or saved[name] != value for name, value in selected.items()):
+        raise ValueError("Replay fixture contents differ from the original run")
 
 
 def main():
@@ -309,8 +345,11 @@ def main():
             parser.exit(1, "Replay skill bytes or case contracts differ; keep the original run and make a new sample run.\n")
     materials = {name: (HERE / "fixtures" / name).read_text(encoding="utf-8")
                  for case in cases for name in case["materials"]}
-    if args.replay and "materials" in previous and previous["materials"] != materials:
-        parser.exit(1, "Replay fixture contents differ from the original run.\n")
+    if args.replay:
+        try:
+            verify_replay_materials(previous, materials)
+        except ValueError as error:
+            parser.exit(1, str(error) + "\n")
     args.materials = materials
     write_json(args.output / "run.json", {
         "started": dt.datetime.now(dt.timezone.utc).isoformat(), "skill": str(args.skill),
