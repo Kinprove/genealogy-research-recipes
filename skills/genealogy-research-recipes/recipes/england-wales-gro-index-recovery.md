@@ -70,8 +70,8 @@ For general FamilySearch jurisdiction and missed-person recovery, use
 ## Sweep for the full sibling group
 
 1. Search by surname only (forename blank) plus the mother's maiden surname
-   [S12], [S14], [S13], [S18]. First check that every window falls inside the GRO online index's
-   birth years (step 5 of "Reconcile copies"). For births from 1935 to 1983, sweep a copy of the
+   [S12], [S14], [S13], [S18]. Before you sweep, check that every window falls inside the GRO
+   online index's birth years (step 5 of "Reconcile copies"). For births from 1935 to 1983, sweep a copy of the
    quarterly index (FreeBMD, Ancestry or Findmypast) instead; the copies carry the mother's maiden
    surname only from the September quarter of 1911 [S39], [S40]. The GRO search window is at most
    ±2 years, so each search covers five years. GRO's guide lists sex as a required field, so each
@@ -124,7 +124,7 @@ For general FamilySearch jurisdiction and missed-person recovery, use
 2. GRO's guide says a dash in the maiden-name column means no maiden surname was captured for
     the entry: the informant did not give one, or it was not data-captured [S38]. Presenters read
     a dash as a sign that the mother's surname matched the child's, often because she was
-    unmarried [S21], [S22], [S14], [S19]. GRO does not give that meaning, so treat it as a lead,
+    unmarried [S21], [S22], [S14], [S19]. GRO's guide does not say this, so treat it as a lead,
     not proof. One presenter warns that the parents' surnames can coincidentally be the same
     [S22]. Confirm from the entry before attaching the child [S21].
 
@@ -146,15 +146,15 @@ For general FamilySearch jurisdiction and missed-person recovery, use
     GRO-titled index reproduce the GRO index [S5], [S7]. Match copies by district, quarter,
     volume and page, and count them as one observation, not as independent support.
 2. Copies do not all carry the same fields. FreeBMD and the commercial copies reproduce the
-    printed quarterly index. It added the mother's maiden surname to births from the September
-    quarter of 1911 and age at death from the March quarter of 1866; from the June quarter of
-    1969, death entries give the date of birth instead of the age [S39]. Before those quarters a
-    copy has no such field to read or search. GRO built its online index from its own digitised
-    records and added the mother's maiden surname to earlier births "where possible" [S38]; 2016
-    launch reports say it also gives ages at death for earlier deaths, but they disagree on the
-    first year [S41]. For births under 100 years old, the GRO index shows the mother's maiden
-    surname only if you entered it in the search [S38]. In one example, FreeBMD had no maiden name for a child whose GRO entry showed a dash
-    [S21]. FreeBMD is volunteer-transcribed and incomplete [S21]. Its coverage starts with the
+    printed quarterly index. The printed index added the mother's maiden surname to births from
+    the September quarter of 1911 and age at death from the March quarter of 1866; from the June
+    quarter of 1969, death entries give the date of birth instead of the age [S39]. Before those
+    quarters a copy has no such field to read or search. GRO built its online index from its own
+    digitised records and added the mother's maiden surname to earlier births "where possible"
+    [S38]. 2016 launch reports say it also gives ages at death for earlier deaths, but they
+    disagree on the first year [S41]. For births under 100 years old, the GRO index shows the
+    mother's maiden surname only if you entered it in the search [S38]. In one example, FreeBMD
+    had no maiden name for a child whose GRO entry showed a dash [S21]. FreeBMD is volunteer-transcribed and incomplete [S21]. Its coverage starts with the
     September quarter of 1837. Rule: when FreeBMD or an aggregator finds an entry inside the GRO
     online index's years (step 5), rerun its exact spelling in the GRO index to get the
     maiden-name field or the age at death [S21], [S19]. A blank maiden name in a copy is not a

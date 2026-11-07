@@ -37,7 +37,7 @@ class EnglandAndWalesTests(unittest.TestCase):
     def test_gro_dash_means_not_captured(self):
         section = between(self.gro, "## Recover children registered", "## Treat a marriage page")
         self.assertIn("no maiden surname was captured for the entry", section)
-        self.assertIn("GRO does not give that meaning", section)
+        self.assertIn("GRO's guide does not say this", section)
         self.assertNotIn("generally means the mother's surname matches", self.gro)
 
     def test_index_copies_carry_dated_fields(self):
@@ -126,7 +126,8 @@ class IrelandTests(unittest.TestCase):
 
     def test_irishgenealogy_is_the_first_index_route(self):
         district = between(self.civil, "## 2. Identify the registration district", "## 3. Carry the index locator")
-        first, commercial = district.index("Search IrishGenealogy.ie first"), district.index("Findmypast, Ancestry and FamilySearch")
+        first = district.index("Search IrishGenealogy.ie first")
+        commercial = district.index("Findmypast, Ancestry and FamilySearch")
         self.assertLess(first, commercial)
         self.assertIn("deaths before 1871 are index only", district)
 
@@ -168,7 +169,8 @@ class ConvictAndCanadaTests(unittest.TestCase):
         self.assertIn("British convict transportation registers 1787–1867", stage)
 
     def test_colonial_lists_tasmanian_registers_and_panopticon_are_routed(self):
-        self.assertIn("TNA HO 10 (1787–1859)", self.convict)
+        stages = between(self.convict, "## Pick a direction, then list every stage", "## Route the colonial stages")
+        self.assertIn("TNA HO 10 (1787–1859)", stages)
         tasmania = between(self.convict, "**Van Diemen's Land (Tasmania), from 1803**", "**Western Australia")
         for series in ("(CON31)", "(CON33)", "(CON40)", "(CON41)"):
             self.assertIn(series, tasmania)
@@ -177,7 +179,7 @@ class ConvictAndCanadaTests(unittest.TestCase):
 
     def test_canadian_census_reference_dates_and_birth_fields(self):
         timing = between(self.canada, "## Check form wording and timing", "## Browse by title-card")
-        for date in (
+        for phrase in (
             "2 April 1871",
             "4 April 1881",
             "31 March 1901",
@@ -189,8 +191,8 @@ class ConvictAndCanadaTests(unittest.TestCase):
             "as of 5 April",
             "For 1911 use 1 June",
         ):
-            self.assertIn(date, timing)
-        self.assertIn("month and day of birth", timing)
+            self.assertIn(phrase, timing)
+        self.assertIn("month, day and year of birth", timing)
         self.assertIn("1911 asks for month and year", timing)
 
 

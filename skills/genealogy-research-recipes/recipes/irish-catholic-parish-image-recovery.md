@@ -50,10 +50,10 @@ burials before then. Start dates run from the 1740s–50s in some city parishes,
 1780s–90s in counties such as Kildare, Wexford, Waterford and Kilkenny, to the 1850s–60s on the
 western seaboard. [O3, O5] The images are not name-indexed on the NLI site. Findmypast and Ancestry
 index the same images, free with an account, and RootsIreland (paid) indexes most parishes,
-mostly to about 1900. [O3, O4]
+generally to about 1900. [O3, O4]
 
 **Privacy gate:** <!-- privacy-gate: request --> An entry after a register's end can name people
-who may be living; answer the privacy gate in `SKILL.md` before asking for it. For an event after
+who may be living; answer the privacy gate in `SKILL.md` before you request one. For an event after
 1880, ask the parish, which keeps the original registers; a priest may search them for a fee or
 donation. [O5]
 
