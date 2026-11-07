@@ -91,7 +91,7 @@ Mark each row as inspected (images or original), extract only, or unlocated. If 
   - A participant reported that GAPK treats any "сказка" as a revision tale by default, even an autobiography. Confirm the document type from the document itself. [S13]
   - A file ordered from an archive for a named hamlet held the right place but the wrong people (one family only). Participants took it to be a supplementary revision of omitted persons, not the main return. Another ordered file had renumbered leaves. [S5]
   - An online catalogue's file numbers and titles did not match the actual files. Check them against the images. [S5]
-- Note whether the volume covers males only. The early censuses often did not record women at all, so their absence says nothing about them. [S10], [S25]
+- Note whether the volume covers males only. The 1st (1719), 2nd (1744–1747) and 6th (1811) revisions did not record women; the others did. [S37], [S38] A wife or daughter missing from an 1811 tale is a gap in the census, not an absence. Some local copies of the 1st revision name women anyway (step 6). [S10], [S25]
 
 ## 4. Transcribe each entry field by field
 
@@ -181,6 +181,7 @@ The household sheets of the 1897 census were ordered destroyed after tabulation.
 
 1. Check the survival catalogues. The volunteer catalogue at metrics.tilda.ws/perepis1897 is arranged by country and archive, sometimes down to fond, delo and uezd, and marks some entries as unconfirmed. [S27] Altai State University's arch1897.histcensus.asu.ru catalogues the census's archival fonds. [S28]
 2. Then read the holder's own inventory. A census-commission fond does not mean that named sheets survive, and an uezd absent from a catalogue is not proven lost.
+3. Two large surviving sets show what to expect. The State Archive in Tobolsk holds the sheets of the Tobolsk guberniya statistical committee (ф. И-417, оп. 2, д. 1–4175): second and trial copies for eight uezds and their towns, all except Berezov and Surgut, digitised with paid online access. [S39], [S40] The State Archive of Yaroslavl Oblast keeps an 1897 census database and electronic indexes for the residents of some towns of the guberniya, Yaroslavl among them. [S41] Even inside such a set, check the delo for the settlement.
 
 Rootera's 1897 index (rootera.lv) covers only places in present-day Latvia and is still being extended. [S30]
 
