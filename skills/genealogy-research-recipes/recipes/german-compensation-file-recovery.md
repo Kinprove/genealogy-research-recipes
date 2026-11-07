@@ -68,6 +68,7 @@ Participants reported that content varies from file to file. Many files are most
 
 ## 6. Order by exact signature and log each access state with dates
 
+- **Privacy gate:** <!-- privacy-gate: request --> A file request asks the archive for postwar files that name applicants, heirs, relatives and witnesses who may still be living. Answer the privacy gate in `SKILL.md` before each request, including requests for B Rep. 032 trustee files.
 - **Request by exact signature.** A participant who files requests regularly reported that a commissioned search took months to years. A request for a scan of a stated signature went quickly once the forms were done. [S1] For WGA files, a participant said digitised copies can be ordered for a fee. [S2]
 - **LAA forms.** Participants described a user application (Benutzungsantrag) and a declaration accepting costs. [S1] A participant said every file has to be assessed under data-protection law before it can be released, and another participant's dated log calls this step the Zugänglichkeitsprüfung. [S1] The Bundesarchiv's pilot notice refers to time-consuming rights checks on archival material.
 - **Pilot procedure.** On 28 February 2025 the Bundesarchiv announced a pilot procedure for LAA use. Under it, requesters receive three documents:
@@ -94,6 +95,7 @@ Participants reported that content varies from file to file. Many files are most
 ## 7. Route residences and dates to the next records
 
 - Treat postwar addresses from a WGA title or a file as residence leads, not as civil-registration facts. In Berlin, continue in the Einwohnermeldekartei (residents' registration card index). The Landesarchiv Berlin says the index was kept from 1874. The part that survives is the West Berlin index of residents who were in the city after 1945 and had deregistered by 1960, plus a few earlier cards; the catalogue entry B Rep. 021-01 gives 1875–1961. For address-book follow-up, use the [city-directory workflow](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md).
+- **Privacy gate:** <!-- privacy-gate: request --> A request for postwar death and marriage entries can concern later spouses and other people who may still be living. Answer the privacy gate in `SKILL.md` before you request any register entry.
 - Use a file's postwar residence, later marriages and stated death date and place to choose the Standesamt for the death and marriage entries. One participant found an unknown postwar residence, three later marriages and the death date and place this way. Another wanted the file precisely to learn where to look for a death entry. [S1] Until you have seen the register entry, record the date as "stated in the file".
 
 ## Output: hit register

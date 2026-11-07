@@ -39,7 +39,7 @@ For workflows 1–4, use authorized account access and start with the paired exp
 require two-factor authentication. [H6]
 Keep original files and profile details private; use opaque handles in shared summaries.
 Authorized access covers analysis, not tree changes: workflows 3 and 4 also need the privacy
-decision in `SKILL.md` step 5, set out at the start of workflow 3, before any tree connection or
+gate in `SKILL.md`, set out at the start of workflow 3, before any tree connection or
 match link.
 
 For an authorized kit-continuity handoff, distinguish present access from a recorded kit
@@ -60,6 +60,9 @@ multiple-test roster with the Advanced Matches checks at the end of
 ## Eight workflows
 
 ### 1. Export the match and segment pair, and record its scope
+
+**Privacy gate:** <!-- privacy-gate: export --> The match list and segment file, including any
+re-export, hold living matches' names and DNA data; answer the privacy gate in `SKILL.md` first.
 
 On Family Finder Matches, use **Export CSV → All Matches** for the match list. In the Chromosome
 Browser, use **Download All Segments** for all matches' segment rows; **Download Segments** produces
@@ -109,6 +112,10 @@ cross-file name check reconcile. Carry that scope into the joined table.
 `Family Finder Matches`, export choice `All Matches`, active filters `none`, scope `all`, row count
 `240`, interface count `240`, links as of `2026-10-02`, checks `passed`.
 
+**Privacy gate:** <!-- privacy-gate: export --> Preserved files hold the tester's raw data and
+origins report and living matches' match and segment data; answer the privacy gate in `SKILL.md`
+before saving them.
+
 Before an independently authorized upgrade or replacement of an existing Family Finder
 result, preserve the currently available match and segment files, raw data and origins
 report, or the supplied views where exports are unavailable. Record each saved product's
@@ -124,6 +131,9 @@ Use the match CSV's full-name column, rather than its separate first/middle/last
 and compare its exact values with names in the segment CSV. [S1, S2] Use files from the same kit
 and export session. Hold out duplicated names and any unmatched spelling for the note-handle
 procedure below.
+
+**Privacy gate:** <!-- privacy-gate: export --> The re-exported pair and each single-match segment
+file hold living matches' names, note handles and DNA data; answer the privacy gate in `SKILL.md` first.
 
 For each held-out person, open the separate match profiles and assign opaque local handles in the
 private working ledger. Append that person's handle to their FTDNA match note, preserving the
@@ -149,10 +159,10 @@ segment file. Do not join a held-out person until both conditions hold.
 
 ### 3. Inventory links before any tree change; relink deliberately
 
-**Privacy checkpoint before connecting a tree or linking a match:** A link ties a tester's DNA
+**Privacy gate before connecting a tree or linking a match:** <!-- privacy-gate: link --> A link ties a tester's DNA
 result to a person in the tree, and the tree's settings decide who else can see that person and
-relationship. Before connecting or switching a tree, or linking or relinking a match, make the
-separate privacy decision in `SKILL.md` step 5: record each match and tree person involved, inspect the current tree and
+relationship. Before connecting or switching a tree, or linking or relinking a match, answer the
+privacy gate in `SKILL.md`: record each match and tree person involved, inspect the current tree and
 profile visibility settings, and require explicit permission covering each link from the kit
 holder and from the linked tester. Account access does not establish it. If permission or
 visibility is unclear, keep the ledger rows local and leave the current link unchanged. Apply the
@@ -191,8 +201,8 @@ match and linked relative: the block is carried by the same alleles and meets th
 Matching threshold. The linked relative's tree position supplies the parental side. ICW is not
 used for bucketing. [H4, S5]
 
-**Privacy checkpoint:** Each anchor link puts a relative's DNA result on the tree. Apply the
-workflow 3 checkpoint (`SKILL.md` step 5) to every anchor before linking it, including that
+**Privacy gate:** <!-- privacy-gate: link, export --> Each anchor link puts a relative's DNA result on the tree, and each re-export saves living matches' data. Apply the
+workflow 3 checkpoint (the privacy gate in `SKILL.md`) to every anchor before linking, relinking or re-exporting, including that
 relative's own permission.
 
 Link documented relatives who identify one side first: parents and grandparents, then aunts,
@@ -244,6 +254,10 @@ lineages; it is shaped by subgroup selection and publication settings. [S6–S8]
    known ancestor. Record `details withheld` rather than inventing the missing identity or
    classifying that kit as absent. Save the retrieval date and recheck date; the 2023 instructions
    describe periodic updates, not an immediate reflection of every change. [S6, S7]
+
+**Privacy gate:** <!-- privacy-gate: publish --> Public project results expose members' display
+names, earliest known ancestors and Y results, and members may be living; answer the privacy gate
+in `SKILL.md` before any publication change, and preserve member sharing choices.
 
 **Optional administrator branch:** use authorized Group Administrator access to inspect the
 project's public-results configuration. Save the previous settings before any change. The

@@ -38,7 +38,10 @@ already-supported decision through the three systems.
 2. Back up that database before linking or transferring. Preserve its media files too;
    inspect the installed edition's backup options rather than assuming a database-only
    backup contains media. [H4]
-3. Choose a small person/family set and the facts needed for this task. Keep unrelated
+3. **Privacy gate:** <!-- privacy-gate: upload --> A first TreeShare upload sends the
+   RootsMagic file's people, possibly including living relatives, to Ancestry; answer
+   the privacy gate in `SKILL.md` before creating the new tree.
+   Choose a small person/family set and the facts needed for this task. Keep unrelated
    notes and speculative branches outside the proposed sharing scope. [S2]
    This person set scopes subsequent exchanges through an existing connection. A first
    TreeShare upload sends the RootsMagic file, not only this working list. Inspect the
@@ -72,6 +75,9 @@ available controls when applying that logic to a RootsMagic working database.
 
 ### Choose the intended export snapshot
 
+**Privacy gate:** <!-- privacy-gate: export --> A GEDCOM export of a hosted tree can hold
+details of living people; answer the privacy gate in `SKILL.md` before downloading it.
+
 If a hosted service offers both the originally uploaded GEDCOM and a newly generated
 export of its edited tree, choose the version needed for the task. Record the tree and
 snapshot/date; retain the historical upload separately rather than treating it as current
@@ -85,7 +91,10 @@ For writing research conclusions to a GEDCOM file, see
 
 1. Map each RootsMagic record to the intended Ancestry profile and FamilySearch PID.
    Compare immediate family and identifying records, not only the displayed name.
-2. For Ancestry, use TreeShare from the Publish page in RootsMagic 8 and later.
+2. **Privacy gate:** <!-- privacy-gate: link --> Connecting the local file to an Ancestry
+   tree syncs family data that may concern living relatives; answer the privacy gate in
+   `SKILL.md` first.
+   For Ancestry, use TreeShare from the Publish page in RootsMagic 8 and later.
    RootsMagic 7.5 had it under the Internet menu, with a toolbar button added on first
    use. [H1, H8] Initial upload creates a new
    Ancestry tree; downloading an existing tree creates a new RootsMagic database.
@@ -93,7 +102,10 @@ For writing research conclusions to a GEDCOM file, see
    Record which local file the connection belongs to. [H1]
 3. Review a proposed person link before accepting it. Leave competing identities deferred.
    A record appearing in only one tree does not justify adding or deleting a person. [H1]
-4. Enable FamilySearch support and sign in if needed. Review the matched FamilySearch
+4. **Privacy gate:** <!-- privacy-gate: link --> Linking local people to FamilySearch
+   profiles prepares their data for the shared tree, and some may be living; answer the
+   privacy gate in `SKILL.md` first.
+   Enable FamilySearch support and sign in if needed. Review the matched FamilySearch
    person before Share Data. AutoMatch establishes links; it does not exchange facts.
    Check generated links before using them to move information. [H5, H6]
 
@@ -150,7 +162,10 @@ control, historical place equivalence or lossless transfer. [S3]
 
 ## 4. Reopen the destination and check what arrived
 
-1. Accept only the reviewed batch, then reopen each affected destination profile.
+1. **Privacy gate:** <!-- privacy-gate: upload --> Accepting the batch sends facts,
+   citations, notes and media about tree people, possibly living, to Ancestry or
+   FamilySearch; answer the privacy gate in `SKILL.md` first.
+   Accept only the reviewed batch, then reopen each affected destination profile.
 2. Check the saved date/place/name or relationship; then inspect its attached citation,
    URL, source text, note and media when those objects were selected.
 3. Compare source content and associations before importing another copy. In S2's worked

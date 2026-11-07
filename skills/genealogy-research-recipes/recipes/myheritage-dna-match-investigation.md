@@ -20,6 +20,9 @@ Produce a small, reproducible investigation packet: a match shortlist, dated not
 specific shared-match or segment observations, checked theory paths, and a follow-up queue.
 Choose the workflow that answers the current question; running all nine is unnecessary.
 
+**Privacy gate:** <!-- privacy-gate: export --> Exports of match and segment data hold living
+matches' DNA data; answer the privacy gate in `SKILL.md` before delegating or running an export.
+
 Use the companion **DNA data export** procedure for export schemas and **DNA match clustering**
 for Leeds, AutoClusters and network mechanics. These separate procedures are outside this
 playbook; check their availability in your research workspace before delegating those tasks.
@@ -41,12 +44,16 @@ working loop and records, rather than another clustering or cM interpretation me
 4. Before correcting a wrong assignment, save every theory you need: match URL, proposed
    relationship, each path and its component links, displayed confidence, review status and date.
    **MyHeritage says reassignment permanently deletes existing Theory of Family Relativity data.**
-5. For a genealogy kit, use Manage DNA kits → kit menu → Re-assign kit to a different person,
+5. **Privacy gate:** <!-- privacy-gate: link --> Reassignment links a living relative's DNA kit
+   to a tree profile; answer the privacy gate in `SKILL.md` first. For a genealogy kit, use Manage DNA kits → kit menu → Re-assign kit to a different person,
    selecting the correct existing profile where available. Before the final Save, verify that
    you have that person's permission to manage their DNA data and check the permission box.
    Stop if permission is missing. Record the permission reference and attestation date in the
    session header, then save and recheck the association.
    The documented reassignment procedure does not apply to DNA Health kits.
+
+**Privacy gate:** <!-- privacy-gate: export --> Downloading a raw DNA file exports the tested
+person's genetic data; answer the privacy gate in `SKILL.md` before downloading it.
 
 If one tested person has several MyHeritage kits (for example an upload and a lab-processed test),
 record each kit's identifier and processing type before comparing their match lists or cM values.
@@ -61,6 +68,9 @@ what such a kit currently shows in the account rather than assuming its matches 
 complete.
 
 ### Before replacing the whole linked tree
+
+**Privacy gate:** <!-- privacy-gate: link --> Relinking kits to a replacement tree moves living
+testers' DNA kits onto new profiles; answer the privacy gate in `SKILL.md` before each change.
 
 While both trees remain accessible, list the affected kit identifiers and map each old
 tree/person reference to its intended replacement. Confirm that the tested person's
@@ -102,6 +112,9 @@ for a whole-tree replacement, also the old/new kit-profile crosswalk and observe
    can make a moderate match more useful for this question than an uninformative higher-cM match.
 5. Save empty results with their actual query, kit, filters and date. Do not fill an unshown DNA
    measurement with zero or infer that a person outside the list has no shared DNA.
+
+**Privacy gate:** <!-- privacy-gate: contact --> Asking a Cousin Finder relative about DNA testing
+contacts a living person; answer the privacy gate in `SKILL.md` first.
 
 Outside the DNA Matches list, MyHeritage's tree-based Cousin Finder lists relatives found through
 family trees, including people who may never have tested. Record each entry as a tree assertion
@@ -171,6 +184,9 @@ relatives who tested elsewhere appear unmarked. So do not read a missing marker 
 5. Record `triangulation_observed` or `no_triangulation_displayed` for that comparison. Overlapping
    bars alone do not establish triangulation. Use the documented relative as a lead to a branch;
    identifying a particular ancestor still requires the pedigree and record investigation.
+
+**Privacy gate:** <!-- privacy-gate: export --> A segment export lists living matches' DNA data;
+answer the privacy gate in `SKILL.md` before exporting or analysing it.
 
 When working from an exported segment file rather than the browser, keep the unfiltered export and
 analyse a copy sorted by chromosome, then start position. Matches overlapping a documented
@@ -242,7 +258,9 @@ access later changes; it neither establishes why a row disappeared nor turns it 
 zero. The [2024 Q&A](https://www.youtube.com/watch?v=Nsir-VBEhWg) motivates this timing;
 the limited packet reuses workflow 9's preservation controls.
 
-1. Use Contact on the DNA-match card. Identify whether the recipient manages another person's
+1. **Privacy gate:** <!-- privacy-gate: contact --> The message discloses tested people and shared
+   DNA to a match or manager; answer the privacy gate in `SKILL.md` first.
+   Use Contact on the DNA-match card. Identify whether the recipient manages another person's
    kit; address the tested person's relationship in the question.
 2. Draft a short message naming the tested people, displayed shared DNA, research question, one
    relevant surname/place or profile link, and the one requested detail. Offer the equivalent
@@ -263,7 +281,9 @@ the limited packet reuses workflow 9's preservation controls.
    compare with the saved session header before comparing lists.
 2. Review the branch label and favorite queue, read the notes, and perform the recorded next
    actions. Check unresolved theory connections rather than accepting a new badge as validation.
-3. Save the shortlist, comparison sets, theory paths and correspondence with dates and source
+3. **Privacy gate:** <!-- privacy-gate: export --> Match, shared-match and segment exports name
+   living matches; answer the privacy gate in `SKILL.md` before exporting.
+   Save the shortlist, comparison sets, theory paths and correspondence with dates and source
    links. Use available exports only after verifying their presence and actual coverage for this
    kit. If an export is unavailable, preserve the selected displayed evidence manually and mark
    the packet's scope as `selected_matches`, never `complete_match_list`.

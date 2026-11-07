@@ -4,6 +4,7 @@ Use this recipe when you need an image of an ancestor, or of their home, shop or
 
 This recipe covers search coverage and caption provenance. For a located Swedish aerial view, it also names the next resident and ownership records to search.
 
+- **Privacy gate:** <!-- privacy-gate: third-party-tool --> Pasting a photo into an AI tool sends images of people who may be living, and the photo holder's data, to a third party; answer the privacy gate in `SKILL.md` first.
 - For AI analysis of context clues in a photo, such as a car model, a uniform or a shop sign, use [AI for documentary records § What to delegate freely](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md), which treats such output as leads. Faces are never compared.
 - Identity rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 - Record your searches with the [research log](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md).
@@ -101,7 +102,7 @@ established from the actual view. Proximity to a marker does not geolocate the i
 
 Use [archival image coverage verification](https://github.com/Kinprove/genealogy-research-recipes/blob/85d9681ceb84175c7f8796657e073eb54b4e0f26/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) to check the observed order and sides. In the 2026 demonstration, stepping two images at a time could show only fronts or only backs [S12]. Do not count a run of fronts as inspection of both sides. Record the series/item locator and the side that supplies a clue. The examples describe those historical demonstrations; check the actual collection and viewer before relying on their codes or controls.
 
-**For a located Swedish aerial view, search residents by the period property designation.** ArkivDigital's April 2026 demonstration advises locating the view, using historical maps to recover its address or *fastighetsbeteckning* at that time, then searching the designation in *Sveriges befolkning 1940–1990* [S13]. An approximate flight marker or a name on a print back is a clue; it does not establish that location.
+**For a located Swedish aerial view, search residents by the period property designation.** ArkivDigital's April 2026 demonstration advises locating the view, using historical maps to recover its address or *fastighetsbeteckning* at that time, then searching the designation in *Sveriges befolkning 1940–1990* [S13]. Search it only for the ancestor's household, and note only the names and family positions the question needs; do not record later or possibly living residents or use the register to find a living person. An approximate flight marker or a name on a print back is a clue; it does not establish that location.
 
 **Keep the ownership search separate.** The same demonstration directs ownership questions to *fastighetsböcker* (property books), mentioning Riksarkivet's reading rooms [S13]. A population-register resident is not thereby the owner. Check the relevant historical property and ownership entry separately; the demonstration does not establish current holdings or access.
 
@@ -141,6 +142,8 @@ For a person from the former Soviet Union, memorial portals filled by families a
 
 Log each portal as its own surface. A family caption on a portal is an attribution: record it as in "Record a proposed identification as an attribution" below, but give its source as the portal's family contributor, with the relationship if the page shows one, never the contributor's name; and never compare faces.
 
+**Privacy gate:** <!-- privacy-gate: contact --> A message through a portal's contact form reaches a living relative who keeps the page and may disclose the user's family details; answer the privacy gate in `SKILL.md` before sending it.
+
 These portals concern living families. A Бессмертный полк page names the relative who keeps it, with their relationship, a contact form and sometimes a phone number [S28]. Record the person and the story, never collect contributors' names or contact details, and use a portal's contact form only when the user asks to make contact.
 
 ## Keep each statement about the image separate
@@ -161,6 +164,8 @@ If the user or a relative recognises someone, record it as that person's attribu
 - the basis they state: their own comparison with a family photo of known provenance that they hold, a store name, a group roster, the date or the setting
 
 Do not compare faces yourself and do not name anyone from appearance. Resemblance is never evidence on its own: a recognition stays an attributed claim until documents support it. In [S7], the researcher recognised the man in a mystery photo found on the site by comparing it with a different photo of him that she owned. Never use an AI-enhanced or AI-generated face in any comparison (see the AI-for-documentary-records link above).
+
+**Privacy gate:** <!-- privacy-gate: publish --> A suggested metadata correction makes the names of people in the photo public in the holder's catalogue, and some sitters may be living; answer the privacy gate in `SKILL.md` first.
 
 Offer a supported identification to the holding institution as a suggested metadata correction. Keep the original caption alongside it, and do not overwrite it in your own notes. A presenter encourages suggesting such updates so that others can find the images [S2]. In [S5], the holder was glad of help identifying the people in the store photo.
 

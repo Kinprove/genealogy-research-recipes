@@ -34,6 +34,10 @@ correct behavior for every other kit. If the expected positive is missing,
 investigate the query, selection and processing before interpreting an empty list.
 This control procedure is original methodological synthesis, not a vendor guarantee.
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Running known-unrelated pairs through a
+comparison tool moves the genetic data of those testers, who may be living, into that tool;
+answer the privacy gate in `SKILL.md` first.
+
 When sharing appears only under relaxed settings, add a known negative. Run the same tool
 and lowered minimum segment size on pairs documented as unrelated within the time frame of
 interest. If those pairs show similar summed small-segment totals, the relaxed total does
@@ -165,6 +169,9 @@ Compare totals using the same autosomal/X scope, minimum-segment inclusion and F
 counting convention. A suspiciously doubled total is a reason to inspect reciprocal
 rows, not to apply a universal cM ceiling or divide every result by two. Preserve a
 changed algorithmic measurement separately from any inferred change in relationship.
+
+**Privacy gate:** <!-- privacy-gate: export --> A segment-level export holds the DNA match data
+of each match, who may be living; answer the privacy gate in `SKILL.md` before exporting it.
 
 Small-segment inclusion is a second reason, besides reciprocal rows, why one service's total
 may be much larger. To compare totals from services with different minimum-segment rules,

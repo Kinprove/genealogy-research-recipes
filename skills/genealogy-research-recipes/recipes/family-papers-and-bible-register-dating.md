@@ -4,6 +4,7 @@ Use this recipe when a date, place or hand on an inherited letter, card, envelop
 
 This recipe covers what these dates, places and hands establish, and how to record them so that writing date, event date and copy stay apart.
 
+- **Privacy gate:** <!-- privacy-gate: third-party-tool --> Images or text of letters, cards, address books and registers given to an AI tool may name living relatives and their addresses; answer the privacy gate in `SKILL.md` first.
 - For reading or translating the handwriting with AI, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md), which treats AI readings as leads.
 - Cite each item, envelope, transcription and online copy with [source citation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md).
 - Weigh a register entry against other records, and make identity rulings, in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).

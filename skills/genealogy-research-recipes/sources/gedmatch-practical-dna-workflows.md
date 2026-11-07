@@ -88,6 +88,10 @@ GEDmatch support articles (undated), retrieved 2026-11-06:
 - **H9:** GEDmatch Support, [Tier 1 Subscription: Pricing, Features, Cancellation & Payment Management](https://support.gedmatch.com/portal/en/kb/articles/tier-1-subscription-pricing-features-cancellation-payment-management). Segment Search, the Phasing tool and Lazarus listed among Tier 1 features; tools marked "Tier 1" on the home page require a paid membership; One-to-Many and One-to-One listed as free.
 - **H10:** GEDmatch Support, [How to Use GEDmatch DNA Matching Tools (One-to-Many, One-to-One, Segment Search)](https://support.gedmatch.com/portal/en/kb/articles/how-to-use-gedmatch-dna-matching-tools-one-to-many-one-to-one-segment-search). A kit must finish processing, "typically 24–48 hours after upload", before matching tools are available.
 
+GEDmatch policy page, retrieved 2026-11-07:
+
+- **H11:** GEDmatch (Verogen), [Privacy Policy](https://www.gedmatch.com/privacy-policy-october-21-2025/), version of 21 October 2025. The uploader selects a privacy option for each upload; personal data is processed for law-enforcement or research access only when the user expressly opts in; government agencies compare kits through the separate GEDmatch PRO portal.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

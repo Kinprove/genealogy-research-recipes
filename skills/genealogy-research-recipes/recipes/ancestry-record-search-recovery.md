@@ -366,11 +366,13 @@ authorize deleting other attachments or accepting an unresolved identity.
 ## Find a researcher or locality helper
 
 If the next lookup needs a helper and a member directory/profile is available, distinguish
-research-interest surname, ancestral place and period from the researcher's current
-location and declared help or skills. Check whether a period describes family presence
+research-interest surname, ancestral place and period from the researcher's declared help
+or skills; do not collect the researcher's current location or other personal details.
+Check whether a period describes family presence
 in a place or an individual's lifespan before using it as a search constraint.
 Inspect candidate profiles and return their locators, stated interests/help and relevance
 to the lookup. Label them as helper candidates; willingness and competence remain unverified.
+Any contact goes through [DNA match outreach staging](dna-match-outreach-staging.md).
 
 These field roles come from [Ancestry's 2012 member-profile demonstration](https://www.youtube.com/watch?v=KRz3hK3KZWc).
 Use fields actually exposed in the available view; the demonstration does not establish

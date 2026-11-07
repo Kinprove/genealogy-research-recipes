@@ -15,6 +15,7 @@
 
 - The following are authored synthesis and are not prescribed by any single presenter: the consent gate as a hard stop, the tier ordering, putting first cousins, aunts and uncles in the sensitive tier by default, the rule that the sensitive tier overrides the message checklist, preferring inline images or links to attachments, and the log format.
 - Also synthesis: the firm rule that a request for results access waits for a reply (S6 says only that it may wait until contact is established), and widening S7's screenshot step from close matches to any match, with the fields and date to capture.
+- Also synthesis, from the skill's privacy rules rather than any presenter: the helper's drafting and logging role, the limit to contact routes the tester already has, the testing site's messaging or a relative who passes the message on, and the rule not to search for a recipient's contact details or accounts. On channel and identity, S2 supports only the checkable sender identity and the preference for social media over email.
 - Also synthesis: widening S10's report on Jewish lineage to any suspected religious or ethnic origin, and widening her English and Spanish templates to the recipient's likely language. S10 names only matches in Spain and Portugal.
 - Each source gives one practitioner's advice. None is a professional standard, and none reports measured response rates.
 - Not verified:

@@ -50,12 +50,16 @@ This register is a recommended research artifact; it is not a DNA Painter import
 ## 1. Paint a measured match and inspect the saved result
 
 1. Create or open the focal tester's chromosome map. Select one identified relative with a usable pairwise segment table. Preserve the original table before editing or pasting. Require the incoming intervals and any existing painted intervals to use one verified genome build before painting. Convert differing coordinates to that common build outside DNA Painter and retain the originals and conversion record; stop if a build is unknown.
-2. Open **Paint a new match**, paste the segment table and use **Preview**. Compare the parsed chromosomes and interval endpoints with the original. Record the selected cM filter; parsing successfully does not mean every source row survived it. DNA Painter's documented ordinary painting default is 7 cM, adjustable in the form. [S1, S2]
+2. **Privacy gate:** <!-- privacy-gate: third-party-tool --> Pasting the segment table and match identity puts a living match's DNA data into DNA Painter; answer the privacy gate in `SKILL.md` first. Open **Paint a new match**, paste the segment table and use **Preview**. Compare the parsed chromosomes and interval endpoints with the original. Record the selected cM filter; parsing successfully does not mean every source row survived it. DNA Painter's documented ordinary painting default is 7 cM, adjustable in the form. [S1, S2]
 3. Enter the match identity and assign the supported parental side and ancestor or couple. If the connection is unresolved, use a provisional group. A group label describes your interpretation; it does not establish it. Save the match. [S1]
 4. Click a chromosome's number to open it and inspect all painted segments. In the closed view, groups higher in the key cover lower groups at overlapping positions. Dragging a group changes the visible layer, not its coordinates or evidential strength. [S3]
 5. Preserve a note explaining the assignment and its source comparison. For an apparent contradiction, inspect the underlying intervals and provider comparison before recoloring anything. DNA Painter cannot compare raw DNA between two matches; a visual overlap is a reason to investigate, not a triangulation result. [S2]
 
 **Artifact:** source segment table, saved match and assignment note. **Checkpoint:** every retained painted interval can be traced to the correct focal-tester/match comparison; hidden layers have been inspected.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Importing FTDNA segment and bucket
+files moves the tester's and named matches' DNA data into DNA Painter; answer the privacy
+gate in `SKILL.md` first.
 
 If an FTDNA segment map already exists, keep any later import of parental-side information
 as a separate operation. Jonny Perl's September 2024 tutorial describes importing a second
@@ -68,6 +72,9 @@ turn a match-level label into an unsupported interval assignment, retain the lab
 external match notes instead. Save which labels were added, left unassigned or could not
 be mapped. [S10]
 
+**Privacy gate:** <!-- privacy-gate: link --> Linking a kit or entering a haplogroup exposes
+a tester's Y or mtDNA result in the map; answer the privacy gate in `SKILL.md` first.
+
 For a map's optional Y/mt panel, keep three fields distinct: the reported haplogroup and
 its tester/test level, an authorized kit link, and the documented direct-line ancestor
 selected for display. A known lineage can be recorded while its haplogroup remains unknown;
@@ -77,6 +84,10 @@ different objects: record which was edited. If a tree propagates a label to othe
 inspect those annotations and preserve the original tester and the conditional lineage
 basis; propagation does not mean those ancestors were tested. Use the
 [Y/mt workflow](ydna-mtdna-interpretation.md) to assess the underlying result. [S19, S20]
+
+**Privacy gate:** <!-- privacy-gate: export, third-party-tool --> The bookmarklet, the
+downloaded CSV and the DNA Painter tools all handle the tester's own Ancestry segment data;
+answer the privacy gate in `SKILL.md` before downloading, importing or pasting it.
 
 Ancestry's Chromosome Painter shows population segments without coordinates. To get them,
 use Kevin Borland's bookmarklet, linked from DNA Painter's [ACPS tool page](https://dnapainter.com/tools/acps):
@@ -106,6 +117,8 @@ portion the provider does not attribute unassigned. [S27, H6]
 
 Choose the smallest transfer that answers the question. Duplicate the map for an alternative analysis; copy one match for a focused comparison; export a filtered subset for an ancestor; export the unfiltered table for a whole-map transfer. Use these as alternate maps of the same focal tester. [S4]
 
+**Privacy gate:** <!-- privacy-gate: export --> Copying or exporting map data moves matches' segment data and identities into the clipboard, a CSV file or another map; answer the privacy gate in `SKILL.md` first.
+
 1. Duplicate through the settings cog if you need a working copy. Edit or remove groups in that copy.
 2. For one match, click one of its segments, choose **View match**, then **Copy match segment data to clipboard**. Paste into the destination's **Paint a new match** form.
 3. For one interval, click the segment, then the chromosome number inside its popup; the clipboard receives that segment's data.
@@ -120,7 +133,7 @@ Use this when the intervals' chromosome copies are already known. The [Common Se
 
 1. Select a phased ancestral interval set for a tested parent and the child's measured inheritance through that parent. For example, intersect a child's match to a grandparent with the relevant parent-map intervals assigned to the child's great-grandparent.
 2. Save both input sets and document why they refer to the same inherited chromosome copy. Require both sets and the destination child map to use one verified genome build before intersecting their coordinates. If builds differ, convert the coordinates to that common build outside the generator and retain the originals and conversion record. If either build or chromosome copy is unknown, stop this remapping operation.
-3. Paste the two sets into the generator and record the cM cutoff. Generate the common intervals. The blog's low 3 cM default was chosen for phased known-family data; it is not a general threshold for trusting small matches. [S5]
+3. **Privacy gate:** <!-- privacy-gate: third-party-tool --> These sets carry a parent's and a child's DNA match data into the generator; answer the privacy gate in `SKILL.md` first. Paste the two sets into the generator and record the cM cutoff. Generate the common intervals. The blog's low 3 cM default was chosen for phased known-family data; it is not a general threshold for trusting small matches. [S5]
 4. Inspect output endpoints: each interval must lie inside an interval from both inputs. Review X results separately; the author's own worked use required removing false X intervals. [S5]
 5. Paint the output on the child's map, naming the ancestral assignment and recording both inputs. Repeat separately for the other ancestral groups.
 
@@ -131,7 +144,7 @@ Use this when the intervals' chromosome copies are already known. The [Common Se
 Use subtraction when a close relative shares a known match on DNA the focal tester did not inherit. This requires the relationship path and grandparents' independence assumed by the method; coordinate subtraction alone cannot establish the ancestor. [S6]
 
 1. Choose a match whose relevant relationship runs through one grandparent and establish that the relevant grandparents are unrelated. For example, use your sibling's comparison with a cousin who descends from your paternal grandfather's sibling. Retrieve two complete, comparable pairwise segment tables: focal tester–match and close relative–match. Record provider thresholds, genome build and comparison completeness. Require both tables and the destination map to use one verified genome build before subtraction; convert differing coordinates outside the generator and retain the conversion record, or stop if a build is unknown. A missing export or unavailable comparison is not a negative result.
-2. In the [Inferred Segments Generator](https://dnapainter.com/tools/isg), put the focal tester–match intervals in **box 1** and the close relative–match intervals in **box 2**. It returns box 2 minus box 1. A partial overlap can split or shorten an interval; reversing the boxes answers another question. [H2]
+2. **Privacy gate:** <!-- privacy-gate: third-party-tool --> Both tables carry living testers' and the match's segment data into the generator; answer the privacy gate in `SKILL.md` before pasting them. In the [Inferred Segments Generator](https://dnapainter.com/tools/isg), put the focal tester–match intervals in **box 1** and the close relative–match intervals in **box 2**. It returns box 2 minus box 1. A partial overlap can split or shorten an interval; reversing the boxes answers another question. [H2]
 3. Save the generated intervals. Their cM values are recalculated; do not expect exact agreement with the provider's original values. [H2]
 4. For a suitable parent/sibling comparison, a missing interval associated with one grandparent can support a provisional assignment to the other grandparent on that parental side. With a first cousin, the inference may only exclude a particular great-grandparent. Full-aunt/uncle segments can span fully identical regions and include DNA from both grandparents, so do not apply the simple whole-interval rule indiscriminately. [S6]
 5. Keep all inferred intervals provisional. Paint using a match name such as `Match A — inferred`; put exclusions in segment notes instead of inventing a positive assignment. Compare with observed intervals before promoting any inferred label. A small shared subset below a provider's reporting threshold can explain an apparent discrepancy. [S6]
@@ -145,7 +158,7 @@ For the specific tested-grandparent scenario, box 1 can contain your measured ma
 Use the [Distinct Segment Generator](https://dnapainter.com/tools/dsg) when several relatives share segments with the same target match and you want the distinct coordinate span represented across their comparisons. Pasting multiple sets returns merged distinct intervals and recalculated cM; the tool assumes build 37. [S8, H3]
 
 1. Save one pairwise table for each relative–target comparison. Label the people and require all input coordinates to be verified build 37 before combining sets. Convert other builds outside the generator and retain the originals and conversion record; stop if a build is unknown. [H3]
-2. Paste the selected sets into the single input box and generate distinct segments.
+2. **Privacy gate:** <!-- privacy-gate: third-party-tool --> Several relatives' segment tables with the target match go into the generator; answer the privacy gate in `SKILL.md` first. Paste the selected sets into the single input box and generate distinct segments.
 3. Save the output and total. Inspect an overlapping chromosome to confirm that the shared span is not counted repeatedly.
 4. Keep the original per-person tables. The combined output is a coordinate union across these comparisons, not a measured match between an untested ancestor and the target, and not a single relative's ordinary pairwise cM total.
 5. Use it to prioritize a match for further tree research while recording the proposed transmission paths and remaining alternatives. The developer presents this use as experimental, not a definitive relationship-identification method. [S8]
@@ -167,6 +180,8 @@ figure's uncertainty while the pairwise amounts are measured. [S25]
 
 Use the [Coverage Estimator](https://dnapainter.com/tools/coverage) for a different question: how much of an ancestor's autosomal DNA is expected to be represented by tested descendants? It takes a descendancy tree and tester marks, not a segment union. [S9, H4]
 
+**Privacy gate:** <!-- privacy-gate: upload, export --> The descendancy tree holds living descendants' names, testing status and willingness, and a transfer moves a descendant's DNA results; answer the privacy gate in `SKILL.md` before entering or importing the tree, arranging a transfer or downloading the tree file.
+
 1. Start a tree with the ancestor as root; add the documented descendants or import a GEDCOM and select that ancestor. Back up an existing tree before GEDCOM import, which replaces its contents.
 2. Mark the descendants whose tests you can use. Check every tester's descent paths to the root: a tester related to the root more than once must appear on each documented path and be marked as tested at each occurrence. These are occurrences of the same tester, not additional independent tests. Record database access; realizing the full represented coverage requires access to the tests in the same database. A mixed-database tree is not automatically an accessible combined research dataset. [H4]
 3. Mark deceased people and known testing willingness. Note the current estimate, request next-tester suggestions and compare feasible candidates. Suggestions exclude people marked willing as well as unwilling, so compare willing candidates manually too. A tested child of an already-tested parent does not add coverage in this model. [S9]
@@ -176,6 +191,10 @@ Use the [Coverage Estimator](https://dnapainter.com/tools/coverage) for a differ
 **Artifact:** descendant tree, accessible-tester inventory, saved tree file and next-test decision. **Checkpoint:** the displayed percentage remains an estimate; the tree and available tests are checked before interpreting lack of useful matches as evidence against the ancestral hypothesis.
 
 ## 7. Annotate a cluster-derived map without assigning the whole cluster
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Cluster HTML, shared-segment CSVs and
+the generated map name living matches and carry their DNA data; answer the privacy gate in
+`SKILL.md` before importing or annotating them.
 
 When an existing cluster result needs annotations, preserve its original HTML, focal tester,
 database, run date and filters. The January 2020 Cluster Auto Painter walkthrough describes
@@ -206,6 +225,10 @@ An ancestral tree starts with the person whose ancestors are being examined. It 
 the descendancy tree used by the Coverage Estimator in workflow 6. The tutorials describe
 GEDCOM root selection, tree completeness and repeated-path views, and a separate Brick Walls
 report. Treat their button names, limits and defaults as dated descriptions. [S12, S13, S14]
+
+**Privacy gate:** <!-- privacy-gate: upload, export, publish --> A pedigree or GEDCOM may include
+living people; answer the privacy gate in `SKILL.md` before importing it, exporting a report
+from it or sharing a view of it.
 
 1. Preserve the input tree and identify the intended root. In the available import or manual
    entry view, record the included generation depth, notes and living-person handling. Check
@@ -251,6 +274,10 @@ travel routes or the transmission of a particular DNA segment. [S22]
 
 **Use when:** you have pairwise shared amounts and want to check their entry or compare them
 with separately documented relationships. This is a numeric audit, not an ICW graph analysis.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool, publish --> The matrix holds identified
+living testers' shared cM amounts; answer the privacy gate in `SKILL.md` before entering them
+or sharing or exporting a view.
 
 1. Give each tester a distinct identifier and retain each pair's provider, report date,
    supplied amount and source. Keep unknown amounts blank. Names copied from a cluster

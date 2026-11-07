@@ -63,7 +63,7 @@ In archives that had nothing under "census", the same other headings turned up e
 
 ## Write locally, in order
 
-1. **Town or city first.** Find the official municipal website (the presenter's pattern is the town name under .de). Use the municipal site, not Wikipedia. Write to the Stadtarchiv. For registration entries, write to the Einwohnermeldeamt or the Stadtarchiv. [S3]
+1. **Privacy gate:** <!-- privacy-gate: request --> Registration entries can name people who may still be living; answer the privacy gate in `SKILL.md` before writing for them. **Town or city first.** Find the official municipal website (the presenter's pattern is the town name under .de). Use the municipal site, not Wikipedia. Write to the Stadtarchiv. For registration entries, write to the Einwohnermeldeamt or the Stadtarchiv. [S3]
 2. **Then the county archive.** [S2]
 3. **Then the regional or state archive, for two kinds of holdings.** Ask for census series that reached it through government channels, and for local holdings sent up when local archives ran out of space or were renovating. [S1], [S3] Lower Saxony's regional archives are the presenter's examples: Oldenburg holds boxes of town lists, and the archive at Bückeburg holds Schaumburg's heads-of-household lists for 1836–67. [S1] Similarly, the Landesarchiv Schleswig-Holstein (Abt. 412) holds count lists from 1803, 1860 and 1864. They arrived with the Rentekammer records, from the Danish Finance Ministry's statistical office, and probably from the Holstein ducal government's files.
 4. **Towns now in Poland or France: write to the archive now responsible for the town.** The Polish archives hold millions of German-language documents created in places now in Poland. [S2] The presenter attributes this to an international agreement that records return to the town where they were created. Do not rely on that as a universal rule. Some German-era civil registers from the former eastern territories are still held in Germany, for example at Standesamt I in Berlin. [S1]
@@ -75,7 +75,11 @@ In each letter:
 - Ask for copies of the actual enumeration or registration pages. [S2]
 - State in writing that you will pay the standard fees. Government archives have fee schedules. [S1], [S3] The presenter calls fees usually nominal; one example he gives is about 50 documents for 37 dollars. Do not quote that as a current rate. [S3]
 
+**Privacy gate:** <!-- privacy-gate: request --> A request for younger registration records sends the user's proof of kinship or ID copy and concerns people who may be living; answer the privacy gate in `SKILL.md` first.
+
 **Privacy restriction:** By the presenter's account, registration records are transferred to the city archive after about 100 years and are open there. Younger records are released only if you show descent, for example with a family tree and a death certificate. [S3] The binding protection periods (*Schutzfristen*) and the terms of use by third parties are set by the state's archive law (*Archivgesetz*). [S4] Look up that law for the archive you are writing to. For records still inside the protection period, enclose with your first request the proof that law or the archive's use rules require; requirements differ (some archives asked for proof of kinship, others accepted a copy of an ID). [S4] A true loss can happen: one town told the presenter it had not kept its registration records. [S3]
+
+**Privacy gate:** <!-- privacy-gate: request --> A district registration card names the person's partner, children and parents, who may be living; answer the privacy gate in `SKILL.md` before requesting it.
 
 **District registration cards (former GDR, 20th century):** If the person's last residence was in the former GDR and the family documents were lost, ask the responsible county archive (Kreisarchiv) for the person's card in the GDR-era district registration file (*Kreismeldekartei*). A forum researcher received copies of these cards from several Kreisarchive. They named the partner, children and parents, plus birthplace and birth date, which the researcher had not known before. [S4] Release terms differ by archive: some asked for proof of kinship, some accepted a copy of an ID, and one released only names and birth dates, citing data protection. Another participant's advice: if your request is covered by the state's archive law, ask for the legal basis of a refusal under that law. [S4] Ask each district whether its cards survive before you build a plan on them. Treat each name, date and place on a card as a lead to the matching civil register entry, not as proof.
 
@@ -155,7 +159,9 @@ additional trade and then to a separate *Gewerbeamt* permission file [S7].
    or colleague's assessment to that speaker and document, rather than turning adverse
    testimony into established biography. Keep an application, refusal, appeal and
    permission separate where the file actually records them.
-4. Seek a municipal personnel file only when a separate evidenced employment link
+4. **Privacy gate:** <!-- privacy-gate: request --> A municipal personnel file may concern
+   a person who may still be living; answer the privacy gate in `SKILL.md` before requesting it.
+   Seek a municipal personnel file only when a separate evidenced employment link
    supplies the municipal office or post and period. Use those details to select its
    personnel-file description. Private employment or a residence occupation alone
    does not establish municipal employment. The source's separate personnel-file
