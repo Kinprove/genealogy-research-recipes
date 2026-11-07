@@ -61,7 +61,7 @@ The Markdown CI job also checks relative links in every tracked Markdown file,
 including heading fragments, images and reference links. Run it locally with:
 
 ```sh
-npm ci --ignore-scripts --prefix tests/markdown-links
+npm ci --prefix tests/markdown-links --ignore-scripts
 npm test --prefix tests/markdown-links
 ```
 

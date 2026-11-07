@@ -22,7 +22,7 @@ JavaScript adapter, so have Node.js available. For Markdown lint, use Node.js 22
 or newer. Run the offline link/anchor tests and the same pinned linter as CI:
 
 ```sh
-npm ci --ignore-scripts --prefix tests/markdown-links
+npm ci --prefix tests/markdown-links --ignore-scripts
 npm test --prefix tests/markdown-links
 npx --yes markdownlint-cli2@0.23.0 "**/*.md"
 ```
