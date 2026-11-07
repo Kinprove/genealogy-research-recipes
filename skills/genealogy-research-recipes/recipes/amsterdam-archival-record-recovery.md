@@ -22,7 +22,7 @@ Use this recipe when you need to follow something back to the entry in its own r
 For the general rule that an intention or banns entry is not a marriage, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For machine-translation pitfalls in general, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md). Other neighbouring recipes:
 
 - cemetery packets: [burial evidence packet](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/burial-evidence-packet.md)
-- Hebrew-script spelling recovery: the catalogue's recipe on name searches across scripts and OCR
+- Hebrew-script spelling recovery: [name searches across scripts and OCR](corpus-seeded-name-search.md)
 - browsing film images: [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md)
 - patronymic-to-surname hypotheses: [Jewish conditional hypotheses](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewish-genealogy-conditional-hypotheses.md)
 

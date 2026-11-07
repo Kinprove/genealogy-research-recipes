@@ -29,6 +29,8 @@
 - **S23:** НашиПредки, [НАРБ (Уфа): fond list](https://nashipredki.com/archive/narb-ufa), opened 2026-11-02. Used for: НАРБ used as the abbreviation of the Ufa archive.
 - **S24:** Викитека, [Постановление Временного правительства от 17 июня 1917 года](https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0_%D0%BE%D1%82_17_%D0%B8%D1%8E%D0%BB%D1%8F_1917_%D0%B3%D0%BE%D0%B4%D0%B0), opened 2026-11-04. Used for: the decree text assigning Kuznetsk uezd to Tomsk guberniya and the Slavgorod, Kamen, Barnaul, Biysk and Zmeinogorsk uezds to Altai guberniya.
 
+- **S25:** Central State Archive of Kirov Oblast (ЦГАКО), [Ревизские сказки](https://cgako.ru/base/base_tale/tale.php), read 2026-11-07. Used for: its table dating the tenth revision to 1857–1859 and its separate notice of later revision-list files, including 1860–1865. This dates the revision, not every surviving file; the archive's database concerns Vyatka guberniya.
+
 **What is authored and what the sources supply.** The following are authored synthesis: the register layout, the status vocabulary, the series-class grouping, the rule against linking by house number, and the ranking rule. The fond, opis and delo locators, titles, dates and sheet counts come from archive inventories as transcribed by forum participants. They have not been checked against the archives' current inventories. Almost all examples come from one archive (GASO) and a few Ural counties. The town examples are Yekaterinburg and Shadrinsk, plus Vitebsk, Polotsk and Pinsk from NIAB. The archive, portal, catalogue and index pages S12–S23 and the decree text S24 supply the facts in the 1917 census, internal-resettlement, Великія описи and Belarusian-holder guidance.
 
 Not verified:
@@ -44,6 +46,7 @@ Not verified:
 
 ## Credits
 
+- Central State Archive of Kirov Oblast, revision-list guide — Official archive page; revision dates and later-file caveat paraphrased (adapted)
 - Uralskaya genealogiya forum, thread of typed-up GASO text inventories (first part) — Forum post, no license stated; factual locators and short inventory phrases cited (adapted)
 - J-Roots Forum, thread of chance archival finds — Forum post, no license stated; factual locator cited (adapted)
 - J-Roots Forum, thread on the National Historical Archive of Belarus — Forum post, no license stated; factual locators and participant report paraphrased (adapted)

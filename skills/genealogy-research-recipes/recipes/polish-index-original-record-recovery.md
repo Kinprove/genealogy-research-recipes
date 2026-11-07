@@ -214,8 +214,9 @@ and to judge whether a Cyrillic or index spelling re-transliterates a Polish ori
 
 When preparing the request, give the surname in both Polish and Russian (Cyrillic) forms. List the
 known spelling variants and ask explicitly for similar-sounding names to be checked. A [Polish
-archive-request discussion](https://forum.j-roots.info/viewtopic.php?f=165&t=470) reports that
-archives do not widen a search unless asked. Treat a match on a variant as a candidate, not as an
+archive-request discussion](https://forum.j-roots.info/viewtopic.php?f=165&t=470) advises explicitly
+asking for those variants, from one participant's exchanges with three archives; this is not a
+universal archive policy. Treat a match on a variant as a candidate, not as an
 identity. [C1]
 
 When the vital-record route stops and you turn to printed context, Polona, the National Library of
