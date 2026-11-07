@@ -99,8 +99,8 @@ The linked routing, request-receipt and image/timeline schemas are original synt
 - **H1:** National Archives,
   [Requesting Copies of Older Military Service Records](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records),
   page reviewed 16 January 2026; checked 7 October 2026. Request forms, federal scope and
-  complete-file versus Pension Documents Packet products. Author synthesis includes the table of
-  major federal pension index series (T288, T289, M804, M313, T316, T317, T318, M1279) and NATF 85 fee schedules.
+  complete-file versus Pension Documents Packet products. Read again 2026-11-07 for NATF 85
+  covering federal, not state or Confederate, service from 1775 to 1903.
 - **H2:** National Archives,
   [Genealogy Research in Military Records](https://www.archives.gov/research/military/genealogy),
   checked 7 October 2026. Record-type, service category and custodian routing.
@@ -109,6 +109,31 @@ The linked routing, request-receipt and image/timeline schemas are original synt
   20 November 2009; checked 26 October 2026. An 1820 need-supporting property inventory and
   accompanying letter about the claimant's wife and resident daughter. Corroborates looking
   beyond service testimony; the historical hosted-file link is not a current access guarantee.
+- **H4:** National Archives,
+  [NARA Reproduction Fees](https://www.archives.gov/research/order/fees), fees as of 20 April
+  2018, read 2026-11-07. NATF 85 products and prices (pre-Civil War and Civil War-and-later
+  complete files, the per-page charge after 100 pages, the Pension Documents Packet, the
+  bounty-land warrant application file), NATF 86 for military service files and NATF 84 for
+  land records.
+- **H5:** National Archives,
+  [Pre-World War I U.S. Army Pension and Bounty Land Applications](https://www.archives.gov/research/military/army/pensions),
+  read 2026-11-07.
+  Titles and online hosts of M804, M313, T316, T318, T288 and T289. The 1783–1861 service span
+  of T316 is from the FamilySearch Wiki article on the Old War index, a secondary source.
+- **H6:** National Archives,
+  [Mexican War](https://www.archives.gov/research/military/mexican-war), read 2026-11-07. The
+  title of T317 and its FamilySearch copy.
+- **H7:** National Archives Catalog entries for T288
+  ([NAID 563268](https://catalog.archives.gov/id/563268)) and T289
+  ([NAID 2588825](https://catalog.archives.gov/id/2588825)), read 2026-11-07. The claimant,
+  class and number fields of T288 and its Navy coverage; the 1861–1900 span of T289, its filing
+  by state and unit, and cards that can give the date and place of death.
+- **H8:** National Archives Catalog entry for M1279
+  ([NAID 561929](https://catalog.archives.gov/id/561929)), and Fold3's pages for the War of
+  1812 pension files ([title 761](https://www.fold3.com/title/761)), T318
+  ([publication 1007](https://www.fold3.com/publication/1007)) and M1279
+  ([title 121](https://www.fold3.com/title/121)), read 2026-11-07. The full title and
+  certificate-number arrangement of M1279, and the Fold3 copies named in the table.
 
 ## Credits
 

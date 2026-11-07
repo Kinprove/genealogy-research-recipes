@@ -93,6 +93,9 @@ draw on each source.
 | S78 | Legacy Tree Genealogists, [Digging for Deaths Part 2: Census Mortality Schedules](https://www.legacytree.com/blog/census-mortality-schedules-digging-for-deaths-part-2) | 2023-03-23 in saved metadata | 8: physician-note reverse |
 | S79 | Kristin W., Legacy Tree Genealogists, [Finding Women Ancestors In Your Genealogy Research: Remember the Ladies!](https://www.legacytree.com/blog/finding-women-ancestors-in-your-genealogy-research) | 2023-12-29 in saved metadata | 4: named-child tax-volume appendix |
 | S80 | Nicole Elder Dyer, Family Locket, [RLP 434: Newspaper Notices and Thomas B. Royston's Parentage](https://familylocket.com/rlp-434-newspaper-notices-and-thomas-b-roystons-parentage/) | 2026-11-02 | 4: boarding-house test for tallies |
+| H9 | [National Archives, *Prologue* (Fall 2008), the forgotten federal census of 1885](https://www.archives.gov/publications/prologue/2008/fall/1885-census.html) | 2008; read 2026-11-07 | 5: 1885 censuses |
+| H10 | [National Archives, descriptive pamphlets for M846 (New Mexico) and M845 (Florida)](https://www.archives.gov/files/research/census/nonpopulation/m846.pdf) | read 2026-11-07 | 5: 1885 censuses |
+| H11 | [State Historical Society of North Dakota, census records of the 1800s](https://web.archive.org/web/20260113231006/https://www.history.nd.gov/archives/gencensus1800.html) | Internet Archive capture of 2026-01-13 (the live page returned 404 on 2026-11-07); read 2026-11-07 | 5: 1885 censuses |
 
 S68 supplies a neighborhood-to-earlier-household research route and named-person searches
 in deeds, probate and claims testimony. Its property-value threshold and broad assumptions
@@ -177,7 +180,13 @@ keeper's November 1830 notice naming him as a former keeper of a house adjacent 
 and able to accommodate 40 students. The hosts keep the missing relative's presence there as a
 probable explanation, not a proven fact. The episode page was checked; the original schedule
 and newspaper images were not inspected for this recipe. Comparing notice dates with the census
-reference date is a Kinprove safeguard. Author synthesis also includes the 1885 federal-state cooperative censuses (Colorado, Florida, Nebraska, New Mexico, Dakota) under the Act of 3 March 1879 as 1890 substitutes.
+reference date is a Kinprove safeguard.
+
+H9 gives the act of 3 March 1879, the partly federal funding, the publication numbers for
+Colorado (M158), Nebraska (M352) and New Mexico (M846), and Dakota's schedules never being
+transferred to NARA. H10 confirms M846 and M845. H11 confirms that North Dakota holds the
+northern part; South Dakota's custody of the southern part rests on H9 only. No 1885 schedule
+was inspected for this recipe.
 
 ## Credits
 

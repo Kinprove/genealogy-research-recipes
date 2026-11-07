@@ -31,8 +31,9 @@ repositories and may be closed or hard to reach [S1].
 
 Tanner describes the present position. Do not assume it held on every historical date. Before
 you treat a county search as the wrong place, check whether a federal bankruptcy act was in
-force on the date of the lead. The presenter's 1867 bankruptcy [S2] falls under the Bankruptcy
-Act of 1867. If a federal act applied, a failed bankruptcy search in county probate, civil indexes
+force on the date of the lead. Federal acts were in force from 1800 to 1803, from 1842 to 1843
+under the act of 1841, from 1867 to 1878, and continuously from 1898 [S5], [S6]. The
+presenter's 1867 bankruptcy [S2] falls under the Bankruptcy Act of 1867. If a federal act applied, a failed bankruptcy search in county probate, civil indexes
 or a large database is a search of the wrong place, not a negative result. If no federal act
 applied on that date, the county search is not ruled out.
 
@@ -80,17 +81,20 @@ Use this crosswalk [S2]:
 The record group number is stable. What you must look up each time is the NARA facility that
 holds the specific district's records, because it is often not in the city where the court sat.
 Western District of Pennsylvania records are held at NARA's Philadelphia facility, not in
-Pittsburgh. That is where the teaching file, a suit, came from [S3].
-
-For bankruptcy case files, custody depends on the date. Under the historical federal bankruptcy
-acts (the 1800 act repealed in 1803, the 1841 act repealed in 1843, the 1867 act repealed in 1878,
-and the permanent Bankruptcy Act of 1898), 19th-century and early-20th-century bankruptcy cases
-remain in Record Group 21 at the regional NARA facility serving that federal judicial district.
-Modern bankruptcy files (primarily post-1940s through pre-electronic eras, comprising approximately
-125,000 cubic feet of transferred records) have been consolidated at the National Archives at Kansas
-City (RG 21 or RG 578). Ask the regional facility holding the district's RG 21 records for the
-historical index and pre-consolidation case files first, or contact Kansas City for modern consolidated
-files with the reference copied from the docket or index.
+Pittsburgh. That is where the teaching file, a suit, came from [S3]. Bankruptcy is the
+exception: NARA says all bankruptcy case files are at the National Archives at Kansas City
+[S4], in RG 21 or RG 578. That includes historical files. Kansas City's RG 21 lists include
+cases under the 1800, 1841 and 1867 acts, and NARA's finding aid for the Frankfort, Kentucky,
+cases from 1842 says they have moved to Kansas City [S7], [S8]. Some older NARA pages still
+name the earlier facility, so check the series' Catalog entry or Kansas City's list before you
+order. The presenter's Philadelphia bankruptcy retrieval [S2] shows where the file was then,
+not where it is now. Treat the bankruptcy index as a separate request, because dockets and
+indexes can stay at another facility. NARA's RG 21 description lists the W.D. Pa.
+Pittsburgh Division bankruptcy indexes and docket books among the Philadelphia textual
+records. Ask Philadelphia for the index first, then request the case file from Kansas City
+with the reference copied from it. Kansas City asks for the court, the case number, the
+parties and the period; for a case filed in 1940 or later it also needs a Federal Records
+Center transfer number, which comes from the court [S4].
 
 Expect to work mostly with originals. The presenter says very little of this material was filmed
 [S2]. NARA does have a microfilm catalog for federal court records, and some RG 267 series are on

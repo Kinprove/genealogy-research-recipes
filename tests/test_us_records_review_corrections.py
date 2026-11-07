@@ -1,6 +1,9 @@
-"""Regression tests verifying corrections for U.S. records recipes per expert review (Issue #92)."""
+"""The U.S. records recipes keep the corrections from the expert review in issue #92.
 
-import re
+Each test pins a fact that was wrong in a draft of the fix and the corrected fact
+that replaced it, so a later edit cannot quietly bring the wrong one back.
+"""
+
 import unittest
 from pathlib import Path
 
@@ -8,123 +11,127 @@ ROOT = Path(__file__).resolve().parents[1]
 RECIPES = ROOT / "skills/genealogy-research-recipes/recipes"
 
 
+def recipe(name: str) -> str:
+    """Return a recipe's text with each run of whitespace folded to one space."""
+    return " ".join((RECIPES / name).read_text(encoding="utf-8").split())
+
+
+def between(text: str, start: str, end: str) -> str:
+    """Return the part of text from start up to (not including) the next end."""
+    begin = text.index(start)
+    return text[begin : text.index(end, begin + len(start))]
+
+
 class UsRecordsReviewCorrectionsTests(unittest.TestCase):
-    def _read_recipe(self, filename: str) -> str:
-        recipe_path = RECIPES / filename
-        self.assertTrue(recipe_path.exists(), f"Recipe file not found: {recipe_path}")
-        return recipe_path.read_text(encoding="utf-8")
+    def test_bankruptcy_files_route_to_kansas_city_and_acts_are_dated(self):
+        text = recipe("us-federal-court-case-file-recovery.md")
+        self.assertIn("all bankruptcy case files are at the National Archives at Kansas City", text)
+        self.assertIn("Frankfort, Kentucky", text)
+        for period in (
+            "from 1800 to 1803",
+            "from 1842 to 1843",
+            "from 1867 to 1878",
+            "continuously from 1898",
+        ):
+            self.assertIn(period, text)
+        self.assertNotIn("remain in Record Group 21 at the regional NARA facility", text)
 
-    def test_court_case_file_recovery_bankruptcy_and_acts(self):
-        content = self._read_recipe("us-federal-court-case-file-recovery.md")
-        # Item 1: Kansas City modern consolidation vs regional RG 21 custody
-        self.assertIn("Kansas City", content)
-        self.assertIn("RG 21", content)
-        # Item 6: Four federal bankruptcy acts
-        self.assertIn("1800", content)
-        self.assertIn("1841", content)
-        self.assertIn("1867", content)
-        self.assertIn("1898", content)
+    def test_pension_fees_match_each_copy_product(self):
+        text = recipe("us-military-pension-file-recovery.md")
+        self.assertIn("complete pension application file, pre-Civil War: $55", text)
+        self.assertIn(
+            "complete pension application file, Civil War and later: $80 for up to 100 pages",
+            text,
+        )
+        self.assertIn("Pension Documents Packet: $30", text)
+        self.assertNotIn("Pension Documents Packet:** $55", text)
 
-    def test_military_service_reconstruction(self):
-        content = self._read_recipe("us-20th-century-military-service-reconstruction.md")
-        # Item 2: IDPF split custody (M-Z at NARA St. Louis, A-L at Army HRC Fort Knox)
-        self.assertIn("vetrecs.archives.gov", content)
-        self.assertIn("Fort Knox", content)
-        self.assertIn("Human Resources Command", content)
-        # Surnames M-Z vs A-L
-        self.assertTrue(re.search(r"M[–\-]Z", content))
-        self.assertTrue(re.search(r"A[–\-]L", content))
-        # Item 10: AAD Army Enlistment records ~9M serial numbers & Selective Service
-        self.assertIn("serial", content.lower())
-        self.assertTrue("Selective Service" in content or "draft" in content.lower())
-        # Item 18: morning reports - check catalog first without hardcoded stale Feb 2025 boundary
-        self.assertNotIn("As of February 2025", content)
+    def test_pension_index_table_gives_t289_its_span(self):
+        text = recipe("us-military-pension-file-recovery.md")
+        self.assertIn("| Service between 1861 and 1900 | T289", text)
+        self.assertNotIn("1861–1917", text)
 
-    def test_civil_war_service_records_carding_and_navy_confederate(self):
-        content = self._read_recipe("us-civil-war-service-record-episodes.md")
-        # Item 3: Ainsworth carding began in 1887 (medical records) in Surgeon General's Office
-        self.assertIn("1887", content)
-        self.assertIn("Surgeon General", content)
-        # Item 13: Navy enlistment (M1953) and Confederate CMSRs (M253)
-        self.assertIn("M1953", content)
-        self.assertIn("M253", content)
+    def test_civil_war_navy_route_uses_civil_war_pension_indexes(self):
+        text = recipe("us-civil-war-service-record-episodes.md")
+        navy = between(text, "**Route Navy men elsewhere.**", " - **")
+        for series in ("M1953", "T288", "T289", "M1279"):
+            self.assertIn(series, navy)
+        for series in ("T316", "T318"):
+            self.assertNotIn(series, navy)
 
-    def test_church_records_concordia_quakers_and_catholic_burials(self):
-        content = self._read_recipe("us-church-record-custody.md")
-        # Item 12: Concordia Historical Institute (LCMS)
-        self.assertIn("Concordia Historical Institute", content)
-        self.assertIn("Missouri Synod", content)
-        # Item 11: Society of Friends / Quakers and Methodist / Episcopal
-        self.assertIn("Friends", content)
-        self.assertIn("Swarthmore", content)
-        self.assertIn("Methodist", content)
-        self.assertIn("Episcopal", content)
-        # Item 4: Catholic burial registration mandatory under canon law / Baltimore councils
-        self.assertIn("Liber Defunctorum", content)
-        self.assertIn("Baltimore", content)
+    def test_civil_war_carding_and_confederate_dates(self):
+        text = recipe("us-civil-war-service-record-episodes.md")
+        self.assertIn("carded medical records from 1887", text)
+        self.assertIn("began compiling them in 1903", text)
+        self.assertIn("M253", text)
+        self.assertNotIn("Confederate volunteer service records throughout the 1890s", text)
 
-    def test_missing_marriage_civil_registration_mandates_and_persi(self):
-        content = self._read_recipe("missing-marriage-jurisdiction-search.md")
-        # Item 5: Mandatory civil marriage dates (Pennsylvania 1885, New York 1907/1908, South Carolina 1911)
-        self.assertIn("1885", content)
-        self.assertIn("Pennsylvania", content)
-        self.assertTrue("1907" in content or "1908" in content)
-        self.assertTrue("1911" in content)
-        # Item 19: PERSI hosted by ACPL, Findmypast frozen
-        self.assertIn("Allen County Public Library", content)
-        self.assertIn("2021", content)
+    def test_1885_census_locators_and_dakota_custody(self):
+        text = recipe("us-census-practical-workflows.md")
+        self.assertIn("New Mexico Territory (M846)", text)
+        self.assertNotIn("M1304", text)
+        self.assertIn("Dakota Territory's schedules were never transferred to NARA", text)
 
-    def test_periodical_index_persi_acpl_authoritative(self):
-        content = self._read_recipe("periodical-index-search-retrieval.md")
-        # Item 19: ACPL sole official home, Findmypast ended in 2021
-        self.assertIn("Allen County Public Library", content)
-        self.assertIn("2021", content)
+    def test_marriage_search_keeps_civil_records_before_licensing(self):
+        text = recipe("missing-marriage-jurisdiction-search.md")
+        self.assertIn("July 1860 to December 1885", text)
+        self.assertIn("issued by city and town clerks, not counties", text)
+        self.assertIn("not instead of them", text)
+        self.assertNotIn("courthouse searches will fail", text)
+        self.assertNotIn("instead of civil courthouses", text)
 
-    def test_federal_land_entry_public_land_vs_state_land(self):
-        content = self._read_recipe("us-federal-land-entry-file-recovery.md")
-        # Item 7: Step 0: Confirm public-land state vs state-land state
-        self.assertIn("public-land state", content.lower())
-        self.assertIn("state-land state", content.lower())
-        self.assertTrue(re.search(r"30\s+[Pp]ublic", content))
-        self.assertTrue(re.search(r"20\s+[Ss]tate", content))
+    def test_persi_hosting_agrees_across_recipes(self):
+        for name in ("missing-marriage-jurisdiction-search.md", "periodical-index-search-retrieval.md"):
+            with self.subTest(recipe=name):
+                text = recipe(name)
+                self.assertIn("ACPL staff compile PERSI, and this copy is the larger one", text)
+                self.assertIn("with fewer entries but images of some articles", text)
+                self.assertNotIn("frozen", text)
+                self.assertNotIn("partnership ended", text)
+                self.assertNotIn("the move from Findmypast is complete", text)
 
-    def test_freedpeople_freedmens_bureau_and_freedmans_bank(self):
-        content = self._read_recipe("us-freedpeople-record-recovery.md")
-        # Item 8: Freedmen's Bureau access on FamilySearch (M1900-M1913, M1875) & Freedman's Bank (M816)
-        self.assertIn("M1900", content)
-        self.assertIn("M816", content)
-        self.assertIn("FamilySearch", content)
+    def test_uscis_route_drops_ar2_and_gives_current_fees(self):
+        text = recipe("usa-immigration-search-recovery.md")
+        route = between(
+            text,
+            "### 11. Route federal records by type and actual custody",
+            "Alongside an A-file lead",
+        )
+        self.assertIn("17 May 2024", route)
+        self.assertNotIn("7.5 million", route)
+        uscis = route[route.index("4. For C-Files") :]
+        self.assertIn("$30 online or $80 on paper", uscis)
+        self.assertNotIn("AR-2", uscis)
 
-    def test_pension_file_recovery_indexes_and_natf_fees(self):
-        content = self._read_recipe("us-military-pension-file-recovery.md")
-        # Item 9: T288 vs T289, M804, and NATF fee structure
-        self.assertIn("T288", content)
-        self.assertIn("T289", content)
-        self.assertIn("M804", content)
-        self.assertIn("NATF 85", content)
-        self.assertTrue("$80" in content or "80" in content)
-        self.assertTrue("$55" in content or "55" in content)
+    def test_church_custody_corrections(self):
+        text = recipe("us-church-record-custody.md")
+        self.assertIn("Concordia Historical Institute in St. Louis", text)
+        self.assertIn("Brady says many Catholic churches did not record burials", text)
+        self.assertIn("Second Plenary Council of Baltimore (1866)", text)
+        self.assertIn("does not hold local church membership, baptism or marriage registers", text)
 
-    def test_census_1885_territorial_schedules(self):
-        content = self._read_recipe("us-census-practical-workflows.md")
-        # Item 14: 1885 federal-state cooperative censuses (Colorado, Florida, Nebraska, New Mexico, Dakota)
-        self.assertIn("1885", content)
-        self.assertIn("Colorado", content)
-        self.assertIn("Florida", content)
-        self.assertIn("Nebraska", content)
-        self.assertIn("Dakota", content)
-        self.assertTrue(re.search(r"M158|M352", content))
+    def test_wwii_military_routes(self):
+        text = recipe("us-20th-century-military-service-reconstruction.md")
+        self.assertIn("vetrecs.archives.gov", text)
+        self.assertIn("whatever his surname", text)
+        self.assertNotIn("usarmy.knox.hrc.mbx.foia@army.mil", text)
+        self.assertNotIn("Surnames A–L (and any unaccessioned files) remain", text)
+        self.assertIn("31 July 1927", text)
+        self.assertNotIn("1897–1928", text)
+        self.assertNotIn("As of February 2025", text)
 
-    def test_immigration_a_files_and_uscis_fees(self):
-        content = self._read_recipe("usa-immigration-search-recovery.md")
-        # Item 16: A-Files custody at Kansas City and San Francisco (San Bruno)
-        self.assertIn("Kansas City", content)
-        self.assertTrue("San Francisco" in content or "San Bruno" in content)
-        # Item 17: USCIS April 1, 2024 fee rule ($30 online index search Form G-1041 / G-1055)
-        self.assertIn("2024", content)
-        self.assertTrue("$30" in content or "30" in content)
-        fold_content = re.sub(r"\s+", " ", content)
-        self.assertIn("no additional", fold_content.lower())
+    def test_freedmens_bureau_microfilm_and_bank_index(self):
+        text = recipe("us-freedpeople-record-recovery.md")
+        self.assertIn("M1900–M1913, one for each state or district", text)
+        self.assertNotIn("assistant commissioners and superintendents in NARA microfilm publications", text)
+        self.assertIn("(M817)", text)
+
+    def test_land_recipe_checks_public_land_state_first(self):
+        text = recipe("us-federal-land-entry-file-recovery.md")
+        self.assertIn("The 30 public-land states", text)
+        self.assertIn("The 20 state-land states", text)
+        self.assertIn("Congressional Reservation Line", text)
+        self.assertNotIn("category error", text)
 
 
 if __name__ == "__main__":

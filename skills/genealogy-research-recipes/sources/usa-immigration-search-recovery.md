@@ -214,7 +214,10 @@ the relevant workflow. Community references:
     <https://www.archives.gov/research/immigration/aliens>
     Used for checking an A-File's catalog entry and Contact(s), for saving the name,
     NAID and A-number, and for the point that eligibility for transfer by age does not
-    prove transfer.
+    prove transfer. Read again 2026-11-07 for the transfer 100 years after the birth
+    year, the August 2025 counts at Kansas City (more than 1,500,000, from across the
+    United States) and San Francisco (more than 300,000, from the San Francisco,
+    Honolulu, Reno and Guam offices), and the Catalog naming everyone in the holdings.
 48. Stephen P. Morse, *Searching the Ellis Island Database in One Step: Frequently
     Asked Questions*, undated.
     <https://stevemorse.org/ellis2/faq.htm>
@@ -255,8 +258,34 @@ the relevant workflow. Community references:
     Used for the count of about 3,000 surviving Bremen original lists for
     1920–1939, and the surviving statistical copies of the 1907/08 and 1913/14
     lists.
-
-Author synthesis also includes the identification of A-Files holding facilities (NARA Kansas City and NARA San Francisco at San Bruno) and the 1 April 2024 USCIS fee schedule updates (Form G-1055, $30 online index search with digital fulfillment at no extra charge).
+56. U.S. Citizenship and Immigration Services, *A-Files Numbered Below 8 Million*,
+    read 7 November 2026.
+    <https://www.uscis.gov/records/genealogy/historical-record-series/a-files-numbered-below-8-million>
+    Used for the Genealogy Program accepting only A-Files numbered below 8 million,
+    with higher numbers requested through FOIA.
+57. U.S. Citizenship and Immigration Services, *Requesting Records*, read 7 November
+    2026.
+    <https://www.uscis.gov/records/genealogy/requesting-records>
+    Used for AR-2 forms being available only through NARA from 17 May 2024. The
+    proposed rule of 21 August 2026 (91 FR 54252) repeats that USCIS no longer
+    processes AR-2 requests received on or after that date.
+58. U.S. Citizenship and Immigration Services, *Form G-1055, Fee Schedule*, edition
+    of 26 October 2026, read 7 November 2026.
+    <https://www.uscis.gov/sites/default/files/document/forms/g-1055.pdf>
+    Used for the G-1041 and G-1041A fees: $30 online and $80 on paper.
+59. Department of Homeland Security, *U.S. Citizenship and Immigration Services Fee
+    Schedule and Changes to Certain Other Immigration Benefit Request Requirements*,
+    final rule, 89 FR 6194, 31 January 2024, read 7 November 2026.
+    <https://www.govinfo.gov/content/pkg/FR-2024-01-31/pdf/2024-01427.pdf>
+    Used for the 1 April 2024 effective date and 8 CFR 103.40(g): electronic copies
+    of records stored digitally sent for no additional fee, and a records request
+    needed for records stored on paper.
+60. U.S. Citizenship and Immigration Services, *Historical Records Series Available
+    from the Genealogy Program*, read 7 November 2026.
+    <https://www.uscis.gov/records/genealogy/historical-records-series-available-from-the-genealogy-program>
+    Used for the statement that most C-Files exist only on microfilm. The same page
+    says Visa Files, Registry Files and A-Files exist only on paper, so the recipe
+    names no record type as delivered digitally.
 
 ## Credits
 

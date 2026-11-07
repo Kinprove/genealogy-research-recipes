@@ -8,13 +8,13 @@ Log the residence-county search as one row: jurisdiction, office, record series 
 
 Before searching, confirm which county the residence lay in at the marriage date, not today. Jurisdiction depends on when as well as where [S15]. The cut-off part of Conway County, Arkansas, described below, was itself part of Perry County from 1840 to 1873.
 
-Confirm civil marriage recording existed at the date. Several states did not mandate county-level marriage licensing or civil registration until late in the 19th or early 20th century. Before searching a county courthouse or declaring a record missing, verify that civil marriage registration was legally established:
+Then confirm which civil marriage records were kept there at that date. Some states began marriage licences late, but the start of licensing is not the start of civil recording. Check what the place actually kept before reading a no-hit:
 
-- **Pennsylvania:** Before the Marriage License Act of 23 June 1885 (effective 1 October 1885), Pennsylvania had no county marriage licensing system (except for an unenforced recording attempt in 1852–1855). Pre-October 1885 marriages were private or religious contracts recorded in church registers or family bibles, so courthouse searches will fail.
-- **New York:** Statewide civil registration began in 1880/1881, but county marriage licenses were not required until the Marriage License Law of 1907 (effective 1 January 1908).
-- **South Carolina:** Did not require civil marriage licenses until 1 July 1911.
+- **Pennsylvania:** county marriage licences, issued by the clerk of the Orphans' Court, began on 1 October 1885 under an act of 23 June 1885 [S17], [S19]. Earlier, a registration law of 1852–1855 had county Registers of Wills record marriages. The State Archives holds the 1852–1854 returns of 49 of the 64 counties [S18]. Philadelphia's City Archives holds civil marriage records from July 1860 to December 1885 [S20].
+- **New York:** statewide marriage registration began in 1880–81, and the state marriage index starts in 1881 [S21]. Licences were required from 1 January 1908 and were issued by city and town clerks, not counties [S23]. New York City keeps its own marriage records outside the state index, and Albany, Buffalo and Yonkers marriages before 1908 are with those cities' clerks [S22].
+- **South Carolina:** marriage licences, issued by the county probate judge, began on 1 July 1911 [S24].
 
-If the marriage predates civil licensing in that jurisdiction, direct searches to church registers, minister journals, and newspaper notices instead of civil courthouses.
+For a marriage before licensing, list the civil series that survive for that place and date, such as registers, returns, bonds or city records. Search church registers, minister records and newspapers alongside them, not instead of them. A civil no-hit counts only for a series that covered that place and date.
 
 ## Keep residence, licence and ceremony places apart
 
@@ -51,7 +51,7 @@ Add military, training or work postings. Pull the groom's service record and add
 
 ## Investigate the county where the record should be
 
-If the evidence strongly points to one county and the record is still missing, ask the clerk, the county historian or local genealogists how records were kept there. One presenter reports a reader's case: a justice of the peace married couples but never turned his register in to the clerk, and then left town [S9]. Look for minister or circuit-rider journals in denominational archives and local museums. Search for them through ArchiveGrid and PERSI [S9]. The Allen County Public Library (ACPL) Genealogy Center search is the official, continuously updated home of PERSI; Findmypast's PERSI partnership ended in 2021 and its database is a static legacy copy. If county records were lost, check what survived before writing the county off, and turn to church records and newspapers [S11].
+If the evidence strongly points to one county and the record is still missing, ask the clerk, the county historian or local genealogists how records were kept there. One presenter reports a reader's case: a justice of the peace married couples but never turned his register in to the clerk, and then left town [S9]. Look for minister or circuit-rider journals in denominational archives and local museums. Search for them through ArchiveGrid and PERSI [S9]. Search PERSI first in the Allen County Public Library's own free search: ACPL staff compile PERSI, and this copy is the larger one. Findmypast also carries PERSI, with fewer entries but images of some articles, so use it as a second search and for those images [S25], [S26]. If county records were lost, check what survived before writing the county off, and turn to church records and newspapers [S11].
 
 ## Carry each hit to the original and close the list
 

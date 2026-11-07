@@ -425,16 +425,28 @@ research has stalled at a generic USCIS request.
    Alien Registration form (AR-2). These are different objects. NARA's overview
    places C-File naturalizations from 27 September 1906 through 31 March 1956;
    subsequent naturalization records were filed in A-Files.
-2. For an A-File, inspect NARA's catalog entry and Contact(s). Save the name, NAID and A-number. Transferred historical A-Files from INS/USCIS are held primarily at two NARA facilities:
-   - **National Archives at Kansas City:** holds the vast majority of accessioned A-Files (over 7.5 million files from more than 30 INS district offices across the Midwest, East, and South).
-   - **National Archives at San Francisco (San Bruno, CA):** holds accessioned A-Files from the San Francisco, Honolulu, Reno, and Guam INS offices (approximately 800,000 files).
-   Search the National Archives Catalog or the A-Files index on Ancestry/Fold3 before ordering. Files for individuals born less than 100 years ago, or not yet accessioned by NARA, remain with USCIS and must be requested via FOIA or the USCIS Genealogy Program. Transfer eligibility by age does not prove transfer.
-3. For AR-2, check the Flexoline Index's current coverage, then follow NARA's AR-2 instructions. An indexed number can lack a corresponding form image; the form may have moved into an A-File.
-4. For C-Files and other USCIS historical records, use the USCIS Genealogy Program under the fee schedule effective 1 April 2024 (Form G-1055, 89 FR 6194):
-   - **Online Index Search (Form G-1041):** $30 fee when submitted online ($80 on paper).
-   - **Records Request (Form G-1041A):** $30 fee online ($80 on paper).
-   - **Single-step fulfillment:** Under the 2024 rule, if USCIS already holds a digitized copy of the record (as is standard for Alien Registration AR-2 forms, Visa Files, and many pre-1944 C-Files), USCIS provides the record directly from the $30 Index Search at no additional charge. A separate Form G-1041A records request is only required if the file exists solely in microfilm or paper format and requires manual retrieval.
-   For other records outside located NARA holdings, consult current USCIS instructions for the identified record type and available identifiers.
+2. For an A-File, inspect NARA's catalog entry and Contact(s). Save the name,
+   NAID and A-number. NARA receives A-Files 100 years after the person's birth
+   year. In August 2025 the National Archives at Kansas City held more than
+   1.5 million, from across the United States, and the National Archives at
+   San Francisco (San Bruno) more than 300,000, from the San Francisco,
+   Honolulu, Reno and Guam offices. Check both. The Catalog lists the name of
+   everyone in NARA's A-File holdings, so search it by name.[47] A file not yet
+   transferred stays with USCIS. Its Genealogy Program accepts only A-Files
+   numbered below 8 million; a higher number needs a FOIA request.[56]
+   Transfer eligibility by age does not prove transfer.
+3. For AR-2, check the Flexoline Index's current coverage, then follow NARA's
+   AR-2 instructions. USCIS does not process AR-2 requests received on or after
+   17 May 2024; the forms are now requested from NARA.[36,57] An indexed number
+   can lack a corresponding form image; the form may have moved into an A-File.
+4. For C-Files, use the USCIS Genealogy Program: a known valid certificate/file number allows a [Genealogy Records Request (G-1041A)](https://www.uscis.gov/sites/default/files/document/forms/g-1041ainstr.pdf); without that number, an Index Search Request (G-1041) may be needed first.
+   Under the fee rule in force since 1 April 2024, each request costs $30 online
+   or $80 on paper (fee schedule G-1055, read 2026-11-07).[58,59] When USCIS
+   already holds a record in digital form, it sends the electronic copy with the
+   index search result at no extra fee. A record kept only on paper or microfilm
+   still needs a G-1041A.[59] USCIS says most C-Files exist only on microfilm,
+   so expect that second step for a C-File.[60]
+   For other records outside the located NARA holdings, consult current USCIS instructions for the identified record type and available identifiers.
 
 Alongside an A-file lead, search supported spouses, former spouses, siblings or travel
 companions as separate file candidates in the catalogues or collections actually available.
