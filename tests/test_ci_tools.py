@@ -33,7 +33,10 @@ class CiToolTests(unittest.TestCase):
         self.assertTrue(installs)
         for install in installs:
             with self.subTest(install=install):
-                self.assertIn("npm ci --prefix ci-tools --ignore-scripts", install)
+                self.assertRegex(
+                    install,
+                    r"^\s*(?:run: )?npm ci --prefix (?:ci-tools|tests/markdown-links) --ignore-scripts\s*$",
+                )
                 self.assertNotIn("--ignore-scripts=false", install)
         self.assertIn("node ci-tools/node_modules/@anthropic-ai/claude-code/cli-wrapper.cjs plugin validate", workflow)
         self.assertIn("clawhub package validate . --openclaw ci-tools/node_modules/openclaw", workflow)
@@ -42,22 +45,28 @@ class CiToolTests(unittest.TestCase):
         self.assertIn("ci-tools/node_modules/.bin/clawhub package publish", maintainers)
 
     def test_lock_covers_exact_tools_and_integrity_checked_transitive_archives(self):
-        package = json.loads((ROOT / "ci-tools/package.json").read_text(encoding="utf-8"))
-        lock = json.loads((ROOT / "ci-tools/package-lock.json").read_text(encoding="utf-8"))
-        self.assertIs(package["private"], True)
-        tools = package["devDependencies"]
-        self.assertEqual(set(tools), {"openclaw", "@anthropic-ai/claude-code", "markdownlint-cli2", "clawhub"})
-        self.assertEqual(lock["packages"][""]["devDependencies"], tools)
-        for name, version in tools.items():
-            with self.subTest(tool=name):
-                self.assertRegex(version, r"^\d+\.\d+\.\d+$")
-                self.assertEqual(lock["packages"]["node_modules/" + name]["version"], version)
-        for name, entry in lock["packages"].items():
-            if not name or entry.get("inBundle"):
-                continue  # Bundled bytes are covered by the containing archive's integrity.
-            with self.subTest(dependency=name):
-                self.assertTrue(entry["resolved"].startswith("https://registry.npmjs.org/"))
-                self.assertRegex(entry["integrity"], r"^sha512-[A-Za-z0-9+/]+={0,2}$")
+        packages = (
+            ("ci-tools", {"openclaw", "@anthropic-ai/claude-code", "markdownlint-cli2", "clawhub"}),
+            ("tests/markdown-links", {"github-slugger", "markdown-it", "parse5"}),
+        )
+        for directory, expected in packages:
+            with self.subTest(package=directory):
+                package = json.loads((ROOT / directory / "package.json").read_text(encoding="utf-8"))
+                lock = json.loads((ROOT / directory / "package-lock.json").read_text(encoding="utf-8"))
+                self.assertIs(package["private"], True)
+                tools = package["devDependencies"]
+                self.assertEqual(set(tools), expected)
+                self.assertEqual(lock["packages"][""]["devDependencies"], tools)
+                for name, version in tools.items():
+                    with self.subTest(tool=name):
+                        self.assertRegex(version, r"^\d+\.\d+\.\d+$")
+                        self.assertEqual(lock["packages"]["node_modules/" + name]["version"], version)
+                for name, entry in lock["packages"].items():
+                    if not name or entry.get("inBundle"):
+                        continue  # Bundled bytes are covered by the containing archive's integrity.
+                    with self.subTest(dependency=name):
+                        self.assertTrue(entry["resolved"].startswith("https://registry.npmjs.org/"))
+                        self.assertRegex(entry["integrity"], r"^sha512-[A-Za-z0-9+/]+={0,2}$")
 
 
 if __name__ == "__main__":
