@@ -89,6 +89,8 @@ Before merging content changes, run the ten guardrail cases against an unchanged
 of the current release, then run the complete suite against the proposed skill. For example,
 `--baseline --skill /path/to/released/skill --output baseline-results` preserves the released
 bytes and reports their static defects alongside the behavioural results. A failing baseline
+is measured against the current case and guardrail contract; an absent historical instruction
+can be a content gap rather than model disobedience. A failing baseline
 is evidence to investigate, not permission to weaken a case. `--case <id>` selects a bounded
 rerun. Results are written into a new directory on each run so a retry cannot overwrite evidence.
 

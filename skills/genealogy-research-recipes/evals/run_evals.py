@@ -368,6 +368,7 @@ def main():
         "harness_sha256": hashlib.sha256(Path(__file__).read_bytes() + (HERE / "checks.py").read_bytes() + (HERE / "read_server.py").read_bytes()).hexdigest(),
         "baseline": args.baseline, "static": static, "cases": cases,
         "guardrails": rules, "samples_per_case": 3,
+        "guardrail_contract_skill": str(SKILL),
     })
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:
         futures = [pool.submit(sample, case, index, args, rules) for case in cases for index in range(1, 4)]
