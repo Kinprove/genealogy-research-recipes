@@ -876,6 +876,18 @@
   "checkpoint": "Asking for a complete patient file, or for"
  },
  {
+  "recipe": "irish-catholic-parish-image-recovery.md",
+  "kind": "request",
+  "action": "1880, ask the parish, which keeps the original registers",
+  "checkpoint": "An entry after a register's end can name people who may be living"
+ },
+ {
+  "recipe": "irish-civil-registration-jurisdiction-recovery.md",
+  "kind": "request",
+  "action": "For a later entry, book GRONI's Public Search Room in Belfast",
+  "checkpoint": "An entry younger than those limits can name people who may be living"
+ },
+ {
   "recipe": "japanese-koseki-honseki-recovery.md",
   "kind": "request",
   "action": "Send the request to the current successor's office, not the one nearest a remembered hometown.",

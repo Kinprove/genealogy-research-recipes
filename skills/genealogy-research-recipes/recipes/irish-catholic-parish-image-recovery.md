@@ -44,6 +44,19 @@ Read the selected parish's register information. Record microfilm/item, event ty
 dates, then open the corresponding register image or microfilm link. A parish can have several
 volumes covering different events and years, as the Ancestry demonstration shows. [P3, O1]
 
+Check the register's coverage before you read a miss as absence. The NLI images are of baptism
+and marriage registers up to about 1880, the microfilming cut-off; most parishes recorded no
+burials before then. Start dates run from the 1740s–50s in some city parishes, through the
+1780s–90s in counties such as Kildare, Wexford, Waterford and Kilkenny, to the 1850s–60s on the
+western seaboard. [O3, O5] The images are not name-indexed on the NLI site. Findmypast and Ancestry
+index the same images, free with an account, and RootsIreland (paid) indexes most parishes,
+mostly to about 1900. [O3, O4]
+
+**Privacy gate:** <!-- privacy-gate: request --> An entry after a register's end can name people
+who may be living; answer the privacy gate in `SKILL.md` before asking for it. For an event after
+1880, ask the parish, which keeps the original registers; a priest may search them for a fee or
+donation. [O5]
+
 Record the alternative names given on the NLI parish page. A Catholic parish can appear under more
 than one name, so a lead's parish name may not match the NLI heading. Match the lead's parish name
 to an NLI name or listed variant before concluding the parish is absent. [P4]

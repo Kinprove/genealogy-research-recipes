@@ -32,7 +32,25 @@ screenshots, index entries and real family examples are not reproduced.
 - **O2:** NLI, numbered register-page metadata, checked on the official page on
   2026-10-07 — [page 27, microfilm 06485/01](https://registers.nli.ie/pages/vtls000633437_027?locale=en).
   Page/microfilm/parish metadata and the offered Download Page control.
+- **O3:** NLI, *About — Catholic Parish Registers*, Internet Archive capture of 2026-05-21 (the
+  live page refused automated access), opened 2026-11-07 —
+  [about](https://web.archive.org/web/20260521205111/https://registers.nli.ie/about); and NLI,
+  *Further research*, opened 2026-11-07 —
+  [further research](https://www.nli.ie/family-history/further-research). Baptism and marriage
+  registers to 1880 (the microfilming cut-off); start dates by region; images not indexed on the
+  NLI site; free name search through Findmypast, Ancestry and FamilySearch accounts; RootsIreland
+  indexes for most parishes by subscription.
+- **O4:** Findmypast, *Ireland Roman Catholic Parish Burials* collection list, Internet Archive
+  capture of 2026-04-11, opened 2026-11-07 —
+  [burials](https://web.archive.org/web/20260411012900/https://www.findmypast.co.uk/articles/world-records/full-list-of-the-irish-family-history-records/life-events-birth-marriage-death/ireland-roman-catholic-parish-burials);
+  RootsIreland county source tables (Meath), opened 2026-11-07 —
+  [Meath](https://www.rootsireland.ie/meath-genealogy/meath-roman-catholic/). Burials in a
+  minority of parishes; RootsIreland's parish indexes mostly running to about 1900.
+- **O5:** FamilySearch Research Wiki, *Ireland Catholic Church Records*, opened 2026-11-07 —
+  [wiki](https://www.familysearch.org/en/wiki/Ireland_Catholic_Church_Records). Original
+  registers in local custody; a priest may search them, and a fee or donation may be required;
+  only 214 parishes recorded burials before 1880, against 1,042 that recorded baptisms.
 
 ## Credits
 
-- Kinprove — original procedural synthesis of NLI Irish Catholic parish-register image recovery — FSL-1.1-MIT (kinprove-original)
+- Kinprove — original procedural synthesis of NLI Irish Catholic parish-register image recovery; coverage and access facts checked against NLI, Findmypast, RootsIreland and FamilySearch pages (O3–O5) — FSL-1.1-MIT (kinprove-original)
