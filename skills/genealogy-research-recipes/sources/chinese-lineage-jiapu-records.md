@@ -6,6 +6,8 @@
 - **S4:** BYU Family History Library / Clotilde Yap, [Introducing My China Roots](https://www.youtube.com/watch?v=x5P9fKp25lw), published 2024-09-23. Used for: narrowing an English-spelled surname by dialect, country, meaning or a relative; ports versus village; full-text hits across many same-surname books filtered by native place and checked against parents' and children's names.
 - **S5:** BYU Family History Library / Matthew Tyler, [Introduction to Chinese Genealogy](https://www.youtube.com/watch?v=abqGopp1mq4), published 2019-11-09. Used for: older British-style and dialect romanizations; candidate-character tools; variant and older character forms; starting at county level when the village is unknown; the surname/place arrangement of the FamilySearch genealogies at that date.
 
+- **S6:** FamilySearch Help Center, [How do I find a Chinese jiapu on FamilySearch?](https://articles.familysearch.org/hc/en-us/articles/41648637983131-How-do-I-find-a-Chinese-jiapu-on-FamilySearch), updated 2026-06-03, checked 2026-11-07. Used for: more than 65,000 jiapu, individual names not yet indexed, map and custom-search filters, and the notice suspending access to certain Chinese family records while privacy law, contracts and technology are reviewed. The collection count does not establish that every book is currently viewable.
+
 The register, the token classification, the search log and the hypothesis labelling are authored
 synthesis. The presentations supply the examples and failure cases. Still presenter-reported:
 the ~13 million image figure; My China Roots' full-text-only status and province filter; the

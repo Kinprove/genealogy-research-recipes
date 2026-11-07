@@ -9,8 +9,8 @@ privacy: "none"
 gates: []
 guardrails: [{"id": "CHINESE-LINEAGE-JIAPU-RECORDS-01", "text": "never derive a character from a romanization, and keep each romanization, port and generation-character match as its own observation."}]
 handoff: []
-checked: null
-checked_basis: null
+checked: "2026-11-07"
+checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "pointer", "group": "Migration and origins", "order": 1115}
 ---
@@ -115,7 +115,7 @@ million images that you had to browse by surname and then place. [S3], [S5] That
 date. FamilySearch has a dedicated Jiapu Search by surname, ancestral village, ancestral hall
 name, first ancestor's name or generation name. It also has advanced image-search filters and a
 map browse covering more than 65,000 jiapu. Individual names inside the books are still **not
-indexed**, so once you find a book you page through its images. The procedure:
+indexed**, so once you find a book you page through its available images. [S6] The same Help Center article, checked 2026-11-07, warns that access to certain Chinese family records is suspended during a review of privacy laws, contracts and technology. Check the notice and the individual book's access before reporting it as viewable or absent. [S6] The procedure:
 
 1. Choose the surname by its **exact character**. In the presenter's example, several surname
    entries shared one romanization.

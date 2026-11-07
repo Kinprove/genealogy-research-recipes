@@ -19,6 +19,8 @@
 - **S17:** German Genealogy Group, [Births – Records Search](http://www.germangenealogygroup.com/records-search/births.php), opened 2026-11-06. Used for: most corrected "S" (Special) birth certificates not being on the city's image site, and viewable at the Municipal Archives.
 - **S18:** New York Genealogical and Biographical Society, [New York City Public Digitized Vital Records Now Online for Free!](https://www.newyorkfamilyhistory.org/blog/new-york-city-public-digitized-vital-records-now-online-free), undated post citing a March 2022 count, opened 2026-11-06. Used for: digitization being incomplete (70% complete at that count).
 
+- **S19:** Utah Department of Health and Human Services, Office of Vital Records and Statistics, [Get a copy of a certificate](https://vitalrecords.utah.gov/how-to-get-started/get-a-copy-of-a-certificate), checked 2026-11-07. Used for: birth certificates from 1905 onward public after 100 years and death certificates from 1905 onward public after 50 years. This is the correcting source for the lecture's 75-year claim; the page's 75-year limit belongs to the listed marriage/divorce records, not birth/death records.
+
 The authority-and-series register, the result vocabulary and the rule against stating absence are authored synthesis. The presenters supply examples of early city registration, separate series, custodians and delayed-certificate contents. They do not supply a general schedule of U.S. start dates. The New York City routing comes from the city and state custodians (S11, S12), and the registration-area dates and admission test from a scholarly reference work (S13).
 
 Not verified:
