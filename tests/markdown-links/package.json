@@ -1,0 +1,13 @@
+{
+  "name": "genealogy-research-recipes-markdown-tests",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test check.test.js"
+  },
+  "devDependencies": {
+    "github-slugger": "2.0.0",
+    "markdown-it": "15.0.3",
+    "parse5": "8.0.1"
+  }
+}

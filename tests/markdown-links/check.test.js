@@ -10,7 +10,7 @@ import GithubSlugger from "github-slugger";
 import MarkdownIt from "markdown-it";
 import { parseFragment } from "parse5";
 
-const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
+const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "../..");
 const markdown = new MarkdownIt({ html: true });
 const external = (href) => /^(?:[a-z][a-z\d+.-]*:|\/\/)/i.test(href);
 

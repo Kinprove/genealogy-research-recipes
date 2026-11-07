@@ -61,15 +61,16 @@ The Markdown CI job also checks relative links in every tracked Markdown file,
 including heading fragments, images and reference links. Run it locally with:
 
 ```sh
-npm ci --ignore-scripts
-npm run test:markdown-links
+npm ci --ignore-scripts --prefix tests/markdown-links
+npm test --prefix tests/markdown-links
 ```
 
 The check resolves paths offline and uses `github-slugger` for heading IDs,
 including Unicode and duplicate headings. Code examples and front matter are
 excluded. Non-Markdown resources are checked for existence; their format-specific
-fragments (such as PDF page numbers) are left alone. The npm development
-dependencies are only for these checks; installed plugins do not need them.
+fragments (such as PDF page numbers) are left alone. The dependencies and lockfile
+live in the private `tests/markdown-links` package; installed plugins and the
+release version script do not need them.
 
 For a **new** recipe, prepare its reviewed body and a complete header object
 as JSON, plus its source sidecar and any privacy-inventory entries, then use:
