@@ -39,10 +39,11 @@ Analysis before planning workflows 4–8. [H9]
 **Privacy gate before any upload:** Authorization to analyze a kit is not permission to
 upload it. An upload places that person's genome in GEDmatch, where the kit's settings decide who
 can match and see it. Before each upload, answer the privacy gate in `SKILL.md`: record the
-tested person, the file and the privacy options the upload form currently offers, including
-whether the kit is opted in to law-enforcement matching (GEDmatch processes a kit for
-law-enforcement or research access only after an express opt-in [H11]), and require that
-person's explicit permission for GEDmatch and the chosen options. If permission is unclear,
+tested person, the file and the privacy option the upload form currently offers, with what
+GEDmatch's current terms say each option allows for law-enforcement matching (the uploader
+chooses an option at upload [H11]; read the terms rather than assuming an opt-out excludes
+every law-enforcement comparison), and require that person's explicit permission for GEDmatch
+and the chosen option. If permission is unclear,
 do not upload. Apply the consent rules in
 [AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline).
 

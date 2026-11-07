@@ -202,8 +202,8 @@ Matching threshold. The linked relative's tree position supplies the parental si
 used for bucketing. [H4, S5]
 
 **Privacy gate:** <!-- privacy-gate: link, export --> Each anchor link puts a relative's DNA result on the tree, and each re-export saves living matches' data. Apply the
-workflow 3 checkpoint (the privacy gate in `SKILL.md`) to every anchor before linking, relinking or re-exporting, including that
-relative's own permission.
+workflow 3 checkpoint (the privacy gate in `SKILL.md`) to every anchor before linking or relinking, including that
+relative's own permission; keep each re-exported file on the user's device and delete it when the question is answered.
 
 Link documented relatives who identify one side first: parents and grandparents, then aunts,
 uncles and cousins. Children and full siblings share both sides and cannot split them. [S5] An

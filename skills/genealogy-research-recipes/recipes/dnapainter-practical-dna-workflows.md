@@ -115,9 +115,9 @@ portion the provider does not attribute unassigned. [S27, H6]
 
 ## 2. Copy or merge map data without changing whose DNA it represents
 
-Choose the smallest transfer that answers the question. Duplicate the map for an alternative analysis; copy one match for a focused comparison; export a filtered subset for an ancestor; export the unfiltered table for a whole-map transfer. Use these as alternate maps of the same focal tester. [S4]
-
 **Privacy gate:** <!-- privacy-gate: export --> Copying or exporting map data moves matches' segment data and identities into the clipboard, a CSV file or another map; answer the privacy gate in `SKILL.md` first.
+
+Choose the smallest transfer that answers the question. Duplicate the map for an alternative analysis; copy one match for a focused comparison; export a filtered subset for an ancestor; export the unfiltered table for a whole-map transfer. Use these as alternate maps of the same focal tester. [S4]
 
 1. Duplicate through the settings cog if you need a working copy. Edit or remove groups in that copy.
 2. For one match, click one of its segments, choose **View match**, then **Copy match segment data to clipboard**. Paste into the destination's **Paint a new match** form.

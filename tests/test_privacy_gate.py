@@ -76,7 +76,7 @@ def blank_fences(text):
 
 
 def find_once(text, needle):
-    """Return the line index where `needle` starts; it must occur exactly once.
+    """Return the offset in `text` where `needle` starts; it must occur exactly once.
 
     Case, line breaks and runs of spaces are ignored, so a rewrapped line still matches.
     """
@@ -86,14 +86,19 @@ def find_once(text, needle):
             if folded and folded[-1] == " ":
                 continue
             char = " "
-        folded.append(char.casefold())
-        origin.append(index)
+        for part in char.casefold():  # one character can fold to several ("ß" -> "ss")
+            folded.append(part)
+            origin.append(index)
     folded = "".join(folded)
     target = re.sub(r"\s+", " ", needle.strip()).casefold()
     count = folded.count(target)
     if count != 1:
         raise AssertionError(f"expected exactly once, found {count}: {needle!r}")
-    return text.count("\n", 0, origin[folded.index(target)])
+    return origin[folded.index(target)]
+
+
+def line_of(text, offset):
+    return text.count("\n", 0, offset)
 
 
 def markers(text):
@@ -117,10 +122,11 @@ def check_entry(text, kind, action, checkpoint):
     """Fail unless `checkpoint` guards `action`: before it, same section, marker of `kind`."""
     live = blank_fences(text)
     lines = live.split("\n")
-    action_line = find_once(live, action)
-    checkpoint_line = find_once(live, checkpoint)
-    if checkpoint_line > action_line:
+    action_at = find_once(live, action)
+    checkpoint_at = find_once(live, checkpoint)
+    if checkpoint_at > action_at:
         raise AssertionError(f"checkpoint comes after the action: {checkpoint!r}")
+    action_line, checkpoint_line = line_of(live, action_at), line_of(live, checkpoint_at)
     for line in lines[checkpoint_line + 1 : action_line + 1]:
         if HEADING.match(line):
             raise AssertionError(f"a heading separates the checkpoint from the action: {line!r}")
@@ -174,8 +180,8 @@ class InventoryTests(unittest.TestCase):
     def test_every_marker_is_well_formed_and_guards_a_listed_step(self):
         guarded = {}
         for entry in INVENTORY:
-            text = (RECIPES / entry["recipe"]).read_text(encoding="utf-8")
-            guarded.setdefault(entry["recipe"], set()).add(find_once(blank_fences(text), entry["checkpoint"]))
+            live = blank_fences((RECIPES / entry["recipe"]).read_text(encoding="utf-8"))
+            guarded.setdefault(entry["recipe"], set()).add(line_of(live, find_once(live, entry["checkpoint"])))
         checked = 0
         for path in sorted(RECIPES.glob("*.md")):
             for index, kinds, line, start in markers(path.read_text(encoding="utf-8")):
@@ -234,6 +240,13 @@ class CheckerSelfTests(unittest.TestCase):
         text = "## A\n\nUpload the file.\n\n**Privacy gate:** <!-- privacy-gate: upload --> Ask first.\n"
         with self.assertRaises(AssertionError):
             check_entry(text, "upload", "Upload the file", "Ask first")
+        same_line = "## A\n\n2. Upload the file. **Privacy gate:** <!-- privacy-gate: upload --> Ask first.\n"
+        with self.assertRaises(AssertionError):
+            check_entry(same_line, "upload", "Upload the file", "Ask first")
+
+    def test_a_character_that_folds_to_several_keeps_positions(self):
+        text = "## Straße\n\n**Privacy gate:** <!-- privacy-gate: upload --> Ask first.\n\nUpload the file.\n"
+        check_entry(text, "upload", "Upload the file", "Ask first")
 
     def test_a_fenced_checkpoint_or_heading_does_not_count(self):
         fenced = "## A\n\n```text\n**Privacy gate:** <!-- privacy-gate: upload --> Ask first.\n```\n\nUpload the file.\n"

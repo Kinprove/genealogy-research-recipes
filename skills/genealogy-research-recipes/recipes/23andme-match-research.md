@@ -577,13 +577,13 @@ it does not require a tested parent. [S10]
 
 **Privacy gate before bucketing:** <!-- privacy-gate: third-party-tool, export --> Both files list
 third parties' match data, and the companion file belongs to another tester. Before loading either
-file, or a filtered result, into DNA Painter, or downloading a filtered result, answer the privacy
-gate in `SKILL.md`: require explicit permission
+file, or a filtered result, into DNA Painter, answer the privacy gate in `SKILL.md`: require explicit permission
 covering this action, this destination and each person's data in both files, including the
 relative's permission for their file, and strip identifiers the tool does not need, as
 [AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline) requires. Access to
 a relative's file is not that permission. If it is unclear, filter the files locally in a
-spreadsheet instead.
+spreadsheet instead. Keep a downloaded filtered result on the user's device and delete it when the
+question is answered.
 
 1. Select your original segment CSV as the main file. Use the correct tester's file; a raw
    genotype download or clustering matrix is a different input.

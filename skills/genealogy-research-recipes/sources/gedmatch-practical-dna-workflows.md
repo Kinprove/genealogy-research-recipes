@@ -90,7 +90,7 @@ GEDmatch support articles (undated), retrieved 2026-11-06:
 
 GEDmatch policy page, retrieved 2026-11-07:
 
-- **H11:** GEDmatch (Verogen), [Privacy Policy](https://www.gedmatch.com/privacy-policy-october-21-2025/), version of 21 October 2025. The uploader selects a privacy option for each upload; personal data is processed for law-enforcement or research access only when the user expressly opts in; government agencies compare kits through the separate GEDmatch PRO portal.
+- **H11:** GEDmatch (Verogen), [Privacy Policy](https://www.gedmatch.com/privacy-policy-october-21-2025/), version of 21 October 2025. The uploader selects a privacy option for each upload, described in the policy's "DNA Data" section; government agencies compare kits through the separate GEDmatch PRO portal. What each option allows is set by GEDmatch's terms, which the recipe tells the reader to check at upload.
 
 ## Credits
 

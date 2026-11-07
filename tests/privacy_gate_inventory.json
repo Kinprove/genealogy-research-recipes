@@ -534,6 +534,12 @@
   "checkpoint": "The matrix holds identified living testers' shared cM amounts;"
  },
  {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "export a filtered subset for an ancestor; export the unfiltered table for a whole-map transfer",
+  "checkpoint": "Copying or exporting map data moves matches' segment data"
+ },
+ {
   "recipe": "ethnicity-estimate-version-comparison.md",
   "kind": "export",
   "action": "Then, beside \"What changed?\", click **Download PDF** [S1], [S11]. Find the link by its position:",
