@@ -9,8 +9,8 @@ privacy: "none"
 gates: []
 guardrails: [{"id": "PERIODICAL-INDEX-SEARCH-RETRIEVAL-01", "text": "these indexes are not full text, so a personal-name miss usually means the article text was never searched, and a hit is only a citation."}]
 handoff: []
-checked: null
-checked_basis: null
+checked: "2026-11-07"
+checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "pointer", "group": "Places, maps, libraries and manuscripts", "order": 1120}
 ---

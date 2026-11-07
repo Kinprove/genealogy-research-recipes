@@ -9,8 +9,8 @@ privacy: "none"
 gates: []
 guardrails: [{"id": "MISSING-MARRIAGE-JURISDICTION-SEARCH-01", "text": "one county miss is not a finished search; report a gap only after every ranked candidate is searched or recorded as unavailable."}]
 handoff: []
-checked: null
-checked_basis: null
+checked: "2026-11-07"
+checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "pointer", "group": "Church and civil registers", "order": 1044}
 ---

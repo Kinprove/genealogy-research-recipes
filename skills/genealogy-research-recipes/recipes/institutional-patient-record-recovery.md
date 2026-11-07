@@ -9,8 +9,8 @@ privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "INSTITUTIONAL-PATIENT-RECORD-RECOVERY-01", "text": "incapacity does not establish admission or diagnosis, and an access refusal does not establish that no file survives."}]
 handoff: []
-checked: null
-checked_basis: null
+checked: "2026-11-07"
+checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1107}
 ---

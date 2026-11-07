@@ -9,8 +9,8 @@ privacy: "none"
 gates: []
 guardrails: [{"id": "CHINESE-LINEAGE-JIAPU-RECORDS-01", "text": "never derive a character from a romanization, and keep each romanization, port and generation-character match as its own observation."}]
 handoff: []
-checked: null
-checked_basis: null
+checked: "2026-11-07"
+checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "pointer", "group": "Migration and origins", "order": 1115}
 ---
