@@ -1,0 +1,377 @@
+{
+  "issue": 83,
+  "scope": "The twenty recipe/source pairs named in issue 83; this is a bounded provenance regression inventory, not an audit of every fact in the corpus.",
+  "recipes": [
+    {
+      "recipe": "german-compensation-file-recovery.md",
+      "bindings": [
+        {
+          "claim": "The former WGA database closed on 1 January 2025",
+          "sources": [
+            "S7"
+          ]
+        },
+        {
+          "claim": "requesters receive three documents:",
+          "sources": [
+            "S8"
+          ]
+        },
+        {
+          "claim": "requests received from 16 January 2026 in order of urgency, until 31 December 2027",
+          "sources": [
+            "S8"
+          ]
+        },
+        {
+          "claim": "Under § 14 Abs. 2 BArchG",
+          "sources": [
+            "S9"
+          ]
+        },
+        {
+          "claim": "The Landesarchiv Berlin says the index was kept from 1874.",
+          "sources": [
+            "S10"
+          ]
+        }
+      ],
+      "removed": [
+        {
+          "claim": "On 28 February 2025 the Bundesarchiv announced",
+          "reason": "The current official Bayreuth page confirms the pilot and forms, not this exact announcement date."
+        }
+      ]
+    },
+    {
+      "recipe": "german-military-record-period-routing.md",
+      "bindings": [
+        {
+          "claim": "The continuation period for death registers is 30 years",
+          "sources": [
+            "S14"
+          ]
+        },
+        {
+          "claim": "A death is registered at the registry office for the place where it happened",
+          "sources": [
+            "S14"
+          ]
+        }
+      ],
+      "removed": [
+        {
+          "claim": "lists them up to volume 127 (1942)",
+          "reason": "The named catalogue range was not verified; inspect the actual volume instead."
+        },
+        {
+          "claim": "the Elbląg digital library holds 1926–1930",
+          "reason": "A digital run for this complete date range was not verified."
+        }
+      ]
+    },
+    {
+      "recipe": "german-register-image-recovery.md",
+      "bindings": [
+        {
+          "claim": "Berlin's official service description says name indexes and supporting files survive only occasionally.",
+          "sources": [
+            "S73"
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "recipe": "german-emigrant-origin-sources.md",
+      "bindings": [
+        {
+          "claim": "Pennsylvania volumes 47–49 have been produced",
+          "sources": [
+            "S16"
+          ]
+        }
+      ],
+      "removed": [
+        {
+          "claim": "The publisher now lists through Volume 48 (August 2026).",
+          "reason": "Replaced by a dated observation of the author’s current volume page."
+        }
+      ]
+    },
+    {
+      "recipe": "german-local-census-registration-recovery.md",
+      "bindings": [
+        {
+          "claim": "holds the count lists of 1803 for Schleswig and Holstein",
+          "sources": [
+            "S8"
+          ]
+        }
+      ],
+      "removed": [
+        {
+          "claim": "The regular 1915 census was cancelled",
+          "reason": "No inspected numbered authority for this extra national claim."
+        },
+        {
+          "claim": "Wartime counts were held on 1 December 1916 and 5 December 1917",
+          "reason": "No inspected numbered authority for these exact dates; retain locality-level coverage checks."
+        }
+      ]
+    },
+    {
+      "recipe": "institutional-patient-record-recovery.md",
+      "bindings": [
+        {
+          "claim": "copies for genealogy searches and cites Mental Hygiene Law §33.13",
+          "sources": [
+            "S9"
+          ]
+        },
+        {
+          "claim": "Her 2018 article cites RG 021:008",
+          "sources": [
+            "S10"
+          ]
+        },
+        {
+          "claim": "under Ohio Revised Code 5122.31.",
+          "sources": [
+            "S11"
+          ]
+        },
+        {
+          "claim": "has been dead at least 50 years or the record is at least 75 years old.",
+          "sources": [
+            "S12"
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "recipe": "quaker-meeting-record-recovery.md",
+      "bindings": [
+        {
+          "claim": "New York Yearly Meeting's historical statement dates the separation to 1827 for Philadelphia",
+          "sources": [
+            "S5"
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "recipe": "canadian-census-interpretation.md",
+      "bindings": [
+        {
+          "claim": "made with Ancestry and FamilySearch.",
+          "sources": [
+            "S9"
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "recipe": "chinese-lineage-jiapu-records.md",
+      "bindings": [
+        {
+          "claim": "map browse covering more than 65,000 jiapu.",
+          "sources": [
+            "S6"
+          ]
+        },
+        {
+          "claim": "access to certain Chinese family records is suspended",
+          "sources": [
+            "S6"
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "recipe": "russian-empire-jewish-metrical-book-recovery.md",
+      "bindings": [],
+      "removed": [
+        {
+          "claim": "Civil registration was already working in Vitebsk guberniya in 1918.",
+          "reason": "The local starting date lacked an inspected archive or register reference."
+        },
+        {
+          "claim": "Moscow's Glavarchiv publishes Jewish metrical books only up to 1918.",
+          "reason": "No current official portal coverage verified; a publication endpoint cannot establish a registration changeover."
+        },
+        {
+          "claim": "in Russia, for example, they follow a 100-year retention period",
+          "reason": "No numbered current statutory authority; requester must check the applicable custody and access rule."
+        }
+      ]
+    },
+    {
+      "recipe": "us-federal-court-case-file-recovery.md",
+      "bindings": [
+        {
+          "claim": "NARA says all bankruptcy case files are at the National Archives at Kansas City",
+          "sources": [
+            "S4"
+          ]
+        },
+        {
+          "claim": "9 a.m. to 4 p.m., and gives <philadelphia.archives@nara.gov>",
+          "sources": [
+            "S9"
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "recipe": "scandinavian-parish-record-recovery.md",
+      "bindings": [
+        {
+          "claim": "For 1860 it covers only Jämtlands län",
+          "sources": [
+            "S26"
+          ]
+        },
+        {
+          "claim": "under the Church Law of 1686 and describes catechism",
+          "sources": [
+            "S28"
+          ]
+        }
+      ],
+      "removed": [
+        {
+          "claim": "Expect examinations to begin in the 1720s in most parishes",
+          "reason": "Uninspected Wiki claim replaced with the archive’s own narrower historical description."
+        },
+        {
+          "claim": "Expect separate moving-in and moving-out registers from the 1800s",
+          "reason": "No verified universal start date; identify each parish’s actual series and years."
+        }
+      ]
+    },
+    {
+      "recipe": "scottish-parish-statutory-record-recovery.md",
+      "bindings": [
+        {
+          "claim": "saving an image costs 2 credits (50p) as of 7 November 2026.",
+          "sources": [
+            "S29",
+            "S33"
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "recipe": "historical-place-name-resolution.md",
+      "bindings": [
+        {
+          "claim": "USGS says these administrative feature classes were removed in 2021",
+          "sources": [
+            "S46"
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "recipe": "missing-marriage-jurisdiction-search.md",
+      "bindings": [
+        {
+          "claim": "The table cites a chart in the 1999 World Almanac",
+          "sources": [
+            "S27"
+          ]
+        }
+      ],
+      "removed": [
+        {
+          "claim": "is out of date for at least Kentucky and Tennessee",
+          "reason": "Current statutes were not inspected; retain the table’s actual undated provenance and inspect the law for the marriage date."
+        }
+      ]
+    },
+    {
+      "recipe": "periodical-index-search-retrieval.md",
+      "bindings": [
+        {
+          "claim": "Start with ACPL's own free PERSI search",
+          "sources": [
+            "S18"
+          ]
+        },
+        {
+          "claim": "confirms <genealogy@acpl.info> for the Genealogy Center.",
+          "sources": [
+            "S20"
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "recipe": "us-vital-registration-coverage.md",
+      "bindings": [
+        {
+          "claim": "makes birth records public after 100 years and death records after 50 years.",
+          "sources": [
+            "S19"
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "recipe": "english-nonregister-record-recovery.md",
+      "bindings": [],
+      "removed": [
+        {
+          "claim": "more than 200 church courts had probate jurisdiction before 1858",
+          "reason": "The precise count had no inspected source binding; retain local and regional court routing."
+        },
+        {
+          "claim": "The Society of Genealogists notes that parents' names appear until about 1752.",
+          "reason": "The specific authority was not accessible for verification; inspect the fields of each apprenticeship entry."
+        }
+      ]
+    },
+    {
+      "recipe": "manuscript-collection-recovery.md",
+      "bindings": [
+        {
+          "claim": "about 54,000 cubic feet of these folders (Storages 8–20)",
+          "sources": [
+            "S35"
+          ]
+        },
+        {
+          "claim": "Storages 8–15 were unavailable there from April 2026",
+          "sources": [
+            "S36"
+          ]
+        }
+      ],
+      "removed": []
+    },
+    {
+      "recipe": "descendancy-gap-worklist.md",
+      "bindings": [],
+      "removed": [
+        {
+          "claim": "U.S. fertility fell steadily across the whole 19th century",
+          "reason": "No demographic source was inspected; retain the presenter’s attributed search flags without a population norm."
+        },
+        {
+          "claim": "switch to the late-period rule earlier for couples there",
+          "reason": "The unsourced regional timetable cannot set a research priority."
+        }
+      ]
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 Use this recipe when you have a Swedish or Finnish ancestor's name, a rough parish or farm, and rough birth or marriage dates, and you can view digitized images of the household examination (husförhör), birth, marriage, death and moving-in/moving-out registers. The household examination is your index into the other registers. Follow the family by farm or residence and by page cross-reference, not by patronymic. Settle identity at the household level. Finland kept the same kind of register; its differences are in "Finland: work the rippikirjat the same way" below.
 
-FamilySearch is not the only place to find images. Riksarkivet and ArkivDigital also hold them, and some FamilySearch images can only be viewed at a FamilySearch Center (FamilySearch Wiki). Check each parish's holdings, not the country as a whole.
+Check the parish's actual holdings and image-access conditions at FamilySearch, Riksarkivet and ArkivDigital. Do not infer access or coverage for one parish from a country-wide description.
 
 Related recipes:
 
@@ -172,9 +172,9 @@ This route leaves unverified holdings, unindexed fields and Finnish bulletin cov
 - Everett describes household examinations as registers kept parish by parish by the priest. He says they could be written up at different times of the year, so strictly they are not a government census taken on one day [S2]. Do not give an examination entry a single enumeration date. Cite the volume and its stated year range.
 - Riksarkivet's census database (Folkräkningar) is built from extracts of household examinations and later parish books. It is complete for 1880, 1890, 1900 and 1910. For 1860 it covers only Jämtlands län, and for 1870 only Västerbottens and Norrbottens län. 1920 is not in the database. 1930 is complete for some counties and still being registered for the rest; check the county in Riksarkivet's registration-status table, since a miss outside the registered counties is not a negative [S26]. The 1930 census is also compiled from parish-book extracts plus tax registers, and is limited to people born more than 100 years ago. Use the database as an extract of selected years. It does not cover every year and does not replace the volumes in between. Everett describes it as "1860 through 1920" and says 1930 was left out as Sweden's first national census [S2]. Both statements are wrong, so do not repeat them.
 - Early coverage:
-  - The Church Law of 1686 came into effect in 1688 and required household examinations and moving records (FamilySearch Wiki). Brady's "1686" [S1] and Tanner's "1688 law requiring annual examinations" [S4] both refer to this one law.
-  - Survival is a separate question from the law. Expect examinations to begin in the 1720s in most parishes and from the 1620s in Dalarna and Västmanland (FamilySearch Wiki). Brady's practical floor is about 1756: from then on you can count on a volume [S1]. For any earlier year, check the parish's holdings in the FamilySearch Catalog.
-  - Expect separate moving-in and moving-out registers from the 1800s (FamilySearch Wiki). Everett's mid-1700s date for permanent keeping [S2] describes the legal requirement, not what survives. For earlier moves, use the examination's own moving columns.
+  - Riksarkivet's administrative history assigns parish registration to the pastor under the Church Law of 1686 and describes catechism or household-examination lists. [S28] This is the statutory context, not proof that a volume survives for a particular parish or year.
+  - Survival is a separate question from the law. Riksarkivet describes the oldest examination lists as late-1600s or early-1700s records, initially focused on religious knowledge and not always giving a birth year. [S28] Brady gives about 1756 as a practical starting point [S1]; treat that as her guide, not a promise of coverage. Check the parish's actual holdings for every year needed.
+  - Identify the parish's separate moving-in and moving-out series and their surviving spans before searching them. If no separate volume covers the move, inspect the examination's own moving columns. A presenter's general start date [S2] does not establish local survival.
 - Before you claim any volume is missing, check that parish's actual holdings.
 
 ## Bridge gaps with poll-tax registers and probate

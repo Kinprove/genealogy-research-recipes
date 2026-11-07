@@ -9,6 +9,8 @@
 - **S7:** National Archives at Atlanta, [finding aid for RG 21, Frankfort, Kentucky, bankruptcy cases](https://www.archives.gov/atlanta/finding-aids/rg21-719121), NAID 719121, read 2026-11-07. Used for: those files, beginning in 1842, having moved to Kansas City.
 - **S8:** National Archives at Kansas City, [RG 21 series title list, Kentucky bankruptcy](https://www.archives.gov/kansas-city/finding-aids/html/rg21-series-title-list-kentucky-bankruptcy), with the Pennsylvania and California lists, read 2026-11-07. Used for: historical cases under the 1800, 1841 and 1867 acts held at Kansas City.
 
+- **S9:** U.S. National Archives, [The National Archives at Philadelphia](https://www.archives.gov/philadelphia), checked 2026-11-07. Used for: an appointment-only research room, Monday–Friday 9 a.m.–4 p.m., <philadelphia.archives@nara.gov> and 215-305-2044. Hours and booking arrangements must be rechecked before a visit.
+
 The order of steps, the series status inventory, the bounded-negative rule and the closing packet
 are authored synthesis. The sources supply the court history, examples and retrieval experience
 as the presenters reported them. No AI transcription method is adopted here.
