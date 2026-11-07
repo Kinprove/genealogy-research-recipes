@@ -66,6 +66,8 @@ successful read. A subset replay checks the saved fixtures used by that subset.
 `optional_read_sections` binds the rules of additional judgment recipes when opened; it does
 not require those additional routes. Their rules still need complete coverage.
 Questions in the rubric are bound to exact recipe sentences and their current body line numbers.
+Clarification cases must stop at one focused question and a brief reason, waiting for the
+user's answer before any source list or workflow.
 The `.yaml` cases use JSON syntax, a YAML 1.2 subset; headers use the strict subset described
 in [MAINTAINERS.md](MAINTAINERS.md). The offline tier needs only Python's standard library.
 Evaluation tooling and fixtures are development files
@@ -85,7 +87,8 @@ the profile itself is not reconfigured. The server rejects paths and symlinks ou
 The judge uses schema-validated structured output and sees the same fixtures.
 For profiles that shorten large MCP outputs, `--reader native` uses native `Read` with
 an explicit bounded line limit to read each selected file completely, matching the server's
-complete-file default, and denies MCP tools instead. The same line-coverage and
+complete-file default, and denies MCP tools instead. It requests `allow_large` for recipes
+above Read's default token limit. The same line-coverage and
 case requirements apply; a shortened response cannot pass as a complete recipe read.
 
 Before merging content changes, run the ten guardrail cases against an unchanged snapshot
@@ -98,6 +101,11 @@ not permission to weaken a case. `--case <id>` selects a bounded
 rerun. Results are written into a new directory on each run so a retry cannot overwrite evidence.
 Replay retains the original guardrail contract and raw traces. Recorded CI paths can be read
 against a local copy only after its skill hash and selected case contracts match.
+
+The [local evaluation report](reports/issue-97-evaluation.md) records the observed results,
+preserved failures, transport repairs and remaining acceptance gates.
+Issue #97's owner-approved gate retains the failed release baseline and requires all
+revised-candidate cases to pass; merge authorization is a separate decision.
 
 ## Install
 
