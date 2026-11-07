@@ -108,10 +108,12 @@ data to the minimum.
 
 Contact a living person only through a route the person or the tester already has, the
 testing site's own messaging, or a relative who agrees to pass the message on. The identity
-that must be easy to check is the sender's. Stage contact with a DNA match, a kit manager or
-a relative through [DNA match outreach staging](recipes/dna-match-outreach-staging.md). For
-another contact, such as a record submitter or a donor, apply that recipe's consent and
-disclosure rules and its log, and skip its DNA-only items (kit pair, site, shared cM).
+that must be easy to check is the sender's. Stage a contact about DNA (a DNA match, a kit
+manager, or a relative asked to test or approached about a DNA or parentage question) through
+[DNA match outreach staging](recipes/dna-match-outreach-staging.md). For any other contact,
+such as a cousin asked for a photograph, a record submitter or a donor, apply that recipe's
+consent and disclosure rules and its log, and skip what applies only to DNA tests (a tester's
+agreement, kit pair, site, shared cM).
 
 ### Record requests
 
