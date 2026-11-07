@@ -427,14 +427,14 @@ research has stalled at a generic USCIS request.
    subsequent naturalization records were filed in A-Files.
 2. For an A-File, inspect NARA's catalog entry and Contact(s). Save the name,
    NAID and A-number. NARA receives A-Files 100 years after the person's birth
-   year. In August 2025 the National Archives at Kansas City held more than
-   1.5 million, from across the United States, and the National Archives at
-   San Francisco (San Bruno) more than 300,000, from the San Francisco,
-   Honolulu, Reno and Guam offices. Check both. The Catalog lists the name of
-   everyone in NARA's A-File holdings, so search it by name.[47] A file not yet
-   transferred stays with USCIS. Its Genealogy Program accepts only A-Files
-   numbered below 8 million; a higher number needs a FOIA request.[56]
-   Transfer eligibility by age does not prove transfer.
+   year. Transfer eligibility by age does not prove transfer. In August 2025
+   the National Archives at Kansas City held more than 1.5 million A-Files,
+   from across the United States. The National Archives at San Francisco (San
+   Bruno) held more than 300,000, from the San Francisco, Honolulu, Reno and
+   Guam offices. Check both. The Catalog lists the name of everyone in NARA's
+   A-File holdings, so search it by name.[47] A file not yet transferred stays
+   with USCIS. Its Genealogy Program accepts only A-Files numbered below 8
+   million; a higher number needs a FOIA request.[56]
 3. For AR-2, check the Flexoline Index's current coverage, then follow NARA's
    AR-2 instructions. USCIS does not process AR-2 requests received on or after
    17 May 2024; the forms are now requested from NARA.[36,57] An indexed number

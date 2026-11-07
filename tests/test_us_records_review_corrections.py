@@ -1,7 +1,7 @@
 """The U.S. records recipes keep the corrections from the expert review in issue #92.
 
-Each test pins a fact that was wrong in a draft of the fix and the corrected fact
-that replaced it, so a later edit cannot quietly bring the wrong one back.
+Each test pins corrected facts and, where a draft of the fix had them wrong, checks
+that the wrong wording is gone, so a later edit cannot quietly bring it back.
 """
 
 import unittest
@@ -44,7 +44,7 @@ class UsRecordsReviewCorrectionsTests(unittest.TestCase):
             text,
         )
         self.assertIn("Pension Documents Packet: $30", text)
-        self.assertNotIn("Pension Documents Packet:** $55", text)
+        self.assertNotIn("Pension Documents Packet:** $55", text)  # the draft's bold label
 
     def test_pension_index_table_gives_t289_its_span(self):
         text = recipe("us-military-pension-file-recovery.md")
@@ -99,9 +99,9 @@ class UsRecordsReviewCorrectionsTests(unittest.TestCase):
         )
         self.assertIn("17 May 2024", route)
         self.assertNotIn("7.5 million", route)
-        uscis = route[route.index("4. For C-Files") :]
-        self.assertIn("$30 online or $80 on paper", uscis)
-        self.assertNotIn("AR-2", uscis)
+        c_files_step = between(text, "4. For C-Files", "Alongside an A-file lead")
+        self.assertIn("$30 online or $80 on paper", c_files_step)
+        self.assertNotIn("AR-2", c_files_step)
 
     def test_church_custody_corrections(self):
         text = recipe("us-church-record-custody.md")

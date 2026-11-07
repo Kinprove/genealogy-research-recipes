@@ -31,7 +31,7 @@ Overlapping steps belong to sibling recipes. For the pension and bounty-land *ap
 
 Before querying BLM-GLO or NARA RG 49, confirm that the land lies in a public-land state [S15]:
 
-- **The 30 public-land states:** Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico, North Dakota, Ohio, Oklahoma, Oregon, South Dakota, Utah, Washington, Wisconsin and Wyoming. Federal land entries here are the subject of this recipe.
+- **The 30 public-land states:** Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico, North Dakota, Ohio, Oklahoma, Oregon, South Dakota, Utah, Washington, Wisconsin and Wyoming. This recipe covers federal land entries in these states.
 - **The 20 state-land states:** the 13 original states (Connecticut, Delaware, Georgia, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina and Virginia), plus Maine, Vermont, West Virginia, Kentucky, Tennessee, Texas and Hawaii. The first grant there came from the colony, the proprietor, the state or the Republic of Texas, so BLM-GLO and RG 49 do not hold it. Start with that state's land office or archives.
 
 Two cautions. In Tennessee, the United States held title to the land south and west of the Congressional Reservation Line from 1806 to 1846, but Tennessee issued the grants [S16]. In Ohio, a public-land state, land in the Virginia Military District began with Virginia warrants; its patents can still be found on BLM-GLO [S17].
