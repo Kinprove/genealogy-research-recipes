@@ -2,7 +2,7 @@
 
 Use this when you have the image of a French-language birth, marriage or death act from France or Belgium and need its fields: the act date, the event date, declarants, life-status words, clerk corrections, statements about a parent's death, and children legitimated by the marriage. The output is a field table and a list of acts to retrieve next. It does not rule on identity or proof. For status words read as a statement on one date, see [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For AI transcription limits and keeping a date's type separate from the event, see [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
 
-Work from the original image. A yearly index or a ten-year table (*table décennale*, available for Belgian civil registers in the FamilySearch catalog) is only a way to find the act. Marriage acts hold leads that an index leaves out. [S1], [S2]
+Work from the original image. A yearly index or a ten-year table (*table décennale*, available for Belgian civil registers in the FamilySearch catalog; for when French registers and tables begin and where they are kept, see [French departmental record routing, step 1](french-departmental-record-routing.md#1-route-by-département-not-by-a-national-index)) is only a way to find the act. Marriage acts hold leads that an index leaves out. [S1], [S2]
 
 ## Find Belgian register images in AGATHA
 
@@ -14,7 +14,7 @@ Work from the original image. A yearly index or a ten-year table (*table décenn
 
 ## Check a Paris reconstructed-record branch
 
-If the original Paris civil series is unavailable for the event, [S3] identifies a
+For a Paris event before 1860, the original series is gone: the Archives de Paris say the Paris civil registers before 1860 were destroyed in May 1871, and only about a third of the 8 million lost acts were restored. [S6] If the original Paris civil series is unavailable for the event, [S3] identifies a
 separate *état civil reconstitué* and its *fichiers*. Check the actual collection
 description and coverage, then use an applicable reconstruction-file name/date lead
 to locate the reconstructed act. Searching the ordinary register series does not
