@@ -9,27 +9,51 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
 jobs:
   beider-lookup:
     name: Beider lookup regression tests
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         with:
-          python-version: "3.11"
+          # 3.12+ so that unittest exits non-zero when it collects no tests.
+          python-version: "3.12"
       - name: Run offline lookup tests
         env:
           PYTHONDONTWRITEBYTECODE: "1"
         run: python -B -m unittest discover -s skills/genealogy-research-recipes/tests -p 'test_*.py'
+
+  unit-tests:
+    name: Repository unit tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.12"
+      # test_clawhub_package.py runs `npm pack`.
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: "24"
+      - name: Run repository unit tests
+        env:
+          PYTHONDONTWRITEBYTECODE: "1"
+        run: python -B -m unittest discover -s tests -p 'test_*.py' -v
 
   hermes:
     name: Hermes native plugin
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
         with:
           repository: NousResearch/hermes-agent
           # Freeze the runtime that exercises the public register_skill contract.
@@ -44,8 +68,6 @@ jobs:
           printf 'HERMES_RUNTIME=%s\n' "$HERMES_RUNTIME" >> "$GITHUB_ENV"
           mv .hermes-runtime "$HERMES_RUNTIME"
           uv sync --project "$HERMES_RUNTIME" --frozen --no-dev --python 3.14
-      - name: Run native plugin unit tests
-        run: uv run --project "$HERMES_RUNTIME" --frozen --no-dev python -B -m unittest discover -s tests -p 'test_*.py' -v
       - name: Validate native plugin and real registration
         run: |
           uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins validate . --json
@@ -62,14 +84,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: "24"
       - name: Install the pinned OpenClaw CLI
         run: npm install -g openclaw@2026.9.8
-      - name: Run native plugin unit tests
-        run: python3 -B -m unittest discover -s tests -p 'test_*.py' -v
       - name: Install and inspect the native plugin in an isolated profile
         env:
           PYTHONDONTWRITEBYTECODE: "1"
@@ -79,9 +99,10 @@ jobs:
   validate:
     name: Plugin validate (--strict)
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: "22"
       - name: Install Claude Code CLI
@@ -92,9 +113,10 @@ jobs:
   markdownlint:
     name: markdownlint (check-only)
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: "22"
       # Check-only: markdownlint-cli2 does NOT modify files (no --fix). Config is the
@@ -106,8 +128,9 @@ jobs:
   gitleaks:
     name: Secret scan (gitleaks, fail-closed)
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
         with:
           fetch-depth: 0
       # -----------------------------------------------------------------------------
