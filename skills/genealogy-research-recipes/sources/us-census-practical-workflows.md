@@ -177,7 +177,7 @@ keeper's November 1830 notice naming him as a former keeper of a house adjacent 
 and able to accommodate 40 students. The hosts keep the missing relative's presence there as a
 probable explanation, not a proven fact. The episode page was checked; the original schedule
 and newspaper images were not inspected for this recipe. Comparing notice dates with the census
-reference date is a Kinprove safeguard.
+reference date is a Kinprove safeguard. Author synthesis also includes the 1885 federal-state cooperative censuses (Colorado, Florida, Nebraska, New Mexico, Dakota) under the Act of 3 March 1879 as 1890 substitutes.
 
 ## Credits
 

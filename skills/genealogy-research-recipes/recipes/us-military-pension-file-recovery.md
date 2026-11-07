@@ -30,7 +30,19 @@ or replace the current instructions for requesting recent military personnel rec
 1. Compare the service clue with a conflict, branch and unit. Save the source of that context;
    an unusual name alone does not establish the correct soldier.
 2. Search a pension index covering the relevant service and claimant category. Do not assume
-   every person who served applied for a pension.
+   every person who served applied for a pension. Consult the primary federal pension series and digitized collections:
+
+   | Conflict / Period | Series / Publication | Arrangement | Digital Access & Notes |
+   | --- | --- | --- | --- |
+   | Revolutionary War | NARA M804 | Alphabetical by veteran | Digitized on Fold3 and FamilySearch (full files) |
+   | War of 1812 | NARA M313 (Index) / Case Files | Alphabetical by veteran | Digitized on Fold3 (Preserve the Pension project) |
+   | Early Regulars / "Old Wars" (1783–1861) | NARA T316 | Alphabetical by veteran | Digitized on Fold3 and FamilySearch |
+   | Mexican War (1846–1848) | NARA T317 | Alphabetical by veteran | Digitized on FamilySearch and Fold3 |
+   | Civil War & later (1861–1934) | NARA T288 (General Index) | Alphabetical by soldier | Ancestry, FamilySearch (gives widow/dependent names and application/certificate numbers) |
+   | Civil War & later (1861–1917) | NARA T289 (Organization Index) | State, arm, regiment, company | Fold3 (records death dates and locations omitted from T288) |
+   | Indian Wars (1817–1898) | NARA T318 | Alphabetical by veteran | Digitized on FamilySearch and Fold3 |
+   | Navy Widows' Pensions | NARA M1279 | Numerical / certificate | Fold3, FamilySearch |
+
 3. Distinguish the pension application from the service record and any bounty-land application.
    Record which of these you are trying to retrieve.
 4. Consult the current repository instructions before choosing a request route. NARA's older-record
@@ -145,8 +157,12 @@ guarantee. A second index can resolve a locator without independently confirming
 2. Compare multiple apparent file matches against the locator table; a name can produce more than
    one candidate file.
 3. If ordering eligible older federal pension records, use NARA's current pension request
-   instructions and the identifiers you copied. Its product choices distinguish a complete
-   application file from a Pension Documents Packet containing selected document types.
+   instructions and the identifiers you copied. Order through NARA's reproduction service using
+   Form NATF 85 (or the online equivalent at archives.gov). Its product choices distinguish:
+   - **Full Pension File (pre-WWI):** $80 flat reproduction fee (covers up to the first 100 pages; additional fee per page beyond 100 pages).
+   - **Pension Documents Packet:** $55 flat fee (selected genealogical records from the file: declaration, proof of service, affidavits, marriage/death certificates).
+   - **Bounty-Land Warrant Application Packet:** $30 via NATF 85.
+   - For military service records (compiled service records, CMSR), use Form NATF 86 ($30); for bounty-land warrants, use Form NATF 84 ($50).
 4. Choose the product that fits the question. For a question requiring the claim's progression
    or witness material, request the complete-file option rather than silently substituting the
    smaller packet.

@@ -15,7 +15,7 @@
 - **S13:** BYU Family History Library / Ann Tanner, [FamilySearch Activities: Focus on Military Service](https://www.youtube.com/watch?v=fBcU1YJejjo), published 2025-04-25. Used for: carrying pension details into the BLM search and finding the bounty land sold to another person.
 - **S14:** BYU Family History Library / Nicky Smith, [Using Google Earth Pro](https://www.youtube.com/watch?v=hmWIsFMbQyg), published 2021-10-13. Used for: a relinquished homestead not appearing on the BLM GLO site.
 
-This recipe's own contribution is the routing row, the party-role table, the two-locator rule, the tract-book observation log and the return packet. The presenters supply the examples, the record-series distinctions and the feasibility questions.
+This recipe's own contribution is the routing row, the party-role table, the two-locator rule, the tract-book observation log, the return packet, and the preliminary check distinguishing the 30 public-land states from the 20 state-land states. The presenters supply the examples, the record-series distinctions and the feasibility questions.
 
 ## Credits
 

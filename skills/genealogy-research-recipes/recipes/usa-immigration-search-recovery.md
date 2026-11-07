@@ -425,13 +425,16 @@ research has stalled at a generic USCIS request.
    Alien Registration form (AR-2). These are different objects. NARA's overview
    places C-File naturalizations from 27 September 1906 through 31 March 1956;
    subsequent naturalization records were filed in A-Files.
-2. For an A-File, inspect NARA's catalog entry and Contact(s). Save the name,
-   NAID and A-number. Transfer eligibility by age does not prove transfer.
-3. For AR-2, check the Flexoline Index's current coverage, then follow NARA's
-   AR-2 instructions. An indexed number can lack a corresponding form image;
-   the form may have moved into an A-File.
-4. For C-Files, use the USCIS Genealogy Program: a known valid certificate/file number allows a [Genealogy Records Request (G-1041A)](https://www.uscis.gov/sites/default/files/document/forms/g-1041ainstr.pdf); without that number, an Index Search Request (G-1041) may be needed first.
-   For other records outside the located NARA holdings, consult current USCIS instructions for the identified record type and available identifiers.
+2. For an A-File, inspect NARA's catalog entry and Contact(s). Save the name, NAID and A-number. Transferred historical A-Files from INS/USCIS are held primarily at two NARA facilities:
+   - **National Archives at Kansas City:** holds the vast majority of accessioned A-Files (over 7.5 million files from more than 30 INS district offices across the Midwest, East, and South).
+   - **National Archives at San Francisco (San Bruno, CA):** holds accessioned A-Files from the San Francisco, Honolulu, Reno, and Guam INS offices (approximately 800,000 files).
+   Search the National Archives Catalog or the A-Files index on Ancestry/Fold3 before ordering. Files for individuals born less than 100 years ago, or not yet accessioned by NARA, remain with USCIS and must be requested via FOIA or the USCIS Genealogy Program. Transfer eligibility by age does not prove transfer.
+3. For AR-2, check the Flexoline Index's current coverage, then follow NARA's AR-2 instructions. An indexed number can lack a corresponding form image; the form may have moved into an A-File.
+4. For C-Files and other USCIS historical records, use the USCIS Genealogy Program under the fee schedule effective 1 April 2024 (Form G-1055, 89 FR 6194):
+   - **Online Index Search (Form G-1041):** $30 fee when submitted online ($80 on paper).
+   - **Records Request (Form G-1041A):** $30 fee online ($80 on paper).
+   - **Single-step fulfillment:** Under the 2024 rule, if USCIS already holds a digitized copy of the record (as is standard for Alien Registration AR-2 forms, Visa Files, and many pre-1944 C-Files), USCIS provides the record directly from the $30 Index Search at no additional charge. A separate Form G-1041A records request is only required if the file exists solely in microfilm or paper format and requires manual retrieval.
+   For other records outside located NARA holdings, consult current USCIS instructions for the identified record type and available identifiers.
 
 Alongside an A-file lead, search supported spouses, former spouses, siblings or travel
 companions as separate file candidates in the catalogues or collections actually available.

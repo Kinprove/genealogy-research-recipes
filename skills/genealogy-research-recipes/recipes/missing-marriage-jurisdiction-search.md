@@ -8,6 +8,14 @@ Log the residence-county search as one row: jurisdiction, office, record series 
 
 Before searching, confirm which county the residence lay in at the marriage date, not today. Jurisdiction depends on when as well as where [S15]. The cut-off part of Conway County, Arkansas, described below, was itself part of Perry County from 1840 to 1873.
 
+Confirm civil marriage recording existed at the date. Several states did not mandate county-level marriage licensing or civil registration until late in the 19th or early 20th century. Before searching a county courthouse or declaring a record missing, verify that civil marriage registration was legally established:
+
+- **Pennsylvania:** Before the Marriage License Act of 23 June 1885 (effective 1 October 1885), Pennsylvania had no county marriage licensing system (except for an unenforced recording attempt in 1852–1855). Pre-October 1885 marriages were private or religious contracts recorded in church registers or family bibles, so courthouse searches will fail.
+- **New York:** Statewide civil registration began in 1880/1881, but county marriage licenses were not required until the Marriage License Law of 1907 (effective 1 January 1908).
+- **South Carolina:** Did not require civil marriage licenses until 1 July 1911.
+
+If the marriage predates civil licensing in that jurisdiction, direct searches to church registers, minister journals, and newspaper notices instead of civil courthouses.
+
 ## Keep residence, licence and ceremony places apart
 
 Add a row for each party's residence county and a separate row for the county where the ceremony took place, if it is known or suspected. In a Pennsylvania teaching example, the bride, groom and ceremony are in three different counties, and the presenter says to search all three [S12], [S13]. Don't assume the licence sits in the ceremony county. Current Pennsylvania county guidance says a licence can be taken out in any county and used anywhere in the Commonwealth. The marriage is recorded in the county that issued the licence, and that is where the officiant's return goes. That guidance is present-day practice. For an older marriage, record the period rule as an open question and search every residence county and the ceremony county until it is settled. Record the issuing county and the ceremony county as separate fields, even when they turn out to be the same. Search for the record in the issuing county.
@@ -43,7 +51,7 @@ Add military, training or work postings. Pull the groom's service record and add
 
 ## Investigate the county where the record should be
 
-If the evidence strongly points to one county and the record is still missing, ask the clerk, the county historian or local genealogists how records were kept there. One presenter reports a reader's case: a justice of the peace married couples but never turned his register in to the clerk, and then left town [S9]. Look for minister or circuit-rider journals in denominational archives and local museums. Search for them through ArchiveGrid and PERSI [S9]. PERSI can be searched on Findmypast and on the Allen County Public Library's own PERSI search. Their result counts differ, so search both. If county records were lost, check what survived before writing the county off, and turn to church records and newspapers [S11].
+If the evidence strongly points to one county and the record is still missing, ask the clerk, the county historian or local genealogists how records were kept there. One presenter reports a reader's case: a justice of the peace married couples but never turned his register in to the clerk, and then left town [S9]. Look for minister or circuit-rider journals in denominational archives and local museums. Search for them through ArchiveGrid and PERSI [S9]. The Allen County Public Library (ACPL) Genealogy Center search is the official, continuously updated home of PERSI; Findmypast's PERSI partnership ended in 2021 and its database is a static legacy copy. If county records were lost, check what survived before writing the county off, and turn to church records and newspapers [S11].
 
 ## Carry each hit to the original and close the list
 

@@ -2,7 +2,7 @@
 
 - **S1:** BYU Family History Library / Laura Lefler, [How to Learn About My Civil War Ancestors Part 2](https://www.youtube.com/watch?v=tD9lgibwBRE), published 2024-11-19. Used for:
   - the Class 1 "subject to" wording, the class age limits, and the John B. Ellis registered-but-never-served example;
-  - the 1880s compilation date, recorded here as a discrepancy;
+  - the 1880s carding start date (originated in 1887 under Ainsworth for medical records);
   - the Isaiah Tipton comparison of cards with regimental history (sick at Shiloh) and the 5th Florida battle list.
 - **S2:** Genealogy Gems, [Episode 180](https://www.youtube.com/watch?v=ZQphL9PifPI), published 2016-12-23. Used for: the CWSS sailor-coverage statement read aloud, and the routing to Navy sources and published local lists (Manchester Men).
 - **S3:** GeneaVlogger, [Building Elon Musk's Family Tree](https://www.youtube.com/watch?v=ysOIQ6Ioyf4), published 2024-01-26. Used for: the "tr." remark, the roster's date column and "January 4th" transfer entries, the 95th/47th Illinois record-of-events comparison, and the presenter's speculative transfer window.

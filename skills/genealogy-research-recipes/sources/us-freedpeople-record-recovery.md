@@ -49,7 +49,7 @@ The Freedman's Bank, Last Seen and Enslaved.org entries rest on the custodians' 
 
 **Not covered by the cited sources:** county free-registration books. This recipe makes no claims about their fields. No source shows that the Freedman's Bank claim questionnaires can replace a lost branch register.
 
-**Not verified independently:** that a non-NARA Bureau finding aid keeps NARA's order but leaves out roll numbers (S30's 2025 report only), the "all her issue" form of the bequest (S37 only; that a bare bequest of "increase" usually meant later-born children unless the will showed otherwise follows North Carolina case law such as Reddick, 29 N.C. 87, and Williamson v. Williamson, 57 N.C. 281 (1858), not S37), and the current coverage of the Mapping the Freedmen's Bureau site.
+**Not verified independently:** that a non-NARA Bureau finding aid keeps NARA's order but leaves out roll numbers (S30's 2025 report only), the "all her issue" form of the bequest (S37 only; that a bare bequest of "increase" usually meant later-born children unless the will showed otherwise follows North Carolina case law such as Reddick, 29 N.C. 87, and Williamson v. Williamson, 57 N.C. 281 (1858), not S37), and the current coverage of the Mapping the Freedmen's Bureau site. Author synthesis also adds digital access paths on FamilySearch, Ancestry, NARA Catalog, and Smithsonian NMAAHC for Freedmen's Bureau series (M1900–M1913, M1875) and Freedman's Bank signature registers (M816).
 
 ## Credits
 

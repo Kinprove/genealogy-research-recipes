@@ -5,8 +5,11 @@
 - **S3:** Denyse Allen, [How I Use AI for Genealogy (after 1,000 hours)](https://www.youtube.com/watch?v=NUw100TkacQ), published 2025-11-14. Used for: a newspaper lead to a Western District of Pennsylvania suit; the handwritten loose file obtained from NARA's Philadelphia branch; the co-defendant and plaintiff named in the case.
 
 The order of steps, the series status inventory, the bounded-negative rule and the closing packet
-are authored synthesis. The sources supply the court history, examples and retrieval experience
-as the presenters reported them. No AI transcription method is adopted here.
+are authored synthesis. Author synthesis also includes the distinction between modern bankruptcy
+consolidation at NARA Kansas City and regional NARA RG 21 custody for earlier historical cases,
+as well as the four federal bankruptcy act periods (1800, 1841, 1867, 1898). The sources supply
+the court history, examples and retrieval experience as the presenters reported them. No AI
+transcription method is adopted here.
 
 ## Credits
 

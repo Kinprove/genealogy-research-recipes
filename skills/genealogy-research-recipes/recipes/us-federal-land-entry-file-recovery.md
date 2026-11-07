@@ -4,13 +4,37 @@ Use this recipe when a person may have acquired federal public-domain land, whet
 
 Overlapping steps belong to sibling recipes. For the pension and bounty-land *application* packet and its custodian, use [military pension file recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md). For warrant/survey/patent stages and later county conveyances, use [land index and book-series recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/land-index-book-series-recovery.md). For packet-versus-selected-image boundaries, use [Ancestry record search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md). For identity and kinship rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 
+## Contents
+
+- What goes wrong
+- 0\. Confirm the land lies in a public-land state
+- 1\. Route the entry by authority
+- 2\. Keep the two bounty-land series apart
+- 3\. Build the party-role table before interpreting anyone
+- 4\. If GLO has no name hit, check NARA's cancelled-entry name indexes, then get a legal description
+- 5\. Read the tract book, not just the target line
+- 6\. Decide whether a no-description search is worth running
+- 7\. Request and inventory the RG 49 case file
+- 8\. Optional: neighbouring patentees as FAN candidates
+- Return packet
+
 ## What goes wrong
 
 - Stopping at the patent image. The digitized GLO item is the final grant or warrant image, often a single page. It is not the entry file. [S1], [S4], [S5]
 - Treating a failed GLO name search as proof that no claim existed. The GLO site indexes completed patents. Cancelled, relinquished or otherwise incomplete entries never became patents and do not appear there. [S3], [S14]
+- Searching BLM-GLO or NARA RG 49 for land in a state-land state (e.g., Pennsylvania, Virginia, Kentucky, Tennessee, Texas), where the federal government never owned public land.
 - Merging the bounty-land warrant *application* with the land *entry* file. They are separate series. The application files are in RG 15 and the entry files are in RG 49. [S2], [S1]
 - Assuming that the person who located a warrant served, was related to the veteran or lived on the land. [S1], [S8], [S9], [S10], [S13]
 - Reading a patent, or a neighbouring patentee, as evidence of residence. [S11]
+
+## 0. Confirm the land lies in a public-land state
+
+Before querying BLM-GLO records or NARA RG 49, confirm whether the land lies in a **public-land state** or a **state-land state**:
+
+- **30 Public-Land States:** (Alabama, Alaska, Arizona, Arkansas, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kansas, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico, North Dakota, Ohio, Oklahoma, Oregon, South Dakota, Utah, Washington, Wisconsin, Wyoming). In these states, title originated with the federal government, land was surveyed under the Public Land Survey System (PLSS: section, township, range), and original patents and land-entry case files are held by the BLM and NARA RG 49.
+- **20 State-Land States:** The original 13 colonies (Connecticut, Delaware, Georgia, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Virginia), plus Maine, Vermont, West Virginia, Kentucky, Tennessee, Texas, and Hawaii. In these states, the federal government never owned the public domain or issued patents; land was granted by the crown, proprietors, state land offices, or independent republics (e.g., Texas General Land Office, Pennsylvania Bureau of Land Records, Virginia State Land Office).
+
+Searching BLM-GLO or NARA RG 49 for state-land states is a category error. If the land lies in a state-land state, route the search directly to the relevant state archives or state land office.
 
 ## 1. Route the entry by authority
 

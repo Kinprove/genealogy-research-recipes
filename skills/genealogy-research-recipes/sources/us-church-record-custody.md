@@ -19,7 +19,7 @@
 - **S17:** Family History Fanatics, [Genealogy Research: How to Research When Records Have Scanty information](https://www.youtube.com/watch?v=gsbQIuilOYk), published 2020-12-05. Used for: the minister's return, the "M.G." title, resolving the officiant from other entries and relatives' marriages, and directories and newspapers.
 - **S18:** Lisa Lisson, [15 Strategies to Help You Find a "Missing" Ancestor](https://www.youtube.com/watch?v=pktHqpCrP3g), published 2024-03-07. Used for: church-news columns revealing unknown congregations, and consulting local societies.
 
-The four-state negative ledger, the candidate register fields, the order of steps and the treatment of membership dates as brackets are authored synthesis. The presenters supply the denomination-specific examples, the custody routes and the index limits.
+The four-state negative ledger, the candidate register fields, the order of steps and the treatment of membership dates as brackets are authored synthesis. Author synthesis also accounts for the identification of Concordia Historical Institute as the Lutheran Church–Missouri Synod archive, mandatory Catholic burial registration under canon law and the Baltimore plenary councils, Quaker monthly meeting custody (Swarthmore, Haverford, Guilford, Earlham, Hinshaw), and Methodist (GCAH at Drew) and Episcopal diocesan custody structures. The presenters supply the denomination-specific examples, the custody routes and the index limits.
 
 ## Credits
 

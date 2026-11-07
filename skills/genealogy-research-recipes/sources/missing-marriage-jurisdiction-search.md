@@ -17,7 +17,7 @@ Based on recorded talks (reviewed 2026-10-20). No statute, Census Bureau report,
 - **S15:** BYU Family History Library / Laurie Castillo, [Jurisdiction = When + Where](https://www.youtube.com/watch?v=S_X6RH7iugM), 2017-03-03. Conway/Perry County, Arkansas river example; local Gretna Greens; travel to a preferred church; jurisdiction tied to date as well as place.
 - **S16:** Lisa Lisson, [LIVE Genealogy Chat – Answering Readers' Questions](https://www.youtube.com/watch?v=2vfiVf3pnEo), 2021-05-07. Searching the FamilySearch Wiki for Gretna Greens; adding a date range to web searches for local Gretna Greens because destinations changed.
 
-The ranked list, its columns and outcome codes, the separate issuing and ceremony fields, and the rule against concluding anything before closure are authored synthesis. The presenters supply the worked examples and the tools they named.
+The ranked list, its columns and outcome codes, the separate issuing and ceremony fields, and the rule against concluding anything before closure are authored synthesis. Author synthesis also includes verifying historical civil registration mandates (such as Pennsylvania's 1885 act, New York's 1907 act, and South Carolina's 1911 requirement) and updating PERSI custody to ACPL. The presenters supply the worked examples and the tools they named.
 
 ## Credits
 

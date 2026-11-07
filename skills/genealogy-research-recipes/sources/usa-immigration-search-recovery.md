@@ -256,6 +256,8 @@ the relevant workflow. Community references:
     1920–1939, and the surviving statistical copies of the 1907/08 and 1913/14
     lists.
 
+Author synthesis also includes the identification of A-Files holding facilities (NARA Kansas City and NARA San Francisco at San Bruno) and the 1 April 2024 USCIS fee schedule updates (Form G-1055, $30 online index search with digital fulfillment at no extra charge).
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

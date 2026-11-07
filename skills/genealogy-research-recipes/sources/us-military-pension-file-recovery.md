@@ -99,7 +99,8 @@ The linked routing, request-receipt and image/timeline schemas are original synt
 - **H1:** National Archives,
   [Requesting Copies of Older Military Service Records](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records),
   page reviewed 16 January 2026; checked 7 October 2026. Request forms, federal scope and
-  complete-file versus Pension Documents Packet products.
+  complete-file versus Pension Documents Packet products. Author synthesis includes the table of
+  major federal pension index series (T288, T289, M804, M313, T316, T317, T318, M1279) and NATF 85 fee schedules.
 - **H2:** National Archives,
   [Genealogy Research in Military Records](https://www.archives.gov/research/military/genealogy),
   checked 7 October 2026. Record-type, service category and custodian routing.
