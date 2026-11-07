@@ -15,6 +15,7 @@ SPEC.loader.exec_module(lookup)
 COMPANIONS = "### Sacred names and their vernacular companions"
 CHECK_ENTRIES = "### Entries to check against the dictionary"
 CODE = re.compile(r"`([^`]+)`")
+KEY_OPTION = re.compile(r"`--key ([^`]+)`")
 
 
 def table_rows(text, heading):
@@ -46,7 +47,7 @@ class BeiderRecipeKeyTests(unittest.TestCase):
             keys = CODE.findall(row[2])
             self.assertTrue(keys, f"no article key in row {row}")
             for key in keys:
-                self.assertIn(lookup.normalize_name(key), self.keys["male"], f"unknown male article {key}")
+                self.assertTrue(lookup.normalize_name(key) in self.keys["male"], f"unknown male article {key}")
 
     def test_every_entry_to_check_is_in_the_stated_index(self):
         rows = table_rows(self.text, CHECK_ENTRIES)
@@ -60,6 +61,8 @@ class BeiderRecipeKeyTests(unittest.TestCase):
             for key in keys:
                 pair = (lookup.normalize_name(name), lookup.normalize_name(key))
                 self.assertIn(pair, pairs, f"{sex} index has no row {pair}")
+            for key in KEY_OPTION.findall(row[3]):
+                self.assertTrue(lookup.normalize_name(key) in self.keys[sex], f"`--key {key}` names no {sex} article")
 
     def test_table_reader_stops_at_the_next_heading(self):
         text = f"{COMPANIONS}\n\n| A | B | C |\n| --- | --- | --- |\n| x | y | `Z` |\n\n### Next\n\n| A | B | C |\n| q | r | `S` |\n"
