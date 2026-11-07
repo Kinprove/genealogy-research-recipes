@@ -12,6 +12,9 @@ __pycache__/
 
 # Packaging / build artifacts
 *.zip
+*.tgz
+node_modules/
+.playwright-mcp/
 build/
 dist/
 tmp/
