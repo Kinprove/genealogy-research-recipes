@@ -1,6 +1,6 @@
 ## Sources
 
-Based on recorded talks (reviewed 2026-10-20). No statute, Census Bureau report, map, bond or register was inspected.
+Based on recorded talks (reviewed 2026-10-20). No statute, Census Bureau report, map, bond or register was inspected. The state rules on civil marriage records (S17–S24) and PERSI's hosting (S25, S26) rest on custodians' and archives' pages read on 2026-11-07, not on the statutes themselves.
 
 - **S1:** BYU Family History Library / James Tanner, [What Makes Vital Records So Vital](https://www.youtube.com/watch?v=aBUxLGm1_uY), 2017-08-24. Gretna Green concept; the bride's location having more influence on where a marriage happened; Nevada's laxer residency and blood-test rules and Mexico as period destinations.
 - **S4:** BYU Family History Library / James Tanner, [Using First Level Genealogical Sources](https://www.youtube.com/watch?v=KTHR-RiI3c4), 2016-10-20. Lists of Gretna Green places in the FamilySearch Research Wiki; examples in New England and the South.
@@ -16,9 +16,19 @@ Based on recorded talks (reviewed 2026-10-20). No statute, Census Bureau report,
 - **S14:** Lisa Lisson, [Answering Reader's Common Questions!](https://www.youtube.com/watch?v=jYj1VD1naSA), 2023-02-10. Marriage found in a sister's home county; wartime haste; FamilySearch Wiki charts.
 - **S15:** BYU Family History Library / Laurie Castillo, [Jurisdiction = When + Where](https://www.youtube.com/watch?v=S_X6RH7iugM), 2017-03-03. Conway/Perry County, Arkansas river example; local Gretna Greens; travel to a preferred church; jurisdiction tied to date as well as place.
 - **S16:** Lisa Lisson, [LIVE Genealogy Chat – Answering Readers' Questions](https://www.youtube.com/watch?v=2vfiVf3pnEo), 2021-05-07. Searching the FamilySearch Wiki for Gretna Greens; adding a date range to web searches for local Gretna Greens because destinations changed.
+- **S17:** Pennsylvania State Archives, [Marriage Records](https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/vital-records/marriage-records), read 2026-11-07. Marriage licences issued by the clerk of the Orphans' Court of each county since 30 September 1885.
+- **S18:** Pennsylvania State Archives, [Vital Statistics Records](https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/vital-statistics-records), read 2026-11-07. The 1852–1854 returns of 49 of the 64 counties, kept by the local Registers of Wills.
+- **S19:** Chester County Archives, [Marriage Records](https://www.chesco.org/1174/Marriage-Records), read 2026-11-07 in the Internet Archive capture of 2025-11-05. The act of 23 June 1885 taking effect on 1 October 1885, and the county's marriage records for 1852–1855.
+- **S20:** City of Philadelphia, [Get archival birth, death, and marriage records](https://www.phila.gov/services/birth-marriage-life-events/get-archival-birth-death-and-marriage-records/), read 2026-11-07. Civil marriage records from July 1860 to December 1885 at the City Archives.
+- **S21:** New York State Archives, [Birth, Marriage, and Death Records](https://www.archives.nysed.gov/research/birth-marriage-death-records), read 2026-11-07. Statewide registration from 1880–81 and the marriage index from 1881.
+- **S22:** New York State Department of Health, [Genealogy Records & Resources](https://www.health.ny.gov/vital_records/genealogy.htm), read 2026-11-07. New York City records outside the state index; Albany, Buffalo and Yonkers marriages before 1908 held by those cities.
+- **S23:** New York Genealogical and Biographical Society, [City Clerk's Marriage Licenses, New York City, 1908–1937](https://www.newyorkfamilyhistory.org/content/city-clerks-marriage-licenses-new-york-city-1908-1937-one-20th-century-genealogys-best), read 2026-11-07. Licences required from 1 January 1908 and issued by city and town clerks.
+- **S24:** South Carolina State Library, [Vital Records](https://guides.statelibrary.sc.gov/genealogy/vitalrecords), read 2026-11-07. Marriage licences required from 1 July 1911 and issued by the probate judge's office.
+- **S25:** Allen County Public Library Genealogy Center, [PERSI](https://www.genealogycenter.info/persi), read 2026-11-07 in the Internet Archive capture of 2026-09-03 (the live site refused automated access). PERSI compiled by ACPL staff, with more than 3.2 million citations in its free search.
+- **S26:** Findmypast, [Periodical Source Index](https://www.findmypast.com/discover/newspapers-directories-and-social-history/directories-and-almanacs/periodical-source-index), read 2026-11-07 in the Internet Archive capture of 2025-09-09. Findmypast's PERSI copy, about 3.1 million entries, with article images for some entries.
 
 The ranked list, its columns and outcome codes, the separate issuing and ceremony fields, and the rule against concluding anything before closure are authored synthesis. The presenters supply the worked examples and the tools they named.
 
 ## Credits
 
-- Kinprove original procedural synthesis; presenter worked examples and named tools cited as S1, S4 to S16 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; presenter worked examples and named tools cited as S1, S4 to S16; state record facts and PERSI hosting from the custodians' pages S17 to S26, paraphrased — FSL-1.1-MIT (kinprove-original)

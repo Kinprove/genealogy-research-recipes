@@ -14,10 +14,13 @@
 - **S12:** BYU Family History Library / Marilyn Thomsen, [Military Research: What and When](https://www.youtube.com/watch?v=C2_9AVcodcg), published 2024-08-20. Used for: warrant documents reached from the BLM database naming widow, rank, unit and death; state rules differing.
 - **S13:** BYU Family History Library / Ann Tanner, [FamilySearch Activities: Focus on Military Service](https://www.youtube.com/watch?v=fBcU1YJejjo), published 2025-04-25. Used for: carrying pension details into the BLM search and finding the bounty land sold to another person.
 - **S14:** BYU Family History Library / Nicky Smith, [Using Google Earth Pro](https://www.youtube.com/watch?v=hmWIsFMbQyg), published 2021-10-13. Used for: a relinquished homestead not appearing on the BLM GLO site.
+- **S15:** National Archives, [Land Entry Case Files and Related Records](https://www.archives.gov/research/land/land-records), read 2026-11-07. Used for: the lists of the 30 public-land states and of the states that never were public-land states.
+- **S16:** TNGenWeb, transcriptions of the [compact of 1806](https://tngenweb.org/tnland/1806/) and the [act of 7 August 1846](https://tngenweb.org/law/18460807.html), read 2026-11-07; secondary transcriptions of the statutes. Used for: the lands south and west of the Congressional Reservation Line left to the United States in 1806, surrendered in 1846, and granted by Tennessee in the meantime.
+- **S17:** Ohio History Connection, [Virginia Military District](https://ohiohistory.libguides.com/land/virginiamilitarydistrict), read 2026-11-07. Used for: Virginia Military District land beginning with Virginia warrants, and its federal patents being searchable on BLM-GLO.
 
-This recipe's own contribution is the routing row, the party-role table, the two-locator rule, the tract-book observation log and the return packet. The presenters supply the examples, the record-series distinctions and the feasibility questions.
+This recipe's own contribution is the routing row, the party-role table, the two-locator rule, the tract-book observation log and the return packet. The public-land-state check rests on S15 to S17. The presenters supply the examples, the record-series distinctions and the feasibility questions.
 
 ## Credits
 
 - BYU Family History Library, Nicky Smith, United States Bureau of Land Management Tract Books, video published 2019-07-01 — Standard YouTube license, all rights reserved by the rights holder; brief quotation used for commentary and attribution (quoted)
-- Kinprove original procedural synthesis; presenter examples and record-series distinctions are cited as S1 through S14; NARA request fields, file periods and Kansas City index coverage are paraphrased from NARA public pages — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; presenter examples and record-series distinctions are cited as S1 through S14; NARA request fields, file periods and Kansas City index coverage are paraphrased from NARA public pages; the public-land-state check is paraphrased from S15 to S17 — FSL-1.1-MIT (kinprove-original)

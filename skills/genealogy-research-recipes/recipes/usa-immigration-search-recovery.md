@@ -426,14 +426,29 @@ research has stalled at a generic USCIS request.
    places C-File naturalizations from 27 September 1906 through 31 March 1956;
    subsequent naturalization records were filed in A-Files.
 2. For an A-File, inspect NARA's catalog entry and Contact(s). Save the name,
-   NAID and A-number. Transfer eligibility by age does not prove transfer.
+   NAID and A-number. NARA receives A-Files 100 years after the person's birth
+   year. Transfer eligibility by age does not prove transfer. In August 2025
+   the National Archives at Kansas City held more than 1.5 million A-Files,
+   from across the United States. The National Archives at San Francisco (San
+   Bruno) held more than 300,000, from the San Francisco, Honolulu, Reno and
+   Guam offices. Check both. The Catalog lists the name of everyone in NARA's
+   A-File holdings, so search it by name.[47] A file not yet transferred stays
+   with USCIS. Its Genealogy Program accepts only A-Files numbered below 8
+   million; a higher number needs a FOIA request.[56]
 3. **Privacy gate:** <!-- privacy-gate: request --> An AR-2 or C-File request
    sends the identifiers of a registrant or naturalized person, who may be
    living, to NARA or USCIS; answer the privacy gate in `SKILL.md` first.
    For AR-2, check the Flexoline Index's current coverage, then follow NARA's
-   AR-2 instructions. An indexed number can lack a corresponding form image;
-   the form may have moved into an A-File.
+   AR-2 instructions. USCIS does not process AR-2 requests received on or after
+   17 May 2024; the forms are now requested from NARA.[36,57] An indexed number
+   can lack a corresponding form image; the form may have moved into an A-File.
 4. For C-Files, use the USCIS Genealogy Program: a known valid certificate/file number allows a [Genealogy Records Request (G-1041A)](https://www.uscis.gov/sites/default/files/document/forms/g-1041ainstr.pdf); without that number, an Index Search Request (G-1041) may be needed first.
+   Under the fee rule in force since 1 April 2024, each request costs $30 online
+   or $80 on paper (fee schedule G-1055, read 2026-11-07).[58,59] When USCIS
+   already holds a record in digital form, it sends the electronic copy with the
+   index search result at no extra fee. A record kept only on paper or microfilm
+   still needs a G-1041A.[59] USCIS says most C-Files exist only on microfilm,
+   so expect that second step for a C-File.[60]
    For other records outside the located NARA holdings, consult current USCIS instructions for the identified record type and available identifiers.
 
 Alongside an A-file lead, search supported spouses, former spouses, siblings or travel

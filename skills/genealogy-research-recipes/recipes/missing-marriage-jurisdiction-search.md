@@ -8,6 +8,14 @@ Log the residence-county search as one row: jurisdiction, office, record series 
 
 Before searching, confirm which county the residence lay in at the marriage date, not today. Jurisdiction depends on when as well as where [S15]. The cut-off part of Conway County, Arkansas, described below, was itself part of Perry County from 1840 to 1873.
 
+Then confirm which civil marriage records were kept there at that date. Some states began marriage licences late, but the start of licensing is not the start of civil recording. Check what the place actually kept before reading a no-hit:
+
+- **Pennsylvania:** county marriage licences, issued by the clerk of the Orphans' Court, began on 1 October 1885 under an act of 23 June 1885 [S17], [S19]. Earlier, a registration law of 1852–1855 had county Registers of Wills record marriages. The State Archives holds the 1852–1854 returns of 49 of the 64 counties [S18]. Philadelphia's City Archives holds civil marriage records from July 1860 to December 1885 [S20].
+- **New York:** statewide marriage registration began in 1880–81, and the state marriage index starts in 1881 [S21]. Licences were required from 1 January 1908 and were issued by city and town clerks, not counties [S23]. New York City keeps its own marriage records outside the state index, and Albany, Buffalo and Yonkers marriages before 1908 are with those cities' clerks [S22].
+- **South Carolina:** marriage licences, issued by the county probate judge, began on 1 July 1911 [S24].
+
+For a marriage before licensing, list the civil series that survive for that place and date, such as registers, returns, bonds or city records. Search church registers, minister records and newspapers alongside them, not instead of them. A civil no-hit counts only for a series that covered that place and date.
+
 ## Keep residence, licence and ceremony places apart
 
 Add a row for each party's residence county and a separate row for the county where the ceremony took place, if it is known or suspected. In a Pennsylvania teaching example, the bride, groom and ceremony are in three different counties, and the presenter says to search all three [S12], [S13]. Don't assume the licence sits in the ceremony county. Current Pennsylvania county guidance says a licence can be taken out in any county and used anywhere in the Commonwealth. The marriage is recorded in the county that issued the licence, and that is where the officiant's return goes. That guidance is present-day practice. For an older marriage, record the period rule as an open question and search every residence county and the ceremony county until it is settled. Record the issuing county and the ceremony county as separate fields, even when they turn out to be the same. Search for the record in the issuing county.
@@ -43,7 +51,7 @@ Add military, training or work postings. Pull the groom's service record and add
 
 ## Investigate the county where the record should be
 
-If the evidence strongly points to one county and the record is still missing, ask the clerk, the county historian or local genealogists how records were kept there. One presenter reports a reader's case: a justice of the peace married couples but never turned his register in to the clerk, and then left town [S9]. Look for minister or circuit-rider journals in denominational archives and local museums. Search for them through ArchiveGrid and PERSI [S9]. PERSI can be searched on Findmypast and on the Allen County Public Library's own PERSI search. Their result counts differ, so search both. If county records were lost, check what survived before writing the county off, and turn to church records and newspapers [S11].
+If the evidence strongly points to one county and the record is still missing, ask the clerk, the county historian or local genealogists how records were kept there. One presenter reports a reader's case: a justice of the peace married couples but never turned his register in to the clerk, and then left town [S9]. Look for minister or circuit-rider journals in denominational archives and local museums. Search for them through ArchiveGrid and PERSI [S9]. Search PERSI first in the free search of the Allen County Public Library (ACPL): ACPL staff compile PERSI, and this copy is the larger one. Findmypast also carries PERSI, with fewer entries but images of some articles, so use it as a second search and for those images [S25], [S26]. If county records were lost, check what survived before writing the county off, and turn to church records and newspapers [S11].
 
 ## Carry each hit to the original and close the list
 

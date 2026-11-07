@@ -1250,7 +1250,7 @@
  {
   "recipe": "us-20th-century-military-service-reconstruction.md",
   "kind": "request",
-  "action": "Request routes: Standard Form 180 (SF-180) by mail, an in-person visit to St. Louis by appointment",
+  "action": "Request routes: NARA's online request system, eVetRecs",
   "checkpoint": "A personnel-file request sends the veteran's identity and, for a non-archival file, a signed authorization"
  },
  {

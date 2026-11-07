@@ -9,7 +9,7 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
   - ACPL staff in S8 say that when an author gives an article an oblique title (their example is "bones"), indexers add a plain subject such as cemetery records.
 
   [S2], [S7], [S8]
-- **Search PERSI where it is hosted now.** PERSI is now searched free on the ACPL Genealogy Center website, and the move from Findmypast is complete. Talks recorded before 2022 (S3, S7, S14) describe older Findmypast or HeritageQuest interfaces, so don't rely on their screen or access details.
+- **Search PERSI where it is hosted now.** Start with ACPL's own free PERSI search on the Genealogy Center website. ACPL staff compile PERSI, and this copy is the larger one. Findmypast still carries PERSI, with fewer entries but images of some articles, so use it as a second search and for those images. [S18], [S19] Talks recorded before 2022 (S3, S7, S14) describe older Findmypast or HeritageQuest interfaces, so don't rely on their screen or access details.
 - **German indexes: each one indexes to a different depth.** One presenter describes the three indexes the same way across four talks:
   - **Der Schlüssel:** nine volumes, each with locality, subject and surname indexes. All three are drawn only from article titles. He adds that the surname index also covers authors and compilers. A surname that appears only inside an article, such as a name in an extracted town census, is not indexed. [S4], [S10], [S11]
   - **Familiengeschichtliche Quellen:** a surname index only. He says it covers every surname in every article. [S4], [S13]
