@@ -113,6 +113,10 @@ def validate_header(m, body, filename, today):
         require(checked <= today, "checked is in the future")
         basis = m["checked_basis"]
         require(isinstance(basis, str) and bool(basis.strip()), "checked_basis must quote dated source evidence")
+        require(re.fullmatch(
+            r"(?:rechecked|checked|consulted|accessed|retrieved|verified|opened)(?: on)?\s+"
+            r"(?:20\d\d-\d\d-\d\d|\d{1,2} [A-Z][a-z]+ 20\d\d)", basis, re.I),
+            "checked_basis must name a source check, not a publication/capture date")
         dates = re.findall(r"20\d\d-\d\d-\d\d|\d{1,2} [A-Z][a-z]+ 20\d\d", basis)
         parsed = []
         for value in dates:
@@ -132,12 +136,14 @@ def recipe_references(text):
     External URLs are deliberately excluded: a GitHub/source URL is not a local
     recipe handoff. Bare slug names in bold are a supported routing notation.
     """
-    for target in re.findall(r"\[[^\]\n]*\]\(([^)\s]+)(?:\s+[^)]*)?\)", text):
+    targets = re.findall(r"\[[^\]\n]*\]\(([^)\s]+)(?:\s+[^)]*)?\)", text)
+    targets += re.findall(r"^ {0,3}\[[^\]\n]+\]:\s*<?([^\s>]+)>?", text, re.M)
+    for target in targets:
         url = urlsplit(target.strip("<>"))
         path = unquote(url.path)
         if url.scheme or url.netloc:
             continue
-        if path.endswith(".md") and ("recipes/" in path or "/" not in path):
+        if path.endswith(".md") and ("recipes/" in path or Path(path).parent == Path(".")):
             yield Path(path).stem
     for name in re.findall(r"`(?:recipes/)?([a-z0-9]+(?:-[a-z0-9]+)*)\.md(?:#[^`]+)?`", text):
         yield name

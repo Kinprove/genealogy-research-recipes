@@ -60,6 +60,7 @@ class RecipeCatalogTests(unittest.TestCase):
         for reference in ("[other](no-such-recipe.md)", "**`recipes/no-such-recipe.md`**",
                           "recipe **no-such-recipe**", "**recipes/no-such-recipe.md**",
                           "when this recipe names `russian-empire-immigration-research`",
+                          "[other](./no-such-recipe.md)", "[other][r]\n\n[r]: no-such-recipe.md",
                           "[other](../recipes/no-such-recipe.md#part)"):
             with self.subTest(reference=reference), self.assertRaisesRegex(catalog.CatalogError, "missing recipe"):
                 catalog.load_catalog(replacement=(self.metadata["id"] + ".md",
@@ -130,6 +131,9 @@ class RecipeCatalogTests(unittest.TestCase):
             catalog.validate_header(m, body, m["id"] + ".md", self.today)
         m["checked"], m["checked_basis"] = None, None
         with self.assertRaisesRegex(catalog.CatalogError, "dated source check"):
+            catalog.validate_header(m, body, m["id"] + ".md", self.today)
+        m["checked"], m["checked_basis"] = self.today.isoformat(), "published " + self.today.isoformat()
+        with self.assertRaisesRegex(catalog.CatalogError, "not a publication"):
             catalog.validate_header(m, body, m["id"] + ".md", self.today)
 
     def test_export_emits_header_and_regenerates_both_consumers(self):
