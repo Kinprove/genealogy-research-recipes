@@ -276,6 +276,12 @@
   "checkpoint": "Asking the tester or kit manager to confirm identity is contact"
  },
  {
+  "recipe": "bessarabia-moldova-record-routing.md",
+  "kind": "request",
+  "action": "for a register still inside the 100-year term, ask ASP",
+  "checkpoint": "A request to the Public Services Agency or to ANA for a register inside or near the 100-year term"
+ },
+ {
   "recipe": "burial-evidence-packet.md",
   "kind": "contact",
   "action": "the help pages direct you to the contributor for permission [P89]. The contributor is the contact",
@@ -1136,7 +1142,7 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Send a request for an older act to that state archive, not to the ДРАЦС.",
+  "action": "Send a request for an older act to that state archive, not to the ДРАЦС, unless",
   "checkpoint": "A Ukrainian civil-status request, even for an act over 75 years old, can name people who are still living"
  },
  {

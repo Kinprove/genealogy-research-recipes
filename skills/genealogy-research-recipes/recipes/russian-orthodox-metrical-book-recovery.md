@@ -18,7 +18,7 @@ Other recipes cover the overlapping steps:
 - **Kinship rulings.** For legitimacy labels, separation versus divorce, and the final kinship ruling, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
 - **Jewish records.** For Jewish rabbinate books and registration (приписка), use [Russian-Empire Jewish identity attribution](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md).
 - **Bessarabian books.** For Bessarabian metrical books of 1811–1923, which the National Archives Agency of Moldova (ANA) keeps in fond 211 by district opis (its op. 23 covers Tiraspol uezd of Kherson guberniya), use [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
-- **Galician books.** For Galician Greek Catholic and Roman Catholic books and the archives that hold them, use [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
+- **Galician and Bukovinian books.** For Galician Greek Catholic and Roman Catholic books, Bukovinian Orthodox books and the archives that hold them, use [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
 
 ## Contents
 
@@ -75,6 +75,7 @@ Every parish-year has two possible copies: the parish copy stayed at the church,
 - **Consistory copy.** Look in the consistory fond of the see that held the parish at the event date. A participant said the books for one locality were concentrated in the Ekaterinburg consistory fond, with some later dela transferred to the Kurgan archive. [S10]
 - **Parish copy.** Participants said parish copies passed through ZAGS offices into district or oblast archives (Shadrinsk or Kurgan in that case). Expect pre-1917 parish copies in the oblast archive, not the district one. A participant said it is pointless to look for pre-revolutionary files in Kamyshlov, because a Soviet-era instruction moved such files from district to oblast archives, and that any transfer should be marked in the inventory. [S10]
 - **Read the inventory for transfer notes.** A participant transcribed the inventory of one Shadrinsk-archive church fond (Ф. И-264). It marks several metrical-book dela as handed over to a district ZAGS (Батуринский ЗАГС), so treat that ZAGS as a separate holder. Another participant said a 1913 book for one parish might be in the Kurgan archive or in the district ZAGS. [S8]
+- **Books after 1917.** The decree of 18 (31) December 1917 recognised only civil marriage, set up civil registration offices and ordered church registers sent to the city, uezd and volost zemstvo boards. From the decree of 20 January (2 February) 1918, only civil offices kept acts of civil status. [S38], [S39] Church books still continued in places: the Irkutsk archive holds Orthodox metrical books of Irkutsk diocese for 1911–1922, and a 1924 circular dealt with church marriages concluded after 20 December 1917 in territory held by the Whites. [S41], [S42] Give a post-1917 parish-year three rows: the ZAGS archive, the oblast archive (consistory and church fonds), and any transfer the inventory notes. ZAGS act books stay with ZAGS for 100 years from each entry and then go to the state archive (Federal Law 143-FZ, art. 77). [S40] A book's place can still differ from what that term predicts: the Irkutsk archive received the 1911–1922 church books from the oblast ZAGS archive in 2008. [S42] Check both.
 - **Do not trust inventory titles.** Order the delo and check its contents:
   - A participant found dates in a delo that differed from its inventory entry, and leaves that clearly came from other documents. [S8]
   - Another said that in Perm many documents are hidden in inventories under other names. [S10]
@@ -117,6 +118,8 @@ In one worked case, an 1825 marriage entry named the bride as the daughter of a 
   - A birth entry for the bride was found.
   - Later, godparent links ran between the two families.
 - **The result.** The participant still called the attribution indirect. The bride's ages across six sources implied births from 1794 to 1808. Treat such a spread as a range that ranks candidates. A mismatch lowers a candidate's rank but does not exclude it. [S19]
+
+Dates written before 14 February 1918 are Old Style. [S43] A Soviet, ZAGS or émigré document may restate the same event in New Style, so a difference of 12 or 13 days is not by itself a conflict. Record both dates with their calendar. For the offsets and the 1918 switch, use [evidence/proof judgment: follow record versions and test disputed dates](evidence-proof-judgment.md#follow-record-versions-and-test-disputed-dates).
 
 ## 6. Recover a missing marriage
 
@@ -224,7 +227,7 @@ Copy each note in full, with its issuing body, date and number, as a separate ob
 
 ## 10. Use machine-read full-text search for leads, never for a negative
 
-Yandex «Поиск по архивам» (yandex.ru/archive) searches machine-recognised text of 18th- to early-20th-century metrical books, revision tales and confession lists. It names archives of Moscow and of the Astrakhan, Orenburg and Irkutsk regions, among others. Viewing a document needs a login, which the user does. [S26]
+Yandex «Поиск по архивам» (yandex.ru/archive) searches machine-recognised text of 18th- to early-20th-century metrical books, revision tales and confession lists. It names archives of Moscow and of the Astrakhan, Orenburg and Irkutsk regions, among others. Viewing a document needs a login, which the user does. [S26] Its catalogue (Источники) lists the holding archives in full: 29 on 8 October 2026, against about nine in July 2023. [S37] Have the logged-in user open the catalogue and record the archives it lists, with the date, before you treat a miss as a coverage gap.
 
 - **Search inside entries when file titles may use another village name.** A parish-book file title can use a village's second or later name, so a catalogue filter on one name can miss the file. The service searches the recognised text of the documents by surname or settlement. [S26], [S36] Search every name form of the village, group the hits by file and read the file titles before you declare a coverage gap.
 - **A miss is not a negative.** Full text finds only what the machine recognised. Log the volumes, years and pages that have no recognised text: a page without text is not a blank page. An archive missing from the results is not proof that the service lacks it.
