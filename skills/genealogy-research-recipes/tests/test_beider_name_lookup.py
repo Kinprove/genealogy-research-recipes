@@ -794,7 +794,8 @@ class BeiderLookupTests(unittest.TestCase):
 
     def test_cli_exits_quietly_when_stdout_closes_early(self):
         proc = subprocess.Popen(
-            [sys.executable, "-B", str(HELPER), "--name", "Гершель", "--limit", "50"],
+            # Keep the silence assertion specific to the CLI, excluding user startup hooks and warnings.
+            [sys.executable, "-I", "-B", str(HELPER), "--name", "Гершель", "--limit", "50"],
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
         )
