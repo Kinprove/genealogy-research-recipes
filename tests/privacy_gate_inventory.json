@@ -1086,6 +1086,12 @@
   "checkpoint": "A follow-up archive inquiry asks again about"
  },
  {
+  "recipe": "scottish-parish-statutory-record-recovery.md",
+  "kind": "request",
+  "action": "For an entry still inside the closure period, use the search result's",
+  "checkpoint": "A certificate of a younger entry can name people who may be living"
+ },
+ {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
   "action": "Ask whether that office's paper books for the year were searched, and how a missing record is found and entered",
