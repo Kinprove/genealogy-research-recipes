@@ -130,9 +130,14 @@ def check_entry(text, kind, action, checkpoint):
     for line in lines[checkpoint_line + 1 : action_line + 1]:
         if HEADING.match(line):
             raise AssertionError(f"a heading separates the checkpoint from the action: {line!r}")
-    kinds = [kinds for index, kinds, _, _ in markers(text) if index == checkpoint_line]
+    line_start = live.rfind("\n", 0, checkpoint_at) + 1
+    kinds = [
+        kinds
+        for index, kinds, _, start in markers(text)
+        if index == checkpoint_line and line_start + start < checkpoint_at
+    ]
     if not any(kind in found for found in kinds):
-        raise AssertionError(f"no {kind!r} marker on the checkpoint's first line: {lines[checkpoint_line]!r}")
+        raise AssertionError(f"no {kind!r} marker before the checkpoint on its line: {lines[checkpoint_line]!r}")
     return checkpoint_line
 
 
@@ -243,6 +248,14 @@ class CheckerSelfTests(unittest.TestCase):
         same_line = "## A\n\n2. Upload the file. **Privacy gate:** <!-- privacy-gate: upload --> Ask first.\n"
         with self.assertRaises(AssertionError):
             check_entry(same_line, "upload", "Upload the file", "Ask first")
+
+    def test_a_marker_after_the_checkpoint_text_does_not_guard(self):
+        text = (
+            "## A\n\nThe file holds living matches' data. Download the file. "
+            "**Privacy gate:** <!-- privacy-gate: export --> Answer the gate first.\n"
+        )
+        with self.assertRaises(AssertionError):
+            check_entry(text, "export", "Download the file", "The file holds living matches")
 
     def test_a_character_that_folds_to_several_keeps_positions(self):
         text = "## Straße\n\n**Privacy gate:** <!-- privacy-gate: upload --> Ask first.\n\nUpload the file.\n"
