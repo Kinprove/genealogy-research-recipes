@@ -70,8 +70,12 @@ For general FamilySearch jurisdiction and missed-person recovery, use
 ## Sweep for the full sibling group
 
 1. Search by surname only (forename blank) plus the mother's maiden surname
-   [S12], [S14], [S13], [S18]. The GRO search window is at most ±2 years, so each search covers five
-   years. Each search also takes one sex at a time [S12], [S13]. Start at, or just before, the
+   [S12], [S14], [S13], [S18]. Before you sweep, check that every window falls inside the GRO
+   online index's birth years (step 5 of "Reconcile copies"). For births from 1935 to 1983, sweep a copy of the
+   quarterly index (FreeBMD, Ancestry or Findmypast) instead; the copies carry the mother's maiden
+   surname only from the September quarter of 1911 [S39], [S40]. The GRO search window is at most
+   ±2 years, so each search covers five years. GRO's guide lists sex as a required field, so each
+   search takes one sex at a time [S12], [S13], [S38]. Start at, or just before, the
    marriage year. Run consecutive, non-overlapping windows, female and male, until the end of
    childbearing. Presenters stop 25–30 years after the marriage [S14] or at the census of
    interest [S7], [S13]. Log every window: year, ±, sex, district, maiden-name spelling.
@@ -117,10 +121,12 @@ For general FamilySearch jurisdiction and missed-person recovery, use
     mother's maiden surname, including dates before the marriage [S19], [S21], [S20]. If no
     marriage can be found, search all the children that way. In one presenter's case the
     presumed father's surname appeared as the children's middle name [S20].
-2. A dash or hyphen in the GRO maiden-name column generally means the mother's surname matches
-    the child's, often because she was unmarried [S21], [S22], [S14], [S19]. It is not proof. One
-    presenter warns that the parents' surnames can coincidentally be the same [S22]. Confirm
-    from the entry before attaching the child [S21].
+2. GRO's guide says a dash in the maiden-name column means no maiden surname was captured for
+    the entry: the informant did not give one, or it was not data-captured [S38]. Presenters read
+    a dash as a sign that the mother's surname matched the child's, often because she was
+    unmarried [S21], [S22], [S14], [S19]. GRO's guide does not say this, so treat it as a lead,
+    not proof. One presenter warns that the parents' surnames can coincidentally be the same
+    [S22]. Confirm from the entry before attaching the child [S21].
 
 ## Treat a marriage page as a candidate list
 
@@ -139,13 +145,20 @@ For general FamilySearch jurisdiction and missed-person recovery, use
 1. The FamilySearch "England and Wales birth registration" entries and Ancestry's
     GRO-titled index reproduce the GRO index [S5], [S7]. Match copies by district, quarter,
     volume and page, and count them as one observation, not as independent support.
-2. Copies do not all carry the same fields. The GRO online birth index gives the mother's
-    maiden surname, and FreeBMD and other copies may lack it [S13], [S19], [S21]. In one example,
-    FreeBMD had no maiden name for a child whose GRO entry showed a dash [S21]. FreeBMD is
-    volunteer-transcribed and incomplete [S21]. Its coverage starts with the September quarter
-    of 1837. Rule: when FreeBMD or an aggregator finds an entry, rerun its exact spelling in the
-    GRO index to get the maiden-name field or the age at death [S21], [S19]. A blank maiden name
-    in a copy is not a dash.
+2. Copies do not all carry the same fields. FreeBMD and the commercial copies reproduce the
+    printed quarterly index. The printed index added the mother's maiden surname to births from
+    the September quarter of 1911 and age at death from the March quarter of 1866; from the June
+    quarter of 1969, death entries give the date of birth instead of the age [S39]. Before those
+    quarters a copy has no such field to read or search. GRO built its online index from its own
+    digitised records and added the mother's maiden surname to earlier births "where possible"
+    [S38]. 2016 launch reports say it also gives ages at death for earlier deaths, but they
+    disagree on the first year [S41]. For births under 100 years old, the GRO index shows the
+    mother's maiden surname only if you entered it in the search [S38]. In one example, FreeBMD
+    had no maiden name for a child whose GRO entry showed a dash [S21]. FreeBMD is volunteer-transcribed and incomplete [S21]. Its coverage starts with the
+    September quarter of 1837. Rule: when FreeBMD or an aggregator finds an entry inside the GRO
+    online index's years (step 5), rerun its exact spelling in the GRO index to get the
+    maiden-name field or the age at death [S21], [S19]. A blank maiden name in a copy is not a
+    dash.
 3. Before linking a same-named death to a child, read the GRO age at death [S19], [S14].
     Searching by age needs a wide margin; one presenter uses at least five years [S14]. Also
     run the search without it, and compare the age you see.
