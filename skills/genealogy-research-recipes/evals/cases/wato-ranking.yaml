@@ -16,7 +16,7 @@
     },
     "optional_read_sections": {
       "evidence-proof-judgment": [
-        "Hard rules — apply these before you rule (the load-bearing directives)"
+        "Hard rules \u2014 apply these before you rule (the load-bearing directives)"
       ]
     }
   },
@@ -32,7 +32,7 @@
         "question": "Does it explain that odds are relative among entered hypotheses, refuse to treat rank as identity, and propose a discriminating tester, such as descent through a different child?"
       },
       {
-        "guardrail": "WATO-02",
+        "guardrail": "WATO-04",
         "question": "Does it ask whether pedigree collapse, endogamy or multiple relationship paths may apply?"
       }
     ]

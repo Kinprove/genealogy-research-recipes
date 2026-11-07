@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["separating same-named people, resolving conf
 triggers: ["separating same-named people", "resolving conflicting records", "weighing indirect vs negative evidence", "combining DNA with documents into ONE proof", "conditional placements", "discriminating hypothesis tests"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "EVIDENCE-PROOF-JUDGMENT-01", "text": "the human owns every ruling (merge/separate, conflict resolution, exhaustiveness, the final \"therefore proven\"); a provisional link can direct a search without establishing dependent ancestry. The model assembles and drafts but NEVER concludes."}, {"id": "PROOF-01", "text": "**You rule on identity and proof. The model assembles and drafts — it never concludes.**"}, {"id": "PROOF-02", "text": "**Keep same-name candidates in SEPARATE research projects** so their records never cross-contaminate."}, {"id": "PROOF-03", "text": "A converged match is evidence in the proof argument, not proof by itself."}]
+guardrails: [{"id": "EVIDENCE-PROOF-JUDGMENT-01", "text": "the human owns every ruling (merge/separate, conflict resolution, exhaustiveness, the final \"therefore proven\"); a provisional link can direct a search without establishing dependent ancestry. The model assembles and drafts but NEVER concludes."}, {"id": "PROOF-01", "text": "**You rule on identity and proof. The model assembles and drafts — it never concludes.**"}, {"id": "PROOF-02", "text": "**Keep same-name candidates in SEPARATE research projects** so their records never cross-contaminate."}, {"id": "PROOF-03", "text": "A converged match is evidence in the proof argument, not proof by itself."}, {"id": "PROOF-04", "text": "**Include a search that challenges the preferred version.**"}]
 handoff: ["ai-for-dna-research", "ai-for-documentary-records", "ancestry-record-search-recovery", "gedcom-research-export", "quaker-meeting-record-recovery", "unknown-parentage-wato"]
 checked: "2026-10-07"
 checked_basis: "accessed 2026-10-07"
@@ -59,6 +59,11 @@ Two consequences follow, and they are the whole recipe: (1) treat the model as a
 9. **Document each DNA test-taker's parent-child descent to the common ancestor BEFORE the match counts as evidence for that ancestor** — then require paper descent and genetic sharing to converge on **one** hypothesis, and judge match **quality**, not count. A converged match is evidence in the proof argument, not proof by itself.
 10. **On a collaborative tree, read the change log bottom-up** to recover the profile's original intended identity before untangling.
 11. **You rule on identity and proof. The model assembles and drafts — it never concludes.**
+12. **Include a search that challenges the preferred version.** In a parentage plan,
+    name what result would disconfirm the proposed link and which record could reveal
+    it. When the person, place or period is still unknown, make the record choice
+    conditional and ask for that context. Use the working-hypothesis procedure below;
+    a list of sources to confirm the preferred parents is not a test of the alternatives.
 
 ## What the HUMAN must own (never delegate to an AI conclusion)
 

@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["\"who is my unknown grandfather/father\", ad
 triggers: ["\"who is my unknown grandfather/father\"", "adoptee bio-family search", "WATO hypothesis scoring", "clustering matches to an ancestral couple", "tied hypotheses", "choosing a discriminating tester"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "UNKNOWN-PARENTAGE-WATO-01", "text": "WATO ranks placements on a tree **you already built**, gives **relative** odds among competing hypotheses (never a verdict), and breaks **silently** under endogamy / pedigree collapse / any multi-path match."}, {"id": "WATO-01", "text": "**The output is a set of competing hypotheses with *relative* odds — never a verdict.**"}, {"id": "WATO-02", "text": "WATO assumes single-path descent."}]
+guardrails: [{"id": "UNKNOWN-PARENTAGE-WATO-01", "text": "WATO ranks placements on a tree **you already built**, gives **relative** odds among competing hypotheses (never a verdict), and breaks **silently** under endogamy / pedigree collapse / any multi-path match."}, {"id": "WATO-01", "text": "**The output is a set of competing hypotheses with *relative* odds — never a verdict.**"}, {"id": "WATO-02", "text": "WATO assumes single-path descent."}, {"id": "WATO-04", "text": "When interpreting a reported ranking, ask whether pedigree collapse, endogamy or more than one relationship path could apply to these matches; do not replace the question with a generic warning."}]
 handoff: ["ai-for-dna-research", "ancestry-dna-match-investigation", "dna-comparison-controls", "dna-match-outreach-staging", "xdna-phasing-judgment"]
 checked: "2026-10-18"
 checked_basis: "checked 2026-10-18"
@@ -46,6 +46,11 @@ WATO does **not** find your ancestor. It **ranks where an unknown person could a
 2. **The math is only valid if each match has exactly one relationship path to the target, and the tree's founding couple is correct.** WATO assumes single-path descent. Pedigree collapse / endogamy / a match related through two lines silently invalidates the score — the tool has no way to know and will still rank confidently. (Family Locket, 2025-03-27)
 
 The reframe that keeps you sane: **DNA is a tool that complements your existing research skills, not a separate discipline** — genetic networks sort the matches; targeted DNA testing and/or documents close the case. (Diahan Southard, Your DNA Guide, 2025-11-19)
+
+When interpreting a reported ranking, ask whether pedigree collapse, endogamy or more
+than one relationship path could apply to these matches; do not replace the question
+with a generic warning. Ask for the other tested hypotheses and identify a relative
+whose test could distinguish them before proposing contact through the privacy gate.
 
 ## The reasoning arc — the human-owned sequence
 

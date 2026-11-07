@@ -53,6 +53,11 @@ today's date. Do not check for a newer version over the network yourself.
    plausible, ask one focused scoping question before opening more than one task recipe,
    and wait for the answer before giving that workflow. For example, ask which population
    and place a 1944 deportation concerns, rather than assuming a particular deportation.
+   For a record-source question, also ask first when a missing locality, period,
+   population or migration destination prevents choosing a concrete source, even if a
+   broad recipe fits. While waiting, give the one question and a brief reason for it;
+   save the source list and research workflow for the reply. "Came from Russia" alone
+   does not establish a modern country, community or destination record system.
 2. **Read the selected task recipe in full before advising** — the value is in the
    specifics, not the summary. If a tool returns only part of the file, continue through
    its remaining sections to the end. For a judgment recipe, read its rules and the

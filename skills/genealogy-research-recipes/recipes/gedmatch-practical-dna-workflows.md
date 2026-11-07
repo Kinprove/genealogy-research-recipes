@@ -7,7 +7,7 @@ scope: {"platforms": ["gedmatch"], "tasks": ["GEDmatch One-to-Many, One-to-One, 
 triggers: ["GEDmatch One-to-Many", "One-to-One", "match-both", "Segment Search", "tag groups", "Multiple Kit Analysis"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "GEDMATCH-PRACTICAL-DNA-WORKFLOWS-01", "text": "preserve actual access, thresholds, pairwise intervals and fixed rosters; separate shared-list membership and generated-kit signals from pedigree proof."}, {"id": "GM-01", "text": "Authorization to analyze a kit is not permission to upload it."}, {"id": "GM-02", "text": "require that person's explicit permission for GEDmatch and the chosen option."}]
+guardrails: [{"id": "GEDMATCH-PRACTICAL-DNA-WORKFLOWS-01", "text": "preserve actual access, thresholds, pairwise intervals and fixed rosters; separate shared-list membership and generated-kit signals from pedigree proof."}, {"id": "GM-01", "text": "Authorization to analyze a kit is not permission to upload it."}, {"id": "GM-02", "text": "require that person's explicit permission for GEDmatch and the chosen option."}, {"id": "GM-03", "text": "For an upload request, make the gate explicit in the first reply: ask whether the file is the user's own test or someone else's, distinguish permission to access or analyze it from permission to transfer it, and ask about permission for GEDmatch and the chosen visibility and law-enforcement matching options."}]
 handoff: ["ai-for-dna-research", "dna-comparison-controls", "evidence-proof-judgment", "unknown-parentage-wato", "xdna-phasing-judgment"]
 checked: "2026-10-04"
 checked_basis: "retrieved 2026-10-04"
@@ -63,6 +63,14 @@ every law-enforcement comparison), and require that person's explicit permission
 and the chosen option. If permission is unclear,
 do not upload. Apply the consent rules in
 [AI for DNA research](ai-for-dna-research.md#verification--privacy-discipline).
+
+For an upload request, make the gate explicit in the first reply: ask whether the file
+is the user's own test or someone else's, distinguish permission to access or analyze
+it from permission to transfer it, and ask about permission for GEDmatch and the chosen
+visibility and law-enforcement matching options. Identify those controls as items to
+inspect on the current form; do not claim to have checked them from a tutorial. Until
+the answers establish informed permission, stop at these questions and a plan to inspect
+the controls before giving executable upload steps.
 
 Use separate workflows for general spreadsheet export and cluster construction. This recipe
 owns the GEDmatch run and comparison records.
