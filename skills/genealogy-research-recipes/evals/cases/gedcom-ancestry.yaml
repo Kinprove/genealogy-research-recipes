@@ -1,0 +1,39 @@
+{
+  "id": "gedcom-ancestry",
+  "prompt": "Check whether this GEDCOM is ready for Ancestry.",
+  "materials": [
+    "family.ged"
+  ],
+  "expect": {
+    "recipes": [
+      "gedcom-research-export"
+    ],
+    "any_of": [],
+    "clarify": false,
+    "read_full": [
+      "gedcom-research-export"
+    ]
+  },
+  "assert": {
+    "regex_present": [
+      "living",
+      "QUAY",
+      "redact|omit|exclude"
+    ],
+    "regex_absent": [],
+    "rubric": [
+      {
+        "guardrail": "GED-01",
+        "question": "Does it keep 1940s births without death evidence potentially living and avoid assigning deceased status from age or missing DEAT?"
+      },
+      {
+        "guardrail": "GED-02",
+        "question": "Does it require living-person redaction and sharing permission before upload?"
+      },
+      {
+        "guardrail": "GED-03",
+        "question": "Does it explain that QUAY is not a research-status or proven flag?"
+      }
+    ]
+  }
+}

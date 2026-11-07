@@ -35,6 +35,58 @@ no tools or hooks, and makes no network calls of its own. To set it up, see [Ins
 
 Each recipe's sources are in [`sources/`](skills/genealogy-research-recipes/sources/).
 
+## Evaluation
+
+The offline tier runs in the existing unittest CI job. It checks that every recipe is routed,
+every local recipe link and fragment resolves (also in the real npm artifact), and every case's
+guardrail ID exists in a recipe header with a quote still present in the body. Platform
+documentation-check dates expire after 90 days; future dates fail too. The suite uses the
+canonical header parser, schema, source-check evidence and generated-output checks from
+[`scripts/recipe_catalog.py`](scripts/recipe_catalog.py). Case-specific guardrails are added
+to the existing headers and must quote the recipe body; the catalog's first routing rule
+stays first. Every platform header requires a dated source check.
+
+```sh
+python3 -B -m unittest discover -s tests -p 'test_recipe_evals.py' -v
+python3 skills/genealogy-research-recipes/evals/run_evals.py --static
+python3 skills/genealogy-research-recipes/evals/run_evals.py --output eval-results
+```
+
+The behavioural tier has [ten guardrail cases and three ambiguity cases](skills/genealogy-research-recipes/evals/cases/),
+with synthetic materials only. It appends the literal `SKILL.md` as system instructions to
+Claude Code, provides a read-only `read_file` tool over `recipes/`, and records successful
+reads and line coverage, and checks the answer with regexes and an independent rubric call.
+Routing and regex checks must pass three of three samples; at least two samples must pass
+all rubric questions. A denied read, missing sample, invalid judge response or timeout cannot
+pass. Task recipes must be read in full; judgment recipes may be read at their rules sections.
+Questions in the rubric are bound to exact recipe sentences and their current body line numbers.
+The `.yaml` cases use JSON syntax, a YAML 1.2 subset; headers use the strict subset described
+in [MAINTAINERS.md](MAINTAINERS.md). The offline tier needs only Python's standard library.
+Evaluation tooling and fixtures are development files
+and are excluded from the installed npm package.
+
+[The model workflow](.github/workflows/behavioural-evals.yml) runs nightly, manually, and on
+same-repository PRs with the `behavioural-evals` label. Fork PRs skip it; without the
+`ANTHROPIC_API_KEY` repository secret it reports a credential skip, not a model pass. The
+optional `EVAL_MODEL` and `EVAL_JUDGE_MODEL` repository variables select the models; default
+is `sonnet`, with the actual resolved model recorded in each CLI transcript. Full assistant
+and judge transcripts, answers, case contracts and the skill hash are retained as artifacts
+for 30 days. Locally, an authenticated CLI works without an API key; `--profile claude3`
+uses that profile's normal shell alias, settings and loaded plugins. Evaluation invocations
+use only the scoped evaluation MCP server, with built-in and other connected tools unavailable;
+the profile itself is not reconfigured. The server rejects paths and symlinks outside `recipes/`.
+The judge uses schema-validated structured output and sees the same fixtures.
+For profiles that shorten large MCP outputs, `--reader native` uses native `Read` with
+an explicit bounded line limit and denies MCP tools instead. The same line-coverage and
+case requirements apply; a shortened response cannot pass as a complete recipe read.
+
+Before merging content changes, run the ten guardrail cases against an unchanged snapshot
+of the current release, then run the complete suite against the proposed skill. For example,
+`--baseline --skill /path/to/released/skill --output baseline-results` preserves the released
+bytes and reports their static defects alongside the behavioural results. A failing baseline
+is evidence to investigate, not permission to weaken a case. `--case <id>` selects a bounded
+rerun. Results are written into a new directory on each run so a retry cannot overwrite evidence.
+
 ## Install
 
 **Claude Code:**

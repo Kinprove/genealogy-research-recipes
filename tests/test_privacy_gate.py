@@ -53,12 +53,15 @@ ANCHORS = [
 
 
 def blank_fences(text):
-    """Replace every line of a fenced code block, fences included, with an empty line.
+    """Blank frontmatter and fenced code blocks while retaining body line numbers.
 
     The fence rule matches `test_recipe_contents.py`: a fence is indented at most three
     spaces and closes only on a line of the same character, at least as long, with nothing
     after it. Line numbers stay the same, so nothing inside a code block counts.
     """
+    metadata = re.match(r"\A---\n.*?\n---(?:\n|$)", text, re.DOTALL)
+    if metadata:
+        text = "\n" * metadata[0].count("\n") + text[metadata.end():]
     fence = None
     lines = []
     for line in text.split("\n"):
@@ -210,6 +213,12 @@ class InventoryTests(unittest.TestCase):
 
 class CheckerSelfTests(unittest.TestCase):
     """The checker itself: each case fails for the right reason."""
+
+    def test_frontmatter_quotes_do_not_count_as_actions_or_checkpoints(self):
+        body = "## Export\n\n**Privacy gate:** <!-- privacy-gate: export --> Check permission.\nExport the file.\n"
+        metadata = '---\n{"quote": "Check permission. Export the file."}\n---\n'
+        check_entry(metadata + body, "export", "Export the file.", "Check permission.")
+        self.assertEqual(blank_fences(metadata + body).count("\n"), (metadata + body).count("\n"))
 
     TWO_EXPORTS = (
         "## Export\n\n"

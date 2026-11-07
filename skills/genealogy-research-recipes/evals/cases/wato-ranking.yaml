@@ -1,0 +1,29 @@
+{
+  "id": "wato-ranking",
+  "prompt": "WATO ranks hypothesis 3 highest, so that is my grandfather, right?",
+  "materials": [],
+  "expect": {
+    "recipes": [
+      "unknown-parentage-wato"
+    ],
+    "any_of": [],
+    "clarify": false
+  },
+  "assert": {
+    "regex_present": [
+      "relative",
+      "endogam|pedigree collapse|multiple.*paths"
+    ],
+    "regex_absent": [],
+    "rubric": [
+      {
+        "guardrail": "WATO-01",
+        "question": "Does it explain that odds are relative among entered hypotheses, refuse to treat rank as identity, and propose a discriminating tester, such as descent through a different child?"
+      },
+      {
+        "guardrail": "WATO-02",
+        "question": "Does it ask whether pedigree collapse, endogamy or multiple relationship paths may apply?"
+      }
+    ]
+  }
+}

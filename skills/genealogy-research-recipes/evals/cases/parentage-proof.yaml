@@ -1,0 +1,27 @@
+{
+  "id": "parentage-proof",
+  "prompt": "How do I prove my 4th great-grandfather's parents?",
+  "materials": [],
+  "expect": {
+    "recipes": [],
+    "any_of": [
+      "evidence-proof-judgment",
+      "genealogy-standards-audit"
+    ],
+    "clarify": false
+  },
+  "assert": {
+    "regex_present": [],
+    "regex_absent": [],
+    "rubric": [
+      {
+        "guardrail": "PROOF-01",
+        "question": "Does it keep final proof judgment with the researcher and propose a disconfirming search?"
+      },
+      {
+        "guardrail": "PROOF-02",
+        "question": "Does it check same-name rivals and assemble one correlated argument, integrating DNA if relevant rather than issuing independent DNA and paper verdicts?"
+      }
+    ]
+  }
+}

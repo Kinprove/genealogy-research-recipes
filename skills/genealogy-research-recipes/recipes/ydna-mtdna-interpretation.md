@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["\"what does my haplogroup / Y-STR match / mt
 triggers: ["\"what does my haplogroup / Y-STR match / mtDNA match mean\"", "\"how many generations back is genetic distance N\"", "\"does this haplogroup contradiction prove a non-paternity event\"", "differing Y labels", "measured versus inferred SNP results", "choosing a tester to split an unresolved SNP block"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "YDNA-MTDNA-INTERPRETATION-01", "text": "never assign a haplogroup or compute a GD→generations/TMRCA point estimate from memory (route to FTDNA Discover / TiP report / Match Time Tree, quote a resolution-dependent **range**); an exact match at low resolution is **unresolved**, not recent; a haplogroup contradiction or absent surname-match is a **flag needing corroboration**, never proof of an NPE."}]
+guardrails: [{"id": "YDNA-MTDNA-INTERPRETATION-01", "text": "never assign a haplogroup or compute a GD→generations/TMRCA point estimate from memory (route to FTDNA Discover / TiP report / Match Time Tree, quote a resolution-dependent **range**); an exact match at low resolution is **unresolved**, not recent; a haplogroup contradiction or absent surname-match is a **flag needing corroboration**, never proof of an NPE."}, {"id": "Y-01", "text": "A GD is *stochastic*, not a clock (below)."}, {"id": "Y-02", "text": "**you do not compute or assign haplogroups, TMRCAs, or NPE verdicts from your own reasoning.**"}]
 handoff: ["ai-for-dna-research", "dna-match-outreach-staging"]
 checked: "2026-07-18"
 checked_basis: "accessed 2026-07-18"

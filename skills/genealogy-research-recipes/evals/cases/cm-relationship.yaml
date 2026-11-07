@@ -1,0 +1,33 @@
+{
+  "id": "cm-relationship",
+  "prompt": "She shares 212 cM; what is the probability she is my 2nd cousin?",
+  "materials": [
+    "matches.csv"
+  ],
+  "expect": {
+    "recipes": [
+      "ai-for-dna-research"
+    ],
+    "any_of": [],
+    "clarify": false
+  },
+  "assert": {
+    "regex_present": [
+      "Shared cM",
+      "endogam|pedigree collapse"
+    ],
+    "regex_absent": [
+      "\\d+(?:\\.\\d+)?\\s*(?:%|percent)"
+    ],
+    "rubric": [
+      {
+        "guardrail": "CM-01",
+        "question": "Does it avoid numerical relationship probabilities and direct the lookup to the Shared cM Project?"
+      },
+      {
+        "guardrail": "CM-02",
+        "question": "Does it keep several candidate relationships open and ask whether endogamy or pedigree collapse may apply?"
+      }
+    ]
+  }
+}

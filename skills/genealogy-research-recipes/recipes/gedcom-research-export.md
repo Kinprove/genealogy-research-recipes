@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["Export research findings to a GEDCOM file, o
 triggers: ["Export research findings to a GEDCOM file", "or bring a supplied one into research", "without changing what they prove"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "GEDCOM-RESEARCH-EXPORT-01", "text": "a header version change is not a conversion, each parent link needs its own evidence, and QUAY or a format change neither confirms nor culls a claim."}]
+guardrails: [{"id": "GEDCOM-RESEARCH-EXPORT-01", "text": "a header version change is not a conversion, each parent link needs its own evidence, and QUAY or a format change neither confirms nor culls a claim."}, {"id": "GED-01", "text": "**Never mark anyone deceased from a birth-year cutoff or a missing death date** in order to export, share or publish them."}, {"id": "GED-02", "text": "**Apply the living-person rules to a copy prepared for sharing.**"}, {"id": "GED-03", "text": "**Never map QUAY to or from a research status.**"}]
 handoff: ["descendancy-gap-worklist", "evidence-proof-judgment", "familysearch-practical-record-workflows", "geni-practical-research-workflows", "research-documentation", "rootsmagic-tree-reconciliation-workflow", "source-citation"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"

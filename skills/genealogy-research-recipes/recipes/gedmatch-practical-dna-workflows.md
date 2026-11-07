@@ -7,7 +7,7 @@ scope: {"platforms": ["gedmatch"], "tasks": ["GEDmatch One-to-Many, One-to-One, 
 triggers: ["GEDmatch One-to-Many", "One-to-One", "match-both", "Segment Search", "tag groups", "Multiple Kit Analysis"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "GEDMATCH-PRACTICAL-DNA-WORKFLOWS-01", "text": "preserve actual access, thresholds, pairwise intervals and fixed rosters; separate shared-list membership and generated-kit signals from pedigree proof."}]
+guardrails: [{"id": "GEDMATCH-PRACTICAL-DNA-WORKFLOWS-01", "text": "preserve actual access, thresholds, pairwise intervals and fixed rosters; separate shared-list membership and generated-kit signals from pedigree proof."}, {"id": "GM-01", "text": "Authorization to analyze a kit is not permission to upload it."}, {"id": "GM-02", "text": "require that person's explicit permission for GEDmatch and the chosen option."}]
 handoff: ["ai-for-dna-research", "dna-comparison-controls", "evidence-proof-judgment", "unknown-parentage-wato", "xdna-phasing-judgment"]
 checked: "2026-10-04"
 checked_basis: "retrieved 2026-10-04"

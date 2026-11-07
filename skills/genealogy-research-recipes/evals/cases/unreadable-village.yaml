@@ -1,0 +1,15 @@
+{
+  "id": "unreadable-village",
+  "prompt": "The German village name on my ancestor\u2019s manifest is unreadable. Can you find the village?",
+  "materials": [],
+  "expect": {
+    "recipes": [],
+    "any_of": [],
+    "clarify": true
+  },
+  "assert": {
+    "regex_present": [],
+    "regex_absent": [],
+    "rubric": []
+  }
+}

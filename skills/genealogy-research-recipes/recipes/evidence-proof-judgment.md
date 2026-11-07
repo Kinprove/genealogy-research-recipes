@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["separating same-named people, resolving conf
 triggers: ["separating same-named people", "resolving conflicting records", "weighing indirect vs negative evidence", "combining DNA with documents into ONE proof", "conditional placements", "discriminating hypothesis tests"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "EVIDENCE-PROOF-JUDGMENT-01", "text": "the human owns every ruling (merge/separate, conflict resolution, exhaustiveness, the final \"therefore proven\"); a provisional link can direct a search without establishing dependent ancestry. The model assembles and drafts but NEVER concludes."}]
+guardrails: [{"id": "EVIDENCE-PROOF-JUDGMENT-01", "text": "the human owns every ruling (merge/separate, conflict resolution, exhaustiveness, the final \"therefore proven\"); a provisional link can direct a search without establishing dependent ancestry. The model assembles and drafts but NEVER concludes."}, {"id": "PROOF-01", "text": "**You rule on identity and proof. The model assembles and drafts — it never concludes.**"}, {"id": "PROOF-02", "text": "**Keep same-name candidates in SEPARATE research projects** so their records never cross-contaminate."}, {"id": "PROOF-03", "text": "A converged match is evidence in the proof argument, not proof by itself."}]
 handoff: ["ai-for-dna-research", "ai-for-documentary-records", "ancestry-record-search-recovery", "gedcom-research-export", "quaker-meeting-record-recovery", "unknown-parentage-wato"]
 checked: "2026-10-07"
 checked_basis: "accessed 2026-10-07"

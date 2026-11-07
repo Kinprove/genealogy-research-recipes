@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["Record an interview with a relative, a suppl
 triggers: ["Record an interview with a relative", "a supplied recording", "an inherited story with its speaker", "prompter and chain of transmission"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "FAMILY-INTERVIEWS-AND-ORAL-TRADITION-01", "text": "do not turn a recollection straight into tree facts; keep the prompter's details apart from the speaker's, an uncertain name uncertain, and each relay in the chain as its own witness. Obtain consent before recording, document it at the session's start, and get the participant's authorization, ideally a signed release, before any deposit or publication."}]
+guardrails: [{"id": "FAMILY-INTERVIEWS-AND-ORAL-TRADITION-01", "text": "do not turn a recollection straight into tree facts; keep the prompter's details apart from the speaker's, an uncertain name uncertain, and each relay in the chain as its own witness. Obtain consent before recording, document it at the session's start, and get the participant's authorization, ideally a signed release, before any deposit or publication."}, {"id": "ORAL-01", "text": "Before a new recording starts, explain the topic, who will hear the recording and how it may be used, and get the participant's consent."}, {"id": "ORAL-02", "text": "With a photograph, ask about the vehicles, buildings, place and season before asking who the people are, and never supply a desired identity [S2]."}]
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"

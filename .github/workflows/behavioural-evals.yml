@@ -1,0 +1,69 @@
+name: Recipe behavioural evaluations
+
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+  pull_request:
+    branches: [main]
+    types: [labeled, synchronize, reopened]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: recipe-evals-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  credentials:
+    if: >-
+      github.event_name != 'pull_request' ||
+      (github.event.pull_request.head.repo.full_name == github.repository &&
+       contains(github.event.pull_request.labels.*.name, 'behavioural-evals'))
+    runs-on: ubuntu-latest
+    outputs:
+      available: ${{ steps.credentials.outputs.available }}
+    steps:
+      - name: Check model credentials
+        id: credentials
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "$ANTHROPIC_API_KEY" ]; then
+            echo 'available=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'available=false' >> "$GITHUB_OUTPUT"
+            echo '::notice::Behavioural evaluations skipped: ANTHROPIC_API_KEY is not configured.'
+          fi
+
+  golden-cases:
+    needs: credentials
+    if: needs.credentials.outputs.available == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install the pinned model harness
+        run: npm install -g @anthropic-ai/claude-code@2.1.318
+      - name: Run three samples per golden case
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PYTHONDONTWRITEBYTECODE: '1'
+          EVAL_MODEL: ${{ vars.EVAL_MODEL || 'sonnet' }}
+          EVAL_JUDGE_MODEL: ${{ vars.EVAL_JUDGE_MODEL || 'sonnet' }}
+        run: python3 -B skills/genealogy-research-recipes/evals/run_evals.py --output eval-results
+      - name: Keep answers, tool traces, judge decisions and run identity
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: recipe-evals-${{ github.sha }}-${{ github.run_attempt }}
+          path: eval-results/
+          if-no-files-found: error
+          retention-days: 30
