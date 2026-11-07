@@ -10,6 +10,7 @@
 - **S8:** Denyse Allen, [What I Found at the County Courthouse](https://www.youtube.com/watch?v=LCiJ633pXYU), published 2024-07-25. Used for: the lunatics/drunkards index searched under its period term; a negative divorce search at the prothonotary.
 - **S9:** Denyse Allen, [What I Found at the County Courthouse](https://www.youtube.com/watch?v=QIkcBeJ5d1c), published 2021-08-13. The same account as S8. Do not count S8 and S9 as two independent observations.
 - **S10:** BYU Family History Library / James Tanner, [Legal Notices for Genealogists](https://www.youtube.com/watch?v=q5-kKlUKfHs), published 2017-01-19. Used for: reading a file from first to last document; the 30-year probate file example; the sheriff's-sale chain, local variation and post-sale papers.
+- **S11:** Utah State Archives, [Court Records](https://archives.utah.gov/research/guides/courts/), and Maryland State Archives, [Frequently Asked Questions](https://msa.maryland.gov/msa/main/html/faq.html), official page/search text checked 2026-11-07. Utah describes court retention followed generally by transfer after fifty years; Maryland explicitly says holdings vary with each county's transfers. These support early state-archive custody checks for older local-court files, not a universal transfer age or a guarantee that the archive holds a given case. Recent clerk/prothonotary and transferred federal-file routes are authored synthesis with the linked federal-court recipe; no particular file's custody was established.
 
 The following are authored synthesis: the pointer-to-file crosswalk, the stage inventory with explicit gaps, the bounded-negative logging rule and the case register. The sources supply the court-procedure explanations, the retrieval tips and the examples.
 
@@ -24,3 +25,4 @@ Not verified:
 ## Credits
 
 - Kinprove original procedural synthesis; court-procedure explanations, retrieval tips and examples are paraphrased with attribution from S1-S10 (BYU Family History Library / James Tanner talks, Genealogy Gems episodes, Family History Fanatics with The Archive Lady, Denyse Allen courthouse accounts); coverage dates, legislative divorce and courts-not-of-record records restated as facts from Google Scholar's help page, the Library of Virginia legislative-petitions guide and Code of Virginia 16.1-69.53 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original custody-routing summary grounded in official Utah and Maryland archive guidance S11, with court/year-specific transfer limits retained — FSL-1.1-MIT (kinprove-original)
