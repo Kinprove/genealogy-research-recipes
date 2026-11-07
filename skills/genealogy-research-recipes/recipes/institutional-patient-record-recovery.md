@@ -9,8 +9,8 @@ privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "INSTITUTIONAL-PATIENT-RECORD-RECOVERY-01", "text": "incapacity does not establish admission or diagnosis, and an access refusal does not establish that no file survives."}]
 handoff: []
-checked: null
-checked_basis: null
+checked: "2026-11-07"
+checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1107}
 ---
@@ -49,19 +49,20 @@ state, and the presenters' own outcomes show how far apart states are [S2], [S6]
   archives after proving descent [S2].
 - **New York:** the same guest got a form letter from a New York state hospital refusing on
   privacy grounds, saying privacy did not end at death and that it does not release records
-  for genealogy [S2]. Current New York Office of Mental Health policy says it does not provide
-  copies for genealogical purposes, under Mental Hygiene Law §33.13.
+  for genealogy [S2]. The New York Office of Mental Health page, checked 2026-11-07, says it
+  does not provide
+  copies for genealogy searches and cites Mental Hygiene Law §33.13 for confidentiality. [S9]
 - **Privacy gate:** <!-- privacy-gate: request --> A court petition or direct request for a
   patient file sends the requester's proof of descent and can open records naming possibly
   living relatives; answer the privacy gate in `SKILL.md` before you petition or request.
 - **Illinois:** Amy Johnson Crow says she needed a judge's order to open the hospital records
   of a relative who died in 1899 at the state hospital in Kankakee (the Illinois Eastern
-  Hospital for the Insane, later Kankakee State Hospital) [S6]. Her own published guidance
-  narrows this: immediate family (spouse, children, siblings, parents) can request directly
-  from the state, and a circuit-court order is needed for other requesters. Work out which
+  Hospital for the Insane, later Kankakee State Hospital) [S6]. This is her case, not a
+  general access rule. Ask the custodian which applicant rules apply, and work out which
   group your requester is in before you go to court.
-- **Ohio:** Crow says access "depends on the time period" [S6]. In her published guidance, the
-  closest-relative statement is required only for deaths within the past 50 years.
+- **Ohio:** Crow says access "depends on the time period" [S6]. Confirm the current
+  eligibility and documentation requirements with the custodian; do not infer them from
+  family closeness or a death date alone.
 
 Crow warns against assuming the records are closed, because a handful of states have open
 records [S6]. Find out the actual rule before you advise the user. Never treat a refusal, a
@@ -77,19 +78,22 @@ a diagnosis or admission, and the supplement may name no institution. [S7]
 ## 1. Identify the current custodian and its access rules
 
 - Find out who holds a closed institution's records now. A web search told the guest that
-  Norwich State Hospital's records were at the Connecticut State Archives [S2]; they are held
-  there as RG 021:008, Norwich State Hospital Records, 1904–1996. Asked about Columbus State
-  Hospital, Crow named the Ohio History Connection as the holder [S6]. That repository lists
-  the hospital's series and restricts access under Ohio Revised Code 5122.31. Confirm the
-  holder and its restriction from the repository's own description.
+  Norwich State Hospital's records were at the Connecticut State Archives [S2]. Her 2018
+  article cites RG 021:008, Norwich State Hospital Records, 1904–1996. [S10] That is her
+  published locator, not a fresh verification of the catalogue or its access rules. Asked
+  about Columbus State Hospital, Crow named the Ohio History Connection as the holder [S6].
+  The repository's own research guide explains restrictions on identifiable patient records
+  under Ohio Revised Code 5122.31. [S11] Confirm the current holder, series and restriction
+  from the repository before requesting an individual file.
 - Write down every access condition the custodian states, kept as separate entries:
   - **Who may request.** Connecticut accepted a documented chain of descent when the requester
     sent the patient's death certificate plus birth certificates linking each generation down
     to herself [S2].
   - **Years since death.** The Pennsylvania State Archives releases state hospital patient
-    records on request when the patient has been dead 50 years or more [S3], [S4]. Its current
-    request page also asks for proof of death: a death certificate or a published obituary.
-    Send it with the request.
+    records on request when the patient has been dead 50 years or more [S3], [S4]. The official
+    request page, checked 2026-11-07, says requests are processed if the patient
+    has been dead at least 50 years or the record is at least 75 years old. [S12] Ask which
+    proof of death the archive requires and send it with the request.
   - **Record age for viewing in person.** Pennsylvania opens records 75 years or older to the
     public [S3], [S4]. When a record spans several years, the 75 years run from its most recent
     date.

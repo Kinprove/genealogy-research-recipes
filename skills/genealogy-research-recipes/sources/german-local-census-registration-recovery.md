@@ -31,4 +31,4 @@
 - BYU Family History Library, Roger Minert, Residential Registration in Germany, YouTube lecture, 2021-01-29 — Standard YouTube License; all rights reserved by the creator (adapted)
 - Ahnenforschung.net Forum, thread Erfahrungen mit Archiven, started 2009-09-09 — All rights reserved by the individual forum post authors (adapted)
 - Ahnenforschung.net Forum, thread Suche nach meinem Urgroßvater, 2026-05-12 — All rights reserved by the individual forum post authors (adapted)
-- Kinprove original procedural synthesis drawing on lectures S1-S3, forum threads S4-S5, the archive holdings guide and index page S8-S9, and facts checked in the Landesarchiv Schleswig-Holstein Arcinsys catalogue, Archivportal-D and Wikipedia Census in Germany — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis drawing on lectures S1-S3, forum threads S4-S5, the archive holdings guide and index page S8-S9; no additional current catalogue coverage is asserted — FSL-1.1-MIT (kinprove-original)

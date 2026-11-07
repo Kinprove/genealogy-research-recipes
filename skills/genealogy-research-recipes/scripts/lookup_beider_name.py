@@ -18,6 +18,15 @@ DASHES = str.maketrans({char: "-" for char in "‐‑‒–—−"})
 CONSONANTS = str.maketrans("БВГДЖЗ", "ПФКТШС")
 MATCH_ORDER = {"exact": 0, "separator_normalized": 1, "fuzzy": 2}
 RIGHTS_FIELDS = ("license", "permission", "basis")
+CYRILLIC = re.compile(r"[\u0400-\u04FF]")
+LATIN_NAME_WARNING = (
+    "query contains no Cyrillic letters; --name searches Cyrillic recorded names, "
+    "use --key for a Latin dictionary key"
+)
+CYRILLIC_KEY_WARNING = (
+    "query contains Cyrillic letters; --key matches Latin dictionary keys, "
+    "use --name for a Cyrillic recorded name"
+)
 
 
 class SourceUnavailable(Exception):
@@ -273,6 +282,11 @@ def run_query(
         **({"names": names} if names is not None else {"key": key}),
     }
     result = {"query": query, "status": "not_in_index", "results": []}
+    # A wrong-script query looks like a real negative; say so without changing the status.
+    if names is not None and any(not CYRILLIC.search(name) for name in names):
+        result["warning"] = LATIN_NAME_WARNING
+    elif names is None and CYRILLIC.search(key or ""):
+        result["warning"] = CYRILLIC_KEY_WARNING
     if names is not None:
         query["matching_policy"] = {
             "comparison": "NFC uppercase, ignoring whitespace and hyphens/dashes",

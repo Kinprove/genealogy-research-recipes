@@ -5,20 +5,20 @@ hebrewbooks.org or nli.org.il refused automated requests, a dated Wayback Machin
 cited instead.
 
 - **S1. HebrewBooks advanced search and its help file.**
-  [Advanced page, capture 2026-01-23](http://web.archive.org/web/20260123105147/https://hebrewbooks.org/advanced.aspx)
+  [Advanced page, capture 2026-01-23](https://web.archive.org/web/20260123105147/https://hebrewbooks.org/advanced.aspx)
   lists the OCR-search modes (exact phrase, all words, any word, Boolean), fuzzy levels and
-  word forms. [Search help, capture 2026-01-23](http://web.archive.org/web/20260123105146/https://hebrewbooks.org/searchhelp.txt)
+  word forms. [Search help, capture 2026-01-23](https://web.archive.org/web/20260123105146/https://hebrewbooks.org/searchhelp.txt)
   documents AND, OR, NOT, parentheses, quoted phrases and `w/N` proximity. The 200-row
   display limit is a Kinprove observation of saved result pages on 2026-10-01; no public
   HebrewBooks text states it.
 - **S2. HebrewBooks records.** *Oholei Shem*, Pinsk 1912, 592 pages:
-  [HB 36602, capture 2026-10-09](http://web.archive.org/web/20261009043816/https://www.hebrewbooks.org/36602).
+  [HB 36602, capture 2026-10-09](https://web.archive.org/web/20261009043816/https://www.hebrewbooks.org/36602).
   Berl Kohen (Kagan), *Sefer ha-prenumerantn*, New York 1975:
-  [HB 46561, capture 2024-02-08](http://web.archive.org/web/20240208081336/https://www.hebrewbooks.org/46561).
+  [HB 46561, capture 2024-02-08](https://web.archive.org/web/20240208081336/https://www.hebrewbooks.org/46561).
   The genealogical *Da'at Kedoshim* (Eisenstadt and Wiener, St Petersburg 1897–1898):
-  [HB 6832, capture 2023-12-26](http://web.archive.org/web/20231226001818/https://www.hebrewbooks.org/6832);
+  [HB 6832, capture 2023-12-26](https://web.archive.org/web/20231226001818/https://www.hebrewbooks.org/6832);
   a different, halakhic work with the same title:
-  [HB 6812, capture 2026-02-09](http://web.archive.org/web/20260209011439/https://www.hebrewbooks.org/6812).
+  [HB 6812, capture 2026-02-09](https://web.archive.org/web/20260209011439/https://www.hebrewbooks.org/6812).
   Used for the two same-title books and the catalogue's place of printing.
 - **S3. *Oholei Shem* entries.** [Hebrew Wikipedia, "אהלי שם (ספר)"](https://he.wikipedia.org/wiki/אהלי_שם_(ספר))
   and [sample entries](https://oholeschem.wordpress.com/), which are headed by town and give

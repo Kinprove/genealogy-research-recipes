@@ -9,8 +9,8 @@ privacy: "none"
 gates: []
 guardrails: [{"id": "US-FEDERAL-COURT-CASE-FILE-RECOVERY-01", "text": "decide whether the matter is federal before searching a county courthouse; a complete-index miss is a bounded negative that does not clear other relatives."}]
 handoff: []
-checked: null
-checked_basis: null
+checked: "2026-11-07"
+checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1103}
 ---
@@ -138,8 +138,9 @@ name, copied the file reference and then requested the file [S2]. Do the same:
    times [S2]. Ask the facility for its current retrieval schedule.
 
 Book before you go. The presenter's 2019 description of walk-in, same-day service is out of date
-for Philadelphia. Its research room is now open by appointment only, Monday to Friday, 9 a.m. to
-4 p.m. Book through <philadelphia.archives@nara.gov> or 215-305-2044. For any other facility,
+for Philadelphia. Its page, checked 2026-11-07, lists the research room as appointment-only, Monday to Friday,
+9 a.m. to 4 p.m., and gives <philadelphia.archives@nara.gov> and 215-305-2044. [S9]
+Recheck those hours and contact details before booking. For any other facility,
 check its current page for appointment and remote-request rules.
 
 ## Inventory every series, not just the docket

@@ -27,6 +27,8 @@ Based on recorded talks (reviewed 2026-10-20). No statute, Census Bureau report,
 - **S25:** Allen County Public Library Genealogy Center, [PERSI](https://www.genealogycenter.info/persi), read 2026-11-07 in the Internet Archive capture of 2026-09-03 (the live site refused automated access). PERSI compiled by ACPL staff, with more than 3.2 million citations in its free search.
 - **S26:** Findmypast, [Periodical Source Index](https://www.findmypast.com/discover/newspapers-directories-and-social-history/directories-and-almanacs/periodical-source-index), read 2026-11-07 in the Internet Archive capture of 2025-09-09. Findmypast's PERSI copy, about 3.1 million entries, with article images for some entries.
 
+- **S27:** Cornell Legal Information Institute, [Marriage laws](https://www.law.cornell.edu/wex/table_marriage), checked 2026-11-07. Used for: the table's own note naming a 1999 World Almanac chart and subsequent statute review, without an entry-specific update date. No current Kentucky or Tennessee statutory rule was inspected in this audit, so no claim that those states' entries are presently wrong is retained.
+
 The ranked list, its columns and outcome codes, the separate issuing and ceremony fields, and the rule against concluding anything before closure are authored synthesis. The presenters supply the worked examples and the tools they named.
 
 ## Credits

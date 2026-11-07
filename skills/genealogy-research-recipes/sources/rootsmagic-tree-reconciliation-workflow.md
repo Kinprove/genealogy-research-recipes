@@ -16,7 +16,7 @@
 - **H5:** RootsMagic 11 Help, [FamilySearch](https://help.rootsmagic.com/RM11/familysearch.html), checked 2026-10-07. Rights: cited, not reproduced.
 - **H6:** RootsMagic 11 Help, [FamilySearch Central](https://help.rootsmagic.com/RM11/familysearch-central.html), checked 2026-10-07. Rights: cited, not reproduced.
 - **H7:** RootsMagic 11 Help, [WebHint Settings](https://help.rootsmagic.com/RM11/webhint-settings.html), checked 2026-10-07; rechecked 2026-11-06, with the same wording in the RootsMagic 12 help, for "Disconnect from Ancestry Tree … This cannot be undone" and the three ways to reconnect. Rights: cited, not reproduced.
-- **H8:** RootsMagic, [TreeShare for Ancestry: FAQ](http://files.rootsmagic.com/guides/Magic_Guide_TreeShare_Ancestry_FAQ.pdf), 2017-06-28, checked 2026-11-06; RootsMagic 7.5 placed TreeShare under the Internet menu and added a toolbar icon on first use. Rights: cited, not reproduced.
+- **H8:** RootsMagic, [TreeShare for Ancestry: FAQ](https://files.rootsmagic.com/guides/Magic_Guide_TreeShare_Ancestry_FAQ.pdf), 2017-06-28, checked 2026-11-06; RootsMagic 7.5 placed TreeShare under the Internet menu and added a toolbar icon on first use. Rights: cited, not reproduced.
 
 ## Credits
 

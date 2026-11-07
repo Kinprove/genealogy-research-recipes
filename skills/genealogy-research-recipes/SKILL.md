@@ -34,7 +34,12 @@ update step for the user's host, or all four if the host is unclear:
 - Claude.ai or the Claude desktop app: on the Plugins page, select **Check for updates** on
   the `kinprove` marketplace, or turn on **Sync automatically**.
 - Hermes Agent: `hermes plugins update genealogy-research-recipes`.
+  Catalog reviews can lag GitHub; if no change is reported, use the latest GitHub release's
+  full commit SHA in
+  `hermes plugins install Kinprove/genealogy-research-recipes --force --ref <full-commit-sha> --no-enable && hermes plugins enable genealogy-research-recipes`.
 - OpenClaw: `openclaw plugins update genealogy-research-recipes`.
+  ClawHub releases can lag GitHub; if no change is reported, reinstall from the repository:
+  `openclaw plugins install git:github.com/Kinprove/genealogy-research-recipes --force`.
 
 Give this note once per conversation, after the answer itself. Skip it when you do not know
 today's date. Do not check for a newer version over the network yourself.
@@ -854,11 +859,10 @@ A dated source check is a maintenance reminder, not verification of every claim 
   Take a lead to the right federal court for the period, its National Archives record group and
   index, and the loose case file.
 
-- **`recipes/criminal-court-prison-record-recovery.md`** — Recover a criminal court and prison record through the right jurisdiction and custodian.
-  Find the trying court, its present custodian and the surviving prison series; follow British
-  no-fixed-abode incidents through calendars, police and workhouse records, or seek separately
-  surviving Swedish court-book and appeal copies; search the Swedish police gazette (1878–1950) as a
-  lead to the trying court.
+- **`recipes/criminal-court-prison-record-recovery.md`** — Recover U.S. criminal court and prison records, with England/Wales and Swedish routes.
+  Recover U.S. criminal court and prison records, including separate clemency and pardon files; use
+  the specific England/Wales no-fixed-abode and Swedish prison, police-gazette and court-copy routes
+  for those retrieval problems.
 
 - **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act and its petition.
   Recover a state legislative private act, such as a legitimation, name change, divorce or pension,

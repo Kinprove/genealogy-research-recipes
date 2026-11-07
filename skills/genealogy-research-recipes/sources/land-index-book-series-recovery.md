@@ -168,9 +168,35 @@ The index-audit, locator and series-resolution schemas are original synthesis.
   universal transition date, map-color or numbering rule, current catalogue/custody/access
   guarantee, inferred kinship, construction date or complete legal title sequence.
 
+- **S35:** State Library of North Carolina,
+  [Finding Children: Accessing Records](https://libraryofnc.libguides.com/findingchildren/access-records),
+  opened 7 November 2026. Its County Records Guide description identifies formation dates,
+  parent counties and record-specific holdings. Checking those dates and earlier jurisdictions
+  before selecting U.S. conveyance indexes is authored routing, not a claim about a particular
+  tract, transfer of books or recording date.
+- **S36:** Washington Legislature,
+  [RCW 65.04.050 in the 2023 chapter compilation](https://lawfilesext.leg.wa.gov/law/RCWArchive/2023/pdf/RCW%20%2065%20%20TITLE/RCW%20%2065%20.%2004%20%20CHAPTER/RCW%20%2065%20.%2004%20%20COMBINEDCHAPTER.pdf),
+  checked 7 November 2026. Defines the direct index by grantor and the inverted index by
+  grantee, also calling them direct/indirect. Used to explain the U.S. labels, not to impose
+  Washington's statutory column layout on every historical jurisdiction.
+- **S37:** Hunterdon County Clerk,
+  [Available Records](https://co.hunterdon.nj.us/DocumentCenter/View/4931/Available-Records-PDF),
+  official inventory text checked 7 November 2026. Distinguishes Campbell given-name divisions,
+  Russell L/M/N/R/T/miscellaneous key letters and later double-key versions. This supports
+  reading the volume's own key rather than treating Russell, Campbell, Cott or Soundex as
+  interchangeable. No particular index volume or search result was verified.
+- **S38:** FamilySearch,
+  [Full-Text Search](https://www.familysearch.org/en/search/full-text/), official tool description
+  checked 7 November 2026. Used to name the full-text retrieval route; no deed series' complete
+  coverage, OCR accuracy or signed-in image access was tested. The non-party-name search and
+  original-image verification controls remain authored synthesis with S8.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
+- Kinprove — original summaries and retrieval controls grounded in official library,
+  legislative, county-clerk and FamilySearch references S35–S38, without reproduced record
+  images or tables — FSL-1.1-MIT (kinprove-original)
 - Kinprove — original Bavarian property-record routing and identifier-crosswalk synthesis,
   using the attributed presentations S32–S34 without reproduced transcript passages,
   images, maps or tables, or a claim to their rights — FSL-1.1-MIT (kinprove-original)
