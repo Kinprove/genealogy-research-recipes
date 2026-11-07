@@ -94,7 +94,9 @@ consonant signature can prioritize agreement: remove vowels and hard/soft signs,
 Б/П, В/Ф, Г/К, Д/Т, Ж/Ш and З/С, and collapse repeated consonants. This heuristic does not
 admit additional candidates or provide a confidence probability. It is not a general
 cross-language phonetic encoder; `--name` expects recorded Cyrillic forms and `--key` accepts
-Latin article keys.
+Latin article keys. A `--name` input with no Cyrillic letters, or a `--key` with Cyrillic
+letters, adds a `warning` field to the output; its `not_in_index` then reflects the wrong
+script, not the index, so rerun with the other option.
 
 For example, `Дови` can suggest both DOV and DOVID; `Срулик` can suggest ISROEL, RUVN and
 SHMUEL. Keep the alternatives until the original document and its context distinguish them.
