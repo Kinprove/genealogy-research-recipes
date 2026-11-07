@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security or privacy report
+    url: https://github.com/Kinprove/genealogy-research-recipes/security/policy
+    about: Read the private reporting instructions before sharing sensitive details.

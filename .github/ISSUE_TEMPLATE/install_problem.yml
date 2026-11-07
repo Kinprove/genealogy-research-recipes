@@ -1,0 +1,43 @@
+name: Install problem
+description: Report an installation, update, or skill-loading failure.
+title: "Install problem: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For security or privacy problems, follow [SECURITY.md](https://github.com/Kinprove/genealogy-research-recipes/security/policy) and report privately. Redact tokens, account identifiers, private paths, and research data from commands and output.
+  - type: input
+    id: environment
+    attributes:
+      label: Host, host version, and operating system
+      placeholder: Claude Code / Codex / Hermes / OpenClaw, version, OS
+    validations:
+      required: true
+  - type: input
+    id: package_version
+    attributes:
+      label: Package version or install source
+      description: Give the package version or commit; if installation failed before that was available, give the catalog or repository URL you used.
+    validations:
+      required: true
+  - type: textarea
+    id: command
+    attributes:
+      label: Command or UI steps
+      description: Include the exact redacted command, or the UI steps, that caused the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Output and actual behavior
+      description: Paste the redacted error or output. If there was no output, describe what happened.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: Describe what you expected after the command or steps.
+    validations:
+      required: true

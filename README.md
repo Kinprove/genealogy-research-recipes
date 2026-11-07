@@ -261,6 +261,12 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 Add `https://api.kinprove.io/mcp/v1` as an MCP connector so the agent can read your own Kinprove
 matches and projects.
 
+## Contributing and reporting problems
+
+For corrections and installation failures, use the [issue templates](https://github.com/Kinprove/genealogy-research-recipes/issues/new/choose).
+Report security or privacy problems privately as described in [SECURITY.md](SECURITY.md).
+Local checks and contribution guidance are in [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
 [FSL-1.1-MIT](LICENSE), © 2026 Kinprove. Each version becomes MIT two years after its release; the
