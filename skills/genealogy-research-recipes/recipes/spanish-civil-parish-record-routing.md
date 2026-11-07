@@ -1,3 +1,20 @@
+---
+id: "spanish-civil-parish-record-routing"
+title: "Route a Spanish or Andorran record to the archive that holds it on the event date"
+summary: "Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the body that holds it on the event date."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the body that holds it on the event date."]}
+triggers: ["Route a Spanish", "Andorran vital", "padrón", "Catastro", "notarial", "military"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "SPANISH-CIVIL-PARISH-RECORD-ROUTING-01", "text": "the Registro Civil starts in 1871, the diocese does not follow the modern province, and a parish book is not lost until the diocesan survival list and duplicates are checked."}]
+handoff: ["catholic-parish-diocesan-record-recovery", "city-directory-observation-workflow", "evidence-proof-judgment", "hispanic-catholic-register-recovery", "historical-place-name-resolution", "school-university-record-recovery", "tax-roll-observation-workflow", "usa-immigration-search-recovery"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Country record routing", "order": 1061}
+---
+
 # Route a Spanish or Andorran record to the archive that holds it on the event date
 
 Use this recipe before you search for, request or write off a Spanish or Andorran record: a birth, marriage or death, a padrón (municipal resident list), a tax or Catastro entry, a notarial deed, a pedigree proof, a military or student file, or a Civil War and repression file. It sends each record to the body that holds it for that date and region. It prevents nine failures: expecting the Registro Civil (civil registry) to cover an event before 1871 and missing the 1841–1870 municipal registers; inferring the diocese from the modern province; calling a parish book lost without the diocesan survival list and duplicates; searching only Andorra for a family said to be "from Andorra"; searching the Catastro de Ensenada outside the Crown of Castile, or expecting its household books on PARES; searching notarial protocols by client name, or at the wrong custodian for their age; stopping a pedigree at the Inquisition files; requesting a post-1939 court-martial file without first finding the military court that owns it; and reading an index miss or a town hall's "not held" as proof that a record is lost.

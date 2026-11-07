@@ -1,3 +1,20 @@
+---
+id: "gedcom-research-export"
+title: "Export research findings to a GEDCOM file without changing what they prove"
+summary: "Export research findings to a GEDCOM file, or bring a supplied one into research, without changing what they prove."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["Export research findings to a GEDCOM file, or bring a supplied one into research, without changing what they prove."]}
+triggers: ["Export research findings to a GEDCOM file", "or bring a supplied one into research", "without changing what they prove"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "GEDCOM-RESEARCH-EXPORT-01", "text": "a header version change is not a conversion, each parent link needs its own evidence, and QUAY or a format change neither confirms nor culls a claim."}]
+handoff: ["descendancy-gap-worklist", "evidence-proof-judgment", "familysearch-practical-record-workflows", "geni-practical-research-workflows", "research-documentation", "rootsmagic-tree-reconciliation-workflow", "source-citation"]
+checked: "2026-11-02"
+checked_basis: "opened 2026-11-02"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "upload"], "contact": []}
+router: {"tier": "pointer", "group": "DNA workflows and research planning", "order": 1132}
+---
+
 # Export research findings to a GEDCOM file without changing what they prove
 
 Use this recipe when a user asks you to build, export or convert a GEDCOM (`.ged`) file from research findings, or to bring a supplied GEDCOM into existing research. GEDCOM is a format for transmitting and storing genealogical data [S1]. It is not an application, a tree service or a place to publish. The recipe prevents seven failures: changing the header version and calling the file converted, attaching a child to the father's wife because she shares his family record, turning a shared patronymic and surname into a parent link, reading QUAY as a research status, silently converting an Old Style date or padding an approximate year, culling or confirming a supplied tree's claims during a format change, and marking people deceased so that they can go into a shared file.

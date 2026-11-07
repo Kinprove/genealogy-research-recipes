@@ -1,3 +1,20 @@
+---
+id: "french-belgian-civil-act-extraction"
+title: "Extract French and Belgian civil acts field by field"
+summary: "Extract French or Belgian civil acts, trace French marginal continuations and separately maintained copies, and check Paris reconstructions when the original series is unavailable."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Extract French or Belgian civil acts, trace French marginal continuations and separately maintained copies, and check Paris reconstructions when the original series is unavailable."]}
+triggers: ["Extract French", "Belgian civil acts", "trace French marginal continuations and separately maintained copies", "and check Paris reconstructions when the original series is unavailable"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "FRENCH-BELGIAN-CIVIL-ACT-EXTRACTION-01", "text": "bind each annotation to its subject and copy; keep record and event dates apart, and convert Republican dates with a tool, never by arithmetic."}]
+handoff: ["french-departmental-record-routing"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1053}
+---
+
 # Extract French and Belgian civil acts field by field
 
 Use this when you have the image of a French-language birth, marriage or death act from France or Belgium and need its fields: the act date, the event date, declarants, life-status words, clerk corrections, statements about a parent's death, and children legitimated by the marriage. The output is a field table and a list of acts to retrieve next. It does not rule on identity or proof. For status words read as a statement on one date, see [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For AI transcription limits and keeping a date's type separate from the event, see [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).

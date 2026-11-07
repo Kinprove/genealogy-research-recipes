@@ -1,3 +1,20 @@
+---
+id: "irish-civil-registration-jurisdiction-recovery"
+title: "Recover an Irish civil-registration certificate and its jurisdiction chain"
+summary: "Carry an Irish civil-registration index entry or townland lead to the matching certificate and its jurisdiction chain."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Carry an Irish civil-registration index entry or townland lead to the matching certificate and its jurisdiction chain."]}
+triggers: ["Carry an Irish civil-registration index entry", "townland lead to the matching certificate and its jurisdiction chain"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "IRISH-CIVIL-REGISTRATION-JURISDICTION-RECOVERY-01", "text": "the index film is not the certificate and the registration quarter is not the birth date; keep same-named townlands and civil versus Catholic parishes apart."}]
+handoff: []
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "Irish and British records", "order": 1070}
+---
+
 # Recover an Irish civil-registration certificate and its jurisdiction chain
 
 Use this recipe when you have an Irish civil-registration index entry, or a townland or parish lead, and need the matching certificate. It also covers checking whether Church of Ireland or Northern Ireland church registers survive before you request them. It prevents five assistant errors:

@@ -1,3 +1,20 @@
+---
+id: "russian-estate-registration-status"
+title: "Read a Russian-Empire estate label as a dated registration status and choose the series by date"
+summary: "Read a Russian-Empire estate label as a dated registration status and choose the record series by the date it was acquired."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Read a Russian-Empire estate label as a dated registration status and choose the record series by the date it was acquired."]}
+triggers: ["Read a Russian-Empire estate label as a dated registration status and choose the record series by the date it was acquired"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "RUSSIAN-ESTATE-REGISTRATION-STATUS-01", "text": "the town in the label is not the birthplace or residence, and a factory or rural-inhabitant label is not a job."}]
+handoff: ["russian-revision-list-household-chaining"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1087}
+---
+
 # Read a Russian-Empire estate label as a dated registration status and choose the series by date
 
 Use this recipe when a record gives an ancestor's estate (сословие) with a place: "Ирбитский мещанин", "Далматовский 2-й гильдии купец", "личный/потомственный почетный гражданин", "Каменского завода сельский обыватель", or a translated label such as "Honorary Citizen of [town]". These labels cause four common errors:

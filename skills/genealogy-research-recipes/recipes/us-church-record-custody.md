@@ -1,3 +1,20 @@
+---
+id: "us-church-record-custody"
+title: "Find the custodian of a U.S. church record before calling it missing"
+summary: "Work out the denominational branch, congregation and current custodian of a U.S. church record."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Work out the denominational branch, congregation and current custodian of a U.S. church record."]}
+triggers: ["Work out the denominational branch", "congregation and current custodian of a U.S. church record"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "US-CHURCH-RECORD-CUSTODY-01", "text": "do not report \"not found\" or \"records lost\" until that custody path has been checked."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1043}
+---
+
 # Find the custodian of a U.S. church record before calling it missing
 
 Use this when a U.S. ancestor's baptism, marriage, burial or membership record is needed and the denomination, the congregation or the current holder of its registers is unknown or uncertain. Before searching, work out the exact denominational branch, the record types that branch kept, the congregation or minister who kept the entry, and who holds those registers now. Do not report "not found" or "records lost" until that custody path has been checked. For tracing custody through jurisdiction and holding changes in general, use [locality coverage in research documentation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md). For directory addresses, use [city-directory observations](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md). For church-news searching, use [newspaper search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md). For identity rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).

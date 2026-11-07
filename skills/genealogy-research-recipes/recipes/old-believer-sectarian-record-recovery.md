@@ -1,3 +1,20 @@
+---
+id: "old-believer-sectarian-record-recovery"
+title: "Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds"
+summary: "Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds."]}
+triggers: ["Recover Old Believer and Edinoverie families from raskol series in consistory", "revision", "district and police fonds"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "OLD-BELIEVER-SECTARIAN-RECORD-RECOVERY-01", "text": "absence from the ordinary Orthodox books does not mean the family went unrecorded; a confession label is a dated administrative classification."}]
+handoff: []
+checked: "2026-11-07"
+checked_basis: "opened 2026-11-07"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1089}
+---
+
 # Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds
 
 Use this recipe when a Russian-Empire family suspected of Old Belief (раскол, старообрядчество) or Edinoverie (единоверие) is missing from the ordinary Orthodox metrical books, revision lists or confession rolls. Do not conclude that the family went unrecorded. The state counted, taxed and registered raskolniki in their own series. In the worked example, those series were filed inside the same consistory, revision and district-office fonds as the ordinary books, and after 1874 the police kept raskol metrical registers. This recipe builds a checklist of those series, chains the household across them, and keeps each confession label as a dated administrative classification.

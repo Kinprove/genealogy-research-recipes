@@ -1,3 +1,20 @@
+---
+id: "dna-match-outreach-staging"
+title: "Stage and draft outreach to a DNA match or untested relative"
+summary: "Stage and draft outreach to a DNA match, a match's account manager or an untested relative."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["Stage and draft outreach to a DNA match, a match's account manager or an untested relative."]}
+triggers: ["Stage and draft outreach to a DNA match", "a match's account manager", "an untested relative"]
+privacy: "genetic-third-party"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "DNA-MATCH-OUTREACH-STAGING-01", "text": "when the tester's consent is missing or unclear, prepare only a contact plan and a draft for the tester's own review, and do not choose recipients or send anything. In every case, never announce a suspected relationship, and log silence as silence, not refusal."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "publish"], "contact": ["contact"]}
+router: {"tier": "pointer", "group": "DNA workflows and research planning", "order": 1130}
+---
+
 # Stage and draft outreach to a DNA match or untested relative
 
 Use this recipe before you draft or send any message to a DNA match, a match's account manager, or a relative you want to test. It covers four things: who is allowed to make contact, the order in which to approach relatives by closeness, what a first message must name, and how to log replies and silence.

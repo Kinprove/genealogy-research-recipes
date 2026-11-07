@@ -1,3 +1,20 @@
+---
+id: "early-new-england-town-records"
+title: "Read early New England town books across parent towns and decode Torrey entries"
+summary: "Resolve village names to recordkeeping towns, read early New England town books across parent, daughter and neighbouring towns, preserve foundling narrative fields and decode Torrey's marriage notation."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Resolve village names to recordkeeping towns, read early New England town books across parent, daughter and neighbouring towns, preserve foundling narrative fields and decode Torrey's marriage notation."]}
+triggers: ["Resolve village names to recordkeeping towns", "read early New England town books across parent", "daughter and neighbouring towns", "preserve foundling narrative fields and decode Torrey's marriage notation"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "EARLY-NEW-ENGLAND-TOWN-RECORDS-01", "text": "decode a Torrey entry before using it, and record which whole volumes were read."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1045}
+---
+
 # Read early New England town books across parent towns and decode Torrey entries
 
 Use this recipe when a birth, marriage, death or land transaction for an early New England person may appear only in a town clerk's book, or when a compiled marriage entry such as Torrey's is the main lead. It covers three things: identifying the jurisdiction (parent, daughter and neighbouring towns), reading whole volumes with recorded coverage, and decoding Torrey's notation before using it. For a bride with an earlier marriage, use the successive-unions step in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For logging coverage after a jurisdiction split, use [research documentation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md). Town books can mention land sales and estates, but probate files and deed indexes have their own recipes: [probate case inventory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md) and [land index recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/land-index-book-series-recovery.md).

@@ -1,3 +1,20 @@
+---
+id: "ethnicity-estimate-version-comparison"
+title: "Save, date and compare successive ethnicity-estimate versions"
+summary: "Save, date and compare successive ethnicity-estimate versions (AncestryDNA, MyHeritage, FamilyTreeDNA)."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["Save, date and compare successive ethnicity-estimate versions (AncestryDNA, MyHeritage, FamilyTreeDNA)."]}
+triggers: ["Save", "date and compare successive ethnicity-estimate versions (AncestryDNA", "MyHeritage", "FamilyTreeDNA)"]
+privacy: "genetic-third-party"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "ETHNICITY-ESTIMATE-VERSION-COMPARISON-01", "text": "write down the method change before reading any number; compare a new percentage only with the old range, never one range with another, and form hypotheses only from changes no update effect explains."}]
+handoff: ["23andme-match-research", "admixture-model-run-scope", "ai-for-dna-research", "dnapainter-practical-dna-workflows", "ftdna-practical-dna-workflows"]
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": []}
+router: {"tier": "pointer", "group": "DNA workflows and research planning", "order": 1129}
+---
+
 # Save, date and compare successive ethnicity-estimate versions
 
 Use this recipe when a vendor has updated an ethnicity estimate (AncestryDNA Ancestral Regions above all, also MyHeritage Ethnicity Estimate and FamilyTreeDNA myOrigins), when someone asks what changed between two versions, or before a research question is built on a region from one version. It saves the outgoing version in time, dates each version correctly, aligns the two through the vendor's own region hierarchy and sorts every change into a known update effect before anything is read as new ancestry. It prevents these failures:

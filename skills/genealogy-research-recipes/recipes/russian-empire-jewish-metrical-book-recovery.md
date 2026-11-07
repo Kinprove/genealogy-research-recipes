@@ -1,3 +1,20 @@
+---
+id: "russian-empire-jewish-metrical-book-recovery"
+title: "Recover a Russian-Empire Jewish metrical entry through the registering rabbinate and its substitutes"
+summary: "Find the crown rabbinate that registered a Jewish community in the event year, check its book's survival and list named substitutes."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Find the crown rabbinate that registered a Jewish community in the event year, check its book's survival and list named substitutes."]}
+triggers: ["Find the crown rabbinate that registered a Jewish community in the event year", "check its book's survival and list named substitutes"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "RUSSIAN-EMPIRE-JEWISH-METRICAL-BOOK-RECOVERY-01", "text": "synagogues or a large Jewish population do not show that a place had its own crown rabbi, so do not search for \"the village's\" book."}]
+handoff: ["bessarabia-moldova-record-routing"]
+checked: "2026-11-07"
+checked_basis: "checked 2026-11-07"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1084}
+---
+
 # Recover a Russian-Empire Jewish metrical entry through the registering rabbinate and its substitutes
 
 Use this recipe before you search for a Jewish birth, marriage or death in the Russian Empire up to the point where civil (ZAGS) registration took over in that territory. That point came in 1918 in some places and in the early 1920s in others. Use it when:

@@ -1,3 +1,20 @@
+---
+id: "criminal-court-prison-record-recovery"
+title: "Recover a criminal court and prison record through the right jurisdiction and custodian"
+summary: "Find the trying court, its present custodian and the surviving prison series; follow British no-fixed-abode incidents through calendars, police and workhouse records, or seek separately surviving Swedish court-book and appeal copies; search the Swedish police gazette (1878–1950) as a lead to the trying court."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Find the trying court, its present custodian and the surviving prison series; follow British no-fixed-abode incidents through calendars, police and workhouse records, or seek separately surviving Swedish court-book and appeal copies; search the Swedish police gazette (1878–1950) as a lead to the trying court."]}
+triggers: ["Find the trying court", "its present custodian and the surviving prison series", "follow British no-fixed-abode incidents through calendars", "police and workhouse records", "or seek separately surviving Swedish court-book and appeal copies", "search the Swedish police gazette (1878–1950) as a lead to the trying court"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "CRIMINAL-COURT-PRISON-RECORD-RECOVERY-01", "text": "establish the actual authority and copy coverage, and weigh an inmate-list miss against other evidence."}]
+handoff: ["english-nonregister-record-recovery", "uk-census-and-1939-register-interpretation"]
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1104}
+---
+
 # Recover a criminal court and prison record through the right jurisdiction and custodian
 
 Use this recipe when an ancestor disappears from records and you suspect arrest, trial or imprisonment. It also applies when a census institution entry, newspaper report or family story names a prison. Before choosing where to search for court files, establish which court tried the case and who holds the records now. For U.S. cases distinguish federal, territorial and state jurisdiction; use the separate England and Wales branch for a British no-fixed-abode lead. If the prison is already known, open that prison's admission record first to find the trying court: the Idaho convict description in S4 records the county (Washington County) and the court term (May 1896) [S4]. Then work out which prison series survive and what access rules apply to them. Use [newspaper search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md) to find the arrest or trial report, and [census workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md) to recover the institution enumeration. Identity and conflict rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).

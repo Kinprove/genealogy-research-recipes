@@ -1,3 +1,20 @@
+---
+id: "court-case-file-recovery"
+title: "Recover a U.S. court case file from its pointer records"
+summary: "Recover a U.S. civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover a U.S. civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."]}
+triggers: ["Recover a U.S. civil", "chancery", "divorce", "criminal", "incapacity case file through the records that point to it", "then inventory its loose papers"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "COURT-CASE-FILE-RECOVERY-01", "text": "captions, arrests, index entries and case-law searches stay bounded leads."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1102}
+---
+
 # Recover a U.S. court case file from its pointer records
 
 Use this recipe when a U.S. civil, chancery, divorce, criminal or incapacity proceeding may involve the person. Treat the proceeding as a case file. Recover it through the records that point to it, then inventory its loose papers. Captions, arrests, index entries and case-law searches stay bounded leads.

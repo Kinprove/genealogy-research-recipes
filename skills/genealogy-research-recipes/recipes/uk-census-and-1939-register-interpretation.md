@@ -1,3 +1,20 @@
+---
+id: "uk-census-and-1939-register-interpretation"
+title: "Read England and Wales censuses and the 1939 Register under each year's own rules"
+summary: "Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules."]}
+triggers: ["Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "UK-CENSUS-AND-1939-REGISTER-INTERPRETATION-01", "text": "settle the year's image, writer, reference night and coverage before reading any value as presence, age or status."}]
+handoff: []
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Irish and British records", "order": 1068}
+---
+
 # Read England and Wales censuses and the 1939 Register under each year's own rules
 
 Use this recipe when an England and Wales census return from 1841 to 1921, or a 1939 Register entry, is about to be used as evidence of presence, absence, age, place, marital status, family composition or a later event. Before reading any value, settle what that year's image is, who wrote the value, what night or day it refers to and what the year covers. To carry piece and folio locators beyond Ancestry, use [Ancestry record-search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md). For the general rule that a stated status is a statement and not an event, and for every proof ruling, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For keeping a filing date apart from an event date, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md). The U.S. equivalents are in [U.S. census workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md).

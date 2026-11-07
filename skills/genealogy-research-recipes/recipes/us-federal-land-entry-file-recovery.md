@@ -1,3 +1,20 @@
+---
+id: "us-federal-land-entry-file-recovery"
+title: "Recover a U.S. federal land-entry case file behind (or without) a GLO patent"
+summary: "Follow a GLO patent, bounty-land number or final-proof notice to the federal land-entry case file."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Follow a GLO patent, bounty-land number or final-proof notice to the federal land-entry case file."]}
+triggers: ["Follow a GLO patent", "bounty-land number", "final-proof notice to the federal land-entry case file"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "US-FEDERAL-LAND-ENTRY-FILE-RECOVERY-01", "text": "the patent image is not the entry file, and a failed GLO name search does not prove that no claim existed."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1100}
+---
+
 # Recover a U.S. federal land-entry case file behind (or without) a GLO patent
 
 Use this recipe when a person may have acquired federal public-domain land, whether by military bounty-land warrant, cash entry or homestead. It also applies when your only clue is a BLM General Land Office (GLO) patent hit, the bounty-land number on a pension card, or a final-proof notice. The patent is only the last step of a federal land entry. Follow the patent, or the lack of one, through the legal description, the tract book and the bounty-land series to the land-entry case file in National Archives (NARA) Record Group 49. Keep veteran, heir, assignee, locator and patentee as separate roles.

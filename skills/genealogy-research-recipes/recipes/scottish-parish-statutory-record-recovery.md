@@ -1,3 +1,20 @@
+---
+id: "scottish-parish-statutory-record-recovery"
+title: "Recover a Scottish birth, marriage or death across parish and statutory registers"
+summary: "Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry and kirk-session records."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry and kirk-session records."]}
+triggers: ["Recover a Scottish birth", "baptism", "marriage", "death across Old Parish", "statutory", "corrected-entry and kirk-session records"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "SCOTTISH-PARISH-STATUTORY-RECORD-RECOVERY-01", "text": "register gaps and unsearched denominations are coverage still to search, not proof that the event did not happen."}]
+handoff: ["quaker-meeting-record-recovery", "uk-census-and-1939-register-interpretation"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "Irish and British records", "order": 1069}
+---
+
 # Recover a Scottish birth, marriage or death across parish and statutory registers
 
 Use this recipe to recover a Scottish birth, baptism, marriage or death. First match the event date to the right register system and parish unit. Read each Old Parish Register (OPR) entry type from the image. Treat register gaps and unsearched denominations as coverage still to search, not as proof the event did not happen. Retrieve statutory, Register of Corrected Entries (RCE) and kirk-session leads as separate dated sources.

@@ -1,3 +1,20 @@
+---
+id: "russian-imperial-service-record-recovery"
+title: "Recover a pre-1917 Russian official's service list through the employing institution's fond"
+summary: "Recover a pre-1917 official's formulary or service list through the employing institution's fond."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover a pre-1917 official's formulary or service list through the employing institution's fond."]}
+triggers: ["Recover a pre-1917 official's formulary", "service list through the employing institution's fond"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "RUSSIAN-IMPERIAL-SERVICE-RECORD-RECOVERY-01", "text": "do not stop at metrical books, revision lists or a military archive; search the employer, provincial and later-employer fonds, not only the first."}]
+handoff: ["corpus-seeded-name-search"]
+checked: "2026-11-02"
+checked_basis: "opened 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1091}
+---
+
 # Recover a pre-1917 Russian official's service list through the employing institution's fond
 
 Use this recipe when a metrical entry, family story, directory or medical list gives a pre-1917 post: police, court, treasury, forestry, chancery, physician, feldsher, pharmacy or similar. Do not stop at metrical books, revision lists or a military archive. A man in state service had his career and family written up in a formulary or service list (формулярный / послужной список). The threads show such lists both for ranked officials and for unranked clerks (канцелярские служители). The list is filed in the fond of the body that employed him. It is also regularly filed in the fond of a provincial body that held other agencies' personnel lists, or in the fond of a later civilian employer. Search all three places, not only the first. Professional lists and address calendars add dated observations around the list.

@@ -1,3 +1,20 @@
+---
+id: "historical-map-record-recovery"
+title: "Recover and read historical maps as dated, copy-specific evidence"
+summary: "Read a fire-insurance sheet, atlas, plat, quadrangle or overlay as a dated observation; trace a detached archival map toward its possible originating case."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Read a fire-insurance sheet, atlas, plat, quadrangle or overlay as a dated observation; trace a detached archival map toward its possible originating case."]}
+triggers: ["Read a fire-insurance sheet", "atlas", "plat", "quadrangle", "overlay as a dated observation", "trace a detached archival map toward its possible originating case"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "HISTORICAL-MAP-RECORD-RECOVERY-01", "text": "a candidate case link or estimated map date does not establish the depicted event or a same-named person's identity."}]
+handoff: ["french-departmental-record-routing", "galicia-bukovina-habsburg-record-routing", "german-register-image-recovery", "historical-place-name-resolution"]
+checked: "2026-11-02"
+checked_basis: "opened 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Places, maps, libraries and manuscripts", "order": 1118}
+---
+
 # Recover and read historical maps as dated, copy-specific evidence
 
 Use this recipe when you are about to use a Sanborn fire-insurance sheet, a landowner atlas or plat, a topographic quadrangle, a directory or ward map, or a georeferenced overlay to place a person, building, address, cemetery or parcel. Each map records what one producer observed in one edition, and a given copy may carry its own corrections. Read it that way, and take people's names from other dated records. Use [city-directory observation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md) for the directory series. Use [land-index recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/land-index-book-series-recovery.md) for the deeds behind a mapped holder, and the [burial evidence packet](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/burial-evidence-packet.md) once you find a cemetery. Use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) for any identity, kinship or ownership conclusion, and [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md) when an AI suggests readings of handwriting.

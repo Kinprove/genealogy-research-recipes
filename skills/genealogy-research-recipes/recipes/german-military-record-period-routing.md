@@ -1,3 +1,20 @@
+---
+id: "german-military-record-period-routing"
+title: "Route a German soldier to the military series that survive for his period, army and rank"
+summary: "Route a German soldier to the series that survive for his period, army and rank class; recover dated hospital-book episodes when personnel files are missing."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Route a German soldier to the series that survive for his period, army and rank class; recover dated hospital-book episodes when personnel files are missing."]}
+triggers: ["Route a German soldier to the series that survive for his period", "army and rank class", "recover dated hospital-book episodes when personnel files are missing"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "GERMAN-MILITARY-RECORD-PERIOD-ROUTING-01", "text": "a canton, gazette notice or casualty-list line is a lead, never a birthplace, death date or identity."}]
+handoff: ["galicia-bukovina-habsburg-record-routing"]
+checked: "2026-11-06"
+checked_basis: "checked 2026-11-06"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "German records", "order": 1079}
+---
+
 # Route a German soldier to the military series that survive for his period, army and rank
 
 Use this recipe before you send anyone to look for a German soldier's personnel file. It applies when a church entry, address book, gazette, casualty list, memorial or grave register calls an ancestor a soldier, NCO or officer. First classify the man by period, army and rank class. Then search only the series that survive for that combination. A regimental canton, a gazette notice or a casualty-list line is a lead with limits. None of them is a birthplace, a death date or an identity.

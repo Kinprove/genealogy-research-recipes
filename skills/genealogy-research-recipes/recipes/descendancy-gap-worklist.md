@@ -1,3 +1,20 @@
+---
+id: "descendancy-gap-worklist"
+title: "Build a ranked descendancy gap worklist"
+summary: "Turn \"research the descendants\" into a ranked list of gaps tied to the records each lifespan crosses."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["Turn \"research the descendants\" into a ranked list of gaps tied to the records each lifespan crosses."]}
+triggers: ["Turn \"research the descendants\" into a ranked list of gaps tied to the records each lifespan crosses"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "DESCENDANCY-GAP-WORKLIST-01", "text": "an empty tree field leaves the event unresolved; it does not mean the event never happened."}]
+handoff: ["gedcom-research-export"]
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": []}
+router: {"tier": "pointer", "group": "DNA workflows and research planning", "order": 1131}
+---
+
 # Build a ranked descendancy gap worklist
 
 Use this recipe when you are researching downward from an ancestor who is already verified, and you have a collaborative tree or descendancy view to work from. "Research the descendants" is too open to act on. Turn it into a ranked list of specific gaps. Tie each gap to the records the person's lifespan crosses, and sweep one generation at a time. An empty field leaves the event unresolved in this tree. It does not mean the event never happened. For the household-by-census grid, use [research documentation § Compare one family across named censuses](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md). For finding a missing household, use [U.S. census practical workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md). For identity and conflation rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).

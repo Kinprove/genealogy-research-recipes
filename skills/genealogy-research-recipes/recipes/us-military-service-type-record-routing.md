@@ -1,3 +1,20 @@
+---
+id: "us-military-service-type-record-routing"
+title: "Route pre-1900 U.S. military service by service type before searching or ruling it out"
+summary: "Route pre-1900 U.S. military service by service type to its own record series and custodian."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Route pre-1900 U.S. military service by service type to its own record series and custodian."]}
+triggers: ["Route pre-1900 U.S. military service by service type to its own record series and custodian"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "US-MILITARY-SERVICE-TYPE-RECORD-ROUTING-01", "text": "a miss in federal compiled-service or pension indexes is not \"no service\", and an empty bounty-land search means nothing if the man was never eligible."}]
+handoff: []
+checked: "2026-10-21"
+checked_basis: "checked on 2026-10-21"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "U.S. military service", "order": 1108}
+---
+
 # Route pre-1900 U.S. military service by service type before searching or ruling it out
 
 Use this recipe before you search for, or rule out, pre-1900 U.S. military service. The usual failure is to search only federal compiled-service or pension indexes and then report "no service". A related mistake is reading an empty donation-land or bounty-land search as meaningful when the man was never eligible. This recipe works out the probable service type, sends each type to its own record series and custodian, labels what each record actually shows, and keeps same-named men apart.

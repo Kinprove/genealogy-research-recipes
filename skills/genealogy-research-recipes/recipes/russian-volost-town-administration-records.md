@@ -1,3 +1,20 @@
+---
+id: "russian-volost-town-administration-records"
+title: "Find household-level series in volost, village-society and town-administration fonds"
+summary: "Find household-level lists in volost, village-society and town-administration fonds when metrical books or revision lists stop."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Find household-level lists in volost, village-society and town-administration fonds when metrical books or revision lists stop."]}
+triggers: ["Find household-level lists in volost", "village-society and town-administration fonds when metrical books", "revision lists stop"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "RUSSIAN-VOLOST-TOWN-ADMINISTRATION-RECORDS-01", "text": "do not stop at church registers and revision lists, and an inventory title stays a lead until the file is inspected."}]
+handoff: []
+checked: "2026-11-02"
+checked_basis: "checked 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1088}
+---
+
 # Find household-level series in volost, village-society and town-administration fonds
 
 Use this recipe when the metrical books or revision lists for a Russian-Empire peasant or townsperson are missing or stop, especially after the tenth and last revision (1857–1860; its lists are usually dated 1858). The common mistake is to send the researcher only to church registers and revision lists. That misses the local administrative fonds. For peasants these are the volost board (волостное правление) and the village society (сельское общество). For townspeople they are the town administration (городская управа). These fonds hold family lists, call-up lists, inhabitant lists and property lists at household level. Call-up lists under universal military service start in 1874, the year of the military-service statute. Earlier recruit-levy files and lists of lower ranks also survive in volost fonds (GASO ф. 723 оп. 1 д. 17, a recruit levy of 1870–1871, and the second д. 16, lists of lower ranks on the volost register, 1871–1872), so do not stop the search at 1874. [S2] The opposite mistake is to treat an inventory title as verified contents, or to accept a mis-catalogued title. This recipe builds a register of candidate series. Every row stays an inventory lead until the file has been inspected.

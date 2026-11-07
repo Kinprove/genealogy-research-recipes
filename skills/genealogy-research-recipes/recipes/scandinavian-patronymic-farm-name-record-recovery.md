@@ -1,3 +1,20 @@
+---
+id: "scandinavian-patronymic-farm-name-record-recovery"
+title: "Recover a Scandinavian emigrant's home-parish entries under patronymic, farm and soldier names"
+summary: "Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names."]}
+triggers: ["Find a Danish", "Norwegian", "Swedish", "Icelandic emigrant's home-parish entries under patronymic", "farm and soldier names"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "SCANDINAVIAN-PATRONYMIC-FARM-NAME-RECORD-RECOVERY-01", "text": "the American surname is usually not the register name; separate same-named parishioners by birth date, parents, spouse and farm, never by name alone."}]
+handoff: ["scandinavian-parish-record-recovery"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1057}
+---
+
 # Recover a Scandinavian emigrant's home-parish entries under patronymic, farm and soldier names
 
 Use this when a Danish, Norwegian, Swedish or Icelandic emigrant is known from destination records and you need to find that person in the home parish. The main way this goes wrong is searching the American surname in home-country indexes, finding nothing or attaching the wrong same-named person. The name in the parish register is usually not the American surname. Same-named parishioners are common, so separate them by birth date, parents, spouse, farm and vaccination entries, never by name alone.

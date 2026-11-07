@@ -1,3 +1,20 @@
+---
+id: "source-citation"
+title: "Source citation record"
+summary: "Preserve a retrievable source record and connect each citation to the evidence it supports."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["source citations, repository and item locators, layered citations, shortened references"]}
+triggers: ["source citations", "repository and item locators", "layered citations", "shortened references"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "SOURCE-CITATION-01", "text": "Preserve the consulted source layer and a locator that retrieves the actual item; a citation alone does not establish a claim."}]
+handoff: ["evidence-proof-judgment", "research-documentation", "russian-empire-emigrant-origin-recovery"]
+checked: "2026-10-21"
+checked_basis: "checked 2026-10-21"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "full", "group": "Evidence and documentation", "order": 133}
+---
+
 # Source citation record
 
 Use this reference to preserve a retrievable source record for any recipe's findings, for

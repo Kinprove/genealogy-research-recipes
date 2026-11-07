@@ -1,3 +1,20 @@
+---
+id: "muscovite-census-settler-origin-recovery"
+title: "Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books"
+summary: "Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books."]}
+triggers: ["Push a Ural", "Siberian peasant line before 1719 through Muscovite census", "fiscal and fugitive-inquiry books"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "MUSCOVITE-CENSUS-SETTLER-ORIGIN-RECOVERY-01", "text": "each book is a copy-specific observation, and a stated origin stays testimony until a departure-side entry matches."}]
+handoff: []
+checked: "2026-11-02"
+checked_basis: "checked 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1086}
+---
+
 # Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books
 
 Use this recipe when a Ural, Trans-Ural, West Siberian or northern Russian peasant line has reached the 1719 poll-tax census, the 1744/1747 revisions or an early confession list, and you want to go further back. It also applies when a 17th-century Siberian census gives a settler's birthplace and arrival year, and you need to test that statement rather than copy it. The result is a dated register of source episodes for each household. Every book is a separate, copy-specific observation. Every year is kept literally beside its conversion. Every stated origin is kept as testimony until a matching departure-side entry is found.

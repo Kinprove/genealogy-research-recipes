@@ -1,3 +1,20 @@
+---
+id: "us-freedpeople-record-recovery"
+title: "Trace an African American ancestor across the 1870 boundary"
+summary: "Trace an African American family back across the 1870 boundary."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Trace an African American family back across the 1870 boundary."]}
+triggers: ["Trace an African American family back across the 1870 boundary"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "US-FREEDPEOPLE-RECORD-RECOVERY-01", "text": "test free versus enslaved status first; a surname, enslaver, list order or DNA signal stays a hypothesis until a record names the person."}]
+handoff: []
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Migration and origins", "order": 1113}
+---
+
 # Trace an African American ancestor across the 1870 boundary
 
 Use this recipe when an African American family is documented in 1870 or later and the next step is to go back before 1870. It does two jobs. First, it tests whether the family was free or enslaved instead of assuming either. Second, for an enslaved ancestor, it follows a candidate enslaver's personal-property chain. Surname, enslaver, list order and DNA signals stay separate hypotheses until a record names the person.

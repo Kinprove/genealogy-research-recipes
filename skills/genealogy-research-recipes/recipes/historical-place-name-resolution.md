@@ -1,3 +1,20 @@
+---
+id: "historical-place-name-resolution"
+title: "Resolve a historical place name to dated, same-named candidates"
+summary: "Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from period gazetteers."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from period gazetteers."]}
+triggers: ["Resolve a place named in a record", "letter", "Bible", "biography to dated", "same-named candidates from period gazetteers"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "HISTORICAL-PLACE-NAME-RESOLUTION-01", "text": "do not default to the well-known namesake; keep the name as written and let other dated evidence choose."}]
+handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing", "historical-map-record-recovery"]
+checked: "2026-11-02"
+checked_basis: "opened 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Places, maps, libraries and manuscripts", "order": 1117}
+---
+
 # Resolve a historical place name to dated, same-named candidates
 
 Use this recipe when a place named in a record, family letter, Bible or published biography can't be found, or when it matches a well-known place. Typical wrong defaults are Reno meaning Nevada, Aberdeen meaning Scotland, or Edison meaning today's Edison, Washington. The recipe lists every same-named feature in feature-level, period-dated gazetteers, keeps the name exactly as written, and lets other dated evidence about the person choose among the candidates.

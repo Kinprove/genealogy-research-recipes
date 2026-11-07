@@ -1,3 +1,20 @@
+---
+id: "admixture-model-run-scope"
+title: "Record the run scope before reading a G25, calculator or qpAdm admixture result"
+summary: "Record the run scope of a G25, calculator or qpAdm admixture result before reading it."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["Record the run scope of a G25, calculator or qpAdm admixture result before reading it."]}
+triggers: ["Record the run scope of a G25", "calculator", "qpAdm admixture result before reading it"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "ADMIXTURE-MODEL-RUN-SCOPE-01", "text": "check fit and scope before reading proportions, and never rank runs across calculators."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "DNA workflows and research planning", "order": 1128}
+---
+
 # Record the run scope before reading a G25, calculator or qpAdm admixture result
 
 Use this recipe before you read, compare or explain any of the following:

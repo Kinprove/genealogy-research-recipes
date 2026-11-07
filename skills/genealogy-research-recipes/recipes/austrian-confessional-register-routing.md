@@ -1,3 +1,20 @@
+---
+id: "austrian-confessional-register-routing"
+title: "Route an Austrian or Czech-lands vital event to the confessional register that recorded it"
+summary: "Route an Austrian or Czech-lands vital event to the register that legally recorded it: a confessional register, the 1870 register for people outside a recognised church, or the regional archive that now holds the books."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Route an Austrian or Czech-lands vital event to the register that legally recorded it: a confessional register, the 1870 register for people outside a recognised church, or the regional archive that now holds the books."]}
+triggers: ["Route an Austrian", "Czech-lands vital event to the register that legally recorded it: a confessional register", "the 1870 register for people outside a recognised church", "or the regional archive that now holds the books"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "AUSTRIAN-CONFESSIONAL-REGISTER-ROUTING-01", "text": "do not look for a Standesamt record before the 1938 changeover, and a Catholic baptism or burial does not show that a Viennese family had no Jewish origin."}]
+handoff: ["archival-image-coverage-verification", "burial-evidence-packet", "catholic-parish-diocesan-record-recovery", "city-directory-observation-workflow", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "german-register-image-recovery", "historical-place-name-resolution", "jewish-genealogy-conditional-hypotheses"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Country record routing", "order": 1060}
+---
+
 # Route an Austrian or Czech-lands vital event to the confessional register that recorded it
 
 Use this recipe before you search for a birth, marriage or death in present-day Austria before 1939 (outside Burgenland, which was Hungarian until 1921), in Vienna at any date, or in the Czech lands. It sends each event to the register that legally recorded it: a church or religious-community register, or the regional archive that now holds the books. It prevents five failures: looking for a pre-1938 Standesamt (civil registry office) record that never existed, expecting today's Standesamt to hold the old confessional books, searching every Vienna parish instead of fixing the address first, paging through year volumes when a name index exists, and reading a Catholic baptism or burial as proof that a Viennese family had no Jewish origin.

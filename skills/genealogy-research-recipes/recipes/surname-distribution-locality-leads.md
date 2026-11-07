@@ -1,3 +1,20 @@
+---
+id: "surname-distribution-locality-leads"
+title: "Rank localities to search from dated surname-distribution sources"
+summary: "Rank localities to search from dated surname-distribution sources for an uncommon surname."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Rank localities to search from dated surname-distribution sources for an uncommon surname."]}
+triggers: ["Rank localities to search from dated surname-distribution sources for an uncommon surname"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "SURNAME-DISTRIBUTION-LOCALITY-LEADS-01", "text": "the result is a bounded search list, never an origin finding."}]
+handoff: ["scandinavian-patronymic-farm-name-record-recovery"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Migration and origins", "order": 1112}
+---
+
 # Rank localities to search from dated surname-distribution sources
 
 Use this recipe when an uncommon surname has an unknown origin and the next step is choosing where to search registers. It turns time-sliced maps, attestation dictionaries, a couple's surname overlap and country-wide counts into a **ranked, bounded list of localities to search**. It never produces an origin finding. For measuring a namesake pool before you attribute a record to someone, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For a rare-surname survey inside an emigrant's contact network, use [emigrant origin recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md). For spellings across scripts and OCR, use the catalogue's recipe on name searches across scripts and OCR.

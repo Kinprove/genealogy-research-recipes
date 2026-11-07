@@ -1,3 +1,20 @@
+---
+id: "myheritage-historical-record-search"
+title: "Recovering historical records with MyHeritage"
+summary: "Recovering MyHeritage historical records hidden by collection coverage, query fields, name variants, languages or OCR."
+kind: "platform"
+scope: {"platforms": ["myheritage"], "tasks": ["no-result searches, Collection Catalog, relative pivots, historical jurisdictions, newspaper keywords/OldNews or an index that must lead onward to an original record."]}
+triggers: ["no-result searches", "Collection Catalog", "relative pivots", "historical jurisdictions", "newspaper keywords/OldNews", "an index that must lead onward to an original record"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "MYHERITAGE-HISTORICAL-RECORD-SEARCH-01", "text": "diagnose coverage and field meaning before tightening; change one constraint at a time, preserve original text, and treat structured or translated values as search leads."}]
+handoff: ["ai-for-documentary-records", "beider-given-name-variants", "evidence-proof-judgment"]
+checked: "2026-10-03"
+checked_basis: "checked 2026-10-03"
+capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 34}
+---
+
 # Recipe: Recovering historical records with MyHeritage
 
 ## Contents

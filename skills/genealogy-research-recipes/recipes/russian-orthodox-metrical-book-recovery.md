@@ -1,3 +1,20 @@
+---
+id: "russian-orthodox-metrical-book-recovery"
+title: "Recover a Russian Orthodox metrical-book entry through the period parish, the consistory copy and its margin notes"
+summary: "Locate and read a Russian Orthodox metrical entry through the period parish, the consistory copy and its margin notes."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Locate and read a Russian Orthodox metrical entry through the period parish, the consistory copy and its margin notes."]}
+triggers: ["Locate and read a Russian Orthodox metrical entry through the period parish", "the consistory copy and its margin notes"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "RUSSIAN-ORTHODOX-METRICAL-BOOK-RECOVERY-01", "text": "margin decrees are separate dated events, and names and patronymics are hypotheses, not proof of descent."}]
+handoff: ["bessarabia-moldova-record-routing", "catholic-parish-diocesan-record-recovery", "corpus-seeded-name-search", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing"]
+checked: "2026-11-02"
+checked_basis: "opened 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1083}
+---
+
 # Recover a Russian Orthodox metrical-book entry through the period parish, the consistory copy and its margin notes
 
 Use this recipe when a Russian Orthodox baptism, marriage or burial in the metrical books (метрические книги) is missing, contradicts other records, or carries formulae and margin notes you need to interpret.

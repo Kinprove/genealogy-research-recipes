@@ -1,3 +1,20 @@
+---
+id: "usa-immigration-search-recovery"
+title: "Recover U.S. immigration and naturalization records"
+summary: "Twelve historical U.S. immigration workflows: reconstruct journeys, test port, airport and border coverage, recover name variants, pair departures with arrivals, read complete manifests, distinguish detention outcomes, interpret dated verification marks, find naturalizations across courts, check historical citizenship rules, locate federal files and recover broken image links."
+kind: "records"
+scope: {"platforms": [], "tasks": ["ship and aircraft passenger lists, Canada/Mexico crossing records, naturalization minute books, C-files, A-files and AR-2 records."]}
+triggers: ["ship and aircraft passenger lists", "Canada/Mexico crossing records", "naturalization minute books", "C-files", "A-files and AR-2 records"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "USA-IMMIGRATION-SEARCH-RECOVERY-01", "text": "preserve the complete image context and actual collection coverage; resolve citizenship rules and file custody for the person's dates before drawing conclusions. *Public companion route:* when this recipe names `russian-empire-emigrant-origin-recovery`, use the public [Tracing Immigrant Origins outline](https://files.lib.byu.edu/family-history-library/research-outlines/NonGeographic/TracingImmigrantOrigins.pdf) for finding the original hometown and selecting origin-side sources. Confirm the historical jurisdiction and record language with current archive finding aids. For Jewish name and registration/residence attribution, use the [Russian-Empire identity recipe](recipes/russian-empire-jewish-identity-attribution.md). The U.S. workflows can also be used independently."}]
+handoff: ["land-index-book-series-recovery", "russian-empire-jewish-identity-attribution"]
+checked: "2026-10-26"
+checked_basis: "checked 26 October 2026"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 18}
+---
+
 # Recover U.S. immigration and naturalization records
 
 ## Contents
@@ -14,7 +31,7 @@ selected port, date, recorded name, image, citizenship history or custodian.
 Immigration and naturalization are separate events and produce different
 records.[3]
 
-This recipe complements `russian-empire-immigration-research`: use that skill
+This recipe complements `russian-empire-emigrant-origin-recovery`: use that skill
 to reconstruct the origin locality, scripts and Eastern European archive
 jurisdiction. Here, recover the U.S. arrival and citizenship record packet.
 For vendor controls, use the Ancestry or MyHeritage search-recovery recipes;

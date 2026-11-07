@@ -1,3 +1,20 @@
+---
+id: "australia-nz-record-routing"
+title: "Route an Australian or New Zealand record to the holder and window of its date"
+summary: "Route an Australian or New Zealand birth, marriage, death, electoral roll, arrival, newspaper notice, Māori Land Court record or Aboriginal agency file to the holder and date window of its record."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Route an Australian or New Zealand birth, marriage, death, electoral roll, arrival, newspaper notice, Māori Land Court record or Aboriginal agency file to the holder and date window of its record."]}
+triggers: ["Route an Australian", "New Zealand birth", "marriage", "death", "electoral roll", "arrival"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "AUSTRALIA-NZ-RECORD-ROUTING-01", "text": "a pre-separation event belongs to today's state registry, and a miss inside a closure window or outside a digitised run is not a negative."}]
+handoff: ["convict-transportation-record-chain", "evidence-proof-judgment", "historical-place-name-resolution", "newspapers-com-search-recovery", "research-documentation", "source-citation"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Country record routing", "order": 1064}
+---
+
 # Route an Australian or New Zealand record to the holder and window of its date
 
 Use this recipe before you search for an Australian or New Zealand birth, marriage, death, electoral roll, passenger arrival, newspaper notice, Māori Land Court record or Aboriginal agency file. It sends each search to the body that holds the record for that date and tells you when a miss means nothing. It prevents these failures:

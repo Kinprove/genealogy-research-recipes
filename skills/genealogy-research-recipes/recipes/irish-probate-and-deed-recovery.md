@@ -1,3 +1,20 @@
+---
+id: "irish-probate-and-deed-recovery"
+title: "Recover an Irish will, grant or deed after the 1922 losses"
+summary: "Recover an Irish will, administration or deed after the 1922 losses through the surviving calendars, will books, indexes and the Registry of Deeds, north and south."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover an Irish will, administration or deed after the 1922 losses through the surviving calendars, will books, indexes and the Registry of Deeds, north and south."]}
+triggers: ["Recover an Irish will", "administration", "deed after the 1922 losses through the surviving calendars", "will books", "indexes and the Registry of Deeds", "north and south"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "IRISH-PROBATE-AND-DEED-RECOVERY-01", "text": "a calendar entry is neither the will nor proof that it survives, and a Registry of Deeds nil does not show that no land or transaction existed."}]
+handoff: ["city-directory-observation-workflow", "deed-content-relationship-clues", "evidence-proof-judgment", "historical-place-name-resolution", "irish-emigrant-origin-locality", "irish-land-valuation-occupancy-series", "land-index-book-series-recovery", "probate-case-document-inventory"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Irish and British records", "order": 1071}
+---
+
 # Recover an Irish will, grant or deed after the 1922 losses
 
 Use this recipe when an Irish ancestor may have left a will or an administration, or may have taken part in a lease, conveyance, mortgage or marriage settlement. It routes the search by date to the right calendar, will book, index or registry. It prevents six failures: calling a will lost because of the 1922 fire without checking the surviving copies and indexes; reading a calendar entry as the will and inventing its beneficiaries; reading a calendar entry as proof that the will survives; sending the search to a retired NAI website, or to PRONI's database for a will proved outside its three registries; searching only the grantor index of the Registry of Deeds for a grantee; and reading a Registry of Deeds nil as proof of no land and no transaction.

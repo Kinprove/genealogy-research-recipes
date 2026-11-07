@@ -1,3 +1,20 @@
+---
+id: "repository-photograph-collection-search"
+title: "Search repository photograph collections by place and subject"
+summary: "Search repository photograph collections for an ancestor, home, shop or community by place and subject."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Search repository photograph collections for an ancestor, home, shop or community by place and subject."]}
+triggers: ["Search repository photograph collections for an ancestor", "home", "shop", "community by place and subject"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "REPOSITORY-PHOTOGRAPH-COLLECTION-SEARCH-01", "text": "never compare faces or name anyone by appearance, and record a recognition by the user or a relative as that person's attributed claim; a name-search miss does not show that no image exists, and a donor caption or added geotag is not a settled identification or location."}]
+handoff: ["family-photograph-attribution-and-dating", "soviet-personal-file-recovery", "usa-immigration-search-recovery"]
+checked: "2026-11-02"
+checked_basis: "opened 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool"], "contact": ["contact"]}
+router: {"tier": "pointer", "group": "Family papers, photographs and oral history", "order": 1127}
+---
+
 # Search repository photograph collections by place and subject
 
 Use this recipe when you need an image of an ancestor, or of their home, shop or community. It covers holdings from photographers, studios, historical societies and manuscript collections. The common mistake is to search the photo database for the ancestor's name, get no hit and report that no image exists. A related mistake is to treat a donor caption, a geotag the holder added, or a facial resemblance as a settled identification or an exact location.

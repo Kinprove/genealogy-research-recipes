@@ -1,3 +1,20 @@
+---
+id: "japanese-koseki-honseki-recovery"
+title: "Recover the kanji name and honseki before requesting a Japanese koseki"
+summary: "Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family register (koseki)."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family register (koseki)."]}
+triggers: ["Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family register (koseki)"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "JAPANESE-KOSEKI-HONSEKI-RECOVERY-01", "text": "a romanized name or remembered region is not enough for a request, and a passenger-list hit is a candidate, not an identity."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "Migration and origins", "order": 1116}
+---
+
 # Recover the kanji name and honseki before requesting a Japanese koseki
 
 Use this recipe when someone wants a Japanese family register (koseki) for an emigrant ancestor and has only a romanized name, a remembered region or a prefecture. It covers the steps that come before the request: get the exact kanji name and the full historical permanent domicile (honseki), then trace that domicile to the municipal office that holds the register today. It also covers eligibility and retention checks. The record routes in steps 1 and 2 are for emigrants to Brazil. Routes for other destinations such as Hawaii, the US mainland or Peru are not covered here. Do not use this recipe to rule on identity. A passenger-list or emigrant-list hit is a candidate, so route identity questions to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). Record locators with [source citation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md).

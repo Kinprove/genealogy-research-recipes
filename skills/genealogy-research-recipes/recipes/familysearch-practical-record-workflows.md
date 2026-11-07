@@ -1,3 +1,20 @@
+---
+id: "familysearch-practical-record-workflows"
+title: "FamilySearch record recovery and Tree maintenance"
+summary: "Nineteen FamilySearch operations: recover Catalog/DGS holdings and image-only records, preserve view-scoped citations, refine Full Text/Simple Search, recover page references hidden in an assertion’s reason, clean up Source Linker attachments and same-name Tree repairs, share research reports with checked visibility and reader access, recover a missing Memory from an independent copy and record a supported relationship without inventing a parent."
+kind: "platform"
+scope: {"platforms": ["familysearch"], "tasks": ["FamilySearch howtos, Catalog/film/DGS crosswalks, unindexed images, Full Text or Simple Search, Source Linker cleanup, profile repair and Source Box reuse."]}
+triggers: ["FamilySearch howtos", "Catalog/film/DGS crosswalks", "unindexed images", "Full Text", "Simple Search", "Source Linker cleanup"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "FAMILYSEARCH-PRACTICAL-RECORD-WORKFLOWS-01", "text": "inspect actual images and identities; preserve query/view scope; verify report audience and visibility before treating an attachment as shared evidence."}]
+handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "gedcom-research-export", "research-documentation", "rootsmagic-tree-reconciliation-workflow"]
+checked: "2026-10-04"
+checked_basis: "checked 2026-10-04"
+capabilities: {"browse": ["familysearch"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 19}
+---
+
 # Recipe: FamilySearch record recovery and Tree maintenance
 
 ## Contents

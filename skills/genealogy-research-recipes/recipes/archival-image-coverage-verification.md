@@ -1,3 +1,20 @@
+---
+id: "archival-image-coverage-verification"
+title: "Verifying archival images, case boundaries and search coverage"
+summary: "Verify case boundaries, image order, transcript version and the pages and targets actually inspected."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["catalogue/cover disagreements, conflicting readings or completeness claims."]}
+triggers: ["catalogue/cover disagreements", "conflicting readings", "completeness claims"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "ARCHIVAL-IMAGE-COVERAGE-VERIFICATION-01", "text": "a finished reading pass, readable copy or indexed case does not establish complete image, target-name or subsection coverage."}]
+handoff: ["ai-for-documentary-records", "corpus-seeded-name-search", "evidence-proof-judgment", "jewishgen-search-family-reconstruction", "muscovite-census-settler-origin-recovery", "russian-revision-list-household-chaining"]
+checked: "2026-10-18"
+checked_basis: "opened 2026-10-18"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 3}
+---
+
 # Recipe: Verifying archival images, case boundaries and search coverage
 
 Use when an image, transcription, catalogue or name index disagrees with another copy, or when reporting that a case was completely inspected. This recipe verifies the source and the inspected scope; identity conclusions belong to [evidence-proof-judgment.md](evidence-proof-judgment.md).

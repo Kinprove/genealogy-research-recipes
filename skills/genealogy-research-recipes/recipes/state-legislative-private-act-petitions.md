@@ -1,3 +1,20 @@
+---
+id: "state-legislative-private-act-petitions"
+title: "Recover a state legislative private act and its petition"
+summary: "Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and the petition behind it."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and the petition behind it."]}
+triggers: ["Recover a state legislative private act", "such as a legitimation", "name change", "divorce", "pension", "and the petition behind it"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "STATE-LEGISLATIVE-PRIVATE-ACT-PETITIONS-01", "text": "do not stop at the one-line index or printed act, ignore entries at the same locator, or skip legislative records because the event looks like a county matter."}]
+handoff: []
+checked: "2026-11-03"
+checked_basis: "checked 2026-11-03"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1105}
+---
+
 # Recover a state legislative private act and its petition
 
 Use this recipe when a person lived somewhere before its county courts were working, or when a state legislature granted one person or family relief by statute. Examples include legitimation, a name change, a divorce, or a gratuity or pension. In these cases, search the state's index of legislative acts, gather every entry that shares the hit's locator, and then retrieve the act and the petition or application behind it.

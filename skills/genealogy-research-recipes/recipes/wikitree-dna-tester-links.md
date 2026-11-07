@@ -1,3 +1,20 @@
+---
+id: "wikitree-dna-tester-links"
+title: "WikiTree: Link DNA Tests to the Correct Tester and External Kit"
+summary: "Register a DNA test on the actual tester's WikiTree profile and verify its FamilyTreeDNA or GEDmatch link destination."
+kind: "platform"
+scope: {"platforms": ["wikitree", "familytreedna"], "tasks": ["tester/kit crosswalks, external tree links, visibility settings, propagated DNA Connections or pedigree leads needing documentary follow-up."]}
+triggers: ["tester/kit crosswalks", "external tree links", "visibility settings", "propagated DNA Connections", "pedigree leads needing documentary follow-up"]
+privacy: "genetic-third-party"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "WIKITREE-DNA-TESTER-LINKS-01", "text": "a registered test or tree-derived connection is not a measured comparison or DNA-confirmed relationship; preserve each observation separately."}]
+handoff: ["ai-for-dna-research"]
+checked: "2026-10-07"
+checked_basis: "checked 2026-10-07"
+capabilities: {"browse": ["wikitree", "familytreedna"], "local_script": [], "extensions": [], "data_transfer": ["link"], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 17}
+---
+
 # WikiTree: Link DNA Tests to the Correct Tester and External Kit
 
 ## Contents

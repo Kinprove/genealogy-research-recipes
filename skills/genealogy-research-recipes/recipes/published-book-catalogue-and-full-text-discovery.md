@@ -1,3 +1,20 @@
+---
+id: "published-book-catalogue-and-full-text-discovery"
+title: "Find a published local history, compiled genealogy or family book across catalogues and full text"
+summary: "Find a published local history, compiled genealogy or family book across catalogues and full text."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Find a published local history, compiled genealogy or family book across catalogues and full text."]}
+triggers: ["Find a published local history", "compiled genealogy", "family book across catalogues and full text"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "PUBLISHED-BOOK-CATALOGUE-AND-FULL-TEXT-DISCOVERY-01", "text": "a metadata search miss never establishes that a book does not exist or is not held; record what each tool covered."}]
+handoff: []
+checked: "2026-11-02"
+checked_basis: "opened 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Places, maps, libraries and manuscripts", "order": 1119}
+---
+
 # Find a published local history, compiled genealogy or family book across catalogues and full text
 
 Use this recipe when you need a published county or local history, compiled genealogy or family book, or a mention of a family inside one. Before reporting "no book exists", "not held" or "no digital copy", work out whether each tool searches cataloguer metadata or OCR full text. Then query each tool in its own terms, check several holders and record what each check covered.

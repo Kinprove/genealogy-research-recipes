@@ -1,3 +1,20 @@
+---
+id: "italian-stato-civile-parish-record-recovery"
+title: "Recover an Italian ancestor in the Stato civile, parish books and conscription lists"
+summary: "Send an Italian birth, marriage or death to the register that was the legal record in that place and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato civile), then search conscription lists and the population register as separate series."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Send an Italian birth, marriage or death to the register that was the legal record in that place and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato civile), then search conscription lists and the population register as separate series."]}
+triggers: ["Send an Italian birth", "marriage", "death to the register that was the legal record in that place and year (a Napoleonic municipal register", "an Austrian-era parish book", "the comune's Stato civile)", "then search conscription lists and the population register as separate series"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "ITALIAN-STATO-CIVILE-PARISH-RECORD-RECOVERY-01", "text": "date civil registration by the state that ruled the place, not by one national year; an Antenati name-search miss or a missing year is a coverage gap, not proof of absence."}]
+handoff: ["archival-image-coverage-verification", "catholic-parish-diocesan-record-recovery", "catholic-sacramental-cross-notations", "evidence-proof-judgment", "familysearch-practical-record-workflows", "historical-place-name-resolution"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Country record routing", "order": 1058}
+---
+
 # Recover an Italian ancestor in the Stato civile, parish books and conscription lists
 
 Use this recipe before you search for an Italian birth, marriage or death, or before you write that one does not exist. It sends each event to the register that was the legal record in that place and year: a pre-unification civil register, a parish book kept under Austrian law as the civil record, or the Italian Stato civile (civil registration). It prevents seven failures:

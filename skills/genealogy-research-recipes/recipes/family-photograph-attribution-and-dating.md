@@ -1,3 +1,20 @@
+---
+id: "family-photograph-attribution-and-dating"
+title: "Attribute and date an inherited family photograph from captions, provenance and imprints"
+summary: "Attribute and date an inherited family photograph from captions, provenance and the photographer's imprint."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Attribute and date an inherited family photograph from captions, provenance and the photographer's imprint."]}
+triggers: ["Attribute and date an inherited family photograph from captions", "provenance and the photographer's imprint"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "FAMILY-PHOTOGRAPH-ATTRIBUTION-AND-DATING-01", "text": "never compare faces or name anyone by appearance; record each identification as an attributed claim, test it against the named person's documented lifetime, and turn each date clue into a bound."}]
+handoff: []
+checked: "2026-11-02"
+checked_basis: "checked on 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool"], "contact": ["contact"]}
+router: {"tier": "pointer", "group": "Family papers, photographs and oral history", "order": 1124}
+---
+
 # Attribute and date an inherited family photograph from captions, provenance and imprints
 
 Use this recipe when someone asks who is in an inherited family photograph, or when it was taken. The common mistake is to treat an inherited label, a resemblance or a single date clue as the answer: a caption of unknown authorship becomes a fact, a sitter is named because they look like a known relative, and one studio range or one hairstyle becomes "the date". Instead, record each identification as an attributed claim with its basis, turn every clue into an earliest or latest bound, and test an attribution against the documented lifetime of the person named, never against faces.

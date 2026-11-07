@@ -1,3 +1,20 @@
+---
+id: "dutch-civil-church-record-recovery"
+title: "Recover Dutch civil acts and the pre-1811 church register behind them"
+summary: "Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian agreements; search burial/fee entries under the household head and trace pre-1811 church registers."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian agreements; search burial/fee entries under the household head and trace pre-1811 church registers."]}
+triggers: ["Recover Dutch acts through ten-year tables", "marriage supplements", "separate contracts and guardian agreements", "search burial/fee entries under the household head and trace pre-1811 church registers"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "DUTCH-CIVIL-CHURCH-RECORD-RECOVERY-01", "text": "an index miss is not absence, and a father, death date or sibling set from a compiled tree needs the original entries."}]
+handoff: ["probate-case-document-inventory"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1054}
+---
+
 # Recover Dutch civil acts and the pre-1811 church register behind them
 
 Use this recipe when a Dutch person or couple is missing from an online index, when a civil marriage has to be carried back to the church baptism registers kept before civil registration began (1811 in most of the country), or when a compiled tree supplies a father, a death date or a sibling set that the original entries may not support. It covers the ten-year tables, marriage supplements and separate contracts, choosing a church register, and the roles of dates in Dutch church registers. For an intention to marry (ondertrouw, banns) compared with the marriage itself, and for testing a reused given name, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For AI extraction of event types, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md). For FamilySearch Catalog and film navigation, use [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).

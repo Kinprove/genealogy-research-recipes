@@ -1,3 +1,20 @@
+---
+id: "beider-given-name-variants"
+title: "Ashkenazi given-name variants from Beider's indexes"
+summary: "Expanding documentary searches with recorded Ashkenazi given-name forms from the male and female J-Roots Beider indexes."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["an unfamiliar or approximate Cyrillic given name, compound names, alternate spellings, ambiguous article labels, or documenting a DNA match's family under another name form."]}
+triggers: ["an unfamiliar", "approximate Cyrillic given name", "compound names", "alternate spellings", "ambiguous article labels", "or documenting a DNA match's family under another name form"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "BEIDER-GIVEN-NAME-VARIANTS-01", "text": "query offline with `scripts/lookup_beider_name.py --name` for up to 20 article groups by default, including similar candidates when an exact match exists; then retrieve a selected article's recorded variants with `--key`. Comparison ignores spaces and supported hyphens/dashes; keep compound component searches separate. Distinguish unavailable local data from an absent entry. Approximate matches are spelling suggestions, not source-backed synonyms; article membership never proves identity or kinship."}]
+handoff: ["evidence-proof-judgment", "russian-empire-jewish-identity-attribution"]
+checked: "2026-10-01"
+checked_basis: "Consulted 2026-10-01"
+capabilities: {"browse": [], "local_script": ["scripts/lookup_beider_name.py"], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 33}
+---
+
 # Recipe: Ashkenazi given-name variants from Beider's indexes
 
 ## Contents

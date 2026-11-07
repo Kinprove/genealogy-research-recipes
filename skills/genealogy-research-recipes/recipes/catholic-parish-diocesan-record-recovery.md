@@ -1,3 +1,20 @@
+---
+id: "catholic-parish-diocesan-record-recovery"
+title: "Recover a Catholic sacramental entry through parish, diocesan and successor holdings"
+summary: "Build a holdings register for a Catholic sacrament across the parish, alternative parishes, the diocesan copy, the successor custodian, dispensation files and Puerto Rican probanzas de soltería."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Build a holdings register for a Catholic sacrament across the parish, alternative parishes, the diocesan copy, the successor custodian, dispensation files and Puerto Rican probanzas de soltería."]}
+triggers: ["Build a holdings register for a Catholic sacrament across the parish", "alternative parishes", "the diocesan copy", "the successor custodian", "dispensation files and Puerto Rican probanzas de soltería"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "CATHOLIC-PARISH-DIOCESAN-RECORD-RECOVERY-01", "text": "one failed parish search or online collection does not show that the entry never existed or that the register was lost."}]
+handoff: []
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1047}
+---
+
 # Recover a Catholic sacramental entry through parish, diocesan and successor holdings
 
 Use this recipe before you conclude that a Catholic baptism, marriage or burial does not exist or that a register was lost. Use it when one parish search or one online collection has failed, when a parish name matches several churches, when a parish has closed or merged, or when the spouses in a marriage may have been related. It builds a holdings register: the parish that kept the register, alternative parishes, the diocesan copy, the successor custodian and any dispensation file, each with the level actually inspected.

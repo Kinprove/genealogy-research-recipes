@@ -1,3 +1,20 @@
+---
+id: "deed-content-relationship-clues"
+title: "Read deed content as dated relationship, probate, migration and parcel hypotheses"
+summary: "Read a retrieved deed's type, consideration, estate terms, parties, court-bond security recitals and parcel for dated clues to heirship, probate, migration or land identity."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Read a retrieved deed's type, consideration, estate terms, parties, court-bond security recitals and parcel for dated clues to heirship, probate, migration or land identity."]}
+triggers: ["Read a retrieved deed's type", "consideration", "estate terms", "parties", "court-bond security recitals and parcel for dated clues to heirship", "probate"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "DEED-CONTENT-RELATIONSHIP-CLUES-01", "text": "every clue is a dated hypothesis with a stated corroboration need, never a kinship finding."}]
+handoff: []
+checked: null
+checked_basis: null
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1099}
+---
+
 # Read deed content as dated relationship, probate, migration and parcel hypotheses
 
 Use this recipe once a deed has been retrieved and you need to read its type, consideration, estate terms, party descriptions and parcel description for clues about heirship, probate, migration or land identity. Every clue here is a dated hypothesis with a stated corroboration need. None is a kinship finding.

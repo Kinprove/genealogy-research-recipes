@@ -1,3 +1,20 @@
+---
+id: "newspapers-com-search-recovery"
+title: "Newspapers.com: Recover Notices That Name Searches Miss"
+summary: "Recovering newspaper notices when issue coverage, printed names or OCR hide an ancestor on Newspapers.com. Build a title–holding–issue register first, resolve another holding when coverage is insufficient, then search initials, married names, associates, occupations and addresses and verify the original notice."
+kind: "platform"
+scope: {"platforms": ["newspapers.com"], "tasks": ["a failed newspaper name search, an unknown maiden name, a missing obituary, immigration or family-reconstruction leads, title changes, incomplete issue coverage, alternate holdings or unreadable OCR."]}
+triggers: ["a failed newspaper name search", "an unknown maiden name", "a missing obituary", "immigration", "family-reconstruction leads", "title changes"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "NEWSPAPERS-COM-SEARCH-RECOVERY-01", "text": "a page-level hit can join different notices; verify each person, relationship, event date and place in its actual notice. A failed query is not evidence that an event never happened, and a second index of the same newspaper image is not independent corroboration."}]
+handoff: ["ai-for-documentary-records", "australia-nz-record-routing", "court-case-file-recovery", "criminal-court-prison-record-recovery", "evidence-proof-judgment", "research-documentation", "us-federal-court-case-file-recovery"]
+checked: "2026-10-03"
+checked_basis: "accessed 2026-10-03"
+capabilities: {"browse": ["newspapers.com"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 35}
+---
+
 # Newspapers.com: Recover Notices That Name Searches Miss
 
 ## Contents

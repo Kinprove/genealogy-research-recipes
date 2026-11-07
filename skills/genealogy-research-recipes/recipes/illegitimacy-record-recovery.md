@@ -1,3 +1,20 @@
+---
+id: "illegitimacy-record-recovery"
+title: "Recover records of a birth outside marriage"
+summary: "Find the bastardy bonds, court proceedings, support orders and church entries that a birth outside marriage could create, and preserve express status statements in apprenticeship instruments."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Find the bastardy bonds, court proceedings, support orders and church entries that a birth outside marriage could create, and preserve express status statements in apprenticeship instruments."]}
+triggers: ["Find the bastardy bonds", "court proceedings", "support orders and church entries that a birth outside marriage could create", "and preserve express status statements in apprenticeship instruments"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "ILLEGITIMACY-RECORD-RECOVERY-01", "text": "do not decide illegitimacy from weak signals, and record allegations, not paternity."}]
+handoff: []
+checked: "2026-11-05"
+checked_basis: "checked 2026-11-05"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1106}
+---
+
 # Recover records of a birth outside marriage
 
 Use this recipe when a child may have been born outside marriage and you need the records that such a birth could create in that jurisdiction: county bastardy bonds, criminal-court fornication and bastardy proceedings, support orders, grand-jury presentments, church discipline or baptism entries, and church-court suits. It covers which records to search and how to record what they say. It does not decide parentage. For the "never legally married" hypothesis and the warning that a woman's recorded surname may not be her maiden name, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). The same recipe covers keeping terms such as "natural child" and "reputed father" in their original wording.

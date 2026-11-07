@@ -1,3 +1,20 @@
+---
+id: "french-canadian-register-recovery"
+title: "Recover French-Canadian ancestors from combined registers, post and Montréal entries and notarial acts"
+summary: "Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts."]}
+triggers: ["Recover French-Canadian ancestors from combined registers", "French-post and Notre-Dame de Montréal entries and notarial acts"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "FRENCH-CANADIAN-REGISTER-RECOVERY-01", "text": "do not call the person absent until the French-Canadian name forms are exhausted."}]
+handoff: []
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1052}
+---
+
 # Recover French-Canadian ancestors from combined registers, post and Montréal entries and notarial acts
 
 Use when a French-Canadian person seems to be missing from an index, or when an event at an early

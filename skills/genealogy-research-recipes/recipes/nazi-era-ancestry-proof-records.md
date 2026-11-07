@@ -1,3 +1,20 @@
+---
+id: "nazi-era-ancestry-proof-records"
+title: "Find and read a Nazi-era ancestry proof as a certified copy of register entries"
+summary: "Find and read a Nazi-era ancestry proof (Ahnenpass, Ahnentafel, certified extracts) and route the search by the role that required it."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Find and read a Nazi-era ancestry proof (Ahnenpass, Ahnentafel, certified extracts) and route the search by the role that required it."]}
+triggers: ["Find and read a Nazi-era ancestry proof (Ahnenpass", "Ahnentafel", "certified extracts) and route the search by the role that required it"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "NAZI-ERA-ANCESTRY-PROOF-RECORDS-01", "text": "a proof is a certified copy of register entries; open the entry behind each line and keep regime labels apart from evidence."}]
+handoff: ["evidence-proof-judgment", "german-compensation-file-recovery", "german-military-record-period-routing", "german-official-gazette-notice-search", "german-register-image-recovery", "holocaust-testimony-source-interpretation", "russian-empire-emigrant-origin-recovery"]
+checked: "2026-11-06"
+checked_basis: "opened 2026-11-06"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "German records", "order": 1080}
+---
+
 # Find and read a Nazi-era ancestry proof as a certified copy of register entries
 
 Use this recipe when a German family holds an Ahnenpass, an Ahnentafel or a 1930s certified register extract, or when an ancestor of 1933–1945 was a teacher, civil servant, farmer on an Erbhof, NSDAP, SA or SS member, SS bride, or member of the Reich Chamber of Culture. It also applies when an image, card or index you use was made by a Nazi-era Sippenamt project. These documents were produced to enforce racist law. Their racial categories are the regime's classifications and are never evidence of anything about a person. Their entries were copied from parish and civil registers and must be checked against those registers. The recipe prevents these failures:

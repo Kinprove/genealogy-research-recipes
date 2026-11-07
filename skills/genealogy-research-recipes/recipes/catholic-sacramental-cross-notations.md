@@ -1,3 +1,20 @@
+---
+id: "catholic-sacramental-cross-notations"
+title: "Follow Catholic baptism–marriage cross-notations between parishes"
+summary: "Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish."]}
+triggers: ["Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "CATHOLIC-SACRAMENTAL-CROSS-NOTATIONS-01", "text": "indexes drop the baptism-place statement and the later marriage note, so read the original page in both directions."}]
+handoff: []
+checked: "2026-11-07"
+checked_basis: "opened 2026-11-07"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Church and civil registers", "order": 1048}
+---
+
 # Follow Catholic baptism–marriage cross-notations between parishes
 
 Use this when a Catholic baptism or marriage index hit, or an image of the entry, gives you a parish and a register date range, and you need the other sacrament's entry in a different parish. Indexes usually keep only names, the date and perhaps an origin. The marriage entry's statement of where each party was baptized, and the marriage note later added to the baptism entry, appear only on the original page. Read both directions. To weigh a later note against the original statement, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) (§ Follow record versions and test disputed dates). For AI transcription of margins, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md) (§ Worked mini-examples). If the baptism parish is in Ireland, open the images through [Irish Catholic parish image recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/irish-catholic-parish-image-recovery.md).

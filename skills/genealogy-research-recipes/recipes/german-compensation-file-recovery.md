@@ -1,3 +1,20 @@
+---
+id: "german-compensation-file-recovery"
+title: "Recover a German compensation file from a Lastenausgleich or Wiedergutmachung index hit"
+summary: "Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it."]}
+triggers: ["Carry a Lastenausgleich", "Berlin Wiedergutmachung index hit to the file behind it"]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "GERMAN-COMPENSATION-FILE-RECOVERY-01", "text": "a hit does not show who filed, which relatives the file names or that the indexed person is yours, and a no-hit does not mean no file mentions a relative."}]
+handoff: []
+checked: "2026-11-07"
+checked_basis: "checked 2026-11-07"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "German records", "order": 1082}
+---
+
 # Recover a German compensation file from a Lastenausgleich or Wiedergutmachung index hit
 
 Use this recipe when a German postwar compensation index returns a name. That means a Lastenausgleich file at the Bundesarchiv's Lastenausgleichsarchiv (LAA, Bayreuth), or a Wiedergutmachungsamt (WGA) case at the Landesarchiv Berlin. Use it before you order the file, before you call the hit "the ancestor's claim", and before you read a no-hit for a relative as meaning no file mentions them. The hit tells you a file exists for one indexed applicant or injured party. It does not tell you who filed the claim, which relatives the file names, or whether the indexed person is yours.

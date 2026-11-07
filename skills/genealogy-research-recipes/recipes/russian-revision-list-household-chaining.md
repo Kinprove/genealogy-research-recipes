@@ -1,3 +1,20 @@
+---
+id: "russian-revision-list-household-chaining"
+title: "Chain a Russian-Empire revision-list household across copies, sections and revisions (Urals evidence)"
+summary: "Chain a non-Jewish revision-list household across copies, sections and revisions."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Chain a non-Jewish revision-list household across copies, sections and revisions."]}
+triggers: ["Chain a non-Jewish revision-list household across copies", "sections and revisions"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "RUSSIAN-REVISION-LIST-HOUSEHOLD-CHAINING-01", "text": "a central and a local copy are not two confirmations, and Urals fond numbers and age patterns must be checked locally."}]
+handoff: ["bessarabia-moldova-record-routing", "russian-orthodox-metrical-book-recovery"]
+checked: "2026-11-02"
+checked_basis: "checked 2026-11-02"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1085}
+---
+
 # Chain a Russian-Empire revision-list household across copies, sections and revisions (Urals evidence)
 
 Use this recipe for a non-Jewish revision list (ревизская сказка) of the Russian Empire. The evidence behind it comes almost entirely from the Urals and Trans-Urals (the Ekaterinburg administration, the Perm, Shadrinsk, Kamensk, Katai and Zlatoust areas). The method carries over to other provinces. The fond numbers, the age-bias pattern and the boilerplate formulas do not, so check them locally before relying on them. The recipe covers mainly 18th- and 19th-century returns for state, factory-ascribed, monastery and seigneurial peasants, plus town-estate (мещане) lists. Steps 8 to 10 add three checks outside the Urals evidence: whether 1897 census sheets survive, the published estate inventories that come before the first revision in former Grand Duchy lands, and which later revisions exist for an Orenburg Cossack household.
