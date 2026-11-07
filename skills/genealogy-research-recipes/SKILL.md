@@ -317,9 +317,10 @@ A dated source check is a maintenance reminder, not verification of every claim 
   evidence; direct U.S.-bound Canadian transit does not imply a Form 30A record.
 
 - **`recipes/us-census-practical-workflows.md`** — Practical U.S. census workflows.
-  Nine practical U.S. census procedures: recover households, browse target-year districts, follow
+  Ten practical U.S. census procedures: recover households, browse target-year districts, follow
   1950 revisit sheets, compare pre-1850 age bins, bridge the 1890 gap, extract supplements and
-  family fields, search mortality schedules, and follow surname changes.
+  family fields, search mortality schedules, follow surname changes, and follow a farm lead into an
+  agricultural schedule.
   *Use for:* a missing census household, an address without a name hit, sheet 71, tick-mark counts,
   substitute censuses, sample lines, marriage/children fields, competing child rosters, mortality
   reporting windows, or formerly enslaved families under different surnames.

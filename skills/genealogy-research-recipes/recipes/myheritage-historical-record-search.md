@@ -22,7 +22,7 @@ router: {"tier": "full", "group": "Featured workflows", "order": 34}
 - Goal
 - The mental model
 - Operating rules
-- Fourteen practical howtos
+- Fifteen practical howtos
 - Prompt-craft
 - Pitfalls worth internalizing
 
@@ -54,7 +54,7 @@ A successful retrieval still needs identity verification.
   lookup to `beider-given-name-variants.md`, and identity/conflict/negative-evidence rulings to
   `evidence-proof-judgment.md`. This recipe prepares candidates and search coverage, not a verdict.
 
-## Fourteen practical howtos
+## Fifteen practical howtos
 
 ### 1. Search the catalog for record sets before searching their people
 
@@ -227,7 +227,7 @@ For a death or unusual incident, search later issues and other local papers: the
 precede a fuller obituary or correction. Preserve newspaper title, publication date, page and a
 full-page copy when available, alongside any clipping. Copied reports are not independent witnesses.
 
-### Use supplied tree-event geography as a search worklist
+### 14. Use supplied tree-event geography as a search worklist
 
 When a tree-event map or locality list is available, retain its person/branch, event-type
 and date scope before choosing a place. Open the underlying people/events and preserve
@@ -237,7 +237,7 @@ neither residence nor kinship. The [MyHeritage demonstration](https://www.youtub
 illustrates this planning use; apply the controls actually available rather than assuming
 a current map widget or export.
 
-### 14. Turn an index-only hit or automated match into a retrievable lead
+### 15. Turn an index-only hit or automated match into a retrievable lead
 
 If no image is supplied, save the collection citation, originating institution, reference number,
 volume/page and original-source link that are actually provided. Use that locator to seek the image
