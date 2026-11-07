@@ -2,6 +2,18 @@
 
 Use this recipe when an uncommon surname has an unknown origin and the next step is choosing where to search registers. It turns time-sliced maps, attestation dictionaries, a couple's surname overlap and country-wide counts into a **ranked, bounded list of localities to search**. It never produces an origin finding. For measuring a namesake pool before you attribute a record to someone, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For a rare-surname survey inside an emigrant's contact network, use [emigrant origin recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md). For spellings across scripts and OCR, use the catalogue's recipe on name searches across scripts and OCR.
 
+## Contents
+
+- Record each source's basis and period first
+- Choose the slice nearest the target period
+- Bound a couple's search area by surname overlap
+- Resolve dictionary attestations through a gazetteer
+- Rank districts and keep the next one ready
+- Size the bearer pool country-wide
+- Use variants and etymology as search terms only
+- Rank leads when they disagree
+- Close with a ranked locality packet
+
 ## Record each source's basis and period first
 
 Write down two things for every distribution source before you read its map:
@@ -69,6 +81,14 @@ Limits:
 - He also claims that if the bearers are all in one place he is related to every one of them [S5]. Do not adopt that. A small, clustered pool shortens the matching list but proves no relationship.
 
 **For Spain, use the INE count.** The surname tool of the INE (Instituto Nacional de Estadística, the national statistics office) counts bearers separately as first surname, as second surname and with the surname in both positions. It maps them by province or municipality of residence, by province or municipality of birth, or by nationality [S8], [S9]. Use a birth mode for origin leads, and record which mode and which count you used. Counts below 5 are not shown, so a blank cell is not zero [S9]. Read the data source and reference date in the query form's notes and record them with the result. On 2026-11-04 the form gave the Censo anual de población (annual population census) at 1 January 2025 [S10].
+
+**For the Netherlands, use the CBG Nederlandse Familienamenbank** (cbgfamilienamen.nl). It gives a surname's count and distribution for two years: the census of 31 May 1947 and the population register of 2007 [S11], [S12]. The 2007 figure covers only people with Dutch nationality living in the Netherlands, and counts below 5 are not shown, so a blank is not zero [S11]. Record which year you read. Both are 20th-century distributions; label them with their year.
+
+**For France, use the INSEE surname file.** INSEE's *Fichier des noms* counts surnames given at birth by decade from 1891 to 2000, for France and for each département of birth (overseas départements from 1900) [S13]. It lists only names given at least 30 times over the whole period. In the département file, a name given fewer than 30 times in a département is grouped under the code "XX" [S13]. So a département missing for a surname is suppressed, not zero. In the overlap step above, keep such a département as unknown; do not drop it. The file also leaves out people born before 1946 who died before 1972, so for births before 1946 it counts only people still alive in 1972 [S13]. Record the decade, the département and that limit with the result.
+
+Geopatronyme is no longer a separate site: geopatronyme.com now redirects to Filae [S14]. A Filae surname page shows births in France in four 25-year periods from 1891 to 1990 and names INSEE's surname file as their source [S14], [S15]. The same page also lists départements and communes with larger counts that it does not define [S15]. Use only the births block as a dated count, and label the other lists "Filae record set, period unknown".
+
+**For Denmark, Norway and Sweden, the official counts are national totals.** Danmarks Statistik's *Hvor mange hedder…?* counts people living in Denmark on 1 January each year. It uses only the first given name and the last surname, and does not show an exact count below 3 [S16]. Statistics Norway (SSB) counts people registered in Norway and finds a name only when more than three people bear it [S17]. Statistics Sweden (SCB) stopped its name statistics in 2024; use the Swedish Tax Agency's (Skatteverket's) search, which counts registered residents, is updated weekly and matches only the exact spelling [S18]. Record the date each figure refers to. None of these breaks a surname down by region, so use them to size the pool and to qualify a surname as uncommon, not to rank localities. Many Nordic surnames were fixed only in the late 1800s or later, often from a patronymic or a farm name, so a modern count says nothing about earlier generations (see [Scandinavian patronymic and farm names](scandinavian-patronymic-farm-name-record-recovery.md)).
 
 ## Use variants and etymology as search terms only
 
