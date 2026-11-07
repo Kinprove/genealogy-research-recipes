@@ -125,6 +125,8 @@ def validate_index(record: dict) -> dict:
         raise ValueError("invalid post id")
     if not isinstance(record["url"], str) or not record["url"].startswith("https://"):
         raise ValueError("invalid source url")
+    if not record["url"].endswith("#" + record["post_id"]):
+        raise ValueError("source url does not point at the post id")
     digest = record["content_sha256"]
     if not isinstance(digest, str) or not re.fullmatch(r"[0-9a-f]{64}", digest):
         raise ValueError("invalid source content hash")
