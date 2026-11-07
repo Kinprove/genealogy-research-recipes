@@ -144,6 +144,15 @@ class BehaviouralHarnessTests(unittest.TestCase):
                           "their permission for Ancestry. QUAY is credibility, not research status.")
                 self.assertEqual(deterministic(case, answer, reads), [])
 
+    def test_police_matching_wording_counts_but_omitting_it_does_not(self):
+        case = next(case for case in load_cases() if case["id"] == "gedmatch-upload")
+        reads = {name: {"complete": True, "lines": []}
+                 for name in ("gedmatch-practical-dna-workflows", "ai-for-dna-research")}
+        answer = "Whose test is it? Permission must cover GEDmatch and who can match it, including police."
+        self.assertEqual(deterministic(case, answer, reads), [])
+        failures = deterministic(case, "Whose test is it? Permission must cover GEDmatch.", reads)
+        self.assertTrue(any("Missing regex" in failure for failure in failures))
+
     def test_denied_read_and_outside_path_never_count(self):
         path = SKILL / "recipes/ai-for-dna-research.md"
         self.assertEqual(successful_reads(self.trace(path, error=True), SKILL), {})

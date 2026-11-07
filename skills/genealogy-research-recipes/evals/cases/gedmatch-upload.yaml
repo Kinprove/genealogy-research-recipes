@@ -17,7 +17,7 @@
   "assert": {
     "regex_present": [
       "permission|consent|agree",
-      "law.enforcement"
+      "law.enforcement|police"
     ],
     "regex_absent": [],
     "rubric": [
