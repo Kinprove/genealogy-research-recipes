@@ -16,6 +16,8 @@
 - **S14:** Verein für Computergenealogie, [Hamburger Passagierlisten bei Ancestry](https://compgen.de/2019/08/hamburger-passagierlisten-bei-ancestry), 2019-08-09, opened 2026-11-07. Used for: the place shown as the residence (*Wohnort*) in the Ancestry collection, and free access to it in the Staatsarchiv reading room and the BallinStadt family research centre.
 - **S15:** Verein für Computergenealogie, [genealogy.net - Online-OFBs](https://www.online-ofb.de/), read 2026-11-07 in the Internet Archive capture of 2026-11-03 (the live page showed a bot check). Used for: the online Ortsfamilienbücher listed at online-ofb.de, and the large number of books that exist in print.
 
+- **S16:** Roger P. Minert, [German Immigrants in American Church Records: volumes and church listings](https://rpmgrtpublications.wixsite.com/mysite/services-2), checked 2026-11-07. Used for: the author's update that Pennsylvania volumes 47–49 have been produced, and the per-volume congregation-list links. This replaces the unsourced claim that the publisher listed only through volume 48 in August 2026; no publication date or complete coverage of a state is inferred.
+
 **What is authored and what the sources supply.** The ordering of steps, the classification of every source, the coverage-bounded wording for a miss and the worksheet are authored synthesis. The presenters supply:
 
 - the examples of jurisdictions, indexes and series, and their stated exclusions;
