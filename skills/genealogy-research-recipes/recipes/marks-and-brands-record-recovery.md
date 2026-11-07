@@ -19,8 +19,8 @@ router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order"
 
 Use when a supported person/locality/period leads to a marks-and-brands index or register.
 Carry the index entry to the actual registration and, when necessary, a described surrogate.
-This is a non-land registration search; use [land-record recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/1895d892270f48712375f3f18da117a4426567cc/skills/genealogy-research-recipes/recipes/land-index-book-series-recovery.md)
-for grants and conveyances and [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/1895d892270f48712375f3f18da117a4426567cc/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) for identity.
+This is a non-land registration search; use [land-record recovery](land-index-book-series-recovery.md)
+for grants and conveyances and [evidence/proof judgment](evidence-proof-judgment.md) for identity.
 
 ## Follow the actual index key
 

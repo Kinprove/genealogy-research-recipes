@@ -22,10 +22,10 @@ Derry, Armagh, a farm name) and you are about to search for the emigrant there. 
 as a lead whose administrative level is unknown. It may be a port, a well-known nearby town or a
 same-named unit. Classify it, test it against surname distribution and denomination, then search
 the whole locality before adopting any townland. For the Catholic-parish choice and register images,
-use [Irish Catholic parish image recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/irish-catholic-parish-image-recovery.md).
-If a "previous parish" or residence field may be a transit point, use [U.S. immigration search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md).
-The same place-role logic for the Russian Empire is in [Russian-Empire emigrant origin recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md).
-Identity rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+use [Irish Catholic parish image recovery](irish-catholic-parish-image-recovery.md).
+If a "previous parish" or residence field may be a transit point, use [U.S. immigration search recovery](usa-immigration-search-recovery.md).
+The same place-role logic for the Russian Empire is in [Russian-Empire emigrant origin recovery](russian-empire-emigrant-origin-recovery.md).
+Identity rulings belong in [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
 

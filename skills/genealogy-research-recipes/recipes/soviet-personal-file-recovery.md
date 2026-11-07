@@ -25,11 +25,11 @@ Use this recipe when a metrical book from before 1917 or a ZAGS act book is repo
 
 Related recipes:
 
-- Wives' natal families, house books and family files when vital records fail: [JewishGen search and family reconstruction](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md).
-- Arrest, investigation and prisoner files: [Russian military and repression record episodes](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md).
-- Pre-1917 registration (приписка) and name re-registration: [Russian-Empire Jewish identity attribution](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md).
+- Wives' natal families, house books and family files when vital records fail: [JewishGen search and family reconstruction](jewishgen-search-family-reconstruction.md).
+- Arrest, investigation and prisoner files: [Russian military and repression record episodes](russian-military-repression-record-episodes.md).
+- Pre-1917 registration (приписка) and name re-registration: [Russian-Empire Jewish identity attribution](russian-empire-jewish-identity-attribution.md).
 - Spelling expansion across scripts: the catalogue's recipe on recovering attested spellings across scripts and OCR.
-- Identity, namesake and nationality rulings: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- Identity, namesake and nationality rulings: [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
 

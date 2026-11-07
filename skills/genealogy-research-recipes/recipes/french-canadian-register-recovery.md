@@ -23,8 +23,8 @@ a marriage or estate is known only from the church entry. Inputs: the name as fo
 post, and a date range. For the general method of searching name components and roles separately,
 use [name searches across scripts and OCR, § Build a small attestation inventory](corpus-seeded-name-search.md#build-a-small-attestation-inventory).
 This recipe adds only the French-Canadian forms. Route
-identity rulings to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md)
-and FamilySearch Catalog/film navigation to [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
+identity rulings to [evidence/proof judgment](evidence-proof-judgment.md)
+and FamilySearch Catalog/film navigation to [FamilySearch workflows](familysearch-practical-record-workflows.md).
 
 ## Contents
 

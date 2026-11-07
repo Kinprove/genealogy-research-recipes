@@ -22,10 +22,10 @@ Use this recipe when a date, place or hand on an inherited letter, card, envelop
 This recipe covers what these dates, places and hands establish, and how to record them so that writing date, event date and copy stay apart.
 
 - **Privacy gate:** <!-- privacy-gate: third-party-tool --> Images or text of letters, cards, address books and registers given to an AI tool may name living relatives and their addresses; answer the privacy gate in `SKILL.md` first.
-- For reading or translating the handwriting with AI, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md), which treats AI readings as leads.
-- Cite each item, envelope, transcription and online copy with [source citation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md).
-- Weigh a register entry against other records, and make identity rulings, in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
-- To follow an address lead edition by edition, use [city-directory observations](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md).
+- For reading or translating the handwriting with AI, use [AI for documentary records](ai-for-documentary-records.md), which treats AI readings as leads.
+- Cite each item, envelope, transcription and online copy with [source citation](source-citation.md).
+- Weigh a register entry against other records, and make identity rulings, in [evidence/proof judgment](evidence-proof-judgment.md).
+- To follow an address lead edition by edition, use [city-directory observations](city-directory-observation-workflow.md).
 - Item references, received provenance and imaging belong to the Family collection intake and capture recipe. A relative's account of who wrote or kept something is gathered in the Family interviews and oral tradition recipe. Photographs found in a Bible or with cards go to the Family photograph attribution and dating recipe.
 
 ## Letters and address records

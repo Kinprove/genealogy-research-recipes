@@ -21,10 +21,10 @@ Use this recipe to recover a Scottish birth, baptism, marriage or death. First m
 
 Some steps overlap with other recipes; use those recipes for them:
 
-- Banns indexed as marriage dates, and reading the whole marriage entry: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) (§ creation stages within a marriage record).
+- Banns indexed as marriage dates, and reading the whole marriage entry: [evidence/proof judgment](evidence-proof-judgment.md) (§ creation stages within a marriage record).
 - Deciding whether two entries are one child or two: the same recipe, § same-named siblings and apparent twins.
-- FamilySearch Catalog and image routes: [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
-- Whether a negative search is reasonably exhaustive: [standards audit](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/genealogy-standards-audit.md).
+- FamilySearch Catalog and image routes: [FamilySearch workflows](familysearch-practical-record-workflows.md).
+- Whether a negative search is reasonably exhaustive: [standards audit](genealogy-standards-audit.md).
 
 ## Contents
 

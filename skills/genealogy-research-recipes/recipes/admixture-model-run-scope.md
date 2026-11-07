@@ -27,10 +27,10 @@ It covers three situations: someone pastes one run or one screenshot; a small un
 
 Related recipes:
 
-- For vendor ethnicity estimates as dated, version-bound observations, use [AI for DNA research](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-dna-research.md).
-- For 23andMe Ancestry Composition confidence settings, use [23andMe match research](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/23andme-match-research.md).
-- For haplogroup labels, tester-dependent trees and frequency maps, use [Y-DNA and mtDNA interpretation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ydna-mtdna-interpretation.md).
-- For identity and kinship rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- For vendor ethnicity estimates as dated, version-bound observations, use [AI for DNA research](ai-for-dna-research.md).
+- For 23andMe Ancestry Composition confidence settings, use [23andMe match research](23andme-match-research.md).
+- For haplogroup labels, tester-dependent trees and frequency maps, use [Y-DNA and mtDNA interpretation](ydna-mtdna-interpretation.md).
+- For identity and kinship rulings, use [evidence/proof judgment](evidence-proof-judgment.md).
 
 Nothing in this recipe establishes an ancestor, an origin locality or a relationship. A result that disagrees with a documented pedigree may make a candidate less likely. It never rules one out.
 

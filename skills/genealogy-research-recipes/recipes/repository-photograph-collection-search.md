@@ -22,10 +22,10 @@ Use this recipe when you need an image of an ancestor, or of their home, shop or
 This recipe covers search coverage and caption provenance. For a located Swedish aerial view, it also names the next resident and ownership records to search.
 
 - **Privacy gate:** <!-- privacy-gate: third-party-tool --> Pasting a photo into an AI tool sends images of people who may be living, and the photo holder's data, to a third party; answer the privacy gate in `SKILL.md` first.
-- For AI analysis of context clues in a photo, such as a car model, a uniform or a shop sign, use [AI for documentary records § What to delegate freely](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md), which treats such output as leads. Faces are never compared.
-- Identity rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
-- Record your searches with the [research log](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md).
-- For street and business names by year, use [city-directory observations](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md).
+- For AI analysis of context clues in a photo, such as a car model, a uniform or a shop sign, use [AI for documentary records § What to delegate freely](ai-for-documentary-records.md), which treats such output as leads. Faces are never compared.
+- Identity rulings belong in [evidence/proof judgment](evidence-proof-judgment.md).
+- Record your searches with the [research log](research-documentation.md).
+- For street and business names by year, use [city-directory observations](city-directory-observation-workflow.md).
 
 ## Contents
 
@@ -117,7 +117,7 @@ established from the actual view. Proximity to a marker does not geolocate the i
 
 **Check for a corresponding paper-print series as well as the negatives.** Establish the relationship from the collection's actual metadata and images. ArkivDigital's June 2026 demonstration shows negative series marked O and paper-copy series marked R; some scanned print backs supply a place or purchaser's name [S12]. Follow that counterpart route where it exists, rather than assuming every negative has a surviving print.
 
-Use [archival image coverage verification](https://github.com/Kinprove/genealogy-research-recipes/blob/85d9681ceb84175c7f8796657e073eb54b4e0f26/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) to check the observed order and sides. In the 2026 demonstration, stepping two images at a time could show only fronts or only backs [S12]. Do not count a run of fronts as inspection of both sides. Record the series/item locator and the side that supplies a clue. The examples describe those historical demonstrations; check the actual collection and viewer before relying on their codes or controls.
+Use [archival image coverage verification](archival-image-coverage-verification.md) to check the observed order and sides. In the 2026 demonstration, stepping two images at a time could show only fronts or only backs [S12]. Do not count a run of fronts as inspection of both sides. Record the series/item locator and the side that supplies a clue. The examples describe those historical demonstrations; check the actual collection and viewer before relying on their codes or controls.
 
 **For a located Swedish aerial view, search residents by the period property designation.** ArkivDigital's April 2026 demonstration advises locating the view, using historical maps to recover its address or *fastighetsbeteckning* at that time, then searching the designation in *Sveriges befolkning 1940–1990* [S13]. Search it only for the ancestor's household, and note only the names and family positions the question needs; do not record later or possibly living residents or use the register to find a living person. An approximate flight marker or a name on a print back is a clue; it does not establish that location.
 

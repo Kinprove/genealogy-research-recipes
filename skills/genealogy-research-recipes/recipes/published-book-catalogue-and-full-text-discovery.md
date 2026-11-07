@@ -21,11 +21,11 @@ Use this recipe when you need a published county or local history, compiled gene
 
 This recipe covers the cross-platform discovery of a book. Some steps overlap with sibling recipes, so use them for those steps:
 
-- Ancestry catalogue-versus-content searches and carrying a locator off Ancestry: [Ancestry search recovery §3 and §12](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md)
-- Opening and citing FamilySearch digital books: [FamilySearch workflows §2](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md)
-- MyHeritage name-index versus full-text routes: [MyHeritage record search §10](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md)
-- Hebrew-language book platforms: [HebrewBooks recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/hebrewbooks-search-recovery.md)
-- Deciding whether a mention identifies your person: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md)
+- Ancestry catalogue-versus-content searches and carrying a locator off Ancestry: [Ancestry search recovery §3 and §12](ancestry-record-search-recovery.md)
+- Opening and citing FamilySearch digital books: [FamilySearch workflows §2](familysearch-practical-record-workflows.md)
+- MyHeritage name-index versus full-text routes: [MyHeritage record search §10](myheritage-historical-record-search.md)
+- Hebrew-language book platforms: [HebrewBooks recovery](hebrewbooks-search-recovery.md)
+- Deciding whether a mention identifies your person: [evidence/proof judgment](evidence-proof-judgment.md)
 
 ## Contents
 

@@ -22,9 +22,9 @@ archive has returned nothing in its catalogue or online search for the target su
 uncatalogued holdings have still not been inspected. This recipe covers asking about those holdings,
 recording each one's access state, and citing what a compiled file contains. The presenters work in
 and describe US repositories, so the categories and terms below follow US practice. Use
-[research documentation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md)
+[research documentation](research-documentation.md)
 for the onsite plan that separates finding an index from retrieving files. Use
-[evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md)
+[evidence/proof judgment](evidence-proof-judgment.md)
 to weigh a compiler's knowledge and conclusions.
 
 ## Bound what the empty catalogue covers

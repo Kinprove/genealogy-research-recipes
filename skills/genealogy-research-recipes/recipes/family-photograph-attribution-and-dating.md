@@ -21,10 +21,10 @@ Use this recipe when someone asks who is in an inherited family photograph, or w
 
 This recipe covers attribution and dating of an image already in hand. Capturing the object, its scans and its inheritance chain belongs to Family collection intake and capture; long recollections belong to Family interviews and oral tradition.
 
-- For restored, colorized or AI-generated images as evidence, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
-- Identity rulings that combine these claims belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
-- To read the directory series behind a studio's working span, use [city-directory observations](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md).
-- Cite each copy and its holder with [source citation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md).
+- For restored, colorized or AI-generated images as evidence, use [AI for documentary records](ai-for-documentary-records.md).
+- Identity rulings that combine these claims belong in [evidence/proof judgment](evidence-proof-judgment.md).
+- To read the directory series behind a studio's working span, use [city-directory observations](city-directory-observation-workflow.md).
+- Cite each copy and its holder with [source citation](source-citation.md).
 
 ## Record each identification as an attributed claim
 

@@ -17,15 +17,15 @@ router: {"tier": "pointer", "group": "Church and civil registers", "order": 1050
 
 # Recover a Portuguese ancestor in the parish and civil registers of mainland Portugal, the Azores and Madeira
 
-Use this recipe to find a baptism, marriage or death in mainland Portugal, the Azores or Madeira, in the parish books or the civil register. Use it before you treat Portuguese records like Spanish or Hispanic ones. That mistake leads to four failures: searching a civil register that did not cover the person, looking in the wrong archive, reading the first surname as the father's, and calling a book missing when another archive holds it. Brazil is out of scope. So are Portuguese-Jewish communities abroad; for Amsterdam, use [Amsterdam archival record recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/b89b086db98d5f1588e5c07b0b02854d14893708/skills/genealogy-research-recipes/recipes/amsterdam-archival-record-recovery.md).
+Use this recipe to find a baptism, marriage or death in mainland Portugal, the Azores or Madeira, in the parish books or the civil register. Use it before you treat Portuguese records like Spanish or Hispanic ones. That mistake leads to four failures: searching a civil register that did not cover the person, looking in the wrong archive, reading the first surname as the father's, and calling a book missing when another archive holds it. Brazil is out of scope. So are Portuguese-Jewish communities abroad; for Amsterdam, use [Amsterdam archival record recovery](amsterdam-archival-record-recovery.md).
 
 It covers the choice of register, who holds the books, tombo.pt, the separate series, what each period recorded, name order and an emigrant's parish. Link out for the shared steps:
 
-- **Parish original versus diocesan copy, dispensations and online misses as coverage gaps:** [Catholic parish and diocesan record recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/b89b086db98d5f1588e5c07b0b02854d14893708/skills/genealogy-research-recipes/recipes/catholic-parish-diocesan-record-recovery.md).
-- **Baptism date versus birth date, adult baptism, devotional name prefixes and the family sweep:** [Hispanic Catholic register recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/b89b086db98d5f1588e5c07b0b02854d14893708/skills/genealogy-research-recipes/recipes/hispanic-catholic-register-recovery.md). Do not use its surname order for Portugal (step 6 here).
-- **FamilySearch Catalog, film and DGS mechanics and browsing unindexed images:** [FamilySearch practical workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
-- **The U.S. arrival and naturalization side of an emigrant:** [U.S. immigration search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md).
-- **Identity rulings and same-named people:** [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- **Parish original versus diocesan copy, dispensations and online misses as coverage gaps:** [Catholic parish and diocesan record recovery](catholic-parish-diocesan-record-recovery.md).
+- **Baptism date versus birth date, adult baptism, devotional name prefixes and the family sweep:** [Hispanic Catholic register recovery](hispanic-catholic-register-recovery.md). Do not use its surname order for Portugal (step 6 here).
+- **FamilySearch Catalog, film and DGS mechanics and browsing unindexed images:** [FamilySearch practical workflows](familysearch-practical-record-workflows.md).
+- **The U.S. arrival and naturalization side of an emigrant:** [U.S. immigration search recovery](usa-immigration-search-recovery.md).
+- **Identity rulings and same-named people:** [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
 

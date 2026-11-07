@@ -21,9 +21,9 @@ Use this recipe when a Civil War soldier or sailor has a Union draft registratio
 
 Related recipes:
 
-- To carry a service clue into a pension file and inventory the claim, use [pension-file recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md). Its §4 covers declared service and unresolved roster conflicts.
-- For the same date-role and successive-episode discipline in another war, see [Russian military/repression episodes](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md).
-- Identity rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- To carry a service clue into a pension file and inventory the claim, use [pension-file recovery](us-military-pension-file-recovery.md). Its §4 covers declared service and unresolved roster conflicts.
+- For the same date-role and successive-episode discipline in another war, see [Russian military/repression episodes](russian-military-repression-record-episodes.md).
+- Identity rulings belong in [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Record a draft registration as registration only
 

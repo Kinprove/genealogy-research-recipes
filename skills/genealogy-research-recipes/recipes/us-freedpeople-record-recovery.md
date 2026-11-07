@@ -21,10 +21,10 @@ Use this recipe when an African American family is documented in 1870 or later a
 
 Overlapping steps live in sibling recipes:
 
-- Changing surnames and family-group comparison across censuses: [census workflows § 9](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md).
-- Full Text Search mechanics and associate searches: [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md) and [FamilySearch workflows § 11](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
-- Recovering a whole estate file: [probate case inventory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md).
-- Identity rulings: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- Changing surnames and family-group comparison across censuses: [census workflows § 9](us-census-practical-workflows.md).
+- Full Text Search mechanics and associate searches: [AI for documentary records](ai-for-documentary-records.md) and [FamilySearch workflows § 11](familysearch-practical-record-workflows.md).
+- Recovering a whole estate file: [probate case inventory](probate-case-document-inventory.md).
+- Identity rulings: [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
 
@@ -163,8 +163,8 @@ Keep a coverage log of every series checked.
 ## 7. Keep narratives and DNA as separate tests
 
 - **WPA narratives.** The Federal Writers' Project interviews (1936–1938) hold more than 2,300 first-person accounts by former slaves. A narrative from the same birthplace or birth year gives locality context. It is not evidence about the ancestor. Note the narratives' limits: memories more than 60 years old, uneven transcription and reduced candor with white interviewers [S7].
-- **Handed-down accounts.** A family's account of an enslaved ancestor may not be a first-person narrative. It can be an oral history handed down over generations [S38]. Record its chain of tellers as [family interviews and oral tradition](https://github.com/Kinprove/genealogy-research-recipes/blob/b89b086db98d5f1588e5c07b0b02854d14893708/skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md) describes, and treat what it says as a hypothesis to test, not as the ancestor's own testimony.
-- **DNA.** DNA matches to descendants of a proposed sibling test one hypothesis [S15]. A Y-DNA surname mismatch is another. Neither proves who the enslaver or the father was. Route them to [Y-DNA interpretation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ydna-mtdna-interpretation.md) and [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- **Handed-down accounts.** A family's account of an enslaved ancestor may not be a first-person narrative. It can be an oral history handed down over generations [S38]. Record its chain of tellers as [family interviews and oral tradition](family-interviews-and-oral-tradition.md) describes, and treat what it says as a hypothesis to test, not as the ancestor's own testimony.
+- **DNA.** DNA matches to descendants of a proposed sibling test one hypothesis [S15]. A Y-DNA surname mismatch is another. Neither proves who the enslaver or the father was. Route them to [Y-DNA interpretation](ydna-mtdna-interpretation.md) and [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Outputs
 

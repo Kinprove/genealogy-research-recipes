@@ -30,10 +30,10 @@ This recipe covers locating German local records, keeping place roles separate a
 a supported settlement or residential-registration lead into its associated administrative
 file. It does not cover these related tasks, which have their own recipes:
 
-- Checking parent and child jurisdictions in the FamilySearch Catalog: [FamilySearch holdings audit](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) (§ 2).
+- Checking parent and child jurisdictions in the FamilySearch Catalog: [FamilySearch holdings audit](familysearch-practical-record-workflows.md) (§ 2).
 - Getting from U.S. arrival records to a German origin locality: [German emigrant origin sources](german-emigrant-origin-sources.md).
-- Retrieving records from Polish archives: [Polish original-record recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/polish-index-original-record-recovery.md).
-- Identity and birthplace rulings: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- Retrieving records from Polish archives: [Polish original-record recovery](polish-index-original-record-recovery.md).
+- Identity and birthplace rulings: [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
 
@@ -201,4 +201,4 @@ Return:
 - where an associated-file route was followed, the referring entry, separate file and
   actual enclosures, with their retrieval status and unresolved links.
 
-Name the next archive or heading for any route still open. Log searches using [research documentation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md).
+Name the next archive or heading for any route still open. Log searches using [research documentation](research-documentation.md).

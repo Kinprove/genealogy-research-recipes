@@ -28,12 +28,12 @@ The worked material comes almost entirely from the Perm, Ekaterinburg and Tobols
 
 Other recipes cover the overlapping steps:
 
-- **Locality coverage.** For planning the next searches from a locality's record coverage, use [research documentation: turn locality coverage into the next searches](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md).
-- **Composite files and book ledgers.** For composite-file headings and a per-year book ledger of pages × targets, use [archival image coverage verification](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md).
-- **Locators.** For leaf, side and sequence locators, use [source citation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md).
-- **Cancellations and AI transcription.** For bracketed cancellations and AI transcription, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
-- **Kinship rulings.** For legitimacy labels, separation versus divorce, and the final kinship ruling, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
-- **Jewish records.** For Jewish rabbinate books and registration (приписка), use [Russian-Empire Jewish identity attribution](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md).
+- **Locality coverage.** For planning the next searches from a locality's record coverage, use [research documentation: turn locality coverage into the next searches](research-documentation.md).
+- **Composite files and book ledgers.** For composite-file headings and a per-year book ledger of pages × targets, use [archival image coverage verification](archival-image-coverage-verification.md).
+- **Locators.** For leaf, side and sequence locators, use [source citation](source-citation.md).
+- **Cancellations and AI transcription.** For bracketed cancellations and AI transcription, use [AI for documentary records](ai-for-documentary-records.md).
+- **Kinship rulings.** For legitimacy labels, separation versus divorce, and the final kinship ruling, use [evidence/proof judgment](evidence-proof-judgment.md).
+- **Jewish records.** For Jewish rabbinate books and registration (приписка), use [Russian-Empire Jewish identity attribution](russian-empire-jewish-identity-attribution.md).
 - **Bessarabian books.** For Bessarabian metrical books of 1811–1923, which the National Archives Agency of Moldova (ANA) keeps in fond 211 by district opis (its op. 23 covers Tiraspol uezd of Kherson guberniya), use [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
 - **Galician and Bukovinian books.** For Galician Greek Catholic and Roman Catholic books, Bukovinian Orthodox books and the archives that hold them, use [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
 
@@ -119,7 +119,7 @@ Every parish-year has two possible copies: the parish copy stayed at the church,
 
   Report a parish-year as missing only after you have opened every delo row for it.
 - **Copy the page string exactly as the inventory gives it,** including oddities such as "226об.243", "218об.-236", "32-96а" or reversed spans like "572-408". These are what the inventory says, not corrected readings. [S3]
-- **Log what you inspected.** Use [archival image coverage verification](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) to record which parts (births, marriages, deaths) and which leaves you actually inspected.
+- **Log what you inspected.** Use [archival image coverage verification](archival-image-coverage-verification.md) to record which parts (births, marriages, deaths) and which leaves you actually inspected.
 
 ## 5. When an entry conflicts with other records, read the other exemplar
 
@@ -240,7 +240,7 @@ Copy each note in full, with its issuing body, date and number, as a separate ob
   - revision-list candidates of matching age
   - godparent patterns.
 
-  Leave the ruling to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). [S11], [S19]
+  Leave the ruling to [evidence/proof judgment](evidence-proof-judgment.md). [S11], [S19]
 
 ## 10. Use machine-read full-text search for leads, never for a negative
 

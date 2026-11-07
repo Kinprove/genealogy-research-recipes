@@ -19,7 +19,7 @@ router: {"tier": "pointer", "group": "U.S. military service", "order": 1108}
 
 Use this recipe before you search for, or rule out, pre-1900 U.S. military service. The usual failure is to search only federal compiled-service or pension indexes and then report "no service". A related mistake is reading an empty donation-land or bounty-land search as meaningful when the man was never eligible. This recipe works out the probable service type, sends each type to its own record series and custodian, labels what each record actually shows, and keeps same-named men apart.
 
-To retrieve a pension or bounty-land file, use [pension-file recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md) (§1 for custodians, §4 for service the file does not declare). For merge or separate rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+To retrieve a pension or bounty-land file, use [pension-file recovery](us-military-pension-file-recovery.md) (§1 for custodians, §4 for service the file does not declare). For merge or separate rulings, use [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## 1. Fix residence and enlistment place, then classify the service
 

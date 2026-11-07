@@ -19,7 +19,7 @@ router: {"tier": "pointer", "group": "Church and civil registers", "order": 1057
 
 Use this when a Danish, Norwegian, Swedish or Icelandic emigrant is known from destination records and you need to find that person in the home parish. The main way this goes wrong is searching the American surname in home-country indexes, finding nothing or attaching the wrong same-named person. The name in the parish register is usually not the American surname. Same-named parishioners are common, so separate them by birth date, parents, spouse, farm and vaccination entries, never by name alone.
 
-Covered elsewhere and not repeated here: [same-name elimination](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md), [searching through an associate (§9)](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md), classifying name tokens (the catalogue's recipe on name searches across scripts and OCR), [native spellings and holdings audits (§2)](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
+Covered elsewhere and not repeated here: [same-name elimination](evidence-proof-judgment.md), [searching through an associate (§9)](ancestry-record-search-recovery.md), classifying name tokens (the catalogue's recipe on name searches across scripts and OCR), [native spellings and holdings audits (§2)](familysearch-practical-record-workflows.md).
 
 ## Contents
 
@@ -111,7 +111,7 @@ Vaccination became compulsory in Norway from 1810 and in Sweden from 1816. Denma
 
 Tanner warns that a Norwegian line with no source at the house-census or farm level is very likely wrong in its places, its names or both [S4]. Treat such an inherited tree as unverified until you have tied it to farm-level records, such as the censuses and church records on Digitalarkivet.
 
-A candidate matches only when several of these discriminators agree. Leave any column you could not fill blank, and send the merge-or-separate decision to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+A candidate matches only when several of these discriminators agree. Leave any column you could not fill blank, and send the merge-or-separate decision to [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Read a Norwegian bygdebok by farm, then verify it
 

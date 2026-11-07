@@ -21,10 +21,10 @@ Use this recipe to find a Mexican or other Hispanic Catholic ancestor in parish 
 
 The recipe covers parish selection, reading the entry field by field, devotional-name and two-surname searches, date roles, pairing civil and church records, sweeping the family, and the diocesan copy. Link out for the overlapping steps:
 
-- **Born-before limits and same-named siblings:** [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
-- **Index-to-image steps for parish registers:** [Irish parish image recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/irish-catholic-parish-image-recovery.md).
-- **AI-indexed Iberian entries, abbreviation expansion and the margin-note correction loop:** [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
-- **Catalog, film and DGS mechanics and unindexed image browsing:** [FamilySearch practical workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
+- **Born-before limits and same-named siblings:** [evidence/proof judgment](evidence-proof-judgment.md).
+- **Index-to-image steps for parish registers:** [Irish parish image recovery](irish-catholic-parish-image-recovery.md).
+- **AI-indexed Iberian entries, abbreviation expansion and the margin-note correction loop:** [AI for documentary records](ai-for-documentary-records.md).
+- **Catalog, film and DGS mechanics and unindexed image browsing:** [FamilySearch practical workflows](familysearch-practical-record-workflows.md).
 - **A Brazilian or Portuguese ancestor:** [Brazilian parish and civil registry recovery](brazilian-parish-civil-registry-recovery.md) or [Portuguese parish and civil register recovery](portuguese-parish-civil-register-recovery.md). Do not use this recipe's civil start years for them.
 
 ## Contents
@@ -142,7 +142,7 @@ For machine- or AI-indexed versions of these entries, use the correct-and-verify
   - another parish
   - the priesthood or religious vows
 
-  Also work backward from a burial to the marriage or the children's baptisms [S10]. For burial-record handling, use the [burial evidence packet](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/burial-evidence-packet.md).
+  Also work backward from a burial to the marriage or the children's baptisms [S10]. For burial-record handling, use the [burial evidence packet](burial-evidence-packet.md).
 - **A death entry can point to a will.** In Puerto Rico a death entry can name the notary, the filing date and the executors of a will; the source finds this mostly in civil death records and occasionally in church ones [S19]. Record the notary and the date as the lead to the will. The source points to the Last Wills and Testaments series at the Archivo General de Puerto Rico in San Juan [S19]. Read the death entry for this note before you conclude that no will exists.
 - **In Argentina, search the gazette for a succession edict.** A court edict that "cita y emplaza … a herederos y acreedores de …" (summons the heirs and creditors of …) names the deceased, the court (juzgado and its number) and the secretaría handling the sucesión (probate file) [S25]. Use the court and secretaría to find the sucesión file. The edict shows only that the death came before its first publication, which can be months or years after the death; do not record the publication as a death date. The national Boletín Oficial is on the Internet Archive from its 1893 issues [S26], [S27]. Its OCR is noisy, so search spelling variants of the name. From January 1950 the court edicts are in the segunda sección (second section). Before that they are in the first section [S25].
 

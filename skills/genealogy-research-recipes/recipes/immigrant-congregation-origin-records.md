@@ -23,10 +23,10 @@ For German-speaking Protestant immigrants, the main finding aid is Roger P. Mine
 
 Related recipes cover the surrounding steps:
 
-- For the journey sequence and for church admission or transfer entries used as place-role clues, use [U.S. immigration search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md).
-- For resolving the stated locality and handing it to the holding archive, use §5 of [emigrant origin recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md). That recipe was written for Russian Empire cases. Use only its general handoff steps, not its jurisdiction-specific guidance.
-- For fixing residences, use the [census](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md) and [city-directory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md) recipes.
-- For identity rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- For the journey sequence and for church admission or transfer entries used as place-role clues, use [U.S. immigration search recovery](usa-immigration-search-recovery.md).
+- For resolving the stated locality and handing it to the holding archive, use §5 of [emigrant origin recovery](russian-empire-emigrant-origin-recovery.md). That recipe was written for Russian Empire cases. Use only its general handoff steps, not its jurisdiction-specific guidance.
+- For fixing residences, use the [census](us-census-practical-workflows.md) and [city-directory](city-directory-observation-workflow.md) recipes.
+- For identity rulings, use [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
 
@@ -111,7 +111,7 @@ Then inspect the original image for three things:
 - details the abstract leaves out (Everett's original death entry added widowhood, a birth date, birthplace and residence details)
 - other entries for the same family [S1]
 
-Keep three locators separate and linked: the abstract page, the film, archive or Ancestry reference, and the image locator. For catalogue and film navigation, use [FamilySearch workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) or [Ancestry search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md).
+Keep three locators separate and linked: the abstract page, the film, archive or Ancestry reference, and the image locator. For catalogue and film navigation, use [FamilySearch workflows](familysearch-practical-record-workflows.md) or [Ancestry search recovery](ancestry-record-search-recovery.md).
 
 ### Swedish-American membership entry to a Swedish parish search
 

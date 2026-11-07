@@ -85,6 +85,10 @@ An upstream draft exporter may produce the body first; pass that body through
 this step before committing it here. Existing public recipes are edited in
 place, preserving their headers and public corrections.
 
+Use relative Markdown links for bundled files in recipes and `SKILL.md`. A
+GitHub blob URL selects a separate copy and needs network access; the offline
+regression suite rejects these self-repository URLs regardless of their ref.
+
 ## Locked maintainer and CI tools
 
 Use Node 24.16 or newer (Node 24 or 26) and install the tools from the repository
