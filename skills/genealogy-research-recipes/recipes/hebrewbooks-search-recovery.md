@@ -88,9 +88,9 @@ book's edition and page as in step 6.
    combination with `site:hebrewbooks.org ימקב`. Also try `https://beta.hebrewbooks.org/`,
    the enhanced search entry point identified by Brand's 2022 guide. On 2026-11-07 automated
    requests to it and to the main site got mixed answers, some of them HTTP 403 with a Cloudflare
-   challenge, so confirm in a browser that it is still offered. For full-text search in another large Hebrew library,
-   Otzar HaHochma (`https://www.otzar.org/`) offers OCR search of about 156,000 Judaic books as
-   a paid service.
+   challenge, so confirm in a browser that it is still offered. Another large Hebrew library,
+   Otzar HaHochma (`https://www.otzar.org/`), sells OCR full-text search of about 156,000
+   Judaic books.
    **For an inaccessible catalogue, also use the [Shafeh search form](https://shafeh.org/hb/search).**
    It exposes separate title, author and OCR fields. A live title-field query for
    `מסילת ישרים` on 2026-10-03 returned matching record **41768**, alongside partial

@@ -55,7 +55,7 @@ Keep an actual query ledger: database, access path, fields, methods, Boolean rel
 
 ### Mixed-field batches to try
 
-These combinations are retrieval plans, not results from completed searches. Each combines two fields. Global Search joins two criteria with AND for every user; a third or fourth criterion, or OR between rows, needs JewishGen's Value-Added status, which comes with a donation. Without it, split a wider plan into two-field passes and compare the remaining values locally. [Global Search](https://www.jewishgen.org/search/Global_Search.php), [Value-Added Services](https://www.jewishgen.org/JewishGen-erosity/valueadded.html). Use separate methods per field only where the interface supports them; otherwise split the passes and compare the remaining values locally. Begin without an age or Town restriction when those are uncertain.
+These combinations are retrieval plans, not results from completed searches. Each combines two fields. Global Search joins two criteria with AND for every user; a third or fourth criterion, or OR between rows, needs JewishGen's Value-Added status, which comes with a donation. [Global Search](https://www.jewishgen.org/search/Global_Search.php), [Value-Added Services](https://www.jewishgen.org/JewishGen-erosity/valueadded.html). Use separate methods per field only where the interface supports them. Without Value-Added status, or where the interface does not support it, split the plan into two-field passes and compare the remaining values locally. Begin without an age or Town restriction when those are uncertain.
 
 | Batch | Combination with AND | Purpose |
 | --- | --- | --- |

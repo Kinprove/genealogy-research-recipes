@@ -182,6 +182,7 @@ posts give them, so check the dictionary article before you rely on one:
 
 The examples and ambiguous entries above were checked directly against the two indexes on
 2026-10-01. The entries to check were compared with the 2024-12-25 archive captures named in the
-JSON on 2026-11-07, and the companion pairs with Blatt's slides and the bundled keys on the same day. Their historical coverage is the index compiler's stated scope. The complete
+JSON on 2026-11-07, and the companion pairs with Blatt's slides and the bundled keys on the
+same day. The indexes' historical coverage is the compiler's stated scope. The complete
 dictionary articles and the equivalence of any particular person's records have not been
 established by this lookup.

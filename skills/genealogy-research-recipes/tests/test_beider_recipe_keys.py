@@ -38,7 +38,11 @@ class BeiderRecipeKeyTests(unittest.TestCase):
     def setUpClass(cls):
         cls.text = RECIPE.read_text(encoding="utf-8")
         cls.indexes = lookup.load_manifest()
-        cls.keys = {sex: {key for _, key in index["entries"]} for sex, index in cls.indexes.items()}
+        cls.pairs = {sex: set(index["entries"]) for sex, index in cls.indexes.items()}
+
+    def assert_article(self, sex, key, message):
+        """Use the lookup the helper runs for `--key`."""
+        self.assertIsNotNone(lookup.find_variants(self.indexes[sex]["entries"], key=key, limit=1), message)
 
     def test_every_companion_key_is_a_male_article(self):
         rows = table_rows(self.text, COMPANIONS)
@@ -47,25 +51,28 @@ class BeiderRecipeKeyTests(unittest.TestCase):
             keys = CODE.findall(row[2])
             self.assertTrue(keys, f"no article key in row {row}")
             for key in keys:
-                self.assertTrue(lookup.normalize_name(key) in self.keys["male"], f"unknown male article {key}")
+                self.assert_article("male", key, f"unknown male article {key}")
 
     def test_every_entry_to_check_is_in_the_stated_index(self):
         rows = table_rows(self.text, CHECK_ENTRIES)
         self.assertGreaterEqual(len(rows), 5, "entries-to-check table not found or too short")
         for row in rows:
             sex = row[0].lower()
-            pairs = set(self.indexes[sex]["entries"])
             (name,) = CODE.findall(row[1])
             keys = CODE.findall(row[2])
             self.assertTrue(keys, f"no article key in row {row}")
             for key in keys:
                 pair = (lookup.normalize_name(name), lookup.normalize_name(key))
-                self.assertIn(pair, pairs, f"{sex} index has no row {pair}")
+                self.assertTrue(pair in self.pairs[sex], f"{sex} index has no row {pair}")
             for key in KEY_OPTION.findall(row[3]):
-                self.assertTrue(lookup.normalize_name(key) in self.keys[sex], f"`--key {key}` names no {sex} article")
+                self.assert_article(sex, key, f"`--key {key}` names no {sex} article")
 
     def test_table_reader_stops_at_the_next_heading(self):
-        text = f"{COMPANIONS}\n\n| A | B | C |\n| --- | --- | --- |\n| x | y | `Z` |\n\n### Next\n\n| A | B | C |\n| q | r | `S` |\n"
+        text = f"{COMPANIONS}\n\nNo table here.\n\n### Next\n\n| A | B | C |\n| --- | --- | --- |\n| q | r | `S` |\n"
+        self.assertEqual(table_rows(text, COMPANIONS), [])
+
+    def test_table_reader_returns_only_the_first_table(self):
+        text = f"{COMPANIONS}\n\n| A | B | C |\n| --- | --- | --- |\n| x | y | `Z` |\n\nText.\n\n| A | B | C |\n| q | r | `S` |\n"
         self.assertEqual(table_rows(text, COMPANIONS), [["x", "y", "`Z`"]])
 
 
