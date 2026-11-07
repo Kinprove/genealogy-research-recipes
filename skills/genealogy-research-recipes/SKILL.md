@@ -292,15 +292,7 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* ship and aircraft passenger lists, Canada/Mexico crossing records, naturalization
   minute books, C-files, A-files and AR-2 records.
   *Core guardrail:* preserve the complete image context and actual collection coverage; resolve
-  citizenship rules and file custody for the person's dates before drawing conclusions. *Public
-  companion route:* when this recipe names `russian-empire-emigrant-origin-recovery`, use the public
-  [Tracing Immigrant Origins
-  outline](https://files.lib.byu.edu/family-history-library/research-outlines/NonGeographic/TracingImmigrantOrigins.pdf)
-  for finding the original hometown and selecting origin-side sources. Confirm the historical
-  jurisdiction and record language with current archive finding aids. For Jewish name and
-  registration/residence attribution, use the [Russian-Empire identity
-  recipe](recipes/russian-empire-jewish-identity-attribution.md). The U.S. workflows can also be
-  used independently.
+  citizenship rules and file custody for the person's dates before drawing conclusions.
 
 - **`recipes/familysearch-practical-record-workflows.md`** — FamilySearch record recovery and Tree maintenance.
   Nineteen FamilySearch operations: recover Catalog/DGS holdings and image-only records, preserve

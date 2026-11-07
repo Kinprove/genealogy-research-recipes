@@ -58,7 +58,9 @@ class RecipeCatalogTests(unittest.TestCase):
 
     def test_dangling_references_fail_in_body_and_handoff(self):
         for reference in ("[other](no-such-recipe.md)", "**`recipes/no-such-recipe.md`**",
-                          "recipe **no-such-recipe**", "[other](../recipes/no-such-recipe.md#part)"):
+                          "recipe **no-such-recipe**", "**recipes/no-such-recipe.md**",
+                          "when this recipe names `russian-empire-immigration-research`",
+                          "[other](../recipes/no-such-recipe.md#part)"):
             with self.subTest(reference=reference), self.assertRaisesRegex(catalog.CatalogError, "missing recipe"):
                 catalog.load_catalog(replacement=(self.metadata["id"] + ".md",
                     catalog.emit_recipe(self.metadata, self.body + "\n" + reference)))
@@ -85,6 +87,15 @@ class RecipeCatalogTests(unittest.TestCase):
         changed[0][0]["guardrails"][0]["text"] = "A different rule."
         self.assertNotEqual(original, catalog.render_router(changed))
         self.assertIn("*Core guardrail:* A different rule.", catalog.render_router(changed))
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            skill = root / catalog.SKILL_PATH
+            skill.mkdir(parents=True)
+            source = (ROOT / catalog.SKILL_PATH / "SKILL.md").read_text(encoding="utf-8")
+            (skill / "SKILL.md").write_text(source.replace("*Core guardrail:*", "*Changed guardrail:*", 1))
+            (root / "README.md").write_text((ROOT / "README.md").read_text(encoding="utf-8"))
+            with patch.object(catalog, "ROOT", root), patch.object(catalog, "load_catalog", return_value=self.items):
+                self.assertEqual(catalog.main(["--check"]), 1)
 
     def test_guardrail_ids_are_unique_across_recipes(self):
         self.metadata["guardrails"][0]["id"] = self.items[1][0]["guardrails"][0]["id"]

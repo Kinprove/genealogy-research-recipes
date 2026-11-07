@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["ship and aircraft passenger lists, Canada/Me
 triggers: ["ship and aircraft passenger lists", "Canada/Mexico crossing records", "naturalization minute books", "C-files", "A-files and AR-2 records"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "USA-IMMIGRATION-SEARCH-RECOVERY-01", "text": "preserve the complete image context and actual collection coverage; resolve citizenship rules and file custody for the person's dates before drawing conclusions. *Public companion route:* when this recipe names `russian-empire-emigrant-origin-recovery`, use the public [Tracing Immigrant Origins outline](https://files.lib.byu.edu/family-history-library/research-outlines/NonGeographic/TracingImmigrantOrigins.pdf) for finding the original hometown and selecting origin-side sources. Confirm the historical jurisdiction and record language with current archive finding aids. For Jewish name and registration/residence attribution, use the [Russian-Empire identity recipe](recipes/russian-empire-jewish-identity-attribution.md). The U.S. workflows can also be used independently."}]
+guardrails: [{"id": "USA-IMMIGRATION-SEARCH-RECOVERY-01", "text": "preserve the complete image context and actual collection coverage; resolve citizenship rules and file custody for the person's dates before drawing conclusions."}]
 handoff: ["land-index-book-series-recovery", "russian-empire-jewish-identity-attribution"]
 checked: "2026-10-26"
 checked_basis: "checked 26 October 2026"

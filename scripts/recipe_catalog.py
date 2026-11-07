@@ -141,6 +141,11 @@ def recipe_references(text):
             yield Path(path).stem
     for name in re.findall(r"`(?:recipes/)?([a-z0-9]+(?:-[a-z0-9]+)*)\.md(?:#[^`]+)?`", text):
         yield name
+    for name in re.findall(r"\*\*(?:recipes/)?([a-z0-9]+(?:-[a-z0-9]+)*)\.md\*\*", text):
+        yield name
+    for name in re.findall(r"(?:recipe (?:names|complements)|use)\s+`([a-z0-9]+(?:-[a-z0-9]+)+)`", text):
+        if name != "genealogy-research-recipes":  # the containing skill is also a valid destination
+            yield name
     for name in re.findall(r"\brecipe\s+\*\*`?([a-z0-9]+(?:-[a-z0-9]+)+)`?\*\*", text, re.I):
         yield name
 
