@@ -181,7 +181,7 @@ The household sheets of the 1897 census were ordered destroyed after tabulation.
 
 1. Check the survival catalogues. The volunteer catalogue at metrics.tilda.ws/perepis1897 is arranged by country and archive, sometimes down to fond, delo and uezd, and marks some entries as unconfirmed. [S27] Altai State University's arch1897.histcensus.asu.ru catalogues the census's archival fonds. [S28]
 2. Then read the holder's own inventory. A census-commission fond does not mean that named sheets survive, and an uezd absent from a catalogue is not proven lost.
-3. Two large surviving sets show what to expect. The State Archive in Tobolsk holds the sheets of the Tobolsk guberniya statistical committee (ф. И-417, оп. 2, д. 1–4175): second and trial copies for eight uezds and their towns, all except Berezov and Surgut, digitised with paid online access. [S39], [S40] The State Archive of Yaroslavl Oblast keeps an 1897 census database and electronic indexes for the residents of some towns of the guberniya, Yaroslavl among them. [S41] Even inside such a set, check the delo for the settlement.
+3. Two surviving sets are examples. The State Archive in Tobolsk holds the sheets of the Tobolsk guberniya statistical committee (ф. И-417, оп. 2, д. 1–4175): second and trial copies for eight uezds and their towns, all except Berezov and Surgut, digitised with paid online access. [S39], [S40] The State Archive of Yaroslavl Oblast keeps an 1897 census database and electronic indexes for the residents of some towns of the guberniya, Yaroslavl among them. [S41] Even inside such a set, check the delo for the settlement.
 
 Rootera's 1897 index (rootera.lv) covers only places in present-day Latvia and is still being extended. [S30]
 

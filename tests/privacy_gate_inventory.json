@@ -1017,7 +1017,7 @@
   "recipe": "polish-index-original-record-recovery.md",
   "kind": "request",
   "action": "Ask the USC that holds the book for access to the named book and entry",
-  "checkpoint": "A USC request can reach a book that still holds"
+  "checkpoint": "A USC request can reach a book the office kept"
  },
  {
   "recipe": "repository-photograph-collection-search.md",

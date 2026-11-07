@@ -289,12 +289,12 @@ pages can name living relatives; keep their details out of shared output.
    written consent of the rehabilitated person or, after death, of the heirs until 75 years after
    the documents were created (joint order of the Ministry of Culture, MVD and FSB No. 375/584/352
    of 25 July 2006; Law 1761-1, art. 11; Federal Law 125-FZ, art. 25 part 3). [H49], [H50], [H51]
-   Since 2025 some state archives have been reported refusing researchers without proof of kinship
-   even after 75 years, under Rosarkhiv order No. 38 of 20 March 2025. [H52] The order does not
-   govern files of people refused rehabilitation or whose cases were not reviewed; for a file with
-   a negative rehabilitation finding, the archive gives a certificate of the review result. [H49]
-   Any user can get basic biographical data and the review result without consent: that is the
-   short certificate. So ask for the file itself, state the kinship and attach its proof, and ask
+   Since 2025 some state archives have been reported refusing researchers access to rehabilitated
+   victims' files without proof of kinship, citing Rosarkhiv order No. 38 of 2025. [H52] The 2006
+   order does not govern files of people refused rehabilitation or whose cases were not reviewed;
+   for a file with a negative rehabilitation finding, the archive gives a certificate of the review
+   result. [H49] Any user can get a rehabilitated person's basic biographical data and the review
+   result without consent: that is the short certificate. So ask for the file itself, state the kinship and attach its proof, and ask
    for the time and cause of death and the burial place, which the archive must give for a
    rehabilitated person if it holds them. [H49], [H50]
 3. Identify the present custodian from a current official finding aid or archive response for

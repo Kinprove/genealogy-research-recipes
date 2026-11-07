@@ -174,8 +174,8 @@ The Civil Status Records Act (Prawo o aktach stanu cywilnego, Dz.U. 2014 poz. 17
 transfer rule for books kept before 1 March 2015. The USC passes a book to the competent state
 archive 100 years after the birth book was closed, and 80 years after the marriage or death book was
 closed. When one volume holds several books, the period runs from the closing of the last of them
-(art. 128(1)). A book whose period ended after 1 March 2015 goes to the archive within two years of
-that date (art. 129(3)). A birth or marriage book stays at the USC longer while a person entered in
+(art. 128(1)). A book whose period ended after 1 March 2015 goes to the archive within two years after
+its period ends (art. 129(3)). A birth or marriage book stays at the USC longer while a person entered in
 it has no death act or registered death; if that person has no PESEL number, the USC may transfer
 the book anyway (art. 128(1a)–(1b)). [O17]
 
@@ -183,9 +183,9 @@ So a book older than 100 or 80 years can still be at the USC. Once the period, i
 extension, has run out, the USC issues no certificate (odpis) from the book. Until it transfers the
 book, it gives access under the archives act (art. 130(3)–(4)). [O17]
 
-**Privacy gate:** <!-- privacy-gate: request --> A USC request can reach a book that still holds
-living people, which is why the book stayed at the office; answer the privacy gate in `SKILL.md`
-before sending it.
+**Privacy gate:** <!-- privacy-gate: request --> A USC request can reach a book the office kept
+because a person entered in it has no recorded death, so it may name living people; answer the
+privacy gate in `SKILL.md` before sending it.
 
 Ask the USC that holds the book for access to the named book and entry before you call it lost, and
 record whether it granted access or refused. [O17]

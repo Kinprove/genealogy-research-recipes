@@ -44,7 +44,8 @@ class PolishCustodyTests(unittest.TestCase):
     def test_pradziad_is_searched_inside_szukaj_without_a_closure_year(self):
         passage = between(self.TEXT, "Treat PRADZIAD as a finding aid.", "**List of files**")
         self.assertIn("It is searched inside Szukaj w Archiwach", passage)
-        self.assertIsNone(re.search(r"PRADZIAD[^.]*\b2019\b|\b2019\b[^.]*PRADZIAD", self.TEXT))
+        # A window, not a sentence: dots inside domain names would end a sentence pattern early.
+        self.assertIsNone(re.search(r"PRADZIAD.{0,200}\b2019\b|\b2019\b.{0,200}PRADZIAD", self.TEXT))
 
 
 class GaliciaHoldersTests(unittest.TestCase):
@@ -75,14 +76,14 @@ class GaliciaHoldersTests(unittest.TestCase):
 
     def test_jewish_books_are_not_sought_in_catholic_registers(self):
         step = between(self.TEXT, "## 2. Choose the books by confession", "## 3.")
-        self.assertIn("they did not keep them", step)
-        self.assertIn("forms were not standard until 1877", step)
+        self.assertIn("supervised the Jewish books, which the communities kept from 1789", step)
+        self.assertIn("no formal regulations or consistency until 1877", step)
         self.assertIsNone(
             re.search(r"(search|look)[^.]*(Roman Catholic|RC|Catholic) (parish )?register", step, re.IGNORECASE)
         )
 
     def test_khotin_villages_are_sent_to_the_bessarabia_recipe(self):
-        self.assertIn("north of Bessarabia's Khotin uezd", self.TEXT)
+        self.assertIn("that was in Khotin uezd of Bessarabia before 1918", self.TEXT)
         self.assertIn("(bessarabia-moldova-record-routing.md)", self.TEXT)
 
 
@@ -96,7 +97,7 @@ class SovietRepressionTests(unittest.TestCase):
             "either the person's written consent or proof of death",
             "or, after death, of the heirs",
             "75 years after the documents were created",
-            "Rosarkhiv order No. 38 of 20 March 2025",
+            "Rosarkhiv order No. 38 of 2025",
             "ask for the file itself",
         ):
             self.assertIn(phrase, step)
@@ -108,6 +109,8 @@ class SovietRepressionTests(unittest.TestCase):
         self.assertIn("declared the international public movement Memorial extremist", self.TEXT)
         self.assertIn("not a copy of it", self.TEXT)
         self.assertNotIn("updates stopped", self.TEXT)
+        for unsupported in ("mirror", "foreign IP", "foreign-IP"):
+            self.assertNotIn(unsupported, self.TEXT)
 
 
 class ChechenIngushCustodianTests(unittest.TestCase):
@@ -125,18 +128,20 @@ class ChechenIngushCustodianTests(unittest.TestCase):
         step = between(self.TEXT, "## 5. Ask the Chechen Republic's custodians", "## 6.")
         self.assertIn("f. Р-9479", step)
         self.assertIn("f. Р-9401", step)
-        self.assertIn("Neither fond is a route to an individual deportee's case file", step)
+        self.assertIn("The guide describes no personal files of deportees in either fond", step)
         self.assertNotIn("echelon lists", step)
 
 
 class ImperialRecordTests(unittest.TestCase):
     def test_central_service_record_fonds(self):
         text = recipe("russian-imperial-service-record-recovery.md")
-        passage = between(text, "**Also check the central series in St Petersburg.**", "When a list ends")
+        passage = between(text, "**Also check the central series.**", "When a list ends")
         for phrase in ("RGIA f. 1349", "оп. 3 (1800–1894", "RGIA f. 1343", "f. 409", "f. 879", "f. 546"):
             self.assertIn(phrase, passage)
         self.assertIn("a miss there is not a negative", passage)
         self.assertNotIn("3–6", passage)  # the alphabetical inventories are оп. 1–3
+        self.assertNotIn("first place", text)
+        self.assertNotIn("St Petersburg", passage)  # RGVIA is not there; no source places the series
         self.assertNotIn("f. 400", text)  # military physicians are in f. 879 and f. 546
 
     def test_police_register_is_one_row_not_the_first(self):
@@ -144,6 +149,7 @@ class ImperialRecordTests(unittest.TestCase):
         self.assertIn("only if the parents' marriage had been entered", text)
         self.assertIn("not ahead of them", text)
         self.assertNotIn("series to check first", text)
+        self.assertIsNone(re.search(r"\bmost\b[^.]*never used", text, re.IGNORECASE))  # testimony, not counts
 
     def test_revisions_without_women_are_named(self):
         text = recipe("russian-revision-list-household-chaining.md")
@@ -167,11 +173,13 @@ class MetricalBookTests(unittest.TestCase):
         for phrase in ("18 (31) December 1917", "20 January (2 February) 1918", "143-FZ, art. 77", "three rows"):
             self.assertIn(phrase, step)
         self.assertNotIn("many parishes", step)
+        # Art. 77 names ZAGS act books; it is not the rule for church metrical books.
+        self.assertIsNone(re.search(r"church.{0,60}art\. 77|art\. 77.{0,60}church", step, re.IGNORECASE))
 
     def test_calendar_rule_links_the_shared_offsets(self):
         for name in ("russian-orthodox-metrical-book-recovery.md", "soviet-personal-file-recovery.md"):
             text = recipe(name)
-            self.assertIn("Dates written before 14 February 1918 are Old Style", text)
+            self.assertIn("written before 14 February 1918, is normally Old Style", text)
             self.assertIn("evidence-proof-judgment.md#follow-record-versions-and-test-disputed-dates", text)
 
     def test_yandex_coverage_comes_from_its_catalogue(self):
@@ -183,7 +191,7 @@ class BorderCustodyTests(unittest.TestCase):
     def test_hamburg_departure_lists_are_a_ladder_step(self):
         text = recipe("russian-empire-emigrant-origin-recovery.md")
         step = between(text, "5. If the arrival record or a family account names Hamburg", "For a Canadian route")
-        self.assertIn("1850–1934 with no lists for 1915–1919", step)
+        self.assertIn("1850–1934 with a gap for 1915–1919", step)
         self.assertIn("usa-immigration-search-recovery.md#5-recover-an-arrival-through-the-departure-list", step)
         for unsupported in ("Libau", "Antwerp", "MyHeritage"):
             self.assertNotIn(unsupported, step)
@@ -194,7 +202,7 @@ class BorderCustodyTests(unittest.TestCase):
         self.assertIn("ask ANA, then the Public Services Agency", step)
         self.assertIn("for a register still inside the 100-year term, ask ASP", step)
         self.assertIn("for a village that went to the Ukrainian SSR in 1940, follow step 1", step)
-        self.assertIn("Op. 34 (1911–1923) lists only villages now in Moldova", step)
+        self.assertIn("file titles found only villages now in Moldova", step)
         self.assertNotIn("After 1923, look outside fond 211", text)
         self.assertNotIn("A later Romanian-period event needs another fond", text)
         self.assertNotIn("post-1944", step.lower())  # post-1944 registers are all still with ASP

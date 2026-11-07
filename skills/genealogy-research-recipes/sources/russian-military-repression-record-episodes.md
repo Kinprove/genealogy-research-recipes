@@ -240,7 +240,7 @@ search-engine extracts, as marked), and details those pages did not support were
   репрессий](https://meduza.io/news/2025/10/06/rosarhiv-ogranichil-issledovatelyam-dostup-k-delam-zhertv-politicheskih-repressiy),
   6 October 2025, after Kommersant, opened 2026-11-07 (a news report, secondary). Used for: state
   archives reported refusing researchers access to files of rehabilitated victims without proof of
-  kinship under Rosarkhiv order No. 38 of 20 March 2025, and Rosarkhiv's confirmation that its
+  kinship under Rosarkhiv order No. 38 of 2025, and Rosarkhiv's confirmation that its
   restricted list covers information on victims of political repression.
 - **H53:** Interfax, [Верховный суд ликвидировал общество "Мемориал"](https://www.interfax.ru/russia/812969),
   28 December 2021, opened 2026-11-07. Used for: the Supreme Court's order liquidating the

@@ -119,7 +119,7 @@ In one worked case, an 1825 marriage entry named the bride as the daughter of a 
   - Later, godparent links ran between the two families.
 - **The result.** The participant still called the attribution indirect. The bride's ages across six sources implied births from 1794 to 1808. Treat such a spread as a range that ranks candidates. A mismatch lowers a candidate's rank but does not exclude it. [S19]
 
-Dates written before 14 February 1918 are Old Style. [S43] A Soviet, ZAGS or émigré document may restate the same event in New Style, so a difference of 12 or 13 days is not by itself a conflict. Record both dates with their calendar. For the offsets and the 1918 switch, use [evidence/proof judgment: follow record versions and test disputed dates](evidence-proof-judgment.md#follow-record-versions-and-test-disputed-dates).
+An Orthodox metrical date, like other Russian dates written before 14 February 1918, is normally Old Style; check the document's own calendar note. [S43] A Soviet, ZAGS or émigré document may restate the same event in New Style, so a difference of 12 or 13 days is not by itself a conflict. Record both dates with their calendar. For the offsets and the 1918 switch, use [evidence/proof judgment: follow record versions and test disputed dates](evidence-proof-judgment.md#follow-record-versions-and-test-disputed-dates).
 
 ## 6. Recover a missing marriage
 
