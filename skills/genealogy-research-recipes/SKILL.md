@@ -64,9 +64,11 @@ unknown, do not move the data: keep it local and tell the user what is missing.
 - **Controls.** Inspect the destination's visibility, searchability, matching and export
   settings and any extension's permissions, and record what you saw and the date. For a DNA
   database, include whether law-enforcement uploads can match the kit.
-- **Permission.** Get explicit permission from each living person whose data moves, for this
-  action and this destination. Kit or account access, or permission to analyze, is not
-  permission to move or disclose.
+- **Permission.** Get explicit permission from each living person whose data leaves the user's
+  own device or account, for this action and this destination; an extension or a tool that
+  receives the data counts as a destination. Kit or account access, or permission to analyze,
+  is not permission to move or disclose. A file that stays on the user's own device needs no
+  further permission, but the Retention item applies to it.
 - **Redaction.** Say what you remove or replace before the data moves.
 - **Retention.** Keep exported match lists, segment files and record copies on the user's
   own device, not in shared folders or other services. Delete them when the research
