@@ -46,6 +46,12 @@ Choose a locality, supported name forms and a bounded period. Establish the hist
 jurisdiction and present custodian from the locality's record descriptions.
 Copy any supplied property description exactly, including directional letters and numbers.
 
+For **U.S. county conveyances**, check county formation and boundary changes for the tract
+before choosing index volumes. Land now in County B may have been recorded in parent County A
+before B existed. Search the appropriate parent-county series for that period and verify where
+those books are held today. Keep later recording dates in mind too; a modern county-only search
+does not cover the tract's earlier records. [S35]
+
 For a supplied land lead, distinguish an original government disposition from a later
 private conveyance before choosing the index. Use the stated issuing authority and
 historical holdings descriptions to select the relevant grant/entry series or conveyance
@@ -132,8 +138,10 @@ or the identity of same-name people.
 1. Record the index title, jurisdiction, covered dates and the record series it indexes.
 2. Read its opening instructions, subdivision keys and column headings before assuming that
    surnames follow ordinary alphabetical order.
-3. Determine whether it is a grantor, grantee, combined/general or tract-based index. Use its
-   stated headings: a direct/indirect label alone is not your explanation of the columns.
+3. Determine whether it is a grantor, grantee, combined/general or tract-based index. In U.S.
+   conveyance indexes, **direct = grantor** (conveying party), and **indirect**, **reverse** or
+   **inverted = grantee** (receiving party). Check the actual headings and record types: these
+   roles also occur in mortgages and other instruments, not just sales. [S36]
 4. Where separate grantor and grantee indexes exist, include both in the search plan. Record
    the given-name subdivisions or surname-key procedure the actual volume requires.
 5. For a tract-based index, copy the complete available township/range/section or other
@@ -146,6 +154,11 @@ locator, supported search forms or tract, date role, pages inspected and result.
 
 **Check:** The selected pages follow this volume's rules. A Russell-style or given-name
 subdivision index can place a surname somewhere other than the page you first expected.
+Russell indexes use surname initials and selected key letters, often with given-name
+subdivisions, rather than a single ordinary alphabetic sequence. Single-key and double-key
+versions differ. Read the key table printed at the front of the actual volume and follow its
+instructions; do not substitute a Soundex code or assume a Campbell or Cott index uses the
+same key. [S37]
 
 ## 2. Copy the locator, then reconcile the alternative entry
 
@@ -480,8 +493,10 @@ establish her death, marital status or kinship. [S9]
 
 A grantor/grantee index often names only the parties to an instrument. Determine from the index
 itself whether it covers only parties or also witnesses, adjoiners, heirs or other people named in
-the text, and report a negative search within that verified scope. Where a full-text search of deed images exists, or the relevant instruments
-are already in hand, search or read them for the person and verify any hit on the image. The
+the text, and report a negative search within that verified scope. Use
+[FamilySearch Full-Text Search](https://www.familysearch.org/en/search/full-text/) where it covers
+the relevant deed images, including for witnesses and adjoiners omitted from party indexes.
+Read instruments already in hand for those people too, and verify any search hit on the image. [S38] The
 [full-text search remark](https://www.youtube.com/watch?v=kFxsAw8HHAs) motivates this
 distinction. Full-text coverage and machine reading vary, so a full-text miss does not prove
 absence either. [S8]

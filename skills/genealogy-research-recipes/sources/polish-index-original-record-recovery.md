@@ -43,7 +43,7 @@ screenshots, catalog entries and real family examples are not reproduced.
   held by the local Urząd Stanu Cywilnego rather than the state archive.
 - **O5:** Poznań Project, [search start page](https://poznan-project.psnc.pl/), opened 2026-11-04.
   Used for: the project's scope, an index of nineteenth-century Wielkopolska marriages (1800–1899).
-- **O6:** BaSIA, [start page](http://www.basia.famula.pl/de/), opened 2026-11-04. Used for: its
+- **O6:** BaSIA, [start page](https://www.basia.famula.pl/de/), opened 2026-11-04. Used for: its
   index of entries from over 700 places in western Poland.
 - **O7:** Lubgens, [Baza indeksów Lubelszczyzny](https://regestry.lubgens.eu/search.php), opened
   2026-11-04. Used for: the Lublin-region index search.

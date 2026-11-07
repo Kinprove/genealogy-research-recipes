@@ -116,6 +116,29 @@ class BeiderLookupTests(unittest.TestCase):
             with self.assertRaisesRegex(lookup.SourceUnavailable, "manifest_invalid"):
                 lookup.load_manifest(path)
 
+    def test_latin_name_query_warns_about_the_script_without_changing_status(self):
+        result, code = self.query(names=["Hershel"])
+        self.assertEqual(code, 0)
+        self.assertEqual(result["status"], "not_in_index")
+        self.assertEqual(result["warning"], lookup.LATIN_NAME_WARNING)
+
+    def test_mixed_name_queries_warn_when_any_input_lacks_cyrillic(self):
+        result, _ = self.query(names=["ХАИМ", "Khaim"])
+        self.assertEqual(result["status"], "found")
+        self.assertEqual(result["warning"], lookup.LATIN_NAME_WARNING)
+
+    def test_cyrillic_key_query_warns_about_the_script_without_changing_status(self):
+        result, code = self.query(key="Гершель")
+        self.assertEqual(code, 0)
+        self.assertEqual(result["status"], "not_in_index")
+        self.assertEqual(result["warning"], lookup.CYRILLIC_KEY_WARNING)
+
+    def test_right_script_queries_carry_no_warning(self):
+        for kwargs in ({"names": ["Гершель"]}, {"names": ["ЦIПРА"]}, {"key": "HIRSH"}, {"key": "NOPE"}):
+            with self.subTest(**kwargs):
+                result, _ = self.query(**kwargs)
+                self.assertNotIn("warning", result)
+
     def test_name_returns_article_without_preloading_variants(self):
         result, code = self.query(names=["хаим"])
         self.assertEqual(code, 0)

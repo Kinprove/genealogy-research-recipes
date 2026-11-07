@@ -25,6 +25,15 @@ INVISIBLE_CATEGORIES = {"Cc", "Cf"}
 MAX_COMPONENTS_PER_INPUT = 6
 # A dotted DNS name: at least two labels of letters, digits and inner hyphens.
 HOSTNAME = re.compile(r"[a-z0-9]([a-z0-9-]*[a-z0-9])?(\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)+")
+CYRILLIC = re.compile(r"[\u0400-\u04FF]")
+LATIN_NAME_WARNING = (
+    "query contains no Cyrillic letters; --name searches Cyrillic recorded names, "
+    "use --key for a Latin dictionary key"
+)
+CYRILLIC_KEY_WARNING = (
+    "query contains Cyrillic letters; --key matches Latin dictionary keys, "
+    "use --name for a Cyrillic recorded name"
+)
 
 
 class SourceUnavailable(Exception):
@@ -304,6 +313,11 @@ def run_query(
         **({"names": names} if names is not None else {"key": key}),
     }
     result = {"query": query, "status": "not_in_index", "results": []}
+    # A wrong-script query looks like a real negative; say so without changing the status.
+    if names is not None and any(not CYRILLIC.search(name) for name in names):
+        result["warning"] = LATIN_NAME_WARNING
+    elif names is None and CYRILLIC.search(key or ""):
+        result["warning"] = CYRILLIC_KEY_WARNING
     if names is not None:
         query["matching_policy"] = {
             "comparison": "NFC uppercase, ignoring whitespace and hyphens/dashes",

@@ -11,6 +11,11 @@
 
 **What is authored and what the sources supply.** The series checklist, the status register, the post-1874 police row (its registration conditions come from S6–S8), the per-member label rule and the non-confessant rule are authored synthesis. The fonds and series in the table are what forum participants transcribed or listed for Ekaterinburg and Shadrinsk. They are worked examples, not a general inventory. S1–S4 come largely from the same few participants on one regional forum, so they are not independent of each other. Not verified: that comparable series exist or survive elsewhere, leaf numbers beyond the transcriptions, and every claim in step 8.
 
+The parallel-search rule also preserves S1's Orthodox reception entries rather than categorically
+excluding consistory books after 1874. S8 is contemporary testimony about limited use, not a count
+of all Old Believer families or evidence about every priestless concord. A police-register miss
+does not establish absence from the locality, absence of an event or coverage by another registrar.
+
 ## Credits
 
 - Uralskaya genealogiya forum, a thread transcribing eighteenth- and nineteenth-century Old Believer and Edinoverie records for Shartash near Ekaterinburg — Short quotation of archival record wording as transcribed by forum participants; no license granted (quoted)

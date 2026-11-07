@@ -5,13 +5,13 @@ summary: "Recover a U.S. civil, chancery, divorce, criminal or incapacity case f
 kind: "records"
 scope: {"platforms": [], "tasks": ["Recover a U.S. civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."]}
 triggers: ["Recover a U.S. civil", "chancery", "divorce", "criminal", "incapacity case file through the records that point to it", "then inventory its loose papers"]
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "COURT-CASE-FILE-RECOVERY-01", "text": "captions, arrests, index entries and case-law searches stay bounded leads."}]
-handoff: []
-checked: null
-checked_basis: null
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+handoff: ["us-federal-court-case-file-recovery"]
+checked: "2026-11-07"
+checked_basis: "checked 2026-11-07"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1102}
 ---
 
@@ -19,7 +19,19 @@ router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institut
 
 Use this recipe when a U.S. civil, chancery, divorce, criminal or incapacity proceeding may involve the person. Treat the proceeding as a case file. Recover it through the records that point to it, then inventory its loose papers. Captions, arrests, index entries and case-law searches stay bounded leads.
 
+For federal jurisdiction, record groups and NARA custody, use
+[U.S. federal court case-file recovery](us-federal-court-case-file-recovery.md).
+
 For the rule that an indictment or presentment is only an allegation, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). Estate files, including reported probate opinions and probate appeal packets, belong to [probate case inventory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md). Naturalization proceedings belong to [U.S. immigration § 9](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md). To recover a recorded judgment or a sheriff's deed in the land books, use [land index recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/land-index-book-series-recovery.md).
+
+## Contents
+
+- Classify the proceeding before reading it
+- Collect locators from every pointer series
+- Request the loose papers as their own series
+- Inventory the file by procedural stage
+- Bound the published case-law search
+- Set the window and close with a case register
 
 ## Classify the proceeding before reading it
 
@@ -52,7 +64,19 @@ Build a crosswalk from each pointer to the file it implies. Keep these parts sep
 
 ## Request the loose papers as their own series
 
+**Privacy gate:** <!-- privacy-gate: request --> A court-file request can disclose a party's
+identity and allegations or family circumstances involving people who may be living. Answer
+the privacy gate in `SKILL.md` before sending a request or supporting documents to the court
+or archive.
+
 Archives often bring out only the bound minute books. Ask separately for the loose papers or case file: affidavits, subpoenas and other working papers. The county archivist on S5 says these are kept apart from the minute books. Also find out where the court's files were later transferred, whether to a basement, attic, storage facility, microfilm or online images. Do not assume the files stayed at the courthouse. [S2], [S5]
+
+For recent state/county files, start with the court clerk (called the prothonotary for some
+civil courts). For older files, check the state archives' court holdings and transfer guidance
+early: many older local-court series have moved there. Transfer dates vary by state and court,
+so confirm custody for the named series and years rather than assuming all old files moved.
+For transferred federal files, follow the NARA route above; a current federal court may still
+hold recent files. [S11]
 
 ## Inventory the file by procedural stage
 
