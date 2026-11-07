@@ -225,7 +225,7 @@ Keep the order as a separate row in the routing register. A GO is not a complete
 roster, and neither an uninspected award reference nor a unit narrative proves the man's
 action. Continue to separate personal statements from unit context in the timeline.
 
-Search Army transport passenger lists (RG 92, 1910–1939, on Ancestry), both outbound and returning ([Ancestry](https://search.ancestry.com/search/db.aspx?dbid=61174); [S14], [S22]):
+The presenters describe outbound and returning Army transport passenger lists [S14], [S22]. The [Ancestry database 61174 link](https://search.ancestry.com/search/db.aspx?dbid=61174) is a collection lead: its fetch returned HTTP 403, so the reported RG 92 attribution and 1910–1939 coverage were not confirmed from the collection description [H12]. Check that description before choosing the collection, then search both directions:
 
 - Record the vessel, dates, service number, company/regiment and named nearest relative with the stated relationship [S14].
 - Follow ditto marks to earlier or later pages to read the unit [S22].

@@ -38,6 +38,13 @@ checks, still apply. Platform checks expire after **90 days**, against the UTC
 date, and fail CI; recheck the relevant documentation and update its evidence
 before updating the header. Do not roll dates forward merely to pass the check.
 
+Keep material source limitations beside the affected claim in the recipe as well
+as in its source sidecar. Distinguish a search-result extract, an unread page, a
+publisher's description and a source actually read. If another inspected source
+supports the claim, cite that support explicitly. Review this at claim level:
+keywords such as `403` or `search-result` can describe an earlier failed fetch
+followed by a successful reading, and do not by themselves make a claim unverified.
+
 The reviewed `tests/privacy_gate_inventory.json` remains independent. Its
 actions must be declared in the header (`contact` for contact steps,
 `data_transfer` for the other checkpoint kinds). A new outbound step needs its

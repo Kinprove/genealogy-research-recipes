@@ -62,7 +62,7 @@
  {
   "recipe": "23andme-match-research.md",
   "kind": "export",
-  "action": "Request raw data early if preservation matters. Processing may take days; confirm the email",
+  "action": "Request raw data early if preservation matters.",
   "checkpoint": "The raw data download is a copy of the tester's"
  },
  {

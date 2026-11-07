@@ -141,12 +141,15 @@ Memorial (Moscow); Ośrodek KARTA published 21 volumes from it in 1995–2013. C
 provenance before treating it as an archival record. [H41]
 
 For Western-Ukrainian deportation and repression in 1944–1953, search published documentary
-series as well as databases. 'Літопис УПА. Нова серія' (Chronicle of the UPA, New Series, from
-1995) publishes documents from ЦДАГОУ and ЦДАВОУ (the central state archives of public
+series as well as databases. 'Літопис УПА. Нова серія' (Chronicle of the UPA, New Series)
+publishes documents from ЦДАГОУ and ЦДАВОУ (the central state archives of public
 organisations and of the supreme bodies of power), the SBU archive and West-Ukrainian oblast
-archives. [H32], [H33] A second series is the three-volume 'Депортації. Західні землі України
+archives [H33]. Its reported start in 1995 comes only from a search-engine extract of an unread
+page and remains unconfirmed [H32]. A search-engine extract also reports a three-volume series,
+'Депортації. Західні землі України
 кінця 30-х – початку 50-х рр.' (Deportations: the western lands of Ukraine, late 1930s to early
-1950s; ed. Yu. Slyvka, Lviv, 1996–2002; vol. 3 is memoirs). [H34] Read each volume's contents
+1950s; ed. Yu. Slyvka, Lviv, 1996–2002; vol. 3 is memoirs). The PDF itself could not be fetched,
+so these edition details remain unconfirmed [H34]. Read each volume's contents
 before claiming it holds a family list. Cite series, volume and page, and copy only the target
 family's entry, since the lists name other private families. Record a compiling body's label such
 as 'пособник' (accomplice) as the regime's label, not as fact.
@@ -181,13 +184,14 @@ military-medical documents (филиал ЦАМО РФ военно-медици
 St Petersburg). The Military Medical Museum has not answered archive requests since 2012 and
 redirects them to that branch. [H48]
 
-For a WWI prisoner taken on the Russian front, the ICRC Geneva archive is the wrong default. By the
-ICRC's own FAQ, lists from the Russian front were not sent to Geneva but collected by the Danish
-Red Cross in Copenhagen; the Geneva documents come mainly from the Western, Romanian and Serbian
-fronts. So a miss in the ICRC 1914–1918 database is not a negative for these men. [H19] Where
-that database does apply, it searches by name only, not by regiment, capture date or camp, and
-its cards sit in separate catalogues by nationality and military or civilian status (29 in all),
-each searched separately. [H19], [H20] The Copenhagen material is now at Rigsarkivet (Dansk Røde
+For a WWI prisoner taken on the Russian front, check the ICRC Geneva archive's coverage before
+using a database miss. A search-engine extract of the ICRC FAQ reports that Russian-front lists
+went to the Danish Red Cross in Copenhagen rather than Geneva, whose documents came mainly from
+the Western, Romanian and Serbian fronts. The PDF itself was not read, so those coverage claims
+remain unconfirmed [H19]. Do not treat a miss as a negative without confirming coverage. The same
+extract describes name-only search and separate catalogues by nationality and military or civilian
+status; those search details were not verified from the PDF either [H19]. The separate guide H20
+was read and gives 29 card indexes [H20]. The Copenhagen material is now at Rigsarkivet (Dansk Røde
 Kors, Krigsfangeafdelingen). Only samples survive: two selected boxes of the card index of Russian
 prisoners in Germany (c. 1915–1918) and one random sample bundle of lists (1917–1918), with no
 online images found. A miss there is not a negative either. [H21], [H22]
@@ -318,11 +322,14 @@ pages can name living relatives; keep their details out of shared output.
    the particular file/series. A broad Imperial/Soviet/WWII year division is only a starting
    clue; branch, record creator and later transfers can matter. For example, in Ukraine the SBU
    sectoral state archive (ГДА СБУ) and the Sectoral State Archive of the Ukrainian Institute of
-   National Memory (ГДА УІНП) are separate custodians. Law No. 316-VIII of 9 April 2015 mandated
-   the transfer of the repressive organs' 1917–1991 records to ГДА УІНП within two years, but the
-   transfer has not been shown complete: ГДА УІНП's 2025 report lists no SBU accession, and ГДА
+   National Memory (ГДА УІНП) are separate custodians. The final provisions of Law No. 316-VIII
+   of 9 April 2015, read in the reproduction on kodeksy.com.ua because the official
+   zakon.rada.gov.ua page could not be opened, mandated transfer of the repressive organs'
+   1917–1991 records to ГДА УІНП within two years [H42]. This was a reading of the reproduction,
+   not a check against the official text. The transfer has not been shown complete: ГДА УІНП's
+   2025 report lists no SBU accession, and ГДА
    СБУ still cited its own fonds in 2026. Confirm the holder of the specific file and do not assume
-   either. [H42], [H43], [H44] Apart from the Russian access rule in step 2, this recipe
+   either. [H43], [H44] Apart from the Russian access rule in step 2, this recipe
    supplies no fixed archive boundary, access entitlement or response-time promise.
 4. Record what was delivered: pages/images inspected, stated omissions and any unavailable,
    withheld or redacted material. An inaccessible image is not a negative name search. Do not

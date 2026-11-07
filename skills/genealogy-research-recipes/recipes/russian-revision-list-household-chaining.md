@@ -194,9 +194,9 @@ A person, household or village that is not found counts only as a gap with state
 
 ## 8. Check that 1897 census sheets survive before routing anyone to them
 
-The household sheets of the 1897 census were ordered destroyed after tabulation. The order was not carried out everywhere, so sheets survive only for some guberniyas and are scattered among archives. [S26] Before you send anyone to "the 1897 census":
+Search-engine summaries of a Rosstat release report that the household sheets of the 1897 census were ordered destroyed after tabulation, with the order not carried out everywhere. The PDF did not load, so this account of destruction and uneven survival remains unconfirmed from the full release [S26]. Check the particular locality's surviving sheets before you send anyone to "the 1897 census":
 
-1. Check the survival catalogues. The volunteer catalogue at metrics.tilda.ws/perepis1897 is arranged by country and archive, sometimes down to fond, delo and uezd, and marks some entries as unconfirmed. [S27] Altai State University's arch1897.histcensus.asu.ru catalogues the census's archival fonds. [S28]
+1. Check the survival catalogues. The volunteer catalogue at metrics.tilda.ws/perepis1897 is arranged by country and archive, sometimes down to fond, delo and uezd, and marks some entries as unconfirmed. [S27] Altai State University's arch1897.histcensus.asu.ru is a catalogue lead: its title and address were seen in a search-result bibliography, but the site refused the connection, so its contents and usability remain unconfirmed [S28].
 2. Then read the holder's own inventory. A census-commission fond does not mean that named sheets survive, and an uezd absent from a catalogue is not proven lost.
 3. Even in a set known to survive, check the delo for the settlement. Two examples: the State Archive in Tobolsk holds the sheets of the Tobolsk guberniya statistical committee (ф. И-417, оп. 2, д. 1–4175): second and trial copies for eight uezds and their towns, all except Berezov and Surgut, digitised with paid online access. [S39], [S40] The State Archive of Yaroslavl Oblast keeps an 1897 census database and electronic indexes for the residents of some towns of the guberniya, Yaroslavl among them. [S41]
 
