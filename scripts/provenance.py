@@ -201,9 +201,25 @@ def prose_blocks(text):
     return list(dict.fromkeys(block.strip() for block in re.split(r'\n\s*\n', ''.join(kept)) if block.strip()))
 
 
+def mask_inline_code(text):
+    """Mask complete Markdown code spans without changing source offsets."""
+    result = list(text)
+    position = 0
+    while opening := re.search(r'`+', text[position:]):
+        start = position + opening.start()
+        end = position + opening.end()
+        closing = re.search(r'(?<!`)`{' + str(end - start) + r'}(?!`)', text[end:])
+        if closing is None:
+            position = end
+            continue
+        position = end + closing.end()
+        result[start:position] = ['\n' if c == '\n' else ' ' for c in text[start:position]]
+    return ''.join(result)
+
+
 def markers(anchor, known=None):
     result = []
-    for match in MARKER.finditer(re.sub(r'`[^`\n]*`', '', anchor)):
+    for match in MARKER.finditer(mask_inline_code(anchor)):
         group = match[1]
         # Ranges are part of the legacy citation syntax.
         group = re.sub(r'([SHPOCNB])(\d+)\s*[–-]\s*(?:\1)?(\d+)',
@@ -228,14 +244,23 @@ def markers(anchor, known=None):
 
 def marker_contexts(anchor, sid):
     """Each source marker's sentence, so a separate hedge cannot qualify a fact."""
-    visible = re.sub(r'`[^`\n]*`', lambda m: ' ' * len(m[0]), anchor)
+    visible = mask_inline_code(anchor)
+    # Preserve marker offsets while hiding emphasis, quote delimiters and HTML
+    # formatting/attributes. Formatting must not keep two sentences together or
+    # supply a qualification through an inline example/attribute.
+    visible = re.sub(r'</?[A-Za-z][A-Za-z0-9-]*(?:\s[^>]*)?>',
+                     lambda m: ' ' * len(m[0]), visible)
+    visible = re.sub(r'''[*_~"“”'‘’«»>]''', ' ', visible)
     boundaries = [0] + [m.end() for m in re.finditer(
-        r'[.!?](?:\s*\[[^\]\n]+\])*\s+(?=[A-Z])', visible)] + [len(anchor)]
+        # A sentence ending in citations also separates a following lowercase
+        # sentence. Adjacent citations still belong to the preceding sentence.
+        r'[.!?](?:\s*\[[^\]\n]+\])+\s+(?=\S)|'
+        r'[.!?]\s+(?=[A-Z])|(?<=\])[.!?]\s+(?=\S)', visible)] + [len(anchor)]
     for match in MARKER.finditer(visible):
         if sid in markers(match[0]):
             start = max(n for n in boundaries if n <= match.start())
             end = min(n for n in boundaries if n >= match.end())
-            yield match[0], anchor[start:end]
+            yield match[0], visible[start:end]
 
 
 def candidate_blocks(text):

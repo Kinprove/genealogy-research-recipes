@@ -199,6 +199,41 @@ class ProvenanceTests(unittest.TestCase):
         ledger['claims'][0].update(anchor=anchor, stated_as='observation')
         self.check(ledger, recipe='# Example\n\n' + anchor)
 
+    def test_markdown_formatting_cannot_carry_a_qualification_into_a_new_sentence(self):
+        for access, prefix, marker, status in [
+            ('snippet-only', 'According to a search-result snippet, search is offered.',
+             '[S1† @2026-11-07]', 'observation'),
+            ('partial', 'From the inspected excerpt, search appears to be offered.',
+             '[S1 @2026-11-07]', 'fact'),
+        ]:
+            for next_sentence in ('**Copies are free.**', '*Copies are free.*',
+                                  '_Copies are free._', '~~Copies are free.~~',
+                                  '<strong>Copies are free.</strong>', '“Copies are free.”',
+                                  '**copies are free.**'):
+                with self.subTest(access=access, next_sentence=next_sentence):
+                    ledger = reviewed()
+                    ledger['sources'][0]['access'] = access
+                    anchor = prefix + ' ' + marker + ' ' + next_sentence + ' ' + marker
+                    ledger['claims'][0].update(anchor=anchor, stated_as=status)
+                    self.rejects(ledger, 'unread source|partial source', recipe='# Example\n\n' + anchor)
+
+    def test_each_formatted_sentence_can_supply_its_own_scope_qualification(self):
+        ledger = reviewed()
+        ledger['sources'][0]['access'] = 'partial'
+        anchor = ('From the inspected excerpt, search appears available. [S1 @2026-11-07] '
+                  '**Within the inspected section, copies appear to be free.** [S1 @2026-11-07]')
+        ledger['claims'][0]['anchor'] = anchor
+        self.check(ledger, recipe='# Example\n\n' + anchor)
+
+    def test_qualifier_words_inside_code_or_html_attributes_do_not_count(self):
+        for prefix in ('`According to a snippet`', '``According to a snippet``',
+                       '<span title="According to a snippet"></span>'):
+            ledger = reviewed()
+            ledger['sources'][0]['access'] = 'snippet-only'
+            anchor = prefix + ' Parish search is offered. [S1† @2026-11-07]'
+            ledger['claims'][0].update(anchor=anchor, stated_as='observation')
+            self.rejects(ledger, 'unread source', recipe='# Example\n\n' + anchor)
+
     def test_access_basis_must_be_exact_dated_and_single_url(self):
         ledger = reviewed()
         ledger['sources'][0]['basis'] = 'opened 2026-11-06'
@@ -258,6 +293,7 @@ class ProvenanceTests(unittest.TestCase):
     def test_fences_and_contents_do_not_generate_claims(self):
         text = '# Example\n\n## Contents\n\n- Current fee\n\n## Body\n\n```\n€10 [S1]\n```\n\nMethod.\n'
         self.assertEqual(p.candidate_blocks(text), [])
+        self.assertEqual(p.markers('An example ``[S1]`` and a real marker [S2].'), ['S2'])
 
 
 class CorpusProvenanceTests(unittest.TestCase):
