@@ -66,6 +66,16 @@ class ProvenanceTests(unittest.TestCase):
     def test_unknown_new_records_cannot_get_an_implicit_legacy_exception(self):
         self.rejects(p.migrate(SOURCE, RECIPE), 'new or changed migration debt')
 
+    def test_removing_an_unsupported_pending_claim_can_prune_its_backlink(self):
+        ledger = p.migrate(SOURCE, RECIPE)
+        debt = {p.debt_key('example', k, r): p.fingerprint(r)
+                for k in ('sources', 'claims') for r in ledger[k]}
+        ledger['claims'] = []
+        ledger['sources'][0]['claims'] = []
+        active = self.check(ledger, recipe='# Example\n', debt=debt)
+        self.assertEqual(len(active), 1)
+        self.assertEqual(ledger['sources'][0]['access'], 'unknown')
+
     def test_bibliography_drift_is_not_repaired_by_normal_regeneration(self):
         self.rejects(reviewed(), 'entry drift', source=SOURCE.replace('Search is', 'Searching is'))
 

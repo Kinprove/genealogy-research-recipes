@@ -232,6 +232,10 @@ def candidate_blocks(text):
 
 
 def fingerprint(record):
+    # Backlinks are checked against claims separately. Removing an unsupported
+    # claim must not force an invented source read just to update a derived list.
+    if 'entry_sha256' in record:
+        record = {k: v for k, v in record.items() if k != 'claims'}
     return digest(json.dumps(record, ensure_ascii=False, sort_keys=True, separators=(',', ':')))
 
 
