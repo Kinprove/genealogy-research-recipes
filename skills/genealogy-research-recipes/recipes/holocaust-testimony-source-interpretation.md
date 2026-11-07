@@ -147,8 +147,9 @@ contact routes and access availability must be checked when used. This recipe do
 contacting a submitter or submitting a correction.
 
 **Privacy gate:** <!-- privacy-gate: contact --> A submitter or a relative named on a Page may be
-living. If the user asks to contact one, answer the privacy gate in `SKILL.md` first and stage the
-contact through [DNA match outreach staging](dna-match-outreach-staging.md).
+living. If the user asks to contact one, answer the privacy gate in `SKILL.md` first. Follow its
+Living people rule: use the consent, disclosure and log rules of
+[DNA match outreach staging](dna-match-outreach-staging.md) without its DNA-only items.
 
 ## Sources
 

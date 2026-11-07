@@ -69,7 +69,10 @@ unknown, do not move the data: keep it local and tell the user what is missing.
   shared setting), for this action and this destination; an extension or a tool that
   receives the data counts as a destination. Kit or account access, or permission to analyze,
   is not permission to move or disclose. A file that stays on the user's own device needs no
-  further permission, but the Retention item applies to it.
+  further permission, but the Retention item applies to it. A private first message that asks
+  a person for permission needs the tester's (or user's) authorization, not that person's
+  prior permission; it may show that person only their own data and the question, never
+  other people's sensitive findings.
 - **Redaction.** Say what you remove or replace before the data moves.
 - **Retention.** Keep exported match lists, segment files and record copies on the user's
   own device, not in shared folders or other services. Delete them when the research
@@ -105,8 +108,10 @@ data to the minimum.
 
 Contact a living person only through a route the person or the tester already has, the
 testing site's own messaging, or a relative who agrees to pass the message on. The identity
-that must be easy to check is the sender's. Stage every contact through
-[DNA match outreach staging](recipes/dna-match-outreach-staging.md).
+that must be easy to check is the sender's. Stage contact with a DNA match, a kit manager or
+a relative through [DNA match outreach staging](recipes/dna-match-outreach-staging.md). For
+another contact, such as a record submitter or a donor, apply that recipe's consent and
+disclosure rules and its log, and skip its DNA-only items (kit pair, site, shared cM).
 
 ### Record requests
 
