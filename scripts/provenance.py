@@ -421,6 +421,8 @@ def run(root, mode, today):
             for category in ('sources', 'claims'):
                 for record in ledger[category]:
                     exceptions[debt_key(slug, category, record)] = fingerprint(record)
+        if mode == 'write':
+            reverse_links(ledger)
         active.update(validate(slug, source_text, recipe_text, ledger, exceptions, today))
         corpus[slug] = ledger
         outputs[path] = attach_ledger(source_text, ledger)

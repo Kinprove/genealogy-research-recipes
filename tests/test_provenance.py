@@ -252,6 +252,17 @@ class CorpusProvenanceTests(unittest.TestCase):
                 p.run(root, 'write', TODAY)
             self.assertEqual(src.read_bytes(), initial[src])
             self.assertEqual((root / p.DEBT).read_bytes(), initial[root / p.DEBT])
+            # Deleting an unsupported legacy claim should regenerate backlinks
+            # and prune debt, without claiming that its source was read.
+            plain, ledger = p.split_ledger(src.read_text(encoding='utf-8'))
+            ledger['claims'] = []
+            src.write_text(p.attach_ledger(plain, ledger), encoding='utf-8')
+            recipe.write_text('# Example\n', encoding='utf-8')
+            p.run(root, 'write', TODAY)
+            _, updated = p.split_ledger(src.read_text(encoding='utf-8'))
+            self.assertEqual(updated['sources'][0]['claims'], [])
+            self.assertEqual(updated['sources'][0]['access'], 'unknown')
+            self.assertEqual(len(p.loads((root / p.DEBT).read_text(encoding='utf-8'))), 1)
 
 
 if __name__ == '__main__':

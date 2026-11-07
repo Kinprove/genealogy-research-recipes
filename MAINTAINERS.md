@@ -24,8 +24,8 @@ intentional edit. Updating a digest is not a source recheck.
 
 To review a claim, retain its ID, set `review` to `reviewed`, classify its `kind`
 and `stated_as`, and record a unique, exact paragraph `anchor` and its source IDs.
-The paragraph's markers must match those IDs. Add the claim ID to each source's
-reverse `claims` list in claim order. A non-read source requires an `observation`,
+The paragraph's markers must match those IDs. `--write` generates each source's
+reverse `claims` list in claim order; `--check` rejects drift. A non-read source requires an `observation`,
 a dagger on its marker and visible attributed/limited-access wording. Partial
 reads require a visible qualification. A factual claim cannot use a pending
 source. Checks validate the representation; review must still establish that
