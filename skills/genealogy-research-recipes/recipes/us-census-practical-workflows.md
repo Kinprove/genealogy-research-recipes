@@ -1,7 +1,7 @@
 ---
 id: "us-census-practical-workflows"
 title: "Practical U.S. census workflows"
-summary: "Nine practical U.S. census procedures: recover households, browse target-year districts, follow 1950 revisit sheets, compare pre-1850 age bins, bridge the 1890 gap, extract supplements and family fields, search mortality schedules, and follow surname changes."
+summary: "Ten practical U.S. census procedures: recover households, browse target-year districts, follow 1950 revisit sheets, compare pre-1850 age bins, bridge the 1890 gap, extract supplements and family fields, search mortality schedules, follow surname changes, and follow a farm lead into an agricultural schedule."
 kind: "records"
 scope: {"platforms": [], "tasks": ["a missing census household, an address without a name hit, sheet 71, tick-mark counts, substitute censuses, sample lines, marriage/children fields, competing child rosters, mortality reporting windows, or formerly enslaved families under different surnames."]}
 triggers: ["a missing census household", "an address without a name hit", "sheet 71", "tick-mark counts", "substitute censuses", "sample lines"]
