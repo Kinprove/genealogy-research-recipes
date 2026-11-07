@@ -173,12 +173,12 @@ the body that kept metrical books is covered by
 ## 6. Search by office, place and relation, not by surname
 
 1. Build queries from the formulae the texts use for office and town: רב, אב"ד and the
-   single acronym אבד"ק, מ"ץ, ק"ק / דק"ק / בק"ק before a town, יע"א after it, and החונה פה
-   for a serving rabbi. Write the patronymic as the texts do: ב"ר, בהר"ר, במוהר"ר. Search
-   relation phrases in both word orders, with stems such as חתנ (son-in-law), חותנ and חמיו
-   (father-in-law), גיס (brother-in-law), מחותנ (co-father-in-law), and phrases such as
-   "X אחיו" or "X אשתו". The stem חתנ also matches חתנה (wedding) and synagogue honours such
-   as חתן תורה, so read each hit.
+   single acronym אבד"ק, מ"ץ, ק"ק / דק"ק / בק"ק before a town, and יע"א after it. החונה פה
+   means "residing here", not an appointment. Write the patronymic as the texts do: ב"ר,
+   בהר"ר, במוהר"ר. Search relation phrases in both word orders, with forms such as חתן and the
+   stem חתנ (son-in-law), חותנ and חמיו (father-in-law), גיס (brother-in-law) and מחותנ
+   (co-father-in-law), and phrases such as "X אחיו" or "X אשתו". These also find חתנה
+   (wedding) and synagogue honours such as חתן תורה, so read each hit.
 2. For a half-remembered name, search by attribute (סופר, שוחט, a town office) and test each
    candidate against the remembered fragment. A surname that looks like a trade can still be
    inherited.
@@ -215,9 +215,10 @@ the body that kept metrical books is covered by
    appointment year, which is not his predecessor's death year. Berl Kagan's index of
    subscriber lists chooses the books to read (see
    [what to look for in Hebrew books](hebrewbooks-search-recovery.md#what-to-look-for-in-hebrew-books)).
-   Approbations are signed with the rabbi's town at their date, so a dated series of them,
-   found through L. Löwenstein's *Index Approbationum* (1923) and the books themselves,
-   rebuilds his chain of posts. A book's printed name and place indexes, read on the page
+   An approbation is usually signed with the rabbi's office and town at its date, so a dated
+   series of them, found through L. Löwenstein's *Index Approbationum* (1923) and the books
+   themselves, gives dated evidence for each office it states. Keep an office town apart from
+   a place where he merely signed. A book's printed name and place indexes, read on the page
    image, find more than its OCR text does.
 5. A town that appears inside a title ("the Rav of X") is often missing from a place index or
    indexed only under the person. Search both the place and the person indexes, and walk the

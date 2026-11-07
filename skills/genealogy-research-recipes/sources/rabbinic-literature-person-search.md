@@ -83,9 +83,11 @@ cited instead.
 - **S19. Approbations.** [Encyclopaedia Judaica, "Haskamah", via Encyclopedia.com](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/haskamah):
   approbations carry biographical and geographical data, and the bibliography cites
   L. Loewenstein, *Index Approbationum* (1923).
-- **S20. The Hebrew press.** [Wikipedia, "Historical Jewish Press"](https://en.wikipedia.org/wiki/Historical_Jewish_Press):
-  the joint National Library of Israel and Tel Aviv University site with full-text search,
-  including *HaMagid* and *HaMelitz*.
+- **S20. The Hebrew press.** [Wikipedia, "Historical Jewish Press"](https://en.wikipedia.org/wiki/Historical_Jewish_Press)
+  (a joint project of the National Library of Israel and Tel Aviv University);
+  [Wikipedia, "Hamagid"](https://en.wikipedia.org/wiki/Hamagid) and
+  [Wikipedia, "HaMelitz"](https://en.wikipedia.org/wiki/HaMelitz), each linking online,
+  searchable editions on that site.
 
 **What is Kinprove's own work.** The procedure, its order and the screening rules, including
 the readings of era markers, honorifics, office formulae, kinship words and title-page
