@@ -218,9 +218,10 @@ def markers(anchor, known=None):
 
 def marker_contexts(anchor, sid):
     """Each source marker's sentence, so a separate hedge cannot qualify a fact."""
+    visible = re.sub(r'`[^`\n]*`', lambda m: ' ' * len(m[0]), anchor)
     boundaries = [0] + [m.end() for m in re.finditer(
-        r'[.!?](?:\s*\[[^\]\n]+\])*\s+(?=[A-Z])', anchor)] + [len(anchor)]
-    for match in MARKER.finditer(anchor):
+        r'[.!?](?:\s*\[[^\]\n]+\])*\s+(?=[A-Z])', visible)] + [len(anchor)]
+    for match in MARKER.finditer(visible):
         if sid in markers(match[0]):
             start = max(n for n in boundaries if n <= match.start())
             end = min(n for n in boundaries if n >= match.end())

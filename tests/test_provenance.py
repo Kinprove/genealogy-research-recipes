@@ -165,6 +165,14 @@ class ProvenanceTests(unittest.TestCase):
         ledger['claims'][0].update(anchor=anchor, stated_as='observation')
         self.rejects(ledger, 'unread source', recipe='# Example\n\n' + anchor)
 
+    def test_an_inline_code_example_is_not_an_unqualified_source_citation(self):
+        ledger = reviewed()
+        ledger['sources'][0]['access'] = 'snippet-only'
+        anchor = ('According to a snippet, search exists. [S1† @2026-11-07] '
+                  'Do not treat the example marker `[S1]` as evidence of a read.')
+        ledger['claims'][0].update(anchor=anchor, stated_as='observation')
+        self.check(ledger, recipe='# Example\n\n' + anchor)
+
     def test_access_basis_must_be_exact_dated_and_single_url(self):
         ledger = reviewed()
         ledger['sources'][0]['basis'] = 'opened 2026-11-06'
