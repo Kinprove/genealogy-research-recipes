@@ -173,8 +173,15 @@ class MetricalBookTests(unittest.TestCase):
         for phrase in ("18 (31) December 1917", "20 January (2 February) 1918", "143-FZ, art. 77", "three rows"):
             self.assertIn(phrase, step)
         self.assertNotIn("many parishes", step)
-        # Art. 77 names ZAGS act books; it is not the rule for church metrical books.
-        self.assertIsNone(re.search(r"church.{0,60}art\. 77|art\. 77.{0,60}church", step, re.IGNORECASE))
+        # Art. 77 names ZAGS act books; it is not the rule for church metrical books. Pin the one
+        # sentence that cites it, with its subject, and allow no other citation of the article.
+        self.assertIn(
+            "ZAGS act books stay with ZAGS for 100 years from each entry and then go to the state archive"
+            " (Federal Law 143-FZ, art. 77)",
+            step,
+        )
+        self.assertEqual(step.count("art. 77"), 1)
+        self.assertNotIn("article 77", step.lower())
 
     def test_calendar_rule_links_the_shared_offsets(self):
         for name in ("russian-orthodox-metrical-book-recovery.md", "soviet-personal-file-recovery.md"):
