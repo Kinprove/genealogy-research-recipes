@@ -49,7 +49,7 @@ complete first-post archive captures dated 2024-12-25, retrieved on 2026-10-03. 
 records the archive URLs, capture dates and source hashes; it does not claim to reflect
 later forum edits.
 
-Run from this skill's directory (`-h` or `--help` displays options; all query invocations return a single JSON object):
+Run from this skill's directory:
 
 ```sh
 python3 scripts/lookup_beider_name.py -h
@@ -77,6 +77,31 @@ python3 scripts/lookup_beider_name.py --key BASHEVE
 result by default, up to 50 with `--limit`, their total count and truncation, retaining every article membership of each
 returned spelling. It does not expand other articles transitively. No full-index output mode
 is provided.
+
+### Output contract
+
+Use either 1 to 10 nonempty `--name` inputs or one `--key`, never both. Each input
+must be at most 120 characters and contain more than whitespace or supported hyphens/dashes.
+`--limit` accepts integers from 1 to 50, with a default of 20. For `--name`, it bounds
+article groups separately in the whole-name `results` and `component_search.results`
+buckets, across all selected sexes and inputs in each bucket. For `--key`, it bounds
+variants per matching index result.
+
+Completed queries and reported errors print one JSON object to stdout. Read `status`
+as well as the process exit code:
+
+| Status | Exit code | Meaning and next action |
+| --- | --- | --- |
+| `found` | 0 | A whole-name exact or separator-normalized match, or a matching article key. Retrieve the selected article's variants and compare records. |
+| `candidates_found` | 0 | Only approximate whole-name candidates. Keep them as spelling leads. |
+| `not_in_index` | 0 | No admitted whole-name candidate or matching key. Check any `warning` and separate component results; this is a completed query, not a lookup failure. |
+| `source_unavailable` | 1 | Bundled data are missing or invalid. Report source unavailable; do not infer an absent name. |
+| `internal_error` | 1 | An unexpected helper failure; `error` gives its exception type. Report the failure without interpreting it as an index result. |
+| `invalid_request` | 2 | Invalid arguments; `error` explains the problem. Correct the option, input or limit before rerunning. |
+
+`-h` / `--help` prints plain-text help instead of JSON and exits 0. An interrupted
+query exits 130 without a result; a reader closing the output pipe early makes the helper
+exit quietly with code 0 and may leave no complete JSON object. Neither provides an index result.
 
 ### How similar candidates are found
 

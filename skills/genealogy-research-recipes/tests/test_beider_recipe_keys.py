@@ -1,6 +1,7 @@
-"""The article keys and index rows named in the Beider recipe's tables exist in the bundled data."""
+"""The Beider recipe's snapshot claims, article keys and index rows match the bundled data."""
 
 import importlib.util
+import json
 import re
 import unittest
 from pathlib import Path
@@ -43,6 +44,23 @@ class BeiderRecipeKeyTests(unittest.TestCase):
     def assert_article(self, sex, key, message):
         """Use the lookup the helper runs for `--key`."""
         self.assertIsNotNone(lookup.find_variants(self.indexes[sex]["entries"], key=key, limit=1), message)
+
+    def test_recipe_snapshot_counts_and_dates_match_bundled_data(self):
+        paragraph = re.search(
+            r"The bundled snapshot contains (?P<male>[\d,]+) male and "
+            r"(?P<female>[\d,]+) female name/article associations from "
+            r"complete first-post archive captures dated (?P<capture>\d{4}-\d{2}-\d{2}), "
+            r"retrieved on (?P<snapshot>\d{4}-\d{2}-\d{2})\.",
+            " ".join(self.text.split()),
+        )
+        self.assertIsNotNone(paragraph, "snapshot counts and dates paragraph not found")
+        manifest = json.loads(lookup.MANIFEST.read_text(encoding="utf-8"))
+        for sex in ("male", "female"):
+            with self.subTest(sex=sex):
+                record = manifest["indexes"][sex]
+                self.assertEqual(int(paragraph[sex].replace(",", "")), record["entry_count"])
+                self.assertEqual(paragraph["capture"], record["source_capture_date"])
+        self.assertEqual(paragraph["snapshot"], manifest["snapshot_date"])
 
     def test_every_companion_key_is_a_male_article(self):
         rows = table_rows(self.text, COMPANIONS)
