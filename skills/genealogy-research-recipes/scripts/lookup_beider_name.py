@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 import unicodedata
@@ -313,7 +314,7 @@ def emit_json(result: dict) -> None:
     try:
         sys.stdout.write(data)
         sys.stdout.flush()
-    except (UnicodeEncodeError, AttributeError):
+    except UnicodeEncodeError:
         if hasattr(sys.stdout, "buffer"):
             sys.stdout.buffer.write(data.encode("utf-8"))
             sys.stdout.buffer.flush()
@@ -368,6 +369,10 @@ def main(argv: list[str] | None = None) -> int:
     try:
         return _run(argv)
     except BrokenPipeError:
+        # Point stdout at devnull so interpreter shutdown cannot retry the failed flush
+        # (https://docs.python.org/3/library/signal.html#note-on-sigpipe).
+        devnull = os.open(os.devnull, os.O_WRONLY)
+        os.dup2(devnull, sys.stdout.fileno())
         return 0
     except KeyboardInterrupt:
         return 130

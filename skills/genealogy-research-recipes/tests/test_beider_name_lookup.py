@@ -3,8 +3,8 @@
 import copy
 import importlib.util
 import io
-import os
 import json
+import os
 import subprocess
 import sys
 import tempfile
@@ -716,6 +716,19 @@ class BeiderLookupTests(unittest.TestCase):
             data = json.loads(output.getvalue())
             self.assertEqual(data["status"], "internal_error")
             self.assertEqual(data["error"], "RuntimeError")
+
+    def test_cli_exits_quietly_when_stdout_closes_early(self):
+        proc = subprocess.Popen(
+            [sys.executable, "-B", str(HELPER), "--name", "Гершель", "--limit", "50"],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+        )
+        proc.stdout.close()
+        stderr = proc.stderr.read()
+        proc.stderr.close()
+        proc.wait(timeout=10)
+        self.assertEqual(proc.returncode, 0, stderr)
+        self.assertEqual(stderr, b"")
 
 
 if __name__ == "__main__":
