@@ -104,6 +104,7 @@ Gather these before writing:
 - **Check that the file conforms to the declared version:** the header, the character set, the date syntax and the tags of that version. A 5.5.1 header needs `SOUR`, `SUBM`, `GEDC` with `VERS` and `FORM LINEAGE-LINKED`, and `CHAR`, and the file needs the SUBM record that `SUBM` points to [S4].
 - **Check that every INDI, FAM and SOUR pointer resolves.** In 7.0, every pointer except the null pointer `@VOID@` must occur as the cross-reference identifier of a structure in the same file [S1].
 - **Compare the exported links, citations and notes with the research notes.**
+- **Privacy gate:** <!-- privacy-gate: export --> A copy prepared for sharing carries tree data that may include living or possibly living people out of the user's own files; answer the privacy gate in `SKILL.md` before handing it over.
 - **Apply the living-person rules to a copy prepared for sharing.** Leave out or redact the living and probably living, private notes, and attachments the user did not choose to share. Writing a local export publishes nothing; do not upload the file or its attachments anywhere the user did not choose.
 - **Report what was not checked.** Give the file path, the version and the material limits of the transfer.
 
@@ -114,6 +115,7 @@ Gather these before writing:
   - **`@` in a value:** 5.5.1 doubled every `@`; 7.0 doubles an `@` only when it is the first character of the line string.
   - **Cross-reference IDs:** in 7.0 an ID is any run of uppercase letters, digits and underscores between `@` signs, so a leading digit is allowed. `@VOID@` is reserved.
   - **Date phrases:** 5.5.1 put them inside the DATE value; 7.0 moved them to a PHRASE substructure.
+- **Privacy gate:** <!-- privacy-gate: upload --> A test upload sends tree data, possibly about living or possibly living relatives, to an online tree service; answer the privacy gate in `SKILL.md` before uploading even a test file.
 - **Never upload a reduced test file over an existing online tree.** A re-import can replace the tree. Familio's help (a Russian-language tree service; checked 2026-11-04) says a re-import always fully replaces person pages: the new file replaces the old one, and all edits made by hand on Familio are lost [S11]. Test on a separate test tree or with a small synthetic file, and only on a destination the user chose.
 
 ## Close with an export packet

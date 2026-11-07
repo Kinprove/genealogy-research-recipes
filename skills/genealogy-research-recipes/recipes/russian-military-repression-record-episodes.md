@@ -96,6 +96,10 @@ so record whose card it is and the target's role on it before attaching a hit. M
 memory-project databases, regional ones included; record which source database each hit came
 from. [H38], [H39], [H40]
 
+**Privacy gate:** <!-- privacy-gate: request --> A query through IPN's form sends details of a
+repressed person and the asking family, who may be living; answer the privacy gate in `SKILL.md`
+before sending it.
+
 For a person from Poland's pre-war eastern territories (Kresy) deported or imprisoned under
 Soviet rule, search IPN's Indeks Represjonowanych (indeksrepresjonowanych.pl). It covers people
 who came under Soviet occupation after 17 September 1939 and were repressed in prisons, camps and
@@ -138,6 +142,10 @@ every collection supplies every field:
 The date cautions are inferences about what a document actually asserts. In particular, an
 award order after a missing report does not, by itself, establish survival between those dates.
 Obtain an event-specific source before extending a life or death interval.
+
+**Privacy gate:** <!-- privacy-gate: request --> A hospital or wound request asks for
+military-medical records about a serviceman who may still be living; answer the privacy gate in
+`SKILL.md` first.
 
 For a WWII hospital or wound question, send the archive request to the TsAMO branch for
 military-medical documents (филиал ЦАМО РФ военно-медицинских документов, Lazaretny per. 2,
@@ -234,7 +242,10 @@ pages can name living relatives; keep their details out of shared output.
 1. Copy the compilation's original source citation and archival locator. For a name collision,
    compare locality, occupation, relatives, unit/camp, case number and event dates. Keep missing
    descriptors unknown. A birth-year tolerance may widen retrieval; it is not an identity rule.
-2. For a repression lead, separate the investigation/decision record from custody, transfer,
+2. **Privacy gate:** <!-- privacy-gate: request --> The custody and exile requests below ask for
+   files on a repressed person and family members who may be living; answer the privacy gate in
+   `SKILL.md` before sending them.
+   For a repression lead, separate the investigation/decision record from custody, transfer,
    settlement and rehabilitation records. Preserve the exact legal code, jurisdiction and date;
    do not guess a missing subarticle or transfer another republic's numbering automatically.
    A sentence handed down between 26 May 1947 and the entry into force of the decree of
@@ -274,7 +285,9 @@ pages can name living relatives; keep their details out of shared output.
 4. Record what was delivered: pages/images inspected, stated omissions and any unavailable,
    withheld or redacted material. An inaccessible image is not a negative name search. Do not
    recover deliberately withheld content through alternate image leakage.
-5. When an archive says “no information,” preserve the repository, series or search scope it
+5. **Privacy gate:** <!-- privacy-gate: request --> A follow-up archive inquiry asks again about
+   a person who may be living; answer the privacy gate in `SKILL.md` before sending it.
+   When an archive says “no information,” preserve the repository, series or search scope it
    actually checked. Ask about a documented transfer or another specific creator when relevant;
    do not translate a local reply into proof of universal loss or launch an endless archive sweep.
 

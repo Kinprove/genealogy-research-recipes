@@ -4,6 +4,7 @@ import copy
 import importlib.util
 import io
 import json
+import os
 import subprocess
 import sys
 import tempfile
@@ -722,6 +723,43 @@ class BeiderLookupTests(unittest.TestCase):
         )
         self.assertNotIn("component_search", result)
         self.assertNotIn("matching_policy", result["query"])
+
+    def test_cli_outputs_utf8_json_under_ascii_io_encoding(self):
+        env = dict(os.environ)
+        env["PYTHONIOENCODING"] = "ascii"
+        completed = subprocess.run(
+            [sys.executable, "-B", str(HELPER), "--name", "Гершель"],
+            env=env,
+            capture_output=True,
+            check=False,
+            timeout=10,
+        )
+        self.assertEqual(completed.returncode, 0, completed.stderr)
+        data = json.loads(completed.stdout.decode("utf-8"))
+        self.assertEqual(data["status"], "found")
+
+    def test_cli_handles_unexpected_exception_as_json(self):
+        with patch.object(lookup, "_run", side_effect=RuntimeError("unexpected failure")):
+            output = io.StringIO()
+            with redirect_stdout(output):
+                code = lookup.main(["--name", "Гершель"])
+            self.assertEqual(code, 1)
+            data = json.loads(output.getvalue())
+            self.assertEqual(data["status"], "internal_error")
+            self.assertEqual(data["error"], "RuntimeError")
+
+    def test_cli_exits_quietly_when_stdout_closes_early(self):
+        proc = subprocess.Popen(
+            [sys.executable, "-B", str(HELPER), "--name", "Гершель", "--limit", "50"],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+        )
+        proc.stdout.close()
+        stderr = proc.stderr.read()
+        proc.stderr.close()
+        proc.wait(timeout=10)
+        self.assertEqual(proc.returncode, 0, stderr)
+        self.assertEqual(stderr, b"")
 
 
 if __name__ == "__main__":

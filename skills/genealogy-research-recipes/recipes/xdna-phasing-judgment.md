@@ -69,6 +69,8 @@ This generalizes cleanly to X-DNA, where pseudosegment risk is a **joint, pairwi
 
 So "is this X match trustworthy" depends on *whose* X chromosomes are being compared, not on whether you personally phased.
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Rerunning a comparison in a phased-haplotype tool sends the tester's raw DNA, and the match's data, to another service; answer the privacy gate in `SKILL.md` first.
+
 **Check an ancient or historical-sample match against tested parents.** These vendor matches usually rest on one small segment. Before reading one as inherited, record which parents or close relatives were compared and whether either parent shows the same sample match on that segment. If neither parent carries it, treat it as a probable pseudosegment, as a [historical-match discussion](https://genarchivist.net/showthread.php?tid=662) argues. If an unphased identity-by-state result can be rerun with a phased-haplotype tool, treat a segment that only the unphased method finds as suspect, as an [ancient-DNA matching comparison](https://genarchivist.net/showthread.php?tid=1285) reports. A segment a parent carries is still not evidence of descent from that sample (section 1). Neither thread gives a measured false-positive rate.
 
 ### 3 — The mechanical visual-phasing rule most models don't know
@@ -100,6 +102,7 @@ Now the case where the same instinct **fails**: distinguishing a half-sister fro
 
 What actually discriminates the maternal case, absent a clean X answer:
 
+- **Privacy gate:** <!-- privacy-gate: third-party-tool --> Running both testers' kits through a GEDmatch comparison exposes two living people's DNA and their living matches; answer the privacy gate in `SKILL.md` before using the tool.
 - **"Not in common" matches**: a half-sibling has large (>200 cM) matches from their *other* parent that the aunt/niece does not share; an aunt's matches should nearly all be shared with the niece (same shared ancestors), aside from the aunt's own generation. GEDmatch's "Match Both or 1 of 2" tool surfaces this directly.
 - **Niece-vs-aunt segment-size asymmetry**: nieces show *consistently smaller* matches to the same ancestral lines than aunts do (one extra generation of recombination dilution); half-siblings instead vary *randomly* around similar amounts — consistent-smaller vs. random-variation is the actual signal, not the raw total cM.
 - **Known confounds that break the "not in common" method**: endogamy or related parents inflate shared matches on both sides; a sparsely-tested population (the cited example: German, Chinese, French ancestry) removes the comparison matches entirely, in which case ethnicity-estimate differences become the fallback signal instead.

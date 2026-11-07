@@ -82,6 +82,7 @@ Gather these before searching:
 
 ## 5. Ask the Chechen Republic's custodians
 
+- **Privacy gate:** <!-- privacy-gate: request --> A request to these custodians sends names and family details, and asks for eviction, rehabilitation, repression or ZAGS records about family members who may still be living. Answer the privacy gate in `SKILL.md` first, ask only for what the family question needs, and send only the proof the custodian asks for.
 - **Route each request by type.** The Archive Directorate of the Government of the Chechen Republic lists these custodians on its services page (arhiv-chr.ru/gosudarstvennyj-uslugi, checked 2026-11-02) [S12]:
 
   | Request | Custodian |
@@ -102,6 +103,7 @@ Gather these before searching:
 
 ## 6. Search the place of settlement
 
+- **Privacy gate:** <!-- privacy-gate: request --> A request at either end, to the Kazakh Archive of the President or to a ZAGS office at the place of settlement, sends names and family details and asks for special-settler, repression or birth records about people who may still be living. Answer the privacy gate in `SKILL.md` before you send it, and follow the record's access rule.
 - **Do not assume the file went back to Grozny, or that it stayed in exile.** A 2022 study of the special settler's personal file reports that only a small part of the documents was sent to the archives of the restored Chechen-Ingush, Kabardino-Balkar, Karachay-Cherkess and Kalmyk autonomies in 1967–68, and that the rest stayed in the Kazakh and Kirghiz republics [S14]. Yet Grozny's special-settler collection once held 257,905 files (step 5) [S11]. Neither tells you where one family's file is. Ask both ends.
 - **In Kazakhstan, ask the Archive of the President.** Its "Архивная справка" (archival certificate) page has a separate procedure and sample form for requests about victims of political repression in 1920–1950 [S13]. Check whether that procedure covers special settlers before you file.
 - **For a birth in exile, search the civil-registration (ZAGS) records of the place of settlement.**

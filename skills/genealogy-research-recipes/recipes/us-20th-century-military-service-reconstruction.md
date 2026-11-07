@@ -28,11 +28,15 @@ Then check access. OMPFs become archival and open to the public 62 years after s
 
 An archival file is public, so no release is needed ([NARA, archival OMPF requests](https://www.archives.gov/personnel-records-center/military-personnel/ompf-archival-requests)). For a non-archival file, a requester who is neither the veteran nor his next of kin (for example, a grandson) must send a signed, dated authorization. If the veteran is living, it comes from him. If he is deceased, it comes from his next of kin (un-remarried spouse, son, daughter, father, mother, brother or sister), sent with proof of death ([NARA, OMPF access](https://www.archives.gov/personnel-records-center/ompf-access)). In one listener's account, a release signed by the veteran's sons turned a limited reply into the full file [S15].
 
+**Privacy gate:** <!-- privacy-gate: request --> A personnel-file request sends the veteran's identity and, for a non-archival file, a signed authorization and any proof of death; the veteran may be living, so answer the privacy gate in `SKILL.md` first.
+
 Request routes: NARA's online request system, eVetRecs ([vetrecs.archives.gov](https://vetrecs.archives.gov/)); Standard Form 180 (SF-180) by mail; an in-person visit to St. Louis by appointment; or an independent researcher ([NARA](https://www.archives.gov/personnel-records-center/military-personnel/morning-reports-and-unit-rosters); [S11]). eVetRecs is not limited to the family. A requester who is neither the veteran nor his next of kin chooses "Other", and every user verifies identity through ID.me ([NARA, eVetRecs help](https://www.archives.gov/veterans/military-service-records/evetrecs-help.html)).
 
 Ignore loose fire dates. One presenter said "1979" [S16], and another was unsure of the custodian's name [S20]. Cite NARA's own description instead.
 
 ## Request each file product by name and log what comes back
+
+**Privacy gate:** <!-- privacy-gate: request --> Each product request concerns a veteran who may be living, and a returned pay roll can name other men of his unit; answer the privacy gate in `SKILL.md` before sending it.
 
 Name each product in the request, and log the product returned and its page count [S9], [S10]:
 
@@ -82,6 +86,10 @@ upgrade. NARA's 2024 presentation describes these historical selection distincti
 | General and special, 1917–1938 | Included regardless of outcome |
 | General, 1939–1976 | Separate trial-record series |
 | Special, 1939–1976 | Proceedings resulting in a bad-conduct discharge |
+
+**Privacy gate:** <!-- privacy-gate: request --> A trial-file request names the defendant,
+who may be living, and the file can name victims and witnesses; answer the privacy gate in
+`SKILL.md` before requesting it.
 
 The presentation places surviving summary-court details in the OMPF rather than a separate
 trial series. Use these distinctions to select a candidate finding description, then
@@ -172,6 +180,7 @@ to choose an initial, bounded run of the supported unit or company's reports. A 
 on one day then does not show that the man was absent from the unit.
 
 - **Online first:** NARA has been adding digitized WWII Army morning reports to the National Archives Catalog, in the series *Morning Reports, 1940–1946*. When checked on 2026-11-07, it had monthly reports through December 1944 only ([NARA Catalog](https://catalog.archives.gov/id/85713825)). Search the Catalog for the unit and his dates first. If his reports are not there, use the offline route. The 2023 advice that morning reports are "not online" [S16] is out of date.
+- **Privacy gate:** <!-- privacy-gate: request --> Morning reports name the men of a unit, and the 1969–1974 reports may concern living people; answer the privacy gate in `SKILL.md` before requesting them or briefing a researcher.
 - **Offline access:** for archival Army morning reports (1912–1968), NPRC does not take written requests. Read them in person at St. Louis by appointment, or hire an independent researcher. Mail and fax requests apply only to non-archival 1969–1974 reports ([NARA](https://www.archives.gov/personnel-records-center/military-personnel/morning-reports-and-unit-rosters)).
 - **Personal entries:** promotions and furloughs, dated to the day [S16]. Log only entries that name him.
 - **Unit context:** movements, incidents and after-action detail [S16]. An after-action report corrected a family memory of an incident's date (Christmas Day versus Christmas Eve) [S16]. Note that it dates the unit's incident, not his part in it.
@@ -188,7 +197,9 @@ Preserve whichever is actually supplied; a surname alone does not identify the o
    misses, use its documented command relationship to inspect the relevant higher-level
    regiment or other issuing formation. The presentation shows regimental records that
    cover subordinate units [S28]; do not substitute an unrelated same-numbered formation.
-3. Retrieve the matching order and retain its locator and extent. Compare the actual
+3. **Privacy gate:** <!-- privacy-gate: request --> The order can name other award
+   recipients who may be living; answer the privacy gate in `SKILL.md` before requesting it.
+   Retrieve the matching order and retain its locator and extent. Compare the actual
    name, rank, service number and organization with the independent identity anchors.
    Keep order, award and action dates in their stated roles. Some orders list only basic
    award details; record an individual action only when the inspected order states it.

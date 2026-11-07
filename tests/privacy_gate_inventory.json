@@ -1,0 +1,1400 @@
+[
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "contact",
+  "action": "Use the available newest-relative or activity information to choose a contact who is",
+  "checkpoint": "A message to a match reaches a living person"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "link",
+  "action": "connection needed for the planned comparison, then use the Connections filter when available",
+  "checkpoint": "Connection requests open further DNA comparisons between the tester and living matches"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "contact",
+  "action": "to find accepted partners. For a genealogy question, ask for the relevant grandparents'",
+  "checkpoint": "Connection requests open further DNA comparisons between the tester and living matches"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "contact",
+  "action": "When one target does not respond, try an identified or active member of the same cluster.",
+  "checkpoint": "Approaching another cluster member contacts a"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "export",
+  "action": "Download the cluster CSV and retain the original. Its cells describe pairwise sharing;",
+  "checkpoint": "The cluster CSV holds the listed matches' names and pairwise shared amounts"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "third-party-tool",
+  "action": "Only after the privacy gate above: the February 2026 DNA Painter account describes pasting this",
+  "checkpoint": "The cluster CSV holds the listed matches' names and pairwise shared amounts"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "link",
+  "action": "grant this selection. Check the primary-profile selector and record the missing permission",
+  "checkpoint": "A connection request asks a living match to"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "export",
+  "action": "Scroll to the numerical table and copy the selected rows into a",
+  "checkpoint": "A connection request asks a living match to"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "third-party-tool",
+  "action": "For a single match, DNA Painter's current help describes pasting the numerical comparison",
+  "checkpoint": "The copied table holds the comparison partner's segment data"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "contact",
+  "action": "family for a tree and grandparents' details, then test that lead with the relationship and",
+  "checkpoint": "Asking a candidate family for a tree and grandparents' details"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "export",
+  "action": "Request raw data early if preservation matters. Processing may take days; confirm the email",
+  "checkpoint": "The raw data download is a copy of the tester's"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "upload",
+  "action": "Keep the untouched 23andMe genotype file before any transfer or format conversion, and",
+  "checkpoint": "Uploading the genotype file gives another service the tester's genome"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "export",
+  "action": "Record the selected confidence threshold and save the ancestry-coordinate export.",
+  "checkpoint": "Saving the ancestry-coordinate CSV or a Computed Data file copies"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "third-party-tool",
+  "action": "**Import 23andme ancestry composition** to paste its CSV. Use the dedicated population",
+  "checkpoint": "Saving the ancestry-coordinate CSV or a Computed Data file copies"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "export",
+  "action": "Where the profile-data settings offer a Computed Data download, request it as a further dated",
+  "checkpoint": "Saving the ancestry-coordinate CSV or a Computed Data file copies"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "third-party-tool",
+  "action": "original before importing it into a third-party painter, whose colors need not match 23andMe's.",
+  "checkpoint": "Saving the ancestry-coordinate CSV or a Computed Data file copies"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "third-party-tool",
+  "action": "Select your original segment CSV as the main file. Use the correct tester's file;",
+  "checkpoint": "Both files list third parties' match data"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "third-party-tool",
+  "action": "Add an authorized match or segment file from an identified relative on the branch of",
+  "checkpoint": "Both files list third parties' match data"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "export",
+  "action": "Download the filtered CSV, retaining the originals. Inspect it in a spreadsheet or import",
+  "checkpoint": "Both files list third parties' match data"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "third-party-tool",
+  "action": "it into a separate DNA Painter map/group for follow-up.",
+  "checkpoint": "Both files list third parties' match data"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "link",
+  "action": "Attach the actual DNA Relative to the right tree person; merely typing an ancestor's name supplies",
+  "checkpoint": "Placing a DNA Relative attaches a living"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "export",
+  "action": "Enable **23andMe Download Matches Pages as CSV File** in the extension panel and open",
+  "checkpoint": "These features run a third-party extension inside the signed-in DNA Relatives pages"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "export",
+  "action": "For a particular anchor, enable **23andMe Download Shared Matches as CSV File** and open",
+  "checkpoint": "These features run a third-party extension inside the signed-in DNA Relatives pages"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "third-party-tool",
+  "action": "To label that cohort, enable **23andMe Add Groups to Shared Matches**, open **Add/Manage",
+  "checkpoint": "These features run a third-party extension inside the signed-in DNA Relatives pages"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "third-party-tool",
+  "action": "Add a useful 23andMe match as an unconnected person or floating branch.",
+  "checkpoint": "An external research tree stores the match's identity, amounts, haplogroups and notes"
+ },
+ {
+  "recipe": "23andme-match-research.md",
+  "kind": "third-party-tool",
+  "action": "matches as separate branches and compare documented ancestors. Join a branch when the",
+  "checkpoint": "An external research tree stores the match's identity, amounts, haplogroups and notes"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "third-party-tool",
+  "action": "turning Ancestry match screenshots into a structured cM/relationship table to start a Leeds chart",
+  "checkpoint": "Match screenshots name living DNA matches and show their shared cM"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "third-party-tool",
+  "action": "if you have a tree plus multiple matches to place, that's **WATO**",
+  "checkpoint": "Entering a tree and several matches into WATO puts living matches' cM"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "contact",
+  "action": "For a line with no matches, target-test a documented relative from that line, such as a descendant",
+  "checkpoint": "Asking a documented relative to take a targeted DNA test"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "contact",
+  "action": "**Look for a documented descendant whose later branch married outside the community.**",
+  "checkpoint": "Approaching a living descendant for targeted testing shares the research question"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "third-party-tool",
+  "action": "**Provide complete inputs, don't expect inference.** Give the citation fields / the transcription / the screenshot",
+  "checkpoint": "Screenshots, transcriptions, family maps and pair matrices given to an AI"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "third-party-tool",
+  "action": "**For a family connection, supply both family maps and the pair matrix.**",
+  "checkpoint": "Screenshots, transcriptions, family maps and pair matrices given to an AI"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "third-party-tool",
+  "action": "AI builds the match table (names, cM, tentative relationship) from Ancestry screenshots",
+  "checkpoint": "These workflows export match cM and segment data to files"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "export",
+  "action": "build reusable templates (who/what/where/when + the match's cM & segment fields) → export CSV",
+  "checkpoint": "These workflows export match cM and segment data to files"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "third-party-tool",
+  "action": "→ hand to AI with \"use these exact fields.\" Then **check every output**",
+  "checkpoint": "These workflows export match cM and segment data to files"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "third-party-tool",
+  "action": "AI helps translate GEDmatch one-to-one coordinates into DNA Painter segments",
+  "checkpoint": "These workflows export match cM and segment data to files"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "third-party-tool",
+  "action": "Strip direct identifiers before pasting a third party's DNA or match list into a cloud AI",
+  "checkpoint": "Pasting anyone's DNA or match data into an AI or other external tool"
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "contact",
+  "action": "before asking for that permission. When the researcher asks, state the documented or",
+  "checkpoint": "Consent to analyze a match does not cover"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "surfacing an overlooked person in shadow, dating a scene by a car model or a uniform",
+  "checkpoint": "Family photos given to an AI tool can show living or possibly living people; answer the privacy gate in `SKILL.md` before uploading them."
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "export",
+  "action": "Export a big structured extraction (a GEDCOM index, obituary fields) to a spreadsheet and check row counts",
+  "checkpoint": "A GEDCOM index or obituary extraction can name living relatives; answer the privacy gate in `SKILL.md` before exporting it to a spreadsheet."
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "don't enter anything you wouldn't post publicly, because these tools may train on your uploads",
+  "checkpoint": "Pasting living people's records into an AI chatbot sends their data to a third party; answer the privacy gate in `SKILL.md` first."
+ },
+ {
+  "recipe": "ancestry-dna-match-investigation.md",
+  "kind": "contact",
+  "action": "Obtain a missing comparison from an authorized kit manager when your own access cannot show it.",
+  "checkpoint": "Asking a kit manager for a comparison involves living testers' DNA"
+ },
+ {
+  "recipe": "ancestry-dna-match-investigation.md",
+  "kind": "contact",
+  "action": "confirm the tester with the manager and the descent with records",
+  "checkpoint": "Confirming a tester with a kit manager is contact with a living person"
+ },
+ {
+  "recipe": "ancestry-dna-match-investigation.md",
+  "kind": "link",
+  "action": "link your test to **yourself as the actual tester** there.",
+  "checkpoint": "A separate, labeled tree is not by itself a"
+ },
+ {
+  "recipe": "ancestry-dna-match-investigation.md",
+  "kind": "contact",
+  "action": "whether to contact the match for records, photos and stories",
+  "checkpoint": "Writing to a match for records, photos and stories is contact"
+ },
+ {
+  "recipe": "ancestry-dna-match-investigation.md",
+  "kind": "contact",
+  "action": "Confirm identity through documented test-registration/upload provenance or the tester/kit manager.",
+  "checkpoint": "Asking the tester or kit manager to confirm identity is contact"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "contact",
+  "action": "the help pages direct you to the contributor for permission [P89]. The contributor is the contact",
+  "checkpoint": "Messaging a memorial's contributor about a photograph reaches a living stranger and discloses the user's research interest; answer the privacy gate in `SKILL.md` first."
+ },
+ {
+  "recipe": "chechen-ingush-1944-deportation-records.md",
+  "kind": "request",
+  "action": "The Archive Directorate of the Government of the Chechen Republic lists these custodians on its services page",
+  "checkpoint": "A request to these custodians sends names and family details, and asks for eviction, rehabilitation, repression or ZAGS records"
+ },
+ {
+  "recipe": "chechen-ingush-1944-deportation-records.md",
+  "kind": "request",
+  "action": "Ask the Archive Directorate about the specific file, and search at the place of settlement in parallel",
+  "checkpoint": "A request to these custodians sends names and family details, and asks for eviction, rehabilitation, repression or ZAGS records"
+ },
+ {
+  "recipe": "chechen-ingush-1944-deportation-records.md",
+  "kind": "request",
+  "action": "Neither tells you where one family's file is. Ask both ends.",
+  "checkpoint": "A request at either end, to the Kazakh Archive of the President or to a ZAGS office"
+ },
+ {
+  "recipe": "chechen-ingush-1944-deportation-records.md",
+  "kind": "request",
+  "action": "has a separate procedure and sample form for requests about victims of political repression in 1920–1950",
+  "checkpoint": "A request at either end, to the Kazakh Archive of the President or to a ZAGS office"
+ },
+ {
+  "recipe": "chechen-ingush-1944-deportation-records.md",
+  "kind": "request",
+  "action": "For a birth in exile, search the civil-registration (ZAGS) records of the place of settlement.",
+  "checkpoint": "A request at either end, to the Kazakh Archive of the President or to a ZAGS office"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "request",
+  "action": "Check whether your inmate was held at one of those penitentiaries or falls in the notorious-offenders series before you file any Bureau of Prisons request.",
+  "checkpoint": "A Bureau of Prisons, department of corrections or state archives request asks for a file about an inmate who may be living"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "request",
+  "action": "start with that state's department of corrections [S2], then check the state archives.",
+  "checkpoint": "A Bureau of Prisons, department of corrections or state archives request asks for a file about an inmate who may be living"
+ },
+ {
+  "recipe": "descendancy-gap-worklist.md",
+  "kind": "export",
+  "action": "For exporting the corrected tree as GEDCOM, see [Export research findings to a GEDCOM file",
+  "checkpoint": "A GEDCOM export of the corrected tree can carry recent descendants who may still be living"
+ },
+ {
+  "recipe": "dna-comparison-controls.md",
+  "kind": "export",
+  "action": "recompute from each match's segment-level export. Drop rows below the chosen common minimum,",
+  "checkpoint": "A segment-level export holds the DNA match data"
+ },
+ {
+  "recipe": "dna-comparison-controls.md",
+  "kind": "third-party-tool",
+  "action": "and lowered minimum segment size on pairs documented as unrelated within the time frame of",
+  "checkpoint": "Running known-unrelated pairs through a"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "Ask for something factual and limited, such as sharing a locked or missing tree",
+  "checkpoint": "Every message in this step goes to a living person and can disclose"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "The tester sends the message, not the helper.",
+  "checkpoint": "Every message in this step goes to a living person and can disclose"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "Write instead to a second cousin on the same line.",
+  "checkpoint": "Every message in this step goes to a living person and can disclose"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "Wait at least a year, then send a new sensitive-tier message, not a reminder.",
+  "checkpoint": "Every message in this step goes to a living person and can disclose"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "Address the message so that it works whether the recipient is the tester or someone managing the kit.",
+  "checkpoint": "The message names kits, shared DNA and possibly a tree with living relatives"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "publish",
+  "action": "A link to your online tree, if one exists. Do not write out the whole tree",
+  "checkpoint": "The message names kits, shared DNA and possibly a tree with living relatives"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "If so, write to that person. In the sensitive tier, the tester decides first",
+  "checkpoint": "The message names kits, shared DNA and possibly a tree with living relatives"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "Reach the relative through a route the tester already has",
+  "checkpoint": "The invitation, and any tree snapshot or family photos sent with it"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "publish",
+  "action": "Offer a tree snapshot, or photos of relatives you share or of their own family.",
+  "checkpoint": "The invitation, and any tree snapshot or family photos sent with it"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "export",
+  "action": "save dated screenshots of the match entry",
+  "checkpoint": "Screenshots of match entries and trees name living testers"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "publish",
+  "action": "Before the first message to any match, and before posting about the case online",
+  "checkpoint": "Screenshots of match entries and trees name living testers"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Open **Paint a new match**, paste the segment table and use **Preview**.",
+  "checkpoint": "Pasting the segment table and match identity puts a living match's DNA data into DNA Painter;"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "identities. Use that route only if the actual importer and its identity mapping can be",
+  "checkpoint": "Importing FTDNA segment and bucket files moves the tester's and named matches' DNA data"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "link",
+  "action": "its tester/test level, an authorized kit link, and the documented direct-line ancestor",
+  "checkpoint": "Linking a kit or entering a haplogroup exposes"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "drag it to the bookmarks bar, open the Chromosome Painter page and click it to download a",
+  "checkpoint": "The bookmarklet, the downloaded CSV and the DNA Painter tools all handle"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "current steps on the tool page. Import the CSV with **Import segment data**, or paste only",
+  "checkpoint": "The bookmarklet, the downloaded CSV and the DNA Painter tools all handle"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "start and end rows into the [cM estimator](https://dnapainter.com/tools/cme) and use",
+  "checkpoint": "The bookmarklet, the downloaded CSV and the DNA Painter tools all handle"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "click one of its segments, choose **View match**, then **Copy match segment data to clipboard**",
+  "checkpoint": "Copying or exporting map data moves matches' segment data"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "Set or clear table filters deliberately, then choose **CSV file**.",
+  "checkpoint": "Copying or exporting map data moves matches' segment data"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Paste the two sets into the generator and record the cM cutoff.",
+  "checkpoint": "These sets carry a parent's and a child's DNA match data"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "put the focal tester–match intervals in **box 1** and the close relative–match intervals in **box 2**",
+  "checkpoint": "Both tables carry living testers' and the match's segment data"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Paste the selected sets into the single input box and generate distinct segments.",
+  "checkpoint": "Several relatives' segment tables with the target match go"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "upload",
+  "action": "add the documented descendants or import a GEDCOM and select that ancestor",
+  "checkpoint": "The descendancy tree holds living descendants' names, testing status"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "upload",
+  "action": "where the research database accepts uploads, a transfer, not automatically a new test",
+  "checkpoint": "The descendancy tree holds living descendants' names, testing status"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "download the Coverage tree text file as a recoverable artifact",
+  "checkpoint": "The descendancy tree holds living descendants' names, testing status"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Check the actual importer's requirements before generating a separate working map; a cluster",
+  "checkpoint": "Cluster HTML, shared-segment CSVs and the generated map name living matches"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Inspect the generated map's available match report and find an identified match.",
+  "checkpoint": "Cluster HTML, shared-segment CSVs and the generated map name living matches"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "upload",
+  "action": "Preserve the input tree and identify the intended root. In the available import or manual",
+  "checkpoint": "A pedigree or GEDCOM may include living people;"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "generation filter and preserve the shown rows when exporting; the December 2024 tutorial",
+  "checkpoint": "A pedigree or GEDCOM may include living people;"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "publish",
+  "action": "Before sharing, inspect the actual view and its living-person/notes scope; if that",
+  "checkpoint": "A pedigree or GEDCOM may include living people;"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Use only an import or manual-entry route actually available for the supplied",
+  "checkpoint": "The matrix holds identified living testers' shared cM amounts;"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "publish",
+  "action": "pair shown twice remains one comparison. Keep any shared/exported view within the",
+  "checkpoint": "The matrix holds identified living testers' shared cM amounts;"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "export a filtered subset for an ancestor; export the unfiltered table for a whole-map transfer",
+  "checkpoint": "Copying or exporting map data moves matches' segment data"
+ },
+ {
+  "recipe": "ethnicity-estimate-version-comparison.md",
+  "kind": "export",
+  "action": "Then, beside \"What changed?\", click **Download PDF** [S1], [S11]. Find the link by its position:",
+  "checkpoint": "Downloading the estimate PDF and saving screenshots of the Chromosome Painter, parent views and map export the tester's DNA-derived results"
+ },
+ {
+  "recipe": "ethnicity-estimate-version-comparison.md",
+  "kind": "export",
+  "action": "Save every other view while the old version is still live: Chromosome Painter, By Parent",
+  "checkpoint": "Downloading the estimate PDF and saving screenshots of the Chromosome Painter, parent views and map export the tester's DNA-derived results"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "contact",
+  "action": "Contact the receiving society or archive before handing anything over, and record what it actually agrees to take",
+  "checkpoint": "Describing or handing over the collection passes photographs, papers and names of people who may still be living to an outside society or archive"
+ },
+ {
+  "recipe": "family-interviews-and-oral-tradition.md",
+  "kind": "export",
+  "action": "After the requested export, open a sample audio file and its associated item and verify that speaker/context",
+  "checkpoint": "An export from the app moves the participant's recorded voice and testimony, with linked photos, comments and notes about living relatives, into files"
+ },
+ {
+  "recipe": "family-papers-and-bible-register-dating.md",
+  "kind": "third-party-tool",
+  "action": "For reading or translating the handwriting with AI, use [AI for documentary records]",
+  "checkpoint": "Images or text of letters, cards, address books and registers given to an AI tool may name living relatives and their addresses"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "publish",
+  "action": "For remote feedback, a marked copy or worksheet can keep the image reference, existing caption",
+  "checkpoint": "Sharing a marked copy sends the photograph, its captions and contributors' accounts"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "contact",
+  "action": "Ask distant and collateral branches, heirs of the relevant household goods and lines present",
+  "checkpoint": "Asking distant branches or heirs about the photograph contacts people who may be living"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "third-party-tool",
+  "action": "With permission, reverse-search a cropped copy and keep only exact-copy hits, as leads to ask about",
+  "checkpoint": "Before you upload a private family photograph to any outside service"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "export",
+  "action": "import the tree or the ancestral lines into a local file, then match and reconcile individual",
+  "checkpoint": "Syncing Family Tree data into a local file copies the"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "upload",
+  "action": "For a tree on FamilySearch that only you control, upload a GEDCOM at **Family Tree > Manage",
+  "checkpoint": "Exporting a GEDCOM from Ancestry or MyHeritage"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "export",
+  "action": "export it from Ancestry or MyHeritage, or build it in desktop software",
+  "checkpoint": "Exporting a GEDCOM from Ancestry or MyHeritage"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Upload the chosen PDF to Memories, explicitly select its visibility, and verify the saved setting",
+  "checkpoint": "Before adding a research report, choose who needs to read it and answer the privacy gate in `SKILL.md`"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "put a self-contained, shareable evidence summary and underlying citations in visible source/reason fields",
+  "checkpoint": "Before adding a research report, choose who needs to read it and answer the privacy gate in `SKILL.md`"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "upload",
+  "action": "check the intended image or complete story before using an available restore/upload",
+  "checkpoint": "A restored photo or story may show or name living"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "use **Export CSV → All Matches** for the match list.",
+  "checkpoint": "The match list and segment file, including any"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "Browser, use **Download All Segments** for all matches' segment rows;",
+  "checkpoint": "The match list and segment file, including any"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "After correcting the export choice, re-export both files in the same",
+  "checkpoint": "The match list and segment file, including any"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "result, preserve the currently available match and segment files, raw data and origins",
+  "checkpoint": "Preserved files hold the tester's raw data and"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "Notes are included in the match CSV: re-export the pair through workflow 1 and",
+  "checkpoint": "The re-exported pair and each single-match segment"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "In the Chromosome Browser, use **Download Segments** and label the resulting file with that handle.",
+  "checkpoint": "The re-exported pair and each single-match segment"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "link",
+  "action": "but each must be searched and confirmed again through Account Settings → Genealogy →",
+  "checkpoint": "A link ties a tester's DNA"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "link",
+  "action": "To link a match: **Link on Family Tree** beside it, then search the person's name as written in",
+  "checkpoint": "A link ties a tester's DNA"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "link",
+  "action": "Link documented relatives who identify one side first: parents and grandparents, then aunts,",
+  "checkpoint": "Each anchor link puts a relative's DNA result on the tree"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "check that the anchor's Matches row shows the expected **Linked Relationship**, then re-export",
+  "checkpoint": "Each anchor link puts a relative's DNA result on the tree"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "link",
+  "action": "Correct or remove a misplaced link and re-export.",
+  "checkpoint": "Each anchor link puts a relative's DNA result on the tree"
+ },
+ {
+  "recipe": "ftdna-practical-dna-workflows.md",
+  "kind": "publish",
+  "action": "within the project's agreed publication scope. Arrange the relevant Big Y kits into useful",
+  "checkpoint": "Public project results expose members' display"
+ },
+ {
+  "recipe": "gedcom-research-export.md",
+  "kind": "upload",
+  "action": "Test on a separate test tree or with a small synthetic file, and only on a destination the user chose.",
+  "checkpoint": "A test upload sends tree data, possibly about living or possibly living relatives, to an online tree service"
+ },
+ {
+  "recipe": "gedcom-research-export.md",
+  "kind": "export",
+  "action": "Apply the living-person rules to a copy prepared for sharing.",
+  "checkpoint": "A copy prepared for sharing carries tree data that may include living or possibly living people"
+ },
+ {
+  "recipe": "gedmatch-practical-dna-workflows.md",
+  "kind": "upload",
+  "action": "use the vendor's current upload instructions",
+  "checkpoint": "Upload a kit only after the privacy gate in"
+ },
+ {
+  "recipe": "gedmatch-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "Save the position table and, when useful, the graphics.",
+  "checkpoint": "The saved table holds a living match's segment"
+ },
+ {
+  "recipe": "gedmatch-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "Save that run's settings and the original membership list.",
+  "checkpoint": "The membership list names living testers;"
+ },
+ {
+  "recipe": "gedmatch-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "Save the returned CSV when offered",
+  "checkpoint": "Segment Search results list living matches'"
+ },
+ {
+  "recipe": "gedmatch-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "verified measurements to the painting workflow in DNA Painter.",
+  "checkpoint": "The measurements carry other testers' segment data."
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "upload",
+  "action": "open **Sources → Add Source**. Select an existing document or add one",
+  "checkpoint": "An uploaded document can name or show family"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "contact",
+  "action": "**Invite to Project** route requests the managers' participation. Record whether the profile was",
+  "checkpoint": "A collaboration request or project invitation"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "contact",
+  "action": "If identity is supported, perform the merge or submit the permitted request.",
+  "checkpoint": "A merge request goes to the other managers of"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "contact",
+  "action": "prepare a curator request containing the merge event, profile URLs, the demonstrated mismatch,",
+  "checkpoint": "A curator request through a public assistance"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "upload",
+  "action": "and your permissions allow it, begin **Import GEDCOM** from that profile's Actions menu; match",
+  "checkpoint": "Importing a GEDCOM uploads its people, possibly"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "upload",
+  "action": "person's details, tick **Import a GEDCOM for this person**, and save the form.",
+  "checkpoint": "A GEDCOM imported as a new branch can carry"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "export",
+  "action": "then its **Actions → Export GEDCOM** route. The export FAQ includes immediate-family profiles",
+  "checkpoint": "A GEDCOM export or sharing copy can hold"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "publish",
+  "action": "**Obscure private profiles** and still inspect the resulting file.",
+  "checkpoint": "A GEDCOM export or sharing copy can hold"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "export",
+  "action": "generations and select **Export PDF**. Record the chosen depth and report direction.",
+  "checkpoint": "An ancestor or descendant PDF can name living"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "publish",
+  "action": "A viewable report or a successful export does not establish that every contained",
+  "checkpoint": "Before sharing either artifact, inspect its"
+ },
+ {
+  "recipe": "german-compensation-file-recovery.md",
+  "kind": "request",
+  "action": "A participant who files requests regularly reported that a commissioned search took months to years.",
+  "checkpoint": "A file request asks the archive for postwar files that name applicants, heirs, relatives and witnesses who may still be living."
+ },
+ {
+  "recipe": "german-compensation-file-recovery.md",
+  "kind": "request",
+  "action": "Use a file's postwar residence, later marriages and stated death date and place to choose the Standesamt",
+  "checkpoint": "A request for postwar death and marriage entries can concern later spouses and other people who may still be living."
+ },
+ {
+  "recipe": "german-local-census-registration-recovery.md",
+  "kind": "request",
+  "action": "For registration entries, write to the Einwohnermeldeamt or the Stadtarchiv.",
+  "checkpoint": "Registration entries can name people who may still be living; answer the privacy gate in `SKILL.md` before writing for them."
+ },
+ {
+  "recipe": "german-local-census-registration-recovery.md",
+  "kind": "request",
+  "action": "For records still inside the protection period, enclose with your first request the proof that law",
+  "checkpoint": "A request for younger registration records sends the user's proof of kinship or ID copy and concerns people who may be living"
+ },
+ {
+  "recipe": "german-local-census-registration-recovery.md",
+  "kind": "request",
+  "action": "ask the responsible county archive (Kreisarchiv) for the person's card in the GDR-era district registration file",
+  "checkpoint": "A district registration card names the person's partner, children and parents, who may be living"
+ },
+ {
+  "recipe": "german-local-census-registration-recovery.md",
+  "kind": "request",
+  "action": "Seek a municipal personnel file only when a separate evidenced employment link",
+  "checkpoint": "A municipal personnel file may concern"
+ },
+ {
+  "recipe": "holocaust-testimony-source-interpretation.md",
+  "kind": "request",
+  "action": "For an unavailable part, prepare the exact title/language/signature and missing extent for",
+  "checkpoint": "A list or case of the 1940s can name people who"
+ },
+ {
+  "recipe": "holocaust-testimony-source-interpretation.md",
+  "kind": "request",
+  "action": "or ethnicity, request a copy of the card itself.",
+  "checkpoint": "An evacuation card can describe a person who"
+ },
+ {
+  "recipe": "holocaust-testimony-source-interpretation.md",
+  "kind": "contact",
+  "action": "If the user asks to contact one, answer the privacy gate",
+  "checkpoint": "A submitter or a relative named on a Page may be"
+ },
+ {
+  "recipe": "institutional-patient-record-recovery.md",
+  "kind": "request",
+  "action": "group your requester is in before you go to court.",
+  "checkpoint": "A court petition or direct request for a"
+ },
+ {
+  "recipe": "institutional-patient-record-recovery.md",
+  "kind": "request",
+  "action": "the entry, and send everything they hold for the patient [S3], [S4]. Make a mail-in request",
+  "checkpoint": "A mail-in request for patient files and"
+ },
+ {
+  "recipe": "institutional-patient-record-recovery.md",
+  "kind": "request",
+  "action": "Ask for everything the custodian holds for the patient. Denyse Allen reports that when she",
+  "checkpoint": "Asking for a complete patient file, or for"
+ },
+ {
+  "recipe": "institutional-patient-record-recovery.md",
+  "kind": "request",
+  "action": "Ask whether other relatives were patients too. The guest reports that the Connecticut",
+  "checkpoint": "Asking for a complete patient file, or for"
+ },
+ {
+  "recipe": "japanese-koseki-honseki-recovery.md",
+  "kind": "request",
+  "action": "Send the request to the current successor's office, not the one nearest a remembered hometown.",
+  "checkpoint": "A koseki request sends the requester's identity and proof of descent to a municipal office"
+ },
+ {
+  "recipe": "japanese-koseki-honseki-recovery.md",
+  "kind": "request",
+  "action": "Each koseki is organized by family unit and names the parents. Request one generation at a time",
+  "checkpoint": "Each koseki or closed-register request sends ID and descent proof"
+ },
+ {
+  "recipe": "japanese-koseki-honseki-recovery.md",
+  "kind": "request",
+  "action": "Some koseki and closed registers that have not been computerized are excluded, so request those from the honseki municipality.",
+  "checkpoint": "Each koseki or closed-register request sends ID and descent proof"
+ },
+ {
+  "recipe": "jewishgen-search-family-reconstruction.md",
+  "kind": "contact",
+  "action": "FTJP submissions are not validated by JewishGen. Ask for the underlying record only if contact is authorized.",
+  "checkpoint": "Messaging a JGFF researcher or FTJP tree submitter contacts a living stranger"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "link",
+  "action": "use Manage DNA kits → kit menu → Re-assign kit to a different person",
+  "checkpoint": "Reassignment links a living relative's DNA kit"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "link",
+  "action": "Reuse steps 4–5 for theory preservation, permission and reassignment. After an authorized",
+  "checkpoint": "Relinking kits to a replacement tree moves living"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "export",
+  "action": "says the downloaded raw-file header states the processing used and that array-processed kits are",
+  "checkpoint": "Downloading a raw DNA file exports the tested"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "contact",
+  "action": "check other companies, or ask the relative when contact is authorized, before planning a test.",
+  "checkpoint": "Asking a Cousin Finder relative about DNA testing"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "export",
+  "action": "Use the companion **DNA data export** procedure for export schemas and **DNA match clustering**",
+  "checkpoint": "Exports of match and segment data hold living"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "export",
+  "action": "When working from an exported segment file rather than the browser, keep the unfiltered export and",
+  "checkpoint": "A segment export lists living matches' DNA data;"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "contact",
+  "action": "Use Contact on the DNA-match card. Identify whether the recipient manages another person's",
+  "checkpoint": "The message discloses tested people and shared"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "export",
+  "action": "links. Use available exports only after verifying their presence and actual coverage for this",
+  "checkpoint": "Match, shared-match and segment exports name"
+ },
+ {
+  "recipe": "nazi-era-ancestry-proof-records.md",
+  "kind": "request",
+  "action": "Ask the Bundesarchiv for a name search in NS 12, the NSLB's Hauptamt für Erzieher",
+  "checkpoint": "The requests below for NSLB, personnel, party correspondence and Erbhof files"
+ },
+ {
+  "recipe": "nazi-era-ancestry-proof-records.md",
+  "kind": "request",
+  "action": "Ask the archive of the employing authority for the personnel file",
+  "checkpoint": "The requests below for NSLB, personnel, party correspondence and Erbhof files"
+ },
+ {
+  "recipe": "nazi-era-ancestry-proof-records.md",
+  "kind": "request",
+  "action": "Use it to fix the birth data, then ask for the party correspondence, R 9361-II",
+  "checkpoint": "The requests below for NSLB, personnel, party correspondence and Erbhof files"
+ },
+ {
+  "recipe": "nazi-era-ancestry-proof-records.md",
+  "kind": "request",
+  "action": "Ask the state archive that holds the local Amtsgericht's records for the Anerbengericht's Erbhof files",
+  "checkpoint": "The requests below for NSLB, personnel, party correspondence and Erbhof files"
+ },
+ {
+  "recipe": "nazi-era-ancestry-proof-records.md",
+  "kind": "request",
+  "action": "Send SS, Waffen-SS and SA requests to the Abteilung Deutsches Reich at Berlin-Lichterfelde",
+  "checkpoint": "A written request for an SS, Waffen-SS, SA or party file"
+ },
+ {
+  "recipe": "nazi-era-ancestry-proof-records.md",
+  "kind": "request",
+  "action": "The Bundesarchiv can shorten the period with the person's consent, or without it",
+  "checkpoint": "A request for a protected file, or for earlier access to it"
+ },
+ {
+  "recipe": "repository-photograph-collection-search.md",
+  "kind": "third-party-tool",
+  "action": "For AI analysis of context clues in a photo, such as a car model, a uniform",
+  "checkpoint": "Pasting a photo into an AI tool sends images of people who may be living"
+ },
+ {
+  "recipe": "repository-photograph-collection-search.md",
+  "kind": "contact",
+  "action": "never collect contributors' names or contact details, and use a portal's contact form only when the user asks to make contact",
+  "checkpoint": "A message through a portal's contact form reaches a living relative who keeps the page"
+ },
+ {
+  "recipe": "repository-photograph-collection-search.md",
+  "kind": "publish",
+  "action": "Offer a supported identification to the holding institution as a suggested metadata correction.",
+  "checkpoint": "A suggested metadata correction makes the names of people in the photo public"
+ },
+ {
+  "recipe": "research-documentation.md",
+  "kind": "publish",
+  "action": "Before handing the report to the family, re-read it as a reader with no context of the case,",
+  "checkpoint": "Handing or sharing the report, in full or in parts,"
+ },
+ {
+  "recipe": "research-documentation.md",
+  "kind": "publish",
+  "action": "If the report may be shared in parts, keep the project name, report version date and page",
+  "checkpoint": "Handing or sharing the report, in full or in parts,"
+ },
+ {
+  "recipe": "rootsmagic-tree-reconciliation-workflow.md",
+  "kind": "upload",
+  "action": "entire upload file before creating a new Ancestry tree. If its people exceed the",
+  "checkpoint": "A first TreeShare upload sends the RootsMagic file's people, possibly including living relatives"
+ },
+ {
+  "recipe": "rootsmagic-tree-reconciliation-workflow.md",
+  "kind": "export",
+  "action": "If a hosted service offers both the originally uploaded GEDCOM and a newly generated",
+  "checkpoint": "A GEDCOM export of a hosted tree can hold"
+ },
+ {
+  "recipe": "rootsmagic-tree-reconciliation-workflow.md",
+  "kind": "link",
+  "action": "For Ancestry, use TreeShare from the Publish page in RootsMagic 8 and later.",
+  "checkpoint": "Connecting the local file to an Ancestry"
+ },
+ {
+  "recipe": "rootsmagic-tree-reconciliation-workflow.md",
+  "kind": "link",
+  "action": "Enable FamilySearch support and sign in if needed. Review the matched FamilySearch",
+  "checkpoint": "Linking local people to FamilySearch"
+ },
+ {
+  "recipe": "rootsmagic-tree-reconciliation-workflow.md",
+  "kind": "upload",
+  "action": "Accept only the reviewed batch, then reopen each affected destination profile.",
+  "checkpoint": "Accepting the batch sends facts,"
+ },
+ {
+  "recipe": "russian-empire-emigrant-origin-recovery.md",
+  "kind": "publish",
+  "action": "of Russian consulates in the USA, for example by asking in the J-Roots forum's index topic for them",
+  "checkpoint": "A forum question publicly exposes the family\nsurname and case details, which can identify the user and living relatives;"
+ },
+ {
+  "recipe": "russian-empire-jewish-identity-attribution.md",
+  "kind": "contact",
+  "action": "the difference is weak likelihood evidence for a pedigree-aware model and a reason to test more descendants of the candidate brothers",
+  "checkpoint": "Asking living descendants of the candidate brothers, whether relatives or matches, to take a DNA test"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "request",
+  "action": "sent through the site's 'Prześlij zapytanie' (send a query) form, so a miss in the public index",
+  "checkpoint": "A query through IPN's form sends details of a"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "request",
+  "action": "For a WWII hospital or wound question, send the archive request to the TsAMO branch for",
+  "checkpoint": "A hospital or wound request asks for"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "request",
+  "action": "ask the interior-ministry information centre of the region of last confinement for a",
+  "checkpoint": "The custody and exile requests below ask for"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "request",
+  "action": "registration card, which may carry a file number or a destruction note. For exile, ask the",
+  "checkpoint": "The custody and exile requests below ask for"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "request",
+  "action": "Ask about a documented transfer or another specific creator when relevant;",
+  "checkpoint": "A follow-up archive inquiry asks again about"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Ask whether that office's paper books for the year were searched, and how a missing record is found and entered",
+  "checkpoint": "A ZAGS search or repeat-document request can concern acts naming people who may still be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Send a request for an older act to that state archive, not to the ДРАЦС.",
+  "checkpoint": "A Ukrainian civil-status request, even for an act over 75 years old, can name people who are still living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Ukrposhta delivery of the result is available only within Ukraine (Diia notice of 10.07.2026, checked 2026-11-02). From abroad, apply through a Ukrainian consulate",
+  "checkpoint": "A Ukrainian civil-status request, even for an act over 75 years old, can name people who are still living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Get the enterprise's exact name before you write.** Labour archives store files in boxes by enterprise and year",
+  "checkpoint": "Workplace personnel files are kept for decades and their subjects may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Participants reported the steps: request copies by email, receive an invoice, get scans after payment.",
+  "checkpoint": "A party card names the member and relatives, some of whom may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Write to the military commissariat (военкомат) at the last residence** for the personal file.",
+  "checkpoint": "Military personal files list the nearest relatives, who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "request the officer personal file from the Ministry of Defence archive (ЦАМО)",
+  "checkpoint": "Military personal files list the nearest relatives, who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Detailed ZAGS extracts for a death, a marriage or a child's birth give addresses for these searches",
+  "checkpoint": "Detailed ZAGS extracts, especially for a child's birth, can be about people who are still living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Request the book for the named settlement and period and the entry for the household of the named head",
+  "checkpoint": "Household-book entries list every household member and their age, and some may still be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Note whether you asked for copies or only for an archival certificate (архивная справка).",
+  "checkpoint": "Requests for personal-file copies, archival certificates or kinship-proof certificates can concern people who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "make each missing link (for example one generation's birth or marriage certificate) its own early request",
+  "checkpoint": "Requests for personal-file copies, archival certificates or kinship-proof certificates can concern people who may be living"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "upload",
+  "action": "GEDCOM import builds this fast (limit imported candidates to descendants of the selected ancestor).",
+  "checkpoint": "WATO is an online DNA Painter tool."
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "third-party-tool",
+  "action": "Treat that person as unknown, enter the real matches and cM, and check whether the documented slot ranks",
+  "checkpoint": "WATO is an online DNA Painter tool."
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "third-party-tool",
+  "action": "enter the shared cM between the target and each match already in the tree. WATO scores each slot.",
+  "checkpoint": "WATO is an online DNA Painter tool."
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "If tested known-side relatives represent only some of that parent's lines, recruit testers from the missing lines",
+  "checkpoint": "Asking living relatives to take a DNA test discloses your research question to them"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "which may be **more targeted DNA testing** (recruit a specific relative to test)",
+  "checkpoint": "Recruiting a specific living relative to test discloses the hypothesis and asks for their DNA"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "third-party-tool",
+  "action": "turning a match list or screenshots into a clean cM/relationship table; drafting a timeline from census rows",
+  "checkpoint": "Pasting a match list, screenshots or a GEDCOM subtree into an AI tool"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "link",
+  "action": "record each match's initials + cM in a systematic slot — Kitty Cooper uses the tree's *Suffix* field",
+  "checkpoint": "Writing living matches' initials and cM into a tree on a DNA site"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "third-party-tool",
+  "action": "keep a separate WATO analysis for each focal tester, entering each match once",
+  "checkpoint": "Each WATO analysis receives living testers' and matches' cM and tree positions"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "upload",
+  "action": "uploading the tester's raw data to a database that accepts third-party transfers surfaces matches",
+  "checkpoint": "Before any upload of the tester's raw DNA, answer the privacy gate"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "asking key matches to share their *full* match list (Ancestry \"Collaborator\" access)",
+  "checkpoint": "Asking relatives or a match's older relatives to test, or asking matches for collaborator access"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "ask whether the match's parents, aunts, uncles or other older relatives will test",
+  "checkpoint": "Asking relatives or a match's older relatives to test, or asking matches for collaborator access"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "third-party-tool",
+  "action": "Verify the descent with documents, then add each match's cM per tester",
+  "checkpoint": "Adding newly found living matches' cM to WATO gives the tool their genetic data"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "publish",
+  "action": "For a willing recipient, an optional source-linked progress brief can show the original",
+  "checkpoint": "A progress brief or connection diagram shared with a match"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "Go slowly, lead with the other person's choice to engage, and don't treat a confirmed hypothesis",
+  "checkpoint": "A first approach to an identified bio-parent or close relative discloses a parentage finding"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "If unexpected findings may be discussed, prepare an unsent private heads-up and a short",
+  "checkpoint": "A heads-up about unexpected findings discloses sensitive"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "which may be recruiting a specific relative to DNA-test *or* a records search",
+  "checkpoint": "Recruiting a living relative to DNA-test discloses the hypothesis and asks for their genetic data"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "Request routes: NARA's online request system, eVetRecs",
+  "checkpoint": "A personnel-file request sends the veteran's identity and, for a non-archival file, a signed authorization"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "Name each product in the request, and log the product returned and its page count",
+  "checkpoint": "Each product request concerns a veteran who may be living, and a returned pay roll can name other men of his unit"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "verify its actual period, custodian, survival and access before requesting it. They do",
+  "checkpoint": "A trial-file request names the defendant, who may be living, and the file can name victims and witnesses"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "Read them in person at St. Louis by appointment, or hire an independent researcher.",
+  "checkpoint": "Morning reports name the men of a unit, and the 1969–1974 reports may concern living people"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "Retrieve the matching order and retain its locator and extent. Compare the actual",
+  "checkpoint": "The order can name other award recipients who may be living"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "request",
+  "action": "For AR-2, check the Flexoline Index's current coverage, then follow NARA's",
+  "checkpoint": "An AR-2 or C-File request sends the identifiers of a registrant or naturalized person"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "request",
+  "action": "For C-Files, use the USCIS Genealogy Program: a known valid certificate/file number allows a",
+  "checkpoint": "An AR-2 or C-File request sends the identifiers of a registrant or naturalized person"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "request",
+  "action": "for the arrival first to get the file number, then make a separate records request.",
+  "checkpoint": "A USCIS index search, a visa-file request or an alien-registration request names an immigrant who may be living"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "request",
+  "action": "registrations, ask both the state archives and the NARA regional facility with jurisdiction over",
+  "checkpoint": "A USCIS index search, a visa-file request or an alien-registration request names an immigrant who may be living"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "request",
+  "action": "request to the holding archive with the volume, page, person and date;",
+  "checkpoint": "A targeted request names the researched person, who may be living;"
+ },
+ {
+  "recipe": "wikitree-dna-tester-links.md",
+  "kind": "link",
+  "action": "identifiers, usernames and haplogroup labels in the applicable fields. Keep a reported",
+  "checkpoint": "Provider identifiers, usernames, haplogroup labels, a GEDmatch kit ID"
+ },
+ {
+  "recipe": "wikitree-dna-tester-links.md",
+  "kind": "link",
+  "action": "association distinct. Add the GEDmatch kit ID in the applicable WikiTree test field;",
+  "checkpoint": "Provider identifiers, usernames, haplogroup labels, a GEDmatch kit ID"
+ },
+ {
+  "recipe": "wikitree-dna-tester-links.md",
+  "kind": "link",
+  "action": "Repeat for a genuinely separate test or provider registration, without counting the",
+  "checkpoint": "Provider identifiers, usernames, haplogroup labels, a GEDmatch kit ID"
+ },
+ {
+  "recipe": "wikitree-dna-tester-links.md",
+  "kind": "link",
+  "action": "enter the tester's WikiTree ID in the WikiTree field and save.",
+  "checkpoint": "Saving the WikiTree ID in FamilyTreeDNA or the"
+ },
+ {
+  "recipe": "wikitree-dna-tester-links.md",
+  "kind": "link",
+  "action": "Enter the correct GEDmatch kit ID on the tester's WikiTree test entry.",
+  "checkpoint": "Saving the WikiTree ID in FamilyTreeDNA or the"
+ },
+ {
+  "recipe": "xdna-phasing-judgment.md",
+  "kind": "third-party-tool",
+  "action": "If an unphased identity-by-state result can be rerun with a phased-haplotype tool, treat a segment",
+  "checkpoint": "Rerunning a comparison in a phased-haplotype tool sends the tester's raw DNA, and the match's data, to another service"
+ },
+ {
+  "recipe": "xdna-phasing-judgment.md",
+  "kind": "third-party-tool",
+  "action": "GEDmatch's \"Match Both or 1 of 2\" tool surfaces this directly.",
+  "checkpoint": "Running both testers' kits through a GEDmatch comparison exposes two living people's DNA and their living matches"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "whose branch was measured by Big Y or sequencing, and compare a second predictor",
+  "checkpoint": "Entering a tester's or relative's STR values into a subclade predictor sends living people's genetic data to an outside tool"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "upload",
+  "action": "against that source before using an offered entry/import route; leave unreadable or unmapped",
+  "checkpoint": "Entering a tester's legacy Y-STR marker values"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "consider a replicate on a separate kit or a test of another son of the same father",
+  "checkpoint": "Asking another son of the same father, or other documented male-line relatives, to take a Y-DNA test"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "target-test documented male-line relatives who descend from your proposed paternal ancestors at different generational depths",
+  "checkpoint": "Asking another son of the same father, or other documented male-line relatives, to take a Y-DNA test"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "(d) testing additional documented direct-line descendants to confirm or eliminate",
+  "checkpoint": "Asking a known male relative or additional direct-line descendants to test"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "seek a documented male-line descendant through another son of the relevant ancestor",
+  "checkpoint": "Recruiting a male-line cousin as a tester means contacting a living person"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "specific record search or proposed manager question. A separately documented all-maternal",
+  "checkpoint": "A question to an mtDNA match or its kit manager"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "To confirm/eliminate an unknown direct-line ancestor, test **known direct-line descendants of candidate families**",
+  "checkpoint": "Asking known descendants of candidate families to take a Y-DNA or mtDNA test"
+ }
+]

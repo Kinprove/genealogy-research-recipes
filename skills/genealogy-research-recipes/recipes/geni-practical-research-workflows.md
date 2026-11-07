@@ -90,7 +90,9 @@ dated tree observation until its required links are supported.
 
 ## 3. Attach a document to the facts and relationships it supports
 
-1. On the relevant profile, open **Sources → Add Source**. Select an existing document or add one
+1. **Privacy gate:** <!-- privacy-gate: upload --> An uploaded document can name or show family
+   members who may be living; answer the privacy gate in `SKILL.md` before uploading it.
+   On the relevant profile, open **Sources → Add Source**. Select an existing document or add one
    you are authorized to upload. If an existing upload is missing from the selection, use **Show
    all documents**; the default selection is restricted to documents already tagged to that
    profile. [H6]
@@ -115,7 +117,10 @@ that statement appears; a document attached to a profile does not support every 
 1. Search existing projects for the town, community, institution or research topic before creating
    another. Inspect its scope, documents, discussions and attached profiles. A locality project
    can expose related families under different surnames. [S1, S4, H7]
-2. For a public project, join or request collaboration as appropriate. On an eligible existing
+2. **Privacy gate:** <!-- privacy-gate: contact --> A collaboration request or project invitation
+   contacts other profiles' managers about family profiles; answer the privacy gate in `SKILL.md`
+   before sending it.
+   For a public project, join or request collaboration as appropriate. On an eligible existing
    profile, use **Actions → Add to Project**; where you lack the applicable rights, the documented
    **Invite to Project** route requests the managers' participation. Record whether the profile was
    added or a request remains pending. [H8]
@@ -149,7 +154,9 @@ can approve merges. Pending merges can be viewed, completed or undone in the Mer
 2. Select the other profile and open **Compare Profiles**. Decide identity from the family and
    records. Use the different-person or decide-later option when identity is contradicted or
    unresolved. Do not create a duplicate merely to acquire control of an existing profile. [H1, H11]
-3. If identity is supported, perform the merge or submit the permitted request. Record the actual
+3. **Privacy gate:** <!-- privacy-gate: contact --> A merge request goes to the other managers of
+   both profiles; answer the privacy gate in `SKILL.md` before submitting it.
+   If identity is supported, perform the merge or submit the permitted request. Record the actual
    state; a requested merge has not yet combined the profiles. Save the surviving URL after a
    completed merge. [H11]
 4. Handle field disagreements through **Actions → Resolve Conflicting Data** or the Match Center's
@@ -186,7 +193,10 @@ family-structure review are recorded as separate outcomes.
    **view**. Inspect both profiles and their immediate families as shown at the merge. From that
    page, use **View revision history** for the profile merged into the primary one; its older
    history is not all visible on the combined profile's ordinary revision list. [H14]
-5. If the merge is still pending, undo it in the Merge Center; no curator is needed. Otherwise
+5. **Privacy gate:** <!-- privacy-gate: contact --> A curator request through a public assistance
+   discussion exposes profile URLs and family details of people who may be living; answer the
+   privacy gate in `SKILL.md` before posting it.
+   If the merge is still pending, undo it in the Merge Center; no curator is needed. Otherwise
    prepare a curator request containing the merge event, profile URLs, the demonstrated mismatch,
    source locators and the intended separation. Geni documents curator assistance to undo a bad
    merge through its linked assistance discussion. Keep private details out of a public request.
@@ -202,14 +212,19 @@ unstacking an uncompleted merge has not been mistaken for reversing a completed 
 
 ## 7. Import onto the intended focus and resolve stopped branches deliberately
 
-1. Preserve the original GEDCOM and identify its intended focus person. Before creating a branch
+1. **Privacy gate:** <!-- privacy-gate: upload --> Importing a GEDCOM uploads its people, possibly
+   including living relatives, into Geni's tree; answer the privacy gate in `SKILL.md` before
+   importing.
+   Preserve the original GEDCOM and identify its intended focus person. Before creating a branch
    or launching an import, check the current restrictions: the focus must be you or a person born
    after 1800, and Geni will not continue into branches for people born before 1600. If the intended
    focus does not qualify, choose an eligible person represented in the file or plan manual entry
    for the older data. Search Geni for the eligible focus first. When that person already exists
    and your permissions allow it, begin **Import GEDCOM** from that profile's Actions menu; match
    the correct GEDCOM record to the selected Geni profile. [H16]
-2. For a genuinely new, unconnected branch, use **Research → Create a Branch**. Enter the focus
+2. **Privacy gate:** <!-- privacy-gate: upload --> A GEDCOM imported as a new branch can carry
+   living people's details onto Geni; answer the privacy gate in `SKILL.md` before saving the form.
+   For a genuinely new, unconnected branch, use **Research → Create a Branch**. Enter the focus
    person's details, tick **Import a GEDCOM for this person**, and save the form. In the importer,
    select the GEDCOM record corresponding to that new profile. Use an existing tree location when
    the connection is already established. Creating a branch does not make its contents private;
@@ -234,7 +249,10 @@ unresolved duplicates are visible in the register.
 
 ## 8. Preserve a scoped GEDCOM or a readable ancestor/descendant report
 
-1. Decide whether the output must be a portable tree file or a readable report. For native GEDCOM,
+1. **Privacy gate:** <!-- privacy-gate: export, publish --> A GEDCOM export or sharing copy can hold
+   living relatives' and private profiles' details; answer the privacy gate in `SKILL.md` before
+   exporting or sharing it.
+   Decide whether the output must be a portable tree file or a readable report. For native GEDCOM,
    use your own profile, a profile you added, or an eligible immediate-family profile as the focus,
    then its **Actions → Export GEDCOM** route. The export FAQ includes immediate-family profiles
    unless blocked by the person or manager; the overview gives the narrower added-profile rule.
@@ -248,14 +266,17 @@ unresolved duplicates are visible in the register.
    unchanged. Open a copy in a trusted local genealogy program and inspect the focal person,
    representative parent-child and partner links, and source/note coverage. Preserve the original
    export if the receiving program normalizes or modifies it.
-3. For a readable list, use **Actions → Ancestor Report** or **Descendant Report**, choose the
+3. **Privacy gate:** <!-- privacy-gate: export --> An ancestor or descendant PDF can name living
+   relatives; answer the privacy gate in `SKILL.md` before exporting it.
+   For a readable list, use **Actions → Ancestor Report** or **Descendant Report**, choose the
    generations and select **Export PDF**. Record the chosen depth and report direction. The report
    is not a GEDCOM and is not a complete export of the surrounding World Family Tree. [H17]
 4. Reconcile the output with the chosen scope and the live profiles. Record restrictions or missing
    people as export exceptions, not as evidence that the relationship is absent. Retain the source
    URLs for links whose documentation must still be retrieved.
-5. Before sharing either artifact, inspect its actual contents for living/private people and
-   private notes. A viewable report or a successful export does not establish that every contained
+5. **Privacy gate:** <!-- privacy-gate: publish --> Before sharing either artifact, inspect its
+   actual contents for living/private people and private notes, and answer the privacy gate in
+   `SKILL.md`. A viewable report or a successful export does not establish that every contained
    fact should be republished.
 
 **Artifact schema:** `exported_at, focus_profile_url, artifact_type, direction, selected_scope,

@@ -492,6 +492,10 @@ and inscription, not the interment. The
 [Find a Grave discussion](https://www.youtube.com/watch?v=M6NwvqpYK58) motivate this. They give no
 rate for speculative memorials and do not show how any site displays creation history.
 
+**Privacy gate:** <!-- privacy-gate: contact --> Messaging a memorial's contributor about a
+photograph reaches a living stranger and discloses the user's research interest; answer the privacy
+gate in `SKILL.md` first.
+
 Read a Find a Grave memorial against the site's own rules, which describe what contributors are
 asked to do, not what was checked. Contributors are asked to add only verified burial places, not
 presumed ones, and a memorial with the burial details unknown is warranted only in rare cases.

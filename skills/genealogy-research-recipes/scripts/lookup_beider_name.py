@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 import unicodedata
@@ -320,7 +321,17 @@ def run_query(
 
 
 def emit_json(result: dict) -> None:
-    print(json.dumps(result, ensure_ascii=False, separators=(",", ":")))
+    data = json.dumps(result, ensure_ascii=False, separators=(",", ":")) + "\n"
+    try:
+        sys.stdout.write(data)
+        sys.stdout.flush()
+    except UnicodeEncodeError:
+        if hasattr(sys.stdout, "buffer"):
+            sys.stdout.buffer.write(data.encode("utf-8"))
+            sys.stdout.buffer.flush()
+        else:
+            sys.stdout.write(json.dumps(result, ensure_ascii=True, separators=(",", ":")) + "\n")
+            sys.stdout.flush()
 
 
 class JsonArgumentParser(argparse.ArgumentParser):
@@ -329,7 +340,7 @@ class JsonArgumentParser(argparse.ArgumentParser):
         raise SystemExit(2)
 
 
-def main(argv: list[str] | None = None) -> int:
+def _run(argv: list[str] | None = None) -> int:
     parser = JsonArgumentParser(description=__doc__)
     parser.add_argument("--sex", choices=("male", "female", "both"), default="both")
     selectors = parser.add_mutually_exclusive_group(required=True)
@@ -358,6 +369,27 @@ def main(argv: list[str] | None = None) -> int:
         return 1
     emit_json(result)
     return exit_code
+
+
+def main(argv: list[str] | None = None) -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8")
+        except Exception:
+            pass
+    try:
+        return _run(argv)
+    except BrokenPipeError:
+        # Point stdout at devnull so interpreter shutdown cannot retry the failed flush
+        # (https://docs.python.org/3/library/signal.html#note-on-sigpipe).
+        devnull = os.open(os.devnull, os.O_WRONLY)
+        os.dup2(devnull, sys.stdout.fileno())
+        return 0
+    except KeyboardInterrupt:
+        return 130
+    except Exception as error:
+        emit_json({"status": "internal_error", "error": type(error).__name__})
+        return 1
 
 
 if __name__ == "__main__":

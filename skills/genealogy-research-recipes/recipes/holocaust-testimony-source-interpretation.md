@@ -47,6 +47,9 @@ motivates this check; the underlying components and their individual statements 
 
 ## Recover the described parts of an original case
 
+**Privacy gate:** <!-- privacy-gate: request --> A list or case of the 1940s can name people who
+are still living; answer the privacy gate in `SKILL.md` before requesting a missing part.
+
 If a result opens only part of a list or case, retain the original repository/signature and
 the folios actually inspected. Look for other described digital parts of that same original
 case. Keep the name-record ID, archive item, JM/film key, original list/page/entry and viewer
@@ -90,6 +93,10 @@ order and adjacent database IDs do not supply family order. Use recorded address
 attested surname alternatives as additional retrieval keys, preserving competing heads,
 ambiguous roles and missing serials. The same discussion motivates this household crosswalk;
 original coordinates or proximity alone do not establish kinship or complete household survival.
+
+**Privacy gate:** <!-- privacy-gate: request --> An evacuation card can describe a person who
+is still living, such as an evacuated child; answer the privacy gate in `SKILL.md` before
+requesting it.
 
 When an evacuation search returns only a summary certificate (справка) and the question is origin
 or ethnicity, request a copy of the card itself. An
@@ -138,6 +145,11 @@ These are reasoning consequences of the source types, not a reliability ranking 
 the exact unresolved conflict and one source capable of resolving it. Current interface modes,
 contact routes and access availability must be checked when used. This recipe does not authorize
 contacting a submitter or submitting a correction.
+
+**Privacy gate:** <!-- privacy-gate: contact --> A submitter or a relative named on a Page may be
+living. If the user asks to contact one, answer the privacy gate in `SKILL.md` first. Follow its
+Living people rule: use the consent, disclosure and log rules of
+[DNA match outreach staging](dna-match-outreach-staging.md) without its DNA-only items.
 
 ## Sources
 

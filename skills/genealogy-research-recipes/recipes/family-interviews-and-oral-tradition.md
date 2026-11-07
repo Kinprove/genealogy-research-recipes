@@ -51,6 +51,8 @@ An "as told by" typescript is a received transcript: its recording stays an open
 
 Retain the speaker, recording date and context when known, prompt or item reference and actual audio or video file. Distinguish spoken testimony from your transcript, paraphrase and later interpretation. Use recording offsets for quoted or uncertain passages so they can be replayed. Preserve the original alongside edited extracts; mark uncertain readings rather than polishing them into definite names or quotations.
 
+**Privacy gate:** <!-- privacy-gate: export --> An export from the app moves the participant's recorded voice and testimony, with linked photos, comments and notes about living relatives, into files; answer the privacy gate in `SKILL.md` before requesting or opening that export.
+
 Connect the recording to its photo or object and session notes through stable references. Keep those links in a portable register or sidecar if the application does not export them. After the requested export, open a sample audio file and its associated item and verify that speaker/context, required notes and links survived. Never assume a single image download carries the memory: in a 2022 demonstration of one app, downloading a photograph did not bring its attached audio, and comments did not travel when a photo was shared [S1]. If the interface or account is not available to you, say so, and do not describe download or export controls you have not seen.
 
 ## Hand over a packet, not tree facts

@@ -34,6 +34,9 @@ state, and the presenters' own outcomes show how far apart states are [S2], [S6]
   privacy grounds, saying privacy did not end at death and that it does not release records
   for genealogy [S2]. Current New York Office of Mental Health policy says it does not provide
   copies for genealogical purposes, under Mental Hygiene Law §33.13.
+- **Privacy gate:** <!-- privacy-gate: request --> A court petition or direct request for a
+  patient file sends the requester's proof of descent and can open records naming possibly
+  living relatives; answer the privacy gate in `SKILL.md` before you petition or request.
 - **Illinois:** Amy Johnson Crow says she needed a judge's order to open the hospital records
   of a relative who died in 1899 at the state hospital in Kankakee (the Illinois Eastern
   Hospital for the Insane, later Kankakee State Hospital) [S6]. Her own published guidance
@@ -79,6 +82,9 @@ a diagnosis or admission, and the supplement may name no institution. [S7]
   heir, so under the law he was not next in line, even though he was the surviving next of kin
   [S1]. This is his account of his own case, and the rule depends on the jurisdiction. Ask the
   custodian who qualifies. Don't infer it from family closeness.
+- **Privacy gate:** <!-- privacy-gate: request --> A mail-in request for patient files and
+  register entries sends family proof and can return pages naming possibly living relatives;
+  answer the privacy gate in `SKILL.md` before you send it.
 - Plan for mixed-date registers at the Pennsylvania State Archives. Patient entries sit in
   registers covering many years. If the page with your patient also carries entries that are
   still restricted, or the volume runs past the 75-year mark, the archivist says staff may not
@@ -91,6 +97,9 @@ a diagnosis or admission, and the supplement may name no institution. [S7]
 
 ## 2. Ask for the complete file and record what actually came back
 
+- **Privacy gate:** <!-- privacy-gate: request --> Asking for a complete patient file, or for
+  other relatives' files, can bring back interviews, photographs and health details about
+  possibly living family members; answer the privacy gate in `SKILL.md` before each request.
 - Ask for everything the custodian holds for the patient. Denyse Allen reports that when she
   requested a great-grandfather's file from the Pennsylvania State Archives, staff said it
   exceeded the standard fee. They offered the highlights they selected, or a full copy at extra
