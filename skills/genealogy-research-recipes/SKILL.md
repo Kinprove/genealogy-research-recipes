@@ -65,7 +65,8 @@ unknown, do not move the data: keep it local and tell the user what is missing.
   settings and any extension's permissions, and record what you saw and the date. For a DNA
   database, include whether law-enforcement uploads can match the kit.
 - **Permission.** Get explicit permission from each living person whose data leaves the user's
-  own device or account, for this action and this destination; an extension or a tool that
+  own device or account, or becomes visible to others there (a tree link, a searchable or
+  shared setting), for this action and this destination; an extension or a tool that
   receives the data counts as a destination. Kit or account access, or permission to analyze,
   is not permission to move or disclose. A file that stays on the user's own device needs no
   further permission, but the Retention item applies to it.

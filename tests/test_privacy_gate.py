@@ -102,7 +102,7 @@ def line_of(text, offset):
 
 
 def markers(text):
-    """Return (line index, kinds, line) for each marker outside code blocks."""
+    """Return (line index, kinds, line, column) for each marker outside code blocks."""
     found = []
     for index, line in enumerate(blank_fences(text).split("\n")):
         for match in MARKER.finditer(line):
@@ -130,15 +130,13 @@ def check_entry(text, kind, action, checkpoint):
     for line in lines[checkpoint_line + 1 : action_line + 1]:
         if HEADING.match(line):
             raise AssertionError(f"a heading separates the checkpoint from the action: {line!r}")
-    line_start = live.rfind("\n", 0, checkpoint_at) + 1
-    kinds = [
-        kinds
-        for index, kinds, _, start in markers(text)
-        if index == checkpoint_line and line_start + start < checkpoint_at
-    ]
-    if not any(kind in found for found in kinds):
+    checkpoint_column = checkpoint_at - (live.rfind("\n", 0, checkpoint_at) + 1)
+    if not any(
+        kind in marker_kinds
+        for index, marker_kinds, _, start in markers(live)
+        if index == checkpoint_line and start < checkpoint_column
+    ):
         raise AssertionError(f"no {kind!r} marker before the checkpoint on its line: {lines[checkpoint_line]!r}")
-    return checkpoint_line
 
 
 def github_slug(heading):
@@ -183,10 +181,11 @@ class InventoryTests(unittest.TestCase):
                 check_entry(text, entry["kind"], entry["action"], entry["checkpoint"])
 
     def test_every_marker_is_well_formed_and_guards_a_listed_step(self):
+        checkpoints = sorted({(entry["recipe"], entry["checkpoint"]) for entry in INVENTORY})
         guarded = {}
-        for entry in INVENTORY:
-            live = blank_fences((RECIPES / entry["recipe"]).read_text(encoding="utf-8"))
-            guarded.setdefault(entry["recipe"], set()).add(line_of(live, find_once(live, entry["checkpoint"])))
+        for recipe, checkpoint in checkpoints:
+            live = blank_fences((RECIPES / recipe).read_text(encoding="utf-8"))
+            guarded.setdefault(recipe, set()).add(line_of(live, find_once(live, checkpoint)))
         checked = 0
         for path in sorted(RECIPES.glob("*.md")):
             for index, kinds, line, start in markers(path.read_text(encoding="utf-8")):
@@ -194,7 +193,7 @@ class InventoryTests(unittest.TestCase):
                 with self.subTest(recipe=path.name, line=index + 1):
                     check_marker_format(line, start, kinds)
                     self.assertIn(index, guarded.get(path.name, set()), "marker guards no listed step")
-        self.assertGreaterEqual(checked, len({(e["recipe"], e["checkpoint"]) for e in INVENTORY}))
+        self.assertGreaterEqual(checked, len(checkpoints))
 
     def test_dna_recipes_link_the_dna_privacy_rules(self):
         for recipe in DNA_RECIPES:
@@ -266,8 +265,8 @@ class CheckerSelfTests(unittest.TestCase):
         with self.assertRaises(AssertionError):
             check_entry(fenced, "upload", "Upload the file", "Ask first")
         self.assertEqual(markers(fenced), [])
-        heading = "## A\n\n**Privacy gate:** <!-- privacy-gate: upload --> Ask first.\n\n```sh\n# step\n```\n\nUpload the file.\n"
-        check_entry(heading, "upload", "Upload the file", "Ask first")
+        fenced_heading = "## A\n\n**Privacy gate:** <!-- privacy-gate: upload --> Ask first.\n\n```sh\n# step\n```\n\nUpload the file.\n"
+        check_entry(fenced_heading, "upload", "Upload the file", "Ask first")
 
     def test_a_checkpoint_text_that_starts_off_the_marker_line_fails(self):
         text = "## A\n\n**Privacy gate:** <!-- privacy-gate: upload --> Ask\nfirst, then upload.\n\nUpload the file.\n"
