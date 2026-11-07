@@ -733,7 +733,7 @@ class BeiderLookupTests(unittest.TestCase):
             ("Дови", {"DOV", "DOVID"}),
             ("Довидл", {"DOVID"}),
             ("Довидка", {"DOVID"}),
-            ("Срулик", {"ISROEL"}),
+            ("Срулик", {"ISROEL", "RUVN", "SHMUEL"}),
         )
         original_data = lookup.MANIFEST.read_bytes()
         indexes = lookup.load_manifest()
