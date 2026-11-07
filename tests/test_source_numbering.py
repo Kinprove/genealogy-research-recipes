@@ -14,9 +14,11 @@ ID = r"([A-Z]{1,2})(\d+)(?:[–-]([A-Z]{1,2})?(\d+))?"
 # "- **S12:** ...", "- **S12.** ...", "- **H1–H4:** ..." or a support-table row "| S12 | ...".
 ENTRY = re.compile(rf"^(?:- \*\*{ID}[:.]|\| {ID} \|)", re.MULTILINE)
 PLACEHOLDER = "No entry; this number is not cited by the recipe."
-# A bracket that opens with a source ID: [S3], [S1, H2], [S4–S6], and annotated forms
-# such as [S3 p. 1], [S3 pp. 10, 14] or [H2; interpretation of the form].
-CITATION = re.compile(r"\[([A-Z]{1,2}\d+(?![\w])[^\[\]]*)\]")
+# A bracket that opens with a source ID (or ID range) followed by ",", ";", "]" or a page
+# marker: [S3], [S1, H2], [S4–S6], [S3 p. 1], [S3 pp. 10, 14], [H2; interpretation of the
+# form]. An ID followed by plain words, such as the haplogroup in "[D0 dating comparison]",
+# is not a citation.
+CITATION = re.compile(r"\[([A-Z]{1,2}\d+(?:[–-][A-Z]{0,2}\d+)?(?=[,;\]]|\s+pp?\.\s)[^\[\]]*)\]")
 # Each comma- or semicolon-separated part that starts with an ID; page numbers and
 # annotations after the ID are ignored.
 CITED_ID = re.compile(r"^([A-Z]{1,2})(\d+)(?:[–-]([A-Z]{0,2})(\d+))?(?![\w])")
@@ -72,10 +74,6 @@ class SourceNumberingTests(unittest.TestCase):
             found, placeholders = entries(path.read_text(encoding="utf-8"))
             recipe = RECIPES / path.name
             cited = citations(recipe.read_text(encoding="utf-8")) if recipe.exists() else set()
-            # Only series the sources file defines are citations; "[D0 dating comparison]"
-            # names a haplogroup, not a source.
-            series = {prefix for prefix, _ in found}
-            cited = {item for item in cited if item[0] in series}
             with self.subTest(sources=path.name):
                 self.assertEqual(gaps(found), {}, "numbering gap")
                 self.assertEqual(sorted(cited - found), [], "cited in the recipe but not listed")
@@ -101,7 +99,12 @@ class SourceNumberingTests(unittest.TestCase):
             citations("[S3 p. 1] [S7 pp. 10, 14] [H2; interpretation of the form] [S8, H9 p. 2]"),
             {("S", 3), ("S", 7), ("H", 2), ("S", 8), ("H", 9)},
         )
-        self.assertEqual(citations("[SS] [S1x] [Smith 1990] [DNA]"), set())
+        self.assertEqual(citations("[SS] [S1x] [Smith 1990] [DNA] [D0 dating comparison]"), set())
+
+    def test_a_citation_to_a_series_the_file_lacks_is_reported(self):
+        found, _ = entries("- **H1:** A.\n- **H2:** B.")
+        cited = citations("Mistyped [S1] next to [H1].")
+        self.assertEqual(sorted(cited - found), [("S", 1)])
 
 
 if __name__ == "__main__":
