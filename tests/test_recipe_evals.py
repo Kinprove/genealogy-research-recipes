@@ -118,7 +118,7 @@ class BehaviouralHarnessTests(unittest.TestCase):
 
     def test_equivalent_stone_wording_does_not_fail_the_inscription_regex(self):
         case = next(case for case in load_cases() if case["id"] == "memorial-proof")
-        reads = {"burial-evidence-packet": {"complete": True, "lines": []}}
+        reads = {name: {"complete": True, "lines": []} for name in ("burial-evidence-packet", "evidence-proof-judgment")}
         failures = deterministic(case, "The database, headstone and burial give claims about death.", reads)
         self.assertEqual(failures, [])
 
@@ -148,6 +148,13 @@ class BehaviouralHarnessTests(unittest.TestCase):
         self.assertFalse(reads[path.stem]["complete"])
         self.assertTrue(required_lines(SKILL, path.stem, sections) <= set(reads[path.stem]["lines"]))
         self.assertFalse(any("Judgment rules not read" in failure for failure in deterministic(case, "A plan", reads)))
+        self.assertEqual(deterministic(case, "A plan", reads), [])
+
+    def test_supplemental_judgment_binding_requires_the_recipe_to_be_opened(self):
+        case = next(case for case in load_cases() if case["id"] == "memorial-proof")
+        reads = {"burial-evidence-packet": {"complete": True, "lines": []}}
+        failures = deterministic(case, "The database, inscription, burial and death stay distinct.", reads)
+        self.assertTrue(any("Unread recipes: evidence-proof-judgment" in failure for failure in failures))
 
     def test_replay_subset_uses_only_selected_fixtures_but_rejects_changed_ones(self):
         previous = {"materials": {"matches.csv": "same", "family.ged": "unselected"}}

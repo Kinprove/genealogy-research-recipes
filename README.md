@@ -59,7 +59,8 @@ reads and line coverage, and checks the answer with regexes and an independent r
 Routing and regex checks must pass three of three samples; at least two samples must pass
 all rubric questions. A denied read, missing sample, invalid judge response or timeout cannot
 pass. Task recipes must be read in full; judgment recipes may be read at their rules sections.
-Cases bind required judgment sections to returned body-line spans: opening only a title or
+Recipes named in `read_sections` are mandatory supplements, except alternatives selected by
+`any_of`. Cases bind required judgment sections to returned body-line spans: opening only a title or
 Goal cannot satisfy them. Denied, unfinished and out-of-scope reads fail even after another
 successful read. A subset replay checks the saved fixtures used by that subset.
 Questions in the rubric are bound to exact recipe sentences and their current body line numbers.

@@ -154,10 +154,13 @@ def deterministic(case, answer, reads, judgments=None, skill=SKILL):
     expected = case["expect"]
     judgments = JUDGMENT if judgments is None else judgments
     failures = []
-    missing = set(expected["recipes"]) - set(reads)
+    alternatives = set(expected.get("any_of", []))
+    required = set(expected["recipes"]) | (
+        (set(expected.get("read_sections", {})) | set(expected.get("read_full", []))) - alternatives
+    )
+    missing = required - set(reads)
     if missing:
         failures.append("Unread recipes: " + ", ".join(sorted(missing)))
-    alternatives = set(expected.get("any_of", []))
     if alternatives and not set(reads).intersection(alternatives):
         failures.append("No any_of recipe read")
     if expected["clarify"] and len(set(reads) - judgments) > 1:
