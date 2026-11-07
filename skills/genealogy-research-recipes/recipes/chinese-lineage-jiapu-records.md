@@ -56,6 +56,19 @@ Look for these in sources that write characters:
 - tombstones, which can give both the village and the name;
 - Chinese association histories or officer lists. [S1], [S2]
 
+For emigrants to the United States, also check **Chinese Exclusion Act case files in NARA
+RG 85**. They can contain Chinese names, village maps, family details and interrogation
+statements. Use the port or immigration office and case references to locate the relevant
+series; verify its current NARA custodian and access rules. The exclusion laws operated in
+1882–1943, but individual series and files can extend beyond those dates. NARA's older
+holdings guide is a starting point, not a current facility list. [S6]
+
+Keep a claimed immigration identity separate from the person's other names and family links.
+Some files contain coaching material for a **paper-son identity**, a claimed relationship used
+for admission. Neither that relationship nor the village and family memorized for it is
+automatically the emigrant's biological lineage. Compare independent character-written
+sources before selecting a jiapu. [S6]
+
 Treat English obituaries and immigration romanizations as leads only. In the presenter's Hawaii
 example, the obituary's romanization did not resemble the real name. Even an overseas
 obituary's printed **characters** were wrong in that example, while the association record had
@@ -117,6 +130,12 @@ name, first ancestor's name or generation name. It also has advanced image-searc
 map browse covering more than 65,000 jiapu. Individual names inside the books are still **not
 indexed**, so once you find a book you page through its images. The procedure:
 
+**Access check, 7 November 2026:** FamilySearch's help page carries a notice that access to
+**certain Chinese family records is suspended** while it reviews privacy laws, contracts and
+technology. Read the current notice and check the particular book's image access before
+calling it viewable. Keep a restricted or unavailable book separate from a search with no
+candidate title; neither establishes that no jiapu survives. [S7]
+
 1. Choose the surname by its **exact character**. In the presenter's example, several surname
    entries shared one romanization.
 2. Choose the ancestral county, and the village or ancestral hall if you have it.
@@ -134,9 +153,11 @@ If the collection has no match, the presenter names these fallback holders:
 
 - the lineage keeper among living relatives;
 - the ancestral village hall, temple or shrine;
-- the Shanghai Library, whose jiapu holdings a library employee told Sixth Tone number about
-  40,000 titles in over 300,000 volumes. The presenter found he had to use its reading room in
-  Shanghai; plan for on-site use;
+- the Shanghai Library: first check its [Genealogy Knowledge Service Platform](https://jiapu.library.sh.cn/)
+  for catalogue entries and available digitized texts/images. The platform launched in 2016;
+  the presenter's reading-room experience is not a current requirement for every title.
+  Check access for the specific edition and volumes, then ask about on-site holdings or copies
+  for material unavailable online. A catalogue entry does not guarantee image access. [S8]
 - booksellers. His example family's book turned up by chance in a Hong Kong bookstore. [S1], [S3]
 
 Record each fallback as checked, unchecked or inaccessible. A failed search is not evidence that
@@ -150,11 +171,17 @@ full-text searchable but not yet name-indexed, with results filterable by provin
 
 ## Place the ancestor as a hypothesis
 
-- Find the generation character from the lineage's generation poem. Find the generation number,
-  counted from the founding migrant ancestor, and browse only that generation. [S1], [S3]
-- A generation-character match narrows the search to one generation. It does not identify a
-  person. The presenter notes the practice is followed less strictly in recent generations and
-  that near-homophone characters appear within a generation. [S1], [S3]
+- Read **this branch's** generation poem and naming instructions. The generation character can
+  be the first or second character of the given name; check whether its position alternates.
+  Do not borrow another branch's sequence. Only after establishing the applicable poem and
+  generation number, counted from the founding migrant ancestor, use it to narrow browsing.
+  [S1], [S3], [S9]
+- A matching character or poem does not establish a shared lineage between same-surname
+  families. Branches can use different sequences, and a shared sequence is not a substitute
+  for village and recorded parent/child links. An emigrant's overseas school, courtesy or
+  paper name may have no generation character; leave the generation unresolved rather than
+  forcing that name into a poem. The presenter also notes looser practice in recent generations
+  and near-homophone characters within a generation. [S1], [S3], [S6], [S9]
 - If you place someone in a blank slot or as a missing sibling, write it up as a hypothesis and
   name each piece of supporting evidence (for example: a gravestone naming the village, a
   matching generation character, known brothers). The presenter's "about 95%" confidence is his
@@ -166,8 +193,9 @@ full-text searchable but not yet name-indexed, with results filterable by provin
 
 - **Imperial dates.** Transcribe reign title, regnal year, month and day literally. Note when a
   stone mixes imperial and Western dates. [S1], [S2] Count regnal years from the era's first year
-  (元年). Tongzhi year 1 = 1862 (the era began 30 January 1862; the emperor acceded in November
-  1861). The sum 1861 + N gives only the Gregorian year in which Tongzhi year N **begins**. Each
+  (元年). Tongzhi year 1 = 1862. The change of era name in 1861 did not make 1861 Tongzhi year 1;
+  keep accession, enthronement and the era's first year distinct. [S10]
+  The sum 1861 + N gives only the Gregorian year in which Tongzhi year N **begins**. Each
   regnal year starts at the Chinese New Year, so its last lunar months can fall in January or
   February of the next Gregorian year. Convert the complete date (regnal year, month and day) with
   a lunisolar conversion table, and take the Gregorian year from the table, not from the

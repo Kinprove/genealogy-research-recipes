@@ -336,6 +336,18 @@
   "checkpoint": "A Bureau of Prisons, department of corrections or state archives request asks for a file about an inmate who may be living"
  },
  {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "request",
+  "action": "check the governor's clemency papers and parole-board records as separate series",
+  "checkpoint": "A Bureau of Prisons, department of corrections or state archives request asks for a file about an inmate who may be living"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "request",
+  "action": "Use the particular series' current catalogue entry to establish custody, coverage and access before requesting a file.",
+  "checkpoint": "A Bureau of Prisons, department of corrections or state archives request asks for a file about an inmate who may be living"
+ },
+ {
   "recipe": "descendancy-gap-worklist.md",
   "kind": "export",
   "action": "For exporting the corrected tree as GEDCOM, see [Export research findings to a GEDCOM file",
@@ -870,6 +882,12 @@
   "checkpoint": "A submitter or a relative named on a Page may be"
  },
  {
+  "recipe": "illegitimacy-record-recovery.md",
+  "kind": "request",
+  "action": "Request adoption papers or an original birth certificate only through the route the responsible court, agency or vital-record office authorizes.",
+  "checkpoint": "An adoption-record request can disclose the adoptee's and birth or adoptive relatives' identities and sensitive parentage."
+ },
+ {
   "recipe": "institutional-patient-record-recovery.md",
   "kind": "request",
   "action": "group your requester is in before you go to court.",
@@ -921,6 +939,12 @@
   "recipe": "japanese-koseki-honseki-recovery.md",
   "kind": "request",
   "action": "Some koseki and closed registers that have not been computerized are excluded, so request those from the honseki municipality.",
+  "checkpoint": "Each koseki or closed-register request sends ID and descent proof"
+ },
+ {
+  "recipe": "japanese-koseki-honseki-recovery.md",
+  "kind": "request",
+  "action": "Request those excluded products from the honseki municipality.",
   "checkpoint": "Each koseki or closed-register request sends ID and descent proof"
  },
  {
