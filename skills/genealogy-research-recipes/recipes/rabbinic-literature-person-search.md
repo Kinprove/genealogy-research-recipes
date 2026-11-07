@@ -67,8 +67,9 @@ the body that kept metrical books is covered by
   paying for access.
 - **Dicta library.** A free library of OCR'd rabbinic books, many of them responsa, each with
   a downloadable text file.
-- **Sefaria.** Born-digital texts with their section structure and an API. It holds few
-  Hasidic works. Its vowel points were often added by a modern editor: treat a pointed
+- **Sefaria.** Born-digital texts with their section structure and an API. It holds many
+  Hasidic classics but few of the genres that carry family detail: tales, letters, lineage
+  books and biographies. Its vowel points were often added by a modern editor: treat a pointed
   spelling there as a hint, never as the historical spelling. Pin the text version you cite.
 - **Lubavitch Library** (chabadlibrary.org). Searchable full text of Chabad books, including
   the Tzemach Tzedek's responsa. A responsa index of the rabbis who asked the questions,
@@ -87,18 +88,22 @@ the body that kept metrical books is covered by
 - **Rabbinic directories and dictionaries.** *Oholei Shem* (1912) lists the rabbis serving
   around 1912 by town, with birth and appointment years. *Da'at Kedoshim* (1897–1898) gives
   genealogies of rabbinic families. Yitzhak Alfasi's personalities volumes of the
-  *Encyclopedia of Hasidism* are cited by volume and page or column as printed. Coverage of
-  small towns is uneven; check a directory's scope before reading its silence.
-- **Lineage compilations (sifrei yichus).** Dynasty genealogies and descendant lists. Their
-  own prefaces often warn that the early generations are not verified, and some modern
-  compilations cite online trees.
+  *Encyclopedia of Hasidism* are cited by volume and page or column as printed. N. Z.
+  Friedman's *Otzar ha-Rabbanim* (1975) gives numbered entries for about 20,000 rabbis, and
+  Meir Wunder's *Me'orei Galitsiyah* gives genealogies of Galician rabbinic families by
+  surname. Coverage of small towns is uneven; check a directory's scope before reading its
+  silence.
+- **Lineage compilations (sifrei yichus).** Dynasty genealogies, descendant lists and large
+  published genealogies such as Neil Rosenstein's *The Unbroken Chain*. Their prefaces often
+  warn that the early generations are not verified, and some modern compilations cite online
+  trees. Treat each early-generation link as a lead until a contemporary text supports it.
+  When an online tree agrees with a published genealogy, check whether the tree copied it.
 - **State archives of the Russian Empire.** Files on the election of crown rabbis (candidates,
   voter lists, signatures), prayer-house board elections with member lists and
   rabbinical-school records. JewishGen's index "Jewish Religious Personnel in the Russian
   Empire, 1853–1854" lists rabbis and synagogue officials by town. The crown rabbi held a state
-  post;
-  he was not necessarily the community's spiritual rabbi, and neither office stands in for
-  the other.
+  post; he was not necessarily the community's spiritual rabbi, and neither office stands in
+  for the other.
 - **Online trees and wikis.** Geni, Wikipedia and community wikis give leads only. Their
   child lists are assembled by editors, and many rabbinic descent profiles sit behind a login.
 
@@ -107,11 +112,14 @@ the body that kept metrical books is covered by
 1. Ask when the person lived (within about 30 years), where, and exactly what is claimed: a
    rabbi in the family, descent from a named rebbe, a town office, or discipleship.
 2. Walk the documented tree two or three generations up before searching. An identification
-   needs at least era, region and one named relative (father, father-in-law, wife or
-   brother) that the passage also names.
+   needs era, region and at least one more identifying link that the passage also gives: a
+   named relative (father, father-in-law, wife or brother) or an office held at a known date.
+   A common given name alone, such as a father named Yaakov, is not enough.
 3. Read the era markers that follow names. הי"ד marks a man killed as a martyr; ז"ל and זצ"ל
    mark a man dead when the text was written; שליט"א, שיחי' and תחי' mark a person alive then.
-   A posthumous printing can add ז"ל, so the marker does not date a death.
+   A posthumous printing can add ז"ל, so the printing year does not date a death. When the
+   passage's own date is known, such as a dated introduction, ז"ל shows the person was dead
+   by then.
 4. Check the geographic pool before counting hits. Hits for a surname often belong to
    Lithuanian or Galician families of the same name: in one study, 80 of 81 hits for a
    Ukrainian family's surname were such namesakes.
@@ -135,8 +143,9 @@ the body that kept metrical books is covered by
 
 - **Vowel points.** Remove them from both the text and the query. The points belong to one
   edition, not to the work.
-- **Prefix letters.** Allow up to three attached prefixes (ו ב כ ל מ ש ה). In some books a
-  town name occurs only with a prefix, never bare.
+- **Prefix letters.** Allow up to three attached prefixes (ו ב כ ל מ ש ה) at the start of a
+  word only, and still require the word to end where the name ends. In some books a town name
+  occurs only with a prefix, never bare.
 - **Stems.** A final letter becomes a medial letter before a suffix, so חותן never matches
   חותנו. Search the stem חותנ.
 - **Full and defective spelling.** Search both, for example קודש and קדש.
@@ -146,9 +155,11 @@ the body that kept metrical books is covered by
   and וז"ל. Print the distinct forms that matched before you count.
 - **OCR damage.** Expect letters of similar shape to be swapped (ד and ר, ב and כ, ו and י
   and ן, ט and ס), and words split by spaces. A swapped letter often still makes a real word.
-- **Who finds the forms.** Have a language model read the full text to find forms and
-  kinship phrases; use exact-string tools only to check forms already found. A closed keyword
-  list reported no candidates in hundreds of sections that a full reading then mined.
+- **Who finds the forms.** No one can read a whole library. Search the libraries to choose
+  books, have a language model read the chosen books in full to find forms and kinship
+  phrases, then search again with the forms found. Use exact-string tools only to check forms
+  already found. A closed keyword list reported no candidates in hundreds of sections that a
+  full reading then mined.
 
 ## 6. Search by office, place and relation, not by surname
 
@@ -184,7 +195,8 @@ the body that kept metrical books is covered by
    (מילידי X, "native of X"). A phrase such as "living in X" (יושב ב־X) describes a scholar
    resident in X, not the appointed town rabbi.
 3. Let the genre set the order, never the verdict. Hasidic tale and oral-history anthologies
-   yield the most family links; the body of a halakhic work yields few. A halakhic book's
+   yield the most family links, but as tradition: rank them below letters, title pages and
+   documents. The body of a halakhic work yields few links. A halakhic book's
    front matter can still name the family, so sample it before deferring the book, and never
    write "no yield" from the genre alone.
 4. Use finding aids to reach pages; they are not evidence. *Oholei Shem* gives a rabbi's
@@ -192,7 +204,8 @@ the body that kept metrical books is covered by
    subscriber lists (*Sefer ha-prenumerantn*) names the books that printed subscribers from a
    town; read those lists next. A book's printed name and place indexes, read on the page
    image, find more than its OCR text does.
-5. A place named only inside a title ("the Rav of X") never reaches a place index. Walk the
+5. A town that appears inside a title ("the Rav of X") is often missing from a place index or
+   indexed only under the person. Search both the place and the person indexes, and walk the
    chapters indexed under the person's relatives, teachers and in-laws.
 
 ## 8. Screen every hit before it becomes a person
@@ -208,22 +221,32 @@ the body that kept metrical books is covered by
 - **Namesake chains.** "X son of Y son of X" is usually a grandson named after his
   grandfather: number them X-1 and X-2. Ashkenazi children were named after the dead, so a
   candidate grandfather who was alive at a child's birth is an unlikely namesake source.
-- **Titles.** "Rav" can mean a teacher or the formal av beit din; a dayan or moreh tzedek
-  held a lower office; later writers promote titles. If ten or more mentions of a man never
-  call him אב"ד, treat that silence as meaningful.
+- **Titles.** "Rav" can mean a teacher or the formal av beit din. A dayan is a judge; a moreh
+  tzedek is a halakhic authority and, in some communities such as Minsk, the leading rabbi.
+  Later writers promote titles. Do not call a man av beit din unless a passage does, and judge
+  a missing אב"ד against how that community titled its rabbis.
+- **Honorifics are not offices.** מו"ה, מוהר"ר, הר"ר and הרבני were given to learned laymen
+  and ordinary householders in subscriber lists, letters and epitaphs, and ר' (Reb) to almost
+  any adult man. They are a frequent source of a "rabbi in the family" story.
 - **Kinship words that move a generation.** חותן (father-in-law) differs from חתן
-  (son-in-law) by one letter. א"א can mean either grandfather. בן and נכד can mean a disciple.
-  "My brother" can be an honorific in a letter. "X Sarah's" can mean Sarah's husband or her
-  son. בתו השניה is a second daughter, not a second wife. A מחותן is a co-father-in-law, not
-  a blood relative.
-- **Places.** A town epithet can belong to the neighbouring name. An index gloss can move a
-  place hundreds of kilometres: read the preposition in the original (שליד, "near"). Two
-  places can share a spelling, such as Bratslav in Podolia and Braslaw in Belarus.
+  (son-in-law) by one letter. א"א usually means "my father" (אדוני אבי); זקני and אבי זקני
+  mean a grandfather or a more remote ancestor. נכד can be any descendant, not only a
+  grandchild, and בן can mean a disciple. "My brother" can be an honorific in a letter.
+  "X Sarah's" can mean Sarah's husband or her son. בתו השניה is a second daughter, not a
+  second wife. A מחותן is a co-father-in-law, not a blood relative.
+- **Places.** In a list of names, a town epithet can belong to the preceding or the following
+  name; settle which from another passage before you assign the place. An index gloss can
+  move a place hundreds of kilometres: read the preposition in the original (שליד, "near").
+  Two places can share a spelling, such as Bratslav in Podolia and Braslaw in Belarus.
 - **Dates.** Convert a Hebrew date through its month or weekly Torah portion, never the year
-  alone, because a Hebrew year spans two civil years. Check the weekday; the Fast of Esther
-  moves to 11 Adar when 13 Adar falls on Shabbat. Russian-Empire records give Julian dates,
-  12 days behind the Gregorian calendar in the 19th century. A book's printing year is not the
-  date of a letter printed in it.
+  alone, because a Hebrew year spans two civil years. Title pages often give the year as a
+  chronogram, a phrase whose marked letters add up to the year, and omit the thousands
+  (לפ"ק, "by the small count"). For a letter dated by a fast or festival, check the weekday:
+  the Fast of Esther moves to 11 Adar when 13 Adar falls on Shabbat. Identify the calendar
+  before converting a Russian-Empire date, because Russian-Polish acts can give both Julian
+  and Gregorian dates. Add 12 days to a Julian date from 1 March 1800 to 28 February 1900,
+  and 13 days from 1 March 1900 until the 1918 change. A book's printing year is not the date
+  of a letter printed in it.
 
 ## 9. Count witnesses, not copies
 
@@ -249,10 +272,16 @@ the body that kept metrical books is covered by
    collateral kinship, and marriage into the rebbe's household. A rebbe's in-law (mechutan)
    is not his descendant; find which child married into the court.
 3. Kohen and Levi status passes from father to son. A Kohen or Levi family cannot descend in
-   the male line from a non-priestly dynasty; any link runs through a marriage or a mother.
-4. A famous lineage cannot replace a missing parent–child link. A claim of descent through a
+   the male line from a non-priestly dynasty, and a non-priestly family cannot descend in the
+   male line from a Kohen or Levi; any such link runs through a marriage or a mother. Look for
+   the HaKohen, HaLevi, Katz or Segal signature on title pages and epitaphs.
+4. A prestige rabbinic surname (Horowitz, Rapoport, Shapiro, Margolis, Landau) is carried by
+   unrelated families, so a surname match is not a lineage lead. Children were also named
+   after a rebbe as a sign of following, not descent. Treat stock chains back to Rashi or
+   King David as tradition unless each link is documented.
+5. A famous lineage cannot replace a missing parent–child link. A claim of descent through a
    famous rabbi's daughter does not pass to an archival woman whose mother is not named.
-5. Keep two questions apart: did the ancestor exist, and is the bridge from your person to
+6. Keep two questions apart: did the ancestor exist, and is the bridge from your person to
    that ancestor documented? Rabbinic books often answer the first and rarely prove the
    second. For writing the competing versions, use
    [Jewish genealogy conditional hypotheses](jewish-genealogy-conditional-hypotheses.md); for
@@ -304,5 +333,6 @@ the body that kept metrical books is covered by
 - Treating an index entry, an OCR hit, a catalogue record or a translation as the text.
 - Counting a reprint, a translation or a compilation as an independent witness.
 - Reading חותן as חתן, or an honorific "brother" as a sibling.
+- Reading an honorific such as מו"ה or הר"ר as proof of a rabbinic office.
 - Dating a letter by the book's printing year, or converting a Hebrew year without its month.
 - Reporting a capped, blocked or partial search as a zero.

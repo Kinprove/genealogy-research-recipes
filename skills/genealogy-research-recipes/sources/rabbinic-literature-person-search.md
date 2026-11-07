@@ -68,10 +68,21 @@ cited instead.
 - **S15. Naming and priestly status.** [Wikipedia, "Jewish name", Ashkenazi customs](https://en.wikipedia.org/wiki/Jewish_name)
   (a child is named after a deceased relative);
   [Wikipedia, "Kohen"](https://en.wikipedia.org/wiki/Kohen) (status passes from father to son).
+- **S16. Further rabbinic reference works.** [JewishGen rabbinic bibliography](https://www.jewishgen.org/Rabbinic/infofiles/biblio2.htm)
+  (*Otzar ha-Rabbanim*, 1975, about 20,000 rabbis);
+  [JewishGen review of *Me'orei Galicia*](https://www.jewishgen.org/rabbinic/journal/mgalicia.htm)
+  (genealogies of Galician rabbinic families arranged by surname);
+  [Avotaynu, *The Unbroken Chain*, third edition](https://www.avotaynu.com/books/UnbrokenChain-1.html)
+  (a published genealogy of rabbinic dynasties).
+- **S17. Moreh tzedek as a leading rabbi.** [Kedem auction 27 catalogue](https://bidspirit-images.global.ssl.fastly.net/kedemauctionDocs/430/catalog/Keden_27_WebCat.pdf),
+  item 390: a signature as moreh tzedek of Minsk, and Minsk's avoidance of the title av beit
+  din after 1813.
+- **S18. Dates in Russian-Polish acts.** [JewishGen, Polish records, question 7](https://jewishgen.org/InfoFiles/Poland/Questions.htm):
+  acts that give the Julian date first and the Gregorian date second.
 
-**What is Kinprove's own work.** The procedure, its order and the screening rules are
-Kinprove synthesis from its own research in rabbinic and Hasidic books between 2026-05 and
-2026-10. The counts in the recipe come from that reading of public books: the surname that
+**What is Kinprove's own work.** The procedure, its order and the screening rules, including
+the readings of honorifics, kinship words and title-page dates, are Kinprove synthesis from
+its own research in rabbinic and Hasidic books between 2026-05 and 2026-10. The counts in the recipe come from that reading of public books: the surname that
 appears once against 121 mentions of "the Rav of <town>" (an English edition of Breslov
 works); at least six men called "R. Nachman" (the *Siach Sarfei Kodesh* series); 80 of 81
 surname hits that were namesakes; the Yiddish and Hebrew spellings of Uman; the `טש` sweep;
