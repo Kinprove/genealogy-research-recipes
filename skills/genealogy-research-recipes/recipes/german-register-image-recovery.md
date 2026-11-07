@@ -69,9 +69,10 @@ Many smaller places had no parish of their own. One presenter estimates that the
 - **Record each office independently.** Worked example: Meyers showed that Hülshagen had its own civil registry office but no church. The parish to search was nearby Lauenhagen. [S5]
 - **Fix the Standesamt for the event year, and log what survives.**
   - Civil registration did not start everywhere at once. Check which rule covered the place in the event year:
+    - Alsace and the annexed part of Lorraine (German 1871–1918): French civil registers from 1792; see [French departmental record routing, step 1](french-departmental-record-routing.md#1-route-by-département-not-by-a-national-index);
     - left bank of the Rhine, including the Pfalz and Rheinhessen: French-style civil registers from 1798 (in some places 1796), kept until 1875 [S56], [S57], [S58];
     - right bank of the Rhine in the Rhineland: from 1810 to 1875 [S56]. Westphalia went back to church-book duplicates in 1813/14 [S56], so do not extend this date to the Westphalian parts of the former Grand Duchy of Berg;
-    - Bremen and Lübeck: from 20 August 1811 to the end of 1875 (in Lübeck, after 1813 only the city) [S59], [S60];
+    - Bremen and Lübeck: from 20 August 1811 to the end of 1875 (in Lübeck, after 1813 only the city and the areas just outside its gates) [S59], [S60];
     - Hamburg: civil registers under French rule (the archive holds volumes of 1814), then its own civil registers from 1866 [S61], [S62];
     - Frankfurt am Main: marriages from 1849, births and deaths from 1851 [S63];
     - Baden: church-kept civil-status books from 1810, mayors as registrars from 1 February 1870 (section 6) [S48];
@@ -113,7 +114,7 @@ Many smaller places had no parish of their own. One presenter estimates that the
   - Archion needs a paid, time-limited pass to open images. Its archives are mostly Protestant Landeskirchen and state archives, and include the Catholic dioceses of Hildesheim, Speyer and Trier. [S67], [S68]
   - Matricula lists 19 German Catholic dioceses and the Landesarchiv Baden-Württemberg's state copies for Baden, Württemberg and Hohenzollern. The dioceses of Berlin, Erfurt, Freiburg, Görlitz, Hamburg, Köln, Speyer and Trier are not listed. [S69], [S70]
   - A listed archive may still lack the parish or years. Open the parish page and note the years shown.
-  - Also search Ancestry and FamilySearch. Ancestry has Protestant sets for Baden, Württemberg and Hesse, and the Württemberg family tables; check whether a set shows images or only an index. [S66], [S71] FamilySearch has the Brandenburg and Posen church-book duplicates with images. [S72]
+  - Also search Ancestry and FamilySearch. Ancestry has Protestant sets for Baden, Württemberg and Hesse, and the Württemberg family tables; check whether a set shows images or only an index. [S66], [S71] FamilySearch has church-book duplicates of some Brandenburg and Posen parishes, with images. [S72]
 - **Hesse: open the civil-register second copies in Arcinsys Hessen.** The digitised Personenstandsnebenregister (the registry offices' second copies, now archive holdings) sit under Staatsarchiv Marburg > H Personenstandsarchiv Hessen, holdings HStAM 900–926. [S44]
   - A thumbnail beside the archival reference marks a digitised volume. Open it with 'Digitalisate öffnen' or in the DFG-Viewer. LAGIS lists the online volumes by registry office. [S44]
   - In January 2026 volumes were online up to births of 1900, marriages of 1930 and deaths of 1965; the death cut-off follows a 60-year rule (§ 9(2) sentence 3 HArchivG). [S44], [S64] Deaths up to 1980 were available on application, with a user form, to the Hessisches Staatsarchiv Marburg. [S64] So wartime deaths (1939–45) normally fall inside the online range and births after 1900 normally do not; confirm coverage for the specific volume. Check the archive's current cut-off before you plan a request.

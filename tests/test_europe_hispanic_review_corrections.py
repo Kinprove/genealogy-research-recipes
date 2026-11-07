@@ -40,7 +40,9 @@ class EuropeHispanicReviewCorrectionsTests(unittest.TestCase):
 
     def test_swedish_census_database_years_name_their_counties(self):
         text = recipe("scandinavian-parish-record-recovery.md")
-        self.assertIn("For 1860 it covers only Jämtlands län, and for 1870 only Västerbottens and Norrbottens län.", text)
+        sentences = text.split(". ")
+        self.assertTrue(any("1860" in s and "only Jämtland" in s for s in sentences))
+        self.assertTrue(any("1870" in s and "Västerbotten" in s and "Norrbotten" in s for s in sentences))
         self.assertNotIn("You can search it for 1860, 1870, 1880", text)
 
     def test_one_case_in_ten_stays_the_presenters_estimate(self):

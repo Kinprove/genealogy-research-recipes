@@ -99,7 +99,9 @@ confirmed by the custodian; it does not extend the Prussian loss findings to oth
 
 The surviving books of the Krankenbuchlager Berlin, which held the hospital books of
 Prussian soldiers, are in the Bundesarchiv (Abteilung PA). The depots for the other armies
-in Dresden, Stuttgart and Munich were destroyed in the Second World War [S12].
+in Dresden, Stuttgart and Munich were destroyed in the Second World War, but the same page
+says the Munich books were moved to Berlin in 1964 [S12]. For a Bavarian soldier, ask the
+Bundesarchiv whether a hospital book survives before you record the route as destroyed.
 
 1. Give the archive the independently supported name, birth details and any hospital,
    unit or date clues you have. Ask which surviving hospital book or associated finding
