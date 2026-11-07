@@ -696,6 +696,12 @@
   "checkpoint": "Public project results expose members' display"
  },
  {
+  "recipe": "galicia-bukovina-habsburg-record-routing.md",
+  "kind": "request",
+  "action": "Ask the civil-registry office for a recent or bound-in book.",
+  "checkpoint": "A request to a Ukrainian civil-registry office (ДРАЦС) can name people who are still living"
+ },
+ {
   "recipe": "gedcom-research-export.md",
   "kind": "upload",
   "action": "Test on a separate test tree or with a small synthetic file, and only on a destination the user chose.",
@@ -994,6 +1000,12 @@
   "kind": "request",
   "action": "The Bundesarchiv can shorten the period with the person's consent, or without it",
   "checkpoint": "A request for a protected file, or for earlier access to it"
+ },
+ {
+  "recipe": "polish-index-original-record-recovery.md",
+  "kind": "request",
+  "action": "Ask the USC that holds the book for access to the named book and entry",
+  "checkpoint": "A USC request can reach a book that still holds"
  },
  {
   "recipe": "repository-photograph-collection-search.md",
