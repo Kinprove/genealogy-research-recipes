@@ -11,8 +11,10 @@ draw on each source.
 | ID | Source | Recorded date | Recipes |
 | --- | --- | --- | --- |
 | S1 | Family Locket, [3 Tips for Searching the Census When a Family Goes Missing](https://familylocket.com/3-tips-for-searching-the-census-when-a-family-goes-missing/) | 2024-12-20 | 1 |
+| S2 | No entry; this number is not cited by the recipe. | | |
 | S3 | Genealogy TV, [U.S. Census Maps and Other Unindex Records on FamilySearch.org](https://www.youtube.com/watch?v=1ectqP9Ogys) | 2021-03-12 | 2 |
 | S4 | Family Locket, [RLP 140: Pre-1850 U.S. Census Research](https://www.youtube.com/watch?v=oBkEoVQtPcQ) | 2021-03-15 | 4 |
+| S5 | No entry; this number is not cited by the recipe. | | |
 | S6 | Ancestry, [Using Census Records for Marriage Dates: 1900 & 1910](https://www.youtube.com/watch?v=cMrTbAj5YN0) | 2017-05-24 | 7 |
 | S7 | Genealogy TV, [1940 U.S. Federal Census, Supplemental Questions](https://www.youtube.com/watch?v=JJY4EKK_sVg) | 2018-09-25 | 6 |
 | S8 | Amy Johnson Crow, [The Vital Part You're Missing in the 1950 Census](https://www.youtube.com/watch?v=ZzrQQz4BIT4) | 2022-06-10 | 6 |
@@ -21,7 +23,10 @@ draw on each source.
 | S11 | Family Locket, [Tracing the Enslaved in the 1900 U.S. Census and Enslaved.org Project](https://familylocket.com/tracing-the-enslaved-in-the-1900-u-s-census-and-enslaved-org-project/) | 2025-06-22 | 9 |
 | S12 | Family Locket, [RLP 191: Preparing for the 1950 U.S. Census Release](https://familylocket.com/rlp-191-preparing-for-the-1950-u-s-census-release/) | 2022-03-07 | 2 |
 | S13 | MyHeritage, [The U.S. Census: Tracing Your Family in Census Records](https://education.myheritage.com/article/the-u-s-census-tracing-your-family-in-census-records/) | 2025-01-13 | 7 |
+| S14 | No entry; this number is not cited by the recipe. | | |
 | S15 | Who Are You Made Of, [What is an Enumeration District on the Census?](https://whoareyoumadeof.com/blog/what-is-an-enumeration-district-on-the-census/) | 2022-01-05 | 2 |
+| S16 | No entry; this number is not cited by the recipe. | | |
+| S17 | No entry; this number is not cited by the recipe. | | |
 | S18 | Amy Johnson Crow, [Answering Your Biggest Questions About the 1950 Census](https://www.youtube.com/watch?v=4p_afzX34Uk) | 2022-04-08 | 3 |
 | S19 | Amy Johnson Crow, [Taking a Look at the 1950 Census on the National Archives Website](https://www.youtube.com/watch?v=jA10V_GJcio) | 2022-04-01 | 6 |
 | S20 | Sara Cochran / BYU, Getting Around the Missing 1890 Census | 2023-03-31 | 5 |

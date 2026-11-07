@@ -59,4 +59,4 @@ These parts are authored synthesis: the error list, the rule to record both base
 
 - BYU Family History Library / Nicky Smith, Google Earth Pro and Sanborn Maps, YouTube video, 2023-02-08 — Third-party, all rights reserved; short quotation of map labels (quoted)
 - Genealogy Gems, Sanborn Insurance Maps at Library of Congress, YouTube video, 2022-09-15 — Third-party, all rights reserved; short quotation (quoted)
-- Kinprove original procedural synthesis; presenters', forum participants' and the cited author's worked examples are cited inline as S1 to S31 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; presenters', forum participants' and the cited author's worked examples are cited inline as S1 to S31; archive, map-portal and reference pages, and one further Dutch Genealogy tip (S43), are cited as S32 to S49 — FSL-1.1-MIT (kinprove-original)

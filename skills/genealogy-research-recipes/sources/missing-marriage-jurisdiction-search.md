@@ -3,6 +3,8 @@
 Based on recorded talks (reviewed 2026-10-20). No statute, Census Bureau report, map, bond or register was inspected. The state rules on civil marriage records (S17–S24) and PERSI's hosting (S25, S26) rest on custodians' and archives' pages read on 2026-11-07, not on the statutes themselves.
 
 - **S1:** BYU Family History Library / James Tanner, [What Makes Vital Records So Vital](https://www.youtube.com/watch?v=aBUxLGm1_uY), 2017-08-24. Gretna Green concept; the bride's location having more influence on where a marriage happened; Nevada's laxer residency and blood-test rules and Mexico as period destinations.
+- **S2:** No entry; this number is not cited by the recipe.
+- **S3:** No entry; this number is not cited by the recipe.
 - **S4:** BYU Family History Library / James Tanner, [Using First Level Genealogical Sources](https://www.youtube.com/watch?v=KTHR-RiI3c4), 2016-10-20. Lists of Gretna Green places in the FamilySearch Research Wiki; examples in New England and the South.
 - **S5:** BYU Family History Library / Laura Lefler, [Southern Research Part II: Proving Relationships with Vital Records](https://www.youtube.com/watch?v=PXKxUZZFbnw), 2023-01-23. Couples usually marrying where the bride lived; Aiken, South Carolina marriage explained by military training at Camp Gordon.
 - **S6:** Genealogy Gems / J. Mark Lowe, [Marriage Records Case Study with J. Mark Lowe](https://www.youtube.com/watch?v=FZiyunMO5IA), 2022-03-31; also reissued as [Episode 277](https://www.youtube.com/watch?v=2GL2yiNDBvE), 2023-06-16. Warren County, Kentucky search across adjacent and rail-line counties using a 1924 map; Mitchellville, Sumner County bond; bondsman who was also the officiant; recurring family destinations.

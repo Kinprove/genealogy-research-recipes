@@ -53,6 +53,8 @@ The index-audit, locator and series-resolution schemas are original synthesis.
   [Women Homesteaders and the Homestead Act: 160 Acres of Independence](https://www.legacytree.com/blog/women-and-the-homestead-act),
   5 May 2026. Patent-to-separate-homestead-file distinction and supplied locator leads;
   no current holdings or request outcome is established by this reference.
+- **S13:** No entry; this number is not cited by the recipe.
+- **S14:** No entry; this number is not cited by the recipe.
 - **S15:** Family Locket,
   [RLP 315: Tips for When the Courthouse Burned](https://familylocket.com/rlp-315-tips-for-when-the-courthouse-burned/).
   A reported tax entry recovered under an estate administrator's surname motivates the

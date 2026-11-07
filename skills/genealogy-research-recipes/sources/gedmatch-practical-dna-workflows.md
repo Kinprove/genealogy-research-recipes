@@ -35,9 +35,11 @@ their numeric presets):
   Great-Grandparents*, 2026-07-08 — [answer](https://www.youtube.com/watch?v=KY_t2X7yXNY). Used
   for tabulating exact segment boundaries across two candidate groups and for the chip-dependence
   of those boundaries.
+- **S11:** No entry; this number is not cited by the recipe.
 - **S12:** Family History Fanatics, *Which Tools to Use FIRST on GEDmatch for Every Kit — The
   Order Matters*, 2026-09-22 — [walkthrough](https://www.youtube.com/watch?v=PBL_T2TY93U). Used
   for running the parental-relatedness check per managed kit from the tester's own data alone.
+- **S13:** No entry; this number is not cited by the recipe.
 - **S14:** Family History Fanatics, *GEDmatch: What is the Gen Column on One-to-Many Results?*,
   2021-08-18 — [analysis](https://www.youtube.com/watch?v=V9hvINBzZmc). Used for treating a
   displayed generation estimate as derived from the shared total rather than independent

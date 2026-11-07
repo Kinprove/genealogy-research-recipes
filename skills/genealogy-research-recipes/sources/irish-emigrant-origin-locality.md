@@ -10,6 +10,8 @@
 - **S8:** Denyse Allen with Justin Houser, [Must Have Records for Scots Irish Research](https://www.youtube.com/watch?v=8iFI0OoR3Zg), 2024-06-12. A duplicate upload of S7.
 - **S9:** Denyse Allen with William Roulston, [Scots-Irish Research](https://www.youtube.com/watch?v=HugnOC6enHI), 2021-11-19. Used for estate papers, rental-margin emigration notes, and searching every denomination and record type for a locality.
 - **S10:** Denyse Allen with William Roulston, [Researching Scots-Irish Ancestors](https://www.youtube.com/watch?v=ICNAE6uX0b4), 2024-07-25. A re-release of S9.
+- **S11:** No entry; this number is not cited by the recipe.
+- **S12:** No entry; this number is not cited by the recipe.
 - **S13:** This is S3's segment on the Tithe and Griffith date ranges and parish targeting for 1700s emigrants. It is cited separately only to mark that passage. It is not an independent source.
 - **S14:** National Archives of Ireland, [History of Irish census records](https://nationalarchives.ie/?p=6491), opened 2026-11-04. Used for: the fate of the 1821–1851 (1922 fire, fragments), 1861/1871 (destroyed shortly after collection) and 1881/1891 (pulped in the First World War) returns, and 1901/1911 as the only complete pre-independence returns.
 - **S15:** National Archives of Ireland, [Census Search Forms 1841 and 1851](https://nationalarchives.ie/collections/search-the-census/census-search-forms-1841-and-1851/), opened 2026-11-04. Used for: census searches made for old-age pension claims as a 1841/1851 substitute; the withdrawn online catalogue and the microfilm, FamilySearch, Findmypast and PRONI routes as of that date.
