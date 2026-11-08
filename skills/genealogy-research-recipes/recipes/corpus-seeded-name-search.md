@@ -80,6 +80,16 @@ Hebrew final letters and Yiddish digraph characters are separately encoded. If n
 
 Removing points does not supply missing vowel letters, convert one surname spelling into another or resolve Hebrew versus Yiddish orthography. Add consonant substitutions only as bounded exploratory lanes motivated by the source, observed OCR errors or linguistic evidence. There is no universal substitution mask that proves coverage of every Slavic name in Hebrew script.
 
+For Cyrillic or other non-ASCII names in a local database, match on case-folded keys built from
+both the query and the stored text, for example with Python's `str.casefold()`, which its
+documentation offers for caseless matching, and keep the source spelling unchanged. [S30] SQLite's
+`NOCASE` collation folds only ASCII letters, and by default its built-in `lower()`, `upper()` and
+`LIKE` also handle case only for ASCII; its documentation names the ICU extension for
+Unicode-aware `lower()` and `LIKE`, so a miss from these is not a negative. [S27, S28, S29] Also
+check each name for letters from a second script: Unicode's confusables data lists Cyrillic а, е,
+о, р, с and х as look-alikes of Latin a, e, o, p, c and x. [S31] Search each script form as a
+separate lane without rewriting the record.
+
 Pre-1918 Russian text needs a pre-reform spelling lane. OCR of pre-reform print and HTR
 (handwriting recognition) of manuscripts can keep the old letters, so a query in modern spelling
 can miss the entry. The decree of 10 October 1918 replaced ять (ѣ) with е, фита (ѳ) with ф and і
@@ -113,6 +123,15 @@ keep the literal form in the inventory. The [Jensen](https://www.youtube.com/wat
 systematic conversion table. A matching form is a candidate, not proof of identity. For Romanian
 and Russian name lanes in Bessarabian records, see
 [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
+
+In Russian-language records an Armenian given name may appear as a Russian one. A 2024
+Familio.Media article by Nina Galishnikova describes a list of Moscow Armenian community members
+of the 18th to early 20th centuries, compiled from Armenian-language documents of the Moscow
+Armenian Spiritual Board and checked against Russian-language records and Vagankovo Armenian
+cemetery epitaphs. It reports two kinds of pair: a Russian equivalent, as Akob/Yakov (Акоб/Яков)
+and Ovanes/Ivan (Ованес/Иван), and a similar-sounding name, as Arutyun/Artemy (Арутюн/Артемий)
+and Mkrtych/Nikita (Мкртыч/Никита). [S26] Search each form as a separate lane; the pairs were
+observed in one community, and a matching pair links name forms, not people.
 
 Grammatical endings need their own lanes. In German-language registers, a woman's surname may
 carry a feminine -in suffix that is not part of the family name. When such a name is hard to read,

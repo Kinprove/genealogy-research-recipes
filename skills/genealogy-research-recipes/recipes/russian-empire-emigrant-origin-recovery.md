@@ -103,6 +103,15 @@ Park. [H11] FamilySearch holds only part of the series on film. [H12] Consult th
 writing to Germany. A Bundesarchiv request needs a signed application (Benutzungsantrag), which
 the user signs and sends by post or as a scan by email. [H9]
 
+For an emigrant who settled in Mandatory Palestine, look for a British Mandate naturalization
+(citizenship) application. A 2023 MyHeritage Wiki article reports that the Israel State Archives
+holds more than 60,000 of them, has scanned them all onto its website and fully indexed many, that
+the collection is incomplete, and that many forms were also filled in Hebrew [H16 @2026-11-08]; a
+2017 Times of Israel report dates the applications 1937–1947 [H17 @2026-11-08]. The archives'
+online catalogue refused an automated fetch on 2026-11-08 with HTTP 403 [H18† @2026-11-08], so
+open it in the user's browser and search Hebrew-script as well as Latin-script name forms before
+reading a miss as a negative.
+
 Make one chronology row per reported or documented movement. Preserve every reported immigration
 year with its source, then identify the interval supported by the dated appearances. Keep conflicting
 arrival dates visible. A later return, a child's separate arrival and an onward crossing are separate
