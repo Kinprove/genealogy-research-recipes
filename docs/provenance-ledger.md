@@ -76,10 +76,48 @@ of which is available here. Do not invent a private source commit or exporter
 version for an export manifest. These proposals need an explicit owning pipeline
 before they can become truthful enforcement.
 
-Completing the structural migration does not close #95's editorial migration.
-Closeout must report separately the shipped checks, resolved evidence links and
-remaining pending records. Green tests prove the contract's implementation, not
-that the corpus's genealogy claims are correct.
+Green tests prove the contract's implementation, not that the corpus's genealogy
+claims are correct.
+
+## Accepted scope and closeout, 2026-11-08
+
+The maintainer accepted a narrower acceptance scope for #95 on 2026-11-08. The
+structural migration and its checks close the issue. The legacy records are not
+reviewed in one bulk pass.
+
+**Shipped checks.** `scripts/provenance.py --check` runs in CI. It enforces the
+ledger schema in every sidecar, exact URLs, bibliography-entry and anchor drift,
+source joins and generated backlinks, unique reviewed anchors whose markers match
+their sources, dagger and attributed wording for unread sources, visible scope
+wording for partial reads, dated markers and 90- or 180-day expiry for reviewed
+current-state claims, the frozen legacy inventory and report drift. Separate
+tests cover YouTube ID case, HTTPS links, source numbering and citation
+resolution, section counts, unread-source caveats, local recipe links, dated
+current facts and the Credits list.
+
+**Resolved evidence links.** One reviewed source,
+`us-federal-court-case-file-recovery#S9`, and one reviewed current-state claim,
+`us-federal-court-case-file-recovery#C-3062c226d110`.
+
+**Remaining records.** 4,208 pending source records and 2,192 pending candidate
+anchors stay frozen and listed in [the provenance report](../PROVENANCE.md). An
+edit that changes one of them makes CI require its review, and regeneration then
+prunes its exception. No bulk pass promotes them.
+
+Limits measured at closeout:
+
+- 1,495 pending sources are cited by no candidate paragraph. The validator
+  refuses a reviewed source that no claim cites. These records resolve only when
+  a recipe cites them with a marker or the entry is removed.
+- Many entries record only a publication date. Reviewing such an entry without
+  new evidence leaves its access `unknown`. Every reviewed paragraph that cites
+  it must then carry a dagger and attributed wording. Recording an actual
+  retrieval date in the entry avoids that.
+- The importer treats every bullet before Credits as an entry. Some prose
+  bullets, for example `admixture-model-run-scope#B1` to `#B11`, are therefore
+  counted as source records. They are not evidence, and no claim cites them.
+- Pending current-state claims have no automatic expiry. The recipe header's
+  90-day check covers `platform` recipes only.
 
 ## Integration before merge, 2026-11-08
 
