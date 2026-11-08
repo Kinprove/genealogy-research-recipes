@@ -6,11 +6,14 @@ import datetime as dt
 import hashlib
 import json
 import re
+import shutil
+import subprocess
 import sys
 from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+VISIBLE_CACHE = {}
 SKILL = Path('skills/genealogy-research-recipes')
 START = '<!-- provenance-ledger:start -->'
 END = '<!-- provenance-ledger:end -->'
@@ -201,32 +204,32 @@ def prose_blocks(text):
     return list(dict.fromkeys(block.strip() for block in re.split(r'\n\s*\n', ''.join(kept)) if block.strip()))
 
 
-def mask_inline_code(text):
-    """Mask complete Markdown code spans without changing source offsets."""
-    result = list(text)
-    position = 0
-    while opening := re.search(r'`+', text[position:]):
-        start = position + opening.start()
-        end = position + opening.end()
-        closing = re.search(r'(?<!`)`{' + str(end - start) + r'}(?!`)', text[end:])
-        if closing is None:
-            position = end
-            continue
-        position = end + closing.end()
-        result[start:position] = ['\n' if c == '\n' else ' ' for c in text[start:position]]
-    return ''.join(result)
+def prepare_visibility(texts):
+    """Batch Markdown parsing; never fetch links or execute embedded content."""
+    missing = list(dict.fromkeys(text for text in texts if text not in VISIBLE_CACHE))
+    if not missing:
+        return
+    node = shutil.which('node')
+    require(node, 'Node.js is required for provenance Markdown visibility checks')
+    try:
+        result = subprocess.run([node, str(ROOT / 'scripts/provenance_visible.mjs')],
+                                input=json.dumps(missing, ensure_ascii=False),
+                                capture_output=True, text=True, encoding='utf-8', timeout=120)
+    except subprocess.TimeoutExpired as exc:
+        raise ProvenanceError('Markdown visibility parser timed out') from exc
+    require(result.returncode == 0,
+            'Markdown visibility parser failed; install pinned dependencies with '
+            '`npm ci --prefix tests/markdown-links --ignore-scripts`: ' + result.stderr[:500])
+    rendered = loads(result.stdout)
+    require(isinstance(rendered, list) and len(rendered) == len(missing)
+            and all(isinstance(text, str) for text in rendered), 'invalid Markdown parser result')
+    VISIBLE_CACHE.update(zip(missing, rendered))
 
 
 def visible_text(text):
-    """Hide code and non-visible HTML while retaining exact source offsets."""
-    def hide(match):
-        return ''.join('\n' if c == '\n' else ' ' for c in match[0])
-
-    text = mask_inline_code(text)
-    text = re.sub(r'<!--.*?(?:-->|$)', hide, text, flags=re.S)
-    # Quoted '>' characters belong to the attribute, not the end of its tag.
-    return re.sub(r'''</?[A-Za-z][A-Za-z0-9-]*(?=[\s/>])(?:[^"'<>]|"[^"]*"|'[^']*')*>''',
-                  hide, text)
+    """Use rendered prose for checks; raw anchors and their hashes stay exact."""
+    prepare_visibility([text])
+    return VISIBLE_CACHE[text]
 
 
 def markers(anchor, known=None):
@@ -257,15 +260,13 @@ def markers(anchor, known=None):
 def marker_contexts(anchor, sid):
     """Each source marker's sentence, so a separate hedge cannot qualify a fact."""
     visible = visible_text(anchor)
-    # Preserve marker offsets while hiding emphasis, quote delimiters and HTML
-    # formatting/attributes. Formatting must not keep two sentences together or
-    # supply a qualification through an inline example/attribute.
-    visible = re.sub(r'''[*_~"“”'‘’«»>]''', ' ', visible)
+    # All offsets below belong to the same rendered text, never the raw anchor.
+    visible = re.sub(r'''["“”'‘’«»]''', ' ', visible)
     boundaries = [0] + [m.end() for m in re.finditer(
         # A sentence ending in citations also separates a following lowercase
         # sentence. Adjacent citations still belong to the preceding sentence.
         r'[.!?](?:\s*\[[^\]\n]+\])+\s+(?=\S)|'
-        r'[.!?]\s+(?=[A-Z])|(?<=\])[.!?]\s+(?=\S)', visible)] + [len(anchor)]
+        r'[.!?]\s+(?=[A-Z])|(?<=\])[.!?]\s+(?=\S)|\n\s*\n', visible)] + [len(visible)]
     for match in MARKER.finditer(visible):
         if sid in markers(match[0]):
             start = max(n for n in boundaries if n <= match.start())
@@ -274,7 +275,9 @@ def marker_contexts(anchor, sid):
 
 
 def candidate_blocks(text):
-    return [b for b in prose_blocks(text) if markers(b) or CURRENT.search(b)]
+    blocks = prose_blocks(text)
+    prepare_visibility(blocks)
+    return [b for b in blocks if markers(b) or CURRENT.search(b)]
 
 
 def fingerprint(record):
@@ -450,6 +453,8 @@ def run(root, mode, today):
     paths = sorted(source_dir.glob('*.md'))
     require(paths, 'no source sidecars found')
     require({p.name for p in paths} == {p.name for p in recipe_dir.glob('*.md')}, 'recipe/source sidecars differ')
+    recipes = {path.name: (recipe_dir / path.name).read_text(encoding='utf-8') for path in paths}
+    prepare_visibility([block for text in recipes.values() for block in prose_blocks(text)])
     debt_path = root / DEBT
     if mode == 'import-legacy':
         require(not debt_path.exists(), 'legacy inventory already exists; normal commands cannot add exceptions')
@@ -461,7 +466,7 @@ def run(root, mode, today):
     for path in paths:
         slug = path.stem
         source_text = path.read_text(encoding='utf-8')
-        recipe_text = (recipe_dir / path.name).read_text(encoding='utf-8')
+        recipe_text = recipes[path.name]
         _, ledger = split_ledger(source_text)
         if mode == 'import-legacy':
             require(ledger is None, f'{slug}: refusing to replace an existing ledger')

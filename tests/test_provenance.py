@@ -3,11 +3,16 @@
 import copy
 import datetime as dt
 import importlib.util
+import shutil
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 ROOT = Path(__file__).resolve().parents[1]
+PARSER_AVAILABLE = bool(shutil.which('node')) and all(
+    (ROOT / 'tests/markdown-links/node_modules' / name / 'package.json').is_file()
+    for name in ('markdown-it', 'parse5'))
 SPEC = importlib.util.spec_from_file_location('provenance', ROOT / 'scripts/provenance.py')
 p = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(p)
@@ -30,6 +35,16 @@ def reviewed():
     return ledger
 
 
+class ParserSetupTests(unittest.TestCase):
+    def test_missing_node_is_an_explicit_validation_error(self):
+        text = 'unique setup probe without a Node runtime'
+        p.VISIBLE_CACHE.pop(text, None)
+        with patch.object(p.shutil, 'which', return_value=None):
+            with self.assertRaisesRegex(p.ProvenanceError, 'Node.js is required'):
+                p.prepare_visibility([text])
+
+
+@unittest.skipUnless(PARSER_AVAILABLE, 'install the pinned Markdown parser before full provenance tests')
 class ProvenanceTests(unittest.TestCase):
     def check(self, ledger=None, source=SOURCE, recipe=RECIPE, debt=None, today=TODAY):
         ledger = ledger if ledger is not None else reviewed()
@@ -269,6 +284,34 @@ class ProvenanceTests(unittest.TestCase):
             ledger['claims'][0].update(anchor=anchor, stated_as=status)
             self.rejects(ledger, 'unread source|partial source', recipe='# Example\n\n' + anchor)
 
+    def test_link_titles_cannot_supply_source_ids_dates_or_scope_qualifiers(self):
+        for access, status, marker in [
+            ('read', 'fact', '[S1 @2026-11-07]'),
+            ('partial', 'fact', '[S1 @2026-11-07]'),
+            ('snippet-only', 'observation', '[S1† @2026-11-07]'),
+        ]:
+            for title in (f'"From the inspected excerpt {marker}"',
+                          f"'From the inspected excerpt {marker}'",
+                          f'(From the inspected excerpt {marker})'):
+                ledger = reviewed()
+                ledger['sources'][0]['access'] = access
+                anchor = 'The archive currently offers free copies. [Help](https://example.org/ ' + title + ')'
+                ledger['claims'][0].update(anchor=anchor, kind='fee', stated_as=status)
+                self.rejects(ledger, 'source markers differ|no visible citation', recipe='# Example\n\n' + anchor)
+
+    def test_reference_link_metadata_is_not_visible_evidence(self):
+        text = ('The archive offers free copies. [Help][r]\n\n'
+                '[r]: https://example.org/ "From the inspected excerpt [S1 @2026-11-07]"')
+        self.assertEqual(p.markers(text), [])
+        self.assertNotIn('inspected', p.visible_text(text))
+
+    def test_a_visible_link_label_can_supply_its_own_qualified_source_marker(self):
+        ledger = reviewed()
+        ledger['sources'][0]['access'] = 'partial'
+        anchor = '[From the inspected excerpt, search appears available. [S1 @2026-11-07]](https://example.org/)'
+        ledger['claims'][0]['anchor'] = anchor
+        self.check(ledger, recipe='# Example\n\n' + anchor)
+
     def test_access_basis_must_be_exact_dated_and_single_url(self):
         ledger = reviewed()
         ledger['sources'][0]['basis'] = 'opened 2026-11-06'
@@ -331,6 +374,7 @@ class ProvenanceTests(unittest.TestCase):
         self.assertEqual(p.markers('An example ``[S1]`` and a real marker [S2].'), ['S2'])
 
 
+@unittest.skipUnless(PARSER_AVAILABLE, 'install the pinned Markdown parser before full provenance tests')
 class CorpusProvenanceTests(unittest.TestCase):
     def test_entire_corpus_and_generated_report_match(self):
         corpus = p.run(ROOT, 'check', dt.datetime.now(dt.timezone.utc).date())

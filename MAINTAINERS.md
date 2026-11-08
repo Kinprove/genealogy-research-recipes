@@ -31,9 +31,12 @@ reads require a visible qualification. A factual claim cannot use a pending
 source. Checks validate the representation; review must still establish that
 the cited source supports each statement in the paragraph.
 
-Only visible citations, dates and qualifications count. Inline code, HTML
-attributes and HTML comments cannot supply them; every supporting source needs
-at least one visible citation context.
+Only prose citations, dates and qualifications count. The pinned `markdown-it`
+and `parse5` parsers extract rendered prose; code, comments, HTML attributes and
+Markdown link destinations/titles (including reference definitions) cannot supply
+evidence. Visible link labels remain available. Every supporting source needs
+at least one nonempty citation context. Raw anchors and hashes remain exact;
+sentence checks use offsets within the parsed prose, not within the raw anchor.
 
 For `platform-ui`, `fee`, `portal-availability` and `custody`, record `checked`
 and a separate `[S1 @YYYY-MM-DD]` marker for each supporting source. Fees and
@@ -49,6 +52,7 @@ records. Do not add exceptions or reset it to make an edit pass. Regeneration
 prunes resolved exceptions but cannot enroll new ones:
 
 ```sh
+npm ci --prefix tests/markdown-links --ignore-scripts
 python3 scripts/provenance.py --write
 python3 scripts/provenance.py --check
 python3 -B -m unittest discover -s tests -p 'test_provenance.py'

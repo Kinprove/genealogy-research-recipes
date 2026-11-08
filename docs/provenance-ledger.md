@@ -92,3 +92,9 @@ changing their text. The initial, still-unmerged inventory is regenerated from
 this base; this is not a new exception-enrollment mechanism for normal commands.
 The one reviewed NARA source and claim retain their original IDs, check date,
 access basis and exact evidence. No additional source is promoted to reviewed.
+
+The visibility check uses the same pinned Markdown/HTML dependencies as the
+existing link checker. Source matching, date checks and access qualifications
+share parsed prose, excluding metadata in inline and reference links. Exact raw
+anchors remain the basis for identity and drift checks. The validator batches
+local parsing and never follows links; CI installs the parser before these checks.
