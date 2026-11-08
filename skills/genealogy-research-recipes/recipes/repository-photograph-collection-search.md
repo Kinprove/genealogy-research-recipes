@@ -3,8 +3,8 @@ id: "repository-photograph-collection-search"
 title: "Search repository photograph collections by place and subject"
 summary: "Search repository photograph collections for an ancestor, home, shop or community by place and subject."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Search repository photograph collections for an ancestor, home, shop or community by place and subject."]}
-triggers: ["Search repository photograph collections for an ancestor", "home", "shop", "community by place and subject"]
+scope: {"platforms": [], "tasks": ["Search repository photograph collections for an ancestor, home, shop or community by place and subject.", "Search current and completed auction or marketplace lots for old family photographs."]}
+triggers: ["Search repository photograph collections for an ancestor", "home", "shop", "community by place and subject", "auction or marketplace lots of old photographs"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "REPOSITORY-PHOTOGRAPH-COLLECTION-SEARCH-01", "text": "never compare faces or name anyone by appearance, and record a recognition by the user or a relative as that person's attributed claim; a name-search miss does not show that no image exists, and a donor caption or added geotag is not a settled identification or location."}]
@@ -36,6 +36,7 @@ This recipe covers search coverage and caption provenance. For a located Swedish
 - Exhaust each repository's surfaces before reporting no image
 - Check records that carry a portrait
 - Add family-uploaded memorial portals in former Soviet cases
+- Search auction and marketplace lots
 - Keep each statement about the image separate
 - Record a proposed identification as an attribution
 - Return
@@ -162,6 +163,12 @@ Log each portal as its own surface. A family caption on a portal is an attributi
 **Privacy gate:** <!-- privacy-gate: contact --> A message through a portal's contact form reaches a living relative who keeps the page and may disclose the user's family details; answer the privacy gate in `SKILL.md` before sending it.
 
 These portals concern living families. A Бессмертный полк page names the relative who keeps it, with their relationship, a contact form and sometimes a phone number [S28]. Record the person and the story, never collect contributors' names or contact details, and use a portal's contact form only when the user asks to make contact.
+
+## Search auction and marketplace lots
+
+Old photographs are also sold through online auctions and second-hand marketplaces: a 2022 price study built its sample of 100 artistic, historical and scientific photographs from those put up for sale at the Violity auction [S30]. Log each such site as one more surface, covering completed sales as well as open lots, and run the place, studio and surname terms used on the repository surfaces. A seller's description is a claim to trace, like a donor's identification; record the lot number and page address as the item locator. If a lot includes papers of people who may be living, note only what the question needs.
+
+On Meshok, checked 2026-11-08, keyword search matches lot titles only, so also browse its catalogue categories; a separate option searches successfully completed lots [S31 @2026-11-08] [S32 @2026-11-08].
 
 ## Keep each statement about the image separate
 
