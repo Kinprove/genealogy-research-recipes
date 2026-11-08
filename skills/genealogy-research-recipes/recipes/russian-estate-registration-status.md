@@ -121,6 +121,8 @@ Revision lists will not contain the person under the new status. [S10] Use inste
   - alphabetical lists of a province's merchants.
   Find more through the footnotes of scholarly work on local merchants. [S2] A participant cited a personal file in RGIA f. 573 (op. 13) for a transfer between two towns' 1st-guild societies in the 1910s. [S2]
 
+- **Moscow мещане: find the sloboda, then the family number.** Catalogue data of the Central State Archive of Moscow (TsGA Moscow), as listed by NashiPredki, give f. 5 as the Moscow мещанская управа with one inventory [S17 @2026-11-08] and title the 1782 revision books of Moscow merchants and мещане («купцов и мещан») by sloboda, for example Taganskaya (f. 51, op. 18) [S18 @2026-11-08]. A genealogist's 2024 account says that metrical books, revision lists and confession lists name a family's sloboda, that f. 5, op. 1 holds alphabetical lists of мещане by sloboda and sloboda books in which each family has its own number, and that the sloboda's alphabetical list should be ordered first when the number is unknown [S19 @2026-11-08]. Record the sloboda in the registering-society field (§1), not as an address. Citations from before 2013 may name the Central Historical Archive of Moscow (TsIAM), which Russian Wikipedia says became part of TsGA Moscow in April 2013 [S20 @2026-11-08]; check file numbers in TsGA Moscow's own inventory before citing them.
+
 **Limits on substitute lists.** A participant expected community tax-allocation (раскладка) files to list at most heads of household, not full families. Do not promise family detail from them. [S1]
 
 ## 5. Search where the family actually lived
