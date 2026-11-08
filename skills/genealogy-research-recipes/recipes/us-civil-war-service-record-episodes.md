@@ -12,7 +12,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "U.S. military service", "order": 1109}
+router: {"tier": "pointer", "group": "U.S. military service", "order": 1134}
 ---
 
 # Read Civil War registration, service cards and unit events as separate episodes

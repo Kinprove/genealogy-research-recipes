@@ -934,19 +934,9 @@ A dated source check is a maintenance reminder, not verification of every claim 
   Seek asylum or state-hospital records through the custodian, court and newspapers; in Dutch
   research, check a child's marriage papers and locally described admission correspondence.
 
-### U.S. military service
-
-- **`recipes/us-military-service-type-record-routing.md`** — Route pre-1900 U.S. military service by service type before searching or ruling it out.
-  Route pre-1900 U.S. military service by service type to its own record series and custodian.
-
-- **`recipes/us-civil-war-service-record-episodes.md`** — Read Civil War registration, service cards and unit events as separate episodes.
-  Read Civil War draft registration, service cards, roster remarks and unit events as separate
-  episodes.
-
-- **`recipes/us-20th-century-military-service-reconstruction.md`** — Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction.
-  Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned,
-  thin or restricted personnel file, including state WWI questionnaires and Gold Star family
-  packets, separate court-martial trial files, discharge-gated final pay and award General Orders.
+- **`recipes/us-period-law-record-reading.md`** — Read U.S. records under the law and legal language of their own place and date.
+  Read a U.S. record's legal words, courts, bonds, and age or inheritance rules under the law of its
+  own place and date, and keep each inference within what that law required.
 
 ### Migration and origins
 
@@ -1038,6 +1028,20 @@ A dated source check is a maintenance reminder, not verification of every claim 
 - **`recipes/gedcom-research-export.md`** — Export research findings to a GEDCOM file without changing what they prove.
   Export research findings to a GEDCOM file, or bring a supplied one into research, without changing
   what they prove.
+
+### U.S. military service
+
+- **`recipes/us-military-service-type-record-routing.md`** — Route pre-1900 U.S. military service by service type before searching or ruling it out.
+  Route pre-1900 U.S. military service by service type to its own record series and custodian.
+
+- **`recipes/us-civil-war-service-record-episodes.md`** — Read Civil War registration, service cards and unit events as separate episodes.
+  Read Civil War draft registration, service cards, roster remarks and unit events as separate
+  episodes.
+
+- **`recipes/us-20th-century-military-service-reconstruction.md`** — Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction.
+  Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned,
+  thin or restricted personnel file, including state WWI questionnaires and Gold Star family
+  packets, separate court-martial trial files, discharge-gated final pay and award General Orders.
 
 <!-- recipe-catalog:end -->
 

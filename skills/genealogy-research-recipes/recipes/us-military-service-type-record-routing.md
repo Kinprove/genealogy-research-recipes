@@ -12,7 +12,7 @@ handoff: []
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "U.S. military service", "order": 1108}
+router: {"tier": "pointer", "group": "U.S. military service", "order": 1133}
 ---
 
 # Route pre-1900 U.S. military service by service type before searching or ruling it out

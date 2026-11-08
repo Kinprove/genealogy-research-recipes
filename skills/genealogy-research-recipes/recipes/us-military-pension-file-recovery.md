@@ -247,6 +247,8 @@ citation with the custodian
 ([Strauss Revolutionary War talk](https://www.youtube.com/watch?v=nJsQ9ftU9iM)). None of these
 sources sets the proof requirements of any particular law.
 
+When "Invalid" appears on the jacket of a military service record, read it first as the noun for a disabled or infirm soldier and look for evidence of a claimed service-related injury or disability; taking it to mean "void" can wrongly suggest that the enlistment or record had no force. [S20], [S21] The Legal Genealogist traces this usage in American service from the Revolution through Civil War pension forms. [S20] Confirm the reading from the injury or disability evidence in the record. [S20], [S22]
+
 Treat the service described in a pension file as what the claimant chose to declare, not as a
 complete military history. Search federal and state records separately for other regular,
 volunteer, militia or opposing-army enlistments. Link any you find only after comparing identity
@@ -257,6 +259,8 @@ index lists the candidate under a unit that a published roster omits, keep the c
 the conflict unresolved. Record whether the claim appears allowed or rejected, and check further
 service sources ([regiment project](https://www.youtube.com/watch?v=P9g7JwVmnIM)). An application
 alone does not prove service, and a gap in a roster does not disprove it.
+
+If a Continental soldier or officer is linked to a corps of invalids under the 26 August 1776 resolution, read that as placing the man among those entitled to a disability pension but found capable of guard or garrison duty, and do not assume that an "invalid" was unfit for any further service. [S20], [S23], [S24] Do not date the eight-company Corps of Invalids from that resolution, because it came from a later one of 20 June 1777. [S23], [S24] Do not infer a man's actual duties from the resolution alone. [S20], [S23], [S24]
 
 **Artifact:** Two linked tables:
 
