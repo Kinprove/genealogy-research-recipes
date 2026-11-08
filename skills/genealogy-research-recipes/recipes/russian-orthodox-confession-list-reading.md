@@ -64,7 +64,7 @@ The usual columns are below. Column headings vary, so copy the headings of your 
 | Age, male and female | The figure as written | Separate columns for each sex [S5], [S9] |
 | "Кто были у исповеди и святаго причастия" | The mark as written | See step 3 [S5], [S12] |
 | "Кто ж исповедались токмо, а не причастились и за каким винословием" | The mark and the reason | See step 3 [S5], [S12] |
-| "Которые у исповеди не были" | The mark and the reason | See step 3 [S5], [S12] |
+| "Которые у исповеди не были" | The mark and the reason | See step 3 [S6], [S12] |
 
 - **Estates come in a set order.** The usual order is clergy and their households, military, civil officials, merchants and townspeople, household serfs, then peasants. [S5], [S6] The clergy come first, so a cleric's family is on the first page of the parish. [S7]
 - **That order was often not kept.** In the Zamoskvorechye lists of Moscow, it was followed in 7 of 28 parishes in 1741 and in 18 of 37 in 1755. [S2] Read the whole parish before you report a family as missing from its estate section.
@@ -79,7 +79,7 @@ The usual columns are below. Column headings vary, so copy the headings of your 
 ## 3. Read the attendance columns as an administrative mark
 
 - **Copy the reason as written.** Common reasons include:
-  - "по отлучке" or "за отлучкою": away, for example on trade or military service [S3]
+  - "по отлучке" or "за отлучкою": away, for example on trade or military service [S3], [S5]
   - "по нерадению", "за нерачением", "по лености": neglect [S3], [S5], [S2]
   - "за малолетством" or "по малолетству": too young [S3], [S10]
   - "по совету духовника": on the confessor's advice [S2], [S3]
@@ -95,7 +95,7 @@ The usual columns are below. Column headings vary, so copy the headings of your 
 Set up one table per household, with one row per person and one column per list. Then work in this order.
 
 1. **Start from the latest list you can reach, then step back.** Two guides advise checking earlier lists at intervals of 5–10 years, then refining the facts in metrical books. [S5], [S6]
-2. **Fill in the consecutive years around each change.** A birth, a new wife or a missing person is dated by the two lists on either side of it.
+2. **Fill in the consecutive years around each change.** The two lists on either side of a change bracket the change in the record, not the event itself. A child may have been too young to list, and a new name may be the same person.
 3. **Find the family by its people.** Most peasants have no surname in these lists, so look for the father with a son of the right name and age. [S6], [S10] One guide suggests reading the whole list once, then scanning the age column for the age you expect, because each sex has its own column. [S9]
 
 **Test the ages.**
@@ -108,7 +108,7 @@ Set up one table per household, with one row per person and one column per list.
 **Do not follow the household number.**
 
 - The numbers run through the whole list, so one added or removed household can change every number after it. That is an inference from the numbering. A guide based on Ukrainian lists says that numbers in neighbouring years roughly match but could change sharply. [S9]
-- In one Urals series, the same man was number 213 in the list for 1827 and number 725 in the list for 1838. [S32]
+- In one Urals series, a participant's extracts give the same man as entry 213 in the list for 1827 and entry 725 in the list for 1838. They do not say which numbered column that is. [S32]
 - Use the number to find your place in a neighbouring year. Identify the household by its people.
 
 **Treat agreement between years with care.**
@@ -126,7 +126,7 @@ Set up one table per household, with one row per person and one column per list.
 **Use the changes between lists.**
 
 - Widowhood was stated for the surviving spouse, which can help when a death entry is missing. [S13], [S14] It dates the death only to the interval since the last list that shows the couple together.
-- A new wife's name brackets the first wife's death and the remarriage. One worked case placed a first wife's death between the lists of 1812 and 1824, then narrowed it with an 1823 baptism in which the second wife stood as godmother. [S22]
+- A different wife's name is a trigger to test three explanations: the same woman under another name, a death and a remarriage, or an error. One worked case placed a first wife's death between the lists of 1812 and 1824, then narrowed it with an 1823 baptism in which the second wife stood as godmother. [S22]
 - A daughter can vanish from her parents' household while a wife of the same unusual name appears in another. That is a lead, and only the marriage entry confirms it. [S10]
 - If the whole family vanishes, it may have moved. Check the revision list for the place, and if there is none, the lists of the whole uezd. [S6]
 
@@ -150,7 +150,7 @@ Set up one table per household, with one row per person and one column per list.
 - **Lists and metrical books are usually separate.** A participant reported that they are mostly kept apart but sometimes together. [S23 @2026-11-08]
 - **Urals holdings.** An Urals reference article says almost all surviving lists are in church fonds, with a few bound runs for whole uezds in GASO (f. 6, op. 2 and f. 24, op. 23, dd. 6987, 7078–7082, 7168), of up to 3,000 leaves each. [S24 @2026-11-08] Participants' extracts confirm d. 7081 (1812) and d. 7078 (1807). [S33 @2026-11-08], [S34 @2026-11-08] Other runs are GASO f. 6, op. 3, dd. 638 and 638а (1800) [S35 @2026-11-08] and a combined metrical and confession volume for 1849–1851 in the Artemovsky municipal archive (f. 13, op. 1, d. 1) [S36 @2026-11-08].
 - **Moscow.** Fedorets cites the Moscow lists as TsIAM f. 203, op. 747, from 1737 to 1915, bound by sorok. [S2 @2026-11-08] Kopay places f. 203 in TsGA Moscow and also names the fonds of district spiritual boards and of individual sorok. [S10 @2026-11-08] Glavarchiv Moscow added Orthodox lists of Moscow and Moscow guberniya, from the second quarter of the 18th century to the 1860s, to its «Моя семья» service in 2021. [S11 @2026-11-08]
-- **Other places.** Tver lists of 1728–1913 are cited from a FamilySearch collection. [S12 @2026-11-08] Archaeograph reports that many Ukrainian lists are online at FamilySearch and that their handwriting needs separate study. [S5 @2026-11-08]
+- **Other places.** Tver lists of 1728–1913 are cited from a FamilySearch collection. [S39 @2026-11-08] Archaeograph reports that many Ukrainian lists are online at FamilySearch and that their handwriting needs separate study. [S5 @2026-11-08]
 - **Late lists are rare.** A bulletin of 25 May 1927 ordered lists from 1865 onwards to be destroyed as having no historical value, and in Moscow guberniya nearly all of them were. [S20 @2026-11-08] Guides report that lists after the 1860s are very rare. [S5 @2026-11-08], [S6 @2026-11-08]
 - **Do not trust the inventory title alone.** One list of 1789 is recorded in the inventory under 1780, and the same delo contains a metrical book. [S27 @2026-11-08] Delo numbers in GASO f. 6, op. 3 were reassigned, so an inventory line can describe another file. [S37 @2026-11-08] An archive's negative reply for one church was overtaken when a participant found its 1776 list in the inventory under a later entry. [S38 @2026-11-08] Order or view the file before you report a gap.
 
