@@ -1,11 +1,15 @@
 """Sources numbering is contiguous, and every bracketed citation in a recipe has an entry."""
 
+import importlib.util
 import re
 import unittest
 from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+SPEC = importlib.util.spec_from_file_location('provenance', ROOT / 'scripts/provenance.py')
+PROVENANCE = importlib.util.module_from_spec(SPEC)
+SPEC.loader.exec_module(PROVENANCE)
 SKILL_DIR = ROOT / "skills/genealogy-research-recipes"
 RECIPES = SKILL_DIR / "recipes"
 SOURCES = SKILL_DIR / "sources"
@@ -18,7 +22,7 @@ PLACEHOLDER = "No entry; this number is not cited by the recipe."
 # marker: [S3], [S1, H2], [S4–S6], [S3 p. 1], [S3 pp. 10, 14], [H2; interpretation of the
 # form]. An ID followed by plain words, such as the haplogroup in "[D0 dating comparison]",
 # is not a citation.
-CITATION = re.compile(r"\[([A-Z]{1,2}\d+(?:[–-][A-Z]{0,2}\d+)?(?=[,;\]]|\s+pp?\.\s)[^\[\]]*)\]")
+CITATION = re.compile(r"\[([A-Z]{1,2}\d+(?:[–-][A-Z]{0,2}\d+)?(?=[,;\]†]|\s+pp?\.\s|\s+@\d{4}-\d{2}-\d{2})[^\[\]]*)\]")
 # Each comma- or semicolon-separated part that starts with an ID; page numbers and
 # annotations after the ID are ignored.
 CITED_ID = re.compile(r"^([A-Z]{1,2})(\d+)(?:[–-]([A-Z]{0,2})(\d+))?(?![\w])")
@@ -55,6 +59,22 @@ def citations(text):
     return cited
 
 
+def ledger_entries(text):
+    """Include canonical IDs for numeric bibliographies and unlabelled entries.
+
+    The provenance corpus check independently binds these records to their exact
+    bibliography entries. Raw numbering gaps and placeholders remain checked.
+    """
+    _, ledger = PROVENANCE.split_ledger(text)
+    result = set()
+    if ledger:
+        for source in ledger['sources']:
+            match = re.fullmatch(r'([A-Z]{1,2})(\d+)', source['id'])
+            if match:
+                result.add((match[1], int(match[2])))
+    return result
+
+
 def gaps(found):
     by_series = defaultdict(set)
     for series, number in found:
@@ -71,12 +91,14 @@ class SourceNumberingTests(unittest.TestCase):
         paths = sorted(SOURCES.glob("*.md"))
         self.assertTrue(paths)
         for path in paths:
-            found, placeholders = entries(path.read_text(encoding="utf-8"))
+            source_text = path.read_text(encoding="utf-8")
+            found, placeholders = entries(source_text)
+            declared = ledger_entries(source_text)
             recipe = RECIPES / path.name
             cited = citations(recipe.read_text(encoding="utf-8")) if recipe.exists() else set()
             with self.subTest(sources=path.name):
                 self.assertEqual(gaps(found), {}, "numbering gap")
-                self.assertEqual(sorted(cited - found), [], "cited in the recipe but not listed")
+                self.assertEqual(sorted(cited - found - declared), [], "cited in the recipe but not listed")
                 self.assertEqual(sorted(cited & placeholders), [], "a placeholder number is cited")
 
     def test_parsing_rules(self):
@@ -105,6 +127,21 @@ class SourceNumberingTests(unittest.TestCase):
         found, _ = entries("- **H1:** A.\n- **H2:** B.")
         cited = citations("Mistyped [S1] next to [H1].")
         self.assertEqual(sorted(cited - found), [("S", 1)])
+
+    def test_dated_and_dagger_markers_still_expose_placeholder_citations(self):
+        found, placeholders = entries('- **S1:** A.\n- **S2:** ' + PLACEHOLDER)
+        cited = citations('[S1 @2026-11-07] [S2† @2026-11-07] [S2†]')
+        self.assertEqual(cited, {('S', 1), ('S', 2)})
+        self.assertEqual(cited & placeholders, {('S', 2)})
+        self.assertEqual(cited - found, set())
+
+    def test_ledger_ids_resolve_unlabelled_and_numeric_bibliographies(self):
+        text = ('## Sources\n\n1. A <https://example.org/a>.\n'
+                '- B <https://example.org/b>.\n\n## Credits\n')
+        ledger = PROVENANCE.migrate(text, '# Example\n')
+        declared = ledger_entries(PROVENANCE.attach_ledger(text, ledger))
+        self.assertEqual(declared, {('N', 1), ('B', 1)})
+        self.assertEqual(citations('[N1 @2026-11-07] [B1†]') - declared, set())
 
 
 if __name__ == "__main__":

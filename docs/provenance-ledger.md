@@ -3,8 +3,8 @@
 ## Decision before implementation
 
 The objective is to make an assertion traceable to its evidence and recorded access
-limits, and to expose missing checks before a release. Earlier corrections (#65,
-issues #76, #78, #83 and #96) fixed individual defects and routing metadata. They did not
+limits, and to expose missing checks before a release. Earlier corrections to issues
+including #65, #76, #78, #83 and #96 fixed individual defects and routing metadata. They did not
 create a claim-to-source contract. #77, #81, #82 and #84 remain separate work; this
 migration must preserve their findings rather than declare them resolved.
 
@@ -80,3 +80,15 @@ Completing the structural migration does not close #95's editorial migration.
 Closeout must report separately the shipped checks, resolved evidence links and
 remaining pending records. Green tests prove the contract's implementation, not
 that the corpus's genealogy claims are correct.
+
+## Integration before merge, 2026-11-08
+
+The public base advanced to `56b3c4ec63ba4c961151363bc407813f4d017046`
+after the first review. It includes the internal-link checker, Beider contract,
+source/recipe corrections, unread-source qualifications, numbering placeholders
+and offline recipe handoffs from PRs #181, #179, #184, #183, #172 and #182.
+Those accepted results are incorporated without reopening their research or
+changing their text. The initial, still-unmerged inventory is regenerated from
+this base; this is not a new exception-enrollment mechanism for normal commands.
+The one reviewed NARA source and claim retain their original IDs, check date,
+access basis and exact evidence. No additional source is promoted to reviewed.
