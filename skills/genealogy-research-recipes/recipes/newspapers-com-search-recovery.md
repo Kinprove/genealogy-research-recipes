@@ -288,6 +288,8 @@ or death. The [legal-notice examples](https://www.youtube.com/watch?v=Mr03rzuk2g
 [attorney's account](https://www.youtube.com/watch?v=q5-kKlUKfHs) motivate this. The statute in the attorney's account is
 illustrative; establish each jurisdiction's actual rule.
 
+Do not overlook equity notices addressed to absent defendants: one can name defendants said to live outside the state and give the case caption and kind of suit, which you can then carry to the court records. [S55], [S56] A September 1840 notice from Cheraw District, South Carolina, in `Goodson et al. v. Beck et al.`, a bill for account and partition, does this; another Cheraw commissioner's notice that year prescribes publication twice a month for three months, and an 1853 South Carolina decision describes three months' newspaper publication as standing in place of service. [S56], [S57], [S58] A caption does not show that a case file survives, so check for the file before relying on it. [S55], [S56]
+
 When a county's own records are burned or thin, search its associates who advertised often,
 such as innkeepers and merchants, as hard as the target. Date each advertisement and notice by
 title and issue. An associate's run can trace a group's route where the target yields only one

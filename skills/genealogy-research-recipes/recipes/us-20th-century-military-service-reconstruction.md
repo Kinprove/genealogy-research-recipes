@@ -12,7 +12,7 @@ handoff: []
 checked: "2026-10-26"
 checked_basis: "checked 2026-10-26"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "U.S. military service", "order": 1110}
+router: {"tier": "pointer", "group": "U.S. military service", "order": 1135}
 ---
 
 # Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction
