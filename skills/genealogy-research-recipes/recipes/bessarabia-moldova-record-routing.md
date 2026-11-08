@@ -3,8 +3,8 @@ id: "bessarabia-moldova-record-routing"
 title: "Route a Bessarabian or Moldovan record by date, district and bank of the Dniester"
 summary: "Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis.", "Search Bessarabian and Chișinău notarial acts in the ANA notarial fonds by office, notary and year."]}
-triggers: ["Route a Bessarabian", "Moldovan", "left-bank Dniester event by its date", "district and present custodian", "then search ANA fond 211 by opis", "Bessarabian notarial acts"]
+scope: {"platforms": [], "tasks": ["Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis.", "Search Bessarabian and Chișinău notarial acts in the ANA notarial fonds by office, notary and year.", "Search Bessarabian and Moldovan newspapers in the Arcanum database and read each hit on the page image."]}
+triggers: ["Route a Bessarabian", "Moldovan", "left-bank Dniester event by its date", "district and present custodian", "then search ANA fond 211 by opis", "Bessarabian notarial acts", "Bessarabian newspapers"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "BESSARABIA-MOLDOVA-RECORD-ROUTING-01", "text": "the word \"Bessarabia\" or today's border does not pick the archive; Ясский уезд is the Bessarabian Bălți district, and a name-index miss in a browse-only collection says nothing."}]
@@ -158,7 +158,7 @@ Gather these before searching:
 
 ## 8. Search digitised newspapers on Arcanum
 
-- **Search the Arcanum newspaper database for notices naming the family, and read every hit on the page image before citing it.** On 21 July 2026 the Arcanum database made available another 450,000 pages from ANA's newspaper collections, covering 1874–2010, among them Бессарабские губернские ведомости (1874–1917), Cuvânt Moldovenesc (1914–1944), Moldova Suverană (1990–2010) and Независимая Молдова (1994–2010) [S31 @2026-11-08]. ANA says they can be read free only in its reading room in Chișinău, so check the access terms of any other route before you rely on it [S31 @2026-11-08]. An earlier ANA notice offers Советская Молдавия for 1953–1991 free in the same reading room [S32 @2026-11-08].
+- **Search the Arcanum newspaper database for notices naming the family, and read every hit on the page image before citing it.** On 21 July 2026 the Arcanum database made available another 450,000 pages from ANA's newspaper collections, covering 1874–2010, among them Бессарабские губернские ведомости (1874–1917), Cuvânt Moldovenesc (1914–1944), Moldova Suverană (1990–2010) and Независимая Молдова (1994–2010) [S31 @2026-11-08]. ANA says they can be read free only in its reading room in Chișinău [S31 @2026-11-08]. An earlier ANA notice offers Советская Молдавия for 1953–1991 free in the same reading room [S32 @2026-11-08].
 
 - **Search Moldova Socialistă with Cyrillic lanes.** The Library of Congress guide to its Romanian newspapers lists this party paper as printed in Cyrillic letters and available in the Arcanum database for 1967–1989 [S33 @2026-11-08]. Search it with the Soviet Moldovan Cyrillic forms from step 6, not only with Latin Romanian forms.
 

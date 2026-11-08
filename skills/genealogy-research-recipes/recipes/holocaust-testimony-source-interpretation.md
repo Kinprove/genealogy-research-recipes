@@ -146,6 +146,8 @@ and were forwarded from New York to Tehran between January 1943 and November 194
 [H19 @2026-11-08] A family story on the JDC Archives site reports finding a grandmother on the
 1943–1945 parcel-beneficiary list in the Names Database, with the family's wartime address in
 Samarkand. [H20 @2026-11-08]
+Search it by surname together with the wartime town, and treat a hit as the person's address on
+that list's date, not as proof of survival.
 
 ## Keep dated observations distinct from final fate
 

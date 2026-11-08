@@ -114,8 +114,8 @@ give only totals.
 For a camp or detention place, start from Rosarkhiv's reference to where documents on Nazi camps,
 ghettos and other places of forced detention are kept. Its camp lists for occupied Soviet territory,
 by republic and region, give the kinds of surviving documents and the archive holding them; the
-text, read in a reproduction on tkrfkod.ru because the Rosarkhiv portal refused the connection,
-carries amendments of 1 January 1997, so confirm each holder's present name and custody.
+text, as reproduced on tkrfkod.ru, carries amendments of 1 January 1997, so confirm each holder's
+present name and custody.
 [H65 @2026-11-08] Treat a published document volume, such as the six Belarusian oblast volumes of
 «Без срока давности» [H66 @2026-11-08], as a selection: record each document's archival cipher, and
 do not read absence from the book as absence from the commission's lists. A list copied from a ЧГК
@@ -459,8 +459,8 @@ Before looking for a Red Army unit's war diary, orders or loss reports, establis
 subordinated to on that date from a dated order of battle, not from a unit web page or a memoir. The
 General Staff reference «Боевой состав Советской Армии» gives the composition of fronts and armies
 as of 22 June 1941 and the first of each later month, down to divisions, brigades and separate
-(non-divisional) units, but not a division's own regiments: so its Part I preface states, read in an
-online transcription. [H73] The General Staff's numbered lists (Перечни) set the periods that
+(non-divisional) units, but not a division's own regiments, as its Part I preface states. [H73]
+The General Staff's numbered lists (Перечни) set the periods that
 formations and units spent in the field army (Действующая армия); Перечень № 5, for rifle and
 similar divisions, is an annex to a 1956 General Staff directive. [H74] Take a regiment's division
 from the unit's own documents, and treat online compilations of these references as finding aids:
