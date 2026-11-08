@@ -61,8 +61,9 @@ python3 -B -m unittest discover -s tests -p 'test_provenance.py'
 `--import-legacy` is a one-time migration command and refuses an existing
 inventory or ledger. Normal write/check commands validate the entire candidate
 before changing files. No command fetches URLs, changes statuses, advances dates
-or enrolls new exceptions. Keep #95 open until its remaining editorial work is
-resolved or a different acceptance scope is explicitly agreed.
+or enrolls new exceptions. #95 closed on the structural scope recorded in the
+migration decision's closeout: a legacy record is reviewed when an edit changes
+it, not in a bulk pass.
 
 ## Recipe headers and generated routing
 
