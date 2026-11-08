@@ -3,8 +3,8 @@ id: "bessarabia-moldova-record-routing"
 title: "Route a Bessarabian or Moldovan record by date, district and bank of the Dniester"
 summary: "Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis."]}
-triggers: ["Route a Bessarabian", "Moldovan", "left-bank Dniester event by its date", "district and present custodian", "then search ANA fond 211 by opis"]
+scope: {"platforms": [], "tasks": ["Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis.", "Search Bessarabian and Chișinău notarial acts in the ANA notarial fonds by office, notary and year."]}
+triggers: ["Route a Bessarabian", "Moldovan", "left-bank Dniester event by its date", "district and present custodian", "then search ANA fond 211 by opis", "Bessarabian notarial acts"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "BESSARABIA-MOLDOVA-RECORD-ROUTING-01", "text": "the word \"Bessarabia\" or today's border does not pick the archive; Ясский уезд is the Bessarabian Bălți district, and a name-index miss in a browse-only collection says nothing."}]
@@ -41,6 +41,8 @@ It covers the period routing, the left bank, the 1941–1944 Transnistria fonds,
 - 4\. Search Bessarabian metrical books in ANA fond 211 by opis
 - 5\. Search revision and census lists by fond, not by name
 - 6\. Generate Romanian and Cyrillic name forms as query lanes
+- 7\. Search notarial acts by fond, office and year
+- 8\. Search digitised newspapers on Arcanum
 - Close with a routing packet
 
 ## Inputs to gather first
@@ -146,6 +148,20 @@ Gather these before searching:
 - **Cross the 1918 and 1944 lines with given-name lanes.** The same man can appear under a Romanian form in a 1918–1940 or 1941–1944 record and under a Russian form before 1918 or after 1944 (step 1). Even fond 211's registers are written in both Russian and Romanian [S9]. Build each Russian–Romanian pair from the person's own records or a name dictionary. A matched pair is a query, not an identity.
 - **Read a Тодор (Todor) form as a lead to the Bulgarian colonies of southern Bessarabia.** A search-result summary reports Тодор as the most frequent male name in a study of Bessarabian Bulgarian names in Bolgrad district; the full study was not read, so the frequency claim remains unconfirmed [S21]. Bulgarian colonists settled in southern Bessarabia [S22]. Use the form to add colony parishes to the search, not as proof of origin.
 
+## 7. Search notarial acts by fond, office and year
+
+- **Search ANA fond 36 for imperial-era property acts in the Chișinău court district.** It is the senior notary of the Chișinău district court of Bessarabia guberniya (Notarul superior al judecătoriei districtului Chișinău); its ANA page dates it 1870–1917 and links inventories 1–13, with op. 5 in two parts [S26 @2026-11-08]. ANA's guide to its fonds (Îndrumător) dates the files 1870–1911 and lists real-estate sales, gifts, mortgage files, powers of attorney and an alphabetical index of the notarial archive [S27 @2026-11-08]. Record both date ranges until the inventory shows which years survive.
+
+- **For a private notary of 1869–1940, choose the inventory by place and notary.** Fond 1437 holds the private notarial offices of Bessarabia (Birourile notariale private din Basarabia), 1869–1940, with inventories 1–142 [S28 @2026-11-08]. ANA's guide arranges them by town and county, gives each notary's years and inventory number, and says the offices drew up wills and certified copies of personal documents [S27 @2026-11-08]. It gives inventory 57 to the Chișinău notary N. Epure, active 1918–1940, with files for 1919–1939 only, so take the years to search from the inventory, not from the notary's years in office [S27 @2026-11-08].
+
+- **For Chișinău after 1944, use the numbered notary offices.** Fond R-2266 is Notary Office No. 1 in Chișinău (Biroul Notarial Nr. 1 din or. Chișinău), 1944–1967, with inventories 1–8 [S29 @2026-11-08]. Fond R-3014 is Notary Office No. 2 in Chișinău (Biroul Notarial Nr. 2 din or. Chișinău), 1954–1970 [S30 @2026-11-08]. Read each inventory's own description before you assume which act types it holds.
+
+## 8. Search digitised newspapers on Arcanum
+
+- **Search the Arcanum newspaper database for notices naming the family, and read every hit on the page image before citing it.** On 21 July 2026 the Arcanum database made available another 450,000 pages from ANA's newspaper collections, covering 1874–2010, among them Бессарабские губернские ведомости (1874–1917), Cuvânt Moldovenesc (1914–1944), Moldova Suverană (1990–2010) and Независимая Молдова (1994–2010) [S31 @2026-11-08]. ANA says they can be read free only in its reading room in Chișinău, so check the access terms of any other route before you rely on it [S31 @2026-11-08]. An earlier ANA notice offers Советская Молдавия for 1953–1991 free in the same reading room [S32 @2026-11-08].
+
+- **Search Moldova Socialistă with Cyrillic lanes.** The Library of Congress guide to its Romanian newspapers lists this party paper as printed in Cyrillic letters and available in the Arcanum database for 1967–1989 [S33 @2026-11-08]. Search it with the Soviet Moldovan Cyrillic forms from step 6, not only with Latin Romanian forms.
+
 ## Close with a routing packet
 
 Return:
@@ -155,5 +171,7 @@ Return:
 - **Image-group rows:** the FamilySearch collection and image group, its title-page heading, the opis and delo it maps to, and the frames inspected.
 - **Gaps:** jurisdiction gaps (the south in 1856–1878), Romanian-period years not yet in fond 211 (ask ANA, then ASP), section ranges not checked year by year, and unresolved labels such as op. 12.
 - **Name register:** every literal form with its record and period, and every lane searched, with where.
+
+- **Notarial and press rows:** for each notarial act, the fond, inventory, notary or office, year, act number and date; for each newspaper hit, the title, issue date and page, and whether the page image was read.
 
 The model assembles this packet. The researcher decides identity and kinship.
