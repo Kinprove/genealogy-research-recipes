@@ -27,6 +27,17 @@ Overlapping steps live in sibling recipes:
 - Heir lists, residence-versus-birthplace and every proof ruling: [evidence/proof judgment](evidence-proof-judgment.md).
 - Documentary roles and associates: [FamilySearch workflows §11](familysearch-practical-record-workflows.md).
 
+## Contents
+
+- Errors to block
+- 1\. Classify the instrument and its jurisdiction first
+- 2\. Test the consideration against the local going rate
+- 3\. Keep the inheritance trail open when probate is missing or landless
+- 4\. Read party descriptions literally
+- 5\. Decide parcel identity before linking deeds
+- 6\. Pair migration deeds only after excluding namesakes
+- 7\. Return a per-instrument clue register
+
 ## Errors to block
 
 Do not do any of the following:
@@ -51,6 +62,12 @@ Type limits what the deed can show:
 - **Dower or widow's release.** S2 describes it as the wife's release of her dower interest when her husband sold the land, or the widow's interest after his death [S2].
 - **Jurisdiction check.** Before you interpret a spouse's joinder, disclaimer or release, find out from an authoritative legal-history source whether a community-property or dower regime applied in that jurisdiction on the instrument date. There are nine community-property states today, including Texas, Arizona, New Mexico and California. Utah is not one [S7]. That list describes present law. Do not apply it to an older instrument without a dated legal source for that jurisdiction.
 
+- **Lease and release.** When a lease for a nominal sum and a release of the same tract pass between the same parties, read the pair as one sale, not as a rental and a separate cancellation, and take the price from the release, not the nominal lease sum [S11], [S12]. The lease comes first and may predate the release by a day, a week or even a year, so search up to a year earlier from a release and up to a year later from a lease [S11]. The Legal Genealogist reports the form in colonial America more widely, often in the Northern Neck and older Virginia counties; outside Virginia, confirm the pairing from the local deeds [S13].
+
+- **Dower set off to a widow.** Read a record setting off dower as a life estate in part of her husband's lands, generally one-third, not as an inherited ownership share she could keep and pass on [S14], [S15]. At common law, do not list the widow as her husband's heir [S16]. Statutes could differ, so check the law for the place and date: Illinois's 1845 statute endowed a widow with a third of the lands of which her husband was seized of an estate of inheritance during the marriage [S17], and the same guide reports that a widow whose husband left no child took one-half of the real estate and all the personal estate outright, and kept her dower [S17].
+
+- **"Moiety."** Expect one-half when a deed conveys a moiety, since Black's defines it as "the half of anything," and read "demidietas" or "dimidietas" as half or moiety [S18], [S19], [S20]. Read any stated fraction before assuming, because modern Cornell Wex also records a sense of any set of roughly equal parts [S21]. The Legal Genealogist reads an 1848 North Carolina "two-thirds moiety" as two of three equal shares, so do not dismiss such a phrase as a scribal error on sight [S22].
+
 ## 2. Test the consideration against the local going rate
 
 Record the stated consideration literally. Compare it with land values for comparable acreage in the same county and period, using a source you cite. A price far below that rate, a token sum, or a transfer in return for the grantor's lifetime care can point to a family relationship. It can also explain why no probate exists [S1]. Record this as a hypothesis together with the record that would test it, such as a later heir list, the grantee's identity, or a care agreement.
@@ -74,6 +91,12 @@ There are four routes.
 - **Candidate pool from same-surname parties.** When the parents are unknown, sweep county land records for every party with the surname, starting about 20 years before the target's birth. Then follow each candidate child's own deeds back to their grantors, and note witnesses who recur [S5]. Treat the pool as candidates. Land records seldom name children [S5].
 - **Search window.** A deed may not have been recorded until many years after the transaction. The presenter says filing was not required at the time. Search at least 20 years past the ancestor's last known date in the area [S1]. Record the instrument date and the recording date separately, as the land-record recipe requires.
 
+- **Age of a buyer or lessee.** Do not conclude from a land purchase or lease alone that the party had reached 21, because an infant's contract to purchase land and a lease to an infant were voidable, not void [S23], [S24]. The Legal Genealogist applies this to land deeds where a jurisdiction treats minors' non-necessary contracts as voidable and says land generally was not a necessary [S25].
+
+- **How the seller acquired the land.** Read the land description in a seller's deeds for the source of title, not only for location, because deeds can show who the grantor got the land from and the grantor's relationship to a previous owner [S26]. The Legal Genealogist reports Wilson County, Tennessee, deeds of 1828-1829 where wording such as land formerly owned by, or deeded by, "my father" named a father [S27]. Such a recital does not by itself distinguish among same-named men in the county, so record it as a hypothesis until that is resolved [S27].
+
+- **Proof of a deed your target only witnessed.** The Legal Genealogist reports one Tennessee deed of 1831, proved in 1836-1838, where those proving the handwriting of a witness who had left the state stated their kinship to that witness, and the father and siblings they named were used to eliminate one same-named candidate father [S27]. The author therefore reads such court proofs instead of skipping them as boilerplate [S27]. The elimination rested on the absence of a recorded son, so treat it as a lead and not as proof [S27].
+
 ## 5. Decide parcel identity before linking deeds
 
 To test whether two deeds or mortgages concern the same land, compare:
@@ -84,6 +107,8 @@ To test whether two deeds or mortgages concern the same land, compare:
 - adjoining owners named.
 
 Record a "part of" relationship when a small earlier lot was absorbed into a larger later tract. Do not record it as identity. Neighbours who do not match point to a different tract even when the date and grantor match. In the presenter's parcel comparison, a deed recited the same original date and grantor as another transaction yet concerned a different lot [S9].
+
+The Legal Genealogist reports, from one 1848 Caldwell County, North Carolina, deed of a two-thirds share of inherited land, that to own the whole tract the buyers would have had to acquire the remaining third separately from the children of a brother who had died [S22]. On that example, do not record a buyer of a fractional share as owner of the whole tract or the named sellers as the only heirs, and search for separate conveyances of the remaining shares [S22].
 
 Keep near-identical surnames (Wilmer/Wimmer in that example) as separate parties until other evidence joins them [S9]. Where a citing deed's date disagrees with the cited deed's own body, acknowledgment and cover note, keep both readings. A proposed misreading (13th/30th in the example) is a hypothesis to check on the image [S9]. That analysis was AI-assisted: Claude compared her own transcriptions, and she said she still needed to double-check the details [S9]. Verify every call and citation on the images yourself.
 

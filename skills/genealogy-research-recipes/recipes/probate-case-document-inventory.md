@@ -199,6 +199,8 @@ workflow. A [will-versus-index comparison](https://forum.ahnenforschung.net/foru
 motivates this check. It does not explain why the index differs, and it does not show that the
 will is complete. [S15]
 
+To decide whether a will image shows an original or a clerk's copy, examine the volume instead of judging from the single image. The Legal Genealogist reports paging back to the start of the volume to identify a bound will book, looking for pins or ribbons fastening an inserted document, and comparing the dates of surrounding entries with the will's date and the testator's death. The worked example is one bound Missouri will book, and no independent source was found for this test. [S29]
+
 Inventory a loose original and a clerk's recorded copy as separate rows with separate locators,
 and record which form each image shows. A will in a will book is usually the court's recorded
 copy rather than the document the testator signed. Consecutive entries in one hand indicate
@@ -215,11 +217,15 @@ found. The [Maryland seal example](https://www.youtube.com/watch?v=Yt91gmZt8sE),
 this. None of these
 examples establishes routine recording or the survival of originals. [S6]
 
+Where an original will survives alongside the will book entry, compare each heir's name in the two instead of accepting a clear, legible entry as an accurate list of the children, because copying errors occur and the differences can be minor or important. [S30], [S31] The Legal Genealogist reports, from two Tennessee county wills, a recorded copy that carried an entirely different child's name and originals held only on microfilm at a county archive; those specific examples were not independently verified. [S32]
+
 If an index, docket or wrapper gives a packet or file number that the filmed or digitized
 collection lacks, record the result as "not in this copy" rather than a missing document, and log
 a pending request to the present custodian for that number
 ([Huron County packet example](https://www.youtube.com/watch?v=D5weC7CmDlo)); this does not
 establish that any court still holds or will retrieve an unfilmed packet. [S7]
+
+When a will names many children, note which are grouped in the same clause with the widow and which are placed apart as already provided for, rather than extracting one sibling group of the widow or reading the split only as a difference in bequests. The Legal Genealogist reports treating such a split as a hypothesis of different mothers, to be tested against tombstone dates, family Bibles and similar sources, which belongs in the evidence workflow. The author says the grouping is not proof by itself, and the example is one North Carolina will. [S33]
 
 ## 3. Search for later and non-will parts of the proceeding
 
@@ -297,6 +303,8 @@ for the evidence workflow; check it in that family's own probate and vital recor
 [Warham Wheeler guardianship example](https://vitabrevis.americanancestors.org/the-warham-wheeler-affair)
 motivates this. [S25]
 
+Where an annual guardian's report has narrative text, read the paragraph ahead of the line entries rather than extracting only names and sums. The Legal Genealogist reports, from one 1896-1898 Louisa County, Iowa report book, that such paragraphs can show a ward's placement, custody with relatives, schooling and marriage consents, and treats a guardian's changed surname as a marriage clue; the author also says these accounts are often only line entries. [S26] Use a ward's attached receipt on reaching majority to bound a birth date only after checking the age for that place and sex and whether the ward married: under Iowa law through the Code of 1897, minority ended at 21 for males and 18 for females, and at marriage for any minor. [S27], [S28]
+
 If land passed jointly to several heirs, or the estate papers or deeds point to a suit, add a
 bounded search of the court's civil or equity series for a partition, sale or title suit. An
 heir, another household member or the administrator may have brought it. Recover a U.S. suit file
@@ -309,6 +317,8 @@ clear title, so a family-versus-family caption is not evidence of a feud. The
 supplying local law. Not every jurisdiction required such a suit; establish the period's procedure before
 interpreting a suit. [S11]
 
+For Illinois land with underage heirs where dower, partition or sale was at issue, look for a court case, and do not read a filing over dower or partition as proof of a family dispute. A guardian's sale of a minor's land worked through a court order, and an 1877 decision held a guardian's sale decree void for lack of notice to the heirs. [S34], [S35] A partition decree had to include and represent minors. [S36] No Illinois authority was found that division or dower assignment always needed the court, so need is established only for guardian sales. The Legal Genealogist's example is one party's allegation in an 1880 McHenry County bill, and the post cites no statute for it. [S37]
+
 When the court file is lost or a packet is missing, search the county or regional newspaper's
 legal notices for the estate. Look for claim or creditor notices, petitions to sell land to pay
 debts (which may name heirs and describe the land), estate-sale notices and final-account hearing
@@ -317,6 +327,8 @@ queue the proceeding it points to. The
 [legal-notice examples](https://www.youtube.com/watch?v=Mr03rzuk2gA) motivate this substitute. A
 notice shows only what was published, such as alleged heirs or a scheduled hearing. It does not
 give the will's contents, the court's decision or a complete heir list. [S12]
+
+Do not look for probate matters only in court files: The Legal Genealogist reports finding a probate court docket printed in a local newspaper, listing the matters scheduled for a court session and naming the role of the person acting, such as administrator or guardian. The example is one Missouri docket from August 1876, it could not be independently checked, and the post does not say how commonly newspapers printed such dockets. [S38]
 
 ## 4. Reconcile retrieval coverage and hand off interpretation
 

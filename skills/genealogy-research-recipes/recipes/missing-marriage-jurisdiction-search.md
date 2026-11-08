@@ -33,6 +33,8 @@ Then confirm which civil marriage records were kept there at that date. Some sta
 
 For a marriage before licensing, list the civil series that survive for that place and date, such as registers, returns, bonds or city records. Search church registers, minister records and newspapers alongside them, not instead of them. A civil no-hit counts only for a series that covered that place and date.
 
+When an early American marriage has no licence or return, do not write it off as a lost record or as a sign that no marriage took place; find out whether the jurisdiction then used banns, read in church or posted publicly, or marriage bonds [S28]. Do not assume licences only came later: North Carolina's 1715 act let couples buy a licence or have banns published, and in Virginia giving bond was the step for obtaining a licence [S29], [S30].
+
 ## Keep residence, licence and ceremony places apart
 
 Add a row for each party's residence county and a separate row for the county where the ceremony took place, if it is known or suspected. In a Pennsylvania teaching example, the bride, groom and ceremony are in three different counties, and the presenter says to search all three [S12], [S13]. Don't assume the licence sits in the ceremony county. Current Pennsylvania county guidance says a licence can be taken out in any county and used anywhere in the Commonwealth. The marriage is recorded in the county that issued the licence, and that is where the officiant's return goes. That guidance is present-day practice. For an older marriage, record the period rule as an open question and search every residence county and the ceremony county until it is settled. Record the issuing county and the ceremony county as separate fields, even when they turn out to be the same. Search for the record in the issuing county.
@@ -84,6 +86,8 @@ For each candidate, record:
 Keep "not searched" and "unavailable" visibly separate from "no hit."
 
 Check that a hit is the right couple before accepting it, then follow it to the bond, licence, return or register itself. Do not stop at an index miss. Ancestry tends to hold indexes, while FamilySearch holds more original images, many of them unindexed [S12], [S13]. Browse the FamilySearch images for the county and years before recording "no hit."
+
+A licence does not show that banns were read: in English law a special licence could dispense with publication, so check the local rule before assuming banns for a licensed marriage [S28], [S31].
 
 Read the bondsmen and officiant as possible associates, but check their role first. In the presenter's Mitchellville bond, the bondsman, F. M. Groves, was the justice of the peace who performed the marriage, and the bond notes that Groves paid for it [S6].
 

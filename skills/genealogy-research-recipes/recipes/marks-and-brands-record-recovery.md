@@ -29,9 +29,13 @@ initial can be the filing key: the teaching example finds an owner under the let
 the brand, rather than the owner's surname. Establish this from the supplied index; do not
 generalize that arrangement to every brand book. [S1]
 
+The Legal Genealogist recommends searching for town or county livestock mark registers with the terms brand, mark and earmark in the FamilySearch catalog, Google Books, HathiTrust and Internet Archive, and says such registers generally do not sit inside books of births, marriages and deaths, although the one discussed did. [S2] In that example, from Shaftsbury, Vermont, a reader's find that the author discusses, with entries from 1766 onward, a registration places the owner in town and notations such as "dead" or "moved away" stand in for missing death or deed evidence, but the author offers this only for use "in a pinch" and says the town's purpose was "potentially" to free the mark for reuse. [S2] Treat this as one reported example, usable only where a register actually carries such annotations, rather than as settled proof of a death or a move. [S2]
+
 Retain the index entry number, literal owner name, visible brand/earmark representation and
 referenced register volume/page separately. An index entry number is not a register page.
 Preserve an uncertain reading before choosing the book it points to.
+
+When North Carolina county court minutes mention a county ranger, read the office as the keeper of stray-animal records rather than assuming a military, law-enforcement or forestry officer, and look for the ranger's book. Under chapter IX of the November 1777 act, county courts appointed the ranger, marks and brands were entered in that book, two neighborhood freeholders appraised strays with the appraisal returned to the ranger, and owners could prove property within twelve months. [S3] The Legal Genealogist reports stray lists returned annually to the county court in later years, in February by 1798, and stray records as late as the early 1900s; those points were not verified, and the 1777 text does not itself require a list of strays to go to the court. [S4]
 
 ## Match the register or its described copy
 
