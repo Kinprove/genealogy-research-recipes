@@ -62,6 +62,20 @@ today's date. Do not check for a newer version over the network yourself.
    checkpoint; the gate applies to unmarked steps of the same kinds too. For a living person,
    also follow [Living people](#living-people).
 
+## Read source limits
+
+A source marker identifies evidence, not a guarantee that the page was read or that it supports
+every sentence. When relying on a factual passage, inspect its `sources/<recipe-id>.md` sidecar.
+Its provenance ledger joins exact recipe passages to source IDs and records access, dates and
+review status. `pending` records preserve unresolved legacy attribution; do not treat them as
+verified. `unknown` access means the ledger has no reviewed reading record, even when the older
+prose includes a check date. Source prose and its limitations remain relevant.
+
+`[S12 @2026-11-07]` gives the claim's last check date. A dagger such as `[S16†]` marks limited or
+unavailable access: preserve the attributed observation and qualification rather than restating
+it as a verified fact. A partial read supports only its recorded scope. A fresh date or a `read`
+status does not establish that a genealogical inference is correct.
+
 ## Privacy gate
 
 Answer these items in writing, in your reply, before the step runs. If any answer is

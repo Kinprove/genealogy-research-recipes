@@ -7,22 +7,32 @@ or redacted examples in issues, pull requests and test fixtures.
 
 ## Local checks
 
-From the repository root, use Python 3.11 or newer for both offline test suites:
+From the repository root, use Python 3.11 or newer and Node.js 22 or newer.
+Install the pinned Markdown/HTML parser shared by provenance and link checks:
+
+```sh
+npm ci --prefix tests/markdown-links --ignore-scripts
+```
+
+Then run both offline Python test suites and the generated-data checks:
 
 ```sh
 python3 -B tests/run_all.py
 python3 scripts/recipe_catalog.py --check
+python3 scripts/provenance.py --check
 ```
 
 The runner exits non-zero if either suite fails or collects no tests. The npm
-artifact check skips without npm outside CI; CI requires npm.
+artifact check skips without npm outside CI; CI requires npm. Provenance tests
+skip with an explicit reason when their parser dependencies are unavailable;
+the standalone provenance check fails with setup instructions. CI installs the
+parser and runs both the tests and the standalone check.
 
-The tests use Python's standard library. The root suite also exercises the native
-JavaScript adapter, so have Node.js available. For Markdown lint, use Node.js 22
-or newer. Run the offline link/anchor tests and the same pinned linter as CI:
+Python uses its standard library; Markdown visibility uses the pinned local
+`markdown-it` and `parse5` dependencies. The root suite also exercises the native
+JavaScript adapter. Run the offline link/anchor tests and the same pinned linter as CI:
 
 ```sh
-npm ci --prefix tests/markdown-links --ignore-scripts
 npm test --prefix tests/markdown-links
 npx --yes markdownlint-cli2@0.23.0 "**/*.md"
 ```
@@ -46,7 +56,10 @@ from your inference, and keep dates, access limits and uncertainty visible. Upda
 the corresponding `sources/<slug>.md` when its evidence or attribution changes.
 
 Follow [MAINTAINERS.md](MAINTAINERS.md) for recipe headers, source-check dates,
-new-recipe exports and privacy declarations. An outbound action needs its privacy
+source/claim ledgers, new-recipe exports and privacy declarations. Give provenance
+reports a stable locator such as `recipe-slug#S12` or `recipe-slug#C-claim-id`, the
+defect class, exact passage, observed access status and observation date. An
+outbound action needs its privacy
 checkpoint, capability declaration and reviewed inventory entry. An existing
 inventory entry or a passing test does not itself establish permission.
 

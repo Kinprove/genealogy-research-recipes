@@ -1,5 +1,69 @@
 # Maintainer notes
 
+## Source and claim provenance
+
+The [provenance report](PROVENANCE.md) lists reviewed current-state claims and
+remaining migration debt. The [migration decision](docs/provenance-ledger.md)
+explains the evidence boundary and deferred private-export integration.
+
+Every source sidecar has a `provenance-ledger` block before its final Credits
+section. Inside the YAML fence, `schema: 1`, `sources:` and `claims:` are literal;
+each list item is one JSON object. Duplicate keys and IDs are errors. Keep source
+URLs byte-exact: case, query order, escaping and fragments matter. Existing IDs
+stay stable, including gaps; numbered bibliographies use `N1`, unlabelled bullets
+`B1`, and separately retained additions `H3-addition-1` in their ledgers.
+
+To review a source, set `review` to `reviewed`, classify `kind` and `access`, and
+record the actual retrieval date and an exact, dated `basis` from the bibliography.
+Do not equate publication or archive-capture dates with retrieval. `unknown`
+means no reviewed access record; preserve unknown rights as null. Separate bundled
+URLs into distinct bibliography entries before giving them an access status.
+`entry_sha256` binds the full parsed entry, including its limitations; use the
+`source_entries()` and `digest()` functions in `scripts/provenance.py` after an
+intentional edit. Updating a digest is not a source recheck.
+
+To review a claim, retain its ID, set `review` to `reviewed`, classify its `kind`
+and `stated_as`, and record a unique, exact paragraph `anchor` and its source IDs.
+The paragraph's markers must match those IDs. `--write` generates each source's
+reverse `claims` list in claim order; `--check` rejects drift. A non-read source requires an `observation`,
+a dagger on its marker and visible attributed/limited-access wording. Partial
+reads require a visible qualification. A factual claim cannot use a pending
+source. Checks validate the representation; review must still establish that
+the cited source supports each statement in the paragraph.
+
+Only prose citations, dates and qualifications count. The pinned `markdown-it`
+and `parse5` parsers extract rendered prose; code, comments, HTML attributes and
+Markdown link destinations/titles (including reference definitions) cannot supply
+evidence. Visible link labels remain available. Every supporting source needs
+at least one nonempty citation context. Raw anchors and hashes remain exact;
+sentence checks use offsets within the parsed prose, not within the raw anchor.
+
+For `platform-ui`, `fee`, `portal-availability` and `custody`, record `checked`
+and a separate `[S1 @YYYY-MM-DD]` marker for each supporting source. Fees and
+portal availability expire after 90 days; platform UI and custody after 180.
+History, methods and examples have no automatic expiry. These claim dates do
+not replace the catalog header's independently enforced platform check.
+
+New or changed factual/cited paragraphs need ledger entries. The detector catches
+domains, currency, selected current-state phrases and custodian names; it cannot
+discover every factual assertion. New source entries must also be reviewed.
+The fixed `tests/provenance_legacy.json` fingerprints only the initial pending
+records. Do not add exceptions or reset it to make an edit pass. Regeneration
+prunes resolved exceptions but cannot enroll new ones:
+
+```sh
+npm ci --prefix tests/markdown-links --ignore-scripts
+python3 scripts/provenance.py --write
+python3 scripts/provenance.py --check
+python3 -B -m unittest discover -s tests -p 'test_provenance.py'
+```
+
+`--import-legacy` is a one-time migration command and refuses an existing
+inventory or ledger. Normal write/check commands validate the entire candidate
+before changing files. No command fetches URLs, changes statuses, advances dates
+or enrolls new exceptions. Keep #95 open until its remaining editorial work is
+resolved or a different acceptance scope is explicitly agreed.
+
 ## Recipe headers and generated routing
 
 Every file in `skills/genealogy-research-recipes/recipes/`, including the citation

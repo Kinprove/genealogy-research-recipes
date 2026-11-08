@@ -46,10 +46,14 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: "24"
+      - name: Install the pinned Markdown parser
+        run: npm ci --prefix tests/markdown-links --ignore-scripts
       - name: Run repository unit tests
         env:
           PYTHONDONTWRITEBYTECODE: "1"
         run: python -B -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Check provenance ledgers and generated report
+        run: python -B scripts/provenance.py --check
 
   hermes:
     name: Hermes native plugin

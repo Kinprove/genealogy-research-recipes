@@ -36,6 +36,25 @@ bibliographic facts for the consolidated-catalogue step. The provider does not
 promise that adjacent IDs form a collection or that search misses prove absence.
 Links cite the guide and metadata; no guide prose or images are reproduced.
 
+<!-- provenance-ledger:start -->
+```yaml
+schema: 1
+sources:
+  - {"id":"S1","kind":"unknown","urls":["https://resource.history.org.ua/item/0014010"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"4838452033e71ca46e778ae59d837394ecf3cdca53b7d563f765e39bdd5df3f0","claims":["C-4d6739ef6883","C-9dfe55b7e739"],"review":"pending"}
+  - {"id":"S2","kind":"unknown","urls":["https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014010.pdf&IMAGE_FILE_DOWNLOAD=0"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"e2fa2fe261efd7a1813c84a6caf6ae9daefbcc42cba10fdf57605837a2581f1a","claims":["C-9dfe55b7e739","C-40257d177303"],"review":"pending"}
+  - {"id":"S3","kind":"unknown","urls":["https://resource.history.org.ua/item/0013670"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"505cf19756238f4fcfccecf9f17c59668768b5887832537c1a3d1a23c1611746","claims":["C-6f2a9c001258"],"review":"pending"}
+  - {"id":"S4","kind":"unknown","urls":["https://resource.history.org.ua/item/0013671"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"b834767b94f90e8b16fe9b6344aa960fba9d8b7ca5138eae7f58a5912612f380","claims":["C-6f2a9c001258"],"review":"pending"}
+  - {"id":"S5","kind":"unknown","urls":["https://dahmo.gov.ua/pdf/mbv8-b1.pdf","https://dahmo.gov.ua/pdf/mbv8-b2.pdf"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"88a12b855dc213936f37ff9f4fa63bbcf3bd2ad9b79ef6d6f31c7ebafc23c42a","claims":["C-00ac05eb6c80"],"review":"pending"}
+claims:
+  - {"id":"C-386d2e2ce19f","kind":"unclassified","anchor":"Use for a Ukrainian regional archive's `Путівник`, `Анотований реєстр описів` or\nrelated finding aid in the Institute of History of Ukraine's electronic library\nat `resource.history.org.ua`. The goal is the correct volume and its archival\nscope, followed by a usable citation to the actual guide.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-4d6739ef6883","kind":"unclassified","anchor":"Keep the item identifier as text, including leading zeros. According to its card,\nthe checked example `0014010` is the Chernihiv archive guide, volume 1, published\nin 2001; the card also links the full-text PDF. [S1]","sources":["S1"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-9dfe55b7e739","kind":"unclassified","anchor":"Read its archive, title, year, volume and series fields, then follow the actual\nfull-text link. Do not count the catalogue HTML or cover thumbnail as acquisition\nof the finding aid. For the checked item, the PDF route uses this pattern: [S1, S2]","sources":["S1","S2"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-40257d177303","kind":"unclassified","anchor":"If extracted cover text is unreadable, inspect the rendered title page or OCR\nthat small area. The checked PDF is accessible, but text extracted from its first\npages is garbled: poor extraction alone does not establish a corrupt document. [S2]\nCheck readable interior pages separately; neither a title guess nor a successful\ndownload settles the book's identity or completeness.","sources":["S2"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-6f2a9c001258","kind":"unclassified","anchor":"Once a guide names the archive, check whether the consolidated catalogue series\n`Зведений каталог метричних книг, що зберігаються в державних архівах України`\n(consolidated catalogue of metrical books held in the state archives of Ukraine;\nUkrderzharkhiv and UNDIASD) has a volume for it. Volume 8 covers the State\nArchive of Khmelnytskyi Oblast (Kyiv, 2013, two books); ELIB items `0013670`\nand `0013671` are its cards. Book 1 covers Orthodox parishes of all twelve\nPodolia uyezds, some now in Vinnytsia and Odesa oblasts. Book 2 covers Orthodox\nparishes in Volhynia and Kyiv guberniyas, plus Roman Catholic, Old Believer and\nJewish records. Book 1 opens with an overview of the fonds that hold the\nregisters, and both books have settlement indexes. [S3, S4]","sources":["S3","S4"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-00ac05eb6c80","kind":"unclassified","anchor":"The archive hosts both PDFs without login, as `mbv8-b1.pdf` and `mbv8-b2.pdf`\nunder `https://dahmo.gov.ua/pdf/`. [S5]","sources":["S5"],"checked":null,"stated_as":null,"review":"pending"}
+```
+<!-- provenance-ledger:end -->
+
 ## Credits
 
 - Kinprove — original retrieval and volume-verification procedure; the Institute of History of

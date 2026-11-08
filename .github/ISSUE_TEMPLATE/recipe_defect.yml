@@ -9,11 +9,29 @@ body:
   - type: input
     id: location
     attributes:
-      label: File and line or section
-      description: Give the repository path and a line number or section heading.
+      label: Recipe slug, source or claim ID, and passage location
+      description: Give a stable slug#ID locator when available, plus the file and line or section.
       placeholder: skills/genealogy-research-recipes/recipes/example.md, section 2
     validations:
       required: true
+  - type: dropdown
+    id: defect_class
+    attributes:
+      label: Defect class
+      options:
+        - Incorrect fact or instruction
+        - Missing or incorrect source link
+        - Access status or qualification
+        - Stale current-state claim
+        - URL or source numbering
+        - Other recipe defect
+    validations:
+      required: true
+  - type: input
+    id: observation
+    attributes:
+      label: Observed access status and date
+      description: Say read, partial, snippet-only, refused, private or unknown and YYYY-MM-DD; do not guess.
   - type: input
     id: version
     attributes:

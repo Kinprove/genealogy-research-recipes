@@ -17,6 +17,7 @@ INVENTORY = Path(__file__).with_name("current_fact_source_audit.json")
 SOURCE = re.compile(r"^- \*\*(S\d+):\*\*", re.MULTILINE)
 INSPECTED = re.compile(r"\b(?:checked|opened|read|inspected)(?: on)? (\d{4}-\d{2}-\d{2})\b")
 URL = re.compile(r"https?://[^\s)<>]+")
+CITED_SOURCE = r"S\d+(?:†)?(?: @\d{4}-\d{2}-\d{2})?"
 
 
 def fold(text):
@@ -43,7 +44,7 @@ def check_binding(recipe, sources, claim, expected_sources):
         raise AssertionError(f"claim must identify one paragraph, found {len(paragraphs)}: {claim!r}")
     references = set()
     for citation in re.findall(r"\[([^\]]+)\]", paragraphs[0]):
-        if re.fullmatch(r"S\d+(?:,\s*S\d+)*", citation):
+        if re.fullmatch(CITED_SOURCE + r"(?:,\s*" + CITED_SOURCE + r")*", citation):
             references.update(re.findall(r"S\d+", citation))
     entries = source_entries(sources)
     for source_id in expected_sources:
@@ -70,6 +71,11 @@ class BindingParserTests(unittest.TestCase):
 
     def test_wrapped_claim_and_numbered_source_bind(self):
         check_binding(self.recipe.replace("opens by", "opens\nby"), self.source, self.claim, ["S2"])
+
+    def test_dated_provenance_marker_keeps_the_same_source_binding(self):
+        check_binding(self.recipe.replace('[S2]', '[S2 @2026-11-07]'), self.source, self.claim, ['S2'])
+        with self.assertRaisesRegex(AssertionError, 'paragraph needs'):
+            check_binding(self.recipe.replace('[S2]', '[S2 on 2026-11-07]'), self.source, self.claim, ['S2'])
 
     def test_a_source_cited_only_in_another_paragraph_does_not_bind(self):
         with self.assertRaisesRegex(AssertionError, "paragraph needs"):

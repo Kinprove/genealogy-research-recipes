@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test check.test.js"
+    "test": "node --test check.test.js visible.test.js"
   },
   "devDependencies": {
     "github-slugger": "2.0.0",
