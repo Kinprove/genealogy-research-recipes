@@ -46,9 +46,6 @@ LIMITED_CLAIMS = (
     ("early-new-england-town-records", "**Cut-off:**", (
         r"HSP catalog lead.*1985.*2002.*HTTP 403.*details remain unconfirmed.*\[S14\]",
     )),
-    ("catholic-sacramental-cross-notations", "The papal decree", (
-        r"presenter's exact wording was not confirmed.*\[S2\]",
-    )),
     ("familysearch-practical-record-workflows", "A parent–child link", (
         r"Y2S38-s3tSc.*private when checked on 2026-10-22.*does not verify the parent-link types.*\[S47\]",
     )),
@@ -70,7 +67,7 @@ LIMITED_CLAIMS = (
         r"Search-result catalogue text.*FamilySearch films.*full entries were not read.*confirm.*\[S19\]",
     )),
     ("historical-place-name-resolution", "- For Galicia, take", (
-        r"search-result citation.*1923.*1921.*PDF was not read.*unconfirmed.*\[S41\]",
+        r"2001 county history, partially read, cites.*1925.*1921 \[S41\]\. Check the edition's title page",
     )),
     ("russian-military-repression-record-episodes", "For Western-Ukrainian deportation", (
         r"archives \[H33\].*1995.*search-engine extract.*unread page.*unconfirmed \[H32\]",
@@ -126,9 +123,9 @@ class SourceLimitationTests(unittest.TestCase):
                 for pattern in patterns:
                     self.assertRegex(passage, pattern)
 
-    def test_unconfirmed_presenter_wording_is_not_quoted(self):
+    def test_presenter_wording_is_quoted_from_the_full_captions(self):
         passage = paragraph("recipes", "catholic-sacramental-cross-notations", "The papal decree")
-        self.assertNotIn('"you may begin to see"', passage)
+        self.assertIn('"after Easter 1908, you may begin to see this extra column" with the marriage [S2]', passage)
 
     def test_fond_identity_uses_the_archive_catalogue_that_was_read(self):
         slug = "historical-map-record-recovery"

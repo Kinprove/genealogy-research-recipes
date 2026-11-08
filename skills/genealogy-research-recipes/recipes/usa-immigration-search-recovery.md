@@ -176,7 +176,10 @@ arrival appears, or records mention Canada or Mexico.
 2. Check U.S. border series for the crossing period and traveler category,
    including people whose nationality differs from the neighboring country.[9]
 3. Read the recorded crossing station and destination. The St. Albans district
-   collection name does not establish a crossing at St. Albans, Vermont.
+   collection name does not establish a crossing at St. Albans, Vermont. Open
+   the card's reverse or second page: it can record a medical examination, the
+   admission decision with its reason, and where the person left the United
+   States. Add that exit as its own journey row.[9]
 4. For a double surname, search each component and the combined form; preserve
    the actual image spelling. Tabulate repeated crossings as separate events.[9]
 

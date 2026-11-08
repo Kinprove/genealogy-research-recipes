@@ -48,8 +48,11 @@ measured sharing, inheritance-path eligibility and relationship conclusions.
 1. Establish which WikiTree profile represents the tester. Preserve its ID and the
    documentary identity basis; the signed-in member and kit manager can be different people.
 2. Open that person's DNA Tests page. Read the named person in the page header before
-   selecting an existing test or adding one. Confirm permission to edit both this profile
-   and the test information. [S2, S3] **Privacy checkpoint:** edit permission is not the
+   selecting an existing test or adding one. WikiTree takes a test only for the signed-in
+   member or for a deceased tester whose kit the member manages; a living tester enters
+   their own (2020 tutorial; read the notice on the page) [S3 @2026-11-08]. Confirm
+   permission to edit both this profile and the test information. [S2 @2026-11-08],
+   [S3 @2026-11-08] **Privacy checkpoint:** edit permission is not the
    privacy decision. A registered test feeds DNA Connections lists on related profiles, and a
    GEDmatch kit ID links GEDmatch results to the WikiTree pedigree. Before saving any test,
    identifier, kit ID or the FamilyTreeDNA WikiTree setting in section 2, make the separate
@@ -67,10 +70,11 @@ measured sharing, inheritance-path eligibility and relationship conclusions.
    does not become a dedicated Y-DNA or mtDNA test.
 4. For a transferred test, keep the original testing company and the external uploaded-kit
    association distinct. Add the GEDmatch kit ID in the applicable WikiTree test field;
-   do not describe GEDmatch as the laboratory that performed the original test. [S3]
+   do not describe GEDmatch as the laboratory that performed the original test. [S3 @2026-11-08]
 5. Save, reopen the test entry and check the company, type, identifier and tester again.
    Repeat for a genuinely separate test or provider registration, without counting the
-   same person's repeated registrations as independent evidence. [S2, S4]
+   same person's repeated registrations as independent evidence. [S2 @2026-11-08],
+   [S4 @2026-11-08]
 
 **Artifact:** `tested_person_handle, wikitree_id, manager_handle, permission_reference,
 provider, test_type_and_level, external_kit_reference, username_if_required,

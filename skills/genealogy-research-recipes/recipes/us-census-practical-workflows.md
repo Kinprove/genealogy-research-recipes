@@ -176,7 +176,7 @@ motivates this safeguard; it does not validate a formula or establish a birth da
 
 1. Read the entire entry, including the margin. Transcribe its sheet-and-line reference exactly.
 2. Follow that reference within the same district. Amy Johnson Crow's demonstration follows an entry to sheet 71, line 12, even though the viewer contains only 24 images. The image counter and the printed sheet number use different numbering systems.
-3. If no complete reference is visible, inspect the district's later sheets for the revisit section. The demonstrated revisit numbering begins at sheet 71; inspect printed headings rather than requesting viewer image 71.
+3. If no complete reference is visible, inspect the district's later sheets for the revisit section. The demonstrated revisit numbering begins at sheet 71 even when the regular sheets end near sheet 10; that jump is not a missing-page gap. Read the printed sheet number in the page's upper right corner rather than requesting viewer image 71.
 4. Compare the revisit household's address, names, and other identifiers with the original entry. Save citations to both entries and explain the link.
 5. If an image is blurred, covered, or folded, inspect nearby images for a repeated exposure before recording it as unreadable. Record an access or legibility gap if no usable exposure is found.
 
@@ -278,7 +278,7 @@ supplies the fallback; these alignment checks do not certify a particular origin
 2. For 1940, look for a circled X after a household member's name in column 7 ([Genealogy Gems 1950 preview](https://www.youtube.com/watch?v=87hGRjeZ5o4), [provenance episode](https://www.youtube.com/watch?v=mTyYpO_3uPs), [Episode 260](https://www.youtube.com/watch?v=R3Ds6GLx4es), [Brady](https://www.youtube.com/watch?v=o6d7Z_W_qhg)). The instructions identify that person as the household informant; information from someone outside the household should instead have that person's name in the left margin opposite the household. Preserve the actual mark or note and its locator, and record the marked person, or the written-in outside informant such as a neighbour, as the household informant. If neither is legible or present, leave the informant unknown rather than assume the household head. The mark identifies the informant; it does not establish who supplied every answer or whether they knew each fact firsthand. [S74, H2] It was not always used carefully and does not show whether the answers are accurate. Weigh each answer by what the informant was likely to know. A relationship may reflect the informant's view, such as a widow labelled 'mother' because her daughter answered ([GeneaVlogger](https://www.youtube.com/watch?v=g5aMe7oUW_A)).
 3. For each household member, check whether the line is designated for supplementary questions. Match the person to the supplementary section by its printed line number.
 4. Transcribe each answer with the question it answers. Do not apply a supplementary answer to every person in the household.
-5. Resolve note numbers and written line references. Attach a note to the indicated entry or field. Notes can explain revisions, unusual ages, employment details, or why an entry was struck through.
+5. Resolve note numbers and written line references. A written reference such as “L 24” leaves no mark on the entry; a note number may sit over a caret beside the supplementary line, before a name, or inside the answer it qualifies, such as the age. Attach a note to the indicated entry or field. Notes can explain revisions, a doubted age and who gave it, employment details, visitors with no other residence whose lines belong after an earlier household, or why an entry was struck through, such as a death and its month [S8]. Keep a disputed answer beside the note's alternative.
 6. Keep blanks, unreadable text, questions not asked, and explicit negative answers distinct. Record uncertainty about the note's subject instead of assigning it by proximity.
 
 **Output:** A person-linked extraction containing question, literal answer, sheet/line, supplement or note reference, any identified informant with the mark/note locator, interpretation, and uncertainty.
@@ -296,7 +296,7 @@ civilian service is not military service.
 
 **Example prompt:** “Extract this household, its marked supplementary questions, and every linked note. Preserve the person-to-line mapping and distinguish blank, unreadable, not asked, and explicit no.”
 
-**Method origin:** Genealogy TV demonstrates matching a 1940 person to the bottom section. Amy Johnson Crow demonstrates a 1950 sample-line-4 entry and separately discusses locating and linking enumerator notes. The note transcript is incomplete, so specific biographical details from its examples are not adopted. [S7](https://www.youtube.com/watch?v=JJY4EKK_sVg), [S19](https://www.youtube.com/watch?v=jA10V_GJcio), [S8](https://www.youtube.com/watch?v=ZzrQQz4BIT4)
+**Method origin:** Genealogy TV demonstrates matching a 1940 person to the bottom section. Amy Johnson Crow demonstrates a 1950 sample-line-4 entry and separately discusses locating and linking enumerator notes. The notes video's 1950 examples show a line-number note, footnote numbers beside the supplementary line, before a name and in the age column, and notes on a death, visitors with no other residence and a doubted age. [S7](https://www.youtube.com/watch?v=JJY4EKK_sVg), [S19](https://www.youtube.com/watch?v=jA10V_GJcio), [S8](https://www.youtube.com/watch?v=ZzrQQz4BIT4)
 
 The [MyHeritage census demonstration](https://www.youtube.com/watch?v=4P8sUi-Adno) motivates extracting the 1940 informant mark. [Official paragraph 446](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p1ch2.pdf) specifies both the circled X and the outside informant's margin note; this does not verify the demonstrated household or extend the rule to another census year.
 
@@ -361,9 +361,9 @@ still needs corroboration. [S75, H3, H4]
 
 **Inputs:** Candidate name variants, residence, approximate death period, household information, and the schedule's stated coverage.
 
-1. Establish that mortality schedules survive for the relevant year and locality. Inspect the collection's actual contents, not just its broad title. Investigate archival holdings if online coverage excludes the locality.
+1. Establish that mortality schedules survive for the relevant year and locality. Inspect the collection's actual contents, not just its broad title. If online coverage excludes the locality, investigate archival holdings: schedules returned to a state are usually in its state library, archives or historical society; those the Census Bureau kept went to the DAR Library in Washington, D.C., or the National Archives [S9 @2026-11-08].
 2. Read the schedule's reporting window. In Amy Johnson Crow's 1850 example, it covers 1 June 1849 through 31 May 1850. A September death in that reporting window belongs to 1849.
-3. Search name and locality variants, then compare age, birthplace, occupation, and other recorded details.
+3. Search name and locality variants, then compare age, birthplace, occupation, and other recorded details. The 1880 schedule asks whether the person lived here but died elsewhere, or died here but lived elsewhere; one death can appear on two schedules, so search both localities [S9].
 4. Where a mortality entry supplies a household or family reference, follow it into the corresponding population schedule. Compare the surviving household; do not assume an identical name identifies the deceased.
 5. Preserve literal death month, inferred calendar year, stated reporting window, and identity reasoning separately. Retain any conflict with other death evidence.
 
@@ -379,7 +379,7 @@ a claim to assess, rather than automatically replacing the earlier answer. [S78]
 
 **Example prompt:** “Interpret this mortality entry using its stated reporting window. Separate literal month from inferred year, follow any household reference, and evaluate the identity without relying on name alone.”
 
-**Method origin:** Amy Johnson Crow demonstrates the reporting-window calculation, household-number correlation, and checking state coverage before searching. [S9](https://www.youtube.com/watch?v=sZ1kgZLY1V0)
+**Method origin:** Amy Johnson Crow demonstrates the reporting-window calculation, household-number correlation, and checking state coverage before searching, and explains the 1880 died-elsewhere questions and where the schedules ended up. [S9](https://www.youtube.com/watch?v=sZ1kgZLY1V0)
 
 ## 9. Track a formerly enslaved family through changing surnames
 
@@ -422,6 +422,8 @@ excludes the video's property-value heuristic and assumed residence continuity. 
 
 1. Check survival and actual coverage of agricultural schedules for the year and locality.
    Search supported name variants and inspect the image, including ambiguous indexed initials.
+   A 1950 population entry's agriculture questionnaire number points to a questionnaire destroyed
+   as a temporary record; record the number literally and do not request the questionnaire.
 2. Compare the named operator and locality with the population candidate. Record the identifying
    evidence and conflicts; a similar name or position in the list leaves the link unresolved.
 3. Read the printed headings and follow the entry across continuation pages using the printed
@@ -436,3 +438,6 @@ link basis, continuation references, literal quantities/units and remaining land
 **Method origin:** [BYU's population-to-agricultural example](https://www.youtube.com/watch?v=CXe0BbBtKME)
 demonstrates an indexed-initial error, a second-page line reference and a deed-search lead.
 Its examples do not establish universal year coverage or independently verify ownership.
+
+Amy Johnson Crow explains that the 1950 agriculture questionnaires were destroyed as temporary
+records. [S18](https://www.youtube.com/watch?v=4p_afzX34Uk)
