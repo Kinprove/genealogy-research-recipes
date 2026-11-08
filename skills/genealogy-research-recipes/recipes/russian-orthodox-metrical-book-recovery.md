@@ -8,7 +8,7 @@ triggers: ["Locate and read a Russian Orthodox metrical entry through the period
 privacy: "none"
 gates: []
 guardrails: [{"id": "RUSSIAN-ORTHODOX-METRICAL-BOOK-RECOVERY-01", "text": "margin decrees are separate dated events, and names and patronymics are hypotheses, not proof of descent."}]
-handoff: ["bessarabia-moldova-record-routing", "catholic-parish-diocesan-record-recovery", "corpus-seeded-name-search", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing"]
+handoff: ["bessarabia-moldova-record-routing", "catholic-parish-diocesan-record-recovery", "corpus-seeded-name-search", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "russian-orthodox-confession-list-reading"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
@@ -145,7 +145,7 @@ A participant gave this search order: [S1]
 1. The bride's parish, then the groom's.
 2. The parish where the first child was baptised. The participant said couples usually married there.
 3. Work back about seven years from the first birth, in the churches nearest the residence.
-4. The confession lists of those churches for the likely years.
+4. The confession lists of those churches for the likely years, read as in [reading confession lists](russian-orthodox-confession-list-reading.md#4-compare-the-household-across-several-lists).
 5. Officials' personal service files, which can record a marriage.
 6. A repeat marriage certificate issued in the Soviet period, for example for an inheritance or a property sale.
 
@@ -157,7 +157,7 @@ A participant gave this search order: [S1]
 **If the bride's maiden name is unknown:**
 
 - **Eliminate candidates.** A participant suggested listing every woman with the same given name, patronymic and age in the nearest revision list. Then read the births and deaths parts of the metrical books for those years. Follow each candidate forward and drop those who are accounted for. [S11]
-- **Read confession lists by household.** Another participant found a bride this way in her home village, then confirmed her through a copy of her birth certificate held by a relative. [S11]
+- **Read confession lists by household.** For finding a bride in her home village and for what confirms the result, use [reading confession lists, step 5](russian-orthodox-confession-list-reading.md#5-check-the-household-against-revision-lists-and-metrical-books).
 - **Search godmother entries.** Look for the bride's name among godmothers in the months before the likely marriage. A participant found brides acting as godmothers shortly before they married. [S11]
 
 ## 7. Read the formulae literally first

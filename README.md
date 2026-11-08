@@ -231,6 +231,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [russian-estate-registration-status](skills/genealogy-research-recipes/recipes/russian-estate-registration-status.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-imperial-service-record-recovery](skills/genealogy-research-recipes/recipes/russian-imperial-service-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-military-repression-record-episodes](skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md) | record catalogues and original images | — | — | request | — | required |
+| [russian-orthodox-confession-list-reading](skills/genealogy-research-recipes/recipes/russian-orthodox-confession-list-reading.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-orthodox-metrical-book-recovery](skills/genealogy-research-recipes/recipes/russian-orthodox-metrical-book-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-revision-list-household-chaining](skills/genealogy-research-recipes/recipes/russian-revision-list-household-chaining.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-volost-town-administration-records](skills/genealogy-research-recipes/recipes/russian-volost-town-administration-records.md) | record catalogues and original images | — | — | — | — | — |

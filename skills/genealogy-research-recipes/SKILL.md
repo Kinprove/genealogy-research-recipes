@@ -877,6 +877,10 @@ A dated source check is a maintenance reminder, not verification of every claim 
   Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are
   lost.
 
+- **`recipes/russian-orthodox-confession-list-reading.md`** — Read Russian Orthodox confession lists household by household across years.
+  Read Russian Orthodox confession lists by household across years, test ages and names, and check
+  them against revision lists and metrical books.
+
 - **`recipes/chechen-ingush-1944-deportation-records.md`** — Trace a Chechen or Ingush family through the 1944 deportation and special settlement.
   Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both
   names of renamed places and both ends of the exile.
