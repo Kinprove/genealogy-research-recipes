@@ -107,10 +107,10 @@ For an emigrant who settled in Mandatory Palestine, look for a British Mandate n
 (citizenship) application. A 2023 MyHeritage Wiki article reports that the Israel State Archives
 holds more than 60,000 of them, has scanned them all onto its website and fully indexed many, that
 the collection is incomplete, and that many forms were also filled in Hebrew [H16 @2026-11-08]; a
-2017 Times of Israel report dates the applications 1937–1947 [H17 @2026-11-08]. Its online
-catalogue refused an automated fetch with HTTP 403 [H18† @2026-11-08]: open it in the user's
-browser, and search Hebrew-script as well as Latin-script name forms before
-reading a miss as a negative.
+2017 Times of Israel report dates the applications 1937–1947 [H17 @2026-11-08]. The Israel State
+Archives' online catalogue refused an automated fetch with HTTP 403 [H18† @2026-11-08]: open it in
+the user's browser, and search Hebrew-script as well as Latin-script name forms before reading a
+miss as a negative.
 
 Make one chronology row per reported or documented movement. Preserve every reported immigration
 year with its source, then identify the interval supported by the dated appearances. Keep conflicting

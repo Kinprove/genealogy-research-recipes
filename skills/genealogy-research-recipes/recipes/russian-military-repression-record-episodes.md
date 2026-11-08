@@ -103,24 +103,23 @@ covers about 23,000 people who died in Finland during the Second World War: pris
 people who died in civilian camps. [H62 @2026-11-08] It lists deaths only, so a miss says nothing
 about a prisoner who survived and was handed back.
 
-For a civilian killed, or held in a camp, ghetto or other place of forced detention, on
-German-occupied Soviet territory, search the records of the Extraordinary State Commission (ЧГК).
+For a civilian killed on German-occupied Soviet territory, or held there in a camp, ghetto or
+other place of forced detention, search the records of the Extraordinary State Commission (ЧГК).
 Its central fond is GARF f. R-7021, arranged by republic and oblast, and EHRI's description lists
 victim name lists among its contents [H63 @2026-11-08]; Yad Vashem holds copies of its material
 relating to Jews as collection M.33 [H64 @2026-11-08]. Also check regional archives' inventories
 for oblast and district commission files. Do not expect a name list for every locality: an act can
-give only totals.
+give only totals. Treat a published document volume, such as the six Belarusian oblast volumes of
+«Без срока давности» [H66 @2026-11-08], as a selection: record each document's archival cipher,
+and do not read absence from the book as absence from the commission's lists. A list copied from a
+ЧГК act, including a copy in another archive's collection, is that act reached again, not a second
+source.
 
 For a camp or detention place, start from Rosarkhiv's reference to where documents on Nazi camps,
 ghettos and other places of forced detention are kept. Its camp lists for occupied Soviet territory,
 by republic and region, give the kinds of surviving documents and the archive holding them; the
 text, as reproduced on tkrfkod.ru, carries amendments of 1 January 1997, so confirm each holder's
-present name and custody.
-[H65 @2026-11-08] Treat a published document volume, such as the six Belarusian oblast volumes of
-«Без срока давности» [H66 @2026-11-08], as a selection: record each document's archival cipher, and
-do not read absence from the book as absence from the commission's lists. A list copied from a ЧГК
-act, including a copy in another archive's collection, is that act reached again, not a second
-source.
+present name and custody. [H65 @2026-11-08]
 
 For a repression lead, record each list's or database's stated inclusion rule and geography
 before reading a miss. Posters in a [repression-databases discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=558)
@@ -147,10 +146,10 @@ databases although the conviction happened.
 
 To learn whether there was a conviction, use the information-centre request in step 2 of
 [Recover the next document before combining the biography](#recover-the-next-document-before-combining-the-biography),
-under that step's privacy gate. According to Meduza's 2018 report of an interior-ministry reply,
-cards of people convicted in the Soviet period stay in the paper card index permanently for state
-crimes, rehabilitated people included, while other cards are removed from it and kept in electronic
-form. [H72 @2026-11-08]
+under that step's privacy gate: a non-political conviction record of a person who may be living needs the same care as
+a repression file. According to Meduza's 2018 report of an interior-ministry reply, cards of people convicted of state
+crimes in the Soviet period, rehabilitated people included, stay permanently in the paper card index, while other
+cards are removed from it and kept in electronic form. [H72 @2026-11-08]
 
 Memorial's database «Жертвы политического террора в СССР» (base.memo.ru; its last published
 version dates from December 2017) and the Stalin execution lists (stalin.memo.ru) were offline on

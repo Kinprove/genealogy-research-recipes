@@ -166,7 +166,7 @@ These portals concern living families. A Бессмертный полк page na
 
 ## Search auction and marketplace lots
 
-Old photographs are also sold through online auctions and second-hand marketplaces: a 2022 price study built its sample of 100 artistic, historical and scientific photographs from those put up for sale at the Violity auction [S30]. Log each such site as one more surface, covering completed sales as well as open lots, and run the place, studio and surname terms used on the repository surfaces. A seller's description is a claim to trace, like a donor's identification; record the lot number and page address as the item locator. If a lot includes papers of people who may be living, note only what the question needs.
+Old photographs are also sold through online auctions and second-hand marketplaces: a 2022 commodity-evaluation study built its sample of 100 artistic, historical and scientific photographs from those put up for sale at the Violity auction [S30]. Log each such site as one more surface, covering completed sales as well as open lots, and run the place, studio and surname terms used on the repository surfaces. A seller's description is a claim to test against other evidence, like a donor's identification; record the lot number and page address as the item locator. If a lot includes papers of people who may be living, note only what the question needs.
 
 On Meshok, checked 2026-11-08, keyword search matches lot titles only, so also browse its catalogue categories; a separate option searches successfully completed lots [S31 @2026-11-08] [S32 @2026-11-08].
 

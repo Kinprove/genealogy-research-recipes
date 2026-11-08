@@ -84,11 +84,10 @@ For Cyrillic or other non-ASCII names in a local database, match on case-folded 
 both the query and the stored text, for example with Python's `str.casefold()`, which its
 documentation offers for caseless matching, and keep the source spelling unchanged. [S30] SQLite's
 `NOCASE` collation folds only ASCII letters, and by default its built-in `lower()`, `upper()` and
-`LIKE` also handle case only for ASCII; its documentation names the ICU extension for
-Unicode-aware `lower()` and `LIKE`, so a miss from these is not a negative. [S27, S28, S29] Also
-check each name for letters from a second script: Unicode's confusables data lists Cyrillic а, е,
-о, р, с and х as look-alikes of Latin a, e, o, p, c and x. [S31] Search each script form as a
-separate lane without rewriting the record.
+`LIKE` also handle case only for ASCII, so a miss from these is not a negative; its documentation
+names the ICU extension for Unicode-aware `lower()` and `LIKE`. [S27, S28, S29] Also check each
+name for letters from a second script: Unicode's confusables data lists Cyrillic а, е, о, р, с and
+х as look-alikes of Latin a, e, o, p, c and x. [S31] Search each script form as a separate lane.
 
 Pre-1918 Russian text needs a pre-reform spelling lane. OCR of pre-reform print and HTR
 (handwriting recognition) of manuscripts can keep the old letters, so a query in modern spelling
@@ -131,7 +130,7 @@ Armenian Spiritual Board and checked against Russian-language records and Vagank
 cemetery epitaphs. It reports two kinds of pair: a Russian equivalent, as Akob/Yakov (Акоб/Яков)
 and Ovanes/Ivan (Ованес/Иван), and a similar-sounding name, as Arutyun/Artemy (Арутюн/Артемий)
 and Mkrtych/Nikita (Мкртыч/Никита). [S26] Search each form as a separate lane; the pairs were
-observed in one community, and a matching pair links name forms, not people.
+observed in one community.
 
 Grammatical endings need their own lanes. In German-language registers, a woman's surname may
 carry a feminine -in suffix that is not part of the family name. When such a name is hard to read,

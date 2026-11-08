@@ -143,10 +143,10 @@ is not a negative.
 
 On a Soviet WWII mass grave (братская могила), a name on the plate may belong to a soldier buried
 elsewhere. A press report from Karelia describes a plate cut in 1965 from a military
-commissariat's unchecked list of the dead [P94], and a Kaliningrad researcher interviewed in the
-press describes names moved without the remains when mass graves were consolidated [P93]. Under a
-2023 Ministry of Defence letter, a soldier wrongly counted at a second burial is removed from its
-list but his name normally stays on its plate. [P92] A user-contributed photograph of a plate, for
+commissariat's unchecked list of the dead. [P94] A Kaliningrad researcher interviewed in the press
+describes names moved without the remains when mass graves were consolidated. [P93] Under a 2023
+Ministry of Defence letter, a soldier wrongly counted at a second burial is removed from its list
+but his name normally stays on its plate. [P92] A user-contributed photograph of a plate, for
 example on «Место памяти», shows only what is inscribed: record the contributor, date and page
 locator. [P95]
 

@@ -150,7 +150,7 @@ Gather these before searching:
 
 ## 7. Search notarial acts by fond, office and year
 
-- **Search ANA fond 36 for imperial-era property acts in the Chișinău court district.** It is the senior notary of the Chișinău district court of Bessarabia guberniya (Notarul superior al judecătoriei districtului Chișinău); its ANA page dates it 1870–1917 and links inventories 1–13, with op. 5 in two parts [S26 @2026-11-08]. ANA's guide to its fonds (Îndrumător) dates the files 1870–1911 and lists real-estate sales, gifts, mortgage files, powers of attorney and an alphabetical index of the notarial archive [S27 @2026-11-08]. Record both date ranges until the inventory shows which years survive.
+- **Search ANA fond 36 for imperial-era property acts in the Chișinău court district.** It is the senior notary of the Chișinău district court of Bessarabia guberniya (Notarul superior al judecătoriei districtului Chișinău); its ANA page dates it 1870–1917 and links inventories 1–13, with inventory 5 in two parts [S26 @2026-11-08]. ANA's guide to its fonds (Îndrumător) dates the files 1870–1911 and lists real-estate sales, gifts, mortgage files, powers of attorney and an alphabetical index of the notarial archive [S27 @2026-11-08]. Record both date ranges until the inventory shows which years survive.
 
 - **For a private notary of 1869–1940, choose the inventory by place and notary.** Fond 1437 holds the private notarial offices of Bessarabia (Birourile notariale private din Basarabia), 1869–1940, with inventories 1–142 [S28 @2026-11-08]. ANA's guide arranges them by town and county, gives each notary's years and inventory number, and says the offices drew up wills and certified copies of personal documents [S27 @2026-11-08]. It gives inventory 57 to the Chișinău notary N. Epure, active 1918–1940, with files for 1919–1939 only, so take the years to search from the inventory, not from the notary's years in office [S27 @2026-11-08].
 
@@ -160,7 +160,7 @@ Gather these before searching:
 
 - **Search the Arcanum newspaper database for notices naming the family, and read every hit on the page image before citing it.** On 21 July 2026 the Arcanum database made available another 450,000 pages from ANA's newspaper collections, covering 1874–2010, among them Бессарабские губернские ведомости (1874–1917), Cuvânt Moldovenesc (1914–1944), Moldova Suverană (1990–2010) and Независимая Молдова (1994–2010) [S31 @2026-11-08]. ANA says they can be read free only in its reading room in Chișinău [S31 @2026-11-08]. An earlier ANA notice offers Советская Молдавия for 1953–1991 free in the same reading room [S32 @2026-11-08].
 
-- **Search Moldova Socialistă with Cyrillic lanes.** The Library of Congress guide to its Romanian newspapers lists this party paper as printed in Cyrillic letters and available in the Arcanum database for 1967–1989 [S33 @2026-11-08]. Search it with the Soviet Moldovan Cyrillic forms from step 6, not only with Latin Romanian forms.
+- **Search Moldova Socialistă with the Soviet Moldovan Cyrillic forms from step 6, not only with Latin Romanian forms.** The Library of Congress guide to its Romanian newspapers lists this party paper as printed in Cyrillic letters and available in the Arcanum database for 1967–1989 [S33 @2026-11-08].
 
 ## Close with a routing packet
 
