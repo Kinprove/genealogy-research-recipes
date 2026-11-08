@@ -227,9 +227,10 @@ action. Continue to separate personal statements from unit context in the timeli
 
 The presenters describe outbound and returning Army transport passenger lists [S14], [S22]. The [Ancestry database 61174 link](https://search.ancestry.com/search/db.aspx?dbid=61174) is a collection lead: its fetch returned HTTP 403, so the reported RG 92 attribution and 1910–1939 coverage were not confirmed from the collection description [H12]. Check that description before choosing the collection, then search both directions:
 
+- Treat a 1930 census veteran answer as a lead either way: search the transport lists even when the answer is "no" [S22].
 - Record the vessel, dates, service number, company/regiment and named nearest relative with the stated relationship [S14].
-- Follow ditto marks to earlier or later pages to read the unit [S22].
-- Compare the relative and address with the census household before attributing a letter, postcard or identity [S14].
+- Follow ditto marks up to the top of the page, or back to earlier pages, to read the unit [S22].
+- Compare the relative and address with the census household and city directories before attributing a letter, postcard or identity [S14], [S22].
 
 Unit histories, unit reports and veterans' associations supply context. One example is a group that sent books and pointers to repositories holding diaries and photographs [S17]. Another is a hospital unit's periodic reports [S19].
 

@@ -99,7 +99,7 @@ Look for a record that names the enslaver before you guess one from a surname.
 
 ## 3. Generate and eliminate candidate enslavers
 
-- **Collect candidates.** Draw them from the 1870 household (older generations living there), neighbors, shared given names between Black and white families, slave schedules and county slaveholder lists [S10], [S13].
+- **Collect candidates.** Draw them from the 1870 household (older generations living there), neighbors, shared given names between Black and white families, slave schedules and county slaveholder lists [S10], [S13]. Read the children's middle names too: in one presenter's family, the parents gave their children the names of both former owners as middle names [S18].
 - **Place the man in 1867.** Where the state registered voters in 1867, look for him in those registers, two or three years before the 1870 census. In one Georgia example, the Returns of Qualified Voters and Reconstruction Oath Books, 1867–1869, placed a freedman in Decatur County, election district 8, while his recorded birthplace and his later tax records were in Thomas County [S33]. Draw candidates from the 1867 county as well as the county of the later records.
 - **Rank by schedule entries.** For a surname shared by several owners, compare each owner's 1850/1860 slave-schedule entries. Look for an enslaved person of the expected age and sex, and investigate the owners with a fit first [S18]. An owner with no fitting entry moves down the ranking but is not excluded: schedule ages may be estimates, so keep the mismatch unresolved unless independent evidence excludes that owner. Record the mismatch and its year in the candidate register.
 - **Keep the surname as a set of hypotheses.** Possible explanations:
@@ -127,6 +127,7 @@ Enslaved people appear in records of the enslaver's personal property: sale noti
   5. a 1786 will.
 
   The presenter labels much of the resulting tree a hypothesis [S15].
+- **Search every place the enslaver lived.** Trace the candidate's own moves and search bills of sale and probate in every county and state where he lived. Enslaved people could reach him by bequest from a relative in another state, or move to another state with a widow after her husband's death [S18].
 - **Full Text Search.** Put the enslaver's name in quotes in the name field. Add the given name and status keywords using the + prefix for required terms, then filter by place. Quoted phrases, + for required terms and place filters are documented tool behavior. The presenter's grouped form +(negro slave), which she says matches either word, comes only from her demonstration [S2]. Test it, and if it fails, run separate +negro and +slave searches. Also try +emancipate [S2].
   - Also search under the plantation, overseer and executor names [S3], [S6].
   - AI transcripts can drop commas between names, so read the original image [S6].

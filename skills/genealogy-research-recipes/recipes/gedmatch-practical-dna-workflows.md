@@ -167,8 +167,9 @@ known-relative control has a saved result. Record unavailable controls explicitl
 3. Record every reported segment: kit pair, chromosome, start/end, cM and SNP count, with its
    run ID. Keep X comparisons in separately labeled rows.
 4. When reports disagree, first verify the kit pair, exact tool/algorithm label, build, thresholds,
-   match-list scope and readiness. Re-run with comparable exposed controls; retain both original
-   reports. Do not lower the threshold simply to recover a desired match.
+   segment-splitting options (hard-break prevention, mismatch bunching), match-list scope and
+   readiness. Re-run with comparable exposed controls; retain both original reports. Do not lower
+   the threshold simply to recover a desired match.
 
 Before following a candidate, read the focal kit's whole match-list profile. When a kit returns
 many rows with large shared totals whose longest segments stay small, open several of its top
@@ -269,7 +270,9 @@ its follow-up result or explicit access limitation. Do not call a bounded search
 ### 5. Freeze a tag group before Multiple Kit Analysis
 
 1. Create a tag group for a specific comparison question, or select a fixed kit subset from a
-   result table. Record the exact roster; a color or group name alone does not preserve it. [S4]
+   result table. Record the exact roster in its displayed order and mark its first kit: several
+   group tools compare every kit only to that first kit, while others compare all pairs. A color
+   or group name alone does not preserve the roster. [S4, H7]
 2. Open Multiple Kit Analysis for that roster. Capture the autosomal matrix and, for
    cross-source comparisons, the SNP-overlap matrix. These report shared-DNA amounts and
    common assayed-marker counts respectively; neither replaces chromosome-level pair results.
@@ -341,8 +344,10 @@ validate the phased data.
    that child's children inherited from the target; grandchildren help cover a branch whose
    relevant parent is unavailable. Log every input's branch and any additional relationship. [H8]
 3. Run the trial mode first, when offered. Save inputs, sex/X setting, thresholds, processing
-   choice and coverage report. Revise one input or setting at a time and preserve each run.
-   Coverage describes reconstruction output, not its accuracy. [H8]
+   choice and coverage report, and save every result table when it is generated: the demonstrated
+   tool did not show them again. Revise one input or setting at a time, starting each revision
+   from the downloadable input file when offered, and preserve each run. Coverage describes
+   reconstruction output, not its accuracy. [H8]
 4. Use a tested target, when available for a control experiment, or reserve a documented relative
    outside the construction inputs for comparison. Record what that control can check; sharing
    a segment with one held-out relative does not validate the whole kit. Without a control,
