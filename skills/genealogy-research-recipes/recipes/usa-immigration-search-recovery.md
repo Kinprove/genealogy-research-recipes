@@ -174,14 +174,14 @@ arrival appears, or records mention Canada or Mexico.
 1. Search the possible arrival into the neighboring country separately from
    the subsequent U.S. land entry. Do not force both events into one year.
 2. Check U.S. border series for the crossing period and traveler category,
-   including people whose nationality differs from the neighboring country.[9]
+   including people whose nationality differs from the neighboring country.[N9]
 3. Read the recorded crossing station and destination. The St. Albans district
-   collection name does not establish a crossing at St. Albans, Vermont. Open
+   collection name does not establish a crossing at St. Albans, Vermont.[N40] Open
    the card's reverse or second page: it can record a medical examination, the
    admission decision with its reason, and where the person left the United
-   States. Add that exit as its own journey row.[9]
+   States. Add that exit as its own journey row.[N9]
 4. For a double surname, search each component and the combined form; preserve
-   the actual image spelling. Tabulate repeated crossings as separate events.[9]
+   the actual image spelling. Tabulate repeated crossings as separate events.[N9]
 
 **Output:** a linked route with documented and missing legs. **Check:** each leg
 has its own locator; an unavailable early series is a coverage gap.
