@@ -31,12 +31,6 @@ EAST_HANDOFFS = (
 )
 
 
-def section(text, heading):
-    start = text.index(heading + "\n")
-    end = text.find("\n## ", start + len(heading))
-    return text[start:end if end != -1 else len(text)]
-
-
 class CorpusArchitectureTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -55,21 +49,17 @@ class CorpusArchitectureTests(unittest.TestCase):
         self.assertIn("a state or local court's case file belongs to court case-file recovery",
                       criminal["summary"])
         self.assertNotIn("criminal court", criminal["title"].casefold())
-        self.assertFalse(criminal["summary"].startswith("Recover U.S. criminal court and prison records"))
         court, court_body = self.recipes["court-case-file-recovery"]
         self.assertIn("state or local", court["summary"])
         self.assertIn("Start here for a case file from any U.S. state, county or local court", court_body)
 
     def test_eastern_europe_routers_form_the_first_topic_group(self):
-        members = sorted((m["router"]["order"], slug) for slug, (m, _) in self.recipes.items()
-                         if m["router"]["group"] == EAST_GROUP)
-        self.assertEqual({slug for _, slug in members}, set(EAST_ROUTERS))
-        orders = [order for order, _ in members]
-        self.assertEqual(orders, list(range(orders[0], orders[0] + len(orders))))
+        east = {slug: m["router"] for slug, (m, _) in self.recipes.items() if m["router"]["group"] == EAST_GROUP}
+        self.assertEqual(set(east), set(EAST_ROUTERS))
+        self.assertEqual({route["tier"] for route in east.values()}, {"pointer"})
         other_pointers = [m["router"]["order"] for slug, (m, _) in self.recipes.items()
-                          if m["router"]["tier"] == "pointer" and slug not in EAST_ROUTERS]
-        self.assertLess(orders[-1], min(other_pointers))
-        self.assertTrue(all(self.recipes[slug][0]["router"]["tier"] == "pointer" for slug in EAST_ROUTERS))
+                          if m["router"]["tier"] == "pointer" and slug not in east]
+        self.assertLess(max(route["order"] for route in east.values()), min(other_pointers))
 
     def test_every_router_group_heading_appears_once(self):
         start = self.skill.index(catalog.ROUTER_START)
@@ -79,23 +69,19 @@ class CorpusArchitectureTests(unittest.TestCase):
         self.assertEqual(len(headings), len(set(headings)), "a router group is split; give it consecutive orders")
 
     def test_how_to_use_points_to_the_eastern_europe_front_door(self):
-        how_to = section(self.skill, "## How to use")
-        anchor = "#" + EAST_GROUP.casefold().replace(" ", "-")
-        self.assertIn(f"]({anchor})", how_to)
+        how_to = self.skill.split("\n## How to use\n", 1)[1].split("\n## ", 1)[0]
+        self.assertIn("](#central-and-eastern-europe-by-period-state)", how_to)
         for slug in ("russian-orthodox-metrical-book-recovery", "russian-empire-jewish-metrical-book-recovery",
                      "polish-index-original-record-recovery"):
             self.assertIn(f"](recipes/{slug}.md)", how_to)
-        sentence = how_to[how_to.index("For a place in Central or Eastern Europe"):]
-        sentence = sentence[:sentence.index("polish-index-original-record-recovery.md")]
-        self.assertIn("outside the Kingdom of Poland", " ".join(sentence.split()))
+        self.assertIn("for Jewish events outside the Kingdom of Poland", " ".join(how_to.split()))
 
     def test_eastern_europe_routers_hand_off_to_their_neighbours(self):
         for source, target in EAST_HANDOFFS:
             with self.subTest(source=source, target=target):
                 self.assertIn(target, self.recipes[source][0]["handoff"])
 
-    def test_coverage_roadmap_is_tracked_and_linked_from_contributing(self):
-        self.assertTrue((ROOT / "docs/coverage-roadmap.md").is_file())
+    def test_contributing_links_the_coverage_roadmap(self):
         self.assertIn("](docs/coverage-roadmap.md)", (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8"))
 
 

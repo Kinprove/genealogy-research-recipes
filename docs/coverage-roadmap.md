@@ -1,7 +1,7 @@
 # Coverage roadmap
 
 This list records record areas that the catalog does not cover yet, so that new recipes can be
-chosen from it rather than one at a time. It came out of
+chosen from a measured list rather than ad hoc. It came out of
 [issue 101](https://github.com/Kinprove/genealogy-research-recipes/issues/101). Rows are in the
 demand order proposed there. A row is a plan, not a promise of a release.
 
@@ -33,7 +33,7 @@ covered only where a recipe gives a search route for it.
 
 ## Covered now
 
-These areas were in issue 101's list and now have recipes:
+These areas were in issue 101's list and now have a search route in a recipe:
 
 - Italian civil and parish records, including Antenati:
   [Italian Stato civile and parish records](../skills/genealogy-research-recipes/recipes/italian-stato-civile-parish-record-recovery.md).

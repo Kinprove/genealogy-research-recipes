@@ -22,8 +22,7 @@ Use this recipe when a U.S. civil, chancery, divorce, criminal or incapacity pro
 For federal jurisdiction, record groups and NARA custody, use
 [U.S. federal court case-file recovery](us-federal-court-case-file-recovery.md).
 
-Start here for a case file from any U.S. state, county or local court, criminal cases included:
-classify the proceeding, collect its pointer records, request the loose papers and inventory them.
+Start here for a case file from any U.S. state, county or local court, criminal cases included.
 When the lead is an arrest, a prison or a census institution entry and you still need to find which
 court tried the case, or when you need the prison, inmate, clemency or pardon records that follow a
 sentence, use [criminal court and prison records](criminal-court-prison-record-recovery.md), then

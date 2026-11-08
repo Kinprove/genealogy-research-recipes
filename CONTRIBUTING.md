@@ -56,7 +56,7 @@ from your inference, and keep dates, access limits and uncertainty visible. Upda
 the corresponding `sources/<slug>.md` when its evidence or attribution changes.
 
 Before proposing a new recipe, check the [coverage roadmap](docs/coverage-roadmap.md).
-A recipe for a listed area moves that row to "Covered now" in the same pull request.
+A pull request that adds a recipe for a listed area also moves that row to "Covered now".
 
 Follow [MAINTAINERS.md](MAINTAINERS.md) for recipe headers, source-check dates,
 source/claim ledgers, new-recipe exports and privacy declarations. Give provenance

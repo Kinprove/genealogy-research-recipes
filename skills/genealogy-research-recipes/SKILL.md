@@ -59,13 +59,14 @@ today's date. Do not check for a newer version over the network yourself.
    save the source list and research workflow for the reply. "Came from Russia" alone
    does not establish a modern country, community or destination record system.
    For a place in Central or Eastern Europe, choose by the state that held it on the event
-   date and by the family's religion, not by today's border: start with the
+   date and by the family's religion, not by today's border. Start with the
    [Central and Eastern Europe by period state](#central-and-eastern-europe-by-period-state)
-   routers; elsewhere in the Russian Empire use the
+   routers. Elsewhere in the Russian Empire, use the
    [Orthodox metrical-book recipe](recipes/russian-orthodox-metrical-book-recovery.md) for
-   Orthodox events and the [Jewish one](recipes/russian-empire-jewish-metrical-book-recovery.md)
-   for Jewish events outside the Kingdom of Poland, which it does not cover; for the Kingdom
-   of Poland and for any Geneteka, Metryki or Szukaj w Archiwach hit, use
+   Orthodox events and the
+   [Jewish metrical-book recipe](recipes/russian-empire-jewish-metrical-book-recovery.md)
+   for Jewish events outside the Kingdom of Poland. For the Kingdom of Poland, and for any
+   Geneteka, Metryki or Szukaj w Archiwach hit, use
    [Polish index recovery](recipes/polish-index-original-record-recovery.md).
    For a general question about proof or research method, give a conditional method
    plan and ask for the context needed to choose actual record collections.
@@ -911,9 +912,9 @@ A dated source check is a maintenance reminder, not verification of every claim 
 - **`recipes/criminal-court-prison-record-recovery.md`** — Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes.
   From an arrest, prison or census-institution lead, find the court that tried the case and recover
   U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to
-  court case-file recovery, a federal one to federal court recovery. Specific England/Wales
-  no-fixed-abode and Swedish prison, police-gazette and court-copy routes cover those retrieval
-  problems.
+  court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish
+  sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy
+  searches.
 
 - **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act and its petition.
   Recover a state legislative private act, such as a legitimation, name change, divorce or pension,

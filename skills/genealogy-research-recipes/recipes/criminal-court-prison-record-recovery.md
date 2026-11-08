@@ -1,9 +1,9 @@
 ---
 id: "criminal-court-prison-record-recovery"
 title: "Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes"
-summary: "From an arrest, prison or census-institution lead, find the court that tried the case and recover U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to court case-file recovery, a federal one to federal court recovery. Specific England/Wales no-fixed-abode and Swedish prison, police-gazette and court-copy routes cover those retrieval problems."
+summary: "From an arrest, prison or census-institution lead, find the court that tried the case and recover U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy searches."
 kind: "records"
-scope: {"platforms": [], "tasks": ["From an arrest, prison or census-institution lead, find the court that tried the case and recover U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to court case-file recovery, a federal one to federal court recovery. Specific England/Wales no-fixed-abode and Swedish prison, police-gazette and court-copy routes cover those retrieval problems."]}
+scope: {"platforms": [], "tasks": ["From an arrest, prison or census-institution lead, find the court that tried the case and recover U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy searches."]}
 triggers: ["suspected arrest, trial or imprisonment", "find the court that tried an imprisoned ancestor", "Sing Sing name indexes", "state clemency and federal pardon files", "England/Wales no-fixed-abode records", "Swedish prison rolls, police gazette and court copies"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
@@ -21,12 +21,12 @@ Use this recipe when an ancestor disappears from records and you suspect arrest,
 
 The detailed jurisdiction, inmate-file and request routes below are **U.S. routes**; the
 England/Wales and Swedish sections cover the specific retrieval problems they name, not all
-British or European criminal records. For U.S. federal court case files, use
+British or European criminal records. This recipe finds which court tried the case and recovers
+the prison, inmate, clemency and pardon records. For a state or local court's case file itself (its
+pointer records, loose papers and stage-by-stage inventory), use
+[court case-file recovery](court-case-file-recovery.md); for U.S. federal court case files, use
 [U.S. federal court recovery](us-federal-court-case-file-recovery.md). For a British conviction
 followed by overseas transportation, use [the convict transportation chain](convict-transportation-record-chain.md).
-For a state or local court's case file itself (its pointer records, loose papers and
-stage-by-stage inventory), use [court case-file recovery](court-case-file-recovery.md); this recipe
-finds which court tried the case and recovers the prison, inmate, clemency and pardon records.
 
 ## Contents
 
