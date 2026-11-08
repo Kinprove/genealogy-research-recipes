@@ -25,7 +25,7 @@ Use this recipe when you have an Irish civil-registration index entry, or a town
 - mixing civil-parish and Catholic-parish units
 - requesting registers that were lost in 1922
 
-To select a Catholic parish and open its register images, use [Irish Catholic parish image recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/irish-catholic-parish-image-recovery.md). For the general warning that a district or union is not the town of the same name, see [FamilySearch practical workflows § 1](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md). For identity rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+To select a Catholic parish and open its register images, use [Irish Catholic parish image recovery](irish-catholic-parish-image-recovery.md). For the general warning that a district or union is not the town of the same name, see [FamilySearch practical workflows § 1](familysearch-practical-record-workflows.md). For identity rulings, use [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## 1. Build the jurisdiction table before searching
 

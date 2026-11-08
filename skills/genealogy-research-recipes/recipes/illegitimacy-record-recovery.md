@@ -17,7 +17,7 @@ router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institut
 
 # Recover records of a birth outside marriage
 
-Use this recipe when a child may have been born outside marriage and you need the records that such a birth could create in that jurisdiction: county bastardy bonds, criminal-court fornication and bastardy proceedings, support orders, grand-jury presentments, church discipline or baptism entries, and church-court suits. It covers which records to search and how to record what they say. It does not decide parentage. For the "never legally married" hypothesis and the warning that a woman's recorded surname may not be her maiden name, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). The same recipe covers keeping terms such as "natural child" and "reputed father" in their original wording.
+Use this recipe when a child may have been born outside marriage and you need the records that such a birth could create in that jurisdiction: county bastardy bonds, criminal-court fornication and bastardy proceedings, support orders, grand-jury presentments, church discipline or baptism entries, and church-court suits. It covers which records to search and how to record what they say. It does not decide parentage. For the "never legally married" hypothesis and the warning that a woman's recorded surname may not be her maiden name, use [evidence/proof judgment](evidence-proof-judgment.md). The same recipe covers keeping terms such as "natural child" and "reputed father" in their original wording.
 
 The series checklist below covers US county and court records (North Carolina and Pennsylvania) and church records, followed by Swedish court and child-welfare retrieval. It does not list English, Welsh or Scottish parish and Poor Law series. For England and Wales, start with [English nonregister record recovery](english-nonregister-record-recovery.md); build a separate jurisdiction-specific series list for Scotland.
 
@@ -125,7 +125,7 @@ Record each of these as a separate observation, each with its record locator:
 - who posted the bond, if it was someone other than the named man
 - the court action or outcome
 
-Pass the paternity question to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+Pass the paternity question to [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Read absences and surnames narrowly
 

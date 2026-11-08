@@ -19,7 +19,7 @@ router: {"tier": "pointer", "group": "Church and civil registers", "order": 1046
 
 Use this recipe when you have a Quaker surname, a candidate monthly meeting and state, and a Hinshaw or Ancestry index entry or abstract. Before relying on Hinshaw, check that it covers the meeting. Decode the entry's meeting before you assign it to a place. Then read the original men's and women's minutes and both removal-certificate series as images. Keep each numbered date exactly as written.
 
-Some steps belong to other recipes. To test a disputed year against the documented calendar and follow record versions, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) § Follow record versions and test disputed dates. For general Ancestry zero-result diagnosis, use [Ancestry record-search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md).
+Some steps belong to other recipes. To test a disputed year against the documented calendar and follow record versions, use [evidence/proof judgment](evidence-proof-judgment.md) § Follow record versions and test disputed dates. For general Ancestry zero-result diagnosis, use [Ancestry record-search recovery](ancestry-record-search-recovery.md).
 
 ## Check compiled-abstract coverage before trusting silence
 

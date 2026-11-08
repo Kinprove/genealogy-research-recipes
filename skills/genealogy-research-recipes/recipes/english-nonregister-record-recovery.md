@@ -21,8 +21,8 @@ Use this recipe when an English parish register runs out before the question is 
 
 Other recipes cover the neighbouring steps:
 
-- Once a probate case is found, list its documents with [probate case inventory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md).
-- For allegations, presentments and negative findings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- Once a probate case is found, list its documents with [probate case inventory](probate-case-document-inventory.md).
+- For allegations, presentments and negative findings, use [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
 

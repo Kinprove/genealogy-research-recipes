@@ -22,13 +22,13 @@ only partly released. Three routes recover the patient: the institution's curren
 the committing court, and newspaper court reports. This recipe covers the access route, the
 copy product that came back, the commitment search and the admission estimate.
 For complete-file versus abbreviated copy handling in pension files, use
-[pension file recovery § 3](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md).
+[pension file recovery § 3](us-military-pension-file-recovery.md).
 For the documents in a probate court case, use
-[probate case inventory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md).
+[probate case inventory](probate-case-document-inventory.md).
 For newspaper coverage and OCR problems, use
-[newspaper search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md).
+[newspaper search recovery](newspapers-com-search-recovery.md).
 For identity rulings, use
-[evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+[evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
 

@@ -27,9 +27,9 @@ The most common mistakes are:
 
 Related recipes:
 
-- For federal military pension files, use [pension-file recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md).
-- For identity and kinship rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
-- For citation form, use [source citation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md).
+- For federal military pension files, use [pension-file recovery](us-military-pension-file-recovery.md).
+- For identity and kinship rulings, use [evidence/proof judgment](evidence-proof-judgment.md).
+- For citation form, use [source citation](source-citation.md).
 
 ## Decide whether the legislature is in scope
 

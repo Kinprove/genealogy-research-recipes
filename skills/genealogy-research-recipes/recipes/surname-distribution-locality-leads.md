@@ -17,7 +17,7 @@ router: {"tier": "pointer", "group": "Migration and origins", "order": 1112}
 
 # Rank localities to search from dated surname-distribution sources
 
-Use this recipe when an uncommon surname has an unknown origin and the next step is choosing where to search registers. It turns time-sliced maps, attestation dictionaries, a couple's surname overlap and country-wide counts into a **ranked, bounded list of localities to search**. It never produces an origin finding. For measuring a namesake pool before you attribute a record to someone, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). For a rare-surname survey inside an emigrant's contact network, use [emigrant origin recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md). For spellings across scripts and OCR, use the catalogue's recipe on name searches across scripts and OCR.
+Use this recipe when an uncommon surname has an unknown origin and the next step is choosing where to search registers. It turns time-sliced maps, attestation dictionaries, a couple's surname overlap and country-wide counts into a **ranked, bounded list of localities to search**. It never produces an origin finding. For measuring a namesake pool before you attribute a record to someone, use [evidence/proof judgment](evidence-proof-judgment.md). For a rare-surname survey inside an emigrant's contact network, use [emigrant origin recovery](russian-empire-emigrant-origin-recovery.md). For spellings across scripts and OCR, use the catalogue's recipe on name searches across scripts and OCR.
 
 ## Contents
 
@@ -131,4 +131,4 @@ Return:
 - **The bearer-pool estimate**, with the site, scope, variant setting, date run and coverage caveat.
 - **The next register searches**: which parish or civil registers to search, for which locality and years, in rank order.
 
-Log the queries in the [research log](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md). Every locality remains a lead until an original register entry places the person there.
+Log the queries in the [research log](research-documentation.md). Every locality remains a lead until an original register entry places the person there.

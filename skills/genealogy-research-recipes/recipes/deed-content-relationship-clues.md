@@ -21,11 +21,11 @@ Use this recipe once a deed has been retrieved and you need to read its type, co
 
 Overlapping steps live in sibling recipes:
 
-- Retrieving the instrument, comparing the party roster and recording a wife's release paragraph: [land-record recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/land-index-book-series-recovery.md).
-- Following a fiduciary's deed into the court file: [probate case inventory](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md).
-- Reading deed fields from the image rather than from an AI reading: [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
-- Heir lists, residence-versus-birthplace and every proof ruling: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
-- Documentary roles and associates: [FamilySearch workflows §11](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
+- Retrieving the instrument, comparing the party roster and recording a wife's release paragraph: [land-record recovery](land-index-book-series-recovery.md).
+- Following a fiduciary's deed into the court file: [probate case inventory](probate-case-document-inventory.md).
+- Reading deed fields from the image rather than from an AI reading: [AI for documentary records](ai-for-documentary-records.md).
+- Heir lists, residence-versus-birthplace and every proof ruling: [evidence/proof judgment](evidence-proof-judgment.md).
+- Documentary roles and associates: [FamilySearch workflows §11](familysearch-practical-record-workflows.md).
 
 ## Errors to block
 
@@ -61,7 +61,7 @@ Do not compute the "going rate" from memory. If you have no comparable values, w
 
 There are four routes.
 
-- **Quitclaims among heirs.** When a parent's estate has no will or probate file, search the deed indexes for that parent's land. Look for quitclaims between heirs, or from heirs to a third party. Record each grantor as a possible heir to identify. A married daughter may appear under her married surname [S3]. Being a participant is not the same as being a child. Use [heir lists are not child lists](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- **Quitclaims among heirs.** When a parent's estate has no will or probate file, search the deed indexes for that parent's land. Look for quitclaims between heirs, or from heirs to a third party. Record each grantor as a possible heir to identify. A married daughter may appear under her married surname [S3]. Being a participant is not the same as being a child. Use [heir lists are not child lists](evidence-proof-judgment.md).
 - **Pre-death deed series.** When a probate holds little or no land, search the decedent's grantor index for the period before death. Look for a same-day series of nominal-price deeds of small, apportioned parcels in one area to several grantees. One presenter used such a series as indirect evidence that the grantees were heirs [S4]. Record each grantee as a possible heir. Record the pattern as indirect evidence that still needs correlation. Do not adopt the presenter's tax motive.
 - **Fiduciary deeds.** An executor's or administrator's deed in the chain of title means there was a probate. Use the deed date to go straight to the court record [S2]. Then hand the search to the probate inventory recipe.
 - **Life estate or survivorship.** Use this route when a child holds the land after a parent's death and there is no deed or probate at the death. Look back for an earlier deed from the parent that reserved a life estate. Under a life estate the property passes to the remainderman when the life tenant dies. Also look for a joint tenancy with right of survivorship, which passes the property automatically to the surviving tenant or tenants [S7]. Record the conveyance date and the end of the life tenancy as separate events. Do not treat the death as the date title passed. The presenter says that US jurisdictions usually require some evidence of the transfer at the death [S7]. Search the chain of title after the death for it, such as a later conveyance by the remainderman or a recital of the life tenant's death. Do not assume nothing was recorded.
@@ -101,4 +101,4 @@ For each instrument, record:
 - each party's role and "of" place, verbatim;
 - parcel comparison: calls, cited book and page, acreage, neighbours, part-of links.
 
-Then list each clue as a hypothesis. Name the record that would corroborate it: the probate case, an heir list, the wife's identity, or the migration pair. Name the same-name alternative it must survive. Hand every proof ruling to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+Then list each clue as a hypothesis. Name the record that would corroborate it: the probate case, an heir list, the wife's identity, or the migration pair. Name the same-name alternative it must survive. Hand every proof ruling to [evidence/proof judgment](evidence-proof-judgment.md).

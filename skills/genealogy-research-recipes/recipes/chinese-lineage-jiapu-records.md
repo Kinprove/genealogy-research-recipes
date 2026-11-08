@@ -22,9 +22,9 @@ emigrant only in romanization, and the goal is a lineage genealogy (jiapu/zupu).
 and small ancestral village **in characters** first. Record every romanization, port, regional
 label, woman's name formula, generation-character match and computed date as its own labelled
 observation. Do not merge them into an identity. For the general rule that a port of embarkation is not a birth
-town, see [arrival-record extraction](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md).
-Route identity rulings to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md)
-and AI transcription of characters to [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
+town, see [arrival-record extraction](russian-empire-emigrant-origin-recovery.md).
+Route identity rulings to [evidence/proof judgment](evidence-proof-judgment.md)
+and AI transcription of characters to [AI for documentary records](ai-for-documentary-records.md).
 
 ## Contents
 

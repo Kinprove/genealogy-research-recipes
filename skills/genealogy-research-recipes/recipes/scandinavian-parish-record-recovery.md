@@ -23,9 +23,9 @@ Check the parish's actual holdings and image-access conditions at FamilySearch, 
 
 Related recipes:
 
-- [FamilySearch record workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) for FamilySearch Catalog, film and image-route steps.
-- [Evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) for merge, separate and proof rulings.
-- [Archival image coverage](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) for claims that a volume's images are complete.
+- [FamilySearch record workflows](familysearch-practical-record-workflows.md) for FamilySearch Catalog, film and image-route steps.
+- [Evidence/proof judgment](evidence-proof-judgment.md) for merge, separate and proof rulings.
+- [Archival image coverage](archival-image-coverage-verification.md) for claims that a volume's images are complete.
 - [Scandinavian patronymic and farm names](scandinavian-patronymic-farm-name-record-recovery.md) for Norwegian censuses and emigrant protocols, and Danish censuses and levying rolls.
 
 ## Contents
@@ -229,4 +229,4 @@ Return:
 - children found only in the vital registers, listed separately;
 - each gap, labelled as a volume that is unavailable, a volume that has not been inspected, or a volume that was inspected without finding the person or the connecting entry, with a note of what was searched.
 
-A parallel household found by birth-date browsing stays a candidate until the person making the ruling decides on it under [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+A parallel household found by birth-date browsing stays a candidate until the person making the ruling decides on it under [evidence/proof judgment](evidence-proof-judgment.md).

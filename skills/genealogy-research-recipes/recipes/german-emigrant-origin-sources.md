@@ -21,11 +21,11 @@ Use this recipe when a U.S. record names only a German state, region, partial pl
 
 This recipe does not cover these steps, so use the linked recipes for them:
 
-- Arrival and manifest work: [U.S. immigration search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md).
-- Working from a destination clue to a locality and handing off to the archive, shown for a different emigration system: [Russian-Empire emigrant origin recovery § 5](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md).
+- Arrival and manifest work: [U.S. immigration search recovery](usa-immigration-search-recovery.md).
+- Working from a destination clue to a locality and handing off to the archive, shown for a different emigration system: [Russian-Empire emigrant origin recovery § 5](russian-empire-emigrant-origin-recovery.md).
 - EWZ resettlement files for ethnic Germans resettled from the USSR, Poland, Bessarabia or the Baltic states in 1939–1945: [Russian-Empire emigrant origin recovery § 1](russian-empire-emigrant-origin-recovery.md#1-bound-the-movement-before-searching-for-a-ship).
-- Catalogue, film and image crosswalks: [FamilySearch record workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
-- Same-name and identity rulings: [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- Catalogue, film and image crosswalks: [FamilySearch record workflows](familysearch-practical-record-workflows.md).
+- Same-name and identity rulings: [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
 
@@ -184,4 +184,4 @@ Deliver:
 4. **Birth/baptism-register status for each candidate:** confirmed, conflicting or not yet inspected.
 5. **Gaps:** offices, series, index extents and local records (gazettes, council minutes, estate files) that were not searched, or that are known not to cover the person.
 
-Keep citations and logs in the [research log](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md) and the [source citation record](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md).
+Keep citations and logs in the [research log](research-documentation.md) and the [source citation record](source-citation.md).

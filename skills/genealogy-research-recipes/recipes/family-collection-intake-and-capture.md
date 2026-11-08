@@ -22,9 +22,9 @@ Use this recipe when you help take in, inventory, plan the capture of, or hand o
 This recipe covers intake, capture and hand-off only. It prescribes no conservation treatment; it does set handling limits for capture.
 
 - Other recipes cover the next steps. Family photograph attribution and dating covers identifying and dating the people in photographs. Family papers and Bible register dating covers dating letters, papers and Bible entries. Family interviews and oral tradition covers recording relatives' memories.
-- To transcribe a hard-to-read inscription, or to judge a restored, enhanced or colorized image, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
-- Identity rulings and other disputed conclusions belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
-- Cite items with [source citation](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md). Record sessions in the [research log](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md).
+- To transcribe a hard-to-read inscription, or to judge a restored, enhanced or colorized image, use [AI for documentary records](ai-for-documentary-records.md).
+- Identity rulings and other disputed conclusions belong in [evidence/proof judgment](evidence-proof-judgment.md).
+- Cite items with [source citation](source-citation.md). Record sessions in the [research log](research-documentation.md).
 
 ## Bound the assignment and record what arrived
 

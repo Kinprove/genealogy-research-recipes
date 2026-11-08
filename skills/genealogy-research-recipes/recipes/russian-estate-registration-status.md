@@ -28,12 +28,12 @@ The recipe builds a dated status timeline for each person, tests each status aga
 
 Related recipes cover the neighbouring ground:
 
-- For registration (приписка) versus residence in Jewish families, a merchant reverting to his former estate, and naming mechanisms, use [Russian-Empire Jewish identity attribution](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md).
-- For keeping registration, residence and event place in separate search columns, use [JewishGen search and family reconstruction](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md).
-- For choosing Ukrainian archival cases by society, use [Jewish archival list triage](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewish-archival-list-triage.md).
-- For getting from an emigrant to the locality and archive, use [Russian-Empire emigrant origin recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md).
-- For AI transcriptions and translations of status words, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
-- For identity rulings, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- For registration (приписка) versus residence in Jewish families, a merchant reverting to his former estate, and naming mechanisms, use [Russian-Empire Jewish identity attribution](russian-empire-jewish-identity-attribution.md).
+- For keeping registration, residence and event place in separate search columns, use [JewishGen search and family reconstruction](jewishgen-search-family-reconstruction.md).
+- For choosing Ukrainian archival cases by society, use [Jewish archival list triage](jewish-archival-list-triage.md).
+- For getting from an emigrant to the locality and archive, use [Russian-Empire emigrant origin recovery](russian-empire-emigrant-origin-recovery.md).
+- For AI transcriptions and translations of status words, use [AI for documentary records](ai-for-documentary-records.md).
+- For identity rulings, use [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
 

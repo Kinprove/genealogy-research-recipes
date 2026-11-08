@@ -21,11 +21,11 @@ Use this recipe when a place named in a record, family letter, Bible or publishe
 
 Not covered here:
 
-- The general geographic reality check: [evidence/proof judgment § Geographic reality check](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
-- Russian-Empire locality handoff: [emigrant-origin recovery § 5](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md).
-- FamilySearch place-tool jurisdiction: [FamilySearch workflows § 1](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md).
-- AI candidate generation for an unclear German word: [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
-- JewishGen town geography: [JewishGen search](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md).
+- The general geographic reality check: [evidence/proof judgment § Geographic reality check](evidence-proof-judgment.md).
+- Russian-Empire locality handoff: [emigrant-origin recovery § 5](russian-empire-emigrant-origin-recovery.md).
+- FamilySearch place-tool jurisdiction: [FamilySearch workflows § 1](familysearch-practical-record-workflows.md).
+- AI candidate generation for an unclear German word: [AI for documentary records](ai-for-documentary-records.md).
+- JewishGen town geography: [JewishGen search](jewishgen-search-family-reconstruction.md).
 
 **The failure this prevents:** taking the best-known or first match, treating a historical name as the modern place with the same name, calling a name that can't be found an error, or treating a sound-alike or a gazetteer hit with coordinates as proof of where someone lived. A gazetteer hit gives you a candidate. It does not establish residence.
 
@@ -120,7 +120,7 @@ Not covered here:
 - Look for a set of names that fit together on one dated map. Small, Reno and Medicine Lodge all fit within 1909 Fremont County, Idaho, which ruled out Reno, Nevada [S15].
 - Plot dated postings beside the children's birthplaces. A puzzling birthplace made sense once it lined up with the father's Coast Guard assignment [S16].
 - Use other dated context in the document. In the 1855 letter, "the gold diggings" led the presenter to consider the Australian goldfields [S21]. Record any inference like that as a stated premise.
-- Keep a sound-alike as a hypothesis until it is named in a record where the subject gave the place himself, or in a reliably recorded official record. In the presenter's case, Mulvin, found by a sound-alike search near Ardstraw, was confirmed only when an early church record in special collections showed the man giving it as his birthplace [S1]. In a later retelling, the presenter says a marriage record held only at the Family History Library played that role [S3]. Further weighing belongs in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+- Keep a sound-alike as a hypothesis until it is named in a record where the subject gave the place himself, or in a reliably recorded official record. In the presenter's case, Mulvin, found by a sound-alike search near Ardstraw, was confirmed only when an early church record in special collections showed the man giving it as his birthplace [S1]. In a later retelling, the presenter says a marriage record held only at the Family History Library played that role [S3]. Further weighing belongs in [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## 8. Return a candidate table
 

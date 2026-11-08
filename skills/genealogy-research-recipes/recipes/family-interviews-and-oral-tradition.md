@@ -21,9 +21,9 @@ Use this recipe when you are about to interview a relative, when someone hands y
 
 This recipe covers consent, prompting, recording, attributing and preserving spoken accounts only.
 
-- Weigh what an account can prove with [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
-- Cite the recording and each copy with the [source citation record](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/source-citation.md).
-- Log sessions, and searches for a missing original recording, in the [research log](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/research-documentation.md).
+- Weigh what an account can prove with [evidence/proof judgment](evidence-proof-judgment.md).
+- Cite the recording and each copy with the [source citation record](source-citation.md).
+- Log sessions, and searches for a missing original recording, in the [research log](research-documentation.md).
 - For the papers, photographs and media an account arrived with, use Family collection intake and capture. To identify or date a photograph used as a prompt, use Family photograph attribution and dating. To date a written family paper, use Family papers and Bible register dating.
 
 ## Preserve the source first

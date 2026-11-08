@@ -22,9 +22,9 @@ aggregator copy) is being used to date an event, place it, rebuild a sibling gro
 wife's surname or pair a couple. These entries tell you the registration quarter, district,
 volume/page and, in the GRO birth index, the mother's maiden surname. They do not give an event
 date, a birthplace, a pairing of spouses or parentage. For the namesake-pool and
-successive-union logic, use [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+successive-union logic, use [evidence/proof judgment](evidence-proof-judgment.md).
 For general FamilySearch jurisdiction and missed-person recovery, use
-[FamilySearch practical workflows](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md)
+[FamilySearch practical workflows](familysearch-practical-record-workflows.md)
 (§1 jurisdiction, §8 missed persons). This recipe covers only the mechanics of the index itself.
 
 ## Contents

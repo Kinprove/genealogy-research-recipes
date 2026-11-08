@@ -25,7 +25,7 @@ Use this recipe when an Irish surname, county and possibly a parish or townland 
 - reading an occupier change as father-to-son inheritance;
 - turning "only surviving" into an exact death date.
 
-This recipe builds the holding register and the occupancy chain. Send every identity or kinship ruling to [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md). If the next step is a Catholic baptism or marriage register for the narrowed parish, use [Irish Catholic parish image recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/irish-catholic-parish-image-recovery.md).
+This recipe builds the holding register and the occupancy chain. Send every identity or kinship ruling to [evidence/proof judgment](evidence-proof-judgment.md). If the next step is a Catholic baptism or marriage register for the narrowed parish, use [Irish Catholic parish image recovery](irish-catholic-parish-image-recovery.md).
 
 ## Open every same-name entry as a candidate row
 

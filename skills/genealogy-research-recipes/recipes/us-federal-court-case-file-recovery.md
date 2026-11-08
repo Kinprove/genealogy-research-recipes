@@ -21,10 +21,10 @@ Use when a newspaper item, family paper or other lead suggests an ancestor was i
 lawsuit, criminal case, bankruptcy or appeal. The task is to take that lead to the right federal
 court for the period, then to the National Archives record group and its index, and to request
 the loose case file and the related series. Naturalization has its own court table and index
-route in [immigration search recovery § 9](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md),
-so use that recipe for it. To build the newspaper lead, use [newspaper search recovery](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md).
-To transcribe the papers with an AI tool, use [AI for documentary records](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md).
-Identity rulings belong in [evidence/proof judgment](https://github.com/Kinprove/genealogy-research-recipes/blob/8b235c47acf62b78cd5a1ccf85f4eb974b2f966a/skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md).
+route in [immigration search recovery § 9](usa-immigration-search-recovery.md),
+so use that recipe for it. To build the newspaper lead, use [newspaper search recovery](newspapers-com-search-recovery.md).
+To transcribe the papers with an AI tool, use [AI for documentary records](ai-for-documentary-records.md).
+Identity rulings belong in [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
 
