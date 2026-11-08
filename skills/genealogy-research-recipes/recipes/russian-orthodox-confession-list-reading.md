@@ -132,7 +132,7 @@ Set up one table per household, with one row per person and one column per list.
 
 ## 5. Check the household against revision lists and metrical books
 
-- **Know what each source can add.** Confession lists cover non-taxpaying groups that the revisions do not, and they list women from 1737, while revision lists do so only from 1763. [S2], [S5] Revision lists give the household's official registration and the previous revision's age. Metrical books date individual events.
+- **Know what each source can add.** Confession lists cover non-taxpaying groups that the revisions do not, and they list women from 1737. [S2], [S5] Whether a revision lists women depends on the revision: the 1st, 2nd and 6th (1811) recorded men only. [S7] For the others, use [revision-list household chaining](russian-revision-list-household-chaining.md). Revision lists give the household's official registration and the previous revision's age. Metrical books date individual events.
 - **Bridge the gap between revisions.** A participant reported reconstructing Southern Trans-Urals male lines from 1850 back to the 1680s as follows: [S22]
   1. Chain the revisions with the 1774–1830 confession lists (in the Orenburg archive).
   2. Use the 1795 revision, which carries the 1782 figures as well, to link to the 1719 lists of the Iset slobodas.
@@ -140,7 +140,7 @@ Set up one table per household, with one row per person and one column per list.
   4. Go to the 1680s census, which gives the territory of origin.
 - **Separate residence from registration.** An 1834 revision tale notes a family "проживает с давних лет" at its new place, and a confession list shows it there by 1790, at least 44 years earlier. [S23] Date residence from the lists and registration from the revisions, and report them as two facts.
 - **Recover a bride from her home village.** A participant knew a great-grandmother's name, patronymic, birth date and home village, and read that village's lists family by family until one Ivan had a daughter of that name and age. A copy of her birth certificate later confirmed the match. [S28] Without that kind of confirmation, the result stays a hypothesis.
-- **Test absence across every source.** A participant noted that one or two omissions could be a scribe's error or a child too young to be listed, but checked a family across confession lists of 1808, 1815 and 1822, and revision lists of 1811 and 1816, before concluding that it had no such daughter. [S22]
+- **Test absence across every source.** A participant noted that one or two omissions could be a scribe's error or a child too young to be listed, but checked a family across confession lists of 1808, 1815 and 1822, and revision lists of 1811 and 1816, before concluding that it had no such daughter. [S22] The 1811 revision recorded men only [S7], so that return says nothing about a daughter. Count only sources that record women.
 - **Be careful with Old Believer households.** One review compared a Rzhev list of 1850 with the tenth revision. It found the lists fairly reliable for the Orthodox and full of inaccuracies for Old Believer families, and it prefers revision lists for them. [S16]
 
 ## 6. Find the lists
