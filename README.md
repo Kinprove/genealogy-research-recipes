@@ -73,7 +73,7 @@ in [MAINTAINERS.md](MAINTAINERS.md). The offline tier needs only Python's standa
 Evaluation tooling and fixtures are development files
 and are excluded from the installed npm package.
 
-[The model workflow](.github/workflows/behavioural-evals.yml) runs nightly, manually, and on
+[The model workflow](.github/workflows/behavioural-evals.yml) runs manually and on
 same-repository PRs with the `behavioural-evals` label. Fork PRs skip it; without the
 `ANTHROPIC_API_KEY` repository secret it reports a credential skip, not a model pass. The
 optional `EVAL_MODEL` and `EVAL_JUDGE_MODEL` repository variables select the models; otherwise
@@ -106,6 +106,8 @@ The [local evaluation report](reports/issue-97-evaluation.md) records the observ
 preserved failures, transport repairs and remaining acceptance gates.
 Issue #97's owner-approved gate retains the failed release baseline and requires all
 revised-candidate cases to pass; merge authorization is a separate decision.
+Current-candidate cases can be validated with the authenticated local CLI profile.
+Hosted model runs are optional and have no scheduled trigger.
 
 ## Install
 

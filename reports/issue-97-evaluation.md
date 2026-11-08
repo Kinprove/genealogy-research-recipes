@@ -37,3 +37,9 @@ updated install instructions and court routing, other record guidance, and a dat
 citation in the opened German-emigrant recipe. Integrated unit and static checks pass. The hosted
 14-case run will verify the rebased head once its credential is available; the earlier local
 results remain bound to their recorded input commit and hash.
+
+On 2026-11-08 the owner removed daily model evaluations. The workflow now runs only
+manually or on explicitly labelled PRs. Hosted execution is optional; the unchanged
+candidate-case thresholds can be verified through the authenticated local `claude3`
+profile. A new API key is not a prerequisite for that local check or for merging.
+The earlier observations and model scores above remain historical evidence.

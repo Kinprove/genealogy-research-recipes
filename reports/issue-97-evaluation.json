@@ -3538,5 +3538,17 @@
     "changed_evaluated_recipe": "german-emigrant-origin-sources: dated catalog-volume citation",
     "other_input_changes": "SKILL update instructions and criminal-court routing; unrelated record recipes/source checks",
     "integrated_head_behavioural_validation": "pending hosted workflow with repository credential"
+  },
+  "execution_policy_revision": {
+    "date": "2026-11-08",
+    "owner_instruction": "Remove daily model evaluations",
+    "scheduled_model_runs": false,
+    "available_hosted_triggers": [
+      "workflow_dispatch",
+      "explicit behavioural-evals PR label"
+    ],
+    "current_candidate_case_gate": "Unchanged case/sample criteria; may be proven using the authenticated local claude3 profile",
+    "api_key_required_before_merge": false,
+    "historical_evidence": "Original hashes, scores, skipped hosted jobs and baseline failures are preserved."
   }
 }

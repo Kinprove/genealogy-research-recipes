@@ -1,8 +1,6 @@
 name: Recipe behavioural evaluations
 
 on:
-  schedule:
-    - cron: '23 3 * * *'
   workflow_dispatch:
   pull_request:
     branches: [main]
