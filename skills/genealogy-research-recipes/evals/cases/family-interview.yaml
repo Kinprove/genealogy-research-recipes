@@ -1,0 +1,29 @@
+{
+  "id": "family-interview",
+  "prompt": "Help me interview my 90-year-old aunt.",
+  "materials": [],
+  "expect": {
+    "recipes": [
+      "family-interviews-and-oral-tradition"
+    ],
+    "any_of": [],
+    "clarify": false
+  },
+  "assert": {
+    "regex_present": [
+      "consent|permission|agree",
+      "record"
+    ],
+    "regex_absent": [],
+    "rubric": [
+      {
+        "guardrail": "ORAL-01",
+        "question": "Does it agree topic, recording consent, audience and use before recording, keeping recollections as attributed accounts rather than tree facts?"
+      },
+      {
+        "guardrail": "ORAL-02",
+        "question": "Does its photo prompt avoid supplying names or desired identities, inviting unprompted recollection instead?"
+      }
+    ]
+  }
+}

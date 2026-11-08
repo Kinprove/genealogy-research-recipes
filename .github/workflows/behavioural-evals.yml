@@ -1,0 +1,77 @@
+name: Recipe behavioural evaluations
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [main]
+    types: [labeled, synchronize, reopened]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: recipe-evals-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  credentials:
+    if: >-
+      github.event_name != 'pull_request' ||
+      (github.event.pull_request.head.repo.full_name == github.repository &&
+       contains(github.event.pull_request.labels.*.name, 'behavioural-evals'))
+    runs-on: ubuntu-latest
+    outputs:
+      available: ${{ steps.credentials.outputs.available }}
+    steps:
+      - name: Check model credentials
+        id: credentials
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "$ANTHROPIC_API_KEY" ]; then
+            echo 'available=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'available=false' >> "$GITHUB_OUTPUT"
+            echo '::notice::Behavioural evaluations skipped: ANTHROPIC_API_KEY is not configured.'
+          fi
+
+  golden-cases:
+    needs: credentials
+    if: needs.credentials.outputs.available == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: '24'
+      - name: Install the locked model harness without lifecycle scripts
+        run: |
+          npm ci --prefix ci-tools --ignore-scripts
+          mkdir -p "$RUNNER_TEMP/recipe-evals-bin"
+          cat > "$RUNNER_TEMP/recipe-evals-bin/claude" <<'CLAUDE_SHIM'
+          #!/bin/sh
+          exec node "$GITHUB_WORKSPACE/ci-tools/node_modules/@anthropic-ai/claude-code/cli-wrapper.cjs" "$@"
+          CLAUDE_SHIM
+          chmod +x "$RUNNER_TEMP/recipe-evals-bin/claude"
+          echo "$RUNNER_TEMP/recipe-evals-bin" >> "$GITHUB_PATH"
+      - name: Run three samples per golden case
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PYTHONDONTWRITEBYTECODE: '1'
+          EVAL_MODEL: ${{ vars.EVAL_MODEL }}
+          EVAL_JUDGE_MODEL: ${{ vars.EVAL_JUDGE_MODEL }}
+        run: python3 -B skills/genealogy-research-recipes/evals/run_evals.py --output eval-results
+      - name: Keep answers, tool traces, judge decisions and run identity
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: recipe-evals-${{ github.sha }}-${{ github.run_attempt }}
+          path: eval-results/
+          if-no-files-found: error
+          retention-days: 30

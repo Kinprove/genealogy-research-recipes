@@ -1,7 +1,12 @@
 """Guard the CI credential boundary and reproducible tool installs."""
 
 import json
+import os
 import re
+import subprocess
+import sys
+import tempfile
+import textwrap
 import unittest
 from pathlib import Path
 
@@ -10,26 +15,30 @@ ROOT = Path(__file__).resolve().parents[1]
 
 class CiToolTests(unittest.TestCase):
     def test_every_checkout_disables_persisted_credentials(self):
-        workflow = (ROOT / ".github/workflows/ci.yml").read_text(encoding="utf-8")
-        checkouts = re.findall(
-            r"(?m)^      - uses: actions/checkout@[^\n]+\n((?:        [^\n]*\n|\n)*)",
-            workflow,
-        )
-        self.assertTrue(checkouts, "No checkout steps checked")
-        self.assertEqual(len(checkouts), workflow.count("uses: actions/checkout@"))
-        for config in checkouts:
-            with self.subTest(config=config):
-                self.assertRegex(config, r"(?m)^        with:\n")
-                self.assertEqual(re.findall(r"(?m)^          persist-credentials: (\S+)\s*$", config), ["false"])
+        for path in sorted((ROOT / ".github/workflows").glob("*.y*ml")):
+            workflow = path.read_text(encoding="utf-8")
+            checkouts = re.findall(
+                r"(?m)^      - uses: actions/checkout@[^\n]+\n((?:        [^\n]*\n|\n)*)",
+                workflow,
+            )
+            with self.subTest(workflow=path.name):
+                self.assertTrue(checkouts, "No checkout steps checked")
+                self.assertEqual(len(checkouts), workflow.count("uses: actions/checkout@"))
+            for config in checkouts:
+                with self.subTest(workflow=path.name, config=config):
+                    self.assertRegex(config, r"(?m)^        with:\n")
+                    self.assertEqual(re.findall(r"(?m)^          persist-credentials: (\S+)\s*$", config), ["false"])
 
     def test_ci_and_maintainers_use_the_locked_tools_without_install_scripts(self):
         workflow = (ROOT / ".github/workflows/ci.yml").read_text(encoding="utf-8")
         maintainers = (ROOT / "MAINTAINERS.md").read_text(encoding="utf-8")
-        for text in (workflow, maintainers):
+        workflows = [path.read_text(encoding="utf-8")
+                     for path in sorted((ROOT / ".github/workflows").glob("*.y*ml"))]
+        for text in (*workflows, maintainers):
             self.assertNotRegex(text, r"\bnpx\b|\bnpm (?:install|i) -g\b")
             self.assertIn("npm ci --prefix ci-tools --ignore-scripts", text)
         # Check every install, so a later step cannot silently reenable scripts.
-        installs = re.findall(r"(?m)^.*\bnpm (?:ci|install|i)\b.*$", workflow)
+        installs = re.findall(r"(?m)^.*\bnpm (?:ci|install|i)\b.*$", "\n".join(workflows))
         self.assertTrue(installs)
         for install in installs:
             with self.subTest(install=install):
@@ -43,6 +52,27 @@ class CiToolTests(unittest.TestCase):
         self.assertIn("ci-tools/node_modules/.bin/markdownlint-cli2", workflow)
         self.assertIn('ci-tools/node_modules/.bin" >> "$GITHUB_PATH"', workflow)
         self.assertIn("ci-tools/node_modules/.bin/clawhub package publish", maintainers)
+
+    def test_model_workflow_launcher_uses_locked_wrapper_and_preserves_arguments(self):
+        workflow = (ROOT / ".github/workflows/behavioural-evals.yml").read_text(encoding="utf-8")
+        match = re.search(r"<<'CLAUDE_SHIM'\n(.*?)^          CLAUDE_SHIM$", workflow, re.M | re.S)
+        self.assertIsNotNone(match)
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            launcher = root / "claude"
+            launcher.write_text(textwrap.dedent(match.group(1)), encoding="utf-8")
+            launcher.chmod(0o755)
+            node = root / "node"
+            node.write_text(f"#!{sys.executable}\nimport json, sys\nprint(json.dumps(sys.argv[1:]))\n", encoding="utf-8")
+            node.chmod(0o755)
+            workspace = root / "checkout with spaces"
+            environment = {**os.environ, "PATH": str(root) + os.pathsep + os.environ["PATH"],
+                           "GITHUB_WORKSPACE": str(workspace)}
+            wrapper = str(workspace / "ci-tools/node_modules/@anthropic-ai/claude-code/cli-wrapper.cjs")
+            for arguments in (["--version"], ["-p", "argument with spaces\nand a newline"]):
+                result = subprocess.run([str(launcher), *arguments], env=environment,
+                                        capture_output=True, text=True, check=True)
+                self.assertEqual(json.loads(result.stdout), [wrapper, *arguments])
 
     def test_lock_covers_exact_tools_and_integrity_checked_transitive_archives(self):
         packages = (

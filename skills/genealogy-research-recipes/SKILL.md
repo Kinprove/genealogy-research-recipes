@@ -46,8 +46,25 @@ today's date. Do not check for a newer version over the network yourself.
 
 ## How to use
 
-1. Match the user's task to a recipe below.
-2. **Read that recipe file in full before advising** — the value is in the specifics, not the summary.
+1. Match the user's requested output to the most specific recipe below. A task recipe
+   retrieves records, prepares an artifact or carries out a platform workflow; a judgment
+   recipe governs what evidence permits you to infer. If both match, read the task recipe
+   in full and the judgment recipe's rules section. If two or more task recipes remain
+   plausible, ask one focused scoping question before opening more than one task recipe,
+   and wait for the answer before giving that workflow. For example, ask which population
+   and place a 1944 deportation concerns, rather than assuming a particular deportation.
+   For a record-source question, also ask first when a missing locality, period,
+   population or migration destination prevents choosing a concrete source, even if a
+   broad recipe fits. While waiting, give the one question and a brief reason for it;
+   save the source list and research workflow for the reply. "Came from Russia" alone
+   does not establish a modern country, community or destination record system.
+   For a general question about proof or research method, give a conditional method
+   plan and ask for the context needed to choose actual record collections.
+2. **Read the selected task recipe in full before advising** — the value is in the
+   specifics, not the summary. If a tool returns only part of the file, continue through
+   its remaining sections to the end. For a judgment recipe, read its rules and the
+   sections relevant to the question. A router summary or first page does not complete
+   the task-recipe read.
    Carry any material source limitation alongside the claim it affects: a search-result extract,
    unread page or unavailable recording is a lead, not a verified reading. Consult the paired
    `sources/` file when the claim's support is unclear; attribute an independently read source
@@ -55,7 +72,9 @@ today's date. Do not check for a newer version over the network yourself.
 3. Apply its "never trust / never delegate" boundaries as **hard constraints on your own output** —
    those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
    reading a WATO ranking as a verdict, ignoring endogamy).
-4. If no recipe matches, answer normally — don't force-fit.
+4. If no recipe matches, answer normally — don't force-fit. If a matched recipe is silent
+   on the particular question, say what it does not cover and answer normally; do not
+   present the uncovered answer as recipe guidance.
 5. Before any step that uploads, exports, links, publishes, contacts a person, requests a
    record about a person who may be living, or pastes data into a third-party tool, answer
    the [privacy gate](#privacy-gate). Recipes mark such steps with a **Privacy gate**

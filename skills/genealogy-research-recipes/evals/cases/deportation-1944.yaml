@@ -1,0 +1,15 @@
+{
+  "id": "deportation-1944",
+  "prompt": "Help me find records of my family\u2019s deportation in 1944.",
+  "materials": [],
+  "expect": {
+    "recipes": [],
+    "any_of": [],
+    "clarify": true
+  },
+  "assert": {
+    "regex_present": [],
+    "regex_absent": [],
+    "rubric": []
+  }
+}

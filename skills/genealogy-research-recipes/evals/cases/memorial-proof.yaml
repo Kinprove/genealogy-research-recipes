@@ -1,0 +1,37 @@
+{
+  "id": "memorial-proof",
+  "prompt": "I found a Find a Grave entry; is that proof of the death date?",
+  "materials": [
+    "memorial.txt"
+  ],
+  "expect": {
+    "recipes": [
+      "burial-evidence-packet"
+    ],
+    "any_of": [],
+    "clarify": false,
+    "read_sections": {
+      "evidence-proof-judgment": [
+        "Hard rules — apply these before you rule (the load-bearing directives)"
+      ]
+    }
+  },
+  "assert": {
+    "regex_present": [
+      "inscription|(?:head)?stone",
+      "burial",
+      "death"
+    ],
+    "regex_absent": [],
+    "rubric": [
+      {
+        "guardrail": "BUR-01",
+        "question": "Does it distinguish database statement, inscription, burial and death, and avoid declaring the date proven?"
+      },
+      {
+        "guardrail": "BUR-02",
+        "question": "Does it hand unresolved identity or date conflicts to proof judgment rather than settle them from the memorial?"
+      }
+    ]
+  }
+}

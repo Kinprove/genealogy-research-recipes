@@ -18,6 +18,7 @@ node_modules/
 .playwright-mcp/
 build/
 dist/
+eval-results/
 tmp/
 temp/
 *.log

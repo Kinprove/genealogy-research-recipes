@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["any \"can AI/ChatGPT/Claude help me with my 
 triggers: ["any \"can AI/ChatGPT/Claude help me with my DNA / tree / citations\"", "**or** whenever you (the assistant) are about to compute", "assert something in this domain"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "AI-FOR-DNA-RESEARCH-01", "text": "never fabricate cM→relationship odds (route to the Shared cM Project / DNA Painter WATO); every AI output is a **hypothesis to verify**, never a fact to file."}]
+guardrails: [{"id": "AI-FOR-DNA-RESEARCH-01", "text": "never fabricate cM→relationship odds (route to the Shared cM Project / DNA Painter WATO); every AI output is a **hypothesis to verify**, never a fact to file."}, {"id": "CM-01", "text": "Never ask the LLM to compute relationship probabilities from a cM number — it *fabricates* them."}, {"id": "CM-02", "text": "Either way, always ask for **all** candidate relationships, never a single point answer."}]
 handoff: ["23andme-match-research", "unknown-parentage-wato", "xdna-phasing-judgment"]
 checked: "2026-07-18"
 checked_basis: "accessed 2026-07-18"

@@ -1,0 +1,27 @@
+0 HEAD
+1 SOUR SYNTHETIC-EVAL
+1 SUBM @U1@
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @U1@ SUBM
+1 NAME Synthetic researcher
+0 @I1@ INDI
+1 NAME Alex /Example/
+1 BIRT
+2 DATE 1942
+2 SOUR @S1@
+3 QUAY 3
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Sam /Example/
+1 BIRT
+2 DATE 1945
+1 FAMS @F1@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+0 @S1@ SOUR
+1 TITL Synthetic family note; dates unverified
+0 TRLR

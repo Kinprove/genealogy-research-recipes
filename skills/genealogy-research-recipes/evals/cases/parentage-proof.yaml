@@ -1,0 +1,37 @@
+{
+  "id": "parentage-proof",
+  "prompt": "How do I prove my 4th great-grandfather's parents?",
+  "materials": [],
+  "expect": {
+    "recipes": [],
+    "any_of": [
+      "evidence-proof-judgment",
+      "genealogy-standards-audit"
+    ],
+    "clarify": false,
+    "read_sections": {
+      "evidence-proof-judgment": [
+        "Hard rules \u2014 apply these before you rule (the load-bearing directives)",
+        "What the HUMAN must own (never delegate to an AI conclusion)"
+      ],
+      "genealogy-standards-audit": [
+        "Fix the question and the audit boundary",
+        "Replace GPS checkmarks with evidence pointers"
+      ]
+    }
+  },
+  "assert": {
+    "regex_present": [],
+    "regex_absent": [],
+    "rubric": [
+      {
+        "guardrail": "PROOF-04",
+        "question": "Does the answer avoid making its own final proof ruling and propose a search that could disconfirm the parentage hypothesis?"
+      },
+      {
+        "guardrail": "PROOF-02",
+        "question": "Does it check same-name rivals and assemble one correlated argument, integrating DNA if relevant rather than issuing independent DNA and paper verdicts?"
+      }
+    ]
+  }
+}

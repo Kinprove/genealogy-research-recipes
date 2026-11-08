@@ -4,6 +4,7 @@ import json
 import os
 import shutil
 import subprocess
+import sys
 import tarfile
 import tempfile
 import unittest
@@ -111,6 +112,13 @@ class ClawHubPackageTests(unittest.TestCase):
                         assert resource is not None, relative
                         with resource:
                             self.assertEqual(resource.read(), (ROOT / relative).read_bytes())
+                # Exercise links against the actual installed artifact: a source-only
+                # file must not accidentally make a packaged route look valid.
+                installed = temporary / "installed"
+                archive.extractall(installed, members=members)
+                sys.path.insert(0, str(skill / "evals"))
+                from checks import static_checks
+                static_checks(installed / "package/skills/genealogy-research-recipes")
 
 
 if __name__ == "__main__":

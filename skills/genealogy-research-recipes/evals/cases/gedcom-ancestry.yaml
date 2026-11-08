@@ -1,0 +1,39 @@
+{
+  "id": "gedcom-ancestry",
+  "prompt": "Check whether this GEDCOM is ready for Ancestry.",
+  "materials": [
+    "family.ged"
+  ],
+  "expect": {
+    "recipes": [
+      "gedcom-research-export"
+    ],
+    "any_of": [],
+    "clarify": false,
+    "read_full": [
+      "gedcom-research-export"
+    ]
+  },
+  "assert": {
+    "regex_present": [
+      "living|alive",
+      "redact|omit|exclude|remov|leave.{0,30}\\bout\\b|anonymi[sz]|pseudonymi[sz]"
+    ],
+    "regex_absent": [],
+    "rubric": [
+      {
+        "guardrail": "GED-01",
+        "question": "Does it keep 1940s births without death evidence potentially living and avoid assigning deceased status from age or missing DEAT?"
+      },
+      {
+        "guardrail": "GED-04",
+        "question": "Does it keep upload conditional on either fully omitting the living people's data, including their individual and family-relationship records, or obtaining their explicit permission for the stated destination (redacting names or birth years alone does not remove the permission requirement for remaining living-person data)?"
+      },
+      {
+        "guardrail": "GED-03",
+        "question": "If the answer uses or discusses QUAY, does it avoid equating the code with research status or a proven flag, or treating those dimensions as contradictory?"
+      }
+    ]
+  },
+  "notes": "The issue requires no QUAY-to-research-status mapping. It does not require a QUAY explanation when no mapping or use of the tag is proposed."
+}

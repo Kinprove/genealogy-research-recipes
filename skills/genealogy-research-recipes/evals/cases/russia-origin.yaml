@@ -1,0 +1,15 @@
+{
+  "id": "russia-origin",
+  "prompt": "My great-grandfather came from Russia. Where should I look?",
+  "materials": [],
+  "expect": {
+    "recipes": [],
+    "any_of": [],
+    "clarify": true
+  },
+  "assert": {
+    "regex_present": [],
+    "regex_absent": [],
+    "rubric": []
+  }
+}

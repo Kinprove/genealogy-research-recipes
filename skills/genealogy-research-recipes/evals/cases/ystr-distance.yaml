@@ -1,0 +1,36 @@
+{
+  "id": "ystr-distance",
+  "prompt": "GD 2 at 37 markers with another Smith: how many generations?",
+  "materials": [],
+  "expect": {
+    "recipes": [
+      "ydna-mtdna-interpretation"
+    ],
+    "any_of": [],
+    "clarify": false,
+    "read_sections": {
+      "ydna-mtdna-interpretation": [
+        "The mental model (get this right or everything downstream breaks)",
+        "Rules of thumb — the resolution → timeframe map (interpretive ceilings, not a tutorial)"
+      ]
+    }
+  },
+  "assert": {
+    "regex_present": [
+      "TiP|Match Time Tree"
+    ],
+    "regex_absent": [
+      "(?:is|means|about|roughly|approximately)\\s+\\d+\\s+generations"
+    ],
+    "rubric": [
+      {
+        "guardrail": "Y-01",
+        "question": "Does it avoid its own numerical generations estimate and route timing to TiP or Match Time Tree, retaining a range and uncertainty?"
+      },
+      {
+        "guardrail": "Y-02",
+        "question": "Does it avoid a non-paternity conclusion from the STR distance or surname?"
+      }
+    ]
+  }
+}

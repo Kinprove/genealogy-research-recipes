@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["Attribute and date an inherited family photo
 triggers: ["Attribute and date an inherited family photograph from captions", "provenance and the photographer's imprint"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "FAMILY-PHOTOGRAPH-ATTRIBUTION-AND-DATING-01", "text": "never compare faces or name anyone by appearance; record each identification as an attributed claim, test it against the named person's documented lifetime, and turn each date clue into a bound."}]
+guardrails: [{"id": "FAMILY-PHOTOGRAPH-ATTRIBUTION-AND-DATING-01", "text": "never compare faces or name anyone by appearance; record each identification as an attributed claim, test it against the named person's documented lifetime, and turn each date clue into a bound."}, {"id": "PHOTO-01", "text": "Preserve the attribution and its basis; do not identify a person by their face or compare faces across photographs."}, {"id": "PHOTO-02", "text": "Before you upload a private family photograph to any outside service (reverse image search, enhancement or colorization), answer the privacy gate in `SKILL.md` and get the user's explicit permission for that service."}]
 handoff: []
 checked: "2026-11-02"
 checked_basis: "checked on 2026-11-02"

@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["separating same-named people, resolving conf
 triggers: ["separating same-named people", "resolving conflicting records", "weighing indirect vs negative evidence", "combining DNA with documents into ONE proof", "conditional placements", "discriminating hypothesis tests"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "EVIDENCE-PROOF-JUDGMENT-01", "text": "the human owns every ruling (merge/separate, conflict resolution, exhaustiveness, the final \"therefore proven\"); a provisional link can direct a search without establishing dependent ancestry. The model assembles and drafts but NEVER concludes."}]
+guardrails: [{"id": "EVIDENCE-PROOF-JUDGMENT-01", "text": "the human owns every ruling (merge/separate, conflict resolution, exhaustiveness, the final \"therefore proven\"); a provisional link can direct a search without establishing dependent ancestry. The model assembles and drafts but NEVER concludes."}, {"id": "PROOF-01", "text": "**You rule on identity and proof. The model assembles and drafts — it never concludes.**"}, {"id": "PROOF-02", "text": "**Keep same-name candidates in SEPARATE research projects** so their records never cross-contaminate."}, {"id": "PROOF-03", "text": "A converged match is evidence in the proof argument, not proof by itself."}, {"id": "PROOF-04", "text": "**Include a search that challenges the preferred version.**"}]
 handoff: ["ai-for-dna-research", "ai-for-documentary-records", "ancestry-record-search-recovery", "gedcom-research-export", "quaker-meeting-record-recovery", "unknown-parentage-wato"]
 checked: "2026-10-07"
 checked_basis: "accessed 2026-10-07"
@@ -52,6 +52,9 @@ Two consequences follow, and they are the whole recipe: (1) treat the model as a
 2. **No identity claim until the descriptor dossier exists — and sort the table BY descriptor, not by name.** A distinct verified signature (or any strong descriptor) can support a split, a matching one a union — but only corroborated by the rest of the dossier, never as a lone identity test.
 3. **Any unresolved biological or chronological impossibility BLOCKS the merge** — however smooth the prose reads. A genuine impossibility (childbearing window, a birth more than about ten months after the father's death) separates; a posthumous birth within about ten months of his death is not an impossibility. A softer anomaly (a duplicate census enumeration, a household member who appears then vanishes) is a CONFLICT to investigate, not an automatic separator.
 4. **Keep same-name candidates in SEPARATE research projects** so their records never cross-contaminate.
+   In a parentage-plan response, explicitly include a search for other people with the
+   child's or proposed parents' names in the relevant place and period. Compare their
+   identifying details before attributing records to the preferred family.
 5. **Weigh sources, don't count them.** Five online trees copying one claim aren't five witnesses — they're one unverified claim repeated. Classify on three layers: the **source** (original record, derivative record such as an index or abstract, or authored work), each statement's **information** (primary, secondary, or **undetermined** when the informant is unknown), and the **evidence** it gives for the question (direct, indirect or negative). Classify each *statement* by whether its informant had firsthand knowledge of THAT fact (a death certificate's informant usually knew the death firsthand, the birth only secondhand) — never stamp a whole record "primary" or "secondary." When the record does not identify the informant, as in most U.S. censuses before 1940, mark the information undetermined; do not guess an informant. (BCG, Become a Certified Genealogist; Mills, QuickLesson 17)
 6. **A record's mere mention of a person doesn't prove a relationship it never asserts** — but an unstated relationship can still be proved by an explicit, written correlation of indirect evidence (never by assertion). A parent's signature on a standard-form marriage bond does **not** prove a minor bride.
 7. **"No record found" is a search result, not evidence** — and absence of a death record is not evidence of life. **Log every search with its date** (online coverage changes over time).
@@ -59,6 +62,11 @@ Two consequences follow, and they are the whole recipe: (1) treat the model as a
 9. **Document each DNA test-taker's parent-child descent to the common ancestor BEFORE the match counts as evidence for that ancestor** — then require paper descent and genetic sharing to converge on **one** hypothesis, and judge match **quality**, not count. A converged match is evidence in the proof argument, not proof by itself.
 10. **On a collaborative tree, read the change log bottom-up** to recover the profile's original intended identity before untangling.
 11. **You rule on identity and proof. The model assembles and drafts — it never concludes.**
+12. **Include a search that challenges the preferred version.** In a parentage plan,
+    name what result would disconfirm the proposed link and which record could reveal
+    it. When the person, place or period is still unknown, make the record choice
+    conditional and ask for that context. Use the working-hypothesis procedure below;
+    a list of sources to confirm the preferred parents is not a test of the alternatives.
 
 ## What the HUMAN must own (never delegate to an AI conclusion)
 

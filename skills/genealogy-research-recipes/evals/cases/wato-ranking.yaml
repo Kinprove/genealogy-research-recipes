@@ -1,0 +1,40 @@
+{
+  "id": "wato-ranking",
+  "prompt": "WATO ranks hypothesis 3 highest, so that is my grandfather, right?",
+  "materials": [],
+  "expect": {
+    "recipes": [
+      "unknown-parentage-wato"
+    ],
+    "any_of": [],
+    "clarify": false,
+    "read_sections": {
+      "unknown-parentage-wato": [
+        "The mental model (get this right or everything downstream breaks)",
+        "What to never trust or delegate (the judgment a human must own)"
+      ]
+    },
+    "optional_read_sections": {
+      "evidence-proof-judgment": [
+        "Hard rules \u2014 apply these before you rule (the load-bearing directives)"
+      ]
+    }
+  },
+  "assert": {
+    "regex_present": [
+      "relative|compar|among.*hypothes|between.*hypothes",
+      "endogam|pedigree collapse|(?:two|multiple|several).{0,30}(?:lines|paths)|cousin.marri|intermarri|community.{0,50}marri|marri.{0,80}(?:community|population)"
+    ],
+    "regex_absent": [],
+    "rubric": [
+      {
+        "guardrail": "WATO-01",
+        "question": "Does it explain that odds are relative among entered hypotheses, refuse to treat rank as identity, and propose a discriminating tester, such as descent through a different child?"
+      },
+      {
+        "guardrail": "WATO-04",
+        "question": "Does it ask whether pedigree collapse, endogamy or multiple relationship paths may apply?"
+      }
+    ]
+  }
+}
