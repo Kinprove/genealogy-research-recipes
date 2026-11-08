@@ -8,7 +8,7 @@ triggers: ["Chain a non-Jewish revision-list household across copies", "sections
 privacy: "none"
 gates: []
 guardrails: [{"id": "RUSSIAN-REVISION-LIST-HOUSEHOLD-CHAINING-01", "text": "a central and a local copy are not two confirmations, and Urals fond numbers and age patterns must be checked locally."}]
-handoff: ["bessarabia-moldova-record-routing", "russian-orthodox-metrical-book-recovery"]
+handoff: ["bessarabia-moldova-record-routing", "russian-orthodox-confession-list-reading", "russian-orthodox-metrical-book-recovery"]
 checked: "2026-11-02"
 checked_basis: "checked 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
@@ -173,13 +173,8 @@ Keep every field as written, with the leaf (л./об.) for each household. Do no
   - a participant took the local copy to be somewhat later, because an infant shown as half a year old in the RGADA book is one year old in the local copy; treat that order as unproven until dated evidence settles it
 
   [S10] For 1747, the local copy and the central copy cited by participants differ by a year in several ages, and in those entries the 1762 previous-revision figures match the central copy. [S2] Record each copy as a separate observation of one episode, never as corroboration.
-- **Bridge gaps with confession lists.** A participant reconstructed Southern Trans-Urals male lines from 1850 back to the 1680s this way:
-  1. Chain the revisions with the 1774–1830 confession lists (in the Orenburg archive).
-  2. Use the 1795 revision, which carries the 1782 figures as well as the 1795 ones, to link to the 1719 lists of the Iset slobodas.
-  3. Go to the 1710 census.
-  4. Go to the 1680s census, which gives the territory of origin.
+- **Bridge gaps with confession lists.** To chain revisions through the confession lists between them, and to use lists of people absent from confession, follow [reading confession lists, steps 3 and 5](russian-orthodox-confession-list-reading.md#5-check-the-household-against-revision-lists-and-metrical-books).
 
-  [S18] A 1765–1767 list of people absent from confession (GASO f.24, op.1, d.2293) helped a participant settle a patronymic that a clerk had miswritten. [S10]
 - **Record unlocated revisions as unlocated.** Participants could not locate the 4th–7th revisions for two Irbit volosts and cited the 1800 confession lists instead (GASO f.6, op.3, d.345b, l.69 ob. and d.345a, l.153 ob.). [S24]
 
 - **Iset-line fortresses.** Chelyabinsk fortress was founded in 1736, after the 1719 sloboda lists; its 1740 census book is published by I. V. Degtyarev in «Челябинская старина» (Chelyabinsk, 1996, pp. 56–96). [S52 @2026-11-08] V. V. Pozdeev published the 1739–1740 first-settler lists of the Miass fortress in «Ветер времени», 2007, no. 1 (14), pp. 67–74. [S53 @2026-11-08] A local-history page cites the Miass census as RGADA f.248, op.3, d.144; confirm the locator in the RGADA inventory and check each edition against its original. [S54 @2026-11-08]
