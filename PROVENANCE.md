@@ -22,6 +22,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `catholic-sacramental-cross-notations#C-d2ee8b9ea9b3` | portal-availability | 2026-11-08 | 2027-02-06 | S12 |
 | `holocaust-testimony-source-interpretation#C-2d89c69f5ab0` | portal-availability | 2026-11-08 | 2027-02-06 | H18, H19, H20 |
 | `portuguese-parish-civil-register-recovery#C-866ab6daf659` | portal-availability | 2026-11-08 | 2027-02-06 | S7, S8, S2, S1, S16, S18, S3, S22, S11 |
+| `published-book-catalogue-and-full-text-discovery#C-511fbf32a099` | platform-ui | 2026-11-08 | 2027-05-07 | S7, S33, S34, S35 |
 | `repository-photograph-collection-search#C-d91c6fee6935` | platform-ui | 2026-11-08 | 2027-05-07 | S31, S32 |
 | `russian-empire-emigrant-origin-recovery#C-1a1880aaebdd` | custody | 2026-11-08 | 2027-05-07 | H16, H17, H18 |
 | `russian-estate-registration-status#C-3d60525002f7` | custody | 2026-11-08 | 2027-05-07 | S17, S18, S19, S20 |
@@ -146,7 +147,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [polish-index-original-record-recovery](skills/genealogy-research-recipes/sources/polish-index-original-record-recovery.md) | 31 | 22 | 0 | — |
 | [portuguese-parish-civil-register-recovery](skills/genealogy-research-recipes/sources/portuguese-parish-civil-register-recovery.md) | 38 | 9 | 1 | — |
 | [probate-case-document-inventory](skills/genealogy-research-recipes/sources/probate-case-document-inventory.md) | 25 | 29 | 7 | — |
-| [published-book-catalogue-and-full-text-discovery](skills/genealogy-research-recipes/sources/published-book-catalogue-and-full-text-discovery.md) | 42 | 29 | 0 | — |
+| [published-book-catalogue-and-full-text-discovery](skills/genealogy-research-recipes/sources/published-book-catalogue-and-full-text-discovery.md) | 38 | 28 | 0 | — |
 | [quaker-meeting-record-recovery](skills/genealogy-research-recipes/sources/quaker-meeting-record-recovery.md) | 15 | 6 | 0 | — |
 | [rabbinic-literature-person-search](skills/genealogy-research-recipes/sources/rabbinic-literature-person-search.md) | 20 | 1 | 1 | — |
 | [repository-photograph-collection-search](skills/genealogy-research-recipes/sources/repository-photograph-collection-search.md) | 35 | 19 | 0 | — |

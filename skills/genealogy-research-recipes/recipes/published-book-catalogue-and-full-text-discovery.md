@@ -177,11 +177,11 @@ verified here; use the procedure to check the actual case rather than copy its e
   - Full view also depends on the country you search from. In 2026, works published in the U.S. in 1930 or earlier, or elsewhere in 1900 or earlier, are public domain for everyone. Works published outside the U.S. from 1901 to 1930 open in full view only from a U.S. IP address and show as "Limited (search-only)" elsewhere. Works from 1931 on are in copyright. These years move forward each January, and the rights code on the volume decides; the code `icus` opens a volume only outside the U.S. [S29], [S30], [S37].
   - HathiTrust's default search lists only items you can read, so outside the U.S. set Item Viewability to All Items to see that a volume exists [S31]. Its Bibliographic API reports the view for a U.S. user, so a "Full View" there is not the answer for a reader elsewhere [S32].
 
-  Google digitised most HathiTrust content, so check Google Books for a locked item, as the presenter does [S7]. Google Books also decides what a reader may view from the reader's country and IP address [S33].
-- **A FamilySearch access-restriction message** (such as "not authorized to view") means the book is restricted, not missing. FamilySearch gives each book one of three access levels, shown in its search result and in the Access Level filter [S34]:
-  - **Available Online:** searched and viewed online; it can be downloaded and printed [S35].
-  - **Protected (search only):** searched online, generally not viewable. One current help article says it cannot be viewed; another says it can be viewed but not printed or downloaded [S34], [S35]. Do not tell the user they can view it.
-  - **Viewable in Library:** searched online and viewed only on site ("from a Family Search Center or Library", in the help's words), without printing or downloading [S34], [S35].
+  Google digitised most HathiTrust content, so check Google Books for a locked item, as the presenter does [S7 @2026-11-08]. Google Books also decides what a reader may view from the reader's country and IP address [S33 @2026-11-08].
+- **A FamilySearch access-restriction message** (such as "not authorized to view") means the book is restricted, not missing. FamilySearch gives each book one of three access levels, shown in its search result and in the Access Level filter [S34 @2026-11-08]:
+  - **Available Online:** searched and viewed online; it can be downloaded and printed [S35 @2026-11-08].
+  - **Protected (search only):** searched online, generally not viewable. One current help article says it cannot be viewed; another says it can be viewed but not printed or downloaded [S34 @2026-11-08], [S35 @2026-11-08]. Do not claim that it can be viewed.
+  - **Viewable in Library:** searched online and viewed only on site ("from a Family Search Center or Library", in the help's words), without printing or downloading [S34 @2026-11-08], [S35 @2026-11-08].
 
   Affiliate libraries do not get restricted Books images [S36]. Read the level on the book's search result and confirm that book's access with FamilySearch or the center before you plan a visit. The presenter adds that a "not authorized to view" message can also mean the book's limit on simultaneous viewers has been reached [S6]. Record the exact restriction message you saw.
 
