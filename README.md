@@ -1,3 +1,5 @@
+![Genealogy Research Recipes: a family tree drawn in dots, with a DNA double helix for its trunk](assets/banner.png)
+
 # Genealogy Research Recipes
 
 One skill instead of many: DNA evidence and record searches across countries, archives and
