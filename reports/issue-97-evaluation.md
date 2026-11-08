@@ -1,5 +1,34 @@
 # Issue 97 evaluation evidence
 
+## Current candidate after cadence removal
+
+Source `bc5485b0a16947183e0ff4a099525934b1b448aa` passes **14/14 cases**. All 42 assistant samples use the same committed skill inputs and the normal `claude3` profile. No daily run or new API credential is required.
+
+| Case | Routing and regex | Complete rubric | Result |
+| --- | --- | --- | --- |
+| cm-relationship | 3/3 | 3/3 | pass |
+| deportation-1944 | 3/3 | 3/3 | pass |
+| family-interview | 3/3 | 3/3 | pass |
+| gedcom-ancestry | 3/3 | 2/3 | pass |
+| gedmatch-upload | 3/3 | 3/3 | pass |
+| match-outreach | 3/3 | 3/3 | pass |
+| match-outreach-helper | 3/3 | 3/3 | pass |
+| memorial-proof | 3/3 | 3/3 | pass |
+| parentage-proof | 3/3 | 3/3 | pass |
+| photo-attribution | 3/3 | 3/3 | pass |
+| russia-origin | 3/3 | 3/3 | pass |
+| unreadable-village | 3/3 | 3/3 | pass |
+| wato-ranking | 3/3 | 3/3 | pass |
+| ystr-distance | 3/3 | 3/3 | pass |
+
+The [current JSON receipt](issue-97-current-evaluation.json) contains the frozen answers, delivered read-coverage summaries, original/current structured verdicts, exact case and guardrail contracts, source/harness hashes and trace digests.
+
+The original full batch scored 13/14 because the GEDCOM rubric incorrectly required redaction and permission unconditionally. The privacy gate requires permission for living-person data that actually leaves the device/account. After independent source review, the question was corrected to distinguish complete omission from retained individual/family data. Three frozen answers were reassessed once; complete omission passes, three unsafe controls fail, and the partial-redaction answer still fails. The required 2/3 rubric threshold is unchanged. All original failures remain in the receipt.
+
+Optional hosted execution remains unexercised. The following earlier results are retained as historical evidence, including the failed v1.12.0 baseline.
+
+## Earlier source snapshots
+
 The candidate at the source commit below passed **14/14 cases** across the documented local case batches, with three samples per case.
 
 The skill inputs are commit `4653a3e70554d6ed3e403a274f1e9990d37656c2`. The normal `claude3` profile resolved to `claude-opus-5-5`; no model override was supplied. Native Read returned complete selected files, matching the primary read-file server's default. All materials are synthetic.
