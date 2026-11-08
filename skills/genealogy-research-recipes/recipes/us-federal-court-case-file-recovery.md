@@ -81,6 +81,8 @@ The federal courts had four levels [S2]:
   circuit courts.
 - **The Supreme Court** was established in 1789.
 
+- **A lead that names a judge but no court:** do not give up on the case or turn to state courts. If the judge was a federal judge nominated by the President and confirmed by the Senate, search the name in the Federal Judicial Center's Biographical Directory of Article III Federal Judges, whose entries give the federal court or courts served [S10], [S11], [S13]. Then use the National Archives' Guide to Federal Records to locate that court's records: RG 21 for district and circuit courts, RG 276 for courts of appeals and RG 267 for the Supreme Court [S12].
+
 For a matter before 1912, search both district and circuit court records unless the lead names
 the court. An appeal does not stay with the trial file. Route it by the court that heard the
 appeal on its date. Before 1891 the circuit courts heard appeals themselves, and those records

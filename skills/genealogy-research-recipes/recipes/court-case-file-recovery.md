@@ -68,6 +68,8 @@ Build a crosswalk from each pointer to the file it implies. Keep these parts sep
 
 **Appellate citation.** An appeal shows that a lower-court case was filed. Go to that court for the file. [S1]
 
+**Judge named without a court.** If an article names a state or local judge but not the court, do not give up on the court record: The Legal Genealogist suggests looking for other newspaper articles from the same time and place to get the judge's full name, the court's name or the exact place the judge was working. [S12] Also look for a published "History of the Bench and Bar" or similarly named volume for that time and place, as the author recommends, for example through Google Books with "history bench and bar" as the search term and the 19th century as the time frame. [S12] Such volumes exist for Wisconsin (1882), Ohio (1897) and Missouri (1878), and the Ohio text shows one naming a judge's court. [S13], [S14], [S15]
+
 ## Request the loose papers as their own series
 
 **Privacy gate:** <!-- privacy-gate: request --> A court-file request can disclose a party's

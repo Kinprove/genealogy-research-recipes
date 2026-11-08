@@ -491,6 +491,8 @@ and [release-of-dower discussion](https://www.youtube.com/watch?v=CjjD9mI_dY8) m
 check. Release requirements varied by state. Neither a missing release nor the witnesses' names
 establish her death, marital status or kinship. [S9]
 
+For North Carolina deeds from 1784 to about 1867, The Legal Genealogist expects formal dower relinquishments to be mostly absent, because dower then reached only land the husband owned at his death; do not read a deed without one as showing that the seller was unmarried or widowed. [S39] North Carolina case law confirms that limit on dower and says an 1867 act extended dower to land held during the marriage unless the wife joined the deed with privy examination. [S40] The 1784 starting date was not independently verified, and no independent source confirmed how often relinquishments actually appear in these deeds, so treat their absence as a lead only. [S39]
+
 A grantor/grantee index often names only the parties to an instrument. Determine from the index
 itself whether it covers only parties or also witnesses, adjoiners, heirs or other people named in
 the text, and report a negative search within that verified scope. Use
@@ -500,6 +502,8 @@ Read instruments already in hand for those people too, and verify any search hit
 [full-text search remark](https://www.youtube.com/watch?v=kFxsAw8HHAs) motivates this
 distinction. Full-text coverage and machine reading vary, so a full-text miss does not prove
 absence either. [S8]
+
+When grantor and grantee indexes show no deed for someone who, according to other records, held land that must later have passed to another, read the surviving deed books page by page for the relevant years if they can be reviewed. [S41], [S42] This prevents a careful index search, even one covering spelling variants, from becoming a conclusion that the person never sold or recorded a deed. [S43] The Legal Genealogist's Winston County, Mississippi, example motivates this general practice; its index and deeds were not independently verified. [S43]
 
 When an original deed survives outside the recorded book, read any clerk's endorsement giving
 the book, page or acknowledgment date. Use it to find the recorded copy, then compare the two

@@ -61,13 +61,19 @@ Take this from, in order of preference:
 
 If the statute book gives no assessment rate, search contemporary newspapers for it [S2]. When columns or check marks have no headings, do not guess what they taxed. Find the governing law first [S3].
 
+To test whether a Virginia county taxed males aged 16–21 after 1783, do not stop at the state statutes: read that county court's order books, where county levies can appear [S26], [S32]. Section IX of the May 1783 act left county courts free to list free male tithables of those ages and tax them for county or parish levies, but it does not require a specific order, and clerks varied [S26], [S33]. An order found shows the county levied the tax; no order found leaves the county's practice undetermined [S26], [S33].
+
 Do not apply a poll-tax age from memory (21, 45, 50, 55). Each of these is tied to a particular state and period. In North Carolina, the State Library of North Carolina's guide gives poll-tax liability for freemen and male servants aged 21 and over by 1784, an exemption for men over 50 by 1801, and a limit lowered to 45 in 1817. Texas's first poll tax (1837) fell on white males aged 21 to 55. One presenter uses an over-55 exemption as an example [S6]. Cite the rule for your place and year, or mark the scope **not determined**.
+
+For Virginia colonial tithables, do not assume a minimum age of 21 or a white-male-only rule: the March 1642/3 law set 16 for youths and also named Black women at 16, and 16 continued for white males through the October 1748 act [S26], [S27], [S28]. A state poll tax at 21 was levied by October 1777 and the November 1781 act taxed free males above 21, but the Library of Virginia says counties could still choose to tax everyone over 16 in 1782–1787 [S29], [S30], [S31].
 
 ## 3. Search each tax series separately
 
 Search the land series and the personal-property or poll series separately, and keep a separate register for each. A man without land can still appear on a personal-property list as a single taxable poll or because of a taxable item such as a horse or a watch [S5]. On Virginia lists, horses were taxed from 1782 and watches had their own columns in the 1850s.
 
 On Virginia personal-property lists, enslaved people were taxed under the enslaver. The presenter describes them as listed by first name, in age groups that varied by county [S5]. The Library of Virginia's guide narrows this. Names appear only on the 1782–1786 lists, and later lists give counts. The age categories (above or below 16, with a 12–16 band in later years) were set by state statute and changed over time; they did not vary by county. Do not expect names on lists after 1786. Record the counts and age categories exactly as the list in hand gives them.
+
+In seventeenth- and eighteenth-century Virginia records, read "tithable" as a person who paid one of the taxes imposed by the General Assembly, or for whom someone else paid it, and do not assume each tithable paid personally; enslavers, for example, paid the taxes levied on their enslaved workers and servants [S26], [S34], [S35]. The tax was laid by law, so do not read a tithable as a voluntary church tithe-payer [S34].
 
 In Pennsylvania township lists, "inmates" are renters or lodgers on someone else's land who were taxed on personal property. They are not prisoners. Exact definitions vary by county and period [S4], so record which section of the list each entry is in. The same presenter says Pennsylvania taxed some personal property, such as cattle and horses, up to the 1840s. Livestock appears on county lists from the 1780s and 1790s. For later years, take livestock liability from the list's column headings or the assessment law for that year, not from the 1840s date [S4].
 
@@ -134,6 +140,8 @@ Test the candidates against other records:
 The bound you report runs from the last inspected list on one side of the change to the first inspected list on the other. Annual lists give a one-year interval only when those two years are consecutive and both are inspected – hit or inspected – no hit. Across a run of missing or uninspected years, the interval covers the whole run. With annual lists, one year is the tightest bound. One presenter says some town lists were made monthly and that he timed a Rhode Island-to-New York move to the month from them [S20], [S18]. Claim month-level precision only where your own register shows consecutive inspected monthly lists.
 
 A son's first entry as a separate taxpayer is a bounded clue to his coming of age or to a separate household [S18]. It is not an exact birthday. If you estimate a birth year from a liability age, give a range and cite the specific rule you used [S8]. Without a documented age band, give no estimate. Same-surname men taxed next to an older householder are only candidate sons. Send them, and every identity question, to [evidence/proof judgment](evidence-proof-judgment.md).
+
+On Virginia personal-property lists from the May 1783 act (in force 1 July 1783) to the 1793 change, do not read a first listing as age 21 without checking that county's practice, because county courts could still list free male tithables aged 16–21 for county or parish levies [S26], [S33]. The Library of Virginia gives 21 as the taxable age for 1782–1787, with counties able to tax everyone over 16, and 16 as the taxable age statewide from 1793, so from that year test a first listing against 16, with no county-by-county inquiry [S31].
 
 ## 7. Close with a tax-series packet
 
