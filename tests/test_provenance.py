@@ -234,6 +234,41 @@ class ProvenanceTests(unittest.TestCase):
             ledger['claims'][0].update(anchor=anchor, stated_as='observation')
             self.rejects(ledger, 'unread source', recipe='# Example\n\n' + anchor)
 
+    def test_a_hidden_only_citation_cannot_satisfy_any_access_state(self):
+        for access, status, marker in [
+            ('read', 'fact', '[S1 @2026-11-07]'),
+            ('partial', 'fact', '[S1 @2026-11-07]'),
+            ('snippet-only', 'observation', '[S1† @2026-11-07]'),
+        ]:
+            for hidden in (f'<span title="{marker}"></span>',
+                           f'<span title=" > From the inspected excerpt {marker}"></span>',
+                           f'<!-- According to a snippet {marker} -->',
+                           f'`{marker}`'):
+                with self.subTest(access=access, hidden=hidden):
+                    ledger = reviewed()
+                    ledger['sources'][0]['access'] = access
+                    anchor = 'The archive currently offers free copies. ' + hidden
+                    ledger['claims'][0].update(anchor=anchor, kind='fee', stated_as=status)
+                    self.rejects(ledger, 'source markers differ|no visible citation', recipe='# Example\n\n' + anchor)
+
+    def test_a_hidden_dated_marker_cannot_supply_a_visible_citations_check_date(self):
+        ledger = reviewed()
+        anchor = ('The archive currently offers parish search. [S1] '
+                  '<span title="[S1 @2026-11-07]"></span>')
+        ledger['claims'][0]['anchor'] = anchor
+        self.rejects(ledger, 'missing dated marker', recipe='# Example\n\n' + anchor)
+
+    def test_hidden_comments_cannot_qualify_a_visible_citation(self):
+        for access, prefix, status, marker in [
+            ('snippet-only', '<!-- According to a snippet -->', 'observation', '[S1† @2026-11-07]'),
+            ('partial', '<!-- From the inspected excerpt -->', 'fact', '[S1 @2026-11-07]'),
+        ]:
+            ledger = reviewed()
+            ledger['sources'][0]['access'] = access
+            anchor = prefix + ' The archive currently offers free copies. ' + marker
+            ledger['claims'][0].update(anchor=anchor, stated_as=status)
+            self.rejects(ledger, 'unread source|partial source', recipe='# Example\n\n' + anchor)
+
     def test_access_basis_must_be_exact_dated_and_single_url(self):
         ledger = reviewed()
         ledger['sources'][0]['basis'] = 'opened 2026-11-06'

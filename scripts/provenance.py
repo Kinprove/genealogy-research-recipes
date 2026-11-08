@@ -217,9 +217,21 @@ def mask_inline_code(text):
     return ''.join(result)
 
 
+def visible_text(text):
+    """Hide code and non-visible HTML while retaining exact source offsets."""
+    def hide(match):
+        return ''.join('\n' if c == '\n' else ' ' for c in match[0])
+
+    text = mask_inline_code(text)
+    text = re.sub(r'<!--.*?(?:-->|$)', hide, text, flags=re.S)
+    # Quoted '>' characters belong to the attribute, not the end of its tag.
+    return re.sub(r'''</?[A-Za-z][A-Za-z0-9-]*(?=[\s/>])(?:[^"'<>]|"[^"]*"|'[^']*')*>''',
+                  hide, text)
+
+
 def markers(anchor, known=None):
     result = []
-    for match in MARKER.finditer(mask_inline_code(anchor)):
+    for match in MARKER.finditer(visible_text(anchor)):
         group = match[1]
         # Ranges are part of the legacy citation syntax.
         group = re.sub(r'([SHPOCNB])(\d+)\s*[–-]\s*(?:\1)?(\d+)',
@@ -244,12 +256,10 @@ def markers(anchor, known=None):
 
 def marker_contexts(anchor, sid):
     """Each source marker's sentence, so a separate hedge cannot qualify a fact."""
-    visible = mask_inline_code(anchor)
+    visible = visible_text(anchor)
     # Preserve marker offsets while hiding emphasis, quote delimiters and HTML
     # formatting/attributes. Formatting must not keep two sentences together or
     # supply a qualification through an inline example/attribute.
-    visible = re.sub(r'</?[A-Za-z][A-Za-z0-9-]*(?:\s[^>]*)?>',
-                     lambda m: ' ' * len(m[0]), visible)
     visible = re.sub(r'''[*_~"“”'‘’«»>]''', ' ', visible)
     boundaries = [0] + [m.end() for m in re.finditer(
         # A sentence ending in citations also separates a following lowercase
@@ -378,13 +388,15 @@ def validate(slug, source_text, recipe_text, ledger, exceptions, today):
         for sid in claim['sources']:
             source = sources[sid]
             require(source['review'] == 'reviewed', f'{label}: source {sid} is pending')
+            contexts = list(marker_contexts(anchor, sid))
+            require(bool(contexts), f'{label}: no visible citation context for {sid}')
             if source['access'] not in ('read', 'partial'):
                 require(claim['stated_as'] == 'observation' and all(
                     re.search(rf'\b{re.escape(sid)}†', marker) and HEDGE.search(context)
-                    for marker, context in marker_contexts(anchor, sid)),
+                    for marker, context in contexts),
                     f'{label}: unread source {sid} needs an attributed dagger observation')
             if source['access'] == 'partial':
-                require(all(PARTIAL_LIMIT.search(context) for _, context in marker_contexts(anchor, sid)),
+                require(all(PARTIAL_LIMIT.search(context) for _, context in contexts),
                         f'{label}: partial source needs a visible qualification')
             if checked:
                 require(source['retrieved'] and checked <= dt.date.fromisoformat(source['retrieved']),
@@ -393,7 +405,7 @@ def validate(slug, source_text, recipe_text, ledger, exceptions, today):
             require(checked is not None, f'{label}: current-state claim needs a check date')
             require((today - checked).days <= AGES[claim['kind']], f'{label}: stale {claim["kind"]} check')
             for sid in claim['sources']:
-                require(re.search(rf'\[{re.escape(sid)}†? @{claim["checked"]}\]', anchor),
+                require(re.search(rf'\[{re.escape(sid)}†? @{claim["checked"]}\]', visible_text(anchor)),
                         f'{label}: missing dated marker for {sid}')
     for block in candidate_blocks(recipe_text):
         require(any(block == c['anchor'] for c in claims.values()),

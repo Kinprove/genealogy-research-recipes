@@ -31,6 +31,10 @@ reads require a visible qualification. A factual claim cannot use a pending
 source. Checks validate the representation; review must still establish that
 the cited source supports each statement in the paragraph.
 
+Only visible citations, dates and qualifications count. Inline code, HTML
+attributes and HTML comments cannot supply them; every supporting source needs
+at least one visible citation context.
+
 For `platform-ui`, `fee`, `portal-availability` and `custody`, record `checked`
 and a separate `[S1 @YYYY-MM-DD]` marker for each supporting source. Fees and
 portal availability expire after 90 days; platform UI and custody after 180.
