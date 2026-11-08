@@ -58,6 +58,16 @@ today's date. Do not check for a newer version over the network yourself.
    broad recipe fits. While waiting, give the one question and a brief reason for it;
    save the source list and research workflow for the reply. "Came from Russia" alone
    does not establish a modern country, community or destination record system.
+   For a place in Central or Eastern Europe, choose by the state that held it on the event
+   date and by the family's religion, not by today's border. Start with the
+   [Central and Eastern Europe by period state](#central-and-eastern-europe-by-period-state)
+   routers. Elsewhere in the Russian Empire, use the
+   [Orthodox metrical-book recipe](recipes/russian-orthodox-metrical-book-recovery.md) for
+   Orthodox events and the
+   [Jewish metrical-book recipe](recipes/russian-empire-jewish-metrical-book-recovery.md)
+   for Jewish events outside the Kingdom of Poland. For the Kingdom of Poland, and for any
+   Geneteka, Metryki or Szukaj w Archiwach hit, use
+   [Polish index recovery](recipes/polish-index-original-record-recovery.md).
    For a general question about proof or research method, give a conditional method
    plan and ask for the context needed to choose actual record collections.
 2. **Read the selected task recipe in full before advising** — the value is in the
@@ -634,6 +644,25 @@ A dated source check is a maintenance reminder, not verification of every claim 
 
 ## More recipes by topic
 
+### Central and Eastern Europe by period state
+
+- **`recipes/galicia-bukovina-habsburg-record-routing.md`** — Route a Galician or Bukovinian record by date, confession and custodian.
+  Route a Galician or Bukovinian event by date, confession and custodian, and decide the army before
+  searching WWI records.
+
+- **`recipes/bessarabia-moldova-record-routing.md`** — Route a Bessarabian or Moldovan record by date, district and bank of the Dniester.
+  Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present
+  custodian, then search ANA fond 211 by opis.
+
+- **`recipes/historic-hungary-record-routing.md`** — Route a record from historic Hungary by county, successor state and record type.
+  Route a birth, marriage, death, census or tax entry from the pre-1920 Kingdom of Hungary by
+  county, successor state and record type.
+
+- **`recipes/austrian-confessional-register-routing.md`** — Route an Austrian or Czech-lands vital event to the confessional register that recorded it.
+  Route an Austrian or Czech-lands vital event to the register that legally recorded it: a
+  confessional register, the 1870 register for people outside a recognised church, or the regional
+  archive that now holds the books.
+
 ### Church and civil registers
 
 - **`recipes/us-vital-registration-coverage.md`** — Build a U.S. vital-registration coverage register before calling a birth or death record missing.
@@ -706,15 +735,6 @@ A dated source check is a maintenance reminder, not verification of every claim 
   Send an Italian birth, marriage or death to the register that was the legal record in that place
   and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato
   civile), then search conscription lists and the population register as separate series.
-
-- **`recipes/historic-hungary-record-routing.md`** — Route a record from historic Hungary by county, successor state and record type.
-  Route a birth, marriage, death, census or tax entry from the pre-1920 Kingdom of Hungary by
-  county, successor state and record type.
-
-- **`recipes/austrian-confessional-register-routing.md`** — Route an Austrian or Czech-lands vital event to the confessional register that recorded it.
-  Route an Austrian or Czech-lands vital event to the register that legally recorded it: a
-  confessional register, the 1870 register for people outside a recognised church, or the regional
-  archive that now holds the books.
 
 - **`recipes/spanish-civil-parish-record-routing.md`** — Route a Spanish or Andorran record to the archive that holds it on the event date.
   Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the
@@ -855,14 +875,6 @@ A dated source check is a maintenance reminder, not verification of every claim 
   Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are
   lost.
 
-- **`recipes/bessarabia-moldova-record-routing.md`** — Route a Bessarabian or Moldovan record by date, district and bank of the Dniester.
-  Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present
-  custodian, then search ANA fond 211 by opis.
-
-- **`recipes/galicia-bukovina-habsburg-record-routing.md`** — Route a Galician or Bukovinian record by date, confession and custodian.
-  Route a Galician or Bukovinian event by date, confession and custodian, and decide the army before
-  searching WWI records.
-
 - **`recipes/chechen-ingush-1944-deportation-records.md`** — Trace a Chechen or Ingush family through the 1944 deportation and special settlement.
   Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both
   names of renamed places and both ends of the exile.
@@ -890,17 +902,19 @@ A dated source check is a maintenance reminder, not verification of every claim 
 ### Courts, legislatures, prisons and institutions
 
 - **`recipes/court-case-file-recovery.md`** — Recover a U.S. court case file from its pointer records.
-  Recover a U.S. civil, chancery, divorce, criminal or incapacity case file through the records that
-  point to it, then inventory its loose papers.
+  Recover a U.S. state or local civil, chancery, divorce, criminal or incapacity case file through
+  the records that point to it, then inventory its loose papers.
 
 - **`recipes/us-federal-court-case-file-recovery.md`** — Recover a U.S. federal court case file.
   Take a lead to the right federal court for the period, its National Archives record group and
   index, and the loose case file.
 
-- **`recipes/criminal-court-prison-record-recovery.md`** — Recover U.S. criminal court and prison records, with England/Wales and Swedish routes.
-  Recover U.S. criminal court and prison records, including separate clemency and pardon files; use
-  the specific England/Wales no-fixed-abode and Swedish prison, police-gazette and court-copy routes
-  for those retrieval problems.
+- **`recipes/criminal-court-prison-record-recovery.md`** — Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes.
+  From an arrest, prison or census-institution lead, find the court that tried the case and recover
+  U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to
+  court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish
+  sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy
+  searches.
 
 - **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act and its petition.
   Recover a state legislative private act, such as a legitimation, name change, divorce or pension,

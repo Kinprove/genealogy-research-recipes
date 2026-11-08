@@ -12,7 +12,7 @@ handoff: ["archival-image-coverage-verification", "corpus-seeded-name-search", "
 checked: "2026-11-02"
 checked_basis: "consulted 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1094}
+router: {"tier": "pointer", "group": "Central and Eastern Europe by period state", "order": 1039}
 ---
 
 # Route a Bessarabian or Moldovan record by date, district and bank of the Dniester

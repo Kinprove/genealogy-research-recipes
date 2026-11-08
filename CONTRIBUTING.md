@@ -55,6 +55,9 @@ behavior, and cite the evidence supporting the change. Separate a source's claim
 from your inference, and keep dates, access limits and uncertainty visible. Update
 the corresponding `sources/<slug>.md` when its evidence or attribution changes.
 
+Before proposing a new recipe, check the [coverage roadmap](docs/coverage-roadmap.md).
+A pull request that adds a recipe for a listed area also moves that row to "Covered now".
+
 Follow [MAINTAINERS.md](MAINTAINERS.md) for recipe headers, source-check dates,
 source/claim ledgers, new-recipe exports and privacy declarations. Give provenance
 reports a stable locator such as `recipe-slug#S12` or `recipe-slug#C-claim-id`, the

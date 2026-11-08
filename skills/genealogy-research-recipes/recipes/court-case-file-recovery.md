@@ -1,14 +1,14 @@
 ---
 id: "court-case-file-recovery"
 title: "Recover a U.S. court case file from its pointer records"
-summary: "Recover a U.S. civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."
+summary: "Recover a U.S. state or local civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover a U.S. civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."]}
-triggers: ["Recover a U.S. civil", "chancery", "divorce", "criminal", "incapacity case file through the records that point to it", "then inventory its loose papers"]
+scope: {"platforms": [], "tasks": ["Recover a U.S. state or local civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."]}
+triggers: ["U.S. state or local court case file", "civil, chancery, divorce, criminal or incapacity proceeding", "court pointer records and loose papers"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "COURT-CASE-FILE-RECOVERY-01", "text": "captions, arrests, index entries and case-law searches stay bounded leads."}]
-handoff: ["us-federal-court-case-file-recovery"]
+handoff: ["criminal-court-prison-record-recovery", "us-federal-court-case-file-recovery"]
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
@@ -21,6 +21,12 @@ Use this recipe when a U.S. civil, chancery, divorce, criminal or incapacity pro
 
 For federal jurisdiction, record groups and NARA custody, use
 [U.S. federal court case-file recovery](us-federal-court-case-file-recovery.md).
+
+Start here for a case file from any U.S. state, county or local court, criminal cases included.
+When the lead is an arrest, a prison or a census institution entry and you still need to find which
+court tried the case, or when you need the prison, inmate, clemency or pardon records that follow a
+sentence, use [criminal court and prison records](criminal-court-prison-record-recovery.md), then
+return here for the case file.
 
 For the rule that an indictment or presentment is only an allegation, use [evidence/proof judgment](evidence-proof-judgment.md). Estate files, including reported probate opinions and probate appeal packets, belong to [probate case inventory](probate-case-document-inventory.md). Naturalization proceedings belong to [U.S. immigration § 9](usa-immigration-search-recovery.md). To recover a recorded judgment or a sheriff's deed in the land books, use [land index recovery](land-index-book-series-recovery.md).
 
