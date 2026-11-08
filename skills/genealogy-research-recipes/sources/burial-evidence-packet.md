@@ -467,6 +467,35 @@ Find a Grave original-image rules were checked on 2026-11-06 against P62–P65 a
 - **P91:** BillionGraves, [Do all headstone records have GPS?](https://support.billiongraves.com/support/solutions/articles/35000308542-do-all-headstone-records-have-gps-),
   opened 2026-11-06. Used for: GPS present only on records uploaded through the app.
 
+- **P92:** Ministry of Defence of the Russian Federation, [Письмо Минобороны России от 10.10.2023 N 328/2/3802](https://pravo.ppt.ru/pismo/minoborony/n-328-2-3802-291044),
+  with its methodological recommendations on registering military burials, reproduced by the
+  commercial legal publisher ppt.ru; read 2026-11-08 in that reproduction, not on a Ministry site.
+  Used for: the passport (учетная карточка) as the main record of a military burial, drafted by the
+  local administration and signed by its head and a military commissariat representative, with
+  copies for the local administration, the commissariat and a Ministry department; the named list's
+  status «увековечен» or «не увековечен» for a name present on or absent from the plate; and a name
+  removed from the list of a burial where the soldier was wrongly counted but, without a relatives'
+  request or objective need, not erased from its plate. It describes the current Russian system
+  only.
+
+- **P93:** Новый Калининград, [«Краевед: мы нашли десятки тысяч ошибок на мемориалах Великой Отечественной»](https://www.newkaliningrad.ru/news/community/13389913-kraeved-my-nashli-desyatki-tysyach-oshibok-na-memorialakh-velikoy-otechestvennoy-.html),
+  interview with a regional memorial researcher, published 2017-04-26, read 2026-11-08. Used for:
+  names moved to a consolidated mass grave without the remains. The researcher uses division loss
+  reports to trace primary burials; the interview does not say plate names were copied from them.
+  It is one researcher's account of one region in the press; his estimate of more than 21,000
+  misplaced names is not used.
+
+- **P94:** Марина Бедорфас, МК в Карелии, [«В братских могилах Карелии похоронены одни, а на плитах обозначены другие»](https://karel.mk.ru/articles/2015/06/05/v-bratskikh-mogilakh-karelii-pokhoroneny-odni-a-na-plitakh-oboznacheny-drugie.html),
+  published 2015-06-05, read 2026-11-08. Used for: the post-war system of transferring and
+  consolidating burials, and plate names taken in 1965 from a military commissariat's lists of the
+  dead without rechecking them, the named soldiers being buried elsewhere. It is a press report
+  about one district.
+
+- **P95:** Место памяти, [О проекте](https://местопамяти.рф/about), read 2026-11-08. Used for: a
+  portal created in 2015 on the initiative of the Russian Military Historical Society, to which any
+  registered user can add a memorial place with photographs and a description. The page does not
+  describe moderation, and the portal's search and individual cards were not checked.
+
 <!-- provenance-ledger:start -->
 ```yaml
 schema: 1
@@ -564,6 +593,10 @@ sources:
   - {"id":"P89","kind":"unknown","urls":["https://support.findagrave.com/hc/en-us/articles/53933391181843-Questions-about-Photos"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"af08f4295e3dd594d955db83543cf9f637f52401372e9e367a3d704fa254d750","claims":["C-222cf1c53dc4"],"review":"pending"}
   - {"id":"P90","kind":"unknown","urls":["https://support.billiongraves.com/support/solutions/articles/35000113634-how-does-billiongraves-work-"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"cab78eb359bdc635e271587c02fe67cc2307338d7d9c361362c8760f1e8d416b","claims":["C-cb3de84bfc78"],"review":"pending"}
   - {"id":"P91","kind":"unknown","urls":["https://support.billiongraves.com/support/solutions/articles/35000308542-do-all-headstone-records-have-gps-"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"7d787274b8ef3e7ec0d1f98d09c5d8e24698f2a67ab1f785ba89a4940fd4168b","claims":["C-cb3de84bfc78"],"review":"pending"}
+  - {"id":"P92","kind":"statute","urls":["https://pravo.ppt.ru/pismo/minoborony/n-328-2-3802-291044"],"published":null,"retrieved":"2026-11-08","access":"read","rights":null,"basis":"read 2026-11-08 in that reproduction, not on a Ministry site.","entry_sha256":"54d6548a4a8c7232327c2dd1693a65caa8b9ca27af238f292472b6a22104234e","claims":["C-b6736865657a","C-7e026a0cf74f"],"review":"reviewed"}
+  - {"id":"P93","kind":"web-page","urls":["https://www.newkaliningrad.ru/news/community/13389913-kraeved-my-nashli-desyatki-tysyach-oshibok-na-memorialakh-velikoy-otechestvennoy-.html"],"published":"2017-04-26","retrieved":"2026-11-08","access":"read","rights":null,"basis":"published 2017-04-26, read 2026-11-08","entry_sha256":"717f00336f10900c063459284f4c7d6747aa1fba8d973eb5f9923abc4d65afe8","claims":["C-b6736865657a"],"review":"reviewed"}
+  - {"id":"P94","kind":"web-page","urls":["https://karel.mk.ru/articles/2015/06/05/v-bratskikh-mogilakh-karelii-pokhoroneny-odni-a-na-plitakh-oboznacheny-drugie.html"],"published":"2015-06-05","retrieved":"2026-11-08","access":"read","rights":null,"basis":"published 2015-06-05, read 2026-11-08","entry_sha256":"280f8a9f23da36abcf3c4ca0bb4eb7220e6ce523205c6773ac087d63dad0fb99","claims":["C-b6736865657a"],"review":"reviewed"}
+  - {"id":"P95","kind":"web-page","urls":["https://местопамяти.рф/about"],"published":null,"retrieved":"2026-11-08","access":"read","rights":null,"basis":"read 2026-11-08","entry_sha256":"97024c8d8cf2b474fb1af44b8cef667d064b724331749f335f1827a8c830ebb1","claims":["C-b6736865657a"],"review":"reviewed"}
 claims:
   - {"id":"C-25c0eca0df7d","kind":"unclassified","anchor":"Choose a database that covers the plausible cemetery or locality. In JOWBR, check the cemetery\ninventory, including the cemetery section, before treating a name search as a coverage test.\nJOWBR can contain inscriptions, cemetery-register information or published material, and a\nphotograph is present only when one was submitted. [O1]","sources":["O1"],"checked":null,"stated_as":null,"review":"pending"}
   - {"id":"C-75c394e49987","kind":"unclassified","anchor":"Save each candidate's URL and the displayed cemetery/section. Open the full burial record when\navailable; in JOWBR the headstone icon identifies a supplied photograph, and **View Full Burial\nRecord** exposes the available fields and image. Leave missing fields empty. A result without a\nphotograph remains a useful locator, but the inscription has not been examined. [O1]","sources":["O1"],"checked":null,"stated_as":null,"review":"pending"}
@@ -621,6 +654,8 @@ claims:
   - {"id":"C-1cbdafab2390","kind":"unclassified","anchor":"Keep an earlier inscription transcript or research letter with its author/date, exact\nreported reading and any available image reference. Record a later inspection separately\nas not located, not inspected, unreadable or partly read, according to what happened.\nA failed present reading neither verifies nor erases the older statement. The [road-trip example](https://familylocket.com/rlp-231-family-history-road-trip/)\nmotivates this distinction without supplying an earlier photograph or proving identity,\nmarker replacement or the reason a present reading failed.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
   - {"id":"C-3a8edef30c66","kind":"unclassified","anchor":"If an online memorial assigns an early burial to a named cemetery, compare the burial date\nwith that cemetery's documented opening or operating period. An opening after the burial\nexcludes it as the original burial ground; keep a later reinterment or marker transfer\nunresolved until its own evidence is found (section 3). Record the dating source and any\nuncertainty about earlier use of the site. Use the burial entry's parish or church and the\nlocality's cemetery histories to list grounds operating at the burial date as candidates,\nwith a source for each period and parish connection. A candidate ground does not locate\na grave. The [Anne Doucet example](https://dna-explained.com/2025/01/04/anne-doucet-1713-1791-oceans-rivers-and-perseverance-52-ancestors-438/)\nmotivates this chronology check; its proposed final grave location remains unverified. [P21]","sources":["P21"],"checked":null,"stated_as":null,"review":"pending"}
   - {"id":"C-a52d480c994c","kind":"unclassified","anchor":"Choose the next retrieval action from the gap: a clearer photograph for uncertain letters, a\ncemetery register for an unlabelled burial date, or the underlying civil record for a conflicting\ndeath date. Finding a death record does not guarantee that a burial record will be found, and\nfinding a burial record does not guarantee a death record. [P2]","sources":["P2"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-b6736865657a","kind":"historical","anchor":"On a Soviet WWII mass grave (братская могила), a name on the plate may belong to a soldier buried\nelsewhere. A press report from Karelia describes a plate cut in 1965 from a military\ncommissariat's unchecked list of the dead. [P94] A Kaliningrad researcher interviewed in the press\ndescribes names moved without the remains when mass graves were consolidated. [P93] Under a 2023\nMinistry of Defence letter, a soldier wrongly counted at a second burial is removed from its list\nbut his name normally stays on its plate. [P92] A user-contributed photograph of a plate, for\nexample on «Место памяти», shows only what is inscribed: record the contributor, date and page\nlocator. [P95]","sources":["P92","P93","P94","P95"],"checked":"2026-11-08","stated_as":"observation","review":"reviewed"}
+  - {"id":"C-7e026a0cf74f","kind":"custody","anchor":"For a burial in Russia, the record to check is the burial's passport (учётная карточка), the main\ndocument for registering and identifying a military burial: the local administration drafts it and\nsigns it with the military commissariat, and each keeps a copy. [P92 @2026-11-08] Its named list\nmarks each person as «увековечен» (named on the plate) or «не увековечен» (not named), so absence\nfrom the plate is not absence from the burial.","sources":["P92"],"checked":"2026-11-08","stated_as":"fact","review":"reviewed"}
 ```
 <!-- provenance-ledger:end -->
 

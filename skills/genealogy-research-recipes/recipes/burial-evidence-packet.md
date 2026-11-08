@@ -3,8 +3,8 @@ id: "burial-evidence-packet"
 title: "Build a burial evidence packet from cemetery records"
 summary: "Recover a cemetery entry, its photograph or inscription, and the plot and cemetery-record locators needed to inspect the burial."
 kind: "records"
-scope: {"platforms": [], "tasks": ["cemetery coverage, surname variants, Hebrew and civil inscriptions, death/burial discrepancies or a database hit that needs a cemetery-record follow-up."]}
-triggers: ["cemetery coverage", "surname variants", "Hebrew and civil inscriptions", "death/burial discrepancies", "a database hit that needs a cemetery-record follow-up"]
+scope: {"platforms": [], "tasks": ["cemetery coverage, surname variants, Hebrew and civil inscriptions, death/burial discrepancies or a database hit that needs a cemetery-record follow-up"]}
+triggers: ["cemetery coverage", "surname variants", "Hebrew and civil inscriptions", "death/burial discrepancies", "a database hit that needs a cemetery-record follow-up", "names on a Soviet mass-grave plate"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "BURIAL-EVIDENCE-PACKET-01", "text": "distinguish death, burial, inscription and database statements; keep missing fields and conflicting observations visible in the evidence packet."}, {"id": "BUR-01", "text": "Keep death, burial, inscription and database statements distinguishable."}, {"id": "BUR-02", "text": "identity or conflicting-date conclusions belong to evidence-proof-judgment."}]
@@ -140,6 +140,21 @@ is not a negative.
   World War and after, gives the original burial places of more than 5 million soldiers and
   officers. [P73] An original burial place can differ from the present grave after a reburial, so
   look for the present grave separately.
+
+On a Soviet WWII mass grave (братская могила), a name on the plate may belong to a soldier buried
+elsewhere. A press report from Karelia describes a plate cut in 1965 from a military
+commissariat's unchecked list of the dead. [P94] A Kaliningrad researcher interviewed in the press
+describes names moved without the remains when mass graves were consolidated. [P93] Under a 2023
+Ministry of Defence letter, a soldier wrongly counted at a second burial is removed from its list
+but his name normally stays on its plate. [P92] A user-contributed photograph of a plate, for
+example on «Место памяти», shows only what is inscribed: record the contributor, date and page
+locator. [P95]
+
+For a burial in Russia, the record to check is the burial's passport (учётная карточка), the main
+document for registering and identifying a military burial: the local administration drafts it and
+signs it with the military commissariat, and each keeps a copy. [P92 @2026-11-08] Its named list
+marks each person as «увековечен» (named on the plate) or «не увековечен» (not named), so absence
+from the plate is not absence from the burial.
 
 **Output:** `database | query | coverage checked | candidate URL | cemetery | section |
 photo available | image examined | next source`.

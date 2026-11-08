@@ -3,8 +3,8 @@ id: "russian-revision-list-household-chaining"
 title: "Chain a Russian-Empire revision-list household across copies, sections and revisions (Urals evidence)"
 summary: "Chain a non-Jewish revision-list household across copies, sections and revisions."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Chain a non-Jewish revision-list household across copies, sections and revisions."]}
-triggers: ["Chain a non-Jewish revision-list household across copies", "sections and revisions"]
+scope: {"platforms": [], "tasks": ["Chain a non-Jewish revision-list household across copies, sections and revisions.", "Route an Orenburg Cossack, Bashkir or Tatar revision-era household by its jurisdiction on the record date."]}
+triggers: ["Chain a non-Jewish revision-list household across copies", "sections and revisions", "Orenburg Cossack or Bashkir household in revision lists"]
 privacy: "none"
 gates: []
 guardrails: [{"id": "RUSSIAN-REVISION-LIST-HOUSEHOLD-CHAINING-01", "text": "a central and a local copy are not two confirmations, and Urals fond numbers and age patterns must be checked locally."}]
@@ -84,6 +84,8 @@ Record one row per copy. Do not stop at the first copy you find.
   - For the 1858 town-estate tales, a participant cited GASO f.8, op.1, d.1776–1779, including "private" tales (частные) and tales of newly enrolled townsmen (вновь причисленные). The same participant cited lists of factory people discharged into the town estate (d.1922, 1922a) and enrolment into the town society (d.1935a). [S8], [S20]
   - In the Ekaterinburg area, Old Believers were also counted in separate schismatic series, which you must search alongside the revision. Participants cited the 1742 schismatic census (GASO f.24, op.1, d.1000), a 1752 list of Old Believer children born after the revision (d.1370) and the 1765 schismatic tales (GASO f.34, op.1, d.187). [S2]
 - **Owner and monastery fonds:** see step 1. [S1]
+
+- **Clergy statements:** among the first-revision files, also look for the parish clergy's statements about their parishioners. RGADA's inventory describes f.350, op.2, d.1649 as clergy statements about parishioners, filed with statements about landlords' and monastery peasants of three станы of Kurmysh uezd, 1722–1723. [S55] One file can cover several станы, so where such a statement names a village known only from later sources, keep every стан in the file's title as a candidate until the statement's own headings or another record place the village. Give each clergy statement its own row, and do not use one as a household list until you have read it.
 
 Mark each row as inspected (images or original), extract only, or unlocated. If an archive reports a find but gives no locator, ask for the fond, opis, delo and leaf, and check the file's own cover title. In one archive reply the file turned out to be an alphabetical list of family heads that cited revision numbers. That kind of list is not a revision list and does not show who was in the family. [S7]
 
@@ -180,6 +182,12 @@ Keep every field as written, with the leaf (л./об.) for each household. Do no
   [S18] A 1765–1767 list of people absent from confession (GASO f.24, op.1, d.2293) helped a participant settle a patronymic that a clerk had miswritten. [S10]
 - **Record unlocated revisions as unlocated.** Participants could not locate the 4th–7th revisions for two Irbit volosts and cited the 1800 confession lists instead (GASO f.6, op.3, d.345b, l.69 ob. and d.345a, l.153 ob.). [S24]
 
+- **Iset-line fortresses.** Chelyabinsk fortress was founded in 1736, after the 1719 sloboda lists; its 1740 census book is published by I. V. Degtyarev in «Челябинская старина» (Chelyabinsk, 1996, pp. 56–96). [S52 @2026-11-08] V. V. Pozdeev published the 1739–1740 first-settler lists of the Miass fortress in «Ветер времени», 2007, no. 1 (14), pp. 67–74. [S53 @2026-11-08] A local-history page cites the Miass census as RGADA f.248, op.3, d.144; confirm the locator in the RGADA inventory and check each edition against its original. [S54 @2026-11-08]
+
+- **Bashkir and Tatar households.** Do not chain households by an -ов/-ев/-ин name as if it were a hereditary surname. Among Turkic-speaking peoples, Bashkirs included, propertied families took surnames from the 17th century but ordinary people only in the 19th [S49]; a Familio guide says many Tatars and Bashkirs fixed theirs only after 1917 [S48]; and the Orenburg Cossack surname handbook notes that the revision tales of some Muslim settlements record no surnames [S43]. Chain such households by the links in the first bullet of this step, and do not use a surname as a link in revisions earlier than the one where it first appears for that household; search earlier tales for the name only as a lead. Check the printed volumes «История башкирских родов» (Ufa; vol. 14, «Тазлар», 2015, prints shezhere, archival documents and 1850 revision data) [S50], cite volume and page, and test each name against the revision.
+
+  The household cards and fragmentary householder lists of the 1920 agricultural census are a separate route: NA RB f. Р-472, op. 1 (Central Statistical Administration of the Bashkir ASSR). [S51 @2026-11-08]
+
 ## 7. Bound every absence
 
 A person, household or village that is not found counts only as a gap with stated bounds. Never record it as a death, a non-existent village or a lost revision until you have checked all of these:
@@ -191,6 +199,8 @@ A person, household or village that is not found counts only as a gap with state
 - the next revision's exit remarks
 
 [S1], [S5], [S12] Also check whether leaves missing from one online image set survive elsewhere. A participant could not find a person in the 1795 Zlatoust factory leaves on the NARB site and expected him on the missing leaves. Another participant then posted his entry from the 1795 list (cited as И-138-2-59, ll.266–266 ob.). [S12] NARB (НАРБ) is ambiguous: it abbreviates the National Archive of the Republic of Bashkortostan in Ufa [S34], and other recipes in this catalog use it for the National Archive of the Republic of Belarus. Confirm which archive holds fond И-138 in that archive's own catalogue, and write the archive's full name in the citation. Separately, a participant said she held missing leaves of the same revision and offered them to a researcher, who had meanwhile found his person with other help. [S12] Absence from a revision can mean the person was moved, was counted at the official place, or was outside the taxable population. [S9], [S23]
+
+Route a revision for present-day Bashkortostan, Chelyabinsk or Orenburg oblast by the guberniya on its date. The offices of Orenburg guberniya moved from Orenburg to Ufa in 1802, and Ufa became the seat of a separate Ufa guberniya in 1865. [S45 @2026-11-08] The Orenburg Treasury Chamber's revision tales are fond И-138, op. 2 of the National Archive of the Republic of Bashkortostan in Ufa, per NashiPredki's copy of the inventory [S47 @2026-11-08], and hold the 5th–10th revisions (1795–1858) according to a Familio guide [S48 @2026-11-08], so an 1816 or 1834 tale for a village now in Chelyabinsk or Orenburg oblast can be in Ufa, and for this fond NARB means the Bashkortostan archive. Conversely, the agreement of 20 March 1919 moved volosts of the Orenburg, Orsk, Verkhneuralsk, Troitsk and Chelyabinsk uezds to Bashkiria, so look for their pre-1919 records in the Orenburg and Chelyabinsk regional archives as well. [S46 @2026-11-08]
 
 ## 8. Check that 1897 census sheets survive before routing anyone to them
 
@@ -217,6 +227,12 @@ For 16th- to 18th-century estates of the Grand Duchy of Lithuania, now in Belaru
 
 - **Do not assume 9th or 10th revision tales exist for a Cossack household.** Check the holding archive's inventory for which revisions were taken and survive, and search the Host's own records for the later years.
 - **Read the surname handbook as an index.** Vishnevsky's handbook of Orenburg Cossack surnames is a surname index built from revision tales in the Bashkortostan, Samara and Orenburg archives, not a set of family lists. [S36] A hit does not prove residence in that place and year. A miss does not disprove a later document.
+
+- **Use the handbook for non-Cossack families of the Host's territory too, and take spellings from the tale.** After its Cossack lists of 1816–1834, it indexes groups later enrolled into the Host: the peasants and soldiers of the volosts attached to it, the soldiers and odnodvortsy of the line settlements, and retired soldiers with their children. It gives surnames in modern spelling with alternative readings separated by a slash, so search and cite the form written in the revision tale. [S43]
+
+- **After 1834, follow the Host's own series.** The handbook's introduction states that the 8th revision (1834) was the last taken for the Host, so do not expect 9th or 10th revision tales for a Host household. [S43 @2026-11-08] The Chelyabinsk Oblast United State Archive (OGAChO) lists formulary, service, family and name lists in its stanitsa-board fonds, for example f. И-31 (Kremenkul, 1853–1856, 1865, 1866) and f. И-10 (Emanzhelinsk, 1833, 1842–1849, 1854, 1855, 1865), and orders of the Orenburg Cossack Host for 1850–1858 in f. И-10. [S42 @2026-11-08] Cite a delo only after finding it in the opis.
+
+- **Fix both jurisdictions on the event date:** the Host's (stanitsa or settlement; from the 1840 Statute one of ten regimental districts, later a military department) and the civil one (guberniya, uezd and volost). [S44] The Statute of 12 December 1840 and later acts enrolled the population of the Host's territory, state peasants and retired soldiers among them, and some state peasants only in 1853, so a family entered as peasants or soldiers in 1834 can be Cossacks later. [S44], [S43] Search the civil series up to the enrolment and the Host series after it, and record the change as a dated transition ([estate registration status, step 3](russian-estate-registration-status.md#3-date-when-the-person-acquired-the-status)), not as a clerk's error. The handbook adds that some peasants moved away to avoid enrolment. [S43]
 
 ## Output
 

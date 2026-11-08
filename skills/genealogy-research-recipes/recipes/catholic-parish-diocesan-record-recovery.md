@@ -62,6 +62,10 @@ Before you record "not found", check:
 
   Raduraksti describes its revision-list collection (*Dvēseļu revīzijas*) as covering Vidzeme and Kurzeme. A miss there for a Latgale person is a coverage gap, not a negative. [S21]
 
+  For a Latgale household's 1782 or 1795 revision, search NIAB in Minsk. Encyclopedia entries place Dinaburg, Lyutsin and Rezhitsa uezds in the Polotsk viceroyalty, so named from 10 January 1778 until its merger into Belarusian guberniya on 12 December 1796 [S29 @2026-11-08], and then in Vitebsk guberniya, formed from Belarusian guberniya in 1802 [S30 @2026-11-08]. A 2017 congress paper on Latgale sources lists the 1795 revision in NIAB fond 2567 (Polotsk viceroyalty board) and the 1782 revision in fond 3223 (Polotsk Treasury Chamber) [S31 @2026-11-08], and the NashiPredki summary of fond 2567 shows one inventory, op. 1, for 1775–1798 [S32 @2026-11-08]. Take any file number from the NIAB inventory itself, not from a secondary list.
+
+- **Grodno-area Catholic parishes.** Before you call a year lost from the Belarusian holdings, add the Archdiocesan Archive in Białystok (Archiwum Archidiecezjalne w Białymstoku) to the register: its holdings page lists copies of Catholic acts of the Grodno deanery for 1865–1937 and of the Łunna deanery for 1922–1937 [S33 @2026-11-08]. The Białystok archdiocese grew out of the apostolic administration for the part of the Vilnius archdiocese that lay inside Poland after the Second World War [S35 @2026-11-08]. The archive opens for genealogy only books at least 100 years old and notes that many acts are in Russian [S34 @2026-11-08], so in 2026 the copies after 1926 stay closed, and the cutoff moves each year.
+
 If any of these apply, record a **coverage gap** naming the parish, diocese and years, not a negative result. Send the request to the diocesan archive or the parish. At the start, offer to pay costs or make a donation. [S1], [S3]
 
 ## 5. Search dispensations and status proofs as separate records

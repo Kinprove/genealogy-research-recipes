@@ -139,6 +139,12 @@ A supplied `QUAY 3` and a source title or research note saying "unverified" are 
 - **Privacy gate:** <!-- privacy-gate: upload --> A test upload sends tree data, possibly about living or possibly living relatives, to an online tree service; answer the privacy gate in `SKILL.md` before uploading even a test file.
 - **Never upload a reduced test file over an existing online tree.** A re-import can replace the tree. Familio's help (a Russian-language tree service; checked 2026-11-04) says a re-import always fully replaces person pages: the new file replaces the old one, and all edits made by hand on Familio are lost [S11]. Test on a separate test tree or with a small synthetic file, and only on a destination the user chose.
 
+**Cross-reference IDs in 5.5.1:** the first character may be a letter, an underscore or a digit, and lowercase letters are allowed, unlike in 7.0 [S15]; the standard's own example ID is `@1234@` [S16]. A leading digit is valid in both versions and is no reason to rewrite IDs. If an importer still rejects the file's IDs, rename them in a derivative copy: a pointer must match a cross-reference ID in the same file [S16], so change each ID and every pointer to it in one pass, and add each old and new ID to the packet's ID map.
+
+**Blank lines and the last line:** every 7.0 line ends with a line terminator, and 7.0 dropped the permission earlier versions gave for blank lines before a line [S15]. The 5.5.1 standard says the trailer must be followed by the terminator, and that files with extra blank lines between records are not to be used when transmitting to other systems [S16]. Remove empty lines and make sure `0 TRLR` ends with a terminator.
+
+**A sample export from the target program is a structure reference, not a template for the content.** `HEAD.SOUR` names the software that actually wrote the file [S15], [S16]; leave it naming that software even where the sample names the target program. Keep every place, source, note and continuation line that the sample lacks: cutting them to match loses research data silently.
+
 ## Close with an export packet
 
 Return:

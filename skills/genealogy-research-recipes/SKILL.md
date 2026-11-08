@@ -240,7 +240,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
 - **`recipes/russian-military-repression-record-episodes.md`** — Recover separate military and Soviet-repression record episodes.
   Reconcile WWI/WWII and Soviet-repression records as separate dated source episodes.
   *Use for:* awards versus loss reports, repeated arrests or copied regional entries, GWAR and OBD
-  Memorial queries, Russian-front WWI prisoners of war.
+  Memorial queries, Russian-front WWI prisoners of war, WWII Soviet prisoners of war and occupation
+  victims.
   *Core guardrail:* administrative dates and alleged events are distinct; a later order does not
   establish survival and a duplicated index is not independent support.
 
@@ -264,7 +265,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   Recover a cemetery entry, its photograph or inscription, and the plot and cemetery-record locators
   needed to inspect the burial.
   *Use for:* cemetery coverage, surname variants, Hebrew and civil inscriptions, death/burial
-  discrepancies or a database hit that needs a cemetery-record follow-up.
+  discrepancies or a database hit that needs a cemetery-record follow-up; names on a Soviet
+  mass-grave plate
   *Core guardrail:* distinguish death, burial, inscription and database statements; keep missing
   fields and conflicting observations visible in the evidence packet.
 
