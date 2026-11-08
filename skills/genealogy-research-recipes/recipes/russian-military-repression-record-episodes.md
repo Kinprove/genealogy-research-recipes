@@ -3,8 +3,8 @@ id: "russian-military-repression-record-episodes"
 title: "Recover separate military and Soviet-repression record episodes"
 summary: "Reconcile WWI/WWII and Soviet-repression records as separate dated source episodes."
 kind: "records"
-scope: {"platforms": [], "tasks": ["awards versus loss reports, repeated arrests or copied regional entries, GWAR and OBD Memorial queries, Russian-front WWI prisoners of war."]}
-triggers: ["awards versus loss reports", "repeated arrests", "copied regional entries", "GWAR and OBD Memorial queries", "Russian-front WWI prisoners of war"]
+scope: {"platforms": [], "tasks": ["awards versus loss reports, repeated arrests or copied regional entries, GWAR and OBD Memorial queries, Russian-front WWI prisoners of war, WWII Soviet prisoners of war and occupation victims."]}
+triggers: ["awards versus loss reports", "repeated arrests", "copied regional entries", "GWAR and OBD Memorial queries", "Russian-front WWI prisoners of war", "WWII Soviet prisoners of war and occupation victims"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "RUSSIAN-MILITARY-REPRESSION-RECORD-EPISODES-01", "text": "administrative dates and alleged events are distinct; a later order does not establish survival and a duplicated index is not independent support."}]
@@ -85,6 +85,43 @@ or place and no surname, then filter locally. Flag hits on commonly confused nam
 identity check. Use the same tactics on GWAR or memory books only after reading their own search
 help. [H24]
 
+For a Red Army serviceman who may have died in German captivity, also search the Soviet
+prisoner-of-war index of the Dokumentationsstelle Dresden (Stiftung Sächsische Gedenkstätten). Its
+entries show surname, first name, father's name, dates of birth and death, place of birth,
+nationality and an identification number, and the same online archive has a separate section for
+Soviet citizens who died in Saxony. [H59 @2026-11-08] The foundation's 2009 announcement put the
+POW records at about 700,000, from an international research project the Dokumentationsstelle has
+run since 2000, and said the online entries give basic data only. [H60 @2026-11-08] Before counting
+a Dresden entry and an OBD Memorial POW card as two sources, check each one's stated archival
+origin: if both reproduce the same German registration card, that is one source reached twice.
+
+For a Soviet prisoner who died in Finnish captivity, do not send the user to the National Archives
+of Finland's former online database: the archive's Arkistojen Portti page says the database closed
+in spring 2024 and that its data are openly available on Zenodo. [H61 @2026-11-08] The Zenodo
+record 'Suomi, sotavangit ja ihmisluovutukset 1939-1955 -tietokanta' (one XLSX file, CC BY 4.0)
+covers about 23,000 people who died in Finland during the Second World War: prisoners of war and
+people who died in civilian camps. [H62 @2026-11-08] It lists deaths only, so a miss says nothing
+about a prisoner who survived and was handed back.
+
+For a civilian killed, or held in a camp, ghetto or other place of forced detention, on
+German-occupied Soviet territory, search the records of the Extraordinary State Commission (ЧГК).
+Its central fond is GARF f. R-7021, arranged by republic and oblast, and EHRI's description lists
+victim name lists among its contents [H63 @2026-11-08]; Yad Vashem holds copies of its material
+relating to Jews as collection M.33 [H64 @2026-11-08]. Also check regional archives' inventories
+for oblast and district commission files. Do not expect a name list for every locality: an act can
+give only totals.
+
+For a camp or detention place, start from Rosarkhiv's reference to where documents on Nazi camps,
+ghettos and other places of forced detention are kept. Its camp lists for occupied Soviet territory,
+by republic and region, give the kinds of surviving documents and the archive holding them; the
+text, read in a reproduction on tkrfkod.ru because the Rosarkhiv portal refused the connection,
+carries amendments of 1 January 1997, so confirm each holder's present name and custody.
+[H65 @2026-11-08] Treat a published document volume, such as the six Belarusian oblast volumes of
+«Без срока давности» [H66 @2026-11-08], as a selection: record each document's archival cipher, and
+do not read absence from the book as absence from the commission's lists. A list copied from a ЧГК
+act, including a copy in another archive's collection, is that act reached again, not a second
+source.
+
 For a repression lead, record each list's or database's stated inclusion rule and geography
 before reading a miss. Posters in a [repression-databases discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=558)
 note that a Magadan list covers only people given a second sentence in the camps and shot there,
@@ -97,6 +134,23 @@ reports that one project's online database and printed volumes differ, and that 
 predate many file transfers, so they do not identify the present custodian. Search the trial
 republic's database and volumes, recording each result separately. A miss is absence from that set
 only; these posts describe past coverage without measuring it.
+
+A family memory that a relative 'was imprisoned under Stalin' is a lead to a conviction, not
+evidence of a political case. The sentence could rest on a decree outside the political articles,
+such as that of 7 August 1932 on protecting state, collective-farm and cooperative property [H67],
+that of 26 June 1940, which made leaving a job without permission punishable by two to four
+months' imprisonment [H68], or that of 4 June 1947 on theft of state and public property [H69].
+Law 1761-1 defines political repression as coercive measures the state applied for political
+motives (art. 1) [H70], and Open List states its scope as people repressed for political motives
+[H71]. A person convicted under such a decree may therefore be absent from political-repression
+databases although the conviction happened.
+
+To learn whether there was a conviction, use the information-centre request in step 2 of
+[Recover the next document before combining the biography](#recover-the-next-document-before-combining-the-biography),
+under that step's privacy gate. According to Meduza's 2018 report of an interior-ministry reply,
+cards of people convicted in the Soviet period stay in the paper card index permanently for state
+crimes, rehabilitated people included, while other cards are removed from it and kept in electronic
+form. [H72 @2026-11-08]
 
 Memorial's database «Жертвы политического террора в СССР» (base.memo.ru; its last published
 version dates from December 2017) and the Stalin execution lists (stalin.memo.ru) were offline on
@@ -400,6 +454,17 @@ the event date and exact name/role. Seek that officer's service record for the r
 then use a supported unit reference to choose documents that might name the target. Do not
 carry a unit known in a later year back to an earlier event. The same discussion motivates
 this associate-to-unit lead; shared service, the target's presence and fate need their own records.
+
+Before looking for a Red Army unit's war diary, orders or loss reports, establish what the unit was
+subordinated to on that date from a dated order of battle, not from a unit web page or a memoir. The
+General Staff reference «Боевой состав Советской Армии» gives the composition of fronts and armies
+as of 22 June 1941 and the first of each later month, down to divisions, brigades and separate
+(non-divisional) units, but not a division's own regiments: so its Part I preface states, read in an
+online transcription. [H73] The General Staff's numbered lists (Перечни) set the periods that
+formations and units spent in the field army (Действующая армия); Перечень № 5, for rifle and
+similar divisions, is an annex to a 1956 General Staff directive. [H74] Take a regiment's division
+from the unit's own documents, and treat online compilations of these references as finding aids:
+cite the printed edition and confirm the link in the unit's documents.
 
 **Stop condition:** finish the bounded source/episode inventory, state the remaining identity or
 fate question, and name the document that could distinguish the alternatives. A further inquiry

@@ -137,6 +137,16 @@ Preserve original entries, compiler corrections and oral accounts as separate at
 statements. The [regional compilation example](https://forum.j-roots.info/viewtopic.php?f=197&t=12365)
 motivates this qualification of the household crosswalk; underlying records still need inspection.
 
+For a Jewish refugee family in the Soviet interior during the war, also search the JDC Archives
+Names Database, which indexes individuals found in JDC's historical records. [H18 @2026-11-08]
+In the finding aid for JDC's New York office, 1933–1944, File 428 holds JDC's beneficiary lists
+Nos. 1–73 from the parcel service it ran from Tehran for Polish-Jewish refugees in the USSR; the
+File 427 entry says these lists gave the names and addresses of refugees, mostly in Asiatic Russia,
+and were forwarded from New York to Tehran between January 1943 and November 1945.
+[H19 @2026-11-08] A family story on the JDC Archives site reports finding a grandmother on the
+1943–1945 parcel-beneficiary list in the Names Database, with the family's wartime address in
+Samarkand. [H20 @2026-11-08]
+
 ## Keep dated observations distinct from final fate
 
 Build one row per statement, including contradictory submissions:
@@ -180,6 +190,9 @@ These are reasoning consequences of the source types, not a reliability ranking 
 - If no name result is found, report the names/scripts, fields, filters, collection and date
   actually checked. The historical guide describes incomplete victim and survivor documentation;
   do not replace that limitation with a fixed present-day coverage percentage. [H1]
+
+- If the person was killed or held under German occupation of Soviet territory, also search the
+  Extraordinary State Commission (ЧГК) acts: see [Recover separate military and Soviet-repression record episodes](russian-military-repression-record-episodes.md#start-from-the-event-and-source-scope).
 
 **Completion packet:** inspected source locators, statement rows, candidate identity status,
 the exact unresolved conflict and one source capable of resolving it. Current interface modes,
