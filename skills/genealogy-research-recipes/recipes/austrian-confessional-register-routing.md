@@ -8,11 +8,11 @@ triggers: ["Route an Austrian", "Czech-lands vital event to the register that le
 privacy: "none"
 gates: []
 guardrails: [{"id": "AUSTRIAN-CONFESSIONAL-REGISTER-ROUTING-01", "text": "do not look for a Standesamt record before the 1938 changeover, and a Catholic baptism or burial does not show that a Viennese family had no Jewish origin."}]
-handoff: ["archival-image-coverage-verification", "burial-evidence-packet", "catholic-parish-diocesan-record-recovery", "city-directory-observation-workflow", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "german-register-image-recovery", "historical-place-name-resolution", "jewish-genealogy-conditional-hypotheses"]
+handoff: ["archival-image-coverage-verification", "burial-evidence-packet", "catholic-parish-diocesan-record-recovery", "city-directory-observation-workflow", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "german-register-image-recovery", "historic-hungary-record-routing", "historical-place-name-resolution", "jewish-genealogy-conditional-hypotheses"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Country record routing", "order": 1060}
+router: {"tier": "pointer", "group": "Central and Eastern Europe by period state", "order": 1041}
 ---
 
 # Route an Austrian or Czech-lands vital event to the confessional register that recorded it

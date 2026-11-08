@@ -8,7 +8,7 @@ triggers: ["Find the crown rabbinate that registered a Jewish community in the e
 privacy: "none"
 gates: []
 guardrails: [{"id": "RUSSIAN-EMPIRE-JEWISH-METRICAL-BOOK-RECOVERY-01", "text": "synagogues or a large Jewish population do not show that a place had its own crown rabbi, so do not search for \"the village's\" book."}]
-handoff: ["bessarabia-moldova-record-routing"]
+handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing"]
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}

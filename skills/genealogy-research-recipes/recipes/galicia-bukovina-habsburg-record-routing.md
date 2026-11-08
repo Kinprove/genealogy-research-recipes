@@ -8,11 +8,11 @@ triggers: ["Route a Galician", "Bukovinian event by date", "confession and custo
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "GALICIA-BUKOVINA-HABSBURG-RECORD-ROUTING-01", "text": "start an ethnic Ukrainian villager in Austrian Galicia in Greek Catholic books, not Orthodox ones (add Orthodox books for Lemkos from 1926; Bukovina starts in Orthodox books), and birthplace alone decides neither the army nor where the Grundbuchblatt is kept."}]
-handoff: ["bessarabia-moldova-record-routing", "corpus-seeded-name-search", "evidence-proof-judgment", "familysearch-practical-record-workflows", "historical-map-record-recovery", "historical-place-name-resolution", "jewishgen-search-family-reconstruction", "polish-index-original-record-recovery", "russian-military-repression-record-episodes", "soviet-personal-file-recovery"]
+handoff: ["austrian-confessional-register-routing", "bessarabia-moldova-record-routing", "corpus-seeded-name-search", "evidence-proof-judgment", "familysearch-practical-record-workflows", "historic-hungary-record-routing", "historical-map-record-recovery", "historical-place-name-resolution", "jewishgen-search-family-reconstruction", "polish-index-original-record-recovery", "russian-military-repression-record-episodes", "soviet-personal-file-recovery"]
 checked: "2026-11-02"
 checked_basis: "checked on 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1095}
+router: {"tier": "pointer", "group": "Central and Eastern Europe by period state", "order": 1038}
 ---
 
 # Route a Galician or Bukovinian record by date, confession and custodian

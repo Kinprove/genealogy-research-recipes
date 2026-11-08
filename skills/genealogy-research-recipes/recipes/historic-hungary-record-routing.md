@@ -8,11 +8,11 @@ triggers: ["Route a birth", "marriage", "death", "census", "tax entry from the p
 privacy: "none"
 gates: []
 guardrails: [{"id": "HISTORIC-HUNGARY-RECORD-ROUTING-01", "text": "today's border does not pick the holder; fix the county in the event year, and search the 1828 national conscription centrally wherever the village lies today, outside Transylvania."}]
-handoff: ["archival-image-coverage-verification", "catholic-parish-diocesan-record-recovery", "evidence-proof-judgment", "familysearch-practical-record-workflows", "galicia-bukovina-habsburg-record-routing", "historical-place-name-resolution", "illegitimacy-record-recovery", "jewishgen-search-family-reconstruction", "tax-roll-observation-workflow"]
+handoff: ["archival-image-coverage-verification", "austrian-confessional-register-routing", "catholic-parish-diocesan-record-recovery", "evidence-proof-judgment", "familysearch-practical-record-workflows", "galicia-bukovina-habsburg-record-routing", "historical-place-name-resolution", "illegitimacy-record-recovery", "jewishgen-search-family-reconstruction", "tax-roll-observation-workflow"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Country record routing", "order": 1059}
+router: {"tier": "pointer", "group": "Central and Eastern Europe by period state", "order": 1040}
 ---
 
 # Route a record from historic Hungary by county, successor state and record type

@@ -8,7 +8,7 @@ triggers: ["Take a lead to the right federal court for the period", "its Nationa
 privacy: "none"
 gates: []
 guardrails: [{"id": "US-FEDERAL-COURT-CASE-FILE-RECOVERY-01", "text": "decide whether the matter is federal before searching a county courthouse; a complete-index miss is a bounded negative that does not clear other relatives."}]
-handoff: []
+handoff: ["court-case-file-recovery", "criminal-court-prison-record-recovery"]
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
@@ -25,6 +25,10 @@ route in [immigration search recovery § 9](usa-immigration-search-recovery.md),
 so use that recipe for it. To build the newspaper lead, use [newspaper search recovery](newspapers-com-search-recovery.md).
 To transcribe the papers with an AI tool, use [AI for documentary records](ai-for-documentary-records.md).
 Identity rulings belong in [evidence/proof judgment](evidence-proof-judgment.md).
+
+For a state, county or local court's case file, use [court case-file recovery](court-case-file-recovery.md).
+For the prison, inmate and pardon files that follow a federal conviction, use
+[criminal court and prison records](criminal-court-prison-record-recovery.md).
 
 ## Contents
 
