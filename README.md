@@ -134,7 +134,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [ancestry-record-search-recovery](skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md) | ancestry | — | — | — | — | — |
 | [archival-image-coverage-verification](skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) | — | — | — | — | — | — |
 | [australia-nz-record-routing](skills/genealogy-research-recipes/recipes/australia-nz-record-routing.md) | record catalogues and original images | — | — | — | — | — |
-| [austrian-confessional-register-routing](skills/genealogy-research-recipes/recipes/austrian-confessional-register-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [austrian-confessional-register-routing](skills/genealogy-research-recipes/recipes/austrian-confessional-register-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [beider-given-name-variants](skills/genealogy-research-recipes/recipes/beider-given-name-variants.md) | — | scripts/lookup_beider_name.py | — | — | — | — |
 | [bessarabia-moldova-record-routing](skills/genealogy-research-recipes/recipes/bessarabia-moldova-record-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [brazilian-parish-civil-registry-recovery](skills/genealogy-research-recipes/recipes/brazilian-parish-civil-registry-recovery.md) | record catalogues and original images | — | — | — | — | — |

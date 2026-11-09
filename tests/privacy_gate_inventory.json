@@ -276,6 +276,12 @@
   "checkpoint": "Asking the tester or kit manager to confirm identity is contact"
  },
  {
+  "recipe": "austrian-confessional-register-routing.md",
+  "kind": "request",
+  "action": "Ask as close family for an entry still inside its access period",
+  "checkpoint": "An entry inside its access period can name people who may be living"
+ },
+ {
   "recipe": "bessarabia-moldova-record-routing.md",
   "kind": "request",
   "action": "for a register still inside the 100-year term, ask ASP",
