@@ -156,6 +156,18 @@
   "checkpoint": "An external research tree stores the match's identity, amounts, haplogroups and notes"
  },
  {
+  "recipe": "agent-research-project.md",
+  "kind": "third-party-tool",
+  "action": "Have every delegate write findings to a named file",
+  "checkpoint": "Notes and images given to an AI agent"
+ },
+ {
+  "recipe": "agent-research-project.md",
+  "kind": "publish",
+  "action": "While extracting, create a parent or spouse link",
+  "checkpoint": "Writing to an online tree can publish"
+ },
+ {
   "recipe": "ai-for-dna-research.md",
   "kind": "third-party-tool",
   "action": "turning Ancestry match screenshots into a structured cM/relationship table to start a Leeds chart",
