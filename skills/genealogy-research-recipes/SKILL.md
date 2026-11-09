@@ -644,6 +644,18 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Core guardrail:* A name, office, discipleship or repeated tale does not establish a kinship link;
   identify the person and independent witness behind each passage.
 
+- **`recipes/agent-research-project.md`** — Running a long genealogy project with an AI agent.
+  Keep an AI agent's genealogy work honest over months: what counts as evidence, how to lay out
+  Markdown research notes, what 'searched', 'saved' and 'done' must mean, how corrections reach
+  every note, and how to delegate and write to a tree safely.
+  *Use for:* running a multi-session genealogy investigation with an AI agent; keeping genealogy
+  research notes in Markdown or Obsidian; delegating genealogy reading to sub-agents; carrying a
+  correction through notes and a tree; research vault; Obsidian genealogy notes; Markdown research
+  notes; the agent says saved or done; sub-agent genealogy research; long genealogy project; keep
+  research across sessions; correct a claim everywhere
+  *Core guardrail:* An agent's own notes, summaries and passing checks are not evidence. Settle
+  every fact on the original.
+
 ## More recipes by topic
 
 ### Central and Eastern Europe by period state
