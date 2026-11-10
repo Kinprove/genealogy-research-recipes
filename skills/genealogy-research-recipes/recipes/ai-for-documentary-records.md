@@ -8,7 +8,7 @@ triggers: ["any \"can AI/ChatGPT/Gemini transcribe", "translate this handwriting
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "AI-FOR-DOCUMENTARY-RECORDS-01", "text": "every AI output is a **hypothesis to verify** against the ORIGINAL image; a bare LLM is not a search engine; never use an AI-restored/generated face for identification."}]
-handoff: ["research-documentation"]
+handoff: ["research-documentation", "russian-household-list-transcription-audit"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": [], "local_script": ["generated plotting script"], "extensions": [], "data_transfer": ["export", "third-party-tool"], "contact": []}
@@ -122,6 +122,8 @@ similar tokens. The [locality-reading discussion](https://forum.j-roots.info/vie
 motivates this contextual check without verifying its proposed place or subject-status readings.
 
 For a doubtful letter in a name, find the same writer's clear forms of that letter on the same page and compare them before accepting or correcting an index reading. If the image is poor, look for an independent scan of the same page on another provider's site and compare the readings, recording which image each came from. Another copy may be clearer, but not always. When asking a helper, supply the whole page or a link to it ([Sorensen](https://www.youtube.com/watch?v=xvqeNOE_dp8)); the same likely applies to a model. The reading stays an interpretation. Motivated by the [maiden-name example](https://www.youtube.com/watch?v=9Vq4-eIqsg0), the [enumerator comparison](https://www.youtube.com/watch?v=EEhzZ94K0ms) and the [ScotlandsPeople census case](https://www.youtube.com/watch?v=bxUHrllbZI4). These are single cases and do not establish whether the copies come from different filmings or scans.
+
+To audit a whole transcription of a Russian confession list or revision tale against its images, use the [household-list transcription audit](russian-household-list-transcription-audit.md).
 
 Before guessing, look for other renderings and reading keys:
 

@@ -8,7 +8,7 @@ triggers: ["Chain a non-Jewish revision-list household across copies", "sections
 privacy: "none"
 gates: []
 guardrails: [{"id": "RUSSIAN-REVISION-LIST-HOUSEHOLD-CHAINING-01", "text": "a central and a local copy are not two confirmations, and Urals fond numbers and age patterns must be checked locally."}]
-handoff: ["bessarabia-moldova-record-routing", "russian-orthodox-confession-list-reading", "russian-orthodox-metrical-book-recovery"]
+handoff: ["bessarabia-moldova-record-routing", "russian-household-list-transcription-audit", "russian-orthodox-confession-list-reading", "russian-orthodox-metrical-book-recovery"]
 checked: "2026-11-02"
 checked_basis: "checked 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
@@ -38,6 +38,7 @@ Use these recipes for the steps they already cover:
 - Identity, parentage and "no records" rulings: [evidence/proof judgment](evidence-proof-judgment.md).
 - Machine-read full-text search of revision tales and confession lists (Yandex «Поиск по архивам»), where a miss is never a negative: [Russian Orthodox metrical-book recovery, step 10](russian-orthodox-metrical-book-recovery.md#10-use-machine-read-full-text-search-for-leads-never-for-a-negative).
 - Bessarabian revision lists and the state and district that recorded each period: [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
+- Checking someone's transcription of a revision tale against the images: [the household-list transcription audit](russian-household-list-transcription-audit.md).
 
 ## Contents
 
