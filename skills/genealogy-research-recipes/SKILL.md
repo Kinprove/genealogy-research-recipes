@@ -893,6 +893,11 @@ A dated source check is a maintenance reminder, not verification of every claim 
   Read Russian Orthodox confession lists by household across years, test ages and names, and check
   them against revision lists and metrical books.
 
+- **`recipes/russian-household-list-transcription-audit.md`** — Audit a transcription of a Russian confession list or revision list against the images.
+  Audit a transcription of a Russian confession list or revision tale against the images: count the
+  people first, settle glyphs against the same scribe, keep relationship chains, name forms and kin
+  terms as written, and record the image value with its inconsistencies.
+
 - **`recipes/chechen-ingush-1944-deportation-records.md`** — Trace a Chechen or Ingush family through the 1944 deportation and special settlement.
   Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both
   names of renamed places and both ends of the exile.

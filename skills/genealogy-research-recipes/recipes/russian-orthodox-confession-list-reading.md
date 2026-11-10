@@ -8,7 +8,7 @@ triggers: ["Read a Russian Orthodox confession list by household", "Compare ис
 privacy: "none"
 gates: []
 guardrails: [{"id": "RUSSIAN-ORTHODOX-CONFESSION-LIST-READING-01", "text": "a confession list shows who a priest placed in a household in one year; it does not by itself prove a birth date, a marriage, parentage, a death or Old Belief, and every age is a range."}]
-handoff: ["evidence-proof-judgment", "old-believer-sectarian-record-recovery", "orthodox-clergy-record-recovery", "russian-orthodox-metrical-book-recovery", "russian-revision-list-household-chaining"]
+handoff: ["evidence-proof-judgment", "old-believer-sectarian-record-recovery", "orthodox-clergy-record-recovery", "russian-household-list-transcription-audit", "russian-orthodox-metrical-book-recovery", "russian-revision-list-household-chaining"]
 checked: "2026-11-08"
 checked_basis: "opened 2026-11-08"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
@@ -31,6 +31,7 @@ Other recipes cover the overlapping steps:
 - **Old Believers.** For raskol series and non-confessant registers, use [Old Believer and sectarian record recovery](old-believer-sectarian-record-recovery.md).
 - **Machine-read search.** For Yandex full-text search of confession lists, use [metrical-book recovery, step 10](russian-orthodox-metrical-book-recovery.md#10-use-machine-read-full-text-search-for-leads-never-for-a-negative).
 - **The final ruling.** For same-name separation and the proof argument, use [evidence/proof judgment](evidence-proof-judgment.md).
+- **Auditing a transcription.** To check someone's transcription of these lists against the images, use [the household-list transcription audit](russian-household-list-transcription-audit.md).
 
 ## Contents
 
