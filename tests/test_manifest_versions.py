@@ -13,7 +13,7 @@ SKILL = ROOT / "skills/genealogy-research-recipes/SKILL.md"
 SKILL_VERSION_LINE = re.compile(r"^This copy is version (\S+), released (\d{4}-\d{2}-\d{2})\.$", re.MULTILINE)
 CHANGELOG = ROOT / "skills/genealogy-research-recipes/CHANGELOG.md"
 CHANGELOG_ROW = re.compile(r"^\| (\d+\.\d+\.\d+) \| (\d{4}-\d{2}-\d{2}) \| (\d{4}-\d{2}-\d{2}) \|$", re.MULTILINE)
-EXPECTED_VERSION = "1.14.0"
+EXPECTED_VERSION = "1.15.0"
 SPEC = importlib.util.spec_from_file_location("bump_version", ROOT / "scripts/bump_version.py")
 release = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(release)
