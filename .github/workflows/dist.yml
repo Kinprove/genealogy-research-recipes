@@ -76,13 +76,14 @@ jobs:
             if [ -n "$remote_head" ]; then
               git_remote fetch --no-tags origin "refs/heads/$branch"
               parent=$(git rev-parse FETCH_HEAD)
-              # Never move a branch back: skip a release that the current head already contains.
+              # Never move a branch back: skip an older release that the current head contains.
+              # The same release may be rebuilt when the build rules change its tree.
               previous_source=$(git log -1 --format=%s "$parent" | sed -n 's/^Build .* from \([0-9a-f]\{40\}\) (.*)$/\1/p')
               if [ -z "$previous_source" ] || ! git cat-file -e "$previous_source^{commit}"; then
                 echo "$branch head does not name a known source commit" >&2
                 exit 1
               fi
-              if git merge-base --is-ancestor "$SOURCE_SHA" "$previous_source"; then
+              if [ "$SOURCE_SHA" != "$previous_source" ] && git merge-base --is-ancestor "$SOURCE_SHA" "$previous_source"; then
                 echo "$branch already contains $SOURCE_SHA (built from $previous_source)"
                 continue
               fi

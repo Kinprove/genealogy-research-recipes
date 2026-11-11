@@ -24,8 +24,11 @@ COMMON = (
     SKILL + "/recipes/*.md", SKILL + "/sources/*.md", SKILL + "/resources/*.json",
 )
 HELPER = SKILL + "/scripts/lookup_beider_name.py"
+SOURCES = SKILL + "/sources/"
 TARGETS = {
-    "claude-directory": COMMON + (".claude-plugin/plugin.json", ".claude-plugin/icon.png"),
+    # Claude's directory times out validating the sources sidecars; link them on GitHub instead.
+    "claude-directory": tuple(pattern for pattern in COMMON if not pattern.startswith(SOURCES))
+    + (".claude-plugin/plugin.json", ".claude-plugin/icon.png"),
     "hermes-catalog": COMMON + ("plugin.yaml", "__init__.py", HELPER),
     "openai-plugin": COMMON + ("plugin.json", "assets/logo.png", HELPER),
 }
@@ -44,14 +47,20 @@ CLAUDE_FIELDS = {
     "settings", "userConfig", "types", "channels", "skills", "commands", "agents", "hooks",
     "mcpServers", "lspServers", "outputStyles", "workflows", "experimental",
 }
+# Measured 2026-11: Claude's validator timed out on 9.4 MB and passed at 6.5 MB.
+CLAUDE_MAX_BYTES = 6 * 1024 * 1024
+
+
+def resolve_commit(repository, source):
+    return subprocess.run(
+        ["git", "rev-parse", "--verify", "--end-of-options", source + "^{commit}"],
+        cwd=repository, capture_output=True, text=True, check=True,
+    ).stdout.strip()
 
 
 def archive_files(repository, source):
     """Read regular files from git archive, without consulting the working tree."""
-    sha = subprocess.run(
-        ["git", "rev-parse", "--verify", "--end-of-options", source + "^{commit}"],
-        cwd=repository, capture_output=True, text=True, check=True,
-    ).stdout.strip()
+    sha = resolve_commit(repository, source)
     data = subprocess.run(["git", "archive", "--format=tar", sha], cwd=repository,
                           capture_output=True, check=True).stdout
     files = {}
@@ -101,6 +110,9 @@ def check_claude_files(files):
                 data.decode("utf-8")
             except UnicodeDecodeError as exc:
                 raise ValueError(name + ": text is not UTF-8") from exc
+    size = sum(len(data) for data in files.values())
+    if size > CLAUDE_MAX_BYTES:
+        raise ValueError(f"distribution is {size} bytes; the limit is {CLAUDE_MAX_BYTES}")
     manifest = ".claude-plugin/plugin.json"
     if manifest not in files:
         raise ValueError("missing " + manifest)
@@ -179,6 +191,24 @@ def markdown_links(text):
             for link in links]
 
 
+def pin_sources(name, text, base):
+    """Point links and path mentions of the omitted sources sidecars at a pinned GitHub tree."""
+    def link(match):
+        location = urlsplit(match.group(2))
+        if location.scheme or location.netloc or location.path.startswith("/"):
+            return match.group(0)
+        target = posixpath.normpath(posixpath.join(posixpath.dirname(name), unquote(location.path)))
+        if not (target + "/").startswith(SOURCES):
+            return match.group(0)
+        suffix = "/" if location.path.endswith("/") else ""
+        rest = ("?" + location.query if location.query else "") + (
+            "#" + location.fragment if location.fragment else "")
+        return match.group(1) + base + target[len(SOURCES) - 1:].rstrip("/") + suffix + rest
+    text = re.sub(r"(\]\(\s*<?)([^\s()<>]+)", link, text)
+    # Prose and code spans name sidecars relative to the skill folder, e.g. `sources/<slug>.md`.
+    return re.sub(r"(?<![\w./:-])sources/", base + "/", text)
+
+
 def check_link_files(files):
     errors = []
     for name, data in sorted(files.items()):
@@ -215,7 +245,8 @@ def check_links(path):
 
 
 def build(target, source, out, repository=ROOT):
-    archived = archive_files(repository, source)
+    sha = resolve_commit(repository, source)
+    archived = archive_files(repository, sha)
     files = {}
     for pattern in TARGETS[target]:
         matches = [name for name in archived if fnmatch.fnmatchcase(name, pattern)]
@@ -225,6 +256,11 @@ def build(target, source, out, repository=ROOT):
             destination = name + ".md" if target == "claude-directory" and PurePosixPath(name).name == "NOTICE" else name
             files[destination] = archived[name]
     if target == "claude-directory":
+        repository_url = json.loads(files[".claude-plugin/plugin.json"])["repository"].rstrip("/")
+        base = repository_url + "/blob/" + sha + "/" + SOURCES.rstrip("/")
+        for name in files:
+            if name.endswith(".md"):
+                files[name] = pin_sources(name, files[name].decode("utf-8"), base).encode("utf-8")
         check_claude_files(files)
     out = Path(out)
     if out.exists() and (not out.is_dir() or any(out.iterdir())):

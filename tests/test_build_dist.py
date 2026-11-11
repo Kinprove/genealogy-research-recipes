@@ -30,11 +30,47 @@ class BuildDistTests(unittest.TestCase):
                      "LICENSE", "NOTICE.md", SKILL + "/SKILL.md", SKILL + "/NOTICE.md"):
             self.assertIn(name, files)
         archived = dist.archive_files(ROOT, "HEAD")
+        base = ("https://github.com/Kinprove/genealogy-research-recipes/blob/"
+                + dist.resolve_commit(ROOT, "HEAD") + "/" + SKILL + "/sources")
         for name in ("NOTICE", SKILL + "/NOTICE"):
-            self.assertEqual(files[name + ".md"], archived[name])
+            expected = dist.pin_sources(name + ".md", archived[name].decode("utf-8"), base)
+            self.assertEqual(files[name + ".md"].decode("utf-8"), expected)
             self.assertNotIn(name, files)
         self.assertFalse(any(name.endswith((".py", ".js")) for name in files))
         self.assertNotIn(".claude-plugin/marketplace.json", files)
+
+    def test_head_claude_tree_links_sources_on_github_at_the_source_commit(self):
+        tree = dist.build("claude-directory", "HEAD", self.root / "claude")
+        files = dist.tree_files(tree)
+        self.assertFalse(any(name.startswith(dist.SOURCES) for name in files))
+        self.assertLess(sum(len(data) for data in files.values()), dist.CLAUDE_MAX_BYTES)
+        base = ("https://github.com/Kinprove/genealogy-research-recipes/blob/"
+                + dist.resolve_commit(ROOT, "HEAD") + "/" + SKILL + "/sources/")
+        archived = dist.archive_files(ROOT, "HEAD")
+        for name, data in files.items():
+            if name.endswith(".md"):
+                text = data.decode("utf-8")
+                with self.subTest(name=name):
+                    self.assertNotRegex(text, r"(?<![\w./:-])sources/")
+                    for link in dist.markdown_links(text):
+                        if "/sources/" in link:
+                            self.assertTrue(link.startswith(base), link)
+                            path = SKILL + "/sources/" + link[len(base):].split("#")[0]
+                            self.assertTrue(any(key.startswith(path) for key in archived), link)
+        recipe = files[SKILL + "/recipes/research-documentation.md"].decode("utf-8")
+        self.assertIn("](" + base + "research-documentation.md)", recipe)
+        self.assertIn(base + "<recipe-id>.md", files[SKILL + "/SKILL.md"].decode("utf-8"))
+
+    def test_other_channels_keep_sources(self):
+        for target in ("hermes-catalog", "openai-plugin"):
+            with self.subTest(target=target):
+                result = dist.build(target, "HEAD", self.root / target)
+                if target == "openai-plugin":
+                    with zipfile.ZipFile(result) as archive:
+                        names = archive.namelist()
+                else:
+                    names = list(dist.tree_files(result))
+                self.assertIn(dist.SOURCES + "research-documentation.md", names)
 
     def test_head_hermes_tree_has_adapter_and_complete_skill(self):
         tree = dist.build("hermes-catalog", "HEAD", self.root / "hermes")
@@ -122,7 +158,11 @@ class BuildDistTests(unittest.TestCase):
                     self.assertEqual(after.read_bytes(), before[target].read_bytes())
                 else:
                     self.assertEqual(dist.tree_files(after), dist.tree_files(before[target]))
-                    self.assertEqual((after / "README.md").read_bytes(), (ROOT / "README.md").read_bytes())
+                    readme = (after / "README.md").read_bytes()
+                    self.assertNotIn(b"newer committed", readme)
+                    self.assertNotIn(b"dirty", readme)
+                    if target == "hermes-catalog":
+                        self.assertEqual(readme, (ROOT / "README.md").read_bytes())
                     self.assertFalse((after / SKILL / "recipes/newer.md").exists())
                     self.assertFalse((after / SKILL / "recipes/untracked.md").exists())
 
@@ -187,6 +227,11 @@ class ClaudePolicyTests(unittest.TestCase):
                     dist.check_claude(self.root)
                 (self.root / name).unlink()
 
+    def test_oversized_tree_is_refused(self):
+        self.write("large.md", b"x" * (dist.CLAUDE_MAX_BYTES + 1))
+        with self.assertRaisesRegex(ValueError, "the limit is"):
+            dist.check_claude(self.root)
+
     def test_unknown_manifest_field_is_refused(self):
         self.write(".claude-plugin/plugin.json", b'{"name":"example","extensions":{}}')
         with self.assertRaisesRegex(ValueError, "undocumented fields: extensions"):
@@ -203,6 +248,27 @@ class ClaudePolicyTests(unittest.TestCase):
         for extension in dist.IMAGES:
             self.write("image" + extension, b"\xffimage")
         dist.check_claude(self.root)
+
+
+class PinSourcesTests(unittest.TestCase):
+    BASE = "https://github.com/o/r/blob/abc/" + SKILL + "/sources"
+
+    def test_relative_links_and_mentions_are_pinned(self):
+        text = ("[a](../sources/x.md#credits) [b](<../sources/x.md>) [c](../recipes/y.md)\n"
+                "Read `sources/<slug>.md` and the `sources/` folder; resources/z.json stays.\n"
+                "[web](https://example.org/sources/x.md)\n")
+        pinned = dist.pin_sources(SKILL + "/recipes/y.md", text, self.BASE)
+        self.assertIn("[a](" + self.BASE + "/x.md#credits)", pinned)
+        self.assertIn("[b](<" + self.BASE + "/x.md>)", pinned)
+        self.assertIn("[c](../recipes/y.md)", pinned)
+        self.assertIn("`" + self.BASE + "/<slug>.md`", pinned)
+        self.assertIn("`" + self.BASE + "/` folder", pinned)
+        self.assertIn("resources/z.json", pinned)
+        self.assertIn("https://example.org/sources/x.md", pinned)
+
+    def test_root_relative_folder_link_is_pinned(self):
+        pinned = dist.pin_sources("README.md", "[s](" + SKILL + "/sources/)", self.BASE)
+        self.assertEqual(pinned, "[s](" + self.BASE + "/)")
 
 
 class DistributionLinkTests(unittest.TestCase):
