@@ -1,0 +1,393 @@
+## Sources
+
+The procedures are paraphrased research methods, not reproduced transcripts.
+Historical demonstrations supply tactics; current collection and custodian
+documentation governs today's routes. Primary documentation links appear at
+the relevant workflow. Community references:
+
+1. Diana Elder and Nicole Dyer, Family Locket, *RLP 299: Immigration Records
+   Part 3 — 1820–1906*, 1 April 2024.
+   <https://www.youtube.com/watch?v=cY_1zz8bZSQ>
+2. Alec Ferretti, FamilySearch, *Immigrant Women and Children’s Struggle for
+   U.S. Citizenship*, 11 July 2025.
+   <https://www.youtube.com/watch?v=rD1XJwrMJkA>
+3. Genealogy TV, *Immigration and Naturalization Records*, 5 April 2019.
+   <https://www.youtube.com/watch?v=mhGvWwGOh1s>
+4. Diana Elder and Nicole Dyer, Family Locket, *RLP 294: Naturalization Records
+   Part 3*, 26 February 2024.
+   <https://www.youtube.com/watch?v=Iq7u77MYfP4>
+5. Ancestry, *Did They Really Come Through New York? How to Search Passenger
+   Lists*, 30 January 2012.
+   <https://www.youtube.com/watch?v=ZeICb5mHHNw>
+6. Nicole Dyer and Diana Elder, Family Locket, *RLP 313: Immigration Records
+   Part 4 — After 1906*, 8 July 2024.
+   <https://familylocket.com/rlp-313-immigration-records-part-4-after-1906/>
+7. Lisa Louise Cooke’s Genealogy Gems, *Best Tips for Finding Family in
+   Passenger Lists — Ancestry*, 19 November 2020.
+   <https://www.youtube.com/watch?v=taDG7nTqzl0>
+8. Family History Fanatics, *Ellis Island Name Changes — Genealogy Myths
+   DEBUNKED*, 19 December 2020.
+   <https://www.youtube.com/watch?v=V6PN8hTtv6c>
+9. Family History Fanatics, *Your Ancestor Crossed the Border?! Here’s Where
+   to Find the Record on Ancestry*, 13 March 2023.
+   <https://www.youtube.com/watch?v=KPvET-Eqtdw>
+   Captions read in full on 2026-11-08.
+10. Lisa Louise Cooke’s Genealogy Gems, *Ellis Island Records! BEST Search
+    Strategies*, 29 June 2023.
+    <https://www.youtube.com/watch?v=4xyd2c5Cv1Q>
+11. Suzanne Hoffman, BYU Library Family History Center, *Mayhem on a Manifest*,
+    presentation 10 October 2024, published 11 October 2024.
+    <https://www.youtube.com/watch?v=ZgyxRZdHgcw>
+12. Nicole Dyer, Family Locket, *Finding William Henry Kelsey’s Naturalization
+    in a Utah County Minute Book*, 17 August 2026.
+    <https://familylocket.com/finding-william-henry-kelseys-naturalization-in-a-utah-county-minute-book/>
+13. Steve Luxenberg with Lisa Louise Cooke, Genealogy Gems, *Episode 121 –
+    Mysteries in Family History, Part 2*, published 23 December 2016.
+    <https://www.youtube.com/watch?v=9OkR0D6bDyg> — Used for an AR-2 ship and
+    date that matched no real voyage and contradicted the known manifest.
+14. Clotilde Yap, BYU Family History Library, *Introducing My China Roots*,
+    published 23 September 2024.
+    <https://www.youtube.com/watch?v=x5P9fKp25lw> — Used for the Chinese
+    exclusion books (status and admission) and the case-file contents shown as
+    an alternative arrival route.
+15. Laurie Castillo, BYU Family History Library, *Why Can't I Find My Family?
+    Digging Deeper on Surnames*, published 14 September 2022.
+    <https://www.youtube.com/watch?v=qDW8dEp5mN0> — used for the record types
+    (naturalization, pension alias, passport, court) where an earlier surname
+    may be stated.
+16. Lisa Lisson, *Did Your Ancestor Change His/Her Name?*, 4 December 2020.
+    <https://www.youtube.com/watch?v=dcx-iIn1TzE> — used for searching
+    religious and secular records under parallel birth and anglicized names.
+17. Genealogy Gems, *Italian Family History and Genealogy*, published 21 April
+    2022. <https://www.youtube.com/watch?v=UC1J5HuNYns> — Used for Italian
+    married women appearing on passenger lists under their birth surname, so
+    that their children look unaccompanied.
+18. Library and Archives Canada staff with Lisa Louise Cooke, Genealogy Gems,
+    *Episode 199*, published 11 January 2017.
+    <https://www.youtube.com/watch?v=Dqa7RGnfDOk> — Used for the lack of
+    Canadian border records before 1908, entry-only recording, and bridging
+    gaps with censuses and directories.
+19. Erika Ward, BYU Family History Library, *When and Where Did My Scottish
+    Ancestors Move?*, published 8 August 2022.
+    <https://www.youtube.com/watch?v=aZgUeKOaLtY> Used for the passenger
+    categories that early Canadian manifests omitted.
+20. Larry Jensen, BYU Family History Library, *Determining Places of Origin of
+    German Immigrant Ancestors*, published 21 February 2021.
+    <https://www.youtube.com/watch?v=2PxBQeskcSI> Used for treating a
+    reconstructed Bremen list as derived from the arrival manifests.
+21. Denyse Allen, *Must See Records at the PA State Archive*, 2 July 2021.
+    <https://www.youtube.com/watch?v=lZl4PtvBXIU> — also Denyse Allen,
+    *Pennsylvania State Archives*, 25 July 2024,
+    <https://www.youtube.com/watch?v=RKo2d528iw8>. Used for the staff note that
+    researchers request copies of the original 1727–1808 German ship lists to
+    see signatures beyond the printed Strassburger/Hinke transcriptions.
+22. Lisa Louise Cooke, Genealogy Gems, *Episode 98: The Journey Takers*,
+    published 23 December 2016.
+    <https://www.youtube.com/watch?v=nto6GVn0CLk> — Used for a page-wide ditto
+    entry (Sweden for German passengers) that defeated a correct search filter.
+23. Lisa Lisson, *Chatting About Researching Immigrant Ancestors*, published 19
+    June 2020. <https://www.youtube.com/watch?v=4d43ZFUIzbs> — Used for
+    page/line cross-references between family entries and for a naturalized
+    relative listed on the same voyage's U.S.-citizen list; also used for state
+    and federal alien registrations and for split family listings and citizen
+    lists.
+24. James Tanner, BYU Family History Library, *Understanding Naturalization for
+    Genealogists*, published 13 July 2017.
+    <https://www.youtube.com/watch?v=8d_4x7YTNQA>. Used for keeping the search
+    window open through the person's lifetime; the Martinez entry (25) also
+    covers the exemptions.
+25. Alyssa Martinez, BYU Family History Library, *Certifying Citizenship*,
+    published 10 April 2026. <https://www.youtube.com/watch?v=2K4FYUhoNbc> Used
+    for the U.S.-born woman recorded as alien whose repatriation oath was
+    found, and for a wife's filing next to her husband's.
+26. GeneaVlogger, *Building Lil Dicky's Family Tree*, published 23 February
+    2024. <https://www.youtube.com/watch?v=SKDoU7MJkds> — Used for finding the
+    certificate of arrival on an adjacent image and using it to reach the
+    manifest; reference 11 (Hoffman) adds the borrowed-certificate check.
+27. Miles Meyer, Family History Fanatics, *Get Started Searching for European
+    Ancestors in Archives*, published 25 July 2019.
+    <https://www.youtube.com/watch?v=tBweLebo7TA> — Used alongside the Lisson
+    interview (23) for WWI German alien registrations as an origin clue.
+28. Ahnenforschung.net Forum, *Auswanderung USA*, first post 22 November 2021.
+    <https://forum.ahnenforschung.net/forum/thread/185403/> — Rights: cited
+    reference, not reproduced. Used for the warning that manifest visa numbers do not locate
+    USCIS visa files, which need an index search first, and for the limited contents to expect;
+    also used for searching British inbound passenger lists for a return leg through Britain.
+29. Aimee Cross, *Missed Records at the National Archives*, 17 July 2025.
+    <https://www.youtube.com/watch?v=T9iEw4Zhb7M>
+    A possible naturalization-paper lead inside a homestead packet; the interview's
+    eligibility assertion, digitization heuristic and typical page count are excluded.
+30. Vera Miller, Lost Russian & Ukrainian Family, *NARA quietly expands two databases
+    of its most valuable immigration collections to 2.5 million files*, 26 September 2026.
+    <https://lostrussianfamily.wordpress.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/>
+    Related-person A-file searches across available catalogues; individual identity and
+    locator checks are Kinprove synthesis. The title's count, fixed birth-year coverage,
+    wildcard syntax, fees and delivery claims are not adopted as current service facts.
+31. Aimee Cross / Ancestry Aimee, *Finding the RIGHT Immigration Record*, 11 December 2025.
+    <https://www.youtube.com/watch?v=xm7HHLneP-E>
+    A sailing-wide passenger worksheet preserves page numbers and image access, sorts rows
+    by place/name and compares them with later census/tax neighbors. Coverage, field meaning
+    and identity controls are Kinprove synthesis; the absence of neighborhood overlap does
+    not establish that a proposed voyage is wrong. Historical copying controls are excluded.
+
+32. Nicole Dyer and Diana Elder, Family Locket, *RLP 260: Shipindex with Peter
+    McCracken*, 3 July 2023.
+    <https://familylocket.com/rlp-260-shipindex-with-peter-mccracken/>
+    The interview supports vessel-name bibliography searches, following citations
+    to holdings and comparing same-name ships or different voyages. It does not verify
+    current index controls, subscriptions, holding availability or the cited originals.
+
+33. Legacy Tree Genealogists, *Cuban Genealogy Research: Useful Tips and Tricks*,
+    12 May 2023. <https://www.legacytree.com/blog/cuban-genealogy-research-tips>
+    Names plane manifests among U.S.-side hometown leads. The article does not
+    demonstrate a passenger search or establish how many Cuban arrivals were by air.
+34. National Archives, *Passenger Arrival Records* and *Browse by Port of Entry*,
+    checked 26 October 2026.
+    <https://www.archives.gov/research/immigration/passenger-arrival.html>
+    <https://www.archives.gov/research/immigration/ports>
+    Port/airport arrangement and separate airplane/vessel series corroborate the
+    mode-specific route. No passenger image was inspected; current partner controls,
+    complete coverage and a specific person's journey are not established.
+35. Christopher C. Child, Vita Brevis, *Complicated Naturalizations*, 3 March 2025.
+    <https://vitabrevis.americanancestors.org/complicated-naturalizations>
+    Reported renunciation and alien-parent wording motivate literal clause extraction
+    as a nationality/parent lead. The original court paper was not inspected and has
+    no precise locator in the article. Its Royal Charter, Foraker/Jones Act and Danish
+    nationality-inheritance claims are not adopted. The lead row and its limits are
+    Kinprove synthesis.
+36. National Archives, *Alien Registration (AR-2) Forms*, last reviewed 6 September 2024.
+    <https://www.archives.gov/research/immigration/alien-registration-ar-2>
+    Used for the AR-2 fields that separate first arrival from most recent arrival, for
+    checking the Flexoline Index before following NARA's AR-2 instructions, and for the
+    warning that an indexed number can lack a form image because the form may have
+    moved into an A-File.
+37. Nicole Elder Dyer, Family Locket, *RLP 202: Researching Scandinavian Immigrants
+    with Jenny Hansen*, 23 May 2022.
+    <https://familylocket.com/rlp-202-researching-scandinavian-immigrants-with-jenny-hansen/>
+    An example that motivates reading a previous parish named in an immigrant-community
+    church admission or transfer entry as a possible transit or port parish rather than
+    a birthplace. It does not guarantee such a field or identify a family.
+38. Statue of Liberty & Ellis Island Foundation, *Passenger Search*, undated.
+    <https://www.statueofliberty.org/discover/heritagesearch/>
+    Used for the statement that the Foundation's Arrival Records Collection includes
+    entry points beyond New York, so old New-York-only coverage claims are not copied.
+39. National Archives, *Mexican Border Crossing Records, ca. 1903–ca. 1955*, last
+    reviewed 14 February 2025.
+    <https://www.archives.gov/research/immigration/border-mexico>
+    Used for the Mexican border crossing series and their coverage, checked against the
+    crossing period.
+40. Marian L. Smith, National Archives, *Prologue*, *By Way of Canada: U.S. Records of
+    Immigration Across the U.S.-Canadian Border, 1895–1954 (St. Albans Lists)*, Fall 2000.
+    <https://www.archives.gov/publications/prologue/2000/fall/us-canada-immigration-records-1.html>
+    Used for the point that the St. Albans district collection name does not establish
+    a crossing at St. Albans, Vermont.
+    The live page returned HTTP 404 on 2026-11-08; its Internet Archive capture of 2025-01-12 was read in full that day.
+41. JewishGen, *Manifest Markings - Left Margin*, undated.
+    <https://jewishgen.org/infofiles/manifests/left/>
+    Used to identify detention, special-inquiry and crossing-out marks from a
+    manifest-annotation guide rather than from their appearance.
+42. JewishGen, *Manifest Markings - Occupation Column*, undated.
+    <https://jewishgen.org/InfoFiles/Manifests/occ/>
+    Used for reading occupation-column verification marks: districts were renumbered,
+    so the key for the annotation's date applies, and the verification application
+    number cannot locate naturalization records.
+43. Diana Elder, Family Locket, *Back to the Basics with Naturalization Records: Part 3*,
+    17 September 2023.
+    <https://familylocket.com/back-to-the-basics-with-naturalization-records-part-3/>
+    An example that motivates following a proceeding through its continuances to the
+    final order. Its inconsistent dates and ultimate status narrative are not adopted.
+44. National Archives, *Naturalization Records*, last reviewed 10 September 2025.
+    <https://www.archives.gov/research/immigration/naturalization>
+    Used for the points that NARA generally holds declarations and petitions rather
+    than the citizenship certificate, and that C-Files cover naturalizations from 27 September
+    1906 through 31 March 1956 with later records filed in A-Files.
+45. Marian L. Smith, National Archives, *Prologue*, *"Any woman who is now or may
+    hereafter be married . . ." Women and Naturalization, ca. 1802–1940*, Summer 1998.
+    <https://www.archives.gov/publications/prologue/1998/summer/women-and-naturalization-1.html>
+    Used for the historical marriage-related changes to a woman's citizenship, checked
+    against the dates of her timeline.
+46. U.S. Department of State, Foreign Affairs Manual, 8 FAM section on historical
+    derivative-citizenship charts, undated.
+    <https://fam.state.gov/FAM/08FAM/08FAM030109.html>
+    Used for selecting the period and conditions under which a child's status may
+    follow a parent's naturalization. The fetch failed with a certificate error on
+    3 November 2026, so the title and contents were not confirmed.
+47. National Archives, *Alien Files (A-Files)*, last reviewed 19 August 2025.
+    <https://www.archives.gov/research/immigration/aliens>
+    Used for checking an A-File's catalog entry and Contact(s), for saving the name,
+    NAID and A-number, and for the point that eligibility for transfer by age does not
+    prove transfer. Read again 2026-11-07 for the transfer 100 years after the birth
+    year, the August 2025 counts at Kansas City (more than 1,500,000, from across the
+    United States) and San Francisco (more than 300,000, from the San Francisco,
+    Honolulu, Reno and Guam offices), and the Catalog naming everyone in the holdings.
+48. Stephen P. Morse, *Searching the Ellis Island Database in One Step: Frequently
+    Asked Questions*, undated.
+    <https://stevemorse.org/ellis2/faq.htm>
+    Used for repairing wrong-image and missing-frame failures by browsing from the
+    ship and date or from nearby frames instead of repeating name queries.
+49. Freie und Hansestadt Hamburg, Behörde für Kultur und Medien, *Link to your
+    Roots*, opened 4 November 2026.
+    <https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/projekte-und-initiativen/link-to-your-roots-110216>
+    Used for the Staatsarchiv Hamburg's 555 volumes of emigrant lists, 1850–1934,
+    searchable on Ancestry.
+50. Staatsarchiv Bremen, *4.57/5 Statistisches Landesamt – Passagierlisten
+    1907–1908* (Archivportal-D), opened 4 November 2026.
+    <https://www.archivportal-d.de/item/RMQ7S2OPT7GU6SOFJ5W327XM4QOJTMCN?lang=en>
+    Used for the surviving 1907/08 Bremen lists, about 16% of those once held.
+51. Stadsarchief Rotterdam, *Passagierslijsten Holland Amerika Lijn*, opened
+    4 November 2026.
+    <https://stadsarchief.rotterdam.nl/passagierslijsten>
+    Used for custody of the HAL passenger lists, the surname and first-name search,
+    and the index naming only the person who made the booking.
+52. National Archives at Atlanta, *Immigration and Naturalization Microfilm*,
+    opened 4 November 2026.
+    <https://www.archives.gov/atlanta/finding-aids/microfilm/immigration.html>
+    Used for M237 (New York arrivals 1820–1897, 675 rolls) and T715 (New York
+    passenger and crew lists 1897–1957, 8,892 rolls).
+53. Internet Archive, *Passenger and Crew Lists of Vessels Arriving at New York,
+    NY, 1897-1957, Reel 4247*, opened 4 November 2026.
+    <https://archive.org/details/passengercrewlis4247unit>
+    Used for the rolls online as one item per reel, with the reel's date span in
+    the description (contributed by the Allen County Public Library).
+54. FamilySearch, *New York, Passenger Lists, 1820-1891* (collection 1849782),
+    opened 4 November 2026.
+    <https://www.familysearch.org/search/collection/1849782>
+    Used for the collection title and ID, and for arrivals 1892–1897 being in a
+    separate collection.
+55. Die Maus, Gesellschaft für Familienforschung, Bremen, *Passagierlisten*
+    (passenger lists) database page, opened 4 November 2026.
+    <https://www.public-juling.de/passagierlisten/?lang=en>
+    Used for the count of about 3,000 surviving Bremen original lists for
+    1920–1939, and the surviving statistical copies of the 1907/08 and 1913/14
+    lists.
+56. U.S. Citizenship and Immigration Services, *A-Files Numbered Below 8 Million*,
+    read 7 November 2026.
+    <https://www.uscis.gov/records/genealogy/historical-record-series/a-files-numbered-below-8-million>
+    Used for the Genealogy Program accepting only A-Files numbered below 8 million,
+    with higher numbers requested through FOIA.
+57. U.S. Citizenship and Immigration Services, *Requesting Records*, read 7 November
+    2026.
+    <https://www.uscis.gov/records/genealogy/requesting-records>
+    Used for AR-2 forms being available only through NARA from 17 May 2024. The
+    proposed rule of 21 August 2026 (91 FR 54252) repeats that USCIS no longer
+    processes AR-2 requests received on or after that date.
+58. U.S. Citizenship and Immigration Services, *Form G-1055, Fee Schedule*, edition
+    of 26 October 2026, read 7 November 2026.
+    <https://www.uscis.gov/sites/default/files/document/forms/g-1055.pdf>
+    Used for the G-1041 and G-1041A fees: $30 online and $80 on paper.
+59. Department of Homeland Security, *U.S. Citizenship and Immigration Services Fee
+    Schedule and Changes to Certain Other Immigration Benefit Request Requirements*,
+    final rule, 89 FR 6194, 31 January 2024, read 7 November 2026.
+    <https://www.govinfo.gov/content/pkg/FR-2024-01-31/pdf/2024-01427.pdf>
+    Used for the 1 April 2024 effective date and 8 CFR 103.40(g): electronic copies
+    of records stored digitally sent for no additional fee, and a records request
+    needed for records stored on paper.
+60. U.S. Citizenship and Immigration Services, *Historical Records Series Available
+    from the Genealogy Program*, read 7 November 2026.
+    <https://www.uscis.gov/records/genealogy/historical-records-series-available-from-the-genealogy-program>
+    Used for the statement that most C-Files exist only on microfilm. The same page
+    says Visa Files, Registry Files and A-Files exist only on paper, so the recipe
+    names no record type as delivered digitally.
+
+<!-- provenance-ledger:start -->
+```yaml
+schema: 1
+sources:
+  - {"id":"N1","kind":"video","urls":["https://www.youtube.com/watch?v=cY_1zz8bZSQ"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"cdf9265c4efc78513e2273da5e2827fab72b6fcfe75b937437ab25f04ac60724","claims":[],"review":"pending"}
+  - {"id":"N2","kind":"video","urls":["https://www.youtube.com/watch?v=rD1XJwrMJkA"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"8dd9b211050dafb410cb79ace98433d5e1a547febd658966fd2d7a2827150723","claims":[],"review":"pending"}
+  - {"id":"N3","kind":"video","urls":["https://www.youtube.com/watch?v=mhGvWwGOh1s"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"45882037f69c09d65a19d39eb987d16f7d12a0da1ac4739410d669f536a9d363","claims":[],"review":"pending"}
+  - {"id":"N4","kind":"video","urls":["https://www.youtube.com/watch?v=Iq7u77MYfP4"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"6da01dabeccf50fa1d662057084ecf4ce9b2aafd885b13120008674b50f8e392","claims":[],"review":"pending"}
+  - {"id":"N5","kind":"video","urls":["https://www.youtube.com/watch?v=ZeICb5mHHNw"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"4f8afa98fbfc0db71aa075b19c2dab9b54618dd9a591e7e6ec04cf5e1d6c4689","claims":[],"review":"pending"}
+  - {"id":"N6","kind":"unknown","urls":["https://familylocket.com/rlp-313-immigration-records-part-4-after-1906/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"4710d502a4c5da137a7685e61a97993b421a45fb3b052a4477e19c729b526dd8","claims":[],"review":"pending"}
+  - {"id":"N7","kind":"video","urls":["https://www.youtube.com/watch?v=taDG7nTqzl0"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"d1f65ee69969e5767efd7e56804ab7505b438af3c3f7a776497ca083c74d07bd","claims":[],"review":"pending"}
+  - {"id":"N8","kind":"video","urls":["https://www.youtube.com/watch?v=V6PN8hTtv6c"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"3a2dfe7b5eb14210c5bed4bc46034e305a46c1cadcabfbb464836b1cee4c7f55","claims":[],"review":"pending"}
+  - {"id":"N9","kind":"video","urls":["https://www.youtube.com/watch?v=KPvET-Eqtdw"],"published":"2023-03-13","retrieved":"2026-11-08","access":"read","rights":null,"basis":"Captions read in full on 2026-11-08.","entry_sha256":"9dec1276689d2e7f23ce3b0e8fba83d5e98ad2edd13e365f3c9270d5f5c6cc7e","claims":["C-be2c838d701d"],"review":"reviewed"}
+  - {"id":"N10","kind":"video","urls":["https://www.youtube.com/watch?v=4xyd2c5Cv1Q"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"2b0346e18c3234bff5c6f9f5e124cf5a8265fdc224f9503372b21bd6e095870f","claims":[],"review":"pending"}
+  - {"id":"N11","kind":"video","urls":["https://www.youtube.com/watch?v=ZgyxRZdHgcw"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"476c14036e3304798db90b183f0e643a4a79306bcffb82de895189a0984b3c6c","claims":[],"review":"pending"}
+  - {"id":"N12","kind":"unknown","urls":["https://familylocket.com/finding-william-henry-kelseys-naturalization-in-a-utah-county-minute-book/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"9edadb121876af45a798516ef4653f8fe413ecbbc8a0cc43b8ba102a73c18830","claims":[],"review":"pending"}
+  - {"id":"N13","kind":"video","urls":["https://www.youtube.com/watch?v=9OkR0D6bDyg"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"ccea392fd97ce1996bfb148ae34f940f22905670cc266acef03e55ed0fa6d932","claims":[],"review":"pending"}
+  - {"id":"N14","kind":"video","urls":["https://www.youtube.com/watch?v=x5P9fKp25lw"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"4ef0926a76c3e1a8f6a946d9bb423f3b61f2c8ce8534487eb757b0a7b4bbcd8a","claims":[],"review":"pending"}
+  - {"id":"N15","kind":"video","urls":["https://www.youtube.com/watch?v=qDW8dEp5mN0"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"ab1524831fe449355ada416d32cb54ada1969c55973b2dc7a7ebbc97d370c6da","claims":[],"review":"pending"}
+  - {"id":"N16","kind":"video","urls":["https://www.youtube.com/watch?v=dcx-iIn1TzE"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"130d31b584398df2cf161128e99a33140f7dda63511614a8ecceda805670d379","claims":[],"review":"pending"}
+  - {"id":"N17","kind":"video","urls":["https://www.youtube.com/watch?v=UC1J5HuNYns"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"75d0f8f3a9778f1e1d4b7304e163ae234c1a3b14818e8f9c127aea4501f2a7ca","claims":[],"review":"pending"}
+  - {"id":"N18","kind":"video","urls":["https://www.youtube.com/watch?v=Dqa7RGnfDOk"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"9592067e94a033830da7ffe5c86fe6e189f5f41b3a8379f6a9f809381a26fab0","claims":[],"review":"pending"}
+  - {"id":"N19","kind":"video","urls":["https://www.youtube.com/watch?v=aZgUeKOaLtY"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"c4cd210f3591f09c5c0eda5c8ec6c4758c5de40cfc156d49eb0d55c64816fcf3","claims":[],"review":"pending"}
+  - {"id":"N20","kind":"video","urls":["https://www.youtube.com/watch?v=2PxBQeskcSI"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"267983b15de12caca3d3cb10c82e93497279154574604250bd394e8ad6ed38a3","claims":[],"review":"pending"}
+  - {"id":"N21","kind":"video","urls":["https://www.youtube.com/watch?v=lZl4PtvBXIU","https://www.youtube.com/watch?v=RKo2d528iw8"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"3a654c447ec2e3509843973c6cecaa35b2fab9398e9476b9b82deb69b4f91650","claims":[],"review":"pending"}
+  - {"id":"N22","kind":"video","urls":["https://www.youtube.com/watch?v=nto6GVn0CLk"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"019ac74bdf4409cc78dfb79b6af093c9940f2e32c38cd869fbc6f515a95acf30","claims":[],"review":"pending"}
+  - {"id":"N23","kind":"video","urls":["https://www.youtube.com/watch?v=4d43ZFUIzbs"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"416aacd3da38256fa75a132841c11f127918ac393a839a16af90ddab96378d8f","claims":[],"review":"pending"}
+  - {"id":"N24","kind":"video","urls":["https://www.youtube.com/watch?v=8d_4x7YTNQA"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"0138005e7a772fde20aae2e7e3c1dfcab4f0599190631bbaaf01be5b17c702e5","claims":[],"review":"pending"}
+  - {"id":"N25","kind":"video","urls":["https://www.youtube.com/watch?v=2K4FYUhoNbc"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"93d3684898e0f300f157f16534300907738829d7ba1b6d18d69aa5c9198fc8ed","claims":[],"review":"pending"}
+  - {"id":"N26","kind":"video","urls":["https://www.youtube.com/watch?v=SKDoU7MJkds"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"c9b50c56948f98d4e7758ad824c13dfac149761ca7a0bae8eb8ea7c0ecd1ac0f","claims":[],"review":"pending"}
+  - {"id":"N27","kind":"video","urls":["https://www.youtube.com/watch?v=tBweLebo7TA"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"07b7de4caf44b9673a6f50e1a7f74d4d160cfd587ce276d4205e75664d657307","claims":[],"review":"pending"}
+  - {"id":"N28","kind":"unknown","urls":["https://forum.ahnenforschung.net/forum/thread/185403/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"ffe90c5f10896e1dd8a9a5a03b11f517abe2d5ddbc9e598301e9a4aae3b105a1","claims":[],"review":"pending"}
+  - {"id":"N29","kind":"video","urls":["https://www.youtube.com/watch?v=T9iEw4Zhb7M"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"6e0272c12e4b03922386bc40e44623d4b50ffe46f380a0b52ce3d3db90f0f2e7","claims":[],"review":"pending"}
+  - {"id":"N30","kind":"unknown","urls":["https://lostrussianfamily.wordpress.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"c2588a1bd9a83dcadca893a9d42f6ba614a8748c26a13e99ad643d05018a7802","claims":[],"review":"pending"}
+  - {"id":"N31","kind":"video","urls":["https://www.youtube.com/watch?v=xm7HHLneP-E"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"2beb333cf4df61fac7306bd0919163880113edd5926d2176dacbd4dc3390a90b","claims":[],"review":"pending"}
+  - {"id":"N32","kind":"unknown","urls":["https://familylocket.com/rlp-260-shipindex-with-peter-mccracken/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"b0cf19a4ade94e4e4a21748cf75546e135bd022a1e8f6a38f5b38287bce95ebd","claims":[],"review":"pending"}
+  - {"id":"N33","kind":"unknown","urls":["https://www.legacytree.com/blog/cuban-genealogy-research-tips"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"831a7386613d0dd0d5d4c2fa793d6f5742b16d9ace1e20b9473fa700507af439","claims":[],"review":"pending"}
+  - {"id":"N34","kind":"unknown","urls":["https://www.archives.gov/research/immigration/passenger-arrival.html","https://www.archives.gov/research/immigration/ports"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"d66595919d79f49e359607a539f1657b4229ac9d0000272699acab06731f0eca","claims":[],"review":"pending"}
+  - {"id":"N35","kind":"unknown","urls":["https://vitabrevis.americanancestors.org/complicated-naturalizations"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"f1490d6d68fbc20c6a066b7a87f494140f46d04482b164948e9fc4b666201e94","claims":[],"review":"pending"}
+  - {"id":"N36","kind":"unknown","urls":["https://www.archives.gov/research/immigration/alien-registration-ar-2"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"86508627605d557b6689f36d52f001d56057e8453ce0171e4df4df623e54b7a3","claims":[],"review":"pending"}
+  - {"id":"N37","kind":"unknown","urls":["https://familylocket.com/rlp-202-researching-scandinavian-immigrants-with-jenny-hansen/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"f19aca1f400c1805dd71d1b683fa5a3c85468a630b8562735961ab7b2ecfeb20","claims":[],"review":"pending"}
+  - {"id":"N38","kind":"unknown","urls":["https://www.statueofliberty.org/discover/heritagesearch/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"7826a1939f91078d845ae5a08cf219d47d4d15ac46a41a6d8391376244f571e4","claims":[],"review":"pending"}
+  - {"id":"N39","kind":"unknown","urls":["https://www.archives.gov/research/immigration/border-mexico"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"7002242d975353854c3e6d4dab57890a82a37ac49bb6955ed865f2581af8acb3","claims":[],"review":"pending"}
+  - {"id":"N40","kind":"web-page","urls":["https://www.archives.gov/publications/prologue/2000/fall/us-canada-immigration-records-1.html"],"published":null,"retrieved":"2026-11-08","access":"read","rights":null,"basis":"The live page returned HTTP 404 on 2026-11-08; its Internet Archive capture of 2025-01-12 was read in full that day.","entry_sha256":"173f4e6771ebd603306e3f6f6104a848a4ecbb8ccc15a5db57170434424a2a43","claims":["C-be2c838d701d"],"review":"reviewed"}
+  - {"id":"N41","kind":"unknown","urls":["https://jewishgen.org/infofiles/manifests/left/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"ed89d5be1d20e33a663e1772b84c55897205255bc09fb07fa48b21c51ff682a5","claims":[],"review":"pending"}
+  - {"id":"N42","kind":"unknown","urls":["https://jewishgen.org/InfoFiles/Manifests/occ/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"aabef14668fa65c488392a414857ee1bd3c05ac7e2855f848809f5c12ebe0566","claims":[],"review":"pending"}
+  - {"id":"N43","kind":"unknown","urls":["https://familylocket.com/back-to-the-basics-with-naturalization-records-part-3/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"20fd1ad9b8dc8b79e46ad419881644b3c736ddd4ef63eda138d0818bbf5c2161","claims":[],"review":"pending"}
+  - {"id":"N44","kind":"unknown","urls":["https://www.archives.gov/research/immigration/naturalization"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"0981262953824119c71a74efdc8da923aacc1d62893cb18a694f992669fa3273","claims":[],"review":"pending"}
+  - {"id":"N45","kind":"unknown","urls":["https://www.archives.gov/publications/prologue/1998/summer/women-and-naturalization-1.html"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"88820412d5f40abdb61273ce517cdf1e59f02c2813619b8255eb05c1d51ecc76","claims":[],"review":"pending"}
+  - {"id":"N46","kind":"unknown","urls":["https://fam.state.gov/FAM/08FAM/08FAM030109.html"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"ce7d36d048b6f10e91816518cb3d9aeed0506f186a259a59e9e74285dc83a5bc","claims":[],"review":"pending"}
+  - {"id":"N47","kind":"unknown","urls":["https://www.archives.gov/research/immigration/aliens"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"8c5e350ead3bdc7749435e38fcc11173932c3c04fa71b120acea3b4dcf1f96c3","claims":[],"review":"pending"}
+  - {"id":"N48","kind":"unknown","urls":["https://stevemorse.org/ellis2/faq.htm"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"ab6eadf0487e1fb9dc99557eb8f04d5ae32d8d14ee3edfb91fc4702d3e1ea075","claims":[],"review":"pending"}
+  - {"id":"N49","kind":"unknown","urls":["https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/projekte-und-initiativen/link-to-your-roots-110216"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"d055396602857cf83d3a9e24e248ef53ab96a5c31ce47600490b1a2c151c3b69","claims":[],"review":"pending"}
+  - {"id":"N50","kind":"unknown","urls":["https://www.archivportal-d.de/item/RMQ7S2OPT7GU6SOFJ5W327XM4QOJTMCN?lang=en"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"d50f2f243cc199a024e614c4f7ca51a21024580f17c39dcc362e440a394088e7","claims":[],"review":"pending"}
+  - {"id":"N51","kind":"unknown","urls":["https://stadsarchief.rotterdam.nl/passagierslijsten"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"5a571da1376b83d8c99c3ebf5ee6517ba6ce049eb1a05df0e14793687665cabe","claims":[],"review":"pending"}
+  - {"id":"N52","kind":"unknown","urls":["https://www.archives.gov/atlanta/finding-aids/microfilm/immigration.html"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"e2fa6cdbb426c2ac4da0bb39d73e356d13491925dd71d54ed0eb9510269010bb","claims":[],"review":"pending"}
+  - {"id":"N53","kind":"unknown","urls":["https://archive.org/details/passengercrewlis4247unit"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"8c6c343b41a4df928ef5aac722904afbaf821d8c630b306467d1db8e4b627df4","claims":[],"review":"pending"}
+  - {"id":"N54","kind":"unknown","urls":["https://www.familysearch.org/search/collection/1849782"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"64310b1a2bad233c7bf5b6c567100758db147a647a17bfd7fbfd3636899d623b","claims":[],"review":"pending"}
+  - {"id":"N55","kind":"unknown","urls":["https://www.public-juling.de/passagierlisten/?lang=en"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"e3e1ef2c9aec8d6c5120a4c0ff13ebcb8972bdd08da0ac101398ad49bf3c727c","claims":[],"review":"pending"}
+  - {"id":"N56","kind":"unknown","urls":["https://www.uscis.gov/records/genealogy/historical-record-series/a-files-numbered-below-8-million"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"cefb21694c30ca17aa25b77c0a019c17af22be10e927afbef7951c5b141716cf","claims":[],"review":"pending"}
+  - {"id":"N57","kind":"unknown","urls":["https://www.uscis.gov/records/genealogy/requesting-records"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"d82ea94b8bbe3ad4eaa93b182b5fcbc14afa202a39ef19d078e01a2842f29033","claims":[],"review":"pending"}
+  - {"id":"N58","kind":"unknown","urls":["https://www.uscis.gov/sites/default/files/document/forms/g-1055.pdf"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"edfe61bf9836cf3d267189005a3e64a512bbc77f62c4dafd0fa07993211b3767","claims":[],"review":"pending"}
+  - {"id":"N59","kind":"unknown","urls":["https://www.govinfo.gov/content/pkg/FR-2024-01-31/pdf/2024-01427.pdf"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"477aff2ecef463338c8707e18577f24813e17afcaac61b71f23b93d96285636d","claims":[],"review":"pending"}
+  - {"id":"N60","kind":"unknown","urls":["https://www.uscis.gov/records/genealogy/historical-records-series-available-from-the-genealogy-program"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"6004e96f83315cd305f430a0bf52ca851e2299a3313e199739b4998f4a010366","claims":[],"review":"pending"}
+claims:
+  - {"id":"C-c83b8ea84fb1","kind":"unclassified","anchor":"Recover the record behind a failed name-and-year search. The recurring mistake\nis treating a search miss as a missing ancestor when the failure lies in the\nselected port, date, recorded name, image, citizenship history or custodian.\nImmigration and naturalization are separate events and produce different\nrecords.[3]","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-db918b4fdc41","kind":"unclassified","anchor":"**Output:** competing journey rows with a search window for each. **Check:**\nevery window states which record supports it. Stop treating the years as a\ncontradiction once they demonstrably describe different journeys.\n[NARA AR-2 guide](https://www.archives.gov/research/immigration/alien-registration-ar-2)","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-ab8f0d76127a","kind":"unclassified","anchor":"Treat the ship and arrival date on an AR-2 as the registrant's own statement, not a verified\nlocator. Record them as an attributed journey claim, and confirm that the named ship made that\nvoyage and that the person appears on its manifest before treating it as an established journey.\nIf the claim conflicts with a manifest already found, record the conflict rather than inventing a\nsecond trip. The\n[Annie's Ghosts example](https://www.youtube.com/watch?v=9OkR0D6bDyg) motivates this check: the\nregistrant named a voyage that never took place. It does not establish how often such answers\nare wrong.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-4440acb4149c","kind":"unclassified","anchor":"When an immigrant-community church admission or transfer entry names a previous parish,\nretain that literal field, date and locator as a separate journey clue. It may identify a\ntransit or port parish rather than birthplace. Compare independent birthplace evidence and\ncollateral relatives' stated localities before choosing a natal family. The\n[Scandinavian-immigrant example](https://familylocket.com/rlp-202-researching-scandinavian-immigrants-with-jenny-hansen/)\nmotivates this place-role check without guaranteeing a field or identifying the family.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-692bb52dd6ec","kind":"unclassified","anchor":"For a return leg through Britain, search British inbound passenger lists and verify their route and\nyear coverage before recording a gap; a missing list is not evidence the person stayed. In the\n[return-voyage discussion](https://forum.ahnenforschung.net/forum/thread/185403/),\na forum participant states this for an interwar return without citing a source. It does not\nestablish coverage by year or route, or what records the home locality kept, so check the finding\naid of the collection you choose.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-7fdd56e1c56d","kind":"unclassified","anchor":"**Output:** a coverage-backed route shortlist. **Check:** a negative result\napplies only to the searched series and window. The Foundation's current\nArrival Records Collection includes entry points beyond New York; check the\nselected series rather than copying old New-York-only coverage claims.\n[Foundation collection guide](https://www.statueofliberty.org/discover/heritagesearch/)","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-75ab9117583b","kind":"unclassified","anchor":"For a Chinese traveler under the exclusion laws, a passenger-list search is not the only arrival\nroute. Check the exclusion registers kept at the port of entry for the recorded status category\n(for example laborer, merchant or son of a native) and the admission result. Then look for the\nperson's exclusion or immigration case file. These files can include departure statements,\nphotographs, signatures, letters and witness interview transcripts. Treat status claims and\ntestimony as statements made to win admission, not as independent proof of kinship. The\n[My China Roots demonstration](https://www.youtube.com/watch?v=x5P9fKp25lw) shows these record\ntypes through one vendor's images. Confirm the custodian and the file locator separately.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-c8dd2503c500","kind":"unclassified","anchor":"In the Statue of Liberty–Ellis Island database, the\n[Genealogy Gems interview](https://www.youtube.com/watch?v=4xyd2c5Cv1Q) recommends not using the\nsearch filters for arrivals outside 1892–1924. It says many post-1924 records were added later,\nindexed only by year with a 1 January placeholder date, so a month-and-day search returns\nnothing. Never record an indexed 1 January as the arrival date until the manifest image confirms\nit. An empty exact-date search does not show absence. This describes the indexing in 2023;\nre-check current behaviour.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-a7ffed407bcf","kind":"unclassified","anchor":"When the U.S. surname differs from earlier records, look for a record that states the change.\nNaturalization papers can ask what name the applicant will use, a pension file may give an\nalias, a passport application may explain a difference from the father's name, and courts or\nnewspapers may record a legal change. Log each earlier name with its source and date. Allow for\nparallel use too: a congregation's register may keep the birth name while newspapers or work\nrecords use an anglicized form. For Italian emigrants, also search a married woman under her\nbirth surname. Children listed beside an adult with another surname may be travelling with their\nmother. [Castillo's talk](https://www.youtube.com/watch?v=qDW8dEp5mN0),\n[Lisson's discussion](https://www.youtube.com/watch?v=dcx-iIn1TzE) and the\n[Italian-records discussion](https://www.youtube.com/watch?v=UC1J5HuNYns) motivate these checks.\nThey do not show that a given file states a change or how a clerk recorded a surname, so confirm\nrelationships from other records.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-5aa375186040","kind":"unclassified","anchor":"**Output:** a linked route with documented and missing legs. **Check:** each leg\nhas its own locator; an unavailable early series is a coverage gap.\n[NARA series by port of entry](https://www.archives.gov/research/immigration/ports),\n[Mexican border crossing series and coverage](https://www.archives.gov/research/immigration/border-mexico),\n[Canadian-border district explanation](https://www.archives.gov/publications/prologue/2000/fall/us-canada-immigration-records-1.html)","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-abebe5fcc98c","kind":"unclassified","anchor":"On the Canadian side, Library and Archives Canada staff said in a\n[2017 interview](https://www.youtube.com/watch?v=Dqa7RGnfDOk) that no Canadian government\nborder-entry records exist before 1908, and that Canada recorded entries, not departures. Treat\nthis as the speakers' description: unless a repository finding aid shows otherwise, do not expect\npre-1908 Canadian land-border lists, and do not treat a missing Canadian exit record as negative\nevidence. Census and city-directory entries can bracket otherwise undocumented\ncrossings. Verify current LAC coverage. Before treating an early Canadian arrival list as a full\nroster, check which passengers it itemizes. Some earlier lists left out personal details for\nwives, minor children, labourer groups and cabin passengers, so a spouse or child who seems to\nbe missing stays an open question. The\n[Scottish-migration lecture](https://www.youtube.com/watch?v=aZgUeKOaLtY) does not identify which\nyears or ports are affected.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-f6854d849560","kind":"unclassified","anchor":"A published passenger compilation is a derivative, so read its introduction. Some departure-port\ncompilations, such as a Bremen-to-New York set, were rebuilt from U.S. arrival manifests. Cite\nsuch a compilation as derived from the arrival record, not as independent departure evidence,\nand check each entry against the arrival image. For the 1727–1808 ship lists of German\npassengers, which the speakers describe as held by the Pennsylvania State Archives (confirm the\nholding before requesting), cite Strassburger and Hinke's German\nPioneers volumes as transcriptions. When the immigrant's signature or written name form matters,\nask the Pennsylvania State Archives for copies of the original ship lists. The\n[German-origins lecture](https://www.youtube.com/watch?v=2PxBQeskcSI) and the\n[State Archives staff account](https://www.youtube.com/watch?v=lZl4PtvBXIU) motivate this step.\nThey do not describe the compilers' extraction criteria or which lists carry signatures, and a\nsignature alone does not identify a person.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-ae7a3208b2b6","kind":"unclassified","anchor":"A clerk may have filled a column such as nationality or residence once and drawn a ditto line\ndown the page. When a filter on an attribute you know is correct returns nothing, rerun the\nsearch without it. Read a dittoed value as the page's default, not as that passenger's own\nstatement. In the [Journey Takers example](https://www.youtube.com/watch?v=nto6GVn0CLk), a German\nfamily was recorded under the Swedish entry at the top of their page. Also do not assume a\nfamily appears together on one list. Follow annotations that point to another page and line. In\nlater periods, search the same voyage's U.S.-citizen list for a naturalized relative who may\nhave gone back to bring them over. The\n[Lisa Lisson interview](https://www.youtube.com/watch?v=4d43ZFUIzbs) states this as a pattern.\nWhen separate citizen lists existed depends on the period and port, and neither source shows how\nwidespread these practices were.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-1176c3d31c4d","kind":"unclassified","anchor":"When possible companions may be on other pages, inventory the available passenger rows\nfor one defined sailing. Record its date/ship and page extent; retain each row's page and\nimage locator, literal name and place-field heading/value. Mark missing pages or rows rather\nthan calling an incomplete extract the whole sailing. Sort complete rows together by the\nrecorded place field and name, preserving the original text and checking any split names.\nCompare candidates with a source-linked census or tax neighborhood from a stated later\ndate, then inspect the passenger images and keep proposed cross-record identities separate.\nThis can expose a possible companion several pages away. Sharing a sailing or neighborhood\ndoes not establish kinship or identity, and finding no overlap does not disprove the voyage.\nThe [passenger-inventory demonstration](https://www.youtube.com/watch?v=xm7HHLneP-E)\nsupplies this method; no particular export control or complete index is assumed.[31]","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-8661b5ace477","kind":"unclassified","anchor":"**Output:** an arrival-to-outcome chain or an explicitly missing outcome.\n**Check:** detention alone does not say that the passenger was deported;\ncrossing-out alone does not settle whether the person traveled. Do not count\nmeals as days without understanding the form's accounting.\n[JewishGen left-margin guide](https://jewishgen.org/infofiles/manifests/left/)","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-fec758995ac5","kind":"unclassified","anchor":"**Output:** an annotation ledger and targeted court/file leads. **Check:**\nnever replace the manifest's voyage date with a later verification date, or\nturn a verification reference into proof that citizenship was granted.\n[JewishGen verification-annotation guide](https://jewishgen.org/InfoFiles/Manifests/occ/)","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-40a08e00db89","kind":"unclassified","anchor":"1. Build a residence-by-year court table covering relevant municipal,\n   county, state and federal jurisdictions. Federal standardization in 1906\n   did not end local-court naturalizations.\n2. Search declarations and petitions independently; they can be in different\n   courts. Follow an index reference to the volume/page or petition itself.[4]\n3. Search court minutes and related local holdings when a dedicated\n   naturalization series is absent. Look for declarations, admission/oath\n   entries and attachments, not only a certificate.[12]\n4. Follow the located proceeding through available continuances to its final\n   admission, dismissal or other order; retain the order's locator and date.\n   Report that proceeding's outcome separately from filing or hearing notices.\n   A dismissed petition still has a useful packet; leave later or other\n   proceedings unresolved. The [final-order example](https://familylocket.com/back-to-the-basics-with-naturalization-records-part-3/)\n   motivates this check without adopting its inconsistent dates or ultimate status narrative.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-2c55dd802983","kind":"unclassified","anchor":"If residence or property evidence supplies a federal homestead-entry lead, add its\n[separate land-entry file](land-index-book-series-recovery.md#5-carry-a-us-federal-patent-lead-into-its-separate-entry-file)\nto the recovery queue. The [NARA records interview](https://www.youtube.com/watch?v=T9iEw4Zhb7M)\nidentifies such packets as a possible location of naturalization papers. Preserve any\npaper's actual title, date and supplied court/reference with its locator inside the land\nfile; follow a supplied court lead to the corresponding proceeding. A paper found in a\nland packet does not mean the court file has been inspected. This retrieval lead supplies\nno universal eligibility rule, citizenship conclusion or expected packet size.[29]","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-ac5608054a40","kind":"unclassified","anchor":"**Output:** a court packet, or a court-by-court recovery queue. **Check:** first\npapers are not completed naturalization. NARA generally holds declarations\nand petitions rather than the citizenship certificate.\n[NARA naturalization guide](https://www.archives.gov/research/immigration/naturalization)","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-34b880999c38","kind":"unclassified","anchor":"Before reporting a declaration or petition as lost, or blaming a court not yet searched, check\nwhether the paper was required at all. Read the act cited on any petition you find, and check\nthe exemptions in force for the dates. A declarant's widow and minor children might need only\nthe oath. An honorably discharged soldier might petition without a declaration. Some states gave\nvoting or land rights on a declaration alone, so a petition may never have been filed. Extend\nthe search window through the person's whole life, since naturalization could come decades after\narrival. The [naturalization introduction](https://www.youtube.com/watch?v=2K4FYUhoNbc) and\n[Tanner's lecture](https://www.youtube.com/watch?v=8d_4x7YTNQA) motivate this check but do not\ngive each act's exact terms. Verify the law that applied.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-0b762657381d","kind":"unclassified","anchor":"In a naturalization file, check adjacent images for a certificate of arrival. Use its port,\ndate, ship and arrival name to retrieve the manifest image, then compare the petitioner's own\nstatements with that row. A certificate points to a manifest entry; it does not automatically\nidentify the petitioner. Matching file numbers link papers to each other, but a petitioner who\nis absent from the cited manifest and gives a different arrival year may have used someone\nelse's arrival. The [Lil Dicky tree example](https://www.youtube.com/watch?v=SKDoU7MJkds) and\n[Mayhem on a Manifest](https://www.youtube.com/watch?v=ZgyxRZdHgcw) motivate this; neither shows\nhow common borrowed certificates were.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-02c2e4145177","kind":"unclassified","anchor":"1. Tabulate birth, arrival, marriages, spouses' or parents' citizenship events,\n   residence and the child's age at each relevant event.\n2. Check the historical rule applicable to those dates and circumstances.\n   Use [NARA's women's naturalization history](https://www.archives.gov/publications/prologue/1998/summer/women-and-naturalization-1.html)\n   for marriage-related changes. The [State Department FAM link](https://fam.state.gov/FAM/08FAM/08FAM030109.html)\n   is a lead for historical derivative-citizenship charts for a child whose status may follow a\n   parent's naturalization: the source fetch failed with a certificate error on 3 November 2026,\n   so the page's title and contents were not confirmed (sources, item 46). Obtain a readable\n   authoritative rule before using it to infer citizenship. Select the\n   period and check its conditions before predicting a record category; do not\n   apply the modern rule across all periods.\n3. Search the spouse's/parents' court papers, derivative citizenship\n   documentation, or a woman's repatriation oath and related file where the\n   timeline warrants it. Citizenship might have arisen without the person's\n   own petition, and later documentation was not always obtained.[2]","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-c073651f6852","kind":"unclassified","anchor":"Check the reverse case too. A U.S.-born married woman recorded as alien in a census may have\nlost citizenship through her marriage; the entry is not necessarily an enumeration error. Check\nthe rule for her marriage date, then search naturalization records in her own name for a later\nrepatriation oath or application. Once a man's naturalization after 1922 is found, inspect the\nentries next to it in the same series for a separate filing by his wife or another relative.\nCompare their stated facts as separate observations. The\n[naturalization introduction](https://www.youtube.com/watch?v=2K4FYUhoNbc) motivates both\nchecks, each from one family. A related filing is not guaranteed to sit next to his.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-c01aca812501","kind":"unclassified","anchor":"1. Name the desired object: naturalization C-File, Alien File (A-File), or\n   Alien Registration form (AR-2). These are different objects. NARA's overview\n   places C-File naturalizations from 27 September 1906 through 31 March 1956;\n   subsequent naturalization records were filed in A-Files.\n2. For an A-File, inspect NARA's catalog entry and Contact(s). Save the name,\n   NAID and A-number. NARA receives A-Files 100 years after the person's birth\n   year. Transfer eligibility by age does not prove transfer. In August 2025\n   the National Archives at Kansas City held more than 1.5 million A-Files,\n   from across the United States. The National Archives at San Francisco (San\n   Bruno) held more than 300,000, from the San Francisco, Honolulu, Reno and\n   Guam offices. Check both. The Catalog lists the name of everyone in NARA's\n   A-File holdings, so search it by name.[47] A file not yet transferred stays\n   with USCIS. Its Genealogy Program accepts only A-Files numbered below 8\n   million; a higher number needs a FOIA request.[56]\n3. **Privacy gate:** <!-- privacy-gate: request --> An AR-2 or C-File request\n   sends the identifiers of a registrant or naturalized person, who may be\n   living, to NARA or USCIS; answer the privacy gate in `SKILL.md` first.\n   For AR-2, check the Flexoline Index's current coverage, then follow NARA's\n   AR-2 instructions. USCIS does not process AR-2 requests received on or after\n   17 May 2024; the forms are now requested from NARA.[36,57] An indexed number\n   can lack a corresponding form image; the form may have moved into an A-File.\n4. For C-Files, use the USCIS Genealogy Program: a known valid certificate/file number allows a [Genealogy Records Request (G-1041A)](https://www.uscis.gov/sites/default/files/document/forms/g-1041ainstr.pdf); without that number, an Index Search Request (G-1041) may be needed first.\n   Under the fee rule in force since 1 April 2024, each request costs $30 online\n   or $80 on paper (fee schedule G-1055, read 2026-11-07).[58,59] When USCIS\n   already holds a record in digital form, it sends the electronic copy with the\n   index search result at no extra fee. A record kept only on paper or microfilm\n   still needs a G-1041A.[59] USCIS says most C-Files exist only on microfilm,\n   so expect that second step for a C-File.[60]\n   For other records outside the located NARA holdings, consult current USCIS instructions for the identified record type and available identifiers.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-a901f6fc3abc","kind":"unclassified","anchor":"Alongside an A-file lead, search supported spouses, former spouses, siblings or travel\ncompanions as separate file candidates in the catalogues or collections actually available.\nRetain each candidate's own name, identifiers and Contact(s), and compare its identifying\ndetails before using the file. A related person's file is a possible source about the\ntarget, not the target's file or proof of the relationship. The\n[related-file search account](https://lostrussianfamily.wordpress.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/)\nsupplies this extension; the existing type and custody checks still apply.[30]","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-a122fd114af0","kind":"unclassified","anchor":"**Output:** a request-ready locator packet and named custodian. **Check:** an\nA-number alone proves neither A-File custody nor AR-2 image availability. A\ncatalog miss leaves custody unresolved.\n[NARA naturalization](https://www.archives.gov/research/immigration/naturalization),\n[A-Files](https://www.archives.gov/research/immigration/aliens),\n[AR-2](https://www.archives.gov/research/immigration/alien-registration-ar-2)","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-c895fd6cc36d","kind":"unclassified","anchor":"Do not use the immigration visa number printed on an arrival manifest as the file locator for a\nvisa file. These files are reportedly not arranged by that number. Request a USCIS index search\nfor the arrival first to get the file number, then make a separate records request. Expect the file to hold papers needed for entry, such as birth and good-conduct certificates, recent residences and a photograph.\nDo not expect evidence of life after arrival unless a naturalization application or other official\nattention followed. The\n[visa-file discussion](https://forum.ahnenforschung.net/forum/thread/185403/)\nparaphrases USCIS guidance, but the search it reports came back empty. Verify current USCIS\ninstructions and any NARA custody.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-f2b30b03a266","kind":"unclassified","anchor":"Alien registration was not only the 1940 AR-2. For WWI enemy-alien registrations and state-run\nregistrations, ask both the state archives and the NARA regional facility with jurisdiction over\nthat state. Log which level and which series were checked. Many of these series are browse-only\nor missing from the major search engines. The speaker's examples include Minnesota 1918 and\nNorth Carolina 1927–1940, and a German registrant's papers can name family in Germany. The\n[Lisa Lisson interview](https://www.youtube.com/watch?v=4d43ZFUIzbs) and\n[Miles Meyer](https://www.youtube.com/watch?v=tBweLebo7TA) motivate this; verify each series'\nexistence, eligibility and survival.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-a6544e6708ab","kind":"unclassified","anchor":"**Output:** a recovered image or a reproducible gap report. **Check:** stop\nrepeating name queries once the failure is demonstrably in the image link or\ndigitization. A missing online page does not establish that the archival entry\nis missing.\n[Morse image and browse FAQ](https://stevemorse.org/ellis2/faq.htm)","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-5f0bf63158be","kind":"unclassified","anchor":"“Recover the historical U.S. records for this person. Start with the failed\nquery and known locators. Choose the relevant workflow, list ordered actions,\nand produce the journey table, coverage row and recovery queue. Preserve\noriginal names, event dates, list/line and volume/page references. Explain\nexactly which image or court entry supports each recovered statement. Keep\nunreadable text, untested searches, absent online images and unresolved custody\ndistinct. Do not infer citizenship, kinship or port from a search result label.”","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-be2c838d701d","kind":"method","anchor":"1. Search the possible arrival into the neighboring country separately from\n   the subsequent U.S. land entry. Do not force both events into one year.\n2. Check U.S. border series for the crossing period and traveler category,\n   including people whose nationality differs from the neighboring country.[N9]\n3. Read the recorded crossing station and destination. The St. Albans district\n   collection name does not establish a crossing at St. Albans, Vermont.[N40] Open\n   the card's reverse or second page: it can record a medical examination, the\n   admission decision with its reason, and where the person left the United\n   States. Add that exit as its own journey row.[N9]\n4. For a double surname, search each component and the combined form; preserve\n   the actual image spelling. Tabulate repeated crossings as separate events.[N9]","sources":["N9","N40"],"checked":null,"stated_as":"fact","review":"reviewed"}
+```
+<!-- provenance-ledger:end -->
+
+## Credits
+
+- Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

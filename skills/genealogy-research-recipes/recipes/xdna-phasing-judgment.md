@@ -1,0 +1,165 @@
+---
+id: "xdna-phasing-judgment"
+title: "X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong"
+summary: "X-DNA matches and visual/parental phasing: what a segment, an X match, or a phased chromosome map can actually confirm or eliminate, and where confident-sounding analysis is actually fabrication."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["\"is this X-DNA match trustworthy\", \"what's the minimum X cM threshold\", \"phase my kit against a parent or siblings\", \"half-sister or aunt\", \"does this X match rule out a father\", reconstructed-kit quality, artificial homozygosity, or interpreting matches to a synthetic kit."]}
+triggers: ["\"is this X-DNA match trustworthy\"", "\"what's the minimum X cM threshold\"", "\"phase my kit against a parent", "siblings\"", "\"half-sister", "aunt\""]
+privacy: "genetic-third-party"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "XDNA-PHASING-JUDGMENT-01", "text": "never invent a small-segment or X-DNA false-positive rate or cM threshold — cite the specific company/study, since they diverge by design and by pair-sex; phasing reduces but never eliminates pseudosegments on either side; usable X evidence can reject an incompatible non-PAR route, while compatibility alone does not confirm the proposed ancestor."}]
+handoff: ["dna-comparison-controls"]
+checked: "2026-11-06"
+checked_basis: "checked 2026-11-06"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 28}
+---
+
+# Recipe: X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong
+
+## Contents
+
+- Goal
+- The mental model (get this right or everything downstream breaks)
+- What to trust vs never fabricate (six failure modes)
+- Prompt-craft (how to keep an assistant honest here)
+
+## Goal
+
+Given a small DNA segment, an X-DNA match, a chromosome map from visual/parental phasing, or a reconstructed ancestor’s genotype, state precisely what it can confirm or eliminate about a relationship — and refuse the six places confident-sounding analysis is actually fabrication.
+
+The X inheritance rules here concern ordinary 46,XY/46,XX **non-PAR** inheritance.
+Pseudoautosomal regions can recombine between X and Y; identify them using the
+input's genome build. Establish both tests' usable interval coverage and the tool's
+reporting scope before interpreting absence. A missing raw block, an interface
+without X matching and a completed negative comparison are different observations.
+AncestryDNA and MyHeritage show no X matches at all, so a missing X match there is
+not an observation. Use [DNA comparison controls](dna-comparison-controls.md) for
+those checks, its
+[X reporting table](dna-comparison-controls.md#establish-what-could-have-been-observed)
+for how each service reports X, and its primary-source register for the PAR and
+platform boundaries.
+
+## The mental model (get this right or everything downstream breaks)
+
+X-DNA's restricted inheritance (no male-to-male transmission) is a genuinely powerful **hard constraint** — it can definitively rule a path *out*. But it is a far weaker **confirmation** tool than a model assumes: low SNP density inflates false-match risk, the field has no single agreed cM floor, and being *consistent* with the inheritance rule is not the same as being *caused by* the hypothesized ancestor. Visual phasing is a genuinely powerful data-reduction tool bound by one hard mechanical rule almost no model knows to check. And underneath both sits the small-segment problem: real, *divergent*, company-specific false-positive data that a model will confidently paper over with one clean invented number instead of reporting the actual spread. The unifying failure isn't ignorance of the 101 mechanics — models recite those fluently — it's that fluency gets substituted for the messier, disputed, source-specific reality underneath.
+
+## What to trust vs never fabricate (six failure modes)
+
+### 1 — Small-segment false-positive rates: cite the real, divergent numbers — never invent a round one
+
+There is **no universal definition of "small segment"** — Bettinger's own analysis explicitly notes people mean anything from ≤5 cM to <10 cM, and states 8 cM as *his* working cutoff for the piece while flagging segments up to 10 cM as still problematic. A model asserting one fixed threshold as *the* definition is already fabricating false precision.
+
+The real, company-specific figures — genuinely different methodologies, not one curve:
+
+- **23andMe** (peer-reviewed, 2014, trio-concordance against tested parents): ~70% false at 2 cM, ~15% false at 6 cM.
+- **AncestryDNA** (matching white paper, 2020, same trio-concordance method): 50% false at 6 cM, ~30% at 7 cM, ~15% at 10 cM.
+- **FamilyTreeDNA** ("Family Finder Matching 5.0" white paper, simulated-pedigree ground truth, not trio data): ~20% false positive rate at 6 cM, which is why FTDNA settled on 6 cM as its reporting floor while explicitly acknowledging many 6–7 cM segments are still false.
+- **Anecdotal replications**: Bettinger's own 2017 parent-comparison found 32% of 16,193 AncestryDNA matches unshared with either parent (60% of those <7 cM, 95% <10 cM); Debbie Kennett independently found 36% on the same kind of comparison.
+
+A separate, related but **distinct** statistic shows up in FTDNA's own "Tie-Breaker" class: the class assigns a random-match probability of about 20% at 6 cM, and about 2–3% for a 9–10 cM overlap in its fifth-cousin-type example. This is presented as a *theoretical* random-match probability, not the *empirical* false-positive rate above — the two numbers land in a similar ballpark at 6 cM but measure different things (ground-truth trio/simulation concordance vs. population-genetics chance-of-IBS). Don't collapse them into one number as if they're interchangeable.
+
+**None of the following rescues a small segment**, per Bettinger's explicit debunking — and a model asked "does X make this small segment more trustworthy?" should say no to all four:
+
+- **Triangulation** — no evidence it raises validity; a triangulation group can itself be built from close relatives who form one leg, not independent legs, or from segments that are simply old and shared community-wide.
+- **An overlapping large segment held by a relative** — this only means the *relative's* segment is real; it says nothing about your own smaller one.
+- **SNP density within the small segment** — conceptually plausible, no evidence supports it.
+- **Finding a shared ancestor with the match** — sharing recent ancestry and sharing a specific segment are not the same fact; with thousands of sub-10 cM matches, you will *always* be able to find some shared ancestor with almost anyone in a large database — that is not evidence the specific segment came from them, and even a *valid* 7 cM segment can be 10–20 generations old, i.e. genealogically inert either way.
+
+The one genuine exception: a small segment at the **very end of a chromosome** (a recombination hotspot) in a **very close relative comparison** (e.g. grandparent–grandchild, directly or via visual phasing) is much likelier to be real — these small end-segments don't form in the chromosome interior.
+
+**Related but distinct mechanism — pileup regions.** A population-shared or human-wide region (often near an immune-system or smell-related gene) produces widespread false-positive matches regardless of segment size; FTDNA's own worked example discarded part of a **42.3 cM** paternal-group overlap because it substantially coincided with a known pileup region. Segment *size* alone doesn't clear this — check against a known pileup map (e.g. DNA Painter's) before trusting even a large overlap in an endogamous context.
+
+**Check the whole pile-up, not only the hypothesis group.** When matches from one target population cluster on a segment, look the segment up in a pile-up table. Then review every match on that interval, not only those that fit the hypothesis. Many unrelated matchers mixed on the same interval point to a pile-up artefact. A [pile-up region discussion](https://genarchivist.net/showthread.php?tid=558) shows most such chromosome 22 matches being discarded after this check. One poster reports that significant matches usually extended beyond the pile-up and triangulated; triangulation alone is not treated as sufficient (see above). The thread gives no cM threshold and does not establish that a group-level pile-up shows membership in that population.
+
+**Recompute the match total before trusting it.** A vendor's total cM can be mostly small segments. Take the match's full segment table from the chromosome browser and sum only the segments at or above a stated cutoff. Record whether X segments were excluded. Report three things side by side: the vendor total, the cutoff used and the filtered total. In an endogamous profile, a large drop marks a lower-priority lead. In [GeneaVlogger's walkthrough](https://www.youtube.com/watch?v=jusPVWoQFr0), totals above 100 cM fell below 40 cM. The filtered total is a triage aid, not a validated relationship estimate. The cutoff (the presenter uses 10 cM for Jewish endogamy) is a choice, not an established threshold.
+
+### 2 — Phasing yourself does not rescue an unphased match's false positive
+
+Phasing (via a tested parent, SideView-style match alignment, or population-genetics phasing) reduces pseudosegments **on your own side**, but Bettinger explicitly rejects complete removal as a guarantee. Resolving your own phase also does not resolve the match's phase: a segment valid on your side can still match an apparent sequence assembled from both of the other person's chromosome copies. A model that reasons "I tested a parent / phased myself, so any small segment I still match on is now trustworthy" is fabricating a guarantee the mechanism doesn't provide, on **either** side of the comparison.
+
+This generalizes cleanly to X-DNA, where pseudosegment risk is a **joint, pairwise property of both people's sex** — not something either side fixes alone:
+
+- **Male–male X comparisons** are lowest risk: a male's single X, non-recombining with the Y, cannot itself form a pseudosegment on either side.
+- **Male–female** comparisons carry the female side's pseudosegment risk (her two X copies, usually unphased) but not the male's.
+- **Female–female** comparisons carry the *highest* risk — both sides can weave between unphased maternal/paternal X copies.
+
+So "is this X match trustworthy" depends on *whose* X chromosomes are being compared, not on whether you personally phased.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Rerunning a comparison in a phased-haplotype tool sends the tester's raw DNA, and the match's data, to another service; answer the privacy gate in `SKILL.md` first.
+
+**Check an ancient or historical-sample match against tested parents.** These vendor matches usually rest on one small segment. Before reading one as inherited, record which parents or close relatives were compared and whether either parent shows the same sample match on that segment. If neither parent carries it, treat it as a probable pseudosegment, as a [historical-match discussion](https://genarchivist.net/showthread.php?tid=662) argues. If an unphased identity-by-state result can be rerun with a phased-haplotype tool, treat a segment that only the unphased method finds as suspect, as an [ancient-DNA matching comparison](https://genarchivist.net/showthread.php?tid=1285) reports. A segment a parent carries is still not evidence of descent from that sample (section 1). Neither thread gives a measured false-positive rate.
+
+### 3 — The mechanical visual-phasing rule most models don't know
+
+In visual phasing (comparing 3+ siblings' recombination points to assign chromosome segments to grandparents), there is a hard structural rule: **a full-match segment (green) can never directly border a no-match segment (red), and vice versa.** Every green or red segment must be flanked by a half-match (yellow) segment on both sides, except at the absolute start or end of the chromosome — because a transition from "both chromosomes match" to "neither matches" without an intermediate "one matches" state is genetically impossible. A model validating or auto-completing a phasing chart that ignores this rule will produce an internally impossible map. A related mechanical gotcha from the same source: downloading "half-match" segments already **includes** all full-match segments (every full match is by definition also a half match) — they're not two disjoint sets to sum.
+
+**Illustrative payoff**, from a worked case using three siblings plus an aunt and a grandmother: whole chromosomes (15, 21, 22 in that case) were assigned *exclusively* to a single paternal grandparent — this is the level of resolution the technique is actually capable of when done right.
+
+**Use a phased map to choose a match's side.** Suppose a match segment crosses a point where the tester's paternal copy recombines, but the maternal copy has no breakpoint there. Then treat the maternal side as the candidate (and the reverse case the paternal side), and keep inheritance through the other side's grandparents open where multiple ancestral paths are possible, until transmission evidence resolves the assignment. [GeneaVlogger's demonstration](https://www.youtube.com/watch?v=Spc5UugzRUo) motivates this step. Record it as an inference that depends on the phasing, not as an observation. It assumes the breakpoint is correctly placed and the segment is real. A pseudosegment (section 2) or imprecise coordinates near the breakpoint can mislead. The source gives no measured probability for two segments, one from each side, meeting at that point.
+
+**A terminology trap to flag separately**: "phasing" a kit against a *mother's* kit (e.g. GEDmatch's Phasing tool, which produces a binary maternal/paternal composite from a child+parent pair) is a **different** mechanism from both sibling-based visual phasing and from Lazarus reconstruction (which rebuilds a *deceased ancestor's* genome from multiple tested descendants/relatives, not a parent-child binary split). None of these three assigns segments to all four distinct grandparents on its own — only sibling-based visual phasing does that, and even then naming which grandparent each segment group belongs to needs matches to cousins ([Bettinger, part 1](https://thegeneticgenealogist.com/2016/11/21/visual-phasing-an-example-part-1-of-5/)).
+
+A tested parent is still worth using, for a different reason. A direct comparison of each sibling with the mother is half-identical along its whole length, so by itself it marks no recombination point. Her kit does help resolve which allele each sibling received from her and which from the other parent, wherever the genotypes are informative; where mother and child are both heterozygous, the origin at that marker stays unresolved. Segments shared by full siblings mix both parents' sides unless the kits are phased ([DNA Painter FAQ](https://dnapainter.com/help/faq)), so phased kits let sibling comparisons be read separately for each side; [Perl](https://dnapainter.com/blog/common-segment-generator/) describes a "turbo" visual phasing with both parents tested. Her kit does not by itself say which sibling carries a given crossover, and it does not assign her segments to her own two parents: that needs further siblings or relatives such as cousins, an aunt or uncle, or a grandparent. A match who shares DNA with a sibling but not with the mother is not automatically on the other parent's side either; the match can be identical by chance ([Estes](https://dna-explained.com/2016/04/06/concepts-parental-phasing/); section 2). A model asked to "phase" a case should first establish which of these two different techniques is actually available (parent-child vs. 3+ siblings, optionally + an aunt/uncle/grandparent to fill gaps) before promising either binary-parent isolation or four-grandparent assignment.
+
+### 4 — Misapplied X-DNA elimination logic on a real discriminating case: half-sister vs. aunt
+
+The transmission rule first: a daughter inherits her father's non-PAR X copy, while
+a son receives his non-PAR X through his mother. A partial browser display is not
+itself proof that either rule was violated: verify exact tests, usable interval
+coverage, call quality and comparison settings before treating a measured
+incompatibility as evidence against parentage. A real father–son X match can arrive
+through a relationship between the father and the son's mother; it is not
+father-to-son X transmission. Conversely, a daughter inherits her father's non-PAR
+copy regardless of additional parental relationships. Keep transmission, observed
+matching and attribution separate, and correlate consequential findings with the
+autosomal evidence. See the comparison-controls primary sources H4, H6 and P1.
+
+Now the case where the same instinct **fails**: distinguishing a half-sister from an aunt when total shared cM sits in the fully-overlapping 1600–2000 cM band. Paternal half-sisters inherit the same paternal non-PAR X copy, subject to the measurement checks above. But that rule is specific to the **paternal** case. In a real documented case where the relationship in question was **maternal** (a much-younger presumed aunt who might actually be a maternal half-sister), the paternal-half-sister X shortcut does not apply — because a mother's X recombines before she passes it on, so an aunt sharing the same mother and a maternal half-sister sharing that mother can both show substantial, non-clean-binary X overlap. A model that applies the paternal shortcut without first checking *which parent* is shared will give a false-confident wrong answer on exactly this kind of case.
+
+What actually discriminates the maternal case, absent a clean X answer:
+
+- **Privacy gate:** <!-- privacy-gate: third-party-tool --> Running both testers' kits through a GEDmatch comparison exposes two living people's DNA and their living matches; answer the privacy gate in `SKILL.md` before using the tool.
+- **"Not in common" matches**: a half-sibling has large (>200 cM) matches from their *other* parent that the aunt/niece does not share; an aunt's matches should nearly all be shared with the niece (same shared ancestors), aside from the aunt's own generation. GEDmatch's "Match Both or 1 of 2" tool surfaces this directly.
+- **Niece-vs-aunt segment-size asymmetry**: nieces show *consistently smaller* matches to the same ancestral lines than aunts do (one extra generation of recombination dilution); half-siblings instead vary *randomly* around similar amounts — consistent-smaller vs. random-variation is the actual signal, not the raw total cM.
+- **Known confounds that break the "not in common" method**: endogamy or related parents inflate shared matches on both sides; a sparsely-tested population (the cited example: German, Chinese, French ancestry) removes the comparison matches entirely, in which case ethnicity-estimate differences become the fallback signal instead.
+- Note also: ~10% of third cousins won't share enough DNA to register as a match at all (recombination), so an *absent* expected match on one side isn't automatically informative either.
+
+**A second, related trap**: an X-DNA overlap that is *mechanically consistent* with the hypothesized inheritance path (doesn't violate the male-blocker rule) is **not proof** it came from that path. FTDNA's own tutorial flags exactly this: an X overlap that fits the inheritance pattern but traces to an apparently unrelated tree branch may signal either a linking mistake or a genuine *second* true relationship (common in endogamous or Ashkenazi-Jewish contexts) — the elimination logic is airtight as a **veto** (violates the rule → impossible), but its absence is not itself **confirmation**.
+
+**Do not check X sharing against autosomal sharing as a ratio.** A first cousin's X and autosomal amounts may look proportional to each chromosome set's length, but more distant matches need not: autosomal DNA from a given ancestor can drop out within a few generations, so a sizeable X segment beside little or no autosomal sharing is not by itself an inconsistency, nor is it evidence of a recent relationship. An [X-versus-autosomal proportion discussion](https://forum.molgen.org/index.php/topic,3315.0.html) motivates recording the two as separate observations. Neither direction validates the other: a relatively large X segment still needs the pair-sex and density checks in sections 2 and 5, and the thread gives no figures or threshold.
+
+### 5 — The X-DNA cM threshold: real, sourced disagreement — never state one confident number
+
+Even within the same company's own materials, the cited "minimum reliable X cM" varies by a factor of ~4 depending on *purpose*:
+
+- **10 cM on a single segment** — the floor given in a [2026 FTDNA presentation](https://www.youtube.com/watch?v=EOMIlP8fvB4). FTDNA's current [X-Matches help](https://help.familytreedna.com/hc/en-us/articles/9134064538895-X-Matches) (edited 2026-01-06) publishes no minimum X cM. It says X cM do not count toward overall shared cM, and that a match appears only when it meets the autosomal minimum (X not counted), so an X match is only ever shown alongside a qualifying autosomal match.
+- **A ~2× X-to-autosomal equivalence** — the same FTDNA presentation states a 15 cM X segment is "approximately equivalent in relevance" to a 7.5 cM autosomal one. FTDNA's X-Matches help gives its own example: a 16 cM X block represents the same probable number of recombination events as a 7 cM block on another chromosome. Other sources describe the same relationship with a slightly different pairing (e.g. "10–15 cM X ≈ roughly 7 cM autosomal"). The exact ratio isn't pinned down across sources — only its direction (X needs materially more cM than autosomal for equivalent confidence) is consistent.
+- **15–20 cM as a safer interpretive floor**, per Family Locket — but scaled *up* to 20–30 cM specifically for **female-to-female** comparisons (highest pseudosegment risk), and treated as lower-risk even below that floor for male-to-male pairs (no pseudosegment mechanism possible at all).
+- **40 cM instead of 20 cM** — a separate FTDNA tutorial's rule of thumb for chromosome-browser visualization work: use twice the autosomal cutoff selected for that task.
+
+None of these is *the* answer; they answer different questions (can it display at all vs. is it safe to interpret vs. is it visually trustworthy), and the safe answer shifts again depending on whether the pair being compared is male–male, male–female, or female–female. A model asked "what's the minimum cM for a trustworthy X match" should surface this spread and ask which of the four questions is actually being asked — not pick one number and state it as settled practice.
+
+### 6 — Check the reconstructed genotype before interpreting its matches
+
+**Keep an unresolved allele unresolved.** Recovering G on one parental copy does not establish GG. Preserve the missing allele, or a no-call when the output requires a complete genotype. Tolman’s homozygous reconstruction gaps produced a signal in GEDmatch’s “Are Your Parents Related?” tool. Check how flagged regions were constructed before treating them as evidence of parental shared ancestry. Recognizing this artifact does not establish that the real parents were unrelated. (Tolman, 2023-06-22)
+
+**Check local inheritance after the overall relationship looks right.** A reconstructed parent can receive the expected parent-child label while containing intervals inconsistent with the children. Tolman corrected such intervals by revising chromosome maps. Compare available children across chromosomes and investigate discordant intervals. A high coverage percentage or a successful upload does not settle their accuracy. (Tolman, 2023-06-22)
+
+**Choose additional data for the unresolved region.** Identify which relatives inherited the needed parental copy and whether their tests cover the relevant markers. If only one tested child carries the needed copy in that interval and their test lacks the relevant markers, relatives carrying only the other copy cannot fill that gap. Same-company tests can also use different arrays. (Tolman, 2023-06-22)
+
+**Do not use a Lazarus total as an ordinary relationship-probability input.** In a comparison with a genuinely tested grandfather, the reconstruction missed a known match while retaining that match’s daughter, and substantially reduced another known relative’s shared cM. Some totals also increased. The speaker explicitly warns against relationship predictions from those totals. Preserve the real testers’ measurements for ordinary calculations; use the reconstruction to find leads for follow-up. Neither its missing matches nor a uniform correction to its cM supplies a calibrated exclusion or probability model. (Family History Fanatics, 2022-06-01)
+
+For each consequential result, record the contributing relatives and markers, unresolved allele or interval, inheritance check, and next observation needed. Keep findings from the reconstruction distinct from measurements of tested relatives. Children used to build it provide consistency checks, not independent validation; identify any relatives withheld from reconstruction separately.
+
+## Prompt-craft (how to keep an assistant honest here)
+
+1. **Ban invented small-segment statistics.** Any false-positive-rate or chance-match number must be attributed to a specific company/study (23andMe 2014, AncestryDNA 2020, FTDNA's Family Finder Matching 5.0) — never a smoothed or averaged figure presented as a universal law.
+2. **Force the parent-of-origin question before any half-sister/aunt-style X-DNA claim.** Paternal half-sisters inherit the same paternal non-PAR X copy; establish the shared parent and measurement scope before applying that rule.
+3. **Use credible non-PAR X evidence to reject incompatible transmission routes; compatibility alone does not confirm ancestry.** A segment that fits the path can still be misassigned or come from a second true relationship; demand corroboration before attributing it to the proposed ancestor.
+4. **Demand the pair-sex before quoting an X-DNA cM threshold** — male-male, male-female, and female-female carry different pseudosegment risk and therefore different safe floors; a single number without that context is incomplete.
+5. **Never claim "I phased myself, so this small/X segment is now trustworthy."** Phasing is a per-person operation; the match's own (possibly unphased) side still determines whether the shared segment is real.
+6. **Check the mechanical phasing-rule invariant before accepting a visual-phasing chart**: no full-match segment may directly border a no-match segment. A chart or auto-fill that violates this is wrong, not just uncertain.
+7. **Distinguish "phasing" from "visual phasing" by name before promising an output** — a parent-child phase yields a binary maternal/paternal composite for one person; visual phasing (3+ siblings, optionally + an aunt/uncle/grandparent) can assign segments to all four distinct grandparents. Don't promise the second with only the first's inputs.
+
+8. **For a reconstructed kit, inspect local genotype support before interpreting matches.** Request unresolved-allele and inheritance checks, the origin of any homozygous region, and whether validation relatives contributed to reconstruction. Do not treat a coverage percentage as probability calibration.

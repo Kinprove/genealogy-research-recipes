@@ -1,0 +1,134 @@
+---
+id: "surname-distribution-locality-leads"
+title: "Rank localities to search from dated surname-distribution sources"
+summary: "Rank localities to search from dated surname-distribution sources for an uncommon surname."
+kind: "records"
+scope: {"platforms": [], "tasks": ["Rank localities to search from dated surname-distribution sources for an uncommon surname."]}
+triggers: ["Rank localities to search from dated surname-distribution sources for an uncommon surname"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "SURNAME-DISTRIBUTION-LOCALITY-LEADS-01", "text": "the result is a bounded search list, never an origin finding."}]
+handoff: ["scandinavian-patronymic-farm-name-record-recovery"]
+checked: "2026-11-04"
+checked_basis: "opened 2026-11-04"
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "pointer", "group": "Migration and origins", "order": 1112}
+---
+
+# Rank localities to search from dated surname-distribution sources
+
+Use this recipe when an uncommon surname has an unknown origin and the next step is choosing where to search registers. It turns time-sliced maps, attestation dictionaries, a couple's surname overlap and country-wide counts into a **ranked, bounded list of localities to search**. It never produces an origin finding. For measuring a namesake pool before you attribute a record to someone, use [evidence/proof judgment](evidence-proof-judgment.md). For a rare-surname survey inside an emigrant's contact network, use [emigrant origin recovery](russian-empire-emigrant-origin-recovery.md). For spellings across scripts and OCR, use the catalogue's recipe on name searches across scripts and OCR.
+
+## Contents
+
+- Record each source's basis and period first
+- Choose the slice nearest the target period
+- Bound a couple's search area by surname overlap
+- Resolve dictionary attestations through a gazetteer
+- Rank districts and keep the next one ready
+- Size the bearer pool country-wide
+- Use variants and etymology as search terms only
+- Rank leads when they disagree
+- Close with a ranked locality packet
+
+## Record each source's basis and period first
+
+Write down two things for every distribution source before you read its map:
+
+- its **data basis**: telephone books, medieval manuscript attestations, a dated place list, or a site's own record set;
+- its **reference period**: the date of the underlying data, not the date you viewed the site.
+
+The sources show how far apart these can be:
+
+- German surname maps such as verwandt.de, the one the presenter showed, are built from telephone-book entries, so they show a modern distribution [S4]. verwandt.de has since been shut down (its heise.de download entry was updated 26 May 2024 to say so). Geogen, another phonebook-based German map, uses data dated 31 December 2002. A "modern" phonebook map can therefore be twenty or more years old. Record the phonebook date, not just "modern".
+- Black's *The Surnames of Scotland* is built from medieval and manuscript attestations [S2].
+- Geneanet's surname timeline divides the distribution into periods using a slider. In the presenter's 2023 demonstration it started at about 1500 [S3]. Current Geneanet surname pages describe the distribution "from 1600 to the present day", so check the earliest slice on the live page and record what it shows.
+
+If the date or basis is not stated, record "period unknown" and rank that source lower. Do not assign it a date.
+
+## Choose the slice nearest the target period
+
+Read the slice closest to the ancestor's generation, not the most recent one or the most striking one. In the presenter's 2023 Geneanet demonstration, a surname was confined to one area in the 1500s slice, more spread out by the 1700s, and found in London and the Netherlands as well as France by the 1800s [S3]. A phonebook cluster or a medieval attestation is therefore evidence for a different period. Label it with its own period wherever you use it. When slices disagree, keep each one as a separate locality lead with its date.
+
+## Bound a couple's search area by surname overlap
+
+When you know both spouses' surnames, look each one up in the same dated distribution source. List only the localities where **both** occur, then plot them on a map. The method works because spouses usually came from nearby: they went to the same church or school, or met at the weekly market. In the presenter's own case, three shared villages lay fairly close together. That gave her a bounded area for parish searches instead of every church in Lithuania [S1].
+
+Limits [S1]:
+
+- Run it only when at least one surname is uncommon. Decide that from the surname's country-wide frequency in a dated distribution source that covers the whole country, such as the total number of localities or bearers it shows nationally. A record site's hit count does not qualify a surname, because it measures only that site's indexed coverage (see "Size the bearer pool country-wide" below). Record which surname qualified, the source, its period and the figure.
+- If both are common, or neither can be shown uncommon this way, report that the method doesn't apply. Do not plot it anyway.
+
+Before you conclude that a name or place is absent, read the list in the source's own sort order. In the official Lithuanian alphabet, **y** comes after i and į (i with ogonek) and before j (…I, Į, Y, J…). Letters with a háček sort after the plain letter: č after c, š after s, ž after z. Computer collation that follows the Unicode proposal for Lithuanian treats y as a variant of i, so a list sorted that way files y-names among the i-names. Check both positions: after į, and among the i-names. (The presenter says y comes straight after i, which leaves out į [S1].) Follow the source's abbreviation sequence. It does not match the alphabetical order of the village names, so scanning by village name will miss entries [S1].
+
+## Resolve dictionary attestations through a gazetteer
+
+Black's *The Surnames of Scotland* gives dated attestations and spelling variants. It names parishes without saying where they are, so look up each one in a gazetteer. In the Scottish example, Black records a Thomas Garmach as minister of three parishes. The presenter looked up one of them, Tarves, in *Groome's Ordnance Gazetteer of Scotland* (a digital book in FamilySearch's digital library). Tarves is in Aberdeenshire, so the name is localised to that part of Aberdeenshire and its adjoining parishes [S2].
+
+- Resolve **every** attested parish, not just the first.
+- When several places share a village or parish name, pick the right one by region and adjoining parishes, and record why you chose it. The French example notes that one place name occurs in several parts of France [S3].
+
+## Rank districts and keep the next one ready
+
+Below its phonebook map, the German site the presenter showed listed the top counties for the surname [S4]. Copy any such list as a ranked queue, with the source and the date of its phonebook data. Search the first district's registers. If they yield nothing, move to the next district rather than widening to the whole country [S4]. The presenter suggests that present-day bearers in the family's area may be cousins [S4]. Do not adopt that: a shared surname in a district is a contact or search lead, not kinship.
+
+**A place-derived byname is a district lead too.** Sometimes a person who appears under the family surname in one list shows up in a later list under a byname taken from a place. Read the place as a possible origin district, then search that district's earlier census books for the base surname. Rank the district as a lead dated to the later list that carries the byname, under rule 1 below. Record any base-surname hits from that census as their own attestation, dated to that census. Record the byname, both list dates and the identity reasoning next to the locality.
+
+In the forum example, a participant had already posted Tenigin entries from a 1677–78 census of part of Ustyug district. He then cited, as further support for Ustyug as a promising origin district, a Perfiley Petrov Tenigin in Shadrinsk sloboda in 1710 and a Perfiley Petrov "Ustyuzhanin" (someone from Ustyug) in Shadrinsk sloboda in 1719, implying that they are the same man [S7]. Under this rule the Ustyug lead is dated 1719, and the 1677–78 Tenigin entries are a separate attestation dated 1677–78.
+
+Limits [S7]:
+
+- The identity link rests only on forename and patronymic, and the stated ages are about three years out (23 in 1710, 35 in 1719). Keep it provisional.
+- The poster calls the findings fragments that do not yet form a picture.
+- Finding the base surname in the district shows that namesakes lived there. It does not show that they were the family's ancestors.
+
+## Size the bearer pool country-wide
+
+Run a surname-only search on one large record site:
+
+- country-wide scope;
+- no forename and no dates;
+- the site's alternate-spellings option switched on (on Findmypast, "include name variants").
+
+Record the total, the date you ran it, and where the hits cluster. In 2016 the presenter reported about 10 Findmypast results across the United Kingdom, and about 18 after he varied the spelling, while common surnames in his family ran to hundreds of thousands or millions [S5]. Record your own count; do not measure it against his.
+
+Limits:
+
+- The count measures that site's indexed coverage, not the historical population. The presenter notes that many parishes in his target period (late 1600s to early 1700s) were not recording baptisms [S5]. English parishes had been required to keep registers since 1538. The real problem is gaps in the later 1600s, plus nonconformist baptisms that often never reached the parish register.
+- He also claims that if the bearers are all in one place he is related to every one of them [S5]. Do not adopt that. A small, clustered pool shortens the matching list but proves no relationship.
+
+**For Spain, use the INE count.** The surname tool of the INE (Instituto Nacional de Estadística, the national statistics office) counts bearers separately as first surname, as second surname and with the surname in both positions. It maps them by province or municipality of residence, by province or municipality of birth, or by nationality [S8], [S9]. Use a birth mode for origin leads, and record which mode and which count you used. Counts below 5 are not shown, so a blank cell is not zero [S9]. Read the data source and reference date in the query form's notes and record them with the result. On 2026-11-04 the form gave the Censo anual de población (annual population census) at 1 January 2025 [S10].
+
+**For the Netherlands, use the CBG Nederlandse Familienamenbank** (cbgfamilienamen.nl). It gives a surname's count and distribution for two years: the census of 31 May 1947 and the population register of 2007 [S11], [S12]. The 2007 figure covers only people with Dutch nationality living in the Netherlands, and counts below 5 are not shown, so a blank is not zero [S11]. Label the result with the year you read.
+
+**For France, use the INSEE surname file.** INSEE's *Fichier des noms* counts surnames given at birth by decade from 1891 to 2000, for France and for each département of birth (overseas départements from 1900) [S13]. It lists only names given at least 30 times over the whole period. In the département file, a name given fewer than 30 times in a département is grouped under the code "XX" [S13]. So a département missing for a surname is suppressed, not zero. In the overlap step above, keep such a département as unknown; do not drop it. The file also leaves out people born before 1946 who died before 1972, so for births before 1946 it counts only people still alive in 1972 [S13]. Record the decade, the département and that limit with the result.
+
+Geopatronyme is no longer a separate site: geopatronyme.com now redirects to Filae [S14]. A Filae surname page shows births in France in four 25-year periods from 1891 to 1990 and names INSEE's surname file as their source [S14], [S15]. The same page also lists département and commune counts; they are larger than the births total, and the page does not define them [S15]. Use only the births block as a dated count, and label the other lists "Filae record set, period unknown".
+
+**For Denmark, Norway and Sweden, the official counts are national totals.** Danmarks Statistik's *Hvor mange hedder…?* counts people living in Denmark on 1 January each year. It uses only the first given name and the last surname, and does not show an exact count below 3 [S16]. Statistics Norway (SSB) counts people registered in Norway and finds a name only when more than three people bear it [S17]. Statistics Sweden (SCB) stopped its name statistics in 2024. Use the Swedish Tax Agency's (Skatteverket's) search instead: it counts registered residents, is updated weekly and matches only the exact spelling [S18]. Record the date each figure refers to. None of these breaks a surname down by region, so use them to size the pool and to qualify a surname as uncommon, not to rank localities. Many Nordic surnames were fixed only in the late 1800s or later, often from a patronymic or a farm name, so a modern count says nothing about earlier generations (see [Scandinavian patronymic and farm names](scandinavian-patronymic-farm-name-record-recovery.md)).
+
+## Use variants and etymology as search terms only
+
+Listed spelling variants and "most found places" are search terms and destination clues [S3]. The site's surname etymology, and any guess about migration or religion drawn from a map, prove nothing about a particular family. The presenter herself presents a Huguenot explanation only as a suspicion she had not checked [S3]. Tree or profile content on the same site is user-submitted and needs independent sources [S3]. Never state a family's origin, religion, kinship or identity from aggregate maps or etymology.
+
+## Rank leads when they disagree
+
+This ordering, including where byname leads rank, is authored, not taken from the presenters or the forum:
+
+1. A slice or attestation dated nearest the target period outranks one from further away.
+2. Within that, a couple's overlap locality (with at least one uncommon surname) outranks a single-surname cluster.
+3. A gazetteer-resolved attestation parish outranks a phonebook district.
+4. Phonebook district rank and country-wide pool clusters decide the order among the rest.
+
+Sources with "period unknown" go last. Record which rule set each locality's rank.
+
+## Close with a ranked locality packet
+
+Return:
+
+- **Ranked localities**, each with its source, data basis, reference period and the reason it ranks where it does (overlap, attestation, district rank, place-derived byname or pool cluster).
+- **The bounded search area** as plotted, plus which surname made the overlap usable.
+- **The bearer-pool estimate**, with the site, scope, variant setting, date run and coverage caveat.
+- **The next register searches**: which parish or civil registers to search, for which locality and years, in rank order.
+
+Log the queries in the [research log](research-documentation.md). Every locality remains a lead until an original register entry places the person there.
