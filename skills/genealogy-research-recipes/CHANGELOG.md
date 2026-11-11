@@ -3,7 +3,7 @@
 Each version of these recipes is licensed under FSL-1.1-MIT and becomes available under
 the MIT licence on the second anniversary of the day it was first made available
 ([LICENSE](LICENSE), "Grant of Future License"). Third-party material is not licensed
-by Kinprove and does not become MIT through this licence; see [NOTICE](NOTICE).
+by Kinprove and does not become MIT through this licence; see [NOTICE](https://github.com/Kinprove/genealogy-research-recipes/blob/main/skills/genealogy-research-recipes/NOTICE).
 
 The Released column gives the day, in UTC, that a version first appeared in the public repository
 <https://github.com/Kinprove/genealogy-research-recipes>: the day its pull request was

@@ -26,8 +26,10 @@ This copy is version 1.15.0, released 2026-11-10.
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
 of the recipes was released on that date, and a newer version may be available. Give the
-update step for the user's host, or all four if the host is unclear:
+update step for the user's installation, or the applicable options if the host is unclear:
 
+- Copies installed from a plugin directory (Anthropic's Claude directory or the ChatGPT/Codex
+  plugin directory): updates arrive through that directory.
 - Claude Code: `claude plugin update genealogy-research-recipes@kinprove`. For automatic
   updates, run `/plugin`, open **Marketplaces**, select `kinprove` and choose
   **Enable auto-update**.
@@ -526,12 +528,15 @@ A dated source check is a maintenance reminder, not verification of every claim 
   J-Roots Beider indexes.
   *Use for:* an unfamiliar or approximate Cyrillic given name, compound names, alternate spellings,
   ambiguous article labels, or documenting a DNA match's family under another name form.
-  *Core guardrail:* query offline with `scripts/lookup_beider_name.py --name` for up to 20 article
-  groups by default, including similar candidates when an exact match exists; then retrieve a
-  selected article's recorded variants with `--key`. Comparison ignores spaces and supported
-  hyphens/dashes; keep compound component searches separate. Distinguish unavailable local data from
-  an absent entry. Approximate matches are spelling suggestions, not source-backed synonyms; article
-  membership never proves identity or kinship.
+  *Core guardrail:* when present, query offline with `scripts/lookup_beider_name.py --name` for up
+  to 20 article groups by default, including similar candidates when an exact match exists; then
+  retrieve a selected article's recorded variants with `--key`. Without the helper, use the host's
+  file search on `resources/beider-name-indexes.json` for the exact and separator-normalized
+  spelling, read only matching entries, keep the 20-group bound and state that similar-candidate
+  (fuzzy) search was not available. Never load the whole JSON into the conversation. Comparison
+  ignores spaces and supported hyphens/dashes; keep compound component searches separate.
+  Distinguish unavailable local data from an absent entry. Approximate matches are spelling
+  suggestions, not source-backed synonyms; article membership never proves identity or kinship.
 
 - **`recipes/myheritage-historical-record-search.md`** — Recovering historical records with MyHeritage.
   Recovering MyHeritage historical records hidden by collection coverage, query fields, name

@@ -32,13 +32,17 @@ class CiToolTests(unittest.TestCase):
     def test_ci_and_maintainers_use_the_locked_tools_without_install_scripts(self):
         workflow = (ROOT / ".github/workflows/ci.yml").read_text(encoding="utf-8")
         maintainers = (ROOT / "MAINTAINERS.md").read_text(encoding="utf-8")
-        workflows = [path.read_text(encoding="utf-8")
-                     for path in sorted((ROOT / ".github/workflows").glob("*.y*ml"))]
-        for text in (*workflows, maintainers):
+        workflows = {path.name: path.read_text(encoding="utf-8")
+                     for path in sorted((ROOT / ".github/workflows").glob("*.y*ml"))}
+        for text in (*workflows.values(), maintainers):
             self.assertNotRegex(text, r"\bnpx\b|\bnpm (?:install|i) -g\b")
-            self.assertIn("npm ci --prefix ci-tools --ignore-scripts", text)
+        # The distribution workflow needs only Git and standard-library Python.
+        for name, text in workflows.items():
+            if name != "dist.yml":
+                self.assertIn("npm ci --prefix ci-tools --ignore-scripts", text)
+        self.assertIn("npm ci --prefix ci-tools --ignore-scripts", maintainers)
         # Check every install, so a later step cannot silently reenable scripts.
-        installs = re.findall(r"(?m)^.*\bnpm (?:ci|install|i)\b.*$", "\n".join(workflows))
+        installs = re.findall(r"(?m)^.*\bnpm (?:ci|install|i)\b.*$", "\n".join(workflows.values()))
         self.assertTrue(installs)
         for install in installs:
             with self.subTest(install=install):

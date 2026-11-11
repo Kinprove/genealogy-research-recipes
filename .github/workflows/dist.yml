@@ -1,0 +1,99 @@
+name: Release distributions
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing release tag to distribute
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+# Serialize releases and retries so each distribution branch keeps linear history.
+concurrency:
+  group: release-distributions
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+      - name: Resolve the release tag and build from its commit
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ github.event.release.tag_name || inputs.tag }}
+        run: |
+          set -euo pipefail
+          git check-ref-format "refs/tags/$RELEASE_TAG"
+          # Refuse a tag without a published GitHub release before any branch changes.
+          [ "$(gh release view "$RELEASE_TAG" --json isDraft --jq .isDraft)" = "false" ]
+          SOURCE_SHA=$(git rev-parse --verify "refs/tags/$RELEASE_TAG^{commit}")
+          printf 'SOURCE_SHA=%s\n' "$SOURCE_SHA" >> "$GITHUB_ENV"
+          for target in claude-directory hermes-catalog openai-plugin; do
+            python -B scripts/build_dist.py --target "$target" --source "$SOURCE_SHA" --out "$RUNNER_TEMP/$target"
+          done
+          python -B scripts/build_dist.py --check-claude "$RUNNER_TEMP/claude-directory"
+          python -B scripts/build_dist.py --check-links "$RUNNER_TEMP/hermes-catalog"
+          python -B scripts/build_dist.py --check-links "$RUNNER_TEMP/claude-directory"
+          python -B scripts/build_dist.py --check-links "$RUNNER_TEMP"/openai-plugin/*.zip
+          VERSION=$(git show "$SOURCE_SHA:plugin.json" | python -c 'import json, sys; print(json.load(sys.stdin)["version"])')
+          printf 'VERSION=%s\n' "$VERSION" >> "$GITHUB_ENV"
+      - name: Append distribution commits and upload the OpenAI ZIP
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ github.event.release.tag_name || inputs.tag }}
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          set -euo pipefail
+          AUTH=$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)
+          echo "::add-mask::$AUTH"
+          git_remote() {
+            git -c "http.https://github.com/.extraheader=AUTHORIZATION: basic $AUTH" "$@"
+          }
+          for target in claude-directory hermes-catalog; do
+            branch="dist/$target"
+            export GIT_INDEX_FILE="$RUNNER_TEMP/$target.index"
+            git read-tree --empty
+            git --work-tree="$RUNNER_TEMP/$target" add --all --force
+            tree=$(git write-tree)
+            remote_head=$(git_remote ls-remote --heads origin "refs/heads/$branch")
+            message="Build $target from $SOURCE_SHA ($VERSION)"
+            if [ -n "$remote_head" ]; then
+              git_remote fetch --no-tags origin "refs/heads/$branch"
+              parent=$(git rev-parse FETCH_HEAD)
+              # Never move a branch back: skip a release that the current head already contains.
+              previous_source=$(git log -1 --format=%s "$parent" | sed -n 's/^Build .* from \([0-9a-f]\{40\}\) (.*)$/\1/p')
+              if [ -z "$previous_source" ] || ! git cat-file -e "$previous_source^{commit}"; then
+                echo "$branch head does not name a known source commit" >&2
+                exit 1
+              fi
+              if git merge-base --is-ancestor "$SOURCE_SHA" "$previous_source"; then
+                echo "$branch already contains $SOURCE_SHA (built from $previous_source)"
+                continue
+              fi
+              if [ "$tree" = "$(git rev-parse "$parent^{tree}")" ]; then
+                echo "$branch is unchanged"
+                continue
+              fi
+              commit=$(git commit-tree "$tree" -p "$parent" -m "$message")
+            else
+              commit=$(git commit-tree "$tree" -m "$message")
+            fi
+            git_remote push origin "$commit:refs/heads/$branch"
+          done
+          gh release upload "$RELEASE_TAG" "$RUNNER_TEMP"/openai-plugin/*.zip --clobber

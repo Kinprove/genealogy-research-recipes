@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["an unfamiliar or approximate Cyrillic given 
 triggers: ["an unfamiliar", "approximate Cyrillic given name", "compound names", "alternate spellings", "ambiguous article labels", "or documenting a DNA match's family under another name form"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "BEIDER-GIVEN-NAME-VARIANTS-01", "text": "query offline with `scripts/lookup_beider_name.py --name` for up to 20 article groups by default, including similar candidates when an exact match exists; then retrieve a selected article's recorded variants with `--key`. Comparison ignores spaces and supported hyphens/dashes; keep compound component searches separate. Distinguish unavailable local data from an absent entry. Approximate matches are spelling suggestions, not source-backed synonyms; article membership never proves identity or kinship."}]
+guardrails: [{"id": "BEIDER-GIVEN-NAME-VARIANTS-01", "text": "when present, query offline with `scripts/lookup_beider_name.py --name` for up to 20 article groups by default, including similar candidates when an exact match exists; then retrieve a selected article's recorded variants with `--key`. Without the helper, use the host's file search on `resources/beider-name-indexes.json` for the exact and separator-normalized spelling, read only matching entries, keep the 20-group bound and state that similar-candidate (fuzzy) search was not available. Never load the whole JSON into the conversation. Comparison ignores spaces and supported hyphens/dashes; keep compound component searches separate. Distinguish unavailable local data from an absent entry. Approximate matches are spelling suggestions, not source-backed synonyms; article membership never proves identity or kinship."}]
 handoff: ["evidence-proof-judgment", "russian-empire-jewish-identity-attribution"]
 checked: "2026-10-01"
 checked_basis: "Consulted 2026-10-01"
@@ -40,7 +40,7 @@ absence from an index does not invalidate a documented spelling.
 The recorded-name and dictionary-article mappings are bundled in
 [`../resources/beider-name-indexes.json`](../resources/beider-name-indexes.json).
 Do not load the JSON file or every variant group into the conversation when this recipe
-is selected. The lookup helper reads the local JSON inside its process and returns only
+is selected. When present, the lookup helper reads the local JSON inside its process and returns only
 bounded article candidates for the requested name. Lookup works offline; source URLs record attribution
 and are not fetched during a query.
 
@@ -49,7 +49,9 @@ complete first-post archive captures dated 2024-12-25, retrieved on 2026-10-03. 
 records the archive URLs, capture dates and source hashes; it does not claim to reflect
 later forum edits.
 
-Run from this skill's directory:
+### With the helper
+
+When `scripts/lookup_beider_name.py` is present, run from this skill's directory:
 
 ```sh
 python3 scripts/lookup_beider_name.py -h
@@ -78,9 +80,33 @@ result by default, up to 50 with `--limit`, their total count and truncation, re
 returned spelling. It does not expand other articles transitively. No full-index output mode
 is provided.
 
+### Without the helper
+
+The Anthropic directory copy ships no scripts. Use the host's file search on
+`resources/beider-name-indexes.json`; never load the whole JSON into the conversation.
+Search the exact spelling after NFC normalization and uppercasing, then search for the
+separator-normalized spelling, ignoring spaces and supported hyphens/dashes as described
+below. A host search pattern can allow these separators between letters. Read only matching
+`[recorded name, article key]` entries and enough nearby metadata to identify the male or
+female index and its source. If sex is unknown, search both indexes.
+
+Keep up to **20 article groups across the selected sexes and inputs**, grouping matching
+spellings by index and article key and retaining alternative article memberships. Search a
+selected key exactly to read its recorded variants, at most 20 per index by default. Report
+any truncation; a bounded view is a partial search inventory. Keep compound-component
+searches separate, with their own 20-group bound, and inspect at most the first six parts
+per input. Component hits never establish an exact whole-name match.
+
+State plainly that **similar-candidate (fuzzy) search was not available**. Do not invent
+approximate candidates or treat file-search results as helper JSON output. Missing data,
+unreadable data or a host search that cannot perform the required comparison means
+**source unavailable**, not an absent entry. A completed search with no match means only
+**not in this index under the reported matching policy**. Apply the same article-selection
+and identity rules below.
+
 ### Output contract
 
-Use either 1 to 10 nonempty `--name` inputs or one `--key`, never both. Each input
+For the helper, use either 1 to 10 nonempty `--name` inputs or one `--key`, never both. Each input
 must be at most 120 characters and contain more than whitespace or supported hyphens/dashes.
 `--limit` accepts integers from 1 to 50, with a default of 20. For `--name`, it bounds
 article groups separately in the whole-name `results` and `component_search.results`
@@ -106,7 +132,8 @@ exit quietly with code 0 and may leave no complete JSON object. Neither provides
 ### How similar candidates are found
 
 The helper compares NFC-normalized uppercase forms and ignores spaces and supported
-hyphens/dashes in a separate comparison key. It preserves the raw query and indexed spelling.
+hyphens/dashes in a separate comparison key. Supported separators are whitespace and
+`-‐‑‒–—−`. It preserves the raw query and indexed spelling.
 `exact` means the normalized spelling matches; `separator_normalized` means only separators
 differ. Thus `Довид-Лейб`, `Довид Лейб` and `Довидлейб` share a comparison key; this does not
 assert that the compound form has an entry in the current index.
@@ -211,7 +238,8 @@ posts give them, so check the dictionary article before you rely on one:
 1. Preserve the original spelling and identify the field: given name, double-name element,
    patronymic or surname. Look up each given-name element separately; this resource does not
    infer a father's name from a patronymic or a given name from a surname.
-2. Retrieve each selected article's forms with `--key` and search them in the appropriate name
+2. Retrieve each selected article's forms with `--key`, or an exact article-key file search
+   when the helper is absent, and search them in the appropriate name
    field. Keep approximate suggestions and article alternatives separate, including when an
    exact spelling has more than one interpretation. A bounded list with
    `truncated: true` is a partial search inventory, not complete coverage.

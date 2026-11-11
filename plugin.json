@@ -19,7 +19,7 @@
         "shortDescription": "Fact-checked genealogy recipes",
         "longDescription": "One skill with fact-checked recipes for family-history research with DNA and records. It covers how to judge evidence and proof, how to reason about DNA matches (unknown parentage, endogamy, Y, mitochondrial and X DNA, cross-vendor comparisons), and practical search playbooks for record sites and testing companies such as FamilySearch, Ancestry, MyHeritage, JewishGen, 23andMe, FamilyTreeDNA and GEDmatch. Country guides cover the United States, the United Kingdom, Ireland, Poland, the Netherlands, France, Germany, Scandinavia, Spain and Latin America, the Russian Empire and the Soviet Union, and more.\n\nFor genealogists, adoptees and family historians who use an AI assistant for research. Every recipe lists its sources.\n\nThe recipes are guidance for the assistant: they do not search record sites, read your DNA results or change any family tree by themselves. The plugin needs no account, registers no tools and makes no network calls of its own; one bundled script looks up name variants offline.",
         "developerName": "Kinprove Ltd",
-        "category": "Research",
+        "category": "Education & Research",
         "capabilities": [
           "Judge genealogical evidence and proof",
           "Interpret DNA matches and shared centimorgans",
