@@ -55,6 +55,27 @@ jobs:
       - name: Check provenance ledgers and generated report
         run: python -B scripts/provenance.py --check
 
+  distributions:
+    name: Channel distribution builds
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+      - name: Build and check all channel distributions
+        run: |
+          for target in claude-directory hermes-catalog openai-plugin; do
+            python -B scripts/build_dist.py --target "$target" --source HEAD --out "$RUNNER_TEMP/$target"
+          done
+          python -B scripts/build_dist.py --check-claude "$RUNNER_TEMP/claude-directory"
+          python -B scripts/build_dist.py --check-links "$RUNNER_TEMP/claude-directory"
+          python -B scripts/build_dist.py --check-links "$RUNNER_TEMP/hermes-catalog"
+          python -B scripts/build_dist.py --check-links "$RUNNER_TEMP"/openai-plugin/*.zip
+
   hermes:
     name: Hermes native plugin
     runs-on: ubuntu-latest
@@ -83,6 +104,10 @@ jobs:
         run: |
           uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins validate . --json
           uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins doctor . --ci
+      - name: Validate the Hermes catalog distribution with the pinned runtime
+        run: |
+          uv run --project "$HERMES_RUNTIME" --frozen --no-dev python -B scripts/build_dist.py --target hermes-catalog --source HEAD --out "$RUNNER_TEMP/hermes-catalog"
+          uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins validate "$RUNNER_TEMP/hermes-catalog" --json
       - name: Exercise namespaced skill and recipe access in an isolated profile
         env:
           PYTHONDONTWRITEBYTECODE: "1"

@@ -63,6 +63,15 @@ class ManifestVersionTests(unittest.TestCase):
 
 
 class ManifestDescriptionTests(unittest.TestCase):
+    def test_openai_listing_category_and_display_limits(self):
+        plugin = json.loads((ROOT / "plugin.json").read_text(encoding="utf-8"))
+        interface = plugin["extensions"]["com.openai"]["interface"]
+        self.assertEqual(interface["category"], "Education & Research")
+        for field in ("displayName", "shortDescription"):
+            with self.subTest(field=field):
+                self.assertTrue(interface[field])
+                self.assertLessEqual(len(interface[field]), 30)
+
     def test_all_hosts_carry_one_description(self):
         descriptions = {
             name: json.loads((ROOT / name).read_text(encoding="utf-8"))["description"] for name in JSON_MANIFESTS

@@ -228,6 +228,47 @@ store credentials, send telemetry, or start background jobs. Individual recipes
 can describe optional services and commands; executing those still requires the
 host's appropriate tools, permissions and any service-specific credentials.
 
+## Release distributions
+
+`main` is the only hand-edited source. The `dist/claude-directory` and
+`dist/hermes-catalog` branches are generated; never edit them by hand. Configure branch
+protection so only the release distribution workflow can write to `dist/*`.
+
+After publishing a GitHub release, `.github/workflows/dist.yml` builds all three targets
+from the release tag's commit. Each changed branch tree gets one commit whose parent is
+the previous distribution head; the first build creates a root commit. Identical trees
+are skipped, a release older than the source of the current distribution head is
+skipped for the branches (its ZIP is still uploaded), the release must already be
+published, and pushes never force-update history. The workflow also attaches
+`genealogy-research-recipes-<version>.zip` to the release for OpenAI. To retry, run the
+workflow manually with the existing release tag as its `tag` input.
+
+To inspect a release locally, use empty output directories:
+
+```sh
+python3 scripts/build_dist.py --target claude-directory --source <release-sha> --out dist/claude-directory
+python3 scripts/build_dist.py --target hermes-catalog --source <release-sha> --out dist/hermes-catalog
+python3 scripts/build_dist.py --target openai-plugin --source <release-sha> --out dist/openai-plugin
+python3 scripts/build_dist.py --check-claude dist/claude-directory
+python3 scripts/build_dist.py --check-links dist/claude-directory
+python3 scripts/build_dist.py --check-links dist/hermes-catalog
+python3 scripts/build_dist.py --check-links dist/openai-plugin/*.zip
+```
+
+The builder reads only `git archive <sha>`, ignoring working-tree changes and untracked
+files. It fails on missing allowlisted inputs. Claude's tree omits scripts and renames
+each `NOTICE` to `NOTICE.md` with identical bytes. Hermes and OpenAI retain the offline
+Beider helper; the OpenAI ZIP has sorted entries, fixed timestamps and fixed permissions.
+The checks validate Claude's file policy and relative Markdown destinations inside each
+built tree (or ZIP); the repository's Markdown suite separately checks heading anchors.
+
+After a release, update the Hermes catalog pin to the full `dist/hermes-catalog` commit,
+with the release version. Disclose that it is a generated branch built by the public
+workflow from the named source release SHA. Upload the release ZIP to OpenAI manually;
+attaching it to GitHub does not publish a directory listing. Anthropic's directory
+submission must track `dist/claude-directory`; switching that submission and configuring
+branch protection are separate owner actions.
+
 ## Running the tests
 
 Run both unit-test suites (the repository's `tests/` and the skill's own `tests/`) with:

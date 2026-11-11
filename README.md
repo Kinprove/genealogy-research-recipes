@@ -42,7 +42,7 @@ Each recipe's sources are in [`sources/`](skills/genealogy-research-recipes/sour
 CI checks every change offline: each recipe is reachable from the skill, every link resolves,
 and the safeguards that the test cases rely on still appear in the recipes. A second suite gives
 an agent synthetic research questions and checks that it opens the right recipes and follows
-their safeguards. Commands, rules and the latest results: [docs/evaluation.md](docs/evaluation.md).
+their safeguards. Commands, rules and the latest results: [docs/evaluation.md](https://github.com/Kinprove/genealogy-research-recipes/blob/main/docs/evaluation.md).
 
 ## Install
 
@@ -73,13 +73,20 @@ again.
 **Hermes Agent:**
 
 ```sh
-hermes plugins install Kinprove/genealogy-research-recipes --no-enable
+hermes plugins install genealogy-research-recipes --no-enable
 hermes plugins enable genealogy-research-recipes
 ```
 
 Load it with `skill_view(name="genealogy-research-recipes:genealogy-research-recipes")`; a recipe
 loads with the extra argument `file_path="recipes/<name>.md"`. Update with
 `hermes plugins update genealogy-research-recipes`.
+
+For the latest `main`, use the Git repository instead of the catalog:
+
+```sh
+hermes plugins install Kinprove/genealogy-research-recipes --no-enable
+hermes plugins enable genealogy-research-recipes
+```
 
 **OpenClaw:**
 
@@ -97,18 +104,18 @@ mentions once per conversation that a newer version may exist and how to update.
 ## Registries
 
 - **Claude:** this repository is its own `kinprove` marketplace
-  ([`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.json)), not an entry in an
+  ([`.claude-plugin/marketplace.json`](https://github.com/Kinprove/genealogy-research-recipes/blob/main/.claude-plugin/marketplace.json)), not an entry in an
   Anthropic-curated directory.
 - **Hermes:** the [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins)
-  pins a reviewed commit, so it can lag behind the latest release; the repository install above
-  follows the default branch.
+  pins a reviewed commit, so it can lag behind the latest release. Install by catalog name
+  as above, or use the repository install for the latest `main`.
 - **OpenClaw:** ClawHub publication is separate from the GitHub install; check the publisher,
   version and source commit on ClawHub before installing from it.
 
 ## Privacy
 
-The plugin collects, stores and sends nothing by itself. It is text, plus one script
-(`scripts/lookup_beider_name.py`) that looks up name variants offline, on your machine.
+The plugin collects, stores and sends nothing by itself. It is text, with an optional script
+(`scripts/lookup_beider_name.py`) that, when bundled, looks up name variants offline on your machine.
 Some recipes tell the agent to search public record sites, such as FamilySearch or national
 archives, for the names, places and dates you give it. Those searches run through your agent's
 own web tools, during the research you ask it to do.
@@ -277,15 +284,15 @@ matches and projects.
 ## Contributing and reporting problems
 
 For corrections and installation failures, use the [issue templates](https://github.com/Kinprove/genealogy-research-recipes/issues/new/choose).
-Report security or privacy problems privately as described in [SECURITY.md](SECURITY.md).
-Local checks and contribution guidance are in [CONTRIBUTING.md](CONTRIBUTING.md).
+Report security or privacy problems privately as described in [SECURITY.md](https://github.com/Kinprove/genealogy-research-recipes/blob/main/SECURITY.md).
+Local checks and contribution guidance are in [CONTRIBUTING.md](https://github.com/Kinprove/genealogy-research-recipes/blob/main/CONTRIBUTING.md).
 
 ## License
 
 [FSL-1.1-MIT](LICENSE), © 2026 Kinprove. Each version becomes MIT two years after its release; the
 dates are in the [release history](skills/genealogy-research-recipes/CHANGELOG.md). Third-party
 material quoted or adapted in the recipes, and the Beider name data, are not licensed by Kinprove:
-see [NOTICE](NOTICE).
+see [NOTICE](https://github.com/Kinprove/genealogy-research-recipes/blob/main/NOTICE).
 
 How Kinprove reads the licence (the [LICENSE](LICENSE) text governs). Allowed:
 
@@ -302,4 +309,4 @@ version becomes MIT. Licence requests, questions, and rights holders' requests t
 a passage: <hola@kinprove.io>.
 
 Release and publishing notes, including the locked `ci-tools` install:
-[MAINTAINERS.md](MAINTAINERS.md).
+[MAINTAINERS.md](https://github.com/Kinprove/genealogy-research-recipes/blob/main/MAINTAINERS.md).
