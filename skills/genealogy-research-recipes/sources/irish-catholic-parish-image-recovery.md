@@ -1,0 +1,94 @@
+## Sources
+
+Original procedural synthesis. Sources are attributed and paraphrased; third-party prose,
+screenshots, index entries and real family examples are not reproduced.
+
+- **P1:** Vaughn Johnson, *Catholic Church Records In Ireland*, uploaded 2022-04-06 —
+  [class](https://www.youtube.com/watch?v=agqov8pwbTY). Transcription → NLI parish image,
+  event/year/month narrowing and comparison with the original.
+- **P2:** Family Locket, *Citing Irish Databases with Images*, published 2024-10-17 —
+  [tutorial](https://www.youtube.com/watch?v=6_gpKNjpxcw). Different transcript/image link
+  destinations, event-date distinction and register/page metadata.
+- **P3:** Ancestry UK, *Understanding the Irish Catholic Parish Registers*, BTOP 2016,
+  uploaded 2016-11-17 — [presentation](https://www.youtube.com/watch?v=Is_TuCW4u9E).
+  Diocese/parish/event-volume browsing and earlier neighboring parish coverage.
+- **P4:** Vaughn Johnson (BYU Family History Library), *Irish Church Records*, published
+  2022-04-13 — [class](https://www.youtube.com/watch?v=I0K7KFvOCZ8). Alternative parish names on
+  the NLI parish page, separate English/Latin given-name searches, and Ancestry/Findmypast versus
+  RootsIreland transcriptions.
+- **P5:** Lisa Lisson, *Traveling Across the Ocean with Catholic Records*, published 2021-02-24 —
+  [discussion](https://www.youtube.com/watch?v=kG5ylKec2Kg). Used for treating the Ancestry and
+  Findmypast indexes as one derived source rather than corroboration, and for retrying a failed
+  search on the other platform.
+- **P6:** Aimee Cross / Ancestry Aimee, interview with Natalie Bodle,
+  *What You Need to Know to Start Family History Research in Ireland*, published 2024-05-30 —
+  [interview](https://www.youtube.com/watch?v=Qa-SALvJ9UA). Destination-country origin clues,
+  including a will naming someone still in Ireland and a sibling's records. The locality
+  worksheet and distinction between the named person's residence and the emigrant's origin
+  are Kinprove synthesis; naming patterns and the narrated family identities are not adopted.
+- **O1:** National Library of Ireland, *Help — Catholic Parish Registers*, official
+  documentation checked 2026-10-07 — [help](https://registers.nli.ie/help?locale=en).
+  Parish/map distinctions, name-search limitation, page-level date filters and reading controls.
+- **O2:** NLI, numbered register-page metadata, checked on the official page on
+  2026-10-07 — [page 27, microfilm 06485/01](https://registers.nli.ie/pages/vtls000633437_027?locale=en).
+  Page/microfilm/parish metadata and the offered Download Page control.
+- **O3:** NLI, *About — Catholic Parish Registers*, Internet Archive capture of 2026-05-21 (the
+  live page refused automated access), opened 2026-11-07 —
+  [about](https://web.archive.org/web/20260521205111/https://registers.nli.ie/about); and NLI,
+  *Further research*, opened 2026-11-07 —
+  [further research](https://www.nli.ie/family-history/further-research). Baptism and marriage
+  registers to 1880 (the microfilming cut-off); start dates by region; images not indexed on the
+  NLI site; free name search through Findmypast, Ancestry and FamilySearch accounts; RootsIreland
+  indexes for most parishes by subscription.
+- **O4:** Findmypast, *Ireland Roman Catholic Parish Burials* collection list, Internet Archive
+  capture of 2026-04-11, opened 2026-11-07 —
+  [burials](https://web.archive.org/web/20260411012900/https://www.findmypast.co.uk/articles/world-records/full-list-of-the-irish-family-history-records/life-events-birth-marriage-death/ireland-roman-catholic-parish-burials);
+  RootsIreland county source tables (Meath), opened 2026-11-07 —
+  [Meath](https://www.rootsireland.ie/meath-genealogy/meath-roman-catholic/). Burials in a
+  minority of parishes; RootsIreland's parish indexes mostly running to about 1900.
+- **O5:** FamilySearch Research Wiki, *Ireland Catholic Church Records*, opened 2026-11-07 —
+  [wiki](https://www.familysearch.org/en/wiki/Ireland_Catholic_Church_Records). Original
+  registers in local custody; a priest may search them, and a fee or donation may be required;
+  only 214 parishes recorded burials before 1880, against 1,042 that recorded baptisms.
+
+<!-- provenance-ledger:start -->
+```yaml
+schema: 1
+sources:
+  - {"id":"P1","kind":"video","urls":["https://www.youtube.com/watch?v=agqov8pwbTY"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"9a8b72741640d70e2b40d3f9f9723edc1494aa7eaf1281e481e1c4392ffcf07c","claims":["C-e1518ca317d4","C-e53fad57033b","C-0807ca33c9e9","C-98a4f7b48450"],"review":"pending"}
+  - {"id":"P2","kind":"video","urls":["https://www.youtube.com/watch?v=6_gpKNjpxcw"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"a194c61077da5993ce9bd46e5a296818c34384a89c197ae2b04e9a96cea8ae8c","claims":["C-e1518ca317d4","C-0807ca33c9e9","C-98a4f7b48450","C-58b0345a9f9c","C-6ae33329323c"],"review":"pending"}
+  - {"id":"P3","kind":"video","urls":["https://www.youtube.com/watch?v=Is_TuCW4u9E"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"7b551f6f47df019096174b1b77970449bc81fc7fda05c8167016cc8abf9dc8b2","claims":["C-0a48524e83e8","C-d0d41288955b"],"review":"pending"}
+  - {"id":"P4","kind":"video","urls":["https://www.youtube.com/watch?v=I0K7KFvOCZ8"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"b59ac60686feb17c1e3f849eb1fa5e067ae9ed5e58c9d34940f6e4b912b40d20","claims":["C-faba4984c57e","C-e53fad57033b","C-fc242fb14cfa"],"review":"pending"}
+  - {"id":"P5","kind":"video","urls":["https://www.youtube.com/watch?v=kG5ylKec2Kg"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"0355332ac2321fe23cac459aac8ff5769069688e63d6317e875e1a7ecfa37ff9","claims":["C-fc242fb14cfa"],"review":"pending"}
+  - {"id":"P6","kind":"video","urls":["https://www.youtube.com/watch?v=Qa-SALvJ9UA"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"34a95101d9aacbda2ff13b4de86bf2ce461e5635fca5babd4001d849d8eb8113","claims":["C-2c05d00e816e"],"review":"pending"}
+  - {"id":"O1","kind":"unknown","urls":["https://registers.nli.ie/help?locale=en"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"7fe72997dadb5bba393899ed22a13e29d28ea6a9a3ab5916f2c06028cfc8426f","claims":["C-3a383cdf8074","C-0a48524e83e8","C-d0ab25f5b513","C-0807ca33c9e9","C-21357ed7cefb","C-54e87fdbb2d6"],"review":"pending"}
+  - {"id":"O2","kind":"unknown","urls":["https://registers.nli.ie/pages/vtls000633437_027?locale=en"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"a43323cbac1136c0cb4236ad77d01d39e97aa6af9760e82b24eb82e59c02cff4","claims":["C-6ae33329323c","C-a948aa518c27"],"review":"pending"}
+  - {"id":"O3","kind":"unknown","urls":["https://web.archive.org/web/20260521205111/https://registers.nli.ie/about","https://www.nli.ie/family-history/further-research"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"d87e72ed60a08bfce99c32e63a827d1b881b372515b24830a1396fdfb33faa63","claims":["C-1b35180c8ec5"],"review":"pending"}
+  - {"id":"O4","kind":"unknown","urls":["https://web.archive.org/web/20260411012900/https://www.findmypast.co.uk/articles/world-records/full-list-of-the-irish-family-history-records/life-events-birth-marriage-death/ireland-roman-catholic-parish-burials","https://www.rootsireland.ie/meath-genealogy/meath-roman-catholic/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"cf73395195cd564d85d4a705fdccf2ded68065f7d2c37e510b7533a36cb6d503","claims":["C-1b35180c8ec5"],"review":"pending"}
+  - {"id":"O5","kind":"unknown","urls":["https://www.familysearch.org/en/wiki/Ireland_Catholic_Church_Records"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"4adb7ac9fd61a0afbfddd0d34bed7d6d5709b1af0e8b38fefdac7189cbe58b4c","claims":["C-1b35180c8ec5","C-e09f5e29f34a"],"review":"pending"}
+claims:
+  - {"id":"C-088d9dfed7e9","kind":"unclassified","anchor":"Carry an Irish Catholic baptism or marriage lead into the National Library of Ireland's register\nimages, inspect the actual entry and preserve the register and image locators. A transcription\ncan identify a parish and date without supplying an image; a baptism date remains a baptism\ndate unless the original separately records birth.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-2c05d00e816e","kind":"unclassified","anchor":"If an emigrant's origin is only \"Ireland\", first seek a more specific locality in a bounded\nset of destination-country records. In particular, inspect an available will for a named\nexecutor or beneficiary still in Ireland, and follow a documented sibling's records for an\norigin clue. Record `literal place | person and role | record/date/locator | next locality check`.\nA beneficiary's Irish residence is a locality lead, not the emigrant's birthplace or proof\nof their relationship. Compare the recovered place with the Catholic parish and diocese in\nstep 1; do not silently substitute a civil parish or townland. If no sufficiently specific\nplace emerges, leave the parish unresolved rather than selecting a same-name family. [P6]","sources":["P6"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-3a383cdf8074","kind":"unclassified","anchor":"Search the NLI parish name or use its map to inspect the locality. Confirm the Catholic parish\nand diocese before selecting a register: a civil parish or townland is a different geographic\nunit. The map supports adjoining-parish discovery; it is not an exact boundary map. [O1]","sources":["O1"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-0a48524e83e8","kind":"unclassified","anchor":"Read the selected parish's register information. Record microfilm/item, event type and available\ndates, then open the corresponding register image or microfilm link. A parish can have several\nvolumes covering different events and years, as the Ancestry demonstration shows. [P3, O1]","sources":["P3","O1"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-1b35180c8ec5","kind":"unclassified","anchor":"Check the register's coverage before you read a miss as absence. The NLI images are of baptism\nand marriage registers up to about 1880, the microfilming cut-off; most parishes recorded no\nburials before then. Start dates run from the 1740s–50s in some city parishes, through the\n1780s–90s in counties such as Kildare, Wexford, Waterford and Kilkenny, to the 1850s–60s on the\nwestern seaboard. [O3, O5] The images are not name-indexed on the NLI site. Findmypast and Ancestry\nindex the same images, free with an account, and RootsIreland (paid) indexes most parishes,\ngenerally to about 1900. [O3, O4]","sources":["O3","O5","O4"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-e09f5e29f34a","kind":"unclassified","anchor":"**Privacy gate:** <!-- privacy-gate: request --> An entry after a register's end can name people\nwho may be living; answer the privacy gate in `SKILL.md` before you request one. For an event after\n1880, ask the parish, which keeps the original registers; a priest may search them for a fee or\ndonation. [O5]","sources":["O5"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-faba4984c57e","kind":"unclassified","anchor":"Record the alternative names given on the NLI parish page. A Catholic parish can appear under more\nthan one name, so a lead's parish name may not match the NLI heading. Match the lead's parish name\nto an NLI name or listed variant before concluding the parish is absent. [P4]","sources":["P4"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-d0d41288955b","kind":"unclassified","anchor":"If the target date precedes the available register, inspect earlier-starting neighboring registers\nand evidence of a predecessor parish. The demonstration shows an older parish divided when a\nnew parish was created. Save each candidate register and its coverage; proximity alone does not\nestablish where the event was recorded. [P3]","sources":["P3"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-d0ab25f5b513","kind":"unclassified","anchor":"For the NLI register-image site, the documented search is by parish, not a person's name.\nUse the parish/date/event from an external index or transcription to choose the image sequence,\nor browse the defined register directly. [O1]","sources":["O1"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-e1518ca317d4","kind":"unclassified","anchor":"In the 2022 RootsIreland demonstration, a baptism transcription supplies the parish and a link\nto NLI. In the 2024 comparison, a Findmypast transcript has both an NLI register link and a\nseparate original-record viewer: one opens the NLI sequence at its beginning, while the other\nopens the demonstrated entry in Findmypast. These are historical examples; verify the actual\ndestination and access outcome instead of assuming every current index has either link. [P1, P2]","sources":["P1","P2"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-e53fad57033b","kind":"unclassified","anchor":"If no index lead appears under the English given name, search again under its Latin register form.\nIn the 2022 classes Johnson says Ancestry (and Findmypast, which shares its database) shows\nthe priest's Latin given name without an English equivalent. Neither class gives a list of\nequivalents or says whether this still holds, so record which form produced the hit. A nil result\nunder one form is not evidence that no entry exists. Confirm any Latin-form hit on the image before\nlinking it to the English-named person. [P1, P4]","sources":["P1","P4"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-0807ca33c9e9","kind":"unclassified","anchor":"The NLI help documents **Filter Events/Dates** with event, year and month. Use the baptism or\nmarriage date supplied by the lead. These controls highlight corresponding pages; they do not\nfind or identify the named person within a page. Browse the highlighted sequence for the actual\nentry. [P1, P2, O1]","sources":["P1","P2","O1"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-21357ed7cefb","kind":"unclassified","anchor":"Inspect pages whose dates differ from the main description. NLI explains that page-level filter\nmetadata can include annotations outside the register's main described dates. [O1]","sources":["O1"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-98a4f7b48450","kind":"unclassified","anchor":"Compare the name, parents or spouse, stated residence, event and date with the transcription.\nPreserve the original name forms and uncertain letters. The 2022 tutorial finds a maternal-surname\ntranscription difference in the image. The 2024 tutorial finds a transcription that presents the\nbaptism date as an estimated birth date. Keep those source statements separate; do not copy the\nestimate into an asserted birth. [P1, P2]","sources":["P1","P2"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-fc242fb14cfa","kind":"unclassified","anchor":"Do not count matching Ancestry and Findmypast entries as two confirmations. Johnson says Ancestry\nand Findmypast use the same transcription; in the Lisa Lisson discussion a vendor speaker says the\ntwo publish the same images and indexed them together, though the indexes differ slightly.\nJohnson's class shows an inferred father's surname that only the image corrected, and it treats\nRootsIreland as a separately made transcription. In the Lisson discussion, the vendor speaker\nadvises that if one platform finds nothing, the search should be repeated on the other. Any hit is\nstill only a lead to the image. Neither source says how the indexes differ today. [P4, P5]","sources":["P4","P5"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-54e87fdbb2d6","kind":"unclassified","anchor":"For faint text, try NLI's documented brightness, contrast or inverse-image controls. Label the\nadjusted view; retain the original locator. Route disputed readings to the documentary-records\nworkflow. [O1]","sources":["O1"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-58b0345a9f9c","kind":"unclassified","anchor":"Inspect the register's identification information as well as the target page. The citation\ndemonstration returns to the opening identification image for parish, diocese, event type and\ndates. Save that context with the microfilm/item identifier. [P2]","sources":["P2"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-6ae33329323c","kind":"unclassified","anchor":"Preserve the exact URL for the page actually inspected and its NLI page number. The demonstration\nshows the URL changing when a different page is selected. Numbered NLI page metadata also lists\nthe microfilm and parish context. Keep any printed register page or entry number in a separate,\nnullable field; a viewer page number is not automatically the original pagination. [P2, O2]","sources":["P2","O2"],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-a948aa518c27","kind":"unclassified","anchor":"When a page download is offered and permitted for the intended use, retain the original image\nwith its locator. Reopen the saved link when access is available and compare the entry. If that\ncheck cannot run, record it as unperformed rather than claiming the link was tested. [O2]","sources":["O2"],"checked":null,"stated_as":null,"review":"pending"}
+```
+<!-- provenance-ledger:end -->
+
+## Credits
+
+- Kinprove — original procedural synthesis of NLI Irish Catholic parish-register image recovery; coverage and access facts checked against NLI, Findmypast, RootsIreland and FamilySearch pages (O3–O5) — FSL-1.1-MIT (kinprove-original)

@@ -1,0 +1,411 @@
+---
+id: "ancestry-record-search-recovery"
+title: "Ancestry record-search recovery"
+summary: "Recovering archival records missed by an Ancestry search. Diagnose scope and coverage before relaxing dates, places or names; use collection descriptions, original book indexes, census districts and the holding archive."
+kind: "platform"
+scope: {"platforms": ["ancestry"], "tasks": ["an attached census disappearing from results, narrow Card Catalog matches, birthplace/residence confusion, conservative wildcard batches, name-free searches, book page versus image numbers, enumeration-district browsing, or index-only records."]}
+triggers: ["an attached census disappearing from results", "narrow Card Catalog matches", "birthplace/residence confusion", "conservative wildcard batches", "name-free searches", "book page versus image numbers"]
+privacy: "none"
+gates: []
+guardrails: [{"id": "ANCESTRY-RECORD-SEARCH-RECOVERY-01", "text": "search results generate candidates; a zero-result query does not prove absence, and the original document must support identity before filing a relationship."}]
+handoff: ["ai-for-documentary-records", "dna-match-outreach-staging", "evidence-proof-judgment"]
+checked: "2026-10-20"
+checked_basis: "checked 2026-10-20"
+capabilities: {"browse": ["ancestry"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"tier": "full", "group": "Featured workflows", "order": 37}
+---
+
+# Ancestry record-search recovery
+
+## Contents
+
+- Goal
+- Thirteen recovery methods
+- Check the saved record on each intended person
+- Find a researcher or locality helper
+- Prompt-craft and search log
+
+## Goal
+
+Recover an archival record when Ancestry's hints, person search or name index fails.
+Choose the recovery that addresses the actual failure: hidden search settings,
+catalog discovery, an overconstrained query, a transcription error, an image-only
+volume or a record held elsewhere. Do not keep repeating the same name search.
+
+This recipe owns Ancestry retrieval. For identity and negative-evidence judgments,
+read [evidence-proof-judgment.md](evidence-proof-judgment.md); for AI transcription
+and full-text finding aids, read [ai-for-documentary-records.md](ai-for-documentary-records.md).
+
+## Thirteen recovery methods
+
+### 1. Reset the search state before changing the ancestor
+
+**Trigger:** expected records disappear after research in another country or category.
+
+Check Collection Focus and result-type settings; restore the intended collections
+and historical-record categories. These settings persist between searches. Record
+their state before and after resetting them, then rerun the same query: this tests
+the search environment without changing the person. See [Ancestry's refinement guide](https://help.ancestry.com/hc/en-us/articles/53933347318419-Refining-Your-Search-to-Improve-Results).
+
+Also inspect any active option that suppresses records already saved or viewed.
+Ancestry's April 2026 demonstration shows its smart filter hiding other records
+from an already-attached census. That demonstration is a diagnostic clue; inspect
+the controls actually present in the current account before attributing missing
+results to this feature. Do not remove existing tree attachments to recover a hit.
+
+### 2. Clear catalog locality terms to recover nationwide collections
+
+**Trigger:** a town, province or county in the catalog's Title/Keywords finds very little.
+
+Clear or replace the locality word in Title/Keywords before running separate
+state or country searches. A nationwide collection can contain that locality
+without naming it in its catalog text. Compare the collection lists, open national
+candidates, and then choose the locality inside the collection. The August 2026
+Ancestry tutorial demonstrates countrywide Canadian censuses disappearing when
+the catalog text query changes from Canada to Nova Scotia.
+
+Inspect geographic filters separately and widen any that restrict the intended
+jurisdiction. Widening a filter alone does not repair a text query that still
+requires the locality word. Neither search is an exhaustive inventory of records
+concerning the place.
+
+### 3. Search catalog titles and keywords separately
+
+**Trigger:** the expected record category is missing from the catalog results.
+
+Try a short title fragment, then a separate keyword search. Catalog keywords can
+find descriptions that a title search misses; they do not search every name or
+word in the underlying images. More keyword terms narrow the catalog: retry
+distinctive terms individually instead of pasting a long imagined collection
+title. Try related record vocabulary in separate passes, such as electoral
+registers when searching for census-like household or residence evidence.
+Open each plausible collection and inspect its actual coverage.
+See [the Card Catalog guide](https://help.ancestry.com/hc/en-us/articles/53933305954579-Using-the-Card-Catalog).
+
+If a catalog search returns nothing, try the singular and plural forms separately. In one
+demonstration a singular term missed plural titles. Also run a pass with no text at all, using
+only category and place filters, in case the catalog uses different vocabulary. Record each
+variant's count and rerun it later, because the presenter saw results change between runs.
+[Genealogy Gems' Card Catalog session](https://www.youtube.com/watch?v=99F9D51wz6Q) motivates
+these variants. It does not establish a stable matching rule.
+
+### 4. Revisit collections that changed after the failed search
+
+**Trigger:** an old search log says the relevant collection produced no candidate.
+
+Use the catalog's Last Updated ordering to identify collections worth revisiting.
+Read what changed and rerun the saved query in the relevant collection. An update
+date alone does not establish new coverage for the target: it can concern other
+years, localities or data. Record the collection and the recheck date, rather than
+carrying an old failure forward indefinitely.
+
+### 5. Diagnose coverage inside the collection
+
+**Trigger:** a collection title spans the right place and years, but the person is absent.
+
+Read its Source and About sections, then inspect the available browse subdivisions
+and volumes. Check the actual locality, date, record type and population covered,
+including omissions or restrictions. Run a place/date query without the target
+name to see what the index returns for that area. This is an **index diagnostic**:
+zero results can reflect unindexed images, missing fields or restrictive settings.
+Check the image inventory separately before deciding which material is absent.
+See [Ancestry's collection-information guide](https://help.ancestry.com/hc/en-us/articles/53933269983507-Source-and-Collection-Information).
+
+Compare the date spans of the listed volumes. Queue every relevant volume whose
+span overlaps the target period; keep each volume's inspected
+range separately. A gap in this inventory does not establish that the original
+records were destroyed. Matching dates or titles do not establish that two books
+are copies, or which is earlier: inspect the records and their provenance before
+combining their evidence.
+
+Keep three observations separate: no indexed candidate; no matching images in the
+available inventory; and documented absence in the original surviving records.
+Use the existing evidence-judgment recipe before drawing a genealogical conclusion.
+
+### 6. Remove tree facts that belong to another life stage
+
+**Trigger:** a tree-launched search returns nothing useful for a different life stage,
+such as childhood or a possible remarriage.
+
+Inspect the populated query, including relationships. Remove the later spouse,
+children, later residence and uncertain facts when they constrain an early-life
+search; retain appropriate parents or siblings. Use the name recorded at that
+life stage. Search forms differ by collection, so use only fields that this
+collection actually exposes. A missing death-date control in a census search is
+not evidence that the person lacks a death record.
+See [How to Search](https://help.ancestry.com/hc/en-us/articles/53933305561747-How-to-Search-Ancestry)
+and [Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips).
+
+For a possible remarriage, test a supported previous married surname without requiring
+the maiden surname. Inspect prefilled parents and siblings too: a surname removed from
+the subject's field may still constrain the query through those relatives. Save the
+original query, remove those inherited constraints in the comparison query, and narrow
+to marriage records with supported place/time bounds where those fields are available.
+Inspect the recovered record and identifying details before accepting a remarriage.
+The [women's research demonstration](https://www.youtube.com/watch?v=2akp4WbCDlw) shows this
+specific search failure; it does not establish a universal naming practice or prove
+identity from a changed surname alone.
+
+If a candidate's reported surname differs from the hypothesized biological family's surname,
+keep the reported name as the record subject. Test the other surname as an associate/keyword
+clue only where the collection exposes a suitable field; retain supported place/year bounds.
+Inspect the full recovered record and its explicit parent, step-parent or other role before
+resolving the name-change or kinship hypothesis. The [subject-name/keyword example](https://whoareyoumadeof.com/blog/close-dna-match-how-to-figure-out-your-relationship/)
+supports this retrieval tactic, not its narrated identity or fixed cM exclusions.
+
+### 7. Relax the place level and age separately
+
+**Trigger:** an exact city or birth year eliminates otherwise plausible candidates.
+
+Select a recognized place from Ancestry's suggestions, then widen its matching
+level from city to county or adjacent counties. Exact Oakland excludes a record
+that gives only Alameda County. Keep birthplace and residence in their own fields:
+the place where a census household lived need not be where its members were born.
+
+Then relax the year independently. A census age converted to a birth year can
+shift by one year even without an erroneous age; an unreliable age requires a
+wider interval. Preserve the reliable anchor while changing one constraint at a
+time, and record which change recovered a candidate.
+See [Ancestry's refinement guide](https://help.ancestry.com/hc/en-us/articles/53933347318419-Refining-Your-Search-to-Improve-Results).
+
+Treat an undocumented event year from a tree or family note as a possible estimate. A death year
+can be a midpoint between the last census showing the person and the first census without them.
+When the exact year fails, search that whole bracket. In the
+[Ohio death example](https://www.youtube.com/watch?v=GM1i0bLjoWk), a stated 1935 hid a 1930 death
+record, although the source does not show where the estimate came from. If widening still fails,
+try one query with transposed digits, such as 1762 for 1726. An indexer's transposition can fall
+outside any reasonable interval. The
+[birth-date strategies discussion](https://www.youtube.com/watch?v=v_tpU77sOn4) reports this from
+experience and says nothing about how often it happens. Any hit is only a candidate: check it
+against the image, the census date and other same-name people before attaching it.
+
+For the **1841 England and Wales census**, allow for the instruction to round
+ages 15 and above down in five-year steps. Where applied, a recorded age of 30
+represents ages 30–34. Inspect the original age field and retain the reported
+value; an index's calculated birth year is not an exact birth date. Use the
+possible age range and census date to set search bounds, checking other records
+before deciding whether rounding explains a discrepancy. The instruction alone
+does not prove how a particular entry was completed.
+See [The National Archives census guide, section 5](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/).
+
+For a missing death record, distinguish a candidate death locality from the last known
+residence. Use independently supported adult children's residences near the estimated
+death interval to build a short list of places where the parent might have stayed. Retain
+each child's identity, dated residence source and the proposed death-search locality as
+separate fields. Check the actual death-record collection's jurisdiction and date coverage
+before searching it. The [adult-child residence example](https://www.youtube.com/watch?v=Sr86Hc000tY)
+supports this locality pivot; a child's residence does not establish the parent's move or
+death there, and no particular child's household has automatic priority.
+
+### 8. Use wildcards for a specific spelling uncertainty
+
+**Trigger:** a name has plausible transcription or spelling variants.
+
+Search recorded alternatives, initials and abbreviations; then use a pattern
+such as `Niels?n` or `Greenbla*`. Keep a stable fragment and test one uncertain
+part at a time. Ancestry's help pages say wildcards do not work with Soundex, so run
+a wildcard search without Soundex. A Soundex code always begins with the name's first
+letter, so a wrong initial defeats a Soundex search; then try an alternative spelling
+or a name-free recovery instead of repeating that search.
+
+Current Ancestry help pages state different wildcard limits:
+
+- [Getting Started, Lesson 5](https://help.ancestry.co.uk/hc/en-gb/articles/53933301322899-Getting-Started-Lesson-5-Search-Tips):
+  at least three non-wildcard letters, a letter as the first or last character, and `*`
+  for zero to five letters.
+- [Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips):
+  `?` and `*` anywhere, at least one letter, and `*` for one or more letters.
+
+Both say `?` stands for one letter. A pattern with at least three non-wildcard letters
+that begins or ends with a letter, like the two above, satisfies both. Do not infer a universal short-pattern rule or require an Exact checkbox from
+an old tutorial; check the current field's instructions when a pattern is rejected.
+See also [Spelling Variations](https://help.ancestry.com/hc/en-us/articles/53933306665107-Searching-with-Spelling-Variations)
+and [Searching with Soundex](https://help.ancestry.com/hc/en-us/articles/53933287988883-Searching-with-Soundex).
+
+### 9. Recover an index entry without the target's name
+
+**Trigger:** the right collection and locality exist, but variants still fail.
+
+Remove the target name and retain a discriminating combination of available
+fields: residence, approximate birth year, sex, birthplace or relatives. Prefer
+a sibling, household head or known neighbor with a more distinctive name as an
+entry point. Open the resulting image and inspect the target household or nearby
+pages. Ancestry's April 2026 tutorial recovers a mistranscribed Cowan household
+using non-name fields and the parents' names after direct searches fail.
+
+Once the image shows a mistranscription, the user can add the correct reading: the
+record page's three-dot menu has **Add or update information**, which adds it as
+searchable alternate information and leaves the original index unchanged
+([Correcting a Record](https://help.ancestry.com/hc/en-us/articles/53933317670547-Correcting-a-Record)).
+The same mechanism explains some hits: a record may match only through alternate
+information another user added. A [2019 account](https://lisalouisecooke.com/2019/03/28/ancestry-indexing-mistake/)
+shows it beside the original indexed name, not in place of it. Cite the image's own
+wording, not the alternate.
+
+For births, search the parent fields alone, including a mother's-maiden-name field where the
+birth index offers one; some early registers omit the child's name, so a search by the child's
+name cannot reach those entries. Treat hits as candidates and match them by parents, date and
+place ([Joyce Whiting](https://www.youtube.com/watch?v=1LPbDiF6fn8),
+[Dave Obee](https://www.youtube.com/watch?v=14LegPypVRM)).
+
+Use [Ancestry's horizontal-search advice](https://help.ancestry.com/hc/en-us/articles/53933305561747-How-to-Search-Ancestry)
+and, for the 1950 census, [NARA's household/neighbor search guidance](https://www.archives.gov/research/census/1950/faqs).
+These are retrieval pivots; route any identity decision to the evidence-judgment
+recipe. Do not add a recovered household to the tree merely because it matches
+the search constraints.
+
+A person-search keyword field offers another pivot. Keep only name, birth year and place, and put
+one known associated fact in the keyword field instead of a structured field. That fact can be an
+address from another record, a city whose county changed, a regiment from a draft card, or an
+indexed column without its own field, such as a passenger list's nationality. For a child who may
+have lived in an institution, try a status term such as 'orphan' in a census keyword field, then
+inspect the full institutional pages. Check that the current collection indexes that text.
+Co-residents and listed inmates are leads, not relatives or identifications.
+[Judy Sharp's examples](https://www.youtube.com/watch?v=VsbXLVM1-Xk), the
+[Swiss keyword tip](https://www.youtube.com/watch?v=ezp_SFmMdYM) and a relayed
+[adoptee-research tip](https://www.youtube.com/watch?v=KcsQHKLSjFQ) motivate this. They do not
+document current keyword coverage.
+
+### 10. Use the volume's own index and page numbering
+
+**Trigger:** an image collection exists, but its searchable index misses the target
+or the material is browse-only.
+
+Choose the relevant locality, year and volume. Inspect the beginning and end for
+a handwritten or printed index; follow its name variant and volume/page reference.
+Distinguish the book's page number from the viewer's image number, and check the
+volume named by the index. Maps can require direct browsing because labels are
+initials or are poorly indexed. If the original book has no usable index, specify
+a bounded image range and inspect it systematically.
+
+Ancestry's probate demonstration follows an original index to a different book
+and its underlying will. If the collection offers a separate index volume,
+browse that too; finding the index entry is the start of retrieval, not the will.
+
+The internal-index method is described by [Lisa Louise Cooke](https://lisalouisecooke.com/2019/11/17/browse-only-records-at-ancestry/).
+Use the current viewer's available navigation; the 2019 article's screen positions
+are not a current interface contract. Preserve the collection, volume, printed
+page and image locator for each candidate.
+
+### 11. Turn a census address into a bounded image search
+
+**Trigger:** a household is expected at a known address but the name index fails.
+
+Find a contemporary address in a directory, draft or naturalization record;
+resolve it to the enumeration district for the **same census year**; browse that
+district's images on Ancestry or at the archive. An earlier address is a lead to
+check, and another year's district boundaries are not a substitute.
+See [NARA's 1940 address-to-district method](https://www.archives.gov/research/census/1940/start-research).
+
+For the **1950 U.S. census**, inspect sheets numbered 71 onward as well as the
+ordinary sequence: these carry people enumerated out of order. The numbering jump
+does not establish that images are missing. This is a year-specific convention,
+not a rule for every census. Follow any "see sheet / line" reference on the
+original schedule and check informant footnotes when a neighbor supplied the
+household information. See [NARA's 1950 FAQ](https://www.archives.gov/research/census/1950/faqs).
+
+### 12. Check the extent of a selected application packet
+
+Read the collection's front matter before treating selected pension/bounty papers as a
+complete application. Follow the identified applicant and packet boundary into additional
+components actually offered; record which papers were inspected and what remains outside
+that extent. Preserve the packet locator alongside the individual image locators.
+The [selected-papers demonstration](https://www.youtube.com/watch?v=2TlWZ0KvbxU) supplies this
+extent check, not a guarantee about present collection coverage or access.
+
+### 13. Carry the original locator beyond Ancestry
+
+**Trigger:** Ancestry has an index entry without an image, a Web Records pointer,
+or a different provider finds a page that Ancestry's name search misses.
+
+Copy the collection citation and original repository's locator. For a Web Records
+entry, follow the linked source site. For an index-only collection, identify the
+custodian and its image or copy-request route; an Ancestry index does not guarantee
+Ancestry hosts the image. Access conditions can differ between a personal account
+and a library edition. See [Ancestry's library guide](https://help.ancestry.com/hc/en-us/articles/53933331964691-Searching-on-Ancestry-at-a-Library-or-School)
+and [Web Records guide](https://help.ancestry.com/hc/en-us/articles/53933331868179-Finding-Records-Online-with-Ancestry-Web-Records).
+
+Use the collection title, or a hit's source citation (publication, place, year), as a search key
+for other hosts, library copies or digitized editions, and read the entry there. Record each
+host as a separate retrieval attempt with its coverage, edition and search behaviour. Shared
+underlying records remain dependent evidence: a [2022 talk](https://www.youtube.com/watch?v=o6d7Z_W_qhg)
+reports one shared 1880 U.S. census index. Duplicate hits from overlapping collections, such as
+[two Find a Grave indexes](https://www.youtube.com/watch?v=3FJKJFw0Bjo), count as one source, as
+does a second copy of the same printed page. The
+[catalog-title](https://www.youtube.com/watch?v=V2vmIxs2WjM) and
+[directory](https://www.youtube.com/watch?v=YI-rwxManbs) examples do not show how to verify that
+the editions match.
+
+If an inspected record supplies a religious name and a named community affiliation,
+carry both with that record's locator into an institutional-archive inquiry. Check the
+community's actual holdings and present custodian, including a documented later name or
+successor archive; ask whether a personnel file is held and accessible for that person.
+Keep any returned letters, obituaries or photographs separately identified and verify
+their link to the researched person. The [interview with Sunny Jane Morton](https://www.youtube.com/watch?v=hUmGeEvOWbU)
+supplies this possible file target. It does not guarantee survival, access or contents.
+Keep a birth-name/religious-name link unresolved until supported; do not infer community
+membership or parentage from a name form, initials, clothing or Catholic context alone.
+The life-stage query in workflow 6 already handles supported name variants.
+
+For England and Wales censuses **1841–1901**, carry the archive series, piece,
+folio/page and, where applicable, book reference into a reference search or image
+browse. Do not reuse that locator shape unaltered for the household schedules of
+1911 or 1921. When a whole locality is missing, check the original archive's
+coverage documentation before continuing name permutations.
+See [The National Archives census guide, sections 10–11](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/).
+
+For a **1921 household schedule**, recover the address panel and instructions as
+well as the person rows. Keep the schedule's identity and each image locator;
+check that the sides belong together. Findmypast's [RG 15 image guide](https://www.findmypast.com/discover/census-land-and-surveys/census/1921-census-of-england-and-wales-image-browse)
+describes the address panel on the front and household details on the back, with
+different sequences for longer schedules and attachments. Do not assume that a
+fixed previous/next-image offset always retrieves the other side.
+
+## Check the saved record on each intended person
+
+If you save a recovered record as an authorized tree attachment, list the source's named
+people and their intended tree profiles first. Select the facts and people deliberately, then
+open each intended profile and verify its source attachment, person-row pairing and resulting
+facts against the record. A successful save to one person does not verify all intended people.
+Use the current per-person attachment controls to address a missing link; do not
+infer a parent-child relationship from household membership. Ancestry documents
+[field and person selection](https://help.ancestry.com/hc/en-us/articles/53933314225043-Adding-Records-to-a-Tree)
+and [saving a source to another person](https://help.ancestry.com/hc/en-us/articles/53933348187923-Managing-Facts-Events-and-Sources-in-Trees).
+
+In a multi-person record, select the established person's own entry before choosing the
+destination profile. Inspect the name, role and proposed age, birthplace or parent fields;
+another household member's entry can propose that member's details. Keep existing supported
+values and source associations visible while reviewing a conflict. The
+[2025 tree-cleanup demonstration](https://www.youtube.com/watch?v=TjFQv6LAjUY) shows this
+wrong-row failure; use the controls and proposed fields actually offered. This check does not
+authorize deleting other attachments or accepting an unresolved identity.
+
+## Find a researcher or locality helper
+
+If the next lookup needs a helper and a member directory/profile is available, distinguish
+research-interest surname, ancestral place and period from the researcher's declared help
+or skills; do not collect the researcher's current location or other personal details.
+Check whether a period describes family presence
+in a place or an individual's lifespan before using it as a search constraint.
+Inspect candidate profiles and return their locators, stated interests/help and relevance
+to the lookup. Label them as helper candidates; willingness and competence remain unverified.
+Any contact goes through [DNA match outreach staging](dna-match-outreach-staging.md).
+
+These field roles come from [Ancestry's 2012 member-profile demonstration](https://www.youtube.com/watch?v=KRz3hK3KZWc).
+Use fields actually exposed in the available view; the demonstration does not establish
+that the historical directory or its controls are available in the current account.
+
+## Prompt-craft and search log
+
+> Recover this Ancestry record: [person and event], [known locality and date],
+> [collection URL], [queries and settings already tried]. Diagnose the next
+> retrieval failure before suggesting another name search. Give three ordered
+> searches, each changing a named constraint and stating what its result tests.
+> Include a national-collection catalog check, a name-free query and a bounded
+> image-browse route where relevant. Record the original locator. Distinguish
+> documentation-supported instructions from actions you actually executed.
+
+For each pass, record the collection URL/ID, search date, fields and matching
+settings, active result scopes, result or access failure, image range inspected
+and next discriminating query. A useful handoff names the next action, rather
+than merely reporting that nothing was found.

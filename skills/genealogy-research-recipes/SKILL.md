@@ -1,0 +1,1084 @@
+---
+name: genealogy-research-recipes
+description: >-
+  Investigate genealogy questions with DNA matches and historical records. Use when recovering
+  an ancestor’s identity, parentage or place of origin; reconciling conflicting records or DNA
+  results; searching archives, record sites or family papers; interpreting genetic comparisons;
+  or preparing citations, research logs and proof arguments. Includes platform workflows and
+  boundaries for living people, data transfers and contact.
+---
+
+# Genealogy research recipes
+
+Distilled, fact-checked **judgment and practical workflows** for genealogy work with DNA and records. Each recipe targets
+what an LLM does *not* reliably know, or does *wrong* by default: the named failure modes, the
+delegate-vs-never-trust lines, the reasoning sequence a human must own, and the records needed
+to resume an investigation. Judgment recipes focus on reasoning; platform playbooks provide
+ordered actions and investigator-created schemas with dated platform-documentation checks.
+
+The research methods apply across platforms, including work from exported data. Kinprove
+authorship does not require a Kinprove account, connector or scoring engine.
+
+## Version and updates
+
+This copy is version 1.16.0, released 2026-11-11.
+
+Many installations do not update by themselves. If today's date is more than 7 days after
+that release date, end your first answer in the conversation with one short note: this copy
+of the recipes was released on that date, and a newer version may be available. Give the
+update step for the user's installation, or the applicable options if the host is unclear:
+
+- Copies installed from a plugin directory (Anthropic's Claude directory or the ChatGPT/Codex
+  plugin directory): updates arrive through that directory.
+- Claude Code: `claude plugin update genealogy-research-recipes@kinprove`. For automatic
+  updates, run `/plugin`, open **Marketplaces**, select `kinprove` and choose
+  **Enable auto-update**.
+- Claude.ai or the Claude desktop app: on the Plugins page, select **Check for updates** on
+  the `kinprove` marketplace, or turn on **Sync automatically**.
+- Hermes Agent: `hermes plugins update genealogy-research-recipes`.
+  Catalog reviews can lag GitHub; if no change is reported, use the latest GitHub release's
+  full commit SHA in
+  `hermes plugins install Kinprove/genealogy-research-recipes --force --ref <full-commit-sha> --no-enable && hermes plugins enable genealogy-research-recipes`.
+- OpenClaw: `openclaw plugins update genealogy-research-recipes`.
+  ClawHub releases can lag GitHub; if no change is reported, reinstall from the repository:
+  `openclaw plugins install git:github.com/Kinprove/genealogy-research-recipes --force`.
+
+Give this note once per conversation, after the answer itself. Skip it when you do not know
+today's date. Do not check for a newer version over the network yourself.
+
+## How to use
+
+1. Match the user's requested output to the most specific recipe below. A task recipe
+   retrieves records, prepares an artifact or carries out a platform workflow; a judgment
+   recipe governs what evidence permits you to infer. If both match, read the task recipe
+   in full and the judgment recipe's rules section. If two or more task recipes remain
+   plausible, ask one focused scoping question before opening more than one task recipe,
+   and wait for the answer before giving that workflow. For example, ask which population
+   and place a 1944 deportation concerns, rather than assuming a particular deportation.
+   For a record-source question, also ask first when a missing locality, period,
+   population or migration destination prevents choosing a concrete source, even if a
+   broad recipe fits. While waiting, give the one question and a brief reason for it;
+   save the source list and research workflow for the reply. "Came from Russia" alone
+   does not establish a modern country, community or destination record system.
+   For a place in Central or Eastern Europe, choose by the state that held it on the event
+   date and by the family's religion, not by today's border. Start with the
+   [Central and Eastern Europe by period state](#central-and-eastern-europe-by-period-state)
+   routers. Elsewhere in the Russian Empire, use the
+   [Orthodox metrical-book recipe](recipes/russian-orthodox-metrical-book-recovery.md) for
+   Orthodox events and the
+   [Jewish metrical-book recipe](recipes/russian-empire-jewish-metrical-book-recovery.md)
+   for Jewish events outside the Kingdom of Poland. For the Kingdom of Poland, and for any
+   Geneteka, Metryki or Szukaj w Archiwach hit, use
+   [Polish index recovery](recipes/polish-index-original-record-recovery.md).
+   For a general question about proof or research method, give a conditional method
+   plan and ask for the context needed to choose actual record collections.
+2. **Read the selected task recipe in full before advising** — the value is in the
+   specifics, not the summary. If a tool returns only part of the file, continue through
+   its remaining sections to the end. For a judgment recipe, read its rules and the
+   sections relevant to the question. A router summary or first page does not complete
+   the task-recipe read.
+   Carry any material source limitation alongside the claim it affects: a search-result extract,
+   unread page or unavailable recording is a lead, not a verified reading. Consult the paired
+   `sources/` file when the claim's support is unclear; attribute an independently read source
+   explicitly rather than treating an inaccessible additional citation as confirmation.
+3. Apply its "never trust / never delegate" boundaries as **hard constraints on your own output** —
+   those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
+   reading a WATO ranking as a verdict, ignoring endogamy).
+4. If no recipe matches, answer normally — don't force-fit. If a matched recipe is silent
+   on the particular question, say what it does not cover and answer normally; do not
+   present the uncovered answer as recipe guidance.
+5. Before any step that uploads, exports, links, publishes, contacts a person, requests a
+   record about a person who may be living, or pastes data into a third-party tool, answer
+   the [privacy gate](#privacy-gate). Recipes mark such steps with a **Privacy gate**
+   checkpoint; the gate applies to unmarked steps of the same kinds too. For a living person,
+   also follow [Living people](#living-people).
+
+## Read source limits
+
+A source marker identifies evidence, not a guarantee that the page was read or that it supports
+every sentence. When relying on a factual passage, inspect its `sources/<recipe-id>.md` sidecar.
+Its provenance ledger joins exact recipe passages to source IDs and records access, dates and
+review status. `pending` records preserve unresolved legacy attribution; do not treat them as
+verified. `unknown` access means the ledger has no reviewed reading record, even when the older
+prose includes a check date. Source prose and its limitations remain relevant.
+
+`[S12 @2026-11-07]` gives the claim's last check date. A dagger such as `[S16†]` marks limited or
+unavailable access: preserve the attributed observation and qualification rather than restating
+it as a verified fact. A partial read supports only its recorded scope. A fresh date or a `read`
+status does not establish that a genealogical inference is correct.
+
+## Privacy gate
+
+Answer these items in writing, in your reply, before the step runs. If any answer is
+unknown, do not move the data: keep it local and tell the user what is missing.
+
+- **People.** Name everyone whose data is involved. Treat anyone who may be living as
+  living. A minor's data needs a parent's or guardian's permission.
+- **Data.** Name the exact fields, files, segments, photos or records. Say explicitly when
+  they show health status, a tentative relationship, unexpected parentage or another
+  sensitive finding.
+- **Destination.** Name the service, tool, person or place the data goes to.
+- **Audience.** Say who can see it there, now and after later setting changes.
+- **Controls.** Inspect the destination's visibility, searchability, matching and export
+  settings and any extension's permissions, and record what you saw and the date. For a DNA
+  database, include whether law-enforcement uploads can match the kit.
+- **Permission.** Get explicit permission from each living person whose data leaves the user's
+  own device or account, or becomes visible to others there (a tree link, a searchable or
+  shared setting), for this action and this destination; an extension or a tool that
+  receives the data counts as a destination. Kit or account access, or permission to analyze,
+  is not permission to move or disclose. A file that stays on the user's own device needs no
+  further permission, but the Retention item applies to it. A private first message that asks
+  a person for permission needs the tester's (or user's) authorization, not that person's
+  prior permission; it may show that person only their own data and the question, never
+  other people's sensitive findings.
+- **Redaction.** Say what you remove or replace before the data moves.
+- **Retention.** Keep exported match lists, segment files and record copies on the user's
+  own device, not in shared folders or other services. Delete them when the research
+  question is answered, unless the tester (for records, the user) asks to keep them.
+- **Jurisdiction.** Ask where the user, the tester and each named person live, and which
+  rules apply there. Data-protection law can apply: genetic data is "sensitive" data under
+  the EU GDPR ([European Commission](https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en))
+  and [UK GDPR Article 9](https://www.legislation.gov.uk/eur/2016/679/article/9); both laws
+  exclude purely personal or household activity, which sharing or publishing can leave (see
+  [family interviews](recipes/family-interviews-and-oral-tradition.md)); U.S. state laws such
+  as California's Genetic Information Privacy Act give rights over genetic data a testing
+  company holds ([California Attorney General](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers));
+  Russia's personal-data law is [152-FZ](https://www.consultant.ru/document/cons_doc_LAW_61801/).
+  Record requests have their own access rules, such as Japan's koseki rule
+  ([koseki recipe](recipes/japanese-koseki-honseki-recovery.md#4-check-eligibility-before-requesting))
+  and the 75-year rule for Russian archives
+  ([Soviet personal files](recipes/soviet-personal-file-recovery.md#5-log-each-catalogue-hit-as-a-candidate-with-its-own-locator)). The destination's
+  terms apply too. Do not state a legal conclusion: ask the user to confirm the rule that
+  applies, or keep the data local.
+
+For DNA data, also apply the consent and redaction rules in
+[AI for DNA research](recipes/ai-for-dna-research.md#verification--privacy-discipline).
+
+### Living people
+
+Stay on the family-history question and the materials the user supplied. Do not look up a
+living person's current address, phone number, email, workplace, online accounts,
+movements or finances, and do not trace minors on the web. Do not use people-search or
+contact-aggregator services. Never use leaked or breached data, another person's account or
+session, or a false pretext. When the question itself concerns a living person (unknown
+parentage, a planned contact), identify them only as far as the question needs and keep the
+data to the minimum.
+
+Contact a living person only through a route the person or the tester already has, the
+testing site's own messaging, or a relative who agrees to pass the message on. The identity
+that must be easy to check is the sender's. Stage a contact about DNA (a DNA match, a kit
+manager, or a relative asked to test or approached about a DNA or parentage question) through
+[DNA match outreach staging](recipes/dna-match-outreach-staging.md). For any other contact,
+such as a cousin asked for a photograph, a record submitter or a donor, apply that recipe's
+consent and disclosure rules and its log, and skip what applies only to DNA tests (a tester's
+agreement, kit pair, site, shared cM).
+
+### Record requests
+
+When a record may be about a living person, request only what the family question needs.
+Never request a record to find a living person or to learn about their present life. Name
+the record's own access rule (closure period, who is entitled, the subject's consent) and
+follow it. Send only the identity and kinship proof the custodian asks for. The Retention
+item and the next rule apply to what arrives.
+
+### Third persons in sensitive files
+
+Informers, witnesses, interrogators and co-accused named in repression, interrogation,
+police or compensation files are not republished, and are not named in a report or tree
+shared with others. Refer to them by role, for example "a witness".
+
+<!-- recipe-catalog:start -->
+## Recipes
+
+Generated from the recipe headers. Full entries give task triggers and the first guardrail.
+The short topic pointers are discovery links; their recipe headers carry the triggers, guardrails,
+capabilities and handoffs. Both tiers require reading the recipe before advising.
+A dated source check is a maintenance reminder, not verification of every claim or live control.
+
+- **`recipes/jewish-archival-list-triage.md`** — Finding Jewish genealogical lists behind archival catalogue titles.
+  Select Ukrainian archival cases for named Jewish lists while separating title, geographical and
+  document evidence.
+  *Use for:* false-positive keywords, generic titles, civil-registration fund scope or candidate
+  lists that have been presented as verified contents.
+  *Core guardrail:* a title or locality signal is a retrieval lead; verify the requested named
+  entries and retain uninspected cases explicitly.
+
+- **`recipes/elib-ukrainian-archive-reference-books.md`** — Recovering and identifying Ukrainian archival guides in ELIB.
+  Retrieve Ukrainian archival guides from ELIB and identify the correct volume, part and fund scope.
+  *Use for:* catalogue-card versus PDF confusion, leading-zero item IDs, keyword misses, similar
+  volume titles or garbled cover-text extraction.
+  *Core guardrail:* verify the actual book; a constructed URL is a retrieval lead, and a historical
+  guide does not establish current case availability or contents.
+  *Dated source check:* 2026-10-18.
+
+- **`recipes/dna-comparison-controls.md`** — DNA comparison controls across services.
+  Reconcile conflicting vendor or native results using exact tests, query controls, local marker
+  coverage and reporting scope.
+  *Use for:* an absent match, raw-file X coverage, PAR/build ambiguity or doubled totals.
+  *Core guardrail:* unavailable inputs and out-of-scope displays are not measured negatives;
+  reciprocal reports are not independent observations.
+
+- **`recipes/archival-image-coverage-verification.md`** — Verifying archival images, case boundaries and search coverage.
+  Verify case boundaries, image order, transcript version and the pages and targets actually
+  inspected.
+  *Use for:* catalogue/cover disagreements, conflicting readings or completeness claims.
+  *Core guardrail:* a finished reading pass, readable copy or indexed case does not establish
+  complete image, target-name or subsection coverage.
+
+- **`recipes/corpus-seeded-name-search.md`** — Corpus-seeded name searches across scripts and OCR.
+  Recover attested spellings across scripts and OCR by separating encoding, orthography and field
+  behaviour.
+  *Use for:* Hebrew/Yiddish name misses, lossy search folds or uncalibrated zero results.
+  *Core guardrail:* normalization is not spelling expansion; preserve originals and treat rescued
+  hits as candidates rather than identity or kinship proof.
+
+- **`recipes/holocaust-testimony-source-interpretation.md`** — Interpret a Holocaust name record through its underlying source.
+  Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement
+  dates.
+  *Use for:* unspecified death circumstances, submitter roles or evacuation conflicts.
+  *Core guardrail:* a memorial database hit is not by itself a death finding; match identities and
+  date roles before combining the timeline.
+
+- **`recipes/russian-military-repression-record-episodes.md`** — Recover separate military and Soviet-repression record episodes.
+  Reconcile WWI/WWII and Soviet-repression records as separate dated source episodes.
+  *Use for:* awards versus loss reports, repeated arrests or copied regional entries, GWAR and OBD
+  Memorial queries, Russian-front WWI prisoners of war, WWII Soviet prisoners of war and occupation
+  victims.
+  *Core guardrail:* administrative dates and alleged events are distinct; a later order does not
+  establish survival and a duplicated index is not independent support.
+
+- **`recipes/genealogy-standards-audit.md`** — Auditing a genealogy research package against professional standards.
+  Audit a dossier, report, proof draft or documented tree by tracing each claim through examined
+  sources and explained reasoning.
+  *Use for:* citation gaps, search coverage, negative-evidence claims, GPS review, dependent
+  conclusions, or choosing a research report, proof statement, summary or argument.
+  *Core guardrail:* a completed checklist does not establish proof; name the inspected evidence and
+  remaining gaps, and leave evidentiary sufficiency to the researcher.
+
+- **`recipes/jewish-genealogy-conditional-hypotheses.md`** — Jewish genealogy: conditional naming, town and DNA clues.
+  Apply working hypotheses to Jewish naming, locality and DNA clues while keeping each proposition
+  separate.
+  *Use for:* proposed parentage, name equivalence, namesakes, naming customs, ancestral towns,
+  conditional branches or segment attribution through an endogamous pedigree.
+  *Core guardrail:* settling kinship does not settle birthplace, namesake or every segment; preserve
+  the premises and dependencies in `recipes/evidence-proof-judgment.md`.
+
+- **`recipes/burial-evidence-packet.md`** — Build a burial evidence packet from cemetery records.
+  Recover a cemetery entry, its photograph or inscription, and the plot and cemetery-record locators
+  needed to inspect the burial.
+  *Use for:* cemetery coverage, surname variants, Hebrew and civil inscriptions, death/burial
+  discrepancies or a database hit that needs a cemetery-record follow-up; names on a Soviet
+  mass-grave plate
+  *Core guardrail:* distinguish death, burial, inscription and database statements; keep missing
+  fields and conflicting observations visible in the evidence packet.
+
+- **`recipes/city-directory-observation-workflow.md`** — Build a checked city-directory observation series.
+  Build a comparable series of city-directory names, addresses and occupations from checked editions
+  and sections.
+  *Use for:* a known address with unknown names, surrounding locality sections, abbreviation keys,
+  index errors, address/occupation changes or a person missing from one directory edition.
+  *Core guardrail:* separate unavailable and uninspected editions from inspected sections with no
+  hit; a gap does not establish a move, death or identity.
+
+- **`recipes/land-index-book-series-recovery.md`** — Recover land instruments through indexes, book series and entry files.
+  Follow a land-record lead through both relevant index directions to the correct instrument and
+  record-book series, or carry a federal patent lead into its separate entry file.
+  *Use for:* grantor/grantee indexes, ambiguous book locators, separate book series, delayed
+  recording, a surname search that missed the alternative index entry, Swedish property-book
+  room/successor references and changed parcel designations, Bavarian property-protocol creators and
+  tax-book identifier/volume handoffs, or cash-sale, bounty-land and homestead supporting packets.
+  *Core guardrail:* copy the original locator, distinguish instrument and recording dates, and
+  report bounded retrieval coverage before interpreting title or kinship.
+
+- **`recipes/probate-case-document-inventory.md`** — Inventory the documents of a probate case.
+  Recover the documents behind a probate index, will or administrator's bond as a case inventory
+  with unresolved leads.
+  *Use for:* probate record series, references to other documents, later actions, non-will
+  proceedings, Swedish court-copy versus heirs-original and poverty-certificate checks, reverse
+  searches from a guardian to wards, or an estate search that stopped at the first useful document.
+  *Core guardrail:* finding a will does not finish the case; retain each document's locator and
+  remaining retrieval gaps, then hand off evidence interpretation.
+
+- **`recipes/us-military-pension-file-recovery.md`** — Recover and inventory a U.S. military pension file.
+  Carry a service clue or pension index card to the appropriate application file and inventory the
+  claim's documents.
+  *Use for:* pension-card identifiers, record custodians, complete versus abbreviated copy products,
+  widow/dependent applications, household and means statements, objections or later claim decisions.
+  *Core guardrail:* distinguish the index, service record, pension file and copy product; preserve
+  original image order beside the claim timeline and explicit missing material.
+
+- **`recipes/irish-catholic-parish-image-recovery.md`** — Recover an Irish Catholic parish entry at the NLI.
+  Carry an Irish Catholic baptism or marriage lead into the NLI parish-register images and locate
+  the actual entry.
+  *Use for:* RootsIreland/Findmypast transcriptions, Catholic parish/register selection, a link
+  opening the register's first page, date browsing or exact image citations.
+  *Core guardrail:* verify the opened route and entry; preserve register and image locators, and
+  keep baptism distinct from birth unless the original records both.
+
+- **`recipes/polish-index-original-record-recovery.md`** — Recover a Polish original from an index or archival description.
+  Recover an original Polish register entry from Geneteka, Metryki or Szukaj w Archiwach, or
+  document the retrieval gap.
+  *Use for:* SKAN links, locality/confession/year/act locators, PRADZIAD descriptions, archival
+  fonds and units, missing scans or alternative holding routes.
+  *Core guardrail:* an index or holding description is not an inspected original; preserve the act's
+  locator and the exact level where access or retrieval stopped.
+
+- **`recipes/rootsmagic-tree-reconciliation-workflow.md`** — RootsMagic: Reconcile a Local Tree with Ancestry and FamilySearch.
+  Reconcile selected facts and sources between RootsMagic, Ancestry TreeShare and FamilySearch.
+  *Use for:* person crosswalks, staged additions/replacements, citation and media transfer,
+  duplicate sources, destination checks or resuming a bounded synchronization batch.
+  *Core guardrail:* review each object and direction, then reopen the destination to verify the
+  saved content; the three trees are not an automatic mirror.
+  *Dated source check:* 2026-10-07.
+
+- **`recipes/wikitree-dna-tester-links.md`** — WikiTree: Link DNA Tests to the Correct Tester and External Kit.
+  Register a DNA test on the actual tester's WikiTree profile and verify its FamilyTreeDNA or
+  GEDmatch link destination.
+  *Use for:* tester/kit crosswalks, external tree links, visibility settings, propagated DNA
+  Connections or pedigree leads needing documentary follow-up.
+  *Core guardrail:* a registered test or tree-derived connection is not a measured comparison or
+  DNA-confirmed relationship; preserve each observation separately.
+  *Dated source check:* 2026-10-07.
+
+- **`recipes/usa-immigration-search-recovery.md`** — Recover U.S. immigration and naturalization records.
+  Twelve historical U.S. immigration workflows: reconstruct journeys, test port, airport and border
+  coverage, recover name variants, pair departures with arrivals, read complete manifests,
+  distinguish detention outcomes, interpret dated verification marks, find naturalizations across
+  courts, check historical citizenship rules, locate federal files and recover broken image links.
+  *Use for:* ship and aircraft passenger lists, Canada/Mexico crossing records, naturalization
+  minute books, C-files, A-files and AR-2 records.
+  *Core guardrail:* preserve the complete image context and actual collection coverage; resolve
+  citizenship rules and file custody for the person's dates before drawing conclusions.
+
+- **`recipes/familysearch-practical-record-workflows.md`** — FamilySearch record recovery and Tree maintenance.
+  Nineteen FamilySearch operations: recover Catalog/DGS holdings and image-only records, preserve
+  view-scoped citations, refine Full Text/Simple Search, recover page references hidden in an
+  assertion’s reason, clean up Source Linker attachments and same-name Tree repairs, share research
+  reports with checked visibility and reader access, recover a missing Memory from an independent
+  copy and record a supported relationship without inventing a parent.
+  *Use for:* FamilySearch howtos, Catalog/film/DGS crosswalks, unindexed images, Full Text or Simple
+  Search, Source Linker cleanup, profile repair and Source Box reuse.
+  *Core guardrail:* inspect actual images and identities; preserve query/view scope; verify report
+  audience and visibility before treating an attachment as shared evidence.
+  *Dated source check:* 2026-10-04.
+
+- **`recipes/russian-empire-emigrant-origin-recovery.md`** — Recovering a Russian Empire emigrant's origin locality.
+  Five workflows for tracing an emigrant from destination records to an exact historical locality:
+  reconcile arrival clues, recover failed name searches, extract complete manifests, follow
+  contact/travel networks, and prepare a locality and archive handoff. Principally 1880–1924 U.S.
+  arrivals, including Canadian transit, across confessions.
+  *Use for:* conflicting arrival years, changing names, missing manifest pages, two contact fields,
+  separate family arrivals, residence/birthplace ambiguity or an unresolved origin town.
+  *Core guardrail:* preserve each person's record and place role; verify linked pages and outcome
+  evidence; direct U.S.-bound Canadian transit does not imply a Form 30A record.
+
+- **`recipes/us-census-practical-workflows.md`** — Practical U.S. census workflows.
+  Ten practical U.S. census procedures: recover households, browse target-year districts, follow
+  1950 revisit sheets, compare pre-1850 age bins, bridge the 1890 gap, extract supplements and
+  family fields, search mortality schedules, follow surname changes, and follow a farm lead into an
+  agricultural schedule.
+  *Use for:* a missing census household, an address without a name hit, sheet 71, tick-mark counts,
+  substitute censuses, sample lines, marriage/children fields, competing child rosters, mortality
+  reporting windows, or formerly enslaved families under different surnames.
+  *Core guardrail:* preserve the original locator and literal observations; keep calculated
+  intervals and proposed identities separate, and route proof rulings to
+  `recipes/evidence-proof-judgment.md`.
+
+- **`recipes/geni-practical-research-workflows.md`** — Practical Geni research workflows.
+  Eight practical Geni workflows: recover name variants, preserve relationship focus, cite facts,
+  choose projects, compare merge candidates, track tree conflicts, create GEDCOM branches and
+  inspect scoped exports.
+  *Use for:* Geni language/alias fields, relationship paths, source documents, public projects or
+  private workspaces, merge requests, unmerge requests, GEDCOM imports and tree reports.
+  *Core guardrail:* preserve profile URLs and dated scope; distinguish tree assertions,
+  source-supported statements, pending requests and completed changes. Draft manager or curator
+  requests for human review, and inspect private content before sharing an export.
+  *Dated source check:* 2026-11-06.
+
+- **`recipes/ancestry-dna-match-investigation.md`** — AncestryDNA: eight practical ways to investigate matches.
+  Eight practical AncestryDNA workflows: use a target's closest relatives, build branch anchor
+  tables, search collateral names, organize groups and notes, correct tester links, audit labels and
+  recover missing match rows.
+  *Use for:* AncestryDNA match investigation, Pro Tools Enhanced Shared Matches, colored dots,
+  linked trees, ThruLines, access-dependent gaps or connecting a match to another testing site.
+  *Core guardrail:* preserve dated access and pair-specific observations; shared matches are clues
+  rather than segment triangulation, and tree paths need documentary verification.
+  *Dated source check:* 2026-10-03.
+
+- **`recipes/myheritage-dna-match-investigation.md`** — MyHeritage DNA match investigation playbook.
+  Nine practical MyHeritage DNA workflows: select the right kit, preserve theories before
+  reassignment, build filtered shortlists, use labels and notes, capture pair-specific shared-match
+  values, compare triangulation subsets, audit theory connections, recover private-tree leads,
+  contact matches and resume dated packets.
+  *Use for:* MyHeritage DNA match investigation, kit relinking, largest-segment sorting,
+  labels/favorites, Shared DNA Matches, Theory of Family Relativity or an investigation follow-up.
+  *Core guardrail:* keep kit identity, access, filter state, pair-specific values and exact
+  comparison sets explicit; an unshown measurement is not zero, and a theory is a path to review.
+  *Dated source check:* 2026-10-03.
+
+- **`recipes/unknown-parentage-wato.md`** — Work an unknown-parentage case with DNA matches and WATO.
+  Placing an unknown person (an unknown parent, an adoptee's bio-parent, an unplaced ancestor) into
+  a tree using DNA matches + WATO odds.
+  *Use for:* "who is my unknown grandfather/father", adoptee bio-family search, WATO hypothesis
+  scoring, clustering matches to an ancestral couple, tied hypotheses, choosing a discriminating
+  tester, or deciding which observations to withhold from a calculation.
+  *Core guardrail:* WATO ranks placements on a tree **you already built**, gives **relative** odds
+  among competing hypotheses (never a verdict), and breaks **silently** under endogamy / pedigree
+  collapse / any multi-path match.
+
+- **`recipes/ai-for-dna-research.md`** — Using AI reliably in DNA genealogy research.
+  Using an AI assistant *reliably* on DNA/genealogy work: what to delegate freely, what to never
+  trust, and the prompt patterns that work. Includes endogamous match prioritization, segment
+  attribution, targeted testing of outmarrying branches, and coherent family comparisons across
+  tested ancestors, siblings and descendants. *Also use for:* "how are these two families
+  connected", multiple related focal testers, repeated descent paths, a long segment in a relative
+  that is shorter/absent in a descendant, mixed-origin segment overhangs, fused clusters, validating
+  a match's own pedigree, or inspecting supplied ethnicity-region maps and AncestryDNA Journeys
+  timelines for locality-search leads.
+  *Use for:* any "can AI/ChatGPT/Claude help me with my DNA / tree / citations", **or** whenever you
+  (the assistant) are about to compute or assert something in this domain.
+  *Core guardrail:* never fabricate cM→relationship odds (route to the Shared cM Project / DNA
+  Painter WATO); every AI output is a **hypothesis to verify**, never a fact to file.
+
+- **`recipes/ydna-mtdna-interpretation.md`** — Interpreting Y-DNA and mtDNA — what a haplogroup or STR/sequence match can (and can't) establish.
+  Interpreting Y-DNA and mtDNA results (a haplogroup assignment, a Y-STR genetic-distance match, an
+  mtDNA sequence match): what each can actually establish about a *genealogical-timeframe*
+  relationship, and where confident interpretation crosses into fabrication. The Y-STR/mtDNA
+  complement to `ai-for-dna-research.md` (autosomal cM).
+  *Use for:* "what does my haplogroup / Y-STR match / mtDNA match mean", "how many generations back
+  is genetic distance N", "does this haplogroup contradiction prove a non-paternity event",
+  differing Y labels, measured versus inferred SNP results, choosing a tester to split an unresolved
+  SNP block, TMRCA disagreement with a dated pedigree, or a pair matching on both autosomal DNA and
+  Y-DNA/mtDNA through potentially different ancestral lines.
+  *Core guardrail:* never assign a haplogroup or compute a GD→generations/TMRCA point estimate from
+  memory (route to FTDNA Discover / TiP report / Match Time Tree, quote a resolution-dependent
+  **range**); an exact match at low resolution is **unresolved**, not recent; a haplogroup
+  contradiction or absent surname-match is a **flag needing corroboration**, never proof of an NPE.
+
+- **`recipes/xdna-phasing-judgment.md`** — X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong.
+  X-DNA matches and visual/parental phasing: what a segment, an X match, or a phased chromosome map
+  can actually confirm or eliminate, and where confident-sounding analysis is actually fabrication.
+  *Use for:* "is this X-DNA match trustworthy", "what's the minimum X cM threshold", "phase my kit
+  against a parent or siblings", "half-sister or aunt", "does this X match rule out a father",
+  reconstructed-kit quality, artificial homozygosity, or interpreting matches to a synthetic kit.
+  *Core guardrail:* never invent a small-segment or X-DNA false-positive rate or cM threshold — cite
+  the specific company/study, since they diverge by design and by pair-sex; phasing reduces but
+  never eliminates pseudosegments on either side; usable X evidence can reject an incompatible
+  non-PAR route, while compatibility alone does not confirm the proposed ancestor.
+
+- **`recipes/ai-for-documentary-records.md`** — Using AI reliably in documentary & records genealogy research.
+  Using an AI assistant *reliably* on DOCUMENTARY / records work (NOT DNA): handwriting
+  transcription & translation, AI full-text / OCR finding aids (FamilySearch Full-Text Search),
+  reviewing & correcting AI-indexed records, evaluating AI record hints, and image restoration /
+  colorization / generation & evidentiary trust.
+  *Use for:* any "can AI/ChatGPT/Gemini transcribe or translate this handwriting", "full-text search
+  for unindexed deeds/probate", "correct AI-indexed records", "evaluate an AI record hint",
+  "colorize/restore an old photo".
+  *Core guardrail:* every AI output is a **hypothesis to verify** against the ORIGINAL image; a bare
+  LLM is not a search engine; never use an AI-restored/generated face for identification.
+
+- **`recipes/evidence-proof-judgment.md`** — Correlating evidence & proving identity — the judgment AI gets wrong.
+  Correlating evidence & proving identity: the judgment an AI gets WRONG when it recites the
+  Genealogical Proof Standard but misapplies it — same-name conflation, conflict- flattening,
+  over-reading a document, negative-evidence errors, DNA/documentary siloing, de-novo fabrication,
+  and sycophancy toward the answer you want. Includes a premise and dependency register for
+  investigating a tentative branch without silently inheriting its assumptions.
+  *Use for:* separating same-named people, resolving conflicting records, weighing indirect vs
+  negative evidence, combining DNA with documents into ONE proof, conditional placements,
+  discriminating hypothesis tests or revising dependent claims — **and** whenever you (the
+  assistant) are about to state a genealogical conclusion.
+  *Core guardrail:* the human owns every ruling (merge/separate, conflict resolution,
+  exhaustiveness, the final "therefore proven"); a provisional link can direct a search without
+  establishing dependent ancestry. The model assembles and drafts but NEVER concludes.
+
+- **`recipes/russian-empire-jewish-identity-attribution.md`** — Name mismatch in a Russian-Empire Jewish family — which branch, and what DNA can still say.
+  A Russian-Empire Jewish ancestor who turns up under a given name, patronymic or surname that fits
+  neither candidate branch: the inverse of same-name collapse (one person, several names), read
+  through the imperial record system — revision lists (ревизские сказки), family lists (посемейные
+  списки), metrical books and recruit files as ledgers of *registration* (приписка), not vital
+  records — with the naming and re-registration mechanisms (double names, head-of-household
+  patronymics, heir naming, stepchild, fostered orphan, levy evasion, son-in-law surname, surname
+  split, conversion) carried as competing hypotheses, and the "prediction must differ" test before
+  any DNA is asked to choose between branches of one endogamous family.
+  *Use for:* "which brother was his father", a boy registered in a relative's household, a wife's
+  child from a first marriage, a family hiding a son from the recruit levy / cantonists, brothers
+  under different surnames, a patronymic that is the grandfather's or the husband's name, a person
+  missing from a revision list, or DNA that "can't tell the two branches apart" under Ashkenazi
+  endogamy plus repeated pedigree collapse.
+  *Core guardrail:* chain the household before you judge the name; find the приписка before you
+  search a town; write which tester's result would DIFFER under the two hypotheses before touching a
+  match list — if none differs, say "undecidable with current testers" and name the tester who would
+  decide it.
+
+- **`recipes/jewishgen-search-family-reconstruction.md`** — JewishGen searches that recover families missed by a name-and-town query.
+  Retrieving JewishGen family records when names, ages, towns or a woman's surname are uncertain.
+  Build explicit name-variant and mixed-field search batches, distinguish registration from
+  residence, and look for wives' natal families or married daughters through children's records and
+  household comparisons.
+  *Use for:* JewishGen exact, partial, phonetic or fuzzy searches; double names and patronymics;
+  conflicting ages or delayed registration; a missing marriage record, unknown maiden name or
+  daughter who disappears under a married surname.
+  *Core guardrail:* verify each collection's field and search-method semantics; a name, age or
+  household match creates a candidate, and a recruitment explanation remains a hypothesis until
+  independent records support it.
+  *Dated source check:* 2026-10-01.
+
+- **`recipes/beider-given-name-variants.md`** — Ashkenazi given-name variants from Beider's indexes.
+  Expanding documentary searches with recorded Ashkenazi given-name forms from the male and female
+  J-Roots Beider indexes.
+  *Use for:* an unfamiliar or approximate Cyrillic given name, compound names, alternate spellings,
+  ambiguous article labels, or documenting a DNA match's family under another name form.
+  *Core guardrail:* when present, query offline with `scripts/lookup_beider_name.py --name` for up
+  to 20 article groups by default, including similar candidates when an exact match exists; then
+  retrieve a selected article's recorded variants with `--key`. Without the helper, use the host's
+  file search on `resources/beider-name-indexes.json` for the exact and separator-normalized
+  spelling, read only matching entries, keep the 20-group bound and state that similar-candidate
+  (fuzzy) search was not available. Never load the whole JSON into the conversation. Comparison
+  ignores spaces and supported hyphens/dashes; keep compound component searches separate.
+  Distinguish unavailable local data from an absent entry. Approximate matches are spelling
+  suggestions, not source-backed synonyms; article membership never proves identity or kinship.
+
+- **`recipes/myheritage-historical-record-search.md`** — Recovering historical records with MyHeritage.
+  Recovering MyHeritage historical records hidden by collection coverage, query fields, name
+  variants, languages or OCR.
+  *Use for:* no-result searches, Collection Catalog, relative pivots, historical jurisdictions,
+  newspaper keywords/OldNews or an index that must lead onward to an original record.
+  *Core guardrail:* diagnose coverage and field meaning before tightening; change one constraint at
+  a time, preserve original text, and treat structured or translated values as search leads.
+  *Dated source check:* 2026-10-03.
+
+- **`recipes/newspapers-com-search-recovery.md`** — Newspapers.com: Recover Notices That Name Searches Miss.
+  Recovering newspaper notices when issue coverage, printed names or OCR hide an ancestor on
+  Newspapers.com. Build a title–holding–issue register first, resolve another holding when coverage
+  is insufficient, then search initials, married names, associates, occupations and addresses and
+  verify the original notice.
+  *Use for:* a failed newspaper name search, an unknown maiden name, a missing obituary, immigration
+  or family-reconstruction leads, title changes, incomplete issue coverage, alternate holdings or
+  unreadable OCR.
+  *Core guardrail:* a page-level hit can join different notices; verify each person, relationship,
+  event date and place in its actual notice. A failed query is not evidence that an event never
+  happened, and a second index of the same newspaper image is not independent corroboration.
+  *Dated source check:* 2026-10-03.
+
+- **`recipes/hebrewbooks-search-recovery.md`** — Recovering HebrewBooks search misses.
+  Recover HebrewBooks names or passages missed by OCR, catalogue spelling or a query that never
+  reached search.
+  *Use for:* Hebrew OCR letter confusions, catalogue versus full-text searches, short mobile
+  queries, inaccessible routes, Shafeh title searches, given-name indexes and viewer versus printed
+  page numbers.
+  *Core guardrail:* distinguish an unsubmitted query or access error from a completed search with no
+  hits. Keep OCR test strings separate from historical names, and record the book ID, viewer page,
+  printed locator and edition separately.
+  *Dated source check:* 2026-11-07.
+
+- **`recipes/ancestry-record-search-recovery.md`** — Ancestry record-search recovery.
+  Recovering archival records missed by an Ancestry search. Diagnose scope and coverage before
+  relaxing dates, places or names; use collection descriptions, original book indexes, census
+  districts and the holding archive.
+  *Use for:* an attached census disappearing from results, narrow Card Catalog matches,
+  birthplace/residence confusion, conservative wildcard batches, name-free searches, book page
+  versus image numbers, enumeration-district browsing, or index-only records.
+  *Core guardrail:* search results generate candidates; a zero-result query does not prove absence,
+  and the original document must support identity before filing a relationship.
+  *Dated source check:* 2026-10-20.
+
+- **`recipes/23andme-match-research.md`** — Working with 23andMe DNA: matches, matrices, segments, and preservation.
+  Twelve practical workflows for 23andMe match research, permitted comparisons, numerical matrices
+  and dated preservation.
+  *Use for:* match worksheets, connection permissions, selected-segment painting, parent-side
+  information, ancestry confidence/history, legacy bucketing, reconstructed ancestors, extension
+  exports/groups, manual shared-match charts, or floating research-tree branches.
+  *Core guardrail:* verify actual access and quantity scope; keep shared-list membership, matching
+  intervals, ancestry estimates and documentary identity separate.
+  *Dated source check:* 2026-10-03.
+
+- **`recipes/ftdna-practical-dna-workflows.md`** — Maintaining FamilyTreeDNA exports and tree links.
+  Eight FTDNA workflows for Matrix observations, paired match/segment exports, duplicate-name joins,
+  MyHeritage tree links, Family Matching and public Y-DNA Group Time Tree, supplied Globetrekker map
+  or two-label comparison packets.
+  *Use for:* Family Finder CSV scope, opaque note handles, selected-match segment files, transferred
+  links that need confirmation, dated parental-bucket inventories, subgroup selections, branch
+  estimates, obscured map nodes, hidden details or authorized project-display checks.
+  *Core guardrail:* reconcile export scope before joining; hold out ambiguous names; confirm each
+  tree link and preserve observed vendor assignments separately from pedigree proof. A selected
+  Group Time Tree view has its own scope; missing or withheld details do not establish an absent
+  lineage, and kit access does not authorize public display.
+  *Dated source check:* 2026-10-03.
+
+- **`recipes/dnapainter-practical-dna-workflows.md`** — Practical DNA Painter maps, matrices and tree worklists.
+  Ten practical DNA Painter workflows: paint measured matches, copy or merge maps of one tester,
+  intersect phased inheritance, calculate provisional missing intervals, combine coordinate spans,
+  plan descendant tests, annotate cluster-derived maps, build direct-ancestor gap worklists, audit
+  numeric pair amounts, and inspect Shared cM histograms and two-value range screens.
+  *Use for:* Paint a new match, map duplication/CSV transfers, Common Segment Generator, Inferred
+  Segments Generator, Distinct Segment Generator, Coverage Estimator, Cluster Auto Painter
+  annotations, ancestral-tree reports, sourced numeric pair matrices, or Shared cM histograms and
+  two-value range screens.
+  *Core guardrail:* verify the people, chromosome copy and genome build; keep measured comparisons,
+  inferred intervals, coordinate unions, pedigree estimates and documentary tree worklists
+  distinguishable. A relationship note does not assign all of a match's intervals; matrix shading
+  does not establish a relationship, and copied names do not supply cM.
+  *Dated source check:* 2026-10-04.
+
+- **`recipes/gedmatch-practical-dna-workflows.md`** — Working reproducibly with GEDmatch.
+  Eight GEDmatch workflows: establish kit/run baselines, follow shortlist entries into direct
+  comparisons, check three-kit cores, bound locus searches, freeze tag/MKA groups, preserve
+  triangulation, and record parental-phasing or Lazarus input groups and generated-kit roles.
+  *Use for:* GEDmatch One-to-Many, One-to-One, match-both, Segment Search, tag groups, Multiple Kit
+  Analysis, Triangulation, parental phasing or Lazarus reconstruction.
+  *Core guardrail:* preserve actual access, thresholds, pairwise intervals and fixed rosters;
+  separate shared-list membership and generated-kit signals from pedigree proof.
+  *Dated source check:* 2026-10-04.
+
+- **`recipes/source-citation.md`** — Source citation record.
+  Preserve a retrievable source record and connect each citation to the evidence it supports.
+  *Use for:* source citations, repository and item locators, layered citations, shortened references
+  *Core guardrail:* Preserve the consulted source layer and a locator that retrieves the actual
+  item; a citation alone does not establish a claim.
+
+- **`recipes/research-documentation.md`** — Research log and report.
+  Preserve searches, results, document numbers and analysis so an investigation can resume.
+  *Use for:* research logs, research reports, NIL searches, coverage and linked next actions
+  *Core guardrail:* Record inaccessible, interrupted and unsearched collections separately from
+  completed searches with no hits.
+
+- **`recipes/rabbinic-literature-person-search.md`** — Search rabbinic and Hasidic literature for a person or a lineage.
+  Find and interpret passages about a Jewish ancestor, rabbinic office or claimed lineage in
+  rabbinic and Hasidic books.
+  *Use for:* rebbe descent traditions, rabbis of a town, responsa, approbations and Hasidic tales
+  *Core guardrail:* A name, office, discipleship or repeated tale does not establish a kinship link;
+  identify the person and independent witness behind each passage.
+
+- **`recipes/agent-research-project.md`** — Running a long genealogy project with an AI agent.
+  Keep an AI agent's genealogy work honest over months: what counts as evidence, how to lay out
+  Markdown research notes, what 'searched', 'saved' and 'done' must mean, how corrections reach
+  every note, and how to delegate and write to a tree safely.
+  *Use for:* running a multi-session genealogy investigation with an AI agent; keeping genealogy
+  research notes in Markdown or Obsidian; delegating genealogy reading to sub-agents; carrying a
+  correction through notes and a tree; research vault; Obsidian genealogy notes; Markdown research
+  notes; the agent says saved or done; sub-agent genealogy research; long genealogy project; keep
+  research across sessions; correct a claim everywhere
+  *Core guardrail:* An agent's own notes, summaries and passing checks are not evidence. Settle
+  every fact on the original.
+
+## More recipes by topic
+
+### Central and Eastern Europe by period state
+
+- **`recipes/galicia-bukovina-habsburg-record-routing.md`** — Route a Galician or Bukovinian record by date, confession and custodian.
+  Route a Galician or Bukovinian event by date, confession and custodian, and decide the army before
+  searching WWI records.
+
+- **`recipes/bessarabia-moldova-record-routing.md`** — Route a Bessarabian or Moldovan record by date, district and bank of the Dniester.
+  Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present
+  custodian, then search ANA fond 211 by opis.
+
+- **`recipes/historic-hungary-record-routing.md`** — Route a record from historic Hungary by county, successor state and record type.
+  Route a birth, marriage, death, census or tax entry from the pre-1920 Kingdom of Hungary by
+  county, successor state and record type.
+
+- **`recipes/austrian-confessional-register-routing.md`** — Route an Austrian or Czech-lands vital event to the confessional register that recorded it.
+  Route an Austrian or Czech-lands vital event to the register that legally recorded it: a
+  confessional register, the 1870 register for people outside a recognised church, or the regional
+  archive that now holds the books.
+
+### Church and civil registers
+
+- **`recipes/us-vital-registration-coverage.md`** — Build a U.S. vital-registration coverage register before calling a birth or death record missing.
+  Build a register of every U.S. birth and death registration authority and series before calling a
+  record missing.
+
+- **`recipes/us-church-record-custody.md`** — Find the custodian of a U.S. church record before calling it missing.
+  Work out the denominational branch, congregation and current custodian of a U.S. church record.
+
+- **`recipes/missing-marriage-jurisdiction-search.md`** — Search candidate jurisdictions for a missing marriage.
+  Replace a marriage missing from the couple's home county with a dated, ranked list of candidate
+  jurisdictions.
+
+- **`recipes/early-new-england-town-records.md`** — Read early New England town books across parent towns and decode Torrey entries.
+  Resolve village names to recordkeeping towns, read early New England town books across parent,
+  daughter and neighbouring towns, preserve foundling narrative fields and decode Torrey's marriage
+  notation.
+
+- **`recipes/quaker-meeting-record-recovery.md`** — Recover a Quaker ancestor from monthly-meeting minutes and removal certificates.
+  Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both
+  removal-certificate series.
+
+- **`recipes/catholic-parish-diocesan-record-recovery.md`** — Recover a Catholic sacramental entry through parish, diocesan and successor holdings.
+  Build a holdings register for a Catholic sacrament across the parish, alternative parishes, the
+  diocesan copy, the successor custodian, dispensation files and Puerto Rican probanzas de soltería.
+
+- **`recipes/catholic-sacramental-cross-notations.md`** — Follow Catholic baptism–marriage cross-notations between parishes.
+  Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another
+  parish.
+
+- **`recipes/hispanic-catholic-register-recovery.md`** — Recover a Mexican or Hispanic Catholic ancestor across parish and civil registers.
+  Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers.
+
+- **`recipes/portuguese-parish-civil-register-recovery.md`** — Recover a Portuguese ancestor in the parish and civil registers of mainland Portugal, the Azores and Madeira.
+  Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books
+  or the civil register.
+
+- **`recipes/brazilian-parish-civil-registry-recovery.md`** — Recover a Brazilian ancestor in parish books, registry-office records and their substitutes.
+  Find a Brazilian baptism, church marriage or burial, or a civil birth, marriage or death entry,
+  and rebuild a family when the parish books are lost.
+
+- **`recipes/french-canadian-register-recovery.md`** — Recover French-Canadian ancestors from combined registers, post and Montréal entries and notarial acts.
+  Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal
+  entries and notarial acts.
+
+- **`recipes/french-belgian-civil-act-extraction.md`** — Extract French and Belgian civil acts field by field.
+  Extract French or Belgian civil acts, trace French marginal continuations and separately
+  maintained copies, and check Paris reconstructions when the original series is unavailable.
+
+- **`recipes/dutch-civil-church-record-recovery.md`** — Recover Dutch civil acts and the pre-1811 church register behind them.
+  Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian
+  agreements; search burial/fee entries under the household head and trace pre-1811 church
+  registers.
+
+- **`recipes/amsterdam-archival-record-recovery.md`** — Recover and read an Amsterdam City Archives register entry.
+  Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register
+  entry.
+
+- **`recipes/scandinavian-parish-record-recovery.md`** — Reconstruct a Swedish household through parish examination and moving registers.
+  Reconstruct a Swedish household through the household-examination, birth, marriage, death and
+  moving registers.
+
+- **`recipes/scandinavian-patronymic-farm-name-record-recovery.md`** — Recover a Scandinavian emigrant's home-parish entries under patronymic, farm and soldier names.
+  Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic,
+  farm and soldier names.
+
+### Country record routing
+
+- **`recipes/italian-stato-civile-parish-record-recovery.md`** — Recover an Italian ancestor in the Stato civile, parish books and conscription lists.
+  Send an Italian birth, marriage or death to the register that was the legal record in that place
+  and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato
+  civile), then search conscription lists and the population register as separate series.
+
+- **`recipes/spanish-civil-parish-record-routing.md`** — Route a Spanish or Andorran record to the archive that holds it on the event date.
+  Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the
+  body that holds it on the event date.
+
+- **`recipes/french-departmental-record-routing.md`** — Route French records by département, creator, series and access rule.
+  Route French civil, census, military, property, notarial, medal, consular, OFPRA refugee and
+  prison records by creator, département, series and access rule; follow cadastral names through
+  mortgage accounts to deeds and historical Paris addresses to property registers; trace
+  Saint-Pierre victim leads to civil records/death judgments and pre-parish town lineages to civic
+  admissions; follow missing Léonore dossiers into published nominations and named prisons through
+  tables to admission entries; distinguish recruitment stages and JMO context, adoption-date
+  references, Basque house-entry names and Breton marriage decrees.
+
+- **`recipes/swedish-military-record-routing.md`** — Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period.
+  Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his
+  type and period.
+
+- **`recipes/australia-nz-record-routing.md`** — Route an Australian or New Zealand record to the holder and window of its date.
+  Route an Australian or New Zealand birth, marriage, death, electoral roll, arrival, newspaper
+  notice, Māori Land Court record or Aboriginal agency file to the holder and date window of its
+  record.
+
+- **`recipes/canadian-provincial-record-routing.md`** — Route a Canadian vital, military or Indigenous-series record to its province, custodian and access category.
+  Route a Canadian vital registration, world-war personnel file, Métis or First Nations record, or
+  British Home Child to the province, custodian and access category of its date and series.
+
+### Irish and British records
+
+- **`recipes/england-wales-gro-index-recovery.md`** — Read England and Wales GRO and FreeBMD index entries as registration observations.
+  Read England and Wales GRO and FreeBMD index entries as registration observations.
+
+- **`recipes/english-nonregister-record-recovery.md`** — Recover English records beyond the parish register.
+  Take an English or Welsh question past the parish register to poor-law, apprenticeship, pre-1858
+  church-court probate, dissenter or Catholic series, and Welsh marriage supplements with house/farm
+  clues.
+
+- **`recipes/uk-census-and-1939-register-interpretation.md`** — Read England and Wales censuses and the 1939 Register under each year's own rules.
+  Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own
+  rules.
+
+- **`recipes/scottish-parish-statutory-record-recovery.md`** — Recover a Scottish birth, marriage or death across parish and statutory registers.
+  Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry
+  and kirk-session records.
+
+- **`recipes/irish-civil-registration-jurisdiction-recovery.md`** — Recover an Irish civil-registration certificate and its jurisdiction chain.
+  Carry an Irish civil-registration index entry or townland lead to the matching certificate and its
+  jurisdiction chain.
+
+- **`recipes/irish-probate-and-deed-recovery.md`** — Recover an Irish will, grant or deed after the 1922 losses.
+  Recover an Irish will, administration or deed after the 1922 losses through the surviving
+  calendars, will books, indexes and the Registry of Deeds, north and south.
+
+- **`recipes/irish-emigrant-origin-locality.md`** — Resolve an Irish emigrant's origin locality from a place statement.
+  Resolve an Irish place named by an emigrant's records or family tradition to a searchable
+  locality.
+
+- **`recipes/irish-land-valuation-occupancy-series.md`** — Read Irish valuation, tithe and estate-rental lists as dated occupancy series.
+  Read Griffith's Valuation, tithe books, valuation revisions and estate rentals as dated occupancy
+  series.
+
+- **`recipes/irish-1901-1911-census-returns.md`** — Search, retrieve and read the Irish 1901 and 1911 census returns.
+  Search, retrieve and read the Irish 1901 and 1911 census returns.
+
+- **`recipes/convict-transportation-record-chain.md`** — Reconstruct a transported convict as a chain of record episodes.
+  Rebuild a transported British convict's sentence as a chain of dated record episodes.
+
+### German records
+
+- **`recipes/german-register-image-recovery.md`** — Recover a German register entry through its locality, record offices and register version.
+  Trace an emigrant's German place name to its church or civil register entry through the locality,
+  record offices and register version; retain distinct named sponsor and proxy roles.
+
+- **`recipes/german-emigrant-origin-sources.md`** — Trace a German emigrant's home town through emigration files, indexes and the parish register.
+  Trace a German emigrant's home town through emigration files, indexes and the origin parish
+  register.
+
+- **`recipes/german-local-census-registration-recovery.md`** — Recover German local census lists and residential-registration entries.
+  Recover German nominal census lists (roughly 1816–1916), residential-registration entries and
+  associated settlement or trade-permission files.
+
+- **`recipes/german-military-record-period-routing.md`** — Route a German soldier to the military series that survive for his period, army and rank.
+  Route a German soldier to the series that survive for his period, army and rank class; recover
+  dated hospital-book episodes when personnel files are missing.
+
+- **`recipes/nazi-era-ancestry-proof-records.md`** — Find and read a Nazi-era ancestry proof as a certified copy of register entries.
+  Find and read a Nazi-era ancestry proof (Ahnenpass, Ahnentafel, certified extracts) and route the
+  search by the role that required it.
+
+- **`recipes/german-official-gazette-notice-search.md`** — Read German official-gazette personnel, expulsion and expatriation notices as dated administrative notices.
+  Read German gazette personnel, expulsion and expatriation notices as dated acts by a named
+  authority.
+
+- **`recipes/german-compensation-file-recovery.md`** — Recover a German compensation file from a Lastenausgleich or Wiedergutmachung index hit.
+  Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it.
+
+### Russian Empire and Soviet records
+
+- **`recipes/russian-orthodox-metrical-book-recovery.md`** — Recover a Russian Orthodox metrical-book entry through the period parish, the consistory copy and its margin notes.
+  Locate and read a Russian Orthodox metrical entry through the period parish, the consistory copy
+  and its margin notes.
+
+- **`recipes/russian-empire-jewish-metrical-book-recovery.md`** — Recover a Russian-Empire Jewish metrical entry through the registering rabbinate and its substitutes.
+  Find the crown rabbinate that registered a Jewish community in the event year, check its book's
+  survival and list named substitutes.
+
+- **`recipes/russian-revision-list-household-chaining.md`** — Chain a Russian-Empire revision-list household across copies, sections and revisions (Urals evidence).
+  Chain a non-Jewish revision-list household across copies, sections and revisions.
+
+- **`recipes/muscovite-census-settler-origin-recovery.md`** — Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books.
+  Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and
+  fugitive-inquiry books.
+
+- **`recipes/russian-estate-registration-status.md`** — Read a Russian-Empire estate label as a dated registration status and choose the series by date.
+  Read a Russian-Empire estate label as a dated registration status and choose the record series by
+  the date it was acquired.
+
+- **`recipes/russian-volost-town-administration-records.md`** — Find household-level series in volost, village-society and town-administration fonds.
+  Find household-level lists in volost, village-society and town-administration fonds when metrical
+  books or revision lists stop.
+
+- **`recipes/old-believer-sectarian-record-recovery.md`** — Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds.
+  Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district
+  and police fonds.
+
+- **`recipes/orthodox-clergy-record-recovery.md`** — Rebuild a Russian Orthodox cleric's career and household from directories, eparchial gazettes and clergy registers.
+  Rebuild a Russian Orthodox cleric's dated chain of posts and household from directories, eparchial
+  gazettes and clergy registers.
+
+- **`recipes/russian-imperial-service-record-recovery.md`** — Recover a pre-1917 Russian official's service list through the employing institution's fond.
+  Recover a pre-1917 official's formulary or service list through the employing institution's fond.
+
+- **`recipes/school-university-record-recovery.md`** — Recover a pupil or student through school, district, copy and later-file layers.
+  Recover a pupil or student across school, educational-district, parallel-copy, yearbook and
+  later-file layers.
+
+- **`recipes/soviet-personal-file-recovery.md`** — Recover Soviet personal files when ZAGS or metrical records are lost.
+  Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are
+  lost.
+
+- **`recipes/russian-orthodox-confession-list-reading.md`** — Read Russian Orthodox confession lists household by household across years.
+  Read Russian Orthodox confession lists by household across years, test ages and names, and check
+  them against revision lists and metrical books.
+
+- **`recipes/russian-household-list-transcription-audit.md`** — Audit a transcription of a Russian confession list or revision list against the images.
+  Audit a transcription of a Russian confession list or revision tale against the images: count the
+  people first, settle glyphs against the same scribe, keep relationship chains, name forms and kin
+  terms as written, and record the image value with its inconsistencies.
+
+- **`recipes/chechen-ingush-1944-deportation-records.md`** — Trace a Chechen or Ingush family through the 1944 deportation and special settlement.
+  Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both
+  names of renamed places and both ends of the exile.
+
+### Censuses, tax, land and property
+
+- **`recipes/canadian-census-interpretation.md`** — Interpret a historical Canadian census entry as a de jure listing.
+  Read a historical Canadian census line as a de jure listing, and browse by geography when a name
+  search misses.
+
+- **`recipes/tax-roll-observation-workflow.md`** — Read tax rolls as a liability-bounded annual series.
+  Read town, township or county tax lists as a liability-bounded annual series for each jurisdiction
+  and tax type.
+
+- **`recipes/deed-content-relationship-clues.md`** — Read deed content as dated relationship, probate, migration and parcel hypotheses.
+  Read a retrieved deed's type, consideration, estate terms, parties, court-bond security recitals
+  and parcel for dated clues to heirship, probate, migration or land identity.
+
+- **`recipes/us-federal-land-entry-file-recovery.md`** — Recover a U.S. federal land-entry case file behind (or without) a GLO patent.
+  Follow a GLO patent, bounty-land number or final-proof notice to the federal land-entry case file.
+
+- **`recipes/marks-and-brands-record-recovery.md`** — Recover a livestock mark or brand registration.
+  Carry a livestock marks-and-brands index entry to the actual registration or a described copy.
+
+### Courts, legislatures, prisons and institutions
+
+- **`recipes/court-case-file-recovery.md`** — Recover a U.S. court case file from its pointer records.
+  Recover a U.S. state or local civil, chancery, divorce, criminal or incapacity case file through
+  the records that point to it, then inventory its loose papers.
+
+- **`recipes/us-federal-court-case-file-recovery.md`** — Recover a U.S. federal court case file.
+  Take a lead to the right federal court for the period, its National Archives record group and
+  index, and the loose case file.
+
+- **`recipes/criminal-court-prison-record-recovery.md`** — Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes.
+  From an arrest, prison or census-institution lead, find the court that tried the case and recover
+  U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to
+  court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish
+  sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy
+  searches.
+
+- **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act and its petition.
+  Recover a state legislative private act, such as a legitimation, name change, divorce or pension,
+  and the petition behind it.
+
+- **`recipes/illegitimacy-record-recovery.md`** — Recover records of a birth outside marriage.
+  Find the bastardy bonds, court proceedings, support orders and church entries that a birth outside
+  marriage could create, and preserve express status statements in apprenticeship instruments.
+
+- **`recipes/institutional-patient-record-recovery.md`** — Recover an asylum or state-hospital patient through custodians, courts and newspapers.
+  Seek asylum or state-hospital records through the custodian, court and newspapers; in Dutch
+  research, check a child's marriage papers and locally described admission correspondence.
+
+- **`recipes/us-period-law-record-reading.md`** — Read U.S. records under the law and legal language of their own place and date.
+  Read a U.S. record's legal words, courts, bonds, and age or inheritance rules under the law of its
+  own place and date, and keep each inference within what that law required.
+
+### Migration and origins
+
+- **`recipes/immigrant-congregation-origin-records.md`** — Find an immigrant's hometown in U.S. congregation records.
+  Find an immigrant's hometown in the registers of U.S. congregations chosen by language community,
+  dates and address.
+
+- **`recipes/surname-distribution-locality-leads.md`** — Rank localities to search from dated surname-distribution sources.
+  Rank localities to search from dated surname-distribution sources for an uncommon surname.
+
+- **`recipes/us-freedpeople-record-recovery.md`** — Trace an African American ancestor across the 1870 boundary.
+  Trace an African American family back across the 1870 boundary.
+
+- **`recipes/british-colonial-slave-registers.md`** — Trace an enslaved ancestor through the British colonial slave registers and compensation records.
+  Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the
+  compensation records.
+
+- **`recipes/chinese-lineage-jiapu-records.md`** — Recover a Chinese emigrant's lineage from character-written names, village and jiapu.
+  Recover a Chinese emigrant's character-written name and ancestral village before searching lineage
+  genealogies (jiapu).
+
+- **`recipes/japanese-koseki-honseki-recovery.md`** — Recover the kanji name and honseki before requesting a Japanese koseki.
+  Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family
+  register (koseki).
+
+### Places, maps, libraries and manuscripts
+
+- **`recipes/historical-place-name-resolution.md`** — Resolve a historical place name to dated, same-named candidates.
+  Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from
+  period gazetteers.
+
+- **`recipes/historical-map-record-recovery.md`** — Recover and read historical maps as dated, copy-specific evidence.
+  Read a fire-insurance sheet, atlas, plat, quadrangle or overlay as a dated observation; trace a
+  detached archival map toward its possible originating case.
+
+- **`recipes/published-book-catalogue-and-full-text-discovery.md`** — Find a published local history, compiled genealogy or family book across catalogues and full text.
+  Find a published local history, compiled genealogy or family book across catalogues and full text.
+
+- **`recipes/periodical-index-search-retrieval.md`** — Search a genealogical periodical index and retrieve the article.
+  Search a genealogical periodical index such as PERSI and retrieve the article.
+
+- **`recipes/manuscript-collection-recovery.md`** — Recover manuscript and archival collections that may mention an ancestor.
+  Find personal, family and organisational papers by context, alternate ledger/daybook labels and an
+  established society's personal-name index; request linked account pages or a complete claim folder
+  with earlier applications.
+
+- **`recipes/local-repository-uncatalogued-holdings.md`** — Ask for a local repository's uncatalogued holdings before reporting a negative.
+  Ask a local library, society or archive about its uncatalogued holdings after its catalogue
+  returns nothing.
+
+### Family papers, photographs and oral history
+
+- **`recipes/family-collection-intake-and-capture.md`** — Take in, capture and hand over an inherited family collection.
+  Take in, inventory, plan the capture of and hand over an inherited family collection of boxes,
+  albums, loose photographs, papers or existing scans.
+
+- **`recipes/family-photograph-attribution-and-dating.md`** — Attribute and date an inherited family photograph from captions, provenance and imprints.
+  Attribute and date an inherited family photograph from captions, provenance and the photographer's
+  imprint.
+
+- **`recipes/family-papers-and-bible-register-dating.md`** — Separate writing, mailing and event dates in family papers and Bible registers.
+  Separate writing, mailing and event dates in letters, envelopes, address books, family Bible
+  registers and inscribed books.
+
+- **`recipes/family-interviews-and-oral-tradition.md`** — Record a family interview or inherited account with its speaker, prompter and chain.
+  Record an interview with a relative, a supplied recording or an inherited story with its speaker,
+  prompter and chain of transmission.
+
+- **`recipes/repository-photograph-collection-search.md`** — Search repository photograph collections by place and subject.
+  Search repository photograph collections for an ancestor, home, shop or community by place and
+  subject.
+
+### DNA workflows and research planning
+
+- **`recipes/admixture-model-run-scope.md`** — Record the run scope before reading a G25, calculator or qpAdm admixture result.
+  Record the run scope of a G25, calculator or qpAdm admixture result before reading it.
+
+- **`recipes/ethnicity-estimate-version-comparison.md`** — Save, date and compare successive ethnicity-estimate versions.
+  Save, date and compare successive ethnicity-estimate versions (AncestryDNA, MyHeritage,
+  FamilyTreeDNA).
+
+- **`recipes/dna-match-outreach-staging.md`** — Stage and draft outreach to a DNA match or untested relative.
+  Stage and draft outreach to a DNA match, a match's account manager or an untested relative.
+
+- **`recipes/descendancy-gap-worklist.md`** — Build a ranked descendancy gap worklist.
+  Turn "research the descendants" into a ranked list of gaps tied to the records each lifespan
+  crosses.
+
+- **`recipes/gedcom-research-export.md`** — Export research findings to a GEDCOM file without changing what they prove.
+  Export research findings to a GEDCOM file, or bring a supplied one into research, without changing
+  what they prove.
+
+### U.S. military service
+
+- **`recipes/us-military-service-type-record-routing.md`** — Route pre-1900 U.S. military service by service type before searching or ruling it out.
+  Route pre-1900 U.S. military service by service type to its own record series and custodian.
+
+- **`recipes/us-civil-war-service-record-episodes.md`** — Read Civil War registration, service cards and unit events as separate episodes.
+  Read Civil War draft registration, service cards, roster remarks and unit events as separate
+  episodes.
+
+- **`recipes/us-20th-century-military-service-reconstruction.md`** — Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction.
+  Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned,
+  thin or restricted personnel file, including state WWI questionnaires and Gold Star family
+  packets, separate court-martial trial files, discharge-gated final pay and award General Orders.
+
+<!-- recipe-catalog:end -->
+
+## What a recipe is (and isn't)
+
+- **Fact-checked.** Each recipe separates independently verified claims from figures reported by a
+  cited source but not independently verified. Honor that line — don't present a source-reported
+  transcript figure (a specific cM number, a percentage) as a rule.
+- **Judgment, not fundamentals.** Recipes carry the non-obvious judgment an unaided answer gets
+  wrong, not the well-documented basics you already produce reliably.
+- **Platform procedures are dated.** Playbooks pair concrete actions with source-linked records.
+  Verify available controls for the selected kit/account and preserve the actual observation scope.
+
+## Attribution
+
+These recipes are original Kinprove-authored distillations, licensed FSL-1.1-MIT (see `LICENSE`).
+Third-party facts and methods are credited in each recipe's `sources/<slug>.md`; any
+reproduced third-party data is carved out in `NOTICE`.

@@ -1,0 +1,291 @@
+---
+id: "ydna-mtdna-interpretation"
+title: "Interpreting Y-DNA and mtDNA — what a haplogroup or STR/sequence match can (and can't) establish"
+summary: "Interpreting Y-DNA and mtDNA results (a haplogroup assignment, a Y-STR genetic-distance match, an mtDNA sequence match): what each can actually establish about a *genealogical-timeframe* relationship, and where confident interpretation crosses into fabrication. The Y-STR/mtDNA complement to `ai-for-dna-research.md` (autosomal cM)."
+kind: "judgment"
+scope: {"platforms": [], "tasks": ["\"what does my haplogroup / Y-STR match / mtDNA match mean\", \"how many generations back is genetic distance N\", \"does this haplogroup contradiction prove a non-paternity event\", differing Y labels, measured versus inferred SNP results, choosing a tester to split an unresolved SNP block, TMRCA disagreement with a dated pedigree, or a pair matching on both autosomal DNA and Y-DNA/mtDNA through potentially different ancestral lines."]}
+triggers: ["\"what does my haplogroup / Y-STR match / mtDNA match mean\"", "\"how many generations back is genetic distance N\"", "\"does this haplogroup contradiction prove a non-paternity event\"", "differing Y labels", "measured versus inferred SNP results", "choosing a tester to split an unresolved SNP block"]
+privacy: "genetic-third-party"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "YDNA-MTDNA-INTERPRETATION-01", "text": "never assign a haplogroup or compute a GD→generations/TMRCA point estimate from memory (route to FTDNA Discover / TiP report / Match Time Tree, quote a resolution-dependent **range**); an exact match at low resolution is **unresolved**, not recent; a haplogroup contradiction or absent surname-match is a **flag needing corroboration**, never proof of an NPE."}, {"id": "Y-01", "text": "A GD is *stochastic*, not a clock (below)."}, {"id": "Y-02", "text": "**you do not compute or assign haplogroups, TMRCAs, or NPE verdicts from your own reasoning.**"}]
+handoff: ["ai-for-dna-research", "dna-match-outreach-staging"]
+checked: "2026-07-18"
+checked_basis: "accessed 2026-07-18"
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool", "upload"], "contact": ["contact"]}
+router: {"tier": "full", "group": "Featured workflows", "order": 27}
+---
+
+# Recipe: Interpreting Y-DNA and mtDNA — what a haplogroup or STR/sequence match can (and can't) establish
+
+## Contents
+
+- Goal
+- The mental model (get this right or everything downstream breaks)
+- Rules of thumb — the resolution → timeframe map (interpretive ceilings, not a tutorial)
+- What to trust vs never fabricate (the four failure modes)
+- When Y haplogroups differ: compare calls, then choose the next tester
+- Prompt-craft (how to keep an assistant honest here)
+- Pitfalls worth internalizing (least-obvious, most-LLM-usable)
+- Keep an ancient-sample catalogue query separate from ancestry inference
+- Inventory lineage and test coverage before choosing another tester
+- Build a maternal pedigree and locality worklist
+- Combining tests: establish which ancestral path each supports
+
+## Goal
+
+Given a Y-DNA or mtDNA result — a **haplogroup assignment**, a **Y-STR genetic-distance match**, or an **mtDNA sequence match** — state what it can genuinely establish about a *genealogical-timeframe* relationship (roughly the last ~500 years, the paper-trail era), and refuse the four places where confident interpretation crosses into fabrication.
+
+## The mental model (get this right or everything downstream breaks)
+
+A haplogroup or a genetic-distance number is a **position on a deep phylogenetic tree, not a relationship estimate.** An LLM recites the inheritance rules and the resolution ladder fluently, then **fabricates a point answer** — a haplogroup, a "generations back" figure, or an NPE verdict — because plausible-sounding phylogenetics is exactly what next-token prediction is good at emitting and bad at being right about.
+
+The anchor case: a tester uploaded their mtDNA to ChatGPT and was **confidently told it was haplogroup A2ex, and that this was also the Anzick-1 haplogroup.** Both wrong. Anzick-1 is **D4h3a** (undisputed — the debunker is a co-author of the reference *Mitotree* phylogeny); D4h3a and A2ex don't share a common ancestor for **~66,000 years** (back at haplogroup L3). The AI ran four pages of authoritative-looking, entirely fabricated detail (it even invented that "ex" means "excluding"). The tester believed it *because* it read fluently. The underlying point, as Roberta Estes has argued: an AI has no capacity to understand the topology or the nuances of a phylogenetic tree — it can only echo back what others have already said about it, whether those statements happen to be right or wrong. (Estes, DNAeXplained, 2026-06)
+
+So: **you do not compute or assign haplogroups, TMRCAs, or NPE verdicts from your own reasoning.** Every such value is a *hypothesis to route to the right tool or corroborate* — never a fact to state. Route haplogroup/tree questions to **FTDNA Discover** (the free, authoritative Y-DNA tree + Mitotree reference), genetic-distance timing to the **FTDNA TiP report / Match Time Tree**, and treat their output as a **range with a confidence band**, never a point.
+
+## Rules of thumb — the resolution → timeframe map (interpretive ceilings, not a tutorial)
+
+What each test level can *bound*, and where confidence collapses:
+
+- **Backbone haplogroup (e.g. R-M269) / a 23andMe or third-party estimate** → resolves **millennia**, not generations: a high-level assignment's MRCA sits **thousands of years back** (R-M269 formed about 6,450 years ago; a 23andMe-level estimate points ~2,000–5,000 years back). Genealogically **inert**: it cannot place a paper-trail-era ancestor, and it is *not* an ethnicity (R1b is common in Europe but not all Europeans are R1b, nor all R1b European). Y and mtDNA haplogroups together capture a *shrinking* slice of ancestry (½ of the grandparents, ¼ of the great-grandparents, ⅛ …), never "your heritage." (Family History Fanatics, 2026-05 [N12 @2026-11-08]; GeneaVlogger, 2026-04 [N3 @2026-11-08]; DNAeXplained, 2026-04 [N11 @2026-11-08])
+- **Y-STR panels — Y-37 and Y-111 today** → give **matches + a genetic distance (GD)**, mapped by the TiP report to a **time range that widens at lower marker counts** [N104 @2026-11-08]. A GD is *stochastic*, not a clock (below). FTDNA stopped selling Y-25 and Y-67 as *new* tests in January 2020 [N96 @2026-11-08]. Its help now says it no longer offers the 12-, 25- or 67-marker levels [N97 @2026-11-08], and its upgrade price list shows no upgrade to Y-67 [N98 @2026-11-08]. Legacy Y-67 kits can still be upgraded [N98 @2026-11-08], and FTDNA's TiP help still shows estimates for every Y-STR matching level from Y-12 to Y-111, Y-67 included [N104 @2026-11-08].
+- **Terminal SNP via Big Y-700** (~23 million Y positions, per DNAeXplained; tests STRs *and* SNPs — SNPs define the branch, and Big Y matches men who carry the same SNPs) → refines the branch, generally into a **genealogical timeframe**; Match Time Tree dates it. It is the test that can separate a recent surname connection from a deep coincidence. (DNAeXplained, 2026-04 [N11 @2026-11-08]; FTDNA, 2026-05 [N6 @2026-11-08]; Rowe-Schurwanz, 2024-08-20 [N26 @2026-11-08])
+- **mtDNA HVR1/HVR2** → a match here has low resolution and tends to point to a more distant maternal ancestor, often **thousands of years back**; on its own it cannot support a recent or geographic conclusion. **Full sequence (all 16,569 positions)** is the refined test — but even a full-sequence match is **still not proof of a genealogical-timeframe or geographic relationship** (where matches live today does not place the shared ancestor [N15 @2026-11-08]; fewer testers [N3 @2026-11-08]). (GeneaVlogger, 2025-09 [N15 @2026-11-08]; DNAeXplained, 2026-04 [N11 @2026-11-08])
+- **STR vs SNP**: SNPs are stable, long-term branch definers; **STRs mutate faster**, and a marker value can step up or down (a 15 becoming a 14 or a 16), so STR closeness is *weaker* evidence than a shared SNP. (Rowe-Schurwanz, 2024-08-20 [N26 @2026-11-08]; FTDNA, 2026-05 [N6 @2026-11-08])
+- **Privacy gate:** <!-- privacy-gate: third-party-tool --> Entering a tester's or relative's STR values into a subclade predictor sends living people's genetic data to an outside tool; answer the privacy gate in `SKILL.md` first.
+- **An STR-based subclade prediction nominates a branch; it does not assign one.** Record the predictor, or the SNP-tested project set whose STR signatures were used, along with the markers, values, tree version and date. Test it against the STRs of a documented same-line relative whose branch was measured by Big Y or sequencing, and compare a second predictor ([predictor comparison](https://genarchivist.net/showthread.php?tid=1806) [N47 @2026-11-08]). A tester who fits no signature stays unresolved ([signature example](https://genarchivist.net/showthread.php?tid=558), partially read [N48 @2026-11-08]); STR instability (see STR vs SNP above) is one reason a signature may mislead. Report the result as predicted until a SNP test confirms it. Agreement at one level does not validate deeper calls, and neither source establishes any tool's accuracy.
+
+## What to trust vs never fabricate (the four failure modes)
+
+### 1 — NEVER emit a Y-STR genetic-distance → generations/TMRCA point estimate
+
+Do **not** say "GD 2 at Y-67 ≈ 5 generations" or "GD 5 at Y-111 means exactly five markers differ." **GD is a score under the comparison's marker rules.** FamilyTreeDNA describes step-wise scoring for most STRs: a difference at one marker can contribute more than one step. Multi-copy STRs use different rules; in its DYS464 example, extra copies can leave GD at zero. Neither GD nor a count of differing markers reconstructs how many mutation events occurred. Back mutations and parallel mutations obscure that history. (Rowe-Schurwanz, 2024-08-20; STR mutation behavior above)
+
+Before interpreting GD, retain the tested panel, the level compared, the reported score and the marker values when available. Compare the shared panel, not one tester's Y-111 results against another's Y-37 label. Apply the reporting laboratory's rules for single-copy markers, multi-copy markers and null/deletion results; an unresolved result is not an allele value of zero. If only the aggregate GD is available, the differing loci and mutation history remain unknown. Do not invent them by subtracting GD from the panel size. (Rowe-Schurwanz, 2024-08-20; comparison synthesis)
+
+The honest output is a **resolution-dependent probability distribution**, which is exactly what FTDNA's **TiP report** (Y-37/Y-111, plus legacy Y-67) and **Match Time Tree** (Big Y-700) produce. Concrete shape: a real TiP estimate of "common ancestor born **1500–1850**" contained the documented truth (**1798**) inside the range; the vendor's single "1650"-type figure is just *the mean of a wide band*, not an answer. (FTDNA, 2026-03; GeneaVlogger, 2026-06)
+
+**Privacy gate:** <!-- privacy-gate: upload --> Entering a tester's legacy Y-STR marker values
+into an outside database or import route moves that tester's genetic data; answer the privacy
+gate in `SKILL.md` first.
+
+For an authorized legacy paper result, retain the report and its tester, laboratory, assay
+and panel beside any manual reconstruction. Check each available marker label and value
+against that source before using an offered entry/import route; leave unreadable or unmapped
+fields unresolved. Date and attribute the reconstruction: it represents the old assay, not a
+new test or independent confirmation. The [paper-result recovery example](https://familylocket.com/recreating-a-y-dna-surname-project-at-mitoydna-org/)
+does not supply a current import format or a cross-laboratory conversion.
+
+For several kits, retain the full STR table and make a separate working view of comparable
+marker columns with observed differences. Carry kit/locus labels, panel coverage and unresolved
+or multicopy calls; a missing call is not an observed equality or zero allele. Use that view
+to nominate a locus or source discrepancy for checking. The [difference-view example](https://www.yourdnaguide.com/ydgblog/ydna-for-genealogy)
+supplies the filtering action; the view does not root a tree, count mutation events or identify
+a father or MRCA.
+
+Before computing GD across sources, label each STR value's origin and convention. It may be a laboratory panel value (with date), a value extracted from sequencing data, a copied database or certificate entry, or a typical value filled in for a missing marker. Laboratories can number the same marker differently ([cross-database entry discussion](https://forum.molgen.org/index.php/topic,3315.0.html); [laboratory-panel discussion](https://forum.molgen.org/index.php/topic,15097.0.html)). One laboratory announced renumbering that would make earlier certificates disagree with its website ([nomenclature announcement](https://forum.molgen.org/index.php/topic,125.0.html)). Convert a value only where the laboratory or target tool documents the rule, and keep original and converted values side by side. If an extracted value and a panel value disagree, keep both and mark the marker unresolved ([extraction comparison](https://forum.molgen.org/index.php/topic,10934.0.html)). Compare only markers both sides report. For a manual comparison, sort multi-copy values in ascending order without replacing the laboratory's rules ([multi-copy display case](https://genarchivist.net/showthread.php?tid=2477)). A numbering offset, an imputed value or a display-order difference is never a mutation or a GD step.
+
+- **Trust / route:** the TiP report or Match Time Tree, quoted **as a range that widens at lower marker counts**. Recommend upgrading Y-37→Y-111→Big Y-700 to *narrow* it.
+- **Never:** a self-computed point estimate, or treating the vendor's midpoint as the relationship.
+
+#### When TMRCA conflicts with a dated pedigree
+
+**Investigate the disagreement before excluding the pedigree.** In FamilyTreeDNA's 2022 Stewart example, the documented birth date fell outside the original 95% confidence interval; revised dating brought the estimate close to it. This illustrates model error, not permission to dismiss an inconvenient genetic result. The same technical account describes branch-specific rates and coverage adjustments: a fixed number of years per SNP cannot reproduce those estimates. (FamilyTreeDNA, 2022-09-19)
+
+Record the dated tree node or tester pair, interval and confidence level, estimator, report date and available model/version information. Check that the estimate and documentary date refer to the same proposed ancestor, and inspect the descent paths. For a Big Y or SNP-tree estimate, inspect informative SNP calls and relevant sequence coverage. For an STR/TiP estimate, recheck the shared panel, marker values, laboratory GD scoring and retained report inputs described above. Compare an updated estimate with the retained earlier report. If disagreement persists, seek qualified review of the dating and pedigree evidence. Do not tune a mutation rate to fit the preferred ancestor or silently discard either result. This procedure combines the dating example with the STR and SNP comparison checks in this recipe.
+
+Label every branch age you quote. Say whether it is a formed age (the split from the parent) or a TMRCA (the common ancestor of the men sampled so far), and name the tree and the date consulted. A [formed-versus-TMRCA discussion](https://forum.molgen.org/index.php/topic,7976.0.html) describes a branch formed about 14,000 years ago whose two testers share an ancestor about 2,700 years ago. Keep both values for each node, as in a [branch-date chain check](https://genarchivist.net/showthread.php?tid=2085). Do not substitute one for the other. Do not set provider and paper figures side by side until both date the same event and node ([D0 dating comparison](https://genarchivist.net/showthread.php?tid=1069); [formed-versus-TMRCA exchange](https://genarchivist.net/showthread.php?tid=760)). If a TMRCA interval is older than the branch's own formed interval, flag it as a display or data problem ([age-interval report](https://genarchivist.net/showthread.php?tid=179)). A formed age is not the age of the tester's closest tested relative, and where an MRCA lived is not where the branch arose. A TMRCA can move when another tester joins.
+
+### 2 — NEVER read an exact match at low resolution as "recent"
+
+A **GD-0 at Y-37**, or an **HVR1/HVR2 mtDNA match**, is frequently a **ceiling artifact**: the panel has run out of resolution, so "identical" only means "indistinguishable *at this level*," and the shared ancestor can be **deep-time**. An exact Y-37 match can sit thousands of years back; the same pair often shows real genetic distance once tested at Y-111 or Big Y-700. Upgrading routinely makes **distant, irrelevant "matches" disappear** as the allowed-difference thresholds tighten — in one real Schultz project, 37-marker matches (closest still 3 steps away) vanished entirely at 67 and 111. (Your DNA Guide, 2025-10; GeneaVlogger, 2026-04; Family Locket, 2024-01)
+
+- **Trust:** "exact at low resolution ⇒ *unresolved*, could be recent or ancient — upgrade to find out." For mtDNA, only the **full sequence** is worth interpreting, and even then not for recent/geographic claims. A Romanian mtDNA peak that also lights up Hungary may just be a **sibling line** — there is little you can reliably conclude from it. (GeneaVlogger, 2025-09)
+- **Never:** "you match exactly, so you're closely related," or an mtDNA HVR/region match as evidence of a specific place or recent maternal ancestor.
+
+Do not turn a full-sequence mtDNA GD0 or GD1 into centuries with a mutation rate. The lower bound is zero. The upper bound depends on the youngest branch containing both sequences, judged against all available sequences of that subclade ([common-ancestor discussion](https://forum.molgen.org/index.php/topic,2742.0.html); [full-sequence example](https://forum.molgen.org/index.php/topic,2548.0.html)). Several exact matches in one region on a widespread ancestral type with no private mutations may be independent lines, not one founder line. Record each match's own test level and compared regions beside its label. An HVR-level match shown to a full-sequence tester may never have tested the coding region. A project table of HVR values cannot show that a coding mutation is absent ([match-list discussion](https://forum.molgen.org/index.php/topic,936.0.html)). Count matches separately at each level. A subclade missing among HVR1-only matches tells you nothing ([match-count example](https://genarchivist.net/showthread.php?tid=1141)). The rates and year figures in these threads are forum estimates from one database; do not reuse them, and no frequency threshold is given.
+
+If the purchased Y-STR level shows no matches, view the match list at a lower comparison level
+before concluding that no paternal-line relatives have tested. Record which level produced each
+match. A different-surname match seen only at a lower level remains unresolved as recent or ancient.
+Check its actual panel coverage and available higher-level results, and compare the documented
+places of origin of both surnames as one lead. The
+[brother's Y-67 example](https://www.youtube.com/watch?v=0c9tQzocXZs) motivates this check. A
+shared region of origin does not establish when or how the lines connect, and such a match does
+not identify a recent family.
+
+Treat absence from one match list as a bounded negative. A branch member can be missing from Big Y matches yet appear in the Block Tree ([match-list exchange](https://genarchivist.net/showthread.php?tid=432)). STR-only and Big Y testers may not see each other ([project case](https://forum.molgen.org/index.php/topic,2675.0.html)). Another tree or service can hold testers who uploaded only there ([two-tree discussion](https://forum.molgen.org/index.php/topic,15097.0.html); [cross-service discussion](https://genarchivist.net/showthread.php?tid=895)). A man who never tested a level drops off that level's list, and a pair near a threshold can vanish at one level and reappear at another ([threshold case](https://genarchivist.net/showthread.php?tid=2647)). For each pair, record the levels both men tested, the GD at each and the lists where each appears. In public STR databases, classify each exact hit as a tester, a published-study sample or a modal haplotype before counting it ([database discussion](https://forum.molgen.org/index.php/topic,3315.0.html)). A modal hit means only that the haplotype is common. The match thresholds quoted in one thread are a poster's unverified statement, not current vendor documentation, and a reappearance does not date a common ancestor.
+
+### 3 — NEVER treat mtDNA genetic distance as a clean, linear closeness ranking
+
+A mtDNA **genetic distance (GD)** count is not the even measuring stick it looks like. FTDNA's full-sequence matching allows **up to 3 differences** (heteroplasmy included) but **completely excludes the poly-C insertion positions 309 and 315** from the GD count (a 309.1C/315.1C difference never registers) — and, by community/historical convention, the 522/523 deletions. Haplogroup trees use **separate** exclusion lists: some fast-mutating positions are left out of tree building because they are too unstable to define a branch, but they **still count toward GD**. The two published tree lists differ. PhyloTree Build 17 excludes 309.1C, 315.1C, the AC indels at 515–522, 16182C, 16183C, 16193.1C and 16519. FTDNA's Mitotree list (its mtDNA Discover™ Scientific Details help) excludes positions including 16182, 16183, 16193.XC and indels between 513 and 522, but not 16519. Do not confuse the GD list with the tree lists: only 309/315 (plus 522/523 by convention) are GD-*excluded*; 16519, 16182, 16183 and 16193.1C remain counted in the match's GD number. (FamilyTreeDNA Help Center, "mtDNA Matches Introduction" and "Using the mtDNA Discover Scientific Details Page"; PhyloTree Build 17; Estes, DNAeXplained, 2016-06-29)
+
+Because the GD figure hides *which* positions produced it, a lower number is not automatically the closer relationship: **a GD1 or GD2 match whose counted differences fall on unstable, fast-mutating positions can be just as genealogically close as — or more relevant than — a "matching" GD0**, since a fast position mutating is a cheap, low-information difference, whereas a difference at a *stable* position weighs far more heavily as a real divergence signal. A "matching" GD0 is identical only *across the counted positions*: a genuine difference at an *excluded* position (309/315, or 522/523 by convention) simply never registers, so GD0 isn't proof of whole-molecule identity. In one documented maternal-line case, the mutations separating two cousins sat in unstable regions, so a GD1 or even GD2 was judged potentially as relevant as an exact match — which positions differ, not the count, decided it. (Estes, DNAeXplained, 2022-05-22)
+
+- **Trust:** treat GD as a **starting filter, not a ranking** — before calling one match "closer" than another, name which specific positions produced each count: a difference on a *stable* position weighs heavily, a difference on a fast-mutating position (16519, etc.) weighs lightly and doesn't rule out a close relationship, and an *excluded* position (309/315, 522/523 by convention) can hide a real difference behind an apparently exact GD0.
+- **Never:** rank matches by raw GD alone ("GD0 beats GD1"), and never list 16519, 16189, or 16193 as GD-*excluded* — a haplogroup tree list may leave some of them out, but they still count toward the GD number; only 309/315 (and, by convention, 522/523) are excluded.
+
+Record an mtDNA haplotype-cluster label separately from the haplogroup, the GD and the documented maternal descent. Use it to narrow a long match list for review, not as the boundary of close kin. FamilyTreeDNA's explanation, quoted in a [haplotype-cluster discussion](https://genarchivist.net/showthread.php?tid=1508), says cluster signatures can include fast-mutating and personal markers. In a [cluster-versus-pedigree report](https://genarchivist.net/showthread.php?tid=1161), testers reported to share an early-1800s maternal ancestor fell on opposite sides of a cluster at GD0 and at GD1. Check excluded matches against the documented pedigree. Neither thread describes the clustering method.
+
+### 4 — NEVER assert a non-paternity event (NPE) from a haplogroup contradiction or absent surname-matches
+
+A haplogroup/terminal-SNP that **contradicts** the documented paternal line, or an **absence of surname-matching Y-testers**, is a **FLAG that needs corroboration — never PROOF of an NPE.** *(This is the Y/mt-specific instantiation of flag-vs-proof; it is not the general proof-standard lesson.)* Competing explanations that produce the identical signal:
+
+- **Relevant descendants simply never Y-tested.** So few men Y-test that you can have many autosomal-confirmed same-surname cousins and *still* no Y-match — the host knows (via autosomal DNA, conclusively) he descends from Goldbergs, yet **not one Goldberg cousin has Y-tested**, so his own Y-haplogroup looks "disconnected." Absence of a co-tester is also just a **"haplogroup in waiting"** — a private variant needs a *second* tester before it forms a branch. (GeneaVlogger, 2026-05; DNAeXplained, 2026-04)
+- **A sequencing / read-interpretation error, or a newly-defined SNP** re-shuffling the assignment. (GeneaVlogger, 2026-05)
+- **Same-name-different-man, a stepparent/illegitimacy on a *different* generation than assumed, or a surname that predates hereditary surnames.** The Woodall project split one presumed family into **four** groups: one carried the surname via his *mother* (illegitimacy), one had a Native American paternal line, and two descended from different 1600s sons with different haplogroups — and the project could not tell whether the cause was misattributed paternity, a stepparent situation, or simply two different men who shared the same name. (Legacy Tree, 2026-01)
+- **Privacy gate:** <!-- privacy-gate: contact --> Asking another son of the same father, or other documented male-line relatives, to take a Y-DNA test approaches living people about a paternity question; answer the privacy gate in `SKILL.md` before contacting them.
+- **A laboratory sample mix-up, or a documented name change.** Before reading a surprising Y result as an event, consider a replicate on a separate kit or a test of another son of the same father ([close-relative testing discussion](https://forum.molgen.org/index.php/topic,14692.0.html)). Record both kits and their results. Agreement shows only that the result reproduces for that sample source. Disagreement between two kits from the same man points to sample handling; between brothers it leaves both handling and paternity open. Also search for a record that would explain a surname change, such as a child registered under a stepfather's surname after the mother remarried, or a clerical misentry that was later kept ([surname-change discussion](https://genarchivist.net/showthread.php?tid=1838)). Keep legitimacy and biological paternity in separate fields. A man named in a baptism, or a husband who married the mother shortly before a birth, is a documentary attribution, not genetic confirmation. The rates quoted in the surname-change thread are not used, and neither thread shows which pathway applies to a given line.
+- **A break in the matches' line, not yours.** When many Y matches share a different surname, the event may sit in their common ancestor: a misattributed or unknown parentage there put that surname on a paternal line shared with yours. To locate a break, target-test documented male-line relatives who descend from your proposed paternal ancestors at different generational depths; the pattern of matches brackets the generation or points to another explanation. A non-match with one cousin leaves the break on either man's path below their shared ancestor, so test another descendant of that ancestor before assigning it to your line. (Legacy Tree, 2023-01-04)
+
+Base rate cuts **both** ways: a commonly-cited **~5% per generation** misattributed-paternity estimate (a rule-of-thumb; formal studies usually land lower, ~1–2%) means a *deep* paper trail almost certainly contains a break **somewhere** — so a contradiction is *plausible* — but that same statistic **cannot tell you which generation**, so it never localizes the event. (Legacy Tree, 2026-01)
+
+**Privacy gate:** <!-- privacy-gate: contact --> Asking a known male relative or additional direct-line descendants to test approaches living people about a possible parentage break; answer the privacy gate in `SKILL.md` before contacting them.
+
+- **Stronger corroboration (upgrades a flag toward a finding):** (a) a **known male relative who Y-tested and does *not* match you** — a genuine red flag; (b) the non-surname match also being a **close autosomal (Family Finder) match** ⇒ recent connection, investigate; (c) **Big Y** to date *when* the branch/surname split occurred; (d) testing additional documented direct-line descendants to confirm or eliminate. (Your DNA Guide, 2025-10; GeneaVlogger, 2026-05)
+- **Never:** "your haplogroup doesn't match your surname line, so there was an NPE," or "no one with your surname matches, therefore NPE."
+
+## When Y haplogroups differ: compare calls, then choose the next tester
+
+**Resolve what differs before calling it a paternal-line contradiction.** Work from each tester's documented male-line descent and actual results, using this comparison sequence.
+
+1. **Compare the connected branches, not the labels alone.** Record the test type, reported assignment and tree/date. A broad assignment can contain a relative's downstream branch. Estes also describes a father and son who both sequenced: a new variant inherited by the son's descendants produced a younger named branch without breaking their paternal relationship. Different labels can therefore persist even at the same test level. Trace the actual connection; vertical screen position is not ancestry. (Estes, 2024-05-02; Rowe-Schurwanz, 2024-07-02)
+2. **Build a per-SNP table before excluding a branch.** For each informative variant, retain the report's positive, negative, no-call or untested state and distinguish **measured** from **presumed from the tree**. A tree-inferred negative is not an independent measurement confirming that placement. An omitted row is initially unknown: FamilyTreeDNA's documented haplotree view can omit downstream Big Y negatives that are available in the detailed results. Inspect those results before treating the omission as untested or negative. No-call means no resolved result, not an ancestral allele. Preserve coverage/quality information and reconcile variant identifiers and coordinates before comparing. (Rowe-Schurwanz, 2024-07-02; 2024-09-05)
+3. **State the remaining conflict at the right level.** Compatible placements do not by themselves establish the specific relationship; reliable incompatible lineage-defining calls require sample, calling and pedigree checks. A single newly acquired downstream variant is not equivalent to belonging to an incompatible paternal lineage. Route a disputed call for qualified review or suitable confirmation; do not turn a display discrepancy into a localized NPE. (Estes, 2024-05-02; comparison synthesis)
+
+The output is **tester → documented path → test/tree → SNP → reported state → measured or inferred → unresolved check**. Keep the source report so a later tree update does not overwrite what was observed.
+
+**Weigh each call before it places, excludes or links.** Some markers listed as a branch's equivalents also read derived outside it, so require a reliable equivalent or a downstream variant. An ancestral read at a false-negative-prone SNP is a weak exclusion. Ancestral calls at sibling subclades leave the last one likely, not proven ([equivalent caution](https://genarchivist.net/showthread.php?tid=1590); [sibling-elimination discussion](https://genarchivist.net/showthread.php?tid=86)). For each negative used to split a block or set a basal node, record its read count and quality, and inspect the reads ([read list](https://genarchivist.net/showthread.php?tid=1497); [low-quality negative](https://forum.molgen.org/index.php/topic,10534.0.html)). Convert coordinates to each file's build before reading a state, and resolve SNP names by position ([build example](https://genarchivist.net/showthread.php?tid=2491); [naming exchange](https://genarchivist.net/showthread.php?tid=318); [position comparison](https://genarchivist.net/showthread.php?tid=275)). A variant shared with an incompatible haplogroup, or any single shared mutation, may be a recurrence, not a link ([shared-mutation explanation](https://genarchivist.net/showthread.php?tid=1161); [incompatible-haplogroup recurrence](https://forum.molgen.org/index.php/topic,10534.0.html)). Take unreliable markers from the tree, not from memory. No source gives a read-count threshold; the mapping-quality ≥30 filter in the build example is one replier's choice, not a standard.
+
+### Choose a tester who can split the unresolved SNP block
+
+**Name the question before recruiting.** Several equivalent SNPs share a block because the available results have not resolved their order. They are distinct variants, not interchangeable names for one mutation. Do not distribute them among successive named ancestors from their display order. (Rowe-Schurwanz, 2024-07-02)
+
+**Privacy gate:** <!-- privacy-gate: contact --> Recruiting a male-line cousin as a tester means contacting a living person about Y-DNA testing; answer the privacy gate in `SKILL.md` first.
+
+- **Naming shared variants and ordering them are different gains.** A close patrilineal relative may establish that private variants are shared, allowing placement on the tree while leaving them together in one block. To resolve an older split, seek a documented male-line descendant through another son of the relevant ancestor; the useful result would separate shared upstream variants from downstream ones. Choose an assay that can resolve the relevant sites. Such a cousin creates an opportunity for a split, not a guarantee. (Rowe-Schurwanz, 2023-11-22; selection synthesis)
+- **Read a proposed split against the calls.** Positive results for some block variants and reliable ancestral results for others can support subdivision. No-calls cannot supply the negative half. Even a supported split does not by itself identify the named man in whom each mutation arose. (Rowe-Schurwanz, 2023-11-22; 2024-09-05)
+- **An unchanged label is not a failed experiment.** Inspect the variant evidence. It may add shared variants without resolving their order, or leave the placement unchanged. FamilyTreeDNA describes tree refinement as evidence-driven aggregate analysis; do not promise every kit an individual manual review followed by a changed haplogroup on a fixed schedule. (Rowe-Schurwanz, 2023-11-22)
+
+### Keep predeceased sons in the tester worklist
+
+Before closing a candidate Y-DNA branch because an obituary names no surviving son, compare
+the notice with the documented child roster. Check whether a son who died earlier left sons,
+and trace the relevant male-line descendants with evidence for each parent-child link. For a
+living descendant, record only name, parents and place in the family; do not look up current
+contact details, and stage any contact through
+[DNA match outreach staging](dna-match-outreach-staging.md). Leave unexamined branches unresolved. The [historical obituary demonstration](https://www.youtube.com/watch?v=Ff_n37xMPbA)
+motivates this roster check; it does not establish a living tester or the reported descent.
+
+## Prompt-craft (how to keep an assistant honest here)
+
+1. **Assign nothing; route it.** For any haplogroup/tree question, output "check FTDNA Discover / Mitotree" — do **not** name a haplogroup or its meaning from memory. (The Anzick failure is precisely a from-memory assignment.)
+2. **Separate GD from loci, events and time.** State the compared panel and scoring rules; never infer the number of differing markers or historical mutations from GD alone. For "how many generations?", use the report's resolution-dependent range, not an invented conversion or a single date.
+3. **Name the resolution ceiling before interpreting a match.** First establish the Y-STR level (Y-37, Y-111, or legacy Y-67) vs Big Y-700, or mtDNA HVR vs full-sequence — the same match means different things per level; interpreting without the level invites the exact-match-is-recent fabrication.
+4. **Name the positions before ranking mtDNA matches by GD.** Don't call a GD0 "closer" than a GD1/GD2 without checking which positions produced each count — a GD1/GD2 whose differences sit on unstable/fast-mutating positions can be as relevant as a GD0, whose own apparent exactness can just as easily hide a real difference at an *excluded* position (309/315, 522/523 by convention) that never entered the count. Never state 16519 (or 16189/16193) as GD-excluded — a haplogroup tree list may leave some of them out, but they still count toward GD; only 309/315 (and 522/523 by convention) are excluded.
+5. **Force the alternative-explanations list before any NPE language.** If a contradiction/absence appears, enumerate untested-descendants, sequencing error, same-name, wrong-generation, pre-surname — *then* ask what corroboration exists. Use "flag / needs corroboration," never "proves."
+6. **Separate the STR-surname question from the SNP-branch question.** Surname clustering (STR projects) answers "who might share a recent paternal line"; terminal SNP / Big Y answers "how recent." Don't let one stand in for the other.
+7. **For differing Y labels or a proposed branch split, request the per-SNP table above.** Separate measured calls from tree inferences; state whether the next tester could name a shared variant, resolve its order, or only check a recent transmission.
+8. **For a date conflict, retain both accounts.** Request the dated node/pair, interval, report version and documentary descent; distinguish incompatible variant evidence from a disagreement with a dating model.
+9. **For a match across test types, name the path each result supports.** Do not attach the autosomal connection to the Y/mt line solely because the same pair matches on both tests.
+10. **Every output is a hypothesis to verify** against the actual vendor tools, autosomal DNA, and documents — the shared spine with `ai-for-dna-research.md`.
+
+## Pitfalls worth internalizing (least-obvious, most-LLM-usable)
+
+- **Fluency ≠ correctness on phylogeny.** An LLM will emit a clean, wrong haplogroup story (Anzick/A2ex) and *argue* when corrected. Professional-looking output invites unwarranted confidence — that's the danger, not a tell.
+- **Surname timing traps.** "Different surname ⇒ NPE" ignores that hereditary surnames were adopted late and unevenly — as recently as the **1930s** in some regions; Dutch not standardized until **1811**; Normandy by the 14th c. (the 1539 Ordinance of Villers-Cotterêts then required priests to record surnames in parish registers — it fixed name *recording*, it did not mandate hereditary surnames). A shared paternal ancestor may simply predate surnames, or a surname was government-assigned for taxation/conscription. Compare the estimated MRCA date to *when surnames were adopted in that region* before reading a mismatch as an event. (FTDNA, 2026-03/2026-05; GeneaVlogger, 2025-09/2025-12; DNAeXplained, 2026-05)
+- **Third-party autosomal-derived haplogroups aren't Y/mt tests.** A haplogroup inferred from autosomal raw data is high-level and can be **thousands of years off** the tester's true paternal-line MRCA — don't treat it as equivalent to an actual Y-DNA/mtDNA result. (GeneaVlogger, 2025-09/2026-04)
+- **A chip-derived Y terminal shows where the chip's SNPs stop.** Record the vendor and chip version, or mark it inferred or unknown. Sort each downstream branch marker into tested-negative or absent from that version, searching equivalent names too. Only a tested-negative excludes a subclade. A SNP discovered after the chip was designed will not be on it under that name, though an equivalent at a probed position may still be callable ([chip-version discussion](https://genarchivist.net/showthread.php?tid=1160); [array discussion](https://genarchivist.net/showthread.php?tid=275); [chip-panel discussion](https://genarchivist.net/showthread.php?tid=2610)). Look up the raw call for each assigning SNP, and check any assigning SNP that recurs on another branch. A positive that conflicts with a positive on a sibling branch is a probable bad probe ([raw-call check](https://genarchivist.net/showthread.php?tid=754)). Two predictions from one file conflict only if neither is upstream of the other ([caller discussion](https://genarchivist.net/showthread.php?tid=2292)). A second classifier on the same file checks consistency, not correctness ([raw-data check](https://genarchivist.net/showthread.php?tid=2632)). Never fill in a subclade from an AI guess; a downstream share among upgraded testers is a population estimate, not this tester's result. The community SNP lists remain unverified.
+- **Phylogenetic trees and migration maps are tester-dependent.** Branch definitions and dates differ between platforms, and geography tools (e.g. Globetrekker) mislead when few relevant men have tested — more testers can substantially shift the inferred geography. Never present the current tree as fixed truth. (GeneaVlogger, 2026-05; DNAeXplained, 2026-05)
+- **A label string is not a clade.** Keep each haplogroup label with the tree or tool that assigned it, its version or date, its input, and the point where assignment stopped. Do not silently replace a vendor label with a deeper third-party one ([clade-finder example](https://genarchivist.net/showthread.php?tid=367); [archived-read re-call](https://genarchivist.net/showthread.php?tid=32)). Long-form and longhand names are renumbered between releases. A proposed name can also coincide with a vendor name for a different clade. So compare defining variants, and anchor on the source's SNP-named label ([nomenclature discussion](https://genarchivist.net/showthread.php?tid=96); [longhand discussion](https://genarchivist.net/showthread.php?tid=2317); [name collision](https://genarchivist.net/showthread.php?tid=1236)). Keep a generated or unsourced name-to-SNP mapping unresolved. A shallower label in a second database may only mean it lacks another carrier of the downstream variant. Check the first provider's SNP results before calling it a conflict, and do not promise an update ([cross-database exchange](https://genarchivist.net/showthread.php?tid=6)). None of these sources validates an assignment.
+- **Branch flags, country counts and frequency maps are tester tallies.** Run these checks before reading them as origin or frequency. Count documented close kin, such as a father and son or brothers, once, and record the relationship evidence ([branch-flag example](https://genarchivist.net/showthread.php?tid=1064)). Assume the same sequence may appear in several public trees. Keep entries of unknown provenance flagged, so a combined count is an upper bound ([cross-tree caution](https://genarchivist.net/showthread.php?tid=1981)). Note which communities test heavily, and compare at subclade level ([frequency-map discussion](https://genarchivist.net/showthread.php?tid=254)). Many testers stopped at an upstream SNP, so downstream shares rest partly on unresolved kits ([country-count discussion](https://genarchivist.net/showthread.php?tid=745)). State a count as observed in that database on that date. Do not correct it yourself or swap in an unsourced published frequency. No source measures the bias.
+- **A branch's size is not its age or founder status.** Do not read a large branch, or a lineage's large share of one community's Y results, as evidence that the lineage entered that community early or is old. Size depends on how many male-line descendants survived and how many of them have tested; a thin sibling branch may be under-sampled, not extinct. Take a branch's age from the tree's dated estimate, labelled as a formed age or a TMRCA (see the formed-versus-TMRCA rule above) (JewishGen, 2026-07-05).
+- **Origins reported by matches are a location lead, not an origin finding.** For a
+  paternal-origin question (England vs Ireland, England vs Germany), tabulate the earliest known
+  ancestor and place reported by each Y match or nearby Block Tree non-match. Label each entry as
+  self-reported and note its test level and branch. A pattern can show the question is worth
+  asking, but it does not answer it, verify those trees, or date a migration. The pattern depends
+  on who has tested (see the tester-dependence pitfall above). The
+  [Eberle origin-question remark](https://www.youtube.com/watch?v=0c9tQzocXZs) and the
+  [Big Y Block Tree case](https://www.youtube.com/watch?v=bEDj6kd-15Q) motivate this tabulation.
+- **A notable-connection report is a haplogroup comparison, not a pedigree.** Before any documentary search for a link to a famous person, read the report's estimate of when the shared direct-line ancestor lived; most such ancestors lived thousands of years ago. Attempt documentary proof only when that ancestor falls inside the region's paper-trail era, because proof needs a record for every generation on both direct lines and DNA does not supply them. Record how the notable's haplogroup was obtained: tested directly, deduced from tested descendants, or inferred from living collateral relatives (more common than descendant testing). Any label not tested directly also rests on the documented kinship between those testers and the notable. (Legacy Tree, 2025-06-01)
+- **A match to a named lineage's project tests descent, not group membership.** When a same-surname tester compares with a chiefly family's Y-DNA project, such as a Scottish clan chief's line, a match is a clue that the tester descends from that family's male line. Before calling it a match to that family, apply the resolution and surname-cluster rules above, and compare the estimated common ancestor's date with when that surname was adopted in the region (see the surname-timing pitfall above). Do not report a match as membership in the clan or other group that bore the name, and do not read a mismatch as excluding that membership. Membership is a separate documentary question for the records of the specific ancestors. (Legacy Tree, 2026-08-19)
+- **mtDNA is a weak genealogical instrument by design** — slow mutation, fewer testers, wide match ranges. Great for *eliminating* a direct-maternal-line hypothesis, poor for *pinning* a relationship.
+- **An mtDNA label is only as deep as the positions behind it.** Record the tool, the tree build and the regions sequenced. For each candidate, record the matched, extra and untested or no-call defining positions. HVR-only data support at most the shared parent of tied sibling subclades, so keep a deeper label provisional until coding-region calls support it ([predictor report](https://forum.molgen.org/index.php/topic,1856.0.html); [predictor output](https://forum.molgen.org/index.php/topic,2099.0.html); [tie resolved by full sequence](https://forum.molgen.org/index.php/topic,2548.0.html); [preset panels](https://forum.molgen.org/index.php/topic,3315.0.html); [control-region remark](https://genarchivist.net/showthread.php?tid=95)). Check the base each mutation requires against the observed base, reading '!' by the tree's convention ([notation discussion](https://genarchivist.net/showthread.php?tid=1987)). Read a label's parent from the tree path, not from its letters, and after an update check whether the branch was renamed or actually moved ([Mitotree label discussion](https://genarchivist.net/showthread.php?tid=1161)). When labels or providers disagree, tabulate each node's defining mutations and their stability instead of adopting either label ([placement discussion](https://genarchivist.net/showthread.php?tid=84); [coverage discussion](https://genarchivist.net/showthread.php?tid=32)). None of these sources measures accuracy. Route the current label to Mitotree.
+
+## Keep an ancient-sample catalogue query separate from ancestry inference
+
+For a supplied ancient-sample catalogue, retain its source and date/version alongside the
+tester's externally reported haplogroup and assay/test level. Search the exact supplied
+label and record the query and returned specimen IDs. If a downstream Y label is absent,
+use an actually supplied or inspected tree to record each upstream label tried; do not
+invent the hierarchy. An unavailable tree or unknown test resolution stays unresolved.
+The [dated British Isles catalogue example](https://dna-explained.com/2022/02/01/dna-from-459-ancient-british-isles-burials-reveals-relationships-does-yours-match/)
+supplies this search step.
+
+Keep each specimen's reported sex, burial/location, dated interval and original or
+reanalysed haplogroup labels with their source references, as available. Record a linked
+tree's observed placement separately, or mark it unavailable. A no-hit concerns only the
+catalogue and labels searched; its coverage is not established by that result. A returned
+specimen is a catalogue lead, not the tester's closest ancient relative, direct ancestor,
+birthplace or migration route. No sequence comparison or relationship estimate follows
+from the label lookup.
+
+## Inventory lineage and test coverage before choosing another tester
+
+Keep separate Y-DNA and mtDNA lineage rows. For each documented line, record its nearest
+represented person, ordered upstream ancestors, sources and unresolved links, then attach
+the existing tester and actual test type/level. Several ancestors in the same line need
+not become separate testing targets. Keep a tree-page navigation bookmark in its own
+field: the person used to open the next pedigree page may belong to a different lineage.
+The [lineage worksheet example](https://dna-explained.com/2025/02/23/lineages-versus-ancestors-how-to-find-and-leverage-yours/)
+supplies this organizational step.
+
+State the unanswered question beside each row and whether the available assay can address
+it; retain an unknown assay or insufficient resolution as unresolved. A missing result
+can become a search for an eligible descendant, including through another child of an
+upstream ancestor. Verify the required descent path before proposing that person as a
+tester. The register organizes coverage and next questions; it does not establish a DNA
+relationship or authorize contacting, testing or sharing another person's data.
+
+Before recruiting a new tester, search for results already published. Where a WikiTree DNA
+Tests entry or another source gives a FamilyTreeDNA kit number, run a web search for
+`"KITNUMBER" site:familytreedna.com`. Without a kit number, search the earliest known
+ancestor's name the same way. For a maternal line, also search each documented daughter's
+name: mtDNA testers seldom appear in surname projects, so a hit usually comes from a
+haplogroup or geographic project that lists a woman as earliest known ancestor. A public
+project page shows a kit number and earliest known ancestor only when the member opted in,
+entered an ancestor, and the administrator enabled public display. A hit or a miss reflects
+those settings and search indexing, not whether a tester exists. Record the project URL,
+retrieval date and displayed row as project-display data. Verify the descent path from the
+listed ancestor before counting that kit as coverage for the row. (Estes, DNAeXplained,
+2026-10-23)
+
+## Build a maternal pedigree and locality worklist
+
+**Privacy gate:** <!-- privacy-gate: contact --> A question to an mtDNA match or its kit manager
+contacts a living person about their maternal line; answer the privacy gate in `SKILL.md`
+first.
+
+For each selected mtDNA match, place the reported earliest maternal ancestor beside the
+direct-maternal pedigree actually inspected, with sources and unresolved links. Keep the
+ancestral location distinct from the residence the match displays, and do not guess a
+tester's name or email (Living people, in `SKILL.md`); leave the ancestral country unknown
+without maternal-line evidence. Turn missing links or locations into a
+specific record search or proposed manager question. A separately documented all-maternal
+branch can help distinguish the maternal hypotheses; the match does not identify a mother.
+The [Dorcas Johnson](https://dna-explained.com/2022/05/08/dorcas-johnsons-mitochondrial-dna-secret-revealed-52-ancestors-357/)
+and [Sarah Rash](https://dna-explained.com/2022/05/22/sarah-rashs-and-perhaps-mary-warrens-mitochondrial-dna-52-ancestors-359/)
+examples motivate this documentary worklist, without adding a GD ranking or geographic verdict.
+
+## Combining tests: establish which ancestral path each supports
+
+**A pair matching on autosomal DNA and Y-DNA or mtDNA does not automatically have one shared connection explaining both.** The autosomal relationship can be recent on one branch while the direct paternal or maternal connection is much older on another. This matters especially when several paths connect the families. (Rowe-Schurwanz, 2026-04-09; 2026-04-24)
+
+For each result, record **test and observation → eligible inheritance path → proposed ancestor → unresolved attribution**. Trace the relevant direct paternal or maternal descent for both testers; separately retain every documented autosomal path. Use tested relatives and segment/transmission evidence to investigate which path explains the autosomal sharing, following [the multiple-path workflow](ai-for-dna-research.md#untangle-multiple-paths-without-discarding-the-useful-evidence). A documented cousin relationship does not assign every segment. Until the connection is resolved, do not count the two test types as two confirmations of the named ancestor. This is an application of the sources' separate-line warning, not a combined probability model.
+
+**Fictional example:** two documented paternal cousins also have matching full mtDNA results. The mtDNA match leaves a separate maternal-line question; it does not turn their known paternal relationship into a maternal one. Conversely, absent detectable autosomal sharing does not by itself exclude a sufficiently distant direct-line relationship. (Inheritance illustration; autosomal limitation: Rowe-Schurwanz, 2026-04-24)
+
+- **Privacy gate:** <!-- privacy-gate: contact --> Asking known descendants of candidate families to take a Y-DNA or mtDNA test contacts living people about a parentage question; answer the privacy gate in `SKILL.md` first.
+- **Hypothesis-test by targeted testing.** To confirm/eliminate an unknown direct-line ancestor, test **known direct-line descendants of candidate families** (paternal → Y; maternal → mtDNA) — a purpose-built corroboration, not a database-luck wait. (Legacy Tree, 2026-06)
+- **FTDNA is the only major consumer testing company with Y-DNA and mtDNA *match lists*** (23andMe gives high-level haplogroups, no matching). YFull, an analysis service for uploaded sequencing files rather than a test, reports Y-STR matches (BAM uploads), Y-SNP matches and mtDNA matches. YSEQ's free match-finder tool searches public YSEQ projects and Y-STRs you enter. (YFull FAQ and order page; YSEQ tools page; checked 2026-11-06.) The **Million Mito Project** sharpened mtDNA dating enough to place some subclade MRCAs in a genealogical window (e.g. K1a9b1 ~early 1600s) — so *some* mtDNA questions are now tractable, but only at full-sequence and only with corroboration. (GeneaVlogger, 2026-04)
