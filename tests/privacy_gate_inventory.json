@@ -420,6 +420,12 @@
   "checkpoint": "Running known-unrelated pairs through a"
  },
  {
+  "recipe": "dna-comparison-controls.md",
+  "kind": "upload",
+  "action": "upload both raw files to",
+  "checkpoint": "Uploading a raw file gives GEDmatch the tester's"
+ },
+ {
   "recipe": "dna-match-outreach-staging.md",
   "kind": "contact",
   "action": "Ask for something factual and limited, such as sharing a locked or missing tree",
@@ -484,6 +490,12 @@
   "kind": "publish",
   "action": "Before the first message to any match, and before posting about the case online",
   "checkpoint": "Screenshots of match entries and trees name living testers"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "For a line from France, recruit testers among descendants of emigrants",
+  "checkpoint": "The invitation, and any tree snapshot or family photos sent with it"
  },
  {
   "recipe": "dnapainter-practical-dna-workflows.md",

@@ -112,6 +112,8 @@ For the most sensitive tier, step 2 limits what you may say, and those limits ov
 - **Privacy.** If asked, describe the privacy risks plainly. Do not sugarcoat them or lie [S2]. Do not assert any company's current privacy terms unless you have checked them.
 - **Kits.** If the user is supplying kits, say up front that the recipient will not pay. The presenter treats a prepaid kit as removing a major barrier [S2].
 
+For a line from France, recruit testers among descendants of emigrants, such as Québécois or Acadian families, and expect few testers living in France [S11]. French law allows genetic examination of a person only for medical or scientific-research purposes, and fines a person who requests one outside the legal conditions €3,750 (articles in force when checked on 2026-11-12) [S12], [S13]. Some people in France test anyway: a French law firm cited an estimate of three million in July 2026 [S14]. Do not read a lack of France-resident matches as evidence against a French origin.
+
 ## 5. Log every attempt; record silence as silence
 
 For each message, log the date, recipient, kit, site, channel, sender (tester or helper), the disclosure tier used, and the reply status.
