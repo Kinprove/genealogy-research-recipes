@@ -4,10 +4,9 @@ title: "Recover land instruments through indexes, book series and entry files"
 summary: "Follow a land-record lead through both relevant index directions to the correct instrument and record-book series, or carry a federal patent lead into its separate entry file."
 kind: "records"
 scope: {"platforms": [], "tasks": ["grantor/grantee indexes, ambiguous book locators, separate book series, delayed recording, a surname search that missed the alternative index entry, Swedish property-book room/successor references and changed parcel designations, Bavarian property-protocol creators and tax-book identifier/volume handoffs, or cash-sale, bounty-land and homestead supporting packets."]}
-triggers: ["grantor/grantee indexes", "ambiguous book locators", "separate book series", "delayed recording", "a surname search that missed the alternative index entry", "Swedish property-book room/successor references and changed parcel designations"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "LAND-INDEX-BOOK-SERIES-RECOVERY-01", "text": "copy the original locator, distinguish instrument and recording dates, and report bounded retrieval coverage before interpreting title or kinship."}]
+guardrails: [{"id": "LAND-INDEX-BOOK-SERIES-RECOVERY-01", "text": "Keep both index directions, the instrument and recording dates, and the original locator visible, so one missed surname entry or guessed book does not become a false absence."}]
 handoff: ["historical-map-record-recovery", "tax-roll-observation-workflow", "us-federal-land-entry-file-recovery"]
 checked: "2026-11-05"
 checked_basis: "checked 5 November 2026"
@@ -57,6 +56,16 @@ private conveyance before choosing the index. Use the stated issuing authority a
 historical holdings descriptions to select the relevant grant/entry series or conveyance
 records; verify present custody and index/image date coverage separately. Leave an
 uncertain record class unresolved. [Historical demonstration](https://www.youtube.com/watch?v=0fFPtZb5TQw).
+
+For a miner or a mining-claim lead, start with the county recorder's mining-claim records for the
+place the ancestor mined, then their filmed or archived copies, rather than relying on federal
+land-patent searches [S46]. Carry each claim's location into maps and land records, and read any
+miner registration for age, nationality and next of kin [S46].
+
+Calaveras County, California, shows where such books can be found: the FamilySearch Research Wiki
+lists its "Mining and Land Claims 1852-1931, and Indexes 1850-1892" with images among the county's
+land records [S47 @2026-11-12], and the Calaveras Heritage Council describes the county archives in
+San Andreas as holding mining claims with deeds and other county records [S48 @2026-11-12].
 
 If the grant is filed under a historical land district, preserve that district/code separately
 from the parcel's county. Use the period district map and stated property description to resolve
@@ -159,6 +168,14 @@ subdivisions, rather than a single ordinary alphabetic sequence. Single-key and 
 versions differ. Read the key table printed at the front of the actual volume and follow its
 instructions; do not substitute a Soundex code or assume a Campbell or Cott index uses the
 same key. [S37]
+
+Do not screen deed-index entries down to land sales. A county's deed books may also hold
+mortgages, leases, powers of attorney, sales and manumissions of enslaved people, bills of sale,
+indentures and apprentice papers, adoptions, livestock brands, wills and tax lists [S44].
+Retrieve every entry under the target name whatever its instrument type. Expect heirs among the
+parties too: brothers and sisters may all sign one deed giving up their claim to property from
+their parents [S44], and a guide to tracing formerly enslaved families reports finding a 1910
+deed that divided a man's land among his heirs [S45].
 
 ## 2. Copy the locator, then reconcile the alternative entry
 
@@ -443,6 +460,40 @@ creator/Amt, the book and identifier used at each stage, the supporting cross-re
 and every uninspected or uncertain destination. Report recorded succession statements,
 not a verified chain of title or descent. A transfer described as an *Übernahme*, a payment
 or continuity of the farm's name does not establish a family relationship.
+
+### Austrian houses: find the owner and manorial lord first
+
+For a house or farm lead in Upper or Lower Austria, look the house up in a regional house-history
+database before choosing land books: such map layers and cadastre-based sites give farm or house
+names, owners and manorial lords [S49 @2026-11-12]. Carry the named manorial lord (*Grundherrschaft*) into the
+search for that lordship's land and transfer records as a lead, as for Bavarian farms above, and
+verify each owner and date in those books.
+
+In Upper Austria, open the DORIS theme "Hofnamen und Häusergeschichte". It places the houses and
+farms that existed around 1830 on the Urmappe and gives each one's farm names, owner and
+*Grundherrschaft*, taken from the Theresian Gültbuch of 1750, the Josephinian Lagebuch of 1786–88
+and the Old Grundbuch of 1790–93 [S50 @2026-11-12]; it held about 100,000 houses and farms when
+launched in 2022 [S51 @2026-11-12]. It is an ongoing project: the Hausruckviertel data are
+incomplete, and houses in Linz, Wels, Schärding, Braunau, Ried and Markt Obernberg are not yet
+included, so do not read a missing house as an absence [S50 @2026-11-12]. For Lower Austria, use
+Wolfgang Zehetner's "Haus und Hof" at the ÖFR for house owners around 1787 (Josephinian Fassion)
+and 1820 (Franciscan cadastre), historical house names and pointers to manorial records. It covers
+Lower Austria only, with communities added over time, not all of Austria [S52 @2026-11-12].
+
+### German farms: check the inheritance custom before naming the heir
+
+Before you name a farm heir or look for a sibling's share, find out whether the place passed farms
+undivided or divided them. Under *Anerbenrecht* one heir took the whole farm and the others were
+paid off well below its value; by area the heir was the eldest or the youngest son, and the
+youngest-son custom held, for example, in Ravensberg and the Wesermarsch [S53], [S54]. Do not
+assume the eldest son: in Belm near Osnabrück, where at least two sons were living, the youngest took
+over a large farm in about three of four cases, and small farms did not follow the custom [S55].
+Look for the non-heirs elsewhere: in an Emsland account, sons who did not inherit sought a bride
+who held a farm, often taking the farm's name, or became craftsmen, farm servants or *Heuerleute*
+[S53]. In divided-inheritance (*Realteilung*) areas, which the Münster lecture lists as including
+Württemberg, Baden, Hesse, the Rhineland, southern Westphalia and Lower Franconia, expect the land
+to be split among all the heirs [S55]. The same lecture calls this contrast schematic, so let the
+local transfer records decide [S55].
 
 ## 4. Preserve two dates and close the bounded retrieval audit
 

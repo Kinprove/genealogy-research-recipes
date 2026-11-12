@@ -3,11 +3,10 @@ id: "german-emigrant-origin-sources"
 title: "Trace a German emigrant's home town through emigration files, indexes and the parish register"
 summary: "Trace a German emigrant's home town through emigration files, indexes and the origin parish register."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Trace a German emigrant's home town through emigration files, indexes and the origin parish register."]}
-triggers: ["Trace a German emigrant's home town through emigration files", "indexes and the origin parish register"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "GERMAN-EMIGRANT-ORIGIN-SOURCES-01", "text": "a miss in permission files or a regional index does not prove that the person did not come from that state; confirm every hit in the original register."}]
+guardrails: [{"id": "GERMAN-EMIGRANT-ORIGIN-SOURCES-01", "text": "The main mistake to avoid is treating a miss in official emigration-permission files or a regional index as proof that the person did not come from that state."}]
 handoff: ["german-register-image-recovery", "russian-empire-emigrant-origin-recovery", "usa-immigration-search-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

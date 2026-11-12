@@ -4,10 +4,9 @@ title: "Working reproducibly with GEDmatch"
 summary: "Eight GEDmatch workflows: establish kit/run baselines, follow shortlist entries into direct comparisons, check three-kit cores, bound locus searches, freeze tag/MKA groups, preserve triangulation, and record parental-phasing or Lazarus input groups and generated-kit roles."
 kind: "platform"
 scope: {"platforms": ["gedmatch"], "tasks": ["GEDmatch One-to-Many, One-to-One, match-both, Segment Search, tag groups, Multiple Kit Analysis, Triangulation, parental phasing or Lazarus reconstruction."]}
-triggers: ["GEDmatch One-to-Many", "One-to-One", "match-both", "Segment Search", "tag groups", "Multiple Kit Analysis"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "GEDMATCH-PRACTICAL-DNA-WORKFLOWS-01", "text": "preserve actual access, thresholds, pairwise intervals and fixed rosters; separate shared-list membership and generated-kit signals from pedigree proof."}, {"id": "GM-01", "text": "Authorization to analyze a kit is not permission to upload it."}, {"id": "GM-02", "text": "require that person's explicit permission for GEDmatch and the chosen option."}, {"id": "GM-03", "text": "For an upload request, make the gate explicit in the first reply: ask whether the file is the user's own test or someone else's, distinguish permission to access or analyze it from permission to transfer it, and ask about permission for GEDmatch and the chosen visibility and law-enforcement matching options."}]
+guardrails: [{"id": "GEDMATCH-PRACTICAL-DNA-WORKFLOWS-01", "text": "A match-list row, a pairwise segment, a shared-match list, a triangulation result and a generated kit answer different questions. Keep their tool, inputs and settings attached to every result."}, {"id": "GM-01", "text": "Authorization to analyze a kit is not permission to upload it."}, {"id": "GM-02", "text": "require that person's explicit permission for GEDmatch and the chosen option."}, {"id": "GM-03", "text": "For an upload request, make the gate explicit in the first reply: ask whether the file is the user's own test or someone else's, distinguish permission to access or analyze it from permission to transfer it, and ask about permission for GEDmatch and the chosen visibility and law-enforcement matching options."}]
 handoff: ["ai-for-dna-research", "dna-comparison-controls", "evidence-proof-judgment", "unknown-parentage-wato", "xdna-phasing-judgment"]
 checked: "2026-10-04"
 checked_basis: "retrieved 2026-10-04"
@@ -197,6 +196,15 @@ and SNP counts cannot supply it, and vendor exports may omit it. The
 state. It does not set any threshold for how much fully identical material a relationship
 requires. Send the recorded regions to `ai-for-dna-research.md` (its fully-identical-regions step) for the
 relationship assessment.
+
+To see identity state at GEDmatch, use One-to-One with graphics. Practitioner guides describe its
+green bars as DNA identical on both copies of the chromosome and yellow bars as identical on one
+copy [S21], [S22]. Estes (2023) names GEDmatch and 23andMe as the services that show it, not
+FamilyTreeDNA, MyHeritage or AncestryDNA; a 2019 overview likewise names only 23andMe and GEDmatch
+[S21], [S23]. For a pair tested at those other companies, the GEDmatch graphic is therefore the
+view to use. Long green runs point to DNA shared through both parents, but small scattered green
+spots also occur between half siblings: a few green spots are not evidence of full siblingship
+[S21], [S22].
 
 Where a match list reports an overlap figure, record it per row with each kit's testing source and
 version. Overlap describes which positions both kits were assayed at, not shared ancestry. Keep a

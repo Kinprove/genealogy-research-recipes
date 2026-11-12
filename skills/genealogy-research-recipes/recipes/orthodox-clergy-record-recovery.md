@@ -3,11 +3,10 @@ id: "orthodox-clergy-record-recovery"
 title: "Rebuild a Russian Orthodox cleric's career and household from directories, eparchial gazettes and clergy registers"
 summary: "Rebuild a Russian Orthodox cleric's dated chain of posts and household from directories, eparchial gazettes and clergy registers."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Rebuild a Russian Orthodox cleric's dated chain of posts and household from directories, eparchial gazettes and clergy registers."]}
-triggers: ["Rebuild a Russian Orthodox cleric's dated chain of posts and household from directories", "eparchial gazettes and clergy registers"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "ORTHODOX-CLERGY-RECORD-RECOVERY-01", "text": "do not merge or split clergy who share a surname before that chain is built, and re-establish editions and fonds for each diocese."}]
+guardrails: [{"id": "ORTHODOX-CLERGY-RECORD-RECOVERY-01", "text": "Use it before you search metrical books or a present-day oblast archive, and before you merge or split clergy who share a surname."}]
 handoff: ["russian-orthodox-confession-list-reading"]
 checked: null
 checked_basis: null

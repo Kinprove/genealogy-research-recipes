@@ -3,11 +3,10 @@ id: "historical-place-name-resolution"
 title: "Resolve a historical place name to dated, same-named candidates"
 summary: "Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from period gazetteers."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from period gazetteers."]}
-triggers: ["Resolve a place named in a record", "letter", "Bible", "biography to dated", "same-named candidates from period gazetteers"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "HISTORICAL-PLACE-NAME-RESOLUTION-01", "text": "do not default to the well-known namesake; keep the name as written and let other dated evidence choose."}]
+guardrails: [{"id": "HISTORICAL-PLACE-NAME-RESOLUTION-01", "text": "The recipe lists every same-named feature in feature-level, period-dated gazetteers, keeps the name exactly as written, and lets other dated evidence about the person choose among the candidates."}]
 handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing", "historical-map-record-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"

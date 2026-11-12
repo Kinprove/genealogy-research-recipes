@@ -3,11 +3,10 @@ id: "russian-volost-town-administration-records"
 title: "Find household-level series in volost, village-society and town-administration fonds"
 summary: "Find household-level lists in volost, village-society and town-administration fonds when metrical books or revision lists stop."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find household-level lists in volost, village-society and town-administration fonds when metrical books or revision lists stop."]}
-triggers: ["Find household-level lists in volost", "village-society and town-administration fonds when metrical books", "revision lists stop"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "RUSSIAN-VOLOST-TOWN-ADMINISTRATION-RECORDS-01", "text": "do not stop at church registers and revision lists, and an inventory title stays a lead until the file is inspected."}]
+guardrails: [{"id": "RUSSIAN-VOLOST-TOWN-ADMINISTRATION-RECORDS-01", "text": "The common mistake is to send the researcher only to church registers and revision lists. That misses the local administrative fonds."}]
 handoff: []
 checked: "2026-11-02"
 checked_basis: "checked 2026-11-02"

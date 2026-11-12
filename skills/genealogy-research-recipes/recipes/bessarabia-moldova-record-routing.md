@@ -3,11 +3,10 @@ id: "bessarabia-moldova-record-routing"
 title: "Route a Bessarabian or Moldovan record by date, district and bank of the Dniester"
 summary: "Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis.", "Search Bessarabian and Chișinău notarial acts in the ANA notarial fonds by office, notary and year.", "Search Bessarabian and Moldovan newspapers in the Arcanum database and read each hit on the page image."]}
-triggers: ["Route a Bessarabian", "Moldovan", "left-bank Dniester event by its date", "district and present custodian", "then search ANA fond 211 by opis", "Bessarabian notarial acts", "Bessarabian newspapers"]
+scope: {"platforms": [], "tasks": ["Search Bessarabian and Chișinău notarial acts in the ANA notarial fonds by office, notary and year.", "Search Bessarabian and Moldovan newspapers in the Arcanum database and read each hit on the page image."]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "BESSARABIA-MOLDOVA-RECORD-ROUTING-01", "text": "the word \"Bessarabia\" or today's border does not pick the archive; Ясский уезд is the Bessarabian Bălți district, and a name-index miss in a browse-only collection says nothing."}]
+guardrails: [{"id": "BESSARABIA-MOLDOVA-RECORD-ROUTING-01", "text": "**Route by date and district, not by the word \"Bessarabia\".**"}]
 handoff: ["archival-image-coverage-verification", "corpus-seeded-name-search", "evidence-proof-judgment", "familysearch-practical-record-workflows", "galicia-bukovina-habsburg-record-routing", "historical-place-name-resolution", "jewishgen-search-family-reconstruction", "old-believer-sectarian-record-recovery", "russian-empire-emigrant-origin-recovery", "russian-empire-jewish-metrical-book-recovery", "russian-orthodox-metrical-book-recovery", "russian-revision-list-household-chaining"]
 checked: "2026-11-02"
 checked_basis: "consulted 2026-11-02"

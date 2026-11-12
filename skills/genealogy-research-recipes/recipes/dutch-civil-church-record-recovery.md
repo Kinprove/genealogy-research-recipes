@@ -3,11 +3,10 @@ id: "dutch-civil-church-record-recovery"
 title: "Recover Dutch civil acts and the pre-1811 church register behind them"
 summary: "Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian agreements; search burial/fee entries under the household head and trace pre-1811 church registers."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian agreements; search burial/fee entries under the household head and trace pre-1811 church registers."]}
-triggers: ["Recover Dutch acts through ten-year tables", "marriage supplements", "separate contracts and guardian agreements", "search burial/fee entries under the household head and trace pre-1811 church registers"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "DUTCH-CIVIL-CHURCH-RECORD-RECOVERY-01", "text": "an index miss is not absence, and a father, death date or sibling set from a compiled tree needs the original entries."}]
+guardrails: [{"id": "DUTCH-CIVIL-CHURCH-RECORD-RECOVERY-01", "text": "A failed search on WieWasWie or Open Archieven (openarchieven.nl) does not show that the event is missing from the municipality's records."}]
 handoff: ["probate-case-document-inventory"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

@@ -3,11 +3,10 @@ id: "swedish-military-record-routing"
 title: "Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period"
 summary: "Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period."]}
-triggers: ["Route a Swedish soldier", "sailor", "officer", "conscript to the military series that survive for his type and period"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "SWEDISH-MILITARY-RECORD-ROUTING-01", "text": "classify the man as allotted, enlisted, navy, officer or conscript before choosing a series; a soldier name labels the *rote*, not the man, and a nil counts only inside what the index covers."}]
+guardrails: [{"id": "SWEDISH-MILITARY-RECORD-ROUTING-01", "text": "Swedish military records are not one searchable pool. Each index covers one series, one branch and one period, so classify the man first and read every miss against the coverage of the index you searched."}]
 handoff: ["evidence-proof-judgment", "scandinavian-parish-record-recovery", "scandinavian-patronymic-farm-name-record-recovery"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"

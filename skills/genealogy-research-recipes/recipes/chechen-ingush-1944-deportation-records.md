@@ -3,11 +3,10 @@ id: "chechen-ingush-1944-deportation-records"
 title: "Trace a Chechen or Ingush family through the 1944 deportation and special settlement"
 summary: "Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both names of renamed places and both ends of the exile."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both names of renamed places and both ends of the exile."]}
-triggers: ["Trace a Chechen", "Ingush family through the 1944 deportation and special settlement", "with both names of renamed places and both ends of the exile"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "CHECHEN-INGUSH-1944-DEPORTATION-RECORDS-01", "text": "\"the files burned\" is not an answer; ask the Chechen custodians and the place of settlement, and treat any online list as a partial list."}]
+guardrails: [{"id": "CHECHEN-INGUSH-1944-DEPORTATION-RECORDS-01", "text": "**Do not predict a file's absence from Grozny's war losses.**"}]
 handoff: ["evidence-proof-judgment", "family-collection-intake-and-capture", "historical-place-name-resolution", "published-book-catalogue-and-full-text-discovery", "russian-military-repression-record-episodes", "soviet-personal-file-recovery"]
 checked: "2026-11-02"
 checked_basis: "checked 2026-11-02"

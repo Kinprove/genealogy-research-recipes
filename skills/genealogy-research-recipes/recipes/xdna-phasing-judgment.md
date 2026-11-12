@@ -4,10 +4,9 @@ title: "X-DNA and Visual/Parental Phasing — where confident-sounding analysis 
 summary: "X-DNA matches and visual/parental phasing: what a segment, an X match, or a phased chromosome map can actually confirm or eliminate, and where confident-sounding analysis is actually fabrication."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["\"is this X-DNA match trustworthy\", \"what's the minimum X cM threshold\", \"phase my kit against a parent or siblings\", \"half-sister or aunt\", \"does this X match rule out a father\", reconstructed-kit quality, artificial homozygosity, or interpreting matches to a synthetic kit."]}
-triggers: ["\"is this X-DNA match trustworthy\"", "\"what's the minimum X cM threshold\"", "\"phase my kit against a parent", "siblings\"", "\"half-sister", "aunt\""]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "XDNA-PHASING-JUDGMENT-01", "text": "never invent a small-segment or X-DNA false-positive rate or cM threshold — cite the specific company/study, since they diverge by design and by pair-sex; phasing reduces but never eliminates pseudosegments on either side; usable X evidence can reject an incompatible non-PAR route, while compatibility alone does not confirm the proposed ancestor."}]
+guardrails: [{"id": "XDNA-PHASING-JUDGMENT-01", "text": "**Ban invented small-segment statistics.** Any false-positive-rate or chance-match number must be attributed to a specific company/study (23andMe 2014, AncestryDNA 2020, FTDNA's Family Finder Matching 5.0) — never a smoothed or averaged figure presented as a universal law."}]
 handoff: ["dna-comparison-controls"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"

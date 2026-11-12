@@ -3,14 +3,13 @@ id: "us-federal-court-case-file-recovery"
 title: "Recover a U.S. federal court case file"
 summary: "Take a lead to the right federal court for the period, its National Archives record group and index, and the loose case file."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Take a lead to the right federal court for the period, its National Archives record group and index, and the loose case file."]}
-triggers: ["Take a lead to the right federal court for the period", "its National Archives record group and index", "and the loose case file"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-FEDERAL-COURT-CASE-FILE-RECOVERY-01", "text": "decide whether the matter is federal before searching a county courthouse; a complete-index miss is a bounded negative that does not clear other relatives."}]
+guardrails: [{"id": "US-FEDERAL-COURT-CASE-FILE-RECOVERY-01", "text": "Decide whether the matter is federal before you search a county courthouse or a large genealogy database."}]
 handoff: ["court-case-file-recovery", "criminal-court-prison-record-recovery"]
 checked: "2026-11-07"
-checked_basis: "checked 2026-11-07"
+checked_basis: "read 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1103}
 ---
@@ -120,6 +119,19 @@ with the reference copied from it. Kansas City asks for the court, the case numb
 parties and the period; for a case filed in 1940 or later it also needs a Federal Records
 Center transfer number, which comes from the court. If the court no longer has that number
 because the case is old, say so in the request [S4].
+
+In the Southwest, NARA splits a state between facilities by area. Riverside holds records of
+federal courts and agencies in Arizona, southern California and Clark County, Nevada; San
+Francisco holds northern and central California, Nevada outside Clark County, and Hawaii;
+Denver holds Colorado, New Mexico and Utah, as well as Montana, the Dakotas and Wyoming
+[S14 @2026-11-12], [S15 @2026-11-12], [S16 @2026-11-12], [S17 @2026-11-12]. NARA says the San
+Francisco and Chicago facilities will close within the next few years. Its August 2026 plan
+sends San Francisco's court records (RG 21, RG 276 and RG 578) and Chicago's RG 21 and RG 578 to
+Kansas City, and says the records stay open to researchers in their new locations
+[S16 @2026-11-12], [S18 @2026-11-12]. California sued on 14 October 2026 to
+block the closure [S19 @2026-11-12]. For a case from a district that San Francisco or Chicago
+served, do not route the request there by default: check the series' Catalog entry and NARA's
+Researcher Updates page for where the files are now [S18 @2026-11-12].
 
 Expect to work mostly with originals. The presenter says very little of this material was filmed
 [S2]. NARA does have a microfilm catalog for federal court records, and some RG 267 series are on

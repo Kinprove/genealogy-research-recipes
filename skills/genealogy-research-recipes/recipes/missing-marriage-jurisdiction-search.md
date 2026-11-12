@@ -3,15 +3,14 @@ id: "missing-marriage-jurisdiction-search"
 title: "Search candidate jurisdictions for a missing marriage"
 summary: "Replace a marriage missing from the couple's home county with a dated, ranked list of candidate jurisdictions."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Replace a marriage missing from the couple's home county with a dated, ranked list of candidate jurisdictions."]}
-triggers: ["Replace a marriage missing from the couple's home county with a dated", "ranked list of candidate jurisdictions"]
-privacy: "none"
-gates: []
-guardrails: [{"id": "MISSING-MARRIAGE-JURISDICTION-SEARCH-01", "text": "one county miss is not a finished search; report a gap only after every ranked candidate is searched or recorded as unavailable."}]
+scope: {"platforms": [], "tasks": []}
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "MISSING-MARRIAGE-JURISDICTION-SEARCH-01", "text": "A verified original that resolves the marriage ends the search. Otherwise the search is not finished, and the gap is not reported, until every ranked candidate has been searched or recorded as unavailable."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Church and civil registers", "order": 1044}
 ---
 
@@ -86,6 +85,10 @@ For each candidate, record:
 Keep "not searched" and "unavailable" visibly separate from "no hit."
 
 Check that a hit is the right couple before accepting it, then follow it to the bond, licence, return or register itself. Do not stop at an index miss. Ancestry tends to hold indexes, while FamilySearch holds more original images, many of them unindexed [S12], [S13]. Browse the FamilySearch images for the county and years before recording "no hit."
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for loose marriage papers sends the couple's names, the marriage date and the county to the clerk's office or archive, and the papers can hold ages, a parent's consent and blood-test results. A 20th-century marriage can concern a couple or parents who are still living. Answer the privacy gate in `SKILL.md`, including whether either spouse may be living and what access rules the office applies to recent records, before sending the request.
+
+Ask each county's clerk or archive for its loose marriage records as well as the bound books, both for a register hit and before recording "no hit" there. These are the papers of the licensing process, filed apart from the bound volumes and rarely online [S32 @2026-11-12]. They can include affidavits, parental consent letters for an underage bride or groom, bonds and blood-test results [S32 @2026-11-12], [S33 @2026-11-12]. The Houston County, Tennessee archivist reports that most of that county's packets, 1871–2010, also hold a copy of the licence [S33 @2026-11-12]. Bonds are documents separate from the licence, and guardians' consent affidavits, most common in the South and on the frontier, sit among town and county records [S34 @2026-11-12].
 
 A licence does not show that banns were read: in English law a special licence could dispense with publication, so check the local rule before assuming banns for a licensed marriage [S28], [S31].
 

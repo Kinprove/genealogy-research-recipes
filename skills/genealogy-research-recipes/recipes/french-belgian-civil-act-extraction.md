@@ -3,11 +3,10 @@ id: "french-belgian-civil-act-extraction"
 title: "Extract French and Belgian civil acts field by field"
 summary: "Extract French or Belgian civil acts, trace French marginal continuations and separately maintained copies, and check Paris reconstructions when the original series is unavailable."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Extract French or Belgian civil acts, trace French marginal continuations and separately maintained copies, and check Paris reconstructions when the original series is unavailable."]}
-triggers: ["Extract French", "Belgian civil acts", "trace French marginal continuations and separately maintained copies", "and check Paris reconstructions when the original series is unavailable"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "FRENCH-BELGIAN-CIVIL-ACT-EXTRACTION-01", "text": "bind each annotation to its subject and copy; keep record and event dates apart, and convert Republican dates with a tool, never by arithmetic."}]
+guardrails: [{"id": "FRENCH-BELGIAN-CIVIL-ACT-EXTRACTION-01", "text": "Store two fields: the act date, and the event date as stated (literal) or as resolved. Never fill only one date field."}]
 handoff: ["french-departmental-record-routing"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

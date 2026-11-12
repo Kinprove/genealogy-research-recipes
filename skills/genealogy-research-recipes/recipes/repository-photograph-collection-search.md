@@ -3,11 +3,10 @@ id: "repository-photograph-collection-search"
 title: "Search repository photograph collections by place and subject"
 summary: "Search repository photograph collections for an ancestor, home, shop or community by place and subject."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Search repository photograph collections for an ancestor, home, shop or community by place and subject.", "Search current and completed auction or marketplace lots for old family photographs."]}
-triggers: ["Search repository photograph collections for an ancestor", "home", "shop", "community by place and subject", "auction or marketplace lots of old photographs"]
+scope: {"platforms": [], "tasks": ["Search current and completed auction or marketplace lots for old family photographs."]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "REPOSITORY-PHOTOGRAPH-COLLECTION-SEARCH-01", "text": "never compare faces or name anyone by appearance, and record a recognition by the user or a relative as that person's attributed claim; a name-search miss does not show that no image exists, and a donor caption or added geotag is not a settled identification or location."}]
+guardrails: [{"id": "REPOSITORY-PHOTOGRAPH-COLLECTION-SEARCH-01", "text": "Do not compare faces yourself and do not name anyone from appearance. Resemblance is never evidence on its own: a recognition stays an attributed claim until documents support it."}]
 handoff: ["family-photograph-attribution-and-dating", "soviet-personal-file-recovery", "usa-immigration-search-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
@@ -53,6 +52,8 @@ Start from the family's locality and date range, not from the name. List these c
 - **Orphan or unidentified-photo sites.** These hold both identified and unidentified photos. Search the identified ones by surname, and search the unidentified subset (on DeadFred, the "Mysteries") by place, not by name [S7].
 
 Use only collections whose catalogue or description actually covers the place and period. Do not assume that a photographer's work survives for the family's town.
+
+For a town, church or school in Russia, add History of Russia in Photographs (russiainphoto.ru). On 2026-11-12 its About page described 214,551 photographs taken on the territory of Russia from 1840 to 1999; 174,880 were placed by museums, archives and private owners and 39,671 uploaded by site visitors. It can be searched by the place where the print or negative is kept, and photos with a recorded location appear on a map [S33 @2026-11-12]. Vera Miller suggests starting with a surname or a town or village name translated into Russian, and reports portraits, class graduations, churches and street views among its photos [S34 @2026-11-12]. Use a hit as a place or context image. Record the holder and caption as the holder's claim, keep visitor uploads apart from museum and archive items, and never identify a person in it by appearance.
 
 ## Browse by place, subject and business, not by person
 

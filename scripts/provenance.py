@@ -15,8 +15,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 VISIBLE_CACHE = {}
 SKILL = Path('skills/genealogy-research-recipes')
-START = '<!-- provenance-ledger:start -->'
-END = '<!-- provenance-ledger:end -->'
+# Ledgers stay outside the shipped skill folder: they are CI data, not reading material (#205).
+LEDGERS = Path('provenance')
+# Opening marker of the ledger block that sidecars carried before #205.
+OLD_LEDGER_START = '<!-- provenance-ledger:start -->'
 DEBT = Path('tests/provenance_legacy.json')
 REPORT = Path('PROVENANCE.md')
 ACCESS = {'read', 'partial', 'snippet-only', 'refused', 'private', 'unknown'}
@@ -86,20 +88,13 @@ def urls(text):
     return result
 
 
-def split_ledger(text):
-    require(text.count(START) == text.count(END), 'unbalanced ledger delimiters')
-    if START not in text:
-        return text, None
-    require(text.count(START) == 1, 'duplicate ledger block')
-    before, rest = text.split(START)
-    block, after = rest.split(END)
-    require('## Credits' in after and '## Credits' not in before, 'ledger must precede final Credits')
-    lines = block.strip().splitlines()
-    require(lines[:2] == ['```yaml', 'schema: 1'] and lines[-1:] == ['```'], 'invalid ledger envelope')
+def parse_ledger(text):
+    lines = text.splitlines()
+    require(lines[:1] == ['schema: 1'], 'ledger must start with schema: 1')
     ledger = {'schema': 1, 'sources': [], 'claims': []}
     field = None
     seen = set()
-    for line in lines[2:-1]:
+    for line in lines[1:]:
         if line in ('sources:', 'claims:'):
             field = line[:-1]
             require(field not in seen, 'duplicate ledger list')
@@ -108,23 +103,16 @@ def split_ledger(text):
             require(field is not None and line.startswith('  - {'), 'use one JSON object per YAML list item')
             ledger[field].append(loads(line[4:]))
     require(seen == {'sources', 'claims'}, 'ledger needs sources and claims lists')
-    return before.rstrip() + '\n\n' + after.lstrip(), ledger
+    return ledger
 
 
 def render_ledger(ledger):
-    lines = [START, '```yaml', 'schema: 1']
+    lines = ['schema: 1']
     for field in ('sources', 'claims'):
         lines.append(field + ':')
         lines.extend('  - ' + json.dumps(item, ensure_ascii=False, separators=(',', ':'))
                      for item in ledger[field])
-    return '\n'.join(lines + ['```', END])
-
-
-def attach_ledger(text, ledger):
-    plain, _ = split_ledger(text)
-    require(plain.count('## Credits\n') == 1, 'needs one Credits section')
-    before, after = plain.split('## Credits\n')
-    return before.rstrip() + '\n\n' + render_ledger(ledger) + '\n\n## Credits\n' + after
+    return '\n'.join(lines) + '\n'
 
 
 def source_entries(text):
@@ -133,8 +121,7 @@ def source_entries(text):
     Numbered bibliographies get N IDs. Unlabelled bullets get B IDs. Historical
     H3 additions stay separate records rather than overwriting the first H3.
     """
-    plain, _ = split_ledger(text)
-    plain = plain.split('## Credits')[0]
+    plain = text.split('## Credits')[0]
     entries = {}
     current = None
     lines = []
@@ -331,7 +318,7 @@ def string_list(value):
 
 
 def validate(slug, source_text, recipe_text, ledger, exceptions, today):
-    require(ledger is not None, f'{slug}: missing provenance ledger')
+    require(OLD_LEDGER_START not in source_text, f'{slug}: the sidecar ships with the skill; keep its ledger in {LEDGERS}/{slug}.yml')
     entries = source_entries(source_text)
     body = recipe_body(recipe_text)
     sources = {}
@@ -443,16 +430,19 @@ def render_report(corpus, today):
         pending_c = sum(c['review'] == 'pending' for c in ledger['claims'])
         unlinked = sum(not c['sources'] for c in ledger['claims'])
         missing = sorted({s for c in ledger['claims'] for s in c['sources']} - sources)
-        lines.append(f'| [{slug}]({SKILL}/sources/{slug}.md) | {pending_s} | {pending_c} | {unlinked} | {", ".join(missing) or "—"} |')
+        lines.append(f'| [{slug}]({LEDGERS}/{slug}.yml) | {pending_s} | {pending_c} | {unlinked} | {", ".join(missing) or "—"} |')
     return '\n'.join(lines) + '\n'
 
 
 def run(root, mode, today):
     source_dir = root / SKILL / 'sources'
     recipe_dir = root / SKILL / 'recipes'
+    ledger_dir = root / LEDGERS
     paths = sorted(source_dir.glob('*.md'))
     require(paths, 'no source sidecars found')
     require({p.name for p in paths} == {p.name for p in recipe_dir.glob('*.md')}, 'recipe/source sidecars differ')
+    orphans = sorted({p.stem for p in ledger_dir.glob('*.yml')} - {p.stem for p in paths})
+    require(not orphans, f'ledgers without a recipe: {orphans}')
     recipes = {path.name: (recipe_dir / path.name).read_text(encoding='utf-8') for path in paths}
     prepare_visibility([block for text in recipes.values() for block in prose_blocks(text)])
     debt_path = root / DEBT
@@ -465,20 +455,22 @@ def run(root, mode, today):
     corpus, outputs, active = {}, {}, {}
     for path in paths:
         slug = path.stem
+        ledger_path = ledger_dir / f'{slug}.yml'
         source_text = path.read_text(encoding='utf-8')
         recipe_text = recipes[path.name]
-        _, ledger = split_ledger(source_text)
+        ledger = parse_ledger(ledger_path.read_text(encoding='utf-8')) if ledger_path.exists() else None
         if mode == 'import-legacy':
             require(ledger is None, f'{slug}: refusing to replace an existing ledger')
             ledger = migrate(source_text, recipe_text)
             for category in ('sources', 'claims'):
                 for record in ledger[category]:
                     exceptions[debt_key(slug, category, record)] = fingerprint(record)
+        require(ledger is not None, f'{slug}: missing provenance ledger {LEDGERS}/{slug}.yml')
         if mode == 'write':
             reverse_links(ledger)
         active.update(validate(slug, source_text, recipe_text, ledger, exceptions, today))
         corpus[slug] = ledger
-        outputs[path] = attach_ledger(source_text, ledger)
+        outputs[ledger_path] = render_ledger(ledger)
     require(set(active) <= set(exceptions), 'new migration exceptions')
     outputs[debt_path] = json.dumps(active, indent=2, sort_keys=True) + '\n'
     outputs[root / REPORT] = render_report(corpus, today)
@@ -487,6 +479,7 @@ def run(root, mode, today):
     if mode == 'check':
         require(not stale, 'generated provenance differs: ' + ', '.join(stale) + '; run --write')
     else:
+        ledger_dir.mkdir(exist_ok=True)
         for path, text in outputs.items():
             path.write_text(text, encoding='utf-8')
     return corpus

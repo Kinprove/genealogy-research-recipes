@@ -3,11 +3,10 @@ id: "tax-roll-observation-workflow"
 title: "Read tax rolls as a liability-bounded annual series"
 summary: "Read town, township or county tax lists as a liability-bounded annual series for each jurisdiction and tax type."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Read town, township or county tax lists as a liability-bounded annual series for each jurisdiction and tax type."]}
-triggers: ["Read town", "township", "county tax lists as a liability-bounded annual series for each jurisdiction and tax type"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "TAX-ROLL-OBSERVATION-WORKFLOW-01", "text": "a first appearance, last appearance or gap is a bounded interval under that year's liability rules, not a birth, coming of age, move or death."}]
+guardrails: [{"id": "TAX-ROLL-OBSERVATION-WORKFLOW-01", "text": "Check each year against the liability rules in force then, and record every change as a bounded interval."}]
 handoff: []
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"

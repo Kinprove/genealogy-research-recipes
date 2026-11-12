@@ -4,14 +4,13 @@ title: "DNA comparison controls across services"
 summary: "Reconcile conflicting vendor or native results using exact tests, query controls, local marker coverage and reporting scope."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["an absent match, raw-file X coverage, PAR/build ambiguity or doubled totals."]}
-triggers: ["an absent match", "raw-file X coverage", "PAR/build ambiguity", "doubled totals"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "DNA-COMPARISON-CONTROLS-01", "text": "unavailable inputs and out-of-scope displays are not measured negatives; reciprocal reports are not independent observations."}]
+guardrails: [{"id": "DNA-COMPARISON-CONTROLS-01", "text": "If the expected positive is missing, investigate the query, selection and processing before interpreting an empty list."}]
 handoff: ["ai-for-dna-research", "gedmatch-practical-dna-workflows", "xdna-phasing-judgment"]
 checked: "2026-10-18"
 checked_basis: "checked 2026-10-18"
-capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool"], "contact": []}
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool", "upload"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 2}
 ---
 
@@ -126,6 +125,17 @@ A service's lack of X reporting does not establish that the raw file lacks usabl
 markers; check the file itself before treating X as unavailable. Recheck a row before
 relying on it. [H6, H23–H28]
 
+**Privacy gate:** <!-- privacy-gate: upload --> Uploading a raw file gives GEDmatch the tester's
+genome and, under its settings, shows the tester in other users' match lists; answer the privacy
+gate in `SKILL.md` for each tester whose file would go.
+
+AncestryDNA and MyHeritage report no X matches, but Estes (2023) notes that their raw files
+included the X [H29 @2026-11-12]. To compare X for a pair tested there, upload both raw files to
+GEDmatch, which accepts both companies' files, and run its One-to-One X, which compares only the X
+chromosome [H30 @2026-11-12], [H31 @2026-11-12]. Check each downloaded file for X rows before
+uploading it: GEDmatch notes that MyHeritage changed its raw-data download from 31 December 2025
+[H30 @2026-11-12].
+
 A result below a reporting floor need not appear. The smallest match in an old
 export does not establish the service's current admission rule. Differences in
 marker coverage, maps, phasing, imputation, joining and filters offer possible
@@ -142,12 +152,27 @@ kits as unresolved variation for this pair. A
 [converted-upload discrepancy report](https://forum.molgen.org/index.php/topic,10423.0.html)
 motivate this step. Neither shows which value is correct or establishes the cause. [H18, H19]
 
+Before reading a new parent- or sibling-level match as a newly found relative, rule out the
+tester's own second test or upload. Estes reports one tester who took herself for a parent after
+uploading another company's file and forgetting an earlier test, and another who took one
+person's uploads from two companies for two sisters [H32]. GEDmatch flags a re-upload of identical
+DNA as a duplicate but accepts one person's kits from different companies [H33]. A self-match
+can show a parent-sized total; identity state separates them, because a self-match or an
+identical twin is fully identical almost throughout, while a parent is half-identical. Compare
+names, kit managers and kit histories before recording a relationship.
+
 For degraded, forensic, artifact or heirloom-derived kits, record the reported call rate or
 processing status with each result, and treat segment count, endpoints and total cM as
 uncertain readings rather than full-coverage input for relationship prediction; the
 [investigative-genealogy discussion](https://www.youtube.com/watch?v=3xodviufcG4) and the
 [heirloom-kit example](https://www.youtube.com/watch?v=lMnm4UjIO60) motivate this but supply
 no validated call-rate cutoff, SNP-density threshold or error bound.
+
+Before treating DNA from a licked stamp or envelope as the presumed writer's, establish whose it
+is. Another person may have moistened it, such as a child asked to do it or the postmaster, or a
+sponge may have been used [H34]; the item can also carry DNA from someone else as contamination
+[H35]. Compare the result with a known close relative of the presumed person, and record the
+depositor as `unconfirmed` until the result fits that relationship.
 
 For a kit derived from whole-genome data, treat the FASTQ or BAM/CRAM as the source and each
 uploaded chip-style file as a separate derived input. Record the alignment build, the extraction

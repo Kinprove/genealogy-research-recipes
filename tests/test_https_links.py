@@ -1,14 +1,10 @@
 """Recipes and sources link over https unless an entry says the host is http only."""
 
-import importlib.util
 import re
 import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SPEC = importlib.util.spec_from_file_location('provenance', ROOT / 'scripts/provenance.py')
-PROVENANCE = importlib.util.module_from_spec(SPEC)
-SPEC.loader.exec_module(PROVENANCE)
 SKILL_DIR = ROOT / "skills/genealogy-research-recipes"
 HTTP = re.compile(r"http://")
 # The original address inside an archive capture URL keeps its own scheme.
@@ -17,9 +13,6 @@ MARKER = "http only"
 
 
 def plain_http_links(text):
-    # The ledger mirrors the exact bibliography URLs. Its own validator enforces
-    # equality; read the original prose for the reviewed "http only" qualification.
-    text, _ = PROVENANCE.split_ledger(text)
     problems = []
     for number, line in enumerate(text.splitlines(), 1):
         if MARKER in line:
@@ -50,14 +43,6 @@ class HttpsLinkTests(unittest.TestCase):
             "[e](http://web.archive.org/web/2025/https://example.org/)",
         ))
         self.assertEqual([number for number, _ in plain_http_links(text)], [4, 5])
-
-    def test_ledger_copies_keep_the_original_http_qualification(self):
-        source = ('## Sources\n\n- **S1:** [A](http://example.org/) '
-                  '(http only: no https response).\n\n## Credits\n')
-        ledger = PROVENANCE.migrate(source, '# Example\n')
-        self.assertEqual(plain_http_links(PROVENANCE.attach_ledger(source, ledger)), [])
-        source = source.replace('(http only: no https response)', '')
-        self.assertEqual(len(plain_http_links(PROVENANCE.attach_ledger(source, ledger))), 1)
 
 
 if __name__ == "__main__":

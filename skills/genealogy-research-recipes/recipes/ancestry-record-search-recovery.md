@@ -4,10 +4,9 @@ title: "Ancestry record-search recovery"
 summary: "Recovering archival records missed by an Ancestry search. Diagnose scope and coverage before relaxing dates, places or names; use collection descriptions, original book indexes, census districts and the holding archive."
 kind: "platform"
 scope: {"platforms": ["ancestry"], "tasks": ["an attached census disappearing from results, narrow Card Catalog matches, birthplace/residence confusion, conservative wildcard batches, name-free searches, book page versus image numbers, enumeration-district browsing, or index-only records."]}
-triggers: ["an attached census disappearing from results", "narrow Card Catalog matches", "birthplace/residence confusion", "conservative wildcard batches", "name-free searches", "book page versus image numbers"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "ANCESTRY-RECORD-SEARCH-RECOVERY-01", "text": "search results generate candidates; a zero-result query does not prove absence, and the original document must support identity before filing a relationship."}]
+guardrails: [{"id": "ANCESTRY-RECORD-SEARCH-RECOVERY-01", "text": "Keep three observations separate: no indexed candidate; no matching images in the available inventory; and documented absence in the original surviving records."}]
 handoff: ["ai-for-documentary-records", "dna-match-outreach-staging", "evidence-proof-judgment"]
 checked: "2026-10-20"
 checked_basis: "checked 2026-10-20"
@@ -88,6 +87,13 @@ only category and place filters, in case the catalog uses different vocabulary. 
 variant's count and rerun it later, because the presenter saw results change between runs.
 [Genealogy Gems' Card Catalog session](https://www.youtube.com/watch?v=99F9D51wz6Q) motivates
 these variants. It does not establish a stable matching rule.
+
+Do not take an empty Ancestry-wide search as proof that a newspaper item is absent. Ancestry's
+global search does not include the Newspapers.com Stories and Events Index collections because
+of their size, as reported in March 2024 [S1 @2026-11-12], [S2 @2026-11-12]. Run a Card
+Catalog title search for Newspapers.com, open the collection for the person's state or
+country, and search it directly [S2 @2026-11-12], [S3 @2026-11-12]. A hit links to the page on
+Newspapers.com, which needs that site's own subscription to view [S3 @2026-11-12].
 
 ### 4. Revisit collections that changed after the failed search
 

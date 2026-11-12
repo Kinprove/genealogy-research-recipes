@@ -258,6 +258,12 @@
   "checkpoint": "Pasting living people's records into an AI chatbot sends their data to a third party; answer the privacy gate in `SKILL.md` first."
  },
  {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "Upload a multi-page document as one PDF rather than as separate images",
+  "checkpoint": "A document uploaded to Scribe AI gives its contents"
+ },
+ {
   "recipe": "ancestry-dna-match-investigation.md",
   "kind": "contact",
   "action": "Obtain a missing comparison from an authorized kit manager when your own access cannot show it.",
@@ -402,6 +408,12 @@
   "checkpoint": "A Bureau of Prisons, department of corrections or state archives request asks for a file about an inmate who may be living"
  },
  {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "request",
+  "action": "expect to use the originals at Kew or order copies",
+  "checkpoint": "An order for copies of assize records names the defendant, the charge and the trial"
+ },
+ {
   "recipe": "descendancy-gap-worklist.md",
   "kind": "export",
   "action": "For exporting the corrected tree as GEDCOM, see [Export research findings to a GEDCOM file",
@@ -418,6 +430,12 @@
   "kind": "third-party-tool",
   "action": "and lowered minimum segment size on pairs documented as unrelated within the time frame of",
   "checkpoint": "Running known-unrelated pairs through a"
+ },
+ {
+  "recipe": "dna-comparison-controls.md",
+  "kind": "upload",
+  "action": "upload both raw files to",
+  "checkpoint": "Uploading a raw file gives GEDmatch the tester's"
  },
  {
   "recipe": "dna-match-outreach-staging.md",
@@ -484,6 +502,12 @@
   "kind": "publish",
   "action": "Before the first message to any match, and before posting about the case online",
   "checkpoint": "Screenshots of match entries and trees name living testers"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "For a line from France, recruit testers among descendants of emigrants",
+  "checkpoint": "The invitation, and any tree snapshot or family photos sent with it"
  },
  {
   "recipe": "dnapainter-practical-dna-workflows.md",
@@ -1056,6 +1080,12 @@
   "checkpoint": "Messaging a JGFF researcher or FTJP tree submitter contacts a living stranger"
  },
  {
+  "recipe": "missing-marriage-jurisdiction-search.md",
+  "kind": "request",
+  "action": "Ask each county's clerk or archive for its loose marriage records as well as the bound books",
+  "checkpoint": "A request for loose marriage papers sends the couple's names, the marriage date and the county"
+ },
+ {
   "recipe": "myheritage-dna-match-investigation.md",
   "kind": "link",
   "action": "use Manage DNA kits → kit menu → Re-assign kit to a different person",
@@ -1102,6 +1132,18 @@
   "kind": "export",
   "action": "links. Use available exports only after verifying their presence and actual coverage for this",
   "checkpoint": "Match, shared-match and segment exports name"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "publish",
+  "action": "Share DNA results with a collaborator; only someone allowed",
+  "checkpoint": "Sharing a kit's results gives another person a"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "export",
+  "action": "use Advanced options → Download shared DNA info",
+  "checkpoint": "A segment export lists living matches' DNA data;"
  },
  {
   "recipe": "nazi-era-ancestry-proof-records.md",
@@ -1576,5 +1618,29 @@
   "kind": "contact",
   "action": "To confirm/eliminate an unknown direct-line ancestor, test **known direct-line descendants of candidate families**",
   "checkpoint": "Asking known descendants of candidate families to take a Y-DNA or mtDNA test"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "route the row to a brother, son or nephew on the same documented line",
+  "checkpoint": "Asking a tester, his family or a male-line relative to supply a sample or take a test"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "ask for extra swabs and vials to be sent and stored for future upgrades",
+  "checkpoint": "Asking a tester, his family or a male-line relative to supply a sample or take a test"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "load it into DNA Painter's What Are the Odds? tool",
+  "checkpoint": "Loading a GEDCOM into DNA Painter places living relatives' names and family links in an outside web tool"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "recruit a full-sequence tester descended through all females from each daughter",
+  "checkpoint": "Asking a direct-female-line descendant of each daughter to take an mtDNA test"
  }
 ]

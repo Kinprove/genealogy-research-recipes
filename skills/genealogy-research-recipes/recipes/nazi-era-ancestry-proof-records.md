@@ -3,11 +3,10 @@ id: "nazi-era-ancestry-proof-records"
 title: "Find and read a Nazi-era ancestry proof as a certified copy of register entries"
 summary: "Find and read a Nazi-era ancestry proof (Ahnenpass, Ahnentafel, certified extracts) and route the search by the role that required it."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find and read a Nazi-era ancestry proof (Ahnenpass, Ahnentafel, certified extracts) and route the search by the role that required it."]}
-triggers: ["Find and read a Nazi-era ancestry proof (Ahnenpass", "Ahnentafel", "certified extracts) and route the search by the role that required it"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "NAZI-ERA-ANCESTRY-PROOF-RECORDS-01", "text": "a proof is a certified copy of register entries; open the entry behind each line and keep regime labels apart from evidence."}]
+guardrails: [{"id": "NAZI-ERA-ANCESTRY-PROOF-RECORDS-01", "text": "Their racial categories are the regime's classifications and are never evidence of anything about a person. Their entries were copied from parish and civil registers and must be checked against those registers."}]
 handoff: ["evidence-proof-judgment", "german-compensation-file-recovery", "german-military-record-period-routing", "german-official-gazette-notice-search", "german-register-image-recovery", "holocaust-testimony-source-interpretation", "russian-empire-emigrant-origin-recovery"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"

@@ -4,10 +4,9 @@ title: "Work an unknown-parentage case with DNA matches and WATO"
 summary: "Placing an unknown person (an unknown parent, an adoptee's bio-parent, an unplaced ancestor) into a tree using DNA matches + WATO odds."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["\"who is my unknown grandfather/father\", adoptee bio-family search, WATO hypothesis scoring, clustering matches to an ancestral couple, tied hypotheses, choosing a discriminating tester, or deciding which observations to withhold from a calculation."]}
-triggers: ["\"who is my unknown grandfather/father\"", "adoptee bio-family search", "WATO hypothesis scoring", "clustering matches to an ancestral couple", "tied hypotheses", "choosing a discriminating tester"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "UNKNOWN-PARENTAGE-WATO-01", "text": "WATO ranks placements on a tree **you already built**, gives **relative** odds among competing hypotheses (never a verdict), and breaks **silently** under endogamy / pedigree collapse / any multi-path match."}, {"id": "WATO-01", "text": "**The output is a set of competing hypotheses with *relative* odds — never a verdict.**"}, {"id": "WATO-02", "text": "WATO assumes single-path descent."}, {"id": "WATO-04", "text": "When interpreting a reported ranking, ask whether pedigree collapse, endogamy or more than one relationship path could apply to these matches; do not replace the question with a generic warning."}]
+guardrails: [{"id": "UNKNOWN-PARENTAGE-WATO-01", "text": "WATO assumes single-path descent. Pedigree collapse / endogamy / a match related through two lines silently invalidates the score — the tool has no way to know and will still rank confidently."}, {"id": "WATO-01", "text": "**The output is a set of competing hypotheses with *relative* odds — never a verdict.**"}, {"id": "WATO-02", "text": "WATO assumes single-path descent."}, {"id": "WATO-04", "text": "When interpreting a reported ranking, ask whether pedigree collapse, endogamy or more than one relationship path could apply to these matches; do not replace the question with a generic warning."}]
 handoff: ["ai-for-dna-research", "ancestry-dna-match-investigation", "dna-comparison-controls", "dna-match-outreach-staging", "xdna-phasing-judgment"]
 checked: "2026-10-18"
 checked_basis: "checked 2026-10-18"

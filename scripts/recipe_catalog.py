@@ -18,7 +18,7 @@ ROUTER_END = "<!-- recipe-catalog:end -->"
 TABLE_START = "<!-- recipe-capabilities:start -->"
 TABLE_END = "<!-- recipe-capabilities:end -->"
 FIELDS = {
-    "id", "title", "summary", "kind", "scope", "triggers", "privacy", "gates",
+    "id", "title", "summary", "kind", "scope", "privacy", "gates",
     "guardrails", "handoff", "checked", "checked_basis", "capabilities", "router",
 }
 CAPABILITIES = {"browse", "local_script", "extensions", "data_transfer", "contact"}
@@ -41,6 +41,11 @@ def string(value):
 def string_list(value, nonempty=False):
     return (isinstance(value, list) and (bool(value) or not nonempty)
             and all(string(v) for v in value) and len(value) == len(set(value)))
+
+
+def normalized(text):
+    """Collapse whitespace runs, so a quote matches a body passage across line wraps."""
+    return " ".join(text.split())
 
 
 def parse_recipe(text):
@@ -78,18 +83,29 @@ def validate_header(m, body, filename, today):
     heading = re.search(r"^# (.+)$", body, re.M)
     require(heading and heading[1].removeprefix("Recipe: ") == m["title"], "title differs from body heading")
     require(m["kind"] in ("judgment", "platform", "records"), "unknown kind")
+    route = m["router"]
+    require(isinstance(route, dict) and set(route) == {"tier", "group", "order"}, "invalid router")
+    require(route["tier"] in ("full", "pointer") and string(route["group"]), "invalid router tier/group")
+    require(type(route["order"]) is int and route["order"] >= 0, "invalid router order")
     scope = m["scope"]
     require(isinstance(scope, dict) and set(scope) == {"platforms", "tasks"}, "invalid scope")
-    require(string_list(scope["platforms"]) and string_list(scope["tasks"], True), "invalid scope lists")
-    require(string_list(m["triggers"], True), "triggers must be a nonempty list")
+    require(string_list(scope["platforms"]) and string_list(scope["tasks"]), "invalid scope lists")
+    require(scope["tasks"] or route["tier"] != "full", "full router entries need tasks")
+    summary = normalized(m["summary"]).casefold()
+    for task in scope["tasks"]:
+        require(normalized(task).casefold().rstrip(".") not in summary,
+                f"task repeats the summary: {task}")
     require(m["privacy"] in ("none", "living-person", "genetic-self", "genetic-third-party"), "invalid privacy")
     require(string_list(m["gates"]) and set(m["gates"]) <= {"privacy-transfer"}, "unknown gates")
     require(string_list(m["handoff"]) and all(SLUG.fullmatch(s) for s in m["handoff"]), "invalid handoff")
     rules = m["guardrails"]
     require(isinstance(rules, list) and bool(rules), "guardrails must not be empty")
+    quotable = normalized(body)
     for rule in rules:
         require(isinstance(rule, dict) and set(rule) == {"id", "text"}, "invalid guardrail")
         require(string(rule["id"]) and string(rule["text"]), "empty guardrail id/text")
+        require(normalized(rule["text"]) in quotable,
+                f"guardrail {rule['id']} is not an excerpt of the recipe body")
     caps = m["capabilities"]
     require(isinstance(caps, dict) and set(caps) == CAPABILITIES, "invalid capabilities")
     require(all(string_list(v) for v in caps.values()), "capabilities must be string lists")
@@ -97,10 +113,6 @@ def validate_header(m, body, filename, today):
     gated = "privacy-transfer" in m["gates"]
     require(not outbound or gated, "outbound capabilities require privacy-transfer")
     require(gated == (m["privacy"] != "none"), "privacy and gates disagree")
-    route = m["router"]
-    require(isinstance(route, dict) and set(route) == {"tier", "group", "order"}, "invalid router")
-    require(route["tier"] in ("full", "pointer") and string(route["group"]), "invalid router tier/group")
-    require(type(route["order"]) is int and route["order"] >= 0, "invalid router order")
     if m["kind"] == "platform":
         require(bool(scope["platforms"]), "platform recipe needs a platform")
         require(m["checked"] is not None, "platform recipe needs a dated source check")
@@ -114,7 +126,7 @@ def validate_header(m, body, filename, today):
         basis = m["checked_basis"]
         require(isinstance(basis, str) and bool(basis.strip()), "checked_basis must quote dated source evidence")
         require(re.fullmatch(
-            r"(?:rechecked|checked|consulted|accessed|retrieved|fetched|verified|opened)(?: on)?\s+"
+            r"(?:rechecked|checked|read|consulted|accessed|retrieved|fetched|verified|opened)(?: on)?\s+"
             r"(?:20\d\d-\d\d-\d\d|\d{1,2} [A-Z][a-z]+ 20\d\d)", basis, re.I),
             "checked_basis must name a source check, not a publication/capture date")
         dates = re.findall(r"20\d\d-\d\d-\d\d|\d{1,2} [A-Z][a-z]+ 20\d\d", basis)
@@ -190,8 +202,7 @@ def load_catalog(root=None, today=None, replacement=None):
         except CatalogError as exc:
             raise CatalogError(f"{name}: {exc}") from exc
     for m, body in catalog:
-        routed_text = "\n".join([body, m["summary"], *m["scope"]["tasks"], *m["triggers"],
-                                 *(r["text"] for r in m["guardrails"])])
+        routed_text = "\n".join([body, m["summary"], *m["scope"]["tasks"]])
         for target in set(m["handoff"]) | set(recipe_references(routed_text)):
             require(target in ids, f"{m['id']}: missing recipe {target}")
     # The independently maintained, reviewed checkpoint inventory catches a header
@@ -220,10 +231,11 @@ def wrap(text):
 
 def render_router(catalog):
     lines = [ROUTER_START, "## Recipes", "",
-             "Generated from the recipe headers. Full entries give task triggers and the first guardrail.",
-             "The short topic pointers are discovery links; their recipe headers carry the triggers, guardrails,",
-             "capabilities and handoffs. Both tiers require reading the recipe before advising.",
-             "A dated source check is a maintenance reminder, not verification of every claim or live control.", ""]
+             "Generated from the recipe headers. Full entries list the tasks they serve and quote the",
+             "recipe's core guardrail. The short topic pointers are discovery links; they list tasks only",
+             "where the header names some beyond the summary. Both tiers require reading the recipe before",
+             "advising. A dated source check is a maintenance reminder, not verification of every claim or",
+             "live control.", ""]
     group = None
     pointer = False
     for m, _ in catalog:
@@ -237,10 +249,9 @@ def render_router(catalog):
             if route["tier"] == "pointer":
                 lines += ["### " + group, ""]
         lines += [f"- **`recipes/{m['id']}.md`** — {m['title']}.", wrap(m["summary"])]
+        if m["scope"]["tasks"]:
+            lines += [wrap("*Use for:* " + "; ".join(m["scope"]["tasks"]))]
         if route["tier"] == "full":
-            tasks = "; ".join(m["scope"]["tasks"])
-            extra = [s for s in m["triggers"] if s.casefold() not in tasks.casefold()]
-            lines += [wrap("*Use for:* " + "; ".join([tasks] + extra))]
             lines += [wrap("*Core guardrail:* " + m["guardrails"][0]["text"])]
         if m["kind"] == "platform":
             lines += [wrap(f"*Dated source check:* {m['checked']}.")]

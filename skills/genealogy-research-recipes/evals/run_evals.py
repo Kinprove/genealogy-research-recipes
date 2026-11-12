@@ -37,12 +37,24 @@ JUDGE_SCHEMA = {
 }
 
 
-def invoke(prompt, skill, output, model, profile="claude", tools="recipes", schema=None, skill_instructions=None):
+LOGIN_VARIABLES = {"CLAUDE_CONFIG_DIR", "ANTHROPIC_API_KEY", "CLAUDE_CODE_OAUTH_TOKEN"}
+
+
+def isolated_environment(environ):
+    """Drop inherited Claude Code session and behaviour variables; keep the login and credentials."""
+    return {name: value for name, value in environ.items()
+            if name in LOGIN_VARIABLES
+            or not (name.startswith(("CLAUDE", "ANTHROPIC")) or name == "MAX_THINKING_TOKENS")}
+
+
+def invoke(prompt, skill, output, model, tools="recipes", schema=None, skill_instructions=None):
     servers = {"mcpServers": {"recipe_evals": {"command": sys.executable,
                "args": [str(HERE / "read_server.py"), str(skill / "recipes")]}}} if tools == "recipes" else {"mcpServers": {}}
+    # No user, project or local settings, CLAUDE.md files, auto memory, plugin skills or commands.
     args = ["-p", "--verbose", "--output-format", "stream-json",
             "--tools", "Read" if tools == "native" else "", "--max-turns", "12",
-            "--no-session-persistence"]
+            "--no-session-persistence", "--setting-sources", "",
+            "--settings", json.dumps({"autoMemoryEnabled": False}), "--disable-slash-commands"]
     if model:
         args += ["--model", model]
     if tools == "native":
@@ -55,14 +67,10 @@ def invoke(prompt, skill, output, model, profile="claude", tools="recipes", sche
         args += ["--json-schema", json.dumps(schema)]
     if skill_instructions:
         args += ["--append-system-prompt", skill_instructions]
-    if profile == "claude":
-        command = ["claude", *args]
-    else:
-        # Preserve interactive-zsh profile aliases/settings. Switch only on an observed limit.
-        command = ["zsh", "-lic", f'{profile} "$@"', "eval-cli", *args]
     with output.open("w", encoding="utf-8") as stream:
-        process = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=stream,
-                                   stderr=subprocess.PIPE, text=True, cwd=skill, start_new_session=True)
+        process = subprocess.Popen(["claude", *args], stdin=subprocess.PIPE, stdout=stream,
+                                   stderr=subprocess.PIPE, text=True, cwd=skill, start_new_session=True,
+                                   env=isolated_environment(os.environ))
         try:
             _, stderr = process.communicate(prompt, timeout=240)
         except subprocess.TimeoutExpired as error:
@@ -79,11 +87,6 @@ def invoke(prompt, skill, output, model, profile="claude", tools="recipes", sche
     terminal = results[-1] if results else {}
     if process.returncode or terminal.get("is_error") or terminal.get("subtype") != "success":
         detail = terminal.get("result", "") + " " + str(terminal.get("errors", [])) + stderr
-        if re.search(r"usage limit|rate.?limit|hit your limit|out of.*usage|usage.*exceeded", detail, re.I):
-            if profile != "claude3":
-                next_profile = "claude2" if profile == "claude" else "claude3"
-                return invoke(prompt, skill, output.with_name(output.stem + "-" + next_profile + ".jsonl"),
-                              model, next_profile, tools, schema, skill_instructions)
         raise RuntimeError("Claude did not complete: " + detail[:1000])
     if schema:
         if "structured_output" not in terminal:
@@ -237,7 +240,7 @@ def sample(case, number, args, rules):
     result = {"case": case["id"], "sample": number, "deterministic_failures": [], "rubric_pass": False}
     try:
         materials = fixture_materials(case, getattr(args, "materials", None))
-        reader = getattr(args, "reader", "mcp")
+        reader = getattr(args, "reader", "native")
         read_instruction = (
             "Use the native Read tool with offset 1, explicit limit 1000 and allow_large true in one call for each "
             "recipe you choose to open, including judgment recipes. This fallback has no section "
@@ -261,7 +264,7 @@ def sample(case, number, args, rules):
             else:
                 trace = [json.loads(line) for line in (directory / "assistant.jsonl").read_text(encoding="utf-8").splitlines()]
         else:
-            answer, trace = invoke(prompt, args.skill, directory / "assistant.jsonl", args.model, args.profile,
+            answer, trace = invoke(prompt, args.skill, directory / "assistant.jsonl", args.model,
                                    tools="native" if reader == "native" else "recipes",
                                    skill_instructions=(args.skill / "SKILL.md").read_text(encoding="utf-8"))
         write_json(directory / "assistant-events.json", trace)
@@ -277,20 +280,23 @@ def sample(case, number, args, rules):
         if other_tools:
             result["deterministic_failures"].append("Unexpected tools: " + ", ".join(other_tools))
         judgment_text, judge_trace = invoke(judge_prompt(case, answer, rules, materials), args.skill,
-                                  directory / "judge.jsonl", args.judge_model, args.profile,
+                                  directory / "judge.jsonl", args.judge_model,
                                   tools="", schema=JUDGE_SCHEMA)
         if unexpected_tools(judge_trace, {"StructuredOutput"}):
             raise ValueError("Judge used tools instead of evaluating the supplied answer")
         judgment = parse_judgment(judgment_text, case)
         result["judgment"] = judgment
-        result["rubric_pass"] = all(item["pass"] for item in judgment["items"])
+        # A clarification case has no rubric question; its clarify verdict below is the check.
+        result["rubric_pass"] = (all(item["pass"] for item in judgment["items"])
+                                 if case["assert"]["rubric"] else None)
         if case["expect"]["clarify"] and not judgment["clarify"]:
             result["deterministic_failures"].append("No scoping clarification before advice")
     except (OSError, RuntimeError, ValueError, KeyError, TypeError) as error:
         result["error"] = str(error)
         result["deterministic_failures"].append("Incomplete evaluation")
     write_json(directory / "result.json", result)
-    status = "ERROR" if "error" in result else ("PASS" if not result["deterministic_failures"] and result["rubric_pass"] else "FAIL")
+    status = "ERROR" if "error" in result else (
+        "PASS" if not result["deterministic_failures"] and result["rubric_pass"] is not False else "FAIL")
     print(f"{case['id']} [{number}/3]: {status}", flush=True)
     return result
 
@@ -299,11 +305,15 @@ def aggregate(cases, results):
     summary = {}
     for case in cases:
         rows = [row for row in results if row["case"] == case["id"]]
+        rubric_passes = (sum(row["rubric_pass"] is True for row in rows)
+                         if case["assert"]["rubric"] else None)
         summary[case["id"]] = {
             "pass": len(rows) == 3 and all(not row["deterministic_failures"] for row in rows)
-            and sum(row["rubric_pass"] for row in rows) >= 2,
+            and (rubric_passes is None or rubric_passes >= 2),
             "routing_and_regex_passes": sum(not row["deterministic_failures"] for row in rows),
-            "rubric_passes": sum(row["rubric_pass"] for row in rows),
+            "rubric_passes": rubric_passes,
+            "clarification_passes": (sum(row.get("judgment", {}).get("clarify") is True for row in rows)
+                                     if case["expect"]["clarify"] else None),
         }
     return summary
 
@@ -324,8 +334,8 @@ def main():
     parser.add_argument("--output", type=Path, default=Path("eval-results"))
     parser.add_argument("--model", default=os.environ.get("EVAL_MODEL") or None)
     parser.add_argument("--judge-model", default=os.environ.get("EVAL_JUDGE_MODEL") or None)
-    parser.add_argument("--profile", choices=["claude", "claude2", "claude3"], default="claude")
-    parser.add_argument("--reader", choices=["mcp", "native"], default="mcp", help="Native fallback for profiles that compress MCP output")
+    parser.add_argument("--reader", choices=["mcp", "native"], default="native",
+                        help="native Read, or the scoped read_file server (cannot return a recipe above about 50 KB in full)")
     parser.add_argument("--workers", type=int, choices=range(1, 5), default=2)
     parser.add_argument("--baseline", action="store_true", help="Evaluate an unchanged historical skill; retain its static failures")
     parser.add_argument("--replay", type=Path, help="Rejudge saved answers/traces without resampling; must match skill bytes and cases")
@@ -372,7 +382,6 @@ def main():
         "started": dt.datetime.now(dt.timezone.utc).isoformat(), "skill": str(args.skill),
         "skill_sha256": digest.hexdigest(), "model": args.model, "judge_model": args.judge_model,
         "cli_version": subprocess.check_output(["claude", "--version"], text=True).strip(),
-        "profile": args.profile,
         "reader": args.reader,
         "replay_source": str(args.replay) if args.replay else None,
         "replay_original_skill": str(args.replay_skill) if args.replay else None,

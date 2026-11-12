@@ -3,11 +3,10 @@ id: "russian-estate-registration-status"
 title: "Read a Russian-Empire estate label as a dated registration status and choose the series by date"
 summary: "Read a Russian-Empire estate label as a dated registration status and choose the record series by the date it was acquired."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Read a Russian-Empire estate label as a dated registration status and choose the record series by the date it was acquired."]}
-triggers: ["Read a Russian-Empire estate label as a dated registration status and choose the record series by the date it was acquired"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "RUSSIAN-ESTATE-REGISTRATION-STATUS-01", "text": "the town in the label is not the birthplace or residence, and a factory or rural-inhabitant label is not a job."}]
+guardrails: [{"id": "RUSSIAN-ESTATE-REGISTRATION-STATUS-01", "text": "**A town mark on мещанин or купец names the society of registration, not the birthplace or residence.**"}]
 handoff: ["russian-revision-list-household-chaining"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

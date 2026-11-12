@@ -54,14 +54,15 @@ class ProvenanceTests(unittest.TestCase):
         with self.assertRaisesRegex(p.ProvenanceError, message):
             self.check(ledger, **kwargs)
 
-    def test_reviewed_current_claim_passes_and_round_trips_before_credits(self):
+    def test_reviewed_current_claim_passes_and_round_trips(self):
         ledger = reviewed()
         self.assertEqual(self.check(ledger), {})
-        emitted = p.attach_ledger(SOURCE, ledger)
-        plain, parsed = p.split_ledger(emitted)
-        self.assertEqual(plain, SOURCE)
-        self.assertEqual(parsed, ledger)
-        self.assertLess(emitted.index(p.END), emitted.index('## Credits'))
+        self.assertEqual(p.parse_ledger(p.render_ledger(ledger)), ledger)
+
+    def test_a_ledger_block_inside_the_shipped_sidecar_is_refused(self):
+        # A branch cut before #205 could merge a ledger block back into its sidecar.
+        source = SOURCE.replace('## Credits', p.OLD_LEDGER_START + '\n\n## Credits')
+        self.rejects(reviewed(), r'keep its ledger in provenance/example\.yml', source=source)
 
     def test_import_never_converts_publication_or_opened_prose_into_read_status(self):
         ledger = p.migrate(SOURCE, RECIPE)
@@ -104,12 +105,15 @@ class ProvenanceTests(unittest.TestCase):
     def test_parentheses_inside_urls_survive(self):
         self.assertEqual(p.urls('[A](https://example.org/A_(B)).'), ['https://example.org/A_(B)'])
 
-    def test_duplicate_json_keys_and_multiple_blocks_are_refused(self):
+    def test_duplicate_json_keys_lists_and_a_missing_schema_are_refused(self):
         with self.assertRaisesRegex(p.ProvenanceError, 'duplicate JSON key'):
             p.loads('{"access":"read","access":"unknown"}')
-        text = p.attach_ledger(SOURCE, reviewed())
-        with self.assertRaisesRegex(p.ProvenanceError, 'duplicate ledger'):
-            p.split_ledger(text + '\n' + text)
+        text = p.render_ledger(reviewed())
+        lists = text.removeprefix('schema: 1\n')
+        with self.assertRaisesRegex(p.ProvenanceError, 'duplicate ledger list'):
+            p.parse_ledger(text + lists)
+        with self.assertRaisesRegex(p.ProvenanceError, 'schema: 1'):
+            p.parse_ledger(lists)
 
     def test_duplicate_ids_and_missing_bibliography_entries_are_refused(self):
         ledger = reviewed()
@@ -388,9 +392,13 @@ class CorpusProvenanceTests(unittest.TestCase):
             (root / 'tests').mkdir()
             src = root / p.SKILL / 'sources/example.md'
             recipe = root / p.SKILL / 'recipes/example.md'
+            ledger_file = root / p.LEDGERS / 'example.yml'
             src.write_text(SOURCE, encoding='utf-8')
             recipe.write_text(RECIPE, encoding='utf-8')
             p.run(root, 'import-legacy', TODAY)
+            # The ledger goes outside the shipped skill; the sidecar stays prose.
+            self.assertTrue(ledger_file.is_file())
+            self.assertEqual(src.read_text(encoding='utf-8'), SOURCE)
             initial = {f: f.read_bytes() for f in root.rglob('*') if f.is_file()}
             p.run(root, 'write', TODAY)
             self.assertTrue(all(f.read_bytes() == contents for f, contents in initial.items()))
@@ -399,19 +407,30 @@ class CorpusProvenanceTests(unittest.TestCase):
             recipe.write_text(RECIPE + '\nNow available at https://example.org/New.\n', encoding='utf-8')
             with self.assertRaisesRegex(p.ProvenanceError, 'unregistered factual'):
                 p.run(root, 'write', TODAY)
-            self.assertEqual(src.read_bytes(), initial[src])
+            self.assertEqual(ledger_file.read_bytes(), initial[ledger_file])
             self.assertEqual((root / p.DEBT).read_bytes(), initial[root / p.DEBT])
             # Deleting an unsupported legacy claim should regenerate backlinks
             # and prune debt, without claiming that its source was read.
-            plain, ledger = p.split_ledger(src.read_text(encoding='utf-8'))
+            ledger = p.parse_ledger(ledger_file.read_text(encoding='utf-8'))
             ledger['claims'] = []
-            src.write_text(p.attach_ledger(plain, ledger), encoding='utf-8')
+            ledger_file.write_text(p.render_ledger(ledger), encoding='utf-8')
             recipe.write_text('# Example\n', encoding='utf-8')
             p.run(root, 'write', TODAY)
-            _, updated = p.split_ledger(src.read_text(encoding='utf-8'))
+            updated = p.parse_ledger(ledger_file.read_text(encoding='utf-8'))
             self.assertEqual(updated['sources'][0]['claims'], [])
             self.assertEqual(updated['sources'][0]['access'], 'unknown')
             self.assertEqual(len(p.loads((root / p.DEBT).read_text(encoding='utf-8'))), 1)
+            self.assertEqual(src.read_text(encoding='utf-8'), SOURCE)
+            # A ledger left behind by a renamed or removed recipe is refused.
+            (root / p.LEDGERS / 'renamed.yml').write_bytes(ledger_file.read_bytes())
+            with self.assertRaisesRegex(p.ProvenanceError, r"ledgers without a recipe: \['renamed'\]"):
+                p.run(root, 'check', TODAY)
+            # A recipe without a ledger file names the file it needs, in every mode.
+            (root / p.LEDGERS / 'renamed.yml').unlink()
+            ledger_file.unlink()
+            for mode in ('check', 'write'):
+                with self.assertRaisesRegex(p.ProvenanceError, r'missing provenance ledger provenance/example\.yml'):
+                    p.run(root, mode, TODAY)
 
 
 if __name__ == '__main__':
