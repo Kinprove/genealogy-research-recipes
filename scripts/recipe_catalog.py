@@ -147,12 +147,12 @@ def validate_header(m, body, filename, today):
                     f"platform source check is older than {MAX_PLATFORM_AGE_DAYS} days")
 
 
-def expiring_checks(catalog, today, within=WARN_DAYS):
-    """Platform recipes whose source check expires within `within` days."""
+def expiring_checks(catalog, today):
+    """Platform recipes whose source check expires within WARN_DAYS days."""
     for m, _ in catalog:
         if m["kind"] == "platform":
             last_valid = dt.date.fromisoformat(m["checked"]) + dt.timedelta(days=MAX_PLATFORM_AGE_DAYS)
-            if (last_valid - today).days <= within:
+            if (last_valid - today).days <= WARN_DAYS:
                 yield m["id"], last_valid
 
 

@@ -47,10 +47,11 @@ PARTIAL_LIMIT = re.compile(
     r'(?:from|within|based on) (?:the )?(?:inspected|read|available) (?:page|pages|section|portion|excerpt)|'
     r'(?:only|limited to) (?:a |an |the )?(?:excerpt|summary|transcript)|'
     r'(?:read|inspected|viewed) (?:only|just) (?:a |an |the )?(?:page|section|portion|excerpt))\b', re.I)
-# A sentence end followed by a letter or digit; sentence_boundaries decides whether it is one.
+# Sentence-end candidates. An end followed by citations, or right after a citation,
+# always splits, even before a lowercase sentence; adjacent citations stay with the
+# preceding sentence. A plain end (group `plain`) before a letter or digit is decided
+# by ends_sentence.
 SENTENCE_END = re.compile(
-    # A sentence ending in citations also separates a following lowercase
-    # sentence. Adjacent citations still belong to the preceding sentence.
     r'[.!?](?:\s*\[[^\]\n]+\])+\s+(?=\S)|(?<=\])[.!?]\s+(?=\S)|(?P<plain>[.!?]\s+)(?=[^\W_])')
 PARAGRAPH_BREAK = re.compile(r'\n\s*\n')
 DOTTED_ABBREVIATION = re.compile(r'(?:^|[^\w.])(?:[^\W\d_]\.){2,}$')  # U.S., e.g., i.e.
@@ -259,6 +260,19 @@ def markers(anchor, known=None):
     return result
 
 
+def ends_sentence(visible, match):
+    """Whether a plain sentence end before a letter or digit splits (see sentence_boundaries)."""
+    following = visible[match.end()]
+    before = visible[:match.start() + 1]
+    if following.isupper():
+        return not DOTTED_ABBREVIATION.search(before[-12:])
+    if following.isdigit():
+        word = re.search(r'(\w+)\W$', before)
+        return word is None or not (
+            (len(word[1]) == 1 and word[1].isalpha()) or word[1].casefold() in NUMBER_ABBREVIATIONS)
+    return False  # lowercase or uncased letter
+
+
 def sentence_boundaries(visible):
     """Offsets where a sentence or paragraph starts, in any script.
 
@@ -270,17 +284,8 @@ def sentence_boundaries(visible):
     """
     cuts = {m.end() for m in PARAGRAPH_BREAK.finditer(visible)}
     for match in SENTENCE_END.finditer(visible):
-        if match['plain'] is not None:
-            following = visible[match.end()]
-            before = visible[:match.start() + 1]
-            word = re.search(r'(\w+)\W$', before)
-            if following.isupper():
-                if DOTTED_ABBREVIATION.search(before[-12:]):
-                    continue
-            elif not following.isdigit() or word and (
-                    len(word[1]) == 1 and word[1].isalpha() or word[1].casefold() in NUMBER_ABBREVIATIONS):
-                continue
-        cuts.add(match.end())
+        if match['plain'] is None or ends_sentence(visible, match):
+            cuts.add(match.end())
     return [0] + sorted(cuts) + [len(visible)]
 
 
@@ -454,13 +459,13 @@ def validate(slug, source_text, recipe_text, ledger, exceptions, today):
     return active_debt
 
 
-def expiring_claims(corpus, today, within=WARN_DAYS):
-    """Reviewed current-state claims whose check expires within `within` days."""
+def expiring_claims(corpus, today):
+    """Reviewed current-state claims whose check expires within WARN_DAYS days."""
     for slug, ledger in sorted(corpus.items()):
         for c in ledger['claims']:
             if c['review'] == 'reviewed' and c['kind'] in AGES:
                 last_valid = dt.date.fromisoformat(c['checked']) + dt.timedelta(days=AGES[c['kind']])
-                if (last_valid - today).days <= within:
+                if (last_valid - today).days <= WARN_DAYS:
                     yield f'{slug}#{c["id"]}', last_valid
 
 

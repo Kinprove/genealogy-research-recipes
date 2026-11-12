@@ -216,13 +216,15 @@ class RecipeCatalogTests(unittest.TestCase):
         platform, _ = next(item for item in self.items if item[0]["kind"] == "platform")
         records, _ = next(item for item in self.items if item[0]["kind"] == "records")
         today = dt.date(2027, 3, 1)
-        fake = []
-        for n in range(13):  # more than the ten warning annotations GitHub keeps per step
-            days_left = catalog.WARN_DAYS + 1 if n == 12 else catalog.WARN_DAYS - n
+
+        def platform_check(rid, days_left):
             m = copy.deepcopy(platform)
-            m.update(id=f"platform-{n}", checked=(
-                today + dt.timedelta(days=days_left - catalog.MAX_PLATFORM_AGE_DAYS)).isoformat())
-            fake.append((m, ""))
+            m.update(id=rid, checked=(today + dt.timedelta(days=days_left - catalog.MAX_PLATFORM_AGE_DAYS)).isoformat())
+            return m, ""
+
+        # More than the ten warning annotations GitHub keeps per step.
+        fake = [platform_check(f"platform-{n}", catalog.WARN_DAYS - n) for n in range(12)]
+        fake.append(platform_check("platform-later", catalog.WARN_DAYS + 1))
         old_records = dict(copy.deepcopy(records), checked="2000-01-01")
         fake.append((old_records, ""))
         due = dict(catalog.expiring_checks(fake, today))
@@ -237,7 +239,7 @@ class RecipeCatalogTests(unittest.TestCase):
         self.assertEqual(len(warnings), 1)
         for n in range(12):
             self.assertIn(f"platform-{n} valid until {due[f'platform-{n}']}", warnings[0])
-        self.assertNotIn("platform-12", warnings[0])
+        self.assertNotIn("platform-later", warnings[0])
         self.assertNotIn(old_records["id"], warnings[0])
 
     def test_export_emits_header_and_regenerates_both_consumers(self):

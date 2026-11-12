@@ -417,8 +417,8 @@ class LegacyBaseAndExpiryTests(unittest.TestCase):
     def test_legacy_base_reads_the_inventory_at_the_given_commit(self):
         with tempfile.TemporaryDirectory(prefix='grr-legacy-') as tmp:
             root = Path(tmp)
-            (root / 'tests').mkdir()
             debt = root / p.DEBT
+            debt.parent.mkdir()
 
             def git(*args):
                 subprocess.run(['git', '-C', tmp, '-c', 'core.hooksPath=/dev/null', '-c', 'commit.gpgsign=false',
