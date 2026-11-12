@@ -57,6 +57,8 @@ viewer_image_number, record_url_or_repository_locator, accessed_at`.
 Keep fields unavailable on that schedule explicitly unknown. A viewer counter and a
 printed sheet/page number are separate fields.
 
+Before 1880 there is no enumeration district number to record. Early censuses were taken by the marshal's subdivision, and the term changed to enumeration district only with the 1880 census [S90]. For 1790 to 1870, leave `enumeration_district_if_present` unknown, and reject a citation template, including an AI-drafted one, that asks for an ED [S89]. Record the district, town or city named in the page heading as `locality_as_recorded`, even when the heading gives a district number [S91]. From 1850, the dwelling and family numbers, which run in the order of visitation, identify the household on the page [S91]. For Recipe 2 before 1880, look for a description of the subdivision instead: NARA's T1224 reproduces descriptions of subdivisions from 1830 on [S90].
+
 | Procedure | Fixed column order |
 | --- | --- |
 | 1: query log | `search_id, census_year, collection, member_anchor, query_text, filters, searched_at, result_status, candidate_locator, image_reading, identity_conflicts, next_action` |
@@ -137,6 +139,10 @@ motivates this safeguard; it does not validate a formula or establish a birth da
 6. If name searches remain unproductive, use Recipe 2. A second platform can expose a different index, but two indexes of the same census entry remain one underlying record.
 7. Expect that one person may appear twice in a census year. Examples: a 1950 student at a dormitory and with a military family, a married son still listed by his parents ([Brady](https://www.youtube.com/watch?v=o6d7Z_W_qhg), [Tanner](https://www.youtube.com/watch?v=xW-2PVfobaE), [Genealogy Gems](https://www.youtube.com/watch?v=dY9EV5R_6ZA)), or a servant entered days before her family's listing ([Genealogy Gems](https://www.youtube.com/watch?v=xzJUics2RDs)). A family that moved between districts during enumeration can be missed at both addresses or counted at both, so compare the dates written on the sheets ([Legacy Tree answer](https://www.youtube.com/watch?v=LwjPdTcCxMM)). Keep both entries with their dates and locators. Do not split them into two people or discard one, and do not choose a residence without other evidence. Test the double-enumeration or move hypothesis with independent records. None of these sources says how often it happens.
 
+Before reading an early-census miss as absence from a state, check that the state's schedules survive. The Georgia Archives says the first three census schedules for Georgia, 1790 to 1810, are missing, lists an 1800 Oglethorpe County return among its state census reports, and names tax digests as the substitute [S93 @2026-11-12]. Diana Elder's Georgia case treats Oglethorpe as the only county with an extant 1800 census [S92 @2026-11-12]. Log a lost year as a coverage gap, not as `searched_no_candidate`, and search the substitute.
+
+In a household on or near Cherokee land before removal, do not read a missing wife or child as proof that there was none. The Constitution left "Indians not taxed" out of the count, and the 1860 instructions told enumerators not to enumerate them [S87]. Roberta Estes notes that a white man's Native wife or children would therefore not appear with him [S86]. Search the tribe's own enumerations, such as the 1835 Henderson Roll (NARA T496), which lists Cherokee heads of household in Alabama, Georgia and Tennessee with information on each family and its property [S88].
+
 **Output:** A query log containing census year, collection, query, filters, result, candidate image citation, and identity conflicts.
 
 **Checkpoint:** Retain a candidate only after household-level comparison. A matching child or unusual first name nominates a household; it does not establish everyone's identity or relationships.
@@ -159,6 +165,8 @@ motivates this safeguard; it does not validate a formula or establish a birth da
    Record the margin street name and the house-number column separately from dwelling, family or visitation numbers. Do not search directories by a visitation number ([Grant](https://www.youtube.com/watch?v=6aZsWQpatYA), [Genealogy Gems](https://www.youtube.com/watch?v=RIz4bAPdmWM)). A ruled line or a new street name can end a street mid-page ([Genealogy Gems](https://www.youtube.com/watch?v=RIz4bAPdmWM)). Read the prescribed urban or rural route ([Lisson](https://www.youtube.com/watch?v=tnaXso4LSCE)) and the pages before and after. Check for breaks where enumeration resumed later; in rural areas, 'next door' may mean the next farm ([Tanner](https://www.youtube.com/watch?v=UwXwt3lcp9s)). Some early lists were alphabetized ([FHF](https://www.youtube.com/watch?v=CjjD9mI_dY8), [Lisson 1790](https://www.youtube.com/watch?v=QAidkkT515s), [tips](https://www.youtube.com/watch?v=c1FM5Se8zYY)), so establish the arrangement from the pages. A new family number without a new dwelling number marks a second family in one dwelling ([Potter](https://www.youtube.com/watch?v=CXe0BbBtKME)). Page adjacency establishes neither neighbours nor kinship.
 5. Keep a browse log: district, range inspected, street or landmark encountered, candidate households, and gaps. If the location lies near a district boundary, inspect the plausible neighboring district too.
 6. Save the map or description citation alongside the census citation so another researcher can reproduce why this district was selected.
+
+In a tenement or apartment house, expect one dwelling number with a family number for each occupied apartment: the 1910 instructions counted such a building as one dwelling and each occupied apartment as a separate family [S85]. For an immigrant family, read every family under that dwelling number, and log those born in the same country or speaking the same language as associate (FAN) leads [S84]. A shared building is a lead to test, not kinship.
 
 **Output:** An address-evidence table, map-backed district list, and page-browse coverage log.
 
@@ -394,6 +402,8 @@ a claim to assess, rather than automatically replacing the earlier answer. [S78]
 5. When examining unnamed entries in slave schedules, record the literal demographic information and its context. An age/sex match does not name a person or establish a family.
 6. Keep documentary enslavement evidence separate from census race, birthplace, age, and surname observations. A 1900 census profile alone does not establish enslavement or identify an enslaver.
 
+For 1870, also search the household under the wife's maiden surname. The FamilyTreeDNA guide reports couples counted under the wife's surname in 1870 and under the husband's in 1880, and adult children, enslaved with their mother by a different enslaver than their father's, counted under their mother's maiden name in their first census [S81]. Family members did not always take the same surname, and surnames changed [S82]. Take the maiden surname from a cohabitation record where one survives: North Carolina's 1866 cohabitation bonds give the man's and the woman's names [S83], and [freedpeople record recovery](us-freedpeople-record-recovery.md) covers the registers. Keep each link a candidate until a record joins the two households.
+
 If named post-emancipation records leave an enslaver question unresolved, define a bounded
 1870 neighborhood to inspect and record neighboring households as possible research leads.
 Trace each selected named person into earlier censuses, comparing identity before carrying
@@ -431,6 +441,8 @@ excludes the video's property-value heuristic and assumed residence continuity. 
    values, livestock or production only where actually asked and answered.
 4. Use the observations to form a specific [land-record search](land-index-book-series-recovery.md).
    Farm operation and reported value alone do not establish title, kinship or an identified parcel.
+
+For step 1, start from NARA's Nonpopulation Census Records page. It lists, state by state, the 1850–1880 agriculture schedules on NARA microfilm and those held elsewhere, such as state archives and libraries, and sends you to the state archives for anything else [S94 @2026-11-12]. The FamilyTreeDNA guide notes that very few agricultural schedules were filmed and that many are only at state archives [S81 @2026-11-12].
 
 **Output:** An agricultural-entry row using the census locator above, the population candidate,
 link basis, continuation references, literal quantities/units and remaining land-record question.

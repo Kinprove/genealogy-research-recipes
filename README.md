@@ -161,7 +161,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [criminal-court-prison-record-recovery](skills/genealogy-research-recipes/recipes/criminal-court-prison-record-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [deed-content-relationship-clues](skills/genealogy-research-recipes/recipes/deed-content-relationship-clues.md) | record catalogues and original images | — | — | — | — | — |
 | [descendancy-gap-worklist](skills/genealogy-research-recipes/recipes/descendancy-gap-worklist.md) | — | — | — | export | — | required |
-| [dna-comparison-controls](skills/genealogy-research-recipes/recipes/dna-comparison-controls.md) | — | — | — | export, third-party-tool | — | required |
+| [dna-comparison-controls](skills/genealogy-research-recipes/recipes/dna-comparison-controls.md) | — | — | — | export, third-party-tool, upload | — | required |
 | [dna-match-outreach-staging](skills/genealogy-research-recipes/recipes/dna-match-outreach-staging.md) | — | — | — | export, publish | contact | required |
 | [dnapainter-practical-dna-workflows](skills/genealogy-research-recipes/recipes/dnapainter-practical-dna-workflows.md) | dna-painter | — | — | export, link, publish, third-party-tool, upload | — | required |
 | [dutch-civil-church-record-recovery](skills/genealogy-research-recipes/recipes/dutch-civil-church-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
