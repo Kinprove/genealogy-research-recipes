@@ -101,4 +101,4 @@ the actual case. Continue with [archival-image-coverage-verification.md](archiva
 when identifying or inspecting retrieved case images.
 
 Provider examples were checked on 2026-10-18 and the consolidated-catalogue
-volume on 2026-11-02; see [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/d53465ce561c6e8b4f9f4dc4706a0641da7c6c67/skills/genealogy-research-recipes/sources/elib-ukrainian-archive-reference-books.md).
+volume on 2026-11-02; see [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/09760df06be02b62a23de79a4fb5bf4a5680680a/skills/genealogy-research-recipes/sources/elib-ukrainian-archive-reference-books.md).

@@ -153,5 +153,5 @@ Deliver the case keys, exact titles, reasons, inspected locators and unresolved
 retrieval needs. Stop at the agreed catalogue or case scope; an uninspected reserve
 is a possible next source, not a completed search.
 
-This triage rubric is an investigator-created workflow. [Source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/d53465ce561c6e8b4f9f4dc4706a0641da7c6c67/skills/genealogy-research-recipes/sources/jewish-archival-list-triage.md)
+This triage rubric is an investigator-created workflow. [Source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/09760df06be02b62a23de79a4fb5bf4a5680680a/skills/genealogy-research-recipes/sources/jewish-archival-list-triage.md)
 separate it from provider facts and related verification methods.
