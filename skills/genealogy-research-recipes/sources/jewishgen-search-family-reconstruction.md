@@ -27,6 +27,35 @@ Official material fetched 2026-11-06: [Search Guide](https://jewishgen.org/HowTo
 
 Official material fetched 2026-11-07: the former [Unified Search](https://www.jewishgen.org/databases/all/) address, now a page that forwards to [Global Search](https://www.jewishgen.org/search/Global_Search.php); the Global Search form, for its Search Types (Phonetically Like, Sounds Like, Starts With, Contains, Is Exactly, Fuzzy Match, Fuzzier Match, Fuzziest Match), the two criteria joined by AND that every user gets and the donation that unlocks up to four; [Value-Added Services](https://www.jewishgen.org/JewishGen-erosity/valueadded.html), for the donation levels; the Search Guide and How-to FAQ above, which also disagree on whether the comma works with Is Exactly; the [JRI-Poland home page](https://jri-poland.org/), which calls Legacy its fully functional search and NextGen a test data set, and the [Legacy search](https://legacy.jri-poland.org/jriplweb-legacy.htm), whose surname totals matched JewishGen's JRI-Poland block in one test; LitvakSIG's [All Lithuania Database search form](https://www.litvaksig.org/all-lithuania-database/search-ald/), which submits to JewishGen, and its [District Research Groups page](https://www.litvaksig.org/research/district-research/), for the 18-month lead that qualifying contributors get before data reach the public database. Prices and access rules are those shown on that date.
 
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: every official page bundled in entry 16 was read again, and every statement
+the recipe makes from them holds. The former Unified Search address shows only a notice that the
+page has moved to Global Search. The Global Search form lists the Data Types Surname, Given Name,
+Town and Any Field and the Search Types Phonetically Like, Sounds Like, Starts With, Contains, Is
+Exactly, Fuzzy Match, Fuzzier Match and Fuzziest Match; every user gets two rows joined by AND, and
+a donation to the General Fund unlocks two more rows and the AND/OR choice, as the Value-Added
+Services page also says. The Search Guide still gives the comma and the space for all Search Types,
+brackets for the phonetic, Sounds Like and Fuzzy types and the asterisk for Is Exactly only, and it
+now also says that Is Exactly expands given-name synonyms. The How-to FAQ still excludes Is Exactly
+from the comma and limits brackets to it. The Belarus Revision Lists, Hungarian census, Anglo-Jewry
+1851, Communities and Gazetteer, Bessarabian schema, double-name, Polish questions (last updated
+2012-02-06), Kraków patronymic, indexing-guideline, Belarus birth-schema, JOWBR inventory, JGFF and
+FTJP pages read as the recipe describes them, as do the Records Catalog filters and the At a Glance
+block on Ukraine Vital Records (that dataset last updated January 2021). The Yizkor Master Name
+Index page now describes names indexed from the full text of the books, beyond the necrologies; the
+Yizkor Book Project home page still says that index covers the translated portions of the books on
+JewishGen's site, so the recipe's wording holds. JRI-Poland's home page still calls Legacy its fully
+functional search and NextGen a limited data set for testing; the All Lithuania Database form still
+submits to JewishGen; the District Research Groups page still gives qualifying contributors the data
+at least 18 months before the public database. The interview in entry 15 still describes the
+Gallery, Card Catalog and YIVO route. The videos in entries 1 to 6, 12 and 16 were not re-read, as
+they support methods and examples. The J-Roots topics in entries 7 to 11, 13 and 14 could not be
+read because the forum's certificate had expired; they support methods, history and examples, except
+the Miriam Weiner Archive locator advice, which rests on entry 13 alone and which JewishGen's own
+Belarus database page could not confirm because its database list loads by script. The recipe text
+was not changed.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

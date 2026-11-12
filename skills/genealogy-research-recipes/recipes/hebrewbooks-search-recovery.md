@@ -8,8 +8,8 @@ privacy: "none"
 gates: []
 guardrails: [{"id": "HEBREWBOOKS-SEARCH-RECOVERY-01", "text": "An access error, an unsubmitted query and a completed search with zero hits are different observations. Record the surface and the observation before interpreting it."}]
 handoff: []
-checked: "2026-11-07"
-checked_basis: "checked\n  2026-11-07"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["hebrewbooks"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 36}
 ---

@@ -8,8 +8,8 @@ privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "FTDNA-PRACTICAL-DNA-WORKFLOWS-01", "text": "A match name is a join key, not a unique person identifier. Matching Bucket and Linked Relationship are values observed at download. Record link changes separately from the retrieval date, keep the export choice and kit with the rows, and refresh match metadata after relinking."}]
 handoff: ["ai-for-dna-research", "dna-comparison-controls", "myheritage-dna-match-investigation", "xdna-phasing-judgment", "ydna-mtdna-interpretation"]
-checked: "2026-10-03"
-checked_basis: "checked 2026-10-03"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["familytreedna"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 39}
 ---
@@ -117,14 +117,16 @@ checks, including a haplogroup known only from another vendor's test that did no
 For a same-surname search, also compare the Y haplogroups shown for male matches. A label may
 be STR-predicted, derived from the Family Finder test (partial, SNP-based) or SNP-tested; a
 more refined Family Finder label replaces the STR prediction. Ancestry and 23andMe transfers
-show no haplogroup to matches, and female testers have no Y label: record those as
+show no haplogroup to matches, MyHeritage transfers completed after October 2025 currently
+receive none [H12 @2026-11-12], and female testers have no Y label: record those as
 `haplogroup not shown`, never as a mismatch. A label from a different source or at a different
 depth is not a conflict until both labels have been put into Discover's **Compare** and recorded
 as in [workflow 8](#8-preserve-the-inputs-and-reference-in-a-two-label-comparison). If they fall
 in the same lineage, keep the man as a candidate for Y-DNA testing or for shared-match and
 triangulation work. Reliable, incompatible SNP-defined lineages rule him out as a recent direct
 paternal-line candidate, even within one major haplogroup; he can still be an autosomal relative.
-Different upstream and downstream labels alone do not establish incompatibility. [S24, S26, S27, S28]
+Different upstream and downstream labels alone do not establish incompatibility.
+[S24 @2026-11-12], [S26 @2026-11-12], [S27 @2026-11-12], [S28 @2026-11-12]
 
 Read a match's ancestral surname list as self-reported. Its order carries no fixed meaning: a list may run by generation, alphabetically or in order of appearance, and a [2020 FamilyTreeDNA walkthrough](https://dna-explained.com/?p=31186) shows surnames shared with the viewer moved to the top in bold. Do not infer side, generation or line from a surname's position. To reconstruct the tree of a match without a usable tree, search compiled trees for combinations of the listed surnames and any most distant paternal and maternal ancestors named on the profile. Record a couple found this way as `candidate couple` until descendancy research accounts for the other listed surnames; list any surname it leaves unexplained. A [2024 case-study article](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds) motivates this check. [S20, S21]
 
@@ -247,13 +249,13 @@ cousin`, side `maternal`, documentary basis `synthetic record set D1`, date `202
 
 ### 4. Anchor Family Matching with side-specific relatives
 
-Family Matching requires a Family Finder result, matches, a MyHeritage connection and at least one
-linked maternal or paternal match. It uses linked testers from parent to third cousin and excludes
-linked relatives whose shared DNA contradicts the stated relationship (a "parent" calculated as a
-second cousin). To assign a match, FTDNA detects a shared phased DNA block between the tester,
-match and linked relative: the block is carried by the same alleles and meets the special Family
-Matching threshold. The linked relative's tree position supplies the parental side. ICW is not
-used for bucketing. [H4, S5]
+Family Matching requires a Family Finder result, matches, a connected MyHeritage tree for new
+links, the tester set as Home Person in the FamilyTreeDNA Family Tree Settings before linking, and
+at least one linked maternal or paternal match. Any linked match related through only one parent
+can phase other matches, however close or distant. To assign a match, FTDNA detects a shared
+phased DNA block between the tester, match and linked relative: the block is carried by the same
+alleles and meets the special Family Matching threshold. The linked relative's tree position
+supplies the parental side. ICW is not used for bucketing. [H4 @2026-11-12], [S5 @2026-11-12]
 
 **Privacy gate:** <!-- privacy-gate: link, export --> Each anchor link puts a relative's DNA result on the tree, and each re-export saves living matches' data. Apply the
 workflow 3 checkpoint (the privacy gate in `SKILL.md`) to every anchor before linking or relinking, including that
@@ -270,9 +272,9 @@ check that the anchor's Matches row shows the expected **Linked Relationship**, 
 the match list. Record the link-change time separately from the export time and save the bucket
 counts shown in that dated export. [H3, H4]
 
-Compare the dated counts and known-side paths. If counts are unchanged, check H4's eligibility
-conditions: the correct person linked, relationship within parent-to-third-cousin range, and
-shared DNA consistent with that relationship. If a bucket conflicts with a documented path,
+Compare the dated counts and known-side paths. If counts are unchanged, check H4's conditions:
+the correct person linked at the correct tree position, a relative related through only one
+parent, and processing finished after the link. If a bucket conflicts with a documented path,
 check the tree positions of the linked kits on the reported side and look for an additional path
 through that parent. Correct or remove a misplaced link and re-export. With anchor identities and
 tree positions verified, the bucket means FTDNA found a qualifying phased block shared with a
@@ -290,8 +292,8 @@ target grandparent: a match related through both parents sits in one side's buck
 side has a qualifying linked relative [S41 @2026-11-12].
 
 **Artifact:** before-link and later dated exports, bucket counts and a `links_as_of` note.
-**Stop when** each new anchor is confirmed on its match row, checked against H4's supported
-relationship range and shared-DNA validation, and included in a post-link export. Record
+**Stop when** each new anchor is confirmed on its match row, checked against H4's one-parent,
+tree-position and processing conditions, and included in a post-link export. Record
 unavailable anchors separately. Compare that export with the baseline and send any remaining
 side/path conflicts to `ai-for-dna-research.md` with the two exports and the link ledger.
 

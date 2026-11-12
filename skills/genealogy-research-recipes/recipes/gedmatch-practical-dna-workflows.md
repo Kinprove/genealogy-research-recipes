@@ -8,8 +8,8 @@ privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "GEDMATCH-PRACTICAL-DNA-WORKFLOWS-01", "text": "A match-list row, a pairwise segment, a shared-match list, a triangulation result and a generated kit answer different questions. Keep their tool, inputs and settings attached to every result."}, {"id": "GM-01", "text": "Authorization to analyze a kit is not permission to upload it."}, {"id": "GM-02", "text": "require that person's explicit permission for GEDmatch and the chosen option."}, {"id": "GM-03", "text": "For an upload request, make the gate explicit in the first reply: ask whether the file is the user's own test or someone else's, distinguish permission to access or analyze it from permission to transfer it, and ask about permission for GEDmatch and the chosen visibility and law-enforcement matching options."}]
 handoff: ["ai-for-dna-research", "dna-comparison-controls", "evidence-proof-judgment", "unknown-parentage-wato", "xdna-phasing-judgment"]
-checked: "2026-10-04"
-checked_basis: "retrieved 2026-10-04"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["gedmatch"], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool", "upload"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 41}
 ---
@@ -46,11 +46,13 @@ controls and access requirements. Tutorials below describe historical interfaces
 tool is an access limitation, not a completed comparison. Do not substitute remembered default
 thresholds, match limits, kit prefixes or processing times for what the current screen reports.
 
-Plan for paid tools before the session. GEDmatch's Tier 1 help (checked 2026-11-06) lists
-Segment Search, the Phasing tool and Lazarus among the paid Tier 1 tools. It says tools marked
-"Tier 1" on the home page require a paid membership, and it lists One-to-Many and One-to-One
-as free. Check the home-page marking for Matching Segment Search, Triangulation and Multiple Kit
-Analysis before planning workflows 4–8. [H9]
+Plan for paid tools before the session. GEDmatch's Tier 1 help lists Segment Search, the Phasing
+tool and Lazarus among the paid Tier 1 tools. It says tools marked "Tier 1" on the home page
+require a paid membership, and it lists One-to-Many and One-to-One as free [H9 @2026-11-12].
+GEDmatch's 2025 upload guide lists Matching Segment Search, Triangulation and Multiple Kit
+Analysis among its paid tools [H1 @2026-11-12], and its triangulation tutorial opens
+Triangulation from the Tier 1 tools, not the free ones [H4 @2026-11-12]. Check the home-page
+marking for those three before planning workflows 4–8.
 
 **Privacy gate before any upload:** Authorization to analyze a kit is not permission to
 upload it. An upload places that person's genome in GEDmatch, where the kit's settings decide who

@@ -8,8 +8,8 @@ privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "JEWISHGEN-SEARCH-FAMILY-RECONSTRUCTION-01", "text": "Do not convert a phonetic, household or age match into a relationship."}]
 handoff: ["bessarabia-moldova-record-routing", "evidence-proof-judgment", "russian-empire-jewish-identity-attribution"]
-checked: "2026-10-01"
-checked_basis: "fetched 2026-10-01"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["jewishgen"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
 router: {"tier": "full", "group": "Featured workflows", "order": 32}
 ---

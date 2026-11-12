@@ -8,8 +8,8 @@ privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "DNAPAINTER-PRACTICAL-DNA-WORKFLOWS-01", "text": "A copied segment belongs to its original comparison; an intersection is coordinate geometry; an inferred interval is a deduction; the Coverage Estimator is a pedigree-based estimate. Keep those outputs distinguishable."}]
 handoff: ["unknown-parentage-wato", "xdna-phasing-judgment", "ydna-mtdna-interpretation"]
-checked: "2026-10-04"
-checked_basis: "accessed 2026-10-04"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["dna-painter"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "third-party-tool", "upload"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 40}
 ---

@@ -8,8 +8,8 @@ privacy: "none"
 gates: []
 guardrails: [{"id": "ELIB-UKRAINIAN-ARCHIVE-REFERENCE-BOOKS-01", "text": "Prefer the current card's link over a constructed URL. A constructed route is a retrieval lead until its response is verified as the intended PDF; redirects, error HTML or an access failure leave acquisition unresolved."}]
 handoff: ["archival-image-coverage-verification"]
-checked: "2026-10-18"
-checked_basis: "checked 2026-10-18"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["elib.nlu.org.ua"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 1}
 ---

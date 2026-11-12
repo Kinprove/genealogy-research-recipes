@@ -55,6 +55,31 @@ All procedures are independently written paraphrases. Sources are cited, not rep
 - **H14:** DNA Painter [example DNA matrix](https://dnapainter.com/tools/matrix/example) page, read 2026-11-12. Used for: the CSV, CSV-with-relationships and JSON exports, JSON loading that overwrites the matrix, and CSV import that can include relationships.
 - **H15:** FamilyTreeDNA Help Center, [Chromosome Painter - Chromosome Painting View Guide](https://help.familytreedna.com/hc/en-us/articles/4405775422223-Chromosome-Painter-Chromosome-Painting-View-Guide), edited 2026-02-06, read 2026-11-12 through the Help Center article API because the page refused direct access. Used for: Super Population and Continental Region views, population clusters not painted, maternal and paternal copies painted in an arbitrary order, and Download Segments.
 
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: every DNA Painter page and post behind the recipe's current-state statements,
+and the FamilyTreeDNA and Borland Genetics pages that alone support one, was re-read in a fetch
+made that day. The four tool pages of the H1 bundle hold: the Common Segment Generator returns
+segments common to both sets above a cM filter; the Inferred Segments Generator returns what is in
+box 2 and not in box 1, recalculates cM and offers a full set of segments for box 2; the Distinct
+Segment Generator returns distinct segments with a total and assumes build 37; the Coverage
+Estimator says a GEDCOM import replaces the tree, full coverage needs every test in one database,
+a tester related more than once is entered and marked each time, the tree can be downloaded, and
+a browser-only tree is lost with the cache.
+H5 holds: its probability heading still credits "stats from The DNA Geek" and its range is low to
+high at the 99th percentile. H6 holds for the bookmarklet, import through Import segment data, the
+console step dated August 2025, the Firefox fault and the warning about the parent split. H7 holds
+for batches of at most 20 segments and build 37. H8 holds for its build 37 CSV for DNA Painter.
+H9 to H14 and H15, edited 2026-02-06, were read on this date and hold. The DNA Painter blog posts
+S1 to S22, S27 and S28 still say what the recipe cites them for, including the Preview and Save
+steps, the 7 cM default, layer order, the copy, CSV and import routes, the 3 cM default of the
+common-segment post, the full-set chromosomes 13, 14, 15, 21 and 22, next-tester suggestions that
+skip people marked willing or unwilling, and the dated tree, matrix, Dimensions and Places
+tutorials; S10, S15, S29 to S35 and S37 were read on this date. H11 and H6 name the painting button
+Paint a match while S27, posted 2026-10-30, names the form Paint a new match; the recipe keeps its
+label. Practitioner posts that support methods and examples were not re-read beyond those already
+read on this date. No source was unreadable, and the recipe text is unchanged.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

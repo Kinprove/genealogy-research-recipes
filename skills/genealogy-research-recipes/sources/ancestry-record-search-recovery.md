@@ -76,6 +76,40 @@ rests on the two March 2024 reports.
 - **S2:** Suzan Younger, Dallas Genealogical Society, [The Newspapers Stories and Events Index, Adding 16 Billion Records to Ancestry.com](https://dallasgenealogy.org/?p=33886), published 2024-03-25, read 2026-11-12. Used for: global search leaving the index out because of its size, and the Card Catalog title search for a state's collection.
 - **S3:** Andrew Koch, Family Tree Magazine, [Searching the Newspaper.com Indexes at Ancestry](https://familytreemagazine.com/websites/ancestry-help/newspapers-com-indexes-stories-events/), last updated 2026-05-04, read 2026-11-12. Used for: the Card Catalog title search for Newspapers.com, collections by state and country, and the Newspapers.com subscription needed to view a page. It does not discuss global search.
 
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: Ancestry's help articles were read directly today, in a browser through the
+Help Center API: the eight pages in the Ancestry help entry (B12), the two help pages in the
+attachment entry (B28), Lesson 5 (B29), Search Tips (B30), Searching with Wild Cards (B31),
+Searching with Soundex (B32) and Correcting a Record (B33). Card Catalog was last edited on
+2026-09-22, How to Search on 2026-10-08, Source and Collection Information on 2026-08-25,
+Correcting a Record on 2026-08-24, Lesson 5 on 2026-11-06 and the others on 2026-07-30. All hold
+for the recipe's statements: collection focus and result-type settings that persist; Title and
+Keywords fields, more keywords narrowing the list, the census keyword bringing up electoral
+registers, and sorting by date updated; the Source and About sections; county and adjacent-county
+place matching, with the Oakland and Alameda example; allowing a year's difference in birth
+years; tree-launched searches that carry the person's facts; census searches without a death-date
+field; horizontal search through siblings; the Add or update information item, which adds
+searchable alternate information and leaves the index unchanged; Web Records links to the source
+site; library access that varies by institution; and choosing facts and people when saving a
+record or saving a source to another person. Lesson 5 and Search Tips still give the different
+wildcard limits the recipe lists, and both still exclude wildcards from Soundex searches. B31,
+which no capture showed on 2026-11-06, now confirms Lesson 5's rules: `*` for zero to five
+characters, at least three non-wildcard letters, first and last characters not both wildcards,
+and no wildcards with Soundex. B32 still says a Soundex code begins with the name's first letter.
+Search Tips says a search looks through all the records in Ancestry's collections but does not
+mention the newspaper indexes, so that exclusion still rests on the March 2024 reports S1 and S2.
+Of the other official pages, The National Archives guide (B15, B36) still gives the 1841 age
+rounding and the folio and page references for 1851–1901, with different arrangements for 1841,
+1911 and 1921; the National Records of Scotland 1841 guide (B35) still gives the Scottish rule;
+NARA's 1950 FAQ (B14) still explains sheets numbered 71 onward and neighbor searches, and its
+1940 page still pairs addresses with enumeration districts. S1 and S3 were re-read and hold.
+Findmypast's RG 15 image guide in B27 refused automated access (HTTP 403) today, in the shared
+fetch and in a separate request, so its description of the 1921 schedule rests on the 2026-10-20
+check. S2 could not be fetched today (an interrupted browser load, then HTTP 403) and rests on
+its read earlier that day. Videos were not re-read. No live Ancestry search was run, and the
+recipe text was not changed.
+
 ## Credits
 
 - Roberta Estes, DNAeXplained, RootsTech 2024: DNA Academy and Ancestry Announcements, blog post, 2024-03-14, cited as S1 — All rights reserved; short attributed facts (adapted)
