@@ -167,6 +167,10 @@ class PrivacyGateSectionTests(unittest.TestCase):
     def test_how_to_use_points_to_the_gate(self):
         self.assertIn("](#privacy-gate)", section(SKILL.read_text(encoding="utf-8"), "## How to use"))
 
+    def test_record_requests_stop_at_an_unsent_draft(self):
+        rule = section(SKILL.read_text(encoding="utf-8"), "### Record requests")
+        self.assertIn("unsent draft", rule)
+
 
 class InventoryTests(unittest.TestCase):
     def test_inventory_entries_are_well_formed(self):

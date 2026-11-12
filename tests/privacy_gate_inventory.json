@@ -330,6 +330,30 @@
   "checkpoint": "Asking the tester or kit manager to confirm identity is contact"
  },
  {
+  "recipe": "ancestry-record-search-recovery.md",
+  "kind": "request",
+  "action": "carry both with that record's locator into an institutional-archive inquiry",
+  "checkpoint": "A personnel-file inquiry sends the person's birth and religious"
+ },
+ {
+  "recipe": "archival-image-coverage-verification.md",
+  "kind": "request",
+  "action": "Request the remaining sheets, citing the sheet numbers already received",
+  "checkpoint": "A request for further sheets of a case file"
+ },
+ {
+  "recipe": "archival-image-coverage-verification.md",
+  "kind": "request",
+  "action": "look for an official original-file download or order a copy",
+  "checkpoint": "When the record may name a living person, ordering"
+ },
+ {
+  "recipe": "austrian-confessional-register-routing.md",
+  "kind": "request",
+  "action": "Ask the registry office for an open entry in a book it still holds",
+  "checkpoint": "An entry just past its access period can still"
+ },
+ {
   "recipe": "austrian-confessional-register-routing.md",
   "kind": "request",
   "action": "Ask as close family for an entry still inside its access period",
@@ -342,10 +366,64 @@
   "checkpoint": "A request to the Public Services Agency or to ANA for a register inside or near the 100-year term"
  },
  {
+  "recipe": "brazilian-parish-civil-registry-recovery.md",
+  "kind": "request",
+  "action": "order a recent second original (segunda via)",
+  "checkpoint": "An order for a second original or a full-text"
+ },
+ {
+  "recipe": "brazilian-parish-civil-registry-recovery.md",
+  "kind": "request",
+  "action": "Order the full text for those fields",
+  "checkpoint": "An order for a second original or a full-text"
+ },
+ {
+  "recipe": "brazilian-parish-civil-registry-recovery.md",
+  "kind": "request",
+  "action": "Order through the official portal",
+  "checkpoint": "An order for a second original or a full-text"
+ },
+ {
+  "recipe": "brazilian-parish-civil-registry-recovery.md",
+  "kind": "request",
+  "action": "Ask the registry for the application file (processo de habilitação de casamento)",
+  "checkpoint": "When a civil marriage is recent, a request for"
+ },
+ {
   "recipe": "burial-evidence-packet.md",
   "kind": "contact",
   "action": "the help pages direct you to the contributor for permission [P89]. The contributor is the contact",
   "checkpoint": "Messaging a memorial's contributor about a photograph reaches a living stranger and discloses the user's research interest; answer the privacy gate in `SKILL.md` first."
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "request",
+  "action": "Past the archive cut-off, route to the provincial registry",
+  "checkpoint": "A request to a provincial registry or archive for"
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "request",
+  "action": "Request it through an ATIP",
+  "checkpoint": "An ATIP request for the file of a veteran"
+ },
+ {
+  "recipe": "canadian-provincial-record-routing.md",
+  "kind": "request",
+  "action": "Request the agency's own case records",
+  "checkpoint": "A request for a home child's agency case records"
+ },
+ {
+  "recipe": "catholic-parish-diocesan-record-recovery.md",
+  "kind": "request",
+  "action": "Send the request to the diocesan archive or the parish",
+  "checkpoint": "A request for a register still inside its closure"
+ },
+ {
+  "recipe": "catholic-parish-diocesan-record-recovery.md",
+  "kind": "request",
+  "action": "add a separate enquiry about",
+  "checkpoint": "When the marriage is recent, a dispensation or status-proof"
  },
  {
   "recipe": "chechen-ingush-1944-deportation-records.md",
@@ -720,6 +798,24 @@
   "checkpoint": "A matrix export file holds identified living testers' shared amounts and relationships"
  },
  {
+  "recipe": "england-wales-gro-index-recovery.md",
+  "kind": "request",
+  "action": "Order a later marriage from the GRO without a reference",
+  "checkpoint": "An order for a marriage after the index copies"
+ },
+ {
+  "recipe": "england-wales-gro-index-recovery.md",
+  "kind": "request",
+  "action": "Order from the local office with its own register and entry reference",
+  "checkpoint": "An order for a marriage after the index copies"
+ },
+ {
+  "recipe": "england-wales-gro-index-recovery.md",
+  "kind": "request",
+  "action": "Order using the full reference",
+  "checkpoint": "A certificate order sends the name and the index"
+ },
+ {
   "recipe": "ethnicity-estimate-version-comparison.md",
   "kind": "export",
   "action": "Then, beside \"What changed?\", click **Download PDF** [S1], [S11]. Find the link by its position:",
@@ -730,6 +826,24 @@
   "kind": "export",
   "action": "Save every other view while the old version is still live: Chromosome Painter, By Parent",
   "checkpoint": "Downloading the estimate PDF and saving screenshots of the Chromosome Painter, parent views and map export the tester's DNA-derived results"
+ },
+ {
+  "recipe": "evidence-proof-judgment.md",
+  "kind": "request",
+  "action": "Find where the original register is held and request the entry's full text",
+  "checkpoint": "A request for a register entry's full text names"
+ },
+ {
+  "recipe": "evidence-proof-judgment.md",
+  "kind": "request",
+  "action": "ask the archive to search the original birth register over several earlier years",
+  "checkpoint": "A register search for a person whose papers were"
+ },
+ {
+  "recipe": "evidence-proof-judgment.md",
+  "kind": "request",
+  "action": "An adopted person aged 18 or over can apply for their original birth information",
+  "checkpoint": "An application for an adopted person's original birth information"
  },
  {
   "recipe": "family-collection-intake-and-capture.md",
@@ -804,6 +918,18 @@
   "checkpoint": "A restored photo or story may show or name living"
  },
  {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "request",
+  "action": "request a full copy (*copie intégrale*) or an extract with filiation",
+  "checkpoint": "A request to a mairie for a birth or"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "request",
+  "action": "Ask OFPRA's Mission histoire whether a case file stands behind the card",
+  "checkpoint": "The OFPRA file question below sends a refugee's name"
+ },
+ {
   "recipe": "ftdna-practical-dna-workflows.md",
   "kind": "export",
   "action": "use **Export CSV → All Matches** for the match list.",
@@ -874,6 +1000,12 @@
   "kind": "publish",
   "action": "within the project's agreed publication scope. Arrange the relevant Big Y kits into useful",
   "checkpoint": "Public project results expose members' display"
+ },
+ {
+  "recipe": "galicia-bukovina-habsburg-record-routing.md",
+  "kind": "request",
+  "action": "Ask the Warsaw civil registry office for a recent book",
+  "checkpoint": "A request to the Warsaw civil registry office (USC)"
  },
  {
   "recipe": "galicia-bukovina-habsburg-record-routing.md",
@@ -1050,6 +1182,18 @@
   "checkpoint": "A municipal personnel file may concern"
  },
  {
+  "recipe": "german-military-record-period-routing.md",
+  "kind": "request",
+  "action": "Request the man's documents from the Bundesarchiv",
+  "checkpoint": "A request for a Wehrmacht soldier's personnel documents sends"
+ },
+ {
+  "recipe": "german-register-image-recovery.md",
+  "kind": "request",
+  "action": "order the full entry and its Sammelakte",
+  "checkpoint": "The order for a full civil register entry and"
+ },
+ {
   "recipe": "holocaust-testimony-source-interpretation.md",
   "kind": "request",
   "action": "For an unavailable part, prepare the exact title/language/signature and missing extent for",
@@ -1084,6 +1228,24 @@
   "kind": "request",
   "action": "For an agency adoption, request the agency's background (non-identifying) information as its own request",
   "checkpoint": "An adoption-record request can disclose the adoptee's and birth or adoptive relatives' identities and sensitive parentage."
+ },
+ {
+  "recipe": "illegitimacy-record-recovery.md",
+  "kind": "request",
+  "action": "ask the responsible municipal archive for both the child's register entry",
+  "checkpoint": "This inquiry sends the child's and the mother's names,"
+ },
+ {
+  "recipe": "illegitimacy-record-recovery.md",
+  "kind": "request",
+  "action": "Use those references to request the receiving authority's entry and file",
+  "checkpoint": "The authority that received a transferred file is a"
+ },
+ {
+  "recipe": "illegitimacy-record-recovery.md",
+  "kind": "request",
+  "action": "Ask for the closing entry, its date and any reference",
+  "checkpoint": "This inquiry sends the child's and the mother's names,"
  },
  {
   "recipe": "institutional-patient-record-recovery.md",
@@ -1260,6 +1422,18 @@
   "checkpoint": "A USC request can reach a book the office kept"
  },
  {
+  "recipe": "portuguese-parish-civil-register-recovery.md",
+  "kind": "request",
+  "action": "Ask the diocese or the parish for a church entry after 1911",
+  "checkpoint": "A request to a diocese or a parish for"
+ },
+ {
+  "recipe": "portuguese-parish-civil-register-recovery.md",
+  "kind": "request",
+  "action": "Inside the threshold, order a certificate (certidão)",
+  "checkpoint": "A certificate (certidão) ordered for an entry still inside"
+ },
+ {
   "recipe": "repository-photograph-collection-search.md",
   "kind": "third-party-tool",
   "action": "For AI analysis of context clues in a photo, such as a car model, a uniform",
@@ -1318,6 +1492,18 @@
   "kind": "upload",
   "action": "Accept only the reviewed batch, then reopen each affected destination profile.",
   "checkpoint": "Accepting the batch sends facts,"
+ },
+ {
+  "recipe": "russian-empire-emigrant-origin-recovery.md",
+  "kind": "request",
+  "action": "A Bundesarchiv request needs a signed application (Benutzungsantrag)",
+  "checkpoint": "A request for a resettler's EWZ file sends their"
+ },
+ {
+  "recipe": "russian-empire-emigrant-origin-recovery.md",
+  "kind": "request",
+  "action": "request the record that distinguishes the",
+  "checkpoint": "When a relative may be living, a request for"
  },
  {
   "recipe": "russian-empire-emigrant-origin-recovery.md",
@@ -1438,6 +1624,48 @@
   "kind": "request",
   "action": "make each missing link (for example one generation's birth or marriage certificate) its own early request",
   "checkpoint": "Requests for personal-file copies, archival certificates or kinship-proof certificates can concern people who may be living"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "request",
+  "action": "For an event from 1871, order the certificación literal",
+  "checkpoint": "A certificación literal of a civil entry from 1871"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "request",
+  "action": "Where a diocese has no online index, write to its archive",
+  "checkpoint": "When the entry is from the 20th century, a"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "request",
+  "action": "write to the Archivo Intermedio Militar",
+  "checkpoint": "A request for an army or navy personnel or"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "request",
+  "action": "Request Segovia files from Segovia itself",
+  "checkpoint": "A request for an army or navy personnel or"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "request",
+  "action": "Send a request that cites the old name to the new archive",
+  "checkpoint": "A request for an army or navy personnel or"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "request",
+  "action": "Request a post-1939 court-martial file through the military court that owns it",
+  "checkpoint": "A request for a court-martial file from 1939 to"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "request",
+  "action": "Take the case number to the file's holder",
+  "checkpoint": "A request for a court-martial file from 1939 to"
  },
  {
   "recipe": "unknown-parentage-wato.md",
@@ -1570,6 +1798,30 @@
   "kind": "request",
   "action": "Retrieve the matching order and retain its locator and extent. Compare the actual",
   "checkpoint": "The order can name other award recipients who may be living"
+ },
+ {
+  "recipe": "us-federal-court-case-file-recovery.md",
+  "kind": "request",
+  "action": "Ask Philadelphia for the index first, then request the case file from Kansas City",
+  "checkpoint": "A bankruptcy index or case-file request sends the parties'"
+ },
+ {
+  "recipe": "us-federal-court-case-file-recovery.md",
+  "kind": "request",
+  "action": "Request the case file with that reference",
+  "checkpoint": "A case-file or index request names the parties, who"
+ },
+ {
+  "recipe": "us-federal-court-case-file-recovery.md",
+  "kind": "request",
+  "action": "make a separate request for each",
+  "checkpoint": "A case-file or index request names the parties, who"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "request",
+  "action": "Its Genealogy Program accepts only A-Files numbered below 8",
+  "checkpoint": "An A-File request to the USCIS Genealogy Program, or"
  },
  {
   "recipe": "usa-immigration-search-recovery.md",
