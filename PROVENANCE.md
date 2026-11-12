@@ -53,7 +53,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `wikitree-dna-tester-links#C-3ccb958674db` | platform-ui | 2026-11-08 | 2027-05-07 | S3, S2, S4 |
 | `ydna-mtdna-interpretation#C-251c81450dea` | portal-availability | 2026-11-08 | 2027-02-06 | N12, N3, N11, N104, N96, N97, N98, N6, N26, N15, N47, N48 |
 | `ydna-mtdna-interpretation#C-83c6160dc57d` | platform-ui | 2026-11-12 | 2027-05-11 | N105, N108, N92, N107, N106 |
-| `ydna-mtdna-interpretation#C-58c84732b381` | platform-ui | 2026-11-12 | 2027-05-11 | N111, N107, N112 |
+| `ydna-mtdna-interpretation#C-6c665445ac3d` | platform-ui | 2026-11-12 | 2027-05-11 | N111, N107, N112 |
 | `ydna-mtdna-interpretation#C-c573f6718391` | platform-ui | 2026-11-12 | 2027-05-11 | N117, N118, N107, N108 |
 | `ydna-mtdna-interpretation#C-ea5222fa165a` | platform-ui | 2026-11-12 | 2027-05-11 | N119, N112, N121, N120, N107 |
 | `ydna-mtdna-interpretation#C-99c04121f07a` | platform-ui | 2026-11-12 | 2027-05-11 | N124, N125, N107, N126, N121 |
