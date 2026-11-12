@@ -154,7 +154,10 @@ returning Soviet citizens hold biographical details, family relations, oral test
 and photographs, written in Ukrainian. On 12 November 2026 the collection had 271,153 records from
 the Poltava, Kyiv, Khmelnytskyi and Kropyvnytskyi regional archives, with files from other archives
 still to be added. [H87 @2026-11-12] For a person from another region, a miss there is a coverage
-gap, not a negative [H88 @2026-11-12]; ask that region's state archive.
+gap, not a negative [H88 @2026-11-12]. To ask that region's state archive for the filtration
+file, use the request in step 2 of
+[Recover the next document before combining the biography](#recover-the-next-document-before-combining-the-biography),
+under that step's privacy gate.
 
 For a repression lead, record each list's or database's stated inclusion rule and geography
 before reading a miss. Posters in a [repression-databases discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=558)
@@ -175,7 +178,9 @@ covers victims of political repression of the 1920s–1950s. A card gives a phot
 exists, the name with a short note of occupation, life dates, rehabilitation details and the archive
 that holds the investigation file; the sources are the central and oblast state archives and the
 sectoral archives of the SBU and the interior ministry. [H89 @2026-11-12] It is a card index, not a set of
-scanned files: request the file from the archive the card names. It is filled archive by archive,
+scanned files. To obtain the investigation file from the archive the card names, use the request in
+step 2 of [Recover the next document before combining the biography](#recover-the-next-document-before-combining-the-biography),
+under that step's privacy gate. It is filled archive by archive,
 from almost 57,000 people at its launch in November 2020 [H89 @2026-11-12] to 111,731 after an April 2023
 addition from the Zhytomyr, Poltava, Sumy and Cherkasy oblast archives [H90 @2026-11-12], so a miss is absence
 from the cards loaded so far. Vera Miller pointed to it in 2023. [H91 @2026-11-12], [H92 @2026-11-12]
