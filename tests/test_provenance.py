@@ -3,9 +3,13 @@
 import copy
 import datetime as dt
 import importlib.util
+import io
+import json
 import shutil
+import subprocess
 import tempfile
 import unittest
+from contextlib import redirect_stderr, redirect_stdout
 from pathlib import Path
 from unittest.mock import patch
 
@@ -210,6 +214,29 @@ class ProvenanceTests(unittest.TestCase):
         ledger['claims'][0].update(anchor=anchor, stated_as='observation')
         self.rejects(ledger, 'unread source', recipe='# Example\n\n' + anchor)
 
+    def test_sentence_scope_follows_capitals_in_any_script_numbers_and_paragraphs(self):
+        for anchor, valid in [
+            # The hedge belongs to the first sentence only.
+            ('According to a snippet, search exists. Österreichische Archive offer free copies. '
+             '[S1† @2026-11-07]', False),
+            ('According to a snippet, search exists. Архив offers free copies. [S1† @2026-11-07]', False),
+            ('According to a snippet, the archive opens every day. 42 collections are online. '
+             '[S1† @2026-11-07]', False),
+            ('According to a snippet, search exists.\n- copies are free. [S1† @2026-11-07]', False),
+            # Abbreviations do not end the hedged sentence.
+            ('According to the U.S. Army page, search exists. [S1† @2026-11-07]', True),
+            ('According to a snippet, f. 224 holds the lists. [S1† @2026-11-07]', True),
+            ('According to a snippet, No. 301 holds the lists. [S1† @2026-11-07]', True),
+        ]:
+            with self.subTest(anchor=anchor):
+                ledger = reviewed()
+                ledger['sources'][0]['access'] = 'snippet-only'
+                ledger['claims'][0].update(anchor=anchor, stated_as='observation')
+                if valid:
+                    self.check(ledger, recipe='# Example\n\n' + anchor)
+                else:
+                    self.rejects(ledger, 'unread source', recipe='# Example\n\n' + anchor)
+
     def test_an_inline_code_example_is_not_an_unqualified_source_citation(self):
         ledger = reviewed()
         ledger['sources'][0]['access'] = 'snippet-only'
@@ -376,6 +403,69 @@ class ProvenanceTests(unittest.TestCase):
         text = '# Example\n\n## Contents\n\n- Current fee\n\n## Body\n\n```\n€10 [S1]\n```\n\nMethod.\n'
         self.assertEqual(p.candidate_blocks(text), [])
         self.assertEqual(p.markers('An example ``[S1]`` and a real marker [S2].'), ['S2'])
+
+
+class LegacyBaseAndExpiryTests(unittest.TestCase):
+    def test_legacy_inventory_may_shrink_but_not_grow_or_change(self):
+        base = {'a': '1', 'b': '2'}
+        self.assertEqual(p.legacy_growth(base, {'a': '1'}), [])
+        self.assertEqual(p.legacy_growth(base, {'a': '1', 'c': '3'}), ['c'])
+        self.assertEqual(p.legacy_growth(base, {'a': '9', 'b': '2'}), ['a'])
+
+    @unittest.skipUnless(shutil.which('git'), 'git is required')
+    def test_legacy_base_reads_the_inventory_at_the_given_commit(self):
+        with tempfile.TemporaryDirectory(prefix='grr-legacy-') as tmp:
+            root = Path(tmp)
+            (root / 'tests').mkdir()
+            debt = root / p.DEBT
+
+            def git(*args):
+                subprocess.run(['git', '-C', tmp, '-c', 'core.hooksPath=/dev/null', '-c', 'commit.gpgsign=false',
+                                '-c', 'user.name=test', '-c', 'user.email=test@example.invalid', *args],
+                               check=True, capture_output=True)
+
+            git('init', '-q')
+            debt.write_text(json.dumps({'a': '1', 'b': '2'}), encoding='utf-8')
+            git('add', p.DEBT.as_posix())
+            git('commit', '-q', '-m', 'base')
+            debt.write_text(json.dumps({'a': '1'}), encoding='utf-8')
+            p.check_legacy_base(root, 'HEAD')
+            for grown in ({'a': '1', 'c': '3'}, {'a': '9'}):
+                debt.write_text(json.dumps(grown), encoding='utf-8')
+                with self.subTest(grown=grown), self.assertRaisesRegex(p.ProvenanceError, 'relative to HEAD'):
+                    p.check_legacy_base(root, 'HEAD')
+            with self.assertRaisesRegex(p.ProvenanceError, 'cannot read'):
+                p.check_legacy_base(root, 'no-such-ref')
+
+    def test_legacy_base_needs_check_mode(self):
+        with self.assertRaises(SystemExit), redirect_stderr(io.StringIO()):
+            p.main(['--write', '--legacy-base', 'HEAD'])
+
+    def test_main_announces_expiring_claims_once_and_runs_the_base_check(self):
+        today = dt.date(2027, 3, 1)
+
+        def claim(cid, days_left, review='reviewed'):
+            checked = today + dt.timedelta(days=days_left - p.AGES['fee'])
+            return dict(id=cid, kind='fee', review=review, checked=checked.isoformat())
+
+        claims = [claim(f'C-due{n}', p.WARN_DAYS - n) for n in range(12)]  # more than ten annotations
+        claims += [claim('C-later', p.WARN_DAYS + 1), claim('C-pending', 0, review='pending'),
+                   dict(id='C-method', kind='method', review='reviewed', checked='2000-01-01')]
+        corpus = {'example': {'claims': claims}}
+        due = dict(p.expiring_claims(corpus, today))
+        self.assertEqual(sorted(due), sorted(f'example#C-due{n}' for n in range(12)))
+        self.assertEqual(due['example#C-due0'], today + dt.timedelta(days=p.WARN_DAYS))
+        out = io.StringIO()
+        with patch.object(p, 'run', return_value=corpus), patch.object(p, 'utc_today', return_value=today), \
+                patch.object(p, 'check_legacy_base') as base_check, redirect_stdout(out):
+            self.assertEqual(p.main(['--check', '--legacy-base', 'base-ref']), 0)
+        base_check.assert_called_once_with(p.ROOT, 'base-ref')
+        warnings = [line for line in out.getvalue().splitlines() if line.startswith('::warning ')]
+        self.assertEqual(len(warnings), 1)
+        for n in range(12):
+            self.assertIn(f'example#C-due{n} valid until {due[f"example#C-due{n}"]}', warnings[0])
+        for absent in ('C-later', 'C-pending', 'C-method'):
+            self.assertNotIn(absent, warnings[0])
 
 
 @unittest.skipUnless(PARSER_AVAILABLE, 'install the pinned Markdown parser before full provenance tests')
