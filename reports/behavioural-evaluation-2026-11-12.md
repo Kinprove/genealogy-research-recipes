@@ -5,8 +5,10 @@ release 1.16.0 (skill hash `f45810f2…`). Later recipe changes are not covered 
 
 ## What ran
 
-- Harness: the [issue #208](https://github.com/Kinprove/genealogy-research-recipes/issues/208)
-  branch at `6949570` (harness hash `f177aa2d…`), with the case contracts recorded in the receipt.
+- Harness: `run_evals.py` and `read_server.py` as merged for
+  [issue #208](https://github.com/Kinprove/genealogy-research-recipes/issues/208), and
+  `checks.py` from `e206ee4` (harness hash `f177aa2d…`; the receipt's `source_commit` is the
+  unpublished branch commit that held these files). The case contracts are recorded in the receipt.
 - CLI: the locked `ci-tools` version, 2.1.318, with the default reader (native `Read`, limited to
   `recipes/`). This is the configuration the hosted workflow uses.
 - Every assistant and judge call ran isolated from the local Claude Code configuration: no
