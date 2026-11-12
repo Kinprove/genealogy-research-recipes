@@ -466,7 +466,7 @@ or continuity of the farm's name does not establish a family relationship.
 
 For a house or farm lead in Upper or Lower Austria, look the house up in a regional house-history
 database before choosing land books: such map layers and cadastre-based sites give farm or house
-names, owners and manorial lords [S49]. Carry the named manorial lord (*Grundherrschaft*) into the
+names, owners and manorial lords [S49 @2026-11-12]. Carry the named manorial lord (*Grundherrschaft*) into the
 search for that lordship's land and transfer records as a lead, as for Bavarian farms above, and
 verify each owner and date in those books.
 

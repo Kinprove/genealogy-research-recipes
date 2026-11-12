@@ -67,7 +67,7 @@ For each holder, record:
 
 A search of a filmed copy is not a search of the original holding. Record which one you searched.
 
-An index search is also bounded by how that index matches names. Before you record `searched – no hit` in an online state or county index, read its search tips, and treat it as exact-match only unless they promise phonetic or variant matching: smaller state and county indexes often have none, so a one-letter misreading (Bane for Bone) defeats every spelling of the right name [S20]. Then run an initials search with wildcards and a search with no name at all, by sex, county and death month and year. The name-free search is what found a 1928 Oklahoma death indexed as Margotte C. Bane, a day off the headstone date [S20].
+An index search is also bounded by how that index matches names. Before you record `searched – no hit` in an online state or county index, read its search tips, and treat it as exact-match only unless they promise phonetic or variant matching: smaller state and county indexes often have none, so a one-letter misreading (Bane for Bone) defeats every spelling of the right name [S20 @2026-11-12]. Then run an initials search with wildcards and a search with no name at all, by sex, county and death month and year. The name-free search is what found a 1928 Oklahoma death indexed as Margotte C. Bane, a day off the headstone date [S20 @2026-11-12].
 
 Oklahoma's OK2Explore death index works this way: it returns only exact matches, accepts an asterisk as a wildcard in any field, treats a blank field as a wildcard, and asks you to narrow any search that matches more than 15 records. Run the name-free search there with sex, death county and its ±1, 2 or 5-year date range [S21 @2026-11-12].
 
