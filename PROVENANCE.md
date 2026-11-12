@@ -105,7 +105,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `myheritage-dna-match-investigation#C-2a32ef13c8ad` | platform-ui | 2026-11-12 | 2027-05-11 | S17, S18 |
 | `myheritage-historical-record-search#C-0bdcecf974cf` | platform-ui | 2026-11-12 | 2027-05-11 | H1, H12 |
 | `myheritage-historical-record-search#C-95104492714a` | platform-ui | 2026-11-12 | 2027-05-11 | H7, H12 |
-| `newspapers-com-search-recovery#C-8fa0c08c332b` | portal-availability | 2026-11-12 | 2027-02-10 | H11, S10 |
+| `newspapers-com-search-recovery#C-8fa0c08c332b` | portal-availability | 2026-11-12 | 2027-02-10 | H15, H11, S10 |
 | `portuguese-parish-civil-register-recovery#C-866ab6daf659` | portal-availability | 2026-11-08 | 2027-02-06 | S7, S8, S2, S1, S16, S18, S3, S22, S11 |
 | `probate-case-document-inventory#C-3ed87ba62346` | custody | 2026-11-12 | 2027-05-11 | S21, S39, S40 |
 | `probate-case-document-inventory#C-631788d827eb` | portal-availability | 2026-11-12 | 2027-02-10 | S41, S42, S21 |

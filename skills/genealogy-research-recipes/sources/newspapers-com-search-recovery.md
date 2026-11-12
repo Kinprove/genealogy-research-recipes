@@ -124,7 +124,8 @@ title. H10's observed OCR-text control was checked against H15, a Newspapers.com
 
 Changes: the Publisher Extra result label now cites H11 and S10 with that day's date instead of H11
 and H12, and states what the FAQ says in place of the unreadable offer pages; the table's OCR row
-adds H15. The videos and the practitioner, forum, encyclopedia, case-law and newspaper-page
+adds H15. The no-match result label also cites H15: a no match recorded before the site's re-OCR
+is worth one repeat of its queries over the same titles and intervals. The videos and the practitioner, forum, encyclopedia, case-law and newspaper-page
 sources support methods, history and examples and were not re-read.
 
 ## Credits
