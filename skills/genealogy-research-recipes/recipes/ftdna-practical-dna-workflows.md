@@ -274,7 +274,7 @@ counts shown in that dated export. [H3, H4]
 
 Compare the dated counts and known-side paths. If counts are unchanged, check H4's conditions:
 the correct person linked at the correct tree position, a relative related through only one
-parent, and processing finished after the link. If a bucket conflicts with a documented path,
+parent, and processing finished after the link [H4 @2026-11-12]. If a bucket conflicts with a documented path,
 check the tree positions of the linked kits on the reported side and look for an additional path
 through that parent. Correct or remove a misplaced link and re-export. With anchor identities and
 tree positions verified, the bucket means FTDNA found a qualifying phased block shared with a
