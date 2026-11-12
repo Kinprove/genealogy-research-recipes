@@ -30,10 +30,11 @@ real example and synthetic failure tests exercise the reviewed-record contract.
 
 ## Contract
 
-A versioned YAML 1.2 block in each source sidecar holds JSON objects, one per
-line, under `sources` and `claims`. Python's standard library parses this strict
-subset. Put it **before Credits**, whose final-section contract remains in force.
-The prose bibliography remains readable and retains its original evidence limits.
+A versioned YAML 1.2 file per recipe, `provenance/<recipe-id>.yml`, holds JSON
+objects, one per line, under `sources` and `claims`. Python's standard library
+parses this strict subset. The file sits outside the shipped skill folder. The
+source sidecar keeps only its prose bibliography and final Credits; the
+bibliography remains readable and retains its original evidence limits.
 
 Each source has a stable ID, exact URLs, type, publication/retrieval dates, access
 enum, rights, evidence basis, entry digest and reverse claim references. Unknown
@@ -86,7 +87,7 @@ structural migration and its checks close the issue. The legacy records are not
 reviewed in one bulk pass.
 
 **Shipped checks.** `scripts/provenance.py --check` runs in CI. It enforces the
-ledger schema in every sidecar, exact URLs, bibliography-entry and anchor drift,
+ledger schema for every sidecar, exact URLs, bibliography-entry and anchor drift,
 source joins and generated backlinks, unique reviewed anchors whose markers match
 their sources, dagger and attributed wording for unread sources, visible scope
 wording for partial reads, dated markers and 90- or 180-day expiry for reviewed
@@ -136,3 +137,20 @@ existing link checker. Source matching, date checks and access qualifications
 share parsed prose, excluding metadata in inline and reference links. Exact raw
 anchors remain the basis for identity and drift checks. The validator batches
 local parsing and never follows links; CI installs the parser before these checks.
+
+## Ledger location, 2026-11-12 (#205)
+
+The ledger first sat in a block inside each source sidecar. Those sidecars ship
+with the skill, and `SKILL.md` sent the assistant into them. Before the move the
+blocks were 4,156,652 of the 6,029,610 bytes in `sources/` (69%), more than half
+of it full copies of recipe paragraphs used as claim anchors, with 235 lines over
+2,000 characters. Each ledger now lives in `provenance/<recipe-id>.yml`; no record
+changed, and the frozen inventory is byte-identical. `sources/` is 1,872,678
+bytes, and one sidecar instead of 135 is larger than its recipe. `SKILL.md`
+directs the assistant to the cited prose entry only. The validator refuses a
+ledger block inside a sidecar and a ledger file without a recipe.
+
+A recipe header's `checked_basis` is now matched against the prose alone, so a
+ledger copy of the recipe's own sentence can no longer satisfy it (#207, item 1).
+`us-federal-court-case-file-recovery` relied on that copy; its header now quotes
+its sidecar's `read 2026-11-07`, and the catalog accepts `read` as a check verb.

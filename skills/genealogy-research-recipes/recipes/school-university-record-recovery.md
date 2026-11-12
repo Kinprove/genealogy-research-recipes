@@ -3,11 +3,10 @@ id: "school-university-record-recovery"
 title: "Recover a pupil or student through school, district, copy and later-file layers"
 summary: "Recover a pupil or student across school, educational-district, parallel-copy, yearbook and later-file layers."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover a pupil or student across school, educational-district, parallel-copy, yearbook and later-file layers."]}
-triggers: ["Recover a pupil", "student across school", "educational-district", "parallel-copy", "yearbook and later-file layers"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "SCHOOL-UNIVERSITY-RECORD-RECOVERY-01", "text": "absence from a compiled or published list does not show that the person never attended."}]
+guardrails: [{"id": "SCHOOL-UNIVERSITY-RECORD-RECOVERY-01", "text": "A compiled or published list is a lead with limited coverage. Absence from it does not show that the person never attended."}]
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
@@ -28,7 +27,7 @@ Use this recipe when family memory, a photograph or a later document puts someon
 
 A compiled or published list is a lead with limited coverage. Absence from it does not show that the person never attended.
 
-Related recipes cover overlapping steps. For index hits that are not proof a file exists, and for keeping a copy-holder's item (such as a CAHJP film) separate from the original repository's signature, use [archival image coverage verification](archival-image-coverage-verification.md). For an archive's "no records" reply and for identity rulings, use [evidence/proof judgment](evidence-proof-judgment.md). For Cyrillic, Latin and Hebrew spelling expansion, use the catalogue's recipe on recovering attested spellings across scripts and OCR. For Ukrainian case titles that only look like named lists, use [Jewish archival list triage](jewish-archival-list-triage.md). For names that changed at conversion or re-registration, use [Russian-Empire Jewish identity attribution](russian-empire-jewish-identity-attribution.md).
+Related recipes cover overlapping steps. For index hits that are not proof a file exists, and for keeping a copy-holder's item (such as a CAHJP film) separate from the original repository's signature, use [archival image coverage verification](archival-image-coverage-verification.md). For an archive's "no records" reply and for identity rulings, use [evidence/proof judgment](evidence-proof-judgment.md). For Cyrillic, Latin and Hebrew spelling expansion, use [corpus-seeded name searches across scripts and OCR](corpus-seeded-name-search.md). For Ukrainian case titles that only look like named lists, use [Jewish archival list triage](jewish-archival-list-triage.md). For names that changed at conversion or re-registration, use [Russian-Empire Jewish identity attribution](russian-empire-jewish-identity-attribution.md).
 
 ## Contents
 

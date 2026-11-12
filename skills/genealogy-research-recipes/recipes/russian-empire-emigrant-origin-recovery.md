@@ -4,10 +4,9 @@ title: "Recovering a Russian Empire emigrant's origin locality"
 summary: "Five workflows for tracing an emigrant from destination records to an exact historical locality: reconcile arrival clues, recover failed name searches, extract complete manifests, follow contact/travel networks, and prepare a locality and archive handoff. Principally 1880–1924 U.S. arrivals, including Canadian transit, across confessions."
 kind: "records"
 scope: {"platforms": [], "tasks": ["conflicting arrival years, changing names, missing manifest pages, two contact fields, separate family arrivals, residence/birthplace ambiguity or an unresolved origin town."]}
-triggers: ["conflicting arrival years", "changing names", "missing manifest pages", "two contact fields", "separate family arrivals", "residence/birthplace ambiguity"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "RUSSIAN-EMPIRE-EMIGRANT-ORIGIN-RECOVERY-01", "text": "preserve each person's record and place role; verify linked pages and outcome evidence; direct U.S.-bound Canadian transit does not imply a Form 30A record."}]
+guardrails: [{"id": "RUSSIAN-EMPIRE-EMIGRANT-ORIGIN-RECOVERY-01", "text": "Preserve the wording and field role until the movement and locality evidence resolve them."}]
 handoff: ["ai-for-documentary-records", "beider-given-name-variants", "bessarabia-moldova-record-routing", "evidence-proof-judgment", "jewishgen-search-family-reconstruction", "newspapers-com-search-recovery", "research-documentation", "russian-empire-jewish-identity-attribution", "russian-volost-town-administration-records", "source-citation", "usa-immigration-search-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"

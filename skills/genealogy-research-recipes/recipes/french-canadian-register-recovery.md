@@ -3,11 +3,10 @@ id: "french-canadian-register-recovery"
 title: "Recover French-Canadian ancestors from combined registers, post and Montréal entries and notarial acts"
 summary: "Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts."]}
-triggers: ["Recover French-Canadian ancestors from combined registers", "French-post and Notre-Dame de Montréal entries and notarial acts"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "FRENCH-CANADIAN-REGISTER-RECOVERY-01", "text": "do not call the person absent until the French-Canadian name forms are exhausted."}]
+guardrails: [{"id": "FRENCH-CANADIAN-REGISTER-RECOVERY-01", "text": "Do not call the person absent until the name forms are exhausted"}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

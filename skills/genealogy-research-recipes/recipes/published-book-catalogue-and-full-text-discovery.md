@@ -3,11 +3,10 @@ id: "published-book-catalogue-and-full-text-discovery"
 title: "Find a published local history, compiled genealogy or family book across catalogues and full text"
 summary: "Find a published local history, compiled genealogy or family book across catalogues and full text."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find a published local history, compiled genealogy or family book across catalogues and full text."]}
-triggers: ["Find a published local history", "compiled genealogy", "family book across catalogues and full text"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "PUBLISHED-BOOK-CATALOGUE-AND-FULL-TEXT-DISCOVERY-01", "text": "a metadata search miss never establishes that a book does not exist or is not held; record what each tool covered."}]
+guardrails: [{"id": "PUBLISHED-BOOK-CATALOGUE-AND-FULL-TEXT-DISCOVERY-01", "text": "A miss is only a miss for that tool, query and range. It never establishes that the book doesn't exist or isn't held."}]
 handoff: []
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
@@ -117,6 +116,8 @@ Record each range you browsed and the volumes you actually opened.
 **Search Google Books for the ancestor's name across all books, not only full-view ones.** For a common name, put the full name in quotation marks and add a place or occupation qualifier [S6]. Record every query string exactly as you ran it.
 
 **For Central and Eastern European directories, yizkor (memorial) books and military lists, search Genealogy Indexer (genealogyindexer.org).** It searches the OCR text of these publications, and its guide warns that the OCR is not fully accurate [S16], [S17]. An empty 'surname near uezd' proximity query is weaker evidence than an empty surname-only query, because an OCR error in either word blocks the match. Also try its OCR-Adjusted matching and wildcards [S17]. If the source list shows no edition for the target guberniya, look for its residents in empire-wide editions and the WWI casualty lists. The page images sit on the holders' websites, and a moved image shows the host's error page, so find the volume at another holder [S18]. Its robots.txt disallows /search/ and /words/ for all robots (checked 2026-11-02), so run searches only in the user's browser [S19].
+
+In these sources a given name is often not spelled out. Genealogy Indexer's guide warns that some give only an initial or an abbreviated given name, and suggests searching for both forms near the surname, as `"j pytel"~3 | "joz* pytel"~3` [S38 @2026-11-12]. Vera Miller adds that in Russian and Ukrainian sources the given name and the patronymic may each be cut to about four letters, or given as initials only [S39 @2026-11-12]. Run the surname with an initial and with a short wildcard stem of the given name, and the surname with the place. Do not read a miss on the full given name and patronymic as a negative, and match an abbreviated hit to the person on the page image, not on the hit line.
 
 **For people who lived in Latvia, search the National Library of Latvia's periodika.lv and its digitised books.** Periodika searches the OCR full text of Latvian periodicals from the 18th century to the present, with a language filter [S20]. It includes Russian-language press of the Latvian SSR, such as the Riga paper *Советская молодежь* (Sovetskaya molodezh) [S21]. Some titles still under copyright are not available in full text [S22]. The digitised books collection holds interwar telephone subscriber lists, such as Jelgava 1932/33 [S23]; use them as an address and occupation lead. OCR can merge adjacent columns into a false match, so confirm every hit on the page image.
 

@@ -3,11 +3,10 @@ id: "russian-household-list-transcription-audit"
 title: "Audit a transcription of a Russian confession list or revision list against the images"
 summary: "Audit a transcription of a Russian confession list or revision tale against the images: count the people first, settle glyphs against the same scribe, keep relationship chains, name forms and kin terms as written, and record the image value with its inconsistencies."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Audit a researcher's, volunteer's or model's transcription of a Russian Orthodox confession list (исповедная ведомость) or revision tale (ревизская сказка) against the images."]}
-triggers: ["Check a transcription of a confession list or revision tale against the images", "Audit a spreadsheet of Russian household-list entries", "проверить расшифровку исповедной ведомости или ревизской сказки"]
+scope: {"platforms": [], "tasks": ["Audit a researcher's, volunteer's or model's transcription of a Russian Orthodox confession list (исповедная ведомость) or revision tale (ревизская сказка) against the images.", "Audit a spreadsheet of Russian household-list entries", "проверить расшифровку исповедной ведомости или ревизской сказки"]}
 privacy: "none"
 gates: []
-guardrails: [{"id": "RUSSIAN-HOUSEHOLD-LIST-TRANSCRIPTION-AUDIT-01", "text": "a transcription is one reading of the image: settle each disputed item on the image, against the same scribe's hand and the other years, and record what the image says even when other years disagree."}]
+guardrails: [{"id": "RUSSIAN-HOUSEHOLD-LIST-TRANSCRIPTION-AUDIT-01", "text": "**Record what the image says, even against other years.**"}]
 handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "historical-place-name-resolution", "russian-orthodox-confession-list-reading", "russian-revision-list-household-chaining"]
 checked: "2026-11-10"
 checked_basis: "opened 2026-11-10"

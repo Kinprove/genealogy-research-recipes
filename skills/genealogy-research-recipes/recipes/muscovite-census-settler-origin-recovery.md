@@ -3,11 +3,10 @@ id: "muscovite-census-settler-origin-recovery"
 title: "Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books"
 summary: "Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books."]}
-triggers: ["Push a Ural", "Siberian peasant line before 1719 through Muscovite census", "fiscal and fugitive-inquiry books"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "MUSCOVITE-CENSUS-SETTLER-ORIGIN-RECOVERY-01", "text": "each book is a copy-specific observation, and a stated origin stays testimony until a departure-side entry matches."}]
+guardrails: [{"id": "MUSCOVITE-CENSUS-SETTLER-ORIGIN-RECOVERY-01", "text": "Every stated origin is kept as testimony until a matching departure-side entry is found."}]
 handoff: []
 checked: "2026-11-02"
 checked_basis: "checked 2026-11-02"
@@ -21,7 +20,7 @@ Use this recipe when a Ural, Trans-Ural, West Siberian or northern Russian peasa
 
 The worked cases come mostly from Tobolsk and Verkhoturye uezds and from the northern Russian uezds that sent settlers there. For Tomsk, Yeniseysk or other Siberian uezds the book types and the reading rules are the same, but you have to find the locators yourself in the f.214 inventories (step 1).
 
-Related recipes: for searching under historical administrative units, parallel copies and coverage logging, use [research documentation: turn locality coverage into the next searches](research-documentation.md). For dated-jurisdiction checks, same-name separation and the final identity ruling, use [evidence/proof judgment](evidence-proof-judgment.md). To keep literal spelling attestations as search leads, use the catalogue's recipe on recovering attested spellings across scripts and OCR. For locators, use the [source citation record](source-citation.md).
+Related recipes: for searching under historical administrative units, parallel copies and coverage logging, use [research documentation: turn locality coverage into the next searches](research-documentation.md). For dated-jurisdiction checks, same-name separation and the final identity ruling, use [evidence/proof judgment](evidence-proof-judgment.md). To keep literal spelling attestations as search leads, use [corpus-seeded name searches across scripts and OCR](corpus-seeded-name-search.md). For locators, use the [source citation record](source-citation.md).
 
 ## Contents
 

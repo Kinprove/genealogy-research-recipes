@@ -3,11 +3,10 @@ id: "spanish-civil-parish-record-routing"
 title: "Route a Spanish or Andorran record to the archive that holds it on the event date"
 summary: "Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the body that holds it on the event date."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the body that holds it on the event date."]}
-triggers: ["Route a Spanish", "Andorran vital", "padrón", "Catastro", "notarial", "military"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "SPANISH-CIVIL-PARISH-RECORD-ROUTING-01", "text": "the Registro Civil starts in 1871, the diocese does not follow the modern province, and a parish book is not lost until the diocesan survival list and duplicates are checked."}]
+guardrails: [{"id": "SPANISH-CIVIL-PARISH-RECORD-ROUTING-01", "text": "**Expect the national Registro Civil only from 1 January 1871.**"}]
 handoff: ["catholic-parish-diocesan-record-recovery", "city-directory-observation-workflow", "evidence-proof-judgment", "hispanic-catholic-register-recovery", "historical-place-name-resolution", "school-university-record-recovery", "tax-roll-observation-workflow", "usa-immigration-search-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

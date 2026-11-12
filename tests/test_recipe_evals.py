@@ -1,8 +1,11 @@
 """Regression tests for the evaluator's failure modes, independent of a model/key."""
 
+import contextlib
 import datetime as dt
 import hashlib
+import io
 import json
+import os
 from pathlib import Path
 import shutil
 import sys
@@ -17,7 +20,7 @@ EVALS = ROOT / "skills/genealogy-research-recipes/evals"
 sys.path.insert(0, str(EVALS))
 from checks import SKILL, guardrails, header, load_cases, required_lines, static_checks
 from recipe_catalog import emit_recipe
-from run_evals import aggregate, deterministic, main as eval_main, parse_judgment, read_failures, sample, successful_reads, unexpected_tools, verify_replay_materials
+from run_evals import aggregate, deterministic, invoke, main as eval_main, parse_judgment, read_failures, sample, successful_reads, unexpected_tools, verify_replay_materials
 from read_server import read_recipe
 
 
@@ -54,13 +57,13 @@ class StaticEvaluationTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "dangling local link|missing anchor"):
                 static_checks(self.skill)
 
-    def test_case_quote_must_remain_in_body_not_just_header(self):
+    def test_guardrail_quote_must_remain_in_body(self):
         path = self.skill / "recipes/ai-for-dna-research.md"
         text = path.read_text(encoding="utf-8")
         quote = guardrails(self.skill)["CM-01"]["quote"]
         metadata, body = text.split("\n---\n", 1)
         path.write_text(metadata + "\n---\n" + body.replace(quote, "REMOVED"), encoding="utf-8")
-        with self.assertRaisesRegex(ValueError, "quote no longer occurs"):
+        with self.assertRaisesRegex(ValueError, "is not an excerpt of the recipe body"):
             static_checks(self.skill)
 
     def test_duplicate_guardrail_id_is_rejected(self):
@@ -327,8 +330,7 @@ class BehaviouralHarnessTests(unittest.TestCase):
         judgment = {"clarify": False, "items": [{"guardrail": item["guardrail"], "pass": True, "reason": "Observed"}
                                                for item in case["assert"]["rubric"]]}
         with tempfile.TemporaryDirectory() as directory:
-            args = SimpleNamespace(output=Path(directory), skill=SKILL, model="test", judge_model="test",
-                                   profile="claude", replay=None)
+            args = SimpleNamespace(output=Path(directory), skill=SKILL, model="test", judge_model="test", replay=None)
 
             def transport(prompt, skill, output, model, *positional, **options):
                 output.write_text("{}\n", encoding="utf-8")
@@ -347,6 +349,107 @@ class BehaviouralHarnessTests(unittest.TestCase):
             destination = args.output / case["id"] / "1"
             for name in ("result.json", "assistant.jsonl", "assistant-events.json", "judge.jsonl"):
                 self.assertTrue((destination / name).is_file())
+
+    def test_clarification_case_has_no_rubric_pass_and_needs_three_clarifications(self):
+        case = next(case for case in load_cases() if case["id"] == "deportation-1944")
+        rows = []
+        for number, clarify in enumerate((True, True, False), start=1):
+            with tempfile.TemporaryDirectory() as directory:
+                args = SimpleNamespace(output=Path(directory), skill=SKILL, model="test", judge_model="test", replay=None)
+
+                def transport(prompt, skill, output, model, *positional, **options):
+                    output.write_text("{}\n", encoding="utf-8")
+                    if output.name == "judge.jsonl":
+                        return json.dumps({"clarify": clarify, "items": []}), []
+                    return "Which population and place does the 1944 deportation concern?", []
+
+                printed = io.StringIO()
+                with patch("run_evals.invoke", side_effect=transport), contextlib.redirect_stdout(printed):
+                    rows.append(sample(case, number, args, guardrails()))
+            self.assertIsNone(rows[-1]["rubric_pass"])
+            status = "PASS" if clarify else "FAIL"
+            self.assertEqual(printed.getvalue(), f"{case['id']} [{number}/3]: {status}\n")
+        summary = aggregate([case], rows)[case["id"]]
+        self.assertFalse(summary["pass"])
+        self.assertEqual((summary["rubric_passes"], summary["clarification_passes"]), (None, 2))
+        summary = aggregate([case], [rows[0], rows[1], rows[0]])[case["id"]]
+        self.assertTrue(summary["pass"])
+        self.assertEqual(summary["clarification_passes"], 3)
+        rows = [{"case": self.case["id"], "rubric_pass": True, "deterministic_failures": []} for _ in range(3)]
+        self.assertIsNone(aggregate([self.case], rows)[self.case["id"]]["clarification_passes"])
+
+    def fake_cli(self, calls, terminal):
+        class FakeProcess:
+            returncode = 0
+
+            def __init__(self, command, **options):
+                calls.append((command, options))
+                options["stdout"].write(json.dumps(terminal) + "\n")
+
+            def communicate(self, prompt=None, timeout=None):
+                return "", ""
+
+        return FakeProcess
+
+    def test_invoke_isolates_settings_memory_and_session_environment(self):
+        login = {"PATH": "/bin", "HOME": "/home/tester", "CLAUDE_CONFIG_DIR": "/home/tester/.claude-second",
+                 "ANTHROPIC_API_KEY": "test-key"}
+        session = {"CLAUDE_EFFORT": "max", "CLAUDE_CODE_DISABLE_AUTO_MEMORY": "0", "ANTHROPIC_MODEL": "other",
+                   "MAX_THINKING_TOKENS": "1", "CLAUDECODE": "1"}
+        calls = []
+        fake = self.fake_cli(calls, {"type": "result", "subtype": "success", "result": "ok"})
+        with tempfile.TemporaryDirectory() as directory, patch.dict(os.environ, {**login, **session}, clear=True), \
+                patch("run_evals.subprocess.Popen", fake):
+            for tools in ("recipes", "native", ""):
+                self.assertEqual(invoke("prompt", SKILL, Path(directory) / f"{tools or 'judge'}.jsonl", "test-model",
+                                        tools=tools)[0], "ok")
+        self.assertEqual(len(calls), 3)
+        for command, options in calls:
+            self.assertEqual(command[0], "claude")
+            self.assertEqual(command[command.index("--setting-sources") + 1], "")
+            self.assertEqual(json.loads(command[command.index("--settings") + 1]), {"autoMemoryEnabled": False})
+            self.assertIn("--disable-slash-commands", command)
+            self.assertEqual(options["env"], login)
+
+    def test_usage_limit_fails_the_call_without_switching_login(self):
+        calls = []
+        fake = self.fake_cli(calls, {"type": "result", "subtype": "success", "is_error": True,
+                                     "result": "You've hit your usage limit"})
+        with tempfile.TemporaryDirectory() as directory, patch("run_evals.subprocess.Popen", fake):
+            with self.assertRaisesRegex(RuntimeError, "usage limit"):
+                invoke("prompt", SKILL, Path(directory) / "assistant.jsonl", "test-model")
+        self.assertEqual(len(calls), 1)
+
+    def test_default_run_reads_with_native_read(self):
+        # Claude Code shortens tool results above about 50 KB, so the scoped server cannot deliver large recipes.
+        seen = []
+
+        def fake_sample(case, number, args, rules):
+            seen.append(args.reader)
+            return {"case": case["id"], "sample": number, "deterministic_failures": [], "rubric_pass": True}
+
+        with tempfile.TemporaryDirectory() as directory:
+            argv = ["run_evals.py", "--case", "ystr-distance", "--output", str(Path(directory) / "run"), "--workers", "1"]
+            with patch.object(sys, "argv", argv), patch("run_evals.sample", side_effect=fake_sample), \
+                    patch("run_evals.subprocess.check_output", return_value="test-cli\n"), \
+                    contextlib.redirect_stdout(io.StringIO()):
+                self.assertEqual(eval_main(), 0)
+        self.assertEqual(seen, ["native"] * 3)
+
+    def test_short_patterns_do_not_match_inside_other_words(self):
+        cases = {case["id"]: case for case in load_cases()}
+
+        def missing(case_id, answer):
+            return [failure for failure in deterministic(cases[case_id], answer, {})
+                    if failure.startswith("Missing regex")]
+
+        self.assertTrue(missing("ystr-distance", "There are multiple tips for reading markers."))
+        self.assertFalse(missing("ystr-distance", "Use the FTDNATiP report."))
+        self.assertTrue(missing("photo-attribution", "Arrange the photos in a strange order."))
+        self.assertFalse(missing("photo-attribution", "Give a likely date range."))
+        community = " Have the families married within one community?"
+        self.assertTrue(missing("wato-ranking", "Ask your relatives." + community))
+        self.assertFalse(missing("wato-ranking", "These are relative odds." + community))
 
 
 class ReadFileToolTests(unittest.TestCase):

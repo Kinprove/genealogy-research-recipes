@@ -3,11 +3,10 @@ id: "german-local-census-registration-recovery"
 title: "Recover German local census lists and residential-registration entries"
 summary: "Recover German nominal census lists (roughly 1816–1916), residential-registration entries and associated settlement or trade-permission files."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover German nominal census lists (roughly 1816–1916), residential-registration entries and associated settlement or trade-permission files."]}
-triggers: ["Recover German nominal census lists (roughly 1816–1916)", "residential-registration entries and associated settlement", "trade-permission files"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "GERMAN-LOCAL-CENSUS-REGISTRATION-RECOVERY-01", "text": "\"we have no census\" is not proof of absence, statistical tables are not the record, and a stated origin town is not the birthplace. Request associated files separately; a residence occupation does not establish municipal employment."}]
+guardrails: [{"id": "GERMAN-LOCAL-CENSUS-REGISTRATION-RECOVERY-01", "text": "\"No census here\" ends that route only. Follow it with the other headings and the next archive."}]
 handoff: ["german-emigrant-origin-sources"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"

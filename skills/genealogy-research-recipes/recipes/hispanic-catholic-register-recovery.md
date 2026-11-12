@@ -3,11 +3,10 @@ id: "hispanic-catholic-register-recovery"
 title: "Recover a Mexican or Hispanic Catholic ancestor across parish and civil registers"
 summary: "Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers."]}
-triggers: ["Find a Mexican", "other Hispanic Catholic ancestor across parish books and civil registers"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "HISPANIC-CATHOLIC-REGISTER-RECOVERY-01", "text": "select the parish, not the town, search every surname arrangement, and never copy a baptism date into the birth field."}]
+guardrails: [{"id": "HISPANIC-CATHOLIC-REGISTER-RECOVERY-01", "text": "**Never copy a baptism date into the birth field.** Baptism could be late because of distance, the priest's fee or inertia [S2]."}]
 handoff: ["brazilian-parish-civil-registry-recovery", "portuguese-parish-civil-register-recovery", "spanish-civil-parish-record-routing"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

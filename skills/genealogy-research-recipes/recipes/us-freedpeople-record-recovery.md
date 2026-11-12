@@ -3,11 +3,10 @@ id: "us-freedpeople-record-recovery"
 title: "Trace an African American ancestor across the 1870 boundary"
 summary: "Trace an African American family back across the 1870 boundary."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Trace an African American family back across the 1870 boundary."]}
-triggers: ["Trace an African American family back across the 1870 boundary"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-FREEDPEOPLE-RECORD-RECOVERY-01", "text": "test free versus enslaved status first; a surname, enslaver, list order or DNA signal stays a hypothesis until a record names the person."}]
+guardrails: [{"id": "US-FREEDPEOPLE-RECORD-RECOVERY-01", "text": "Surname, enslaver, list order and DNA signals stay separate hypotheses until a record names the person."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
@@ -79,6 +78,8 @@ Each section below blocks one of these mistakes.
   - Compare the person's birth with the state's cutoff. A census age is an estimate, so confirm the birth from a vital record before ruling on status. In the S27 example, the town birth record put a woman ten months before Connecticut's cutoff, so the act did not free her, and an 1845 family will still describes her as "left by my Father to his heirs" [S27].
   - Do not assume that "servant" in these states' wills means hired help: a "servant" left to the testator's heirs can be a person held as property [S27]. A support duty split among heirs is not proof on its own, since Connecticut also made former owners' heirs liable for supporting people they had freed. Decide with the birth date against the act's cutoff and the census status columns: born before the cutoff, the person was held for life; born after it, for a term until the age the act set.
 
+- **A free woman heading an 1850 or 1860 household.** When a free woman of color heads a household with a growing number of children and no husband listed, keep an enslaved husband as one hypothesis. The FamilyTreeDNA guide reports that marriages between free and enslaved people, not uncommon in the Upper South, could not be formalized, and that the free-born children of an enslaved father carried their free mother's maiden name [S59]. Enslaved people could not legally marry [S64], and a child's status followed the mother's: Virginia's 1662 act held children "bond or free only according to the condition of the mother" [S63]. Search the children under the mother's surname as well as under any surname a father used. Widowhood, separation and an unmarried mother fit the same household, so keep the enslaved-husband reading open until a record names him. The same guide reports that such couples often registered in the 1866 cohabitation registers described in §2 [S59].
+
 ## 2. Look for a document that names the enslaver
 
 Look for a record that names the enslaver before you guess one from a surname.
@@ -103,6 +104,16 @@ Look for a record that names the enslaver before you guess one from a surname.
 - **Southern Claims Commission files.** Search by county, not by surname. Read the testimony in allowed claims and also in disallowed and barred claims (NARA M1407). These files are on Ancestry and Fold3. Formerly enslaved witnesses in someone else's claim may name their owner [S20].
 - **Fugitive Slave Act cases (post-1850).** The 1850 act used federal commissioners and U.S. marshals to return fugitives, so it created federal paperwork: a petition, an ownership affidavit and witness testimony. Search under the claimant slaveholder's name [S8].
 
+- **Cohabitation registers of 1866.** Search the registers made when Virginia and North Carolina legalized the unions of formerly enslaved couples in 1866 [S64], [S65]. Virginia's registers of colored persons cohabiting together as husband and wife on 27 February 1866 usually name former enslavers, residences and birthplaces, and a separate register lists children whose parents had ceased to cohabit [S64]. North Carolina's cohabitation bonds, filed with the county register of deeds under the March 1866 act, typically give the man's and the woman's names and ages and how long they had been married; some counties add the enslaver or the number of children [S65]. The FamilyTreeDNA guide uses these records to find a wife's maiden surname, and treats couples who registered on the same day as possibly related or enslaved in the same household [S60]. A RootsTech 2025 session description also pairs them with probate, Freedmen's Bureau records and DNA for the years before 1870 [S61].
+
+- **Virginia death registers, 1853–1865.** For an enslaved person who died in Virginia before emancipation, read the county or city death register: from 1853 its headings include the name of the enslaver, if the deceased was enslaved, and the date and place of death [S68]. In Roberta Estes's Washington County example, the place of death was often a plantation's name or location, and the owner named there can be followed through land and tax records [S62]. Estes suspects that not every enslaved person's death was recorded, so a missing entry does not show that the person was alive [S62].
+
+  The Library of Virginia reports no statewide index to the 1853–1896 death registers, only indexes that some county clerks made, so look for a county index or read the register [S68 @2026-11-12].
+
+- **Crop liens and chattel mortgages.** After 1865, search the county's recorded crop liens, chattel mortgages and trust deeds for a freedman who farmed as a sharecropper or tenant. A lien can place him on a named landlord's farm in a given year [S71]. In Tennessee, look in books titled Deeds of Trust or Trust Deeds; elsewhere the books are often titled Crop Liens [S71]. The FamilyTreeDNA guide reports that farmers who signed one lien together shared the risk and were typically a parent and an adult son or son-in-law, or siblings and brothers-in-law [S59]. Record a co-signer as a candidate relative until a record states the relationship.
+
+  The same guide reports that most of FamilySearch's crop liens and chattel mortgages are not indexed but can be reached through Full Text Search [S59 @2026-11-12].
+
 ## 3. Generate and eliminate candidate enslavers
 
 - **Collect candidates.** Draw them from the 1870 household (older generations living there), neighbors, shared given names between Black and white families, slave schedules and county slaveholder lists [S10], [S13]. Read the children's middle names too: in one presenter's family, the parents gave their children the names of both former owners as middle names [S18].
@@ -116,6 +127,8 @@ Look for a record that names the enslaver before you guess one from a surname.
   - no connection at all.
 
   The Liberty County presenter estimates that only about 10% of formerly enslaved people there took their last enslaver's name. In the presenter's example, the adopted surname pointed to a much earlier enslaver of the family [S12]. Treat that figure as a local, attributed estimate, not a rule.
+
+- **Do not read "Mulatto" as a sign of an enslaver father.** The 1870 and 1880 enumerator instructions call the word generic: it includes quadroons, octoroons and all persons having "any perceptible trace of African blood" [S66], [S67]. The entry therefore says nothing about how recent the white ancestry was, and the FamilyTreeDNA guide warns that it does not imply the person was the child of an enslaver [S59]. Do not add a candidate enslaver to the register on the strength of the color entry.
 
 ## 4. Follow the personal-property chain, not land
 
@@ -139,6 +152,8 @@ Enslaved people appear in records of the enslaver's personal property: sale noti
   - AI transcripts can drop commas between names, so read the original image [S6].
   - Re-run the searches every week or two, because processed coverage keeps growing [S3].
 
+- **Search heirs' chancery suits.** When an enslaver's heirs disputed who should inherit an enslaved person, look for the suit in the county court of equity (chancery) and, occasionally, on appeal to a state court [S59]. Such a suit can state relationships that the will and the distribution omit. In the FamilyTreeDNA guide's North Carolina Kee example, the heirs disputed a girl born after the will was written, and agreed that she was the daughter of a named woman [S59]. The Library of Virginia's archives blog reports Virginia chancery causes about dividing enslaved people as part of an estate, whose exhibits give names, ages and family relationships [S72]. To find and inventory the file, use [court case file recovery](court-case-file-recovery.md).
+
 ## 5. Build a per-document register of named enslaved people
 
 Make one row per person per document with these fields:
@@ -158,6 +173,8 @@ Rules for reading the register:
 - **Unnamed entries.** Record a count-only entry (for example a purchase of eight enslaved people with no names) as its own row with holder, recipient and date. A later document by the same holder that names people can then be tested against it as a candidate link [S36].
 - **Grouping type.** Mark each grouping **explicit** (for example "and her three children" [S2], or "Caesar his wife and his children" [S6]) or **order-inferred** [S15]. A woman listed in a mother-like position is a hypothesis unless the record lists family groups [S16]. List order can also reflect appraisal practice, so do not read adjacency as kinship.
 - **Bequests of a woman's increase.** Read "her increase" or "all her issue" in a will as a gift of the enslaved woman's children, not as boilerplate: usually those born later, and those already born too when the clause says so. Record the clause as an explicit grouping of the woman and the children it covers, still unnamed, and look for those children in the legatee's later records. Read every bequest clause in full: wills can name enslaved people in the same sentence as bedding, silverware and livestock, and use the livestock term "increase" for enslaved women's children (sale advertisements also use "breeding") [S37].
+
+- **Age words and values.** Use descriptors and appraised values to bracket an age, not to fix one. "Old" and "young", like "big" and "little", may only tell apart two people with the same name, and do not show that they were related [S59], [S69]. Read "boy" and "girl" by that appraiser's own usage, not as children under ten: one 1843 Maryland appraiser counted "boys" as 17 and under [S69]. Prices were highest for healthy young adult men, then for women of childbearing age, and low for young children and for old or infirm people [S70], [S69]. A low value can therefore mean a child or an old person, so compare values only within one document and beside their descriptors.
 
 ## 6. Check segregated series before calling a search negative
 

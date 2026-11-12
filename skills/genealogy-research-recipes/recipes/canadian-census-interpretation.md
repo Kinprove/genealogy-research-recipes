@@ -3,11 +3,10 @@ id: "canadian-census-interpretation"
 title: "Interpret a historical Canadian census entry as a de jure listing"
 summary: "Read a historical Canadian census line as a de jure listing, and browse by geography when a name search misses."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Read a historical Canadian census line as a de jure listing, and browse by geography when a name search misses."]}
-triggers: ["Read a historical Canadian census line as a de jure listing", "and browse by geography when a name search misses"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "CANADIAN-CENSUS-INTERPRETATION-01", "text": "do not read a Canadian listing as a \"present on census night\" headcount."}]
+guardrails: [{"id": "CANADIAN-CENSUS-INTERPRETATION-01", "text": "For any census from 1871 onward, write on the observation that the enumeration was de jure. People were listed where they were supposed to belong, as reported by an informant, not where they physically were at a cutoff time."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"

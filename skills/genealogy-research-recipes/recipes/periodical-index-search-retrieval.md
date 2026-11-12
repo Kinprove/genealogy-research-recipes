@@ -3,11 +3,10 @@ id: "periodical-index-search-retrieval"
 title: "Search a genealogical periodical index and retrieve the article"
 summary: "Search a genealogical periodical index such as PERSI and retrieve the article."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Search a genealogical periodical index such as PERSI and retrieve the article."]}
-triggers: ["Search a genealogical periodical index such as PERSI and retrieve the article"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "PERIODICAL-INDEX-SEARCH-RETRIEVAL-01", "text": "these indexes are not full text, so a personal-name miss usually means the article text was never searched, and a hit is only a citation."}]
+guardrails: [{"id": "PERIODICAL-INDEX-SEARCH-RETRIEVAL-01", "text": "A personal-name miss therefore usually means the article text was never searched, and a hit is only a citation."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
