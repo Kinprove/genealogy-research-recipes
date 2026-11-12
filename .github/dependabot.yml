@@ -9,3 +9,11 @@ updates:
     groups:
       github-actions:
         patterns: ["*"]
+  # Keeps the two npm lockfiles current: the CI tools and the Markdown link checker.
+  - package-ecosystem: npm
+    directories: ["/ci-tools", "/tests/markdown-links"]
+    schedule:
+      interval: weekly
+    groups:
+      npm:
+        patterns: ["*"]
