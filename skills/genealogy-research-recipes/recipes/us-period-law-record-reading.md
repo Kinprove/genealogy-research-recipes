@@ -19,7 +19,7 @@ router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institut
 
 Use this recipe when a U.S. record uses a legal word, names a court or office, or invites an inference from what the law allowed: a young bride, a widow's share, an intestate father's land, a bond, a juror list, a court date. It shows how to find the rule for that place and date, and how far the record can be read under it.
 
-"The author" in this recipe is Judy G. Russell of The Legal Genealogist, whose posts are cited as S1 to S23.
+"The author" in this recipe is Judy G. Russell of The Legal Genealogist, whose posts are cited as S1 to S23. Other bloggers are named where they are cited.
 
 Errors this recipe blocks:
 
@@ -103,7 +103,6 @@ Link out for the shared steps:
 - **A juror list shows eligibility under that year's act.** On a 1748 Virginia county-court juror list, first identify the jury. Under the 1705 act a county-court trial jury needed a visible estate, real or personal, of 50 pounds sterling, not land ownership. A county grand jury was summoned from freeholders, and a jury trying a crime or title to land needed a freeholder with a visible estate of 100 pounds sterling [S99]. These are legal requirements, not proof of what a man held. One published reading infers that he did not keep a tavern or own a mill [S23]. Do not adopt that inference: the exclusion is in the October 1748 act, covers only county grand jury summonses, and took effect after 10 June 1751 [S98], [S99].
 - **A December 25 court date is not an error by itself.** Check when that jurisdiction made Christmas a legal holiday. The 1870 federal act reached only the federal workforce in the District of Columbia, and states adopted the holiday at different dates [S19], [S92], [S93]. No source documented a particular court sitting that day, so treat this as a reason not to correct the date, not as proof that court sat.
 - **Marriage into the Cherokee Nation did not end U.S. citizenship.** For a U.S.-citizen woman adopted into the Cherokee Nation in Indian Territory by intermarriage, search Cherokee court records for her civil suits with tribal members. Do not read later naturalization papers as proof she had lost citizenship. The decision rests on Cherokee treaties and does not establish this for recognized tribes generally [S7], [S71].
-
 - **A final Dawes roll entry can hide earlier status changes.** For a Five Civilized Tribes enrollment, read the enrollment card and the application file, not only the final roll: the cards record the actions of the Commission and the Secretary of the Interior on each family group, and the applications hold testimony and correspondence [S129]. Status could change late. *Red Bird v. United States*, decided 5 November 1906, held that whites who married into the Cherokee Nation after 1 November 1875 could not share in the allotment of its lands [S128]. On 10 January 1907 the Commission cited that decision in denying one applicant's enrollment as a citizen by intermarriage [S130]. Janine Cloud reports an ancestor listed as Cherokee by blood, corrected to citizen by intermarriage, then removed from the roll and denied citizenship [S127]. Record each status with its date and the document that gives it.
 
 ## 5. Check inheritance and widows' rights against the date
