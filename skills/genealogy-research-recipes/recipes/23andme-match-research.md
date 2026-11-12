@@ -68,6 +68,17 @@ regional availability, and match-list limits change. A missing button deserves a
 check; a withheld comparison belongs in the worksheet as **unavailable**. Participation and
 ancestry sharing disclose different fields; record both. [O1]
 
+Read DNA Relatives as a capped list of the closest matches, not a roster of everyone who tested.
+23andMe's Premium Ancestry page advertises up to 5,000 DNA Relatives for members
+[O28 @2026-11-12]; practitioners reported a 1,500-match list without a membership from 2021 to
+2023 [S31 @2026-11-12], [S32 @2026-11-12], [S7 @2026-11-12]. Record the membership state and the
+list size with each worksheet. Estes reports that matches the user has communicated with, or tried
+to, are kept after they would otherwise roll off the list [S7 @2026-11-12], [S31 @2026-11-12]. A
+distant cousin missing from a full list may sit below the cap: record `not in the capped list`,
+not `not tested` or `not related`. One endogamous side can fill the list with distant matches.
+Perl had only 88 maternal matches among 1,500 although both parents had tested
+[S32 @2026-11-12]. Few matches on one side do not show that few relatives on that side tested.
+
 For a requested visibility pause, check matching participation, existing Connections and the
 actual ancestry/health sharing scope for each managed profile separately. Record the states
 actually offered; do not assume a matching opt-out stops established sharing or deletes data.
@@ -621,6 +632,11 @@ These buckets use match-list membership, which can include different relationshi
 They do not establish pairwise matching on the same interval or assign every segment to the
 known relative's branch. Inspect useful matches with recipe 4 and the existing DNA judgment
 recipes, especially in endogamous families.
+
+Expect some bucketed matches that do not fit the branch. Perl found 17 matches in common between
+the lists of two testers who are not related to each other, each list holding more than 10,000
+matches [S10]. Before assigning an unexpected bucketed match to the branch, review its shared
+matches in detail on the testing site [S10].
 
 ## Recipe 9: improve a Reconstructed Ancestor through verified tree placements
 
