@@ -49,16 +49,19 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `court-case-file-recovery#C-1e36ae61fc27` | platform-ui | 2026-11-12 | 2027-05-11 | S19, S20 |
 | `criminal-court-prison-record-recovery#C-3ffaff7e2eed` | custody | 2026-11-12 | 2027-05-11 | S19, S20, S21 |
 | `dna-comparison-controls#C-a6c6a5c55901` | platform-ui | 2026-11-12 | 2027-05-11 | H29, H30, H31 |
+| `dna-comparison-controls#C-7e99f9a644d0` | platform-ui | 2026-11-12 | 2027-05-11 | H32, H33 |
 | `english-nonregister-record-recovery#C-fe8197ed49f4` | portal-availability | 2026-11-12 | 2027-02-10 | S39, S40 |
 | `family-photograph-attribution-and-dating#C-2d4811ec7c17` | platform-ui | 2026-11-12 | 2027-05-11 | S52, S53 |
 | `ftdna-practical-dna-workflows#C-6c5f6146e3d9` | platform-ui | 2026-11-12 | 2027-05-11 | S34, S35, S36 |
 | `ftdna-practical-dna-workflows#C-e4b081b42e90` | platform-ui | 2026-11-12 | 2027-05-11 | S30, S12, S46, S31 |
 | `ftdna-practical-dna-workflows#C-2db50813277d` | platform-ui | 2026-11-12 | 2027-05-11 | S31, S32, S33 |
+| `ftdna-practical-dna-workflows#C-46b51a490a94` | platform-ui | 2026-11-12 | 2027-05-11 | S41, S42 |
 | `ftdna-practical-dna-workflows#C-b34ffa67ef67` | platform-ui | 2026-11-12 | 2027-05-11 | S37, S38, S39, S36, S40 |
 | `ftdna-practical-dna-workflows#C-3b150a6a1f31` | platform-ui | 2026-11-12 | 2027-05-11 | S43, S44 |
 | `ftdna-practical-dna-workflows#C-5bb21810f5cf` | platform-ui | 2026-11-12 | 2027-05-11 | S9, S45 |
 | `ftdna-practical-dna-workflows#C-f5aa6ce656ff` | platform-ui | 2026-11-12 | 2027-05-11 | S38, S23 |
 | `gedcom-research-export#C-f767bfdf8601` | platform-ui | 2026-11-12 | 2027-05-11 | S17, S18 |
+| `gedmatch-practical-dna-workflows#C-144b3560073f` | platform-ui | 2026-11-12 | 2027-05-11 | S21, S22, S23 |
 | `german-military-record-period-routing#C-55f33b1392df` | platform-ui | 2026-11-12 | 2027-05-11 | S16, S17, S18, S19, S20 |
 | `german-register-image-recovery#C-a693b3ef2fea` | portal-availability | 2026-11-12 | 2027-02-10 | S76, S74, S75 |
 | `hispanic-catholic-register-recovery#C-886045d1f530` | platform-ui | 2026-11-12 | 2027-05-11 | S38, S37 |
@@ -128,6 +131,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `usa-immigration-search-recovery#C-b5c005f699a2` | portal-availability | 2026-11-12 | 2027-02-10 | N66, N67 |
 | `wikitree-dna-tester-links#C-3ccb958674db` | platform-ui | 2026-11-08 | 2027-05-07 | S3, S2, S4 |
 | `ydna-mtdna-interpretation#C-251c81450dea` | portal-availability | 2026-11-08 | 2027-02-06 | N12, N3, N11, N104, N96, N97, N98, N6, N26, N15, N47, N48 |
+| `ydna-mtdna-interpretation#C-83c7011ee344` | platform-ui | 2026-11-12 | 2027-05-11 | N109, N110 |
 | `ydna-mtdna-interpretation#C-83c6160dc57d` | platform-ui | 2026-11-12 | 2027-05-11 | N105, N108, N92, N107, N106 |
 | `ydna-mtdna-interpretation#C-6c665445ac3d` | platform-ui | 2026-11-12 | 2027-05-11 | N111, N107, N112 |
 | `ydna-mtdna-interpretation#C-c573f6718391` | platform-ui | 2026-11-12 | 2027-05-11 | N117, N118, N107, N108 |
