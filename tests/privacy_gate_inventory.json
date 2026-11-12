@@ -258,6 +258,12 @@
   "checkpoint": "Pasting living people's records into an AI chatbot sends their data to a third party; answer the privacy gate in `SKILL.md` first."
  },
  {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "Upload a multi-page document as one PDF rather than as separate images",
+  "checkpoint": "A document uploaded to Scribe AI gives its contents"
+ },
+ {
   "recipe": "ancestry-dna-match-investigation.md",
   "kind": "contact",
   "action": "Obtain a missing comparison from an authorized kit manager when your own access cannot show it.",
@@ -1060,6 +1066,18 @@
   "kind": "export",
   "action": "links. Use available exports only after verifying their presence and actual coverage for this",
   "checkpoint": "Match, shared-match and segment exports name"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "publish",
+  "action": "Share DNA results with a collaborator; only someone allowed",
+  "checkpoint": "Sharing a kit's results gives another person a"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "export",
+  "action": "use Advanced options → Download shared DNA info",
+  "checkpoint": "A segment export lists living matches' DNA data;"
  },
  {
   "recipe": "nazi-era-ancestry-proof-records.md",

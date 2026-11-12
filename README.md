@@ -217,7 +217,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [marks-and-brands-record-recovery](skills/genealogy-research-recipes/recipes/marks-and-brands-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [missing-marriage-jurisdiction-search](skills/genealogy-research-recipes/recipes/missing-marriage-jurisdiction-search.md) | record catalogues and original images | — | — | — | — | — |
 | [muscovite-census-settler-origin-recovery](skills/genealogy-research-recipes/recipes/muscovite-census-settler-origin-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [myheritage-dna-match-investigation](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) | myheritage | — | — | export, link | contact | required |
+| [myheritage-dna-match-investigation](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) | myheritage | — | — | export, link, publish | contact | required |
 | [myheritage-historical-record-search](skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md) | myheritage | — | — | — | — | — |
 | [nazi-era-ancestry-proof-records](skills/genealogy-research-recipes/recipes/nazi-era-ancestry-proof-records.md) | record catalogues and original images | — | — | request | — | required |
 | [newspapers-com-search-recovery](skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md) | newspapers.com | — | — | — | — | — |

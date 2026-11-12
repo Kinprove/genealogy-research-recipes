@@ -66,6 +66,19 @@ Two corollaries specific to records work:
 - **Brainstorming research strategy and next steps** — turning a brick wall into a research plan and a record-group list; ChatGPT Deep Research produced a lead report from 35 sources / 109 searches in ~8 minutes (a single-run anecdote, illustrative only). (The Diehl on Genealogy; Denyse Allen)
 - **Voice-preserving editing and drafting** — proofread-with-original/revision/highlighted-changes; draft a family-history chronicle from supplied transcriptions — but Claude tends to over-rewrite when asked to change just one paragraph. (DNAeXplained; Genealogy TV)
 
+For a record image already on MyHeritage, run Scribe AI from the record page, or from the photo
+in your gallery, with View insights instead of downloading and re-uploading the image
+[S1 @2026-11-12], [S2 @2026-11-12]. The option appears on many record images, not all
+[S2 @2026-11-12].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A document uploaded to Scribe AI gives
+its contents, possibly including living people, to MyHeritage; answer the privacy gate in
+`SKILL.md` first.
+
+Upload a multi-page document as one PDF rather than as separate images: Scribe AI reads a PDF as
+one unit, typically up to about 15 pages, with a 10 MB file limit [S1 @2026-11-12],
+[S2 @2026-11-12].
+
 ## What to never trust or delegate (verify, or don't)
 
 Each of these is a documented failure, not a hypothetical.
@@ -88,6 +101,12 @@ Each of these is a documented failure, not a hypothetical.
 - **Technical drawings requested as generated images.** "Generate an image" of a metes-and-bounds plat yields artistic pixels — accurate output needs a code path plus a human who understands deed mapping. (Family Locket)
 - **Final evidentiary judgment / GPS compliance.** AI drafts proof arguments; humans rule — even FamilySearch's own stance is to leave conflicting-record judgments to people. (FamilySearch; Legacy Tree)
 
+In Georgia's 1827 land lottery, an entry for a man's "orphans" does not by itself show that he
+had died. The act of 9 June 1825 let the wives and children of men absent from the state for
+three years draw as though they were widows and orphans [S3], [S4], [S5]. Before searching for
+the father's death or probate before 1827, check the act's categories and look for evidence
+that he had left Georgia.
+
 ## Prompt-craft that practitioners found works (the reusable core)
 
 1. **Feed a COMPLETE source folder, not isolated questions.** Hand over the whole transcribed folder (Denyse Allen used 42 records) and ask for working *artifacts* — research log, plan, timeline, corrected family group sheet, proof statements — not one-off Q&A. (Denyse Allen)
@@ -104,6 +123,20 @@ Each of these is a documented failure, not a hypothetical.
 12. **Use strict, command-style language and skip politeness** — the AI has no emotions, and imperative phrasing keeps you aware it's a tool. (James Tanner)
 13. **Privacy gate:** <!-- privacy-gate: export --> A GEDCOM index or obituary extraction can name living relatives; answer the privacy gate in `SKILL.md` before exporting it to a spreadsheet. **Verify large batches in Excel.** Export a big structured extraction (a GEDCOM index, obituary fields) to a spreadsheet and check row counts and filters, because LLMs silently drop or invent data in the *middle* of a large input rather than raising a capacity error. (Genealogy TV — Little & Thompson)
 14. **Run two strong models and diff to find the uncertain tokens.** Transcribe or translate the same record with two different models; the diff points straight at the uncertain tokens. It is neither verification nor corroboration: settle each disputed token against the image, and do not feed both models one draft. (Kitty Cooper)
+
+When you compare a model's transcription with your own, settle every difference on the image
+rather than scoring the model against your typed copy. In Family Locket's deed test, the model
+was right and the researcher wrong in four of fifteen differences, one of them a misspelling in
+the deed that her typed copy had corrected, possibly through Google Docs autocorrect [S6]. Google Docs'
+Autocorrect fixes spelling and can be turned off, so type a reference transcription with it
+off [S7].
+
+For a hard hand, a line-by-line HTR draft is easier to check than a chatbot's reading of the
+image: Transkribus links each recognized line to its place on the image, so compare every line
+with its marked line [S8], [S9]. If you then ask a chatbot to correct the draft, as Family
+Locket did with a deed, compare its output with the draft word by word and check every change
+on the image [S9]. A model correcting text without the image can replace a right reading with a
+plausible wrong one.
 
 ### Generate candidates for an uncertain German word
 
@@ -122,6 +155,11 @@ similar tokens. The [locality-reading discussion](https://forum.j-roots.info/vie
 motivates this contextual check without verifying its proposed place or subject-status readings.
 
 For a doubtful letter in a name, find the same writer's clear forms of that letter on the same page and compare them before accepting or correcting an index reading. If the image is poor, look for an independent scan of the same page on another provider's site and compare the readings, recording which image each came from. Another copy may be clearer, but not always. When asking a helper, supply the whole page or a link to it ([Sorensen](https://www.youtube.com/watch?v=xvqeNOE_dp8)); the same likely applies to a model. The reading stays an interpretation. Motivated by the [maiden-name example](https://www.youtube.com/watch?v=9Vq4-eIqsg0), the [enumerator comparison](https://www.youtube.com/watch?v=EEhzZ94K0ms) and the [ScotlandsPeople census case](https://www.youtube.com/watch?v=bxUHrllbZI4). These are single cases and do not establish whether the copies come from different filmings or scans.
+
+In older handwriting, into the 19th century, a double s was often written with a long first s
+that looks like f or p, so a name read as 'Jepe' can be Jesse [S10], [S11]. Compare the letter
+with an ss in a word you can read in the same document [S10]. An index or HTR may have kept the
+p-reading, so search that form as a variant too.
 
 To audit a whole transcription of a Russian confession list or revision tale against its images, use the [household-list transcription audit](russian-household-list-transcription-audit.md).
 
@@ -199,6 +237,15 @@ Treat any AI-altered image as a **derived, non-documentary** artifact and keep i
 - **Label every modification in human-readable text** and **cite each edit in a layered citation** — visible provenance metadata and "Generated by AI" tags are removable, and no universal tamper-proof standard is settled yet. (Emerging ones — Google's invisible SynthID watermark on Gemini/Nano Banana images, and C2PA content credentials — are being adopted but are not yet universal, so re-check before relying on any of them.) (James Tanner; DNAeXplained)
 - **Convert a reconstruction to a pencil drawing or painting** to signal it is interpretive, not photographic. (Denyse Allen; Genealogy TV)
 - Know *why* each transform lies: colorization invents color the record never carried and shifts the **apparent date** (consumer color came late); background removal deletes buildings, gardens, and album-mount clues that date a photo; generative "restoration" is inpainting that regenerates the whole frame and can subtly alter a face (a practitioner rated Nano Banana ~8/10 good, ~2/10 substantially altered — a subjective, version-sensitive estimate); generated "period" scenes carry anachronisms (a wheelchair-accessible curb in a turn-of-century street). (James Tanner; Genealogy TV — Little & Thompson; Aimee Cross)
+
+Before treating an image taken from MyHeritage as the original photograph, look at its
+corners; MyHeritage's help places its marks at the bottom left [S12 @2026-11-12],
+[S13 @2026-11-12]. A palette marks a colorized or color-restored photo, a magic wand an
+enhanced one, a moving ball an animation and a bandage a repair, and the original is kept
+separately [S12 @2026-11-12]. MyHeritage calls an animation a technological simulation, not
+authentic [S13 @2026-11-12], [S14 @2026-11-12]. A marked image is a derived artifact; ask for
+the original. A cropped or re-saved copy can lose the marks, so their absence does not show
+that an image is unaltered.
 
 ## The pitfalls worth internalizing (the least-obvious, most-LLM-usable part)
 

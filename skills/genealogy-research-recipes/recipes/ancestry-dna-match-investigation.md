@@ -105,6 +105,14 @@ returned members' documentary paths. A lower-sharing seed does not establish an 
 [Nicole Dyer's 2026 demonstration](https://www.youtube.com/watch?v=1hwGyO2ft4g) shows this
 alternate-primary selection on a previously explored line.
 
+Set a custom cluster's range for the generation of the ancestor you are testing. Family
+Locket's summary of Ancestry's suggestions gives 90–340 cM for great-grandparents (second
+cousins), 40–120 cM for second-great-grandparents (third cousins) and 20–60 cM for
+third-great-grandparents (fourth cousins), with 20 cM as the lowest setting [S1 @2026-11-12].
+Ancestry's own help page could not be read to confirm these figures. Choose sidekicks who
+descend from the same ancestor as the match of interest and share more DNA than the top of
+the range [S2 @2026-11-12].
+
 Read a cluster's matrix member by member before assigning members to the cluster's line.
 Count each member's filled cells with the cluster's documented members. Treat a member tied
 by only one or two cells as weakly attached, and check its tree and records before using it
@@ -225,6 +233,14 @@ recording a half relationship or a second partner, check whether your tree and t
 path record both spouses of the common couple. Resolve the couple from records and keep the half
 and full alternatives open.
 
+Do not read the children ThruLines shows under an ancestor as the whole family. It shows only
+children through whom a tested descendant's linked tree, yours or a match's, descends: in one
+2022 example it listed five children of a third-great-grandfather for whom the researcher had
+found eleven [S3], [S4]. Build the
+sibling set from records, and treat the missing children's lines as places to look for
+untested descendants when choosing a tester (see
+[unknown-parentage-wato.md](unknown-parentage-wato.md)).
+
 **Output:** a verified tester/link statement and a candidate comparison for each hypothesis.
 
 ## 6. Detect a label that already uses your shared-match evidence
@@ -250,6 +266,12 @@ Ancestry's white paper, says the segment count is unweighted too. Compute an ave
 length as unweighted amount ÷ segment count, and label it so. Dividing the weighted headline by the count understates the average and mixes two
 measurements.
 
+At 90 cM or more, do not flag a match as possibly reduced by weighting or adjust its total.
+Kessler found the weighted and unweighted figures always equal from 90 cM, and the unweighted
+figure usually larger below it; Estes likewise reads Timber as removing segments only from
+matches under 90 cM [S5 @2026-11-12], [S6 @2026-11-12]. Ancestry's help page on unweighted
+DNA could not be read to confirm the threshold.
+
 Keep three columns: observed cM, dated label with its origin, and sourced pedigree path. Include half and full alternatives when considering a relationship (Bartlett, 2026-03-27). A changed label belongs in the label/date column; inspect changed measurements, records or tester identity before revising the documented pedigree.
 
 **Output:** a comparison table distinguishing user assignments from vendor predictions, with affected predictions marked “shared-graph-informed.”
@@ -263,6 +285,12 @@ Standard Matches by Cluster uses **65–1300 cM** to the tester as its window an
 For a 25 cM target below the standard window, set a **custom cluster's search range to 20–60 cM**, select the target as primary, and add up to four sidekicks shared with it. Save the selections and returned rows. Sidekicks already within the chosen range need not be added separately.
 
 Inspect a missing pair from another authorized kit's perspective (Estes, 2022-05-12).
+
+A match seen before September 2020 that shared under 8 cM after Timber can be missing now for
+that reason alone. AncestryDNA's 2020 update reported only matches of 8 cM or more after Timber
+and removed the smaller ones at the end of August 2020, apart from matches the user had
+messaged, given a note, starred or put in a group [S7], [S8]. Its absence neither confirms nor
+disproves the relationship.
 
 Do not read a documented relative's blank cluster cell or missing shared-list row as sharing below the displayed floor. The [threshold examples](https://genarchivist.net/showthread.php?tid=1693) and a [Timber-threshold discussion](https://genarchivist.net/showthread.php?tid=137) report pairs dropping out once the weighted amount fell below the floor, one with about 51 cM unweighted. Where you manage one kit of the pair, open the direct comparison and record weighted and unweighted totals, segments, longest segment, kit and date; a longest segment larger than the weighted total signals reduction. A shared-view 'unweighted' line can repeat the weighted figure, as in the [shared-view label report](https://genarchivist.net/showthread.php?tid=1272), and two kits of one person can differ, so record each kit separately.
 If an extension-modified browser view hides a known row or saved group, compare the same
@@ -278,6 +306,20 @@ observed associations rather than forcing one group per person. If the grid is u
 mark those associations unverified. The [2025 example](https://dna-explained.com/2025/07/10/how-to-use-ancestrys-new-match-clusters-and-what-they-mean/)
 motivates this comparison. Check saved manual tags against the recorded observations; neither
 tags nor cross-group cells establish an ancestral path.
+
+If the clusters show only as dropdown lists with no grid, count their members before marking
+associations unverified. Ancestry's July 2025 announcement, as Seaver quotes it, says the grid
+is not shown above 100 clustered matches [S9 @2026-11-12]. Estes saw the message "Chart view is
+available for clusters of 100 matches or fewer" and got a grid by selecting Maternal or
+Paternal, where that side's clusters had 100 members or fewer [S10 @2026-11-12]. Record which
+view the grid came from.
+
+A match in the clusters of both grandparents on one parent's side most likely descends from
+both of them: a first cousin through that parent's sibling, or that cousin's descendant.
+Pedigree collapse can also put a match in several clusters [S10], [S11]. Read it as a
+closer relative or a doubled line, not as a clustering error, and do not use it to tie either
+cluster to one grandparent: Leeds notes that a match who shares two grandparents with you
+merges their clusters [S11].
 
 **Output:** a recovered observation with its kit, view, filters and date, or a request naming the missing tester pair. An absent row is “not shown,” never a measured zero.
 
