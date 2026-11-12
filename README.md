@@ -36,7 +36,7 @@ no tools or hooks, and makes no network calls of its own. To set it up, see [Ins
 - **Family papers, photographs and oral history:** [family collection intake and capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md), [family photographs](skills/genealogy-research-recipes/recipes/family-photograph-attribution-and-dating.md), [family papers and Bible registers](skills/genealogy-research-recipes/recipes/family-papers-and-bible-register-dating.md), [family interviews and oral tradition](skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md), [repository photograph collections](skills/genealogy-research-recipes/recipes/repository-photograph-collection-search.md)
 - **DNA workflows and research planning:** [admixture run scope](skills/genealogy-research-recipes/recipes/admixture-model-run-scope.md), [DNA match outreach](skills/genealogy-research-recipes/recipes/dna-match-outreach-staging.md), [descendancy gap worklists](skills/genealogy-research-recipes/recipes/descendancy-gap-worklist.md), [ethnicity-estimate versions](skills/genealogy-research-recipes/recipes/ethnicity-estimate-version-comparison.md)
 
-Each recipe's sources are in [`https://github.com/Kinprove/genealogy-research-recipes/blob/09760df06be02b62a23de79a4fb5bf4a5680680a/skills/genealogy-research-recipes/sources/`](https://github.com/Kinprove/genealogy-research-recipes/blob/09760df06be02b62a23de79a4fb5bf4a5680680a/skills/genealogy-research-recipes/sources/).
+Each recipe's sources are in [`https://github.com/Kinprove/genealogy-research-recipes/blob/311dea4a7f115010941467dc3f922b68c165198b/skills/genealogy-research-recipes/sources/`](https://github.com/Kinprove/genealogy-research-recipes/blob/311dea4a7f115010941467dc3f922b68c165198b/skills/genealogy-research-recipes/sources/).
 
 ## Evaluation
 
@@ -47,6 +47,7 @@ their safeguards. Commands, rules and recorded results: [docs/evaluation.md](htt
 
 ## Install
 
+<!-- platform:claude:start -->
 **Claude Code:**
 
 ```text
@@ -61,6 +62,12 @@ Update with `claude plugin update genealogy-research-recipes@kinprove`, or turn 
 `Kinprove/genealogy-research-recipes`, then add `genealogy-research-recipes`. Update with
 **Check for updates** on the `kinprove` marketplace, or turn on **Sync automatically**.
 
+This repository is its own `kinprove` marketplace
+([`.claude-plugin/marketplace.json`](https://github.com/Kinprove/genealogy-research-recipes/blob/main/.claude-plugin/marketplace.json)),
+not an entry in an Anthropic-curated directory.
+<!-- platform:claude:end -->
+
+<!-- platform:codex:start -->
 **Codex:**
 
 ```sh
@@ -70,7 +77,9 @@ codex plugin add genealogy-research-recipes@kinprove
 
 Update with `codex plugin marketplace upgrade kinprove`, then run the `codex plugin add` command
 again.
+<!-- platform:codex:end -->
 
+<!-- platform:hermes:start -->
 **Hermes Agent:**
 
 ```sh
@@ -82,13 +91,17 @@ Load it with `skill_view(name="genealogy-research-recipes:genealogy-research-rec
 loads with the extra argument `file_path="recipes/<name>.md"`. Update with
 `hermes plugins update genealogy-research-recipes`.
 
-For the latest `main`, use the Git repository instead of the catalog:
+The [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins) pins a reviewed
+commit, so it can lag behind the latest release. For the latest `main`, install from the Git
+repository instead:
 
 ```sh
 hermes plugins install Kinprove/genealogy-research-recipes --no-enable
 hermes plugins enable genealogy-research-recipes
 ```
+<!-- platform:hermes:end -->
 
+<!-- platform:openclaw:start -->
 **OpenClaw:**
 
 ```sh
@@ -97,21 +110,13 @@ openclaw plugins install git:github.com/Kinprove/genealogy-research-recipes
 
 Restart the Gateway after installing. Update with
 `openclaw plugins update genealogy-research-recipes`. Published releases are also on
-[ClawHub](https://clawhub.ai) as `clawhub:@kinprove/genealogy-research-recipes`.
+[ClawHub](https://clawhub.ai) as `clawhub:@kinprove/genealogy-research-recipes`. ClawHub
+publication is separate from the GitHub install; check the publisher, version and source commit on
+ClawHub before installing from it.
+<!-- platform:openclaw:end -->
 
 The skill states its release date. When an installed copy is more than a week old, the agent
 mentions once per conversation that a newer version may exist and how to update.
-
-## Registries
-
-- **Claude:** this repository is its own `kinprove` marketplace
-  ([`.claude-plugin/marketplace.json`](https://github.com/Kinprove/genealogy-research-recipes/blob/main/.claude-plugin/marketplace.json)), not an entry in an
-  Anthropic-curated directory.
-- **Hermes:** the [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins)
-  pins a reviewed commit, so it can lag behind the latest release. Install by catalog name
-  as above, or use the repository install for the latest `main`.
-- **OpenClaw:** ClawHub publication is separate from the GitHub install; check the publisher,
-  version and source commit on ClawHub before installing from it.
 
 ## Privacy
 

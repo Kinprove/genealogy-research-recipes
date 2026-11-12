@@ -21,7 +21,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## Version and updates
 
-This copy is version 1.17.1, released 2026-11-12.
+This copy is version 1.17.2, released 2026-11-12.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
@@ -79,7 +79,7 @@ today's date. Do not check for a newer version over the network yourself.
    the task-recipe read.
    Carry any material source limitation alongside the claim it affects: a search-result extract,
    unread page or unavailable recording is a lead, not a verified reading. Consult the paired
-   `https://github.com/Kinprove/genealogy-research-recipes/blob/09760df06be02b62a23de79a4fb5bf4a5680680a/skills/genealogy-research-recipes/sources/` file when the claim's support is unclear; attribute an independently read source
+   `https://github.com/Kinprove/genealogy-research-recipes/blob/311dea4a7f115010941467dc3f922b68c165198b/skills/genealogy-research-recipes/sources/` file when the claim's support is unclear; attribute an independently read source
    explicitly rather than treating an inaccessible additional citation as confirmation.
 3. Apply its "never trust / never delegate" boundaries as **hard constraints on your own output** —
    those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
@@ -98,7 +98,7 @@ today's date. Do not check for a newer version over the network yourself.
 A source marker identifies evidence, not a guarantee that the page was read or that it supports
 every sentence. Most cited passages lack a recorded review against their sources, and a marker or
 a date alone does not show that one was reviewed. When relying on a factual passage, read the
-entry for each cited source ID in its `https://github.com/Kinprove/genealogy-research-recipes/blob/09760df06be02b62a23de79a4fb5bf4a5680680a/skills/genealogy-research-recipes/sources/<recipe-id>.md` sidecar and carry the limitations
+entry for each cited source ID in its `https://github.com/Kinprove/genealogy-research-recipes/blob/311dea4a7f115010941467dc3f922b68c165198b/skills/genealogy-research-recipes/sources/<recipe-id>.md` sidecar and carry the limitations
 that entry states.
 
 `[S12 @2026-11-07]` gives the claim's last check date. A dagger such as `[S16†]` marks limited or
@@ -1095,5 +1095,5 @@ live control.
 ## Attribution
 
 These recipes are original Kinprove-authored distillations, licensed FSL-1.1-MIT (see `LICENSE`).
-Third-party facts and methods are credited in each recipe's `https://github.com/Kinprove/genealogy-research-recipes/blob/09760df06be02b62a23de79a4fb5bf4a5680680a/skills/genealogy-research-recipes/sources/<slug>.md`; any
+Third-party facts and methods are credited in each recipe's `https://github.com/Kinprove/genealogy-research-recipes/blob/311dea4a7f115010941467dc3f922b68c165198b/skills/genealogy-research-recipes/sources/<slug>.md`; any
 reproduced third-party data is carved out in `NOTICE`.
