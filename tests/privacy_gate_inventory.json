@@ -1540,5 +1540,29 @@
   "kind": "contact",
   "action": "To confirm/eliminate an unknown direct-line ancestor, test **known direct-line descendants of candidate families**",
   "checkpoint": "Asking known descendants of candidate families to take a Y-DNA or mtDNA test"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "route the row to a brother, son or nephew on the same documented line",
+  "checkpoint": "Asking a tester, his family or a male-line relative to supply a sample or take a test"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "ask for extra swabs and vials to be sent and stored for future upgrades",
+  "checkpoint": "Asking a tester, his family or a male-line relative to supply a sample or take a test"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "load it into DNA Painter's What Are the Odds? tool",
+  "checkpoint": "Loading a GEDCOM into DNA Painter places living relatives' names and family links in an outside web tool"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "recruit a full-sequence tester descended through all females from each daughter",
+  "checkpoint": "Asking a direct-female-line descendant of each daughter to take an mtDNA test"
  }
 ]
