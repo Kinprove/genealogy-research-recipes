@@ -381,7 +381,6 @@ class BehaviouralHarnessTests(unittest.TestCase):
     def fake_cli(self, calls, terminal):
         class FakeProcess:
             returncode = 0
-            pid = 0
 
             def __init__(self, command, **options):
                 calls.append((command, options))
