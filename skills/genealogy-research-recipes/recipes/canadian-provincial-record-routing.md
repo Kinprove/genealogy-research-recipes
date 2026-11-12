@@ -54,7 +54,7 @@ Gather these before searching:
 
 ## 2. Read a miss against the coverage row
 
-**Privacy gate:** <!-- privacy-gate: request --> A request to a provincial registry or archive for a registration past the archive cut-off can name people who are still living; answer the privacy gate in `SKILL.md` before you send it.
+**Privacy gate:** <!-- privacy-gate: request --> A request to a provincial archive or registry for a birth, marriage or death registration, online or not, can name people who are still living; answer the privacy gate in `SKILL.md` before you send it.
 
 - **Past the archive cut-off, route to the provincial registry.** Ask the Archives of Ontario first for an Ontario birth, marriage or death; a registration it does not hold is with ServiceOntario [S2], not missing. A Nova Scotia birth of 1925 is at the Nova Scotia Archives although it is not yet online; request it there [S4]. A BC birth after 1904 is outside the BC Archives index, not absent [S3].
 - **Inside Nova Scotia's 1877–1908 gap, do not search for a birth or death registration.** The province did not record them [S4]. Search instead:

@@ -399,7 +399,7 @@
   "recipe": "canadian-provincial-record-routing.md",
   "kind": "request",
   "action": "Past the archive cut-off, route to the provincial registry",
-  "checkpoint": "A request to a provincial registry or archive for"
+  "checkpoint": "A request to a provincial archive or registry for"
  },
  {
   "recipe": "canadian-provincial-record-routing.md",
@@ -417,7 +417,7 @@
   "recipe": "catholic-parish-diocesan-record-recovery.md",
   "kind": "request",
   "action": "Send the request to the diocesan archive or the parish",
-  "checkpoint": "A request for a register still inside its closure"
+  "checkpoint": "A request to a diocesan archive or a parish"
  },
  {
   "recipe": "catholic-parish-diocesan-record-recovery.md",
@@ -1635,7 +1635,7 @@
   "recipe": "spanish-civil-parish-record-routing.md",
   "kind": "request",
   "action": "Where a diocese has no online index, write to its archive",
-  "checkpoint": "When the entry is from the 20th century, a"
+  "checkpoint": "A letter to a diocesan archive with names, parish"
  },
  {
   "recipe": "spanish-civil-parish-record-routing.md",
@@ -1659,13 +1659,13 @@
   "recipe": "spanish-civil-parish-record-routing.md",
   "kind": "request",
   "action": "Request a post-1939 court-martial file through the military court that owns it",
-  "checkpoint": "A request for a court-martial file from 1939 to"
+  "checkpoint": "A request for a court-martial file of the Civil"
  },
  {
   "recipe": "spanish-civil-parish-record-routing.md",
   "kind": "request",
   "action": "Take the case number to the file's holder",
-  "checkpoint": "A request for a court-martial file from 1939 to"
+  "checkpoint": "A request for a court-martial file of the Civil"
  },
  {
   "recipe": "unknown-parentage-wato.md",

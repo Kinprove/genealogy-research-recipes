@@ -69,7 +69,7 @@ Before you record "not found", check:
 
   The same survey says images of the original registers are not online, and lists Canadiana (the transcription on LAC reel C-1869) and FamilySearch for online viewing [S37 @2026-11-12].
 
-**Privacy gate:** <!-- privacy-gate: request --> A request for a register still inside its closure period, or for recent entries held by a parish, can name people who may be living; answer the privacy gate in `SKILL.md` before you send it.
+**Privacy gate:** <!-- privacy-gate: request --> A request to a diocesan archive or a parish can name people who may be living, whether the register is closed or already open; answer the privacy gate in `SKILL.md` before you send it.
 
 If any of these apply, record a **coverage gap** naming the parish, diocese and years, not a negative result. Send the request to the diocesan archive or the parish. At the start, offer to pay costs or make a donation. [S1], [S3]
 

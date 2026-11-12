@@ -67,7 +67,7 @@ Gather these before searching:
 
 ## 2. Find the diocese that held the parish on the event date
 
-**Privacy gate:** <!-- privacy-gate: request --> When the entry is from the 20th century, a letter to a diocesan archive with names, parish and date (the last step in this list) can concern people who may be living; answer the privacy gate in `SKILL.md` before you send it.
+**Privacy gate:** <!-- privacy-gate: request --> A letter to a diocesan archive with names, parish and date (the last step in this list) can concern people who may be living; answer the privacy gate in `SKILL.md` before you send it.
 
 - **Do not infer the diocese from the modern province.** Spanish dioceses do not follow provincial lines, and parishes have moved between dioceses. Fix the diocese for the event date before you write.
 - **Examples:** on 19 September 1956 a decree moved a list of parishes in the Omaña, La Lomba and Páramo areas of León province from the Diocese of Astorga to the Diocese of León, and ordered the curia's papers on them sent to León [S7]. The Cantabrian municipality of Valle de Villaverde (Trucíos) belongs to the Diocese of Bilbao, while the Valle de Mena, in Burgos province, belongs to the Diocese of Santander [S8].
@@ -133,7 +133,7 @@ Gather these before searching:
 
 ## 10. Route Civil War and repression files by holder
 
-**Privacy gate:** <!-- privacy-gate: request --> A request for a court-martial file from 1939 to 1978 sends the name of a person who may be living and asks for a repression record about them; answer the privacy gate in `SKILL.md` before you send it, and follow its rule for third persons named in the file.
+**Privacy gate:** <!-- privacy-gate: request --> A request for a court-martial file of the Civil War or the Franco era sends the name of a person who may be living and asks for a repression record about them; answer the privacy gate in `SKILL.md` before you send it, and follow its rule for third persons named in the file.
 
 - **Search PARES for the Centro Documental de la Memoria Histórica (CDMH) cards and the Causa General.** The CDMH general card index of the Secretaría General and the Sección Político-Social is described in PARES down to the single card; each card names the person and the file or archive signature that holds the information. The physical index is not open to users; its database and card images are consulted in the archive's reading room [S33]. Causa General files have item-level PARES records, some with images [S33].
 - **Request a post-1939 court-martial file through the military court that owns it.** Find the Tribunal Militar Territorial (territorial military court) and the Defence archive that holds its files. For the Fourth Territorial Military Court's files at the Archivo Intermedio Militar Noroeste in Ferrol, ask the court for authorisation first [S34].
