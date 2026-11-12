@@ -89,6 +89,13 @@ variant's count and rerun it later, because the presenter saw results change bet
 [Genealogy Gems' Card Catalog session](https://www.youtube.com/watch?v=99F9D51wz6Q) motivates
 these variants. It does not establish a stable matching rule.
 
+Do not take an empty Ancestry-wide search as proof that a newspaper item is absent. Ancestry's
+global search does not include the Newspapers.com Stories and Events Index collections because
+of their size, as reported in March 2024 [S1 @2026-11-12], [S2 @2026-11-12]. Run a Card
+Catalog title search for Newspapers.com, open the collection for the person's state or
+country, and search it directly [S2 @2026-11-12], [S3 @2026-11-12]. A hit links to the page on
+Newspapers.com, which needs that site's own subscription to view [S3 @2026-11-12].
+
 ### 4. Revisit collections that changed after the failed search
 
 **Trigger:** an old search log says the relevant collection produced no candidate.

@@ -19,7 +19,7 @@ router: {"tier": "pointer", "group": "Church and civil registers", "order": 1057
 
 Use this when a Danish, Norwegian, Swedish or Icelandic emigrant is known from destination records and you need to find that person in the home parish. The main way this goes wrong is searching the American surname in home-country indexes, finding nothing or attaching the wrong same-named person. The name in the parish register is usually not the American surname. Same-named parishioners are common, so separate them by birth date, parents, spouse, farm and vaccination entries, never by name alone.
 
-Covered elsewhere and not repeated here: [same-name elimination](evidence-proof-judgment.md), [searching through an associate (§9)](ancestry-record-search-recovery.md), classifying name tokens (the catalogue's recipe on name searches across scripts and OCR), [native spellings and holdings audits (§2)](familysearch-practical-record-workflows.md).
+Covered elsewhere and not repeated here: [same-name elimination](evidence-proof-judgment.md), [searching through an associate (§9)](ancestry-record-search-recovery.md), [classifying name tokens](corpus-seeded-name-search.md), [native spellings and holdings audits (§2)](familysearch-practical-record-workflows.md).
 
 ## Contents
 
