@@ -201,11 +201,13 @@ instead of the official surname, so add patronymic-as-surname and nickname searc
 Also search LAC's *Ukrainian Immigrants, 1891–1930*, which gives 14,793 names of Ukrainians who
 arrived in Canada. It draws on passenger lists for Canadian and American ports held at LAC and on
 Vladimir Julian Kaye's notes and settler dictionaries; its index includes surname variants and some
-alternate names, and its entries are in the language of the original documents. [H20] In LAC's
-Collection Search, `*` at the start or end of a word finds variants and `?` replaces one unknown
-letter. [H19] Vera Miller, writing on Ukrainian and Russian immigrants to Canada, also combines `*`
-and `?` within first or last names, and for a rare given name searches that name with the surname's
-first letter and `*`. [S20] Add an anglicized given-name lane, as she advises: Ukrainian immigrants
+alternate names, and its entries are in the language of the original documents. [H20 @2026-11-12]
+In LAC's Collection Search, `*` at the start or end of a word finds variants and `?` replaces one
+unknown letter. [H19 @2026-11-12] Vera Miller, writing on Ukrainian and Russian immigrants to
+Canada, also combines `*` and `?` within first or last names, and for a rare given name searches
+that name with the surname's first letter and `*`. [S20 @2026-11-12]
+
+Add an anglicized given-name lane, as Miller advises: Ukrainian immigrants
 used English forms such as Basil for Vasyl (Wasyl "Basil" Kushnir, in Canada) and Walter for
 Volodymyr (Volodymyr or Walter Galan, in Philadelphia). [S20, H21, H22] Log each anglicized form as
 a candidate until a record ties it to the person.

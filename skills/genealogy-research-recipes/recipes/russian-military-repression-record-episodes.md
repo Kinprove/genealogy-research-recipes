@@ -86,16 +86,16 @@ identity check. Use the same tactics on GWAR or memory books only after reading 
 help. [H24]
 
 Search Pamyat Naroda (pamyat-naroda.ru) in Russian. In FamilySearch's example, «Иванов» returned
-over 950,000 results and "Ivanov" none. [H75] Do not treat it as a loss and award database only:
+over 950,000 results and "Ivanov" none. [H75 @2026-11-12] Do not treat it as a loss and award database only:
 it also holds conscription and demobilisation records from enlistment offices, navy and officer
-card files, burial details and loss and POW documents [H76], and Vera Miller reports added card
+card files, burial details and loss and POW documents [H76 @2026-11-12], and Vera Miller reports added card
 indexes of partisan-movement participants, seamen's card files, burial lists and funeral notices
-(2023) and injury records (2025). [H78], [H79] When name searches fail, search the place of birth
-alone, as Miller does, and filter the results locally, as for OBD Memorial above. [H79] Enter the
-raion or oblast rather than the village, because the search handles place names poorly [H77], and
-expect the village to be spelled several ways and placed under more than one raion. [H79] New
-documents are loaded periodically, so repeat a failed search after an update. [H77] Search women
-and people who were teenagers during the war as well, as Miller advises. [H80]
+(2023) and injury records (2025). [H78 @2026-11-12], [H79 @2026-11-12] When name searches fail, search the place of birth
+alone, as Miller does, and filter the results locally, as for OBD Memorial above. [H79 @2026-11-12] Enter the
+raion or oblast rather than the village, because the search handles place names poorly [H77 @2026-11-12], and
+expect the village to be spelled several ways and placed under more than one raion. [H79 @2026-11-12] New
+documents are loaded periodically, so repeat a failed search after an update. [H77 @2026-11-12] Search women
+and people who were teenagers during the war as well, as Miller advises. [H80 @2026-11-12]
 
 For a partisan in Belarus, search the portal «Партизаны Беларуси» (partizany.by), a project of the
 publishing house Belarus Segodnya and the National Archive of the Republic of Belarus. [H81 @2026-11-12] Its
@@ -109,8 +109,8 @@ negative; Vera Miller described it in 2023. [H83 @2026-11-12]
 For a soldier or civilian named in the wartime press, search «Страницы Победы» in Yandex's
 «Поиск по архивам»: more than 200,000 pages of central, regional, front-line and partisan
 newspapers of 1941–1945 from the National Electronic Library, the Russian State Library and other
-libraries and archives. [H84], [H85] Search in Russian, across the whole collection and one paper
-at a time. [H86] The text was recognised by neural networks [H84], so try the spelling variants of
+libraries and archives. [H84 @2026-11-12], [H85 @2026-11-12] Search in Russian, across the whole collection and one paper
+at a time. [H86 @2026-11-12] The text was recognised by neural networks [H84 @2026-11-12], so try the spelling variants of
 the name and place, and treat a miss as no recognised hit, not as absence from the papers.
 
 For a Red Army serviceman who may have died in German captivity, also search the Soviet
@@ -175,11 +175,11 @@ For Soviet Ukraine, the trial republic's own database is the State Archival Serv
 covers victims of political repression of the 1920s–1950s. A card gives a photograph where one
 exists, the name with a short note of occupation, life dates, rehabilitation details and the archive
 that holds the investigation file; the sources are the central and oblast state archives and the
-sectoral archives of the SBU and the interior ministry. [H89] It is a card index, not a set of
+sectoral archives of the SBU and the interior ministry. [H89 @2026-11-12] It is a card index, not a set of
 scanned files: request the file from the archive the card names. It is filled archive by archive,
-from almost 57,000 people at its launch in November 2020 [H89] to 111,731 after an April 2023
-addition from the Zhytomyr, Poltava, Sumy and Cherkasy oblast archives [H90], so a miss is absence
-from the cards loaded so far. Vera Miller pointed to it in 2023. [H91], [H92]
+from almost 57,000 people at its launch in November 2020 [H89 @2026-11-12] to 111,731 after an April 2023
+addition from the Zhytomyr, Poltava, Sumy and Cherkasy oblast archives [H90 @2026-11-12], so a miss is absence
+from the cards loaded so far. Vera Miller pointed to it in 2023. [H91 @2026-11-12], [H92 @2026-11-12]
 
 A family memory that a relative 'was imprisoned under Stalin' is a lead to a conviction, not
 evidence of a political case. The sentence could rest on a decree outside the political articles,
@@ -242,7 +242,7 @@ calls itself a test version. [H95 @2026-11-12], [H96 @2026-11-12] Vera Miller de
 pages that can give birthplace, residence, arrest date, charge and sentence, rehabilitation date
 and the source of the information. [H97 @2026-11-12] Record the source each page names. A page
 copied from a memory book or another database is that source reached again, and a page without a
-named source is a family account to verify.
+named source is unattributed information to verify.
 
 **Privacy gate:** <!-- privacy-gate: request --> A query through IPN's form sends details of a
 repressed person and the asking family, who may be living; answer the privacy gate in `SKILL.md`
