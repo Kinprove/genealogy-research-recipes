@@ -13,6 +13,7 @@ from urllib.parse import unquote, urlsplit
 ROOT = Path(__file__).resolve().parents[1]
 SKILL_PATH = Path("skills/genealogy-research-recipes")
 MAX_PLATFORM_AGE_DAYS = 90
+WARN_DAYS = 30
 ROUTER_START = "<!-- recipe-catalog:start -->"
 ROUTER_END = "<!-- recipe-catalog:end -->"
 TABLE_START = "<!-- recipe-capabilities:start -->"
@@ -32,6 +33,10 @@ class CatalogError(ValueError):
 def require(ok, message):
     if not ok:
         raise CatalogError(message)
+
+
+def utc_today():
+    return dt.datetime.now(dt.timezone.utc).date()
 
 
 def string(value):
@@ -142,6 +147,15 @@ def validate_header(m, body, filename, today):
                     f"platform source check is older than {MAX_PLATFORM_AGE_DAYS} days")
 
 
+def expiring_checks(catalog, today):
+    """Platform recipes whose source check expires within WARN_DAYS days."""
+    for m, _ in catalog:
+        if m["kind"] == "platform":
+            last_valid = dt.date.fromisoformat(m["checked"]) + dt.timedelta(days=MAX_PLATFORM_AGE_DAYS)
+            if (last_valid - today).days <= WARN_DAYS:
+                yield m["id"], last_valid
+
+
 def recipe_references(text):
     """Find local Markdown links, code filenames and bold recipe slugs.
 
@@ -170,7 +184,7 @@ def recipe_references(text):
 
 def load_catalog(root=None, today=None, replacement=None):
     root = root or ROOT
-    today = today or dt.datetime.now(dt.timezone.utc).date()
+    today = today or utc_today()
     skill = root / SKILL_PATH
     texts = {p.name: p.read_text(encoding="utf-8") for p in (skill / "recipes").glob("*.md")}
     if replacement:
@@ -319,7 +333,8 @@ def main(argv=None):
             body = args.export_body.read_text(encoding="utf-8")
             require(not body.startswith("---\n"), "export body already has a header")
             replacement = (f"{slug}.md", emit_recipe(metadata, body))
-        catalog = load_catalog(replacement=replacement)
+        today = utc_today()
+        catalog = load_catalog(today=today, replacement=replacement)
         outputs = list(generated_files(ROOT, catalog))
         stale = [str(p.relative_to(ROOT)) for p, text in outputs if p.read_text(encoding="utf-8") != text]
         if args.check:
@@ -329,6 +344,12 @@ def main(argv=None):
                 (ROOT / SKILL_PATH / "recipes" / replacement[0]).write_text(replacement[1], encoding="utf-8")
             for path, text in outputs:
                 path.write_text(text, encoding="utf-8")
+        # One GitHub Actions annotation for all of them: a step keeps at most ten warnings.
+        due = "; ".join(f"{rid} valid until {last}" for rid, last in expiring_checks(catalog, today))
+        if due:
+            print(f"::warning title=Platform source checks due::Platform source checks expiring within "
+                  f"{WARN_DAYS} days (CI fails the day after): {due}. "
+                  "Recheck each source and update its evidence (MAINTAINERS.md).")
         print(f"Validated {len(catalog)} recipe headers, references, privacy capabilities and generated files.")
         return 0
     except (CatalogError, OSError, json.JSONDecodeError) as exc:

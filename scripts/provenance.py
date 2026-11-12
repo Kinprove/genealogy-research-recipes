@@ -26,6 +26,7 @@ KINDS = {'video', 'help-page', 'forum', 'statute', 'pdf', 'catalogue', 'web-page
 CLAIM_KINDS = {'platform-ui', 'fee', 'portal-availability', 'custody', 'historical',
                'method', 'example', 'unclassified'}
 AGES = {'fee': 90, 'portal-availability': 90, 'platform-ui': 180, 'custody': 180}
+WARN_DAYS = 30
 ENTRY = re.compile(r'^(?:- \*\*([A-Z]\d+)\b|([0-9]+)\.\s|\|\s*([A-Z]\d+)\s*\|)')
 SOURCE_ID = r'(?:[SHPOCNB]\d+(?:-addition-\d+)?|U[0-9a-f]{12})'
 MARKER = re.compile(r'[\[(](' + SOURCE_ID + r'\b[^\]\n)]*)[\])]')
@@ -46,6 +47,17 @@ PARTIAL_LIMIT = re.compile(
     r'(?:from|within|based on) (?:the )?(?:inspected|read|available) (?:page|pages|section|portion|excerpt)|'
     r'(?:only|limited to) (?:a |an |the )?(?:excerpt|summary|transcript)|'
     r'(?:read|inspected|viewed) (?:only|just) (?:a |an |the )?(?:page|section|portion|excerpt))\b', re.I)
+# Sentence-end candidates. An end followed by citations, or right after a citation,
+# always splits, even before a lowercase sentence; adjacent citations stay with the
+# preceding sentence. A plain end (group `plain`) before a letter or digit is decided
+# by ends_sentence.
+SENTENCE_END = re.compile(
+    r'[.!?](?:\s*\[[^\]\n]+\])+\s+(?=\S)|(?<=\])[.!?]\s+(?=\S)|(?P<plain>[.!?]\s+)(?=[^\W_])')
+PARAGRAPH_BREAK = re.compile(r'\n\s*\n')
+DOTTED_ABBREVIATION = re.compile(r'(?:^|[^\w.])(?:[^\W\d_]\.){2,}$')  # U.S., e.g., i.e.
+# Reference abbreviations found before a number in the recipes ("op. 23", "No. 301").
+NUMBER_ABBREVIATIONS = {'op', 'оп', 'no', 'nos', 'nr', 'art', 'arts', 'rep', 'pp', 'ep', 'vol',
+                        'dd', 'дд', 'ca', 'sign', 'abt', 'abs', 'poz', 'ch', 'vs'}
 SOURCE_FIELDS = {'id', 'kind', 'urls', 'published', 'retrieved', 'access', 'rights',
                  'basis', 'entry_sha256', 'claims', 'review'}
 CLAIM_FIELDS = {'id', 'kind', 'anchor', 'sources', 'checked', 'stated_as', 'review'}
@@ -58,6 +70,10 @@ class ProvenanceError(ValueError):
 def require(ok, message):
     if not ok:
         raise ProvenanceError(message)
+
+
+def utc_today():
+    return dt.datetime.now(dt.timezone.utc).date()
 
 
 def digest(text):
@@ -244,16 +260,41 @@ def markers(anchor, known=None):
     return result
 
 
+def ends_sentence(visible, match):
+    """Whether a plain sentence end before a letter or digit splits (see sentence_boundaries)."""
+    following = visible[match.end()]
+    before = visible[:match.start() + 1]
+    if following.isupper():
+        return not DOTTED_ABBREVIATION.search(before[-12:])
+    if following.isdigit():
+        word = re.search(r'(\w+)\W$', before)
+        return word is None or not (
+            (len(word[1]) == 1 and word[1].isalpha()) or word[1].casefold() in NUMBER_ABBREVIATIONS)
+    return False  # lowercase or uncased letter
+
+
+def sentence_boundaries(visible):
+    """Offsets where a sentence or paragraph starts, in any script.
+
+    A plain sentence end counts before a capital unless it closes a dotted
+    abbreviation ("U.S. Army"), and before a digit unless it closes a single
+    letter or a listed reference abbreviation ("f. 224", "No. 301"). Accepted
+    limits: a sentence that really ends with one of those stays joined to the
+    next; an unlisted abbreviation before a number or a capital still splits.
+    """
+    cuts = {m.end() for m in PARAGRAPH_BREAK.finditer(visible)}
+    for match in SENTENCE_END.finditer(visible):
+        if match['plain'] is None or ends_sentence(visible, match):
+            cuts.add(match.end())
+    return [0] + sorted(cuts) + [len(visible)]
+
+
 def marker_contexts(anchor, sid):
     """Each source marker's sentence, so a separate hedge cannot qualify a fact."""
     visible = visible_text(anchor)
     # All offsets below belong to the same rendered text, never the raw anchor.
     visible = re.sub(r'''["“”'‘’«»]''', ' ', visible)
-    boundaries = [0] + [m.end() for m in re.finditer(
-        # A sentence ending in citations also separates a following lowercase
-        # sentence. Adjacent citations still belong to the preceding sentence.
-        r'[.!?](?:\s*\[[^\]\n]+\])+\s+(?=\S)|'
-        r'[.!?]\s+(?=[A-Z])|(?<=\])[.!?]\s+(?=\S)|\n\s*\n', visible)] + [len(visible)]
+    boundaries = sentence_boundaries(visible)
     for match in MARKER.finditer(visible):
         if sid in markers(match[0]):
             start = max(n for n in boundaries if n <= match.start())
@@ -277,6 +318,21 @@ def fingerprint(record):
 
 def debt_key(slug, category, record):
     return f'{slug}#{category}/{record["id"]}'
+
+
+def legacy_growth(base, current):
+    """Exceptions the change adds or alters; the frozen inventory may only shrink."""
+    return sorted(key for key, value in current.items() if base.get(key) != value)
+
+
+def check_legacy_base(root, ref):
+    """Compare the inventory with its version at `ref`, not only with itself."""
+    result = subprocess.run(['git', '-C', str(root), 'show', f'{ref}:{DEBT.as_posix()}'],
+                            capture_output=True, text=True, encoding='utf-8')
+    require(result.returncode == 0, f'cannot read {DEBT} at {ref}: {result.stderr.strip()}')
+    grown = legacy_growth(loads(result.stdout), loads((root / DEBT).read_text(encoding='utf-8')))
+    require(not grown, f'{DEBT} adds or changes {len(grown)} exception(s) relative to {ref}: '
+                       + ', '.join(grown[:10]) + '; review the records instead')
 
 
 def migrate(source_text, recipe_text):
@@ -403,6 +459,16 @@ def validate(slug, source_text, recipe_text, ledger, exceptions, today):
     return active_debt
 
 
+def expiring_claims(corpus, today):
+    """Reviewed current-state claims whose check expires within WARN_DAYS days."""
+    for slug, ledger in sorted(corpus.items()):
+        for c in ledger['claims']:
+            if c['review'] == 'reviewed' and c['kind'] in AGES:
+                last_valid = dt.date.fromisoformat(c['checked']) + dt.timedelta(days=AGES[c['kind']])
+                if (last_valid - today).days <= WARN_DAYS:
+                    yield f'{slug}#{c["id"]}', last_valid
+
+
 def render_report(corpus, today):
     source_count = sum(len(l['sources']) for l in corpus.values())
     claim_count = sum(len(l['claims']) for l in corpus.values())
@@ -490,9 +556,23 @@ def main(argv=None):
     modes = parser.add_mutually_exclusive_group(required=True)
     for mode in ('check', 'write', 'import-legacy'):
         modes.add_argument('--' + mode, action='store_const', const=mode, dest='mode')
+    parser.add_argument('--legacy-base', metavar='REF',
+                        help='with --check: fail if the legacy inventory grew or changed since REF')
     args = parser.parse_args(argv)
+    # An empty REF (a failed $(git merge-base ...)) must not skip the comparison.
+    if args.legacy_base is not None and (args.mode != 'check' or not args.legacy_base.strip()):
+        parser.error('--legacy-base requires --check and a nonempty REF')
     try:
-        corpus = run(ROOT, args.mode, dt.datetime.now(dt.timezone.utc).date())
+        today = utc_today()
+        corpus = run(ROOT, args.mode, today)
+        if args.legacy_base is not None:
+            check_legacy_base(ROOT, args.legacy_base)
+        # One GitHub Actions annotation for all of them: a step keeps at most ten warnings.
+        due = '; '.join(f'{cid} valid until {last}' for cid, last in expiring_claims(corpus, today))
+        if due:
+            print(f'::warning title=Current-state claim checks due::Current-state claim checks expiring '
+                  f'within {WARN_DAYS} days (CI fails the day after): {due}. '
+                  'Recheck each source and update the claim and its dated marker (MAINTAINERS.md).')
         print(f'Validated {len(corpus)} provenance ledgers; unresolved legacy evidence is listed in {REPORT}.')
         return 0
     except (ProvenanceError, OSError, ValueError, TypeError, KeyError) as exc:

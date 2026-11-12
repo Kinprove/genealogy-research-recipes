@@ -44,19 +44,23 @@ For `platform-ui`, `fee`, `portal-availability` and `custody`, record `checked`
 and a separate `[S1 @YYYY-MM-DD]` marker for each supporting source. Fees and
 portal availability expire after 90 days; platform UI and custody after 180.
 History, methods and examples have no automatic expiry. These claim dates do
-not replace the catalog header's independently enforced platform check.
+not replace the catalog header's independently enforced platform check. From 30
+days before a claim expires, `provenance.py --check` prints one warning that
+lists every such claim; in CI it appears as a warning annotation on the run.
 
 New or changed factual/cited paragraphs need ledger entries. The detector catches
 domains, currency, selected current-state phrases and custodian names; it cannot
 discover every factual assertion. New source entries must also be reviewed.
 The fixed `tests/provenance_legacy.json` fingerprints only the initial pending
 records. Do not add exceptions or reset it to make an edit pass. Regeneration
-prunes resolved exceptions but cannot enroll new ones:
+prunes resolved exceptions but cannot enroll new ones. CI also compares the
+inventory with the base commit (`--legacy-base`) and fails when a change adds a
+key or alters a fingerprint, so a hand edit cannot enroll one either:
 
 ```sh
 npm ci --prefix tests/markdown-links --ignore-scripts
 python3 scripts/provenance.py --write
-python3 scripts/provenance.py --check
+python3 scripts/provenance.py --check --legacy-base "$(git merge-base origin/main HEAD)"
 python3 -B -m unittest discover -s tests -p 'test_provenance.py'
 ```
 
@@ -105,6 +109,9 @@ not count as checks. Source limitations, including summary-only and historical
 checks, still apply. Platform checks expire after **90 days**, against the UTC
 date, and fail CI; recheck the relevant documentation and update its evidence
 before updating the header. Do not roll dates forward merely to pass the check.
+From 30 days before the first expiry, `recipe_catalog.py --check` prints one
+warning that lists every platform recipe due; in CI it appears as a warning
+annotation on the run.
 
 Keep material source limitations beside the affected claim in the recipe as well
 as in its source sidecar. Distinguish a search-result extract, an unread page, a
