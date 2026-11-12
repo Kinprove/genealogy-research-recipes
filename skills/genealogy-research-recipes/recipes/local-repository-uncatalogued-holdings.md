@@ -3,11 +3,10 @@ id: "local-repository-uncatalogued-holdings"
 title: "Ask for a local repository's uncatalogued holdings before reporting a negative"
 summary: "Ask a local library, society or archive about its uncatalogued holdings after its catalogue returns nothing."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Ask a local library, society or archive about its uncatalogued holdings after its catalogue returns nothing."]}
-triggers: ["Ask a local library", "society", "archive about its uncatalogued holdings after its catalogue returns nothing"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "LOCAL-REPOSITORY-UNCATALOGUED-HOLDINGS-01", "text": "an empty catalogue search leaves the uncatalogued holdings uninspected, so it is not a negative."}]
+guardrails: [{"id": "LOCAL-REPOSITORY-UNCATALOGUED-HOLDINGS-01", "text": "Treat an empty catalogue or online search as covering only the repository's processed, catalogued holdings. Do not write \"not held\", \"nothing found\" or \"searched [repository]\" on the strength of it."}]
 handoff: []
 checked: null
 checked_basis: null

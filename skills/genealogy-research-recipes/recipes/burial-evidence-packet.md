@@ -3,11 +3,10 @@ id: "burial-evidence-packet"
 title: "Build a burial evidence packet from cemetery records"
 summary: "Recover a cemetery entry, its photograph or inscription, and the plot and cemetery-record locators needed to inspect the burial."
 kind: "records"
-scope: {"platforms": [], "tasks": ["cemetery coverage, surname variants, Hebrew and civil inscriptions, death/burial discrepancies or a database hit that needs a cemetery-record follow-up"]}
-triggers: ["cemetery coverage", "surname variants", "Hebrew and civil inscriptions", "death/burial discrepancies", "a database hit that needs a cemetery-record follow-up", "names on a Soviet mass-grave plate"]
+scope: {"platforms": [], "tasks": ["cemetery coverage, surname variants, Hebrew and civil inscriptions, death/burial discrepancies or a database hit that needs a cemetery-record follow-up", "names on a Soviet mass-grave plate"]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "BURIAL-EVIDENCE-PACKET-01", "text": "distinguish death, burial, inscription and database statements; keep missing fields and conflicting observations visible in the evidence packet."}, {"id": "BUR-01", "text": "Keep death, burial, inscription and database statements distinguishable."}, {"id": "BUR-02", "text": "identity or conflicting-date conclusions belong to evidence-proof-judgment."}]
+guardrails: [{"id": "BURIAL-EVIDENCE-PACKET-01", "text": "Keep death, burial, inscription and database statements distinguishable. The result is a packet another researcher can inspect, with missing fields and unresolved discrepancies visible."}, {"id": "BUR-01", "text": "Keep death, burial, inscription and database statements distinguishable."}, {"id": "BUR-02", "text": "identity or conflicting-date conclusions belong to evidence-proof-judgment."}]
 handoff: ["german-military-record-period-routing", "immigrant-congregation-origin-records", "soviet-personal-file-recovery", "us-20th-century-military-service-reconstruction"]
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"

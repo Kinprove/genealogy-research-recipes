@@ -3,11 +3,10 @@ id: "english-nonregister-record-recovery"
 title: "Recover English records beyond the parish register"
 summary: "Take an English or Welsh question past the parish register to poor-law, apprenticeship, pre-1858 church-court probate, dissenter or Catholic series, and Welsh marriage supplements with house/farm clues."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Take an English or Welsh question past the parish register to poor-law, apprenticeship, pre-1858 church-court probate, dissenter or Catholic series, and Welsh marriage supplements with house/farm clues."]}
-triggers: ["Take an English", "Welsh question past the parish register to poor-law", "apprenticeship", "pre-1858 church-court probate", "dissenter", "Catholic series"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "ENGLISH-NONREGISTER-RECORD-RECOVERY-01", "text": "a silent parish register does not make the question unanswerable; record which series do not cover the case."}]
+guardrails: [{"id": "ENGLISH-NONREGISTER-RECORD-RECOVERY-01", "text": "Record which series do not cover the case. The register being silent does not make the question unanswerable."}]
 handoff: ["scandinavian-patronymic-farm-name-record-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

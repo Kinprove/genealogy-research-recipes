@@ -3,11 +3,10 @@ id: "manuscript-collection-recovery"
 title: "Recover manuscript and archival collections that may mention an ancestor"
 summary: "Find personal, family and organisational papers by context, alternate ledger/daybook labels and an established society's personal-name index; request linked account pages or a complete claim folder with earlier applications."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find personal, family and organisational papers by context, alternate ledger/daybook labels and an established society's personal-name index; request linked account pages or a complete claim folder with earlier applications."]}
-triggers: ["Find personal", "family and organisational papers by context", "alternate ledger/daybook labels and an established society's personal-name index", "request linked account pages", "a complete claim folder with earlier applications"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "MANUSCRIPT-COLLECTION-RECOVERY-01", "text": "a name-search miss is not absence, and one reported packet does not guarantee standard contents or a current copy route."}]
+guardrails: [{"id": "MANUSCRIPT-COLLECTION-RECOVERY-01", "text": "A personal-name search that finds nothing is therefore not a finding. Never report \"no manuscripts exist\" or \"not in this archive\" because a name search failed [S1], [S3], [S21]."}]
 handoff: []
 checked: "2026-10-21"
 checked_basis: "checked 2026-10-21"

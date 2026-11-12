@@ -3,11 +3,10 @@ id: "japanese-koseki-honseki-recovery"
 title: "Recover the kanji name and honseki before requesting a Japanese koseki"
 summary: "Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family register (koseki)."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family register (koseki)."]}
-triggers: ["Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family register (koseki)"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "JAPANESE-KOSEKI-HONSEKI-RECOVERY-01", "text": "a romanized name or remembered region is not enough for a request, and a passenger-list hit is a candidate, not an identity."}]
+guardrails: [{"id": "JAPANESE-KOSEKI-HONSEKI-RECOVERY-01", "text": "One spoken reading can be written with many kanji combinations, so a romanized name does not identify the person. The request needs the exact registered Japanese spelling, kanji or kana as recorded ([Kagoshima City naming FAQ](https://www.city.kagoshima.lg.jp/faq-kurashi/shimin/q113.html))."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"

@@ -3,11 +3,10 @@ id: "dna-match-outreach-staging"
 title: "Stage and draft outreach to a DNA match or untested relative"
 summary: "Stage and draft outreach to a DNA match, a match's account manager or an untested relative."
 kind: "judgment"
-scope: {"platforms": [], "tasks": ["Stage and draft outreach to a DNA match, a match's account manager or an untested relative."]}
-triggers: ["Stage and draft outreach to a DNA match", "a match's account manager", "an untested relative"]
+scope: {"platforms": [], "tasks": []}
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "DNA-MATCH-OUTREACH-STAGING-01", "text": "when the tester's consent is missing or unclear, prepare only a contact plan and a draft for the tester's own review, and do not choose recipients or send anything. In every case, never announce a suspected relationship, and log silence as silence, not refusal."}, {"id": "OUT-01", "text": "The letter must not state the conclusion."}, {"id": "OUT-02", "text": "If consent is missing or unclear, stop at the contact plan and a draft for the tester to review."}]
+guardrails: [{"id": "DNA-MATCH-OUTREACH-STAGING-01", "text": "If consent is missing or unclear, stop at the contact plan and a draft for the tester to review. Do not choose recipients yourself."}, {"id": "OUT-01", "text": "The letter must not state the conclusion."}, {"id": "OUT-02", "text": "If consent is missing or unclear, stop at the contact plan and a draft for the tester to review."}]
 handoff: []
 checked: null
 checked_basis: null

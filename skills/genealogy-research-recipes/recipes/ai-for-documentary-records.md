@@ -4,10 +4,9 @@ title: "Using AI reliably in documentary & records genealogy research"
 summary: "Using an AI assistant *reliably* on DOCUMENTARY / records work (NOT DNA): handwriting transcription & translation, AI full-text / OCR finding aids (FamilySearch Full-Text Search), reviewing & correcting AI-indexed records, evaluating AI record hints, and image restoration / colorization / generation & evidentiary trust."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["any \"can AI/ChatGPT/Gemini transcribe or translate this handwriting\", \"full-text search for unindexed deeds/probate\", \"correct AI-indexed records\", \"evaluate an AI record hint\", \"colorize/restore an old photo\"."]}
-triggers: ["any \"can AI/ChatGPT/Gemini transcribe", "translate this handwriting\"", "\"full-text search for unindexed deeds/probate\"", "\"correct AI-indexed records\"", "\"evaluate an AI record hint\"", "\"colorize/restore an old photo\""]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "AI-FOR-DOCUMENTARY-RECORDS-01", "text": "every AI output is a **hypothesis to verify** against the ORIGINAL image; a bare LLM is not a search engine; never use an AI-restored/generated face for identification."}]
+guardrails: [{"id": "AI-FOR-DOCUMENTARY-RECORDS-01", "text": "**Every AI output is a hypothesis to verify against the original record, never a fact to file.**"}]
 handoff: ["research-documentation", "russian-household-list-transcription-audit"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"

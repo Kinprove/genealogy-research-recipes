@@ -4,10 +4,9 @@ title: "Verifying archival images, case boundaries and search coverage"
 summary: "Verify case boundaries, image order, transcript version and the pages and targets actually inspected."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["catalogue/cover disagreements, conflicting readings or completeness claims."]}
-triggers: ["catalogue/cover disagreements", "conflicting readings", "completeness claims"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "ARCHIVAL-IMAGE-COVERAGE-VERIFICATION-01", "text": "a finished reading pass, readable copy or indexed case does not establish complete image, target-name or subsection coverage."}]
+guardrails: [{"id": "ARCHIVAL-IMAGE-COVERAGE-VERIFICATION-01", "text": "A completed reader session establishes execution coverage, not transcription accuracy. A new surname was not searched merely because its pages occurred in an earlier sweep for other names."}]
 handoff: ["ai-for-documentary-records", "corpus-seeded-name-search", "evidence-proof-judgment", "jewishgen-search-family-reconstruction", "muscovite-census-settler-origin-recovery", "russian-revision-list-household-chaining"]
 checked: "2026-10-18"
 checked_basis: "opened 2026-10-18"

@@ -96,11 +96,10 @@ today's date. Do not check for a newer version over the network yourself.
 ## Read source limits
 
 A source marker identifies evidence, not a guarantee that the page was read or that it supports
-every sentence. When relying on a factual passage, inspect its `sources/<recipe-id>.md` sidecar.
-Its provenance ledger joins exact recipe passages to source IDs and records access, dates and
-review status. `pending` records preserve unresolved legacy attribution; do not treat them as
-verified. `unknown` access means the ledger has no reviewed reading record, even when the older
-prose includes a check date. Source prose and its limitations remain relevant.
+every sentence. Most cited passages lack a recorded review against their sources, and a marker or
+a date alone does not show that one was reviewed. When relying on a factual passage, read the
+entry for each cited source ID in its `sources/<recipe-id>.md` sidecar and carry the limitations
+that entry states.
 
 `[S12 @2026-11-07]` gives the claim's last check date. A dagger such as `[S16†]` marks limited or
 unavailable access: preserve the attributed observation and qualification rather than restating
@@ -190,78 +189,84 @@ shared with others. Refer to them by role, for example "a witness".
 <!-- recipe-catalog:start -->
 ## Recipes
 
-Generated from the recipe headers. Full entries give task triggers and the first guardrail.
-The short topic pointers are discovery links; their recipe headers carry the triggers, guardrails,
-capabilities and handoffs. Both tiers require reading the recipe before advising.
-A dated source check is a maintenance reminder, not verification of every claim or live control.
+Generated from the recipe headers. Full entries list the tasks they serve and quote the
+recipe's core guardrail. The short topic pointers are discovery links; they list tasks only
+where the header names some beyond the summary. Both tiers require reading the recipe before
+advising. A dated source check is a maintenance reminder, not verification of every claim or
+live control.
 
 - **`recipes/jewish-archival-list-triage.md`** — Finding Jewish genealogical lists behind archival catalogue titles.
   Select Ukrainian archival cases for named Jewish lists while separating title, geographical and
   document evidence.
   *Use for:* false-positive keywords, generic titles, civil-registration fund scope or candidate
   lists that have been presented as verified contents.
-  *Core guardrail:* a title or locality signal is a retrieval lead; verify the requested named
-  entries and retain uninspected cases explicitly.
+  *Core guardrail:* A geographical association does not establish either Jewish contents or the
+  identity of a person. Do not present a title match as a verified Jewish list.
 
 - **`recipes/elib-ukrainian-archive-reference-books.md`** — Recovering and identifying Ukrainian archival guides in ELIB.
   Retrieve Ukrainian archival guides from ELIB and identify the correct volume, part and fund scope.
   *Use for:* catalogue-card versus PDF confusion, leading-zero item IDs, keyword misses, similar
   volume titles or garbled cover-text extraction.
-  *Core guardrail:* verify the actual book; a constructed URL is a retrieval lead, and a historical
-  guide does not establish current case availability or contents.
+  *Core guardrail:* Prefer the current card's link over a constructed URL. A constructed route is a
+  retrieval lead until its response is verified as the intended PDF; redirects, error HTML or an
+  access failure leave acquisition unresolved.
   *Dated source check:* 2026-10-18.
 
 - **`recipes/dna-comparison-controls.md`** — DNA comparison controls across services.
   Reconcile conflicting vendor or native results using exact tests, query controls, local marker
   coverage and reporting scope.
   *Use for:* an absent match, raw-file X coverage, PAR/build ambiguity or doubled totals.
-  *Core guardrail:* unavailable inputs and out-of-scope displays are not measured negatives;
-  reciprocal reports are not independent observations.
+  *Core guardrail:* If the expected positive is missing, investigate the query, selection and
+  processing before interpreting an empty list.
 
 - **`recipes/archival-image-coverage-verification.md`** — Verifying archival images, case boundaries and search coverage.
   Verify case boundaries, image order, transcript version and the pages and targets actually
   inspected.
   *Use for:* catalogue/cover disagreements, conflicting readings or completeness claims.
-  *Core guardrail:* a finished reading pass, readable copy or indexed case does not establish
-  complete image, target-name or subsection coverage.
+  *Core guardrail:* A completed reader session establishes execution coverage, not transcription
+  accuracy. A new surname was not searched merely because its pages occurred in an earlier sweep for
+  other names.
 
 - **`recipes/corpus-seeded-name-search.md`** — Corpus-seeded name searches across scripts and OCR.
   Recover attested spellings across scripts and OCR by separating encoding, orthography and field
   behaviour.
   *Use for:* Hebrew/Yiddish name misses, lossy search folds or uncalibrated zero results.
-  *Core guardrail:* normalization is not spelling expansion; preserve originals and treat rescued
-  hits as candidates rather than identity or kinship proof.
+  *Core guardrail:* A completed zero-hit query describes that query and scope; it does not exclude a
+  person whose record or spelling has not been tested.
 
 - **`recipes/holocaust-testimony-source-interpretation.md`** — Interpret a Holocaust name record through its underlying source.
   Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement
   dates.
   *Use for:* unspecified death circumstances, submitter roles or evacuation conflicts.
-  *Core guardrail:* a memorial database hit is not by itself a death finding; match identities and
-  date roles before combining the timeline.
+  *Core guardrail:* Recover the information behind a Yad Vashem name result without converting a
+  memorial submission, archival list or evacuation entry into an unsupported death or family
+  conclusion.
 
 - **`recipes/russian-military-repression-record-episodes.md`** — Recover separate military and Soviet-repression record episodes.
   Reconcile WWI/WWII and Soviet-repression records as separate dated source episodes.
   *Use for:* awards versus loss reports, repeated arrests or copied regional entries, GWAR and OBD
   Memorial queries, Russian-front WWI prisoners of war, WWII Soviet prisoners of war and occupation
   victims.
-  *Core guardrail:* administrative dates and alleged events are distinct; a later order does not
-  establish survival and a duplicated index is not independent support.
+  *Core guardrail:* an award order after a missing report does not, by itself, establish survival
+  between those dates. Obtain an event-specific source before extending a life or death interval.
 
 - **`recipes/genealogy-standards-audit.md`** — Auditing a genealogy research package against professional standards.
   Audit a dossier, report, proof draft or documented tree by tracing each claim through examined
   sources and explained reasoning.
   *Use for:* citation gaps, search coverage, negative-evidence claims, GPS review, dependent
   conclusions, or choosing a research report, proof statement, summary or argument.
-  *Core guardrail:* a completed checklist does not establish proof; name the inspected evidence and
-  remaining gaps, and leave evidentiary sufficiency to the researcher.
+  *Core guardrail:* A populated log, polished footnote or completed checklist does not establish the
+  Genealogical Proof Standard (GPS). The researcher owns the final ruling on evidentiary
+  sufficiency.
 
 - **`recipes/jewish-genealogy-conditional-hypotheses.md`** — Jewish genealogy: conditional naming, town and DNA clues.
   Apply working hypotheses to Jewish naming, locality and DNA clues while keeping each proposition
   separate.
   *Use for:* proposed parentage, name equivalence, namesakes, naming customs, ancestral towns,
   conditional branches or segment attribution through an endogamous pedigree.
-  *Core guardrail:* settling kinship does not settle birthplace, namesake or every segment; preserve
-  the premises and dependencies in `recipes/evidence-proof-judgment.md`.
+  *Core guardrail:* A proposed father can select a search town; establishing that father still does
+  not establish the child's birthplace, the intended namesake or the ancestor behind every shared
+  segment.
 
 - **`recipes/burial-evidence-packet.md`** — Build a burial evidence packet from cemetery records.
   Recover a cemetery entry, its photograph or inscription, and the plot and cemetery-record locators
@@ -269,16 +274,17 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* cemetery coverage, surname variants, Hebrew and civil inscriptions, death/burial
   discrepancies or a database hit that needs a cemetery-record follow-up; names on a Soviet
   mass-grave plate
-  *Core guardrail:* distinguish death, burial, inscription and database statements; keep missing
-  fields and conflicting observations visible in the evidence packet.
+  *Core guardrail:* Keep death, burial, inscription and database statements distinguishable. The
+  result is a packet another researcher can inspect, with missing fields and unresolved
+  discrepancies visible.
 
 - **`recipes/city-directory-observation-workflow.md`** — Build a checked city-directory observation series.
   Build a comparable series of city-directory names, addresses and occupations from checked editions
   and sections.
   *Use for:* a known address with unknown names, surrounding locality sections, abbreviation keys,
   index errors, address/occupation changes or a person missing from one directory edition.
-  *Core guardrail:* separate unavailable and uninspected editions from inspected sections with no
-  hit; a gap does not establish a move, death or identity.
+  *Core guardrail:* A gap in a database's editions and an absent entry on inspected pages are
+  different results. Neither alone establishes why the person is missing.
 
 - **`recipes/land-index-book-series-recovery.md`** — Recover land instruments through indexes, book series and entry files.
   Follow a land-record lead through both relevant index directions to the correct instrument and
@@ -287,8 +293,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   recording, a surname search that missed the alternative index entry, Swedish property-book
   room/successor references and changed parcel designations, Bavarian property-protocol creators and
   tax-book identifier/volume handoffs, or cash-sale, bounty-land and homestead supporting packets.
-  *Core guardrail:* copy the original locator, distinguish instrument and recording dates, and
-  report bounded retrieval coverage before interpreting title or kinship.
+  *Core guardrail:* Keep both index directions, the instrument and recording dates, and the original
+  locator visible, so one missed surname entry or guessed book does not become a false absence.
 
 - **`recipes/probate-case-document-inventory.md`** — Inventory the documents of a probate case.
   Recover the documents behind a probate index, will or administrator's bond as a case inventory
@@ -296,39 +302,42 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* probate record series, references to other documents, later actions, non-will
   proceedings, Swedish court-copy versus heirs-original and poverty-certificate checks, reverse
   searches from a guardian to wards, or an estate search that stopped at the first useful document.
-  *Core guardrail:* finding a will does not finish the case; retain each document's locator and
-  remaining retrieval gaps, then hand off evidence interpretation.
+  *Core guardrail:* Keep a case inventory and a queue of unresolved references, so finding one
+  useful document does not silently finish the estate search.
 
 - **`recipes/us-military-pension-file-recovery.md`** — Recover and inventory a U.S. military pension file.
   Carry a service clue or pension index card to the appropriate application file and inventory the
   claim's documents.
   *Use for:* pension-card identifiers, record custodians, complete versus abbreviated copy products,
   widow/dependent applications, household and means statements, objections or later claim decisions.
-  *Core guardrail:* distinguish the index, service record, pension file and copy product; preserve
-  original image order beside the claim timeline and explicit missing material.
+  *Core guardrail:* Preserve the distinction between an index, a service record, a pension file and
+  an abbreviated copy product.
 
 - **`recipes/irish-catholic-parish-image-recovery.md`** — Recover an Irish Catholic parish entry at the NLI.
   Carry an Irish Catholic baptism or marriage lead into the NLI parish-register images and locate
   the actual entry.
   *Use for:* RootsIreland/Findmypast transcriptions, Catholic parish/register selection, a link
   opening the register's first page, date browsing or exact image citations.
-  *Core guardrail:* verify the opened route and entry; preserve register and image locators, and
-  keep baptism distinct from birth unless the original records both.
+  *Core guardrail:* Carry an Irish Catholic baptism or marriage lead into the National Library of
+  Ireland's register images, inspect the actual entry and preserve the register and image locators.
+  A transcription can identify a parish and date without supplying an image; a baptism date remains
+  a baptism date unless the original separately records birth.
 
 - **`recipes/polish-index-original-record-recovery.md`** — Recover a Polish original from an index or archival description.
   Recover an original Polish register entry from Geneteka, Metryki or Szukaj w Archiwach, or
   document the retrieval gap.
   *Use for:* SKAN links, locality/confession/year/act locators, PRADZIAD descriptions, archival
   fonds and units, missing scans or alternative holding routes.
-  *Core guardrail:* an index or holding description is not an inspected original; preserve the act's
-  locator and the exact level where access or retrieval stopped.
+  *Core guardrail:* A register description establishes a lead to holdings, not that the target entry
+  has been inspected. Preserve the complete reference, not just a short number detached from its
+  archive and fonds.
 
 - **`recipes/rootsmagic-tree-reconciliation-workflow.md`** — RootsMagic: Reconcile a Local Tree with Ancestry and FamilySearch.
   Reconcile selected facts and sources between RootsMagic, Ancestry TreeShare and FamilySearch.
   *Use for:* person crosswalks, staged additions/replacements, citation and media transfer,
   duplicate sources, destination checks or resuming a bounded synchronization batch.
-  *Core guardrail:* review each object and direction, then reopen the destination to verify the
-  saved content; the three trees are not an automatic mirror.
+  *Core guardrail:* Choose the destination and operation for each object, then inspect the saved
+  result.
   *Dated source check:* 2026-10-07.
 
 - **`recipes/wikitree-dna-tester-links.md`** — WikiTree: Link DNA Tests to the Correct Tester and External Kit.
@@ -336,8 +345,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   GEDmatch link destination.
   *Use for:* tester/kit crosswalks, external tree links, visibility settings, propagated DNA
   Connections or pedigree leads needing documentary follow-up.
-  *Core guardrail:* a registered test or tree-derived connection is not a measured comparison or
-  DNA-confirmed relationship; preserve each observation separately.
+  *Core guardrail:* Do not mark a relationship DNA-confirmed solely because a tester appears in a
+  list or because the external tree link works.
   *Dated source check:* 2026-10-07.
 
 - **`recipes/usa-immigration-search-recovery.md`** — Recover U.S. immigration and naturalization records.
@@ -347,8 +356,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   courts, check historical citizenship rules, locate federal files and recover broken image links.
   *Use for:* ship and aircraft passenger lists, Canada/Mexico crossing records, naturalization
   minute books, C-files, A-files and AR-2 records.
-  *Core guardrail:* preserve the complete image context and actual collection coverage; resolve
-  citizenship rules and file custody for the person's dates before drawing conclusions.
+  *Core guardrail:* The recurring mistake is treating a search miss as a missing ancestor when the
+  failure lies in the selected port, date, recorded name, image, citizenship history or custodian.
 
 - **`recipes/familysearch-practical-record-workflows.md`** — FamilySearch record recovery and Tree maintenance.
   Nineteen FamilySearch operations: recover Catalog/DGS holdings and image-only records, preserve
@@ -358,8 +367,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   copy and record a supported relationship without inventing a parent.
   *Use for:* FamilySearch howtos, Catalog/film/DGS crosswalks, unindexed images, Full Text or Simple
   Search, Source Linker cleanup, profile repair and Source Box reuse.
-  *Core guardrail:* inspect actual images and identities; preserve query/view scope; verify report
-  audience and visibility before treating an attachment as shared evidence.
+  *Core guardrail:* Confirm candidates from the image and context. A name appearing in text does not
+  establish the candidate's identity.
   *Dated source check:* 2026-10-04.
 
 - **`recipes/russian-empire-emigrant-origin-recovery.md`** — Recovering a Russian Empire emigrant's origin locality.
@@ -369,8 +378,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   arrivals, including Canadian transit, across confessions.
   *Use for:* conflicting arrival years, changing names, missing manifest pages, two contact fields,
   separate family arrivals, residence/birthplace ambiguity or an unresolved origin town.
-  *Core guardrail:* preserve each person's record and place role; verify linked pages and outcome
-  evidence; direct U.S.-bound Canadian transit does not imply a Form 30A record.
+  *Core guardrail:* Preserve the wording and field role until the movement and locality evidence
+  resolve them.
 
 - **`recipes/us-census-practical-workflows.md`** — Practical U.S. census workflows.
   Ten practical U.S. census procedures: recover households, browse target-year districts, follow
@@ -380,9 +389,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* a missing census household, an address without a name hit, sheet 71, tick-mark counts,
   substitute censuses, sample lines, marriage/children fields, competing child rosters, mortality
   reporting windows, or formerly enslaved families under different surnames.
-  *Core guardrail:* preserve the original locator and literal observations; keep calculated
-  intervals and proposed identities separate, and route proof rulings to
-  `recipes/evidence-proof-judgment.md`.
+  *Core guardrail:* Preserve the original census locator and keep literal observations separate from
+  calculations and proposed identities.
 
 - **`recipes/geni-practical-research-workflows.md`** — Practical Geni research workflows.
   Eight practical Geni workflows: recover name variants, preserve relationship focus, cite facts,
@@ -390,9 +398,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   inspect scoped exports.
   *Use for:* Geni language/alias fields, relationship paths, source documents, public projects or
   private workspaces, merge requests, unmerge requests, GEDCOM imports and tree reports.
-  *Core guardrail:* preserve profile URLs and dated scope; distinguish tree assertions,
-  source-supported statements, pending requests and completed changes. Draft manager or curator
-  requests for human review, and inspect private content before sharing an export.
+  *Core guardrail:* Distinguish tree assertions, source-supported statements, pending requests and
+  completed changes. Draft any manager or curator request for my review; do not send it.
   *Dated source check:* 2026-11-06.
 
 - **`recipes/ancestry-dna-match-investigation.md`** — AncestryDNA: eight practical ways to investigate matches.
@@ -401,8 +408,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   recover missing match rows.
   *Use for:* AncestryDNA match investigation, Pro Tools Enhanced Shared Matches, colored dots,
   linked trees, ThruLines, access-dependent gaps or connecting a match to another testing site.
-  *Core guardrail:* preserve dated access and pair-specific observations; shared matches are clues
-  rather than segment triangulation, and tree paths need documentary verification.
+  *Core guardrail:* Keep three columns: observed cM, dated label with its origin, and sourced
+  pedigree path.
   *Dated source check:* 2026-10-03.
 
 - **`recipes/myheritage-dna-match-investigation.md`** — MyHeritage DNA match investigation playbook.
@@ -412,8 +419,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   contact matches and resume dated packets.
   *Use for:* MyHeritage DNA match investigation, kit relinking, largest-segment sorting,
   labels/favorites, Shared DNA Matches, Theory of Family Relativity or an investigation follow-up.
-  *Core guardrail:* keep kit identity, access, filter state, pair-specific values and exact
-  comparison sets explicit; an unshown measurement is not zero, and a theory is a path to review.
+  *Core guardrail:* Save empty results with their actual query, kit, filters and date. Do not fill
+  an unshown DNA measurement with zero or infer that a person outside the list has no shared DNA.
   *Dated source check:* 2026-10-03.
 
 - **`recipes/unknown-parentage-wato.md`** — Work an unknown-parentage case with DNA matches and WATO.
@@ -422,9 +429,9 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* "who is my unknown grandfather/father", adoptee bio-family search, WATO hypothesis
   scoring, clustering matches to an ancestral couple, tied hypotheses, choosing a discriminating
   tester, or deciding which observations to withhold from a calculation.
-  *Core guardrail:* WATO ranks placements on a tree **you already built**, gives **relative** odds
-  among competing hypotheses (never a verdict), and breaks **silently** under endogamy / pedigree
-  collapse / any multi-path match.
+  *Core guardrail:* WATO assumes single-path descent. Pedigree collapse / endogamy / a match related
+  through two lines silently invalidates the score — the tool has no way to know and will still rank
+  confidently.
 
 - **`recipes/ai-for-dna-research.md`** — Using AI reliably in DNA genealogy research.
   Using an AI assistant *reliably* on DNA/genealogy work: what to delegate freely, what to never
@@ -437,8 +444,11 @@ A dated source check is a maintenance reminder, not verification of every claim 
   timelines for locality-search leads.
   *Use for:* any "can AI/ChatGPT/Claude help me with my DNA / tree / citations", **or** whenever you
   (the assistant) are about to compute or assert something in this domain.
-  *Core guardrail:* never fabricate cM→relationship odds (route to the Shared cM Project / DNA
-  Painter WATO); every AI output is a **hypothesis to verify**, never a fact to file.
+  *Core guardrail:* Never ask the LLM to compute relationship probabilities from a cM number — it
+  *fabricates* them. Route a *single* cM figure to the **Shared cM Project / DNA Painter's Shared cM
+  Tool** (point cM → the *range* of candidate relationships); if you have a tree plus multiple
+  matches to place, that's **WATO** — a *different* DNA Painter tool that scores hypothesis slots,
+  not a cM→relationship lookup.
 
 - **`recipes/ydna-mtdna-interpretation.md`** — Interpreting Y-DNA and mtDNA — what a haplogroup or STR/sequence match can (and can't) establish.
   Interpreting Y-DNA and mtDNA results (a haplogroup assignment, a Y-STR genetic-distance match, an
@@ -450,10 +460,9 @@ A dated source check is a maintenance reminder, not verification of every claim 
   differing Y labels, measured versus inferred SNP results, choosing a tester to split an unresolved
   SNP block, TMRCA disagreement with a dated pedigree, or a pair matching on both autosomal DNA and
   Y-DNA/mtDNA through potentially different ancestral lines.
-  *Core guardrail:* never assign a haplogroup or compute a GD→generations/TMRCA point estimate from
-  memory (route to FTDNA Discover / TiP report / Match Time Tree, quote a resolution-dependent
-  **range**); an exact match at low resolution is **unresolved**, not recent; a haplogroup
-  contradiction or absent surname-match is a **flag needing corroboration**, never proof of an NPE.
+  *Core guardrail:* **you do not compute or assign haplogroups, TMRCAs, or NPE verdicts from your
+  own reasoning.** Every such value is a *hypothesis to route to the right tool or corroborate* —
+  never a fact to state.
 
 - **`recipes/xdna-phasing-judgment.md`** — X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong.
   X-DNA matches and visual/parental phasing: what a segment, an X match, or a phased chromosome map
@@ -461,10 +470,10 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* "is this X-DNA match trustworthy", "what's the minimum X cM threshold", "phase my kit
   against a parent or siblings", "half-sister or aunt", "does this X match rule out a father",
   reconstructed-kit quality, artificial homozygosity, or interpreting matches to a synthetic kit.
-  *Core guardrail:* never invent a small-segment or X-DNA false-positive rate or cM threshold — cite
-  the specific company/study, since they diverge by design and by pair-sex; phasing reduces but
-  never eliminates pseudosegments on either side; usable X evidence can reject an incompatible
-  non-PAR route, while compatibility alone does not confirm the proposed ancestor.
+  *Core guardrail:* **Ban invented small-segment statistics.** Any false-positive-rate or
+  chance-match number must be attributed to a specific company/study (23andMe 2014, AncestryDNA
+  2020, FTDNA's Family Finder Matching 5.0) — never a smoothed or averaged figure presented as a
+  universal law.
 
 - **`recipes/ai-for-documentary-records.md`** — Using AI reliably in documentary & records genealogy research.
   Using an AI assistant *reliably* on DOCUMENTARY / records work (NOT DNA): handwriting
@@ -474,8 +483,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* any "can AI/ChatGPT/Gemini transcribe or translate this handwriting", "full-text search
   for unindexed deeds/probate", "correct AI-indexed records", "evaluate an AI record hint",
   "colorize/restore an old photo".
-  *Core guardrail:* every AI output is a **hypothesis to verify** against the ORIGINAL image; a bare
-  LLM is not a search engine; never use an AI-restored/generated face for identification.
+  *Core guardrail:* **Every AI output is a hypothesis to verify against the original record, never a
+  fact to file.**
 
 - **`recipes/evidence-proof-judgment.md`** — Correlating evidence & proving identity — the judgment AI gets wrong.
   Correlating evidence & proving identity: the judgment an AI gets WRONG when it recites the
@@ -487,9 +496,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   negative evidence, combining DNA with documents into ONE proof, conditional placements,
   discriminating hypothesis tests or revising dependent claims — **and** whenever you (the
   assistant) are about to state a genealogical conclusion.
-  *Core guardrail:* the human owns every ruling (merge/separate, conflict resolution,
-  exhaustiveness, the final "therefore proven"); a provisional link can direct a search without
-  establishing dependent ancestry. The model assembles and drafts but NEVER concludes.
+  *Core guardrail:* **You rule on identity and proof. The model assembles and drafts — it never
+  concludes.**
 
 - **`recipes/russian-empire-jewish-identity-attribution.md`** — Name mismatch in a Russian-Empire Jewish family — which branch, and what DNA can still say.
   A Russian-Empire Jewish ancestor who turns up under a given name, patronymic or surname that fits
@@ -505,10 +513,9 @@ A dated source check is a maintenance reminder, not verification of every claim 
   under different surnames, a patronymic that is the grandfather's or the husband's name, a person
   missing from a revision list, or DNA that "can't tell the two branches apart" under Ashkenazi
   endogamy plus repeated pedigree collapse.
-  *Core guardrail:* chain the household before you judge the name; find the приписка before you
-  search a town; write which tester's result would DIFFER under the two hypotheses before touching a
-  match list — if none differs, say "undecidable with current testers" and name the tester who would
-  decide it.
+  *Core guardrail:* **A name mismatch never changes the branch verdict on its own; the household
+  chain does.** Chain the person through household number → previous household number → age at
+  previous revision → "выбыло" column → additional lists before you interpret any name.
 
 - **`recipes/jewishgen-search-family-reconstruction.md`** — JewishGen searches that recover families missed by a name-and-town query.
   Retrieving JewishGen family records when names, ages, towns or a woman's surname are uncertain.
@@ -518,9 +525,7 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* JewishGen exact, partial, phonetic or fuzzy searches; double names and patronymics;
   conflicting ages or delayed registration; a missing marriage record, unknown maiden name or
   daughter who disappears under a married surname.
-  *Core guardrail:* verify each collection's field and search-method semantics; a name, age or
-  household match creates a candidate, and a recruitment explanation remains a hypothesis until
-  independent records support it.
+  *Core guardrail:* Do not convert a phonetic, household or age match into a relationship.
   *Dated source check:* 2026-10-01.
 
 - **`recipes/beider-given-name-variants.md`** — Ashkenazi given-name variants from Beider's indexes.
@@ -528,23 +533,17 @@ A dated source check is a maintenance reminder, not verification of every claim 
   J-Roots Beider indexes.
   *Use for:* an unfamiliar or approximate Cyrillic given name, compound names, alternate spellings,
   ambiguous article labels, or documenting a DNA match's family under another name form.
-  *Core guardrail:* when present, query offline with `scripts/lookup_beider_name.py --name` for up
-  to 20 article groups by default, including similar candidates when an exact match exists; then
-  retrieve a selected article's recorded variants with `--key`. Without the helper, use the host's
-  file search on `resources/beider-name-indexes.json` for the exact and separator-normalized
-  spelling, read only matching entries, keep the 20-group bound and state that similar-candidate
-  (fuzzy) search was not available. Never load the whole JSON into the conversation. Comparison
-  ignores spaces and supported hyphens/dashes; keep compound component searches separate.
-  Distinguish unavailable local data from an absent entry. Approximate matches are spelling
-  suggestions, not source-backed synonyms; article membership never proves identity or kinship.
+  *Core guardrail:* Two forms in one dictionary article create search candidates; they do not
+  establish that two records describe the same person.
 
 - **`recipes/myheritage-historical-record-search.md`** — Recovering historical records with MyHeritage.
   Recovering MyHeritage historical records hidden by collection coverage, query fields, name
   variants, languages or OCR.
   *Use for:* no-result searches, Collection Catalog, relative pivots, historical jurisdictions,
   newspaper keywords/OldNews or an index that must lead onward to an original record.
-  *Core guardrail:* diagnose coverage and field meaning before tightening; change one constraint at
-  a time, preserve original text, and treat structured or translated values as search leads.
+  *Core guardrail:* Preserve the sparse baseline before tightening it. If a tighter query fails,
+  relax one condition at a time and record the reason; changing everything together conceals what
+  excluded the record.
   *Dated source check:* 2026-10-03.
 
 - **`recipes/newspapers-com-search-recovery.md`** — Newspapers.com: Recover Notices That Name Searches Miss.
@@ -555,9 +554,9 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* a failed newspaper name search, an unknown maiden name, a missing obituary, immigration
   or family-reconstruction leads, title changes, incomplete issue coverage, alternate holdings or
   unreadable OCR.
-  *Core guardrail:* a page-level hit can join different notices; verify each person, relationship,
-  event date and place in its actual notice. A failed query is not evidence that an event never
-  happened, and a second index of the same newspaper image is not independent corroboration.
+  *Core guardrail:* A surname can occur in one item and a travel verb in another on the same page.
+  Confirm the subject and event within the actual item before assigning that event to the searched
+  person.
   *Dated source check:* 2026-10-03.
 
 - **`recipes/hebrewbooks-search-recovery.md`** — Recovering HebrewBooks search misses.
@@ -566,9 +565,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* Hebrew OCR letter confusions, catalogue versus full-text searches, short mobile
   queries, inaccessible routes, Shafeh title searches, given-name indexes and viewer versus printed
   page numbers.
-  *Core guardrail:* distinguish an unsubmitted query or access error from a completed search with no
-  hits. Keep OCR test strings separate from historical names, and record the book ID, viewer page,
-  printed locator and edition separately.
+  *Core guardrail:* An access error, an unsubmitted query and a completed search with zero hits are
+  different observations. Record the surface and the observation before interpreting it.
   *Dated source check:* 2026-11-07.
 
 - **`recipes/ancestry-record-search-recovery.md`** — Ancestry record-search recovery.
@@ -578,8 +576,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* an attached census disappearing from results, narrow Card Catalog matches,
   birthplace/residence confusion, conservative wildcard batches, name-free searches, book page
   versus image numbers, enumeration-district browsing, or index-only records.
-  *Core guardrail:* search results generate candidates; a zero-result query does not prove absence,
-  and the original document must support identity before filing a relationship.
+  *Core guardrail:* Keep three observations separate: no indexed candidate; no matching images in
+  the available inventory; and documented absence in the original surviving records.
   *Dated source check:* 2026-10-20.
 
 - **`recipes/23andme-match-research.md`** — Working with 23andMe DNA: matches, matrices, segments, and preservation.
@@ -588,8 +586,9 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* match worksheets, connection permissions, selected-segment painting, parent-side
   information, ancestry confidence/history, legacy bucketing, reconstructed ancestors, extension
   exports/groups, manual shared-match charts, or floating research-tree branches.
-  *Core guardrail:* verify actual access and quantity scope; keep shared-list membership, matching
-  intervals, ancestry estimates and documentary identity separate.
+  *Core guardrail:* The expensive mistake is assuming that every visible DNA Relative can be
+  compared in every position, every percentage is autosomal-only, and every Download button returns
+  the same kind of evidence.
   *Dated source check:* 2026-10-03.
 
 - **`recipes/ftdna-practical-dna-workflows.md`** — Maintaining FamilyTreeDNA exports and tree links.
@@ -599,10 +598,10 @@ A dated source check is a maintenance reminder, not verification of every claim 
   *Use for:* Family Finder CSV scope, opaque note handles, selected-match segment files, transferred
   links that need confirmation, dated parental-bucket inventories, subgroup selections, branch
   estimates, obscured map nodes, hidden details or authorized project-display checks.
-  *Core guardrail:* reconcile export scope before joining; hold out ambiguous names; confirm each
-  tree link and preserve observed vendor assignments separately from pedigree proof. A selected
-  Group Time Tree view has its own scope; missing or withheld details do not establish an absent
-  lineage, and kit access does not authorize public display.
+  *Core guardrail:* A match name is a join key, not a unique person identifier. Matching Bucket and
+  Linked Relationship are values observed at download. Record link changes separately from the
+  retrieval date, keep the export choice and kit with the rows, and refresh match metadata after
+  relinking.
   *Dated source check:* 2026-10-03.
 
 - **`recipes/dnapainter-practical-dna-workflows.md`** — Practical DNA Painter maps, matrices and tree worklists.
@@ -614,10 +613,9 @@ A dated source check is a maintenance reminder, not verification of every claim 
   Segments Generator, Distinct Segment Generator, Coverage Estimator, Cluster Auto Painter
   annotations, ancestral-tree reports, sourced numeric pair matrices, or Shared cM histograms and
   two-value range screens.
-  *Core guardrail:* verify the people, chromosome copy and genome build; keep measured comparisons,
-  inferred intervals, coordinate unions, pedigree estimates and documentary tree worklists
-  distinguishable. A relationship note does not assign all of a match's intervals; matrix shading
-  does not establish a relationship, and copied names do not supply cM.
+  *Core guardrail:* A copied segment belongs to its original comparison; an intersection is
+  coordinate geometry; an inferred interval is a deduction; the Coverage Estimator is a
+  pedigree-based estimate. Keep those outputs distinguishable.
   *Dated source check:* 2026-10-04.
 
 - **`recipes/gedmatch-practical-dna-workflows.md`** — Working reproducibly with GEDmatch.
@@ -626,28 +624,30 @@ A dated source check is a maintenance reminder, not verification of every claim 
   triangulation, and record parental-phasing or Lazarus input groups and generated-kit roles.
   *Use for:* GEDmatch One-to-Many, One-to-One, match-both, Segment Search, tag groups, Multiple Kit
   Analysis, Triangulation, parental phasing or Lazarus reconstruction.
-  *Core guardrail:* preserve actual access, thresholds, pairwise intervals and fixed rosters;
-  separate shared-list membership and generated-kit signals from pedigree proof.
+  *Core guardrail:* A match-list row, a pairwise segment, a shared-match list, a triangulation
+  result and a generated kit answer different questions. Keep their tool, inputs and settings
+  attached to every result.
   *Dated source check:* 2026-10-04.
 
 - **`recipes/source-citation.md`** — Source citation record.
   Preserve a retrievable source record and connect each citation to the evidence it supports.
   *Use for:* source citations, repository and item locators, layered citations, shortened references
-  *Core guardrail:* Preserve the consulted source layer and a locator that retrieves the actual
-  item; a citation alone does not establish a claim.
+  *Core guardrail:* An index entry and an inspected original image have different retrieval paths;
+  record which one you used.
 
 - **`recipes/research-documentation.md`** — Research log and report.
   Preserve searches, results, document numbers and analysis so an investigation can resume.
   *Use for:* research logs, research reports, NIL searches, coverage and linked next actions
-  *Core guardrail:* Record inaccessible, interrupted and unsearched collections separately from
-  completed searches with no hits.
+  *Core guardrail:* Use `NIL` for a completed search with no hits. Record inaccessible images,
+  interrupted searches and unsearched collections with their actual status.
 
 - **`recipes/rabbinic-literature-person-search.md`** — Search rabbinic and Hasidic literature for a person or a lineage.
   Find and interpret passages about a Jewish ancestor, rabbinic office or claimed lineage in
   rabbinic and Hasidic books.
   *Use for:* rebbe descent traditions, rabbis of a town, responsa, approbations and Hasidic tales
-  *Core guardrail:* A name, office, discipleship or repeated tale does not establish a kinship link;
-  identify the person and independent witness behind each passage.
+  *Core guardrail:* Keep two questions apart: did the ancestor exist, and is the bridge from your
+  person to that ancestor documented? Rabbinic books often answer the first and rarely prove the
+  second.
 
 - **`recipes/agent-research-project.md`** — Running a long genealogy project with an AI agent.
   Keep an AI agent's genealogy work honest over months: what counts as evidence, how to lay out
@@ -655,11 +655,11 @@ A dated source check is a maintenance reminder, not verification of every claim 
   every note, and how to delegate and write to a tree safely.
   *Use for:* running a multi-session genealogy investigation with an AI agent; keeping genealogy
   research notes in Markdown or Obsidian; delegating genealogy reading to sub-agents; carrying a
-  correction through notes and a tree; research vault; Obsidian genealogy notes; Markdown research
-  notes; the agent says saved or done; sub-agent genealogy research; long genealogy project; keep
-  research across sessions; correct a claim everywhere
-  *Core guardrail:* An agent's own notes, summaries and passing checks are not evidence. Settle
-  every fact on the original.
+  correction through notes and a tree; research vault; Obsidian genealogy notes; the agent says
+  saved or done; sub-agent genealogy research; long genealogy project; keep research across
+  sessions; correct a claim everywhere
+  *Core guardrail:* Treat a model-written summary, tag or "key insight" as a pointer. Open the
+  source before writing a claim.
 
 ## More recipes by topic
 
@@ -672,6 +672,9 @@ A dated source check is a maintenance reminder, not verification of every claim 
 - **`recipes/bessarabia-moldova-record-routing.md`** — Route a Bessarabian or Moldovan record by date, district and bank of the Dniester.
   Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present
   custodian, then search ANA fond 211 by opis.
+  *Use for:* Search Bessarabian and Chișinău notarial acts in the ANA notarial fonds by office,
+  notary and year.; Search Bessarabian and Moldovan newspapers in the Arcanum database and read each
+  hit on the page image.
 
 - **`recipes/historic-hungary-record-routing.md`** — Route a record from historic Hungary by county, successor state and record type.
   Route a birth, marriage, death, census or tax entry from the pre-1920 Kingdom of Hungary by
@@ -862,6 +865,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
 
 - **`recipes/russian-revision-list-household-chaining.md`** — Chain a Russian-Empire revision-list household across copies, sections and revisions (Urals evidence).
   Chain a non-Jewish revision-list household across copies, sections and revisions.
+  *Use for:* Route an Orenburg Cossack, Bashkir or Tatar revision-era household by its jurisdiction
+  on the record date.
 
 - **`recipes/muscovite-census-settler-origin-recovery.md`** — Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books.
   Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and
@@ -897,11 +902,17 @@ A dated source check is a maintenance reminder, not verification of every claim 
 - **`recipes/russian-orthodox-confession-list-reading.md`** — Read Russian Orthodox confession lists household by household across years.
   Read Russian Orthodox confession lists by household across years, test ages and names, and check
   them against revision lists and metrical books.
+  *Use for:* исповедная ведомость, исповедная роспись or духовная роспись of the Russian Empire;
+  Compare исповедные ведомости across years
 
 - **`recipes/russian-household-list-transcription-audit.md`** — Audit a transcription of a Russian confession list or revision list against the images.
   Audit a transcription of a Russian confession list or revision tale against the images: count the
   people first, settle glyphs against the same scribe, keep relationship chains, name forms and kin
   terms as written, and record the image value with its inconsistencies.
+  *Use for:* Audit a researcher's, volunteer's or model's transcription of a Russian Orthodox
+  confession list (исповедная ведомость) or revision tale (ревизская сказка) against the images.;
+  Audit a spreadsheet of Russian household-list entries; проверить расшифровку исповедной ведомости
+  или ревизской сказки
 
 - **`recipes/chechen-ingush-1944-deportation-records.md`** — Trace a Chechen or Ingush family through the 1944 deportation and special settlement.
   Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both
@@ -943,6 +954,7 @@ A dated source check is a maintenance reminder, not verification of every claim 
   court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish
   sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy
   searches.
+  *Use for:* Sing Sing name indexes
 
 - **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act and its petition.
   Recover a state legislative private act, such as a legitimation, name change, divorce or pension,
@@ -959,6 +971,8 @@ A dated source check is a maintenance reminder, not verification of every claim 
 - **`recipes/us-period-law-record-reading.md`** — Read U.S. records under the law and legal language of their own place and date.
   Read a U.S. record's legal words, courts, bonds, and age or inheritance rules under the law of its
   own place and date, and keep each inference within what that law required.
+  *Use for:* dower, dowry, next friend, adr c t a, voidable, penal sum or mainpernor in a record;
+  Did the law of that place and date allow this marriage or inheritance
 
 ### Migration and origins
 
@@ -1030,6 +1044,7 @@ A dated source check is a maintenance reminder, not verification of every claim 
 - **`recipes/repository-photograph-collection-search.md`** — Search repository photograph collections by place and subject.
   Search repository photograph collections for an ancestor, home, shop or community by place and
   subject.
+  *Use for:* Search current and completed auction or marketplace lots for old family photographs.
 
 ### DNA workflows and research planning
 

@@ -3,11 +3,10 @@ id: "marks-and-brands-record-recovery"
 title: "Recover a livestock mark or brand registration"
 summary: "Carry a livestock marks-and-brands index entry to the actual registration or a described copy."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Carry a livestock marks-and-brands index entry to the actual registration or a described copy."]}
-triggers: ["Carry a livestock marks-and-brands index entry to the actual registration", "a described copy"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "MARKS-AND-BRANDS-RECORD-RECOVERY-01", "text": "read the index's own filing key before searching, since it can be the brand's initial rather than the owner's surname."}]
+guardrails: [{"id": "MARKS-AND-BRANDS-RECORD-RECOVERY-01", "text": "Read the index headings and arrangement before searching by the owner's surname. A design initial can be the filing key: the teaching example finds an owner under the letter beginning the brand, rather than the owner's surname."}]
 handoff: []
 checked: null
 checked_basis: null

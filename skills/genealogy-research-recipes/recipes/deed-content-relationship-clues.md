@@ -3,11 +3,10 @@ id: "deed-content-relationship-clues"
 title: "Read deed content as dated relationship, probate, migration and parcel hypotheses"
 summary: "Read a retrieved deed's type, consideration, estate terms, parties, court-bond security recitals and parcel for dated clues to heirship, probate, migration or land identity."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Read a retrieved deed's type, consideration, estate terms, parties, court-bond security recitals and parcel for dated clues to heirship, probate, migration or land identity."]}
-triggers: ["Read a retrieved deed's type", "consideration", "estate terms", "parties", "court-bond security recitals and parcel for dated clues to heirship", "probate"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "DEED-CONTENT-RELATIONSHIP-CLUES-01", "text": "every clue is a dated hypothesis with a stated corroboration need, never a kinship finding."}]
+guardrails: [{"id": "DEED-CONTENT-RELATIONSHIP-CLUES-01", "text": "Every clue here is a dated hypothesis with a stated corroboration need. None is a kinship finding."}]
 handoff: []
 checked: null
 checked_basis: null

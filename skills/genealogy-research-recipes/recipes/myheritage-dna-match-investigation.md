@@ -4,10 +4,9 @@ title: "MyHeritage DNA match investigation playbook"
 summary: "Nine practical MyHeritage DNA workflows: select the right kit, preserve theories before reassignment, build filtered shortlists, use labels and notes, capture pair-specific shared-match values, compare triangulation subsets, audit theory connections, recover private-tree leads, contact matches and resume dated packets."
 kind: "platform"
 scope: {"platforms": ["myheritage"], "tasks": ["MyHeritage DNA match investigation, kit relinking, largest-segment sorting, labels/favorites, Shared DNA Matches, Theory of Family Relativity or an investigation follow-up."]}
-triggers: ["MyHeritage DNA match investigation", "kit relinking", "largest-segment sorting", "labels/favorites", "Shared DNA Matches", "Theory of Family Relativity"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "MYHERITAGE-DNA-MATCH-INVESTIGATION-01", "text": "keep kit identity, access, filter state, pair-specific values and exact comparison sets explicit; an unshown measurement is not zero, and a theory is a path to review."}]
+guardrails: [{"id": "MYHERITAGE-DNA-MATCH-INVESTIGATION-01", "text": "Save empty results with their actual query, kit, filters and date. Do not fill an unshown DNA measurement with zero or infer that a person outside the list has no shared DNA."}]
 handoff: ["ai-for-dna-research"]
 checked: "2026-10-03"
 checked_basis: "checked 2026-10-03"

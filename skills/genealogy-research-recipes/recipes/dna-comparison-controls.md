@@ -4,10 +4,9 @@ title: "DNA comparison controls across services"
 summary: "Reconcile conflicting vendor or native results using exact tests, query controls, local marker coverage and reporting scope."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["an absent match, raw-file X coverage, PAR/build ambiguity or doubled totals."]}
-triggers: ["an absent match", "raw-file X coverage", "PAR/build ambiguity", "doubled totals"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "DNA-COMPARISON-CONTROLS-01", "text": "unavailable inputs and out-of-scope displays are not measured negatives; reciprocal reports are not independent observations."}]
+guardrails: [{"id": "DNA-COMPARISON-CONTROLS-01", "text": "If the expected positive is missing, investigate the query, selection and processing before interpreting an empty list."}]
 handoff: ["ai-for-dna-research", "gedmatch-practical-dna-workflows", "xdna-phasing-judgment"]
 checked: "2026-10-18"
 checked_basis: "checked 2026-10-18"

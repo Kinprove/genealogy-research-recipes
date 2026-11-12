@@ -3,11 +3,10 @@ id: "german-register-image-recovery"
 title: "Recover a German register entry through its locality, record offices and register version"
 summary: "Trace an emigrant's German place name to its church or civil register entry through the locality, record offices and register version; retain distinct named sponsor and proxy roles."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Trace an emigrant's German place name to its church or civil register entry through the locality, record offices and register version; retain distinct named sponsor and proxy roles."]}
-triggers: ["Trace an emigrant's German place name to its church", "civil register entry through the locality", "record offices and register version", "retain distinct named sponsor and proxy roles"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "GERMAN-REGISTER-IMAGE-RECOVERY-01", "text": "do not take the first same-named town, assume it kept its own records, or cite a derivative as the original."}]
+guardrails: [{"id": "GERMAN-REGISTER-IMAGE-RECOVERY-01", "text": "**Narrow by the Kreis, Oberamt or state nesting.** Many towns share a name."}]
 handoff: ["french-departmental-record-routing"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"

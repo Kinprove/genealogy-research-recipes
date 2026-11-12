@@ -3,14 +3,13 @@ id: "us-federal-court-case-file-recovery"
 title: "Recover a U.S. federal court case file"
 summary: "Take a lead to the right federal court for the period, its National Archives record group and index, and the loose case file."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Take a lead to the right federal court for the period, its National Archives record group and index, and the loose case file."]}
-triggers: ["Take a lead to the right federal court for the period", "its National Archives record group and index", "and the loose case file"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-FEDERAL-COURT-CASE-FILE-RECOVERY-01", "text": "decide whether the matter is federal before searching a county courthouse; a complete-index miss is a bounded negative that does not clear other relatives."}]
+guardrails: [{"id": "US-FEDERAL-COURT-CASE-FILE-RECOVERY-01", "text": "Decide whether the matter is federal before you search a county courthouse or a large genealogy database."}]
 handoff: ["court-case-file-recovery", "criminal-court-prison-record-recovery"]
 checked: "2026-11-07"
-checked_basis: "checked 2026-11-07"
+checked_basis: "read 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1103}
 ---

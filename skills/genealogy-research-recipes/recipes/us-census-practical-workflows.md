@@ -4,10 +4,9 @@ title: "Practical U.S. census workflows"
 summary: "Ten practical U.S. census procedures: recover households, browse target-year districts, follow 1950 revisit sheets, compare pre-1850 age bins, bridge the 1890 gap, extract supplements and family fields, search mortality schedules, follow surname changes, and follow a farm lead into an agricultural schedule."
 kind: "records"
 scope: {"platforms": [], "tasks": ["a missing census household, an address without a name hit, sheet 71, tick-mark counts, substitute censuses, sample lines, marriage/children fields, competing child rosters, mortality reporting windows, or formerly enslaved families under different surnames."]}
-triggers: ["a missing census household", "an address without a name hit", "sheet 71", "tick-mark counts", "substitute censuses", "sample lines"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-CENSUS-PRACTICAL-WORKFLOWS-01", "text": "preserve the original locator and literal observations; keep calculated intervals and proposed identities separate, and route proof rulings to `recipes/evidence-proof-judgment.md`."}]
+guardrails: [{"id": "US-CENSUS-PRACTICAL-WORKFLOWS-01", "text": "Preserve the original census locator and keep literal observations separate from calculations and proposed identities."}]
 handoff: ["evidence-proof-judgment", "land-index-book-series-recovery", "us-military-pension-file-recovery"]
 checked: "2026-10-20"
 checked_basis: "checked 2026-10-20"

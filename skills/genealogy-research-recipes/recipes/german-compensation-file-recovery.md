@@ -3,11 +3,10 @@ id: "german-compensation-file-recovery"
 title: "Recover a German compensation file from a Lastenausgleich or Wiedergutmachung index hit"
 summary: "Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it."]}
-triggers: ["Carry a Lastenausgleich", "Berlin Wiedergutmachung index hit to the file behind it"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "GERMAN-COMPENSATION-FILE-RECOVERY-01", "text": "a hit does not show who filed, which relatives the file names or that the indexed person is yours, and a no-hit does not mean no file mentions a relative."}]
+guardrails: [{"id": "GERMAN-COMPENSATION-FILE-RECOVERY-01", "text": "The hit tells you a file exists for one indexed applicant or injured party. It does not tell you who filed the claim, which relatives the file names, or whether the indexed person is yours."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"

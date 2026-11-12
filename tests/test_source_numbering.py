@@ -59,19 +59,18 @@ def citations(text):
     return cited
 
 
-def ledger_entries(text):
+def canonical_entries(text):
     """Include canonical IDs for numeric bibliographies and unlabelled entries.
 
-    The provenance corpus check independently binds these records to their exact
-    bibliography entries. Raw numbering gaps and placeholders remain checked.
+    These are the IDs of the provenance ledger, which the provenance check binds
+    to exactly these bibliography entries. Raw numbering gaps and placeholders
+    remain checked.
     """
-    _, ledger = PROVENANCE.split_ledger(text)
     result = set()
-    if ledger:
-        for source in ledger['sources']:
-            match = re.fullmatch(r'([A-Z]{1,2})(\d+)', source['id'])
-            if match:
-                result.add((match[1], int(match[2])))
+    for sid in PROVENANCE.source_entries(text):
+        match = re.fullmatch(r'([A-Z]{1,2})(\d+)', sid)
+        if match:
+            result.add((match[1], int(match[2])))
     return result
 
 
@@ -93,7 +92,7 @@ class SourceNumberingTests(unittest.TestCase):
         for path in paths:
             source_text = path.read_text(encoding="utf-8")
             found, placeholders = entries(source_text)
-            declared = ledger_entries(source_text)
+            declared = canonical_entries(source_text)
             recipe = RECIPES / path.name
             cited = citations(recipe.read_text(encoding="utf-8")) if recipe.exists() else set()
             with self.subTest(sources=path.name):
@@ -135,11 +134,10 @@ class SourceNumberingTests(unittest.TestCase):
         self.assertEqual(cited & placeholders, {('S', 2)})
         self.assertEqual(cited - found, set())
 
-    def test_ledger_ids_resolve_unlabelled_and_numeric_bibliographies(self):
+    def test_canonical_ids_resolve_unlabelled_and_numeric_bibliographies(self):
         text = ('## Sources\n\n1. A <https://example.org/a>.\n'
                 '- B <https://example.org/b>.\n\n## Credits\n')
-        ledger = PROVENANCE.migrate(text, '# Example\n')
-        declared = ledger_entries(PROVENANCE.attach_ledger(text, ledger))
+        declared = canonical_entries(text)
         self.assertEqual(declared, {('N', 1), ('B', 1)})
         self.assertEqual(citations('[N1 @2026-11-07] [B1†]') - declared, set())
 

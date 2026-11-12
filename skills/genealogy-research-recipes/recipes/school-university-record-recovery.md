@@ -3,11 +3,10 @@ id: "school-university-record-recovery"
 title: "Recover a pupil or student through school, district, copy and later-file layers"
 summary: "Recover a pupil or student across school, educational-district, parallel-copy, yearbook and later-file layers."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover a pupil or student across school, educational-district, parallel-copy, yearbook and later-file layers."]}
-triggers: ["Recover a pupil", "student across school", "educational-district", "parallel-copy", "yearbook and later-file layers"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "SCHOOL-UNIVERSITY-RECORD-RECOVERY-01", "text": "absence from a compiled or published list does not show that the person never attended."}]
+guardrails: [{"id": "SCHOOL-UNIVERSITY-RECORD-RECOVERY-01", "text": "A compiled or published list is a lead with limited coverage. Absence from it does not show that the person never attended."}]
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
