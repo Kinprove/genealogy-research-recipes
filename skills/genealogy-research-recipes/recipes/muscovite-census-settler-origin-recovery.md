@@ -21,7 +21,7 @@ Use this recipe when a Ural, Trans-Ural, West Siberian or northern Russian peasa
 
 The worked cases come mostly from Tobolsk and Verkhoturye uezds and from the northern Russian uezds that sent settlers there. For Tomsk, Yeniseysk or other Siberian uezds the book types and the reading rules are the same, but you have to find the locators yourself in the f.214 inventories (step 1).
 
-Related recipes: for searching under historical administrative units, parallel copies and coverage logging, use [research documentation: turn locality coverage into the next searches](research-documentation.md). For dated-jurisdiction checks, same-name separation and the final identity ruling, use [evidence/proof judgment](evidence-proof-judgment.md). To keep literal spelling attestations as search leads, use the catalogue's recipe on recovering attested spellings across scripts and OCR. For locators, use the [source citation record](source-citation.md).
+Related recipes: for searching under historical administrative units, parallel copies and coverage logging, use [research documentation: turn locality coverage into the next searches](research-documentation.md). For dated-jurisdiction checks, same-name separation and the final identity ruling, use [evidence/proof judgment](evidence-proof-judgment.md). To keep literal spelling attestations as search leads, use [corpus-seeded name searches across scripts and OCR](corpus-seeded-name-search.md). For locators, use the [source citation record](source-citation.md).
 
 ## Contents
 

@@ -257,8 +257,11 @@ Find a Grave original-image rules were checked on 2026-11-06 against P62–P65 a
   and בני ברק. The list does not rank them; no source checked says which reading is usual in
   pre-state documents.
 
-- **P49:** Saul Lieberman, *Tosefta Ki-Fshutah*, [abbreviation list (PDF)](https://www.massorti.com/IMG/pdf/liberman_tosseftanashim6.pdf),
-  opened 2026-11-04. Used for: ב"ב as בבא בתרא in rabbinic scholarly usage.
+- **P49:** Saul Lieberman, *Tosefta Ki-Fshutah*, part 6, *Seder Nashim* (New York, 1967),
+  [abbreviation list (PDF, Internet Archive capture of 2024-06-11)](https://web.archive.org/web/20240611004905/https://www.massorti.com/IMG/pdf/liberman_tosseftanashim6.pdf).
+  The original massorti.com address answered HTTP 404 on 2026-11-12. Read in the capture on
+  2026-11-12: only the abbreviation list, p. ו (PDF page 4), which expands ב״ב as בבא בתרא and as
+  בר ברוך. Used for: ב"ב as בבא בתרא in rabbinic scholarly usage.
 
 - **P50:** YIVO Institute for Jewish Research, [Guide to the YIVO Archives in New York](https://yivoarchives.yivo.org/index.php?p=pages/yivoarchives_in_new_york),
   opened 2026-11-04. Used for: the YIVO Archives holding the records of hundreds of landsmanshaftn.
@@ -550,7 +553,7 @@ sources:
   - {"id":"P46","kind":"unknown","urls":["https://sites.google.com/view/guidetothejewishcemeteryinkali/home/tambstone-records"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"044b922e97356b767156e0328377ea01178a81ec1bea042152b4122b481821cf","claims":["C-75590badc62b"],"review":"pending"}
   - {"id":"P47","kind":"unknown","urls":["https://en.wikipedia.org/wiki/Honorifics_for_the_dead_in_Judaism"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"21a949ded29f22e9b6774b8a602f02d5ab7fc447c338c4db6a296c63a019e4a7","claims":["C-75590badc62b"],"review":"pending"}
   - {"id":"P48","kind":"unknown","urls":["https://he.wiktionary.org/wiki/%D7%91%22%D7%91"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"e599a77609cb5a800ae7f72105bfd4d56ed05ae837d549b553f3aed136a0ec18","claims":["C-004451ed752b"],"review":"pending"}
-  - {"id":"P49","kind":"unknown","urls":["https://www.massorti.com/IMG/pdf/liberman_tosseftanashim6.pdf"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"5c40f53a60a8f7610e9788018995ad74e1c4b0a47eaaffd6304a7402a9789470","claims":["C-004451ed752b"],"review":"pending"}
+  - {"id":"P49","kind":"pdf","urls":["https://web.archive.org/web/20240611004905/https://www.massorti.com/IMG/pdf/liberman_tosseftanashim6.pdf"],"published":null,"retrieved":"2026-11-12","access":"partial","rights":null,"basis":"Read in the capture on\n  2026-11-12: only the abbreviation list","entry_sha256":"a34ef33c5d51a988d012d87da9a6a32f7e2c0d8af9c4eed6c5a7e1191894be58","claims":["C-004451ed752b"],"review":"reviewed"}
   - {"id":"P50","kind":"unknown","urls":["https://yivoarchives.yivo.org/index.php?p=pages/yivoarchives_in_new_york"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"f247d8962bf7a91e4ebbbc200e4ceafacf65a7c48c476fd1f5cbcc2890b1fe4d","claims":["C-1792f49df21d"],"review":"pending"}
   - {"id":"P51","kind":"unknown","urls":["https://libguides.cjh.org/JewishPhilanthropy/Landsmanshaftn"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"b659b7d1d91ece2cf099ec8d47dfa3979e3d07326c8fd7ae00cbedb4231919e7","claims":["C-1792f49df21d"],"review":"pending"}
   - {"id":"P52","kind":"unknown","urls":["https://jgsny.org/searchable-databases/burial-society-databases/burial-society-plot-maps"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"14c60b3b1892379e71d88d72095829289c79d4b92413eb53b8ab4228d32173f1","claims":["C-1792f49df21d"],"review":"pending"}

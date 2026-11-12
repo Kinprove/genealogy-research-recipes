@@ -3,8 +3,9 @@
 # Genealogy Research Recipes
 
 One skill instead of many: DNA evidence and record searches across countries, archives and
-testing companies, in one catalog that grows with every release. Every recipe is fact-checked,
-and its sources are listed beside it.
+testing companies, in one catalog that grows with every release. Each recipe lists its sources. The
+[provenance report](https://github.com/Kinprove/genealogy-research-recipes/blob/main/PROVENANCE.md)
+shows which source records have been reviewed and which are still pending.
 
 It is one [Agent Skill](https://code.claude.com/docs/en/skills) for Claude, Codex, Hermes Agent
 and OpenClaw, by [Kinprove](https://kinprove.io). It needs no Kinprove account or API key, registers
@@ -116,6 +117,9 @@ mentions once per conversation that a newer version may exist and how to update.
 
 The plugin collects, stores and sends nothing by itself. It is text, with an optional script
 (`scripts/lookup_beider_name.py`) that, when bundled, looks up name variants offline on your machine.
+An install from this Git repository also copies its development files: tests, the evaluation
+harness and CI tooling. The plugin never runs them. The ClawHub package and the release
+distributions leave them out.
 Some recipes tell the agent to search public record sites, such as FamilySearch or national
 archives, for the names, places and dates you give it. Those searches run through your agent's
 own web tools, during the research you ask it to do.
@@ -217,7 +221,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [marks-and-brands-record-recovery](skills/genealogy-research-recipes/recipes/marks-and-brands-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [missing-marriage-jurisdiction-search](skills/genealogy-research-recipes/recipes/missing-marriage-jurisdiction-search.md) | record catalogues and original images | — | — | request | — | required |
 | [muscovite-census-settler-origin-recovery](skills/genealogy-research-recipes/recipes/muscovite-census-settler-origin-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [myheritage-dna-match-investigation](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) | myheritage | — | — | export, link | contact | required |
+| [myheritage-dna-match-investigation](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) | myheritage | — | — | export, link, publish | contact | required |
 | [myheritage-historical-record-search](skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md) | myheritage | — | — | — | — | — |
 | [nazi-era-ancestry-proof-records](skills/genealogy-research-recipes/recipes/nazi-era-ancestry-proof-records.md) | record catalogues and original images | — | — | request | — | required |
 | [newspapers-com-search-recovery](skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md) | newspapers.com | — | — | — | — | — |
