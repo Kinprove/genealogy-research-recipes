@@ -115,14 +115,20 @@ jobs:
           printf 'HERMES_RUNTIME=%s\n' "$HERMES_RUNTIME" >> "$GITHUB_ENV"
           mv .hermes-runtime "$HERMES_RUNTIME"
           uv sync --project "$HERMES_RUNTIME" --frozen --no-dev --python 3.14
+      # `validate` passes with warnings, but a security-scan caution makes every
+      # Hermes catalog install and update ask the user to confirm, so any warning fails.
       - name: Validate native plugin and real registration
         run: |
-          uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins validate . --json
+          set -o pipefail
+          uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins validate . --json | tee "$RUNNER_TEMP/validate-root.json"
+          jq -e 'has("warnings") and (.warnings | length == 0)' "$RUNNER_TEMP/validate-root.json" > /dev/null || { echo "::error::hermes plugins validate reported warnings"; exit 1; }
           uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins doctor . --ci
       - name: Validate the Hermes catalog distribution with the pinned runtime
         run: |
+          set -o pipefail
           uv run --project "$HERMES_RUNTIME" --frozen --no-dev python -B scripts/build_dist.py --target hermes-catalog --source HEAD --out "$RUNNER_TEMP/hermes-catalog"
-          uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins validate "$RUNNER_TEMP/hermes-catalog" --json
+          uv run --project "$HERMES_RUNTIME" --frozen --no-dev hermes plugins validate "$RUNNER_TEMP/hermes-catalog" --json | tee "$RUNNER_TEMP/validate-dist.json"
+          jq -e 'has("warnings") and (.warnings | length == 0)' "$RUNNER_TEMP/validate-dist.json" > /dev/null || { echo "::error::hermes plugins validate reported warnings on the catalog distribution"; exit 1; }
       - name: Exercise namespaced skill and recipe access in an isolated profile
         env:
           PYTHONDONTWRITEBYTECODE: "1"
