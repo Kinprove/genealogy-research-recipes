@@ -205,6 +205,10 @@ class KeepPlatformTests(unittest.TestCase):
             with self.subTest(platform=platform):
                 self.assertNotIn("<!-- platform:", dist.keep_platform(text, platform))
 
+    def test_readme_without_markers_from_an_older_release_is_unchanged(self):
+        text = "## Install\n\n**Claude Code:**\n\nsteps\n\n**Hermes Agent:**\n\nsteps\n"
+        self.assertEqual(dist.keep_platform(text, "hermes"), text)
+
     def test_refuses_broken_markers(self):
         cases = {
             "no install block for platform hermes": self.TEXT,

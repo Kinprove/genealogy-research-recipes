@@ -235,6 +235,9 @@ def keep_platform(text, platform):
         kept.append(line)
     if block is not None:
         raise ValueError("README.md: platform block not closed: " + block)
+    if not seen:
+        # A release made before the markers existed is rebuilt with its README unchanged.
+        return text
     if platform not in seen:
         raise ValueError("README.md: no install block for platform " + platform)
     return "".join(kept)

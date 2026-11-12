@@ -276,7 +276,8 @@ Beider helper; the OpenAI ZIP has sorted entries, fixed timestamps and fixed per
 The Hermes catalog page renders the Hermes tree's `README.md`, so that copy keeps only the
 Hermes install steps. Each platform's install steps in `README.md` sit between
 `<!-- platform:<name>:start -->` and `<!-- platform:<name>:end -->`; the build drops the
-other platforms' blocks and refuses broken markers or a missing Hermes block.
+other platforms' blocks and refuses broken markers or a missing Hermes block. A README
+with no markers, from a release made before them, is copied unchanged.
 The checks validate Claude's file policy and relative Markdown destinations inside each
 built tree (or ZIP); the repository's Markdown suite separately checks heading anchors.
 
