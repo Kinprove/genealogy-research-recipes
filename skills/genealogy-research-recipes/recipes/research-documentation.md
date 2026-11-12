@@ -275,6 +275,17 @@ database was preserved: report failed controls and missing captures as retrieval
 archived page's date or an unavailable search does not establish record absence or the truth
 of its claims.
 
+For a Ukrainian museum, library, archive or Jewish-genealogy site that has gone offline since
+2022, also search SUCHO (Saving Ukrainian Cultural Heritage Online) before calling its
+collections lost. A Wayback capture of such a site often holds only its start page or other top
+layers, not the digital collections [H1 @2026-11-12] [H2 @2026-11-12]. Since February 2025 all
+of SUCHO's archived content, more than 50 TB from national archives to local museums, is reached
+through the SUCHO Database of Web-Archived Content (`database.sucho.org`), which gives each
+resource's online status, collection timeline and completeness [H3 @2026-11-12]. In 2022 the
+archived sites already included Gesher Galicia, JewishGen Ukraine and Rohatyn Jewish Heritage
+[H1 @2026-11-12]. Record which archive held the capture and its stated completeness, as for any
+capture above.
+
 ## Keep next actions linked to their origin
 
 When analysis produces another search, retain a separate pending-action field linked to

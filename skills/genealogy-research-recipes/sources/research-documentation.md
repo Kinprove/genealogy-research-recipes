@@ -151,6 +151,22 @@ are used.
   controls. Limits: no new video inspection was performed; current archive rules, permissions
   and service quality remain unverified. The example does not establish universal numerical
   limits or measured benefit. Third-party material is cited, not reproduced.
+- **H1.** Günter Junkers, "Backup für das kulturelle Erbe der Ukraine", Compgen-Blog,
+  2022-03-15, <https://www.compgen.de/2022/03/backup-fuer-das-kulturelle-erbe-der-ukraine/>,
+  read 2026-11-12. Used for: Wayback captures of Ukrainian museum and library sites mostly saving
+  only the start page, not the digital collections; and Gesher Galicia, JewishGen Ukraine and
+  Rohatyn Jewish Heritage among the sites SUCHO had archived. A community blog post; its 2022
+  status table has been replaced by the database in H3.
+- **H2.** Gisela Salim, "As the War Drags On, a Race Is Afoot To Preserve Ukraine's History",
+  New Lines Magazine, 2022-06-21,
+  <https://newlinesmag.com/reportage/as-the-war-drags-on-a-race-is-afoot-to-preserve-ukraines-history/>,
+  read 2026-11-12. Used for: Wayback Machine copies often holding only the most superficial
+  layers of a website, and Webrecorder archiving deeper layers.
+- **H3.** SUCHO, "Press release, 24 February 2025", <https://sucho.org/press-release-20250224>,
+  read 2026-11-12. Used for: all archived web content reached through the SUCHO Database of
+  Web-Archived Content at database.sucho.org, with metadata and statistics on online status,
+  collection timeline and completeness; more than 50 TB archived, from national archives to
+  local museums. The database itself was not searched.
 
 <!-- provenance-ledger:start -->
 ```yaml
@@ -191,6 +207,9 @@ sources:
   - {"id":"B33","kind":"unknown","urls":["https://familylocket.com/rlp-248-rlp-with-dna-10-research-logs/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"8da02c66c7c47f82b6ee8c485bacf40381478afaec272c7447627835cd72561c","claims":[],"review":"pending"}
   - {"id":"B34","kind":"video","urls":["https://www.youtube.com/watch?v=3mYu9JZKeJ0"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"17df9430992e8d081a8a96bef6a5fbf2930b7fc4afa2c2ad4a51bc3b968cd0b8","claims":[],"review":"pending"}
   - {"id":"B35","kind":"video","urls":["https://www.youtube.com/watch?v=nveyeh3OT1k"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"cf5142daeca2c24a58dba1feca4a99a4235f2cb07d69bae23d4bb7bcf58e700d","claims":[],"review":"pending"}
+  - {"id":"H1","kind":"web-page","urls":["https://www.compgen.de/2022/03/backup-fuer-das-kulturelle-erbe-der-ukraine/"],"published":"2022-03-15","retrieved":"2026-11-12","access":"read","rights":null,"basis":"read 2026-11-12","claims":["C-e30bf1e96a0b"],"review":"reviewed","entry_sha256":"d2a3ed554ce2edf896f37c8b112c21c1a258dc7f67821656de601e542d7df94c"}
+  - {"id":"H2","kind":"web-page","urls":["https://newlinesmag.com/reportage/as-the-war-drags-on-a-race-is-afoot-to-preserve-ukraines-history/"],"published":"2022-06-21","retrieved":"2026-11-12","access":"read","rights":null,"basis":"read 2026-11-12","claims":["C-e30bf1e96a0b"],"review":"reviewed","entry_sha256":"5c66ed039553a47b1699b7105c8ad7bd294956a488019e5d6b359bf3095af5a0"}
+  - {"id":"H3","kind":"web-page","urls":["https://sucho.org/press-release-20250224"],"published":"2025-02-24","retrieved":"2026-11-12","access":"read","rights":null,"basis":"read 2026-11-12","claims":["C-e30bf1e96a0b"],"review":"reviewed","entry_sha256":"36d869d51c12ec6c4d433bee6627281d62f5ae1f4778d6475d28a6b8691fdb92"}
 claims:
   - {"id":"C-617678d252e4","kind":"unclassified","anchor":"Date each NIL against the collection as it stood at the time. Record the collection title and any\ncoverage or last-updated note the provider showed. A NIL covers only that version. If the provider\nlater lists the collection as added to or updated, for example with new counties or years, re-run\nthe logged search as a new dated row. Do not overwrite the old row. The\n[Lisa Lisson update-check example](https://www.youtube.com/watch?v=0_GHyojrnu8) motivates this\nre-check. An update notice does not show that the target place or period was added, so confirm the\nnew coverage before expecting a hit.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
   - {"id":"C-57120af44713","kind":"unclassified","anchor":"When a database displays only a fixed maximum number of hits, a list that reaches that cap may be\nincomplete, so a target missing from it is untested, not a NIL. Narrow the query, for example to\none record category and one year range at a time, until each slice returns fewer hits than the cap.\nLog each slice as its own row with the category and range used. A\n[J-Roots database-search tip](https://forum.j-roots.info/viewtopic.php?f=20&t=5084) motivates this\nfor one site's 100-record display. Check each tool's actual cap. A completed set of slices still\ncovers only that database.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
@@ -223,9 +242,11 @@ claims:
   - {"id":"C-07f50459f596","kind":"unclassified","anchor":"If the report may be shared in parts, keep the project name, report version date and page\nN of M on every page. Keep each figure, table and document number with its citation, so an\nextracted page can be traced to the full report. Retain the full report and original images\nseparately from the sharing copy. The [report-formatting](https://familylocket.com/rlp-249-rlp-with-dna-11-research-reports/)\nand [report-sharing](https://familylocket.com/rlp-250-rlp-with-dna-12-whats-next/) examples\nmotivate these page-level details; a PDF does not prevent alteration or misuse of an excerpt.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
   - {"id":"C-0a4b26a9d472","kind":"unclassified","anchor":"An optional person-to-project index can record each project once with its date, objective,\nresult, unfinished work and links to the report, log and diagrams. Link every identified\nperson it actually covers. Consult those projects before rebuilding a timeline or source log;\nretain the ordinary person-to-source-item index for individual record occurrences.\nTrack updates to each destination tree separately using observed status: finishing a report\ndoes not establish that every tree was updated. The [project-tracking example](https://familylocket.com/rlp-223-tracking-research-projects-in-airtable/)\nsupplies this handoff without requiring a particular database or treating custom status\nlabels as proof grades.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
   - {"id":"C-c0af26e89cd5","kind":"unclassified","anchor":"Before extending an earlier phase's log for a new phase, keep a dated copy of that log linked\nto the earlier report. Add later observations in a new working copy or as dated rows, so what\nwas known at the earlier conclusion stays distinguishable. The [research-planning](https://familylocket.com/rlp-247-rlp-with-dna-9-research-planning/)\nand [research-log](https://familylocket.com/rlp-248-rlp-with-dna-10-research-logs/) examples\nmotivate this baseline; a saved log records that phase's scope, not source truth.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
+  - {"id":"C-e30bf1e96a0b","kind":"portal-availability","anchor":"For a Ukrainian museum, library, archive or Jewish-genealogy site that has gone offline since\n2022, also search SUCHO (Saving Ukrainian Cultural Heritage Online) before calling its\ncollections lost. A Wayback capture of such a site often holds only its start page or other top\nlayers, not the digital collections [H1 @2026-11-12] [H2 @2026-11-12]. Since February 2025 all\nof SUCHO's archived content, more than 50 TB from national archives to local museums, is reached\nthrough the SUCHO Database of Web-Archived Content (`database.sucho.org`), which gives each\nresource's online status, collection timeline and completeness [H3 @2026-11-12]. In 2022 the\narchived sites already included Gesher Galicia, JewishGen Ukraine and Rohatyn Jewish Heritage\n[H1 @2026-11-12]. Record which archive held the capture and its stated completeness, as for any\ncapture above.","sources":["H1","H2","H3"],"checked":"2026-11-12","stated_as":"fact","review":"reviewed"}
 ```
 <!-- provenance-ledger:end -->
 
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
+- Günter Junkers, Compgen-Blog, Backup für das kulturelle Erbe der Ukraine, 2022-03-15, cited as H1 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)

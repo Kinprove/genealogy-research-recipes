@@ -47,6 +47,7 @@ Link out for the shared steps:
 - 8\. Search Trove and Papers Past inside their digitised runs
 - 9\. Search Archives New Zealand in Collections Search
 - 10\. Read Māori Land Court minute books as contested testimony
+- 11\. Route a naturalisation to the custodian for its date
 - Close with a routing packet
 
 ## Inputs to gather first
@@ -120,6 +121,10 @@ Gather these before searching:
 - **Read each title's digitised run before you search it.** A zero-hit search outside that run is a coverage gap, not a negative.
 - **Treat a DigitalNZ API search of Papers Past as a first pass.** A key is optional for public content but recommended for regular use [S15]. Re-run any miss on the Papers Past site, and check each hit on the Papers Past page image with the newspaper recipe.
 
+- **Search Trove's government gazettes as a lane of their own, not only its newspapers.** The National Library of Australia lists certificates of naturalisation, employment notices and military service among what they hold [S27 @2026-11-12] [S29 @2026-11-12]. Its gazette guide adds bankruptcies, company registrations and Public Service appointments. On Trove the Commonwealth gazette runs 1901–2012 and New South Wales 1832–2001; Victoria's, for 1836–1997, are on a State Library Victoria site instead [S28 @2026-11-12].
+
+- **Give at least three letters before Trove's `*` wildcard** [S31 @2026-11-12]. A shorter stem is not a valid search of a variably spelled surname, so its zero is not a negative.
+
 ## 9. Search Archives New Zealand in Collections Search
 
 - **Search Collections Search (collections.archives.govt.nz), the live Archives NZ catalogue** [S20]. If an older guide points to another catalogue, re-run its search in Collections Search before you read a miss.
@@ -130,6 +135,11 @@ Gather these before searching:
 - **Use the Native (Māori) Land Court minute books as a major written source of whakapapa (genealogy).** They record the court's proceedings and decisions, including whakapapa and tribal history given as evidence in title hearings [S16], [S17].
 - **Record the full minute book reference as the locator.**
 - **Read whakapapa recited to win title as claimant testimony in a contested hearing, not neutral fact.** Record who gave it, for which block and against whom.
+
+## 11. Route a naturalisation to the custodian for its date
+
+- **From 1904, request the file from the National Archives of Australia.** Naturalisation became a Commonwealth responsibility that year [S30 @2026-11-12].
+- **Before 1904, go to the state archives for Queensland, New South Wales, Tasmania and Western Australia, and to the NAA for Victoria and South Australia** [S30 @2026-11-12]. Date the naturalisation from its gazette notice first, then choose the custodian.
 
 ## Close with a routing packet
 
