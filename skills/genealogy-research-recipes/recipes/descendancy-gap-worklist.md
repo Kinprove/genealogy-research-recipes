@@ -3,11 +3,10 @@ id: "descendancy-gap-worklist"
 title: "Build a ranked descendancy gap worklist"
 summary: "Turn \"research the descendants\" into a ranked list of gaps tied to the records each lifespan crosses."
 kind: "judgment"
-scope: {"platforms": [], "tasks": ["Turn \"research the descendants\" into a ranked list of gaps tied to the records each lifespan crosses."]}
-triggers: ["Turn \"research the descendants\" into a ranked list of gaps tied to the records each lifespan crosses"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "DESCENDANCY-GAP-WORKLIST-01", "text": "an empty tree field leaves the event unresolved; it does not mean the event never happened."}]
+guardrails: [{"id": "DESCENDANCY-GAP-WORKLIST-01", "text": "An empty field leaves the event unresolved in this tree. It does not mean the event never happened."}]
 handoff: ["gedcom-research-export"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"

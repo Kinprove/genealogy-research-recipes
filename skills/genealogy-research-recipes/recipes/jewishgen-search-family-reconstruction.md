@@ -4,13 +4,12 @@ title: "JewishGen searches that recover families missed by a name-and-town query
 summary: "Retrieving JewishGen family records when names, ages, towns or a woman's surname are uncertain. Build explicit name-variant and mixed-field search batches, distinguish registration from residence, and look for wives' natal families or married daughters through children's records and household comparisons."
 kind: "platform"
 scope: {"platforms": ["jewishgen"], "tasks": ["JewishGen exact, partial, phonetic or fuzzy searches; double names and patronymics; conflicting ages or delayed registration; a missing marriage record, unknown maiden name or daughter who disappears under a married surname."]}
-triggers: ["JewishGen exact", "partial", "phonetic", "fuzzy searches", "double names and patronymics", "conflicting ages"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "JEWISHGEN-SEARCH-FAMILY-RECONSTRUCTION-01", "text": "verify each collection's field and search-method semantics; a name, age or household match creates a candidate, and a recruitment explanation remains a hypothesis until independent records support it."}]
+guardrails: [{"id": "JEWISHGEN-SEARCH-FAMILY-RECONSTRUCTION-01", "text": "Do not convert a phonetic, household or age match into a relationship."}]
 handoff: ["bessarabia-moldova-record-routing", "evidence-proof-judgment", "russian-empire-jewish-identity-attribution"]
-checked: "2026-10-01"
-checked_basis: "fetched 2026-10-01"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["jewishgen"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
 router: {"tier": "full", "group": "Featured workflows", "order": 32}
 ---

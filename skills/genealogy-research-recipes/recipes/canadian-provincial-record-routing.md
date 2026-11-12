@@ -3,11 +3,10 @@ id: "canadian-provincial-record-routing"
 title: "Route a Canadian vital, military or Indigenous-series record to its province, custodian and access category"
 summary: "Route a Canadian vital registration, world-war personnel file, Métis or First Nations record, or British Home Child to the province, custodian and access category of its date and series."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route a Canadian vital registration, world-war personnel file, Métis or First Nations record, or British Home Child to the province, custodian and access category of its date and series."]}
-triggers: ["Route a Canadian vital registration", "world-war personnel file", "Métis", "First Nations record", "or British Home Child to the province", "custodian and access category of its date and series"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "CANADIAN-PROVINCIAL-RECORD-ROUTING-01", "text": "Canadian vital records are not one national system; a miss past an archive's release cut-off or inside a registration gap is not an absence."}]
+guardrails: [{"id": "CANADIAN-PROVINCIAL-RECORD-ROUTING-01", "text": "Vital registration is provincial. Each province has its own start date, gaps and archive cut-off, so build one coverage row per province before you search."}]
 handoff: ["canadian-census-interpretation", "catholic-parish-diocesan-record-recovery", "evidence-proof-judgment", "french-canadian-register-recovery", "historical-place-name-resolution", "us-vital-registration-coverage", "usa-immigration-search-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

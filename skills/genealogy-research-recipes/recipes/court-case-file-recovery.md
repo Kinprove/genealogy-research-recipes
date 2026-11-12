@@ -3,11 +3,10 @@ id: "court-case-file-recovery"
 title: "Recover a U.S. court case file from its pointer records"
 summary: "Recover a U.S. state or local civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover a U.S. state or local civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."]}
-triggers: ["U.S. state or local court case file", "civil, chancery, divorce, criminal or incapacity proceeding", "court pointer records and loose papers"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "COURT-CASE-FILE-RECOVERY-01", "text": "captions, arrests, index entries and case-law searches stay bounded leads."}]
+guardrails: [{"id": "COURT-CASE-FILE-RECOVERY-01", "text": "Captions, arrests, index entries and case-law searches stay bounded leads."}]
 handoff: ["criminal-court-prison-record-recovery", "us-federal-court-case-file-recovery"]
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
@@ -46,6 +45,8 @@ For the rule that an indictment or presentment is only an allegation, use [evide
 - **Treat a census entry in a jail or prison as a strong pointer to a criminal case.** First check that the entry lists the person as an inmate, not as the keeper or a member of the keeper's household. Tanner reads such an entry as meaning there was probably a criminal case. Search for that case. Do not state the charge or the outcome until the file shows them. [S1], [S2]
 - **Do not read a missing newspaper report as no arrest.** Tanner says newspapers reliably reported visible or major arrests, but minor arrests such as shoplifting often went unreported outside small communities. [S2]
 - **Separate locators from flags.** A recorded judgment or satisfaction of judgment identifies the case, the court and the parties. An appellate citation shows that a lower-court case was filed. Treat both as locators and go to the file. A divorce is a lead to the granting authority's records, which may be a court or, in some early periods, a legislature. A claimed injury makes a lawsuit likely. Log divorces and injuries as reasons to search, not as findings. [S1]
+
+**Find the court that heard equity at that date before searching for a chancery case.** Where a state had a separate chancery court, its bills, pleadings and minutes were recorded apart from the county and circuit court minutes, and the court often served a district of several counties [S16], [S17]. In Tennessee, the 1837–38 act made Fayette, Shelby, Hardeman and McNairy counties one chancery district sitting at Somerville, and the 1869–70 act divided the state into twelve chancery districts [S17]. Virginia moved chancery between courts: superior courts of chancery (1802–1831), circuit superior courts of law and chancery (1831–1851), then circuit courts from 1852, with county courts also hearing chancery until 1870 [S18]. Read the bill as the complainant's allegations, which the defendant's answer responds to; only the decrees record what the judge decided [S16], [S18]. Do not state a sale, debt or relationship from the bill alone.
 
 ## Collect locators from every pointer series
 
@@ -127,6 +128,8 @@ A gap in the inventory is a retrieval gap. It is not evidence that a step never 
 - **Read a no-hit narrowly.** It says nothing about state trial-court involvement, and little about state cases decided before 1950. Courts not of record do not publish their decisions, so search their surviving dockets, indices, minute books and case papers separately. [S1]
 - **Follow a hit back to the trial court.** Look for the lower-court file and the testimony transcript, which Tanner says may give relationships and motives that the opinion leaves out. Record people named in the opinion who were not parties as separate leads. [S3]
 - **Keep the appellate record and the original file apart.** If the trial file is lost, the appellate record and opinion may be what survives. Label them as the appellate record. Do not treat an opinion's summary of facts as the trial record. [S1]
+
+Run the name through CourtListener as a second published-case search, pinned to the family's place with a proximity query. CourtListener documents a quoted phrase followed by `~N` as finding the phrase's words within N words of each other, so `"Whitwell Perry Tennessee"~10` finds the surname near both place names; a tilde after a single word is a fuzzy spelling search that accepts only 1 or 2 [S19 @2026-11-12]. Use that documented quoted form, not a parenthesised group followed by `~10`. Do not limit the search to the home state's courts: a proximity search for a Perry County, Tennessee surname turned up a 1906 Missouri estate case, *Jackson v. Grissom*, 196 Mo. 624 [S20 @2026-11-12].
 
 ## Set the window and close with a case register
 

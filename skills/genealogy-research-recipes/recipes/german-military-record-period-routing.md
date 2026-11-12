@@ -3,11 +3,10 @@ id: "german-military-record-period-routing"
 title: "Route a German soldier to the military series that survive for his period, army and rank"
 summary: "Route a German soldier to the series that survive for his period, army and rank class; recover dated hospital-book episodes when personnel files are missing."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route a German soldier to the series that survive for his period, army and rank class; recover dated hospital-book episodes when personnel files are missing."]}
-triggers: ["Route a German soldier to the series that survive for his period", "army and rank class", "recover dated hospital-book episodes when personnel files are missing"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "GERMAN-MILITARY-RECORD-PERIOD-ROUTING-01", "text": "a canton, gazette notice or casualty-list line is a lead, never a birthplace, death date or identity."}]
+guardrails: [{"id": "GERMAN-MILITARY-RECORD-PERIOD-ROUTING-01", "text": "A regimental canton, a gazette notice or a casualty-list line is a lead with limits. None of them is a birthplace, a death date or an identity."}]
 handoff: ["galicia-bukovina-habsburg-record-routing"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"
@@ -96,6 +95,12 @@ Most Prussian army files burned at Potsdam in 1945 [S9]. For a Prussian soldier,
   - A widow's later marriage file may not contain the proof of the first husband's death. In the thread it held only the banns, and a participant thought the supporting documents had been handed back [S1].
 
 ## 4. First World War casualty lists and memorials: check for a namesake, then check the script
+
+Search the German casualty lists in CompGen's free name index of the *Deutsche Verlustlisten* 1914–1919 at des.genealogy.net. Volunteers entered over 8.5 million entries from the printed lists, recording the name and the birthplace [S16 @2026-11-12].
+
+Search by name. Each result names the list it came from, for example "Preußen 665" or "Bayern 427", and gives a status such as *gefangen* (captured), the list date and a link to the scanned page [S17 @2026-11-12], [S18 @2026-11-12], [S19 @2026-11-12]. It gives the regiment only where the printed list did: from 1916 until the end of the war the lists omitted it [S20 @2026-11-12]. Open the scan before you record the entry.
+
+Expect several entries for one man. A later list can print his name again under *Berichtigung früherer Angaben* (correction of earlier information) with a new status [S18]. The researchers of a study built on this index used machine learning to merge possible repeat entries for the same person, CompGen reports [S15]. Collect every entry under his name and place, and record each list number, date and status as a separate episode before you call him wounded, captured or fallen. Treat the place as a lead to the birth register, not as his birthplace.
 
 - When a casualty list or memorial gives a different given name from the man in the registers, search the local family book (OFB) **and** the register indexes around the stated birth year for any other man of that name before you split or merge the entries [S3]. In the thread:
   - The documented man had given name A and was born in 1893.

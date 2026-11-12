@@ -3,11 +3,10 @@ id: "dna-match-outreach-staging"
 title: "Stage and draft outreach to a DNA match or untested relative"
 summary: "Stage and draft outreach to a DNA match, a match's account manager or an untested relative."
 kind: "judgment"
-scope: {"platforms": [], "tasks": ["Stage and draft outreach to a DNA match, a match's account manager or an untested relative."]}
-triggers: ["Stage and draft outreach to a DNA match", "a match's account manager", "an untested relative"]
+scope: {"platforms": [], "tasks": []}
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "DNA-MATCH-OUTREACH-STAGING-01", "text": "when the tester's consent is missing or unclear, prepare only a contact plan and a draft for the tester's own review, and do not choose recipients or send anything. In every case, never announce a suspected relationship, and log silence as silence, not refusal."}, {"id": "OUT-01", "text": "The letter must not state the conclusion."}, {"id": "OUT-02", "text": "If consent is missing or unclear, stop at the contact plan and a draft for the tester to review."}]
+guardrails: [{"id": "DNA-MATCH-OUTREACH-STAGING-01", "text": "If consent is missing or unclear, stop at the contact plan and a draft for the tester to review. Do not choose recipients yourself."}, {"id": "OUT-01", "text": "The letter must not state the conclusion."}, {"id": "OUT-02", "text": "If consent is missing or unclear, stop at the contact plan and a draft for the tester to review."}]
 handoff: []
 checked: null
 checked_basis: null
@@ -111,6 +110,8 @@ For the most sensitive tier, step 2 limits what you may say, and those limits ov
 - **Help them recognise the connection.** Offer a tree snapshot, or photos of relatives you share or of their own family. Second cousins of a grandparent may still know people you know. [S2] The presenter warns to be careful with attachments [S2]. Since the barrier at this point is scam suspicion, put the snapshot in the message body or send a tree link rather than an unsolicited file.
 - **Privacy.** If asked, describe the privacy risks plainly. Do not sugarcoat them or lie [S2]. Do not assert any company's current privacy terms unless you have checked them.
 - **Kits.** If the user is supplying kits, say up front that the recipient will not pay. The presenter treats a prepaid kit as removing a major barrier [S2].
+
+For a line from France, recruit testers among descendants of emigrants, such as Québécois or Acadian families, and expect few testers living in France [S11]. French law permits genetic examination of a person for medical or scientific-research purposes and for anti-doping, not for genealogy, and fines a person who requests one outside the legal conditions €3,750 (articles in force when checked on 2026-11-12) [S12], [S13]. Some people in France test anyway: a French law firm cited an estimate of three million in July 2026 [S14]. Do not read a lack of France-resident matches as evidence against a French origin.
 
 ## 5. Log every attempt; record silence as silence
 

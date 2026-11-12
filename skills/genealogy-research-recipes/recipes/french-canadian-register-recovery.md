@@ -3,11 +3,10 @@ id: "french-canadian-register-recovery"
 title: "Recover French-Canadian ancestors from combined registers, post and Montréal entries and notarial acts"
 summary: "Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts."]}
-triggers: ["Recover French-Canadian ancestors from combined registers", "French-post and Notre-Dame de Montréal entries and notarial acts"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "FRENCH-CANADIAN-REGISTER-RECOVERY-01", "text": "do not call the person absent until the French-Canadian name forms are exhausted."}]
+guardrails: [{"id": "FRENCH-CANADIAN-REGISTER-RECOVERY-01", "text": "Do not call the person absent until the name forms are exhausted"}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
@@ -178,6 +177,14 @@ Log notarial leads by notary: the notary's name, the town, the date range browse
 date/number if shown, and whether you actually inspected the act or only saw a répertoire line. A
 notary chosen because he worked in the town gives you a place to browse; it does not tell you the
 family used him.
+
+Before you read any sum in an inventaire après décès, find the act's own statement of the money
+of account. A September 1818 inventory from Saint-Luc says the goods were appraised "aux livres et
+sols ancien cours" (in livres and sols of the old currency), and its transcription writes an item
+priced at 48 sols as 2£ 8s [S8]. There £ and s mean livres and sols, not pounds sterling. Count
+20 sols to the livre and 12 deniers to the sol [S9]. Do not trust a machine translation of these
+amounts: Google Translate rendered the heading as "books and old course floors" and turned livres
+into pounds [S8]. Transcribe each sum as written, with its unit.
 
 ## Close with a register packet
 

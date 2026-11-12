@@ -3,11 +3,10 @@ id: "us-vital-registration-coverage"
 title: "Build a U.S. vital-registration coverage register before calling a birth or death record missing"
 summary: "Build a register of every U.S. birth and death registration authority and series before calling a record missing."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Build a register of every U.S. birth and death registration authority and series before calling a record missing."]}
-triggers: ["Build a register of every U.S. birth and death registration authority and series before calling a record missing"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-VITAL-REGISTRATION-COVERAGE-01", "text": "the statewide mandate year is not the first year of coverage, and one county index miss is not \"no record exists\"."}]
+guardrails: [{"id": "US-VITAL-REGISTRATION-COVERAGE-01", "text": "The usual mistake is to treat the statewide mandate year as the first year of coverage, search one certificate index for one county, and report a negative. Before any absence statement, build a register with one row for each registration authority and each separate series."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
@@ -66,6 +65,10 @@ For each holder, record:
 - **Whether the online copy matches the custodian's originals.** The Philadelphia City Archives holds births and deaths from July 1860 to June 1915, marriages only from July 1860 to December 1885, and cemetery returns from 1803 to June 1860. Marriages after 1885 are with the Orphans' Court / Register of Wills. The presenter and the Archives representative gave marriages through 1915 and "deaths" from 1803 [S8], [S10]. Correct both before you build the rows. The representative also said she could not confirm which of these holdings appear on FamilySearch or Ancestry [S8]. In Utah, most county registers have been transferred to the Utah State Archives and some remain with the counties [S1]. For example, Salt Lake County's hard copy went back to its county archives.
 
 A search of a filmed copy is not a search of the original holding. Record which one you searched.
+
+An index search is also bounded by how that index matches names. Before you record `searched – no hit` in an online state or county index, read its search tips, and treat it as exact-match only unless they promise phonetic or variant matching: smaller state and county indexes often have none, so a one-letter misreading (Bane for Bone) defeats every spelling of the right name [S20 @2026-11-12]. Then run an initials search with wildcards and a search with no name at all, by sex, county and death month and year. The name-free search is what found a 1928 Oklahoma death indexed as Margotte C. Bane, a day off the headstone date [S20 @2026-11-12].
+
+Oklahoma's OK2Explore death index works this way: it returns only exact matches, accepts an asterisk as a wildcard in any field, treats a blank field as a wildcard, and asks you to narrow any search that matches more than 15 records. Run the name-free search there with sex, death county and its ±1, 2 or 5-year date range [S21 @2026-11-12].
 
 For Philadelphia City Archives death records filed by cemetery, follow the Archives' own sequence: index, then register page, then cemetery name, then original return. A known cemetery and burial date can be a shortcut into the original records [S10].
 

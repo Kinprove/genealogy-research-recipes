@@ -4,10 +4,9 @@ title: "Search rabbinic and Hasidic literature for a person or a lineage"
 summary: "Find and interpret passages about a Jewish ancestor, rabbinic office or claimed lineage in rabbinic and Hasidic books."
 kind: "records"
 scope: {"platforms": [], "tasks": ["rebbe descent traditions, rabbis of a town, responsa, approbations and Hasidic tales"]}
-triggers: ["rebbe descent traditions", "rabbis of a town", "responsa", "approbations and Hasidic tales"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "RABBINIC-LITERATURE-PERSON-SEARCH-01", "text": "A name, office, discipleship or repeated tale does not establish a kinship link; identify the person and independent witness behind each passage."}]
+guardrails: [{"id": "RABBINIC-LITERATURE-PERSON-SEARCH-01", "text": "Keep two questions apart: did the ancestor exist, and is the bridge from your person to that ancestor documented? Rabbinic books often answer the first and rarely prove the second."}]
 handoff: ["beider-given-name-variants", "corpus-seeded-name-search", "evidence-proof-judgment", "hebrewbooks-search-recovery", "jewish-genealogy-conditional-hypotheses", "russian-empire-jewish-metrical-book-recovery"]
 checked: "2026-11-07"
 checked_basis: "consulted on 2026-11-07"

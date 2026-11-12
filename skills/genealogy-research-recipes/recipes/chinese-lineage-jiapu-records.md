@@ -3,11 +3,10 @@ id: "chinese-lineage-jiapu-records"
 title: "Recover a Chinese emigrant's lineage from character-written names, village and jiapu"
 summary: "Recover a Chinese emigrant's character-written name and ancestral village before searching lineage genealogies (jiapu)."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover a Chinese emigrant's character-written name and ancestral village before searching lineage genealogies (jiapu)."]}
-triggers: ["Recover a Chinese emigrant's character-written name and ancestral village before searching lineage genealogies (jiapu)"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "CHINESE-LINEAGE-JIAPU-RECORDS-01", "text": "never derive a character from a romanization, and keep each romanization, port and generation-character match as its own observation."}]
+guardrails: [{"id": "CHINESE-LINEAGE-JIAPU-RECORDS-01", "text": "Do not convert a Western spelling into one Pinyin character."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"

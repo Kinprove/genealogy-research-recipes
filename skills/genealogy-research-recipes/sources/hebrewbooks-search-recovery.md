@@ -51,28 +51,25 @@
   one returned HTTP 200, and the pages' content was not inspected. The step therefore asks for a
   browser check instead of stating the beta site's status.
 
-<!-- provenance-ledger:start -->
-```yaml
-schema: 1
-sources:
-  - {"id":"B1","kind":"unknown","urls":["https://safranim.com/גיליון-ח/ג-נחום-זיטר-מאגר-היברובוקס-ראשון-בין-ש/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"bbbd38296dda7f280348d7d071df755719219fc73a7beeb9820b2d761810d8e9","claims":[],"review":"pending"}
-  - {"id":"B2","kind":"unknown","urls":["https://onthemainline.blogspot.com/2011/09/searching-online-in-hebrew-with.html"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"3997824363023bb600b96d9c2e96f7219921cbaebfe4231b66434a6c53db17d2","claims":[],"review":"pending"}
-  - {"id":"B3","kind":"unknown","urls":["https://seforimblog.com/2022/03/guide-and-review-of-online-resources-2022-part-i/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"5d4b691406d0065d8b5a278fde42161884e7fcac97ec8ef6c24b66c79b0477cd","claims":[],"review":"pending"}
-  - {"id":"B4","kind":"unknown","urls":["https://shafeh.org/hb/search","https://shafeh.org/hb/search?title=%D7%9E%D7%A1%D7%99%D7%9C%D7%AA+%D7%99%D7%A9%D7%A8%D7%99%D7%9D&author=&ocr=&commit=%D7%97%D7%99%D7%A4%D7%95%D7%A9"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"0042f4621fca41302608f93a1c6d0ecf439884f76e66add74efa19498f664ac3","claims":[],"review":"pending"}
-  - {"id":"B5","kind":"unknown","urls":["https://forum.j-roots.info/viewtopic.php?f=15&t=64"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"71ee3cd324a7782159e01c18712770e60ad3a40e7d0958b3f311f369ceb68738","claims":[],"review":"pending"}
-  - {"id":"B6","kind":"unknown","urls":["https://he.wikisource.org/wiki/תבנית:היברובוקס-דף"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"a3741162abea54ba3a9d88ecd7044ef28f4c7e5281382953f017c1f006b1f655","claims":[],"review":"pending"}
-  - {"id":"B7","kind":"unknown","urls":["https://github.com/hebrewbooks/mobile_app_public/blob/7b2443c23854ef8fa68b3d3d0104bf1ec2dcb428/lib/screens/search.dart#L205","https://github.com/hebrewbooks/mobile_app_public/blob/7b2443c23854ef8fa68b3d3d0104bf1ec2dcb428/lib/shared/widgets/book_list.dart#L342","https://github.com/hebrewbooks/mobile_app_public/blob/7b2443c23854ef8fa68b3d3d0104bf1ec2dcb428/lib/providers/search_query_provider.dart#L28","https://api.dart.dev/dart-core/String/length.html"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"6c35a1a496c7957e06d4f8c8e072618415363f6ea7a0e277db54a3ba561fe210","claims":[],"review":"pending"}
-  - {"id":"B8","kind":"unknown","urls":["https://www.jewishgen.org/InfoFiles/prenumerantn.htm"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"63fe64e2fb5fd4a49037948e687764e732cde09b8d91dd27f5a1d461893fe294","claims":[],"review":"pending"}
-  - {"id":"B9","kind":"unknown","urls":["https://www.jewishgen.org/Rabbinic/infofiles/prenumeranten.htm"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"7159b825b0d45ab884f5f64cae1c4bf07d1f7fe3509fa1bf818a151d5657e82c","claims":[],"review":"pending"}
-  - {"id":"B10","kind":"unknown","urls":["https://www.jewishgen.org/Rabbinic/infofiles/resources.htm"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"72aae2c2c6b37dac7cac390a1628dd8ea098624bf9408f8331c09c5b261fc8b2","claims":[],"review":"pending"}
-  - {"id":"B11","kind":"unknown","urls":["https://arxiv.org/abs/1811.01290"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"51a467d95b7e0f0afc8a2418ecb13ee5f8cd295cc5dd02f5b9db46b808b7db60","claims":[],"review":"pending"}
-  - {"id":"B12","kind":"unknown","urls":["https://www.otzar.org/otzaren/indexeng.asp"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"abe13629cc444e99a96783cf7a61d7c38603964fa61c648f7cb9bb882f4af5ba","claims":[],"review":"pending"}
-  - {"id":"B13","kind":"unknown","urls":["https://beta.hebrewbooks.org/","https://hebrewbooks.org/"],"published":null,"retrieved":null,"access":"unknown","rights":null,"basis":null,"entry_sha256":"608a93b57ef4c741b7ab03c94b83480d3a92e67eb27c21e965f6ddffe7a8ae40","claims":[],"review":"pending"}
-claims:
-  - {"id":"C-70fe20bd1183","kind":"unclassified","anchor":"4. **Change discovery route when the surface has failed.** Run\n   `site:hebrewbooks.org <Hebrew phrase>` in an external search engine; include the\n   OCR-confused spelling when that is the probe. MacDowell demonstrates exactly this\n   combination with `site:hebrewbooks.org ימקב`. Also try `https://beta.hebrewbooks.org/`,\n   the enhanced search entry point identified by Brand's 2022 guide. On 2026-11-07 automated\n   requests to it and to the main site got mixed answers, some of them HTTP 403 with a Cloudflare\n   challenge, so confirm in a browser that it is still offered. Another large Hebrew library,\n   Otzar HaHochma (`https://www.otzar.org/`), sells OCR full-text search of about 156,000\n   Judaic books.\n   **For an inaccessible catalogue, also use the [Shafeh search form](https://shafeh.org/hb/search).**\n   It exposes separate title, author and OCR fields. A live title-field query for\n   `מסילת ישרים` on 2026-10-03 returned matching record **41768**, alongside partial\n   titles such as `מסילת הברזל` and `דובר ישרים`.\n   **If a route returns 403, switch to Shafeh or external site-search to collect book\n   links or IDs.** Save the intended\n   within-book query for when the viewer is accessible.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
-  - {"id":"C-110ce9f40ea6","kind":"unclassified","anchor":"6. **Keep the hit's coordinates separate.** Record the book ID (`req`), viewer page\n   (`pgnum`), printed page or folio visible on the image, and edition from the title page.\n   The viewer number is not necessarily the printed number. A link has this shape:\n   `https://hebrewbooks.org/pdfpager.aspx?req=<id>&pgnum=<n>`.","sources":[],"checked":null,"stated_as":null,"review":"pending"}
-```
-<!-- provenance-ledger:end -->
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: the Shafeh form still offers separate title, author and OCR fields, and its
+footer still says the data load from beta.hebrewbooks.org; the submitted title query returned 110
+results, with record 41768 first and both partial titles quoted in the recipe among them. The beta
+and main HebrewBooks home pages each answered two plain automated requests that day with HTTP 200
+and no challenge, and both rendered a search form with title, author and OCR fields; the recipe
+still asks for a browser check because the earlier answers were mixed. A viewer link of the shape
+the recipe gives, for the Wikisource template's own example book and page, opened page 23 of 101 of
+that book. The Wikisource template documentation (last edited 2016-03-08) still says its page
+parameter is the HebrewBooks page, not necessarily the printed number. The three app files at the
+pinned commit still hold the length guards at the cited lines, the search request at line 359 and
+the untrimmed assignment, and the Dart documentation still counts UTF-16 code units. Chatt's guide
+(updated March 2016) and the two JewishGen rabbinic-genealogy pages still support the subscriber
+list, introduction and approbation statements. The Otzar HaHochma page still gives 156,000 books, an
+OCR search engine and paid hard-drive and online versions. The 2018 study's abstract page was
+reachable; its body was not re-read, as it supports history. The articles by Zitter, MacDowell and
+Brand were not re-read, as they support history and methods, and the J-Roots topic could not be read
+because the forum's certificate had expired. The recipe text was not changed.
 
 ## Credits
 

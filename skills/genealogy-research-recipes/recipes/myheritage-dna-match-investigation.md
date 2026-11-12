@@ -4,14 +4,13 @@ title: "MyHeritage DNA match investigation playbook"
 summary: "Nine practical MyHeritage DNA workflows: select the right kit, preserve theories before reassignment, build filtered shortlists, use labels and notes, capture pair-specific shared-match values, compare triangulation subsets, audit theory connections, recover private-tree leads, contact matches and resume dated packets."
 kind: "platform"
 scope: {"platforms": ["myheritage"], "tasks": ["MyHeritage DNA match investigation, kit relinking, largest-segment sorting, labels/favorites, Shared DNA Matches, Theory of Family Relativity or an investigation follow-up."]}
-triggers: ["MyHeritage DNA match investigation", "kit relinking", "largest-segment sorting", "labels/favorites", "Shared DNA Matches", "Theory of Family Relativity"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "MYHERITAGE-DNA-MATCH-INVESTIGATION-01", "text": "keep kit identity, access, filter state, pair-specific values and exact comparison sets explicit; an unshown measurement is not zero, and a theory is a path to review."}]
+guardrails: [{"id": "MYHERITAGE-DNA-MATCH-INVESTIGATION-01", "text": "Save empty results with their actual query, kit, filters and date. Do not fill an unshown DNA measurement with zero or infer that a person outside the list has no shared DNA."}]
 handoff: ["ai-for-dna-research"]
-checked: "2026-10-03"
-checked_basis: "checked 2026-10-03"
-capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["export", "link"], "contact": ["contact"]}
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
+capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish"], "contact": ["contact"]}
 router: {"tier": "full", "group": "Featured workflows", "order": 24}
 ---
 
@@ -68,6 +67,21 @@ working loop and records, rather than another clustering or cM interpretation me
    Stop if permission is missing. Record the permission reference and attestation date in the
    session header, then save and recheck the association.
    The documented reassignment procedure does not apply to DNA Health kits.
+
+**Privacy gate:** <!-- privacy-gate: publish --> Sharing a kit's results gives another person a
+living tester's DNA matches and family tree; answer the privacy gate in `SKILL.md` first.
+
+To let a helper such as a DNA coach work a kit, do not give them the account password:
+MyHeritage prohibits that under its Terms of Service [S1 @2026-11-12]. Use Manage DNA kits →
+the kit's three-dot menu → Share DNA results with a collaborator; only someone allowed to
+invite members to the kit's family site can send the invitation [S2 @2026-11-12],
+[S3 @2026-11-12]. The collaborator can view the matches, ethnicity estimate and Genetic
+Groups, contact matches, and view or edit the tree as its settings allow. The collaborator
+cannot download raw data, delete, reassign or reshare the kit, or change its DNA privacy
+preferences, and does not see the notes and labels already on the matches [S2 @2026-11-12],
+[S1 @2026-11-12]. MyHeritage's 2024 announcement adds that the collaborator needs two-factor
+authentication and that a kit can have only one collaborator [S1 @2026-11-12]. Remove results
+sharing, on the same menu, ends the access [S2 @2026-11-12].
 
 **Privacy gate:** <!-- privacy-gate: export --> Downloading a raw DNA file exports the tested
 person's genetic data; answer the privacy gate in `SKILL.md` before downloading it.
@@ -129,6 +143,14 @@ for a whole-tree replacement, also the old/new kit-profile crosswalk and observe
    can make a moderate match more useful for this question than an uninformative higher-cM match.
 5. Save empty results with their actual query, kit, filters and date. Do not fill an unshown DNA
    measurement with zero or infer that a person outside the list has no shared DNA.
+
+Do not read few or no Russia-resident matches, or Russian matches missing from an older list,
+as evidence about relatives living in Russia. MyHeritage stopped selling DNA kits in Russia at
+the end of February 2020 [S4 @2026-11-12]. In emails reported on 31 December 2024, it told Russian users
+that their accounts and associated data would be permanently deleted by 1 February 2025
+[S5 @2026-11-12], [S6 @2026-11-12]. A MyHeritage representative told one researcher that messages from those members
+would remain, with the sender shown as a deleted member [S6 @2026-11-12]. Record the gap as a limit of the
+database, not as a negative search.
 
 **Privacy gate:** <!-- privacy-gate: contact --> Asking a Cousin Finder relative about DNA testing
 contacts a living person; answer the privacy gate in `SKILL.md` first.
@@ -205,6 +227,15 @@ relatives who tested elsewhere appear unmarked. So do not read a missing marker 
 **Privacy gate:** <!-- privacy-gate: export --> A segment export lists living matches' DNA data;
 answer the privacy gate in `SKILL.md` before exporting or analysing it.
 
+MyHeritage removed its export of segment data for all DNA matches in October 2023
+[S7 @2026-11-12]. To get a segment file, select the matches in the One-to-Many Chromosome
+Browser, scroll below the chromosomes and use Advanced options → Download shared DNA info. The
+CSV lists any triangulated segments first, then the segments each selected match shares with
+the focal kit, and it covers only the selected matches [S8 @2026-11-12]. Record its scope as
+`selected_matches` (workflow 9). If DNA pages are refused, check that two-factor
+authentication is on: MyHeritage made it mandatory for viewing DNA results by March 2024
+[S1 @2026-11-12].
+
 When working from an exported segment file rather than the browser, keep the unfiltered export and
 analyse a copy sorted by chromosome, then start position. Matches overlapping a documented
 relative's long segment are only candidates. Overlap at one position fits either parent's copy of
@@ -245,6 +276,22 @@ this check without verifying its branch assignments.
    assessment; it neither supplies documentary proof nor automatically updates the family tree.
    No theory means no generated suggestion currently visible, not no biological relationship.
 
+MyHeritage adds theories in periodic runs, not as trees or matches change [S9 @2026-11-12],
+[S10 @2026-11-12]. Its 2022 conditions are a tree that includes at least the tester, the
+parents and the grandparents, and a plan with the advanced DNA features or the one-time unlock
+of an uploaded kit; its 2025 update names Premium, PremiumPlus, Complete and Omni as the plans
+that show a full theory [S11 @2026-11-12], [S12 @2026-11-12]. Theories follow each kit's own
+matches, so a new kit, such as the same person's whole-genome test, can have none while that
+person's older kit already has some [S14 @2026-11-12]. Record "no theory" with the kit and the
+date checked, check each of the tester's kits, and look again after a later run. Theories from
+the last 30 days carry a NEW badge, and the Has Theory of Family Relativity option under the
+Tree details filter (All tree details in some views) lists the matches that have one
+[S10 @2026-11-12], [S13 @2026-11-12], [S12 @2026-11-12], [S19 @2026-11-12].
+
+To give later runs more people to join on, extend the tree: MyHeritage says the number of
+theories depends on the size and detail of the tree [S15 @2026-11-12]. Estes extends each ancestor's line
+through the grandchildren where she can [S16 @2026-11-12]; do this with deceased people only.
+
 **Output:** theory packet, connection ledger and recorded review decision.
 
 ## 7. Recover genealogical leads when the match's tree is missing or private
@@ -261,6 +308,13 @@ this check without verifying its branch assignments.
    tree belongs to; it is not automatically A's tree.
 4. Form one bounded question for A or the manager, such as a grandparent's birth surname and
    birthplace, or whether a specified documented ancestor appears in their tree.
+
+When a match at another company has no tree there or only a small one, look for the same
+person in this kit's DNA Matches and in Cousin Finder, which finds relatives through matches
+between family trees and labels those who are DNA matches [S17 @2026-11-12]. Estes found trees
+in Cousin Finder for people who matched her at other companies but had no trees there
+[S18 @2026-11-12]. Use such a tree only after the name, the tree's people and shared matches
+show that it is the same person; a matching name is not enough.
 
 **Output:** an access-state record, a linked lead, and one answerable question.
 

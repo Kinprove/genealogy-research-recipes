@@ -3,11 +3,10 @@ id: "early-new-england-town-records"
 title: "Read early New England town books across parent towns and decode Torrey entries"
 summary: "Resolve village names to recordkeeping towns, read early New England town books across parent, daughter and neighbouring towns, preserve foundling narrative fields and decode Torrey's marriage notation."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Resolve village names to recordkeeping towns, read early New England town books across parent, daughter and neighbouring towns, preserve foundling narrative fields and decode Torrey's marriage notation."]}
-triggers: ["Resolve village names to recordkeeping towns", "read early New England town books across parent", "daughter and neighbouring towns", "preserve foundling narrative fields and decode Torrey's marriage notation"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "EARLY-NEW-ENGLAND-TOWN-RECORDS-01", "text": "decode a Torrey entry before using it, and record which whole volumes were read."}]
+guardrails: [{"id": "EARLY-NEW-ENGLAND-TOWN-RECORDS-01", "text": "**Never report \"not in the town records\" without the coverage behind it.** Name the towns, volumes and page ranges actually read, and the volumes not read."}]
 handoff: []
 checked: null
 checked_basis: null
@@ -25,7 +24,7 @@ Use this recipe when a birth, marriage, death or land transaction for an early N
 
 If the supplied place is a village or another local place name, first identify the town whose register covered it at the event date. Keep the recorded village name and the recordkeeping town as separate fields; do not assume the village has its own clerk or vital-record series. Confirm the relationship from a dated town guide or the actual register description before selecting the books. The Assonet/Freetown register lead illustrates this distinction. [S6]
 
-Do not search only the town as it exists today. Look the town up in a New England town guide and record three things: when it was incorporated or established, any parent town, and any daughter towns. New England towns were often carved out of a larger original town, and the earlier records usually stayed with the older town [S4], [S5]. The presenters' example is Abington, Massachusetts, established 10 June 1712 (o.s.), now in Plymouth County, formerly part of Bridgewater [S4], [S5]. The linked [Massachusetts Historical Commission town report](https://www.sec.state.ma.us/divisions/mhc/preservation/survey/town-reports/abi.pdf) returned no readable text and was not an independent confirmation [S7]. Early Abington residents must also be searched in Bridgewater.
+Do not search only the town as it exists today. Look the town up in a New England town guide and record three things: when it was incorporated or established, any parent town, and any daughter towns. New England towns were often carved out of a larger original town, and the presenter says the records did not move to the new town, so they might be with the older one [S4], [S5]. Her example is Abington, Massachusetts, established in 1712, now in Plymouth County, formerly part of Bridgewater [S4], [S5]. The Massachusetts Historical Commission's 1981 [town report for Abington](https://www.sec.state.ma.us/divisions/mhc/preservation/survey/town-reports/archives/abi.pdf) gives the date as 10 June 1712 (o.s.), when Abington was established from part of Bridgewater. It also lists the later changes: part was ceded to the new town of Hanover in 1712, part became Rockland on 9 March 1874 and part went to South Abington on 4 March 1875 [S7]. Early Abington residents must also be searched in Bridgewater.
 
 - For any event dated before the daughter town was set off, search the parent town's books. For any residence after the set-off on land that became a daughter town, search the daughter town's books.
 - Add adjoining towns and counties. A resident might marry across a county line [S4], [S5], and after reading a whole book a researcher may find the family actually lived in the next town [S1].

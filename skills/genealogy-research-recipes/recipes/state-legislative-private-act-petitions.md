@@ -3,11 +3,10 @@ id: "state-legislative-private-act-petitions"
 title: "Recover a state legislative private act and its petition"
 summary: "Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and the petition behind it."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and the petition behind it."]}
-triggers: ["Recover a state legislative private act", "such as a legitimation", "name change", "divorce", "pension", "and the petition behind it"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "STATE-LEGISLATIVE-PRIVATE-ACT-PETITIONS-01", "text": "do not stop at the one-line index or printed act, ignore entries at the same locator, or skip legislative records because the event looks like a county matter."}]
+guardrails: [{"id": "STATE-LEGISLATIVE-PRIVATE-ACT-PETITIONS-01", "text": "search the state's index of legislative acts, gather every entry that shares the hit's locator, and then retrieve the act and the petition or application behind it."}]
 handoff: []
 checked: "2026-11-03"
 checked_basis: "checked 2026-11-03"

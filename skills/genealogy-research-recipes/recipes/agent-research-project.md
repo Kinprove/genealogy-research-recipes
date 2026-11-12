@@ -3,11 +3,10 @@ id: "agent-research-project"
 title: "Running a long genealogy project with an AI agent"
 summary: "Keep an AI agent's genealogy work honest over months: what counts as evidence, how to lay out Markdown research notes, what 'searched', 'saved' and 'done' must mean, how corrections reach every note, and how to delegate and write to a tree safely."
 kind: "judgment"
-scope: {"platforms": [], "tasks": ["running a multi-session genealogy investigation with an AI agent", "keeping genealogy research notes in Markdown or Obsidian", "delegating genealogy reading to sub-agents", "carrying a correction through notes and a tree"]}
-triggers: ["research vault", "Obsidian genealogy notes", "Markdown research notes", "the agent says saved or done", "sub-agent genealogy research", "long genealogy project", "keep research across sessions", "correct a claim everywhere"]
+scope: {"platforms": [], "tasks": ["running a multi-session genealogy investigation with an AI agent", "keeping genealogy research notes in Markdown or Obsidian", "delegating genealogy reading to sub-agents", "carrying a correction through notes and a tree", "research vault", "Obsidian genealogy notes", "the agent says saved or done", "sub-agent genealogy research", "long genealogy project", "keep research across sessions", "correct a claim everywhere"]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "AGENT-RESEARCH-PROJECT-01", "text": "An agent's own notes, summaries and passing checks are not evidence. Settle every fact on the original."}]
+guardrails: [{"id": "AGENT-RESEARCH-PROJECT-01", "text": "Treat a model-written summary, tag or \"key insight\" as a pointer. Open the source before writing a claim."}]
 handoff: ["evidence-proof-judgment", "research-documentation", "source-citation", "ai-for-documentary-records", "archival-image-coverage-verification", "family-collection-intake-and-capture", "gedcom-research-export"]
 checked: null
 checked_basis: null
