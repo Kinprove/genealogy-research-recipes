@@ -31,6 +31,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `dnapainter-practical-dna-workflows#C-c6fa6c413978` | platform-ui | 2026-11-12 | 2027-05-11 | H15, S34, S33 |
 | `dnapainter-practical-dna-workflows#C-7a72d027ee83` | platform-ui | 2026-11-12 | 2027-05-11 | S30, H10, H11 |
 | `dnapainter-practical-dna-workflows#C-a6b2e1d8b33e` | platform-ui | 2026-11-12 | 2027-05-11 | S37, H13, S38 |
+| `dnapainter-practical-dna-workflows#C-a5f76a4c2dde` | platform-ui | 2026-11-12 | 2027-05-11 | S37, S38 |
 | `dnapainter-practical-dna-workflows#C-e43b57d6e404` | platform-ui | 2026-11-12 | 2027-05-11 | H14, S15 |
 | `dnapainter-practical-dna-workflows#C-0e3c7d4532c9` | platform-ui | 2026-11-12 | 2027-05-11 | S31, S23, H5, S32 |
 | `holocaust-testimony-source-interpretation#C-2d89c69f5ab0` | portal-availability | 2026-11-08 | 2027-02-06 | H18, H19, H20 |
@@ -56,13 +57,14 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `soviet-personal-file-recovery#C-1edd8b76cd0a` | custody | 2026-11-08 | 2027-05-07 | S37, S38 |
 | `soviet-personal-file-recovery#C-4ed44f53c4ad` | custody | 2026-11-08 | 2027-05-07 | S39, S40 |
 | `unknown-parentage-wato#C-9a48044a1c93` | platform-ui | 2026-11-12 | 2027-05-11 | N51, N31, N54 |
-| `unknown-parentage-wato#C-55694d893b27` | platform-ui | 2026-11-12 | 2027-05-11 | N51, N50, N55, N56, N54, N31, N57 |
-| `unknown-parentage-wato#C-5576500fc220` | platform-ui | 2026-11-12 | 2027-05-11 | N58, N51, N55 |
+| `unknown-parentage-wato#C-2adc152de98a` | platform-ui | 2026-11-12 | 2027-05-11 | N51, N50, N55, N56, N54, N31, N57 |
+| `unknown-parentage-wato#C-f4b6e35b94bf` | platform-ui | 2026-11-12 | 2027-05-11 | N58, N51, N55 |
 | `unknown-parentage-wato#C-785541232628` | platform-ui | 2026-11-12 | 2027-05-11 | N59, N55, N51, N56 |
 | `unknown-parentage-wato#C-2832cdd81dca` | platform-ui | 2026-11-12 | 2027-05-11 | N7, N51 |
 | `us-census-practical-workflows#C-bdd43b5347d5` | custody | 2026-11-08 | 2027-05-07 | S9 |
 | `us-federal-court-case-file-recovery#C-3062c226d110` | portal-availability | 2026-11-07 | 2027-02-05 | S9 |
 | `wikitree-dna-tester-links#C-3ccb958674db` | platform-ui | 2026-11-08 | 2027-05-07 | S3, S2, S4 |
+| `xdna-phasing-judgment#C-e958291f6c61` | platform-ui | 2026-11-12 | 2027-05-11 | N25, N24, N26, N27, N28 |
 | `ydna-mtdna-interpretation#C-251c81450dea` | portal-availability | 2026-11-08 | 2027-02-06 | N12, N3, N11, N104, N96, N97, N98, N6, N26, N15, N47, N48 |
 
 ## Legacy migration debt
