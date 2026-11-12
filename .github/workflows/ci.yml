@@ -39,9 +39,8 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
-          # HEAD^1 is the base the legacy provenance inventory is compared with:
-          # the base branch tip for a pull request's test merge commit, the
-          # previous main commit for a push.
+          # A pull request's test merge commit needs its first parent, the base
+          # branch tip, for the legacy provenance inventory comparison below.
           fetch-depth: 2
       - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
@@ -59,7 +58,17 @@ jobs:
       - name: Check recipe headers and announce expiring platform checks
         run: python -B scripts/recipe_catalog.py --check
       - name: Check provenance ledgers, generated report and frozen legacy inventory
-        run: python -B scripts/provenance.py --check --legacy-base HEAD^1
+        env:
+          PUSH_BEFORE: ${{ github.event.before }}
+        # Compare with the base branch tip for a pull request, and with the commit
+        # main pointed to before the push (several commits back, if need be) for a push.
+        run: |
+          base=HEAD^1
+          if [ "$GITHUB_EVENT_NAME" = push ]; then
+            git fetch --no-tags --depth=1 origin "$PUSH_BEFORE"
+            base=$PUSH_BEFORE
+          fi
+          python -B scripts/provenance.py --check --legacy-base "$base"
 
   distributions:
     name: Channel distribution builds
