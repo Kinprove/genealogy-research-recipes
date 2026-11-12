@@ -71,6 +71,8 @@ death-file route below. A missing voucher is not evidence of non-service.
 
 A payroll entry dates the end of service and names the last unit. It is not a full service history. The recorded unit may be a separation unit rather than the operational unit [S27]. Log "no OMPF; auxiliary returned, 3 pp." rather than "file destroyed".
 
+Copy the character of discharge exactly as written, and read the discharge papers for the stated reason [S30]. During WWII about 50,000 people received "blue" discharges, named for the paper, for "undesirable habits and traits of character". About 9,000 of them were men and women discharged because of their sexuality, and African American men were the largest group of recipients. The practice ended in 1947, and the "other than honorable" discharge replaced it with the same consequences [S31]. The VA's reading of the GI Bill barred blue-discharge recipients from veterans' benefits [S31], so a missing VA claim file can follow from the discharge type, not from non-service. A blue or other-than-honorable discharge is a lead to the reason for separation; it does not by itself establish his sexuality or any other reason.
+
 ## Request records that were never part of the OMPF
 
 - **In-service deaths:** request the WWI burial case file (also called a mortuary or casualty file) or the WWII Individual Deceased Personnel File (IDPF) separately from the OMPF. Do not merge it with the OMPF in the register. Route the request by custodian:
@@ -165,6 +167,8 @@ Search both states' Guard records. Search the unit's later federal designation, 
 
 Check the county for a locally recorded discharge, even if the family holds the Army papers. Tanner found that an Apache County–recorded copy carried information missing from the Army documents [S2]. Record it as a separate source with its own custodian, and compare it field by field. Strauss also found Pennsylvania local records that were not in federal hands [S11].
 
+Search his school's yearbooks for every war year in which he could have been serving, not only his graduation year. Some WWI- and WWII-era yearbooks carried a list of students in service [S32]. The detail varies. Bangor High School's June 1944 yearbook listed 60 members of the class of 1944 in service, by name only [S33]. A 1919 normal-school yearbook gave five pages of students who served, back to the class of 1892, with name, rank and where each served [S34]. Log a listing as a lead and confirm the branch and unit in service records. A missing listing is not evidence that he did not serve.
+
 Search the state archive's WWI historical-project questionnaires and Gold Star files as a
 separate product from the OMPF or federal burial file. Read the collection's own inclusion
 rule first: Alabama's Gold Star project collected survivors' contributions about service
@@ -201,6 +205,8 @@ on one day then does not show that the man was absent from the unit.
 - **Offline access:** for archival Army morning reports (1912–1968), NPRC does not take written requests. Read them in person at St. Louis by appointment, or hire an independent researcher. Mail and fax requests apply only to non-archival 1969–1974 reports ([NARA](https://www.archives.gov/personnel-records-center/military-personnel/morning-reports-and-unit-rosters)).
 - **Personal entries:** promotions and furloughs, dated to the day [S16]. Log only entries that name him.
 - **Unit context:** movements, incidents and after-action detail [S16]. An after-action report corrected a family memory of an incident's date (Christmas Day versus Christmas Eve) [S16]. Note that it dates the unit's incident, not his part in it.
+
+If he served in the Navy, Army morning reports and AAD do not cover him; his unit records are the muster rolls of each ship and station he passed through. A muster roll records the date a man reported on board or for duty. The personnel diaries, the Navy's equivalent of the Army's morning rosters, record reporting to and transfer from the activity. For 1939–1956 the rolls list enlisted men only; for an officer, use the ship's deck logs [S35]. NARA's muster-roll page, read on 2026-11-12, points to the Ancestry collection *U.S. World War II Navy Muster Rolls, 1938–1949* [S36]. Log each "received" and "transferred" entry with its roll and month as a dated row, then add the Notice of Separation and the discharge certificate. One account rebuilt a sailor's 1945–1946 moves through a training center, a naval hospital and a carrier this way [S37]. The rolls are not daily lists, so a gap between two entries does not place him anywhere [S35].
 
 **An award reference:** an OMPF decorations field is a lead to an order, not the order
 itself. For Korean War Army records, NARA's 2023 presentation gives two search keys:
@@ -241,6 +247,8 @@ Unit histories, unit reports and veterans' associations supply context. One exam
 ## Treat WWII casualty lists as incomplete
 
 Do not accept the National Archives WWII casualty lists as a complete roster. The presenter found people missing from them by checking newspaper casualty lists, county memorial lists and the full crew of a single crash [S13]. Cross-check all three, and record which roster supplied each name.
+
+Before reading a miss, check which branch and which deaths each list covers. NARA's 1946 *World War II Honor List of Dead and Missing Army and Army Air Forces Personnel* lists War Department casualties only, by state and then county [S38], [S40]. Each entry gives serial number, rank and type of casualty, not birthplace or residence [S38]. Navy, Marine Corps and Coast Guard men are in the separate 1946 *State Summary of War Casualties*. It covers deaths from enemy action or from operations against the enemy in war zones, and leaves out deaths in the United States and deaths from disease, homicide or suicide anywhere [S39]. A sailor or Marine absent from the Army list, or a man who died stateside or of illness absent from the Navy summary, is outside that list's scope; log the miss as out of scope, not as a negative.
 
 ## Return a routing register
 

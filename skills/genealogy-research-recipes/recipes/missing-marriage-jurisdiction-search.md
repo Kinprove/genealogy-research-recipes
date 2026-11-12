@@ -87,6 +87,8 @@ Keep "not searched" and "unavailable" visibly separate from "no hit."
 
 Check that a hit is the right couple before accepting it, then follow it to the bond, licence, return or register itself. Do not stop at an index miss. Ancestry tends to hold indexes, while FamilySearch holds more original images, many of them unindexed [S12], [S13]. Browse the FamilySearch images for the county and years before recording "no hit."
 
+Ask each county's clerk or archive for its loose marriage records as well as the bound books, both for a register hit and before recording "no hit" there. These are the papers of the licensing process, filed apart from the bound volumes and rarely online. They can include affidavits, parental consent letters for an underage bride or groom, bonds and blood-test results [S32], [S33]. The Houston County, Tennessee archivist reports that most of that county's packets, 1871–2010, also hold a copy of the licence [S33]. Bonds are documents separate from the licence, and guardians' consent affidavits, most common in the South and on the frontier, sit among town and county records [S34].
+
 A licence does not show that banns were read: in English law a special licence could dispense with publication, so check the local rule before assuming banns for a licensed marriage [S28], [S31].
 
 Read the bondsmen and officiant as possible associates, but check their role first. In the presenter's Mitchellville bond, the bondsman, F. M. Groves, was the justice of the peace who performed the marriage, and the bond notes that Groves paid for it [S6].

@@ -119,6 +119,17 @@ Arrival Records Collection includes entry points beyond New York; check the
 selected series rather than copying old New-York-only coverage claims.
 [Foundation collection guide](https://www.statueofliberty.org/discover/heritagesearch/)
 
+For a New York arrival, set the station from the arrival date before you name it or choose a
+station-named index. From 1820 ship captains gave passenger lists to customs officials.[N61]
+Before 1855 there was no immigration station, and the lists were collected at whatever pier the
+ship docked.[N62] Castle Garden was the port's immigration station from 1855 to 1890. The Barge
+Office in the Battery was used while Ellis Island was built, and Ellis Island received
+immigrants from 1 January 1892. After the June 1897 fire the Barge Office was used again until
+the new main building opened on 17 December 1900.[N63] Do not write "came through Ellis Island"
+for an arrival before 1892 or between June 1897 and December 1900. Do not report a list for an
+arrival before June 1897 as lost in the fire: the fire burned the immigration manifests for those
+entries, but the customs lists remain.[N63]
+
 For a Chinese traveler under the exclusion laws, a passenger-list search is not the only arrival
 route. Check the exclusion registers kept at the port of entry for the recorded status category
 (for example laborer, merchant or son of a native) and the admission result. Then look for the
@@ -201,6 +212,14 @@ wives, minor children, labourer groups and cabin passengers, so a spouse or chil
 be missing stays an open question. The
 [Scottish-migration lecture](https://www.youtube.com/watch?v=aZgUeKOaLtY) does not identify which
 years or ports are affected.
+
+A crossing record from Canada is not by itself an immigration event. MyHeritage's guide to its
+*United States, Border Crossings from Canada, 1895–1956* collection says it also records American
+citizens visiting Canada, tourists and people on work trips,[N64 @2026-11-12] and the collection's
+2021 release notice says many of its records concern U.S. or Canadian citizens crossing for work
+or travel.[N65 @2026-11-12] Search it for an ancestor who never emigrated as well. Read the
+recorded citizenship, residence and destination before adding a migration row, and log a return
+from a visit as a trip in the journey table.
 
 ### 5. Recover an arrival through the departure list
 
@@ -481,6 +500,13 @@ details before using the file. A related person's file is a possible source abou
 target, not the target's file or proof of the relationship. The
 [related-file search account](https://lostrussianfamily.wordpress.com/2026/09/26/nara-quietly-expands-two-databases-of-its-most-valuable-immigration-collections-to-2-5-million-files/)
 supplies this extension; the existing type and custody checks still apply.[30]
+
+Do not read a miss in FamilySearch's *United States, Index to Alien Case Files, 1940-2003* as
+evidence that no A-File exists. FamilySearch describes it as an index to the A-Files at the
+National Archives at Kansas City and warns that files from the Guam, Honolulu, Reno and San
+Francisco districts, held at San Bruno, may not be included.[N66 @2026-11-12] A 2025 post on
+NARA's own A-File databases calls the FamilySearch index incomplete and not up to
+date.[N67 @2026-11-12] Run the Catalog name search in step 2 whatever this index returns.
 
 **Output:** a request-ready locator packet and named custodian. **Check:** an
 A-number alone proves neither A-File custody nor AR-2 image availability. A
