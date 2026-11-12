@@ -27,8 +27,10 @@ with synthetic materials only. It appends the literal `SKILL.md` as system instr
 Claude Code, gives it a read tool for `recipes/`, fails any read outside it, records successful
 reads and line coverage, and checks the answer with regexes and an independent rubric call.
 Routing and regex checks must pass three of three samples; at least two samples must pass
-all rubric questions. A denied read, missing sample, invalid judge response or timeout cannot
-pass. Task recipes must be read in full; judgment recipes may be read at their rules sections.
+all rubric questions. A rubric question marked `strict` must also pass in three of three samples:
+it replaces a regex when wording cannot separate a violation from a quoted counterexample. A
+denied read, missing sample, invalid judge response or timeout cannot pass. Task recipes must be
+read in full; judgment recipes may be read at their rules sections.
 Recipes named in `read_sections` are mandatory supplements, except alternatives selected by
 `any_of`. Cases bind required judgment sections to returned body-line spans: opening only a title or
 Goal cannot satisfy them. Denied, unfinished and out-of-scope reads fail even after another
@@ -99,6 +101,10 @@ Each report covers only the skill bytes and harness it names; a later recipe cha
 covered until a new run. The most recent is the
 [2026-11-12 report](../reports/behavioural-evaluation-2026-11-12.md): 11 of 14 cases pass on
 `main` at `e206ee4`, run in isolation with the locked CLI and an authenticated local login.
+After that run, [#242](https://github.com/Kinprove/genealogy-research-recipes/issues/242)
+replaced the `ystr-distance` forbidden-figure regex with the strict `Y-01` question, because the
+regex also matched a figure quoted as an example not to use. The report's failure stands for the
+case contract its receipt records.
 The earlier [issue-97 report](../reports/issue-97-evaluation.md) records results on older skill
 bytes from runs that loaded the runner's own Claude Code configuration, the failed release
 baseline and issue #97's acceptance gates; merge authorization is a separate decision.

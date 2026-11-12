@@ -32,6 +32,8 @@ def load_cases(directory=HERE / "cases"):
             raise ValueError(f"{case['id']}: empty rubric")
         for pattern in case["assert"]["regex_present"] + case["assert"]["regex_absent"]:
             re.compile(pattern, re.I | re.S)
+        if any(type(item.get("strict", False)) is not bool for item in case["assert"]["rubric"]):
+            raise ValueError(f"{case['id']}: strict must be boolean")
         for material in case["materials"]:
             fixture = (HERE / "fixtures" / material).resolve()
             if not fixture.is_relative_to(HERE / "fixtures") or not fixture.is_file():

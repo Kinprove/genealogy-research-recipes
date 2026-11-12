@@ -109,6 +109,15 @@ class StaticEvaluationTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "missing guardrail|invalid fixture"):
                 static_checks(self.skill, cases)
 
+    def test_strict_flag_must_be_boolean(self):
+        cases = Path(self.temporary.name) / "cases"
+        cases.mkdir()
+        case = load_cases()[0]
+        case["assert"]["rubric"][0]["strict"] = "yes"
+        (cases / "case.yaml").write_text(json.dumps(case), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "strict must be boolean"):
+            load_cases(cases)
+
 
 class BehaviouralHarnessTests(unittest.TestCase):
     def setUp(self):
@@ -312,6 +321,37 @@ class BehaviouralHarnessTests(unittest.TestCase):
         self.assertFalse(aggregate([self.case], rows[:2])[self.case["id"]]["pass"])
         rows[1]["rubric_pass"] = False
         self.assertFalse(aggregate([self.case], rows)[self.case["id"]]["pass"])
+
+    def test_strict_rubric_question_must_pass_in_every_sample(self):
+        case = next(case for case in load_cases() if case["id"] == "ystr-distance")
+        path = SKILL / "recipes/ydna-mtdna-interpretation.md"
+        count = len(path.read_text(encoding="utf-8").splitlines())
+        trace = self.trace(path, "\n".join(f"{n}\tline" for n in range(1, count + 1)))
+        # Sample 2 of the 2026-11-12 run quotes a figure not to use; that is not its own estimate.
+        quoted = 'Use the TiP report. Any single figure, such as "about 5 generations," would be invented.'
+        asserted = "Use the TiP report. GD 2 at 37 markers is about 5 generations."
+        rows = []
+        for number, answer in enumerate((quoted, quoted, asserted), start=1):
+            with tempfile.TemporaryDirectory() as directory:
+                args = SimpleNamespace(output=Path(directory), skill=SKILL, model="test", judge_model="test", replay=None)
+
+                def transport(prompt, skill, output, model, *positional, **options):
+                    output.write_text("{}\n", encoding="utf-8")
+                    if output.name == "judge.jsonl":
+                        self.assertNotIn('"strict"', prompt)
+                        return json.dumps({"clarify": False, "items": [
+                            {"guardrail": item["guardrail"], "reason": "Observed",
+                             "pass": not (item["guardrail"] == "Y-01" and answer == asserted)}
+                            for item in case["assert"]["rubric"]]}), []
+                    return answer, trace
+
+                with patch("run_evals.invoke", side_effect=transport), contextlib.redirect_stdout(io.StringIO()):
+                    rows.append(sample(case, number, args, guardrails()))
+        self.assertEqual([row["deterministic_failures"] for row in rows], [[], [], ["Strict rubric failed: Y-01"]])
+        summary = aggregate([case], rows)[case["id"]]
+        self.assertEqual((summary["routing_and_regex_passes"], summary["rubric_passes"]), (2, 2))
+        self.assertFalse(summary["pass"])
+        self.assertTrue(aggregate([case], [rows[0], rows[1], rows[0]])[case["id"]]["pass"])
 
     def test_competing_task_recipes_fail_clarification(self):
         case = next(case for case in load_cases() if case["id"] == "russia-origin")

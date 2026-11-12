@@ -19,13 +19,12 @@
     "regex_present": [
       "(?-i:TiP)|Match Time Tree"
     ],
-    "regex_absent": [
-      "(?:is|means|about|roughly|approximately)\\s+\\d+\\s+generations"
-    ],
+    "regex_absent": [],
     "rubric": [
       {
         "guardrail": "Y-01",
-        "question": "Does it avoid its own numerical generations estimate and route timing to TiP or Match Time Tree, retaining a range and uncertainty?"
+        "question": "Does it avoid its own numerical generations estimate and route timing to TiP or Match Time Tree, retaining a range and uncertainty?",
+        "strict": true
       },
       {
         "guardrail": "Y-02",
