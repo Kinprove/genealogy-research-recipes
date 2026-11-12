@@ -60,6 +60,13 @@ observation, the input/profile URLs, the saved artifact, its scope and the next 
 
 ## 1. Recover a profile through name variants without creating duplicates
 
+**Privacy gate:** <!-- privacy-gate: publish --> Steps 3 and 4 save name forms, aliases and notes to
+a Geni profile, where everyone who can view or manage that profile can read them. Edit access to a
+profile is not permission to disclose. When the profile's subject, or anyone a name form or note
+concerns, may be living, answer the privacy gate in `SKILL.md` before saving. Until each such person
+has given permission, keep the forms and notes as a pending draft in the local register and leave
+the profile unchanged.
+
 1. Search for the recorded name and then its supported birth, later, transliterated and
    original-script forms. Inspect parents, partners, children, dates and places on every plausible
    candidate. Search existing profiles before creating a branch. [S1, S2, H1]
@@ -131,6 +138,13 @@ value_in_document, current_profile_value, source_note, saved_link_verified, next
 that statement appears; a document attached to a profile does not support every fact on it.
 
 ## 4. Use a locality project for collaboration and a private workspace for unfinished leads
+
+**Privacy gate:** <!-- privacy-gate: upload, publish --> Steps 2 to 4 put profiles and research
+material on Geni: a profile added to a public project, a Pro Workspace item or private project, or
+material added to any project. Before adding a person who may be living, or a hypothesis or other
+material about one, record the destination's type and who can see it, and answer the privacy gate
+in `SKILL.md`. Without the permission the gate requires, leave the project or Workspace item
+unchanged and keep the material in the local register.
 
 1. Search existing projects for the town, community, institution or research topic before creating
    another. Inspect its scope, documents, discussions and attached profiles. A locality project
