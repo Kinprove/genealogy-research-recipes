@@ -54,7 +54,7 @@ class StaticEvaluationTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "dangling local link|missing anchor"):
                 static_checks(self.skill)
 
-    def test_case_quote_must_remain_in_body_not_just_header(self):
+    def test_guardrail_quote_must_remain_in_body(self):
         path = self.skill / "recipes/ai-for-dna-research.md"
         text = path.read_text(encoding="utf-8")
         quote = guardrails(self.skill)["CM-01"]["quote"]

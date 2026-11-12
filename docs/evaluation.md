@@ -7,7 +7,7 @@ behavioural tier that gives an agent synthetic research questions.
 
 The offline tier runs in the existing unittest CI job. It checks that every recipe is routed,
 every local recipe link and fragment resolves (also in the real npm artifact), and every case's
-guardrail ID exists in a recipe header with a quote still present in the body. Platform
+guardrail ID exists in a recipe header. Platform
 documentation-check dates expire after 90 days; future dates fail too. The suite uses the
 canonical header parser, schema, source-check evidence and generated-output checks from
 [`scripts/recipe_catalog.py`](../scripts/recipe_catalog.py). Every header guardrail quotes the

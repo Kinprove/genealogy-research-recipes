@@ -83,14 +83,14 @@ def validate_header(m, body, filename, today):
     heading = re.search(r"^# (.+)$", body, re.M)
     require(heading and heading[1].removeprefix("Recipe: ") == m["title"], "title differs from body heading")
     require(m["kind"] in ("judgment", "platform", "records"), "unknown kind")
-    scope = m["scope"]
-    require(isinstance(scope, dict) and set(scope) == {"platforms", "tasks"}, "invalid scope")
     route = m["router"]
     require(isinstance(route, dict) and set(route) == {"tier", "group", "order"}, "invalid router")
     require(route["tier"] in ("full", "pointer") and string(route["group"]), "invalid router tier/group")
     require(type(route["order"]) is int and route["order"] >= 0, "invalid router order")
-    require(string_list(scope["platforms"]) and string_list(scope["tasks"], route["tier"] == "full"),
-            "invalid scope lists; full router entries need tasks")
+    scope = m["scope"]
+    require(isinstance(scope, dict) and set(scope) == {"platforms", "tasks"}, "invalid scope")
+    require(string_list(scope["platforms"]) and string_list(scope["tasks"]), "invalid scope lists")
+    require(scope["tasks"] or route["tier"] != "full", "full router entries need tasks")
     summary = normalized(m["summary"]).casefold()
     for task in scope["tasks"]:
         require(normalized(task).casefold().rstrip(".") not in summary,

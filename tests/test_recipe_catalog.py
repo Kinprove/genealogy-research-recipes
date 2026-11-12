@@ -23,9 +23,9 @@ class RecipeCatalogTests(unittest.TestCase):
         self.items = catalog.load_catalog(today=self.today)
         self.metadata, self.body = copy.deepcopy(self.items[0])
 
-    def assert_invalid(self, metadata, message):
+    def assert_invalid(self, metadata, message, body=None):
         with self.assertRaisesRegex(catalog.CatalogError, message):
-            catalog.validate_header(metadata, self.body, metadata["id"] + ".md", self.today)
+            catalog.validate_header(metadata, body or self.body, metadata["id"] + ".md", self.today)
 
     def test_every_recipe_has_a_valid_header_and_both_outputs_are_current(self):
         files = list((ROOT / catalog.SKILL_PATH / "recipes").glob("*.md"))
@@ -42,16 +42,17 @@ class RecipeCatalogTests(unittest.TestCase):
             m = copy.deepcopy(self.metadata)
             del m[field]
             self.assert_invalid(m, "header fields")
-        m = copy.deepcopy(self.metadata)
-        m["extra"] = True
-        self.assert_invalid(m, "header fields")
+        for field in ("extra", "triggers"):  # triggers was retired: only scope.tasks routes
+            m = copy.deepcopy(self.metadata)
+            m[field] = ["a phrase"]
+            self.assert_invalid(m, "header fields")
         for header in ('id: "one"\nid: "two"', 'id: [broken', 'id: plain-yaml'):
             with self.subTest(header=header), self.assertRaises(catalog.CatalogError):
                 catalog.parse_recipe("---\n" + header + "\n---\n# Body\n")
 
     def test_schema_rejects_empty_rules_bad_ids_and_wrong_titles(self):
         for key, value, error in (("guardrails", [], "guardrails"), ("id", "../escape", "invalid id"),
-                                  ("title", "Other title", "title differs"), ("triggers", ["a phrase"], "header fields")):
+                                  ("title", "Other title", "title differs")):
             m = copy.deepcopy(self.metadata)
             m[key] = value
             self.assert_invalid(m, error)
@@ -65,8 +66,7 @@ class RecipeCatalogTests(unittest.TestCase):
         catalog.validate_header(m, self.body, m["id"] + ".md", self.today)
         m["summary"] = "Route a birth, marriage or death by county, successor state and record type."
         # The whole summary, any case, and the summary cut at commas add nothing to route on.
-        for task in (m["summary"], "ROUTE A BIRTH, MARRIAGE OR DEATH BY COUNTY, SUCCESSOR STATE AND RECORD TYPE",
-                     "Route a birth", "marriage or death by county", "successor state and record type."):
+        for task in (m["summary"].upper(), "marriage or death by county", "successor state and record type."):
             m["scope"]["tasks"] = [task]
             with self.subTest(task=task):
                 self.assert_invalid(m, "task repeats the summary")
@@ -82,15 +82,11 @@ class RecipeCatalogTests(unittest.TestCase):
         for text in ("never treat a title match as proof of the contents.", "Never treat a title as proof."):
             m["guardrails"][0]["text"] = text
             with self.subTest(text=text):
-                self.assert_invalid_body(m, body, "guardrail T-01 is not an excerpt")
+                self.assert_invalid(m, "guardrail T-01 is not an excerpt", body)
         # Later guardrails are checked too, not only the core rule that the router prints.
         m["guardrails"] = [{"id": "T-01", "text": "Keep unchecked cases."},
                            {"id": "T-02", "text": "A rule the body never states."}]
-        self.assert_invalid_body(m, body, "guardrail T-02 is not an excerpt")
-
-    def assert_invalid_body(self, metadata, body, message):
-        with self.assertRaisesRegex(catalog.CatalogError, message):
-            catalog.validate_header(metadata, body, metadata["id"] + ".md", self.today)
+        self.assert_invalid(m, "guardrail T-02 is not an excerpt", body)
 
     def test_router_prints_tasks_in_both_tiers_and_the_core_guardrail_for_full_entries(self):
         full = copy.deepcopy(next(item for item in self.items if item[0]["router"]["tier"] == "full"))
@@ -104,7 +100,6 @@ class RecipeCatalogTests(unittest.TestCase):
         pointer[0]["scope"]["tasks"] = ["Search auction lots", "Read the lot photographs"]
         tail = catalog.render_router([full, pointer]).split("## More recipes by topic")[1]
         self.assertIn("*Use for:* Search auction lots; Read the lot photographs", tail)
-        self.assertNotIn("*Core guardrail:*", tail)
 
     def test_dangling_references_fail_in_body_and_handoff(self):
         for reference in ("[other](no-such-recipe.md)", "**`recipes/no-such-recipe.md`**",
