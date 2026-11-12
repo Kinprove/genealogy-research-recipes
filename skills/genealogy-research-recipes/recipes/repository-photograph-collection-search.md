@@ -54,6 +54,8 @@ Start from the family's locality and date range, not from the name. List these c
 
 Use only collections whose catalogue or description actually covers the place and period. Do not assume that a photographer's work survives for the family's town.
 
+For a town, church or school in Russia, add History of Russia in Photographs (russiainphoto.ru). On 2026-11-12 its About page described 214,551 photographs taken on the territory of Russia from 1840 to 1999; 174,880 were placed by museums, archives and private owners and 39,671 uploaded by site visitors. It can be searched by the place where the print or negative is kept, and photos with a recorded location appear on a map [S33 @2026-11-12]. Vera Miller suggests starting with a surname or a town or village name translated into Russian, and reports portraits, class graduations, churches and street views among its photos [S34 @2026-11-12]. Use a hit as a place or context image. Record the holder and caption as the holder's claim, keep visitor uploads apart from museum and archive items, and never identify a person in it by appearance.
+
 ## Browse by place, subject and business, not by person
 
 1. Limit the search to one relevant collection at a time. Search or browse by:

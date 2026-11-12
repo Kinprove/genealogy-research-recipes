@@ -61,6 +61,8 @@ Some steps overlap with other recipes; use those recipes for them:
 - **Do not treat "Jr" or "Sr" as father and son.** The labels can mark a grandfather, an uncle or a more distant relative. [S4]
 - **Search the minor records for a death at sea.** A Scot who died at sea on a British-registered merchant ship is recorded in the Marine Returns, not a district death register. [S24], [S25] To find them, search statutory deaths on ScotlandsPeople and choose Minor Records. [S24] The Marine Returns cover merchant seamen, including Second World War losses. They also cover some wartime Royal Navy, Royal Marines and naval reserve deaths at sea. [S24], [S26] The Second World War War Returns cover only members of the armed forces, and they are incomplete. [S25] Search them as well for a serviceman, but not for a merchant seaman. Do not treat a missing district death entry as survival until you have searched the minor records. [S23]
 
+For a person born before 1855 whose parents are unknown, search for a Scottish death from 1855 onward, including for someone who married before statutory registration. Most death entries give the father's name, surname and occupation, the mother's name and maiden surname, and whether each parent had died [S34]. Read them as the informant's statements, like the other fields. Jonny Perl looked for the death of a man aged 67 in the 1861 census for this reason, and later learned that he had emigrated and died in Pennsylvania [S35]. If no Scottish death is found, test emigration before calling the parents unrecorded.
+
 ## Classify each OPR entry from the image
 
 - **Leave an OPR index entry unclassified until you read the original.** The index does not show whether an entry is a proclamation of banns or a marriage. [S8]

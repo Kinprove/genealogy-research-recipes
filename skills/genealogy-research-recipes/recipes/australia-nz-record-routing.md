@@ -120,6 +120,12 @@ Gather these before searching:
 - **Read each title's digitised run before you search it.** A zero-hit search outside that run is a coverage gap, not a negative.
 - **Treat a DigitalNZ API search of Papers Past as a first pass.** A key is optional for public content but recommended for regular use [S15]. Re-run any miss on the Papers Past site, and check each hit on the Papers Past page image with the newspaper recipe.
 
+Search Trove's government gazettes as a lane of their own, not only its newspapers. The National Library of Australia lists certificates of naturalisation, employment notices and military service among what they hold [S27 @2026-11-12]. Its gazette guide adds bankruptcies, company registrations and Public Service appointments, and gives the runs: on Trove, the Commonwealth gazette for 1901–2012 and New South Wales for 1832–2001; Victoria's, for 1836–1997, are on a State Library Victoria site instead [S28 @2026-11-12]. Vera Miller points researchers of immigrants from the former Russian Empire and USSR to these lists [S29 @2026-11-12].
+
+Take a naturalisation found in a gazette to the file's custodian for its date. From 1904 naturalisation was a Commonwealth matter and its records are at the National Archives of Australia. Earlier records for Queensland, New South Wales, Tasmania and Western Australia are in those states' archives, and the NAA holds those for Victoria and South Australia [S30 @2026-11-12].
+
+In a Trove keyword search, give at least three letters before the `*` wildcard [S31 @2026-11-12]. A shorter stem is not a valid search of a variably spelled surname, so its zero is not a negative.
+
 ## 9. Search Archives New Zealand in Collections Search
 
 - **Search Collections Search (collections.archives.govt.nz), the live Archives NZ catalogue** [S20]. If an older guide points to another catalogue, re-run its search in Collections Search before you read a miss.

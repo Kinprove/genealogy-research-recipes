@@ -496,6 +496,21 @@ Find a Grave original-image rules were checked on 2026-11-06 against P62–P65 a
   registered user can add a memorial place with photographs and a description. The page does not
   describe moderation, and the portal's search and individual cards were not checked.
 
+- **P96:** Cemety, [cemety.lt](https://www.cemety.lt/), read 2026-11-12. Used for: "Ieškokite tarp
+  2927 kapinių ir 1915979 velionių informacijos" (2,927 cemeteries and 1,915,979 deceased) on that
+  date, search by name and/or surname, cemetery and region, birth and death year with a tolerance
+  of up to ±10 years, and an English interface. The page does not say whether coverage is complete
+  or whether search is free; no individual grave record was opened.
+
+- **P97:** Cemety, [cemety.com.ua](https://www.cemety.com.ua/), read 2026-11-12. Used for: 2
+  cemeteries and 3,953 deceased on that date.
+
+- **P98:** Vera Miller, Lost Russian & Ukrainian Family, [More free cemetery databases are helping to find graves in Eastern European](https://lostrussianfamily.wordpress.com/2025/03/29/more-free-cemetery-databases-are-helping-to-find-graves-in-eastern-european/),
+  published 2025-03-29, read 2026-11-12. Used for: entries giving the full name, birth and death
+  dates, place of burial and exact location in the cemetery, with gravestone photographs. A
+  community blog post; its March 2025 counts are superseded by P96 and P97, and its statement that
+  Cemety's Poland and Romania projects had not moved forward was not checked and is not adopted.
+
 <!-- provenance-ledger:start -->
 ```yaml
 schema: 1
@@ -597,6 +612,9 @@ sources:
   - {"id":"P93","kind":"web-page","urls":["https://www.newkaliningrad.ru/news/community/13389913-kraeved-my-nashli-desyatki-tysyach-oshibok-na-memorialakh-velikoy-otechestvennoy-.html"],"published":"2017-04-26","retrieved":"2026-11-08","access":"read","rights":null,"basis":"published 2017-04-26, read 2026-11-08","entry_sha256":"717f00336f10900c063459284f4c7d6747aa1fba8d973eb5f9923abc4d65afe8","claims":["C-b6736865657a"],"review":"reviewed"}
   - {"id":"P94","kind":"web-page","urls":["https://karel.mk.ru/articles/2015/06/05/v-bratskikh-mogilakh-karelii-pokhoroneny-odni-a-na-plitakh-oboznacheny-drugie.html"],"published":"2015-06-05","retrieved":"2026-11-08","access":"read","rights":null,"basis":"published 2015-06-05, read 2026-11-08","entry_sha256":"280f8a9f23da36abcf3c4ca0bb4eb7220e6ce523205c6773ac087d63dad0fb99","claims":["C-b6736865657a"],"review":"reviewed"}
   - {"id":"P95","kind":"web-page","urls":["https://местопамяти.рф/about"],"published":null,"retrieved":"2026-11-08","access":"read","rights":null,"basis":"read 2026-11-08","entry_sha256":"97024c8d8cf2b474fb1af44b8cef667d064b724331749f335f1827a8c830ebb1","claims":["C-b6736865657a"],"review":"reviewed"}
+  - {"id":"P96","kind":"web-page","urls":["https://www.cemety.lt/"],"published":null,"retrieved":"2026-11-12","access":"read","rights":null,"basis":"read 2026-11-12","claims":["C-21929b1c0c22"],"review":"reviewed","entry_sha256":"7bad3f765dbf7f2ebc2cee91008abb78b62c0d0f5cf8dff3db60867d71b2e8ae"}
+  - {"id":"P97","kind":"web-page","urls":["https://www.cemety.com.ua/"],"published":null,"retrieved":"2026-11-12","access":"read","rights":null,"basis":"read 2026-11-12","claims":["C-21929b1c0c22"],"review":"reviewed","entry_sha256":"bf8e147ad391138dce037da3bfd770013d413795a8e72656d220487bf794bd87"}
+  - {"id":"P98","kind":"web-page","urls":["https://lostrussianfamily.wordpress.com/2025/03/29/more-free-cemetery-databases-are-helping-to-find-graves-in-eastern-european/"],"published":"2025-03-29","retrieved":"2026-11-12","access":"read","rights":null,"basis":"read 2026-11-12","claims":["C-21929b1c0c22"],"review":"reviewed","entry_sha256":"7d5d0ce1bc51682ecc65ba0f4e6c6c45d35329f471fc0a342453716beacf418b"}
 claims:
   - {"id":"C-25c0eca0df7d","kind":"unclassified","anchor":"Choose a database that covers the plausible cemetery or locality. In JOWBR, check the cemetery\ninventory, including the cemetery section, before treating a name search as a coverage test.\nJOWBR can contain inscriptions, cemetery-register information or published material, and a\nphotograph is present only when one was submitted. [O1]","sources":["O1"],"checked":null,"stated_as":null,"review":"pending"}
   - {"id":"C-75c394e49987","kind":"unclassified","anchor":"Save each candidate's URL and the displayed cemetery/section. Open the full burial record when\navailable; in JOWBR the headstone icon identifies a supplied photograph, and **View Full Burial\nRecord** exposes the available fields and image. Leave missing fields empty. A result without a\nphotograph remains a useful locator, but the inscription has not been examined. [O1]","sources":["O1"],"checked":null,"stated_as":null,"review":"pending"}
@@ -656,9 +674,11 @@ claims:
   - {"id":"C-a52d480c994c","kind":"unclassified","anchor":"Choose the next retrieval action from the gap: a clearer photograph for uncertain letters, a\ncemetery register for an unlabelled burial date, or the underlying civil record for a conflicting\ndeath date. Finding a death record does not guarantee that a burial record will be found, and\nfinding a burial record does not guarantee a death record. [P2]","sources":["P2"],"checked":null,"stated_as":null,"review":"pending"}
   - {"id":"C-b6736865657a","kind":"historical","anchor":"On a Soviet WWII mass grave (братская могила), a name on the plate may belong to a soldier buried\nelsewhere. A press report from Karelia describes a plate cut in 1965 from a military\ncommissariat's unchecked list of the dead. [P94] A Kaliningrad researcher interviewed in the press\ndescribes names moved without the remains when mass graves were consolidated. [P93] Under a 2023\nMinistry of Defence letter, a soldier wrongly counted at a second burial is removed from its list\nbut his name normally stays on its plate. [P92] A user-contributed photograph of a plate, for\nexample on «Место памяти», shows only what is inscribed: record the contributor, date and page\nlocator. [P95]","sources":["P92","P93","P94","P95"],"checked":"2026-11-08","stated_as":"observation","review":"reviewed"}
   - {"id":"C-7e026a0cf74f","kind":"custody","anchor":"For a burial in Russia, the record to check is the burial's passport (учётная карточка), the main\ndocument for registering and identifying a military burial: the local administration drafts it and\nsigns it with the military commissariat, and each keeps a copy. [P92 @2026-11-08] Its named list\nmarks each person as «увековечен» (named on the plate) or «не увековечен» (not named), so absence\nfrom the plate is not absence from the burial.","sources":["P92"],"checked":"2026-11-08","stated_as":"fact","review":"reviewed"}
+  - {"id":"C-21929b1c0c22","kind":"portal-availability","anchor":"For a Lithuanian burial, search cemety.lt, Cemety's Lithuanian site. On 2026-11-12 it\nlisted 2,927 cemeteries and 1,915,979 deceased, searchable by name, cemetery and region and by\nbirth and death year with a tolerance of up to ten years, with an English interface\n[P96 @2026-11-12]. The Ukrainian site, cemety.com.ua, then listed only 2 cemeteries and 3,953\ndeceased, so a miss there is not a negative [P97 @2026-11-12]. Vera Miller reports that entries\ngive the full name, birth and death dates, the cemetery and the grave's location, with gravestone\nphotographs [P98 @2026-11-12]. Read a hit against its photograph or the cemetery's own record.","sources":["P96","P97","P98"],"checked":"2026-11-12","stated_as":"fact","review":"reviewed"}
 ```
 <!-- provenance-ledger:end -->
 
 ## Credits
 
 - Kinprove — original procedural synthesis of the attributed cemetery, gravestone and burial-record workflows — FSL-1.1-MIT (kinprove-original)
+- Vera Miller, Lost Russian & Ukrainian Family, More free cemetery databases are helping to find graves in Eastern European, 2025-03-29, cited as P98 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
