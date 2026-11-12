@@ -288,7 +288,52 @@ the relevant workflow. Community references:
     Used for the statement that most C-Files exist only on microfilm. The same page
     says Visa Files, Registry Files and A-Files exist only on paper, so the recipe
     names no record type as delivered digitally.
+61. Sunny Jane Morton, FamilySearch Blog, *Castle Garden: Immigration Before Ellis Island*,
+    published 2018-07-14, read 2026-11-12.
+    <https://www.familysearch.org/en/blog/ny-castle-garden-ellis-island>
+    Used for ship captains giving passenger lists to U.S. customs officials from 1820. Its
+    list of FamilySearch collections is not used as current coverage.
+62. MyHeritage Knowledge Base, *Ellis Island & New York Passenger Lists: The Gateway to Your
+    U.S. Immigrant Heritage*, published 2026-06-10, read 2026-11-12.
+    <https://education.myheritage.com/article/ellis-island-new-york-passenger-lists-the-gateway-to-your-u-s-immigrant-heritage/>
+    Used for New York passenger lists before 1855 being collected at the ship's assigned pier,
+    with no immigration station. Its opening date of 2 January 1892 for Ellis Island is
+    replaced by the Foundation's 1 January 1892 (N63).
+63. Statue of Liberty–Ellis Island Foundation, *Overview + History*, undated, read 2026-11-12.
+    <https://www.statueofliberty.org/ellis-island/overview-history/>
+    Used for Castle Garden as the Port of New York's immigration station from 1855 to 1890, the
+    Barge Office during construction, Ellis Island receiving immigrants from 1 January 1892,
+    the June 1897 fire and the renewed use of the Barge Office, the new main building opening
+    on 17 December 1900, and the manifests for entries before June 1897 burning while the
+    Customs Lists remain.
+64. MyHeritage Knowledge Base, *More Than Immigration Records: Exploring Border Crossings
+    from Canada Collection on MyHeritage*, published 2025-05-18, read 2026-11-12.
+    <https://education.myheritage.com/article/spotlight-on-the-united-states-border-crossings-from-canada-1895-1956-collection-on-myheritage/>
+    Used for the collection recording American citizens visiting Canada, tourists and people
+    on work trips as well as emigrants from Canada.
+65. MyHeritage Blog, *MyHeritage Releases New Historical Record Collection: United States,
+    Border Crossings from Canada 1895–1956*, published 2021-02-12, read 2026-11-12.
+    <https://blog.myheritage.com/2021/02/myheritage-releases-new-historical-record-collection-united-states-border-crossings-from-canada-1895-1956/>
+    Used for the statement that many records in the collection concern U.S. or Canadian
+    citizens passing through the border for work or travel. It does not name the NARA series.
+66. FamilySearch, *United States, Index to Alien Case Files, 1940-2003* (collection 2540918),
+    read 2026-11-12.
+    <https://www.familysearch.org/en/search/collection/2540918>
+    Used for the index covering A-Files at the National Archives in Kansas City and the
+    warning that files from the Guam, Honolulu, Reno and San Francisco districts, held at San
+    Bruno, may not be included.
+67. Vera Miller, Lost Russian & Ukrainian Family, *NARA's two databases ease searches of its
+    collection of 1.7 million most valuable immigration files*, published 2025-05-17,
+    read 2026-11-12.
+    <https://lostrussianfamily.wordpress.com/2025/05/17/naras-two-databases-ease-searches-of-its-collection-of-1-7-million-most-valuable-immigration-files/>
+    Used for the author's note that FamilySearch's A-File database is incomplete and not up
+    to date. Its 1869–1924 birth-year range and its counts are not adopted; step 11 uses
+    NARA's own transfer rule and counts (47).
 
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
+- FamilySearch, Sunny Jane Morton, Castle Garden: Immigration Before Ellis Island, and the United States, Index to Alien Case Files, 1940-2003 collection page, cited as N61 and N66 — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
+- MyHeritage Knowledge Base articles on New York passenger lists and on the Border Crossings from Canada collection, and the MyHeritage Blog release notice, cited as N62, N64 and N65 — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
+- Statue of Liberty–Ellis Island Foundation, Overview + History, cited as N63 — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
+- Vera Miller, Lost Russian & Ukrainian Family, NARA's two databases ease searches of its collection of 1.7 million most valuable immigration files, cited as N67 — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)

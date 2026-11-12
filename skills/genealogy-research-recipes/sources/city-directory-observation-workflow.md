@@ -94,11 +94,12 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   conveyance or renumbering.
 
 - **S24:** CompGen Blog, News-Redaktion, [Adressbuch mit unerwartetem Inhalt entdeckt](https://www.compgen.de/2023/02/adressbuch-mit-unerwartetem-inhalt-entdeckt/),
-  17 February 2023. Used for identifying an address-book auxiliary section that labels
+  published 2023-02-17, read 2026-11-12. Used for identifying an address-book auxiliary section that labels
   land-register references. Keeping its heading, locality, street/house wording and land number
   as separate fields and passing the reference to the land-index workflow are Kinprove synthesis.
   The post's illustrated table is missing; it does not establish fields in another volume or
-  prove ownership.
+  prove ownership. Also used for: data entered through DES being searchable by anyone at once,
+  stated while new address-book projects were being prepared for entry.
 
 - **S25:** CompGen, [CompGen-Adressbuch-Datenbank in der Deutschen Nationalbibliothek](https://www.compgen.de/?p=58032),
   5 April 2023; opened 2026-11-04. Used for: the Datenbank Historischer Adressbücher as a free
@@ -116,6 +117,15 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   stated trade in the town before naming an employer. Listing every match with its locators and
   keeping even a unique match as an inference are Kinprove synthesis.
 
+### Destination-note and DES sources
+
+- **S28:** CompGen, [Data Entry System (DES)](https://des.genealogy.net/), read 2026-11-12. Used for: captured data being immediately searchable, with a search across all projects.
+- **S29:** MyHeritage Education, Melanie G., [City Directories: What They Are and How They Can Help You Research Your Family History](https://education.myheritage.com/article/city-directories-what-they-are-and-how-they-can-help-you-research-your-family-history/), read 2026-11-12. Used for: some directories adding "moved to" notes when prominent residents moved away, as leads to migrations and new sources.
+- **S30:** Jana Iverson Last, Jana's Genealogy and Family History Blog, [Ancestor Relocation Information in US-City Directories](https://janasgenealogyandfamilyhistory.blogspot.com/2024/10/ancestor-relocation-information-in-us.html), published 2024-10-11, read 2026-11-12. Used for: "removed to" and a place printed in place of a street address, the 1891 Seattle entry "removed to S F, Cal.", and the author's same-name candidate in the 1891 San Francisco directory, which she does not confirm as the same man.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
+- CompGen, News-Redaktion blog post and DES start page, cited as S24 and S28 — Third-party web content; facts paraphrased with attribution, not relicensed (adapted)
+- MyHeritage Education article, cited as S29 — Third-party content, all rights reserved by the publisher; short adapted paraphrase with attribution (adapted)
+- Jana Iverson Last, Jana's Genealogy and Family History Blog, cited as S30 — Third-party blog; no explicit licence; paraphrase with attribution and a short quotation of directory wording (adapted)

@@ -129,10 +129,14 @@ The linked inventory/queue schema and scope-completion rule are original synthes
 
 - **S21:** Alice Childs / Family Locket,
   [Part 6: Pennsylvania Germans: Probate Records](https://familylocket.com/part-6-pennsylvania-germans-probate-records/),
-  2022-03-11 (saved publication metadata). Used for the probate-key example: locating the
+  published 2022-03-11, read 2026-11-12. Used for the probate-key example: locating the
   collection's master legend before decoding a coded document key, and comparing the listed
   components with the inspected documents. A contents key is not taken as certifying complete
-  survival or inspection.
+  survival or inspection. Also used for the split of Pennsylvania probate series between the
+  Register of Wills and the Orphans' Court, for taking an index's book and page into
+  FamilySearch's browse-only Pennsylvania, Probate Records, 1683-1994, and for the county,
+  volume and image path in its citations. Its figure of images for 97% of counties in
+  Ancestry's collection was not checked and is not used.
 
 - **S22:** Roberta Estes / DNAeXplained,
   [New Information About Philip Jacob Miller (c1726-1799) and Magdalena Possibly Rochette (c1730-1800/1808) – 52 Ancestors #404](https://dna-explained.com/2023/07/16/new-information-about-philip-jacob-miller-c1726-1799-and-magdalena-possibly-rochette-c1730-1800-1808-52-ancestors-404/),
@@ -186,7 +190,20 @@ The linked inventory/queue schema and scope-completion rule are original synthes
 - **S37:** Judy G. Russell, The Legal Genealogist, [Awaiting the widow's thirds](https://www.legalgenealogist.com/2023/03/16/awaiting-the-widows-thirds/), published 2023-03-16, read 2026-11-08. Used for: McHenry County 1880 bill example and its limits.
 - **S38:** Judy G. Russell, The Legal Genealogist, [Legal alphabet soup](https://www.legalgenealogist.com/2022/12/13/legal-alphabet-soup/), published 2022-12-13, read 2026-11-08. Used for: reported probate court docket printed in a local newspaper.
 
+### Pennsylvania series and estate-sale sources
+
+- **S39:** Genealogy Quest, [Adams County, Pennsylvania, Orphans' Court](https://genealogy-quest.com/probate-records/adams-county-pennsylvania-probate-records/adams-county-pennsylvania-orphans-court/), read 2026-11-12. Used for: the Orphans' Court appointing guardians to protect minors' property rights and overseeing the administration, partition and distribution of estates.
+- **S40:** Pennsylvania State Archives, [RG-47 Series Titles – Microfilm: County Governments](https://www.phmc.state.pa.us/bah/dam/rg/rg47m.htm), read 2026-11-12. Used for: county will books, estate indexes and Orphans' Court dockets listed under the Register of Wills and Clerk of the Orphans' Court, and state law consolidating the offices of register of wills, clerk of the orphans' court and others in the smaller class counties. Office headings differ between counties in the list, so one heading is not taken as the rule for every county.
+- **S41:** FamilySearch, [Pennsylvania, Probate Records, 1683-1994](https://www.familysearch.org/en/search/collection/1999196), read 2026-11-12. Used for: county probate images for 1683–1994, browsed through waypoints on the collection browse page; 3,200,560 images and 52 indexed personas when read.
+- **S42:** Cyndi's List, [Wills & Probate – Pennsylvania](https://www.cyndislist.com/wills/us/pa), read 2026-11-12. Used for: Ancestry's Pennsylvania, U.S., Wills and Probate Records, 1683-1993, with searchable indexes and some digitized images by subscription, and the FamilySearch collection as browsable by county. Ancestry's own collection page refused automated access and was not read.
+- **S43:** Jan Joyce / Family Locket, [From Chaos to Clarity: How Merging & Separating Identity Techniques Identified David Dewitt’s Father](https://familylocket.com/from-chaos-to-clarity-how-merging-separating-identity-techniques-identified-david-dewitts-father/), published 2026-02-24, read 2026-11-12. Used for: the buyers at an 1821 estate sale, among them the administrator and the buyer of the family Bible, whom the author identified as sons of the deceased from other records. The post's county name for the 1821 sale and its remark that administration was typically a son's role are not used.
+- **S44:** Michael John Neill, Genealogy Tip of the Day, [Buyers at Estate Sales](https://genealogytipoftheday.com/index.php/2018/06/18/buyers-at-estate-sales/), published 2018-06-18, read 2026-11-12. Used for: estate-sale buyers as people who likely knew the deceased, including relatives and associates; starting with buyers of more than two items; and the author's comment that sale lists are usually with the inventory, in case files or in sales record books.
+
 ## Credits
 
 - Judy G. Russell, The Legal Genealogist blog, posts cited as S26, S29, S32, S33, S37, S38 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Kinprove — original distillation and synthesis, including the bounded reverse-guardian search and role checks attributed to S18 and Swedish production/copy retrieval controls attributed to S24 — FSL-1.1-MIT (kinprove-original)
+- Alice Childs and Jan Joyce, Family Locket, posts cited as S21 and S43 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Michael John Neill, Genealogy Tip of the Day, Buyers at Estate Sales, cited as S44 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Genealogy Quest, Cyndi's List and FamilySearch pages cited as S39, S41 and S42 — Third-party web pages; facts paraphrased with attribution, not relicensed (adapted)
+- Pennsylvania Historical and Museum Commission, Pennsylvania State Archives RG-47 series list, cited as S40 — Pennsylvania government web page; facts paraphrased with attribution (adapted)

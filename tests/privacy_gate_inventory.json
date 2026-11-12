@@ -408,6 +408,12 @@
   "checkpoint": "A Bureau of Prisons, department of corrections or state archives request asks for a file about an inmate who may be living"
  },
  {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "request",
+  "action": "expect to use the originals at Kew or order copies",
+  "checkpoint": "An order for copies of assize records names the defendant, the charge and the trial"
+ },
+ {
   "recipe": "descendancy-gap-worklist.md",
   "kind": "export",
   "action": "For exporting the corrected tree as GEDCOM, see [Export research findings to a GEDCOM file",
@@ -1030,6 +1036,12 @@
   "kind": "contact",
   "action": "FTJP submissions are not validated by JewishGen. Ask for the underlying record only if contact is authorized.",
   "checkpoint": "Messaging a JGFF researcher or FTJP tree submitter contacts a living stranger"
+ },
+ {
+  "recipe": "missing-marriage-jurisdiction-search.md",
+  "kind": "request",
+  "action": "Ask each county's clerk or archive for its loose marriage records as well as the bound books",
+  "checkpoint": "A request for loose marriage papers sends the couple's names, the marriage date and the county"
  },
  {
   "recipe": "myheritage-dna-match-investigation.md",

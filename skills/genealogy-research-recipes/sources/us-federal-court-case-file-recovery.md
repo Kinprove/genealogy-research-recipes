@@ -22,9 +22,21 @@ as the presenters reported them. No AI transcription method is adopted here.
 - **S12:** [Judicial Records (National Archives)](https://www.archives.gov/research/court-records/archives), read 2026-11-08. Used for: court record groups in the Guide to Federal Records.
 - **S13:** Judy G. Russell, The Legal Genealogist, [Judging the records (The Legal Genealogist)](https://www.legalgenealogist.com/2022/05/03/judging-the-records/), published 2022-05-03, read 2026-11-08. Used for: the judge-to-court method.
 
+### Regional facility sources
+
+- **S14:** Michelle Mickelson, Family Locket, [Southwestern United States Research: Key Records and Repositories Part 1 – Understanding Federal, State, and Local Records](https://familylocket.com/southwestern-united-states-research-key-records-and-repositories-part-1-understanding-federal-state-and-local-records/), published 2024-01-06, read 2026-11-12. Used for: the Denver, Riverside and San Francisco split of the Southwestern states, with Clark County, Nevada at Riverside.
+- **S15:** National Archives at Riverside, [Historical Research](https://www.archives.gov/riverside/historical-research.html), page last reviewed 2020-12-17, read 2026-11-12. Used for: holdings created or received by federal courts and agencies in Arizona, southern California and Clark County, Nevada.
+- **S16:** National Archives at San Francisco, [The National Archives at San Francisco](https://www.archives.gov/san-francisco), read 2026-11-12. Used for: permanent records of federal agencies and courts in northern and central California, Nevada except Clark County, Hawaii and Pacific areas; the notice that the facility will close in the next few years while reference services continue.
+- **S17:** National Archives at Denver, [The National Archives at Denver](https://www.archives.gov/denver), page last reviewed 2024-09-27, read 2026-11-12. Used for: permanent records of federal agencies and courts in Colorado, Montana, New Mexico, North Dakota, South Dakota, Utah and Wyoming.
+- **S18:** National Archives, [Researcher Updates](https://www.archives.gov/research/news), read 2026-11-12. Used for: the June 2026 notice that the Chicago and San Francisco facilities will close; the August 2026 relocation plan sending San Francisco's RG 21, RG 276 and RG 578 and Chicago's RG 21 and RG 578 to Kansas City, with the archival records to remain accessible in their new locations.
+- **S19:** State of California Department of Justice, Office of the Attorney General, [Attorney General Bonta Sues to Block Closure of San Francisco National Archives](https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-block-closure-san-francisco-national-archives), published 2026-10-14, read 2026-11-12. Used for: the suit filed in the U.S. District Court for the Northern District of California to vacate the closure decision and stop the transfer of records. No ruling was found.
+
 ## Credits
 
 - Judy G. Russell, The Legal Genealogist blog, posts cited as S13 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - BYU Family History Library / James Tanner, Legal Notices for Genealogists, 2017-01-19 — Third-party, all rights reserved; short attributed quotation (quoted)
 - Genealogy Gems Podcast Episode 235, interview with Michael Hait, 2019-11-13 — Third-party, all rights reserved; short attributed adaptation (adapted)
 - Kinprove original procedural synthesis; court history, examples and retrieval experience cited as S1, S2, S3; custody, index location, appellate routing and appointment facts checked against NARA pages; bankruptcy custody and act dates cited as S4 to S8 — FSL-1.1-MIT (kinprove-original)
+- Michelle Mickelson, Southwestern United States Research: Key Records and Repositories Part 1, Family Locket, cited as S14 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- U.S. National Archives and Records Administration, facility and Researcher Updates pages, cited as S15 to S18 — U.S. federal government work; paraphrase with attribution (adapted)
+- California Office of the Attorney General, press release of 2026-10-14, cited as S19 — Public state government press release; paraphrase with attribution (adapted)

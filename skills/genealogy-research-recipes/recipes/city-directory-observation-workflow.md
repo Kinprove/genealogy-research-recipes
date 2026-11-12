@@ -90,6 +90,8 @@ The worksheets below work with manually read images or copied index rows.
 
    A database no-hit is not an inspected-edition negative. Check CompGen's GenWiki address-book portal for whether that edition is listed in DigiBib but not yet transcribed, or was transcribed only partly (for example, only up to a certain surname). If so, page through the DigiBib scans. Where the volume's alphabetical name register has been broken down for navigation, as in some big-city series, jump through it to the surname. Record which layer you searched: transcribed database or page images. [S26]
 
+   Do not skip an address book whose DES transcription is still in progress: data entered through DES can be searched by anyone at once, so a partly entered book can already return hits [S24 @2026-11-12], [S28 @2026-11-12]. A miss in such a book is the partial-transcription case above, not a negative.
+
 **Artifact:** One coverage row per edition and relevant section:
 repository, directory title, edition year, locality/section, available/access status,
 section image range, inspected range, abbreviation-key locator and result.
@@ -186,6 +188,8 @@ each printed address or an exact move date. Keep an unstated time basis unknown.
 7. For a located former-resident entry with a reported later locality, use that place for
    one bounded follow-up, such as a later directory or a relevant civil-register search there.
    Keep it as a source-attributed lead; it does not establish a move at the edition date. [S4]
+
+   Before treating a person's disappearance from the main list as a dead end, read the entries in the editions around it for a destination printed in place of a street address, such as 'removed to' or 'moved to' and a place, sometimes abbreviated: an 1891 Seattle entry reads 'removed to S F, Cal.' Copy the note as printed and use the place for one bounded follow-up, such as that city's directory for the same and next years. A same-name hit there is a candidate, not a match, and the edition year is not the date of the move. [S29], [S30]
 
    In a former-resident list, also read the other rows under the target's former house number. Their later addresses are leads to where the household went, not evidence of a tie; in a large city a shared address can be coincidence. Copy 'über' or 'üb.' places as printed. They name the delivering post office, not the residence. Confirm the place in that locality's own directory before searching there, and check the supplement, where a later entry may give another form. An [expellee address-book discussion](https://forum.ahnenforschung.net/forum/thread/3014348/) shows both checks. It does not establish the co-resident link.
 8. Copy 'widow', 'wid of' or a printed death note exactly, as the status reported in that

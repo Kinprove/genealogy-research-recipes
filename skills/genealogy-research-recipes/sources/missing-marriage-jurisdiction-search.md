@@ -40,7 +40,16 @@ The ranked list, its columns and outcome codes, the separate issuing and ceremon
 - **S30:** [Marriages, Fairfax County Circuit Court](https://www.fairfaxcounty.gov/circuit/historic-records-center/marriages), read 2026-11-08. Used for: bond as the step for obtaining a Virginia licence.
 - **S31:** [A Dictionary of Law (Black, 1891), full text](https://archive.org/stream/dictionaryof_blac_1891_00_20160211/dictionaryof_blac_1891_00_20160211_djvu.txt), read 2026-11-08. Used for: special licence dispensing with publication of banns in English law. The entry does not address American jurisdictions.
 
+### Loose marriage record sources
+
+- **S32:** Melissa Barker, MyHeritage Knowledge Base, [Loose Records: A Treasure Trove for Genealogists](https://education.myheritage.com/article/loose-records-a-treasure-trove-for-genealogists/), no date shown on the page, read 2026-11-12. Used for: loose marriage records as paperwork archived apart from the bound volumes, rarely digitized, including affidavits, parental permission letters for underage brides and grooms, bonds and blood-test results; asking the archivist, clerk or librarian for them.
+- **S33:** Melissa Barker, A Genealogist in the Archives, [Loose Marriage Records....What Are They?](https://agenealogistinthearchives.blogspot.com/2017/11/loose-marriage-records.html), published 2017-11-15, read 2026-11-12. Used for: loose marriage records as the working papers of the licensing process, separate from the bound volumes; parental permission letters and blood-test results among them; most files in the Houston County, Tennessee Archives (1871–2010) holding a copy of the original licence; very few online. The same author as S32, writing as the county archivist.
+- **S34:** Maureen A. Taylor, Family Tree Magazine, [12 Types of Marriage Records to Research](https://familytreemagazine.com/records/vital/marriage-records-checklist/), first published in the March/April 2012 issue, page last updated 2026-09-28, read 2026-11-12. Used for: marriage bonds as documents separate from licences; guardians' consent affidavits, most common in the South and on the frontier, among town and county records.
+
 ## Credits
 
 - Judy G. Russell, The Legal Genealogist blog, posts cited as S28 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Kinprove original procedural synthesis; presenter worked examples and named tools cited as S1, S4 to S16; state record facts and PERSI hosting from the custodians' pages S17 to S26, paraphrased — FSL-1.1-MIT (kinprove-original)
+- Melissa Barker, Loose Records: A Treasure Trove for Genealogists, MyHeritage Knowledge Base, cited as S32 — Third-party content, all rights reserved by the publisher; paraphrase with attribution (adapted)
+- Melissa Barker, Loose Marriage Records....What Are They?, A Genealogist in the Archives, cited as S33 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Maureen A. Taylor, 12 Types of Marriage Records to Research, Family Tree Magazine, cited as S34 — Third-party content, all rights reserved by the publisher; paraphrase with attribution (adapted)

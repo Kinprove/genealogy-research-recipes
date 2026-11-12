@@ -35,6 +35,13 @@ Not verified:
 - the coverage of the online platform a860-historicalvitalrecords.nyc.gov (no date ranges are given for it here); its certificate-number search rules come from the site's own pages (S15), read through search results
 - the 1880 start sometimes given for the Death Registration Area (the formal area dates from 1900, S13)
 
+### Index-matching sources
+
+- **S20:** Nicole Elder Dyer, Family Locket, [Unearthing an Oklahoma Death Certificate Buried Under Tricky Handwriting](https://familylocket.com/unearthing-an-oklahoma-death-certificate-buried-under-tricky-handwriting/), published 2026-06-21, read 2026-11-12. Used for: smaller state and county indexes without phonetic matching, so that a one-letter misreading (Bane for Bone) defeated every name search; the name-free search by sex, county and death month and year that found the 1928 entry a day off the headstone date; the initials search `M* B*` with the year that the author found in hindsight.
+- **S21:** Oklahoma State Department of Health, [OK2Explore death record search](https://ok2explore.health.ok.gov/App/DeathSearch), read 2026-11-12. Used for: the page's search tips: only exact matches returned, an asterisk as a wildcard in any field, blank fields acting as wildcards, searches matching more than 15 records to be narrowed, and ±1, 2 or 5-year date ranges. The page also warns that its index contains errors from handwriting and typing.
+
 ## Credits
 
 - Kinprove original procedural synthesis; presenter examples are cited as S1 to S10 and S14 and dates were checked against named archival and vital-records authorities, including the Pennsylvania State Archives municipal records inventory — FSL-1.1-MIT (kinprove-original)
+- Nicole Elder Dyer, Unearthing an Oklahoma Death Certificate Buried Under Tricky Handwriting, Family Locket, cited as S20 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Oklahoma State Department of Health, OK2Explore death record search tips, cited as S21 — Public state government web page; paraphrase with attribution (adapted)
