@@ -143,6 +143,15 @@ explanations for disagreement; the discrepancy alone does not select its cause.
 Family Finder 5.0 is one documented example of processed output, not an unfiltered
 reference instrument. [H3]
 
+When the missing match is a tested relative documented as a second cousin or closer, do not stop
+at reporting floors and settings. First confirm that the comparison exists: both kits are in the same database, both take part in
+matching, and neither match is hidden. A confirmed zero at that distance is then a strong signal
+that the documented relationship is wrong or that a kit is not its tester's own; beyond that
+distance, read the missing match only as a clue. Locate the break with relationship-specific DNA
+evidence before recording misattributed parentage, as
+[family-level DNA reasoning](ai-for-dna-research.md#what-to-never-trust-or-delegate-verify-or-dont)
+describes.
+
 When one match person appears under several kits (different chips, a self-converted file, a
 sequencing extract), keep a separate row for each kit against the same tester. Record its
 platform, any conversion before upload, any imputation by the receiving site, and the
