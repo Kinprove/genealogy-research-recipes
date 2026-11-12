@@ -3,11 +3,10 @@ id: "historical-map-record-recovery"
 title: "Recover and read historical maps as dated, copy-specific evidence"
 summary: "Read a fire-insurance sheet, atlas, plat, quadrangle or overlay as a dated observation; trace a detached archival map toward its possible originating case."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Read a fire-insurance sheet, atlas, plat, quadrangle or overlay as a dated observation; trace a detached archival map toward its possible originating case."]}
-triggers: ["Read a fire-insurance sheet", "atlas", "plat", "quadrangle", "overlay as a dated observation", "trace a detached archival map toward its possible originating case"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "HISTORICAL-MAP-RECORD-RECOVERY-01", "text": "a candidate case link or estimated map date does not establish the depicted event or a same-named person's identity."}]
+guardrails: [{"id": "HISTORICAL-MAP-RECORD-RECOVERY-01", "text": "retain the map-to-case link as a candidate until the records establish it. Keep the estimated map-production date, the case-file span and any dated event statements separate. Seek the case's actual statements before dating the depicted event or moving a same-named person to another generation."}]
 handoff: ["french-departmental-record-routing", "galicia-bukovina-habsburg-record-routing", "german-register-image-recovery", "historical-place-name-resolution"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"

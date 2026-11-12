@@ -3,11 +3,10 @@ id: "school-university-record-recovery"
 title: "Recover a pupil or student through school, district, copy and later-file layers"
 summary: "Recover a pupil or student across school, educational-district, parallel-copy, yearbook and later-file layers."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover a pupil or student across school, educational-district, parallel-copy, yearbook and later-file layers."]}
-triggers: ["Recover a pupil", "student across school", "educational-district", "parallel-copy", "yearbook and later-file layers"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "SCHOOL-UNIVERSITY-RECORD-RECOVERY-01", "text": "absence from a compiled or published list does not show that the person never attended."}]
+guardrails: [{"id": "SCHOOL-UNIVERSITY-RECORD-RECOVERY-01", "text": "A compiled or published list is a lead with limited coverage. Absence from it does not show that the person never attended."}]
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
@@ -28,7 +27,7 @@ Use this recipe when family memory, a photograph or a later document puts someon
 
 A compiled or published list is a lead with limited coverage. Absence from it does not show that the person never attended.
 
-Related recipes cover overlapping steps. For index hits that are not proof a file exists, and for keeping a copy-holder's item (such as a CAHJP film) separate from the original repository's signature, use [archival image coverage verification](archival-image-coverage-verification.md). For an archive's "no records" reply and for identity rulings, use [evidence/proof judgment](evidence-proof-judgment.md). For Cyrillic, Latin and Hebrew spelling expansion, use the catalogue's recipe on recovering attested spellings across scripts and OCR. For Ukrainian case titles that only look like named lists, use [Jewish archival list triage](jewish-archival-list-triage.md). For names that changed at conversion or re-registration, use [Russian-Empire Jewish identity attribution](russian-empire-jewish-identity-attribution.md).
+Related recipes cover overlapping steps. For index hits that are not proof a file exists, and for keeping a copy-holder's item (such as a CAHJP film) separate from the original repository's signature, use [archival image coverage verification](archival-image-coverage-verification.md). For an archive's "no records" reply and for identity rulings, use [evidence/proof judgment](evidence-proof-judgment.md). For Cyrillic, Latin and Hebrew spelling expansion, use [corpus-seeded name searches across scripts and OCR](corpus-seeded-name-search.md). For Ukrainian case titles that only look like named lists, use [Jewish archival list triage](jewish-archival-list-triage.md). For names that changed at conversion or re-registration, use [Russian-Empire Jewish identity attribution](russian-empire-jewish-identity-attribution.md).
 
 ## Contents
 
@@ -143,6 +142,14 @@ Related recipes cover overlapping steps. For index hits that are not proof a fil
   - Read the Typ field as the qualification. A Verbandszeugnis is the certificate of a preliminary chemistry examination required before the doctorate or diploma examination; it is not a degree. Link one person's separate entries, which may be at different institutions, into a dated sequence. [S22], [S25]
   - Entries often give place of origin, prior schooling and the supervising professor. Check each dissertation against the *Jahresverzeichnis der Deutschen Hochschulschriften*. [S22]
 - Use the higher-school route to find the school too. Entry to a university required a gymnasium certificate, earned either by study or as an external candidate. [S1], [S4]
+
+**Königsberg, Danzig, Elbing and Thorn, from 1544.** Do not look for printed dissertations only at universities: the academic gymnasia of Danzig, Elbing and Thorn printed them too. Search the databases of the Arbeitsstelle für kulturwissenschaftliche Forschungen (AKF) in Engi, which CompGen describes as freely accessible [S26 @2026-11-12], [S30 @2026-11-12]. The Danzig, Elbing and Thorn database holds 711 records [S28 @2026-11-12] and the Königsberg student database 24,822 [S29 @2026-11-12]. Search them this way:
+
+- *Königsberger Universitätsschriften und Promotionen 1544 bis 1905*: search by respondent or doctoral candidate, praeses, title, date, faculty, printer and holding library [S27 @2026-11-12].
+- *Dissertationen des Akademischen Gymnasiums Danzig, des Gymnasiums Elbing und Thorner Gymnasiums*: browse by document, person, role, school, faculty and city [S28 @2026-11-12].
+- *Königsberger Studenten von 1829 bis 1921*: search by name, given name, place of origin, semester and faculty or subject [S29 @2026-11-12].
+
+Record each person's role in a hit. The respondent or candidate is the student; the praeses presided over the disputation. A dissertation can name the student's home town: CompGen's report on these databases shows a 1710 Danzig dissertation by a student from Belgard in Pomerania [S30].
 
 ## 6. Read the full original list, not a filtered extract
 

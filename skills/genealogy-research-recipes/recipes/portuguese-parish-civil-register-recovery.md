@@ -3,11 +3,10 @@ id: "portuguese-parish-civil-register-recovery"
 title: "Recover a Portuguese ancestor in the parish and civil registers of mainland Portugal, the Azores and Madeira"
 summary: "Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books or the civil register."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books or the civil register."]}
-triggers: ["Find a baptism", "marriage", "death in mainland Portugal", "the Azores", "Madeira in the parish books", "the civil register"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "PORTUGUESE-PARISH-CIVIL-REGISTER-RECOVERY-01", "text": "do not treat Portuguese records like Spanish or Hispanic ones: choose the register by date and religion, find which archive holds the book before calling it missing, and do not read the first surname as the father's."}]
+guardrails: [{"id": "PORTUGUESE-PARISH-CIVIL-REGISTER-RECOVERY-01", "text": "Use it before you treat Portuguese records like Spanish or Hispanic ones. That mistake leads to four failures: searching a civil register that did not cover the person, looking in the wrong archive, reading the first surname as the father's, and calling a book missing when another archive holds it."}]
 handoff: []
 checked: "2026-10-23"
 checked_basis: "checked on 2026-10-23"

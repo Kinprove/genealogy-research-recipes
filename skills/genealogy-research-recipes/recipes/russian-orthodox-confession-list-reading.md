@@ -3,11 +3,10 @@ id: "russian-orthodox-confession-list-reading"
 title: "Read Russian Orthodox confession lists household by household across years"
 summary: "Read Russian Orthodox confession lists by household across years, test ages and names, and check them against revision lists and metrical books."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Read a Russian Orthodox confession list (исповедная ведомость, исповедная роспись) by household across years, test its ages and names, and check it against revision lists and metrical books."]}
-triggers: ["Read a Russian Orthodox confession list by household", "Compare исповедные ведомости across years", "исповедная роспись or духовная роспись of the Russian Empire"]
+scope: {"platforms": [], "tasks": ["исповедная ведомость, исповедная роспись or духовная роспись of the Russian Empire", "Compare исповедные ведомости across years"]}
 privacy: "none"
 gates: []
-guardrails: [{"id": "RUSSIAN-ORTHODOX-CONFESSION-LIST-READING-01", "text": "a confession list shows who a priest placed in a household in one year; it does not by itself prove a birth date, a marriage, parentage, a death or Old Belief, and every age is a range."}]
+guardrails: [{"id": "RUSSIAN-ORTHODOX-CONFESSION-LIST-READING-01", "text": "The common errors are to read one year as a census, to turn an age into a birth year, to treat a household number as an identifier, and to treat a list entry as proof of a marriage, a parent or a death."}]
 handoff: ["evidence-proof-judgment", "old-believer-sectarian-record-recovery", "orthodox-clergy-record-recovery", "russian-household-list-transcription-audit", "russian-orthodox-metrical-book-recovery", "russian-revision-list-household-chaining"]
 checked: "2026-11-08"
 checked_basis: "opened 2026-11-08"

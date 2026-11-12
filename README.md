@@ -3,8 +3,9 @@
 # Genealogy Research Recipes
 
 One skill instead of many: DNA evidence and record searches across countries, archives and
-testing companies, in one catalog that grows with every release. Every recipe is fact-checked,
-and its sources are listed beside it.
+testing companies, in one catalog that grows with every release. Each recipe lists its sources. The
+[provenance report](https://github.com/Kinprove/genealogy-research-recipes/blob/main/PROVENANCE.md)
+shows which source records have been reviewed and which are still pending.
 
 It is one [Agent Skill](https://code.claude.com/docs/en/skills) for Claude, Codex, Hermes Agent
 and OpenClaw, by [Kinprove](https://kinprove.io). It needs no Kinprove account or API key, registers
@@ -35,14 +36,14 @@ no tools or hooks, and makes no network calls of its own. To set it up, see [Ins
 - **Family papers, photographs and oral history:** [family collection intake and capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md), [family photographs](skills/genealogy-research-recipes/recipes/family-photograph-attribution-and-dating.md), [family papers and Bible registers](skills/genealogy-research-recipes/recipes/family-papers-and-bible-register-dating.md), [family interviews and oral tradition](skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md), [repository photograph collections](skills/genealogy-research-recipes/recipes/repository-photograph-collection-search.md)
 - **DNA workflows and research planning:** [admixture run scope](skills/genealogy-research-recipes/recipes/admixture-model-run-scope.md), [DNA match outreach](skills/genealogy-research-recipes/recipes/dna-match-outreach-staging.md), [descendancy gap worklists](skills/genealogy-research-recipes/recipes/descendancy-gap-worklist.md), [ethnicity-estimate versions](skills/genealogy-research-recipes/recipes/ethnicity-estimate-version-comparison.md)
 
-Each recipe's sources are in [`https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/`](https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/).
+Each recipe's sources are in [`https://github.com/Kinprove/genealogy-research-recipes/blob/d53465ce561c6e8b4f9f4dc4706a0641da7c6c67/skills/genealogy-research-recipes/sources/`](https://github.com/Kinprove/genealogy-research-recipes/blob/d53465ce561c6e8b4f9f4dc4706a0641da7c6c67/skills/genealogy-research-recipes/sources/).
 
 ## Evaluation
 
 CI checks every change offline: each recipe is reachable from the skill, every link resolves,
 and the safeguards that the test cases rely on still appear in the recipes. A second suite gives
 an agent synthetic research questions and checks that it opens the right recipes and follows
-their safeguards. Commands, rules and the latest results: [docs/evaluation.md](https://github.com/Kinprove/genealogy-research-recipes/blob/main/docs/evaluation.md).
+their safeguards. Commands, rules and recorded results: [docs/evaluation.md](https://github.com/Kinprove/genealogy-research-recipes/blob/main/docs/evaluation.md).
 
 ## Install
 
@@ -116,6 +117,9 @@ mentions once per conversation that a newer version may exist and how to update.
 
 The plugin collects, stores and sends nothing by itself. It is text, with an optional script
 (`scripts/lookup_beider_name.py`) that, when bundled, looks up name variants offline on your machine.
+An install from this Git repository also copies its development files: tests, the evaluation
+harness and CI tooling. The plugin never runs them. The ClawHub package and the release
+distributions leave them out.
 Some recipes tell the agent to search public record sites, such as FamilySearch or national
 archives, for the names, places and dates you give it. Those searches run through your agent's
 own web tools, during the research you ask it to do.
@@ -161,7 +165,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [criminal-court-prison-record-recovery](skills/genealogy-research-recipes/recipes/criminal-court-prison-record-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [deed-content-relationship-clues](skills/genealogy-research-recipes/recipes/deed-content-relationship-clues.md) | record catalogues and original images | — | — | — | — | — |
 | [descendancy-gap-worklist](skills/genealogy-research-recipes/recipes/descendancy-gap-worklist.md) | — | — | — | export | — | required |
-| [dna-comparison-controls](skills/genealogy-research-recipes/recipes/dna-comparison-controls.md) | — | — | — | export, third-party-tool | — | required |
+| [dna-comparison-controls](skills/genealogy-research-recipes/recipes/dna-comparison-controls.md) | — | — | — | export, third-party-tool, upload | — | required |
 | [dna-match-outreach-staging](skills/genealogy-research-recipes/recipes/dna-match-outreach-staging.md) | — | — | — | export, publish | contact | required |
 | [dnapainter-practical-dna-workflows](skills/genealogy-research-recipes/recipes/dnapainter-practical-dna-workflows.md) | dna-painter | — | — | export, link, publish, third-party-tool, upload | — | required |
 | [dutch-civil-church-record-recovery](skills/genealogy-research-recipes/recipes/dutch-civil-church-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
@@ -215,9 +219,9 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [local-repository-uncatalogued-holdings](skills/genealogy-research-recipes/recipes/local-repository-uncatalogued-holdings.md) | record catalogues and original images | — | — | — | — | — |
 | [manuscript-collection-recovery](skills/genealogy-research-recipes/recipes/manuscript-collection-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [marks-and-brands-record-recovery](skills/genealogy-research-recipes/recipes/marks-and-brands-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [missing-marriage-jurisdiction-search](skills/genealogy-research-recipes/recipes/missing-marriage-jurisdiction-search.md) | record catalogues and original images | — | — | — | — | — |
+| [missing-marriage-jurisdiction-search](skills/genealogy-research-recipes/recipes/missing-marriage-jurisdiction-search.md) | record catalogues and original images | — | — | request | — | required |
 | [muscovite-census-settler-origin-recovery](skills/genealogy-research-recipes/recipes/muscovite-census-settler-origin-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [myheritage-dna-match-investigation](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) | myheritage | — | — | export, link | contact | required |
+| [myheritage-dna-match-investigation](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) | myheritage | — | — | export, link, publish | contact | required |
 | [myheritage-historical-record-search](skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md) | myheritage | — | — | — | — | — |
 | [nazi-era-ancestry-proof-records](skills/genealogy-research-recipes/recipes/nazi-era-ancestry-proof-records.md) | record catalogues and original images | — | — | request | — | required |
 | [newspapers-com-search-recovery](skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md) | newspapers.com | — | — | — | — | — |

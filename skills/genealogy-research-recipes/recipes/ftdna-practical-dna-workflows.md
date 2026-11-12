@@ -4,13 +4,12 @@ title: "Maintaining FamilyTreeDNA exports and tree links"
 summary: "Eight FTDNA workflows for Matrix observations, paired match/segment exports, duplicate-name joins, MyHeritage tree links, Family Matching and public Y-DNA Group Time Tree, supplied Globetrekker map or two-label comparison packets."
 kind: "platform"
 scope: {"platforms": ["familytreedna"], "tasks": ["Family Finder CSV scope, opaque note handles, selected-match segment files, transferred links that need confirmation, dated parental-bucket inventories, subgroup selections, branch estimates, obscured map nodes, hidden details or authorized project-display checks."]}
-triggers: ["Family Finder CSV scope", "opaque note handles", "selected-match segment files", "transferred links that need confirmation", "dated parental-bucket inventories", "subgroup selections"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "FTDNA-PRACTICAL-DNA-WORKFLOWS-01", "text": "reconcile export scope before joining; hold out ambiguous names; confirm each tree link and preserve observed vendor assignments separately from pedigree proof. A selected Group Time Tree view has its own scope; missing or withheld details do not establish an absent lineage, and kit access does not authorize public display."}]
+guardrails: [{"id": "FTDNA-PRACTICAL-DNA-WORKFLOWS-01", "text": "A match name is a join key, not a unique person identifier. Matching Bucket and Linked Relationship are values observed at download. Record link changes separately from the retrieval date, keep the export choice and kit with the rows, and refresh match metadata after relinking."}]
 handoff: ["ai-for-dna-research", "dna-comparison-controls", "myheritage-dna-match-investigation", "xdna-phasing-judgment", "ydna-mtdna-interpretation"]
-checked: "2026-10-03"
-checked_basis: "checked 2026-10-03"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["familytreedna"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 39}
 ---
@@ -64,6 +63,19 @@ manager and any separately recorded beneficiary. Leave missing or unconfirmed de
 unresolved; shared credentials do not establish either designation. The [2023 update](https://dna-explained.com/2023/12/11/familytreedna-2023-update-past-present-and-future/)
 motivates this distinction.
 
+For a tester who has died, FamilyTreeDNA's kit-access FAQ asks for proof of death (a death
+certificate or an unambiguous obituary) and then gives access to the listed beneficiary, who may
+pass it on. With no beneficiary, or a deceased one, it asks for the document appointing the
+executor or personal representative; anyone else needs that person's written authorization
+[S34 @2026-11-12]. FamilyTreeDNA also says it can give a recorded Kit Manager access when the
+tester has died and no beneficiary is named [S35 @2026-11-12]. Record which route the requester
+has and which documents exist; until one is in place, record the kit as `access route not
+established`, not as lost. A living tester who wants the kit usable later names a beneficiary (a
+person or a Group Project) and a Kit Manager in Account Settings [S35 @2026-11-12]. Estes reports
+that a project administrator given Advanced access in Project Preferences can order upgrades
+that the administrator pays for [S36 @2026-11-12]. These are the tester's own settings: describe
+them, and do not change them for the tester.
+
 For an intended mtDNA/autosomal match intersection, record the verified tested person,
 each kit identifier and which test results are available to the actual query. If results
 are held under separate kit identities and the available query cannot combine them, record
@@ -105,14 +117,16 @@ checks, including a haplogroup known only from another vendor's test that did no
 For a same-surname search, also compare the Y haplogroups shown for male matches. A label may
 be STR-predicted, derived from the Family Finder test (partial, SNP-based) or SNP-tested; a
 more refined Family Finder label replaces the STR prediction. Ancestry and 23andMe transfers
-show no haplogroup to matches, and female testers have no Y label: record those as
+show no haplogroup to matches, MyHeritage transfers completed after October 2025 currently
+receive none [H12 @2026-11-12], and female testers have no Y label: record those as
 `haplogroup not shown`, never as a mismatch. A label from a different source or at a different
 depth is not a conflict until both labels have been put into Discover's **Compare** and recorded
 as in [workflow 8](#8-preserve-the-inputs-and-reference-in-a-two-label-comparison). If they fall
 in the same lineage, keep the man as a candidate for Y-DNA testing or for shared-match and
 triangulation work. Reliable, incompatible SNP-defined lineages rule him out as a recent direct
 paternal-line candidate, even within one major haplogroup; he can still be an autosomal relative.
-Different upstream and downstream labels alone do not establish incompatibility. [S24, S26, S27, S28]
+Different upstream and downstream labels alone do not establish incompatibility.
+[S24 @2026-11-12], [S26 @2026-11-12], [S27 @2026-11-12], [S28 @2026-11-12]
 
 Read a match's ancestral surname list as self-reported. Its order carries no fixed meaning: a list may run by generation, alphabetically or in order of appearance, and a [2020 FamilyTreeDNA walkthrough](https://dna-explained.com/?p=31186) shows surnames shared with the viewer moved to the top in bold. Do not infer side, generation or line from a surname's position. To reconstruct the tree of a match without a usable tree, search compiled trees for combinations of the listed surnames and any most distant paternal and maternal ancestors named on the profile. Record a couple found this way as `candidate couple` until descendancy research accounts for the other listed surnames; list any surname it leaves unexplained. A [2024 case-study article](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds) motivates this check. [S20, S21]
 
@@ -140,6 +154,31 @@ kit, date and processing/test version, plus anything unavailable to save. Keep l
 separate. The [2026 upgrade notice](https://blog.familytreedna.com/family-finder-ngs-upgrade/)
 warned that prior results would be removed and described different export access for transfer
 kits. [S12]
+
+A kit transferred from another company holds only that company's data file. No DNA comes with an
+upload, so the upload gives FamilyTreeDNA no sample [S30 @2026-11-12]. For a transfer customer who
+has never submitted a sample to FamilyTreeDNA, the Family Finder NGS upgrade is the first time
+FamilyTreeDNA sequences that person's DNA, and a collection kit is mailed after the order
+[S12 @2026-11-12].
+
+The Autosomal Unlock has been retired [S46 @2026-11-12], [S31 @2026-11-12].
+A transfer that was never unlocked has its matches and the Family Finder Matrix [S12 @2026-11-12]
+but no Chromosome Browser, Chromosome Painter, myOrigins or ancientOrigins [S31 @2026-11-12],
+[S46 @2026-11-12]. A missing Chromosome Browser there reflects the lock, not missing data, and
+workflow 2's single-match segment files cannot be made: keep held-out persons out of the join as
+`unresolved`. For workflow 1's export pair the sources disagree. Estes's August 2026 table lists a
+segment download as free [S31 @2026-11-12]; FamilyTreeDNA says a locked transfer cannot save its
+data before an upgrade [S12 @2026-11-12]. Record each file the account does not offer as
+`unavailable`, not as an empty result.
+
+Before concluding that a tester who has died or cannot swab again can get no further
+FamilyTreeDNA test, have the account holder ask Customer Service whether samples from an earlier
+test remain in storage, how many and how old [S31 @2026-11-12], [S32 @2026-11-12]. Stored samples
+degrade, and older ones are less likely to give a result [S32 @2026-11-12]. Record the answer and
+its date. Estes ordered Family Finder on her late mother's stored sample, so that close relative
+is at FamilyTreeDNA, and later at MyHeritage by upload, but can never be at AncestryDNA or 23andMe
+[S33 @2026-11-12]. A close relative missing from those two databases may still be at
+FamilyTreeDNA.
 
 ### 2. Join matches to segments without collisions
 
@@ -210,13 +249,13 @@ cousin`, side `maternal`, documentary basis `synthetic record set D1`, date `202
 
 ### 4. Anchor Family Matching with side-specific relatives
 
-Family Matching requires a Family Finder result, matches, a MyHeritage connection and at least one
-linked maternal or paternal match. It uses linked testers from parent to third cousin and excludes
-linked relatives whose shared DNA contradicts the stated relationship (a "parent" calculated as a
-second cousin). To assign a match, FTDNA detects a shared phased DNA block between the tester,
-match and linked relative: the block is carried by the same alleles and meets the special Family
-Matching threshold. The linked relative's tree position supplies the parental side. ICW is not
-used for bucketing. [H4, S5]
+Family Matching requires a Family Finder result, matches, a connected MyHeritage tree for new
+links, the tester set as Home Person in the FamilyTreeDNA Family Tree Settings before linking, and
+at least one linked maternal or paternal match. Any linked match related through only one parent
+can phase other matches, however close or distant. To assign a match, FTDNA detects a shared
+phased DNA block between the tester, match and linked relative: the block is carried by the same
+alleles and meets the special Family Matching threshold. The linked relative's tree position
+supplies the parental side. ICW is not used for bucketing. [H4 @2026-11-12], [S5 @2026-11-12]
 
 **Privacy gate:** <!-- privacy-gate: link, export --> Each anchor link puts a relative's DNA result on the tree, and each re-export saves living matches' data. Apply the
 workflow 3 checkpoint (the privacy gate in `SKILL.md`) to every anchor before linking or relinking, including that
@@ -233,9 +272,9 @@ check that the anchor's Matches row shows the expected **Linked Relationship**, 
 the match list. Record the link-change time separately from the export time and save the bucket
 counts shown in that dated export. [H3, H4]
 
-Compare the dated counts and known-side paths. If counts are unchanged, check H4's eligibility
-conditions: the correct person linked, relationship within parent-to-third-cousin range, and
-shared DNA consistent with that relationship. If a bucket conflicts with a documented path,
+Compare the dated counts and known-side paths. If counts are unchanged, check H4's conditions:
+the correct person linked at the correct tree position, an anchor related to the tester through only one
+parent, and processing finished after the link [H4 @2026-11-12]. If a bucket conflicts with a documented path,
 check the tree positions of the linked kits on the reported side and look for an additional path
 through that parent. Correct or remove a misplaced link and re-export. With anchor identities and
 tree positions verified, the bucket means FTDNA found a qualifying phased block shared with a
@@ -243,9 +282,18 @@ linked relative on that side. A documented relationship through the other parent
 that assignment. Record both and test the additional descent path using `ai-for-dna-research.md`.
 Preserve the provider's assignments exactly, including unassigned rows, in each snapshot.
 
+To work one grandparent's line, do not filter to that parent's bucket. A match is bucketed only
+when it shares a segment with a linked relative on that side, and some matches stay unassigned
+even with close relatives linked [S41 @2026-11-12]. If neither that parent nor any relative from that
+grandparent's line is linked, many of the line's matches sit in the unassigned rows. Work that
+side's bucket and the unassigned matches together, and set aside only the opposite side's bucket
+[S42 @2026-11-12]. Keep any match from that bucket that also has a documented or plausible path through the
+target grandparent: a match related through both parents sits in one side's bucket when only that
+side has a qualifying linked relative [S41 @2026-11-12].
+
 **Artifact:** before-link and later dated exports, bucket counts and a `links_as_of` note.
-**Stop when** each new anchor is confirmed on its match row, checked against H4's supported
-relationship range and shared-DNA validation, and included in a post-link export. Record
+**Stop when** each new anchor is confirmed on its match row, checked against H4's one-parent,
+tree-position and processing conditions, and included in a post-link export. Record
 unavailable anchors separately. Compare that export with the baseline and send any remaining
 side/path conflicts to `ai-for-dna-research.md` with the two exports and the link ledger.
 
@@ -311,9 +359,24 @@ historical ancestor's location, migration or identity.
 
 When quoting a branch's tester count, country distribution or ancient-sample list from FamilyTreeDNA's public trees or Discover, record the view, branch level and retrieval date with each number. A [haplotree-versus-Discover count comparison](https://genarchivist.net/showthread.php?tid=275) found materially different country counts for the same branch, matching the pages' own descriptions of FTDNA-tested users versus testers plus academic participants; an [mtDNA Ancient Connections versus Classic Tree count](https://genarchivist.net/showthread.php?tid=1508) also differed, without an explained cause. Do not combine, subtract or substitute counts across views, and do not read a sample missing from one view as absent from the branch.
 
+Record whether each Discover report was read in the public view, through a shared page, or signed
+in through the tester's own kit. Signed in with a Big Y kit, Discover shows up to 30 Ancient
+Connections for the haplogroup, against up to 10 otherwise [S37 @2026-11-12]. Globetrekker and the
+Y-DNA Match Time Tree open only for a Big Y tester signed in to that kit [S38 @2026-11-12],
+[S39 @2026-11-12], [S36 @2026-11-12]. Estes saw two or three Ancient Connections on a publicly
+shared page where the signed-in tester had more than 20 [S40 @2026-11-12]. Record a report missing
+from a public or shared view as `not inspected in this view`, never as absent.
+
 Treat a public haplotree surname report as a display subset, not a branch roster. A [surname-report discussion](https://genarchivist.net/showthread.php?tid=275) quotes a display rule requiring at least two kits with public project-profile sharing and the same surname spelling; posters also observed names listed only at the kits' terminal branch. Record a surname missing from the report as `surname not displayed`, not as evidence that no tester of that surname sits on the branch, and note the branch level viewed. A listed surname does not establish a shared recent ancestor.
 
 When a Discover branch shows a tester who is not among the kit's matches, check whether the branch's suggested projects lead to a public project results page listing that tester. Record the project URL, retrieval date and the displayed surname, earliest known ancestor and haplotype exactly as published, labelled as project-display data. Record how the project row was tied to the branch entry; if the link rests only on inference, label it `unconfirmed link`. A [Discover-to-project lookup](https://genarchivist.net/showthread.php?tid=416) motivates this route. It shows only what that project chooses to publish. It establishes no match, contact route or genealogical connection.
+
+An mtDNA tester listed in a Discover haplogroup report but absent from the kit's mtDNA matches may
+simply be beyond the match threshold. At the coding-region level, tested only by mtFull Sequence,
+two testers match with up to three differences and only within the exact same haplogroup
+[S43 @2026-11-12]. Estes gives this threshold as the reason a tester may not match everyone in the
+haplogroup [S44 @2026-11-12]. Record such a tester as `not a match at this threshold`, not as
+outside the haplogroup or unrelated.
 
 Before searching a project's public results for a line, set the page size so every row is on one page; a browser search of the first page alone gives a false negative. A [2026 walkthrough](https://dna-explained.com/2026/10/23/focus-step-2-finding-the-y-dna-and-mitochondrial-dna-of-your-ancestors/) changed a default of 25 rows to 5000. If a very large page size fails to load, step through the pages instead. Search the earliest-known-ancestor column for each surname in the documented line, generation by generation, in every subgroup: results sit in subgroups the project administrator defines. A haplogroup's colour can mark it as predicted rather than SNP-confirmed. Record a surname hit as `candidate row` until the listed ancestor is shown to be a documented member of the line; for mtDNA, that means a woman in the direct maternal chain or her matrilineal relative, such as a sister. [S29, H11]
 
@@ -340,6 +403,10 @@ Matrix, or select them within the Matrix. Save the focal kit handle, retrieval t
 roster and displayed comparison label. The documented quantities are **Total Shared cM**,
 **Number of Shared Segments**, and **Predicted Relationship Range**; current Help uses slightly
 different labels for the same three choices. Record the label actually offered. [S9, H9]
+
+The Matrix compares at most ten selected matches at a time [S9 @2026-11-12], [S45 @2026-11-12].
+Split a larger roster into separately saved comparisons, each with its own roster record. A pair
+that never shared a saved comparison is `not compared`, not a blank cell.
 
 Keep each metric separate: the cM and segment-count views exclude X; the relationship range is
 a provider estimate, not a documented pedigree relationship. Preserve each selected pair's
@@ -394,6 +461,13 @@ actually displayed, including an upstream substitute. If a later co-located mark
 an earlier node, use an actually available earlier time view, enlargement or linked tree to
 inspect it; otherwise record that view as unavailable. The [2023 map-view example](https://dna-explained.com/2023/08/04/globetrekker-a-new-feature-for-big-y-customers-from-familytreedna/)
 motivates this check.
+
+Globetrekker reconstructs only pre-Columbian migrations. For a European or African paternal line
+whose descendants live in the Americas or Oceania, the path ends on the original continent
+[S38 @2026-11-12]. A non-Native American haplogroup recorded with an earliest known ancestor in
+the Americas is not mapped there [S23 @2026-11-12]. Read the endpoint as the branch's modelled
+pre-Columbian location, not as where the line last lived or as evidence against a later
+migration.
 
 **Artifact:** node identifier, time/view and source reference, with the displayed location/date
 labels and any substitution or inspection gap. An obscured marker is not absent data; a model

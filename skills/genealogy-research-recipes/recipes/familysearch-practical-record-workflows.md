@@ -4,13 +4,12 @@ title: "FamilySearch record recovery and Tree maintenance"
 summary: "Nineteen FamilySearch operations: recover Catalog/DGS holdings and image-only records, preserve view-scoped citations, refine Full Text/Simple Search, recover page references hidden in an assertion’s reason, clean up Source Linker attachments and same-name Tree repairs, share research reports with checked visibility and reader access, recover a missing Memory from an independent copy and record a supported relationship without inventing a parent."
 kind: "platform"
 scope: {"platforms": ["familysearch"], "tasks": ["FamilySearch howtos, Catalog/film/DGS crosswalks, unindexed images, Full Text or Simple Search, Source Linker cleanup, profile repair and Source Box reuse."]}
-triggers: ["FamilySearch howtos", "Catalog/film/DGS crosswalks", "unindexed images", "Full Text", "Simple Search", "Source Linker cleanup"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "FAMILYSEARCH-PRACTICAL-RECORD-WORKFLOWS-01", "text": "inspect actual images and identities; preserve query/view scope; verify report audience and visibility before treating an attachment as shared evidence."}]
+guardrails: [{"id": "FAMILYSEARCH-PRACTICAL-RECORD-WORKFLOWS-01", "text": "Confirm candidates from the image and context. A name appearing in text does not establish the candidate's identity."}]
 handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "gedcom-research-export", "research-documentation", "rootsmagic-tree-reconciliation-workflow"]
-checked: "2026-10-04"
-checked_basis: "checked 2026-10-04"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["familysearch"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 19}
 ---
@@ -348,7 +347,7 @@ cited image. It does not say how those pages were found or how common such filmi
 
 **Artifact:** An image sequence, document-boundary map, original/corrected transcript and source-linked summary.
 
-**Check:** Every material claim traces to an image. A page summary can combine several documents, and a deed-book entry may be a clerk's copy. The tutorials disagree on availability of a transcript-editing control, so no editing button is required by this workflow.
+**Check:** Every material claim traces to an image. A page summary can combine several documents, and a deed-book entry may be a clerk's copy. FamilySearch's Help Center says transcript editing is disabled while Full Text is updated and may stay unavailable afterwards [S90 @2026-11-12], so no editing button is required by this workflow.
 
 **Sources:** [S01](https://www.youtube.com/watch?v=mZc2-Z-TROw), [S03](https://www.youtube.com/watch?v=NUwBg94RXdk), [S07](https://www.youtube.com/watch?v=4M3h-bSiQGM), [S05](https://familylocket.com/ai-and-familysearch-full-text-search-working-together-to-make-discoveries/).
 
@@ -541,6 +540,10 @@ that clock [S80]. The tree is a workspace, not evidence: it holds derived claims
 compiled tree. Use **Review Matches** as a list of people to compare with existing Family Tree
 profiles, check each match against its sources, and do not push the tree's people into the Family
 Tree in bulk [S79]. [S77]
+
+Do not use the Help Center's GEDCOM upload route (Search > Genealogies > Upload Your Individual
+Tree) for this tree: it adds the file to the Pedigree Resource File, where all FamilySearch users
+can search and view it and others cannot change it [S91 @2026-11-12].
 
 Do not enter tentative facts to generate hints. Hints match the data already on the profile, so a
 hint that agrees with a guess or a merged-in fact is circular confirmation. Give each reviewed hint an

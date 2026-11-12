@@ -4,10 +4,9 @@ title: "Research log and report"
 summary: "Preserve searches, results, document numbers and analysis so an investigation can resume."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["research logs, research reports, NIL searches, coverage and linked next actions"]}
-triggers: ["research logs", "research reports", "NIL searches", "coverage and linked next actions"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "RESEARCH-DOCUMENTATION-01", "text": "Record inaccessible, interrupted and unsearched collections separately from completed searches with no hits."}]
+guardrails: [{"id": "RESEARCH-DOCUMENTATION-01", "text": "Use `NIL` for a completed search with no hits. Record inaccessible images, interrupted searches and unsearched collections with their actual status."}]
 handoff: ["evidence-proof-judgment", "manuscript-collection-recovery", "russian-empire-emigrant-origin-recovery", "source-citation", "unknown-parentage-wato"]
 checked: "2026-11-03"
 checked_basis: "fetched on 2026-11-03"
@@ -275,6 +274,17 @@ database was preserved: report failed controls and missing captures as retrieval
 archived page's date or an unavailable search does not establish record absence or the truth
 of its claims.
 
+For a Ukrainian museum, library, archive or Jewish-genealogy site that has gone offline since
+2022, also search SUCHO (Saving Ukrainian Cultural Heritage Online) before calling its
+collections lost. A Wayback capture of such a site often holds only its start page or other top
+layers, not the digital collections [H1 @2026-11-12] [H2 @2026-11-12]. Since February 2025 all
+of SUCHO's archived content, more than 50 TB from national archives to local museums, is reached
+through the SUCHO Database of Web-Archived Content (`database.sucho.org`), which gives each
+resource's online status, collection timeline and completeness [H3 @2026-11-12]. In 2022 the
+archived sites already included Gesher Galicia, JewishGen Ukraine and Rohatyn Jewish Heritage
+[H1 @2026-11-12]. Record which archive held the capture and its stated completeness, as for any
+capture above.
+
 ## Keep next actions linked to their origin
 
 When analysis produces another search, retain a separate pending-action field linked to
@@ -384,4 +394,4 @@ Original Kinprove reference, licensed FSL-1.1-MIT.
 
 ## Sources
 
-[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/research-documentation.md).
+[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/d53465ce561c6e8b4f9f4dc4706a0641da7c6c67/skills/genealogy-research-recipes/sources/research-documentation.md).

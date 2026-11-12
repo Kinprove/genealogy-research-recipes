@@ -3,11 +3,10 @@ id: "admixture-model-run-scope"
 title: "Record the run scope before reading a G25, calculator or qpAdm admixture result"
 summary: "Record the run scope of a G25, calculator or qpAdm admixture result before reading it."
 kind: "judgment"
-scope: {"platforms": [], "tasks": ["Record the run scope of a G25, calculator or qpAdm admixture result before reading it."]}
-triggers: ["Record the run scope of a G25", "calculator", "qpAdm admixture result before reading it"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "ADMIXTURE-MODEL-RUN-SCOPE-01", "text": "check fit and scope before reading proportions, and never rank runs across calculators."}]
+guardrails: [{"id": "ADMIXTURE-MODEL-RUN-SCOPE-01", "text": "Nothing in this recipe establishes an ancestor, an origin locality or a relationship. A result that disagrees with a documented pedigree may make a candidate less likely. It never rules one out."}]
 handoff: []
 checked: null
 checked_basis: null

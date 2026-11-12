@@ -21,7 +21,7 @@ and keeps its own rights. This covers:
 
   - the Beider name-index data described below; and
   - a source's own expression in the passages credited "(quoted)" or
-    "(adapted)" in the Credits list of a recipe's https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/<slug>.md file.
+    "(adapted)" in the Credits list of a recipe's https://github.com/Kinprove/genealogy-research-recipes/blob/d53465ce561c6e8b4f9f4dc4706a0641da7c6c67/skills/genealogy-research-recipes/sources/<slug>.md file.
 
 Kinprove grants no licence to this material, under FSL-1.1-MIT or otherwise.
 Anyone who reuses it needs whatever permission its rights holder requires.
@@ -29,14 +29,14 @@ Anyone who reuses it needs whatever permission its rights holder requires.
 -----------------------------------------------------------------------------
 Recipes, sources and Credits
 -----------------------------------------------------------------------------
-The one hundred and thirty-five recipes are original Kinprove-authored
-distillations of genealogy judgment and practical workflows. Facts, methods,
+The recipes are original Kinprove-authored distillations of genealogy
+judgment and practical workflows. Facts, methods,
 and community teaching that a recipe cites but does NOT reproduce (for example
 the Leeds Method, WATO / "What Are The Odds", the Genealogical Proof Standard)
 need only source attribution and are credited in each recipe's
-https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/<slug>.md — they are not carved out here.
+https://github.com/Kinprove/genealogy-research-recipes/blob/d53465ce561c6e8b4f9f4dc4706a0641da7c6c67/skills/genealogy-research-recipes/sources/<slug>.md — they are not carved out here.
 
-Each https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/<slug>.md file ends with a Credits list, the package's rights
+Each https://github.com/Kinprove/genealogy-research-recipes/blob/d53465ce561c6e8b4f9f4dc4706a0641da7c6c67/skills/genealogy-research-recipes/sources/<slug>.md file ends with a Credits list, the package's rights
 record. Every line names a source, its rights statement and one class:
 
   (kinprove-original)  Kinprove's own synthesis, under FSL-1.1-MIT.

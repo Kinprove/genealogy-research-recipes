@@ -3,11 +3,10 @@ id: "family-photograph-attribution-and-dating"
 title: "Attribute and date an inherited family photograph from captions, provenance and imprints"
 summary: "Attribute and date an inherited family photograph from captions, provenance and the photographer's imprint."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Attribute and date an inherited family photograph from captions, provenance and the photographer's imprint."]}
-triggers: ["Attribute and date an inherited family photograph from captions", "provenance and the photographer's imprint"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "FAMILY-PHOTOGRAPH-ATTRIBUTION-AND-DATING-01", "text": "never compare faces or name anyone by appearance; record each identification as an attributed claim, test it against the named person's documented lifetime, and turn each date clue into a bound."}, {"id": "PHOTO-01", "text": "Preserve the attribution and its basis; do not identify a person by their face or compare faces across photographs."}, {"id": "PHOTO-02", "text": "Before you upload a private family photograph to any outside service (reverse image search, enhancement or colorization), answer the privacy gate in `SKILL.md` and get the user's explicit permission for that service."}]
+guardrails: [{"id": "FAMILY-PHOTOGRAPH-ATTRIBUTION-AND-DATING-01", "text": "record each identification as an attributed claim with its basis, turn every clue into an earliest or latest bound, and test an attribution against the documented lifetime of the person named, never against faces."}, {"id": "PHOTO-01", "text": "Preserve the attribution and its basis; do not identify a person by their face or compare faces across photographs."}, {"id": "PHOTO-02", "text": "Before you upload a private family photograph to any outside service (reverse image search, enhancement or colorization), answer the privacy gate in `SKILL.md` and get the user's explicit permission for that service."}]
 handoff: []
 checked: "2026-11-02"
 checked_basis: "checked on 2026-11-02"
@@ -25,6 +24,15 @@ This recipe covers attribution and dating of an image already in hand. Capturing
 - Identity rulings that combine these claims belong in [evidence/proof judgment](evidence-proof-judgment.md).
 - To read the directory series behind a studio's working span, use [city-directory observations](city-directory-observation-workflow.md).
 - Cite each copy and its holder with [source citation](source-citation.md).
+
+## Contents
+
+- Record each identification as an attributed claim
+- Record the context and look for other copies
+- Bound the date from the photographer's imprint
+- Turn every other date clue into a bound
+- Test an attribution by documented-lifetime consistency
+- Return
 
 ## Record each identification as an attributed claim
 
@@ -76,6 +84,8 @@ Name the object class before using any format clue: a cased image (a daguerreoty
 - An old-system house number bounds the image only where dated directories show the change [S24].
 - A licence plate's year bounds the photograph only approximately, because next year's plates could go on sale before the year began. The plate is a lead to the vehicle's owner, not to who is pictured [S25].
 - Inspect each photo in a supplied identity document (an internal passport, a party or military card, a pass) and its reverse. A photo shown to have been pasted in at issue was taken no later than the issue date, but the issue date is not the sitting date. A replacement photo or a copy needs its own bound: under the 1974 Soviet Passport Regulation, new photos were pasted in at ages 25 and 45, and the holder had a month after that birthday to hand them in [S31].
+
+Treat an AI date estimate, such as MyHeritage's PhotoDater, as a rough range to test against the bounds above, never as a bound itself. MyHeritage says the tool gives a best-guess year only for photos taken between 1860 and 1990, and only when its confidence is good enough. In its own test about 60% of estimates fell within five years of the actual date [S52 @2026-11-12] [S53 @2026-11-12]. A missing estimate tells you nothing about the date: MyHeritage names photo quality and other factors as reasons it gives none [S52 @2026-11-12]. Record the estimate with the tool's name and the date you read it, beside the bounds from physical clues. Uploading a photo to get an estimate is an outside-service step under the privacy gate in step 3 of "Record the context and look for other copies".
 
 **Uniforms, insignia and medals.** For a uniformed portrait, keep the full image and make linked detail crops of the cockade, belt buckle, shoulder straps, badges and awards. Date each regulated element from its cited introducing order or a medal's establishment, and treat that as an earliest bound for the picture. Where an order set a later date for wear, take the earliest bound from that date: in [S21], a 1907 order set one uniform pattern for wear from 1909. Do not turn an abolition order into a latest bound: in the same discussion, a portrait dated after the cited abolition still showed the emblem [S21]. A jubilee medal's eligibility rule limits which candidates could have worn it; keep that apart from the photo-date bound. Record each order or statute as cited. A worn medal does not prove whose award it was.
 

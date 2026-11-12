@@ -3,11 +3,10 @@ id: "german-compensation-file-recovery"
 title: "Recover a German compensation file from a Lastenausgleich or Wiedergutmachung index hit"
 summary: "Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it."]}
-triggers: ["Carry a Lastenausgleich", "Berlin Wiedergutmachung index hit to the file behind it"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "GERMAN-COMPENSATION-FILE-RECOVERY-01", "text": "a hit does not show who filed, which relatives the file names or that the indexed person is yours, and a no-hit does not mean no file mentions a relative."}]
+guardrails: [{"id": "GERMAN-COMPENSATION-FILE-RECOVERY-01", "text": "The hit tells you a file exists for one indexed applicant or injured party. It does not tell you who filed the claim, which relatives the file names, or whether the indexed person is yours."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
@@ -21,7 +20,7 @@ Use this recipe when a German postwar compensation index returns a name. That me
 
 Scope: this recipe covers the Lastenausgleich series reached through invenio and the Berlin WGA case titles. Section 1 also says where BEG compensation files are held, but a BEG hit, like a hit in any other compensation index, needs its own route: do not apply the search syntax or access rules below to it.
 
-For the general rule that an index entry or no-hit is not the file's contents, use [archival image coverage verification](archival-image-coverage-verification.md). For the same locator-and-claimant pattern in another country, see [US military pension file recovery](us-military-pension-file-recovery.md). For scoping a zero-hit query to what the field covers, use the catalogue's recipe on recovering attested spellings across scripts and OCR and [FamilySearch workflows § 13](familysearch-practical-record-workflows.md). Same-name and identity rulings belong in [evidence/proof judgment](evidence-proof-judgment.md). Keep the request log in the format of the [research log](research-documentation.md).
+For the general rule that an index entry or no-hit is not the file's contents, use [archival image coverage verification](archival-image-coverage-verification.md). For the same locator-and-claimant pattern in another country, see [US military pension file recovery](us-military-pension-file-recovery.md). For scoping a zero-hit query to what the field covers, use [corpus-seeded name searches across scripts and OCR](corpus-seeded-name-search.md) and [FamilySearch workflows § 13](familysearch-practical-record-workflows.md). Same-name and identity rulings belong in [evidence/proof judgment](evidence-proof-judgment.md). Keep the request log in the format of the [research log](research-documentation.md).
 
 ## Contents
 

@@ -3,11 +3,10 @@ id: "convict-transportation-record-chain"
 title: "Reconstruct a transported convict as a chain of record episodes"
 summary: "Rebuild a transported British convict's sentence as a chain of dated record episodes."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Rebuild a transported British convict's sentence as a chain of dated record episodes."]}
-triggers: ["Rebuild a transported British convict's sentence as a chain of dated record episodes"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "CONVICT-TRANSPORTATION-RECORD-CHAIN-01", "text": "one index entry never stands for the whole chain; each episode keeps its own series, locator and date role."}]
+guardrails: [{"id": "CONVICT-TRANSPORTATION-RECORD-CHAIN-01", "text": "Each episode comes from its own record series, has its own locator and has its own date role. One index entry never stands for the whole chain."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

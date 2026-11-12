@@ -3,11 +3,10 @@ id: "hispanic-catholic-register-recovery"
 title: "Recover a Mexican or Hispanic Catholic ancestor across parish and civil registers"
 summary: "Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers."]}
-triggers: ["Find a Mexican", "other Hispanic Catholic ancestor across parish books and civil registers"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "HISPANIC-CATHOLIC-REGISTER-RECOVERY-01", "text": "select the parish, not the town, search every surname arrangement, and never copy a baptism date into the birth field."}]
+guardrails: [{"id": "HISPANIC-CATHOLIC-REGISTER-RECOVERY-01", "text": "**Never copy a baptism date into the birth field.** Baptism could be late because of distance, the priest's fee or inertia [S2]."}]
 handoff: ["brazilian-parish-civil-registry-recovery", "portuguese-parish-civil-register-recovery", "spanish-civil-parish-record-routing"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
@@ -87,6 +86,8 @@ Extract each field separately [S10], [S2]:
   Do not read a missing grandparent line as a wrong match. When a civil birth names no grandparents, search the baptism, which can also carry lineage [S17]. A transcribed certificate kept by the family can leave out the grandparents' birthplaces that the original entry gives [S13]; obtain the original register entry before you record a field as absent. If the direct ancestor's marriage cannot be found, search a full sibling's records, which name the same parents [S15].
 
 For machine- or AI-indexed versions of these entries, use the correct-and-verify loop in the AI-for-documentary-records recipe.
+
+Read the Spanish handwriting from the image; use an online translation only for a first understanding [S38 @2026-11-12]. To check a letter form, abbreviation or set phrase, use the free Spanish tutorial of the BYU Script Tutorial (script.byu.edu) [S38 @2026-11-12]. It has handwritten alphabet charts in upper and lower case, a handwriting history, common phrases, common abbreviations, numbers, Spanish names, a genealogical glossary, guides to church, civil and notarial records, and interactive baptism exercises in vocabulary and transcription [S37 @2026-11-12].
 
 ## 3. Search both name forms and every surname arrangement
 

@@ -3,11 +3,10 @@ id: "institutional-patient-record-recovery"
 title: "Recover an asylum or state-hospital patient through custodians, courts and newspapers"
 summary: "Seek asylum or state-hospital records through the custodian, court and newspapers; in Dutch research, check a child's marriage papers and locally described admission correspondence."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Seek asylum or state-hospital records through the custodian, court and newspapers; in Dutch research, check a child's marriage papers and locally described admission correspondence."]}
-triggers: ["Seek asylum", "state-hospital records through the custodian", "court and newspapers", "in Dutch research", "check a child's marriage papers and locally described admission correspondence"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "INSTITUTIONAL-PATIENT-RECORD-RECOVERY-01", "text": "incapacity does not establish admission or diagnosis, and an access refusal does not establish that no file survives."}]
+guardrails: [{"id": "INSTITUTIONAL-PATIENT-RECORD-RECOVERY-01", "text": "Never treat a refusal, a form letter or a court-order requirement as evidence that no file exists. Log it as an access outcome and switch to the court and newspaper routes below."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"

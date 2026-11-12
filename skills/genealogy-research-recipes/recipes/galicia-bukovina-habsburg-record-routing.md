@@ -3,11 +3,10 @@ id: "galicia-bukovina-habsburg-record-routing"
 title: "Route a Galician or Bukovinian record by date, confession and custodian"
 summary: "Route a Galician or Bukovinian event by date, confession and custodian, and decide the army before searching WWI records."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route a Galician or Bukovinian event by date, confession and custodian, and decide the army before searching WWI records."]}
-triggers: ["Route a Galician", "Bukovinian event by date", "confession and custodian", "and decide the army before searching WWI records"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "GALICIA-BUKOVINA-HABSBURG-RECORD-ROUTING-01", "text": "start an ethnic Ukrainian villager in Austrian Galicia in Greek Catholic books, not Orthodox ones (add Orthodox books for Lemkos from 1926; Bukovina starts in Orthodox books), and birthplace alone decides neither the army nor where the Grundbuchblatt is kept."}]
+guardrails: [{"id": "GALICIA-BUKOVINA-HABSBURG-RECORD-ROUTING-01", "text": "**Start an ethnic Ukrainian villager in Galicia in Greek Catholic books, not Orthodox ones.**"}]
 handoff: ["austrian-confessional-register-routing", "bessarabia-moldova-record-routing", "corpus-seeded-name-search", "evidence-proof-judgment", "familysearch-practical-record-workflows", "historic-hungary-record-routing", "historical-map-record-recovery", "historical-place-name-resolution", "jewishgen-search-family-reconstruction", "polish-index-original-record-recovery", "russian-military-repression-record-episodes", "soviet-personal-file-recovery"]
 checked: "2026-11-02"
 checked_basis: "checked on 2026-11-02"

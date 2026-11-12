@@ -3,11 +3,10 @@ id: "manuscript-collection-recovery"
 title: "Recover manuscript and archival collections that may mention an ancestor"
 summary: "Find personal, family and organisational papers by context, alternate ledger/daybook labels and an established society's personal-name index; request linked account pages or a complete claim folder with earlier applications."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find personal, family and organisational papers by context, alternate ledger/daybook labels and an established society's personal-name index; request linked account pages or a complete claim folder with earlier applications."]}
-triggers: ["Find personal", "family and organisational papers by context", "alternate ledger/daybook labels and an established society's personal-name index", "request linked account pages", "a complete claim folder with earlier applications"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "MANUSCRIPT-COLLECTION-RECOVERY-01", "text": "a name-search miss is not absence, and one reported packet does not guarantee standard contents or a current copy route."}]
+guardrails: [{"id": "MANUSCRIPT-COLLECTION-RECOVERY-01", "text": "A personal-name search that finds nothing is therefore not a finding. Never report \"no manuscripts exist\" or \"not in this archive\" because a name search failed [S1], [S3], [S21]."}]
 handoff: []
 checked: "2026-10-21"
 checked_basis: "checked 2026-10-21"
@@ -75,6 +74,13 @@ Gegner-Sünkler describes reports of `Besitzveränderungen` among the rolls' `Be
 If the inventory supports that target, request the relevant dated papers rather than limiting
 the request to names and equipment on the roster. The article's reported contents do not
 establish ownership, a completed transfer, personal service or a legal duty. [S32]
+
+For a German-speaking family, above all in central Germany, search the compiled-genealogy holdings of the Deutsche Zentralstelle für Genealogie before treating earlier research as absent. In 1967 genealogical holdings from elsewhere were concentrated at the Zentralstelle in Leipzig, and since 2007 it has been Referat 33 of the Sächsisches Staatsarchiv, Staatsarchiv Leipzig [S39 @2026-11-12]. Two of them are finding aids to work done long ago:
+
+- **Ahnenstammkartei des deutschen Volkes (ASTAKA, holding 21941).** About 1.1 million cards made from pedigree lists (Ahnenlisten), filed by surname in phonetic order and then by place of origin. About 40% concern central Germany, and the entries are densest between 1650 and 1800. It was filmed in 1992 and has had no additions since 1990 [S37 @2026-11-12].
+- **Gesamtkatalog der Personalschriften- und Leichenpredigtensammlungen (in holding 21957, Verein Roland, Dresden).** About 150,000 cards, usable on 16 mm microfilm, recording where funeral sermons and occasional prints are held, not the holdings themselves [S38 @2026-11-12].
+
+Look up every phonetic spelling of the surname and note each place of origin carded under it. A card points to a pedigree list or a sermon; find and read that document before using what it says.
 
 ## Query by context, and log what each portal actually covers
 

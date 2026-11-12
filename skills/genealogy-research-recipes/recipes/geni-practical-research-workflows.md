@@ -4,13 +4,12 @@ title: "Practical Geni research workflows"
 summary: "Eight practical Geni workflows: recover name variants, preserve relationship focus, cite facts, choose projects, compare merge candidates, track tree conflicts, create GEDCOM branches and inspect scoped exports."
 kind: "platform"
 scope: {"platforms": ["geni"], "tasks": ["Geni language/alias fields, relationship paths, source documents, public projects or private workspaces, merge requests, unmerge requests, GEDCOM imports and tree reports."]}
-triggers: ["Geni language/alias fields", "relationship paths", "source documents", "public projects", "private workspaces", "merge requests"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "GENI-PRACTICAL-RESEARCH-WORKFLOWS-01", "text": "preserve profile URLs and dated scope; distinguish tree assertions, source-supported statements, pending requests and completed changes. Draft manager or curator requests for human review, and inspect private content before sharing an export."}]
+guardrails: [{"id": "GENI-PRACTICAL-RESEARCH-WORKFLOWS-01", "text": "Distinguish tree assertions, source-supported statements, pending requests and completed changes. Draft any manager or curator request for my review; do not send it."}]
 handoff: ["evidence-proof-judgment", "ydna-mtdna-interpretation"]
-checked: "2026-11-06"
-checked_basis: "opened 2026-11-06"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["geni"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": ["contact"]}
 router: {"tier": "full", "group": "Featured workflows", "order": 22}
 ---
@@ -164,8 +163,8 @@ Who can complete a merge decides what step 3 records. Geni completes a merge at 
 permission on both profiles: profiles you manage, profiles managed by someone in your Family Group,
 or a collaborator's public profiles. Otherwise Geni sends a merge request, and every other manager
 must accept it; you can never complete a merge when one of the profiles has been claimed. Curators
-can approve merges. Pending merges can be viewed, completed or undone in the Merge Center.
-[H19, H20, H21, H22, H24]
+can approve merges. Pending merges can be viewed, completed or undone in the Match Center.
+[H19 @2026-11-12], [H20 @2026-11-12], [H21 @2026-11-12], [H22 @2026-11-12], [H24 @2026-11-12]
 
 1. Preserve both candidate URLs, immediate families and sources. Open the second candidate before
    starting **Actions → Merge This Profile** on the first; the documentation recommends this to
@@ -199,28 +198,29 @@ family-structure review are recorded as separate outcomes.
 
 1. Open a **Tree Conflict** from the Match Center, the profile notification or the tree's yellow
    triangle. Inspect the immediate family before acting. Tree conflicts can involve duplicate
-   relatives, competing parents or multiple spouses; they are distinct from field conflicts. [H13]
+   relatives, competing parents or multiple spouses; they are distinct from field conflicts.
+   [H13 @2026-11-12]
 2. Stack only relatives demonstrated to be duplicates and use **Merge Duplicates** to reach the
    comparison page. Before completing the merge, an accidentally stacked pair can be unstacked
-   with **unlink**. This is not an undo for a completed merge. [H13]
+   with **unlink**. This is not an undo for a completed merge. [H13 @2026-11-12]
 3. For competing parent sets or non-biological links, open **edit this profile's relationships**
    and compare the records for each relationship. Several spouses can be legitimate; the help
    page describes **Cancel** for clearing that notification when there are no duplicates.
    Preserve unresolved parentage instead of removing an inconvenient candidate to clear a
-   warning. [H13]
+   warning. [H13 @2026-11-12]
 4. For a suspected bad completed merge, open **Revisions**, locate the merge event and select
    **view**. Inspect both profiles and their immediate families as shown at the merge. From that
    page, use **View revision history** for the profile merged into the primary one; its older
-   history is not all visible on the combined profile's ordinary revision list. [H14]
+   history is not all visible on the combined profile's ordinary revision list. [H14 @2026-11-12]
 5. **Privacy gate:** <!-- privacy-gate: contact --> A curator request through a public assistance
    discussion exposes profile URLs and family details of people who may be living; answer the
    privacy gate in `SKILL.md` before posting it.
-   If the merge is still pending, undo it in the Merge Center; no curator is needed. Otherwise
+   If the merge is still pending, undo it in the Match Center; no curator is needed. Otherwise
    prepare a curator request containing the merge event, profile URLs, the demonstrated mismatch,
    source locators and the intended separation. Geni documents curator assistance to undo a bad
    merge through its linked assistance discussion. Keep private details out of a public request.
    After the curator acts, recheck family links and fields and record any remaining conflicts.
-   [H15, H21]
+   [H15 @2026-11-12], [H21 @2026-11-12]
 
 **Artifact schema:** `conflicted_profile_url, conflict_type, implicated_profile_urls, merge_event,
 evidence_for_each_link, proposed_action, curator_request_status, post_action_family_check,

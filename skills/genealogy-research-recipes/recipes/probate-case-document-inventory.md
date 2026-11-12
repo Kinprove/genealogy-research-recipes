@@ -4,10 +4,9 @@ title: "Inventory the documents of a probate case"
 summary: "Recover the documents behind a probate index, will or administrator's bond as a case inventory with unresolved leads."
 kind: "records"
 scope: {"platforms": [], "tasks": ["probate record series, references to other documents, later actions, non-will proceedings, Swedish court-copy versus heirs-original and poverty-certificate checks, reverse searches from a guardian to wards, or an estate search that stopped at the first useful document."]}
-triggers: ["probate record series", "references to other documents", "later actions", "non-will proceedings", "Swedish court-copy versus heirs-original and poverty-certificate checks", "reverse searches from a guardian to wards"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "PROBATE-CASE-DOCUMENT-INVENTORY-01", "text": "finding a will does not finish the case; retain each document's locator and remaining retrieval gaps, then hand off evidence interpretation."}]
+guardrails: [{"id": "PROBATE-CASE-DOCUMENT-INVENTORY-01", "text": "Keep a case inventory and a queue of unresolved references, so finding one useful document does not silently finish the estate search."}]
 handoff: ["court-case-file-recovery", "evidence-proof-judgment", "land-index-book-series-recovery"]
 checked: null
 checked_basis: null
@@ -106,6 +105,10 @@ and arrangement, take a matching entry's notary, notary's place, will date and n
 notarial series. She also describes a death-duty file as a will locator, reached where applicable
 through its contemporary `table V-bis`; follow the will's notary/date/place reference actually
 given in that file. [S19]
+
+For a Pennsylvania estate, search two sets of county series, even after a will is found. Wills, administration papers, will books, administration dockets and their indexes belong to the Register of Wills; real-estate divisions, the audit of accounts and the property and care of minor heirs belong to the Orphans' Court, which also appointed guardians and oversaw partition and distribution [S21 @2026-11-12], [S39 @2026-11-12]. In the State Archives' microfilm list, a county's will books, estate indexes and Orphans' Court dockets can sit under one office heading, the Register of Wills and Clerk of the Orphans' Court, and state law lets smaller counties consolidate these elected offices [S40 @2026-11-12]. One office can therefore hold both sets; search each series' own index or docket instead of treating the will index as covering the Orphans' Court.
+
+When a Pennsylvania index entry gives only a book and page, take them to FamilySearch's Pennsylvania, Probate Records, 1683-1994, which is browsed by county and volume through waypoints rather than searched by name [S41 @2026-11-12], [S42 @2026-11-12]. Open the named volume, go to the cited page, and record the image number separately [S21 @2026-11-12]. Do not stop at an index entry in Ancestry's Pennsylvania, U.S., Wills and Probate Records, 1683-1993, and do not read a missing image there as a lost record: that collection has searchable indexes, and not every entry has an image [S21 @2026-11-12], [S42 @2026-11-12].
 
 ### Swedish absent probate: separate production from surviving copies
 
@@ -275,6 +278,8 @@ identity check. The [Broglin probate interview](https://www.youtube.com/watch?v=
 and proxy-signing rules vary by place and period. A receipt is an heir lead for the evidence
 workflow, not proof of kinship. A receipt without share wording does not prove a creditor. Do not
 presume the deceased heir's case exists or was filed in the same court. [S8, S9]
+
+Inventory an estate sale bill or vendue list as its own row, and copy each buyer with the item and price where the list gives them. Look for it with the inventory, in the case file or in a separate sales book. Buyers likely knew the deceased and can include relatives and associates; work first through those who bought more than two items [S44]. Flag a buyer of a family keepsake such as the Bible and a buyer who was also the administrator: in one 1821 Ohio estate, the author identified both as sons of the deceased from other records [S43]. Queue each flagged buyer as a separate candidate relative for the evidence workflow; a purchase alone does not prove kinship.
 
 Do not skip guardianship or orphans' court entries because a parent survived: if minors may have
 inherited land or other property, search them in the estate's county and where the widow and

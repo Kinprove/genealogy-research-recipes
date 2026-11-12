@@ -3,11 +3,10 @@ id: "historical-place-name-resolution"
 title: "Resolve a historical place name to dated, same-named candidates"
 summary: "Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from period gazetteers."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from period gazetteers."]}
-triggers: ["Resolve a place named in a record", "letter", "Bible", "biography to dated", "same-named candidates from period gazetteers"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "HISTORICAL-PLACE-NAME-RESOLUTION-01", "text": "do not default to the well-known namesake; keep the name as written and let other dated evidence choose."}]
+guardrails: [{"id": "HISTORICAL-PLACE-NAME-RESOLUTION-01", "text": "The recipe lists every same-named feature in feature-level, period-dated gazetteers, keeps the name exactly as written, and lets other dated evidence about the person choose among the candidates."}]
 handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing", "historical-map-record-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
@@ -113,6 +112,8 @@ Not covered here:
 - Plot each candidate against dated county boundaries, for example the Newberry Library's Atlas of Historical County Boundaries (US changes through 2000). List every county that may have created records at the event date [S5], [S7]. Small, Idaho shows why this matters: it was in Fremont County in 1909, but the area is now in Clark County, which was created from Fremont in 1919 [S15].
 - If the feature is a valley or area that crosses a boundary, keep both sides as candidate record jurisdictions until the residence is located more precisely. The presenter's Little Poor Valley family lived in Virginia and found wives in Tennessee by travelling along the valley [S8].
 - Measure each candidate's distance from the family's documented places. The presenter's GNIS search returned Clove Valley, Dutchess County as a populated place 16 miles from where a son died [S9].
+
+For a residence in or near former Cherokee lands, also plot it on Charles C. Royce's 1884 *Map of the former territorial limits of the Cherokee "Nation of" Indians*, which shows the boundaries of each cession the Cherokee made to the colonies and the United States [S50]. It is Plate VIII of Royce's *The Cherokee Nation of Indians* in the Bureau of Ethnology's Fifth Annual Report; Plate IX covers the lands assigned to the Cherokee west of the Mississippi [S51]. Each cession is numbered on the map, and Royce's table gives each number its treaty, a description of the tract and its colour. For example, cession 15, "Tract in Georgia, known as Wafford's Settlement", is red and was ceded by the treaty of 24 October 1804 [S51], [S52]. Read the number where the residence falls and take the treaty date from the map's own table, as Roberta Estes did for a family living in 1818 in what became Hall County, Georgia [S53]. Present-day county lines do not show these boundaries. Royce's later maps in *Indian Land Cessions in the United States* (1899) number the cessions differently, so record which map each cession number comes from [S52], [S54].
 
 ## 7. Narrow candidates only with independent, dated evidence
 

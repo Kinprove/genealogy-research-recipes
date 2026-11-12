@@ -4,10 +4,9 @@ title: "Interpret a Holocaust name record through its underlying source"
 summary: "Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement dates."
 kind: "records"
 scope: {"platforms": [], "tasks": ["unspecified death circumstances, submitter roles or evacuation conflicts."]}
-triggers: ["unspecified death circumstances", "submitter roles", "evacuation conflicts"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "HOLOCAUST-TESTIMONY-SOURCE-INTERPRETATION-01", "text": "a memorial database hit is not by itself a death finding; match identities and date roles before combining the timeline."}]
+guardrails: [{"id": "HOLOCAUST-TESTIMONY-SOURCE-INTERPRETATION-01", "text": "Recover the information behind a Yad Vashem name result without converting a memorial submission, archival list or evacuation entry into an unsupported death or family conclusion."}]
 handoff: ["dna-match-outreach-staging", "evidence-proof-judgment"]
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
@@ -207,4 +206,4 @@ Living people rule: use the consent, disclosure and log rules of
 
 ## Sources
 
-[Primary-source checks and limits](https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/holocaust-testimony-source-interpretation.md).
+[Primary-source checks and limits](https://github.com/Kinprove/genealogy-research-recipes/blob/d53465ce561c6e8b4f9f4dc4706a0641da7c6c67/skills/genealogy-research-recipes/sources/holocaust-testimony-source-interpretation.md).

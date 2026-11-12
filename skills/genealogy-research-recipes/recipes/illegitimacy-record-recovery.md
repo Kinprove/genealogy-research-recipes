@@ -3,11 +3,10 @@ id: "illegitimacy-record-recovery"
 title: "Recover records of a birth outside marriage"
 summary: "Find the bastardy bonds, court proceedings, support orders and church entries that a birth outside marriage could create, and preserve express status statements in apprenticeship instruments."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find the bastardy bonds, court proceedings, support orders and church entries that a birth outside marriage could create, and preserve express status statements in apprenticeship instruments."]}
-triggers: ["Find the bastardy bonds", "court proceedings", "support orders and church entries that a birth outside marriage could create", "and preserve express status statements in apprenticeship instruments"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "ILLEGITIMACY-RECORD-RECOVERY-01", "text": "do not decide illegitimacy from weak signals, and record allegations, not paternity."}]
+guardrails: [{"id": "ILLEGITIMACY-RECORD-RECOVERY-01", "text": "A bond, court file or church-court suit records an accusation, a reputation or a court outcome. It does not prove biological fatherhood."}]
 handoff: ["english-nonregister-record-recovery"]
 checked: "2026-11-05"
 checked_basis: "checked 2026-11-05"
@@ -71,6 +70,10 @@ Before searching, find out which of these series exist for the county and period
 7. **Adoption and sealed records.** Treat an adoption as a separate legal proceeding, not an explanation inferred from a surname or foster placement. Identify the court, child-placement agency and vital-record authority for the place and date, then check their access rules.
    - **Privacy gate:** <!-- privacy-gate: request --> An adoption-record request can disclose the adoptee's and birth or adoptive relatives' identities and sensitive parentage. Answer the privacy gate in `SKILL.md` before sending any request or proof documents.
    - Request adoption papers or an original birth certificate only through the route the responsible court, agency or vital-record office authorizes. Sealed files are not ordinary public court files: North Carolina, for example, provides non-identifying information and a confidential-intermediary route subject to eligibility and consent. Record a refusal or restriction separately from an inspected no-hit; do not try to bypass sealing or identify living relatives through public tracing. [S16]
+
+For an agency adoption, request the agency's background (non-identifying) information as its own request, separate from the court decree or sealed court file. In California, for example, the licensed agency that handled the adoption, or the Department of Social Services, gives an adoptee general facts about the birth parents and their medical history. A written request sent to the Department when the agency is unknown is either processed there or returned with the agency's address [S17 @2026-11-12].
+
+Do not treat the decree as the whole adoption record. MyHeritage's adoptee guide says agencies often kept far more than the final legal paperwork [S19]. Washington's current rule shows what an agency file can hold: the report on the birth parents that an agency must give prospective adoptive parents includes heritage, physical description, education, occupation, family and social history, the circumstances leading to the adoption, and medical history [S18]. Record the agency's reply separately from the court's.
 
 ## Swedish unknown-parent record retrieval
 

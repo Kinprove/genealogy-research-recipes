@@ -3,11 +3,10 @@ id: "english-nonregister-record-recovery"
 title: "Recover English records beyond the parish register"
 summary: "Take an English or Welsh question past the parish register to poor-law, apprenticeship, pre-1858 church-court probate, dissenter or Catholic series, and Welsh marriage supplements with house/farm clues."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Take an English or Welsh question past the parish register to poor-law, apprenticeship, pre-1858 church-court probate, dissenter or Catholic series, and Welsh marriage supplements with house/farm clues."]}
-triggers: ["Take an English", "Welsh question past the parish register to poor-law", "apprenticeship", "pre-1858 church-court probate", "dissenter", "Catholic series"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "ENGLISH-NONREGISTER-RECORD-RECOVERY-01", "text": "a silent parish register does not make the question unanswerable; record which series do not cover the case."}]
+guardrails: [{"id": "ENGLISH-NONREGISTER-RECORD-RECOVERY-01", "text": "Record which series do not cover the case. The register being silent does not make the question unanswerable."}]
 handoff: ["scandinavian-patronymic-farm-name-record-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
@@ -32,6 +31,7 @@ Other recipes cover the neighbouring steps:
 - 4\. Apprenticeships
 - 5\. A label that says only "dissenter" or "nonconformist"
 - 6\. Wales: names and record routing
+- 7\. A man's age with no census entry
 - Deliver
 
 ## 1. Build the dated jurisdiction table before choosing a series
@@ -52,6 +52,8 @@ Other recipes cover the neighbouring steps:
    - **Poor law union.** Created under the Poor Law Amendment Act 1834. This decides where to look for workhouse and post-1834 poor-law records. Union boundaries often match registration-district boundaries [S1]. Fill in both rows separately from the map instead of copying one into the other.
 4. FamilySearch rebuilt the map in 2025, and the former version is no longer available [S2], [S30]. Open the new map at <https://www.familysearch.org/en/mapp/>; the old maps.familysearch.org address redirects there. If the address fails, take the current link from the FamilySearch Research Wiki page "England Jurisdictions 1851", not from FamilySearch's help article, which still sends readers to a preview in FamilySearch Labs [S30]. Cite the version and the date you consulted it.
 5. For each question below, write down the chosen series, its custodian and the jurisdiction row that justifies the choice.
+
+For step 1, read a combined place such as 'Prestwich cum Oldham' in an 1841 census entry or index as a whole ancient parish, not a single church. Prestwich-cum-Oldham, in Lancashire, had ten townships with several smaller chapelries; many townships had no medieval church of their own and used the parish church at Prestwich or a church outside the parish [S37]. List the townships and the churches their people used, and search each church's registers under its own name. Dana Leeds found a family's 1839 marriage under Prestwich, one of the ten townships, after the 1841 census placed the family in Prestwich cum Oldham [S38].
 
 ## 2. Pre-1858 probate: court first, then index, then register
 
@@ -144,6 +146,10 @@ Other recipes cover the neighbouring steps:
 4. **Search chapel registers alongside parish registers.** On Census Sunday 1851 most people attending worship in Wales were nonconformists [S24], [S25]. Apply §5 to Welsh chapels.
 5. **Search Welsh newspapers in Welsh and in English.** An English-only search misses the Welsh-language press.
 6. **Find the local archive with the Archives Wales repository map.** Services follow modern local authorities, not historic counties [S26].
+
+## 7. A man's age with no census entry
+
+For a man who died before the 1841 census, do not rest his birth year on the burial age or a death notice alone. Search the United Grand Lodge of England membership registers: the Museum of Freemasonry says over 1.7 million names from the registers of 1751 to 1921 are on Ancestry, and that an entry normally gives the man's age, address and occupation with the date he joined the lodge, but no date of birth [S39 @2026-11-12]. That dated age is a separate estimate to compare with the burial and newspaper ages. In Jonny Perl's case the register gave 39 in January 1819, a birth in 1779 or 1780, which agreed with a death notice and not with the burial age [S40 @2026-11-12]. Record the age as the lodge return gives it, and a miss as "no entry found": only freemasons appear.
 
 ## Deliver
 

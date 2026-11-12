@@ -3,11 +3,10 @@ id: "british-colonial-slave-registers"
 title: "Trace an enslaved ancestor through the British colonial slave registers and compensation records"
 summary: "Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records."]}
-triggers: ["Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "BRITISH-COLONIAL-SLAVE-REGISTERS-01", "text": "fix each colony's register years and whether each return is full or changes-only; link people by mother, age and origin, never by surname or a presumed father."}]
+guardrails: [{"id": "BRITISH-COLONIAL-SLAVE-REGISTERS-01", "text": "**Mark each return as a full list or a change return before reading it.**"}]
 handoff: ["evidence-proof-judgment", "family-interviews-and-oral-tradition", "historical-place-name-resolution", "probate-case-document-inventory", "us-freedpeople-record-recovery"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"

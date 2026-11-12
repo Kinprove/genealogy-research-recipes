@@ -4,10 +4,9 @@ title: "Corpus-seeded name searches across scripts and OCR"
 summary: "Recover attested spellings across scripts and OCR by separating encoding, orthography and field behaviour."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["Hebrew/Yiddish name misses, lossy search folds or uncalibrated zero results."]}
-triggers: ["Hebrew/Yiddish name misses", "lossy search folds", "uncalibrated zero results"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "CORPUS-SEEDED-NAME-SEARCH-01", "text": "normalization is not spelling expansion; preserve originals and treat rescued hits as candidates rather than identity or kinship proof."}]
+guardrails: [{"id": "CORPUS-SEEDED-NAME-SEARCH-01", "text": "A completed zero-hit query describes that query and scope; it does not exclude a person whose record or spelling has not been tested."}]
 handoff: ["archival-image-coverage-verification", "beider-given-name-variants", "bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing", "jewishgen-search-family-reconstruction"]
 checked: "2026-10-18"
 checked_basis: "opened 2026-10-18"
@@ -66,6 +65,14 @@ name links people to a holding; by itself it does not show blood kinship. A
 motivates this step. It does not show how widespread the custom was or how consistently clerks
 wrote it.
 
+In Pennsylvania German baptisms, the first given name, such as Johann or Anna, could be given to
+every child of the same sex in a family. The second name was the call name (Rufname) the child
+went by: a family's Johann Georg, Johann Jacob and Anna Barbara were known as Georg, Jacob and
+Barbara [S32, S33]. Search each child under the call name alone as its own lane. Do not treat the
+shared first name as the name in daily use, and do not merge siblings who appear in later records
+as plain Johann or Anna. A baptism that gives only 'Johannes' may belong to a man later known as
+John [S32]. A call-name match is a candidate, not proof that two entries are one person.
+
 ## Diagnose three different failures
 
 | Failure | Controlled comparison | Limitation |
@@ -123,6 +130,15 @@ systematic conversion table. A matching form is a candidate, not proof of identi
 and Russian name lanes in Bessarabian records, see
 [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
 
+In English-language records, a German surname may be translated by meaning, not only respelled:
+Zimmermann as Carpenter, Schwarzwälder as Blackwelder, Becker as Baker [S34]. More often the
+English form follows the sound, as Bentz to Pentz and Pence [S34], or Stehli to Staley and Bauman
+to Bowman, and given names take English forms, as Heinrich to Henry and Maria to Mary [S33]. Search
+the translated surname as its own lane: a spelling-variant or Soundex search will often miss it
+(Zimmermann and Carpenter have different Soundex codes). Keep
+the literal form in the inventory, and treat a translated-name hit as a candidate until place,
+family and dates connect it.
+
 In Russian-language records an Armenian given name may appear as a Russian one. A 2024
 Familio.Media article by Nina Galishnikova describes a list of Moscow Armenian community members
 of the 18th to early 20th centuries, compiled from Armenian-language documents of the Moscow
@@ -146,6 +162,25 @@ the [Ural Civil War thread](https://rodgersforum.borda.ru/?1-23-0-00000012-000-0
 and the [genealogy terms thread](https://rodgersforum.borda.ru/?1-0-0-00000141-000-0-0-1701453218=).
 None gives a rule for which form a clerk used. A family book is a compilation, and identity still
 needs original entries and place and household evidence.
+
+An 18th-century Russian commoner's patronymic is usually the short possessive form, Иван Петров
+(сын), not Иван Петрович. The -ович form had been a privilege since the 16th century, and Catherine
+II's rules for officials gave it in official papers only to generals and the matching highest
+officials [S35]. A woman's form adds -а, often with
+дочь (Петрова дочь), and a father's name ending in -а gives -ин, as Малина to Малинин; -овна was
+rare in the earlier period [S36]. When a transcribed or full-text index misses an 18th-century
+person, search the short form (Петров, Петрова) as well as -ович and -овна, as Vera Miller also
+advises [S37]. Do not file the short form as a surname. For reading such entries, see
+[the household-list audit](russian-household-list-transcription-audit.md).
+
+Baltic surnames change with sex, and Lithuanian ones also with marital status. A Lithuanian man's
+surname ends in -as, -is, -ys, -us, -ė or -a. An unmarried woman's replaces that ending with
+-aitė, -ytė, -utė or -iūtė, and a married woman's with -ienė, or sometimes -uvienė after a
+two-syllable name in -us [S38], as Briedis, Briedytė and
+Briedienė [S39]. Older records may write the maiden suffix as -kė instead of -tė [S38]. A Latvian
+surname has a masculine and a feminine form, as Kalniņš and Kalniņa [S40] or Briedis and Briede
+[S39]. Search the man's form, each woman's form and a documented stem wildcard as separate lanes,
+and convert a woman's form back to the family name before comparing relatives [S38, S41].
 
 Latin inflection needs its own lanes too. A Latin church entry may name a child's father in the
 genitive, so both the given name and a Latinized surname end in -i instead of the nominative form.
@@ -217,4 +252,4 @@ Keep the corpus/index version or access date, field, exact Unicode query, filter
 
 A successful search can still have incomplete coverage. A completed zero-hit query describes that query and scope; it does not exclude a person whose record or spelling has not been tested. When a newly attested form changes an earlier negative, rerun the affected searches and amend that specific conclusion. Do not infer kinship from the rescued name hit.
 
-For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).
+For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/d53465ce561c6e8b4f9f4dc4706a0641da7c6c67/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).

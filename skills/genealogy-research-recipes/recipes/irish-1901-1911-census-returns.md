@@ -3,11 +3,10 @@ id: "irish-1901-1911-census-returns"
 title: "Search, retrieve and read the Irish 1901 and 1911 census returns"
 summary: "Search, retrieve and read the Irish 1901 and 1911 census returns."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Search, retrieve and read the Irish 1901 and 1911 census returns."]}
-triggers: ["Search", "retrieve and read the Irish 1901 and 1911 census returns"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "IRISH-1901-1911-CENSUS-RETURNS-01", "text": "a name-search miss is not absence until the townland is shown to have online returns; read ages and every column under that year's printed instructions."}]
+guardrails: [{"id": "IRISH-1901-1911-CENSUS-RETURNS-01", "text": "Only a townland that has returns, searched by all the routes in steps 1–2 and browsed house by house, supports \"not found in [townland], [year]\"."}]
 handoff: ["evidence-proof-judgment", "irish-civil-registration-jurisdiction-recovery", "irish-emigrant-origin-locality", "irish-land-valuation-occupancy-series", "uk-census-and-1939-register-interpretation"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"

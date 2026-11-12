@@ -4,10 +4,9 @@ title: "Finding Jewish genealogical lists behind archival catalogue titles"
 summary: "Select Ukrainian archival cases for named Jewish lists while separating title, geographical and document evidence."
 kind: "records"
 scope: {"platforms": [], "tasks": ["false-positive keywords, generic titles, civil-registration fund scope or candidate lists that have been presented as verified contents."]}
-triggers: ["false-positive keywords", "generic titles", "civil-registration fund scope", "candidate lists that have been presented as verified contents"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "JEWISH-ARCHIVAL-LIST-TRIAGE-01", "text": "a title or locality signal is a retrieval lead; verify the requested named entries and retain uninspected cases explicitly."}]
+guardrails: [{"id": "JEWISH-ARCHIVAL-LIST-TRIAGE-01", "text": "A geographical association does not establish either Jewish contents or the identity of a person. Do not present a title match as a verified Jewish list."}]
 handoff: ["archival-image-coverage-verification", "corpus-seeded-name-search"]
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
@@ -154,5 +153,5 @@ Deliver the case keys, exact titles, reasons, inspected locators and unresolved
 retrieval needs. Stop at the agreed catalogue or case scope; an uninspected reserve
 is a possible next source, not a completed search.
 
-This triage rubric is an investigator-created workflow. [Source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/jewish-archival-list-triage.md)
+This triage rubric is an investigator-created workflow. [Source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/d53465ce561c6e8b4f9f4dc4706a0641da7c6c67/skills/genealogy-research-recipes/sources/jewish-archival-list-triage.md)
 separate it from provider facts and related verification methods.

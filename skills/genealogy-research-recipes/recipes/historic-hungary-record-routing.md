@@ -3,11 +3,10 @@ id: "historic-hungary-record-routing"
 title: "Route a record from historic Hungary by county, successor state and record type"
 summary: "Route a birth, marriage, death, census or tax entry from the pre-1920 Kingdom of Hungary by county, successor state and record type."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route a birth, marriage, death, census or tax entry from the pre-1920 Kingdom of Hungary by county, successor state and record type."]}
-triggers: ["Route a birth", "marriage", "death", "census", "tax entry from the pre-1920 Kingdom of Hungary by county", "successor state and record type"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "HISTORIC-HUNGARY-RECORD-ROUTING-01", "text": "today's border does not pick the holder; fix the county in the event year, and search the 1828 national conscription centrally wherever the village lies today, outside Transylvania."}]
+guardrails: [{"id": "HISTORIC-HUNGARY-RECORD-ROUTING-01", "text": "**Start with the archive of the state the village lies in today for local registers.** The MNL in Budapest holds them for today's Hungary, not for the whole kingdom."}]
 handoff: ["archival-image-coverage-verification", "austrian-confessional-register-routing", "catholic-parish-diocesan-record-recovery", "evidence-proof-judgment", "familysearch-practical-record-workflows", "galicia-bukovina-habsburg-record-routing", "historical-place-name-resolution", "illegitimacy-record-recovery", "jewishgen-search-family-reconstruction", "tax-roll-observation-workflow"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

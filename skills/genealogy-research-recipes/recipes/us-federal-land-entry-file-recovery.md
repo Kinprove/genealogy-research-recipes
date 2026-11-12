@@ -3,11 +3,10 @@ id: "us-federal-land-entry-file-recovery"
 title: "Recover a U.S. federal land-entry case file behind (or without) a GLO patent"
 summary: "Follow a GLO patent, bounty-land number or final-proof notice to the federal land-entry case file."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Follow a GLO patent, bounty-land number or final-proof notice to the federal land-entry case file."]}
-triggers: ["Follow a GLO patent", "bounty-land number", "final-proof notice to the federal land-entry case file"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-FEDERAL-LAND-ENTRY-FILE-RECOVERY-01", "text": "the patent image is not the entry file, and a failed GLO name search does not prove that no claim existed."}]
+guardrails: [{"id": "US-FEDERAL-LAND-ENTRY-FILE-RECOVERY-01", "text": "The digitized GLO item is the final grant or warrant image, often a single page. It is not the entry file."}]
 handoff: []
 checked: null
 checked_basis: null
@@ -60,6 +59,8 @@ Start an entry-routing row for each GLO hit. Record the authority (military warr
 If you have a pension or bounty-land index card, compare its BLWT number with the GLO hit. A BLWT number has three parts in this order: warrant/file number, acreage and act year (for example 36643-160-55). In Strauss's example all three matched the patent record. [S1] If any one part fails to match, treat the patent as belonging to a different warrant or person until you can explain the difference.
 
 Read the acreage against the act. A veteran who received 40 acres under the 1850 act could receive another 120 acres under the 1855 act, for 160 acres in total. [S2] So one veteran can lie behind more than one warrant and more than one entry. The 1855 act was the last general bounty-land act, but warrants under the 1847–1855 acts kept being issued for decades. Acreage varied by rank and changed with each act. For example, the basic War of 1812 grant of 160 acres was raised to 320 by an 1814 act. [S9], [S12] State bounty-land programmes had their own rules and fall outside this federal route. [S12], [S1]
+
+**Mining claims.** Search the GLO records for a mining claim, as Family Locket's mining guide advises [S20 @2026-11-12], but expect only claims that went to patent. The site gives access to federal land conveyance records [S23 @2026-11-12], and its 2004 glossary names the Mineral Certificate as the document that describes a lode, placer or millsite claim [S21 @2026-11-12]. An unpatented claim was never conveyed, so a GLO miss says nothing about it. Look for its location notice in the records of the county where the claim lies, and in BLM's copies of notices recorded under section 314 of the Federal Land Policy and Management Act [S22 @2026-11-12].
 
 ## 2. Keep the two bounty-land series apart
 
@@ -123,6 +124,8 @@ Inventory the file one document at a time instead of summarizing it. Contents va
 - Application and proof-up papers, which may give an immigrant's original name, place of origin or family arrangements. [S4]
 - Naturalization papers. The 1862 Homestead Act let citizens and people who had filed a declaration of intention make an entry, but citizenship was required by final proof. That makes a declaration or a citizenship certificate a likely item in the packet. [S6] If it names a court, look for the declaration or petition in that court. [S6] Take the court lead to [U.S. immigration search recovery](usa-immigration-search-recovery.md).
 - For warrant entries: the surrendered warrant and any signed assignment on its back. [S1]
+
+- The application or entry date. The patent ends an entry, and the case file can show when it began, often years earlier. Diana Elder found Arkansas patent applications dated four to six years before the earlier patents and two years before the later ones, and used an 1838 application as the earliest date for the man in the county [S18]. Do not read a homestead entry date as the start of residence: a homesteader had six months after filing to take up residence, and at final proof the witnesses testified when actual residence began [S24]. Title came after five years on the land, or after six months' residence and a cash payment [S19]. For any entry, record the entry date as a dated dealing with the land, not as proof that the person lived there.
 
 Each item is a lead with its own locator. A name or place of origin given in a land file still has to be correlated with independent records.
 

@@ -3,11 +3,10 @@ id: "russian-imperial-service-record-recovery"
 title: "Recover a pre-1917 Russian official's service list through the employing institution's fond"
 summary: "Recover a pre-1917 official's formulary or service list through the employing institution's fond."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover a pre-1917 official's formulary or service list through the employing institution's fond."]}
-triggers: ["Recover a pre-1917 official's formulary", "service list through the employing institution's fond"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "RUSSIAN-IMPERIAL-SERVICE-RECORD-RECOVERY-01", "text": "do not stop at metrical books, revision lists or a military archive; search the employer, provincial and later-employer fonds, not only the first."}]
+guardrails: [{"id": "RUSSIAN-IMPERIAL-SERVICE-RECORD-RECOVERY-01", "text": "Do not stop at metrical books, revision lists or a military archive. A man in state service had his career and family written up in a formulary or service list (формулярный / послужной список)."}]
 handoff: ["corpus-seeded-name-search"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"

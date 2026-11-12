@@ -3,11 +3,10 @@ id: "scottish-parish-statutory-record-recovery"
 title: "Recover a Scottish birth, marriage or death across parish and statutory registers"
 summary: "Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry and kirk-session records."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry and kirk-session records."]}
-triggers: ["Recover a Scottish birth", "baptism", "marriage", "death across Old Parish", "statutory", "corrected-entry and kirk-session records"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "SCOTTISH-PARISH-STATUTORY-RECORD-RECOVERY-01", "text": "register gaps and unsearched denominations are coverage still to search, not proof that the event did not happen."}]
+guardrails: [{"id": "SCOTTISH-PARISH-STATUTORY-RECORD-RECOVERY-01", "text": "Treat register gaps and unsearched denominations as coverage still to search, not as proof the event did not happen."}]
 handoff: ["quaker-meeting-record-recovery", "uk-census-and-1939-register-interpretation"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
@@ -60,6 +59,8 @@ Some steps overlap with other recipes; use those recipes for them:
 - **Check any family registration from 1855.** Entries from that first year carry extra fields. A birth adds the parents' ages and birthplaces, the parents' marriage, and counts of living brothers and sisters. A death lists the decedent's children and their ages. Turn the counts into a list of named children still to find in registers and censuses. Do not treat the counts as a finished family. [S1]
 - **Do not treat "Jr" or "Sr" as father and son.** The labels can mark a grandfather, an uncle or a more distant relative. [S4]
 - **Search the minor records for a death at sea.** A Scot who died at sea on a British-registered merchant ship is recorded in the Marine Returns, not a district death register. [S24], [S25] To find them, search statutory deaths on ScotlandsPeople and choose Minor Records. [S24] The Marine Returns cover merchant seamen, including Second World War losses. They also cover some wartime Royal Navy, Royal Marines and naval reserve deaths at sea. [S24], [S26] The Second World War War Returns cover only members of the armed forces, and they are incomplete. [S25] Search them as well for a serviceman, but not for a merchant seaman. Do not treat a missing district death entry as survival until you have searched the minor records. [S23]
+
+For a person born before 1855 whose parents are unknown, search for a Scottish death from 1855 onward, including for someone who married before statutory registration. Most death entries give the father's name, surname and occupation, the mother's name and maiden surname, and whether each parent had died [S34]. Read them as the informant's statements, like the other fields. Jonny Perl looked for the death of a man aged 67 in the 1861 census for this reason, and later learned that he had emigrated and died in Pennsylvania [S35]. If no Scottish death is found, test emigration before calling the parents unrecorded.
 
 ## Classify each OPR entry from the image
 

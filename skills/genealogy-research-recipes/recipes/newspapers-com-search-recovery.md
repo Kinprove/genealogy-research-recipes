@@ -4,13 +4,12 @@ title: "Newspapers.com: Recover Notices That Name Searches Miss"
 summary: "Recovering newspaper notices when issue coverage, printed names or OCR hide an ancestor on Newspapers.com. Build a title–holding–issue register first, resolve another holding when coverage is insufficient, then search initials, married names, associates, occupations and addresses and verify the original notice."
 kind: "platform"
 scope: {"platforms": ["newspapers.com"], "tasks": ["a failed newspaper name search, an unknown maiden name, a missing obituary, immigration or family-reconstruction leads, title changes, incomplete issue coverage, alternate holdings or unreadable OCR."]}
-triggers: ["a failed newspaper name search", "an unknown maiden name", "a missing obituary", "immigration", "family-reconstruction leads", "title changes"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "NEWSPAPERS-COM-SEARCH-RECOVERY-01", "text": "a page-level hit can join different notices; verify each person, relationship, event date and place in its actual notice. A failed query is not evidence that an event never happened, and a second index of the same newspaper image is not independent corroboration."}]
+guardrails: [{"id": "NEWSPAPERS-COM-SEARCH-RECOVERY-01", "text": "A surname can occur in one item and a travel verb in another on the same page. Confirm the subject and event within the actual item before assigning that event to the searched person."}]
 handoff: ["ai-for-documentary-records", "australia-nz-record-routing", "court-case-file-recovery", "criminal-court-prison-record-recovery", "evidence-proof-judgment", "research-documentation", "us-federal-court-case-file-recovery"]
-checked: "2026-10-03"
-checked_basis: "accessed 2026-10-03"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["newspapers.com"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 35}
 ---
@@ -173,7 +172,7 @@ Set place and publication-date limits separately. (S9, H7, H8, H9)
 | 1 | Nothing appears for the expected place and date. | Use Browse to inspect titles and the actual available issues for that interval. Check competing papers and predecessor/successor titles, including small title changes such as adding Daily. (S3, S8, S9) | Is the relevant issue, edition and page present and accessible with your subscription tier? Record a coverage gap separately from a query that returned no match. |
 | 2 | A full name returns no useful notice. | Inspect naming style in a known issue. For William Richard Evans, try `"Richard Evans"`, `"W R Evans"` and a surname-only `Evans` search in a tighter place/time scope. Also try a known nickname. (S2, S6) | Are these forms actually used by the title or plausible for this person? Initial spacing and punctuation can differ; a failed exact phrase does not eliminate the initial form. |
 | 3 | A woman's own full name is missing. | Try her maiden and married surnames, then her husband's name or initials: `"Mrs Robert Evans"`, `"Mrs R Evans"`. Search surname-only lists and notices about relatives when her given name is omitted. (S5, S9, S11) | Does the item identify the wife, or only a different person sharing the surname? Read compressed lists with their heading and surrounding sentences. One `Misses` or `Mrs.` before a run of surnames applies to each of them: after `Misses` they are maiden surnames, after `Mrs.` married surnames, without given names. |
-| 4 | The image looks readable but the query misses it. | First look at how the OCR read the name: check the highlighted words on a hit's page thumbnail, or open the article text (OCR) under a clipping of the item, made private as in rule 7. Query the misreading you see. Otherwise test a small set of visually plausible letter confusions, such as B/H or C/E, based on the scan, or run one wildcard probe such as `Ev?ns`. Shorten an over-specific phrase, search an uncommon given name alone within a tight place and date scope, or search another intact word from the expected notice. (S1, S11, H7, H8, H10) | Read the original letters. Label a distorted or wildcard search form as an OCR probe, not a corrected historical name. |
+| 4 | The image looks readable but the query misses it. | First look at how the OCR read the name: check the highlighted words on a hit's page thumbnail, or open the article text (OCR) under a clipping of the item, made private as in rule 7. Query the misreading you see. Otherwise test a small set of visually plausible letter confusions, such as B/H or C/E, based on the scan, or run one wildcard probe such as `Ev?ns`. Shorten an over-specific phrase, search an uncommon given name alone within a tight place and date scope, or search another intact word from the expected notice. (S1, S11, H7, H8, H10, H15) | Read the original letters. Label a distorted or wildcard search form as an OCR probe, not a corrected historical name. |
 | 5 | A smudged target name may be in a group notice. | Search a known relative, witness, neighbor or club member who could appear in that same item; alternatively search the known club name within the relevant title/time. (S1; club-name search authored) | Does the recovered item actually include the target? A notice about the club alone supplies context, not personal participation. |
 | 6 | A common surname produces too much noise. | Try a surname with a known occupation or address: `Evans carpenter`, `Evans "42 Oak Street"`. Run these as separate clue-based passes. (S3) | Do the clue and surname belong to the same notice and person? Inspect the full address; a reused address can lead to different occupants. |
 | 7 | You need a visit, departure or migration clue. | Run one verb per pass: `Evans visited`, `Evans arrived`, `Evans left`, `Evans returned`, `Evans moved`. Read society items in both plausible departure and destination papers. (S4) | Who performed the action, when, and where? A highlighted surname beside an unrelated arrival notice is not the searched person's trip. |
@@ -368,8 +367,9 @@ Use precise result labels:
   copyright ("typically 1931 and newer", per the plans page); Basic does not include them.
   Such a hit shows that the issue exists and that its OCR matched the query, so it is neither
   a coverage gap nor a no match in examined scope. Record the subscription tier you searched
-  with: Ancestry's current All Access offer names Publisher Extra, but its 2024 wording named
-  Basic, so check the account rather than assume. (H11, H12)
+  with: Ancestry's Newspapers.com FAQ says All Access includes Publisher Extra, yet it tells a
+  member who sees indexed records but not the images to move from All Access with Basic to
+  Publisher Extra, so check the account rather than assume. [H11 @2026-11-12], [S10 @2026-11-12]
 
 ### Optional handoff from a religious-life notice
 

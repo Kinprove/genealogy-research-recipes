@@ -4,13 +4,12 @@ title: "Working with 23andMe DNA: matches, matrices, segments, and preservation"
 summary: "Twelve practical workflows for 23andMe match research, permitted comparisons, numerical matrices and dated preservation."
 kind: "platform"
 scope: {"platforms": ["23andme", "dna-painter"], "tasks": ["match worksheets, connection permissions, selected-segment painting, parent-side information, ancestry confidence/history, legacy bucketing, reconstructed ancestors, extension exports/groups, manual shared-match charts, or floating research-tree branches."]}
-triggers: ["match worksheets", "connection permissions", "selected-segment painting", "parent-side information", "ancestry confidence/history", "legacy bucketing"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "23ANDME-MATCH-RESEARCH-01", "text": "verify actual access and quantity scope; keep shared-list membership, matching intervals, ancestry estimates and documentary identity separate."}]
+guardrails: [{"id": "23ANDME-MATCH-RESEARCH-01", "text": "The expensive mistake is assuming that every visible DNA Relative can be compared in every position, every percentage is autosomal-only, and every Download button returns the same kind of evidence."}]
 handoff: ["ai-for-dna-research", "evidence-proof-judgment", "unknown-parentage-wato", "xdna-phasing-judgment", "ydna-mtdna-interpretation"]
-checked: "2026-10-03"
-checked_basis: "checked 3 October 2026"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["23andme", "dna-painter"], "local_script": [], "extensions": ["Genea browser extension (optional)"], "data_transfer": ["export", "link", "third-party-tool", "upload"], "contact": ["contact"]}
 router: {"tier": "full", "group": "Featured workflows", "order": 38}
 ---
@@ -67,6 +66,17 @@ upgrade or planning a tool-dependent workflow. Subscription names, chip requirem
 regional availability, and match-list limits change. A missing button deserves an access
 check; a withheld comparison belongs in the worksheet as **unavailable**. Participation and
 ancestry sharing disclose different fields; record both. [O1]
+
+Read DNA Relatives as a capped list of the closest matches, not a roster of everyone who tested.
+23andMe's Premium Ancestry page advertises up to 5,000 DNA Relatives for members
+[O28 @2026-11-12]; practitioners reported a 1,500-match list without a membership from 2021 to
+2023 [S31 @2026-11-12], [S32 @2026-11-12], [S7 @2026-11-12]. Record the membership state and the
+list size with each worksheet. Estes reports that matches the user has communicated with, or tried
+to, are kept after they would otherwise roll off the list [S7 @2026-11-12], [S31 @2026-11-12]. A
+distant cousin missing from a full list may sit below the cap: record `not in the capped list`,
+not `not tested` or `not related`. One endogamous side can fill the list with distant matches.
+Perl had only 88 maternal matches among 1,500 although both parents had tested
+[S32 @2026-11-12]. Few matches on one side do not show that few relatives on that side tested.
 
 For a requested visibility pause, check matching participation, existing Connections and the
 actual ancestry/health sharing scope for each managed profile separately. Record the states
@@ -415,11 +425,12 @@ describe ancestry assignments; they do not establish a match's shared segment. [
 genome; answer the privacy gate in `SKILL.md` before requesting it, and keep the file on the
 user's own device.
 
-Request raw data early if preservation matters. The available summary of 23andMe's raw-data
-help suggests allowing days for processing; the full article was unavailable, so timing and
-delivery details remain unconfirmed [O8]. Confirm the email address and retain the request
-confirmation as preservation checks. Read the current delivery instructions before promising
-a download time. This is a separate genotype request, not a backup of DNA Relatives.
+Request raw data early if preservation matters. 23andMe's raw-data help asks for the profile's
+date of birth before the request and again before the download. It says a notification email
+follows when the file is ready, usually after about one week but sometimes up to thirty days
+[O8 @2026-11-12]. Confirm the email address and retain the request confirmation as
+preservation checks. Read the current delivery instructions before promising a download time.
+This is a separate genotype request, not a backup of DNA Relatives.
 
 Preserve profile clues, external tree links, useful communications, and the match worksheet
 alongside exported files. Start with the closest identified matches and the branch relevant
@@ -459,17 +470,20 @@ or effect is unavailable, leave it unresolved. [S27]
 23andMe's owner changed in 2025. On 30 June 2025 23andMe announced that the U.S.
 Bankruptcy Court for the Eastern District of Missouri had approved the sale to TTAM Research
 Institute, a nonprofit. TTAM completed the acquisition of the Personal Genome Service and
-Research Services business lines on 14 July 2025. [O24, O25] TTAM committed to honour
-23andMe's existing policies that let individuals delete their account and genetic data and
-opt out of research. [O23] Before the sale, the attorneys general of New York and 27 other
-jurisdictions, including the District of Columbia, sued 23andMe. They argued that it could
-not sell customers' genetic data without their consent. [O26] The service
-now runs as 23andMe Research Institute. Its privacy statement, read on 6 November 2026 (last
-updated 17 October 2025), says an account can be deleted in Account Settings at any time,
-that deletion opts the account out of research and discards the sample, that deletion cannot
-be reversed and that it is subject to retention requirements. [O27] Before advising whether
-to delete, preserve or transfer the data, read the current privacy statement and terms; do
-not rely on guidance written before the sale.
+Research Services business lines on 14 July 2025. [O24 @2026-11-12], [O25 @2026-11-12] TTAM
+committed to honour 23andMe's existing policies that let individuals delete their account and
+genetic data and opt out of research. [O23 @2026-11-12] Before the sale, the attorneys general
+of New York and 27 other jurisdictions, including the District of Columbia, sued 23andMe. They
+argued that it could not sell customers' genetic data without their consent. [O26 @2026-11-12]
+The service now runs as 23andMe Research Institute. Its privacy statement, read on 12 November
+2026 (last updated 17 October 2025), says an account can be deleted in Account Settings at any
+time, that deletion opts the account out of research and discards the sample, that deletion
+cannot be reversed and that it is subject to retention requirements. It also says that 23andMe
+and/or its contracted genotyping laboratory will retain genetic information, date of birth and
+sex as legal obligations such as the federal CLIA laboratory rules require, even after the
+account is deleted. [O27 @2026-11-12] Before advising whether to delete, preserve or transfer
+the data, read the current privacy statement and terms; do not rely on guidance written before
+the sale.
 
 ## Recipe 7: preserve ancestry painting without turning it into matching evidence
 
@@ -622,6 +636,11 @@ They do not establish pairwise matching on the same interval or assign every seg
 known relative's branch. Inspect useful matches with recipe 4 and the existing DNA judgment
 recipes, especially in endogamous families.
 
+Expect some bucketed matches that do not fit the branch. Perl found 17 matches in common between
+the lists of two testers who are not related to each other, each list holding more than 10,000
+matches [S10]. Before assigning an unexpected bucketed match to the branch, review its shared
+matches in detail on the testing site [S10].
+
 ## Recipe 9: improve a Reconstructed Ancestor through verified tree placements
 
 Where the feature is available, use it to explore an ancestor's partial ancestry profile.
@@ -668,33 +687,36 @@ the CSVs private and local. If permission or the extension's data handling is un
 install or run it; use the manual worklist in recipe 11.
 
 1. Enable **23andMe Download Matches Pages as CSV File** in the extension panel and open
-   DNA Relatives. Set a page count or leave it empty for all pages in the accessible list.
-   Download the CSV and retain tester, retrieval date and chosen scope. Developer-documented
+   DNA Relatives. Type a page count, or click **select all** for every page from the one you
+   are on; the download follows the list's on-screen filters and sort order. Download the CSV
+   and retain tester, retrieval date, filters and chosen scope. Developer-documented
    columns include shared amounts, segment count, predicted relationship, star status,
-   Groups, Match GUID and Match URL. Check several IDs and amounts against visible rows. [O14]
+   Groups, Match GUID and Match URL. Check several IDs and amounts against visible rows.
+   [O14 @2026-11-12]
 2. For a particular anchor, enable **23andMe Download Shared Matches as CSV File** and open
    that match's Relatives in Common. Choose the page scope and download. The documented CSV
    separates your shared amounts from **Shared cM with Match** and **Shared Percentage with
    Match**, retaining URLs and GUIDs. Use those labeled quantities to populate the anchor
    worksheet rather than transcribing each between-match value. Record the focal tester
-   and anchor with the file. [O15]
+   and anchor with the file. [O15 @2026-11-12]
 3. To label that cohort, enable **23andMe Add Groups to Shared Matches**, open **Add/Manage
-   Groups**, and create the intended group. Select individual matches or use **Select across
-   all pages** for the shared list, then assign the selection to that group. The developer
-   describes per-kit assignments that persist across sessions. Save the cohort scope and
-   export its Groups field for your local index. [O16]
+   Groups**, and create the intended group. Select individual matches or use **Select all**
+   for every page from the one you are on, then assign the selection to that group. The
+   developer says groups belong to the DNA test being viewed and are kept in the browser.
+   Save the cohort scope and export its Groups field for your local index. [O16 @2026-11-12]
 4. Use a consistent color/name scheme across platforms, as the practitioner article proposes.
    Keep a candidate-branch label distinct from a documented relationship. A structured name
    such as `branch=Tulchin | status=candidate` is our synthesis. Join 23andMe snapshots using
    sample-checked 23andMe IDs; use an explicit verified mapping for another provider's IDs.
-   A group label alone does not assign every member to an ancestor. [S15]
+   A group label alone does not assign every member to an ancestor. [S15 @2026-11-12]
 
 For quick relationship-range exploration, the extension also offers a **DNA Painter Shared
 cM Tool** button on a match profile. Its developer explicitly says it converts the displayed
 percentage to cM before opening the calculator. Keep that conversion separate from directly
-reported amounts. The CSV help pages do not specify the origin of their cM fields: preserve
-their percentages and label the cM fields as extension-produced rather than assuming measured
-autosomal-only totals. Use recipe 2 when selecting calculator inputs. [O14, O15, O17]
+reported amounts. The CSV help pages say their cM fields are likewise worked out from
+23andMe's shared percentage: preserve the percentages and label the cM fields as
+extension-produced rather than assuming measured autosomal-only totals. Use recipe 2 when
+selecting calculator inputs. [O14 @2026-11-12], [O15 @2026-11-12], [O17 @2026-11-12]
 
 These exports collect the accessible match pages described by the developer. They do not
 establish matching-segment endpoints or restore a native bulk segment download. Keep each

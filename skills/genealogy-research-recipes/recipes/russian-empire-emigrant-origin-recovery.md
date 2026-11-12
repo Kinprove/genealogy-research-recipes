@@ -4,10 +4,9 @@ title: "Recovering a Russian Empire emigrant's origin locality"
 summary: "Five workflows for tracing an emigrant from destination records to an exact historical locality: reconcile arrival clues, recover failed name searches, extract complete manifests, follow contact/travel networks, and prepare a locality and archive handoff. Principally 1880–1924 U.S. arrivals, including Canadian transit, across confessions."
 kind: "records"
 scope: {"platforms": [], "tasks": ["conflicting arrival years, changing names, missing manifest pages, two contact fields, separate family arrivals, residence/birthplace ambiguity or an unresolved origin town."]}
-triggers: ["conflicting arrival years", "changing names", "missing manifest pages", "two contact fields", "separate family arrivals", "residence/birthplace ambiguity"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "RUSSIAN-EMPIRE-EMIGRANT-ORIGIN-RECOVERY-01", "text": "preserve each person's record and place role; verify linked pages and outcome evidence; direct U.S.-bound Canadian transit does not imply a Form 30A record."}]
+guardrails: [{"id": "RUSSIAN-EMPIRE-EMIGRANT-ORIGIN-RECOVERY-01", "text": "Preserve the wording and field role until the movement and locality evidence resolve them."}]
 handoff: ["ai-for-documentary-records", "beider-given-name-variants", "bessarabia-moldova-record-routing", "evidence-proof-judgment", "jewishgen-search-family-reconstruction", "newspapers-com-search-recovery", "research-documentation", "russian-empire-jewish-identity-attribution", "russian-volost-town-administration-records", "source-citation", "usa-immigration-search-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
@@ -198,6 +197,21 @@ collection's other files, which LAC holds on microfilm. [H8] On Doukhobor ship l
 instead of the official surname, so add patronymic-as-surname and nickname search lanes.
 [S18]
 
+Also search LAC's *Ukrainian Immigrants, 1891–1930*, which gives 14,793 names of Ukrainians who
+arrived in Canada. It draws on passenger lists for Canadian and American ports held at LAC and on
+Vladimir Julian Kaye's notes and settler dictionaries; its index includes surname variants and some
+alternate names, and its entries are in the language of the original documents. [H20 @2026-11-12]
+
+In LAC's Collection Search, `*` at the start or end of a word finds variants and `?` replaces one
+unknown letter. [H19 @2026-11-12] Vera Miller, writing on Ukrainian and Russian immigrants to
+Canada, also combines `*` and `?` within first or last names, and for a rare given name searches
+that name with the surname's first letter and `*`. [S20 @2026-11-12]
+
+Add an anglicized given-name lane, as Miller advises: Ukrainian immigrants
+used English forms such as Basil for Vasyl (Wasyl "Basil" Kushnir, in Canada) and Walter for
+Volodymyr (Volodymyr or Walter Galan, in Philadelphia). [S20, H21, H22] Log each anglicized form as
+a candidate until a record ties it to the person.
+
 **Artifact:** research-log rows and a candidate list:
 
 ```text
@@ -293,6 +307,19 @@ viewed through FamilySearch, and the poster found documents on an undelivered mo
 refund that way. The reply gives no period, coverage, finding aid or field list. Record any named
 person and place as written, as an unverified contact lead, and do not treat a miss as a negative
 search.
+
+If the emigrant or a relative lived in an émigré community abroad before arriving, for example in
+Harbin or Shanghai, search two more lead sources. The Hoover Institution's Russia Abroad Digital
+Collection has full-text (OCR) search of Russian-language newspapers published outside the Soviet
+Union between 1917 and 1992; in November 2025 it held 584 titles from 96 cities in 35 countries,
+free with no registration. [H23 @2026-11-12] Search in Russian and in the language of the place;
+Vera Miller reports results in Russian for queries typed in English. [S21 @2026-11-12] China
+Families, directed by Robert Bickers at the University of Bristol, searches about 60,000 names of
+people who lived, worked or died in China between the 1850s and 1940s, drawn from government
+department lists, legal and diplomatic records, cemetery lists and other sources; the site says it
+is still under development. [H24 @2026-11-12], [H25 @2026-11-12] It searches by name only, so try
+given names when the surname spelling is uncertain. [S22 @2026-11-12] Treat a hit in either source
+as a lead to the page or list entry, and a miss as no result for that source only.
 
 **Artifact — contact worklist:**
 

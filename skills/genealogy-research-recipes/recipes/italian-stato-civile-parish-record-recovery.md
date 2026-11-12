@@ -3,11 +3,10 @@ id: "italian-stato-civile-parish-record-recovery"
 title: "Recover an Italian ancestor in the Stato civile, parish books and conscription lists"
 summary: "Send an Italian birth, marriage or death to the register that was the legal record in that place and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato civile), then search conscription lists and the population register as separate series."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Send an Italian birth, marriage or death to the register that was the legal record in that place and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato civile), then search conscription lists and the population register as separate series."]}
-triggers: ["Send an Italian birth", "marriage", "death to the register that was the legal record in that place and year (a Napoleonic municipal register", "an Austrian-era parish book", "the comune's Stato civile)", "then search conscription lists and the population register as separate series"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "ITALIAN-STATO-CIVILE-PARISH-RECORD-RECOVERY-01", "text": "date civil registration by the state that ruled the place, not by one national year; an Antenati name-search miss or a missing year is a coverage gap, not proof of absence."}]
+guardrails: [{"id": "ITALIAN-STATO-CIVILE-PARISH-RECORD-RECOVERY-01", "text": "Fix who registered the event before you choose a series. Use the event year and the place's ruler in that year, not today's region."}]
 handoff: ["archival-image-coverage-verification", "catholic-parish-diocesan-record-recovery", "catholic-sacramental-cross-notations", "evidence-proof-judgment", "familysearch-practical-record-workflows", "historical-place-name-resolution"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

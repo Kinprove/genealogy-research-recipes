@@ -3,11 +3,10 @@ id: "german-register-image-recovery"
 title: "Recover a German register entry through its locality, record offices and register version"
 summary: "Trace an emigrant's German place name to its church or civil register entry through the locality, record offices and register version; retain distinct named sponsor and proxy roles."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Trace an emigrant's German place name to its church or civil register entry through the locality, record offices and register version; retain distinct named sponsor and proxy roles."]}
-triggers: ["Trace an emigrant's German place name to its church", "civil register entry through the locality", "record offices and register version", "retain distinct named sponsor and proxy roles"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "GERMAN-REGISTER-IMAGE-RECOVERY-01", "text": "do not take the first same-named town, assume it kept its own records, or cite a derivative as the original."}]
+guardrails: [{"id": "GERMAN-REGISTER-IMAGE-RECOVERY-01", "text": "**Narrow by the Kreis, Oberamt or state nesting.** Many towns share a name."}]
 handoff: ["french-departmental-record-routing"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
@@ -152,6 +151,10 @@ Many smaller places had no parish of their own. One presenter estimates that the
   - Check when the parish began and which parish served the place before. Danzig-Emaus dates only from 1906; St. Nikolai served the area before then. [S34]
   - Behlendorf's books on Archion start in 1761, but a participant pointed to copies of the Nusse books for 1614/1618–1760 in the Lübeck city archive. [S33]
   - Build a table of custodian, register type, years and serving parish. If every church copy has a gap, turn to the civil registers (the Standesamt step in section 4). [S34]
+
+**Brandenburg and Berlin: also search the Brandenburg-Datenbank** (db-brandenburg.de), a volunteer database of transcribed sources [S76 @2026-11-12]. Its categories include church books, civil registers, address books, cemeteries and graves, war memorials including the fallen, genealogical evaluations (OFB), and Familienstammbücher und Ahnenpässe. Civil registers are added office by office and year by year, each marked as a name index (*Namensindex*) or a full transcription (*Vollabschrift*), for example "Standesamt Berlin 10b (B) Geburten 1904 (Namensindex)" [S74 @2026-11-12]. The Metasuche searches only the databases you select, also matches birth names, and does not yet cover every database [S75 @2026-11-12].
+
+Record the databases, offices and years you searched and the form each was in. A name-index hit leads you to the register entry; it is not the entry. A miss counts only for the offices and years the database holds.
 
 ## 7. Classify the register version behind every image
 
