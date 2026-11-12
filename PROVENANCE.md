@@ -12,9 +12,13 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | --- | --- | --- | --- | --- |
 | `ai-for-documentary-records#C-d66c7e322499` | platform-ui | 2026-11-12 | 2027-05-11 | S1, S2 |
 | `ai-for-documentary-records#C-42a45d75eaa5` | platform-ui | 2026-11-12 | 2027-05-11 | S1, S2 |
+| `ai-for-documentary-records#C-04d95e299671` | platform-ui | 2026-11-12 | 2027-05-11 | S6, S7 |
+| `ai-for-documentary-records#C-0d1b4dd61e33` | platform-ui | 2026-11-12 | 2027-05-11 | S8, S9 |
 | `ai-for-documentary-records#C-788ba38b6aef` | platform-ui | 2026-11-12 | 2027-05-11 | S12, S13, S14 |
 | `ancestry-dna-match-investigation#C-6bb1ec7f0ce2` | platform-ui | 2026-11-12 | 2027-05-11 | S1, S2 |
+| `ancestry-dna-match-investigation#C-c460e868fec0` | platform-ui | 2026-11-12 | 2027-05-11 | S3, S4 |
 | `ancestry-dna-match-investigation#C-c4102c1b7ece` | platform-ui | 2026-11-12 | 2027-05-11 | S5, S6 |
+| `ancestry-dna-match-investigation#C-13a6dcaa85dd` | platform-ui | 2026-11-12 | 2027-05-11 | S7, S8 |
 | `ancestry-dna-match-investigation#C-eb64415fc9d3` | platform-ui | 2026-11-12 | 2027-05-11 | S9, S10 |
 | `ancestry-record-search-recovery#C-dab76d812ca4` | platform-ui | 2026-11-12 | 2027-05-11 | S1, S2, S3 |
 | `archival-image-coverage-verification#C-450748dcfdf4` | portal-availability | 2026-11-08 | 2027-02-06 | S47 |
@@ -35,8 +39,10 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `catholic-sacramental-cross-notations#C-d2ee8b9ea9b3` | portal-availability | 2026-11-08 | 2027-02-06 | S12 |
 | `holocaust-testimony-source-interpretation#C-2d89c69f5ab0` | portal-availability | 2026-11-08 | 2027-02-06 | H18, H19, H20 |
 | `myheritage-dna-match-investigation#C-d54f0d5cdf39` | platform-ui | 2026-11-12 | 2027-05-11 | S1, S2, S3 |
+| `myheritage-dna-match-investigation#C-1bf3a0fea811` | portal-availability | 2026-11-12 | 2027-02-10 | S4, S5, S6 |
 | `myheritage-dna-match-investigation#C-b31faa0831ba` | platform-ui | 2026-11-12 | 2027-05-11 | S7, S8, S1 |
 | `myheritage-dna-match-investigation#C-9a20356139e4` | platform-ui | 2026-11-12 | 2027-05-11 | S9, S10, S11, S12, S14, S13, S19 |
+| `myheritage-dna-match-investigation#C-93de04702725` | platform-ui | 2026-11-12 | 2027-05-11 | S15, S16 |
 | `myheritage-dna-match-investigation#C-2a32ef13c8ad` | platform-ui | 2026-11-12 | 2027-05-11 | S17, S18 |
 | `portuguese-parish-civil-register-recovery#C-866ab6daf659` | portal-availability | 2026-11-08 | 2027-02-06 | S7, S8, S2, S1, S16, S18, S3, S22, S11 |
 | `published-book-catalogue-and-full-text-discovery#C-511fbf32a099` | platform-ui | 2026-11-08 | 2027-05-07 | S7, S33, S34, S35 |

@@ -127,15 +127,15 @@ that he had left Georgia.
 When you compare a model's transcription with your own, settle every difference on the image
 rather than scoring the model against your typed copy. In Family Locket's deed test, the model
 was right and the researcher wrong in four of fifteen differences, one of them a misspelling in
-the deed that her typed copy had corrected, possibly through Google Docs autocorrect [S6]. Google Docs'
+the deed that her typed copy had corrected, possibly through Google Docs autocorrect [S6 @2026-11-12]. Google Docs'
 Autocorrect fixes spelling and can be turned off, so type a reference transcription with it
-off [S7].
+off [S7 @2026-11-12].
 
 For a hard hand, a line-by-line HTR draft is easier to check than a chatbot's reading of the
 image: Transkribus links each recognized line to its place on the image, so compare every line
-with its marked line [S8], [S9]. If you then ask a chatbot to correct the draft, as Family
+with its marked line [S8 @2026-11-12], [S9 @2026-11-12]. If you then ask a chatbot to correct the draft, as Family
 Locket did with a deed, compare its output with the draft word by word and check every change
-on the image [S9]. A model correcting text without the image can replace a right reading with a
+on the image [S9 @2026-11-12]. A model correcting text without the image can replace a right reading with a
 plausible wrong one.
 
 ### Generate candidates for an uncertain German word

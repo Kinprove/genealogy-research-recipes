@@ -147,10 +147,10 @@ for a whole-tree replacement, also the old/new kit-profile crosswalk and observe
 
 Do not read few or no Russia-resident matches, or Russian matches missing from an older list,
 as evidence about relatives living in Russia. MyHeritage stopped selling DNA kits in Russia at
-the end of February 2020 [S4]. In emails reported on 31 December 2024, it told Russian users
+the end of February 2020 [S4 @2026-11-12]. In emails reported on 31 December 2024, it told Russian users
 that their accounts and associated data would be permanently deleted by 1 February 2025
-[S5], [S6]. A MyHeritage representative told one researcher that messages from those members
-would remain, with the sender shown as a deleted member [S6]. Record the gap as a limit of the
+[S5 @2026-11-12], [S6 @2026-11-12]. A MyHeritage representative told one researcher that messages from those members
+would remain, with the sender shown as a deleted member [S6 @2026-11-12]. Record the gap as a limit of the
 database, not as a negative search.
 
 **Privacy gate:** <!-- privacy-gate: contact --> Asking a Cousin Finder relative about DNA testing
@@ -290,8 +290,8 @@ Tree details filter (All tree details in some views) lists the matches that have
 [S10 @2026-11-12], [S13 @2026-11-12], [S12 @2026-11-12], [S19 @2026-11-12].
 
 To give later runs more people to join on, extend the tree: MyHeritage says the number of
-theories depends on the size and detail of the tree [S15]. Estes extends each ancestor's line
-through the grandchildren where she can [S16]; do this with deceased people only.
+theories depends on the size and detail of the tree [S15 @2026-11-12]. Estes extends each ancestor's line
+through the grandchildren where she can [S16 @2026-11-12]; do this with deceased people only.
 
 **Output:** theory packet, connection ledger and recorded review decision.
 

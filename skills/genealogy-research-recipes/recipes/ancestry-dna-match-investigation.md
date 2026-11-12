@@ -236,7 +236,7 @@ and full alternatives open.
 Do not read the children ThruLines shows under an ancestor as the whole family. It shows only
 children through whom a tested descendant's linked tree, yours or a match's, descends: in one
 2022 example it listed five children of a third-great-grandfather for whom the researcher had
-found eleven [S3], [S4]. Build the
+found eleven [S3 @2026-11-12], [S4 @2026-11-12]. Build the
 sibling set from records, and treat the missing children's lines as places to look for
 untested descendants when choosing a tester (see
 [unknown-parentage-wato.md](unknown-parentage-wato.md)).
@@ -289,7 +289,7 @@ Inspect a missing pair from another authorized kit's perspective (Estes, 2022-05
 A match seen before September 2020 that shared under 8 cM after Timber can be missing now for
 that reason alone. AncestryDNA's 2020 update reported only matches of 8 cM or more after Timber
 and removed the smaller ones at the end of August 2020, apart from matches the user had
-messaged, given a note, starred or put in a group [S7], [S8]. Its absence neither confirms nor
+messaged, given a note, starred or put in a group [S7 @2026-11-12], [S8 @2026-11-12]. Its absence neither confirms nor
 disproves the relationship.
 
 Do not read a documented relative's blank cluster cell or missing shared-list row as sharing below the displayed floor. The [threshold examples](https://genarchivist.net/showthread.php?tid=1693) and a [Timber-threshold discussion](https://genarchivist.net/showthread.php?tid=137) report pairs dropping out once the weighted amount fell below the floor, one with about 51 cM unweighted. Where you manage one kit of the pair, open the direct comparison and record weighted and unweighted totals, segments, longest segment, kit and date; a longest segment larger than the weighted total signals reduction. A shared-view 'unweighted' line can repeat the weighted figure, as in the [shared-view label report](https://genarchivist.net/showthread.php?tid=1272), and two kits of one person can differ, so record each kit separately.
