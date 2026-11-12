@@ -81,6 +81,17 @@ class BuildDistTests(unittest.TestCase):
         for name in ("package.json", "plugin.json", "index.js", "openclaw.plugin.json"):
             self.assertNotIn(name, files)
 
+    def test_head_hermes_readme_shows_only_hermes_install_steps(self):
+        tree = dist.build("hermes-catalog", "HEAD", self.root / "hermes")
+        readme = dist.tree_files(tree)["README.md"].decode("utf-8")
+        self.assertIn("hermes plugins install genealogy-research-recipes", readme)
+        self.assertIn("## Privacy", readme)
+        self.assertIn("The skill states its release date.", readme)
+        for other in ("/plugin marketplace add", "Claude.ai and the Claude desktop app",
+                      "codex plugin", "openclaw plugins", "<!-- platform:"):
+            self.assertNotIn(other, readme)
+        self.assertNotIn("\n\n\n", readme)
+
     def test_head_openai_zip_layout_icons_and_determinism(self):
         first = dist.build("openai-plugin", "HEAD", self.root / "first")
         second = dist.build("openai-plugin", "HEAD", self.root / "second")
@@ -162,7 +173,8 @@ class BuildDistTests(unittest.TestCase):
                     self.assertNotIn(b"newer committed", readme)
                     self.assertNotIn(b"dirty", readme)
                     if target == "hermes-catalog":
-                        self.assertEqual(readme, (ROOT / "README.md").read_bytes())
+                        expected = dist.keep_platform((ROOT / "README.md").read_text(encoding="utf-8"), "hermes")
+                        self.assertEqual(readme, expected.encode("utf-8"))
                     self.assertFalse((after / SKILL / "recipes/newer.md").exists())
                     self.assertFalse((after / SKILL / "recipes/untracked.md").exists())
 
@@ -173,6 +185,43 @@ class BuildDistTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "allowlisted pattern matches nothing: assets/banner.png"):
             dist.build("claude-directory", "HEAD", self.root / "out", repository)
         self.assertFalse((self.root / "out").exists())
+
+
+class KeepPlatformTests(unittest.TestCase):
+    TEXT = ("## Install\n\n"
+            "<!-- platform:a:start -->\nA steps\n<!-- platform:a:end -->\n\n"
+            "<!-- platform:b:start -->\nB steps\n<!-- platform:b:end -->\n\n"
+            "<!-- platform:c:start -->\nC steps\n<!-- platform:c:end -->\n\n"
+            "Shared note.\n")
+
+    def test_keeps_one_block_and_drops_markers_and_other_blocks(self):
+        self.assertEqual(dist.keep_platform(self.TEXT, "a"), "## Install\n\nA steps\n\nShared note.\n")
+        self.assertEqual(dist.keep_platform(self.TEXT, "b"), "## Install\n\nB steps\n\nShared note.\n")
+        self.assertEqual(dist.keep_platform(self.TEXT, "c"), "## Install\n\nC steps\n\nShared note.\n")
+
+    def test_every_platform_in_the_readme_builds(self):
+        text = (ROOT / "README.md").read_text(encoding="utf-8")
+        for platform in ("claude", "codex", "hermes", "openclaw"):
+            with self.subTest(platform=platform):
+                self.assertNotIn("<!-- platform:", dist.keep_platform(text, platform))
+
+    def test_readme_without_markers_from_an_older_release_is_unchanged(self):
+        text = "## Install\n\n**Claude Code:**\n\nsteps\n\n**Hermes Agent:**\n\nsteps\n"
+        self.assertEqual(dist.keep_platform(text, "hermes"), text)
+
+    def test_refuses_broken_markers(self):
+        cases = {
+            "no install block for platform hermes": self.TEXT,
+            "not closed": "<!-- platform:hermes:start -->\nsteps\n",
+            "misplaced": "<!-- platform:hermes:start -->\n<!-- platform:a:start -->\n",
+            "misplaced platform marker: <!-- platform:a:end -->":
+                "<!-- platform:hermes:start -->\nsteps\n<!-- platform:a:end -->\n",
+            "malformed": "<!-- platform:hermes:start -->\nsteps\n<!-- platform:hermes:stop -->\n",
+        }
+        for message, text in cases.items():
+            with self.subTest(message=message):
+                with self.assertRaisesRegex(ValueError, message):
+                    dist.keep_platform(text, "hermes")
 
 
 class ClaudePolicyTests(unittest.TestCase):

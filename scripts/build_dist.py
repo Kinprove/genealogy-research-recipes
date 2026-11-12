@@ -32,6 +32,8 @@ TARGETS = {
     "hermes-catalog": COMMON + ("plugin.yaml", "__init__.py", HELPER),
     "openai-plugin": COMMON + ("plugin.json", "assets/logo.png", HELPER),
 }
+# README install blocks, one per platform: <!-- platform:<name>:start --> ... <!-- platform:<name>:end -->
+PLATFORM_MARKER = re.compile(r"<!--\s*platform:([^:\s]+):(start|end)\s*-->")
 IMAGES = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".ico"}
 TEXT = {".md", ".txt", ".json", ".yaml", ".yml"}
 PACKAGE_FILES = (
@@ -209,6 +211,38 @@ def pin_sources(name, text, base):
     return re.sub(r"(?<![\w./:-])sources/", base + "/", text)
 
 
+def keep_platform(text, platform):
+    """Keep one platform's marked README blocks; drop the other platforms' blocks and all markers."""
+    kept, block, seen, after_dropped = [], None, set(), False
+    for line in text.splitlines(keepends=True):
+        marker = PLATFORM_MARKER.fullmatch(line.strip())
+        if not marker and re.search(r"<!--\s*platform:", line):
+            raise ValueError("README.md: malformed platform marker: " + line.strip())
+        if marker:
+            name, edge = marker.groups()
+            if (edge == "start") != (block is None) or (edge == "end" and name != block):
+                raise ValueError("README.md: misplaced platform marker: " + line.strip())
+            seen.add(name)
+            block = name if edge == "start" else None
+            after_dropped = edge == "end" and name != platform
+            continue
+        if block not in (None, platform):
+            continue
+        # The blank line that separated a dropped block from the next one goes with it.
+        if after_dropped and not line.strip():
+            continue
+        after_dropped = False
+        kept.append(line)
+    if block is not None:
+        raise ValueError("README.md: platform block not closed: " + block)
+    if not seen:
+        # A release made before the markers existed is rebuilt with its README unchanged.
+        return text
+    if platform not in seen:
+        raise ValueError("README.md: no install block for platform " + platform)
+    return "".join(kept)
+
+
 def check_link_files(files):
     errors = []
     for name, data in sorted(files.items()):
@@ -262,6 +296,9 @@ def build(target, source, out, repository=ROOT):
             if name.endswith(".md"):
                 files[name] = pin_sources(name, files[name].decode("utf-8"), base).encode("utf-8")
         check_claude_files(files)
+    if target == "hermes-catalog":
+        # The Hermes catalog page renders this README, so it shows only the Hermes install steps.
+        files["README.md"] = keep_platform(files["README.md"].decode("utf-8"), "hermes").encode("utf-8")
     out = Path(out)
     if out.exists() and (not out.is_dir() or any(out.iterdir())):
         raise ValueError("output directory must be empty: " + str(out))
