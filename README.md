@@ -47,30 +47,6 @@ their safeguards. Commands, rules and recorded results: [docs/evaluation.md](htt
 
 ## Install
 
-**Claude Code:**
-
-```text
-/plugin marketplace add Kinprove/genealogy-research-recipes
-/plugin install genealogy-research-recipes@kinprove
-```
-
-Update with `claude plugin update genealogy-research-recipes@kinprove`, or turn on
-**Enable auto-update** for the `kinprove` marketplace under `/plugin` → **Marketplaces**.
-
-**Claude.ai and the Claude desktop app:** **Customize → Plugins → Add → Add marketplace**, enter
-`Kinprove/genealogy-research-recipes`, then add `genealogy-research-recipes`. Update with
-**Check for updates** on the `kinprove` marketplace, or turn on **Sync automatically**.
-
-**Codex:**
-
-```sh
-codex plugin marketplace add Kinprove/genealogy-research-recipes
-codex plugin add genealogy-research-recipes@kinprove
-```
-
-Update with `codex plugin marketplace upgrade kinprove`, then run the `codex plugin add` command
-again.
-
 **Hermes Agent:**
 
 ```sh
@@ -82,36 +58,17 @@ Load it with `skill_view(name="genealogy-research-recipes:genealogy-research-rec
 loads with the extra argument `file_path="recipes/<name>.md"`. Update with
 `hermes plugins update genealogy-research-recipes`.
 
-For the latest `main`, use the Git repository instead of the catalog:
+The [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins) pins a reviewed
+commit, so it can lag behind the latest release. For the latest `main`, install from the Git
+repository instead:
 
 ```sh
 hermes plugins install Kinprove/genealogy-research-recipes --no-enable
 hermes plugins enable genealogy-research-recipes
 ```
 
-**OpenClaw:**
-
-```sh
-openclaw plugins install git:github.com/Kinprove/genealogy-research-recipes
-```
-
-Restart the Gateway after installing. Update with
-`openclaw plugins update genealogy-research-recipes`. Published releases are also on
-[ClawHub](https://clawhub.ai) as `clawhub:@kinprove/genealogy-research-recipes`.
-
 The skill states its release date. When an installed copy is more than a week old, the agent
 mentions once per conversation that a newer version may exist and how to update.
-
-## Registries
-
-- **Claude:** this repository is its own `kinprove` marketplace
-  ([`.claude-plugin/marketplace.json`](https://github.com/Kinprove/genealogy-research-recipes/blob/main/.claude-plugin/marketplace.json)), not an entry in an
-  Anthropic-curated directory.
-- **Hermes:** the [Hermes plugin catalog](https://hermes-agent.nousresearch.com/docs/plugins)
-  pins a reviewed commit, so it can lag behind the latest release. Install by catalog name
-  as above, or use the repository install for the latest `main`.
-- **OpenClaw:** ClawHub publication is separate from the GitHub install; check the publisher,
-  version and source commit on ClawHub before installing from it.
 
 ## Privacy
 
