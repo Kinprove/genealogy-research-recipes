@@ -43,7 +43,7 @@ Each recipe's sources are in [`sources/`](skills/genealogy-research-recipes/sour
 CI checks every change offline: each recipe is reachable from the skill, every link resolves,
 and the safeguards that the test cases rely on still appear in the recipes. A second suite gives
 an agent synthetic research questions and checks that it opens the right recipes and follows
-their safeguards. Commands, rules and the latest results: [docs/evaluation.md](https://github.com/Kinprove/genealogy-research-recipes/blob/main/docs/evaluation.md).
+their safeguards. Commands, rules and recorded results: [docs/evaluation.md](https://github.com/Kinprove/genealogy-research-recipes/blob/main/docs/evaluation.md).
 
 ## Install
 
