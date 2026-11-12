@@ -13,9 +13,9 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `23andme-match-research#C-df9a54f352f1` | platform-ui | 2026-11-12 | 2027-05-11 | O28, S31, S32, S7 |
 | `archival-image-coverage-verification#C-450748dcfdf4` | portal-availability | 2026-11-08 | 2027-02-06 | S47 |
 | `archival-image-coverage-verification#C-3422a9946fec` | platform-ui | 2026-11-12 | 2027-05-11 | S49, S50 |
-| `australia-nz-record-routing#C-12cee758b4f7` | portal-availability | 2026-11-12 | 2027-02-10 | S27, S28, S29 |
-| `australia-nz-record-routing#C-fda0dee3f9da` | custody | 2026-11-12 | 2027-05-11 | S30 |
-| `australia-nz-record-routing#C-88b4f30e2595` | platform-ui | 2026-11-12 | 2027-05-11 | S31 |
+| `australia-nz-record-routing#C-4394a70b15e8` | portal-availability | 2026-11-12 | 2027-02-10 | S27, S29, S28 |
+| `australia-nz-record-routing#C-e194b484fd72` | platform-ui | 2026-11-12 | 2027-05-11 | S31 |
+| `australia-nz-record-routing#C-2bed174b9706` | custody | 2026-11-12 | 2027-05-11 | S30 |
 | `austrian-confessional-register-routing#C-221fdef02fd0` | portal-availability | 2026-11-09 | 2027-02-07 | S25 |
 | `austrian-confessional-register-routing#C-b47a4e1f949d` | portal-availability | 2026-11-09 | 2027-02-07 | S26 |
 | `austrian-confessional-register-routing#C-ca66c1a0d909` | portal-availability | 2026-11-09 | 2027-02-07 | S33, S34 |
@@ -34,7 +34,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `catholic-sacramental-cross-notations#C-d2ee8b9ea9b3` | portal-availability | 2026-11-08 | 2027-02-06 | S12 |
 | `dna-comparison-controls#C-a6c6a5c55901` | platform-ui | 2026-11-12 | 2027-05-11 | H29, H30, H31 |
 | `english-nonregister-record-recovery#C-fe8197ed49f4` | portal-availability | 2026-11-12 | 2027-02-10 | S39, S40 |
-| `family-photograph-attribution-and-dating#C-2370f14f9efc` | platform-ui | 2026-11-12 | 2027-05-11 | S52, S53 |
+| `family-photograph-attribution-and-dating#C-2d4811ec7c17` | platform-ui | 2026-11-12 | 2027-05-11 | S52, S53 |
 | `ftdna-practical-dna-workflows#C-6c5f6146e3d9` | platform-ui | 2026-11-12 | 2027-05-11 | S34, S35, S36 |
 | `ftdna-practical-dna-workflows#C-e4b081b42e90` | platform-ui | 2026-11-12 | 2027-05-11 | S30, S12, S46, S31 |
 | `ftdna-practical-dna-workflows#C-2db50813277d` | platform-ui | 2026-11-12 | 2027-05-11 | S31, S32, S33 |
@@ -42,7 +42,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `ftdna-practical-dna-workflows#C-3b150a6a1f31` | platform-ui | 2026-11-12 | 2027-05-11 | S43, S44 |
 | `ftdna-practical-dna-workflows#C-5bb21810f5cf` | platform-ui | 2026-11-12 | 2027-05-11 | S9, S45 |
 | `ftdna-practical-dna-workflows#C-f5aa6ce656ff` | platform-ui | 2026-11-12 | 2027-05-11 | S38, S23 |
-| `gedcom-research-export#C-ad42754c03c7` | platform-ui | 2026-11-12 | 2027-05-11 | S17, S18 |
+| `gedcom-research-export#C-f767bfdf8601` | platform-ui | 2026-11-12 | 2027-05-11 | S17, S18 |
 | `holocaust-testimony-source-interpretation#C-2d89c69f5ab0` | portal-availability | 2026-11-08 | 2027-02-06 | H18, H19, H20 |
 | `manuscript-collection-recovery#C-c0e64b621fd9` | custody | 2026-11-12 | 2027-05-11 | S39 |
 | `manuscript-collection-recovery#C-109f7354988a` | custody | 2026-11-12 | 2027-05-11 | S37, S38 |

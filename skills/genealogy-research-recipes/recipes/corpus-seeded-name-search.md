@@ -135,7 +135,8 @@ In English-language records, a German surname may be translated by meaning, not 
 Zimmermann as Carpenter, Schwarzwälder as Blackwelder, Becker as Baker [S34]. More often the
 English form follows the sound, as Bentz to Pentz and Pence [S34], or Stehli to Staley and Bauman
 to Bowman, and given names take English forms, as Heinrich to Henry and Maria to Mary [S33]. Search
-the translated surname as its own lane: a spelling-variant or Soundex search cannot reach it. Keep
+the translated surname as its own lane: a spelling-variant or Soundex search will often miss it
+(Zimmermann and Carpenter have different Soundex codes). Keep
 the literal form in the inventory, and treat a translated-name hit as a candidate until place,
 family and dates connect it.
 
@@ -175,7 +176,8 @@ advises [S37]. Do not file the short form as a surname. For reading such entries
 
 Baltic surnames change with sex, and Lithuanian ones also with marital status. A Lithuanian man's
 surname ends in -as, -is, -ys, -us, -ė or -a. An unmarried woman's replaces that ending with
--aitė, -ytė, -utė or -iūtė, and a married woman's with -ienė [S38], as Briedis, Briedytė and
+-aitė, -ytė, -utė or -iūtė, and a married woman's with -ienė, or sometimes -uvienė after a
+two-syllable name in -us [S38], as Briedis, Briedytė and
 Briedienė [S39]. Older records may write the maiden suffix as -kė instead of -tė [S38]. A Latvian
 surname has a masculine and a feminine form, as Kalniņš and Kalniņa [S40] or Briedis and Briede
 [S39]. Search the man's form, each woman's form and a documented stem wildcard as separate lanes,
