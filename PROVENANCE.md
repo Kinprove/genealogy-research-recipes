@@ -123,7 +123,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `usa-immigration-search-recovery#C-f7de89282a19` | portal-availability | 2026-11-12 | 2027-02-10 | N64, N65 |
 | `usa-immigration-search-recovery#C-b5c005f699a2` | portal-availability | 2026-11-12 | 2027-02-10 | N66, N67 |
 | `wikitree-dna-tester-links#C-3ccb958674db` | platform-ui | 2026-11-08 | 2027-05-07 | S3, S2, S4 |
-| `xdna-phasing-judgment#C-e958291f6c61` | platform-ui | 2026-11-12 | 2027-05-11 | N25, N24, N26, N27, N28 |
+| `xdna-phasing-judgment#C-8aaee1f10f67` | platform-ui | 2026-11-12 | 2027-05-11 | N27, N25, N24, N26, N28 |
 | `ydna-mtdna-interpretation#C-251c81450dea` | portal-availability | 2026-11-08 | 2027-02-06 | N12, N3, N11, N104, N96, N97, N98, N6, N26, N15, N47, N48 |
 | `ydna-mtdna-interpretation#C-83c6160dc57d` | platform-ui | 2026-11-12 | 2027-05-11 | N105, N108, N92, N107, N106 |
 | `ydna-mtdna-interpretation#C-6c665445ac3d` | platform-ui | 2026-11-12 | 2027-05-11 | N111, N107, N112 |
