@@ -71,7 +71,13 @@ This register is a recommended research artifact; it is not a DNA Painter import
 4. Click a chromosome's number to open it and inspect all painted segments. In the closed view, groups higher in the key cover lower groups at overlapping positions. Dragging a group changes the visible layer, not its coordinates or evidential strength. [S3]
 5. Preserve a note explaining the assignment and its source comparison. For an apparent contradiction, inspect the underlying intervals and provider comparison before recoloring anything. DNA Painter cannot compare raw DNA between two matches; a visual overlap is a reason to investigate, not a triangulation result. [S2]
 
+To find candidates for that investigation, click one of the match's segments, choose **View match** and turn on the overlay's switch that shows overlapping segments; the overlay also lists matches who appear to share DNA with this one [S35 @2026-11-12], [H10 @2026-11-12], [H12 @2026-11-12]. Both views are built only from the coordinates entered in this map, so a match never painted cannot appear. Treat every name there as a candidate for the provider's own shared-match or triangulation check, never as a triangulated match.
+
 **Artifact:** source segment table, saved match and assignment note. **Checkpoint:** every retained painted interval can be traced to the correct focal-tester/match comparison; hidden layers have been inspected.
+
+**Privacy gate:** <!-- privacy-gate: export, third-party-tool --> A provider's segment file for the whole match list names every match and holds their segment data; answer the privacy gate in `SKILL.md` before downloading it or importing it into DNA Painter.
+
+To review the whole map rather than one match at a time, download a provider's segment file and import it with **Import segment data**, which needs an active DNA Painter subscription. On 2026-11-12 DNA Painter's import help accepted FamilyTreeDNA's chromosome-browser **Download All Segments** file, a GEDmatch **Segment Search** CSV, a DNA Painter map's CSV export and a file built on its template, and said segment data is currently unavailable from 23andMe and MyHeritage [H9 @2026-11-12]. A 2024 post also lists 23andMe and MyHeritage files downloaded in late 2023 or before, and the output of DNA Painter's Bucketing tool [S10 @2026-11-12]; the current help page does not mention those older files, so check the imported result before relying on one. By default the import leaves out matches sharing more than 2,000 cM and matches already imported from that company under the same name [H9 @2026-11-12]. The 2023 subscriptions post also describes restricting an import to one chromosome or to matches above set thresholds [S29 @2026-11-12]. Record each filter and the imported match count: a stretch with few segments in a filtered import can be the filter's doing. Use the imported map to find stretches where few matches land, apparent personal pileups where more matches stack than elsewhere, and other matches on a segment whose source you have identified [S29 @2026-11-12]. A stack of matches on one interval is a reason to run the pileup and false-match checks in [X-DNA and phasing judgment](xdna-phasing-judgment.md), not a cluster, and an overlap is still not triangulation (step 5).
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> Importing FTDNA segment and bucket
 files moves the tester's and named matches' DNA data into DNA Painter; answer the privacy
@@ -129,6 +135,10 @@ missing from that parent's own report but fits the other parent's ancestry as a 
 side error. A region broad enough to cover both branches cannot tell them apart. Leave any
 portion the provider does not attribute unassigned. [S27, H6]
 
+**Privacy gate:** <!-- privacy-gate: export, third-party-tool --> FamilyTreeDNA's painted-segment file holds the tester's own DNA data; answer the privacy gate in `SKILL.md` before downloading it or importing it into DNA Painter.
+
+Read FamilyTreeDNA's myOrigins Chromosome Painter segments, downloaded with **Download Segments**, as provider estimates in the same way, with two further limits. FamilyTreeDNA paints by super population or by continental region; its population clusters are listed in the sidebar but not painted [H15 @2026-11-12]. A regional percentage such as Ireland therefore has no painted segment of its own, and its absence is not a contradiction [S34 @2026-11-12]. FamilyTreeDNA also paints each chromosome's maternal and paternal copies in an arbitrary order [H15 @2026-11-12], so never read its haplotype 1 and haplotype 2 labels as parental sides, even when a parent has tested there. The developer found ancestry that came only from his father labelled as both haplotypes, and DNA Painter imports the file as unknown or both [S33 @2026-11-12].
+
 ## 2. Copy or merge map data without changing whose DNA it represents
 
 **Privacy gate:** <!-- privacy-gate: export --> Copying or exporting map data moves matches' segment data and identities into the clipboard, a CSV file or another map; answer the privacy gate in `SKILL.md` first.
@@ -165,6 +175,8 @@ Use subtraction when a close relative shares a known match on DNA the focal test
 4. For a suitable parent/sibling comparison, a missing interval associated with one grandparent can support a provisional assignment to the other grandparent on that parental side. With a first cousin, the inference may only exclude a particular great-grandparent. Full-aunt/uncle segments can span fully identical regions and include DNA from both grandparents, so do not apply the simple whole-interval rule indiscriminately. [S6]
 5. Keep all inferred intervals provisional. Paint using a match name such as `Match A — inferred`; put exclusions in segment notes instead of inventing a positive assignment. Compare with observed intervals before promoting any inferred label. A small shared subset below a provider's reporting threshold can explain an apparent discrepancy. [S6]
 
+Preview inferred intervals before you save them. Paste the generator's output into **Paint a new match**, lower the cM filter below the 7 cM default so that short inferred pieces are kept, and click **Preview these segments** to overlay them without saving; then filter the map to the parental side the inference concerns [S30 @2026-11-12], [H10 @2026-11-12], [H11 @2026-11-12]. The developer lowers the filter to 6 cM in a full-aunt example because inferred intervals are often small parts of larger measured segments [S30 @2026-11-12]. Use the lower filter for inferred output only; it is no reason to paint small ordinary matches.
+
 For the specific tested-grandparent scenario, box 1 can contain your measured match to that grandparent and box 2 can be populated with a full chromosome set to infer the other grandparent's contribution on that parental side. Use this shortcut here for autosomes: remove X from the populated second field before generating and handle X through the linked X-inheritance recipe. Missing X comparison data or a male's paternal-grandparent path otherwise risks an erroneous full-X inference. The built-in full set accounts for unsampled starts on chromosomes 13, 14, 15, 21 and 22; do not replace it with hand-made `1–end` intervals. [S7, H2]
 
 **Artifact:** both pairwise tables, generated intervals and visibly inferred map labels. **Checkpoint:** verify the common genome build, distinguish `no reported interval` from demonstrated absence of inherited DNA, and retain the limited conclusion justified by the relative used.
@@ -191,6 +203,12 @@ estimate is a hypothesis for tree research. The 2022 Legacy Tree article ranks t
 estimate as stronger evidence of the relationship than any single tester's pairwise
 amount; that ranking is not adopted here, because the quotient carries the coverage
 figure's uncertainty while the pairwise amounts are measured. [S25]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Each sibling's segment table with the match goes into the Shared cM Investigator; answer the privacy gate in `SKILL.md` first.
+
+When the testers are full siblings and the untested person is their parent, use the [Shared cM Investigator](https://dnapainter.com/tools/sci) to estimate that parent's total with the match. Paste each sibling's segments with the match into a separate field. For a sibling who tested and shares nothing with the match, tick **Sibling has tested but shares no segments of DNA with the match**: a blank field leaves that sibling out of the calculation, which raises the estimate [S37 @2026-11-12], [H13 @2026-11-12]. The tool needs valid data from two or more siblings with at least two distinct segments. It totals the siblings' distinct segments and divides by 1 − (½)^S, the average share of a parent's DNA that S siblings carry between them (75% for two) [H13 @2026-11-12], [S38 @2026-11-12].
+
+Label that result a modeled estimate, never a measured cM, before you take it to the Shared cM tool or WATO. It runs low when the tested siblings between them carry less of the parent's shared DNA than the average share the divisor assumes, as when a large segment reached no tested child, and high when they carry more, as when all of it reached them, most of all with only two siblings [S37 @2026-11-12], [S38 @2026-11-12]. It runs high under endogamy, pedigree collapse or related parents, because it assumes the shared DNA came through one parent [S37 @2026-11-12], [S38 @2026-11-12]. In the developer's own check of ten estimates made with four siblings, six came within 5% of the parent's measured amount and the worst was about 20% low (50 cM against a measured 62.6 cM); that is a small sample, not an error rate [S37 @2026-11-12].
 
 ## 6. Plan the next descendant's test with the Coverage Estimator
 
@@ -317,6 +335,10 @@ or sharing or exporting a view.
    pair shown twice remains one comparison. Keep any shared/exported view within the
    permissions and fields actually inspected. [S16]
 
+**Privacy gate:** <!-- privacy-gate: export --> A matrix export file holds identified living testers' shared amounts and relationships; answer the privacy gate in `SKILL.md` before saving or sharing it.
+
+When you preserve the matrix, export it in a form that keeps the relationships. On 2026-11-12 the example matrix offered **Export matrix as CSV**, **Export matrix as CSV with relationships** and **Export matrix JSON data**; a JSON file loads back through **Load** and overwrites everything in the matrix, so export the current matrix before loading one [H14 @2026-11-12]. The launch post describes the plain CSV as testers and shared amounts only, and pasted FamilyTreeDNA or GEDmatch data as bringing no relationships [S15 @2026-11-12]. Relationships come from your own entries or from a CSV that includes them [H14 @2026-11-12].
+
 **Artifact:** an identified pair table with source amounts, independently sourced relationships,
 observed display mode, discrepancies and correction history.
 **Checkpoint:** no pasted name, copied relationship, blank cell or display outlier has become
@@ -364,6 +386,10 @@ do not present the figure as calibrated for that company. [S26, H5]
    the full measurement set and eligibility checks. The relatives' results are not
    independent evidence. A surprising screen result sends you back to the inputs,
    paths and reference scope; it does not by itself reject a documented relationship.
+
+Read each histogram bar by its upper label: a bar labelled 600 holds the submissions from 501 to 600 cM, so a bar covers the amounts above the previous bar's label up to its own [S31 @2026-11-12], [S23 @2026-11-12]. The relationship box gives the low-to-high range at the 99th percentile [H5 @2026-11-12]; before treating an amount near either end as typical, see where most submissions fall. In the 2020 launch post the parent/child lower bound was 2,376 cM while the great majority of submissions lay between 3,300 and 3,900 cM, and the developer could not tell whether the low ones were outliers or typing errors [S32 @2026-11-12]. For relationships more distant than half second cousin, the box average counts only pairs that shared detectable DNA [H5 @2026-11-12]. Do not use the fifth-cousin average of 25 cM as the amount any fifth cousin is expected to share: the same post estimates that only about 10–30% of fifth cousins share detectable DNA, so a missing match does not by itself count against a distant relationship [S32 @2026-11-12].
+
+Relationships that share one expected amount can put the common ancestor at different depths. In one band of Estes's generation chart, which counts generations back from the tester, the common ancestor with a half 1C3R is in the grandparents' generation, with a 2C2R or half 2C1R in the great-grandparents', and with a 3C in the great-great-grandparents' [S36]. Several relationships share the same expected amount and cannot be told apart by the amount alone [S39]. For a removed cousin the common ancestor also sits deeper in the younger person's tree than in the older person's, by the number of removals. For each relationship the amount allows, search the generation it implies in both trees. Take which of you is in the older generation from the pedigree; where the pedigree cannot tell yet, search both depths and use birth years only to test plausibility. Do not search only the same-generation depth.
 
 **Artifact:** sourced pair amounts, relationship hypothesis and eligibility checks,
 saved histogram/range views, reference version and interpretation note.
