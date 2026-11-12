@@ -24,8 +24,8 @@ python3 skills/genealogy-research-recipes/evals/run_evals.py --output eval-resul
 
 The behavioural tier has [ten starting guardrail cases, a helper-consent variant and three ambiguity cases](../skills/genealogy-research-recipes/evals/cases/),
 with synthetic materials only. It appends the literal `SKILL.md` as system instructions to
-Claude Code, provides a read-only `read_file` tool over `recipes/`, and records successful
-reads and line coverage, and checks the answer with regexes and an independent rubric call.
+Claude Code, lets it read files in `recipes/` only, records successful reads and line coverage,
+and checks the answer with regexes and an independent rubric call.
 Routing and regex checks must pass three of three samples; at least two samples must pass
 all rubric questions. A denied read, missing sample, invalid judge response or timeout cannot
 pass. Task recipes must be read in full; judgment recipes may be read at their rules sections.
@@ -66,16 +66,18 @@ no inherited `CLAUDE*` or `ANTHROPIC*` variable or `MAX_THINKING_TOKENS` other t
 `CLAUDE_CONFIG_DIR`, `ANTHROPIC_API_KEY` and `CLAUDE_CODE_OAUTH_TOKEN`. Claude Code's built-in
 plugins remain. Locally, an authenticated CLI works without an API key; set `CLAUDE_CONFIG_DIR`
 to use another login. A usage limit fails the affected samples with the CLI's own message; rerun
-those cases with `--case` into a new output directory. Evaluation invocations
-use only the scoped evaluation MCP server, with built-in and other connected tools unavailable.
-The server rejects paths and symlinks outside `recipes/`.
-The judge uses schema-validated structured output and sees the same fixtures.
-Where large MCP outputs are shortened (for example by managed settings),
-`--reader native` uses native `Read` with
-an explicit bounded line limit to read each selected file completely, matching the server's
-complete-file default, and denies MCP tools instead. It requests `allow_large` for recipes
-above Read's default token limit. The same line-coverage and
-case requirements apply; a shortened response cannot pass as a complete recipe read.
+those cases with `--case` into a new output directory.
+
+The assistant reads recipes with Claude Code's native `Read` tool, allowed only under
+`recipes/`, with MCP and all other tools unavailable. Each read uses an explicit bounded line
+limit and `allow_large`, so a selected file arrives complete; an out-of-scope read is recorded
+and fails the sample. `--reader mcp` uses the scoped `read_file` server instead, which rejects
+paths and symlinks outside `recipes/` and can return a single judgment section. Claude Code
+replaces any tool result above about 50 KB with a short preview and rejects one above its MCP
+token limit, so through the server a recipe above that size cannot be read in full.
+The judge uses schema-validated structured output and sees the same fixtures. The same
+line-coverage and case requirements apply with either reader; a shortened response cannot pass
+as a complete recipe read.
 
 ## Before merging content changes
 

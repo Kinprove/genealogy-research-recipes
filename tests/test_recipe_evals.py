@@ -421,6 +421,22 @@ class BehaviouralHarnessTests(unittest.TestCase):
                 invoke("prompt", SKILL, Path(directory) / "assistant.jsonl", "test-model")
         self.assertEqual(len(calls), 1)
 
+    def test_default_run_reads_with_native_read(self):
+        # Claude Code shortens tool results above about 50 KB, so the scoped server cannot deliver large recipes.
+        seen = []
+
+        def fake_sample(case, number, args, rules):
+            seen.append(args.reader)
+            return {"case": case["id"], "sample": number, "deterministic_failures": [], "rubric_pass": True}
+
+        with tempfile.TemporaryDirectory() as directory:
+            argv = ["run_evals.py", "--case", "ystr-distance", "--output", str(Path(directory) / "run"), "--workers", "1"]
+            with patch.object(sys, "argv", argv), patch("run_evals.sample", side_effect=fake_sample), \
+                    patch("run_evals.subprocess.check_output", return_value="test-cli\n"), \
+                    contextlib.redirect_stdout(io.StringIO()):
+                self.assertEqual(eval_main(), 0)
+        self.assertEqual(seen, ["native"] * 3)
+
     def test_short_patterns_do_not_match_inside_other_words(self):
         cases = {case["id"]: case for case in load_cases()}
 

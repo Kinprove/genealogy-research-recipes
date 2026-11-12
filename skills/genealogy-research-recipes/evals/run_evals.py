@@ -240,7 +240,7 @@ def sample(case, number, args, rules):
     result = {"case": case["id"], "sample": number, "deterministic_failures": [], "rubric_pass": False}
     try:
         materials = fixture_materials(case, getattr(args, "materials", None))
-        reader = getattr(args, "reader", "mcp")
+        reader = getattr(args, "reader", "native")
         read_instruction = (
             "Use the native Read tool with offset 1, explicit limit 1000 and allow_large true in one call for each "
             "recipe you choose to open, including judgment recipes. This fallback has no section "
@@ -334,7 +334,8 @@ def main():
     parser.add_argument("--output", type=Path, default=Path("eval-results"))
     parser.add_argument("--model", default=os.environ.get("EVAL_MODEL") or None)
     parser.add_argument("--judge-model", default=os.environ.get("EVAL_JUDGE_MODEL") or None)
-    parser.add_argument("--reader", choices=["mcp", "native"], default="mcp", help="Native Read fallback for hosts that shorten MCP output")
+    parser.add_argument("--reader", choices=["mcp", "native"], default="native",
+                        help="native Read, or the scoped read_file server (cannot return a recipe above about 50 KB in full)")
     parser.add_argument("--workers", type=int, choices=range(1, 5), default=2)
     parser.add_argument("--baseline", action="store_true", help="Evaluate an unchanged historical skill; retain its static failures")
     parser.add_argument("--replay", type=Path, help="Rejudge saved answers/traces without resampling; must match skill bytes and cases")
