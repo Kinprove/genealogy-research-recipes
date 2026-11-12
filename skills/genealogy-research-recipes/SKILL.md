@@ -177,8 +177,11 @@ agreement, kit pair, site, shared cM).
 When a record may be about a living person, request only what the family question needs.
 Never request a record to find a living person or to learn about their present life. Name
 the record's own access rule (closure period, who is entitled, the subject's consent) and
-follow it. Send only the identity and kinship proof the custodian asks for. The Retention
-item and the next rule apply to what arrives.
+follow it. That rule does not replace the gate: an office's rule on who may order a record is
+not the subject's permission, so the Permission item still applies to each living person the
+request names. Until every item is answered, keep the request as an unsent draft on the user's
+device and tell the user what is missing. Send only the identity and kinship proof the
+custodian asks for. The Retention item and the next rule apply to what arrives.
 
 ### Third persons in sensitive files
 

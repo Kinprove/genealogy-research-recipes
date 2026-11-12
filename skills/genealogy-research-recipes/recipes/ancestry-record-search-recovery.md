@@ -4,13 +4,13 @@ title: "Ancestry record-search recovery"
 summary: "Recovering archival records missed by an Ancestry search. Diagnose scope and coverage before relaxing dates, places or names; use collection descriptions, original book indexes, census districts and the holding archive."
 kind: "platform"
 scope: {"platforms": ["ancestry"], "tasks": ["an attached census disappearing from results, narrow Card Catalog matches, birthplace/residence confusion, conservative wildcard batches, name-free searches, book page versus image numbers, enumeration-district browsing, or index-only records."]}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "ANCESTRY-RECORD-SEARCH-RECOVERY-01", "text": "Keep three observations separate: no indexed candidate; no matching images in the available inventory; and documented absence in the original surviving records."}]
 handoff: ["ai-for-documentary-records", "dna-match-outreach-staging", "evidence-proof-judgment"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["ancestry"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["ancestry"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 37}
 ---
 
@@ -341,6 +341,10 @@ does a second copy of the same printed page. The
 [catalog-title](https://www.youtube.com/watch?v=V2vmIxs2WjM) and
 [directory](https://www.youtube.com/watch?v=YI-rwxManbs) examples do not show how to verify that
 the editions match.
+
+**Privacy gate:** <!-- privacy-gate: request --> A personnel-file inquiry sends the person's birth
+and religious names to a religious community's archive, and the person or relatives named in the
+file may be living; answer the privacy gate in `SKILL.md` before you send it.
 
 If an inspected record supplies a religious name and a named community affiliation,
 carry both with that record's locator into an institutional-archive inquiry. Check the

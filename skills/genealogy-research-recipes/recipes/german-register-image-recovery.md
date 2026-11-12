@@ -4,13 +4,13 @@ title: "Recover a German register entry through its locality, record offices and
 summary: "Trace an emigrant's German place name to its church or civil register entry through the locality, record offices and register version; retain distinct named sponsor and proxy roles."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "GERMAN-REGISTER-IMAGE-RECOVERY-01", "text": "**Narrow by the Kreis, Oberamt or state nesting.** Many towns share a name."}]
 handoff: ["french-departmental-record-routing"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "German records", "order": 1076}
 ---
 
@@ -157,6 +157,8 @@ Many smaller places had no parish of their own. One presenter estimates that the
 Record the databases, offices and years you searched and the form each was in. A name-index hit leads you to the register entry; it is not the entry. A miss counts only for the offices and years the database holds.
 
 ## 7. Classify the register version behind every image
+
+**Privacy gate:** <!-- privacy-gate: request --> The order for a full civil register entry and its Sammelakte later in this list can reach a recent entry that names people who may be living; answer the privacy gate in `SKILL.md` before you order it.
 
 - **Name the version for each image:**
   - parish original;
