@@ -88,7 +88,7 @@ Extract each field separately [S10], [S2]:
 
 For machine- or AI-indexed versions of these entries, use the correct-and-verify loop in the AI-for-documentary-records recipe.
 
-Read the Spanish handwriting from the image; use an online translation only for a first understanding [S38 @2026-11-12]. To check a letter form, abbreviation or set phrase, use the Spanish tutorial of the BYU Script Tutorial (script.byu.edu). It has handwritten alphabet charts in upper and lower case, a handwriting history, common phrases, common abbreviations, numbers, Spanish names, a genealogical glossary, guides to church, civil and notarial records, and interactive baptism exercises in vocabulary and transcription [S37 @2026-11-12]. Michelle Mickelson of Family Locket describes it as a free online resource [S38 @2026-11-12].
+Read the Spanish handwriting from the image; use an online translation only for a first understanding [S38 @2026-11-12]. To check a letter form, abbreviation or set phrase, use the free Spanish tutorial of the BYU Script Tutorial (script.byu.edu) [S38 @2026-11-12]. It has handwritten alphabet charts in upper and lower case, a handwriting history, common phrases, common abbreviations, numbers, Spanish names, a genealogical glossary, guides to church, civil and notarial records, and interactive baptism exercises in vocabulary and transcription [S37 @2026-11-12].
 
 ## 3. Search both name forms and every surname arrangement
 

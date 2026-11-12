@@ -90,8 +90,8 @@ over 950,000 results and "Ivanov" none. [H75] Do not treat it as a loss and awar
 it also holds conscription and demobilisation records from enlistment offices, navy and officer
 card files, burial details and loss and POW documents [H76], and Vera Miller reports added card
 indexes of partisan-movement participants, seamen's card files, burial lists and funeral notices
-(2023) and injury records (2025). [H78], [H79] When name searches fail, run a place-of-birth sweep
-with the name fields empty and filter the results locally, as for OBD Memorial above. Enter the
+(2023) and injury records (2025). [H78], [H79] When name searches fail, search the place of birth
+alone, as Miller does, and filter the results locally, as for OBD Memorial above. [H79] Enter the
 raion or oblast rather than the village, because the search handles place names poorly [H77], and
 expect the village to be spelled several ways and placed under more than one raion. [H79] New
 documents are loaded periodically, so repeat a failed search after an update. [H77] Search women
