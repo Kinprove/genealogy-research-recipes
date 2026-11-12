@@ -9,7 +9,7 @@ on:
 permissions:
   contents: read
 
-# Adding a label other than behavioural-evals gets a group of its own, so it cancels no run.
+# A run started by any other label gets its own group, so it cannot cancel an evaluation.
 concurrency:
   group: recipe-evals-${{ github.event.pull_request.number || github.ref }}${{ github.event.action == 'labeled' && github.event.label.name != 'behavioural-evals' && format('-{0}', github.run_id) || '' }}
   cancel-in-progress: true

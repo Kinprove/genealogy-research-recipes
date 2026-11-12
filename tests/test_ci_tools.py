@@ -80,9 +80,12 @@ class CiToolTests(unittest.TestCase):
 
     def test_model_workflow_ignores_other_labels(self):
         workflow = (ROOT / ".github/workflows/behavioural-evals.yml").read_text(encoding="utf-8")
-        group = re.search(r"(?m)^concurrency:\n  group: (.+)$", workflow).group(1)
-        condition = re.search(r"(?ms)^  credentials:\n    if: >-\n(.*?)\n    runs-on:", workflow).group(1)
-        # Another label's run takes its own group; sharing one would cancel a running evaluation.
+        group = re.search(r"(?m)^concurrency:\n  group: (.+)$", workflow)
+        condition = re.search(r"(?ms)^  credentials:\n    if: >-\n(.*?)\n    runs-on:", workflow)
+        self.assertIsNotNone(group)
+        self.assertIsNotNone(condition)
+        group, condition = group.group(1), condition.group(1)
+        # Another label must neither cancel a running evaluation nor start a new one.
         self.assertIn("github.event.action == 'labeled' && github.event.label.name != 'behavioural-evals' "
                       "&& format('-{0}', github.run_id) || ''", group)
         self.assertIn("(github.event.action != 'labeled' || github.event.label.name == 'behavioural-evals')",
