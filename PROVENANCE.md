@@ -190,7 +190,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [french-departmental-record-routing](provenance/french-departmental-record-routing.yml) | 56 | 31 | 3 | — |
 | [ftdna-practical-dna-workflows](provenance/ftdna-practical-dna-workflows.yml) | 37 | 40 | 14 | — |
 | [galicia-bukovina-habsburg-record-routing](provenance/galicia-bukovina-habsburg-record-routing.yml) | 50 | 11 | 1 | — |
-| [gedcom-research-export](provenance/gedcom-research-export.yml) | 14 | 9 | 0 | — |
+| [gedcom-research-export](provenance/gedcom-research-export.yml) | 12 | 8 | 0 | — |
 | [gedmatch-practical-dna-workflows](provenance/gedmatch-practical-dna-workflows.yml) | 23 | 17 | 8 | — |
 | [genealogy-standards-audit](provenance/genealogy-standards-audit.yml) | 17 | 2 | 2 | — |
 | [geni-practical-research-workflows](provenance/geni-practical-research-workflows.yml) | 28 | 9 | 0 | — |

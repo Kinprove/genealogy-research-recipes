@@ -6,7 +6,7 @@ kind: "judgment"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "GEDCOM-RESEARCH-EXPORT-01", "text": "The recipe prevents seven failures: changing the header version and calling the file converted, attaching a child to the father's wife because she shares his family record, turning a shared patronymic and surname into a parent link, reading QUAY as a research status, silently converting an Old Style date or padding an approximate year, culling or confirming a supplied tree's claims during a format change, and marking people deceased so that they can go into a shared file."}, {"id": "GED-01", "text": "**Never mark anyone deceased from a birth-year cutoff or a missing death date** in order to export, share or publish them."}, {"id": "GED-02", "text": "**Apply the living-person rules to a copy prepared for sharing.**"}, {"id": "GED-03", "text": "**Never map QUAY to or from a research status.**"}, {"id": "GED-04", "text": "For an online destination, identify living or possibly living people and state the redaction and destination-specific permission still required before upload."}, {"id": "GED-05", "text": "A supplied `QUAY 3` and a source title or research note saying \"unverified\" are not contradictory merely because of that research-status wording."}]
+guardrails: [{"id": "GEDCOM-RESEARCH-EXPORT-01", "text": "The recipe prevents seven failures: changing the header version and calling the file converted, attaching a child to the father's wife because she shares his family record, turning a shared patronymic and surname into a parent link, reading QUAY as a research status, silently converting an Old Style date or padding an approximate year, culling or confirming a supplied tree's claims during a format change, and marking people deceased so that they can go into a shared file."}, {"id": "GED-01", "text": "**Never mark anyone deceased from a birth-year cutoff or a missing death date** in order to export, share or publish them."}, {"id": "GED-02", "text": "**Apply the living-person rules to a copy prepared for sharing.**"}, {"id": "GED-03", "text": "**Never map QUAY to or from a research status.**"}, {"id": "GED-04", "text": "For an online destination, identify living or possibly living people and keep the upload conditional on each one's explicit permission for that destination or on leaving that person out completely (section 8)."}, {"id": "GED-05", "text": "A supplied `QUAY 3` and a source title or research note saying \"unverified\" are not contradictory merely because of that research-status wording."}]
 handoff: ["descendancy-gap-worklist", "evidence-proof-judgment", "familysearch-practical-record-workflows", "geni-practical-research-workflows", "research-documentation", "rootsmagic-tree-reconciliation-workflow", "source-citation"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
@@ -53,7 +53,7 @@ Gather these before writing:
 - the research notes: each evaluated person, event and link with its status, source and locator, plus the hypotheses, open conflicts and rejected identifications
 - who in the data may be living, and whether the file is for the user's own use or for sharing
 
-Treat structural validity and sharing readiness as separate findings. For an online destination, identify living or possibly living people and state the redaction and destination-specific permission still required before upload. Pointing only to the privacy gate or the destination's privacy settings is not a redaction assessment.
+Treat structural validity and sharing readiness as separate findings. For an online destination, identify living or possibly living people and keep the upload conditional on each one's explicit permission for that destination or on leaving that person out completely (section 8). Pointing only to the privacy gate or the destination's privacy settings is not a sharing assessment.
 
 ## 1. Choose the destination and the version
 
@@ -125,7 +125,7 @@ A supplied `QUAY 3` and a source title or research note saying "unverified" are 
 - **Check that every INDI, FAM and SOUR pointer resolves.** In 7.0, every pointer except the null pointer `@VOID@` must occur as the cross-reference identifier of a structure in the same file [S1].
 - **Compare the exported links, citations and notes with the research notes.**
 - **Privacy gate:** <!-- privacy-gate: export --> A copy prepared for sharing carries tree data that may include living or possibly living people out of the user's own files; answer the privacy gate in `SKILL.md` before handing it over.
-- **Apply the living-person rules to a copy prepared for sharing.** Leave out or redact the living and probably living, private notes, and attachments the user did not choose to share. Writing a local export publishes nothing; do not upload the file or its attachments anywhere the user did not choose.
+- **Apply the living-person rules to a copy prepared for sharing.** Put a living or probably living person into it only with that person's explicit permission for the destination. Without that permission, leave the person out completely: their INDI record; every pointer to them in a FAM record, with the marriage and other events of a couple they belong to; any FAM record left empty; and the notes, citations and media about them. Redaction does not replace permission: a person kept under a placeholder name, without dates, or as a nameless spouse or child in a family record still appears, with their relationships. Also leave out private notes and attachments the user did not choose to share. Writing a local export publishes nothing; do not upload the file or its attachments anywhere the user did not choose.
 - **Report what was not checked.** Give the file path, the version and the material limits of the transfer.
 
 ## 9. When the destination rejects the file or replaces a tree
@@ -158,6 +158,6 @@ Return:
 - **Placeholders:** any "Unknown" partner a destination showed or created for a one-parent family.
 - **Disputes:** each conflicting version with its provenance, and the NOTE that names it in the file.
 - **Checks:** version conformance, pointer resolution, agreement with the research notes, and any check in a destination program.
-- **Sharing:** the living-person handling applied, or "local only".
+- **Sharing:** for each living or probably living person, their permission for the destination or their complete omission; or "local only".
 
 The model writes and checks the file. The researcher decides identity and kinship.
