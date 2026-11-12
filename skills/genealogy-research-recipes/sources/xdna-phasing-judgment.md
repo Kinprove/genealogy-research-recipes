@@ -39,6 +39,15 @@ The 2026-11-06 statement that AncestryDNA and MyHeritage show no X matches rests
 DNA Matching and its chromosome browser) in
 [DNA comparison controls — sources](dna-comparison-controls.md), checked that day.
 
+24. *The Matrix Refreshed: New Functionality For A Classic Family Finder™ Tool* — Katy Rowe-Schurwanz, FamilyTreeDNA Blog, 2025-02-13 — <https://blog.familytreedna.com/family-finder-matrix-update/> — Used for: the parent match-list check for identical-by-chance matches. Its rule that appearing on a parent's list shows descent is narrowed here to the same interval. Read 2026-11-12. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+<!-- markdownlint-disable MD029 -->
+25. *FamilyTreeDNA Family Matching and Bucketing* — Nicole Elder Dyer, Family Locket, 2021-08-07 — <https://familylocket.com/familytreedna-family-matching-and-bucketing> — Used for: FamilyTreeDNA parent buckets built from phased blocks between relatives, not from shared or in-common-with matches. Read 2026-11-12. Rights: cited reference, not reproduced.
+26. *The AncestryDNA matching updates have now been completed* — Debbie Kennett, Cruwys news, 2020-09-01 — <https://cruwys.blogspot.com/2020/09/the-ancestrydna-matching-updates-have.html> — Used for: small matches that match neither parent, and matches shared with one parent whose documentary link lies on the other side. Read 2026-11-12. Rights: cited reference, not reproduced.
+27. *The Danger of Distant Matches* — Blaine Bettinger, The Genetic Genealogist, 2017-01-06 — <https://thegeneticgenealogist.com/2017/01/06/the-danger-of-distant-matches/> — Used for: false negatives, where a parent lacks a match they should have, and inherited false segments. Read 2026-11-12. Rights: cited reference, not reproduced.
+28. *MyHeritage Whole Genome Sequencing (WGS) Results and Comparison* — Roberta Estes, DNAeXplained, 2026-02-19 — <https://dna-explained.com/2026/02/19/myheritage-whole-genome-sequencing-wgs-results-and-comparison/> — Used for: imputation and unread parental positions as explanations for matches that match neither parent, and two 47 and 49 cM whole-genome matches that matched neither parent. A single tester's comparison. Read 2026-11-12. Rights: cited reference, not reproduced.
+<!-- markdownlint-enable MD029 -->
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
+- Katy Rowe-Schurwanz (FamilyTreeDNA Blog), Nicole Elder Dyer (Family Locket), Debbie Kennett (Cruwys news), Blaine Bettinger (The Genetic Genealogist) and Roberta Estes (DNAeXplained), posts cited as N24–N28 — Third-party blog posts; paraphrase with attribution (adapted)

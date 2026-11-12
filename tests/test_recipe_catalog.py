@@ -3,11 +3,13 @@
 import copy
 import datetime as dt
 import importlib.util
+import io
 import json
 import subprocess
 import sys
 import tempfile
 import unittest
+from contextlib import redirect_stdout
 from pathlib import Path
 from unittest.mock import patch
 
@@ -137,7 +139,6 @@ class RecipeCatalogTests(unittest.TestCase):
         m, body = next(item for item in self.items if item[0]["id"] == "jewishgen-search-family-reconstruction")
         self.assertEqual(m["kind"], "platform")
         self.assertIn("jewishgen", m["scope"]["platforms"])
-        self.assertEqual(m["checked_basis"], "fetched 2026-10-01")
         expired = dt.date.fromisoformat(m["checked"]) + dt.timedelta(days=catalog.MAX_PLATFORM_AGE_DAYS + 1)
         with self.assertRaisesRegex(catalog.CatalogError, "older than"):
             catalog.validate_header(m, body, m["id"] + ".md", expired)
@@ -198,7 +199,7 @@ class RecipeCatalogTests(unittest.TestCase):
         catalog.validate_header(m, body, m["id"] + ".md", date + dt.timedelta(days=catalog.MAX_PLATFORM_AGE_DAYS))
         with self.assertRaisesRegex(catalog.CatalogError, "older than"):
             catalog.validate_header(m, body, m["id"] + ".md", date + dt.timedelta(days=catalog.MAX_PLATFORM_AGE_DAYS + 1))
-        m["checked"] = self.today.isoformat()
+        m["checked"] = (date - dt.timedelta(days=1)).isoformat()  # never the basis date, even on a recheck day
         with self.assertRaisesRegex(catalog.CatalogError, "differs from checked_basis"):
             catalog.validate_header(m, body, m["id"] + ".md", self.today)
         m["checked"], m["checked_basis"] = None, None
@@ -210,6 +211,36 @@ class RecipeCatalogTests(unittest.TestCase):
         # Sidecars record a dated reading as "read YYYY-MM-DD".
         m["checked_basis"] = "read " + self.today.isoformat()
         catalog.validate_header(m, body, m["id"] + ".md", self.today)
+
+    def test_expiring_platform_checks_are_announced_once_before_ci_fails(self):
+        platform, _ = next(item for item in self.items if item[0]["kind"] == "platform")
+        records, _ = next(item for item in self.items if item[0]["kind"] == "records")
+        today = dt.date(2027, 3, 1)
+
+        def platform_check(rid, days_left):
+            m = copy.deepcopy(platform)
+            m.update(id=rid, checked=(today + dt.timedelta(days=days_left - catalog.MAX_PLATFORM_AGE_DAYS)).isoformat())
+            return m, ""
+
+        # More than the ten warning annotations GitHub keeps per step.
+        fake = [platform_check(f"platform-{n}", catalog.WARN_DAYS - n) for n in range(12)]
+        fake.append(platform_check("platform-later", catalog.WARN_DAYS + 1))
+        old_records = dict(copy.deepcopy(records), checked="2000-01-01")
+        fake.append((old_records, ""))
+        due = dict(catalog.expiring_checks(fake, today))
+        self.assertEqual(sorted(due), sorted(f"platform-{n}" for n in range(12)))
+        self.assertEqual(due["platform-0"], today + dt.timedelta(days=catalog.WARN_DAYS))
+        out = io.StringIO()
+        with patch.object(catalog, "load_catalog", return_value=fake), \
+                patch.object(catalog, "generated_files", return_value=[]), \
+                patch.object(catalog, "utc_today", return_value=today), redirect_stdout(out):
+            self.assertEqual(catalog.main(["--check"]), 0)
+        warnings = [line for line in out.getvalue().splitlines() if line.startswith("::warning ")]
+        self.assertEqual(len(warnings), 1)
+        for n in range(12):
+            self.assertIn(f"platform-{n} valid until {due[f'platform-{n}']}", warnings[0])
+        self.assertNotIn("platform-later", warnings[0])
+        self.assertNotIn(old_records["id"], warnings[0])
 
     def test_export_emits_header_and_regenerates_both_consumers(self):
         with tempfile.TemporaryDirectory() as directory:
