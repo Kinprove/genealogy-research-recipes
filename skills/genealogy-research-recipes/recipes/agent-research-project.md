@@ -10,7 +10,7 @@ guardrails: [{"id": "AGENT-RESEARCH-PROJECT-01", "text": "Treat a model-written 
 handoff: ["evidence-proof-judgment", "research-documentation", "source-citation", "ai-for-documentary-records", "archival-image-coverage-verification", "family-collection-intake-and-capture", "gedcom-research-export"]
 checked: null
 checked_basis: null
-capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool"], "contact": []}
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool", "upload"], "contact": []}
 router: {"tier": "full", "group": "Evidence and documentation", "order": 136}
 ---
 
@@ -76,8 +76,15 @@ If you set up only five things, set up these:
 4. A search log beside each question that keeps the search states apart.
 5. A rule that a correction is not finished until every copy of the claim is fixed.
 
+**Privacy gate:** <!-- privacy-gate: upload, publish --> Project notes can name living people and
+hold tentative relationships. When they are kept in a shared folder, a cloud-synced or hosted
+service, or a repository other people can read, saving to them moves that data to the service and to
+everyone with access. Answer the privacy gate in `SKILL.md` before saving there; write access to the
+notes is not permission to disclose. Without permission, keep living people's details and the
+hypotheses about them in a local file, and save only the rest.
+
 At the start of a session, reload the instructions, read the note for the question and check the
-live state. At the end, update that note and the search log, save them to the shared notes and write
+live state. At the end, update that note and the search log, save them to the project notes and write
 the next check.
 
 ## Give each kind of information one home
@@ -159,7 +166,7 @@ Hold every report to these definitions.
 
 | Word | True only when | Never proved by |
 | --- | --- | --- |
-| saved | The note was updated and the change is in the shared notes | A promise to remember, a scratch folder, an uncommitted working copy |
+| saved | The note was updated and the change is in the project notes | A promise to remember, a scratch folder, an uncommitted working copy |
 | searched | A real tool return or saved response exists, showing what was actually sent | A planned click, a plausible ID, a search snippet |
 | not found | The search finished and its scope is stated | An error, login page, CAPTCHA, timeout, blank page, capped or partial result |
 | read | A stated range of pages or frames was opened and read through, and the rest is logged as unread | A download, an OCR run, a filename match, a finished job |
@@ -301,6 +308,12 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   identity first, and never report zero people imported as success.
 
 ## Deleting, moving and backing up
+
+**Privacy gate:** <!-- privacy-gate: upload, publish --> A backup or off-site copy on a drive the
+user controls stays local. A copy held by a backup service, a cloud folder or a shared folder moves
+the originals and notes, and the living people in them, to that destination and to whoever can open
+it. Answer the privacy gate in `SKILL.md` before creating or extending such a copy. Opaque handles
+for living people reduce what the copy exposes; they do not replace permission.
 
 - Before deleting, check what still cites the file. One cleanup removed the only authority for a
   negative kinship conclusion that four notes still relied on.

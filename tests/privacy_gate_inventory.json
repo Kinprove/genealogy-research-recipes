@@ -157,6 +157,18 @@
  },
  {
   "recipe": "agent-research-project.md",
+  "kind": "upload",
+  "action": "save them to the project notes",
+  "checkpoint": "Project notes can name living people and hold tentative relationships"
+ },
+ {
+  "recipe": "agent-research-project.md",
+  "kind": "publish",
+  "action": "save them to the project notes",
+  "checkpoint": "Project notes can name living people and hold tentative relationships"
+ },
+ {
+  "recipe": "agent-research-project.md",
   "kind": "third-party-tool",
   "action": "Have every delegate write findings to a named file",
   "checkpoint": "Notes and images given to an AI agent"
@@ -166,6 +178,18 @@
   "kind": "publish",
   "action": "While extracting, create a parent or spouse link",
   "checkpoint": "Writing to an online tree can publish"
+ },
+ {
+  "recipe": "agent-research-project.md",
+  "kind": "upload",
+  "action": "keep one copy off-site",
+  "checkpoint": "A backup or off-site copy on a drive the user controls stays local"
+ },
+ {
+  "recipe": "agent-research-project.md",
+  "kind": "publish",
+  "action": "keep one copy off-site",
+  "checkpoint": "A backup or off-site copy on a drive the user controls stays local"
  },
  {
   "recipe": "ai-for-dna-research.md",
@@ -274,6 +298,18 @@
   "kind": "contact",
   "action": "confirm the tester with the manager and the descent with records",
   "checkpoint": "Confirming a tester with a kit manager is contact with a living person"
+ },
+ {
+  "recipe": "ancestry-dna-match-investigation.md",
+  "kind": "publish",
+  "action": "Begin each note with the ancestral branch, followed by review date, basis and next question",
+  "checkpoint": "A match note can name living matches and state a tentative relationship"
+ },
+ {
+  "recipe": "ancestry-dna-match-investigation.md",
+  "kind": "publish",
+  "action": "Revisit its note when a tree, record, relative or available view changes",
+  "checkpoint": "A match note can name living matches and state a tentative relationship"
  },
  {
   "recipe": "ancestry-dna-match-investigation.md",
@@ -889,15 +925,45 @@
  },
  {
   "recipe": "geni-practical-research-workflows.md",
+  "kind": "publish",
+  "action": "open **Edit Profile → Add Language** to put names in separate",
+  "checkpoint": "Steps 3 and 4 save name forms, aliases and notes to a Geni profile"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "publish",
+  "action": "Use aliases for supported alternatives instead of packing every spelling into one surname",
+  "checkpoint": "Steps 3 and 4 save name forms, aliases and notes to a Geni profile"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
   "kind": "upload",
   "action": "open **Sources → Add Source**. Select an existing document or add one",
   "checkpoint": "An uploaded document can name or show family"
  },
  {
   "recipe": "geni-practical-research-workflows.md",
+  "kind": "publish",
+  "action": "profile, use **Actions → Add to Project**",
+  "checkpoint": "Steps 2 to 4 put profiles and research material on Geni"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
   "kind": "contact",
   "action": "**Invite to Project** route requests the managers' participation. Record whether the profile was",
   "checkpoint": "A collaboration request or project invitation"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "upload",
+  "action": "Keep unpublished hypotheses in a local register or, with an active Geni Pro subscription",
+  "checkpoint": "Steps 2 to 4 put profiles and research material on Geni"
+ },
+ {
+  "recipe": "geni-practical-research-workflows.md",
+  "kind": "publish",
+  "action": "Record the project's actual public/private type before adding research material",
+  "checkpoint": "Steps 2 to 4 put profiles and research material on Geni"
  },
  {
   "recipe": "geni-practical-research-workflows.md",
