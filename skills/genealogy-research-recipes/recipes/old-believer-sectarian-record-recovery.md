@@ -60,6 +60,8 @@ Inventory-reading rules from GASO f.6 op.1 [S2]:
 - For an event after the 17 October 1906 ukaz, do not assume the police still kept the register. Keep the police row, add rows for the community registers and for the town-board and volost-board registers named in the first lead of step 8, and read the ukaz's registration clauses before you rank them.
 - A participant in the Subbotniks thread [S5] cited cases on keeping metrical books for raskolniki in TsGIA SPb: f.960 op.1 d.128 (described as a district police fond) and f.254 op.1 d.7822. These are participant-reported examples. Check them in the TsGIA SPb inventories before you cite them.
 
+- At the end of each year the uezd police sent the police raskol metrical registers to the guberniya board (губернское правление) to be revised and kept; in St Petersburg and the other gradonachalstva they went to the gradonachalnik's administration, and in Moscow to the ober-politsmeister's chancellery. [S6] ESBE says the raskol registers were kept in the guberniya board, apparently in a single copy. [S7] So look for a police raskol register in the guberniya-board fond of the regional archive as well as in the police fonds.
+
 ## 4. Register each series with its status
 
 For every row, record: series, archive and fond/opis/delo with leaf, the registrar (Orthodox clergy, Edinoverie clergy, district office, commission, revision, police), the years covered, and the status: **searched, with result**, **searched, nothing found** or **not searched / not located**. A series you did not open, or that you could not find in the inventory, is a gap. It is not a negative result. [S1], [S2]

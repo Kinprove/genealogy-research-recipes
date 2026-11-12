@@ -58,14 +58,14 @@ Gather these before searching:
 ## 1. Fix the state and district on the event date
 
 - **Route by date and district, not by the word "Bessarabia".** The same village was recorded by different states:
-  - **Russian Empire, until 1918:** the Bessarabian oblast, later guberniya, divided into uezds [S1].
-  - **The south only, 1856–1878:** the Treaty of Paris gave Izmail and Cahul uezds to the Principality of Moldavia [S1], [S2]. Russia regained them in 1878 as one Izmail uezd [S1].
+  - **Russian Empire, until 1918:** the Bessarabian oblast, later guberniya, divided into цинуты (ținuturi), which were renamed uezds in the reforms that followed 1828 [S1].
+  - **The south only, 1856–1878:** the Treaty of Paris gave Izmail and Cahul uezds to the Principality of Moldavia [S1]. Russia regained them in 1878 as one Izmail uezd [S1].
   - **Romania, 1918–1940:** Bessarabia joined Romania in 1918 [S1], [S3].
   - **Soviet, 1940–1941:** Soviet forces occupied Bessarabia in June 1940, and the Moldavian SSR was created on 2 August 1940 [S3].
   - **Romania, 1941–1944:** Romanian rule returned as the Bessarabia Governorate; in the south it ran from 19 July 1941 to 25 August 1944 [S4]. East of the Dniester, Romania ran the Transnistria Governorate (step 3).
-  - **Soviet again from 1944:** in the south from late August 1944 [S4].
+  - **Soviet again from 1944:** in the south, Romanian rule ended on 25 August 1944 [S4].
 - **Do not apply the late uezd list to earlier years.** The eight uezds Akkerman, Bălți, Bender, Izmail, Kishinev, Orhei, Soroki and Khotin are the state after 1887. Before 1856 the south had separate Izmail and Cahul uezds; from 1878 it formed one Izmail uezd; and the name Bălți uezd dates only from 1887 [S1].
-- **Read Ясский уезд (Yassy uezd) as the Bălți district before 1887.** A decree of 6 March 1887 renamed Ясский уезд to Белецкий (Bălți) uezd [S1]. A search-result extract identifies Bălți as its seat; the encyclopedia page could not be read, so that detail is not confirmed from the full entry [S5]. In a pre-1887 Bessarabian record, Ясский уезд means this district, not the Romanian city of Iași. The ANA opis labelled "Iași" needs the same check (step 4).
+- **Read Ясский уезд (Yassy uezd) as the Bălți district before 1887.** On 6 March 1887 Ясский уезд was renamed Белецкий (Bălți) uezd [S1]. Bălți had been its uezd town since the Bessarabian oblast was formed in 1818 [S5]. In a pre-1887 Bessarabian record, Ясский уезд means this district, not the Romanian city of Iași. The ANA opis labelled "Iași" needs the same check (step 4).
 - **For the south in 1856–1878, do not expect the Russian imperial series to cover the event.** Check the ANA opisi for Cahul and Izmail year by year (step 4). Record a year with no section as a jurisdiction gap, not as a lost book.
 - **Before choosing a successor archive, find which side of the 1940 line the village fell on.** Two parts went to the Ukrainian SSR, not the Moldavian SSR:
   - the northern part of Khotin uezd, into Chernivtsi oblast, formed on 7 August 1940 [S6];

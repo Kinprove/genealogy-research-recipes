@@ -22,15 +22,6 @@ def paragraph(folder, slug, anchor):
 # Each anchor identifies a particular claim, not merely a recipe with some caveat.
 # Patterns pin the access limitation and the affected assertion or next action.
 LIMITED_CLAIMS = (
-    ("chechen-ingush-1944-deportation-records", "- each event's date", (
-        r"23 February 1944.*search-result summaries only.*full articles not read.*\[S5\].*\[S6\]",
-    )),
-    ("chechen-ingush-1944-deportation-records", "**Until 7 March 1944:**", (
-        r"Search-result summaries.*23 February 1944.*full articles were not read.*unconfirmed.*\[S5\].*\[S6\]",
-    )),
-    ("bessarabia-moldova-record-routing", "**Read Ясский уезд", (
-        r"renamed.*\[S1\]", r"search-result extract.*seat.*not confirmed.*\[S5\]",
-    )),
     ("bessarabia-moldova-record-routing", "**Read a Тодор", (
         r"search-result summary.*most frequent.*full study was not read.*unconfirmed.*\[S21\]",
     )),
@@ -75,11 +66,6 @@ LIMITED_CLAIMS = (
     ("russian-military-repression-record-episodes", "For Western-Ukrainian deportation", (
         r"archives \[H33\].*1995.*search-engine extract.*unread page.*unconfirmed \[H32\]",
         r"Депортації.*1996–2002.*PDF itself could not be fetched.*edition details remain unconfirmed \[H34\]",
-    )),
-    ("russian-military-repression-record-episodes", "For a WWI prisoner taken", (
-        r"search-engine extract.*Russian-front lists.*PDF itself was not read.*coverage claims remain unconfirmed \[H19\]",
-        r"name-only search.*search details were not verified.*\[H19\]",
-        r"guide H20 was read.*29 card indexes \[H20\]",
     )),
     ("russian-military-repression-record-episodes", "3. Identify the present custodian", (
         r"316-VIII.*read in the reproduction on kodeksy.com.ua.*official zakon.rada.gov.ua page could not be opened",

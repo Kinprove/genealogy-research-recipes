@@ -112,18 +112,21 @@ search-engine extracts, as marked), and details those pages did not support were
   page failed TLS). Used for: the POW card file's own counts of cards and records (more cards than
   records).
 - **H19:** International Committee of the Red Cross, [Prisoners of the First World War – FAQ](https://grandeguerre.icrc.org/Content/help/FAQ_en.pdf),
-  seen 2026-11-02 in a search-engine extract of the PDF (the PDF itself could not be read). Used
-  for: Russian-front lists collected by the Danish Red Cross in Copenhagen, not Geneva; Geneva
-  coverage mainly of the Western, Romanian and Serbian fronts; name-only search; catalogues by
-  nationality and military or civilian status.
+  seen 2026-11-02 only in a search-engine extract. On a later visit
+  the PDF was opened and read in full on 2026-11-12. Used for: documents coming mainly from the
+  Western Front, Romania and Serbia; Russian-front lists not sent to Geneva but collected by the
+  Danish Red Cross in Copenhagen; little information about Russian prisoners; search by name only;
+  cards filed by country and by military or civilian status in 29 separate catalogues.
 - **H20:** The Long, Long Trail, [Making the most of the Red Cross prisoner of war records](https://www.longlongtrail.co.uk/soldiers/how-to-research-a-soldier/records-of-british-prisoners-of-war-1914-1918/making-the-most-of-the-red-cross-prisoner-of-war-records/),
-  opened 2026-11-02. Used for: the count of 29 card indexes by nationality and military or
-  civilian status, with H19.
+  opened 2026-11-02 and read again on 2026-11-12. Used for: the count of 29 card indexes by
+  nationality and military or civilian status, with H19.
 - **H21:** Rigsarkivet, [Dansk Røde Kors, Krigsfangeafdelingen: Alfabetisk kartotek over russiske krigsfanger i Tyskland](https://daisy.rigsarkivet.dk/arkivserie_detaljer?heid=7624777&henid=7624777),
-  opened 2026-11-02. Used for: the present custodian of the Copenhagen material and the card
-  index surviving only as two selected sample boxes.
+  opened 2026-11-02 and read again on 2026-11-12. Used for: the present custodian of the
+  Copenhagen material and the card index surviving only as two selected sample boxes
+  («to udvalgte prøvekasser»), listed for ordering with no online images.
 - **H22:** Rigsarkivet, [Dansk Røde Kors, Krigsfangeafdelingen: Lister over russiske krigsfanger i Tyskland](https://daisy.rigsarkivet.dk/arkivserie_detaljer?heid=7629319&henid=7629319),
-  opened 2026-11-02. Used for: the lists surviving only as a random sample bundle.
+  opened 2026-11-02 and read again on 2026-11-12. Used for: the lists surviving only as a random
+  sample bundle («en tilfældigt udvalgt prøvepakke»), listed for ordering with no online images.
 - **H23:** Russian Ministry of Defence, OBD Memorial, [Расширенный поиск](https://obd-memorial.ru/html/advanced-search.htm),
   opened 2026-11-02. Used for: the loss, Book of Memory and personnel groups of the advanced
   search and the lists each personnel group names.
@@ -357,9 +360,10 @@ route returned HTTP 401. Search-result snippets were not treated as opened prima
 
 On 2 November 2026 the GWAR pages again failed TLS. The GWAR place-field grouping and source list
 therefore rest on the site's own text as seen in search-engine extracts (H16–H18) and a 2025
-archived capture read in an earlier review; they are dated in the recipe. Indexing exclusivity and fund numbers remain unverified. The ICRC FAQ
-(H19) and two Ukrainian pages (H32, H34) were also seen only in search-engine extracts. Unlike on
-18 October, these extracts are cited, but their entries say 'seen', not 'opened'.
+archived capture read in an earlier review; they are dated in the recipe. Indexing exclusivity and fund numbers remain unverified. Two Ukrainian
+pages (H32, H34) were also seen only in search-engine extracts. Unlike on 18 October, these
+extracts are cited, but their entries say 'seen', not 'opened'. The ICRC FAQ (H19), seen the same
+way on 2 November, was opened and read in full on 12 November 2026.
 
 Withheld: exact archive year boundaries, medical-archive request prerequisites, award-class
 proxies, fixed POW/searchability percentages, default portal filter settings, access rules outside
