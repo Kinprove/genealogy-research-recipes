@@ -157,7 +157,9 @@ A kit transferred from another company holds only that company's data file. No D
 upload, so the upload gives FamilyTreeDNA no sample [S30 @2026-11-12]. For a transfer customer who
 has never submitted a sample to FamilyTreeDNA, the Family Finder NGS upgrade is the first time
 FamilyTreeDNA sequences that person's DNA, and a collection kit is mailed after the order
-[S12 @2026-11-12]. The Autosomal Unlock has been retired [S46 @2026-11-12], [S31 @2026-11-12].
+[S12 @2026-11-12].
+
+The Autosomal Unlock has been retired [S46 @2026-11-12], [S31 @2026-11-12].
 A transfer that was never unlocked has its matches and the Family Finder Matrix [S12 @2026-11-12]
 but no Chromosome Browser, Chromosome Painter, myOrigins or ancientOrigins [S31 @2026-11-12],
 [S46 @2026-11-12]. A missing Chromosome Browser there reflects the lock, not missing data, and
