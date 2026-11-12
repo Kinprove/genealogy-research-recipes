@@ -148,18 +148,18 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [ai-for-documentary-records](skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md) | — | generated plotting script | — | export, third-party-tool | — | required |
 | [amsterdam-archival-record-recovery](skills/genealogy-research-recipes/recipes/amsterdam-archival-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [ancestry-dna-match-investigation](skills/genealogy-research-recipes/recipes/ancestry-dna-match-investigation.md) | ancestrydna | — | browser extension view comparison (optional) | link, publish | contact | required |
-| [ancestry-record-search-recovery](skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md) | ancestry | — | — | — | — | — |
-| [archival-image-coverage-verification](skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) | — | — | — | — | — | — |
+| [ancestry-record-search-recovery](skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md) | ancestry | — | — | request | — | required |
+| [archival-image-coverage-verification](skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) | — | — | — | request | — | required |
 | [australia-nz-record-routing](skills/genealogy-research-recipes/recipes/australia-nz-record-routing.md) | record catalogues and original images | — | — | — | — | — |
 | [austrian-confessional-register-routing](skills/genealogy-research-recipes/recipes/austrian-confessional-register-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [beider-given-name-variants](skills/genealogy-research-recipes/recipes/beider-given-name-variants.md) | — | scripts/lookup_beider_name.py | — | — | — | — |
 | [bessarabia-moldova-record-routing](skills/genealogy-research-recipes/recipes/bessarabia-moldova-record-routing.md) | record catalogues and original images | — | — | request | — | required |
-| [brazilian-parish-civil-registry-recovery](skills/genealogy-research-recipes/recipes/brazilian-parish-civil-registry-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [brazilian-parish-civil-registry-recovery](skills/genealogy-research-recipes/recipes/brazilian-parish-civil-registry-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [british-colonial-slave-registers](skills/genealogy-research-recipes/recipes/british-colonial-slave-registers.md) | record catalogues and original images | — | — | — | — | — |
 | [burial-evidence-packet](skills/genealogy-research-recipes/recipes/burial-evidence-packet.md) | record catalogues and original images | — | — | — | contact | required |
 | [canadian-census-interpretation](skills/genealogy-research-recipes/recipes/canadian-census-interpretation.md) | record catalogues and original images | — | — | — | — | — |
-| [canadian-provincial-record-routing](skills/genealogy-research-recipes/recipes/canadian-provincial-record-routing.md) | record catalogues and original images | — | — | — | — | — |
-| [catholic-parish-diocesan-record-recovery](skills/genealogy-research-recipes/recipes/catholic-parish-diocesan-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [canadian-provincial-record-routing](skills/genealogy-research-recipes/recipes/canadian-provincial-record-routing.md) | record catalogues and original images | — | — | request | — | required |
+| [catholic-parish-diocesan-record-recovery](skills/genealogy-research-recipes/recipes/catholic-parish-diocesan-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [catholic-sacramental-cross-notations](skills/genealogy-research-recipes/recipes/catholic-sacramental-cross-notations.md) | record catalogues and original images | — | — | — | — | — |
 | [chechen-ingush-1944-deportation-records](skills/genealogy-research-recipes/recipes/chechen-ingush-1944-deportation-records.md) | record catalogues and original images | — | — | request | — | required |
 | [chinese-lineage-jiapu-records](skills/genealogy-research-recipes/recipes/chinese-lineage-jiapu-records.md) | record catalogues and original images | — | — | request | — | required |
@@ -176,10 +176,10 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [dutch-civil-church-record-recovery](skills/genealogy-research-recipes/recipes/dutch-civil-church-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [early-new-england-town-records](skills/genealogy-research-recipes/recipes/early-new-england-town-records.md) | record catalogues and original images | — | — | — | — | — |
 | [elib-ukrainian-archive-reference-books](skills/genealogy-research-recipes/recipes/elib-ukrainian-archive-reference-books.md) | elib.nlu.org.ua | — | — | — | — | — |
-| [england-wales-gro-index-recovery](skills/genealogy-research-recipes/recipes/england-wales-gro-index-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [england-wales-gro-index-recovery](skills/genealogy-research-recipes/recipes/england-wales-gro-index-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [english-nonregister-record-recovery](skills/genealogy-research-recipes/recipes/english-nonregister-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [ethnicity-estimate-version-comparison](skills/genealogy-research-recipes/recipes/ethnicity-estimate-version-comparison.md) | — | — | — | export | — | required |
-| [evidence-proof-judgment](skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) | — | — | — | — | — | — |
+| [evidence-proof-judgment](skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) | — | — | — | request | — | required |
 | [family-collection-intake-and-capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md) | record catalogues and original images | — | — | — | contact | required |
 | [family-interviews-and-oral-tradition](skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md) | record catalogues and original images | — | — | export | — | required |
 | [family-papers-and-bible-register-dating](skills/genealogy-research-recipes/recipes/family-papers-and-bible-register-dating.md) | record catalogues and original images | — | — | third-party-tool | — | required |
@@ -187,7 +187,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [familysearch-practical-record-workflows](skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) | familysearch | — | — | export, publish, upload | — | required |
 | [french-belgian-civil-act-extraction](skills/genealogy-research-recipes/recipes/french-belgian-civil-act-extraction.md) | record catalogues and original images | — | — | — | — | — |
 | [french-canadian-register-recovery](skills/genealogy-research-recipes/recipes/french-canadian-register-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [french-departmental-record-routing](skills/genealogy-research-recipes/recipes/french-departmental-record-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [french-departmental-record-routing](skills/genealogy-research-recipes/recipes/french-departmental-record-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [ftdna-practical-dna-workflows](skills/genealogy-research-recipes/recipes/ftdna-practical-dna-workflows.md) | familytreedna | — | — | export, link, publish | — | required |
 | [galicia-bukovina-habsburg-record-routing](skills/genealogy-research-recipes/recipes/galicia-bukovina-habsburg-record-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [gedcom-research-export](skills/genealogy-research-recipes/recipes/gedcom-research-export.md) | — | — | — | export, upload | — | required |
@@ -197,9 +197,9 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [german-compensation-file-recovery](skills/genealogy-research-recipes/recipes/german-compensation-file-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [german-emigrant-origin-sources](skills/genealogy-research-recipes/recipes/german-emigrant-origin-sources.md) | record catalogues and original images | — | — | — | — | — |
 | [german-local-census-registration-recovery](skills/genealogy-research-recipes/recipes/german-local-census-registration-recovery.md) | record catalogues and original images | — | — | request | — | required |
-| [german-military-record-period-routing](skills/genealogy-research-recipes/recipes/german-military-record-period-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [german-military-record-period-routing](skills/genealogy-research-recipes/recipes/german-military-record-period-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [german-official-gazette-notice-search](skills/genealogy-research-recipes/recipes/german-official-gazette-notice-search.md) | record catalogues and original images | — | — | — | — | — |
-| [german-register-image-recovery](skills/genealogy-research-recipes/recipes/german-register-image-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [german-register-image-recovery](skills/genealogy-research-recipes/recipes/german-register-image-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [hebrewbooks-search-recovery](skills/genealogy-research-recipes/recipes/hebrewbooks-search-recovery.md) | hebrewbooks | — | — | — | — | — |
 | [hispanic-catholic-register-recovery](skills/genealogy-research-recipes/recipes/hispanic-catholic-register-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [historic-hungary-record-routing](skills/genealogy-research-recipes/recipes/historic-hungary-record-routing.md) | record catalogues and original images | — | — | — | — | — |
@@ -234,7 +234,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [orthodox-clergy-record-recovery](skills/genealogy-research-recipes/recipes/orthodox-clergy-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [periodical-index-search-retrieval](skills/genealogy-research-recipes/recipes/periodical-index-search-retrieval.md) | record catalogues and original images | — | — | — | — | — |
 | [polish-index-original-record-recovery](skills/genealogy-research-recipes/recipes/polish-index-original-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
-| [portuguese-parish-civil-register-recovery](skills/genealogy-research-recipes/recipes/portuguese-parish-civil-register-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [portuguese-parish-civil-register-recovery](skills/genealogy-research-recipes/recipes/portuguese-parish-civil-register-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [probate-case-document-inventory](skills/genealogy-research-recipes/recipes/probate-case-document-inventory.md) | record catalogues and original images | — | — | — | — | — |
 | [published-book-catalogue-and-full-text-discovery](skills/genealogy-research-recipes/recipes/published-book-catalogue-and-full-text-discovery.md) | record catalogues and original images | — | — | — | — | — |
 | [quaker-meeting-record-recovery](skills/genealogy-research-recipes/recipes/quaker-meeting-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
@@ -242,7 +242,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [repository-photograph-collection-search](skills/genealogy-research-recipes/recipes/repository-photograph-collection-search.md) | record catalogues and original images | — | — | publish, third-party-tool | contact | required |
 | [research-documentation](skills/genealogy-research-recipes/recipes/research-documentation.md) | — | — | — | publish | — | required |
 | [rootsmagic-tree-reconciliation-workflow](skills/genealogy-research-recipes/recipes/rootsmagic-tree-reconciliation-workflow.md) | rootsmagic, ancestry, familysearch | — | — | export, link, upload | — | required |
-| [russian-empire-emigrant-origin-recovery](skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md) | record catalogues and original images | — | — | publish | — | required |
+| [russian-empire-emigrant-origin-recovery](skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md) | record catalogues and original images | — | — | publish, request | — | required |
 | [russian-empire-jewish-identity-attribution](skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md) | record catalogues and original images | — | — | — | contact | required |
 | [russian-empire-jewish-metrical-book-recovery](skills/genealogy-research-recipes/recipes/russian-empire-jewish-metrical-book-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-estate-registration-status](skills/genealogy-research-recipes/recipes/russian-estate-registration-status.md) | record catalogues and original images | — | — | — | — | — |
@@ -259,7 +259,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [scottish-parish-statutory-record-recovery](skills/genealogy-research-recipes/recipes/scottish-parish-statutory-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [source-citation](skills/genealogy-research-recipes/recipes/source-citation.md) | — | — | — | — | — | — |
 | [soviet-personal-file-recovery](skills/genealogy-research-recipes/recipes/soviet-personal-file-recovery.md) | record catalogues and original images | — | — | request | — | required |
-| [spanish-civil-parish-record-routing](skills/genealogy-research-recipes/recipes/spanish-civil-parish-record-routing.md) | record catalogues and original images | — | — | — | — | — |
+| [spanish-civil-parish-record-routing](skills/genealogy-research-recipes/recipes/spanish-civil-parish-record-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [state-legislative-private-act-petitions](skills/genealogy-research-recipes/recipes/state-legislative-private-act-petitions.md) | record catalogues and original images | — | — | — | — | — |
 | [surname-distribution-locality-leads](skills/genealogy-research-recipes/recipes/surname-distribution-locality-leads.md) | record catalogues and original images | — | — | — | — | — |
 | [swedish-military-record-routing](skills/genealogy-research-recipes/recipes/swedish-military-record-routing.md) | record catalogues and original images | — | — | — | — | — |
@@ -270,7 +270,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [us-census-practical-workflows](skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md) | record catalogues and original images | — | — | — | — | — |
 | [us-church-record-custody](skills/genealogy-research-recipes/recipes/us-church-record-custody.md) | record catalogues and original images | — | — | — | — | — |
 | [us-civil-war-service-record-episodes](skills/genealogy-research-recipes/recipes/us-civil-war-service-record-episodes.md) | record catalogues and original images | — | — | — | — | — |
-| [us-federal-court-case-file-recovery](skills/genealogy-research-recipes/recipes/us-federal-court-case-file-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [us-federal-court-case-file-recovery](skills/genealogy-research-recipes/recipes/us-federal-court-case-file-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [us-federal-land-entry-file-recovery](skills/genealogy-research-recipes/recipes/us-federal-land-entry-file-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [us-freedpeople-record-recovery](skills/genealogy-research-recipes/recipes/us-freedpeople-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [us-military-pension-file-recovery](skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md) | record catalogues and original images | — | — | — | — | — |

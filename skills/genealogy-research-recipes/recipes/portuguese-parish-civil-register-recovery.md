@@ -4,13 +4,13 @@ title: "Recover a Portuguese ancestor in the parish and civil registers of mainl
 summary: "Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books or the civil register."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "PORTUGUESE-PARISH-CIVIL-REGISTER-RECOVERY-01", "text": "Use it before you treat Portuguese records like Spanish or Hispanic ones. That mistake leads to four failures: searching a civil register that did not cover the person, looking in the wrong archive, reading the first surname as the father's, and calling a book missing when another archive holds it."}]
 handoff: []
 checked: "2026-10-23"
 checked_basis: "checked on 2026-10-23"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Church and civil registers", "order": 1050}
 ---
 
@@ -50,6 +50,8 @@ Gather these before searching:
 
 ## 1. Choose the register by date and religion
 
+**Privacy gate:** <!-- privacy-gate: request --> A request to a diocese or a parish for a church entry after 1911, as described below, sends the names and dates of people who may be living; answer the privacy gate in `SKILL.md` before you send it.
+
 - **Before 1911, look for a Catholic's events in the parish books, not in a civil register.** The decree of 16 May 1832 began a civil registry and gave non-Catholics the right to register. The decree of 28 November 1878 then gave parish priests the registration of most of the population. It left municipal administrators only the non-Catholic minority's registrations, and this lasted until the end of the monarchy [S5], [S12]. Between 1878 and 1911, a Catholic's event therefore normally has no civil entry. Do not record its absence as a gap [S1], [S5]. The earlier civil registry, from 1832 to 1878, never worked well [S5]. Treat any civil book from those years as a bonus, not as a series you should expect.
 - **Do not use Napoleonic or Latin American start dates.** One presenter ties Portuguese civil registration to Napoleon [S2]. Portuguese sources date it from the 1832 and 1878 decrees above [S5], [S12].
 - **For a non-Catholic event before 1911, or an 1830s civil entry, search the municipal administration's books.** tombo.pt lists them under an *Administração do Concelho* fonds. Only some years may survive. Elvas, for example, shows births for 1834–1836 and 1910–1911, and marriages for 1834–1836 and 1898–1911 [S10].
@@ -63,6 +65,8 @@ Gather these before searching:
   One presenter and the FamilySearch Wiki give 1562 for Trent [S2], [S11]. Use the decree dates above. Take each parish's first year from its own list of books.
 
 ## 2. Find who holds the book before you search
+
+**Privacy gate:** <!-- privacy-gate: request --> A certificate (certidão) ordered for an entry still inside its threshold (the last step in this list) names people who may be living; answer the privacy gate in `SKILL.md` before you order it.
 
 - **Treat most pre-1911 parish books as state archive holdings.** In 1911 the parish books were handed over for the new civil registry offices. They now sit on district-archive shelves [S5], and some were lost in the transfer [S11]. They are spread over 26 archives, each with its own website: 1 national, 17 district, 4 regional, 3 municipal and 1 diocesan [S6].
 - **Check these exceptions before you call a book missing** [S6]:

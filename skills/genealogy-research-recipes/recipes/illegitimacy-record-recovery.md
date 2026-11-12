@@ -89,7 +89,11 @@ Account for every court term in the selected interval: terms may be bound togeth
 
 ### Child-welfare file to its later custodian
 
+**Privacy gate:** <!-- privacy-gate: request --> This inquiry sends the child's and the mother's names, the birth date and residences to a municipal archive, and asks for a welfare file about parentage and family circumstances. The child and the mother may be living: answer the privacy gate in `SKILL.md` for each of them before the first request, and send only what the archive needs to find the file.
+
 Where the historical responsibility points to a *barnavårdsman* or *barnavårdsnämnd*, ask the responsible municipal archive for both the child's register entry (*liggare*) and individual case file (*akt*), supplying the child, mother, birth date and known residence or move dates [S10], [S11]. Request the file references and surviving documents, rather than treating a name-only reply as the complete case.
+
+**Privacy gate:** <!-- privacy-gate: request --> The authority that received a transferred file is a new destination; answer the privacy gate in `SKILL.md` again before you send the child's and the mother's details there.
 
 Follow the file across documented moves. If the first archive does not hold it, ask whether it was transferred, and request the destination board, transfer date and any register or file reference. Use those references to request the receiving authority's entry and file [S10], [S11]. Linköping's archive guide describes the forwarding of child-welfare papers when a child moved and became registered in another municipality; it also warns of gaps in particular rural series [S11]. A birth-municipality no-hit therefore leaves transfer and survival unresolved.
 

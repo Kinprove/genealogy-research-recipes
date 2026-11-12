@@ -4,13 +4,13 @@ title: "Route a Spanish or Andorran record to the archive that holds it on the e
 summary: "Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the body that holds it on the event date."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "SPANISH-CIVIL-PARISH-RECORD-ROUTING-01", "text": "**Expect the national Registro Civil only from 1 January 1871.**"}]
 handoff: ["catholic-parish-diocesan-record-recovery", "city-directory-observation-workflow", "evidence-proof-judgment", "hispanic-catholic-register-recovery", "historical-place-name-resolution", "school-university-record-recovery", "tax-roll-observation-workflow", "usa-immigration-search-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Country record routing", "order": 1061}
 ---
 
@@ -58,12 +58,16 @@ Gather these before searching:
 
 ## 1. Fix the civil-registration period
 
+**Privacy gate:** <!-- privacy-gate: request --> A certificación literal of a civil entry from 1871 onward can name people who are still living; answer the privacy gate in `SKILL.md` before you order it.
+
 - **Expect the national Registro Civil only from 1 January 1871.** It rests on the Ley provisional del Registro Civil of 17 June 1870 [S1], [S2]. Before that date, use the parish books and the municipal registers below.
 - **For 1841–1870, look for a municipal civil register as well as the parish books.** A decree of 24 January 1841 ordered civil registers in the provincial capitals, the district seats (cabezas de partido) and the towns of more than 500 vecinos (households) [S3]. Read the municipal archive's inventory for a surviving civil-register series.
 - **Do not expect a register for every town.** Smaller towns were outside the 1841 decree [S3]. Read the inventory before you request a volume, and record a missing series as a coverage gap.
 - **For an event from 1871, order the certificación literal (literal certificate).** It is the full copy of the entry, not the extract. Extract the fields from it with the Hispanic register recipe.
 
 ## 2. Find the diocese that held the parish on the event date
+
+**Privacy gate:** <!-- privacy-gate: request --> A letter to a diocesan archive with names, parish and date (the last step in this list) can concern people who may be living; answer the privacy gate in `SKILL.md` before you send it.
 
 - **Do not infer the diocese from the modern province.** Spanish dioceses do not follow provincial lines, and parishes have moved between dioceses. Fix the diocese for the event date before you write.
 - **Examples:** on 19 September 1956 a decree moved a list of parishes in the Omaña, La Lomba and Páramo areas of León province from the Diocese of Astorga to the Diocese of León, and ordered the curia's papers on them sent to León [S7]. The Cantabrian municipality of Valle de Villaverde (Trucíos) belongs to the Diocese of Bilbao, while the Valle de Mena, in Burgos province, belongs to the Diocese of Santander [S8].
@@ -120,12 +124,16 @@ Gather these before searching:
 
 ## 9. Request military files and read the gazettes
 
+**Privacy gate:** <!-- privacy-gate: request --> A request for an army or navy personnel or service file sends the person's name, unit and call-up year or service dates, and a conscript after 1900 or a 20th-century officer or sailor may be living; answer the privacy gate in `SKILL.md` before you send it.
+
 - **Route army personnel files by service category and period.** The Archivo General Militar de Segovia holds the service records (hojas de servicio) of professional personnel, from the mid-18th to the late 20th century, once 20 years have passed since retirement or death, and the files of conscripted troops before the Reemplazo (call-up class) of 1900 [S30]. For a conscript after the Reemplazo of 1900, write to the Archivo Intermedio Militar for the province where the unit was stationed and to the Archivo General Militar de Guadalajara, which receives those files when they are transferred [S30]. Give the name, the corps or unit and the call-up class or year of entry. Request Segovia files from Segovia itself, with its authorisation form for restricted-access files [S29].
 - **Update old navy citations.** The former Archivo General de la Marina "Álvaro de Bazán" (Viso del Marqués, Ciudad Real) is now a sede of the Archivo Histórico de la Armada, which took over all its holdings under Real Decreto 33/2023 [S31]. Send a request that cites the old name to the new archive.
 - **Label a death date taken from a pension notice as an inference.** If a notice transfers a pension from the day after the previous holder's death, that start date bounds the death. Record it as calculated, not as a death record.
 - **Use the full-text option in the Biblioteca Virtual de Prensa Histórica.** Its search form offers "Buscar en el texto completo" beside the field (metadata) search [S32]. Tick it for a name search, and run the surname lanes from [Hispanic Catholic register recovery](hispanic-catholic-register-recovery.md), step 3.
 
 ## 10. Route Civil War and repression files by holder
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for a court-martial file of the Civil War or the Franco era sends the name of a person who may be living and asks for a repression record about them; answer the privacy gate in `SKILL.md` before you send it, and apply its rule for third persons named in the file.
 
 - **Search PARES for the Centro Documental de la Memoria Histórica (CDMH) cards and the Causa General.** The CDMH general card index of the Secretaría General and the Sección Político-Social is described in PARES down to the single card; each card names the person and the file or archive signature that holds the information. The physical index is not open to users; its database and card images are consulted in the archive's reading room [S33]. Causa General files have item-level PARES records, some with images [S33].
 - **Request a post-1939 court-martial file through the military court that owns it.** Find the Tribunal Militar Territorial (territorial military court) and the Defence archive that holds its files. For the Fourth Territorial Military Court's files at the Archivo Intermedio Militar Noroeste in Ferrol, ask the court for authorisation first [S34].

@@ -4,13 +4,13 @@ title: "Verifying archival images, case boundaries and search coverage"
 summary: "Verify case boundaries, image order, transcript version and the pages and targets actually inspected."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["catalogue/cover disagreements, conflicting readings or completeness claims."]}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "ARCHIVAL-IMAGE-COVERAGE-VERIFICATION-01", "text": "A completed reader session establishes execution coverage, not transcription accuracy. A new surname was not searched merely because its pages occurred in an earlier sweep for other names."}]
 handoff: ["ai-for-documentary-records", "corpus-seeded-name-search", "evidence-proof-judgment", "jewishgen-search-family-reconstruction", "muscovite-census-settler-origin-recovery", "russian-revision-list-household-chaining"]
 checked: "2026-10-18"
 checked_basis: "opened 2026-10-18"
-capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 3}
 ---
 
@@ -43,6 +43,8 @@ one-person-or-two question remained open. [S26]
 FamilySearch distinguishes image numbers, record pages, household numbers and family numbers. Its item-grouping instructions allow multiple books on a film and a book split across films. A film's image count therefore cannot establish a particular case's boundaries. [S1, S2]
 
 For the requested item, inspect opening and closing material and representative interior pages. Reconcile its covers, title boards, headings, foliation and entries with the catalogue. A readable copy's own page count is not independent evidence that it contains the whole case. If an inventory, certification or other copy establishes a boundary, cite that evidence; otherwise report inspected pages with completeness unresolved.
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for further sheets of a case file asks for more about the people it names, who may be living; answer the privacy gate in `SKILL.md` before you send it, and apply its rule for third persons named in the file.
 
 When an archive sends copies it selected from a case file, list the archival sheet numbers actually received. The highest number shows only that the file was at least that long; gaps in the foliation mark sheets not supplied. Record the packet as an excerpt with its known minimum extent, not as the case. Request the remaining sheets, citing the sheet numbers already received, and record whether the archive supplied them or withheld them. The [repression-file copy reports](https://forum.j-roots.info/viewtopic.php?f=64&t=561) motivate this. Sheet numbers do not show what omitted sheets contain or whether they can be released, and an unexplained gap is not evidence that nothing more was recorded.
 
@@ -136,6 +138,8 @@ When an archival file sits on Wikimedia Commons as one PDF, download the origina
 An archive download can be a multi-page TIFF holding several sheets in one file. Pillow, for one, opens such a file at frame 0 without any error and saves only that frame unless told to save all frames. [S39] Count the frames (`n_frames`), extract every one and record which frame is which sheet before you read anything or call a page absent from the file. A JPEG's EXIF orientation tag can make the displayed image differ from the stored pixels; Pillow's `ImageOps.exif_transpose` exists to apply it. [S40] State whether crop and OCR coordinates refer to the stored or the oriented pixels, and apply the orientation only to a recorded derivative copy.
 
 Before reading a conflict into a field, confirm the image reaches the record's outer edges. A tile assembly or stitched download with no internal gaps can still miss an edge strip, such as the right-hand column of tiles: check its outer bounds against the viewer's or source's stated dimensions, record the region and zoom level, and never call a partial assembly the full original. If one provider's scan looks cropped, shaved or distorted, open the same record at another provider. Record which image supplied each reading. A second scan of the same original completes the reading; it is not independent corroboration. The [draft-card example](https://www.youtube.com/watch?v=mTyYpO_3uPs), where a cut-off edge hid the stated age, motivates this check. It does not explain the remaining birth-year discrepancy.
+
+**Privacy gate:** <!-- privacy-gate: request --> When the record may name a living person, ordering a copy of its image (below) is a record request; answer the privacy gate in `SKILL.md` before you order it.
 
 If a viewer publishes a IIIF manifest, save it. Its canvases give the publisher's image order and canvas IDs. Canvas width and height have no unit and fix only the aspect ratio, so take pixel dimensions from the image's `info.json` [S42]. Fetch images through the Image API at `full/max` rather than taking viewer screenshots. `max` is the largest size the server will deliver, and `maxWidth`, `maxHeight` or `maxArea` in `info.json` can cap it below the stored master [S41]. Record the width, height and any of those caps, and do not call a capped image native resolution. If the cap prevents a reading, look for an official original-file download or order a copy. Compare any PDF download from the same viewer, and record which rendition supplied each reading. A canvas label is the publisher's display string, not a verified folio number: the frame/folio separation above still applies.
 

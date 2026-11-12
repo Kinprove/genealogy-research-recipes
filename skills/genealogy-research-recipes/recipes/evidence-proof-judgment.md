@@ -4,13 +4,13 @@ title: "Correlating evidence & proving identity — the judgment AI gets wrong"
 summary: "Correlating evidence & proving identity: the judgment an AI gets WRONG when it recites the Genealogical Proof Standard but misapplies it — same-name conflation, conflict- flattening, over-reading a document, negative-evidence errors, DNA/documentary siloing, de-novo fabrication, and sycophancy toward the answer you want. Includes a premise and dependency register for investigating a tentative branch without silently inheriting its assumptions."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["separating same-named people, resolving conflicting records, weighing indirect vs negative evidence, combining DNA with documents into ONE proof, conditional placements, discriminating hypothesis tests or revising dependent claims — **and** whenever you (the assistant) are about to state a genealogical conclusion."]}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "EVIDENCE-PROOF-JUDGMENT-01", "text": "**You rule on identity and proof. The model assembles and drafts — it never concludes.**"}, {"id": "PROOF-01", "text": "**You rule on identity and proof. The model assembles and drafts — it never concludes.**"}, {"id": "PROOF-02", "text": "**Keep same-name candidates in SEPARATE research projects** so their records never cross-contaminate."}, {"id": "PROOF-03", "text": "A converged match is evidence in the proof argument, not proof by itself."}, {"id": "PROOF-04", "text": "**Include a search that challenges the preferred version.**"}]
 handoff: ["ai-for-dna-research", "ai-for-documentary-records", "ancestry-record-search-recovery", "gedcom-research-export", "quaker-meeting-record-recovery", "russian-orthodox-confession-list-reading", "unknown-parentage-wato"]
 checked: "2026-10-07"
 checked_basis: "accessed 2026-10-07"
-capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 30}
 ---
 
@@ -328,6 +328,8 @@ parentage. These are retrieval checks illustrated by the
 and [Gockeler](https://dna-explained.com/2022/08/18/wolfgangius-gockeler-his-wife-barbara-born-c-1585-i-baptize-thee-52-ancestors-370-371/)
 cases; their original records remain to be inspected in any new investigation.
 
+**Privacy gate:** <!-- privacy-gate: request --> A request for a register entry's full text names the person on the certificate, who may be living; answer the privacy gate in `SKILL.md` before you send it.
+
 An issued certificate, extract, archive statement or compiled ancestry form is derived from a register entry. A dash or blank on it (religion, nationality, birthplace, the mother's surname, a whole paternal side) means 'not stated' there (for a blank paternal side, at most that the father was not known), not 'none' or a hidden origin. Find where the original register is held and request the entry's full text, ideally an image, including marginal notes, because issued statements may abbreviate it. Treat an uncertified handwritten addition, especially in a field that year's form lacked, as an unattributed later addition. Record differing surnames as a conflict. Look beside the act for dated notes of a name change, conversion, court decision or later acknowledgment of paternity; clerks could also write variant forms without an official change. Motivating discussions: [register extract](https://forum.j-roots.info/viewtopic.php?f=95&t=5107), [certificate addition](https://forum.j-roots.info/viewtopic.php?f=20&t=5084), [act annotations](https://forum.j-roots.info/viewtopic.php?f=4&t=4667), [blank paternal side](https://forum.ahnenforschung.net/forum/thread/7419/). None establishes period rules on forms, amendments or registering fathers, or what an omitted field contained.
 
 A bilingual seal may reflect the issuing office rather than its holder. On a Soviet-era certificate, a Yiddish stamp next to Slavic text is not a rabbinate seal and does not show the person's Jewish identity: offices in Jewish national districts and village soviets could use bilingual seals. First identify the issuing district. Then look for nationality fields, such as the parents' nationality, which one participant says was usually given on 1937 civil records, or the person's later identity documents. A [bilingual-seal discussion](https://forum.j-roots.info/viewtopic.php?f=95&t=5107) motivates this step. It shows no stamp image, and one participant's remark on 1937 nationality fields is a generalisation, not a rule for any form.
@@ -367,6 +369,8 @@ original-language form; test that against the register entry. Motivating example
 [late baptismal certificate](https://www.youtube.com/watch?v=7vUOB1x6QR0). These are single cases.
 They show neither how common the practice was nor what form was used, and the affiants' stated
 relationships still need independent proof.
+
+**Privacy gate:** <!-- privacy-gate: request --> A register search for a person whose papers were replaced names someone who may still be living; answer the privacy gate in `SKILL.md` before you ask the archive.
 
 A document reissued after a loss is also a late claim. If the family says papers were lost and replaced, for example during wartime evacuation, treat the birth year on the replacement, and on later records copied from it, as possibly changed. When contact is authorized, ask the archive to search the original birth register over several earlier years, not only the stated one. Also look on surviving certificates for altered numerals, such as an extended Roman month numeral. A [reissued-document discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=561) motivates this step. The family story is unconfirmed and no earlier entry had been found, so a wider search window does not show which year is correct.
 
@@ -409,6 +413,8 @@ her birthplace and with land or probate records she made under both names. Motiv
 [Gunton](https://www.youtube.com/watch?v=QOxgU5AZjEo),
 [Dove](https://www.youtube.com/watch?v=pNF5B1jZ8gM). Agreement supports a surname but does not prove
 it. A matching birthplace or a registration under the maiden name identifies no father.
+
+**Privacy gate:** <!-- privacy-gate: request --> An application for an adopted person's original birth information concerns the adopted person and birth parents who may be living; answer the privacy gate in `SKILL.md` before it is made.
 
 A father named on a marriage entry may be the man who raised the bride or groom, not the birth or adoptive father. If his surname differs from the birth record, especially for a fostered child or a wartime evacuee, record him verbatim as the named father. Test foster care, a host household and a stepfather's marriage to the mother before switching the line. For England and Wales, search the GRO adoption index (the Adopted Children Register, from 1 January 1927) for a formal adoption under the surname the child may have taken. An adopted person aged 18 or over can apply for their original birth information (Source 190). A missing entry does not prove fostering, and neither outcome identifies a biological father. A [heir-hunting case](https://www.youtube.com/watch?v=_ntfDZ26ThA) motivates this check; it did not settle whether the named man fostered or adopted.
 

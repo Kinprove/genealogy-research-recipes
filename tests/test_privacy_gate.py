@@ -1,9 +1,8 @@
 """Every listed privacy-relevant recipe step sits behind its own Privacy gate checkpoint.
 
 `SKILL.md` holds the one privacy gate. A recipe step that uploads, exports, links, publishes,
-contacts a person, pastes data into a third-party tool, or (in the file-recovery recipes)
-requests a record about a person who may be living, is preceded in its section by a
-checkpoint line of the form
+contacts a person, pastes data into a third-party tool, or requests a record about a person
+who may be living, is preceded in its section by a checkpoint line of the form
 
     **Privacy gate:** <!-- privacy-gate: export --> What leaves, whose data ...
 
@@ -166,6 +165,10 @@ class PrivacyGateSectionTests(unittest.TestCase):
 
     def test_how_to_use_points_to_the_gate(self):
         self.assertIn("](#privacy-gate)", section(SKILL.read_text(encoding="utf-8"), "## How to use"))
+
+    def test_record_requests_stop_at_an_unsent_draft(self):
+        rule = section(SKILL.read_text(encoding="utf-8"), "### Record requests")
+        self.assertIn("unsent draft", rule)
 
 
 class InventoryTests(unittest.TestCase):

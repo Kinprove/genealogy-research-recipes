@@ -4,13 +4,13 @@ title: "Route French records by département, creator, series and access rule"
 summary: "Route French civil, census, military, property, notarial, medal, consular, OFPRA refugee and prison records by creator, département, series and access rule; follow cadastral names through mortgage accounts to deeds and historical Paris addresses to property registers; trace Saint-Pierre victim leads to civil records/death judgments and pre-parish town lineages to civic admissions; follow missing Léonore dossiers into published nominations and named prisons through tables to admission entries; distinguish recruitment stages and JMO context, adoption-date references, Basque house-entry names and Breton marriage decrees."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "FRENCH-DEPARTMENTAL-RECORD-ROUTING-01", "text": "**Send each search to an Archives départementales (AD), not to a national index.** Older civil registers, census lists, military registers, Enregistrement tables and notarial minutes are kept by the AD, each with its own website and series."}]
 handoff: ["archival-image-coverage-verification", "evidence-proof-judgment", "french-belgian-civil-act-extraction", "historical-map-record-recovery", "historical-place-name-resolution", "land-index-book-series-recovery", "source-citation", "tax-roll-observation-workflow"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Country record routing", "order": 1062}
 ---
 
@@ -79,6 +79,8 @@ Gather these before searching:
 - **Place a former Meurthe commune before you route it.** The annexed Château-Salins and Sarrebourg areas joined Moselle [S16]. Do not assume which AD holds its pre-1871 registers: resolve the commune in the place-name recipe, then read the finding aid of its present AD.
 
 ## 2. Work out whether the act is open yet
+
+**Privacy gate:** <!-- privacy-gate: request --> A request to a mairie for a birth or marriage act that is still closed, as described below, sends the names of people who may be living and your kinship to them; answer the privacy gate in `SKILL.md` before you send it.
 
 - **Open birth and marriage registers 75 years after the register closed, or 25 years after the person's death if that comes first** (Code du patrimoine, art. L213-2 I 4° e) [S12], [S13]. For a marriage, the 25-year rule runs from the death of both spouses [S14].
 - **Treat death acts as open at once.** Anyone may request one without giving a reason [S13], [S14]. A 25-year limit applies only to putting death acts online, so an online series can stop short of years that are open on request [S13].
@@ -281,6 +283,8 @@ boundary changes; a modern arrondissement alone does not select the historical r
   not establish that a calepin can be inspected; record its actual access status.
 
 ## 9. Follow a 1939 Spanish refugee into the Pyrénées-Orientales camp files
+
+**Privacy gate:** <!-- privacy-gate: request --> The OFPRA file question below sends a refugee's name and identity details, and a refugee who applied from 1945 may be living; answer the privacy gate in `SKILL.md` before you send the form.
 
 - **Take early-1939 camp lists from the Archives nationales, not the department.** The Pyrénées-Orientales departmental archives hold no nominative data for the crossing of January–February 1939 and the months after; their nominative data run from September 1939 to November 1942 [S24]. For Argelès, Sûreté nationale series F/7/14731 at the Archives nationales holds nominative lists and individual notices from 2 February 1939 to 17 May 1940, including the first arrivals of 31 January to 2 February 1939 [S25], [S28]. F/7/14732 covers Barcarès and F/7/14733 Saint-Cyprien and other Pyrénées-Orientales sites [S28]. These lists are partial [S25]: a miss in them is not a negative.
 - **Search the department's camp name database and its list of internee files,** both linked from its camp resources page [S24]. In the prefecture fonds, 109 W 330 holds nominative lists for the Argelès-sur-Mer camps, 1939–1940 [S25]. The Argelès camp memorial holds no internee lists itself [S25].

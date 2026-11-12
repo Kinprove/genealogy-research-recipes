@@ -91,6 +91,8 @@ Transcarpathia is not covered. Link out for the shared steps:
 
 ## 4. Find who holds the books
 
+**Privacy gate:** <!-- privacy-gate: request --> A request to the Warsaw civil registry office (USC) for a book under 100 years old can name people who are still living; answer the privacy gate in `SKILL.md` before you send it.
+
 - **Eastern Galicia: search Lviv, Warsaw, Przemyśl and the oblast archive for every confession.**
   - TsDIAL (Центральний державний історичний архів України у Львові, the Central State Historical Archive of Ukraine in Lviv) holds many Austrian-era Eastern Galician metrical books. Its Greek Catholic books are in fond 201, opys 4a, and its Roman Catholic books mainly in fond 618, opys 2; about 500 Roman Catholic books identified so far sit in fond 201, opys 4a, because they came from civil-registry offices. TsDIAL says most of its metrical books are copies [S16], [S43]. It publishes metrical-book catalogues and fond inventories as PDFs on tsdial.archives.gov.ua, among them a Roman Catholic catalogue dated 2026 [S16].
   - AGAD (Archiwum Główne Akt Dawnych) in Warsaw holds almost 8,500 metrical books of several confessions and rites, mainly from the pre-war Lwów, Stanisławów, Tarnopol and Volhynia voivodeships [S8]. In mid-2022 its Fond 300 held 4,145 Jewish vital-record books and indexes from 109 localities, nearly all in eastern Galicia [S17].

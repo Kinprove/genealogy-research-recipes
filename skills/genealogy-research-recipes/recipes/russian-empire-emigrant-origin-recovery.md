@@ -10,7 +10,7 @@ guardrails: [{"id": "RUSSIAN-EMPIRE-EMIGRANT-ORIGIN-RECOVERY-01", "text": "Prese
 handoff: ["ai-for-documentary-records", "beider-given-name-variants", "bessarabia-moldova-record-routing", "evidence-proof-judgment", "jewishgen-search-family-reconstruction", "newspapers-com-search-recovery", "research-documentation", "russian-empire-jewish-identity-attribution", "russian-volost-town-administration-records", "source-citation", "usa-immigration-search-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "request"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 20}
 ---
 
@@ -92,6 +92,10 @@ emigration lists is not. In the
 the manifest that was found had sailed from Bremen, and the colony marriage and manifest were linked
 only by names, ages and a child. Treat such a link as a candidate to test. It does not settle the
 family's earlier German origin.
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for a resettler's EWZ file sends their
+identity and the user's signed application, and a person resettled as a child in 1939–1945 may be
+living; answer the privacy gate in `SKILL.md` before you send it.
 
 If the family moved in the 1939–1945 resettlement of ethnic Germans from the USSR, interwar
 Poland and Volhynia, Bessarabia or the Baltic states, check the naturalisation and resettlement
@@ -277,6 +281,10 @@ Clusters become candidates for the competing-locality table. The
 [repeat](https://www.youtube.com/watch?v=VWxN39TRlMk) motivate the survey. Neither measures how
 rare a surname is or establishes kinship; a shared surname only guides the next search and never
 substitutes for the record that distinguishes the possibilities.
+
+**Privacy gate:** <!-- privacy-gate: request --> When a relative may be living, a request for the
+record that settles their birthplace or parentage sends their identity; answer the privacy gate in
+`SKILL.md` before you send it.
 
 When the direct traveler has only “Russia” in the birthplace field, a sibling's full arrival or
 naturalization record can supply a locality lead. Preserve the documented sibling relationship

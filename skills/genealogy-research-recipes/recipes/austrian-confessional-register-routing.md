@@ -87,6 +87,8 @@ This step does not cover Burgenland, which was Hungarian until 1921.
 
 ## 5. In the Czech lands, route by the regional archive
 
+**Privacy gate:** <!-- privacy-gate: request --> An entry just past its access period can still name a spouse, parent or informant who is living; answer the privacy gate in `SKILL.md` before you ask a registry office to show or copy it.
+
 - **Search the state regional archive, not the parish.** Czech parish registers (matriky) are held by region in the state regional archives (státní oblastní archivy) [S11]. Route by the archive whose present territory includes the parish that kept the register.
 - **Pick the archive by territory.** Bohemia has five state regional archives (SOA): Litoměřice for the north, Plzeň for the west, Třeboň for the south, Hradec Králové for the east (SOA Zámrsk until 2022, the name older guides use) and Praha for Central Bohemia only. In Moravia and Silesia, the Moravian Provincial Archive in Brno (MZA) covers the south and the Provincial Archive in Opava (Zemský archiv v Opavě) covers north Moravia and Silesia [S11], [S16]. A parish inside the city of Prague goes to the Prague City Archives (AHMP), not SOA Praha. Each archive runs its own online register portal.
 - **Route the exceptions elsewhere** [S11]:
