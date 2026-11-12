@@ -79,7 +79,7 @@ today's date. Do not check for a newer version over the network yourself.
    the task-recipe read.
    Carry any material source limitation alongside the claim it affects: a search-result extract,
    unread page or unavailable recording is a lead, not a verified reading. Consult the paired
-   `sources/` file when the claim's support is unclear; attribute an independently read source
+   `https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/` file when the claim's support is unclear; attribute an independently read source
    explicitly rather than treating an inaccessible additional citation as confirmation.
 3. Apply its "never trust / never delegate" boundaries as **hard constraints on your own output** —
    those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
@@ -96,7 +96,7 @@ today's date. Do not check for a newer version over the network yourself.
 ## Read source limits
 
 A source marker identifies evidence, not a guarantee that the page was read or that it supports
-every sentence. When relying on a factual passage, inspect its `sources/<recipe-id>.md` sidecar.
+every sentence. When relying on a factual passage, inspect its `https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/<recipe-id>.md` sidecar.
 Its provenance ledger joins exact recipe passages to source IDs and records access, dates and
 review status. `pending` records preserve unresolved legacy attribution; do not treat them as
 verified. `unknown` access means the ledger has no reviewed reading record, even when the older
@@ -1080,5 +1080,5 @@ A dated source check is a maintenance reminder, not verification of every claim 
 ## Attribution
 
 These recipes are original Kinprove-authored distillations, licensed FSL-1.1-MIT (see `LICENSE`).
-Third-party facts and methods are credited in each recipe's `sources/<slug>.md`; any
+Third-party facts and methods are credited in each recipe's `https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/<slug>.md`; any
 reproduced third-party data is carved out in `NOTICE`.

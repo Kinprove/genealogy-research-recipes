@@ -207,4 +207,4 @@ Living people rule: use the consent, disclosure and log rules of
 
 ## Sources
 
-[Primary-source checks and limits](../sources/holocaust-testimony-source-interpretation.md).
+[Primary-source checks and limits](https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/holocaust-testimony-source-interpretation.md).

@@ -472,4 +472,4 @@ or seeking rehabilitation is a separate action requiring the user's scope and cu
 
 ## Sources
 
-[Primary-source checks and withheld claims](../sources/russian-military-repression-record-episodes.md).
+[Primary-source checks and withheld claims](https://github.com/Kinprove/genealogy-research-recipes/blob/90e00fd9f529beee13a325a92eee4b61eb57c474/skills/genealogy-research-recipes/sources/russian-military-repression-record-episodes.md).
