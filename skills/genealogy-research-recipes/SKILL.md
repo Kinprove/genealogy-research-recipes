@@ -96,11 +96,10 @@ today's date. Do not check for a newer version over the network yourself.
 ## Read source limits
 
 A source marker identifies evidence, not a guarantee that the page was read or that it supports
-every sentence. When relying on a factual passage, inspect its `sources/<recipe-id>.md` sidecar.
-Its provenance ledger joins exact recipe passages to source IDs and records access, dates and
-review status. `pending` records preserve unresolved legacy attribution; do not treat them as
-verified. `unknown` access means the ledger has no reviewed reading record, even when the older
-prose includes a check date. Source prose and its limitations remain relevant.
+every sentence. Most cited passages lack a recorded review against their sources, and a marker or
+a date alone does not show that one was reviewed. When relying on a factual passage, read the
+entry for each cited source ID in its `sources/<recipe-id>.md` sidecar and carry the limitations
+that entry states.
 
 `[S12 @2026-11-07]` gives the claim's last check date. A dagger such as `[S16†]` marks limited or
 unavailable access: preserve the attributed observation and qualification rather than restating

@@ -162,6 +162,9 @@ class RecipeCatalogTests(unittest.TestCase):
         m["checked"], m["checked_basis"] = self.today.isoformat(), "published " + self.today.isoformat()
         with self.assertRaisesRegex(catalog.CatalogError, "not a publication"):
             catalog.validate_header(m, body, m["id"] + ".md", self.today)
+        # Sidecars record a dated reading as "read YYYY-MM-DD".
+        m["checked_basis"] = "read " + self.today.isoformat()
+        catalog.validate_header(m, body, m["id"] + ".md", self.today)
 
     def test_export_emits_header_and_regenerates_both_consumers(self):
         with tempfile.TemporaryDirectory() as directory:
