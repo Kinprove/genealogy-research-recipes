@@ -18,7 +18,7 @@
   },
   "assert": {
     "regex_present": [
-      "bound|earliest|latest|range|between|\\b\\d{4}\\s*(?:[-–—]|to)\\s*\\d{4}\\b"
+      "bound|earliest|latest|\\branges?\\b|between|\\b\\d{4}\\s*(?:[-–—]|to)\\s*\\d{4}\\b"
     ],
     "regex_absent": [],
     "rubric": [

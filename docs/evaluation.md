@@ -37,7 +37,9 @@ successful read. A subset replay checks the saved fixtures used by that subset.
 not require those additional routes. Their rules still need complete coverage.
 Questions in the rubric are bound to exact recipe sentences and their current body line numbers.
 Clarification cases must stop at one focused question and a brief reason, waiting for the
-user's answer before any source list or workflow.
+user's answer before any source list or workflow. They have no rubric question: the judge's
+clarification verdict is their check and must pass in three of three samples. Their summary
+reports the rubric as not applicable (`null`) and counts the clarification passes.
 The `.yaml` cases use JSON syntax, a YAML 1.2 subset; headers use the strict subset described
 in [MAINTAINERS.md](../MAINTAINERS.md). The offline tier needs only Python's standard library.
 Evaluation tooling and fixtures are development files. An install from this Git repository
@@ -51,16 +53,25 @@ same-repository PRs with the `behavioural-evals` label. Adding that label starts
 label stays on the PR, each push or reopen starts a fresh run. Adding any other label neither
 starts nor cancels an evaluation. Fork PRs skip the workflow; without the
 `ANTHROPIC_API_KEY` repository secret it reports a credential skip, not a model pass. The
-optional `EVAL_MODEL` and `EVAL_JUDGE_MODEL` repository variables select the models; otherwise
-the CLI uses its normal configured model. Pin these variables for comparisons across model
-updates; each CLI transcript records the actual resolved model. Full assistant
+optional `EVAL_MODEL` and `EVAL_JUDGE_MODEL` repository variables (locally `--model` and
+`--judge-model`) select the models; otherwise the CLI's built-in default model answers, because
+user settings are not read. Pin them for comparisons across model updates; each CLI transcript
+records the actual resolved model. Full assistant
 and judge transcripts, answers, case contracts and the skill hash are retained as artifacts
-for 30 days. Locally, an authenticated CLI works without an API key; `--profile claude3`
-uses that profile's normal shell alias, settings and loaded plugins. Evaluation invocations
-use only the scoped evaluation MCP server, with built-in and other connected tools unavailable;
-the profile itself is not reconfigured. The server rejects paths and symlinks outside `recipes/`.
+for 30 days.
+
+Every assistant and judge call is isolated from the local Claude Code configuration: no user,
+project or local settings, no CLAUDE.md files, no auto memory, no plugin skills or commands, and
+no inherited `CLAUDE*` or `ANTHROPIC*` variable or `MAX_THINKING_TOKENS` other than
+`CLAUDE_CONFIG_DIR`, `ANTHROPIC_API_KEY` and `CLAUDE_CODE_OAUTH_TOKEN`. Claude Code's built-in
+plugins remain. Locally, an authenticated CLI works without an API key; set `CLAUDE_CONFIG_DIR`
+to use another login. A usage limit fails the affected samples with the CLI's own message; rerun
+those cases with `--case` into a new output directory. Evaluation invocations
+use only the scoped evaluation MCP server, with built-in and other connected tools unavailable.
+The server rejects paths and symlinks outside `recipes/`.
 The judge uses schema-validated structured output and sees the same fixtures.
-For profiles that shorten large MCP outputs, `--reader native` uses native `Read` with
+Where large MCP outputs are shortened (for example by managed settings),
+`--reader native` uses native `Read` with
 an explicit bounded line limit to read each selected file completely, matching the server's
 complete-file default, and denies MCP tools instead. It requests `allow_large` for recipes
 above Read's default token limit. The same line-coverage and
