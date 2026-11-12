@@ -18,6 +18,20 @@
 - **H7:** RootsMagic 11 Help, [WebHint Settings](https://help.rootsmagic.com/RM11/webhint-settings.html), checked 2026-10-07; rechecked 2026-11-06, with the same wording in the RootsMagic 12 help, for "Disconnect from Ancestry Tree … This cannot be undone" and the three ways to reconnect. Rights: cited, not reproduced.
 - **H8:** RootsMagic, [TreeShare for Ancestry: FAQ](https://files.rootsmagic.com/guides/Magic_Guide_TreeShare_Ancestry_FAQ.pdf), 2017-06-28, checked 2026-11-06; RootsMagic 7.5 placed TreeShare under the Internet menu and added a toolbar icon on first use. Rights: cited, not reproduced.
 
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: H1 to H7, the RootsMagic 11 help pages, were re-read and hold as cited; they
+show no edit date. H1 still places TreeShare on the Publish page, lists the separate upload options,
+finalizes nothing before Accept changes and keeps the "NO UNDO" note on "Delete the person from…".
+H2 still limits basic events to replacement and asks for a reason; H3 still maps WebTag URLs; H4
+still lists database backup for both editions and media backup for the full version only; H5
+still requires enabling FamilySearch support and signing in; H6 still says AutoMatch exchanges no
+data and still lists updated people under What's New; H7 still warns that disconnecting cannot be
+undone and names the three ways to reconnect. The RootsMagic 12 help pages for the same seven
+topics carry the same statements. H8, the 2017 FAQ, still places TreeShare under the Internet menu
+with a toolbar icon added on first use. The videos S1 to S6 were not re-read. The recipe needed no
+change.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

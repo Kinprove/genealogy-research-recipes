@@ -8,8 +8,8 @@ privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "ANCESTRY-DNA-MATCH-INVESTIGATION-01", "text": "Keep three columns: observed cM, dated label with its origin, and sourced pedigree path."}]
 handoff: ["ai-for-dna-research", "ai-for-documentary-records", "dna-match-outreach-staging", "evidence-proof-judgment", "unknown-parentage-wato"]
-checked: "2026-10-03"
-checked_basis: "checked 2026-10-03"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["ancestrydna"], "local_script": [], "extensions": ["browser extension view comparison (optional)"], "data_transfer": ["link"], "contact": ["contact"]}
 router: {"tier": "full", "group": "Featured workflows", "order": 23}
 ---
@@ -108,9 +108,9 @@ Set a custom cluster's range for the generation of the ancestor you are testing.
 Locket's summary of Ancestry's suggestions gives 90–340 cM for great-grandparents (second
 cousins), 40–120 cM for second-great-grandparents (third cousins) and 20–60 cM for
 third-great-grandparents (fourth cousins), with 20 cM as the lowest setting [S1 @2026-11-12].
-Ancestry's own help page could not be read to confirm these figures. Choose sidekicks who
-descend from the same ancestor as the match of interest and share more DNA than the top of
-the range [S2 @2026-11-12].
+Ancestry's own custom-cluster help gives the same ranges and the 20 cM low end [B4 @2026-11-12].
+Choose sidekicks who descend from the same ancestor as the match of interest and share more
+DNA than the top of the range [S2 @2026-11-12].
 
 Read a cluster's matrix member by member before assigning members to the cluster's line.
 Count each member's filled cells with the cluster's documented members. Treat a member tied
@@ -157,7 +157,7 @@ M16 hypothesis | reviewed 2026-10-03 | basis: Ruth's tree and census
 | next: obtain J.K.'s parent birth record
 ```
 
-Leeds (2023-03-27) documents group dots following palette order rather than the order of assignment. Leeds's eight-group scheme uses the middle row from right to left, **green through yellow**: paternal cool colors appear ahead of maternal warm colors. Write a legend linking each color to its ancestral branch.
+Leeds (2023-03-27) documents group dots following palette order rather than the order of assignment. Leeds's eight-group scheme uses the middle row from right to left, **green through yellow**: paternal cool colors appear ahead of maternal warm colors. A reader's comment on that post, dated 2024-12-06, reports that the dots appeared in the order the groups were created, whatever their color [B46 @2026-11-12]. Check the order in your own list. Write a legend linking each color to its ancestral branch.
 
 Put a match in each relevant group. Revisit its note when a tree, record, relative or available view changes.
 
@@ -269,7 +269,7 @@ At 90 cM or more, do not flag a match as possibly reduced by weighting or adjust
 Kessler found the weighted and unweighted figures always equal from 90 cM, and the unweighted
 figure usually larger below it; Estes likewise reads Timber as removing segments only from
 matches under 90 cM [S5 @2026-11-12], [S6 @2026-11-12]. Ancestry's help page on unweighted
-DNA could not be read to confirm the threshold.
+DNA gives no threshold [B12 @2026-11-12].
 
 Keep three columns: observed cM, dated label with its origin, and sourced pedigree path. Include half and full alternatives when considering a relationship (Bartlett, 2026-03-27). A changed label belongs in the label/date column; inspect changed measurements, records or tester identity before revising the documented pedigree.
 

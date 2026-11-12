@@ -8,8 +8,8 @@ privacy: "none"
 gates: []
 guardrails: [{"id": "MYHERITAGE-HISTORICAL-RECORD-SEARCH-01", "text": "Preserve the sparse baseline before tightening it. If a tighter query fails, relax one condition at a time and record the reason; changing everything together conceals what excluded the record."}]
 handoff: ["ai-for-documentary-records", "beider-given-name-variants", "evidence-proof-judgment"]
-checked: "2026-10-03"
-checked_basis: "checked 2026-10-03"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 34}
 ---
@@ -108,11 +108,12 @@ MyHeritage's Global Name Translation can match name versions, nicknames and diff
 and transliterate returned names into the query language. That convenience can hide the precise
 original spelling. Save the native name alongside the displayed version. [S1, S4, H4]
 
-In the search form this is the **Show results from other languages** switch under **+ More**.
-Record its state with each query. With the switch off, a zero says nothing about records in
-other languages or scripts. With it on, a zero still does not prove absence. A translated name shows in
-square brackets; MyHeritage notes that the bracketed translation is not in the original data and
-may be inaccurate. [H1, H11, H12]
+In the search form, the filters under **+ More** include an option to show results from other
+languages [H1 @2026-11-12]. Record its state with each query. With the option off, a zero says
+nothing about records in other languages or scripts. With it on, a zero still does not prove
+absence. In the Internet Archive capture of 2026-07-17 of a MyHeritage collection page, the search
+form's tooltip says a translation shown in square brackets is not in the original data and may be
+inaccurate [H12 @2026-11-12].
 
 Where possible, inspect the original record and retry a documented native spelling separately.
 Treat plausible name equivalents as search alternatives, not interchangeable evidence. Ask a
@@ -211,10 +212,11 @@ For example, a printed age can produce an indexed birth year that never appears 
 Search the literal name and reported age or relative in full text, rather than requiring that
 derived year. An expanded parent's surname also need not occur as a complete printed name.
 
-These records were extracted by AI, and each carries an article summary that AI generated.
-MyHeritage's collection pages warn of mistakes such as incorrect relationships and advise reading
-the scanned page. Use the summary only to find the article, and quote and cite only the printed article.
-[H7, H12]
+These records were extracted by AI, and each carries an article summary that AI generated
+[H7 @2026-11-12]. MyHeritage's collection page, in its Internet Archive capture of 2026-07-17,
+warns of mistakes such as incorrect relationships and advises reading the scanned page
+[H12 @2026-11-12]. Use the summary only to find the article, and quote and cite only the printed
+article.
 
 ### 13. Read beyond the highlighted hit
 

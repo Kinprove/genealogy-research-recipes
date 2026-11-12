@@ -64,6 +64,26 @@ MyHeritage pages beside them. No live MyHeritage account was used.
 - **S18:** Roberta Estes, DNAeXplained, [Cousin Finder – MyHeritage's Innovative New Tool Finds Your Relatives](https://dna-explained.com/2025/10/09/cousin-finder-myheritages-innovative-new-tool-finds-your-relatives/), published 2025-10-09, read 2026-11-12. Used for: finding trees for matches from other companies. No MyHeritage page describes this cross-company use; the identity check is Kinprove's.
 - **S19:** Jonny Perl, DNA Painter blog, [Investigating a new DNA match](https://dnapainter.com/blog/investigating-a-new-dna-match/), published 2021-02-22, read 2026-11-12. Used for: the "All tree details" → Has Theory of Family Relativity filter as one user saw it. Its route to a segment file from the match page is not current help and is not used.
 
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: every MyHeritage page in the unlabelled list was re-read and still supports
+the recipe. Help pages B8, B9, B11 and B15 are dated 21 July 2026 and B7 28 May 2026. B6 was
+edited on 10 November 2026 and still says a confirmed theory is added to the tree by hand. B10 was
+edited on 28 October 2026 and now says most advanced features need the user's own active
+subscription, not membership of another person's paid site, and keeps the unlock for uploaded
+kits; this fits the recipe's entitlement check. Education articles B1 to B5 and B12 are undated,
+and blog posts B13 and B14 date from 2018; the statements used here (category definitions, AND
+filters, Pedigree View, lowest-link confidence, seven compared matches, free contact) all hold.
+B11 still lists an all-match segment export as the first step of a manual method; S7 reports that
+export removed in October 2023 and S8 documents only the download for selected matches, so the
+recipe keeps that account. S1 to S19, first read earlier the same day, were re-read and hold;
+their help pages remain dated 21 July 2026. Two further help pages agree with the recipe: How can
+I message a DNA match? (21 July 2026) says contacting DNA matches is free for all DNA users, and
+the WGS upgrade page (edited 18 October 2026) says the raw-file header shows the processing used
+and that earlier kits are not reprocessed. Videos B16, B17, B19 and B20 and practitioner posts
+B18 and B21 support methods or attributed observations and were not rechecked. The recipe text
+needed no change.
+
 ## Credits
 
 - Roberta Estes, DNAeXplained blog, posts cited as S14, S16 and S18 — All rights reserved; short attributed adaptation (adapted)

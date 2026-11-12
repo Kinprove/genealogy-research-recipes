@@ -15,7 +15,7 @@ promise about current controls.
 - **S7:** Lisa Lisson, [Tracking Your Ancestors Through Post Office Letter Lists](https://www.youtube.com/watch?v=lUp9L5EDBWA), published 2024-09-09. Captions read in full on 2026-11-08.
 - **S8:** Devon Noel Lee, Family History Fanatics, [5 Newspapers.com Search Tricks You Should Use Right Now](https://www.youtube.com/watch?v=A5qSz5XL8ak), published 2021-12-06. Captions read in full on 2026-11-08.
 - **S9:** Ancestry, Crista Cowan, [Uncover Family Stories with Newspapers.com](https://www.ancestry.com/c/discover/education/uncover-family-stories-with-newspapers), publication date unspecified; accessed 2026-10-03. Internet Archive capture of 2026-03-07 read in full on 2026-11-08, after the live page refused automated access; the embedded event recording was not viewed.
-- **S10:** Ancestry Support, [Newspapers.com Collections FAQ](https://help.ancestry.com/hc/en-us/articles/53933301811859-Newspapers-com-Collections-FAQ), publication date unspecified; accessed 2026-10-03.
+- **S10:** Ancestry Support, [Newspapers.com Collections FAQ](https://help.ancestry.com/hc/en-us/articles/53933301811859-Newspapers-com-Collections-FAQ), publication date unspecified; accessed 2026-10-03. Rechecked 2026-11-12 in a browser through the Help Center article API; edited 2026-08-04. It says All Access includes Publisher Extra and tells a member who sees indexed records but not the images to move from All Access with Basic to Publisher Extra.
 - **S11:** Devon Noel Lee, Family History Fanatics, [8 Effective Online Genealogy Research Strategies](https://www.youtube.com/watch?v=YAMXdoNTjF0), published 2022-01-10; supplemental example of historical husband-name identification and of a given-name-only search that works best for an uncommon given name; not platform-specific syntax. Captions read in full on 2026-11-08; the caption lines are out of order in the transcript.
 - **S47:** Aimee Cross / Ancestry Aimee, [Newspaper Search Tricks to Find Your Family](https://www.youtube.com/watch?v=yRpW3iwln9w), published 2023-05-18; a notice's `ult.` date and a request for another place's papers to copy it. Anchor/reprint checks and the distinction between a copy request and residence evidence are Kinprove synthesis; other abbreviation expansions and the narrated family's location are not adopted.
 
@@ -85,10 +85,11 @@ Internet Archive capture named:
 - **H8:** Newspapers.com blog, [Tip: Searching with Wildcards and Boolean Operators](https://blog.newspapers.com/tip-searching-with-wildcards-and-boolean-operators/), posted 2015-03-12, updated 2019-01-25, capture of 2025-12-07; `?` for one letter, `*` for several, OR and NOT between terms (capitals in the examples), quotation marks for a full name. Capture read again on 2026-11-08.
 - **H9:** Karen Lee, Newspapers.com blog, [5 More Strategies for Searching on Newspapers.com](https://blog.newspapers.com/5-more-strategies-for-searching-on-newspapers-com/), posted 2023-01-20, capture of 2025-08-19; the same wildcards and OR/NOT operators. No minimum wildcard length, case rule or proximity operator appears in the text of H7–H9; a 2015 reader comment under H8, probably by staff, suggests `"A B"~2` for proximity, which the recipe does not adopt.
 - **H10:** Newspapers.com, a public clipping page ([example](https://www.newspapers.com/article/the-los-angeles-times-one-giant-leap-fo/56035546/)), capture of 2026-02-14; observed interface, not a help page: a "Show Article Text (OCR)" control under the clipping and the clipper's member name. Capture read again on 2026-11-08.
-- **H11:** Newspapers.com, [Plans](https://www.newspapers.com/plans/), capture of 2026-10-23; Publisher Extra adds papers still under copyright, "typically 1931 and newer", which Basic does not include.
+- **H11:** Newspapers.com, [Plans](https://www.newspapers.com/plans/), capture of 2026-10-23; Publisher Extra adds papers still under copyright, "typically 1931 and newer", which Basic does not include. Rechecked 2026-11-12 on the live page, which shows the Publisher Extra plan with the same wording.
 - **H12:** Ancestry, [All Access Membership offer](https://www.ancestry.com/c/offers/all-access-subscription), captures of 2025-11-10 and 2026-04-14, naming Newspapers.com Publisher Extra; Ancestry's [All Access education page](https://www.ancestry.com/c/allaccesseducation), capture of 2024-07-17, named Newspapers.com Basic.
 - **H13:** Jenny Ashcraft, Newspapers.com blog, [Celebrating 50 States on the Newspapers.com Stories & Events Indexes](https://blog.newspapers.com/celebrating-50-states-on-the-newspapers-com-stories-events-indexes/), posted 2023-12-12, capture of 2024-05-28; staff replies of 2023-12-18 and 2023-12-19 locate the obituary and marriage indexes in the Categories drop-down under the Keyword box. Capture read again on 2026-11-08.
 - **H14:** Jenny Ashcraft, Newspapers.com blog, [Search the Largest Archive of Historical Newspaper Birth Announcements](https://blog.newspapers.com/search-the-largest-archive-of-historical-newspaper-birth-announcements/), posted 2024-05-20, capture of 2025-09-12; a staff reply of 2024-06-03 adds birth announcements to the same Categories control. Capture read again on 2026-11-08.
+- **H15:** Jenny Ashcraft, Newspapers.com blog, [Unlocking the Archive: What Newspapers.com’s Full Site Re-OCR Means for Your Research](https://blog.newspapers.com/unlocking-the-archive-what-newspapers-coms-full-site-re-ocr-means-for-your-research/), posted 2026-11-09, read 2026-11-12 on the live page; its screenshot of a clipping page shows the clipping's OCR text under the clipping, beside the clipper's member name. The post also reports a completed re-OCR of the whole site.
 - **S54:** Knox County Public Library, [Newspapers.com Library Edition](https://knoxcountylibrary.org/resources/newspaperscom-library-edition), undated, opened 2026-11-06; secondary: clips are public by default and show the account name, and selecting part of a page to save or download "might" create a public clipping.
 
 ### Period-law sources
@@ -97,6 +98,34 @@ Internet Archive capture named:
 - **S56:** [Historical Newspapers of South Carolina, issue of 23 September 1840, page 3 (OCR)](https://historicnewspapers.sc.edu/lccn/sn85042795/1840-09-23/ed-1/seq-3/ocr), read 2026-11-08. Used for: the Cheraw equity notice naming defendants living outside the state, with caption and kind of suit.
 - **S57:** [Historical Newspapers of South Carolina, issue of 13 January 1841, page 4 (OCR)](https://historicnewspapers.sc.edu/lccn/sn85042795/1841-01-13/ed-1/seq-4/ocr), read 2026-11-08. Used for: clean reading of the twice-a-month, three-month publication formula in another Cheraw commissioner's notice.
 - **S58:** [Hurt v. Hurt, 27 S.C. Eq. 114 (S.C. Ct. App. 1853)](https://hallapproved.com/sc/cases/appeals/1853/7467402/), read 2026-11-08. Used for: three months' newspaper publication standing in place of service.
+
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: S10, the Ancestry Newspapers.com Collections FAQ, edited 2026-08-04, was
+read in a browser through the Help Center article API. It now says that All Access includes
+Publisher Extra and tells a member who sees indexed records but not the images to move from All
+Access with Basic to Publisher Extra; its OCR note and its route to the obituary and marriage
+indexes on Ancestry still hold. H1, updated 2026-04-01, and H4, H5, H7 and H11 were read on the
+live Library of Congress and Newspapers.com pages; H6, H8, H9, H13 and H14 on the live
+Newspapers.com blog, where the comments cited from H8, H13 and H14 remain; S54 on the live
+library page. Each still supports the recipe's statements: clippings public by default, the
+Clipping Settings page and Edit, the member name on clippings, the search syntax, highlighted
+thumbnails, the Categories indexes, the directory and Chronicling America migration, and
+Publisher Extra's papers "typically 1931 and newer". The plans page as served lists only the
+Publisher Extra plan.
+
+Not readable on 2026-11-12: S9 and the H12 education page, on Ancestry, returned an error page;
+the H12 offer page redirected to a geo-located sign-up page that does not name Newspapers.com.
+H2 (Library of Congress) and H10 (a Newspapers.com clipping page) returned HTTP 403 to the browser
+and to a plain request. S9's search-syntax statements also rest on H7–H9, read that day. H2 supports
+holding-and-format procedures, and H1 confirms the directory's role in showing how to access a
+title. H10's observed OCR-text control was checked against H15, a Newspapers.com blog post of
+2026-11-09 read that day, whose clipping-page screenshot shows the OCR text under the clipping.
+
+Changes: the Publisher Extra result label now cites H11 and S10 with that day's date instead of H11
+and H12, and states what the FAQ says in place of the unreadable offer pages; the table's OCR row
+adds H15. The videos and the practitioner, forum, encyclopedia, case-law and newspaper-page
+sources support methods, history and examples and were not re-read.
 
 ## Credits
 

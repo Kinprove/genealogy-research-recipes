@@ -52,8 +52,9 @@ LIMITED_CLAIMS = (
         r"Y2S38-s3tSc.*private when checked on 2026-10-22.*does not verify the parent-link types.*\[S47\]",
     )),
     ("23andme-match-research", "Request raw data early", (
-        r"summary.*days.*full article was unavailable.*timing and delivery details remain unconfirmed.*\[O8\]",
+        r"usually after about one week but sometimes up to thirty days \[O8 @2026-11-12\]",
         r"retain the request confirmation as preservation checks",
+        r"Read the current delivery instructions before promising a download time",
     )),
     ("japanese-koseki-honseki-recovery", "**Map certificates", (
         r"indexed.*fee table.*500 yen.*470 yen.*440 yen",

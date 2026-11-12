@@ -80,10 +80,10 @@ their numeric presets):
 GEDmatch-hosted documentation and tutorials, retrieved 2026-10-04. Retrieval confirms the public
 page's contents; it does not verify the signed-in interface or current access level:
 
-- **H1:** GEDmatch, [How to upload DNA data](https://www.gedmatch.com/blog/how-to-upload-dna-data-from-23andme-ancestry-and-other-testing-companies/).
+- **H1:** GEDmatch, [How to upload DNA data](https://www.gedmatch.com/blog/how-to-upload-dna-data-from-23andme-ancestry-and-other-testing-companies/). Posted 2025-02-13; Rechecked 2026-11-12. Its tool table lists Matching Segment Search, Triangulation and Multiple Kit Analysis among the paid tools; its prices are not adopted.
 - **H2:** GEDmatch, [One-to-One Autosomal DNA Comparison](https://www.gedmatch.com/applications/one-to-one-autosomal-dna-comparison/). Opened 2026-11-08.
 - **H3:** GEDmatch, [One-to-Many](https://www.gedmatch.com/applications/one-to-many/). Opened 2026-11-08.
-- **H4:** GEDmatch / Andy Lee, [How to triangulate your matches](https://www.gedmatch.com/education/how-to-triangulate-your-matches/).
+- **H4:** GEDmatch / Andy Lee, [How to triangulate your matches](https://www.gedmatch.com/education/how-to-triangulate-your-matches/). Rechecked 2026-11-12; the page carries the transcription of its video, which opens Triangulation from the Tier 1 tools rather than the free DNA applications.
 - **H5:** GEDmatch / Andy Lee, [Searching for segments on GEDmatch](https://www.gedmatch.com/education/searching-for-segments-on-gedmatch/).
 - **H6:** GEDmatch / Andy Lee, [DNA comparison matrices in Multiple Kit Analysis](https://www.gedmatch.com/education/an-overview-of-dna-comparison-matrices-in-multiple-kit-analysis/). Opened 2026-11-08; the page carries the full transcription of its video.
 - **H7:** GEDmatch / Andy Lee, [Chromosome and segment tools for Multiple Kit Analysis](https://www.gedmatch.com/education/chromosome-and-segment-tools-for-multiple-kit-analysis/). Opened 2026-11-08; the page carries the full transcription of its video.
@@ -91,7 +91,7 @@ page's contents; it does not verify the signed-in interface or current access le
 
 GEDmatch support articles (undated), retrieved 2026-11-06:
 
-- **H9:** GEDmatch Support, [Tier 1 Subscription: Pricing, Features, Cancellation & Payment Management](https://support.gedmatch.com/portal/en/kb/articles/tier-1-subscription-pricing-features-cancellation-payment-management). Segment Search, the Phasing tool and Lazarus listed among Tier 1 features; tools marked "Tier 1" on the home page require a paid membership; One-to-Many and One-to-One listed as free.
+- **H9:** GEDmatch Support, [Tier 1 Subscription: Pricing, Features, Cancellation & Payment Management](https://support.gedmatch.com/portal/en/kb/articles/tier-1-subscription-pricing-features-cancellation-payment-management). Segment Search, the Phasing tool and Lazarus listed among Tier 1 features; tools marked "Tier 1" on the home page require a paid membership; One-to-Many and One-to-One listed as free. Rechecked 2026-11-12 through the support portal's public article interface, since the page itself is a script application; edited 2026-08-31.
 - **H10:** GEDmatch Support, [How to Use GEDmatch DNA Matching Tools (One-to-Many, One-to-One, Segment Search)](https://support.gedmatch.com/portal/en/kb/articles/how-to-use-gedmatch-dna-matching-tools-one-to-many-one-to-one-segment-search). A kit must finish processing, "typically 24–48 hours after upload", before matching tools are available.
 
 GEDmatch policy page, retrieved 2026-11-07:
@@ -103,6 +103,34 @@ GEDmatch policy page, retrieved 2026-11-07:
 - **S21:** Roberta Estes, DNAeXplained, [What Is a Sibling Anyway? Full, Half, Three-Quarters, Step, Adopted, Donor-Conceived & Twins](https://dna-explained.com/2023/04/26/what-is-a-sibling-anyway-full-half-three-quarters-step-adopted-donor-conceived-twins/), published 2023-04-26, read 2026-11-12. Used for: fully identical regions can be seen at 23andMe and GEDmatch but not at FamilyTreeDNA, MyHeritage or Ancestry; large green areas in GEDmatch graphics in full siblings; scattered very small green spots in half siblings.
 - **S22:** Mercedes Brons, Who Are You Made Of?, [How Do Half-Siblings Show Up On Gedmatch?](https://whoareyoumadeof.com/blog/how-do-half-siblings-show-up-on-gedmatch/), last updated 2021-07-02, read 2026-11-12. Used for: green bars as DNA identical on both chromosome copies, yellow as identical on one copy, long green bars between full siblings, and no large fully identical segments between half siblings. GEDmatch's own tool help, read the same day, does not define the colours.
 - **S23:** Leah Larkin, The DNA Geek, [AncestryDNA Is Using FIRs to Distinguish Full and Half Siblings](https://thednageek.com/ancestrydna-is-using-firs-to-distinguish-full-and-half-siblings/), published 2019-02-07, read 2026-11-12. Used for: fully identical regions could then be seen only at 23andMe and GEDmatch.
+
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: the GEDmatch pages behind the recipe's current-state statements were re-read
+in a fetch made that day. H1, the upload guide posted 2025-02-13, holds: it still gives vendor
+download steps, processing within 24–48 hours, and a table of free and paid tools that puts
+Matching Segment Search, Triangulation and Multiple Kit Analysis among the paid ones. H2 holds for
+the position-only view and default or chosen thresholds. H3 holds for the total, largest-segment
+and overlap columns; its remark that a higher overlap usually means a closer relationship is not
+adopted. H4 holds for the triangulation controls (close-match count, upper threshold, minimum
+segment, chromosome and cross-matching) and opens Triangulation from the Tier 1 tools. H5 holds for
+the match cap, display build, thresholds, partial-window results and CSV download, and calls
+Segment Search part of the paid subscription. H6 and H7 hold for the Multiple Kit Analysis
+matrices, the first-kit and all-pairs views and the group-limited Segment Search, and both call
+Multiple Kit Analysis a Tier 1 tool. H8 holds for the Lazarus groups, the trial run, results that
+cannot be reopened and the downloadable input file. H9 and H10 came back empty as pages because the
+support portal is a script application; both were read through the portal's public article
+interface. H9, edited 2026-08-31, holds: Segment Search, the Phasing tool and Lazarus are Tier 1
+features, home-page tools marked "Tier 1" need a paid membership, and One-to-Many and One-to-One are
+free. H10, edited 2026-08-31, holds for processing "typically 24–48 hours after upload" and calls
+Segment Search a Tier 1 tool. H11 holds: the general privacy-policy address still leads to the
+version of 21 October 2025, which describes choosing a privacy option at upload and the separate
+GEDmatch PRO portal. S2 was re-read as the only support for the tool that lists people who match
+both of two kits, and still describes it. S21–S23 were read on this date for the identity-state
+paragraph. Videos, forum threads and other practitioner posts support methods and examples and were
+not re-read. The recipe now names the paid tier for Matching Segment Search, Triangulation and
+Multiple Kit Analysis from H1 and H4, keeps the home-page check as confirmation, and cites H9, H1
+and H4 with this date.
 
 ## Credits
 

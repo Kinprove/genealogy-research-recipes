@@ -210,7 +210,7 @@ live control.
   *Core guardrail:* Prefer the current card's link over a constructed URL. A constructed route is a
   retrieval lead until its response is verified as the intended PDF; redirects, error HTML or an
   access failure leave acquisition unresolved.
-  *Dated source check:* 2026-10-18.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/dna-comparison-controls.md`** — DNA comparison controls across services.
   Reconcile conflicting vendor or native results using exact tests, query controls, local marker
@@ -338,7 +338,7 @@ live control.
   duplicate sources, destination checks or resuming a bounded synchronization batch.
   *Core guardrail:* Choose the destination and operation for each object, then inspect the saved
   result.
-  *Dated source check:* 2026-10-07.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/wikitree-dna-tester-links.md`** — WikiTree: Link DNA Tests to the Correct Tester and External Kit.
   Register a DNA test on the actual tester's WikiTree profile and verify its FamilyTreeDNA or
@@ -347,7 +347,7 @@ live control.
   Connections or pedigree leads needing documentary follow-up.
   *Core guardrail:* Do not mark a relationship DNA-confirmed solely because a tester appears in a
   list or because the external tree link works.
-  *Dated source check:* 2026-10-07.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/usa-immigration-search-recovery.md`** — Recover U.S. immigration and naturalization records.
   Twelve historical U.S. immigration workflows: reconstruct journeys, test port, airport and border
@@ -369,7 +369,7 @@ live control.
   Search, Source Linker cleanup, profile repair and Source Box reuse.
   *Core guardrail:* Confirm candidates from the image and context. A name appearing in text does not
   establish the candidate's identity.
-  *Dated source check:* 2026-10-04.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/russian-empire-emigrant-origin-recovery.md`** — Recovering a Russian Empire emigrant's origin locality.
   Five workflows for tracing an emigrant from destination records to an exact historical locality:
@@ -400,7 +400,7 @@ live control.
   private workspaces, merge requests, unmerge requests, GEDCOM imports and tree reports.
   *Core guardrail:* Distinguish tree assertions, source-supported statements, pending requests and
   completed changes. Draft any manager or curator request for my review; do not send it.
-  *Dated source check:* 2026-11-06.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/ancestry-dna-match-investigation.md`** — AncestryDNA: eight practical ways to investigate matches.
   Eight practical AncestryDNA workflows: use a target's closest relatives, build branch anchor
@@ -410,7 +410,7 @@ live control.
   linked trees, ThruLines, access-dependent gaps or connecting a match to another testing site.
   *Core guardrail:* Keep three columns: observed cM, dated label with its origin, and sourced
   pedigree path.
-  *Dated source check:* 2026-10-03.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/myheritage-dna-match-investigation.md`** — MyHeritage DNA match investigation playbook.
   Nine practical MyHeritage DNA workflows: select the right kit, preserve theories before
@@ -421,7 +421,7 @@ live control.
   labels/favorites, Shared DNA Matches, Theory of Family Relativity or an investigation follow-up.
   *Core guardrail:* Save empty results with their actual query, kit, filters and date. Do not fill
   an unshown DNA measurement with zero or infer that a person outside the list has no shared DNA.
-  *Dated source check:* 2026-10-03.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/unknown-parentage-wato.md`** — Work an unknown-parentage case with DNA matches and WATO.
   Placing an unknown person (an unknown parent, an adoptee's bio-parent, an unplaced ancestor) into
@@ -526,7 +526,7 @@ live control.
   conflicting ages or delayed registration; a missing marriage record, unknown maiden name or
   daughter who disappears under a married surname.
   *Core guardrail:* Do not convert a phonetic, household or age match into a relationship.
-  *Dated source check:* 2026-10-01.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/beider-given-name-variants.md`** — Ashkenazi given-name variants from Beider's indexes.
   Expanding documentary searches with recorded Ashkenazi given-name forms from the male and female
@@ -544,7 +544,7 @@ live control.
   *Core guardrail:* Preserve the sparse baseline before tightening it. If a tighter query fails,
   relax one condition at a time and record the reason; changing everything together conceals what
   excluded the record.
-  *Dated source check:* 2026-10-03.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/newspapers-com-search-recovery.md`** — Newspapers.com: Recover Notices That Name Searches Miss.
   Recovering newspaper notices when issue coverage, printed names or OCR hide an ancestor on
@@ -557,7 +557,7 @@ live control.
   *Core guardrail:* A surname can occur in one item and a travel verb in another on the same page.
   Confirm the subject and event within the actual item before assigning that event to the searched
   person.
-  *Dated source check:* 2026-10-03.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/hebrewbooks-search-recovery.md`** — Recovering HebrewBooks search misses.
   Recover HebrewBooks names or passages missed by OCR, catalogue spelling or a query that never
@@ -567,7 +567,7 @@ live control.
   page numbers.
   *Core guardrail:* An access error, an unsubmitted query and a completed search with zero hits are
   different observations. Record the surface and the observation before interpreting it.
-  *Dated source check:* 2026-11-07.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/ancestry-record-search-recovery.md`** — Ancestry record-search recovery.
   Recovering archival records missed by an Ancestry search. Diagnose scope and coverage before
@@ -578,7 +578,7 @@ live control.
   versus image numbers, enumeration-district browsing, or index-only records.
   *Core guardrail:* Keep three observations separate: no indexed candidate; no matching images in
   the available inventory; and documented absence in the original surviving records.
-  *Dated source check:* 2026-10-20.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/23andme-match-research.md`** — Working with 23andMe DNA: matches, matrices, segments, and preservation.
   Twelve practical workflows for 23andMe match research, permitted comparisons, numerical matrices
@@ -589,7 +589,7 @@ live control.
   *Core guardrail:* The expensive mistake is assuming that every visible DNA Relative can be
   compared in every position, every percentage is autosomal-only, and every Download button returns
   the same kind of evidence.
-  *Dated source check:* 2026-10-03.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/ftdna-practical-dna-workflows.md`** — Maintaining FamilyTreeDNA exports and tree links.
   Eight FTDNA workflows for Matrix observations, paired match/segment exports, duplicate-name joins,
@@ -602,7 +602,7 @@ live control.
   Linked Relationship are values observed at download. Record link changes separately from the
   retrieval date, keep the export choice and kit with the rows, and refresh match metadata after
   relinking.
-  *Dated source check:* 2026-10-03.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/dnapainter-practical-dna-workflows.md`** — Practical DNA Painter maps, matrices and tree worklists.
   Ten practical DNA Painter workflows: paint measured matches, copy or merge maps of one tester,
@@ -616,7 +616,7 @@ live control.
   *Core guardrail:* A copied segment belongs to its original comparison; an intersection is
   coordinate geometry; an inferred interval is a deduction; the Coverage Estimator is a
   pedigree-based estimate. Keep those outputs distinguishable.
-  *Dated source check:* 2026-10-04.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/gedmatch-practical-dna-workflows.md`** — Working reproducibly with GEDmatch.
   Eight GEDmatch workflows: establish kit/run baselines, follow shortlist entries into direct
@@ -627,7 +627,7 @@ live control.
   *Core guardrail:* A match-list row, a pairwise segment, a shared-match list, a triangulation
   result and a generated kit answer different questions. Keep their tool, inputs and settings
   attached to every result.
-  *Dated source check:* 2026-10-04.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/source-citation.md`** — Source citation record.
   Preserve a retrievable source record and connect each citation to the evidence it supports.

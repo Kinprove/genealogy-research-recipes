@@ -5,7 +5,7 @@
 - [AncestryDNA Matches](https://help.ancestry.com/hc/en-us/articles/53933322347411-AncestryDNA-Matches)
 - [AncestryDNA Shared Matches](https://help.ancestry.com/hc/en-us/articles/53933322204563-AncestryDNA-Shared-Matches)
 - [Science of Matches by Cluster](https://help.ancestry.com/hc/en-us/articles/53933314901395-Science-of-Matches-by-Cluster)
-- [Custom Match Clusters](https://help.ancestry.com/hc/en-us/articles/53933279761939-Custom-Match-Clusters)
+- [Custom Match Clusters](https://help.ancestry.com/hc/en-us/articles/53933279761939-Custom-Match-Clusters) Rechecked 2026-11-12; edited 2026-07-30.
 - [Searching AncestryDNA Matches](https://help.ancestry.com/hc/en-us/articles/53933302067219-Searching-AncestryDNA-Matches)
 - [Grouping and Filtering AncestryDNA Matches](https://help.ancestry.com/hc/en-us/articles/53933279950611-Grouping-and-Filtering-AncestryDNA-Matches)
 - [AncestryDNA Match Notes](https://help.ancestry.com/hc/en-us/articles/53933270566163-AncestryDNA-Match-Notes)
@@ -13,7 +13,7 @@
 - [How SideView Technology Splits Your DNA Results by Parent](https://help.ancestry.com/hc/en-us/articles/53933332296723-How-SideView-Technology-Splits-Your-DNA-Results-by-Parent)
 - [Chromosome Painter](https://help.ancestry.com/hc/en-us/articles/53933269863699-Chromosome-Painter)
 - [Downloading DNA Data](https://help.ancestry.com/hc/en-us/articles/53933317283603-Downloading-DNA-Data)
-- [Understanding Unweighted Shared DNA](https://help.ancestry.com/hc/en-us/articles/53933314136083-Understanding-Unweighted-Shared-DNA)
+- [Understanding Unweighted Shared DNA](https://help.ancestry.com/hc/en-us/articles/53933314136083-Understanding-Unweighted-Shared-DNA) Rechecked 2026-11-12; edited 2026-07-30.
 
 ### Tree access and tester identity (checked 2026-10-20)
 
@@ -63,7 +63,7 @@ the historical control sequence and example probabilities are not carried forwar
 - GeneaVlogger. "How Does Ancestry's New DNA Cluster Tool Work?" YouTube, 2025-07-23. [Video](https://www.youtube.com/watch?v=jzcjI59F6YI) (method 2; SideView side errors in clusters). It does not measure current SideView accuracy, and clusters remain leads, not proof of a common couple.
 - Larkin, Leah. "AncestryDNA Updates Their Relationship Predictions." The DNA Geek, 2026-07-24. [Article](https://thednageek.com/ancestrydna-updates-their-relationship-predictions/) (method 6)
 - Larkin, Leah. "Working with WATO: Centimorgan Adjustments." The DNA Geek, 2021-06-05; updated 2022-03-29. [Article](https://thednageek.com/working-with-wato-centimorgan-adjustments/) (method 8; independent check of company-specific totals)
-- Leeds, Dana. "The Order of AncestryDNA's Colored Dots." 2023-03-27. [Article](https://www.danaleeds.com/the-order-of-ancestrydnas-colored-dots/) (method 4)
+- Leeds, Dana. "The Order of AncestryDNA's Colored Dots." 2023-03-27. [Article](https://www.danaleeds.com/the-order-of-ancestrydnas-colored-dots/) (method 4) Rechecked 2026-11-12; a reader's comment of 2024-12-06 on the post reports the dots in the order the groups were created, whatever their color.
 - Southard, Diahan / Your DNA Guide. "AncestryDNA ThruLines." 2020-04-10. [Video](https://www.youtube.com/watch?v=em_dMWtbJ-s) (method 5; the video's child-path count example and one-generation-higher comparison). The per-match path register, dependent-tester checks and retained unknowns are synthesis. Historical counts are not adopted as subtraction, probability or parentage proof; the recipe's per-child path review is a worklist, not a subtraction rule or a probability; current interface behavior remains unverified.
 
 - Estes, Roberta. "How to Use Ancestry's New Match Clusters and What They Mean." DNAeXplained, 2025-07-10. [Article](https://dna-explained.com/2025/07/10/how-to-use-ancestrys-new-match-clusters-and-what-they-mean/) (method 7). The dated example describes grid/dropdown differences, multiple associations and checking saved tags. Separate observation records, unresolved discrepancies and unavailable-view states are Kinprove synthesis; current limits, current behavior and ancestral attribution are not established, and neither the grid nor the dropdown is treated as authoritative. Cross-group cells and tags do not establish segment triangulation.
@@ -115,6 +115,38 @@ live Ancestry account was used.
 - **S9:** Randy Seaver, Genea-Musings, [My AncestryDNA Clusters Are Limited At This Time](https://www.geneamusings.com/2025/07/my-ancestrydna-clusters-are-limited-at.html), published 2025-07-12, read 2026-11-12. Used for: its quotation of Ancestry's 1 July 2025 announcement that the grid is not shown above 100 clustered matches.
 - **S10:** Roberta Estes, DNAeXplained, [How to Use Ancestry's New Match Clusters and What They Mean](https://dna-explained.com/2025/07/10/how-to-use-ancestrys-new-match-clusters-and-what-they-mean/), published 2025-07-10, read 2026-11-12. The same post as the 2025 example above, numbered here for these additions. Used for: the chart-view message, the Maternal and Paternal views, and matches in both grandparents' clusters.
 - **S11:** Dana Leeds, [DNA Color Clustering: The Leeds Method for Easily Visualizing Matches](https://www.danaleeds.com/dna-color-clustering-the-leeds-method-for-easily-visualizing-matches/), published 2018-08-23, read 2026-11-12. Used for: cluster overlap from pedigree collapse, and a match sharing two grandparents merging clusters (the author's comment of 2018-08-28).
+
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: Ancestry's help articles B1–B15, B17 and B18 were read on 2026-11-12 in a
+browser through the Help Center API. B10 was last edited 2026-10-02 and the others 2026-07-30. All
+hold for the recipe's statements. B2 still limits shared matches to three without a membership,
+gives the full list with a family history membership, and gives enhanced shared matches with Pro
+Tools on the website only, in the United States, Canada, Australia and the United Kingdom; it
+gives no cM floor for the shared-match list, only that it covers 4th cousins and closer. B3 still
+describes standard clusters of 65–1,300 cM without close relatives, links under 20 cM or
+unassigned matches. B4 gives the same custom-cluster ranges as S1 (90–340, 40–120 and 20–60 cM),
+a 20 cM low end, up to four sidekicks that are shared matches of the primary, and no need to add
+sidekicks already in the range. B5 still allows surname and birth-location searches without a
+membership. B6 still allows a match in several groups; it says nothing about the order of group
+icons and says an icon shows the first letter or emoji of the group's name. B7 still gives
+500-character notes, seen by the owner and invitees and edited by collaborators, managers and the
+owner. B8 still gives the ThruLines requirements, the four-generation tree,
+fifth-great-grandparents, up to 48 hours, matches without a linked searchable tree left out, and
+side filters from the tree's parent labels. B9 and B18 still describe the anonymous Parent 1 and
+Parent 2 split, automatic maternal and paternal labels when a parent has tested, and a user-made
+indication on manual labels. B10 still shows regions, not match segments; B11 still gives a zipped
+text file and accepts no outside uploads. B12 gives no cM threshold for Timber, so the 90 cM point
+still rests on S5 and S6. B13, B14, B15 and B17 still support the tree-access, DNA-link,
+home-person and assigned-relationship statements. The recipe's two sentences saying that
+Ancestry's pages could not be read, from the earlier attempt that day, now cite B4 for the
+same ranges and 20 cM low end, and B12 for giving no threshold. The videos B16 and B19 were not
+re-read. Of the community sources that alone support a current-state
+statement, B30 (the 20 cM shared-match floor) and B44 (about 650–2,200 cM) still say so, and
+that day's fetch of S1–S11 still carries the passages read earlier that day. B46 still describes
+palette order, but a reader's comment of 2024-12-06 on the same page reports the dots in the order
+the groups were created; method 4 now reports that comment and asks the reader to check their own
+list. No source was unreadable and no live account was used.
 
 ## Credits
 

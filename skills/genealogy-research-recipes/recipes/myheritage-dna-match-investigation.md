@@ -8,8 +8,8 @@ privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "MYHERITAGE-DNA-MATCH-INVESTIGATION-01", "text": "Save empty results with their actual query, kit, filters and date. Do not fill an unshown DNA measurement with zero or infer that a person outside the list has no shared DNA."}]
 handoff: ["ai-for-dna-research"]
-checked: "2026-10-03"
-checked_basis: "checked 2026-10-03"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish"], "contact": ["contact"]}
 router: {"tier": "full", "group": "Featured workflows", "order": 24}
 ---

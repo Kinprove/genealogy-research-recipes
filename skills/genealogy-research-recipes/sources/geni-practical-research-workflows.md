@@ -24,9 +24,9 @@ guidance; H9–H10 describe private projects separately.
 - **H10:** Geni Help, [Private projects](https://help.geni.com/hc/en-us/articles/39349596841111-What-is-a-Private-Project), published 2026-03-27. Documentation read 2026-11-07.
 - **H11:** Geni Help, [Merge This Profile](https://help.geni.com/hc/en-us/articles/4408886222999-How-do-I-use-Merge-This-Profile). Documentation read 2026-11-07.
 - **H12:** Geni Help, [Data conflicts](https://help.geni.com/hc/en-us/articles/229705487-What-are-data-conflicts-and-how-do-I-resolve-them). Documentation read 2026-11-07.
-- **H13:** Geni Help, [Tree conflicts](https://help.geni.com/hc/en-us/articles/43688137216791-What-are-tree-conflicts-and-how-do-I-resolve-them), published 2026-09-22. Documentation read 2026-11-07.
-- **H14:** Geni Help, [Revisions on a merged profile](https://help.geni.com/hc/en-us/articles/360048955793-How-can-I-view-revisions-on-a-merged-profile). Documentation read 2026-11-07.
-- **H15:** Geni Help, [Undo a merge](https://help.geni.com/hc/en-us/articles/360030652374-How-do-I-undo-a-merge). Documentation read 2026-11-07.
+- **H13:** Geni Help, [Tree conflicts](https://help.geni.com/hc/en-us/articles/43688137216791-What-are-tree-conflicts-and-how-do-I-resolve-them), published 2026-09-22. Documentation read 2026-11-07. Rechecked 2026-11-12; edited 2026-09-22.
+- **H14:** Geni Help, [Revisions on a merged profile](https://help.geni.com/hc/en-us/articles/360048955793-How-can-I-view-revisions-on-a-merged-profile). Documentation read 2026-11-07. Rechecked 2026-11-12; edited 2020-05-21.
+- **H15:** Geni Help, [Undo a merge](https://help.geni.com/hc/en-us/articles/360030652374-How-do-I-undo-a-merge). Documentation read 2026-11-07. Rechecked 2026-11-12; edited 2025-10-29.
 - **H16:** Geni, [GEDCOM import and export](https://www.geni.com/gedcom). Documentation read 2026-11-07.
 - **H17:** Geni Help, [Ancestor/Descendant reports](https://help.geni.com/hc/en-us/articles/360055684513-How-do-I-view-Ancestor-Descendant-reports). Documentation read 2026-11-07.
 - **H18:** Geni Help, [Export a GEDCOM](https://help.geni.com/hc/en-us/articles/229705167-How-can-I-export-my-GEDCOM); includes focus eligibility, export groups, language and privacy options. Documentation read 2026-11-07.
@@ -35,12 +35,26 @@ Merge permissions and locked fields. The live Geni help center refused automated
 2026-11-06, so each page was read that day from the Internet Archive capture named; these are the
 latest captures found, from 2023.
 
-- **H19:** Geni Help, [Who are Collaborators?](https://help.geni.com/hc/en-us/articles/229705467-Who-are-Collaborators-), capture of 2023-09-29; collaborators can view, edit and merge each other's public profiles, gain nothing on private profiles, and merging has been free for everyone since November 2012.
-- **H20:** Geni Help, [What is the difference between approving a match vs. requesting a merge?](https://help.geni.com/hc/en-us/articles/229705567-What-is-the-difference-between-approving-a-match-vs-requesting-a-merge-), capture of 2023-05-30; each other manager must accept the merge, permission comes from managing a profile or from a Family Group member managing it, and a merge involving a claimed profile can never be completed by you.
-- **H21:** Geni Help, [What is a Merge Request?](https://help.geni.com/hc/en-us/articles/229705447-What-is-a-Merge-Request-), capture of 2023-05-30; the Merge Center lists pending merges, which can be viewed, completed or undone there.
-- **H22:** Geni Help, [What permissions do Curators have in my tree?](https://help.geni.com/hc/en-us/articles/229706807-What-permissions-do-Curators-have-in-my-tree-), capture of 2023-11-29; curators approve merges and designate Master Profiles, optionally locking fields from being edited.
+- **H19:** Geni Help, [Who are Collaborators?](https://help.geni.com/hc/en-us/articles/229705467-Who-are-Collaborators-), capture of 2023-09-29; collaborators can view, edit and merge each other's public profiles, gain nothing on private profiles, and merging has been free for everyone since November 2012. Rechecked 2026-11-12 on the live page; edited 2023-10-27.
+- **H20:** Geni Help, [What is the difference between approving a match vs. requesting a merge?](https://help.geni.com/hc/en-us/articles/229705567-What-is-the-difference-between-approving-a-match-vs-requesting-a-merge-), capture of 2023-05-30; each other manager must accept the merge, permission comes from managing a profile or from a Family Group member managing it, and a merge involving a claimed profile can never be completed by you. Rechecked 2026-11-12 on the live page; edited 2026-08-04.
+- **H21:** Geni Help, [What is a Merge Request?](https://help.geni.com/hc/en-us/articles/229705447-What-is-a-Merge-Request-), capture of 2023-05-30; the Merge Center lists pending merges, which can be viewed, completed or undone there. Rechecked 2026-11-12 on the live page; edited 2026-08-04, it now names the Match Center for these pending merges.
+- **H22:** Geni Help, [What permissions do Curators have in my tree?](https://help.geni.com/hc/en-us/articles/229706807-What-permissions-do-Curators-have-in-my-tree-), capture of 2023-11-29; curators approve merges and designate Master Profiles, optionally locking fields from being edited. Rechecked 2026-11-12 on the live page; edited 2022-03-07.
 - **H23:** Geni Help, [What is a Master Profile?](https://help.geni.com/hc/en-us/articles/229704047-What-is-a-Master-Profile-), capture of 2023-09-29; curators may lock individual fields of a Master Profile or the whole profile, and a user who wants to edit a locked field contacts that profile's curator. No page found says what a merge does to a locked field, so the recipe states no outcome.
-- **H24:** Geni blog, [New Feature: Merge Center](https://www.geni.com/blog/?p=841), 2010-08-19, opened 2026-11-06; a merge completes immediately when you have permission on both profiles, otherwise it becomes a request to the managers, and an accepted collaboration lets you complete merges on the collaborator's public profiles.
+- **H24:** Geni blog, [New Feature: Merge Center](https://www.geni.com/blog/?p=841), 2010-08-19, opened 2026-11-06; a merge completes immediately when you have permission on both profiles, otherwise it becomes a request to the managers, and an accepted collaboration lets you complete merges on the collaborator's public profiles. Rechecked 2026-11-12 after the link redirected to the post's current blog address.
+
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: H1, H7 and H16 were read directly on the live Geni site (H1 was posted
+2026-08-26); the Help Center articles H2–H6, H8–H15 and H17–H23 were read through the public Help
+Center article API. Last edits shown: H2 2015-07-09, H3 and H4 2019-06-29, H5 2020-05-19, H6
+2023-05-31, H8 2020-02-06, H9 and H10 2026-03-27, H11 2021-09-17, H12 2026-08-04, H13 2026-09-22,
+H14 2020-05-21, H15 2025-10-29, H17 2020-09-21, H18 2022-03-07, H19 2023-10-27, H20 2026-08-04,
+H21 2026-08-04, H22 and H23 2022-03-07. H19–H23 were therefore read on the live pages rather than
+the 2023 captures. H24 redirected to the post's current blog address and was read there. Every
+statement the recipe rests on these pages still holds except one: H21, edited 2026-08-04, now
+sends readers to the Match Center to view, complete or undo pending merges, so workflows 5 and 6
+now say Match Center where they said Merge Center. The videos S1–S4 support methods and were not
+re-read. All pages were readable.
 
 ## Credits
 

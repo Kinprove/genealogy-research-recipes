@@ -8,8 +8,8 @@ privacy: "none"
 gates: []
 guardrails: [{"id": "ANCESTRY-RECORD-SEARCH-RECOVERY-01", "text": "Keep three observations separate: no indexed candidate; no matching images in the available inventory; and documented absence in the original surviving records."}]
 handoff: ["ai-for-documentary-records", "dna-match-outreach-staging", "evidence-proof-judgment"]
-checked: "2026-10-20"
-checked_basis: "checked 2026-10-20"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["ancestry"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 37}
 ---

@@ -8,8 +8,8 @@ privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "WIKITREE-DNA-TESTER-LINKS-01", "text": "Do not mark a relationship DNA-confirmed solely because a tester appears in a list or because the external tree link works."}]
 handoff: ["ai-for-dna-research"]
-checked: "2026-10-07"
-checked_basis: "checked 2026-10-07"
+checked: "2026-11-12"
+checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["wikitree", "familytreedna"], "local_script": [], "extensions": [], "data_transfer": ["link"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 17}
 ---

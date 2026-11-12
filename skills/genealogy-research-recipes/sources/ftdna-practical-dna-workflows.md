@@ -13,6 +13,7 @@
   Its historical automatic-relinking description is superseded by H3's confirmation procedure.
 - **S5:** Roberta Estes, *Connect Your DNA Test, and Others, to Your Tree*, DNAeXplained,
   2022-09-21 — [post](https://dna-explained.com/2022/09/21/connect-your-dna-test-and-others-to-your-tree/).
+  Rechecked 2026-11-12.
 
 Current primary documentation, checked 2026-10-03:
 
@@ -20,6 +21,7 @@ Current primary documentation, checked 2026-10-03:
 - **H2:** No entry; this number is not cited by the recipe.
 - **H3:** FamilyTreeDNA Help, [Linking Matches On Your MyHeritage Family Tree](https://help.familytreedna.com/hc/en-us/articles/9707263959311).
 - **H4:** FamilyTreeDNA Help, [Family Matching Overview](https://help.familytreedna.com/hc/en-us/articles/4413996181391-Family-Matching-Overview).
+  Rechecked 2026-11-12; edited 2026-10-13.
 - **H5:** No entry; this number is not cited by the recipe.
 - **H6:** FamilyTreeDNA Help, [Chromosome Browser Introduction](https://help.familytreedna.com/hc/en-us/articles/360004591836-Chromosome-Browser-Introduction).
 - **H7:** FamilyTreeDNA Help, [Family Finder Matches Guide](https://help.familytreedna.com/hc/en-us/articles/360004591696-Family-Finder-Matches-Guide).
@@ -126,7 +128,7 @@ Additional dated examples cited inline:
   Americas.
 - **S24:** Roberta Estes, [New Discover Tool – Compare Haplogroups & More at FamilyTreeDNA](https://dna-explained.com/2023/10/11/new-discover-tool-compare-haplogroups-more-at-familytreedna/),
   DNAeXplained, 2023-10-11. Motivates the input/reference crosswalk in workflow 8. It does not
-  establish current controls, colours or access.
+  establish current controls, colours or access. Rechecked 2026-11-12.
 - **S25:** Roberta Estes, [Y-DNA Haplogroup O – When and How Did It Get to the Americas?](https://dna-explained.com/2023/10/18/y-dna-haplogroup-o-when-and-how-did-it-get-to-the-americas/),
   DNAeXplained, 2023-10-18. Supplies the project-to-broader-tree handoff example. Treating modern
   earliest-ancestor places plus node ages as no evidence of a historical ancestor's location,
@@ -139,14 +141,18 @@ Additional Y-haplogroup and Advanced Matches sources:
   marker level, choosing one shared Y level with Family Finder, and comparing the Y haplogroups
   of same-surname Family Finder matches through Discover Compare, with a different major
   haplogroup ruling out the direct paternal line. FamilyTreeDNA documentation does not confirm
-  the every-level behaviour.
+  the every-level behaviour. Rechecked 2026-11-12.
 - **S27:** Katy Rowe-Schurwanz, [Introducing Y-DNA Haplogroups for Family Finder Customers](https://blog.familytreedna.com/y-dna-haplogroups-family-finder/),
   FamilyTreeDNA Blog, 2023-07-31, later updated; checked 2026-11-06. Used for partial
   SNP-based haplogroups from autosomal tests, their display in the match list, and Ancestry and
-  23andMe transfer haplogroups shown only to the tester.
+  23andMe transfer haplogroups shown only to the tester. Rechecked 2026-11-12.
 - **S28:** Roberta Estes, [FamilyTreeDNA Provides Y DNA Haplogroups from Family Finder Autosomal Tests](https://dna-explained.com/2023/11/30/familytreedna-provides-y-dna-haplogroups-from-family-finder-autosomal-tests/),
   DNAeXplained, 2023-11-30. Used for STR-predicted haplogroups being updated to a more refined
-  Family Finder haplogroup.
+  Family Finder haplogroup. Rechecked 2026-11-12.
+- **H12:** FamilyTreeDNA Help, [Family Finder Haplogroups](https://help.familytreedna.com/hc/en-us/articles/14825216536207-Family-Finder-Haplogroups),
+  edited 2026-05-25; Rechecked 2026-11-12. Used for haplogroups shown in the match list and on
+  the profile card only for FamilyTreeDNA and MyHeritage testers, and for MyHeritage transfers
+  completed after October 2025 currently receiving no haplogroup.
 - **H10:** FamilyTreeDNA Help, [Advanced Matches Guide](https://help.familytreedna.com/hc/en-us/articles/4402652972815-Advanced-Matches-Guide),
   checked 2026-11-06. Separate Y-DNA12 to Y-DNA111 selections and the **Show only people I
   match in all selected tests** option.
@@ -183,6 +189,35 @@ Additional project-results search sources:
 - **S44:** Roberta Estes, DNAeXplained, [Mitochondrial DNA: What is a Haplotype Cluster and How Do I Find and Use Mine?](https://dna-explained.com/2025/04/14/mitochondrial-dna-what-is-a-haplotype-cluster-and-how-do-i-find-and-use-mine/), published 2025-04-14, read 2026-11-12. Used for: haplogroup members who are beyond the match threshold do not appear on the matches page.
 - **S45:** Jonny Perl, DNA Painter Blog, [Shared DNA at a glance: the new DNA matrix tool](https://blog.dnapainter.com/blog/shared-dna-at-a-glance-the-new-dna-matrix-tool/), published 2025-05-21, read 2026-11-12. Used for: selecting up to ten matches for the FamilyTreeDNA Matrix. Its copying of the table into another tool is not used.
 - **S46:** Jeremy Balkin, FamilyTreeDNA Blog, [Tested With Another Company? Upload Your Data For Free!](https://blog.familytreedna.com/transfer-your-dna-data-for-free/), published 2019-05-02, read 2026-11-12. Used for: the editor's note that the Autosomal Unlock has been retired, and the features the unlock added: myOrigins, ancientOrigins and the Chromosome Browser.
+
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: the FamilyTreeDNA Help articles were read through the public help-centre
+API. H3 (edited 2025-05-28), H6 (edited 2026-02-06), H7 (edited 2024-09-13), H8 (edited
+2026-05-15), H9 (edited 2025-02-11), H10 (edited 2024-08-20) and H11 (edited 2025-02-25) hold;
+H11, which had returned an access error, was read in full. H4 changed (edited 2026-10-13): it now
+requires the tester set as Home Person before linking and a connected MyHeritage tree for new
+links, lets any linked match related through one parent phase others however close or distant,
+and no longer gives a parent-to-third-cousin range or excludes a linked relative whose shared DNA
+contradicts the stated relationship. The added H12 (edited 2026-05-25) shows haplogroups to
+matches only for FamilyTreeDNA and MyHeritage testers and gives none to MyHeritage transfers
+completed after October 2025. FamilyTreeDNA's Autosomal DNA Transfer FAQ (edited 2026-11-06),
+which the recipe does not cite, was also read. It agrees with the transfer paragraph: a free
+transfer has the matches and the Matrix but no Chromosome Browser, Chromosome Painter, myOrigins
+or ancientOrigins, and the Autosomal Transfer Unlock is retired. It also says that AncestryDNA
+tests processed after September 2025 cannot be transferred and that MyHeritage files uploaded now
+give no Y-DNA haplogroup.
+
+The FamilyTreeDNA Blog posts S6, S9, S12, S27, S32, S34, S35, S37, S38, S39, S41, S43 and S46
+hold. The practitioner posts that are the only support for a current-state statement (S1, S2,
+S4, S5, S23, S24, S26, S28, S30, S31, S33, S36, S40, S42, S44 and S45) hold as dated
+descriptions. The videos S10, S18 and S19, the forum threads S13 to S17 and the dated examples
+S7, S8, S11, S20, S21, S22, S25 and S29 support attributed methods, history or examples and were
+not re-read. The recipe now states H4's current Family Matching requirements and phasing rule,
+uses H4's current conditions in the unchanged-counts check and the workflow 4 stop condition,
+and adds MyHeritage transfers completed after October 2025 to the matches that show no
+haplogroup (H12). H4, S5, S24, S26, S27 and S28 were reviewed for the two corrected cited
+paragraphs.
 
 ## Credits
 

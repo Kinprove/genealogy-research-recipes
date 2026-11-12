@@ -93,7 +93,8 @@
 - **S87:** FamilySearch Help Center, *What information is in a FamilySearch Catalog entry?*, edited 2026-07-16; read 2026-11-06 — [source](https://articles.familysearch.org/hc/en-us/articles/41401983126683-What-information-is-in-a-FamilySearch-Catalog-entry). Used for: the Catalog's restricted icon marking viewing restrictions that the hover text explains, and the full-text icon marking a collection searchable in Full Text.
 - **S88:** FamilySearch Help Center, *Our affiliate library needs access to restricted images*, edited 2026-04-25; read 2026-11-06 — [source](https://articles.familysearch.org/hc/en-us/articles/41653513329435-Our-affiliate-library-needs-access-to-restricted-images). Used for: FamilySearch lacking the contractual right to share all images with affiliate libraries, and affiliates lacking restricted Books images.
 - **S89:** FamilySearch, *Full-Text Search Leaves FamilySearch Labs*, published 2025-08-30; opened 2026-11-06 — [source](https://www.familysearch.org/en/blog/full-text-search-leaves-familysearch-labs). Used for: Full Text as a standard tool in the main Search menu, also reached from the Catalog, after its 2024 start in FamilySearch Labs, and its coverage being not yet all image collections.
-- **S90:** FamilySearch Help Center, *How do I use Fulltext Search?*, edited 2026-10-06; read 2026-11-06 — [source](https://articles.familysearch.org/hc/en-us/articles/41171158944667-How-do-I-use-Fulltext-Search). Used for: the Find a Collection field and the Browse all collections option.
+- **S90:** FamilySearch Help Center, *How do I use Fulltext Search?*, edited 2026-10-06; read 2026-11-06 — [source](https://articles.familysearch.org/hc/en-us/articles/41171158944667-How-do-I-use-Fulltext-Search). Used for: the Find a Collection field and the Browse all collections option. Rechecked 2026-11-12; edited 2026-10-06. Also used for: transcript editing disabled in Full Text while FamilySearch updates it, possibly remaining unavailable afterwards.
+- **S91:** FamilySearch Help Center, *How do I upload my GEDCOM file?*, edited 2026-11-10 — [source](https://articles.familysearch.org/hc/en-us/articles/41581642466715-How-do-I-upload-my-GEDCOM-file). Used for: its upload route (Search > Genealogies > Upload Your Individual Tree) adding the file to the Pedigree Resource File, where all FamilySearch users can search and view it and others cannot change it. Rechecked 2026-11-12 through FamilySearch's public Help Center API.
 
 ### Source qualifications
 
@@ -134,6 +135,26 @@
   living: S65 is a developer page about private spaces, and S85 states the rule for users. The
   older Help Center wording of a camera with a key, and its "Search Instructions for Historical
   Records" article, still describe the restricted icon that way.
+
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: the FamilySearch documentation sources were re-read in that day's fetch, the
+Help Center articles through FamilySearch's public Help Center API. S60 (Terms of Use, updated
+2023-09-01), S61 (the image ARK viewer and Persistent Identifiers), S63, S64, S65, S71, S72, S73,
+S74 (RootsMagic 9 help), S75 (both Ancestral Quest pages), S80, S81, S83 (published 2025-01-23),
+S84, S85 (edited 2026-07-14), S86 (edited 2026-01-02), S87 (edited 2026-07-16), S88 (edited
+2026-04-25) and S89 (published 2025-08-30) hold as cited. S18 (updated 2026-10-08), S19 (updated
+2026-11-09) and S59 (updated 2026-10-16) changed since the earlier check and still hold. S82
+(updated 2025-10-01) was read directly this time and holds. S78 (updated 2026-08-27) and S79
+(published 2026-06-10) were read on their own pages, found by title, and hold. S90 (edited
+2026-10-06) holds for the collection list and states that transcript editing is disabled in Full
+Text while FamilySearch updates it and may stay unavailable afterwards; workflow 10's check now
+cites that instead of the tutorials' disagreement. S62 could not be read: WikiTree answered HTTP
+202 with an empty page, and S63 still supports the record-ARK reading on its own. Workflow 15 adds
+S91 (edited 2026-11-10), read through the Help Center API, to warn that its GEDCOM upload route
+puts the file in the Pedigree Resource File, which all users can view and others cannot change.
+Videos, practitioner posts and forum threads were not re-read. The group-tree paragraph's step of
+sharing a private Memory with the group is supported by S18 and S19, which it does not cite.
 
 ## Credits
 

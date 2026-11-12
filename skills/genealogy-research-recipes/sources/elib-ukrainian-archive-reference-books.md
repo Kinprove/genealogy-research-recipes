@@ -36,6 +36,17 @@ bibliographic facts for the consolidated-catalogue step. The provider does not
 promise that adjacent IDs form a collection or that search misses prove absence.
 Links cite the guide and metadata; no guide prose or images are reproduced.
 
+### Platform recheck, 2026-11-12
+
+Rechecked 2026-11-12: S1 still identifies item 0014010 as the Chernihiv archive guide, volume 1
+(2001), and links its full text. The S2 route returned the PDF without login, and text extracted
+from its first pages is still garbled. S3 and S4 still describe vol. 8, books 1 and 2 (Kyiv, 2013),
+with the same contents: the twelve Podolia uyezds, the overview of fonds and a settlement index in
+book 1; Volhynia and Kyiv guberniyas, Roman Catholic, Old Believer and Jewish records and a
+settlement index in book 2. Both S5 PDFs downloaded without login, with 857 and 386 pages,
+matching the page counts on S3 and S4. The catalogue pages show no edit date. All sources were
+readable and every statement holds; the recipe text is unchanged.
+
 ## Credits
 
 - Kinprove — original retrieval and volume-verification procedure; the Institute of History of
