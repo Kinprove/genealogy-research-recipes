@@ -273,6 +273,10 @@ mention of `sources/` at the same files on GitHub, pinned to the release SHA. Cl
 directory validation timed out on the full 9.4 MB tree and passed at 6.5 MB, so the
 policy check refuses a Claude tree over 6 MiB. Hermes and OpenAI retain the offline
 Beider helper; the OpenAI ZIP has sorted entries, fixed timestamps and fixed permissions.
+The Hermes catalog page renders the Hermes tree's `README.md`, so that copy keeps only the
+Hermes install steps. Each platform's install steps in `README.md` sit between
+`<!-- platform:<name>:start -->` and `<!-- platform:<name>:end -->`; the build drops the
+other platforms' blocks and refuses broken markers or a missing Hermes block.
 The checks validate Claude's file policy and relative Markdown destinations inside each
 built tree (or ZIP); the repository's Markdown suite separately checks heading anchors.
 
