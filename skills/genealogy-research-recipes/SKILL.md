@@ -421,7 +421,7 @@ live control.
   labels/favorites, Shared DNA Matches, Theory of Family Relativity or an investigation follow-up.
   *Core guardrail:* Save empty results with their actual query, kit, filters and date. Do not fill
   an unshown DNA measurement with zero or infer that a person outside the list has no shared DNA.
-  *Dated source check:* 2026-10-03.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/unknown-parentage-wato.md`** — Work an unknown-parentage case with DNA matches and WATO.
   Placing an unknown person (an unknown parent, an adoptee's bio-parent, an unplaced ancestor) into
@@ -544,7 +544,7 @@ live control.
   *Core guardrail:* Preserve the sparse baseline before tightening it. If a tighter query fails,
   relax one condition at a time and record the reason; changing everything together conceals what
   excluded the record.
-  *Dated source check:* 2026-10-03.
+  *Dated source check:* 2026-11-12.
 
 - **`recipes/newspapers-com-search-recovery.md`** — Newspapers.com: Recover Notices That Name Searches Miss.
   Recovering newspaper notices when issue coverage, printed names or OCR hide an ancestor on

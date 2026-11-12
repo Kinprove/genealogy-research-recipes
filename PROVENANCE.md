@@ -102,6 +102,8 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `myheritage-dna-match-investigation#C-9a20356139e4` | platform-ui | 2026-11-12 | 2027-05-11 | S9, S10, S11, S12, S14, S13, S19 |
 | `myheritage-dna-match-investigation#C-93de04702725` | platform-ui | 2026-11-12 | 2027-05-11 | S15, S16 |
 | `myheritage-dna-match-investigation#C-2a32ef13c8ad` | platform-ui | 2026-11-12 | 2027-05-11 | S17, S18 |
+| `myheritage-historical-record-search#C-0bdcecf974cf` | platform-ui | 2026-11-12 | 2027-05-11 | H1, H12 |
+| `myheritage-historical-record-search#C-95104492714a` | platform-ui | 2026-11-12 | 2027-05-11 | H7, H12 |
 | `newspapers-com-search-recovery#C-8fa0c08c332b` | portal-availability | 2026-11-12 | 2027-02-10 | H11, S10 |
 | `portuguese-parish-civil-register-recovery#C-866ab6daf659` | portal-availability | 2026-11-08 | 2027-02-06 | S7, S8, S2, S1, S16, S18, S3, S22, S11 |
 | `probate-case-document-inventory#C-3ed87ba62346` | custody | 2026-11-12 | 2027-05-11 | S21, S39, S40 |
@@ -265,7 +267,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [missing-marriage-jurisdiction-search](provenance/missing-marriage-jurisdiction-search.yml) | 27 | 14 | 0 | — |
 | [muscovite-census-settler-origin-recovery](provenance/muscovite-census-settler-origin-recovery.yml) | 31 | 15 | 0 | — |
 | [myheritage-dna-match-investigation](provenance/myheritage-dna-match-investigation.yml) | 21 | 8 | 8 | — |
-| [myheritage-historical-record-search](provenance/myheritage-historical-record-search.yml) | 26 | 29 | 2 | — |
+| [myheritage-historical-record-search](provenance/myheritage-historical-record-search.yml) | 23 | 27 | 2 | — |
 | [nazi-era-ancestry-proof-records](provenance/nazi-era-ancestry-proof-records.yml) | 41 | 8 | 0 | — |
 | [newspapers-com-search-recovery](provenance/newspapers-com-search-recovery.yml) | 51 | 24 | 13 | — |
 | [old-believer-sectarian-record-recovery](provenance/old-believer-sectarian-record-recovery.yml) | 8 | 11 | 0 | — |
