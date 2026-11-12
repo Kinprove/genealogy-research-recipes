@@ -3,11 +3,10 @@ id: "muscovite-census-settler-origin-recovery"
 title: "Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books"
 summary: "Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books."]}
-triggers: ["Push a Ural", "Siberian peasant line before 1719 through Muscovite census", "fiscal and fugitive-inquiry books"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "MUSCOVITE-CENSUS-SETTLER-ORIGIN-RECOVERY-01", "text": "each book is a copy-specific observation, and a stated origin stays testimony until a departure-side entry matches."}]
+guardrails: [{"id": "MUSCOVITE-CENSUS-SETTLER-ORIGIN-RECOVERY-01", "text": "Every stated origin is kept as testimony until a matching departure-side entry is found."}]
 handoff: []
 checked: "2026-11-02"
 checked_basis: "checked 2026-11-02"

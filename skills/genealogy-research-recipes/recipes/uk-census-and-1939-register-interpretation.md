@@ -3,11 +3,10 @@ id: "uk-census-and-1939-register-interpretation"
 title: "Read England and Wales censuses and the 1939 Register under each year's own rules"
 summary: "Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules."]}
-triggers: ["Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "UK-CENSUS-AND-1939-REGISTER-INTERPRETATION-01", "text": "settle the year's image, writer, reference night and coverage before reading any value as presence, age or status."}]
+guardrails: [{"id": "UK-CENSUS-AND-1939-REGISTER-INTERPRETATION-01", "text": "Before reading any value, settle what that year's image is, who wrote the value, what night or day it refers to and what the year covers."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

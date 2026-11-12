@@ -3,11 +3,10 @@ id: "us-civil-war-service-record-episodes"
 title: "Read Civil War registration, service cards and unit events as separate episodes"
 summary: "Read Civil War draft registration, service cards, roster remarks and unit events as separate episodes."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Read Civil War draft registration, service cards, roster remarks and unit events as separate episodes."]}
-triggers: ["Read Civil War draft registration", "service cards", "roster remarks and unit events as separate episodes"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-CIVIL-WAR-SERVICE-RECORD-EPISODES-01", "text": "registration is not service, the regiment's battles are not the soldier's, and a database miss does not prove non-service."}]
+guardrails: [{"id": "US-CIVIL-WAR-SERVICE-RECORD-EPISODES-01", "text": "It prevents four common errors: treating registration as service, giving the soldier every battle his regiment fought, guessing a transfer's date or meaning, and treating a database miss as proof of non-service."}]
 handoff: []
 checked: null
 checked_basis: null

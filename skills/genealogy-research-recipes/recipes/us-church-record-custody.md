@@ -3,11 +3,10 @@ id: "us-church-record-custody"
 title: "Find the custodian of a U.S. church record before calling it missing"
 summary: "Work out the denominational branch, congregation and current custodian of a U.S. church record."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Work out the denominational branch, congregation and current custodian of a U.S. church record."]}
-triggers: ["Work out the denominational branch", "congregation and current custodian of a U.S. church record"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-CHURCH-RECORD-CUSTODY-01", "text": "do not report \"not found\" or \"records lost\" until that custody path has been checked."}]
+guardrails: [{"id": "US-CHURCH-RECORD-CUSTODY-01", "text": "Before searching, work out the exact denominational branch, the record types that branch kept, the congregation or minister who kept the entry, and who holds those registers now. Do not report \"not found\" or \"records lost\" until that custody path has been checked."}]
 handoff: []
 checked: null
 checked_basis: null

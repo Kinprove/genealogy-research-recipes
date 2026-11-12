@@ -4,10 +4,9 @@ title: "AncestryDNA: eight practical ways to investigate matches"
 summary: "Eight practical AncestryDNA workflows: use a target's closest relatives, build branch anchor tables, search collateral names, organize groups and notes, correct tester links, audit labels and recover missing match rows."
 kind: "platform"
 scope: {"platforms": ["ancestrydna"], "tasks": ["AncestryDNA match investigation, Pro Tools Enhanced Shared Matches, colored dots, linked trees, ThruLines, access-dependent gaps or connecting a match to another testing site."]}
-triggers: ["AncestryDNA match investigation", "Pro Tools Enhanced Shared Matches", "colored dots", "linked trees", "ThruLines", "access-dependent gaps"]
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "ANCESTRY-DNA-MATCH-INVESTIGATION-01", "text": "preserve dated access and pair-specific observations; shared matches are clues rather than segment triangulation, and tree paths need documentary verification."}]
+guardrails: [{"id": "ANCESTRY-DNA-MATCH-INVESTIGATION-01", "text": "Keep three columns: observed cM, dated label with its origin, and sourced pedigree path."}]
 handoff: ["ai-for-dna-research", "ai-for-documentary-records", "dna-match-outreach-staging", "evidence-proof-judgment", "unknown-parentage-wato"]
 checked: "2026-10-03"
 checked_basis: "checked 2026-10-03"

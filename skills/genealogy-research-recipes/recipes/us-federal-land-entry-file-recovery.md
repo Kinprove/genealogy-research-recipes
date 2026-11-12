@@ -3,11 +3,10 @@ id: "us-federal-land-entry-file-recovery"
 title: "Recover a U.S. federal land-entry case file behind (or without) a GLO patent"
 summary: "Follow a GLO patent, bounty-land number or final-proof notice to the federal land-entry case file."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Follow a GLO patent, bounty-land number or final-proof notice to the federal land-entry case file."]}
-triggers: ["Follow a GLO patent", "bounty-land number", "final-proof notice to the federal land-entry case file"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-FEDERAL-LAND-ENTRY-FILE-RECOVERY-01", "text": "the patent image is not the entry file, and a failed GLO name search does not prove that no claim existed."}]
+guardrails: [{"id": "US-FEDERAL-LAND-ENTRY-FILE-RECOVERY-01", "text": "The digitized GLO item is the final grant or warrant image, often a single page. It is not the entry file."}]
 handoff: []
 checked: null
 checked_basis: null

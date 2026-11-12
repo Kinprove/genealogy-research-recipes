@@ -4,10 +4,9 @@ title: "Build a checked city-directory observation series"
 summary: "Build a comparable series of city-directory names, addresses and occupations from checked editions and sections."
 kind: "records"
 scope: {"platforms": [], "tasks": ["a known address with unknown names, surrounding locality sections, abbreviation keys, index errors, address/occupation changes or a person missing from one directory edition."]}
-triggers: ["a known address with unknown names", "surrounding locality sections", "abbreviation keys", "index errors", "address/occupation changes", "a person missing from one directory edition"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "CITY-DIRECTORY-OBSERVATION-WORKFLOW-01", "text": "separate unavailable and uninspected editions from inspected sections with no hit; a gap does not establish a move, death or identity."}]
+guardrails: [{"id": "CITY-DIRECTORY-OBSERVATION-WORKFLOW-01", "text": "A gap in a database's editions and an absent entry on inspected pages are different results. Neither alone establishes why the person is missing."}]
 handoff: ["land-index-book-series-recovery"]
 checked: "2026-10-07"
 checked_basis: "checked 7 October 2026"

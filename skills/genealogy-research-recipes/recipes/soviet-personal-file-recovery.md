@@ -3,11 +3,10 @@ id: "soviet-personal-file-recovery"
 title: "Recover Soviet personal files when ZAGS or metrical records are lost"
 summary: "Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are lost."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are lost."]}
-triggers: ["Rebuild a Soviet-era life from institutional personal files when ZAGS", "metrical records are lost"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "SOVIET-PERSONAL-FILE-RECOVERY-01", "text": "a negative archive reply is not a dead end; questionnaires and autobiographies are dated self-reports, and catalogue name hits are candidates."}]
+guardrails: [{"id": "SOVIET-PERSONAL-FILE-RECOVERY-01", "text": "Keep questionnaires (анкеты) and autobiographies found there as dated self-reports, and keep catalogue hits found by name as candidates."}]
 handoff: ["burial-evidence-packet", "evidence-proof-judgment", "russian-empire-jewish-metrical-book-recovery"]
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"

@@ -3,11 +3,10 @@ id: "irish-land-valuation-occupancy-series"
 title: "Read Irish valuation, tithe and estate-rental lists as dated occupancy series"
 summary: "Read Griffith's Valuation, tithe books, valuation revisions and estate rentals as dated occupancy series."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Read Griffith's Valuation, tithe books, valuation revisions and estate rentals as dated occupancy series."]}
-triggers: ["Read Griffith's Valuation", "tithe books", "valuation revisions and estate rentals as dated occupancy series"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "IRISH-LAND-VALUATION-OCCUPANCY-SERIES-01", "text": "these lists are not household censuses, and an occupier change is not father-to-son inheritance."}]
+guardrails: [{"id": "IRISH-LAND-VALUATION-OCCUPANCY-SERIES-01", "text": "Read each one as a dated list of occupiers and holdings. None of them is a household census."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

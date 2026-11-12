@@ -3,11 +3,10 @@ id: "scottish-parish-statutory-record-recovery"
 title: "Recover a Scottish birth, marriage or death across parish and statutory registers"
 summary: "Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry and kirk-session records."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry and kirk-session records."]}
-triggers: ["Recover a Scottish birth", "baptism", "marriage", "death across Old Parish", "statutory", "corrected-entry and kirk-session records"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "SCOTTISH-PARISH-STATUTORY-RECORD-RECOVERY-01", "text": "register gaps and unsearched denominations are coverage still to search, not proof that the event did not happen."}]
+guardrails: [{"id": "SCOTTISH-PARISH-STATUTORY-RECORD-RECOVERY-01", "text": "Treat register gaps and unsearched denominations as coverage still to search, not as proof the event did not happen."}]
 handoff: ["quaker-meeting-record-recovery", "uk-census-and-1939-register-interpretation"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

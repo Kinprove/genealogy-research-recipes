@@ -3,11 +3,10 @@ id: "amsterdam-archival-record-recovery"
 title: "Recover and read an Amsterdam City Archives register entry"
 summary: "Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register entry."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register entry."]}
-triggers: ["Follow an Amsterdam City Archives index hit", "tree claim", "burial card back to its own register entry"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "AMSTERDAM-ARCHIVAL-RECORD-RECOVERY-01", "text": "read the entry by its register type, not by the index label; an ondertrouw is a registration, not a wedding."}]
+guardrails: [{"id": "AMSTERDAM-ARCHIVAL-RECORD-RECOVERY-01", "text": "Read the entry by its register type, not by the index label."}]
 handoff: ["dutch-civil-church-record-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

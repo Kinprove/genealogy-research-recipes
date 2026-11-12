@@ -10,7 +10,7 @@ from urllib.parse import unquote, urlsplit
 HERE = Path(__file__).resolve().parent
 SKILL = HERE.parent
 sys.path.insert(0, str(HERE.parents[2] / "scripts"))
-from recipe_catalog import generated_files, load_catalog, parse_recipe, validate_header
+from recipe_catalog import generated_files, load_catalog, normalized, parse_recipe, validate_header
 from read_server import read_recipe
 
 
@@ -44,10 +44,6 @@ def header(path):
     if not text.startswith("---\n"):
         return {}, text
     return parse_recipe(text)
-
-
-def normalized(text):
-    return " ".join(text.split())
 
 
 def judgment_recipes(skill=SKILL):
@@ -164,8 +160,6 @@ def static_checks(skill=SKILL, cases_dir=HERE / "cases", today=None):
         for item in case["assert"]["rubric"]:
             if item["guardrail"] not in rules or not item["question"].endswith("?"):
                 raise ValueError(f"{case['id']}: missing guardrail or invalid yes/no question")
-            if rules[item["guardrail"]]["line"] is None:
-                raise ValueError(f"{item['guardrail']}: guardrail quote no longer occurs in its recipe body")
         for material in case["materials"]:
             fixture = (HERE / "fixtures" / material).resolve()
             if not fixture.is_relative_to(HERE / "fixtures") or not fixture.is_file():

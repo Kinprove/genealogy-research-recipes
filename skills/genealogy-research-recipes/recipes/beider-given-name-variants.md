@@ -4,10 +4,9 @@ title: "Ashkenazi given-name variants from Beider's indexes"
 summary: "Expanding documentary searches with recorded Ashkenazi given-name forms from the male and female J-Roots Beider indexes."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["an unfamiliar or approximate Cyrillic given name, compound names, alternate spellings, ambiguous article labels, or documenting a DNA match's family under another name form."]}
-triggers: ["an unfamiliar", "approximate Cyrillic given name", "compound names", "alternate spellings", "ambiguous article labels", "or documenting a DNA match's family under another name form"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "BEIDER-GIVEN-NAME-VARIANTS-01", "text": "when present, query offline with `scripts/lookup_beider_name.py --name` for up to 20 article groups by default, including similar candidates when an exact match exists; then retrieve a selected article's recorded variants with `--key`. Without the helper, use the host's file search on `resources/beider-name-indexes.json` for the exact and separator-normalized spelling, read only matching entries, keep the 20-group bound and state that similar-candidate (fuzzy) search was not available. Never load the whole JSON into the conversation. Comparison ignores spaces and supported hyphens/dashes; keep compound component searches separate. Distinguish unavailable local data from an absent entry. Approximate matches are spelling suggestions, not source-backed synonyms; article membership never proves identity or kinship."}]
+guardrails: [{"id": "BEIDER-GIVEN-NAME-VARIANTS-01", "text": "Two forms in one dictionary article create search candidates; they do not establish that two records describe the same person."}]
 handoff: ["evidence-proof-judgment", "russian-empire-jewish-identity-attribution"]
 checked: "2026-10-01"
 checked_basis: "Consulted 2026-10-01"

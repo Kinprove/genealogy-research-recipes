@@ -3,11 +3,10 @@ id: "german-official-gazette-notice-search"
 title: "Read German official-gazette personnel, expulsion and expatriation notices as dated administrative notices"
 summary: "Read German gazette personnel, expulsion and expatriation notices as dated acts by a named authority."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Read German gazette personnel, expulsion and expatriation notices as dated acts by a named authority."]}
-triggers: ["Read German gazette personnel", "expulsion and expatriation notices as dated acts by a named authority"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "GERMAN-OFFICIAL-GAZETTE-NOTICE-SEARCH-01", "text": "a notice does not show residence in the district, prove a departure or confirm identity."}]
+guardrails: [{"id": "GERMAN-OFFICIAL-GAZETTE-NOTICE-SEARCH-01", "text": "Each notice is a dated act by a named authority. It does not show that the person lived in the gazette's district. It does not prove that anyone left, and it does not confirm anyone's identity."}]
 handoff: []
 checked: null
 checked_basis: null

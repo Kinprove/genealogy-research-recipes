@@ -51,10 +51,60 @@ class RecipeCatalogTests(unittest.TestCase):
 
     def test_schema_rejects_empty_rules_bad_ids_and_wrong_titles(self):
         for key, value, error in (("guardrails", [], "guardrails"), ("id", "../escape", "invalid id"),
-                                  ("title", "Other title", "title differs"), ("triggers", [], "triggers")):
+                                  ("title", "Other title", "title differs"), ("triggers", ["a phrase"], "header fields")):
             m = copy.deepcopy(self.metadata)
             m[key] = value
             self.assert_invalid(m, error)
+
+    def test_tasks_add_to_the_summary_and_only_full_entries_need_them(self):
+        m = copy.deepcopy(self.metadata)
+        m["router"]["tier"] = "full"
+        m["scope"]["tasks"] = []
+        self.assert_invalid(m, "full router entries need tasks")
+        m["router"]["tier"] = "pointer"
+        catalog.validate_header(m, self.body, m["id"] + ".md", self.today)
+        m["summary"] = "Route a birth, marriage or death by county, successor state and record type."
+        # The whole summary, any case, and the summary cut at commas add nothing to route on.
+        for task in (m["summary"], "ROUTE A BIRTH, MARRIAGE OR DEATH BY COUNTY, SUCCESSOR STATE AND RECORD TYPE",
+                     "Route a birth", "marriage or death by county", "successor state and record type."):
+            m["scope"]["tasks"] = [task]
+            with self.subTest(task=task):
+                self.assert_invalid(m, "task repeats the summary")
+        m["scope"]["tasks"] = ["Search a county marriage register by the groom's parish"]
+        catalog.validate_header(m, self.body, m["id"] + ".md", self.today)
+
+    def test_every_guardrail_is_an_excerpt_of_the_body(self):
+        m = copy.deepcopy(self.metadata)
+        body = ("# " + m["title"] + "\n\nNever treat a title match as\nproof of the   contents. "
+                "Keep unchecked cases.\n")
+        m["guardrails"] = [{"id": "T-01", "text": "Never treat a title match as proof of the contents."}]
+        catalog.validate_header(m, body, m["id"] + ".md", self.today)  # a line wrap and extra spaces
+        for text in ("never treat a title match as proof of the contents.", "Never treat a title as proof."):
+            m["guardrails"][0]["text"] = text
+            with self.subTest(text=text):
+                self.assert_invalid_body(m, body, "guardrail T-01 is not an excerpt")
+        # Later guardrails are checked too, not only the core rule that the router prints.
+        m["guardrails"] = [{"id": "T-01", "text": "Keep unchecked cases."},
+                           {"id": "T-02", "text": "A rule the body never states."}]
+        self.assert_invalid_body(m, body, "guardrail T-02 is not an excerpt")
+
+    def assert_invalid_body(self, metadata, body, message):
+        with self.assertRaisesRegex(catalog.CatalogError, message):
+            catalog.validate_header(metadata, body, metadata["id"] + ".md", self.today)
+
+    def test_router_prints_tasks_in_both_tiers_and_the_core_guardrail_for_full_entries(self):
+        full = copy.deepcopy(next(item for item in self.items if item[0]["router"]["tier"] == "full"))
+        pointer = copy.deepcopy(next(item for item in self.items if item[0]["router"]["tier"] == "pointer"))
+        pointer[0]["scope"]["tasks"] = []
+        head, tail = catalog.render_router([full, pointer]).split("## More recipes by topic")
+        self.assertIn("*Use for:* " + full[0]["scope"]["tasks"][0].split()[0], head)
+        self.assertIn("*Core guardrail:*", head)
+        self.assertNotIn("*Use for:*", tail)
+        self.assertNotIn("*Core guardrail:*", tail)
+        pointer[0]["scope"]["tasks"] = ["Search auction lots", "Read the lot photographs"]
+        tail = catalog.render_router([full, pointer]).split("## More recipes by topic")[1]
+        self.assertIn("*Use for:* Search auction lots; Read the lot photographs", tail)
+        self.assertNotIn("*Core guardrail:*", tail)
 
     def test_dangling_references_fail_in_body_and_handoff(self):
         for reference in ("[other](no-such-recipe.md)", "**`recipes/no-such-recipe.md`**",
@@ -176,8 +226,9 @@ class RecipeCatalogTests(unittest.TestCase):
             (skill / "SKILL.md").write_text(catalog.ROUTER_START + "\n" + catalog.ROUTER_END)
             (root / "README.md").write_text(catalog.TABLE_START + "\n" + catalog.TABLE_END)
             m = copy.deepcopy(self.metadata)
-            m.update(id="new-recipe", kind="judgment", checked=None, checked_basis=None, handoff=[])
-            body = "# " + m["title"] + "\n\nA reviewed body.\n"
+            m.update(id="new-recipe", kind="judgment", checked=None, checked_basis=None, handoff=[],
+                     guardrails=[{"id": "NEW-01", "text": "Quote the reviewed rule."}])
+            body = "# " + m["title"] + "\n\nA reviewed body. Quote the reviewed rule.\n"
             (root / "body.md").write_text(body)
             (root / "header.json").write_text(json.dumps(m))
             args = ["--export-body", str(root / "body.md"), "--metadata", str(root / "header.json")]

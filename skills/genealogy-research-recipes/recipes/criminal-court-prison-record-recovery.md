@@ -3,11 +3,10 @@ id: "criminal-court-prison-record-recovery"
 title: "Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes"
 summary: "From an arrest, prison or census-institution lead, find the court that tried the case and recover U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy searches."
 kind: "records"
-scope: {"platforms": [], "tasks": ["From an arrest, prison or census-institution lead, find the court that tried the case and recover U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy searches."]}
-triggers: ["suspected arrest, trial or imprisonment", "find the court that tried an imprisoned ancestor", "Sing Sing name indexes", "state clemency and federal pardon files", "England/Wales no-fixed-abode records", "Swedish prison rolls, police gazette and court copies"]
+scope: {"platforms": [], "tasks": ["suspected arrest, trial or imprisonment", "Sing Sing name indexes"]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "CRIMINAL-COURT-PRISON-RECORD-RECOVERY-01", "text": "establish the actual authority, index and copy coverage and access; weigh an inmate-list miss against other evidence. A petition or accusation is not a granted pardon or conviction."}]
+guardrails: [{"id": "CRIMINAL-COURT-PRISON-RECORD-RECOVERY-01", "text": "Before choosing where to search for court files, establish which court tried the case and who holds the records now."}]
 handoff: ["convict-transportation-record-chain", "court-case-file-recovery", "english-nonregister-record-recovery", "uk-census-and-1939-register-interpretation", "us-federal-court-case-file-recovery"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"

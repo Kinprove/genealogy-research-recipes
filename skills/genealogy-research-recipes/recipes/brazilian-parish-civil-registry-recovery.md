@@ -3,11 +3,10 @@ id: "brazilian-parish-civil-registry-recovery"
 title: "Recover a Brazilian ancestor in parish books, registry-office records and their substitutes"
 summary: "Find a Brazilian baptism, church marriage or burial, or a civil birth, marriage or death entry, and rebuild a family when the parish books are lost."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find a Brazilian baptism, church marriage or burial, or a civil birth, marriage or death entry, and rebuild a family when the parish books are lost."]}
-triggers: ["Find a Brazilian baptism", "church marriage", "burial", "or a civil birth", "marriage", "death entry"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "BRAZILIAN-PARISH-CIVIL-REGISTRY-RECOVERY-01", "text": "build the dated jurisdiction chain first: a civil entry belongs to the registry district of its date and a church record to its mother parish, and a short-form certificate omits fields that the full text (inteiro teor) holds."}]
+guardrails: [{"id": "BRAZILIAN-PARISH-CIVIL-REGISTRY-RECOVERY-01", "text": "**Work out the history of the place first.** Many Brazilian municipalities are recent. The town in a record may have been a village or district of an older municipality on the event date [S1]."}]
 handoff: ["catholic-parish-diocesan-record-recovery", "evidence-proof-judgment", "familysearch-practical-record-workflows", "hispanic-catholic-register-recovery", "portuguese-parish-civil-register-recovery", "probate-case-document-inventory"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"

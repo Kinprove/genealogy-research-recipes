@@ -3,11 +3,10 @@ id: "russian-orthodox-metrical-book-recovery"
 title: "Recover a Russian Orthodox metrical-book entry through the period parish, the consistory copy and its margin notes"
 summary: "Locate and read a Russian Orthodox metrical entry through the period parish, the consistory copy and its margin notes."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Locate and read a Russian Orthodox metrical entry through the period parish, the consistory copy and its margin notes."]}
-triggers: ["Locate and read a Russian Orthodox metrical entry through the period parish", "the consistory copy and its margin notes"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "RUSSIAN-ORTHODOX-METRICAL-BOOK-RECOVERY-01", "text": "margin decrees are separate dated events, and names and patronymics are hypotheses, not proof of descent."}]
+guardrails: [{"id": "RUSSIAN-ORTHODOX-METRICAL-BOOK-RECOVERY-01", "text": "Read marriage-count formulae literally, treat margin decrees as separate dated events, and treat names and patronymics as hypotheses rather than proof of descent."}]
 handoff: ["bessarabia-moldova-record-routing", "catholic-parish-diocesan-record-recovery", "corpus-seeded-name-search", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "russian-orthodox-confession-list-reading"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"

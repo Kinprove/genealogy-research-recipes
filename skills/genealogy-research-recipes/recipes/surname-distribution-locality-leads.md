@@ -3,11 +3,10 @@ id: "surname-distribution-locality-leads"
 title: "Rank localities to search from dated surname-distribution sources"
 summary: "Rank localities to search from dated surname-distribution sources for an uncommon surname."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Rank localities to search from dated surname-distribution sources for an uncommon surname."]}
-triggers: ["Rank localities to search from dated surname-distribution sources for an uncommon surname"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "SURNAME-DISTRIBUTION-LOCALITY-LEADS-01", "text": "the result is a bounded search list, never an origin finding."}]
+guardrails: [{"id": "SURNAME-DISTRIBUTION-LOCALITY-LEADS-01", "text": "It turns time-sliced maps, attestation dictionaries, a couple's surname overlap and country-wide counts into a **ranked, bounded list of localities to search**. It never produces an origin finding."}]
 handoff: ["scandinavian-patronymic-farm-name-record-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

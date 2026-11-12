@@ -4,10 +4,9 @@ title: "Recover U.S. immigration and naturalization records"
 summary: "Twelve historical U.S. immigration workflows: reconstruct journeys, test port, airport and border coverage, recover name variants, pair departures with arrivals, read complete manifests, distinguish detention outcomes, interpret dated verification marks, find naturalizations across courts, check historical citizenship rules, locate federal files and recover broken image links."
 kind: "records"
 scope: {"platforms": [], "tasks": ["ship and aircraft passenger lists, Canada/Mexico crossing records, naturalization minute books, C-files, A-files and AR-2 records."]}
-triggers: ["ship and aircraft passenger lists", "Canada/Mexico crossing records", "naturalization minute books", "C-files", "A-files and AR-2 records"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "USA-IMMIGRATION-SEARCH-RECOVERY-01", "text": "preserve the complete image context and actual collection coverage; resolve citizenship rules and file custody for the person's dates before drawing conclusions."}]
+guardrails: [{"id": "USA-IMMIGRATION-SEARCH-RECOVERY-01", "text": "The recurring mistake is treating a search miss as a missing ancestor when the failure lies in the selected port, date, recorded name, image, citizenship history or custodian."}]
 handoff: ["land-index-book-series-recovery", "russian-empire-jewish-identity-attribution"]
 checked: "2026-10-26"
 checked_basis: "checked 26 October 2026"

@@ -10,9 +10,9 @@ every local recipe link and fragment resolves (also in the real npm artifact), a
 guardrail ID exists in a recipe header with a quote still present in the body. Platform
 documentation-check dates expire after 90 days; future dates fail too. The suite uses the
 canonical header parser, schema, source-check evidence and generated-output checks from
-[`scripts/recipe_catalog.py`](../scripts/recipe_catalog.py). Case-specific guardrails are added
-to the existing headers and must quote the recipe body; the catalog's first routing rule
-stays first. Every platform header requires a dated source check.
+[`scripts/recipe_catalog.py`](../scripts/recipe_catalog.py). Every header guardrail quotes the
+recipe body. Case-specific guardrails are added to the existing headers; the catalog's first
+routing rule stays first. Every platform header requires a dated source check.
 
 ```sh
 python3 -B -m unittest discover -s tests -p 'test_recipe_evals.py' -v
