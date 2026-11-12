@@ -66,7 +66,7 @@ Gather these before searching:
 
 ## 2. Find who holds the book before you search
 
-**Privacy gate:** <!-- privacy-gate: request --> A certificate (certidão) ordered for an entry still inside its threshold, the last step in this list, names people who may be living; answer the privacy gate in `SKILL.md` before you order it.
+**Privacy gate:** <!-- privacy-gate: request --> A certificate (certidão) ordered for an entry still inside its threshold (the last step in this list) names people who may be living; answer the privacy gate in `SKILL.md` before you order it.
 
 - **Treat most pre-1911 parish books as state archive holdings.** In 1911 the parish books were handed over for the new civil registry offices. They now sit on district-archive shelves [S5], and some were lost in the transfer [S11]. They are spread over 26 archives, each with its own website: 1 national, 17 district, 4 regional, 3 municipal and 1 diocesan [S6].
 - **Check these exceptions before you call a book missing** [S6]:

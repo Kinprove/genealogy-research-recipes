@@ -133,7 +133,7 @@ Gather these before searching:
 
 ## 10. Route Civil War and repression files by holder
 
-**Privacy gate:** <!-- privacy-gate: request --> A request for a court-martial file of the Civil War or the Franco era sends the name of a person who may be living and asks for a repression record about them; answer the privacy gate in `SKILL.md` before you send it, and follow its rule for third persons named in the file.
+**Privacy gate:** <!-- privacy-gate: request --> A request for a court-martial file of the Civil War or the Franco era sends the name of a person who may be living and asks for a repression record about them; answer the privacy gate in `SKILL.md` before you send it, and apply its rule for third persons named in the file.
 
 - **Search PARES for the Centro Documental de la Memoria Histórica (CDMH) cards and the Causa General.** The CDMH general card index of the Secretaría General and the Sección Político-Social is described in PARES down to the single card; each card names the person and the file or archive signature that holds the information. The physical index is not open to users; its database and card images are consulted in the archive's reading room [S33]. Causa General files have item-level PARES records, some with images [S33].
 - **Request a post-1939 court-martial file through the military court that owns it.** Find the Tribunal Militar Territorial (territorial military court) and the Defence archive that holds its files. For the Fourth Territorial Military Court's files at the Archivo Intermedio Militar Noroeste in Ferrol, ask the court for authorisation first [S34].

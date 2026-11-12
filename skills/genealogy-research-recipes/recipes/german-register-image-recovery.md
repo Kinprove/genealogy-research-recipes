@@ -158,7 +158,7 @@ Record the databases, offices and years you searched and the form each was in. A
 
 ## 7. Classify the register version behind every image
 
-**Privacy gate:** <!-- privacy-gate: request --> The order for a full civil register entry and its Sammelakte later in this list can reach a recent entry that names people who may be living; answer the privacy gate in `SKILL.md` before you order it.
+**Privacy gate:** <!-- privacy-gate: request --> The order for a full civil register entry and its Sammelakte (later in this list) can name people who may be living if the entry is recent; answer the privacy gate in `SKILL.md` before you order it.
 
 - **Name the version for each image:**
   - parish original;
