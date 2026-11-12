@@ -118,7 +118,7 @@ live Ancestry account was used.
 
 ### Platform recheck, 2026-11-12
 
-Rechecked 2026-11-12: Ancestry's help articles B1–B15, B17 and B18 were read directly today, in a
+Rechecked 2026-11-12: Ancestry's help articles B1–B15, B17 and B18 were read on 2026-11-12 in a
 browser through the Help Center API. B10 was last edited 2026-10-02 and the others 2026-07-30. All
 hold for the recipe's statements. B2 still limits shared matches to three without a membership,
 gives the full list with a family history membership, and gives enhanced shared matches with Pro
@@ -143,7 +143,7 @@ Ancestry's pages could not be read, from the earlier attempt that day, now cite 
 same ranges and 20 cM low end, and B12 for giving no threshold. The videos B16 and B19 were not
 re-read. Of the community sources that alone support a current-state
 statement, B30 (the 20 cM shared-match floor) and B44 (about 650–2,200 cM) still say so, and
-today's fetch of S1–S11 still carries the passages read earlier that day. B46 still describes
+that day's fetch of S1–S11 still carries the passages read earlier that day. B46 still describes
 palette order, but a reader's comment of 2024-12-06 on the same page reports the dots in the order
 the groups were created; method 4 now reports that comment and asks the reader to check their own
 list. No source was unreadable and no live account was used.

@@ -78,7 +78,7 @@ rests on the two March 2024 reports.
 
 ### Platform recheck, 2026-11-12
 
-Rechecked 2026-11-12: Ancestry's help articles were read directly today, in a browser through the
+Rechecked 2026-11-12: Ancestry's help articles were read on 2026-11-12 in a browser through the
 Help Center API: the eight pages in the Ancestry help entry (B12), the two help pages in the
 attachment entry (B28), Lesson 5 (B29), Search Tips (B30), Searching with Wild Cards (B31),
 Searching with Soundex (B32) and Correcting a Record (B33). Card Catalog was last edited on
@@ -104,9 +104,9 @@ rounding and the folio and page references for 1851–1901, with different arran
 1911 and 1921; the National Records of Scotland 1841 guide (B35) still gives the Scottish rule;
 NARA's 1950 FAQ (B14) still explains sheets numbered 71 onward and neighbor searches, and its
 1940 page still pairs addresses with enumeration districts. S1 and S3 were re-read and hold.
-Findmypast's RG 15 image guide in B27 refused automated access (HTTP 403) today, in the shared
+Findmypast's RG 15 image guide in B27 refused automated access (HTTP 403) that day, in the shared
 fetch and in a separate request, so its description of the 1921 schedule rests on the 2026-10-20
-check. S2 could not be fetched today (an interrupted browser load, then HTTP 403) and rests on
+check. S2 could not be fetched that day (an interrupted browser load, then HTTP 403) and rests on
 its read earlier that day. Videos were not re-read. No live Ancestry search was run, and the
 recipe text was not changed.
 

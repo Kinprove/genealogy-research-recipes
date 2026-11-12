@@ -29,7 +29,7 @@ Official material fetched 2026-11-07: the former [Unified Search](https://www.je
 
 ### Platform recheck, 2026-11-12
 
-Rechecked 2026-11-12: every official page bundled in entry 16 was read again, and every statement
+Rechecked 2026-11-12: every official page in the three "Official material fetched" paragraphs was read again, and every statement
 the recipe makes from them holds. The former Unified Search address shows only a notice that the
 page has moved to Global Search. The Global Search form lists the Data Types Surname, Given Name,
 Town and Any Field and the Search Types Phonetically Like, Sounds Like, Starts With, Contains, Is
@@ -53,7 +53,7 @@ Gallery, Card Catalog and YIVO route. The videos in entries 1 to 6, 12 and 16 we
 they support methods and examples. The J-Roots topics in entries 7 to 11, 13 and 14 could not be
 read because the forum's certificate had expired; they support methods, history and examples, except
 the Miriam Weiner Archive locator advice, which rests on entry 13 alone. JewishGen's own dataset
-catalogue, read the same day, still lists the Miriam Weiner Routes to Roots Collection: Belarus
+catalogue lists the Miriam Weiner Routes to Roots Collection: Belarus
 Records as searchable (last updated 2020-05-06), although the Belarus page's database list does not
 show it; JewishGen's pages did not confirm that an entry's details give the archive, fond, opis and
 delo. The recipe text was not changed.

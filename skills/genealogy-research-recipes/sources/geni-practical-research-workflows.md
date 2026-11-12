@@ -44,7 +44,7 @@ latest captures found, from 2023.
 
 ### Platform recheck, 2026-11-12
 
-Rechecked 2026-11-12: H1, H7 and H16 were read directly on the live Geni site (H1 is posted
+Rechecked 2026-11-12: H1, H7 and H16 were read directly on the live Geni site (H1 was posted
 2026-08-26); the Help Center articles H2–H6, H8–H15 and H17–H23 were read through the public Help
 Center article API. Last edits shown: H2 2015-07-09, H3 and H4 2019-06-29, H5 2020-05-19, H6
 2023-05-31, H8 2020-02-06, H9 and H10 2026-03-27, H11 2021-09-17, H12 2026-08-04, H13 2026-09-22,
@@ -52,7 +52,7 @@ H14 2020-05-21, H15 2025-10-29, H17 2020-09-21, H18 2022-03-07, H19 2023-10-27, 
 H21 2026-08-04, H22 and H23 2022-03-07. H19–H23 were therefore read on the live pages rather than
 the 2023 captures. H24 redirected to the post's current blog address and was read there. Every
 statement the recipe rests on these pages still holds except one: H21, edited 2026-08-04, now
-sends readers to the Match Center to view, complete or undo pending merges, so procedures 5 and 6
+sends readers to the Match Center to view, complete or undo pending merges, so workflows 5 and 6
 now say Match Center where they said Merge Center. The videos S1–S4 support methods and were not
 re-read. All pages were readable.
 

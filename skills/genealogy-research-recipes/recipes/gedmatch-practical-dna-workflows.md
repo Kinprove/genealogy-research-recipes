@@ -50,7 +50,7 @@ Plan for paid tools before the session. GEDmatch's Tier 1 help lists Segment Sea
 tool and Lazarus among the paid Tier 1 tools. It says tools marked "Tier 1" on the home page
 require a paid membership, and it lists One-to-Many and One-to-One as free [H9 @2026-11-12].
 GEDmatch's 2025 upload guide lists Matching Segment Search, Triangulation and Multiple Kit
-Analysis among its paid tools [H1 @2026-11-12], and its triangulation tutorial opens
+Analysis among its paid tools [H1 @2026-11-12], and GEDmatch's triangulation tutorial opens
 Triangulation from the Tier 1 tools, not the free ones [H4 @2026-11-12]. Check the home-page
 marking for those three before planning workflows 4–8.
 

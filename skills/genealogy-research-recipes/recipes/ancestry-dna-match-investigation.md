@@ -157,7 +157,7 @@ M16 hypothesis | reviewed 2026-10-03 | basis: Ruth's tree and census
 | next: obtain J.K.'s parent birth record
 ```
 
-Leeds (2023-03-27) documents group dots following palette order rather than the order of assignment. Leeds's eight-group scheme uses the middle row from right to left, **green through yellow**: paternal cool colors appear ahead of maternal warm colors. A reader's comment on that post, dated 2024-12-06, reports the dots in the order the groups were created instead, whatever their color [B46 @2026-11-12]. Check the order in your own list. Write a legend linking each color to its ancestral branch.
+Leeds (2023-03-27) documents group dots following palette order rather than the order of assignment. Leeds's eight-group scheme uses the middle row from right to left, **green through yellow**: paternal cool colors appear ahead of maternal warm colors. A reader's comment on that post, dated 2024-12-06, reports that the dots appeared in the order the groups were created, whatever their color [B46 @2026-11-12]. Check the order in your own list. Write a legend linking each color to its ancestral branch.
 
 Put a match in each relevant group. Revisit its note when a tree, record, relative or available view changes.
 

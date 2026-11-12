@@ -117,12 +117,12 @@ Publisher Extra plan.
 Not readable on 2026-11-12: S9 and the H12 education page, on Ancestry, returned an error page;
 the H12 offer page redirected to a geo-located sign-up page that does not name Newspapers.com.
 H2 (Library of Congress) and H10 (a Newspapers.com clipping page) returned HTTP 403 to the browser
-and to a plain request. S9's search-syntax statements also rest on H7–H9, read today. H2 supports
+and to a plain request. S9's search-syntax statements also rest on H7–H9, read that day. H2 supports
 holding-and-format procedures, and H1 confirms the directory's role in showing how to access a
 title. H10's observed OCR-text control was checked against H15, a Newspapers.com blog post of
-2026-11-09 read today, whose clipping-page screenshot shows the OCR text under the clipping.
+2026-11-09 read that day, whose clipping-page screenshot shows the OCR text under the clipping.
 
-Changes: the Publisher Extra result label now cites H11 and S10 with today's date instead of H11
+Changes: the Publisher Extra result label now cites H11 and S10 with that day's date instead of H11
 and H12, and states what the FAQ says in place of the unreadable offer pages; the table's OCR row
 adds H15. The videos and the practitioner, forum, encyclopedia, case-law and newspaper-page
 sources support methods, history and examples and were not re-read.
