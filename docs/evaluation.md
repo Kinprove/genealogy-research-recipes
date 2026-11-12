@@ -40,13 +40,16 @@ Clarification cases must stop at one focused question and a brief reason, waitin
 user's answer before any source list or workflow.
 The `.yaml` cases use JSON syntax, a YAML 1.2 subset; headers use the strict subset described
 in [MAINTAINERS.md](../MAINTAINERS.md). The offline tier needs only Python's standard library.
-Evaluation tooling and fixtures are development files
-and are excluded from the installed npm package.
+Evaluation tooling and fixtures are development files. The ClawHub package and the release
+distributions leave them out; an install from this Git repository copies them, but no host runs
+them.
 
 ## Running the model workflow
 
 [The model workflow](../.github/workflows/behavioural-evals.yml) runs manually and on
-same-repository PRs with the `behavioural-evals` label. Fork PRs skip it; without the
+same-repository PRs with the `behavioural-evals` label. Adding that label starts a run, and a
+push or reopen while it stays starts a fresh one; adding any other label does not start or
+cancel anything. Fork PRs skip it; without the
 `ANTHROPIC_API_KEY` repository secret it reports a credential skip, not a model pass. The
 optional `EVAL_MODEL` and `EVAL_JUDGE_MODEL` repository variables select the models; otherwise
 the CLI uses its normal configured model. Pin these variables for comparisons across model

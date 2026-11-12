@@ -17,7 +17,7 @@ router: {"tier": "pointer", "group": "Migration and origins", "order": 1112}
 
 # Rank localities to search from dated surname-distribution sources
 
-Use this recipe when an uncommon surname has an unknown origin and the next step is choosing where to search registers. It turns time-sliced maps, attestation dictionaries, a couple's surname overlap and country-wide counts into a **ranked, bounded list of localities to search**. It never produces an origin finding. For measuring a namesake pool before you attribute a record to someone, use [evidence/proof judgment](evidence-proof-judgment.md). For a rare-surname survey inside an emigrant's contact network, use [emigrant origin recovery](russian-empire-emigrant-origin-recovery.md). For spellings across scripts and OCR, use the catalogue's recipe on name searches across scripts and OCR.
+Use this recipe when an uncommon surname has an unknown origin and the next step is choosing where to search registers. It turns time-sliced maps, attestation dictionaries, a couple's surname overlap and country-wide counts into a **ranked, bounded list of localities to search**. It never produces an origin finding. For measuring a namesake pool before you attribute a record to someone, use [evidence/proof judgment](evidence-proof-judgment.md). For a rare-surname survey inside an emigrant's contact network, use [emigrant origin recovery](russian-empire-emigrant-origin-recovery.md). For spellings across scripts and OCR, use [corpus-seeded name searches across scripts and OCR](corpus-seeded-name-search.md).
 
 ## Contents
 

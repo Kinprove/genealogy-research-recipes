@@ -78,6 +78,16 @@ class CiToolTests(unittest.TestCase):
                                         capture_output=True, text=True, check=True)
                 self.assertEqual(json.loads(result.stdout), [wrapper, *arguments])
 
+    def test_model_workflow_ignores_other_labels(self):
+        workflow = (ROOT / ".github/workflows/behavioural-evals.yml").read_text(encoding="utf-8")
+        group = re.search(r"(?m)^concurrency:\n  group: (.+)$", workflow).group(1)
+        condition = re.search(r"(?ms)^  credentials:\n    if: >-\n(.*?)\n    runs-on:", workflow).group(1)
+        # Another label's run takes its own group; sharing one would cancel a running evaluation.
+        self.assertIn("github.event.action == 'labeled' && github.event.label.name != 'behavioural-evals' "
+                      "&& format('-{0}', github.run_id) || ''", group)
+        self.assertIn("(github.event.action != 'labeled' || github.event.label.name == 'behavioural-evals')",
+                      condition)
+
     def test_lock_covers_exact_tools_and_integrity_checked_transitive_archives(self):
         packages = (
             ("ci-tools", {"openclaw", "@anthropic-ai/claude-code", "markdownlint-cli2", "clawhub"}),

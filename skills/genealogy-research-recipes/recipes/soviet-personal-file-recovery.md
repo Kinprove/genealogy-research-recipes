@@ -28,7 +28,7 @@ Related recipes:
 - Wives' natal families, house books and family files when vital records fail: [JewishGen search and family reconstruction](jewishgen-search-family-reconstruction.md).
 - Arrest, investigation and prisoner files: [Russian military and repression record episodes](russian-military-repression-record-episodes.md).
 - Pre-1917 registration (приписка) and name re-registration: [Russian-Empire Jewish identity attribution](russian-empire-jewish-identity-attribution.md).
-- Spelling expansion across scripts: the catalogue's recipe on recovering attested spellings across scripts and OCR.
+- Spelling expansion across scripts: [corpus-seeded name searches across scripts and OCR](corpus-seeded-name-search.md).
 - Identity, namesake and nationality rulings: [evidence/proof judgment](evidence-proof-judgment.md).
 
 ## Contents
