@@ -191,6 +191,12 @@ These are reasoning consequences of the source types, not a reliability ranking 
   actually checked. The historical guide describes incomplete victim and survivor documentation;
   do not replace that limitation with a fixed present-day coverage percentage. [H1]
 
+- **Arolsen T/D files are not open online.** Arolsen's archive description of its repository of
+  T/D cases (reference DE ITS 6.3.3.2) says that access to these files is restricted because of
+  privacy and asks researchers to contact the Arolsen Archives for further information; the
+  online archive tree lists no files under it. To read a T/D file, ask the archive for it.
+  [H21 @2026-11-12]
+
 - If the person was killed or held under German occupation of Soviet territory, also search the
   Extraordinary State Commission (ЧГК) acts: see [Recover separate military and Soviet-repression record episodes](russian-military-repression-record-episodes.md#start-from-the-event-and-source-scope).
 

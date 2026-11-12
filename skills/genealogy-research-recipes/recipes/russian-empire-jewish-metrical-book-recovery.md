@@ -36,6 +36,8 @@ For searching a Jewish-society metrical fund and checking what a case actually c
 - Check that a record series exists for your window. The 10th revision was taken in 1858, so neither the 9th nor the 10th can list a person born in 1860–1900, as a participant pointed out to a user who asked for them. [S1] They can still list that person's parents or grandparents, so request them only for the earlier generation.
 - Check the person's registration as well as the place of the event. In one case a 1917 entry called the father a "citizen" of another town. A participant read this as his former estate registration (мещанин). That town's records needed attention before the town where photographs were taken. [S3] Use the identity-attribution recipe for that branch.
 
+The metrical books named in the first bullet had a fourth part. The 1835 Statute required the rabbi to keep them for circumcisions, marriages, divorces and deaths. [S11] The Odesa regional archive describes its city rabbinate's books (fond 39) as holding births, marriages, divorces and deaths. [S7] Search the divorce part as well. It can explain a marriage that ends without a death entry, or a woman who remarries while her first husband is alive.
+
 ## 2. Build a dated table of candidate rabbinates for the event year
 
 The registering office can change from year to year, so make one row per candidate rabbinate for the target year.
@@ -90,6 +92,6 @@ An early-Soviet village birth can produce the same layered replies as section 3.
 ## Output: rabbinate jurisdiction and substitute register
 
 - **Jurisdiction table:** for the event year, list each candidate rabbinate (city rabbi, uezd rabbi, own shtetl rabbi, neighbouring town or uezd). For each, give the source (press or address calendar, forum report, archive list), its period uezd and guberniya, and its rank.
-- **Survival check:** make one row per rabbinate × confession × event × year, and name each fond searched (the rabbinate's, the town administration's, the guberniya board's). Mark each as surviving (with locator), reported lost (with who said so and when), or not yet checked. Then give the retrieval route chosen: online, request or visit.
+- **Survival check:** make one row per rabbinate × confession × event (birth, marriage, divorce or death) × year, and name each fond searched (the rabbinate's, the town administration's, the guberniya board's). Mark each as surviving (with locator), reported lost (with who said so and when), or not yet checked. Then give the retrieval route chosen: online, request or visit.
 - **Substitutes:** make one row per item. Give its type (notebook, official book, extract, community certificate, Soviet extract, повторное certificate, list), its creation date, the basis of its information, its locator and its search status.
 - **Versions:** keep every version of the entry separate, with its own spellings and date. Do not merge them.
