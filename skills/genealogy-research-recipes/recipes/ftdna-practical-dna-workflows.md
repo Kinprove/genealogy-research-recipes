@@ -155,16 +155,18 @@ warned that prior results would be removed and described different export access
 kits. [S12]
 
 A kit transferred from another company holds only that company's data file. No DNA comes with an
-upload, so FamilyTreeDNA has no sample for it [S30 @2026-11-12]. Its Family Finder NGS upgrade is
-the first time FamilyTreeDNA sequences that person's DNA; for a transfer customer who has never
-submitted a sample, FamilyTreeDNA mails a collection kit after the order [S12 @2026-11-12]. The
-Autosomal Unlock has been retired [S46 @2026-11-12], [S31 @2026-11-12]. FamilyTreeDNA says a
-transfer that was never unlocked has its matches and the Family Finder Matrix, and cannot save that
-data before an upgrade [S12 @2026-11-12]. Estes's August 2026 table lists the Chromosome Browser,
-Chromosome Painter, myOrigins and ancientOrigins as unlock-only but a segment download as free
-[S31 @2026-11-12]. For such a kit, record the paired export of workflow 1 and the single-match
-segment files of workflow 2 as `unavailable` unless the account actually offers them. A missing
-Chromosome Browser on that kit reflects the lock, not missing data.
+upload, so the upload gives FamilyTreeDNA no sample [S30 @2026-11-12]. For a transfer customer who
+has never submitted a sample to FamilyTreeDNA, the Family Finder NGS upgrade is the first time
+FamilyTreeDNA sequences that person's DNA, and a collection kit is mailed after the order
+[S12 @2026-11-12]. The Autosomal Unlock has been retired [S46 @2026-11-12], [S31 @2026-11-12].
+A transfer that was never unlocked has its matches and the Family Finder Matrix [S12 @2026-11-12]
+but no Chromosome Browser, Chromosome Painter, myOrigins or ancientOrigins [S31 @2026-11-12],
+[S46 @2026-11-12]. A missing Chromosome Browser there reflects the lock, not missing data, and
+workflow 2's single-match segment files cannot be made: keep held-out persons out of the join as
+`unresolved`. For workflow 1's export pair the sources disagree. Estes's August 2026 table lists a
+segment download as free [S31 @2026-11-12]; FamilyTreeDNA says a locked transfer cannot save its
+data before an upgrade [S12 @2026-11-12]. Record each file the account does not offer as
+`unavailable`, not as an empty result.
 
 Before concluding that a tester who has died or cannot swab again can get no further
 FamilyTreeDNA test, have the account holder ask Customer Service whether samples from an earlier
@@ -355,7 +357,7 @@ When quoting a branch's tester count, country distribution or ancient-sample lis
 Record whether each Discover report was read in the public view, through a shared page, or signed
 in through the tester's own kit. Signed in with a Big Y kit, Discover shows up to 30 Ancient
 Connections for the haplogroup, against up to 10 otherwise [S37 @2026-11-12]. Globetrekker and the
-Match Time Tree open only for a Big Y tester signed in to that kit [S38 @2026-11-12],
+Y-DNA Match Time Tree open only for a Big Y tester signed in to that kit [S38 @2026-11-12],
 [S39 @2026-11-12], [S36 @2026-11-12]. Estes saw two or three Ancient Connections on a publicly
 shared page where the signed-in tester had more than 20 [S40 @2026-11-12]. Record a report missing
 from a public or shared view as `not inspected in this view`, never as absent.
