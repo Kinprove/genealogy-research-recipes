@@ -201,6 +201,7 @@ Also search LAC's *Ukrainian Immigrants, 1891–1930*, which gives 14,793 names 
 arrived in Canada. It draws on passenger lists for Canadian and American ports held at LAC and on
 Vladimir Julian Kaye's notes and settler dictionaries; its index includes surname variants and some
 alternate names, and its entries are in the language of the original documents. [H20 @2026-11-12]
+
 In LAC's Collection Search, `*` at the start or end of a word finds variants and `?` replaces one
 unknown letter. [H19 @2026-11-12] Vera Miller, writing on Ukrainian and Russian immigrants to
 Canada, also combines `*` and `?` within first or last names, and for a rare given name searches
