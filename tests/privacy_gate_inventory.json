@@ -618,6 +618,48 @@
   "checkpoint": "Copying or exporting map data moves matches' segment data"
  },
  {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "To review the whole map rather than one match at a time, download a provider's segment file",
+  "checkpoint": "A provider's segment file for the whole match list names every match"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "To review the whole map rather than one match at a time, download a provider's segment file",
+  "checkpoint": "A provider's segment file for the whole match list names every match"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "Read FamilyTreeDNA's myOrigins Chromosome Painter segments, downloaded with",
+  "checkpoint": "FamilyTreeDNA's painted-segment file holds the tester's own DNA data"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Read FamilyTreeDNA's myOrigins Chromosome Painter segments, downloaded with",
+  "checkpoint": "FamilyTreeDNA's painted-segment file holds the tester's own DNA data"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Preview inferred intervals before you save them.",
+  "checkpoint": "Both tables carry living testers' and the match's segment data"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "third-party-tool",
+  "action": "When the testers are full siblings and the untested person is their parent",
+  "checkpoint": "Each sibling's segment table with the match goes into the Shared cM Investigator"
+ },
+ {
+  "recipe": "dnapainter-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "When you preserve the matrix, export it in a form that keeps the relationships.",
+  "checkpoint": "A matrix export file holds identified living testers' shared amounts and relationships"
+ },
+ {
   "recipe": "ethnicity-estimate-version-comparison.md",
   "kind": "export",
   "action": "Then, beside \"What changed?\", click **Download PDF** [S1], [S11]. Find the link by its position:",
@@ -1378,6 +1420,12 @@
   "kind": "contact",
   "action": "which may be recruiting a specific relative to DNA-test *or* a records search",
   "checkpoint": "Recruiting a living relative to DNA-test discloses the hypothesis and asks for their genetic data"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "third-party-tool",
+  "action": "Enter the birth year of the person whose parent is unknown",
+  "checkpoint": "Birth and death years, family positions and the research question entered in WATO Plus"
  },
  {
   "recipe": "us-20th-century-military-service-reconstruction.md",
