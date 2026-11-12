@@ -144,11 +144,14 @@ Family Finder 5.0 is one documented example of processed output, not an unfilter
 reference instrument. [H3]
 
 When the missing match is a tested relative documented as a second cousin or closer, do not stop
-at reporting floors and settings. First confirm that the comparison exists: both kits are in the same database, both take part in
-matching, and neither match is hidden. A confirmed zero at that distance is then a strong signal
-that the documented relationship is wrong or that a kit is not its tester's own; beyond that
-distance, read the missing match only as a clue. Locate the break with relationship-specific DNA
-evidence before recording misattributed parentage, as
+at reporting floors and settings. First confirm that the comparison exists: both kits are in the
+same database, both take part in matching, and neither match is hidden. A confirmed zero in
+autosomal sharing at that distance is then a strong signal that the documented relationship is
+wrong or that a kit is not its tester's own; beyond that distance, read the missing match only as a
+clue. An absent X match alone carries no such signal: X follows its own inheritance path, and a
+father passes no non-PAR X to his son (see [X and phasing judgment](xdna-phasing-judgment.md)).
+Locate the break with relationship-specific DNA evidence before recording misattributed parentage,
+as
 [family-level DNA reasoning](ai-for-dna-research.md#what-to-never-trust-or-delegate-verify-or-dont)
 describes.
 
