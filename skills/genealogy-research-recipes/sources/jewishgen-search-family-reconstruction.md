@@ -52,9 +52,11 @@ at least 18 months before the public database. The interview in entry 15 still d
 Gallery, Card Catalog and YIVO route. The videos in entries 1 to 6, 12 and 16 were not re-read, as
 they support methods and examples. The J-Roots topics in entries 7 to 11, 13 and 14 could not be
 read because the forum's certificate had expired; they support methods, history and examples, except
-the Miriam Weiner Archive locator advice, which rests on entry 13 alone and which JewishGen's own
-Belarus database page could not confirm because its database list loads by script. The recipe text
-was not changed.
+the Miriam Weiner Archive locator advice, which rests on entry 13 alone. JewishGen's own dataset
+catalogue, read the same day, still lists the Miriam Weiner Routes to Roots Collection: Belarus
+Records as searchable (last updated 2020-05-06), although the Belarus page's database list does not
+show it; JewishGen's pages did not confirm that an entry's details give the archive, fond, opis and
+delo. The recipe text was not changed.
 
 ## Credits
 
