@@ -87,6 +87,8 @@ Extract each field separately [S10], [S2]:
 
 For machine- or AI-indexed versions of these entries, use the correct-and-verify loop in the AI-for-documentary-records recipe.
 
+Read the Spanish handwriting from the image; use an online translation only for a first understanding [S38 @2026-11-12]. To check a letter form, abbreviation or set phrase, use the free Spanish tutorial of the BYU Script Tutorial (script.byu.edu) [S38 @2026-11-12]. It has handwritten alphabet charts in upper and lower case, a handwriting history, common phrases, common abbreviations, numbers, Spanish names, a genealogical glossary, guides to church, civil and notarial records, and interactive baptism exercises in vocabulary and transcription [S37 @2026-11-12].
+
 ## 3. Search both name forms and every surname arrangement
 
 - **Devotional prefix.** Priests often added a leading José, Juan or María at baptism, and the person usually dropped it in daily life [S5], [S4], [S11]. Examples: a baptismal José Miguel who is plain Miguel in the census [S11], and an everyday Pablo who was baptized José Pablo [S4]. Search censuses and civil records under the everyday name and baptismal entries under the prefixed form. Keep both forms as separate observations in the name register.

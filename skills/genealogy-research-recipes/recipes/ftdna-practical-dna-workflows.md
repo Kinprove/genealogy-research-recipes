@@ -157,7 +157,9 @@ A kit transferred from another company holds only that company's data file. No D
 upload, so the upload gives FamilyTreeDNA no sample [S30 @2026-11-12]. For a transfer customer who
 has never submitted a sample to FamilyTreeDNA, the Family Finder NGS upgrade is the first time
 FamilyTreeDNA sequences that person's DNA, and a collection kit is mailed after the order
-[S12 @2026-11-12]. The Autosomal Unlock has been retired [S46 @2026-11-12], [S31 @2026-11-12].
+[S12 @2026-11-12].
+
+The Autosomal Unlock has been retired [S46 @2026-11-12], [S31 @2026-11-12].
 A transfer that was never unlocked has its matches and the Family Finder Matrix [S12 @2026-11-12]
 but no Chromosome Browser, Chromosome Painter, myOrigins or ancientOrigins [S31 @2026-11-12],
 [S46 @2026-11-12]. A missing Chromosome Browser there reflects the lock, not missing data, and
@@ -280,12 +282,12 @@ Preserve the provider's assignments exactly, including unassigned rows, in each 
 
 To work one grandparent's line, do not filter to that parent's bucket. A match is bucketed only
 when it shares a segment with a linked relative on that side, and some matches stay unassigned
-even with close relatives linked [S41]. If neither that parent nor any relative from that
+even with close relatives linked [S41 @2026-11-12]. If neither that parent nor any relative from that
 grandparent's line is linked, many of the line's matches sit in the unassigned rows. Work that
 side's bucket and the unassigned matches together, and set aside only the opposite side's bucket
-[S42]. Keep any match from that bucket that also has a documented or plausible path through the
+[S42 @2026-11-12]. Keep any match from that bucket that also has a documented or plausible path through the
 target grandparent: a match related through both parents sits in one side's bucket when only that
-side has a qualifying linked relative [S41].
+side has a qualifying linked relative [S41 @2026-11-12].
 
 **Artifact:** before-link and later dated exports, bucket counts and a `links_as_of` note.
 **Stop when** each new anchor is confirmed on its match row, checked against H4's supported

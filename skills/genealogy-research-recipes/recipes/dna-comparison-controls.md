@@ -155,8 +155,8 @@ motivate this step. Neither shows which value is correct or establishes the caus
 Before reading a new parent- or sibling-level match as a newly found relative, rule out the
 tester's own second test or upload. Estes reports one tester who took herself for a parent after
 uploading another company's file and forgetting an earlier test, and another who took one
-person's uploads from two companies for two sisters [H32]. GEDmatch flags a re-upload of identical
-DNA as a duplicate but accepts one person's kits from different companies [H33]. A self-match
+person's uploads from two companies for two sisters [H32 @2026-11-12]. GEDmatch flags a re-upload of identical
+DNA as a duplicate but accepts one person's kits from different companies [H33 @2026-11-12]. A self-match
 can show a parent-sized total; identity state separates them, because a self-match or an
 identical twin is fully identical almost throughout, while a parent is half-identical. Compare
 names, kit managers and kit histories before recording a relationship.

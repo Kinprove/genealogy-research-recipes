@@ -152,6 +152,10 @@ Many smaller places had no parish of their own. One presenter estimates that the
   - Behlendorf's books on Archion start in 1761, but a participant pointed to copies of the Nusse books for 1614/1618–1760 in the Lübeck city archive. [S33]
   - Build a table of custodian, register type, years and serving parish. If every church copy has a gap, turn to the civil registers (the Standesamt step in section 4). [S34]
 
+**Brandenburg and Berlin: also search the Brandenburg-Datenbank** (db-brandenburg.de), a volunteer database of transcribed sources [S76 @2026-11-12]. Its categories include church books, civil registers, address books, cemeteries and graves, war memorials including the fallen, genealogical evaluations (OFB), and Familienstammbücher und Ahnenpässe. Civil registers are added office by office and year by year, each marked as a name index (*Namensindex*) or a full transcription (*Vollabschrift*), for example "Standesamt Berlin 10b (B) Geburten 1904 (Namensindex)" [S74 @2026-11-12]. The Metasuche searches only the databases you select, also matches birth names, and does not yet cover every database [S75 @2026-11-12].
+
+Record the databases, offices and years you searched and the form each was in. A name-index hit leads you to the register entry; it is not the entry. A miss counts only for the offices and years the database holds.
+
 ## 7. Classify the register version behind every image
 
 - **Name the version for each image:**

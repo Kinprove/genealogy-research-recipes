@@ -143,6 +143,14 @@ Related recipes cover overlapping steps. For index hits that are not proof a fil
   - Entries often give place of origin, prior schooling and the supervising professor. Check each dissertation against the *Jahresverzeichnis der Deutschen Hochschulschriften*. [S22]
 - Use the higher-school route to find the school too. Entry to a university required a gymnasium certificate, earned either by study or as an external candidate. [S1], [S4]
 
+**Königsberg, Danzig, Elbing and Thorn, from 1544.** Do not look for printed dissertations only at universities: the academic gymnasia of Danzig, Elbing and Thorn printed them too. Search the databases of the Arbeitsstelle für kulturwissenschaftliche Forschungen (AKF) in Engi, which CompGen describes as freely accessible [S26 @2026-11-12], [S30 @2026-11-12]. The Danzig, Elbing and Thorn database holds 711 records [S28 @2026-11-12] and the Königsberg student database 24,822 [S29 @2026-11-12]. Search them this way:
+
+- *Königsberger Universitätsschriften und Promotionen 1544 bis 1905*: search by respondent or doctoral candidate, praeses, title, date, faculty, printer and holding library [S27 @2026-11-12].
+- *Dissertationen des Akademischen Gymnasiums Danzig, des Gymnasiums Elbing und Thorner Gymnasiums*: browse by document, person, role, school, faculty and city [S28 @2026-11-12].
+- *Königsberger Studenten von 1829 bis 1921*: search by name, given name, place of origin, semester and faculty or subject [S29 @2026-11-12].
+
+Record each person's role in a hit. The respondent or candidate is the student; the praeses presided over the disputation. A dissertation can name the student's home town: CompGen's report on these databases shows a 1710 Danzig dissertation by a student from Belgard in Pomerania [S30].
+
 ## 6. Read the full original list, not a filtered extract
 
 - A confession-filtered extract misses people. Published Kharkiv University student lists give course, confession, admission date, estate, means of support and previous school. A participant warned that obviously Jewish names appear there with Orthodox or Lutheran confession. If a relative is known to have attended but is missing from an extract, read the original list. [S5]

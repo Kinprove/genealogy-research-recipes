@@ -154,6 +154,53 @@
   fetched 2026-11-08 and refused with HTTP 403, so no content was read. Used for: the refused
   automated access only; nothing about the catalogue's holdings or search fields is taken from it.
 
+### Sources added 2026-11-12
+
+- **S20:** Vera Miller, Lost Russian & Ukrainian Family,
+  [Top tips for researching Ukrainian and Russian immigrants on Canada's free national archives portal](https://lostrussianfamily.wordpress.com/2025/11/15/top-tips-for-researching-ukrainian-and-russian-immigrants-on-canadas-free-national-archives-portal/),
+  published 2025-11-15, read 2026-11-12. Used for: combining `*` and `?` in names, searching a rare
+  given name with the surname's initial and `*`, and searching anglicized given names. Her example
+  pairs Michael/Mikhail and Nastia/Anastasia are not used; Nastia is a diminutive, not an English form.
+- **S21:** Vera Miller, Lost Russian & Ukrainian Family,
+  [Free U.S. Database Searches the Text of 1.1 Million Russian Newspaper Pages](https://lostrussianfamily.wordpress.com/2025/12/13/free-u-s-database-searches-the-text-of-1-1-million-russian-newspaper-pages/),
+  published 2025-12-13, read 2026-11-12. Used for: searching in Russian and in the local language,
+  and results in Russian for English queries. Her span of 1911–2010, the count of 94 Harbin and
+  Shanghai titles and the registration step for PDF downloads are not used; H23 gives the scope and
+  says no registration is required.
+- **S22:** Vera Miller, Lost Russian & Ukrainian Family,
+  [Scanned records and a database offer hard-to-find information on Russian immigrants](https://lostrussianfamily.wordpress.com/2025/06/14/scanned-records-and-a-database-offer-hard-to-find-information-on-russian-immigrants/),
+  published 2025-06-14, read 2026-11-12. Used for: China Families searching by name only, and
+  searching by given name when the surname spelling varies.
+- **H19:** Library and Archives Canada,
+  [Using Collection Search](https://www.canada.ca/en/library-archives/collection/basics/using-collection-search.html),
+  read 2026-11-12. Used for: `*` at the start or end of a word and `?` for one unknown letter.
+- **H20:** Library and Archives Canada,
+  [Ukrainian immigrants, 1891 to 1930](https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/ukrainian-immigrants-1891-1930.html),
+  read 2026-11-12. Used for: 14,793 names, the passenger lists for Canadian and American ports and
+  Kaye's notes and dictionaries as sources, surname variations and some alternate names in the
+  index, and entries left in the language of the original documents.
+- **H21:** Wikipedia, [Wasyl Kushnir](https://en.wikipedia.org/wiki/Wasyl_Kushnir), read 2026-11-12.
+  Used for: the name form Wasyl "Basil" Kushnir, born in Austrian Galicia, a Canadian citizen.
+- **H22:** Internet Encyclopedia of Ukraine,
+  [Galan, Volodymyr](https://www.encyclopediaofukraine.com/pages%5CG%5CA%5CGalanVolodymyr.htm),
+  read 2026-11-12. Used for: the heading "Galan, Volodymyr or Gallan, Walter", born in Galicia in
+  1893, died in Philadelphia in 1978.
+- **H23:** Hoover Institution Library & Archives,
+  [Russia Abroad Digital Collection surpasses one million pages digitized in first year](https://www.hoover.org/russia-abroad-digital-collection-surpasses-one-million-pages-digitized-first-year),
+  published 2025-11-18, read 2026-11-12. Used for: Russian-language newspapers published outside the
+  Soviet Union between 1917 and 1992, 584 titles from 96 cities in 35 countries with full OCR search,
+  and free access with no subscription or registration. The collection site itself refused
+  automated access (HTTP 403).
+- **H24:** China Families, [About](https://www.chinafamilies.net/?p=7), read 2026-11-12. Used for:
+  about 60,000 names of people who lived, worked or died in China between the 1850s and 1940s,
+  and the direction of the platform by Robert Bickers at the University of Bristol.
+- **H25:** China Families, [home page](https://www.chinafamilies.net/), read 2026-11-12. Used for:
+  the source types (government department lists, legal and diplomatic records, cemetery lists) and
+  the statement that the site is still under development. It does not say how many Russians the
+  lists include.
+
 ## Credits
 
+- Vera Miller, Lost Russian & Ukrainian Family, posts of 2025-06-14, 2025-11-15 and 2025-12-13, cited as S20–S22 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Library and Archives Canada, Hoover Institution, China Families, Wikipedia and the Internet Encyclopedia of Ukraine pages, cited as H19–H25 — Facts paraphrased with attribution (adapted)
 - Kinprove — original procedural distillation; practitioner methods and archive facts attributed to the sources listed in Sources — FSL-1.1-MIT (kinprove-original)

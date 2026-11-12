@@ -27,6 +27,15 @@
 
 The hospital-book request, extraction and episode-linking sequence is original procedural synthesis from S8. Its entries remain separate from a complete service history. S1–S7 supply forum participants' reports and worked examples. S9–S13 are archive, catalogue and vendor pages read on 2026-11-07; they supply the First World War custodians and series and the custody of the hospital books. Several key reports come from a single participant, including the loss of the Stammrollen, the Lyncker canton and the Militär-Wochenblatt description. S1 and S2 share participants, so they are not independent of each other. Thread links for S1, S2 and S4 are shortened to the thread number so that personal names stay out of the recipe.
 
+### Sources added 2026-11-12
+
+- **S15:** Michael Rose, CompGen Blog, [Wie öffentliche Genealogie-Daten der Wissenschaft helfen: NSDAP-Stimmenanteile](https://www.compgen.de/2023/06/wie-oeffentliche-genealogie-daten-der-wissenschaft-helfen-nsdap-stimmenanteile/), published 2023-06-17, read 2026-11-12. Used for: a study's use of machine learning to merge possible repeat entries for the same person in the Verlustlisten data. The post's statement that casualty status is now available for all entries is not used; only sampled records were checked.
+- **S16:** CompGen, [Erfassung der Verlustlisten des 1. Weltkrieges abgeschlossen](https://compgen.de/?p=2687), published 2014-08-14, read 2026-11-12. Used for: over 8.5 million entries entered by volunteers, with name and birthplace, searchable in the DES index.
+- **S17:** CompGen DES, [Verlustlisten 1. Weltkrieg search page](https://des.genealogy.net/eingabe-verlustlisten/search/index), read 2026-11-12. Used for: the free name search and its result columns (list, regiment, status, date, page).
+- **S18:** CompGen DES, [index record on page 15705 of the Verlustlisten](https://des.genealogy.net/search/show/4906350), read 2026-11-12. Used for: an entry from list "Preußen 665" with regiment, status *gefangen*, the remark *Berichtigung früherer Angaben* and a link to the page scan.
+- **S19:** CompGen DES, [index record on page 30550 of the Verlustlisten](https://des.genealogy.net/search/show/6734997), read 2026-11-12. Used for: an entry from list "Bayern 427" with regiment, status and list date. Only these two records were sampled, so the recipe does not say how many entries carry a status.
+- **S20:** CompGen, [Newsletter 2017-01](https://www.compgen.de/2017/01/newsletter-2017-01/), read 2026-11-12. Used for: the regiment assigned to each person in the Verlustlisten index where the lists gave it, regiment details given from the start of the war into 1916 and then dropped until the end of the war.
+
 ## Credits
 
 - Ahnenforschung.net Forum, thread on locating the death of a retired Prussian army captain — Forum post content, rights held by post authors; short term quotations only (adapted)
@@ -36,5 +45,7 @@ The hospital-book request, extraction and episode-linking sequence is original p
 - Ahnenforschung.net Forum, chance-finds thread with a published regimental marriage register extract — Forum post content, rights held by post authors; short term quotation only (quoted)
 - Ahnenforschung.net Forum, Berlin chance-finds thread with garrison church book and muster-roll extracts — Forum post content, rights held by post authors (adapted)
 - Ahnenforschung.net Forum, book-request discussion thread — Forum post content, rights held by post authors (adapted)
+- Michael Rose, CompGen Blog, Wie öffentliche Genealogie-Daten der Wissenschaft helfen: NSDAP-Stimmenanteile, 2023-06-17, cited as S15 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- CompGen (Verein für Computergenealogie e.V.), Verlustlisten project page and DES index records, cited as S16–S20 — Facts paraphrased with attribution; no records reproduced (adapted)
 - Kinprove original procedural synthesis; forum threads cited as S1–S7 supply worked examples; First World War custodians, series and hospital-book custody from the archive and vendor pages S9–S13, paraphrased — FSL-1.1-MIT (kinprove-original)
 - Kinprove original hospital-book retrieval and episode-linking synthesis, using the attributed presentation S8; no reproduced transcript passages, images or tables, and no claim to the presentation’s rights — FSL-1.1-MIT (kinprove-original)

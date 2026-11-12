@@ -24,8 +24,16 @@ local alias usage and retain unresolved maiden/prior-married names prevents thos
 from becoming a general U.S. naming rule. Legitimation and adoption are separate legal-record
 routes; neither a later surname nor a foster placement establishes their occurrence.
 
+### Sources added 2026-11-12
+
+- **S17:** California Department of Social Services, [Adoptee Background Information](https://www.cdss.ca.gov/adoption-services/adoptee-information/adoptee-background), read 2026-11-12. Used for: background information with general facts about the birth parents and their medical history, provided by the licensed agency or the Department for adoptions finalized in California, and the routing of a request when the agency is unknown.
+- **S18:** Washington Administrative Code, [WAC 110-60-0190](https://lawfilesext.leg.wa.gov/law/WAC/WAC%20110%20%20TITLE/WAC%20110%20-%2060%20%20CHAPTER/WAC%20110%20-%2060%20-0190.htm), read 2026-11-12. Used for: the contents of the non-identifying report on the birth parents that the department or a child-placing agency must give prospective adoptive parents. It is a current rule and does not show what older files contain.
+- **S19:** MyHeritage Education, [The Definitive Guide to Adoptee Genealogical Research: Strategies, Records, and Genetic Discoveries](https://education.myheritage.com/article/the-definitive-guide-to-adoptee-genealogical-research-strategies-records-and-genetic-discoveries/), published 2026-07-07, read 2026-11-12. Used for: agency files holding more than the final legal paperwork. Its statements that agency files include social-worker reports and correspondence, and that older decrees can name the birth mother or the original jurisdiction, were not confirmed elsewhere and are not used.
+
 ## Credits
 
+- MyHeritage Education, The Definitive Guide to Adoptee Genealogical Research, 2026-07-07, cited as S19 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- California Department of Social Services page and Washington Administrative Code rule, cited as S17–S18 — Official information paraphrased with attribution (adapted)
 - Lisa Lisson, Tracing Ancestors Born Out of Wedlock, video, 2020-07-03 — Third-party content, all rights reserved by the rights holder; brief attributed adaptation (adapted)
 - BYU Family History Library, Jerroleen Sorensen, Adoption and Illegitimacy Research in the UK, video, 2025-08-12 — Third-party content, all rights reserved by the rights holder; brief attributed adaptation (adapted)
 - ArkivDigital, Föreläsning den 11 mars - ArkivDigital, mer än bara kyrkböcker, video, 2026-03-13 — Third-party content, all rights reserved by the rights holder; brief attributed adaptation (adapted)

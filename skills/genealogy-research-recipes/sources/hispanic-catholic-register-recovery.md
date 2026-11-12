@@ -97,6 +97,13 @@ No Catalog structure, diocesan holding or current FamilySearch behaviour is asse
 attributed descriptions and the dated checks recorded in the entries above. Documentation checks
 do not establish the contents or availability of an individual register.
 
+### Sources added 2026-11-12
+
+- **S37:** BYU Script Tutorial, [Spanish: Alphabet Charts](https://script.byu.edu/spanish-handwriting/alphabet/alphabet-charts), read 2026-11-12. Used for: the handwritten letter charts and the tutorial's menu of techniques and tools (common phrases, abbreviations, numbers, names, genealogical glossary), document guides and interactive baptism exercises. The page states no terms of use or login.
+- **S38:** Michelle Mickelson, Family Locket, [Southwestern United States Research: Key Records and Repositories Part 5 – Native American and Spanish Language Resources](https://familylocket.com/southwestern-united-states-research-key-records-and-repositories-part-5-native-american-and-spanish-language-resources/), published 2024-03-15, read 2026-11-12. Used for: online translation tools for a preliminary understanding only, and the BYU Script Tutorial as a free online resource with Spanish paleography tutorials.
+
 ## Credits
 
+- Michelle Mickelson, Family Locket, Southwestern United States Research: Key Records and Repositories Part 5, 2024-03-15, cited as S38 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- BYU Script Tutorial, Spanish alphabet charts page, cited as S37 — Tutorial contents named with attribution; nothing reproduced (adapted)
 - Kinprove original procedural synthesis; record behaviours and examples paraphrased from recorded BYU Family History Library, Family History Fanatics and JewishGen talks and from Legacy Tree Genealogists and Vita Brevis (NEHGS) blog posts, cited as S1 to S22, with selected facts checked against FamilySearch Wiki, collection and Catalog pages; Buenos Aires registry, gazette, casta, Cuban and Argentine civil-registration and colonial register-book facts cited to the official, archival and scholarly sources S23 to S33, with the Mexican, Chilean and Puerto Rican start-date checks in FamilySearch sources S34 to S36 — FSL-1.1-MIT (kinprove-original)

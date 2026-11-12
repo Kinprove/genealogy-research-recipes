@@ -49,7 +49,14 @@ the order of the notarial routes is authored.
 Notre-Dame de Montréal register; and which copy, parish or court, the Drouin films show for a
 given parish.
 
+### Sources added 2026-11-12
+
+- **S8:** Roberta Estes, DNAeXplained, [Honoré Lore or Lord's 1818 Estate Inventory Provides a Window Into His Life](https://dna-explained.com/2024/01/07/honore-lore-or-lords-1818-estate-inventory-provides-a-window-into-his-life/), published 2024-01-07, read 2026-11-12. Used for: the Saint-Luc inventory of September 1818 appraised "aux livres et Sols ancien cours", its transcription's value column (48 sols as 2£ 8s), and the Google Translate renderings of the heading and of livres as pounds.
+- **S9:** Vermont Genealogy Library (VT French-Canadian Genealogical Society), [The Value of French Currency in the 17th & 18th Centuries](https://vtgenlib.org/general/quebecResearchInfo/french_money.php), read 2026-11-12. Used for: 12 deniers to the sol and 20 sols to the livre. The page covers New France and does not discuss the old currency after 1760; that the 1818 act still counted in livres and sols comes from the act itself (S8).
+
 ## Credits
 
+- Roberta Estes, DNAeXplained, Honoré Lore or Lord's 1818 Estate Inventory, 2024-01-07, cited as S8 — Third-party content, all rights reserved by the rights holder; short quotations of the inventory wording with attribution (quoted)
+- Vermont Genealogy Library page on French currency, cited as S9 — Facts paraphrased with attribution (adapted)
 - Maureen Brady, The Québecois – French-Canadian Research (BYU Family History Library, 2024); same wording in Family History Research in Illinois and Wisconsin (S2) — Source video license (YouTube standard; all rights reserved by publisher) — two-word quotation for attribution and correction (quoted)
 - Kinprove original procedural synthesis; presenter teaching observations cited as S1 and S2 (Maureen Brady, BYU Family History Library webinars); register dates, Notre-Dame de Montréal correction and judicial tutelle series checked against the Diocese of Belleville archives, the FamilySearch Catalog, the BAnQ tutelles and curatelles database and the FamilySearch Québec Judicial District guardianships collection — FSL-1.1-MIT (kinprove-original)

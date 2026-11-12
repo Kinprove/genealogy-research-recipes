@@ -112,6 +112,14 @@ Not verified, and attributed in the text:
 
 The cited sources did not cover several points in this topic, and the recipe therefore gives no rules for them: movable-feast and saint's-day date conversion, archaic month names, divorce and funeral-sermon notes, "stillborn" usage, names inferred from sponsors, identical sibling names, daughter-church copies, and surname-distribution maps.
 
+### Sources added 2026-11-12
+
+- **S74:** Brandenburg-Datenbank, [home page and database list](https://www.db-brandenburg.de/), read 2026-11-12. Used for: the database categories, the office-and-year civil-register entries marked *Namensindex* or *Vollabschrift*, and the news post of 31 October 2026. The page does not say whether every register is complete.
+- **S75:** Brandenburg-Datenbank, [Metasuche](https://db-brandenburg.de/?page_id=1244), read 2026-11-12. Used for: searching only the selected databases, birth-name matching, and the note that not all databases are available for the search yet.
+- **S76:** CompGen Blog, [Brandenburg-Datenbank mit neuen Einträgen](https://www.compgen.de/2022/02/44617/), published 2022-02-12, read 2026-11-12. Used for: the site as a volunteer database of source transcriptions and abstracts (Ortsfamilienbücher, church books, civil registers, address books), in the maintainer's 2022 summary of new entries.
+
 ## Credits
 
+- CompGen Blog, Brandenburg-Datenbank mit neuen Einträgen, 2022-02-12, cited as S76 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Brandenburg-Datenbank home page and Metasuche, cited as S74–S75 — Facts paraphrased with attribution; one register label quoted (adapted)
 - Kinprove original procedural structure and synthesis; techniques and worked examples are restated from community lectures, Ahnenforschung.net forum threads, the Auprès de nos Racines article and Julie Roberts Szczepankiewicz's From Shepherds and Shoemakers article cited as S1–S40 and S43. Official portal descriptions S41–S42, the archive instruction page S44 and the Archion collection page S45 are cited for metadata-discovery and access checks — FSL-1.1-MIT (kinprove-original)

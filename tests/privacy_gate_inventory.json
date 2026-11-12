@@ -1014,6 +1014,12 @@
   "checkpoint": "An adoption-record request can disclose the adoptee's and birth or adoptive relatives' identities and sensitive parentage."
  },
  {
+  "recipe": "illegitimacy-record-recovery.md",
+  "kind": "request",
+  "action": "For an agency adoption, request the agency's background (non-identifying) information as its own request",
+  "checkpoint": "An adoption-record request can disclose the adoptee's and birth or adoptive relatives' identities and sensitive parentage."
+ },
+ {
   "recipe": "institutional-patient-record-recovery.md",
   "kind": "request",
   "action": "group your requester is in before you go to court.",

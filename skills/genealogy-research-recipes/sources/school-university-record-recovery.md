@@ -39,8 +39,18 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - The ЦИАМ 459.14.61 signature was the indexer's guess.
 - Fees, email routes and website addresses for the Kyiv, Odessa, Tartu and Tomsk archives may have changed.
 
+### Sources added 2026-11-12
+
+- **S26:** Arbeitsstelle für kulturwissenschaftliche Forschungen (AKF), Engi, [home page](https://www.forschungen-engi.ch/), read 2026-11-12. Used for: the AKF as a private institution led by Hanspeter Marti, and its three databases on Königsberg, Danzig, Elbing and Thorn.
+- **S27:** AKF, [Königsberger Universitätsschriften und Promotionen 1544 bis 1905](https://www.forschungen-engi.ch/datenbanken/koenigsberger-universitaetsschriften-und-promotionen-1544-bis-1905), read 2026-11-12. Used for: the search fields, including respondent or doctoral candidate, praeses, faculty, printer and library. No login was required.
+- **S28:** AKF, [Dissertationen des Akademischen Gymnasiums Danzig, des Gymnasiums Elbing und Thorner Gymnasiums](https://www.forschungen-engi.ch/datenbanken/dissertationen-des-akademischen-gymnasiums-danzig-des-elbingischen-und-thorner-gymnasiums), read 2026-11-12. Used for: 711 records and the browse tabs for documents, persons, roles, schools, faculties and cities.
+- **S29:** AKF, [Königsberger Studenten von 1829 bis 1921](https://www.forschungen-engi.ch/datenbanken/koenigsberger-studenten-von-1829-bis-1921), read 2026-11-12. Used for: 24,822 records and the search by name, given name, place of origin, semester and faculty or subject.
+- **S30:** Günter Junkers, CompGen Blog, [Datenbanken zu Königsberger Studenten und Dissertationen](https://www.compgen.de/2023/09/datenbanken-zu-koenigsberger-studenten-und-dissertationen/), published 2023-09-25, read 2026-11-12. Used for: the three databases described as freely accessible and the illustrated 1710 Danzig dissertation of a student from Belgard, Pomerania.
+
 ## Credits
 
+- Günter Junkers, CompGen Blog, Datenbanken zu Königsberger Studenten und Dissertationen, 2023-09-25, cited as S30 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Arbeitsstelle für kulturwissenschaftliche Forschungen (AKF), Engi, database pages cited as S26–S29 — Database titles and search fields named with attribution; no records reproduced (adapted)
 - J-Roots Forum, beginners' trial-post thread on family stories — Forum terms of use; factual locators paraphrased with attribution (adapted)
 - J-Roots Forum, thread on the St Petersburg Petrischule — Forum terms of use; paraphrased with attribution (adapted)
 - J-Roots Forum, thread on mining-technical education — Forum terms of use; paraphrased with attribution (adapted)
