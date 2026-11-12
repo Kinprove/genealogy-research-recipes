@@ -198,6 +198,15 @@ state. It does not set any threshold for how much fully identical material a rel
 requires. Send the recorded regions to `ai-for-dna-research.md` (its fully-identical-regions step) for the
 relationship assessment.
 
+To see identity state at GEDmatch, use One-to-One with graphics. Practitioner guides describe its
+green bars as DNA identical on both copies of the chromosome and yellow bars as identical on one
+copy [S21], [S22]. Estes (2023) names GEDmatch and 23andMe as the services that show it, not
+FamilyTreeDNA, MyHeritage or AncestryDNA; a 2019 overview likewise names only 23andMe and GEDmatch
+[S21], [S23]. For a pair tested at those other companies, the GEDmatch graphic is therefore the
+view to use. Long green runs point to DNA shared through both parents, but small scattered green
+spots also occur between half siblings: a few green spots are not evidence of full siblingship
+[S21], [S22].
+
 Where a match list reports an overlap figure, record it per row with each kit's testing source and
 version. Overlap describes which positions both kits were assayed at, not shared ancestry. Keep a
 missing or NA overlap value as unexplained, not as zero overlap or as evidence of no
