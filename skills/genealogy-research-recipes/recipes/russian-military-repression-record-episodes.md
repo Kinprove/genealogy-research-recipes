@@ -85,6 +85,34 @@ or place and no surname, then filter locally. Flag hits on commonly confused nam
 identity check. Use the same tactics on GWAR or memory books only after reading their own search
 help. [H24]
 
+Search Pamyat Naroda (pamyat-naroda.ru) in Russian. In FamilySearch's example, «Иванов» returned
+over 950,000 results and "Ivanov" none. [H75] Do not treat it as a loss and award database only:
+it also holds conscription and demobilisation records from enlistment offices, navy and officer
+card files, burial details and loss and POW documents [H76], and Vera Miller reports added card
+indexes of partisan-movement participants, seamen's card files, burial lists and funeral notices
+(2023) and injury records (2025). [H78], [H79] When name searches fail, run a place-of-birth sweep
+with the name fields empty and filter the results locally, as for OBD Memorial above. Enter the
+raion or oblast rather than the village, because the search handles place names poorly [H77], and
+expect the village to be spelled several ways and placed under more than one raion. [H79] New
+documents are loaded periodically, so repeat a failed search after an update. [H77] Search women
+and people who were teenagers during the war as well, as Miller advises. [H80]
+
+For a partisan in Belarus, search the portal «Партизаны Беларуси» (partizany.by), a project of the
+publishing house Belarus Segodnya and the National Archive of the Republic of Belarus. [H81 @2026-11-12] Its
+cards come from the personnel documents of the Belarusian Staff of the Partisan Movement (National
+Archive fond 1450), starting with award documents. Each card gives basic biographical data with
+attached copies of the documents, and the search covers name, nationality, birth year, birthplace,
+brigade, detachment, position and awards. No registration is needed. Cards existed for more than
+185,000 partisans in January 2022 and the base is still being filled [H82 @2026-11-12], so a miss is not a
+negative; Vera Miller described it in 2023. [H83 @2026-11-12]
+
+For a soldier or civilian named in the wartime press, search «Страницы Победы» in Yandex's
+«Поиск по архивам»: more than 200,000 pages of central, regional, front-line and partisan
+newspapers of 1941–1945 from the National Electronic Library, the Russian State Library and other
+libraries and archives. [H84], [H85] Search in Russian, across the whole collection and one paper
+at a time. [H86] The text was recognised by neural networks [H84], so try the spelling variants of
+the name and place, and treat a miss as no recognised hit, not as absence from the papers.
+
 For a Red Army serviceman who may have died in German captivity, also search the Soviet
 prisoner-of-war index of the Dokumentationsstelle Dresden (Stiftung Sächsische Gedenkstätten). Its
 entries show surname, first name, father's name, dates of birth and death, place of birth,
@@ -121,6 +149,14 @@ by republic and region, give the kinds of surviving documents and the archive ho
 text, as reproduced on tkrfkod.ru, carries amendments of 1 January 1997, so confirm each holder's
 present name and custody. [H65 @2026-11-08]
 
+For a Ukrainian who was deported to forced labour or lived under German occupation, search
+FamilySearch's «Ukraine, Soviet Population Filtration Records, 1943-1991». The filtration files on
+returning Soviet citizens hold biographical details, family relations, oral testimonies, affidavits
+and photographs, written in Ukrainian. On 12 November 2026 the collection had 271,153 records from
+the Poltava, Kyiv, Khmelnytskyi and Kropyvnytskyi regional archives, with files from other archives
+still to be added. [H87 @2026-11-12] For a person from another region, a miss there is a coverage
+gap, not a negative [H88 @2026-11-12]; ask that region's state archive.
+
 For a repression lead, record each list's or database's stated inclusion rule and geography
 before reading a miss. Posters in a [repression-databases discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=558)
 note that a Magadan list covers only people given a second sentence in the camps and shot there,
@@ -133,6 +169,17 @@ reports that one project's online database and printed volumes differ, and that 
 predate many file transfers, so they do not identify the present custodian. Search the trial
 republic's database and volumes, recording each result separately. A miss is absence from that set
 only; these posts describe past coverage without measuring it.
+
+For Soviet Ukraine, the trial republic's own database is the State Archival Service's «Український
+мартиролог ХХ століття» (Ukrainian Martyrology of the 20th Century), on the Service's portal. It
+covers victims of political repression of the 1920s–1950s. A card gives a photograph where one
+exists, the name with a short note of occupation, life dates, rehabilitation details and the archive
+that holds the investigation file; the sources are the central and oblast state archives and the
+sectoral archives of the SBU and the interior ministry. [H89] It is a card index, not a set of
+scanned files: request the file from the archive the card names. It is filled archive by archive,
+from almost 57,000 people at its launch in November 2020 [H89] to 111,731 after an April 2023
+addition from the Zhytomyr, Poltava, Sumy and Cherkasy oblast archives [H90], so a miss is absence
+from the cards loaded so far. Vera Miller pointed to it in 2023. [H91], [H92]
 
 A family memory that a relative 'was imprisoned under Stalin' is a lead to a conviction, not
 evidence of a political case. The sentence could rest on a decree outside the political articles,
@@ -177,6 +224,25 @@ with kinship and ages. A card can name other household members by their relation
 so record whose card it is and the target's role on it before attaching a hit. Memsearch aggregates Memorial and other
 memory-project databases, regional ones included; record which source database each hit came
 from. [H38], [H39], [H40]
+
+Last Address (Последний адрес, poslednyadres.ru) records give the residence, occupation and the
+dates of arrest, execution and rehabilitation. Its search, by surname, given name, birth year,
+city, street and house, covers only records of people sentenced to death, about 400,000 of more than
+3,000,000 entries in its source databases, and many records have no residence. Its lists by name
+and by address cover only the plaques actually installed. [H93 @2026-11-12] So a
+miss there says nothing about a person who was imprisoned or exiled rather than shot. Vera Miller
+recommends it for last addresses, jobs and education. [H94 @2026-11-12]
+
+Бессмертный барак (bessmertnybarak.com) covers people repressed by the state from October 1917 to
+1991, about 2.86 million names, and its «Книги памяти» section lists memory books for Russia,
+Ukraine, Belarus, Kazakhstan, Poland, Finland, Latvia, Lithuania, Moldova, Crimea and the
+Solovetsky Islands, with echelon lists and the Stalin execution lists. Users add photos, documents
+and stories; the site says its materials come from various sources, often family memories, and
+calls itself a test version. [H95 @2026-11-12], [H96 @2026-11-12] Vera Miller describes victim
+pages that can give birthplace, residence, arrest date, charge and sentence, rehabilitation date
+and the source of the information. [H97 @2026-11-12] Record the source each page names. A page
+copied from a memory book or another database is that source reached again, and a page without a
+named source is a family account to verify.
 
 **Privacy gate:** <!-- privacy-gate: request --> A query through IPN's form sends details of a
 repressed person and the asking family, who may be living; answer the privacy gate in `SKILL.md`

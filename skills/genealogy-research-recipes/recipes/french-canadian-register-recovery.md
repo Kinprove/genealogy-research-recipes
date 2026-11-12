@@ -179,6 +179,14 @@ date/number if shown, and whether you actually inspected the act or only saw a r
 notary chosen because he worked in the town gives you a place to browse; it does not tell you the
 family used him.
 
+Before you read any sum in an inventaire après décès, find the act's own statement of the money
+of account. A September 1818 inventory from Saint-Luc says the goods were appraised "aux livres et
+sols ancien cours" (in livres and sols of the old currency), and its transcription writes an item
+priced at 48 sols as 2£ 8s [S8]. There £ and s mean livres and sols, not pounds sterling. Count
+20 sols to the livre and 12 deniers to the sol [S9]. Do not trust a machine translation of these
+amounts: Google Translate rendered the heading as "books and old course floors" and turned livres
+into pounds [S8]. Transcribe each sum as written, with its unit.
+
 ## Close with a register packet
 
 Return the following:

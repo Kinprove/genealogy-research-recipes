@@ -97,6 +97,10 @@ Most Prussian army files burned at Potsdam in 1945 [S9]. For a Prussian soldier,
 
 ## 4. First World War casualty lists and memorials: check for a namesake, then check the script
 
+Search the German casualty lists in CompGen's free name index of the *Deutsche Verlustlisten* 1914–1919 at des.genealogy.net. Volunteers entered over 8.5 million entries from the printed lists, recording the name and the birthplace [S16 @2026-11-12]. Search by name. Each result names the list it came from, for example "Preußen 665" or "Bayern 427", and gives the regiment, a status such as *gefangen* (captured), the list date and a link to the scanned page [S17 @2026-11-12], [S18 @2026-11-12], [S19 @2026-11-12]. Open the scan before you record the entry.
+
+Expect several entries for one man. A later list can print his name again under *Berichtigung früherer Angaben* (correction of earlier information) with a new status [S18]. The researchers of a study built on this index used machine learning to merge possible repeat entries for the same person, CompGen reports [S15]. Collect every entry under his name and place, and record each list number, date and status as a separate episode before you call him wounded, captured or fallen. Treat the place as a lead to the birth register, not as his birthplace.
+
 - When a casualty list or memorial gives a different given name from the man in the registers, search the local family book (OFB) **and** the register indexes around the stated birth year for any other man of that name before you split or merge the entries [S3]. In the thread:
   - The documented man had given name A and was born in 1893.
   - One list gave a different given name B, born 1893, killed 1916.
