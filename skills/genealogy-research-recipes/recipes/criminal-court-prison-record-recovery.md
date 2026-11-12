@@ -3,7 +3,7 @@ id: "criminal-court-prison-record-recovery"
 title: "Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes"
 summary: "From an arrest, prison or census-institution lead, find the court that tried the case and recover U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy searches."
 kind: "records"
-scope: {"platforms": [], "tasks": ["suspected arrest, trial or imprisonment", "Sing Sing name indexes"]}
+scope: {"platforms": [], "tasks": ["Sing Sing name indexes"]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "CRIMINAL-COURT-PRISON-RECORD-RECOVERY-01", "text": "Before choosing where to search for court files, establish which court tried the case and who holds the records now."}]

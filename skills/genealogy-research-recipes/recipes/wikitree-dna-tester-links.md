@@ -6,7 +6,7 @@ kind: "platform"
 scope: {"platforms": ["wikitree", "familytreedna"], "tasks": ["tester/kit crosswalks, external tree links, visibility settings, propagated DNA Connections or pedigree leads needing documentary follow-up."]}
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "WIKITREE-DNA-TESTER-LINKS-01", "text": "a reader can distinguish a registered test, a pedigree-derived display and a measured DNA observation without inferring one from another."}]
+guardrails: [{"id": "WIKITREE-DNA-TESTER-LINKS-01", "text": "Do not mark a relationship DNA-confirmed solely because a tester appears in a list or because the external tree link works."}]
 handoff: ["ai-for-dna-research"]
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"

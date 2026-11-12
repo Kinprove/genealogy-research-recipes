@@ -345,8 +345,8 @@ live control.
   GEDmatch link destination.
   *Use for:* tester/kit crosswalks, external tree links, visibility settings, propagated DNA
   Connections or pedigree leads needing documentary follow-up.
-  *Core guardrail:* a reader can distinguish a registered test, a pedigree-derived display and a
-  measured DNA observation without inferring one from another.
+  *Core guardrail:* Do not mark a relationship DNA-confirmed solely because a tester appears in a
+  list or because the external tree link works.
   *Dated source check:* 2026-10-07.
 
 - **`recipes/usa-immigration-search-recovery.md`** — Recover U.S. immigration and naturalization records.
@@ -954,7 +954,7 @@ live control.
   court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish
   sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy
   searches.
-  *Use for:* suspected arrest, trial or imprisonment; Sing Sing name indexes
+  *Use for:* Sing Sing name indexes
 
 - **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act and its petition.
   Recover a state legislative private act, such as a legitimation, name change, divorce or pension,
