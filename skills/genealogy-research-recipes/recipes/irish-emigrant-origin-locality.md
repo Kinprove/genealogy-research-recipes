@@ -3,11 +3,10 @@ id: "irish-emigrant-origin-locality"
 title: "Resolve an Irish emigrant's origin locality from a place statement"
 summary: "Resolve an Irish place named by an emigrant's records or family tradition to a searchable locality."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Resolve an Irish place named by an emigrant's records or family tradition to a searchable locality."]}
-triggers: ["Resolve an Irish place named by an emigrant's records", "family tradition to a searchable locality"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "IRISH-EMIGRANT-ORIGIN-LOCALITY-01", "text": "a named town is a lead of unknown administrative level, not the birthplace, and surname presence or a matching farm name does not prove origin."}]
+guardrails: [{"id": "IRISH-EMIGRANT-ORIGIN-LOCALITY-01", "text": "Do not record a townland as the origin on a place-name, surname-distribution or farm-name match alone. Submit the person-specific evidence that ties this person to the townland, from destination or Irish records, and leave the identity ruling to the researcher."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

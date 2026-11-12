@@ -3,11 +3,10 @@ id: "immigrant-congregation-origin-records"
 title: "Find an immigrant's hometown in U.S. congregation records"
 summary: "Find an immigrant's hometown in the registers of U.S. congregations chosen by language community, dates and address."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find an immigrant's hometown in the registers of U.S. congregations chosen by language community, dates and address."]}
-triggers: ["Find an immigrant's hometown in the registers of U.S. congregations chosen by language community", "dates and address"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "IMMIGRANT-CONGREGATION-ORIGIN-RECORDS-01", "text": "a miss at the nearest church or in an abstract's index is not absence, and one hometown statement is not proven identity."}]
+guardrails: [{"id": "IMMIGRANT-CONGREGATION-ORIGIN-RECORDS-01", "text": "One hometown statement in one entry is a lead. Before filing identity, correlate it with the rest of the family's evidence and with origin-side records."}]
 handoff: ["scandinavian-parish-record-recovery"]
 checked: null
 checked_basis: null

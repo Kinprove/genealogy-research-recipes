@@ -3,11 +3,10 @@ id: "family-papers-and-bible-register-dating"
 title: "Separate writing, mailing and event dates in family papers and Bible registers"
 summary: "Separate writing, mailing and event dates in letters, envelopes, address books, family Bible registers and inscribed books."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Separate writing, mailing and event dates in letters, envelopes, address books, family Bible registers and inscribed books."]}
-triggers: ["Separate writing", "mailing and event dates in letters", "envelopes", "address books", "family Bible registers and inscribed books"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "FAMILY-PAPERS-AND-BIBLE-REGISTER-DATING-01", "text": "a postmark or return address records a mailing or an address, not the event; assess each Bible entry's writing occasion, near the event or copied later, separately from its stated event date."}]
+guardrails: [{"id": "FAMILY-PAPERS-AND-BIBLE-REGISTER-DATING-01", "text": "A postmark dates the mailing. It is the latest possible date for the writing and for any event the text reports as already past, but it does not date those events: a birth, death, visit or move reported inside a card needs its own date [S1]."}]
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"

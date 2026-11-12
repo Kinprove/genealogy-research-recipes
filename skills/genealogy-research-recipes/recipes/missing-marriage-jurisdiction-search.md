@@ -3,11 +3,10 @@ id: "missing-marriage-jurisdiction-search"
 title: "Search candidate jurisdictions for a missing marriage"
 summary: "Replace a marriage missing from the couple's home county with a dated, ranked list of candidate jurisdictions."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Replace a marriage missing from the couple's home county with a dated, ranked list of candidate jurisdictions."]}
-triggers: ["Replace a marriage missing from the couple's home county with a dated", "ranked list of candidate jurisdictions"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "MISSING-MARRIAGE-JURISDICTION-SEARCH-01", "text": "one county miss is not a finished search; report a gap only after every ranked candidate is searched or recorded as unavailable."}]
+guardrails: [{"id": "MISSING-MARRIAGE-JURISDICTION-SEARCH-01", "text": "A verified original that resolves the marriage ends the search. Otherwise the search is not finished, and the gap is not reported, until every ranked candidate has been searched or recorded as unavailable."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"

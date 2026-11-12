@@ -3,11 +3,10 @@ id: "irish-probate-and-deed-recovery"
 title: "Recover an Irish will, grant or deed after the 1922 losses"
 summary: "Recover an Irish will, administration or deed after the 1922 losses through the surviving calendars, will books, indexes and the Registry of Deeds, north and south."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover an Irish will, administration or deed after the 1922 losses through the surviving calendars, will books, indexes and the Registry of Deeds, north and south."]}
-triggers: ["Recover an Irish will", "administration", "deed after the 1922 losses through the surviving calendars", "will books", "indexes and the Registry of Deeds", "north and south"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "IRISH-PROBATE-AND-DEED-RECOVERY-01", "text": "a calendar entry is neither the will nor proof that it survives, and a Registry of Deeds nil does not show that no land or transaction existed."}]
+guardrails: [{"id": "IRISH-PROBATE-AND-DEED-RECOVERY-01", "text": "**Do not read an entry as proof that the will survives.** The entry records the grant, not the document's survival; check the copy lanes in step 3."}]
 handoff: ["city-directory-observation-workflow", "deed-content-relationship-clues", "evidence-proof-judgment", "historical-place-name-resolution", "irish-emigrant-origin-locality", "irish-land-valuation-occupancy-series", "land-index-book-series-recovery", "probate-case-document-inventory"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

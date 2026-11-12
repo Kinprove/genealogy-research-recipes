@@ -3,11 +3,10 @@ id: "ethnicity-estimate-version-comparison"
 title: "Save, date and compare successive ethnicity-estimate versions"
 summary: "Save, date and compare successive ethnicity-estimate versions (AncestryDNA, MyHeritage, FamilyTreeDNA)."
 kind: "judgment"
-scope: {"platforms": [], "tasks": ["Save, date and compare successive ethnicity-estimate versions (AncestryDNA, MyHeritage, FamilyTreeDNA)."]}
-triggers: ["Save", "date and compare successive ethnicity-estimate versions (AncestryDNA", "MyHeritage", "FamilyTreeDNA)"]
+scope: {"platforms": [], "tasks": []}
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "ETHNICITY-ESTIMATE-VERSION-COMPARISON-01", "text": "write down the method change before reading any number; compare a new percentage only with the old range, never one range with another, and form hypotheses only from changes no update effect explains."}]
+guardrails: [{"id": "ETHNICITY-ESTIMATE-VERSION-COMPARISON-01", "text": "The tester's DNA did not change between versions; the vendor's method did. Ask first what the vendor changed, not what changed in the family [S11]."}]
 handoff: ["23andme-match-research", "admixture-model-run-scope", "ai-for-dna-research", "dnapainter-practical-dna-workflows", "ftdna-practical-dna-workflows"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"

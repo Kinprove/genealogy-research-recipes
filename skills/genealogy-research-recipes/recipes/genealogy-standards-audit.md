@@ -4,10 +4,9 @@ title: "Auditing a genealogy research package against professional standards"
 summary: "Audit a dossier, report, proof draft or documented tree by tracing each claim through examined sources and explained reasoning."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["citation gaps, search coverage, negative-evidence claims, GPS review, dependent conclusions, or choosing a research report, proof statement, summary or argument."]}
-triggers: ["citation gaps", "search coverage", "negative-evidence claims", "GPS review", "dependent conclusions", "or choosing a research report"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "GENEALOGY-STANDARDS-AUDIT-01", "text": "a completed checklist does not establish proof; name the inspected evidence and remaining gaps, and leave evidentiary sufficiency to the researcher."}]
+guardrails: [{"id": "GENEALOGY-STANDARDS-AUDIT-01", "text": "A populated log, polished footnote or completed checklist does not establish the Genealogical Proof Standard (GPS). The researcher owns the final ruling on evidentiary sufficiency."}]
 handoff: ["evidence-proof-judgment"]
 checked: "2026-10-07"
 checked_basis: "Checked 2026-10-07"

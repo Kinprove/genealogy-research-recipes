@@ -3,11 +3,10 @@ id: "australia-nz-record-routing"
 title: "Route an Australian or New Zealand record to the holder and window of its date"
 summary: "Route an Australian or New Zealand birth, marriage, death, electoral roll, arrival, newspaper notice, Māori Land Court record or Aboriginal agency file to the holder and date window of its record."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route an Australian or New Zealand birth, marriage, death, electoral roll, arrival, newspaper notice, Māori Land Court record or Aboriginal agency file to the holder and date window of its record."]}
-triggers: ["Route an Australian", "New Zealand birth", "marriage", "death", "electoral roll", "arrival"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "AUSTRALIA-NZ-RECORD-ROUTING-01", "text": "a pre-separation event belongs to today's state registry, and a miss inside a closure window or outside a digitised run is not a negative."}]
+guardrails: [{"id": "AUSTRALIA-NZ-RECORD-ROUTING-01", "text": "**Do not send a Port Phillip or Moreton Bay event to New South Wales because it predates separation.** Today's Victorian or Queensland index is the first stop."}]
 handoff: ["convict-transportation-record-chain", "evidence-proof-judgment", "historical-place-name-resolution", "newspapers-com-search-recovery", "research-documentation", "source-citation"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

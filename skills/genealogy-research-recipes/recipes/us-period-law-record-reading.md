@@ -3,11 +3,10 @@ id: "us-period-law-record-reading"
 title: "Read U.S. records under the law and legal language of their own place and date"
 summary: "Read a U.S. record's legal words, courts, bonds, and age or inheritance rules under the law of its own place and date, and keep each inference within what that law required."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Read a U.S. record's legal words, courts, bonds, and age or inheritance rules under the law of its own place and date, and keep each inference within what that law required."]}
-triggers: ["A U.S. record uses a legal word or names an old court", "dower, dowry, next friend, adr c t a, voidable, penal sum or mainpernor in a record", "Did the law of that place and date allow this marriage or inheritance"]
+scope: {"platforms": [], "tasks": ["dower, dowry, next friend, adr c t a, voidable, penal sum or mainpernor in a record", "Did the law of that place and date allow this marriage or inheritance"]}
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-PERIOD-LAW-RECORD-READING-01", "text": "a legal rule shows what the law provided at that place and date; it is not by itself a fact about a person."}]
+guardrails: [{"id": "US-PERIOD-LAW-RECORD-READING-01", "text": "A rule shows what was required or allowed. It does not show what happened in one family."}]
 handoff: ["court-case-file-recovery", "deed-content-relationship-clues", "evidence-proof-judgment", "missing-marriage-jurisdiction-search", "probate-case-document-inventory"]
 checked: "2026-11-08"
 checked_basis: "opened 2026-11-08"

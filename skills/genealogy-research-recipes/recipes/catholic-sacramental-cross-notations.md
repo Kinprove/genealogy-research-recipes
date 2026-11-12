@@ -3,11 +3,10 @@ id: "catholic-sacramental-cross-notations"
 title: "Follow Catholic baptism–marriage cross-notations between parishes"
 summary: "Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish."]}
-triggers: ["Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "CATHOLIC-SACRAMENTAL-CROSS-NOTATIONS-01", "text": "indexes drop the baptism-place statement and the later marriage note, so read the original page in both directions."}]
+guardrails: [{"id": "CATHOLIC-SACRAMENTAL-CROSS-NOTATIONS-01", "text": "The marriage entry's statement of where each party was baptized, and the marriage note later added to the baptism entry, appear only on the original page. Read both directions."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"

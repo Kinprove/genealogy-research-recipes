@@ -3,11 +3,10 @@ id: "us-freedpeople-record-recovery"
 title: "Trace an African American ancestor across the 1870 boundary"
 summary: "Trace an African American family back across the 1870 boundary."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Trace an African American family back across the 1870 boundary."]}
-triggers: ["Trace an African American family back across the 1870 boundary"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-FREEDPEOPLE-RECORD-RECOVERY-01", "text": "test free versus enslaved status first; a surname, enslaver, list order or DNA signal stays a hypothesis until a record names the person."}]
+guardrails: [{"id": "US-FREEDPEOPLE-RECORD-RECOVERY-01", "text": "Surname, enslaver, list order and DNA signals stay separate hypotheses until a record names the person."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

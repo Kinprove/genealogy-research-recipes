@@ -4,10 +4,9 @@ title: "Inventory the documents of a probate case"
 summary: "Recover the documents behind a probate index, will or administrator's bond as a case inventory with unresolved leads."
 kind: "records"
 scope: {"platforms": [], "tasks": ["probate record series, references to other documents, later actions, non-will proceedings, Swedish court-copy versus heirs-original and poverty-certificate checks, reverse searches from a guardian to wards, or an estate search that stopped at the first useful document."]}
-triggers: ["probate record series", "references to other documents", "later actions", "non-will proceedings", "Swedish court-copy versus heirs-original and poverty-certificate checks", "reverse searches from a guardian to wards"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "PROBATE-CASE-DOCUMENT-INVENTORY-01", "text": "finding a will does not finish the case; retain each document's locator and remaining retrieval gaps, then hand off evidence interpretation."}]
+guardrails: [{"id": "PROBATE-CASE-DOCUMENT-INVENTORY-01", "text": "Keep a case inventory and a queue of unresolved references, so finding one useful document does not silently finish the estate search."}]
 handoff: ["court-case-file-recovery", "evidence-proof-judgment", "land-index-book-series-recovery"]
 checked: null
 checked_basis: null

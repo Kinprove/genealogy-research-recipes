@@ -3,11 +3,10 @@ id: "french-departmental-record-routing"
 title: "Route French records by département, creator, series and access rule"
 summary: "Route French civil, census, military, property, notarial, medal, consular, OFPRA refugee and prison records by creator, département, series and access rule; follow cadastral names through mortgage accounts to deeds and historical Paris addresses to property registers; trace Saint-Pierre victim leads to civil records/death judgments and pre-parish town lineages to civic admissions; follow missing Léonore dossiers into published nominations and named prisons through tables to admission entries; distinguish recruitment stages and JMO context, adoption-date references, Basque house-entry names and Breton marriage decrees."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route French civil, census, military, property, notarial, medal, consular, OFPRA refugee and prison records by creator, département, series and access rule; follow cadastral names through mortgage accounts to deeds and historical Paris addresses to property registers; trace Saint-Pierre victim leads to civil records/death judgments and pre-parish town lineages to civic admissions; follow missing Léonore dossiers into published nominations and named prisons through tables to admission entries; distinguish recruitment stages and JMO context, adoption-date references, Basque house-entry names and Breton marriage decrees."]}
-triggers: ["Route French civil", "census", "military", "property", "notarial", "medal"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "FRENCH-DEPARTMENTAL-RECORD-ROUTING-01", "text": "there is no national index; fiscal cases do not prove ownership or a complete heir list, an unindexed census miss is not absence, matricules use classe and bureau, and recruitment or unit records do not establish individual service."}]
+guardrails: [{"id": "FRENCH-DEPARTMENTAL-RECORD-ROUTING-01", "text": "**Send each search to an Archives départementales (AD), not to a national index.** Older civil registers, census lists, military registers, Enregistrement tables and notarial minutes are kept by the AD, each with its own website and series."}]
 handoff: ["archival-image-coverage-verification", "evidence-proof-judgment", "french-belgian-civil-act-extraction", "historical-map-record-recovery", "historical-place-name-resolution", "land-index-book-series-recovery", "source-citation", "tax-roll-observation-workflow"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

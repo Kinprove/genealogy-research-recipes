@@ -3,11 +3,10 @@ id: "us-20th-century-military-service-reconstruction"
 title: "Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction"
 summary: "Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned, thin or restricted personnel file, including state WWI questionnaires and Gold Star family packets, separate court-martial trial files, discharge-gated final pay and award General Orders."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned, thin or restricted personnel file, including state WWI questionnaires and Gold Star family packets, separate court-martial trial files, discharge-gated final pay and award General Orders."]}
-triggers: ["Rebuild a 20th-century U.S. Army", "Air Force service record from records held outside a burned", "thin", "restricted personnel file", "including state WWI questionnaires and Gold Star family packets", "separate court-martial trial files"]
+scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "US-20TH-CENTURY-MILITARY-SERVICE-RECONSTRUCTION-01", "text": "check the file's actual status before saying \"it burned\", keep trial/award references separate from retrieved files, and do not give the man his unit's events."}]
+guardrails: [{"id": "US-20TH-CENTURY-MILITARY-SERVICE-RECONSTRUCTION-01", "text": "Do not claim that the records burned and nothing survives."}]
 handoff: []
 checked: "2026-10-26"
 checked_basis: "checked 2026-10-26"

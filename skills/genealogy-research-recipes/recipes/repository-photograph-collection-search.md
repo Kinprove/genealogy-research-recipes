@@ -3,11 +3,10 @@ id: "repository-photograph-collection-search"
 title: "Search repository photograph collections by place and subject"
 summary: "Search repository photograph collections for an ancestor, home, shop or community by place and subject."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Search repository photograph collections for an ancestor, home, shop or community by place and subject.", "Search current and completed auction or marketplace lots for old family photographs."]}
-triggers: ["Search repository photograph collections for an ancestor", "home", "shop", "community by place and subject", "auction or marketplace lots of old photographs"]
+scope: {"platforms": [], "tasks": ["Search current and completed auction or marketplace lots for old family photographs."]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "REPOSITORY-PHOTOGRAPH-COLLECTION-SEARCH-01", "text": "never compare faces or name anyone by appearance, and record a recognition by the user or a relative as that person's attributed claim; a name-search miss does not show that no image exists, and a donor caption or added geotag is not a settled identification or location."}]
+guardrails: [{"id": "REPOSITORY-PHOTOGRAPH-COLLECTION-SEARCH-01", "text": "Do not compare faces yourself and do not name anyone from appearance. Resemblance is never evidence on its own: a recognition stays an attributed claim until documents support it."}]
 handoff: ["family-photograph-attribution-and-dating", "soviet-personal-file-recovery", "usa-immigration-search-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"

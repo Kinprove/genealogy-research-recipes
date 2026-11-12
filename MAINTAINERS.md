@@ -81,11 +81,10 @@ are rejected. The schema is enforced by
 | --- | --- |
 | `id`, `title`, `summary` | Filename stem, exact first heading without the `Recipe:` prefix, and routing summary. |
 | `kind` | `judgment`, `platform` (procedures for named tools/sites), or `records` (record types and custody). |
-| `scope` | `platforms` and nonempty `tasks` string lists. |
-| `triggers` | Nonempty list of task phrases; additional phrases appear in full router entries. |
+| `scope` | `platforms` and `tasks` string lists. `tasks` are routing phrases that the summary does not already contain; the router prints them as *Use for*. Full router entries need at least one; a topic pointer may have none. |
 | `privacy` | `none`, `living-person`, `genetic-self`, or `genetic-third-party`. This describes the gated data, not permission. |
 | `gates` | `privacy-transfer` for any extension, data-transfer or contact action; otherwise empty. |
-| `guardrails` | Nonempty list of `{id, text}` objects; IDs are globally unique. Full router entries copy the first rule verbatim, apart from wrapping; topic pointers defer to the header. |
+| `guardrails` | Nonempty list of `{id, text}` objects; IDs are globally unique. Each `text` is an exact excerpt of the recipe body (whitespace runs count as one space). Full router entries print the first rule as the core guardrail. |
 | `handoff` | Recipe IDs to consult next; all must exist. Local recipe links and code filenames are also checked. |
 | `checked`, `checked_basis` | ISO date and an exact dated excerpt from the source sidecar, or both `null` when no dated check is recorded. |
 | `capabilities` | String lists for `browse`, `local_script`, `extensions`, `data_transfer`, and `contact`. Described actions, not automatically executed tools. |
@@ -93,7 +92,9 @@ are rejected. The schema is enforced by
 
 Use `text` for guardrails because existing rules include both prohibitions and
 positive obligations; a `never` key would invert a rule such as “preserve the
-original locator.” Keep the rule consistent with the body when changing it.
+original locator.” Because a guardrail quotes the body, the catalog check fails
+when an edit removes or rewords the quoted passage; update the header excerpt in
+the same change.
 The generator removes the second hand-maintained routing copy; it does not
 replace review of the recipe's claims.
 

@@ -4,10 +4,9 @@ title: "Ancestry record-search recovery"
 summary: "Recovering archival records missed by an Ancestry search. Diagnose scope and coverage before relaxing dates, places or names; use collection descriptions, original book indexes, census districts and the holding archive."
 kind: "platform"
 scope: {"platforms": ["ancestry"], "tasks": ["an attached census disappearing from results, narrow Card Catalog matches, birthplace/residence confusion, conservative wildcard batches, name-free searches, book page versus image numbers, enumeration-district browsing, or index-only records."]}
-triggers: ["an attached census disappearing from results", "narrow Card Catalog matches", "birthplace/residence confusion", "conservative wildcard batches", "name-free searches", "book page versus image numbers"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "ANCESTRY-RECORD-SEARCH-RECOVERY-01", "text": "search results generate candidates; a zero-result query does not prove absence, and the original document must support identity before filing a relationship."}]
+guardrails: [{"id": "ANCESTRY-RECORD-SEARCH-RECOVERY-01", "text": "Keep three observations separate: no indexed candidate; no matching images in the available inventory; and documented absence in the original surviving records."}]
 handoff: ["ai-for-documentary-records", "dna-match-outreach-staging", "evidence-proof-judgment"]
 checked: "2026-10-20"
 checked_basis: "checked 2026-10-20"

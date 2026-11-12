@@ -4,10 +4,9 @@ title: "Recover an Irish Catholic parish entry at the NLI"
 summary: "Carry an Irish Catholic baptism or marriage lead into the NLI parish-register images and locate the actual entry."
 kind: "records"
 scope: {"platforms": [], "tasks": ["RootsIreland/Findmypast transcriptions, Catholic parish/register selection, a link opening the register's first page, date browsing or exact image citations."]}
-triggers: ["RootsIreland/Findmypast transcriptions", "Catholic parish/register selection", "a link opening the register's first page", "date browsing", "exact image citations"]
 privacy: "living-person"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "IRISH-CATHOLIC-PARISH-IMAGE-RECOVERY-01", "text": "verify the opened route and entry; preserve register and image locators, and keep baptism distinct from birth unless the original records both."}]
+guardrails: [{"id": "IRISH-CATHOLIC-PARISH-IMAGE-RECOVERY-01", "text": "Carry an Irish Catholic baptism or marriage lead into the National Library of Ireland's register images, inspect the actual entry and preserve the register and image locators. A transcription can identify a parish and date without supplying an image; a baptism date remains a baptism date unless the original separately records birth."}]
 handoff: []
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"

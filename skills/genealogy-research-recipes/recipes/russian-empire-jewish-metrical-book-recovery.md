@@ -3,11 +3,10 @@ id: "russian-empire-jewish-metrical-book-recovery"
 title: "Recover a Russian-Empire Jewish metrical entry through the registering rabbinate and its substitutes"
 summary: "Find the crown rabbinate that registered a Jewish community in the event year, check its book's survival and list named substitutes."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find the crown rabbinate that registered a Jewish community in the event year, check its book's survival and list named substitutes."]}
-triggers: ["Find the crown rabbinate that registered a Jewish community in the event year", "check its book's survival and list named substitutes"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "RUSSIAN-EMPIRE-JEWISH-METRICAL-BOOK-RECOVERY-01", "text": "synagogues or a large Jewish population do not show that a place had its own crown rabbi, so do not search for \"the village's\" book."}]
+guardrails: [{"id": "RUSSIAN-EMPIRE-JEWISH-METRICAL-BOOK-RECOVERY-01", "text": "Do not search for \"the village's\" or \"the synagogue's\" metrical book. Having synagogues, or a sizeable Jewish population, does not show that a place had its own crown rabbi."}]
 handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing"]
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"

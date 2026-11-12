@@ -3,11 +3,10 @@ id: "early-new-england-town-records"
 title: "Read early New England town books across parent towns and decode Torrey entries"
 summary: "Resolve village names to recordkeeping towns, read early New England town books across parent, daughter and neighbouring towns, preserve foundling narrative fields and decode Torrey's marriage notation."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Resolve village names to recordkeeping towns, read early New England town books across parent, daughter and neighbouring towns, preserve foundling narrative fields and decode Torrey's marriage notation."]}
-triggers: ["Resolve village names to recordkeeping towns", "read early New England town books across parent", "daughter and neighbouring towns", "preserve foundling narrative fields and decode Torrey's marriage notation"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "EARLY-NEW-ENGLAND-TOWN-RECORDS-01", "text": "decode a Torrey entry before using it, and record which whole volumes were read."}]
+guardrails: [{"id": "EARLY-NEW-ENGLAND-TOWN-RECORDS-01", "text": "**Never report \"not in the town records\" without the coverage behind it.** Name the towns, volumes and page ranges actually read, and the volumes not read."}]
 handoff: []
 checked: null
 checked_basis: null

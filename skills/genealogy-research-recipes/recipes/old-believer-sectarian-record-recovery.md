@@ -3,11 +3,10 @@ id: "old-believer-sectarian-record-recovery"
 title: "Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds"
 summary: "Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds."]}
-triggers: ["Recover Old Believer and Edinoverie families from raskol series in consistory", "revision", "district and police fonds"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "OLD-BELIEVER-SECTARIAN-RECORD-RECOVERY-01", "text": "absence from the ordinary Orthodox books does not mean the family went unrecorded; a confession label is a dated administrative classification."}]
+guardrails: [{"id": "OLD-BELIEVER-SECTARIAN-RECORD-RECOVERY-01", "text": "Use this recipe when a Russian-Empire family suspected of Old Belief (раскол, старообрядчество) or Edinoverie (единоверие) is missing from the ordinary Orthodox metrical books, revision lists or confession rolls. Do not conclude that the family went unrecorded."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"

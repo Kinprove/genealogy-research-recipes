@@ -3,11 +3,10 @@ id: "german-military-record-period-routing"
 title: "Route a German soldier to the military series that survive for his period, army and rank"
 summary: "Route a German soldier to the series that survive for his period, army and rank class; recover dated hospital-book episodes when personnel files are missing."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Route a German soldier to the series that survive for his period, army and rank class; recover dated hospital-book episodes when personnel files are missing."]}
-triggers: ["Route a German soldier to the series that survive for his period", "army and rank class", "recover dated hospital-book episodes when personnel files are missing"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "GERMAN-MILITARY-RECORD-PERIOD-ROUTING-01", "text": "a canton, gazette notice or casualty-list line is a lead, never a birthplace, death date or identity."}]
+guardrails: [{"id": "GERMAN-MILITARY-RECORD-PERIOD-ROUTING-01", "text": "A regimental canton, a gazette notice or a casualty-list line is a lead with limits. None of them is a birthplace, a death date or an identity."}]
 handoff: ["galicia-bukovina-habsburg-record-routing"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"

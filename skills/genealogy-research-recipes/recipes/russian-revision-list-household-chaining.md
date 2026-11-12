@@ -3,11 +3,10 @@ id: "russian-revision-list-household-chaining"
 title: "Chain a Russian-Empire revision-list household across copies, sections and revisions (Urals evidence)"
 summary: "Chain a non-Jewish revision-list household across copies, sections and revisions."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Chain a non-Jewish revision-list household across copies, sections and revisions.", "Route an Orenburg Cossack, Bashkir or Tatar revision-era household by its jurisdiction on the record date."]}
-triggers: ["Chain a non-Jewish revision-list household across copies", "sections and revisions", "Orenburg Cossack or Bashkir household in revision lists"]
+scope: {"platforms": [], "tasks": ["Route an Orenburg Cossack, Bashkir or Tatar revision-era household by its jurisdiction on the record date."]}
 privacy: "none"
 gates: []
-guardrails: [{"id": "RUSSIAN-REVISION-LIST-HOUSEHOLD-CHAINING-01", "text": "a central and a local copy are not two confirmations, and Urals fond numbers and age patterns must be checked locally."}]
+guardrails: [{"id": "RUSSIAN-REVISION-LIST-HOUSEHOLD-CHAINING-01", "text": "Record each copy as a separate observation of one episode, never as corroboration."}]
 handoff: ["bessarabia-moldova-record-routing", "russian-household-list-transcription-audit", "russian-orthodox-confession-list-reading", "russian-orthodox-metrical-book-recovery"]
 checked: "2026-11-02"
 checked_basis: "checked 2026-11-02"

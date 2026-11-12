@@ -3,11 +3,10 @@ id: "published-book-catalogue-and-full-text-discovery"
 title: "Find a published local history, compiled genealogy or family book across catalogues and full text"
 summary: "Find a published local history, compiled genealogy or family book across catalogues and full text."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Find a published local history, compiled genealogy or family book across catalogues and full text."]}
-triggers: ["Find a published local history", "compiled genealogy", "family book across catalogues and full text"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "PUBLISHED-BOOK-CATALOGUE-AND-FULL-TEXT-DISCOVERY-01", "text": "a metadata search miss never establishes that a book does not exist or is not held; record what each tool covered."}]
+guardrails: [{"id": "PUBLISHED-BOOK-CATALOGUE-AND-FULL-TEXT-DISCOVERY-01", "text": "A miss is only a miss for that tool, query and range. It never establishes that the book doesn't exist or isn't held."}]
 handoff: []
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"

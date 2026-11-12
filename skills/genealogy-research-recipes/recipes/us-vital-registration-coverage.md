@@ -3,11 +3,10 @@ id: "us-vital-registration-coverage"
 title: "Build a U.S. vital-registration coverage register before calling a birth or death record missing"
 summary: "Build a register of every U.S. birth and death registration authority and series before calling a record missing."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Build a register of every U.S. birth and death registration authority and series before calling a record missing."]}
-triggers: ["Build a register of every U.S. birth and death registration authority and series before calling a record missing"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "US-VITAL-REGISTRATION-COVERAGE-01", "text": "the statewide mandate year is not the first year of coverage, and one county index miss is not \"no record exists\"."}]
+guardrails: [{"id": "US-VITAL-REGISTRATION-COVERAGE-01", "text": "The usual mistake is to treat the statewide mandate year as the first year of coverage, search one certificate index for one county, and report a negative. Before any absence statement, build a register with one row for each registration authority and each separate series."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"

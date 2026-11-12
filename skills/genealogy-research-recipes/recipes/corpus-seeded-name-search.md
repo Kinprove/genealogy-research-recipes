@@ -4,10 +4,9 @@ title: "Corpus-seeded name searches across scripts and OCR"
 summary: "Recover attested spellings across scripts and OCR by separating encoding, orthography and field behaviour."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["Hebrew/Yiddish name misses, lossy search folds or uncalibrated zero results."]}
-triggers: ["Hebrew/Yiddish name misses", "lossy search folds", "uncalibrated zero results"]
 privacy: "none"
 gates: []
-guardrails: [{"id": "CORPUS-SEEDED-NAME-SEARCH-01", "text": "normalization is not spelling expansion; preserve originals and treat rescued hits as candidates rather than identity or kinship proof."}]
+guardrails: [{"id": "CORPUS-SEEDED-NAME-SEARCH-01", "text": "A completed zero-hit query describes that query and scope; it does not exclude a person whose record or spelling has not been tested."}]
 handoff: ["archival-image-coverage-verification", "beider-given-name-variants", "bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing", "jewishgen-search-family-reconstruction"]
 checked: "2026-10-18"
 checked_basis: "opened 2026-10-18"

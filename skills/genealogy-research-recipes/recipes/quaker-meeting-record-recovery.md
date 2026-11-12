@@ -3,11 +3,10 @@ id: "quaker-meeting-record-recovery"
 title: "Recover a Quaker ancestor from monthly-meeting minutes and removal certificates"
 summary: "Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both removal-certificate series."
 kind: "records"
-scope: {"platforms": [], "tasks": ["Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both removal-certificate series."]}
-triggers: ["Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both removal-certificate series"]
+scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "QUAKER-MEETING-RECORD-RECOVERY-01", "text": "check that Hinshaw covers the meeting, decode the meeting before placing the entry, and keep each numbered date exactly as written."}]
+guardrails: [{"id": "QUAKER-MEETING-RECORD-RECOVERY-01", "text": "Before relying on Hinshaw, check that it covers the meeting. Decode the entry's meeting before you assign it to a place."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
