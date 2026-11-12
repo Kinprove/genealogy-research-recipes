@@ -95,9 +95,11 @@ against a local copy only after its skill hash and selected case contracts match
 
 ## Results
 
-The [local evaluation report](../reports/issue-97-evaluation.md) records the observed results,
-preserved failures, transport repairs and remaining acceptance gates.
-Issue #97's owner-approved gate retains the failed release baseline and requires all
-revised-candidate cases to pass; merge authorization is a separate decision.
-Current-candidate cases can be validated with the authenticated local CLI profile.
+Each report covers only the skill bytes and harness it names; a later recipe change is not
+covered until a new run. The most recent is the
+[2026-11-12 report](../reports/behavioural-evaluation-2026-11-12.md): 11 of 14 cases pass on
+`main` at `e206ee4`, run in isolation with the locked CLI and an authenticated local login.
+The earlier [issue-97 report](../reports/issue-97-evaluation.md) records results on older skill
+bytes from runs that loaded the runner's own Claude Code configuration, the failed release
+baseline and issue #97's acceptance gates; merge authorization is a separate decision.
 Hosted model runs are optional and have no scheduled trigger.
