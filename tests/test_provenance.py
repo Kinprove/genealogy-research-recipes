@@ -222,6 +222,7 @@ class ProvenanceTests(unittest.TestCase):
             ('According to a snippet, search exists. Архив offers free copies. [S1† @2026-11-07]', False),
             ('According to a snippet, the archive opens every day. 42 collections are online. '
              '[S1† @2026-11-07]', False),
+            ('According to a snippet, there are 2. 42 collections are online. [S1† @2026-11-07]', False),
             ('According to a snippet, search exists.\n- copies are free. [S1† @2026-11-07]', False),
             # Abbreviations do not end the hedged sentence.
             ('According to the U.S. Army page, search exists. [S1† @2026-11-07]', True),
@@ -437,9 +438,13 @@ class LegacyBaseAndExpiryTests(unittest.TestCase):
             with self.assertRaisesRegex(p.ProvenanceError, 'cannot read'):
                 p.check_legacy_base(root, 'no-such-ref')
 
-    def test_legacy_base_needs_check_mode(self):
-        with self.assertRaises(SystemExit), redirect_stderr(io.StringIO()):
-            p.main(['--write', '--legacy-base', 'HEAD'])
+    def test_legacy_base_needs_check_mode_and_a_ref(self):
+        for argv in (['--write', '--legacy-base', 'HEAD'], ['--check', '--legacy-base', ''],
+                     ['--check', '--legacy-base', ' ']):
+            with self.subTest(argv=argv), self.assertRaises(SystemExit), redirect_stderr(io.StringIO()), \
+                    patch.object(p, 'run') as run:
+                p.main(argv)
+            run.assert_not_called()
 
     def test_main_announces_expiring_claims_once_and_runs_the_base_check(self):
         today = dt.date(2027, 3, 1)

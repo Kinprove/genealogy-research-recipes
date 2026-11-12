@@ -278,7 +278,7 @@ def sentence_boundaries(visible):
                 if DOTTED_ABBREVIATION.search(before[-12:]):
                     continue
             elif not following.isdigit() or word and (
-                    len(word[1]) == 1 or word[1].casefold() in NUMBER_ABBREVIATIONS):
+                    len(word[1]) == 1 and word[1].isalpha() or word[1].casefold() in NUMBER_ABBREVIATIONS):
                 continue
         cuts.add(match.end())
     return [0] + sorted(cuts) + [len(visible)]
@@ -554,12 +554,13 @@ def main(argv=None):
     parser.add_argument('--legacy-base', metavar='REF',
                         help='with --check: fail if the legacy inventory grew or changed since REF')
     args = parser.parse_args(argv)
-    if args.legacy_base and args.mode != 'check':
-        parser.error('--legacy-base requires --check')
+    # An empty REF (a failed $(git merge-base ...)) must not skip the comparison.
+    if args.legacy_base is not None and (args.mode != 'check' or not args.legacy_base.strip()):
+        parser.error('--legacy-base requires --check and a nonempty REF')
     try:
         today = utc_today()
         corpus = run(ROOT, args.mode, today)
-        if args.legacy_base:
+        if args.legacy_base is not None:
             check_legacy_base(ROOT, args.legacy_base)
         # One GitHub Actions annotation for all of them: a step keeps at most ten warnings.
         due = '; '.join(f'{cid} valid until {last}' for cid, last in expiring_claims(corpus, today))

@@ -199,7 +199,7 @@ class RecipeCatalogTests(unittest.TestCase):
         catalog.validate_header(m, body, m["id"] + ".md", date + dt.timedelta(days=catalog.MAX_PLATFORM_AGE_DAYS))
         with self.assertRaisesRegex(catalog.CatalogError, "older than"):
             catalog.validate_header(m, body, m["id"] + ".md", date + dt.timedelta(days=catalog.MAX_PLATFORM_AGE_DAYS + 1))
-        m["checked"] = self.today.isoformat()
+        m["checked"] = (date - dt.timedelta(days=1)).isoformat()  # never the basis date, even on a recheck day
         with self.assertRaisesRegex(catalog.CatalogError, "differs from checked_basis"):
             catalog.validate_header(m, body, m["id"] + ".md", self.today)
         m["checked"], m["checked_basis"] = None, None
