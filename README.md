@@ -215,7 +215,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [local-repository-uncatalogued-holdings](skills/genealogy-research-recipes/recipes/local-repository-uncatalogued-holdings.md) | record catalogues and original images | — | — | — | — | — |
 | [manuscript-collection-recovery](skills/genealogy-research-recipes/recipes/manuscript-collection-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [marks-and-brands-record-recovery](skills/genealogy-research-recipes/recipes/marks-and-brands-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [missing-marriage-jurisdiction-search](skills/genealogy-research-recipes/recipes/missing-marriage-jurisdiction-search.md) | record catalogues and original images | — | — | — | — | — |
+| [missing-marriage-jurisdiction-search](skills/genealogy-research-recipes/recipes/missing-marriage-jurisdiction-search.md) | record catalogues and original images | — | — | request | — | required |
 | [muscovite-census-settler-origin-recovery](skills/genealogy-research-recipes/recipes/muscovite-census-settler-origin-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [myheritage-dna-match-investigation](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) | myheritage | — | — | export, link | contact | required |
 | [myheritage-historical-record-search](skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md) | myheritage | — | — | — | — | — |
