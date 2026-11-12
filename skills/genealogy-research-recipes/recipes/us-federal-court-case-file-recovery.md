@@ -10,7 +10,7 @@ gates: []
 guardrails: [{"id": "US-FEDERAL-COURT-CASE-FILE-RECOVERY-01", "text": "decide whether the matter is federal before searching a county courthouse; a complete-index miss is a bounded negative that does not clear other relatives."}]
 handoff: ["court-case-file-recovery", "criminal-court-prison-record-recovery"]
 checked: "2026-11-07"
-checked_basis: "checked 2026-11-07"
+checked_basis: "read 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
 router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1103}
 ---

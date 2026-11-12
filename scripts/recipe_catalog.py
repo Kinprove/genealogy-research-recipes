@@ -114,7 +114,7 @@ def validate_header(m, body, filename, today):
         basis = m["checked_basis"]
         require(isinstance(basis, str) and bool(basis.strip()), "checked_basis must quote dated source evidence")
         require(re.fullmatch(
-            r"(?:rechecked|checked|consulted|accessed|retrieved|fetched|verified|opened)(?: on)?\s+"
+            r"(?:rechecked|checked|read|consulted|accessed|retrieved|fetched|verified|opened)(?: on)?\s+"
             r"(?:20\d\d-\d\d-\d\d|\d{1,2} [A-Z][a-z]+ 20\d\d)", basis, re.I),
             "checked_basis must name a source check, not a publication/capture date")
         dates = re.findall(r"20\d\d-\d\d-\d\d|\d{1,2} [A-Z][a-z]+ 20\d\d", basis)
