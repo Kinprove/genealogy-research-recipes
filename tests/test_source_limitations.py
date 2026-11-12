@@ -34,8 +34,10 @@ LIMITED_CLAIMS = (
     ("bessarabia-moldova-record-routing", "**Read a Тодор", (
         r"search-result summary.*most frequent.*full study was not read.*unconfirmed.*\[S21\]",
     )),
-    ("early-new-england-town-records", "The presenters' example is Abington", (
-        r"Abington.*\[S4\], \[S5\]", r"town report.*no readable text.*not an independent confirmation.*\[S7\]",
+    ("early-new-england-town-records", "Her example is Abington", (
+        r"might be with the older one \[S4\], \[S5\]",
+        r"Abington, Massachusetts, established in 1712,.*Bridgewater \[S4\], \[S5\]",
+        r"town report.*10 June 1712 \(o\.s\.\).*\[S7\]",
     )),
     ("early-new-england-town-records", "- For Massachusetts,", (
         r"no readable text.*fifth edition.*1997.*not confirmed.*\[S10\]",

@@ -97,7 +97,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [bessarabia-moldova-record-routing](skills/genealogy-research-recipes/sources/bessarabia-moldova-record-routing.md) | 25 | 8 | 0 | — |
 | [brazilian-parish-civil-registry-recovery](skills/genealogy-research-recipes/sources/brazilian-parish-civil-registry-recovery.md) | 47 | 11 | 1 | — |
 | [british-colonial-slave-registers](skills/genealogy-research-recipes/sources/british-colonial-slave-registers.md) | 24 | 10 | 0 | — |
-| [burial-evidence-packet](skills/genealogy-research-recipes/sources/burial-evidence-packet.md) | 93 | 56 | 14 | — |
+| [burial-evidence-packet](skills/genealogy-research-recipes/sources/burial-evidence-packet.md) | 92 | 56 | 14 | — |
 | [canadian-census-interpretation](skills/genealogy-research-recipes/sources/canadian-census-interpretation.md) | 14 | 8 | 0 | — |
 | [canadian-provincial-record-routing](skills/genealogy-research-recipes/sources/canadian-provincial-record-routing.md) | 12 | 8 | 3 | — |
 | [catholic-parish-diocesan-record-recovery](skills/genealogy-research-recipes/sources/catholic-parish-diocesan-record-recovery.md) | 28 | 12 | 3 | — |
@@ -115,7 +115,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [dna-match-outreach-staging](skills/genealogy-research-recipes/sources/dna-match-outreach-staging.md) | 16 | 12 | 0 | — |
 | [dnapainter-practical-dna-workflows](skills/genealogy-research-recipes/sources/dnapainter-practical-dna-workflows.md) | 33 | 28 | 0 | H2, H3, H4 |
 | [dutch-civil-church-record-recovery](skills/genealogy-research-recipes/sources/dutch-civil-church-record-recovery.md) | 23 | 19 | 1 | — |
-| [early-new-england-town-records](skills/genealogy-research-recipes/sources/early-new-england-town-records.md) | 14 | 7 | 1 | — |
+| [early-new-england-town-records](skills/genealogy-research-recipes/sources/early-new-england-town-records.md) | 11 | 6 | 1 | — |
 | [elib-ukrainian-archive-reference-books](skills/genealogy-research-recipes/sources/elib-ukrainian-archive-reference-books.md) | 5 | 6 | 1 | — |
 | [england-wales-gro-index-recovery](skills/genealogy-research-recipes/sources/england-wales-gro-index-recovery.md) | 41 | 9 | 0 | — |
 | [english-nonregister-record-recovery](skills/genealogy-research-recipes/sources/english-nonregister-record-recovery.md) | 36 | 9 | 1 | — |
