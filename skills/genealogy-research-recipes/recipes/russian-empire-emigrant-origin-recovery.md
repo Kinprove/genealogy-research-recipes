@@ -339,6 +339,13 @@ is still under development. [H24 @2026-11-12], [H25 @2026-11-12] It searches by 
 given names when the surname spelling is uncertain. [S22 @2026-11-12] Treat a hit in either source
 as a lead to the page or list entry, and a miss as no result for that source only.
 
+For an emigrant registered in Manchuria, the State Archive of Khabarovsk Krai holds f. Р-830, the
+Main Bureau for the Affairs of Russian Emigrants in the Manchurian Empire (БРЭМ), 1932–1947, 56,850
+units. In 1992–1993 the regional security directorate transferred to that archive 56,260 personal
+files of emigrants registered with the bureau. [H26 @2026-11-13] The Russian Foreign Historical
+Archive in Prague (РЗИА), which worked in 1923–1945, entered GARF's predecessor in January 1946, so
+search GARF for its collection. [H27 @2026-11-13]
+
 **Artifact — contact worklist:**
 
 ```text

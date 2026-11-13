@@ -52,6 +52,11 @@ Do not search only the fond of the post you started from. The threads repeatedly
 
 **Also check the central series.** RGIA f. 1349 is a collection of civil officials' formulary lists, 1754–1917. Its personal lists are in оп. 3 (1800–1894, letters А–Я) and, for employees of central, provincial, uezd and local self-government bodies in 1894–1917, in оп. 1 (А–Р) and оп. 2 (С–Я). Group lists sent to the Heraldry in 1794–1846 are in оп. 4, group lists sent to the Inspector Department up to 1858 in оп. 5, and personal and group lists of 1754–1917 in оп. 6. The collection was put together from several streams, including lists taken from files due for destruction, so a miss there is not a negative. [S19] For nobility, honorary citizenship, change of surname and adoption, use RGIA f. 1343, the Department of Heraldry of the Senate. [S20] For the army, use RGVIA f. 409 (officers' service lists, attestations and award sheets, from 1847) and f. 489 (formulary and service lists of generals, officers, soldiers and officials, 1720–1900). For military medical staff, use RGVIA f. 879 (Medical Department, to 1867) and f. 546 (Main Military-Sanitary Directorate, 1867–1918). [S21]
 
+Rosarkhiv's page on genealogical research in RGVIA, as captured in March 2023, adds seniority lists
+(списки по старшинству) of generals and officers for 1737–1917 in f. 407 and 408, says that such
+documents also occur in other fonds of the archive, and notes an alphabetical index to the officer
+lists of the last period, 1881–1917. [S22 @2026-11-13]
+
 When a list ends, copy the closing entry and its reason exactly. Examples are transfer to railway control, call-up for military service, retirement on petition, or death. A stated destination is your next fond to search. The end of a list is not the end of a career. [S8], [S4], [S3]
 
 ## 3. Choose the right folios inside a combined staff-list file
@@ -85,6 +90,12 @@ Take these fields, each with its folio:
 - **Several lists for one person.** One official is documented by three ф. 36 files; another by ф. 36, ф. 37 and ф. 719 files. Keep each list as a separately dated statement with its own locator. [S3]
 
 The ГАПК entries quoted in the threads are a compiler's abstracts. Use them to find the file, then cite the folio you inspected yourself.
+
+Check children's birth dates against the metrical books. In Denis Shilov's study of the formulary
+lists of about 600 ministers and State Council members, the family information was usually correct
+except for the children's birth dates, which contain inaccuracies and errors, especially in lists of
+the first half of the nineteenth century, because they were often entered from memory. From 1905 the
+lists also gave the children's religion and, not always, the wife's birth and marriage dates. [S23]
 
 ## 5. Add dated observations from professional lists and calendars
 

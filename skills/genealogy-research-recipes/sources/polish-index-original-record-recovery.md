@@ -123,6 +123,8 @@ screenshots, catalog entries and real family examples are not reproduced.
   USC under the archives act until transfer). Art. 28 of the same act sets the periods for acts in
   the electronic register used since 2015 and is not the rule for the older books.
 
+- **P13:** Archiwum Państwowe w Kaliszu, [online exhibition «Nadaję ci imię»](https://www.kalisz.ap.gov.pl/wystawy-on-line/nadaje-ci-imie), read 2026-11-13. Used for: witnesses of the declaration and godparents as separate roles in acts from the Russian partition, with an annotated act of 1913 and an Evangelical act of 1861 in which two of the four godparents were also witnesses.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of Polish interportal index, description and original-record retrieval — FSL-1.1-MIT (kinprove-original)
