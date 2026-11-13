@@ -3,7 +3,7 @@ id: "jewishgen-search-family-reconstruction"
 title: "JewishGen searches that recover families missed by a name-and-town query"
 summary: "Retrieving JewishGen family records when names, ages, towns or a woman's surname are uncertain. Build explicit name-variant and mixed-field search batches, distinguish registration from residence, and look for wives' natal families or married daughters through children's records and household comparisons."
 kind: "platform"
-scope: {"platforms": ["jewishgen"], "tasks": ["JewishGen exact, partial, phonetic or fuzzy searches; double names and patronymics; conflicting ages or delayed registration; a missing marriage record, unknown maiden name or daughter who disappears under a married surname."]}
+scope: {"platforms": ["jewishgen"], "tasks": ["JewishGen exact, partial, phonetic or fuzzy searches; double names and patronymics; conflicting ages or delayed registration; a missing marriage record, unknown maiden name or daughter who disappears under a married surname; counting result rows as distinct entries, keying households on the original record, and telling an overflow, an error or an uncovered database from a completed search with no hits."]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "JEWISHGEN-SEARCH-FAMILY-RECONSTRUCTION-01", "text": "Do not convert a phonetic, household or age match into a relationship."}]
@@ -21,6 +21,7 @@ router: {"tier": "full", "group": "Featured workflows", "order": 32}
 - Goal
 - The matching unit comes before the query
 - A query ladder, with an explicit reason for every change
+- Read the result set before counting it or accepting a negative
 - Geography has several roles
 - Ages: choose the observation date before choosing the search window
 - Double names and ambiguous patronymics
@@ -40,8 +41,8 @@ Read the target collection's instructions: what is searchable, whose name each f
 
 Three documented traps change how a result must be read:
 
-- **Exact does not always mean literal.** The former Unified Search expanded some given-name and town synonyms even under Exact (its page, read on 2026-10-01). That address now forwards to Global Search, so test the behaviour there with a name whose synonyms you know. Record both the submitted form and the returned form.
-- **AND does not always mean the same person.** In Belarus Revision Lists, surname and given-name conditions can be satisfied by different members of one household. Inspect individual rows before treating the conjunction as a person's identity. [Belarus search instructions](https://www.jewishgen.org/databases/Belarus/BelarusRevisionLists.htm).
+- **Exact does not always mean literal.** JewishGen's Search Guide says that Is Exactly "still expands JewishGen's standard given-name synonym groups, so it is not literally letter-for-letter": a search for one form also returns the other names in its group, for example Jankel, Jakob, Jacob and Jack. [N17 @2026-11-12] Record both the submitted form and the returned form.
+- **AND does not always mean the same person.** In Belarus Revision Lists, surname and given-name conditions can be satisfied by different members of one household, and the whole household is then returned. [N18 @2026-11-12] Inspect individual rows before treating the conjunction as a person's identity. [Belarus search instructions](https://www.jewishgen.org/databases/Belarus/BelarusRevisionLists.htm).
 - **A participant is not necessarily the record subject.** A birth's father field ordinarily describes the child's father; it is not automatically the mother's father. To find a woman as a mother, use the collection's maternal fields or inspect a broader extract. Verify labels before composing the query.
 
 ## A query ladder, with an explicit reason for every change
@@ -67,7 +68,7 @@ Save the broad results first. Apply one new constraint at a time and compare wha
 
 **Test a pinned letter before trusting it.** JewishGen documents square brackets for keeping a letter fixed while the rest of the surname still matches phonetically: `Sch[w]artz` excludes Schvartz, and a demonstration used `[W]achs` to drop sound-alikes such as Fox/Fuchs. Use square brackets, not parentheses. JewishGen's help pages disagree on which Search Type honours them: the search guide says Phonetically Like, Sounds Like and Fuzzy, while the How-to FAQ says Is Exactly only. Run the same surname with and without brackets in the chosen Search Type and compare the counts. If the counts are equal, the brackets filtered nothing; treat the result as unfiltered. Do not use `*` with a phonetic Search Type: the search guide says wildcards need Is Exactly. No page says which individual databases honour brackets. [Search guide](https://jewishgen.org/HowToFAQ/searchguide.html), [How-to FAQ](https://jewishgen.org/HowToFAQ/howto.html), [GeneaVlogger interview](https://www.youtube.com/watch?v=KWtdlADparw).
 
-Keep an actual query ledger: database, access path, fields, methods, Boolean relation, date, result status/count and reason for the next query. A listed query that was never executed is a plan. If using a search tool or CLI, read its current documentation, inspect the returned datasets and applied filters, and preserve partial-result or authentication errors; unsupported or ignored filters cannot certify a negative.
+Keep an actual query ledger: database, access path, fields, methods, Boolean relation, date, outcome state, row count, distinct-entry count, the positive control run beside it and reason for the next query. A listed query that was never executed is a plan. If using a search tool or CLI, read its current documentation, inspect the returned datasets and applied filters, and preserve partial-result or authentication errors; unsupported or ignored filters cannot certify a negative.
 
 ### Mixed-field batches to try
 
@@ -83,6 +84,21 @@ These combinations are retrieval plans, not results from completed searches. Eac
 | F | One component of a double name + supported father field; repeat with the other component | An omitted or misparsed component without treating the words as a literal phrase |
 
 For D–F, verify whose father the field represents. For every batch, inspect which actual person supplied each match; the household-level AND trap still applies. Union the candidates from A–F and deduplicate by source record reference, not normalized name. Tighten a field only after checking that an already known row survives that constraint.
+
+## Read the result set before counting it or accepting a negative
+
+**Count distinct entries, not rows.** A result list is a list of rows, and rows are not people. A household-list database returns every member of a matching household; a birth row can match on a parent's name, so its subject is the child; and one original entry can come back from more than one database or index. Before reporting any number, remove repeated rows: two rows are one entry only when they give the same person from the same original record, with the same record locator and the same line or name in it. Then mark which person in each remaining row carries the searched name, and say what the number counts: rows per database, distinct entries, or people after identity work. A row total is never the number of people who bore a name; counting people needs the identity rulings in [evidence-proof-judgment](evidence-proof-judgment.md).
+
+**Key a household on its original record, not on a household number in the results.** Unless the collection's instructions say that a household number in the results is copied from the original list, do not use it to join, merge or split households, and do not expect the same entry to carry the same number in another query. Key each household on the household number written in the original list or, where the list has none, on the line where the household's entry begins. Add the link to its original record, the archive reference (for example archive, fond, opis and file), the date and the image or page number to locate it. A page alone does not identify a household: several households can share one page, and one household can continue onto the next. Even a number copied from the list identifies a household only within that list; the former-number pivot below explains how to follow it.
+
+**Give every executed query an outcome state.** A query that ran to the end and returned a complete list with hits is completed with hits: record its row and distinct-entry counts. A query that returned no hits or an incomplete list takes one of the four states below. Only the first of those can support a negative, and only after the positive control below.
+
+- **Completed, no hits.** The search ran to the end and returned nothing. This is a NIL, as defined in [research-documentation](research-documentation.md), for that query and database version only.
+- **Overflow or truncation.** The site refused the query as too broad, reported too many results, or stopped the list at a display limit. Nothing was tested, so this is not a NIL. Narrow the query to bounded variants, for example a given name with each surname form instead of a common given name alone, and log each narrowed query as its own row.
+- **Error or expired session.** The search returned an error page, a login prompt, a timeout or only part of the results. Nothing was tested. Fix the cause and run the query again.
+- **Not covered.** The database's places, years or roles do not include the target; use the Records Catalog check and the role-coverage pivot below. Record the gap; a query against that database cannot produce a NIL for the target.
+
+**Run a positive control in the same batch.** Before accepting a NIL, query a person already known to be in the same database, in the same session, with the same region, database selection and search options. Prefer a person whose entry was found before through the same field. Log the control as its own row with its result. If the control fails, the empty result shows a broken session, a wrong region, a wrong database or a bad option, not an absence: fix the cause and run both queries again. A control that succeeds shows only that this field and scope worked; it does not cover other spellings, fields or databases.
 
 ## Geography has several roles
 
@@ -180,6 +196,6 @@ establish motives, accusations or identity. Current fees, form limits and access
 
 ## Prompt-craft and output contract
 
-> Build a JewishGen retrieval plan from the supplied records. Preserve raw names and dates. For every proposed query give collection, person's role, fields, match methods, Boolean logic, geography role and reason. Mark proposed versus executed queries. Generate competing natal/married-household candidates without assuming the unknown surname or husband. For ages identify the actual column and observation date. Return supporting rows, counterevidence, coverage gaps and the next discriminating query or original record. Do not convert a phonetic, household or age match into a relationship.
+> Build a JewishGen retrieval plan from the supplied records. Preserve raw names and dates. For every proposed query give collection, person's role, fields, match methods, Boolean logic, geography role and reason. Mark proposed versus executed queries; give each executed query its outcome state, row count, distinct-entry count and positive control. Generate competing natal/married-household candidates without assuming the unknown surname or husband. For ages identify the actual column and observation date. Return supporting rows, counterevidence, coverage gaps and the next discriminating query or original record. Do not convert a phonetic, household or age match into a relationship.
 
 The assistant can generate variants, execute authorized bounded searches, compare extracts and prepare this table. The researcher owns name-role interpretation, any calendar conversion not checked against the document, age-falsification allegations and the final relationship ruling. Keep raw Family Finder/tree results and living-person contact details out of public artifacts.

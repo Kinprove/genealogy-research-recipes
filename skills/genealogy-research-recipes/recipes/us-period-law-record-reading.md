@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "deed-content-relationship-clues", "eviden
 checked: "2026-11-08"
 checked_basis: "opened 2026-11-08"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1108}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1109}
 ---
 
 # Read U.S. records under the law and legal language of their own place and date
@@ -76,7 +76,7 @@ Link out for the shared steps:
 | Term | Read it as | Do not read it as | Limits |
 | --- | --- | --- | --- |
 | `dower` and `dowry` | Dower is a widow's provision from her husband's lands, assigned in records after his death. A wife's release of it can appear in her husband's conveyance while both are alive [S41]. Dowry is property the wife brought, found in the marriage contract in Civil Law places [S1], [S24] | Two names for one record, or a release in a deed as proof of widowhood | Quebec and New France also had dower (*douaire*), often set in that contract. Louisiana did not recognize dower [S51], [S52], [S53]. The word dowry is also used in common-law places [S1] |
-| `widow's thirds` | Dower: usually a life estate in one third of the husband's lands [S5], [S69], [S70] | A share she owned outright | "Usually", not always |
+| `widow's thirds` | In land, dower: usually a life estate in one third of the husband's lands [S5], [S69], [S70]. In an intestate's personal estate, her distributive share: under the English Statute of Distributions, "one third shall go to the widow of the intestate" [S131] | A life estate in everything, or a share of his lands she owned outright | "Usually", not always. Check the distribution act in force for the place and date |
 | `Court of Ordinary` | The probate court in Georgia and South Carolina. Search probate holdings under that name [S3], [S26], [S57], [S59] | A routine court session | Georgia renamed it Probate Court in 1974. Georgia's Inferior Court held probate from about 1798 to 1852, with the Court of Ordinary before and after, and bound out orphans [S54], [S55], [S56]. A library note says Charleston County's Probate Court replaced it in 1868 [S58] |
 | `next friend` | A competent person acting in the name of a minor, married woman or other person lacking capacity, often a parent or other relative [S15], [S49] | Proof of no kinship, or an appointed guardian | Not every next friend was kin. A court could name one without making that person a guardian [S84] |
 | `sui juris` | A person with full civil rights and capacity. Someone not sui juris needed a representative such as a next friend [S15], [S39], [S45] | Latin to skip | |

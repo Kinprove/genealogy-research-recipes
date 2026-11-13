@@ -112,18 +112,21 @@ search-engine extracts, as marked), and details those pages did not support were
   page failed TLS). Used for: the POW card file's own counts of cards and records (more cards than
   records).
 - **H19:** International Committee of the Red Cross, [Prisoners of the First World War – FAQ](https://grandeguerre.icrc.org/Content/help/FAQ_en.pdf),
-  seen 2026-11-02 in a search-engine extract of the PDF (the PDF itself could not be read). Used
-  for: Russian-front lists collected by the Danish Red Cross in Copenhagen, not Geneva; Geneva
-  coverage mainly of the Western, Romanian and Serbian fronts; name-only search; catalogues by
-  nationality and military or civilian status.
+  seen 2026-11-02 only in a search-engine extract;
+  the PDF was opened and read in full on 2026-11-12. Used for: documents coming mainly from the
+  Western Front, Romania and Serbia; Russian-front lists not sent to Geneva but collected by the
+  Danish Red Cross in Copenhagen; little information about Russian prisoners; search by name only;
+  cards filed by country and by military or civilian status in 29 separate catalogues.
 - **H20:** The Long, Long Trail, [Making the most of the Red Cross prisoner of war records](https://www.longlongtrail.co.uk/soldiers/how-to-research-a-soldier/records-of-british-prisoners-of-war-1914-1918/making-the-most-of-the-red-cross-prisoner-of-war-records/),
-  opened 2026-11-02. Used for: the count of 29 card indexes by nationality and military or
-  civilian status, with H19.
+  opened 2026-11-02 and read again on 2026-11-12. Used for: the count of 29 card indexes by
+  nationality and military or civilian status, with H19.
 - **H21:** Rigsarkivet, [Dansk Røde Kors, Krigsfangeafdelingen: Alfabetisk kartotek over russiske krigsfanger i Tyskland](https://daisy.rigsarkivet.dk/arkivserie_detaljer?heid=7624777&henid=7624777),
-  opened 2026-11-02. Used for: the present custodian of the Copenhagen material and the card
-  index surviving only as two selected sample boxes.
+  opened 2026-11-02 and read again on 2026-11-12. Used for: the present custodian of the
+  Copenhagen material and the card index surviving only as two selected sample boxes
+  («to udvalgte prøvekasser»), listed for ordering with no online images.
 - **H22:** Rigsarkivet, [Dansk Røde Kors, Krigsfangeafdelingen: Lister over russiske krigsfanger i Tyskland](https://daisy.rigsarkivet.dk/arkivserie_detaljer?heid=7629319&henid=7629319),
-  opened 2026-11-02. Used for: the lists surviving only as a random sample bundle.
+  opened 2026-11-02 and read again on 2026-11-12. Used for: the lists surviving only as a random
+  sample bundle («en tilfældigt udvalgt prøvepakke»), listed for ordering with no online images.
 - **H23:** Russian Ministry of Defence, OBD Memorial, [Расширенный поиск](https://obd-memorial.ru/html/advanced-search.htm),
   opened 2026-11-02. Used for: the loss, Book of Memory and personnel groups of the advanced
   search and the lists each personnel group names.
@@ -357,9 +360,10 @@ route returned HTTP 401. Search-result snippets were not treated as opened prima
 
 On 2 November 2026 the GWAR pages again failed TLS. The GWAR place-field grouping and source list
 therefore rest on the site's own text as seen in search-engine extracts (H16–H18) and a 2025
-archived capture read in an earlier review; they are dated in the recipe. Indexing exclusivity and fund numbers remain unverified. The ICRC FAQ
-(H19) and two Ukrainian pages (H32, H34) were also seen only in search-engine extracts. Unlike on
-18 October, these extracts are cited, but their entries say 'seen', not 'opened'.
+archived capture read in an earlier review; they are dated in the recipe. Indexing exclusivity and fund numbers remain unverified. Two Ukrainian
+pages (H32, H34) were also seen only in search-engine extracts. Unlike on 18 October, these
+extracts are cited, but their entries say 'seen', not 'opened'. The ICRC FAQ (H19), seen the same
+way on 2 November, was opened and read in full on 12 November 2026.
 
 Withheld: exact archive year boundaries, medical-archive request prerequisites, award-class
 proxies, fixed POW/searchability percentages, default portal filter settings, access rules outside
@@ -406,6 +410,30 @@ Dresden and OBD Memorial rule is therefore stated as a check, not as a finding.
 - **H95:** Бессмертный барак, [О проекте](https://bessmertnybarak.com/about/), read 2026-11-12. Used for: about 2.86 million names, materials added by users, sources often family memories, and the test-version label.
 - **H96:** Бессмертный барак, [Книги памяти](https://bessmertnybarak.com/books/), read 2026-11-12. Used for: the scope of people repressed from October 1917 to 1991 and the memory-book sections by country and list.
 - **H97:** Vera Miller, Lost Russian & Ukrainian Family, [Growing Soviet-era persecution database gives faces to victims](https://lostrussianfamily.wordpress.com/2024/11/23/growing-soviet-era-persecution-database-gives-faces-to-victims/), published 2024-11-23, read 2026-11-12. Used for: the fields she saw on victim pages. No victim page was opened in this check.
+
+### Sources added 2026-11-13
+
+- **H98:** KGB of the USSR Council of Ministers, note to the CPSU Central Committee No. 3265-с of 25 December 1962, [English translation in the Bukovsky Archive](https://bukovsky-archive.com/2016/07/01/25-december-1962-3265-s/), read 2026-11-13. Used for: KGB instruction No. 108сс of 1955 on what relatives of people shot by non-judicial bodies were told and how those deaths were registered at ZAGS, the court-sentence practice, and the note's proposal.
+- **H99:** The same note, [scan of the Russian original](https://bukovsky-archive.com/wp-content/uploads/2015/07/25-dec-62-4-pp-3265-s.pdf), read 2026-11-13 from the scan's page images (the left margin is clipped and the third image repeats the second). Used for: the Russian wording on death dates within ten years of the arrest and invented causes, and the military tribunals beside the Military Collegium, which the translation omits.
+- **H100:** Закон РФ от 18.10.1991 № 1761-1 «О реабилитации жертв политических репрессий» (ред. от 25.12.2023), [ст. 3](https://www.consultant.ru/document/cons_doc_LAW_1619/f130ce721f7ec7ae964cee1f78e85b0bd0f599ec/), ConsultantPlus, read 2026-11-13. Used for: point «в», people subjected by administrative order to exile, banishment, special settlement or forced labour under restricted freedom, including in "NKVD labour columns".
+- **H101:** The same law, [ст. 6](https://www.consultant.ru/document/cons_doc_LAW_1619/9876ee8551edda745ca366c4d598ab04e1ae3986/), read 2026-11-13. Used for: who may apply, to internal-affairs bodies or to prosecutors, where, and the three-month limit on the review.
+- **H102:** The same law, [ст. 7](https://www.consultant.ru/document/cons_doc_LAW_1619/4d960c434f83573ee534fb2ee81e42f6f6602365/), read 2026-11-13. Used for: the rehabilitation certificate or refusal issued by internal-affairs bodies, and appeal in court.
+- **H103:** The same law, [ст. 8](https://www.consultant.ru/document/cons_doc_LAW_1619/810c500e1be7b8f1695fc62fc72c6287de4ad0c0/), read 2026-11-13. Used for: prosecutors' review of court and non-judicial decisions, their certificates, and cases sent to court.
+- **H104:** The same law, [ст. 11](https://www.consultant.ru/document/cons_doc_LAW_1619/8828f3a9d2367f5536a49febbc2bd2eadc15054d/), read 2026-11-13. Used for: the validity in Russia of documents issued in former Soviet republics or by former USSR bodies, and the return of manuscripts, photographs and other personal documents kept in a file.
+- **H105:** Справочно-информационный центр федеральных архивов, [Подтверждение применения репрессий](https://sic.rgantd.ru/kuda-obrashatsya/podtverzhdenie-primeneniya-repressii/), read 2026-11-13. Used for: ГИАЦ МВД as the recommended route for certificates on repression, serving a sentence and rehabilitation, and ГА РФ for residents of Moscow and Moscow oblast repressed in the 1920s–1950s.
+- **H106:** Law 1761-1, [ст. 1.1](https://www.consultant.ru/document/cons_doc_LAW_1619/ea5400062fdc57c6c3d34dfacc9ff373ff568568/), read 2026-11-13. Used for: children who were with repressed parents, or were left as minors without their care, recognised as repressed and rehabilitated.
+- **H107:** Law 1761-1, [ст. 2.1](https://www.consultant.ru/document/cons_doc_LAW_1619/087945428823ec4c80ed37dc94a6e275bb456ae7/), read 2026-11-13. Used for: the children, spouse and parents of a person shot or dead in custody and rehabilitated posthumously, recognised as victims.
+- **H108:** Положение о порядке доступа к материалам, хранящимся в государственных архивах и архивах государственных органов Российской Федерации, прекращенных уголовных и административных дел в отношении лиц, подвергшихся политическим репрессиям, а также фильтрационно-проверочных дел (приказ Минкультуры, МВД и ФСБ России от 25.07.2006 № 375/584/352), [PDF published by the State Archive of the Republic of Adygea](https://gosarhiv-ra.ru/images/Docs/pravovoiDoc/Fiderachiy/N_375_584_352.pdf), read 2026-11-13 (a GARANT printout of 2 June 2022). Used for: p. 6 (the power of attorney for relatives in filtration cases), pp. 9 and 14 (third persons' data withheld, sealed or removed) and p. 15 (free copying).
+- **H109:** Электронная библиотека исторических документов, [record card of the instruction of 4 February 1930](https://docs.historyrussia.org/ru/nodes/62500), read 2026-11-13 (the card gives the archival citations АП РФ, ГА РФ and ГАНО and an image of the first page, not the text). Used for: the instruction's date, its approval by the Presidium of the USSR Central Executive Committee and its archival citations.
+- **H110:** Istmat, [text of the instruction of 4 February 1930](https://istmat.org/node/44283), an unofficial transcription from «Политбюро и крестьянство: высылка, спецпоселение. 1930–1940», book 1 (Moscow, 2005), pp. 62–66, read 2026-11-13; its opening matches the page image on the H109 card. Used for: who drew up and approved the eviction lists, who confiscated and kept the property, and the roles of the OGPU and of krai and oblast executive committees.
+- **H111:** Объединенный государственный архив Челябинской области, [Нахождение в трудармии](https://archive74.ru/nahozhdenie-v-trudarmii), read 2026-11-13. Used for: the card file and database of people mobilised into the Bakalstroy–Chelyabmetallurgstroy camp, and documents at the Information Centre of the Chelyabinsk oblast Interior Ministry directorate.
+- **H112:** Электронная библиотека исторических документов, [Приказ заместителя НКО № 0105 о порядке адресования корреспонденции в Красной армии… 6.02.1943](https://docs.historyrussia.org/ru/nodes/332991) (РГВА. Ф. 4. Оп. 11. Д. 75. Л. 225–228), read 2026-11-13: the record card and the text of both pages. Used for: field-post numbers as units' official names and permanent addresses, the change from field-post-station and conditional numbers on 1 April 1943, old-style mail accepted until 15 May 1943, and rear institutions without numbers.
+- **H113:** Российский государственный архив Военно-Морского Флота, [Оформление запроса](https://rgavmf.ru/oformlenie-zaprosa), read 2026-11-13. Used for: the archive's holdings of 1696–1940 and Navy documents from January 1941 in the Navy Archive, a branch of the Ministry of Defence Central Archive, in Gatchina.
+- **H114:** Справочно-информационный центр федеральных архивов, [О местах хранения документов](https://sic.rgantd.ru/news/sic/o-mestakh-khraneniya-dokumentov/) (undated news item), read 2026-11-13. Used for: the FSB's Central Border Archive for border-troop service, РГВА for institutions of the border and internal troops of the VChK–OGPU–NKVD–MVD (printed as 1918–2001), and the Central Archive of Rosgvardiya for internal troops in Russia from 1961.
+- **H115:** РГАСПИ, [ф. 69, оп. 4 «Личные дела командного состава партизанских отрядов»](https://rgaspi-site.dlibrary.org/ru/nodes/322-opis-4-lichnye-dela-komandnogo-sostava-partizanskih-otryadov), read 2026-11-13. Used for: 5,607 files of 1942–1944 in the fond of the Central Staff of the Partisan Movement.
+- **H116:** ЦДАВО України, [ф. 3206 «Рейхскомісаріат України, м. Рівне»](https://e-resource.tsdavo.gov.ua/fonds/3205/), read 2026-11-13. Used for: the fond's title and its dates, 1941–1945.
+- **H117:** ЦДАВО України, [ф. 3206, опис 6](https://e-resource.tsdavo.gov.ua/inventories/2900/), annotation read 2026-11-13; the file list did not load. Used for: the labour department's lists, certificates, questionnaires and personal and court files of Russians and Ukrainians who worked in Germany, and its alphabetical card index.
+- **H118:** ЦДАВО України, [ф. 3206, опис 2](https://e-resource.tsdavo.gov.ua/inventories/2897/), annotation read 2026-11-13. Used for: the forced mobilisation of the local population for work in Germany.
 
 ## Credits
 

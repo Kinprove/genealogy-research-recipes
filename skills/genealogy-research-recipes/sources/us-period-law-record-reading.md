@@ -140,10 +140,13 @@ The working order, the table of misreadings, the inference limits and the readin
 
 **Not verified independently:** the Wilkes County and Lawrence County dockets themselves (S111 and S115 only), the 1796 Berks County distribution (S123 only), and the enrollment history of Janine Cloud's ancestor (S127 only).
 
+- **S131:** William Blackstone, *Commentaries on the Laws of England*, book 2, chapter 32, "Of Title by Testament, and Administration", [Avalon Project transcription](https://avalon.law.yale.edu/18th_century/blackstone_bk2ch32.asp), read 2026-11-13. Used for: the Statute of Distributions (22 & 23 Car. II c. 10), under which "one third shall go to the widow of the intestate" from the surplus of an intestate's personal estate. The transcription prints the long s as "f"; the quotation modernises it.
+
 ## Credits
 
 - Kinprove original procedural synthesis drawing on The Legal Genealogist blog posts by Judy G. Russell (S1 to S23); definitions, statutes, decisions and record descriptions checked against law dictionaries, session laws, reported cases, archive and library guides, and other published sources (S24 to S110) — FSL-1.1-MIT (kinprove-original)
 - Roberta Estes, DNAeXplained, Daniel Vannoy (1752-after 1820), 2025-09-29, cited as S111 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Family Locket, Diana Elder, AI-Assisted Genealogy: Decoding the 1819 Weatherford Assault Case, 2025-05-21, and Alice Childs, Part 6: Pennsylvania Germans: Probate Records, 2022-03-11, cited as S115 and S123 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
 - Janine Cloud, FamilyTreeDNA blog, How to Use DNA Testing to Uncover Your Native American Ancestry, 2022-11-22, cited as S127 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
+- William Blackstone, Commentaries on the Laws of England, book 2, chapter 32 (1766), Avalon Project transcription, cited as S131 — Public domain (published 1766); one sentence quoted with the long s modernised (quoted)
 - Black's Law Dictionary, 2nd edition, and other law dictionaries, statutes and reported cases cited as S112 to S114, S116 to S122, S124 to S126 and S128, with the archive pages S129 and S130 — Definitions, statutes and holdings paraphrased with attribution (adapted)

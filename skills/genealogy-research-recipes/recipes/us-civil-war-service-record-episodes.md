@@ -85,6 +85,8 @@ Make one row per muster period: muster period | status as written (present, abse
 - **Re-check coverage at the time of use.** In 2016 the site said more records would be added, so record the coverage statement as it reads on the day you search.
 - **For any database, note the date and stated scope of each search.** A miss that falls inside the stated coverage is still only a search result. Name the original series that would settle the question.
 
+For the Navy pension route above, approved pension files of Navy veterans themselves are a separate series from M1279: NARA M1469, "Navy Survivors' Certificates", 1861–1910, arranged by certificate number [H9].
+
 ## Return the episode packet
 
 1. **Registration-versus-service note:** the registration line as written, whether its class fits its age and marital status, and whether an identity-matched service record exists.

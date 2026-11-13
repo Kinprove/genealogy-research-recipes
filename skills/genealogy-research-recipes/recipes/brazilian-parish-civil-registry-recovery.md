@@ -4,13 +4,13 @@ title: "Recover a Brazilian ancestor in parish books, registry-office records an
 summary: "Find a Brazilian baptism, church marriage or burial, or a civil birth, marriage or death entry, and rebuild a family when the parish books are lost."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "BRAZILIAN-PARISH-CIVIL-REGISTRY-RECOVERY-01", "text": "**Work out the history of the place first.** Many Brazilian municipalities are recent. The town in a record may have been a village or district of an older municipality on the event date [S1]."}]
 handoff: ["catholic-parish-diocesan-record-recovery", "evidence-proof-judgment", "familysearch-practical-record-workflows", "hispanic-catholic-register-recovery", "portuguese-parish-civil-register-recovery", "probate-case-document-inventory"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Church and civil registers", "order": 1051}
 ---
 
@@ -85,6 +85,8 @@ Gather these before searching:
 - **Search for earlier civil books only for known exceptions.** From 1863, non-Catholic marriages went into a book kept by the municipal council secretary where one spouse lived. Non-Catholic births and deaths went to the local justice-of-the-peace clerk [S11]. FamilySearch notes some offices with books from the 1860s and 1870s, and others that did not start until the 1920s [S9].
 - **Civil marriage starts on 24 May 1890.** From that date only a marriage made under Decree 181 had civil validity. The couple could hold the church ceremony before or after the civil one [S12]. Search both registers for every marriage after that date, and expect two different dates.
 
+**Read the marriage rules by date.** From 1 January 1889 [S8], the 1888 rules required every couple, whatever their religion, to have their marriage entered within three days by the justice-of-the-peace clerk of their parish of residence, from the celebrant's certificate or statement [S7]. For a church marriage of 1889 or early 1890, search the civil books too. These rules replaced an earlier regulation of 25 April 1874, Decree 5.604 [S7], [S48]. They took effect across the Empire only on 1 January 1889 [S8], so do not take 1874 as the start either. Decree 521 of 26 June 1890 then removed the couple's choice to hold the church ceremony before or after the civil one [S12], [S49]. Under it, the civil marriage was always to come first [S49]. A minister who held the religious ceremony before it faced six months in prison and a fine [S49]. The decree took effect in each jurisdiction three days after the local judge published it [S49], so the date varies by place.
+
 ## 3. Search forward for late registrations, and weigh how they were made
 
 - **Search the following years.** One presenter usually finds a late birth registration within five years of the birth, and has seen 10-, 15- and 20-year delays [S13]. Some people born after 1889 were never registered [S14].
@@ -103,6 +105,8 @@ Gather these before searching:
 - **Compare church and civil entries for immigrants.** A priest who shared the family's language could write a name more accurately than the civil clerk [S16]. Take the name form from the baptism and the civil entry separately, and keep both in the name register.
 
 ## 5. Use FamilySearch to find the entry, and order the inteiro teor when the copy matters
+
+**Privacy gate:** <!-- privacy-gate: request --> An order for a second original or a full-text certificate (inteiro teor) sends the registered person's identity and your relationship to them, and the full text can show filiation and other sensitive details about people who may be living. Answer the privacy gate in `SKILL.md` before you order one.
 
 - **Browse the images; do not trust the index.** Brazilian indexes are usually ordered by the child's or the groom's given name. The number in an index can be a page or an entry: "L" is the book, "fl." or "fls." the folio, and "v" the back of the folio (verso) [S1]. Civil books often have a name index at the start or end of the volume [S22].
 - **Check where the online run ends.** FamilySearch can stop years before the register does. For Pombal, Paraíba, it held marriages only to 1900 and deaths to 1889, and the parish found a 1904–1906 marriage in its own books [S23].
@@ -124,6 +128,8 @@ Gather these before searching:
 ## 7. When the parish books are lost, rebuild from the substitute series
 
 Look in each series for a dated document that ties a couple to one more relative. One presenter builds families only from such dated "couple plus one" documents, because undated reconstructions collapse under same-named people [S6]. Mark each series searched, found or not found.
+
+**Privacy gate:** <!-- privacy-gate: request --> When a civil marriage is recent, a request for its application file (below) sends the couple's names and asks for papers about the couple and their parents, who may be living; answer the privacy gate in `SKILL.md` before you send it.
 
 - **Probate inventories and wills (inventários, testamentos).**
   - Search the orphans' court (Juízo de Órfãos) of the town that held jurisdiction on the death date. An 1883 inventory for a couple living in Parelhas was filed in the court of Jardim [S31].

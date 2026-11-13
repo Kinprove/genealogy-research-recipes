@@ -45,7 +45,7 @@ Link out for the shared steps:
 Gather these before searching:
 
 - every form of each person's name seen so far, with the document it came from, and the form the family uses
-- each event's date, and whether it falls before the reported deportation start of 23 February 1944 (search-result summaries only; full articles not read [S5], [S6]), during 1944–1957 or after the restoration of 9 January 1957
+- each event's date, and whether it falls before the start of the deportation on 23 February 1944 [S5], [S6], during 1944–1957 or after the restoration of 9 January 1957
 - the home village and district as the family names them, and as each document writes them
 - the place of settlement as written: SSR, oblast, raion, selsoviet, and kolkhoz, sovkhoz or enterprise
 - what the family already holds: a rehabilitation certificate, a certificate of eviction in 1944, and papers from the exile period
@@ -62,9 +62,9 @@ Gather these before searching:
 ## 2. Fix the jurisdiction at each event's date
 
 - **Date each event against the sequence of units:**
-  - **Until 7 March 1944:** the Chechen-Ingush ASSR. Search-result summaries date the start of the deportation of Chechens and Ingush to 23 February 1944; the full articles were not read, so this source check remains unconfirmed [S5], [S6].
+  - **Until 7 March 1944:** the Chechen-Ingush ASSR. The deportation of the Chechens and Ingush began on 23 February 1944 [S5], [S6].
   - **7–22 March 1944:** the decree of 7 March 1944 abolished the ASSR. Its core became Grozny okrug (Грозненский округ) of Stavropol krai [S2].
-  - **22 March 1944 to 9 January 1957:** Grozny oblast (Грозненская область) of the RSFSR, formed by decree of 22 March 1944 [S2], [S3].
+  - **22 March 1944 to 9 January 1957:** Grozny oblast (Грозненская область) of the RSFSR [S3], formed by decree of 22 March 1944 [S24].
   - **From 9 January 1957:** the restored Chechen-Ingush ASSR within the RSFSR [S4].
 - **Check whether the district went to a neighbour in 1944.** The decree of 7 March 1944 transferred [S2]:
   - **to the Dagestan ASSR:** the Vedeno, Nozhai-Yurt, Sayasan and Cheberloy districts, the Kurchaloy and Sharoy districts except their north-western parts, and the east of the Gudermes district

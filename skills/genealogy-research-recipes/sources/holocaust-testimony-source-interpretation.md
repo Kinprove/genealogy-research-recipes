@@ -98,6 +98,12 @@ original synthesis, applying the existing evidence/proof recipe to these source 
   Database on the list of beneficiaries of JDC's free parcel service in the Soviet Union,
   1943–1945, with a wartime address in Samarkand. It is one family's account, not a description of
   the whole list.
+- **H21:** Arolsen Archives, [Repository of T/D cases, 6.3.3.2](https://collections.arolsen-archives.org/en/archive/6-3-3-2),
+  read 2026-11-12 through the archive's own data service, which supplies the page's text; the page
+  itself is a client-side application. Rights: cited reference, not reproduced. Used for: the
+  unit's scope note, "Access to these files is restricted due to privacy issues. Please contact
+  the Arolsen Archives for further information", and the archive tree's count of 0 files for the
+  unit.
 
 ## Verification limits
 

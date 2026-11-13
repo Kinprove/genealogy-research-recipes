@@ -514,6 +514,17 @@ Find a Grave original-image rules were checked on 2026-11-06 against P62–P65 a
   community blog post; its March 2025 counts are superseded by P96 and P97, and its statement that
   Cemety's Poland and Romania projects had not moved forward was not checked and is not adopted.
 
+- **P99:** American Battle Monuments Commission, [Burial and Memorialization Statistics](https://www.abmc.gov/burial-and-memorialization-statistics), read 2026-11-13.
+  Used for: the 8,209 Korean War and 2,504 Vietnam War missing memorialized at the Honolulu
+  Memorial, and ABMC's administration of Mexico City National Cemetery, Corozal American
+  Cemetery in Panama and Clark Veterans Cemetery in the Philippines. The page does not say
+  which of these people ABMC's name search returns.
+
+- **P100:** Президентская библиотека, [«Московский некрополь», т. 1 (1907)](https://www.prlib.ru/item/954353), read 2026-11-13. Used for: three volumes, St Petersburg, 1907–1908, compiled by V. I. Saitov and B. L. Modzalevsky and published by Grand Duke Nikolai Mikhailovich; page images shown without login.
+- **P101:** Президентская библиотека, [«Петербургский некрополь», т. 1 (1912)](https://www.prlib.ru/item/959811), read 2026-11-13. Used for: four volumes, 1912–1913, compiled by V. Saitov and published by the Grand Duke; page images shown without login.
+- **P102:** Президентская библиотека, [«Русский провинциальный некрополь», т. 1 (1914)](https://www.prlib.ru/item/442554), read 2026-11-13, with the preface (p. V) on the page images. Used for: compiler V. Sheremetevsky, publisher the Grand Duke, the eleven guberniyas and two monasteries covered, the Holy Synod circular of 29 November 1908, and page images shown without login.
+- **P103:** Российская государственная библиотека, [«Русский провинциальный некрополь», т. 1](https://search.rsl.ru/ru/record/01004161651), read 2026-11-13. Used for: the record's statement that the document is in open access in full.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of the attributed cemetery, gravestone and burial-record workflows — FSL-1.1-MIT (kinprove-original)

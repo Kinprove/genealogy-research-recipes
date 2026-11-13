@@ -10,7 +10,7 @@ guardrails: [{"id": "ANCESTRY-DNA-MATCH-INVESTIGATION-01", "text": "Keep three c
 handoff: ["ai-for-dna-research", "ai-for-documentary-records", "dna-match-outreach-staging", "evidence-proof-judgment", "unknown-parentage-wato"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["ancestrydna"], "local_script": [], "extensions": ["browser extension view comparison (optional)"], "data_transfer": ["link"], "contact": ["contact"]}
+capabilities: {"browse": ["ancestrydna"], "local_script": [], "extensions": ["browser extension view comparison (optional)"], "data_transfer": ["link", "publish"], "contact": ["contact"]}
 router: {"tier": "full", "group": "Featured workflows", "order": 23}
 ---
 
@@ -149,6 +149,8 @@ Treat a settler or diaspora Journey as a lead for a match search, not as evidenc
 ## 4. Put the branch code first; make the dots readable
 
 **Use when:** you repeatedly inspect the same matches.
+
+**Privacy gate:** <!-- privacy-gate: publish --> A match note can name living matches and state a tentative relationship, and the people the test is shared with can read it (next paragraph). Before writing or revising a note about a person who may be living, list who can read the test's notes and answer the privacy gate in `SKILL.md`. Access to the matches, or a tester's permission to analyze them, is not permission to show a hypothesis to those readers. Without that permission, keep the hypothesis in a local file and leave the note unchanged.
 
 Begin each note with the ancestral branch, followed by review date, basis and next question (Bartlett, 2024-07-19; 2025-01-01). Notes hold 500 characters. The owner and invitees can see them; collaborators and managers can edit them.
 

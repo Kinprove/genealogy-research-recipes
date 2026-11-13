@@ -66,6 +66,8 @@ Gather these before searching:
 - **Split the Northern Territory at 24 August 1870.** Civil registration there began on that date, and those records are with the NT registry [S24]. For NT events of 1856–1863, search New South Wales records; for 1863–1870, search South Australian records [S1].
 - **Fix the start of civil registration for the state.** Tasmania 1838, Western Australia 1841, South Australia 1842, Victoria 1 July 1853, New South Wales and Queensland 1856 [S2], [S3], [S4].
 
+**The Australian Capital Territory is the exception.** The area was part of New South Wales until 1911 [S1 @2026-11-13]. For births in the Canberra region before 1918, and marriages and deaths there before 1930, search the New South Wales indexes; such events may be registered under the districts of Queanbeyan or Yass [S1 @2026-11-13].
+
 ## 2. Read a pre-civil index entry as a church record
 
 - **In the NSW, Victorian and Queensland indexes, entries from before those dates are transcribed church baptisms, marriages and burials.** The NSW registry holds transcribed copies, not the original church registers [S3]. The ranges are NSW 1788–1855 [S3], Victoria 1836–1853 [S5], and Queensland baptisms and burials 1829–1856 and marriages 1839–1856 [S7].
@@ -113,6 +115,8 @@ Gather these before searching:
 - **Before 1924, search the archive of the state where the ship arrived.** Federation did not move the lists: Public Record Office Victoria holds inward overseas passenger lists from British ports for 1852–1923 (VPRS 947 and 7666) [S14].
 - **After 1923, search the National Archives of Australia too.** PROV states that Victorian immigration records after 1923 are held by the NAA [S25]. Keep the state archive in the search: Queensland State Archives indexes immigrant ships bound for Queensland for 1922–1940 [S26].
 - **Route by colony and date before you call a passenger search negative.**
+
+**Western Australian passenger lists after 1900 are the exception.** The State Records Office of Western Australia says that from 1901 responsibility for immigration passed from the states to the Commonwealth, so the lists after 1900 are generally held by the WA Branch of the National Archives of Australia [S32 @2026-11-13]. For a ship that arrived in Western Australia after 1900, search the NAA first; the before-1924 rule above does not apply there.
 
 ## 8. Search Trove and Papers Past inside their digitised runs
 

@@ -4,13 +4,13 @@ title: "Route a German soldier to the military series that survive for his perio
 summary: "Route a German soldier to the series that survive for his period, army and rank class; recover dated hospital-book episodes when personnel files are missing."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "GERMAN-MILITARY-RECORD-PERIOD-ROUTING-01", "text": "A regimental canton, a gazette notice or a casualty-list line is a lead with limits. None of them is a birthplace, a death date or an identity."}]
 handoff: ["galicia-bukovina-habsburg-record-routing"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "German records", "order": 1079}
 ---
 
@@ -120,10 +120,16 @@ particular hospital stays [S8]. Select this route for the period and holding act
 confirmed by the custodian; it does not extend the Prussian loss findings to other armies.
 
 The surviving books of the Krankenbuchlager Berlin, which held the hospital books of
-Prussian soldiers, are in the Bundesarchiv (Abteilung PA). The depots for the other armies
-in Dresden, Stuttgart and Munich were destroyed in the Second World War, but the same Bundesarchiv page
-says the Munich books were moved to Berlin in 1964 [S12]. For a Bavarian soldier, ask the
-Bundesarchiv whether a hospital book survives before you record the route as destroyed.
+Prussian soldiers, are in the Bundesarchiv [S12 @2026-11-13]. Since 1 September 2025 its
+Abteilung Deutsches Reich in Berlin-Tegel answers all person-related enquiries about military
+personnel up to 1945, and from March 2026 the person-related holdings up to 1945, the Prussian
+army's hospital books (PH 22-II) among them, move there from Freiburg [S21 @2026-11-13].
+Address a hospital-book enquiry to the Abteilung Deutsches Reich, not to the Abteilung PA that
+the older page S12 names. The depots for the other armies in Dresden, Stuttgart and Munich were
+destroyed in the Second World War, but the same older page says the books of later depots in
+Kassel and Munich were brought together at the Krankenbuchlager Berlin in 1964
+[S12 @2026-11-13]. For a Bavarian soldier, ask the Bundesarchiv whether a hospital book
+survives before you record the route as destroyed.
 
 1. Give the archive the independently supported name, birth details and any hospital,
    unit or date clues you have. Ask which surviving hospital book or associated finding
@@ -148,6 +154,8 @@ Bundesarchiv whether a hospital book survives before you record the route as des
    record documents, not continuous service or a complete military history.
 
 ## 5. Wehrmacht: personnel and loss documents first, then unit records
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for a Wehrmacht soldier's personnel documents sends his identity and your kinship to him, and he or relatives named in the file may be living; answer the privacy gate in `SKILL.md` before you send it.
 
 - **Request the man's documents from the Bundesarchiv.** The WASt (Deutsche Dienststelle) holdings became part of the Bundesarchiv on 1 January 2019, initially as department PA. Send the request to the Bundesarchiv, addressed to the department its current guidance names for pre-1945 military personnel records. These records give personal details, including unit information. A participant advised asking for them because they may also give the birthplace, division and regiment [S4]. Log this request on its own. It is not the same as a Volksbund query.
 - **Keep the Volksbund entry as a separate lead.** In the same thread, the researcher had asked the Volksbund (the German war graves commission) which source its birth data came from. There was no reply after two to three months [S4]. A grave-register birth date is not a birth record, and its source stays unknown until the Volksbund answers.

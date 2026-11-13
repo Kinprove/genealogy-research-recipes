@@ -12,14 +12,19 @@
 - **S2:** J-Roots participants, *Ellis Island*, thread begun 2010-11-26 —
   [discussion](https://forum.j-roots.info/viewtopic.php?f=167&t=1551). Header/adjacent pages,
   detention lists and browsing after failed name searches. Historical database coverage and the
-  participants' proposed OCR explanation are not adopted as current facts.
+  participants' proposed OCR explanation are not adopted as current facts. Read in full on
+  2026-11-12 from Internet Archive captures of August 2016, because the live forum's certificate
+  had expired.
 - **S3:** Ahnenforschung.net participants, *FN Lavender 1922 aus Polen nach NY, jewish*, thread begun
   2026-02-26 — [discussion](https://forum.ahnenforschung.net/forum/thread/2999886/).
-  Child-name variant recovery and separately reading origin/destination contact fields. The
-  discussed family's identity and locality are not independently adjudicated here.
+  Finding a passenger list through another spelling of a passenger's name, and separately reading
+  origin/destination contact fields. The discussed family's identity and locality are not
+  independently adjudicated here. Read in full on 2026-11-12; the two attached images need a
+  sign-in and were not seen.
 - **S4:** Aimee Cross, *Finding the RIGHT Immigration Record*, 2025-12-11 —
   [tutorial](https://www.youtube.com/watch?v=xm7HHLneP-E). Family chronology, companions, full
-  records and ship/date browsing. Historical coverage dates are checked through H1–H4.
+  records and ship/date browsing. Historical coverage dates are checked through H1–H4. Captions
+  read in full on 2026-11-12.
 - **S5:** Nicole Elder Dyer, *RLP 313: Immigration Records Part 4 – After 1906*, 2024-07-08 —
   [post](https://familylocket.com/rlp-313-immigration-records-part-4-after-1906/).
   Separate family arrivals, return journeys and intended onward destinations.
@@ -30,7 +35,7 @@
 - **S7:** Suzanne Hoffman, *Mayhem on a Manifest*, BYU Library Family History Center,
   presented 2024-10-10, published 2024-10-11 — [presentation](https://www.youtube.com/watch?v=ZgyxRZdHgcw).
   Searching a destination contact to recover a traveler; its other identity inferences are not
-  adopted here.
+  adopted here. Captions read in full on 2026-11-12.
 - **S8:** Angela Sinickas, *An Introduction to Lithuanian Genealogy*, BYU Family History Library,
   published 2019-02-26 — [presentation](https://www.youtube.com/watch?v=mXVe1M5AibY). An origin
   named on an immigration record can be the guberniya rather than the same-named city; its
@@ -131,14 +136,16 @@
   police offices printed in *Vologodskie gubernskie vedomosti* in November 1913.
 - **H14:** Freie und Hansestadt Hamburg, Behörde für Kultur und Medien,
   [Link to your Roots](https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/projekte-und-initiativen/link-to-your-roots-110216),
-  opened 2026-11-07. Used for: the Staatsarchiv Hamburg's 555 volumes of emigrant lists for
+  opened 2026-11-07 and read again on 2026-11-12. Used for: the Staatsarchiv Hamburg's 555 volumes of emigrant lists for
   1850–1934, recording name, place of origin and destination, searchable online at Ancestry.
-- **H15:** Ancestry, [Hamburg Passenger Lists, 1850-1934](https://www.ancestry.com/search/collections/1068)
-  (collection 1068), read from an
+- **H15:** Ancestry, Hamburg Passenger Lists, 1850-1934 (collection 1068; the live collection page
+  returned HTTP 403), read from an
   [Internet Archive capture of 2026-10-21](https://web.archive.org/web/20261021055337/https://www.ancestry.com/search/collections/1068)
-  on 2026-11-07 (the live page returned HTTP 403). Used for: the gap of 1915–1919, separate direct
-  and indirect lists for 1854–1910, the last place of residence on most lists, and a partial index
-  for 1850–1914 and 1920–1934.
+  on 2026-11-07 and read again on 2026-11-12. Used for: the gap of 1915–1919; separate direct and
+  indirect lists for 1854–1910; indirect passengers transferring to another ship mostly in English,
+  French, Belgian and Dutch ports, one third or more of the passengers in 1870–1892 and later about
+  4%; the last place of residence on most lists; and an index for 1850–1914 and 1920–1934 that the
+  page calls complete for those years.
 - **H16:** David Lukowiecki, MyHeritage Wiki,
   [Israeli Naturalization Records](https://www.myheritage.com/wiki/Naturalization_records_in_Israel),
   2023-01-15, read 2026-11-08. Used for: the Israel State Archives holding more than 60,000
@@ -198,6 +205,9 @@
   the source types (government department lists, legal and diplomatic records, cemetery lists) and
   the statement that the site is still under development. It does not say how many Russians the
   lists include.
+
+- **H26:** Путеводитель Государственного архива Хабаровского края, [ф. Р-830 «Главное бюро по делам российских эмигрантов в Маньчжурской Империи»](https://guides.rusarchives.ru/node/19980), read 2026-11-13. Used for: the fond's dates (1932–1947) and size (56,850 units), and the 56,260 personal files of emigrants transferred from the regional security directorate in 1992–1993.
+- **H27:** Государственный архив Российской Федерации, [«Возвращенная история»](https://statearchive.ru/2044), read 2026-11-13. Used for: the collection of the Russian Foreign Historical Archive in Prague (1923–1945) held in GARF since January 1946.
 
 ## Credits
 

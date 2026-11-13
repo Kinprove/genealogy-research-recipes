@@ -46,9 +46,12 @@ The order of the checks, the household table, the rule that an age is reported a
 
 S1 to S20 and S39 are published articles, reference pages and practitioners' guides. Their wording is summarised, apart from short quotations of the decree text and the column headings. S21 to S38 are forum posts, mostly from one Urals forum, and they are single participants' reports unless the recipe says otherwise.
 
-Every entry was opened on 2026-11-08. The HTTPS addresses of the Urals forum refused an automated client on that date, so its threads were opened over plain HTTP at the same paths and checked by matching the passages cited.
+Every entry from S1 to S39 was opened on 2026-11-08. The HTTPS addresses of the Urals forum refused an automated client on that date, so its threads were opened over plain HTTP at the same paths and checked by matching the passages cited.
 
-The following were NOT verified: the exact date of the 1722 decree in the Полное собрание законов; the practice of any diocese outside the worked examples; the current digitisation of any list; and whether the destruction order of 1927 was carried out outside Moscow guberniya.
+The following were NOT verified: the practice of any diocese outside the worked examples; the current digitisation of any list; and whether the destruction order of 1927 was carried out outside Moscow guberniya.
+
+- **S40:** Полное собрание постановлений и распоряжений по ведомству православного исповедания Российской империи, vol. 2 (1722), St Petersburg, 1872, [Internet Archive scan](https://archive.org/details/polnoesobraniepostanovlenijirasporjazhen64), pages 99–100 read on 2026-11-12. Used for: Synod order No. 453 of 28 February 1722, point 2, requiring books of parishioners «мужеска и женска полу», arranged «по домомъ», with space under each house for arrivals and departures; and its note that the same order was issued again at the Synod's conference with the Senate on 16 July 1722 (ПСЗ, vol. 6, No. 4052).
+- **S41:** Полное собрание законов Российской империи, first series, vol. 6 (1720–1722), St Petersburg, 1830, [Internet Archive scan](https://archive.org/details/PolnoesobraniezakonovRossijskojimperiis34), pages 513 and 737–739 read on 2026-11-12. Used for: No. 3914 of 7 March 1722, a Synod decree on sending reports of those who had not confessed and of schismatics, and the fines, to the Synod; and No. 4052 of 16 July 1722, issued by the Senate jointly with the Synod, whose point 2 again orders books of both sexes arranged by house with space for arrivals and departures.
 
 ## Credits
 

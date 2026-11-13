@@ -10,7 +10,7 @@ guardrails: [{"id": "RUSSIAN-EMPIRE-EMIGRANT-ORIGIN-RECOVERY-01", "text": "Prese
 handoff: ["ai-for-documentary-records", "beider-given-name-variants", "bessarabia-moldova-record-routing", "evidence-proof-judgment", "jewishgen-search-family-reconstruction", "newspapers-com-search-recovery", "research-documentation", "russian-empire-jewish-identity-attribution", "russian-volost-town-administration-records", "source-citation", "usa-immigration-search-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "request"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 20}
 ---
 
@@ -93,6 +93,10 @@ the manifest that was found had sailed from Bremen, and the colony marriage and 
 only by names, ages and a child. Treat such a link as a candidate to test. It does not settle the
 family's earlier German origin.
 
+**Privacy gate:** <!-- privacy-gate: request --> A request for a resettler's EWZ file sends their
+identity and the user's signed application, and a person resettled as a child in 1939–1945 may be
+living; answer the privacy gate in `SKILL.md` before you send it.
+
 If the family moved in the 1939–1945 resettlement of ethnic Germans from the USSR, interwar
 Poland and Volhynia, Bessarabia or the Baltic states, check the naturalisation and resettlement
 files of the Einwandererzentralstelle (EWZ). [H9, H12] The originals are at the Bundesarchiv as
@@ -160,8 +164,10 @@ Run a short, logged ladder:
 
 1. Search the documented name variants with the chronology's date interval. Leave an uncertain
    birthplace or nationality filter off the initial searches.
-2. Search a spouse, child or documented fellow traveler using their own recorded variants. A
-   community case recovered the family list through a child's alternative spelling. [S3]
+2. Search a spouse, child or documented fellow traveler using their own recorded variants. In a
+   forum case, a search for a second passenger of the same surname, under the spelling Lewender
+   for Lavender, found the passenger list on FamilySearch, and all the children's names could then
+   be read. [S3]
    Use [beider-given-name-variants.md](../../genealogy-research-recipes/recipes/beider-given-name-variants.md)
    for supported Jewish given-name variants; keep generated guesses separate.
 3. If the database supports it, search the known U.S. contact's name or address. Otherwise inspect
@@ -169,12 +175,20 @@ Run a short, logged ladder:
    without being a passenger on that voyage. [S7]
 4. Try another index of the same collection and compare the images. A new provider's hit does not
    make a second independent record. If a ship/date is known, browse its arrival list and relevant
-   passenger sections rather than repeating the same failed name query. [S2, S4]
-5. If the arrival record or a family account names Hamburg as the port of departure, search the
-   Hamburg emigrant lists. They cover 1850–1934 with a gap for 1915–1919, and have separate
-   direct and indirect lists for 1854–1910. Most give the last place of residence, which can name
-   the town that a manifest gives only as "Russia". Ancestry has a partial index. [H14, H15] For other
-   ports and for pairing a departure list with its arrival, use
+   passenger sections rather than repeating the same failed name query. Researchers report that browsing
+   by hand found manifests the name search had missed, family members listed pages apart on one
+   manifest, and detained passengers on separate sheets. [S2, S4]
+5. If the arrival record or a family account names Hamburg as the port of departure, or the
+   arrival record names an English, French, Belgian or Dutch port, search the Hamburg emigrant
+   lists. They cover 1850–1934 with a gap for 1915–1919. [H14, H15] From 1854 to 1910 they keep
+   separate lists for direct passengers and for indirect passengers, who were registered on one
+   ship in Hamburg and transferred to another before reaching their destination, mostly in
+   such a port. From 1870 to 1892 one third or more of the
+   passengers went the indirect way; later about 4% did. [H15] Most lists give the last place of
+   residence, which can name the town that a manifest gives only as "Russia". [H15] Ancestry says
+   its index covers 1850–1914 and 1920–1934 and is complete for those years. [H15] Still try spelling
+   variants and browse the images before treating a miss as absence. For other ports and
+   for pairing a departure list with its arrival, use
    [U.S. immigration search recovery, workflow 5](usa-immigration-search-recovery.md#5-recover-an-arrival-through-the-departure-list).
 
 For a Canadian route, distinguish **arrival in Canada** from **admission to the United States**.
@@ -278,6 +292,10 @@ Clusters become candidates for the competing-locality table. The
 rare a surname is or establishes kinship; a shared surname only guides the next search and never
 substitutes for the record that distinguishes the possibilities.
 
+**Privacy gate:** <!-- privacy-gate: request --> When a relative may be living, a request for the
+record that settles their birthplace or parentage sends their identity; answer the privacy gate in
+`SKILL.md` before you send it.
+
 When the direct traveler has only “Russia” in the birthplace field, a sibling's full arrival or
 naturalization record can supply a locality lead. Preserve the documented sibling relationship
 and the sibling's own place role: their birthplace is not automatically the target's birthplace.
@@ -320,6 +338,13 @@ department lists, legal and diplomatic records, cemetery lists and other sources
 is still under development. [H24 @2026-11-12], [H25 @2026-11-12] It searches by name only, so try
 given names when the surname spelling is uncertain. [S22 @2026-11-12] Treat a hit in either source
 as a lead to the page or list entry, and a miss as no result for that source only.
+
+For an emigrant registered in Manchuria, the State Archive of Khabarovsk Krai holds f. Р-830, the
+Main Bureau for the Affairs of Russian Emigrants in the Manchurian Empire (БРЭМ), 56,850 units,
+1932–1947; its personal files of emigrants registered with the bureau, 56,260 of them, came from the
+regional security directorate in 1992–1993. [H26 @2026-11-13] Separately, the collection of the Russian
+Foreign Historical Archive in Prague (РЗИА, 1923–1945) entered GARF's predecessor in January 1946;
+search GARF for it. [H27 @2026-11-13]
 
 **Artifact — contact worklist:**
 

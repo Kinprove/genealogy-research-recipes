@@ -89,6 +89,12 @@ Record one row per copy. Do not stop at the first copy you find.
 
 Mark each row as inspected (images or original), extract only, or unlocated. If an archive reports a find but gives no locator, ask for the fond, opis, delo and leaf, and check the file's own cover title. In one archive reply the file turned out to be an alphabetical list of family heads that cited revision numbers. That kind of list is not a revision list and does not show who was in the family. [S7]
 
+For Left-Bank Ukraine, the Ukrainian Wikisource index to TsDIAK f. 51 (General Military Chancellery),
+op. 3, vol. 12 lists 62 regimental revisions (ревізії) of 1729–1764, among them 15 for the Pereiaslav
+and 12 for the Chernihiv regiment, with a Wikimedia Commons PDF for each file. [S57 @2026-11-13] The
+files are titled by regiment, so find the sotnia and village inside the file. Do not match them to the
+numbered revisions by year; read each file's own title and date.
+
 ## 3. Use the volume's own finding aids, then check that the file is what its title says
 
 - Many volumes open with a реестр (register) of settlements and leaf numbers. Use it to find the leaf range for the target village. A participant transcribed one at the head of GAPK 111-3-40 (1816, Perm, Okhansk and Cherdyn districts). Registers give only household or soul totals, and the person-by-person entries follow in the body. [S15] Some central files end with their own aids. The RGADA inventory records a summary at l.312 ob. and a geographic index at l.313 of f.350, op.2, d.909.
@@ -145,6 +151,8 @@ Keep every field as written, with the leaf (л./об.) for each household. Do no
 
 ## 5. Test formulas, placements and ages before using them
 
+**Take each age column's reference date from its heading, not from the year on the file's label or cover.** A heading can reckon ages at the previous revision, at an additional list or at another named year. Copy the heading's wording with the ages. If the headings leave the reference date open, copy the ages as written and derive no birth year from them. Once the heading settles that a column gives the current age, compute from the compilation date below.
+
 - **Boilerplate origins.** In the 1743 Katai tales almost every entry repeats "written in the poll census at village X, native of the same". A participant checked these against the 1719 RGADA census book. Several men had actually been counted in other villages, and some surnames were absent in 1719 altogether. Treat the formula as a claim and test each household against the earlier census. [S11], [S10]
 - **Official registration versus residence.** A participant found that the 1763 revision of Katai ostrog (cited as RGADA f.350, op.2, kn.904) entered some branches at their former settlements, although the 1743 census and later records placed them elsewhere. Other participants gave two more cases. In the first, an 1834 tale notes a family "living there for many years" (проживает с давних лет), and a 1790 confession list already shows them at the new place. In the second, a family was returned to its official place. Date residence from confession lists. [S23]
 - **Compilation date.** Compute birth estimates from the actual compilation date for that place, not from 1 January of the nominal year:
@@ -185,6 +193,8 @@ Keep every field as written, with the leaf (л./об.) for each household. Do no
 
 ## 7. Bound every absence
 
+Start with the list's own coverage. From its title and headings, name whom it leaves out by construction: women in a male-only revision (step 3) or in a male-only family list made for the call-up, and people registered in another society or outside the taxable population. A wife or daughter missing from a male-only list was not counted, so her absence is no evidence of her death or of who the mother was. The checks below apply only to people the list was made to include.
+
 A person, household or village that is not found counts only as a gap with stated bounds. Never record it as a death, a non-existent village or a lost revision until you have checked all of these:
 
 - the other copies (central, local, treasury, owner)
@@ -195,7 +205,9 @@ A person, household or village that is not found counts only as a gap with state
 
 [S1], [S5], [S12] Also check whether leaves missing from one online image set survive elsewhere. A participant could not find a person in the 1795 Zlatoust factory leaves on the NARB site and expected him on the missing leaves. Another participant then posted his entry from the 1795 list (cited as И-138-2-59, ll.266–266 ob.). [S12] NARB (НАРБ) is ambiguous: it abbreviates the National Archive of the Republic of Bashkortostan in Ufa [S34], and other recipes in this catalog use it for the National Archive of the Republic of Belarus. Confirm which archive holds fond И-138 in that archive's own catalogue, and write the archive's full name in the citation. Separately, a participant said she held missing leaves of the same revision and offered them to a researcher, who had meanwhile found his person with other help. [S12] Absence from a revision can mean the person was moved, was counted at the official place, or was outside the taxable population. [S9], [S23]
 
-Route a revision for present-day Bashkortostan, Chelyabinsk or Orenburg oblast by the guberniya on its date. The offices of Orenburg guberniya moved from Orenburg to Ufa in 1802, and Ufa became the seat of a separate Ufa guberniya in 1865. [S45 @2026-11-08] The Orenburg Treasury Chamber's revision tales are fond И-138, op. 2 of the National Archive of the Republic of Bashkortostan in Ufa, per NashiPredki's copy of the inventory [S47 @2026-11-08], and hold the 5th–10th revisions (1795–1858) according to a Familio guide [S48 @2026-11-08], so an 1816 or 1834 tale for a village now in Chelyabinsk or Orenburg oblast can be in Ufa, and for this fond NARB means the Bashkortostan archive. Conversely, the agreement of 20 March 1919 moved volosts of the Orenburg, Orsk, Verkhneuralsk, Troitsk and Chelyabinsk uezds to Bashkiria, so look for their pre-1919 records in the Orenburg and Chelyabinsk regional archives as well. [S46 @2026-11-08]
+Route a revision for present-day Bashkortostan, Chelyabinsk or Orenburg oblast by the guberniya on its date. The offices of Orenburg guberniya moved from Orenburg to Ufa in 1802, and Ufa became the seat of a separate Ufa guberniya in 1865. [S45 @2026-11-08] The Orenburg Treasury Chamber's revision tales are fond И-138, op. 2 of the National Archive of the Republic of Bashkortostan in Ufa, per NashiPredki's copy of the inventory [S47 @2026-11-08], and hold the 5th–10th revisions (1795–1858) according to a Familio guide [S48 @2026-11-08], so an 1816 or 1834 tale for a village now in Chelyabinsk or Orenburg oblast can be in Ufa, and for this fond NARB means the Bashkortostan archive.
+
+Conversely, the agreement of 20 March 1919 on Soviet Bashkir autonomy moved to Bashkiria volosts of eleven uezds: Orenburg, Orsk, Verkhneuralsk, Troitsk, Chelyabinsk, Shadrinsk, Ekaterinburg, Krasnoufimsk, Zlatoust, Ufa and Sterlitamak, and one volost of Buzuluk uezd. [S46] Shadrinsk, Ekaterinburg and Krasnoufimsk uezds belonged to Perm guberniya. [S56] So for a village that was in Bashkiria after 1919, look for its pre-1919 records under the guberniya and uezd it then belonged to, Perm guberniya included, not only in the Orenburg and Chelyabinsk regional archives.
 
 ## 8. Check that 1897 census sheets survive before routing anyone to them
 

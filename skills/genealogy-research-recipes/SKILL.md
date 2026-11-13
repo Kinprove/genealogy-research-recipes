@@ -21,7 +21,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## Version and updates
 
-This copy is version 1.17.2, released 2026-11-12.
+This copy is version 1.18.0, released 2026-11-13.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
@@ -103,8 +103,10 @@ that entry states.
 
 `[S12 @2026-11-07]` gives the claim's last check date. A dagger such as `[S16†]` marks limited or
 unavailable access: preserve the attributed observation and qualification rather than restating
-it as a verified fact. A partial read supports only its recorded scope. A fresh date or a `read`
-status does not establish that a genealogical inference is correct.
+it as a verified fact. A passage without a recorded review can cite a limited-access source
+without a dagger, so take access limits from the sidecar entry, not from a missing dagger. A
+partial read supports only its recorded scope. A fresh date or a `read` status does not establish
+that a genealogical inference is correct.
 
 ## Privacy gate
 
@@ -177,8 +179,10 @@ agreement, kit pair, site, shared cM).
 When a record may be about a living person, request only what the family question needs.
 Never request a record to find a living person or to learn about their present life. Name
 the record's own access rule (closure period, who is entitled, the subject's consent) and
-follow it. Send only the identity and kinship proof the custodian asks for. The Retention
-item and the next rule apply to what arrives.
+follow it. An office's rule on who may order a record is not the subject's permission: the
+Permission item still applies to each living person the request names. Until every item is
+answered, the request stays an unsent draft on the user's device. Send only the identity and
+kinship proof the custodian asks for. The Retention item and the next rule apply to what arrives.
 
 ### Third persons in sensitive files
 
@@ -524,7 +528,9 @@ live control.
   household comparisons.
   *Use for:* JewishGen exact, partial, phonetic or fuzzy searches; double names and patronymics;
   conflicting ages or delayed registration; a missing marriage record, unknown maiden name or
-  daughter who disappears under a married surname.
+  daughter who disappears under a married surname; counting result rows as distinct entries, keying
+  households on the original record, and telling an overflow, an error or an uncovered database from
+  a completed search with no hits.
   *Core guardrail:* Do not convert a phonetic, household or age match into a relationship.
   *Dated source check:* 2026-11-12.
 
@@ -657,7 +663,7 @@ live control.
   research notes in Markdown or Obsidian; delegating genealogy reading to sub-agents; carrying a
   correction through notes and a tree; research vault; Obsidian genealogy notes; the agent says
   saved or done; sub-agent genealogy research; long genealogy project; keep research across
-  sessions; correct a claim everywhere
+  sessions; correct a claim everywhere; fill empty surname fields in a tree
   *Core guardrail:* Treat a model-written summary, tag or "key insight" as a pointer. Open the
   source before writing a claim.
 
@@ -734,10 +740,10 @@ live control.
   Extract French or Belgian civil acts, trace French marginal continuations and separately
   maintained copies, and check Paris reconstructions when the original series is unavailable.
 
-- **`recipes/dutch-civil-church-record-recovery.md`** — Recover Dutch civil acts and the pre-1811 church register behind them.
+- **`recipes/dutch-civil-church-record-recovery.md`** — Recover Dutch civil acts and the church register kept before civil registration.
   Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian
-  agreements; search burial/fee entries under the household head and trace pre-1811 church
-  registers.
+  agreements; search burial/fee entries under the household head and trace the church registers kept
+  before civil registration began.
 
 - **`recipes/amsterdam-archival-record-recovery.md`** — Recover and read an Amsterdam City Archives register entry.
   Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register
@@ -917,6 +923,15 @@ live control.
 - **`recipes/chechen-ingush-1944-deportation-records.md`** — Trace a Chechen or Ingush family through the 1944 deportation and special settlement.
   Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both
   names of renamed places and both ends of the exile.
+
+- **`recipes/russian-village-family-reconstitution.md`** — Reconstitute a Russian village's families when a generation's records are missing.
+  When a Russian peasant's own birth or parentage record is missing, index everyone the village's
+  registers name, in every role, rebuild its couples and households across the household-list,
+  metrical-book and civil-register years, and test each identity with countable checks.
+  *Use for:* Find the father of a Russian Orthodox peasant born after the last confession lists,
+  whose birth entry does not survive; One man written under several surnames, or none, in metrical
+  books and ZAGS registers; восстановить семьи деревни по исповедным ведомостям, метрическим книгам
+  и книгам ЗАГС
 
 ### Censuses, tax, land and property
 

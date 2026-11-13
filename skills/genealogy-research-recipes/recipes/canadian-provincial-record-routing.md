@@ -4,13 +4,13 @@ title: "Route a Canadian vital, military or Indigenous-series record to its prov
 summary: "Route a Canadian vital registration, world-war personnel file, Métis or First Nations record, or British Home Child to the province, custodian and access category of its date and series."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "CANADIAN-PROVINCIAL-RECORD-ROUTING-01", "text": "Vital registration is provincial. Each province has its own start date, gaps and archive cut-off, so build one coverage row per province before you search."}]
 handoff: ["canadian-census-interpretation", "catholic-parish-diocesan-record-recovery", "evidence-proof-judgment", "french-canadian-register-recovery", "historical-place-name-resolution", "us-vital-registration-coverage", "usa-immigration-search-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Country record routing", "order": 1065}
 ---
 
@@ -54,6 +54,8 @@ Gather these before searching:
 
 ## 2. Read a miss against the coverage row
 
+**Privacy gate:** <!-- privacy-gate: request --> A request to a provincial archive or registry for a birth, marriage or death registration, online or not, can name people who are still living; answer the privacy gate in `SKILL.md` before you send it.
+
 - **Past the archive cut-off, route to the provincial registry.** Ask the Archives of Ontario first for an Ontario birth, marriage or death; a registration it does not hold is with ServiceOntario [S2], not missing. A Nova Scotia birth of 1925 is at the Nova Scotia Archives although it is not yet online; request it there [S4]. A BC birth after 1904 is outside the BC Archives index, not absent [S3].
 - **Inside Nova Scotia's 1877–1908 gap, do not search for a birth or death registration.** The province did not record them [S4]. Search instead:
   - marriage registrations, which run straight through the gap [S4];
@@ -64,6 +66,8 @@ Gather these before searching:
 - **Write the row on every negative.** Record the province, the series, the years it covers and the cut-off date you read. A miss without that row is not a negative search.
 
 ## 3. Route a military personnel file by war and access category
+
+**Privacy gate:** <!-- privacy-gate: request --> An ATIP request for the file of a veteran who survived the war sends the veteran's identity, and the veteran may be living; answer the privacy gate in `SKILL.md` before you send it.
 
 - **First World War: open the Canadian Expeditionary Force file in LAC Collection Search.** Library and Archives Canada (LAC) digitised more than 600,000 CEF service files and put them in Collection Search [S5]. Almost all are online [S6] and free to view there. Treat a CEF file that is not found as a search problem first, not as a lost file.
 - **Second World War: decide the access category before calling a file unavailable.**
@@ -79,6 +83,8 @@ Gather these before searching:
 - **Hudson's Bay Company servants and posts: search the Hudson's Bay Company Archives at the Archives of Manitoba.** The HBCA is part of the Archives of Manitoba and holds servants' contracts and pre-1870 records from almost five hundred HBC posts [S9].
 
 ## 5. Trace a British Home Child through the party and the agency
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for a home child's agency case records sends the child's identity and a descendant's consent, and the records can name people who are still living; answer the privacy gate in `SKILL.md` before you send it.
 
 - **Date the movement correctly.** More than 100,000 children were sent from the British Isles between 1869 and the late 1930s. The Fairbridge Society brought some Middlemore children to a farm school in British Columbia between 1936 and 1948 [S10].
 - **Search LAC's Home Children index in Collection Search.** It is built mainly from passenger lists. Where lists were missing or unreadable, LAC filled gaps from other immigration records, and it added a Boards of Guardians register [S10].

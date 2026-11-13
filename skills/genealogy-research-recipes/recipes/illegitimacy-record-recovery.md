@@ -11,7 +11,7 @@ handoff: ["english-nonregister-record-recovery"]
 checked: "2026-11-05"
 checked_basis: "checked 2026-11-05"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1106}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1107}
 ---
 
 # Recover records of a birth outside marriage
@@ -89,7 +89,11 @@ Account for every court term in the selected interval: terms may be bound togeth
 
 ### Child-welfare file to its later custodian
 
+**Privacy gate:** <!-- privacy-gate: request --> This inquiry sends the child's and the mother's names, the birth date and residences to a municipal archive, and asks for a welfare file about parentage and family circumstances. The child and the mother may be living: answer the privacy gate in `SKILL.md` for each of them before the first request, and send only what the archive needs to find the file.
+
 Where the historical responsibility points to a *barnavårdsman* or *barnavårdsnämnd*, ask the responsible municipal archive for both the child's register entry (*liggare*) and individual case file (*akt*), supplying the child, mother, birth date and known residence or move dates [S10], [S11]. Request the file references and surviving documents, rather than treating a name-only reply as the complete case.
+
+**Privacy gate:** <!-- privacy-gate: request --> The authority that received a transferred file is a new destination; answer the privacy gate in `SKILL.md` again before you send the child's and the mother's details there.
 
 Follow the file across documented moves. If the first archive does not hold it, ask whether it was transferred, and request the destination board, transfer date and any register or file reference. Use those references to request the receiving authority's entry and file [S10], [S11]. Linköping's archive guide describes the forwarding of child-welfare papers when a child moved and became registered in another municipality; it also warns of gaps in particular rural series [S11]. A birth-municipality no-hit therefore leaves transfer and survival unresolved.
 
@@ -112,7 +116,7 @@ Follow the roll's actual reference to the linked papers, usually admission docum
 
 Request the actual surviving papers with the roll, entry, year and reference; preserve their own names, roles and statements after inspection. The table does not establish what a particular file contains or identify a parent. If the roll instead gives a diary number/year, follow that distinct reference to *Huvuddiarium* C1 and its accompanying papers E4A [S13]. Keep the different identifiers separate, and record an unavailable or uninspected file without treating it as evidence about parentage.
 
-If the roll records that the mother served as a wet nurse, retain that statement's date and any nurse reference, and use the guide's *Amrullor* D1BA (1816–1937) as the next retrieval target [S13]. Follow the explicitly recorded role; a nurse with a similar name is not thereby the child's mother.
+If the roll records that the mother served as a wet nurse, retain that statement's date and any nurse reference, and use the guide's *Ammrullor* D1BA (1816–1937) as the next retrieval target [S13]. Follow the explicitly recorded role; a nurse with a similar name is not thereby the child's mother.
 
 If the entry describes home support (*understödsbarn*), use the separate rolls D2GA and their register D2GB [S13]. The guide says these children received support while remaining at home, so that category does not establish residence at the institution.
 

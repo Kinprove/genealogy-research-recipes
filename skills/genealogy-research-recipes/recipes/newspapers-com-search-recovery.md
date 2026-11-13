@@ -359,7 +359,11 @@ Use precise result labels:
 - **Recovered candidate:** an inspected notice matches the retrieval question; state any
   remaining same-name uncertainty and hand it to the identity-evaluation recipe.
 - **No match in examined scope:** list the queries, titles, intervals and issues examined.
-  Do not broaden this to “no newspaper record exists.”
+  Do not broaden this to “no newspaper record exists.” Newspapers.com said in a blog post of
+  2026-11-09 that it had completed a re-OCR of the whole site and that a new search may return
+  results the older OCR missed. A no match recorded before that post may rest on the older text,
+  so run its queries once more over the same titles and intervals before relying on it.
+  [H15 @2026-11-12]
 - **Coverage gap:** identify the absent issue, edition or page and the next holding to check.
 - **Access blocked:** identify material that exists but could not be inspected.
 - **Publisher Extra required:** a kind of access blocked. Use it when a hit is listed but its

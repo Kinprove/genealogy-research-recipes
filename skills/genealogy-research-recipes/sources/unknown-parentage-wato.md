@@ -75,6 +75,8 @@ that retained observations are statistically independent.
 59. *Top recurring FAQs* — Jonny Perl (DNA Painter), 2021-06-24 — <https://blog.dnapainter.com/blog/top-recurring-faqs/> — Used for: the usual causes when WATO suggests no hypotheses, and adding a few hypotheses by hand to inspect their score calculation. Read 2026-11-12. Rights: cited reference, not reproduced.
 <!-- markdownlint-enable MD029 -->
 
+60. *Autosomal DNA Transfer FAQ* — FamilyTreeDNA Help Center, edited 2026-11-06 — <https://help.familytreedna.com/hc/en-us/articles/12692882238863-Autosomal-DNA-Transfer-FAQ> — Used for: free uploads accepted only from AncestryDNA, 23andMe and MyHeritage; AncestryDNA tests taken in 2026 or processed after September 2025 refused, tests processed from May 2012 through September 2025 accepted, the processing date counting rather than the download date; and MyHeritage uploads limited to tests run on the GSA chip, most from about March 2019 to late 2025. Article body read in full on 2026-11-13 through the FamilyTreeDNA Help Center article API; the public page returned HTTP 403. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

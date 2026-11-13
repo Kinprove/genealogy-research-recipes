@@ -20,6 +20,19 @@ Use this when you have the image of a French-language birth, marriage or death a
 
 Work from the original image. A yearly index or a ten-year table (*table décennale*, available for Belgian civil registers in the FamilySearch catalog) is only a way to find the act. Marriage acts hold leads that an index leaves out. [S1], [S2] For when French registers and tables begin and where they are kept, see [French departmental record routing, step 1](french-departmental-record-routing.md#1-route-by-département-not-by-a-national-index).
 
+## Contents
+
+- Find Belgian register images in AGATHA
+- Check a Paris reconstructed-record branch
+- Anchor every act on its own date
+- Convert Republican dates with a tool, never by arithmetic
+- Apply *je dis* corrections
+- Read status words as limits at the act date
+- Classify every statement about a parent's death
+- Read a marriage to the end for legitimated children
+- Check marginal continuations and separate copies
+- Output
+
 ## Find Belgian register images in AGATHA
 
 - Search Belgian parish and civil registers in the State Archives' AGATHA (agatha.arch.be). It replaced the old SEARCH site (search.arch.be), which was shut down on 23 December 2024. Links and guides that point to search.arch.be no longer reach the registers. A SEARCH account also works on AGATHA. [S5]
@@ -27,6 +40,8 @@ Work from the original image. A yearly index or a ten-year table (*table décenn
 - A person hit in AGATHA is a pointer. Open the register image and extract the act from it.
 - Search the locality under its French, Dutch and German forms. Belgian place names have several official forms, and an index may use only one.
 - For a large city such as Antwerp or Brussels, also check the city archives before closing a population or migration search.
+
+A Belgian act younger than its public term is not open to everyone. The Archives de la Ville de Bruxelles say that from 1 January 2025, for genealogical, historical or scientific research, birth acts are public after 100 years and marriage and death acts after 75 years; an act exactly 75 or 100 years old is not yet public, and the ten-year tables follow the same terms [S7]. That page dates the change to the law of 13 September 2023 and its royal decree of 11 November 2024 [S7]. The State Archives' page for genealogists still gave 50 years for death acts when it was read on 2026-11-13 [S8], so do not take a death act between 50 and 75 years old as open on the strength of that page.
 
 ## Check a Paris reconstructed-record branch
 

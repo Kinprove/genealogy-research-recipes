@@ -105,6 +105,17 @@ brigade, detachment, position and awards. No registration is needed. Cards exist
 185,000 partisans in January 2022 and the base is still being filled [H82 @2026-11-12], so a miss is not a
 negative; Vera Miller described it in 2023. [H83 @2026-11-12]
 
+For Navy, border-troop or internal-troop service, or for a partisan commander, identify the custodian
+archive first. The Russian State Archive of the Navy (РГАВМФ) holds material from 1696 to 1940 and
+says that Navy documents from January 1941 are kept in the Navy Archive, a branch of the Ministry of
+Defence Central Archive, in Gatchina. [H113 @2026-11-13] The federal archives' reference centre names
+the FSB's Central Border Archive for service in the border troops, the Russian State Military Archive
+(РГВА) for service in institutions of the border and internal troops of the VChK–OGPU–NKVD–MVD (a
+period it prints as 1918–2001), and the Central Archive of Rosgvardiya for internal troops stationed in
+Russia from 1961. [H114 @2026-11-13] For a partisan commander, RGASPI f. 69 (Central Staff of the
+Partisan Movement), op. 4 holds 5,607 personal files of the command personnel of partisan detachments
+for 1942–1944. [H115 @2026-11-13]
+
 For a soldier or civilian named in the wartime press, search «Страницы Победы» in Yandex's
 «Поиск по архивам»: more than 200,000 pages of central, regional, front-line and partisan
 newspapers of 1941–1945 from the National Electronic Library, the Russian State Library and other
@@ -158,6 +169,13 @@ gap, not a negative [H88 @2026-11-12]. To ask that region's state archive for th
 file, use the request in step 2 of
 [Recover the next document before combining the biography](#recover-the-next-document-before-combining-the-biography),
 under that step's privacy gate.
+
+For a Ukrainian who worked in Germany, also check TsDAVO f. 3206 (Reichskommissariat Ukraine, Rivne,
+1941–1945). The annotation of its op. 6 (labour department) describes lists, certificates,
+questionnaires and personal and court files of Russians and Ukrainians who worked in Germany, and an
+alphabetical card index of them; that of op. 2 covers the forced mobilisation of the local population
+for work in Germany. [H116 @2026-11-13], [H117 @2026-11-13], [H118 @2026-11-13] These are inventory
+annotations, not file titles: find the file in the inventory before you cite it.
 
 For a repression lead, record each list's or database's stated inclusion rule and geography
 before reading a miss. Posters in a [repression-databases discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=558)
@@ -228,6 +246,26 @@ with kinship and ages. A card can name other household members by their relation
 so record whose card it is and the target's role on it before attaching a hit. Memsearch aggregates Memorial and other
 memory-project databases, regional ones included; record which source database each hit came
 from. [H38], [H39], [H40]
+
+**Dekulakisation lists sit in local government fonds.** Under the instruction on the confiscation of
+property and the eviction and resettlement of kulaks, approved by the Presidium of the USSR Central
+Executive Committee on 4 February 1930, raion executive committees drew up the lists of households to
+be evicted from decisions of meetings of kolkhoz members and of batraks and poor peasants, and okrug
+executive committees approved them. Special plenipotentiaries of the raion executive committees
+confiscated the property with the participation of village soviets, among others, and the village
+soviets kept it safe; the OGPU organised the delivery to remote regions of the USSR, and krai or
+oblast executive committees the eviction to remote districts of their own krai. [H109], [H110] Look for
+the lists, meeting minutes and property records in the fonds of village soviets and of raion and
+okrug executive committees, for an eviction within the krai also in the krai or oblast executive
+committee's fond, and look for the family's special-settlement file separately. Exile and special
+settlement imposed by administrative order are grounds for rehabilitation in their own right
+(Law 1761-1, art. 3, point «в») [H100], so a missing investigation file does not rule out repression.
+
+**Labour army (трудармия).** Search the archives of the region where the person's column or camp
+worked. The Chelyabinsk oblast archive (ОГАЧО) holds a card file of people mobilised into the
+Bakalstroy–Chelyabmetallurgstroy corrective labour camp, with a database searchable by full name, and
+says that documents on service in the labour army are also held by the Information Centre of the
+Interior Ministry's Chelyabinsk oblast directorate. [H111 @2026-11-13]
 
 Last Address (Последний адрес, poslednyadres.ru) records give the residence, occupation and the
 dates of arrest, execution and rehabilitation. Its search, by surname, given name, birth year,
@@ -308,16 +346,16 @@ St Petersburg). The Military Medical Museum has not answered archive requests si
 redirects them to that branch. [H48]
 
 For a WWI prisoner taken on the Russian front, check the ICRC Geneva archive's coverage before
-using a database miss. A search-engine extract of the ICRC FAQ reports that Russian-front lists
-went to the Danish Red Cross in Copenhagen rather than Geneva, whose documents came mainly from
-the Western, Romanian and Serbian fronts. The PDF itself was not read, so those coverage claims
-remain unconfirmed [H19]. Do not treat a miss as a negative without confirming coverage. The same
-extract describes name-only search and separate catalogues by nationality and military or civilian
-status; those search details were not verified from the PDF either [H19]. The separate guide H20
-was read and gives 29 card indexes [H20]. The Copenhagen material is now at Rigsarkivet (Dansk Røde
+using a database miss. The ICRC's FAQ says that its documents come mainly from the Western Front,
+Romania and Serbia, that lists from the Russian front were not sent to Geneva but collected by the
+Danish Red Cross in Copenhagen, and that the archive has little information about Russian prisoners.
+[H19 @2026-11-12] So a Geneva miss is not a negative. The database can be searched only by name,
+and its cards are filed by country and by military or civilian status in 29 separate catalogues.
+[H19 @2026-11-12], [H20 @2026-11-12] The Copenhagen material is now at Rigsarkivet (Dansk Røde
 Kors, Krigsfangeafdelingen). Only samples survive: two selected boxes of the card index of Russian
-prisoners in Germany (c. 1915–1918) and one random sample bundle of lists (1917–1918), with no
-online images found. A miss there is not a negative either. [H21], [H22]
+prisoners in Germany (c. 1915–1918) and one random sample bundle of lists (1917–1918), listed for
+ordering, with no online images found. [H21 @2026-11-12], [H22 @2026-11-12] A miss there is not a
+negative either.
 
 A missing award sheet is not by itself a gap. The portal project's own description, quoted in an
 [award-archive discussion](https://forum.j-roots.info/viewtopic.php?f=36&t=4542), says that from
@@ -373,6 +411,19 @@ wording saying that relatives were not found or whereabouts are unknown records 
 early case termination does not establish death: the repression-records discussion reports a release after one.
 Not every certificate is false, and neither thread offers a test. Seek decision, execution,
 custody or later-residence records before closing the life interval.
+
+A KGB note to the CPSU Central Committee of 25 December 1962 (No. 3265-с) documents the
+false-certificate practice described above for one group. Under KGB instruction No. 108сс of 1955,
+issued with the agreement of the USSR Prosecutor's Office, relatives of people shot by decision of
+non-judicial bodies (the OGPU Collegium, troikas, the Commission of the NKVD and the USSR Prosecutor)
+were told that the person had been sentenced to ten years in a corrective labour camp and had died
+there. Where needed, the death was registered at ZAGS with a date within ten years of the arrest and an
+invented cause. For people shot by court sentence, the note says that the Military Collegium of the
+USSR Supreme Court and military tribunals registered the death with the execution date and no cause.
+It proposes to tell the relatives of the non-judicial cases the real circumstances orally and to
+register those deaths in the same way, but it does not show that the proposal was adopted. [H98],
+[H99] So for a non-judicial death sentence, do not take the date or cause on a post-1955 certificate as
+established; compare them with the sentence and any execution record.
 
 Record each review of a case as its own dated episode, with the deciding body and exact wording.
 A Khrushchev-era review may annul a sentence for lack of evidence or of a crime without using the
@@ -463,6 +514,43 @@ pages can name living relatives; keep their details out of shared output.
    actually checked. Ask about a documented transfer or another specific creator when relevant;
    do not translate a local reply into proof of universal loss or launch an endless archive sweep.
 
+**Privacy gate:** <!-- privacy-gate: request --> A rehabilitation application or certificate request
+names the repressed person and can name family members who may be living; answer the privacy gate in
+`SKILL.md` before sending it.
+
+**Rehabilitation certificates.** For people repressed by administrative order (exile, banishment,
+special settlement or forced labour under restricted freedom, including in "NKVD labour columns";
+Law 1761-1, art. 3, point «в») [H100], apply to the internal-affairs bodies; for the other categories,
+apply to the prosecutor's office. The repressed person, any other person or a public organisation may
+apply where the body that decided the repression was located or where the applicant lives, and the
+review may take up to three months (art. 6). [H101] Internal-affairs bodies issue a rehabilitation
+certificate or a refusal, which can be appealed in court (art. 7); prosecutors review court and
+non-judicial decisions and issue certificates or, where they find no grounds for rehabilitation, send
+the case with their conclusion to court (art. 8). [H102], [H103] Rehabilitation documents issued in a
+former Soviet republic or by a former USSR body are valid in Russia (art. 11). [H104]
+
+The federal archives' reference centre recommends the Interior Ministry's Main Information and
+Analytical Centre (ГИАЦ МВД) for certificates on repression, sentences served and rehabilitation, and
+the State Archive of the Russian Federation for residents of Moscow and Moscow oblast repressed in the
+1920s–1950s. [H105 @2026-11-13]
+
+**Family members have their own status.** Children who were with repressed parents, or with those
+who replaced the parents, in imprisonment, exile, banishment or special settlement, and children left
+as minors without the care of both parents or one of them because of unfounded repression, are
+themselves recognised as repressed and rehabilitated (art. 1.1). The children, spouse and parents of
+a person who was shot or died in custody and was rehabilitated posthumously are recognised as victims
+(пострадавшие) (art. 2.1). [H106], [H107] So a child, spouse or parent can hold a certificate of their
+own, apart from the repressed person's file; compare the places and dates each gives.
+
+**Copies and withheld pages.** Step 2 above says who may read a rehabilitated person's file. Under
+the 2006 order, archives copy documents from terminated criminal and administrative files and from
+filtration files free of charge at the request of the rehabilitated, of people who had a filtration
+file, and of their relatives and heirs (p. 15). Pages with third persons' personal data can be
+withheld, sealed in envelopes, or copied with those data removed (pp. 9, 14). A relative of a person
+who had a filtration file needs a notarised power of attorney from that person or the heirs (p. 6).
+[H108 @2026-11-13] The rehabilitated person and the heirs may also receive the manuscripts, photographs and other
+personal documents kept in the file (Law 1761-1, art. 11). [H104 @2026-11-13]
+
 A target can also appear in someone else's case. A sentence 'as ЧСИР' (member of a
 traitor-to-the-motherland's family) points to a relative's own entry and case number. That
 relative was not always a husband, and a shared surname does not identify them. A person with no
@@ -534,6 +622,15 @@ formations and units spent in the field army (Действующая армия)
 similar divisions, is an annex to a 1956 General Staff directive. [H74] Take a regiment's division
 from the unit's own documents, and treat online compilations of these references as finding aids:
 cite the printed edition and confirm the link in the unit's documents.
+
+Read a wartime letter's address by its form and date. Order No. 0105 of the Deputy People's Commissar
+of Defence of 6 February 1943 gave every unit and formation a field-post number as its official name
+for correspondence with civilians and its permanent address, replacing the earlier addresses made of a
+field-post-station number and a conditional unit number. The change took effect on 1 April 1943, mail
+addressed in the old way was still accepted until 15 May 1943, and permanently stationed rear
+institutions in the military districts got no field-post number. [H112] Identify the system from the
+written address and the letter's date, match the number with a reference for that system and period,
+and confirm the unit from its own documents.
 
 **Stop condition:** finish the bounded source/episode inventory, state the remaining identity or
 fate question, and name the document that could distinguish the alternatives. A further inquiry
