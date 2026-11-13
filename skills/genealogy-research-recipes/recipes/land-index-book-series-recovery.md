@@ -251,6 +251,11 @@ and available book coverage; an approximate purchase decade need not be the only
 The [property-book demonstration](https://www.youtube.com/watch?v=DoRSQ94Hd1M) follows a property
 through numbered entries and a later book. It does not verify the questioner's farm. [S27]
 
+**Check the books' period and scope first.** Riksarkivet describes its *lagfartsböcker* as books
+for rural properties, kept from the 1870s, with information from about 1875 to 1933. Its index of
+the books is not complete. If the indexed search misses the property, search the archive's books
+directly; for that you need the property's name at the time and its parish. [S56 @2026-11-13]
+
 1. Establish the relevant court archive and volume from the holdings description. Read the
    volume's arrangement and locate the farm and stated property designation. Preserve the
    farm number, parish and any *mantal* or fractional description exactly; do not substitute
