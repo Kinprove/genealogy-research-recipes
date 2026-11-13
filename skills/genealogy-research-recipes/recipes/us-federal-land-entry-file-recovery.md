@@ -52,7 +52,7 @@ Before querying BLM-GLO or NARA RG 49, confirm that the land lies in a public-la
 
 Two cautions. In Tennessee, the United States held title to the land south and west of the Congressional Reservation Line from 1806 to 1846, but Tennessee issued the grants [S16]. In Ohio, a public-land state, land in the Virginia Military District began with Virginia warrants; its patents can still be found on BLM-GLO [S17].
 
-Ohio has a second exception. Its northeastern counties in the Connecticut Western Reserve and the Firelands were part of Connecticut's western land claims. The Ohio History Connection holds no original entry or survey records for those counties and suggests the Western Reserve Historical Society Library and the Connecticut State Library [S25 @2026-11-13]. For land there, start with those two libraries.
+A further caution for Ohio: its northeastern counties in the Connecticut Western Reserve and the Firelands were part of Connecticut's western land claims. The Ohio History Connection holds no original entry or survey records for those counties and suggests the Western Reserve Historical Society Library and the Connecticut State Library [S25 @2026-11-13]. For land there, start with those two libraries.
 
 ## 1. Route the entry by authority
 

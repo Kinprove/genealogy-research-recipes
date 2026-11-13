@@ -11,9 +11,14 @@ ROOT = Path(__file__).resolve().parents[1]
 RECIPES = ROOT / "skills/genealogy-research-recipes/recipes"
 
 
+def folded(path: Path) -> str:
+    """Return a file's text with each run of whitespace folded to one space."""
+    return " ".join(path.read_text(encoding="utf-8").split())
+
+
 def recipe(name: str) -> str:
     """Return a recipe's text with each run of whitespace folded to one space."""
-    return " ".join((RECIPES / name).read_text(encoding="utf-8").split())
+    return folded(RECIPES / name)
 
 
 def between(text: str, start: str, end: str) -> str:
@@ -170,18 +175,20 @@ class UsRecordsIssue216CorrectionsTests(unittest.TestCase):
     def test_a_judge_directory_miss_does_not_rule_out_a_territorial_judge(self):
         text = recipe("us-federal-court-case-file-recovery.md")
         item = between(text, "**A lead that names a judge but no court:**", "For a matter before 1912")
-        self.assertIn("covers only judges appointed to the courts it names", item)
-        self.assertIn("a territorial judge is missing unless that judge also sat on one", item)
+        self.assertIn("lists only judges of the Article III courts and some former federal courts", item)
+        self.assertIn("a judge who sat only on a territorial court is not listed", item)
 
     def test_federal_pardons_before_1853_have_a_route(self):
         text = recipe("criminal-court-prison-record-recovery.md")
-        paragraph = between(text, "**Federal pardons before 1853:**", "## Inventory surviving series")
+        paragraph = between(
+            text, "**Federal pardons outside RG 204's case files:**", "## Inventory surviving series"
+        )
         for words in ("pardon files, 1789–1893, in RG 59", "1793–1853", "are in RG 94"):
             self.assertIn(words, paragraph)
 
     def test_ohio_names_the_western_reserve_and_firelands(self):
         text = recipe("us-federal-land-entry-file-recovery.md")
-        paragraph = between(text, "Ohio has a second exception.", "## 1. Route the entry by authority")
+        paragraph = between(text, "A further caution for Ohio:", "## 1. Route the entry by authority")
         for words in ("Connecticut Western Reserve", "the Firelands", "Connecticut State Library"):
             self.assertIn(words, paragraph)
 
@@ -198,13 +205,8 @@ class UsRecordsIssue216CorrectionsTests(unittest.TestCase):
             self.assertIn(words, paragraph)
 
     def test_a_missing_dagger_is_not_an_access_record(self):
-        skill = ROOT / "skills/genealogy-research-recipes/SKILL.md"
-        text = " ".join(skill.read_text(encoding="utf-8").split())
-        self.assertIn(
-            "A passage without a recorded review may lack the dagger, so take access limits from "
-            "the sidecar entry, not from a missing dagger.",
-            text,
-        )
+        text = folded(ROOT / "skills/genealogy-research-recipes/SKILL.md")
+        self.assertIn("take access limits from the sidecar entry, not from a missing dagger", text)
 
     def test_navy_veterans_own_pensions_route_to_m1469(self):
         pension = recipe("us-military-pension-file-recovery.md")

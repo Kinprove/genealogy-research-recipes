@@ -56,7 +56,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `city-directory-observation-workflow#C-f7695b09e18d` | platform-ui | 2026-11-12 | 2027-05-11 | S24, S28 |
 | `court-case-file-recovery#C-1e36ae61fc27` | platform-ui | 2026-11-12 | 2027-05-11 | S19, S20 |
 | `criminal-court-prison-record-recovery#C-3ffaff7e2eed` | custody | 2026-11-12 | 2027-05-11 | S19, S20, S21 |
-| `criminal-court-prison-record-recovery#C-49009a8602d3` | custody | 2026-11-13 | 2027-05-12 | S18 |
+| `criminal-court-prison-record-recovery#C-f7c1c205e390` | custody | 2026-11-13 | 2027-05-12 | S18 |
 | `dna-comparison-controls#C-a6c6a5c55901` | platform-ui | 2026-11-12 | 2027-05-11 | H29, H30, H31 |
 | `dna-comparison-controls#C-7e99f9a644d0` | platform-ui | 2026-11-12 | 2027-05-11 | H32, H33 |
 | `dnapainter-practical-dna-workflows#C-e41d8cd693ba` | platform-ui | 2026-11-12 | 2027-05-11 | S35, H10, H12 |
@@ -169,13 +169,13 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `us-federal-court-case-file-recovery#C-3062c226d110` | portal-availability | 2026-11-07 | 2027-02-05 | S9 |
 | `us-federal-court-case-file-recovery#C-57ffbe7ccacb` | custody | 2026-11-12 | 2027-05-11 | S14, S15, S16, S17, S18, S19 |
 | `us-federal-land-entry-file-recovery#C-03e656921049` | custody | 2026-11-12 | 2027-05-11 | S23, S21, S22, S20 |
-| `us-federal-land-entry-file-recovery#C-8e97b05ab22c` | custody | 2026-11-13 | 2027-05-12 | S25 |
+| `us-federal-land-entry-file-recovery#C-1e96a6a641e3` | custody | 2026-11-13 | 2027-05-12 | S25 |
 | `us-freedpeople-record-recovery#C-7f4bca1b1f60` | portal-availability | 2026-11-12 | 2027-02-10 | S68 |
 | `us-freedpeople-record-recovery#C-7b6a7a7a6531` | portal-availability | 2026-11-12 | 2027-02-10 | S59 |
 | `us-military-pension-file-recovery#C-7b2f05d9881c` | portal-availability | 2026-11-13 | 2027-02-11 | H9, H10 |
 | `us-vital-registration-coverage#C-28983f6d72c3` | platform-ui | 2026-11-12 | 2027-05-11 | S20 |
 | `us-vital-registration-coverage#C-e81e3ac35d7f` | platform-ui | 2026-11-12 | 2027-05-11 | S21 |
-| `us-vital-registration-coverage#C-00f64d0c65bd` | custody | 2026-11-13 | 2027-05-12 | S11 |
+| `us-vital-registration-coverage#C-eecd3906a095` | custody | 2026-11-13 | 2027-05-12 | S11 |
 | `usa-immigration-search-recovery#C-f7de89282a19` | portal-availability | 2026-11-12 | 2027-02-10 | N64, N65 |
 | `usa-immigration-search-recovery#C-b5c005f699a2` | portal-availability | 2026-11-12 | 2027-02-10 | N66, N67 |
 | `wikitree-dna-tester-links#C-3ccb958674db` | platform-ui | 2026-11-08 | 2027-05-07 | S3, S2, S4 |
