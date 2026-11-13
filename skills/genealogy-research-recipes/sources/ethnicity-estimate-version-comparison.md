@@ -25,6 +25,8 @@
 
 The save-compare-classify order, the decision rules, the rule against comparing ranges across versions as applied to every vendor, the kit-by-kit version check and the packet are authored synthesis; the sources supply the vendor mechanics, dates, figures and worked examples.
 
+- **S23:** Ancestry DNA help page "What are confidence and connection levels?" (the `/cs/dna-help/ethnicity/trace-regions` page), [Internet Archive copy of 17 July 2025](https://web.archive.org/web/20250717122828/https://www.ancestry.com/cs/dna-help/ethnicity/trace-regions). Read 2026-11-13; the live page refused scripted requests with HTTP 403. Used for: the "low confidence regions" and "other regions tested" categories, and a region going to "other regions tested", shown after selecting "Show all regions", when its estimate is below 0.5% and its range does not exceed 2.5%.
+
 ## Credits
 
-- Kinprove original procedural synthesis; vendor mechanics, version labels, method changes, performance floors and range methods checked against Ancestry help pages (archived copies), the AncestryDNA Ancestral Regions 2025 and 2026 white papers, MyHeritage Knowledge Base articles, FamilyTreeDNA blog posts and Ancestry videos, with practitioner guides, blog posts, videos and forum threads on successive estimate updates, cited as S1 to S22 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; vendor mechanics, version labels, method changes, performance floors and range methods checked against Ancestry help pages (archived copies), the AncestryDNA Ancestral Regions 2025 and 2026 white papers, MyHeritage Knowledge Base articles, FamilyTreeDNA blog posts and Ancestry videos, with practitioner guides, blog posts, videos and forum threads on successive estimate updates, cited as S1 to S23 — FSL-1.1-MIT (kinprove-original)
