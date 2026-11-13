@@ -4,13 +4,13 @@ title: "Read German official-gazette personnel, expulsion and expatriation notic
 summary: "Read German gazette personnel, expulsion and expatriation notices as dated acts by a named authority."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "GERMAN-OFFICIAL-GAZETTE-NOTICE-SEARCH-01", "text": "Each notice is a dated act by a named authority. It does not show that the person lived in the gazette's district. It does not prove that anyone left, and it does not confirm anyone's identity."}]
 handoff: []
 checked: null
 checked_basis: null
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "German records", "order": 1081}
 ---
 
@@ -112,12 +112,15 @@ Copy each field literally. Never fill one field from another.
 
 ## 7. Keep identity open and choose the next search
 
-- **Mark every row *candidate*** until the title, occupation or address matches another source. In [S3], titles and addresses were matched against address and telephone books. A participant flagged a restitution-file hit with a different last residence as probably a namesake.
+- **Mark every row *candidate*** until the title, occupation or address matches another source. In [S3], one participant put a man's address-book and telephone-book entries and his 1938 list entry into one dated chronology. The requester's restitution-file search for his name returned three hits. The same participant called one of them probably the wrong man, without saying why. That hit gave Magdeburg as the last residence, while the 1938 list gave Schaperstr. 21.
 - **Use the fields to target the next search:**
-  - **Last residence:** the address book of that town for the years before the list. In [S3], a 1940 Schneidemühl residence led to the 1931 Schneidemühl address book.
+  - **Last residence:** the address book of that town for the years before the list. In [S3], a participant answered a Schneidemühl last residence, in an entry of 02.10.1940, with a link to the 1931 Schneidemühl address book, but reported no result from it.
   - **Registration community:** the registration records of that community, not those of the birthplace [S1].
   - **Posting, or home place in an exam notice:** the parish or civil registers of that place [S2].
-- **For a Berlin residence, search the surviving registration cards first, then address and telephone books.** The Landesarchiv Berlin says the resident-registration card file (*Einwohnermeldekartei*) was kept from 1874. The part that survives is the West Berlin file of residents who were in the city after 1945 and had deregistered by 1960, plus a few earlier cards (catalogue B Rep. 021-01: 1875–1961). For a person who left or died before then, address and telephone books are the main route [S3].
+
+**Privacy gate:** <!-- privacy-gate: request --> A registration-index search sends the person's name, birth date and occupation to the archive, and a card can also list a spouse and children who may still be living. Answer the privacy gate in `SKILL.md` before you ask for one.
+
+**For a Berlin residence, ask for a search of the resident-registration card index (*Einwohnermeldekartei*), and use the address and telephone books.** Addresses were recorded officially from 1874, and Berlin's police stations kept residents' data on printed cards. The original central index was moved out of the city in 1943 and is considered lost. The Landesarchiv Berlin holds the West Berlin index, rebuilt after the war from cards kept at police stations. It covers residents who were in the city after 1945 and had deregistered by 1960, and it is incomplete for the years before 1945. A new index of the whole population was begun in 1945. It was in East Berlin from 1948 and is now kept by the Landesamt für Bürger- und Ordnungsangelegenheiten (LABO). For anyone still registered in Berlin after 1960, the LABO, not the Landesarchiv, is responsible [S5 @2026-11-13]. The yearly address books, printed from the registration index, survive complete to 1943. The Zentral- und Landesbibliothek Berlin has digitised them, together with telephone books to 1991 [S5 @2026-11-13]. For a person who left or died before 1945, start with the address books, and still ask for a search of the West Berlin index: it is incomplete for those years, so a miss does not show that the person was never registered.
 
 ## Output: notice register
 
