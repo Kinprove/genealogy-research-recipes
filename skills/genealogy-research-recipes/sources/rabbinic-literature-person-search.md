@@ -55,7 +55,10 @@ cited instead.
   other automated access).
 - **S11. Crown-rabbi era lists.** [JewishGen, "Jewish Religious Personnel in the Russian
   Empire, 1853–1854"](https://www.jewishgen.org/databases/misc/deych.htm), an index to
-  G. M. Deych's 1992 book.
+  G. M. Deych's 1992 book, read 2026-11-12. Used for: the index's four fields; the office held,
+  start year, congregation size and pay being in the book only; one to ten officers listed per
+  congregation; the libraries holding the book; and the page's warning that a miss does not show
+  that a person held no office.
 - **S12. *Encyclopedia of Hasidism*.** [University of Pennsylvania catalogue record, OCLC
   13175627](https://find.library.upenn.edu/catalog/998628473503681): the personalities
   volumes are by Yitzhak Alfasi.
@@ -99,6 +102,12 @@ surname hits that were namesakes; the Yiddish and Hebrew spellings of Uman; the 
 the stem `חותנ`; the closed keyword list that missed hundreds of sections; and book IDs
 supplied by a language model that pointed to unrelated books. No family data, private
 identifiers or account details are included.
+
+- **S21. Bar-Ilan Responsa Project.** [The project's home page](https://www.responsa.co.il/home.en-US.aspx),
+  read 2026-11-12. Used for: the database's contents (the Bible, both Talmuds, Midrash, the
+  Zohar, the codes of law and a large responsa collection), its typed-in, proofread and hyperlinked texts,
+  the biographical data on the authors of responsa, and its description of the responsa as rich in
+  historical, sociological and economic data. The page gives no price or access terms.
 
 ## Credits
 

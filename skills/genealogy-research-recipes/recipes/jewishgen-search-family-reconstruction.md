@@ -40,8 +40,8 @@ Read the target collection's instructions: what is searchable, whose name each f
 
 Three documented traps change how a result must be read:
 
-- **Exact does not always mean literal.** The former Unified Search expanded some given-name and town synonyms even under Exact (its page, read on 2026-10-01). That address now forwards to Global Search, so test the behaviour there with a name whose synonyms you know. Record both the submitted form and the returned form.
-- **AND does not always mean the same person.** In Belarus Revision Lists, surname and given-name conditions can be satisfied by different members of one household. Inspect individual rows before treating the conjunction as a person's identity. [Belarus search instructions](https://www.jewishgen.org/databases/Belarus/BelarusRevisionLists.htm).
+- **Exact does not always mean literal.** JewishGen's Search Guide says that Is Exactly "still expands JewishGen's standard given-name synonym groups, so it is not literally letter-for-letter": a search for one form also returns the other names in its group, for example Jankel, Jakob, Jacob and Jack. [N17 @2026-11-12] Record both the submitted form and the returned form.
+- **AND does not always mean the same person.** In Belarus Revision Lists, surname and given-name conditions can be satisfied by different members of one household, and the whole household is then returned. [N18 @2026-11-12] Inspect individual rows before treating the conjunction as a person's identity. [Belarus search instructions](https://www.jewishgen.org/databases/Belarus/BelarusRevisionLists.htm).
 - **A participant is not necessarily the record subject.** A birth's father field ordinarily describes the child's father; it is not automatically the mother's father. To find a woman as a mother, use the collection's maternal fields or inspect a broader extract. Verify labels before composing the query.
 
 ## A query ladder, with an explicit reason for every change
