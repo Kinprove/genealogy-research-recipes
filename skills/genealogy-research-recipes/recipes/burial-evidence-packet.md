@@ -116,6 +116,18 @@ A highly selective compilation, such as the consistory lists described in the
 is not a coverage test, so a name missing from it proves nothing. The thread reports no result
 from comparing the two kinds.
 
+Grand Duke Nikolai Mikhailovich published three necropolises in 1907–1914: «Московский некрополь»
+(three volumes, 1907–1908, compiled by V. I. Saitov and B. L. Modzalevsky), «Петербургский некрополь»
+(four volumes, 1912–1913, compiled by Saitov) and volume 1 of «Русский провинциальный некрополь» (1914,
+compiled by V. Sheremetevsky). The provincial volume covers eleven guberniyas, among them Moscow,
+St Petersburg and Novgorod, and the Valaam and Konevets monasteries; its preface says it was built
+from the lists of people buried in churches and cemeteries that a Holy Synod circular of 29 November
+1908 asked every diocese to send. [P100], [P101], [P102]
+
+The Presidential Library shows volume 1 of each without login, and the Russian State Library's copy
+of the provincial volume is in open access. [P100 @2026-11-13], [P101 @2026-11-13],
+[P102 @2026-11-13], [P103 @2026-11-13]
+
 For a death in war or a veteran's burial, search the official registers, which governments and
 war-graves bodies compile, each as its own surface. A miss outside a register's stated coverage
 is not a negative.
