@@ -528,7 +528,9 @@ live control.
   household comparisons.
   *Use for:* JewishGen exact, partial, phonetic or fuzzy searches; double names and patronymics;
   conflicting ages or delayed registration; a missing marriage record, unknown maiden name or
-  daughter who disappears under a married surname.
+  daughter who disappears under a married surname; counting result rows as distinct entries, keying
+  households on the original record, and telling an overflow, an error or an uncovered database from
+  a completed search with no hits.
   *Core guardrail:* Do not convert a phonetic, household or age match into a relationship.
   *Dated source check:* 2026-11-12.
 
