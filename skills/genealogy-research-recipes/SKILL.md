@@ -920,6 +920,15 @@ live control.
   Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both
   names of renamed places and both ends of the exile.
 
+- **`recipes/russian-village-family-reconstitution.md`** — Reconstitute a Russian village's families when a generation's records are missing.
+  When a Russian peasant's own birth or parentage record is missing, index everyone the village's
+  registers name, in every role, rebuild its couples and households across the household-list,
+  metrical-book and civil-register years, and test each identity with countable checks.
+  *Use for:* Find the father of a Russian Orthodox peasant born after the last confession lists,
+  whose birth entry does not survive; One man written under several surnames, or none, in metrical
+  books and ZAGS registers; восстановить семьи деревни по исповедным ведомостям, метрическим книгам
+  и книгам ЗАГС
+
 ### Censuses, tax, land and property
 
 - **`recipes/canadian-census-interpretation.md`** — Interpret a historical Canadian census entry as a de jure listing.

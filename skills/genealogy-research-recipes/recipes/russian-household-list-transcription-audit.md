@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["Audit a researcher's, volunteer's or model's
 privacy: "none"
 gates: []
 guardrails: [{"id": "RUSSIAN-HOUSEHOLD-LIST-TRANSCRIPTION-AUDIT-01", "text": "**Record what the image says, even against other years.**"}]
-handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "historical-place-name-resolution", "russian-orthodox-confession-list-reading", "russian-revision-list-household-chaining"]
+handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "historical-place-name-resolution", "russian-orthodox-confession-list-reading", "russian-revision-list-household-chaining", "russian-village-family-reconstitution"]
 checked: "2026-11-10"
 checked_basis: "opened 2026-11-10"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
@@ -131,3 +131,5 @@ Return two tables:
 2. **Finds for other sheets.** Omissions and misreadings found in other years' transcriptions while checking this one, logged for their own audit.
 
 An unidentified place stays a reading with "name not established" and the searches made; see [historical place-name resolution](historical-place-name-resolution.md). Leave identity and relationship rulings to [evidence/proof judgment](evidence-proof-judgment.md).
+
+To merge the audited year sheets into one village panel, use [village family reconstitution, step 8](russian-village-family-reconstitution.md#8-build-the-village-panel-from-faithful-year-sheets).

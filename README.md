@@ -252,6 +252,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [russian-orthodox-confession-list-reading](skills/genealogy-research-recipes/recipes/russian-orthodox-confession-list-reading.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-orthodox-metrical-book-recovery](skills/genealogy-research-recipes/recipes/russian-orthodox-metrical-book-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-revision-list-household-chaining](skills/genealogy-research-recipes/recipes/russian-revision-list-household-chaining.md) | record catalogues and original images | — | — | — | — | — |
+| [russian-village-family-reconstitution](skills/genealogy-research-recipes/recipes/russian-village-family-reconstitution.md) | record catalogues and original images, online record databases | — | — | — | — | — |
 | [russian-volost-town-administration-records](skills/genealogy-research-recipes/recipes/russian-volost-town-administration-records.md) | record catalogues and original images | — | — | — | — | — |
 | [scandinavian-parish-record-recovery](skills/genealogy-research-recipes/recipes/scandinavian-parish-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [scandinavian-patronymic-farm-name-record-recovery](skills/genealogy-research-recipes/recipes/scandinavian-patronymic-farm-name-record-recovery.md) | record catalogues and original images | — | — | — | — | — |

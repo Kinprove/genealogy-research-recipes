@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
 guardrails: [{"id": "RUSSIAN-ORTHODOX-METRICAL-BOOK-RECOVERY-01", "text": "Read marriage-count formulae literally, treat margin decrees as separate dated events, and treat names and patronymics as hypotheses rather than proof of descent."}]
-handoff: ["bessarabia-moldova-record-routing", "catholic-parish-diocesan-record-recovery", "corpus-seeded-name-search", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "russian-orthodox-confession-list-reading"]
+handoff: ["bessarabia-moldova-record-routing", "catholic-parish-diocesan-record-recovery", "corpus-seeded-name-search", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "russian-orthodox-confession-list-reading", "russian-village-family-reconstitution"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
@@ -35,6 +35,8 @@ Other recipes cover the overlapping steps:
 - **Jewish records.** For Jewish rabbinate books and registration (приписка), use [Russian-Empire Jewish identity attribution](russian-empire-jewish-identity-attribution.md).
 - **Bessarabian books.** For Bessarabian metrical books of 1811–1923, which the National Archives Agency of Moldova (ANA) keeps in fond 211 by district opis (its op. 23 covers Tiraspol uezd of Kherson guberniya), use [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
 - **Galician and Bukovinian books.** For Galician Greek Catholic and Roman Catholic books, Bukovinian Orthodox books and the archives that hold them, use [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
+
+When the target's own entry does not survive and a generation has to be rebuilt from the whole village, use [village family reconstitution](russian-village-family-reconstitution.md).
 
 ## Contents
 
