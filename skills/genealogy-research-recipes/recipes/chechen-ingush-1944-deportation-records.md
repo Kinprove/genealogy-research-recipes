@@ -64,7 +64,7 @@ Gather these before searching:
 - **Date each event against the sequence of units:**
   - **Until 7 March 1944:** the Chechen-Ingush ASSR. The deportation of the Chechens and Ingush began on 23 February 1944 [S5], [S6].
   - **7–22 March 1944:** the decree of 7 March 1944 abolished the ASSR. Its core became Grozny okrug (Грозненский округ) of Stavropol krai [S2].
-  - **22 March 1944 to 9 January 1957:** Grozny oblast (Грозненская область) of the RSFSR, formed by decree of 22 March 1944 [S24], [S3].
+  - **22 March 1944 to 9 January 1957:** Grozny oblast (Грозненская область) of the RSFSR [S3], formed by decree of 22 March 1944 [S24].
   - **From 9 January 1957:** the restored Chechen-Ingush ASSR within the RSFSR [S4].
 - **Check whether the district went to a neighbour in 1944.** The decree of 7 March 1944 transferred [S2]:
   - **to the Dagestan ASSR:** the Vedeno, Nozhai-Yurt, Sayasan and Cheberloy districts, the Kurchaloy and Sharoy districts except their north-western parts, and the east of the Gudermes district

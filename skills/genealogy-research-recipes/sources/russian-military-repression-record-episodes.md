@@ -112,7 +112,7 @@ search-engine extracts, as marked), and details those pages did not support were
   page failed TLS). Used for: the POW card file's own counts of cards and records (more cards than
   records).
 - **H19:** International Committee of the Red Cross, [Prisoners of the First World War – FAQ](https://grandeguerre.icrc.org/Content/help/FAQ_en.pdf),
-  seen 2026-11-02 only in a search-engine extract. On a later visit
+  seen 2026-11-02 only in a search-engine extract;
   the PDF was opened and read in full on 2026-11-12. Used for: documents coming mainly from the
   Western Front, Romania and Serbia; Russian-front lists not sent to Geneva but collected by the
   Danish Red Cross in Copenhagen; little information about Russian prisoners; search by name only;

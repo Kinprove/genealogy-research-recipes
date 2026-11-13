@@ -27,15 +27,15 @@ class RussianEmpireUssrReviewTests(unittest.TestCase):
         step = between(text("recipes", "old-believer-sectarian-record-recovery"),
                        "## 3. From 1874", "## 4.")
         self.assertIn("to the guberniya board (губернское правление) to be revised and kept", step)
-        self.assertIn("[S6]", step)
+        self.assertIn("chancellery. [S6]", step)
         self.assertIn("apparently in a single copy. [S7]", step)
-        self.assertIn("outside the Baltic guberniyas and Narva, look for a police raskol register in the guberniya-board fond", step)
+        self.assertIn("in the fond of the body that kept it, usually the guberniya board, as well as in the police fonds", step)
         self.assertIn("In the Baltic guberniyas the uezd chiefs and the police chiefs revised and kept them", step)
 
     def test_emigrant_search_examples_say_what_their_sources_show(self):
         recipe = text("recipes", "russian-empire-emigrant-origin-recovery")
         spouse = between(recipe, "2. Search a spouse, child or documented fellow traveler", "3. If the database")
-        self.assertIn("another spelling of one passenger's name, Lewender for Lavender, found the passenger list", spouse)
+        self.assertIn("under the spelling Lewender for Lavender, found the passenger list", spouse)
         self.assertNotIn("recovered the family list through a child's alternative spelling", spouse)
         index = between(recipe, "4. Try another index of the same collection", "5. If the arrival record")
         self.assertIn("family members listed pages apart on one manifest", index)
@@ -51,12 +51,13 @@ class RussianEmpireUssrReviewTests(unittest.TestCase):
     def test_bashkir_agreement_names_all_its_uezds(self):
         recipe = text("recipes", "russian-revision-list-household-chaining")
         paragraph = between(recipe, "Conversely, the agreement of 20 March 1919", "## 8.")
-        for uezd in ("Orenburg", "Orsk", "Verkhneuralsk", "Troitsk", "Chelyabinsk", "Shadrinsk",
-                     "Ekaterinburg", "Krasnoufimsk", "Zlatoust", "Ufa", "Sterlitamak", "Buzuluk"):
-            self.assertIn(uezd, paragraph)
-        self.assertIn("belonged to Perm guberniya, not to Orenburg guberniya. [S56]", paragraph)
-        custody = between(recipe, "Route a revision for present-day Bashkortostan", "Conversely,")
-        self.assertNotIn("1919", custody)
+        self.assertIn("volosts of eleven uezds: Orenburg, Orsk, Verkhneuralsk, Troitsk, Chelyabinsk, Shadrinsk, "
+                      "Ekaterinburg, Krasnoufimsk, Zlatoust, Ufa and Sterlitamak, and one volost of Buzuluk uezd. [S46]",
+                      paragraph)
+        self.assertIn("belonged to Perm guberniya. [S56]", paragraph)
+        # The 1919 sentence is its own paragraph, so the custody claim keeps its 2026-11-08 check.
+        raw = (SKILL / "recipes/russian-revision-list-household-chaining.md").read_text(encoding="utf-8")
+        self.assertIn("means the Bashkortostan archive.\n\nConversely, the agreement of 20 March 1919", raw)
 
     def test_icrc_coverage_comes_from_the_read_faq(self):
         paragraph = between(text("recipes", "russian-military-repression-record-episodes"),
@@ -75,7 +76,7 @@ class RussianEmpireUssrReviewTests(unittest.TestCase):
             self.assertIn("23 February 1944 [S5], [S6]", passage)
             self.assertNotIn("not read", passage)
             self.assertNotIn("search-result", passage.lower())
-        self.assertIn("formed by decree of 22 March 1944 [S24], [S3]", recipe)
+        self.assertIn("of the RSFSR [S3], formed by decree of 22 March 1944 [S24]", recipe)
 
     def test_balti_seat_comes_from_the_read_entry(self):
         recipe = text("recipes", "bessarabia-moldova-record-routing")

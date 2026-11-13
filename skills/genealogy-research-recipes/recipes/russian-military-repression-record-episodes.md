@@ -308,16 +308,16 @@ St Petersburg). The Military Medical Museum has not answered archive requests si
 redirects them to that branch. [H48]
 
 For a WWI prisoner taken on the Russian front, check the ICRC Geneva archive's coverage before
-using a database miss. The ICRC's FAQ says its documents come mainly from the Western Front,
+using a database miss. The ICRC's FAQ says that its documents come mainly from the Western Front,
 Romania and Serbia, that lists from the Russian front were not sent to Geneva but collected by the
-Danish Red Cross in Copenhagen, and that it has little information about Russian prisoners.
+Danish Red Cross in Copenhagen, and that the archive has little information about Russian prisoners.
 [H19 @2026-11-12] So a Geneva miss is not a negative. The database can be searched only by name,
 and its cards are filed by country and by military or civilian status in 29 separate catalogues.
 [H19 @2026-11-12], [H20 @2026-11-12] The Copenhagen material is now at Rigsarkivet (Dansk Røde
 Kors, Krigsfangeafdelingen). Only samples survive: two selected boxes of the card index of Russian
 prisoners in Germany (c. 1915–1918) and one random sample bundle of lists (1917–1918), listed for
-ordering, with no online images found. A miss there is not a negative either.
-[H21 @2026-11-12], [H22 @2026-11-12]
+ordering, with no online images found. [H21 @2026-11-12], [H22 @2026-11-12] A miss there is not a
+negative either.
 
 A missing award sheet is not by itself a gap. The portal project's own description, quoted in an
 [award-archive discussion](https://forum.j-roots.info/viewtopic.php?f=36&t=4542), says that from
