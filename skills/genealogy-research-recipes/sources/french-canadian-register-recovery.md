@@ -54,8 +54,13 @@ given parish.
 - **S8:** Roberta Estes, DNAeXplained, [Honoré Lore or Lord's 1818 Estate Inventory Provides a Window Into His Life](https://dna-explained.com/2024/01/07/honore-lore-or-lords-1818-estate-inventory-provides-a-window-into-his-life/), published 2024-01-07, read 2026-11-12. Used for: the Saint-Luc inventory of September 1818 appraised "aux livres et Sols ancien cours", its transcription's value column (48 sols as 2£ 8s), and the Google Translate renderings of the heading and of livres as pounds.
 - **S9:** Vermont Genealogy Library (VT French-Canadian Genealogical Society), [The Value of French Currency in the 17th & 18th Centuries](https://vtgenlib.org/general/quebecResearchInfo/french_money.php), read 2026-11-12. Used for: 12 deniers to the sol and 20 sols to the livre. The page covers New France and does not discuss the old currency after 1760; that the 1818 act still counted in livres and sols comes from the act itself (S8).
 
+### Sources added 2026-11-13
+
+- **S10:** Institut Drouin, Genealogy Quebec Blog, [The Drouin Collection](https://blog.genealogiequebec.com/en/article/the-drouin-collection-records), published 2017-10-01 according to its byline, read 2026-11-13. Used for: the Fonds Drouin folder of the Drouin Collection Records holding the civil copy sent to the court office, and the Registres paroissiaux 1621-1876 folder holding the religious copy kept at the church, in different images. It is the publisher's general statement; no parish was checked image by image.
+
 ## Credits
 
+- Institut Drouin, Genealogy Quebec Blog, The Drouin Collection, cited as S10 — Facts paraphrased with attribution; folder names cited as titles (adapted)
 - Roberta Estes, DNAeXplained, Honoré Lore or Lord's 1818 Estate Inventory, 2024-01-07, cited as S8 — Third-party content, all rights reserved by the rights holder; short quotations of the inventory wording with attribution (quoted)
 - Vermont Genealogy Library page on French currency, cited as S9 — Facts paraphrased with attribution (adapted)
 - Maureen Brady, The Québecois – French-Canadian Research (BYU Family History Library, 2024); same wording in Family History Research in Illinois and Wisconsin (S2) — Source video license (YouTube standard; all rights reserved by publisher) — two-word quotation for attribution and correction (quoted)
