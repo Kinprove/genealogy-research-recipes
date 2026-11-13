@@ -30,7 +30,7 @@ locality is not named here because its spelling is not confirmed. The census-sur
 pre-Tithe name-list facts come from S14–S19; reading a missing year or list as a survival or
 class gap is authored synthesis.
 
-- **S20:** National Archives of Ireland, [Search the Census (c19)](https://nationalarchives.ie/collections/search-the-census-c19/), read 2026-11-13. Used for: the pre-1901 census search form covering 1821, 1831, 1841 and 1851.
+- **S20:** National Archives of Ireland, [Search the Census (c19)](https://nationalarchives.ie/collections/search-the-census-c19/), read 2026-11-13. Used for: the pre-1901 census search page covering 1821, 1831, 1841 and 1851.
 
 ## Credits
 

@@ -116,7 +116,7 @@ Gather these before searching:
 - **After 1923, search the National Archives of Australia too.** PROV states that Victorian immigration records after 1923 are held by the NAA [S25]. Keep the state archive in the search: Queensland State Archives indexes immigrant ships bound for Queensland for 1922–1940 [S26].
 - **Route by colony and date before you call a passenger search negative.**
 
-**Western Australian passenger lists after 1900 are the exception.** The State Records Office of Western Australia says that from 1901 responsibility for immigration passed from the states to the Commonwealth, so passenger lists for the period after 1900 are generally held by the WA Branch of the National Archives of Australia [S32 @2026-11-13]. For a ship that arrived in Western Australia after 1900, search the NAA first; the before-1924 rule above does not apply there.
+**Western Australian passenger lists after 1900 are the exception.** The State Records Office of Western Australia says that from 1901 responsibility for immigration passed from the states to the Commonwealth, so the lists after 1900 are generally held by the WA Branch of the National Archives of Australia [S32 @2026-11-13]. For a ship that arrived in Western Australia after 1900, search the NAA first; the before-1924 rule above does not apply there.
 
 ## 8. Search Trove and Papers Past inside their digitised runs
 

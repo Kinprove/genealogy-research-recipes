@@ -34,7 +34,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `australia-nz-record-routing#C-e194b484fd72` | platform-ui | 2026-11-12 | 2027-05-11 | S31 |
 | `australia-nz-record-routing#C-2bed174b9706` | custody | 2026-11-12 | 2027-05-11 | S30 |
 | `australia-nz-record-routing#C-8a104d1324b7` | custody | 2026-11-13 | 2027-05-12 | S1 |
-| `australia-nz-record-routing#C-332cfe6977cb` | custody | 2026-11-13 | 2027-05-12 | S32 |
+| `australia-nz-record-routing#C-fec213c3d851` | custody | 2026-11-13 | 2027-05-12 | S32 |
 | `austrian-confessional-register-routing#C-221fdef02fd0` | portal-availability | 2026-11-09 | 2027-02-07 | S25 |
 | `austrian-confessional-register-routing#C-b47a4e1f949d` | portal-availability | 2026-11-09 | 2027-02-07 | S26 |
 | `austrian-confessional-register-routing#C-ca66c1a0d909` | portal-availability | 2026-11-09 | 2027-02-07 | S33, S34 |
@@ -70,7 +70,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `dnapainter-practical-dna-workflows#C-a5f76a4c2dde` | platform-ui | 2026-11-12 | 2027-05-11 | S37, S38 |
 | `dnapainter-practical-dna-workflows#C-e43b57d6e404` | platform-ui | 2026-11-12 | 2027-05-11 | H14, S15 |
 | `dnapainter-practical-dna-workflows#C-0e3c7d4532c9` | platform-ui | 2026-11-12 | 2027-05-11 | S31, S23, H5, S32 |
-| `england-wales-gro-index-recovery#C-08ba5a24f9dc` | custody | 2026-11-13 | 2027-05-12 | S28 |
+| `england-wales-gro-index-recovery#C-6ecbd8681612` | custody | 2026-11-13 | 2027-05-12 | S28 |
 | `english-nonregister-record-recovery#C-fe8197ed49f4` | portal-availability | 2026-11-12 | 2027-02-10 | S39, S40 |
 | `family-photograph-attribution-and-dating#C-2d4811ec7c17` | platform-ui | 2026-11-12 | 2027-05-11 | S52, S53 |
 | `familysearch-practical-record-workflows#C-6b25178d4335` | platform-ui | 2026-11-12 | 2027-05-11 | S90 |
@@ -103,11 +103,11 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `holocaust-testimony-source-interpretation#C-2d89c69f5ab0` | portal-availability | 2026-11-08 | 2027-02-06 | H18, H19, H20 |
 | `holocaust-testimony-source-interpretation#C-94d94db1afa5` | portal-availability | 2026-11-12 | 2027-02-10 | H21 |
 | `illegitimacy-record-recovery#C-bfb5dbd04ae9` | custody | 2026-11-12 | 2027-05-11 | S17 |
-| `irish-emigrant-origin-locality#C-9287819617a5` | portal-availability | 2026-11-13 | 2027-02-11 | S20 |
-| `irish-land-valuation-occupancy-series#C-bc71c8723629` | portal-availability | 2026-11-13 | 2027-02-11 | S14 |
+| `irish-emigrant-origin-locality#C-a2e14e6e4297` | portal-availability | 2026-11-13 | 2027-02-11 | S20 |
+| `irish-land-valuation-occupancy-series#C-a80c993f030a` | portal-availability | 2026-11-13 | 2027-02-11 | S14 |
 | `irish-probate-and-deed-recovery#C-7a99a1aa8ae3` | portal-availability | 2026-11-13 | 2027-02-11 | S2, S21, S3, S4 |
 | `irish-probate-and-deed-recovery#C-9dca7b8ad862` | portal-availability | 2026-11-13 | 2027-02-11 | S21 |
-| `irish-probate-and-deed-recovery#C-794b544683e3` | portal-availability | 2026-11-13 | 2027-02-11 | S5 |
+| `irish-probate-and-deed-recovery#C-11bb7fa3bc4b` | portal-availability | 2026-11-13 | 2027-02-11 | S5 |
 | `jewishgen-search-family-reconstruction#C-6c002c2206ca` | platform-ui | 2026-11-12 | 2027-05-11 | N17, N18 |
 | `land-index-book-series-recovery#C-cce84f7c3f82` | portal-availability | 2026-11-12 | 2027-02-10 | S47, S48 |
 | `land-index-book-series-recovery#C-b8d9e2a36dec` | portal-availability | 2026-11-12 | 2027-02-10 | S49 |

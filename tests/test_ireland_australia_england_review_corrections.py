@@ -63,6 +63,7 @@ class IrishRecipeTests(unittest.TestCase):
         section = between(text, "## 3. Test each candidate", "## 4.")
         note = section[section.index("**Search the surviving 1821–1851 census data") :]
         self.assertIn("covers 1821, 1831, 1841 and 1851 [S20 @", note)
+        self.assertIn("not the 1841 and 1851 census search forms above", note)
 
 
 class AustralianRecipeTests(unittest.TestCase):
@@ -96,10 +97,10 @@ class EnglishRecipeTests(unittest.TestCase):
     def test_isle_of_man_civil_registers_are_routed_to_douglas_behind_the_privacy_gate(self):
         text = recipe("england-wales-gro-index-recovery")
         section = between(text, "## Route Isle of Man and Channel Islands events", "## Order the certificate")
-        note = section[section.index("**Isle of Man civil registers from 1878 are with the Civil Registry in Douglas.**") :]
-        self.assertIn("The National Archives names the Douglas Civil Registry Office", note)
+        note = section[section.index("**Isle of Man civil registers from 1878 are with the Douglas Civil Registry Office.**") :]
+        self.assertIn("The National Archives names that office as the contact for them", note)
         self.assertIn("[S28 @", note)
-        self.assertIn("answer the privacy gate in `SKILL.md` before you ask the Douglas office for one", note)
+        self.assertIn("answer the privacy gate in `SKILL.md` before you ask the office for a copy", note)
 
     def test_irish_convicts_have_a_national_archives_of_ireland_route(self):
         text = recipe("convict-transportation-record-chain")
@@ -114,7 +115,7 @@ class LedgerRegistrationTests(unittest.TestCase):
             ("**The National Archives of Ireland's tithe site", "portal-availability", ["S14"]),
         ],
         "irish-probate-and-deed-recovery": [
-            ("- **Read the entry as an index line, not the will.**", "portal-availability", ["S2", "S21", "S3", "S4"]),
+            ("- **Read the entry as an index line, not the will.**", "portal-availability", ["S2", "S3", "S4", "S21"]),
             ("**Add NAI's own pre-1858 copies to the search.**", "portal-availability", ["S21"]),
             ("**Where to read the deed indexes and memorials.**", "portal-availability", ["S5"]),
         ],
@@ -145,7 +146,7 @@ class LedgerRegistrationTests(unittest.TestCase):
                     self.assertEqual(len(claims), 1)
                     self.assertEqual(claims[0]["review"], "reviewed")
                     self.assertEqual(claims[0]["kind"], kind)
-                    self.assertEqual(sorted(claims[0]["sources"]), sources)
+                    self.assertCountEqual(claims[0]["sources"], sources)
 
 
 if __name__ == "__main__":

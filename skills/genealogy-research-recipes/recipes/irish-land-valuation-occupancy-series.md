@@ -59,7 +59,7 @@ This recipe builds the holding register and the occupancy chain. Send every iden
    - the date on each tithe book consulted, so the gap to the valuation entry is explicit
 3. A cluster that turns up in both series narrows the search area. It does not identify any one occupier. The presenter's explanation that arranged matches kept land together [S2] is context for why clusters recur, not a kinship link between any two rows.
 
-**The National Archives of Ireland's tithe site named in step 2 is offline.** NAI lists the Tithe Applotment Books, 1823–37, among the collections that can still be viewed in its Reading Room while its genealogy microsites are offline [S14 @2026-11-13]. Until the site returns, run step 2 on the other copies it names, or on the books in the Reading Room.
+**The National Archives of Ireland's tithe site named in step 2 is offline.** NAI lists the Tithe Applotment Books, 1823–37, among the collections that can still be viewed in its Reading Room while its genealogy microsites are offline [S14 @2026-11-13]. Until the site returns, run step 2 on the other copies that step names, or on the books in the Reading Room.
 
 ## Follow the same lot through the revision books
 

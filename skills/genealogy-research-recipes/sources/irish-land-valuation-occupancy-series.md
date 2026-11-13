@@ -16,7 +16,7 @@
 
 The candidate-row register, the separation of literal distinguishers from patronymic readings, the refusal to merge or rank by lore, the coding of revision changes as correction, transfer or unknown, and the structure of the deliverables are authored synthesis. The sources supply the worked examples and the presenters' statements, and each one is attributed to its presenter. The custody, online-access and census-arrangement facts come from the archives' own pages (S5–S11); the tithe and rental copies on FamilySearch, Ancestry and Findmypast come from their collection pages (S12, S13).
 
-- **S14:** National Archives of Ireland, [Accessing collections useful for genealogy](https://nationalarchives.ie/genealogy-website/8790-2/), read 2026-11-13. Used for: the genealogy microsites being offline, and the Tithe Applotment Books, 1823-37, among the collections that can still be viewed in the Reading Room.
+- **S14:** National Archives of Ireland, [Accessing collections useful for genealogy](https://nationalarchives.ie/genealogy-website/8790-2/), read 2026-11-13. Used for: the genealogy microsites being offline, and the Tithe Applotment Books, 1823–37, among the collections that can still be viewed in the Reading Room.
 
 ## Credits
 

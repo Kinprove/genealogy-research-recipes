@@ -111,8 +111,9 @@ limited to the family's later church. Each step below blocks one of these errors
   family, and a cluster of a common surname shows very little.
 
 **Search the surviving 1821–1851 census data before you log one of those years as a survival gap.**
-The National Archives of Ireland's pre-1901 census search covers 1821, 1831, 1841 and 1851
-[S20 @2026-11-13]. Run it for the surname and county first.
+The National Archives of Ireland's *Search the Census (c19)* page covers 1821, 1831, 1841 and 1851
+[S20 @2026-11-13]. It searches that census data, not the 1841 and 1851 census search forms above.
+Run it for the surname and county first.
 
 ## 4. Search the whole locality, including estate papers
 
