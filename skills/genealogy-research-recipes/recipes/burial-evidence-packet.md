@@ -241,6 +241,24 @@ actually inspected. On a memorial site, open every gallery image at its original
 Grave, **View original**). A main photo may be cropped to one name and hide a spouse on the same
 face. Record a cropped image as a partial view of that face. [P66, P67]
 
+Keep four things apart: the database entry, the photograph, your own transcription of the
+photograph, and any epitaph that a publication, memorial page or family compilation quotes. A
+database's name, father's-name and date fields are its statement about the burial, not a reading
+of the stone, even when a photograph is attached. A transcription the database supplies is someone
+else's reading, like a quoted epitaph. Read the photograph blind first: transcribe what is legible
+and mark what is not before you look at the database fields or a quoted epitaph. If you saw them
+first, say so beside your reading: it is then not blind. Then set the other readings beside yours
+and mark each of their words as shown on the photograph, contradicted by it, or not visible in it.
+A word that only the database or the quotation supplies stays attributed to that source and is not
+reported as part of the inscription. Not visible is not absent: the word may be eroded, on a face
+not photographed or outside the image.
+
+Record the pixel width and height of each image you read, and what was and was not legible at that
+size, for example `1200 × 900 px; given name and month-year legible; father's name eroded`. Read
+the largest copy available, not a thumbnail. A word that cannot be read in a small or compressed
+copy is unread, not missing from the stone. An AI model may receive a smaller image than the file;
+see [ai-for-documentary-records](ai-for-documentary-records.md#the-pitfalls-worth-internalizing-the-least-obvious-most-llm-usable-part).
+
 Record whether the stone's letters were traced (outlined) before the photograph was taken. A
 traced photograph shows the tracer's reading, not the carving itself. Check each doubtful letter
 against the wording expected at that point in the formula and, where available, a better or
@@ -335,8 +353,15 @@ Keep the dates separately:
 | Calculated birth-date lead | Separate derived value, input death date and age, calendar and arithmetic; label `calculated, not stated` |
 | Burial date | The date explicitly supplied as burial, with its source |
 | Database date | Displayed value, field label and record URL |
+| Photograph date | When the image was taken, if stated, and separately when it was posted, each with its source |
 | Converted date | Separate derived value, calendar and conversion basis, if checked |
 | Unreadable or absent value | Unknown; no guessed completion |
+
+The death date that a record or database gives, the burial date, the date on the inscription and
+the photograph's date are four different statements, and any of them can be unknown. Keep each as
+its own labelled date with its source, and leave an unknown one empty, in the packet and in any
+tree entry made from it. Do not fill a missing burial date with the death date, the inscription's
+date, or the date the photograph was taken or posted.
 
 **Check:** An unread inscription, missing date or unverified conversion stays unknown. The
 packet records the source statements and does not select a final death date. [P1, O1]
@@ -606,7 +631,9 @@ death date. Finding a death record does not guarantee that a burial record will 
 finding a burial record does not guarantee a death record. [P2]
 
 **Completion packet:** candidate identifier; exact searches; coverage observation; full-record
-and image URLs; raw inscriptions and uncertain readings; separately labelled dates; cemetery,
+and image URLs; each image's pixel size and what was legible at it; raw inscriptions as read blind,
+with uncertain readings, and any database or quoted reading kept beside them; separately labelled
+dates, including death, burial, inscription and photograph dates; cemetery,
 section, plot and supplied GPS; any register/office locator; discrepancies; and the next source.
 All source-dependent fields are nullable. Use `not supplied`, `not examined`, `unreadable` or
 `unresolved discrepancy` to explain the gap instead of filling it with an inference.
@@ -614,7 +641,9 @@ All source-dependent fields are nullable. Use `not supplied`, `not examined`, `u
 ## Prompt pattern
 
 > Build a burial evidence packet from these cemetery records and photographs. Keep candidates
-> separate. Preserve raw Hebrew and secular inscriptions, name roles, death and burial dates,
-> calendar labels, plot/GPS identifiers and source URLs. State which images were inspected.
+> separate. Transcribe each photograph blind before reading database fields or a quoted epitaph.
+> Preserve raw Hebrew and secular inscriptions, name roles, calendar labels, plot/GPS identifiers
+> and source URLs. Keep death, burial, inscription and photograph dates apart. State which images
+> were inspected, their pixel size and what was legible at it.
 > Leave unsupported fields unknown; list discrepancies and the next original record to retrieve.
 > Do not choose an identity or final date from the database label alone.
