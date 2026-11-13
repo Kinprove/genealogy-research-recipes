@@ -119,6 +119,8 @@ The sources supply the dates, custody facts, record contents and examples.
 
 No archive holding, catalogue structure or online service behaviour is asserted beyond what the sources describe and the pages viewed show.
 
+- **S23:** FamilySearch, [Portugal Marriages, 1670-1910](https://www.familysearch.org/en/search/collection/1520605) (collection page), read 2026-11-13 in a web browser (automated requests get HTTP 403). Used for: the index's own title and years, 1670–1910 (the Research Wiki, S11, lists it as 1760–1910); an index to selected Catholic marriage records from various localities, without images.
+
 ## Credits
 
-- Kinprove original procedural synthesis; record behaviours and examples paraphrased from a Legacy Tree Genealogists blog post and recorded BYU Family History Library, FamilySearch and Ancestry talks cited as S1 to S4, with facts checked against tombo.pt pages, FamilySearch Research Wiki pages, a FamilySearch class handout, the Civil Online service, a Leiria municipal document and the Portalegre district archive's pages cited as S5 to S21 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; record behaviours and examples paraphrased from a Legacy Tree Genealogists blog post and recorded BYU Family History Library, FamilySearch and Ancestry talks cited as S1 to S4, with facts checked against tombo.pt pages, FamilySearch Research Wiki pages, a FamilySearch class handout, the Civil Online service, a Leiria municipal document, the Portalegre district archive's pages and a FamilySearch collection page cited as S5 to S23 — FSL-1.1-MIT (kinprove-original)
