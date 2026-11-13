@@ -28,6 +28,7 @@ Link out for the shared steps:
 - **Inherited GEDCOMs on FamilySearch as compiled claims, and people who may still be living:** [FamilySearch practical workflows § 15 and § 14](familysearch-practical-record-workflows.md).
 - **Exporting a GEDCOM from Geni:** [Geni practical workflows § 8](geni-practical-research-workflows.md).
 - **A blank death, spouse or child field:** [descendancy gap worklist § Do not read a blank as a finding](descendancy-gap-worklist.md).
+- **Filling empty surname fields from a parent or a book:** [running a long genealogy project with an AI agent § Writing to a tree](agent-research-project.md).
 
 ## Contents
 

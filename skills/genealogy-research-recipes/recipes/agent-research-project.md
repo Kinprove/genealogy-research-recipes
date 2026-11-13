@@ -3,7 +3,7 @@ id: "agent-research-project"
 title: "Running a long genealogy project with an AI agent"
 summary: "Keep an AI agent's genealogy work honest over months: what counts as evidence, how to lay out Markdown research notes, what 'searched', 'saved' and 'done' must mean, how corrections reach every note, and how to delegate and write to a tree safely."
 kind: "judgment"
-scope: {"platforms": [], "tasks": ["running a multi-session genealogy investigation with an AI agent", "keeping genealogy research notes in Markdown or Obsidian", "delegating genealogy reading to sub-agents", "carrying a correction through notes and a tree", "research vault", "Obsidian genealogy notes", "the agent says saved or done", "sub-agent genealogy research", "long genealogy project", "keep research across sessions", "correct a claim everywhere"]}
+scope: {"platforms": [], "tasks": ["running a multi-session genealogy investigation with an AI agent", "keeping genealogy research notes in Markdown or Obsidian", "delegating genealogy reading to sub-agents", "carrying a correction through notes and a tree", "research vault", "Obsidian genealogy notes", "the agent says saved or done", "sub-agent genealogy research", "long genealogy project", "keep research across sessions", "correct a claim everywhere", "fill empty surname fields in a tree"]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "AGENT-RESEARCH-PROJECT-01", "text": "Treat a model-written summary, tag or \"key insight\" as a pointer. Open the source before writing a claim."}]
@@ -319,8 +319,43 @@ which period it covers. A count from a subset reads as a verdict on the whole co
 - Change an existing name only with approval. List conflicts with the old value, new value and source.
 - Close each bulk import with per-row receipts, and reconcile what was emitted, what was stored and
   what the agent reported. In one import, 98 of 183 parent links vanished without an error.
+  Report a receipt check as exactly that: receipts matched against the plan show what was sent
+  and acknowledged, not what each person's page shows now. Report a read-back only for the people
+  whose pages you reopened.
+- When one field is empty for a whole imported group, check how the import was run before
+  treating the gap as missing from the records: an option or a column mapping can drop a field for
+  everyone.
 - Treat a full re-import as destructive replacement. Keep a restorable copy, confirm the file's
   identity first, and never report zero people imported as success.
+
+Before writing any surname into a tree, a bulk fill of empty fields included, sort each value into
+one of four kinds and keep the kind in the batch plan: printed for this person in the source;
+inferred from a parent; a place name, title or patronymic; or unknown. Only the first is a
+transcription.
+
+- **Inferred from a parent.** Copying a father's surname to a child claims two things: that this
+  is his child, and that the family used that surname as a hereditary name in the child's
+  generation. Where a book prints the surname for the father and for one son, it is still an
+  inference for the other children. Write it only with a research note on the person that says it
+  is inferred and from whom, and never count it as transcribed.
+- **Inferred through a "possibly".** Where the source marks the parentage as possible, a surname
+  derived through it is conditional too. Carry the source's qualifier into the person's research
+  note; never put it inside the name field.
+- **Not a surname.** A place name ("of Dubrovny"), a title ("Besht", the acronym of Baal Shem
+  Tov) or a patronymic in a parent's surname field is not a family name. Never copy it to anyone
+  else: copied mechanically, it gives the tree a family of people surnamed "Besht". Where the
+  family used patronymics, a child's name comes from the father's given name, not from his
+  surname field ([Scandinavian patronymic and farm names](scandinavian-patronymic-farm-name-record-recovery.md)).
+  Moving such a value out of the parent's own field is a name change and needs approval.
+- **Unknown.** Where nothing establishes the surname, leave the field empty. An empty field keeps
+  the question open; an invented surname reads as a fact.
+- **Birth and married surnames are separate fields.** Never move a value from one to the other: a
+  woman's married surname does not go into her birth-surname field, and her birth surname does not
+  go into her married-surname field. A wife printed under her husband's surname gives her married
+  surname; it does not by itself give her birth surname.
+- **Exceptions.** Before a bulk fill, hold back every person whose source value is not a plain
+  surname or whose parentage is marked possible. Resolve each one separately on its own evidence;
+  never fill it with the surname of the only male relative in view.
 
 ## Deleting, moving and backing up
 
