@@ -277,6 +277,18 @@
  },
  {
   "recipe": "ai-for-documentary-records.md",
+  "kind": "publish",
+  "action": "Correct-and-verify loop for AI-INDEXED Latin American records",
+  "checkpoint": "A correction saved in the correct-and-verify loop"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "publish",
+  "action": "Where editing is allowed, correct the whole page.",
+  "checkpoint": "A correction saved in the correct-and-verify loop"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
   "kind": "third-party-tool",
   "action": "don't enter anything you wouldn't post publicly, because these tools may train on your uploads",
   "checkpoint": "Pasting living people's records into an AI chatbot sends their data to a third party; answer the privacy gate in `SKILL.md` first."
@@ -328,6 +340,12 @@
   "kind": "contact",
   "action": "Confirm identity through documented test-registration/upload provenance or the tester/kit manager.",
   "checkpoint": "Asking the tester or kit manager to confirm identity is contact"
+ },
+ {
+  "recipe": "ancestry-record-search-recovery.md",
+  "kind": "publish",
+  "action": "Once the image shows a mistranscription, the user can add the correct reading",
+  "checkpoint": "An added reading becomes alternate information"
  },
  {
   "recipe": "ancestry-record-search-recovery.md",
