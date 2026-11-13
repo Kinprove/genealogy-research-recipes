@@ -4,13 +4,13 @@ title: "Recover an Italian ancestor in the Stato civile, parish books and conscr
 summary: "Send an Italian birth, marriage or death to the register that was the legal record in that place and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato civile), then search conscription lists and the population register as separate series."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "ITALIAN-STATO-CIVILE-PARISH-RECORD-RECOVERY-01", "text": "Fix who registered the event before you choose a series. Use the event year and the place's ruler in that year, not today's region."}]
 handoff: ["archival-image-coverage-verification", "catholic-parish-diocesan-record-recovery", "catholic-sacramental-cross-notations", "evidence-proof-judgment", "familysearch-practical-record-workflows", "historical-place-name-resolution"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Country record routing", "order": 1058}
 ---
 
@@ -112,6 +112,8 @@ Fix who registered the event before you choose a series. Use the event year and 
 - **Look for both series in a State Archive.** The Modena and Bergamo State Archives hold and describe them [S12], [S13]. Confirm which State Archive holds the man's district before you log a miss.
 
 ## 6. Send each comune request to the right office
+
+**Privacy gate:** <!-- privacy-gate: request --> A request to a comune office can name, or ask about, people who may be living: a recent vital act names its parties, and a family sheet lists every member of a household and their changes of residence. Until the privacy gate in `SKILL.md` is answered for each such person, the request stays an unsent draft, even when the person you are tracing is dead. The office's rule on who may order a record is not that person's permission. Never ask the anagrafe where a living person lives now.
 
 - **Ask the Ufficio dello Stato Civile for a vital act.** Every comune has one [S14]. It keeps the birth, marriage, death and citizenship registers [S15].
 - **Ask the Ufficio Anagrafe for a household or a move.** The anagrafe holds the registro di popolazione (population register), kept as fogli di famiglia (family sheets) showing household members and changes of residence [S15], [S16].

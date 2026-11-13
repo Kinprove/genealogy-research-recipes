@@ -1284,6 +1284,24 @@
   "checkpoint": "An entry younger than those limits can name people who may be living"
  },
  {
+  "recipe": "italian-stato-civile-parish-record-recovery.md",
+  "kind": "request",
+  "action": "Ask the Ufficio dello Stato Civile for a vital act",
+  "checkpoint": "A request to a comune office can name"
+ },
+ {
+  "recipe": "italian-stato-civile-parish-record-recovery.md",
+  "kind": "request",
+  "action": "Ask the Ufficio Anagrafe for a household or a move",
+  "checkpoint": "A request to a comune office can name"
+ },
+ {
+  "recipe": "italian-stato-civile-parish-record-recovery.md",
+  "kind": "request",
+  "action": "Re-send it to the right office before you log a miss",
+  "checkpoint": "A request to a comune office can name"
+ },
+ {
   "recipe": "japanese-koseki-honseki-recovery.md",
   "kind": "request",
   "action": "Send the request to the current successor's office, not the one nearest a remembered hometown.",
