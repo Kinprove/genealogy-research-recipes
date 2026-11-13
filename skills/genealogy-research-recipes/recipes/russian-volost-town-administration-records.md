@@ -121,6 +121,12 @@ A printed reference book describes Yekaterinburg town-administration files 746�
 
 ## 6. Record inspected entries as household observations
 
+**Write down whom the list covers before you read anyone's absence.** Take it from the list's title, its column headings and the purpose it was made for. Name what the list leaves out by construction: women, children, men below or above an age limit, people registered in another society, or everyone except the payer. A family list made for the call-up can be a list of males only; look in its title and headings for wording such as «мужского пола». A head and his sons with no wife or daughter in such a list says nothing about whether the women were alive, or about who the sons' mother was.
+
+**Take each age's reference date from its column heading, not from the year on the file's label.** A file labelled 1875 can carry ages reckoned at an earlier year that its headings name, such as the year of the list the ages were copied from. Copy the heading's wording with the ages. If the headings leave the reference date open, copy the ages as written and record no birth year derived from them. For the age columns of the 1874–75 lists and later additions to them, see [Russian-Empire identity attribution, order of checks, step 4](russian-empire-jewish-identity-attribution.md#1-the-order-of-checks-cheapest-and-most-decisive-first).
+
+**In a tax, arrears or property list, name every column from its heading before you read a number.** A figure beside a name can be a sum in roubles and kopecks, arrears, an age, a household number or a rate-sheet number. Do not read a figure as an age until a heading says it is one. Such a list names only the people it taxes or the owners it records, for example men above a set age or householders, so it is not a household census.
+
 - Copy house, plot, quarter, town part and rate-sheet numbers exactly, including later corrections. In one transcript of the 1809 ledger, plot numbers appear with a bracketed alternative reading ("№1773 [1573]"). Keep both readings. [S7]
 - Do not link entries across years by house or plot number alone. Numbering can change between ledgers. The 1816–1818 list gives a bare house number, while the 1844 list gives town part, quarter and number. [S7] A link needs an inspected basis, such as the same owner, the same street and a stated purchase or inheritance.
 - Record every person in the household, with the relationships, ages, estate, presence or absence and occupation as written. Cross-reference each household to the matching revision-list and confession-list entries with their own locators. An age or date that does not match ranks the candidate lower. It never excludes them.
@@ -143,5 +149,7 @@ List these separately:
 - inventory defects;
 - gaps in annual series;
 - files you need to ask the archive about (repeated numbers, missing sheet counts).
+
+For each inspected list, also record whom it covers and what it leaves out by construction, the reference date of each age column (or "not resolved"), and the heading of each numeric column (step 6).
 
 For inspected rows, attach the household observation. Report "not found" only for files you actually inspected. Survival varies from volost to volost and town to town. A fond with no family list is a coverage gap, not evidence that the family was absent.
