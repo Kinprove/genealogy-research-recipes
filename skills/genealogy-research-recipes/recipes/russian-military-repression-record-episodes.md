@@ -514,6 +514,10 @@ pages can name living relatives; keep their details out of shared output.
    actually checked. Ask about a documented transfer or another specific creator when relevant;
    do not translate a local reply into proof of universal loss or launch an endless archive sweep.
 
+**Privacy gate:** <!-- privacy-gate: request --> A rehabilitation application or certificate request
+names the repressed person and can name family members who may be living; answer the privacy gate in
+`SKILL.md` before sending it.
+
 **Rehabilitation certificates.** For people repressed by administrative order (exile, banishment,
 special settlement or forced labour under restricted freedom, including in "NKVD labour columns";
 Law 1761-1, art. 3, point «в») [H100], apply to the internal-affairs bodies; for the other categories,

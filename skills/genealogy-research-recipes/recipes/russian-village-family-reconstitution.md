@@ -84,6 +84,15 @@ Start from [archival image coverage verification](archival-image-coverage-verifi
 - **Identify each held file from its own pages.** Evidence Explained notes that with some digitized microfilm the first image or two carry the title page of the microfilm publication. [S19] Open the cover and title page of every PDF or image folder and record what it is. A checksum does not change when only the filename changes, so equal checksums find byte-identical copies under different names. [S20] According to Kinprove's own case notes [S5†], a folder named for one delo was a byte-identical copy of another, and two unidentified PDFs were 1858 revision tales that do not name the village.
 - **A case cited in another tree is a lead, not a reading.** Evidence Explained warns against borrowing a source's citation and leaving "the impression that we consulted the original". [S19] Repeating a provider's citation is, in Elizabeth Shown Mills's words, "simply regurgitating what my provider is citing". [S21] Evidence Explained also asks researchers to double-check the details of a ready-made citation. [S22] A Russian researcher keeps the year from the table heading, the month and the entry numbers visible in every screenshot of an entry. [S23] Before you propose a cited case as the place to look for an event, open the cited frame and read its header: the year, the register part and the church. According to Kinprove's own case notes [S5†], two cases cited for the family in another researcher's tree were a town church's deaths and marriages of other decades, which cannot hold the village baptism sought.
 
+A Soviet civil-registration book can cover several settlements, and a restored book can register a
+birth years later. In the Ukrainian Wikisource index to the Sumy oblast archive's f. Р-7720, op. 2
+(Buryn district, 1918–1949), at least 206 of the 298 books name more than one settlement, and 20 birth
+books of 1944–1949 are marked restored (поновлені). [S61] One restored book records on 16 August 1944
+a birth of 3 December 1930, on the basis of a protocol of a commission sitting with a doctor. [S62]
+Record a restored entry's registration date and stated basis apart from the event date: it is a later
+registration, not a record made at the birth, and what the commission relied on stays unknown until
+you find its protocol.
+
 ## 5. Index the whole village in every role
 
 When the key record is missing, stop searching for the target alone and index the village.

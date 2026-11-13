@@ -56,6 +56,35 @@ Related recipes:
   - Diia (the Ukrainian state services portal) can order repeat certificates and extracts, but the application must be signed with a Ukrainian qualified electronic signature (КЕП) or Diia.Signature. Ukrposhta delivery of the result is available only within Ukraine (Diia notice of 10.07.2026, checked 2026-11-02). From abroad, apply through a Ukrainian consulate [S23], [S24].
 - **Then stop chasing the register.** Participants reported the Jewish metrical books of Starodub and Kremenchug as not surviving. For losses like these they gave one instruction: work from Soviet-period files on work, study, evacuation and party membership [S2].
 
+**Ask for a справка with the record lines you need.** Besides a repeat certificate, a Russian ZAGS
+office issues справки on a registered act. Birth, marriage, divorce, adoption, paternity, name-change
+and death справки (forms No. 2, 4–10 and 12) have a line «Иные сведения». On the applicant's written
+application, it carries information from the act record that the form does not provide, each item
+introduced by the name of the record line (for example «последнее место жительства умершего:») and
+copied word for word from the record. It never carries adoption information in a birth справка, or
+the declarant's place of residence when a private person declared the registration. [S41], [S42] So
+name each record line you need.
+
+**Second copies.** Paper act records from before 1 October 2018 were made in two copies. Books of
+second copies are kept by the regional body in charge of civil registration where the records were
+made. They are destroyed once the books of first copies go to the state archive, but not when the
+first-copy book has not survived, and a record lost from a first-copy book is replaced from the second
+copy. First-copy books made before Federal Law No. 219-FZ of 2016 took effect, and metrical books, go to
+the state archive only after their data are entered in the unified register of civil-status records.
+[S43 @2026-11-13] If a справка has a gap, an unreadable place or a discrepancy, ask which copy was read
+and where the other copy is kept.
+
+A Ukrainian court decision can quote an archive's reply about a birth register. Court decisions, among
+them decisions establishing a fact of birth, are published in the Unified State Register of Court
+Decisions (reyestr.court.gov.ua), whose context search finds a decision by a fragment of its text.
+Names and other identifying details are replaced there by letters or numbers (Law No. 3262-IV,
+art. 7). [S45 @2026-11-13], [S46 @2026-11-13] A 2025 decision (register No. 132430639, case
+No. 129/2514/25) quotes an Odesa oblast archive reference of January 2025: the 1930 birth register of
+Kodyma never reached the archive and is considered lost during the occupation and fighting of
+1941–1944. [S47 @2026-11-13] Search reyestr.court.gov.ua for the place name, record the archive, the
+birth register, its years and the date of the quoted reply as a lead, and confirm the custody with the
+archive. Do not try to identify the parties.
+
 ## 2. Build a life-course inventory for the subject, the spouse and the descendants
 
 List every institution each person passed through. In each of them the person filled in a questionnaire and wrote an autobiography [S2]. Include:
@@ -139,6 +168,13 @@ Write one row per locator and person, using the fields in the output register at
   - d. 235 (Sverdlovsk okrug, 1929).
 - **What an entry gives:** the status (служитель культа, wife of a cleric, просфорня), the occupation before and after the revolution, sometimes a birth year, and the village soviet [S6], [S12], [S13]. Record each entry as a dated observation of residence and status.
 - **This series is separate from the security-service files.** In one case the KGB of Belarus and the Interior Ministry information centre both reported no data. A participant then found an inventory entry in GARF's лишенец files under a Russian name and patronymic that the woman might have used. The thread does not confirm that the entry was hers [S10].
+
+District executive-committee fonds can hold both lists and individual files. In the Leningrad oblast
+archive in Vyborg (ЛОГАВ), f. Р-1907 (Kingisepp district executive committee), op. 2 (1927–1937) holds
+a book of record and lists of disenfranchised people by village soviet, extracts of protocols on
+deprivation and restoration of voting rights, protocols of the commission reviewing the lists, and
+files titled with individual names. [S44 @2026-11-13] Search the district executive-committee fond as
+well as GARF's лишенец files.
 
 **Degree (VAK).**
 

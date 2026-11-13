@@ -89,6 +89,12 @@ Record one row per copy. Do not stop at the first copy you find.
 
 Mark each row as inspected (images or original), extract only, or unlocated. If an archive reports a find but gives no locator, ask for the fond, opis, delo and leaf, and check the file's own cover title. In one archive reply the file turned out to be an alphabetical list of family heads that cited revision numbers. That kind of list is not a revision list and does not show who was in the family. [S7]
 
+For Left-Bank Ukraine, the Ukrainian Wikisource index to TsDIAK f. 51 (General Military Chancellery),
+op. 3, vol. 12 lists 62 regimental revisions (ревізії) of 1729–1764, among them 15 for the Pereiaslav
+and 12 for the Chernihiv regiment, with a Wikimedia Commons PDF for each file. [S57 @2026-11-13] The
+files are titled by regiment, so find the sotnia and village inside the file. Do not match them to the
+numbered revisions by year; read each file's own title and date.
+
 ## 3. Use the volume's own finding aids, then check that the file is what its title says
 
 - Many volumes open with a реестр (register) of settlements and leaf numbers. Use it to find the leaf range for the target village. A participant transcribed one at the head of GAPK 111-3-40 (1816, Perm, Okhansk and Cherdyn districts). Registers give only household or soul totals, and the person-by-person entries follow in the body. [S15] Some central files end with their own aids. The RGADA inventory records a summary at l.312 ob. and a geographic index at l.313 of f.350, op.2, d.909.

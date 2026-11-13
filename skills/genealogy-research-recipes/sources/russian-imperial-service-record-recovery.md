@@ -76,6 +76,9 @@
 - **From the library and institute pages (S14–S18):** the library locators and the Amburger lead.
 - **Limits of that evidence.** Most ГАПК entries are abstracts posted by one compiler across several threads, so their agreement is one compiler's work, not independent confirmation.
 
+- **S22:** Росархив, [О возможности проведения генеалогических исследований в РГВИА, Internet Archive capture of 17 March 2023](https://web.archive.org/web/20230317172929/https://rusarchives.ru/uslugi/pomoshh-issledovatelu/o-vozmozhnosti-provedeniya-genealogicheskih-issledovaniy-rgvia), read 2026-11-13 (the live site refused the connection). Used for: seniority lists of 1737–1917 in f. 407 and 408, such documents in other fonds, and the alphabetical index to the officer lists of 1881–1917.
+- **S23:** Денис Шилов, [«Формулярные списки руководителей ведомств и членов Государственного совета: проблема достоверности источника»](https://elar.urfu.ru/bitstream/10995/116446/1/qr_3_2022_17.pdf), Quaestio Rossica 10, no. 3 (2022): 1104–1120, DOI 10.15826/qr.2022.3.718, read 2026-11-13. Used for: p. 1117, children's birth dates as the least reliable family data, often entered from memory, and the children's religion and the wife's dates from 1905.
+
 ## Credits
 
 - J-Roots Forum, beginners' trial-post thread on echoes of family stories — Forum post, all rights reserved by the posters; short quotation for citation (quoted)
