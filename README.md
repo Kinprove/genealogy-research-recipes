@@ -145,10 +145,10 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [admixture-model-run-scope](skills/genealogy-research-recipes/recipes/admixture-model-run-scope.md) | — | — | — | — | — | — |
 | [agent-research-project](skills/genealogy-research-recipes/recipes/agent-research-project.md) | — | — | — | publish, third-party-tool, upload | — | required |
 | [ai-for-dna-research](skills/genealogy-research-recipes/recipes/ai-for-dna-research.md) | — | — | — | export, third-party-tool | contact | required |
-| [ai-for-documentary-records](skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md) | — | generated plotting script | — | export, third-party-tool | — | required |
+| [ai-for-documentary-records](skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md) | — | generated plotting script | — | export, publish, third-party-tool | — | required |
 | [amsterdam-archival-record-recovery](skills/genealogy-research-recipes/recipes/amsterdam-archival-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [ancestry-dna-match-investigation](skills/genealogy-research-recipes/recipes/ancestry-dna-match-investigation.md) | ancestrydna | — | browser extension view comparison (optional) | link, publish | contact | required |
-| [ancestry-record-search-recovery](skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md) | ancestry | — | — | request | — | required |
+| [ancestry-record-search-recovery](skills/genealogy-research-recipes/recipes/ancestry-record-search-recovery.md) | ancestry | — | — | publish, request | — | required |
 | [archival-image-coverage-verification](skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) | — | — | — | request | — | required |
 | [australia-nz-record-routing](skills/genealogy-research-recipes/recipes/australia-nz-record-routing.md) | record catalogues and original images | — | — | — | — | — |
 | [austrian-confessional-register-routing](skills/genealogy-research-recipes/recipes/austrian-confessional-register-routing.md) | record catalogues and original images | — | — | request | — | required |
