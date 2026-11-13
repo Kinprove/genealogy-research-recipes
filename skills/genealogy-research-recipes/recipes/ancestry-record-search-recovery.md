@@ -241,9 +241,9 @@ using non-name fields and the parents' names after direct searches fail.
 
 **Privacy gate:** <!-- privacy-gate: publish --> An added reading becomes alternate information that
 other Ancestry users can find by search. Before adding a reading that names or links someone who may
-be living, answer the privacy gate in `SKILL.md` for each such person. Until each such person has
-given permission, keep the reading in the user's local notes and leave the record unchanged. A
-reading that concerns only people known to be dead can be added as before.
+be living, answer the privacy gate in `SKILL.md`. Until each such person has given permission, keep
+the reading in the user's local notes instead of adding it. A reading that concerns only people known
+to be dead can be added as before.
 
 Once the image shows a mistranscription, the user can add the correct reading: the
 record page's three-dot menu has **Add or update information**, which adds it as

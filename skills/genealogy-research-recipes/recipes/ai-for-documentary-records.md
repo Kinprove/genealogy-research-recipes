@@ -210,12 +210,12 @@ These are reading aids from [Hutchison](https://www.youtube.com/watch?v=Prg_XRQS
 
 **Privacy gate:** <!-- privacy-gate: publish --> A correction saved in the correct-and-verify loop
 below, or in the whole-page census fix after it, is a live shared edit that other users can find by
-search. Before saving a correction that names or links someone who may be living, answer the privacy
-gate in `SKILL.md` for each such person. On a whole-page fix this includes the households outside the
-user's family. Under Data, say when a marginal note records an acknowledged father or another
-parentage fact. Until each such person has given permission, keep the proposed correction in the
-user's local notes and leave the index entry unchanged. Entries for people known to be dead can be
-corrected as before.
+search. Before saving a correction that names or links someone who may be living, whether in the
+user's family or, on a whole-page fix, in another household on the page, answer the privacy gate in
+`SKILL.md`. Under the gate's Data item, say when a marginal note records an acknowledged father or
+another parentage fact. Until each such person has given permission, keep the proposed correction in
+the user's local notes instead of saving it. A correction that concerns only people known to be dead
+can be saved as before.
 
 - **Full-Text Search for ENSLAVED ancestors.** Search slaveholders, plantation names, overseers, and distinctive property — probate/estate files, bills of sale, and deeds of gift (within FamilySearch's U.S. Plantation and Land & Probate collections) name enslaved people by name, age, value, and family ties that traditional indexes omit. Search spelling and HTR variants (and wildcards) — an AI-misread or misspelled name won't exact-match — and re-run every week or two as processing continues. (James Tanner)
 - **Unindexed deeds/probate via a distinctive keyword.** Searching an inherited "piano" surfaced a probate file and unknown relatives; a rare surname + place returned an obituary and a probate naming relatives. Quote a full name to keep it together; search two names together to find shared records; try name variants because HTR misreads defeat exact matching. (FamilySearch)
