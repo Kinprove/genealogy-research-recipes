@@ -229,6 +229,11 @@ the privacy gate in `SKILL.md` before you order it.
     and date of birth, and the Guernsey forms cover everyone over 14 who stayed on the island
     [S30], [S31]. The Isle of Man was not occupied.
 
+**Isle of Man civil registers from 1878 are with the Douglas Civil Registry Office.** The National
+Archives names that office as the contact for them, and Manx National Heritage for the parish
+registers [S28 @2026-11-13]. A recent entry can name people who are still living, so answer the
+privacy gate in `SKILL.md` before you ask the office for a copy.
+
 ## Order the certificate and close the packet
 
 **Privacy gate:** <!-- privacy-gate: request --> A certificate order sends the name and the
