@@ -56,9 +56,9 @@ Choose the class before you search. Do not use the gazette as a general name ind
   - *Amts- und Intelligenzblatt des Königlich Bayerischen Rheinkreises* for 1837
   - *Königlich bayerisches Amts- und Intelligenzblatt für die Pfalz*, Speyer, for 1850 and 1853
 
-  The Rheinkreis title is held for 1835. The district took the name Pfalz from 1838, so search under the Rheinkreis title before 1838 and the Pfalz title after it. Library catalogues also list a *Kreis-Amtsblatt der Pfalz* (Speyer, 1858). For the 1850s, search under both title forms. A Jewish teacher's appointments and transfers appeared in this gazette and in a Bavarian newspaper [S4].
+  The German union catalogue of serials (ZDB) records three successive titles for this gazette, all printed in Speyer: *Amts- und Intelligenzblatt des Königlich Bayerischen Rheinkreises* for 1831–1837, *Königlich bayerisches Amts- und Intelligenzblatt für die Pfalz* for 1838–1853, and *Königlich-bayerisches Kreis-Amtsblatt der Pfalz* for 1854–1918 [S6]. Search each year under the title of that year. For a year before 1831, look up the title in the ZDB first. A participant gave this gazette and a Bavarian newspaper as the sources for one Jewish teacher's appointments and transfers [S4].
 - **Russian-Empire and other foreign subjects in Imperial Germany.** Search the expulsion lists. The examples run from 1894 to 1901 and cover subjects born in Courland and Livonia [S1].
-- **Émigrés of the 1930s–40s.** Search the *Reichsanzeiger* expatriation lists. The *Reichsanzeiger* published expatriation lists as a series. Do not limit the search to the emigration years: search every list date from the person's departure onward, not only one. A participant cited lists of 22.06.1938 and 02.10.1940, and the members of one family appear on both [S3].
+- **Émigrés of the 1930s–40s.** Search the *Reichsanzeiger* expatriation lists. Do not limit the search to the emigration years: search every list date from the person's departure onward, not only one. In [S3], a man who had lived in Berlin until about 1933 has a *Deutscher Reichsanzeiger* line of 22.06.1938, and so do his wife and their son. The participant who cited those lines also dated another couple's loss of citizenship 02.10.1940, but named no source for it. Do not treat that date as a confirmed list date.
 
 ## 2. Search year by year and know what you are reading
 
@@ -72,11 +72,11 @@ Choose the class before you search. Do not use the gazette as a general name ind
 Copy each field literally. Never fill one field from another.
 
 - **Issuing authority.** Record it as printed. Examples are the Royal Prussian Regierungspräsident in Potsdam or Königsberg, or the Imperial Bezirkspräsident in Straßburg [S1].
-- **Date and its label.** In the 1894 expulsion entries the date is labelled *Datum des Ausweisungsbeschlusses*, the date of the expulsion decision. The 1900–1901 extracts give a bare date in the same position [S1]. By analogy with 1894 it is probably the decision date. Still, record it as *date, role unstated (probably decision)* until you have seen the printed notice.
+- **Date and its label.** In the 1894 expulsion entries the date is labelled *Datum des Ausweisungsbeschlusses*, the date of the expulsion decision. The 1900–1901 extracts give a bare date with no label [S1]. By analogy with 1894 it is probably the decision date. Still, record it as *date, role unstated (probably decision)* until you have seen the printed notice.
 - **Name.** Record name forms separately.
   - A 1900 entry for a seamstress gives a surname, then the birth sign (rendered *\** in the transcription), then a second surname [S1]. Record the second surname as a separate birth-surname field.
-  - In the 1940 list the added names *(Sara)* and *(Israel)* appear in parentheses. They are absent from the same family's 1938 entries [S3]. Keep them as printed in their own field. They are not birth names, so do not search birth records under them.
-- **Occupation or title.** Record it literally: house servant, labourer, ship's stoker, pedlar, or a former minister and envoy (*a. D.*) [S1], [S3]. In the seminary-exam notice, the candidate is listed under the heading *Litthauer* [S2]. Keep that ethnic or language label as printed. Do not treat it as a birthplace.
+  - In the 1940 entry the added names *(Sara)* and *(Israel)* appear in parentheses. The 1938 lines, which concern a different household, show none [S3]. Keep them as printed in their own field. They are not birth names, so do not search birth records under them.
+- **Occupation or title.** Record it literally: house servant, labourer, ship's stoker, pedlar, or a former minister (*a. D.*) and envoy [S1], [S3]. In the seminary-exam notice, the candidate is listed under the heading *Litthauer* [S2]. Keep that ethnic or language label as printed. Do not treat it as a birthplace.
 - **Birth date, or age.**
   - Some expulsion entries give an age instead of a date, such as 65 years in 1894 [S1].
   - The seminary-exam notice gives the home place and an age, 22½ years at Michaelmas 1843, not a birth date [S2].
@@ -97,7 +97,7 @@ Copy each field literally. Never fill one field from another.
 
 ## 5. Expatriation lists: one row per person per list date
 
-- **Give every listed family member a row with their own list date.** In [S3], a couple and their son appear under 22.06.1938, and another couple under 02.10.1940. In the 1940 case the participant reported the husband only as "the same" as his wife. Open his own line and transcribe it. Do not copy her fields into his row.
+- **Give every listed family member a row with their own list date.** In [S3], a man, his wife and their son each have their own line of 22.06.1938. A separate entry of 02.10.1940 covers a woman and her husband. The participant wrote out the wife's part in full. The husband's part reads *Dasselbe für ihren Ehemann* ("the same for her husband"), followed by his given name, his added name and his titles. The act, the date and the last residence are written once, with her part. Find his own entry and transcribe it. Until then, mark his date and last residence *not transcribed*. Do not copy her fields into his row.
 - **Do not assume relatives share one list.** Search each person separately across every list date. Record each list you searched that gave no hit.
 
 ## 6. Personnel notices: chain postings across years and titles
