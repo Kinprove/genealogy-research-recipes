@@ -37,7 +37,8 @@ class DanishRecordTests(unittest.TestCase):
         self.assertIn("the Copenhagen police went on keeping the emigrant registers", bullet)
         self.assertIn("run to 1952", bullet)
         self.assertIn("1953–1959", bullet)
-        self.assertIn("not scanned", bullet)
+        self.assertIn("not scanned, so a miss in the online material is not a negative", bullet)
+        self.assertNotIn("reading room", bullet)  # no record request without a privacy checkpoint
         self.assertIn("[S23 @", bullet)
         self.assertNotIn("from 1868 to 1934", self.text)
 
