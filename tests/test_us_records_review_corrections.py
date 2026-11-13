@@ -1,4 +1,4 @@
-"""The U.S. records recipes keep the corrections from the expert review in issue #92.
+"""The U.S. records recipes keep the corrections from the expert reviews in issues #92 and #216.
 
 Each test pins corrected facts and, where a draft of the fix had them wrong, checks
 that the wrong wording is gone, so a later edit cannot quietly bring it back.
@@ -11,9 +11,14 @@ ROOT = Path(__file__).resolve().parents[1]
 RECIPES = ROOT / "skills/genealogy-research-recipes/recipes"
 
 
+def folded(path: Path) -> str:
+    """Return a file's text with each run of whitespace folded to one space."""
+    return " ".join(path.read_text(encoding="utf-8").split())
+
+
 def recipe(name: str) -> str:
     """Return a recipe's text with each run of whitespace folded to one space."""
-    return " ".join((RECIPES / name).read_text(encoding="utf-8").split())
+    return folded(RECIPES / name)
 
 
 def between(text: str, start: str, end: str) -> str:
@@ -132,6 +137,84 @@ class UsRecordsReviewCorrectionsTests(unittest.TestCase):
         self.assertIn("The 20 state-land states", text)
         self.assertIn("Congressional Reservation Line", text)
         self.assertNotIn("category error", text)
+
+
+class UsRecordsIssue216CorrectionsTests(unittest.TestCase):
+    """Corrections from the 1.15.0 review of the U.S. recipes in issue #216."""
+
+    def test_a_later_act_can_free_people_born_before_the_cutoff(self):
+        text = recipe("us-freedpeople-record-recovery.md")
+        item = between(text, "**Other gradual-abolition states.**", "**A free woman heading")
+        self.assertIn('"Held for life" means only that the state\'s first act did not free', item)
+        self.assertIn(
+            "legislation enacted in 1817 freed the remaining enslaved people in 1827 [S57]", item
+        )
+
+    def test_manhattan_search_for_the_bronx_starts_at_annexation(self):
+        text = recipe("us-vital-registration-coverage.md")
+        self.assertIn(
+            "search the Manhattan records only for events from the date of annexation through 1897",
+            text,
+        )
+        for town in (
+            "Flatbush, 1847–1851 and 1880–1894",
+            "Flatlands, 1880–1895",
+            "Gravesend, 1880–1894",
+            "New Lots, 1881–1886",
+            "New Utrecht, 1880–1894",
+        ):
+            self.assertIn(town, text)
+
+    def test_widows_thirds_include_her_share_of_personal_estate(self):
+        text = recipe("us-period-law-record-reading.md")
+        row = between(text, "| `widow's thirds` |", "| `Court of Ordinary` |")
+        self.assertIn("In an intestate's personal estate", row)
+        self.assertIn('"one third shall go to the widow of the intestate" [S131]', row)
+        self.assertNotIn("| A share she owned outright |", text)
+
+    def test_a_judge_directory_miss_does_not_rule_out_a_territorial_judge(self):
+        text = recipe("us-federal-court-case-file-recovery.md")
+        item = between(text, "**A lead that names a judge but no court:**", "For a matter before 1912")
+        self.assertIn("lists only judges of the Article III courts and some former federal courts", item)
+        self.assertIn("a judge who sat only on a territorial court is not listed", item)
+
+    def test_federal_pardons_before_1853_have_a_route(self):
+        text = recipe("criminal-court-prison-record-recovery.md")
+        paragraph = between(
+            text, "**Federal pardons outside RG 204's case files:**", "## Inventory surviving series"
+        )
+        for words in ("pardon files, 1789–1893, in RG 59", "1793–1853", "are in RG 94"):
+            self.assertIn(words, paragraph)
+
+    def test_ohio_names_the_western_reserve_and_firelands(self):
+        text = recipe("us-federal-land-entry-file-recovery.md")
+        paragraph = between(text, "A further caution for Ohio:", "## 1. Route the entry by authority")
+        for words in ("Connecticut Western Reserve", "the Firelands", "Connecticut State Library"):
+            self.assertIn(words, paragraph)
+
+    def test_abmc_covers_korea_vietnam_and_three_more_cemeteries(self):
+        text = recipe("burial-evidence-packet.md")
+        paragraph = between(text, "ABMC covers more than", "On a Soviet WWII mass grave")
+        for words in (
+            "Korean War",
+            "Vietnam War",
+            "Mexico City National Cemetery",
+            "Corozal American Cemetery",
+            "Clark Veterans Cemetery",
+        ):
+            self.assertIn(words, paragraph)
+
+    def test_a_missing_dagger_is_not_an_access_record(self):
+        text = folded(ROOT / "skills/genealogy-research-recipes/SKILL.md")
+        self.assertIn("take access limits from the sidecar entry, not from a missing dagger", text)
+
+    def test_navy_veterans_own_pensions_route_to_m1469(self):
+        pension = recipe("us-military-pension-file-recovery.md")
+        self.assertIn("| Navy veterans, approved claims, 1861–1910 | M1469", pension)
+        self.assertIn("For a Navy veteran's own approved claim, use M1469", pension)
+        civil_war = recipe("us-civil-war-service-record-episodes.md")
+        coverage = between(civil_war, "## Check database coverage", "## Return the episode packet")
+        self.assertIn("NARA M1469", coverage)
 
 
 if __name__ == "__main__":

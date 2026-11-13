@@ -79,6 +79,8 @@ entering identifying search terms or sending a record request.
 - Record in the request log: agency, form, date sent, date answered, file number quoted, documents supplied (death certificate, kinship proof), whether you gave consent or accepted redaction, and what you actually received (extract, redacted copy or full file).
 - Death status matters for access. Note whether the inmate is dead, how long ago, and whether the children are living [S2].
 
+**Federal pardons outside RG 204's case files:** RG 204's pardon case files begin in 1853. From 1789 to 1853 the Secretary of State and the Attorney General shared responsibility for exercising the President's pardon power, and the State Department issued pardon warrants until 1893. Search the State Department's pardon files, 1789–1893, in RG 59, and RG 204's abstracts of State Department pardon cases, 1793–1853. Applications for amnesty, Civil War and later, are in RG 94 [S18 @2026-11-13].
+
 ## Inventory surviving series and access rules
 
 - Ask the custodian which series survive. Do not assume a case file exists. For Sing Sing:

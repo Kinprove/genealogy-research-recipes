@@ -18,7 +18,7 @@ as the presenters reported them. No AI transcription method is adopted here.
 ### Period-law sources
 
 - **S10:** [Biographical Directory of Article III Federal Judges, 1789-present (Federal Judicial Center)](https://www.fjc.gov/history/judges), read 2026-11-08. Used for: searching the directory by a judge's name.
-- **S11:** [Biographical Directory of Article III Federal Judges: About the Directory (Federal Judicial Center)](https://www.fjc.gov/history/judges/biographical-directory-article-iii-federal-judges-about-directory), read 2026-11-08. Used for: what a directory entry records, including Senate confirmation.
+- **S11:** [Biographical Directory of Article III Federal Judges: About the Directory (Federal Judicial Center)](https://www.fjc.gov/history/judges/biographical-directory-article-iii-federal-judges-about-directory), read 2026-11-08; read again 2026-11-13. Used for: what a directory entry records, including Senate confirmation; and the directory's scope: judges appointed to the courts it names, with service on a territorial court listed only for a judge it includes.
 - **S12:** [Judicial Records (National Archives)](https://www.archives.gov/research/court-records/archives), read 2026-11-08. Used for: court record groups in the Guide to Federal Records.
 - **S13:** Judy G. Russell, The Legal Genealogist, [Judging the records (The Legal Genealogist)](https://www.legalgenealogist.com/2022/05/03/judging-the-records/), published 2022-05-03, read 2026-11-08. Used for: the judge-to-court method.
 

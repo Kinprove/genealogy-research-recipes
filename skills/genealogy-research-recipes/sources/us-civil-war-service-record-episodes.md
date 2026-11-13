@@ -31,6 +31,8 @@
 - the service of the forum participant's ancestor in the 23rd/3rd Mississippi, and whether he was at Fort Donelson;
 - which hosts have digitized M253 and the state Confederate CMSR publications, and whether FamilySearch's M1953 images are indexed by name.
 
+- **H9:** National Archives Catalog series entry for M1469, *Case Files of Approved Pension Applications of Civil War and Later Navy Veterans* ([NAID 580580](https://catalog.archives.gov/id/580580)), read 2026-11-13. Used for: approved pension files of Navy veterans themselves, 1861–1910, as microform M1469 "(Navy Survivors' Certificates)", arranged by certificate number.
+
 ## Credits
 
 - BYU Family History Library, Laura Lefler, How to Learn About My Civil War Ancestors Part 2, video published 2024-11-19 — Third-party; all rights reserved by creator; short attributed quotation (quoted)
@@ -38,5 +40,5 @@
 - GeneaVlogger, Building Elon Musk's Family Tree, video published 2024-01-26 — Third-party; all rights reserved by creator; short attributed quotation (quoted)
 - BYU Family History Library, Alyssa Martinez, O Say, Can You See: Introducing U.S. Military Records, video published 2024-06-12 — Third-party; all rights reserved by creator; short attributed adaptation (adapted)
 - GenArchivist Forum, Battles Your Ancestors Fought In, thread posted 2023-10-13 — Third-party forum post; all rights reserved by author; short attributed quotation (quoted)
-- Kinprove original procedural synthesis; examples and presenter claims cited as S1 to S7; facts checked against NARA Prologue and NPS unit histories; custodian facts from NARA, the NARA Catalog, Fold3 and NGS Magazine cited as H1 to H8 and paraphrased — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; examples and presenter claims cited as S1 to S7; facts checked against NARA Prologue and NPS unit histories; custodian facts from NARA, the NARA Catalog, Fold3 and NGS Magazine cited as H1 to H9 and paraphrased — FSL-1.1-MIT (kinprove-original)
 - Kinprove conditional medical-card lookup synthesis from S8, with the separate-case and unverified-holdings limits above — FSL-1.1-MIT (kinprove-original)
