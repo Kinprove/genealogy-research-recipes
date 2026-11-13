@@ -1194,6 +1194,12 @@
   "checkpoint": "The order for a full civil register entry and"
  },
  {
+  "recipe": "hispanic-catholic-register-recovery.md",
+  "kind": "third-party-tool",
+  "action": "use an online translation only for a first understanding",
+  "checkpoint": "Putting an entry's text or image into an online translator"
+ },
+ {
   "recipe": "holocaust-testimony-source-interpretation.md",
   "kind": "request",
   "action": "For an unavailable part, prepare the exact title/language/signature and missing extent for",
