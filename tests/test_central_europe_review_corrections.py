@@ -152,7 +152,10 @@ class GermanCensusTests(unittest.TestCase):
         self.assertIn("the Danish Demographic Database (ddd.dda.dk) is being phased out", note)
         self.assertIn("Search the Collections (Søg i Samlingerne)", note)
         self.assertIn("[S10 @", note)
-        self.assertIn("record a miss only after ddd.dda.dk has also failed or returned nothing", note)
+        self.assertIn("a dataset may not yet be in Search the Collections", note)
+        self.assertIn("Record a NIL only for a completed search of a dataset you have confirmed is there", note)
+        self.assertIn("log an interrupted search, not a NIL", note)
+        self.assertNotIn("has also failed or returned nothing", note)
         self.assertLess(self.section.index("4. **Towns now in Poland or France"), self.section.index(note))
 
     def test_mecklenburg_schwerin_censuses_are_dated_to_the_2012_post(self):

@@ -24,7 +24,7 @@
 **Not verified:** current fee levels; current FamilySearch Catalog headings and holdings, including the Speyer church films. Some presenter figures and forum reports remain unconfirmed. Not every presenter remark is clear in the recordings.
 
 - **S10:** Rigsarkivet (Danish National Archives), [From the Danish Demographic Database to Search the Collections](https://en.rigsarkivet.dk/guide/from-the-danish-demographic-database-to-search-the-collections/) (guide, last updated 2026-05-01), read 2026-11-13.
-  - *Used for:* the Danish Demographic Database (ddd.dda.dk) being phased out; all its data moving to Search the Collections, whose interface is in Danish; most datasets expected there by 1 September 2026.
+  - *Used for:* the Danish Demographic Database (ddd.dda.dk) being phased out; all its data moving to Search the Collections, whose interface is in Danish; most datasets expected there by 1 September 2026; its warnings that a dataset may not yet be in Search the Collections and that ddd.dda.dk searches can take a very long time or fail to return results.
 
 - **S11:** FamilySearch Blog, [Using the Mecklenburg Census Records](https://www.familysearch.org/en/blog/using-the-mecklenburg-census-records), published 2012-05-11, read 2026-11-13.
   - *Used for:* the Mecklenburg-Schwerin censuses of 1867, 1890 and 1900 online at FamilySearch in May 2012, with a searchable index for 1890 and 1900 and none then for 1867, which had to be browsed by town. The collection pages answered a bot check on 2026-11-13, so present coverage was not verified.

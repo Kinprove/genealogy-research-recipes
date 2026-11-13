@@ -96,7 +96,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `german-compensation-file-recovery#C-98f01516b3f4` | custody | 2026-11-13 | 2027-05-12 | S1, S16, S15, S7, S2, S6, S14, S5, S13 |
 | `german-compensation-file-recovery#C-01c34afbe5f9` | fee | 2026-11-12 | 2027-02-10 | S13 |
 | `german-compensation-file-recovery#C-62b3aa5aaef1` | custody | 2026-11-13 | 2027-05-12 | S10, S1 |
-| `german-local-census-registration-recovery#C-732b2a0c4d23` | portal-availability | 2026-11-13 | 2027-02-11 | S10 |
+| `german-local-census-registration-recovery#C-185e1221dfa8` | portal-availability | 2026-11-13 | 2027-02-11 | S10 |
 | `german-military-record-period-routing#C-b03e4c735d47` | custody | 2026-11-13 | 2027-05-12 | S12, S21 |
 | `german-military-record-period-routing#C-55f33b1392df` | portal-availability | 2026-11-12 | 2027-02-10 | S16 |
 | `german-military-record-period-routing#C-c8f64cb08c0c` | platform-ui | 2026-11-12 | 2027-05-11 | S17, S18, S19, S20 |
