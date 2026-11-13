@@ -105,7 +105,7 @@ identifiers or account details are included.
 
 - **S21. Bar-Ilan Responsa Project.** [The project's home page](https://www.responsa.co.il/home.en-US.aspx),
   read 2026-11-12. Used for: the database's contents (the Bible, both Talmuds, Midrash, the
-  Zohar, the codes and a large responsa collection), its typed, proofread and hyperlinked texts,
+  Zohar, the codes of law and a large responsa collection), its typed-in, proofread and hyperlinked texts,
   the biographical data on the authors of responsa, and its description of the responsa as rich in
   historical, sociological and economic data. The page gives no price or access terms.
 

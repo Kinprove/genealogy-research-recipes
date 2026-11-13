@@ -53,7 +53,7 @@ Ukrainian catalogue description may translate them, so test the Ukrainian equiva
 Preserve the exact query and searched catalogue scope. Older spelling or a generic title can hide a
 relevant list; a zero title hit does not establish that a fund has no such records.
 
-Rabbinate files need two stems, because the languages spell the word differently: a Ukrainian
+Rabbinate files need two stems, because Ukrainian and Russian spell the word differently: a Ukrainian
 description has «рабинат» where a Russian title has «раввинат». The Odesa regional archive's
 guide, for example, heads fond 39 «Одеський міський рабинат» and gives the Russian name «Одесский
 городской раввинат» beside it. [B7] Search both `рабин` and `раввин`; `рабин` also matches

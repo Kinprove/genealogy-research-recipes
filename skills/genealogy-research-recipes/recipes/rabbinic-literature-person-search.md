@@ -129,19 +129,19 @@ the body that kept metrical books is covered by
 
 **Reading a hit in the 1853–1854 personnel index.** JewishGen's index to G. M. Deych's book has
 four fields: surname, given name, guberniya and town. The year each person took up his duties,
-the size of the congregation, the office he held and his pay are in the book, not in the index,
-and a congregation's list names anything from one officer (a rabbi, treasurer or gabbai) to ten.
+the size of the congregation, the office he held and his pay are in the book, not in the index.
+A congregation's list names anything from one officer (a rabbi, treasurer or gabbai) to ten.
 So a hit shows that the person was one of the officers listed for that town, not that he was a
 rabbi; read his entry in the book before you give him a title. JewishGen names copies at YIVO,
-the New York Public Library, Harvard and Berkeley. A miss is not evidence either: congregations
-may have been left out, and where the book lists a town without names, the official probably
-could not find them. [S11 @2026-11-12]
+the New York Public Library, Harvard and Berkeley. A miss does not show that the person held no
+office: congregations may have been left out, and where the book lists a town without names, the
+guberniya official probably could not find them. [S11 @2026-11-12]
 
 **Bar-Ilan Responsa Project.** The project describes its database as the Bible, both Talmuds,
-Midrash, the Zohar, the codes of law and a large collection of responsa, typed in, proofread and
-cross-linked, with biographical data on the authors of responsa (responsa.co.il). It calls the
-responsa rich in historical, social and economic detail about Jewish life. Its texts are retyped,
-so check a passage you cite against a printed edition or a scan. [S21 @2026-11-12]
+Midrash, the Zohar, the codes of law and a large collection of responsa, with biographical data
+on the authors of responsa (responsa.co.il). It calls the responsa rich in historical,
+sociological and economic data. Its texts are typed in, proofread and hyperlinked. Because they
+are typed in, check a passage you cite against a printed edition or a scan. [S21 @2026-11-12]
 
 ## 3. Fix the era, the place and the exact claim first
 

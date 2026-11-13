@@ -36,7 +36,7 @@ For searching a Jewish-society metrical fund and checking what a case actually c
 - Check that a record series exists for your window. The 10th revision was taken in 1858, so neither the 9th nor the 10th can list a person born in 1860–1900, as a participant pointed out to a user who asked for them. [S1] They can still list that person's parents or grandparents, so request them only for the earlier generation.
 - Check the person's registration as well as the place of the event. In one case a 1917 entry called the father a "citizen" of another town. A participant read this as his former estate registration (мещанин). That town's records needed attention before the town where photographs were taken. [S3] Use the identity-attribution recipe for that branch.
 
-The metrical books named in the first bullet had a fourth part. The 1835 Statute required the rabbi to keep them for circumcisions, marriages, divorces and deaths. [S11] The Odesa regional archive describes its city rabbinate's books (fond 39) as holding births, marriages, divorces and deaths. [S7] Search the divorce part as well. It can explain a marriage that ends without a death entry, or a woman who remarries while her first husband is alive.
+The metrical books named in the first bullet had a fourth part, for divorces. The 1835 Statute required the rabbi to keep them for circumcisions, marriages, divorces and deaths. [S11] The Odesa regional archive describes its city rabbinate's books (fond 39) as holding births, marriages, divorces and deaths. [S7] Search the divorce part as well. It can explain a marriage that ends without a death entry, or a woman who remarries while her first husband is alive.
 
 ## 2. Build a dated table of candidate rabbinates for the event year
 

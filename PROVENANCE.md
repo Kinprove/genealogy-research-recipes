@@ -85,13 +85,13 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `gedmatch-practical-dna-workflows#C-144b3560073f` | platform-ui | 2026-11-12 | 2027-05-11 | S21, S22, S23 |
 | `geni-practical-research-workflows#C-bb9ca1866a58` | platform-ui | 2026-11-12 | 2027-05-11 | H19, H20, H21, H22, H24 |
 | `geni-practical-research-workflows#C-ae6e616e3c60` | platform-ui | 2026-11-12 | 2027-05-11 | H13, H14, H15, H21 |
-| `german-compensation-file-recovery#C-d0217b269854` | fee | 2026-11-12 | 2027-02-10 | S13 |
+| `german-compensation-file-recovery#C-01c34afbe5f9` | fee | 2026-11-12 | 2027-02-10 | S13 |
 | `german-military-record-period-routing#C-55f33b1392df` | portal-availability | 2026-11-12 | 2027-02-10 | S16 |
 | `german-military-record-period-routing#C-c8f64cb08c0c` | platform-ui | 2026-11-12 | 2027-05-11 | S17, S18, S19, S20 |
 | `german-register-image-recovery#C-a693b3ef2fea` | portal-availability | 2026-11-12 | 2027-02-10 | S76, S74, S75 |
 | `hispanic-catholic-register-recovery#C-886045d1f530` | portal-availability | 2026-11-12 | 2027-02-10 | S38, S37 |
 | `holocaust-testimony-source-interpretation#C-2d89c69f5ab0` | portal-availability | 2026-11-08 | 2027-02-06 | H18, H19, H20 |
-| `holocaust-testimony-source-interpretation#C-1c6e61c162f9` | portal-availability | 2026-11-12 | 2027-02-10 | H21 |
+| `holocaust-testimony-source-interpretation#C-94d94db1afa5` | portal-availability | 2026-11-12 | 2027-02-10 | H21 |
 | `illegitimacy-record-recovery#C-bfb5dbd04ae9` | custody | 2026-11-12 | 2027-05-11 | S17 |
 | `jewishgen-search-family-reconstruction#C-6c002c2206ca` | platform-ui | 2026-11-12 | 2027-05-11 | N17, N18 |
 | `land-index-book-series-recovery#C-cce84f7c3f82` | portal-availability | 2026-11-12 | 2027-02-10 | S47, S48 |
@@ -114,8 +114,8 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `probate-case-document-inventory#C-631788d827eb` | portal-availability | 2026-11-12 | 2027-02-10 | S41, S42, S21 |
 | `published-book-catalogue-and-full-text-discovery#C-511fbf32a099` | platform-ui | 2026-11-08 | 2027-05-07 | S7, S33, S34, S35 |
 | `published-book-catalogue-and-full-text-discovery#C-e234d06610df` | platform-ui | 2026-11-12 | 2027-05-11 | S38, S39 |
-| `rabbinic-literature-person-search#C-6941e1e6899b` | platform-ui | 2026-11-12 | 2027-05-11 | S11 |
-| `rabbinic-literature-person-search#C-149573d09aa7` | platform-ui | 2026-11-12 | 2027-05-11 | S21 |
+| `rabbinic-literature-person-search#C-7c18b57ddf5b` | platform-ui | 2026-11-12 | 2027-05-11 | S11 |
+| `rabbinic-literature-person-search#C-b71ffb102288` | platform-ui | 2026-11-12 | 2027-05-11 | S21 |
 | `repository-photograph-collection-search#C-d91c6fee6935` | platform-ui | 2026-11-08 | 2027-05-07 | S31, S32 |
 | `repository-photograph-collection-search#C-7594460dfd84` | portal-availability | 2026-11-12 | 2027-02-10 | S33, S34 |
 | `research-documentation#C-e30bf1e96a0b` | portal-availability | 2026-11-12 | 2027-02-10 | H1, H2, H3 |
