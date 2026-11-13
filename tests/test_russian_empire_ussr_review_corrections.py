@@ -29,7 +29,7 @@ class RussianEmpireUssrReviewTests(unittest.TestCase):
         self.assertIn("to the guberniya board (губернское правление) to be revised and kept", step)
         self.assertIn("[S6]", step)
         self.assertIn("apparently in a single copy. [S7]", step)
-        self.assertIn("in the guberniya-board fond of the regional archive as well as in the police fonds", step)
+        self.assertIn("outside the Baltic guberniyas and Narva, look for a police raskol register in the guberniya-board fond", step)
         self.assertIn("In the Baltic guberniyas the uezd chiefs and the police chiefs revised and kept them", step)
 
     def test_emigrant_search_examples_say_what_their_sources_show(self):
