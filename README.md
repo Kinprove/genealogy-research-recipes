@@ -198,7 +198,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [german-emigrant-origin-sources](skills/genealogy-research-recipes/recipes/german-emigrant-origin-sources.md) | record catalogues and original images | — | — | — | — | — |
 | [german-local-census-registration-recovery](skills/genealogy-research-recipes/recipes/german-local-census-registration-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [german-military-record-period-routing](skills/genealogy-research-recipes/recipes/german-military-record-period-routing.md) | record catalogues and original images | — | — | request | — | required |
-| [german-official-gazette-notice-search](skills/genealogy-research-recipes/recipes/german-official-gazette-notice-search.md) | record catalogues and original images | — | — | — | — | — |
+| [german-official-gazette-notice-search](skills/genealogy-research-recipes/recipes/german-official-gazette-notice-search.md) | record catalogues and original images | — | — | request | — | required |
 | [german-register-image-recovery](skills/genealogy-research-recipes/recipes/german-register-image-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [hebrewbooks-search-recovery](skills/genealogy-research-recipes/recipes/hebrewbooks-search-recovery.md) | hebrewbooks | — | — | — | — | — |
 | [hispanic-catholic-register-recovery](skills/genealogy-research-recipes/recipes/hispanic-catholic-register-recovery.md) | record catalogues and original images | — | — | third-party-tool | — | required |

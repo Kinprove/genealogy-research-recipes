@@ -1206,6 +1206,12 @@
   "checkpoint": "A request for a Wehrmacht soldier's personnel documents sends"
  },
  {
+  "recipe": "german-official-gazette-notice-search.md",
+  "kind": "request",
+  "action": "ask for a search of the resident-registration card index",
+  "checkpoint": "A registration-index search sends the person's name, birth date and occupation to the archive"
+ },
+ {
   "recipe": "german-register-image-recovery.md",
   "kind": "request",
   "action": "order the full entry and its Sammelakte",
