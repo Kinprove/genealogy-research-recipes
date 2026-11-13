@@ -108,6 +108,20 @@ identifiers or account details are included.
   Zohar, the codes of law and a large responsa collection), its typed-in, proofread and hyperlinked texts,
   the biographical data on the authors of responsa, and its description of the responsa as rich in
   historical, sociological and economic data. The page gives no price or access terms.
+- **S22. Jastrow, "חָתָן".** [Marcus Jastrow's dictionary (London, Luzac, 1903) on Sefaria, "Jastrow, חָתָן 1"](https://www.sefaria.org/Jastrow,_%D7%97%D6%B8%D7%AA%D6%B8%D7%9F.1),
+  read 2026-11-13. Used for: the senses "connection, son-in-law; bridegroom".
+- **S23. Jastrow, "כַּלָּה".** [Marcus Jastrow's dictionary on Sefaria, "Jastrow, כַּלָּה 1"](https://www.sefaria.org/Jastrow,_%D7%9B%D6%B7%D6%BC%D7%9C%D6%B8%D6%BC%D7%94.1),
+  read 2026-11-13. Used for: the senses "bride; daughter-in-law".
+- **S24. Jastrow, "שִׁידּוּךְ".** [Marcus Jastrow's dictionary on Sefaria, "Jastrow, שִׁידּוּךְ 1"](https://www.sefaria.org/Jastrow,_%D7%A9%D6%B4%D7%81%D7%99%D7%93%D6%BC%D7%95%D6%BC%D7%9A%D6%B0.1),
+  read 2026-11-13. Used for: the definition "settlement, negotiations preliminary to betrothal".
+- **S25. Erusin.** [Wikipedia, "Erusin", revision 1312407584](https://en.wikipedia.org/w/index.php?title=Erusin&oldid=1312407584),
+  read 2026-11-13. Used for: erusin as the historical first part of marriage and its modern Hebrew
+  sense "engagement"; a betrothed couple regarded as husband and wife for legal purposes and parted
+  only by divorce; the custom since the Middle Ages of performing the betrothal during the wedding
+  ceremony; and the old custom of signing a tena'im document as a formal engagement.
+- **S26. Ketubah.** [Wikipedia, "Ketubah", revision 1331057861](https://en.wikipedia.org/w/index.php?title=Ketubah&oldid=1331057861),
+  read 2026-11-13. Used for: in a traditional wedding, the ketubah is signed by two witnesses and
+  read aloud under the chuppah between the erusin and the nissuin.
 
 ## Credits
 

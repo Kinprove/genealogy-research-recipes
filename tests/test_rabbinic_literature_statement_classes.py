@@ -11,6 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 RECIPE = ROOT / "skills/genealogy-research-recipes/recipes/rabbinic-literature-person-search.md"
 CLASSES = (
+    "**first-hand statement**",
     "**facsimile**",
     "**quoted document**",
     "**editor's identification**",
@@ -61,7 +62,10 @@ class StatementClassTests(unittest.TestCase):
         step = self.section[self.section.index("7. Record an engagement as an engagement.") :]
         self.assertIn("add no marriage, no spouse link and no children of the union", step)
         self.assertIn("the record ends at the engagement", step)
-        self.assertIn("חתן and כלה mean a groom and a bride", step)
+        words = step[step.index("**Words for engagement and marriage.**") :]
+        self.assertIn('"son-in-law; bridegroom" [S22]', words)
+        self.assertIn('"bride; daughter-in-law" [S23]', words)
+        self.assertIn("in modern Hebrew אירוסין means an engagement [S25]", words)
 
     def test_a_quotation_or_an_enhanced_scan_is_not_a_second_witness(self):
         witnesses = between(self.text, "## 10. Count witnesses, not copies", "## 11. ")
@@ -70,7 +74,7 @@ class StatementClassTests(unittest.TestCase):
 
     def test_the_passage_ledger_and_failure_modes_carry_the_rule(self):
         ledger = between(self.text, "## Output: a passage ledger", "## Prompt patterns")
-        self.assertIn("| Basis | Facsimile, quoted document, editor's identification", ledger)
+        self.assertIn("| Basis | First-hand statement, facsimile, quoted document, editor's identification", ledger)
         failures = self.text[self.text.index("## Failure modes") :]
         self.assertIn("Paraphrasing an earlier publication from a later publication's correction of it.", failures)
         self.assertIn("Writing an engagement into a tree as a marriage.", failures)

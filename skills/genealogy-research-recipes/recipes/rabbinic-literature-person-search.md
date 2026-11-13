@@ -278,8 +278,8 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
   and ordinary householders in subscriber lists, letters and epitaphs, and ר' (Reb) to almost
   any adult man. They are a frequent source of a "rabbi in the family" story.
 - **Kinship words that move a generation.** חותן (father-in-law) differs from חתן
-  (son-in-law) by one letter, and חתן also means a groom (see section 9). א"א usually means
-  "my father" (אדוני אבי); זקני and אבי זקני mean a grandfather or a more remote ancestor. נכד can be any descendant, not only a
+  (son-in-law) by one letter. א"א usually means "my father" (אדוני אבי); זקני and אבי זקני
+  mean a grandfather or a more remote ancestor. נכד can be any descendant, not only a
   grandchild, and בן can mean a disciple. "My brother" can be an honorific in a letter.
   "X Sarah's" can mean Sarah's husband or her son. בתו השניה is a second daughter, not a
   second wife. A מחותן is a co-father-in-law, not a blood relative.
@@ -309,6 +309,8 @@ names rest on a document.
 1. Give every statement that you take from a rabbinic or Hasidic publication one of these
    classes, and carry the class with the statement into every note, ledger row and tree entry
    made from it:
+   - **first-hand statement**: what the author says about himself, his own family or events he
+     saw, as on his title page or in an autobiographical passage (section 7);
    - **facsimile**: an image of a document printed in the publication, which you can read
      yourself;
    - **quoted document**: the publication's transcription or summary of a letter, a tombstone,
@@ -338,13 +340,18 @@ names rest on a document.
    are separate events, each with its own date or none. A couple shown only as matched or engaged
    was not yet married: add no marriage, no spouse link and no children of the union unless another
    passage states them. If one of the couple died before the wedding, the record ends at the
-   engagement.
-   - שידוך is a match (the verb is נשתדך), and תנאים (tena'im) is the written engagement
-     agreement. The marriage contract (כתובה) is signed at the wedding.
-   - חתן and כלה mean a groom and a bride as well as a son-in-law and a daughter-in-law. In an
-     engagement letter they name a betrothed couple.
-   - In halakhic texts אירוסין (erusin) is the binding first stage of marriage; in modern Hebrew
-     the same word means an engagement. Read which one the passage describes.
+   engagement. The words for these stages are explained below this list.
+
+**Words for engagement and marriage.** Jastrow's dictionary gives חָתָן as "son-in-law;
+bridegroom" [S22] and כַּלָּה as "bride; daughter-in-law" [S23], so in an engagement letter these
+words can name a betrothed couple. It defines שִׁידּוּךְ as "negotiations preliminary to
+betrothal" [S24]. אירוסין (erusin) historically names the first part of marriage itself: a
+betrothed couple are regarded as husband and wife for legal purposes and need a divorce to part
+[S25]. Since the Middle Ages the betrothal has customarily been performed during the wedding ceremony,
+an old custom formalises an engagement by signing a tena'im (תנאים) document, and in modern
+Hebrew אירוסין means an engagement [S25]. In a traditional wedding the marriage contract (כתובה)
+is signed by two witnesses and read aloud under the wedding canopy [S26]. Read which stage a
+passage describes before you write it into a tree.
 
 ## 10. Count witnesses, not copies
 
@@ -412,7 +419,7 @@ names rest on a document.
 | Locator | Viewer image, printed page or folio, siman or section |
 | Text | The quoted words that name the person and each relation |
 | Reading | Stated or inferred; office; place; era marker |
-| Basis | Facsimile, quoted document, editor's identification, named oral chain, unattributed tradition or compiler's inference (section 9) |
+| Basis | First-hand statement, facsimile, quoted document, editor's identification, named oral chain, unattributed tradition or compiler's inference (section 9) |
 | Witness group | The earliest text this one depends on |
 | Next check | The passage or record that would confirm or refute it |
 
@@ -429,8 +436,9 @@ names rest on a document.
 - **Witnesses:** "These sources state [fact]. Group them by the earliest text each depends
   on."
 - **Basis:** "List each statement this publication makes about [person] with its locator. For
-  each, say whether it rests on a facsimile printed here, a quoted document, the editor's
-  identification, a named oral chain, an unattributed tradition or the compiler's inference.
+  each, say whether it rests on the author's first-hand statement, a facsimile printed here, a
+  quoted document, the editor's identification, a named oral chain, an unattributed tradition or
+  the compiler's inference.
   Report an engagement as an engagement, not a marriage."
 
 ## Failure modes
