@@ -135,6 +135,8 @@ Work from the broadest level down. Stop at the first pattern that explains the c
 - **Trace regions no longer exist.** Ancestry once listed "trace regions", renamed them "low confidence regions" in 2016–2017 and removed them in 2018 [S13]. Do not count the disappearance of a saved trace region as a change in the estimate.
 - **Expect updates to clear away 1–2% regions.** Many 2026 Ancestry results lost odd 1% and 2% regions [S14]; MyHeritage's June 2024 update removed many small components [S20]. That is the floor at work, not a correction of the pedigree.
 
+**An older Ancestry page's 0.5% is not this minimum.** An Ancestry help page on low confidence regions, read in its Internet Archive copy of 17 July 2025, lists a region under "other regions tested", shown after selecting "Show all regions", when its estimate is below 0.5% and its range does not exceed 2.5% [S23]. That page describes the low confidence regions that the trace-regions point above says Ancestry removed in 2018, not the 2025 or 2026 method. Do not record 0.5% as the reporting minimum of either version.
+
 ## 8. Keep a version log and form hypotheses only from what is left unexplained
 
 - **Log one row per level, broadest first:** level, name in each version, percentage in each version, the range for a region, the pattern from sections 5–7, and any hypothesis [S11]. This log is the only multi-year comparison that will survive.
