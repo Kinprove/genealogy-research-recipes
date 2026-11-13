@@ -119,6 +119,11 @@ status) the sole officer of civil status. [S4]
 - Image sets such as the Drouin collection or FamilySearch's Québec Catholic parish registers can
   show either copy. Check which one the image shows, and log the copy you read with the entry.
 
+On Genealogy Quebec, the Institut Drouin says which copy each folder of its Drouin Collection
+Records holds. The Fonds Drouin folder has the court copy. The Registres paroissiaux 1621-1876
+(Parish registers 1621-1876) folder has the parish copy, in different images. [S10 @2026-11-13]
+Treat the two folders as the two copies, and log the folder with the entry.
+
 ## Search the post's own register first, then Notre-Dame de Montréal
 
 Before treating an event as unrecorded, write down the date the local register begins. A register

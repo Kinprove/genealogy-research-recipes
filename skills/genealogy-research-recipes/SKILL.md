@@ -740,10 +740,10 @@ live control.
   Extract French or Belgian civil acts, trace French marginal continuations and separately
   maintained copies, and check Paris reconstructions when the original series is unavailable.
 
-- **`recipes/dutch-civil-church-record-recovery.md`** — Recover Dutch civil acts and the pre-1811 church register behind them.
+- **`recipes/dutch-civil-church-record-recovery.md`** — Recover Dutch civil acts and the church register kept before civil registration.
   Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian
-  agreements; search burial/fee entries under the household head and trace pre-1811 church
-  registers.
+  agreements; search burial/fee entries under the household head and trace the church registers kept
+  before civil registration began.
 
 - **`recipes/amsterdam-archival-record-recovery.md`** — Recover and read an Amsterdam City Archives register entry.
   Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register

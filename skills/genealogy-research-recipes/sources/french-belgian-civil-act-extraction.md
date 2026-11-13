@@ -18,9 +18,15 @@ one-third figure come from the Archives de Paris (S6), not from the article. The
 article's online year spans, exact annual-table exception, blanket loss/survival
 narrative and named family conclusions are not adopted as verified claims.
 
+### Sources added 2026-11-13
+
+- **S7:** Archives de la Ville de Bruxelles, [État civil](https://archives.bruxelles.be/etat-civil), read 2026-11-13. Used for: from 1 January 2025, for genealogical, historical or scientific research, birth acts public after 100 years and marriage and death acts after 75 years, an act of exactly 75 or 100 years not yet public, ten-year tables on the same terms, and the change dated to the law of 13 September 2023 and its royal decree of 11 November 2024.
+- **S8:** State Archives of Belgium, [Archives à consulter](https://www.arch.be/index.php?l=fr&m=genealogiste&r=archives-a-consulter) (page for genealogists), read 2026-11-13. Used for: the page still giving 50 years for death acts, 75 for marriage acts and 100 for birth acts.
+
 ## Credits
 
 - BYU Family History Library, Liz Hutchison, Belgium Civil Records in French (After 1795), class recorded 2 Sep 2022 — YouTube standard license, rights reserved by the publisher (adapted)
 - BYU Family History Library, Liz Hutchison, The French Republic Records and Calendar (1792-1815), class recorded 9 Sep 2022 — YouTube standard license, rights reserved by the publisher (adapted)
 - Elise Lenoble, Auprès de nos Racines, Rechercher dans les archives de l’état civil de Paris, 2024-12-29 — cited procedural source; no record images reproduced (adapted)
+- Archives de la Ville de Bruxelles, État civil, and State Archives of Belgium, Archives à consulter, cited as S7 and S8 — Facts paraphrased with attribution (adapted)
 - Kinprove original procedural synthesis, including the conditional marginal-note locator, subject and copy checks attributed to S4; the presenter's reading techniques and worked examples are cited as S1 and S2; Belgian archive routing is checked against the State Archives and pages cited as S5; the Paris loss date and one-third figure are paraphrased from the Archives de Paris page cited as S6 — FSL-1.1-MIT (kinprove-original)

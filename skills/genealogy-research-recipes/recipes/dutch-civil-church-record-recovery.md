@@ -1,7 +1,7 @@
 ---
 id: "dutch-civil-church-record-recovery"
-title: "Recover Dutch civil acts and the pre-1811 church register behind them"
-summary: "Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian agreements; search burial/fee entries under the household head and trace pre-1811 church registers."
+title: "Recover Dutch civil acts and the church register kept before civil registration"
+summary: "Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian agreements; search burial/fee entries under the household head and trace the church registers kept before civil registration began."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
@@ -14,7 +14,7 @@ capabilities: {"browse": ["record catalogues and original images"], "local_scrip
 router: {"tier": "pointer", "group": "Church and civil registers", "order": 1054}
 ---
 
-# Recover Dutch civil acts and the pre-1811 church register behind them
+# Recover Dutch civil acts and the church register kept before civil registration
 
 Use this recipe when a Dutch person or couple is missing from an online index, when a civil marriage has to be carried back to the church baptism registers kept before civil registration began (1811 in most of the country), or when a compiled tree supplies a father, a death date or a sibling set that the original entries may not support. It covers the ten-year tables, marriage supplements and separate contracts, choosing a church register, and the roles of dates in Dutch church registers. For an intention to marry (ondertrouw, banns) compared with the marriage itself, and for testing a reused given name, use [evidence/proof judgment](evidence-proof-judgment.md). For AI extraction of event types, use [AI for documentary records](ai-for-documentary-records.md). For FamilySearch Catalog and film navigation, use [FamilySearch workflows](familysearch-practical-record-workflows.md).
 
@@ -26,6 +26,8 @@ A failed search on WieWasWie or Open Archieven (openarchieven.nl) does not show 
 - Copy each candidate line exactly as written: the names, the parent or spouse shown, and the date. In the birth tables the date is normally the date of the act (the registration), not the birth date. Get the actual birth date from the act. In the presenter's marriage and death examples, the date given was the event date. [S3]
 - Go to that year's register for that event type, browse to the date, and read the full act. Several candidates with the same name can turn up. Keep each one as a separate candidate until the full act ties it to your family. [S3]
 - If the event may fall outside the block you read (for example a death), repeat the search in the next decade's table. Record which blocks and event groups you read. [S3]
+
+A miss can also mean that the act is not yet public. Throughout the Netherlands, birth acts become public after 100 years, marriage acts and their supplements after 75 years, and death acts after 50 years [S19]. The Zeeuws Archief gives the same terms and says registers with recent acts cannot be inspected [S12]. For an act still within its term, a miss in the public records says nothing about whether the event happened.
 
 ## Once civil registration starts, use the marriage supplements to reach the church
 
@@ -39,6 +41,8 @@ Date the start of civil registration by region before you choose between civil a
 The civil marriage act names the couple's parents and places of origin. The marriage supplements (huwelijksbijlagen) hold the proofs each spouse had to file: a birth or baptism proof, parental consent where it was required, and death proofs for parents who had died. If a spouse was born before civil registration began in the birthplace, the proof is a baptism extract. That extract names the church and its denomination, which tells you which register to search next. [S2]
 
 Make an inventory of the supplements one document at a time: what kind of document it is, which person it concerns, who issued it, and its date. Do not infer a spouse's age from whether a consent document is present. The presenter suggested consent was needed under 21, which is not correct as a general rule. [S2] The French Code civil applied from 1811 (earlier in Zeeuws-Vlaanderen and Limburg) until the Dutch Civil Code took effect on 1 October 1838 (1 January 1842 in Limburg). Under it, a son under 25 and a daughter under 21 needed their parents' consent. An older child had to ask the parents' advice, or the grandparents' if the parents had died, by a formal acte respectueux. Up to age 30 for a son and 25 for a daughter, the act was repeated twice more, a month apart, if consent did not follow. [S16], [S18] Under the 1838 Dutch Civil Code, consent was required under age 23, and adults still had to ask for it up to age 30. [S17] These rules tell you which documents to expect in the supplements. In every period, read the consent document itself rather than applying an age rule.
+
+Hoitink's table of Dutch ages of majority gives 23 for 1838–1901, 21 for 1901–1988 and 18 since 1988 [S24]. So a spouse of 21 or 22 was of age after 1901; for a marriage in the first years after 1901, check which age applied on the marriage date.
 
 ## Check separate contracts and guardian agreements
 
