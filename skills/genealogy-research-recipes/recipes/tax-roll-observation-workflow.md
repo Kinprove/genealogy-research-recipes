@@ -97,6 +97,8 @@ When a parish is known from church records but the tax archive uses unfamiliar a
 
 ## 5. Extract one row per entry
 
+Name every column from its heading before you read its values: a sum of money, arrears, an age, a household or list number, a count of polls or animals. A number beside a name is not an age until a heading says it is one, and a column without a heading stays unread until the list's preamble or the governing law explains it (step 2). Keep the literal heading with the values. If a column gives ages, take the date they are reckoned from out of its heading, not from the year on the volume's label; if the heading leaves that date open, record no birth year from those ages.
+
 For each entry, keep:
 
 - the literal name form and any Jr./Sr. designation, as written; it describes the entry and is not a parent–child link [S14]
