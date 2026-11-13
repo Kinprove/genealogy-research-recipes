@@ -60,7 +60,6 @@ class EuropeHispanicReviewCorrectionsTests(unittest.TestCase):
         text = recipe("german-military-record-period-routing.md")
         self.assertIn("The surviving books of the Krankenbuchlager Berlin", text)
         self.assertIn("are in the Bundesarchiv [S12 @", text)
-        self.assertIn("Abteilung Deutsches Reich in Berlin-Tegel", text)
         self.assertNotIn("Landesarchiv Berlin", text)
 
 

@@ -27,7 +27,7 @@
   - *Used for:* the Danish Demographic Database (ddd.dda.dk) being phased out; all its data moving to Search the Collections, whose interface is in Danish; most datasets expected there by 1 September 2026.
 
 - **S11:** FamilySearch Blog, [Using the Mecklenburg Census Records](https://www.familysearch.org/en/blog/using-the-mecklenburg-census-records), published 2012-05-11, read 2026-11-13.
-  - *Used for:* the Mecklenburg-Schwerin censuses of 1867, 1890 and 1900 online at FamilySearch in May 2012, with a searchable index for 1890 and 1900 and none then for 1867, which had to be searched by town. The collection pages answered a bot check on 2026-11-13, so present coverage was not verified.
+  - *Used for:* the Mecklenburg-Schwerin censuses of 1867, 1890 and 1900 online at FamilySearch in May 2012, with a searchable index for 1890 and 1900 and none then for 1867, which had to be browsed by town. The collection pages answered a bot check on 2026-11-13, so present coverage was not verified.
 
 ## Credits
 

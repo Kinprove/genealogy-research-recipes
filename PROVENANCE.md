@@ -35,7 +35,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `australia-nz-record-routing#C-2bed174b9706` | custody | 2026-11-12 | 2027-05-11 | S30 |
 | `australia-nz-record-routing#C-8a104d1324b7` | custody | 2026-11-13 | 2027-05-12 | S1 |
 | `australia-nz-record-routing#C-fec213c3d851` | custody | 2026-11-13 | 2027-05-12 | S32 |
-| `austrian-confessional-register-routing#C-be78c5ea560e` | custody | 2026-11-13 | 2027-05-12 | S37 |
+| `austrian-confessional-register-routing#C-e005c91a2180` | custody | 2026-11-13 | 2027-05-12 | S37 |
 | `austrian-confessional-register-routing#C-221fdef02fd0` | portal-availability | 2026-11-09 | 2027-02-07 | S25 |
 | `austrian-confessional-register-routing#C-b47a4e1f949d` | portal-availability | 2026-11-09 | 2027-02-07 | S26 |
 | `austrian-confessional-register-routing#C-ca66c1a0d909` | portal-availability | 2026-11-09 | 2027-02-07 | S33, S34 |
@@ -96,14 +96,14 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `german-compensation-file-recovery#C-98f01516b3f4` | custody | 2026-11-13 | 2027-05-12 | S1, S16, S15, S7, S2, S6, S14, S5, S13 |
 | `german-compensation-file-recovery#C-01c34afbe5f9` | fee | 2026-11-12 | 2027-02-10 | S13 |
 | `german-compensation-file-recovery#C-62b3aa5aaef1` | custody | 2026-11-13 | 2027-05-12 | S10, S1 |
-| `german-local-census-registration-recovery#C-61d901daaedc` | portal-availability | 2026-11-13 | 2027-02-11 | S10 |
+| `german-local-census-registration-recovery#C-732b2a0c4d23` | portal-availability | 2026-11-13 | 2027-02-11 | S10 |
 | `german-military-record-period-routing#C-b03e4c735d47` | custody | 2026-11-13 | 2027-05-12 | S12, S21 |
 | `german-military-record-period-routing#C-55f33b1392df` | portal-availability | 2026-11-12 | 2027-02-10 | S16 |
 | `german-military-record-period-routing#C-c8f64cb08c0c` | platform-ui | 2026-11-12 | 2027-05-11 | S17, S18, S19, S20 |
 | `german-register-image-recovery#C-a693b3ef2fea` | portal-availability | 2026-11-12 | 2027-02-10 | S76, S74, S75 |
 | `hispanic-catholic-register-recovery#C-886045d1f530` | portal-availability | 2026-11-12 | 2027-02-10 | S38, S37 |
-| `historic-hungary-record-routing#C-5273bb2e97e3` | custody | 2026-11-13 | 2027-05-12 | S20, S21 |
-| `historic-hungary-record-routing#C-b182ee6808e3` | custody | 2026-11-13 | 2027-05-12 | S22 |
+| `historic-hungary-record-routing#C-666a1b5979a5` | custody | 2026-11-13 | 2027-05-12 | S20, S21 |
+| `historic-hungary-record-routing#C-72fad421bc3f` | custody | 2026-11-13 | 2027-05-12 | S22 |
 | `historical-map-record-recovery#C-44f4f5cf15c1` | portal-availability | 2026-11-13 | 2027-02-11 | S49, S54, S53, S44, S45, S46, S50, S51, S42, S43, S48, S47 |
 | `holocaust-testimony-source-interpretation#C-2d89c69f5ab0` | portal-availability | 2026-11-08 | 2027-02-06 | H18, H19, H20 |
 | `holocaust-testimony-source-interpretation#C-94d94db1afa5` | portal-availability | 2026-11-12 | 2027-02-10 | H21 |
@@ -128,7 +128,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `myheritage-dna-match-investigation#C-2a32ef13c8ad` | platform-ui | 2026-11-12 | 2027-05-11 | S17, S18 |
 | `myheritage-historical-record-search#C-0bdcecf974cf` | platform-ui | 2026-11-12 | 2027-05-11 | H1, H12 |
 | `myheritage-historical-record-search#C-95104492714a` | platform-ui | 2026-11-12 | 2027-05-11 | H7, H12 |
-| `nazi-era-ancestry-proof-records#C-ba735e03007f` | custody | 2026-11-13 | 2027-05-12 | S1 |
+| `nazi-era-ancestry-proof-records#C-7403f69fff09` | custody | 2026-11-13 | 2027-05-12 | S1 |
 | `newspapers-com-search-recovery#C-8fa0c08c332b` | portal-availability | 2026-11-12 | 2027-02-10 | H15, H11, S10 |
 | `portuguese-parish-civil-register-recovery#C-866ab6daf659` | portal-availability | 2026-11-08 | 2027-02-06 | S7, S8, S2, S1, S16, S18, S3, S22, S11 |
 | `probate-case-document-inventory#C-3ed87ba62346` | custody | 2026-11-12 | 2027-05-11 | S21, S39, S40 |

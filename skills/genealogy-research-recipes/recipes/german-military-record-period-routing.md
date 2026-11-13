@@ -123,10 +123,11 @@ The surviving books of the Krankenbuchlager Berlin, which held the hospital book
 Prussian soldiers, are in the Bundesarchiv [S12 @2026-11-13]. Since 1 September 2025 its
 Abteilung Deutsches Reich in Berlin-Tegel answers all person-related enquiries about military
 personnel up to 1945, and from March 2026 the person-related holdings up to 1945, the Prussian
-army's hospital books (PH 22-II) among them, move there from Freiburg [S21 @2026-11-13]. The
-older page S12 still names the Abteilung PA. The depots for the other armies in Dresden,
-Stuttgart and Munich were destroyed in the Second World War, but the same older page says the
-books of later depots in Kassel and Munich were brought together in Berlin in 1964
+army's hospital books (PH 22-II) among them, move there from Freiburg [S21 @2026-11-13].
+Address a hospital-book enquiry to the Abteilung Deutsches Reich, not to the Abteilung PA that
+the older page S12 names. The depots for the other armies in Dresden, Stuttgart and Munich were
+destroyed in the Second World War, but the same older page says the books of later depots in
+Kassel and Munich were brought together at the Krankenbuchlager Berlin in 1964
 [S12 @2026-11-13]. For a Bavarian soldier, ask the Bundesarchiv whether a hospital book
 survives before you record the route as destroyed.
 

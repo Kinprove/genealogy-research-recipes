@@ -119,7 +119,7 @@ Link out for the shared steps:
 - **Do the arithmetic for the person the file concerns.** Files about a person may be used 10 years after that person's death; if the death year cannot be found, 100 years after birth; if neither date is known, 60 years after the file was created [S6]. For an SS man born in 1927 whose death year cannot be established, the ordinary protection period ends in 2027. A death certificate moves the end to 10 years after the death, so send it with the request.
 - **Ask for earlier access on the law's two routes.** The Bundesarchiv can shorten the period with the person's consent, or without it when the use is indispensable for a research or documentation project or for legitimate interests that mainly serve another person or body, and harm to the person or relatives is ruled out, for example by anonymised copies or written undertakings (§ 12(2)) [S6]. After the person's death, relatives who show a legitimate interest have a right to information or inspection, unless the person left other instructions (§ 14(2)) [S6]. State the relationship and the purpose in the request.
 
-**These are the federal periods.** They bind the Bundesarchiv. A state archive applies its own state's archive law: Bavaria's, for example, sets the same three periods for its state archives [S42]. Do not carry them to another state's archive without reading that state's law.
+**The three periods above are federal and bind the Bundesarchiv.** A state archive applies its own state's archive law: Bavaria's, for example, sets the same three periods for its state archives [S42]. Do not apply the federal periods in another state's archive without reading that state's law.
 
 ## 8. Treat the regime's card indexes and films as derivatives that may be the only witness
 
@@ -130,7 +130,7 @@ Link out for the shared steps:
 - **If the original is lost, log the derivative as the surviving witness.** Write "original lost; film only" or "original lost; certified extract only". In one Pomeranian family, extracts a grandfather had ordered as a Wehrmacht civil servant carried the research where church books and civil registers were missing [S37].
 - **Read a separate card series as the indexers' reporting task.** A card in a converts' or mixed-marriage series records what the indexers were told to report. Use it to find the register entry; if the register is lost, log the card as the surviving witness.
 
-**For a Jewish community register from central or eastern Germany, look for the original in Leipzig.** The Bundesarchiv's information sheet says it handed the civil-status registers of Jewish communities from central and eastern Germany to Leipzig in 2010, and that the Reichssippenamt's collection, which reached the Deutsche Zentralstelle für Genealogie in Leipzig after the war, is accessible in the Staatsarchiv Leipzig today [S1 @2026-11-13].
+**For a Jewish community register from central or eastern Germany, look for the original in Leipzig.** The Bundesarchiv's information sheet says it handed the civil-status registers of Jewish communities from central and eastern Germany to Leipzig in 2010, and that the Reichssippenamt's collection there is accessible in the Staatsarchiv Leipzig today [S1 @2026-11-13].
 
 ## Close with a proof packet
 

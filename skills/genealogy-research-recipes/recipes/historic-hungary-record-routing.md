@@ -66,7 +66,7 @@ Gather these before searching:
 
 ## 3. Take custody from the successor state, not from Budapest
 
-**Inside today's Hungary, three holders share the registers.** Before 1895 the churches, more exactly the parishes, kept them; the national archive in Budapest borrowed those pre-1895 books and filmed them between 1960 and 1970 [S20 @2026-11-13]. Act XXIII of 1827 ordered church registers kept in two copies, the second going to the county or free royal town archive; state registers were also kept in two copies from 1895 to 1980, and the archives keep the second copies [S21 @2026-11-13]. So read "the MNL in Budapest" in the first rule below as the films of the pre-1895 church books, and look in the county archive for a second copy.
+**Inside today's Hungary, three holders share the registers.** Before 1895 the parishes kept them; the MNL's national archive in Budapest borrowed those pre-1895 books and filmed them from 1960 to mid-1970 [S20 @2026-11-13]. Act XXIII of 1827 ordered church registers kept in two copies, the second going to the county or free royal town archive; state registers were also kept in two copies from 1895 to 1980, and the archives keep the second copies [S21 @2026-11-13]. So read "the MNL in Budapest" in the first rule below as the films of the pre-1895 church books, and look in the county archive for a second copy.
 
 - **Start with the archive of the state the village lies in today for local registers.** The MNL in Budapest holds them for today's Hungary, not for the whole kingdom.
 - **Search the 1828 national conscription in MNL series N 26, wherever the village lies today.** It covers the whole kingdom, Croatia, Slavonia and the Littoral included, but not Transylvania [S17].
@@ -76,7 +76,7 @@ Gather these before searching:
 - **Treat a FamilySearch film as a copy of the successor-state holding.** Record which archive the collection page names as the source of the originals.
 - **For Croatia, Vojvodina, Transcarpathia and Burgenland, take the holder from the successor state's own archive guide.** Mark the route unconfirmed in the series row until that guide names the holder.
 
-**For a village now outside Hungary, also check the Hungarian archive of its 1895 county.** The Sopron archive lists, for Sopron county and the city of Sopron, second copies of the state registers of 1895–1921 from the places annexed to Austria in 1921 [S22 @2026-11-13]. Look for the same kind of holding in another border county's archive before you mark a route unconfirmed.
+**For a village now outside Hungary whose 1895 county the new border split, also check that county's archive in Hungary.** The Sopron archive lists, for Sopron county and the city of Sopron, second copies of the state registers of 1895–1921 from the places annexed to Austria in 1921 [S22 @2026-11-13]. Look for the same kind of holding in another border county's archive before you mark a route unconfirmed.
 
 ## 4. Search both name orders and every language form of the given name
 
