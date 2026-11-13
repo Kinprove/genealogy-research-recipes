@@ -10,6 +10,8 @@ as transcripts on 2026-11-09.
 - **S5:** Amy Johnson Crow, [Is Ancestry Deleting Records? Plus, how to keep your family tree safe](https://www.youtube.com/watch?v=a-hjW32rrSA). Used for: keeping copies on storage you control. Read 2026-11-09. Rights: cited reference, not reproduced.
 - **S6:** Genealogy TV, [How to Organize Your Family History Research (Genealogy Challenge)](https://www.youtube.com/watch?v=ptbeoysBNj4). Used for: copies on a second drive and in cloud storage. Read 2026-11-09. Rights: cited reference, not reproduced.
 - **S7:** Genealogy TV, [Genealogy Workflow: Workspace, Organizing, Filing & Research Process](https://www.youtube.com/watch?v=cJ3M2PRiFIU). Used for: labelling same-named people by birth year. Read 2026-11-09. Rights: cited reference, not reproduced.
+- **S8:** Obsidian Help, source file of the [Settings](https://github.com/obsidianmd/obsidian-help/blob/master/en/User%20interface/Settings.md) page, last changed 2026-11-12, read 2026-11-13. Used for: with Automatically update internal links enabled, Obsidian updating internal links when a file is renamed; turned off, it prompts instead. The published page is rendered by script, so its source file was read.
+- **S9:** Obsidian Help, source file of the [Obsidian CLI](https://github.com/obsidianmd/obsidian-help/blob/master/en/Extending%20Obsidian/Obsidian%20CLI.md) page, last changed 2026-11-02, read 2026-11-13. Used for: the CLI's `move` command, which moves or renames a file and updates internal links when that setting is on.
 
 ## Credits
 

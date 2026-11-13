@@ -160,6 +160,11 @@ These come from an Obsidian vault of about 860 research notes kept in git.
 - **Keep what an agent must read in plain Markdown.** An agent reading the file sees a Dataview query,
   not its result.
 
+Obsidian repairs links itself in one case: with its Automatically update internal links setting on,
+it updates the links to a file renamed in Obsidian or moved with its `move` command
+[S8 @2026-11-13], [S9 @2026-11-13]. Its help says nothing about a move made by a script, a shell
+command or git; after such a move, check every link as the rule on moving files above says.
+
 ## Words the agent must earn
 
 Hold every report to these definitions.
@@ -234,9 +239,12 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   the script or instruction that produced it.
 - When a premise falls, recheck everything built on it, including method rules drawn from that case.
 - Change a conclusion only when the evidence or the reasoning changes, not because someone pushed
-  back. When the researcher or a relative with family knowledge gives a firm ruling, record it in
-  their exact words, as theirs, and work from it until new evidence or changed reasoning bears on it.
-  Do not attribute it to a document.
+  back. When the researcher gives a firm ruling, record it in their exact words, as theirs, and work
+  from it until new evidence or changed reasoning bears on it: the researcher rules on identity and
+  proof ([evidence-proof-judgment](evidence-proof-judgment.md)). Record a relative's firm statement
+  the same way, in their words and as theirs, but keep it an account to assess, not a ruling or a
+  tree fact ([family-interviews-and-oral-tradition](family-interviews-and-oral-tradition.md)). Do
+  not attribute either one to a document.
 - Use a fixed list of written statuses, such as refuted, weakened, under-determined and candidate,
   and state the evidence behind any rejection. A confidence label is a judgment by whoever assessed the evidence, never a script's reading of words
   in the text.
@@ -247,7 +255,10 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   Work reconstructed from a final chat cannot separate a real negative from an incomplete run.
 - After an interruption, reload the governing instructions and check the live state. Memory, task
   lists and old reports are an index. Live state and the newest instruction outrank them.
-- Write a status with the way to verify it, and replace an outdated next step in place.
+- Write a status with the way to verify it. Replace an outdated next step in the status, so a
+  resumed session does not act on it, after recording that step in the research log as done or
+  dropped with its result. The log keeps the record and analysis that led to it
+  ([research-documentation](research-documentation.md)).
 - Before saying something is inaccessible, new or never requested, or asking the researcher for a
   document, search earlier sessions, the notes and the researcher's own files.
 - Have the agent write recurring corrections and working procedures into its permanent instructions
@@ -295,8 +306,12 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   partner the parent of existing children, and saving a dialog without a date deleted an event.
 - Read back each write field by field. After an ambiguous failure compare the live record, and never
   resend blindly.
-- Mark an unproved inferred link as tentative on the tree itself and write the reason in the notes. Apply
-  the mark only to that link, not to descendants or to every source conflict.
+- Do not add an unproved inferred link to the tree. Keep it, with its reasoning, in the research
+  notes or a separate worksheet ([evidence-proof-judgment](evidence-proof-judgment.md)). When the
+  tree already holds such a link, entered earlier or by someone else, mark it as tentative on the
+  tree itself and write the reason in the notes: removing it is a change to the tree that needs
+  approval, and an unmarked link reads as proved. Apply the mark only to that link, not to
+  descendants or to every source conflict.
 - Give uncertainty a dedicated place, such as a research note on the person, with a reason, author
   and date. Name fields that hold research
   notes, and invented people that hold gaps, are later read as facts. Label placeholders and exclude
