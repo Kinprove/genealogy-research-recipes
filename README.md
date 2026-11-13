@@ -215,7 +215,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [irish-emigrant-origin-locality](skills/genealogy-research-recipes/recipes/irish-emigrant-origin-locality.md) | record catalogues and original images | — | — | — | — | — |
 | [irish-land-valuation-occupancy-series](skills/genealogy-research-recipes/recipes/irish-land-valuation-occupancy-series.md) | record catalogues and original images | — | — | — | — | — |
 | [irish-probate-and-deed-recovery](skills/genealogy-research-recipes/recipes/irish-probate-and-deed-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [italian-stato-civile-parish-record-recovery](skills/genealogy-research-recipes/recipes/italian-stato-civile-parish-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [italian-stato-civile-parish-record-recovery](skills/genealogy-research-recipes/recipes/italian-stato-civile-parish-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [japanese-koseki-honseki-recovery](skills/genealogy-research-recipes/recipes/japanese-koseki-honseki-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [jewish-archival-list-triage](skills/genealogy-research-recipes/recipes/jewish-archival-list-triage.md) | record catalogues and original images | — | — | — | — | — |
 | [jewish-genealogy-conditional-hypotheses](skills/genealogy-research-recipes/recipes/jewish-genealogy-conditional-hypotheses.md) | — | — | — | — | — | — |
