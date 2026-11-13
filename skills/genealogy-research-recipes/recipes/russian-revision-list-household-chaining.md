@@ -92,7 +92,8 @@ Mark each row as inspected (images or original), extract only, or unlocated. If 
 For Left-Bank Ukraine, the Ukrainian Wikisource index to TsDIAK f. 51 (General Military Chancellery),
 op. 3, vol. 12 lists 62 regimental revisions (ревізії) of 1729–1764, among them 15 for the Pereiaslav
 and 12 for the Chernihiv regiment, with a Wikimedia Commons PDF for each file. [S57 @2026-11-13] The
-files are titled by regiment, so find the sotnia and village inside the file.
+files are titled by regiment, so find the sotnia and village inside the file. Do not match them to the
+numbered revisions by year; read each file's own title and date.
 
 ## 3. Use the volume's own finding aids, then check that the file is what its title says
 
