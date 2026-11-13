@@ -30,6 +30,15 @@ class RussianEmpireUssrReviewTests(unittest.TestCase):
         self.assertIn("[S6]", step)
         self.assertIn("apparently in a single copy. [S7]", step)
         self.assertIn("in the guberniya-board fond of the regional archive as well as in the police fonds", step)
+        self.assertIn("In the Baltic guberniyas the uezd chiefs and the police chiefs revised and kept them", step)
+
+    def test_emigrant_search_examples_say_what_their_sources_show(self):
+        recipe = text("recipes", "russian-empire-emigrant-origin-recovery")
+        spouse = between(recipe, "2. Search a spouse, child or documented fellow traveler", "3. If the database")
+        self.assertIn("another spelling of one passenger's name, Lewender for Lavender, found the passenger list", spouse)
+        self.assertNotIn("recovered the family list through a child's alternative spelling", spouse)
+        index = between(recipe, "4. Try another index of the same collection", "5. If the arrival record")
+        self.assertIn("family members listed pages apart on one manifest", index)
 
     def test_hamburg_lists_cover_indirect_passengers_and_a_complete_index(self):
         step = between(text("recipes", "russian-empire-emigrant-origin-recovery"),
