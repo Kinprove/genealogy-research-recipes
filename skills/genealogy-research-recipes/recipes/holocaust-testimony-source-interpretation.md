@@ -191,6 +191,12 @@ These are reasoning consequences of the source types, not a reliability ranking 
   actually checked. The historical guide describes incomplete victim and survivor documentation;
   do not replace that limitation with a fixed present-day coverage percentage. [H1]
 
+- **Arolsen T/D files are not open online.** Arolsen's archive description of its repository of
+  T/D cases (reference DE ITS 6.3.3.2) says that access to these files is restricted because of
+  privacy. It asks researchers to contact the Arolsen Archives for further information. The
+  online archive tree lists no files under that unit, so a T/D file cannot be read in the online
+  collections. [H21 @2026-11-12]
+
 - If the person was killed or held under German occupation of Soviet territory, also search the
   Extraordinary State Commission (ЧГК) acts: see [Recover separate military and Soviet-repression record episodes](russian-military-repression-record-episodes.md#start-from-the-event-and-source-scope).
 
@@ -206,4 +212,4 @@ Living people rule: use the consent, disclosure and log rules of
 
 ## Sources
 
-[Primary-source checks and limits](https://github.com/Kinprove/genealogy-research-recipes/blob/311dea4a7f115010941467dc3f922b68c165198b/skills/genealogy-research-recipes/sources/holocaust-testimony-source-interpretation.md).
+[Primary-source checks and limits](https://github.com/Kinprove/genealogy-research-recipes/blob/43cf0d69573cd7b2a86f57cc6aa50406e93c8c8e/skills/genealogy-research-recipes/sources/holocaust-testimony-source-interpretation.md).

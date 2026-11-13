@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1100}
+router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1101}
 ---
 
 # Recover a U.S. federal land-entry case file behind (or without) a GLO patent
@@ -51,6 +51,8 @@ Before querying BLM-GLO or NARA RG 49, confirm that the land lies in a public-la
 - **The 20 state-land states:** the 13 original states (Connecticut, Delaware, Georgia, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina and Virginia), plus Maine, Vermont, West Virginia, Kentucky, Tennessee, Texas and Hawaii. The first grant there came from the colony, the proprietor, the state or the Republic of Texas, so BLM-GLO and RG 49 do not hold it. Start with that state's land office or archives.
 
 Two cautions. In Tennessee, the United States held title to the land south and west of the Congressional Reservation Line from 1806 to 1846, but Tennessee issued the grants [S16]. In Ohio, a public-land state, land in the Virginia Military District began with Virginia warrants; its patents can still be found on BLM-GLO [S17].
+
+A further caution for Ohio: its northeastern counties in the Connecticut Western Reserve and the Firelands were part of Connecticut's western land claims. The Ohio History Connection holds no original entry or survey records for those counties and suggests the Western Reserve Historical Society Library and the Connecticut State Library [S25 @2026-11-13]. For land there, start with those two libraries.
 
 ## 1. Route the entry by authority
 

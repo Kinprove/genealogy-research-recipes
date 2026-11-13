@@ -116,6 +116,18 @@ A highly selective compilation, such as the consistory lists described in the
 is not a coverage test, so a name missing from it proves nothing. The thread reports no result
 from comparing the two kinds.
 
+Grand Duke Nikolai Mikhailovich published three necropolises in 1907–1914: «Московский некрополь»
+(three volumes, 1907–1908, compiled by V. I. Saitov and B. L. Modzalevsky), «Петербургский некрополь»
+(four volumes, 1912–1913, compiled by Saitov) and volume 1 of «Русский провинциальный некрополь» (1914,
+compiled by V. Sheremetevsky). The provincial volume covers eleven guberniyas, among them Moscow,
+St Petersburg and Novgorod, and the Valaam and Konevets monasteries; its preface says it was built
+from the lists of people buried in churches and cemeteries that a Holy Synod circular of 29 November
+1908 asked every diocese to send. [P100], [P101], [P102]
+
+The Presidential Library shows volume 1 of each without login, and the Russian State Library's copy
+of the provincial volume is in open access. [P100 @2026-11-13], [P101 @2026-11-13],
+[P102 @2026-11-13], [P103 @2026-11-13]
+
 For a death in war or a veteran's burial, search the official registers, which governments and
 war-graves bodies compile, each as its own surface. A miss outside a register's stated coverage
 is not a negative.
@@ -139,6 +151,12 @@ is not a negative.
   World War and after, gives the original burial places of more than 5 million soldiers and
   officers. [P73] An original burial place can differ from the present grave after a reburial, so
   look for the present grave separately.
+
+ABMC covers more than its First and Second World War cemeteries. Its Honolulu Memorial names 8,209
+people listed as missing from the Korean War and 2,504 from the Vietnam War, and ABMC also
+administers Mexico City National Cemetery, Corozal American Cemetery in Panama and Clark Veterans
+Cemetery in the Philippines [P99 @2026-11-13]. Do not rule ABMC out for a missing service member of
+those wars or a burial in those three cemeteries.
 
 On a Soviet WWII mass grave (братская могила), a name on the plate may belong to a soldier buried
 elsewhere. A press report from Karelia describes a plate cut in 1965 from a military
@@ -222,6 +240,24 @@ original image separate from a working crop or adjusted reading copy. Record whi
 actually inspected. On a memorial site, open every gallery image at its original size (on Find a
 Grave, **View original**). A main photo may be cropped to one name and hide a spouse on the same
 face. Record a cropped image as a partial view of that face. [P66, P67]
+
+Keep four things apart: the database entry, the photograph, your own transcription of the
+photograph, and any epitaph that a publication, memorial page or family compilation quotes. A
+database's name, father's-name and date fields are its statement about the burial, not a reading
+of the stone, even when a photograph is attached. A transcription the database supplies is someone
+else's reading, like a quoted epitaph. Read the photograph blind first: transcribe what is legible
+and mark what is not before you look at the database fields or a quoted epitaph. If you saw them
+first, say so beside your reading: it is then not blind. Then set the other readings beside yours
+and mark each of their words as shown on the photograph, contradicted by it, or not visible in it.
+A word that only the database or the quotation supplies stays attributed to that source and is not
+reported as part of the inscription. Not visible is not absent: the word may be eroded, on a face
+not photographed or outside the image.
+
+Record the pixel width and height of each image you read, and what was and was not legible at that
+size, for example `1200 × 900 px; given name and month-year legible; father's name eroded`. Read
+the largest copy available, not a thumbnail. A word that cannot be read in a small or compressed
+copy is unread, not missing from the stone. An AI model may receive a smaller image than the file;
+see [ai-for-documentary-records](ai-for-documentary-records.md#the-pitfalls-worth-internalizing-the-least-obvious-most-llm-usable-part).
 
 Record whether the stone's letters were traced (outlined) before the photograph was taken. A
 traced photograph shows the tracer's reading, not the carving itself. Check each doubtful letter
@@ -317,8 +353,15 @@ Keep the dates separately:
 | Calculated birth-date lead | Separate derived value, input death date and age, calendar and arithmetic; label `calculated, not stated` |
 | Burial date | The date explicitly supplied as burial, with its source |
 | Database date | Displayed value, field label and record URL |
+| Photograph date | When the image was taken, if stated, and separately when it was posted, each with its source |
 | Converted date | Separate derived value, calendar and conversion basis, if checked |
 | Unreadable or absent value | Unknown; no guessed completion |
+
+The death date that a record or database gives, the burial date, the date on the inscription and
+the photograph's date are four different statements, and any of them can be unknown. Keep each as
+its own labelled date with its source, and leave an unknown one empty, in the packet and in any
+tree entry made from it. Do not fill a missing burial date with the death date, the inscription's
+date, or the date the photograph was taken or posted.
 
 **Check:** An unread inscription, missing date or unverified conversion stays unknown. The
 packet records the source statements and does not select a final death date. [P1, O1]
@@ -588,7 +631,9 @@ death date. Finding a death record does not guarantee that a burial record will 
 finding a burial record does not guarantee a death record. [P2]
 
 **Completion packet:** candidate identifier; exact searches; coverage observation; full-record
-and image URLs; raw inscriptions and uncertain readings; separately labelled dates; cemetery,
+and image URLs; each image's pixel size and what was legible at it; raw inscriptions as read blind,
+with uncertain readings, and any database or quoted reading kept beside them; separately labelled
+dates, including death, burial, inscription and photograph dates; cemetery,
 section, plot and supplied GPS; any register/office locator; discrepancies; and the next source.
 All source-dependent fields are nullable. Use `not supplied`, `not examined`, `unreadable` or
 `unresolved discrepancy` to explain the gap instead of filling it with an inference.
@@ -596,7 +641,9 @@ All source-dependent fields are nullable. Use `not supplied`, `not examined`, `u
 ## Prompt pattern
 
 > Build a burial evidence packet from these cemetery records and photographs. Keep candidates
-> separate. Preserve raw Hebrew and secular inscriptions, name roles, death and burial dates,
-> calendar labels, plot/GPS identifiers and source URLs. State which images were inspected.
+> separate. Transcribe each photograph blind before reading database fields or a quoted epitaph.
+> Preserve raw Hebrew and secular inscriptions, name roles, calendar labels, plot/GPS identifiers
+> and source URLs. Keep death, burial, inscription and photograph dates apart. State which images
+> were inspected, their pixel size and what was legible at it.
 > Leave unsupported fields unknown; list discrepancies and the next original record to retrieve.
 > Do not choose an identity or final date from the database label alone.

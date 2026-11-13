@@ -4,13 +4,13 @@ title: "Recover a Catholic sacramental entry through parish, diocesan and succes
 summary: "Build a holdings register for a Catholic sacrament across the parish, alternative parishes, the diocesan copy, the successor custodian, dispensation files and Puerto Rican probanzas de soltería."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "CATHOLIC-PARISH-DIOCESAN-RECORD-RECOVERY-01", "text": "State negative results only for the holdings you actually inspected."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Church and civil registers", "order": 1047}
 ---
 
@@ -69,9 +69,13 @@ Before you record "not found", check:
 
   The same survey says images of the original registers are not online, and lists Canadiana (the transcription on LAC reel C-1869) and FamilySearch for online viewing [S37 @2026-11-12].
 
+**Privacy gate:** <!-- privacy-gate: request --> A request to a diocesan archive or a parish can name people who may be living, whether the register is closed or already open; answer the privacy gate in `SKILL.md` before you send it.
+
 If any of these apply, record a **coverage gap** naming the parish, diocese and years, not a negative result. Send the request to the diocesan archive or the parish. At the start, offer to pay costs or make a donation. [S1], [S3]
 
 ## 5. Search dispensations and status proofs as separate records
+
+**Privacy gate:** <!-- privacy-gate: request --> When the marriage is recent, a dispensation or status-proof enquiry names spouses who may be living and asks about their kinship or earlier marriages; answer the privacy gate in `SKILL.md` before you send it.
 
 - If the spouses share a surname, are suspected cousins, or the marriage entry mentions a dispensation, search the diocesan matrimonial or dispensation records. The parish marriage entry is not the only record. Dispensations for related couples went through the diocese, so the files sit at diocesan level. [S1], [S2], [S7], [S8], [S10]
 - First read which impediment the dispensation names. Only a consanguinity dispensation means the couple were related, and a dispensation for another impediment, such as marriage to an unbaptized person, says nothing about kinship. For a consanguinity dispensation the couple had to show how they were related, so expect a declared pedigree or statement of the relationship. Files often also contain affidavits and witness testimony. They are free-form, vary in length and are less often digitized than parish registers. [S1], [S2], [S8] Record the file with its own locator, and mark it searched, not searched or not available.

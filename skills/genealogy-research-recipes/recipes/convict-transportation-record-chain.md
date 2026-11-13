@@ -31,6 +31,8 @@ Start from whichever end you hold. In the teaching case the convict was first fo
 7. A ticket of leave, conditional pardon or absolute pardon. Each is its own row. On Ancestry these appear in "New South Wales and Tasmania, Australia, Convict Pardons and Tickets of Leave" (1834–1859) and the NSW register of conditional and absolute pardons (1788–1870) [S2], [S3].
 8. A permission to marry, then the marriage record itself. Each is its own row. NSW convicts needed the Governor's permission, recorded in NRS 12212, Registers of convicts' applications to marry, 1825–1851, apart from the marriage register [S2].
 
+**For a convict tried in Ireland, add the National Archives of Ireland's convict records.** NAI lists these among the collections that can be viewed in its Reading Room while its genealogy microsites are offline: the Chief Secretary's Office Convict Department's Transportation Registers (Ireland to Australia), 1836–1857; its Prisoners' Petitions and Cases, 1788–1836; and its Convict Reference Files, 1836–1856 and 1865–1868 [S12 @2026-11-13]. Search these series before you log a stage as missing.
+
 Between these stages, the colonial lists in TNA HO 10 (1787–1859) can place a convict in New South Wales or Van Diemen's Land with their sentence, employment, land or pardon: convict and settler lists, general musters and the NSW census of 1828 [S10]. Give each list you inspect its own row with its date.
 
 The presenter said he found most of the chain on Findmypast, with other items from British and Australian archives [S2]. In an earlier talk he found it through the record suggestions Ancestry linked to one hit [S3]. A platform suggestion is a lead to a record series. It is not a verified episode.

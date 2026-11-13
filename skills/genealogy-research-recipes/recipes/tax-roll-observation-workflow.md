@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1098}
+router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1099}
 ---
 
 # Read tax rolls as a liability-bounded annual series
@@ -96,6 +96,8 @@ When a parish is known from church records but the tax archive uses unfamiliar a
 **Return:** a parish/year-to-roll crosswalk with one row per candidate volume, the verified parish-section and farm locators, the heading reference, inspection status and linked annual observations. Keep an unresolved tax district or column meaning explicit. This route does not establish a universal Swedish tax age, exemption rule, complete household roster or survival of the requested years.
 
 ## 5. Extract one row per entry
+
+Name every column from its heading before you read its values: a sum of money, arrears, an age, a household or list number, a count of polls or animals. A number beside a name is not an age until a heading says it is one, and a column without a heading stays unread until the list's preamble or the governing law explains it (step 2). Keep the literal heading with the values. If a column gives ages, take the date they are reckoned from out of its heading, not from the year on the volume's label; if the heading leaves that date open, record no birth year from those ages.
 
 For each entry, keep:
 

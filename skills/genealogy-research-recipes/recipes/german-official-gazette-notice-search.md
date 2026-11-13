@@ -4,13 +4,13 @@ title: "Read German official-gazette personnel, expulsion and expatriation notic
 summary: "Read German gazette personnel, expulsion and expatriation notices as dated acts by a named authority."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "GERMAN-OFFICIAL-GAZETTE-NOTICE-SEARCH-01", "text": "Each notice is a dated act by a named authority. It does not show that the person lived in the gazette's district. It does not prove that anyone left, and it does not confirm anyone's identity."}]
 handoff: []
 checked: null
 checked_basis: null
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "German records", "order": 1081}
 ---
 
@@ -56,9 +56,9 @@ Choose the class before you search. Do not use the gazette as a general name ind
   - *Amts- und Intelligenzblatt des Königlich Bayerischen Rheinkreises* for 1837
   - *Königlich bayerisches Amts- und Intelligenzblatt für die Pfalz*, Speyer, for 1850 and 1853
 
-  The Rheinkreis title is held for 1835. The district took the name Pfalz from 1838, so search under the Rheinkreis title before 1838 and the Pfalz title after it. Library catalogues also list a *Kreis-Amtsblatt der Pfalz* (Speyer, 1858). For the 1850s, search under both title forms. A Jewish teacher's appointments and transfers appeared in this gazette and in a Bavarian newspaper [S4].
+  The German union catalogue of serials (ZDB) records three successive titles for this gazette, all printed in Speyer: *Amts- und Intelligenzblatt des Königlich Bayerischen Rheinkreises* for 1831–1837, *Königlich bayerisches Amts- und Intelligenzblatt für die Pfalz* for 1838–1853, and *Königlich-bayerisches Kreis-Amtsblatt der Pfalz* for 1854–1918 [S6]. Search each year under the title of that year. For a year before 1831, look up the title in the ZDB first. A participant gave this gazette and a Bavarian newspaper as the sources for one Jewish teacher's appointments and transfers [S4].
 - **Russian-Empire and other foreign subjects in Imperial Germany.** Search the expulsion lists. The examples run from 1894 to 1901 and cover subjects born in Courland and Livonia [S1].
-- **Émigrés of the 1930s–40s.** Search the *Reichsanzeiger* expatriation lists. The *Reichsanzeiger* published expatriation lists as a series. Do not limit the search to the emigration years: search every list date from the person's departure onward, not only one. A participant cited lists of 22.06.1938 and 02.10.1940, and the members of one family appear on both [S3].
+- **Émigrés of the 1930s–40s.** Search the *Reichsanzeiger* expatriation lists. Do not limit the search to the emigration years: search every list date from the person's departure onward, not only one. In [S3], a man who had lived in Berlin until about 1933 has a *Deutscher Reichsanzeiger* line of 22.06.1938, and so do his wife and their son. The participant who cited those lines also dated another couple's loss of citizenship 02.10.1940, but named no source for it. Do not treat that date as a confirmed list date.
 
 ## 2. Search year by year and know what you are reading
 
@@ -72,11 +72,11 @@ Choose the class before you search. Do not use the gazette as a general name ind
 Copy each field literally. Never fill one field from another.
 
 - **Issuing authority.** Record it as printed. Examples are the Royal Prussian Regierungspräsident in Potsdam or Königsberg, or the Imperial Bezirkspräsident in Straßburg [S1].
-- **Date and its label.** In the 1894 expulsion entries the date is labelled *Datum des Ausweisungsbeschlusses*, the date of the expulsion decision. The 1900–1901 extracts give a bare date in the same position [S1]. By analogy with 1894 it is probably the decision date. Still, record it as *date, role unstated (probably decision)* until you have seen the printed notice.
+- **Date and its label.** In the 1894 expulsion entries the date is labelled *Datum des Ausweisungsbeschlusses*, the date of the expulsion decision. The 1900–1901 extracts give a bare date with no label [S1]. By analogy with 1894 it is probably the decision date. Still, record it as *date, role unstated (probably decision)* until you have seen the printed notice.
 - **Name.** Record name forms separately.
   - A 1900 entry for a seamstress gives a surname, then the birth sign (rendered *\** in the transcription), then a second surname [S1]. Record the second surname as a separate birth-surname field.
-  - In the 1940 list the added names *(Sara)* and *(Israel)* appear in parentheses. They are absent from the same family's 1938 entries [S3]. Keep them as printed in their own field. They are not birth names, so do not search birth records under them.
-- **Occupation or title.** Record it literally: house servant, labourer, ship's stoker, pedlar, or a former minister and envoy (*a. D.*) [S1], [S3]. In the seminary-exam notice, the candidate is listed under the heading *Litthauer* [S2]. Keep that ethnic or language label as printed. Do not treat it as a birthplace.
+  - In the 1940 entry the added names *(Sara)* and *(Israel)* appear in parentheses. The 1938 lines, which concern a different household, show none [S3]. Keep them as printed in their own field. They are not birth names, so do not search birth records under them.
+- **Occupation or title.** Record it literally: house servant, labourer, ship's stoker, pedlar, or a former minister (*a. D.*) and envoy [S1], [S3]. In the seminary-exam notice, the candidate is listed under the heading *Litthauer* [S2]. Keep that ethnic or language label as printed. Do not treat it as a birthplace.
 - **Birth date, or age.**
   - Some expulsion entries give an age instead of a date, such as 65 years in 1894 [S1].
   - The seminary-exam notice gives the home place and an age, 22½ years at Michaelmas 1843, not a birth date [S2].
@@ -97,7 +97,7 @@ Copy each field literally. Never fill one field from another.
 
 ## 5. Expatriation lists: one row per person per list date
 
-- **Give every listed family member a row with their own list date.** In [S3], a couple and their son appear under 22.06.1938, and another couple under 02.10.1940. In the 1940 case the participant reported the husband only as "the same" as his wife. Open his own line and transcribe it. Do not copy her fields into his row.
+- **Give every listed family member a row with their own list date.** In [S3], a man, his wife and their son each have their own line of 22.06.1938. A separate entry of 02.10.1940 covers a woman and her husband. The participant wrote out the wife's part in full. The husband's part reads *Dasselbe für ihren Ehemann* ("the same for her husband"), followed by his given name, his added name and his titles. The act, the date and the last residence are written once, with her part. Find his own entry and transcribe it. Until then, mark his date and last residence *not transcribed*. Do not copy her fields into his row.
 - **Do not assume relatives share one list.** Search each person separately across every list date. Record each list you searched that gave no hit.
 
 ## 6. Personnel notices: chain postings across years and titles
@@ -112,12 +112,15 @@ Copy each field literally. Never fill one field from another.
 
 ## 7. Keep identity open and choose the next search
 
-- **Mark every row *candidate*** until the title, occupation or address matches another source. In [S3], titles and addresses were matched against address and telephone books. A participant flagged a restitution-file hit with a different last residence as probably a namesake.
+- **Mark every row *candidate*** until the title, occupation or address matches another source. In [S3], one participant put a man's address-book and telephone-book entries and his 1938 list entry into one dated chronology. The requester's restitution-file search for his name returned three hits. The same participant called one of them probably the wrong man, without saying why. That hit gave Magdeburg as the last residence, while the 1938 list gave Schaperstr. 21.
 - **Use the fields to target the next search:**
-  - **Last residence:** the address book of that town for the years before the list. In [S3], a 1940 Schneidemühl residence led to the 1931 Schneidemühl address book.
+  - **Last residence:** the address book of that town for the years before the list. In [S3], a participant answered a Schneidemühl last residence, in an entry of 02.10.1940, with a link to the 1931 Schneidemühl address book, but reported no result from it.
   - **Registration community:** the registration records of that community, not those of the birthplace [S1].
   - **Posting, or home place in an exam notice:** the parish or civil registers of that place [S2].
-- **For a Berlin residence, search the surviving registration cards first, then address and telephone books.** The Landesarchiv Berlin says the resident-registration card file (*Einwohnermeldekartei*) was kept from 1874. The part that survives is the West Berlin file of residents who were in the city after 1945 and had deregistered by 1960, plus a few earlier cards (catalogue B Rep. 021-01: 1875–1961). For a person who left or died before then, address and telephone books are the main route [S3].
+
+**Privacy gate:** <!-- privacy-gate: request --> A registration-index search sends the person's name, birth date and occupation to the archive, and a card can also list a spouse and children who may still be living. Answer the privacy gate in `SKILL.md` before you ask for one.
+
+**For a Berlin residence, ask for a search of the resident-registration card index (*Einwohnermeldekartei*), and use the address and telephone books.** Addresses were recorded officially from 1874, and Berlin's police stations kept residents' data on printed cards. The original central index was moved out of the city in 1943 and is considered lost. The Landesarchiv Berlin holds the West Berlin index, rebuilt after the war from cards kept at police stations. It covers residents who were in the city after 1945 and had deregistered by 1960, and it is incomplete for the years before 1945. A new index of the whole population was begun in 1945. It was in East Berlin from 1948 and is now kept by the Landesamt für Bürger- und Ordnungsangelegenheiten (LABO). For anyone still registered in Berlin after 1960, the LABO, not the Landesarchiv, is responsible [S5 @2026-11-13]. The yearly address books, printed from the registration index, survive complete to 1943. The Zentral- und Landesbibliothek Berlin has digitised them, together with telephone books to 1991 [S5 @2026-11-13]. For a person who left or died before 1945, start with the address books, and still ask for a search of the West Berlin index: it is incomplete for those years, so a miss does not show that the person was never registered.
 
 ## Output: notice register
 

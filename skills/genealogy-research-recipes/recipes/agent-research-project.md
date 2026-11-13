@@ -3,14 +3,14 @@ id: "agent-research-project"
 title: "Running a long genealogy project with an AI agent"
 summary: "Keep an AI agent's genealogy work honest over months: what counts as evidence, how to lay out Markdown research notes, what 'searched', 'saved' and 'done' must mean, how corrections reach every note, and how to delegate and write to a tree safely."
 kind: "judgment"
-scope: {"platforms": [], "tasks": ["running a multi-session genealogy investigation with an AI agent", "keeping genealogy research notes in Markdown or Obsidian", "delegating genealogy reading to sub-agents", "carrying a correction through notes and a tree", "research vault", "Obsidian genealogy notes", "the agent says saved or done", "sub-agent genealogy research", "long genealogy project", "keep research across sessions", "correct a claim everywhere"]}
+scope: {"platforms": [], "tasks": ["running a multi-session genealogy investigation with an AI agent", "keeping genealogy research notes in Markdown or Obsidian", "delegating genealogy reading to sub-agents", "carrying a correction through notes and a tree", "research vault", "Obsidian genealogy notes", "the agent says saved or done", "sub-agent genealogy research", "long genealogy project", "keep research across sessions", "correct a claim everywhere", "fill empty surname fields in a tree"]}
 privacy: "living-person"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "AGENT-RESEARCH-PROJECT-01", "text": "Treat a model-written summary, tag or \"key insight\" as a pointer. Open the source before writing a claim."}]
 handoff: ["evidence-proof-judgment", "research-documentation", "source-citation", "ai-for-documentary-records", "archival-image-coverage-verification", "family-collection-intake-and-capture", "gedcom-research-export"]
 checked: null
 checked_basis: null
-capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool"], "contact": []}
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool", "upload"], "contact": []}
 router: {"tier": "full", "group": "Evidence and documentation", "order": 136}
 ---
 
@@ -76,8 +76,15 @@ If you set up only five things, set up these:
 4. A search log beside each question that keeps the search states apart.
 5. A rule that a correction is not finished until every copy of the claim is fixed.
 
+**Privacy gate:** <!-- privacy-gate: upload, publish --> Project notes can name living people and
+hold tentative relationships. When they are kept in a shared folder, a cloud-synced or hosted
+service, or a repository other people can read, saving to them moves that data to the service and to
+everyone with access. Answer the privacy gate in `SKILL.md` before saving there; write access to the
+notes is not permission to disclose. Without permission, keep living people's details and the
+hypotheses about them in a local file, and save only the rest.
+
 At the start of a session, reload the instructions, read the note for the question and check the
-live state. At the end, update that note and the search log, save them to the shared notes and write
+live state. At the end, update that note and the search log, save them to the project notes and write
 the next check.
 
 ## Give each kind of information one home
@@ -153,13 +160,18 @@ These come from an Obsidian vault of about 860 research notes kept in git.
 - **Keep what an agent must read in plain Markdown.** An agent reading the file sees a Dataview query,
   not its result.
 
+Obsidian repairs links itself in one case: with its Automatically update internal links setting on,
+it updates the links to a file renamed in Obsidian or moved with its `move` command
+[S8 @2026-11-13], [S9 @2026-11-13]. Its help says nothing about a move made by a script, a shell
+command or git; after such a move, check every link as the rule on moving files above says.
+
 ## Words the agent must earn
 
 Hold every report to these definitions.
 
 | Word | True only when | Never proved by |
 | --- | --- | --- |
-| saved | The note was updated and the change is in the shared notes | A promise to remember, a scratch folder, an uncommitted working copy |
+| saved | The note was updated and the change is in the project notes | A promise to remember, a scratch folder, an uncommitted working copy |
 | searched | A real tool return or saved response exists, showing what was actually sent | A planned click, a plausible ID, a search snippet |
 | not found | The search finished and its scope is stated | An error, login page, CAPTCHA, timeout, blank page, capped or partial result |
 | read | A stated range of pages or frames was opened and read through, and the rest is logged as unread | A download, an OCR run, a filename match, a finished job |
@@ -227,9 +239,12 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   the script or instruction that produced it.
 - When a premise falls, recheck everything built on it, including method rules drawn from that case.
 - Change a conclusion only when the evidence or the reasoning changes, not because someone pushed
-  back. When the researcher or a relative with family knowledge gives a firm ruling, record it in
-  their exact words, as theirs, and work from it until new evidence or changed reasoning bears on it.
-  Do not attribute it to a document.
+  back. When the researcher gives a firm ruling, record it in their exact words, as theirs, and work
+  from it until new evidence or changed reasoning bears on it: the researcher rules on identity and
+  proof ([evidence-proof-judgment](evidence-proof-judgment.md)). Record a relative's firm statement
+  in their exact words, as theirs, but keep it an account to assess, not a ruling or a
+  tree fact ([family-interviews-and-oral-tradition](family-interviews-and-oral-tradition.md)). Do
+  not attribute either one to a document.
 - Use a fixed list of written statuses, such as refuted, weakened, under-determined and candidate,
   and state the evidence behind any rejection. A confidence label is a judgment by whoever assessed the evidence, never a script's reading of words
   in the text.
@@ -240,7 +255,10 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   Work reconstructed from a final chat cannot separate a real negative from an incomplete run.
 - After an interruption, reload the governing instructions and check the live state. Memory, task
   lists and old reports are an index. Live state and the newest instruction outrank them.
-- Write a status with the way to verify it, and replace an outdated next step in place.
+- Write a status with the way to verify it. Record an outdated next step in the research log as
+  done or dropped, with its result, then replace it in the status so a resumed session does not act
+  on it. The log keeps the record and analysis that led to the step
+  ([research-documentation](research-documentation.md)).
 - Before saying something is inaccessible, new or never requested, or asking the researcher for a
   document, search earlier sessions, the notes and the researcher's own files.
 - Have the agent write recurring corrections and working procedures into its permanent instructions
@@ -288,8 +306,12 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   partner the parent of existing children, and saving a dialog without a date deleted an event.
 - Read back each write field by field. After an ambiguous failure compare the live record, and never
   resend blindly.
-- Mark an unproved inferred link as tentative on the tree itself and write the reason in the notes. Apply
-  the mark only to that link, not to descendants or to every source conflict.
+- Do not add an unproved inferred link to the tree. Keep it, with its reasoning, in the research
+  notes or a separate worksheet ([evidence-proof-judgment](evidence-proof-judgment.md)). When the
+  tree already holds such a link, entered earlier or by someone else, mark it as tentative on the
+  tree itself and write the reason in the notes: removing it is a change to the tree that needs
+  approval, and an unmarked link reads as proved. Apply the mark only to that link, not to
+  descendants or to every source conflict.
 - Give uncertainty a dedicated place, such as a research note on the person, with a reason, author
   and date. Name fields that hold research
   notes, and invented people that hold gaps, are later read as facts. Label placeholders and exclude
@@ -297,10 +319,51 @@ which period it covers. A count from a subset reads as a verdict on the whole co
 - Change an existing name only with approval. List conflicts with the old value, new value and source.
 - Close each bulk import with per-row receipts, and reconcile what was emitted, what was stored and
   what the agent reported. In one import, 98 of 183 parent links vanished without an error.
+  Report a receipt check as exactly that: receipts matched against the plan show what was sent
+  and acknowledged, not what each person's page shows now. Report a read-back only for the people
+  whose pages you reopened.
+- When one field is empty for a whole imported group, check how the import was run before
+  treating the gap as missing from the records: an option or a column mapping can drop a field for
+  everyone.
 - Treat a full re-import as destructive replacement. Keep a restorable copy, confirm the file's
   identity first, and never report zero people imported as success.
 
+Before writing any surname into a tree, a bulk fill of empty fields included, sort each value into
+one of four kinds and keep the kind in the batch plan: printed for this person in the source;
+inferred from a parent; a place name, title or patronymic; or unknown. Only the first is a
+transcription.
+
+- **Inferred from a parent.** Copying a father's surname to a child claims two things: that this
+  is his child, and that the family used that surname as a hereditary name in the child's
+  generation. Where a book prints the surname for the father and for one son, it is still an
+  inference for the other children. Write it only with a research note on the person that says it
+  is inferred and from whom, and never count it as transcribed.
+- **Inferred through a "possibly".** Where the source marks the parentage as possible, a surname
+  derived through it is conditional too. Carry the source's qualifier into the person's research
+  note; never put it inside the name field.
+- **Not a surname.** A place name ("of Dubrovny"), a title ("Besht", the acronym of Baal Shem
+  Tov) or a patronymic in a parent's surname field is not a family name. Never copy it to anyone
+  else: copied mechanically, it gives the tree a family of people surnamed "Besht". Where the
+  family used patronymics, a child's name comes from the father's given name, not from his
+  surname field ([Scandinavian patronymic and farm names](scandinavian-patronymic-farm-name-record-recovery.md)).
+  Moving such a value out of the parent's own field is a name change and needs approval.
+- **Unknown.** Where nothing establishes the surname, leave the field empty. An empty field keeps
+  the question open; an invented surname reads as a fact.
+- **Birth and married surnames are separate fields.** Never move a value from one to the other: a
+  woman's married surname does not go into her birth-surname field, and her birth surname does not
+  go into her married-surname field. A wife printed under her husband's surname gives her married
+  surname; it does not by itself give her birth surname.
+- **Exceptions.** Before a bulk fill, hold back every person whose source value is not a plain
+  surname or whose parentage is marked possible. Resolve each one separately on its own evidence;
+  never fill it with the surname of the only male relative in view.
+
 ## Deleting, moving and backing up
+
+**Privacy gate:** <!-- privacy-gate: upload, publish --> A backup or off-site copy on a drive the
+user controls stays local. A copy held by a backup service, a cloud folder or a shared folder moves
+the originals and notes, and the living people in them, to that destination and to whoever can open
+it. Answer the privacy gate in `SKILL.md` before creating or extending such a copy. Opaque handles
+for living people reduce what the copy exposes; they do not replace permission.
 
 - Before deleting, check what still cites the file. One cleanup removed the only authority for a
   negative kinship conclusion that four notes still relied on.

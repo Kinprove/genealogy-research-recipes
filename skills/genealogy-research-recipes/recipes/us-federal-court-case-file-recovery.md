@@ -4,14 +4,14 @@ title: "Recover a U.S. federal court case file"
 summary: "Take a lead to the right federal court for the period, its National Archives record group and index, and the loose case file."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "US-FEDERAL-COURT-CASE-FILE-RECOVERY-01", "text": "Decide whether the matter is federal before you search a county courthouse or a large genealogy database."}]
 handoff: ["court-case-file-recovery", "criminal-court-prison-record-recovery"]
 checked: "2026-11-07"
 checked_basis: "read 2026-11-07"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1103}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1104}
 ---
 
 # Recover a U.S. federal court case file
@@ -80,7 +80,7 @@ The federal courts had four levels [S2]:
   circuit courts.
 - **The Supreme Court** was established in 1789.
 
-- **A lead that names a judge but no court:** do not give up on the case or turn to state courts. If the judge was a federal judge nominated by the President and confirmed by the Senate, search the name in the Federal Judicial Center's Biographical Directory of Article III Federal Judges, whose entries give the federal court or courts served [S10], [S11], [S13]. Then use the National Archives' Guide to Federal Records to locate that court's records: RG 21 for district and circuit courts, RG 276 for courts of appeals and RG 267 for the Supreme Court [S12].
+- **A lead that names a judge but no court:** do not give up on the case or turn to state courts. If the judge was a federal judge nominated by the President and confirmed by the Senate, search the name in the Federal Judicial Center's Biographical Directory of Article III Federal Judges, whose entries give the federal court or courts served [S10], [S11], [S13]. Then use the National Archives' Guide to Federal Records to locate that court's records: RG 21 for district and circuit courts, RG 276 for courts of appeals and RG 267 for the Supreme Court [S12]. The directory lists only judges of the Article III courts and some former federal courts, and lists service on a territorial court only for a judge it already includes [S11]. So a miss does not show that the judge was not federal: a judge who sat only on a territorial court is not listed.
 
 For a matter before 1912, search both district and circuit court records unless the lead names
 the court. An appeal does not stay with the trial file. Route it by the court that heard the
@@ -100,6 +100,10 @@ Use this crosswalk [S2]:
 - **RG 267:** U.S. Supreme Court.
 - **RG 123:** U.S. Court of Claims.
 - **RG 578:** U.S. bankruptcy courts. Bankruptcy case files are in RG 21 or RG 578.
+
+**Privacy gate:** <!-- privacy-gate: request --> A bankruptcy index or case-file request sends the
+parties' names, and a party to a case from 1940 on may be living; answer the privacy gate in
+`SKILL.md` before you send it.
 
 The record group number is stable. What you must look up each time is the NARA facility that
 holds the specific district's records, because it is often not in the city where the court sat.
@@ -142,6 +146,10 @@ film, so check that catalog before you plan a visit.
 Do not ask for a case file by name. The presenter could not get a bankruptcy file in Philadelphia
 just by naming the person. He went through the finding aids, requested the index books, found the
 name, copied the file reference and then requested the file [S2]. Do the same:
+
+**Privacy gate:** <!-- privacy-gate: request --> A case-file or index request names the parties,
+who may be living for a 20th-century case; answer the privacy gate in `SKILL.md` before you send
+it.
 
 1. Find the record group's finding aid and identify the index or docket that covers the court,
    the type of action and the period. Check the dates covered: for the Western District of

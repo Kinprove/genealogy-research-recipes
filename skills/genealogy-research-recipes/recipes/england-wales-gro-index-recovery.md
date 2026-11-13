@@ -4,13 +4,13 @@ title: "Read England and Wales GRO and FreeBMD index entries as registration obs
 summary: "Read England and Wales GRO and FreeBMD index entries as registration observations."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "ENGLAND-WALES-GRO-INDEX-RECOVERY-01", "text": "These entries tell you the registration quarter, district, volume/page and, in the GRO birth index, the mother's maiden surname. They do not give an event date, a birthplace, a pairing of spouses or parentage."}]
 handoff: ["uk-census-and-1939-register-interpretation"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Irish and British records", "order": 1066}
 ---
 
@@ -158,6 +158,11 @@ For general FamilySearch jurisdiction and missed-person recovery, use
 
 ## Reconcile copies of one index
 
+**Privacy gate:** <!-- privacy-gate: request --> An order for a marriage after the index copies
+end (step 5), or for a recent entry from a local register office (step 6), sends the names, the
+date and the place to the GRO or the office, and the people in the entry may be living. Answer
+the privacy gate in `SKILL.md` before you order it.
+
 1. The FamilySearch "England and Wales birth registration" entries and Ancestry's
     GRO-titled index reproduce the GRO index [S5], [S7]. Match copies by district, quarter,
     volume and page, and count them as one observation, not as independent support.
@@ -224,7 +229,16 @@ For general FamilySearch jurisdiction and missed-person recovery, use
     and date of birth, and the Guernsey forms cover everyone over 14 who stayed on the island
     [S30], [S31]. The Isle of Man was not occupied.
 
+**Isle of Man civil registers from 1878 are with the Douglas Civil Registry Office.** The National
+Archives names that office as the contact for them, and Manx National Heritage for the parish
+registers [S28 @2026-11-13]. A recent entry can name people who are still living, so answer the
+privacy gate in `SKILL.md` before you ask the office for a copy.
+
 ## Order the certificate and close the packet
+
+**Privacy gate:** <!-- privacy-gate: request --> A certificate order sends the name and the
+index reference, and a birth, marriage or death of recent years can name people who are still
+living; answer the privacy gate in `SKILL.md` before you order it.
 
 1. Order using the full reference: name, year, quarter, district, volume and page [S2], [S21].
     Without an index reference, the GRO searches only a three-year period centred on the year

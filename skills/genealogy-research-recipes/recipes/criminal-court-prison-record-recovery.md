@@ -11,7 +11,7 @@ handoff: ["convict-transportation-record-chain", "court-case-file-recovery", "en
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1104}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1105}
 ---
 
 # Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes
@@ -78,6 +78,8 @@ entering identifying search terms or sending a record request.
 - **Federal pardon or commutation:** search federal pardon applications separately in **NARA RG 204, Office of the Pardon Attorney**. Its historical guide describes pardon case files for 1853–1963, dockets and indexes, with some indexes retained by the pardon office. Use the particular series' current catalogue entry to establish custody, coverage and access before requesting a file. Do not assume the prison's NARA facility holds it, or that an application establishes a pardon. [S18]
 - Record in the request log: agency, form, date sent, date answered, file number quoted, documents supplied (death certificate, kinship proof), whether you gave consent or accepted redaction, and what you actually received (extract, redacted copy or full file).
 - Death status matters for access. Note whether the inmate is dead, how long ago, and whether the children are living [S2].
+
+**Federal pardons outside RG 204's case files:** RG 204's pardon case files begin in 1853. From 1789 to 1853 the Secretary of State and the Attorney General shared responsibility for exercising the President's pardon power, and the State Department issued pardon warrants until 1893. Search the State Department's pardon files, 1789–1893, in RG 59, and RG 204's abstracts of State Department pardon cases, 1793–1853. Applications for amnesty, Civil War and later, are in RG 94 [S18 @2026-11-13].
 
 ## Inventory surviving series and access rules
 

@@ -4,13 +4,13 @@ title: "Route French records by département, creator, series and access rule"
 summary: "Route French civil, census, military, property, notarial, medal, consular, OFPRA refugee and prison records by creator, département, series and access rule; follow cadastral names through mortgage accounts to deeds and historical Paris addresses to property registers; trace Saint-Pierre victim leads to civil records/death judgments and pre-parish town lineages to civic admissions; follow missing Léonore dossiers into published nominations and named prisons through tables to admission entries; distinguish recruitment stages and JMO context, adoption-date references, Basque house-entry names and Breton marriage decrees."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "FRENCH-DEPARTMENTAL-RECORD-ROUTING-01", "text": "**Send each search to an Archives départementales (AD), not to a national index.** Older civil registers, census lists, military registers, Enregistrement tables and notarial minutes are kept by the AD, each with its own website and series."}]
 handoff: ["archival-image-coverage-verification", "evidence-proof-judgment", "french-belgian-civil-act-extraction", "historical-map-record-recovery", "historical-place-name-resolution", "land-index-book-series-recovery", "source-citation", "tax-roll-observation-workflow"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Country record routing", "order": 1062}
 ---
 
@@ -78,12 +78,22 @@ Gather these before searching:
 - **Fix the 1871–1918 annexation before routing a north-eastern commune.** The Treaty of Frankfurt ceded Bas-Rhin, Haut-Rhin except the Belfort area, most of the pre-1871 Moselle département, about one-third of Meurthe (the Château-Salins and Sarrebourg areas), and the Vosges cantons of Schirmeck and Saales [S15]. Saales was partitioned: the part left in France became the canton of Provenchères-sur-Fave [S17].
 - **Place a former Meurthe commune before you route it.** The annexed Château-Salins and Sarrebourg areas joined Moselle [S16]. Do not assume which AD holds its pre-1871 registers: resolve the commune in the place-name recipe, then read the finding aid of its present AD.
 
+**Savoie and Haute-Savoie have no civil registers for 1816–1860.** Savoy returned to Sardinian law in 1816 and joined France in 1860, and the mayors took up civil registration again on 1 January 1861. For 1816–1860, look for the event in the Catholic parish registers: duplicates or copies of them were sent to the lay courts and to the bishoprics, and extracts, then certified copies, of the acts of 1828–1860 were handed to the mairies after 1861. The parish registers that a Sardinian decree of 22 December 1815 handed to the priests did not go back to the mairies after 1860; a very large part of those of the Chambéry diocese was deposited in the Savoie departmental archives in 1972. [S57] Record which copy you read.
+
+**A marriage of 22 September 1798 to 26 July 1800 can be in another commune's register.** From 1 vendémiaire an VII to 7 thermidor an VIII, marriages were celebrated only in the canton's chief town (*chef-lieu de canton*). After the cantons were abolished on 17 February 1800, couples went on marrying in the former chief town for a while; the practice ended before 26 July 1800, but not everywhere on the same date. The communes' ten-year tables still list these marriages. [S56] So search the chief town's marriage register as well as the home commune's. The Maine-et-Loire guide says the first page of a commune's birth and death registers names its canton and chief town [S56].
+
+**Paris, 12th arrondissement:** the birth acts of 1 January 1870 to 25 May 1871 were also destroyed; look for them among the [reconstructed acts](french-belgian-civil-act-extraction.md#check-a-paris-reconstructed-record-branch) [S58].
+
 ## 2. Work out whether the act is open yet
+
+**Privacy gate:** <!-- privacy-gate: request --> A request to a mairie for a birth or marriage act that is still closed, as described below, sends the names of people who may be living and your kinship to them; answer the privacy gate in `SKILL.md` before you send it.
 
 - **Open birth and marriage registers 75 years after the register closed, or 25 years after the person's death if that comes first** (Code du patrimoine, art. L213-2 I 4° e) [S12], [S13]. For a marriage, the 25-year rule runs from the death of both spouses [S14].
 - **Treat death acts as open at once.** Anyone may request one without giving a reason [S13], [S14]. A 25-year limit applies only to putting death acts online, so an online series can stop short of years that are open on request [S13].
 - **Do not report a closed act as missing.** For a more recent birth or marriage, the person, the spouse, ascendants, descendants or a legal representative request a full copy (*copie intégrale*) or an extract with filiation (*extrait avec filiation*) from the mairie. Anyone may obtain an extract without filiation (*extrait sans filiation*) [S14].
 - **Compute the window from today's date** and the register's closing year, and record it with the result.
+
+**Expect the online images to stop earlier than the open registers.** The government's answer of 6 October 2015 to a parliamentary written question says that the CNIL's single authorisation AU 029 of 12 April 2012 set a delay of 100 years for putting birth and marriage acts online, which can be cut to 75 years when the margin notes are masked [S13]. So a birth or marriage act between 75 and 100 years old can be open to the public and still be missing from the AD website. The same answer says the ten-year tables are open at once; the ministry considers that their pages can go online after 25 years for deaths and 75 years for births and marriages [S13].
 
 ## 3. Date a death after 1970 with the INSEE death file
 
@@ -99,6 +109,8 @@ Gather these before searching:
 - **Expect the span to vary by AD.** In the Finistère they run from 1825 and give way to death cards (*fiches décès*) from 1969 [S7].
 - **Read what an entry gives:** date of death and domicile, the surviving or predeceased spouse in tables opened from about the late 1880s, and the date of the succession declaration, with its number in later tables [S7]. Entries are not always complete [S8].
 - **Follow the declaration date into the registre des mutations par décès (register of transfers on death)** of the same office [S7], then order the death act from the commune the domicile points to.
+
+**For a death before 1825, search the older tables.** The Finistère guide says the table des successions et absences was kept from 1 January 1825 and brought together the information of five tables abolished on that day: the tables of deaths, of seals placed and lifted (*appositions et levées de scellés*), of post-mortem inventories, of guardianships and curatorships (*tutelles et curatelles*), and of succession duties paid (*successions acquittées*) [S7]. Look for those five tables among the same registration office's records.
 
 ### A 1902 Saint-Pierre victim-index or family lead
 
@@ -127,6 +139,8 @@ judgments registered at the Fort-de-France court [S44]. These are two record tar
 - **Read the columns of the year you open.** The lists give names and occupations [S6]; the role in the household (head, wife, children) is given only from 1881 [S5]. Other columns change by year: birthplace and nationality are absent from 1856 to 1866, and from 1906 a birth date replaces the age [S5]. Do not expect a birthplace in every year.
 - **Browse, do not name-search.** Most years have no name index. A few have one, such as the Côtes-d'Armor 1906 census indexed by a local genealogy centre [S5]. Without an index, read the commune household by household, and record a miss only after reading every page of that list.
 
+**In Paris, expect nominative lists for 1926, 1931, 1936 and 1946 only.** The Archives de Paris say the five-yearly censuses produced nominative lists there only in those four years. The lists run by arrondissement, quartier and street, and the streets are not always in alphabetical order. For each building they group the members of a family and give each person's date and place of birth and occupation. The lists are online except those of 1946, which are seen only in the reading room [S59 @2026-11-13]. The same page names census records of 1856–1872 for the 5th and 10th arrondissements among the arrondissement mairies' records [S59 @2026-11-13].
+
 ## 6. Follow the military record created at each stage
 
 Use the classe/bureau route for the matricule series it covers. For earlier recruitment,
@@ -135,13 +149,13 @@ verified service dates.
 
 ### Find a man in the registres matricules by classe and bureau
 
-- **Compute the classe as birth year plus 20.** The registers run from the classe of 1867, so men born about 1847 onward [S9].
-- **Route by recruitment bureau, not by birthplace.** Registers are kept by classe and by recruitment bureau, and a man is recorded where he lived at age 20 [S9]. Some cantons belonged to a bureau in another département, whose archives hold their registers [S10]. Search the département of his residence around age 20 first, then his birth département.
-- **Open the alphabetical table for each classe and bureau** [S9], then the register entry. Check the classes either side if the birth year is uncertain.
-- **Use Grand Mémorial as a finder for the classes of 1887–1921.** It searches the departmental registre-matricule indexes nationally and links each hit to the departmental archive's record [S11]. Coverage depends on each AD's indexing. Cite the departmental register and image, not Grand Mémorial.
-- **Search Neogenea by name outside Grand Mémorial's classes.** For a soldier of classes 1878–1886 or 1922–1925, search [Neogenea](https://neogenea.fr) by surname. It indexes the registres matricules that the ADs have put online, in about 70 départements. A vision model reads the names and volunteers check them, but most images are still unchecked [S46], [S47]. Treat every hit as a pointer: open the register image on the AD site and confirm the classe, bureau and matricule there. A miss in Neogenea does not prove the man is absent, and neither does a failed name search in an AD interface that expects the classe first. Fall back to routing by classe and bureau.
-- **Do not assume an Alsace-Moselle man of the 1871–1918 classes has no French military record.** No registres matricules were kept during the annexation. After the three départements returned to France in 1918, the French administration opened registers for the men who had become French again and could still be called up; men killed in the war or already released from service obligations are therefore absent [S50]. The Haut-Rhin has classes 1893–1921 online, filed by recruitment bureau (Colmar or Mulhouse) [S48]. The Bas-Rhin's alphabetical indexes start with class 1894; its registers themselves are not online [S49]. For German service the entry usually gives only the service dates or the bare words *service dans l'armée allemande* (service in the German army) [S48], [S50]; take unit and service details from the German record.
-- **For an Alsace-Lorraine veteran who survived, also search the ONAC files at the Bas-Rhin archives.** The Office national des anciens combattants files in 718 D and 844 D are indexed and include about 70,000 First World War files. They hold veterans'-card and veterans'-pension applications made after the decree of 28 June 1927, for Bas-Rhin residents and for Alsace-Lorrainers settled outside the three départements. A file can contain the man's original German military papers (Militärpass, Soldbuch) and German service statements [S50].
+- **Compute the classe as birth year plus 20.** The registers run from the classe of 1867, so men born about 1847 onward [S9 @2026-11-13].
+- **Route by recruitment bureau, not by birthplace.** Registers are kept by classe and by recruitment bureau, and a man is recorded where he lived at age 20 [S9 @2026-11-13]. Some cantons belonged to a bureau in another département, and their registers can be in either département's archives. For the classes 1867–1929, the Doubs finding aid places the registers of listed cantons of the Montbéliard and Baume-les-Dames arrondissements, enrolled at the Belfort bureau, in the Territoire-de-Belfort archives, but the 1902–1928 registers of Dole and six neighbouring Jura cantons, enrolled at the Besançon bureau, in the Jura archives [S10 @2026-11-13]. Read the finding aids of both the canton's and the bureau's départements. Search the département of his residence around age 20 first, then his birth département.
+- **Open the alphabetical table for each classe and bureau** [S9 @2026-11-13], then the register entry. Check the classes either side if the birth year is uncertain.
+- **Use Grand Mémorial as a finder for the classes of 1887–1921.** It searches the departmental registre-matricule indexes nationally and links each hit to the departmental archive's record [S11 @2026-11-13]. Coverage depends on each AD's indexing. Cite the departmental register and image, not Grand Mémorial.
+- **Search Neogenea by name where no name index covers the soldier.** For a classe outside Grand Mémorial's 1887–1921, or a département whose AD site cannot be searched by name [S46 @2026-11-13], search [Neogenea](https://neogenea.fr) by surname. It indexes registres matricules that the ADs have put online without a name index [S47 @2026-11-13]. A vision model reads the names and volunteers check the readings [S46 @2026-11-13], [S47 @2026-11-13]; on 2026-11-13 its coverage page showed fewer than half of the images reread by hand [S61 @2026-11-13]. The classes covered differ by département, and the coverage page lists them for each one [S61 @2026-11-13]: check on that page that the soldier's département and classe are covered. Treat every hit as a pointer: open the register image on the AD site and confirm the classe, bureau and matricule there. A miss in Neogenea does not prove the man is absent, and neither does a failed name search in an AD interface that expects the classe first. Fall back to routing by classe and bureau.
+- **Do not assume an Alsace-Moselle man of the annexation years has no French military record.** The First World War registres matricules of the Bas-Rhin, Haut-Rhin and Moselle were drawn up by the French administration after the three départements returned to France in 1918, to list the men who could still be called up; men killed in the war or already released from service obligations are therefore absent [S50 @2026-11-13]. In the Bas-Rhin they start with the class of 1893 [S50 @2026-11-13]. The Bas-Rhin's online alphabetical indexes start with class 1894; its registers themselves are not online [S49 @2026-11-13]. A 2017 report says the Haut-Rhin put classes 1893–1921 online, filed by recruitment bureau (Colmar or Mulhouse) [S48 @2026-11-13]. For German service the entry usually gives only the service dates or the bare words *service dans l'armée allemande* (service in the German army) [S48 @2026-11-13], [S50 @2026-11-13]. The French register cannot trace service in the German army, so take unit and service details from the German record [S50 @2026-11-13].
+- **For an Alsace-Lorraine veteran who survived, also search the ONAC files at the Bas-Rhin archives.** The Office national des anciens combattants files in 718 D and 844 D are indexed and include about 70,000 First World War files. They hold veterans'-card and veterans'-pension applications made after the decree of 28 June 1927, for Bas-Rhin residents and for Alsace-Lorrainers settled outside the three départements. A file can contain the man's original German military papers (Militärpass, Soldbuch) and German service statements [S50 @2026-11-13].
 
 ### Before classe 1867: follow the local recruitment stages
 
@@ -226,6 +240,10 @@ of these books [S45]. Civic status itself does not establish the proposed parent
 - **Search by notary, not by client.** Identify the notaries working in the place and period, then read each one's chronological répertoire (*répertoire*), kept alongside the minutes [S21]. Use a name index only where one exists for that notary.
 - **Expect marriage contracts and inventaires après décès (post-mortem inventories)** among the minutes; the Archives nationales publish a series of Minutier central inventaires après décès [S23].
 
+### When the notary is not known
+
+If the répertoires of the place's notaries (see above) are lost for the period or do not lead to the act, use the registration records [S60]. From 1693 every notarial act had to be declared at a contrôle des actes office. In December 1790 the contrôle was replaced by the enregistrement, whose registers list in date order all the acts passed before the notaries of each office's area. The administration made tables of these registers by kind of act: sellers, buyers, marriage contracts, wills and others. [S60] In the Maine-et-Loire guide's example, a table entry gives the parties, the date of the act, the date of registration and the notary. The guide warns that some tables give only the registration date; then read the registration register at that date for the notary and the act date [S60]. The guide's AD keeps the ancien-régime records in series C and the later ones in sub-series 3 Q; take the cotes from your own AD's finding aid.
+
 ### From a cadastral case to a transfer deed
 
 Keep the fiscal case, named person and parcel as separate references. The 2024 presentation
@@ -281,6 +299,8 @@ boundary changes; a modern arrondissement alone does not select the historical r
   not establish that a calepin can be inspected; record its actual access status.
 
 ## 9. Follow a 1939 Spanish refugee into the Pyrénées-Orientales camp files
+
+**Privacy gate:** <!-- privacy-gate: request --> The OFPRA file question below sends a refugee's name and identity details, and a refugee who applied from 1945 may be living; answer the privacy gate in `SKILL.md` before you send the form.
 
 - **Take early-1939 camp lists from the Archives nationales, not the department.** The Pyrénées-Orientales departmental archives hold no nominative data for the crossing of January–February 1939 and the months after; their nominative data run from September 1939 to November 1942 [S24]. For Argelès, Sûreté nationale series F/7/14731 at the Archives nationales holds nominative lists and individual notices from 2 February 1939 to 17 May 1940, including the first arrivals of 31 January to 2 February 1939 [S25], [S28]. F/7/14732 covers Barcarès and F/7/14733 Saint-Cyprien and other Pyrénées-Orientales sites [S28]. These lists are partial [S25]: a miss in them is not a negative.
 - **Search the department's camp name database and its list of internee files,** both linked from its camp resources page [S24]. In the prefecture fonds, 109 W 330 holds nominative lists for the Argelès-sur-Mer camps, 1939–1940 [S25]. The Argelès camp memorial holds no internee lists itself [S25].

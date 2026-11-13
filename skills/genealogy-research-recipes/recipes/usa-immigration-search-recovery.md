@@ -462,6 +462,11 @@ checks, each from one family. A related filing is not guaranteed to sit next to 
 **Trigger:** a court packet is incomplete, an A-number appears, or the
 research has stalled at a generic USCIS request.
 
+**Privacy gate:** <!-- privacy-gate: request --> An A-File request to the USCIS
+Genealogy Program, or by FOIA for a higher-numbered file (step 2), sends the
+identifiers of a person who may be living; answer the privacy gate in `SKILL.md`
+first.
+
 1. Name the desired object: naturalization C-File, Alien File (A-File), or
    Alien Registration form (AR-2). These are different objects. NARA's overview
    places C-File naturalizations from 27 September 1906 through 31 March 1956;

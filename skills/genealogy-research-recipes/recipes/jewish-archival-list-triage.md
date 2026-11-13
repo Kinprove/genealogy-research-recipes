@@ -53,6 +53,12 @@ Ukrainian catalogue description may translate them, so test the Ukrainian equiva
 Preserve the exact query and searched catalogue scope. Older spelling or a generic title can hide a
 relevant list; a zero title hit does not establish that a fund has no such records.
 
+Rabbinate files need two stems, because Ukrainian and Russian spell the word differently: a Ukrainian
+description has «рабинат» where a Russian title has «раввинат». The Odesa regional archive's
+guide, for example, heads fond 39 «Одеський міський рабинат» and gives the Russian name «Одесский
+городской раввинат» beside it. [B7] Search both `рабин` and `раввин`; `рабин` also matches
+surnames such as Рабинович, so read each hit.
+
 Preserve the original Ukrainian title beside any translated display. A browser translation
 can turn a surname or locality into an ordinary word; it is not the literal catalogue text.
 An exact query can also miss an inflected heading: the [Ukrainian archive-wiki example](https://lostrussianfamily.wordpress.com/2024/02/24/wiki-site-details-records-of-ukrainian-archives-on-a-user-friendly-and-searchable-site/)
@@ -153,5 +159,5 @@ Deliver the case keys, exact titles, reasons, inspected locators and unresolved
 retrieval needs. Stop at the agreed catalogue or case scope; an uninspected reserve
 is a possible next source, not a completed search.
 
-This triage rubric is an investigator-created workflow. [Source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/311dea4a7f115010941467dc3f922b68c165198b/skills/genealogy-research-recipes/sources/jewish-archival-list-triage.md)
+This triage rubric is an investigator-created workflow. [Source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/43cf0d69573cd7b2a86f57cc6aa50406e93c8c8e/skills/genealogy-research-recipes/sources/jewish-archival-list-triage.md)
 separate it from provider facts and related verification methods.

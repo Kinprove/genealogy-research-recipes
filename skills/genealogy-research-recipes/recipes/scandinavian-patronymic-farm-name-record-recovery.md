@@ -79,9 +79,9 @@ Write down the parish, register volume and date range you browsed. If you get no
 
 First search the departure registers kept in the home country:
 
-- Denmark: the Copenhagen police registered emigrants' shipping contracts from 1868 to 1934, and the State Emigration Office from 1934. Rigsarkivet says the registers for 1868–1911 are name-searchable on the Danish Emigration Archives' site; that site's own year list runs to 1920, with 1912, 1917 and 1918 missing. [S23], [S24]
+- Denmark: Rigsarkivet says the police registered emigrants' shipping contracts from 1868 to 1959. Most emigrants left from Copenhagen and are in the Copenhagen police registers. From 1934 the State Emigration Office also checked the agents' contracts and received copies, while the Copenhagen police went on keeping the emigrant registers. The police registers it lists run to 1952; from 1941 they list emigrants together with other travellers. For 1953–1959 it lists only the office's copies. The registers from 1934 and the office's copies are not scanned, so a miss in the online material is not a negative for those years. The registers for 1868–1911 are name-searchable on the Danish Emigration Archives' site; that site's own year list runs to 1920, with 1912, 1917 and 1918 missing. [S23 @2026-11-13], [S24 @2026-11-13]
 - Norway: search the police emigrant protocols in [Use Norwegian censuses and emigrant protocols within their ranges](#use-norwegian-censuses-and-emigrant-protocols-within-their-ranges).
-- Sweden: search the port lists and moving-out registers described in [Swedish household reconstruction](scandinavian-parish-record-recovery.md#before-1869-look-for-emigrants-in-the-moving-out-registers). Emiweb's *Emigranter i svenska kyrkböcker* (formerly Emibas) indexes emigrants from parish registers. It was compiled systematically only for about 1836–1895, and not for Uppsala, Norrbotten or Stockholm counties. It is a subscription database. [S25]
+- Sweden: search the port lists, *Emigranter 1861–1940* and the moving-out registers described in [Swedish household reconstruction](scandinavian-parish-record-recovery.md#before-1869-look-for-emigrants-in-the-moving-out-registers). Emiweb's *Emigranter i svenska kyrkböcker* (formerly Emibas) indexes emigrants from parish registers. It was compiled systematically only for about 1836–1895, and not for Uppsala, Norrbotten or Stockholm counties. It is a subscription database. [S25 @2026-11-13], [S26 @2026-11-13]
 
 Record the register, years and index you searched. A miss is bounded by them.
 
@@ -130,6 +130,8 @@ A candidate matches only when several of these discriminators agree. Leave any c
 
 - Rigsarkivet has scanned every census of the kingdom up to 1940 on Arkivalieronline. Name-searchable transcriptions are complete for 1787, 1801/1803, 1834, 1840, 1845, 1850, 1860, 1880, 1885 (Copenhagen only) and 1901, and partial for other years up to 1930. They are in DDD (Dansk Demografisk Database, run by Rigsarkivet), which Rigsarkivet is moving into Søg i Samlingerne. A nil in a partly transcribed year is not a negative. Check each transcription against the scan. [S16], [S22]
 - Use the lægdsruller (military levying rolls) to bridge censuses for men. From 1788 to 1848 they enrolled males of the peasant class from birth, and from 1849 all men. They give the father's name (the mother's if the man was born outside marriage) and the man's moves while liable for service. Moves can be followed across the country from 1789. Before 1788 only scattered rolls survive. [S17]
+
+**Enrolment ages in the lægdsruller.** Rigsarkivet gives the entry ages as 0–36 for 1788–1808, 0–45 for 1808–1849, 15–38 from 1849, 19–38 from 1869 and 18–36 from 1912. So after 1849 a boy was not entered at birth: look for him in the rolls for the years when his age fell within his period's range. [S17]
 
 ## Rebuild siblings and marriages from the named parents
 

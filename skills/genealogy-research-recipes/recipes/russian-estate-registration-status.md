@@ -124,6 +124,8 @@ Revision lists will not contain the person under the new status. [S10] Use inste
 
 **Limits on substitute lists.** A participant expected community tax-allocation (раскладка) files to list at most heads of household, not full families. Do not promise family detail from them. [S1]
 
+**Read a substitute list's coverage and columns before you read an absence or an age.** A family list made for the call-up can list males only, and a tax list names only the people liable, so a wife or daughter missing from either says nothing about her death or about who the mother was. Take each age's reference date and each figure's meaning from the column headings, not from the year on the file's label; if the headings leave an age's reference date open, record no birth year from it. The full checks are in [volost and town administration records, step 6](russian-volost-town-administration-records.md#6-record-inspected-entries-as-household-observations).
+
 ## 5. Search where the family actually lived
 
 - Search the metrical books of the works, village and town parishes where the person lived or traded, not only the registering town. The threads document "[town] мещанин", "временно проживающий" and "[town] купецкий сын" entries for births, marriages, deaths and godparents in Nevyansk, Shuralinsky, Rezh, Polevskoy and other works parishes (GASO f. 6, various inventories). [S3], [S6], [S7]

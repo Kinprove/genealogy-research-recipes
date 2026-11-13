@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1099}
+router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1100}
 ---
 
 # Read deed content as dated relationship, probate, migration and parcel hypotheses
