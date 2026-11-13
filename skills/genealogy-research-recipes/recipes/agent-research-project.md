@@ -324,8 +324,7 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   whose pages you reopened.
 - When one field is empty for a whole imported group, check how the import was run before
   treating the gap as missing from the records: an option or a column mapping can drop a field for
-  everyone. In one import, about 2,900 descendants arrived without a surname because the import
-  tool had been run with an option that skips surnames.
+  everyone.
 - Treat a full re-import as destructive replacement. Keep a restorable copy, confirm the file's
   identity first, and never report zero people imported as success.
 
