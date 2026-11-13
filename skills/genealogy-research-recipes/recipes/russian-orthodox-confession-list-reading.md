@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": ["исповедная ведомость, и�
 privacy: "none"
 gates: []
 guardrails: [{"id": "RUSSIAN-ORTHODOX-CONFESSION-LIST-READING-01", "text": "The common errors are to read one year as a census, to turn an age into a birth year, to treat a household number as an identifier, and to treat a list entry as proof of a marriage, a parent or a death."}]
-handoff: ["evidence-proof-judgment", "old-believer-sectarian-record-recovery", "orthodox-clergy-record-recovery", "russian-household-list-transcription-audit", "russian-orthodox-metrical-book-recovery", "russian-revision-list-household-chaining"]
+handoff: ["evidence-proof-judgment", "old-believer-sectarian-record-recovery", "orthodox-clergy-record-recovery", "russian-household-list-transcription-audit", "russian-orthodox-metrical-book-recovery", "russian-revision-list-household-chaining", "russian-village-family-reconstitution"]
 checked: "2026-11-08"
 checked_basis: "opened 2026-11-08"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
@@ -31,6 +31,7 @@ Other recipes cover the overlapping steps:
 - **Machine-read search.** For Yandex full-text search of confession lists, use [metrical-book recovery, step 10](russian-orthodox-metrical-book-recovery.md#10-use-machine-read-full-text-search-for-leads-never-for-a-negative).
 - **The final ruling.** For same-name separation and the proof argument, use [evidence/proof judgment](evidence-proof-judgment.md).
 - **Auditing a transcription.** To check someone's transcription of these lists against the images, use [the household-list transcription audit](russian-household-list-transcription-audit.md).
+- **A whole village across years.** To align every household of a village across the lists and carry it into the metrical and civil-register years when a generation is missing, use [village family reconstitution](russian-village-family-reconstitution.md).
 
 ## Contents
 

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1097}
+router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1098}
 ---
 
 # Interpret a historical Canadian census entry as a de jure listing

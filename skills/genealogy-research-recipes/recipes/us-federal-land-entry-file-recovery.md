@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1100}
+router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1101}
 ---
 
 # Recover a U.S. federal land-entry case file behind (or without) a GLO patent
