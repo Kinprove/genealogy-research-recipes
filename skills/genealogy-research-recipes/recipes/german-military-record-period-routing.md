@@ -120,10 +120,15 @@ particular hospital stays [S8]. Select this route for the period and holding act
 confirmed by the custodian; it does not extend the Prussian loss findings to other armies.
 
 The surviving books of the Krankenbuchlager Berlin, which held the hospital books of
-Prussian soldiers, are in the Bundesarchiv (Abteilung PA). The depots for the other armies
-in Dresden, Stuttgart and Munich were destroyed in the Second World War, but the same Bundesarchiv page
-says the Munich books were moved to Berlin in 1964 [S12]. For a Bavarian soldier, ask the
-Bundesarchiv whether a hospital book survives before you record the route as destroyed.
+Prussian soldiers, are in the Bundesarchiv [S12 @2026-11-13]. Since 1 September 2025 its
+Abteilung Deutsches Reich in Berlin-Tegel answers all person-related enquiries about military
+personnel up to 1945, and from March 2026 the person-related holdings up to 1945, the Prussian
+army's hospital books (PH 22-II) among them, move there from Freiburg [S21 @2026-11-13]. The
+older page S12 still names the Abteilung PA. The depots for the other armies in Dresden,
+Stuttgart and Munich were destroyed in the Second World War, but the same older page says the
+books of later depots in Kassel and Munich were brought together in Berlin in 1964
+[S12 @2026-11-13]. For a Bavarian soldier, ask the Bundesarchiv whether a hospital book
+survives before you record the route as destroyed.
 
 1. Give the archive the independently supported name, birth details and any hospital,
    unit or date clues you have. Ask which surviving hospital book or associated finding

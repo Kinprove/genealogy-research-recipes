@@ -51,13 +51,17 @@ Gather these before searching:
 
 ## 1. Fix which register the law used on the event date (present-day Austria)
 
-This step does not cover Burgenland, which was Hungarian until 1921.
+This step does not cover Burgenland, which was Hungarian until 1921. Burgenland kept Hungary's state civil registers after 1921: obligatory civil marriage and the state register system stayed in force there as special federal law, and the marriage law of 1938 took the state registrars over as registry officials [S35]. Route a Burgenland event with [historic Hungary record routing](historic-hungary-record-routing.md), which gives the date those registers start.
 
 - **Before the cutover, search the confessional register for a member of a recognised church or religious community.** Austria had no state civil registration for the general population before 1938. The recognised churches and religious communities kept the vital registers on the state's behalf: Catholic, Protestant and Jewish (Israelitische Kultusgemeinde, IKG) registers among them [S2]. These are the official records for the period, not a substitute.
 - **For a person in no recognised church or religious community, search the civil register of the political authority.** Under the law of 9 April 1870, the Bezirkshauptmannschaft (district authority), or in a town with its own statute the municipal authority, handled their marriages and kept their birth and death registers [S13]. Someone who left a church without joining another confession is recorded there, not in a parish book.
 - **Use the cutover dates exactly.** Standesämter recorded marriages from 1 August 1938 and births and deaths from 1 January 1939 [S1], [S2]. A marriage in autumn 1938 is in the Standesamt; a birth in the same months is still in the confessional register.
 - **Search the old books at their holders, not at the Standesamt.** The law assigns the registers from before those dates to the churches, religious communities and authorities that hold them, which keep and continue them [S1].
 - **Search each spouse's confession for a mixed or changed-confession family.** One household can have events in two confessional series.
+
+**Route a military-register entry to the Austrian State Archives.** Section 62(2) of the Personenstandsgesetz 2013 gives the keeping and continuation of the military registers (Militär-Matriken, Heeres-Matriken) kept before 1 August 1938 to the Austrian State Archives (Österreichisches Staatsarchiv) [S37 @2026-11-13]. An event entered in one of those registers is held there, not by a parish or a registry office.
+
+**Date a register's legal standing by confession.** A diocesan archive guide gives these dates. Protestant pastors were allowed registers from 1782, at first without public standing and with duplicates sent to the Catholic parish priest; they kept independent registers from 1830, and extracts from them were declared legally valid in 1849. Jews were required to keep the three registers by the patent of 20 February 1784, and their registers were given legal evidentiary force in 1868 [S13]. For a Protestant event before 1830, check the Catholic parish as well.
 
 ## 2. In Vienna, fix the address before choosing the parish
 
@@ -82,8 +86,10 @@ This step does not cover Burgenland, which was Hungarian until 1921.
   | 1782–1868 | Anna L. Staudacher, *Jüdische Konvertiten in Wien 1782–1868* (Peter Lang, 2002) | about 3,000 adults baptised in Vienna [S9] |
   | 1868–1914 | Anna L. Staudacher, *"… meldet den Austritt aus dem mosaischen Glauben": 18000 Austritte aus dem Judentum in Wien, 1868–1914* (Peter Lang, 2009) | about 18,000 withdrawals [S8] |
 
-  Do not merge the two works into one range or count.
-- **Do not read a Catholic baptism or burial as proof of non-Jewish origin.** For a Catholic Viennese family with a Jewish DNA signal or an unexplained gap, search both works and the parish adult baptisms before you call the Jewish link unproven.
+  A third work indexes baptisms into the Protestant churches: Anna L. Staudacher, *Jüdisch-protestantische Konvertiten in Wien 1782–1914* (Peter Lang, 2004). Its publisher describes it as resting on a complete survey of Vienna's Protestant baptism registers, and counts about 6,000 Jews who became Protestant in Vienna between 1782 and the First World War [S36].
+
+  Do not merge the three works into one range or count.
+- **Do not read a Catholic baptism or burial as proof of non-Jewish origin.** For a Catholic Viennese family with a Jewish DNA signal or an unexplained gap, search all three works and the parish adult baptisms before you call the Jewish link unproven.
 
 ## 5. In the Czech lands, route by the regional archive
 
@@ -125,6 +131,8 @@ These steps cover a portal's limits on automated reading, an entry that is still
 - **For a Jewish family, search the Familiant books as well as the registers.** The National Archives has put online all 190 volumes of its [Books of Jewish Familiants](https://na.gov.cz/en/for-public/research-room/digital-research-room-archival-records-on-line/books-of-jewish-familiants), and has added Moravian Jewish family books from other archives [S31 @2026-11-09].
 
 - **Before the registers, use the 1651 list and the 1654 tax roll.** The list of subjects by faith (Soupis poddaných podle víry) gives each person's name, status, occupation, age and religion, but mostly leaves out children under twelve [S28]. The National Archives' [Berounsko edition](https://www.nacr.cz/wp-content/uploads/2019/01/Berounsko_cele_H_zamceno.pdf) is one regional volume, as a PDF [S28]. The tax roll (berní rula) names the holders of taxable town houses, subject farmsteads and free courts; it survives for most of Bohemia and was not compiled for the Cheb region [S29]. A person who held no such property will not be in it.
+
+- **In Moravia and Silesia, use their own cadastres; the 1651 list and the tax roll are Bohemian sources.** Moravia's counterpart to the tax roll is the lánové rejstříky (lán registers). They were revised in 1669–1679; the first version survives only in fragments, so the first complete Moravian cadastre is the so-called second lánové rejstříky. Silesia's is the Carolingian cadastre of 1721–1729, revised 1733–1739 [S29]. Inside Bohemia, check that the 1651 list survives for the region: the lists cover most of the Loket, Beroun, Rakovník, Čáslav, Hradec, Bydžov and Chrudim regions, and none survive in the central fond for the Slaný, Prácheň and Litoměřice regions, Kladsko or the Cheb region [S29]. A miss for a region without lists says nothing.
 
 - **To link generations, read the land books.** SOA Plzeň has published almost all its estate land books (pozemkové or gruntovní knihy) on Porta fontium: 6,083 volumes from 161 estate fonds, mainly for the Plzeň and Karlovy Vary regions, the oldest from 1558 [S30 @2026-11-09]. They name owners and often the relatives paid inheritance shares, and they record transfers, mortgages and marriage contracts [S30 @2026-11-09]. Elsewhere, check what the regional archive has put online.
 

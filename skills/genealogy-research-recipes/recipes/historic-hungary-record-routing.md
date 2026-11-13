@@ -62,7 +62,11 @@ Gather these before searching:
 - **For any other village in today's Croatia, check its 1895 county first.** Take the post-1895 series for Croatia-Slavonia from the Croatian archive guide, and search the parish books for every post-1895 event as well.
 - **Do not carry Austria's dates into Burgenland.** In Austria, civil marriage registers start on 1 August 1938 and civil birth and death registers on 1 January 1939 [S3]. Those are Austrian cutoffs. A Burgenland event from before the region passed to Austria happened in Hungary: route it by its 1895 county, as in step 1, to the church books before 1 October 1895 and the state civil registers from that date.
 
+**In Burgenland, expect state civil registers after 1921 as well.** When the region passed to Austria, Hungary's obligatory civil marriage and the state register system tied to it stayed in force there as special federal law, and the marriage law of 1938 took the state registrars over as registry officials [S19]. So do not stop a Burgenland search for a state register at 1921: the series runs on to the Austrian cutover described above.
+
 ## 3. Take custody from the successor state, not from Budapest
+
+**Inside today's Hungary, three holders share the registers.** Before 1895 the churches, more exactly the parishes, kept them; the national archive in Budapest borrowed those pre-1895 books and filmed them between 1960 and 1970 [S20 @2026-11-13]. Act XXIII of 1827 ordered church registers kept in two copies, the second going to the county or free royal town archive; state registers were also kept in two copies from 1895 to 1980, and the archives keep the second copies [S21 @2026-11-13]. So read "the MNL in Budapest" in the first rule below as the films of the pre-1895 church books, and look in the county archive for a second copy.
 
 - **Start with the archive of the state the village lies in today for local registers.** The MNL in Budapest holds them for today's Hungary, not for the whole kingdom.
 - **Search the 1828 national conscription in MNL series N 26, wherever the village lies today.** It covers the whole kingdom, Croatia, Slavonia and the Littoral included, but not Transylvania [S17].
@@ -71,6 +75,8 @@ Gather these before searching:
 - **Romania (Transylvania, Banat, Crișana, Maramureș):** civil-status registers pass to the county service of the Arhivele Naționale (National Archives) 100 years after they were created [S4]. Ask the county service for an older register. A younger one is still with the civil-status service.
 - **Treat a FamilySearch film as a copy of the successor-state holding.** Record which archive the collection page names as the source of the originals.
 - **For Croatia, Vojvodina, Transcarpathia and Burgenland, take the holder from the successor state's own archive guide.** Mark the route unconfirmed in the series row until that guide names the holder.
+
+**For a village now outside Hungary, also check the Hungarian archive of its 1895 county.** The Sopron archive lists, for Sopron county and the city of Sopron, second copies of the state registers of 1895–1921 from the places annexed to Austria in 1921 [S22 @2026-11-13]. Look for the same kind of holding in another border county's archive before you mark a route unconfirmed.
 
 ## 4. Search both name orders and every language form of the given name
 

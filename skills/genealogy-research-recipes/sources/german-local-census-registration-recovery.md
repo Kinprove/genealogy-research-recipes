@@ -23,6 +23,12 @@
 
 **Not verified:** current fee levels; current FamilySearch Catalog headings and holdings, including the Speyer church films. Some presenter figures and forum reports remain unconfirmed. Not every presenter remark is clear in the recordings.
 
+- **S10:** Rigsarkivet (Danish National Archives), [From the Danish Demographic Database to Search the Collections](https://en.rigsarkivet.dk/guide/from-the-danish-demographic-database-to-search-the-collections/) (guide, last updated 2026-05-01), read 2026-11-13.
+  - *Used for:* the Danish Demographic Database (ddd.dda.dk) being phased out; all its data moving to Search the Collections, whose interface is in Danish; most datasets expected there by 1 September 2026.
+
+- **S11:** FamilySearch Blog, [Using the Mecklenburg Census Records](https://www.familysearch.org/en/blog/using-the-mecklenburg-census-records), published 2012-05-11, read 2026-11-13.
+  - *Used for:* the Mecklenburg-Schwerin censuses of 1867, 1890 and 1900 online at FamilySearch in May 2012, with a searchable index for 1890 and 1900 and none then for 1867, which had to be searched by town. The collection pages answered a bot check on 2026-11-13, so present coverage was not verified.
+
 ## Credits
 
 - Kinprove original settlement- and registration-led associated-file retrieval synthesis from the attributed presentations S6–S7, without reproduced transcript passages, images or tables or a claim to their rights — FSL-1.1-MIT (kinprove-original)
@@ -31,4 +37,4 @@
 - BYU Family History Library, Roger Minert, Residential Registration in Germany, YouTube lecture, 2021-01-29 — Standard YouTube License; all rights reserved by the creator (adapted)
 - Ahnenforschung.net Forum, thread Erfahrungen mit Archiven, started 2009-09-09 — All rights reserved by the individual forum post authors (adapted)
 - Ahnenforschung.net Forum, thread Suche nach meinem Urgroßvater, 2026-05-12 — All rights reserved by the individual forum post authors (adapted)
-- Kinprove original procedural synthesis drawing on lectures S1-S3, forum threads S4-S5, the archive holdings guide and index page S8-S9; no additional current catalogue coverage is asserted — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis drawing on lectures S1-S3, forum threads S4-S5, the archive holdings guide and index page S8-S9, the Danish National Archives guide S10 and the FamilySearch blog post S11; no additional current catalogue coverage is asserted — FSL-1.1-MIT (kinprove-original)
