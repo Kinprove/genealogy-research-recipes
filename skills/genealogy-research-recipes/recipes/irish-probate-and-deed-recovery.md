@@ -45,11 +45,11 @@ Link out for the shared steps:
 
 ## 2. Read the calendar entry for what it is
 
-- **Read the entry as an index line, not the will.** A calendar entry summarises the grant: name, dates, grant type, last address, executor, estate value and issuing registry [S2]. It never gives the will's clauses.
+- **Read the entry as an index line, not the will.** A calendar entry summarises the grant: name, dates, grant type, last address, executor, estate value and issuing registry [S2 @2026-11-13]. It never gives the will's clauses.
 - **Never write beneficiaries, bequests or kin from a calendar entry.** Record the executor as executor only. A relationship in the entry's own wording can be copied as written.
 - **Do not read an entry as proof that the will survives.** The entry records the grant, not the document's survival; check the copy lanes in step 3.
-- **Do not send the search to NAI's genealogy microsite.** It held the 1858–1922 calendars and has been retired [S2]. Calendars for 1918–1922 can be consulted only onsite in the NAI Reading Room, and those for 1923–1982 online and onsite [S2]. Take the current online location for the earlier years from the NAI page itself.
-- **Use PRONI's will calendars database for the three northern district registries only.** It covers the Armagh, Belfast and Londonderry registries from 1858 to 1965 [S3], [S4]. A will from today's Northern Ireland proved in Dublin or in another district is not in it, so search the NAI calendars too. PRONI's printed calendars, consulted on site, run to 2009 [S4].
+- **Do not send the search to NAI's genealogy microsite.** It held the 1858–1922 calendars and has been retired [S2 @2026-11-13]. Calendars for 1918–1922 can be consulted only onsite in the NAI Reading Room, and those for 1923–1982 online and onsite [S2 @2026-11-13]. NAI says it is rebuilding its retired microsites and will restore digital access as the new systems come online, but it names no online copy of the 1858–1917 calendars yet [S2 @2026-11-13]. Until it does, read them in the Reading Room, where NAI lists the will calendars for 1858–1920 among the collections it shows while its microsites are offline [S21 @2026-11-13].
+- **Use PRONI's will calendars database for the three northern district registries only.** It covers the Armagh, Belfast and Londonderry registries from 1858 to 1965 [S3 @2026-11-13], [S4 @2026-11-13]. A will from today's Northern Ireland proved in Dublin or in another district is not in it, so search the NAI calendars too. PRONI's printed calendars, consulted on site, run to 2009 [S4 @2026-11-13].
 
 ## 3. Find a copy before you call the will lost
 
@@ -60,6 +60,8 @@ Link out for the shared steps:
 - **Before 1858, search the indexes.** The official pre-1858 wills and administrations were destroyed in 1922; look for copies in family, estate and personal papers and in solicitors' archives [S20]. Their indexes survive on microfilm at NAI [S2], and PRONI's Name Search holds the indexes to pre-1858 diocesan wills and administration bonds (step 6) [S11]. An index line gives you the testator and year, not the will. Record it as an index find, never as the will's content.
 - **Stop rule:** call a will lost only after the calendar, the will book or digitised copy for its registry and years, and, before 1858, both the NAI and PRONI indexes are each logged as searched. Follow any index entry that notes a surviving original or copy to its reference [S11]. Log a record you identified but did not consult as unconsulted, never as lost. Report every other gap by series.
 
+**Add NAI's own pre-1858 copies to the search.** NAI lists prerogative and diocesan copies of some wills, and indexes to others, for 1595–1858 among the collections that can be viewed in its Reading Room while its genealogy microsites are offline [S21 @2026-11-13]. Log them as searched before the stop rule calls a pre-1858 will lost.
+
 ## 4. Search the Registry of Deeds by grantor and by land
 
 - **Expect the Registry of Deeds from 1708.** The Registry was set up by an Irish Act of 1707, and the first memorial was registered on 29 March 1708 [S6]. It records deeds affecting unregistered property [S7]. Since 1 March 2023 it has been part of Tailte Éireann [S6], [S7].
@@ -69,6 +71,8 @@ Link out for the shared steps:
 - **Search the Lands Index by place, in its period's arrangement.** For 1708–1832, search by county, then townland; larger corporation towns are at the back of the county book, and cities such as Dublin, Cork and Waterford are listed separately. From 1833 to 1946, search by county, barony and townland, or for urban property by city, civil parish and street [S16]. Entries are alphabetised by the first letter only, so read the whole letter section. The index names the grantor's surname and covers 1708–1946, Dublin city and county to 1949 [S5], [S16].
 - **Add the Registry of Deeds Index Project as a lead.** It indexes all parties, witnesses and others named in the memorials it covers; use it to find the grantees and witnesses the Names Index leaves out [S8], [S9]. Its coverage depends on what volunteers submit [S8], so a miss there tests nothing.
 - **Cite the memorial number and every party as written,** then read the memorial itself before you use any detail from an index line. For the deed's family meaning, use the deed-clues recipe.
+
+**Where to read the deed indexes and memorials.** The Names Index, the Lands Index and the Transcript Books for 1708–1929 were microfilmed; copies of the films are at the National Library of Ireland and PRONI, and the films have been published on FamilySearch. All records from 1708 to 1969 can be viewed in person, by appointment, at Tailte Éireann's Henrietta Street office [S5 @2026-11-13].
 
 ## 5. Read a deed nil as weak evidence
 

@@ -16,6 +16,8 @@
 
 The candidate-row register, the separation of literal distinguishers from patronymic readings, the refusal to merge or rank by lore, the coding of revision changes as correction, transfer or unknown, and the structure of the deliverables are authored synthesis. The sources supply the worked examples and the presenters' statements, and each one is attributed to its presenter. The custody, online-access and census-arrangement facts come from the archives' own pages (S5–S11); the tithe and rental copies on FamilySearch, Ancestry and Findmypast come from their collection pages (S12, S13).
 
+- **S14:** National Archives of Ireland, [Accessing collections useful for genealogy](https://nationalarchives.ie/genealogy-website/8790-2/), read 2026-11-13. Used for: the genealogy microsites being offline, and the Tithe Applotment Books, 1823-37, among the collections that can still be viewed in the Reading Room.
+
 ## Credits
 
 - Genealogy Gems, Irish Genealogy Expert Research Strategies (YouTube, 2020-07-30) — YouTube Standard License; brief attributed quotation (quoted)
@@ -23,4 +25,4 @@ The candidate-row register, the separation of literal distinguishers from patron
 - Genealogy Gems, Episode 214 (YouTube, 2018-02-13) — YouTube Standard License; brief attributed quotation (quoted)
 - Lisa Lisson, Searching For Irish Ancestors (YouTube, 2021-01-20) — YouTube Standard License; brief attributed quotation (quoted)
 - Findmypast collection description quoted in S13 — Third-party text; short quotation with attribution, not relicensed (quoted)
-- Kinprove original procedural synthesis; worked examples and presenter statements cited as S1-S4 from Genealogy Gems and Lisa Lisson videos; custody and online access checked against archive and collection pages (S5–S13) — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural synthesis; worked examples and presenter statements cited as S1-S4 from Genealogy Gems and Lisa Lisson videos; custody and online access checked against archive and collection pages (S5–S14) — FSL-1.1-MIT (kinprove-original)

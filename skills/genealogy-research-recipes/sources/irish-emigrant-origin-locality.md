@@ -30,6 +30,8 @@ locality is not named here because its spelling is not confirmed. The census-sur
 pre-Tithe name-list facts come from S14–S19; reading a missing year or list as a survival or
 class gap is authored synthesis.
 
+- **S20:** National Archives of Ireland, [Search the Census (c19)](https://nationalarchives.ie/collections/search-the-census-c19/), read 2026-11-13. Used for: the pre-1901 census search form covering 1821, 1831, 1841 and 1851.
+
 ## Credits
 
 - Paraphrased factual summaries of examples given by Vaughn Johnson, Gillian and William (Denyse Allen episodes), Justin Houser and William Roulston, attributed inline as S1, S3, S4 and S7-S10 — YouTube Standard License (source); adaptation attributed inline (adapted)

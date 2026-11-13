@@ -14,6 +14,8 @@
 
 The stage worklist, the date-role rules, the jurisdiction bounding and the episode table are authored synthesis. The videos supply one worked chain for a single convict, together with the presenters' own descriptions of collections. Not verified: the details of the teaching case (trial date and court, arrival date, gaol admission age, pardon wording), the 1837–1842 partial index as a named archive index, the holdings of Findmypast, the vessel name (unclear in the audio), and any general rule linking pardons to marriage. No law on transportation, tickets of leave or pardons is adopted here. The routing by receiving colony rests on the custodians' own pages (S5 to S7); the HO 11, HO 10 and Digital Panopticon routes rest on S8 to S11.
 
+- **S12:** National Archives of Ireland, [Accessing collections useful for genealogy](https://nationalarchives.ie/genealogy-website/8790-2/), read 2026-11-13. Used for: the genealogy microsites being offline; the Chief Secretary's Office Convict Department Transportation Registers (Ireland to Australia), 1836-1857, Prisoners' Petitions and Cases (1788-1836) and Convict Reference Files (1836-1856, 1865-1868) among the collections that can be viewed in the Reading Room.
+
 ## Credits
 
 - Ancestry collection titles and the NSW indent column heading as shown in S2 and S3, checked against Ancestry's catalogue and the Digital Panopticon — Factual titles/labels; not subject to copyright (quoted)
