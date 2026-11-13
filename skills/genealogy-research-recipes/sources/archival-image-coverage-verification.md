@@ -70,9 +70,6 @@ The page × target ledger, field-specific adjudication, catalogue-conflict handl
 - **S49.** Качиний Інспектор (Duck Inspector), [search page](https://inspector.duckarchive.com/search), read 2026-11-12. Used for: "Пошук справ за назвою, реквізитами, автором, локацією, роками та тегами" (search cases by title, identifiers, author, location, years and tags), with filters for match threshold, years, identifiers, author, location and tags. No result count or cap is stated on the page.
 - **S50.** Vera Miller, Lost Russian & Ukrainian Family, [Vast database tracking Ukrainian archives going online improves with search engine](https://lostrussianfamily.wordpress.com/2026/02/07/vast-database-tracking-ukrainian-archives-going-online-improves-with-search-engine/), published 2026-02-07, read 2026-11-12. Used for: keyword searches translated into Ukrainian; sample searches including pogrom, nobility, list of students, Volksdeutsche and trade union; and result lists that seem not to show more than 50. A community blog post: the 50-result limit and the record types were not checked on the site, and its counts of FamilySearch cases are out of date.
 
-- **S51:** ARCHIUM inter-archive search, [Як шукати](https://searcharchives.net.ua/how-to-search/), read 2026-11-13. Used for: full-text search of the finding aids on ARCHIUM-based resources (fond titles, historical notes, fond and inventory annotations, file and document titles, index entries) and the option to show results in digitised files only.
-- **S52:** ARCHIUM inter-archive search, [Архіви](https://searcharchives.net.ua/archives/), read 2026-11-13. Used for: the archive resources it covers, among them ЦДАВО, ЦДІАК, ДАПО, ДАЛО, ДАКО and ДАКірО.
-
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

@@ -168,13 +168,6 @@ image URL/ordinal | inspected range | original reading | index discrepancy`.
 **Check:** The chain ends at the entry, with enough context to identify its register. An act
 number, printed page and viewer ordinal are separate coordinates.
 
-In civil-status acts from the Russian partition, the witnesses of the declaration (świadkowie) and the
-godparents (rodzice chrzestni) are separate roles, although the same people could fill both. In a 1913
-act shown by the State Archive in Kalisz, two men are named as witnesses and two other people as
-godparents; in an 1861 Evangelical act, two of the four godparents were also witnesses. [P13] Record
-each name with the role the act gives it, and do not infer godparenthood or kinship from witness
-status alone.
-
 ## 4. Classify the gap and choose another holding route
 
 If the central portal does not expose the image, check the holding archive's own digital portal.

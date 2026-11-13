@@ -63,8 +63,6 @@ S42–S55 were read on 2026-11-08 for the additions to steps 2, 6, 7 and 10. Nas
 
 - **S56:** Энциклопедический словарь Брокгауза и Ефрона, [«Пермская губерния»](https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D1%8F), on Wikisource, read 2026-11-12. Used for: Ekaterinburg, Shadrinsk and Krasnoufimsk among the twelve uezds of Perm guberniya («Из 12 уездов губернии Верхотурский, Екатеринбургский, Ирбитский, Камышловский и Шадринский … остальные — Пермский, Осинский, Оханский, Соликамский, Чердынский, Кунгурский и Красноуфимский»).
 
-- **S57:** Ukrainian Wikisource, [Архів:ЦДІАК/51/3-t12](https://uk.wikisource.org/wiki/Архів:ЦДІАК/51/3-t12), read 2026-11-13. Used for: TsDIAK f. 51 (Генеральна військова канцелярія), op. 3, vol. 12, with 62 regimental revisions of 1729–1764 (15 for the Pereiaslav and 12 for the Chernihiv regiment) and a Commons PDF linked from each file page.
-
 ## Credits
 
 - Kinprove original procedural synthesis drawing on Уральская генеалогия forum threads and one J-Roots forum thread, cited as S1–S25, with revision and 1897-census facts checked against an encyclopedia, archive pages and a 2019 article (S37–S41) — FSL-1.1-MIT (kinprove-original)

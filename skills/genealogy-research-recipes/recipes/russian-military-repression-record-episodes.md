@@ -523,11 +523,12 @@ review may take up to three months (art. 6). [H101] Internal-affairs bodies issu
 certificate or a refusal, which can be appealed in court (art. 7); prosecutors review court and
 non-judicial decisions and issue certificates or, where they find no grounds for rehabilitation, send
 the case with their conclusion to court (art. 8). [H102], [H103] Rehabilitation documents issued in a
-former Soviet republic or by a former USSR body are valid in Russia (art. 11). [H104] The federal
-archives' reference centre recommends the Interior Ministry's Main Information and Analytical Centre
-(ГИАЦ МВД) for certificates on repression, sentences served and rehabilitation, and the State Archive
-of the Russian Federation for residents of Moscow and Moscow oblast repressed in the 1920s–1950s.
-[H105]
+former Soviet republic or by a former USSR body are valid in Russia (art. 11). [H104]
+
+The federal archives' reference centre recommends the Interior Ministry's Main Information and
+Analytical Centre (ГИАЦ МВД) for certificates on repression, sentences served and rehabilitation, and
+the State Archive of the Russian Federation for residents of Moscow and Moscow oblast repressed in the
+1920s–1950s. [H105 @2026-11-13]
 
 **Family members have their own status.** Children who were with repressed parents, or with those
 who replaced the parents, in imprisonment, exile, banishment or special settlement, and children left
@@ -543,8 +544,8 @@ filtration files free of charge at the request of the rehabilitated, of people w
 file, and of their relatives and heirs (p. 15). Pages with third persons' personal data can be
 withheld, sealed in envelopes, or copied with those data removed (pp. 9, 14). A relative of a person
 who had a filtration file needs a notarised power of attorney from that person or the heirs (p. 6).
-[H108] The rehabilitated person and the heirs may also receive the manuscripts, photographs and other
-personal documents kept in the file (Law 1761-1, art. 11). [H104]
+[H108 @2026-11-13] The rehabilitated person and the heirs may also receive the manuscripts, photographs and other
+personal documents kept in the file (Law 1761-1, art. 11). [H104 @2026-11-13]
 
 A target can also appear in someone else's case. A sentence 'as ЧСИР' (member of a
 traitor-to-the-motherland's family) points to a relative's own entry and case number. That

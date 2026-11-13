@@ -206,9 +206,6 @@
   the statement that the site is still under development. It does not say how many Russians the
   lists include.
 
-- **H26:** Путеводитель Государственного архива Хабаровского края, [ф. Р-830 «Главное бюро по делам российских эмигрантов в Маньчжурской Империи»](https://guides.rusarchives.ru/node/19980), read 2026-11-13. Used for: the fond's dates (1932–1947) and size (56,850 units), and the 56,260 personal files of emigrants transferred from the regional security directorate in 1992–1993.
-- **H27:** Государственный архив Российской Федерации, [«Возвращенная история»](https://statearchive.ru/2044), read 2026-11-13. Used for: the collection of the Russian Foreign Historical Archive in Prague (1923–1945) held in GARF since January 1946.
-
 ## Credits
 
 - Vera Miller, Lost Russian & Ukrainian Family, posts of 2025-06-14, 2025-11-15 and 2025-12-13, cited as S20–S22 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)

@@ -1602,12 +1602,6 @@
   "checkpoint": "The custody and exile requests below ask for"
  },
  {
-  "recipe": "russian-military-repression-record-episodes.md",
-  "kind": "request",
-  "action": "apply to the internal-affairs bodies; for the other categories, apply to the prosecutor's office",
-  "checkpoint": "The custody and exile requests below ask for"
- },
- {
   "recipe": "scottish-parish-statutory-record-recovery.md",
   "kind": "request",
   "action": "For an entry still inside the closure period, use the search result's",
@@ -1630,18 +1624,6 @@
   "kind": "request",
   "action": "Ukrposhta delivery of the result is available only within Ukraine (Diia notice of 10.07.2026, checked 2026-11-02). From abroad, apply through a Ukrainian consulate",
   "checkpoint": "A Ukrainian civil-status request, even for an act over 75 years old, can name people who are still living"
- },
- {
-  "recipe": "soviet-personal-file-recovery.md",
-  "kind": "request",
-  "action": "name each record line you need",
-  "checkpoint": "A ZAGS search or repeat-document request can concern acts naming people who may still be living"
- },
- {
-  "recipe": "soviet-personal-file-recovery.md",
-  "kind": "request",
-  "action": "ask which copy was read and where the other copy is kept",
-  "checkpoint": "A ZAGS search or repeat-document request can concern acts naming people who may still be living"
  },
  {
   "recipe": "soviet-personal-file-recovery.md",
