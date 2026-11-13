@@ -231,8 +231,8 @@ the privacy gate in `SKILL.md` before you order it.
 
 **Isle of Man civil registers from 1878 are with the Civil Registry in Douglas.** The National
 Archives names the Douglas Civil Registry Office as the contact for them, and Manx National Heritage
-for the parish registers [S28 @2026-11-13]. Make any request through the order step below, after its
-privacy gate.
+for the parish registers [S28 @2026-11-13]. A recent entry can name people who are still living, so
+answer the privacy gate in `SKILL.md` before you ask the Douglas office for one.
 
 ## Order the certificate and close the packet
 

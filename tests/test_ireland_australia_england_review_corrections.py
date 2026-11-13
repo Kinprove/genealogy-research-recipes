@@ -93,13 +93,13 @@ class EnglishRecipeTests(unittest.TestCase):
         self.assertIn("the registry's total, not a count of London families [S13]", note)
         self.assertIn("wherever the family lived", note)
 
-    def test_isle_of_man_civil_registers_are_routed_to_douglas_behind_the_order_gate(self):
+    def test_isle_of_man_civil_registers_are_routed_to_douglas_behind_the_privacy_gate(self):
         text = recipe("england-wales-gro-index-recovery")
         section = between(text, "## Route Isle of Man and Channel Islands events", "## Order the certificate")
-        self.assertIn("The National Archives names the Douglas Civil Registry Office", section)
-        self.assertIn("[S28 @", section)
-        order = text[text.index("## Order the certificate") :]
-        self.assertIn("**Privacy gate:**", order)
+        note = section[section.index("**Isle of Man civil registers from 1878 are with the Civil Registry in Douglas.**") :]
+        self.assertIn("The National Archives names the Douglas Civil Registry Office", note)
+        self.assertIn("[S28 @", note)
+        self.assertIn("answer the privacy gate in `SKILL.md` before you ask the Douglas office for one", note)
 
     def test_irish_convicts_have_a_national_archives_of_ireland_route(self):
         text = recipe("convict-transportation-record-chain")
