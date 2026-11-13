@@ -44,9 +44,10 @@ the body that kept metrical books is covered by
 - 6\. Search by office, place and relation, not by surname
 - 7\. Read the subject's own books and the front matter first
 - 8\. Screen every hit before it becomes a person
-- 9\. Count witnesses, not copies
-- 10\. Test a lineage tradition before searching for a bloodline
-- 11\. Record locators and limit every negative
+- 9\. Classify what each statement rests on
+- 10\. Count witnesses, not copies
+- 11\. Test a lineage tradition before searching for a bloodline
+- 12\. Record locators and limit every negative
 - Output: a passage ledger
 - Prompt patterns
 - Failure modes
@@ -296,7 +297,63 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
   and 13 days from 1 March 1900 until the 1918 change. A book's printing year is not the date
   of a letter printed in it.
 
-## 9. Count witnesses, not copies
+## 9. Classify what each statement rests on
+
+One publication can mix several kinds of evidence within a few pages. A journal article can
+print facsimiles of letters that name a girl and her betrothed, the editor's identification of
+her father, an engagement season that the editor worked out and no letter states, and, pages
+later, the story of her death footnoted to a named chain of tellers. Summarised as one account,
+this reads as a documented family with dates. Taken apart, only the betrothal and the two given
+names rest on a document.
+
+1. Give every statement that you take from a rabbinic or Hasidic publication one of these
+   classes, and carry the class with the statement into every note, ledger row and tree entry
+   made from it:
+   - **first-hand statement**: what the author says about himself, his own family or events he
+     saw, as on his title page or in an autobiographical passage (section 7);
+   - **facsimile**: an image of a document printed in the publication, which you can read
+     yourself;
+   - **quoted document**: the publication's transcription or summary of a letter, a tombstone,
+     a register or a manuscript that it does not reproduce;
+   - **editor's identification**: the editor's or author's statement of who a person in a
+     document was, such as the name of a girl's father;
+   - **named oral chain**: a tradition credited to named tellers ("I heard from X, who heard it
+     from Y");
+   - **unattributed tradition**: a tradition with no named teller ("it is told", "it is known");
+   - **compiler's inference**: a date, a place or a link that the editor, author or compiler
+     worked out and that no quoted text states.
+2. Split a sentence that mixes classes. "The letters name her betrothed, the son of R. X of Y"
+   can rest on a facsimile for the two names and on the editor's identification for the father
+   and the town.
+3. Read a facsimile yourself before you accept the publication's transcription of it, and record
+   any difference between the two.
+4. A footnote sets the class only of the statement it supports. A story printed after a facsimile
+   does not take on the facsimile's class just because it names the same people.
+5. Keep the class apart from the compiler's own certainty words (section 10). An editor's
+   identification written without a doubt word still rests on the editor, not on a document.
+6. Treat a later correction as a lead to the earlier text, not as a report of it. When an article
+   says that an earlier publication named the wrong father, you know only that the earlier text
+   exists and that the later author disagrees with it. Do not paraphrase what the earlier text
+   said, or what the correction rests on, until you have read the earlier page. Until then,
+   record both as unknown and list the earlier page as the next check.
+7. Record an engagement as an engagement. A match, a written engagement agreement and a wedding
+   are separate events, each with its own date or none. A couple shown only as matched or engaged
+   was not yet married: add no marriage, no spouse link and no children of the union unless another
+   passage states them. If one of the couple died before the wedding, the record ends at the
+   engagement. The words for these stages are explained below this list.
+
+**Words for engagement and marriage.** Jastrow's dictionary gives חָתָן as "son-in-law;
+bridegroom" [S22] and כַּלָּה as "bride; daughter-in-law" [S23], so in an engagement letter these
+words can name a betrothed couple. It defines שִׁידּוּךְ as "negotiations preliminary to
+betrothal" [S24]. אירוסין (erusin) historically names the first part of marriage itself: a
+betrothed couple are regarded as husband and wife for legal purposes and need a divorce to part
+[S25]. Since the Middle Ages the betrothal has customarily been performed during the wedding ceremony,
+an old custom formalises an engagement by signing a tena'im (תנאים) document, and in modern
+Hebrew אירוסין means an engagement [S25]. In a traditional wedding the marriage contract (כתובה)
+is signed by two witnesses and read aloud under the wedding canopy [S26]. Read which stage a
+passage describes before you write it into a tree.
+
+## 10. Count witnesses, not copies
 
 - Treat these as one witness: reprints; a new OCR of the same scan; a translation (where a
   translator expands an acronym into a name, that is the translator's reading); Hebrew and
@@ -305,6 +362,9 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
 - A book that cites an online tree is circular when you compare it with that tree.
 - An epitaph is a contemporary witness, often to the father's name. Get the stone or a
   photograph of it, because books re-copy epitaphs with errors.
+- A compilation's quotation of a tombstone, a letter or a manuscript is the compiler's reading
+  of it, not a second reading of the original. A cropped or contrast-enhanced copy of one scan
+  is still that scan.
 - Carry a compiler's doubt words into your notes verbatim: אולי (perhaps), כנראה
   (apparently), יש אומרים (some say), כן שמעתי (so I heard). Classify each compiled claim as
   a statement, a hypothesis, hearsay or a disagreement, and check that its footnote really
@@ -314,7 +374,7 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
 - Check every book ID or catalogue number supplied by a language model against the title on
   the library's own page before you use it.
 
-## 10. Test a lineage tradition before searching for a bloodline
+## 11. Test a lineage tradition before searching for a bloodline
 
 1. Ask "through whom?". Look for discipleship wording ("drew close to", "was among the
    followers of") as well as kinship wording.
@@ -337,7 +397,7 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
    [Jewish genealogy conditional hypotheses](jewish-genealogy-conditional-hypotheses.md); for
    the final judgment, use [evidence and proof judgment](evidence-proof-judgment.md).
 
-## 11. Record locators and limit every negative
+## 12. Record locators and limit every negative
 
 1. Record the book ID, edition, viewer image number and printed page or siman separately.
    Numbering can restart inside one binding, the offset between image and printed page can
@@ -359,6 +419,7 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
 | Locator | Viewer image, printed page or folio, siman or section |
 | Text | The quoted words that name the person and each relation |
 | Reading | Stated or inferred; office; place; era marker |
+| Basis | First-hand statement, facsimile, quoted document, editor's identification, named oral chain, unattributed tradition or compiler's inference (section 9) |
 | Witness group | The earliest text this one depends on |
 | Next check | The passage or record that would confirm or refute it |
 
@@ -374,6 +435,11 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
   that would confirm or refute it."
 - **Witnesses:** "These sources state [fact]. Group them by the earliest text each depends
   on."
+- **Basis:** "List each statement this publication makes about [person] with its locator. For
+  each, say whether it rests on the author's first-hand statement, a facsimile printed here, a
+  quoted document, the editor's identification, a named oral chain, an unattributed tradition or
+  the compiler's inference.
+  Report an engagement as an engagement, not a marriage."
 
 ## Failure modes
 
@@ -382,6 +448,10 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
 - Reading discipleship, a court's following or a marriage into the household as descent.
 - Treating an index entry, an OCR hit, a catalogue record or a translation as the text.
 - Counting a reprint, a translation or a compilation as an independent witness.
+- Summarising a publication as one account, so that an editor's identification or an oral
+  chain borrows the weight of a facsimile printed beside it.
+- Paraphrasing an earlier publication from a later publication's correction of it.
+- Writing an engagement into a tree as a marriage.
 - Reading חותן as חתן, or an honorific "brother" as a sibling.
 - Reading an honorific such as מו"ה or הר"ר as proof of a rabbinic office.
 - Dating a letter by the book's printing year, or converting a Hebrew year without its month.

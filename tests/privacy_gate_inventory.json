@@ -1316,6 +1316,12 @@
  {
   "recipe": "italian-stato-civile-parish-record-recovery.md",
   "kind": "request",
+  "action": "Ask the Army's Centro documentale for a service sheet not yet transferred",
+  "checkpoint": "A request to a Centro documentale for a service sheet"
+ },
+ {
+  "recipe": "italian-stato-civile-parish-record-recovery.md",
+  "kind": "request",
   "action": "Ask the Ufficio dello Stato Civile for a vital act",
   "checkpoint": "A request to a comune office can name"
  },

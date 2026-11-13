@@ -151,6 +151,8 @@ Keep every field as written, with the leaf (л./об.) for each household. Do no
 
 ## 5. Test formulas, placements and ages before using them
 
+**Take each age column's reference date from its heading, not from the year on the file's label or cover.** A heading can reckon ages at the previous revision, at an additional list or at another named year. Copy the heading's wording with the ages. If the headings leave the reference date open, copy the ages as written and derive no birth year from them. Once the heading settles that a column gives the current age, compute from the compilation date below.
+
 - **Boilerplate origins.** In the 1743 Katai tales almost every entry repeats "written in the poll census at village X, native of the same". A participant checked these against the 1719 RGADA census book. Several men had actually been counted in other villages, and some surnames were absent in 1719 altogether. Treat the formula as a claim and test each household against the earlier census. [S11], [S10]
 - **Official registration versus residence.** A participant found that the 1763 revision of Katai ostrog (cited as RGADA f.350, op.2, kn.904) entered some branches at their former settlements, although the 1743 census and later records placed them elsewhere. Other participants gave two more cases. In the first, an 1834 tale notes a family "living there for many years" (проживает с давних лет), and a 1790 confession list already shows them at the new place. In the second, a family was returned to its official place. Date residence from confession lists. [S23]
 - **Compilation date.** Compute birth estimates from the actual compilation date for that place, not from 1 January of the nominal year:
@@ -190,6 +192,8 @@ Keep every field as written, with the leaf (л./об.) for each household. Do no
   The household cards and fragmentary householder lists of the 1920 agricultural census are a separate route: NA RB f. Р-472, op. 1 (Central Statistical Administration of the Bashkir ASSR). [S51 @2026-11-08]
 
 ## 7. Bound every absence
+
+Start with the list's own coverage. From its title and headings, name whom it leaves out by construction: women in a male-only revision (step 3) or in a male-only family list made for the call-up, and people registered in another society or outside the taxable population. A wife or daughter missing from a male-only list was not counted, so her absence is no evidence of her death or of who the mother was. The checks below apply only to people the list was made to include.
 
 A person, household or village that is not found counts only as a gap with stated bounds. Never record it as a death, a non-existent village or a lost revision until you have checked all of these:
 

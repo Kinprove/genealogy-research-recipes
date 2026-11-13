@@ -65,6 +65,8 @@ Gather these before searching:
 - **Do not expect a register for every town.** Smaller towns were outside the 1841 decree [S3]. Read the inventory before you request a volume, and record a missing series as a coverage gap.
 - **For an event from 1871, order the certificación literal (literal certificate).** It is the full copy of the entry, not the extract. Extract the fields from it with the Hispanic register recipe.
 
+**Andorra had no civil register before 1997.** The Llei del Registre Civil, published on 14 August 1996, created the Registre Civil del Principat d'Andorra and came into force on publication [S40]. It registers events from the 180th day after that, in February 1997; for earlier events the church registers are the record, and their keepers may certify entries from them [S40]. Search an earlier Andorran event in the parish books (step 4).
+
 ## 2. Find the diocese that held the parish on the event date
 
 **Privacy gate:** <!-- privacy-gate: request --> A letter to a diocesan archive with names, parish and date (the last step in this list) can concern people who may be living; answer the privacy gate in `SKILL.md` before you send it.
@@ -84,8 +86,8 @@ Gather these before searching:
 
 ## 4. For Andorra, ask the holders and widen to the Catalan valleys
 
-- **Ask the parish and the Arxius Nacionals d'Andorra where the parish books can be consulted.** Record which holder answered and what form (original or copy) they hold.
-- **Check the Urgell diocesan spreadsheet for the parish** [S6], and record whether it is listed.
+- **Ask the parish and the Arxiu Nacional d'Andorra [S42 @2026-11-13] where the parish books can be consulted.** Record which holder answered and what form (original or copy) they hold.
+- **Check the Urgell diocesan spreadsheet for the parish** [S6 @2026-11-13], and record whether it is listed. It lists the Andorran parishes with books of 1863–1870 only [S6 @2026-11-13]. A year missing from it is not a lost book. The Arxiu Nacional d'Andorra's 1993 inventory of the La Massana parish archive (only the opening section was read) says that Urgell's 1972 transfer of parish books over 100 years old to the diocesan archive left out the Andorran parishes, because their books served as the civil register, and that the Andorran archives service took on the description, restoration and microfilming of the parish archives in 1980 [S43 @2026-11-13].
 - **Widen a family "from Andorra" to the neighbouring Catalan valleys.** Search the Pallars and Alt Urgell parishes and the Catalan archives as well. Add accent and B/V spelling lanes.
 
 ## 5. Find residence and household evidence: padrones, electoral rolls and tax lists
@@ -97,23 +99,23 @@ Gather these before searching:
 
 ## 6. Search the Catastro de Ensenada only where it was taken
 
-- **Search it only for the Crown of Castile.** The survey began with the royal decree of 10 October 1749 and was almost finished by 1756 [S15], [S17]. It covered the localities of the Crown of Castile [S15]. Do not search it for a place outside that Crown.
-- **Expect only the town-level answers on PARES.** The PARES Catastro portal publishes the Simancas copy of the Respuestas Generales (the town-level answers) [S15], [S16].
-- **Look for the household-level books in the Archivo Histórico Provincial.** The original catastro documentation is kept in the Archivos Históricos Provinciales, and some towns kept copies [S16]. Some has been lost: most of the Asturian catastro burned with the Oviedo Treasury delegation in 1934 [S16].
+- **Search it only for the Crown of Castile, and not for the Canary Islands, the Basque provinces or Navarre.** The survey began with the royal decree of 10 October 1749 and was almost finished by 1756 [S15 @2026-11-13], [S17 @2026-11-13]. It covered the localities of the Crown of Castile [S15 @2026-11-13], except the Canary Islands and the exempt territories, the Basque Country and Navarre [S41 @2026-11-13].
+- **Expect only the town-level answers on PARES.** The PARES Catastro portal publishes the Simancas copy of the Respuestas Generales (the town-level answers) [S15 @2026-11-13], [S16 @2026-11-13].
+- **Look for the household-level books in the Archivo Histórico Provincial.** The original catastro documentation is kept in the Archivos Históricos Provinciales, and some towns kept copies [S16 @2026-11-13]. Some has been lost: most of the Asturian catastro burned with the Oviedo Treasury delegation in 1934 [S16 @2026-11-13].
 - **A miss in the Respuestas Generales says nothing about a household.** They do not list households.
 
 ## 7. Search notarial protocols by notary, not by client
 
-- **Find the notaries who worked in the district in that year, then search their protocols.** A protocol is one notary's ordered collection of deeds for one year [S18], so do not expect a client-name index.
+- **Find the notaries who worked in the district in that year, then search their protocols.** A protocol is one notary's ordered collection of deeds for one year [S18], and its index lists that notary's grantors only [S18], [S21]. Find the notary before you look for the name.
 - **Route by the protocol's age:**
 
   | Age of the protocol | Holder | Access |
   | --- | --- | --- |
-  | Under about 25 years | the notary who now holds that notaría (notary's office), as keeper of its protocols | copies for applicants with a legitimate interest [S18] |
-  | About 25 to 100 years | the Archivo General de Protocolos of the regional Colegio Notarial | the notary-archivist issues copies to applicants who prove a legitimate interest [S18], [S19] |
-  | Over 100 years | the historical section, usually in the Archivo Histórico Provincial (or a historical protocol archive, such as Madrid's) | archive consultation rules [S20], [S21] |
+  | Under 5 years | the notary who now holds that notaría (notary's office), as keeper of its protocols [S18 @2026-11-13] | copies from that notary, for a party to the deed or an applicant with a legitimate interest [S18 @2026-11-13] |
+  | 5 to 100 years | the Archivo General de Protocolos of the regional Colegio Notarial [S18 @2026-11-13] | copies from the notary in charge of the archive, for applicants who prove a legitimate interest [S18 @2026-11-13], [S19 @2026-11-13] |
+  | Over 100 years | the historical section: a Colegio's historical protocol archive or the Archivo Histórico Provincial [S20 @2026-11-13], [S21 @2026-11-13] | archive consultation rules; certified copies only from the notary-archivist [S20 @2026-11-13], [S21 @2026-11-13] |
 
-- **Treat the 25-year line as a regional statement.** It rests on the Asturias Colegio's own page [S19]; check the regional Colegio's page for its threshold.
+- **Expect older guides to give 25 years.** From 1862 until 8 November 2023 the law sent protocols to the general archive once they were more than 25 years old [S45 @2026-11-13]. Since 9 November 2023 the Colegio's archive keeps protocols at least five years old, and electronic files reach it after 25 years [S18 @2026-11-13]. A Colegio's own page can still give the old line: the Asturias Colegio says its archive holds the Oviedo district's protocols over 25 years old [S19 @2026-11-13].
 - **Transfer dates vary, so check the archive's date range** before you write to it.
 
 ## 8. Widen beyond the earliest parish book: pedigree proofs and university files
@@ -145,8 +147,9 @@ Gather these before searching:
 
 When the arrival record lacks the village, search the Spanish side:
 
-- **Shipping agents' boarding books:** the Fondo Pérez y Cía., Santander to America, 1900–1960, held by the Biblioteca de la Universidad de Cantabria and searchable on its UC ReCrea platform by name, destination, ship and departure date [S39].
-- **Emigrant societies:** the Archivo de Indianos (Colombres) holds fonds of Asturian emigrant societies in America, among them the Centros Asturianos of Buenos Aires and Mexico [S38].
+- **Shipping agents' boarding books:** the Fondo Pérez y Cía. (the Compañía Trasatlántica's boarding-ticket books for passengers from Santander to America, 1900–1960), held by the Biblioteca de la Universidad de Cantabria [S39 @2026-11-13]. The library's database searches them by name, surname, destination, ship and departure date, and the digitized books are on its ReCrea site [S39 @2026-11-13]. The surviving books leave gaps, among them 1912–1916 and 1932–1944 [S39 @2026-11-13].
+- **Emigrant societies:** the Archivo de Indianos (Colombres) gathers documentation from emigrant societies [S38 @2026-11-13]. The Centros Asturianos of Buenos Aires and Mexico, among others, helped build its collection [S38 @2026-11-13].
+- **Passenger and emigrant lists from other archives:** the PARES Movimientos Migratorios search takes a name, a birth year and a place and year of departure or arrival [S44 @2026-11-13]. It covers series such as lists of passengers and emigrants, licences to sail to Cuba and Puerto Rico, and records from Montevideo, Mexico, the Dominican Republic and the Rosario consulate [S44 @2026-11-13].
 - **The home town's archive:** read its inventory for any series that records departures.
 
 ## Close with a routing packet
