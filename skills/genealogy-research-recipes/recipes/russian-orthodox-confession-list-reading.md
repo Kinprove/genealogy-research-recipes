@@ -45,7 +45,7 @@ Other recipes cover the overlapping steps:
 
 ## 1. Identify the list and the year it describes
 
-- **Before 1737, expect a simpler list.** Decrees of 1716 and 1718 required lists of those who confessed, those who did not and schismatics. [S2] A 1722 decree ordered books arranged by house, with space left under each house for arrivals and departures. [S1], [S6] Guides date that decree differently: 28 February [S1], 7 March [S8] or 16 July [S2], [S6]. Check the Полное собрание законов before you cite a day.
+- **Before 1737, expect a simpler list.** Decrees of 1716 and 1718 required lists of those who confessed, those who did not and schismatics. [S2] A Synod order of 28 February 1722 required books of parishioners of both sexes arranged by house, with space left under each house for arrivals and departures, and the Senate and Synod reissued it jointly on 16 July 1722. [S1], [S2], [S6], [S40], [S41] A separate Synod decree of 7 March 1722 told dioceses to report those who had not confessed and the schismatics, and to send the fines to the Synod. [S41] One guide dates the lists from this decree. [S8]
 - **Early lists can leave out children.** A 1725 Vologda list says communion was taken "кроме малолетних, которые до десяти лет". [S3] Do not read a child's absence from such a list as a sign that the child did not exist.
 - **From 1737, expect household lists with ages.** The decree of 16 April 1737 ordered lists of all ranks and both sexes, "от престарелых до сущаго младенца", arranged "по чинам и домам", with each person's age. [S1]
 - **The form still changed after 1737.** Metrical tables and the priest's covering report were added within a few years. "Разночинцы" left the lists in 1841 and "дворовые" after 1861. [S2] The Synod approved a new form on 15 October 1846. [S1] Read the headings of your own list.
@@ -132,7 +132,7 @@ Set up one table per household, with one row per person and one column per list.
 
 ## 5. Check the household against revision lists and metrical books
 
-- **Know what each source can add.** Confession lists cover non-taxpaying groups that the revisions do not, and they list women from 1737. [S2], [S5] Whether a revision lists women depends on the revision: the 1st, 2nd and 6th (1811) recorded men only. [S7] For the others, use [revision-list household chaining](russian-revision-list-household-chaining.md). Revision lists give the household's official registration and the previous revision's age. Metrical books date individual events.
+- **Know what each source can add.** Confession lists cover non-taxpaying groups that the revisions do not. [S5] They list women too: the 1722 orders already required books of both sexes [S1], [S6], [S40], [S41], and Vologda books from 1718 name every member of the household, men and women. [S3] Whether a revision lists women depends on the revision: the 1st, 2nd and 6th (1811) recorded men only. [S7] For the others, use [revision-list household chaining](russian-revision-list-household-chaining.md). Revision lists give the household's official registration and the previous revision's age. Metrical books date individual events.
 - **Bridge the gap between revisions.** A participant reported reconstructing Southern Trans-Urals male lines from 1850 back to the 1680s as follows: [S22]
   1. Chain the revisions with the 1774–1830 confession lists (in the Orenburg archive).
   2. Use the 1795 revision, which carries the 1782 figures as well, to link to the 1719 lists of the Iset slobodas.
