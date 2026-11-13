@@ -76,6 +76,8 @@ Record three things, each with the entry that supports it. If one is uncertain, 
 | Riksarkivet Värnpliktiga database | Conscripts born about 1888-1921, from enrolment to discharge [S19] | other birth years |
 | ArkivDigital boatswain active list | Per-man *båtsman* books of the late 1800s, more than 4,600 men born 1816-1877 [S17] | earlier *båtsmän*, other navy rolls (step 8) |
 
+**Conscription cards: an archive, not a database.** Riksarkivet's military page lists the cards in the "Riksarkivet Värnpliktiga database" row as the archive *Värnpliktskort. Stamkort och läkarhandlingar, avregistrerad*, for conscripts born about 1888-1921. Search Riksarkivet by that title. [S19 @2026-11-13]
+
 Record the index, the fields you searched and its coverage in the routing row. A miss outside these limits is *not searched*, not *absent*.
 
 ## 3. Work the general muster rolls as dated snapshots, not a career file
@@ -89,6 +91,8 @@ Record the index, the fields you searched and its coverage in the routing row. A
 - **From 1860, search the home parish's death register first.** From 1860 a death was to be entered in the parish where the man was last registered, and also in the parish of burial if that was another parish [S31].
 - **Find the man in the right copy.** Copies of each roll went to the War Office (now Krigsarkivet), the county governor (now the regional archives) and the regiment [S20]. ArkivDigital indexes the Krigsarkivet series; other copies are not in the index [S5].
 - **After 1883.** The general muster rolls end in 1885: no more were made from 1885 until the allotment system was wound up in 1901 [S33], and the Krigsarkivet series runs, with a few exceptions, to 1885 [S20]. The indexed part ends in 1883 [S17]. For 1884-1901 use the regiment's surviving rolls, including *stamrullor* from 1885 at enlisted regiments and from 1889 at allotted regiments [S20], [S33]. They sit in each regiment's archive and are not indexed [S5].
+
+**War years: also search *Rullor 1724–*.** Besides the rolls of 1620-1723, Riksarkivet's Arméns rullor database has the series *Rullor 1724–*: rolls of Swedish army units from 1724 to about 1865. Riksarkivet says this series holds almost the same information as the general muster rolls. Those are often incomplete in war years, so this series is often the only place to find a man, especially in the war of 1808-1809. Search it by regiment and year before you read a war-year gap as a negative. [S34 @2026-11-13]
 
 ## 4. Before 1683 and in the Great Northern War: browse by regiment and year
 

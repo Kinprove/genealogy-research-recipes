@@ -42,7 +42,11 @@ def main():
             [npm, "pack", "--ignore-scripts", "--json", "--pack-destination", str(home)],
             cwd=ROOT, stdin=subprocess.DEVNULL, capture_output=True, text=True, check=True, timeout=120,
         )
-        archive = home / json.loads(packed.stdout)[0]["filename"]
+        # npm 11 prints a list of packed entries; npm 12 prints an object keyed by package name.
+        entries = json.loads(packed.stdout)
+        if isinstance(entries, dict):
+            entries = list(entries.values())
+        archive = home / entries[0]["filename"]
         run_openclaw("plugins", "install", str(archive), "--force", "--accept-capabilities")
 
         report = openclaw_json("plugins", "inspect", PLUGIN, "--runtime")
@@ -50,7 +54,21 @@ def main():
         manifest = json.loads((ROOT / "openclaw.plugin.json").read_text(encoding="utf-8"))
         assert plugin["format"] == "openclaw", f"Loaded as a {plugin.get('bundleFormat')} bundle, not a native plugin"
         assert plugin["status"] == "loaded" and plugin["imported"], plugin
-        assert not report["diagnostics"], report["diagnostics"]
+        # OpenClaw 2026.11 cannot verify the source of any third-party archive install and warns
+        # about it on every load. Accept only that warning; any other diagnostic still fails.
+        trust = plugin["trust"]
+        unverified_archive = trust["reason"] == "provenance-invalid" and trust["installSource"] == "archive"
+        diagnostics = [
+            entry
+            for entry in report["diagnostics"]
+            if not (
+                unverified_archive
+                and entry["level"] == "warn"
+                and entry["pluginId"] == PLUGIN
+                and entry["message"].startswith("OpenClaw can't verify where this plugin came from.")
+            )
+        ]
+        assert not diagnostics, diagnostics
         assert plugin["version"] == manifest["version"], plugin["version"]
 
         listed = {item["name"]: item for item in openclaw_json("skills", "list")["skills"]}

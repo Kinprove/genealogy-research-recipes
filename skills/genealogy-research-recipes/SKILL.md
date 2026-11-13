@@ -663,7 +663,7 @@ live control.
   research notes in Markdown or Obsidian; delegating genealogy reading to sub-agents; carrying a
   correction through notes and a tree; research vault; Obsidian genealogy notes; the agent says
   saved or done; sub-agent genealogy research; long genealogy project; keep research across
-  sessions; correct a claim everywhere
+  sessions; correct a claim everywhere; fill empty surname fields in a tree
   *Core guardrail:* Treat a model-written summary, tag or "key insight" as a pointer. Open the
   source before writing a claim.
 

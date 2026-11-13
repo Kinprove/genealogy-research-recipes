@@ -97,6 +97,9 @@ class ClawHubPackageTests(unittest.TestCase):
             )
             self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
             packages = json.loads(result.stdout)
+            # npm 11 prints a list of packed entries; npm 12 prints an object keyed by package name.
+            if isinstance(packages, dict):
+                packages = list(packages.values())
             self.assertEqual(len(packages), 1, packages)
             package = packages[0]
             self.assertEqual(package["name"], "@kinprove/genealogy-research-recipes")
