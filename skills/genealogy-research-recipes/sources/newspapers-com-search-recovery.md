@@ -99,6 +99,12 @@ Internet Archive capture named:
 - **S57:** [Historical Newspapers of South Carolina, issue of 13 January 1841, page 4 (OCR)](https://historicnewspapers.sc.edu/lccn/sn85042795/1841-01-13/ed-1/seq-4/ocr), read 2026-11-08. Used for: clean reading of the twice-a-month, three-month publication formula in another Cheraw commissioner's notice.
 - **S58:** [Hurt v. Hurt, 27 S.C. Eq. 114 (S.C. Ct. App. 1853)](https://hallapproved.com/sc/cases/appeals/1853/7467402/), read 2026-11-08. Used for: three months' newspaper publication standing in place of service.
 
+### Raid-report sources
+
+- **S59:** Thomas MacEntee, MyHeritage Knowledge Base, [Finding Your LGBT Ancestors](https://education.myheritage.com/article/finding-your-lgbt-ancestors/), undated, read 2026-11-13. Used for: police raids on gay bars that often led to patrons' names, addresses and occupations being published in the newspaper, and arrests reported as front-page news in some communities. A community guide; it names no particular raid or newspaper.
+- **S60:** Wikipedia, [Fun Lounge police raid](https://en.wikipedia.org/wiki/Fun_Lounge_police_raid), revision of 2026-08-21, read 2026-11-13. Used for: the raid of 25 April 1964 near Chicago and its 109 arrests, aged 19 to 56; the *Chicago Daily News* partial list, with almost every name carrying age, address and place of work, supplied by the police; other papers printing teachers' names and addresses; earlier Chicago raids from 1949 reported in local papers; and the dismissal of the charges against 99 of those arrested on 15 May 1964. An encyclopedia article based on published histories; the 1964 newspapers themselves were not read.
+- **S61:** Chris Johnson, Washington Blade, [Before Stonewall, newspapers complicit with police in gay bar raids](https://www.washingtonblade.com/2019/06/25/before-stonewall-newspapers-complicit-with-police-in-gay-bar-raids/), 2019-06-25, read 2026-11-13. Used for: next-day newspaper reports naming people caught in raids before 1969, and the journalism historian Edward Alwood's statement that men in Washington, D.C., had their names, ages and street addresses printed. Its Washington examples are arrests in a park and elsewhere, not a named bar raid.
+
 ### Platform recheck, 2026-11-12
 
 Rechecked 2026-11-12: S10, the Ancestry Newspapers.com Collections FAQ, edited 2026-08-04, was
@@ -131,4 +137,5 @@ sources support methods, history and examples and were not re-read.
 ## Credits
 
 - Judy G. Russell, The Legal Genealogist blog, posts cited as S55 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Thomas MacEntee, MyHeritage Knowledge Base, Finding Your LGBT Ancestors, cited as S59 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
