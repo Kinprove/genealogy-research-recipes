@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1098}
+router: {"tier": "pointer", "group": "Censuses, tax, land and property", "order": 1099}
 ---
 
 # Read tax rolls as a liability-bounded annual series
