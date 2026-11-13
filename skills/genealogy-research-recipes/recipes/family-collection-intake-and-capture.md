@@ -88,7 +88,7 @@ If a known photo, document or recording is missing from the expected person's vi
 
 Contact the receiving society or archive before handing anything over, and record what it actually agrees to take, including limits on scope. Expect duplicates of what it already holds to be refused. Material that nobody has accepted stays unresolved. A named recipient alone does not establish an arranged transfer or legal authority [S11].
 
-In the United States, a signed deed of gift transfers ownership of the physical or digital items. Copyright passes only by a signed written transfer, such as a clause in the deed; a donor who keeps the copyright can grant a separate licence instead. A donor can transfer only the rights the donor holds: the copyright in a studio portrait, or in letters other people wrote, may not be the family's to give [S22], [S23]. Record what the deed says about copyright: transferred, licensed or not addressed.
+In the United States, a signed deed of gift transfers ownership of the physical or digital items. Apart from a will, an inheritance or another transfer made by law itself, a transfer of copyright needs a signed writing, such as a clause in the deed; a donor who keeps the copyright can grant a separate licence instead. A donor can transfer only the rights the donor holds: a donor may have inherited the copyright in a relative's own letters, while the copyright in a studio portrait, or in letters other people wrote, may not be the family's to give [S22], [S23]. Record what the deed says about copyright: transferred, licensed or not addressed.
 
 ## Check the hand-off from the delivered copy
 
