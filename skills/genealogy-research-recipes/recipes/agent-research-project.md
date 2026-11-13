@@ -242,7 +242,7 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   back. When the researcher gives a firm ruling, record it in their exact words, as theirs, and work
   from it until new evidence or changed reasoning bears on it: the researcher rules on identity and
   proof ([evidence-proof-judgment](evidence-proof-judgment.md)). Record a relative's firm statement
-  the same way, in their words and as theirs, but keep it an account to assess, not a ruling or a
+  in their exact words, as theirs, but keep it an account to assess, not a ruling or a
   tree fact ([family-interviews-and-oral-tradition](family-interviews-and-oral-tradition.md)). Do
   not attribute either one to a document.
 - Use a fixed list of written statuses, such as refuted, weakened, under-determined and candidate,
@@ -255,9 +255,9 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   Work reconstructed from a final chat cannot separate a real negative from an incomplete run.
 - After an interruption, reload the governing instructions and check the live state. Memory, task
   lists and old reports are an index. Live state and the newest instruction outrank them.
-- Write a status with the way to verify it. Replace an outdated next step in the status, so a
-  resumed session does not act on it, after recording that step in the research log as done or
-  dropped with its result. The log keeps the record and analysis that led to it
+- Write a status with the way to verify it. Record an outdated next step in the research log as
+  done or dropped, with its result, then replace it in the status so a resumed session does not act
+  on it. The log keeps the record and analysis that led to the step
   ([research-documentation](research-documentation.md)).
 - Before saying something is inaccessible, new or never requested, or asking the researcher for a
   document, search earlier sessions, the notes and the researcher's own files.

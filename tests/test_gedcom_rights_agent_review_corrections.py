@@ -85,14 +85,14 @@ class AgentProjectTests(unittest.TestCase):
         self.assertIn("When the researcher gives a firm ruling", rule)
         self.assertIn("the researcher rules on identity and proof", rule)
         self.assertIn("(evidence-proof-judgment.md)", rule)
-        self.assertIn("keep it an account to assess, not a ruling or a tree fact", rule)
+        self.assertIn("Record a relative's firm statement in their exact words, as theirs, but keep it an account to assess, not a ruling or a tree fact", rule)
         self.assertIn("(family-interviews-and-oral-tradition.md)", rule)
         self.assertNotIn("a relative with family knowledge gives a firm ruling", self.text)
 
     def test_replaced_next_step_is_logged_first(self):
         rule = between(self.text, "- Write a status with the way to verify it.", "- Before saying something")
-        self.assertIn("after recording that step in the research log as done or dropped with its result", rule)
-        self.assertIn("The log keeps the record and analysis that led to it", rule)
+        self.assertIn("Record an outdated next step in the research log as done or dropped, with its result, then replace it in the status", rule)
+        self.assertIn("The log keeps the record and analysis that led to the step", rule)
         self.assertIn("(research-documentation.md)", rule)
 
     def test_unproved_link_stays_off_the_tree_unless_already_there(self):

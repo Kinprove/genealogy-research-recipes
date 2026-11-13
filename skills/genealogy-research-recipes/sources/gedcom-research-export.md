@@ -39,7 +39,7 @@
 - **S18:** MyHeritage Knowledge Base, [What Is a GEDCOM File and How Does It Help in Genealogy?](https://education.myheritage.com/article/what-is-a-gedcom-file-and-how-does-it-help-in-genealogy/), 2025-12-02, read 2026-11-12. Used for: copying or merging entries by hand after an upload when a merge is needed. It says an upload "typically" creates a new tree; the firm statement rests on S17.
 - **S19:** legislation.gov.uk, [Calendar (New Style) Act 1750](https://www.legislation.gov.uk/apgb/Geo2/24/23), read 2026-11-13. Used for section 1: the year beginning on 25 March not to be used after the last day of December 1751, and the following 1 January counted as the first day of 1752, throughout the Crown's dominions in Europe, Asia, Africa and America.
 
-**Authored synthesis in the 2026-11-13 additions:** asking the user for the submitter's name instead of inventing one, splitting a `CONC` value between two non-space characters, and the warning that programs may not read the year of a January to March `JULIAN` date the same way, drawn from the different years the 7.0 specification and the migration guide give for one day, are this recipe's own. S1, S12, S16 and S19 supply the facts.
+**Authored synthesis in the 2026-11-13 additions:** asking the user for the submitter's name instead of inventing one, splitting a `CONC` value between two non-space characters, and the warning that programs may disagree on the year of a January to March `JULIAN` date, drawn from the different years the 7.0 specification and the migration guide give for one day, are this recipe's own. S1, S12, S16 and S19 supply the facts.
 
 ## Credits
 
