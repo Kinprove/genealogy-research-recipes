@@ -10,7 +10,7 @@ guardrails: [{"id": "ANCESTRY-RECORD-SEARCH-RECOVERY-01", "text": "Keep three ob
 handoff: ["ai-for-documentary-records", "dna-match-outreach-staging", "evidence-proof-judgment"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["ancestry"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["ancestry"], "local_script": [], "extensions": [], "data_transfer": ["publish", "request"], "contact": []}
 router: {"tier": "full", "group": "Featured workflows", "order": 37}
 ---
 
@@ -238,6 +238,12 @@ a sibling, household head or known neighbor with a more distinctive name as an
 entry point. Open the resulting image and inspect the target household or nearby
 pages. Ancestry's April 2026 tutorial recovers a mistranscribed Cowan household
 using non-name fields and the parents' names after direct searches fail.
+
+**Privacy gate:** <!-- privacy-gate: publish --> An added reading becomes alternate information that
+other Ancestry users can find by search. Before adding a reading that names or links someone who may
+be living, answer the privacy gate in `SKILL.md`. Until each such person has given permission, keep
+the reading in the user's local notes instead of adding it. A reading that concerns only people known
+to be dead can be added as before.
 
 Once the image shows a mistranscription, the user can add the correct reading: the
 record page's three-dot menu has **Add or update information**, which adds it as
