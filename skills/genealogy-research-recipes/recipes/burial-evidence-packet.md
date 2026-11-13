@@ -140,6 +140,12 @@ is not a negative.
   officers. [P73] An original burial place can differ from the present grave after a reburial, so
   look for the present grave separately.
 
+ABMC covers more than its First and Second World War cemeteries. Its Honolulu Memorial names 8,209
+people listed as missing from the Korean War and 2,504 from the Vietnam War, and ABMC also
+administers Mexico City National Cemetery, Corozal American Cemetery in Panama and Clark Veterans
+Cemetery in the Philippines [P99 @2026-11-13]. Do not rule ABMC out for a missing service member of
+those wars or a burial in those three cemeteries.
+
 On a Soviet WWII mass grave (братская могила), a name on the plate may belong to a soldier buried
 elsewhere. A press report from Karelia describes a plate cut in 1965 from a military
 commissariat's unchecked list of the dead. [P94] A Kaliningrad researcher interviewed in the press

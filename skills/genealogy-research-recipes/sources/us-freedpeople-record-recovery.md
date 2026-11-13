@@ -67,7 +67,7 @@ The Freedman's Bank, Last Seen and Enslaved.org entries rest on the custodians' 
 - **S54:** [Patchwork Freedom, UVM News, University of Vermont](https://www.uvm.edu/news/story/patchwork-freedom), read 2026-11-08. Used for: abolition in Vermont as a process.
 - **S55:** [Abolition of Slavery, PHMC, Our Documentary Heritage](https://www.phmc.state.pa.us/portal/communities/documents/1776-1865/abolition-slavery.html), read 2026-11-08. Used for: Pennsylvania registration with the Clerk of the Peace under the 1780 act.
 - **S56:** [New Jersey, 1804, The Free Womb Project](https://thefreewombproject.com/new-jersey/), read 2026-11-08. Used for: county clerk registration under New Jersey's 1804 act.
-- **S57:** [Records of Slavery, NYC Department of Records & Information Services](https://www.archives.nyc/slavery-records), read 2026-11-08. Used for: city or town clerk registration under New York's 1799 act.
+- **S57:** [Records of Slavery, NYC Department of Records & Information Services](https://www.archives.nyc/slavery-records), read 2026-11-08; read again 2026-11-13. Used for: city or town clerk registration under New York's 1799 act; the 1799 act's exclusion of people born before 4 July 1799; and the 1817 legislation that freed the remaining enslaved people in 1827.
 - **S58:** [Chains Unbound: Slave Emancipations in Greenwich Connecticut Online](https://chainsunboundgreenwichct.blogspot.com), read 2026-11-08. Used for: town clerk registration in Connecticut.
 
 ### Sources added 2026-11-12

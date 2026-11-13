@@ -103,7 +103,8 @@ that entry states.
 
 `[S12 @2026-11-07]` gives the claim's last check date. A dagger such as `[S16†]` marks limited or
 unavailable access: preserve the attributed observation and qualification rather than restating
-it as a verified fact. A partial read supports only its recorded scope. A fresh date or a `read`
+it as a verified fact. A passage without a recorded review may lack the dagger, so take access
+limits from the sidecar entry, not from a missing dagger. A partial read supports only its recorded scope. A fresh date or a `read`
 status does not establish that a genealogical inference is correct.
 
 ## Privacy gate

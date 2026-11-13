@@ -32,9 +32,11 @@ This recipe's own contribution is the routing row, the party-role table, the two
 
 **Not verified independently:** the Izard County application dates (S18 only).
 
+- **S25:** Ohio History Connection, Archives & Library, [Land Records at the Archives & Library: Land Divisions](https://ohiohistory.libguides.com/land/collections), read 2026-11-13. Used for: the Connecticut Western Reserve and the Firelands as part of Connecticut's western land claims; the Archives & Library holding no original entry or survey records, including plat maps, for the northeastern counties in them; and its suggestion of the Western Reserve Historical Society Library and the Connecticut State Library.
+
 ## Credits
 
 - BYU Family History Library, Nicky Smith, United States Bureau of Land Management Tract Books, video published 2019-07-01 — Standard YouTube license, all rights reserved by the rights holder; brief quotation used for commentary and attribution (quoted)
 - Kinprove original procedural synthesis; presenter examples and record-series distinctions are cited as S1 through S14; NARA request fields, file periods and Kansas City index coverage are paraphrased from NARA public pages; the public-land-state check is paraphrased from S15 to S17 — FSL-1.1-MIT (kinprove-original)
 - Family Locket, Diana Elder, 5 Tips for Research When the Courthouse Burned, 2024-05-27, and Michelle Mickelson, Southwestern United States Research Part 4, 2024-02-17, cited as S18 and S20 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
-- Archive and land-office pages cited as S19 and S21 to S24 — Facts paraphrased with attribution (adapted)
+- Archive and land-office pages cited as S19 and S21 to S25 — Facts paraphrased with attribution (adapted)

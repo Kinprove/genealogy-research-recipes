@@ -134,6 +134,13 @@ The linked routing, request-receipt and image/timeline schemas are original synt
   ([publication 1007](https://www.fold3.com/publication/1007)) and M1279
   ([title 121](https://www.fold3.com/title/121)), read 2026-11-07. The full title and
   certificate-number arrangement of M1279, and the Fold3 copies named in the table.
+- **H9:** National Archives Catalog series entry for M1469, *Case Files of Approved Pension
+  Applications of Civil War and Later Navy Veterans*
+  ([NAID 580580](https://catalog.archives.gov/id/580580)), read 2026-11-13. The series title,
+  the microform title "(Navy Survivors' Certificates), 1861-1910" and the arrangement by
+  certificate number.
+- **H10:** Fold3, [US, Navy Survivors' Certificates, 1861-1910](https://www.fold3.com/publication/120),
+  read 2026-11-13. Fold3's copy of NARA M1469, with images.
 
 ### Period-law sources
 

@@ -514,6 +514,12 @@ Find a Grave original-image rules were checked on 2026-11-06 against P62–P65 a
   community blog post; its March 2025 counts are superseded by P96 and P97, and its statement that
   Cemety's Poland and Romania projects had not moved forward was not checked and is not adopted.
 
+- **P99:** American Battle Monuments Commission, [Burial and Memorialization Statistics](https://www.abmc.gov/burial-and-memorialization-statistics), read 2026-11-13.
+  Used for: the 8,209 Korean War and 2,504 Vietnam War missing memorialized at the Honolulu
+  Memorial, and ABMC's administration of Mexico City National Cemetery, Corozal American
+  Cemetery in Panama and Clark Veterans Cemetery in the Philippines. The page does not say
+  which of these people ABMC's name search returns.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of the attributed cemetery, gravestone and burial-record workflows — FSL-1.1-MIT (kinprove-original)

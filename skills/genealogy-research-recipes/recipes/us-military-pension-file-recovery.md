@@ -60,6 +60,12 @@ or replace the current instructions for requesting recent military personnel rec
    | Civil War and later, Army and Navy | T288, *General Index to Pension Files, 1861–1934*: claimant names and class, application and certificate numbers | Ancestry, FamilySearch |
    | Service between 1861 and 1900 | T289, *Organization Index*, filed by state, then unit; a card can give the veteran's date and place of death | Fold3, FamilySearch |
    | Navy widows and dependents, approved claims, 1861–1910 | M1279, "Navy Widows' Certificates", by certificate number | Fold3 |
+   | Navy veterans, approved claims, 1861–1910 | M1469, "Navy Survivors' Certificates", by certificate number | Fold3 |
+
+   For a Navy veteran's own approved claim, use M1469, *Case Files of Approved Pension
+   Applications of Civil War and Later Navy Veterans*, arranged by certificate number
+   [H9 @2026-11-13]; Fold3 has it as "US, Navy Survivors' Certificates, 1861-1910"
+   [H10 @2026-11-13].
 
 3. Distinguish the pension application from the service record and any bounty-land application.
    Record which of these you are trying to retrieve.
