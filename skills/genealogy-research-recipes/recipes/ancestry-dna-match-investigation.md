@@ -179,11 +179,11 @@ motivates this selection. A documented descendant through an ancestor's other pa
 help focus the anchor question, as in the [half-sibling example](https://www.yourdnaguide.com/ydgblog/half-siblings).
 
 **To isolate one man's line, pair the tester with a match through his other wife.** When the
-tester descends from one wife of an ancestor and a documented match descends from another, the
-shared matches of the two connect through the husband's family, not either wife's, so they form
-the network for his line to work through (My Family Pattern, 2026-01-01 [S12]); a half-sibling's
-descendants carry none of the other spouse's DNA [B57]. If the two wives were related, or the
-family is endogamous, check each shared match's tree before placing it on his line.
+tester descends from one wife of an ancestor and a documented match descends from another, their
+shared matches are the network to search for the husband's line (My Family Pattern, 2026-01-01
+[S12]); a half-sibling's descendants carry none of the other spouse's DNA [B57]. Membership alone
+does not place a shared match on his line, since it can connect to each tester through a different
+family; place it from its tree.
 
 **Output:** a branch you can recognize while scanning a shared list, plus an explicit next task.
 
