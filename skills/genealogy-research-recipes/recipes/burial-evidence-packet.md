@@ -322,14 +322,15 @@ child's death that also names the living parents, can leave a survivor's death d
 part-cut (`19__`). That blank shows neither that the person is still alive nor that they lie
 there: they may have moved, divorced or remarried and been buried elsewhere, been cremated, or
 died with nobody to have the date cut [P111], [P112], [P113], [P114], [P144]. Record the burial
-as unresolved until a death or burial record places it. Until a death record is found, treat a
-survivor who could still be alive as a living person [P144].
+as unresolved until an interment entry or other burial record places it. Until a death record is
+found, treat a survivor who could still be alive as a living person [P144].
 
 A widow named beside her first husband may appear in later census, death and burial records only
 under a later husband's surname, so search for her under each later married name [P110], [P112].
 One person can have a stone with each spouse in different places while lying under only one.
-Look for the other stone, and record each stone's wording apart from the place of burial, which a
-death certificate or burial record settles [P115], [P145].
+Look for the other stone, and record each stone's wording apart from the place of burial
+[P115], [P145]. A death certificate's burial-place field is a lead to the cemetery, not the
+interment record (Section 4): settle the burial with that cemetery's interment entry.
 
 Many 20th-century monuments in the former Soviet Union carry a portrait of the deceased: a
 photoceramic or enamel medallion, or a photograph under glass or plastic. [P30, P31] A grave
