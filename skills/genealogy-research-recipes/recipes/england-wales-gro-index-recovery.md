@@ -253,8 +253,7 @@ certificate. The church register holds the same details as the civil certificate
 and it carries the couple's and the witnesses' own signatures or marks; a GRO certificate is a
 copy that shows only whether each of them signed or made a mark [S46]. Keep the signatures for
 comparison with other documents [S50]. For a Catholic or nonconformist marriage, look for a
-register image too, and order the certificate when there is none; one researcher found Catholic
-registers rarely online [S50].
+register image too, and order the certificate when there is none [S50].
 
 To test a birth or death candidate cheaply, order the GRO's Online View digital image (£3.00)
 or PDF (£8.00) instead of a full certificate (£12.50 online with an index reference). Both
