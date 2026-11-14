@@ -498,6 +498,24 @@
   "checkpoint": "A court-file request can disclose a party's identity and allegations or family circumstances"
  },
  {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "request",
+  "action": "Search every county where either spouse lived",
+  "checkpoint": "A request for a divorce, support or separation"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "request",
+  "action": "Search the divorce files of the person's divorced brothers and sisters too",
+  "checkpoint": "A request for a divorce, support or separation"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "request",
+  "action": "ask also for the coroner's inquest",
+  "checkpoint": "A court-file request can disclose a party's identity and allegations or family circumstances"
+ },
+ {
   "recipe": "criminal-court-prison-record-recovery.md",
   "kind": "third-party-tool",
   "action": "check available **name indexes before requiring a date or inmate number**.",
@@ -544,6 +562,30 @@
   "kind": "request",
   "action": "expect to use the originals at Kew or order copies",
   "checkpoint": "An order for copies of assize records names the defendant, the charge and the trial"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Look for him in that census's enumeration of institutions",
+  "checkpoint": "A name search or register request can disclose an inmate's identity"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "request",
+  "action": "search the county court records for a divorce filed during or after the sentence",
+  "checkpoint": "A name search or register request can disclose an inmate's identity"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search The National Archives' Discovery catalogue by the period's charge words, adding a name, county or court",
+  "checkpoint": "A catalogue search that pairs"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "request",
+  "action": "you can ask for a Freedom of Information review of a closed record",
+  "checkpoint": "A catalogue search that pairs"
  },
  {
   "recipe": "descendancy-gap-worklist.md",
