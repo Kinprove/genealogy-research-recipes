@@ -2154,6 +2154,24 @@
   "checkpoint": "Asking a direct-female-line descendant of each daughter to take an mtDNA test"
  },
  {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "recruit a man of that surname whose family comes from your subject's county",
+  "checkpoint": "Asking a known male relative or additional direct-line descendants to test"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "recruit a documented, unbroken male-line descendant of each for a Y-37 test",
+  "checkpoint": "Asking a tester, his family or a male-line relative to supply a sample or take a test"
+ },
+ {
+  "recipe": "ydna-mtdna-interpretation.md",
+  "kind": "contact",
+  "action": "recruit male-line descendants of the cluster's ancestor and of documented branches of your own line for Big Y-700",
+  "checkpoint": "Asking known descendants of candidate families to take a Y-DNA or mtDNA test"
+ },
+ {
   "recipe": "us-tribal-enrollment-record-recovery.md",
   "kind": "request",
   "action": "Each tribe manages its own enrollment, so contact its office directly",

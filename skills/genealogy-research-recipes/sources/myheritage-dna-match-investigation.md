@@ -64,6 +64,15 @@ MyHeritage pages beside them. No live MyHeritage account was used.
 - **S18:** Roberta Estes, DNAeXplained, [Cousin Finder – MyHeritage's Innovative New Tool Finds Your Relatives](https://dna-explained.com/2025/10/09/cousin-finder-myheritages-innovative-new-tool-finds-your-relatives/), published 2025-10-09, read 2026-11-12. Used for: finding trees for matches from other companies. No MyHeritage page describes this cross-company use; the identity check is Kinprove's.
 - **S19:** Jonny Perl, DNA Painter blog, [Investigating a new DNA match](https://dnapainter.com/blog/investigating-a-new-dna-match/), published 2021-02-22, read 2026-11-12. Used for: the "All tree details" → Has Theory of Family Relativity filter as one user saw it. Its route to a segment file from the match page is not current help and is not used.
 
+### Sources for the 2026-11-14 additions
+
+- **S20:** Diane Rogers, Price Genealogy, [DNA – Shared Matches and Clustering](https://www.pricegen.com/dna-shared-matches-and-clustering/), published 2023-07-28, read 2026-11-14. Used for: a researcher's maternal matches possibly not shared with her maternal aunt, so clusters not shared with the aunt are not thereby paternal.
+- **S21:** Legacy Tree Genealogists, [Why Don't I Share Any DNA with My Known Relative?](https://www.legacytree.com/blog/why-dont-i-share-any-dna-with-my-known-relative), published 2019-06-04, read 2026-11-14. Used for: an aunt's DNA containing segments the researcher's mother did not inherit or did not pass on.
+- **S22:** Jonny Perl, DNA Painter blog, [Interpreting inferred segments: a full aunt](https://dnapainter.com/blog/interpreting-inferred-segments-a-full-aunt/), published 2021-07-28, read 2026-11-14. Used for: two sisters possibly inheriting DNA from different grandparents at the same position.
+- **S23:** Louis Kessler, Behold Blog, [My First MyHeritage Theory of Family Relativity](https://www.beholdgenealogy.com/blog/?p=3881), published 2022-06-29, read 2026-11-14. Used for: one tree in a theory's chain listing two brothers of nearly the same name born 52 years apart, the later man possibly a grandson, and the connections that agreed with the author's records.
+- **S24:** MyHeritage Wiki, [Theory Of Family Relativity](https://www.myheritage.com/wiki/Theory_of_Family_Relativity), undated, read 2026-11-14. Used for: each joining link carrying its own confidence level, and confirming a theory that is accurate through any path or rejecting it.
+- **S25:** Yvette Hoitink, Dutch Genealogy, [Quick tip: The first of same-named siblings probably died young](https://www.dutchgenealogy.nl/the-first-of-same-named-siblings-probably-died-young/), published 2014-07-16, read 2026-11-14. Used for: a later child named after a sibling who had died, and the rare case of two living siblings named after two same-named grandparents.
+
 ### Platform recheck, 2026-11-12
 
 Rechecked 2026-11-12: every MyHeritage page in the unlabelled list was re-read and still supports
@@ -87,7 +96,11 @@ needed no change.
 ## Credits
 
 - Roberta Estes, DNAeXplained blog, posts cited as S14, S16 and S18 — All rights reserved; short attributed adaptation (adapted)
-- Jonny Perl, DNA Painter blog, posts cited as S7 and S19 — All rights reserved; short attributed adaptation (adapted)
+- Jonny Perl, DNA Painter blog, posts cited as S7, S19 and S22 — All rights reserved; short attributed adaptation (adapted)
+- Diane Rogers, Price Genealogy, DNA – Shared Matches and Clustering, blog post, 2023-07-28, cited as S20 — All rights reserved; short attributed adaptation (adapted)
+- Legacy Tree Genealogists, Why Don't I Share Any DNA with My Known Relative?, blog post, 2019-06-04, cited as S21 — All rights reserved; short attributed facts (adapted)
+- Louis Kessler, Behold Blog, My First MyHeritage Theory of Family Relativity, blog post, 2022-06-29, cited as S23 — All rights reserved; short attributed adaptation (adapted)
+- Yvette Hoitink, Dutch Genealogy, Quick tip: The first of same-named siblings probably died young, blog post, 2014-07-16, cited as S25 — All rights reserved; short attributed facts (adapted)
 - Melanie Mohler, Your DNA Guide, Share Your MyHeritage DNA Results with a Collaborator, blog post, 2024-03-27, cited as S3 — All rights reserved; short attributed adaptation (adapted)
 - Vera Miller, Lost Russian & Ukrainian Family, MyHeritage is on deadline to make a difficult change for some users on Feb. 1, blog post, 2025-01-04, cited as S6 — All rights reserved; short attributed facts (adapted)
 - The Moscow Times, Genealogy Platform MyHeritage Suspends Services in Russia, news report, 2024-12-31, cited as S5 — All rights reserved; short attributed facts (adapted)
