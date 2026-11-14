@@ -831,7 +831,13 @@
   "recipe": "england-wales-gro-index-recovery.md",
   "kind": "request",
   "action": "Order using the full reference",
-  "checkpoint": "A certificate order sends the name and the index"
+  "checkpoint": "A certificate, PDF or image order sends the"
+ },
+ {
+  "recipe": "england-wales-gro-index-recovery.md",
+  "kind": "request",
+  "action": "order the GRO's Online View digital image",
+  "checkpoint": "A certificate, PDF or image order sends the"
  },
  {
   "recipe": "ethnicity-estimate-version-comparison.md",
@@ -1738,6 +1744,12 @@
   "kind": "request",
   "action": "Take the case number to the file's holder",
   "checkpoint": "A request for a court-martial file of the Civil"
+ },
+ {
+  "recipe": "uk-census-and-1939-register-interpretation.md",
+  "kind": "request",
+  "action": "Ask that county's record office as well",
+  "checkpoint": "An inquiry to a county record office about a surviving"
  },
  {
   "recipe": "unknown-parentage-wato.md",
