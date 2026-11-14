@@ -21,7 +21,7 @@ and keeps its own rights. This covers:
 
   - the Beider name-index data described below; and
   - a source's own expression in the passages credited "(quoted)" or
-    "(adapted)" in the Credits list of a recipe's https://github.com/Kinprove/genealogy-research-recipes/blob/43cf0d69573cd7b2a86f57cc6aa50406e93c8c8e/skills/genealogy-research-recipes/sources/<slug>.md file.
+    "(adapted)" in the Credits list of a recipe's https://github.com/Kinprove/genealogy-research-recipes/blob/edc63d0d7ca51c809a77747ff2bf76e45eccd67a/skills/genealogy-research-recipes/sources/<slug>.md file.
 
 Kinprove grants no licence to this material, under FSL-1.1-MIT or otherwise.
 Anyone who reuses it needs whatever permission its rights holder requires.
@@ -34,9 +34,9 @@ judgment and practical workflows. Facts, methods,
 and community teaching that a recipe cites but does NOT reproduce (for example
 the Leeds Method, WATO / "What Are The Odds", the Genealogical Proof Standard)
 need only source attribution and are credited in each recipe's
-https://github.com/Kinprove/genealogy-research-recipes/blob/43cf0d69573cd7b2a86f57cc6aa50406e93c8c8e/skills/genealogy-research-recipes/sources/<slug>.md — they are not carved out here.
+https://github.com/Kinprove/genealogy-research-recipes/blob/edc63d0d7ca51c809a77747ff2bf76e45eccd67a/skills/genealogy-research-recipes/sources/<slug>.md — they are not carved out here.
 
-Each https://github.com/Kinprove/genealogy-research-recipes/blob/43cf0d69573cd7b2a86f57cc6aa50406e93c8c8e/skills/genealogy-research-recipes/sources/<slug>.md file ends with a Credits list, the package's rights
+Each https://github.com/Kinprove/genealogy-research-recipes/blob/edc63d0d7ca51c809a77747ff2bf76e45eccd67a/skills/genealogy-research-recipes/sources/<slug>.md file ends with a Credits list, the package's rights
 record. Every line names a source, its rights statement and one class:
 
   (kinprove-original)  Kinprove's own synthesis, under FSL-1.1-MIT.

@@ -394,4 +394,4 @@ Original Kinprove reference, licensed FSL-1.1-MIT.
 
 ## Sources
 
-[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/43cf0d69573cd7b2a86f57cc6aa50406e93c8c8e/skills/genealogy-research-recipes/sources/research-documentation.md).
+[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/edc63d0d7ca51c809a77747ff2bf76e45eccd67a/skills/genealogy-research-recipes/sources/research-documentation.md).

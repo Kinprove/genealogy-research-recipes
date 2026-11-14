@@ -21,7 +21,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## Version and updates
 
-This copy is version 1.18.0, released 2026-11-13.
+This copy is version 1.19.0, released 2026-11-14.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
@@ -79,7 +79,7 @@ today's date. Do not check for a newer version over the network yourself.
    the task-recipe read.
    Carry any material source limitation alongside the claim it affects: a search-result extract,
    unread page or unavailable recording is a lead, not a verified reading. Consult the paired
-   `https://github.com/Kinprove/genealogy-research-recipes/blob/43cf0d69573cd7b2a86f57cc6aa50406e93c8c8e/skills/genealogy-research-recipes/sources/` file when the claim's support is unclear; attribute an independently read source
+   `https://github.com/Kinprove/genealogy-research-recipes/blob/edc63d0d7ca51c809a77747ff2bf76e45eccd67a/skills/genealogy-research-recipes/sources/` file when the claim's support is unclear; attribute an independently read source
    explicitly rather than treating an inaccessible additional citation as confirmation.
 3. Apply its "never trust / never delegate" boundaries as **hard constraints on your own output** —
    those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
@@ -98,7 +98,7 @@ today's date. Do not check for a newer version over the network yourself.
 A source marker identifies evidence, not a guarantee that the page was read or that it supports
 every sentence. Most cited passages lack a recorded review against their sources, and a marker or
 a date alone does not show that one was reviewed. When relying on a factual passage, read the
-entry for each cited source ID in its `https://github.com/Kinprove/genealogy-research-recipes/blob/43cf0d69573cd7b2a86f57cc6aa50406e93c8c8e/skills/genealogy-research-recipes/sources/<recipe-id>.md` sidecar and carry the limitations
+entry for each cited source ID in its `https://github.com/Kinprove/genealogy-research-recipes/blob/edc63d0d7ca51c809a77747ff2bf76e45eccd67a/skills/genealogy-research-recipes/sources/<recipe-id>.md` sidecar and carry the limitations
 that entry states.
 
 `[S12 @2026-11-07]` gives the claim's last check date. A dagger such as `[S16†]` marks limited or
@@ -764,6 +764,12 @@ live control.
   and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato
   civile), then search conscription lists and the population register as separate series.
 
+- **`recipes/us-tribal-enrollment-record-recovery.md`** — Find a claimed Native American ancestor on the right tribal roll, and read what the roll proves.
+  Find a claimed Native American ancestor on the roll that fits the tribe, place and period, find
+  who holds it now, and read what an enrollment, a rejected application or an absence proves.
+  *Use for:* family lore of a Cherokee or other tribal ancestor; Dawes, Guion Miller, Baker or
+  Indian Census Rolls; an ancestor missing from the Dawes Rolls or a rejected enrollment application
+
 - **`recipes/spanish-civil-parish-record-routing.md`** — Route a Spanish or Andorran record to the archive that holds it on the event date.
   Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the
   body that holds it on the event date.
@@ -953,6 +959,14 @@ live control.
 - **`recipes/marks-and-brands-record-recovery.md`** — Recover a livestock mark or brand registration.
   Carry a livestock marks-and-brands index entry to the actual registration or a described copy.
 
+- **`recipes/georgia-texas-state-land-grant-recovery.md`** — Read Georgia and Texas original land grants: lottery draws, headright classes and the land office file.
+  Find and read an original land grant from the State of Georgia or from Spain, Mexico, the Republic
+  or the State of Texas, and keep each lottery entry, headright class or certificate within what its
+  act required.
+  *Use for:* a Georgia land lottery entry for orphans, a widow, a blank or a fortunate drawer; a
+  Texas headright class, certificate or General Land Office file; no grant found for a Georgia or
+  Texas ancestor
+
 ### Courts, legislatures, prisons and institutions
 
 - **`recipes/court-case-file-recovery.md`** — Recover a U.S. court case file from its pointer records.
@@ -966,9 +980,9 @@ live control.
 - **`recipes/criminal-court-prison-record-recovery.md`** — Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes.
   From an arrest, prison or census-institution lead, find the court that tried the case and recover
   U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to
-  court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish
-  sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy
-  searches.
+  court case-file recovery, a federal one to federal court recovery. Its England/Wales sections
+  cover no-fixed-abode leads, assize and Old Bailey trials, absconder notices, charge searches and
+  sentence wording; its Swedish sections cover prison, police-gazette and court-copy searches.
   *Use for:* Sing Sing name indexes
 
 - **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act and its petition.
@@ -1110,5 +1124,5 @@ live control.
 ## Attribution
 
 These recipes are original Kinprove-authored distillations, licensed FSL-1.1-MIT (see `LICENSE`).
-Third-party facts and methods are credited in each recipe's `https://github.com/Kinprove/genealogy-research-recipes/blob/43cf0d69573cd7b2a86f57cc6aa50406e93c8c8e/skills/genealogy-research-recipes/sources/<slug>.md`; any
+Third-party facts and methods are credited in each recipe's `https://github.com/Kinprove/genealogy-research-recipes/blob/edc63d0d7ca51c809a77747ff2bf76e45eccd67a/skills/genealogy-research-recipes/sources/<slug>.md`; any
 reproduced third-party data is carved out in `NOTICE`.

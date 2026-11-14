@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "criminal-court-prison-record-recovery"]
 checked: "2026-11-07"
 checked_basis: "read 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1104}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1105}
 ---
 
 # Recover a U.S. federal court case file
