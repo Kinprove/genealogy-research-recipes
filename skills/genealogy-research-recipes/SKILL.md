@@ -764,6 +764,12 @@ live control.
   and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato
   civile), then search conscription lists and the population register as separate series.
 
+- **`recipes/us-tribal-enrollment-record-recovery.md`** — Find a claimed Native American ancestor on the right tribal roll, and read what the roll proves.
+  Find a claimed Native American ancestor on the roll that fits the tribe, place and period, find
+  who holds it now, and read what an enrollment, a rejected application or an absence proves.
+  *Use for:* family lore of a Cherokee or other tribal ancestor; Dawes, Guion Miller, Baker or
+  Indian Census Rolls; an ancestor missing from the Dawes Rolls or a rejected enrollment application
+
 - **`recipes/spanish-civil-parish-record-routing.md`** — Route a Spanish or Andorran record to the archive that holds it on the event date.
   Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the
   body that holds it on the event date.
@@ -952,6 +958,14 @@ live control.
 
 - **`recipes/marks-and-brands-record-recovery.md`** — Recover a livestock mark or brand registration.
   Carry a livestock marks-and-brands index entry to the actual registration or a described copy.
+
+- **`recipes/georgia-texas-state-land-grant-recovery.md`** — Read Georgia and Texas original land grants: lottery draws, headright classes and the land office file.
+  Find and read an original land grant from the State of Georgia or from Spain, Mexico, the Republic
+  or the State of Texas, and keep each lottery entry, headright class or certificate within what its
+  act required.
+  *Use for:* a Georgia land lottery entry for orphans, a widow, a blank or a fortunate drawer; a
+  Texas headright class, certificate or General Land Office file; no grant found for a Georgia or
+  Texas ancestor
 
 ### Courts, legislatures, prisons and institutions
 
