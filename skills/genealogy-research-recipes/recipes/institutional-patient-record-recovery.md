@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1108}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1109}
 ---
 
 # Recover an asylum or state-hospital patient through custodians, courts and newspapers

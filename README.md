@@ -194,6 +194,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [gedmatch-practical-dna-workflows](skills/genealogy-research-recipes/recipes/gedmatch-practical-dna-workflows.md) | gedmatch | — | — | export, third-party-tool, upload | — | required |
 | [genealogy-standards-audit](skills/genealogy-research-recipes/recipes/genealogy-standards-audit.md) | — | — | — | — | — | — |
 | [geni-practical-research-workflows](skills/genealogy-research-recipes/recipes/geni-practical-research-workflows.md) | geni | — | — | export, publish, upload | contact | required |
+| [georgia-texas-state-land-grant-recovery](skills/genealogy-research-recipes/recipes/georgia-texas-state-land-grant-recovery.md) | state archive and land office pages, databases and file images | — | — | — | — | — |
 | [german-compensation-file-recovery](skills/genealogy-research-recipes/recipes/german-compensation-file-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [german-emigrant-origin-sources](skills/genealogy-research-recipes/recipes/german-emigrant-origin-sources.md) | record catalogues and original images | — | — | — | — | — |
 | [german-local-census-registration-recovery](skills/genealogy-research-recipes/recipes/german-local-census-registration-recovery.md) | record catalogues and original images | — | — | request | — | required |
@@ -277,6 +278,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [us-military-pension-file-recovery](skills/genealogy-research-recipes/recipes/us-military-pension-file-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [us-military-service-type-record-routing](skills/genealogy-research-recipes/recipes/us-military-service-type-record-routing.md) | record catalogues and original images | — | — | — | — | — |
 | [us-period-law-record-reading](skills/genealogy-research-recipes/recipes/us-period-law-record-reading.md) | record catalogues and original images | — | — | — | — | — |
+| [us-tribal-enrollment-record-recovery](skills/genealogy-research-recipes/recipes/us-tribal-enrollment-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [us-vital-registration-coverage](skills/genealogy-research-recipes/recipes/us-vital-registration-coverage.md) | record catalogues and original images | — | — | — | — | — |
 | [usa-immigration-search-recovery](skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [wikitree-dna-tester-links](skills/genealogy-research-recipes/recipes/wikitree-dna-tester-links.md) | wikitree, familytreedna | — | — | link | — | required |

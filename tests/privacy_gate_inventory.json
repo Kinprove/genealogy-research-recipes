@@ -2038,5 +2038,17 @@
   "kind": "contact",
   "action": "recruit a full-sequence tester descended through all females from each daughter",
   "checkpoint": "Asking a direct-female-line descendant of each daughter to take an mtDNA test"
+ },
+ {
+  "recipe": "us-tribal-enrollment-record-recovery.md",
+  "kind": "request",
+  "action": "Each tribe manages its own enrollment, so contact its office directly",
+  "checkpoint": "A request to a tribe's enrollment office, a BIA agency or a National Archives facility sends the family's names and lineage"
+ },
+ {
+  "recipe": "us-tribal-enrollment-record-recovery.md",
+  "kind": "request",
+  "action": "Ask the agency that holds the official record early, not last.",
+  "checkpoint": "A request to a tribe's enrollment office, a BIA agency or a National Archives facility sends the family's names and lineage"
  }
 ]
