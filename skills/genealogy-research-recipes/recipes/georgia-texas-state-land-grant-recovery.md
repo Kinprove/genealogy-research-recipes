@@ -61,7 +61,7 @@ Link out for the shared steps:
 
 - **Georgia and Texas are not public-land states.** NARA's federal land-entry files cover the 30 public-land states. Texas is excluded by name, and the original 13 states, Georgia among them, are excluded as a group [S21]. Do not search BLM-GLO or order a federal case file for an original grant in either state.
 - **Do not expect section, township and range.** Texas kept its public domain at statehood and uses its own survey system. Texas descriptions use the vara (about 33⅓ inches) and the labor (1,000,000 square varas, about 177.1 acres) [S22]. The league is 25,000,000 square varas, about 4,428 acres [S7]; one league and one labor make 4,605.5 acres [S18]. Georgia lottery land is described by district, section and land lot [S1], [S5].
-- **Original grant at the state, later sales at the county.** In Texas, transactions after the original grant were recorded at the county courthouse [S7]. Georgia lottery grants and headright grants were issued by the state [S11], [S16]. Search county deed books only for what happened after the grant.
+- **Original grant at the state, later sales at the county.** In Texas, transactions after the original grant were recorded at the county courthouse [S7]. Georgia lottery grants and headright grants were issued by the state [S11], [S16]. Do not look for the original grant in the county deed books, and do not stop at the patent date there: a certificate or claim could be sold before the patent, so the original grantee and the patentee can be different people [S19], [S26].
 
 ## 2. Georgia: choose the system by place and date
 

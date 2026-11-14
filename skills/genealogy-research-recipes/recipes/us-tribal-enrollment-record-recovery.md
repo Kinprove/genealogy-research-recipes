@@ -91,7 +91,7 @@ Then ask the people who hold the records:
 
 ## 4. Read a Dawes entry through the card and the application
 
-- **Go from the index to the card.** Copy the census card number from the typed index, then browse to that card by tribe [S1]. One card can show three generations [S1].
+- **Go from the roll entry to the card.** The person's Final Rolls entry, under the tribe and the enrollment category, gives the roll (enrollment) number and, in its own column, the census card number. Use the card number to find the card; do not use the roll number as a card number, because the allotment jackets are the records filed by enrollment number [S15]. The National Archives Catalog also searches the cards by name, tribe and card number [S15]. One card can show three generations [S1].
 - **Read the stamps and notes.** An application may be marked refused and later accepted [S1]. Cards show whether a person appeared on an earlier tribal roll, and an 1896 application is noted as "1896 Case" with a number [S15]. For changes that the final roll hides, see [period law reading](us-period-law-record-reading.md).
 - **Get the application as well as the card.** The card records the applicants and the actions taken. The application holds the supporting documents [S14]. Packets can include repeated interviews and witness statements [S9].
 - **Search for more than one number.** A Cherokee applicant may have a doubtful number, a rejected number and an approved number, and each file can hold different material [S2]. Search every number the person had. Doubtful ("D") cards were later moved to approved or rejected ("R") cards [S15].
