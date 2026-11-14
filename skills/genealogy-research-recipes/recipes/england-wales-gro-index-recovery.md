@@ -83,6 +83,14 @@ For general FamilySearch jurisdiction and missed-person recovery, use
    most likely to go unregistered [S15], [S3]. Never enter the quarter as the event date or as a
    "before" date [S2], [S5].
 
+A certificate's birth date is the informant's statement, and it may have been moved later so
+that the registration looked on time. Late registration carried a penalty, and some parents
+gave a slightly later birth date to avoid the fine; a baptism that records the true date, or
+one held before the stated birth date, can expose it [S43], [S47]. When the stated birth falls
+just inside 42 days before registration, check it against the baptism and the census ages
+before you fix the birth date. The parents named are the informant's statements too and can be
+wrong; the father named is not always the biological father [S43], [S47].
+
 ## Sweep for the full sibling group
 
 1. Search by surname only (forename blank) plus the mother's maiden surname
@@ -236,9 +244,36 @@ privacy gate in `SKILL.md` before you ask the office for a copy.
 
 ## Order the certificate and close the packet
 
-**Privacy gate:** <!-- privacy-gate: request --> A certificate order sends the name and the
-index reference, and a birth, marriage or death of recent years can name people who are still
-living; answer the privacy gate in `SKILL.md` before you order it.
+**Privacy gate:** <!-- privacy-gate: request --> A certificate, PDF or image order sends the
+name and the index reference, and a birth, marriage or death of recent years can name people
+who are still living; answer the privacy gate in `SKILL.md` before you order it.
+
+For a Church of England marriage, look for an image of the parish register before you buy the
+certificate. The church register holds the same details as the civil certificate [S45], [S50],
+and it carries the couple's and the witnesses' own signatures or marks; a GRO certificate is a
+copy that shows only whether each of them signed or made a mark [S46]. Keep the signatures for
+comparison with other documents [S50]. For a Catholic or nonconformist marriage, look for a
+register image too, and order the certificate when there is none [S50].
+
+To test a birth or death candidate cheaply, order the GRO's Online View digital image (£3.00)
+or PDF (£8.00) instead of a full certificate (£12.50 online with an index reference). Both
+cover births from 1837 up to 100 years ago and deaths from 1837 to 1957, need the full GRO
+index reference and can be ordered only online; neither exists for marriages
+[S24 @2026-11-14], [S42 @2026-11-14], [S48 @2026-11-14]. An Online View image can be viewed and
+downloaded for 3 months from the order and is then removed without a reminder
+[S24 @2026-11-14], [S42 @2026-11-14]. Download it at once and save it with its GRO reference
+(year, quarter, district, volume and page) and the download date, as one blogger's citation
+template does [S51 @2026-11-14]. A cheap image also answers side questions, such as the causes
+of death of siblings who died in infancy [S49 @2026-11-14].
+
+Cite any GRO certificate, PDF or image as a copy. The GRO holds the quarterly copies that
+registrars sent it, while the original register stays with the local register office, which
+makes its own certificates from that original [S44]. Record the GRO product as a derivative of
+the local entry; the information in it can still be first-hand. The GRO's statement that a PDF
+has no evidential value means only that it cannot be used for official purposes such as a
+passport application [S42], [S49]; it does not lower its weight as research evidence. If a
+GRO copy looks miscopied, take the local-office route in step 6 of "Reconcile copies of one
+index".
 
 1. Order using the full reference: name, year, quarter, district, volume and page [S2], [S21].
     Without an index reference, the GRO searches only a three-year period centred on the year
