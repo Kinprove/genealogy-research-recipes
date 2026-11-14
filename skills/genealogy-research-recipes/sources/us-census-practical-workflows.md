@@ -172,6 +172,8 @@ draw on each source.
 | S152 | Michael John Neill, Genealogy Tip of the Day, [1880 Agricultural Census Asks About Tenure](https://genealogytipoftheday.com/index.php/2022/12/04/1880-agricultural-census-asks-about-tenure/) | 2022-12-04; read 2026-11-14 | 10: 1880 tenure |
 | S153 | Gerald Moore, Wayne County TNGenWeb, [The 1880 Census of Agriculture, Wayne County, Tennessee](https://tngenweb.org/wayne/?p=2102) | posted 2014-08-08; read 2026-11-14 | 10: tenure codes |
 | S154 | National Archives, 1950 Census website, [Questions Asked in the 1950 Census](https://1950census.archives.gov/howto/questions-asked.html) | read 2026-11-14 | 1, 6: Form P8 contents, sample lines |
+| S155 | David M. Pemberton, National Archives, *Prologue* (Winter 2002), ["Blisters on My Heels, Corns on My Toes": Taking the 1930 Census of Population](https://www.archives.gov/publications/prologue/2002/winter/1930-census.html) | Winter 2002; read 2026-11-14 | schema: Alaska's 1930 reference date |
+| S156 | Attorney General of Texas, [Opinion No. WW-626](https://www.texasattorneygeneral.gov/sites/default/files/opinion-files/opinion/1948/pd0626.pdf), page 2 | 1959-05-20; read 2026-11-14 | 1: Texas adoption by recorded instrument, 1850–1931 |
 | H9 | [National Archives, *Prologue* (Fall 2008), the forgotten federal census of 1885](https://www.archives.gov/publications/prologue/2008/fall/1885-census.html) | 2008; read 2026-11-07 | 5: 1885 censuses |
 | H10 | [National Archives, descriptive pamphlets for M846 (New Mexico) and M845 (Florida)](https://www.archives.gov/files/research/census/nonpopulation/m846.pdf) | read 2026-11-07 | 5: 1885 censuses |
 | H11 | [State Historical Society of North Dakota, census records of the 1800s](https://web.archive.org/web/20260113231006/https://www.history.nd.gov/archives/gencensus1800.html) | Internet Archive capture of 2026-01-13 (the live page returned 404 on 2026-11-07); read 2026-11-07 | 5: 1885 censuses |
@@ -310,6 +312,11 @@ a name's position are inferences. S146's case merged two wives with different gi
 not the same name; it shows the merger, not how often a man married two women with one
 name. S147 is one household's 1910 entry; the years come from S148 and S149. S153 is one
 county's transcription, and the tenure codes are taken from its column notes.
+
+S155 and S156 were added on 2026-11-14 after a pull-request review. S155 gives Alaska's
+1 October 1929 date for the 1930 census; other years' territorial dates were not checked.
+S156 is one inheritance-tax opinion on Texas law; the adoption forms of other states and
+periods were not checked.
 
 ## Credits
 
