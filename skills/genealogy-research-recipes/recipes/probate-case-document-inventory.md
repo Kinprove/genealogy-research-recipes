@@ -63,6 +63,8 @@ case number, candidate related cases, relevant series, coverage and present cust
 **Check:** A collection title or same name is not a case link. Record the stated connection
 between a related proceeding and the principal case, or leave that connection unresolved.
 
+Do not expect a pre-1900 U.S. probate file to give the death date: the court needed to know that the person was dead, not when, so the record may give no date or only "on or about" a date [S68]. Probate records are inconsistent about death dates, and an index can carry a date that the record itself lacks [S69]. Enter a stated date with its wording. Otherwise bound the death by the earliest court action that requires it, such as the petition to open the estate or the will's proving, and not by the witnesses' testimony, which in some areas was taken when the will was written [S69].
+
 If the expected court yields no case, do not report "no probate". Widen the search as a logged
 set of candidate courts and years. Include the residence and place-of-death courts when they
 differ, adjoining counties, and a court where heirs lived. Extend the years well past the death,
@@ -72,6 +74,10 @@ these places establishes jurisdiction. The
 [Tanner probate-finding segment](https://www.youtube.com/watch?v=oZiYbKNvxJY) and
 [later talks](https://www.youtube.com/watch?v=Yt91gmZt8sE) motivate this list. They supply no
 jurisdiction rule or fixed time span for any state or period. [S1, S14]
+
+Search the courts of the counties a person had left as well, even after the estate where he died is found and closed. An estate could be opened in a former county years later for money or property still there: in Neill's example, an estate was opened there ten years after the death in another state, to receive a settlement from a lawsuit that had taken years [S94]. A proceeding for assets in a state other than the one where the deceased lived is an ancillary administration [S95]. Enter such an estate as its own candidate case with its own locator and identity check.
+
+Before reporting a woman's death or estate record missing, look for a late last marriage and search under that husband's surname as well as the name she had with her children's father. Neill calls the last husband's surname crucial to finding a woman's death and estate settlement [S88]; widowed and divorced women often kept a prior husband's surname unless they remarried [S89].
 
 Treat names on a case wrapper as a finding aid, not an exhaustive person index. When
 independently supported locality, family and time context justifies inspecting that case,
@@ -88,6 +94,10 @@ search later volumes across the case's active years.
 [court-records example](https://www.youtube.com/watch?v=JrcVzlwtnuQ) motivate this step. The
 system must be established for each court and period; neither source documents the filing system
 of a specific court. [S5]
+
+Browse the county will book even when the person died intestate: in some U.S. areas, particularly before the Civil War, it also recorded inventories, appointments of administrators and executors, sale accounts and lists of disbursements [S84], [S86].
+
+For a Virginia estate, search the Library of Virginia's Wills and Estate Records Index, which covers wills, inventories, sales and other estate records from 1633 to 1800 in the will books of fifty-one counties and cities, and in some cases estate records in county order books [S86 @2026-11-14]. Then search that county court's order or minute books, which record every matter brought before the court and can hold information from loose papers since lost [S87 @2026-11-14]. Do not assume a loose-paper estate file exists: Neill expects a 1760 Virginia will to leave references in the order books but probably no case file [S85 @2026-11-14]. Record which loose papers survive for that county before calling a file missing.
 
 For a death in Russia in the late Soviet period or later, search the public notarial
 inheritance-case registry by full name. Enter each hit as a candidate case row: death date, case
@@ -109,6 +119,12 @@ given in that file. [S19]
 For a Pennsylvania estate, search two sets of county series, even after a will is found. Wills, administration papers, will books, administration dockets and their indexes belong to the Register of Wills; real-estate divisions, the audit of accounts and the property and care of minor heirs belong to the Orphans' Court, which also appointed guardians and oversaw partition and distribution [S21 @2026-11-12], [S39 @2026-11-12]. In the State Archives' microfilm list, a county's will books, estate indexes and Orphans' Court dockets can sit under one office heading, the Register of Wills and Clerk of the Orphans' Court, and state law lets smaller counties consolidate these elected offices [S40 @2026-11-12]. One office can therefore hold both sets; search each series' own index or docket instead of treating the will index as covering the Orphans' Court.
 
 When a Pennsylvania index entry gives only a book and page, take them to FamilySearch's Pennsylvania, Probate Records, 1683-1994, which is browsed by county and volume through waypoints rather than searched by name [S41 @2026-11-12], [S42 @2026-11-12]. Open the named volume, go to the cited page, and record the image number separately [S21 @2026-11-12]. Do not stop at an index entry in Ancestry's Pennsylvania, U.S., Wills and Probate Records, 1683-1993, and do not read a missing image there as a lost record: that collection has searchable indexes, and not every entry has an image [S21 @2026-11-12], [S42 @2026-11-12].
+
+When no will survives for a colonial Maryland ancestor, search the court records [S56], and route them by date. Orphans' courts, each served by a register of wills, were first created under the Acts of 1777, so do not look for one earlier [S59]. The Provincial Court heard testamentary and guardianship cases until the Prerogative Court was established and guardianship passed to the county courts [S57]. From 1692 a deputy commissary in each county took probate, recorded each will, inventory and account in his own books and sent the papers to the Prerogative Office to be recorded again [S58]. Search both the county's books and the Prerogative Court's series.
+
+For a New Hampshire estate before 1771, search the provincial probate records, not a county court. Probate from 1636 to 1771 was filed at Exeter and Portsmouth, and the colonial probate files are now at the New Hampshire State Archives [S60 @2026-11-14], [S61 @2026-11-14]. Counties were created in 1769, but the provincial probate period runs to 1771 [S61 @2026-11-14]. For a town near the Massachusetts border, also search the Massachusetts county probate records [S61 @2026-11-14].
+
+For Connecticut, search by probate district, not by town or county [S60 @2026-11-14]. Look the town up in the Connecticut State Library's Probate Districts by Town guide, which gives the district or districts the town belonged to at different times [S62 @2026-11-14]. A district created later out of another does not hold the earlier estates: Colchester's district was created in 1832 out of East Haddam, so an earlier Colchester estate is in the East Haddam district [S63 @2026-11-14]. Repeat the check for the parent district's own creation date. Connecticut probate courts also handled guardianships, adoptions and conservatorships, so search the same district for them [S62 @2026-11-14].
 
 ### Swedish absent probate: separate production from surviving copies
 
@@ -230,6 +246,10 @@ establish that any court still holds or will retrieve an unfilmed packet. [S7]
 
 When a will names many children, note which are grouped in the same clause with the widow and which are placed apart as already provided for, rather than extracting one sibling group of the widow or reading the split only as a difference in bequests. The Legal Genealogist reports treating such a split as a hypothesis of different mothers, to be tested against tombstone dates, family Bibles and similar sources, which belongs in the evidence workflow. The author says the grouping is not proof by itself, and the example is one North Carolina will. [S33]
 
+Do not read "my now wife" in a will as evidence of an earlier marriage. Neill reads the phrase as naming the wife at the time the will was written, to make clear who takes a bequest, as in a farm left to "my now wife" and after her death to "our children" [S67]. Test an earlier marriage in other records.
+
+Treat a bequest to grandchildren as a lead that their parent died before the will, not as proof: a will can leave property directly to grandchildren whose parent is alive, as current North Carolina law states [S55]. A grandchild with another surname suggests a daughter's child, and one with the testator's surname a son's child [S51], but an unmarried daughter's child can carry the testator's surname. Establish the grandchildren's parent, and whether that parent had died, from other records before placing them.
+
 ## 3. Search for later and non-will parts of the proceeding
 
 1. Review the inventory for administration, guardianship, appraisal, accounts and settlement
@@ -250,6 +270,14 @@ results and reasons for each extension.
 
 **Check:** A later recording date is not a later death date. Finding a settlement several years
 after death demonstrates the need for that case's wider search; it supplies no universal deadline.
+
+When the final settlement or division comes years after the death, check two ordinary causes before reading the delay as a family dispute. Common-law dower was a widow's life estate in one third of her husband's land, so the heirs' possession of that part waited until her death [S82]; a will could also give her a life estate [S80]. Property was divided once all parties agreed or all heirs had come of age [S83], and heirs could wait for the youngest to come of age rather than act through a guardian [S80]. Run the search for the final settlement or partition to the later of the widow's death and the youngest heir's majority, taking the age of majority for that place, date and sex and whether marriage ended minority there, as in the Iowa rule below, and search the land records as well as probate, because the final division can appear in either or both; in Neill's Kentucky example, the land was partitioned sixteen years after the death [S81].
+
+Do not record the administrator of an intestate estate as the spouse or a child by default. The spouse and heirs usually had priority, but a spouse could refuse and children could decline, so another heir or a creditor could take the office [S96]; current North Carolina law, for example, ranks the spouse, then heirs, next of kin and creditors, and lets a person with priority renounce [S97]. Record the person in the role of administrator only, and research an unfamiliar administrator's relationship to the deceased, if any, in other records.
+
+An administrator *de bonis non* was appointed to finish an administration that the earlier administrator could no longer complete [S91], [S92]. Queue the earlier appointment as its own row and look in the court's orders for why it ended; the court may state a reason or may simply relieve the earlier administrator [S91].
+
+Search the probate index even for a person who left no property, and classify each hit by proceeding type before treating it as an estate. Probate courts could also decide a person's sanity before commitment to a state hospital: in Minnesota their records include insanity case files, in some counties numbered in one sequence with the estates, and insanity record books mostly dated before 1920 [S77]. Neill found two entries for one poor ancestor that were insanity cases, not estates [S76]. Take a commitment case to [institutional patient records](institutional-patient-record-recovery.md).
 
 If an inspected estate instrument defers distribution or control until a condition is met,
 retain its literal terms and locator. When independent records support a potential triggering
@@ -279,6 +307,12 @@ and proxy-signing rules vary by place and period. A receipt is an heir lead for 
 workflow, not proof of kinship. A receipt without share wording does not prove a creditor. Do not
 presume the deceased heir's case exists or was filed in the same court. [S8, S9]
 
+Inventory the final settlement or final account as its own row, and compare its heirs with those first named in the will, petition or early accounts. Heirs who died during the settlement can be replaced there by others who were not listed at first [S90]; settlement records also show heirs who died and women who married before the final settlement [S83]. Record each change as a dated event on the heir, and pass the division of the money to the evidence workflow as a clue to each heir's relationship [S90].
+
+For a relative who vanished, list the relatives who died after the disappearance and from whom that person stood to inherit, such as a sibling who died without children or a will, and search their estate files. To settle such an estate the court had to deal with the absent heir, and its file can record when the heir was last seen, testimony about the search, a court declaration that the heir was dead, or the heir's reappearance [S64], [S65]. A probate court can declare an heir missing for years dead for probate purposes and distribute the share to that heir's own heirs [S66]. Record such a declaration as a legal finding for that estate, not as a date or place of death.
+
+When an item in an estate appraisal is illegible, read it against its neighbors. Appraisers usually walked the property, often room by room, so an appraisal tends to group items by place or purpose, and some name the room [S78], [S79]. Ask where the surrounding items stood (kitchen, barn, field) and what the unclear word could be in that group, then record the reading as an inference with that reasoning, not as a transcription. Grouping is less likely in a list of items sold than in the appraisal [S78].
+
 Inventory an estate sale bill or vendue list as its own row, and copy each buyer with the item and price where the list gives them. Look for it with the inventory, in the case file or in a separate sales book. Buyers likely knew the deceased and can include relatives and associates; work first through those who bought more than two items [S44]. Flag a buyer of a family keepsake such as the Bible and a buyer who was also the administrator: in one 1821 Ohio estate, the author identified both as sons of the deceased from other records [S43]. Queue each flagged buyer as a separate candidate relative for the evidence workflow; a purchase alone does not prove kinship.
 
 Do not skip guardianship or orphans' court entries because a parent survived: if minors may have
@@ -288,6 +322,8 @@ children are later found ([guardianship tip](https://www.youtube.com/watch?v=Cjj
 varied by place and period; a failed guardianship search carries evidentiary weight only after
 establishing the applicable requirement, the expected recording and adequate surviving coverage, and
 a guardianship alone does not establish the father's death. [S10]
+
+Read a minor's guardian in an estate as the manager of the child's property, not as the child's household. Guardianship had little to do with physical custody; its main purpose was to manage and preserve the orphan's inherited estate [S52], and the children could stay with their mother while the guardian handled their inheritances [S51]. Do not move the children into the guardian's household or infer the mother's death from the appointment. An estate guardian shows the child had property to manage, since orphans who inherited nothing did not need one [S52]. If a guardian was appointed while a parent was alive, look for that property's source, such as a grandparent's estate or a land transfer: a guardian could be appointed even when a parent was alive if the minor personally owned property [S54], and Neill asks whether such an appointment kept a parent from spending an inheritance [S53].
 
 For a bounded ancestor, locality and period, reverse the guardianship question: look for wards
 for whom that person acted, not only guardians of their own children. Inspect which roles the
@@ -324,6 +360,12 @@ interpreting a suit. [S11]
 
 For Illinois land with underage heirs where dower, partition or sale was at issue, look for a court case, and do not read a filing over dower or partition as proof of a family dispute. A guardian's sale of a minor's land worked through a court order, and an 1877 decision held a guardian's sale decree void for lack of notice to the heirs. [S34], [S35] A partition decree had to include and represent minors. [S36] No Illinois authority was found that division or dower assignment always needed the court, so need is established only for guardian sales. The Legal Genealogist's example is one party's allegation in an 1880 McHenry County bill, and the post cites no statute for it. [S37]
 
+Search for a will contest outside the probate series as well as in it. A separate suit over a will may be filed with the non-probate court records of the county where the estate was administered [S45]. Which court heard a contest depends on the place and period: in Tennessee a contested probate could be filed in the chancery or circuit court [S47]; Maryland's 1777 act let the parties in contested cases file in the general court, the chancery court or the county court [S59]; in England and Wales before 1858 disputes could go to the church courts or to secular courts, most often Chancery, and from 1858 went first to the new Court of Probate, though Chancery could still hear them [S46]. Recover a U.S. suit file through [court case files](court-case-file-recovery.md). Read the probate packet even for an intestate estate: it can hold a copy of a will the court refused to probate, which still carries family clues [S45].
+
+When a child seems to be omitted from a will, collect every probate record of the settlement, not only the will [S48], [S49]. Look for settlement deeds for property the will does not mention and note whether every heir signed, since an omitted child may still be an heir [S48]; look in the land records for a transfer between the deceased and that child [S49]; and search for a suit over the will's validity as above [S48]. Whether an omitted child took a share depends on the law of the place and date: at common law the omission was presumed deliberate, while pretermitted-heir statutes give an unintentionally omitted child the intestate share, in some states only a child born after the will [S50].
+
+Do not read the lack of a recorded lease as evidence that land had no tenants: a rental agreement generally did not have to be recorded [S73]. Look for leases and tenants in estate and court files. A lease in force at a death can be filed in the probate case, and a dispute can bring a copy of the lease or its terms into a court case [S72]; tenants can be named in an estate partition suit because they had an interest in the land, and a landlord-tenant suit can give lease terms [S70]. For a rural renter, read the probate and estate records for leases and rented property that place the family [S71], [S74]. A lease described as recorded in a case file was filed there as evidence, not recorded like a deed [S72], but still search the county's deed and lease books: Hamilton County, Ohio, recorded leases in its deed books from 1794 to 1848 and in separate lease books from 1848 [S75].
+
 When the court file is lost or a packet is missing, search the county or regional newspaper's
 legal notices for the estate. Look for claim or creditor notices, petitions to sell land to pay
 debts (which may name heirs and describe the land), estate-sale notices and final-account hearing
@@ -332,6 +374,8 @@ queue the proceeding it points to. The
 [legal-notice examples](https://www.youtube.com/watch?v=Mr03rzuk2gA) motivate this substitute. A
 notice shows only what was published, such as alleged heirs or a scheduled hearing. It does not
 give the will's contents, the court's decision or a complete heir list. [S12]
+
+Search newspapers for the estate even when the packet survives. Neill found newspaper items about estate papers that were never found and that the packet did not mention, and one of them reported that the deceased had been married before and had children with his first wife [S93]. Enter such an item as a dated row with its newspaper locator, and pass any family statement in it to the evidence workflow as a lead.
 
 Do not look for probate matters only in court files: The Legal Genealogist reports finding a probate court docket printed in a local newspaper, listing the matters scheduled for a court session and naming the role of the person acting, such as administrator or guardian. The example is one Missouri docket from August 1876, it could not be independently checked, and the post does not say how commonly newspapers printed such dockets. [S38]
 

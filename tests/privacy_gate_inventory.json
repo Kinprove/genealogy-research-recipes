@@ -414,6 +414,24 @@
   "checkpoint": "Messaging a memorial's contributor about a photograph reaches a living stranger and discloses the user's research interest; answer the privacy gate in `SKILL.md` first."
  },
  {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "contact",
+  "action": "ask the council's bereavement service to search its registers",
+  "checkpoint": "A search request to a council, church, record office or Friends group names the deceased"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "contact",
+  "action": "Ask at the church and the county record office for a plan of the churchyard",
+  "checkpoint": "A search request to a council, church, record office or Friends group names the deceased"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "contact",
+  "action": "ask a Friends group to help find it",
+  "checkpoint": "A search request to a council, church, record office or Friends group names the deceased"
+ },
+ {
   "recipe": "canadian-provincial-record-routing.md",
   "kind": "request",
   "action": "Past the archive cut-off, route to the provincial registry",
@@ -1810,6 +1828,12 @@
   "kind": "request",
   "action": "Take the case number to the file's holder",
   "checkpoint": "A request for a court-martial file of the Civil"
+ },
+ {
+  "recipe": "state-legislative-private-act-petitions.md",
+  "kind": "request",
+  "action": "Ask the National Archives' Center for Legislative Archives for the papers",
+  "checkpoint": "A request for the papers names the claimant and family"
  },
  {
   "recipe": "uk-census-and-1939-register-interpretation.md",
