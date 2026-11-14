@@ -10,7 +10,7 @@ guardrails: [{"id": "COURT-CASE-FILE-RECOVERY-01", "text": "Captions, arrests, i
 handoff: ["criminal-court-prison-record-recovery", "us-federal-court-case-file-recovery"]
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
 router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1104}
 ---
 
@@ -152,6 +152,11 @@ List each witness, juror and court officer named in a criminal case file or an i
 A gap in the inventory is a retrieval gap. It is not evidence that a step never happened.
 
 ## Search the newspapers around each court date
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A name search on an online newspaper
+site sends a party's name, with the case it concerns, to that service, and a 20th-century party,
+witness or child may be living. Answer the privacy gate in `SKILL.md` before entering a possibly
+living person's name.
 
 List the date of each significant step in the docket or file, such as the filing, hearings, the judgment or sentence and any appeal, and search the local papers around each date [S32]. Search the paper published at the county seat as well as papers near the person's home [S34]. Look for the term's list of cases, short reports of what happened, legal notices the law required, and fuller articles on cases of local interest, which can hold details the court record lacks [S34], [S43]. Browse the issues around each date by hand as well, because OCR errors make keyword searches miss names [S32], [S44]. Expect a fuller article only for a case that was local news [S34]: its absence says little, while a missing term list or required notice means searching another paper or issue. For legal notices and the handoff from a notice back to the court, use [newspaper search recovery](newspapers-com-search-recovery.md).
 

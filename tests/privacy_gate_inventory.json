@@ -534,6 +534,18 @@
   "checkpoint": "A court-file request can disclose a party's identity and allegations or family circumstances"
  },
  {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search the local papers around each date",
+  "checkpoint": "A name search on an online newspaper"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "run the same search from the dates you know",
+  "checkpoint": "A name search on an online newspaper"
+ },
+ {
   "recipe": "criminal-court-prison-record-recovery.md",
   "kind": "third-party-tool",
   "action": "check available **name indexes before requiring a date or inmate number**.",
