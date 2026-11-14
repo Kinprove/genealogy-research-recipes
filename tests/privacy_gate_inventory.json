@@ -831,7 +831,13 @@
   "recipe": "england-wales-gro-index-recovery.md",
   "kind": "request",
   "action": "Order using the full reference",
-  "checkpoint": "A certificate order sends the name and the index"
+  "checkpoint": "A certificate, PDF or image order sends the"
+ },
+ {
+  "recipe": "england-wales-gro-index-recovery.md",
+  "kind": "request",
+  "action": "order the GRO's Online View digital image",
+  "checkpoint": "A certificate, PDF or image order sends the"
  },
  {
   "recipe": "ethnicity-estimate-version-comparison.md",
