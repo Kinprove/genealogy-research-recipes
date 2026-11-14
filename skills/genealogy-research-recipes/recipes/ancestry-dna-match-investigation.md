@@ -180,11 +180,10 @@ help focus the anchor question, as in the [half-sibling example](https://www.you
 
 **To isolate one man's line, pair the tester with a match through his other wife.** When the
 tester descends from one wife of an ancestor and a documented match descends from another, the
-shared matches of the two should connect through the husband's family rather than either wife's,
-so they form a network for his line to work through (My Family Pattern, 2026-01-01 [S12]). The
-descendants of a half-sibling carry none of the other spouse's DNA [B57]. Check each shared match's
-tree before placing it on his line: a shared match can still relate to both testers through another
-line, through related wives or through endogamy.
+shared matches of the two connect through the husband's family, not either wife's, so they form
+the network for his line to work through (My Family Pattern, 2026-01-01 [S12]); a half-sibling's
+descendants carry none of the other spouse's DNA [B57]. If the two wives were related, or the
+family is endogamous, check each shared match's tree before placing it on his line.
 
 **Output:** a branch you can recognize while scanning a shared list, plus an explicit next task.
 
