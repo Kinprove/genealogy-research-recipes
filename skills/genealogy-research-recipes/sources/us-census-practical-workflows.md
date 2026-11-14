@@ -112,6 +112,66 @@ draw on each source.
 | S92 | Diana Elder, Family Locket, [John Royston's Orphan: Lucky Winner of the 1827 Georgia Land Lottery](https://familylocket.com/john-roystons-orphan-lucky-winner-of-the-1827-georgia-land-lottery/) | 2023-03-26; read 2026-11-12 | 1: Georgia's early schedules |
 | S93 | Georgia Archives, [Census Records](https://georgiaarchives.org/research/census_records) | read 2026-11-12 | 1: Georgia's missing 1790–1810 schedules and tax-digest substitutes |
 | S94 | National Archives, [Nonpopulation Census Records](https://www.archives.gov/research/census/nonpopulation) | read 2026-11-12 | 10: where agriculture schedules are held |
+| S95 | Michael John Neill, Genealogy Tip of the Day, [US Census Dates](https://genealogytipoftheday.com/index.php/2023/09/22/us-census-dates/) | 2023-09-22; read 2026-11-14 | schema: reference date and visit date |
+| S96 | U.S. Census Bureau, [FAQs About the History of Demographic Surveys](https://www.census.gov/about/history/historical-censuses-and-surveys/census-programs-surveys/demographic/faq.html) | read 2026-11-14 | schema: official census dates |
+| S97 | Michael John Neill, Genealogy Tip of the Day, [Last Name Dropped?](https://genealogytipoftheday.com/index.php/2025/08/03/last-name-dropped/) | 2025-08-03; read 2026-11-14 | 1: middle name entered as surname |
+| S98 | FamilySearch Community, [a user's comment in the thread "Can someone here please fix the last name for this family on their 1910 US Census entry?"](https://community.familysearch.org/en/discussion/comment/546462) | 2024-03-05; read 2026-11-14 | 1: given name entered as the family's surname |
+| S99 | Michael John Neill, Genealogy Tip of the Day, [What Page Number are You Using?](https://genealogytipoftheday.com/index.php/2022/11/22/what-page-number-are-you-using-2/) | 2022-11-22; read 2026-11-14 | locator: several page-number sets |
+| S100 | Evidence Explained forum, [reply by EE in the thread "U.S. Census page ID missing"](https://evidenceexplained.com/node/698) | 2014-10-27; read 2026-11-14 | locator: naming the set of page numbers |
+| S101 | St. Louis Genealogical Society, [Citations: Census Records](https://stlgs.org/citationscensus-records) | read 2026-11-14 | locator: stamped page-number example |
+| S102 | Price Genealogy, [LABOR DAY – A Thank You to American Workers!](https://www.pricegen.com/labor-day-a-thank-you-to-american-workers/) | 2024-09-03 in saved metadata; read 2026-11-14 | schema: 1880 work, sickness and school fields |
+| S103 | IPUMS USA, [1880 Census: Enumeration Items](https://usa.ipums.org/usa/voliii/items1880.shtml) | read 2026-11-14 | schema: 1880 occupation, unemployment, sickness and school fields |
+| S104 | IPUMS USA, [1880 Census: Instructions to Enumerators](https://usa.ipums.org/usa/voliii/inst1880.shtml) | read 2026-11-14 | schema: a child's occupation |
+| S105 | Price Genealogy, [1850 to 1940 United States Censuses Part 1](https://www.pricegen.com/the-1850-to-1940-united-states-censuses-part-1/) | 2022-04-15 in saved metadata; read 2026-11-14 | schema: occupation scopes; 7: 1900 birth month |
+| S106 | IPUMS USA, [1850 Census: Instructions to Enumerators](https://usa.ipums.org/usa/voliii/inst1850.shtml) | read 2026-11-14 | schema, 1, 7: occupation, real estate, marriage mark, order of names |
+| S107 | IPUMS USA, [1860 Census: Instructions to Enumerators](https://usa.ipums.org/usa/voliii/inst1860.shtml) | read 2026-11-14 | schema, 1, 7: occupation, real estate, marriage mark |
+| S108 | IPUMS USA, [1900 Census: Instructions to Enumerators](https://usa.ipums.org/usa/voliii/inst1900.shtml) | read 2026-11-14 | schema, 7: occupation, month and year of birth |
+| S109 | IPUMS USA, [1940 Census: Instructions to Enumerators](https://usa.ipums.org/usa/voliii/inst1940.shtml) | read 2026-11-14 | schema: occupation scope |
+| S110 | IPUMS USA, [1950 Census: Instructions to Enumerators](https://usa.ipums.org/usa/voliii/inst1950.shtml) | read 2026-11-14 | schema, 1, 6: 1950 definitions, T-Night, inmates, sample lines, children ever borne |
+| S111 | Price Genealogy, [The 1950 Census](https://www.pricegen.com/the-1950-census/) | 2022-04-01; read 2026-11-14 | schema, 1, 6: 1950 rules and forms |
+| S112 | Michael John Neill, Genealogy Tip of the Day, [Abbreviations](https://genealogytipoftheday.com/index.php/2025/05/04/abbreviations/) | 2025-05-04; read 2026-11-14 | schema: place abbreviations |
+| S113 | U.S. Postal Service, [State Abbreviations](https://about.usps.com/who/profile/history/state-abbreviations.htm) | read 2026-11-14 | schema: 1831 and 1874 abbreviations |
+| S114 | Allen County INGenWeb, [1850 Census in Allen County, Indiana](https://www.acgsi.org/genweb/census/1850-census-in-allen-county-indiana.html) | read 2026-11-14 | schema: Ia. for Indiana in 1850 |
+| S115 | Price Genealogy, [1790 – 1840 Censuses](https://www.pricegen.com/1790-1840-censuses/) | 2022-04-29 in saved metadata; read 2026-11-14 | 1, 4: early columns, lost returns, Indians not taxed |
+| S116 | U.S. Census Bureau, [Censuses of American Indians](https://www.census.gov/about/history/census-records-family-history/census-records/censuses-of-american-indians.html) | read 2026-11-14 | 1: Indians not taxed |
+| S117 | National Archives, 1950 Census website, [Native Americans in the 1950 Census](https://1950census.archives.gov/howto/native-americans.html) | read 2026-11-14 | 1: Form P8 |
+| S118 | National Archives, 1950 Census website, [FAQs](https://1950census.archives.gov/howto/faq.html) | read 2026-11-14 | 1, 6: forms P2, P4 and P8, overseas returns, housing side |
+| S119 | Cari A. Taplin, Genealogy Pants, [Did MY George Long Serve in the War of 1812?](https://genealogypants.com/2025/07/09/did-my-george-long-serve-in-the-war-of-1812/) | 2025-07-09; read 2026-11-14 | 1: Ohio's 1810 census |
+| S120 | Amie Tennant, FamilySearch blog, [1810 United States Census](https://www.familysearch.org/en/blog/1810-us-census) | 2022-08-25; read 2026-11-14 | 1, 4: lost 1810 schedules, substitutes, columns |
+| S121 | National Archives, [Census Records: Microfilm Availability and Access, 1790–1890, part 2](https://www.archives.gov/research/census/microfilm-catalog/1790-1890/part-02) | read 2026-11-14 | 1: missing 1790 schedules |
+| S122 | Michael John Neill, Genealogy Tip of the Day, [The First Time They Gave Their Name](https://genealogytipoftheday.com/index.php/2026/07/02/the-first-time-they-gave-their-name-3/) | 2026-07-02; read 2026-11-14 | 1: stepfather's surname before marriage |
+| S123 | Michael John Neill, Genealogy Tip of the Day, [Do I Need that Wrong Name?](https://genealogytipoftheday.com/index.php/2024/02/11/do-i-need-that-wrong-name/) | 2024-02-11; read 2026-11-14 | 1: search window for the stepfather's surname |
+| S124 | Michael John Neill, Genealogy Tip of the Day, [What Does a Child's Name Change Mean?](https://genealogytipoftheday.com/index.php/2023/02/19/what-does-a-childs-name-change-mean/) | 2023-02-19; read 2026-11-14 | 1: stepfather's surname is not adoption |
+| S125 | Geoff Rasmussen, Legacy Family Tree blog, [Where did the children go?](https://legacyfamilytree.com/blog/2019/03/where-did-the-children-go/) | 2019-03-11; read 2026-11-14 | 1: children entered under the head's surname |
+| S126 | Michael John Neill, Genealogy Tip of the Day, [Time Doing Relatives?](https://genealogytipoftheday.com/index.php/2025/08/17/time-doing-relatives/) | 2025-08-17; read 2026-11-14 | 1: prison as an explanation |
+| S127 | U.S. Census Bureau, [1890 Census Instructions to Enumerators](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1890/1890-instructions.html) | read 2026-11-14 | schema, 1, 5: 1 June 1890, institutions, family schedule |
+| S128 | Price Genealogy, [1850 to 1940 United States Censuses Part 2](https://www.pricegen.com/1850-to-1940-united-states-censuses-part-2/) | 2022-04-23 in saved metadata; read 2026-11-14 | 1: a real-estate value that goes blank |
+| S129 | Genealogy TV 2, [Finding Tons of Land Records](https://www.youtube.com/watch?v=zP7sXusw3aE) | 2024-10-20; transcript read 2026-11-14 | 1: home owner to deed index |
+| S130 | Legacy Tree Genealogists, [Land Records That Can Help Solve Genealogy Brick Walls](https://www.legacytree.com/blog/land-records-genealogy-brick-walls) | 2019-10-16; read 2026-11-14 | 1: deed indexes after a move |
+| S131 | IPUMS USA, [1870 Census: Instructions to Enumerators](https://usa.ipums.org/usa/voliii/inst1870.shtml) | read 2026-11-14 | schema, 1: women keeping house, personal estate under $100 |
+| S132 | Michael John Neill, Genealogy Tip of the Day, [Increase the Chance You've got the Same pre-1850 Households](https://genealogytipoftheday.com/index.php/2024/09/24/increase-the-chance-youve-got-the-same-pre-1850-households/) | 2024-09-24; read 2026-11-14 | 4: following tallies across censuses |
+| S133 | Legacy Tree Genealogists, [A Guide to Pre-1850 US Federal Censuses](https://www.legacytree.com/blog/pre-1850-us-federal-censuses) | 2021-03-08; read 2026-11-14 | 4: ten-year progression of categories |
+| S134 | Michael John Neill, Genealogy Tip of the Day, [The Census Entry You Can't Find Before 1850](https://genealogytipoftheday.com/index.php/2024/09/21/the-census-entry-you-cant-find-before-1850/) | 2024-09-21; read 2026-11-14 | 4: relatives' households |
+| S135 | David A. Fryxell, Family Tree Magazine, [How to Find Ancestors Hiding in the Census](https://familytreemagazine.com/records/census/hiding-in-the-census/) | last updated 2026-02-06; read 2026-11-14 | 4: widowed mother as a tick |
+| S136 | U.S. Census Bureau, [1790 Census questionnaire](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1790_Census.html) | read 2026-11-14 | 4: 1790 columns |
+| S137 | U.S. Census Bureau, [1800 Census questionnaire](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1800_Census.html) | read 2026-11-14 | 1, 4: 1800 columns |
+| S138 | Amie Tennant, FamilySearch blog, [The 1820 U.S. Census Form](https://www.familysearch.org/en/blog/1820-census-form) | 2022-09-22; read 2026-11-14 | 4: new 1820 categories, naturalization lead |
+| S139 | U.S. Census Bureau, [1820 Census questionnaire](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1820_Census.html) | read 2026-11-14 | 4: foreigners not naturalized |
+| S140 | U.S. Census Bureau, [1830 Census questionnaire](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1830_Census.html) | read 2026-11-14 | 4: aliens, foreigners not naturalized |
+| S141 | Michael John Neill, Genealogy Tip of the Day, [1870 US Census-Marriage and Birth Questions](https://genealogytipoftheday.com/index.php/2024/01/10/1870-us-census-marriage-and-birth-questions/) | 2024-01-10; read 2026-11-14 | 7: 1870 month of birth or marriage |
+| S142 | U.S. Census Bureau, [1870 Census questionnaire](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1870_Census.html) | read 2026-11-14 | 7: 1870 month columns |
+| S143 | Cari A. Taplin, Genealogy Pants, [Revisiting My Roots: The GPS](https://genealogypants.com/2026/10/23/revisiting-my-roots-the-gps/) | 2026-10-23; read 2026-11-14 | 7: 1850 marriage estimate |
+| S144 | Michael John Neill, Genealogy Tip of the Day, [Meaning to the Order?](https://genealogytipoftheday.com/index.php/2025/10/30/meaning-to-the-order/) | 2025-10-30; read 2026-11-14 | 7: out-of-order names |
+| S145 | Michael John Neill, Genealogy Tip of the Day, [Mathilda 1 and Mathilda 2](https://genealogytipoftheday.com/index.php/2023/06/21/mathilda-1-and-mathilda-2/) | 2023-06-21; read 2026-11-14 | 7: two wives with one given name |
+| S146 | Christopher C. Child, Vita Brevis, [Matrilineal mergers: Part One](https://vitabrevis.americanancestors.org/2020/09/matrilineal-mergers-1) | 2020-09-23; read 2026-11-14 | 7: two wives merged into one |
+| S147 | English Ancestors, [Using overseas records to learn about our ancestors in the UK](https://englishancestors.blog/2024/06/28/using-overseas-records-to-learn-about-our-ancestors-in-the-uk/) | 2024-06-28; read 2026-11-14 | 7: parents' mother tongue |
+| S148 | U.S. Census Bureau, [1920 Census questionnaire](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1920_Census.html) | read 2026-11-14 | 7: 1920 mother-tongue columns |
+| S149 | U.S. Census Bureau, [Historical census questions on language](https://www.census.gov/topics/population/language-use/about/historical.html) | read 2026-11-14 | 7: mother tongue by year |
+| S150 | Price Genealogy, [1890 Census and Substitutes](https://www.pricegen.com/1890-census-and-substitutes/) | 2022-05-14 in saved metadata; read 2026-11-14 | 5: reading an 1890 family schedule |
+| S151 | U.S. Census Bureau, [April 2022: The 1950 Census](https://www.census.gov/about/history/stories/monthly/2022/april-2022.html) | read 2026-11-14 | 6: territorial schedules |
+| S152 | Michael John Neill, Genealogy Tip of the Day, [1880 Agricultural Census Asks About Tenure](https://genealogytipoftheday.com/index.php/2022/12/04/1880-agricultural-census-asks-about-tenure/) | 2022-12-04; read 2026-11-14 | 10: 1880 tenure |
+| S153 | Gerald Moore, Wayne County TNGenWeb, [The 1880 Census of Agriculture, Wayne County, Tennessee](https://tngenweb.org/wayne/?p=2102) | posted 2014-08-08; read 2026-11-14 | 10: tenure codes |
+| S154 | National Archives, 1950 Census website, [Questions Asked in the 1950 Census](https://1950census.archives.gov/howto/questions-asked.html) | read 2026-11-14 | 1, 6: Form P8 contents, sample lines |
 | H9 | [National Archives, *Prologue* (Fall 2008), the forgotten federal census of 1885](https://www.archives.gov/publications/prologue/2008/fall/1885-census.html) | 2008; read 2026-11-07 | 5: 1885 censuses |
 | H10 | [National Archives, descriptive pamphlets for M846 (New Mexico) and M845 (Florida)](https://www.archives.gov/files/research/census/nonpopulation/m846.pdf) | read 2026-11-07 | 5: 1885 censuses |
 | H11 | [State Historical Society of North Dakota, census records of the 1800s](https://web.archive.org/web/20260113231006/https://www.history.nd.gov/archives/gencensus1800.html) | Internet Archive capture of 2026-01-13 (the live page returned 404 on 2026-11-07); read 2026-11-07 | 5: 1885 censuses |
@@ -216,6 +276,41 @@ household (S86 only), and Oglethorpe County as the only county with an extant 18
 (S92; the Georgia Archives lists that return among its state census reports, S93). The
 apartment rule was checked for 1910 only (S85).
 
+### Notes on sources added 2026-11-14
+
+S95 to S154 were read on 2026-11-14; the IPUMS pages (S103 to S110, S131) are transcriptions
+of the enumerator instructions and item lists, not the printed originals. S129 was read as
+a captured caption transcript, not by watching the video.
+
+S96 gives 2 June as the 1890 census date; S127, the 1890 instructions, use 1 June. The
+recipe records 1 June and keeps the conflict visible. S97 and S98 report one case each;
+how often enumerators did this is not known. S105 dates the inclusion of women in the
+occupation question to 1880; S107 and S131 show earlier coverage, so that date is not
+adopted. Its other ages match S106, S108 and S109.
+
+S111 narrows 'separated' and the mixed-parentage rule (corrected from S110) and says that
+island birthplace columns showed only the territory or the continental U.S.; that
+birthplace statement was not verified and is not adopted. The Alaska rule rests on S151.
+S112's `Ca.` for Canada and California is the post's observation only. S114 relays an
+Indiana Genealogical Society note on `Ia.`; S113's table supports the 1831 form.
+
+S115 says some 1810 and earlier returns were destroyed in the War of 1812. S121 gives that
+cause, as apparent, only for the six missing 1790 states, and S120 gives no cause for the
+1810 losses. Whether any Ohio county's 1810 return survives outside NARA was not checked.
+
+S122 to S124 and S126 are short tips by one author. The adoption point and the divorce over
+imprisonment rest on S124 and S126 only, and S125 is one family's case. S128 and S129 are
+worked examples; neither shows that a blank value or a move means a sale. S130's advice on
+late-recorded deeds is stated for Pennsylvania.
+
+S132 and S134 are tips; S133 supports the ten-year progression and S135 only a widowed
+mother counted in a child's household, so the list of other relatives rests on S134. S143
+and S144 describe one estimate and one pattern; the absence of children and the meaning of
+a name's position are inferences. S146's case merged two wives with different given names,
+not the same name; it shows the merger, not how often a man married two women with one
+name. S147 is one household's 1910 entry; the years come from S148 and S149. S153 is one
+county's transcription, and the tenure codes are taken from its column notes.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
@@ -223,3 +318,7 @@ apartment rule was checked for 1910 only (S85).
 - MyHeritage Knowledge Base, Getting the Most Out of a Census Record, 2025-01-13, cited as S84 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
 - Roberta Estes, DNAeXplained, Daniel Vannoy (1752-after 1820), 2025-09-29, cited as S86 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Family Locket, Nicole Elder Dyer, Can ChatGPT Help with Genealogy Citations?, 2023-11-17, and Diana Elder, John Royston's Orphan, 2023-03-26, cited as S89 and S92 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
+- Michael John Neill, Genealogy Tip of the Day, posts of 2022 to 2026 cited as S95, S97, S99, S112, S122 to S124, S126, S132, S134, S141, S144, S145 and S152 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Price Genealogy, posts of 2022 to 2024 cited as S102, S105, S111, S115, S128 and S150 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Cari A. Taplin, Genealogy Pants, posts of 2025 and 2026 cited as S119 and S143; English Ancestors, 2024-06-28, cited as S147; Genealogy TV 2, Finding Tons of Land Records, 2024-10-20, cited as S129 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
+- Legacy Tree Genealogists, posts of 2019 and 2021 cited as S130 and S133; Geoff Rasmussen, Legacy Family Tree blog, 2019-03-11, cited as S125; David A. Fryxell, Family Tree Magazine, cited as S135; Christopher C. Child, Vita Brevis, 2020-09-23, cited as S146 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
