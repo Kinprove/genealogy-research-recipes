@@ -189,6 +189,8 @@ Additional project-results search sources:
 - **S44:** Roberta Estes, DNAeXplained, [Mitochondrial DNA: What is a Haplotype Cluster and How Do I Find and Use Mine?](https://dna-explained.com/2025/04/14/mitochondrial-dna-what-is-a-haplotype-cluster-and-how-do-i-find-and-use-mine/), published 2025-04-14, read 2026-11-12. Used for: haplogroup members who are beyond the match threshold do not appear on the matches page.
 - **S45:** Jonny Perl, DNA Painter Blog, [Shared DNA at a glance: the new DNA matrix tool](https://blog.dnapainter.com/blog/shared-dna-at-a-glance-the-new-dna-matrix-tool/), published 2025-05-21, read 2026-11-12. Used for: selecting up to ten matches for the FamilyTreeDNA Matrix. Its copying of the table into another tool is not used.
 - **S46:** Jeremy Balkin, FamilyTreeDNA Blog, [Tested With Another Company? Upload Your Data For Free!](https://blog.familytreedna.com/transfer-your-dna-data-for-free/), published 2019-05-02, read 2026-11-12. Used for: the editor's note that the Autosomal Unlock has been retired, and the features the unlock added: myOrigins, ancientOrigins and the Chromosome Browser.
+- **S47:** Louis Kessler, Behold Blog, [My Closest Unknown DNA Matches](https://www.beholdgenealogy.com/blog/?p=3872), published 2022-01-10, read 2026-11-14. Used for: comparing the author's segments with his uncle and with a match from his own kit, then the uncle's segments with him and with the match from the uncle's kit, and taking the intervals shared in all three pairings, at 6 cM or more, as triangulated.
+- **S48:** Roberta Estes, DNAeXplained, [Triangulation in Action at Family Tree DNA](https://dna-explained.com/?p=27648), published 2019-11-06, read 2026-11-14. Used for: the Chromosome Browser showing whether people match the tester on the same segment, and the in-common-with filter not showing whether two people match each other.
 
 ### Platform recheck, 2026-11-12
 
@@ -222,6 +224,7 @@ paragraphs.
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
-- Roberta Estes, DNAeXplained blog, posts cited as S23, S30, S31, S33, S36, S40, S42 and S44 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Roberta Estes, DNAeXplained blog, posts cited as S23, S30, S31, S33, S36, S40, S42, S44 and S48 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - FamilyTreeDNA Blog, posts cited as S9, S12, S32, S34, S35, S37, S38, S39, S41, S43 and S46 — Vendor blog; no explicit licence; paraphrased factual support with attribution (adapted)
 - Jonny Perl, DNA Painter Blog, post cited as S45 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Louis Kessler, Behold Blog, post cited as S47 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)

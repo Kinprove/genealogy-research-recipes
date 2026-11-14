@@ -178,6 +178,13 @@ The [couple-group example](https://www.yourdnaguide.com/ydgblog/finding-3xgg-wit
 motivates this selection. A documented descendant through an ancestor's other partner can
 help focus the anchor question, as in the [half-sibling example](https://www.yourdnaguide.com/ydgblog/half-siblings).
 
+**To isolate one man's line, pair the tester with a match through his other wife.** When the
+tester descends from one wife of an ancestor and a documented match descends from another, their
+shared matches are the network to search for the husband's line (My Family Pattern, 2026-01-01
+[S12]); a half-sibling's descendants carry none of the other spouse's DNA [B57]. Membership alone
+does not place a shared match on his line, since it can connect to each tester through a different
+family; place it from its tree.
+
 **Output:** a branch you can recognize while scanning a shared list, plus an explicit next task.
 
 ## 5. Fix the tester link; search hypotheses with a separate tree
@@ -192,6 +199,16 @@ the displayed home person as the tester without checking the actual DNA-to-perso
 Editing a tree leaves DNA matches and cM unchanged; it changes tree-derived paths.
 
 For ThruLines, matching must be enabled, with family-history membership, two-step verification or Apple/Google sign-in, and a linked public or private searchable tree containing identifying details across at least four generations. ThruLines reaches fifth-great-grandparents. A match appears in ThruLines only when that match also has a linked public or private searchable tree in which a common ancestor can be identified. A missing ThruLine can therefore reflect the match's tree, link or searchability, or an unidentified common ancestor; on its own it does not disprove a relationship. Its parent filter uses biological-parent labels in the tree, rather than DNA By Parent.
+
+**When ThruLines misses a match whose linked tree stops at their parents or grandparents, build the
+sibling's line down to them.** No tree it searches then joins those people to your ancestor, and
+your own tree can supply that link. Do descendancy research on the collateral line you expect, such as your ancestor's sibling, and add
+it to your own tree, sourced, down to the match's grandparents; once your tree includes them,
+Ancestry can make the connection (My Family Pattern, 2023-09-05 [S13 @2026-11-14]). Southard
+likewise advises adding siblings, aunts, uncles and cousins, not only direct ancestors, because
+they can become the missing links [S14 @2026-11-14]. Add only people known to be deceased, never
+the match or a parent who may be living, and mark a path that appears this way tree-generated
+until its descent is documented. It does nothing for a match with no linked tree.
 
 **Privacy gate before relinking:** <!-- privacy-gate: link --> A separate, labeled tree is not by itself a
 privacy safeguard. Before changing the DNA link or searchability, inspect the candidate

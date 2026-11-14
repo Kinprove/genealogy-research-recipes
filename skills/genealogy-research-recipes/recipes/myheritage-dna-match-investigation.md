@@ -201,6 +201,15 @@ relatives who tested elsewhere appear unmarked. So do not read a missing marker 
 5. If the next question is about a shared segment, use workflow 5. Being shared matches does not
    establish that all three share the same segment, nor name the ancestor who supplied it.
 
+**Sort by side in one direction only when your anchor is on one side.** If a known relative on one
+side, such as a maternal aunt, is your only anchor there, a match or cluster she shares is a lead to
+that side; one she does not share stays unassigned, not paternal. You can carry DNA from your mother
+that the aunt did not inherit, so some maternal matches are not shared with her (Price
+Genealogy, 2023-07-28 [S20]; Legacy Tree, 2019-06-04 [S21]), and two sisters can carry different grandparents' DNA at the
+same position (Perl, DNA Painter blog, 2021-07-28 [S22]). Move an unassigned cluster to the other
+side only through an anchor from that side. Workflow 5's provisional other-side group is narrower:
+it holds matches that overlap the anchor's own shared segment.
+
 **Output:** a triplet record with pair-labeled measurements and one concrete next comparison.
 
 ## 5. Use the triangulation shortcut, then compare smaller subsets
@@ -275,6 +284,19 @@ this check without verifying its branch assignments.
 5. Confirm or reject only after review. Save the reason in the packet. Confirmation tracks your
    assessment; it neither supplies documentary proof nor automatically updates the family tree.
    No theory means no generated suggestion currently visible, not no biological relationship.
+
+**Check the family group behind each connection, not only the join.** Test the family the
+underlying tree shows against your records and against plausibility. In a 2022 theory, one tree in
+the chain listed two brothers of nearly the same name born 1796 and 1848; brothers 52 years apart
+pointed to an error there, and the later man was more plausibly the earlier one's grandson, while
+the connections that agreed with the author's records held (Kessler, Behold Blog, 2022-06-29
+[S23 @2026-11-14]). Mark such a connection `contradicted` or `unresolved`, consider whether the
+person sits one generation off, and keep the connections your records support. Two siblings with
+one given name are only a warning sign: in many families the later child was named after one who
+had died (Hoitink, Dutch Genealogy, 2014-07-16 [S25 @2026-11-14]). MyHeritage lets you confirm or
+reject a theory as a whole, and its wiki says to confirm one that is accurate through any path
+[S24 @2026-11-14], so keep the per-connection results in the connection ledger and decide on the
+paths that survive.
 
 MyHeritage adds theories in periodic runs, not as trees or matches change [S9 @2026-11-12],
 [S10 @2026-11-12]. Its 2022 conditions are a tree that includes at least the tester, the
