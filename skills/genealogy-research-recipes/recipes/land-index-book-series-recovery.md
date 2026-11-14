@@ -51,6 +51,10 @@ before B existed. Search the appropriate parent-county series for that period an
 those books are held today. Keep later recording dates in mind too; a modern county-only search
 does not cover the tract's earlier records. [S35]
 
+Boundaries also moved between counties formed long before. When a family's deeds stop in one county although nothing shows that they sold out or moved, check for a later boundary adjustment that put their land in the neighbouring county, and search that county's indexes from the date of the change [S57]. Genealogy Tip of the Day reports a Kentucky adjustment, made well after both counties were formed, that moved several square miles and an ancestor's farm with them [S57]. Take the dates from a county-boundary chronology such as the *Atlas of Historical County Boundaries*, which outlines each county's boundary from its creation to its most recent change [S58].
+
+Do not assume a county's older land books are still at the courthouse. Some states take in older local records that a county can no longer keep [S59 @2026-11-14]. In Texas, the State Library and Archives Commission houses such permanent local government records, deeds among them, in regional depositories; a transfer is voluntary, and once records are transferred the state holds title to them [S60 @2026-11-14]. Before reporting a county series lost, look up that state's transfer program and search the state archives' holdings of local records [S59 @2026-11-14], [S60 @2026-11-14].
+
 For a supplied land lead, distinguish an original government disposition from a later
 private conveyance before choosing the index. Use the stated issuing authority and
 historical holdings descriptions to select the relevant grant/entry series or conveyance
@@ -98,6 +102,8 @@ can be a later holder rather than the first settler. Search county indexes for t
 the survey and patent dates. The [Pennsylvania discussion](https://www.youtube.com/watch?v=V0he2PdYk2k)
 motivates this order check. [S7]
 
+For a Pennsylvania original grant, search the State Archives' Land Office indexes stage by stage [S61 @2026-11-14]. The Warrant Registers (1733 to about 1957) are the basic index to warrants, surveys and patents for about 70% of the state's land. Each register covers a county as it was at the date of the warrant, so land now in a younger county is in the parent county's register, and entries run by the first letter of the warrantee's surname, then roughly by warrant date [S62 @2026-11-14]. The registers give the patentee but cannot be searched by that name; for the patentee, use the Patent Indexes (1684 to about 1957), arranged by the patentee's surname, which also give the warrantee, warrant date, patent book and page, acreage and county [S62 @2026-11-14], [S63 @2026-11-14]. Before 1733, use the Old Rights registers and the Proprietary Rights Index [S62 @2026-11-14]. Keep the stages apart: an application requests a warrant; a warrant authorizes a survey and starts title but does not convey all rights; the return of survey goes from the Surveyor General to the Secretary of the Land Office; only the patent conveys clear title [S61 @2026-11-14], [S64 @2026-11-14]. The State Archives holds only the surveys made for patenting; deeds and later surveys are with the county Recorder of Deeds [S61 @2026-11-14].
+
 When a supported warrant/survey or assignment lead remains unexplained by a deed search,
 follow the applicable grant/patent index to the described original survey and jacket. Inspect
 available assignment endorsements; retain assignor, assignee, requested grantee and dates as
@@ -142,6 +148,24 @@ missing it under C. Carry any supplied parcel reference into the comparison with
 This recovery step does not by itself establish a death date, a sale, kinship, legal liability
 or the identity of same-name people.
 
+### Colony, state and province routes
+
+**South Carolina.** Records were kept by district for long periods, so search a place under both "X District" and "X County" [S65]. The seven judicial districts date from 1769, not 1766 as a community post gives [S65], [S66]. The 1785 act laid out counties inside the districts; in 1800 most counties became districts, and from 1 January 1800 to 16 April 1868 the districts were the principal administrative units while counties survived mostly as geographical names; the 1868 constitution renamed the districts counties [S66], [S67]. For 1769–1799, also search the district that contained the county; for 1800–1868, read "district" as the county-level unit.
+
+For South Carolina colonial and state grants, search the Department of Archives and History's Online Records Index. Its Summary Guide marks the colonial land grants (copy series, 1675–1788), the colonial plat books (copy series, 1731–1775) and the state plat books (Charleston series, 1784–1860; Columbia series, 1796–1868) as in that index [S68 @2026-11-14]. Use a hit as the locator for the original plat or grant, and record the series and item it names.
+
+**Hudson Valley manors, New York.** A tenant on one of the manors, such as Rensselaerswyck, Livingston Manor, Philipsburgh or Cortlandt Manor, held the farm by lease, so expect a lease and rent payments, not a deed of purchase [S64], [S69]. The lease-holding system produced rent ledgers, surveys, receipts, ejectment suits and tax records [S69]. Search those as well as the county deeds.
+
+For Rensselaerswyck, the New York State Library holds the manor's leases, indexed by tenant name and dated 1721 to 1896, most of them from the late 1780s to the early 1800s [S71 @2026-11-14]. Its rent ledgers record dates of property transfers often not found in recorded deeds, subleases and partial interests; few surveys of the West Manor survived the 1911 Capitol fire, so use the ledgers and indexes for those farms [S70 @2026-11-14].
+
+**Hawaii.** One office, the Bureau of Conveyances, records instruments for the whole state [S74 @2026-11-14]. For the earliest deeds, search the FamilySearch collections that the University of Hawaiʻi library guide lists as "Hawaii, Grantor and Grantee Index, 1845-1909" and "Hawaii, Registrar of Bureau of Conveyances, Deed Records, 1846-1900", and open the index image for the deed's book and page [S72 @2026-11-14], [S73 @2026-11-14]. The deed images stop at 1900. Instruments recorded from 1909 to 1991 are found through the Bureau's indexes in its Public Reference Room, in bound libers or on microfilm; those recorded from January 1992 can be searched and bought online with an account [S73 @2026-11-14]. Private land is recorded in two systems, the Regular System and the Land Court, a Torrens registration created in 1903, so find out which system holds the parcel before you close a search [S73 @2026-11-14].
+
+**Upper Canada (Ontario) Crown grants.** Read the grant papers as stages. The settler petitioned the Executive Council; its decision, written on the petition and known as the Order of Council, was the official recommendation for the grant [S75], [S76]. The patent came only after the settlement conditions were met, which could take years, while Loyalist and military "privileged" grants were free of survey and patent fees [S76], [S77]. A petition or an Order of Council is a stage, not title: record its stage and date, and search for the patent separately. Patents are indexed by township for 1795–1850 and by surname for 1795–1825 [S77].
+
+For later Ontario transfers, use the books of the county's Land Registry Office, not a courthouse, and find the lot and concession first [S75], [S78]. The Abstract Indexes list the instruments for a township by lot and concession; the Alphabetical Indexes list them by the parties' names; the copybooks hold the registered instruments, with wills before 1865; and the General Registers, from 1865, hold copies of wills, not deeds [S78]. Take the instrument number from the abstract entry to the copybook [S79].
+
+W. Wesley Johnston's instructions say that FamilySearch has images of the abstract and the instrument books, while ServiceOntario's OnLand shows the abstract (parcel register) books under Historical Books for each Land Registry Office but not the instrument books [S79 @2026-11-14].
+
 ## 1. Identify how this index actually works
 
 1. Record the index title, jurisdiction, covered dates and the record series it indexes.
@@ -176,6 +200,8 @@ Retrieve every entry under the target name whatever its instrument type. Expect 
 parties too: brothers and sisters may all sign one deed giving up their claim to property from
 their parents [S44], and a guide to tracing formerly enslaved families reports finding a 1910
 deed that divided a man's land among his heirs [S45].
+
+Many clerks' grantor and grantee indexes list only the first-named grantor and the first-named grantee [S80], [S81], [S82]. A co-heir, co-seller or partner named second may have no entry under his own name, and deeds that settle inheritances, estate disputes and partnerships are the ones most likely to have several parties [S80]. When the target is missing, search the index under each relative by blood or marriage, and each partner, who could have been named first; if that also fails, read the deed books page by page for the relevant years [S80], [S82].
 
 ## 2. Copy the locator, then reconcile the alternative entry
 
@@ -225,11 +251,17 @@ result, verified document extent and any conflict between the supplied and retri
 **Check:** A miss in deed volume 12 does not settle an index reference to an unspecified volume
 12. Record which series was tested and what makes an alternative series plausible.
 
+Search the recorder's miscellaneous books under the family's names as well as the deed books. In Hamilton County, Ohio, the recorder accepted almost any document from 1794: non-deed instruments went into the deed books until 1859 and into Miscellaneous Books after that, except groups that got books of their own, such as powers of attorney and partnerships [S83]. The types listed include decrees, marriage certificates, changes of name, depositions, dower, wills and patents, and Army discharges to 1865 are in Miscellaneous Book 1 [S83]. Genealogy Tip of the Day reports out-of-state divorce decrees and copies of medical licences in such books [S84]. Read each book's own index; what a county put there varies.
+
+After you find a deed, read the deeds recorded the same day and several pages before and after it, for other transactions by the same people or for nearby land [S85]. Deeds that one grantor brought in together can be recorded one after another, and Genealogy Tip of the Day reports finding some of them missing from the index [S86].
+
 When an attributed lead identifies a loose or unrecorded deed, retain its parties, date and
 property clues. Check the actual custodian's holdings and finding route for those papers
 separately from recorded deed books; distinguish the target requested from what was recovered.
 The [loose-deed example](https://familylocket.com/rlp-225-how-multiple-relationships-affect-dna-match-analysis/)
 motivates this fallback without guaranteeing survival, access or a reason for nonrecording.
+
+When other records show a transaction for which no deed was recorded, look for collections of unrecorded deeds: published compilations and manuscript collections at historical societies [S87 @2026-11-14], and county archives. The Lancaster County, Pennsylvania, Archives Division keeps a grantor and grantee index of unrecorded deeds; it explains that the hardship of reaching the courthouse left some deeds never recorded and others recorded more than a century after they were drawn up [S88 @2026-11-14]. Some deeds in that collection were recorded later, so check the regular deed index for each hit too [S88 @2026-11-14].
 
 When a record-loss report covers the period, do not treat it as absence. Ask the custodian, or
 check the holdings description, whether deeds were re-recorded from returned originals, and
@@ -242,6 +274,8 @@ and [title-plant remark](https://www.youtube.com/watch?v=gssWfSl8JwY) motivate t
 do not show that a given county re-recorded, how such entries are marked, that every original
 came back, or that a plant survives, covers the period, is accessible or reaches back to the
 original grant. [S5, S6]
+
+Before accepting that "the courthouse burned", find out what was lost: some courthouses lost all their records and others only some, so establish the record types and years destroyed, office by office [S89], [S90], [S91]. Ask the county genealogical society, the public library and the courthouse; search the state archives and state library, which may hold copies of county records, and the National Archives for federal records about the same people [S89], [S90]. Then look for the records made to replace the lost ones. Texas acts of 1874 and 1876 required the re-registration of original deeds whose records had been destroyed [S92]. A North Carolina private act of 1873 provided for restoring Watauga County's burned records, and an owner could instead prove a burned deed in court by his own affidavit and other secondary evidence [S93]. Search the later recording books, the court records of such proofs, and any affidavits or depositions about ownership [S90], [S93]. Record each as a later statement about the earlier instrument, as for a re-recorded deed above.
 
 ### Swedish property books: follow rooms and changed parcel identifiers
 
@@ -529,6 +563,10 @@ local transfer records decide [S55].
 **Check:** A later registration does not move the underlying transaction to that year.
 Do not fill an absent date from an index column whose meaning remains unknown.
 
+Book order is recording order. Deeds were entered in the order they reached the recorder, not the order they were signed, so sort transactions by their instrument dates before you read a sequence of sales, or who died first, from the book [S94], [S95]. Recording could wait years or decades: one 1636 New England deed was recorded in 1717 [S95]. It often waited until the land was sold again, until the owner died, or until a minor child came of age or a surviving parent died or remarried [S85], [S94], [S95]. When a deed, release or power of attorney is missing near its date, search the indexes again from the parcel's next sale, from the settlement of the owner's estate and from any lawsuit over the land [S94], [S96]. Genealogy Tip of the Day reports a relinquishment recorded only when the land came into an out-of-state lawsuit decades later, and powers of attorney recorded only with the deed made under them [S96].
+
+Do not read a long gap between a deed's date and its acknowledgment as absence, dispute or a wrong date until you know the local procedure. Where the grantor had to acknowledge the deed in open court, he had to wait for a session, and in some areas court met only three or four times a year [S97]. In a Burke County, North Carolina, example, a deed dated 24 July 1805 was acknowledged in open court at the January 1807 session, and the entry survives in the court's minutes although the county's deed books were destroyed [S98]. Find out where and before whom acknowledgment had to be made and when the court sat, and search the court minutes for the acknowledgment or proof [S97], [S98].
+
 Compare the opening party roster with the execution names and roles before reporting a
 person absent from a deed. Retain blanks, additional names and discrepancies with their page
 locators; use relevant book practice and independent records to investigate unresolved roles.
@@ -559,7 +597,16 @@ Read instruments already in hand for those people too, and verify any search hit
 distinction. Full-text coverage and machine reading vary, so a full-text miss does not prove
 absence either. [S8]
 
+On surveys and grants, read a name marked C.C. or C.B. as a chain carrier or chain bearer, who carried the surveyor's measuring chain, and S.C.C. as a sworn chain carrier [S99], [S100]. Party indexes do not list them, so read the survey itself. Chain carriers were often relatives of the person for whom the land was surveyed, such as sons or brothers [S100], [S101]; record them as associates to test, not as kin. Do not infer legal age from the label alone: a Tennessee glossary says a plain C.C. could be under legal age while a sworn carrier would have reached it, and a Cumberland County, North Carolina, guide says male chain carriers had to be 14 or older [S100], [S101].
+
 When grantor and grantee indexes show no deed for someone who, according to other records, held land that must later have passed to another, read the surviving deed books page by page for the relevant years if they can be reviewed. [S41], [S42] This prevents a careful index search, even one covering spelling variants, from becoming a conclusion that the person never sold or recorded a deed. [S43] The Legal Genealogist's Winston County, Mississippi, example motivates this general practice; its index and deeds were not independently verified. [S43]
+
+Before that page-by-page read, test the two routes by which land often left an owner without a deed in his name.
+
+- **Title by will or descent.** Land passed by inheritance as well as by deed, and the only record of a transfer may be in the probate records, or nowhere if the land passed by intestate descent [S82]. Genealogy Tip of the Day describes a farm bought in the late 1860s whose purchase is still its last recorded deed, because each later owner left it by will [S102]. Search the probate records of each later owner.
+- **A forced sale.** Land sold for unpaid taxes or to satisfy a judgment was conveyed by an officer, so the deed is not under the owner's name in the grantor index [S82], [S103], [S104]. Search the grantor index under "Sheriff" and under the sheriff's own name, look for separate sheriff's or treasurer's deed books, such as the Laramie County, Wyoming, treasurer's deeds for property sold at tax sales, and look for the sale in the court records [S82], [S104], [S105].
+
+When you find a mortgage, look for how it ended. A payoff can be recorded as its own release or satisfaction and also noted on the mortgage record: Pennsylvania's statute has the recorder index each satisfaction piece and note it on the recorded mortgage, in its margin where the record allows [S107], and a teaching example shows an 1876 Illinois clerk's payment note in the left-hand column of the recorded mortgage [S104]. Search both the release index and the mortgage entry. If no payoff appears, search the court records for a foreclosure, then the deed indexes for the sheriff's deed or other sale that followed [S104], [S106]. Record a missing release as an inspected result, not as proof that the debt went unpaid.
 
 When an original deed survives outside the recorded book, read any clerk's endorsement giving
 the book, page or acknowledgment date. Use it to find the recorded copy, then compare the two
@@ -578,6 +625,8 @@ The [U.S. federal land entry files](us-federal-land-entry-file-recovery.md) work
 the full entry route: routing the entry by its authority, the separate bounty-land application
 and entry series, the party-role table, the tract-book search behind a missing patent, and the
 case-file request and inventory. This step adds the locator, packet and date controls below.
+
+Search the county deed books for the patent too. Owners could record their federal patents in the county's deed books [S109], and some counties kept a separate book of original grants, indexed by township and range, in which the United States was the grantor, as Carroll County, Iowa, did [S110]. The United States is the grantor of a patent and the patentee its grantee, so search the grantor index under "United States", not the grantee index as one community post says [S108], [S110]. Tax lists and probate records can supply the land's legal description for a tract-indexed book [S108].
 
 1. Save the patent image/locator and its supplied state, land office, act and date,
    acreage, document/patent number and exact land description. Keep these labelled fields
