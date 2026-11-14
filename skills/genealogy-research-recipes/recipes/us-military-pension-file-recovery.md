@@ -290,9 +290,12 @@ motivates this comparison without establishing misfiling or the missing paper's 
    relationship or conflicting-evidence conclusions to the evidence/proof workflow. [S1, S2]
 
 On an affidavit that does not state where the affiant lived, copy the venue line and the county
-named in the notary's or justice's certificate. A notary usually acted only within the county of
-his appointment [S49], [S59]. Record that county as where the affiant was on the affidavit's date,
-and as a residence lead only: it does not show that he lived there [S59].
+named in the notary's or justice's certificate. Record the venue county as where the affiant was
+on the affidavit's date: the certificate is meant to show where the act was performed [S49],
+[S59]. When the venue gives only a state, read the county of the officer's appointment as a lead
+for that place, not as confirmed; USLegal states the general rule that a notary acts only within
+that county, but not each state's historical rule [S49], [S59]. Neither county shows where the
+affiant lived [S59].
 
 In a Union invalid pension file, expect a series of dated examining surgeons' certificates, not a
 single examination. The act of 14 July 1862 required invalid pensioners to be examined every two
@@ -447,10 +450,10 @@ looking for another reason [S36], [S50].
 
 Read the date and type of each Union application against this table before treating a late or
 repeat claim as new illness or hardship; many veterans moved from their earlier invalid pensions
-to the 1890 act because it paid more [S41], [S56]. Read a denied claim, such as an application
-number with no certificate number, as one that did not qualify under the law in force when it was
-filed, not as evidence that the man did not serve, and order it as you would an approved file
-[S62]. Search the indexes under a woman's own names for a claim as a nurse, not only as a widow
+to the 1890 act because it paid more [S41], [S56]. Read a denied claim as one that did not qualify
+under the law in force when it was filed, not as evidence that the man did not serve, and order it
+as you would an approved file [S62]. An application number with no certificate number is a usual
+sign of denial, not the decision itself; keep the outcome open until the file gives it [S62]. Search the indexes under a woman's own names for a claim as a nurse, not only as a widow
 or dependant [S44], [S56].
 
 A continuing Union widow's pension with no remarriage record does not show that she lived alone.
