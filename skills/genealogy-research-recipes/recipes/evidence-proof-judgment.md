@@ -156,7 +156,7 @@ thereby verified. These sources give no rate at which approvals are later revise
 
 **Privacy gate:** <!-- privacy-gate: request --> A DAR record copy names the member, who may be living, and the people in her line; answer the privacy gate in `SKILL.md` before you buy one.
 
-When a woman in the line may have belonged to the Daughters of the American Revolution, search the public version of DAR's Genealogical Research System, which is free, and buy a copy of her verified application; its supporting documentation is sold separately [N194 @2026-11-14], [N195 @2026-11-14]. Such papers can hold details found nowhere else. Weigh them as the dated compiled conclusions described above: DAR does not guarantee that the documentation in its files meets today's genealogical standards [N194 @2026-11-14], [N195 @2026-11-14], [N196 @2026-11-14].
+When a woman in the line may have belonged to the Daughters of the American Revolution, search the public version of DAR's Genealogical Research System, which is free, and buy a copy of her verified application; its supporting documentation is sold separately [N194 @2026-11-14], [N195 @2026-11-14]. On 2026-11-14 DAR's page reported the system temporarily unavailable, so confirm that it is running before you plan this step [N195 @2026-11-14]. Such papers can hold details found nowhere else. Weigh them as the dated compiled conclusions described above: DAR does not guarantee that the documentation in its files meets today's genealogical standards [N194 @2026-11-14], [N195 @2026-11-14], [N196 @2026-11-14].
 
 When a compiled book gives a relationship or event without an item citation, retain the exact
 passage and inspect its bibliography for the missing source. If the compiler cannot clarify
@@ -230,7 +230,7 @@ For a Russian Orthodox household, run the one-off-name test across consecutive c
 
 **A remarriage proves neither a death nor a divorce.** When one spouse marries again, do not record the earlier spouse's death, or a divorce, from that alone. Where divorce was harder than moving away, couples parted without any legal step and both remarried: in the United States from the 1750s to the 1820s, such separations were perhaps the commonest way to end a marriage [N237], [N238]. Some people remarried while the first spouse still lived, most after moving far away, and most such bigamies went undetected [N239], [N240]. Look for the earlier spouse alive later, for a death, burial or estate, for a divorce in the court records, and for deeds or other local records that mention the separation, such as a deed dividing the couple's property; an informal separation may have left no record at all [N237], [N239].
 
-**Test a claimed adoption by a stepfather against his estate and the children's guardianship.** A child listed under the stepfather's surname in a census or a marriage record was not thereby adopted, and a guardian of a minor managed the child's property: the appointment is not an adoption [N241], [N242]. Find the adoption law in force at his death. Where adopted children could inherit, living stepchildren missing from his order of heirship argue against a valid adoption [N243], [N244]. In Illinois in 1900, for example, an adoption that did not strictly follow the statute gave no right to inherit, so the gap argues against a valid adoption, not against any attempt; search the court's adoption records too [N244].
+**Test a claimed adoption by a stepfather against his estate and the children's guardianship.** A child listed under the stepfather's surname in a census or a marriage record was not thereby adopted, and a guardian of a minor managed the child's property: the appointment is not an adoption [N241], [N242]. Read two laws: the adoption statute in force when the adoption is said to have taken place, for whether it was valid, and the inheritance law in force at his death, for whether an adopted child would inherit. Where adopted children could inherit, living stepchildren missing from his order of heirship argue against a valid adoption [N243], [N244]. In Illinois in 1900, for example, an adoption that did not strictly follow the statute gave no right to inherit, so the gap argues against a valid adoption, not against any attempt; search the court's adoption records too [N244].
 
 **Read a list of heirs-at-law against the statute that produced it.** Rebuild the set of heirs that the descent law of that place and date entitled, including half-blood lines from a grandparent's second marriage where the statute counted them, and search for any branch the administrator left out; an administrator from one side of the family may not have known the other [N245], [N246]. Heirs-at-law usually come from one class: descendants first, then parents, siblings and more remote kin only when no descendant survives. So a parent or a cousin named as an heir-at-law is a lead that no descendant survived at that date, and one descendant heir suggests that the others, apart from a spouse, are descendants too [N247], [N248], [N249], [N250]. Confirm the classes and the spouse's share in the statute itself, since both differ by state and date [N248], [N249], [N250].
 
@@ -371,9 +371,11 @@ Motivating examples: [banns](https://www.youtube.com/watch?v=HX-vIeT3nuo),
 indexing practice, period or legal requirement; take those from dated local authority.
 
 A licence, a marriage bond, or a newspaper notice of an engagement or of a journey to marry also
-records an intention. Most such couples married, but some did not. Record a marriage only on
+records an intention. Most such couples married, but some did not. Record a ceremonial marriage only on
 evidence that the ceremony took place, such as the returned licence, or a date and place of
-marriage with at least the officiant's name [N269], [N270], [N271].
+marriage with at least the officiant's name [N269], [N270], [N271]. Where the law recognised
+informal marriage, test the union by the law and the holding-out evidence under 'A missing
+marriage record' instead.
 
 ## Follow record versions and test disputed dates
 

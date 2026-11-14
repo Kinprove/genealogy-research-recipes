@@ -77,7 +77,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `dnapainter-practical-dna-workflows#C-0e3c7d4532c9` | platform-ui | 2026-11-12 | 2027-05-11 | S31, S23, H5, S32 |
 | `england-wales-gro-index-recovery#C-6ecbd8681612` | custody | 2026-11-13 | 2027-05-12 | S28 |
 | `english-nonregister-record-recovery#C-fe8197ed49f4` | portal-availability | 2026-11-12 | 2027-02-10 | S39, S40 |
-| `evidence-proof-judgment#C-ec93c27fe0ff` | portal-availability | 2026-11-14 | 2027-02-12 | N194, N195, N196 |
+| `evidence-proof-judgment#C-35c236f8c525` | portal-availability | 2026-11-14 | 2027-02-12 | N194, N195, N196 |
 | `family-photograph-attribution-and-dating#C-2d4811ec7c17` | platform-ui | 2026-11-12 | 2027-05-11 | S52, S53 |
 | `familysearch-practical-record-workflows#C-6b25178d4335` | platform-ui | 2026-11-12 | 2027-05-11 | S90 |
 | `familysearch-practical-record-workflows#C-f4494254cd6c` | platform-ui | 2026-11-12 | 2027-05-11 | S91 |
