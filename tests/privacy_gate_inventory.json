@@ -1752,6 +1752,12 @@
   "checkpoint": "A request for a court-martial file of the Civil"
  },
  {
+  "recipe": "state-legislative-private-act-petitions.md",
+  "kind": "request",
+  "action": "Ask the National Archives' Center for Legislative Archives for the papers",
+  "checkpoint": "A request for the papers names the claimant and family"
+ },
+ {
   "recipe": "uk-census-and-1939-register-interpretation.md",
   "kind": "request",
   "action": "Ask that county's record office as well",
