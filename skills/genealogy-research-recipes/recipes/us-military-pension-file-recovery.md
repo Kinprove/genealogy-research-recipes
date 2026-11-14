@@ -389,8 +389,9 @@ before you interpret the claim. The terms say what the claimant had to prove. Re
 application filed soon after a new act as a sign that the act made the claimant eligible, not as
 new need or a new disability, unless the papers say otherwise [S52], [S61]. A first pension in
 1832 or later is not a sign of short or doubtful service either: the man may not have qualified
-under the stricter earlier acts [S52]. Take the terms from the statute or a compilation that
-quotes it. The tables give the main acts; the act the file names governs.
+under the stricter earlier acts [S52]. Take the terms from the statute or from a summary of the
+acts themselves, as the tables below do, not from a talk or a general history. The tables give
+the main acts; the act the file names governs.
 
 ### Revolutionary War
 
@@ -441,7 +442,7 @@ looking for another reason [S36], [S50].
 | 14 July 1862 | Men disabled by a wound received or a disease contracted in service and in the line of duty; for a death from such a cause, the widow, then children under 16, then a dependent mother or orphan sisters [S64] |
 | 27 June 1890 | 90 days' service, an honorable discharge and a permanent disability, not caused by vicious habits, that prevented earning a support by manual labor; widows with no other support than their own labor, married before 27 June 1890, without proof that the death came from service [S43] |
 | 5 August 1892 | Women employed as army nurses for six months or more, honorably relieved, and unable to earn a support [S44] |
-| 1901 | A remarried widow who was widowed again [S41] |
+| 3 March 1901 | A widow who was his wife during his service, was pensioned for a death from service and was dropped for remarrying, restored when widowed again or divorced without fault and left with no other support than her own labor [S65] |
 | 6 February 1907 | Age 62 or over, with 90 days' Civil War service (or 60 days in the Mexican War) and an honorable discharge [S45] |
 | 19 April 1908 | Widows married before 27 June 1890, with no test of support [S46] |
 | 8 September 1916 | Widows married before 27 June 1905; widows dropped for a later marriage, restored when widowed again or divorced without fault [S47] |
