@@ -166,7 +166,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [city-directory-observation-workflow](skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md) | record catalogues and original images | — | — | — | — | — |
 | [convict-transportation-record-chain](skills/genealogy-research-recipes/recipes/convict-transportation-record-chain.md) | record catalogues and original images | — | — | — | — | — |
 | [corpus-seeded-name-search](skills/genealogy-research-recipes/recipes/corpus-seeded-name-search.md) | — | — | — | — | — | — |
-| [court-case-file-recovery](skills/genealogy-research-recipes/recipes/court-case-file-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [court-case-file-recovery](skills/genealogy-research-recipes/recipes/court-case-file-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [criminal-court-prison-record-recovery](skills/genealogy-research-recipes/recipes/criminal-court-prison-record-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [deed-content-relationship-clues](skills/genealogy-research-recipes/recipes/deed-content-relationship-clues.md) | record catalogues and original images | — | — | — | — | — |
 | [descendancy-gap-worklist](skills/genealogy-research-recipes/recipes/descendancy-gap-worklist.md) | — | — | — | export | — | required |

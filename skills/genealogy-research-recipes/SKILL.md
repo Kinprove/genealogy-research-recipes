@@ -980,9 +980,9 @@ live control.
 - **`recipes/criminal-court-prison-record-recovery.md`** — Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes.
   From an arrest, prison or census-institution lead, find the court that tried the case and recover
   U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to
-  court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish
-  sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy
-  searches.
+  court case-file recovery, a federal one to federal court recovery. Its England/Wales sections
+  cover no-fixed-abode leads, assize and Old Bailey trials, absconder notices, charge searches and
+  sentence wording; its Swedish sections cover prison, police-gazette and court-copy searches.
   *Use for:* Sing Sing name indexes
 
 - **`recipes/state-legislative-private-act-petitions.md`** — Recover a state legislative private act and its petition.
