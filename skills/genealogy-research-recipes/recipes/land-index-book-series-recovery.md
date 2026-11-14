@@ -201,7 +201,7 @@ parties too: brothers and sisters may all sign one deed giving up their claim to
 their parents [S44], and a guide to tracing formerly enslaved families reports finding a 1910
 deed that divided a man's land among his heirs [S45].
 
-Many clerks' grantor and grantee indexes list only the first-named grantor and the first-named grantee [S80], [S81], [S82]. A co-heir, co-seller or partner named second may have no entry under their own name, and deeds that settle inheritances, estate disputes and partnerships are the ones most likely to have several parties [S80]. When the target is missing, search the index under each relative by blood or marriage, and each partner, who could have been named first; if that also fails, read the deed books page by page for the relevant years [S80], [S82].
+Many clerks' grantor and grantee indexes list only the first-named grantor and the first-named grantee [S80], [S81], [S82]. A co-heir, co-seller or partner named second may have no entry under their own name, and deeds that settle inheritances, estate disputes and partnerships may have several parties [S80]. When the target is missing, search the index under each relative by blood or marriage, and each partner, who could have been named first; if that also fails, read the deed books page by page for the relevant years [S80], [S82].
 
 ## 2. Copy the locator, then reconcile the alternative entry
 
@@ -253,7 +253,7 @@ result, verified document extent and any conflict between the supplied and retri
 
 Search the recorder's miscellaneous books under the family's names as well as the deed books. In Hamilton County, Ohio, the recorder accepted almost any document from 1794: non-deed instruments went into the deed books until 1859 and into Miscellaneous Books after that, except groups that got books of their own, such as powers of attorney and partnerships [S83]. The types listed include decrees, marriage certificates, changes of name, depositions, dower, wills and patents, and Army discharges to 1865 are in Miscellaneous Book 1 [S83]. Genealogy Tip of the Day reports out-of-state divorce decrees and copies of medical licences in such books [S84]. Read each book's own index; what a county put there varies.
 
-After you find a deed, read the deeds recorded the same day and several pages before and after it, for other transactions by the same people or for nearby land [S85]. Deeds that one grantor brought in together can be recorded one after another, and Genealogy Tip of the Day reports finding some of them missing from the index [S86].
+After you find a deed, read the deeds recorded the same day and several pages before and after it, for other transactions by the same people or for nearby land [S85]. Deeds that one grantor brought in together can be recorded one after another, and Genealogy Tip of the Day warns that some of them may not have been indexed [S86].
 
 When an attributed lead identifies a loose or unrecorded deed, retain its parties, date and
 property clues. Check the actual custodian's holdings and finding route for those papers
