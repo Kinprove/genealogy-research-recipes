@@ -92,8 +92,18 @@ The worksheets below work with manually read images or copied index rows.
 
    Do not skip an address book whose DES transcription is still in progress: data entered through DES can be searched by anyone at once, so a partly entered book can already return hits [S24 @2026-11-12], [S28 @2026-11-12]. A miss in such a book is the partial-transcription case above, not a negative.
 
+Before you call an edition missing, find out which directories were published for the place and where they are held. For a U.S. place, uscitydirectories.com lists directories by state and locality with the repositories that hold them; its pages carry a 2002–2005 copyright, so a year it omits is unlisted there, not unpublished [S32 @2026-11-14], [S36 @2026-11-14], [S42 @2026-11-14]. The Library of Congress guide *United States: City and Telephone Directories* indexes the Library's own city and telephone directories by state [S36 @2026-11-14], [S43 @2026-11-14].
+
+Identify each edition by its publisher as well as its place and year. In some cities competing publishers issued directories for the same year, and each can hold entries the other lacks, so give each its own coverage row and look for a rival before you treat a year as covered [S31], [S32], [S33].
+
+Some U.S. directories marked Black or other non-white residents in the main list with an asterisk or an abbreviation such as `col'd`, besides or instead of printing them in a separate 'colored' section [S32], [S35]. Decode such a mark with the edition's key rather than reading it as a footnote, and copy it with the entry as the compiler's designation.
+
+For England and Wales, search the University of Leicester's Historical Directories collection on its Special Collections Online: 689 trade and local directories from the 1760s to the 1910s, with at least one for every county, searchable by name, place and occupation and also available through Ancestry.co.uk [S37 @2026-11-14], [S38 @2026-11-14]. Then look under Directories on GENUKI's county pages for transcriptions and indexes, search Internet Archive for `directory` with the town's name, and check the county family history society's publications for transcripts [S37 @2026-11-14], [S41 @2026-11-14].
+
+Before the 1841 census, an English trade directory can give a trader's street address and trade where the parish register gives only a village or district as the abode; place the address on a map close to the directory's date [S37], [S39]. Early directories listed only the chief inhabitants: gentry, clergy, professionals and the more substantial tradesmen. Later ones grew to cover most heads of household but still left out labourers, servants and the poor, so an absence from any of them is weak evidence [S37], [S39], [S40]. Some directories before about 1823 give only a surname and a trade, with no address [S39].
+
 **Artifact:** One coverage row per edition and relevant section:
-repository, directory title, edition year, locality/section, available/access status,
+repository, directory title, publisher, edition year, locality/section, available/access status,
 section image range, inspected range, abbreviation-key locator and result.
 
 **Check:** The year and locality come from the volume, not only its database label. Another
@@ -184,6 +194,8 @@ each printed address or an exact move date. Keep an unstated time basis unknown.
 
    A business run under one initial across many editions may cover more than one holder, such as a husband and then his widow continuing the trade. Before assigning the run to one person, check the death dates of possible holders and split the run at any death as a question. A death record giving another occupation does not by itself rule out the match. A [business-run discussion](https://forum.ahnenforschung.net/forum/thread/3014463/) proposes this reading as a hypothesis. It did not compare the initial and full given name edition by edition.
 
+   Follow a person through a change of surname by what stays the same. A woman who married several times could stay in the same home, so search the later editions by her address as well as her names, and record a run of different surnames at that address as a proposed same-person question with its row IDs [S44], [S45]. Confirm each link with a marriage or other record before merging the rows.
+
    When a Russian or Soviet city directory shows same-named entries at one address with different occupations, do not merge or split them on the directory alone. When contact is authorized, request the house books (домовые книги) for that building and period, which register residents individually. Treat a professional directory, such as a medical one, as a separate series whose first listing can differ from the general directory's. A [house-book discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) and a [directory-and-house-book example](https://forum.j-roots.info/viewtopic.php?f=9&t=4132) motivate this. They do not establish survival outside one city or current access rules.
 7. For a located former-resident entry with a reported later locality, use that place for
    one bounded follow-up, such as a later directory or a relevant civil-register search there.
@@ -255,6 +267,8 @@ one listed, and keep it marked as an inference until an employment or other reco
 employer named by a web page or AI answer is not a substitute for this check. A business section
 can be incomplete, so a single listing does not prove there was no other employer. [S27]
 
+When an entry names the employer, look the firm up in the same edition: in the business section or commercial register, often at the back and arranged by category, and among the advertisements [S34], [S35]. Copy the firm's printed address and trade with their page locators beside the employee's row.
+
 ## 4. Describe gaps before assigning events to them
 
 1. For the first or last apparent appearance, return to the coverage sheet.
@@ -275,6 +289,8 @@ A directory listing household heads does not make an unlisted household member a
 household or locality. CompGen's address-book example also distinguishes a woman's
 marital-status wording from an occupation; retain the printed role without inferring employment
 from it. [S20]
+
+When no directory covers the town for the year you need, or the person is missing from the one that does, widen to other directories before you treat the year as empty. A small town can appear in a county directory, and some states had state directories: Delaware's early directories covered the whole state [S32], [S33]. Rural-route, farm, church, club and professional directories also place people in a time and place, often yearly [S32], [S33], [S36]. Newspaper classified ads can give the home or business address of someone the directory missed; search them as in the [Newspapers.com recipe](newspapers-com-search-recovery.md) [S46], [S47]. Give each such listing its own row with its title, year and locator.
 
 ## Prompt pattern
 
