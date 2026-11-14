@@ -85,8 +85,8 @@ For general FamilySearch jurisdiction and missed-person recovery, use
 
 A certificate's birth date is the informant's statement, and it may have been moved later so
 that the registration looked on time. Late registration carried a penalty, and some parents
-gave a slightly later birth date to avoid the fine; only a baptism that records the true date,
-or one held before the stated birth date, exposes it [S43], [S47]. When the stated birth falls
+gave a slightly later birth date to avoid the fine; a baptism that records the true date, or
+one held before the stated birth date, can expose it [S43], [S47]. When the stated birth falls
 just inside 42 days before registration, check it against the baptism and the census ages
 before you fix the birth date. The parents named are the informant's statements too and can be
 wrong; the father named is not always the biological father [S43], [S47].
@@ -252,8 +252,9 @@ For a Church of England marriage, look for an image of the parish register befor
 certificate. The church register holds the same details as the civil certificate [S45], [S50],
 and it carries the couple's and the witnesses' own signatures or marks; a GRO certificate is a
 copy that shows only whether each of them signed or made a mark [S46]. Keep the signatures for
-comparison with other documents [S50]. Catholic and nonconformist registers are rarely online,
-so for those marriages order the certificate [S50].
+comparison with other documents [S50]. For a Catholic or nonconformist marriage, look for a
+register image too, and order the certificate when there is none; one researcher found Catholic
+registers rarely online [S50].
 
 To test a birth or death candidate cheaply, order the GRO's Online View digital image (£3.00)
 or PDF (£8.00) instead of a full certificate (£12.50 online with an index reference). Both
@@ -262,7 +263,7 @@ index reference and can be ordered only online; neither exists for marriages
 [S24 @2026-11-14], [S42 @2026-11-14], [S48 @2026-11-14]. An Online View image can be viewed and
 downloaded for 3 months from the order and is then removed without a reminder
 [S24 @2026-11-14], [S42 @2026-11-14]. Download it at once and save it with its GRO reference
-(year, quarter, district, volume and page) and the order date, as one blogger's citation
+(year, quarter, district, volume and page) and the download date, as one blogger's citation
 template does [S51 @2026-11-14]. A cheap image also answers side questions, such as the causes
 of death of siblings who died in infancy [S49 @2026-11-14].
 
