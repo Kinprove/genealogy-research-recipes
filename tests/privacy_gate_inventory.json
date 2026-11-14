@@ -578,14 +578,32 @@
  {
   "recipe": "criminal-court-prison-record-recovery.md",
   "kind": "third-party-tool",
+  "action": "search the Old Bailey Proceedings Online by the names of victims and witnesses as well as defendants",
+  "checkpoint": "A name search on a trial-report,"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search newspapers for notices about men who absconded.",
+  "checkpoint": "A name search on a trial-report,"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Also search the *Illustrated Police News*",
+  "checkpoint": "A name search on a trial-report,"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
   "action": "search The National Archives' Discovery catalogue by the period's charge words, adding a name, county or court",
-  "checkpoint": "A catalogue search that pairs"
+  "checkpoint": "A name search on a trial-report,"
  },
  {
   "recipe": "criminal-court-prison-record-recovery.md",
   "kind": "request",
   "action": "you can ask for a Freedom of Information review of a closed record",
-  "checkpoint": "A catalogue search that pairs"
+  "checkpoint": "A name search on a trial-report,"
  },
  {
   "recipe": "descendancy-gap-worklist.md",

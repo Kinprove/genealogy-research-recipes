@@ -115,16 +115,17 @@ When the charge was too serious for quarter sessions, look for the trial at the 
 
 ## England and Wales: search trial reports, wanted notices and charges
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool, request --> A name search on a trial-report,
+newspaper or catalogue site, or a request to open a closed file, sends the person's name and the
+alleged offence to that service or archive, and a 20th-century defendant, victim, witness or
+relative may still be living. Answer the privacy gate in `SKILL.md` before entering a name or
+sending the request.
+
 For a trial at the Old Bailey up to 1913, search the Old Bailey Proceedings Online by the names of victims and witnesses as well as defendants. It is a full-text edition of the published accounts of trials at London's central criminal court from 1674 to 1913, with names, occupations, places and dates tagged [S34 @2026-11-14]. An entry for a victim can give an address and a father's name and occupation [S30 @2026-11-14]. The accounts are not verbatim transcripts: before the 1720s they hold little testimony, until the early 19th century they leave some testimony out, and the 19th-century accounts, though fuller, omit sexual details, particularly in rape and sodomy trials [S34 @2026-11-14]. Cite a quoted statement as the published account's wording, not as a transcript of what the witness said.
 
 Search newspapers for notices about men who absconded. The *Poor Law Unions' Gazette* advertised men who had left their families chargeable to the poor-law union, with a reward for information, and its notices describe a man more fully than most records: height, complexion, hair, eyes, marks and tattoos, his work and where he was believed to be [S35]. One man was advertised in it at least 60 times between 1858 and 1863 [S35]. An 1867 absconder notice of this kind also described the young woman and the child who went with him [S30]. Use the description and the companions to tell the man from namesakes.
 
 Also search the *Illustrated Police News*, a weekly of sensational crime reports and pictures published from 1864 to 1938 [S36]. A 2015 Findmypast article and the 2023 post both used it in Findmypast's newspapers [S30], [S37]. Treat its reports as sensational journalism, and confirm each fact in the court record.
-
-**Privacy gate:** <!-- privacy-gate: third-party-tool, request --> A catalogue search that pairs
-a person's name with a sexual-offence charge, or a request to open a closed file, discloses that
-name and the alleged offence to an archive, and a 20th-century defendant or relative may still be
-living. Answer the privacy gate in `SKILL.md` before such a search or request.
 
 To find a prosecution of a man for sex with another man, search The National Archives' Discovery catalogue by the period's charge words, adding a name, county or court. TNA lists among them sodomy, buggery, gross indecency, indecency, importuning, soliciting, unnatural act and unnatural offences [S39 @2026-11-14]. Quarter sessions records are held in local archives: search "quarter sessions" with the county and choose the "Other archives" filter [S40 @2026-11-14]. Expect the records to concern men: female homosexuality was never explicitly criminalised, so lesbian relationships are generally absent from criminal records [S39 @2026-11-14]. Many 20th-century criminal records at TNA are still closed under the Data Protection Act; you can ask for a Freedom of Information review of a closed record [S39 @2026-11-14].
 
