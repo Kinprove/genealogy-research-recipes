@@ -59,6 +59,12 @@ The presenters supply the examples and the failure modes.
 - how often a family Bible was reprinted from earlier plates; [S13] documents examples, not a rate
 - the current coverage, access and fees of the collections in [S22]–[S28]; the DAR and Ancestry pages themselves could not be opened
 
+### Funeral guest book sources, added 2026-11-14
+
+- **S29:** Michael John Neill, Genealogy Tip of the Day, [Funeral Book?](https://genealogytipoftheday.com/index.php/2025/12/30/funeral-book/), published 2025-12-30, read 2026-11-14. Used: a recent relative's funeral book, copies kept by relatives with their personal family papers, its signers as possible associates and people alive when the relative died, and the city of residence some signers wrote.
+- **S30:** Kenneth R. Marks, The Ancestor Hunt, [15 Reasons to Research Funeral and Memorial Books](https://theancestorhunt.com/blog/15-reasons-to-research-funeral-and-memorial-books-2/), published 2024-01-08, read 2026-11-14. Used: attendees listed in a funeral book having known the deceased somehow, as a co-worker, neighbour, relative or friend of one of the deceased's children.
+- **S31:** Tharp Funeral Home, [The Funeral Guest Book: Everything You Need to Know](https://www.tharpfuneralhome.com/the-funeral-guest-book-everything-you-need-to-know), read 2026-11-14. Used: a funeral guest book's primary purpose of recording the names and addresses of guests at a visitation, wake or memorial service. A funeral home's description of present practice.
+
 ## Credits
 
 - Diana Elder, Effie Kelsey and BitterSweet: A Poem - Researching Material Culture, FamilyLocket blog, 2025-02-02 — All rights reserved; short attributed adaptation (adapted)
@@ -66,5 +72,7 @@ The presenters supply the examples and the failure modes.
 - Lisa Louise Cooke's Genealogy Gems, Genealogy Gems Podcast Episode 238 - The Family History Show, YouTube, 2020-02-13 — Standard YouTube License (all rights reserved); short attributed adaptation (adapted)
 - Lisa Lisson, HOW TO ANALYZE THE FAMILY BIBLE | Finding ALL of the Genealogy Clues in the Family Bible, YouTube, 2020-06-13 — Standard YouTube License (all rights reserved); brief attributed quotation of a phrase (quoted)
 - Lisa Lisson, 3 Strategies For Analyzing the Family Bible, YouTube, 2018-05-12 — Standard YouTube License (all rights reserved); short attributed adaptation (adapted)
+- Michael John Neill, Genealogy Tip of the Day, Funeral Book?, cited as S29 — Third-party blog post; rights remain with the author; paraphrase with attribution (adapted)
+- Kenneth R. Marks, The Ancestor Hunt, cited as S30, and Tharp Funeral Home, cited as S31 — Third-party content, all rights reserved by the rights holders; short paraphrase with attribution (adapted)
 - Kinprove original source annotations — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural synthesis; presenter examples and guidance paraphrased with attribution and cited as S1-S28 — FSL-1.1-MIT (kinprove-original)
