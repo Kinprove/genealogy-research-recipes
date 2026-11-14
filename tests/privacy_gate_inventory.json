@@ -1746,6 +1746,12 @@
   "checkpoint": "A request for a court-martial file of the Civil"
  },
  {
+  "recipe": "uk-census-and-1939-register-interpretation.md",
+  "kind": "request",
+  "action": "Ask that county's record office as well",
+  "checkpoint": "An inquiry to a county record office about a surviving"
+ },
+ {
   "recipe": "unknown-parentage-wato.md",
   "kind": "upload",
   "action": "GEDCOM import builds this fast (limit imported candidates to descendants of the selected ancestor).",

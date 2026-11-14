@@ -4,13 +4,13 @@ title: "Read England and Wales censuses and the 1939 Register under each year's 
 summary: "Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "UK-CENSUS-AND-1939-REGISTER-INTERPRETATION-01", "text": "Before reading any value, settle what that year's image is, who wrote the value, what night or day it refers to and what the year covers."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Irish and British records", "order": 1068}
 ---
 
@@ -127,6 +127,8 @@ Match a court dwelling by the court as well as the house. A court could be renam
 **What the series does cover.** The England and Wales returns also include the Channel Islands and the Isle of Man; vessels in English and Welsh ports and inland waterways from 1861; the British Army overseas in 1911 and 1921; and RAF bases overseas in 1921 [S16], [S25]. TNA's coverage notes answer the seafarer question: from 1861 the series includes Royal Navy and merchant ships at sea and in ports at home and abroad. In 1861 all the ship returns are at the end of the series; after that, ships in home ports are at the end of the district where they were moored, and only ships in foreign waters are at the end of the series. The shipping returns are likely to be incomplete, and none survive for Royal Navy ships in foreign waters in 1891 [S16]. Before reading an absence for an islander, a soldier or airman overseas, or a sailor or fisherman away overnight, search those parts of the series [S32]. Also read the home schedule: in 1891, for one, it was to list people out at work overnight who returned the next day and were not returned elsewhere [S38]. A miss in the shipping returns still does not show that a seafarer was ashore.
 
 All the censuses from 1841 to 1921 are on Ancestry and Findmypast, free to search and paid to view. They are free to view on site at The National Archives in Kew, and the 1921 census also through Findmypast at Manchester Central Library and the National Library of Wales [S16 @2026-11-14].
+
+**Privacy gate:** <!-- privacy-gate: request --> An inquiry to a county record office about a surviving listing names the parish and the family you are researching; answer the privacy gate in `SKILL.md` before you send it.
 
 **Before 1841.** The 1801, 1811, 1821 and 1831 censuses were counts: lists of names were not collected centrally, though some survive in local record offices [S16]. Do not assume that no earlier census names anyone [S55]. Look the parish up in Richard Wall, Matthew Woollard and Beatrice Moring's guide, *Census schedules and listings, 1801–1831* (University of Essex, 2004, re-published 2012). It is arranged by county and parish and lists nearly 800 surviving English listings, most of them household listings, which often name only the head [S52], [S53], [S55]. Its authors say the guide is incomplete and many listings remain undiscovered [S52], so a parish missing from it is unresolved, not a lost return. Ask that county's record office as well.
 
