@@ -4,13 +4,13 @@ title: "Recover a state legislative private act and its petition"
 summary: "Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and the petition behind it."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "STATE-LEGISLATIVE-PRIVATE-ACT-PETITIONS-01", "text": "search the state's index of legislative acts, gather every entry that shares the hit's locator, and then retrieve the act and the petition or application behind it."}]
 handoff: []
 checked: "2026-11-03"
 checked_basis: "checked 2026-11-03"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1107}
 ---
 
@@ -22,7 +22,8 @@ The most common mistakes are:
 
 - stopping at the one-line index description or the printed act;
 - ignoring other entries at the same locator;
-- skipping state legislative records because the event looks like a county matter.
+- skipping state legislative records because the event looks like a county matter;
+- assuming that a private bill in Congress that failed left no papers.
 
 Related recipes:
 
@@ -37,6 +38,10 @@ Don't rule out the state legislature just because the event sounds like county b
 The legislature was not always the only route. The publisher's store description of Alan N. Miller's *[Nineteenth-Century Tennessee Adoptions, Legitimations, and Name Changes](https://genealogical.com/store/nineteenth-century-tennessee-adoptions-legitimations-and-name-changes/)*, read in a web-archive copy, reports that legitimation in Tennessee was done by private act until 1805, when the lower courts could also hear it, and that from 1827 the circuit courts could also change names [S5]. The book itself was not consulted. Use those dates as leads to check both the acts index and court minutes, and verify the applicable law before drawing a legal conclusion.
 
 Also check the session laws when a person appears in a statute as the recipient of a gratuity or pension. The Pennsylvania legislature granted pensions and gratuities to individuals by special act. A Pennsylvania State Archives archivist found his ancestor named in the Laws of Pennsylvania this way [S3], [S4].
+
+In Virginia, also search the legislative petitions when an intestate's land faced escheat. Under the descent act in force from 1 January 1787, a child born outside marriage inherited on the mother's side, and from the father only if he later married the mother and recognized the child [S8]. In October 1786 the General Assembly vested escheatable land in a man's natural son on his petition, and an intestate natural son's land in his mother on her application [S9]. Michael John Neill reports natural children in late 18th-century Bedford County petitioning the legislature to keep their father's farm from escheating; that case was not verified [S10].
+
+The Library of Virginia's Legislative Petitions collection holds nearly 25,000 items from 1776 to 1865, searchable by name, locality and keyword, and petitions can include wills, deeds, affidavits and judgments. Its search is moving to a new platform, and Virginia Memory holds the full collection [S11 @2026-11-14].
 
 For any other state, search its session laws and the legislature's own petition files (in Pennsylvania, the House files), and establish when that state's county courts began operating. Don't carry Tennessee's dates over.
 
@@ -76,6 +81,16 @@ Keep both readings, each with its locator. Don't correct the act silently. Treat
 
 The archivist linked the Erie County man to the act because he knew of only one man of that name there at the time [S3], [S4]. That is an identity hypothesis, so send it to evidence/proof judgment. A legitimation or name-change act establishes legal status. Send any question of biological kinship to evidence/proof judgment.
 
+## Search Congress for a private relief bill
+
+When a claim against the federal government, such as a veteran's widow's pension, may have gone to Congress, search for a private bill as well as the regular file, above all before a general law covered such claims [S12]. Committee papers can survive although the bill failed. In one case the House committee recommended a widow's private pension bill in 1872 and the Senate rejected it in 1873, and pension claims in the House's Accompanying Papers File, 1865–1903, include notarized copies of marriage records [S13]. Claimants sometimes petitioned again in a later session, so check the other sessions [S12], [S13].
+
+Find the Congress, session and bill or report number first. The Serial Set's indexes of private claims, arranged by claimant, give the Congress and session, the committee, any reports, and the number and fate of related bills [S13]. The Library of Congress reported in July 2021 that it had loaded the text of over 30,000 bills and resolutions of 1799–1873 from its Century of Lawmaking site into Congress.gov; Senate bills start in 1819, and the 12th Congress is missing [S14].
+
+**Privacy gate:** <!-- privacy-gate: request --> A request for the papers names the claimant and family; for a 20th-century bill they may be living. Answer the privacy gate in `SKILL.md` before sending it.
+
+Ask the National Archives' Center for Legislative Archives for the papers, giving the claimant, the Congress and session, and the bill or report number. It holds the claims records of Congress, House and Senate alike [S13 @2026-11-14], [S15 @2026-11-14].
+
 ## Return a legislative-act packet
 
 Return the following:
@@ -86,6 +101,7 @@ Return the following:
 - the act's citation and text, or an extract;
 - what you extracted from the petition or application (birth dates or years, the mother, the marriage date and place, the county and year of service), each with the document it came from;
 - a table of differences between the act and the application;
+- for a federal private bill, the Congress, session, bill or report number, the bill's fate, and what the committee papers contain;
 - the retrieval status: online image, index only, or needs an on-site visit or copy request.
 
 If the petition was not found, name the legislative file series you searched or still plan to search, and the extent you covered.
