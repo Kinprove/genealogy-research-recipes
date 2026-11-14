@@ -72,8 +72,11 @@ The page × target ledger, field-specific adjudication, catalogue-conflict handl
 
 - **S51:** ARCHIUM inter-archive search, [Як шукати](https://searcharchives.net.ua/how-to-search/), read 2026-11-13. Used for: full-text search of the finding aids on ARCHIUM-based resources (fond titles, historical notes, fond and inventory annotations, file and document titles, index entries) and the option to show results in digitised files only.
 - **S52:** ARCHIUM inter-archive search, [Архіви](https://searcharchives.net.ua/archives/), read 2026-11-13. Used for: the archive resources it covers, among them ЦДАВО, ЦДІАК, ДАПО, ДАЛО, ДАКО and ДАКірО.
+- **S53:** Michael John Neill, Genealogy Tip of the Day, [The Pitfalls of Any Index](https://genealogytipoftheday.com/index.php/2022/03/28/the-pitfalls-of-any-index/), 2022-03-28, read 2026-11-14. Used for: finding a random item or two in the original record and seeing how it appears in the index, and asking what names an index includes. A community blog post.
+- **S54:** Yvette Hoitink, Dutch Genealogy, [Quick tip – Is that an every-name index?](https://www.dutchgenealogy.nl/quick-tip-is-that-an-every-name-index/), 2019-03-27, read 2026-11-14. Used for: indexes that leave out people named in the record, such as baptism witnesses or a deed's grantee or neighbours, and the advice to compare a few index entries with the originals to see whether everyone or only certain roles are included.
 
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
 - Vera Miller, Lost Russian & Ukrainian Family, Vast database tracking Ukrainian archives going online improves with search engine, 2026-02-07, cited as S50 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Michael John Neill, Genealogy Tip of the Day, The Pitfalls of Any Index, 2022-03-28, cited as S53, and Yvette Hoitink, Dutch Genealogy, Quick tip – Is that an every-name index?, 2019-03-27, cited as S54 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)

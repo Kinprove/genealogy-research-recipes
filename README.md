@@ -266,7 +266,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [surname-distribution-locality-leads](skills/genealogy-research-recipes/recipes/surname-distribution-locality-leads.md) | record catalogues and original images | — | — | — | — | — |
 | [swedish-military-record-routing](skills/genealogy-research-recipes/recipes/swedish-military-record-routing.md) | record catalogues and original images | — | — | — | — | — |
 | [tax-roll-observation-workflow](skills/genealogy-research-recipes/recipes/tax-roll-observation-workflow.md) | record catalogues and original images | — | — | — | — | — |
-| [uk-census-and-1939-register-interpretation](skills/genealogy-research-recipes/recipes/uk-census-and-1939-register-interpretation.md) | record catalogues and original images | — | — | — | — | — |
+| [uk-census-and-1939-register-interpretation](skills/genealogy-research-recipes/recipes/uk-census-and-1939-register-interpretation.md) | record catalogues and original images | — | — | request | — | required |
 | [unknown-parentage-wato](skills/genealogy-research-recipes/recipes/unknown-parentage-wato.md) | — | — | — | link, publish, third-party-tool, upload | contact | required |
 | [us-20th-century-military-service-reconstruction](skills/genealogy-research-recipes/recipes/us-20th-century-military-service-reconstruction.md) | record catalogues and original images | — | — | request | — | required |
 | [us-census-practical-workflows](skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md) | record catalogues and original images | — | — | — | — | — |
