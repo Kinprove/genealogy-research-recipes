@@ -82,6 +82,9 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `english-nonregister-record-recovery#C-04f49c048bb1` | portal-availability | 2026-11-14 | 2027-02-12 | S88, S89 |
 | `english-nonregister-record-recovery#C-7b5c82eaf8a2` | portal-availability | 2026-11-14 | 2027-02-12 | S48, S45, S49 |
 | `english-nonregister-record-recovery#C-e367ead3adc2` | portal-availability | 2026-11-14 | 2027-02-12 | S64, S65, S66, S67 |
+| `english-nonregister-record-recovery#C-764e339e9171` | custody | 2026-11-14 | 2027-05-13 | S44, S46, S45, S47, S17 |
+| `english-nonregister-record-recovery#C-8e0e58414c93` | custody | 2026-11-14 | 2027-05-13 | S68, S70, S69, S71, S72, S73, S74, S75, S76, S77, S102 |
+| `english-nonregister-record-recovery#C-85dbe7723a4e` | custody | 2026-11-14 | 2027-05-13 | S90, S91, S70, S92, S93, S94, S95, S96, S97, S98, S99, S43, S100, S101 |
 | `family-photograph-attribution-and-dating#C-2d4811ec7c17` | platform-ui | 2026-11-12 | 2027-05-11 | S52, S53 |
 | `familysearch-practical-record-workflows#C-6b25178d4335` | platform-ui | 2026-11-12 | 2027-05-11 | S90 |
 | `familysearch-practical-record-workflows#C-f4494254cd6c` | platform-ui | 2026-11-12 | 2027-05-11 | S91 |
