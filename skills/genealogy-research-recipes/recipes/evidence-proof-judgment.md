@@ -54,7 +54,7 @@ Two consequences follow, and they are the whole recipe: (1) treat the model as a
    In a parentage-plan response, explicitly include a search for other people with the
    child's or proposed parents' names in the relevant place and period. Compare their
    identifying details before attributing records to the preferred family.
-5. **Weigh sources, don't count them.** Five online trees copying one claim aren't five witnesses — they're one unverified claim repeated. Classify on three layers: the **source** (original record, derivative record such as an index or abstract, or authored work), each statement's **information** (primary, secondary, or **undetermined** when the informant is unknown), and the **evidence** it gives for the question (direct, indirect or negative). Classify each *statement* by whether its informant had firsthand knowledge of THAT fact (a death certificate's informant usually knew the death firsthand, the birth only secondhand) — never stamp a whole record "primary" or "secondary." When the record does not identify the informant, as in most U.S. censuses before 1940, mark the information undetermined; do not guess an informant. (BCG, Become a Certified Genealogist; Mills, QuickLesson 17)
+5. **Weigh sources, don't count them.** Five online trees copying one claim aren't five witnesses — they're one unverified claim repeated. Classify on three layers: the **source** (original record, derivative record such as an index or abstract, or authored work), each statement's **information** (primary, secondary, or **undetermined** when the informant is unknown), and the **evidence** it gives for the question (direct, indirect or negative). Classify each *statement* by whether its informant had firsthand knowledge of THAT fact (a death certificate's informant usually knew the death firsthand, the birth only secondhand) — never stamp a whole record "primary" or "secondary." When the record does not identify the informant, as in most U.S. censuses before 1940, mark the information undetermined. You may still reason about who probably supplied each item and what that person could have known, but label it as inference: it never turns undetermined information into primary (see "Split a death certificate by who supplied each item" below). (BCG, Become a Certified Genealogist; Mills, QuickLesson 17)
 6. **A record's mere mention of a person doesn't prove a relationship it never asserts** — but an unstated relationship can still be proved by an explicit, written correlation of indirect evidence (never by assertion). A parent's signature on a standard-form marriage bond does **not** prove a minor bride.
 7. **"No record found" is a search result, not evidence** — and absence of a death record is not evidence of life. **Log every search with its date** (online coverage changes over time).
 8. **An indirect conclusion must be WRITTEN as an explicit correlation argument**, never asserted as if direct.
@@ -154,6 +154,10 @@ discussions: [Geni](https://www.youtube.com/watch?v=e9DQLOq0x_o),
 [Mayflower study](https://www.youtube.com/watch?v=Uetstsga33c). An application without a flag is not
 thereby verified. These sources give no rate at which approvals are later revised.
 
+**Privacy gate:** <!-- privacy-gate: request --> A DAR record copy names the member, who may be living, and the people in her line; answer the privacy gate in `SKILL.md` before you buy one.
+
+When a woman in the line may have belonged to the Daughters of the American Revolution, search the public version of DAR's Genealogical Research System, which is free, and buy a copy of her verified application; its supporting documentation is sold separately [N194 @2026-11-14], [N195 @2026-11-14]. Such papers can hold details found nowhere else. Weigh them as the dated compiled conclusions described above: DAR does not guarantee that the documentation in its files meets today's genealogical standards [N194 @2026-11-14], [N195 @2026-11-14], [N196 @2026-11-14].
+
 When a compiled book gives a relationship or event without an item citation, retain the exact
 passage and inspect its bibliography for the missing source. If the compiler cannot clarify
 it, use the book's named publisher or local historical society to prepare a bounded inquiry
@@ -203,6 +207,34 @@ publisher holds the source or that a retrieved web item is the archival original
 - **Test a famous or gateway link from the documented end.** First find where the documentation starts. If sources appear only from the noble or gateway generation upward, the connection is unproven: verify each generation from the researcher upward. Watch for same-name ocean crossings, overlapping marriages and geographic leaps, and record a published pedigree's provenance. Check that the famous person left surviving children, and join a line only at a person a documented descendancy actually names. Convert a claimed cousin degree into the shared ancestors it implies and use them as a search guide; rule out slots by dates, then recompute the degree from the joined tree. When trees attach an ancestor to a progenitor because of a rare given name, list the progenitor's same-named descendants and compare their children with men documented locally. Motivating examples: [gateway](https://www.youtube.com/watch?v=mbDqe9rXWx4), [famous ancestor](https://www.youtube.com/watch?v=qG2YD76a3gk), [Truman](https://www.youtube.com/watch?v=Gdyo3ORfPk4), [Tecumseh](https://www.youtube.com/watch?v=jjknGUtMs7s), [rare name](https://www.youtube.com/watch?v=v3x23zLGi04). A compiled descendancy is a source to evaluate. A claim that has not been excluded is still unproved, and a shared rare name proves no link.
 
 For a Russian Orthodox household, run the one-off-name test across consecutive confession lists as set out in [reading confession lists, step 4](russian-orthodox-confession-list-reading.md#4-compare-the-household-across-several-lists).
+
+### Read each record for what it can show
+
+**Take signatures and marks from originals before you use them as descriptors.** A recorded deed or will book holds the clerk's copy of each signature and mark: a signature in the same hand as the whole document is most likely the clerk's [N197], [N198]. Look for the person's own hand in original papers: probate and court case packets, marriage papers the couple had to sign, pension and bounty-land applications, some federal land files and draft registration cards [N197], [N198]. Search other people's records too, where the person signed as a witness or affiant, such as a relative's will or homestead affidavit, and note where each sample is so you can find it again. Compare samples from different years, because signatures change [N199], [N200]. A mark need not be an X; some people made an initial or another sign [N201], [N202]. A distinctive mark that recurs on originals, such as an M or an O, can tell namesakes apart, but a mark printed in a recorded copy is the clerk's rendering of it [N201]. A mark is evidence that the person could not write their name, not proof: literate people sometimes made a mark for convenience, at someone's request or when too weak to write [N203], [N204]. Before you call someone illiterate, look for their signature in other local records and for the census literacy answer [N203], [N205].
+
+**A missing court order does not count against a name change.** For much of U.S. history a person could take a new name under the common law without going to court [N206], [N207]. Bridge the two names through records that span the change: a deed for land bought under one name and sold under the other, pension applications made after the change, probate, divorce and criminal court records that note an earlier name or an alias, and sometimes a death certificate [N208], [N206], [N209], [N210]. Then compare the two identities' descriptors in the dossier before you join them.
+
+**Read a stated age by the form's own definition before you compute a birth year.** The age may be at the last birthday, at the next birthday, or on a stated reference date: the 1850 U.S. census asked for the age at the last birthday before 1 June 1850, and Canada's 1851 census asked for the age next birthday [N211], [N212], [N205], [N213], [N214]. Work out the birth interval from that definition before you log a one-year discrepancy. Cite the record only for what it gives: an 1850 census age of 3 and a birthplace of Indiana support a birth in Indiana between 2 June 1846 and 1 June 1847, not an exact birth date taken from a death certificate, even when the two agree [N215], [N205].
+
+**A baptism bounds a birth from one side only.** In English registers baptism usually followed birth within about a week in the sixteenth century, and the gap lengthened from the mid-seventeenth: in one study it took 14 days for 75% of the children to be baptised in 1650–1700, 38 days in 1771–89 and 64 days in 1791–1812 [N216], [N217]. Use such figures to set a likely window, never a bound, since some children were baptised on the day they were born and others years later [N216], [N218]. When several siblings were baptised together, some of them older children or even teenagers, the entry shows neither where each was born nor that the birth was recent, and a parent it names may be a stepparent after a remarriage [N218], [N219].
+
+**A headstone, death certificate and obituary that agree on a birth date are often one stream.** The same family member probably supplied the date to all three, so count them as one statement until you know otherwise [N220]. A Find a Grave or BillionGraves entry is not a further witness: at best it transcribes the stone, and a Find a Grave contributor may have taken the date from an obituary, a tree or no source at all, so compare the entry with the photograph of the stone [N220], [N221].
+
+**Split a death certificate by who supplied each item.** On a U.S. certificate the funeral director usually takes the personal details from an informant and arranges the disposition, while the attending doctor or another medical certifier completes the cause of death [N222], [N223]. The named informant may have passed on what others told them, an early certificate may name only the doctor, and a record that names no informant leaves you to work out who probably gave each item and what that person could have known; label that as inference and keep the information undetermined [N224], [N225], [N222], [N226]. Weigh each item by its own contributor. A parent's birthplace may be where the informant believed that parent's family came from, not where the parent was born [N227]. A round age, especially one ending in 0, with the months and days left blank, is often an estimate: treat it as rounded and widen the birth range instead of subtracting the age from the death date [N228], [N229].
+
+**Classify a record by how and when it was made, not by how it looks.** A typed marriage entry from the late 1700s is a transcription, but a typed will or birth certificate from 1930 can be the original, and before photographic copying many copies were made by hand [N230], [N231]. The class says nothing about accuracy: some originals are nearly worthless and some derivatives are excellent, so never rank one record above another by its class alone [N232], [N230], [N233].
+
+**A blank field can carry negative evidence.** When the person's entry in a record you hold leaves empty a field that the other entries fill, such as the payment date in a tax roll, treat the blank as negative evidence: a clue that the event, such as the payment, did not happen, to test against other records, not a finding that it did not happen [N234], [N12]. A failed search for the person is a different matter and counts only under the negative-evidence gate above.
+
+**'Late of [place]' means formerly of that place.** A person described as 'late of' a county usually no longer lived there; the phrase does not show a death. Record a death only from other wording, such as 'deceased', or other evidence [N235], [N236].
+
+**A remarriage proves neither a death nor a divorce.** When one spouse marries again, do not record the earlier spouse's death, or a divorce, from that alone. Where divorce was harder than moving away, couples parted without any legal step and both remarried: in the United States from the 1750s to the 1820s, such separations were perhaps the commonest way to end a marriage [N237], [N238]. Some people remarried while the first spouse still lived, most after moving far away, and most such bigamies went undetected [N239], [N240]. Look for the earlier spouse alive later, for a death, burial or estate, for a divorce in the court records, and for deeds or other local records that mention the separation, such as a deed dividing the couple's property; an informal separation may have left no record at all [N237], [N239].
+
+**Test a claimed adoption by a stepfather against his estate and the children's guardianship.** A child listed under the stepfather's surname in a census or a marriage record was not thereby adopted, and a guardian of a minor managed the child's property: the appointment is not an adoption [N241], [N242]. A guardian other than the stepfather weighs against his adoption [N241]. Find the adoption law in force at his death. Where adopted children could inherit, living stepchildren missing from his order of heirship argue against a valid adoption [N243], [N244]. In Illinois in 1900, for example, an adoption that did not strictly follow the statute gave no right to inherit, so the gap argues against a valid adoption, not against any attempt; search the court's adoption records too [N244].
+
+**Read a list of heirs-at-law against the statute that produced it.** Rebuild the set of heirs that the descent law of that place and date entitled, including half-blood lines from a grandparent's second marriage where the statute counted them, and search for any branch the administrator left out; an administrator from one side of the family may not have known the other [N245], [N246]. Heirs-at-law usually come from one class: descendants first, then parents, siblings and more remote kin only when no descendant survives. So a parent or a cousin named as an heir-at-law is a lead that no descendant survived at that date, and one descendant heir suggests that the others, apart from a spouse, are descendants too [N247], [N248], [N249], [N250]. Confirm the classes and the spouse's share in the statute itself, since both differ by state and date [N248], [N249], [N250].
+
+**A will speaks at its date.** A beneficiary named in it was alive, or believed alive, when the testator signed it; that does not show that the beneficiary outlived the testator. Read the whole estate file to see whether the share went to that person or to their heirs, since a gift to someone who died first lapses or passes as the will or the law directs [N251], [N252]. A child named only to receive nothing or a token sum was usually named so the child could not claim to have been overlooked; that shows neither estrangement nor that the will names every child [N253], [N254]. A child left out may already have received a share in the parent's lifetime: look for deeds of gift, settlement deeds and the child's own will before you read the omission as a quarrel [N253], [N255], [N256].
 
 ### Preserve candidate-generation settings and different-person decisions
 
@@ -275,6 +307,19 @@ it and may be the namesakes. Shared common given names add almost nothing. Recor
 whose names fit no pattern and the relatives no one was named after. In a written proof, place
 the naming evidence after the documentary case as support, never as its foundation. (Source 187)
 
+Before you read a child's name as a relative's, set aside the names explained by the mother's
+family, by a baptismal sponsor, or by a politician or other public figure prominent at the
+birth; only what remains is a lead to the father's side [N257], [N258], [N259]. A
+surname-like middle name may honour such a figure rather than a maternal line: Chartist families
+named children after Feargus O'Connor, some with O'Connor as a middle name [N260], [N261].
+A son who carries his father's given name was not for that reason the eldest son; place him in
+the birth order from other evidence [N262], [N263]. To suggest an earlier generation's names,
+collect the first and middle names of all the ancestor's grandchildren across every child's
+family: a name that recurs in every branch is a stronger lead, and still only a lead [N264],
+[N259]. Judge a surname's rarity where the families came from as well as where they
+settled. A name rare in the settlement can be common in the place of origin, so neighbours who
+share it need not be kin [N265], [N266].
+
 ## Compare the creation stages within a marriage record
 
 When a loose license/return and a book entry survive, compare the license, ceremony return
@@ -296,6 +341,11 @@ on available contemporaneous bonds or court records. Retain actual evidence of r
 or other official service; repetition alone proves neither office nor kinship. Keep witness,
 bondsman and consenting-person roles distinct. The [marriage-bond example](https://familylocket.com/back-to-the-basics-with-marriage-records-part-1-marriage-bonds/)
 adds this comparison to the existing form-convention and signature controls.
+
+From 1754 an English parish marriage entry carries at least two witnesses, and they need not have
+known the couple [N267], [N268]. Before you read kinship from a witness whose surname matches or
+nearly matches the bride's or groom's, scan the register for 'regular' witnesses who signed many
+marriages in that parish [N267].
 
 If an actual index exposes a bondsman/surety field, search the identified actor in that
 role and carry each couple, date, jurisdiction and index locator to the original bond.
@@ -320,6 +370,11 @@ Motivating examples: [banns](https://www.youtube.com/watch?v=HX-vIeT3nuo),
 [late civil registration](https://www.youtube.com/watch?v=uks4xjQvig8). These sources establish no
 indexing practice, period or legal requirement; take those from dated local authority.
 
+A licence, a marriage bond, or a newspaper notice of an engagement or of a journey to marry also
+records an intention. Most such couples married, but some did not. Record a marriage only on
+evidence that the ceremony took place, such as the returned licence, or a date and place of
+marriage with at least the officiant's name [N269], [N270], [N271].
+
 ## Follow record versions and test disputed dates
 
 For a struck-out index or later-filed entry, retain both references and distinguish the
@@ -335,6 +390,8 @@ cases; their original records remain to be inspected in any new investigation.
 **Privacy gate:** <!-- privacy-gate: request --> A request for a register entry's full text names the person on the certificate, who may be living; answer the privacy gate in `SKILL.md` before you send it.
 
 An issued certificate, extract, archive statement or compiled ancestry form is derived from a register entry. A dash or blank on it (religion, nationality, birthplace, the mother's surname, a whole paternal side) means 'not stated' there (for a blank paternal side, at most that the father was not known), not 'none' or a hidden origin. Find where the original register is held and request the entry's full text, ideally an image, including marginal notes, because issued statements may abbreviate it. Treat an uncertified handwritten addition, especially in a field that year's form lacked, as an unattributed later addition. Record differing surnames as a conflict. Look beside the act for dated notes of a name change, conversion, court decision or later acknowledgment of paternity; clerks could also write variant forms without an official change. Motivating discussions: [register extract](https://forum.j-roots.info/viewtopic.php?f=95&t=5107), [certificate addition](https://forum.j-roots.info/viewtopic.php?f=20&t=5084), [act annotations](https://forum.j-roots.info/viewtopic.php?f=4&t=4667), [blank paternal side](https://forum.ahnenforschung.net/forum/thread/7419/). None establishes period rules on forms, amendments or registering fathers, or what an omitted field contained.
+
+Date each version of a certificate. On a certified copy, record both the issue date and the date the original was filed. A copy issued decades later was made from the record on file, usually the register, and is derivative of it, and certification does not mean that it carries every detail of the original [N220], [N231]. An original filed months after the birth was itself written after the event, though vital-records rules may call a registration 'delayed' only when it is filed a year or more late [N220], [N272]. Two certificates for one person may be an original and an amended one, not two people: a birth record replaced after an adoption or a court order, or a death certificate whose cause of death was later changed through the medical certifier [N273], [N274], [N275]. After an adoption the original birth record is usually sealed, and the replacement need not show that it replaced anything [N274]. A bishop's transcript was the copy sent to the church authorities each year, so a correction later written into the parish register, such as a mother's given name, appears only in the original: compare the two before you read a differing name as a different person [N276], [N277], [N278].
 
 A bilingual seal may reflect the issuing office rather than its holder. On a Soviet-era certificate, a Yiddish stamp next to Slavic text is not a rabbinate seal and does not show the person's Jewish identity: offices in Jewish national districts and village soviets could use bilingual seals. First identify the issuing district. Then look for nationality fields, such as the parents' nationality, which one participant says was usually given on 1937 civil records, or the person's later identity documents. A [bilingual-seal discussion](https://forum.j-roots.info/viewtopic.php?f=95&t=5107) motivates this step. It shows no stamp image, and one participant's remark on 1937 nationality fields is a generalisation, not a rule for any form.
 
@@ -354,6 +411,8 @@ Old Style dates can also explain a gap of days. If a pre-1918 date from the form
 Do not add 13 days to every Old Style date. The gap between the Julian and Gregorian calendars was 10 days in the seventeenth century, 11 in the eighteenth, 12 in the nineteenth and 13 from 1900. Each increase falls around the end of February in 1700, 1800 and 1900. Use the offset for the date's own century, check any date near those boundaries with a calendar converter, and keep the literal Old Style date beside the conversion. A [calendar-offset table](https://rodgersforum.borda.ru/?1-0-0-00000172-000-0-0-1772397970=), credited to a secondary article, motivates this step. It does not say which calendar its boundary dates use, and it does not cover registers already kept in New Style.
 
 The year number can be off as well as the day. In England, Wales, Ireland and the British colonies the legal year began on 25 March until the Calendar (New Style) Act 1750 made 1 January the first day of 1752 (Sources 178, 180, 183). So an English, Welsh, Irish or colonial date from 1 January to 24 March before 1752 may belong to the next modern year. This holds for every kind of record, not only Quaker ones. Write such a date double-dated, for example 10 February 1739/40, before you compare it with ages, sibling spacing or other events, and keep the dual year when you compute an age. Scotland began the year on 1 January from 1600, so do not double-date a Scottish date from 1600 onward (Source 179); its day offset is the separate Julian question above. To encode a dual year in a GEDCOM file, see [GEDCOM export § 5](gedcom-research-export.md); for Quaker numbered months, see [Quaker meeting records § Preserve numbered dates literally](quaker-meeting-record-recovery.md).
+
+English legal and parliamentary documents also date by regnal year, which runs from the monarch's accession day, not from 1 January or 25 March. Acts of Parliament were cited by regnal year until the Acts of Parliament Numbering and Citation Act 1962 numbered them by calendar year from 1963 [N279], [N280], [N281]. Convert with a table of accession dates, then double-date any day before 25 March. Year 1 of William and Mary began on 13 February 1689, so 1 January in that year is 1 January 1689/90, and it falls after 1 May of the same regnal year [N279], [N280], [N282]. A later source may give a pre-1752 birth fully converted to New Style: George Washington, born 11 February 1731 by the Julian calendar, is remembered as born on 22 February 1732 [N283], [N284]. Before you call such a pair of dates a conflict, test it as that conversion: the day offset for the date's century, given above, with the year moved forward for a date from 1 January to 24 March [N283], [N282].
 
 Soviet civil dating changed by the Sovnarkom decree of 24 January (6 February) 1918 introducing the Western European calendar: the day after 31 January 1918 was counted as 14 February ([decree in translation](https://soviethistory.msu.edu/1917/new-letters-and-dates/new-letters-and-dates-texts/introduction-of-a-new-calendar/)). So a civil record (state or ЗАГС, civil registry office) written at the time under Soviet authority cannot carry a date of 1–13 February 1918. If one appears, it is a Julian date (1–13 February Old Style = 14–26 February New Style), a later conversion to New Style (1–13 February NS = 19–31 January OS, valid in a later document), or a misreading. Check which calendar the source used, and keep both dates with the calendar named. The decree bound only territory under Soviet authority, so a record made elsewhere can carry those dates. (Source 165)
 
@@ -388,6 +447,8 @@ motivates this search; a latest appearance is not a death date.
 
 Read a baptism's whole sponsor section, including any note in the entry, before you use a sponsorship. A named sponsor, such as a high-ranking one, may have accepted without attending or been represented by a stand-in. Record each sponsor's role as written: named, absent, represented by someone, present. Only then use the entry to place someone in the parish, to bound a life window as above, or as evidence of a close tie to the family. A [baptism with absent royal sponsors](https://forum.ahnenforschung.net/forum/thread/928/) motivates this step. It is one unusual entry. Most entries carry no such note, and a missing note does not show that a sponsor was present.
 
+Run the sponsor search forward to date an arrival. When a person's own records do not show when they settled in a place, collect the baptisms there of all their grandchildren and other relatives, and keep the earliest entry in which they stand sponsor in person; it places them there by that date [N285], [N286], [N287]. Apply the role check above first: an entry naming an absent or represented sponsor places no one.
+
 ## Resolve a relationship label across successive unions
 
 Retain an in-law term verbatim with its reference person and record date. Compare earlier
@@ -397,6 +458,14 @@ path through former/current spouses and subsequent marriages; one person can hol
 affinal roles. Preserve supported paths and unresolved alternatives. The [revision-list discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=13676)
 motivates this dated comparison without establishing its narrated family solution or a
 universal kinship dictionary.
+
+A relationship term may hide a step or in-law link. A record can call a nephew by marriage simply
+a 'nephew' and can drop 'in-law' or 'step' altogether: an older English will may call a son-in-law
+a 'son', and its 'child-in-law' may be a stepchild [N288], [N289]. An obituary's list of grandchildren can include
+step-grandchildren, even the stepchildren of a child whose marriage has since ended [N290],
+[N291]. List every blood and marriage path a term allows before you decide who should share DNA,
+and do not read a DNA non-match as proof that the record is wrong until the paths by marriage are
+ruled out [N288], [N290], [N291].
 
 Surnames shift across unions too. A bride's surname on a marriage entry is not her maiden name
 unless the record says so: a widow may marry under an earlier married surname without the record
@@ -417,6 +486,18 @@ her birthplace and with land or probate records she made under both names. Motiv
 [Gunton](https://www.youtube.com/watch?v=QOxgU5AZjEo),
 [Dove](https://www.youtube.com/watch?v=pNF5B1jZ8gM). Agreement supports a surname but does not prove
 it. A matching birthplace or a registration under the maiden name identifies no father.
+
+An unchanged surname can also hide a marriage within the family. A widow who seems never to have
+remarried may have married her late husband's brother. A man whose wives share a maiden name, and
+perhaps similar given names, may have married his first wife's sister after her death: do not
+merge the wives into one woman [N292], [N293], [N294]. A surname that a record calls a
+woman's maiden name may be the name she carried just before that marriage, such as an earlier
+married name, or a stepfather's or adoptive family's surname [N295], [N296], [N297]. When a child
+gives the mother a maiden name that conflicts with contemporary records, often decades after her
+death, test it as a stepfather's surname, the grandmother's maiden name or another relative's
+married name before you discard it [N298], [N299]. Get every marriage record of a widowed
+ancestor, including short marriages outside your line: a later form may be the only one that asks
+for the bride's parents [N300], [N297].
 
 **Privacy gate:** <!-- privacy-gate: request --> An application for an adopted person's original birth information concerns the adopted person and birth parents who may be living; answer the privacy gate in `SKILL.md` before it is made.
 
