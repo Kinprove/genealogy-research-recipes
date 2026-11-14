@@ -142,8 +142,8 @@ is "US, Bounty-Land Warrant Applications Index, 1812-1855" [H5 @2026-11-14], [S3
 When the name is not found there, order the file from NARA (section 3) instead of recording a
 miss.
 
-For a Revolutionary War claim, M804 holds only pensions granted or paid by the federal
-government [S34]. Under the resolution of 26 August 1776 the states examined, granted and paid
+For a Revolutionary War claim, M804 holds only federal applications, approved or rejected;
+pensions that a state granted and paid are not in it [S26], [S34]. Under the resolution of 26 August 1776 the states examined, granted and paid
 the disability pensions; the federal government took over the payments under an act of
 29 September 1789, but not every state pensioner was moved to the federal roll [S25], [S27].
 Fires in the War Department on 8 November 1800 and during the British capture of Washington on
@@ -182,9 +182,7 @@ memorials, and committee papers [S28].
 For a Revolutionary War file in M804, read the letter before the file number first. S marks a
 surviving soldier's application whose widow did not apply; W a widow's application, filed alone
 or with the soldier's own; R usually a rejected claim but sometimes a Virginia veteran's claim
-for half pay for life; BLWt a bounty-land warrant application; and a state code such as NC, SC,
-GA or VAS an application made to a state and later transferred to federal jurisdiction [S26],
-[S53]. A W file can therefore hold the soldier's own declaration, and an R does not prove that
+for half pay for life; and BLWt a bounty-land warrant application [S26], [S53]. A W file can therefore hold the soldier's own declaration, and an R does not prove that
 every claim in the file failed: many files under the Virginia act of 5 July 1832 were numbered R
 although the claims were not rejected [S25], [S26].
 
@@ -426,12 +424,12 @@ such as requiring a militiaman's name on a roster when its regulations exempted 
 | Act | Who qualified |
 | --- | --- |
 | Before 1871 (the "Old Wars" series, indexed in T316) | Men disabled by their service, and the widows of men who died of it [S33] |
-| 14 February 1871 | 60 days' service and an honorable discharge; widows married before the peace treaty took effect on 17 February 1815 who had not remarried [S36], [S38] |
+| 14 February 1871 | 60 days' service and an honorable discharge, for men who had not supported the Confederacy; widows married before the peace treaty took effect on 17 February 1815 who had not remarried [S36], [S38] |
 | 9 March 1878 | 14 days' service or any engagement, and an honorable discharge; their widows, with no limit on the marriage date [S37] |
 
 Most War of 1812 files come from the 1871 and 1878 acts, and most of their applicants were
-widows or minors [S33]. A veteran who was not disabled by his service and died before 1871 has no
-file of his own; search for his widow's claim and for bounty land (section 1) [S50], [S51]. If a
+widows or minors [S33]. A veteran who was not disabled by his service and died before 1871 could
+not get a pension; search for his widow's claim and for bounty land (section 1) [S50], [S51]. If a
 widow qualified only under the 1878 act, compare her marriage date with 17 February 1815 before
 looking for another reason [S36], [S50].
 
@@ -439,13 +437,13 @@ looking for another reason [S36], [S50].
 
 | Act | Who qualified |
 | --- | --- |
-| 14 July 1862 | Men disabled by a wound received or a disease contracted in service and in the line of duty; for a death from such a cause, the widow, then children under 16, then a dependent mother or orphan sisters [S64] |
+| 14 July 1862 | Men disabled by a wound received or a disease contracted in service and in the line of duty; for a death from such a cause, the widow, then children under 16, then a dependent mother, then dependent orphan sisters under 16 [S64] |
 | 27 June 1890 | 90 days' service, an honorable discharge and a permanent disability, not caused by vicious habits, that prevented earning a support by manual labor; widows with no other support than their own labor, married before 27 June 1890, without proof that the death came from service [S43] |
 | 5 August 1892 | Women employed as army nurses for six months or more, honorably relieved, and unable to earn a support [S44] |
-| 3 March 1901 | A widow who was his wife during his service, was pensioned for a death from service and was dropped for remarrying, restored when widowed again or divorced without fault and left with no other support than her own labor [S65] |
+| 3 March 1901 | A widow who was his wife during his service, was pensioned for a death from service and was dropped for remarrying, restored when widowed again or divorced on her own application without fault on her part, and left with no other support than her own labor [S65] |
 | 6 February 1907 | Age 62 or over, with 90 days' Civil War service (or 60 days in the Mexican War) and an honorable discharge [S45] |
-| 19 April 1908 | Widows married before 27 June 1890, with no test of support [S46] |
-| 8 September 1916 | Widows married before 27 June 1905; widows dropped for a later marriage, restored when widowed again or divorced without fault [S47] |
+| 19 April 1908 | Widows of men with 90 days' service and an honorable discharge, married before 27 June 1890, with no test of support [S46] |
+| 8 September 1916 | The 1908 widows' pension extended to widows married before 27 June 1905; widows dropped for a later marriage, restored when widowed again or divorced on her own application without fault on her part [S47] |
 
 Read the date and type of each Union application against this table before treating a late or
 repeat claim as new illness or hardship; many veterans moved from their earlier invalid pensions
