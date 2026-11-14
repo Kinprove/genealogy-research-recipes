@@ -854,6 +854,12 @@
  {
   "recipe": "evidence-proof-judgment.md",
   "kind": "request",
+  "action": "buy a copy of her verified application",
+  "checkpoint": "A DAR record copy names the member"
+ },
+ {
+  "recipe": "evidence-proof-judgment.md",
+  "kind": "request",
   "action": "Find where the original register is held and request the entry's full text",
   "checkpoint": "A request for a register entry's full text names"
  },
