@@ -77,6 +77,12 @@ apart from locations based on word of mouth or dowsing. The
 complete or accurate a survey is, and a preservation group reports finding errors in its own
 compilation.
 
+Do not stop at the newest published transcription of a cemetery. Look for older ones too, such as
+a 1940s reading beside a 1990s one: a stone legible then may be worn or gone now, so the older
+reading can hold words the newer one lacks, and a newer transcription does not supersede it
+[P118], [P146]. Keep each reading with its compiler and date, compare them word by word, and
+check a disagreement against the stone or its photograph where one survives [P146].
+
 German graves are reassigned after a rest period (Ruhezeit), and small children rarely received
 permanent stones. A gravestone survey such as the CompGen Grabstein-Projekt
 (grabsteine.genealogy.net) therefore under-represents older burials, above all infants and young
@@ -227,6 +233,24 @@ that year; each hit gives the issue, date and microfilm reference. [P58] For a f
 cemetery now in Poland, search the Grabstein-Projekt (section 1); it covers selected cemeteries,
 not all of them. [P59]
 
+For a Canadian burial, also search Canadian Headstones (canadianheadstones.ca), a collection of
+headstone photographs and transcriptions from cemeteries across Canada, by first or last name
+[P121 @2026-11-14], [P139 @2026-11-14]. Middle names sit in its first-name field, so enter
+`John%` rather than `John`; `%` is its wildcard elsewhere too, as in `M%Donald` for McDonald or
+MacDonald. Its menus also offer Overseas Canadian Headstones and a cemetery lookup
+[P139 @2026-11-14]. Records are submitted and transcribed by contributors, so a miss is not a
+negative; read a hit against its photograph [P121 @2026-11-14], [P139 @2026-11-14].
+
+To list the relatives the FamilySearch Family Tree places in one cemetery, open the cemetery in
+FamilySearch's Cemeteries search on the website (the mobile Family Tree app lacks it), signed in
+with the user's own account, and click **Only show my relatives**; only people in the Family Tree
+appear [P122 @2026-11-14], [P140 @2026-11-14]. The list is tree data, not a burial record: open
+each person's own burial source. A relative missing from it is not a negative. Users report that
+the filter left out a relative by marriage buried beside a blood relative, that a relative whose
+profile had an attached Find a Grave record never appeared in the cemetery's list, and that a
+relative can be listed under a duplicate profile not linked to the user's tree
+[P141 @2026-11-14].
+
 **Output:** a query row for each field combination, retaining the exact entered strings and
 the candidate record links.
 
@@ -292,6 +316,21 @@ monument can name people buried elsewhere; compare their location statements wit
 burial records instead of assigning everyone named on the monument to its plot.
 Unresolved burial locations stay open. [P26]
 
+A name cut on a stone before that person died records where they meant to be buried when the
+stone was set, not a burial. A couple's stone put up at the first death, or a stone bought at a
+child's death that also names the living parents, can leave a survivor's death date blank or
+part-cut (`19__`). That blank shows neither that the person is still alive nor that they lie
+there: they may have moved, divorced or remarried and been buried elsewhere, been cremated, or
+died with nobody to have the date cut [P111], [P112], [P113], [P114], [P144]. Record the burial
+as unresolved until a death or burial record places it. Until a death record is found, treat a
+survivor who could still be alive as a living person [P144].
+
+A widow named beside her first husband may appear in later census, death and burial records only
+under a later husband's surname, so search for her under each later married name [P110], [P112].
+One person can have a stone with each spouse in different places while lying under only one.
+Look for the other stone, and record each stone's wording apart from the place of burial, which a
+death certificate or burial record settles [P115], [P145].
+
 Many 20th-century monuments in the former Soviet Union carry a portrait of the deceased: a
 photoceramic or enamel medallion, or a photograph under glass or plastic. [P30, P31] A grave
 photograph is then also a person photograph. Record the portrait as attributed by the inscription
@@ -305,6 +344,13 @@ notes or other documented association. On an authorized future visit, photograph
 cemetery sign first can help preserve this context. If no such image was supplied, record
 it as absent; do not invent a sign image or assume that every adjacent camera file belongs
 to that cemetery. A sign identifies the photographed place, not the person or burial. [P24]
+
+Read any wide shot of a row or section in a supplied photo set as well as the close-ups. It
+records where stones stand relative to one another and can show a stone with the target surname
+that nobody photographed close up [P119], [P149]. Log such a stone as `seen in wide shot, not
+photographed` with the image ID, read only what is legible at that size, and queue a close-up
+or a return-visit item. On an authorized visit, photograph each group of graves together before
+the single stones [P149].
 
 For a bilingual stone, transcribe the Hebrew and secular-language portions separately. The
 gravestone tutorial demonstrates the deceased's Hebrew given name and the father's Hebrew name
@@ -413,6 +459,17 @@ placed later, record each date with the marker it comes from, who placed it and 
 lettering cut later, such as sandblasted text beside raised original lettering, as a later
 addition. A date conflict between markers stays an unresolved discrepancy (Section 5). [P66]
 
+Do not assume a stone was set at the burial. It may have been put up years or decades later, with
+details given to the stonecutter from someone's memory: in one family, court records show a stone
+set in 1906 for a death in 1888 [P116]. RootsIreland warns that Irish gravestone information may
+be inaccurate for this reason [P142]. An Irish family stone can be erected 20 to 50 or more years
+after most of the deaths it lists, and a man it shows dying in 1899 can still appear in the 1901
+census [P117]. Record the erection date as unknown unless a record dates it. Look where the
+stone's purchase may be written down: an estate or court account, as in the 1906 example, the
+cemetery's burial or memorial register, or the funeral home's file [P116], [P143]. Check each
+date on such a stone against the census, the civil death registration and the burial register
+before you use it.
+
 In a damaged or cleared cemetery, compare the present enclosure with any dated map of its former
 extent. Record the areas outside the boundary as lost or not examined, so that a missing stone is
 not read as absence of burial. For a stone recovered from a pile or dump, or reset in a special
@@ -487,6 +544,95 @@ are:
 
 Permit rules and record survival vary by state and period.
 
+**Privacy gate:** <!-- privacy-gate: contact --> A search request to a council, church, record office or Friends group names the deceased and the burial place and discloses the user's research interest; answer the privacy gate in `SKILL.md` before you send it.
+
+In England and Wales, the registers of a council-run cemetery are held by the council's
+bereavement service, often called Cemeteries and Crematoria ('Cems and Crems') or Bereavement
+Services; find it by searching either name with the town [P105 @2026-11-14],
+[P125 @2026-11-14]. A privately owned cemetery keeps its own records [P105 @2026-11-14]. Older
+registers may have been deposited in the local archive instead: Sheffield Archives hold the
+city's civil cemetery registers from 1836 to the late 20th century [P128 @2026-11-14], and
+Gloucestershire Archives list the cemetery records they hold [P126 @2026-11-14]. Search a
+published register first where one exists, such as Birmingham's, digitised to 2014
+[P125 @2026-11-14].
+
+Otherwise ask the council's bereavement service to search its registers for the grave number and
+section, giving the name, the date of death and the cemetery, as Leeds asks [P105 @2026-11-14],
+[P123 @2026-11-14]. Many councils charge for a search: on 2026-11-14 Leeds charged £47, with no
+charge when no location is found, and Wirral £64 [P123 @2026-11-14], [P124 @2026-11-14]. Leeds
+has no computerised records before June 1987, and many of its records are not indexed
+[P123 @2026-11-14], so a failed council search means not found, not no burial.
+
+Read what the cemetery register itself records before you order a death certificate. Registers
+vary by cemetery and period, and some early ones hold less than later ones [P109], [P126]. Most
+of those Gloucestershire Archives describe give the name, age, occupation, burial date, minister
+and grave number, and some the date and place of death [P126]. York Cemetery's give the grave
+type, dates of death and burial, residence, cause of death, the person who arranged the burial and
+the officiating minister [P108], [P129]. Its
+'informant' column names that relative, executor or undertaker, not the informant of the civil
+registration [P129]. Record which fields the register has. It is a burial record, not the civil
+death registration: where it lacks a field you need or its date conflicts, the certificate is
+still the record to get [P108], [P109].
+
+Read the section and the grave type too, not only the location. Under the Burial Acts, part of a
+new public cemetery was consecrated for Church of England burials and part left unconsecrated for
+other denominations; Leeds's municipal cemetery opened in 1845 with the two sections [P106],
+[P130]. A burial in the consecrated part is a denomination clue [P106], [P109], not proof:
+English Ancestors reports a man buried there whose first child was baptised Catholic [P106]. The
+officiating minister is a second clue [P129]. Test the denomination against baptism and chapel
+records, as in [english-nonregister-record-recovery § 5](english-nonregister-record-recovery.md#5-a-label-that-says-only-dissenter-or-nonconformist).
+
+Do not doubt an identification because a suicide lies in consecrated ground. In England and Wales
+the Burial of Suicides Act 1823 already allowed a person found felo de se to be buried in the
+churchyard, but only between 9 p.m. and midnight and without a Christian service [P106], [P135].
+The Interments (felo de se) Act 1882 repealed it and allowed the burial in any way the Burial
+Laws Amendment Act 1880 permits, while stating that it did not authorise the rites of Christian
+burial [P134]. Both Acts concern only a coroner's verdict of felo de se, so find the inquest
+verdict before reading anything into the burial's place, hour or service [P134], [P135].
+
+A private grave was bought, the purchase confirmed by a certificate or 'grave paper', and the headstone
+was a separate fee, so an unmarked plot can still be a family's private grave: find it by its
+grave number on the cemetery plan instead of calling it a pauper's grave [P106], [P132]. A
+private grave usually held one family, though servants were sometimes buried in it too [P131]. A
+common or public grave belonged to the cemetery and held unrelated people who died within a few
+days of one another; the cheapest, the lock-up grave, stayed open under a locked wooden cover
+between burials [P106], [P129], [P131]. Do not treat people sharing a common-grave number as kin,
+or everyone named on one stone: an inscription grave, in Leeds the 'guinea grave', was a common
+grave whose shared headstone gives each unrelated occupant's name, age and date of death [P106],
+[P131], [P132]. Check the grave type in the register before you infer a family from a grave or a
+stone.
+
+'Pauper's grave' was not an official term. It describes a burial at public expense, paid by the
+parish before 1834 and by the Board of Guardians after, in an unmarked common grave [P106],
+[P132], [P133]. For a death in a workhouse, also look in its registers: the master kept a
+register of deaths, and the creed and admission and discharge registers record deaths too
+[P133]. Find the poor law union from the jurisdiction table in
+[english-nonregister-record-recovery § 1](english-nonregister-record-recovery.md#1-build-the-dated-jurisdiction-table-before-choosing-a-series).
+
+A churchyard burial is recorded in the parish register, which rarely says where in the ground the
+grave lies [P104], [P127]. Ask at the church and the county record office for a plan of the
+churchyard; at the record office, search the parish's deposited records, including its
+miscellaneous records [P104], [P127]. Then look for a survey or map by the family history
+society, a Friends group or the record office's volunteers; a society's may need membership
+[P104], [P127].
+
+With a grave number, find the plan before a visit: on the cemetery's own website, the council's
+cemetery pages, which may sell plot maps, a Friends group's site, a local heritage group or the
+family history society [P105]. Some Friends groups map each plot with its occupants and a
+thumbnail of any recorded headstone, partly for members only [P105], [P136]. When the plan does
+not settle where the grave lies, ask a Friends group to help find it; some do so on the ground,
+sometimes for a donation [P105], [P107]. A plan drawn by volunteers from the visible stones,
+without an official plot list, can leave out unmarked graves, and an original plan may be
+incomplete, so a name missing from a plan is not a negative [P104].
+
+For a Church of England churchyard, the Church Heritage Record shows where each churchyard is, not
+its graves [P104 @2026-11-14], [P137 @2026-11-14]. Plot-level plans and memorial photographs come
+from the National Burial Grounds Survey, which covers Church of England churchyards diocese by
+diocese and needs each parish's consent; in July 2024 the General Synod agreed that parishes
+should be told not to sign up [P137 @2026-11-14], [P138 @2026-11-14]. Check the diocese's status
+on the survey's map. Record a churchyard it has not reached as `not surveyed`, not as evidence
+that the grave is absent.
+
 A burial register or burial-certificate file can confirm a burial without giving any grave
 location. Record the plot as `not recorded in this series` instead of expecting the register to
 supply it. Where the burial series closely parallels the death register for the same community, as
@@ -530,6 +676,15 @@ name]'. Search both for a sister married to a man with that initial and for a si
 has that initial; do not pick one reading. Record the certificate's place-of-burial field as a
 cemetery lead, then find the interment entry there. A burial-place match in another state supports
 identity, but it is not the interment record. [P60]
+
+A funeral guest register or memorial book, usually kept by the family and handed down, lists
+people who came to pay their respects. Use each name as a lead to relatives, associates and
+neighbours, including relatives by marriage, some from marriages that had ended [P120], [P147],
+[P148]. A signer with a family surname whom you cannot place is a candidate relative to research;
+one you cannot connect is a candidate friend or associate, not evidence of kinship [P147].
+Signatures can be hard to read, and people often arrived together, so read a difficult name
+against the names beside it [P120]. For a recent funeral the signers are living people: keep
+their names in the private research log.
 
 Where the actual source offers it, inspect the matched plot's roster before a bounded
 neighboring-plot search. Retain each burial/plot identifier and the actual distance or selected
