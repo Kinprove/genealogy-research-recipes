@@ -4,19 +4,32 @@ title: "Read England and Wales censuses and the 1939 Register under each year's 
 summary: "Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "UK-CENSUS-AND-1939-REGISTER-INTERPRETATION-01", "text": "Before reading any value, settle what that year's image is, who wrote the value, what night or day it refers to and what the year covers."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"tier": "pointer", "group": "Irish and British records", "order": 1068}
 ---
 
 # Read England and Wales censuses and the 1939 Register under each year's own rules
 
 Use this recipe when an England and Wales census return from 1841 to 1921, or a 1939 Register entry, is about to be used as evidence of presence, absence, age, place, marital status, family composition or a later event. Before reading any value, settle what that year's image is, who wrote the value, what night or day it refers to and what the year covers. To carry piece and folio locators beyond Ancestry, use [Ancestry record-search recovery](ancestry-record-search-recovery.md). For the general rule that a stated status is a statement and not an event, and for every proof ruling, use [evidence/proof judgment](evidence-proof-judgment.md). For keeping a filing date apart from an event date, use [AI for documentary records](ai-for-documentary-records.md). The U.S. equivalents are in [U.S. census workflows](us-census-practical-workflows.md).
+
+## Contents
+
+- Fix the year's rules before reading a value
+- Retrieve the whole 1921 return, not one side
+- Treat census night as a headcount of who slept where
+- Read marital status, ages and child counts within their limits
+- Read sex, occupation, status, health and origin from their columns
+- Check birthplaces against the image
+- Match an address by its neighbours, not its number
+- Read the 1939 Register as a registration list, not a census
+- Check what the year covers before reading an absence
+- Return the observation record
 
 ## Fix the year's rules before reading a value
 
@@ -43,6 +56,8 @@ Cite the piece reference from the cover. Several families at one address each ha
 
 In 1921, read the orphanhood answer for children under 15 together with the relationship-to-head column. Do not assume the head of household is the parent who died. The child may be a nephew or cousin whose dead parent lived elsewhere [S12].
 
+Read the schedule's other 1921 answers as well. Ages are given in years and months, so counting back from 19 June 1921 narrows a correctly stated age to a birth window of about one month [S16], [S24], [S25]. Each worker gives the name and business of the employer and the address of the place of work; someone out of work names the last employer and adds "out of work" [S16], [S24], [S26]. The schedule also records whether each person was in full-time or part-time education, and every schedule gives the number of rooms [S16], [S26]. The 1911 questions on years of marriage and children born, and the infirmity question, were dropped [S16], [S25], so a 1921 schedule has no child counts for the method below. Instead, married men, widows and widowers gave the number and ages of their living children and stepchildren under 16 [S16].
+
 ## Treat census night as a headcount of who slept where
 
 England and Wales censuses recorded everyone present on census night, wherever they were: visitors, guests at a sleepover, hotel guests, tourists, ships in port and institutions. Presenters report that some people were listed twice, at home and where they stayed, and some were missed because each household assumed the other would list them [S8], [S14]. Prisons and asylums often give initials only [S14].
@@ -54,6 +69,12 @@ When a person or household is missing from the expected address:
 3. Search the returns for vessels in port, children's homes and other institutions [S12]. Also search the police-collected returns for people sleeping in barns, sheds or the open air. These are placed at the end of the district's book [S12].
 4. Where a person appears twice, link both entries as one possible double entry. Do not create two people.
 
+Search an institution's return differently. A workhouse, prison or similar institution is enumerated as one household, with its master or governor as head and the inmates in adjacent entries [S27]. The head of the institution filled in the form for the inmates [S30], so the inmate did not write the entry and the form does not show who supplied each detail, and some institutions recorded inmates by initials only [S31], [S32]. Search institution returns by initials, with a wide age range and no birthplace, and confirm each candidate on the image.
+
+Read the whole institution return for the rest of the family. New Poor Law workhouses separated husbands, wives and older children into classes on admission [S28], so one family's members can be listed apart: in one 1841 London return a boy of seven is listed, his father appears further down the same page, and his mother and newborn brother were not in the workhouse at all [S29]. Search the full return for parents and siblings, do not assume the whole family was inside, and do not take kinship from the order of entries, because most institution schedules have no relationship column [S16].
+
+Add refusal and absence to the reasons for a miss. In 1911 suffragettes boycotted the census: some refused to fill in the schedule or spoiled it with slogans, and others stayed away from home all night. Many were recorded all the same, and one evader was listed twice: at the place where she hid, and by her landlady at home [S32], [S33]. For a woman missing in 1911, look for her on another household's schedule and for a schedule annotated with a protest before recording a gap. A civilian abroad on business or travel that night is outside the returns, and for someone who may have been at sea, search the vessel returns as well as the home schedule (see [what the year covers](#check-what-the-year-covers-before-reading-an-absence)) [S32].
+
 ## Read marital status, ages and child counts within their limits
 
 - **Divorce before 1921.** 1921 was the first England and Wales census to record divorce as a marital status. One presenter suspects that divorced people in earlier years called themselves single or widowed [S8]. A pre-1921 "single" or "widowed" therefore does not show that no divorce took place. Pass the status to [evidence/proof judgment](evidence-proof-judgment.md) as a statement.
@@ -62,9 +83,29 @@ When a person or household is missing from the expected address:
   - **Fewer children than the counts:** set a target number of missing children. Look first in the gaps in birth order between the marriage and 1911 [S5]. Search civil birth indexes by surname and the mother's maiden surname for that window. Confirm each candidate with a baptism. For a child counted as died, also confirm a death registration before 1911 [S3]. Two births registered in the same quarter are only a twin hypothesis [S3].
   - **More children than the counts, or a marriage too recent for the older children:** suspect an earlier marriage and stepchildren. Keep one row per wife, check each wife's birthplace and age across the census years, and do not merge the children [S5].
 
+## Read sex, occupation, status, health and origin from their columns
+
+**Sex.** In 1841 the age was written in one of two columns, for males or for females [S34], and the forms kept separate male and female age columns until 1921, the first census to ask for sex on its own [S35]. An entry whose forename is missing or unreadable still has a sex: take it from the column that holds the age [S36].
+
+**Occupation shorthand.** Read abbreviations in the occupation column as census terms, not as initials or misreadings. FS and MS are female and male servant and FWK is framework knitter, all in 1841; Ag lab is agricultural labourer, Ap or App apprentice, J journeyman, and Ind or Independent of independent means [S16], [S37].
+
+**Employment status.** In 1891, take the status from which of three columns, Employer, Employed, or Neither employer nor employed, holds the cross, not from the occupation wording. Married women assisting their husbands in a trade or industry were to be returned as employed, and the columns cover only trades and industries, not domestic service [S38]. A wife or daughter entered as a shop assistant in the family business can therefore carry an employed mark of her own [S39]. In 1901 the choices are Employer, Worker or Own account [S16].
+
+**Health.** From 1851 a column asks whether each person was blind, or deaf and dumb [S16], [S41]. From 1871 it adds imbecile or idiot and lunatic, in 1911 it asks the age at which the condition began, and in 1921 it is gone [S16]. Record an entry there as the household's statement. Do not read a blank as proof of good health: householders were often reluctant to admit a disability in the family [S40].
+
+**Language and origin.** These censuses never ask for a mother tongue. For someone born in a foreign country they give the country of birth, and only from 1921 a state or province; they ask about language only in Wales from 1891 and also in the Isle of Man from 1901; and from 1911 they record the nationality of anyone born overseas [S16]. For an immigrant family settled in England or Wales, find a sibling, child or other relative who went on to the United States. The 1910 US census added mother tongue to its birthplace columns, and the 1920 census asked the mother tongue of each person born abroad and of each parent born abroad [S42], [S43], [S56]. One researcher learned which language an Irish migrant family had spoken from the US census and death records of the relatives of DNA matches [S44]. Read those returns with [U.S. census workflows](us-census-practical-workflows.md).
+
 ## Check birthplaces against the image
 
 If a transcription gives only a county as the birthplace, open the image. A presenter found the parish written on the original 1851 return, and says county-only transcriptions of birthplaces are common for English censuses [S4]. Record the transcribed value and your reading of the image as separate fields. This does not apply to 1841: its image has no parish to find, only the in-county answer described above, so a county-only 1841 value is not a transcription error.
+
+From 1851 the column asks for the parish as well as the county for anyone born in England or Wales [S16]. Where it names one parish of a town that had many, use it to choose the register to search. A child's birthplace of "Norwich St Martin at Oak" points to that parish's baptisms, not to the whole of Norwich, which had dozens of parish churches [S45]. Browse that register, indexed or not, for the child's baptism and the siblings' [S45]. Record each baptism's date and any abode it states as a dated observation. Label a period of residence drawn from them as an inference, because a child could be baptised late or in a parish the family had already left. If nothing is there, search the neighbouring parishes before treating the birthplace as wrong.
+
+## Match an address by its neighbours, not its number
+
+A different house number in a later census does not show that the family moved. Towns renumbered streets, sometimes every property at once, and renamed them, so match a household by its neighbours, occupations and members rather than by its number [S47]. If several neighbouring families who stayed put all reappear at new numbers in the same order, as numbers 42, 44 and 46 becoming 58, 60 and 62, the street was renumbered [S51]. Electoral registers, produced annually since 1832 with a few exceptions, can date the change [S48], [S51]. Where a town's registers are arranged by street, as Bury's are from 1879, read them year by year [S49]. They list only voters, and the property through which a person qualified to vote is not always the home [S48].
+
+Match a court dwelling by the court as well as the house. A court could be renamed: in Birmingham, the court built in 1802 by a silversmith was first called Willmore's Court, after him, and later Court 14 Inge Street [S46]. A court named for its builder in one record and a street-and-number court in another can be the same place; settle it by the neighbours, as above. A post on the Birmingham back-to-backs prompted this check [S50].
 
 ## Read the 1939 Register as a registration list, not a census
 
@@ -72,8 +113,8 @@ If a transcription gives only a county as the birthplace, open the image. A pres
 - **What the image is.** It is the master list the enumerator copied from numbered household schedules. Each person's sub-number matches their line on the schedule [S1]. A presenter reports that nobody knows what happened to the schedules and that they were probably destroyed after copying [S1]. Cite the schedule number and sub-number.
 - **Place.** The address shows where the person was on registration day, not a permanent home. Seasonal and migrant workers, evacuees and visitors may appear away from home [S11]. The Register gives no birthplace [S3]. Never record the 1939 address as a birthplace.
 - **Relationships.** None are recorded. People listed together can include visiting nieces, nephews and others [S11]. Do not file them as a family without other evidence. Institutions use a column of codes for officer, visitor, servant, patient or inmate [S1].
-- **Birth dates.** The Register gives exact birth dates [S1], [S2], [S3]. Use one to find a matching civil birth registration. Then check the date and place on that registration's image before taking a birthplace or parents from it [S3].
-- **Later annotations.** A crossed-out surname with another written above it, or a date in the margin, was added after 1939. The Register was updated for National Registration until 1952, and by the National Health Service (NHS), including deaths, from 1948 to 1991 [S1]. Record each annotation as a dated update event. A changed surname is a lead for a marriage search in the same district. The new surname is also a lead for a later death search matched on the exact birth date [S1], [S2]. **Do not record the margin date as the marriage date.** A presenter cites a user whose marriage registration date did not match the annotation date, and treats the annotation as the date of the update [S1]. Another presenter first calls it a likely marriage date, then only a potential one to be checked against the marriage record [S11]. The same presenter shows a changed surname on an entry whose marital status still reads single [S11]. The status is the 29 September 1939 answer and the surname a later update; do not read the pair as a conflict.
+- **Birth dates.** The Register gives each person's full date of birth [S1], [S2], [S3], as the household stated it. A blogger who uses it in place of certificates finds the year often one out [S23], and the day can be wrong too. One guide warns that some men of conscription age gave a false birth year [S22], and in another researcher's family, twins entered by different enumerators appear a month apart [S21]. Use the date to find a matching civil birth registration, searching a year either side and not only the stated day. Then check the date and place on that registration's image before taking a birthplace or parents from it [S3].
+- **Later annotations.** A crossed-out surname with another written above it, or a date in the margin, was added after 1939. The Register was updated for National Registration until 1952, and by the National Health Service (NHS), including deaths, from 1948 to 1991 [S1]. Record each annotation as a dated update event. A changed surname is a lead for a marriage search in the same district. The new surname is also a lead for a later death search matched on the stated birth date [S1], [S2]. **Do not record the margin date as the marriage date.** A presenter cites a user whose marriage registration date did not match the annotation date, and treats the annotation as the date of the update [S1]. Another presenter first calls it a likely marriage date, then only a potential one to be checked against the marriage record [S11]. The same presenter shows a changed surname on an entry whose marital status still reads single [S11]. The status is the 29 September 1939 answer and the surname a later update; do not read the pair as a conflict.
 - **Closed entries.** A black bar reading "This record is officially closed" marks a person whose details are withheld. It is not an empty line or a missing household member. Entries for people born less than 100 years ago stay closed unless proof of death is supplied, and Findmypast accepts requests to open them [S1], [S11]. Log the closure as an access gap. Check again later, because closures lift once the 100 years pass or a death is evidenced.
 
 ## Check what the year covers before reading an absence
@@ -82,6 +123,16 @@ If a transcription gives only a county as the birthplace, open the image. A pres
 - **Ireland and Northern Ireland, 1921.** No census was taken in Ireland in 1921, including the area that became Northern Ireland. Ireland is outside the England and Wales returns in any case. If someone was resident there in 1921, their absence from the England and Wales census is a coverage gap, not a failed search.
 - **1931 and 1941.** The 1931 England and Wales returns were destroyed by fire in 1942, and no census was taken in 1941 [S8], [S11]. A gap for those years is a record gap, not a failed search. Use the 1939 Register for the period between [S11].
 - **Merchant mariners at sea and other coverage limits.** The cited presentations cover vessels in port [S12], [S13] but do not establish coverage of mariners at sea. Check TNA coverage notes before reading an absence for a seafarer.
+
+**What the series does cover.** The England and Wales returns also include the Channel Islands and the Isle of Man; vessels in English and Welsh ports and inland waterways from 1861; the British Army overseas in 1911 and 1921; and RAF bases overseas in 1921 [S16], [S25]. TNA's coverage notes answer the seafarer question: from 1861 the series includes Royal Navy and merchant ships at sea and in ports at home and abroad. In 1861 all the ship returns are at the end of the series; after that, ships in home ports are at the end of the district where they were moored, and only ships in foreign waters are at the end of the series. The shipping returns are likely to be incomplete, and none survive for Royal Navy ships in foreign waters in 1891 [S16]. Before reading an absence for an islander, a soldier or airman overseas, or a sailor or fisherman away overnight, search those parts of the series [S32]. Also read the home schedule: in 1891, for one, it was to list people out at work overnight who returned the next day and were not returned elsewhere [S38]. A miss in the shipping returns still does not show that a seafarer was ashore.
+
+All the censuses from 1841 to 1921 are on Ancestry and Findmypast, free to search and paid to view. They are free to view on site at The National Archives in Kew, and the 1921 census also through Findmypast at Manchester Central Library and the National Library of Wales [S16 @2026-11-14].
+
+**Privacy gate:** <!-- privacy-gate: request --> An inquiry to a county record office about a surviving listing names the parish and the family you are researching; answer the privacy gate in `SKILL.md` before you send it.
+
+**Before 1841.** The 1801, 1811, 1821 and 1831 censuses were counts: lists of names were not collected centrally, though some survive in local record offices [S16]. Do not assume that no earlier census names anyone [S55]. Look the parish up in Richard Wall, Matthew Woollard and Beatrice Moring's guide, *Census schedules and listings, 1801–1831* (University of Essex, 2004, re-published 2012). It is arranged by county and parish and lists nearly 800 surviving English listings, most of them household listings, which often name only the head [S52], [S53], [S55]. Its authors say the guide is incomplete and many listings remain undiscovered [S52], so a parish missing from it is unresolved, not a lost return. Ask that county's record office as well.
+
+Brigham Young University's Early British and Irish Census database is a free, searchable transcription of the surviving returns that name people, at ebic.byu.edu (formerly ebc.byu.edu) [S54 @2026-11-14]. It is still being built, so a miss there does not show that the family was absent: the parish may not be transcribed yet, or its return may not survive [S54 @2026-11-14], [S55 @2026-11-14]. A blogger who searched it in February 2025 found that names must match exactly, so each surname spelling needs its own search; that only the head of household is named; and that searching a county with the other fields blank, then scrolling its parish list, worked best [S55 @2026-11-14]. Record the spellings and parishes searched.
 
 ## Return the observation record
 
