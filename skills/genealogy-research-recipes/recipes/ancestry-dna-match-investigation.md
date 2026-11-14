@@ -200,9 +200,9 @@ Editing a tree leaves DNA matches and cM unchanged; it changes tree-derived path
 
 For ThruLines, matching must be enabled, with family-history membership, two-step verification or Apple/Google sign-in, and a linked public or private searchable tree containing identifying details across at least four generations. ThruLines reaches fifth-great-grandparents. A match appears in ThruLines only when that match also has a linked public or private searchable tree in which a common ancestor can be identified. A missing ThruLine can therefore reflect the match's tree, link or searchability, or an unidentified common ancestor; on its own it does not disprove a relationship. Its parent filter uses biological-parent labels in the tree, rather than DNA By Parent.
 
-**When a match's linked tree stops at their parents or grandparents, build the sibling's line down
-to them.** ThruLines cannot connect a match whose tree never reaches the common ancestor. Do
-descendancy research on the collateral line you expect, such as your ancestor's sibling, and add
+**When ThruLines misses a match whose linked tree stops at their parents or grandparents, build the
+sibling's line down to them.** No tree it searches then joins those people to your ancestor, and
+your own tree can supply that link. Do descendancy research on the collateral line you expect, such as your ancestor's sibling, and add
 it to your own tree, sourced, down to the match's grandparents; once your tree includes them,
 Ancestry can make the connection (My Family Pattern, 2023-09-05 [S13 @2026-11-14]). Southard
 likewise advises adding siblings, aunts, uncles and cousins, not only direct ancestors, because

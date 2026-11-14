@@ -27,7 +27,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `ancestry-dna-match-investigation#C-13a6dcaa85dd` | platform-ui | 2026-11-12 | 2027-05-11 | S7, S8 |
 | `ancestry-dna-match-investigation#C-eb64415fc9d3` | platform-ui | 2026-11-12 | 2027-05-11 | S9, S10 |
 | `ancestry-dna-match-investigation#C-841e3d3386e9` | platform-ui | 2026-11-12 | 2027-05-11 | B46 |
-| `ancestry-dna-match-investigation#C-94d1f4af030a` | platform-ui | 2026-11-14 | 2027-05-13 | S13, S14 |
+| `ancestry-dna-match-investigation#C-b417f772fb21` | platform-ui | 2026-11-14 | 2027-05-13 | S13, S14 |
 | `ancestry-record-search-recovery#C-dab76d812ca4` | platform-ui | 2026-11-12 | 2027-05-11 | S1, S2, S3 |
 | `archival-image-coverage-verification#C-450748dcfdf4` | portal-availability | 2026-11-08 | 2027-02-06 | S47 |
 | `archival-image-coverage-verification#C-3422a9946fec` | platform-ui | 2026-11-12 | 2027-05-11 | S49, S50 |
