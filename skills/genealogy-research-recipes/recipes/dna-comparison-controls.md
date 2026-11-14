@@ -202,20 +202,6 @@ from the derivation or the source data; report the control as unavailable. The
 They give no thresholds, liftover error rate or measured loss, and the symptoms do not identify a
 cause. [H14, H15, H16, H17]
 
-Treat a MyHeritage raw file from whole-genome sequencing as imputed, not as read genotypes.
-MyHeritage sequences at low pass with 2x coverage, each position read twice on average, and
-reconstructs the rest by imputation [H36 @2026-11-14], [H37 @2026-11-14]. New samples have been
-processed this way since January 2026; the raw file's header shows whether a kit was, and a CRAM
-file holds the sequence data [H38 @2026-11-14]. The raw autosomal file is a chip-style file
-generated from that data. At a mean of 2 reads, about 13.5% of positions get no read and 27.1%
-one read, and two reads see the same allele half the time [H40 @2026-11-14]; low depth leaves few
-reads spanning both alleles of a heterozygous site [H41 @2026-11-14]. Before the switch Kessler expected half
-the heterozygous sites to go unseen [H39 @2026-11-14]; his own file then had no no-calls and agreed
-with his earlier chip file at 99.25% of 584,174 shared SNPs, which he could explain only by
-imputation [H40 @2026-11-14]. So many calls, heterozygous ones above all, are inferred: do not use
-single calls from that file for SNP-level phasing, a genotype-conflict check or a health claim, and
-do not read its lack of no-calls as full coverage in the summary check above.
-
 ## Reconcile rows before interpreting totals
 
 Keep the original reports. Identify the pair and interval behind each row before
@@ -237,14 +223,6 @@ Compare totals using the same autosomal/X scope, minimum-segment inclusion and F
 counting convention. A suspiciously doubled total is a reason to inspect reciprocal
 rows, not to apply a universal cM ceiling or divide every result by two. Preserve a
 changed algorithmic measurement separately from any inferred change in relationship.
-
-The same segment can carry different cM at different services, because each converts positions
-to cM with its own genetic map and method; GEDmatch's figures differ from HapMap-based estimates
-that track 23andMe's and MyHeritage's [H43]. In Kessler's 2022 check against one HapMap-based map,
-FamilyTreeDNA's and GEDmatch's segment values had standard deviations of 1.2 to 1.7 cM, about
-±3 cM in 95% of segments, and GEDmatch's differed from the map by 1.1 cM on average [H42]. Do not
-read a gap of a few cM between two services' rows with matching endpoints as different sharing;
-such a gap can also move a segment across a 7 or 15 cM cutoff at one service and not another.
 
 **Privacy gate:** <!-- privacy-gate: export --> A segment-level export holds the DNA match data
 of each match, who may be living; answer the privacy gate in `SKILL.md` before exporting it.

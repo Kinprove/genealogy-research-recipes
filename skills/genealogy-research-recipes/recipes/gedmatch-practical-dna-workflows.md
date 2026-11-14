@@ -241,15 +241,6 @@ chromosome, start, end, cm, snps, comparison_type, status, discrepancy_reason`.
    or `unavailable`. Send the measured intervals to the interpretation recipe before assigning
    an ancestor. [H4]
 
-The match-both tool's two cM thresholds, for the largest segment and for the total, decide which
-people qualify as matches; they do not remove individual segments, and both were described at a
-10 cM default in 2021 and 2022 (Brons, Who Are You Made Of?, last updated 2021-04-20 [S24];
-Kessler, Behold Blog, 2022-11-12 [S25]). Do not lower them to equal a segment-level setting in a
-later tool, such as Double Match Triangulator's 7 and 15 cM segment limits: those apply to
-segments, so the two need not match [S25]. Lowering the largest-segment threshold only admits more
-people whose best segment is small; with endogamy, or a long shared-match list, raise it instead
-[S24], [S25].
-
 When candidates overlapping one region fall into two separate ancestral groups, tabulate exact
 start and end positions from each pair's comparison table rather than from the graphic, and check
 every unordered pair in the set. Record the testing source behind each kit. When kits were
