@@ -104,6 +104,11 @@ GEDmatch policy page, retrieved 2026-11-07:
 - **S22:** Mercedes Brons, Who Are You Made Of?, [How Do Half-Siblings Show Up On Gedmatch?](https://whoareyoumadeof.com/blog/how-do-half-siblings-show-up-on-gedmatch/), last updated 2021-07-02, read 2026-11-12. Used for: green bars as DNA identical on both chromosome copies, yellow as identical on one copy, long green bars between full siblings, and no large fully identical segments between half siblings. GEDmatch's own tool help, read the same day, does not define the colours.
 - **S23:** Leah Larkin, The DNA Geek, [AncestryDNA Is Using FIRs to Distinguish Full and Half Siblings](https://thednageek.com/ancestrydna-is-using-firs-to-distinguish-full-and-half-siblings/), published 2019-02-07, read 2026-11-12. Used for: fully identical regions could then be seen only at 23andMe and GEDmatch.
 
+### Match-both threshold sources
+
+- **S24:** Mercedes Brons, Who Are You Made Of?, [How to Understand People Who Match One-or Both of Two Kits Results](https://whoareyoumadeof.com/blog/how-to-understand-people-who-match-one-or-both-of-two-kits-results/), last updated 2021-04-20, read 2026-11-14. Used for: the largest-segment threshold that a person must reach to qualify as a match, its 10 cM default then, the total threshold, and raising the threshold when many matches are shared. The tool's current defaults were not checked in a live account.
+- **S25:** Louis Kessler, Behold Blog, [Some DMT Dialog, with Questions and Answers](https://www.beholdgenealogy.com/blog/?p=3884), published 2022-11-12, read 2026-11-14. Used for: GEDmatch's 10 cM largest-segment and total settings selecting people rather than filtering segments, Double Match Triangulator's 7 and 15 cM settings applying to segments, and raising rather than lowering the largest-segment setting with endogamy.
+
 ### Platform recheck, 2026-11-12
 
 Rechecked 2026-11-12: the GEDmatch pages behind the recipe's current-state statements were re-read
@@ -138,3 +143,5 @@ and H4 with this date.
 - Roberta Estes, DNAeXplained blog, post cited as S21 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Mercedes Brons, Who Are You Made Of? blog, post cited as S22 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Leah Larkin, The DNA Geek blog, post cited as S23 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Mercedes Brons, Who Are You Made Of? blog, post cited as S24 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Louis Kessler, Behold Blog, post cited as S25 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)

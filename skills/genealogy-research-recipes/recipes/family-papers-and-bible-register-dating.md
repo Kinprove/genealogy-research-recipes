@@ -47,6 +47,8 @@ This recipe covers what these dates, places and hands establish, and how to reco
 5. **Keep a relative's explanation as an attributed account.** Do not assume who made the edits.
 6. **Treat listed people as associate leads, not established kin.** One presenter says you have to work out who is a friend and who is family [S4]. Another says people appear in the book because of some relationship, whether or not they are related [S5].
 
+7. **Read a funeral guest book as a dated list of associates.** For a recent relative, look among the family papers for the book from the visitation or service; relatives may keep a copy with their own papers [S29]. List every signer as someone who attended and so knew the deceased or the family, as a co-worker, neighbour, friend or relative [S29], [S30], and keep any city written beside a name as that signer's residence lead [S29], [S31]. Treat signers as associate leads, not kin. Signers of a recent book may be living: keep their names and residences in private notes (Living people, in `SKILL.md`).
+
 ## Family books and Bible registers
 
 Begin with the book's stable item reference and received provenance from the Family collection intake and capture recipe. Distinguish this object from comparison copies and from transcriptions of it. Inspect every surface that can be viewed safely, including the endpapers and the back of the title page, on the object or on a supplied image; record any surface you cannot view as uninspected.
@@ -81,7 +83,7 @@ In [S11], the family copy's title page carried no date, and the work was first p
   - whether pages, signature and date are present or missing
   - the author, as named on the item or marked unknown
   - any reunited page, with where it was found and the continuity supporting it
-- **For each address book or card list:**
+- **For each address book, card list or funeral guest book:**
   - entry transcriptions with page position and visible layer order
   - each later address or surname flagged as an undated lead
   - cancellations recorded without a reason

@@ -1,7 +1,7 @@
 ---
 id: "criminal-court-prison-record-recovery"
 title: "Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes"
-summary: "From an arrest, prison or census-institution lead, find the court that tried the case and recover U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to court case-file recovery, a federal one to federal court recovery. Its England/Wales and Swedish sections cover only no-fixed-abode leads and Swedish prison, police-gazette and court-copy searches."
+summary: "From an arrest, prison or census-institution lead, find the court that tried the case and recover U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to court case-file recovery, a federal one to federal court recovery. Its England/Wales sections cover no-fixed-abode leads, assize and Old Bailey trials, absconder notices, charge searches and sentence wording; its Swedish sections cover prison, police-gazette and court-copy searches."
 kind: "records"
 scope: {"platforms": [], "tasks": ["Sing Sing name indexes"]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["convict-transportation-record-chain", "court-case-file-recovery", "en
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1105}
+router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1106}
 ---
 
 # Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes
@@ -34,6 +34,7 @@ followed by overseas transportation, use [the convict transportation chain](conv
 - Route the request and log it
 - Inventory surviving series and access rules
 - England and Wales: follow a no-fixed-abode incident beyond a census miss
+- England and Wales: search trial reports, wanted notices and charges
 - Swedish monthly prison rolls: follow the annotations beyond the index
 - Swedish police gazette: follow back-references beyond the register hit list
 - Swedish court books: recover a separately surviving copy
@@ -55,6 +56,8 @@ entering identifying search terms or sending a record request.
 - Imprisonment did not always follow a crime. The presenter's example is imprisonment for debt [S1]. Polygamy/cohabitation prisoners are a different case: the presenter notes they were convicted under the law of the time [S1]. Do not assume the offence category from the institution alone.
 - Do not assume jurisdiction from the offence label either. The same conduct (for example, liquor selling) could be prosecuted under state or federal law. Take the jurisdiction from the court of conviction, not from the type of crime.
 
+A man missing from his family's household in a census is also a trigger: he may have been in prison that year [S22]. Look for him in that census's enumeration of institutions, where the institution's name heads the return; not everyone listed there as an inmate was a prisoner, because orphanages and hospitals also listed inmates [S23]. If he was imprisoned, search the county court records for a divorce filed during or after the sentence [S22]: early in the 20th century, imprisonment was a legal ground for divorce in 39 of the 49 U.S. divorce jurisdictions [S24]. Use [court case-file recovery](court-case-file-recovery.md) for that file.
+
 ## Determine the trying court and its present custodian
 
 - Find out which court actually tried the case before you search local county records. Tanner reports that his ancestor Samuel Linton was arrested for unlawful cohabitation in 1887 and was convicted "not in a Utah court but in the district court". He found those district court records at the National Archives branch in Denver and obtained them by a paid request [S1]. In practice this means the federally appointed territorial district court, which sat in Utah. It does not mean a court outside the territory.
@@ -62,6 +65,10 @@ entering identifying search terms or sending a record request.
 - Learn the procedural stages: arrest, charge or indictment, preliminary actions, trial or plea, sentencing, place of sentence [S1]. The court case file and the prison file are separate records, and each has to be traced on its own [S1].
 - Do not assume the prison was in the home state. A federal prisoner could be held in any federal prison with space [S1]. Alcatraz, for example, held federal inmates convicted across the country.
 - Write one routing row per lead: the court, its jurisdiction level, the evidence for that level, the current custodian of the court records, and the likely custodian of the prison records.
+
+**Read "no bill" beside a charge as the grand jury's refusal to indict.** A grand jury wrote "a true bill" on an indictment it found supported and "not a true bill", or *ignoramus*, on one it did not; that bill was thrown out, and a grand jury could throw out one count or one defendant's bill and find a true bill on another [S28]. A history of the Irish grand juries counts the "no bill" findings in an 1811 County Monaghan grand jury book as acquittals [S29], but no trial jury gave a verdict. Do not look for a trial on that bill, and do not record an acquittal at trial or innocence. Check each charge and each co-accused separately. A presenter reading an 1822 Cork prison register attributes one prisoner's "no bill" to witnesses who were afraid to testify [S27]; that is his explanation for that case, not what the term means.
+
+**When the court record gives a death sentence or an execution order but no date it was carried out, search the newspapers after the order.** In a 1787 Delaware case, the session docket recorded the order of execution, and only the newspaper reports gave the date of the hanging [S25]. Take the date from the page image, not the database: that issue was indexed under the wrong date [S25], and a researcher reports issue dates and page numbers in several newspaper databases that differ from the page images [S26]. Read the page header, or the front page of the issue.
 
 ## Route the request and log it
 
@@ -105,6 +112,26 @@ Use this branch for a Victorian person described as having *no fixed abode* or r
 When the charge was too serious for quarter sessions, look for the trial at the assizes [S19 @2026-11-12]. The National Archives files assize records by circuit, each with its own ASSI series, from 1559 for England and from 1831 for Wales; take the county's series from its guide's county appendix for the trial year, not from a fixed circuit list, because the six circuits of the period up to 1876 were later regrouped [S20 @2026-11-12]. Cheshire joined the assizes only in 1830, and Durham and Lancashire in 1876: search their earlier trials in the palatinate court records, and Welsh trials of 1543–1830 in the National Library of Wales's Crime and Punishment database [S20 @2026-11-12]. Start with the crown and gaol books for the charge, plea, verdict and sentence. Expect depositions to survive mainly for capital cases such as murder and riot, and expect to use the originals at Kew or order copies, because the assize records are not online [S20 @2026-11-12]. Look for London and Middlesex trials at the Old Bailey instead: from 1834, as the Central Criminal Court, its records are in TNA's CRIM series, and the earlier London and Middlesex sessions records are at the London Archives [S21 @2026-11-12]. An entry in Ancestry's criminal registers gives the court and trial date to follow; it is not the assize record (see [the convict transportation chain](convict-transportation-record-chain.md)).
 
 **Return:** one incident-to-record chain, retaining each source's date, descriptors, procedural stage, selected custodian/series, retrieved locator and result. Compare those fields before linking appearances, preserve conflicting namesakes, and quote punitive labels as the record's descriptions. Report missing or uninspected series explicitly; neither an institutional record nor its absence supplies a complete account of the person's life.
+
+## England and Wales: search trial reports, wanted notices and charges
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool, request --> A name search on a trial-report,
+newspaper or catalogue site, or a request to open a closed file, sends the person's name and the
+alleged offence to that service or archive, and a 20th-century defendant, victim, witness or
+relative may still be living. Answer the privacy gate in `SKILL.md` before entering a name or
+sending the request.
+
+For a trial at the Old Bailey up to 1913, search the Old Bailey Proceedings Online by the names of victims and witnesses as well as defendants. It is a full-text edition of the published accounts of trials at London's central criminal court from 1674 to 1913, with names, occupations, places and dates tagged [S34 @2026-11-14]. An entry for a victim can give an address and a father's name and occupation [S30 @2026-11-14]. The accounts are not verbatim transcripts: before the 1720s they hold little testimony, until the early 19th century they leave some testimony out, and the 19th-century accounts, though fuller, omit sexual details, particularly in rape and sodomy trials [S34 @2026-11-14]. Cite a quoted statement as the published account's wording, not as a transcript of what the witness said.
+
+Search newspapers for notices about men who absconded. The *Poor Law Unions' Gazette* advertised men who had left their families chargeable to the poor-law union, with a reward for information, and its notices describe a man more fully than most records: height, complexion, hair, eyes, marks and tattoos, his work and where he was believed to be [S35]. One man was advertised in it at least 60 times between 1858 and 1863 [S35]. An 1867 absconder notice of this kind also described the young woman and the child who went with him [S30]. Use the description and the companions to tell the man from namesakes.
+
+Also search the *Illustrated Police News*, a weekly of sensational crime reports and pictures published from 1864 to 1938 [S36]. A 2015 Findmypast article and the 2023 post both used it in Findmypast's newspapers [S30], [S37]. Treat its reports as sensational journalism, and confirm each fact in the court record.
+
+To find a prosecution of a man for sex with another man, search The National Archives' Discovery catalogue by the period's charge words, adding a name, county or court. TNA lists among them sodomy, buggery, gross indecency, indecency, importuning, soliciting, unnatural act and unnatural offences [S39 @2026-11-14]. Quarter sessions records are held in local archives: search "quarter sessions" with the county and choose the "Other archives" filter [S40 @2026-11-14]. Expect the records to concern men: female homosexuality was never explicitly criminalised, so lesbian relationships are generally absent from criminal records [S39 @2026-11-14]. Many 20th-century criminal records at TNA are still closed under the Data Protection Act; you can ask for a Freedom of Information review of a closed record [S39 @2026-11-14].
+
+Read such a record as a record of a charge. An indictment names the accused and the offence, and depositions record the evidence; trial transcripts are very rare [S39]. A charge does not establish a relationship between men accused together, or either man's sexual orientation: a Kent quarter sessions certificate against two men for lewd behaviour leaves their relationship uncertain [S38]. Treat the record as a sensitive finding. Keep a possibly living person's name and charge in the user's private research notes, and never publish or share them (privacy gate and Living people, in `SKILL.md`).
+
+**Read "detained during His Majesty's pleasure" as an indefinite term.** The sentence sets no release date; under a queen, such as Victoria, the wording is "Her Majesty's pleasure" [S31 @2026-11-14]. Under the Criminal Lunatics Act 1800, a person found insane at the time of the offence was kept in custody "until His Majesty's pleasure shall be known" [S32 @2026-11-14]; today the sentence is used most often for juveniles, such as a person under 18 convicted of murder [S31 @2026-11-14]. For a person held as insane, look for the asylum rather than a prison release: TNA's guide points to HO 20 (1820–1843), HO 8 (1862–1875), HO 144 (1869–1941) and HO 145 (1882–1921) for criminals confined at Broadmoor and Bethlem after being certified insane at court or after imprisonment [S33 @2026-11-14].
 
 ## Swedish monthly prison rolls: follow the annotations beyond the index
 

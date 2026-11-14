@@ -420,6 +420,16 @@ focal overlap, obtain its direct pair segment comparison through an authorized d
 and check the interval. A count of one segment does not replace that check. Without it, record
 `mutual interval unverified` and retain the group as a lead. [S9, H6]
 
+When the third person is a relative whose kit you manage or are authorized to open, take the
+missing pairing from that kit. In the focal kit's Chromosome Browser compare the focal kit with the
+relative and with the match; then open the relative's kit and compare the relative with the focal
+kit and with the match. An interval present in all three pairings is triangulated, as in Kessler's
+uncle-and-match comparison of segments of 6 cM or more (Behold Blog, 2022-01-10 [S47]). The focal
+browser alone cannot supply that pairing: it shows whether people match you on the same segment, not
+whether they match each other (Estes, DNAeXplained, 2019-11-06 [S48]). Record each pairing's
+coordinates with the kit it was read from. A triangulated interval still needs the segment and
+ancestor checks in `xdna-phasing-judgment.md`.
+
 **Artifact:** one row per selected pair and metric: focal kit handle, retrieval time, roster,
 row/column handles, displayed metric label/value, focal-interval reference, direct-pair reference
 and interval status. **Stop when** the selected roster and displayed values or unavailable states

@@ -89,7 +89,7 @@ the historical control sequence and example probabilities are not carried forwar
 
 - Mohler, Melanie. "Finding 3XGG with DNA: Splitting Genetic Networks." Your DNA Guide, 2023-06-19. [Article](https://www.yourdnaguide.com/ydgblog/finding-3xgg-with-dna) (method 4; a couple-labelled group compared with a second group anchored through one spouse's line, with the remaining members as a research queue). The remainder is not taken as proof of descent from the other spouse.
 
-- Mohler, Melanie. "Half-Siblings On Your Family Tree? Try This DNA Strategy." Your DNA Guide, 2023-01-23. [Article](https://www.yourdnaguide.com/ydgblog/half-siblings) (method 4; a documented descendant through an ancestor's other partner used to focus the anchor question). It does not remove a spouse's DNA or rule out additional paths and incomplete visibility.
+- Mohler, Melanie. "Half-Siblings On Your Family Tree? Try This DNA Strategy." Your DNA Guide, 2023-01-23. [Article](https://www.yourdnaguide.com/ydgblog/half-siblings) (method 4; a documented descendant through an ancestor's other partner used to focus the anchor question). It does not remove a spouse's DNA or rule out additional paths and incomplete visibility. Read 2026-11-14 for a half-sibling's descendants not carrying the other spouse's DNA.
 
 - Genealem. "AncestryDNA's Coming Changes and What You Can Do - Especially if you have MedBetter." Genealem's Genetic Genealogy, 2020-07-26. [Article](https://genealem-geneticgenealogy.blogspot.com/2020/07/greetings-this-email-is-only-for-those.html) (method 7; a 2020 rendering example involving a browser extension, motivating comparison of the same account, kit and filters in an unmodified view). It does not establish a current extension defect or require an extension change.
 
@@ -115,6 +115,12 @@ live Ancestry account was used.
 - **S9:** Randy Seaver, Genea-Musings, [My AncestryDNA Clusters Are Limited At This Time](https://www.geneamusings.com/2025/07/my-ancestrydna-clusters-are-limited-at.html), published 2025-07-12, read 2026-11-12. Used for: its quotation of Ancestry's 1 July 2025 announcement that the grid is not shown above 100 clustered matches.
 - **S10:** Roberta Estes, DNAeXplained, [How to Use Ancestry's New Match Clusters and What They Mean](https://dna-explained.com/2025/07/10/how-to-use-ancestrys-new-match-clusters-and-what-they-mean/), published 2025-07-10, read 2026-11-12. The same post as the 2025 example above, numbered here for these additions. Used for: the chart-view message, the Maternal and Paternal views, and matches in both grandparents' clusters.
 - **S11:** Dana Leeds, [DNA Color Clustering: The Leeds Method for Easily Visualizing Matches](https://www.danaleeds.com/dna-color-clustering-the-leeds-method-for-easily-visualizing-matches/), published 2018-08-23, read 2026-11-12. Used for: cluster overlap from pedigree collapse, and a match sharing two grandparents merging clusters (the author's comment of 2018-08-28).
+
+### Sources for the 2026-11-14 additions
+
+- **S12:** My Family Pattern, YouTube, [DNA Laddering: Quickly Identify Unknown Matches](https://www.youtube.com/watch?v=MrMj-g0Mv4A), published 2026-01-01, read 2026-11-14 (transcript in a captured copy; the video page was checked the same day). Used for: pairing a tester descended through an ancestor's first wife with a match through another wife, so that their shared matches should relate to his line.
+- **S13:** My Family Pattern, YouTube, [EGGOS Search Strategy for DNA Matches](https://www.youtube.com/watch?v=DK7r5BqplEs), published 2023-09-05, read 2026-11-14 (transcript in a captured copy; the video page was checked the same day). Used for: ThruLines missing a match whose tree stops at their parents or grandparents, descendancy building down to the match's grandparents letting Ancestry make the connection, and nothing helping a match with no linked tree.
+- **S14:** Diahan Southard, Your DNA Guide, [Use Ancestry ThruLines To Place DNA Matches on Your Tree](https://www.yourdnaguide.com/ydgblog/ancestry-thrulines), published 2019-05-09, last updated 2025-01-13, read 2026-11-14. Used for: adding siblings, aunts, uncles and cousins, not only direct ancestors, as possible missing links in ThruLines. Ancestry's own ThruLines help returned HTTP 403 to automated access on 2026-11-14.
 
 ### Platform recheck, 2026-11-12
 
@@ -159,4 +165,5 @@ list. No source was unreadable and no live account was used.
 - Louis Kessler, Behold Blog, Ancestry's Timber Algorithm is Better Than You Think, 2020-10-29, cited as S5 — All rights reserved; short attributed facts (adapted)
 - Randy Seaver, Genea-Musings, My AncestryDNA Clusters Are Limited At This Time, 2025-07-12, cited as S9 — All rights reserved; short attributed facts (adapted)
 - Dana Leeds, DNA Color Clustering: The Leeds Method for Easily Visualizing Matches, 2018-08-23, cited as S11 — All rights reserved; short attributed adaptation (adapted)
+- My Family Pattern, YouTube videos DNA Laddering (2026-01-01) and EGGOS Search Strategy for DNA Matches (2023-09-05), cited as S12 and S13 — All rights reserved; short attributed adaptation (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
