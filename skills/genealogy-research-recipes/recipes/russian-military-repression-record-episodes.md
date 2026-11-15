@@ -86,9 +86,8 @@ six regiments, so read the volumes for the class and number range. [H121 @2026-1
 For a woman who may have nursed in WWI, read the Russian Red Cross Society's printed list of sisters
 of mercy assigned to Red Cross, military, public and private hospitals (Petrograd, 1915; 924 pages),
 compiled from the Main Directorate's records as of 1 August 1915 and open in the Russian State
-Library's digital library. [H123 @2026-11-15] The Dzen guide says it can be searched by guberniya;
-the catalogue record does not show how it is arranged. [H122 @2026-11-15] A nurse first assigned
-after 1 August 1915 cannot be in it, so a miss says nothing about later service.
+Library's digital library. [H123 @2026-11-15] A nurse first assigned after 1 August 1915 cannot
+be in it, so a miss says nothing about later service.
 
 OBD Memorial returns only records that meet the condition in every filled field, so changing one
 name part at a time misses a card with two variant parts. Test chosen combinations instead, for

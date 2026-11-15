@@ -194,12 +194,12 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `russian-empire-emigrant-origin-recovery#C-3d063c133473` | portal-availability | 2026-11-12 | 2027-02-10 | H23, S21, H24, H25, S22 |
 | `russian-empire-emigrant-origin-recovery#C-7a40c2fd976d` | platform-ui | 2026-11-12 | 2027-05-11 | H19, S20 |
 | `russian-empire-emigrant-origin-recovery#C-8bd82d6d5ef3` | custody | 2026-11-13 | 2027-05-12 | H26, H27 |
-| `russian-empire-jewish-identity-attribution#C-7ee04a5b406c` | custody | 2026-11-15 | 2027-05-14 | N31, N32 |
+| `russian-empire-jewish-identity-attribution#C-fc7c7f46ee6d` | custody | 2026-11-15 | 2027-05-14 | N31, N32 |
 | `russian-empire-jewish-metrical-book-recovery#C-0b3e21e03a4d` | custody | 2026-11-15 | 2027-05-14 | S12, S13 |
 | `russian-estate-registration-status#C-3d60525002f7` | custody | 2026-11-08 | 2027-05-07 | S17, S18, S19, S20 |
 | `russian-imperial-service-record-recovery#C-146ada6807c9` | custody | 2026-11-13 | 2027-05-12 | S22 |
 | `russian-military-repression-record-episodes#C-6bef8ed3bcb2` | portal-availability | 2026-11-15 | 2027-02-13 | H122, H119, H120, H121 |
-| `russian-military-repression-record-episodes#C-f7a43480711e` | portal-availability | 2026-11-15 | 2027-02-13 | H123, H122 |
+| `russian-military-repression-record-episodes#C-0ea04b35c749` | portal-availability | 2026-11-15 | 2027-02-13 | H123 |
 | `russian-military-repression-record-episodes#C-6cab37e3dd35` | portal-availability | 2026-11-08 | 2027-02-06 | H59, H60 |
 | `russian-military-repression-record-episodes#C-b8f8811e7647` | portal-availability | 2026-11-08 | 2027-02-06 | H61, H62 |
 | `russian-military-repression-record-episodes#C-1ac88db060b9` | custody | 2026-11-08 | 2027-05-07 | H63, H64, H66 |
@@ -241,7 +241,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `soviet-personal-file-recovery#C-b034a9870f60` | custody | 2026-11-13 | 2027-05-12 | S43 |
 | `soviet-personal-file-recovery#C-9c307fa9ce4f` | custody | 2026-11-13 | 2027-05-12 | S44 |
 | `soviet-personal-file-recovery#C-93c670c88c2d` | portal-availability | 2026-11-13 | 2027-02-11 | S45, S46, S47 |
-| `soviet-personal-file-recovery#C-2ecda95d5dbb` | portal-availability | 2026-11-15 | 2027-02-13 | S53, S54, S55 |
+| `soviet-personal-file-recovery#C-5684578b1e62` | portal-availability | 2026-11-15 | 2027-02-13 | S53, S54, S55 |
 | `spanish-civil-parish-record-routing#C-1029b281099e` | custody | 2026-11-13 | 2027-05-12 | S42, S6, S43 |
 | `spanish-civil-parish-record-routing#C-9dcb8e2a78ba` | portal-availability | 2026-11-13 | 2027-02-11 | S15, S17, S41, S16 |
 | `spanish-civil-parish-record-routing#C-1f2b74861936` | custody | 2026-11-13 | 2027-05-12 | S18, S19, S20, S21 |
