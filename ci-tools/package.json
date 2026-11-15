@@ -5,9 +5,9 @@
     "node": ">=24.16.0 <25 || >=26.1.0"
   },
   "devDependencies": {
-    "@anthropic-ai/claude-code": "2.1.319",
+    "@anthropic-ai/claude-code": "2.1.322",
     "clawhub": "0.25.1",
     "markdownlint-cli2": "0.24.0",
-    "openclaw": "2026.11.2"
+    "openclaw": "2026.11.3"
   }
 }
