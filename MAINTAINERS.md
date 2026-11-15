@@ -137,7 +137,8 @@ python3 -B -m unittest discover -s tests -p 'test_*.py'
 Only the marked regions in `SKILL.md` and `README.md` are generated. Edit shared
 instructions outside them directly. Do not hand-edit generated entries or the
 capability table. Tests reject a dangling recipe, duplicate rule ID, missing
-privacy declaration, expired platform check or generated-output drift.
+privacy declaration, expired platform check, generated-output drift or a recipe
+missing from the handwritten `## Recipes` list in `README.md`.
 
 The Markdown CI job also checks relative links in every tracked Markdown file,
 including heading fragments, images and reference links. Run it locally with:
@@ -155,7 +156,8 @@ live in the private `tests/markdown-links` package; installed plugins and the
 release version script do not need them.
 
 For a **new** recipe, prepare its reviewed body and a complete header object
-as JSON, plus its source sidecar and any privacy-inventory entries, then use:
+as JSON, plus its source sidecar, any privacy-inventory entries and a link in
+one group of the `README.md` `## Recipes` list, then use:
 
 ```sh
 python3 scripts/recipe_catalog.py --export-body /path/to/reviewed-body.md --metadata /path/to/header.json

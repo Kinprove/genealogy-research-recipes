@@ -297,6 +297,14 @@ def replace_region(text, start, end, content):
     return before + content + after
 
 
+def readme_recipe_list(text):
+    """Recipe ids linked from README.md's handwritten "## Recipes" list."""
+    require(text.count("\n## Recipes\n") == 1, "README.md: expected one ## Recipes section")
+    section = text.split("\n## Recipes\n", 1)[1].split("\n## ", 1)[0]
+    prefix = re.escape(f"]({SKILL_PATH.as_posix()}/recipes/")
+    return set(re.findall(prefix + r"([^)/]+)\.md\)", section))
+
+
 def generated_files(root, catalog):
     skill_file = root / SKILL_PATH / "SKILL.md"
     text = skill_file.read_text(encoding="utf-8")
@@ -308,8 +316,10 @@ def generated_files(root, catalog):
         require(target in ids, f"SKILL.md: missing recipe {target}")
     yield skill_file, rendered
     readme = root / "README.md"
-    yield readme, replace_region(readme.read_text(encoding="utf-8"), TABLE_START, TABLE_END,
-                                render_capabilities(catalog))
+    text = readme.read_text(encoding="utf-8")
+    missing = sorted(ids - readme_recipe_list(text))
+    require(not missing, "README.md: add to a ## Recipes group: " + ", ".join(missing))
+    yield readme, replace_region(text, TABLE_START, TABLE_END, render_capabilities(catalog))
 
 
 def main(argv=None):
