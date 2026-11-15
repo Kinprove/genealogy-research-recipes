@@ -245,9 +245,7 @@ def load_catalog(root=None, today=None, replacement=None):
 
 def render_router(catalog):
     """One line per recipe, grouped by topic; tasks and guardrails stay in the recipe."""
-    lines = [ROUTER_START, "## Recipes", "",
-             "Generated from the recipe headers: one line per recipe, grouped by topic. Read the",
-             "selected recipe before advising."]
+    lines = [ROUTER_START, "## Recipes"]
     group = None
     pointer = False
     for m, _ in catalog:

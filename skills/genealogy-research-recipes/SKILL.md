@@ -197,9 +197,6 @@ shared with others. Refer to them by role, for example "a witness".
 <!-- recipe-catalog:start -->
 ## Recipes
 
-Generated from the recipe headers: one line per recipe, grouped by topic. Read the
-selected recipe before advising.
-
 ### Evidence
 
 - `recipes/evidence-proof-judgment.md` — Judge identity, conflicting records, indirect or negative evidence and DNA-plus-document proof before stating any genealogical conclusion.
