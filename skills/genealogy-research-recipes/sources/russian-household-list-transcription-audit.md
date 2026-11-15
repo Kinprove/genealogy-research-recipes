@@ -21,7 +21,7 @@
 - **S19:** BYU Script Tutorial, [Russian: Revision Lists](https://script.byu.edu/russian-handwriting/documents/record-types/revision-lists), opened 2026-11-10. Used for: relationships to the head and/or other members, and the male and female halves of the tenth-revision form.
 - **S20:** В. И. Даль, «Толковый словарь живого великорусского языка», entry [ЗЯТЬ](https://gufo.me/dict/dal/%D0%B7%D1%8F%D1%82%D1%8C) as reproduced by gufo.me, opened 2026-11-10. Used for: the three meanings of зять.
 - **S21:** В. И. Даль, «Толковый словарь живого великорусского языка», entry [ПРИИМАТЬ](https://gufo.me/dict/dal/%D0%BF%D1%80%D0%B8%D0%B8%D0%BC%D0%B0%D1%82%D1%8C) as reproduced by gufo.me, opened 2026-11-10. Used for: the two senses of приемыш.
-- **S22:** Wikipedia, [«Русская фамилия»](https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F), opened 2026-11-10. Used for: peasants entered in the revisions without a surname, and the son named from his father.
+- **S22:** Wikipedia, [«Русская фамилия»](https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F), opened 2026-11-10 and opened again on 2026-11-15 for the narrowed sentence in step 4. Used for: a peasant household listed under its head's given name and patronymic in the revisions, and the son named from his father.
 - **S23:** Wikipedia, [«Русское имя»](https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F), opened 2026-11-10. Used for: forms such as Григорьев and Иванов in older entries that are not yet surnames.
 - **S24:** Wikipedia, [«Исповедные ведомости»](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D1%81%D1%82%D0%B8), opened 2026-11-10. This title is a redirect to the S13 article «Исповедная роспись», as the Wikipedia API reported on 2026-11-12, so S24 and S13 are one source, not two. Used for: the marks был and была, and a bracket over a group marked были.
 - **S25:** Н. Торопцева, [«Серия ревизских сказок по Старому Кряжиму за 1763 год разных помещиков»](https://toropceva.com/seriya-revizskih-skazok-po-staromu-kryazhimu-za-1763-god-raznyh-pomeshhikov.html), 18 February 2023, opened 2026-11-10. Used for: a transfer note naming the owner's other estate.
@@ -33,6 +33,14 @@
 - **S31:** BYU Script Tutorial, [Revision List – Radyvyliv, Ukraine – 1858](https://script.byu.edu/russian-handwriting/transcription/revision-list/radyvyliv-ukraine/1858), opened 2026-11-10. Used for: the scribe's own wrong male count.
 - **S32:** Anthropic, Claude Platform documentation, [Vision](https://platform.claude.com/docs/en/build-with-claude/vision), opened 2026-11-10. Used for: large images scaled down with the aspect ratio kept, and resizing that can make text less legible.
 - **S33:** Н. Иванова, [«Ревизская сказка 09.05.1858 года Уржумского уезда Кизерской волости ГАКО Ф. 176 Оп.2 Д.1851»](https://rodnaya-vyatka.ru/blog/20278/147546), Родная Вятка, opened 2026-11-10. Used for: ages in months and half-years kept as written in a published transcription.
+
+- **S34:** Александр Деревщиков, [«Как по-разному записывали имена наших предков»](https://dzen.ru/a/ZBs3SzuQCHaK8V0Q), Dzen channel «Поиск предков: Тульская губерния», read 2026-11-15 from a captured copy. Used for: the godfather «Митяй Лукиев» and the candidate church names, and one village's 1850 revision and 1851 confession list giving different forms of the same people's names.
+- **S35:** Wikipedia, [«Дмитрий»](https://ru.wikipedia.org/wiki/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9), opened 2026-11-15. Used for: Митяй among the derived forms of Дмитрий.
+- **S36:** Wikipedia, [«Митрофан»](https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%82%D1%80%D0%BE%D1%84%D0%B0%D0%BD), opened 2026-11-15. Used for: Митя among the derived forms of Митрофан.
+- **S37:** Александр Деревщиков, [«Уточняю дату рождения и имена предков св. Варнавы Гефсиманского»](https://dzen.ru/a/Zm1sJuHkalUCV5VO), Dzen channel «Поиск предков: Тульская губерния», read 2026-11-15 from a captured copy. Used for: a son of Меркул written Меркулов in church records rather than Меркурьевич, and the surname Меркуловы.
+- **S38:** Знание.Россия, [«Меркулов»](https://znanierussia.ru/articles/%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D0%BE%D0%B2), opened 2026-11-15. Used for: the surname Меркулов from Меркул, the everyday form of Меркурий.
+
+S34 to S38 were opened or read on 2026-11-15 and checked by matching the passage cited; S34 and S37 are Dzen posts read from captured copies, because Dzen refuses automated fetches. Not verified: the entries behind S34 and S37.
 
 **What is authored and what the sources supply.**
 
@@ -48,7 +56,8 @@ The following were NOT verified: any public report of Максим and Миха�
 
 - National Archives, BYU Script Tutorial, BYU Religious Studies Center, FamilySearch Community and Anthropic pages cited as S1 to S3, S6, S19 and S29 to S32 — Copyright of their publishers; short quotation and paraphrase (adapted)
 - М. Н. Тихомиров and А. В. Муравьев, Н. А. Петровский and В. И. Даль — Published scholarship and dictionaries, paraphrased with short quotation (adapted)
-- Wikipedia articles cited as S4, S13, S22 to S24 — CC BY-SA 4.0; short quotation and paraphrase (adapted)
+- Wikipedia articles cited as S4, S13, S22 to S24, S35 and S36 — CC BY-SA 4.0; short quotation and paraphrase (adapted)
+- Dzen posts by А. Деревщиков and the Знание.Россия entry cited as S34, S37 and S38 — Copyright of their authors; short quotation and paraphrase (adapted)
 - Transcriptions and articles by Н. Торопцева, В. Куковенко, Н. Иванова, Familio and JewishGen KehilaLinks cited as S11, S12, S14 to S18, S25 and S33 — Copyright of their authors; short quotation of record wording (quoted)
 - ВГД and SmolBattle forum posts cited as S10 and S27 — Forum posts, copyright of their authors; short quotation and paraphrase of participants' reports (adapted)
 - Федеральное архивное агентство and ВНИИДАД, publication guidance cited as S28 — Official guidance, paraphrased with short quotation (adapted)
