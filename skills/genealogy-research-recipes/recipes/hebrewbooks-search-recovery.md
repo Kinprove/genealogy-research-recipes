@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["hebrewbooks"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 36}
+router: {"tier": "full", "group": "Jewish and Russian Empire", "order": 40}
 ---
 
 # Recipe: Recovering HebrewBooks search misses

@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "beider-given-name-variants", "evidence-
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 34}
+router: {"tier": "full", "group": "Record sites", "order": 15}
 ---
 
 # Recipe: Recovering historical records with MyHeritage

@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "research-documentation", "russian-empire-e
 checked: "2026-10-21"
 checked_basis: "checked 2026-10-21"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Evidence and documentation", "order": 133}
+router: {"tier": "full", "group": "Evidence", "order": 2}
 ---
 
 # Source citation record

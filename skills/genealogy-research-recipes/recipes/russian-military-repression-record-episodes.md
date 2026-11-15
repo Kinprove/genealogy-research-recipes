@@ -11,7 +11,7 @@ handoff: ["chechen-ingush-1944-deportation-records", "evidence-proof-judgment", 
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 6}
+router: {"tier": "full", "group": "Testimony and record episodes", "order": 43}
 ---
 
 # Recipe: Recover separate military and Soviet-repression record episodes

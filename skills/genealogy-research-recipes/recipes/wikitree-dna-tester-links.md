@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["wikitree", "familytreedna"], "local_script": [], "extensions": [], "data_transfer": ["link"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 17}
+router: {"tier": "full", "group": "Tree connections", "order": 34}
 ---
 
 # WikiTree: Link DNA Tests to the Correct Tester and External Kit

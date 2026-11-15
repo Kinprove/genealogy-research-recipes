@@ -60,8 +60,9 @@ today's date. Do not check for a newer version over the network yourself.
    broad recipe fits. While waiting, give the one question and a brief reason for it;
    save the source list and research workflow for the reply. "Came from Russia" alone
    does not establish a modern country, community or destination record system.
-   For a place in Central or Eastern Europe, choose by the state that held it on the event
-   date and by the family's religion, not by today's border. Start with the
+   For any place, work out which state, and which church or civil office, held it on the
+   event date; today's border does not decide which records were kept. In Central and
+   Eastern Europe, also choose by the family's religion, and start with the
    [Central and Eastern Europe by period state](#central-and-eastern-europe-by-period-state)
    routers. Elsewhere in the Russian Empire, use the
    [Orthodox metrical-book recipe](recipes/russian-orthodox-metrical-book-recovery.md) for
@@ -83,7 +84,10 @@ today's date. Do not check for a newer version over the network yourself.
    explicitly rather than treating an inaccessible additional citation as confirmation.
 3. Apply its "never trust / never delegate" boundaries as **hard constraints on your own output** —
    those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
-   reading a WATO ranking as a verdict, ignoring endogamy).
+   reading a WATO ranking as a verdict, ignoring endogamy). Before you conclude that records
+   name one person or prove a relationship, also apply the
+   [hard rules of the evidence recipe](recipes/evidence-proof-judgment.md#hard-rules--apply-these-before-you-rule-the-load-bearing-directives),
+   even when the matched recipe is a platform or record recipe, or none matched.
 4. If no recipe matches, answer normally — don't force-fit. If a matched recipe is silent
    on the particular question, say what it does not cover and answer normally; do not
    present the uncovered answer as recipe guidance.
@@ -199,22 +203,118 @@ where the header names some beyond the summary. Both tiers require reading the r
 advising. A dated source check is a maintenance reminder, not verification of every claim or
 live control.
 
-- **`recipes/jewish-archival-list-triage.md`** — Finding Jewish genealogical lists behind archival catalogue titles.
-  Select Ukrainian archival cases for named Jewish lists while separating title, geographical and
-  document evidence.
-  *Use for:* false-positive keywords, generic titles, civil-registration fund scope or candidate
-  lists that have been presented as verified contents.
-  *Core guardrail:* A geographical association does not establish either Jewish contents or the
-  identity of a person. Do not present a title match as a verified Jewish list.
+### Evidence
 
-- **`recipes/elib-ukrainian-archive-reference-books.md`** — Recovering and identifying Ukrainian archival guides in ELIB.
-  Retrieve Ukrainian archival guides from ELIB and identify the correct volume, part and fund scope.
-  *Use for:* catalogue-card versus PDF confusion, leading-zero item IDs, keyword misses, similar
-  volume titles or garbled cover-text extraction.
-  *Core guardrail:* Prefer the current card's link over a constructed URL. A constructed route is a
-  retrieval lead until its response is verified as the intended PDF; redirects, error HTML or an
-  access failure leave acquisition unresolved.
-  *Dated source check:* 2026-11-12.
+- **`recipes/evidence-proof-judgment.md`** — Correlating evidence & proving identity — the judgment AI gets wrong.
+  Correlating evidence & proving identity: the judgment an AI gets WRONG when it recites the
+  Genealogical Proof Standard but misapplies it — same-name conflation, conflict- flattening,
+  over-reading a document, negative-evidence errors, DNA/documentary siloing, de-novo fabrication,
+  and sycophancy toward the answer you want. Includes a premise and dependency register for
+  investigating a tentative branch without silently inheriting its assumptions.
+  *Use for:* separating same-named people, resolving conflicting records, weighing indirect vs
+  negative evidence, combining DNA with documents into ONE proof, conditional placements,
+  discriminating hypothesis tests or revising dependent claims — **and** whenever you (the
+  assistant) are about to state a genealogical conclusion.
+  *Core guardrail:* **You rule on identity and proof. The model assembles and drafts — it never
+  concludes.**
+
+- **`recipes/genealogy-standards-audit.md`** — Auditing a genealogy research package against professional standards.
+  Audit a dossier, report, proof draft or documented tree by tracing each claim through examined
+  sources and explained reasoning.
+  *Use for:* citation gaps, search coverage, negative-evidence claims, GPS review, dependent
+  conclusions, or choosing a research report, proof statement, summary or argument.
+  *Core guardrail:* A populated log, polished footnote or completed checklist does not establish the
+  Genealogical Proof Standard (GPS). The researcher owns the final ruling on evidentiary
+  sufficiency.
+
+- **`recipes/source-citation.md`** — Source citation record.
+  Preserve a retrievable source record and connect each citation to the evidence it supports.
+  *Use for:* source citations, repository and item locators, layered citations, shortened references
+  *Core guardrail:* An index entry and an inspected original image have different retrieval paths;
+  record which one you used.
+
+- **`recipes/research-documentation.md`** — Research log and report.
+  Preserve searches, results, document numbers and analysis so an investigation can resume.
+  *Use for:* research logs, research reports, NIL searches, coverage and linked next actions
+  *Core guardrail:* Use `NIL` for a completed search with no hits. Record inaccessible images,
+  interrupted searches and unsearched collections with their actual status.
+
+- **`recipes/agent-research-project.md`** — Running a long genealogy project with an AI agent.
+  Keep an AI agent's genealogy work honest over months: what counts as evidence, how to lay out
+  Markdown research notes, what 'searched', 'saved' and 'done' must mean, how corrections reach
+  every note, and how to delegate and write to a tree safely.
+  *Use for:* running a multi-session genealogy investigation with an AI agent; keeping genealogy
+  research notes in Markdown or Obsidian; delegating genealogy reading to sub-agents; carrying a
+  correction through notes and a tree; research vault; Obsidian genealogy notes; the agent says
+  saved or done; sub-agent genealogy research; long genealogy project; keep research across
+  sessions; correct a claim everywhere; fill empty surname fields in a tree
+  *Core guardrail:* Treat a model-written summary, tag or "key insight" as a pointer. Open the
+  source before writing a claim.
+
+- **`recipes/ai-for-documentary-records.md`** — Using AI reliably in documentary & records genealogy research.
+  Using an AI assistant *reliably* on DOCUMENTARY / records work (NOT DNA): handwriting
+  transcription & translation, AI full-text / OCR finding aids (FamilySearch Full-Text Search),
+  reviewing & correcting AI-indexed records, evaluating AI record hints, and image restoration /
+  colorization / generation & evidentiary trust.
+  *Use for:* any "can AI/ChatGPT/Gemini transcribe or translate this handwriting", "full-text search
+  for unindexed deeds/probate", "correct AI-indexed records", "evaluate an AI record hint",
+  "colorize/restore an old photo".
+  *Core guardrail:* **Every AI output is a hypothesis to verify against the original record, never a
+  fact to file.**
+
+### DNA reasoning
+
+- **`recipes/unknown-parentage-wato.md`** — Work an unknown-parentage case with DNA matches and WATO.
+  Placing an unknown person (an unknown parent, an adoptee's bio-parent, an unplaced ancestor) into
+  a tree using DNA matches + WATO odds.
+  *Use for:* "who is my unknown grandfather/father", adoptee bio-family search, WATO hypothesis
+  scoring, clustering matches to an ancestral couple, tied hypotheses, choosing a discriminating
+  tester, or deciding which observations to withhold from a calculation.
+  *Core guardrail:* WATO assumes single-path descent. Pedigree collapse / endogamy / a match related
+  through two lines silently invalidates the score — the tool has no way to know and will still rank
+  confidently.
+
+- **`recipes/ai-for-dna-research.md`** — Using AI reliably in DNA genealogy research.
+  Using an AI assistant *reliably* on DNA/genealogy work: what to delegate freely, what to never
+  trust, and the prompt patterns that work. Includes endogamous match prioritization, segment
+  attribution, targeted testing of outmarrying branches, and coherent family comparisons across
+  tested ancestors, siblings and descendants. *Also use for:* "how are these two families
+  connected", multiple related focal testers, repeated descent paths, a long segment in a relative
+  that is shorter/absent in a descendant, mixed-origin segment overhangs, fused clusters, validating
+  a match's own pedigree, or inspecting supplied ethnicity-region maps and AncestryDNA Journeys
+  timelines for locality-search leads.
+  *Use for:* any "can AI/ChatGPT/Claude help me with my DNA / tree / citations", **or** whenever you
+  (the assistant) are about to compute or assert something in this domain.
+  *Core guardrail:* Never ask the LLM to compute relationship probabilities from a cM number — it
+  *fabricates* them. Route a *single* cM figure to the **Shared cM Project / DNA Painter's Shared cM
+  Tool** (point cM → the *range* of candidate relationships); if you have a tree plus multiple
+  matches to place, that's **WATO** — a *different* DNA Painter tool that scores hypothesis slots,
+  not a cM→relationship lookup.
+
+- **`recipes/ydna-mtdna-interpretation.md`** — Interpreting Y-DNA and mtDNA — what a haplogroup or STR/sequence match can (and can't) establish.
+  Interpreting Y-DNA and mtDNA results (a haplogroup assignment, a Y-STR genetic-distance match, an
+  mtDNA sequence match): what each can actually establish about a *genealogical-timeframe*
+  relationship, and where confident interpretation crosses into fabrication. The Y-STR/mtDNA
+  complement to `ai-for-dna-research.md` (autosomal cM).
+  *Use for:* "what does my haplogroup / Y-STR match / mtDNA match mean", "how many generations back
+  is genetic distance N", "does this haplogroup contradiction prove a non-paternity event",
+  differing Y labels, measured versus inferred SNP results, choosing a tester to split an unresolved
+  SNP block, TMRCA disagreement with a dated pedigree, or a pair matching on both autosomal DNA and
+  Y-DNA/mtDNA through potentially different ancestral lines.
+  *Core guardrail:* **you do not compute or assign haplogroups, TMRCAs, or NPE verdicts from your
+  own reasoning.** Every such value is a *hypothesis to route to the right tool or corroborate* —
+  never a fact to state.
+
+- **`recipes/xdna-phasing-judgment.md`** — X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong.
+  X-DNA matches and visual/parental phasing: what a segment, an X match, or a phased chromosome map
+  can actually confirm or eliminate, and where confident-sounding analysis is actually fabrication.
+  *Use for:* "is this X-DNA match trustworthy", "what's the minimum X cM threshold", "phase my kit
+  against a parent or siblings", "half-sister or aunt", "does this X match rule out a father",
+  reconstructed-kit quality, artificial homozygosity, or interpreting matches to a synthetic kit.
+  *Core guardrail:* **Ban invented small-segment statistics.** Any false-positive-rate or
+  chance-match number must be attributed to a specific company/study (23andMe 2014, AncestryDNA
+  2020, FTDNA's Family Finder Matching 5.0) — never a smoothed or averaged figure presented as a
+  universal law.
 
 - **`recipes/dna-comparison-controls.md`** — DNA comparison controls across services.
   Reconcile conflicting vendor or native results using exact tests, query controls, local marker
@@ -222,6 +322,8 @@ live control.
   *Use for:* an absent match, raw-file X coverage, PAR/build ambiguity or doubled totals.
   *Core guardrail:* If the expected positive is missing, investigate the query, selection and
   processing before interpreting an empty list.
+
+### Measurement and retrieval controls
 
 - **`recipes/archival-image-coverage-verification.md`** — Verifying archival images, case boundaries and search coverage.
   Verify case boundaries, image order, transcript version and the pages and targets actually
@@ -238,39 +340,158 @@ live control.
   *Core guardrail:* A completed zero-hit query describes that query and scope; it does not exclude a
   person whose record or spelling has not been tested.
 
-- **`recipes/holocaust-testimony-source-interpretation.md`** — Interpret a Holocaust name record through its underlying source.
-  Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement
-  dates.
-  *Use for:* unspecified death circumstances, submitter roles or evacuation conflicts.
-  *Core guardrail:* Recover the information behind a Yad Vashem name result without converting a
-  memorial submission, archival list or evacuation entry into an unsupported death or family
-  conclusion.
+### Record sites
 
-- **`recipes/russian-military-repression-record-episodes.md`** — Recover separate military and Soviet-repression record episodes.
-  Reconcile WWI/WWII and Soviet-repression records as separate dated source episodes.
-  *Use for:* awards versus loss reports, repeated arrests or copied regional entries, GWAR and OBD
-  Memorial queries, Russian-front WWI prisoners of war, WWII Soviet prisoners of war and occupation
-  victims.
-  *Core guardrail:* an award order after a missing report does not, by itself, establish survival
-  between those dates. Obtain an event-specific source before extending a life or death interval.
+- **`recipes/ancestry-record-search-recovery.md`** — Ancestry record-search recovery.
+  Recovering archival records missed by an Ancestry search. Diagnose scope and coverage before
+  relaxing dates, places or names; use collection descriptions, original book indexes, census
+  districts and the holding archive.
+  *Use for:* an attached census disappearing from results, narrow Card Catalog matches,
+  birthplace/residence confusion, conservative wildcard batches, name-free searches, book page
+  versus image numbers, enumeration-district browsing, or index-only records.
+  *Core guardrail:* Keep three observations separate: no indexed candidate; no matching images in
+  the available inventory; and documented absence in the original surviving records.
+  *Dated source check:* 2026-11-12.
 
-- **`recipes/genealogy-standards-audit.md`** — Auditing a genealogy research package against professional standards.
-  Audit a dossier, report, proof draft or documented tree by tracing each claim through examined
-  sources and explained reasoning.
-  *Use for:* citation gaps, search coverage, negative-evidence claims, GPS review, dependent
-  conclusions, or choosing a research report, proof statement, summary or argument.
-  *Core guardrail:* A populated log, polished footnote or completed checklist does not establish the
-  Genealogical Proof Standard (GPS). The researcher owns the final ruling on evidentiary
-  sufficiency.
+- **`recipes/familysearch-practical-record-workflows.md`** — FamilySearch record recovery and Tree maintenance.
+  Nineteen FamilySearch operations: recover Catalog/DGS holdings and image-only records, preserve
+  view-scoped citations, refine Full Text/Simple Search, recover page references hidden in an
+  assertion’s reason, clean up Source Linker attachments and same-name Tree repairs, share research
+  reports with checked visibility and reader access, recover a missing Memory from an independent
+  copy and record a supported relationship without inventing a parent.
+  *Use for:* FamilySearch howtos, Catalog/film/DGS crosswalks, unindexed images, Full Text or Simple
+  Search, Source Linker cleanup, profile repair and Source Box reuse.
+  *Core guardrail:* Confirm candidates from the image and context. A name appearing in text does not
+  establish the candidate's identity.
+  *Dated source check:* 2026-11-12.
 
-- **`recipes/jewish-genealogy-conditional-hypotheses.md`** — Jewish genealogy: conditional naming, town and DNA clues.
-  Apply working hypotheses to Jewish naming, locality and DNA clues while keeping each proposition
-  separate.
-  *Use for:* proposed parentage, name equivalence, namesakes, naming customs, ancestral towns,
-  conditional branches or segment attribution through an endogamous pedigree.
-  *Core guardrail:* A proposed father can select a search town; establishing that father still does
-  not establish the child's birthplace, the intended namesake or the ancestor behind every shared
-  segment.
+- **`recipes/myheritage-historical-record-search.md`** — Recovering historical records with MyHeritage.
+  Recovering MyHeritage historical records hidden by collection coverage, query fields, name
+  variants, languages or OCR.
+  *Use for:* no-result searches, Collection Catalog, relative pivots, historical jurisdictions,
+  newspaper keywords/OldNews or an index that must lead onward to an original record.
+  *Core guardrail:* Preserve the sparse baseline before tightening it. If a tighter query fails,
+  relax one condition at a time and record the reason; changing everything together conceals what
+  excluded the record.
+  *Dated source check:* 2026-11-12.
+
+- **`recipes/newspapers-com-search-recovery.md`** — Newspapers.com: Recover Notices That Name Searches Miss.
+  Recovering newspaper notices when issue coverage, printed names or OCR hide an ancestor on
+  Newspapers.com. Build a title–holding–issue register first, resolve another holding when coverage
+  is insufficient, then search initials, married names, associates, occupations and addresses and
+  verify the original notice.
+  *Use for:* a failed newspaper name search, an unknown maiden name, a missing obituary, immigration
+  or family-reconstruction leads, title changes, incomplete issue coverage, alternate holdings or
+  unreadable OCR.
+  *Core guardrail:* A surname can occur in one item and a travel verb in another on the same page.
+  Confirm the subject and event within the actual item before assigning that event to the searched
+  person.
+  *Dated source check:* 2026-11-12.
+
+- **`recipes/geni-practical-research-workflows.md`** — Practical Geni research workflows.
+  Eight practical Geni workflows: recover name variants, preserve relationship focus, cite facts,
+  choose projects, compare merge candidates, track tree conflicts, create GEDCOM branches and
+  inspect scoped exports.
+  *Use for:* Geni language/alias fields, relationship paths, source documents, public projects or
+  private workspaces, merge requests, unmerge requests, GEDCOM imports and tree reports.
+  *Core guardrail:* Distinguish tree assertions, source-supported statements, pending requests and
+  completed changes. Draft any manager or curator request for my review; do not send it.
+  *Dated source check:* 2026-11-12.
+
+- **`recipes/us-census-practical-workflows.md`** — Practical U.S. census workflows.
+  Ten practical U.S. census procedures: recover households, browse target-year districts, follow
+  1950 revisit sheets, compare pre-1850 age bins, bridge the 1890 gap, extract supplements and
+  family fields, search mortality schedules, follow surname changes, and follow a farm lead into an
+  agricultural schedule.
+  *Use for:* a missing census household, an address without a name hit, sheet 71, tick-mark counts,
+  substitute censuses, sample lines, marriage/children fields, competing child rosters, mortality
+  reporting windows, or formerly enslaved families under different surnames.
+  *Core guardrail:* Preserve the original census locator and keep literal observations separate from
+  calculations and proposed identities.
+
+- **`recipes/usa-immigration-search-recovery.md`** — Recover U.S. immigration and naturalization records.
+  Twelve historical U.S. immigration workflows: reconstruct journeys, test port, airport and border
+  coverage, recover name variants, pair departures with arrivals, read complete manifests,
+  distinguish detention outcomes, interpret dated verification marks, find naturalizations across
+  courts, check historical citizenship rules, locate federal files and recover broken image links.
+  *Use for:* ship and aircraft passenger lists, Canada/Mexico crossing records, naturalization
+  minute books, C-files, A-files and AR-2 records.
+  *Core guardrail:* The recurring mistake is treating a search miss as a missing ancestor when the
+  failure lies in the selected port, date, recorded name, image, citizenship history or custodian.
+
+### DNA sites
+
+- **`recipes/23andme-match-research.md`** — Working with 23andMe DNA: matches, matrices, segments, and preservation.
+  Twelve practical workflows for 23andMe match research, permitted comparisons, numerical matrices
+  and dated preservation.
+  *Use for:* match worksheets, connection permissions, selected-segment painting, parent-side
+  information, ancestry confidence/history, legacy bucketing, reconstructed ancestors, extension
+  exports/groups, manual shared-match charts, or floating research-tree branches.
+  *Core guardrail:* The expensive mistake is assuming that every visible DNA Relative can be
+  compared in every position, every percentage is autosomal-only, and every Download button returns
+  the same kind of evidence.
+  *Dated source check:* 2026-11-12.
+
+- **`recipes/ancestry-dna-match-investigation.md`** — AncestryDNA: eight practical ways to investigate matches.
+  Eight practical AncestryDNA workflows: use a target's closest relatives, build branch anchor
+  tables, search collateral names, organize groups and notes, correct tester links, audit labels and
+  recover missing match rows.
+  *Use for:* AncestryDNA match investigation, Pro Tools Enhanced Shared Matches, colored dots,
+  linked trees, ThruLines, access-dependent gaps or connecting a match to another testing site.
+  *Core guardrail:* Keep three columns: observed cM, dated label with its origin, and sourced
+  pedigree path.
+  *Dated source check:* 2026-11-12.
+
+- **`recipes/ftdna-practical-dna-workflows.md`** — Maintaining FamilyTreeDNA exports and tree links.
+  Eight FTDNA workflows for Matrix observations, paired match/segment exports, duplicate-name joins,
+  MyHeritage tree links, Family Matching and public Y-DNA Group Time Tree, supplied Globetrekker map
+  or two-label comparison packets.
+  *Use for:* Family Finder CSV scope, opaque note handles, selected-match segment files, transferred
+  links that need confirmation, dated parental-bucket inventories, subgroup selections, branch
+  estimates, obscured map nodes, hidden details or authorized project-display checks.
+  *Core guardrail:* A match name is a join key, not a unique person identifier. Matching Bucket and
+  Linked Relationship are values observed at download. Record link changes separately from the
+  retrieval date, keep the export choice and kit with the rows, and refresh match metadata after
+  relinking.
+  *Dated source check:* 2026-11-12.
+
+- **`recipes/gedmatch-practical-dna-workflows.md`** — Working reproducibly with GEDmatch.
+  Eight GEDmatch workflows: establish kit/run baselines, follow shortlist entries into direct
+  comparisons, check three-kit cores, bound locus searches, freeze tag/MKA groups, preserve
+  triangulation, and record parental-phasing or Lazarus input groups and generated-kit roles.
+  *Use for:* GEDmatch One-to-Many, One-to-One, match-both, Segment Search, tag groups, Multiple Kit
+  Analysis, Triangulation, parental phasing or Lazarus reconstruction.
+  *Core guardrail:* A match-list row, a pairwise segment, a shared-match list, a triangulation
+  result and a generated kit answer different questions. Keep their tool, inputs and settings
+  attached to every result.
+  *Dated source check:* 2026-11-12.
+
+- **`recipes/myheritage-dna-match-investigation.md`** — MyHeritage DNA match investigation playbook.
+  Nine practical MyHeritage DNA workflows: select the right kit, preserve theories before
+  reassignment, build filtered shortlists, use labels and notes, capture pair-specific shared-match
+  values, compare triangulation subsets, audit theory connections, recover private-tree leads,
+  contact matches and resume dated packets.
+  *Use for:* MyHeritage DNA match investigation, kit relinking, largest-segment sorting,
+  labels/favorites, Shared DNA Matches, Theory of Family Relativity or an investigation follow-up.
+  *Core guardrail:* Save empty results with their actual query, kit, filters and date. Do not fill
+  an unshown DNA measurement with zero or infer that a person outside the list has no shared DNA.
+  *Dated source check:* 2026-11-12.
+
+- **`recipes/dnapainter-practical-dna-workflows.md`** — Practical DNA Painter maps, matrices and tree worklists.
+  Ten practical DNA Painter workflows: paint measured matches, copy or merge maps of one tester,
+  intersect phased inheritance, calculate provisional missing intervals, combine coordinate spans,
+  plan descendant tests, annotate cluster-derived maps, build direct-ancestor gap worklists, audit
+  numeric pair amounts, and inspect Shared cM histograms and two-value range screens.
+  *Use for:* Paint a new match, map duplication/CSV transfers, Common Segment Generator, Inferred
+  Segments Generator, Distinct Segment Generator, Coverage Estimator, Cluster Auto Painter
+  annotations, ancestral-tree reports, sourced numeric pair matrices, or Shared cM histograms and
+  two-value range screens.
+  *Core guardrail:* A copied segment belongs to its original comparison; an intersection is
+  coordinate geometry; an inferred interval is a deduction; the Coverage Estimator is a
+  pedigree-based estimate. Keep those outputs distinguishable.
+  *Dated source check:* 2026-11-12.
+
+### Record recovery
 
 - **`recipes/burial-evidence-packet.md`** — Build a burial evidence packet from cemetery records.
   Recover a cemetery entry, its photograph or inscription, and the plot and cemetery-record locators
@@ -336,6 +557,8 @@ live control.
   has been inspected. Preserve the complete reference, not just a short number detached from its
   archive and fonds.
 
+### Tree connections
+
 - **`recipes/rootsmagic-tree-reconciliation-workflow.md`** — RootsMagic: Reconcile a Local Tree with Ancestry and FamilySearch.
   Reconcile selected facts and sources between RootsMagic, Ancestry TreeShare and FamilySearch.
   *Use for:* person crosswalks, staged additions/replacements, citation and media transfer,
@@ -353,155 +576,7 @@ live control.
   list or because the external tree link works.
   *Dated source check:* 2026-11-12.
 
-- **`recipes/usa-immigration-search-recovery.md`** — Recover U.S. immigration and naturalization records.
-  Twelve historical U.S. immigration workflows: reconstruct journeys, test port, airport and border
-  coverage, recover name variants, pair departures with arrivals, read complete manifests,
-  distinguish detention outcomes, interpret dated verification marks, find naturalizations across
-  courts, check historical citizenship rules, locate federal files and recover broken image links.
-  *Use for:* ship and aircraft passenger lists, Canada/Mexico crossing records, naturalization
-  minute books, C-files, A-files and AR-2 records.
-  *Core guardrail:* The recurring mistake is treating a search miss as a missing ancestor when the
-  failure lies in the selected port, date, recorded name, image, citizenship history or custodian.
-
-- **`recipes/familysearch-practical-record-workflows.md`** — FamilySearch record recovery and Tree maintenance.
-  Nineteen FamilySearch operations: recover Catalog/DGS holdings and image-only records, preserve
-  view-scoped citations, refine Full Text/Simple Search, recover page references hidden in an
-  assertion’s reason, clean up Source Linker attachments and same-name Tree repairs, share research
-  reports with checked visibility and reader access, recover a missing Memory from an independent
-  copy and record a supported relationship without inventing a parent.
-  *Use for:* FamilySearch howtos, Catalog/film/DGS crosswalks, unindexed images, Full Text or Simple
-  Search, Source Linker cleanup, profile repair and Source Box reuse.
-  *Core guardrail:* Confirm candidates from the image and context. A name appearing in text does not
-  establish the candidate's identity.
-  *Dated source check:* 2026-11-12.
-
-- **`recipes/russian-empire-emigrant-origin-recovery.md`** — Recovering a Russian Empire emigrant's origin locality.
-  Five workflows for tracing an emigrant from destination records to an exact historical locality:
-  reconcile arrival clues, recover failed name searches, extract complete manifests, follow
-  contact/travel networks, and prepare a locality and archive handoff. Principally 1880–1924 U.S.
-  arrivals, including Canadian transit, across confessions.
-  *Use for:* conflicting arrival years, changing names, missing manifest pages, two contact fields,
-  separate family arrivals, residence/birthplace ambiguity or an unresolved origin town.
-  *Core guardrail:* Preserve the wording and field role until the movement and locality evidence
-  resolve them.
-
-- **`recipes/us-census-practical-workflows.md`** — Practical U.S. census workflows.
-  Ten practical U.S. census procedures: recover households, browse target-year districts, follow
-  1950 revisit sheets, compare pre-1850 age bins, bridge the 1890 gap, extract supplements and
-  family fields, search mortality schedules, follow surname changes, and follow a farm lead into an
-  agricultural schedule.
-  *Use for:* a missing census household, an address without a name hit, sheet 71, tick-mark counts,
-  substitute censuses, sample lines, marriage/children fields, competing child rosters, mortality
-  reporting windows, or formerly enslaved families under different surnames.
-  *Core guardrail:* Preserve the original census locator and keep literal observations separate from
-  calculations and proposed identities.
-
-- **`recipes/geni-practical-research-workflows.md`** — Practical Geni research workflows.
-  Eight practical Geni workflows: recover name variants, preserve relationship focus, cite facts,
-  choose projects, compare merge candidates, track tree conflicts, create GEDCOM branches and
-  inspect scoped exports.
-  *Use for:* Geni language/alias fields, relationship paths, source documents, public projects or
-  private workspaces, merge requests, unmerge requests, GEDCOM imports and tree reports.
-  *Core guardrail:* Distinguish tree assertions, source-supported statements, pending requests and
-  completed changes. Draft any manager or curator request for my review; do not send it.
-  *Dated source check:* 2026-11-12.
-
-- **`recipes/ancestry-dna-match-investigation.md`** — AncestryDNA: eight practical ways to investigate matches.
-  Eight practical AncestryDNA workflows: use a target's closest relatives, build branch anchor
-  tables, search collateral names, organize groups and notes, correct tester links, audit labels and
-  recover missing match rows.
-  *Use for:* AncestryDNA match investigation, Pro Tools Enhanced Shared Matches, colored dots,
-  linked trees, ThruLines, access-dependent gaps or connecting a match to another testing site.
-  *Core guardrail:* Keep three columns: observed cM, dated label with its origin, and sourced
-  pedigree path.
-  *Dated source check:* 2026-11-12.
-
-- **`recipes/myheritage-dna-match-investigation.md`** — MyHeritage DNA match investigation playbook.
-  Nine practical MyHeritage DNA workflows: select the right kit, preserve theories before
-  reassignment, build filtered shortlists, use labels and notes, capture pair-specific shared-match
-  values, compare triangulation subsets, audit theory connections, recover private-tree leads,
-  contact matches and resume dated packets.
-  *Use for:* MyHeritage DNA match investigation, kit relinking, largest-segment sorting,
-  labels/favorites, Shared DNA Matches, Theory of Family Relativity or an investigation follow-up.
-  *Core guardrail:* Save empty results with their actual query, kit, filters and date. Do not fill
-  an unshown DNA measurement with zero or infer that a person outside the list has no shared DNA.
-  *Dated source check:* 2026-11-12.
-
-- **`recipes/unknown-parentage-wato.md`** — Work an unknown-parentage case with DNA matches and WATO.
-  Placing an unknown person (an unknown parent, an adoptee's bio-parent, an unplaced ancestor) into
-  a tree using DNA matches + WATO odds.
-  *Use for:* "who is my unknown grandfather/father", adoptee bio-family search, WATO hypothesis
-  scoring, clustering matches to an ancestral couple, tied hypotheses, choosing a discriminating
-  tester, or deciding which observations to withhold from a calculation.
-  *Core guardrail:* WATO assumes single-path descent. Pedigree collapse / endogamy / a match related
-  through two lines silently invalidates the score — the tool has no way to know and will still rank
-  confidently.
-
-- **`recipes/ai-for-dna-research.md`** — Using AI reliably in DNA genealogy research.
-  Using an AI assistant *reliably* on DNA/genealogy work: what to delegate freely, what to never
-  trust, and the prompt patterns that work. Includes endogamous match prioritization, segment
-  attribution, targeted testing of outmarrying branches, and coherent family comparisons across
-  tested ancestors, siblings and descendants. *Also use for:* "how are these two families
-  connected", multiple related focal testers, repeated descent paths, a long segment in a relative
-  that is shorter/absent in a descendant, mixed-origin segment overhangs, fused clusters, validating
-  a match's own pedigree, or inspecting supplied ethnicity-region maps and AncestryDNA Journeys
-  timelines for locality-search leads.
-  *Use for:* any "can AI/ChatGPT/Claude help me with my DNA / tree / citations", **or** whenever you
-  (the assistant) are about to compute or assert something in this domain.
-  *Core guardrail:* Never ask the LLM to compute relationship probabilities from a cM number — it
-  *fabricates* them. Route a *single* cM figure to the **Shared cM Project / DNA Painter's Shared cM
-  Tool** (point cM → the *range* of candidate relationships); if you have a tree plus multiple
-  matches to place, that's **WATO** — a *different* DNA Painter tool that scores hypothesis slots,
-  not a cM→relationship lookup.
-
-- **`recipes/ydna-mtdna-interpretation.md`** — Interpreting Y-DNA and mtDNA — what a haplogroup or STR/sequence match can (and can't) establish.
-  Interpreting Y-DNA and mtDNA results (a haplogroup assignment, a Y-STR genetic-distance match, an
-  mtDNA sequence match): what each can actually establish about a *genealogical-timeframe*
-  relationship, and where confident interpretation crosses into fabrication. The Y-STR/mtDNA
-  complement to `ai-for-dna-research.md` (autosomal cM).
-  *Use for:* "what does my haplogroup / Y-STR match / mtDNA match mean", "how many generations back
-  is genetic distance N", "does this haplogroup contradiction prove a non-paternity event",
-  differing Y labels, measured versus inferred SNP results, choosing a tester to split an unresolved
-  SNP block, TMRCA disagreement with a dated pedigree, or a pair matching on both autosomal DNA and
-  Y-DNA/mtDNA through potentially different ancestral lines.
-  *Core guardrail:* **you do not compute or assign haplogroups, TMRCAs, or NPE verdicts from your
-  own reasoning.** Every such value is a *hypothesis to route to the right tool or corroborate* —
-  never a fact to state.
-
-- **`recipes/xdna-phasing-judgment.md`** — X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong.
-  X-DNA matches and visual/parental phasing: what a segment, an X match, or a phased chromosome map
-  can actually confirm or eliminate, and where confident-sounding analysis is actually fabrication.
-  *Use for:* "is this X-DNA match trustworthy", "what's the minimum X cM threshold", "phase my kit
-  against a parent or siblings", "half-sister or aunt", "does this X match rule out a father",
-  reconstructed-kit quality, artificial homozygosity, or interpreting matches to a synthetic kit.
-  *Core guardrail:* **Ban invented small-segment statistics.** Any false-positive-rate or
-  chance-match number must be attributed to a specific company/study (23andMe 2014, AncestryDNA
-  2020, FTDNA's Family Finder Matching 5.0) — never a smoothed or averaged figure presented as a
-  universal law.
-
-- **`recipes/ai-for-documentary-records.md`** — Using AI reliably in documentary & records genealogy research.
-  Using an AI assistant *reliably* on DOCUMENTARY / records work (NOT DNA): handwriting
-  transcription & translation, AI full-text / OCR finding aids (FamilySearch Full-Text Search),
-  reviewing & correcting AI-indexed records, evaluating AI record hints, and image restoration /
-  colorization / generation & evidentiary trust.
-  *Use for:* any "can AI/ChatGPT/Gemini transcribe or translate this handwriting", "full-text search
-  for unindexed deeds/probate", "correct AI-indexed records", "evaluate an AI record hint",
-  "colorize/restore an old photo".
-  *Core guardrail:* **Every AI output is a hypothesis to verify against the original record, never a
-  fact to file.**
-
-- **`recipes/evidence-proof-judgment.md`** — Correlating evidence & proving identity — the judgment AI gets wrong.
-  Correlating evidence & proving identity: the judgment an AI gets WRONG when it recites the
-  Genealogical Proof Standard but misapplies it — same-name conflation, conflict- flattening,
-  over-reading a document, negative-evidence errors, DNA/documentary siloing, de-novo fabrication,
-  and sycophancy toward the answer you want. Includes a premise and dependency register for
-  investigating a tentative branch without silently inheriting its assumptions.
-  *Use for:* separating same-named people, resolving conflicting records, weighing indirect vs
-  negative evidence, combining DNA with documents into ONE proof, conditional placements,
-  discriminating hypothesis tests or revising dependent claims — **and** whenever you (the
-  assistant) are about to state a genealogical conclusion.
-  *Core guardrail:* **You rule on identity and proof. The model assembles and drafts — it never
-  concludes.**
+### Jewish and Russian Empire
 
 - **`recipes/russian-empire-jewish-identity-attribution.md`** — Name mismatch in a Russian-Empire Jewish family — which branch, and what DNA can still say.
   A Russian-Empire Jewish ancestor who turns up under a given name, patronymic or surname that fits
@@ -520,6 +595,25 @@ live control.
   *Core guardrail:* **A name mismatch never changes the branch verdict on its own; the household
   chain does.** Chain the person through household number → previous household number → age at
   previous revision → "выбыло" column → additional lists before you interpret any name.
+
+- **`recipes/jewish-genealogy-conditional-hypotheses.md`** — Jewish genealogy: conditional naming, town and DNA clues.
+  Apply working hypotheses to Jewish naming, locality and DNA clues while keeping each proposition
+  separate.
+  *Use for:* proposed parentage, name equivalence, namesakes, naming customs, ancestral towns,
+  conditional branches or segment attribution through an endogamous pedigree.
+  *Core guardrail:* A proposed father can select a search town; establishing that father still does
+  not establish the child's birthplace, the intended namesake or the ancestor behind every shared
+  segment.
+
+- **`recipes/russian-empire-emigrant-origin-recovery.md`** — Recovering a Russian Empire emigrant's origin locality.
+  Five workflows for tracing an emigrant from destination records to an exact historical locality:
+  reconcile arrival clues, recover failed name searches, extract complete manifests, follow
+  contact/travel networks, and prepare a locality and archive handoff. Principally 1880–1924 U.S.
+  arrivals, including Canadian transit, across confessions.
+  *Use for:* conflicting arrival years, changing names, missing manifest pages, two contact fields,
+  separate family arrivals, residence/birthplace ambiguity or an unresolved origin town.
+  *Core guardrail:* Preserve the wording and field role until the movement and locality evidence
+  resolve them.
 
 - **`recipes/jewishgen-search-family-reconstruction.md`** — JewishGen searches that recover families missed by a name-and-town query.
   Retrieving JewishGen family records when names, ages, towns or a woman's surname are uncertain.
@@ -542,29 +636,6 @@ live control.
   *Core guardrail:* Two forms in one dictionary article create search candidates; they do not
   establish that two records describe the same person.
 
-- **`recipes/myheritage-historical-record-search.md`** — Recovering historical records with MyHeritage.
-  Recovering MyHeritage historical records hidden by collection coverage, query fields, name
-  variants, languages or OCR.
-  *Use for:* no-result searches, Collection Catalog, relative pivots, historical jurisdictions,
-  newspaper keywords/OldNews or an index that must lead onward to an original record.
-  *Core guardrail:* Preserve the sparse baseline before tightening it. If a tighter query fails,
-  relax one condition at a time and record the reason; changing everything together conceals what
-  excluded the record.
-  *Dated source check:* 2026-11-12.
-
-- **`recipes/newspapers-com-search-recovery.md`** — Newspapers.com: Recover Notices That Name Searches Miss.
-  Recovering newspaper notices when issue coverage, printed names or OCR hide an ancestor on
-  Newspapers.com. Build a title–holding–issue register first, resolve another holding when coverage
-  is insufficient, then search initials, married names, associates, occupations and addresses and
-  verify the original notice.
-  *Use for:* a failed newspaper name search, an unknown maiden name, a missing obituary, immigration
-  or family-reconstruction leads, title changes, incomplete issue coverage, alternate holdings or
-  unreadable OCR.
-  *Core guardrail:* A surname can occur in one item and a travel verb in another on the same page.
-  Confirm the subject and event within the actual item before assigning that event to the searched
-  person.
-  *Dated source check:* 2026-11-12.
-
 - **`recipes/hebrewbooks-search-recovery.md`** — Recovering HebrewBooks search misses.
   Recover HebrewBooks names or passages missed by OCR, catalogue spelling or a query that never
   reached search.
@@ -575,78 +646,6 @@ live control.
   different observations. Record the surface and the observation before interpreting it.
   *Dated source check:* 2026-11-12.
 
-- **`recipes/ancestry-record-search-recovery.md`** — Ancestry record-search recovery.
-  Recovering archival records missed by an Ancestry search. Diagnose scope and coverage before
-  relaxing dates, places or names; use collection descriptions, original book indexes, census
-  districts and the holding archive.
-  *Use for:* an attached census disappearing from results, narrow Card Catalog matches,
-  birthplace/residence confusion, conservative wildcard batches, name-free searches, book page
-  versus image numbers, enumeration-district browsing, or index-only records.
-  *Core guardrail:* Keep three observations separate: no indexed candidate; no matching images in
-  the available inventory; and documented absence in the original surviving records.
-  *Dated source check:* 2026-11-12.
-
-- **`recipes/23andme-match-research.md`** — Working with 23andMe DNA: matches, matrices, segments, and preservation.
-  Twelve practical workflows for 23andMe match research, permitted comparisons, numerical matrices
-  and dated preservation.
-  *Use for:* match worksheets, connection permissions, selected-segment painting, parent-side
-  information, ancestry confidence/history, legacy bucketing, reconstructed ancestors, extension
-  exports/groups, manual shared-match charts, or floating research-tree branches.
-  *Core guardrail:* The expensive mistake is assuming that every visible DNA Relative can be
-  compared in every position, every percentage is autosomal-only, and every Download button returns
-  the same kind of evidence.
-  *Dated source check:* 2026-11-12.
-
-- **`recipes/ftdna-practical-dna-workflows.md`** — Maintaining FamilyTreeDNA exports and tree links.
-  Eight FTDNA workflows for Matrix observations, paired match/segment exports, duplicate-name joins,
-  MyHeritage tree links, Family Matching and public Y-DNA Group Time Tree, supplied Globetrekker map
-  or two-label comparison packets.
-  *Use for:* Family Finder CSV scope, opaque note handles, selected-match segment files, transferred
-  links that need confirmation, dated parental-bucket inventories, subgroup selections, branch
-  estimates, obscured map nodes, hidden details or authorized project-display checks.
-  *Core guardrail:* A match name is a join key, not a unique person identifier. Matching Bucket and
-  Linked Relationship are values observed at download. Record link changes separately from the
-  retrieval date, keep the export choice and kit with the rows, and refresh match metadata after
-  relinking.
-  *Dated source check:* 2026-11-12.
-
-- **`recipes/dnapainter-practical-dna-workflows.md`** — Practical DNA Painter maps, matrices and tree worklists.
-  Ten practical DNA Painter workflows: paint measured matches, copy or merge maps of one tester,
-  intersect phased inheritance, calculate provisional missing intervals, combine coordinate spans,
-  plan descendant tests, annotate cluster-derived maps, build direct-ancestor gap worklists, audit
-  numeric pair amounts, and inspect Shared cM histograms and two-value range screens.
-  *Use for:* Paint a new match, map duplication/CSV transfers, Common Segment Generator, Inferred
-  Segments Generator, Distinct Segment Generator, Coverage Estimator, Cluster Auto Painter
-  annotations, ancestral-tree reports, sourced numeric pair matrices, or Shared cM histograms and
-  two-value range screens.
-  *Core guardrail:* A copied segment belongs to its original comparison; an intersection is
-  coordinate geometry; an inferred interval is a deduction; the Coverage Estimator is a
-  pedigree-based estimate. Keep those outputs distinguishable.
-  *Dated source check:* 2026-11-12.
-
-- **`recipes/gedmatch-practical-dna-workflows.md`** — Working reproducibly with GEDmatch.
-  Eight GEDmatch workflows: establish kit/run baselines, follow shortlist entries into direct
-  comparisons, check three-kit cores, bound locus searches, freeze tag/MKA groups, preserve
-  triangulation, and record parental-phasing or Lazarus input groups and generated-kit roles.
-  *Use for:* GEDmatch One-to-Many, One-to-One, match-both, Segment Search, tag groups, Multiple Kit
-  Analysis, Triangulation, parental phasing or Lazarus reconstruction.
-  *Core guardrail:* A match-list row, a pairwise segment, a shared-match list, a triangulation
-  result and a generated kit answer different questions. Keep their tool, inputs and settings
-  attached to every result.
-  *Dated source check:* 2026-11-12.
-
-- **`recipes/source-citation.md`** — Source citation record.
-  Preserve a retrievable source record and connect each citation to the evidence it supports.
-  *Use for:* source citations, repository and item locators, layered citations, shortened references
-  *Core guardrail:* An index entry and an inspected original image have different retrieval paths;
-  record which one you used.
-
-- **`recipes/research-documentation.md`** — Research log and report.
-  Preserve searches, results, document numbers and analysis so an investigation can resume.
-  *Use for:* research logs, research reports, NIL searches, coverage and linked next actions
-  *Core guardrail:* Use `NIL` for a completed search with no hits. Record inaccessible images,
-  interrupted searches and unsearched collections with their actual status.
-
 - **`recipes/rabbinic-literature-person-search.md`** — Search rabbinic and Hasidic literature for a person or a lineage.
   Find and interpret passages about a Jewish ancestor, rabbinic office or claimed lineage in
   rabbinic and Hasidic books.
@@ -655,17 +654,42 @@ live control.
   person to that ancestor documented? Rabbinic books often answer the first and rarely prove the
   second.
 
-- **`recipes/agent-research-project.md`** — Running a long genealogy project with an AI agent.
-  Keep an AI agent's genealogy work honest over months: what counts as evidence, how to lay out
-  Markdown research notes, what 'searched', 'saved' and 'done' must mean, how corrections reach
-  every note, and how to delegate and write to a tree safely.
-  *Use for:* running a multi-session genealogy investigation with an AI agent; keeping genealogy
-  research notes in Markdown or Obsidian; delegating genealogy reading to sub-agents; carrying a
-  correction through notes and a tree; research vault; Obsidian genealogy notes; the agent says
-  saved or done; sub-agent genealogy research; long genealogy project; keep research across
-  sessions; correct a claim everywhere; fill empty surname fields in a tree
-  *Core guardrail:* Treat a model-written summary, tag or "key insight" as a pointer. Open the
-  source before writing a claim.
+### Testimony and record episodes
+
+- **`recipes/holocaust-testimony-source-interpretation.md`** — Interpret a Holocaust name record through its underlying source.
+  Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement
+  dates.
+  *Use for:* unspecified death circumstances, submitter roles or evacuation conflicts.
+  *Core guardrail:* Recover the information behind a Yad Vashem name result without converting a
+  memorial submission, archival list or evacuation entry into an unsupported death or family
+  conclusion.
+
+- **`recipes/russian-military-repression-record-episodes.md`** — Recover separate military and Soviet-repression record episodes.
+  Reconcile WWI/WWII and Soviet-repression records as separate dated source episodes.
+  *Use for:* awards versus loss reports, repeated arrests or copied regional entries, GWAR and OBD
+  Memorial queries, Russian-front WWI prisoners of war, WWII Soviet prisoners of war and occupation
+  victims.
+  *Core guardrail:* an award order after a missing report does not, by itself, establish survival
+  between those dates. Obtain an event-specific source before extending a life or death interval.
+
+### Ukrainian archives
+
+- **`recipes/jewish-archival-list-triage.md`** — Finding Jewish genealogical lists behind archival catalogue titles.
+  Select Ukrainian archival cases for named Jewish lists while separating title, geographical and
+  document evidence.
+  *Use for:* false-positive keywords, generic titles, civil-registration fund scope or candidate
+  lists that have been presented as verified contents.
+  *Core guardrail:* A geographical association does not establish either Jewish contents or the
+  identity of a person. Do not present a title match as a verified Jewish list.
+
+- **`recipes/elib-ukrainian-archive-reference-books.md`** — Recovering and identifying Ukrainian archival guides in ELIB.
+  Retrieve Ukrainian archival guides from ELIB and identify the correct volume, part and fund scope.
+  *Use for:* catalogue-card versus PDF confusion, leading-zero item IDs, keyword misses, similar
+  volume titles or garbled cover-text extraction.
+  *Core guardrail:* Prefer the current card's link over a constructed URL. A constructed route is a
+  retrieval lead until its response is verified as the intended PDF; redirects, error HTML or an
+  access failure leave acquisition unresolved.
+  *Dated source check:* 2026-11-12.
 
 ## More recipes by topic
 

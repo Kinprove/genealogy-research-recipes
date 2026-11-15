@@ -11,7 +11,7 @@ handoff: ["unknown-parentage-wato", "xdna-phasing-judgment", "ydna-mtdna-interpr
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["dna-painter"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "third-party-tool", "upload"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 40}
+router: {"tier": "full", "group": "DNA sites", "order": 25}
 ---
 
 # Recipe: Practical DNA Painter maps, matrices and tree worklists

@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "evidence-proof-judgment", "land-index-boo
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 12}
+router: {"tier": "full", "group": "Record recovery", "order": 29}
 ---
 
 # Recipe: Inventory the documents of a probate case

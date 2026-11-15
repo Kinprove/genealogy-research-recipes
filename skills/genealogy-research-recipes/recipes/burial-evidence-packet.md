@@ -11,7 +11,7 @@ handoff: ["german-military-record-period-routing", "immigrant-congregation-origi
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"tier": "full", "group": "Featured workflows", "order": 9}
+router: {"tier": "full", "group": "Record recovery", "order": 26}
 ---
 
 # Build a burial evidence packet from cemetery records

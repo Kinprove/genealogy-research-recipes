@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 14}
+router: {"tier": "full", "group": "Record recovery", "order": 31}
 ---
 
 # Recover an Irish Catholic parish entry at the NLI

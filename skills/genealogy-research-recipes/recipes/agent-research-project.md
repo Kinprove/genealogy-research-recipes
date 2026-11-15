@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "research-documentation", "source-citation"
 checked: null
 checked_basis: null
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool", "upload"], "contact": []}
-router: {"tier": "full", "group": "Evidence and documentation", "order": 136}
+router: {"tier": "full", "group": "Evidence", "order": 4}
 ---
 
 # Running a long genealogy project with an AI agent

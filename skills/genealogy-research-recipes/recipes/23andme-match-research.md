@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "evidence-proof-judgment", "unknown-parentage-w
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["23andme", "dna-painter"], "local_script": [], "extensions": ["Genea browser extension (optional)"], "data_transfer": ["export", "link", "third-party-tool", "upload"], "contact": ["contact"]}
-router: {"tier": "full", "group": "Featured workflows", "order": 38}
+router: {"tier": "full", "group": "DNA sites", "order": 20}
 ---
 
 # Working with 23andMe DNA: matches, matrices, segments, and preservation

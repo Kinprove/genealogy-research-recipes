@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "gedcom-resea
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["familysearch"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 19}
+router: {"tier": "full", "group": "Record sites", "order": 14}
 ---
 
 # Recipe: FamilySearch record recovery and Tree maintenance

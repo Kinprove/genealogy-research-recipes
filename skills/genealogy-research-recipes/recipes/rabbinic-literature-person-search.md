@@ -11,7 +11,7 @@ handoff: ["beider-given-name-variants", "corpus-seeded-name-search", "evidence-p
 checked: "2026-11-07"
 checked_basis: "consulted on 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Evidence and documentation", "order": 135}
+router: {"tier": "full", "group": "Jewish and Russian Empire", "order": 41}
 ---
 
 # Search rabbinic and Hasidic literature for a person or a lineage

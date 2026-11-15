@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "ydna-mtdna-interpretation"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["geni"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": ["contact"]}
-router: {"tier": "full", "group": "Featured workflows", "order": 22}
+router: {"tier": "full", "group": "Record sites", "order": 17}
 ---
 
 # Recipe: Practical Geni research workflows

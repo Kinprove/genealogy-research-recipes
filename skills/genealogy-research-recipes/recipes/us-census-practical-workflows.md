@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "land-index-book-series-recovery", "us-mili
 checked: "2026-10-20"
 checked_basis: "checked 2026-10-20"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 21}
+router: {"tier": "full", "group": "Record sites", "order": 18}
 ---
 
 # Practical U.S. census workflows

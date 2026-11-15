@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "manuscript-collection-recovery", "russian-
 checked: "2026-11-03"
 checked_basis: "fetched on 2026-11-03"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": []}
-router: {"tier": "full", "group": "Evidence and documentation", "order": 134}
+router: {"tier": "full", "group": "Evidence", "order": 3}
 ---
 
 # Research log and report

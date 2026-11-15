@@ -260,8 +260,7 @@ def render_router(catalog):
             group = None
         if route["group"] != group:
             group = route["group"]
-            if route["tier"] == "pointer":
-                lines += ["### " + group, ""]
+            lines += ["### " + group, ""]
         lines += [f"- **`recipes/{m['id']}.md`** — {m['title']}.", wrap(m["summary"])]
         if m["scope"]["tasks"]:
             lines += [wrap("*Use for:* " + "; ".join(m["scope"]["tasks"]))]

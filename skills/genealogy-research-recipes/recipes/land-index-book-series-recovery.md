@@ -11,7 +11,7 @@ handoff: ["historical-map-record-recovery", "tax-roll-observation-workflow", "us
 checked: "2026-11-05"
 checked_basis: "checked 5 November 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 11}
+router: {"tier": "full", "group": "Record recovery", "order": 28}
 ---
 
 # Recipe: Recover land instruments through indexes, book series and entry files

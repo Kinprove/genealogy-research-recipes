@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-comparison-controls", "myheritage-dna-matc
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["familytreedna"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 39}
+router: {"tier": "full", "group": "DNA sites", "order": 22}
 ---
 
 # Recipe: Maintaining FamilyTreeDNA exports and tree links

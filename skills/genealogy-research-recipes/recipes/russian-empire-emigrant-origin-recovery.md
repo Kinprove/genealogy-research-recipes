@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "beider-given-name-variants", "bessarabi
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "request"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 20}
+router: {"tier": "full", "group": "Jewish and Russian Empire", "order": 37}
 ---
 
 # Recipe: Recovering a Russian Empire emigrant's origin locality

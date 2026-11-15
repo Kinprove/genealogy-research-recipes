@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "jewishgen-search-family-reconstruction", "
 checked: "2026-10-07"
 checked_basis: "Checked 2026-10-07"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 8}
+router: {"tier": "full", "group": "Jewish and Russian Empire", "order": 36}
 ---
 
 # Jewish genealogy: conditional naming, town and DNA clues

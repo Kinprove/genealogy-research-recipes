@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "dna-match-outreach-staging", "evidence-
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["ancestry"], "local_script": [], "extensions": [], "data_transfer": ["publish", "request"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 37}
+router: {"tier": "full", "group": "Record sites", "order": 13}
 ---
 
 # Ancestry record-search recovery
