@@ -81,6 +81,8 @@ Limits [S7]:
 - The poster calls the findings fragments that do not yet form a picture.
 - Finding the base surname in the district shows that namesakes lived there. It does not show that they were the family's ancestors.
 
+**A soldier database can test a village whose registers are lost.** When the metrical books of a candidate origin village in the former Russian Empire have not survived, search Second World War soldier records, such as Pamyat Naroda, for the surname with a recorded birthplace or home in that village or a neighbouring one. One researcher's candidate village in Belarus, proposed as a misreading of the place in a family record, had no surviving books; she found two bearers of her surname from a neighbouring village in Pamyat Naroda and one other database, and treated them only as possible kin [S19]. Rank such a hit as a locality lead dated to the record, under rule 1 below: it shows that namesakes came from the village, not that they were the family. For how Pamyat Naroda handles place names, see [Recover separate military and Soviet-repression record episodes](russian-military-repression-record-episodes.md#start-from-the-event-and-source-scope).
+
 ## Size the bearer pool country-wide
 
 Run a surname-only search on one large record site:

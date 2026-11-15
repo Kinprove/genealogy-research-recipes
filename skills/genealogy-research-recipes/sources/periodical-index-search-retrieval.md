@@ -34,9 +34,20 @@ Not verified:
 - whether the Der Schlüssel surname index includes authors and compilers
 - how the German indexes overlap year by year (the year ranges are not confirmed, so none are adopted)
 
+### Sources added 2026-11-15
+
+- **S21:** Яндекс, [Поиск по архивам](https://yandex.ru/archive/), home page opened 2026-11-15. Used for: search over neural-network-recognised text; the notice that viewing documents is for now open only to signed-in users; and its newspaper projects for «Вечерняя Москва», the 1941–1945 periodicals (Страницы Победы) and «Советский спорт» from 1922.
+- **S22:** Хабр, [«Нейросети "Яндекса" оцифровали архив "Известий" с 1917 года»](https://habr.com/ru/articles/883870/), 19 February 2025, opened 2026-11-15. Used for: «Известия» of 1917–2024 added with full-text search, and diocesan gazettes, «Вечерняя Москва», «Русский инвалид» and «Советский спорт» among the service's periodicals. A news item; the current list of titles was not checked beyond S21.
+- **S23:** Научная библиотека Томского государственного университета, [Платформа «PRO Сибирь»](https://lib.tsu.ru/ru/platforma-pro-sibir), last changed 7 April 2026, opened 2026-11-15. Used for: the platform launched in 2021 with more than 120,000 open-access sources, including periodicals and manuscripts, on Siberia and the Far East. The platform itself timed out when requested on 2026-11-15, so its search was not tried.
+- **S24:** Генеалогия, или Как я встретил вашу маму (Dzen channel), [«Полезные источники для поиска предков: сайты, форумы, справочники. Часть II»](https://dzen.ru/a/aBm8MOqrG0-Msp5d), 6 August 2026 by the page's date, read 2026-11-15 from a captured copy (Dzen refuses automated retrieval). Used for: searching the digitised periodicals of Yandex's archive search for events and surnames instead of reading issue by issue, and PRO Сибирь's keyword search over its periodicals.
+- **S25:** Поиск предков: Тульская губерния (Dzen channel), [«Поиск предков не в архиве»](https://dzen.ru/a/aZyi-FyVY149uLht), 24 February 2026 by the page's date, read 2026-11-15 from a captured copy (images not captured). Used for: a reader's visit to the local-history department of the Tula Regional Scientific Library, where a needed newspaper run was not digitised and was hard to find on paper; and the author's list of what «Тульские губернские ведомости» printed: lists of conscripts, voters and candidates for elected posts, and notices of property sales, awards and incidents. The issues and years behind the list are not given.
+- **S26:** Региональный библиотечно-информационный комплекс (Tula), [«Первая тульская газета»](https://tularlic.ru/books/?ELEMENT_ID=2738), opened 2026-11-15. Used for: the gazette's official and unofficial parts, paid private notices, its last issue on 12 April 1917, and the Tula Regional Scientific Library's holdings in print and on microfilm.
+
 ## Credits
 
 - Larry Jensen, German Reference and Research Tools, BYU Family History Library video, 2022; with parallel wording in S10, S11 and S13 — All rights reserved (standard YouTube license); short attributed paraphrase (adapted)
 - Genealogy Gems, How to Use PERSI Like a PRO!, 2022, ACPL staff interview — All rights reserved (standard YouTube license); de minimis attributed quotation (quoted)
 - Kinprove original procedural synthesis drawing on community teaching videos S1–S17 and the hosts' PERSI pages S18–S19, paraphrased — FSL-1.1-MIT (kinprove-original)
 - Kinprove-authored bibliography giving video titles, channels, presenters and dates, with use notes — FSL-1.1-MIT (kinprove-original)
+- Yandex, Habr, Tomsk State University library and Tula library-system pages cited as S21 to S23 and S26 — Copyright of their publishers; short paraphrase (adapted)
+- Dzen posts of the channels «Генеалогия, или Как я встретил вашу маму» and «Поиск предков: Тульская губерния» cited as S24 and S25 — Copyright of their authors; short paraphrase of the authors' reports (adapted)

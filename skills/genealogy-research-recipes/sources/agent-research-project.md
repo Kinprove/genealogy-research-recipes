@@ -12,8 +12,11 @@ as transcripts on 2026-11-09.
 - **S7:** Genealogy TV, [Genealogy Workflow: Workspace, Organizing, Filing & Research Process](https://www.youtube.com/watch?v=cJ3M2PRiFIU). Used for: labelling same-named people by birth year. Read 2026-11-09. Rights: cited reference, not reproduced.
 - **S8:** Obsidian Help, source file of the [Settings](https://github.com/obsidianmd/obsidian-help/blob/master/en/User%20interface/Settings.md) page, last changed 2026-11-12, read 2026-11-13. Used for: Obsidian updating internal links when a file is renamed while Automatically update internal links is on, and prompting instead when the setting is off. The published page is rendered by script, so its source file was read.
 - **S9:** Obsidian Help, source file of the [Obsidian CLI](https://github.com/obsidianmd/obsidian-help/blob/master/en/Extending%20Obsidian/Obsidian%20CLI.md) page, last changed 2026-11-02, read 2026-11-13. Used for: the CLI's `move` command, which moves or renames a file and updates internal links when that setting is on.
+- **S10:** Поиск предков: Тульская губерния (Dzen channel), [«Ищем маму мамы маминой мамы»](https://dzen.ru/a/aVQO1KJI5FRj8aBP), 5 November 2026 by the page's date, read 2026-11-15 from a captured copy (Dzen refuses automated retrieval). Used for: the author's report that a request to find a grandmother's female line usually means her mother's direct male line, and his own use of the term for the strict daughter-to-mother line. One genealogist's experience of the requests he receives. Rights: cited reference, not reproduced.
+- **S11:** Roberta Estes, DNAeXplained, [Concepts – Paternal vs Patrilineal and Maternal vs Matrilineal](https://dna-explained.com/2018/11/28/concepts-paternal-vs-patrilineal-and-maternal-vs-matrilineal/), 28 November 2018, opened 2026-11-15. Used for: maternal meaning the whole mother's side and matrilineal the direct maternal line only, "your mother's mother's mother's line", with no surname as an anchor. Rights: cited reference, not reproduced.
 
 ## Credits
 
 - Kinprove — original distillation, synthesis and measurements; third-party talks are cited, not
   reproduced — FSL-1.1-MIT (kinprove-original)
+- The «Поиск предков: Тульская губерния» Dzen post and Roberta Estes's DNAeXplained post cited as S10 and S11 — Copyright of their authors; short paraphrase (adapted)

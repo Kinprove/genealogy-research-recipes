@@ -21,6 +21,8 @@
 
 **What is authored here.** The ranking queue and its tie-break order, the period-labelling rule, the uncommon-surname qualification rule, the gazetteer step for repeated names and the closing packet are authored synthesis. The presenters and forum participants supply the individual techniques and examples. The presenters' kinship statements [S4], [S5] and the Huguenot suggestion [S3] are explicitly not adopted.
 
+- **S19:** Генеалогия, или Как я встретил вашу маму (Dzen channel), [«ОЛЕШКО и СИЛКИНЫ. Украина и Белоруссия»](https://dzen.ru/a/Z6bYpZkjsCl0lBXP), 8 February 2025 by the page's date, read 2026-11-15 from a captured copy (Dzen refuses automated retrieval; images not captured). Used for: a candidate village in Belarus suggested in a genealogy group as a misreading of the place in a family record, whose metrical books do not survive, and two bearers of the surname from a neighbouring village found in Pamyat Naroda and a second database the post calls «Гвара», which the author treats only as possibly hers. What «Гвара» is was not established.
+
 ## Credits
 
 - BYU Family History Library / Angela Sinickas, Resources for Lithuanian Genealogy, YouTube, 2019-06-05 — Standard YouTube License; no reuse licence granted, short paraphrase with attribution (adapted)
@@ -31,4 +33,5 @@
 - Uralskaya genealogiya forum (rodgersforum.borda.ru), thread 'Familiya Tenigin', posts by a participant; post dates not shown — Forum post; author retains rights, no reuse licence stated; translated paraphrase and transliterated names with attribution (adapted)
 - Findmypast search form option label, confirmed via a Family Tree Magazine guide — Third-party interface label; short quotation with attribution, no reuse licence granted (quoted)
 - Geneanet surname pages, live site text at the time of checking — Third-party website text; short quotation with attribution, no reuse licence granted (quoted)
+- Dzen post of the channel «Генеалогия, или Как я встретил вашу маму» cited as S19 — Copyright of its author; short paraphrase of the author's report (adapted)
 - Kinprove original procedural synthesis; techniques and examples cited as S1 to S5 and S7, national statistics offices', surname-database and press pages cited as S8 to S18, outside facts checked against heise.de, Geogen, Wikipedia, NYPL, FamilySearch catalogue, Gazetteer for Scotland, Norfolk Record Office and Huguenot Society pages — FSL-1.1-MIT (kinprove-original)
