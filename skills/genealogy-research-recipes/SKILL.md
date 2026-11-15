@@ -60,9 +60,8 @@ today's date. Do not check for a newer version over the network yourself.
    broad recipe fits. While waiting, give the one question and a brief reason for it;
    save the source list and research workflow for the reply. "Came from Russia" alone
    does not establish a modern country, community or destination record system.
-   For any place, work out which state, and which church or civil office, held it on the
-   event date; today's border does not decide which records were kept. In Central and
-   Eastern Europe, also choose by the family's religion, and start with the
+   For a place in Central or Eastern Europe, choose by the state that held it on the event
+   date and by the family's religion, not by today's border. Start with the
    [Central and Eastern Europe by period state](#central-and-eastern-europe-by-period-state)
    routers. Elsewhere in the Russian Empire, use the
    [Orthodox metrical-book recipe](recipes/russian-orthodox-metrical-book-recovery.md) for
