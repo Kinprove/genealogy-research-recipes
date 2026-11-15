@@ -11,7 +11,7 @@ handoff: ["convict-transportation-record-chain", "evidence-proof-judgment", "his
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Country record routing", "order": 1064}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 123}
 ---
 
 # Route an Australian or New Zealand record to the holder and window of its date

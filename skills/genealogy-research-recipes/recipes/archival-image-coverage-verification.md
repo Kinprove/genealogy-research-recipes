@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "corpus-seeded-name-search", "evidence-p
 checked: "2026-10-18"
 checked_basis: "opened 2026-10-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "full", "group": "Measurement and retrieval controls", "order": 11}
+router: {"section": "Research method", "group": "Search coverage and name searches", "order": 6}
 ---
 
 # Recipe: Verifying archival images, case boundaries and search coverage

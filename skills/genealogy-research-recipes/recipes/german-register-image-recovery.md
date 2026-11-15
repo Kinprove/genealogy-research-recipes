@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "German records", "order": 1076}
+router: {"section": "Records by country and region", "group": "Germany", "order": 69}
 ---
 
 # Recover a German register entry through its locality, record offices and register version

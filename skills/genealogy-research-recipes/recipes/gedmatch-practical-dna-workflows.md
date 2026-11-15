@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-comparison-controls", "evidence-proof-judg
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["gedmatch"], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool", "upload"], "contact": []}
-router: {"tier": "full", "group": "DNA sites", "order": 23}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 21}
 ---
 
 # Recipe: Working reproducibly with GEDmatch

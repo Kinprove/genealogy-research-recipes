@@ -11,7 +11,7 @@ handoff: ["23andme-match-research", "unknown-parentage-wato", "xdna-phasing-judg
 checked: "2026-07-18"
 checked_basis: "accessed 2026-07-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool"], "contact": ["contact"]}
-router: {"tier": "full", "group": "DNA reasoning", "order": 7}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 14}
 ---
 
 # Recipe: Using AI reliably in DNA genealogy research

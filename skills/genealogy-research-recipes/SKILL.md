@@ -195,16 +195,34 @@ police or compensation files are not republished, and are not named in a report 
 shared with others. Refer to them by role, for example "a witness".
 
 <!-- recipe-catalog:start -->
-## Recipes
+## Recipes: Research method
 
-### Evidence
+### Evidence and proof
 
 - `recipes/evidence-proof-judgment.md` — Judge identity, conflicting records, indirect or negative evidence and DNA-plus-document proof before stating any genealogical conclusion.
 - `recipes/genealogy-standards-audit.md` — Audit a report, proof or documented tree against professional standards by tracing each claim to examined sources and reasoning.
 - `recipes/source-citation.md` — Write citations that let a reader retrieve the source and see which evidence each citation supports.
 - `recipes/research-documentation.md` — Keep a log and report of searches, results and analysis so an investigation can resume.
+
+### AI and long projects
+
 - `recipes/agent-research-project.md` — Keep a months-long AI-agent genealogy project honest: evidence rules, Markdown notes, status words, corrections and safe tree writes.
 - `recipes/ai-for-documentary-records.md` — Use AI safely on records: handwriting transcription and translation, OCR full-text search, AI-indexed records, record hints and photo restoration.
+
+### Search coverage and name searches
+
+- `recipes/archival-image-coverage-verification.md` — Check archival case boundaries, image order and which pages were actually inspected before calling a search complete.
+- `recipes/corpus-seeded-name-search.md` — Recover attested name spellings that searches miss across scripts and OCR by separating encoding, orthography and field behaviour.
+- `recipes/surname-distribution-locality-leads.md` — Rank localities to search from dated surname-distribution sources for an uncommon surname.
+
+### Family trees and research planning
+
+- `recipes/rootsmagic-tree-reconciliation-workflow.md` — Reconcile selected facts and sources between RootsMagic, Ancestry TreeShare and FamilySearch.
+- `recipes/wikitree-dna-tester-links.md` — Register a DNA test on the actual tester's WikiTree profile and verify its FamilyTreeDNA or GEDmatch link destination.
+- `recipes/gedcom-research-export.md` — Export research findings to a GEDCOM file, or bring a supplied one into research, without changing what they prove.
+- `recipes/descendancy-gap-worklist.md` — Turn "research the descendants" into a ranked list of gaps tied to the records each lifespan crosses.
+
+## Recipes: DNA
 
 ### DNA reasoning
 
@@ -214,22 +232,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/xdna-phasing-judgment.md` — Judge X-DNA matches and visual or parental phasing: what a segment, X match or phased map can confirm or rule out.
 - `recipes/dna-comparison-controls.md` — Reconcile conflicting DNA results across testing companies and tools with exact tests, controls and marker coverage.
 
-### Measurement and retrieval controls
-
-- `recipes/archival-image-coverage-verification.md` — Check archival case boundaries, image order and which pages were actually inspected before calling a search complete.
-- `recipes/corpus-seeded-name-search.md` — Recover attested name spellings that searches miss across scripts and OCR by separating encoding, orthography and field behaviour.
-
-### Record sites
-
-- `recipes/ancestry-record-search-recovery.md` — Recover Ancestry records a search missed by checking collection scope and coverage before loosening dates, places or names.
-- `recipes/familysearch-practical-record-workflows.md` — Recover FamilySearch catalog, image-only and full-text records, cite the exact view, and repair Source Linker and Family Tree errors.
-- `recipes/myheritage-historical-record-search.md` — Recover MyHeritage historical records hidden by collection coverage, search fields, name variants, languages or OCR.
-- `recipes/newspapers-com-search-recovery.md` — Find notices on Newspapers.com that name searches miss, after checking which titles and issues are actually covered.
-- `recipes/geni-practical-research-workflows.md` — Use Geni for name variants, relationship paths, citations, projects, merge decisions, tree conflicts and GEDCOM exports.
-- `recipes/us-census-practical-workflows.md` — Find and read U.S. census households: missing entries, district browsing, the 1890 gap, special schedules and changed surnames.
-- `recipes/usa-immigration-search-recovery.md` — Trace U.S. immigration and naturalization by sea, air or land border, and read manifests, verification marks and federal files.
-
-### DNA sites
+### DNA testing sites and tools
 
 - `recipes/23andme-match-research.md` — Research 23andMe matches: the comparisons the site permits, numerical matrices, segment painting and preserving dated results.
 - `recipes/ancestry-dna-match-investigation.md` — Investigate AncestryDNA matches: closest relatives, shared-match groups, collateral names, notes, tester links and missing match rows.
@@ -238,42 +241,35 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/myheritage-dna-match-investigation.md` — Investigate MyHeritage DNA matches: the right kit, filtered shortlists, shared-match values, triangulation and Theory of Family Relativity.
 - `recipes/dnapainter-practical-dna-workflows.md` — Use DNA Painter to map segments, combine phased maps, estimate missing intervals, plan tests and check shared-cM ranges.
 
-### Record recovery
+### Ethnicity, admixture and match outreach
 
-- `recipes/burial-evidence-packet.md` — Recover a cemetery entry, its photo or inscription, and the plot and register locators needed to check a burial.
-- `recipes/city-directory-observation-workflow.md` — Build a comparable series of city-directory names, addresses and occupations from checked editions and sections.
-- `recipes/land-index-book-series-recovery.md` — Trace a land record through both index directions to the right instrument and book, or a federal patent to its entry file.
-- `recipes/probate-case-document-inventory.md` — Recover every document behind a probate index, will or bond and list them as a case inventory with open leads.
-- `recipes/us-military-pension-file-recovery.md` — Carry a service clue or pension index card to the right application file and inventory its documents.
-- `recipes/irish-catholic-parish-image-recovery.md` — Find an Irish Catholic baptism or marriage in the National Library of Ireland's parish-register images.
-- `recipes/polish-index-original-record-recovery.md` — Recover an original Polish register entry from Geneteka, Metryki or Szukaj w Archiwach, or document the retrieval gap.
+- `recipes/admixture-model-run-scope.md` — Record the run scope of a G25, calculator or qpAdm admixture result before reading it.
+- `recipes/ethnicity-estimate-version-comparison.md` — Save, date and compare successive AncestryDNA, MyHeritage or FamilyTreeDNA ethnicity-estimate versions.
+- `recipes/dna-match-outreach-staging.md` — Stage and draft outreach to a DNA match, a match's account manager or an untested relative.
 
-### Tree connections
+## Recipes: Record websites, libraries and maps
 
-- `recipes/rootsmagic-tree-reconciliation-workflow.md` — Reconcile selected facts and sources between RootsMagic, Ancestry TreeShare and FamilySearch.
-- `recipes/wikitree-dna-tester-links.md` — Register a DNA test on the actual tester's WikiTree profile and verify its FamilyTreeDNA or GEDmatch link destination.
+### Record websites
 
-### Jewish and Russian Empire
+- `recipes/ancestry-record-search-recovery.md` — Recover Ancestry records a search missed by checking collection scope and coverage before loosening dates, places or names.
+- `recipes/familysearch-practical-record-workflows.md` — Recover FamilySearch catalog, image-only and full-text records, cite the exact view, and repair Source Linker and Family Tree errors.
+- `recipes/myheritage-historical-record-search.md` — Recover MyHeritage historical records hidden by collection coverage, search fields, name variants, languages or OCR.
+- `recipes/newspapers-com-search-recovery.md` — Find notices on Newspapers.com that name searches miss, after checking which titles and issues are actually covered.
+- `recipes/geni-practical-research-workflows.md` — Use Geni for name variants, relationship paths, citations, projects, merge decisions, tree conflicts and GEDCOM exports.
 
-- `recipes/russian-empire-jewish-identity-attribution.md` — Resolve a Russian-Empire Jewish ancestor whose name fits neither candidate branch, using registration records, naming customs and careful DNA tests.
-- `recipes/jewish-genealogy-conditional-hypotheses.md` — Test Jewish naming, ancestral-town and DNA clues as separate conditional hypotheses before linking a family.
-- `recipes/russian-empire-emigrant-origin-recovery.md` — Trace a Russian Empire emigrant from U.S. arrival records, including Canadian transit, back to an exact home locality, mainly 1880–1924.
-- `recipes/jewishgen-search-family-reconstruction.md` — Recover families a JewishGen name-and-town search missed: name variants, mixed-field batches, wives' natal families and married daughters.
-- `recipes/beider-given-name-variants.md` — Expand searches with recorded Ashkenazi given-name forms from Beider's male and female indexes.
-- `recipes/hebrewbooks-search-recovery.md` — Recover HebrewBooks names or passages missed by OCR, catalogue spelling or a query that never reached search.
-- `recipes/rabbinic-literature-person-search.md` — Find and interpret passages about a Jewish ancestor, rabbinic office or claimed lineage in rabbinic and Hasidic books.
+### Books, periodicals and manuscripts
 
-### Testimony and record episodes
+- `recipes/published-book-catalogue-and-full-text-discovery.md` — Find a published local history, compiled genealogy or family book across catalogues and full text.
+- `recipes/periodical-index-search-retrieval.md` — Search a genealogical periodical index such as PERSI and retrieve the article.
+- `recipes/manuscript-collection-recovery.md` — Find personal, family and organisational papers that may mention an ancestor, including ledgers, daybooks and claim folders.
+- `recipes/local-repository-uncatalogued-holdings.md` — Ask a local library, society or archive about its uncatalogued holdings after its catalogue returns nothing.
 
-- `recipes/holocaust-testimony-source-interpretation.md` — Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement dates.
-- `recipes/russian-military-repression-record-episodes.md` — Read Russian WWI, Soviet WWII and repression records as separate dated episodes before merging them into one life.
+### Places and maps
 
-### Ukrainian archives
+- `recipes/historical-place-name-resolution.md` — Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from period gazetteers.
+- `recipes/historical-map-record-recovery.md` — Read a historical map, atlas, plat or fire-insurance sheet as dated evidence, and trace a detached archival map to its case.
 
-- `recipes/jewish-archival-list-triage.md` — Select Ukrainian archival cases that hold named Jewish lists, separating title, place and document evidence.
-- `recipes/elib-ukrainian-archive-reference-books.md` — Retrieve Ukrainian archival guides from ELIB and identify the correct volume, part and fund scope.
-
-## More recipes by topic
+## Recipes: Records by country and region
 
 ### Central and Eastern Europe by period state
 
@@ -281,50 +277,44 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/bessarabia-moldova-record-routing.md` — Route a Bessarabian, Moldovan or left-bank Dniester event by date, district and present custodian.
 - `recipes/historic-hungary-record-routing.md` — Route a record from the pre-1920 Kingdom of Hungary by county, successor state and record type.
 - `recipes/austrian-confessional-register-routing.md` — Route an Austrian or Czech-lands birth, marriage or death to the confessional or civil register that legally recorded it.
+- `recipes/polish-index-original-record-recovery.md` — Recover an original Polish register entry from Geneteka, Metryki or Szukaj w Archiwach, or document the retrieval gap.
 
-### Church and civil registers
+### Russian Empire and Soviet Union
 
-- `recipes/us-vital-registration-coverage.md` — List every U.S. birth and death registration authority and series before calling a record missing.
-- `recipes/us-church-record-custody.md` — Work out the denominational branch, congregation and current custodian of a U.S. church record.
-- `recipes/missing-marriage-jurisdiction-search.md` — Replace a marriage missing from the couple's home county with a dated, ranked list of candidate jurisdictions.
-- `recipes/early-new-england-town-records.md` — Read early New England town books across parent, daughter and neighbouring towns, and decode Torrey's marriage notation.
-- `recipes/quaker-meeting-record-recovery.md` — Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both removal-certificate series.
-- `recipes/catholic-parish-diocesan-record-recovery.md` — Search for a Catholic sacrament across the parish, nearby parishes, the diocesan copy, the successor custodian and dispensation files.
-- `recipes/catholic-sacramental-cross-notations.md` — Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish.
-- `recipes/hispanic-catholic-register-recovery.md` — Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers.
-- `recipes/portuguese-parish-civil-register-recovery.md` — Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books or the civil register.
-- `recipes/brazilian-parish-civil-registry-recovery.md` — Find a Brazilian parish or civil birth, marriage or death entry, and rebuild a family when parish books are lost.
-- `recipes/french-canadian-register-recovery.md` — Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts.
-- `recipes/french-belgian-civil-act-extraction.md` — Extract French or Belgian civil acts field by field, follow marginal notes and copies, and use Paris reconstructions for lost originals.
-- `recipes/dutch-civil-church-record-recovery.md` — Recover Dutch civil acts through ten-year indexes and marriage supplements, and the church registers kept before civil registration.
-- `recipes/amsterdam-archival-record-recovery.md` — Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register entry.
-- `recipes/scandinavian-parish-record-recovery.md` — Reconstruct a Swedish household through the household-examination, birth, marriage, death and moving registers.
-- `recipes/scandinavian-patronymic-farm-name-record-recovery.md` — Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names.
+- `recipes/russian-orthodox-metrical-book-recovery.md` — Locate and read a Russian Orthodox metrical entry through the period parish, the consistory copy and its margin notes.
+- `recipes/russian-empire-jewish-metrical-book-recovery.md` — Find the crown rabbinate that registered a Jewish community in the event year, check whether its books survive and list substitutes.
+- `recipes/russian-revision-list-household-chaining.md` — Chain a non-Jewish revision-list household across copies, sections and revisions.
+- `recipes/russian-orthodox-confession-list-reading.md` — Read Russian Orthodox confession lists household by household across years and check them against revision lists and metrical books.
+- `recipes/russian-household-list-transcription-audit.md` — Audit a transcription of a Russian confession list or revision tale against the images, keeping names, kin terms and counts as written.
+- `recipes/russian-village-family-reconstitution.md` — When a Russian peasant's birth or parentage record is missing, rebuild the village's couples and households from every register role.
+- `recipes/muscovite-census-settler-origin-recovery.md` — Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books.
+- `recipes/russian-estate-registration-status.md` — Read a Russian-Empire estate label as a dated registration status and pick the record series by when it was acquired.
+- `recipes/russian-volost-town-administration-records.md` — Find household-level lists in volost, village-society and town-administration fonds when metrical books or revision lists stop.
+- `recipes/old-believer-sectarian-record-recovery.md` — Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds.
+- `recipes/orthodox-clergy-record-recovery.md` — Rebuild a Russian Orthodox cleric's dated chain of posts and household from directories, eparchial gazettes and clergy registers.
+- `recipes/russian-imperial-service-record-recovery.md` — Recover a pre-1917 official's formulary or service list through the employing institution's fond.
+- `recipes/school-university-record-recovery.md` — Find a pupil or student through school, educational-district, duplicate-copy, yearbook and later personal-file records.
+- `recipes/russian-empire-emigrant-origin-recovery.md` — Trace a Russian Empire emigrant from U.S. arrival records, including Canadian transit, back to an exact home locality, mainly 1880–1924.
+- `recipes/soviet-personal-file-recovery.md` — Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are lost.
+- `recipes/russian-military-repression-record-episodes.md` — Read Russian WWI, Soviet WWII and repression records as separate dated episodes before merging them into one life.
+- `recipes/chechen-ingush-1944-deportation-records.md` — Trace a Chechen or Ingush family through the 1944 deportation and special settlement, under old and new place names.
 
-### Country record routing
+### Jewish records
 
-- `recipes/italian-stato-civile-parish-record-recovery.md` — Send an Italian birth, marriage or death to the register legal in that place and year, then search conscription and population registers.
-- `recipes/us-tribal-enrollment-record-recovery.md` — Find a claimed Native American ancestor on the right tribal roll and read what enrollment, rejection or absence proves.
-- `recipes/spanish-civil-parish-record-routing.md` — Route a Spanish or Andorran vital, padrón, notarial, military or Civil War record to the body that holds it on the event date.
-- `recipes/french-departmental-record-routing.md` — Route French civil, census, military, notarial, property and prison records by creator, département, series and access rule.
-- `recipes/swedish-military-record-routing.md` — Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period.
-- `recipes/australia-nz-record-routing.md` — Route an Australian or New Zealand vital, electoral, arrival, Māori Land Court or Aboriginal agency record to its holder and date window.
-- `recipes/canadian-provincial-record-routing.md` — Route a Canadian vital record, war personnel file, Métis or First Nations record, or Home Child to its province, custodian and access category.
+- `recipes/russian-empire-jewish-identity-attribution.md` — Resolve a Russian-Empire Jewish ancestor whose name fits neither candidate branch, using registration records, naming customs and careful DNA tests.
+- `recipes/jewish-genealogy-conditional-hypotheses.md` — Test Jewish naming, ancestral-town and DNA clues as separate conditional hypotheses before linking a family.
+- `recipes/jewishgen-search-family-reconstruction.md` — Recover families a JewishGen name-and-town search missed: name variants, mixed-field batches, wives' natal families and married daughters.
+- `recipes/beider-given-name-variants.md` — Expand searches with recorded Ashkenazi given-name forms from Beider's male and female indexes.
+- `recipes/hebrewbooks-search-recovery.md` — Recover HebrewBooks names or passages missed by OCR, catalogue spelling or a query that never reached search.
+- `recipes/rabbinic-literature-person-search.md` — Find and interpret passages about a Jewish ancestor, rabbinic office or claimed lineage in rabbinic and Hasidic books.
+- `recipes/holocaust-testimony-source-interpretation.md` — Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement dates.
 
-### Irish and British records
+### Ukrainian archives
 
-- `recipes/england-wales-gro-index-recovery.md` — Read England and Wales GRO and FreeBMD index entries as registration observations.
-- `recipes/english-nonregister-record-recovery.md` — Take an English or Welsh question past the parish register to poor-law, apprenticeship, church-court probate, dissenter and Catholic records.
-- `recipes/uk-census-and-1939-register-interpretation.md` — Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules.
-- `recipes/scottish-parish-statutory-record-recovery.md` — Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry and kirk-session records.
-- `recipes/irish-civil-registration-jurisdiction-recovery.md` — Carry an Irish civil-registration index entry or townland lead to the matching certificate and its jurisdiction chain.
-- `recipes/irish-probate-and-deed-recovery.md` — Recover an Irish will, administration or deed after the 1922 losses through surviving calendars, will books and the Registry of Deeds.
-- `recipes/irish-emigrant-origin-locality.md` — Resolve an Irish place named by an emigrant's records or family tradition to a searchable locality.
-- `recipes/irish-land-valuation-occupancy-series.md` — Read Griffith's Valuation, tithe books, valuation revisions and estate rentals as dated occupancy series.
-- `recipes/irish-1901-1911-census-returns.md` — Search, retrieve and read the Irish 1901 and 1911 census returns.
-- `recipes/convict-transportation-record-chain.md` — Rebuild a transported British convict's sentence as a chain of dated record episodes.
+- `recipes/jewish-archival-list-triage.md` — Select Ukrainian archival cases that hold named Jewish lists, separating title, place and document evidence.
+- `recipes/elib-ukrainian-archive-reference-books.md` — Retrieve Ukrainian archival guides from ELIB and identify the correct volume, part and fund scope.
 
-### German records
+### Germany
 
 - `recipes/german-register-image-recovery.md` — Trace an emigrant's German place name to its church or civil register entry through locality, record office and register version.
 - `recipes/german-emigrant-origin-sources.md` — Trace a German emigrant's home town through emigration files, indexes and the origin parish register.
@@ -334,60 +324,93 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/german-official-gazette-notice-search.md` — Read German gazette personnel, expulsion and expatriation notices as dated acts by a named authority.
 - `recipes/german-compensation-file-recovery.md` — Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it.
 
-### Russian Empire and Soviet records
+### Britain and Ireland
 
-- `recipes/russian-orthodox-metrical-book-recovery.md` — Locate and read a Russian Orthodox metrical entry through the period parish, the consistory copy and its margin notes.
-- `recipes/russian-empire-jewish-metrical-book-recovery.md` — Find the crown rabbinate that registered a Jewish community in the event year, check whether its books survive and list substitutes.
-- `recipes/russian-revision-list-household-chaining.md` — Chain a non-Jewish revision-list household across copies, sections and revisions.
-- `recipes/muscovite-census-settler-origin-recovery.md` — Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books.
-- `recipes/russian-estate-registration-status.md` — Read a Russian-Empire estate label as a dated registration status and pick the record series by when it was acquired.
-- `recipes/russian-volost-town-administration-records.md` — Find household-level lists in volost, village-society and town-administration fonds when metrical books or revision lists stop.
-- `recipes/old-believer-sectarian-record-recovery.md` — Recover Old Believer and Edinoverie families from raskol series in consistory, revision, district and police fonds.
-- `recipes/orthodox-clergy-record-recovery.md` — Rebuild a Russian Orthodox cleric's dated chain of posts and household from directories, eparchial gazettes and clergy registers.
-- `recipes/russian-imperial-service-record-recovery.md` — Recover a pre-1917 official's formulary or service list through the employing institution's fond.
-- `recipes/school-university-record-recovery.md` — Find a pupil or student through school, educational-district, duplicate-copy, yearbook and later personal-file records.
-- `recipes/soviet-personal-file-recovery.md` — Rebuild a Soviet-era life from institutional personal files when ZAGS or metrical records are lost.
-- `recipes/russian-orthodox-confession-list-reading.md` — Read Russian Orthodox confession lists household by household across years and check them against revision lists and metrical books.
-- `recipes/russian-household-list-transcription-audit.md` — Audit a transcription of a Russian confession list or revision tale against the images, keeping names, kin terms and counts as written.
-- `recipes/chechen-ingush-1944-deportation-records.md` — Trace a Chechen or Ingush family through the 1944 deportation and special settlement, under old and new place names.
-- `recipes/russian-village-family-reconstitution.md` — When a Russian peasant's birth or parentage record is missing, rebuild the village's couples and households from every register role.
+- `recipes/england-wales-gro-index-recovery.md` — Read England and Wales GRO and FreeBMD index entries as registration observations.
+- `recipes/english-nonregister-record-recovery.md` — Take an English or Welsh question past the parish register to poor-law, apprenticeship, church-court probate, dissenter and Catholic records.
+- `recipes/uk-census-and-1939-register-interpretation.md` — Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules.
+- `recipes/scottish-parish-statutory-record-recovery.md` — Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry and kirk-session records.
+- `recipes/irish-civil-registration-jurisdiction-recovery.md` — Carry an Irish civil-registration index entry or townland lead to the matching certificate and its jurisdiction chain.
+- `recipes/irish-catholic-parish-image-recovery.md` — Find an Irish Catholic baptism or marriage in the National Library of Ireland's parish-register images.
+- `recipes/irish-probate-and-deed-recovery.md` — Recover an Irish will, administration or deed after the 1922 losses through surviving calendars, will books and the Registry of Deeds.
+- `recipes/irish-emigrant-origin-locality.md` — Resolve an Irish place named by an emigrant's records or family tradition to a searchable locality.
+- `recipes/irish-land-valuation-occupancy-series.md` — Read Griffith's Valuation, tithe books, valuation revisions and estate rentals as dated occupancy series.
+- `recipes/irish-1901-1911-census-returns.md` — Search, retrieve and read the Irish 1901 and 1911 census returns.
+- `recipes/convict-transportation-record-chain.md` — Rebuild a transported British convict's sentence as a chain of dated record episodes.
+- `recipes/british-colonial-slave-registers.md` — Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records.
 
-### Censuses, tax, land and property
+### Western and Northern Europe
 
-- `recipes/canadian-census-interpretation.md` — Read a historical Canadian census line as a de jure listing, and browse by geography when a name search misses.
-- `recipes/tax-roll-observation-workflow.md` — Read town, township or county tax lists as a liability-bounded annual series for each jurisdiction and tax type.
-- `recipes/deed-content-relationship-clues.md` — Read a deed's type, consideration, terms, parties and parcel for dated clues to heirship, probate, migration or land identity.
+- `recipes/french-departmental-record-routing.md` — Route French civil, census, military, notarial, property and prison records by creator, département, series and access rule.
+- `recipes/french-belgian-civil-act-extraction.md` — Extract French or Belgian civil acts field by field, follow marginal notes and copies, and use Paris reconstructions for lost originals.
+- `recipes/dutch-civil-church-record-recovery.md` — Recover Dutch civil acts through ten-year indexes and marriage supplements, and the church registers kept before civil registration.
+- `recipes/amsterdam-archival-record-recovery.md` — Follow an Amsterdam City Archives index hit, tree claim or burial card back to its own register entry.
+- `recipes/italian-stato-civile-parish-record-recovery.md` — Send an Italian birth, marriage or death to the register legal in that place and year, then search conscription and population registers.
+- `recipes/spanish-civil-parish-record-routing.md` — Route a Spanish or Andorran vital, padrón, notarial, military or Civil War record to the body that holds it on the event date.
+- `recipes/portuguese-parish-civil-register-recovery.md` — Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books or the civil register.
+- `recipes/scandinavian-parish-record-recovery.md` — Reconstruct a Swedish household through the household-examination, birth, marriage, death and moving registers.
+- `recipes/scandinavian-patronymic-farm-name-record-recovery.md` — Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names.
+- `recipes/swedish-military-record-routing.md` — Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period.
+
+### United States: people, vital and church records
+
+- `recipes/us-census-practical-workflows.md` — Find and read U.S. census households: missing entries, district browsing, the 1890 gap, special schedules and changed surnames.
+- `recipes/usa-immigration-search-recovery.md` — Trace U.S. immigration and naturalization by sea, air or land border, and read manifests, verification marks and federal files.
+- `recipes/us-vital-registration-coverage.md` — List every U.S. birth and death registration authority and series before calling a record missing.
+- `recipes/us-church-record-custody.md` — Work out the denominational branch, congregation and current custodian of a U.S. church record.
+- `recipes/missing-marriage-jurisdiction-search.md` — Replace a marriage missing from the couple's home county with a dated, ranked list of candidate jurisdictions.
+- `recipes/early-new-england-town-records.md` — Read early New England town books across parent, daughter and neighbouring towns, and decode Torrey's marriage notation.
+- `recipes/quaker-meeting-record-recovery.md` — Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both removal-certificate series.
+- `recipes/us-tribal-enrollment-record-recovery.md` — Find a claimed Native American ancestor on the right tribal roll and read what enrollment, rejection or absence proves.
+- `recipes/us-freedpeople-record-recovery.md` — Trace an African American family back across the 1870 boundary.
+
+### United States: military, land, courts and law
+
+- `recipes/us-military-service-type-record-routing.md` — Route pre-1900 U.S. military service by service type to its own record series and custodian.
+- `recipes/us-civil-war-service-record-episodes.md` — Read Civil War draft registration, service cards, roster remarks and unit events as separate episodes.
+- `recipes/us-20th-century-military-service-reconstruction.md` — Rebuild a 20th-century U.S. Army or Air Force service record from sources outside a burned, thin or restricted personnel file.
+- `recipes/us-military-pension-file-recovery.md` — Carry a service clue or pension index card to the right application file and inventory its documents.
 - `recipes/us-federal-land-entry-file-recovery.md` — Follow a GLO patent, bounty-land number or final-proof notice to the federal land-entry case file.
-- `recipes/marks-and-brands-record-recovery.md` — Carry a livestock marks-and-brands index entry to the actual registration or a described copy.
 - `recipes/georgia-texas-state-land-grant-recovery.md` — Find and read an original Georgia or Texas land grant, and read each lottery entry, headright class or certificate under its own act.
-
-### Courts, legislatures, prisons and institutions
-
 - `recipes/court-case-file-recovery.md` — Recover a U.S. state or local civil, divorce, criminal or incapacity case file through the records that point to it.
 - `recipes/us-federal-court-case-file-recovery.md` — Take a lead to the right U.S. federal court for the period, its National Archives records and the case file.
 - `recipes/criminal-court-prison-record-recovery.md` — Trace a U.S., English, Welsh or Swedish arrest or imprisonment to its court, prison and pardon records; a state or local court's case file belongs to court case-file recovery.
 - `recipes/state-legislative-private-act-petitions.md` — Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and its petition.
-- `recipes/illegitimacy-record-recovery.md` — Find the bastardy bonds, court cases, support orders and church entries a birth outside marriage could create.
-- `recipes/institutional-patient-record-recovery.md` — Find asylum or state-hospital patient records through custodians, courts and newspapers, including Dutch admission correspondence.
 - `recipes/us-period-law-record-reading.md` — Read a U.S. record's legal terms, courts, bonds, age and inheritance rules under the law of its place and date.
 
-### Migration and origins
+### Canada, Latin America, Asia and Oceania
 
-- `recipes/immigrant-congregation-origin-records.md` — Find an immigrant's hometown in the registers of U.S. congregations chosen by language community, dates and address.
-- `recipes/surname-distribution-locality-leads.md` — Rank localities to search from dated surname-distribution sources for an uncommon surname.
-- `recipes/us-freedpeople-record-recovery.md` — Trace an African American family back across the 1870 boundary.
-- `recipes/british-colonial-slave-registers.md` — Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records.
+- `recipes/canadian-provincial-record-routing.md` — Route a Canadian vital record, war personnel file, Métis or First Nations record, or Home Child to its province, custodian and access category.
+- `recipes/canadian-census-interpretation.md` — Read a historical Canadian census line as a de jure listing, and browse by geography when a name search misses.
+- `recipes/french-canadian-register-recovery.md` — Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts.
+- `recipes/hispanic-catholic-register-recovery.md` — Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers.
+- `recipes/brazilian-parish-civil-registry-recovery.md` — Find a Brazilian parish or civil birth, marriage or death entry, and rebuild a family when parish books are lost.
+- `recipes/australia-nz-record-routing.md` — Route an Australian or New Zealand vital, electoral, arrival, Māori Land Court or Aboriginal agency record to its holder and date window.
 - `recipes/chinese-lineage-jiapu-records.md` — Recover a Chinese emigrant's character-written name and ancestral village before searching lineage genealogies (jiapu).
 - `recipes/japanese-koseki-honseki-recovery.md` — Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family register (koseki).
 
-### Places, maps, libraries and manuscripts
+## Recipes: Record types in any country
 
-- `recipes/historical-place-name-resolution.md` — Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from period gazetteers.
-- `recipes/historical-map-record-recovery.md` — Read a historical map, atlas, plat or fire-insurance sheet as dated evidence, and trace a detached archival map to its case.
-- `recipes/published-book-catalogue-and-full-text-discovery.md` — Find a published local history, compiled genealogy or family book across catalogues and full text.
-- `recipes/periodical-index-search-retrieval.md` — Search a genealogical periodical index such as PERSI and retrieve the article.
-- `recipes/manuscript-collection-recovery.md` — Find personal, family and organisational papers that may mention an ancestor, including ledgers, daybooks and claim folders.
-- `recipes/local-repository-uncatalogued-holdings.md` — Ask a local library, society or archive about its uncatalogued holdings after its catalogue returns nothing.
+### Church and congregation registers
+
+- `recipes/catholic-parish-diocesan-record-recovery.md` — Search for a Catholic sacrament across the parish, nearby parishes, the diocesan copy, the successor custodian and dispensation files.
+- `recipes/catholic-sacramental-cross-notations.md` — Follow a Catholic baptism–marriage cross-notation to the other sacrament's entry in another parish.
+- `recipes/immigrant-congregation-origin-records.md` — Find an immigrant's hometown in the registers of U.S. congregations chosen by language community, dates and address.
+
+### Burials, directories, land and probate
+
+- `recipes/burial-evidence-packet.md` — Recover a cemetery entry, its photo or inscription, and the plot and register locators needed to check a burial.
+- `recipes/city-directory-observation-workflow.md` — Build a comparable series of city-directory names, addresses and occupations from checked editions and sections.
+- `recipes/land-index-book-series-recovery.md` — Trace a land record through both index directions to the right instrument and book, or a federal patent to its entry file.
+- `recipes/deed-content-relationship-clues.md` — Read a deed's type, consideration, terms, parties and parcel for dated clues to heirship, probate, migration or land identity.
+- `recipes/tax-roll-observation-workflow.md` — Read town, township or county tax lists as a liability-bounded annual series for each jurisdiction and tax type.
+- `recipes/marks-and-brands-record-recovery.md` — Carry a livestock marks-and-brands index entry to the actual registration or a described copy.
+- `recipes/probate-case-document-inventory.md` — Recover every document behind a probate index, will or bond and list them as a case inventory with open leads.
+
+### Births outside marriage and institutions
+
+- `recipes/illegitimacy-record-recovery.md` — Find the bastardy bonds, court cases, support orders and church entries a birth outside marriage could create.
+- `recipes/institutional-patient-record-recovery.md` — Find asylum or state-hospital patient records through custodians, courts and newspapers, including Dutch admission correspondence.
 
 ### Family papers, photographs and oral history
 
@@ -396,20 +419,6 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/family-papers-and-bible-register-dating.md` — Separate writing, mailing and event dates in letters, envelopes, address books, family Bible registers and inscribed books.
 - `recipes/family-interviews-and-oral-tradition.md` — Record a relative's interview, a supplied recording or an inherited story with its speaker, prompter and chain of transmission.
 - `recipes/repository-photograph-collection-search.md` — Search repository photograph collections for an ancestor, home, shop or community by place and subject.
-
-### DNA workflows and research planning
-
-- `recipes/admixture-model-run-scope.md` — Record the run scope of a G25, calculator or qpAdm admixture result before reading it.
-- `recipes/ethnicity-estimate-version-comparison.md` — Save, date and compare successive AncestryDNA, MyHeritage or FamilyTreeDNA ethnicity-estimate versions.
-- `recipes/dna-match-outreach-staging.md` — Stage and draft outreach to a DNA match, a match's account manager or an untested relative.
-- `recipes/descendancy-gap-worklist.md` — Turn "research the descendants" into a ranked list of gaps tied to the records each lifespan crosses.
-- `recipes/gedcom-research-export.md` — Export research findings to a GEDCOM file, or bring a supplied one into research, without changing what they prove.
-
-### U.S. military service
-
-- `recipes/us-military-service-type-record-routing.md` — Route pre-1900 U.S. military service by service type to its own record series and custodian.
-- `recipes/us-civil-war-service-record-episodes.md` — Read Civil War draft registration, service cards, roster remarks and unit events as separate episodes.
-- `recipes/us-20th-century-military-service-reconstruction.md` — Rebuild a 20th-century U.S. Army or Air Force service record from sources outside a burned, thin or restricted personnel file.
 
 <!-- recipe-catalog:end -->
 

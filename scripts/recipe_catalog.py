@@ -92,13 +92,12 @@ def validate_header(m, body, filename, today):
     require(heading and heading[1].removeprefix("Recipe: ") == m["title"], "title differs from body heading")
     require(m["kind"] in ("judgment", "platform", "records"), "unknown kind")
     route = m["router"]
-    require(isinstance(route, dict) and set(route) == {"tier", "group", "order"}, "invalid router")
-    require(route["tier"] in ("full", "pointer") and string(route["group"]), "invalid router tier/group")
+    require(isinstance(route, dict) and set(route) == {"section", "group", "order"}, "invalid router")
+    require(string(route["section"]) and string(route["group"]), "invalid router section/group")
     require(type(route["order"]) is int and route["order"] >= 0, "invalid router order")
     scope = m["scope"]
     require(isinstance(scope, dict) and set(scope) == {"platforms", "tasks"}, "invalid scope")
     require(string_list(scope["platforms"]) and string_list(scope["tasks"]), "invalid scope lists")
-    require(scope["tasks"] or route["tier"] != "full", "full router entries need tasks")
     require(len(m["summary"].split()) <= SUMMARY_MAX_WORDS, f"summary longer than {SUMMARY_MAX_WORDS} words")
     require(not COUNT_OPENING.match(m["summary"]), "summary opens with a count")
     summary = normalized(m["summary"]).casefold()
@@ -235,25 +234,23 @@ def load_catalog(root=None, today=None, replacement=None):
         field = "contact" if step["kind"] == "contact" else "data_transfer"
         require(step["kind"] in caps[field], f"{slug}: capability omits inventoried {step['kind']}")
     catalog.sort(key=lambda item: item[0]["router"]["order"])
-    pointer_seen = False
-    for m, _ in catalog:
-        pointer_seen |= m["router"]["tier"] == "pointer"
-        require(not pointer_seen or m["router"]["tier"] == "pointer",
-                f"{m['id']}: full entries must precede topic pointers")
+    # Each section and each group takes consecutive orders, so the router prints one heading for it.
+    for level in ("section", "group"):
+        names = [m["router"][level] for m, _ in catalog]
+        starts = [name for i, name in enumerate(names) if i == 0 or names[i - 1] != name]
+        require(len(starts) == len(set(starts)), f"a router {level} is split; give it consecutive orders")
     return catalog
 
 
 def render_router(catalog):
-    """One line per recipe, grouped by topic; tasks and guardrails stay in the recipe."""
-    lines = [ROUTER_START, "## Recipes"]
-    group = None
-    pointer = False
+    """One line per recipe under its section and group; tasks and guardrails stay in the recipe."""
+    lines = [ROUTER_START]
+    section = group = None
     for m, _ in catalog:
         route = m["router"]
-        if route["tier"] == "pointer" and not pointer:
-            lines += ["", "## More recipes by topic"]
-            pointer = True
-            group = None
+        if route["section"] != section:
+            section, group = route["section"], None
+            lines += ([] if len(lines) == 1 else [""]) + ["## Recipes: " + section]
         if route["group"] != group:
             group = route["group"]
             lines += ["", "### " + group, ""]

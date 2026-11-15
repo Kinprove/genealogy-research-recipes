@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "old-believer-sectarian-record-recovery", "
 checked: "2026-11-08"
 checked_basis: "opened 2026-11-08"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1094}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 46}
 ---
 
 # Read Russian Orthodox confession lists household by household across years

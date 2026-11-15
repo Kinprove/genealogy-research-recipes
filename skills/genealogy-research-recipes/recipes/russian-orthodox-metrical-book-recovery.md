@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "catholic-parish-diocesan-record-
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1083}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 43}
 ---
 
 # Recover a Russian Orthodox metrical-book entry through the period parish, the consistory copy and its margin notes

@@ -11,7 +11,7 @@ handoff: ["23andme-match-research", "admixture-model-run-scope", "ai-for-dna-res
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": []}
-router: {"tier": "pointer", "group": "DNA workflows and research planning", "order": 1129}
+router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 25}
 ---
 
 # Save, date and compare successive ethnicity-estimate versions

@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment"]
 checked: "2026-10-07"
 checked_basis: "Checked 2026-10-07"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Evidence", "order": 1}
+router: {"section": "Research method", "group": "Evidence and proof", "order": 1}
 ---
 
 # Recipe: Auditing a genealogy research package against professional standards

@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "beider-given-name-variants", 
 checked: "2026-10-18"
 checked_basis: "opened 2026-10-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Measurement and retrieval controls", "order": 12}
+router: {"section": "Research method", "group": "Search coverage and name searches", "order": 7}
 ---
 
 # Recipe: Corpus-seeded name searches across scripts and OCR

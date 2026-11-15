@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"tier": "pointer", "group": "Family papers, photographs and oral history", "order": 1125}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 140}
 ---
 
 # Separate writing, mailing and event dates in family papers and Bible registers

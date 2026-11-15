@@ -59,12 +59,9 @@ class RecipeCatalogTests(unittest.TestCase):
             m[key] = value
             self.assert_invalid(m, error)
 
-    def test_tasks_add_to_the_summary_and_only_full_entries_need_them(self):
+    def test_tasks_are_optional_and_add_to_the_summary(self):
         m = copy.deepcopy(self.metadata)
-        m["router"]["tier"] = "full"
         m["scope"]["tasks"] = []
-        self.assert_invalid(m, "full router entries need tasks")
-        m["router"]["tier"] = "pointer"
         catalog.validate_header(m, self.body, m["id"] + ".md", self.today)
         m["summary"] = "Route a birth, marriage or death by county, successor state and record type."
         # The whole summary, any case, and the summary cut at commas add nothing to route on.
@@ -85,7 +82,7 @@ class RecipeCatalogTests(unittest.TestCase):
             m["guardrails"][0]["text"] = text
             with self.subTest(text=text):
                 self.assert_invalid(m, "guardrail T-01 is not an excerpt", body)
-        # Later guardrails are checked too, not only the core rule that the router prints.
+        # Later guardrails are checked too, not only the first (core) rule.
         m["guardrails"] = [{"id": "T-01", "text": "Keep unchecked cases."},
                            {"id": "T-02", "text": "A rule the body never states."}]
         self.assert_invalid(m, "guardrail T-02 is not an excerpt", body)
@@ -101,16 +98,28 @@ class RecipeCatalogTests(unittest.TestCase):
         m["summary"] = "Use Geni for name variants and merges."
         catalog.validate_header(m, self.body, m["id"] + ".md", self.today)
 
-    def test_router_prints_one_line_per_recipe_under_its_group(self):
-        full = copy.deepcopy(next(item for item in self.items if item[0]["router"]["tier"] == "full"))
-        pointer = copy.deepcopy(next(item for item in self.items if item[0]["router"]["tier"] == "pointer"))
-        head, tail = catalog.render_router([full, pointer]).split("## More recipes by topic")
-        for (m, _), part in ((full, head), (pointer, tail)):
-            self.assertIn(f"### {m['router']['group']}\n\n- `recipes/{m['id']}.md` — {m['summary']}\n", part)
-        router = head + tail
-        self.assertNotIn(full[0]["guardrails"][0]["text"], router)
-        self.assertNotIn(full[0]["scope"]["tasks"][0], router)
-        self.assertNotIn(str(full[0]["checked"]), router)
+    def test_router_prints_sections_groups_and_one_line_per_recipe(self):
+        first = self.items[0]
+        other = next(item for item in self.items if item[0]["router"]["section"] != first[0]["router"]["section"]
+                     and item[0]["checked"] and item[0]["scope"]["tasks"])
+        router = catalog.render_router([first, other])
+        for m, _ in (first, other):
+            route = m["router"]
+            self.assertIn(f"## Recipes: {route['section']}\n\n### {route['group']}\n\n"
+                          f"- `recipes/{m['id']}.md` — {m['summary']}\n", router)
+        m = other[0]
+        self.assertNotIn(m["guardrails"][0]["text"], router)
+        self.assertNotIn(m["scope"]["tasks"][0], router)
+        self.assertNotIn(str(m["checked"]), router)
+
+    def test_a_split_router_section_or_group_fails(self):
+        m, body = copy.deepcopy(self.items[0])
+        m["router"]["order"] = max(item[0]["router"]["order"] for item in self.items) + 1
+        with self.assertRaisesRegex(catalog.CatalogError, "router section is split"):
+            catalog.load_catalog(replacement=(m["id"] + ".md", catalog.emit_recipe(m, body)))
+        m["router"]["section"] = "A section of its own"
+        with self.assertRaisesRegex(catalog.CatalogError, "router group is split"):
+            catalog.load_catalog(replacement=(m["id"] + ".md", catalog.emit_recipe(m, body)))
 
     def test_dangling_references_fail_in_body_and_handoff(self):
         for reference in ("[other](no-such-recipe.md)", "**`recipes/no-such-recipe.md`**",

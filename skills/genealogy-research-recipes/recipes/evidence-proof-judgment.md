@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "ai-for-documentary-records", "ancestry-record-
 checked: "2026-10-07"
 checked_basis: "accessed 2026-10-07"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "full", "group": "Evidence", "order": 0}
+router: {"section": "Research method", "group": "Evidence and proof", "order": 0}
 ---
 
 # Recipe: Correlating evidence & proving identity — the judgment AI gets wrong

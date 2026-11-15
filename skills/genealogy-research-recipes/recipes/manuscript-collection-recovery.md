@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-21"
 checked_basis: "checked 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Places, maps, libraries and manuscripts", "order": 1121}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 34}
 ---
 
 # Recover manuscript and archival collections that may mention an ancestor

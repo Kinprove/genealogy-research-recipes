@@ -85,14 +85,14 @@ are rejected. The schema is enforced by
 | --- | --- |
 | `id`, `title`, `summary` | Filename stem, exact first heading without the `Recipe:` prefix, and routing summary. The summary is the recipe's only line in the `SKILL.md` router: one sentence of at most 30 words that says what question it answers and where it applies, with no workflow count, version list or date. |
 | `kind` | `judgment`, `platform` (procedures for named tools/sites), or `records` (record types and custody). |
-| `scope` | `platforms` and `tasks` string lists. `tasks` are routing phrases that the summary does not already contain; the agent sees them in the header when it opens the recipe. Full router entries need at least one; a topic pointer may have none. |
+| `scope` | `platforms` and `tasks` string lists. `tasks` are routing phrases that the summary does not already contain; the agent sees them in the header when it opens the recipe. `tasks` may be empty. |
 | `privacy` | `none`, `living-person`, `genetic-self`, or `genetic-third-party`. This describes the gated data, not permission. |
 | `gates` | `privacy-transfer` for any extension, data-transfer or contact action; otherwise empty. |
 | `guardrails` | Nonempty list of `{id, text}` objects; IDs are globally unique. Each `text` is an exact excerpt of the recipe body (whitespace runs count as one space). The first rule is the recipe's core guardrail. |
 | `handoff` | Recipe IDs to consult next; all must exist. Local recipe links and code filenames are also checked. |
 | `checked`, `checked_basis` | ISO date and an exact dated excerpt from the source sidecar, or both `null` when no dated check is recorded. |
 | `capabilities` | String lists for `browse`, `local_script`, `extensions`, `data_transfer`, and `contact`. Described actions, not automatically executed tools. |
-| `router` | `tier` (`full` or `pointer`), topic `group`, and globally unique integer `order`. Full entries precede pointers. |
+| `router` | `section` (a `## Recipes: …` heading in `SKILL.md`), topic `group` (a `###` heading), and globally unique integer `order`. Each section and each group takes consecutive orders, so each gets one heading. |
 
 Use `text` for guardrails because existing rules include both prohibitions and
 positive obligations; a `never` key would invert a rule such as “preserve the

@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1084}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 44}
 ---
 
 # Recover a Russian-Empire Jewish metrical entry through the registering rabbinate and its substitutes

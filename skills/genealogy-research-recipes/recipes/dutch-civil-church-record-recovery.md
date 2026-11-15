@@ -11,7 +11,7 @@ handoff: ["probate-case-document-inventory"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Church and civil registers", "order": 1054}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 90}
 ---
 
 # Recover Dutch civil acts and the church register kept before civil registration
