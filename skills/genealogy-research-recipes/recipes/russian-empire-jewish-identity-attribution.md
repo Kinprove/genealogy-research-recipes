@@ -1,7 +1,7 @@
 ---
 id: "russian-empire-jewish-identity-attribution"
 title: "Name mismatch in a Russian-Empire Jewish family — which branch, and what DNA can still say"
-summary: "A Russian-Empire Jewish ancestor who turns up under a given name, patronymic or surname that fits neither candidate branch: the inverse of same-name collapse (one person, several names), read through the imperial record system — revision lists (ревизские сказки), family lists (посемейные списки), metrical books and recruit files as ledgers of *registration* (приписка), not vital records — with the naming and re-registration mechanisms (double names, head-of-household patronymics, heir naming, stepchild, fostered orphan, levy evasion, son-in-law surname, surname split, conversion) carried as competing hypotheses, and the \"prediction must differ\" test before any DNA is asked to choose between branches of one endogamous family."
+summary: "Resolve a Russian-Empire Jewish ancestor whose name fits neither candidate branch, using registration records, naming customs and careful DNA tests."
 kind: "records"
 scope: {"platforms": [], "tasks": ["\"which brother was his father\", a boy registered in a relative's household, a wife's child from a first marriage, a family hiding a son from the recruit levy / cantonists, brothers under different surnames, a patronymic that is the grandfather's or the husband's name, a person missing from a revision list, or DNA that \"can't tell the two branches apart\" under Ashkenazi endogamy plus repeated pedigree collapse."]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "ai-for-documentary-records", "beider-given-nam
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"tier": "full", "group": "Featured workflows", "order": 31}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 60}
 ---
 
 # Recipe: Name mismatch in a Russian-Empire Jewish family — which branch, and what DNA can still say

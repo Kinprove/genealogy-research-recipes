@@ -1,7 +1,7 @@
 ---
 id: "us-federal-court-case-file-recovery"
 title: "Recover a U.S. federal court case file"
-summary: "Take a lead to the right federal court for the period, its National Archives record group and index, and the loose case file."
+summary: "Take a lead to the right U.S. federal court for the period, its National Archives records and the case file."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "criminal-court-prison-record-recovery"]
 checked: "2026-11-07"
 checked_basis: "read 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1105}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 114}
 ---
 
 # Recover a U.S. federal court case file

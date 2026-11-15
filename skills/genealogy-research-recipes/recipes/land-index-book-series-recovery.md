@@ -1,7 +1,7 @@
 ---
 id: "land-index-book-series-recovery"
 title: "Recover land instruments through indexes, book series and entry files"
-summary: "Follow a land-record lead through both relevant index directions to the correct instrument and record-book series, or carry a federal patent lead into its separate entry file."
+summary: "Trace a land record through both index directions to the right instrument and book, or a federal patent to its entry file."
 kind: "records"
 scope: {"platforms": [], "tasks": ["grantor/grantee indexes, ambiguous book locators, separate book series, delayed recording, a surname search that missed the alternative index entry, Swedish property-book room/successor references and changed parcel designations, Bavarian property-protocol creators and tax-book identifier/volume handoffs, or cash-sale, bounty-land and homestead supporting packets."]}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["historical-map-record-recovery", "tax-roll-observation-workflow", "us
 checked: "2026-11-05"
 checked_basis: "checked 5 November 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 11}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 131}
 ---
 
 # Recipe: Recover land instruments through indexes, book series and entry files

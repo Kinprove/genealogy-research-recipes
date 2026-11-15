@@ -1,7 +1,7 @@
 ---
 id: "ancestry-record-search-recovery"
 title: "Ancestry record-search recovery"
-summary: "Recovering archival records missed by an Ancestry search. Diagnose scope and coverage before relaxing dates, places or names; use collection descriptions, original book indexes, census districts and the holding archive."
+summary: "Recover Ancestry records a search missed by checking collection scope and coverage before loosening dates, places or names."
 kind: "platform"
 scope: {"platforms": ["ancestry"], "tasks": ["an attached census disappearing from results, narrow Card Catalog matches, birthplace/residence confusion, conservative wildcard batches, name-free searches, book page versus image numbers, enumeration-district browsing, or index-only records."]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "dna-match-outreach-staging", "evidence-
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["ancestry"], "local_script": [], "extensions": [], "data_transfer": ["publish", "request"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 37}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 27}
 ---
 
 # Ancestry record-search recovery

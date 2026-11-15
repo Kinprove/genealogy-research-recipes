@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "German records", "order": 1081}
+router: {"section": "Records by country and region", "group": "Germany", "order": 74}
 ---
 
 # Read German official-gazette personnel, expulsion and expatriation notices as dated administrative notices

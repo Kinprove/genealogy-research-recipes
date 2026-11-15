@@ -1,7 +1,7 @@
 ---
 id: "brazilian-parish-civil-registry-recovery"
 title: "Recover a Brazilian ancestor in parish books, registry-office records and their substitutes"
-summary: "Find a Brazilian baptism, church marriage or burial, or a civil birth, marriage or death entry, and rebuild a family when the parish books are lost."
+summary: "Find a Brazilian parish or civil birth, marriage or death entry, and rebuild a family when parish books are lost."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["catholic-parish-diocesan-record-recovery", "evidence-proof-judgment",
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Church and civil registers", "order": 1051}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 122}
 ---
 
 # Recover a Brazilian ancestor in parish books, registry-office records and their substitutes

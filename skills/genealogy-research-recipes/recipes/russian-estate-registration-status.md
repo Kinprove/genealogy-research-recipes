@@ -1,7 +1,7 @@
 ---
 id: "russian-estate-registration-status"
 title: "Read a Russian-Empire estate label as a dated registration status and choose the series by date"
-summary: "Read a Russian-Empire estate label as a dated registration status and choose the record series by the date it was acquired."
+summary: "Read a Russian-Empire estate label as a dated registration status and pick the record series by when it was acquired."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["russian-revision-list-household-chaining"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1087}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 50}
 ---
 
 # Read a Russian-Empire estate label as a dated registration status and choose the series by date

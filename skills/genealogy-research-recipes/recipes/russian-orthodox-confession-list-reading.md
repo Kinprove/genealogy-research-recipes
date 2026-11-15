@@ -1,7 +1,7 @@
 ---
 id: "russian-orthodox-confession-list-reading"
 title: "Read Russian Orthodox confession lists household by household across years"
-summary: "Read Russian Orthodox confession lists by household across years, test ages and names, and check them against revision lists and metrical books."
+summary: "Read Russian Orthodox confession lists household by household across years and check them against revision lists and metrical books."
 kind: "records"
 scope: {"platforms": [], "tasks": ["исповедная ведомость, исповедная роспись or духовная роспись of the Russian Empire", "Compare исповедные ведомости across years"]}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "old-believer-sectarian-record-recovery", "
 checked: "2026-11-08"
 checked_basis: "opened 2026-11-08"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1094}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 46}
 ---
 
 # Read Russian Orthodox confession lists household by household across years

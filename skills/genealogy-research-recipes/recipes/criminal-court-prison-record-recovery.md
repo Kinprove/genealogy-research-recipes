@@ -1,7 +1,7 @@
 ---
 id: "criminal-court-prison-record-recovery"
 title: "Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes"
-summary: "From an arrest, prison or census-institution lead, find the court that tried the case and recover U.S. prison, inmate, clemency and pardon records; a state or local court's case file belongs to court case-file recovery, a federal one to federal court recovery. Its England/Wales sections cover no-fixed-abode leads, assize and Old Bailey trials, absconder notices, charge searches and sentence wording; its Swedish sections cover prison, police-gazette and court-copy searches."
+summary: "Trace a U.S., English, Welsh or Swedish arrest or imprisonment to its court, prison and pardon records; a state or local court's case file belongs to court case-file recovery."
 kind: "records"
 scope: {"platforms": [], "tasks": ["Sing Sing name indexes"]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["convict-transportation-record-chain", "court-case-file-recovery", "en
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1106}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 115}
 ---
 
 # Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes

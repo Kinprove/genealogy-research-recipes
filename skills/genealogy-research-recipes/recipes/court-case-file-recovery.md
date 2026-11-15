@@ -1,7 +1,7 @@
 ---
 id: "court-case-file-recovery"
 title: "Recover a U.S. court case file from its pointer records"
-summary: "Recover a U.S. state or local civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."
+summary: "Recover a U.S. state or local civil, divorce, criminal or incapacity case file through the records that point to it."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["criminal-court-prison-record-recovery", "us-federal-court-case-file-r
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1104}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 113}
 ---
 
 # Recover a U.S. court case file from its pointer records

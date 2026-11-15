@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-02"
 checked_basis: "checked 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1088}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 51}
 ---
 
 # Find household-level series in volost, village-society and town-administration fonds

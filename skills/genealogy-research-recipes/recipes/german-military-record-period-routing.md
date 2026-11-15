@@ -1,7 +1,7 @@
 ---
 id: "german-military-record-period-routing"
 title: "Route a German soldier to the military series that survive for his period, army and rank"
-summary: "Route a German soldier to the series that survive for his period, army and rank class; recover dated hospital-book episodes when personnel files are missing."
+summary: "Route a German soldier to the surviving series for his period, army and rank, including hospital books."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["galicia-bukovina-habsburg-record-routing"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "German records", "order": 1079}
+router: {"section": "Records by country and region", "group": "Germany", "order": 72}
 ---
 
 # Route a German soldier to the military series that survive for his period, army and rank

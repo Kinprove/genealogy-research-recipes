@@ -11,7 +11,7 @@ handoff: ["scandinavian-patronymic-farm-name-record-recovery", "tax-roll-observa
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Church and civil registers", "order": 1056}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 95}
 ---
 
 # Reconstruct a Swedish household through parish examination and moving registers

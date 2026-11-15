@@ -1,7 +1,7 @@
 ---
 id: "23andme-match-research"
 title: "Working with 23andMe DNA: matches, matrices, segments, and preservation"
-summary: "Twelve practical workflows for 23andMe match research, permitted comparisons, numerical matrices and dated preservation."
+summary: "Research 23andMe matches: the comparisons the site permits, numerical matrices, segment painting and preserving dated results."
 kind: "platform"
 scope: {"platforms": ["23andme", "dna-painter"], "tasks": ["match worksheets, connection permissions, selected-segment painting, parent-side information, ancestry confidence/history, legacy bucketing, reconstructed ancestors, extension exports/groups, manual shared-match charts, or floating research-tree branches."]}
 privacy: "genetic-third-party"
@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "evidence-proof-judgment", "unknown-parentage-w
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["23andme", "dna-painter"], "local_script": [], "extensions": ["Genea browser extension (optional)"], "data_transfer": ["export", "link", "third-party-tool", "upload"], "contact": ["contact"]}
-router: {"tier": "full", "group": "Featured workflows", "order": 38}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 18}
 ---
 
 # Working with 23andMe DNA: matches, matrices, segments, and preservation

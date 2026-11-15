@@ -1,7 +1,7 @@
 ---
 id: "agent-research-project"
 title: "Running a long genealogy project with an AI agent"
-summary: "Keep an AI agent's genealogy work honest over months: what counts as evidence, how to lay out Markdown research notes, what 'searched', 'saved' and 'done' must mean, how corrections reach every note, and how to delegate and write to a tree safely."
+summary: "Keep a months-long AI-agent genealogy project honest: evidence rules, Markdown notes, status words, corrections and safe tree writes."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["running a multi-session genealogy investigation with an AI agent", "keeping genealogy research notes in Markdown or Obsidian", "delegating genealogy reading to sub-agents", "carrying a correction through notes and a tree", "research vault", "Obsidian genealogy notes", "the agent says saved or done", "sub-agent genealogy research", "long genealogy project", "keep research across sessions", "correct a claim everywhere", "fill empty surname fields in a tree"]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "research-documentation", "source-citation"
 checked: null
 checked_basis: null
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool", "upload"], "contact": []}
-router: {"tier": "full", "group": "Evidence and documentation", "order": 136}
+router: {"section": "Research method", "group": "AI and long projects", "order": 4}
 ---
 
 # Running a long genealogy project with an AI agent

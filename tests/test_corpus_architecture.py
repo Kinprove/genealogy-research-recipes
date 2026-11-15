@@ -17,7 +17,8 @@ COURTS = ("court-case-file-recovery", "criminal-court-prison-record-recovery",
           "us-federal-court-case-file-recovery")
 EAST_GROUP = "Central and Eastern Europe by period state"
 EAST_ROUTERS = ("galicia-bukovina-habsburg-record-routing", "bessarabia-moldova-record-routing",
-                "historic-hungary-record-routing", "austrian-confessional-register-routing")
+                "historic-hungary-record-routing", "austrian-confessional-register-routing",
+                "polish-index-original-record-recovery")
 EAST_HANDOFFS = (
     ("galicia-bukovina-habsburg-record-routing", "bessarabia-moldova-record-routing"),
     ("bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing"),
@@ -53,13 +54,14 @@ class CorpusArchitectureTests(unittest.TestCase):
         self.assertIn("state or local", court["summary"])
         self.assertIn("Start here for a case file from any U.S. state, county or local court", court_body)
 
-    def test_eastern_europe_routers_form_the_first_topic_group(self):
+    def test_eastern_europe_routers_form_the_first_group_of_their_section(self):
         east = {slug: m["router"] for slug, (m, _) in self.recipes.items() if m["router"]["group"] == EAST_GROUP}
         self.assertEqual(set(east), set(EAST_ROUTERS))
-        self.assertEqual({route["tier"] for route in east.values()}, {"pointer"})
-        other_pointers = [m["router"]["order"] for slug, (m, _) in self.recipes.items()
-                          if m["router"]["tier"] == "pointer" and slug not in east]
-        self.assertLess(max(route["order"] for route in east.values()), min(other_pointers))
+        sections = {route["section"] for route in east.values()}
+        self.assertEqual(len(sections), 1)
+        same_section = [m["router"]["order"] for slug, (m, _) in self.recipes.items()
+                        if m["router"]["section"] in sections and slug not in east]
+        self.assertLess(max(route["order"] for route in east.values()), min(same_section))
 
     def test_every_router_group_heading_appears_once(self):
         start = self.skill.index(catalog.ROUTER_START)

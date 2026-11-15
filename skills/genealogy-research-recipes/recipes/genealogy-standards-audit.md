@@ -1,7 +1,7 @@
 ---
 id: "genealogy-standards-audit"
 title: "Auditing a genealogy research package against professional standards"
-summary: "Audit a dossier, report, proof draft or documented tree by tracing each claim through examined sources and explained reasoning."
+summary: "Audit a report, proof or documented tree against professional standards by tracing each claim to examined sources and reasoning."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["citation gaps, search coverage, negative-evidence claims, GPS review, dependent conclusions, or choosing a research report, proof statement, summary or argument."]}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment"]
 checked: "2026-10-07"
 checked_basis: "Checked 2026-10-07"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 7}
+router: {"section": "Research method", "group": "Evidence and proof", "order": 1}
 ---
 
 # Recipe: Auditing a genealogy research package against professional standards

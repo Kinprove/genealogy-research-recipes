@@ -1,7 +1,7 @@
 ---
 id: "russian-military-repression-record-episodes"
 title: "Recover separate military and Soviet-repression record episodes"
-summary: "Reconcile WWI/WWII and Soviet-repression records as separate dated source episodes."
+summary: "Read Russian WWI, Soviet WWII and repression records as separate dated episodes before merging them into one life."
 kind: "records"
 scope: {"platforms": [], "tasks": ["awards versus loss reports, repeated arrests or copied regional entries, GWAR and OBD Memorial queries, Russian-front WWI prisoners of war, WWII Soviet prisoners of war and occupation victims."]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["chechen-ingush-1944-deportation-records", "evidence-proof-judgment", 
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 6}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 58}
 ---
 
 # Recipe: Recover separate military and Soviet-repression record episodes

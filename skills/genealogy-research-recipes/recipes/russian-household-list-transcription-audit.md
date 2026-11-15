@@ -1,7 +1,7 @@
 ---
 id: "russian-household-list-transcription-audit"
 title: "Audit a transcription of a Russian confession list or revision list against the images"
-summary: "Audit a transcription of a Russian confession list or revision tale against the images: count the people first, settle glyphs against the same scribe, keep relationship chains, name forms and kin terms as written, and record the image value with its inconsistencies."
+summary: "Audit a transcription of a Russian confession list or revision tale against the images, keeping names, kin terms and counts as written."
 kind: "records"
 scope: {"platforms": [], "tasks": ["Audit a researcher's, volunteer's or model's transcription of a Russian Orthodox confession list (исповедная ведомость) or revision tale (ревизская сказка) against the images.", "Audit a spreadsheet of Russian household-list entries", "проверить расшифровку исповедной ведомости или ревизской сказки"]}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "historical-p
 checked: "2026-11-10"
 checked_basis: "opened 2026-11-10"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1095}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 47}
 ---
 
 # Audit a transcription of a Russian confession list or revision list against the images

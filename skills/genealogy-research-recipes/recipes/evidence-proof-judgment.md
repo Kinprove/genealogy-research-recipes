@@ -1,7 +1,7 @@
 ---
 id: "evidence-proof-judgment"
 title: "Correlating evidence & proving identity — the judgment AI gets wrong"
-summary: "Correlating evidence & proving identity: the judgment an AI gets WRONG when it recites the Genealogical Proof Standard but misapplies it — same-name conflation, conflict- flattening, over-reading a document, negative-evidence errors, DNA/documentary siloing, de-novo fabrication, and sycophancy toward the answer you want. Includes a premise and dependency register for investigating a tentative branch without silently inheriting its assumptions."
+summary: "Judge identity, conflicting records, indirect or negative evidence and DNA-plus-document proof before stating any genealogical conclusion."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["separating same-named people, resolving conflicting records, weighing indirect vs negative evidence, combining DNA with documents into ONE proof, conditional placements, discriminating hypothesis tests or revising dependent claims — **and** whenever you (the assistant) are about to state a genealogical conclusion."]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "ai-for-documentary-records", "ancestry-record-
 checked: "2026-10-07"
 checked_basis: "accessed 2026-10-07"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 30}
+router: {"section": "Research method", "group": "Evidence and proof", "order": 0}
 ---
 
 # Recipe: Correlating evidence & proving identity — the judgment AI gets wrong

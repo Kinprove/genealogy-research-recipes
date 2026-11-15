@@ -1,7 +1,7 @@
 ---
 id: "probate-case-document-inventory"
 title: "Inventory the documents of a probate case"
-summary: "Recover the documents behind a probate index, will or administrator's bond as a case inventory with unresolved leads."
+summary: "Recover every document behind a probate index, will or bond and list them as a case inventory with open leads."
 kind: "records"
 scope: {"platforms": [], "tasks": ["probate record series, references to other documents, later actions, non-will proceedings, Swedish court-copy versus heirs-original and poverty-certificate checks, reverse searches from a guardian to wards, or an estate search that stopped at the first useful document."]}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "evidence-proof-judgment", "land-index-boo
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 12}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 135}
 ---
 
 # Recipe: Inventory the documents of a probate case

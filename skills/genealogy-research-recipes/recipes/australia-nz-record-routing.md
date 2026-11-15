@@ -1,7 +1,7 @@
 ---
 id: "australia-nz-record-routing"
 title: "Route an Australian or New Zealand record to the holder and window of its date"
-summary: "Route an Australian or New Zealand birth, marriage, death, electoral roll, arrival, newspaper notice, Māori Land Court record or Aboriginal agency file to the holder and date window of its record."
+summary: "Route an Australian or New Zealand vital, electoral, arrival, Māori Land Court or Aboriginal agency record to its holder and date window."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["convict-transportation-record-chain", "evidence-proof-judgment", "his
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Country record routing", "order": 1064}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 123}
 ---
 
 # Route an Australian or New Zealand record to the holder and window of its date

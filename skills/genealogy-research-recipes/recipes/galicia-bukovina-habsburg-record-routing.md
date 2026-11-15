@@ -11,7 +11,7 @@ handoff: ["austrian-confessional-register-routing", "bessarabia-moldova-record-r
 checked: "2026-11-02"
 checked_basis: "checked on 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Central and Eastern Europe by period state", "order": 1038}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 38}
 ---
 
 # Route a Galician or Bukovinian record by date, confession and custodian

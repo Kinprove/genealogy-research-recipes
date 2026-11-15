@@ -1,7 +1,7 @@
 ---
 id: "family-interviews-and-oral-tradition"
 title: "Record a family interview or inherited account with its speaker, prompter and chain"
-summary: "Record an interview with a relative, a supplied recording or an inherited story with its speaker, prompter and chain of transmission."
+summary: "Record a relative's interview, a supplied recording or an inherited story with its speaker, prompter and chain of transmission."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": []}
-router: {"tier": "pointer", "group": "Family papers, photographs and oral history", "order": 1126}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 141}
 ---
 
 # Record a family interview or inherited account with its speaker, prompter and chain

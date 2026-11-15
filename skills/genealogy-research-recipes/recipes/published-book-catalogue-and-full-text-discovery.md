@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Places, maps, libraries and manuscripts", "order": 1119}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 32}
 ---
 
 # Find a published local history, compiled genealogy or family book across catalogues and full text

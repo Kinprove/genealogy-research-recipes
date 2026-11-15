@@ -1,7 +1,7 @@
 ---
 id: "jewish-archival-list-triage"
 title: "Finding Jewish genealogical lists behind archival catalogue titles"
-summary: "Select Ukrainian archival cases for named Jewish lists while separating title, geographical and document evidence."
+summary: "Select Ukrainian archival cases that hold named Jewish lists, separating title, place and document evidence."
 kind: "records"
 scope: {"platforms": [], "tasks": ["false-positive keywords, generic titles, civil-registration fund scope or candidate lists that have been presented as verified contents."]}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "corpus-seeded-name-search"]
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 0}
+router: {"section": "Records by country and region", "group": "Ukrainian archives", "order": 67}
 ---
 
 # Recipe: Finding Jewish genealogical lists behind archival catalogue titles

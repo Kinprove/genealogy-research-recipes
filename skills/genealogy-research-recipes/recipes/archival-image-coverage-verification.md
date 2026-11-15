@@ -1,7 +1,7 @@
 ---
 id: "archival-image-coverage-verification"
 title: "Verifying archival images, case boundaries and search coverage"
-summary: "Verify case boundaries, image order, transcript version and the pages and targets actually inspected."
+summary: "Check archival case boundaries, image order and which pages were actually inspected before calling a search complete."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["catalogue/cover disagreements, conflicting readings or completeness claims."]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "corpus-seeded-name-search", "evidence-p
 checked: "2026-10-18"
 checked_basis: "opened 2026-10-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 3}
+router: {"section": "Research method", "group": "Search coverage and name searches", "order": 6}
 ---
 
 # Recipe: Verifying archival images, case boundaries and search coverage

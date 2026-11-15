@@ -1,7 +1,7 @@
 ---
 id: "irish-probate-and-deed-recovery"
 title: "Recover an Irish will, grant or deed after the 1922 losses"
-summary: "Recover an Irish will, administration or deed after the 1922 losses through the surviving calendars, will books, indexes and the Registry of Deeds, north and south."
+summary: "Recover an Irish will, administration or deed after the 1922 losses through surviving calendars, will books and the Registry of Deeds."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["city-directory-observation-workflow", "deed-content-relationship-clue
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Irish and British records", "order": 1071}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 82}
 ---
 
 # Recover an Irish will, grant or deed after the 1922 losses

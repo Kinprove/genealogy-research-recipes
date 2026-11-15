@@ -1,7 +1,7 @@
 ---
 id: "dna-comparison-controls"
 title: "DNA comparison controls across services"
-summary: "Reconcile conflicting vendor or native results using exact tests, query controls, local marker coverage and reporting scope."
+summary: "Reconcile conflicting DNA results across testing companies and tools with exact tests, controls and marker coverage."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["an absent match, raw-file X coverage, PAR/build ambiguity or doubled totals."]}
 privacy: "genetic-third-party"
@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "gedmatch-practical-dna-workflows", "xdna-phasi
 checked: "2026-10-18"
 checked_basis: "checked 2026-10-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool", "upload"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 2}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 17}
 ---
 
 # Recipe: DNA comparison controls across services

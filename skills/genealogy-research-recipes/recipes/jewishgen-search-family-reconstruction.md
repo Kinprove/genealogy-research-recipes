@@ -1,7 +1,7 @@
 ---
 id: "jewishgen-search-family-reconstruction"
 title: "JewishGen searches that recover families missed by a name-and-town query"
-summary: "Retrieving JewishGen family records when names, ages, towns or a woman's surname are uncertain. Build explicit name-variant and mixed-field search batches, distinguish registration from residence, and look for wives' natal families or married daughters through children's records and household comparisons."
+summary: "Recover families a JewishGen name-and-town search missed: name variants, mixed-field batches, wives' natal families and married daughters."
 kind: "platform"
 scope: {"platforms": ["jewishgen"], "tasks": ["JewishGen exact, partial, phonetic or fuzzy searches; double names and patronymics; conflicting ages or delayed registration; a missing marriage record, unknown maiden name or daughter who disappears under a married surname; counting result rows as distinct entries, keying households on the original record, and telling an overflow, an error or an uncovered database from a completed search with no hits."]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "evidence-proof-judgment", "russi
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["jewishgen"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"tier": "full", "group": "Featured workflows", "order": 32}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 62}
 ---
 
 # Recipe: JewishGen searches that recover families missed by a name-and-town query

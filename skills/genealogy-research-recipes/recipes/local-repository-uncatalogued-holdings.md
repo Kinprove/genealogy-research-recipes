@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Places, maps, libraries and manuscripts", "order": 1122}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 35}
 ---
 
 # Ask for a local repository's uncatalogued holdings before reporting a negative
