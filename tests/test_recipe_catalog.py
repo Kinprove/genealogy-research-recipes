@@ -128,7 +128,9 @@ class RecipeCatalogTests(unittest.TestCase):
             skill.mkdir(parents=True)
             keep, remove = self.items[:2]
             (skill / "SKILL.md").write_text(catalog.render_router([keep, remove]))
-            (root / "README.md").write_text(catalog.render_capabilities([keep, remove]))
+            listed = f"- [kept]({catalog.SKILL_PATH.as_posix()}/recipes/{keep[0]['id']}.md)"
+            (root / "README.md").write_text(
+                f"# Recipes\n\n## Recipes\n\n{listed}\n\n" + catalog.render_capabilities([keep, remove]))
             outputs = list(catalog.generated_files(root, [keep]))
             for path, text in outputs:
                 self.assertNotIn(remove[0]["id"], text)
@@ -170,6 +172,23 @@ class RecipeCatalogTests(unittest.TestCase):
             (root / "README.md").write_text((ROOT / "README.md").read_text(encoding="utf-8"))
             with patch.object(catalog, "ROOT", root), patch.object(catalog, "load_catalog", return_value=self.items):
                 self.assertEqual(catalog.main(["--check"]), 1)
+
+    def test_readme_recipe_list_must_link_every_recipe(self):
+        rid = self.metadata["id"]
+        link = f"]({catalog.SKILL_PATH.as_posix()}/recipes/{rid}.md)"
+        readme = (ROOT / "README.md").read_text(encoding="utf-8")
+        self.assertIn(rid, catalog.readme_recipe_list(readme))
+        unlisted = readme.replace(link, "](elsewhere.md)", 1)
+        self.assertNotEqual(readme, unlisted)
+        self.assertIn(link, unlisted)  # the capability table still links it
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / catalog.SKILL_PATH).mkdir(parents=True)
+            (root / catalog.SKILL_PATH / "SKILL.md").write_text(
+                (ROOT / catalog.SKILL_PATH / "SKILL.md").read_text(encoding="utf-8"), encoding="utf-8")
+            (root / "README.md").write_text(unlisted, encoding="utf-8")
+            with self.assertRaisesRegex(catalog.CatalogError, f"## Recipes group: {rid}$"):
+                list(catalog.generated_files(root, self.items))
 
     def test_guardrail_ids_are_unique_across_recipes(self):
         self.metadata["guardrails"][0]["id"] = self.items[1][0]["guardrails"][0]["id"]
@@ -250,7 +269,9 @@ class RecipeCatalogTests(unittest.TestCase):
             (root / "tests").mkdir()
             (root / "tests/privacy_gate_inventory.json").write_text("[]")
             (skill / "SKILL.md").write_text(catalog.ROUTER_START + "\n" + catalog.ROUTER_END)
-            (root / "README.md").write_text(catalog.TABLE_START + "\n" + catalog.TABLE_END)
+            (root / "README.md").write_text(
+                f"# Recipes\n\n## Recipes\n\n- [new]({catalog.SKILL_PATH.as_posix()}/recipes/new-recipe.md)\n\n"
+                + catalog.TABLE_START + "\n" + catalog.TABLE_END)
             m = copy.deepcopy(self.metadata)
             m.update(id="new-recipe", kind="judgment", checked=None, checked_basis=None, handoff=[],
                      guardrails=[{"id": "NEW-01", "text": "Quote the reviewed rule."}])
