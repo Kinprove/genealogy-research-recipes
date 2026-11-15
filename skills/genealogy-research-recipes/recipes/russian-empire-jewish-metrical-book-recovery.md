@@ -87,6 +87,8 @@ For the transition years, search both the rabbinate books and the ZAGS registers
 
 A participant reported that ZAGS books up to about 1926 sit in the oblast archive and later books stay with ZAGS. [S3] Treat that cut-off as reported practice only. Confirm the current custody and access rule with the archive for the country and region concerned; the reported cut-off is not a retention rule.
 
+In Russia the term behind that report is statutory. Federal Law 143-FZ, Art. 77, keeps act books at ZAGS for one hundred years from the records and then sends them to the state archives, so the cut-off moves forward a year every year and reached the books of about 1926 in 2026. [S12 @2026-11-15] A 2023 Dzen guide applies the rule to the early Soviet act records and names the Central State Archive of Moscow Oblast (ЦГАМО) as their holder for Moscow guberniya. [S13 @2026-11-15] A book can stay at ZAGS past the term: first-copy books made before Federal Law 219-FZ of 2016 took effect go to the archive only after their data are entered in the unified register, as [Soviet personal-file recovery § 1](soviet-personal-file-recovery.md#1-read-the-negative-reply-before-you-treat-it-as-a-dead-end) notes. So read the term as where a book should be, not as proof of where it is. For Ukraine's 75-year term, see that section too.
+
 An early-Soviet village birth can produce the same layered replies as section 3. In one case a user received separate replies: "not preserved" for some years, "entry not found" for another year, and a further reply about a church parish book. Record each reply as its own row. [S3]
 
 ## Output: rabbinate jurisdiction and substitute register

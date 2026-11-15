@@ -1344,6 +1344,12 @@
   "checkpoint": "A submitter or a relative named on a Page may be"
  },
  {
+  "recipe": "holocaust-testimony-source-interpretation.md",
+  "kind": "request",
+  "action": "ask for the card under each accompanying adult's name",
+  "checkpoint": "An evacuation card can describe a person who"
+ },
+ {
   "recipe": "illegitimacy-record-recovery.md",
   "kind": "request",
   "action": "then seek the marriage entry and any legitimation, acknowledgment or amended birth record.",
@@ -1798,6 +1804,42 @@
   "kind": "request",
   "action": "make each missing link (for example one generation's birth or marriage certificate) its own early request",
   "checkpoint": "Requests for personal-file copies, archival certificates or kinship-proof certificates can concern people who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "When only the name and year of death are known, request a repeat death certificate.",
+  "checkpoint": "A ZAGS search or repeat-document request can concern acts naming people who may still be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "When the passport is lost, ask for its application card.",
+  "checkpoint": "A passport application card names the holder's parents and spouse, who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Ask for every set in the file.",
+  "checkpoint": "A party card names the member and relatives, some of whom may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Ask for the registration form, not only the card.",
+  "checkpoint": "A party card names the member and relatives, some of whom may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "ask the regional party archive for the card number first",
+  "checkpoint": "A party card names the member and relatives, some of whom may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "State how each household member is related to you and offer copies of the kinship documents.",
+  "checkpoint": "Household-book entries list every household member and their age, and some may still be living"
  },
  {
   "recipe": "spanish-civil-parish-record-routing.md",
