@@ -1,7 +1,7 @@
 ---
 id: "us-federal-court-case-file-recovery"
 title: "Recover a U.S. federal court case file"
-summary: "Take a lead to the right federal court for the period, its National Archives record group and index, and the loose case file."
+summary: "Take a lead to the right U.S. federal court for the period, its National Archives records and the case file."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

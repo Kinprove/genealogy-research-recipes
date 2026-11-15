@@ -1,7 +1,7 @@
 ---
 id: "early-new-england-town-records"
 title: "Read early New England town books across parent towns and decode Torrey entries"
-summary: "Resolve village names to recordkeeping towns, read early New England town books across parent, daughter and neighbouring towns, preserve foundling narrative fields and decode Torrey's marriage notation."
+summary: "Read early New England town books across parent, daughter and neighbouring towns, and decode Torrey's marriage notation."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

@@ -1,7 +1,7 @@
 ---
 id: "chechen-ingush-1944-deportation-records"
 title: "Trace a Chechen or Ingush family through the 1944 deportation and special settlement"
-summary: "Trace a Chechen or Ingush family through the 1944 deportation and special settlement, with both names of renamed places and both ends of the exile."
+summary: "Trace a Chechen or Ingush family through the 1944 deportation and special settlement, under old and new place names."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

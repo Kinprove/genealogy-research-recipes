@@ -1,7 +1,7 @@
 ---
 id: "english-nonregister-record-recovery"
 title: "Recover English records beyond the parish register"
-summary: "Take an English or Welsh question past the parish register to poor-law, apprenticeship, pre-1858 church-court probate, dissenter or Catholic series, and Welsh marriage supplements with house/farm clues."
+summary: "Take an English or Welsh question past the parish register to poor-law, apprenticeship, church-court probate, dissenter and Catholic records."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

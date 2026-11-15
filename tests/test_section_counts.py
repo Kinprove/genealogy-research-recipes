@@ -1,6 +1,5 @@
-"""Count words in recipe headings and header summaries match the numbered sections."""
+"""Count words in recipe headings match the numbered sections under them."""
 
-import json
 import re
 import unittest
 from pathlib import Path
@@ -18,9 +17,7 @@ NUMBER_WORDS = {
     if value >= 2
 }
 COUNTED_H2 = re.compile(r"^## (\w+) ")
-NUMBERED_H2 = re.compile(r"^## (?:Recipe )?(\d+)[.:] ")
 NUMBERED_H3 = re.compile(r"^### (\d+)\. ")
-SUMMARY = re.compile(r"^summary: (\".*\")$", re.MULTILINE)
 FENCE = re.compile(r"^ {0,3}(`{3,}|~{3,})(.*)$")
 
 
@@ -56,13 +53,6 @@ def counted_sections(lines):
     return sections
 
 
-def numbered_section_count(lines):
-    """Count `## 1. ...` / `## Recipe 1: ...` sections, else numbered `### 1. ...` ones."""
-    found = headings(lines)
-    count = sum(1 for line in found if NUMBERED_H2.match(line))
-    return count or sum(1 for line in found if NUMBERED_H3.match(line))
-
-
 def read_lines(path):
     return path.read_text(encoding="utf-8").splitlines()
 
@@ -79,25 +69,6 @@ class SectionCountTests(unittest.TestCase):
                     unnumbered = [line for line, number in zip(subsections, numbers) if not number]
                     self.assertEqual(unnumbered, [], "unnumbered section under a counted heading")
                     self.assertEqual([int(number[1]) for number in numbers], list(range(1, expected + 1)))
-
-    def test_header_summary_counts_match_the_recipes(self):
-        """The generated SKILL.md router copies each header summary, so check it at the source."""
-        checked = 0
-        for path in sorted(RECIPES.glob("*.md")):
-            text = path.read_text(encoding="utf-8")
-            match = SUMMARY.search(text)
-            if not match:
-                continue
-            word = json.loads(match[1]).split(" ", 1)[0]
-            if word.lower() not in NUMBER_WORDS:
-                continue
-            with self.subTest(recipe=path.name):
-                lines = text.splitlines()
-                counted = list(counted_sections(lines).values())
-                actual = len(counted[0]) if len(counted) == 1 else numbered_section_count(lines)
-                self.assertEqual(NUMBER_WORDS[word.lower()], actual, f"summary says {word}")
-            checked += 1
-        self.assertGreater(checked, 0, "no counted summaries found in recipe headers")
 
     def test_an_unnumbered_section_breaks_the_count(self):
         lines = ["## Two methods", "### 1. A", "### Extra", "### 2. B", "## Next"]

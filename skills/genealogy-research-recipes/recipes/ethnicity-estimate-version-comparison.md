@@ -1,7 +1,7 @@
 ---
 id: "ethnicity-estimate-version-comparison"
 title: "Save, date and compare successive ethnicity-estimate versions"
-summary: "Save, date and compare successive ethnicity-estimate versions (AncestryDNA, MyHeritage, FamilyTreeDNA)."
+summary: "Save, date and compare successive AncestryDNA, MyHeritage or FamilyTreeDNA ethnicity-estimate versions."
 kind: "judgment"
 scope: {"platforms": [], "tasks": []}
 privacy: "genetic-third-party"

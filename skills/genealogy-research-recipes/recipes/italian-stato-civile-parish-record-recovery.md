@@ -1,7 +1,7 @@
 ---
 id: "italian-stato-civile-parish-record-recovery"
 title: "Recover an Italian ancestor in the Stato civile, parish books and conscription lists"
-summary: "Send an Italian birth, marriage or death to the register that was the legal record in that place and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato civile), then search conscription lists and the population register as separate series."
+summary: "Send an Italian birth, marriage or death to the register legal in that place and year, then search conscription and population registers."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

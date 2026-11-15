@@ -1,7 +1,7 @@
 ---
 id: "jewish-genealogy-conditional-hypotheses"
 title: "Jewish genealogy: conditional naming, town and DNA clues"
-summary: "Apply working hypotheses to Jewish naming, locality and DNA clues while keeping each proposition separate."
+summary: "Test Jewish naming, ancestral-town and DNA clues as separate conditional hypotheses before linking a family."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["proposed parentage, name equivalence, namesakes, naming customs, ancestral towns, conditional branches or segment attribution through an endogamous pedigree."]}
 privacy: "none"

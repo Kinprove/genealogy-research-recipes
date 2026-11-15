@@ -1,7 +1,7 @@
 ---
 id: "canadian-provincial-record-routing"
 title: "Route a Canadian vital, military or Indigenous-series record to its province, custodian and access category"
-summary: "Route a Canadian vital registration, world-war personnel file, Métis or First Nations record, or British Home Child to the province, custodian and access category of its date and series."
+summary: "Route a Canadian vital record, war personnel file, Métis or First Nations record, or Home Child to its province, custodian and access category."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

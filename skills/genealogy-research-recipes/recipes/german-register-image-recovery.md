@@ -1,7 +1,7 @@
 ---
 id: "german-register-image-recovery"
 title: "Recover a German register entry through its locality, record offices and register version"
-summary: "Trace an emigrant's German place name to its church or civil register entry through the locality, record offices and register version; retain distinct named sponsor and proxy roles."
+summary: "Trace an emigrant's German place name to its church or civil register entry through locality, record office and register version."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

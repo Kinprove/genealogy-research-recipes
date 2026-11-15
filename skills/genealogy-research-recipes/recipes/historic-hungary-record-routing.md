@@ -1,7 +1,7 @@
 ---
 id: "historic-hungary-record-routing"
 title: "Route a record from historic Hungary by county, successor state and record type"
-summary: "Route a birth, marriage, death, census or tax entry from the pre-1920 Kingdom of Hungary by county, successor state and record type."
+summary: "Route a record from the pre-1920 Kingdom of Hungary by county, successor state and record type."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

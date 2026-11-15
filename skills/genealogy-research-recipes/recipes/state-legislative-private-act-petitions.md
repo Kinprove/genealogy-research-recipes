@@ -1,7 +1,7 @@
 ---
 id: "state-legislative-private-act-petitions"
 title: "Recover a state legislative private act and its petition"
-summary: "Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and the petition behind it."
+summary: "Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and its petition."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

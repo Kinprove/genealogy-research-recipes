@@ -1,7 +1,7 @@
 ---
 id: "ancestry-dna-match-investigation"
 title: "AncestryDNA: eight practical ways to investigate matches"
-summary: "Eight practical AncestryDNA workflows: use a target's closest relatives, build branch anchor tables, search collateral names, organize groups and notes, correct tester links, audit labels and recover missing match rows."
+summary: "Investigate AncestryDNA matches: closest relatives, shared-match groups, collateral names, notes, tester links and missing match rows."
 kind: "platform"
 scope: {"platforms": ["ancestrydna"], "tasks": ["AncestryDNA match investigation, Pro Tools Enhanced Shared Matches, colored dots, linked trees, ThruLines, access-dependent gaps or connecting a match to another testing site."]}
 privacy: "genetic-third-party"

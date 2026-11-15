@@ -1,7 +1,7 @@
 ---
 id: "russian-village-family-reconstitution"
 title: "Reconstitute a Russian village's families when a generation's records are missing"
-summary: "When a Russian peasant's own birth or parentage record is missing, index everyone the village's registers name, in every role, rebuild its couples and households across the household-list, metrical-book and civil-register years, and test each identity with countable checks."
+summary: "When a Russian peasant's birth or parentage record is missing, rebuild the village's couples and households from every register role."
 kind: "records"
 scope: {"platforms": [], "tasks": ["Find the father of a Russian Orthodox peasant born after the last confession lists, whose birth entry does not survive", "One man written under several surnames, or none, in metrical books and ZAGS registers", "восстановить семьи деревни по исповедным ведомостям, метрическим книгам и книгам ЗАГС"]}
 privacy: "none"

@@ -1,7 +1,7 @@
 ---
 id: "catholic-parish-diocesan-record-recovery"
 title: "Recover a Catholic sacramental entry through parish, diocesan and successor holdings"
-summary: "Build a holdings register for a Catholic sacrament across the parish, alternative parishes, the diocesan copy, the successor custodian, dispensation files and Puerto Rican probanzas de soltería."
+summary: "Search for a Catholic sacrament across the parish, nearby parishes, the diocesan copy, the successor custodian and dispensation files."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

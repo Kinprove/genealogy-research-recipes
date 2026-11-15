@@ -1,7 +1,7 @@
 ---
 id: "irish-catholic-parish-image-recovery"
 title: "Recover an Irish Catholic parish entry at the NLI"
-summary: "Carry an Irish Catholic baptism or marriage lead into the NLI parish-register images and locate the actual entry."
+summary: "Find an Irish Catholic baptism or marriage in the National Library of Ireland's parish-register images."
 kind: "records"
 scope: {"platforms": [], "tasks": ["RootsIreland/Findmypast transcriptions, Catholic parish/register selection, a link opening the register's first page, date browsing or exact image citations."]}
 privacy: "living-person"

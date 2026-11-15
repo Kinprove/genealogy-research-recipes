@@ -1,7 +1,7 @@
 ---
 id: "family-interviews-and-oral-tradition"
 title: "Record a family interview or inherited account with its speaker, prompter and chain"
-summary: "Record an interview with a relative, a supplied recording or an inherited story with its speaker, prompter and chain of transmission."
+summary: "Record a relative's interview, a supplied recording or an inherited story with its speaker, prompter and chain of transmission."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

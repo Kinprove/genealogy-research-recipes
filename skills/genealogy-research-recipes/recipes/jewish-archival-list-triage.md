@@ -1,7 +1,7 @@
 ---
 id: "jewish-archival-list-triage"
 title: "Finding Jewish genealogical lists behind archival catalogue titles"
-summary: "Select Ukrainian archival cases for named Jewish lists while separating title, geographical and document evidence."
+summary: "Select Ukrainian archival cases that hold named Jewish lists, separating title, place and document evidence."
 kind: "records"
 scope: {"platforms": [], "tasks": ["false-positive keywords, generic titles, civil-registration fund scope or candidate lists that have been presented as verified contents."]}
 privacy: "none"

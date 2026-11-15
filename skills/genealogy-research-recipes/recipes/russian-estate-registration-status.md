@@ -1,7 +1,7 @@
 ---
 id: "russian-estate-registration-status"
 title: "Read a Russian-Empire estate label as a dated registration status and choose the series by date"
-summary: "Read a Russian-Empire estate label as a dated registration status and choose the record series by the date it was acquired."
+summary: "Read a Russian-Empire estate label as a dated registration status and pick the record series by when it was acquired."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

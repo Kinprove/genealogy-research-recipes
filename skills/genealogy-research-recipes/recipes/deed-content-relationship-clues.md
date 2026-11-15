@@ -1,7 +1,7 @@
 ---
 id: "deed-content-relationship-clues"
 title: "Read deed content as dated relationship, probate, migration and parcel hypotheses"
-summary: "Read a retrieved deed's type, consideration, estate terms, parties, court-bond security recitals and parcel for dated clues to heirship, probate, migration or land identity."
+summary: "Read a deed's type, consideration, terms, parties and parcel for dated clues to heirship, probate, migration or land identity."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

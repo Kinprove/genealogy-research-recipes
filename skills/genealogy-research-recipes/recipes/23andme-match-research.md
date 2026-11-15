@@ -1,7 +1,7 @@
 ---
 id: "23andme-match-research"
 title: "Working with 23andMe DNA: matches, matrices, segments, and preservation"
-summary: "Twelve practical workflows for 23andMe match research, permitted comparisons, numerical matrices and dated preservation."
+summary: "Research 23andMe matches: the comparisons the site permits, numerical matrices, segment painting and preserving dated results."
 kind: "platform"
 scope: {"platforms": ["23andme", "dna-painter"], "tasks": ["match worksheets, connection permissions, selected-segment painting, parent-side information, ancestry confidence/history, legacy bucketing, reconstructed ancestors, extension exports/groups, manual shared-match charts, or floating research-tree branches."]}
 privacy: "genetic-third-party"

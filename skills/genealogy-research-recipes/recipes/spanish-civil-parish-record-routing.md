@@ -1,7 +1,7 @@
 ---
 id: "spanish-civil-parish-record-routing"
 title: "Route a Spanish or Andorran record to the archive that holds it on the event date"
-summary: "Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the body that holds it on the event date."
+summary: "Route a Spanish or Andorran vital, padrón, notarial, military or Civil War record to the body that holds it on the event date."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

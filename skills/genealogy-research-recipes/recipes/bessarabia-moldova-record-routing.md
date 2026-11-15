@@ -1,7 +1,7 @@
 ---
 id: "bessarabia-moldova-record-routing"
 title: "Route a Bessarabian or Moldovan record by date, district and bank of the Dniester"
-summary: "Route a Bessarabian, Moldovan or left-bank Dniester event by its date, district and present custodian, then search ANA fond 211 by opis."
+summary: "Route a Bessarabian, Moldovan or left-bank Dniester event by date, district and present custodian."
 kind: "records"
 scope: {"platforms": [], "tasks": ["Search Bessarabian and Chișinău notarial acts in the ANA notarial fonds by office, notary and year.", "Search Bessarabian and Moldovan newspapers in the Arcanum database and read each hit on the page image."]}
 privacy: "living-person"

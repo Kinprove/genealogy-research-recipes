@@ -1,7 +1,7 @@
 ---
 id: "court-case-file-recovery"
 title: "Recover a U.S. court case file from its pointer records"
-summary: "Recover a U.S. state or local civil, chancery, divorce, criminal or incapacity case file through the records that point to it, then inventory its loose papers."
+summary: "Recover a U.S. state or local civil, divorce, criminal or incapacity case file through the records that point to it."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

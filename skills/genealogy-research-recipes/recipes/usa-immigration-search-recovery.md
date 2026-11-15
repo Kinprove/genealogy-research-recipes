@@ -1,7 +1,7 @@
 ---
 id: "usa-immigration-search-recovery"
 title: "Recover U.S. immigration and naturalization records"
-summary: "Twelve historical U.S. immigration workflows: reconstruct journeys, test port, airport and border coverage, recover name variants, pair departures with arrivals, read complete manifests, distinguish detention outcomes, interpret dated verification marks, find naturalizations across courts, check historical citizenship rules, locate federal files and recover broken image links."
+summary: "Trace U.S. immigration and naturalization by sea, air or land border, and read manifests, verification marks and federal files."
 kind: "records"
 scope: {"platforms": [], "tasks": ["ship and aircraft passenger lists, Canada/Mexico crossing records, naturalization minute books, C-files, A-files and AR-2 records."]}
 privacy: "living-person"

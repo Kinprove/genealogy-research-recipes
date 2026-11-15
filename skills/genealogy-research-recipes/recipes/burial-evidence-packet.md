@@ -1,7 +1,7 @@
 ---
 id: "burial-evidence-packet"
 title: "Build a burial evidence packet from cemetery records"
-summary: "Recover a cemetery entry, its photograph or inscription, and the plot and cemetery-record locators needed to inspect the burial."
+summary: "Recover a cemetery entry, its photo or inscription, and the plot and register locators needed to check a burial."
 kind: "records"
 scope: {"platforms": [], "tasks": ["cemetery coverage, surname variants, Hebrew and civil inscriptions, death/burial discrepancies or a database hit that needs a cemetery-record follow-up", "names on a Soviet mass-grave plate"]}
 privacy: "living-person"

@@ -1,7 +1,7 @@
 ---
 id: "probate-case-document-inventory"
 title: "Inventory the documents of a probate case"
-summary: "Recover the documents behind a probate index, will or administrator's bond as a case inventory with unresolved leads."
+summary: "Recover every document behind a probate index, will or bond and list them as a case inventory with open leads."
 kind: "records"
 scope: {"platforms": [], "tasks": ["probate record series, references to other documents, later actions, non-will proceedings, Swedish court-copy versus heirs-original and poverty-certificate checks, reverse searches from a guardian to wards, or an estate search that stopped at the first useful document."]}
 privacy: "none"

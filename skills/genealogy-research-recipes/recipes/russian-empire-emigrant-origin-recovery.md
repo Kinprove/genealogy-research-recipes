@@ -1,7 +1,7 @@
 ---
 id: "russian-empire-emigrant-origin-recovery"
 title: "Recovering a Russian Empire emigrant's origin locality"
-summary: "Five workflows for tracing an emigrant from destination records to an exact historical locality: reconcile arrival clues, recover failed name searches, extract complete manifests, follow contact/travel networks, and prepare a locality and archive handoff. Principally 1880–1924 U.S. arrivals, including Canadian transit, across confessions."
+summary: "Trace a Russian Empire emigrant from U.S. arrival records, including Canadian transit, back to an exact home locality, mainly 1880–1924."
 kind: "records"
 scope: {"platforms": [], "tasks": ["conflicting arrival years, changing names, missing manifest pages, two contact fields, separate family arrivals, residence/birthplace ambiguity or an unresolved origin town."]}
 privacy: "living-person"

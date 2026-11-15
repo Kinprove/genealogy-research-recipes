@@ -1,7 +1,7 @@
 ---
 id: "russian-military-repression-record-episodes"
 title: "Recover separate military and Soviet-repression record episodes"
-summary: "Reconcile WWI/WWII and Soviet-repression records as separate dated source episodes."
+summary: "Read Russian WWI, Soviet WWII and repression records as separate dated episodes before merging them into one life."
 kind: "records"
 scope: {"platforms": [], "tasks": ["awards versus loss reports, repeated arrests or copied regional entries, GWAR and OBD Memorial queries, Russian-front WWI prisoners of war, WWII Soviet prisoners of war and occupation victims."]}
 privacy: "living-person"

@@ -1,7 +1,7 @@
 ---
 id: "us-period-law-record-reading"
 title: "Read U.S. records under the law and legal language of their own place and date"
-summary: "Read a U.S. record's legal words, courts, bonds, and age or inheritance rules under the law of its own place and date, and keep each inference within what that law required."
+summary: "Read a U.S. record's legal terms, courts, bonds, age and inheritance rules under the law of its place and date."
 kind: "records"
 scope: {"platforms": [], "tasks": ["dower, dowry, next friend, adr c t a, voidable, penal sum or mainpernor in a record", "Did the law of that place and date allow this marriage or inheritance"]}
 privacy: "none"

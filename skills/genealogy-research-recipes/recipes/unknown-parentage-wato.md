@@ -1,7 +1,7 @@
 ---
 id: "unknown-parentage-wato"
 title: "Work an unknown-parentage case with DNA matches and WATO"
-summary: "Placing an unknown person (an unknown parent, an adoptee's bio-parent, an unplaced ancestor) into a tree using DNA matches + WATO odds."
+summary: "Place an unknown parent, an adoptee's birth family or an unplaced ancestor in a tree with DNA matches and WATO hypotheses."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["\"who is my unknown grandfather/father\", adoptee bio-family search, WATO hypothesis scoring, clustering matches to an ancestral couple, tied hypotheses, choosing a discriminating tester, or deciding which observations to withhold from a calculation."]}
 privacy: "genetic-third-party"

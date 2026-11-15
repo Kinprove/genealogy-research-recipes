@@ -1,7 +1,7 @@
 ---
 id: "newspapers-com-search-recovery"
 title: "Newspapers.com: Recover Notices That Name Searches Miss"
-summary: "Recovering newspaper notices when issue coverage, printed names or OCR hide an ancestor on Newspapers.com. Build a title–holding–issue register first, resolve another holding when coverage is insufficient, then search initials, married names, associates, occupations and addresses and verify the original notice."
+summary: "Find notices on Newspapers.com that name searches miss, after checking which titles and issues are actually covered."
 kind: "platform"
 scope: {"platforms": ["newspapers.com"], "tasks": ["a failed newspaper name search, an unknown maiden name, a missing obituary, immigration or family-reconstruction leads, title changes, incomplete issue coverage, alternate holdings or unreadable OCR."]}
 privacy: "none"

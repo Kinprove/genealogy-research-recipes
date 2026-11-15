@@ -1,7 +1,7 @@
 ---
 id: "ai-for-dna-research"
 title: "Using AI reliably in DNA genealogy research"
-summary: "Using an AI assistant *reliably* on DNA/genealogy work: what to delegate freely, what to never trust, and the prompt patterns that work. Includes endogamous match prioritization, segment attribution, targeted testing of outmarrying branches, and coherent family comparisons across tested ancestors, siblings and descendants. *Also use for:* \"how are these two families connected\", multiple related focal testers, repeated descent paths, a long segment in a relative that is shorter/absent in a descendant, mixed-origin segment overhangs, fused clusters, validating a match's own pedigree, or inspecting supplied ethnicity-region maps and AncestryDNA Journeys timelines for locality-search leads."
+summary: "Use AI on DNA work: what to delegate, what never to trust, endogamy, segment attribution and comparing related testers."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["any \"can AI/ChatGPT/Claude help me with my DNA / tree / citations\", **or** whenever you (the assistant) are about to compute or assert something in this domain."]}
 privacy: "genetic-third-party"

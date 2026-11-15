@@ -1,7 +1,7 @@
 ---
 id: "us-vital-registration-coverage"
 title: "Build a U.S. vital-registration coverage register before calling a birth or death record missing"
-summary: "Build a register of every U.S. birth and death registration authority and series before calling a record missing."
+summary: "List every U.S. birth and death registration authority and series before calling a record missing."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

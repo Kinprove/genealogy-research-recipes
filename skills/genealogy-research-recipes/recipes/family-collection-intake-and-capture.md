@@ -1,7 +1,7 @@
 ---
 id: "family-collection-intake-and-capture"
 title: "Take in, capture and hand over an inherited family collection"
-summary: "Take in, inventory, plan the capture of and hand over an inherited family collection of boxes, albums, loose photographs, papers or existing scans."
+summary: "Inventory, plan the capture of and hand over an inherited family collection of albums, photographs, papers or scans."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

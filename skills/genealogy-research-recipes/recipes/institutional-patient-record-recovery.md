@@ -1,7 +1,7 @@
 ---
 id: "institutional-patient-record-recovery"
 title: "Recover an asylum or state-hospital patient through custodians, courts and newspapers"
-summary: "Seek asylum or state-hospital records through the custodian, court and newspapers; in Dutch research, check a child's marriage papers and locally described admission correspondence."
+summary: "Find asylum or state-hospital patient records through custodians, courts and newspapers, including Dutch admission correspondence."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

@@ -1,7 +1,7 @@
 ---
 id: "ai-for-documentary-records"
 title: "Using AI reliably in documentary & records genealogy research"
-summary: "Using an AI assistant *reliably* on DOCUMENTARY / records work (NOT DNA): handwriting transcription & translation, AI full-text / OCR finding aids (FamilySearch Full-Text Search), reviewing & correcting AI-indexed records, evaluating AI record hints, and image restoration / colorization / generation & evidentiary trust."
+summary: "Use AI safely on records: handwriting transcription and translation, OCR full-text search, AI-indexed records, record hints and photo restoration."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["any \"can AI/ChatGPT/Gemini transcribe or translate this handwriting\", \"full-text search for unindexed deeds/probate\", \"correct AI-indexed records\", \"evaluate an AI record hint\", \"colorize/restore an old photo\"."]}
 privacy: "living-person"

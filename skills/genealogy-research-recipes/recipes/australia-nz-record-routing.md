@@ -1,7 +1,7 @@
 ---
 id: "australia-nz-record-routing"
 title: "Route an Australian or New Zealand record to the holder and window of its date"
-summary: "Route an Australian or New Zealand birth, marriage, death, electoral roll, arrival, newspaper notice, Māori Land Court record or Aboriginal agency file to the holder and date window of its record."
+summary: "Route an Australian or New Zealand vital, electoral, arrival, Māori Land Court or Aboriginal agency record to its holder and date window."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

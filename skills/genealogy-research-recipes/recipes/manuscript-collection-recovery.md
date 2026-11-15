@@ -1,7 +1,7 @@
 ---
 id: "manuscript-collection-recovery"
 title: "Recover manuscript and archival collections that may mention an ancestor"
-summary: "Find personal, family and organisational papers by context, alternate ledger/daybook labels and an established society's personal-name index; request linked account pages or a complete claim folder with earlier applications."
+summary: "Find personal, family and organisational papers that may mention an ancestor, including ledgers, daybooks and claim folders."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

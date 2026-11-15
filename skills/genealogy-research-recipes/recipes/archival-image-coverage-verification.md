@@ -1,7 +1,7 @@
 ---
 id: "archival-image-coverage-verification"
 title: "Verifying archival images, case boundaries and search coverage"
-summary: "Verify case boundaries, image order, transcript version and the pages and targets actually inspected."
+summary: "Check archival case boundaries, image order and which pages were actually inspected before calling a search complete."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["catalogue/cover disagreements, conflicting readings or completeness claims."]}
 privacy: "living-person"

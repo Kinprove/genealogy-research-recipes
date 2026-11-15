@@ -1,7 +1,7 @@
 ---
 id: "us-tribal-enrollment-record-recovery"
 title: "Find a claimed Native American ancestor on the right tribal roll, and read what the roll proves"
-summary: "Find a claimed Native American ancestor on the roll that fits the tribe, place and period, find who holds it now, and read what an enrollment, a rejected application or an absence proves."
+summary: "Find a claimed Native American ancestor on the right tribal roll and read what enrollment, rejection or absence proves."
 kind: "records"
 scope: {"platforms": [], "tasks": ["family lore of a Cherokee or other tribal ancestor", "Dawes, Guion Miller, Baker or Indian Census Rolls", "an ancestor missing from the Dawes Rolls or a rejected enrollment application"]}
 privacy: "living-person"

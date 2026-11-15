@@ -6,7 +6,6 @@ import datetime as dt
 import json
 import re
 import sys
-import textwrap
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
@@ -24,6 +23,10 @@ FIELDS = {
 }
 CAPABILITIES = {"browse", "local_script", "extensions", "data_transfer", "contact"}
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
+# The summary is the recipe's one routing line in SKILL.md: one short sentence, no workflow count.
+SUMMARY_MAX_WORDS = 30
+COUNT_OPENING = re.compile(r"(?:\d+|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|"
+                           r"thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\b", re.I)
 
 
 class CatalogError(ValueError):
@@ -96,6 +99,8 @@ def validate_header(m, body, filename, today):
     require(isinstance(scope, dict) and set(scope) == {"platforms", "tasks"}, "invalid scope")
     require(string_list(scope["platforms"]) and string_list(scope["tasks"]), "invalid scope lists")
     require(scope["tasks"] or route["tier"] != "full", "full router entries need tasks")
+    require(len(m["summary"].split()) <= SUMMARY_MAX_WORDS, f"summary longer than {SUMMARY_MAX_WORDS} words")
+    require(not COUNT_OPENING.match(m["summary"]), "summary opens with a count")
     summary = normalized(m["summary"]).casefold()
     for task in scope["tasks"]:
         require(normalized(task).casefold().rstrip(".") not in summary,
@@ -238,38 +243,24 @@ def load_catalog(root=None, today=None, replacement=None):
     return catalog
 
 
-def wrap(text):
-    return textwrap.fill(text, width=100, initial_indent="  ", subsequent_indent="  ",
-                         break_long_words=False, break_on_hyphens=False)
-
-
 def render_router(catalog):
+    """One line per recipe, grouped by topic; tasks and guardrails stay in the recipe."""
     lines = [ROUTER_START, "## Recipes", "",
-             "Generated from the recipe headers. Full entries list the tasks they serve and quote the",
-             "recipe's core guardrail. The short topic pointers are discovery links; they list tasks only",
-             "where the header names some beyond the summary. Both tiers require reading the recipe before",
-             "advising. A dated source check is a maintenance reminder, not verification of every claim or",
-             "live control.", ""]
+             "Generated from the recipe headers: one line per recipe, grouped by topic. Read the",
+             "selected recipe before advising."]
     group = None
     pointer = False
     for m, _ in catalog:
         route = m["router"]
         if route["tier"] == "pointer" and not pointer:
-            lines += ["## More recipes by topic", ""]
+            lines += ["", "## More recipes by topic"]
             pointer = True
             group = None
         if route["group"] != group:
             group = route["group"]
-            lines += ["### " + group, ""]
-        lines += [f"- **`recipes/{m['id']}.md`** — {m['title']}.", wrap(m["summary"])]
-        if m["scope"]["tasks"]:
-            lines += [wrap("*Use for:* " + "; ".join(m["scope"]["tasks"]))]
-        if route["tier"] == "full":
-            lines += [wrap("*Core guardrail:* " + m["guardrails"][0]["text"])]
-        if m["kind"] == "platform":
-            lines += [wrap(f"*Dated source check:* {m['checked']}.")]
-        lines += [""]
-    lines += [ROUTER_END]
+            lines += ["", "### " + group, ""]
+        lines += [f"- `recipes/{m['id']}.md` — {m['summary']}"]
+    lines += ["", ROUTER_END]
     return "\n".join(lines)
 
 

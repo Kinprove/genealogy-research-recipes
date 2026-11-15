@@ -90,18 +90,27 @@ class RecipeCatalogTests(unittest.TestCase):
                            {"id": "T-02", "text": "A rule the body never states."}]
         self.assert_invalid(m, "guardrail T-02 is not an excerpt", body)
 
-    def test_router_prints_tasks_in_both_tiers_and_the_core_guardrail_for_full_entries(self):
+    def test_summary_is_one_short_line_without_a_count(self):
+        m = copy.deepcopy(self.metadata)
+        m["summary"] = " ".join(["word"] * (catalog.SUMMARY_MAX_WORDS + 1)) + "."
+        self.assert_invalid(m, "summary longer than")
+        for opening in ("Eight practical Geni workflows.", "12 workflows for matches."):
+            m["summary"] = opening
+            with self.subTest(opening=opening):
+                self.assert_invalid(m, "summary opens with a count")
+        m["summary"] = "Use Geni for name variants and merges."
+        catalog.validate_header(m, self.body, m["id"] + ".md", self.today)
+
+    def test_router_prints_one_line_per_recipe_under_its_group(self):
         full = copy.deepcopy(next(item for item in self.items if item[0]["router"]["tier"] == "full"))
         pointer = copy.deepcopy(next(item for item in self.items if item[0]["router"]["tier"] == "pointer"))
-        pointer[0]["scope"]["tasks"] = []
         head, tail = catalog.render_router([full, pointer]).split("## More recipes by topic")
-        self.assertIn("*Use for:* " + full[0]["scope"]["tasks"][0].split()[0], head)
-        self.assertIn("*Core guardrail:*", head)
-        self.assertNotIn("*Use for:*", tail)
-        self.assertNotIn("*Core guardrail:*", tail)
-        pointer[0]["scope"]["tasks"] = ["Search auction lots", "Read the lot photographs"]
-        tail = catalog.render_router([full, pointer]).split("## More recipes by topic")[1]
-        self.assertIn("*Use for:* Search auction lots; Read the lot photographs", tail)
+        for (m, _), part in ((full, head), (pointer, tail)):
+            self.assertIn(f"### {m['router']['group']}\n\n- `recipes/{m['id']}.md` — {m['summary']}\n", part)
+        router = head + tail
+        self.assertNotIn(full[0]["guardrails"][0]["text"], router)
+        self.assertNotIn(full[0]["scope"]["tasks"][0], router)
+        self.assertNotIn(str(full[0]["checked"]), router)
 
     def test_dangling_references_fail_in_body_and_handoff(self):
         for reference in ("[other](no-such-recipe.md)", "**`recipes/no-such-recipe.md`**",
@@ -149,7 +158,7 @@ class RecipeCatalogTests(unittest.TestCase):
         with self.assertRaisesRegex(catalog.CatalogError, "topic opening date"):
             catalog.load_catalog(replacement=(m["id"] + ".md", catalog.emit_recipe(m, body)))
 
-    def test_router_dangling_reference_and_changed_core_guardrail_fail(self):
+    def test_router_dangling_reference_and_changed_summary_fail(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             skill = root / catalog.SKILL_PATH
@@ -160,15 +169,17 @@ class RecipeCatalogTests(unittest.TestCase):
                 list(catalog.generated_files(root, self.items))
         original = catalog.render_router(self.items)
         changed = copy.deepcopy(self.items)
-        changed[0][0]["guardrails"][0]["text"] = "A different rule."
+        changed[0][0]["summary"] = "A different summary."
         self.assertNotEqual(original, catalog.render_router(changed))
-        self.assertIn("*Core guardrail:* A different rule.", catalog.render_router(changed))
+        self.assertIn(f"`recipes/{changed[0][0]['id']}.md` — A different summary.", catalog.render_router(changed))
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             skill = root / catalog.SKILL_PATH
             skill.mkdir(parents=True)
             source = (ROOT / catalog.SKILL_PATH / "SKILL.md").read_text(encoding="utf-8")
-            (skill / "SKILL.md").write_text(source.replace("*Core guardrail:*", "*Changed guardrail:*", 1))
+            summary = self.items[0][0]["summary"]
+            self.assertIn(summary, source)
+            (skill / "SKILL.md").write_text(source.replace(summary, "A stale summary.", 1))
             (root / "README.md").write_text((ROOT / "README.md").read_text(encoding="utf-8"))
             with patch.object(catalog, "ROOT", root), patch.object(catalog, "load_catalog", return_value=self.items):
                 self.assertEqual(catalog.main(["--check"]), 1)
@@ -294,7 +305,7 @@ class RecipeCatalogTests(unittest.TestCase):
             m2, b2 = catalog.parse_recipe((skill / "recipes/new-recipe.md").read_text())
             self.assertEqual((m2, b2), (m, body))
             self.assertIn("new-recipe", (root / "README.md").read_text())
-            self.assertIn(m["guardrails"][0]["text"], " ".join((skill / "SKILL.md").read_text().split()))
+            self.assertIn(f"- `recipes/new-recipe.md` — {m['summary']}", (skill / "SKILL.md").read_text())
 
     def test_command_check_runs_without_optional_host_dependencies(self):
         process = subprocess.run([sys.executable, "-B", "scripts/recipe_catalog.py", "--check"],

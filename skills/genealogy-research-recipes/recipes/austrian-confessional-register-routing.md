@@ -1,7 +1,7 @@
 ---
 id: "austrian-confessional-register-routing"
 title: "Route an Austrian or Czech-lands vital event to the confessional register that recorded it"
-summary: "Route an Austrian or Czech-lands vital event to the register that legally recorded it: a confessional register, the 1870 register for people outside a recognised church, or the regional archive that now holds the books."
+summary: "Route an Austrian or Czech-lands birth, marriage or death to the confessional or civil register that legally recorded it."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

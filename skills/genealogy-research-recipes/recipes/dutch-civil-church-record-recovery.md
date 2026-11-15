@@ -1,7 +1,7 @@
 ---
 id: "dutch-civil-church-record-recovery"
 title: "Recover Dutch civil acts and the church register kept before civil registration"
-summary: "Recover Dutch acts through ten-year tables, marriage supplements, separate contracts and guardian agreements; search burial/fee entries under the household head and trace the church registers kept before civil registration began."
+summary: "Recover Dutch civil acts through ten-year indexes and marriage supplements, and the church registers kept before civil registration."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

@@ -1,7 +1,7 @@
 ---
 id: "russian-orthodox-confession-list-reading"
 title: "Read Russian Orthodox confession lists household by household across years"
-summary: "Read Russian Orthodox confession lists by household across years, test ages and names, and check them against revision lists and metrical books."
+summary: "Read Russian Orthodox confession lists household by household across years and check them against revision lists and metrical books."
 kind: "records"
 scope: {"platforms": [], "tasks": ["исповедная ведомость, исповедная роспись or духовная роспись of the Russian Empire", "Compare исповедные ведомости across years"]}
 privacy: "none"

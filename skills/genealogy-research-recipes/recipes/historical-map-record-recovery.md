@@ -1,7 +1,7 @@
 ---
 id: "historical-map-record-recovery"
 title: "Recover and read historical maps as dated, copy-specific evidence"
-summary: "Read a fire-insurance sheet, atlas, plat, quadrangle or overlay as a dated observation; trace a detached archival map toward its possible originating case."
+summary: "Read a historical map, atlas, plat or fire-insurance sheet as dated evidence, and trace a detached archival map to its case."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

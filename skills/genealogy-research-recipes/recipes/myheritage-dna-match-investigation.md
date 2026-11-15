@@ -1,7 +1,7 @@
 ---
 id: "myheritage-dna-match-investigation"
 title: "MyHeritage DNA match investigation playbook"
-summary: "Nine practical MyHeritage DNA workflows: select the right kit, preserve theories before reassignment, build filtered shortlists, use labels and notes, capture pair-specific shared-match values, compare triangulation subsets, audit theory connections, recover private-tree leads, contact matches and resume dated packets."
+summary: "Investigate MyHeritage DNA matches: the right kit, filtered shortlists, shared-match values, triangulation and Theory of Family Relativity."
 kind: "platform"
 scope: {"platforms": ["myheritage"], "tasks": ["MyHeritage DNA match investigation, kit relinking, largest-segment sorting, labels/favorites, Shared DNA Matches, Theory of Family Relativity or an investigation follow-up."]}
 privacy: "genetic-third-party"

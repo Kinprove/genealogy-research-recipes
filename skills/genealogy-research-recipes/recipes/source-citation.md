@@ -1,7 +1,7 @@
 ---
 id: "source-citation"
 title: "Source citation record"
-summary: "Preserve a retrievable source record and connect each citation to the evidence it supports."
+summary: "Write citations that let a reader retrieve the source and see which evidence each citation supports."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["source citations, repository and item locators, layered citations, shortened references"]}
 privacy: "none"

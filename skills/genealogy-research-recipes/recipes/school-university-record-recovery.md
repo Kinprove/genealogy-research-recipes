@@ -1,7 +1,7 @@
 ---
 id: "school-university-record-recovery"
 title: "Recover a pupil or student through school, district, copy and later-file layers"
-summary: "Recover a pupil or student across school, educational-district, parallel-copy, yearbook and later-file layers."
+summary: "Find a pupil or student through school, educational-district, duplicate-copy, yearbook and later personal-file records."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

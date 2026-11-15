@@ -1,7 +1,7 @@
 ---
 id: "beider-given-name-variants"
 title: "Ashkenazi given-name variants from Beider's indexes"
-summary: "Expanding documentary searches with recorded Ashkenazi given-name forms from the male and female J-Roots Beider indexes."
+summary: "Expand searches with recorded Ashkenazi given-name forms from Beider's male and female indexes."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["an unfamiliar or approximate Cyrillic given name, compound names, alternate spellings, ambiguous article labels, or documenting a DNA match's family under another name form."]}
 privacy: "none"

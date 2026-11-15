@@ -1,7 +1,7 @@
 ---
 id: "dna-comparison-controls"
 title: "DNA comparison controls across services"
-summary: "Reconcile conflicting vendor or native results using exact tests, query controls, local marker coverage and reporting scope."
+summary: "Reconcile conflicting DNA results across testing companies and tools with exact tests, controls and marker coverage."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["an absent match, raw-file X coverage, PAR/build ambiguity or doubled totals."]}
 privacy: "genetic-third-party"

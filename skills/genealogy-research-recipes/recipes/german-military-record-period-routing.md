@@ -1,7 +1,7 @@
 ---
 id: "german-military-record-period-routing"
 title: "Route a German soldier to the military series that survive for his period, army and rank"
-summary: "Route a German soldier to the series that survive for his period, army and rank class; recover dated hospital-book episodes when personnel files are missing."
+summary: "Route a German soldier to the surviving series for his period, army and rank, including hospital books."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

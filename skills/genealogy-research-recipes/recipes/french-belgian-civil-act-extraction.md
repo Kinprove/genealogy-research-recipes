@@ -1,7 +1,7 @@
 ---
 id: "french-belgian-civil-act-extraction"
 title: "Extract French and Belgian civil acts field by field"
-summary: "Extract French or Belgian civil acts, trace French marginal continuations and separately maintained copies, and check Paris reconstructions when the original series is unavailable."
+summary: "Extract French or Belgian civil acts field by field, follow marginal notes and copies, and use Paris reconstructions for lost originals."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"

@@ -1,7 +1,7 @@
 ---
 id: "georgia-texas-state-land-grant-recovery"
 title: "Read Georgia and Texas original land grants: lottery draws, headright classes and the land office file"
-summary: "Find and read an original land grant from the State of Georgia or from Spain, Mexico, the Republic or the State of Texas, and keep each lottery entry, headright class or certificate within what its act required."
+summary: "Find and read an original Georgia or Texas land grant, and read each lottery entry, headright class or certificate under its own act."
 kind: "records"
 scope: {"platforms": [], "tasks": ["a Georgia land lottery entry for orphans, a widow, a blank or a fortunate drawer", "a Texas headright class, certificate or General Land Office file", "no grant found for a Georgia or Texas ancestor"]}
 privacy: "none"

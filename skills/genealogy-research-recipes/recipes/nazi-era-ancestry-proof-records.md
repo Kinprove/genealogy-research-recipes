@@ -1,7 +1,7 @@
 ---
 id: "nazi-era-ancestry-proof-records"
 title: "Find and read a Nazi-era ancestry proof as a certified copy of register entries"
-summary: "Find and read a Nazi-era ancestry proof (Ahnenpass, Ahnentafel, certified extracts) and route the search by the role that required it."
+summary: "Find and read a Nazi-era Ahnenpass or certified ancestry proof, and route the search by the role that required it."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

@@ -1,7 +1,7 @@
 ---
 id: "us-20th-century-military-service-reconstruction"
 title: "Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction"
-summary: "Rebuild a 20th-century U.S. Army or Air Force service record from records held outside a burned, thin or restricted personnel file, including state WWI questionnaires and Gold Star family packets, separate court-martial trial files, discharge-gated final pay and award General Orders."
+summary: "Rebuild a 20th-century U.S. Army or Air Force service record from sources outside a burned, thin or restricted personnel file."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"

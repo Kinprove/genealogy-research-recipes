@@ -1,7 +1,7 @@
 ---
 id: "us-military-pension-file-recovery"
 title: "Recover and inventory a U.S. military pension file"
-summary: "Carry a service clue or pension index card to the appropriate application file and inventory the claim's documents."
+summary: "Carry a service clue or pension index card to the right application file and inventory its documents."
 kind: "records"
 scope: {"platforms": [], "tasks": ["pension-card identifiers, record custodians, complete versus abbreviated copy products, widow/dependent applications, household and means statements, objections or later claim decisions."]}
 privacy: "none"
