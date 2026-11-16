@@ -3,7 +3,7 @@ id: "periodical-index-search-retrieval"
 title: "Search a genealogical periodical index and retrieve the article"
 summary: "Search a genealogical periodical index such as PERSI and retrieve the article."
 kind: "records"
-scope: {"platforms": [], "tasks": []}
+scope: {"platforms": [], "tasks": ["Full-text search of Russian newspapers, and provincial gazettes (губернские ведомости) on paper or microfilm."]}
 privacy: "none"
 gates: []
 guardrails: [{"id": "PERIODICAL-INDEX-SEARCH-RETRIEVAL-01", "text": "A personal-name miss therefore usually means the article text was never searched, and a hit is only a citation."}]
@@ -83,6 +83,12 @@ When the citation or inspected article suggests continuation in another issue, i
 additional parts in the copy request. If the extent is unclear, ask the holder whether it
 continues and which parts the request covers. Record each supplied or still-outstanding part;
 one indexed citation or one received copy does not establish that every instalment was obtained. [S17]
+
+## When a Russian periodical has no index: full text or the paper run
+
+For Russian newspapers and provincial gazettes, look for a full-text search of the recognised page text, or go to the paper run. Full text searches every recognised word, not only the terms an index recorded. Yandex's Поиск по архивам (yandex.ru/archive) searches text that its neural networks recognised; on 2026-11-15 its newspaper projects covered «Вечерняя Москва», the periodicals of 1941–1945 and «Советский спорт» from 1922, and viewing documents needed a signed-in account [S21 @2026-11-15]. In February 2025 it added «Известия» for 1917–2024 in full text and named diocesan gazettes and «Русский инвалид» among its other periodicals [S22 @2026-11-15]. For Siberia and the Far East, Tomsk State University's library runs PRO Сибирь, with more than 120,000 open-access sources, periodicals and manuscripts among them [S23 @2026-11-15]; a family historian recommends both services and PRO Сибирь's keyword search [S24 @2026-11-15]. Search an event, place or surname instead of reading issue by issue, and read the page image of every hit. Recognised text misreads, so a miss there is not a negative.
+
+A provincial gazette (губернские ведомости) can name individuals. A Tula genealogist lists printed lists of conscripts, voters and candidates for elected posts, and notices of property sales, awards and incidents, in «Тульские губернские ведомости»; a newspaper run one reader needed at the Tula Regional Scientific Library was not digitised and took staff time to find on paper [S25 @2026-11-15]. The library holds the gazette, which ran until 12 April 1917, in print and on microfilm [S26 @2026-11-15]. Check which years of a gazette are digitised before searching, and plan a microfilm or paper search of the library's run for the rest.
 
 ## Report bounded results
 

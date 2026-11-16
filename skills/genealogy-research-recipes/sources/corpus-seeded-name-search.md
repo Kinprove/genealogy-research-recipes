@@ -53,8 +53,19 @@ Corpus attestation, positive-control queries, surface-form review and separately
 
 S32 to S41 were read on 2026-11-12. Not verified independently: the call-name example and the Heinrich/Henry and Maria/Mary pairs (S33 only). The short patronymic forms are sourced for the 16th and 17th centuries (S36) and for Catherine II's rank rules (S35); no source opened gives a share of 18th-century entries that use them.
 
+- **S42.** Поиск предков: Тульская губерния (Dzen channel), [«Мужские имена 150 лет назад - редкие и популярные»](https://dzen.ru/a/aN4uai9k71BnBE6W), 17 January 2026 by the page's date, read 2026-11-15 from a captured copy (Dzen refuses automated retrieval). Used for: the author's count of boys' names among about 7,000 births in Efremov uezd in 1875, Алексей written more often with ять than in the святцы form with і, and vernacular forms written beside church forms. A single researcher's count, not checked.
+- **S43.** Азбука веры, [Справочник по орфографии русского языка до реформы 1918 г.](https://azbyka.ru/otechnik/Spravochniki/spravochnik-po-orfografii/), opened 2026-11-15. Used for: Алексѣй among the exceptions written with ѣ in the pre-reform rules.
+- **S44.** Поиск предков: Тульская губерния (Dzen channel), [«Почему у коров не хвосты, а фасты?»](https://dzen.ru/a/aXoPxgpCQ3clt4Ld), 6 February 2026 by the page's date, read 2026-11-15 from a captured copy (images not captured). Used for: the Belev uezd village Коровьи Хвосты headed «Каровьих Фастов» in the 1795 revision list and «Коровьих Фостов» in 1782; mid-19th-century parish priests' descriptions of Bogoroditsk uezd villages for the Russian Geographical Society, giving Хвилип and Хилип for Филипп and а for unstressed о; and the author's note that names reach inventories and indexes as the documents wrote them. The headings were read from the author's transcription, not from the images.
+- **S45.** Поиск предков: Тульская губерния (Dzen channel), [«Двойные фамилии у крестьян в селе Дедилово»](https://dzen.ru/a/YswDtEvFFk3G9dQG), 11 July 2022 by the page's date, read 2026-11-15 from a captured copy (images not captured). Used for: surnames written by ear, ф pronounced хф or хв in the Tula area, and an 1895 godparent entry with the surname Хамин for a family the author identifies as Фомины.
+- **S46.** Википедия, [Южное наречие русского языка](https://ru.wikipedia.org/wiki/Южное_наречие_русского_языка), opened 2026-11-15. Used for: х and хв for ф in the western and central groups of the southern dialects, the central group taking in the south and west of Tula oblast, and аканье among the southern features.
+
+S42 to S46 were read on 2026-11-15. Not verified independently: the 1875 Efremov count (S42), the Фомин–Хамин identification (S45) and how often clerks wrote ф for хв (S44).
+
 ## Credits
 
 - Kinprove original procedural synthesis; references are cited as S1 to S25 — FSL-1.1-MIT (kinprove-original)
 - Alice Childs, Family Locket, Part 3: Pennsylvania Germans: Guiding Principles for Research, 2022-02-18, cited as S33 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Vera Miller, Lost Russian & Ukrainian Family, AI transcribes almost 24 million Russian archive record pages for free searching, 2026-08-29, and More free cemetery databases are helping to find graves in Eastern European, 2025-03-29, cited as S37 and S41 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Dzen posts of the channel «Поиск предков: Тульская губерния» cited as S42, S44 and S45 — Copyright of their author; short quotation of record forms and paraphrase (adapted)
+- Азбука веры orthography handbook cited as S43 — Copyright of its publisher; one quoted word form (quoted)
+- Wikipedia article cited as S46 — CC BY-SA 4.0; paraphrase with one quoted example (adapted)

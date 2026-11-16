@@ -87,6 +87,12 @@ At the start of a session, reload the instructions, read the note for the questi
 live state. At the end, update that note and the search log, save them to the project notes and write
 the next check.
 
+Before tracing a "female line" (женская линия), ask which line is meant and write the answer into
+the question note. It can mean the strict line from daughter to mother, which takes a new surname in
+every generation, or the woman's mother's direct male line, a single surname line; a Russian
+genealogist reports that requests for a grandmother's female line usually mean the second [S11]. In
+DNA usage the matrilineal line is the mother's mother's mother's line, with no surname to follow [S12].
+
 ## Give each kind of information one home
 
 | Kind | Home | Rule |

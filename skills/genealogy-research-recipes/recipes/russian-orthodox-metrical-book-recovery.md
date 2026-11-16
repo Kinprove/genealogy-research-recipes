@@ -318,6 +318,16 @@ Copy each note in full, with its issuing body, date and number, as a separate ob
 
 Yandex «Поиск по архивам» (yandex.ru/archive) searches machine-recognised text of 18th- to early-20th-century metrical books, revision tales and confession lists. It names archives of Moscow and of the Astrakhan, Orenburg and Irkutsk regions, among others. Viewing a document needs a login, which the user does. [S26] Its catalogue (Источники) lists the holding archives in full: 29 on 8 October 2026, against about nine in July 2023. [S37] Have the logged-in user open the catalogue and record the archives it lists, with the date, before you treat a miss as a coverage gap.
 
+Yandex's 20 May 2026 announcement describes event and participant-role filters, with examples
+including child, father and mother in birth records, and groom, bride and witness in marriages
+[S165 @2026-11-16]. Have the logged-in user confirm which filters the current view offers.
+Run a role-filtered search and an ordinary text search separately, recording the filters and
+volumes actually covered. Check each candidate's name, role, place and dates in its own entry
+on the image: structured machine fields are another interpretation of that image. The
+announcement does not establish filters for godparents or marriage sureties; search ordinary
+text and browse the relevant entries for them. A role-filter miss leaves unmarked or
+misclassified entries unresolved.
+
 - **Search inside entries when file titles may use another village name.** A parish-book file title can use a village's second or later name, so a catalogue filter on one name can miss the file. The service searches the recognised text of the documents by surname or settlement. [S26], [S36] Search every name form of the village, group the hits by file and read the file titles before you declare a coverage gap.
 - **A miss is not a negative.** Full text finds only what the machine recognised. Log the volumes, years and pages that have no recognised text: a page without text is not a blank page. An archive missing from the results is not proof that the service lacks it.
 - **Take spellings from the text itself.** Run pre-reform forms (Ѳеодоръ) beside modern ones (Фёдор) until you see which the recognised text uses, and build further variants from forms you actually find, using [corpus-seeded name searches](corpus-seeded-name-search.md#diagnose-three-different-failures). Take the query syntax from the service's current help page, not from web-search habits. Confirm every near hit on the image.
