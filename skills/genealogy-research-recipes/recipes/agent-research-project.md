@@ -27,8 +27,8 @@ Other recipes own the neighbouring topics: proof arguments in
 [archival-image-coverage-verification](archival-image-coverage-verification.md), and tree files in
 [gedcom-research-export](gedcom-research-export.md).
 
-Rules and figures without a public source are Kinprove observations, according to Kinprove's own
-private project records [S1†].
+Outside the whole-index reading workflow below, rules and figures without a public source are
+Kinprove observations, according to Kinprove's own private project records [S1†].
 
 ## Contents
 
@@ -227,6 +227,11 @@ which period it covers. A count from a subset reads as a verdict on the whole co
 - Use quotation marks only for exact text in a saved copy. Keep the source's own wording beside any
   paraphrase, so that "suggests looking" does not become "reports finding".
 
+For a whole-village reconstruction from your own transcript index, keyword hits are only a
+starting list. Read every entry, including those with no matching pattern: a misread keyword can
+hide a relevant entry. Use the [whole-index reading protocol](#reading-your-own-transcript-index)
+below, then check findings on the images before using them as evidence.
+
 ## Correcting a claim
 
 - Find and fix every note, tree entry, table and index that repeats it. A corrected report leaves a
@@ -284,6 +289,59 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   A frequency filter once dropped over a thousand names that were mentioned only once.
 - Attach citations while drafting, from the saved text of pages actually opened. Search snippets
   and URLs in a brief are unverified hints.
+
+### Reading your own transcript index
+
+This is a text-reading pass over an existing transcript, not a new transcription of the images.
+Use lean text readers with the tools they need, and carry the relevant evidence and privacy rules
+in their brief. The privacy checkpoint above applies to the index and older notes too. The workflow
+and its linked source-reading rule are Kinprove's authored synthesis from the reported observations
+below; details such as stable entry identifiers and gap/overlap checks are procedure, not measurements.
+
+According to the project report in issue 341, a whole-parish reconstruction in Kaluga guberniya,
+1870s–1920s, used two image-transcribed indexes of 2,982 and 6,435 entries, plus 2.5 million
+characters of older extraction passes and logs. Pattern-selected village lists included strangers:
+4 of 287 acts in one parish and 8 of 32 in the other, from a look-alike surname or village name.
+The report also warns that a misread keyword can hide an entry from pattern search. These are
+reported observations from one project; the underlying records were not independently inspected
+here. [S10]
+
+1. **Assign every entry.** A script may count, split and wrap the text; it must not decide which
+   entries a reader sees. Keep the original index unchanged, give entries stable identifiers and
+   assign contiguous portions against the full inventory. Preserve continuation text and original
+   act numbers separately from those identifiers, since an act number can repeat.
+
+2. **Test what the reader actually receives.** Make a wrapped derivative with continuation marks
+   and lines at most 1,800 characters long, then test the actual brief and file-reading tool on the
+   portion containing the longest original line. Confirm that the last fields of each entry arrive,
+   especially godparents and sureties. If they still get cut, shorten the portions or lines and
+   retest. Count original entries, not wrapped lines.
+
+   The issue reports that its file-reading tool silently cut lines over 2,000 characters, losing the
+   tails of six entries in one probe. It recommends wrapping at 1,800 characters or less with a
+   continuation mark. Those limits describe that setup, not a guarantee for another tool. [S10]
+
+3. **Reconcile three checks.** Each reader ends with `entries read: N, first: …, last: …`, using
+   the assigned entry identifiers. Sum the receipts against the full index size and reconcile
+   portions for gaps and overlaps; an equal total alone can hide both. Compare the findings with
+   acts already known, investigating every miss or number mismatch. Separately compare the clerk's
+   annual totals for each village with the acts found. Preserve disagreements and their reasons;
+   never change entries just to make the totals match.
+
+   The issue's known-act check found 280 of 287 under the same number. It attributes the other seven
+   to four errors in the earlier known list, two doubled act numbers and one fragment without parents.
+   This is a reconciliation of that list, not an independently established recall rate. [S10]
+
+The reported full readings took 17 portions in seven minutes (six in parallel) and 35 portions in
+nine minutes, using 9.3 million input tokens together and returning 952 findings. These are one run
+per setting, and token figures depend on the framework; they are not throughput or accuracy
+promises. Treat the findings as leads to check on the images. [S10]
+
+Keep delivery, execution coverage and accuracy separate. A complete set of reader receipts does
+not establish that the transcript captured every original entry or read its names correctly.
+Reconcile earlier readings and doubts using
+[archival-image coverage](archival-image-coverage-verification.md#report-coverage-as-pages--targets)
+before replacing an older extraction with this index.
 
 ## Writing to a tree
 
