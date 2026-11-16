@@ -2254,5 +2254,11 @@
   "kind": "request",
   "action": "Send both by the email or postal route on",
   "checkpoint": "A Dresden or Bundesarchiv enquiry transmits"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Include the record’s existing image link, locality/date, the precise reading problem",
+  "checkpoint": "Before posting a document link, excerpt or question to FamilySearch Community"
  }
 ]
