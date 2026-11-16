@@ -55,10 +55,18 @@ today's date. Do not check for a newer version over the network yourself.
    plausible, ask one focused scoping question before opening more than one task recipe,
    and wait for the answer before giving that workflow. For example, ask which population
    and place a 1944 deportation concerns, rather than assuming a particular deportation.
-   For a record-source question, also ask first when a missing locality, period,
+   Once any required [privacy gate](#privacy-gate) is satisfied, if the user asks you to read or
+   interpret a specific record they have not supplied and the answer depends on seeing it,
+   ask only for an image or link to that record.
+   Use one question sentence and at most one short sentence explaining why, then wait.
+   Defer names, dates, ports and other identifying details until after the reply,
+   and ask only if still needed. For example: "Can you share an image or link to the
+   parish register entry? I need to see the handwriting to help read it."
+   For other record-source questions, ask first when a missing locality, period,
    population or migration destination prevents choosing a concrete source, even if a
-   broad recipe fits. While waiting, give the one question and a brief reason for it;
-   save the source list and research workflow for the reply. "Came from Russia" alone
+   broad recipe fits. While waiting, use one question sentence and at most one short sentence
+   explaining why; save record types, collections, source lists and research workflow for
+   the reply. "Came from Russia" alone
    does not establish a modern country, community or destination record system.
    For a place in Central or Eastern Europe, choose by the state that held it on the event
    date and by the family's religion, not by today's border. Start with the

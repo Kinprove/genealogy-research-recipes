@@ -99,9 +99,16 @@ against a local copy only after its skill hash and selected case contracts match
 
 Each report covers only the skill bytes and harness it names; a later recipe change is not
 covered until a new run. The most recent is the
-[2026-11-12 report](../reports/behavioural-evaluation-2026-11-12.md): 11 of 14 cases pass on
-`main` at `e206ee4`, run in isolation with the locked CLI and an authenticated local login.
-After that run, [#242](https://github.com/Kinprove/genealogy-research-recipes/issues/242)
+[2026-11-16 clarification report](../reports/issue-241-missing-record-clarification.md): the
+`unreadable-village` and `russia-origin` cases pass 3/3 on `aad4be6`, and the full suite passes
+13/14 cases. A GEDmatch sample missed a required supplemental read; the case remains failed.
+The release 1.20.0 baseline passed 10/10. Its
+[receipt](../reports/issue-241-missing-record-clarification.json) preserves earlier failed and
+incomplete attempts as well as the final results.
+
+The [2026-11-12 report](../reports/behavioural-evaluation-2026-11-12.md) recorded 11 of 14 cases
+passing on `main` at `e206ee4`, run in isolation with the locked CLI and an authenticated local login.
+After that November 12 run, [#242](https://github.com/Kinprove/genealogy-research-recipes/issues/242)
 replaced the `ystr-distance` forbidden-figure regex with the strict `Y-01` question, because the
 regex also matched a figure quoted as an example not to use. The report's failure stands for the
 case contract its receipt records.
