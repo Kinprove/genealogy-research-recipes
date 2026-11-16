@@ -74,6 +74,21 @@ million POW-file cards for about 3.5 million lower-rank records, so a result set
 of soldiers, residents or families. Do not name the archive behind the POW card file until a card
 or the site states it. [H17], [H18]
 
+Beyond GWAR, search two name lists for lower ranks and award holders, which a 2023 Dzen guide lists
+among its WWI sites. [H122 @2026-11-15] The СВРТ database (1914.svrt.ru) is built from the published
+alphabetical lists of lower-rank losses held in the Russian State Library; on 2026-11-15 it held
+1,337,430 records, searched by surname and by given name and patronymic, with guberniya, uezd and
+settlement filters. [H119 @2026-11-15], [H120 @2026-11-15] For a St George Cross, numismat.ru
+publishes S. B. Patrikeev's consolidated lists of the cross's holders for 1914–1922, more than
+900,000 names, as PDF volumes by class and cross number; its own name search for WWI covers only
+six regiments, so read the volumes for the class and number range. [H121 @2026-11-15]
+
+For a woman who may have nursed in WWI, read the Russian Red Cross Society's printed list of sisters
+of mercy assigned to Red Cross, military, public and private hospitals (Petrograd, 1915; 924 pages),
+compiled from the Main Directorate's records as of 1 August 1915 and open in the Russian State
+Library's digital library. [H123 @2026-11-15] A nurse first assigned after 1 August 1915 cannot
+be in it, so a miss says nothing about later service.
+
 OBD Memorial returns only records that meet the condition in every filled field, so changing one
 name part at a time misses a card with two variant parts. Test chosen combinations instead, for
 example Георгиевич, Егорович and Юрьевич as father's-name lanes; they are search lanes, not proof
@@ -95,6 +110,26 @@ raion or oblast rather than the village, because the search handles place names 
 expect the village to be spelled several ways and placed under more than one raion. [H79 @2026-11-12] New
 documents are loaded periodically, so repeat a failed search after an update. [H77 @2026-11-12] Search women
 and people who were teenagers during the war as well, as Miller advises. [H80 @2026-11-12]
+
+Do not keep a family-remembered birthplace in a Pamyat Naroda search that returns nothing. Drop the
+place, search the name with the birth year, and take the birthplace from the soldier's card. In one
+family's case the card gave a village in the district of the town the family remembered, and that
+village's metrical books held the birth. [H124] Then search the card's birth village, or its raion,
+for everyone born there. In a Tula-region case, award records of 1944–1945 gave a woman's birth
+village, and the same site listed two other veterans born in that village, whom the researcher
+identified as her brother and uncle. [H125] Treat such natives, even under the same surname, as
+candidate relatives until parish or household records connect them.
+
+Also search «Дорога памяти» (1418museum.ru), the database of the museum complex of that name: on
+2026-11-15 its home page counted 36,031,044 participant cards, and its search returned cards with
+name variants, birth date, rank, birthplace and call-up date and a field for the death date. The
+site says that information sent by users is checked before publication and that new cards come
+only through its «Сохранить участника ВОВ» form. [H126 @2026-11-15] In one family's search, a web
+search on a husband's full name led to his pages on Pamyat Naroda and «Дорога памяти», with a
+wartime photograph, his birth date and place, and a death year that dated an undated photograph
+of his funeral. [H127 @2026-11-15] Grade a death date or photograph there as family-supplied unless
+the card names a document, and bound a photograph's date as in
+[family-photograph attribution and dating](family-photograph-attribution-and-dating.md#turn-every-other-date-clue-into-a-bound).
 
 For a partisan in Belarus, search the portal «Партизаны Беларуси» (partizany.by), a project of the
 publishing house Belarus Segodnya and the National Archive of the Republic of Belarus. [H81 @2026-11-12] Its
@@ -132,6 +167,22 @@ POW records at about 700,000, from an international research project the Dokumen
 run since 2000, and said the online entries give basic data only. [H60 @2026-11-08] Before counting
 a Dresden entry and an OBD Memorial POW card as two sources, check each one's stated archival
 origin: if both reproduce the same German registration card, that is one source reached twice.
+
+For a Red Army prisoner who passed through a concentration camp, search the Arolsen Archives'
+camp lists on Ancestry as well as in Arolsen's own online archive. Arolsen announced on 26 January
+2026 that more than eight million names from concentration-camp lists had been fully indexed with
+Ancestry and were free at ancestry.com/alwaysremember with no paid subscription, and that the data
+would join its own online archive by 2027. [H128 @2026-11-15] Camp clerks often wrote names by ear,
+so one man's documents can carry several spellings. [H129 @2026-11-15] Search every form, and put
+Ancestry's wildcards where German clerks varied the spelling: a question mark stands for one
+character and an asterisk for several [H130 @2026-11-15], but Ancestry's own help pages state
+different limits, one allowing an asterisk only zero to five characters, so follow the conservative
+rules in [Ancestry record search recovery, step 8](ancestry-record-search-recovery.md#8-use-wildcards-for-a-specific-spelling-uncertainty). A Tula-region researcher found one soldier's
+Buchenwald records under two forms of the given name (Wasil, Wasilij) and seven of the surname,
+which varied as -zk-, -ck- or -tz- and as Bel- or Bjel-, and filtered by place of birth; his
+personal card in the camp file gave a village birthplace more exact than the "Tula" on his Pamyat
+Naroda record, and that village's parish books named his parents. [H131 @2026-11-15] Open each hit's image on the Arolsen
+site before you read it; an index row is not the document.
 
 For a Soviet prisoner who died in Finnish captivity, do not send the user to the National Archives
 of Finland's former online database: the archive's Arkistojen Portti page says the database closed
@@ -335,6 +386,16 @@ every collection supplies every field:
 The date cautions are inferences about what a document actually asserts. In particular, an
 award order after a missing report does not, by itself, establish survival between those dates.
 Obtain an event-specific source before extending a life or death interval.
+
+Before you read a WWII loss document's dates, open its first page and tell a front-line loss report
+from a post-war household-survey sheet. The district military commissariats compiled the sheets
+after the war, as name lists of servicemen whose families had lost contact with them. Instead of a
+date, place and circumstances of death they give what reached the family: the month of the last
+letter, when contact broke off, when a death notice came, and sometimes the last letter's field-post
+number, which can identify the last unit; more often only an approximate period while the man was
+still in touch. [H132] In one family's loss document, a man reported missing in January 1942 had
+last written on 4 November 1941, while on the road. [H133] Record such a date as the family's last
+contact: it shows he was alive when he wrote, and it does not date or place the loss.
 
 **Privacy gate:** <!-- privacy-gate: request --> A hospital or wound request asks for
 military-medical records about a serviceman who may still be living; answer the privacy gate in
