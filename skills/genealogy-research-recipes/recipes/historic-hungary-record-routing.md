@@ -6,7 +6,7 @@ kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "HISTORIC-HUNGARY-RECORD-ROUTING-01", "text": "**Start with the archive of the state the village lies in today for local registers.** The MNL in Budapest holds them for today's Hungary, not for the whole kingdom."}]
+guardrails: [{"id": "HISTORIC-HUNGARY-RECORD-ROUTING-01", "text": "**For local registers outside today's Hungary, start with the successor state's archive.** Inside Hungary, check the parish for pre-1895 church books, the MNL in Budapest for films of those books [S20 @2026-11-16], and the county archive for second copies [S21 @2026-11-16]."}]
 handoff: ["archival-image-coverage-verification", "austrian-confessional-register-routing", "catholic-parish-diocesan-record-recovery", "evidence-proof-judgment", "familysearch-practical-record-workflows", "galicia-bukovina-habsburg-record-routing", "historical-place-name-resolution", "illegitimacy-record-recovery", "jewishgen-search-family-reconstruction", "tax-roll-observation-workflow"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
@@ -66,13 +66,13 @@ Gather these before searching:
 
 ## 3. Take custody from the successor state, not from Budapest
 
-**Inside today's Hungary, three holders share the registers.** Before 1895 the parishes kept them; the MNL's national archive in Budapest borrowed those pre-1895 books and filmed them from 1960 to mid-1970 [S20 @2026-11-13]. Act XXIII of 1827 ordered church registers kept in two copies, the second going to the county or free royal town archive; state registers were also kept in two copies from 1895 to 1980, and the archives keep the second copies [S21 @2026-11-13]. So read "the MNL in Budapest" in the first rule below as the films of the pre-1895 church books, and look in the county archive for a second copy.
+**Inside today's Hungary, three holders share the registers.** Before 1895 the parishes kept them; the MNL's national archive in Budapest borrowed those pre-1895 books and filmed them from 1960 to mid-1970 [S20 @2026-11-16]. Act XXIII of 1827 ordered church registers kept in two copies, the second going to the county or free royal town archive; state registers were also kept in two copies from 1895 to 1980, and the archives keep the second copies [S21 @2026-11-16].
 
-- **Start with the archive of the state the village lies in today for local registers.** The MNL in Budapest holds them for today's Hungary, not for the whole kingdom.
-- **Search the 1828 national conscription in MNL series N 26, wherever the village lies today.** It covers the whole kingdom, Croatia, Slavonia and the Littoral included, but not Transylvania [S17].
-- **Slovakia (Upper Hungary):** reach the church books through FamilySearch first. "Slovakia, Church and Synagogue Books, 1592–1935" (collection 1554443) holds christening, marriage and burial images, and the originals are in the Slovak state archives [S13]. The ministry's list names the Slovak National Archives and the regional state archives in Banská Bystrica, Bratislava, Košice, Nitra, Prešov, Trenčín, Trnava and Žilina (seat in Bytča) [S14]. Map each image group back to the regional archive that holds the original. The same 1 October 1895 civil registration applies there [S1], [S15].
-- **Use Slovakiana for the 1930 Czechoslovak census sheets.** All 1930 sheets have been online on the Slovakiana cultural-heritage portal since November 2022 [S16].
-- **Romania (Transylvania, Banat, Crișana, Maramureș):** civil-status registers pass to the county service of the Arhivele Naționale (National Archives) 100 years after they were created [S4]. Ask the county service for an older register. A younger one is still with the civil-status service.
+- **For local registers outside today's Hungary, start with the successor state's archive.** Inside Hungary, check the parish for pre-1895 church books, the MNL in Budapest for films of those books [S20 @2026-11-16], and the county archive for second copies [S21 @2026-11-16].
+- **Search the 1828 national conscription in MNL series N 26, wherever the village lies today.** It covers the whole kingdom, Croatia, Slavonia and the Littoral included, but not Transylvania [S17 @2026-11-16].
+- **Slovakia (Upper Hungary):** reach the church books through FamilySearch first. "Slovakia, Church and Synagogue Books, 1592–1935" (collection 1554443) holds christening, marriage and burial images, and the originals are in the Slovak state archives [S13 @2026-11-16]. The ministry's list names the Slovak National Archives and the regional state archives in Banská Bystrica, Bratislava, Košice, Nitra, Prešov, Trenčín, Trnava and Žilina (seat in Bytča) [S14 @2026-11-16]. Map each image group back to the regional archive that holds the original. The same 1 October 1895 civil registration applies there [S1 @2026-11-16], [S15 @2026-11-16].
+- **Use Slovakiana for Slovakia's 1930 census sheets.** Národné osvetové centrum announced in November 2022 that all 1930 sheets for Slovakia were online [S16 @2026-11-16].
+- **Romania (Transylvania, Banat, Crișana, Maramureș):** civil-status registers pass to the county service of the Arhivele Naționale (National Archives) 100 years after they were created [S4 @2026-11-16]. Ask the county service for an older register. A younger one is still with the civil-status service.
 - **Treat a FamilySearch film as a copy of the successor-state holding.** Record which archive the collection page names as the source of the originals.
 - **For Croatia, Vojvodina, Transcarpathia and Burgenland, take the holder from the successor state's own archive guide.** Mark the route unconfirmed in the series row until that guide names the holder.
 

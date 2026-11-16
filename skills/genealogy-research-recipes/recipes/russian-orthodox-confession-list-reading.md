@@ -97,7 +97,7 @@ Set up one table per household, with one row per person and one column per list.
 
 1. **Start from the latest list you can reach, then step back.** Two guides advise checking earlier lists at intervals of 5–10 years, then refining the facts in metrical books. [S5], [S6]
 2. **Fill in the consecutive years around each change.** The two lists on either side of a change bracket the change in the record, not the event itself. A child may have been too young to list, and a new name may be the same person.
-3. **Find the family by its people.** Most peasants have no surname in these lists, so look for the father with a son of the right name and age. [S6], [S10] One guide suggests reading the whole list once, then scanning the age column for the age you expect, because each sex has its own column. [S9]
+3. **Find the family by its people.** Two guides describe peasant entries without surnames. [S6], [S10] When an entry has no surname, search by given name, patronymic, age and household; look for the father with a son of the right name and age. A missing surname does not by itself show that the family had none ([village family reconstitution, step 1](russian-village-family-reconstitution.md#1-identify-people-by-an-identity-key-not-by-the-surname)). One guide suggests reading the whole list once, then scanning the age column for the age you expect, because each sex has its own column. [S9]
 
 **Test the ages.**
 
