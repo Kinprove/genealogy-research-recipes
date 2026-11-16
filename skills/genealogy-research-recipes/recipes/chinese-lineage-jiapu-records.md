@@ -220,6 +220,13 @@ full-text searchable but not yet name-indexed, with results filterable by provin
   observations. He says he is unsure they are the official method. Keep any recorded natal
   surname as the only observation. [S3]
 
+When a birth year is remembered only as a zodiac animal, preserve the animal literally and
+list the possible years within the independently supported age range. The animal repeats every
+12 years, so it does not identify a single birth year. Its year follows the lunar New Year:
+check that boundary before assigning a January or February birth to a Gregorian year. Read
+complete Chinese dates in year–month–day order and retain the literal date beside any conversion.
+[S11], [S12]
+
 ## Close with a lineage packet
 
 Return:

@@ -28,7 +28,15 @@ Forum participants (S7–S11) supply worked examples of home-side local records,
 
 Corrections to the lectures rest on outside authorities.
 
+## Additional sources checked 2026-11-16
+
+- **S17:** German Influences in the United States Part 2, [German Influences in the United States Part 2](https://www.pricegen.com/german-influences-in-the-united-states/), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope.
+- **S18:** U.S. Census Bureau, 1870 Census Instructions to Assistant Marshals, [U.S. Census Bureau, 1870 Census Instructions to Assistant Marshals](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1870/1870-instructions.html), opened 2026-11-16. Read column 10 instructions: name the German state instead of Germany. The instruction does not prove enumerator compliance or a precise town.
+- **S19:** Hessian Soldiers, [Hessian Soldiers](https://www.pricegen.com/hessian-soldiers/), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope.
+- **S20:** National Park Service, Washington–Rochambeau Revolutionary Route, Appendix C, p. 152, [National Park Service, Washington–Rochambeau Revolutionary Route, Appendix C, p. 152](https://parkplanning.nps.gov/showFile.cfm?projectID=14264&sfid=30365), opened 2026-11-16. Read PDF page 46 (printed p. 152) for German-speaking Continental regiments and Royal Deux-Ponts recruited in German-speaking territories for the French crown. It does not support the candidate’s British-uniform detail.
+
 ## Credits
 
 - BYU Family History Library / Larry Jensen, Understanding German Records and Jurisdictions, lecture 2022-10-20 — All rights reserved; short attributed quotation (quoted)
 - Kinprove original procedural synthesis drawing on lectures S1-S6 and forum threads S7-S11 as cited, and on the archive and society pages S12-S15, paraphrased — FSL-1.1-MIT (kinprove-original)
+- Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)

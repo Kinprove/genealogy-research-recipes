@@ -55,6 +55,12 @@ Record only what the opened file actually shows.
 
 Access: search the FamilySearch catalogue under the town and under the district office for your years before you plan anything around these files. Finding an office does not mean its files survive, were filmed or are online. [S6]
 
+For a German-born person present in the United States in 1870, inspect the census image's
+birthplace column before accepting a broad index label of Germany. Enumerators were instructed
+to give the state, such as Prussia, Baden or Bavaria. Keep the literal answer as a territory
+lead; the instruction does not guarantee compliance and a state is not the home town.
+[S17], [S18]
+
 ## 2. Separate official records from compiled resources
 
 Classify every catalogue item by its author:
@@ -150,6 +156,12 @@ For a German who first appears in America in that period, search HETRINA (*Hessi
 Coverage: HETRINA covers only Hesse-Kassel, Waldeck and Hesse-Hanau. A miss for a soldier of the Brunswick, Ansbach-Bayreuth or Anhalt-Zerbst contingents is expected and says nothing about him. Record it as "not in HETRINA (Hesse-Kassel, Waldeck, Hesse-Hanau only)".
 
 Pin the soldier to a specific town before you search church records. Otherwise a same-named man who stayed in Europe can be taken for him. [S5] Loyalist sources are a separate route and are not covered here. [S1]
+
+Do not route every German-born Revolutionary War participant into HETRINA. German-speaking
+regiments also served in the Continental Army, and Royal Deux-Ponts served the French crown.
+Identify the actual army and unit from service evidence before choosing an auxiliary-troop
+index. Neither German birth nor a HETRINA miss selects one of those service histories.
+[S19], [S20]
 
 ## 7. Confirm the hit in the original birth or baptism register
 

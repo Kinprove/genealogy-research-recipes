@@ -220,6 +220,16 @@ or travel.[N65 @2026-11-12] Search it for an ancestor who never emigrated as wel
 recorded citizenship, residence and destination before adding a migration row, and log a return
 from a visit as a trip in the journey table.
 
+For a Mexican crossing, keep the provider's date range separate from the underlying port
+series. FamilySearch labels its index *United States, Border Crossings from Mexico to United
+States, 1903–1957*; it includes aliens and citizens at various ports, not every crossing.
+For a year outside that span, return to the port-series coverage and another provider rather
+than extending the index's negative result. [N68 @2026-11-16] [N69 @2026-11-16]
+
+For a Canadian route before 1895, do not expect a U.S. Canadian-border entry from the St. Albans
+series described by NARA. Search the arrival into Canada and dated residence evidence instead;
+a Canadian ship arrival and the later land crossing remain separate events. [N70], [N71]
+
 ### 5. Recover an arrival through the departure list
 
 **Trigger:** the arrival transcription is confusing, or the departure port
@@ -279,6 +289,11 @@ ship. Preserve an original spelling beside a proposed correction. A contemporary
 can supply voyage context without proving that the ancestor personally experienced each
 event it describes. The ShipIndex interview illustrates this bibliography-to-holding route
 and the risk of same-name vessels; it does not establish current holdings or access.[32]
+
+For colonial Pennsylvania, keep a German passenger's arrival allegiance oath separate from a
+naturalization proceeding. The province required foreign males aged 16 and over to swear
+allegiance from 1727; that ship-list oath alone does not establish naturalization. Record the
+document's actual title and date before assigning a citizenship event. [N81], [N82]
 
 ### 6. Reconstruct the whole manifest row
 
@@ -413,6 +428,33 @@ else's arrival. The [Lil Dicky tree example](https://www.youtube.com/watch?v=SKD
 [Mayhem on a Manifest](https://www.youtube.com/watch?v=ZgyxRZdHgcw) motivate this; neither shows
 how common borrowed certificates were.
 
+For a claimed naturalization, compare the person's 1900–1940 census status entries across
+years before accepting a same-name court hint elsewhere. Use changes from alien to first
+papers to naturalized to rank the court-search window and residences. Keep each census answer
+as an informant's report: an inconsistent answer does not by itself exclude a court record.
+[N72], [N73]
+
+A missing earlier declaration can be legitimate under the minor-alien exception used in
+1824–1906. Check the actual proceeding and applicable law: the 1824 act concerned applicants
+aged at least 21 who had lived in the United States for the three years before turning 21 and
+five years in total, within its historical eligibility restrictions. Do not apply it to every
+person who arrived under 21, or equate it with derivative citizenship through a parent.
+[N74], [N75]
+
+Copy what each naturalization witness actually attested, including the period of acquaintance
+or residence. Under the 1906 act the qualifying witnesses were U.S. citizens and testified about
+residence and character; use a foreign-born witness's own citizenship history as another search
+lead. A witness signature does not prove lawful qualification, kinship, or acquaintance in the
+old country. Use the residence requirement of the act actually applied to look for earlier U.S.
+residence, allowing for the act's exceptions. [N76], [N77], [N78], [N79]
+
+The 1906 declaration and petition forms supplied birth fields; the act qualified the petition's
+date and place of birth with "if possible". Extract the birth particulars actually recorded,
+earlier names and arrival details, then compare them with the origin records. A blank field is
+not proof the record is from before 1906. These are the applicant's statements, not an automatic
+identity bridge across the Atlantic.
+[N80], [N79]
+
 ### 10. Replace a missing woman's or child's petition with a status timeline
 
 **Trigger:** a woman or child is described as a citizen, yet no individual
@@ -540,6 +582,22 @@ North Carolina 1927–1940, and a German registrant's papers can name family in 
 [Lisa Lisson interview](https://www.youtube.com/watch?v=4d43ZFUIzbs) and
 [Miles Meyer](https://www.youtube.com/watch?v=tBweLebo7TA) motivate this; verify each series'
 existence, eligibility and survival.
+
+For a WWI enemy-alien lead, establish the person's residence when the registration requirement
+was introduced in November 1917, then use NARA's survival guide to choose the actual series.
+No master list of registrations, permits or arrests survives. The surviving material is
+incomplete and also exists outside NARA. Registration was administered by U.S. Marshals;
+the guide identifies only selected district courts with registration records, so a generic
+court search is not a substitute for its series list. [N83 @2026-11-16] [N84 @2026-11-16]
+
+Keep an internment inquiry separate from registration. The DOJ *Alien Enemy Index, 1917–1919*
+(NAID 602456) gives a related file number; a `9` points to *Class 9 (European War Matters)
+Litigation Case Files and Enclosures* (NAID 599528). Follow that reference and record the actual
+arrest-to-release or deportation material returned, without inferring an outcome from the index.
+For Swiss diplomatic assistance, also search the State Department's *Name Index, 1910–1973*
+(NAID 581008) and retain any correspondence file reference. A registration does not establish
+internment, and a name-index hit does not guarantee the underlying file survives.
+[N83 @2026-11-16] [N84 @2026-11-16]
 
 ### 12. Repair an image failure with an archival locator
 
