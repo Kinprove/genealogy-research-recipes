@@ -148,6 +148,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `italian-stato-civile-parish-record-recovery#C-101da828c04b` | custody | 2026-11-13 | 2027-05-12 | S21, S17, S18, S19, S5, S6 |
 | `italian-stato-civile-parish-record-recovery#C-e928cb0f8d8d` | portal-availability | 2026-11-13 | 2027-02-11 | S8, S20, S9, S24 |
 | `italian-stato-civile-parish-record-recovery#C-50924a93a79a` | custody | 2026-11-13 | 2027-05-12 | S20 |
+| `italian-stato-civile-parish-record-recovery#C-ef0778624790` | portal-availability | 2026-11-16 | 2027-02-14 | S9, S10, S11 |
 | `italian-stato-civile-parish-record-recovery#C-d6f76ed7eeba` | custody | 2026-11-13 | 2027-05-12 | S12, S13, S9, S24 |
 | `italian-stato-civile-parish-record-recovery#C-8b9f8aee87b6` | custody | 2026-11-13 | 2027-05-12 | S14, S15, S16, S5 |
 | `jewishgen-search-family-reconstruction#C-6c002c2206ca` | platform-ui | 2026-11-12 | 2027-05-11 | N17, N18 |
@@ -384,7 +385,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [irish-emigrant-origin-locality](provenance/irish-emigrant-origin-locality.yml) | 19 | 5 | 0 | — |
 | [irish-land-valuation-occupancy-series](provenance/irish-land-valuation-occupancy-series.yml) | 13 | 5 | 0 | — |
 | [irish-probate-and-deed-recovery](provenance/irish-probate-and-deed-recovery.yml) | 16 | 5 | 0 | — |
-| [italian-stato-civile-parish-record-recovery](provenance/italian-stato-civile-parish-record-recovery.yml) | 3 | 2 | 1 | — |
+| [italian-stato-civile-parish-record-recovery](provenance/italian-stato-civile-parish-record-recovery.yml) | 1 | 1 | 1 | — |
 | [japanese-koseki-honseki-recovery](provenance/japanese-koseki-honseki-recovery.yml) | 19 | 10 | 1 | — |
 | [jewish-archival-list-triage](provenance/jewish-archival-list-triage.yml) | 7 | 5 | 5 | — |
 | [jewish-genealogy-conditional-hypotheses](provenance/jewish-genealogy-conditional-hypotheses.yml) | 14 | 15 | 2 | — |
