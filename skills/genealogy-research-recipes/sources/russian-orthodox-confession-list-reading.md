@@ -64,12 +64,17 @@ The following were NOT verified: the practice of any diocese outside the worked 
 
 S43 to S50 were opened or read on 2026-11-15 and checked by matching the passage cited. S43, S46 and S48 to S50 are Dzen posts read from captured copies, because Dzen refuses automated fetches; they report their authors' own cases and are cited as attributed reports. Not verified: the name of ЦГА Москвы f. 205 and the contents of its op. 5, which a search-result extract for the opis lists as Odoev-uezd confession lists of 1745–1749; the certificates for pupils and workers; the 1747 Aleksin-uezd and Tambov entries; and the survey plan and lists behind S43.
 
+- **S51:** Dzen channel «История одной семьи. Юлия Новожилова», [«Исповедка и родословная: как узнать состав всей семьи»](https://dzen.ru/a/XpdYklfmP3KWSy-X), a post dated 17 April 2020 on the captured page, read 2026-11-15 from a captured copy, without its images. Used for: outsiders to the parish (иногородние) listed separately after the estates, and people away from home confessing where they stayed and bringing back a certificate.
+
+Looking first for the separate list of outsiders, and reading every estate section where there is none, is authored synthesis. NOT verified: how widely a separate section for outsiders was kept. The 1882 handbook (S45) requires only that a long-absent parishioner be entered in the host parish's list, and a 2021 article on an Irkutsk-province list of 1900 describes the separate list in the same words as S51, so it is not independent support.
+
 ## Credits
 
 - Column headings and short phrases of the confession-list form, as given in the Orthodox Theological Encyclopedia, BYU Script Tutorial and Archaeograph — Quotation of a historical form and of published reference pages (quoted)
 - A. I. Fedorets, D. A. Pshenitsyn and M. S. Cherkasova, G. L. Freeze and N. F. Markov — Published scholarship, paraphrased with short quotation of the decrees they cite (adapted)
 - Published genealogy guides and articles cited as S5 to S20 — Copyright of their authors; paraphrased findings (adapted)
 - Dzen posts by А. Деревщиков and the channels «Генеалогия Безымянного» and «Генеалогия, или Как я встретил вашу маму», and the Familio article, cited as S43 and S46 to S50 — Copyright of their authors; short quotation and paraphrase (adapted)
+- Dzen post of the channel «История одной семьи. Юлия Новожилова» cited as S51 — Copyright of its author; paraphrase (adapted)
 - The dictionary entries and the 1882 handbook for priests cited as S44 and S45 — Dictionary text and a public-domain handbook; short quotation and paraphrase (adapted)
 - Ural genealogy forum threads cited as S21 to S38 — Forum posts, copyright of their authors; short quotation and close paraphrase of participants' reports (adapted)
 - Kinprove original procedural synthesis drawing on the sources above — FSL-1.1-MIT (kinprove-original)
