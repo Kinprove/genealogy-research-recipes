@@ -1338,6 +1338,12 @@
   "checkpoint": "Putting an entry's text or image into an online translator"
  },
  {
+  "recipe": "historical-place-name-resolution.md",
+  "kind": "request",
+  "action": "request the person's and the siblings' birth справки and name the act record's place lines you need",
+  "checkpoint": "A ZAGS справка on a sibling's birth can name people who may still be living"
+ },
+ {
   "recipe": "holocaust-testimony-source-interpretation.md",
   "kind": "request",
   "action": "For an unavailable part, prepare the exact title/language/signature and missing extent for",
@@ -2374,5 +2380,11 @@
   "kind": "request",
   "action": "Send both by the email or postal route on",
   "checkpoint": "A Dresden or Bundesarchiv enquiry transmits"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Include the record’s existing image link, locality/date, the precise reading problem",
+  "checkpoint": "Before posting a document link, excerpt or question to FamilySearch Community"
  }
 ]

@@ -84,6 +84,8 @@ Look up every phonetic spelling of the surname and note each place of origin car
 
 ## Query by context, and log what each portal actually covers
 
+In NARA’s Catalog, use a known **Record Group Number** or **Collection Identifier** in Advanced Search [S45 @2026-11-16], or narrow results with **Part of Collections** or **Part of Record Groups**. Open the relevant description and use **Search within this** for the group, collection or series [S46 @2026-11-16]. Run a personal-name query alongside this context search when useful; a name miss does not search every described file. Copy each level’s actual reference rather than manufacturing a series number by adding a decimal to the record-group number [S47 @2026-11-16].
+
 Run batches that combine place with a creating body, record type, religion, occupation, ethnicity or event. The presenters' examples include:
 
 - a Methodist church plus county and state, instead of a baptism plus a name [S2];
