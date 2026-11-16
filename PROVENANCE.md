@@ -391,7 +391,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [myheritage-historical-record-search](provenance/myheritage-historical-record-search.yml) | 23 | 27 | 2 | — |
 | [nazi-era-ancestry-proof-records](provenance/nazi-era-ancestry-proof-records.yml) | 40 | 8 | 0 | — |
 | [newspapers-com-search-recovery](provenance/newspapers-com-search-recovery.yml) | 50 | 24 | 13 | — |
-| [old-believer-sectarian-record-recovery](provenance/old-believer-sectarian-record-recovery.yml) | 6 | 11 | 0 | — |
+| [old-believer-sectarian-record-recovery](provenance/old-believer-sectarian-record-recovery.yml) | 3 | 10 | 0 | — |
 | [orthodox-clergy-record-recovery](provenance/orthodox-clergy-record-recovery.yml) | 14 | 8 | 2 | — |
 | [periodical-index-search-retrieval](provenance/periodical-index-search-retrieval.yml) | 27 | 7 | 0 | — |
 | [polish-index-original-record-recovery](provenance/polish-index-original-record-recovery.yml) | 31 | 22 | 0 | — |
