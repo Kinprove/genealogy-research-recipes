@@ -1722,6 +1722,12 @@
   "checkpoint": "A rehabilitation application or certificate request"
  },
  {
+  "recipe": "russian-village-family-reconstitution.md",
+  "kind": "contact",
+  "action": "write to a member only after the gate, and treat a shared village as a lead to compare records",
+  "checkpoint": "A message to a forum member reaches a living person and tells them which family and village you research"
+ },
+ {
   "recipe": "scottish-parish-statutory-record-recovery.md",
   "kind": "request",
   "action": "For an entry still inside the closure period, use the search result's",
