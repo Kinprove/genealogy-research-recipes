@@ -1976,7 +1976,7 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "request them all in one application",
+  "action": "request them all at once",
   "checkpoint": "Requests for personal-file copies, archival certificates or kinship-proof certificates can concern people who may be living"
  },
  {

@@ -124,7 +124,8 @@ original synthesis, applying the existing evidence/proof recipe to these source 
 
 - **H24:** Центр розыска и информации Российского Красного Креста, [«Критерии розыска»](https://crirkk.ru/rozysk-ankety/kriterii-rozyska/),
   read 2026-11-16. Rights: cited reference, not reproduced. Used for: the written, dated and signed
-  request on the centre's form with the details it asks for; the regional branch giving out the form,
+  request on the centre's form, and for an evacuation check the applicant's details and address, data
+  on both parents and on relatives evacuated with the person, or the place of a children's home; the regional branch giving out the form,
   helping to fill it in and referring the applicant to the centre; evacuee and children's-file checks
   made from the centre's own archive only; and forced-labour and camp questions checked against the
   card file on displaced persons and then sent to Arolsen.

@@ -141,9 +141,11 @@ children under 16 were often written onto one parent's card. [H23] So no card in
 name is not evidence that the child was not evacuated.
 
 The centre's own page sets the current request conditions. Send a written, dated and signed request
-on its form (анкета) with the person's full name, mother's given name, date and place of birth, and the last known place and time
-of contact. The regional Red Cross branch gives out the form and helps fill it in; the applicant then
-writes to ЦРИ РКК directly. The centre answers evacuee and children's-file questions from its own
+on its form (анкета). For an evacuation check, give the applicant's details and postal address and
+data on both parents; for a person evacuated with relatives, their names, birth years and
+birthplaces, and for a child evacuated with a children's home, the place where the home was. The
+regional Red Cross branch gives out the form and helps fill it in; the applicant then writes to ЦРИ
+РКК directly. The centre answers evacuee and children's-file questions from its own
 archive only. For forced labour or camps in Germany it checks its card file on displaced persons and
 then writes to the Arolsen Archives. [H24] In 2020 the centre's head put that file at roughly 800,000
 to 900,000 people taken to Germany, and said requests are accepted in person, electronically or by
