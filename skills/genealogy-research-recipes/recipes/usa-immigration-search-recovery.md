@@ -583,8 +583,8 @@ North Carolina 1927–1940, and a German registrant's papers can name family in 
 [Miles Meyer](https://www.youtube.com/watch?v=tBweLebo7TA) motivate this; verify each series'
 existence, eligibility and survival.
 
-For a WWI enemy-alien lead, establish the person's residence when the registration requirement
-was introduced in November 1917, then use NARA's survival guide to choose the actual series.
+For a WWI enemy-alien registration lead, establish the person's residence during the applicable
+registration period, then use NARA's survival guide to choose the actual series.
 No master list of registrations, permits or arrests survives. The surviving material is
 incomplete and also exists outside NARA. Registration was administered by U.S. Marshals;
 the guide identifies only selected district courts with registration records, so a generic
