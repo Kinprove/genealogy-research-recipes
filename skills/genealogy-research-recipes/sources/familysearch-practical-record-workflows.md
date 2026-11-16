@@ -156,6 +156,18 @@ puts the file in the Pedigree Resource File, which all users can view and others
 Videos, practitioner posts and forum threads were not re-read. The group-tree paragraph's step of
 sharing a private Memory with the group is supported by S18 and S19, which it does not cite.
 
+### Additional sources checked 2026-11-16
+
+- **S92:** [FamilySearch Community: User Trees feedback](https://community.familysearch.org/en/group/338-user-trees-feedback), read 2026-11-16. Used for: the announcement that CET terminology has been retired in favour of User Trees.
+- **S93:** [FamilySearch: Old family group sheets can be found on FamilySearch](https://www.familysearch.org/en/blog/old-family-group-sheets-can-be-found-on-familysearch), read 2026-11-16. Used for: the2013 description of the Archive Section1942–1969 and its alphabetical surname/head arrangement; no current image count or access guarantee.
+- **S94:** [NARA: Renting microfilm](https://www.archives.gov/research/order/renting-microfilm.html), read 2026-11-16. Used for: the rental programme ending31July2009, with onsite viewing or purchase alternatives.
+- **S95:** [FamilySearch Library: FamilySearch Community](https://www.familysearch.org/en/library/fsl-gemeinschaft-faqs-2-0), read 2026-11-16. Used for: country/language research groups, translation questions, joining and posting with an image link and attempted reading.
+- **S96:** [Understanding FamilySearch.org’s User-Owned Trees](https://www.thefhguide.com/blog/understanding-familysearch-orgs-user-owned-trees/), read 2026-11-16. Used for: the CET-to-User-Trees terminology pointer, checked against the official feedback group; the old PRF frozen generalization was not adopted. The relevant article text was read at the public URL; linked interfaces were not tested.
+- **S97:** [What You Probably Do Not Know About the FamilySearch Catalog and About Catalogs in General](https://www.thefhguide.com/blog/what-you-probably-do-not-know-about-the-familysearch-catalog-and-about-catalogs-in-general/), read 2026-11-16. Used for: the 1942–1969 Family Group Archive sheet finder, checked against FamilySearch’s guide without adopting a current image count or access promise. The relevant article text was read at the public URL; linked interfaces were not tested.
+- **S98:** [NARA research](https://www.pricegen.com/7512-2/), read 2026-11-16. Used for: the NARA microfilm-rental alternative lead; NARA independently supplies the rental-closure date and current viewing/purchase alternatives. The relevant article text was read at the public URL; linked interfaces were not tested.
+- **S99:** [My Secret Sauce: FamilySearch Community Groups](https://www.thefhguide.com/blog/my-secret-sauce-familysearch-community-groups/), read 2026-11-16. Used for: country/language group help for an identified reading problem, checked against the Library FAQ; no response-time guarantee is adopted. The relevant article text was read at the public URL; linked interfaces were not tested.
+
 ## Credits
 
+- Community sources S96, S97, S98, S99 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
