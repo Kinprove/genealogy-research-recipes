@@ -183,6 +183,22 @@ A file marked ПФС (плохое физическое состояние, poor
 
 Before calling a Ukrainian archive file (справа, file) undigitised, or drafting an archive request for it, look up its fond/opys/sprava (fund/inventory/file) cipher in Duck Inspector (Качиний Інспектор, `inspector.duckarchive.com`). It is a volunteer, non-commercial cross-index of where digitised Ukrainian case files are already published online, such as on FamilySearch, ARCHIUM and Ukrainian Wikisource, with links to them. [S27] Also check the Ukrainian Wikisource page `Архів:<archive>/<fond>/<opys>/<sprava>` (the Архів, "Archive", namespace): its labels link a FamilySearch copy, an archive-site copy and a Commons copy. [S28] Search the Wikimedia Commons File namespace by the cipher too: oblast-archive inventories have been uploaded there as PDFs. [S29] A link label is not an accessible copy; on one checked file page, the Commons label led only to the Commons home page. [S28] Open the copy, then verify the DGS and the target frames on the host itself before citing. Read the cover against the title, as in the composite-file check above, and record each file's licence separately. A miss in any cross-index does not prove that no scan exists. Coverage varies by fond, so a hit or a miss for one fond says nothing about another fond of the same archive or guberniya. Read the tool's terms and do not bulk-query it; for bulk use, the site links a public database copy for developers. [S27]
 
+For Kharkiv church and civil registrations, start with the State Archive of Kharkiv Oblast
+(ДАХО) finding aids: its reference page lists an index to metrical books in fond 40
+[S63 @2026-11-16], and its R-6531 electronic-file page lists alphabetical journals to
+civil-registration books by inventory and file, including journals for restored birth entries
+[S64 @2026-11-16]. Match the historical settlement, period and record type to the full cipher.
+A listed alphabetical journal is an index to follow, not the act entry itself; a linked download
+still needs its format, title and actual contents checked.
+
+Also look for Kharkiv copies in the Wikimedia Commons categories for fond 40 and fond R-6531
+[S65 @2026-11-16], [S66 @2026-11-16]. The R-6531 category uses Latin `R`, while listed file titles
+use Cyrillic `Р`; try both when a cipher search misses. Open the individual file description
+and retain its uploader, stated archive credit, source link and rights statement. A Commons
+upload is not necessarily publication by the archive. Verify the cover, foliation and inspected
+extent against the inventory, using the PDF/image checks above. A missing category item neither
+establishes loss of the archival file nor rules out another copy.
+
 To search the finding aids of several Ukrainian archives at once, use the ARCHIUM inter-archive
 portal (searcharchives.net.ua). It searches the finding aids of the archive sites built on ARCHIUM,
 among them ЦДАВО, ЦДІАК and the Poltava, Lviv, Kyiv and Kirovohrad oblast archives. It covers fond

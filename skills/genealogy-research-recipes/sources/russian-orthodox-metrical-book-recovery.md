@@ -194,6 +194,8 @@ These entries (S44 to S163) support the additions on institution, regimental and
 
 - **S164:** Kinprove/genealogy-research-recipes, [issue #328: Russian Orthodox metrical books — reading traps for AI and human readers](https://github.com/Kinprove/genealogy-research-recipes/issues/328), posted by `lazyants` on 2026-11-14, opened 2026-11-16 via GitHub CLI. Used for: the reported Kaluga guberniya whole-parish transcription exercise (1870s–1910s, about 3,000 frames); fita/name and year-digit confusions; enlarged-crop observations; separate counters and totals; reverse-year binding, misbound leaves and inserted papers; literal status/confession labels; and separately dated marginal notes. This is the project's issue report, not an independent replication. No underlying images or run outputs were supplied in the issue or independently inspected for this edit; no error rate, crop-causation claim or general frequency is established. Verification steps and links to existing recipes are Kinprove procedural synthesis; reuse of the examples does not establish rights to the underlying records.
 
+- **S165:** Yandex, [Alice AI VLM поможет пользователям Поиска по архивам быстрее искать данные о предках](https://ir.yandex.ru/press-releases?id=20-05-2026-02&year=2026), published 2026-05-20, read 2026-11-16. Used for: the provider's description of machine-structured event/participant-role filters, with birth and marriage examples. This is an announcement, not a logged-in interface test or a check of coverage, error rates, surname transformations or result caps.
+
 ## Credits
 
 - Ural genealogy forum thread on spiritual kinship and marriage questions — Forum post, copyright of its authors; short quotation of record formulae (adapted)
