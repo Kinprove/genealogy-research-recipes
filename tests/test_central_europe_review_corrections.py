@@ -5,6 +5,7 @@ where the rule qualifies an older one, its place beside that rule, so a later ed
 drop it or move it away.
 """
 
+import json
 import unittest
 from pathlib import Path
 
@@ -41,18 +42,33 @@ class HistoricHungaryTests(unittest.TestCase):
         self.assertIn("do not stop a Burgenland search for a state register at 1921", rule)
         self.assertLess(section.index("- **Do not carry Austria's dates into Burgenland.**"), start)
 
-    def test_holders_inside_todays_hungary_come_before_the_budapest_rule(self):
+    def test_holders_inside_hungary_and_standalone_routing_rule(self):
+        self.assertNotIn("holds them for today's Hungary", self.text)
+        self.assertNotIn('read "the MNL in Budapest" in the first rule below', self.custody)
+        rule = between(
+            self.custody,
+            "- **For local registers outside today's Hungary,",
+            "- **Search the 1828 national conscription",
+        ).strip()
+        self.assertIn("start with the successor state's archive", rule)
+        self.assertIn("Inside Hungary, check the parish for pre-1895 church books", rule)
+        self.assertIn("the MNL in Budapest for films of those books [S20 @", rule)
+        self.assertIn("the county archive for second copies [S21 @", rule)
+        raw = (RECIPES / "historic-hungary-record-routing.md").read_text(encoding="utf-8")
+        header = next(line.removeprefix("guardrails: ") for line in raw.splitlines()
+                      if line.startswith("guardrails: "))
+        guardrail = json.loads(header)[0]
+        self.assertEqual(guardrail["id"], "HISTORIC-HUNGARY-RECORD-ROUTING-01")
+        self.assertEqual(guardrail["text"], rule.removeprefix("- "))
         note = between(
             self.custody,
             "**Inside today's Hungary, three holders share the registers.**",
-            "- **Start with the archive of the state the village lies in today",
+            "- **For local registers outside today's Hungary,",
         )
         self.assertIn("Before 1895 the parishes kept them", note)
         self.assertIn("filmed them from 1960 to mid-1970 [S20 @", note)
         self.assertIn("Act XXIII of 1827", note)
         self.assertIn("from 1895 to 1980, and the archives keep the second copies [S21 @", note)
-        self.assertIn('read "the MNL in Budapest" in the first rule below', note)
-        self.assertIn("look in the county archive for a second copy", note)
 
     def test_a_split_county_archive_in_hungary_can_hold_a_village_now_abroad(self):
         start = self.custody.index(

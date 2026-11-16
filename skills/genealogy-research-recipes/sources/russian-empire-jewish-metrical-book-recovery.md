@@ -15,6 +15,10 @@
 
 - **S11:** *Еврейская энциклопедия Брокгауза и Ефрона*, article [Метрикация, метрические книги и свидетельства](https://ru.wikisource.org/wiki/ЕЭБЕ/Метрикация,_метрические_книги_и_свидетельства), the first of the two articles in S6, read on its own on Russian Wikisource on 2026-11-12. Rights: public-domain reference, paraphrased. Used for: the 1835 Statute requiring rabbis to keep metrical books for circumcisions, marriages, divorces and deaths («для записи актов обрезания, бракосочетания, развода и смерти»).
 
+- **S12:** State Archive of Lviv Oblast, [catalogue description of fond 21, the interwar state archive in Lwów](https://e.archivelviv.gov.ua/fonds/21/), read 2026-11-16. Opis 1 covers 1918–1939; its description lists name indexes to issued biographical and thematic certificates and warns that described documents may be incomplete and not cover every year. Used only as a catalogue example motivating an inquiry about administrative finding aids. No individual file was inspected; this description does not interpret numbers in metrical annotations or establish a request file's survival in another archive. Rights: cited reference, paraphrased, not reproduced.
+
+The full-image transcription, competing-requester hypotheses, later-name search and holding-archive questions in section 7 are authored procedure. The invented issue-note example is illustrative, not a transcription of an inspected record. S12 supports only the expressly limited catalogue example.
+
 ## Credits
 
 - J-Roots Forum, thread on the National Historical Archive of Belarus (NIAB) and its fonds — Forum post content, rights retained by the original authors; brief attributed paraphrase (adapted)
@@ -23,3 +27,4 @@
 - J-Roots Forum, surname-section thread on records for Rogachev and Rechitsa uezds — Forum post content, rights retained by the original authors; brief attributed paraphrase (adapted)
 - J-Roots Forum, general question-and-answer thread for users unsure where to ask — Forum post content, rights retained by the original authors; brief attributed paraphrase (adapted)
 - Kinprove original procedural synthesis; forum threads cited as S1–S5 supply worked examples and locators; statutory dates, the town copy and fond examples from S6–S10, paraphrased — FSL-1.1-MIT (kinprove-original)
+- State Archive of Lviv Oblast, fond 21 catalogue description — Rights retained by the archive; brief attributed paraphrase (adapted)
