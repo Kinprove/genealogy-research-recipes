@@ -35,9 +35,18 @@
 - **Remote-viewing timing:** the rule that paid time starts at the first opened case comes from S26 and S27.
 - **Caution on agreement between threads:** most locators and extracts come from a small group of experienced participants who repeat and quote one another. Agreement between threads is therefore often the same information repeated, not independent confirmation.
 
+### Further sources
+
+- **S28:** Поиск предков: Тульская губерния, [«Венёвские купцы Завьяловы - предки знаменитого учёного»](https://dzen.ru/a/YwoKLNxfBUoKNpZH), a Dzen post dated 28 January 2024 on the captured page, read 2026-11-15 from a captured copy. Used for: the 1624 Venev cadastre entry under a worldly name, the blogger's report that later documents give the baptismal name, and the 1646 household census entries of the sons. The later documents are not identified in the post.
+- **S29:** Ф. Б. Успенский, [«Как звали думного дьяка Ивана Елеазаровича Цыплятева (из истории имянаречения XVI столетия)»](https://publications.hse.ru/en/view/226936218), in «Вертоград многоцветный» (Индрик, 2018), pp. 387–396, HSE publication page with the chapter's abstract, read 2026-11-15. Used for: the abstract's statements that one person in medieval Rus could bear several names at once and that the public name often differed from the baptismal name. The chapter's full text was not read.
+
+The rule that a worldly name can give the children's surname while their patronymic follows the baptismal name is drawn from S28's one case; S29 supplies only the general practice of several names.
+
 ## Credits
 
 - Kinprove original procedural synthesis drawing on forum threads cited as S1-S25 — FSL-1.1-MIT (kinprove-original)
+- Dzen post of the channel «Поиск предков: Тульская губерния» cited as S28 — Copyright of its author; short quotation and paraphrase (adapted)
+- Ф. Б. Успенский's chapter cited as S29 — Published scholarship; paraphrase of its abstract (adapted)
 - Uralskaya genealogiya forum (rodgersforum), thread on a family of the Beloyarsk area and Chumlyak sloboda — Unspecified forum-post terms; paraphrased with attribution (adapted)
 - Uralskaya genealogiya forum (rodgersforum), thread on a family from Cheremisskoe with origin-resolution discussion — Unspecified forum-post terms; paraphrased with attribution, with a brief quotation of archival wording for identification (adapted)
 - Uralskaya genealogiya forum (rodgersforum), thread on the Kamensk works and Kamenskaya sloboda with 1719-1720 census headings — Unspecified forum-post terms; brief quotation of archival wording for identification (quoted)

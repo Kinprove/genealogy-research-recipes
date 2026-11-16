@@ -144,6 +144,17 @@ Set up one table per household, with one row per person and one column per list.
 - **Test absence across every source.** A participant noted that one or two omissions could be a scribe's error or a child too young to be listed, but checked a family across confession lists of 1808, 1815 and 1822, and revision lists of 1811 and 1816, before concluding that it had no such daughter. [S22] The 1811 revision recorded men only [S7], so that return says nothing about a daughter. Count only sources that record women.
 - **Be careful with Old Believer households.** One review compared a Rzhev list of 1850 with the tenth revision. It found the lists fairly reliable for the Orthodox and full of inaccuracies for Old Believer families, and it prefers revision lists for them. [S16]
 
+**Check a soldier's wife before attaching her.** A «солдатка» with children in a household is not
+thereby the wife of that household's known recruit, nor are the children thereby his. Read the
+pre-conscription list for his named wife, then test the proposed link against marriage, baptism
+and death entries. A different name leaves alternatives to investigate, including another woman,
+remarriage or an error; keep the link unresolved until the evidence distinguishes them.
+
+Issue 341 reports a single case in which the pre-conscription list named the recruit's wife
+differently from a later «солдатка» proposed as his wife. The underlying lists were not
+independently inspected here. The case warns against attaching her from household placement;
+it does not by itself settle her identity. [S42]
+
 ## 6. Find the lists
 
 - **Expect two copies.** One stayed in the church and the other went to the consistory, where the notebooks were bound into volumes by uezd or town. [S5 @2026-11-08], [S19 @2026-11-08] In a bound volume the churches tend to come in the same order each year. [S5 @2026-11-08]
