@@ -1,7 +1,7 @@
 ---
 id: "nazi-era-ancestry-proof-records"
 title: "Find and read a Nazi-era ancestry proof as a certified copy of register entries"
-summary: "Find and read a Nazi-era ancestry proof (Ahnenpass, Ahnentafel, certified extracts) and route the search by the role that required it."
+summary: "Find and read a Nazi-era Ahnenpass or certified ancestry proof, and route the search by the role that required it."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "german-compensation-file-recovery", "germa
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "German records", "order": 1080}
+router: {"section": "Records by country and region", "group": "Germany", "order": 73}
 ---
 
 # Find and read a Nazi-era ancestry proof as a certified copy of register entries

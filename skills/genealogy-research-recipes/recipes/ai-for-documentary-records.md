@@ -1,7 +1,7 @@
 ---
 id: "ai-for-documentary-records"
 title: "Using AI reliably in documentary & records genealogy research"
-summary: "Using an AI assistant *reliably* on DOCUMENTARY / records work (NOT DNA): handwriting transcription & translation, AI full-text / OCR finding aids (FamilySearch Full-Text Search), reviewing & correcting AI-indexed records, evaluating AI record hints, and image restoration / colorization / generation & evidentiary trust."
+summary: "Use AI safely on records: handwriting transcription and translation, OCR full-text search, AI-indexed records, record hints and photo restoration."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["any \"can AI/ChatGPT/Gemini transcribe or translate this handwriting\", \"full-text search for unindexed deeds/probate\", \"correct AI-indexed records\", \"evaluate an AI record hint\", \"colorize/restore an old photo\"."]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["research-documentation", "russian-household-list-transcription-audit"
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": [], "local_script": ["generated plotting script"], "extensions": [], "data_transfer": ["export", "publish", "third-party-tool"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 29}
+router: {"section": "Research method", "group": "AI and long projects", "order": 5}
 ---
 
 # Recipe: Using AI reliably in documentary & records genealogy research
@@ -137,6 +137,91 @@ Locket did with a deed, compare its output with the draft word by word and check
 on the image [S9 @2026-11-12]. A model correcting text without the image can replace a right reading with a
 plausible wrong one.
 
+### Gate a bulk handwritten-register run
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Register images can name living or possibly living people; answer the privacy gate in `SKILL.md` before sending any control image, crop or batch to an external AI reader.
+
+The following setup comes from a practitioner's report of blind Claude/GPT transcription
+over approximately 3,000 frames of 19th–20th-century registers, with 1,500-pixel scans and
+letters about 8 pixels high. These are reported observations, not an independently inspected
+benchmark; the underlying images, prompts and logs were not inspected here [S15].
+
+1. **Gate each new model, prompt or setting on a small blind control set.** Choose entries
+   whose decisive fields the researcher has verified on the image; withhold those expected
+   readings from the reader. The name-seeded prompt in item 3 above is an assisted reading,
+   not this blind test. Settle disagreements on the image and keep unresolved control readings open.
+   In the reported bulk work, one model completed every step yet substituted given names and
+   a parent's religious status; its own re-check did not catch them. Coverage and a completed
+   log do not establish reading quality [S15].
+
+2. **Test image scale on that control before bulk use.** The comparison used only five
+   entries, twelve decisive fields and one run per variant. Native half-page strips scored
+   8/12 fields, 1.5× scored 8/12, and 2× strips with 2.5–3× word zooms scored 10/12 at about
+   2.3× native tokens. Zooming only words the reader doubted
+   scored 9/12 at about the same token use as 2×. Every one- or two-field difference may be
+   noise. This does not establish a best scale. Resizing adds no source detail; retain crop
+   locators and line context as described under "The model may see a smaller image than the
+   file" below [S15].
+
+3. **Test script tips rather than assuming they improve a reading.** Adding a page of
+   look-alike letters, merged minims and crossed initials, with no answer words, to the
+   reader's instructions produced 9/12 at each of the three scales, against 8/12, 8/12 and
+   10/12 without it, using about 1–2× the images and
+   tokens. Those small differences do not demonstrate a consistent gain. An occupation/status
+   word and a place name failed in all seven tested variants. Even a passing control leaves every
+   conclusion-bearing entry to be verified on the image [S15].
+
+4. **Start with fresh, short readers and measure their work.** The report recommends at most
+   five frames per fresh reader; treat that as a starting setup to test. One reader on a
+   20-frame batch made 190–370 image views and 250–470 tool calls. In that agent framework,
+   calls carried accumulated image/text context: retained context and fixed instructions
+   matter alongside image size. Record calls, views
+   and token use rather than estimating resource needs from frame count or pixels alone [S15].
+
+5. **Check the actual reader configuration and image access.** The reported delegated reader
+   inherited tools, connector catalogs and a skills index: about 28k input tokens per call
+   before work, versus about 5.6k for a separate lean reader with file/image/shell tools and
+   no memory, rules or plugins. Keep readers lean by omitting inherited tools, connectors and
+   skill lists they do not need, while retaining applicable privacy and permission rules.
+   Shell access is a reported tool choice; the report does not establish whether omitting
+   memory prevents known names leaking into a reading. A tested safe mode removed image
+   access, and the readers correctly refused to transcribe; verify image access before
+   assigning a reading [S15].
+
+6. **Join batches and check gaps separately from accuracy.** Let a reader open a neighbouring
+   image only to complete the entry, including a misbound continuation; do not pass expected
+   readings or earlier drafts into a blind reading. Report source frame IDs and first/last entry
+   numbers so batches can be joined. Before calling a book read, diff the image files on disk
+   against frame IDs present in the extraction and account for every gap. An earlier draft in
+   the reported work silently skipped 140 frames, some containing entries. A complete inventory still
+   does not verify the readings [S15].
+
+7. **Treat the draft index as a finding aid.** The report describes the same patronymic being
+   misread twice, creating false hits for a wife's family. Re-read every hit on the image
+   before using it; repeated index hits do not corroborate a reading [S15].
+
+The follow-up used the same Claude Opus model, transcription brief and 2× strips, with
+different inherited tool and skill information. Per-call counts came from agent logs /
+worker `result` events. Both used six readers in parallel; the old 20-frame setup was one
+wave waiting for its slowest reader [S16].
+
+| Reported metric [S16] | Delegated 20-frame readers | Separate lean readers, ≤5 frames |
+| --- | --- | --- |
+| Frames measured | 120 (one wave) | 140 (28 batches) |
+| Input tokens/frame, including cache reads | ≈1.69 M | ≈0.74 M; median 0.70 M, range 0.36–1.37 M |
+| Cache reads as share of input | ≈83% | ≈94% |
+| Output tokens/frame | ≈8.6k | ≈10.7k |
+| Throughput with six readers | ≈1 frame/min | ≈2.3 frames/min |
+| Image views/frame | ≈14 | ≈16 |
+
+Input per frame fell about 2.3× in this comparison, while image views were similar. The report
+attributes the saving to shorter accumulated context and a smaller fixed prompt. Different
+frames of the same books were used (density varies by year), and six lean batches interrupted
+by a network outage supplied no token counts and were excluded. Batch size, fixed prompt and
+launch method changed together, so the comparison does not isolate their effects or establish
+an accuracy gain. Input/cache/output counts are not a billed-price comparison; measure the
+chosen setup on the intended material before promising cost or throughput [S16].
+
 ### Generate candidates for an uncertain German word
 
 Retain the partial literal reading and visible beginning/ending letters. Compare candidates
@@ -256,6 +341,8 @@ the original. A cropped or re-saved copy can lose the marks, so their absence do
 that an image is unaltered.
 
 ## The pitfalls worth internalizing (the least-obvious, most-LLM-usable part)
+
+For Russian Orthodox metrical books, use the [Reading the page checklist](russian-orthodox-metrical-book-recovery.md#reading-the-page) alongside these checks.
 
 - **Chained tools propagate a single misread** — transcribe→translate→summarize means one bad transcription poisons every downstream output. (Family Locket)
 - **Names, dates, and numbers are the high-error zone** — models transcribe narrative well but substitute a familiar name seen earlier; "November"→"December," "township 18"→"182." Domain knowledge (a plat can't be township 182) is what exposes them. (Genealogy Gems; James Tanner)

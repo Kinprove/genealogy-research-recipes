@@ -1,7 +1,7 @@
 ---
 id: "dnapainter-practical-dna-workflows"
 title: "Practical DNA Painter maps, matrices and tree worklists"
-summary: "Ten practical DNA Painter workflows: paint measured matches, copy or merge maps of one tester, intersect phased inheritance, calculate provisional missing intervals, combine coordinate spans, plan descendant tests, annotate cluster-derived maps, build direct-ancestor gap worklists, audit numeric pair amounts, and inspect Shared cM histograms and two-value range screens."
+summary: "Use DNA Painter to map segments, combine phased maps, estimate missing intervals, plan tests and check shared-cM ranges."
 kind: "platform"
 scope: {"platforms": ["dna-painter"], "tasks": ["Paint a new match, map duplication/CSV transfers, Common Segment Generator, Inferred Segments Generator, Distinct Segment Generator, Coverage Estimator, Cluster Auto Painter annotations, ancestral-tree reports, sourced numeric pair matrices, or Shared cM histograms and two-value range screens."]}
 privacy: "genetic-third-party"
@@ -11,7 +11,7 @@ handoff: ["unknown-parentage-wato", "xdna-phasing-judgment", "ydna-mtdna-interpr
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["dna-painter"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "third-party-tool", "upload"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 40}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 23}
 ---
 
 # Recipe: Practical DNA Painter maps, matrices and tree worklists

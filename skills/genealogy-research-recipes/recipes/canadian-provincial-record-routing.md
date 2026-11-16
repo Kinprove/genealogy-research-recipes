@@ -1,7 +1,7 @@
 ---
 id: "canadian-provincial-record-routing"
 title: "Route a Canadian vital, military or Indigenous-series record to its province, custodian and access category"
-summary: "Route a Canadian vital registration, world-war personnel file, Métis or First Nations record, or British Home Child to the province, custodian and access category of its date and series."
+summary: "Route a Canadian vital record, war personnel file, Métis or First Nations record, or Home Child to its province, custodian and access category."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["canadian-census-interpretation", "catholic-parish-diocesan-record-rec
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Country record routing", "order": 1065}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 118}
 ---
 
 # Route a Canadian vital, military or Indigenous-series record to its province, custodian and access category

@@ -1,7 +1,7 @@
 ---
 id: "corpus-seeded-name-search"
 title: "Corpus-seeded name searches across scripts and OCR"
-summary: "Recover attested spellings across scripts and OCR by separating encoding, orthography and field behaviour."
+summary: "Recover attested name spellings that searches miss across scripts and OCR by separating encoding, orthography and field behaviour."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["Hebrew/Yiddish name misses, lossy search folds or uncalibrated zero results."]}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "beider-given-name-variants", 
 checked: "2026-10-18"
 checked_basis: "opened 2026-10-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 4}
+router: {"section": "Research method", "group": "Search coverage and name searches", "order": 7}
 ---
 
 # Recipe: Corpus-seeded name searches across scripts and OCR

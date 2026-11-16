@@ -11,7 +11,7 @@ handoff: ["dna-match-outreach-staging", "evidence-proof-judgment"]
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"tier": "full", "group": "Featured workflows", "order": 5}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 66}
 ---
 
 # Recipe: Interpret a Holocaust name record through its underlying source
@@ -129,6 +129,16 @@ birthplace. Record whether you inspected the card or only the certificate. A cer
 is not evidence that no birthplace was recorded, and a card entry is a registration statement,
 not a birth record. The thread does not show which card formats carry these fields, or the
 current request conditions.
+
+When the person sought was a child under 16, ask for the card under each accompanying adult's name
+as well as the child's. In the evacuee card file of the Russian Red Cross Centre for Tracing and
+Information (ЦРИ РКК), cards were filled in for adults at the place of evacuation and sent to
+Buguruslan, and children under 16 were written onto an adult's card; the file is arranged by
+surname and was not digitised in March 2025. [H22] A child evacuated with a school or a children's
+home belongs to a separate card file of the same centre, for children evacuated with institutions,
+children of repressed parents and children's-home pupils. [H22] A 2024 Dzen guide also says that
+children under 16 were often written onto one parent's card. [H23] So no card in the child's own
+name is not evidence that the child was not evacuated.
 
 For a compilation covering several regions or source lists, keep the region and source-list
 reference with each row/family counter. Identical counters across lists do not join households.

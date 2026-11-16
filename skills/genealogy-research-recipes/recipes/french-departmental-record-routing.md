@@ -1,7 +1,7 @@
 ---
 id: "french-departmental-record-routing"
 title: "Route French records by département, creator, series and access rule"
-summary: "Route French civil, census, military, property, notarial, medal, consular, OFPRA refugee and prison records by creator, département, series and access rule; follow cadastral names through mortgage accounts to deeds and historical Paris addresses to property registers; trace Saint-Pierre victim leads to civil records/death judgments and pre-parish town lineages to civic admissions; follow missing Léonore dossiers into published nominations and named prisons through tables to admission entries; distinguish recruitment stages and JMO context, adoption-date references, Basque house-entry names and Breton marriage decrees."
+summary: "Route French civil, census, military, notarial, property and prison records by creator, département, series and access rule."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "evidence-proof-judgment", "fr
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Country record routing", "order": 1062}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 88}
 ---
 
 # Route French records by département, creator, series and access rule

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-02"
 checked_basis: "checked 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1086}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 49}
 ---
 
 # Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books
@@ -168,6 +168,8 @@ Log each copy as a separate observation with its own locator. Do not treat agree
 - **Expect surnames to change.** A settler can carry a surname taken from his father's church office in the Siberian book while his children later revert to the family surname. [S14]
 - **A surname dictionary built from census books is a lead, not a source.** In one check, the dictionary attributed a 1623 person to one surname while the manuscript extract read a similar but different one. The dictionary's cited village also lacked a person who appears in a neighbouring починок. Read the manuscript or an extract, and check neighbouring settlements. [S9]
 - **A within-family chain is stronger where only one household of the surname lives in the village.** That was the case for the bridge from the 1747 revision to early-19th-century metrical books. Even then, test patronymics generation by generation. [S18] Send the identity ruling to [evidence/proof judgment](evidence-proof-judgment.md).
+
+- **A father's worldly name can become his children's surname while their patronymic follows his baptismal name.** In medieval Rus one person could bear several names at once, and his public name often differed from the name he received at baptism. [S29] In a Tula-region case, the 1624 cadastre of Venev lists a townsman under the worldly name Завьялко; the blogger reports that later documents give his baptismal name as Игнатий, and the 1646 household census of the town lists his sons in the form «… Игнатов сын Завьялов». [S28] Search the father's worldly name as the children's surname, and do not reject a son whose patronymic does not match it.
 
 ## 10. Classify an absence before reading it
 

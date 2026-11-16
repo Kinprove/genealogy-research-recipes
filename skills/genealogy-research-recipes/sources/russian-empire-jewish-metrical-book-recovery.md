@@ -15,6 +15,17 @@
 
 - **S11:** *Еврейская энциклопедия Брокгауза и Ефрона*, article [Метрикация, метрические книги и свидетельства](https://ru.wikisource.org/wiki/ЕЭБЕ/Метрикация,_метрические_книги_и_свидетельства), the first of the two articles in S6, read on its own on Russian Wikisource on 2026-11-12. Rights: public-domain reference, paraphrased. Used for: the 1835 Statute requiring rabbis to keep metrical books for circumcisions, marriages, divorces and deaths («для записи актов обрезания, бракосочетания, развода и смерти»).
 
+- **S12:** State Archive of Lviv Oblast, [catalogue description of fond 21, the interwar state archive in Lwów](https://e.archivelviv.gov.ua/fonds/21/), read 2026-11-16. Opis 1 covers 1918–1939; its description lists name indexes to issued biographical and thematic certificates and warns that described documents may be incomplete and not cover every year. Used only as a catalogue example motivating an inquiry about administrative finding aids. No individual file was inspected; this description does not interpret numbers in metrical annotations or establish a request file's survival in another archive. Rights: cited reference, paraphrased, not reproduced.
+
+The full-image transcription, competing-requester hypotheses, later-name search and holding-archive questions in section 7 are authored procedure. The invented issue-note example is illustrative, not a transcription of an inspected record. S12 supports only the expressly limited catalogue example.
+
+### Sources added 2026-11-15
+
+S14 is a post on the Dzen channel «Сыщик рода», read on 2026-11-15 from a copy captured that day, without its images; its archive example applies only to Moscow guberniya.
+
+- **S13:** КонсультантПлюс, ["Федеральный закон «Об актах гражданского состояния» № 143-ФЗ, ст. 77"](https://www.consultant.ru/document/cons_doc_LAW_16758/7bffa90c9f7761365b38aa5eb603a386d4c6c4c5/), edition of 04.08.2026, read 2026-11-15. Used for: act books kept in the civil-registration bodies for one hundred years from the drawing up of the records, then transferred to the state archives.
+- **S14:** Dzen channel «Сыщик рода», [«Справка ЗАГС с иными сведениями - новый объект охоты генеалогов!»](https://dzen.ru/a/ZKfCSy2Tyz1eDC1M), published 2023-08-02, read 2026-11-15 from a captured copy. Used for: Art. 77 applied to early Soviet act records of 1918 to about 1926, to be sought in regional archives, and the Central State Archive of Moscow Oblast named as the holder of Moscow guberniya act records.
+
 ## Credits
 
 - J-Roots Forum, thread on the National Historical Archive of Belarus (NIAB) and its fonds — Forum post content, rights retained by the original authors; brief attributed paraphrase (adapted)
@@ -23,3 +34,5 @@
 - J-Roots Forum, surname-section thread on records for Rogachev and Rechitsa uezds — Forum post content, rights retained by the original authors; brief attributed paraphrase (adapted)
 - J-Roots Forum, general question-and-answer thread for users unsure where to ask — Forum post content, rights retained by the original authors; brief attributed paraphrase (adapted)
 - Kinprove original procedural synthesis; forum threads cited as S1–S5 supply worked examples and locators; statutory dates, the town copy and fond examples from S6–S10, paraphrased — FSL-1.1-MIT (kinprove-original)
+- State Archive of Lviv Oblast, fond 21 catalogue description — Rights retained by the archive; brief attributed paraphrase (adapted)
+- Dzen channel «Сыщик рода» post cited as S14 — Copyright of its author; short paraphrase (adapted)

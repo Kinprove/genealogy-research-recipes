@@ -1,7 +1,7 @@
 ---
 id: "family-collection-intake-and-capture"
 title: "Take in, capture and hand over an inherited family collection"
-summary: "Take in, inventory, plan the capture of and hand over an inherited family collection of boxes, albums, loose photographs, papers or existing scans."
+summary: "Inventory, plan the capture of and hand over an inherited family collection of albums, photographs, papers or scans."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"tier": "pointer", "group": "Family papers, photographs and oral history", "order": 1123}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 138}
 ---
 
 # Take in, capture and hand over an inherited family collection

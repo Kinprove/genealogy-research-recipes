@@ -11,7 +11,7 @@ handoff: ["corpus-seeded-name-search"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1091}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 54}
 ---
 
 # Recover a pre-1917 Russian official's service list through the employing institution's fond
@@ -57,6 +57,10 @@ Rosarkhiv's page on genealogical research in RGVIA, as captured in March 2023, a
 these kinds also occur in other fonds of the archive, and notes an alphabetical index to the officer
 lists of the latest period. [S22 @2026-11-13]
 
+**Other central routes.** For a naval officer or official, search the Russian State Archive of the Navy (RGA VMF), which holds over a million files on the fleet from the 17th century to 1940. [S26 @2026-11-15] For 18th-century service, the Senate's Herold-master's office kept account of service people, and a 2026 study of retired officers of Peter I's army works from its records in RGADA f. 286. [S27 @2026-11-15] A man entering service had to supply his father's formulary list, sometimes also his grandfather's, to document his origin, so look for them in his own file before you search for the father separately. [S25 @2026-11-15], [S24 @2026-11-15]
+
+**Lower ranks' insignia.** RGIA f. 496 is the fond of the Chapter of Russian Orders. [S29 @2026-11-15] It holds the lists of lower ranks awarded the insignia of the Order of St George from 1807 and of the Order of St Anne from 1797, with the insignia's number, the man's name, the year and his unit. [S28 @2026-11-15] A database built from the fond's op. 3 files on the St Anne insignia for 20 years' service says that they sometimes give the date on which the insignia came back to the Chapter after its holder's death or its loss, or the date of a pension petition. [S29 @2026-11-15] Read a return date as a lead to a death or a loss, not as proof of which, and look for the event in the regiment's and the parish's records.
+
 When a list ends, copy the closing entry and its reason exactly. Examples are transfer to railway control, call-up for military service, retirement on petition, or death. A stated destination is your next fond to search. The end of a list is not the end of a career. [S8], [S4], [S3]
 
 ## 3. Choose the right folios inside a combined staff-list file
@@ -98,6 +102,8 @@ the first half of the nineteenth century, because they were often entered from m
 lists also gave the children's religion and, not always, the wife's birth date and the marriage date.
 [S23]
 
+**Read an awarded order by the rules of its date.** Until 1845 any Russian order gave the right to hereditary nobility [S32], except that a merchant awarded an order from 30 October 1826 received only personal nobility. [S37] From 1845 only the orders of St Vladimir and St George did so in every class, and the other orders only in their first class; from 28 May 1900 the 4th class of St Vladimir gave only personal nobility. [S32] The Russian Order of St Stanislaus had three classes from its statute of 1839, so a 4th-class award comes from before 1839; awards of its 2nd and 3rd classes were suspended in 1845 and resumed in 1855, when only the 1st class still carried hereditary nobility. [S31] A Tula family's service lists show a clerk of clergy origin awarded St Stanislaus of the 4th class in 1838 and St Vladimir of the 4th class in 1848, and his father, of the same origin, awarded St Vladimir of the 4th class in 1847 and enrolled in the nobility. [S30] When a list shows an order awarded before its cutoff, search the guberniya noble deputies' assembly and RGIA f. 1343 for an enrolment, whatever estate the man was born into.
+
 ## 5. Add dated observations from professional lists and calendars
 
 - Build a series by year from provincial address calendars and Памятные книжки. For each, record the edition, its page and the section, for example parish schools or women's progymnasium. One participant found nothing on one page of the 1904 Tobolsk calendar but found the family under other sections of the same volume. A miss applies only to that section. [S10]
@@ -119,6 +125,8 @@ lists also gave the children's religion and, not always, the wife's birth date a
   - the 1914 list of Russian subjects caught abroad by the war (Список русских подданных, застигнутых войною за границей, Выпуск I, 26 July – 19 August 1914, Petrograd 1914), which gives home city and foreign address [S9];
   - A. A. Starchevsky, Памятник Восточной войны 1877–1878 гг. (St Petersburg, 1878), an alphabetical book on distinguished, killed, wounded and shell-shocked participants [S2].
 - Copy names as printed. One 1915–1916 Весь Киев entry gives two different abbreviated forenames for the same man. [S9] Keep misprints too: a participant marked one misspelt RMS surname "(!)". [S10]
+
+- **Moscow: «Вся Москва».** The directory appeared yearly from 1872 to 1936. Its alphabetical list of residents usually names only heads of households, so spouses and minors are missing, and it also lists the staff of state, public and private institutions. [S36] Look for it in Glavarkhiv Moscow's online service «Моя семья», which in July 2024 included pre-1917 reference editions, among them «Вся Москва» and trade-and-industry directories. [S35] One blogger found through the directory a relative's street, his elected posts in the Moscow мещанская управа and his dye works [S34]; another found a jeweller in the trade section of the 1905 edition under «Ювелирныя вещи». [S33] Search each year's resident list, the institution lists and the trade sections, and record the edition, section and page of each observation.
 
 ## 6. A family-story "аптекарь": keep two hypotheses
 

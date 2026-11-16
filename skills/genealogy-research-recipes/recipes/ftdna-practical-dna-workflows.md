@@ -1,7 +1,7 @@
 ---
 id: "ftdna-practical-dna-workflows"
 title: "Maintaining FamilyTreeDNA exports and tree links"
-summary: "Eight FTDNA workflows for Matrix observations, paired match/segment exports, duplicate-name joins, MyHeritage tree links, Family Matching and public Y-DNA Group Time Tree, supplied Globetrekker map or two-label comparison packets."
+summary: "Keep FamilyTreeDNA match and segment exports, tree links, Family Matching and Y-DNA Group Time Tree observations reproducible."
 kind: "platform"
 scope: {"platforms": ["familytreedna"], "tasks": ["Family Finder CSV scope, opaque note handles, selected-match segment files, transferred links that need confirmation, dated parental-bucket inventories, subgroup selections, branch estimates, obscured map nodes, hidden details or authorized project-display checks."]}
 privacy: "genetic-third-party"
@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-comparison-controls", "myheritage-dna-matc
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["familytreedna"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 39}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 20}
 ---
 
 # Recipe: Maintaining FamilyTreeDNA exports and tree links

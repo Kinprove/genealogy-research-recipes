@@ -1,7 +1,7 @@
 ---
 id: "french-belgian-civil-act-extraction"
 title: "Extract French and Belgian civil acts field by field"
-summary: "Extract French or Belgian civil acts, trace French marginal continuations and separately maintained copies, and check Paris reconstructions when the original series is unavailable."
+summary: "Extract French or Belgian civil acts field by field, follow marginal notes and copies, and use Paris reconstructions for lost originals."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Church and civil registers", "order": 1053}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 89}
 ---
 
 # Extract French and Belgian civil acts field by field

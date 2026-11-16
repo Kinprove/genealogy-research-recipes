@@ -1,7 +1,7 @@
 ---
 id: "source-citation"
 title: "Source citation record"
-summary: "Preserve a retrievable source record and connect each citation to the evidence it supports."
+summary: "Write citations that let a reader retrieve the source and see which evidence each citation supports."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["source citations, repository and item locators, layered citations, shortened references"]}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "research-documentation", "russian-empire-e
 checked: "2026-10-21"
 checked_basis: "checked 2026-10-21"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Evidence and documentation", "order": 133}
+router: {"section": "Research method", "group": "Evidence and proof", "order": 2}
 ---
 
 # Source citation record

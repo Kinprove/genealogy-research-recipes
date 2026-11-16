@@ -1,7 +1,7 @@
 ---
 id: "spanish-civil-parish-record-routing"
 title: "Route a Spanish or Andorran record to the archive that holds it on the event date"
-summary: "Route a Spanish or Andorran vital, padrón, Catastro, notarial, military or Civil War record to the body that holds it on the event date."
+summary: "Route a Spanish or Andorran vital, padrón, notarial, military or Civil War record to the body that holds it on the event date."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["catholic-parish-diocesan-record-recovery", "city-directory-observatio
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Country record routing", "order": 1061}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 93}
 ---
 
 # Route a Spanish or Andorran record to the archive that holds it on the event date

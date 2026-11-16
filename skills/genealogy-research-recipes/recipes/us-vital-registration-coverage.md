@@ -1,7 +1,7 @@
 ---
 id: "us-vital-registration-coverage"
 title: "Build a U.S. vital-registration coverage register before calling a birth or death record missing"
-summary: "Build a register of every U.S. birth and death registration authority and series before calling a record missing."
+summary: "List every U.S. birth and death registration authority and series before calling a record missing."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Church and civil registers", "order": 1042}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 100}
 ---
 
 # Build a U.S. vital-registration coverage register before calling a birth or death record missing

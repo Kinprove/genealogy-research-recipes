@@ -11,7 +11,7 @@ handoff: ["burial-evidence-packet", "evidence-proof-judgment", "russian-empire-j
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1093}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 57}
 ---
 
 # Recover Soviet personal files when ZAGS or metrical records are lost
@@ -65,6 +65,18 @@ copied word for word from the record. It never carries adoption information in a
 the declarant's place of residence when a private person declared the registration. [S41], [S42] So
 name each record line you need.
 
+**When only the name and year of death are known, request a repeat death certificate.** Under Federal
+Law 143-FZ the death certificate states the deceased's date and place of birth (Art. 68), and a
+relative of the deceased or another interested person may receive a repeat one (Art. 9, Part 2).
+[S48], [S65] Both lines are copied from the death record: a line the record lacks is printed as a
+dash, and the birthplace keeps the elements in the order the record gives them (Minjust order No. 167
+of 13.08.2018, App. 2, rules 10 and 15). [S49] So read the birthplace as written at registration, in
+the units of that time, not as a modern address. A Tula-region researcher reports a repeat certificate
+placing a birth in a village of a "Karachevsky district" of Tula oblast. A Karachevsky district
+existed in Tula guberniya only from 1924 to November 1926, on land of the former Epifan uezd, and
+the 1899 birth was in the metrical book of a neighbouring village's church. [S50], [S51] Check each
+named unit against the administrative history of its date before you choose a parish.
+
 **Second copies.** Paper act records from before 1 October 2018 were made in two copies. Books of
 second copies are kept by the regional body in charge of civil registration where the records were
 made. They are destroyed once the books of first copies go to the state archive, but not when the
@@ -102,9 +114,14 @@ Do not stop at the subject's own files. A descendant's file can hold the parents
 - Under the 1974 Passport Regulation, ZAGS enters the holder's children and the marriage and divorce marks, and internal-affairs bodies make the residence stamps. When a passport is exchanged or replaced, only children under 16 are entered in the new one, so the page is not a complete list of children [S19].
 - Identify the passport model before you read an absence or an unexpected mark. The 1974 rules forbid any marks other than those they list [S19]. Earlier passports could carry a residence-restriction entry citing Article 38 or 39 of the passport regulations, which applied to released convicts. Treat such an entry as a lead to a conviction file [S20], [S21].
 
+- **Privacy gate:** <!-- privacy-gate: request --> A passport application card names the holder's parents and spouse, who may be living; answer the privacy gate in `SKILL.md` before writing to a passport office.
+- **When the passport is lost, ask for its application card.** A 2025 guide by Olehadash describes the Soviet passport application, «форма № 1» (in Russian Federation usage «форма 1П»), as used for the nationwide exchange of passports that began in 1976. Its lines include the birthplace in the administrative units of the day and the father's and mother's full names. The guide quotes an MVD letter that a copy of a dead person's form goes, on personal application, to heirs who accepted the inheritance or are first-order heirs and show documents proving inheritance or kinship. It sends the request to the migration unit of the MVD body for the address where the passport was issued, one request per address the person lived at from the mid-1970s, and warns that no office is obliged to issue the form [S52]. Prepare the kinship-proof chain of step 5 before you write.
+
 ## 3. Route each institution to its series and present custodian
 
 Write one row per locator and person, using the fields in the output register at the end of this recipe. The routes below are the ones the sources demonstrate, and each applies only to the archive and years named.
+
+**Search the federal archives' finding aids by name first.** Rosarkhiv opened ГИС УИАД (online.archives.ru) on 25 September 2023. It searches the file-level inventories of 13 federal archives, among them ГАРФ, РГАЭ, РГАСПИ, РГВА and РГАНИ, by a word or with filters for archive, fond, opis and file titles, dates and document types, and at its launch it was free and needed no registration [S53 @2026-11-15], [S54 @2026-11-15]. In a 2024 Dzen post, a search on a great-grandfather's full name returned the archive, fond, opis and title of his personnel file in РГАЭ, and the author warns that such a hit can be a namesake's [S54 @2026-11-15]. From 10 September 2025 the system also shows scans from three federal archives (РГАДА, РГИА ДВ and РГАНТД), viewable only after a Gosuslugi login and online payment [S55 @2026-11-15]. From outside Russia the portal did not answer on 2026-11-15. Log each hit as a title-only candidate (step 5).
 
 **Workplace.**
 
@@ -146,6 +163,14 @@ Write one row per locator and person, using the fields in the output register at
   - Participants reported the steps: request copies by email, receive an invoice, get scans after payment. They said a request works best with an exact death date [S2].
   - RGASPI f. 585 is the fond of the Institute of Social Sciences (ИОН). One participant said that its op. 2 (listeners' files) has an inventory dated 1963–1989 and that RGASPI was not then fulfilling requests for that fond [S2].
 - **The 1922–1923 All-Russian census of party members** (Всероссийская перепись членов РКП(б)). Questionnaires for the Sverdlovsk region are in ЦДООСО, f. 76, op. 1. They are digitised in the UrFU archive (idun.urfu.ru, "Анкеты" collection) and cited by folio. A participant pointed out that researchers search only the repression lists and miss this series [S7], [S8].
+
+- **RGASPI requests: ask for every set, and give a key the archive files by.**
+  - A registration form (регистрационный бланк) and an accounting card were filled in when a member joined and again at each exchange of party cards, in 1922, 1927, 1936, 1954 and 1973, and the earlier forms were kept [S56], [S57]. One researcher received two registration forms for one man from RGASPI, filled in when he joined in 1953 and at the 1954 exchange [S58]. Ask for every set in the file.
+  - Ask for the registration form, not only the card. Its occupation table gives each period of study and work from and to by month and year, with the place, the organisation and the post, and so names the personnel files to request next [S57], [S58]. Its pre-1917 entries are self-reports: the guide warns that a member of non-proletarian origin could have written himself down as a peasant [S57].
+  - RGASPI files the cards by party-card number. Without the number it searches the books of card issue by the date and place of joining, or the books of cancelled cards by the date and place of leaving the party, death included; that search costs more and takes longer [S59]. A death identifies the card only if it fell while party registration still ran, before 1991 [S57]. If you know little, ask the regional party archive for the card number first [S59].
+  - Expect a kinship question. The guide says RGASPI asked for no proof of kinship [S57], but an article on party records says a written request may need documentary proof [S56], and one researcher received a 1936 file but not the 1954 one, because the member's birth record was required [S60].
+
+- **Komsomol (ВЛКСМ) membership** is filed in the Komsomol district-committee (райком) fonds of the regional archive of recent history, the former party archive [S59], [S61]. A 2026 Dzen guide describes the series there: yearly lists of members by school, technical school and enterprise (birth year, education, occupation, party membership, army service, address and card number); books of card issue; journals of members taken onto and struck off the register (address, where the member came from or left for); and the applications and questionnaires of new members, some with an autobiography [S61]. Work out the raikom from the residence, school or workplace before you search, because in a city with many districts the wrong raikom means reading many files [S61]. Estimate the joining year from the age rules of the period: 14 to 23 under the 1918 and 1924 rules, a minimum of 16 until it was lowered to 14 in November 1942, and 14 to 28 in the post-war decades [S61], [S62], [S63].
 
 **Military.**
 
@@ -209,6 +234,8 @@ well as GARF's лишенец files.
   - **Privacy gate:** <!-- privacy-gate: request --> Household-book entries list every household member and their age, and some may still be living; answer the privacy gate in `SKILL.md` before requesting an entry or a surname search.
   - Request the book for the named settlement and period and the entry for the household of the named head, with name variants, and ask whether a copy of the family-composition entry is possible. If the head is unknown, request a surname search within that settlement and ask its terms.
   - An entry lists the members, their relation to the head and their age, with marks of arrival in and departure from the household. The form changed several times between 1934 and 1975, so read the columns of the book you receive [S14].
+
+  - **For a book less than 75 years old, prove kinship in the request.** A 2023 Dzen guide says kinship must be proved for a household book less than 75 years old, the term of the closure in step 5, so the cut-off year moves forward each year [S64]. State how each household member is related to you and offer copies of the kinship documents. Its author did so by email to a municipal archive and received his family's books for 1936–1961 as certified copies by post [S64].
 
   - **If the household books are lost, look for the kolkhoz's own records.** In the Mari El state archive, the fond of kolkhoz «Ноля» (f. Р-420, op. 1) holds members' personal accounts for 1933–1934, a household book of its members for 1936 and labour-day books (книги учёта трудодней) for 1938, 1939 and 1941 [S37 @2026-11-08]. Records of liquidated kolkhozes can also sit in a district archive that confirms former workers' service and pay for pensions, as in Sysert [S38 @2026-11-08], so search both the kolkhoz fonds and the personnel (по личному составу) fonds.
 

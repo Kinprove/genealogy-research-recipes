@@ -1,7 +1,7 @@
 ---
 id: "archival-image-coverage-verification"
 title: "Verifying archival images, case boundaries and search coverage"
-summary: "Verify case boundaries, image order, transcript version and the pages and targets actually inspected."
+summary: "Check archival case boundaries, image order and which pages were actually inspected before calling a search complete."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["catalogue/cover disagreements, conflicting readings or completeness claims."]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "corpus-seeded-name-search", "evidence-p
 checked: "2026-10-18"
 checked_basis: "opened 2026-10-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 3}
+router: {"section": "Research method", "group": "Search coverage and name searches", "order": 6}
 ---
 
 # Recipe: Verifying archival images, case boundaries and search coverage
@@ -129,6 +129,26 @@ When one parish's registers for successive years sit in different files, keep a 
 
 In a volume covering several settlements, check the end of each settlement's section, not only the front or back of the volume, for a surname list compiled for that section. Record for each section whether one was found. The [multi-settlement revision-volume tip](https://forum.j-roots.info/viewtopic.php?f=152&t=36) reports such lists in only some sections of one volume. Treat a list as a finding aid: it does not replace reading the entries. A section without a list is not thereby incomplete, and a name missing from a list is not an absence.
 
+When asked whether everything has been reviewed, list every source and bound part with the
+question and targets under which it was read, the inspected range and its run-log reference.
+Reconcile prior runs before calling a part unread merely because it is absent from the current
+index. For a complete reading of your own transcript index, use the
+[delegated text-reading checks](agent-research-project.md#reading-your-own-transcript-index).
+
+According to issue 341, a neighbouring parish's book bound into another parish's volume had been
+read in its own run but was absent from the latter parish's index. It appeared unread until the
+run log was consulted. This is one project report, not an independently checked book or log. [S56]
+
+Before retiring an older extraction pass, carry its unresolved doubts and conflicts into a
+register linked from the current person or question note. Keep the competing literal readings,
+their dates and source locators, who raised the doubt, its reason and its current status. A new
+index's clean rows do not resolve an earlier conflict; retain the earlier pass as evidence.
+
+The same report describes an older note flagging one man's two patronymics: one in 1902 and 1906,
+another in 1904, with the same wife's name and patronymic. The new per-entry index held clean rows
+without that flag. This is a reported single case; the underlying entries were not independently
+inspected here, and the identity conflict is not resolved here. [S56]
+
 ## Adjudicate each field against the image
 
 Open a native-resolution passage with preceding words, the complete entry and any continuation line. Keep the full page for headings and context; a tight surname crop can conceal the given name or patronymic. Distinguish an entry's subject from an owner named inside an address, witness, institution or place.
@@ -172,7 +192,13 @@ For Estonian and Latvian church books, check the national archives' image portal
 
 Raduraksti's home page, checked 2026-11-08, also links to Riga house registers (late 19th century to 1918) and to separate databases of passports of residents of Latvia (1918–1940), University of Latvia students (1919–1944) and deportees (1941–1953) [S47 @2026-11-08]. For a person in interwar Latvia, search the passport collection; the house registers end in 1918. The only census on the list is the 1897 one: do not assume the 1935 census is online there.
 
-Check each retrieval before you trust it. Before saving or citing an image from a dynamic viewer, match the loaded image to the selected frame by image ID, load completion and content, not by the address bar or frame counter; if the match cannot be shown, record the locator as uncertain, and never give the previous image the new frame number. Check that a sample of any download decodes in the expected format and shows the record, not a login, error or protection page, before counting a page as obtained or read. A hash proves the bytes, not their description. Compare an extracted PDF text layer with the page image before searching it, and look at a page with empty OCR before calling it blank. A truncated response is usable only if the needed table is complete by its own bounds and row count. None of these signals supports a negative search: compare the derivative with the displayed page and re-read the affected pages.
+For Lithuanian metrical books, the Lithuanian State Historical Archives (LVIA) say that images were uploaded to ePaveldas (`epaveldas.lt`) until early 2022 and that digitised files have gone to the EAIS Digital Reading Room (`eais.archyvai.lt/repo-ext`) since 2022; the reading room also holds the books shown on ePaveldas. For a file already uploaded there, the ePaveldas main view shows only its cover. To see the whole file, click the cover, open "Objekto duomenys" (object data) at the lower left and follow the Digital Reading Room link [S55 @2026-11-15]. A cover-only view on ePaveldas therefore does not show that the rest of the book was not digitised.
+
+Check each retrieval before you trust it. Before saving or citing an image from a dynamic viewer, match the loaded image to the selected frame by image ID, load completion and content, not by the address bar or frame counter; if the match cannot be shown, record the locator as uncertain, and never give the previous image the new frame number. Decode every image counted as obtained or readable in a coverage claim, including every frame of a multi-image file, and check that it shows the record, not a login, error or protection page. File existence, byte size and successful decoding do not establish that anyone read the page. A hash proves the bytes, not their description. Compare an extracted PDF text layer with the page image before searching it, and look at a page with empty OCR before calling it blank. A truncated response is usable only if the needed table is complete by its own bounds and row count. None of these signals supports a negative search: compare the derivative with the displayed page and re-read the affected pages.
+
+Issue 341 reports one local image containing 389,448 bytes of zeros: it passed a size check, and
+no pass had read it. The report motivates decoding as part of the coverage check; that file was
+not independently inspected here. [S56]
 
 For JewishGen Ukraine, follow the current Ukraine RD FAQ to its monthly/cumulative upload listings. Compare the actual file reference, years, locality and record type; retain the inspected row and listing date. The FAQ describes periodically updated upload lists, not a guarantee of complete transcription of every case subsection. A missing row does not establish permanent non-indexing. [S3]
 

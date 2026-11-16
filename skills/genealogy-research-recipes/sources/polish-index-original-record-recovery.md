@@ -125,6 +125,45 @@ screenshots, catalog entries and real family examples are not reproduced.
 
 - **P13:** Archiwum Państwowe w Kaliszu, [online exhibition «Nadaję ci imię»](https://www.kalisz.ap.gov.pl/wystawy-on-line/nadaje-ci-imie), read 2026-11-13. Used for: witnesses of the declaration and godparents as separate roles in acts from the Russian partition, with an annotated act of 1913 and an Evangelical act of 1861 in which two of the four godparents were also witnesses.
 
+### Sources added 2026-11-15
+
+P15, P18 and P19 are posts on the Dzen channel «Генеалогия, или Как я встретил вашу маму», read on
+2026-11-15 from copies captured that day, without their images; they report one researcher's
+searches for one family.
+
+- **P14:** Wiktionary, ["Zaremba"](https://en.wiktionary.org/wiki/Zaremba), Polish section,
+  read 2026-11-15. Used for: Zaremba as a variant of the surname Zaręba, its pronunciation
+  /zaˈrɛm.ba/, and Zaręba as its homophone.
+- **P15:** Dzen channel «Генеалогия, или Как я встретил вашу маму», [a post on the Polish records
+  of a Pułtusk-area family](https://dzen.ru/a/aDGmnrFzTAbIgfUV), published 2025-05-26,
+  read 2026-11-15 from a captured copy. Used for: a male line searched as Zaremba in the home parish
+  and across Poland without result beyond one couple; the wife's maiden name searched across Poland;
+  and the couple's 1829 marriage at Glinojeck found under Zareba.
+- **P16:** Stephen J. Danko, Steve's Genealogy Blog, [«Understanding Polish Birth and Baptismal
+  Records from the Congress Kingdom of Poland (1826-1868)»](https://stephendanko.com/blog/2732),
+  posted 2008-07-17, read 2026-11-15. Used for: «Działo się» introducing the place, date and time,
+  «Stawił się» the presenter, the birth date and time after «Okazał Nam» ("yesterday at nine in the
+  morning" in an 1862 Szwelice record), and the baptism performed the same day.
+- **P17:** JewishGen, [Polish-Jewish Genealogy — Questions and
+  Answers](https://jewishgen.org/InfoFiles/Poland/Questions.htm), question 7, read 2026-11-15.
+  Used for: two dates on many civil records of Russian Poland, Julian then Gregorian, with a 12-day
+  gap from 1 March 1800 and 13 days from 1 March 1900.
+- **P18:** Dzen channel «Генеалогия, или Как я встретил вашу маму», [«Где искать польских предков,
+  или Как я родню зятя искала»](https://dzen.ru/a/aC3NPI9XPGG80eZh), published 2025-05-23,
+  read 2026-11-15 from a captured copy. Used for: an 1890 Pułtusk birth act in Russian dated 6/18
+  April at three in the afternoon, giving the birth as 5/17 February at six in the evening, with the
+  witnesses' ages and occupations and two given names; and the author's remark that Orthodox
+  metrical books are laid out differently while these acts give the hour of birth and of
+  presentation for baptism.
+- **P19:** Dzen channel «Генеалогия, или Как я встретил вашу маму», [«Астрология + Генеалогия,
+  или Как звезды помогают мне знакомиться с предками»](https://dzen.ru/a/aDgJCC9JcB_O5YR3),
+  published 2025-06-05, read 2026-11-15 from a captured copy. Used for: the author's statement that
+  the metrical books she reads give no time of birth, while Polish ones give the hour of birth and
+  of presentation for baptism.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of Polish interportal index, description and original-record retrieval — FSL-1.1-MIT (kinprove-original)
+- Posts on the Dzen channel «Генеалогия, или Как я встретил вашу маму», cited as P15, P18 and P19 — Copyright of their author; short paraphrase (adapted)
+- Stephen J. Danko's blog post cited as P16 and the JewishGen Polish-Jewish Genealogy questions and answers cited as P17 — Copyright of their authors; paraphrase (adapted)
+- Wiktionary entry cited as P14 — CC BY-SA 4.0; paraphrase (adapted)

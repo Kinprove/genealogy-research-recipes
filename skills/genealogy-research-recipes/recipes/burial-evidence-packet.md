@@ -1,7 +1,7 @@
 ---
 id: "burial-evidence-packet"
 title: "Build a burial evidence packet from cemetery records"
-summary: "Recover a cemetery entry, its photograph or inscription, and the plot and cemetery-record locators needed to inspect the burial."
+summary: "Recover a cemetery entry, its photo or inscription, and the plot and register locators needed to check a burial."
 kind: "records"
 scope: {"platforms": [], "tasks": ["cemetery coverage, surname variants, Hebrew and civil inscriptions, death/burial discrepancies or a database hit that needs a cemetery-record follow-up", "names on a Soviet mass-grave plate"]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["german-military-record-period-routing", "immigrant-congregation-origi
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"tier": "full", "group": "Featured workflows", "order": 9}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 129}
 ---
 
 # Build a burial evidence packet from cemetery records

@@ -1,7 +1,7 @@
 ---
 id: "jewishgen-search-family-reconstruction"
 title: "JewishGen searches that recover families missed by a name-and-town query"
-summary: "Retrieving JewishGen family records when names, ages, towns or a woman's surname are uncertain. Build explicit name-variant and mixed-field search batches, distinguish registration from residence, and look for wives' natal families or married daughters through children's records and household comparisons."
+summary: "Recover families a JewishGen name-and-town search missed: name variants, mixed-field batches, wives' natal families and married daughters."
 kind: "platform"
 scope: {"platforms": ["jewishgen"], "tasks": ["JewishGen exact, partial, phonetic or fuzzy searches; double names and patronymics; conflicting ages or delayed registration; a missing marriage record, unknown maiden name or daughter who disappears under a married surname; counting result rows as distinct entries, keying households on the original record, and telling an overflow, an error or an uncovered database from a completed search with no hits."]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "evidence-proof-judgment", "russi
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["jewishgen"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"tier": "full", "group": "Featured workflows", "order": 32}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 62}
 ---
 
 # Recipe: JewishGen searches that recover families missed by a name-and-town query
@@ -163,6 +163,8 @@ Before declaring the marriage missing, inspect how the original marriage index i
 When a family's births and deaths appear in its home-town registers but no marriages do, search the brides' places of residence. A [discussion of missing marriages](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) reports, with several confirming posters, that the ceremony and record were usually made there, while the couple might later live with the groom's family or in a third place. Treat this as a custom, not a rule: a missing local marriage opens a retrieval branch and is not evidence of a lost register or of no marriage.
 
 ## Further pivots that a single person search misses
+
+- **Later marginal notes are retrieval leads.** When you open a metrical image, read the full entry and margins even if the index has no annotation field. Transcribe later certificate-issue notes separately and follow [metrical-book recovery § 7](russian-empire-jewish-metrical-book-recovery.md#7-read-later-notes-as-a-separate-dated-layer) for the later-name search and holding-archive inquiry. Treat the note as a lead; it does not prove the person was alive or resident there.
 
 - **A household's former number is a search key.** Bessarabian revision-list documentation includes previous registration numbers and transfer/origin comments. Follow the cited earlier list rather than equating identical numbers across unrelated years. [Bessarabia schema](https://www.jewishgen.org/Bessarabia/files/databases/BessarabiaRevisionListsIntroduction.pdf).
 - **No index hit does not mean no scan.** A GeneaVlogger demonstration explains that JewishGen entries can lead to FamilySearch images that may lack their own name index. Follow film/page/archive references; the demonstration does not establish the indexing status of every linked image. [Bukovina demonstration](https://www.youtube.com/watch?v=UoLx2KVd0bM). For the Bessarabian metrical originals behind a JewishGen index, search ANA fond 211 by district opis, as set out in [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester § 4](bessarabia-moldova-record-routing.md#4-search-bessarabian-metrical-books-in-ana-fond-211-by-opis).

@@ -1,7 +1,7 @@
 ---
 id: "evidence-proof-judgment"
 title: "Correlating evidence & proving identity — the judgment AI gets wrong"
-summary: "Correlating evidence & proving identity: the judgment an AI gets WRONG when it recites the Genealogical Proof Standard but misapplies it — same-name conflation, conflict- flattening, over-reading a document, negative-evidence errors, DNA/documentary siloing, de-novo fabrication, and sycophancy toward the answer you want. Includes a premise and dependency register for investigating a tentative branch without silently inheriting its assumptions."
+summary: "Judge identity, conflicting records, indirect or negative evidence and DNA-plus-document proof before stating any genealogical conclusion."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["separating same-named people, resolving conflicting records, weighing indirect vs negative evidence, combining DNA with documents into ONE proof, conditional placements, discriminating hypothesis tests or revising dependent claims — **and** whenever you (the assistant) are about to state a genealogical conclusion."]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "ai-for-documentary-records", "ancestry-record-
 checked: "2026-10-07"
 checked_basis: "accessed 2026-10-07"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 30}
+router: {"section": "Research method", "group": "Evidence and proof", "order": 0}
 ---
 
 # Recipe: Correlating evidence & proving identity — the judgment AI gets wrong
@@ -55,6 +55,9 @@ Two consequences follow, and they are the whole recipe: (1) treat the model as a
    child's or proposed parents' names in the relevant place and period. Compare their
    identifying details before attributing records to the preferred family.
 5. **Weigh sources, don't count them.** Five online trees copying one claim aren't five witnesses — they're one unverified claim repeated. Classify on three layers: the **source** (original record, derivative record such as an index or abstract, or authored work), each statement's **information** (primary, secondary, or **undetermined** when the informant is unknown), and the **evidence** it gives for the question (direct, indirect or negative). Classify each *statement* by whether its informant had firsthand knowledge of THAT fact (a death certificate's informant usually knew the death firsthand, the birth only secondhand) — never stamp a whole record "primary" or "secondary." When the record does not identify the informant, as in most U.S. censuses before 1940, mark the information undetermined. You may still reason about who probably supplied each item and what that person could have known, but label it as inference: it never turns undetermined information into primary (see "Split a death certificate by who supplied each item" below). (BCG, Become a Certified Genealogist; Mills, QuickLesson 17)
+
+   **Image copies:** a photograph, scan, microfilm or digital image of a record is an image copy; weigh a legible, unaltered copy as the record it reproduces, treating a faithful image of an original as an original or equivalent. Check legibility, completeness, cropping and signs of alteration; transcripts, extracts, abstracts, indexes and databases remain derivatives even when imaged [N231].
+
 6. **A record's mere mention of a person doesn't prove a relationship it never asserts** — but an unstated relationship can still be proved by an explicit, written correlation of indirect evidence (never by assertion). A parent's signature on a standard-form marriage bond does **not** prove a minor bride.
 7. **"No record found" is a search result, not evidence** — and absence of a death record is not evidence of life. **Log every search with its date** (online coverage changes over time).
 8. **An indirect conclusion must be WRITTEN as an explicit correlation argument**, never asserted as if direct.

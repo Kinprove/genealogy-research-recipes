@@ -1,7 +1,7 @@
 ---
 id: "school-university-record-recovery"
 title: "Recover a pupil or student through school, district, copy and later-file layers"
-summary: "Recover a pupil or student across school, educational-district, parallel-copy, yearbook and later-file layers."
+summary: "Find a pupil or student through school, educational-district, duplicate-copy, yearbook and later personal-file records."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1092}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 55}
 ---
 
 # Recover a pupil or student through school, district, copy and later-file layers

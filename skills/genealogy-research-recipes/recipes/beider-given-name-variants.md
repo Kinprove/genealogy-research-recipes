@@ -1,7 +1,7 @@
 ---
 id: "beider-given-name-variants"
 title: "Ashkenazi given-name variants from Beider's indexes"
-summary: "Expanding documentary searches with recorded Ashkenazi given-name forms from the male and female J-Roots Beider indexes."
+summary: "Expand searches with recorded Ashkenazi given-name forms from Beider's male and female indexes."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["an unfamiliar or approximate Cyrillic given name, compound names, alternate spellings, ambiguous article labels, or documenting a DNA match's family under another name form."]}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "russian-empire-jewish-identity-attribution
 checked: "2026-10-01"
 checked_basis: "Consulted 2026-10-01"
 capabilities: {"browse": [], "local_script": ["scripts/lookup_beider_name.py"], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 33}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 63}
 ---
 
 # Recipe: Ashkenazi given-name variants from Beider's indexes
