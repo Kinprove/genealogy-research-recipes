@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 103}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 110}
 ---
 
 # Read early New England town books across parent towns and decode Torrey entries
@@ -46,6 +46,12 @@ Most town books are the clerk's running minutes [S3]. Treat such a book as a con
 - Originals may also be held in historical societies or university special collections, and some may be unreadable because of their condition [S1], [S3]. Record a volume you could not read as **unread**, not as read with no result.
 
 **Never report "not in the town records" without the coverage behind it.** Name the towns, volumes and page ranges actually read, and the volumes not read.
+
+For Connecticut’s Barbour Collection, copy the town, volume and page locator and establish what it points to before retrieving an original. The statewide slips and bound town volumes are transcriptions or abstracts; bound volumes standardise surname spellings and can add another copying stage. Some towns’ slips were made from published compilations, so their page references lead to the printed book rather than a manuscript. Use the town volume’s introduction and abbreviation key, then inspect the identified source for context and transcription accuracy. [S15], [S16]
+
+Treat Massachusetts Vital Records to 1850, the Tan Books, as compiled evidence drawn from town, church and private records, gravestones and newspapers. Decode the source label for the particular entry and seek that underlying record. Do not describe every Tan Book entry as a transcription of a town clerk’s original, or add a family Bible to its provenance unless the volume identifies one. [S15], [S17]
+
+For Massachusetts land, separate the town’s original allotment from the later conveyance record. Search town records for the distribution, then use the county or land district’s Registry of Deeds for recorded transfers. Select the registry that covers the town, rather than assuming the town clerk’s book contains the whole title chain. [S15], [S18]
 
 ## Decode a Torrey entry before using it
 

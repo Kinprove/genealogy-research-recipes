@@ -11,7 +11,7 @@ handoff: ["dna-match-outreach-staging", "evidence-proof-judgment"]
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 66}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 70}
 ---
 
 # Recipe: Interpret a Holocaust name record through its underlying source
@@ -140,6 +140,18 @@ children of repressed parents and children's-home pupils. [H22] A 2024 Dzen guid
 children under 16 were often written onto one parent's card. [H23] So no card in the child's own
 name is not evidence that the child was not evacuated.
 
+The centre's own page sets the current request conditions. Send a written, dated and signed request
+on its form (анкета). For an evacuation check, give the applicant's details and postal address and
+data on both parents; for a person evacuated with relatives, their names, birth years and
+birthplaces, and for a child evacuated with a children's home, the place where the home was. The
+regional Red Cross branch gives out the form and helps fill it in; the applicant then writes to ЦРИ
+РКК directly. The centre answers evacuee and children's-file questions from its own
+archive only. For forced labour or camps in Germany it checks its card file on displaced persons and
+then writes to the Arolsen Archives. [H24] In 2020 the centre's head put that file at roughly 800,000
+to 900,000 people taken to Germany, and said requests are accepted in person, electronically or by
+post. [H25] A 2020 Dzen guide on searching for evacuees gives the same order, the branch first and then the
+centre, and says the card files cannot be searched online. [H26]
+
 For a compilation covering several regions or source lists, keep the region and source-list
 reference with each row/family counter. Identical counters across lists do not join households.
 Preserve original entries, compiler corrections and oral accounts as separate attributed
@@ -222,4 +234,4 @@ Living people rule: use the consent, disclosure and log rules of
 
 ## Sources
 
-[Primary-source checks and limits](https://github.com/Kinprove/genealogy-research-recipes/blob/440a8688ef7b6a89e5e7a2997764f9dbde14f680/skills/genealogy-research-recipes/sources/holocaust-testimony-source-interpretation.md).
+[Primary-source checks and limits](https://github.com/Kinprove/genealogy-research-recipes/blob/5475bc91f95a586716a55ac839e085d9716271f6/skills/genealogy-research-recipes/sources/holocaust-testimony-source-interpretation.md).

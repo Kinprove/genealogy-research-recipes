@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 108}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 115}
 ---
 
 # Read Civil War registration, service cards and unit events as separate episodes
@@ -45,6 +45,8 @@ Related recipes:
 - **Confederate soldiers have CMSRs too.** The War Department began compiling them in 1903, under Ainsworth [H4]. Clerks carded Union prison and parole records, captured or other surviving Confederate records [H5], and records borrowed mostly from Southern states [H4]. Start with the *Consolidated Index to Compiled Service Records of Confederate Soldiers* (NARA M253, 535 rolls). Then read the CMSR publication for the state or unit, for example M258 for units raised directly by the Confederate government, M266 for Georgia or M267 for South Carolina [H6]. Check Fold3, FamilySearch and the NARA Catalog for digitized copies. Many Confederate rolls did not survive, so a missing CMSR does not disprove service. Search the state's Confederate pension records as well.
 - **Copy the jacket details.** Record the personal-papers count and any record-and-pension ("R&P" or "bookmark") notation number. The R&P number points to a numbered document in the Record and Pension Office document files, in Record Group 94 (Records of the Adjutant General's Office). Request that file from the National Archives as a separate item, giving the soldier's name and the R&P number [S6]. The presenter demonstrated this on a Revolutionary War jacket and says these files have never been digitized [S6]. Before you request the file, check the NARA Catalog for the series.
 - **Search under an alias when the jacket gives one.** The same presenter says aliases appear more often in the later Civil War period, when some men deserted and re-enlisted under another name [S6].
+
+- **Leave his fate open when the cards end in "deserted".** Keep the remark and its date as his last status as written. It ends the company's record of him, not his story, so do not write that he went home, survived or died until a record says so. Search his widow's obituary for an account of what became of him, including in papers of nearby towns where she was known but did not live. Log what you find as a late, secondhand account that conflicts with the card, not as proof. In one blogger's case, the record gave desertion on a stated date with no record of a return home. The widow's obituary, published 66 years later in a nearby rural town where she did not live, said only "We understand that Mrs. Smelcer's husband was killed during the war" [S9].
 
 Make one row per muster period: muster period | status as written (present, absent, sick, deserted, transferred, promoted) | rank | station if given | card/source locator. Leave periods without a card blank. Do not fill them in.
 
@@ -85,12 +87,14 @@ Make one row per muster period: muster period | status as written (present, abse
 - **Re-check coverage at the time of use.** In 2016 the site said more records would be added, so record the coverage statement as it reads on the day you search.
 - **For any database, note the date and stated scope of each search.** A miss that falls inside the stated coverage is still only a search result. Name the original series that would settle the question.
 
+- **Do not rule out service from birthplace or citizenship.** Foreign birth, alien status during the war or a naturalization decades later does not show that he did not serve, so search the service and pension indexes for him anyway. The law expected alien soldiers: section 21 of the Act of 17 July 1862 (ch. 200) let any alien aged 21 or over who had enlisted in the regular or volunteer army and been honorably discharged become a citizen on petition, without a prior declaration of intention, on one year's residence and competent proof of the discharge [H10]. Read any naturalization file you find for a discharge or service reference. The Enrollment Act of 3 March 1863 made only citizens, and foreign-born men who had declared on oath their intention to become citizens, aged 20–45, liable to the draft [H11]. A non-declarant alien's absence from the draft lists therefore says nothing about whether he volunteered. A genealogy video raises the same trap [S10†]; only its title and channel could be checked; its transcript could not be opened.
+
 For the Navy pension route above, approved pension files of Navy veterans themselves are a separate series from M1279: NARA M1469, "Navy Survivors' Certificates", 1861–1910, arranged by certificate number [H9].
 
 ## Return the episode packet
 
 1. **Registration-versus-service note:** the registration line as written, whether its class fits its age and marital status, and whether an identity-matched service record exists.
-2. **Card timeline table:** one row per muster period, with source locators, gaps left blank, and any identity concerns about mixed cards. Also record whether the man was a volunteer (CMSR), an enlisted regular (Registers of Enlistments) or a Regular Army officer (Commission Branch/ACP files).
+2. **Card timeline table:** one row per muster period, with source locators, gaps left blank, and any identity concerns about mixed cards. If the cards end in "deserted", mark his fate open and log any later family account as a conflicting claim. Also record whether the man was a volunteer (CMSR), an enlisted regular (Registers of Enlistments) or a Regular Army officer (Commission Branch/ACP files).
 3. **Unit-event rows:** each labelled as an inference with its bracketing muster status, plus the unit's designations and the dates each was used.
 4. **Transfer-bounds note:** if a transfer is involved, including any roster date that conflicts with the bounds.
-5. **Database coverage note:** search date, stated scope, and the next sources for uncovered men (Navy enlistment records, vessel muster rolls, local lists, the original rolls behind the cards, the R&P bookmark file).
+5. **Database coverage note:** search date, stated scope, confirmation that birthplace and citizenship were not used to rule out service, and the next sources for uncovered men (Navy enlistment records, vessel muster rolls, local lists, the original rolls behind the cards, the R&P bookmark file).

@@ -1,0 +1,93 @@
+---
+id: "us-obituary-search-and-interpretation"
+title: "Find and interpret obituaries in U.S. newspapers"
+summary: "Judge whether a U.S. obituary should exist, find it through relatives' notices, cards of thanks and funeral cards, and read it as an informant's account."
+kind: "records"
+scope: {"platforms": [], "tasks": ["death notice", "survivors list", "sibling's or child's obituary", "remarried woman's later surname", "incomplete or embellished obituary"]}
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "US-OBITUARY-SEARCH-AND-INTERPRETATION-01", "text": "Read every name, date and relationship in an obituary as the informant's statement, not as a verified fact."}, {"id": "US-OBITUARY-SEARCH-AND-INTERPRETATION-02", "text": "A missing spouse, child, sibling, employer or military service is not evidence that none existed."}, {"id": "US-OBITUARY-SEARCH-AND-INTERPRETATION-03", "text": "Do not use it to look up a survivor's current address, phone, email, workplace or accounts, and do not trace a minor named in it."}]
+handoff: ["newspapers-com-search-recovery", "evidence-proof-judgment", "burial-evidence-packet", "dna-match-outreach-staging"]
+checked: "2026-11-16"
+checked_basis: "read 2026-11-16"
+capabilities: {"browse": ["newspaper archives, obituary indexes and original page images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 107}
+---
+
+# Find and interpret obituaries in U.S. newspapers
+
+Use this recipe when you need a U.S. newspaper obituary or death notice for a person, when a search for one has failed, or when you are reading one for names, dates and relationships. It sets what kind of notice to expect, adds the relatives' notices and family papers that can stand in for a missing one, and reads the notice as an informant's account. For search mechanics, including "Mrs." with the husband's given name or initials, OCR misreadings, issue coverage, neighbouring titles and estate notices, use [newspaper search recovery](newspapers-com-search-recovery.md). For kinship rulings, use [evidence/proof judgment](evidence-proof-judgment.md). For the grave and the cemetery's records, use [burial evidence packet](burial-evidence-packet.md).
+
+## Contents
+
+- What goes wrong
+- 1\. Set the expectation before you search
+- 2\. Search the relatives' obituaries
+- 3\. Search past the week of death
+- 4\. Ask about funeral and memorial cards
+- 5\. Read the notice as the informant's account
+- 6\. Keep living survivors to the family question
+- Return packet
+
+## What goes wrong
+
+- Calling a search negative when no full obituary should be expected. Early-1800s death notices seldom gave more than the name, age and residence, and large nineteenth-century city papers carried less on fewer residents than rural and small-city papers. [S2] Not everyone had an obituary. [S3]
+- Searching only for the person's own notice. A sibling's or child's obituary can name the parents, the mother's maiden name and a woman's later married surname. [S1], [S4], [S5]
+- Stopping at the week of death. A card of thanks can appear right after the funeral or much later. [S6]
+- Taking stated relationships as verified. Most obituaries are not checked for accuracy, and survivors lists can mislabel or leave out relatives. [S1], [S3], [S7], [S8]
+- Reading praise as a balanced biography, or a missing detail as proof that it never existed. [S1], [S9], [S10]
+
+## 1. Set the expectation before you search
+
+Before you search, write down what kind of notice the date and place make likely, so that a miss is read correctly.
+
+- **An early death.** Allow for there being no obituary at all [S1]. Early-1800s death notices seldom gave more than the name, age and residence, and the biographical obituary developed mainly after the Civil War [S2]. In the nineteenth century, prominent citizens received long tributes while working-class notices stayed brief [S9].
+- **A large city.** Expect less on an everyday resident. Nineteenth-century papers in cities such as New York, Chicago and St. Louis carried less information on fewer residents than papers in rural communities and small cities [S2], and small-town papers often gave obituaries considerable space [S9]. Add the papers of neighbouring smaller communities before you call the search negative [S1], choosing them as [newspaper search recovery](newspapers-com-search-recovery.md) directs.
+- **Any date.** Not everyone had an obituary [S3]. Record a miss as "no notice found" in the titles and issues you checked, not as "no obituary".
+
+## 2. Search the relatives' obituaries
+
+When the person's own notice is missing or thin, or names a woman only through her husband, search the obituaries of every sibling, child and spouse, not only those of direct ancestors [S1], [S3].
+
+- **A woman missing under her own name.** Federal censuses before 1850 named only the head of household and counted everyone else by age, sex and race [S11], so a wife can be invisible there. Look for her in her children's obituaries [S1]. Search by the full name of a surviving child or sibling, or by her married surname with a daughter's or sister's married surname. Her married and maiden names together can find notices that list her parents or surviving brothers [S4].
+- **An unknown remarriage.** If the expected surname fails, look for the surname she had at death [S5]. Allow for a remarriage you do not know about, and take her later surname from a child's or sibling's survivors list [S1]. A survivors list can give daughters' and sisters' married surnames [S5].
+- **Parents and the mother's maiden name.** A sibling's obituary can name the shared parents, including the mother's maiden name [S1]. Treat that name as a lead. Neill found an obituary that gave the wrong maiden name for the deceased's mother [S7].
+- **Full and half siblings.** Survivors lists often do not separate full from half siblings; in Neill's example an obituary counted four siblings where there were ten. Where a parent married more than once, collect the other siblings' obituaries before you attach a child to a set of parents [S8].
+
+## 3. Search past the week of death
+
+Search the death notices and obituaries in the issues around the week of death [S1], then widen the window and record its limits in the search log. An obituary could take time to be written and submitted [S2], and a card of thanks, in which the family thanked the community, may appear right after the funeral or much later [S6]. Cards of thanks tied to deaths appear from the later nineteenth century; the earliest that the GenealogyBank author found is from 1879 [S6].
+
+Read a card of thanks for relationships and leads. It may describe the deceased as a wife and mother, or a survivor as a widow, which helps date a husband's death. It may give a wife's maiden name, a minister and church, or an employer and lodges [S6]. Relatives may appear only by initials or by relationship, so search for those forms too [S6].
+
+## 4. Ask about funeral and memorial cards
+
+Ask the user whether family papers hold a funeral or memorial card for the person [S1]. Early cards told family and friends of the death and of the funeral and burial services; later cards were handed out at the wake, funeral and interment as keepsakes. They give birth and death dates and places and sometimes family members' names, some larger cards carry a photograph, and a card can lead to the funeral home, church and cemetery [S12]. Record what the card actually carries; do not assume that it reproduces the obituary.
+
+**Privacy gate:** <!-- privacy-gate: contact --> A message asking about the card sends the user's name and the research question about the deceased and their family to a living relative or family friend.
+
+Asking a relative or family friend who attended the funeral whether they kept a card [S1] contacts a living person and tells them about the user's research. Use only a route the user already has, or a relative who agrees to pass the message on. Apply the consent, disclosure and log rules of [DNA match outreach staging](dna-match-outreach-staging.md), skipping the parts that apply only to DNA tests, and answer the privacy gate in `SKILL.md` before the message is sent. Until then the message stays an unsent draft on the user's device.
+
+## 5. Read the notice as the informant's account
+
+Read every name, date and relationship in an obituary as the informant's statement, not as a verified fact. Note who supplied the information where the notice or the funeral home shows it, and correlate each fact with an independent record before you rely on it.
+
+Errors can enter at each step, from the informant to the funeral home to the newspaper [S1]. Most obituaries are not checked for accuracy, stated relationships may be wrong, and a poorly edited survivors list can be read in more than one way [S3]. In the nineteenth century, many notices were written by editors or ministers rather than by the family, and names could be misspelled or abbreviated [S9].
+
+Check even explicit relationships. In one woman's death notice, the MyHeritage author found her sons and daughters listed as her brothers and sisters [S1]. Neill found stated relationships changing from one obituary to another after remarriages and divorces [S7].
+
+A missing spouse, child, sibling, employer or military service is not evidence that none existed. Omissions come from editing mistakes, limits of length or cost, and compilers who lacked the information or chose not to share it; in Neill's example an obituary mentions two marriages but says nothing about the first spouse [S10]. Families also choose what to print in limited space [S1].
+
+Read praise as a portrait, not as a balanced biography. Editors sometimes embellished lives, especially those of prominent people, and left out less flattering details [S9]. The MyHeritage author finds that obituaries show the deceased in the best light and may leave negative events out [S1]. Silence in an obituary does not show that nothing adverse happened.
+
+## 6. Keep living survivors to the family question
+
+A recent obituary's survivors list names living people and often where they live. Use it only for the family question. Do not use it to look up a survivor's current address, phone, email, workplace or accounts, and do not trace a minor named in it. The Living people rule in `SKILL.md` applies. Keep living survivors' names in the private research log.
+
+## Return packet
+
+- An expectation note: date and place of death, the expectation set in §1, the titles and issues checked, and any miss worded as "no notice found" in those titles and issues.
+- A notice table: one row per obituary, death notice or card of thanks, with whose notice it is (subject, sibling, child or spouse), paper, date and page, and the names and relationships transcribed as printed.
+- Leads from each notice, labelled with that notice: parents, the mother's maiden name, women's later surnames, church, employer, lodge and funeral home.
+- Conflicts and gaps: relationships that differ between notices, relatives missing from a survivors list, and siblings not marked as full or half.
+- Any funeral or memorial card: who holds it and what it carries. A request to a relative stays marked as an unsent draft until the privacy gate is answered.

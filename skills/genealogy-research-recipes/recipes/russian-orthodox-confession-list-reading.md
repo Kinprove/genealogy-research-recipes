@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "old-believer-sectarian-record-recovery", "
 checked: "2026-11-08"
 checked_basis: "opened 2026-11-08"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 46}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 50}
 ---
 
 # Read Russian Orthodox confession lists household by household across years
@@ -93,7 +93,7 @@ The usual columns are below. Column headings vary, so copy the headings of your 
 - **Non-confession is not Old Belief.** People who missed confession for three years running were to be written down as schismatics under the 1737 rules. [S2] So a "раскол" label is an administrative classification with a date, and a plain "не был" is not even that. Use [Old Believer and sectarian record recovery](old-believer-sectarian-record-recovery.md) before you call a family Old Believer.
 - **Look for separate lists of non-confessants.** A statement drawn from confession lists about people absent in 1765–1767 (GASO f.24, op.1, d.2293) gave one man's patronymic and age, and a participant used it to link him to a family. [S29]
 
-- **A confession certificate places a person away from home.** A person could confess in another parish but had to bring his own priest a certificate of confession and communion there, and a parishioner away for more than a year was to confess where he lived and be entered in that parish's list, as an 1882 handbook for priests summarises decrees of 1737 and 1772. [S45] A Tula blogger notes that such a свидетельство о говении, which was also issued to a pupil moving up a class, a worker taking a job or a couple marrying, names the person, his place of registration (приписка) and the church where he confessed. [S46] When one survives in family papers or in a school, employment or marriage file, search that parish's lists and metrical books for the person and his household in that year.
+- **A confession certificate places a person away from home.** A person could confess in another parish but had to bring his own priest a certificate of confession and communion there, and a parishioner away for more than a year was to confess where he lived and be entered in that parish's list, as an 1882 handbook for priests summarises decrees of 1737 and 1772. [S45] A Tula blogger notes that such a свидетельство о говении, which was also issued to a pupil moving up a class, a worker taking a job or a couple marrying, names the person, his place of registration (приписка) and the church where he confessed. [S46] When one survives in family papers or in a school, employment or marriage file, search that parish's lists and metrical books for the person and his household in that year. In the host parish's list, first look for a separate list of outsiders (иногородние) after the parish's own estates: a blogger who reads Vologda-province lists describes outsiders to the parish as listed separately, and explains it by people away from home confessing where they stayed [S51]. Where a list has no such section, read every estate section for the person.
 
 ## 4. Compare the household across several lists
 

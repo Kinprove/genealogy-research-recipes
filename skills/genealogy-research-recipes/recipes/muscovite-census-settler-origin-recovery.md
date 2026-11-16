@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-02"
 checked_basis: "checked 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 49}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 53}
 ---
 
 # Push a Ural or Siberian peasant line before 1719 through Muscovite census, fiscal and fugitive-inquiry books

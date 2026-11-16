@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 55}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 59}
 ---
 
 # Recover a pupil or student through school, district, copy and later-file layers
@@ -201,6 +201,8 @@ A list of admissions to examinations is not a list of graduates or of years of s
 - **An unlocated German student-list entry** (link lost; it gives a term, a number, birth date and place, an occupation and place read as the father's, and the subject studied in Berlin). Use the father's details to separate men with the same name. Do not call it a matriculation register or assign a role to the number until you re-find the source and its column headings. [S20]
 - **A student-corporation album that cannot be found.** Look under the corporation's later name. A participant could not find the 1872–1897 album of the Dorpat pharmacy students' association in the original. The 1977 "Album Baltonorum et Gotonorum 1872–1976" covers members from 1872. The participant reported 879 members plus 32 honorary and corresponding members, with biographies, and said he had filled in some from other sources. Record it as a later compiled derivative. [S17]
 - **Soviet-period records.** Look for the parents' personal files at their workplaces. Start from the house books of the city where the person last lived, because a family often shared one flat before the war. [S1]
+
+- **The person's own labour book (трудовая книжка).** Under the 1974 USSR instruction, education was entered on its title page only from a diploma or certificate, and periods of study at higher and secondary specialised schools were entered among the work records with a reference to the supporting document (пп. 2.10, 2.17). [S31] A 2020 Dzen guide adds that study was entered because it counted toward length of service. [S32] Take the school and years from each study entry before you search that school's fond.
 
 ## Output: school and custody register
 

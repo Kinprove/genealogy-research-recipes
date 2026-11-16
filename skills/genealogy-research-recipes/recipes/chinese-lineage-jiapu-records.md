@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 124}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 135}
 ---
 
 # Recover a Chinese emigrant's lineage from character-written names, village and jiapu
@@ -219,6 +219,13 @@ full-text searchable but not yet name-indexed, with results filterable by provin
   any estimated age gap or residence for her, are the presenter's working conventions, not
   observations. He says he is unsure they are the official method. Keep any recorded natal
   surname as the only observation. [S3]
+
+When a birth year is remembered only as a zodiac animal, preserve the animal literally and
+list the possible years within the independently supported age range. The animal repeats every
+12 years, so it does not identify a single birth year. Its year follows the lunar New Year:
+check that boundary before assigning a January or February birth to a Gregorian year. Read
+complete Chinese dates in year–month–day order and retain the literal date beside any conversion.
+[S11], [S12]
 
 ## Close with a lineage packet
 

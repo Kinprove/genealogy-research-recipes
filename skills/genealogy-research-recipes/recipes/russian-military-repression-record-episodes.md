@@ -11,7 +11,7 @@ handoff: ["chechen-ingush-1944-deportation-records", "evidence-proof-judgment", 
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 58}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 62}
 ---
 
 # Recipe: Recover separate military and Soviet-repression record episodes
@@ -167,6 +167,26 @@ POW records at about 700,000, from an international research project the Dokumen
 run since 2000, and said the online entries give basic data only. [H60 @2026-11-08] Before counting
 a Dresden entry and an OBD Memorial POW card as two sources, check each one's stated archival
 origin: if both reproduce the same German registration card, that is one source reached twice.
+
+**Privacy gate:** <!-- privacy-gate: request --> A Dresden or Bundesarchiv enquiry transmits
+personal and family details; answer the privacy gate in `SKILL.md` before sending either form
+or supporting documents, including details about third persons.
+
+Choose the enquiry destination separately from the Dresden index hit. The Dokumentationsstelle's
+enquiry page limits its certificates, since 1 January 2017, to Red Army prisoners and civilians
+held in camps or buried in the area it describes as Wehrkreis IV/Saxony, and directs enquiries
+outside Saxony to the Bundesarchiv [H134 @2026-11-16]. Do not infer a camp's historical jurisdiction
+from today's boundary or assume an index entry establishes the centre's enquiry remit; clarify
+a borderline location with the institution.
+
+For a Soviet POW held in a camp or work detachment in the former German Reich, the Bundesarchiv
+describes a database enquiry using two forms: its Soviet-POW database form, which may be completed
+in Russian, and the signed German Benutzungsantrag. Send both by the email or postal route on
+that page; it names Abteilung Deutsches Reich, while Dresden prints a different department
+[H135 @2026-11-16], [H134 @2026-11-16]. Use the Bundesarchiv's own current contact instructions.
+This POW form does not establish a route for civilian records. Preserve the reply and any
+document reference, and apply the same origin check as for Dresden and OBD: another institution's
+database reply is not automatically independent evidence.
 
 For a Red Army prisoner who passed through a concentration camp, search the Arolsen Archives'
 camp lists on Ancestry as well as in Arolsen's own online archive. Arolsen announced on 26 January
@@ -700,4 +720,4 @@ or seeking rehabilitation is a separate action requiring the user's scope and cu
 
 ## Sources
 
-[Primary-source checks and withheld claims](https://github.com/Kinprove/genealogy-research-recipes/blob/440a8688ef7b6a89e5e7a2997764f9dbde14f680/skills/genealogy-research-recipes/sources/russian-military-repression-record-episodes.md).
+[Primary-source checks and withheld claims](https://github.com/Kinprove/genealogy-research-recipes/blob/5475bc91f95a586716a55ac839e085d9716271f6/skills/genealogy-research-recipes/sources/russian-military-repression-record-episodes.md).

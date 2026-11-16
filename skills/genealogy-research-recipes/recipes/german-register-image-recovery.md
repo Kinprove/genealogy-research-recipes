@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Germany", "order": 69}
+router: {"section": "Records by country and region", "group": "Germany", "order": 74}
 ---
 
 # Recover a German register entry through its locality, record offices and register version
@@ -107,6 +107,10 @@ Many smaller places had no parish of their own. One presenter estimates that the
 - **Search the holding town only for entries about your village.** Search its records under the holding town's name. [S7]
 - **Widen the year window.** A birth year worked out from an age at marriage or death is often rounded, so search several years either side. [S5], [S6]
 
+**Open the place's GenWiki article for each confession's parish and for where the books are.** Search the place in CompGen's GenWiki (wiki.genealogy.net) [S77 @2026-11-16]. A place article usually gives a short history, notes on the church books and civil-registration records, where the church books are kept, and references to microfilms and digitised copies [S78 @2026-11-16]. Read *Kirchliche Einteilung/Zugehörigkeit* for the parish each confession belonged to and *Genealogische Quellen* for the books [S79 @2026-11-16]. Treat the article as a lead, not as the jurisdiction row: confirm the parish against Meyers and, for the event year, GOV (section 2), and confirm the holdings with the custodian or portal (section 6).
+
+Worked example, for the Weikersheim of section 2: the article (Internet Archive capture of 13 November 2025; page last edited 24 May 2024) assigns Catholic Weikersheim to Laudenbach parish and gives start years for the Protestant books of Weikersheim, Elpersheim, Nassau and Schäftersheim. It says the Württemberg Protestant books can be consulted on microfilm at the Landeskirchliches Archiv Stuttgart and, for many parishes, as images on Archion, and it links the digitised second copies of the Catholic books (1808–1875) in Staatsarchiv Ludwigsburg, holding F 901. [S79]
+
 ## 5. Date the territory and convert the name
 
 - **Read a kingdom, duchy or province name as the place that applied when the person emigrated.** Many emigrants who left before the 1871 unification gave the state of origin as their birthplace. [S14]
@@ -151,6 +155,8 @@ Many smaller places had no parish of their own. One presenter estimates that the
   - Check when the parish began and which parish served the place before. Danzig-Emaus dates only from 1906; St. Nikolai served the area before then. [S34]
   - Behlendorf's books on Archion start in 1761, but a participant pointed to copies of the Nusse books for 1614/1618–1760 in the Lübeck city archive. [S33]
   - Build a table of custodian, register type, years and serving parish. If every church copy has a gap, turn to the civil registers (the Standesamt step in section 4). [S34]
+
+**Places now in Poland: also search Szukaj w Archiwach** (szukajwarchiwach.gov.pl), the Polish State Archives' portal of archival descriptions and scans, which includes the PRADZIAD data on parish and civil registers [S81 @2026-11-16]. Records are listed under the place that created them, the parish or the civil registry office (*urząd stanu cywilnego*), so search the seat you fixed in sections 4 and 5, not only the village [S80 @2026-11-16]. Search under the German name and again under the Polish name from section 5: not every result is listed under both [S77 @2026-11-16], [S80 @2026-11-16]. Separate same-named places by the gmina and the archive shown with each result, and record each unit's reference code [S80 @2026-11-16]. FamilySearch's January 2022 guide says the portal does not include church diocesan archives, so a miss there does not settle where a Catholic parish's books are [S80 @2026-11-16]. For the vital-records search, PRADZIAD and coverage gaps, use [Polish index-to-original recovery](polish-index-original-record-recovery.md).
 
 **Brandenburg and Berlin: also search the Brandenburg-Datenbank** (db-brandenburg.de), a volunteer database of transcribed sources [S76 @2026-11-12]. Its categories include church books, civil registers, address books, cemeteries and graves, war memorials including the fallen, genealogical evaluations (OFB), and Familienstammbücher und Ahnenpässe. Civil registers are added office by office and year by year, each marked as a name index (*Namensindex*) or a full transcription (*Vollabschrift*), for example "Standesamt Berlin 10b (B) Geburten 1904 (Namensindex)" [S74 @2026-11-12]. The Metasuche searches only the databases you select, also matches birth names, and does not yet cover every database [S75 @2026-11-12].
 

@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "gedcom-resea
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["familysearch"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 28}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 32}
 ---
 
 # Recipe: FamilySearch record recovery and Tree maintenance
@@ -39,6 +39,8 @@ does not necessarily remove facts copied from it. Keep the search surface, ident
 inspection coverage with every finding or limitation.
 
 ## Before starting
+
+For help reading a record, choose the FamilySearch Community research group for its country or language. The Library’s FAQ directs users to **Groups > Research Groups** and a group’s **Ask a Question** route [S95 @2026-11-16]. **Privacy gate:** <!-- privacy-gate: publish --> Before posting a document link, excerpt or question to FamilySearch Community, answer the privacy gate in `SKILL.md`; the material can name living people. Share only material permitted for that audience. Include the record’s existing image link, locality/date, the precise reading problem and what you have read so far. Keep the reply as an assisted reading to compare with the image [S99 @2026-11-16].
 
 Use authorized access and keep working copies and living-person information private. Before sharing
 a report, choose its audience and prepare a redacted version as needed; workflow 17 records and
@@ -133,6 +135,18 @@ still needs its original entry. Sources: [Jewish genealogy](https://www.youtube.
 [Danish places](https://www.youtube.com/watch?v=iA8SSSgUzyc),
 [Sweden](https://www.youtube.com/watch?v=T_fRRUa4lYY); their 2017–2022 search fields may differ now.
 
+Treat the coverage ledger as an inventory of FamilySearch's holdings, not of the records that survive
+for the place. FamilySearch describes the Catalog as a guide to the records and resources it has
+collected, covering materials available in its libraries and centers, physically or as online
+digital files [S100 @2026-11-16], [S101 @2026-11-16]. Enter every series and custodian found in workflow 1.
+Mark a series the Catalog does not list as not catalogued, not as not held: an image group can
+reach Images before the Catalog, so search Images for it first (workflow 2, step 5), then look for
+it in the custodian's own catalogue; never log it as nonexistent or as searched. A
+[Just Genealogy talk](https://www.youtube.com/watch?v=H4SDdOicYjQ) builds a locality guide from this
+search, according to a community reader's extracted quotations; only its title and channel were
+rechecked, and its claim that the outline lists everything known to exist is narrowed here to
+FamilySearch's holdings [S102† @2026-11-16].
+
 When an inspected entry offers Locality Subject or Subject links, save the exact label and entry
 URL and follow a relevant link to related items. Check each candidate's creator, place, dates,
 record type and access before adding it to the coverage ledger. A subject heading describes
@@ -156,6 +170,8 @@ holder before citing it; cite the copy you read. Sources:
 **Check:** Relevant image-only holdings remain outstanding after a negative name search. Never calculate indexing coverage by dividing or subtracting record counts and image counts.
 
 **Sources:** [S12](https://www.youtube.com/watch?v=MMe67JLgS08), [S14](https://www.youtube.com/watch?v=XOnRrT771CY), [S08](https://familylocket.com/finding-your-family-in-familysearch-images/), [S58](https://www.youtube.com/watch?v=LaqAID03XqM), [S59](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-the-catalog-to-learn-more-about-the-collections-in-historical-records).
+
+**Sources:** [S100](https://familysearch.org/en/help/helpcenter/familysearch-catalog-learning-center), [S101](https://articles.familysearch.org/hc/en-us/articles/40890974066971), [S102†](https://www.youtube.com/watch?v=H4SDdOicYjQ) (title and channel only; its transcript could not be retrieved).
 
 ### 3. Use a photographed index to browse an unindexed register
 
@@ -215,6 +231,8 @@ confirmed the right series. A matching title alone does not establish the right 
 **Sources:** [S15](https://www.youtube.com/watch?v=BGu3IyZTvzU), [S07](https://www.youtube.com/watch?v=4M3h-bSiQGM), [S01](https://www.youtube.com/watch?v=mZc2-Z-TROw), [S09](https://familylocket.com/citing-digitized-records-on-familysearch/).
 
 ### 6. Diagnose restricted viewing separately from disabled downloading
+
+For a NARA microfilm publication found through FamilySearch, do not plan a NARA rental: that programme ended 31 July 2009. NARA lists onsite viewing and purchase alternatives [S94 @2026-11-16]. Use the publication title, publication number and reel when seeking a NARA or library copy, and record the actual holder and access outcome [S98 @2026-11-16].
 
 **Trigger:** An image is blocked at home, a restriction symbol appears, or Download is disabled.
 
@@ -493,6 +511,10 @@ use the identity and copied-fact checks below. This distinction comes from the
 adopting its speculation about hint algorithms or a universal source-object structure.
 
 ### 15. Detach a wrong source and inspect copied facts
+
+For a compiled-family lead, search the title *Family Group Record Collection—Archive Section, 1942–1969*. FamilySearch’s 2013 guide describes sheets arranged by family surname and then head of family [S93]. Follow the current catalogue or collection entry to the sheets actually available and preserve the submitter and references. Keep the sheet’s family assertions separate from the records it cites [S97].
+
+When following an older CET discussion, look for **User Trees**: the official feedback group announces the retirement of the CET terminology [S92 @2026-11-16]. Use the User Tree route and its controls described below; the older label is not a separate current tree product [S96 @2026-11-16].
 
 **Trigger:** A historical record has been attached to the wrong Tree person.
 

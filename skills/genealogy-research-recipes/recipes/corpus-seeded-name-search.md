@@ -28,6 +28,8 @@ Use when a remembered spelling, transliteration or name dictionary fails to retr
 
 ## Build a small attestation inventory
 
+For German given names, add supported clipped forms to the query inventory. Beidler lists Klaus/Nikolaus, Stina/Christina and Trin/Katharina, illustrating loss of the opening part of a name [S49]. Try the short and full forms separately in the given-name field and log which form produced each hit [S53].
+
 Read candidate-bearing passages in the available corpus before fixing the search pattern. Retain each literal surface form, source/page, surrounding words, possible name role and confidence. For a large corpus, use bounded discovery batches; report which portions were actually examined. With only a remote search interface, seed from returned passages and existing records rather than claiming a full-corpus pass.
 
 Keep observed spellings, dictionary forms and generated possibilities in separate columns. A remembered list is a starting set, not an exhaustive inventory; corpus discovery is also not a guarantee of completeness. Review matched surface forms with context before interpreting counts. Short stems can match ordinary words, place names and unrelated surnames.
@@ -75,6 +77,8 @@ John [S32]. A call-name match is a candidate, not proof that two entries are one
 
 ## Diagnose three different failures
 
+When a supported spelling fails in separate given-name and surname fields, run a controlled trial with those fields exchanged. Ancestry’s collection guidance explicitly recommends this diagnostic [S50]. Inspect the displayed record and image to determine where the index put each name; preserve that field placement in the search log rather than changing the person’s name to fit the index [S54].
+
 | Failure | Controlled comparison | Limitation |
 | --- | --- | --- |
 | Encoding | Original text versus a documented normalized search copy | Equivalent encoding does not generate other spellings |
@@ -108,6 +112,13 @@ forms, for example Ѳома/Фома, Ѳеодоръ/Феодор (and the verna
 image. In a volume that binds several parishes, limit a negative to the target parish's section
 and to the years and pages that carry recognised text.
 
+A register can also differ from the church calendar within pre-reform spelling. Counting the boys
+born in Efremov uezd, Tula guberniya, in 1875, a researcher found Алексѣй, with ять, written more
+often than the святцы (church calendar) form Алексій, and vernacular forms such as Антон, Ефим and
+Захар beside Антоний, Евфимий and Захарий [S42]. A pre-1918 orthography handbook gives Алексѣй as
+the standard spelling [S43]. Search the calendar form, the register's pre-reform form and the modern
+form as separate lanes.
+
 Transcription can also move or replace whole name parts. When an expected entry is missing from a
 transcribed index, test a query with the given name and patronymic swapped, since a man recorded
 as X son of Y may be indexed as Y son of X. Also allow for an indexer who substituted a dissimilar
@@ -129,6 +140,17 @@ keep the literal form in the inventory. The [Jensen](https://www.youtube.com/wat
 systematic conversion table. A matching form is a candidate, not proof of identity. For Romanian
 and Russian name lanes in Bessarabian records, see
 [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
+
+For Tula guberniya records, add a South Russian dialect lane. Russian Wikipedia's article on the
+southern dialects gives х or хв for ф (Хвёдор) in their western and central groups, which take in
+the south and west of today's Tula oblast, and аканье, unstressed о pronounced as а, as a southern
+feature [S46]. Clerks who wrote names by ear left both directions in the books. In an 1895
+baptism in a Dedilovo family, a godmother is entered as the wife of a man surnamed Хамин, of a
+family the researcher otherwise found as Фомины [S45]. The Belev uezd village of Коровьи Хвосты is headed «Каровьих
+Фастов» in the 1795 revision list and «Коровьих Фостов» in that of 1782, and mid-19th-century
+parish priests' descriptions of Bogoroditsk uezd villages give Хвилип and Хилип for Филипп [S44].
+The same post notes that inventories and indexes often keep the spelling the document used [S44].
+Search х, хв and хф for ф, ф for хв, and а for unstressed о, as separate logged lanes.
 
 In English-language records, a German surname may be translated by meaning, not only respelled:
 Zimmermann as Carpenter, Schwarzwälder as Blackwelder, Becker as Baker [S34]. More often the
@@ -204,6 +226,8 @@ Use only syntax supported by the actual field, without transferring another data
 
 ## Calibrate the actual field
 
+For a recorded surname prefix, test the joined, spaced and punctuation forms relevant to that name: IrishGenealogy lists O’Brien, O Brien and Obrien [S47]. Check whether a Dutch index files under the surname root or provides a separate prefix field; Hoitink explains the Raalte/van Raalte arrangement and discusses joined forms [S48]. Log each query and keep the literal record spelling rather than permanently stripping prefixes from the attestation inventory [S51] [S52].
+
 Before interpreting zero results, try an independently known positive that the same field and scope should retrieve. Distinguish catalogue author/title, body-text OCR, typed name fields and free text. If the control fails, investigate scope, access or field behaviour; report the failed control rather than the target's absence. A functioning website does not establish a functioning within-book index.
 
 Remote services may normalize differently from local code. Submit original and transformed queries separately and compare returned identifiers. Check only the syntax needed for the task; do not transfer local regex, wildcards or Boolean syntax to an undocumented interface.
@@ -246,10 +270,22 @@ JewishGen's transcription rules allow hidden “Other Surnames” and “Other T
 
 Phonetic search is another candidate lane: JewishGen's Belarus instructions explicitly document name forms that it misses. It cannot replace searches for attested alternatives. [S4]
 
+Before relying on a Soundex or other sound-alike option, find out which code the field uses.
+American Soundex, the census system the U.S. National Archives describes, always keeps the
+surname's first letter as a letter [S55]. Spellings that sound alike but begin with different
+letters therefore never share its code: Auerbach is A-612, Ohrbach O-612. Daitch–Mokotoff Soundex
+codes the first letter as a digit, and JewishGen's coding page gives both names 097500 [S56].
+Under American Soundex, search each spelling with a different first letter as its own lane, and
+search a surname with a prefix such as Van, De or La both with and without it, since the census
+guide codes it both ways (VanDeusen: V-532 or D-250) [S55]. A shared code retrieves candidates;
+it is not evidence that two spellings are one name or that two entries are one person. A
+community blog post offers a shared Soundex code as a way to find sound-alike surnames but names
+no Soundex system [S57].
+
 ## Stop with a scoped result
 
 Keep the corpus/index version or access date, field, exact Unicode query, filters, transformation policy, inspected portions and result identifiers. Separate occurrences, unique records/books and identified people. Label source-confirmed target readings, distinct similar names, rejected noise and unresolved passages separately.
 
 A successful search can still have incomplete coverage. A completed zero-hit query describes that query and scope; it does not exclude a person whose record or spelling has not been tested. When a newly attested form changes an earlier negative, rerun the affected searches and amend that specific conclusion. Do not infer kinship from the rescued name hit.
 
-For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/440a8688ef7b6a89e5e7a2997764f9dbde14f680/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).
+For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/5475bc91f95a586716a55ac839e085d9716271f6/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).

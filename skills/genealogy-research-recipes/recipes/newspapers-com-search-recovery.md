@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "australia-nz-record-routing", "court-ca
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["newspapers.com"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 30}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 34}
 ---
 
 # Newspapers.com: Recover Notices That Name Searches Miss
