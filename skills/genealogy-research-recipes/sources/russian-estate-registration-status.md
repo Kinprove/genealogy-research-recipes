@@ -48,6 +48,7 @@
 - **S40:** Википедия (ru), [«Пахотные солдаты»](https://ru.wikipedia.org/wiki/Пахотные_солдаты), read 2026-11-15. Used for: ploughing soldiers and dragoons as a category of service men that later became state peasants.
 - **S41:** Википедия (ru), [«Государственные крестьяне»](https://ru.wikipedia.org/wiki/Государственные_крестьяне), read 2026-11-15. Used for: государственные and казённые крестьяне as one estate.
 - **S42:** Поиск предков: Тульская губерния, [«Пахотные солдаты - предки тульских крестьян: чем занимались и куда исчезли»](https://dzen.ru/a/YgWiYchp2BbuRHrh), a Dzen post dated 16 February 2026 on the captured page, read 2026-11-15 from a captured copy. Used for: one family's labels in the revision tales of 1816, 1834 and 1850.
+- **S43:** Викитека, [«Табель о рангах» (1722)](https://ru.wikisource.org/wiki/Табель_о_рангах), read 2026-11-16 from the page's raw wikitext. Used for: the point under which a military father who reached an ober-officer rank, with no children born after it, could petition for the nobility of one earlier-born son.
 
 ### Notes on the additions of 2026-11-16
 
@@ -74,6 +75,7 @@ The following were NOT verified: whether the treasury chamber's journals survive
 - Dzen posts of the channels «Поиск предков: Тульская губерния» and «Сыщик рода» cited as S22, S23, S25, S27, S28, S31, S36, S37, S39 and S42 — Copyright of their authors; short quotation and paraphrase (adapted)
 - Wikipedia articles cited as S24, S26, S33, S34, S38, S40 and S41 — CC BY-SA 4.0; short quotation and paraphrase (adapted)
 - Brockhaus and Efron articles «Паспорт» and «Дворянство» as reproduced by Wikisource, cited as S21 and S35 — Public domain; paraphrase (adapted)
+- The 1722 Table of Ranks as reproduced by Wikisource, cited as S43 — Public domain; paraphrase (adapted)
 - НашиПредки catalogue listings cited as S29 and S30 — Catalogue data, copyright of their publisher; factual locators and short quotation (adapted)
 - A researcher's notes on моипредки.рф cited as S32 — Copyright of its author; factual locators (adapted)
 - Kinprove original procedural synthesis; forum discussions cited as S1–S13 supply terms, locators and worked examples; 1859 legal conditions restated from the Jewish Encyclopedia article Pale of Settlement — FSL-1.1-MIT (kinprove-original)
