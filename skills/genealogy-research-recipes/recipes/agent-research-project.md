@@ -203,8 +203,12 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   silently dropped one surname of five, and the completion mark then proved nothing for that family.
 - Before naming a next source or calling a find new, search your notes for earlier readings, known
   losses and old negatives. Make "destroyed" and "already searched" findable by reference number.
+- Before rebuilding a tree or table, inventory the existing artifacts and the extraction/version
+  each uses; flag those still based on superseded readings. See the
+  [village family reconstitution, step 5](russian-village-family-reconstitution.md#5-index-the-whole-village-in-every-role).
 - Record "looked at and rejected for this question" apart from "used", with the reason. Keep a
-  table of refuted ideas at the head of a long investigation.
+  table of tested and dropped hypotheses at the head of a long investigation, with reasons and
+  report locators. Reopen a dropped hypothesis only with relevant new evidence; state what changed.
 - Decide before you check a claim what each outcome will do. "Not found" is not "false", and an
   unconfirmed claim stays what its author reports.
 
