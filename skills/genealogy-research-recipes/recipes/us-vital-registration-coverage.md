@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 100}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 106}
 ---
 
 # Build a U.S. vital-registration coverage register before calling a birth or death record missing

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 138}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 150}
 ---
 
 # Take in, capture and hand over an inherited family collection
@@ -72,9 +72,13 @@ Inventory the media and their observed condition before proposing capture [S4]. 
 - **Film that may be cellulose nitrate** stays out of routine capture, on a flatbed and on a film scanner alike. Nitrate film was made from 1889 into the early 1950s, and acetate film overlapped it from the 1920s. Only Kodak published end dates. Amateur roll film was often unmarked, and a copy can carry its original's "NITRATE" edge printing. So, except for dated Kodak film, neither the film's date nor its edge marking settles whether it is nitrate [S17], [S18], [S19]. Nitrate is a fire risk: keep suspected nitrate apart from other material, record it, and leave its copying to a person or company trained to handle nitrate [S17], [S18].
 - **Film that smells of vinegar** (deteriorating acetate) is kept apart from other film, because film in good condition absorbs acid from it. The smell shows that the decay has already begun [S18], [S19].
 
+**Bound volumes** (a family Bible, diary, ledger, scrapbook or bound album) are captured open only as far as the binding opens without force. Never flatten one for capture, whether face down on a flatbed or under a lid or glass: that pressure can break the spine or loosen brittle pages [S27], [S28]. Rest a volume with weak joints or a restricted opening in a book cradle of polyethylene foam blocks or rolls, under capture equipment that adjusts to its height [S28]. The Library of Congress lists a binding that opens less than 90 degrees as a condition problem [S28]: capture what that opening shows and record the hidden gutter as inaccessible.
+
 **Flatbed settings for a print's master.** Capture the print as it is. Turn off the scanning software's automatic correction and sharpening, and leave a margin around the print rather than cropping to its edge; straighten, crop and retouch only a derivative [S24], [S25], [S26]. Save the master as TIFF, not JPEG, which holds only 8 bits per channel; keep JPEG for working and sharing copies [S25], [S26]. Set resolution by print size, so that a smaller print gets more: 300 ppi for 8×10 inches or larger, 600 ppi for about 6×4 inches, and 1200 ppi for 2×3 inches or smaller [S25]. Scan a black-and-white print that may need restoration in full colour at 16 bits per channel [S24], [S25]. The Library of Congress's 2014 basics select grayscale for black-and-white photos [S26]; use grayscale only where no restoration is planned.
 
 Handle each item with clean, dry hands or clean nitrile gloves, by its edges, without touching the image [S20]. Do not use rubber bands, paper clips, staples, sticky notes, tape or glue on photographs, and do not laminate them [S20], [S21]. Label the enclosure rather than the photograph. If a paper print must be marked, write lightly in soft pencil on the back near the edge, never on the front [S16], [S20]. A glossy resin-coated print does not take pencil: if one must be marked, use a waterproof, non-acidic archival pen instead [S16].
+
+Gloves are for photographs and film, not for paper. Handle letters, documents and bound volumes with clean bare hands, washed and dried before you start [S28], [S29]. The Library of Congress names photographs, film, metal and ivory as the materials that need gloves; on paper, gloves dull touch and make handling clumsier, and for rare books they are generally not recommended [S29], [S30]. Wear clean gloves for a volume that contains photographs or has metal or ivory decoration, and impermeable gloves whenever mould is suspected [S29], [S30].
 
 If suitable capture is unavailable, leave an explicit next action. Do not mail originals; arrange copying where the original is, locally or at the holder's home [S6].
 

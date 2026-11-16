@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "beider-given-name-variants", "evidence-
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 29}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 33}
 ---
 
 # Recipe: Recovering historical records with MyHeritage
@@ -97,6 +97,18 @@ These are proposed queries, not reported results. Keep each attempt and its reas
 Create a short variant list: native spelling, maiden and married surnames, familiar given name,
 initials and middle names. Try fictional Anna Maria Weiss as Anna Weiss and Maria Weiss, then the
 documented married surname. Use offered initials matching or exact-spelling controls consciously. [H1]
+
+Do not type `*` or `?` into a MyHeritage name field to generate variants. MyHeritage's search-engine
+help documents exact-match, spelling-variation and initials options and no wildcard syntax
+[H1 @2026-11-12].
+
+A Family Tree Magazine guide last updated in November 2026 reports that MyHeritage
+supports neither character [S18 @2026-11-16], and MyHeritage's Knowledge Base says its own variant
+matching should make wildcards unnecessary [S19 @2026-11-16]. A 2025 MyHeritage blog post gives `*`
+a fixed letter range [S17 @2026-11-16]; neither that help page nor the Knowledge Base article
+documents the rule, so do not adopt it.
+Admit variants with the spelling-variation option and enter each listed spelling as its own query.
+A wildcard query that returns nothing has not searched the variants.
 
 An exact form can reduce a common-name result set, but also exclude abbreviated or reordered text.
 In newspapers, a woman may appear under her husband's name or an honorific. Test those forms as

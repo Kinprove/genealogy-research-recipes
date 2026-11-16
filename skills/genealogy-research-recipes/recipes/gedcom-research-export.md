@@ -11,7 +11,7 @@ handoff: ["descendancy-gap-worklist", "evidence-proof-judgment", "familysearch-p
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "upload"], "contact": []}
-router: {"section": "Research method", "group": "Family trees and research planning", "order": 11}
+router: {"section": "Research method", "group": "Family trees and research planning", "order": 13}
 ---
 
 # Export research findings to a GEDCOM file without changing what they prove

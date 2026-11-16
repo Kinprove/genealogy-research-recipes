@@ -4,14 +4,14 @@ title: "Find a published local history, compiled genealogy or family book across
 summary: "Find a published local history, compiled genealogy or family book across catalogues and full text."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "PUBLISHED-BOOK-CATALOGUE-AND-FULL-TEXT-DISCOVERY-01", "text": "A miss is only a miss for that tool, query and range. It never establishes that the book doesn't exist or isn't held."}]
 handoff: ["hebrewbooks-search-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 32}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 36}
 ---
 
 # Find a published local history, compiled genealogy or family book across catalogues and full text
@@ -73,7 +73,11 @@ On any full-text tool, including HathiTrust, a zero result can come from an OCR 
 
 **Write the queries as subject descriptions.** Use terms such as the locality's history, early settlement, the county or the religious group. The teaching example is a Joseph City, Arizona settler: the presenter looks for him under Arizona history and early settlement, not under his name [S2].
 
+**Search the catalogue of each library that serves the county, not only WorldCat and the FamilySearch Catalog.** WorldCat shows a library's copy only when the library is an OCLC member, has chosen to represent its collection in WorldCat and keeps the subscription that makes its holdings visible [S48 @2026-11-16]. The FamilySearch Catalog describes material that FamilySearch has collected [S49 @2026-11-16]. A book held only by a local library can be missing from both. Find the online catalogue of the public library or libraries serving the county and run the subject queries there too. The Just Genealogy video on county research makes this a step of its own for that reason (known here only from transcript excerpts; the video itself was not read) [S46† @2026-11-16]. Log each of these catalogues as a separate catalogue-search tool in the register.
+
 **Record WorldCat's holding libraries for each title.** Enter a postal code or location and WorldCat lists the nearest libraries that hold the title [S2], [S6].
+
+**Set WorldCat's location to the county before you read its holdings list.** WorldCat.org lists holding libraries within roughly 200 miles of the location it is given. It asks you to sign in with a free account to see more than the first results, and it does not display every type of library [S47 @2026-11-16]. Enter a place in the target county, not your own or the server's location, and record the location you used.
 
 **Read WorldCat records critically:**
 
@@ -117,6 +121,8 @@ without evidence that it applies there.
 **Within digitised county histories and compiled genealogies, run full-text searches for the surname.** Don't rely on the title, the table of contents or the printed index. The presenter found that many county-history indexes list only the main subject of each biographical sketch [S8].
 
 **Expect hits on people who are not the sketch's subject.** In the presenter's example, a sketch of another man gave details about the wife's natal Barnes family, which the table of contents did not list. Other hits were people listed as members of a church, which pointed to the church records [S8].
+
+**When the ancestor has no sketch, look for each child's.** County-history sketches often name the subject's parents, siblings and children and give the family's ancestry and migration [S45]. A child's sketch can therefore describe a parent who has no entry and whom an index of main subjects does not list, as the presenter reports of such indexes [S44], [S8†]. List the known children, then search the index and the full text for each child by name. Add each daughter's husband, because a wife's family can appear in her husband's sketch, as in the Barnes example the presenter reports above [S8†]. Take what a child's sketch says about the parent as a lead: county histories often do not say where their information came from [S45]. Verify it as in [section 8](#8-treat-snippets-incidental-mentions-and-transcriptions-as-leads).
 
 **Search compiled-genealogy collections by surname keyword as well as by title.** A presenter found apparent collateral relatives in a book titled for a different family. She recorded it as an unresearched lead [S5].
 
@@ -176,6 +182,8 @@ verified here; use the procedure to check the actual case rather than copy its e
 - WorldCat holdings (on a Google Books page, use the "Get the book" tab and its "Search WorldCat" link under Borrow; the presenters knew it as "Find in a library" [S15])
 - a general web search
 
+- the catalogue of each library serving the county ([section 2](#2-query-catalogues-the-way-a-cataloguer-would-describe-the-item))
+
 **Treat each platform's statement as that platform's own knowledge only:**
 
 - **Google Books "No eBook available"** is the Google Play purchase box. It means Google doesn't sell the book as an ebook. It does not mean Google has no scan, and snippet-view and preview books often show it too. Use the view label to judge Google's own access, and keep looking elsewhere. In the teaching example, a book marked this way had a complete, downloadable copy in FamilySearch Books [S6], [S15].
@@ -198,6 +206,10 @@ verified here; use the procedure to check the actual case rather than copy its e
   Affiliate libraries do not get restricted Books images [S36]. Read the level on the book's search result and confirm that book's access with FamilySearch or the center before you plan a visit. The presenter adds that a "not authorized to view" message can also mean the book's limit on simultaneous viewers has been reached [S6]. Record the exact restriction message you saw.
 
 **Record a view level for each holder checked:** full view or "read", snippet, preview, timed loan, restricted/on-site, or catalogue only. Note which copy and edition you actually read, and the country you searched from.
+
+**Privacy gate:** <!-- privacy-gate: request --> A loan or page-copy request sends the book's title, call number and pages, and the name of any person it mentions, to library staff (the user's own library for a loan, the holding library for page copies). Before a request names a person or asks staff to search for one, answer the [privacy gate](../SKILL.md#privacy-gate) for that person, who may be living.
+
+**For a book held only on paper, record whether the holding copy lends.** Read the holding library's lending rule before you list interlibrary loan as the route. Allen County Public Library, for example, excludes reference materials and rare or unique materials from interlibrary loan, and its Genealogy department lends nothing but offers copying services [S50 @2026-11-16]. Where the copy does not lend, record a request for copies of the pages you need as the follow-up route. The user sends any loan or copy request, including the interlibrary loan in [section 8](#8-treat-snippets-incidental-mentions-and-transcriptions-as-leads). Draft it with the title, call number and pages only.
 
 ## 6. Open the copy and cite the real host
 
@@ -222,6 +234,8 @@ Photographs, plates and other items without searchable text can be found only th
 **Use a snippet for triage, not for facts.** A snippet shows only the search term in context on its page. It can tell you which book and page are worth chasing [S6], [S15]. Before you record any fact, find a complete copy and read the whole entry.
 
 **Keep an incidental mention as a candidate.** A presenter warns against copying a surname book into a family file without first verifying that the people are actually related [S12]. Pass identity questions to evidence/proof judgment.
+
+**Privacy gate:** <!-- privacy-gate: request --> An interlibrary loan sends the book's title and call number, and the name of any person the request mentions, to staff at the user's own library and the lending library. If it names a person, who may be living, or asks staff to search for one, answer the [privacy gate](../SKILL.md#privacy-gate) for that person before the user sends it.
 
 **Trace a transcription back to its original record.** For example, a transcribed probate record found in a book should lead you to the original probate record. If the book itself is held only on paper elsewhere, request it through interlibrary loan [S10].
 

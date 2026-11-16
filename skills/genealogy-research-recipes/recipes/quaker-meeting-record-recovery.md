@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 104}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 111}
 ---
 
 # Recover a Quaker ancestor from monthly-meeting minutes and removal certificates
@@ -50,6 +50,12 @@ Some steps belong to other recipes. To test a disputed year against the document
 
    A matching name in a British or Irish register is a candidate until the certificate's meeting and dates agree with it.
 
+7. For a meeting in Maryland, find which of its books were filmed in Phebe R. Jacobsen's *Quaker Records in Maryland* (Maryland Hall of Records publications, no. 14, 1966) [S15]. It lists the Quaker records that the Hall of Records in Annapolis, now the Maryland State Archives, had microfilmed, with their reel numbers. It covers Baltimore Yearly Meeting and the Maryland meetings of Philadelphia Yearly Meeting. It also traces Virginia Yearly Meeting's meetings and the books filmed before their transfer to Haverford, according to Hill's Quaker index, which was only partially read [S14]. The filming took in both branches of Baltimore Yearly Meeting: the Hicksite records then kept at Stony Run and the Orthodox records kept at Homewood [S17].
+
+   A community video recommends a Maryland guide of this kind without naming it; only a transcript excerpt of that video was seen, and the video itself was not inspected [S13†]. Treat Jacobsen's reel numbers and locations as 1966 values. A book missing from her lists is a retrieval gap to check, not evidence that the book is lost.
+
+   Take the current holder and call number from today's catalogues, not from Jacobsen. The Hicksite branch deposited its records at Friends Historical Library, Swarthmore, in 1967–1969. The Orthodox branch deposited its own and Virginia Yearly Meeting's records at Haverford's Quaker Collection in the 1960s, according to Hill's Quaker index, which was only partially read [S14 @2026-11-16]. Search the Quaker Meeting Catalog that Swarthmore and Haverford share [S16 @2026-11-16]. Also search the Maryland State Archives' Guide to Special Collections for Maryland churches, whose Friends entries give the Archives' collection numbers (only the first page of results was read) [S18 @2026-11-16]. Record Jacobsen's reel number and the current catalogue entry side by side.
+
 ## Check meeting-related court proceedings when minutes are unavailable
 
 If early minutes for the target meeting are unavailable, use its locality and period to look for court proceedings concerning Quaker gatherings, then inspect whom they name as attending. Ruane's Salem account motivates this fallback; keep a described gathering separate from the identified monthly-meeting unit, and do not treat an accusation or reported attendance as proof of membership. [S3]
@@ -70,6 +76,7 @@ Return a packet with these items:
 - each minute series inspected (men's and women's, and the branch after the yearly meeting's separation), with its span;
 - each removal-certificate series inspected, with outgoing and receiving pairs;
 - for an emigrant from Britain or Ireland, the received certificate's issuing meeting and the registers searched there;
+- for a Maryland meeting, Jacobsen's 1966 reel number beside the current holder and call number;
 - witness and associate lists transcribed from images;
 - every date as a literal value with a bracketed conversion, plus any year-ambiguity flag.
 

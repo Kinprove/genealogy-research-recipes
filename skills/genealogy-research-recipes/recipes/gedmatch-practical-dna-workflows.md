@@ -3,15 +3,15 @@ id: "gedmatch-practical-dna-workflows"
 title: "Working reproducibly with GEDmatch"
 summary: "Work reproducibly in GEDmatch: kit baselines, one-to-one checks, segment search, tag groups, triangulation, phasing and Lazarus kits."
 kind: "platform"
-scope: {"platforms": ["gedmatch"], "tasks": ["GEDmatch One-to-Many, One-to-One, match-both, Segment Search, tag groups, Multiple Kit Analysis, Triangulation, parental phasing or Lazarus reconstruction."]}
+scope: {"platforms": ["gedmatch"], "tasks": ["GEDmatch One-to-Many, One-to-One, match-both, Segment Search, tag groups, Multiple Kit Analysis, Triangulation, parental phasing or Lazarus reconstruction.", "GEDmatch Superkit, overlap cutoffs, endogamy thresholds and GEDCOM or MRCA tree comparison."]}
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
 guardrails: [{"id": "GEDMATCH-PRACTICAL-DNA-WORKFLOWS-01", "text": "A match-list row, a pairwise segment, a shared-match list, a triangulation result and a generated kit answer different questions. Keep their tool, inputs and settings attached to every result."}, {"id": "GM-01", "text": "Authorization to analyze a kit is not permission to upload it."}, {"id": "GM-02", "text": "require that person's explicit permission for GEDmatch and the chosen option."}, {"id": "GM-03", "text": "For an upload request, make the gate explicit in the first reply: ask whether the file is the user's own test or someone else's, distinguish permission to access or analyze it from permission to transfer it, and ask about permission for GEDmatch and the chosen visibility and law-enforcement matching options."}]
 handoff: ["ai-for-dna-research", "dna-comparison-controls", "evidence-proof-judgment", "unknown-parentage-wato", "xdna-phasing-judgment"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["gedmatch"], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool", "upload"], "contact": []}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 21}
+capabilities: {"browse": ["gedmatch"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "third-party-tool", "upload"], "contact": []}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 24}
 ---
 
 # Recipe: Working reproducibly with GEDmatch
@@ -22,6 +22,7 @@ router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 21}
 - The failure to prevent
 - Before starting
 - Eight workflows
+- Compare trees through GEDCOMs
 - Hand off interpretation
 
 ## Goal
@@ -111,6 +112,20 @@ every run. The [sibling walkthrough](https://www.youtube.com/watch?v=-C6gmmx8nr0
 [interview answer](https://www.youtube.com/watch?v=zvZhuusSROY) motivate this. Current upload
 validation, and the matching setting's name and effect, remain unverified.
 
+**Privacy gate:** <!-- privacy-gate: upload --> A Superkit is a new kit of one person's genome in
+GEDmatch's database: generate it only after the privacy gate in `SKILL.md`, with that person's
+explicit permission for the Superkit and its privacy option, exactly as for an upload.
+GEDmatch's own route for combining one person's tests is the Tier 1 tool "Combine multiple kits
+into 1 Superkit", which its help scopes to results from different testing companies for the same
+individual [H9 @2026-11-16], [H15 @2026-11-16]. Never select another
+person's kit as an input. Register the Superkit as derived with its source kits, and name one kit
+as the active baseline, as above. Its gain is more positions assayed in common with matches tested
+at other companies, as Kitty Cooper's [2024 interview](https://www.youtube.com/watch?v=ajAnhgs8ck8)
+(unverified transcript excerpts) describes [S26† @2026-11-16]. Do not assume that gain adds shared DNA: in
+GEDmatch's own tutorial on a hand-merged superkit, some matches gained overlap with no change in
+shared cM [H19 @2026-11-16]. Run a candidate against the source kit and the Superkit as separate
+recorded runs, and compare overlap and segments.
+
 When parental relatedness affects the interpretation, run the parental-relatedness check on the
 relevant selected kit and store the result, its thresholds, the output it reports and its
 limitations in the kit registry. The check reads only that tester's own data, so no parent kit is
@@ -182,6 +197,21 @@ and export format with the observation. An
 check. Neither establishes a cause (population background, chip or file artifact, or altered
 data) or sets any threshold, and neither verifies which vendors' files are unsuitable.
 
+If the top matches' own lists show the same inflation, or the tester's ancestry comes from a
+documented intermarrying community, read each row's largest segment beside its total. A large total
+made of small segments, with a small largest segment, is a recognized sign of endogamy and does not
+support the close relationship the total alone suggests [S28 @2026-11-16]. Keep the default run.
+Where the current form offers a minimum-segment setting, re-run One-to-Many with a higher minimum
+as a separate recorded run. GEDmatch's 2026 guide describes the minimum as typically 7 cM,
+recommends adjusting it when endogamy is suspected and gives 10–15 cM as a raised setting
+[H17 @2026-11-16]. Legacy Tree recommends recalculating totals at GEDmatch under higher thresholds
+and comparing the results [S30 @2026-11-16]. Kitty Cooper's
+[2024 interview](https://www.youtube.com/watch?v=ajAnhgs8ck8) (unverified transcript excerpts) raises the
+threshold to 12 cM and reads a small largest segment as several distant relationships rather than
+one fourth-cousin relationship [S26† @2026-11-16]. Record which candidates survive the raised
+setting, but do not reclassify relationships here: send both runs to the endogamy guidance in
+`ai-for-dna-research.md`.
+
 Keep every displayed match-list column as reported, but mark any estimated generation or
 relationship column as derived from the shared total. A derived value is not a second
 observation. Do not add it to the cM figure as corroboration, and do not convert it into a cousin
@@ -217,6 +247,16 @@ unrelated-pair comparison under the same settings as a baseline and rely on the 
 segments. The [overlap discussion](https://www.youtube.com/watch?v=Ypfn6mzRbOc) and
 [ancient-sample answer](https://www.youtube.com/watch?v=GEc8JVzCX5o) motivate this. Neither sets a
 threshold or an expected range, or explains why values are missing.
+
+Record the overlap cutoff each One-to-Many run applied and whether a row's overlap is
+colour-flagged. GEDmatch's One-to-Many page says a pink overlap value may indicate a less accurate
+match [H3 @2026-11-16]. Its tutorials raise the cutoff to drop low-overlap kits and list a
+changeable cutoff among the Tier 1 features [H16 @2026-11-16], [H18 @2026-11-16]. A 2022 guide
+advises against ignoring low-overlap matches outright [S29 @2026-11-16]. Kitty Cooper's
+[2024 interview](https://www.youtube.com/watch?v=ajAnhgs8ck8) (unverified transcript excerpts) treats overlap
+under 100,000 SNPs as possibly less accurate [S26† @2026-11-16], but none of the GEDmatch pages
+opened on 2026-11-16 sets that figure: do not apply it as a cutoff. Check a flagged row's segments
+in One-to-One before relying on its total, and keep the flag in the ledger.
 
 **Artifact:** candidate-to-comparison ledger: `candidate_run_id, pair_run_id, kit_a, kit_b,
 chromosome, start, end, cm, snps, comparison_type, status, discrepancy_reason`.
@@ -380,6 +420,55 @@ output_kit, validation_control, validation_run, validation_status`.
 **Complete when:** each input has a justified role, the trial is preserved and validation limits
 are stated. Full database processing requires a separate explicit decision by the kit manager;
 the recipe does not change anyone's kit visibility or permissions.
+
+## Compare trees through GEDCOMs
+
+A tree comparison proposes a common ancestor for a DNA match; it does not test one. Use these
+steps to make the proposal and then test it.
+
+1. **Privacy gate:** <!-- privacy-gate: upload, link --> A GEDCOM upload places a family tree, linked to
+   a tested person's kit, on GEDmatch, where other users' tree tools search it [H12 @2026-11-16].
+   Before uploading, answer the privacy gate in `SKILL.md` for the tree's living people and the
+   linked tester. Export ancestors only, since the comparison needs common ancestors, not
+   collateral relatives, as Kitty Cooper's
+   [2024 interview](https://www.youtube.com/watch?v=ajAnhgs8ck8) (unverified transcript excerpts) recommends
+   [S26† @2026-11-16]. Remove anyone who may be living unless that person permits the upload.
+   GEDmatch's help says people marked living are hidden from everyone except the GEDCOM's owner,
+   and that the upload takes a plain-text `.ged` file [H14 @2026-11-16]; hidden people's data
+   still leaves the user's device. Record the GEDCOM number assigned and the kit linked to the tested person's place in the tree;
+   the common-ancestor search needs that link [S27 @2026-11-16].
+2. Choose the tool for the question and record its inputs. GEDmatch's tutorial describes a
+   two-GEDCOM comparison that takes two GEDCOM numbers and checks only those trees, a search of one
+   GEDCOM against all uploaded GEDCOMs, and GEDCOM + DNA matches, which limits a kit's match list
+   to matches with an attached tree [H12 @2026-11-16]. Its most-recent-common-ancestor (MRCA) tool
+   searches the trees of a kit's DNA matches and takes the number of kits searched, a minimum cM
+   and a match score [H13 @2026-11-16]. A 2022 guide calls that search a Tier 1 tool
+   [S27 @2026-11-16], and the interview (unverified transcript excerpts) describes both the pairwise
+   comparison and a Tier 1 search across matches' trees [S26† @2026-11-16]. Check the home-page
+   marking before planning on it.
+3. **Privacy gate:** <!-- privacy-gate: export --> The MRCA result lists living matches' kit
+   numbers, names and email addresses [S27 @2026-11-16]. Keep it on the user's device, do not
+   copy match email addresses into the research record (Living people, in `SKILL.md`), and delete
+   it when the question is answered, as the privacy gate in `SKILL.md` says. Save each run's tool,
+   GEDCOM numbers, linked kit, kit count, minimum cM and match score with the result.
+4. Treat a returned ancestor as a name match between two trees, not the path of the shared DNA.
+   GEDmatch's MRCA tutorial calls results potentials to research and shows a same-name candidate
+   with different birth details and places [H13]. Brons warns that the listed ancestor may not be
+   the one both matches inherited the shared DNA from, since people can be related in several ways
+   [S27]. Check the pair's segments in One-to-One (workflow 2) and the documentation for each
+   generation on both paths. When the only shared ancestor lies far back, do not let it explain the
+   segment. In the interview's example (unverified transcript excerpts), a single-segment match led to a
+   13th-century ancestor in Norway, and the speaker favoured a more recent connection that the
+   trees had not documented correctly [S26†]. Keep such a connection as a competing hypothesis, and
+   send the path to `evidence-proof-judgment.md`.
+
+**Artifact:** tree-comparison ledger: `run_id, tool_label, gedcom_a, gedcom_b, linked_kit,
+match_kit, settings, candidate_ancestor, generations_a, generations_b, match_score, pair_run_id,
+path_check, status`.
+
+**Complete when:** each candidate ancestor has a saved pair result from workflow 2 and a checked
+documentary path, or is marked `tree overlap only`. A returned name is not a confirmed common
+ancestor.
 
 ## Hand off interpretation
 

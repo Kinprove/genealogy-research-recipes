@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "gedcom-resea
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["familysearch"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 28}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 32}
 ---
 
 # Recipe: FamilySearch record recovery and Tree maintenance
@@ -135,6 +135,18 @@ still needs its original entry. Sources: [Jewish genealogy](https://www.youtube.
 [Danish places](https://www.youtube.com/watch?v=iA8SSSgUzyc),
 [Sweden](https://www.youtube.com/watch?v=T_fRRUa4lYY); their 2017–2022 search fields may differ now.
 
+Treat the coverage ledger as an inventory of FamilySearch's holdings, not of the records that survive
+for the place. FamilySearch describes the Catalog as a guide to the records and resources it has
+collected, covering materials available in its libraries and centers, physically or as online
+digital files [S100 @2026-11-16], [S101 @2026-11-16]. Enter every series and custodian found in workflow 1.
+Mark a series the Catalog does not list as not catalogued, not as not held: an image group can
+reach Images before the Catalog, so search Images for it first (workflow 2, step 5), then look for
+it in the custodian's own catalogue; never log it as nonexistent or as searched. A
+[Just Genealogy talk](https://www.youtube.com/watch?v=H4SDdOicYjQ) builds a locality guide from this
+search, according to a community reader's extracted quotations; only its title and channel were
+rechecked, and its claim that the outline lists everything known to exist is narrowed here to
+FamilySearch's holdings [S102† @2026-11-16].
+
 When an inspected entry offers Locality Subject or Subject links, save the exact label and entry
 URL and follow a relevant link to related items. Check each candidate's creator, place, dates,
 record type and access before adding it to the coverage ledger. A subject heading describes
@@ -158,6 +170,8 @@ holder before citing it; cite the copy you read. Sources:
 **Check:** Relevant image-only holdings remain outstanding after a negative name search. Never calculate indexing coverage by dividing or subtracting record counts and image counts.
 
 **Sources:** [S12](https://www.youtube.com/watch?v=MMe67JLgS08), [S14](https://www.youtube.com/watch?v=XOnRrT771CY), [S08](https://familylocket.com/finding-your-family-in-familysearch-images/), [S58](https://www.youtube.com/watch?v=LaqAID03XqM), [S59](https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-the-catalog-to-learn-more-about-the-collections-in-historical-records).
+
+**Sources:** [S100](https://familysearch.org/en/help/helpcenter/familysearch-catalog-learning-center), [S101](https://articles.familysearch.org/hc/en-us/articles/40890974066971), [S102†](https://www.youtube.com/watch?v=H4SDdOicYjQ) (title and channel only; its transcript could not be retrieved).
 
 ### 3. Use a photographed index to browse an unindexed register
 

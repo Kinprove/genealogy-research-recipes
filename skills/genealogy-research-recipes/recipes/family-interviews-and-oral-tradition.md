@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": []}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 141}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 153}
 ---
 
 # Record a family interview or inherited account with its speaker, prompter and chain
@@ -25,9 +25,23 @@ This recipe covers consent, prompting, recording, attributing and preserving spo
 - Log sessions, and searches for a missing original recording, in the [research log](research-documentation.md).
 - For the papers, photographs and media an account arrived with, use Family collection intake and capture. To identify or date a photograph used as a prompt, use Family photograph attribution and dating. To date a written family paper, use Family papers and Bible register dating.
 
+## Contents
+
+- Preserve the source first
+- Get consent before recording and authorization before sharing
+- Choose a bounded prompt
+- Record the answers, not only the questions
+- Record who prompted each answer
+- Record the chain of a relayed or inherited account
+- Keep the recording, transcript and interpretation apart
+- Hand over a packet, not tree facts
+- Return
+
 ## Preserve the source first
 
 Preserve the source recording and its stated context before making an edit or transcript. If you were given a file, work from that file.
+
+If a conversation was not recorded, such as a phone call, a remark at a family gathering or what the user remembers a relative saying, the interview is the source, not the relative. Write it down as its own interview note, separate from any research report; a sentence in a report is not a record of what was said [S25] (known here from only a transcript extract), [S26]. Cite that note as an interview: the informant, who heard it, the date of the conversation and where the note is kept [S27]. If no notes were taken at the time, say so in the citation [S26], and date the write-up separately from the conversation.
 
 ## Get consent before recording and authorization before sharing
 
@@ -63,6 +77,8 @@ For a relayed or inherited account, record its chain. Note the speaker, whom the
 
 An "as told by" typescript is a received transcript: its recording stays an open search, and a copy note is not the interview date [S7], [S6]. Differing versions are derivatives, not corroboration. A written version is one dated telling, so do not edit other tellings toward it [S8]. Relayed content, teller intent and remembered dates still need documentary support [S5], [S6].
 
+A printed sketch can carry a family account too. Before treating a nineteenth-century collective biography, such as Elizabeth Ellet's *The Women of the American Revolution*, as documentary evidence of an episode, read its footnotes and closing lines for its informant [S28] (known here from only a transcript extract). Ellet's 1850 volume III sketch of Eleanor Wilson, including her reply to Cornwallis when the British general and his staff occupied her house, cites no document; its only source note credits the sketch to Milton A. Haynes, who "obtained the materials from different members of the family", and its last sentence counts "the writer of this notice" among the descendants of her daughter-in-law [S29]. Record such a sketch as one dated written telling in the account's chain: the credited informant is its teller, the unnamed relatives are unseen earlier links, and the episode is not confirmed by appearing in print.
+
 ## Keep the recording, transcript and interpretation apart
 
 Retain the speaker, recording date and context when known, prompt or item reference and actual audio or video file. Distinguish spoken testimony from your transcript, paraphrase and later interpretation. Use recording offsets for quoted or uncertain passages so they can be replayed. Preserve the original alongside edited extracts; mark uncertain readings rather than polishing them into definite names or quotations.
@@ -77,7 +93,7 @@ Deliver the requested source files and notes with the observed export gaps and a
 
 ## Return
 
-- **The source recordings, unedited**, each with its stated context and stable reference.
+- **The source recordings, unedited**, each with its stated context and stable reference, and an interview note for each conversation that was not recorded.
 - **A session register** with one row per session:
   - speaker and everyone present
   - date and context, when known
@@ -95,6 +111,6 @@ Deliver the requested source files and notes with the observed export gaps and a
   - recording offsets for quoted or uncertain passages
   - uncertain readings marked as uncertain
   - a "possibly reconstructed" flag where it applies
-- **A chain record** for each relayed or inherited account. Give each teller, their source, the occasion, their age then and how they could know. List each later copy, with unseen links marked and the generation you hold. Log a missing original recording as an open search.
+- **A chain record** for each relayed or inherited account. Give each teller, their source, the occasion, their age then and how they could know. List each later copy or printed telling, with its credited informant, unseen links marked and the generation you hold. Log a missing original recording as an open search.
 - **Observed export gaps.** List the audio, comments, notes or links that did not travel.
 - **No tree facts.** Hand over each recollection as an account to assess.

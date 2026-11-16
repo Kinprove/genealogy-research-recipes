@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 107}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 114}
 ---
 
 # Route pre-1900 U.S. military service by service type before searching or ruling it out
@@ -31,6 +31,14 @@ Classify each service clue into exactly one working type, and record the basis f
 - **Regular army.** Not in the volunteer CMSRs [S2]. For enlisted men, search the Register of Enlistments in the U.S. Army at NARA. For officers, start with Heitman's *Historical Register* and, for service from 1863, the Commission Branch and ACP files in RG 94 (NARA, *Prologue*, Fall 2002).
 - **Loyalist.** Treat this as its own route (§5). Patriot service indexes are the wrong place to look.
 
+- **War of 1812 index hits.** NARA has put the War of 1812 CMSR indexes online at Ancestry and Fold3, but the carded service records themselves (NAID 300392) have not been digitized in full; only select files are free in the National Archives Catalog [S10 @2026-11-16]. One presenter (only transcript excerpts read) warns that the records are not generally on Fold3, Ancestry or FamilySearch [S9 @2026-11-16]. Label an online War of 1812 service-record hit as an index entry, not the CMSR. Look for a scanned file in the Catalog; otherwise list the CMSR as unsearched.
+
+- **War of 1812 regulars.** Most enlisted regulars of the war are in the fifteen Register volumes for 1798–1815. An entry can give age, birthplace, physical description, occupation and enlistment details, and the Adjutant General's Office built the entries from muster rolls, payrolls, inspection and descriptive rolls and other records [S11]. Treat an entry as a derived abstract: cite it, then follow it back to the rolls behind it, as one presenter (only transcript excerpts read) advises [S9].
+
+- **Register online.** The Register (NARA M233) is online at Ancestry, FamilySearch and Fold3 [S12 @2026-11-16].
+
+- **Company books.** For 1812–15, NARA Record Group 98 (Records of United States Army Commands, 1784–1821) holds company books and order books for many regular infantry regiments, the 2nd and 3rd Artillery, the 1st and 3rd Rifle regiments and the Light Dragoons [S13 @2026-11-16]. One presenter (only transcript excerpts read) says these company and descriptive books carry the same kinds of detail as the Register [S9 @2026-11-16]. Search them when the Register entry is thin or the man is missing from it.
+
 If the type is unknown, keep two or more routes open. Do not choose one by default. Expect a man to have service of more than one type. An empty or incomplete CMSR search does not end the search. Check pension and state records for service the CMSR leaves out (pension recipe §4).
 
 ## 2. Write each series' eligibility rule before reading a miss
@@ -41,6 +49,18 @@ Build a routing table with one row per series: custodian, coverage, eligibility 
 - **State bounty land.** This is a separate route from federal bounty land. Bockstruck's book (below) covers the nine states that granted land: Connecticut, Georgia, Maryland, Massachusetts, New York, North Carolina, Pennsylvania, South Carolina and Virginia. One presenter's spoken list named New Jersey in place of North Carolina; the publisher's description of the book does not [S4]. The same presenter says Massachusetts made veterans choose between federal and state land [S4]. If that holds, a Massachusetts man missing from the federal records may simply have taken the state grant.
   - Search Lloyd Bockstruck's *Revolutionary War Bounty Land Grants Awarded by State Governments* first. The presenter says it is alphabetical regardless of state. Then go to that state's archive for the record itself [S4].
   - Virginia warrants could lie in present-day Kentucky and Ohio (the Virginia Military District). The presenter adds West Virginia [S4]. The Kentucky Secretary of State website has 4,748 Virginia Revolutionary War warrants digitized [S4]. Search where the land lay, not only where the soldier came from.
+
+- **War of 1812 state rosters and society compilations.** Many states published rosters of their troops called to duty in the war [S11]. One presenter (only transcript excerpts read) points to state adjutant-general volumes and to state-level books from the Society of the War of 1812 and the Daughters of 1812 [S9]. Each covers only some service types and units. Write that coverage into the routing table, use a hit to find the original record, and count a miss only inside the stated coverage.
+
+  - **Kentucky.** *Report of the Adjutant General of the State of Kentucky: Soldiers of the War of 1812* (Frankfort, 1891) [S15]. The Kentucky Genealogical Society says men who served in the U.S. regulars or in Virginia units do not appear in it, and that the original state-level records were destroyed after it was published [S16]. A Kentuckian missing from it may still be in the Register (§1) or in Virginia or federal records.
+
+  - **New Jersey and Ohio.** *Records of Officers and Men of New Jersey in Wars, 1791–1815* (Adjutant-General's Office, Trenton, 1909) and *Roster of Ohio Soldiers in the War of 1812* (Adjutant General's Office, Columbus, 1916, catalogued under Ohio militia). These two volumes and the Kentucky report are scanned on the Internet Archive [S15 @2026-11-16], [S17 @2026-11-16], [S18 @2026-11-16].
+
+  - **Virginia militia.** Search *Pay Rolls of Militia Entitled to Land Bounty under the Act of Congress of Sept. 28, 1850* and its companion *Muster Rolls of the Virginia Militia in the War of 1812*. The Library of Virginia treats them as the official record of Virginia militia service, and access to the fragile originals is restricted. It also holds militia muster rolls and payrolls left out of the printed volumes (series APA 253a), and says the federal government ultimately paid many of these men, whose service and benefit records are at the National Archives [S14 @2026-11-16]. One presenter (only transcript excerpts read) likewise sends men missing from the volumes to the National Archives [S9 @2026-11-16]. A miss in the printed volumes is not meaningful until APA 253a and the M602 index have also been searched.
+
+  - **Virginia regulars.** The Library of Virginia lists Stuart Lee Butler's *Virginia Soldiers in the United States Army, 1800–1815* among its published indexes [S14]. One presenter (only transcript excerpts read) says Butler pulled the Virginia regulars of the war out of the Register of Enlistments [S9]. Use a hit to find the man's own Register entry (§1).
+
+  - **Tennessee.** *Tennessee Soldiers in the War of 1812: Regiments of Col. Allcorn and Col. Allison* (Penelope Johnson Allen, with the National and Tennessee Societies of the U.S. Daughters of 1812, 1947) is limited by its title to those two regiments [S19]. A miss there says nothing about other Tennessee service.
 
 ## 3. Label what kind of evidence each record is
 

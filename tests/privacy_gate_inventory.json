@@ -1014,6 +1014,30 @@
   "checkpoint": "Before you upload a private family photograph to any outside service"
  },
  {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "publish",
+  "action": "write its supplier and basis in the photo's description",
+  "checkpoint": "Uploading, tagging or linking a photograph on a tree site places the image and its names on that site"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "link",
+  "action": "Tag or link a person only under a name you would enter in the attribution register",
+  "checkpoint": "Uploading, tagging or linking a photograph on a tree site places the image and its names on that site"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "contact",
+  "action": "sending relatives a site album's link to ask who is pictured",
+  "checkpoint": "Uploading, tagging or linking a photograph on a tree site places the image and its names on that site"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "contact",
+  "action": "ask also about small portraits set into lockets and brooches",
+  "checkpoint": "These questions go to relatives and heirs who may be living"
+ },
+ {
   "recipe": "familysearch-practical-record-workflows.md",
   "kind": "export",
   "action": "import the tree or the ancestral lines into a local file, then match and reconcile individual",
@@ -1186,6 +1210,30 @@
   "kind": "third-party-tool",
   "action": "verified measurements to the painting workflow in DNA Painter.",
   "checkpoint": "The measurements carry other testers' segment data."
+ },
+ {
+  "recipe": "gedmatch-practical-dna-workflows.md",
+  "kind": "upload",
+  "action": "Combine multiple kits into 1 Superkit",
+  "checkpoint": "A Superkit is a new kit of one person's genome in"
+ },
+ {
+  "recipe": "gedmatch-practical-dna-workflows.md",
+  "kind": "upload",
+  "action": "Record the GEDCOM number assigned",
+  "checkpoint": "A GEDCOM upload places a family tree"
+ },
+ {
+  "recipe": "gedmatch-practical-dna-workflows.md",
+  "kind": "link",
+  "action": "the kit linked to the tested person's place in the tree",
+  "checkpoint": "A GEDCOM upload places a family tree"
+ },
+ {
+  "recipe": "gedmatch-practical-dna-workflows.md",
+  "kind": "export",
+  "action": "Save each run's tool, GEDCOM numbers, linked kit, kit count, minimum cM and match score with the result.",
+  "checkpoint": "The MRCA result lists living matches' kit"
  },
  {
   "recipe": "geni-practical-research-workflows.md",
@@ -1446,6 +1494,12 @@
   "checkpoint": "An entry younger than those limits can name people who may be living"
  },
  {
+  "recipe": "irish-civil-registration-jurisdiction-recovery.md",
+  "kind": "request",
+  "action": "ordering its certificate",
+  "checkpoint": "A marriage still inside the 75-year release limit below can name people who may be living"
+ },
+ {
   "recipe": "italian-stato-civile-parish-record-recovery.md",
   "kind": "request",
   "action": "Ask the Army's Centro documentale for a service sheet not yet transferred",
@@ -1564,6 +1618,18 @@
   "kind": "export",
   "action": "use Advanced options → Download shared DNA info",
   "checkpoint": "A segment export lists living matches' DNA data;"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "third-party-tool",
+  "action": "When a date of birth is doubtful, get a DNA-only reading",
+  "checkpoint": "Entering another company's match measurement"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "contact",
+  "action": "ask the match in workflow 8's approved message",
+  "checkpoint": "Asking a match for their age contacts a living"
  },
  {
   "recipe": "nazi-era-ancestry-proof-records.md",
@@ -2142,6 +2208,18 @@
   "checkpoint": "Birth and death years, family positions and the research question entered in WATO Plus"
  },
  {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "third-party-tool",
+  "action": "enter every relationship the amount and the ages allow as a hypothesis",
+  "checkpoint": "WATO is an online DNA Painter tool."
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "then ask the match through the testing site's messaging",
+  "checkpoint": "Asking a half-sibling-range match about their parents discloses your parentage question"
+ },
+ {
   "recipe": "us-20th-century-military-service-reconstruction.md",
   "kind": "request",
   "action": "Request routes: NARA's online request system, eVetRecs",
@@ -2170,6 +2248,48 @@
   "kind": "request",
   "action": "Retrieve the matching order and retain its locator and extent. Compare the actual",
   "checkpoint": "The order can name other award recipients who may be living"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "For proof of death, send one of NARA's examples",
+  "checkpoint": "A personnel-file request sends the veteran's identity and, for a non-archival file, a signed authorization"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "Without the veteran's or next of kin's consent, NPRC releases only limited information",
+  "checkpoint": "A personnel-file request sends the veteran's identity and, for a non-archival file, a signed authorization"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "contact",
+  "action": "seek the authorization above for the rest",
+  "checkpoint": "Seeking the authorization for the rest of a non-archival file means asking the veteran"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "for an Army officer, also ask for his pay card",
+  "checkpoint": "Each product request concerns a veteran who may be living, and a returned pay roll can name other men of his unit"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "Name each series in the auxiliary request",
+  "checkpoint": "Each product request concerns a veteran who may be living, and a returned pay roll can name other men of his unit"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "Rosters for 1969–1974 are requested on a signed, dated SF-180 by mail or fax",
+  "checkpoint": "Morning reports and unit rosters name the men of a unit"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "request",
+  "action": "All Air Force morning reports are archival, so the same in-person or researcher route applies",
+  "checkpoint": "Morning reports and unit rosters name the men of a unit"
  },
  {
   "recipe": "us-federal-court-case-file-recovery.md",
@@ -2376,6 +2496,12 @@
   "checkpoint": "A request file can identify a requester other than the subject"
  },
  {
+  "recipe": "russian-empire-jewish-metrical-book-recovery.md",
+  "kind": "request",
+  "action": "then order the entry itself from fond 39",
+  "checkpoint": "An order names the requester and the family"
+ },
+ {
   "recipe": "russian-military-repression-record-episodes.md",
   "kind": "request",
   "action": "Send both by the email or postal route on",
@@ -2386,5 +2512,173 @@
   "kind": "publish",
   "action": "Include the record’s existing image link, locality/date, the precise reading problem",
   "checkpoint": "Before posting a document link, excerpt or question to FamilySearch Community"
+ },
+ {
+  "recipe": "dar-ancestor-record-interpretation-and-correction.md",
+  "kind": "upload",
+  "action": "cite and submit acceptable proof for the service",
+  "checkpoint": "Before an application or supplemental packet leaves the user's device"
+ },
+ {
+  "recipe": "dar-ancestor-record-interpretation-and-correction.md",
+  "kind": "contact",
+  "action": "Send documentation with a cover letter by post to the attention of the Corrections Genealogist",
+  "checkpoint": "Before the letter or email to the Corrections Genealogist goes out"
+ },
+ {
+  "recipe": "dar-ancestor-record-interpretation-and-correction.md",
+  "kind": "contact",
+  "action": "Use <rgcorrections@dar.org> for typos in the Ancestor Database",
+  "checkpoint": "Before the letter or email to the Corrections Genealogist goes out"
+ },
+ {
+  "recipe": "ftm-research-workflows.md",
+  "kind": "link",
+  "action": "Then sync.",
+  "checkpoint": "A sync also sends the FTM file's changes up to the linked Ancestry tree"
+ },
+ {
+  "recipe": "ftm-research-workflows.md",
+  "kind": "publish",
+  "action": "attach the record to the person on the FamilySearch website",
+  "checkpoint": "Attaching a record to a person on the FamilySearch website publishes"
+ },
+ {
+  "recipe": "ftm-research-workflows.md",
+  "kind": "publish",
+  "action": "Make each change on FamilySearch one person at a time",
+  "checkpoint": "A correction to FamilySearch is published to a tree"
+ },
+ {
+  "recipe": "ftm-research-workflows.md",
+  "kind": "upload",
+  "action": "treat every person in the shared tree as visible to every guest",
+  "checkpoint": "Sharing puts the tree in TreeVault and in front of every guest"
+ },
+ {
+  "recipe": "ftm-research-workflows.md",
+  "kind": "contact",
+  "action": "Add only the relatives the user names",
+  "checkpoint": "An invitation contacts a living person"
+ },
+ {
+  "recipe": "interpreting-ancestry-composition-estimates.md",
+  "kind": "upload",
+  "action": "uploading a raw DNA file to get another estimate",
+  "checkpoint": "The tester's raw DNA file, the genetic data of the tester"
+ },
+ {
+  "recipe": "interpreting-ancestry-composition-estimates.md",
+  "kind": "contact",
+  "action": "Asking a parent or relative to test or to share results, or messaging a match about this lead",
+  "checkpoint": "A message from the tester or user leaves for a living parent"
+ },
+ {
+  "recipe": "maiden-name-recovery.md",
+  "kind": "request",
+  "action": "before buying certificates",
+  "checkpoint": "A certificate order sends the child's name"
+ },
+ {
+  "recipe": "maiden-name-recovery.md",
+  "kind": "request",
+  "action": "the certificate states her condition",
+  "checkpoint": "A marriage-record order sends the couple's names"
+ },
+ {
+  "recipe": "maiden-name-recovery.md",
+  "kind": "request",
+  "action": "For a copy of the SS-5 itself",
+  "checkpoint": "An SS-5 copy request sends the applicant's name"
+ },
+ {
+  "recipe": "periodical-index-search-retrieval.md",
+  "kind": "contact",
+  "action": "- the publisher or society -",
+  "checkpoint": "sends the user's name, contact details and wanted citations outside the user's own account"
+ },
+ {
+  "recipe": "periodical-index-search-retrieval.md",
+  "kind": "contact",
+  "action": "WorldCat holdings and interlibrary loan",
+  "checkpoint": "sends the user's name, contact details and wanted citations outside the user's own account"
+ },
+ {
+  "recipe": "periodical-index-search-retrieval.md",
+  "kind": "contact",
+  "action": "Ask for the current article-order procedure and quote",
+  "checkpoint": "sends the user's name, contact details and wanted citations outside the user's own account"
+ },
+ {
+  "recipe": "periodical-index-search-retrieval.md",
+  "kind": "contact",
+  "action": "the publisher or society, at the contact details PERSI lists",
+  "checkpoint": "A copy request to the publisher or society sends the user's name"
+ },
+ {
+  "recipe": "periodical-index-search-retrieval.md",
+  "kind": "contact",
+  "action": "ask your own library for an interlibrary loan",
+  "checkpoint": "A loan request sends the user's name, library account details"
+ },
+ {
+  "recipe": "periodical-index-search-retrieval.md",
+  "kind": "contact",
+  "action": "Order from ACPL on its current article order form",
+  "checkpoint": "An article order sends the user's name and email address"
+ },
+ {
+  "recipe": "periodical-index-search-retrieval.md",
+  "kind": "contact",
+  "action": "When the citation or inspected article suggests continuation",
+  "checkpoint": "sends the user's name, contact details and wanted citations outside the user's own account"
+ },
+ {
+  "recipe": "published-book-catalogue-and-full-text-discovery.md",
+  "kind": "request",
+  "action": "The user sends any loan or copy request",
+  "checkpoint": "A loan or page-copy request sends the book's title"
+ },
+ {
+  "recipe": "published-book-catalogue-and-full-text-discovery.md",
+  "kind": "request",
+  "action": "request it through interlibrary loan",
+  "checkpoint": "An interlibrary loan sends the book's title"
+ },
+ {
+  "recipe": "scottish-high-court-precognitions-trial-papers.md",
+  "kind": "request",
+  "action": "name the records you want at least three days before the visit",
+  "checkpoint": "the case reference and the user's name and contact details"
+ },
+ {
+  "recipe": "scottish-high-court-precognitions-trial-papers.md",
+  "kind": "request",
+  "action": "order copies through the same search room",
+  "checkpoint": "the case reference and the user's name and contact details"
+ },
+ {
+  "recipe": "scottish-high-court-precognitions-trial-papers.md",
+  "kind": "request",
+  "action": "Scottish Indexes offers research packages for a reference found in its index",
+  "checkpoint": "the case reference and the user's name and contact details"
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "contact",
+  "action": "Asking a relative or family friend who attended the funeral",
+  "checkpoint": "sends the user's name and the research question"
+ },
+ {
+  "recipe": "virginia-revolutionary-public-service-claims.md",
+  "kind": "contact",
+  "action": "Ask Archives Reference Services (<archdesk@lva.virginia.gov>) to confirm the citation",
+  "checkpoint": "Steps 2 and 3 below contact LVA staff in the user's name"
+ },
+ {
+  "recipe": "virginia-revolutionary-public-service-claims.md",
+  "kind": "contact",
+  "action": "Book a Virtual Reading Room appointment",
+  "checkpoint": "Steps 2 and 3 below contact LVA staff in the user's name"
  }
 ]
