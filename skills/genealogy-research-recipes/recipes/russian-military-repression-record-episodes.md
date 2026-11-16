@@ -174,8 +174,10 @@ camp lists on Ancestry as well as in Arolsen's own online archive. Arolsen annou
 Ancestry and were free at ancestry.com/alwaysremember with no paid subscription, and that the data
 would join its own online archive by 2027. [H128 @2026-11-15] Camp clerks often wrote names by ear,
 so one man's documents can carry several spellings. [H129 @2026-11-15] Search every form, and put
-Ancestry's wildcards where German clerks varied the spelling: an asterisk matches zero or more
-characters and a question mark one. [H130 @2026-11-15] A Tula-region researcher found one soldier's
+Ancestry's wildcards where German clerks varied the spelling: a question mark stands for one
+character and an asterisk for several [H130 @2026-11-15], but Ancestry's own help pages state
+different limits, one allowing an asterisk only zero to five characters, so follow the conservative
+rules in [Ancestry record search recovery, step 8](ancestry-record-search-recovery.md#8-use-wildcards-for-a-specific-spelling-uncertainty). A Tula-region researcher found one soldier's
 Buchenwald records under two forms of the given name (Wasil, Wasilij) and seven of the surname,
 which varied as -zk-, -ck- or -tz- and as Bel- or Bjel-, and filtered by place of birth; his
 personal card in the camp file gave a village birthplace more exact than the "Tula" on his Pamyat
