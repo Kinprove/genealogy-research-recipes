@@ -54,8 +54,15 @@ The two Tanner talks give conflicting extents and family relationships for the s
 - **S43:** Центр «Прожито», [home page](https://prozhito.org/), opened 2026-11-15. Used for: the European University at St Petersburg's digital archive of personal documents from private collections, and its invitation to families to hand over copies of documents from a family archive.
 - **S44:** European University at St Petersburg, [Mikhail Melnichenko: "Every document is important, but we can't always predict for whom"](https://eusp.org/en/news/mikhail-melnichenko-every-document-is-important-but-we-cant-always-predict-for-whom), 24 April 2025, opened 2026-11-15. Used for: the project's head describing a system where an ordinary person's diary sits beside a prominent one's, with families bringing their relatives' diaries.
 
+### Additional sources checked 2026-11-16
+
+- **S45:** [NARA: Catalog search tips](https://www.archives.gov/research/catalog/help/search-tips), read 2026-11-16. Used for: Record Group Number and Collection Identifier advanced searches.
+- **S46:** [NARA: Using the National Archives Catalog](https://www.archives.gov/research/catalog/help/using), read 2026-11-16. Used for: Part of Collections/Record Groups filters and Search within this at collection, record-group and series descriptions.
+- **S47:** [NARA research](https://www.pricegen.com/7512-2/), read 2026-11-16. Used for: NARA catalogue context as a search lead; official NARA help controls identifiers and Search within this, without a universal group/decimal-series construction. The relevant article text was read at the public URL; linked interfaces were not tested.
+
 ## Credits
 
+- Community sources S47 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Kinprove original procedural synthesis drawing on community videos, forum threads and the Reclaiming Kin, From Shepherds and Shoemakers and Genealogie-Tagebuch articles cited as S1 to S33, with S34 cited for a standard's rule number — FSL-1.1-MIT (kinprove-original)
 - Anett Müller, Compgen-Blog, 120 Jahre Zentralstelle für Genealogie in Leipzig, 2024-02-16, cited as S39 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Dzen posts of the channel «Генеалогия, или Как я встретил вашу маму» cited as S40 and S41 — Copyright of their author; short paraphrase of the author's reports (adapted)

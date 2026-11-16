@@ -28,6 +28,8 @@ Use when a remembered spelling, transliteration or name dictionary fails to retr
 
 ## Build a small attestation inventory
 
+For German given names, add supported clipped forms to the query inventory. Beidler lists Klaus/Nikolaus, Stina/Christina and Trin/Katharina, illustrating loss of the opening part of a name [S49]. Try the short and full forms separately in the given-name field and log which form produced each hit [S53].
+
 Read candidate-bearing passages in the available corpus before fixing the search pattern. Retain each literal surface form, source/page, surrounding words, possible name role and confidence. For a large corpus, use bounded discovery batches; report which portions were actually examined. With only a remote search interface, seed from returned passages and existing records rather than claiming a full-corpus pass.
 
 Keep observed spellings, dictionary forms and generated possibilities in separate columns. A remembered list is a starting set, not an exhaustive inventory; corpus discovery is also not a guarantee of completeness. Review matched surface forms with context before interpreting counts. Short stems can match ordinary words, place names and unrelated surnames.
@@ -74,6 +76,8 @@ as plain Johann or Anna. A baptism that gives only 'Johannes' may belong to a ma
 John [S32]. A call-name match is a candidate, not proof that two entries are one person.
 
 ## Diagnose three different failures
+
+When a supported spelling fails in separate given-name and surname fields, run a controlled trial with those fields exchanged. Ancestry’s collection guidance explicitly recommends this diagnostic [S50]. Inspect the displayed record and image to determine where the index put each name; preserve that field placement in the search log rather than changing the person’s name to fit the index [S54].
 
 | Failure | Controlled comparison | Limitation |
 | --- | --- | --- |
@@ -221,6 +225,8 @@ supplies a retrieval tactic; co-occurrence corrects neither transcription nor ki
 Use only syntax supported by the actual field, without transferring another database's controls.
 
 ## Calibrate the actual field
+
+For a recorded surname prefix, test the joined, spaced and punctuation forms relevant to that name: IrishGenealogy lists O’Brien, O Brien and Obrien [S47]. Check whether a Dutch index files under the surname root or provides a separate prefix field; Hoitink explains the Raalte/van Raalte arrangement and discusses joined forms [S48]. Log each query and keep the literal record spelling rather than permanently stripping prefixes from the attestation inventory [S51] [S52].
 
 Before interpreting zero results, try an independently known positive that the same field and scope should retrieve. Distinguish catalogue author/title, body-text OCR, typed name fields and free text. If the control fails, investigate scope, access or field behaviour; report the failed control rather than the target's absence. A functioning website does not establish a functioning within-book index.
 

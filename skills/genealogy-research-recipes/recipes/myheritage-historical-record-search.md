@@ -240,6 +240,10 @@ a current map widget or export.
 
 ### 15. Turn an index-only hit or automated match into a retrievable lead
 
+Classify the source behind each Record Match before using it. MyHeritage identifies Geni, FamilySearch and WikiTree results as matches to other family trees [S15]. Follow their cited records and evaluate those separately; the Record Match label does not turn another user’s tree assertion into an independent historical record [S16].
+
+If expected Record Matches are not displayed, inspect **Settings**, the confidence slider and the record-type filters described by MyHeritage. Broaden one filter at a time and record what changes [S14 @2026-11-16]. Do not treat a filtered view as a search of every match, or assign an unverified numeric meaning to a slider position [S16 @2026-11-16].
+
 If no image is supplied, save the collection citation, originating institution, reference number,
 volume/page and original-source link that are actually provided. Use that locator to seek the image
 or request the record from its custodian. State explicitly when the original remains unavailable.
