@@ -342,6 +342,8 @@ that an image is unaltered.
 
 ## The pitfalls worth internalizing (the least-obvious, most-LLM-usable part)
 
+For Russian Orthodox metrical books, use the [Reading the page checklist](russian-orthodox-metrical-book-recovery.md#reading-the-page) alongside these checks.
+
 - **Chained tools propagate a single misread** — transcribe→translate→summarize means one bad transcription poisons every downstream output. (Family Locket)
 - **Names, dates, and numbers are the high-error zone** — models transcribe narrative well but substitute a familiar name seen earlier; "November"→"December," "township 18"→"182." Domain knowledge (a plat can't be township 182) is what exposes them. (Genealogy Gems; James Tanner)
 - **Scribal conventions can create false names.** Clerks broke words at the end of a line with no hyphen and not at a syllable break, so 'Chris' at a line end and 'tian' on the next line can be one name. In the cited Spanish examples, abbreviation marks support candidate expansions ('Franco' with an overline as Francisco, superscript 'Ant' and 'M' as Antonio and María); verify an expansion against the writer's usage or a period reading key. Before recording an odd fragment or surname as a new variant, test whether it joins the next line and whether each piece makes sense alone. Check the image for overlines and superscripts. Keep the line breaks and the abbreviated form, and add the joined reading or expansion as a note. Sometimes the pieces really are two words, and the sources give no fixed rule or complete list. ([Brady](https://www.youtube.com/watch?v=OU2cYqgN-lw), [Italian records](https://www.youtube.com/watch?v=UC1J5HuNYns), [Badal](https://www.youtube.com/watch?v=eb6YqIJ3aK4))
