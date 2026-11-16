@@ -7,7 +7,7 @@ scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
 guardrails: [{"id": "PUBLISHED-BOOK-CATALOGUE-AND-FULL-TEXT-DISCOVERY-01", "text": "A miss is only a miss for that tool, query and range. It never establishes that the book doesn't exist or isn't held."}]
-handoff: []
+handoff: ["hebrewbooks-search-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
@@ -23,7 +23,7 @@ This recipe covers the cross-platform discovery of a book. Some steps overlap wi
 - Ancestry catalogue-versus-content searches and carrying a locator off Ancestry: [Ancestry search recovery §3 and §12](ancestry-record-search-recovery.md)
 - Opening and citing FamilySearch digital books: [FamilySearch workflows §2](familysearch-practical-record-workflows.md)
 - MyHeritage name-index versus full-text routes: [MyHeritage record search §10](myheritage-historical-record-search.md)
-- Hebrew-language book platforms: [HebrewBooks recovery](hebrewbooks-search-recovery.md)
+- Hebrew-language book platforms: [HebrewBooks recovery](hebrewbooks-search-recovery.md), including [bound parts and per-part dates](hebrewbooks-search-recovery.md#bound-parts-and-date-evidence)
 - Deciding whether a mention identifies your person: [evidence/proof judgment](evidence-proof-judgment.md)
 
 ## Contents
@@ -106,6 +106,13 @@ In the presenter's Vermont example, a single Vermont-history hit led him to the 
 Record each range you browsed and the volumes you actually opened.
 
 ## 4. Search the full text inside candidate books
+
+**Map bound parts before recording a passage as absent.** For a HebrewBooks scan, use the
+[bound-part and date check](hebrewbooks-search-recovery.md#bound-parts-and-date-evidence):
+list each part's title-page viewer page, record the inspected spans and keep the printed
+locator, viewer page, part and its dating evidence separately. An opening-page search
+does not cover a later part; do not carry the outer title-page year into that part's citation
+without evidence that it applies there.
 
 **Within digitised county histories and compiled genealogies, run full-text searches for the surname.** Don't rely on the title, the table of contents or the printed index. The presenter found that many county-history indexes list only the main subject of each biographical sketch [S8].
 
