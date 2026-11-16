@@ -82,6 +82,8 @@ Each section below blocks one of these mistakes.
 
 - **A free woman heading an 1850 or 1860 household.** When a free woman of color heads a household with a growing number of children and no husband listed, keep an enslaved husband as one hypothesis. The FamilyTreeDNA guide reports that marriages between free and enslaved people, not uncommon in the Upper South, could not be formalized, and that the free-born children of an enslaved father carried their free mother's maiden name [S59]. Enslaved people could not legally marry [S64], and a child's status followed the mother's: Virginia's 1662 act held children "bond or free only according to the condition of the mother" [S63]. Search the children under the mother's surname as well as under any surname a father used. Widowhood, separation and an unmarried mother fit the same household, so keep the enslaved-husband reading open until a record names him. The same guide reports that such couples often registered in the 1866 cohabitation registers described in §2 [S59].
 
+Search period vocabulary as well as modern subject terms. In North Carolina material, the UNC Greensboro exhibit identifies terms such as absconding, truancy, eloping and running away. Combine the terms actually used by the local records with place and date; do not expect a contemporary heading to use a modern research label. [S73], [S74]
+
 ## 2. Look for a document that names the enslaver
 
 Look for a record that names the enslaver before you guess one from a surname.
@@ -115,6 +117,10 @@ Look for a record that names the enslaver before you guess one from a surname.
 - **Crop liens and chattel mortgages.** After 1865, search the county's recorded crop liens, chattel mortgages and trust deeds for a freedman who farmed as a sharecropper or tenant. A lien can place him on a named landlord's farm in a given year [S71]. In Tennessee, look in books titled Deeds of Trust or Trust Deeds; elsewhere the books are often titled Crop Liens [S71]. The FamilyTreeDNA guide reports that farmers who signed one lien together shared the risk and were typically a parent and an adult son or son-in-law, or siblings and brothers-in-law [S59]. Record a co-signer as a candidate relative until a record states the relationship.
 
   The same guide reports that most of FamilySearch's crop liens and chattel mortgages are not indexed but can be reached through Full Text Search [S59 @2026-11-12].
+
+A flight advertisement records an enslaver seeking someone; it does not establish where that person went. Include southern towns, wilderness refuges and Native communities among routes to test rather than assuming every escape went north. Surviving reports often reflect discovery or suppression, so an undiscovered refuge can leave little official documentation; preserve the destination as unknown unless evidence identifies it. [S75], [S76], [S77]
+
+For Confederate forced labour, inspect the RG 109 Confederate Quartermaster and Corps of Engineer payrolls through the National Archives catalogue and its available indexes. Extract the labourer, enslaver, occupation, work period and payee as separate roles. NARA describes postwar arrangement and indexing, so do not label the entire series unindexed or mistake a later compilation date for the labour date. Some payrolls include free Black or white employees; determine each person’s status from the entry rather than the series title. [S78], [S79]
 
 ## 3. Generate and eliminate candidate enslavers
 
@@ -177,6 +183,10 @@ Rules for reading the register:
 - **Bequests of a woman's increase.** Read "her increase" or "all her issue" in a will as a gift of the enslaved woman's children, not as boilerplate: usually those born later, and those already born too when the clause says so. Record the clause as an explicit grouping of the woman and the children it covers, still unnamed, and look for those children in the legatee's later records. Read every bequest clause in full: wills can name enslaved people in the same sentence as bedding, silverware and livestock, and use the livestock term "increase" for enslaved women's children (sale advertisements also use "breeding") [S37].
 
 - **Age words and values.** Use descriptors and appraised values to bracket an age, not to fix one. "Old" and "young", like "big" and "little", may only tell apart two people with the same name, and do not show that they were related [S59], [S69]. Read "boy" and "girl" by that appraiser's own usage, not as children under ten: one 1843 Maryland appraiser counted "boys" as 17 and under [S69]. Prices were highest for healthy young adult men, then for women of childbearing age, and low for young children and for old or infirm people [S70], [S69]. A low value can therefore mean a child or an old person, so compare values only within one document and beside their descriptors.
+
+Keep an honorific separate from a relationship. The Natchez Trace history describes aunt and uncle as respectful forms of address for older Black people. A person called Uncle in a narrative is therefore a candidate relative only when other evidence supplies the kinship; copy the wording without manufacturing a parent-sibling connection. [S80], [S81]
+
+For North Carolina emancipation research, search county court records and the State Archives’ Records of Enslaved People collection, PC.1629, alongside Quaker meeting papers. Read the collection guide’s provenance notes: it combines originals and copies, and some selected copies have uncertain provenance. Identify the actual document and originating county or collection before treating a finding-aid entry as a complete county search. [S82], [S83]
 
 ## 6. Check segregated series before calling a search negative
 
