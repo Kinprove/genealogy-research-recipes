@@ -29,6 +29,27 @@
 
 The roll-selection table, the order of steps and the finding row are authored synthesis. The sources supply the rules, dates, counts and examples.
 
+### Additional sources checked 2026-11-16
+
+- **S27:** the-family-history-guide-blog, [Access – The Real Genealogical Challenge](https://www.thefhguide.com/blog/access-the-real-genealogical-challenge/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S28:** National Archives, [Bureau of Indian Affairs Records: Arizona](https://www.archives.gov/research/native-americans/bia-guide/arizona). Passage read 2026-11-16. Used for: State guide listing agencies, their jurisdictions and National Archives holding routes.
+
+- **S29:** Price Genealogy, [Native American Research: Dawes Rolls, Membership, and the CDIB](https://www.pricegen.com/native-american-research-dawes-rolls-membership-and-the-cdib/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S30:** Cherokee Nation, Tribal Registration, [Application for Citizenship and CDIB: current packet](https://www.cherokee.gov/media/zarpeuyz/updated-application-6192026.pdf). Passage read 2026-11-16. Used for: Checked 2026-11-16: certified final adoption decree and state-certified full-image birth certificate after adoption; petition required if the decree omits birth parents. This is a document checklist, not an eligibility decision.
+
+- **S31:** Bureau of Indian Affairs, [Tracing American Indian and Alaska Native Ancestry](https://www.bia.gov/guide/tracing-american-indian-and-alaska-native-aian-ancestry). Passage read 2026-11-16. Used for: CDIB depends on documented descent from an ancestor on an official roll; DNA testing does not document tribal descent.
+
+- **S32:** Cherokee Nation, Tribal Registration, [Frequently Asked Questions](https://www.cherokee.gov/departments/tribal-registration/frequently-asked-questions/). Passage read 2026-11-16. Used for: Blood degree on CDIB calculated from documentary roll ancestry, distinct from a genetic ancestry estimate and citizenship rules.
+
+- **S33:** Price Genealogy, [Alaska](https://www.pricegen.com/alaska/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S34:** National Archives, [Records of the Bureau of Indian Affairs, RG 75, section 75.11](https://www.archives.gov/research/guide-fed-records/groups/075.html). Passage read 2026-11-16. Used for: Alaska Division of the Office of Education transferred to the BIA by Secretary’s Order 494 of 14 March 1931; a creator-history boundary, not a current custody assertion.
+
+- **S35:** FamilySearch, [Alaska, Village Census Rolls, 1912–1978](https://www.familysearch.org/en/search/collection/4465440). Passage read 2026-11-16. Used for: Official collection-page metadata opened by the independent availability check on 2026-11-16: BIA Alaska Native census material supplied by Sealaska Heritage Institute Archives. The title’s 1912–1978 and description’s 1919–1972 spans conflict; no record images or complete coverage inspected.
+
 ## Credits
 
 - Kinprove original procedural synthesis drawing on Ancestry videos, BlackProGen LIVE episodes by Nicka Smith, Legacy Tree Genealogists, a 2013 text by Johni Cerny reposted by Price Genealogy, posts by Roberta Estes, Family Locket podcast posts, a Genealogy Gems video, a National Archives video and a Vita Brevis post by Mary Stevens Hunt (S1 to S13); rolls, eligibility rules, custody and counts checked against National Archives, Bureau of Indian Affairs, Cherokee Nation, Eastern Band of Cherokee Indians, United Keetoowah Band and Choctaw Nation pages and one secondary site (S14 to S24) — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)

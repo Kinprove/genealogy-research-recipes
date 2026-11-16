@@ -89,6 +89,30 @@ The Freedman's Bank, Last Seen and Enslaved.org entries rest on the custodians' 
 
 **Not verified independently:** that the free-born children of enslaved fathers carried their free mother's maiden name, the usual kinship of joint crop-lien signers, and the indexing of FamilySearch's crop liens (S59 only); same-day cohabitation registrations as a kinship clue (S60 only); the Washington County place-of-death pattern and the incomplete registration of enslaved people's deaths (S62 only); and the Kee case papers themselves.
 
+### Additional sources checked 2026-11-16
+
+- **S73:** Genealogy Just Ask, [This Time, I Look West of Anson County, North Carolina](https://genealogyjustask.substack.com/p/this-time-i-look-west-of-anson-county). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S74:** UNC Greensboro University Libraries, [No Longer Property: Absconding](https://uncglibraries.com/nolonger/aspects-of-slavery-and-freedom-seeking-in-north-carolina/absconding). Passage read 2026-11-16. Used for: Period vocabulary including truancy, absconding, eloping and running away.
+
+- **S75:** Genealogy Just Ask, [They Did Not All Go North: Maroon Communities and the Many Roads to Freedom](https://genealogyjustask.substack.com/p/they-did-not-all-go-north-maroon). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S76:** Genealogy Just Ask, [Could a Maroon Settlement Have Been Just Above Anson County?](https://genealogyjustask.substack.com/p/could-a-maroon-settlement-have-been). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S77:** Damian Alan Pargas, National Park Service / Dickinson College, [Southern Maroon Communities](https://housedivided.dickinson.edu/sites/ugrr/regional-essays/southern-maroon-communities-pargas/). Passage read 2026-11-16. Used for: Refuge in southern cities, wilderness and Native communities; discovery and suppression shape surviving evidence.
+
+- **S78:** Price Genealogy, [Enslaved Persons in the Civil War](https://www.pricegen.com/enslaved-persons-in-the-civil-war/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S79:** National Archives, [Confederate Slave Payrolls Digitized](https://www.archives.gov/news/articles/confederate-slave-payrolls-digitized). Passage read 2026-11-16. Used for: RG 109 payroll fields, postwar arrangement and indexing, and the presence of some free Black and white employees as well as enslaved labourers.
+
+- **S80:** Genealogy Just Ask, [The Cotton Bale Escape to Mexico: Reconstructing the Journey of John Burdette, Paul, Andy, and Joe](https://genealogyjustask.substack.com/p/the-cotton-bale-escape-to-mexico). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S81:** National Park Service, Natchez Trace Parkway, [The Culture of Slavery on the Old Trace](https://home.nps.gov/natr/learn/historyculture/the-culture-of-slavery-on-the-old-trace.htm). Passage read 2026-11-16. Used for: Aunt and uncle used as terms of respect for older Black people, without necessarily indicating a family relationship.
+
+- **S82:** Genealogy Just Ask, [Week 2: Quaker Records as Your Research Roadmap](https://genealogyjustask.substack.com/p/week-2-quaker-records-as-your-research). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S83:** State Archives of North Carolina, [Records of Enslaved People, PC.1629](https://appx.archives.ncdcr.gov/findingaids/PC_1629_Records_of_Enslaved_Peo_.html). Passage read 2026-11-16. Used for: Original and copied records concerning enslavement and emancipation; the guide identifies provenance limits for some selected copies.
+
 ## Credits
 
 - Judy G. Russell, The Legal Genealogist blog, posts cited as S49 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
@@ -114,3 +138,4 @@ The Freedman's Bank, Last Seen and Enslaved.org entries rest on the custodians' 
 - Reclaiming Kin / Robyn, Examining Slaves in Inventories, 2019-06-15, and Finding Sharecroppers in Deeds, 2018-12-18, cited as S69 and S71 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
 - Encyclopedia Virginia, text of the 1662 Virginia act, and U.S. Census Bureau, 1870 and 1880 enumerator instructions, cited as S63, S66 and S67 — Short quotation of historical statute and form wording, attributed (quoted)
 - Kinprove original procedural synthesis drawing on community videos cited as S1-S25 and blog posts cited as S26-S38; custodian and project facts from S39-S48, paraphrased — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
