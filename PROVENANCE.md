@@ -182,7 +182,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `nazi-era-ancestry-proof-records#C-7403f69fff09` | custody | 2026-11-13 | 2027-05-12 | S1 |
 | `newspapers-com-search-recovery#C-8fa0c08c332b` | portal-availability | 2026-11-12 | 2027-02-10 | H15, H11, S10 |
 | `newspapers-com-search-recovery#C-f466ec6ea591` | platform-ui | 2026-11-14 | 2027-05-13 | H9, S65 |
-| `orthodox-clergy-record-recovery#C-184c1388c22d` | portal-availability | 2026-11-16 | 2027-02-14 | S34, S35 |
+| `orthodox-clergy-record-recovery#C-2704b774fe4b` | portal-availability | 2026-11-16 | 2027-02-14 | S34, S35 |
 | `periodical-index-search-retrieval#C-ada4fe89352d` | portal-availability | 2026-11-15 | 2027-02-13 | S21, S22, S23, S24 |
 | `periodical-index-search-retrieval#C-b2f2e249b9b2` | custody | 2026-11-15 | 2027-05-14 | S25, S26 |
 | `portuguese-parish-civil-register-recovery#C-866ab6daf659` | portal-availability | 2026-11-08 | 2027-02-06 | S7, S8, S2, S1, S16, S18, S3, S22, S11, S23 |
