@@ -33,11 +33,12 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `archival-image-coverage-verification#C-3422a9946fec` | platform-ui | 2026-11-12 | 2027-05-11 | S49, S50 |
 | `archival-image-coverage-verification#C-56c409761a0b` | portal-availability | 2026-11-13 | 2027-02-11 | S51, S52 |
 | `archival-image-coverage-verification#C-14c532b7b32c` | platform-ui | 2026-11-15 | 2027-05-14 | S55 |
+| `australia-nz-record-routing#C-568cba37e391` | custody | 2026-11-16 | 2027-05-15 | S14, S25, S26 |
 | `australia-nz-record-routing#C-4394a70b15e8` | portal-availability | 2026-11-12 | 2027-02-10 | S27, S29, S28 |
 | `australia-nz-record-routing#C-e194b484fd72` | platform-ui | 2026-11-12 | 2027-05-11 | S31 |
 | `australia-nz-record-routing#C-2bed174b9706` | custody | 2026-11-12 | 2027-05-11 | S30 |
 | `australia-nz-record-routing#C-8a104d1324b7` | custody | 2026-11-13 | 2027-05-12 | S1 |
-| `australia-nz-record-routing#C-fec213c3d851` | custody | 2026-11-13 | 2027-05-12 | S32 |
+| `australia-nz-record-routing#C-fec213c3d851` | custody | 2026-11-16 | 2027-05-15 | S32 |
 | `austrian-confessional-register-routing#C-e005c91a2180` | custody | 2026-11-13 | 2027-05-12 | S37 |
 | `austrian-confessional-register-routing#C-221fdef02fd0` | portal-availability | 2026-11-09 | 2027-02-07 | S25 |
 | `austrian-confessional-register-routing#C-b47a4e1f949d` | portal-availability | 2026-11-09 | 2027-02-07 | S26 |
@@ -315,7 +316,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [ancestry-dna-match-investigation](provenance/ancestry-dna-match-investigation.yml) | 55 | 22 | 22 | — |
 | [ancestry-record-search-recovery](provenance/ancestry-record-search-recovery.yml) | 36 | 29 | 29 | — |
 | [archival-image-coverage-verification](provenance/archival-image-coverage-verification.yml) | 46 | 33 | 20 | — |
-| [australia-nz-record-routing](provenance/australia-nz-record-routing.yml) | 25 | 11 | 0 | — |
+| [australia-nz-record-routing](provenance/australia-nz-record-routing.yml) | 22 | 10 | 0 | — |
 | [austrian-confessional-register-routing](provenance/austrian-confessional-register-routing.yml) | 19 | 6 | 0 | — |
 | [beider-given-name-variants](provenance/beider-given-name-variants.yml) | 3 | 1 | 1 | — |
 | [bessarabia-moldova-record-routing](provenance/bessarabia-moldova-record-routing.yml) | 18 | 7 | 0 | — |
