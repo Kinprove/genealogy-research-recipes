@@ -40,8 +40,8 @@ def inspection():
     }
 
 
-def run_inspection_step(workflow, data):
-    step = workflow.split("      - name: Verify the public version and report registry provenance\n", 1)[1]
+def run_workflow_step(workflow, step_name, data, cli_exit=0):
+    step = workflow.split(f"      - name: {step_name}\n", 1)[1].split("\n      - ", 1)[0]
     command = textwrap.dedent(step.split("        run: |\n", 1)[1])
     with tempfile.TemporaryDirectory() as directory:
         root = Path(directory)
@@ -50,13 +50,14 @@ def run_inspection_step(workflow, data):
         (root / "package.json").write_text(json.dumps({"name": "@kinprove/genealogy-research-recipes", "version": "9.8.7"}))
         cli = root / "ci-tools/node_modules/.bin/clawhub"
         cli.parent.mkdir(parents=True)
-        cli.write_text(f"#!{sys.executable}\nprint({json.dumps(data)!r})\n")
+        cli.write_text(f"#!{sys.executable}\nimport sys\nprint({json.dumps(data)!r})\nsys.exit({cli_exit})\n")
         cli.chmod(0o755)
         # setup-python supplies this command on the runner; macOS may only have python3.
         cli.with_name("python").symlink_to(sys.executable)
         return subprocess.run(
             ["bash", "-e", "-c", command], cwd=root, capture_output=True, text=True, check=False,
             env={**os.environ, "GITHUB_REF": "refs/tags/v9.8.7", "GITHUB_SHA": SHA,
+                 "GITHUB_REF_NAME": "v9.8.7", "GITHUB_REPOSITORY": "Kinprove/genealogy-research-recipes",
                  "PATH": str(cli.parent) + os.pathsep + os.environ["PATH"],
                  "VERSION": "9.8.7", "PACKAGE_NAME": "@kinprove/genealogy-research-recipes",
                  "RUNNER_TEMP": str(root), "GITHUB_STEP_SUMMARY": str(root / "summary.md")},
@@ -139,14 +140,30 @@ class ClawHubReleaseTests(unittest.TestCase):
 
     def test_public_inspection_failure_reaches_the_job(self):
         workflow = (ROOT / ".github/workflows/clawhub-publish.yml").read_text(encoding="utf-8")
-        valid = run_inspection_step(workflow, inspection())
+        step_name = "Verify the public version and report registry provenance"
+        valid = run_workflow_step(workflow, step_name, inspection())
         self.assertEqual(valid.returncode, 0, valid.stderr)
         self.assertIn("Registry hasProvenance: false", valid.stdout)
         wrong_source = inspection()
         wrong_source["version"]["verification"]["sourceCommit"] = "b" * 40
-        invalid = run_inspection_step(workflow, wrong_source)
+        invalid = run_workflow_step(workflow, step_name, wrong_source)
         self.assertNotEqual(invalid.returncode, 0, "The workflow hid the verifier failure behind tee")
         self.assertIn("inspect.version.verification.sourceCommit", invalid.stderr)
+
+    def test_publish_response_is_logged_without_hiding_failures(self):
+        workflow = (ROOT / ".github/workflows/clawhub-publish.yml").read_text(encoding="utf-8")
+        step_name = "Publish through GitHub OIDC and wait for definitive publication"
+        published = {**preview(), "status": "published", "publicationStatus": "published", "attemptId": "attempt-test"}
+        valid = run_workflow_step(workflow, step_name, published)
+        self.assertEqual(valid.returncode, 0, valid.stderr)
+        self.assertIn('"attemptId": "attempt-test"', valid.stdout)
+        invalid = run_workflow_step(workflow, step_name, {**published, "commit": "b" * 40})
+        self.assertEqual(invalid.returncode, 2, invalid.stderr)
+        self.assertIn("publish.commit", invalid.stderr)
+        self.assertIn('"attemptId": "attempt-test"', invalid.stdout)
+        uncertain = run_workflow_step(workflow, step_name, {"attemptId": "attempt-test"}, cli_exit=23)
+        self.assertEqual(uncertain.returncode, 23, uncertain.stderr)
+        self.assertIn('"attemptId": "attempt-test"', uncertain.stdout)
 
 
 if __name__ == "__main__":

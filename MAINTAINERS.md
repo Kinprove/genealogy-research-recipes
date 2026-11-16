@@ -262,7 +262,9 @@ commit. The job summary reports the registry's actual `hasProvenance` value
 separately. Do not announce availability based only on submission or preview.
 
 If the live job fails or its publication wait times out, retain the attempt ID
-from the run's log and inspect the exact public version before retrying:
+from the run's log and inspect the exact public version before retrying. The
+publish step logs any JSON response on exit, including after a verification
+failure, while preserving its original exit status:
 
 ```sh
 ci-tools/node_modules/.bin/clawhub package inspect @kinprove/genealogy-research-recipes --version X.Y.Z --json

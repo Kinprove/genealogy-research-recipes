@@ -56,6 +56,9 @@ jobs:
       - name: Publish through GitHub OIDC and wait for definitive publication
         if: ${{ !inputs.dry_run }}
         run: |
+          set -euo pipefail
+          # Keep non-secret attempt/release metadata even when publishing or verification fails.
+          trap 'publish_status=$?; if [ -f "$RUNNER_TEMP/clawhub-publish.json" ]; then cat "$RUNNER_TEMP/clawhub-publish.json" || true; fi; exit "$publish_status"' EXIT
           ci-tools/node_modules/.bin/clawhub package publish . --family code-plugin --owner kinprove --source-repo "$GITHUB_REPOSITORY" --source-commit "$GITHUB_SHA" --source-ref "$GITHUB_REF_NAME" --wait --wait-timeout 1200 --json > "$RUNNER_TEMP/clawhub-publish.json"
           python -B scripts/check_clawhub_release.py published "$RUNNER_TEMP/clawhub-publish.json"
       - name: Verify the public version and report registry provenance
