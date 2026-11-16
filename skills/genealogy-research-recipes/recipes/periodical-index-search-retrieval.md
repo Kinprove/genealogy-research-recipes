@@ -90,6 +90,10 @@ For Russian newspapers and provincial gazettes, look for a full-text search of t
 
 A provincial gazette (губернские ведомости) can name individuals. A Tula genealogist lists printed lists of conscripts, voters and candidates for elected posts, and notices of property sales, awards and incidents, in «Тульские губернские ведомости»; a newspaper run one reader needed at the Tula Regional Scientific Library was not digitised and took staff time to find on paper [S25 @2026-11-15]. The library holds the gazette, which ran until 12 April 1917, in print and on microfilm [S26 @2026-11-15]. Check which years of a gazette are digitised before searching, and plan a microfilm or paper search of the library's run for the rest.
 
+Two library finding aids show which Russian newspapers are digitised and where. The Presidential Library's collection «Отечественная периодика в фонде Президентской библиотеки» (prlib.ru/collections/684567) listed 190 newspaper and 223 journal titles on 2026-11-16, from imperial runs such as «Правительственный вестник» (1869–1917) to Soviet ones, most of them in full text [S27 @2026-11-16]. The National Library of Russia's guide «Газеты в сети и вне её» lists digital copies of newspapers by title and by place of publication, has chronological, geographical and language sections, and points to printed newspaper bibliographies and the largest newspaper holdings for titles that are not online [S28 @2026-11-16].
+
+A family historian who recommends both reports that digitisation is slow and that a catalogue often says an issue can be read only in the reading room [S29]. Record such an issue as held but unread, not as lost, and note the reading room that holds it.
+
 ## Report bounded results
 
 - **No hits:** report a no-hit as no match in the named index and the sections or fields you actually searched (for example "no PERSI title/author/assigned-subject match" or "no entry in the Familiengeschichtliche Quellen surname index"). Give the index's depth, the periodical years it covers and the queries you ran. It does not mean no article mentions the person.
