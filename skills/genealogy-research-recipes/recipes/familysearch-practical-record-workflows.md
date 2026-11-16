@@ -139,8 +139,9 @@ Treat the coverage ledger as an inventory of FamilySearch's holdings, not of the
 for the place. FamilySearch describes the Catalog as a guide to the records and resources it has
 collected, covering materials available in its libraries and centers, physically or as online
 digital files [S100 @2026-11-16], [S101 @2026-11-16]. Enter every series and custodian found in workflow 1.
-Mark a series the Catalog does not list as not held by FamilySearch and look for it in the
-custodian's own catalogue; never log it as nonexistent or as searched. A
+Mark a series the Catalog does not list as not catalogued, not as not held: an image group can
+reach Images before the Catalog, so search Images for it first (workflow 2, step 5), then look for
+it in the custodian's own catalogue; never log it as nonexistent or as searched. A
 [Just Genealogy talk](https://www.youtube.com/watch?v=H4SDdOicYjQ) builds a locality guide from this
 search, according to a community reader's extracted quotations; only its title and channel were
 rechecked, and its claim that the outline lists everything known to exist is narrowed here to

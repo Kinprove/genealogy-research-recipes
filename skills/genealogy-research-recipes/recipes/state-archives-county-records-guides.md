@@ -62,7 +62,7 @@ Let the format the guide gives choose the first route, then check whether that f
 
 ## 5. Record a missing series as unlocated
 
-When no guide lists a series or the years you need, record "not held by [archives], per [guide, date]", not "lost". Then add the county's own offices to the plan: many Virginia county records remain in the locality [S2 @2026-11-16], and for a record the Pennsylvania State Archives lacks, it sends researchers to the county courthouse, county archives or municipal office [S13 @2026-11-16]. Add the parent county for years before the formation date (§2).
+When no guide lists a series or the years you need, record "not listed in [guide, date]", not "not held" or "lost": a guide can cover only part of the holdings, as Pennsylvania's lists only digitized records. Record the archives as not holding the series only after its general catalogue or its staff confirm it. Then add the county's own offices to the plan: many Virginia county records remain in the locality [S2 @2026-11-16], and for a record the Pennsylvania State Archives lacks, it sends researchers to the county courthouse, county archives or municipal office [S13 @2026-11-16]. Add the parent county for years before the formation date (§2).
 
 ## Return packet
 
