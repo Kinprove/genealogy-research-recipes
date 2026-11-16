@@ -1362,6 +1362,12 @@
   "checkpoint": "An evacuation card can describe a person who"
  },
  {
+  "recipe": "holocaust-testimony-source-interpretation.md",
+  "kind": "request",
+  "action": "Send a written, dated and signed request on its form",
+  "checkpoint": "An evacuation card can describe a person who"
+ },
+ {
   "recipe": "illegitimacy-record-recovery.md",
   "kind": "request",
   "action": "then seek the marriage entry and any legitimation, acknowledgment or amended birth record.",
@@ -1858,6 +1864,120 @@
   "kind": "request",
   "action": "State how each household member is related to you and offer copies of the kinship documents.",
   "checkpoint": "Household-book entries list every household member and their age, and some may still be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Ask for each of those lines by name in a form No. 12 application.",
+  "checkpoint": "A ZAGS search or repeat-document request can concern acts naming people who may still be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Build the chain of step 5 before you apply.",
+  "checkpoint": "A ZAGS search or repeat-document request can concern acts naming people who may still be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Ask which body holds the earlier books before you treat the years as lost.",
+  "checkpoint": "A ZAGS search or repeat-document request can concern acts naming people who may still be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "search for a registration after July 1944 and read its cohabitation date",
+  "checkpoint": "A ZAGS search or repeat-document request can concern acts naming people who may still be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Request the record with that number and date;",
+  "checkpoint": "A marriage record found through a labour book names both spouses, who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Ask the archive of the place where the member joined the party, not only of the home region.",
+  "checkpoint": "A party card names the member and relatives, some of whom may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "ask for his entry in the alphabetical book of those called up",
+  "checkpoint": "Military personal files list the nearest relatives, who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Send it by post with the kinship chain of step 5",
+  "checkpoint": "Military personal files list the nearest relatives, who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "takes orders for a copy of an extract, sent by post",
+  "checkpoint": "Award papers name the awardee and, for maternal awards, the children, who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "To confirm a civil award, ask GARF as well as the regional archive.",
+  "checkpoint": "Award papers name the awardee and, for maternal awards, the children, who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Use the date to ask ZAGS again",
+  "checkpoint": "Household-book entries list every household member and their age, and some may still be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Request the whole run for the settlement, not one book.",
+  "checkpoint": "Household-book entries list every household member and their age, and some may still be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "For a city flat, ask for the apartment card (поквартирная карточка).",
+  "checkpoint": "An apartment card lists everyone registered in a flat, some of whom may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "If the archive service has no card, ask the МФЦ or the passport office.",
+  "checkpoint": "An apartment card lists everyone registered in a flat, some of whom may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Russia: request a dead pensioner's pension file (пенсионное дело) from the Social Fund.",
+  "checkpoint": "A pension file holds the pensioner's family documents, which name a spouse and children who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "ask the branch of the previous residence when the first reply is negative",
+  "checkpoint": "A pension file holds the pensioner's family documents, which name a spouse and children who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Order the file even when the labour book survives",
+  "checkpoint": "A pension file holds the pensioner's family documents, which name a spouse and children who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "Ask for an older file anyway",
+  "checkpoint": "A pension file holds the pensioner's family documents, which name a spouse and children who may be living"
+ },
+ {
+  "recipe": "soviet-personal-file-recovery.md",
+  "kind": "request",
+  "action": "request them all in one application",
+  "checkpoint": "Requests for personal-file copies, archival certificates or kinship-proof certificates can concern people who may be living"
  },
  {
   "recipe": "spanish-civil-parish-record-routing.md",

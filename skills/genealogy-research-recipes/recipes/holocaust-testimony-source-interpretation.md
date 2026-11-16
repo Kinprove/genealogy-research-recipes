@@ -140,6 +140,16 @@ children of repressed parents and children's-home pupils. [H22] A 2024 Dzen guid
 children under 16 were often written onto one parent's card. [H23] So no card in the child's own
 name is not evidence that the child was not evacuated.
 
+The centre's own page sets the current request conditions. Send a written, dated and signed request
+on its form (анкета) with the person's full name, mother's given name, date and place of birth, and the last known place and time
+of contact. The regional Red Cross branch gives out the form and helps fill it in; the applicant then
+writes to ЦРИ РКК directly. The centre answers evacuee and children's-file questions from its own
+archive only. For forced labour or camps in Germany it checks its card file on displaced persons and
+then writes to the Arolsen Archives. [H24] In 2020 the centre's head put that file at roughly 800,000
+to 900,000 people taken to Germany, and said requests are accepted in person, electronically or by
+post. [H25] A 2020 Dzen guide on searching for evacuees gives the same order, the branch first and then the
+centre, and says the card files cannot be searched online. [H26]
+
 For a compilation covering several regions or source lists, keep the region and source-list
 reference with each row/family counter. Identical counters across lists do not join households.
 Preserve original entries, compiler corrections and oral accounts as separate attributed

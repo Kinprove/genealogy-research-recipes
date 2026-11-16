@@ -47,6 +47,11 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - **S29:** AKF, [Königsberger Studenten von 1829 bis 1921](https://www.forschungen-engi.ch/datenbanken/koenigsberger-studenten-von-1829-bis-1921), read 2026-11-12. Used for: 24,822 records and the search by name, given name, place of origin, semester and faculty or subject.
 - **S30:** Günter Junkers, CompGen Blog, [Datenbanken zu Königsberger Studenten und Dissertationen](https://www.compgen.de/2023/09/datenbanken-zu-koenigsberger-studenten-und-dissertationen/), published 2023-09-25, read 2026-11-12. Used for: the three databases described as freely accessible and the illustrated 1710 Danzig dissertation of a student from Belgard, Pomerania.
 
+### Sources added 2026-11-16
+
+- **S31:** Инструкция о порядке ведения трудовых книжек на предприятиях, в учреждениях и организациях (Постановление Госкомтруда СССР от 20.06.1974 № 162), [ЮИС Легалакт](https://legalacts.ru/doc/instruktsija-o-porjadke-vedenija-trudovykh-knizhek-na/), read 2026-11-16. Used for: п. 2.10, education entered on the title page only from documents, and п. 2.17, periods of study at higher and secondary specialised schools entered with a reference to the supporting document.
+- **S32:** Dzen channel «История одной семьи. Юлия Новожилова», [«В каких документах искать основные сведения о родственнике?»](https://dzen.ru/a/XqHg1J7O_RH4y1M1), published 2020-04-23, read 2026-11-15 from a captured copy, without its images. Used for: study recorded in the labour book because it counted toward length of service.
+
 ## Credits
 
 - Günter Junkers, CompGen Blog, Datenbanken zu Königsberger Studenten und Dissertationen, 2023-09-25, cited as S30 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
@@ -73,3 +78,4 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - J-Roots Forum, thread on Warsaw higher and professional schools — Forum terms of use; folder identifiers cited as references (adapted)
 - J-Roots Forum, thread on schools of the Moscow educational district — Forum terms of use; paraphrased with attribution (adapted)
 - Kinprove original procedural synthesis drawing on the forum threads cited as S1–S21 and the CompGen blog post S22, with facts checked against S23–S25 — FSL-1.1-MIT (kinprove-original)
+- Post on the Dzen channel «История одной семьи. Юлия Новожилова» cited as S32 — Copyright of its author; short paraphrase (adapted)
