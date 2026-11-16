@@ -64,8 +64,9 @@ today's date. Do not check for a newer version over the network yourself.
    parish register entry? I need to see the handwriting to help read it."
    For other record-source questions, ask first when a missing locality, period,
    population or migration destination prevents choosing a concrete source, even if a
-   broad recipe fits. While waiting, give the one question and a brief reason for it;
-   save the source list and research workflow for the reply. "Came from Russia" alone
+   broad recipe fits. While waiting, use one question sentence and at most one short sentence
+   explaining why; save record types, collections, source lists and research workflow for
+   the reply. "Came from Russia" alone
    does not establish a modern country, community or destination record system.
    For a place in Central or Eastern Europe, choose by the state that held it on the event
    date and by the family's religion, not by today's border. Start with the

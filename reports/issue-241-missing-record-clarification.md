@@ -8,11 +8,22 @@ depends on seeing it.
 After any required privacy gate is satisfied, ask only for an image or link:
 one question sentence and at most one short explanatory
 sentence, then wait. Ask for identifying details after the reply only if still needed.
+The other record-source scoping questions have the same sentence limit and explicitly defer
+record types, collections, source lists and workflows until after the reply.
 
 The example uses a parish register rather than the manifest in the existing `unreadable-village` case.
 The clarification case, judge and thresholds are unchanged. The
 [2026-11-12 report](behavioural-evaluation-2026-11-12.md) and its
 [receipt](behavioural-evaluation-2026-11-12.json) retain the historical 0/3 clarification passes.
+
+The initial proposal at `565b06f` passed 13/14 cases: `unreadable-village` passed 3/3, but
+`russia-origin` sample 2 added passenger, naturalization and census suggestions before receiving
+the scoping answer. That failure stands. The shared waiting instruction now explicitly limits
+the explanation to one short sentence and defers those suggestions.
+
+Release 1.20.0 and changes to the GEDCOM recipe arrived on main during validation. The proposal
+now includes those changes; the release baseline and proposed suite will be evaluated again
+against these different inputs, preserving the first results.
 
 ## Validation
 
@@ -21,7 +32,7 @@ The clarification case, judge and thresholds are unchanged. The
   and 170 guardrails. These checks do not establish model behavior.
 - All 15 offline Markdown link tests pass. The locked Markdown linter reports no issues.
 
-Model validation is in progress; behavior on the changed instruction remains unassessed.
+Model validation is in progress; behavior on the final integrated instruction remains unassessed.
 The [evaluation procedure](../docs/evaluation.md#before-merging-content-changes) requires the
 ten guardrail cases on the unchanged current release and the complete suite on the proposed skill.
 `unreadable-village` must pass three of three unchanged clarification checks; investigate all other
