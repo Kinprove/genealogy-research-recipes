@@ -206,27 +206,87 @@ development dependencies and are excluded from the published plugin artifact.
 
 ## Publishing to ClawHub
 
-Use a clean checkout of the reviewed commit, with all host manifest versions
-synchronized. Publish under the ClawHub `kinprove` owner using an account with
-access to that owner. The `@kinprove/` package scope must match it. Install the
-locked tools above first, and run these commands from the repository root.
+Publish future releases with the **Publish to ClawHub** workflow,
+`.github/workflows/clawhub-publish.yml`. It uses GitHub OIDC trusted publishing,
+with no stored ClawHub token. Publishing remains an explicit maintainer action;
+creating a tag or GitHub release does not upload a package.
+
+Trusted publishing authenticates the publishing workflow. It does not currently
+give this package registry-verified artifact provenance: ClawHub's
+[`buildVerification` implementation](https://github.com/openclaw/clawhub/blob/ef45a686eab29dfdb0f8655069f180200c729ff8/convex/lib/packageRegistry.ts#L518-L546)
+sets `hasProvenance: false` for source-linked packages. Keep
+[#230](https://github.com/Kinprove/genealogy-research-recipes/issues/230) open for
+that separate gap; a green publish job is not proof that ClawHub verified the
+artifact against the declared source.
+
+### One-time trusted-publisher setup
+
+After the workflow merges, use the locked CLI from the repository root and a
+ClawHub account with management access to the existing `kinprove` package:
 
 ```sh
-ci-tools/node_modules/.bin/clawhub package validate . --openclaw ci-tools/node_modules/openclaw --out ../clawhub-validation --json
-ci-tools/node_modules/.bin/clawhub package publish . --family code-plugin --owner kinprove --dry-run --json
+ci-tools/node_modules/.bin/clawhub package trusted-publisher set @kinprove/genealogy-research-recipes --repository Kinprove/genealogy-research-recipes --workflow-filename clawhub-publish.yml --json
+ci-tools/node_modules/.bin/clawhub package trusted-publisher get @kinprove/genealogy-research-recipes --json
 ```
 
-Check that the dry-run reports `code-plugin`, the intended version and the exact
-reviewed commit before making a separately authorized live publication. Keep
-`--family code-plugin`: Claude manifests coexist in this repository, so automatic
-family detection can choose a Claude bundle instead of the native OpenClaw package.
-The npm artifact deliberately includes native OpenClaw code and the complete
-skill/resources/license tree, not the other hosts' adapters or development files.
+Verify the repository and workflow filename exactly. No GitHub environment is
+configured: release-tag checks are guards within this workflow. Anyone able to
+change and dispatch the workflow can change those guards.
 
-A successful dry-run is not a public release. Authenticate securely, publish the
-same clean commit with the same flags (without `--dry-run`), and verify its
-ClawHub publication/security-check status before announcing availability. Do not
-publish to npm merely because this package uses an npm-style scoped name.
+### Preview and publish a release
+
+Use a reviewed `vX.Y.Z` tag containing this workflow, synchronized host versions,
+and a published GitHub release for that tag. Existing tags from before the
+workflow merged cannot run it. Dispatch **at the tag**, so GitHub's OIDC identity,
+the checked-out commit and the declared source commit agree. Dispatches from
+`main` fail. Replace `vX.Y.Z` below with the intended release tag:
+
+```sh
+gh workflow run clawhub-publish.yml --repo Kinprove/genealogy-research-recipes --ref vX.Y.Z -f dry_run=true
+```
+
+Check the workflow run's validation and preview, including the exact version and
+commit. A successful preview performs no upload. For a separately authorized live
+release, dispatch the same tag explicitly with:
+
+```sh
+gh workflow run clawhub-publish.yml --repo Kinprove/genealogy-research-recipes --ref vX.Y.Z -f dry_run=false
+```
+
+The workflow uses the tag's locked tools with lifecycle scripts disabled, validates
+the native package, verifies preview metadata, and publishes with explicit
+`--family code-plugin --owner kinprove`. Keep that family override: this repository
+also has Claude manifests. It waits for definitive publication, then inspects the
+exact public version and checks package, owner, version, repository, tag and
+commit. The job summary reports the registry's actual `hasProvenance` value
+separately. Do not announce availability based only on submission or preview.
+
+If the live job fails or its publication wait times out, retain the attempt ID
+from the run's log and inspect the exact public version before retrying:
+
+```sh
+ci-tools/node_modules/.bin/clawhub package inspect @kinprove/genealogy-research-recipes --version X.Y.Z --json
+```
+
+The upload may already exist. If the version is not public yet, resolve the
+pending attempt with ClawHub before publishing again; absence from public
+inspection does not prove upload failure. Do not blindly rerun that version.
+Do not publish to npm merely because the package uses an npm-style scoped name.
+
+### Rollback and exceptional manual publication
+
+To disable future OIDC token minting, a package manager can remove the binding:
+
+```sh
+ci-tools/node_modules/.bin/clawhub package trusted-publisher delete @kinprove/genealogy-research-recipes --json
+```
+
+An exceptional manual publication needs separate authorization, a clean reviewed
+release checkout, the same locked validation and explicit family/owner flags, and
+secure user authentication. While the trusted-publisher binding exists,
+`ci-tools/node_modules/.bin/clawhub package publish` also requires
+`--manual-override-reason` on the live command. Verify definitive publication and
+exact public source metadata before announcing it.
 
 ## Reproducible installs and audits
 
