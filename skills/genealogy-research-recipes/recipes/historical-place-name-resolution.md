@@ -4,13 +4,13 @@ title: "Resolve a historical place name to dated, same-named candidates"
 summary: "Resolve a place named in a record, letter, Bible or biography to dated, same-named candidates from period gazetteers."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "HISTORICAL-PLACE-NAME-RESOLUTION-01", "text": "The recipe lists every same-named feature in feature-level, period-dated gazetteers, keeps the name exactly as written, and lets other dated evidence about the person choose among the candidates."}]
 handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing", "historical-map-record-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 36}
 ---
 
@@ -86,6 +86,10 @@ Not covered here:
 - For Galicia, take the official spelling and the administrative unit from period gazetteers, and record which edition gave each form. The Austrian ones are the Special-Orts-Repertorium for Galicia (Vienna 1886 and 1893, from the 1880 and 1890 censuses) and the Gemeindelexikon vol. XII Galizien (Vienna 1907, from the 1900 census according to a search-result extract) [S39], [S40†]. For interwar Poland, the *Skorowidz miejscowości Rzeczypospolitej Polskiej* (gazetteer of places of the Polish Republic) is a bibliographic lead: a 2001 county history, partially read, cites its volume II, Łódź voivodeship (Warsaw 1925), compiled from the census of 30 September 1921 [S41]. Check the edition's title page before relying on it. Tadeusz Bystrzycki's *Skorowidz miejscowości Rzeczypospolitej Polskiej* (Przemyśl–Warszawa, Książnica Naukowa, ca. 1933) is a separate work with a near-identical title; it names the authorities and offices competent for each place [S42]. To fix a Galician or Bukovinian place's jurisdiction at the event date and its country today, see [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
 - For Bessarabian uezds and districts by period, see [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
 - Record whether each name on a dated map is a town, a creek or an area. On the 1909 map, Medicine Lodge was a creek and a ranching area, not a town [S15].
+
+- **A Soviet birthplace that is a village soviet or a numbered farmstead.** A birthplace in a Soviet passport or справка can be a village soviet's name written as a village, and the hamlet a family remembers can be an unofficial name. In one Oparino district case, a woman's passport gave the village «Лузское», which never existed: it was the Лузский сельсовет. Her siblings' passports named other villages, and the family remembered a «хутор Веселый». The children's birth справки with «Иные сведения» gave the family's home as resettlement plot (переселенческий участок) 106, хутор 4, and the resettlement lists of 1909–1915 record the family under that plot and хутор [S63], [S64]. The 1926 census list of populated places of Oparino district, then in Северо-Двинская губерния, names its settlers' farmsteads the same way, as «Участок № 106 хутор № 4» followed by the householder's name [S65]; the district has been in Kirov oblast only since 1941 [S66]. For a resettler family, search census and settler lists by plot and хутор number, under the guberniya in force at the date, not by the family's name for the hamlet.
+  - **Privacy gate:** <!-- privacy-gate: request --> A ZAGS справка on a sibling's birth can name people who may still be living; answer the privacy gate in `SKILL.md` before requesting one.
+  - When a Soviet birthplace cannot be found, request the person's and the siblings' birth справки and name the act record's place lines you need under «Иные сведения» ([Soviet personal files § 1](soviet-personal-file-recovery.md#1-read-the-negative-reply-before-you-treat-it-as-a-dead-end)).
 
 ## 4. Convert phonetic and translated forms back to the source language
 

@@ -25,6 +25,20 @@ This recipe covers intake, capture and hand-off only. It prescribes no conservat
 - Identity rulings and other disputed conclusions belong in [evidence/proof judgment](evidence-proof-judgment.md).
 - Cite items with [source citation](source-citation.md). Record sessions in the [research log](research-documentation.md).
 
+## Contents
+
+- Bound the assignment and record what arrived
+- Give every item a stable reference tied to its place
+- Keep each statement about an item separate
+- Plan capture from the media actually present
+- Capture every accessible surface and the page around it
+- Keep received files, derivatives and versions apart
+- Bind the parts of an oversized item
+- Look for a missing item under another association
+- Record what a recipient actually agreed to take
+- Check the hand-off from the delivered copy
+- Return
+
 ## Bound the assignment and record what arrived
 
 1. Work with the requested subset. Keep a record of where it sits in the larger collection, but do not expand the assignment.
@@ -57,6 +71,8 @@ Inventory the media and their observed condition before proposing capture [S4]. 
 - **Slides and negatives on film that is not nitrate and not deteriorating** need a scanner built for film and slides [S6].
 - **Film that may be cellulose nitrate** stays out of routine capture, on a flatbed and on a film scanner alike. Nitrate film was made from 1889 into the early 1950s, and acetate film overlapped it from the 1920s. Only Kodak published end dates. Amateur roll film was often unmarked, and a copy can carry its original's "NITRATE" edge printing. So, except for dated Kodak film, neither the film's date nor its edge marking settles whether it is nitrate [S17], [S18], [S19]. Nitrate is a fire risk: keep suspected nitrate apart from other material, record it, and leave its copying to a person or company trained to handle nitrate [S17], [S18].
 - **Film that smells of vinegar** (deteriorating acetate) is kept apart from other film, because film in good condition absorbs acid from it. The smell shows that the decay has already begun [S18], [S19].
+
+**Flatbed settings for a print's master.** Capture the print as it is. Turn off the scanning software's automatic correction and sharpening, and leave a margin around the print rather than cropping to its edge; straighten, crop and retouch only a derivative [S24], [S25], [S26]. Save the master as TIFF, not JPEG, which holds only 8 bits per channel; keep JPEG for working and sharing copies [S25], [S26]. Set resolution by print size, so that a smaller print gets more: 300 ppi for 8×10 inches or larger, 600 ppi for about 6×4 inches, and 1200 ppi for 2×3 inches or smaller [S25]. Scan a black-and-white print that may need restoration in full colour at 16 bits per channel [S24], [S25]. The Library of Congress's 2014 basics select grayscale for black-and-white photos [S26]; use grayscale only where no restoration is planned.
 
 Handle each item with clean, dry hands or clean nitrile gloves, by its edges, without touching the image [S20]. Do not use rubber bands, paper clips, staples, sticky notes, tape or glue on photographs, and do not laminate them [S20], [S21]. Label the enclosure rather than the photograph. If a paper print must be marked, write lightly in soft pencil on the back near the edge, never on the front [S16], [S20]. A glossy resin-coated print does not take pencil: if one must be marked, use a waterproof, non-acidic archival pen instead [S16].
 

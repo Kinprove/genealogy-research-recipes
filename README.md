@@ -221,7 +221,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [hispanic-catholic-register-recovery](skills/genealogy-research-recipes/recipes/hispanic-catholic-register-recovery.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [historic-hungary-record-routing](skills/genealogy-research-recipes/recipes/historic-hungary-record-routing.md) | record catalogues and original images | — | — | — | — | — |
 | [historical-map-record-recovery](skills/genealogy-research-recipes/recipes/historical-map-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [historical-place-name-resolution](skills/genealogy-research-recipes/recipes/historical-place-name-resolution.md) | record catalogues and original images | — | — | — | — | — |
+| [historical-place-name-resolution](skills/genealogy-research-recipes/recipes/historical-place-name-resolution.md) | record catalogues and original images | — | — | request | — | required |
 | [holocaust-testimony-source-interpretation](skills/genealogy-research-recipes/recipes/holocaust-testimony-source-interpretation.md) | record catalogues and original images | — | — | request | contact | required |
 | [illegitimacy-record-recovery](skills/genealogy-research-recipes/recipes/illegitimacy-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [immigrant-congregation-origin-records](skills/genealogy-research-recipes/recipes/immigrant-congregation-origin-records.md) | record catalogues and original images | — | — | — | — | — |

@@ -33,9 +33,18 @@
 - whether a particular film is nitrate or acetate; the recipe gives no identification test and leaves that to a specialist
 - the copyright status of any particular item; [S22] and [S23] state U.S. rules, and other countries differ
 
+### Sources added 2026-11-16
+
+- **S24:** История одной семьи. Юлия Новожилова (Dzen channel), [«Как сберечь бабушкины фото?»](https://dzen.ru/a/Xd12K7ur3worrwwG), 29 November 2019 by the page's date, read 2026-11-15 from a captured copy (Dzen refuses automated retrieval; images not captured). Used for: scanning old prints in colour to ease later restoration; not using the scanning program's automatic correction, so as to get the original; not cropping, but leaving a white margin, with rotation and cropping done later during restoration. The post's dpi figures and its TIFF-or-JPEG choice are not adopted.
+- **S25:** Damien Symonds, [Scanning guidelines for old photo restoration](https://damiensymonds.net/scanning-guidelines-for-old-photo-restoration/), opened 2026-11-16. Used for: scanning in full colour even for a black-and-white photo; 16 bits per channel; resolution by print size, from 300 ppi for 8×10 inches or larger through 600 ppi for about 6×4 to 1200 ppi for 2×3 inches or smaller; extra room around the photo; no sharpening during the scan; and saving as TIFF or PSD, not JPEG, because JPEG files can only be 8-bit. A restoration specialist's guidance, not an archival standard.
+- **S26:** Mike Ashenfelder, Library of Congress, The Signal, [Personal Digital Archiving: The Basics of Scanning](https://blogs.loc.gov/thesignal/2014/03/personal-digital-archiving-the-basics-of-scanning/), 27 March 2014, opened 2026-11-16. Used for: selecting grayscale for black-and-white photos; saving the master scan as TIFF, with a JPEG as the working copy; and, in the author's reply of 28 March 2014 to a reader who turns off the scanner's automatic sharpening and correction, agreeing that the less is done to the original scan at the scanning stage the better, and that edits such as sharpening and cropping belong on a copy.
+
 ## Credits
 
 - Mercedes, Who Are You Made Of?, What is the Storymaker Studio on Ancestry?, blog post, 2023-03-07 — All rights reserved; short attributed adaptation (adapted)
 - Renate Ell, SOS genealogischer Nachlass, CompGen blog post, 2022-10-05 — All rights reserved; short attributed adaptation (adapted)
 - Kinprove original source annotations — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural synthesis; presenter examples and guidance paraphrased with attribution and cited as S1-S23 — FSL-1.1-MIT (kinprove-original)
+- Dzen post by Юлия Новожилова cited as S24 — Copyright of its author; short paraphrase of the author's advice (adapted)
+- Damien Symonds's scanning guidelines cited as S25 — Copyright of their author; short paraphrase (adapted)
+- Library of Congress blog post cited as S26 — US Government work, public domain; short paraphrase (adapted)
