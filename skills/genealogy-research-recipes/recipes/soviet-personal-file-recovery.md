@@ -115,11 +115,12 @@ birth register, its years and the date of the quoted reply as a lead, and confir
 archive. Do not try to identify the parties.
 
 **Read "no books before year X" as a custody answer.** ZAGS bodies keep paper act books for 100
-years and then hand them to state archives (143-FZ, Art. 77). [S70] Early Soviet books also sit
-elsewhere: a Dzen author read ZAGS books partly covering 1920–1924 in a district archive in
-Krasnodar krai, and one ZAGS archive told her it held nothing before 1941 because the earlier books
-were with an inter-district ZAGS subdivision, which then forwarded her request upward. [S71] Ask
-which body holds the earlier books before you treat the years as lost.
+years and then hand them to state archives (143-FZ, Art. 77). [S70 @2026-11-16]
+
+Early Soviet books also sit elsewhere: a Dzen author read ZAGS books partly covering 1920–1924 in a
+district archive in Krasnodar krai, and one ZAGS archive told her it held nothing before 1941
+because the earlier books were with an inter-district ZAGS subdivision, which then forwarded her
+request upward. [S71] Ask which body holds the earlier books before you treat the years as lost.
 
 **A marriage of 1927–1944 may never have been registered.** The RSFSR code on marriage and the
 family of 1926, in force from 1 January 1927, treated a de facto marriage as the legal equal of a
@@ -310,7 +311,10 @@ well as GARF's лишенец files.
 - **Privacy gate:** <!-- privacy-gate: request --> A pension file holds the pensioner's family documents, which name a spouse and children who may be living; answer the privacy gate in `SKILL.md` before requesting one.
 - **Russia: request a dead pensioner's pension file (пенсионное дело) from the Social Fund.** The Social Fund of Russia (СФР), formed by reorganising the Pension Fund (ПФР), began work on 1 January 2023 [S101]. Apply in your own name to the regional branch that holds the file, as a rule that of the place of death or the one that paid the pension; attach copies of the kinship documents, and ask for the personal documents (work, education, birth, marriage, children, wartime service), not the pension amounts [S104]. When a pensioner moves, the branch of the new residence requests the file from the branch of the former one [S102], so a file can stay behind: ask the branch of the previous residence when the first reply is negative, as Fund staff advised a Dzen author for a pensioner who had moved from the former Chechen-Ingush ASSR [S103].
 - **What the file can hold.** It holds the documents the pensioner submitted to obtain the pension, among them workplace certificates, copies of the labour book and, for kolkhoz work, protocols in which several people confirmed the period [S79]. Dzen reports add children's birth and marriage certificates and survivor-pension papers [S86]; a 1993 certificate of kolkhoz work in 1943–1944 [S68]; commissariat certificates of war participation issued in 1975 and 1990, which sent the author to the commissariat [S105]; and a whole work history when the labour book was lost [S106]. Order the file even when the labour book survives [S107].
-- **Request it soon after a death.** Since 15 June 2025 an old-age pension recipient's payment file is kept 15 years from the date payments stopped, down from 20 years [S108]; a survivor-pension file is kept 10 years, and a disability pensioner's file 5 years after death, or 3 years when the disability is recorded in the unified social-sector platform [S116]. For Russia, use these terms, not the forum estimates above. After a cut in storage terms in April 2021, files were destroyed in bulk, though a few regions sent them to the regional archive [S79]. So the cut-off moves forward every year, and the files of the earlier generation are usually gone [S106]. Ask for an older file anyway: single documents can survive, especially for war veterans who died in the 1990s [S104].
+
+- **Request it soon after a death.** Since 15 June 2025 an old-age pension recipient's payment file is kept 15 years from the date payments stopped, down from 20 years [S108 @2026-11-16]; a survivor-pension file is kept 10 years, and a disability pensioner's file 5 years after death, or 3 years when the disability is recorded in the unified social-sector platform [S116 @2026-11-16]. For Russia, use these terms, not the forum estimates above.
+
+- **An older file may be gone.** After a cut in storage terms in April 2021, files were destroyed in bulk, though a few regions sent them to the regional archive [S79]. So the cut-off moves forward every year, and the files of the earlier generation are usually gone [S106]. Ask for an older file anyway: single documents can survive, especially for war veterans who died in the 1990s [S104].
 
 **Death and inheritance (Russia).** The Federal Notarial Chamber's probate-case register (Реестр наследственных дел, notariat.ru) has run in the notarial information system since 1 July 2014 [S29]. It is an auxiliary index of opened inheritance cases, not a death record and not proof of kinship.
 
