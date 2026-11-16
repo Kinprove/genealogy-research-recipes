@@ -82,7 +82,7 @@ page's contents; it does not verify the signed-in interface or current access le
 
 - **H1:** GEDmatch, [How to upload DNA data](https://www.gedmatch.com/blog/how-to-upload-dna-data-from-23andme-ancestry-and-other-testing-companies/). Posted 2025-02-13; Rechecked 2026-11-12. Its tool table lists Matching Segment Search, Triangulation and Multiple Kit Analysis among the paid tools; its prices are not adopted.
 - **H2:** GEDmatch, [One-to-One Autosomal DNA Comparison](https://www.gedmatch.com/applications/one-to-one-autosomal-dna-comparison/). Opened 2026-11-08.
-- **H3:** GEDmatch, [One-to-Many](https://www.gedmatch.com/applications/one-to-many/). Opened 2026-11-08.
+- **H3:** GEDmatch, [One-to-Many](https://www.gedmatch.com/applications/one-to-many/). Opened 2026-11-08. Re-read 2026-11-16: a pink overlap value "may be an indication of a less accurate match"; the page sets no overlap figure, and its remark that more shared SNPs usually indicate a closer relationship is still not adopted.
 - **H4:** GEDmatch / Andy Lee, [How to triangulate your matches](https://www.gedmatch.com/education/how-to-triangulate-your-matches/). Rechecked 2026-11-12; the page carries the transcription of its video, which opens Triangulation from the Tier 1 tools rather than the free DNA applications.
 - **H5:** GEDmatch / Andy Lee, [Searching for segments on GEDmatch](https://www.gedmatch.com/education/searching-for-segments-on-gedmatch/).
 - **H6:** GEDmatch / Andy Lee, [DNA comparison matrices in Multiple Kit Analysis](https://www.gedmatch.com/education/an-overview-of-dna-comparison-matrices-in-multiple-kit-analysis/). Opened 2026-11-08; the page carries the full transcription of its video.
@@ -91,7 +91,7 @@ page's contents; it does not verify the signed-in interface or current access le
 
 GEDmatch support articles (undated), retrieved 2026-11-06:
 
-- **H9:** GEDmatch Support, [Tier 1 Subscription: Pricing, Features, Cancellation & Payment Management](https://support.gedmatch.com/portal/en/kb/articles/tier-1-subscription-pricing-features-cancellation-payment-management). Segment Search, the Phasing tool and Lazarus listed among Tier 1 features; tools marked "Tier 1" on the home page require a paid membership; One-to-Many and One-to-One listed as free. Rechecked 2026-11-12 through the support portal's public article interface, since the page itself is a script application; edited 2026-08-31.
+- **H9:** GEDmatch Support, [Tier 1 Subscription: Pricing, Features, Cancellation & Payment Management](https://support.gedmatch.com/portal/en/kb/articles/tier-1-subscription-pricing-features-cancellation-payment-management). Segment Search, the Phasing tool and Lazarus listed among Tier 1 features; tools marked "Tier 1" on the home page require a paid membership; One-to-Many and One-to-One listed as free. Rechecked 2026-11-12 through the support portal's public article interface, since the page itself is a script application; edited 2026-08-31. Re-read 2026-11-16 at the article address: it also lists "Combine multiple kits into 1 Superkit" among the Tier 1 features.
 - **H10:** GEDmatch Support, [How to Use GEDmatch DNA Matching Tools (One-to-Many, One-to-One, Segment Search)](https://support.gedmatch.com/portal/en/kb/articles/how-to-use-gedmatch-dna-matching-tools-one-to-many-one-to-one-segment-search). A kit must finish processing, "typically 24–48 hours after upload", before matching tools are available.
 
 GEDmatch policy page, retrieved 2026-11-07:
@@ -137,6 +137,48 @@ not re-read. The recipe now names the paid tier for Matching Segment Search, Tri
 Multiple Kit Analysis from H1 and H4, keeps the home-page check as confirmation, and cites H9, H1
 and H4 with this date.
 
+### GEDmatch pages opened 2026-11-16
+
+Retrieval confirms the public page's contents; it does not verify the signed-in interface or
+current access level. The education pages carry transcriptions of Andy Lee's videos and show no
+publication date (footer "© GEDmatch 2024").
+
+- **H12:** GEDmatch / Andy Lee, [How to Compare Family Trees on GEDmatch](https://www.gedmatch.com/?p=1448). Opened 2026-11-16. Used for: a two-GEDCOM comparison that takes two GEDCOM numbers and checks only those trees, a search of one GEDCOM against all uploaded GEDCOMs, and GEDCOM + DNA matches, which limits a match list to matches with an attached tree. It does not say which tools are free or Tier 1.
+- **H13:** GEDmatch / Andy Lee, [Find Most Recent Common Ancestor using GEDCOMs](https://www.gedmatch.com/education/find-most-recent-common-ancestor-using-gedcoms/). Opened 2026-11-16. Used for: the MRCA tool's kit-count, minimum-cM and match-score settings, results described as potentials to research, and a same-name candidate with different birth details and places. It does not state the tool's tier; its example settings are not adopted.
+- **H14:** GEDmatch Support, [Ancestry GEDCOM Download -- Upload to GEDmatch](https://support.gedmatch.com/portal/en/kb/articles/ancestry-gedcom-to-gedmatch). Undated; opened 2026-11-16. Used for: the upload accepting only plain-text `.ged` files, and people marked living being hidden from everyone except the GEDCOM's owner. It does not say who else can see an uploaded GEDCOM.
+- **H15:** GEDmatch Support, [How to Upload DNA Files to GEDmatch (All Testing Companies)](https://support.gedmatch.com/portal/en/kb/articles/how-to-upload-dna-files-to-gedmatch-all-testing-companies). Undated; opened 2026-11-16. Used for: Tier 1 members' "Combine multiple kits into 1 Superkit" tool, which merges results from different testing companies for the same individual.
+- **H16:** GEDmatch / Andy Lee, [How to Use One-to-Many Matching](https://www.gedmatch.com/education/how-to-use-one-to-many-matching/). Opened 2026-11-16. Used for: overlap as the number of SNPs used to compare two kits, raising the overlap cutoff to drop colour-highlighted low-overlap kits, and raising the cM limit to drop small matches from intermarried lines. The transcript does not make clear whether that limit applies to the largest segment or the total; its numbers are not adopted.
+- **H17:** GEDmatch Stories, [Ultimate Guide to GEDmatch One-to-Many Tool](https://www.gedmatch.com/blog/ultimate-guide-to-gedmatch-one-to-many-tool/), GEDmatch blog, published 2026-02-16; opened 2026-11-16. Used for: a minimum segment size that is typically 7 cM and adjustable, adjusting it when endogamy is suspected, and 10–15 cM as a raised setting. Its relationship ranges, prices and largest-segment remark for close relatives are not adopted.
+- **H18:** GEDmatch / Andy Lee, [Upgrading your One-to-Many Matching with Tier 1](https://www.gedmatch.com/education/upgrading-your-one-to-many-matching-with-tier-1/). Opened 2026-11-16. Used for: Tier 1 users being able to change the overlap cutoff.
+- **H19:** GEDmatch / Andy Lee, [Creating a DNA Superkit from Multiple DNA Kits](https://gedmatch.com/education/creating-a-dna-superkit-from-multiple-dna-kits). Opened 2026-11-16. Used for: a hand-merged superkit of one person's tests gaining overlap with some matches without any change in shared cM. It describes a spreadsheet merge, not the Tier 1 tool, and does not state a tier.
+
+### Community and practitioner sources, read 2026-11-16
+
+- **S26:** Kitty Cooper, interviewed in *Making the Most of GEDmatch – An Interview with Kitty
+  Cooper | Best Websites*, 2024-05-02 — [interview](https://www.youtube.com/watch?v=ajAnhgs8ck8).
+  Community source. The video page was opened 2026-11-16 and its title confirmed; the transcript
+  could not be retrieved, so the recipe relies on the transcript excerpts supplied with the
+  extraction and says so beside each citation. Used for: a Superkit's gain in positions compared
+  with matches tested at other companies; overlap under 100,000 SNPs as possibly less accurate
+  (not adopted as a cutoff, since no GEDmatch page opened sets it); raising One-to-Many's lower
+  threshold to 12 cM and reading a small largest segment as several distant relationships under
+  endogamy; ancestors-only GEDCOM uploads; the pairwise GEDCOM comparison and a Tier 1 search of
+  matches' trees; and the 13th-century single-segment example. Rights: cited reference, not
+  reproduced.
+- **S27:** Mercedes Brons, Who Are You Made Of?, [Find Common Ancestors (MRCA) from DNA Matches on Gedmatch](https://whoareyoumadeof.com/blog/find-common-ancestors-mrca-from-dna-matches-on-gedmatch/), last updated 2022-12-03, read 2026-11-16. Used for: the MRCA search as a Tier 1 tool that needs an uploaded GEDCOM with the searching kit linked to its place in the tree; results listing matches' kit numbers, names and email addresses; the listed ancestor possibly not being the one the shared DNA came from, since people can be related in several ways; and checking the pair in One-to-One. Her settings are not adopted.
+- **S28:** Mercedes Brons, Who Are You Made Of?, [How to Know if You Have Endogamy in Your DNA Matches](https://whoareyoumadeof.com/blog/how-to-know-if-you-have-endogamy-in-your-dna-matches/), last updated 2023-12-10, read 2026-11-16. Used for: much shared DNA with a small longest segment, and many small segments, as signs of endogamy, and attention to the largest segment. It sets no cutoff.
+- **S29:** Mercedes Brons, Who Are You Made Of?, [What is Overlap on Gedmatch?](https://whoareyoumadeof.com/blog/what-is-overlap-on-gedmatch/), last updated 2022-12-09, read 2026-11-16. Used for: pink overlap cells marking low overlap, and not ignoring low-overlap matches outright. Its cutoff options are historical and not adopted.
+- **S30:** Legacy Tree Genealogists, [Dealing with Endogamy, Part I: Exploring Amounts of Shared DNA](https://www.legacytree.com/blog/dealing-endogamy-part-exploring-amounts-shared-dna), published 2016-10-13, read 2026-11-16. Used for: recalculating shared totals at GEDmatch under higher cM thresholds and comparing several totals. It gives no GEDmatch threshold value.
+
+### Additions and recheck, 2026-11-16
+
+Rechecked 2026-11-16: H3 and H9 were re-read for the overlap flag and the Superkit's Tier 1
+listing, and H12–H19 and S26–S30 were opened for the additions to workflows 1 and 2 and the new
+"Compare trees through GEDCOMs" section. No GEDmatch page opened sets the 100,000-SNP overlap
+figure in S26, and none documents a One-to-One SNP-density display or how One-to-One treats
+positions one kit did not test, so the recipe adopts neither. The recipe header's `checked` date
+was not moved.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
@@ -145,3 +187,6 @@ and H4 with this date.
 - Leah Larkin, The DNA Geek blog, post cited as S23 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Mercedes Brons, Who Are You Made Of? blog, post cited as S24 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Louis Kessler, Behold Blog, post cited as S25 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Kitty Cooper, interview video cited as S26 — Community video; no explicit licence; paraphrase with attribution (adapted)
+- Mercedes Brons, Who Are You Made Of? blog, posts cited as S27, S28 and S29 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Legacy Tree Genealogists, blog post cited as S30 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)

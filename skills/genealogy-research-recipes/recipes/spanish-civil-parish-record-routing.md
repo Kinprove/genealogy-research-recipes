@@ -11,7 +11,7 @@ handoff: ["catholic-parish-diocesan-record-recovery", "city-directory-observatio
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 93}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 99}
 ---
 
 # Route a Spanish or Andorran record to the archive that holds it on the event date
@@ -66,6 +66,12 @@ Gather these before searching:
 - **For an event from 1871, order the certificación literal (literal certificate).** It is the full copy of the entry, not the extract. Extract the fields from it with the Hispanic register recipe.
 
 **Andorra had no civil register before 1997.** The Llei del Registre Civil, published on 14 August 1996, created the Registre Civil del Principat d'Andorra and came into force on publication [S40]. It registers events from the 180th day after that, in February 1997; for earlier events the church registers are the record, and their keepers may certify entries from them [S40]. Search an earlier Andorran event in the parish books (step 4).
+
+Start a civil search from the recorded event place, but do not assume it always equals the registry’s municipality. The Ministry’s explanatory page also describes exceptions, including certain births registered at the parents’ domicile. Keep the physical event place, parents’ residence and registration office as separate fields, and check the applicable period’s rule when they differ. Only a transcript excerpt of the cited community video was inspected. [S46], [S47]
+
+Decode a numbered section in a historical civil-register locator before choosing a book. The Ministry’s explanatory page maps section I to births and general matters, II to marriages, III to deaths, and IV to guardianship and legal representation. Confirm the actual volume title and period; this key to legacy section references does not mean that every present registry or digital catalogue retains the same arrangement. Only a transcript excerpt of the cited community video was inspected. [S46], [S48]
+
+Inspect the margins of the marriage entry as well as its main text. The SSA’s Spain procedure identifies divorce as a marginal note on the marriage it terminated. Record the annotation’s own wording and date; do not turn that one supported annotation type into a promise that every later event or identity document will appear in every margin. Only a transcript excerpt of the cited community video was inspected. [S46], [S49]
 
 ## 2. Find the diocese that held the parish on the event date
 

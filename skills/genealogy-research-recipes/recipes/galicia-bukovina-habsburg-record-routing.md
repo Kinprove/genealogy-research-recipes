@@ -11,7 +11,7 @@ handoff: ["austrian-confessional-register-routing", "bessarabia-moldova-record-r
 checked: "2026-11-02"
 checked_basis: "checked on 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 38}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 42}
 ---
 
 # Route a Galician or Bukovinian record by date, confession and custodian
@@ -111,6 +111,10 @@ Transcarpathia is not covered. Link out for the shared steps:
 - **Do not assume an Austrian church-book portal covers Galicia.** Check that Matricula's catalogue lists the parish before you search it.
 - **Check survival before an exhaustive search for a Jewish town.** Open Gesher Galicia's record inventories (geshergalicia.org/inventory/, including its inventory of AGAD Fond 300) [S17], [S39]. Then search the Routes to Roots Foundation Archive Database (rtrfoundation.org/search.php), which lists by town the surviving Jewish and civil records of Eastern European archives, with years and holding archive; use its "Begins With" town search so district-level records also appear [S40].
 - **A book on no list is "not located", not lost.** Record each archive and catalogue you checked.
+
+- **Search a Southern Bukovina Jewish event in JewishGen's Bucovina Vital Records index before the Suceava books.** The index covers the Jewish civil registers of Kimpolung (Câmpulung Moldovenesc), Gurahumora (Gura Humorului), Radautz (Rădăuți), Solka (Solca) and Suczawa (Suceava), with registrations from many neighbouring villages; the originals are at the Suceava County Branch [S52 @2026-11-16]. On 2026-11-16 it listed births of 1843–1909, marriages and divorces of 1834–1909 and deaths of 1855–1910, but each town covers only part of that span, and Kimpolung has no marriages [S52 @2026-11-16]. Check the town's years before you search; for a year the index does not cover, record the books as *not searched*, not as *searched without a match*. A birth entry can name grandparents, the mother's maiden surname, the declarant and witnesses, and every entry gives its register, page and record number and an archive reference [S52 @2026-11-16]. Record these in the Suceava holdings row as the locator of the original.
+
+- **Do not stop at MyHeritage's birth collection.** MyHeritage's "Bucovina, Jewish Birth Records" collection, announced in April 2022, was provided by JewishGen, and its description says a birth entry may also give grandparents' names, witnesses and a date of death [S51]. Treat it as JewishGen's birth data, and search the JewishGen index itself for marriages, divorces and deaths.
 
 ## 5. Decide the army before searching military records
 

@@ -11,7 +11,7 @@ handoff: ["burial-evidence-packet", "evidence-proof-judgment", "russian-empire-j
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 57}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 61}
 ---
 
 # Recover Soviet personal files when ZAGS or metrical records are lost
@@ -65,6 +65,13 @@ copied word for word from the record. It never carries adoption information in a
 the declarant's place of residence when a private person declared the registration. [S41], [S42] So
 name each record line you need.
 
+**For a death, name the lines a death record can hold.** Death справка form No. 12 prints the
+deceased's date and place of birth, citizenship, nationality, the date and place of death, the cause
+of death and the record's number, and adds «Иные сведения»; form No. 11, issued for the burial, has
+no «Иные сведения» line. [S66] Death справки from Soviet records can also give the last address,
+the place of work, marital status and education, where the record held them. [S67] Ask for each of
+those lines by name in a form No. 12 application.
+
 **When only the name and year of death are known, request a repeat death certificate.** Under Federal
 Law 143-FZ the death certificate states the deceased's date and place of birth (Art. 68), and a
 relative of the deceased or another interested person may receive a repeat one (Art. 9, Part 2).
@@ -76,6 +83,17 @@ placing a birth in a village of a "Karachevsky district" of Tula oblast. A Karac
 existed in Tula guberniya only from 1924 to November 1926, on land of the former Epifan uezd, and
 the 1899 birth was in the metrical book of a neighbouring village's church. [S50], [S51] Check each
 named unit against the administrative history of its date before you choose a parish.
+
+**A record number does not replace the kinship chain.** For a dead person, Art. 9 of 143-FZ lets
+ZAGS issue documents to a relative or another interested person, who shows an identity document and
+documents proving the right to receive them (Parts 2 and 7). For a living adult, a repeat certificate
+goes only to that person, to the guardian of a person declared legally incapable, or to someone
+holding a notarised power of attorney from one of them; once the child is of age, a parent may ask
+only for another document confirming the birth registration (Part 2). [S65]
+A Dzen author who knew the number and date of a 1938 death record could not obtain the справка
+because her kinship documents were incomplete [S68], and her mother was asked for the author's power
+of attorney to obtain the author's birth and marriage справки. [S69] Build the chain of step 5 before
+you apply.
 
 **Second copies.** Paper act records from before 1 October 2018 were made in two copies. Books of
 second copies are kept by the regional body in charge of civil registration where the records were
@@ -97,6 +115,22 @@ Kodyma never reached the archive and is considered lost during the occupation an
 birth register, its years and the date of the quoted reply as a lead, and confirm the custody with the
 archive. Do not try to identify the parties.
 
+**Read "no books before year X" as a custody answer.** ZAGS bodies keep paper act books for 100
+years and then hand them to state archives (143-FZ, Art. 77). [S70 @2026-11-16]
+
+Early Soviet books also sit elsewhere: a Dzen author read ZAGS books partly covering 1920–1924 in a
+district archive in Krasnodar krai, and one ZAGS archive told her it held nothing before 1941
+because the earlier books were with an inter-district ZAGS subdivision, which then forwarded her
+request upward. [S71] Ask which body holds the earlier books before you treat the years as lost.
+
+**A marriage of 1927–1944 may never have been registered.** The RSFSR code on marriage and the
+family of 1926, in force from 1 January 1927, treated a de facto marriage as the legal equal of a
+registered one. [S72], [S73] The decree of 8 July 1944 gave legal effect only to a registered
+marriage and let couples already living together register, stating how long they had lived together
+(Art. 19). [S74] So when no marriage is found for a couple of that period, search for a registration
+after July 1944 and read its cohabitation date. Children's birth records naming both parents do not
+show that the marriage was registered.
+
 ## 2. Build a life-course inventory for the subject, the spouse and the descendants
 
 List every institution each person passed through. In each of them the person filled in a questionnaire and wrote an autobiography [S2]. Include:
@@ -116,6 +150,14 @@ Do not stop at the subject's own files. A descendant's file can hold the parents
 
 - **Privacy gate:** <!-- privacy-gate: request --> A passport application card names the holder's parents and spouse, who may be living; answer the privacy gate in `SKILL.md` before writing to a passport office.
 - **When the passport is lost, ask for its application card.** A 2025 guide by Olehadash describes the Soviet passport application, «форма № 1» (in Russian Federation usage «форма 1П»), as used for the nationwide exchange of passports that began in 1976. Its lines include the birthplace in the administrative units of the day and the father's and mother's full names. The guide quotes an MVD letter that a copy of a dead person's form goes, on personal application, to heirs who accepted the inheritance or are first-order heirs and show documents proving inheritance or kinship. It sends the request to the migration unit of the MVD body for the address where the passport was issued, one request per address the person lived at from the mid-1970s, and warns that no office is obliged to issue the form [S52]. Prepare the kinship-proof chain of step 5 before you write.
+
+- **Privacy gate:** <!-- privacy-gate: request --> A marriage record found through a labour book names both spouses, who may be living; answer the privacy gate in `SKILL.md` before requesting it from ZAGS.
+- **Look for the labour book (трудовая книжка) in the family's papers, and read more than its job list.** The employer handed the book to the worker on the day of dismissal and, after a death, to the closest relatives against a signature (1974 USSR instruction, пп. 4.1, 4.3) [S75], so originals survive at home: a Dzen genealogist keeps several in her family archive [S76]. Under that instruction:
+  - education was entered on the title page from a diploma or certificate, and periods of study at higher and secondary specialised schools were entered among the work records (пп. 2.10, 2.17) [S75]. Add those schools to the inventory;
+  - a change of surname was entered by striking out the old surname with one line and writing the new one, with a reference to the document, such as the marriage certificate, on the inside of the cover (п. 2.12) [S75]. A Dzen author took a relative's marriage-certificate number from such an entry and obtained the marriage справка from the ZAGS of the event [S77]. Request the record with that number and date;
+  - the awards and incentives sections give each award, thanks, bonus or certificate of honour with its date, who granted it and for what, but not bonuses paid under the pay system (пп. 2.21–2.24) [S75]. A Dzen example shows 1973–1975 entries for a May Day bonus and certificate of honour [S78]. Each entry places the person at that employer on that date and names an occasion to look for in award papers.
+
+  If the book is lost, the pension file can hold copies of its pages (step 3, Pensions) [S76], [S79].
 
 ## 3. Route each institution to its series and present custodian
 
@@ -172,12 +214,17 @@ Write one row per locator and person, using the fields in the output register at
 
 - **Komsomol (ВЛКСМ) membership** is filed in the Komsomol district-committee (райком) fonds of the regional archive of recent history, the former party archive [S59], [S61]. A 2026 Dzen guide describes the series there: yearly lists of members by school, technical school and enterprise (birth year, education, occupation, party membership, army service, address and card number); books of card issue; journals of members taken onto and struck off the register (address, where the member came from or left for); and the applications and questionnaires of new members, some with an autobiography [S61]. Work out the raikom from the residence, school or workplace before you search, because in a city with many districts the wrong raikom means reading many files [S61]. Estimate the joining year from the age rules of the period: 14 to 23 under the 1918 and 1924 rules, a minimum of 16 until it was lowered to 14 in November 1942, and 14 to 28 in the post-war decades [S61], [S62], [S63].
 
+- **Ask the archive of the place where the member joined the party, not only of the home region.** A party personal file can be requested from the regional archive by the date and place of joining [S80]. A Dzen genealogist sends this request to the regional archive of recent history and warns that a member may have joined away from home [S81].
+
 **Military.**
 
 - **Privacy gate:** <!-- privacy-gate: request --> Military personal files list the nearest relatives, who may be living; answer the privacy gate in `SKILL.md` before writing to a commissariat or to ЦАМО.
 - **Write to the military commissariat (военкомат) at the last residence** for the personal file. It holds a questionnaire listing the nearest relatives, and an autobiography. A participant noted that under universal conscription every man had such a file [S2].
 - **Card archives may be gone.** A participant reported that one city commissariat destroyed its card archives in the 2000s [S1]. Record a negative reply as a holdings result, not as proof that no file ever existed.
 - **For officers,** request the officer personal file from the Ministry of Defence archive (ЦАМО). It holds more than a death certificate, including pre-war family details [S2].
+
+- **For a man mobilised in 1941–1945, ask for his entry in the alphabetical book of those called up (алфавитная книга призванных по мобилизации).** Commissariats kept call-up books and amended them as fates became known; what an entry gives varies, and birth year, call-up date and address are not always there [S82]. In 2020 one commissariat in Kirov oblast answered a Dzen author that its book gave the name, birth year, residence or birthplace, rank group and call-up date, that a reported death or disappearance was noted against the name, and that no personal file or registration card was opened for these men [S83]. So a wartime mobilisee need not have the personal file described above.
+- **A telephone "we have nothing" is not a reply.** Commissariats do not carry out requests made by telephone, and a written request can produce data after a telephone refusal. Send it by post with the kinship chain of step 5 [S82], [S84]. A Dzen author who did so received a household-survey (подворный опрос) extract recording one great-grandfather as missing, and learnt that another's given name and patronymic had been swapped in the records, which explained her failed searches [S85].
 
 **Disenfranchised persons (лишенцы) and restoration of voting rights.**
 
@@ -221,6 +268,15 @@ well as GARF's лишенец files.
   - Under the 1944 text, the award was made once the youngest child reached one year and while the mother's other children were alive, and it counted children killed or missing at the front [S16]. So the class reflects the children counted at the award date, not all births, and the award date shows only that the youngest child was at least a year old by then.
   - The USSR Supreme Soviet Presidium conferred Mother Heroine by decree, the union- and autonomous-republic Supreme Soviet presidiums awarded Maternal Glory and the Motherhood Medal, and oblast, city and district executive committees handed over those two awards (statutes of 18 August 1944, Vedomosti 1944 No. 45) [S17]. Search those bodies' fonds for the award papers, under the mother's own surname, which may differ from her children's. Read the rules in the edition in force at the award date.
 
+- **Privacy gate:** <!-- privacy-gate: request --> Award papers name the awardee and, for maternal awards, the children, who may be living; answer the privacy gate in `SKILL.md` before ordering an award extract or asking an archive to confirm an award.
+- **Use maternal-award papers as a list of children.** A Dzen genealogist lists district-archive protocols on Mother Heroine awards, giving each child's full name and birth year, among her sources of family composition; in the same district archive she found wartime lists of residents taken for forced labour [S86]. Lists of women awarded Maternal Glory and the Motherhood Medal, and protocols of their presentation, also sit in republic fonds: the State Historical Archive of Chuvashia holds them in the fond of the republic Supreme Soviet, f. Р-1041 (a 1973 presentation protocol is in op. 18, d. 5) [S87].
+- **To confirm a civil award, ask GARF as well as the regional archive.** A 2023 guide sends civil awards to GARF and regional archives, and military awards to «Память народа» and the Ministry of Defence archive [S80]; a Dzen genealogist confirmed an award through GARF [S88]. GARF's fond 7523 holds a 1946 report compiled in the Presidium's department for recording and registering awardees (op. 17, d. 353) [S89].
+- **Find the published award decree.** A Presidium award decree can be found in print: the decree of 21 January 1939 on Uzbek SSR farm workers, printed in «Правда» on 22 January, gives a farm worker's post, farm and district and, for some, the achievement, such as a team leader's 113 centners of cotton per hectare [S90]. The decree of 21 February 1939 on Rostov oblast farm workers gives the same for its farm workers [S91], and a Dzen author quotes its entry for a kolkhoz team leader, with wheat and sunflower yields per hectare [S92]. For a farm worker with a state order of that period, search the decrees of that oblast and year before you write to an archive.
+
+- **Exhibition awards: search arhiv.vdnh.ru.** The VDNKh archive portal opened in 2020 with almost 11,500 award decisions of the All-Union Agricultural Exhibition (ВСХВ) and VDNKh for 1939–1991. It searches by surname, given name and patronymic, award date, region, award type and organisation or kolkhoz, and takes orders for a copy of an extract, sent by post [S93 @2026-11-16], [S94 @2026-11-16]. Its form asks for the surname, the organisation and the region as they were at the award date [S95 @2026-11-16]. A medal's serial number also leads to its decision: in 2022 VDNKh staff identified a 1939 medal's holder from it [S94 @2026-11-16].
+
+  When the name finds nothing, search by the region with the surname, by the kolkhoz or enterprise, or by a co-awardee, then open the whole decision and read every name for relatives and misspelt namesakes. A Dzen author whose relative's name gave no hit found the 1940 decision through a co-awardee named with the relative in a district local-history book, and reads each decision whole for namesakes and relatives [S96]; she also searches by enterprise [S92].
+
 **Residence.**
 
 - House books record the workplace [S1].
@@ -237,13 +293,29 @@ well as GARF's лишенец files.
 
   - **For a book less than 75 years old, prove kinship in the request.** A 2023 Dzen guide says kinship must be proved for a household book less than 75 years old, the term of the closure in step 5, so the cut-off year moves forward each year [S64]. State how each household member is related to you and offer copies of the kinship documents. Its author did so by email to a municipal archive and received his family's books for 1936–1961 as certified copies by post [S64].
 
+  - **When ZAGS has no rural death, read the household book.** A Dzen author who had asked ZAGS for an ancestor's death record several times over eight years found its full date in a 1936 household book, the earliest the district archive department held, where she had expected at most a year; the same entry gave a wrong birth year [S97]. Another post by the same author reports departure marks for deaths, deaths in the war and moves, with the dates of call-up and demobilisation [S98]. Use the date to ask ZAGS again, and check the book's birth years against other records.
+  - **Follow the household into the next book.** Each new book copied the households again, and a Dzen author who found a woman still living in 1950 looks for her death in the later books [S98]. Read the span of each book: in one Omsk-region village soviet the books cover single years for 1934–1937, two years for 1938–1939 and three years for 1940–1942 [S99]. Request the whole run for the settlement, not one book.
+
   - **If the household books are lost, look for the kolkhoz's own records.** In the Mari El state archive, the fond of kolkhoz «Ноля» (f. Р-420, op. 1) holds members' personal accounts for 1933–1934, a household book of its members for 1936 and labour-day books (книги учёта трудодней) for 1938, 1939 and 1941 [S37 @2026-11-08]. Records of liquidated kolkhozes can also sit in a district archive that confirms former workers' service and pay for pensions, as in Sysert [S38 @2026-11-08], so search both the kolkhoz fonds and the personnel (по личному составу) fonds.
+
+- **Privacy gate:** <!-- privacy-gate: request --> An apartment card lists everyone registered in a flat, some of whom may be living; answer the privacy gate in `SKILL.md` before requesting a copy or an extract.
+- **For a city flat, ask for the apartment card (поквартирная карточка).** Cards are no longer issued; a copy of, or extract from, a card made before 17 April 2018 is requested from the city's archive service with an application, a passport and proof of ownership of the flat [S100 @2026-11-16].
+
+  Some flats kept these cards instead of a house book. A Dzen genealogist saw an archival certificate, issued against kinship and ownership documents, that listed everyone registered in and removed from a flat, and reports that in her case the card was held by the МФЦ [S86]. If the archive service has no card, ask the МФЦ or the passport office.
 
 **Collectivisation-era village records.** A participant quoted the regional fond on church closures (ГАСО f. Р-102, op. 1, d. 865, 1930). It contains collective-farm meeting minutes naming the chairman and secretary, with attendance lists on folios 13–17 [S12].
 
 **Trace a kolkhoz through its mergers and district changes.** In the Batyrevo district archive (Chuvashia), «колхоз им. Ленина» of Nizhneye Turmyshevo merged in September 1950 with the «Авангард» kolkhoz of Verkhneye Atykovo, after the party resolution of 30 May 1950 on merging small kolkhozes, and kept its name; it changed district three times, merged into «Россия» in 1959, and its 1950–1959 files sit in f. 213, the united fond of the amalgamated kolkhoz «Знамя» [S39 @2026-11-08]. Take the farm's village soviet and district from its fond title, as most kolkhoz fond titles in the Mari El state archive's list of agricultural fonds give them, before you search a gazetteer [S40 @2026-11-08].
 
 **Pensions.** Reports conflict. One participant said social-security (собес) pension files are destroyed within about five years of death. Another obtained a Kharkiv pension file for a 1962 death. The same participant's request in Dnipro for a 1968 death found nothing, which the participant put down to a move, although that office still held files for that year [S1]. Ask the office about the years you need instead of assuming either answer.
+
+- **Privacy gate:** <!-- privacy-gate: request --> A pension file holds the pensioner's family documents, which name a spouse and children who may be living; answer the privacy gate in `SKILL.md` before requesting one.
+- **Russia: request a dead pensioner's pension file (пенсионное дело) from the Social Fund.** The Social Fund of Russia (СФР), formed by reorganising the Pension Fund (ПФР), began work on 1 January 2023 [S101]. Apply in your own name to the regional branch that holds the file, as a rule that of the place of death or the one that paid the pension; attach copies of the kinship documents, and ask for the personal documents (work, education, birth, marriage, children, wartime service), not the pension amounts [S104]. When a pensioner moves, the branch of the new residence requests the file from the branch of the former one [S102], so a file can stay behind: ask the branch of the previous residence when the first reply is negative, as Fund staff advised a Dzen author for a pensioner who had moved from the former Chechen-Ingush ASSR [S103].
+- **What the file can hold.** It holds the documents the pensioner submitted to obtain the pension, among them workplace certificates, copies of the labour book and, for kolkhoz work, protocols in which several people confirmed the period [S79]. Dzen reports add children's birth and marriage certificates and survivor-pension papers [S86]; a 1993 certificate of kolkhoz work in 1943–1944 [S68]; commissariat certificates of war participation issued in 1975 and 1990, which sent the author to the commissariat [S105]; and a whole work history when the labour book was lost [S106]. Order the file even when the labour book survives [S107].
+
+- **Request it soon after a death.** Since 15 June 2025 an old-age pension recipient's payment file is kept 15 years from the date payments stopped, down from 20 years [S108 @2026-11-16]; a survivor-pension file is kept 10 years, and a disability pensioner's file 5 years after death, or 3 years when the disability is recorded in the unified social-sector platform [S116 @2026-11-16]. For Russia, use these terms, not the forum estimates above.
+
+- **An older file may be gone.** After a cut in storage terms in April 2021, files were destroyed in bulk, though a few regions sent them to the regional archive [S79]. So the cut-off moves forward every year, and the files of the earlier generation are usually gone [S106]. Ask for an older file anyway: single documents can survive, especially for war veterans who died in the 1990s [S104].
 
 **Death and inheritance (Russia).** The Federal Notarial Chamber's probate-case register (Реестр наследственных дел, notariat.ru) has run in the notarial information system since 1 July 2014 [S29]. It is an auxiliary index of opened inheritance cases, not a death record and not proof of kinship.
 
@@ -269,6 +341,8 @@ well as GARF's лишенец files.
   None of these relationships is confirmed until the files are checked.
 - **Do not search under a nickname alone.** Ask whether any document was issued in that name [S2].
 
+- **Search the press for a surname-change notice.** Under the 1918 decree, a citizen changing a surname applied to ZAGS and placed a paid newspaper notice, most often in «Известия», giving the old and new surname (a 1927 example also gives the birthplace and birth year); such notices ran until the late 1930s, and the change was registered about two months later if no interested person objected [S109]. A 1968 article cites 1930 «Известия» notices of whole families changing surname [S110], and a Dzen genealogist quotes notices asking objectors to write to the city ZAGS [S111]. Search the central and local papers of the likely years under both surnames: a notice links the two names with a date.
+
 ## 5. Log each catalogue hit as a candidate with its own locator
 
 - **One row per locator.** Keep every fond/opis/delo with its date range as a separate row, even when several rows probably belong to one person. Mark each row *title only* or *file inspected*. The six СОГАСПИ rows in step 3 are six requests, not one file [S2].
@@ -277,6 +351,9 @@ well as GARF's лишенец files.
 - **Privacy gate:** <!-- privacy-gate: request --> Requests for personal-file copies, archival certificates or kinship-proof certificates can concern people who may be living; answer the privacy gate in `SKILL.md` before sending each one.
 - **Request status is part of the row.** Note whether you asked for copies or only for an archival certificate (архивная справка). A participant noted that without proof of kinship you can still ask for the certificate, and that an older file may be released anyway [S2].
 - **Build a kinship-proof chain only from documents the user holds.** When an archive requires proof of kinship for a personal file, make each missing link (for example one generation's birth or marriage certificate) its own early request. It gates access to that file only; carry on with the other searches. In Russia the basis is Federal Law 125-FZ, Art. 25, Part 3: archival documents containing a citizen's personal or family secrets or private life are closed for 75 years from the document's creation, and before then open only with the person's written permission or, after death, that of their heirs [S32].
+
+- **List every link the chain needs.** A Dzen genealogist's list for ZAGS: your passport, your birth record and, if your surname changed, your marriage record; each generation's birth record up to the one that names the ancestor; a marriage record for each woman whose surname changed, and every marriage and divorce record when it changed more than once; and a death record for each dead link [S69]. For a collateral relative, such as a grandfather's sister, add her own birth, marriage and death records to the line of the common ancestor. Bring originals or certified copies, and if some records are missing, request them all at once: the clerk checks the whole chain together and issues them together, with a state fee for each [S112].
+- **A spelling break stops the chain.** When two birth records with the same parents spell the surname differently, ZAGS may refuse to treat them as one family. A Dzen genealogist reports a man refused his sister's death справка for this reason and told that their kinship had to be established in court, on an application and witness testimony [S113]; establishing kinship is one of the facts a court establishes under the Civil Procedure Code, Art. 264, Part 2, item 1 [S114]. Look for another record that proves the link before you plan on a court case.
 
 ## 6. Read questionnaires and autobiographies as dated self-reports
 
@@ -291,6 +368,8 @@ well as GARF's лишенец files.
   Keep each value with its record and date, and check it against independent sources. For the subject's own files after a confirmed loss, participants expect nationality and only sometimes the parents' names [S2]. The children's questionnaires in step 2 are the better route to the parents.
 - **Treat a regional list's place as one observation.** In one case a person had two extracts, one with a query mark on the village [S4].
 - **Read a birth date against both calendars.** An Orthodox metrical date, like other Russian dates written before 14 February 1918, is normally Old Style; check the document's own calendar note [S33]. A questionnaire may restate the metrical birth date in New Style, so a difference of 12 or 13 days is not by itself a conflict. Record both dates with their calendar; for the offsets, use [evidence/proof judgment: follow record versions and test disputed dates](evidence-proof-judgment.md#follow-record-versions-and-test-disputed-dates).
+
+- **Read a fact confirmed by witnesses as later testimony.** When work records were lost, the RSFSR pension law of 1990 let work service be established on the testimony of two or more witnesses (Art. 97) [S115]. A pension file can hold such a protocol: a Dzen author found a 1993 one confirming kolkhoz work of 1943–1944, and has seen applications to establish a correct date of birth («Об установлении правильной даты рождения») whose witnesses were the applicant's peers [S68]. Record the fact with the protocol's date and witnesses, not as a record made at the time.
 
 ## Output: personal-file register
 

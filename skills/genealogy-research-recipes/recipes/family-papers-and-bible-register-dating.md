@@ -11,21 +11,28 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 140}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 152}
 ---
 
 # Separate writing, mailing and event dates in family papers and Bible registers
 
-Use this recipe when a date, place or hand on an inherited letter, card, envelope, address book, family Bible register or inscribed book is about to go into a timeline, a tree or a proof argument. The common mistake is to read every date and place on these papers as an event fact: a postmark as the date of the news in the letter, a return address as a birthplace, the earlier entries in a Bible register as written when the events happened, the latest address-book entry as one dated snapshot, and an inscription in another copy of the same book as dating the family's copy. Each of these records something else: a mailing, the sender's address at that time, a later copying or recollection, a keeper's layered updates, or a different object.
+Use this recipe when a date, place or hand on an inherited letter, card, envelope, address book, diary, family Bible register or inscribed book is about to go into a timeline, a tree or a proof argument. The common mistake is to read every date and place on these papers as an event fact: a postmark as the date of the news in the letter, a return address as a birthplace, a diary entry's date as the date of the events it reports, the earlier entries in a Bible register as written when the events happened, the latest address-book entry as one dated snapshot, and an inscription in another copy of the same book as dating the family's copy. Each of these records something else: a mailing, the sender's address at that time, a later copying or recollection, a keeper's layered updates, or a different object.
 
 This recipe covers what these dates, places and hands establish, and how to record them so that writing date, event date and copy stay apart.
 
-- **Privacy gate:** <!-- privacy-gate: third-party-tool --> Images or text of letters, cards, address books and registers given to an AI tool may name living relatives and their addresses; answer the privacy gate in `SKILL.md` first.
+- **Privacy gate:** <!-- privacy-gate: third-party-tool --> Images or text of letters, cards, address books and registers given to an AI tool may name living relatives and their addresses, and so may images or text of diaries and journals; answer the privacy gate in `SKILL.md` first.
 - For reading or translating the handwriting with AI, use [AI for documentary records](ai-for-documentary-records.md), which treats AI readings as leads.
 - Cite each item, envelope, transcription and online copy with [source citation](source-citation.md).
 - Weigh a register entry against other records, and make identity rulings, in [evidence/proof judgment](evidence-proof-judgment.md).
 - To follow an address lead edition by edition, use [city-directory observations](city-directory-observation-workflow.md).
 - Item references, received provenance and imaging belong to the Family collection intake and capture recipe. A relative's account of who wrote or kept something is gathered in the Family interviews and oral tradition recipe. Photographs found in a Bible or with cards go to the Family photograph attribution and dating recipe.
+
+## Contents
+
+- Letters and address records
+- Diaries and journals
+- Family books and Bible registers
+- Return
 
 ## Letters and address records
 
@@ -48,6 +55,14 @@ This recipe covers what these dates, places and hands establish, and how to reco
 6. **Treat listed people as associate leads, not established kin.** One presenter says you have to work out who is a friend and who is family [S4]. Another says people appear in the book because of some relationship, whether or not they are related [S5].
 
 7. **Read a funeral guest book as a dated list of associates.** For a recent relative, look among the family papers for the book from the visitation or service; relatives may keep a copy with their own papers [S29]. List every signer as someone who attended and so knew the deceased or the family, as a co-worker, neighbour, friend or relative [S29], [S30], and keep any city written beside a name as that signer's residence lead [S29], [S31]. Treat signers as associate leads, not kin. Signers of a recent book may be living: keep their names and residences in private notes (Living people, in `SKILL.md`).
+
+## Diaries and journals
+
+The presenter in [S32†] checks diary material for what it reports, whether it was edited, and whether the writer recorded each event that day or long afterward (reviewed from transcript excerpts; the video itself was not inspected). Keep the results apart: editing and copying decide the source's class, while the time gap and the writer's knowledge decide the weight of the information [S33].
+
+1. **Name the version you are reading: the writer's manuscript, the writer's own rewrite, a transcript or extract, or a published edition.** Only the first manuscript is the original record; a transcript, extract, translation or published edition is derivative [S33]. Treat the writer's rewrite as a later version too. Editors and writers both drop and add text. Charles Nash's 1904 history of Augusta printed about a third of Martha Ballard's diary, blanked out a judge's name in one entry and cut other entries entirely [S34]. From 20 May 1944 Anne Frank rewrote a large part of her diary for a planned book, leaving out passages and adding detail [S35]. Compare an entry with the manuscript before relying on it. When no manuscript is found, record the entry as known only from that version.
+2. **Read an entry's date as its stated writing date, not as the date of the events it reports.** Give each reported event its own date, or mark it undated, and record the gap from the entry date. Text found only in a rewrite dates from the rewrite, whatever entry date heads it: Anne Frank's rewritten entry of 9 July 1942 mentions people on their way to work, a passage her first diary does not have [S35].
+3. **Weigh a late recollection; do not reclassify it as derivative.** An entry that first records an event the writer witnessed long before is still an original record, and its information is primary: the gap can lower the quality of the recollection but does not change its class [S33]. What the writer only heard about is secondary information, however soon it was written down [S33].
 
 ## Family books and Bible registers
 
@@ -89,6 +104,11 @@ In [S11], the family copy's title page carried no date, and the work was first p
   - cancellations recorded without a reason
   - listed people recorded as associate leads
   - relatives' explanations attributed to them
+- **For each diary or journal:**
+  - the version read (manuscript, writer's rewrite, transcript, extract or published edition), with its editor or transcriber
+  - whether entries were compared with the manuscript, or no manuscript was found
+  - per entry: the entry date, each reported event with its own date or marked undated, and the gap between them
+  - for each event, whether the writer witnessed it, heard of it, or this is undetermined
 - **For each register:**
   - every dated page and the publisher's address, and the printing date taken from them
   - whether the register leaves belong to this book, do not, or are unresolved

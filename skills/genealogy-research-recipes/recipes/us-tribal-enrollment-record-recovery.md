@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "evidence-proof-judgment", "family-interviews-a
 checked: "2026-11-13"
 checked_basis: "read 2026-11-13"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 105}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 112}
 ---
 # Find a claimed Native American ancestor on the right tribal roll, and read what the roll proves
 
@@ -76,6 +76,8 @@ Each roll was made for its own purpose, with its own eligibility test. A person 
 - **For an ancestor of a tribe outside the Five Tribes, do not search the Dawes Rolls.** They hold only the five tribes above. Each tribe sets its own enrollment rules and its own base roll [S18], [S10], and a present-day tribe can still require Dawes descent, as the UKB does (step 6).
 - **Do not treat the three Cherokee tribes as one.** The Cherokee Nation, the Eastern Band and the United Keetoowah Band each have their own citizenship rules and base roll [S5], [S20], [S21], [S22].
 
+For Alaska Native census leads, use FamilySearch’s Alaska, Village Census Rolls collection page to identify the relevant items. It describes BIA census material supplied by Sealaska Heritage Institute Archives, but its title says 1912–1978 while its description says 1919–1972. Record the village and year from the individual item and retain the conflicting collection-page spans in the coverage log; neither span establishes complete village-by-year coverage. [S33 @2026-11-16], [S35 @2026-11-16]
+
 ## 3. Find who holds the record now
 
 - **Privacy gate:** <!-- privacy-gate: request --> A request to a tribe's enrollment office, a BIA agency or a National Archives facility sends the family's names and lineage, and enrollment and agency files can name people who are still living. Answer the privacy gate in `SKILL.md` before you send it.
@@ -88,6 +90,10 @@ Then ask the people who hold the records:
 - **Ask the tribe's enrollment office.** Each tribe manages its own enrollment, so contact its office directly [S10].
 - **Ask the agency that holds the official record early, not last.** One family spent months on probate, deed, mortgage and guardianship searches. Then the Osage Agency BIA office answered the question in one visit [S13].
 - **Read agency microfilm page by page.** Some agency microfilm is narrative, not a name list, so read through the images instead of expecting a name index [S3].
+
+Use NARA’s state-by-state BIA guide to identify the agency that served the tribe, place and period. The Arizona guide lists agencies, their jurisdictions and holding routes. Carry the agency name, covered years and listed facility into the catalogue search, instead of treating all RG 75 material as one statewide name index. [S27 @2026-11-16], [S28 @2026-11-16]
+
+For Alaska series that cross 1931, search the creator history under both the Alaska Division of the Office of Education and the Bureau of Indian Affairs. The division transferred to the BIA on 14 March 1931 under Secretary’s Order 494. Record the creator and dates from the series description, then take the holding facility from the catalogue’s custody information. [S33], [S34]
 
 ## 4. Read a Dawes entry through the card and the application
 
@@ -126,6 +132,10 @@ Then ask the people who hold the records:
   - Before an application, confirm the current rule with the enrollment office.
 - **Do not offer DNA as proof of membership.** The BIA says DNA tests will not document descent [S18]. The Cherokee Nation does not accept DNA results [S20], and EBCI accepts DNA only for parentage [S21].
 - **A BIA payment or an inherited tribal asset is not proof of descent.** In the Osage case, a family's headright share came from a relative who bought it in 1952 from a non-Osage man. He had inherited it from his Osage wife [S13].
+
+For an adopted person’s local document checklist, use the current Cherokee Nation packet. The packet checked on 16 November 2026 requires a certified final adoption decree and a state-certified full-image birth certificate after adoption; it also requires the petition if the decree omits the birth parents. Use those papers’ parentage statements to document the biological Dawes line, keeping the adoptive relationship in its own role. [S29 @2026-11-16], [S30 @2026-11-16]
+
+Read CDIB blood degree as a documentary fraction based on official-roll ancestry, not a laboratory measurement of someone’s DNA. Keep the roll ancestor, recorded degree and each documented descent link with the fraction. Do not substitute a consumer genetic-ancestry percentage for that calculation, or import one tribe’s citizenship rule into another. [S29 @2026-11-16], [S31 @2026-11-16], [S32 @2026-11-16]
 
 ## 7. Write the finding as a roll-by-roll result
 

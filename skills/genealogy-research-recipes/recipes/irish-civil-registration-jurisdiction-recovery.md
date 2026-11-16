@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 80}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 86}
 ---
 
 # Recover an Irish civil-registration certificate and its jurisdiction chain
@@ -54,6 +54,12 @@ From the index entry, copy these fields exactly: year, quarter (from 1878 only),
 - **Page through every result.** Do not stop at the first page of index hits. In the presenter's example, the target was on the second page. [S1]
 
 Where the actual search expands name variants only for the primary party and treats the second-party name literally, rerun the marriage search with the parties exchanged, even after a plausible hit. [S5]
+
+**Marriage spouse lists.** MyHeritage's Ireland Marriages, 1845-1958 index gives the bride and the groom separate entries. [S11 @2026-11-16] It then links every name indexed under the same reference, so an entry's potential spouses are everyone on that register page, not the confirmed spouse (collection page as captured 19 July 2026). [S12 @2026-11-16] Do not record a potential spouse as the spouse. Search each party under their own name, pair two entries only when their locators agree, and take the spouse from the register entry.
+
+**Marriages after the IrishGenealogy.ie range.** The MyHeritage index covers all 32 counties from 1845 to 1921 and the Republic of Ireland to 1958. [S12 @2026-11-16] FamilySearch's Ireland, Civil Registration Indexes, 1845-1958 also indexes marriages to 1958 and leaves out Northern Ireland from 1922. [S13 @2026-11-16] For a Republic marriage later than the last year IrishGenealogy.ie shows, search one of these indexes before reporting the index as silent. Neither includes Northern Ireland after 1921.
+
+**Privacy gate:** <!-- privacy-gate: request --> A marriage still inside the 75-year release limit below can name people who may be living. Answer the privacy gate in `SKILL.md` before ordering its certificate; until the certificate is inspected, the index entry stays a lead.
 
 **Coverage.** Civil registration of non-Catholic marriages began in 1845. Registration of all births, deaths and marriages began in 1864. [S1] IrishGenealogy.ie releases records under a 100/75/50-year rule (births older than 100 years, marriages older than 75, deaths older than 50) and adds about one more year each year. Work out the current cutoff for the event type before you report a search as complete.
 

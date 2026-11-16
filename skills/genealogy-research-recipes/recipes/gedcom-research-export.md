@@ -11,7 +11,7 @@ handoff: ["descendancy-gap-worklist", "evidence-proof-judgment", "familysearch-p
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "upload"], "contact": []}
-router: {"section": "Research method", "group": "Family trees and research planning", "order": 11}
+router: {"section": "Research method", "group": "Family trees and research planning", "order": 13}
 ---
 
 # Export research findings to a GEDCOM file without changing what they prove
@@ -128,6 +128,18 @@ A supplied `QUAY 3` and a source title or research note saying "unverified" are 
 - **Privacy gate:** <!-- privacy-gate: export --> A copy prepared for sharing carries tree data that may include living or possibly living people out of the user's own files; answer the privacy gate in `SKILL.md` before handing it over.
 - **Apply the living-person rules to a copy prepared for sharing.** Put a living or probably living person into it only with that person's explicit permission for the destination. Without that permission, leave the person out completely: their INDI record; every pointer to them in a FAM record, with the marriage and other events of a couple they belong to; any FAM record left empty; and the notes, citations and media about them. Redaction does not replace permission: a person kept under a placeholder name, without dates, or as a nameless spouse or child in a family record still appears, with their relationships. Also leave out private notes and attachments the user did not choose to share. Writing a local export publishes nothing; do not upload the file or its attachments anywhere the user did not choose.
 - **Report what was not checked.** Give the file path, the version and the material limits of the transfer.
+
+**Inspect the whole sharing copy, including people outside its person records.** Follow this
+section's conformance check for continuation lines before searching reconstructed text. Inspect all text values:
+source titles, authors, publication details and citation text (`SOUR` `TITL`/`AUTH`/`PUBL`/`TEXT`),
+notes, media filenames and titles (`OBJE` `FILE`/`TITL`), and submitter or repository contact
+details (`SUBM`/`REPO`). Open the included images and attachments too. Look for informants,
+letter writers and correspondents who may be living even though they have no `INDI` record;
+search their known name forms and inspect references to them by relationship. Apply the same
+permission and complete-omission rule to their information. Keep every other historical citation
+in the sharing copy. Retain exact private citations and omitted material in the unchanged
+private original, and list withheld items under the packet's **Sharing** row using descriptions that do not repeat
+the private details. Renaming a file does not make its contents ready to share.
 
 ## 9. When the destination rejects the file or replaces a tree
 

@@ -18,9 +18,15 @@ the presenters' romanized readings of names; the 1104 founder
 date and the 95% placement; the placeholder-wife convention. The exact Western day of the
 Tongzhi example is not adopted until it is checked in a conversion table.
 
+## Additional sources checked 2026-11-16
+
+- **S11:** Chinese Lunar New Year, [Chinese Lunar New Year](https://www.pricegen.com/chinese-lunar-new-year/), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope.
+- **S12:** FamilySearch, Understanding Chinese Lunar Dates, [FamilySearch, Understanding Chinese Lunar Dates](https://www.familysearch.org/en/chinese/research/lunar-dates), opened 2026-11-16. Read the year-month-day order, the 12-year animal cycle and lunar years whose boundaries differ from Gregorian years; no particular recalled year was converted.
+
 ## Credits
 
 - Kinprove original procedural synthesis drawing on BYU Family History Library presentations by Franklin West, Clotilde Yap and Matthew Tyler (cited as S1–S5) — FSL-1.1-MIT (kinprove-original)
 - Kinprove original summary of facts checked against FamilySearch Jiapu Search and Help Center pages, the Library of Congress Pinyin conversion table, reference articles on the Tongzhi era and the Siyi counties, a UBC Rare Books and Special Collections record, the Vancouver Public Library Chinese-Canadian genealogy guide and a Sixth Tone report — FSL-1.1-MIT (kinprove-original)
 - S1: Franklin West, Beginning Chinese Research, BYU Family History Library, YouTube, published 2023-10-26 — Standard YouTube License; short quotation with attribution (quoted)
 - Kinprove original summaries and retrieval safeguards grounded in official NARA, FamilySearch, National Library of China and Palace Museum references S6–S10; no records, book images or source passages reproduced — FSL-1.1-MIT (kinprove-original)
+- Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)

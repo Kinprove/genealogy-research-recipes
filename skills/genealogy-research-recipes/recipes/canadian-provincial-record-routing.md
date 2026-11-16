@@ -11,7 +11,7 @@ handoff: ["canadian-census-interpretation", "catholic-parish-diocesan-record-rec
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 118}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 129}
 ---
 
 # Route a Canadian vital, military or Indigenous-series record to its province, custodian and access category
@@ -27,6 +27,16 @@ Link out for the shared steps:
 - **The same coverage-register idea for U.S. states:** [U.S. vital-registration coverage](us-vital-registration-coverage.md).
 - **A locality you cannot place in its province or county on the event date:** [historical place-name resolution](historical-place-name-resolution.md).
 - **Identity rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
+
+## Contents
+
+- Inputs to gather first
+- 1\. Fix the province and its coverage row for the event
+- 2\. Read a miss against the coverage row
+- 3\. Route a military personnel file by war and access category
+- 4\. Search Métis and First Nations series by series, not by name index
+- 5\. Trace a British Home Child through the party and the agency
+- Close with a routing packet
 
 ## Inputs to gather first
 
@@ -75,6 +85,10 @@ Gather these before searching:
   - **Survived the war:** the file is closed. Request it through an ATIP (access to information or privacy) request. LAC requires proof of death, or the consent of the person if still alive [S7].
 - **Record the category and the request route** in the packet. "Not online" for a survivor's file is the access rule, not a loss.
 
+- **Open the LAC entry even when you already hold an attestation paper.** The service file of a man who served holds one copy of his attestation paper, and most entries have two digitised items: the service file as a PDF and the attestation paper as a JPEG [S6 @2026-11-16]. An attestation paper from another site is one document of the file, not the file.
+
+- **For an American volunteer, search under other names and birthplaces.** A 2022 community live stream traced American volunteers in the CEF through their attestation papers [S13] (only a transcript excerpt was read). The United States did not allow its citizens to join another country's army, and some American volunteers gave a false name and place of birth [S6]. Search every alias and birthplace the family reports, not only the real name and a U.S. birthplace, before you call the file missing.
+
 ## 4. Search Métis and First Nations series by series, not by name index
 
 - **Métis scrip: read the application for parents and birth details.** Scrip applications give dates and places of birth and the names of parents, children and spouses, and are filed alphabetically within several Department of the Interior (RG 15) series [S12]. Search the scrip series directly rather than relying on a name-index miss.
@@ -97,7 +111,7 @@ Return:
 
 - **Coverage rows:** for each province searched, the start date, gaps, archive cut-off per event type with the date read, and the office for later years.
 - **Search rows:** each index, series or image set searched, the years it covers, the result (found, not found, outside coverage, restricted) and the locator.
-- **Military rows:** the war, the force, the access category (CEF online, WWII open war dead, WWII closed survivor) and, for a closed file, the ATIP request and the proof of death or consent it needs.
+- **Military rows:** the war, the force, the access category (CEF online, WWII open war dead, WWII closed survivor) and, for a closed file, the ATIP request and the proof of death or consent it needs. For an American CEF volunteer, add every name and birthplace searched.
 - **Indigenous-series rows:** the series and finding aid searched, the band, any band or ticket number found, and any restricted years.
 - **Home Child rows:** the agency, the party code, the ship and arrival date, and the agency record request.
 - **Gaps:** registration gaps such as Nova Scotia 1877–1908, years past a cut-off, and restricted series.

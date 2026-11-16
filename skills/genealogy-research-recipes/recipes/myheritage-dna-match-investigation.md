@@ -10,8 +10,8 @@ guardrails: [{"id": "MYHERITAGE-DNA-MATCH-INVESTIGATION-01", "text": "Save empty
 handoff: ["ai-for-dna-research"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 22}
+capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "third-party-tool"], "contact": ["contact"]}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 25}
 ---
 
 # Recipe: MyHeritage DNA match investigation playbook
@@ -209,6 +209,61 @@ Genealogy, 2023-07-28 [S20]; Legacy Tree, 2019-06-04 [S21]), and two sisters can
 same position (Perl, DNA Painter blog, 2021-07-28 [S22]). Move an unassigned cluster to the other
 side only through an anchor from that side. Workflow 5's provisional other-side group is narrower:
 it holds matches that overlap the anchor's own shared segment.
+
+### Record cM Explainer predictions in their direction and full range
+
+Copy a predicted relationship in the direction MyHeritage gives it: the label says what the match
+is to the tested person, so "Aunt" means the match is the tester's aunt, not the reverse
+[S26 @2026-11-16]. Keep a directional label as written, such as "parent's first cousin" or "first
+cousin's child", rather than collapsing it to "first cousin once removed" (MyHeritage blog,
+2023-03-02 [S27 @2026-11-16]). The top label is one estimate among several. Clicking it on the
+match card opens every estimated relationship with its probability, while Review DNA Match →
+Possible relationships lists only the top four until you click Show more relationships plus
+diagram, which adds the less likely ones and their paths [S26 @2026-11-16], [S28 @2026-11-16].
+Open the full list before recording that a relationship is not among the predictions.
+
+Before adding or comparing probabilities in the diagram, set its top-right drop-down to all
+relationships: only then do the probabilities total 100%, and a full-only or half-only view hides
+the rest [S26 @2026-11-16]. The MRCA-probabilities checkbox gives the overall probability that the
+pair shares each possible most recent common ancestor. That ancestor's generation is named relative
+to the tested person; the same couple can sit further back in the match's tree, for example as
+great-great-grandparents where the tester's label says great-grandparents, so do not assume the
+same generation on the match's side [S26 @2026-11-16].
+
+Read the explanation below the list before trusting its order: it says whether both ages, one or
+neither informed the prediction, and predictions are most accurate with both [S26 @2026-11-16].
+The ages come from the dates of birth on file for the kits. MyHeritage says a missing, year-only or
+wrong date of birth, a kit assigned to the wrong profile, or a wrong gender on a profile can give
+the wrong label, show both "Father" and "Son", or swap aunt and uncle or mother and father labels
+[S28 @2026-11-16]. Record which ages were used. When one is missing or doubtful, record the whole
+list rather than the top label, and check the tester's own profile as in workflow 1.
+
+Read the probabilities as estimates for a single line of descent. MyHeritage's 2023 introduction
+says cM Explainer assumes neither endogamy nor pedigree collapse, though DNA shared through several
+common ancestors raises the cM above what one relationship gives (MyHeritage blog, 2023-03-02
+[S27 @2026-11-16]). Its April 2023 update adjusts only for Ashkenazi Jewish ethnicity, only for
+matches under 200 cM, and not in the standalone tool, which has no ethnicity data (MyHeritage
+blog, 2023-04-24 [S29 @2026-11-16]). For other endogamous communities, pedigree collapse or a
+known double relationship, expect the top predictions to be too close, read the more distant
+entries too, and take the analysis to DNA research judgment.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Entering another company's match
+measurement, or an age a match gave you privately, sends a living person's DNA and age data to
+MyHeritage's tool; answer the privacy gate in `SKILL.md` first.
+
+When a date of birth is doubtful, get a DNA-only reading: MyHeritage's help says to open cM
+Explainer and enter the cM value without ages [S28 @2026-11-16]. Its standalone page,
+myheritage.com/cm, takes the shared cM and, optionally, both ages, and also serves pairs tested at
+other companies (MyHeritage blog, 2023-03-02 [S27 @2026-11-16]; Mohler, Your DNA Guide,
+2023-03-02 [S30 @2026-11-16]). Enter numbers only, never names or kit identifiers.
+
+**Privacy gate:** <!-- privacy-gate: contact --> Asking a match for their age contacts a living
+person; answer the privacy gate in `SKILL.md` first.
+
+If a match's age is missing or marked private and the question needs it, ask the match in
+workflow 8's approved message, as the 2023 introduction suggests for a match you are in touch with
+[S27]. Record the answer as the age the match reported, with its date. Do not look up a match's
+age or date of birth anywhere else.
 
 **Output:** a triplet record with pair-labeled measurements and one concrete next comparison.
 

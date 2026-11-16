@@ -10,8 +10,8 @@ guardrails: [{"id": "US-20TH-CENTURY-MILITARY-SERVICE-RECONSTRUCTION-01", "text"
 handoff: []
 checked: "2026-10-26"
 checked_basis: "checked 2026-10-26"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 109}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 116}
 ---
 
 # Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction
@@ -46,6 +46,12 @@ An archival file is public, so no release is needed ([NARA, archival OMPF reques
 
 **Privacy gate:** <!-- privacy-gate: request --> A personnel-file request sends the veteran's identity and, for a non-archival file, a signed authorization and any proof of death; the veteran may be living, so answer the privacy gate in `SKILL.md` first.
 
+For proof of death, send one of NARA's examples: a copy of the death certificate, a letter from the funeral home or a published obituary [H3 @2026-11-16], [S42 @2026-11-16].
+
+**Privacy gate:** <!-- privacy-gate: contact --> Seeking the authorization for the rest of a non-archival file means asking the veteran, who may be living, or his next of kin to sign a release for the user's request; answer the privacy gate and follow Living people in `SKILL.md` before contacting them.
+
+Without the veteran's or next of kin's consent, NPRC releases only limited information from a non-archival file [S43 @2026-11-16], [S42 @2026-11-16]. NPRC's FOIA page gives examples of what may be released: name, service number, dates and branch of service, final duty status, final rank, assignments and geographical locations, military education level, award eligibility (not the medals), photograph, court-martial trial transcripts, and place of entrance and separation. For a deceased veteran it adds place of birth, date and place of death, and place of burial [S44 @2026-11-16]. Log such a reply as a limited release, not as the file and not as a thin file. Use its assignments and dates to choose unit records, and seek the authorization above for the rest.
+
 Request routes: NARA's online request system, eVetRecs ([vetrecs.archives.gov](https://vetrecs.archives.gov/)); Standard Form 180 (SF-180) by mail; an in-person visit to St. Louis by appointment; or an independent researcher ([NARA](https://www.archives.gov/personnel-records-center/military-personnel/morning-reports-and-unit-rosters); [S11]). eVetRecs is not limited to the family. A requester who is neither the veteran nor his next of kin chooses "Other", and every user verifies identity through ID.me ([NARA, eVetRecs help](https://www.archives.gov/veterans/military-service-records/evetrecs-help.html)).
 
 Ignore loose fire dates. One presenter said "1979" [S16], and another was unsure of the custodian's name [S20]. Cite NARA's own description instead.
@@ -60,6 +66,9 @@ Name each product in the request, and log the product returned and its page coun
 - **Burnt (B) file:** a file that survived with fire or water damage, listed in NPRC's B-file registry. The presenter says the custodian may scan and email it rather than show the original [S9].
 - **Reconstructed (R) file:** assembled after the fire from alternate sources: VA claim files, final pay vouchers, state records, Selective Service records, hospital records and organizational records ([NARA](https://www.archives.gov/personnel-records-center/fire-1973)). The presenter adds that veterans were asked to send in copies of their discharge papers [S9]. Expect only a few pages [S9].
 - **Auxiliary file:** ask for it by name when the OMPF is lost, and expect it to be minimal. One example is a final pay voucher giving name, service number, and dates and character of service ([NARA, other records](https://www.archives.gov/st-louis/other-records)). Strauss adds rank, last duty station, last unit, pay and overseas status, all from the man's last period of service [S9]. His own WWI request returned three pages: a final pay roll naming the man with other men of his unit [S11]. Log the product under the label the custodian puts on it.
+
+- **Officer pay card:** for an Army officer, also ask for his pay card. NARA St. Louis holds Army officer pay cards for 1917–1921 and 1940–1951 [H5 @2026-11-16], [S42 @2026-11-16]. A WWII officer's card can give his serial number, grade, branch, dependents, date he entered and place he was ordered to active duty, years of service, mailing address, prior enlisted service, promotions, and the date and authority of his relief from active duty. These are archival records: NARA takes written requests by mail, fax or email and needs no veteran's or next-of-kin signature for copies [S45 @2026-11-16].
+- **Other auxiliary series:** NARA St. Louis also lists Army Surgeon General's Office admission records (about 7.8 million hospital or treatment-facility admissions: 1942–1945 for the Army and Army Air Corps, and Army records listed as "1950 and 1954") and VA index cards for 1917 to 19 September 1940 and for 20 September 1940 to January 1972 [H5 @2026-11-16], [S42 @2026-11-16]. Its holdings page gives no access route for these series, only "Check back later for more information". Name each series in the auxiliary request, log each reply as its own product, and keep an unanswered series open. An admission record shows health status: treat it as sensitive data under the privacy gate. The earlier VA cards' span matches the VA Master Index on FamilySearch (below); search there first.
 
 Before choosing final pay as a substitute, distinguish a discharge from an in-service
 death. NARA's 2023 presentation says a final pay voucher required discharge: a person
@@ -92,6 +101,8 @@ Copy the character of discharge exactly as written, and read the discharge paper
   - Iowa: [Iowa, World War I Bonus Applications, 1922–1954](https://www.familysearch.org/en/search/collection/5000051) (State Historical Society of Iowa; the applications are indexed on FamilySearch).
   - Washington: [Washington, World War I Veteran's Compensation Fund Application Records, 1921–1925](https://www.familysearch.org/en/search/collection/1878898) (Washington State Archives; on FamilySearch).
   - Use: the state holds these files, so they can supply a dated residence and service details when the OMPF burned in 1973. Cite the state custodian and series, not the federal one.
+
+- **BIRLS entry:** Reclaim The Records describes each entry as giving name, birth and death dates, branch of service, and enlistment and release dates [S48]; MyHeritage's 2025 release of the same index, *United States, Deceased Veteran Benefit Claims*, described the same date fields [S47]. When the OMPF burned, use these dates to bound the auxiliary, unit-record and claim-file requests. Log them as an index entry, not as a discharge document.
 
 ### A separate Army or Air Force court-martial trial file
 
@@ -191,6 +202,8 @@ For WWII, the draft records in Record Group 147 cover men only. The Fourth Regis
 
 ## Place him with unit records without giving him the unit's events
 
+An OMPF is primarily an administrative record. NARA states that it does not contain detailed information about the veteran's participation in battles and engagements [S46]. Do not read the file's silence about a battle as evidence that he was not there; take engagements from the unit records below and log them as unit context [S42].
+
 With a service number and unit, get the morning reports and after-action reports covering his dates. Morning reports and muster rolls are unit records that were not part of the OMPF, and the fire did not touch them [S10], [S16].
 
 Check whether the selected morning-report series and period record personnel changes rather
@@ -204,6 +217,10 @@ on one day then does not show that the man was absent from the unit.
 - **Offline access:** for archival Army morning reports (1912–1968), NPRC does not take written requests. Read them in person at St. Louis by appointment, or hire an independent researcher. Mail and fax requests apply only to non-archival 1969–1974 reports ([NARA](https://www.archives.gov/personnel-records-center/military-personnel/morning-reports-and-unit-rosters)).
 - **Personal entries:** promotions and furloughs, dated to the day [S16]. Log only entries that name him.
 - **Unit context:** movements, incidents and after-action detail [S16]. An after-action report corrected a family memory of an incident's date (Christmas Day versus Christmas Eve) [S16]. Note that it dates the unit's incident, not his part in it.
+
+- **Privacy gate:** <!-- privacy-gate: request --> Morning reports and unit rosters name the men of a unit, and the Air Force reports to 1966 and the 1969–1974 Army reports and rosters may concern living people; answer the privacy gate in `SKILL.md` before requesting them or briefing a researcher.
+- **Unit rosters:** Army unit rosters, which include the Army Air Corps and Army Air Forces, follow the same split. Rosters for 1912–1968 are archival: no written requests, and NARA does not mail copies of the microfilmed rosters. Rosters for 1969–1974 are requested on a signed, dated SF-180 by mail or fax. The 1944–1946 Army rosters were destroyed; do not request them, and do not log their absence as a finding about him [H4 @2026-11-16], [H5 @2026-11-16], [S42 @2026-11-16].
+- **Air Force:** a WWII airman's unit reports are in the Army morning reports, which include the Army Air Corps and Army Air Forces. Separate Air Force morning reports run from September 1947 to 30 June 1966 [H5 @2026-11-16], [S42 @2026-11-16]. All Air Force morning reports are archival, so the same in-person or researcher route applies; NARA takes no written requests for them [H4 @2026-11-16].
 
 If he served in the Navy, Army morning reports and AAD's WWII Army enlistment file do not cover him; his unit records are the muster rolls of each ship and station he passed through. A muster roll records the date a man reported on board or for duty. The personnel diaries, the Navy's equivalent of the Army's morning rosters, record reporting to and transfer from the activity. For 1939–1956 the rolls list enlisted men only; for an officer serving aboard a commissioned ship, use that ship's deck logs [S35 @2026-11-12]. NARA's muster-roll page points to the Ancestry collection *U.S. World War II Navy Muster Rolls, 1938–1949* [S36 @2026-11-12]. Log each "received" and "transferred" entry with its roll and month as a dated row, then add the Notice of Separation and the discharge certificate. One account rebuilt a sailor's 1945–1946 moves through a training center, a naval hospital and a carrier this way [S37 @2026-11-12]. The rolls are not daily lists, so a gap between two entries does not place him anywhere [S35 @2026-11-12].
 
@@ -256,5 +273,7 @@ Deliver three things:
 1. **Register:** one row per product (OMPF/B/R/auxiliary, separate court-martial trial file, burial case file/IDPF with its custodian, VA C-file, VA Master Index card, BIRLS, AAD enlistment record, compensation file, state bonus file, headstone application both sides, Guard records per state, county discharge, state WWI questionnaire/Gold Star packet, morning/after-action reports, award GO, transport lists, unit histories). Each row gives custodian, access status, release used, date requested and result (including page count, refusal, summary-only reply, appeal or pending). For a state questionnaire packet, also retain its subject, collection inclusion rule, family informants and the received page/image extent.
 2. **Dated timeline:** three marked columns: personal entries, unit-level context and derivative annotations.
 3. **Negative searches:** each with its scope (database, name form, branch, state, date range).
+
+Also give the officer pay card, each other auxiliary series named and unit rosters their own register rows; a result can also be a limited release.
 
 A pending or refused request stays open. Do not fill the gap with unit history.

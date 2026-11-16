@@ -11,12 +11,12 @@ handoff: ["galicia-bukovina-habsburg-record-routing"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Germany", "order": 72}
+router: {"section": "Records by country and region", "group": "Germany", "order": 77}
 ---
 
 # Route a German soldier to the military series that survive for his period, army and rank
 
-Use this recipe before you send anyone to look for a German soldier's personnel file. It applies when a church entry, address book, gazette, casualty list, memorial or grave register calls an ancestor a soldier, NCO or officer. First classify the man by period, army and rank class. Then search only the series that survive for that combination. A regimental canton, a gazette notice or a casualty-list line is a lead with limits. None of them is a birthplace, a death date or an identity.
+Use this recipe before you send anyone to look for a German soldier's personnel file. It applies when a church entry, address book, gazette, casualty list, memorial or grave register calls an ancestor a soldier, NCO or officer, or a family account calls him a "Hessian" of the American Revolution. First classify the man by period, army and rank class. Then search only the series that survive for that combination. A regimental canton, a gazette notice or a casualty-list line is a lead with limits. None of them is a birthplace, a death date or an identity.
 
 For using address books to bound a death window, use [city-directory observation workflow](city-directory-observation-workflow.md). For keeping loss, burial and administrative dates as separate episodes, the closest model is [Russian military and repression record episodes](russian-military-repression-record-episodes.md). For any ruling that two entries are or are not the same man, use [evidence/proof judgment](evidence-proof-judgment.md).
 
@@ -27,6 +27,7 @@ For using address books to bound a death window, use [city-directory observation
 - 3\. Imperial officers, active or retired: gazette, chronicle, then a death window
 - 4\. First World War casualty lists and memorials: check for a namesake, then check the script
 - 5\. Wehrmacht: personnel and loss documents first, then unit records
+- 6\. German auxiliaries in the American Revolution (1776–1783): establish the contingent, then search HETRINA
 - Output
 
 ## 1. Classify the man before choosing a series
@@ -37,9 +38,11 @@ Record three things, each with the document that supports it:
 - **Rank class:** enlisted or NCO, or officer. The surviving series differ sharply between the two. Do not merge the routes.
 - **Army or state:** Prussian, another German state, Austro-Hungarian and so on. Take the regiment's name and number exactly as the entry gives them, for example "Kürassier-Regiment Nr. 10 (Gensdarmes)" [S2].
 
+A further period is German auxiliary troops in British service in America (1776–1783).
+
 A retired officer who died before or during the First World War belongs in the Imperial-officer route [S1]. If he could have been alive in August 1914, also open a casualty-list row until service evidence settles whether he was reactivated. If the period or rank class is uncertain, open one row for each possibility. Do not pick one.
 
-**Scope of this recipe.** The routes below cover six combinations:
+**Scope of this recipe.** The routes below cover seven combinations:
 
 - Old-Prussian enlisted men and NCOs
 - Imperial Prussian officers, active or retired
@@ -47,12 +50,13 @@ A retired officer who died before or during the First World War belongs in the I
 - First World War hospital-book episodes where the selected holding confirms coverage
 - Wehrmacht soldiers
 - Old-Prussian military church books for all ranks
+- Hesse-Cassel, Hesse-Hanau and Waldeck soldiers in America, 1776–1783 (§ 6)
 
 There is no route here for:
 
 - Old-Prussian officers
 - Imperial enlisted men in peacetime
-- full routes for personnel records of armies other than the Prussian one (for First World War rolls, see the list below)
+- full routes for personnel records of armies other than the Prussian one (for First World War rolls, see the list below; for the American Revolution, § 6 covers only the three contingents named above)
 
 Do not reuse the Prussian loss findings for those armies. Give each such man a row marked *route not covered here*. Find out which archive holds that state's records before you record any series as destroyed or searched. For Austro-Hungarian service of men from Galicia and Bukovina, see [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md), steps 5 to 8.
 
@@ -166,6 +170,33 @@ survives before you record the route as destroyed.
   - The candidate places tested gave no baptism or birth entry [S4]. They were an Upper Silesian Josefsdorf, three places named Josefsdorf in West Prussia, and four places named Józefin in present-day Ukraine.
   - List each candidate place you tested and its result.
 
+## 6. German auxiliaries in the American Revolution (1776–1783): establish the contingent, then search HETRINA
+
+Use this route when a family account or a later record makes a man a "Hessian" who served with the British in America. A 2022 genealogy live stream, known here from transcript extracts that were not verified against the video, worked such a case: the presenter went to HETRINA first, pointed to the Schwalm collection and a list of Hessians who stayed in America, and used the man's capture to test a family's Virginia link [S22†].
+
+- **Establish the contingent first.** Six principalities supplied troops to Britain: Hesse-Cassel, Brunswick-Wolfenbüttel, Hesse-Hanau, Ansbach-Bayreuth, Waldeck and Anhalt-Zerbst. Their men were all called Hessians, whatever their state of origin [S25]. Take the contingent from a record that names his regiment, not from the family's label. If no record names it, open one row per possible contingent (§ 1).
+
+- **Search HETRINA for Hesse-Cassel, Hesse-Hanau and Waldeck men.** HETRINA (*HEssische TRuppen IN Amerika*) records the men of those three contingents by name, with biographical and source details for each. It is searchable online as a module of the Landesgeschichtliches Informationssystem Hessen (LAGIS), linked from the Hessisches Landesarchiv's genealogy pages [S23 @2026-11-16]. The module holds records on about 30,000 soldiers who served in America in 1776–1783 [S24 @2026-11-16]. Its printed edition is the series *Hessische Truppen im amerikanischen Unabhängigkeitskrieg* [S26 @2026-11-16]. Record each entry with the source references it gives.
+
+- **Read a HETRINA miss narrowly.**
+  - HETRINA does not cover Brunswick, Ansbach-Bayreuth or Anhalt-Zerbst men. Give such a man a row marked *route not covered here*. The FamilySearch Wiki article on Hessian soldiers lists separate name lists for those contingents and calls the Anhalt-Zerbst list incomplete [S25 @2026-11-16].
+
+  - HETRINA was cut down to what fitted an 80-column punch card, mostly from the regiments' monthly lists (*Monatliche Listen*) [S26]. A miss is a miss in that compressed index, not in the rolls.
+
+  - A surname he used later in America may be an anglicized or translated form, or he may have taken a new name. In the 2022 stream, according to transcript extracts, a search under the American form found nothing, and the presenter warned that the man may simply have changed his name [S22†]. Write "no HETRINA entry under [forms searched]", never "not a Hessian".
+
+- **After a hit, open the monthly lists.** For each man whose status changed since the previous month's report, the monthly lists give the complete date where HETRINA gives month and year, and they hold detail HETRINA left out. The Johannes Schwalm Historical Association's scans of the Hesse-Cassel, Hesse-Hanau and Waldeck lists are PDFs on Kutztown University's "Schwalm Marburg Files" page, listed by unit and Marburg file number [S26 @2026-11-16]. Record the file number and each dated event as its own episode.
+
+- **Treat the Schwalm collection and compiled lists as secondary.**
+  - Franklin & Marshall College in Lancaster, Pennsylvania, holds the association's research collection. It no longer answers genealogical inquiries by email, phone or mail, and it does no research on specific soldiers; researchers use the collection in person by appointment. The college calls the collection secondary and limited on specific soldiers, often holding little beyond the association's online registry and journal profiles, and warns against a long trip just to use it. Check the inventory and the journal name index linked from its collection page before anyone plans a visit, and do not draft a research question to the college [S27 @2026-11-16].
+
+  - For a man said to have stayed in America, check John Merz's "Hessians remaining in America" listing on the AMREV-HESSIAN RootsWeb site. Its introduction says each entry codes events such as discharge, desertion, marriage, a land grant or petition and a Quebec census listing against numbered sources; it calls the list by no means complete, and the page was last updated in 2006. The live site refused automated access, so the introduction was read in an Internet Archive capture [S28 @2026-11-16]. Follow each numbered source to the record it names. An absence from the list proves nothing.
+
+- **Test a family placement against his capture.** Take the capture from his own service entries, then compare the camp sequence.
+  - Saratoga (1777), the Convention Army: held near Boston, then from January 1779 at the Albemarle Barracks about five miles northwest of Charlottesville, Virginia. The Hessian prisoners stayed there until February 1781 and were then sent north, first to Winchester and then on to Maryland [S29].
+  - Yorktown (1781): the prisoners, who included German auxiliaries of the Bayreuth Regiment, passed through Williamsburg on the march north and were split between a camp outside Winchester, Virginia, and Fort Frederick, Maryland, whose group was moved on to the town of Frederick. From January 1782 the prisoners at Frederick and Winchester were moved to Lancaster, Pennsylvania, and some were held at York. Many deserted to settle in Virginia, Maryland and Pennsylvania [S30].
+  - A Bayreuth man taken at Yorktown falls outside HETRINA. A later home near a camp fits that capture but does not prove it.
+
 ## Output
 
 1. **Routing table:** one row per period, army and rank-class route. For each series give its status: *destroyed*, *surviving and searched*, *surviving but not online*, *not yet asked*, or *route not covered here*, with the locator or URL used.
@@ -175,3 +206,5 @@ survives before you record the route as destroyed.
 5. **Casualty-list identity notes:** the namesake search (books, indexes, years), any script or language confusion considered, and the inference as worded.
 6. **WWII leads:** Bundesarchiv request log (department addressed and date), Volksbund query and reply status, regiment and division, and NARA unit-record leads (microfilm series and unit). Keep these separate from personal documents.
 7. **Hospital episodes:** custodian reply and current request terms, hospital-book and entry references, inspected or restricted reproduction, actual admission/discharge/unit/transfer fields, and unresolved links between episodes.
+
+8. **Revolutionary War auxiliaries:** the contingent and the record that names it (or one row per possible contingent), each HETRINA name form searched with its result and source references, the monthly-list file numbers and dated events opened, Schwalm-collection and Merz leads labelled secondary, and the capture event compared with the family's placement.

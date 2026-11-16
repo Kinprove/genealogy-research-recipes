@@ -87,6 +87,12 @@ At the start of a session, reload the instructions, read the note for the questi
 live state. At the end, update that note and the search log, save them to the project notes and write
 the next check.
 
+Before tracing a "female line" (женская линия), ask which line is meant and write the answer into
+the question note. It can mean the strict line from daughter to mother, which takes a new surname in
+every generation, or the woman's mother's direct male line, a single surname line; a Russian
+genealogist reports that requests for a grandmother's female line usually mean the second [S11]. In
+DNA usage the matrilineal line is the mother's mother's mother's line, with no surname to follow [S12].
+
 ## Give each kind of information one home
 
 | Kind | Home | Rule |
@@ -418,6 +424,14 @@ transcription.
 - **Exceptions.** Before a bulk fill, hold back every person whose source value is not a plain
   surname or whose parentage is marked possible. Resolve each one separately on its own evidence;
   never fill it with the surname of the only male relative in view.
+
+**Several printed surnames for one person.** A peasant family's surname can change from record to
+record, and each printed form is a transcription from its own source. Keep every form as a separate
+name tied to the record that prints it. Never write "X aka Y" into one surname field, and never keep
+one form and drop the others. Gramps keeps such forms as alternative names on the person's Names
+tab, and each can carry its own name type and date range [S14]. A family historian whose program
+allows only one surname per person leaves that field empty and records every form, with its source,
+in the person's notes [S13].
 
 ## Deleting, moving and backing up
 

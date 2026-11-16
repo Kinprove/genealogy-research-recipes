@@ -120,6 +120,25 @@ original synthesis, applying the existing evidence/proof recipe to these source 
   reproduced. Used for: children under 16 often written onto one parent's card in the evacuee card
   file held by ЦРИ РКК.
 
+### Sources added 2026-11-16
+
+- **H24:** Центр розыска и информации Российского Красного Креста, [«Критерии розыска»](https://crirkk.ru/rozysk-ankety/kriterii-rozyska/),
+  read 2026-11-16. Rights: cited reference, not reproduced. Used for: the written, dated and signed
+  request on the centre's form, and for an evacuation check the applicant's details and address, data
+  on both parents and on relatives evacuated with the person, or the place of a children's home; the regional branch giving out the form,
+  helping to fill it in and referring the applicant to the centre; evacuee and children's-file checks
+  made from the centre's own archive only; and forced-labour and camp questions checked against the
+  card file on displaced persons and then sent to Arolsen.
+- **H25:** МККК, [«Иоланта Михайлова: "Белые пятна в прошлом не дают людям жить настоящим"»](https://www.icrc.org/ru/document/iolanta-mihaylova-belye-pyatna-v-proshlom-ne-dayut-lyudyam-zhit-nastoyashchim),
+  interview of 16 March 2020 with the head of ЦРИ РКК, read 2026-11-16. Rights: cited reference, not
+  reproduced. Used for: requests accepted in person, electronically or by post; and the files on
+  displaced persons taken to Germany, put at about 800,000 to 900,000 people.
+- **H26:** Dzen channel «История одной семьи. Юлия Новожилова», [«Поиск эвакуированных во время
+  Великой Отечественной войны»](https://dzen.ru/a/X6joq7H7zy4jg2Y9), published 2020-11-09,
+  read 2026-11-15 from a captured copy, without its images. Rights: cited reference, not reproduced.
+  Used for: the regional Red Cross branch first and then ЦРИ РКК, and no online search of the card
+  files.
+
 ## Verification limits
 
 On 18 October 2026, the current [Names results page](https://collections.yadvashem.org/en/names/search-results?page=1)
@@ -133,3 +152,4 @@ documents support durable source distinctions, not a current platform manual.
 
 - Kinprove — original distillation and synthesis; the routing table and the several-Pages rule rest on H11–H17, paraphrased — FSL-1.1-MIT (kinprove-original)
 - VK community «Клуб генеаголиков» article and Dzen channel «Сыщик рода» post cited as H22 and H23 — Copyright of their authors; short paraphrase (adapted)
+- ICRC interview with the head of ЦРИ РКК and the Dzen channel «История одной семьи. Юлия Новожилова» post cited as H25 and H26 — Copyright of their authors; short paraphrase (adapted)

@@ -21,7 +21,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## Version and updates
 
-This copy is version 1.20.0, released 2026-11-16.
+This copy is version 1.21.0, released 2026-11-16.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
@@ -55,10 +55,18 @@ today's date. Do not check for a newer version over the network yourself.
    plausible, ask one focused scoping question before opening more than one task recipe,
    and wait for the answer before giving that workflow. For example, ask which population
    and place a 1944 deportation concerns, rather than assuming a particular deportation.
-   For a record-source question, also ask first when a missing locality, period,
+   Once any required [privacy gate](#privacy-gate) is satisfied, if the user asks you to read or
+   interpret a specific record they have not supplied and the answer depends on seeing it,
+   ask only for an image or link to that record.
+   Use one question sentence and at most one short sentence explaining why, then wait.
+   Defer names, dates, ports and other identifying details until after the reply,
+   and ask only if still needed. For example: "Can you share an image or link to the
+   parish register entry? I need to see the handwriting to help read it."
+   For other record-source questions, ask first when a missing locality, period,
    population or migration destination prevents choosing a concrete source, even if a
-   broad recipe fits. While waiting, give the one question and a brief reason for it;
-   save the source list and research workflow for the reply. "Came from Russia" alone
+   broad recipe fits. While waiting, use one question sentence and at most one short sentence
+   explaining why; save record types, collections, source lists and research workflow for
+   the reply. "Came from Russia" alone
    does not establish a modern country, community or destination record system.
    For a place in Central or Eastern Europe, choose by the state that held it on the event
    date and by the family's religion, not by today's border. Start with the
@@ -213,13 +221,16 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/archival-image-coverage-verification.md` — Check archival case boundaries, image order and which pages were actually inspected before calling a search complete.
 - `recipes/corpus-seeded-name-search.md` — Recover attested name spellings that searches miss across scripts and OCR by separating encoding, orthography and field behaviour.
 - `recipes/surname-distribution-locality-leads.md` — Rank localities to search from dated surname-distribution sources for an uncommon surname.
+- `recipes/maiden-name-recovery.md` — Find a woman's birth surname when records give her husband's, through marriage, children's, census, newspaper, probate and U.S. Social Security records and Italian, Chinese and Japanese naming customs.
 
 ### Family trees and research planning
 
 - `recipes/rootsmagic-tree-reconciliation-workflow.md` — Reconcile selected facts and sources between RootsMagic, Ancestry TreeShare and FamilySearch.
+- `recipes/ftm-research-workflows.md` — Use Family Tree Maker to keep Ancestry record images locally, compare a FamilySearch branch, list people by place, search and merge records, undo edits and share with relatives.
 - `recipes/wikitree-dna-tester-links.md` — Register a DNA test on the actual tester's WikiTree profile and verify its FamilyTreeDNA or GEDmatch link destination.
 - `recipes/gedcom-research-export.md` — Export research findings to a GEDCOM file, or bring a supplied one into research, without changing what they prove.
 - `recipes/descendancy-gap-worklist.md` — Turn "research the descendants" into a ranked list of gaps tied to the records each lifespan crosses.
+- `recipes/genealogical-numbering-systems.md` — Decode Ahnentafel, Henry, Register and NGSQ numbers when extracting people and relationships from a pedigree chart, descendancy list or compiled genealogy.
 
 ## Recipes: DNA
 
@@ -242,6 +253,7 @@ shared with others. Refer to them by role, for example "a witness".
 
 ### Ethnicity, admixture and match outreach
 
+- `recipes/interpreting-ancestry-composition-estimates.md` — Decide what an ethnicity or ancestry-composition estimate, including GEDmatch admixture output, can show about origins and parentage, and what needs matches or records.
 - `recipes/admixture-model-run-scope.md` — Record the run scope of a G25, calculator or qpAdm admixture result before reading it.
 - `recipes/ethnicity-estimate-version-comparison.md` — Save, date and compare successive AncestryDNA, MyHeritage or FamilyTreeDNA ethnicity-estimate versions.
 - `recipes/dna-match-outreach-staging.md` — Stage and draft outreach to a DNA match, a match's account manager or an untested relative.
@@ -307,6 +319,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/hebrewbooks-search-recovery.md` — Recover HebrewBooks names or passages missed by OCR, catalogue spelling or a query that never reached search.
 - `recipes/rabbinic-literature-person-search.md` — Find and interpret passages about a Jewish ancestor, rabbinic office or claimed lineage in rabbinic and Hasidic books.
 - `recipes/holocaust-testimony-source-interpretation.md` — Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement dates.
+- `recipes/israel-immigration-list-research.md` — Search MyHeritage's Israel immigration lists and decide whether an arrival entry for Mandatory Palestine or Israel records an immigrant, a returning resident or a tourist.
 
 ### Ukrainian archives
 
@@ -329,6 +342,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/english-nonregister-record-recovery.md` — Take an English or Welsh question past the parish register to poor-law, apprenticeship, church-court probate, dissenter and Catholic records.
 - `recipes/uk-census-and-1939-register-interpretation.md` — Read England and Wales censuses from 1841 to 1921 and the 1939 Register under each year's own rules.
 - `recipes/scottish-parish-statutory-record-recovery.md` — Recover a Scottish birth, baptism, marriage or death across Old Parish, statutory, corrected-entry and kirk-session records.
+- `recipes/scottish-high-court-precognitions-trial-papers.md` — Find a Scottish High Court of Justiciary criminal case in the precognitions, trial papers and minute books, and read what each record does and does not show.
 - `recipes/irish-civil-registration-jurisdiction-recovery.md` — Carry an Irish civil-registration index entry or townland lead to the matching certificate and its jurisdiction chain.
 - `recipes/irish-catholic-parish-image-recovery.md` — Find an Irish Catholic baptism or marriage in the National Library of Ireland's parish-register images.
 - `recipes/irish-probate-and-deed-recovery.md` — Recover an Irish will, administration or deed after the 1922 losses through surviving calendars, will books and the Registry of Deeds.
@@ -356,6 +370,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/us-census-practical-workflows.md` — Find and read U.S. census households: missing entries, district browsing, the 1890 gap, special schedules and changed surnames.
 - `recipes/usa-immigration-search-recovery.md` — Trace U.S. immigration and naturalization by sea, air or land border, and read manifests, verification marks and federal files.
 - `recipes/us-vital-registration-coverage.md` — List every U.S. birth and death registration authority and series before calling a record missing.
+- `recipes/us-obituary-search-and-interpretation.md` — Judge whether a U.S. obituary should exist, find it through relatives' notices, cards of thanks and funeral cards, and read it as an informant's account.
 - `recipes/us-church-record-custody.md` — Work out the denominational branch, congregation and current custodian of a U.S. church record.
 - `recipes/missing-marriage-jurisdiction-search.md` — Replace a marriage missing from the couple's home county with a dated, ranked list of candidate jurisdictions.
 - `recipes/early-new-england-town-records.md` — Read early New England town books across parent, daughter and neighbouring towns, and decode Torrey's marriage notation.
@@ -369,9 +384,13 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/us-civil-war-service-record-episodes.md` — Read Civil War draft registration, service cards, roster remarks and unit events as separate episodes.
 - `recipes/us-20th-century-military-service-reconstruction.md` — Rebuild a 20th-century U.S. Army or Air Force service record from sources outside a burned, thin or restricted personnel file.
 - `recipes/us-military-pension-file-recovery.md` — Carry a service clue or pension index card to the right application file and inventory its documents.
+- `recipes/dar-ancestor-record-interpretation-and-correction.md` — Interpret red notices and error codes on a DAR Ancestor Database record, and route new evidence or corrections to DAR through applications, supplementals or the Corrections Genealogist.
+- `recipes/virginia-revolutionary-public-service-claims.md` — Trace a Revolutionary Virginia public service (impressed property) claim across court booklets, certificates, Commissioner's Books and offline rejected claims, and date a commissioner's office from its act.
 - `recipes/us-federal-land-entry-file-recovery.md` — Follow a GLO patent, bounty-land number or final-proof notice to the federal land-entry case file.
 - `recipes/georgia-texas-state-land-grant-recovery.md` — Find and read an original Georgia or Texas land grant, and read each lottery entry, headright class or certificate under its own act.
+- `recipes/state-archives-county-records-guides.md` — Read a state archives' county-records guide to see which series it holds for a U.S. county, as originals or microfilm, and choose how to retrieve each.
 - `recipes/court-case-file-recovery.md` — Recover a U.S. state or local civil, divorce, criminal or incapacity case file through the records that point to it.
+- `recipes/us-guardianship-records.md` — Read a colonial or U.S. guardianship record for what it shows about a ward's age, parents, guardian and property, and find the rest of the file.
 - `recipes/us-federal-court-case-file-recovery.md` — Take a lead to the right U.S. federal court for the period, its National Archives records and the case file.
 - `recipes/criminal-court-prison-record-recovery.md` — Trace a U.S., English, Welsh or Swedish arrest or imprisonment to its court, prison and pardon records; a state or local court's case file belongs to court case-file recovery.
 - `recipes/state-legislative-private-act-petitions.md` — Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and its petition.
@@ -399,6 +418,7 @@ shared with others. Refer to them by role, for example "a witness".
 ### Burials, directories, land and probate
 
 - `recipes/burial-evidence-packet.md` — Recover a cemetery entry, its photo or inscription, and the plot and register locators needed to check a burial.
+- `recipes/memorial-card-and-coffin-plate-evidence.md` — Read a memorial, mourning or funeral card or a coffin plate from a family collection as evidence of a death and route its leads to the death's records.
 - `recipes/city-directory-observation-workflow.md` — Build a comparable series of city-directory names, addresses and occupations from checked editions and sections.
 - `recipes/land-index-book-series-recovery.md` — Trace a land record through both index directions to the right instrument and book, or a federal patent to its entry file.
 - `recipes/deed-content-relationship-clues.md` — Read a deed's type, consideration, terms, parties and parcel for dated clues to heirship, probate, migration or land identity.

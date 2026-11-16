@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "evidence-proof-judgment", "land-index-boo
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 135}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 147}
 ---
 
 # Recipe: Inventory the documents of a probate case

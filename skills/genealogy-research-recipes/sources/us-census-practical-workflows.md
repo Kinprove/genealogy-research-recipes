@@ -174,6 +174,19 @@ draw on each source.
 | S154 | National Archives, 1950 Census website, [Questions Asked in the 1950 Census](https://1950census.archives.gov/howto/questions-asked.html) | read 2026-11-14 | 1, 6: Form P8 contents, sample lines |
 | S155 | David M. Pemberton, National Archives, *Prologue* (Winter 2002), ["Blisters on My Heels, Corns on My Toes": Taking the 1930 Census of Population](https://www.archives.gov/publications/prologue/2002/winter/1930-census.html) | Winter 2002; read 2026-11-14 | schema: Alaska's 1930 reference date |
 | S156 | Attorney General of Texas, [Opinion No. WW-626](https://www.texasattorneygeneral.gov/sites/default/files/opinion-files/opinion/1948/pd0626.pdf), page 2 | 1959-05-20; read 2026-11-14 | 1: Texas adoption by recorded instrument, 1850–1931 |
+| S157 | Just Genealogy, [Genealogy Skills Test #2 Answers - Charleston Books coming - JG0164](https://www.youtube.com/watch?v=OMnMnFjg3Mg) Community source. Title and channel confirmed through YouTube's oEmbed record on 2026-11-16; the video and its captions were not read. The cited example rests on transcript lines supplied with the community extraction. | 2022-08-19; title and channel checked 2026-11-16; video not watched | 5: Wisconsin state-census tallies against a disputed birthplace† |
+| S158 | MyHeritage blog, [MyHeritage Adds 1.2 Billion Historical Records in January 2025](https://blog.myheritage.com/2025/02/myheritage-adds-1-2-billion-historical-records-in-january-2025/) Community source: collection announcement. | 2025-02-05; read 2026-11-16 | 5: fields claimed for the 1885 New Jersey index |
+| S159 | MyHeritage blog, [MyHeritage Adds 143 Million Historical Records in November 2024](https://blog.myheritage.com/2024/12/myheritage-adds-143-million-historical-records-in-november-2024/) Community source: collection announcement. | 2024-12-02; read 2026-11-16 | 5: fields claimed for the 1915 New Jersey index |
+| S160 | New Jersey State Archives, [General Microfilm Collection For Sale](https://nj.gov/www.nj.gov/state/archives/pdf/GenMicroSale.pdf), section State Censuses | read 2026-11-16 | 5: New Jersey census years, missing counties, 1855 heads only |
+| S161 | FamilySearch, [New Jersey, State Census, 1885](https://www.familysearch.org/en/search/collection/1803972), collection description | read 2026-11-16 | 5: 1885 New Jersey fields |
+| S162 | Teaneck Public Library, [New Jersey State Census, A. D. 1895, Borough of Bergen, Township of Teaneck, page 2](https://archive.teanecklibrary.org/census1895/page2.html), transcription | read 2026-11-16 | 5: 1895 New Jersey column headings |
+| S163 | New Horizons Genealogical Services, [Questions from each New Jersey State Census](https://newhorizonsgenealogicalservices.com/nj-census-questions.htm) | read 2026-11-16 | 5: New Jersey questions by year |
+| S164 | FamilySearch, [New Jersey, State Census, 1915](https://www.familysearch.org/en/search/collection/2061544), collection description | read 2026-11-16 | 5: decennial series, 1915 New Jersey fields |
+| S165 | Wisconsin Historical Society, [Census Records Research Tips](https://web.archive.org/web/20251231191320/https://www.wisconsinhistory.org/Records/Article/CS184) | Internet Archive capture of 2025-12-31 (the live page returned 403 on 2026-11-16); read 2026-11-16 | 5: Wisconsin censuses naming heads only |
+| S166 | FamilySearch, [Wisconsin, State Census, 1885](https://familysearch.org/search/collection/1443713), collection description | read 2026-11-16 | 5: 1885 Wisconsin heads and counts |
+| S167 | FamilySearch, [Wisconsin, State Census, 1895](https://www.familysearch.org/en/search/collection/1443712), collection description | read 2026-11-16 | 5: 1895 Wisconsin heads and counts |
+| S168 | Joan Benner, Marquette County, Wisconsin Genealogy, [1885 Wisconsin State Census of the Town of Buffalo, Marquette County](https://www.linkstothepast.com/wimarquette/1885buffalm.html), transcription from the Wisconsin Historical Society microcopy | site last updated June 2001; read 2026-11-16 | 5: 1885 Wisconsin nativity headings |
+| S169 | Clark Co., WI Internet Library, [1895 WI State Census For Colby Village--West Ward, Clark County Wisconsin](https://wiclarkcountyhistory.org/clark/facts/1895ColbyWest.htm), contributed by Kenneth Wood | read 2026-11-16 | 5: 1895 Wisconsin nativity headings |
 | H9 | [National Archives, *Prologue* (Fall 2008), the forgotten federal census of 1885](https://www.archives.gov/publications/prologue/2008/fall/1885-census.html) | 2008; read 2026-11-07 | 5: 1885 censuses |
 | H10 | [National Archives, descriptive pamphlets for M846 (New Mexico) and M845 (Florida)](https://www.archives.gov/files/research/census/nonpopulation/m846.pdf) | read 2026-11-07 | 5: 1885 censuses |
 | H11 | [State Historical Society of North Dakota, census records of the 1800s](https://web.archive.org/web/20260113231006/https://www.history.nd.gov/archives/gencensus1800.html) | Internet Archive capture of 2026-01-13 (the live page returned 404 on 2026-11-07); read 2026-11-07 | 5: 1885 censuses |
@@ -318,6 +331,34 @@ S155 and S156 were added on 2026-11-14 after a pull-request review. S155 gives A
 S156 is one inheritance-tax opinion on Texas law; the adoption forms of other states and
 periods were not checked.
 
+### Notes on sources added 2026-11-16
+
+S157 to S169 were read on 2026-11-16, except S157: its title and channel were confirmed,
+but the video and captions were not read. Its Wisconsin example is cited from the transcript
+lines supplied with the community extraction, with a dagger and attributed wording in the
+recipe; the presenter's conclusion about the birthplace is not adopted.
+
+S158 and S159 are MyHeritage collection announcements. They describe MyHeritage's indexes,
+not the census forms. S158's place of birth and relatives in the household for 1885 are not
+adopted as census content: S161 lists only names, residence, race, gender, native or foreign
+birth and age range, S162's 1895 headings have no birthplace beyond the Irish, German and
+other foreign-born columns and no relationship column, and S163 lists no relationship for
+either year. S159's date and place of birth for 1915 agree with S163 and S164.
+
+S160 is the State Archives' microfilm sales list; its summary of contents ("age or age
+ranges, and nationality") is general. S161 and S164 are index descriptions, not form images.
+S162 is one township's 1895 transcription. S163 is an unsigned reference page; its statement
+that 1885 also split the foreign-born into Irish, German and other is not adopted, because
+S161 gives only native or foreign born, and the 1905 contents rest on S163 alone. No New
+Jersey schedule image was inspected.
+
+S165 was read as an Internet Archive capture of 2025-12-31. S166 and S167 list the nativity
+categories without British America; S168 (Town of Buffalo, Marquette County, 1885) and S169
+(Colby village, West Ward, Clark County, 1895) are volunteer transcriptions that show a
+British America column. No Wisconsin schedule image was inspected, and whether every county's
+form had that column was not checked. Reading the nativity counts as household tallies, and
+assigning one to the head only when no one else can hold it, is Kinprove synthesis.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
@@ -329,3 +370,4 @@ periods were not checked.
 - Price Genealogy, posts of 2022 to 2024 cited as S102, S105, S111, S115, S128 and S150 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Cari A. Taplin, Genealogy Pants, posts of 2025 and 2026 cited as S119 and S143; English Ancestors, 2024-06-28, cited as S147; Genealogy TV 2, Finding Tons of Land Records, 2024-10-20, cited as S129 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
 - Legacy Tree Genealogists, posts of 2019 and 2021 cited as S130 and S133; Geoff Rasmussen, Legacy Family Tree blog, 2019-03-11, cited as S125; David A. Fryxell, Family Tree Magazine, cited as S135; Christopher C. Child, Vita Brevis, 2020-09-23, cited as S146 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
+- Just Genealogy, Genealogy Skills Test #2 Answers, 2022-08-19, cited as S157; MyHeritage blog, collection announcements of 2024-12-02 and 2025-02-05, cited as S159 and S158; New Horizons Genealogical Services, Questions from each New Jersey State Census, cited as S163 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)

@@ -11,12 +11,23 @@ handoff: ["french-departmental-record-routing", "galicia-bukovina-habsburg-recor
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 37}
+router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 41}
 ---
 
 # Recover and read historical maps as dated, copy-specific evidence
 
 Use this recipe when you are about to use a Sanborn fire-insurance sheet, a landowner atlas or plat, a topographic quadrangle, a directory or ward map, or a georeferenced overlay to place a person, building, address, cemetery or parcel. Each map records what one producer observed in one edition, and a given copy may carry its own corrections. Read it that way, and take people's names from other dated records. Use [city-directory observation](city-directory-observation-workflow.md) for the directory series. Use [land-index recovery](land-index-book-series-recovery.md) for the deeds behind a mapped holder, and the [burial evidence packet](burial-evidence-packet.md) once you find a cemetery. Use [evidence/proof judgment](evidence-proof-judgment.md) for any identity, kinship or ownership conclusion, and [AI for documentary records](ai-for-documentary-records.md) when an AI suggests readings of handwriting.
+
+## Contents
+
+- Errors to refuse
+- Find the map and confirm what it covers
+- Read a Sanborn volume, not a loose sheet
+- Link a person to a building only through dated records
+- Place a recorded historical address
+- Find a vanished cemetery, church or settlement
+- Read landowner maps and overlays with limits
+- Return a map packet
 
 ## Errors to refuse
 
@@ -79,6 +90,10 @@ For the Russian Empire and the USSR, use these map locators, and link the maps r
 - Retromap (retromap.ru) is a lead for old-map overlays and city plans. A search-result title lists the Столистовая карта (hundred-sheet map) of the Russian Empire under an 1804 label; the map page could not be read, so that label and its interactive display remain unconfirmed [S38]. The map's compilation in 1801–1804 is separately supported by S39. Record the title and year actually shown when you open a map [S39].
 - maps.vlasenko.net holds Soviet military topographic sheets from 1:50,000 to 1:1,000,000, mainly for Ukraine, with partial coverage of Moldova, Belarus and Russia that depends on scale. Record the sheet nomenclature and survey year [S40].
 - etomesto.com overlays old maps of Russia and the former USSR on modern maps. Record the map and sheet [S41].
+
+For a settlement in the former USSR that emptied after 1960, look for declassified US reconnaissance satellite frames. USGS EROS holds three sets: Declass 1, from the CORONA, ARGON and LANYARD systems, 1960–1972 [S55 @2026-11-16]; Declass 2, from KH-7 and the KH-9 mapping camera, 1963–1980 [S56 @2026-11-16]; and Declass 3, from the KH-9 Hexagon panoramic cameras, 1971–1984, whose high-resolution frames resolve 2–4 feet [S57 @2026-11-16]. Search and preview them in EarthExplorer (earthexplorer.usgs.gov). A frame that already has a digital copy downloads at no cost; any other frame is scanned to order for $30, and for Declass 3 only the film duplicates held at EROS can be scanned [S55 @2026-11-16], [S56 @2026-11-16], [S57 @2026-11-16]. Record each frame's ID and date.
+
+In one Lukoyanov district (Nizhny Novgorod oblast) case, the author found a small village on at least a hundred frames, bought a January 1972 and a 1984 frame, georeferenced them over current imagery, and divided the street into plots of equal width to match the frames to a sketch plan of the village [S58]. The 1984 frame shows no ruins where houses had stood, because the log houses were taken apart and carried away, and forest is returning over the site, so only the satellite frames show where the houses stood [S59]. The 1960s frames the author tried were blurred or under cloud, and unusable frames were very common [S58]. Preview several frames from each period before ordering, and compare the dated frames with current imagery and with any remembered plan of the street.
 
 When a Soviet-era birthplace is missing from modern directories, also run the checks in [place-name resolution § 3](historical-place-name-resolution.md#3-date-the-name-before-matching-it).
 

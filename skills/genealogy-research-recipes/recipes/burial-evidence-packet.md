@@ -11,7 +11,7 @@ handoff: ["german-military-record-period-routing", "immigrant-congregation-origi
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 129}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 140}
 ---
 
 # Build a burial evidence packet from cemetery records
@@ -82,6 +82,20 @@ a 1940s reading beside a 1990s one: a stone legible then may be worn or gone now
 reading can hold words the newer one lacks, and a newer transcription does not supersede it
 [P118], [P146]. Keep each reading with its compiler and date, compare them word by word, and
 check a disagreement against the stone or its photograph where one survives [P146].
+
+For an Iowa burial, search the 1930s WPA Graves Registration Project transcription that IAGenWeb
+hosts at iowawpagraves.org. A Wayback Machine capture of 17 January 2026 lists 656,621 records from
+82 counties and names the 17 counties the project never indexed: Appanoose, Benton, Cherokee,
+Clinton, Dallas, Des Moines, Dubuque, Hardin, Humboldt, Ida, Iowa, Jasper, Lyon, Monona, Osceola,
+Pottawattamie and Warren [P151 @2026-11-16]. In those counties a miss is a coverage gap; elsewhere
+it is still not a negative. Take a county's coverage from that list, not from hearsay: according to a
+transcript extract of a 2022 livestream, a presenter guessed that the WPA had skipped Henry County
+[P150† @2026-11-16], but the capture lists 3,379 Henry County records [P151 @2026-11-16]. Do not
+read the project's name as veterans only: the Tama County WPA list for Day Cemetery includes women.
+Its transcriber notes that it is unknown whether the workers viewed the stones or took the details
+from courthouse death records or newspaper obituaries [P152 @2026-11-16]. Record a WPA entry as a
+1930s derivative, not a reading of the stone, and check it against the stone, its photograph or the
+cemetery's records.
 
 German graves are reassigned after a rest period (Ruhezeit), and small children rarely received
 permanent stones. A gravestone survey such as the CompGen Grabstein-Projekt
@@ -241,6 +255,17 @@ MacDonald. Its menus also offer Overseas Canadian Headstones and a cemetery look
 [P139 @2026-11-14]. Records are submitted and transcribed by contributors, so a miss is not a
 negative; read a hit against its photograph [P121 @2026-11-14], [P139 @2026-11-14].
 
+For a Queensland burial, also search MyHeritage's Australia, Queensland Funeral Home and Burial
+Records, which MyHeritage's wiki listed with 633,015 records on 2026-11-16 [P157 @2026-11-16].
+MyHeritage describes it as an index of funeral-home and cemetery burial records whose entries
+typically give the full name, age at death, burial date, burial place and notes, each marked as
+coming from a funeral home or a cemetery [P156 @2026-11-16]. Record that marking with the hit. A
+cemetery record normally names the cemetery and the Queensland town; a funeral-home record generally
+names only the town [P156 @2026-11-16]. Read a funeral-home result's burial place as a town, not a
+cemetery, and take the cemetery and plot from the cemetery's own record (Section 4). The
+description names no date range and no contributing firms or cemeteries, so a miss is not a
+negative.
+
 To list the relatives the FamilySearch Family Tree places in one cemetery, open the cemetery in
 FamilySearch's Cemeteries search on the website (the mobile Family Tree app lacks it), signed in
 with the user's own account, and click **Only show my relatives**; only people in the Family Tree
@@ -264,6 +289,17 @@ original image separate from a working crop or adjusted reading copy. Record whi
 actually inspected. On a memorial site, open every gallery image at its original size (on Find a
 Grave, **View original**). A main photo may be cropped to one name and hide a spouse on the same
 face. Record a cropped image as a partial view of that face. [P66, P67]
+
+A memorial's gallery can hold more than the stone: sites where volunteers photograph headstones
+can also carry the person's portrait and a picture of an obituary clipped from a newspaper
+[P153 @2026-11-16]. On Find a Grave the uploader marks each photo Grave, Person, Family or Other,
+Other being generally a document or record, and the uploader's profile name shows beneath it as
+**Photo added by** [P154 @2026-11-16], [P155 @2026-11-16]. Open every type, not only Grave: the
+type is the uploader's choice. Record a clipping as the uploader's copy of an obituary, with the
+newspaper title and date only where the clipping or caption shows them, and find the printed notice
+before citing it as the obituary. Record a portrait as the uploader's attribution, not an
+identification, and do not compare faces. A Family photo can show living relatives: note that it
+exists without identifying them.
 
 Keep four things apart: the database entry, the photograph, your own transcription of the
 photograph, and any epitaph that a publication, memorial page or family compilation quotes. A

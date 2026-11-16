@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "evidence-proof-judgment", "russi
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["jewishgen"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Jewish records", "order": 62}
+router: {"section": "Records by country and region", "group": "Jewish records", "order": 66}
 ---
 
 # Recipe: JewishGen searches that recover families missed by a name-and-town query
@@ -178,6 +178,8 @@ When a family's births and deaths appear in its home-town registers but no marri
 - **Researcher and tree matches supply leads.** JGFF records research interests; FTJP submissions are not validated by JewishGen. Ask for the underlying record only if contact is authorized. [JGFF FAQ](https://www.jewishgen.org/jgff/FAQ/), [FTJP FAQ](https://www.jewishgen.org/gedcom/faq/search.html).
 - **Repeat the saved query after a relevant indexing update.** Preserve its previous date and coverage; an expanded dataset can change the result. For an unindexed list, a town/project specialist can point to the surviving source. Contact is a separate action requiring authorization. [Ukraine indexing demonstration](https://www.youtube.com/watch?v=NsdlMwZX9yg), [Genealogy Gems interview](https://www.youtube.com/watch?v=eB5KRGKSC1M).
 - **A public-database miss can come before a project's release.** Some projects have released new translations to their contributors before the public database; Litvak SIG district research groups were reported doing so in 2012, with JewishGen release about 18 months later. Before reading a negative, check the project's list of translated records and record a matching series as pending rather than as absence. Joining a group needs the researcher's authorization; the reported delay and access terms are dated and must be rechecked. [Lithuanian archive discussion](https://forum.j-roots.info/viewtopic.php?f=164&t=5924).
+
+- **Check the translated extent behind a Yizkor hit.** For a family or community lead in a memorial book, search the JewishGen Yizkor Book Database and linked community or regional translation project before starting a fresh translation. Inspect what is actually translated, including any translated contents list and linked chapter pages. The Lublin project, for example, provides a translated contents list while substantial content remains untranslated; record chapter-level coverage rather than labeling the whole book translated. [N19 @2026-11-16](https://www.beholdgenealogy.com/blog/?p=3874) [N20 @2026-11-16](https://www.jewishgen.org/Yizkor/faq.html) [N21 @2026-11-16](https://www.jewishgen.org/jewishgen-erosity/YizkorTr/YBLublin.html)
 
 ## From a missing-husband notice to an agency case file
 
