@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 44}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 48}
 ---
 
 # Recover a Russian-Empire Jewish metrical entry through the registering rabbinate and its substitutes
@@ -26,6 +26,17 @@ Use this recipe before you search for a Jewish birth, marriage or death in the R
 The recipe works out which crown or community rabbinate registered that community in that year. It then checks whether that rabbinate's book survives for that confession, event and year. If the book is lost, it lists named substitutes and keeps each one as its own dated source version. The worked examples come from guberniyas that are now in Belarus, Ukraine, Lithuania and Russia. The recipe does not cover the Kingdom of Poland.
 
 For searching a Jewish-society metrical fund and checking what a case actually contains, use [Jewish archival list triage](jewish-archival-list-triage.md). For JewishGen database queries and reconstructing a family from their results, use [JewishGen search and family reconstruction](jewishgen-search-family-reconstruction.md). For checking coverage volume by volume and keeping a per-year ledger of the pages and targets you inspected, use [archival image coverage verification](archival-image-coverage-verification.md). For registration (приписка) versus residence, and for what the metrical book encodes, use [Russian-Empire Jewish identity attribution](russian-empire-jewish-identity-attribution.md). For reading the two halves of a bilingual register, use [AI for documentary records](ai-for-documentary-records.md). For weighing an archive's "no records" reply and comparing versions of an entry, use [evidence/proof judgment](evidence-proof-judgment.md). For finding period jurisdiction on FamilySearch in general, use [FamilySearch practical record workflows](familysearch-practical-record-workflows.md).
+
+## Contents
+
+- 1\. Name each record type and the body that created it
+- 2\. Build a dated table of candidate rabbinates for the event year
+- 3\. Check survival per rabbinate, event and year before choosing a route
+- 4\. When the book is lost, search for named substitutes
+- 5\. Ask the archive for the right product
+- 6\. Switch to ZAGS registers when the territory changed over
+- 7\. Read later notes as a separate dated layer
+- Output: rabbinate jurisdiction and substitute register
 
 ## 1. Name each record type and the body that created it
 
@@ -59,6 +70,10 @@ The registering office can change from year to year, so make one row per candida
 - An archive reply of "not preserved" closes only the rabbinate, years and event it names. In one case the national archive said the records were not preserved, and the zonal archive said they had never been transferred to it. Those are two different statements. Record both, then continue with section 2 (other candidate rabbinates) and section 4 (the town copy and other substitutes). [S4]
 - **Check the confession.** Karaite births were recorded by the kenesa, not by the rabbinate. The Dnipropetrovsk oblast archive's fond 193 is a collection of metrical books for Ekaterinoslav guberniya (1779–1935) and includes Jewish-society books, but no public description confirms Karaite books in it. Before you browse that collection for a Karaite, confirm that it actually holds Karaite books, as a participant advised. Synagogue books are not Karaite coverage. [S3]
 - Do not commission a broad "find everything" search from the archive before this check. A participant called that money thrown away. Instead, list specific fonds, opisi and, where possible, delo numbers in one request. [S3]
+
+**Privacy gate:** <!-- privacy-gate: request --> An order names the requester and the family; answer the privacy gate in `SKILL.md` before sending identifying details to the archive.
+
+- **Odesa city births, 1878–1900.** JewishGen's catalogue entry for fond 39, the Odesa city rabbinate, reports its records for 1875–1919 as completely intact. [S18 @2026-11-16] A JewishGen volunteer project transcribed the birth books' own name indexes, which give the given name, surname, year and month of the event and the location in the book. Its project page reports 56,029 lines submitted to JewishGen for 1878–1889, 1891, 1894, 1896–1897 and 1900. [S17 @2026-11-16] MyHeritage lists a JewishGen-supplied collection, "Odessa Birth Records from JewishGen" (collection 20068). Its 2022 announcement gave 13,190 records and described them as Jewish births "between the years 1878 to 1900"; MyHeritage listed 55,983 records on 2026-11-16. [S15 @2026-11-16] [S16 @2026-11-16] Do not read that span as continuous coverage. Check the year against the project's list: a miss in 1890, 1892–1893, 1895 or 1898–1899 is untested, and a miss in a listed year does not mean the book is lost. Use a hit to fix the year, month and book location, then order the entry itself from fond 39 and keep the index line as its own version.
 
 ## 4. When the book is lost, search for named substitutes
 

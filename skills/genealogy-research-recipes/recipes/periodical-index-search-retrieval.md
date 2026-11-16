@@ -4,19 +4,27 @@ title: "Search a genealogical periodical index and retrieve the article"
 summary: "Search a genealogical periodical index such as PERSI and retrieve the article."
 kind: "records"
 scope: {"platforms": [], "tasks": ["Full-text search of Russian newspapers, and provincial gazettes (губернские ведомости) on paper or microfilm."]}
-privacy: "none"
-gates: []
-guardrails: [{"id": "PERIODICAL-INDEX-SEARCH-RETRIEVAL-01", "text": "A personal-name miss therefore usually means the article text was never searched, and a hit is only a citation."}]
+privacy: "living-person"
+gates: ["privacy-transfer"]
+guardrails: [{"id": "PERIODICAL-INDEX-SEARCH-RETRIEVAL-01", "text": "A personal-name miss therefore usually means the article text was never searched, and a hit is only a citation."}, {"id": "PERIODICAL-INDEX-SEARCH-RETRIEVAL-02", "text": "Until the gate is answered, keep the request as an unsent draft on the user's device."}]
 handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 33}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 37}
 ---
 
 # Search a genealogical periodical index and retrieve the article
 
 Use this recipe when an ancestor's surname, place or event might appear in a genealogical or historical society periodical, and you are searching an article index such as PERSI or the German indexes Der Schlüssel, Familiengeschichtliche Quellen and Quellenschau für Familienforscher. None of these is a full-text index. Most of what they record comes from article titles, plus authors and subjects that indexers assign. A personal-name miss therefore usually means the article text was never searched, and a hit is only a citation. The same logic applies to book searches that cover only metadata, which are handled in [HebrewBooks search recovery](hebrewbooks-search-recovery.md). To audit FamilySearch Catalog holdings for a locality, use [FamilySearch practical workflows § 2](familysearch-practical-record-workflows.md). For wording negative-search statements in a report, use the [standards audit](genealogy-standards-audit.md).
+
+## Contents
+
+- Record each index's depth and coverage before searching
+- Build the query set from place, jurisdiction and event
+- Carry every hit to the article
+- When a Russian periodical has no index: full text or the paper run
+- Report bounded results
 
 ## Record each index's depth and coverage before searching
 
@@ -33,6 +41,8 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
 - **Record which periodicals and years each index covers, and search every index that overlaps.** The presenter's worked comparison for one periodical shows the three indexes overlapping for some years. Because each index works to a different depth, a miss in Der Schlüssel says nothing about what Quellenschau or Familiengeschichtliche Quellen hold for the same years. Search all of them. [S13]
 - **Look up each numbered entry.** In Der Schlüssel, a locality entry does not list the surnames or subjects in the article, and a surname or subject entry does not give the places. The presenter shows item numbers that lead to the full entry. Looking up each number is the only way to see what the article covers. [S10], [S11]
 
+- **Search GPAI as well for English-language periodicals of 1962–2001.** The Genealogical Periodical Annual Index is a separate printed index, published yearly from 1962 to 2001 and indexed by surname, location or topic [S36]. A Library of Congress guide, read in its 2009 capture, shows the depth changing by volume. Volumes 1–4 (1962–65) are arranged by broad subject, article title, principal surname, author and place. Volumes 5–8 (1966–69) are arranged by male personal name, place, subject and author. Volumes 13–30 (1974–91) are arranged by personal name (surname and given name), locality and topic. The guide lists volumes 9–12 as not yet published [S35]. A PERSI miss for those years says nothing about GPAI. Record which volumes you searched and how each was arranged, and don't treat a woman's name missing from volumes 5–8 as a negative. One presenter recommends GPAI for articles about the research area but calls it hard to use (partial read: transcript excerpts only) [S37].
+
 ## Build the query set from place, jurisdiction and event
 
 - **Write the locality list first.** Before searching, list the ancestral place's jurisdictions: civil, parish, court or district, and region. Use the list for locality searches and when scanning tables of contents. [S12]
@@ -45,8 +55,13 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
 - **Treat an entry marked Rez. (Rezension) as a book review.** It points to a separately published book. Look for holdings of that book, for example in WorldCat. [S11]
 - **Track authors.** Note the author of any relevant article and add that name to later surname searches. Authors often write more than one article about the same family or area. [S10], [S12]
 
+- **Add PERSI's record types to place searches.** ACPL's PERSI handout lists the subject categories and record types PERSI uses: biographies, cemeteries, census, church, court records, deeds, directories, history, institutions, land, maps, military, naturalization, obituaries, passenger lists, school records, tax lists, vital records, voter lists, wills and other. Pair the place with each type that could record the event. Before narrowing, read the wording of the titles already in the results and take your next keywords from it, as the handout advises. [S31 @2026-11-16]
+
+- **When the original record is lost, look for a printed transcription.** Society periodicals printed abstracts and transcriptions of local records, cemetery transcriptions among them, and PERSI indexes those articles [S33], [S34]. An ACPL staff member tells of a researcher who found a transcription of records that later burned (partial read: transcript excerpts only) [S30]. Before reporting a destroyed record's content as lost, search the place with that record type. Cite and weigh what you find as a derivative of the lost original, not as the original.
+
 ## Carry every hit to the article
 
+- **Privacy gate:** <!-- privacy-gate: contact --> A request to a publisher or society, a library, an interlibrary-loan service or ACPL sends the user's name, contact details and wanted citations outside the user's own account. Before sending one, answer the [privacy gate](../SKILL.md#privacy-gate) in writing for that destination. Send only the citation and the requester details the holder asks for, and nothing from the user's tree or about living relatives. Until the gate is answered, keep the request as an unsent draft on the user's device.
 - **Record the full citation.** For each hit, record:
   - article title
   - periodical title
@@ -72,6 +87,20 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
   [S8], [S14]
 - **Check each holding volume by volume.** Library and digitized runs often have gaps. A digitized run only shows the copies one repository held, and Google Books results do not list volumes in order. Record which volumes and issues each holding actually has. [S5]
 - **Check the volume itself.** Once you have the volume, also check its table of contents and any surname index for the volume or issue. [S12]
+
+- **Try retrieval routes in this order and log each one.** ACPL's PERSI handout puts the publisher first, a library that holds the periodical second and an ACPL order last, and says ordering from ACPL is not the fastest route [S31].
+  - an online copy found by searching the article title, or a digitized issue on the publisher's or society's own website
+  - **Privacy gate:** <!-- privacy-gate: contact --> A copy request to the publisher or society sends the user's name, contact details and the wanted citations to that publisher or society.
+  - the publisher or society, at the contact details PERSI lists for the publisher in its results; ACPL calls a request to the publisher typically the fastest way to a copy [S31 @2026-11-16]. If the society has dissolved, go to the library routes; do not trace a former editor or member.
+  - other repositories, such as FamilySearch holdings or a state memory project
+  - **Privacy gate:** <!-- privacy-gate: contact --> A loan request sends the user's name, library account details and the wanted citations to the user's own library and, through it, to the lending library.
+  - a library that holds the periodical. Search WorldCat for the periodical title, not the article title [S31], then visit a holding library or ask your own library for an interlibrary loan.
+  - **Privacy gate:** <!-- privacy-gate: contact --> An article order sends the user's name and email address, the wanted citations and any payment details to the ACPL Genealogy Center by email.
+  - a copy order from ACPL, last (next bullet).
+
+  ACPL staff add the publisher's own digitized issues and the WorldCat search by periodical title (partial read: transcript excerpts only) [S30]
+
+- **Order from ACPL on its current article order form.** ACPL's handout, opened 2026-11-16 (the file is dated April 2023), says to email the completed form to <genealogy@acpl.info>; the articles and the fee statement come back by email. It gives the fee as $7.50 for up to six articles plus $0.20 a page, not counting the cover or title page [S31 @2026-11-16]. The form asks for the full article title as PERSI gives it and the journal title, takes six articles per form, accepts no phone requests and says to allow six to eight weeks. It was read in a 2024 Internet Archive capture because the live file refused automated requests on 2026-11-16 [S32 @2026-11-16]. Follow the payment instructions on the form you send: the archived form asks for the $7.50 in advance, and the newer handout does not say.
 
 If a PERSI heading is missing from the cited issue's table of contents, first confirm the journal,
 volume and issue, then inspect the complete cited issue for the indexed subject. The ACPL

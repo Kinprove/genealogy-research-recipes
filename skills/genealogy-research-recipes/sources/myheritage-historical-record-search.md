@@ -105,8 +105,18 @@ words instead of quoting the switch label. The videos S1 to S9, S12 and S13 were
 - **S14:** [MyHeritage Help: Filtering Record Matches](https://www.myheritage.com/help/en/articles/12851479-how-can-i-filter-my-record-matches), read 2026-11-16. Used for: Settings, confidence slider and record-type filters; no numeric0–5 range, increments or default verified.
 - **S15:** [MyHeritage Education: Getting the most out of Record Matches](https://education.myheritage.com/article/how-to-get-the-most-out-of-record-matches/), read 2026-11-16. Used for: matches to Geni, FamilySearch and WikiTree being other users’ trees rather than historical records.
 - **S16:** [MyHeritage’s Record Matches and Discovery Settings](https://www.beholdgenealogy.com/blog/?p=3922), read 2026-11-16. Used for: Record Match confidence/type-filter diagnosis and classification of matches from other trees; current provider help controls the controls and source categories, with no historical numeric/default setting adopted. The relevant article text was read at the public URL; linked interfaces were not tested.
+- **S17:** MyHeritage Blog (community post), [Hidden Gems: Exploring Rare Female Names in the U.S.](https://blog.myheritage.com/2025/01/rare-female-names-in-the-us/), published 2025-01-16, read 2026-11-16. Used for: the post's claim that on MyHeritage `*` replaces a fixed range of letters and `?` one letter. Not adopted: H1 and S19 document no such syntax and S18 reports that MyHeritage supports neither character. Howto 4 cites the post only as the rejected claim. Rights: cited reference, not reproduced.
+- **S18:** Family Tree Magazine, David A. Fryxell, [21 Search Tips for Google, Ancestry and Other Genealogy Websites](https://familytreemagazine.com/websites/now-what-online-search-wildcards/), last updated 2026-11-04 (versions printed in the October/November 2016 and January/February 2026 issues), read 2026-11-16. Used for: section 7, "Experiment with wildcards", which says Ancestry.com, the Ellis Island Passenger Search, FamilySearch and Findmypast support both `?` and `*` and MyHeritage supports neither. The update date does not show when the MyHeritage statement was last tested, and no live MyHeritage search was run. Rights: cited reference, not reproduced.
+- **S19:** MyHeritage Knowledge Base, [Why Consider Alternative Spellings When Searching Records?](https://education.myheritage.com/article/why-consider-alternative-spellings-when-searching-records/), undated (page copyright 2026), read 2026-11-16. Used for: its general wildcard step (`?` replaces one character, `*` several), followed by the statement that on MyHeritage this should not be needed because its technology returns variants such as Smithe, Smyth and Schmidt for Smith. It does not say that MyHeritage's search accepts either character. Rights: cited reference, not reproduced.
+
+H1 was re-read on 2026-11-16 and is still dated 2026-04-16. It documents advanced name options for an
+exact match, spelling variations and matching initials, and it mentions no wildcards, `*` or `?`.
+Howto 4's wildcard paragraph rests on H1, S18 and S19. The other items in that batch of community
+techniques were not adopted. Most were collection announcements or advice the recipe already gives.
+Some could not be confirmed at a source opened that day: MyHeritage's collection pages, their
+Internet Archive captures and Tacoma Public Library's index page returned no readable content.
 
 ## Credits
 
-- Community sources S16 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
+- Community sources S16, S17 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

@@ -11,12 +11,20 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 119}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 130}
 ---
 
 # Interpret a historical Canadian census entry as a de jure listing
 
 Use this recipe when a historical Canadian census line is about to be used as evidence of where someone lived, whether they were alive, who was in the household, or their marital status. Also use it when a name search of a Canadian census, such as 1931, misses a household and you have to browse the images by geography. The default mistake is to read a Canadian listing the way you would read a "present on census night" listing. For year-specific U.S. counting rules, double enumeration and district carry-over, use [U.S. census workflows](us-census-practical-workflows.md). For stated statuses and merge conflicts in general, use [evidence/proof judgment](evidence-proof-judgment.md).
+
+## Contents
+
+- Record the enumeration basis before reading the line
+- Apply the de jure consequences decisively
+- Check form wording and timing for that year
+- Browse by title-card geography when the name search misses
+- Return an annotated observation
 
 ## Record the enumeration basis before reading the line
 
@@ -45,6 +53,8 @@ The Ep. 203 guest says the residence rules let a wife report a husband who had l
 - **Instructions:** look for that year's enumerator instructions. The Ep. 203 guest also points to newspaper notices printed before an enumeration, which explained rules such as de jure counting [S2].
 - **Remote and northern districts:** if the entry comes from a northern or remote district that enumerators reached rarely, flag the observation with a possible timing gap and check the printed census reports for that district. Obee says such areas might get one visit a year. Information there could be taken about two months before or after the official date, so a person interviewed in person might have died by census day [S1]. Take the population and age reference date from that year's instructions. For 1931 it is 1 June 1931, and a late visit does not admit a child born after that date.
 
+- **1931 radio column:** read column 10, "Has this family a radio?", as one answer for the family, not for a person. The 1931 instructions (§100, as transcribed by the Canadian Century Research Infrastructure project) had the enumerator write yes or no opposite the name of the head of the family "irrespective of the ownership of the instrument" [S15]. LAC notes that 1931 was the first census to ask it [S11]. Record the answer once, for the family. Do not copy it to other members, and do not read a yes as the head having bought or owned the set. Kathryn Lake Hogan (transcript excerpts, not independently verified) reads a yes as a hint of the family's prosperity [S10†]; log it as household context only, never as evidence of income.
+
 ## Browse by title-card geography when the name search misses
 
 Since 1 June 2023 the 1931 images have been public, and at launch they could only be browsed. The presenter's workflow comes from that period [S5]. LAC's announcement confirms a free searchable **1931** index in Census Search, made with Ancestry and FamilySearch. [S9] Search it first; check another provider's actual collection coverage before treating it as an independent search. Use the browse below when the index misses a household you have good reason to expect. A missed name search does not show the household is absent. For index and search-scope failures on a platform, use [Ancestry search recovery](ancestry-record-search-recovery.md).
@@ -68,6 +78,21 @@ Since 1 June 2023 the 1931 images have been public, and at launch they could onl
    These screens only decide where to keep looking. A neighbourhood that matches by ancestry or a nearby street does not identify anyone.
 6. **Locate and cite.** Find the entry and cite the sub-district and image number. In the presenter's example the exact match was sub-district 11, image 18 [S5]. Then read the entry under the de jure rules above.
 
+Where no directory covers the place or year, take the ancestor's address from the 1935 federal voters list and work back to 1931, as Kathryn Lake Hogan suggests (transcript excerpts, not independently verified) [S10†]. Its entries give name, address and occupation and list a household's voters together [S18]. The lists run by electoral district within each province, then by polling station number and address; only some rural districts are alphabetical [S16], [S17]. Read the 1935 address as a lead to test in 1931, not as a 1931 residence: the list is four years later and names only people eligible to vote [S16]. Carry the street or township into the finding-aid lookup below, not the 1935 district or poll number, because the 1931 returns are organized by districts that closely follow the 1924 electoral map [S11].
+
+LAC holds the federal voters lists from 1935 on, and the 1935 lists are indexed by name and digitized on Ancestry, a subscription service that many public libraries offer free [S16 @2026-11-16].
+
+**Look up the 1931 sub-district in LAC's finding aids.** Hogan (transcript excerpts, not independently verified) points to census statistics for western districts whose names do not match the place the family lived [S10†]. Do not take the district from a table of census divisions: the divisions used to publish results sometimes differ from the districts used to collect the returns [S12]. No 1931 sub-district maps are known to survive, so work from the written descriptions [S13].
+
+- **Cities.** For a street in Halifax, Saint John, Quebec, Montréal, Toronto, Hamilton, London, Winnipeg, Edmonton, Calgary or Vancouver, use LAC's street index for that city and only its entries marked 31 [S13].
+- **Elsewhere.** Keyword-search the province's finding aid, which transcribes the Dominion Bureau of Statistics sub-district descriptions [S13]. On the Prairies, search both the village or town name and the township, range and meridian. In the Saskatchewan aid's first pages (partial read), a township's description often excludes a village that has its own sub-district, so the family's land and the nearby village can fall in different sub-districts [S14]. Open every sub-district a search returns; LAC's own example, "Birtle", returns sub-districts 24, 25 and 63 of Marquette [S13].
+- **Images.** The Saskatchewan aid (partial read: pages 1–2 checked) gives each sub-district's district number and name, microfilm reel and first and last image numbers [S14]. Go to that range and confirm the title card.
+- **Unnamed places.** If the aid does not name the place, find the 1924 federal riding it lay in, because 1931 districts nearly always match those ridings [S11], [S12]. Then read that district's descriptions in the aid.
+
+- **Combined sub-districts.** Some small sub-districts were combined by the enumerators. LAC's search takes only the first number of a combined pair; for sub-districts 43 and 44 of District 114, enter 43 [S11 @2026-11-16].
+
+Use the earlier number when the finding aids leave the household unplaced, then step through title cards. LAC says 1931 sub-district names or boundaries are not those of 1921, particularly in large cities [S11]. Hogan's guess (transcript excerpts, not independently verified) that 1921 and 1926 districts partly carried over to 1931 is not a rule [S10†]; use an earlier sub-district description only to help read the 1931 descriptions [S13].
+
 ## Return an annotated observation
 
 For each census line, return:
@@ -84,6 +109,8 @@ For each census line, return:
 For a browse, also return:
 
 - the name searches tried and where
+- the address sources used (directory, 1935 voters list), with their dates
+- the finding-aid or street-index searches and the sub-districts they returned
 - the log of title cards checked
 - partial matches
 - the screens applied

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-07"
 checked_basis: "checked 7 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 110}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 117}
 ---
 
 # Recipe: Recover and inventory a U.S. military pension file
@@ -289,6 +289,20 @@ motivates this comparison without establishing misfiling or the missing paper's 
 6. End with a claim-action timeline, source-linked leads and explicit gaps. Send identity,
    relationship or conflicting-evidence conclusions to the evidence/proof workflow. [S1, S2]
 
+In a Revolutionary War file, sort the papers by claim before you build the timeline. One file can
+hold the applications of more than one claimant: the soldier, his widow or his children [S34],
+[S66]. A veteran rejected under one act could reapply years later under another, so a rejected
+claim and a granted one can share the file [S66]. A W number names the widow's pension; read every
+image for the soldier's own declaration and the decisions on his claim before you treat the file
+as hers alone, because her file may or may not include his [S34], [S66]. The papers are in no
+particular order, and important ones can lie near the end [S66].
+
+Give each document in the image/document inventory the claim it belongs to: the soldier's, the
+widow's, a rejected claim, another claimant's, or unassigned when the papers do not show it. Then
+order each claim's documents by date in the claim-action timeline. Record the sort in the tables;
+do not rename or reorder the images. A Just Genealogy video motivates this sort by pensioner,
+allowing for a rejected claim; its transcript could not be opened for this review [S67†].
+
 On an affidavit that does not state where the affiant lived, copy the venue line and the county
 named in the notary's or justice's certificate. Record the venue county as where the affiant was
 on the affidavit's date: the certificate is meant to show where the act was performed [S49],
@@ -376,7 +390,7 @@ If a Continental soldier or officer is linked to a corps of invalids under the 2
 
 | Table | Fields |
 | --- | --- |
-| Image/document inventory | Image ID, original order/locator, document ID, type, date, creator, reading status |
+| Image/document inventory | Image ID, original order/locator, document ID, claim, type, date, creator, reading status |
 | Claim-action timeline | Date, action/decision as written, claimant, linked document IDs, named-person leads, unresolved question |
 
 **Check:** An early rejection may be followed by further submissions or a later decision.

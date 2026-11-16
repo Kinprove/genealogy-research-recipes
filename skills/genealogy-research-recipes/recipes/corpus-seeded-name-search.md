@@ -270,6 +270,18 @@ JewishGen's transcription rules allow hidden “Other Surnames” and “Other T
 
 Phonetic search is another candidate lane: JewishGen's Belarus instructions explicitly document name forms that it misses. It cannot replace searches for attested alternatives. [S4]
 
+Before relying on a Soundex or other sound-alike option, find out which code the field uses.
+American Soundex, the census system the U.S. National Archives describes, always keeps the
+surname's first letter as a letter [S55]. Spellings that sound alike but begin with different
+letters therefore never share its code: Auerbach is A-612, Ohrbach O-612. Daitch–Mokotoff Soundex
+codes the first letter as a digit, and JewishGen's coding page gives both names 097500 [S56].
+Under American Soundex, search each spelling with a different first letter as its own lane, and
+search a surname with a prefix such as Van, De or La both with and without it, since the census
+guide codes it both ways (VanDeusen: V-532 or D-250) [S55]. A shared code retrieves candidates;
+it is not evidence that two spellings are one name or that two entries are one person. A
+community blog post offers a shared Soundex code as a way to find sound-alike surnames but names
+no Soundex system [S57].
+
 ## Stop with a scoped result
 
 Keep the corpus/index version or access date, field, exact Unicode query, filters, transformation policy, inspected portions and result identifiers. Separate occurrences, unique records/books and identified people. Label source-confirmed target readings, distinct similar names, rejected noise and unresolved passages separately.
