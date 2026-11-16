@@ -41,6 +41,8 @@
 
 **Authored synthesis in the 2026-11-13 additions:** asking the user for the submitter's name instead of inventing one, splitting a `CONC` value between two non-space characters, and the warning that programs may disagree on the year of a January to March `JULIAN` date, drawn from the different years the 7.0 specification and the migration guide give for one day, are this recipe's own. S1, S12, S16 and S19 supply the facts.
 
+**Authored synthesis in the 2026-11-16 addition:** inspecting every text value and attachment for possibly living informants or correspondents outside person records, retaining other historical citations, and reporting withheld items without exposing their details extend the existing sharing rule. The continuation-line check above is reused; no new format rule or specification source is introduced.
+
 ## Credits
 
 - Kinprove original procedural synthesis, with facts checked against the FamilySearch GEDCOM 7.0 specification and the gedcom.io specifications index, a Chronoplex Software blog post, the GEDCOM 5.5.1 standard with inline errata, the ged4py documentation, a Tamura Jones article, the gedcom Ruby gem documentation, the gedcomkit source, the Calendar (New Style) Act 1750, a ScotlandsPeople guide, Familio's GEDCOM help, the gedcom.io migration guide, a FamilySearch Community thread and a RootsMagic support article cited as S1 to S14 — FSL-1.1-MIT (kinprove-original)

@@ -2248,5 +2248,11 @@
   "kind": "request",
   "action": "Ask the holding archive, with the entry's exact locator",
   "checkpoint": "A request file can identify a requester other than the subject"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "request",
+  "action": "Send both by the email or postal route on",
+  "checkpoint": "A Dresden or Bundesarchiv enquiry transmits"
  }
 ]

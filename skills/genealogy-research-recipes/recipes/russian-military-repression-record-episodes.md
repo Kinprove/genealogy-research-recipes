@@ -168,6 +168,26 @@ run since 2000, and said the online entries give basic data only. [H60 @2026-11-
 a Dresden entry and an OBD Memorial POW card as two sources, check each one's stated archival
 origin: if both reproduce the same German registration card, that is one source reached twice.
 
+**Privacy gate:** <!-- privacy-gate: request --> A Dresden or Bundesarchiv enquiry transmits
+personal and family details; answer the privacy gate in `SKILL.md` before sending either form
+or supporting documents, including details about third persons.
+
+Choose the enquiry destination separately from the Dresden index hit. The Dokumentationsstelle's
+enquiry page limits its certificates, since 1 January 2017, to Red Army prisoners and civilians
+held in camps or buried in the area it describes as Wehrkreis IV/Saxony, and directs enquiries
+outside Saxony to the Bundesarchiv [H134 @2026-11-16]. Do not infer a camp's historical jurisdiction
+from today's boundary or assume an index entry establishes the centre's enquiry remit; clarify
+a borderline location with the institution.
+
+For a Soviet POW held in a camp or work detachment in the former German Reich, the Bundesarchiv
+describes a database enquiry using two forms: its Soviet-POW database form, which may be completed
+in Russian, and the signed German Benutzungsantrag. Send both by the email or postal route on
+that page; it names Abteilung Deutsches Reich, while Dresden prints a different department
+[H135 @2026-11-16], [H134 @2026-11-16]. Use the Bundesarchiv's own current contact instructions.
+This POW form does not establish a route for civilian records. Preserve the reply and any
+document reference, and apply the same origin check as for Dresden and OBD: another institution's
+database reply is not automatically independent evidence.
+
 For a Red Army prisoner who passed through a concentration camp, search the Arolsen Archives'
 camp lists on Ancestry as well as in Arolsen's own online archive. Arolsen announced on 26 January
 2026 that more than eight million names from concentration-camp lists had been fully indexed with
