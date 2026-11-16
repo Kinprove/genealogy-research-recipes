@@ -300,6 +300,12 @@
   "checkpoint": "A document uploaded to Scribe AI gives its contents"
  },
  {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "Gate each new model, prompt or setting on a small blind control set.",
+  "checkpoint": "Register images can name living or possibly living people; answer the privacy gate in `SKILL.md` before sending any control image, crop or batch to an external AI reader."
+ },
+ {
   "recipe": "ancestry-dna-match-investigation.md",
   "kind": "contact",
   "action": "Obtain a missing comparison from an authorized kit manager when your own access cannot show it.",
