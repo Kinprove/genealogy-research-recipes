@@ -47,6 +47,7 @@ When the target's own entry does not survive and a generation has to be rebuilt 
 - 5\. When an entry conflicts with other records, read the other exemplar
 - 6\. Recover a missing marriage
 - 7\. Read the formulae literally first
+- Reading the page
 - 8\. Copy every margin note as its own dated event and follow it
 - 9\. Treat names and patronymics as hypotheses
 - 10\. Use machine-read full-text search for leads, never for a negative
@@ -227,6 +228,22 @@ Apply each reading literally, then test it against the rest of the entry.
 - **Births are filed by baptism.** A birth entry stands under the date and month of the baptism, not of the birth [S135], [S75]. A 19th-century priests' manual says village parishes did not put baptism off, the gap being hours and never more than two or three days [S136], and another blogger says newborns were brought the same or the next day [S78]. One regional researcher still found gaps from a day to a year [S135]. When a birth is missing from its month, search the following months and the next year's book, and record a birth known only from its baptism as on or before that date.
 - **Death-entry columns.** The last column of the death part, «Кто совершал погребение, и где погребены», gives the officiant and the burial place [S137], [S79]. «Не исповедан и не приобщен», with a cause such as «по внезапной смерти», or a blank «кто исповедовал и приобщал» column marks a death without the last rites, usually a sudden one [S138], [S80]. Read it against age: in an 1838 book an infant who died suddenly is marked only «не приобщена» [S138]. A note of the стан police officer (пристав) in that column, or a pristav's certificate filed with the entry, means the police examined the death, and burial could then come well after the usual two days [S80], [S129]. Follow it to the police file.
 
+## Reading the page
+
+A project issue report describes these traps from a blind whole-parish transcription of Kaluga guberniya books of the 1870s–1910s, about 3,000 frames [S164]. The images and run outputs were not independently inspected; these are reported examples, not measured error rates established here. Apply the checks below to human and AI readings, alongside [AI documentary-record verification and image-quality guidance](ai-for-documentary-records.md#the-pitfalls-worth-internalizing-the-least-obvious-most-llm-usable-part).
+
+- **Fita in given names and patronymics.** The report gives «Ѳеодорова» misread as «Сидорова» or «Богдарова», and «Ѳевронія» as «Евфросія»; the latter reading produced a false match to a different woman [S164]. Check every apparent С-/Е- name initial for the oval and crossbar of Ѳ. Enlarged crops helped in the reported exercise [S164]; compare a crop from the original with the full line, following the AI recipe's image-quality cautions, and leave an uncertain letter open. Keep the written form beside any search form; for Ѳ/Ф variants use [pre-reform spelling lanes](corpus-seeded-name-search.md#diagnose-three-different-failures).
+
+- **Year digits in «19__» headings.** The reported readings changed 1910/1911 to 1916, and 1908 to 1918 or 1308 [S164]. Recheck every header against neighbouring headings, entry dates, the running м./ж./№ counters and monthly totals. After reading the book, build a frame-to-year map in binding order. Check for monotonic years within each continuous parish sequence, allowing descending order: the report notes reverse-year binding [S164]. Flag every break and investigate an uncertain digit, a misbound leaf or an inserted document; never sort the frames or force their years to fit. Counters and totals are consistency checks, not independent proof of a year. Keep the raw header reading, the assigned year and its basis, or mark the year unresolved.
+
+- **Counters and totals.** Track the birth columns' м./ж. counters separately and the marriage №, following the page's own headings. The report uses these with monthly and annual totals such as «Итого въ Іюлѣ…» to flag missing or doubled entries and clerical numbering slips [S164]. Record the first and last counter of every parish/year/part actually read, with the frame or leaf range and any gaps. Keep the written total, the sum of its columns and your own entry count separate, as in [coverage as pages × targets](archival-image-coverage-verification.md#report-coverage-as-pages--targets) and [the book's own totals](russian-village-family-reconstitution.md#2-state-an-identity-as-an-inference-until-countable-checks-agree). Reconcile discrepancies on the images; never add, drop or reclassify an entry, or change a year, sex or status, to make a total agree. A counter jump alone does not prove a missing scan.
+
+- **Misbound leaves and inserted sheets.** The report describes godparents displaced to the next frame by a reversed leaf, books of other parishes bound in, and loose later-issued extracts and police papers [S164]. Join split entries by counter within the same parish/year/part, checked against the dates, people and column continuation; retain both fragment locators. Transcribe each sheet under the parish named on that page and distinguish its document date from any event date it copies. If either is absent or unreadable, keep it unknown rather than inheriting the cover's parish or year. Record where the sheet is bound, even when it interrupts the year sequence.
+
+- **Status and confession as written.** The report found «военный», «запасной рядовой», «оба раскольники» and «присоединение из раскола» omitted or normalised to «крестьянинъ … оба православные» [S164]. Copy the literal words before interpreting them under step 7. Never fill estate, military status or confession by default; preserve a blank or uncertain reading as such, including where the surrounding entries repeat a formula.
+
+- **Later marginal notes.** The report includes consistory decrees, «Выдано … 1947» and conversion notes of 1914 attached to earlier entries [S164]. Link each note to its entry but give it its own date and wording, keeping the original event date separate. Do not assign the entry to the note's year. Follow [step 8](#8-copy-every-margin-note-as-its-own-dated-event-and-follow-it) for the issuing body, decree number and next record; leave an unstated date or recipient unknown.
+
 ## 8. Copy every margin note as its own dated event and follow it
 
 Copy each note in full, with its issuing body, date and number, as a separate observation. Do not merge it into the entry.
@@ -320,8 +337,8 @@ Return three tables:
    - any transfer notes (ZAGS, district archive, museum, another oblast)
    - whether it was searched, not searched or not accessible.
 
-   Name every delo opened for that year.
-2. **Literal entry transcriptions.** Put each margin note on its own row with its date, issuing body, number and follow-up series (consistory divorce case, court, ZAGS, physician or investigator).
+   Name every delo opened for that year. Include the frame-to-year map in binding order, first/last counters for each parish/year/part read, inspected frame or leaf ranges and gaps, and the written totals, column sums and your own entry counts with any unresolved discrepancy.
+2. **Literal entry transcriptions.** Keep the locators of every fragment of a split entry. Put each margin note on its own row with its date, issuing body, number and follow-up series (consistory divorce case, court, ZAGS, physician or investigator).
 3. **Name and parentage hypothesis register.** Give each competing explanation and the confession-list, revision-list and godparent tests applied to it. Give ages as ranges. A range mismatch lowers a candidate's rank and never removes it.
 
-Call an entry absent only for the dela and exemplars you actually opened.
+Call an entry absent only for the dela, exemplars and frame/leaf and counter ranges you actually read, with unresolved gaps stated.

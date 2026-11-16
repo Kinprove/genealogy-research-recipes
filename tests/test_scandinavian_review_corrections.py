@@ -1,4 +1,4 @@
-"""The Scandinavian recipes keep the corrections from issue #212.
+"""The Scandinavian recipes keep the corrections from issues #212 and #307.
 
 Each test pins the corrected facts inside the section where they live and, where the old wording
 was wrong, checks that it is gone, so a later edit cannot quietly bring it back.
@@ -14,6 +14,12 @@ RECIPES = ROOT / "skills/genealogy-research-recipes/recipes"
 def recipe(name: str) -> str:
     """Return a recipe's text with each run of whitespace folded to one space."""
     return " ".join((RECIPES / name).read_text(encoding="utf-8").split())
+
+
+def recipe_line(name: str, prefix: str) -> str:
+    """Select the original table row or bullet, excluding any adjacent correction note."""
+    return next(line for line in (RECIPES / name).read_text(encoding="utf-8").splitlines()
+                if line.startswith(prefix))
 
 
 def between(text: str, start: str, end: str) -> str:
@@ -48,12 +54,12 @@ class DanishRecordTests(unittest.TestCase):
             "## Denmark: go beyond the church books",
             "## Rebuild siblings and marriages from the named parents",
         )
-        marker = "**Enrolment ages in the lægdsruller.**"
-        self.assertLess(section.index("- Use the lægdsruller (military levying rolls)"), section.index(marker))
-        note = from_marker(section, marker)
-        for fact in ("0–36 for 1788–1808", "0–45 for 1808–1849", "15–38 from 1849", "19–38 from 1869",
-                     "18–36 from 1912", "not entered at birth"):
-            self.assertIn(fact, note)
+        bullet = recipe_line("scandinavian-patronymic-farm-name-record-recovery.md", "- Use the lægdsruller")
+        for fact in ("15–38 from 1849", "0–36 for 1788–1808", "0–45 for 1808–1849", "19–38 from 1869",
+                     "18–36 from 1912", "not entered at birth", "years when his age fell within his period's range"):
+            self.assertIn(fact, bullet)
+        self.assertNotIn("from birth, and from 1849 all men", section)
+        self.assertNotIn("**Enrolment ages in the lægdsruller.**", section)
 
 
 class SwedishParishTests(unittest.TestCase):
@@ -66,10 +72,16 @@ class SwedishParishTests(unittest.TestCase):
             "## Bridge gaps with poll-tax registers and probate",
             "## Before 1869, look for emigrants in the moving-out registers",
         )
-        note = from_marker(section, "**Poll-tax ages and scans.**")
-        for fact in ("held for 1652–1840", "15–63 from 1652", "17–63 from 1841", "18–60 from 1857",
-                     "15–62", "1642–1820", "indexed them by parish"):
+        bullet = recipe_line("scandinavian-parish-record-recovery.md", "- **Mantalslängder")
+        for fact in ("15–63 for 1652–1840", "12 and over from 1635", "17–63 for 1841–1856",
+                     "18–60 for 1857–1862", "18 and over from 1863", "practice varied between places"):
+            self.assertIn(fact, bullet)
+        self.assertNotIn("from age 15.", bullet)
+        note = from_marker(section, "**Poll-tax scans and coverage.**")
+        for fact in ("15–62", "without naming a period", "1642–1820", "indexed them by parish",
+                     "Some volumes were not scanned", "may hold years missing from the scans"):
             self.assertIn(fact, note)
+        self.assertNotIn("1652", note)
 
     def test_emigration_before_1869_names_the_summary_reports(self):
         section = between(
@@ -88,10 +100,17 @@ class SwedishParishTests(unittest.TestCase):
             "## Finland: work the rippikirjat the same way",
             "## Close with a household chain packet",
         )
-        note = from_marker(section, "**Russian forms and church-book images.**")
-        for fact in ("mainly for Orthodox records", "Russian until the 1920s", "Julian calendar until 1920",
+        bullet = recipe_line("scandinavian-parish-record-recovery.md", "- Church records")
+        self.assertIn("For Orthodox records, add Russian forms", bullet)
+        self.assertIn("in Lutheran parishes", bullet)
+        self.assertIn("[S31 @", bullet)
+        self.assertNotIn("For the period under Russian rule", section)
+        note = from_marker(section, "**Orthodox names and church-book images.**")
+        self.assertIn("Russian until the 1920s", bullet)
+        for fact in ("patronymic instead of a surname", "Ilomantsi and Taipale", "Julian calendar until 1920",
                      "Astia", "record the image as not seen"):
             self.assertIn(fact, note)
+        self.assertNotIn("Russian until the 1920s", note)
 
 
 class SwedishMilitaryTests(unittest.TestCase):
@@ -114,9 +133,12 @@ class SwedishMilitaryTests(unittest.TestCase):
             "## 2. Read a nil only against what the index actually covers",
             "## 3. Work the general muster rolls",
         )
-        note = between(section, "**Conscription cards: an archive, not a database.**", "Record the index")
-        self.assertIn("*Värnpliktskort. Stamkort och läkarhandlingar, avregistrerad*", note)
-        self.assertIn("1888-1921", note)
+        row = recipe_line("swedish-military-record-routing.md", "| Riksarkivet")
+        self.assertIn("*Värnpliktskort. Stamkort och läkarhandlingar, avregistrerad*", row)
+        self.assertIn("1888-1921", row)
+        self.assertIn("search Riksarkivet by that title", row)
+        self.assertNotIn("Riksarkivet Värnpliktiga database", section)
+        self.assertNotIn("**Conscription cards: an archive, not a database.**", section)
 
 
 class SwedishPropertyBookTests(unittest.TestCase):
