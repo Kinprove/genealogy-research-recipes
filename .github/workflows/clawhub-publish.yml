@@ -63,5 +63,6 @@ jobs:
         env:
           VERSION: ${{ steps.release.outputs.version }}
         run: |
+          set -euo pipefail
           ci-tools/node_modules/.bin/clawhub package inspect "$PACKAGE_NAME" --version "$VERSION" --json > "$RUNNER_TEMP/clawhub-inspect.json"
           python -B scripts/check_clawhub_release.py inspect "$RUNNER_TEMP/clawhub-inspect.json" | tee -a "$GITHUB_STEP_SUMMARY"
