@@ -40,6 +40,8 @@ inspection coverage with every finding or limitation.
 
 ## Before starting
 
+For help reading a record, choose the FamilySearch Community research group for its country or language. The Library’s FAQ directs users to **Groups > Research Groups** and a group’s **Ask a Question** route [S95 @2026-11-16]. **Privacy gate:** <!-- privacy-gate: publish --> Before posting a document link, excerpt or question to FamilySearch Community, answer the privacy gate in `SKILL.md`; the material can name living people. Share only material permitted for that audience. Include the record’s existing image link, locality/date, the precise reading problem and what you have read so far. Keep the reply as an assisted reading to compare with the image [S99 @2026-11-16].
+
 Use authorized access and keep working copies and living-person information private. Before sharing
 a report, choose its audience and prepare a redacted version as needed; workflow 17 records and
 checks the visibility choice. The cited tutorials date from 2014–2026; confirm the current interface
@@ -215,6 +217,8 @@ confirmed the right series. A matching title alone does not establish the right 
 **Sources:** [S15](https://www.youtube.com/watch?v=BGu3IyZTvzU), [S07](https://www.youtube.com/watch?v=4M3h-bSiQGM), [S01](https://www.youtube.com/watch?v=mZc2-Z-TROw), [S09](https://familylocket.com/citing-digitized-records-on-familysearch/).
 
 ### 6. Diagnose restricted viewing separately from disabled downloading
+
+For a NARA microfilm publication found through FamilySearch, do not plan a NARA rental: that programme ended 31 July 2009. NARA lists onsite viewing and purchase alternatives [S94 @2026-11-16]. Use the publication title, publication number and reel when seeking a NARA or library copy, and record the actual holder and access outcome [S98 @2026-11-16].
 
 **Trigger:** An image is blocked at home, a restriction symbol appears, or Download is disabled.
 
@@ -493,6 +497,10 @@ use the identity and copied-fact checks below. This distinction comes from the
 adopting its speculation about hint algorithms or a universal source-object structure.
 
 ### 15. Detach a wrong source and inspect copied facts
+
+For a compiled-family lead, search the title *Family Group Record Collection—Archive Section, 1942–1969*. FamilySearch’s 2013 guide describes sheets arranged by family surname and then head of family [S93]. Follow the current catalogue or collection entry to the sheets actually available and preserve the submitter and references. Keep the sheet’s family assertions separate from the records it cites [S97].
+
+When following an older CET discussion, look for **User Trees**: the official feedback group announces the retirement of the CET terminology [S92 @2026-11-16]. Use the User Tree route and its controls described below; the older label is not a separate current tree product [S96 @2026-11-16].
 
 **Trigger:** A historical record has been attached to the wrong Tree person.
 

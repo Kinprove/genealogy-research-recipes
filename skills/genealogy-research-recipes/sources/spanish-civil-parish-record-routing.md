@@ -49,6 +49,17 @@ The decision order, the period and diocese routing, the survival-before-loss che
 - **S44:** PARES, [Movimientos Migratorios: búsqueda](https://pares.cultura.gob.es/MovimientosMigratorios/buscadorAvanzadoFilter.form), read 2026-11-13. Used for: the search fields (name, birth year, place and year of departure or arrival) and the series it covers.
 - **S45:** BOE, [Ley del Notariado, original text of art. 37](https://www.boe.es/buscar/act.php?id=BOE-A-1862-4073&b=44&tn=1&p=18620529) (1862 version, in force until 8 November 2023), read 2026-11-13. Used for: protocols more than 25 years old going to the general archive.
 
+### Additional sources checked 2026-11-16
+
+- **S46:** spanish-genealogy, [Spanish Civil Records: TEN THINGS You Should Know to Research Your Family Tree](https://www.youtube.com/watch?v=u_e47_rmT9k). Only a transcript excerpt was read 2026-11-16 from the copy scraped 2026-11-10; video playback was not inspected. Used for the corrected method addition.
+
+- **S47:** Ministry of Justice, Spain, [El Registro Civil: competent registry](https://www.mjusticia.gob.es/es/ciudadania/estado-civil/registro-civil). Passage read 2026-11-16. Used for: The page distinguishes event-place registration from exceptions, including certain births registered at parental domicile. Do not state an exceptionless event-place rule.
+
+- **S48:** Ministry of Justice, Spain, [El Registro Civil](https://www.mjusticia.gob.es/es/ciudadania/estado-civil/registro-civil). Passage read 2026-11-16. Used for: Explanatory page maps numbered sections to births/general, marriages, deaths and guardianship/legal representation. This is used to decode historical book locators, not to describe every present register’s architecture.
+
+- **S49:** U.S. Social Security Administration, [GN00312.372 Spain: Vital Statistics Records](https://secure.ssa.gov/POMS.NSF/lnx/0200312372). Passage read 2026-11-16. Used for: The procedure states that divorce is recorded as a marginal note on the marriage record terminated by divorce; old contact addresses were not adopted.
+
 ## Credits
 
 - Kinprove original procedural synthesis; civil-registration dates, diocesan boundaries, custody, series scope and access rules checked against BOE and Gaceta legal texts, the Acta Apostolicae Sedis, PARES and Archivo Histórico Nacional pages, diocesan, provincial, foral and notarial-college pages, Defence and Culture ministry pages and the Army's personnel-custody guide, INE statistics, open-data and university library records, reference pages, an Andorran law and archive pages and a journal article cited as S1 to S45 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)

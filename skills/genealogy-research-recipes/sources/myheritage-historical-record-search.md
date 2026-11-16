@@ -100,6 +100,13 @@ howto 12 now name that capture and its date. H11 records no address and could no
 howto 5 no longer cites it and describes the option to show results from other languages in H1's
 words instead of quoting the switch label. The videos S1 to S9, S12 and S13 were not rechecked.
 
+### Additional sources checked 2026-11-16
+
+- **S14:** [MyHeritage Help: Filtering Record Matches](https://www.myheritage.com/help/en/articles/12851479-how-can-i-filter-my-record-matches), read 2026-11-16. Used for: Settings, confidence slider and record-type filters; no numeric0–5 range, increments or default verified.
+- **S15:** [MyHeritage Education: Getting the most out of Record Matches](https://education.myheritage.com/article/how-to-get-the-most-out-of-record-matches/), read 2026-11-16. Used for: matches to Geni, FamilySearch and WikiTree being other users’ trees rather than historical records.
+- **S16:** [MyHeritage’s Record Matches and Discovery Settings](https://www.beholdgenealogy.com/blog/?p=3922), read 2026-11-16. Used for: Record Match confidence/type-filter diagnosis and classification of matches from other trees; current provider help controls the controls and source categories, with no historical numeric/default setting adopted. The relevant article text was read at the public URL; linked interfaces were not tested.
+
 ## Credits
 
+- Community sources S16 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

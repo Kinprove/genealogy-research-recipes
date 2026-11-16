@@ -61,8 +61,20 @@ S32 to S41 were read on 2026-11-12. Not verified independently: the call-name ex
 
 S42 to S46 were read on 2026-11-15. Not verified independently: the 1875 Efremov count (S42), the Фомин–Хамин identification (S45) and how often clerks wrote ф for хв (S44).
 
+## Additional sources checked 2026-11-16
+
+- **S47:** [IrishGenealogy: Church records help](https://www.irishgenealogy.ie/help-with-searching-the-church-records/), read 2026-11-16. Used for: O’Brien, O Brien and Obrien forms; variants are search keys, not proof of relationships.
+- **S48:** [Yvette Hoitink: Prefixes in surnames](https://www.dutchgenealogy.nl/prefixes-in-surnames/), read 2026-11-16. Used for: Dutch filing under the surname root and separate prefix fields; the author’s comment also describes joined forms in Belgium.
+- **S49:** [James M. Beidler: German given names, MyHeritage Wiki](https://www.myheritage.com/wiki/German_given_names), read 2026-11-16. Used for: clipped forms including Klaus/Nikolaus, Stina/Christina and Trin/Katharina; no Polly/Anna Maria equation.
+- **S50:** [Ancestry: U.S. Social Security Applications and Claims Index,1936–2007](https://www.ancestry.co.uk/search/collections/60901), read 2026-11-16. Used for: a provider-recommended trial of switching first-name and surname fields when a search fails.
+- **S51:** [The Van De O Mc Mac Problem](https://genealogytipoftheday.com/index.php/2025/09/01/the-van-de-o-mc-mac-problem/), read 2026-11-16. Used for: controlled joined, spaced and punctuation variants for surname prefixes. The relevant article text was read at the public URL; linked interfaces were not tested.
+- **S52:** [Do You Have a Space Name?](https://genealogytipoftheday.com/index.php/2023/07/19/do-you-have-a-space-name/), read 2026-11-16. Used for: joined/spaced surname and root-form trials, without assuming every index handles prefixes or separate Mc sections alike. The relevant article text was read at the public URL; linked interfaces were not tested.
+- **S53:** [German Americans Part 1](https://www.pricegen.com/german-americans-part-1/), read 2026-11-16. Used for: clipped German given names as an additional query lane; selected spellings follow Beidler, without adopting unsupported equivalences or forename-Soundex claims. The relevant article text was read at the public URL; linked interfaces were not tested.
+- **S54:** [Switched at Census Time?](https://genealogytipoftheday.com/index.php/2023/01/18/switched-at-census-time/), read 2026-11-16. Used for: a given-name/surname-field swap diagnostic, without an immigrant-frequency claim. The relevant article text was read at the public URL; linked interfaces were not tested.
+
 ## Credits
 
+- Community sources S51, S52, S53, S54 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Kinprove original procedural synthesis; references are cited as S1 to S25 — FSL-1.1-MIT (kinprove-original)
 - Alice Childs, Family Locket, Part 3: Pennsylvania Germans: Guiding Principles for Research, 2022-02-18, cited as S33 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Vera Miller, Lost Russian & Ukrainian Family, AI transcribes almost 24 million Russian archive record pages for free searching, 2026-08-29, and More free cemetery databases are helping to find graves in Eastern European, 2025-03-29, cited as S37 and S41 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
