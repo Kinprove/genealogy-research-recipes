@@ -108,6 +108,13 @@ forms, for example Ѳома/Фома, Ѳеодоръ/Феодор (and the verna
 image. In a volume that binds several parishes, limit a negative to the target parish's section
 and to the years and pages that carry recognised text.
 
+A register can also differ from the church calendar within pre-reform spelling. Counting the boys
+born in Efremov uezd, Tula guberniya, in 1875, a researcher found Алексѣй, with ять, written more
+often than the святцы (church calendar) form Алексій, and vernacular forms such as Антон, Ефим and
+Захар beside Антоний, Евфимий and Захарий [S42]. A pre-1918 orthography handbook gives Алексѣй as
+the standard spelling [S43]. Search the calendar form, the register's pre-reform form and the modern
+form as separate lanes.
+
 Transcription can also move or replace whole name parts. When an expected entry is missing from a
 transcribed index, test a query with the given name and patronymic swapped, since a man recorded
 as X son of Y may be indexed as Y son of X. Also allow for an indexer who substituted a dissimilar
@@ -129,6 +136,17 @@ keep the literal form in the inventory. The [Jensen](https://www.youtube.com/wat
 systematic conversion table. A matching form is a candidate, not proof of identity. For Romanian
 and Russian name lanes in Bessarabian records, see
 [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
+
+For Tula guberniya records, add a South Russian dialect lane. Russian Wikipedia's article on the
+southern dialects gives х or хв for ф (Хвёдор) in their western and central groups, which take in
+the south and west of today's Tula oblast, and аканье, unstressed о pronounced as а, as a southern
+feature [S46]. Clerks who wrote names by ear left both directions in the books. In an 1895
+baptism in a Dedilovo family, a godmother is entered as the wife of a man surnamed Хамин, of a
+family the researcher otherwise found as Фомины [S45]. The Belev uezd village of Коровьи Хвосты is headed «Каровьих
+Фастов» in the 1795 revision list and «Коровьих Фостов» in that of 1782, and mid-19th-century
+parish priests' descriptions of Bogoroditsk uezd villages give Хвилип and Хилип for Филипп [S44].
+The same post notes that inventories and indexes often keep the spelling the document used [S44].
+Search х, хв and хф for ф, ф for хв, and а for unstressed о, as separate logged lanes.
 
 In English-language records, a German surname may be translated by meaning, not only respelled:
 Zimmermann as Carpenter, Schwarzwälder as Blackwelder, Becker as Baker [S34]. More often the

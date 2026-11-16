@@ -372,6 +372,12 @@
   "checkpoint": "When the record may name a living person, ordering"
  },
  {
+  "recipe": "archival-image-coverage-verification.md",
+  "kind": "request",
+  "action": "then ask the archive for the planned restoration or digitisation date",
+  "checkpoint": "A request about a file withheld for its condition"
+ },
+ {
   "recipe": "austrian-confessional-register-routing.md",
   "kind": "request",
   "action": "Ask the registry office for an open entry in a book it still holds",
