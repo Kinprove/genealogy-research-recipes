@@ -17,8 +17,19 @@
 
 The order of steps (jurisdiction first, then whole-volume reading with a coverage register, then Torrey decoding) and the output packet are authored synthesis. The sources supply the reading practice, the parent-town principle with its example, and the Torrey walkthrough. Torrey's notation rules are taken from his key as quoted on FamilySearch, not from the presenter.
 
+### Additional sources checked 2026-11-16
+
+- **S15:** Price Genealogy, [Researching Your Colonial Ancestors, Part II [249 Years of American Independence]](https://www.pricegen.com/researching-your-colonial-ancestors-part-ii-249-years-of-american-independence/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S16:** Connecticut State Library, [Barbour Collection](https://libguides.ctstatelibrary.org/hg/genealogyindexes/Barbour). Passage read 2026-11-16. Used for: Slip index versus bound town volumes, original town/volume/page locators, standardised surname spelling in bound volumes, and exceptions where locators point to printed compilations.
+
+- **S17:** Salem Public Library, NOBLE Digital Heritage, [Massachusetts Vital Records to 1850](https://omeka-s.noblenet.org/s/salem/item/11544). Passage read 2026-11-16. Used for: The Tan Books compile town, church and private records, gravestone inscriptions and newspaper articles.
+
+- **S18:** FamilySearch Wiki, [Massachusetts Land and Property](https://www.familysearch.org/en/wiki/Massachusetts_Land_and_Property). Passage read 2026-11-16. Used for: Town-level original allotments and county/district Registry of Deeds conveyance records; choose the registry by the town.
+
 ## Credits
 
 - FamilySearch Catalog record for New London, Connecticut town records (catalog 192308) — Reported index-note quotation retained in the source entry with its sign-in limitation; not independently verified or relicensed (quoted)
 - Kinprove original procedural synthesis; the reading practice, parent-town principle and Torrey walkthrough are paraphrased from the cited videos S1-S5 and checked against outside authorities; the village and foundling example is paraphrased from S6 with its inspection limits stated above — FSL-1.1-MIT (kinprove-original)
 - Clarence Almon Torrey's notation key as quoted in the FamilySearch Wiki article Torrey's New England Marriages Prior to 1700 — Factual conventions paraphrased with attribution; source text not relicensed (adapted)
+- Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
