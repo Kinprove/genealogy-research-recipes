@@ -205,7 +205,7 @@ which period it covers. A count from a subset reads as a verdict on the whole co
   losses and old negatives. Make "destroyed" and "already searched" findable by reference number.
 - Before rebuilding a tree or table, inventory the existing artifacts and the extraction/version
   each uses; flag those still based on superseded readings. See the
-  [village reconstitution pre-pass check](russian-village-family-reconstitution.md#5-index-the-whole-village-in-every-role).
+  [village family reconstitution, step 5](russian-village-family-reconstitution.md#5-index-the-whole-village-in-every-role).
 - Record "looked at and rejected for this question" apart from "used", with the reason. Keep a
   table of tested and dropped hypotheses at the head of a long investigation, with reasons and
   report locators. Reopen a dropped hypothesis only with relevant new evidence; state what changed.
