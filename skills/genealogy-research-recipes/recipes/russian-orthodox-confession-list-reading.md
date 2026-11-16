@@ -97,7 +97,7 @@ Set up one table per household, with one row per person and one column per list.
 
 1. **Start from the latest list you can reach, then step back.** Two guides advise checking earlier lists at intervals of 5–10 years, then refining the facts in metrical books. [S5], [S6]
 2. **Fill in the consecutive years around each change.** The two lists on either side of a change bracket the change in the record, not the event itself. A child may have been too young to list, and a new name may be the same person.
-3. **Find the family by its people.** Most peasants have no surname in these lists, so look for the father with a son of the right name and age. [S6], [S10] One guide suggests reading the whole list once, then scanning the age column for the age you expect, because each sex has its own column. [S9]
+3. **Find the family by its people.** Two guides describe peasant entries without surnames. [S6], [S10] When an entry has no surname, search by given name, patronymic, age and household; look for the father with a son of the right name and age. A missing surname does not by itself show that the family had none ([village family reconstitution, step 1](russian-village-family-reconstitution.md#1-identify-people-by-an-identity-key-not-by-the-surname)). One guide suggests reading the whole list once, then scanning the age column for the age you expect, because each sex has its own column. [S9]
 
 **Test the ages.**
 
@@ -143,6 +143,17 @@ Set up one table per household, with one row per person and one column per list.
 - **Recover a bride from her home village.** A participant knew a great-grandmother's name, patronymic, birth date and home village, and read that village's lists family by family until one Ivan had a daughter of that name and age. A copy of her birth certificate later confirmed the match. [S28] Without that kind of confirmation, the result stays a hypothesis.
 - **Test absence across every source.** A participant noted that one or two omissions could be a scribe's error or a child too young to be listed, but checked a family across confession lists of 1808, 1815 and 1822, and revision lists of 1811 and 1816, before concluding that it had no such daughter. [S22] The 1811 revision recorded men only [S7], so that return says nothing about a daughter. Count only sources that record women.
 - **Be careful with Old Believer households.** One review compared a Rzhev list of 1850 with the tenth revision. It found the lists fairly reliable for the Orthodox and full of inaccuracies for Old Believer families, and it prefers revision lists for them. [S16]
+
+**Check a soldier's wife before attaching her.** A «солдатка» with children in a household is not
+thereby the wife of that household's known recruit, nor are the children thereby his. Read the
+pre-conscription list for his named wife, then test the proposed link against marriage, baptism
+and death entries. A different name leaves alternatives to investigate, including another woman,
+remarriage or an error; keep the link unresolved until the evidence distinguishes them.
+
+Issue 341 reports a single case in which the pre-conscription list named the recruit's wife
+differently from a later «солдатка» proposed as his wife. The underlying lists were not
+independently inspected here. The case warns against attaching her from household placement;
+it does not by itself settle her identity. [S42]
 
 ## 6. Find the lists
 
