@@ -300,6 +300,12 @@
   "checkpoint": "A document uploaded to Scribe AI gives its contents"
  },
  {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "Gate each new model, prompt or setting on a small blind control set.",
+  "checkpoint": "Register images can name living or possibly living people; answer the privacy gate in `SKILL.md` before sending any control image, crop or batch to an external AI reader."
+ },
+ {
   "recipe": "ancestry-dna-match-investigation.md",
   "kind": "contact",
   "action": "Obtain a missing comparison from an authorized kit manager when your own access cannot show it.",
@@ -1722,6 +1728,12 @@
   "checkpoint": "A rehabilitation application or certificate request"
  },
  {
+  "recipe": "russian-village-family-reconstitution.md",
+  "kind": "contact",
+  "action": "write to a member only after the gate, and treat a shared village as a lead to compare records",
+  "checkpoint": "A message to a forum member reaches a living person and tells them which family and village you research"
+ },
+ {
   "recipe": "scottish-parish-statutory-record-recovery.md",
   "kind": "request",
   "action": "For an entry still inside the closure period, use the search result's",
@@ -2188,5 +2200,11 @@
   "kind": "request",
   "action": "Ask the agency that holds the official record early, not last.",
   "checkpoint": "A request to a tribe's enrollment office, a BIA agency or a National Archives facility sends the family's names and lineage"
+ },
+ {
+  "recipe": "russian-empire-jewish-metrical-book-recovery.md",
+  "kind": "request",
+  "action": "Ask the holding archive, with the entry's exact locator",
+  "checkpoint": "A request file can identify a requester other than the subject"
  }
 ]

@@ -217,7 +217,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [german-military-record-period-routing](skills/genealogy-research-recipes/recipes/german-military-record-period-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [german-official-gazette-notice-search](skills/genealogy-research-recipes/recipes/german-official-gazette-notice-search.md) | record catalogues and original images | — | — | request | — | required |
 | [german-register-image-recovery](skills/genealogy-research-recipes/recipes/german-register-image-recovery.md) | record catalogues and original images | — | — | request | — | required |
-| [hebrewbooks-search-recovery](skills/genealogy-research-recipes/recipes/hebrewbooks-search-recovery.md) | hebrewbooks | — | — | — | — | — |
+| [hebrewbooks-search-recovery](skills/genealogy-research-recipes/recipes/hebrewbooks-search-recovery.md) | hebrewbooks | curl for a public page PDF | — | — | — | — |
 | [hispanic-catholic-register-recovery](skills/genealogy-research-recipes/recipes/hispanic-catholic-register-recovery.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [historic-hungary-record-routing](skills/genealogy-research-recipes/recipes/historic-hungary-record-routing.md) | record catalogues and original images | — | — | — | — | — |
 | [historical-map-record-recovery](skills/genealogy-research-recipes/recipes/historical-map-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
@@ -261,7 +261,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [rootsmagic-tree-reconciliation-workflow](skills/genealogy-research-recipes/recipes/rootsmagic-tree-reconciliation-workflow.md) | rootsmagic, ancestry, familysearch | — | — | export, link, upload | — | required |
 | [russian-empire-emigrant-origin-recovery](skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md) | record catalogues and original images | — | — | publish, request | — | required |
 | [russian-empire-jewish-identity-attribution](skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md) | record catalogues and original images | — | — | — | contact | required |
-| [russian-empire-jewish-metrical-book-recovery](skills/genealogy-research-recipes/recipes/russian-empire-jewish-metrical-book-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [russian-empire-jewish-metrical-book-recovery](skills/genealogy-research-recipes/recipes/russian-empire-jewish-metrical-book-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [russian-estate-registration-status](skills/genealogy-research-recipes/recipes/russian-estate-registration-status.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-household-list-transcription-audit](skills/genealogy-research-recipes/recipes/russian-household-list-transcription-audit.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-imperial-service-record-recovery](skills/genealogy-research-recipes/recipes/russian-imperial-service-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
@@ -269,7 +269,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [russian-orthodox-confession-list-reading](skills/genealogy-research-recipes/recipes/russian-orthodox-confession-list-reading.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-orthodox-metrical-book-recovery](skills/genealogy-research-recipes/recipes/russian-orthodox-metrical-book-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-revision-list-household-chaining](skills/genealogy-research-recipes/recipes/russian-revision-list-household-chaining.md) | record catalogues and original images | — | — | — | — | — |
-| [russian-village-family-reconstitution](skills/genealogy-research-recipes/recipes/russian-village-family-reconstitution.md) | record catalogues and original images, online record databases | — | — | — | — | — |
+| [russian-village-family-reconstitution](skills/genealogy-research-recipes/recipes/russian-village-family-reconstitution.md) | record catalogues and original images, online record databases | — | — | — | contact | required |
 | [russian-volost-town-administration-records](skills/genealogy-research-recipes/recipes/russian-volost-town-administration-records.md) | record catalogues and original images | — | — | — | — | — |
 | [scandinavian-parish-record-recovery](skills/genealogy-research-recipes/recipes/scandinavian-parish-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [scandinavian-patronymic-farm-name-record-recovery](skills/genealogy-research-recipes/recipes/scandinavian-patronymic-farm-name-record-recovery.md) | record catalogues and original images | — | — | — | — | — |

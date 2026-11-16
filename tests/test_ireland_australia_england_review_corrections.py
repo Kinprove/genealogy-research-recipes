@@ -79,10 +79,10 @@ class AustralianRecipeTests(unittest.TestCase):
 
     def test_western_australian_lists_after_1900_go_to_the_naa(self):
         section = between(self.text, "## 7. Route passenger lists", "## 8.")
-        note = section[section.index("**Western Australian passenger lists after 1900 are the exception.**") :]
-        self.assertIn("generally held by the WA Branch of the National Archives of Australia [S32 @", note)
-        self.assertIn("the before-1924 rule above does not apply there", note)
-        self.assertLess(section.index("- **Before 1924, search the archive"), section.index(note))
+        first_bullet = between(section, "- **Before 1924, search the archive", "- **For Victoria,")
+        self.assertIn("except for Western Australia after 1900.**", first_bullet)
+        self.assertIn("For those Western Australian arrivals, search the NAA first", first_bullet)
+        self.assertIn("generally held by the WA Branch of the National Archives of Australia [S32 @", first_bullet)
 
 
 class EnglishRecipeTests(unittest.TestCase):
@@ -121,7 +121,7 @@ class LedgerRegistrationTests(unittest.TestCase):
         ],
         "australia-nz-record-routing": [
             ("**The Australian Capital Territory is the exception.**", "custody", ["S1"]),
-            ("**Western Australian passenger lists after 1900", "custody", ["S32"]),
+            ("- **Before 1924, search the archive", "custody", ["S32"]),
         ],
         "irish-emigrant-origin-locality": [
             ("**Search the surviving 1821–1851 census data", "portal-availability", ["S20"]),
