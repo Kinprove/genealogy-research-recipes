@@ -1,0 +1,71 @@
+name: Publish to ClawHub
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Validate and preview without uploading
+        required: true
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: clawhub-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    env:
+      PACKAGE_NAME: '@kinprove/genealogy-research-recipes'
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - name: Require the dispatched release tag and matching manifests
+        id: release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
+          version=$(python -B scripts/check_clawhub_release.py context package.json)
+          test "$(gh release view "$GITHUB_REF_NAME" --json isDraft --jq .isDraft)" = false
+          python -B -m unittest discover -s tests -p 'test_manifest_versions.py'
+          printf 'version=%s\n' "$version" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24'
+      - name: Install locked tools without lifecycle scripts
+        run: npm ci --prefix ci-tools --ignore-scripts
+      - name: Validate the native package with the locked OpenClaw SDK
+        run: ci-tools/node_modules/.bin/clawhub package validate . --openclaw ci-tools/node_modules/openclaw --out "$RUNNER_TEMP/clawhub-validation" --json
+      - name: Preview and verify the exact release source
+        run: |
+          ci-tools/node_modules/.bin/clawhub package publish . --family code-plugin --owner kinprove --source-repo "$GITHUB_REPOSITORY" --source-commit "$GITHUB_SHA" --source-ref "$GITHUB_REF_NAME" --dry-run --json > "$RUNNER_TEMP/clawhub-preview.json"
+          python -B scripts/check_clawhub_release.py preview "$RUNNER_TEMP/clawhub-preview.json"
+      - name: Publish through GitHub OIDC and wait for definitive publication
+        if: ${{ !inputs.dry_run }}
+        run: |
+          set -euo pipefail
+          # Keep non-secret attempt/release metadata even when publishing or verification fails.
+          trap 'publish_status=$?; if [ -f "$RUNNER_TEMP/clawhub-publish.json" ]; then cat "$RUNNER_TEMP/clawhub-publish.json" || true; fi; exit "$publish_status"' EXIT
+          ci-tools/node_modules/.bin/clawhub package publish . --family code-plugin --owner kinprove --source-repo "$GITHUB_REPOSITORY" --source-commit "$GITHUB_SHA" --source-ref "$GITHUB_REF_NAME" --wait --wait-timeout 1200 --json > "$RUNNER_TEMP/clawhub-publish.json"
+          python -B scripts/check_clawhub_release.py published "$RUNNER_TEMP/clawhub-publish.json"
+      - name: Verify the public version and report registry provenance
+        if: ${{ !inputs.dry_run }}
+        env:
+          VERSION: ${{ steps.release.outputs.version }}
+        run: |
+          set -euo pipefail
+          ci-tools/node_modules/.bin/clawhub package inspect "$PACKAGE_NAME" --version "$VERSION" --json > "$RUNNER_TEMP/clawhub-inspect.json"
+          python -B scripts/check_clawhub_release.py inspect "$RUNNER_TEMP/clawhub-inspect.json" | tee -a "$GITHUB_STEP_SUMMARY"
