@@ -1,7 +1,7 @@
 ---
 id: "research-documentation"
 title: "Research log and report"
-summary: "Preserve searches, results, document numbers and analysis so an investigation can resume."
+summary: "Keep a log and report of searches, results and analysis so an investigation can resume."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["research logs, research reports, NIL searches, coverage and linked next actions"]}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "manuscript-collection-recovery", "russian-
 checked: "2026-11-03"
 checked_basis: "fetched on 2026-11-03"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": []}
-router: {"tier": "full", "group": "Evidence and documentation", "order": 134}
+router: {"section": "Research method", "group": "Evidence and proof", "order": 3}
 ---
 
 # Research log and report
@@ -394,4 +394,4 @@ Original Kinprove reference, licensed FSL-1.1-MIT.
 
 ## Sources
 
-[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/edc63d0d7ca51c809a77747ff2bf76e45eccd67a/skills/genealogy-research-recipes/sources/research-documentation.md).
+[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/440a8688ef7b6a89e5e7a2997764f9dbde14f680/skills/genealogy-research-recipes/sources/research-documentation.md).

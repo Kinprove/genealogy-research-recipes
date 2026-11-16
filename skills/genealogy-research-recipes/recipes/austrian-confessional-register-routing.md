@@ -1,7 +1,7 @@
 ---
 id: "austrian-confessional-register-routing"
 title: "Route an Austrian or Czech-lands vital event to the confessional register that recorded it"
-summary: "Route an Austrian or Czech-lands vital event to the register that legally recorded it: a confessional register, the 1870 register for people outside a recognised church, or the regional archive that now holds the books."
+summary: "Route an Austrian or Czech-lands birth, marriage or death to the confessional or civil register that legally recorded it."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "burial-evidence-packet", "cat
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Central and Eastern Europe by period state", "order": 1041}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 41}
 ---
 
 # Route an Austrian or Czech-lands vital event to the confessional register that recorded it

@@ -1,7 +1,7 @@
 ---
 id: "italian-stato-civile-parish-record-recovery"
 title: "Recover an Italian ancestor in the Stato civile, parish books and conscription lists"
-summary: "Send an Italian birth, marriage or death to the register that was the legal record in that place and year (a Napoleonic municipal register, an Austrian-era parish book or the comune's Stato civile), then search conscription lists and the population register as separate series."
+summary: "Send an Italian birth, marriage or death to the register legal in that place and year, then search conscription and population registers."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "catholic-parish-diocesan-reco
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Country record routing", "order": 1058}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 92}
 ---
 
 # Recover an Italian ancestor in the Stato civile, parish books and conscription lists
@@ -107,10 +107,10 @@ Fix who registered the event before you choose a series. Use the event year and 
 
 ## 4. Route parish books by the historical diocese
 
-- **Before civil registration and in its gaps, search the parish books.** Baptisms, marriages, burials and the stato delle anime (status animarum, a household-by-household parish census) are normally kept by the parish or gathered into the diocesan archive [S9]. Parish priests had to keep stati delle anime regularly after the Rituale Romanum of 1614, household by household with ages [S10].
-- **Find the holder through BeWeB** (beweb.chiesacattolica.it), the Italian bishops' conference (CEI) catalogue of ecclesiastical archives. It lists only archives registered with it and gives their contact details. It does not do research; you arrange access with the archive itself [S11].
-- **Check Antenati for parish books only in a State Archive's gap years.** Where a State Archive holds parish-kept registers that served as the civil record, check Antenati for those years [S9]. Alessandria's parish registers of 1838–1865 are an example [S9]. Expect most parish books, especially before 1800, only at the parish or diocese [S9].
-- **For the diocese in the event year** (Italian dioceses do not follow modern provinces), a priest's statement that books burned, diocesan copies, merged parishes and dispensations, follow the Catholic parish recipe.
+- **Before civil registration and in its gaps, search the parish books.** In the province of Alessandria, the State Archive's guide says parish archives, including birth, marriage and death registers and stati delle anime (status animarum, household-by-household parish censuses), generally remain at the parish, with some gathered into diocesan archives [S9 @2026-11-16]. The Barga inventory, partially read on pp. 6 and 73, says the Rituale Romanum of 1614 required systematic compilation of stati delle anime and warns that relationships and ages are not always recorded and actual regularity at Barga varied over time [S10 @2026-11-16].
+- **Find the holder through BeWeB** (beweb.chiesacattolica.it), the Italian bishops' conference (CEI) catalogue of ecclesiastical archives. It lists only archives registered with it and gives their contact details. It does not do research; you arrange access with the archive itself [S11 @2026-11-16].
+- **Check Antenati's local coverage of parish books.** The Alessandria State Archive reports that Antenati publishes the 1838–1865 parish registers of the Comune di Alessandria and its outlying villages (sobborghi); this coverage does not extend to the rest of the province [S9 @2026-11-16]. For another comune in the province, check the parish, diocesan and municipal historical archives [S9 @2026-11-16]. For years before 1804 in the province of Alessandria, the State Archive's guide directs researchers only to the territorial parish, or to the curia if the parish archive was deposited in the diocesan archive [S9 @2026-11-16].
+- **For the diocese responsible for the parish in the event year**, a priest's statement that books burned, diocesan copies, merged parishes and dispensations, follow the Catholic parish recipe.
 
 ## 5. Search conscription lists and service rolls as two series
 

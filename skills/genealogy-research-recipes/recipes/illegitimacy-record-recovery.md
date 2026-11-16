@@ -1,7 +1,7 @@
 ---
 id: "illegitimacy-record-recovery"
 title: "Recover records of a birth outside marriage"
-summary: "Find the bastardy bonds, court proceedings, support orders and church entries that a birth outside marriage could create, and preserve express status statements in apprenticeship instruments."
+summary: "Find the bastardy bonds, court cases, support orders and church entries a birth outside marriage could create."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["english-nonregister-record-recovery"]
 checked: "2026-11-05"
 checked_basis: "checked 2026-11-05"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Courts, legislatures, prisons and institutions", "order": 1108}
+router: {"section": "Record types in any country", "group": "Births outside marriage and institutions", "order": 136}
 ---
 
 # Recover records of a birth outside marriage

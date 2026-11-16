@@ -1,7 +1,7 @@
 ---
 id: "russian-estate-registration-status"
 title: "Read a Russian-Empire estate label as a dated registration status and choose the series by date"
-summary: "Read a Russian-Empire estate label as a dated registration status and choose the record series by the date it was acquired."
+summary: "Read a Russian-Empire estate label as a dated registration status and pick the record series by when it was acquired."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["russian-revision-list-household-chaining"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "pointer", "group": "Russian Empire and Soviet records", "order": 1087}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 50}
 ---
 
 # Read a Russian-Empire estate label as a dated registration status and choose the series by date
@@ -65,6 +65,8 @@ Rules for reading the phrase:
 - **"Почетный гражданин" is an estate, like мещанин or дворянин, not an honour from a particular town.** The estate existed from 1832 to 1917, and it was either personal (личный) or hereditary (потомственный). Always record which one. [S13], [S1]
 - **Formulary lists give birthplace and estate as separate facts.** For example, a man born in the city of Perm could be registered "из крестьян [X] волости [Y] уезда". Keep both fields, and search the registering community as well as the birthplace. [S12]
 
+- **A мещанин's or сельский обыватель's passport names the registering society.** Мещане and сельские обыватели received passports from their мещанская управа or through their volost elder [S21], and passports of 1899 and 1901 were issued by the holder's own мещанская управа, town elder or volost board [S22]. Moscow metrical entries of 1907 and 1908 record the parents' passports with their dates and numbers, and the 1907 entry names the issuing town elder. [S23] Copy such a note in full; when the issuer is a мещанская управа, town elder or volost board, record its society as the registering society and search that society next.
+
 ## 2. Test each status against its chronology
 
 Test every status before you search for it:
@@ -72,6 +74,8 @@ Test every status before you search for it:
 - **3rd guild.** The 3rd merchant guild was abolished in 1863. After that, a former 3rd-guild merchant either declared capital in the 2nd guild or became a мещанин, even if he went on trading. [S2], [S8] A "3rd-guild merchant" born in the 1880s is an anachronism. Look for 2nd-guild or мещанин registration instead, or move the claim to a parent's or grandparent's generation. [S2] People also moved between estates before 1863, so a record can show someone as мещанин who was earlier a 3rd-guild merchant. [S7]
 - **"Почетный житель" or a translated "Honorary Citizen" with a place.** "Почетный житель" of a town or shtetl was not a status. For a translated "Honorary Citizen", record the status and the locality in separate fields, get the original-language wording, and only then map it to потомственный or личный почетный гражданин and test both possibilities (§4). [S1]
 - **First guild.** When a 1st-guild merchant disappears from a city, look for a move or a transfer between merchant societies before you assume a death. A participant cited a 1914 transfer of a Jewish merchant from one town's 1st-guild society to another's. [S2] Do not assume that 1st-guild status gave an unconditional right to live anywhere. For Jewish merchants, the law of 16 March 1859 allowed registration in guilds outside the Pale only after a period of years in the 1st guild inside the Pale (Jewish Encyclopedia, "Pale of Settlement"). The right to stay outside became permanent only after 10 years of continuous 1st-guild membership. A merchant who left the guild before then had to return to the Pale. Moscow was the exception: a Jew could join the Moscow merchant guild only with the permission of the minister of finance and the governor-general of Moscow, and the right to live in Moscow ended on leaving the guild, whatever the years (same article). So check the guild years and the city as well as the guild.
+
+- **«Временнообязанный» and «крестьянин-собственник».** A временнообязанный peasant was personally free but had not redeemed his land and still owed the landowner obrok or barshchina for it [S24]; record the landowner an entry names beside the label [S25]. On redemption the state paid the landowner, and the peasants became крестьяне-собственники who repaid the state until the payments ended on 1 January 1907 [S26]. So «крестьянин-собственник» in an entry of 1868 or 1872 shows that the household had gone over to redemption by that date, not that its land was paid off. [S25], [S27] Redemption was compulsory from 1 January 1883, and by the end of the 19th century временнообязанные remained only in Transcaucasia. [S24]
 
 ## 3. Date when the person acquired the status
 
@@ -88,6 +92,10 @@ A status in one record does not show the status at birth, the status of siblings
 - **Later administrative lists.** These can supply the registration when nothing else does. A participant used a 1908 criminal-record list (Ведомость справок о судимости) giving "мещанин г. Белебей" to establish the registration and direct the next searches. [S2]
 
   To reach the printed Ведомость справок о судимости when the year is unknown, search the Russian State Library catalogue (search.rsl.ru) for the annual alphabetical index of names (Алфавитный указатель имен и фамилий лиц, помещенных в Ведомости справок о судимости) for the right part (часть) and year. The catalogue lists such an index by part, for example 1886, ч. 2 (general courts), with a free online scan. [S14] Read the surname's entry number in the scan, then open that year's issues of the same part, which are split into numbered books (кн.). [S15] The index for a year can be printed the next year (the 1886 index appeared in 1887), so do not cite the publication year as the conviction year. [S14] The entry number is not a page or book number. An empty catalogue or OCR search is not a negative for the scan.
+
+- **A transfer into a town estate: read the treasury chamber's journals.** When a revision remark cites a treasury chamber (казённая палата) decree for the transfer and the decree is missing, read the chamber's journals of meetings for that month. A family's 1850 revision entry cites a Moscow Treasury Chamber decree of 30 March 1840 moving the family, ямщики of a volost, from the state peasants into a town's 3rd-guild merchants; the decision is in the chamber's journal for March 1840, TsGA Moscow f. 51, op. 1, d. 373, made on the request of the Chamber of State Properties, with orders to the town duma and the uezd treasury. [S28] F. 51 is the Moscow Treasury Chamber, 1775–1918. [S29] The chamber sent its decree to the town duma, so search the duma's fond as well, for example the Orenburg duma's file on enrolment into the мещане, 1851–1867 (OGAOO f. 368, op. 1, d. 535). [S28], [S30] For a state peasant, ямщики included, search the state-property and treasury chambers, not a landowner's papers.
+- **Annual merchant family lists date the enrolment.** A Tula researcher reports annual lists of 1890–1916 (a range not verified here) that give the date each head was entered in the merchants. Use that date to find the enrolment petition: in Tula it led to a father's petition naming his former estate and village. [S31] The lists are in the State Archive of Tula Oblast, f. Р-1905, op. 5, a Soviet-period («Р») collection that holds pre-1917 files of the Tula treasury chamber and town administration [S31], [S32], so do not skip an «Р» fond when you look for pre-1917 lists.
+- **A Part 2 entry in a noble genealogy book dates the family's nobility from a military rank.** [S33] Date the qualifying ancestor's rank from his service record: hereditary nobility came with the first ober-officer rank, from 11 June 1845 with a staff-officer rank received in service rather than on retirement, and from 9 December 1856 with the rank of colonel. [S34] Record each child's birth date and estate at birth against that date: children born before it in a taxable estate shared the nobility only under the law of 5 March 1874 [S35], except that a military father with no children born after his promotion could petition for the nobility of one earlier-born son [S43]. Look for such a petition before you date a son's nobility from 1874. A serf taken as a recruit in 1815 reached an ober-officer rank and was entered in Part 2 of the Vladimir guberniya book in 1838 [S36]; find such a man's birth estate in his service record or the parish books.
 
 If the bracket is open, record it as open. Do not fill the gap by assuming the status was inherited.
 
@@ -122,6 +130,8 @@ Revision lists will not contain the person under the new status. [S10] Use inste
 
 - **Moscow мещане: find the sloboda, then the family number.** Catalogue data of the Central State Archive of Moscow (TsGA Moscow), as listed by NashiPredki, give f. 5 as the Moscow мещанская управа with one inventory [S17 @2026-11-08] and title the 1782 revision books of Moscow merchants and мещане («купцов и мещан») by sloboda, for example Taganskaya (f. 51, op. 18) [S18 @2026-11-08]. A genealogist's 2024 account says that metrical books, revision lists and confession lists name a family's sloboda, that f. 5, op. 1 holds alphabetical lists of мещане by sloboda and sloboda books in which each family has its own number, and that the sloboda's alphabetical list should be ordered first when the number is unknown [S19 @2026-11-08]. Record the sloboda in the registering-society field (§1), not as an address. Citations from before 2013 may name the Central Historical Archive of Moscow (TsIAM), which Russian Wikipedia says became part of TsGA Moscow in April 2013 [S20 @2026-11-08]; check file numbers in TsGA Moscow's own inventory before citing them.
 
+- **Moscow sloboda books: go from the revision numbers to the revisions.** A sloboda book gives each family's numbers in the 9th (1850) and 10th (1858) revisions and when and from which estate each man entered the мещане. [S19] Open the 1850 and 1858 revisions by those numbers, take a post-1858 admission date from the column on entry into the мещане (§3), and read the «Приметы», occupation and remarks columns for passports and addresses. [S19], [S37]
+
 **Limits on substitute lists.** A participant expected community tax-allocation (раскладка) files to list at most heads of household, not full families. Do not promise family detail from them. [S1]
 
 **Read a substitute list's coverage and columns before you read an absence or an age.** A family list made for the call-up can list males only, and a tax list names only the people liable, so a wife or daughter missing from either says nothing about her death or about who the mother was. Take each age's reference date and each figure's meaning from the column headings, not from the year on the file's label; if the headings leave an age's reference date open, record no birth year from it. The full checks are in [volost and town administration records, step 6](russian-volost-town-administration-records.md#6-record-inspected-entries-as-household-observations).
@@ -136,6 +146,8 @@ Revision lists will not contain the person under the new status. [S10] Use inste
 
 - Before you rely on a case title taken from a catalogue annotation, check its years and, where relevant, its geography. [S2]
 - Absence from one society's revision list does not disprove the status or the identification. In one case a merchant was missing from his town's 1850 revision. A participant took this to mean he probably enrolled later and traded elsewhere. [S7] Check the later revision, the other estate's list (§4), the admission files, and the possibility of a transfer between societies. Record an unresolved absence as a gap.
+
+- **An odnodvortsy or пахотные солдаты family missing from its category's list: search the state-peasant lists of the same revision.** Odnodvortsy passed fully into the state peasants in 1866 [S38], and one Tula family recorded as odnodvortsy in the revisions of 1782–1834 is among the state peasants from the 1850 revision [S39]. Пахотные солдаты became state peasants, and казённые and государственные крестьяне are one estate [S40], [S41]; another Tula family is written пахотные солдаты in 1816, крестьяне казённого ведомства in 1834 and государственные in 1850 [S42]. Record each label as a dated status of the same household.
 
 ## Output: status timeline and series worklist
 

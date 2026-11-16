@@ -11,7 +11,7 @@ handoff: ["galicia-bukovina-habsburg-record-routing"]
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 15}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 42}
 ---
 
 # Recover a Polish original from an index or archival description
@@ -90,6 +90,13 @@ A name joined by "vel" or "alias" (Nowak alias Vilk) is a second name of the sam
 person, and records may show either name alone. Search each element and the compound, copy the
 compound as written, and do not treat a switch from one element to the other as a new family
 without looking for the joined form. [P5], [P6], [P7]
+
+Search a surname with a nasal vowel in each written form. Zaremba is a variant and homophone of
+Zaręba, the ę spoken as em before b [P14], and an index can also hold the form with a plain e. A
+researcher whose index searches for a Zaremba line stopped at one couple, in the home parish and
+across Poland, turned to the wife's maiden name and found the couple's 1829 marriage in Glinojeck
+under Zareba. [P15] So search the ę, em and plain-e forms as separate lanes, and when the husband's
+surname runs dry, search the wife's maiden name without a place filter.
 
 **Output:** `index URL | candidate | locality/district | confession | event | year | act |
 comments | SKAN destination | observed link result`.
@@ -174,6 +181,17 @@ act shown by the State Archive in Kalisz, two men are named as witnesses and two
 godparents; in an 1861 Evangelical act, two of the four godparents were also witnesses. [P13] Record
 each name with the role the act gives it, and do not infer godparenthood or kinship from witness
 status alone.
+
+Keep a birth act's own date and hour apart from the birth's. A Congress Poland birth act opens with
+the place, date and hour of the act, at which the declarant presented the child; in Danko's
+1862 Szwelice example the baptism was performed the same day, and the body gives the birth as
+"yesterday at nine in the morning". [P16] In civil acts of Russian Poland each date is often written
+twice, Julian then Gregorian, 12 days apart from 1 March 1800 and 13 from 1 March 1900. [P17] An
+1890 Pułtusk act in Russian opens on 6/18 April at three in the afternoon and gives the birth as
+5/17 February at six in the evening. [P18] A researcher used to Orthodox metrical books, which she
+says give no hour, noticed that these acts give both hours. [P18], [P19] Record the act's date and
+hour, the birth date and hour, both calendar forms of each date, the witnesses' ages and
+occupations, and every given name; never take the opening date as the birth date.
 
 ## 4. Classify the gap and choose another holding route
 

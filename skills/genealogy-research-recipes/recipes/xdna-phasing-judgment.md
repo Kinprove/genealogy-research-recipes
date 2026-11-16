@@ -1,7 +1,7 @@
 ---
 id: "xdna-phasing-judgment"
 title: "X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong"
-summary: "X-DNA matches and visual/parental phasing: what a segment, an X match, or a phased chromosome map can actually confirm or eliminate, and where confident-sounding analysis is actually fabrication."
+summary: "Judge X-DNA matches and visual or parental phasing: what a segment, X match or phased map can confirm or rule out."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["\"is this X-DNA match trustworthy\", \"what's the minimum X cM threshold\", \"phase my kit against a parent or siblings\", \"half-sister or aunt\", \"does this X match rule out a father\", reconstructed-kit quality, artificial homozygosity, or interpreting matches to a synthetic kit."]}
 privacy: "genetic-third-party"
@@ -11,7 +11,7 @@ handoff: ["dna-comparison-controls"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 28}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 16}
 ---
 
 # Recipe: X-DNA and Visual/Parental Phasing — where confident-sounding analysis silently goes wrong

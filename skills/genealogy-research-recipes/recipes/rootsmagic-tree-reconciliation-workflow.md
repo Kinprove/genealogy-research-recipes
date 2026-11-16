@@ -11,7 +11,7 @@ handoff: ["familysearch-practical-record-workflows", "gedcom-research-export"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["rootsmagic", "ancestry", "familysearch"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "upload"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 16}
+router: {"section": "Research method", "group": "Family trees and research planning", "order": 9}
 ---
 
 # RootsMagic: Reconcile a Local Tree with Ancestry and FamilySearch

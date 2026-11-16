@@ -1,7 +1,7 @@
 ---
 id: "us-census-practical-workflows"
 title: "Practical U.S. census workflows"
-summary: "Ten practical U.S. census procedures: recover households, browse target-year districts, follow 1950 revisit sheets, compare pre-1850 age bins, bridge the 1890 gap, extract supplements and family fields, search mortality schedules, follow surname changes, and follow a farm lead into an agricultural schedule."
+summary: "Find and read U.S. census households: missing entries, district browsing, the 1890 gap, special schedules and changed surnames."
 kind: "records"
 scope: {"platforms": [], "tasks": ["a missing census household, an address without a name hit, sheet 71, tick-mark counts, substitute censuses, sample lines, marriage/children fields, competing child rosters, mortality reporting windows, or formerly enslaved families under different surnames."]}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "land-index-book-series-recovery", "us-mili
 checked: "2026-10-20"
 checked_basis: "checked 2026-10-20"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 21}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 98}
 ---
 
 # Practical U.S. census workflows

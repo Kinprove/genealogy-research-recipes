@@ -1,7 +1,7 @@
 ---
 id: "ydna-mtdna-interpretation"
 title: "Interpreting Y-DNA and mtDNA — what a haplogroup or STR/sequence match can (and can't) establish"
-summary: "Interpreting Y-DNA and mtDNA results (a haplogroup assignment, a Y-STR genetic-distance match, an mtDNA sequence match): what each can actually establish about a *genealogical-timeframe* relationship, and where confident interpretation crosses into fabrication. The Y-STR/mtDNA complement to `ai-for-dna-research.md` (autosomal cM)."
+summary: "Read a haplogroup, Y-STR or mtDNA match for what it can and cannot show about a relationship in genealogical time."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["\"what does my haplogroup / Y-STR match / mtDNA match mean\", \"how many generations back is genetic distance N\", \"does this haplogroup contradiction prove a non-paternity event\", differing Y labels, measured versus inferred SNP results, choosing a tester to split an unresolved SNP block, TMRCA disagreement with a dated pedigree, or a pair matching on both autosomal DNA and Y-DNA/mtDNA through potentially different ancestral lines."]}
 privacy: "genetic-third-party"
@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-match-outreach-staging"]
 checked: "2026-07-18"
 checked_basis: "accessed 2026-07-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool", "upload"], "contact": ["contact"]}
-router: {"tier": "full", "group": "Featured workflows", "order": 27}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 15}
 ---
 
 # Recipe: Interpreting Y-DNA and mtDNA — what a haplogroup or STR/sequence match can (and can't) establish

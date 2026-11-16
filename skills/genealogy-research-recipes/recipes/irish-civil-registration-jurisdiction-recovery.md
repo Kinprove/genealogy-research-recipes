@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "Irish and British records", "order": 1070}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 80}
 ---
 
 # Recover an Irish civil-registration certificate and its jurisdiction chain

@@ -1,7 +1,7 @@
 ---
 id: "german-local-census-registration-recovery"
 title: "Recover German local census lists and residential-registration entries"
-summary: "Recover German nominal census lists (roughly 1816–1916), residential-registration entries and associated settlement or trade-permission files."
+summary: "Recover German nominal census lists, residential-registration entries and related settlement or trade-permission files."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -11,7 +11,7 @@ handoff: ["german-emigrant-origin-sources"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"tier": "pointer", "group": "German records", "order": 1078}
+router: {"section": "Records by country and region", "group": "Germany", "order": 71}
 ---
 
 # Recover German local census lists and residential-registration entries

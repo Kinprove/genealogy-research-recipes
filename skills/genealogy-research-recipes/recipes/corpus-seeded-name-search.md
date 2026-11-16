@@ -1,7 +1,7 @@
 ---
 id: "corpus-seeded-name-search"
 title: "Corpus-seeded name searches across scripts and OCR"
-summary: "Recover attested spellings across scripts and OCR by separating encoding, orthography and field behaviour."
+summary: "Recover attested name spellings that searches miss across scripts and OCR by separating encoding, orthography and field behaviour."
 kind: "judgment"
 scope: {"platforms": [], "tasks": ["Hebrew/Yiddish name misses, lossy search folds or uncalibrated zero results."]}
 privacy: "none"
@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "beider-given-name-variants", 
 checked: "2026-10-18"
 checked_basis: "opened 2026-10-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 4}
+router: {"section": "Research method", "group": "Search coverage and name searches", "order": 7}
 ---
 
 # Recipe: Corpus-seeded name searches across scripts and OCR
@@ -252,4 +252,4 @@ Keep the corpus/index version or access date, field, exact Unicode query, filter
 
 A successful search can still have incomplete coverage. A completed zero-hit query describes that query and scope; it does not exclude a person whose record or spelling has not been tested. When a newly attested form changes an earlier negative, rerun the affected searches and amend that specific conclusion. Do not infer kinship from the rescued name hit.
 
-For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/edc63d0d7ca51c809a77747ff2bf76e45eccd67a/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).
+For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/440a8688ef7b6a89e5e7a2997764f9dbde14f680/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).

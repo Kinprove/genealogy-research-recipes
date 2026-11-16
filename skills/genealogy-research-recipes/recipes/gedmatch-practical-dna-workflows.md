@@ -1,7 +1,7 @@
 ---
 id: "gedmatch-practical-dna-workflows"
 title: "Working reproducibly with GEDmatch"
-summary: "Eight GEDmatch workflows: establish kit/run baselines, follow shortlist entries into direct comparisons, check three-kit cores, bound locus searches, freeze tag/MKA groups, preserve triangulation, and record parental-phasing or Lazarus input groups and generated-kit roles."
+summary: "Work reproducibly in GEDmatch: kit baselines, one-to-one checks, segment search, tag groups, triangulation, phasing and Lazarus kits."
 kind: "platform"
 scope: {"platforms": ["gedmatch"], "tasks": ["GEDmatch One-to-Many, One-to-One, match-both, Segment Search, tag groups, Multiple Kit Analysis, Triangulation, parental phasing or Lazarus reconstruction."]}
 privacy: "genetic-third-party"
@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-comparison-controls", "evidence-proof-judg
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["gedmatch"], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool", "upload"], "contact": []}
-router: {"tier": "full", "group": "Featured workflows", "order": 41}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 21}
 ---
 
 # Recipe: Working reproducibly with GEDmatch
