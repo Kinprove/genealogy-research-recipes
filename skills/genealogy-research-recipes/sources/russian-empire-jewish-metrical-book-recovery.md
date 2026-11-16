@@ -19,6 +19,13 @@
 
 The full-image transcription, competing-requester hypotheses, later-name search and holding-archive questions in section 7 are authored procedure. The invented issue-note example is illustrative, not a transcription of an inspected record. S12 supports only the expressly limited catalogue example.
 
+### Sources added 2026-11-15
+
+S14 is a post on the Dzen channel «Сыщик рода», read on 2026-11-15 from a copy captured that day, without its images; its archive example applies only to Moscow guberniya.
+
+- **S13:** КонсультантПлюс, ["Федеральный закон «Об актах гражданского состояния» № 143-ФЗ, ст. 77"](https://www.consultant.ru/document/cons_doc_LAW_16758/7bffa90c9f7761365b38aa5eb603a386d4c6c4c5/), edition of 04.08.2026, read 2026-11-15. Used for: act books kept in the civil-registration bodies for one hundred years from the drawing up of the records, then transferred to the state archives.
+- **S14:** Dzen channel «Сыщик рода», [«Справка ЗАГС с иными сведениями - новый объект охоты генеалогов!»](https://dzen.ru/a/ZKfCSy2Tyz1eDC1M), published 2023-08-02, read 2026-11-15 from a captured copy. Used for: Art. 77 applied to early Soviet act records of 1918 to about 1926, to be sought in regional archives, and the Central State Archive of Moscow Oblast named as the holder of Moscow guberniya act records.
+
 ## Credits
 
 - J-Roots Forum, thread on the National Historical Archive of Belarus (NIAB) and its fonds — Forum post content, rights retained by the original authors; brief attributed paraphrase (adapted)
@@ -28,3 +35,4 @@ The full-image transcription, competing-requester hypotheses, later-name search 
 - J-Roots Forum, general question-and-answer thread for users unsure where to ask — Forum post content, rights retained by the original authors; brief attributed paraphrase (adapted)
 - Kinprove original procedural synthesis; forum threads cited as S1–S5 supply worked examples and locators; statutory dates, the town copy and fond examples from S6–S10, paraphrased — FSL-1.1-MIT (kinprove-original)
 - State Archive of Lviv Oblast, fond 21 catalogue description — Rights retained by the archive; brief attributed paraphrase (adapted)
+- Dzen channel «Сыщик рода» post cited as S14 — Copyright of its author; short paraphrase (adapted)

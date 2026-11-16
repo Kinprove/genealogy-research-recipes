@@ -105,6 +105,21 @@ original synthesis, applying the existing evidence/proof recipe to these source 
   the Arolsen Archives for further information", and the archive tree's count of 0 files for the
   unit.
 
+### Sources added 2026-11-15
+
+- **H22:** VK community «Клуб генеаголиков», [«Картотеки Центра розыска информации Красного Креста:
+  история одной архивной трагедии»](https://vk.ru/@-211758731-kartoteki-centra-rozyska-informacii-krasnogo-kresta-istoriya),
+  dated 27 March 2025, read 2026-11-15. Rights: cited reference, not reproduced. Used for: the
+  evacuee card file of ЦРИ РКК, with cards filled in for adults at the place of evacuation and sent
+  to Buguruslan, children under 16 written onto adults' cards, alphabetical arrangement by surname,
+  and no digitisation; and the centre's separate card file for children evacuated with schools and
+  other children's institutions, children of repressed parents and children's-home pupils.
+- **H23:** Dzen channel «Сыщик рода», [«Как искать эвакуированных в годы Великой Отечественной
+  войны?»](https://dzen.ru/a/Z1inkX7IJ103HroR), published 2024-12-11,
+  read 2026-11-15 from a captured copy, without its images. Rights: cited reference, not
+  reproduced. Used for: children under 16 often written onto one parent's card in the evacuee card
+  file held by ЦРИ РКК.
+
 ## Verification limits
 
 On 18 October 2026, the current [Names results page](https://collections.yadvashem.org/en/names/search-results?page=1)
@@ -117,3 +132,4 @@ documents support durable source distinctions, not a current platform manual.
 ## Credits
 
 - Kinprove — original distillation and synthesis; the routing table and the several-Pages rule rest on H11–H17, paraphrased — FSL-1.1-MIT (kinprove-original)
+- VK community «Клуб генеаголиков» article and Dzen channel «Сыщик рода» post cited as H22 and H23 — Copyright of their authors; short paraphrase (adapted)
