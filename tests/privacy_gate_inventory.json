@@ -2188,5 +2188,11 @@
   "kind": "request",
   "action": "Ask the agency that holds the official record early, not last.",
   "checkpoint": "A request to a tribe's enrollment office, a BIA agency or a National Archives facility sends the family's names and lineage"
+ },
+ {
+  "recipe": "russian-empire-jewish-metrical-book-recovery.md",
+  "kind": "request",
+  "action": "Ask the holding archive, with the entry's exact locator",
+  "checkpoint": "A request file can identify a requester other than the subject"
  }
 ]

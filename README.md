@@ -261,7 +261,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [rootsmagic-tree-reconciliation-workflow](skills/genealogy-research-recipes/recipes/rootsmagic-tree-reconciliation-workflow.md) | rootsmagic, ancestry, familysearch | — | — | export, link, upload | — | required |
 | [russian-empire-emigrant-origin-recovery](skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md) | record catalogues and original images | — | — | publish, request | — | required |
 | [russian-empire-jewish-identity-attribution](skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md) | record catalogues and original images | — | — | — | contact | required |
-| [russian-empire-jewish-metrical-book-recovery](skills/genealogy-research-recipes/recipes/russian-empire-jewish-metrical-book-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [russian-empire-jewish-metrical-book-recovery](skills/genealogy-research-recipes/recipes/russian-empire-jewish-metrical-book-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [russian-estate-registration-status](skills/genealogy-research-recipes/recipes/russian-estate-registration-status.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-household-list-transcription-audit](skills/genealogy-research-recipes/recipes/russian-household-list-transcription-audit.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-imperial-service-record-recovery](skills/genealogy-research-recipes/recipes/russian-imperial-service-record-recovery.md) | record catalogues and original images | — | — | — | — | — |

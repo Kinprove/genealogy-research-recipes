@@ -77,7 +77,7 @@ The usual columns are below. Column headings vary, so copy the headings of your 
 - **Non-Orthodox people are outside the count.** Fedorets and Kopay describe the lists as covering the Orthodox only. [S2], [S10] One guide says non-Orthodox family members were entered without a number. [S6]
 - **Read to the end of the parish.** A summary table of houses and souls by estate closes the list. [S2], [S10] A list of persistent non-attenders or schismatics can follow it. [S8], [S10] Metrical entries can be bound into the same delo: an Urals reference article calls this general practice in the late 18th century, and one participant found births, marriages and deaths inside an 1800 confession list. [S24], [S25]
 
-- **A marginal «порядок» can place a household in the village.** Dictionaries give порядок, in dated and regional use, as a row of houses forming one side of a village street. [S43] In the 1861 list of a Nizhny Novgorod-province village, the priest marked in the margin which порядок each run of households stood in, naming it after the road to a neighbouring village. With a survey plan made two years earlier, the researcher matched each порядок to its road, followed the household numbers as the priest's route from the church, divided the rows into plots by the number of households and found long runs in the same order in the 1858 revision's numbering, which gave an approximate map of the village. [S42] To match a household between the list and the revision, use the family's names and patronymics first, ages second and surnames last: in that village only 69 of 125 households had the same surname in the two documents, three years apart. [S42]
+- **A marginal «порядок» can place a household in the village.** Dictionaries give порядок, in dated and regional use, as a row of houses forming one side of a village street. [S44] In the 1861 list of a Nizhny Novgorod-province village, the priest marked in the margin which порядок each run of households stood in, naming it after the road to a neighbouring village. With a survey plan made two years earlier, the researcher matched each порядок to its road, followed the household numbers as the priest's route from the church, divided the rows into plots by the number of households and found long runs in the same order in the 1858 revision's numbering, which gave an approximate map of the village. [S43] To match a household between the list and the revision, use the family's names and patronymics first, ages second and surnames last: in that village only 69 of 125 households had the same surname in the two documents, three years apart. [S43]
 
 ## 3. Read the attendance columns as an administrative mark
 
@@ -93,7 +93,7 @@ The usual columns are below. Column headings vary, so copy the headings of your 
 - **Non-confession is not Old Belief.** People who missed confession for three years running were to be written down as schismatics under the 1737 rules. [S2] So a "раскол" label is an administrative classification with a date, and a plain "не был" is not even that. Use [Old Believer and sectarian record recovery](old-believer-sectarian-record-recovery.md) before you call a family Old Believer.
 - **Look for separate lists of non-confessants.** A statement drawn from confession lists about people absent in 1765–1767 (GASO f.24, op.1, d.2293) gave one man's patronymic and age, and a participant used it to link him to a family. [S29]
 
-- **A confession certificate places a person away from home.** A person could confess in another parish but had to bring his own priest a certificate of confession and communion there, and a parishioner away for more than a year was to confess where he lived and be entered in that parish's list, as an 1882 handbook for priests summarises decrees of 1737 and 1772. [S44] A Tula blogger notes that such a свидетельство о говении, which was also issued to a pupil moving up a class, a worker taking a job or a couple marrying, names the person, his place of registration (приписка) and the church where he confessed. [S45] When one survives in family papers or in a school, employment or marriage file, search that parish's lists and metrical books for the person and his household in that year.
+- **A confession certificate places a person away from home.** A person could confess in another parish but had to bring his own priest a certificate of confession and communion there, and a parishioner away for more than a year was to confess where he lived and be entered in that parish's list, as an 1882 handbook for priests summarises decrees of 1737 and 1772. [S45] A Tula blogger notes that such a свидетельство о говении, which was also issued to a pupil moving up a class, a worker taking a job or a couple marrying, names the person, his place of registration (приписка) and the church where he confessed. [S46] When one survives in family papers or in a school, employment or marriage file, search that parish's lists and metrical books for the person and his household in that year.
 
 ## 4. Compare the household across several lists
 
@@ -101,7 +101,7 @@ Set up one table per household, with one row per person and one column per list.
 
 1. **Start from the latest list you can reach, then step back.** Two guides advise checking earlier lists at intervals of 5–10 years, then refining the facts in metrical books. [S5], [S6]
 2. **Fill in the consecutive years around each change.** The two lists on either side of a change bracket the change in the record, not the event itself. A child may have been too young to list, and a new name may be the same person.
-3. **Find the family by its people.** Two guides say entries in these lists usually carry no surname [S6], [S10], but how many do varies by clerk and village: one state village's 1858 revision left 157 of its 258 families without a surname, and its 1861 confession list only 7 of 278 households. [S46] Look for the father with a son of the right name and age, whether or not the entry gives a surname. One guide suggests reading the whole list once, then scanning the age column for the age you expect, because each sex has its own column. [S9]
+3. **Find the family by its people.** Two guides describe peasant entries without surnames. [S6], [S10] When an entry has no surname, search by given name, patronymic, age and household; look for the father with a son of the right name and age. A missing surname does not by itself show that the family had none ([village family reconstitution, step 1](russian-village-family-reconstitution.md#1-identify-people-by-an-identity-key-not-by-the-surname)). One guide suggests reading the whole list once, then scanning the age column for the age you expect, because each sex has its own column. [S9]
 
 **Test the ages.**
 
@@ -148,6 +148,17 @@ Set up one table per household, with one row per person and one column per list.
 - **Recover a bride from her home village.** A participant knew a great-grandmother's name, patronymic, birth date and home village, and read that village's lists family by family until one Ivan had a daughter of that name and age. A copy of her birth certificate later confirmed the match. [S28] Without that kind of confirmation, the result stays a hypothesis.
 - **Test absence across every source.** A participant noted that one or two omissions could be a scribe's error or a child too young to be listed, but checked a family across confession lists of 1808, 1815 and 1822, and revision lists of 1811 and 1816, before concluding that it had no such daughter. [S22] The 1811 revision recorded men only [S7], so that return says nothing about a daughter. Count only sources that record women.
 - **Be careful with Old Believer households.** One review compared a Rzhev list of 1850 with the tenth revision. It found the lists fairly reliable for the Orthodox and full of inaccuracies for Old Believer families, and it prefers revision lists for them. [S16]
+
+**Check a soldier's wife before attaching her.** A «солдатка» with children in a household is not
+thereby the wife of that household's known recruit, nor are the children thereby his. Read the
+pre-conscription list for his named wife, then test the proposed link against marriage, baptism
+and death entries. A different name leaves alternatives to investigate, including another woman,
+remarriage or an error; keep the link unresolved until the evidence distinguishes them.
+
+Issue 341 reports a single case in which the pre-conscription list named the recruit's wife
+differently from a later «солдатка» proposed as his wife. The underlying lists were not
+independently inspected here. The case warns against attaching her from household placement;
+it does not by itself settle her identity. [S42]
 
 ## 6. Find the lists
 

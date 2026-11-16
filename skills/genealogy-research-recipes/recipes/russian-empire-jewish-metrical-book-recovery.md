@@ -4,13 +4,13 @@ title: "Recover a Russian-Empire Jewish metrical entry through the registering r
 summary: "Find the crown rabbinate that registered a Jewish community in the event year, check whether its books survive and list substitutes."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "RUSSIAN-EMPIRE-JEWISH-METRICAL-BOOK-RECOVERY-01", "text": "Do not search for \"the village's\" or \"the synagogue's\" metrical book. Having synagogues, or a sizeable Jewish population, does not show that a place had its own crown rabbi."}]
-handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing"]
+handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing", "soviet-personal-file-recovery"]
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 44}
 ---
 
@@ -89,9 +89,24 @@ A participant reported that ZAGS books up to about 1926 sit in the oblast archiv
 
 An early-Soviet village birth can produce the same layered replies as section 3. In one case a user received separate replies: "not preserved" for some years, "entry not found" for another year, and a further reply about a church parish book. Record each reply as its own row. [S3]
 
+## 7. Read later notes as a separate dated layer
+
+Read the whole entry, including its margins, even when an index omits later notes. Transcribe every later stamp or handwritten note verbatim, preserving its date, number, language, placement and any visible office or signature. Mark illegible or uncertain characters. Keep the note and its image locator separate from the original entry and the index reading; put translations and interpreted dates in separate fields.
+
+For an invented example, «Видано № 12345 13/IV-39» reads “issued” with a number and date. Treat a legible issue note as a dated record of administrative issuance, not as a new date for the birth, marriage or death. It does not identify the requester or recipient, prove the subject was alive or resident there, or explain the purpose. Keep the subject, a relative, an heir and an institution as competing requester possibilities until another record resolves them.
+
+Read the note for an explicit name change as well as issuance. Use the issue date as a possible name-change lead. Search the later period under supported Russified and Soviet forms of the given name and patronymic, following [Soviet personal-file recovery § 4](soviet-personal-file-recovery.md#4-search-under-every-name-the-person-actually-used). Seek a ZAGS change-of-name act; for a 1920s–30s lead, check whether published name-change notices are available for that place and period. An issue note alone establishes neither a name change nor a passport application. Silence under the birth name is not evidence of death or emigration.
+
+Administrative finding aids are worth asking about: the State Archive of Lviv Oblast catalogue describes name indexes to issued biographical and thematic certificates in fond 21, opis 1 (1918–1939), for the interwar state archive in Lwów. The catalogue warns that the described documents may be incomplete and not cover every year; no individual file was inspected. This example does not establish the meaning of a number on a metrical entry or survival of a corresponding request file elsewhere. [S12 @2026-11-16]
+
+**Privacy gate:** <!-- privacy-gate: request --> A request file can identify a requester other than the subject, and a recent note may concern living people; answer the privacy gate in `SKILL.md` before sending identifying details to an archive or office.
+
+Ask the holding archive, with the entry's exact locator and the later note's date and number: which office made the note, what does the number identify, does a register of issued certificates or extracts, name index or request file survive for it, and what access rule applies? Use this procedure regardless of when the note was added or which office or archive held the book. Do not assume the current holder issued the certificate. Record confirmed survival, confirmed non-survival, an unclear answer and an unanswered request separately; an unavailable file cannot identify the requester.
+
 ## Output: rabbinate jurisdiction and substitute register
 
 - **Jurisdiction table:** for the event year, list each candidate rabbinate (city rabbi, uezd rabbi, own shtetl rabbi, neighbouring town or uezd). For each, give the source (press or address calendar, forum report, archive list), its period uezd and guberniya, and its rank.
 - **Survival check:** make one row per rabbinate × confession × event (birth, marriage, divorce or death) × year, and name each fond searched (the rabbinate's, the town administration's, the guberniya board's). Mark each as surviving (with locator), reported lost (with who said so and when), or not yet checked. Then give the retrieval route chosen: online, request or visit.
 - **Substitutes:** make one row per item. Give its type (notebook, official book, extract, community certificate, Soviet extract, повторное certificate, list), its creation date, the basis of its information, its locator and its search status.
 - **Versions:** keep every version of the entry separate, with its own spellings and date. Do not merge them.
+- **Later notes:** give the verbatim note, literal date and number, image locator, separate translation/date interpretation, competing requester and name-change hypotheses, and the archive's answer or pending follow-up.
