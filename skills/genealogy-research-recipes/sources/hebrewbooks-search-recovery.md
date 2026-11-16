@@ -71,6 +71,31 @@ reachable; its body was not re-read, as it supports history. The articles by Zit
 Brand were not re-read, as they support history and methods, and the J-Roots topic could not be read
 because the forum's certificate had expired. The recipe text was not changed.
 
+### Bound-part control, 2026-11-16
+
+- Kinprove, [issue 295](https://github.com/Kinprove/genealogy-research-recipes/issues/295),
+  read 2026-11-16. Field report motivating the bound-part inventory, per-part title-page
+  locators and separate dating evidence. It reports an inner title page, a passage in that
+  later part, an outer date and a differently dated censor approval, but supplies no book ID
+  or page images. Those particular pages and dates were not independently checked and are
+  not reproduced as a verified example. The report also supplies the pagefeed pattern and
+  the viewer-versus-printed-page warning. The inventory, coverage limits and citation register
+  are Kinprove's procedural synthesis from that reported failure.
+- HebrewBooks, [public page PDF for book 41768, page 23](https://beta.hebrewbooks.org/pagefeed/hebrewbooks_org_41768_23.pdf),
+  retrieved 2026-11-16. A plain curl request returned HTTP 200, content type application/pdf
+  and 53,079 bytes. The PDF structure has one page; its title metadata identifies HebrewBooks
+  book 41768, page 23. The image text was not read, and the download was not compared with a
+  viewer image. A separate viewer request returned HTTP 403 that day. This is one successful
+  public download, not a guarantee for other pages, permission to redistribute, or verification
+  of the page's historical content.
+
+### Synthesis boundary
+
+The part-date controls distinguish the evidence on each part from the publication year
+inferred for it. The linked rabbinic-literature recipe retains the fuller approbation and
+Hebrew-date guidance; no conversion rule is newly asserted here.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis; the list of what to look for and the OCR and Otzar HaHochma notes paraphrase the JewishGen guides, the 2018 study and the Otzar HaHochma page above — FSL-1.1-MIT (kinprove-original)
+- Kinprove — original bound-part, coverage and dating controls prompted by issue 295, and a bounded public-download observation; no underlying family details or page images reproduced — FSL-1.1-MIT (kinprove-original)
