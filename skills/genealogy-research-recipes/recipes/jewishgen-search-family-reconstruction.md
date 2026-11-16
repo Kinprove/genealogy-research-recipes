@@ -179,13 +179,7 @@ When a family's births and deaths appear in its home-town registers but no marri
 - **Repeat the saved query after a relevant indexing update.** Preserve its previous date and coverage; an expanded dataset can change the result. For an unindexed list, a town/project specialist can point to the surviving source. Contact is a separate action requiring authorization. [Ukraine indexing demonstration](https://www.youtube.com/watch?v=NsdlMwZX9yg), [Genealogy Gems interview](https://www.youtube.com/watch?v=eB5KRGKSC1M).
 - **A public-database miss can come before a project's release.** Some projects have released new translations to their contributors before the public database; Litvak SIG district research groups were reported doing so in 2012, with JewishGen release about 18 months later. Before reading a negative, check the project's list of translated records and record a matching series as pending rather than as absence. Joining a group needs the researcher's authorization; the reported delay and access terms are dated and must be rechecked. [Lithuanian archive discussion](https://forum.j-roots.info/viewtopic.php?f=164&t=5924).
 
-Before planning a fresh translation of a memorial book, search the JewishGen Yizkor Book
-Database and the linked translation project for the community and its region. Inspect which
-pages are actually translated: a translated table of contents can identify the relevant chapter
-while the chapter itself remains untranslated. Record that extent rather than reporting the
-whole book as translated or starting again from its title alone. The Lublin project is one
-example of a translated contents list with substantial untranslated material.
-[N19 @2026-11-16] [N20 @2026-11-16] [N21 @2026-11-16]
+- **Check the translated extent behind a Yizkor hit.** For a family or community lead in a memorial book, search the JewishGen Yizkor Book Database and linked community or regional translation project before starting a fresh translation. Inspect what is actually translated, including any translated contents list and linked chapter pages. The Lublin project, for example, provides a translated contents list while substantial content remains untranslated; record chapter-level coverage rather than labeling the whole book translated. [N19 @2026-11-16](https://www.beholdgenealogy.com/blog/?p=3874) [N20 @2026-11-16](https://www.jewishgen.org/Yizkor/faq.html) [N21 @2026-11-16](https://www.jewishgen.org/jewishgen-erosity/YizkorTr/YBLublin.html)
 
 ## From a missing-husband notice to an agency case file
 
