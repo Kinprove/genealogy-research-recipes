@@ -87,8 +87,9 @@ named unit against the administrative history of its date before you choose a pa
 **A record number does not replace the kinship chain.** For a dead person, Art. 9 of 143-FZ lets
 ZAGS issue documents to a relative or another interested person, who shows an identity document and
 documents proving the right to receive them (Parts 2 and 7). For a living adult, a repeat certificate
-goes only to that person or to someone holding their notarised power of attorney; once the child is
-of age, a parent may ask only for another document confirming the birth registration (Part 2). [S65]
+goes only to that person, to the guardian of a person declared legally incapable, or to someone
+holding a notarised power of attorney from one of them; once the child is of age, a parent may ask
+only for another document confirming the birth registration (Part 2). [S65]
 A Dzen author who knew the number and date of a 1938 death record could not obtain the справка
 because her kinship documents were incomplete [S68], and her mother was asked for the author's power
 of attorney to obtain the author's birth and marriage справки. [S69] Build the chain of step 5 before
