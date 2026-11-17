@@ -73,7 +73,7 @@ def main():
             print(version)
             return
         commit = os.environ["GITHUB_SHA"]
-        tag = ref.removeprefix("refs/tags/")
+        tag = ref  # ClawHub records the full tag ref of a trusted publish
         if args.mode == "preview":
             verify_preview(data, version, commit, tag)
         elif args.mode == "published":
