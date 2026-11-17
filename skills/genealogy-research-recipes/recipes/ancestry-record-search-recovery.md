@@ -124,6 +124,8 @@ records were destroyed. Matching dates or titles do not establish that two books
 are copies, or which is earlier: inspect the records and their provenance before
 combining their evidence.
 
+For a deceased U.S. person with unknown parents, search *U.S., Social Security Applications and Claims Index, 1936–2007* [S9 @2026-11-16]. Ancestry lists possible birth details, father’s name, mother’s maiden name and name/claim changes, but warns that inclusion is incomplete and parents’ names can be suppressed [S5 @2026-11-16]. Extract the fields actually shown as application/claim statements; a blank parent field or missing person is not a finding that no application existed [S5 @2026-11-16].
+
 Keep three observations separate: no indexed candidate; no matching images in the
 available inventory; and documented absence in the original surviving records.
 Use the existing evidence-judgment recipe before drawing a genealogical conclusion.
@@ -203,6 +205,8 @@ before searching it. The [adult-child residence example](https://www.youtube.com
 supports this locality pivot; a child's residence does not establish the parent's move or
 death there, and no particular child's household has automatic priority.
 
+For a U.S. death search, separate the residence county from the hospital or institution’s county. The standard death certificate gives separate residence, facility/place-of-death and county-of-death fields [S6]. If a known facility was elsewhere, search its locality as well as the home locality, preserving which place belongs to which field. Do not move the person’s residence merely because the death was recorded elsewhere [S10].
+
 ### 8. Use wildcards for a specific spelling uncertainty
 
 **Trigger:** a name has plausible transcription or spelling variants.
@@ -213,6 +217,8 @@ part at a time. Ancestry's help pages say wildcards do not work with Soundex, so
 a wildcard search without Soundex. A Soundex code always begins with the name's first
 letter, so a wrong initial defeats a Soundex search; then try an alternative spelling
 or a name-free recovery instead of repeating that search.
+
+When handwriting could interchange **t** and **l**, search the letter alternatives directly or with the supported wildcard. Soundex assigns them different codes; a visual resemblance is not a sound-code match. The same issue affects Bowery/Bowey: retaining the R gives B600 versus B000 under the standard NARA rules [S4]. Keep the two searches separate rather than assuming phonetic matching covers both [S7] [S8].
 
 Current Ancestry help pages state different wildcard limits:
 

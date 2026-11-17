@@ -73,6 +73,8 @@ Record two locators, not one:
 
 Reading one series does not mean you have searched the other, in either direction. NARA holds the RG 49 land-entry case files, and the surrendered warrants are not online. [S1], [S4], [S5] The GLO site shows whether an entry exists and displays one page. [S1]
 
+Do not stop a military-bounty warrant search in the veteran’s home state. Once the warrant’s act, acreage and number match an entry (§1), read its land office and legal description to place the tract. Keep that location separate from the warrantee’s residence. [S34], [S35], [S36]
+
 ## 3. Build the party-role table before interpreting anyone
 
 Keep one row per person, with the role that person plays: veteran; widow or heir who applied; assignee; locator/enterer; patentee. Record names exactly as each document gives them.
@@ -94,6 +96,8 @@ If no index covers the office and period, or it has no hit, get a section-townsh
 - **Newspaper legal notices:** final-proof (intent-to-prove) notices, contests and patent-ready notices, usually in the county's official paper. Final-proof notices ran weekly for several weeks so that adverse claimants could come forward. [S7], [S3] Search for them with the [newspaper recovery recipe](newspapers-com-search-recovery.md). A contest notice points to a disputed entry. It does not show that the claim failed. [S7]
 - **A GLO location search** on that description. In Smith's Kansas example, the claimant was missing from the patentees in his section, yet his entry fit "with no conflict". The gap was itself the clue. [S3] The GLO site also has survey plats, field notes and land status records (Master Title Plats) for that location. [S4]
 - **A census civil township**, converted to township and range with a historical county atlas. [S3]
+
+In Ohio, identify the survey or land division before interpreting a township/range description. The state contains several systems with different numbering; the Virginia Military District uses metes and bounds. Use the Ohio History Connection land-division guide and a period map to select the system, then copy the description in that system instead of forcing every Ohio parcel into one rectangular grid. [S26], [S27], [S28]
 
 ## 5. Read the tract book, not just the target line
 
@@ -128,6 +132,12 @@ Inventory the file one document at a time instead of summarizing it. Contents va
 - For warrant entries: the surrendered warrant and any signed assignment on its back. [S1]
 
 - The application or entry date. The patent ends an entry, and the case file can show when it began, often years earlier. Diana Elder found Arkansas patent applications dated four to six years before the earlier patents and two years before the later ones, and used an 1838 application as the earliest date for the man in the county [S18]. Do not read a homestead entry date as the start of residence: a homesteader had six months after filing to take up residence, and at final proof the witnesses testified when actual residence began [S24]. Title came after five years on the land, or after six months' residence and a cash payment [S19]. For any entry, record the entry date as a dated dealing with the land, not as proof that the person lived there.
+
+When a homestead claimant sought military-service credit toward the residence requirement, check the case file for service papers. Carry any recorded unit and service dates into the military-record search. [S29], [S30]
+
+Read the final-proof witnesses’ answers as a separate source, including how long they knew the claimant, their distances from the tract and any other neighbours they identify. Search neighbouring homestead files for the ancestor as a witness even if the ancestor completed no entry. Witnesses were usually neighbours; the witness role alone establishes neither kinship nor independence from the claimant. [S31], [S29], [S32], [S33]
+
+When a widow or heir completed a deceased claimant’s homestead, read the succession papers for the claimant’s death date and the successor’s stated relationship. [S31], [S30]
 
 Each item is a lead with its own locator. A name or place of origin given in a land file still has to be correlated with independent records.
 

@@ -33,6 +33,7 @@ Identity rulings belong in [evidence/proof judgment](evidence-proof-judgment.md)
 - 2\. Generate same-named and mis-transcribed candidates
 - 3\. Test each candidate against surname and denomination
 - 4\. Search the whole locality, including estate papers
+- Recover additional origin statements
 - 5\. Treat a townland-named farm as a hypothesis
 - 6\. Output and handoff
 
@@ -82,6 +83,9 @@ limited to the family's later church. Each step below blocks one of these errors
   map viewers of PRONI and of Tailte Éireann (formerly Ordnance Survey Ireland) [S3], [S4].
   Keep the recorded spellings beside the standard form.
 
+  Keep English and Irish forms in the candidate-place table. Logainm displays both forms [S25], [S31];
+  search each relevant form.
+
 ## 3. Test each candidate against surname and denomination
 
 - Look up the surname in the Tithe Applotment books (1823–1837), Griffith's Valuation (1847–1864)
@@ -117,6 +121,14 @@ Run it for the surname and county first.
 
 ## 4. Search the whole locality, including estate papers
 
+- **Search estate papers by landlord and place.** NLI notes that Griffith's Valuation records the
+  owner as well as the occupier of land, that surviving estate papers can be searched by the
+  landlord's or the estate's name once a landlord is identified, and that a list of surviving
+  estate papers arranged by civil parish is on the subscription site Irish Ancestors
+  [S21 @2026-11-17]. Record the landlord as written and trace the relevant estate and holding
+  repository. When using PRONI's catalogue, search the townland, parish or street as well as the
+  person's name [S22 @2026-11-17]. Save the collection and item references.
+
 - For Ulster tenant families, search the landed-estate rentals, lease books and correspondence
   for each candidate locality. Farmers were tenants, estate papers are rich for parts of Ulster,
   and most are held in archives such as PRONI rather than online [S9], [S10].
@@ -135,6 +147,40 @@ Run it for the surname and county first.
     court [S19].
 
   Each list covers one class of people, so absence from it does not prove absence from the place.
+
+## Recover additional origin statements
+
+- **Search the published passenger lists for the matching period.** Locate Brian Mitchell's
+  *Irish Passenger Lists 1803–1806* for Hardwicke-paper departures from Irish ports in
+  March 1803–March 1806, or *Irish Passenger Lists 1847–1871* for the Londonderry lists of
+  J. & J. Cooke (1847–1867) and McCorkell (1864–1871) [S24], [S29]. Search the matching volume
+  and read the passenger's stated address or residence and identifying details. Record the title,
+  edition and page consulted.
+
+- For a family in the Bytown area in 1829, search the McCabe List: a petition dated
+  5 February 1829 by 673 men, mostly Irish, with family-origin details. Moran's guide points to
+  Colonial Office reference CO 384/22 [S26], [S29]. Extract the stated Irish place and relatives
+  and pursue the original. Appearance in this petition alone does not classify someone as a
+  Peter Robinson emigrant.
+
+- For an emigrant known to have served as a Latter-day Saint missionary, search the Church
+  History Library's *Missionary Department Missionary Registers, 1860–1959* (CR 301 22), for
+  missionaries set apart in Salt Lake City. Missionaries set apart elsewhere are generally not
+  listed [S27], [S30]. Copy birth and parentage statements from a matching entry, then use them
+  to seek the corresponding Irish records.
+
+- Search *Boston Pilot* missing-friends advertisements for the emigrant and known associates.
+  The *Information Wanted* series began in 1831 and continued for about 85 years [S28], [S31].
+  Extract the seeker, person sought, Irish places and stated relationships from a matching
+  advertisement; preserve its date, newspaper locator and the database or book volume used.
+
+- **Read the loan record's later returns, not only the borrower index.** Findmypast's
+  *Ireland, Poverty Relief Loans 1821–1874* contains T91 records, mostly dated 1824–1846, from ten
+  county boards: Clare, Cork, Galway, Kerry, Leitrim, Limerick, Mayo, Roscommon, Sligo and
+  Tipperary [S23]. Match the volume's locality and years to the borrower; some papers extend
+  beyond those boards. Later returns can state residence, health or emigration [S23], [S29].
+  Separate the loan date from each later report and distinguish borrower, guarantor and other
+  named people.
 
 ## 5. Treat a townland-named farm as a hypothesis
 
@@ -156,6 +202,9 @@ Return:
 3. **Handoff:** the selected parish and denominations, sent to register retrieval (the Catholic
    parish image recipe above for Catholic registers), with the remaining gaps named. Examples are
    unsearched estates or denominations, and statements not yet classified.
+4. **Retrieval log for additional origin statements:** collection or book title, volume/page or
+   item reference, report date, literal Irish place and relationship wording, and inspection
+   status.
 
 Do not record a townland as the origin on a place-name, surname-distribution or farm-name match
 alone. Submit the person-specific evidence that ties this person to the townland, from destination

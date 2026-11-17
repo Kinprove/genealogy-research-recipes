@@ -55,6 +55,28 @@ What was not verified:
 - the current form of the meeting-code key;
 - that marriage witnesses are not indexed on Ancestry.
 
+### Additional sources checked 2026-11-16
+
+- **S19:** Price Genealogy, [Researching Your American Quaker Ancestors, Part 2](https://www.pricegen.com/researching-your-american-quaker-ancestors-part-2/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S20:** Friends Collection of Earlham College and Friends Historical Library of Swarthmore College, [QuakerMeetings.com](https://quakermeetings.com/). Passage read 2026-11-16. Used for: Thomas C. Hill’s index of meetings, former names, parent bodies, places and reported record locations; the maintainers warn that not all website and record-location data can be kept current.
+
+- **S21:** FamilySearch Wiki, [Society of Friends (Quakers) in the United States](https://www.familysearch.org/en/wiki/Society_of_Friends_(Quakers)_in_the_United_States). Passage read 2026-11-16. Used for: Birth records give residence; new-member entries may contain birth and marriage information for the whole family.
+
+- **S22:** Conrad Wilson, Tredyffrin Easttown Historical Society, [An eighteenth-century Quaker marriage certificate](https://www.tehistory.org/hqda/html/v08/v08n3p077.html). Passage read 2026-11-16. Used for: A published 1769 certificate whose intention preamble identifies parents and the parties’ townships and county; not an inspection of the original certificate.
+
+- **S23:** Price Genealogy, [Researching Your American Quaker Ancestors](https://www.pricegen.com/researching-your-american-quaker-ancestors/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S24:** Lineages, [Researching your American Quaker Ancestors](https://lineages.com/researching-your-american-quaker-ancestors/). Passage read 2026-11-16. Used for: Some families migrated before obtaining a removal certificate; only this timing point is used.
+
+- **S25:** Genealogy Just Ask, [Week 2: How Quaker Minutes Preserve Hidden Lives](https://genealogyjustask.substack.com/p/week-2-post-1-day-1-how-quaker-minutes). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S26:** Guilford College, [Quaker Genealogy: Ancestry.com](https://library.guilford.edu/quaker-genealogy/ancestry). Passage read 2026-11-16. Used for: The guide’s state/county/meeting/book browsing route and distinction between viewer image and record page. The live subscription viewer was not tested.
+
+- **S27:** Shannon E. Duffy, Encyclopedia of Greater Philadelphia, [Loyalists](https://philadelphiaencyclopedia.org/essays/loyalists/). Passage read 2026-11-16. Used for: Religious refusal to swear oaths, pay war taxes or support war, distinct from affirmative political allegiance.
+
+- **S28:** Hiram H. Hilty, [Toward freedom for all: North Carolina Quakers and slavery, Part 4](https://ldsgenealogy.com/NC/books/Toward-freedom-for-all-North-Carolina-Quakers-and-slavery-part-4.htm). Passage read 2026-11-16. Used for: Machine-generated book text describes separate emancipation papers, court-issued deeds and private papers without court approval; not every instrument established legal freedom or a county-deed entry.
+
 ## Credits
 
 - BYU Family History Library, Maureen Brady, Quaker Family History Research (5 November 2025) — Third-party content, all rights reserved by the rights holder; brief attributed adaptation (adapted)
@@ -62,3 +84,4 @@ What was not verified:
 - Kinprove original procedural synthesis; record behaviour reported by Maureen Brady (S1) and Joyce Whiting (S2), the court-record example reported by Anna Ruane (S3), and the calendar examples from Swarthmore College's Friends Historical Library (S4), are paraphrased and attributed — FSL-1.1-MIT (kinprove-original)
 - Community video, First Steps in Genealogical Research in a County - JG0197 (S13) — Third-party content, all rights reserved by the rights holder; a single recommendation paraphrased with attribution, no quotation (adapted)
 - Thomas C. Hill, Monthly Meetings in North America: A Quaker Index, on QuakerMeetings.com (S14), licensed CC BY-NC-SA 4.0 as stated on the page — factual record-location statements paraphrased with attribution; no text reused (adapted)
+- Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)

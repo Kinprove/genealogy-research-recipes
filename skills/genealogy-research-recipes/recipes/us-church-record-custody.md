@@ -29,6 +29,8 @@ Use this when a U.S. ancestor's baptism, marriage, burial or membership record i
 - **Methodist:** a local church's registers stay with that church or its successor. When a church closed without a successor, its records went to its Annual Conference archives. The General Commission on Archives and History at Drew University, Madison, New Jersey, does not hold local church membership, baptism or marriage registers [S28].
 - **Episcopal:** registers stay with the parish. A closed church's records go to the succeeding congregation or to the diocese [S29].
 
+- **Union churches:** In Pennsylvania German research, identify every congregation that used a union church building. Lutheran and Reformed congregations could share the building and clergy while keeping separate books or separate sections in one book. Search each congregation’s records; a shared building is not one merged register or proof of one denomination. [S30], [S31], [S32]
+
 Use an ethnicity or immigrant origin only as a lead to the branch. Do not use it as proof of membership.
 
 ## Write down what that branch recorded
@@ -41,6 +43,10 @@ Before searching, list the record types you expect for each candidate congregati
 - **Catholics:** expect parish registers of baptisms and marriages [S1], [S4], and expect a death or burial register as well. The Roman Ritual of 1614 gave forms for the parish books, including a book of the dead (*Liber Defunctorum*) [S20]. The Second Plenary Council of Baltimore (1866) told pastors to keep registers of baptisms, confirmations, marriages and funerals [S21]. Brady says many Catholic churches did not record burials, while French Canadian parishes regularly did [S4]. So do not assume every parish kept one. Before you mark it never-created or lost, check what that parish actually recorded and who holds its books now.
 - **Quakers:** expect minutes, membership books and registers of births, marriages and deaths or burials, and certificates of removal when a member moved to another meeting [S22], [S26]. Some meetings kept removal registers; others recorded removals only in the minutes, so check both [S26].
 
+- **Confirmation entries:** Use a confirmation entry to add a dated rite location and its sponsors or witnesses to the candidate register. Check that denomination’s and parish’s confirmation practice before estimating an age: teenage confirmation is not universal. The church’s location directs a residence search; it does not itself establish the person’s home address. [S35], [S36]
+
+- **Family, communicant and financial records:** Inventory more than the vital-event books: check family registers, communicant and membership lists, and administrative or financial records that may name donors. A family register groups entries by household; a communicant or contribution list gives another dated appearance. Preserve the recorded role rather than treating a donation or communion appearance as permanent membership. [S39], [S40], [S41], [S32]
+
 Membership lists are dated observations of presence. A first or last appearance brackets joining or leaving. It is not a birth or death. Where a body admitted members only at an older age, an admission is not a birth. [S1]
 
 ## Build a dated congregation candidate register
@@ -52,12 +58,18 @@ Do not pick the church nearest the census or directory address.
 - **African American members:** search all local congregations of the denomination, not only historically Black churches. The archivists report finding African American members in the registers of other congregations. [S11]
 - **Rural or remote families:** Lefler notes they might use whichever preacher came through, of any denomination. Widen the candidate list across denominations. [S3]
 
+- **Colonial Virginia:** For colonial Virginia, search the territorial Anglican parish’s birth/christening and death/burial registers even when the family belonged to another faith. Establish the parish boundary and surviving years first; a duty to report does not show that a particular event was entered or that its register survives. [S37], [S38]
+
 Sources for the list:
 
 - **Hall's Index of American Presbyterian Congregations** (Presbyterian Historical Society). The archivists describe volunteers compiling it from the presbytery rolls in the printed General Assembly minutes. [S11] The Society's own description adds annual denominational yearbooks and other denominational publications as sources, and says the index runs only to about 2015. You can search it by church name and by city or state, but not by county. Search every nearby town from a map, one at a time. Allow for a congregation's recorded place name changing with post-office or boundary changes. [S11]
 - **WPA Historical Records Survey Inventories of Church Archives**, published state by state from about 1936 to 1942. Lisson cites Michigan volumes digitized at HathiTrust. At least one Michigan volume has been confirmed in full view there, but check each volume you need. [S2]
 - **Community-news columns** (revivals, Bible schools, visiting speakers) to find small or independent churches you did not know existed. [S9], [S18]
 - **Denominational periodicals**, for example the Baptist *Biblical Recorder* in Lisson's area. It was founded in 1833 and moves to digital-only publication after 2026. [S9]
+
+- **Probate inventories:** Use the full probate file to generate church leads. An inventory can name a pew or the meeting house where it lay, as Williams’s example shows. Follow that named congregation into its records; owning or inheriting a pew is a property observation, not proof that the owner attended or belonged to the church. [S42], [S43]
+
+- **Moravian diaries:** For a person near the Moravian settlements of Wachovia, include the published Records of the Moravians in North Carolina. Its translated excerpts from congregation diaries, travel diaries and annual accounts discuss neighbours as well as Moravians. Follow an item to the cited diary or archival locator where needed, and keep a neighbour’s mention separate from evidence of Moravian membership. [S44], [S45]
 
 For each candidate, record: name, branch, place name as it changed, dates active, parish or mission status, and expected record types.
 
@@ -74,12 +86,18 @@ For each candidate, record: name, branch, place name as it changed, dates active
 - Start at the nearest church, then widen the search. Check the other congregations in the same charge, the pastor's private registers (which he may never have copied into the congregation's book) and churches across nearby county lines. [S14]
 - A circuit preacher may have recorded an act somewhere other than where it took place, or may not have recorded it at all. [S3] An entry in a distant book does not show residence or attendance. Beidler gives the example of western Berks County families who appear in the register of an eastern Berks County church only because they shared its pastor. [S14]
 
+- **Delayed baptism:** A baptism search confined to the birth year is incomplete. For a child served by visiting clergy, search the following years as well: baptisms could occur months or years after birth, and several siblings could be baptized together. Keep the stated birth and baptism dates separate; do not impose a one- or two-year maximum delay. [S33]
+
+- **Later copying:** Separate a delayed baptism from a delayed entry. Reynolds proposes that a minister’s private notes were copied into the English register later; test that mechanism against this register’s hand, dates and copying statements rather than assuming every U.S. book was entered contemporaneously. [S34]
+
 ## Trace custody for a closed or unknown congregation
 
 - **Catholic:** a closed or merged parish's registers usually go either to the successor parish that absorbed its territory or to the diocesan archive, depending on the diocese. Crow gives the diocesan archive as the expected route. [S5] Diocesan practice varies, so ask the diocesan archive where the registers are held. Then check both places.
 - **Other denominations:** check the last minister, a neighbouring congregation of the same faith, local and state historical societies [S5], and the state or regional denominational body, such as a state Baptist association [S8]. Ask the local genealogical society what happened to the records. [S5], [S18] If the church still exists, contact its historian. [S8] For itinerant ministers (Allen's example is Methodist circuit riders), check the denomination's regional repositories and the county where the minister died. [S6], [S7]
 - When contacting the Presbyterian Historical Society, give the congregation name plus its city and state, because that is how its holdings are arranged. Have the staff confirm which records survive for that congregation before they say yes or no to a particular entry. [S12]
 - A denominational archive may document mainly the organization and its history rather than individual members. Tanner's examples include the American Baptist Historical Society and the Archives of the Episcopal Church. Check what it actually holds before treating it as the source of a person's record. [S1]
+
+- **Latter-day Saints:** For Latter-day Saint membership evidence, use the Church History Library’s Record of members collection, 1836–1970, and search the catalogue by the ward or branch. The library’s guide says acquisitions after the 1960s–1970s microfilming project are catalogued separately, so the main collection is not the whole search. Record the particular series and its access conditions, without assuming an online image is available. [S46 @2026-11-16], [S47 @2026-11-16]
 
 ## Bound every negative
 

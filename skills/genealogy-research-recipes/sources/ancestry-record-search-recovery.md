@@ -110,9 +110,22 @@ check. S2 could not be fetched that day (an interrupted browser load, then HTTP 
 its read earlier that day. Videos were not re-read. No live Ancestry search was run, and the
 recipe text was not changed.
 
+## Social Security index, death places and Soundex
+
+The recipe cites these as S4–S10.
+
+- **S4:** [NARA: The Soundex indexing system](https://www.archives.gov/research/census/soundex), read 2026-11-16. Used for: T and L having different consonant codes, R being retained, and vowels/W ignored after the initial letter.
+- **S5:** [Ancestry: U.S., Social Security Applications and Claims Index, 1936–2007](https://www.ancestry.co.uk/search/collections/60901), read 2026-11-16. Used for: possible birth and parent fields, name changes and claims, incomplete inclusion and suppressed parents' names. A recheck on 2026-11-17 was refused (HTTP 403); the Internet Archive capture of the U.S. page from 2026-10-26 gives the same fields and warnings.
+- **S6:** [CDC: U.S. Standard Certificate of Death, revision 11/2003](https://www.cdc.gov/nchs/data/dvs/DEATH11-03final-ACC.pdf), read 2026-11-16. Used for: separate residence county, facility/place of death and county of death fields; a U.S. example, not a universal registration rule.
+- **S7:** Genealogy Tip of the Day, [Finding the Butlers’ Butter and that Special Feller](https://genealogytipoftheday.com/index.php/2026/03/07/finding-the-butlers-butter-and-that-special-feller-3/), read 2026-11-16. Used for: searching each letter variant separately instead of relying on phonetic matching.
+- **S8:** Genealogy Tip of the Day, [Does That “r” Matter?](https://genealogytipoftheday.com/index.php/2026/05/12/does-that-r-matter/), read 2026-11-16. Used for: searching a name with and without its R separately instead of relying on phonetic matching.
+- **S9:** [Find Your Mystery Ancestor](https://www.pricegen.com/find-your-mystery-ancestor/), read 2026-11-16. Used for: the Social Security Applications and Claims Index on Ancestry as a search for parents' names, which it often includes.
+- **S10:** Genealogy Tip of the Day, [Death in a Short Term Location?](https://genealogytipoftheday.com/index.php/2023/01/22/death-in-a-short-term-location/), read 2026-11-16. Used for: not moving a person's residence because the death was recorded elsewhere.
+
 ## Credits
 
 - Roberta Estes, DNAeXplained, RootsTech 2024: DNA Academy and Ancestry Announcements, blog post, 2024-03-14, cited as S1 — All rights reserved; short attributed facts (adapted)
 - Suzan Younger, Dallas Genealogical Society, The Newspapers Stories and Events Index, 2024-03-25, cited as S2 — All rights reserved; short attributed facts (adapted)
 - Andrew Koch, Family Tree Magazine, Searching the Newspaper.com Indexes at Ancestry, updated 2026-05-04, cited as S3 — All rights reserved; short attributed facts (adapted)
+- Community sources S7, S8, S9, S10 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

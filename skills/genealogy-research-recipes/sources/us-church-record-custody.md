@@ -32,6 +32,44 @@
 
 The four-state negative ledger, the candidate register fields, the order of steps and the treatment of membership dates as brackets are authored synthesis. The presenters supply the denomination-specific examples, the custody routes and the index limits.
 
+### Additional sources checked 2026-11-16
+
+- **S30:** Price Genealogy, [German Influences in the United States – Part One](https://www.pricegen.com/8228-2/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S31:** Price Genealogy, [German Americans Part 1](https://www.pricegen.com/german-americans-part-1/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S32:** Alice Childs, Family Locket, [Part 7: Pennsylvania Germans: Church Records](https://familylocket.com/part-7-pennsylvania-germans-church-records/). Passage read 2026-11-16. Used for: Lutheran and Reformed union congregations sharing buildings but keeping separate records or book sections; communicant and membership records.
+
+- **S33:** Ancestral Findings, [Baptismal Records: A Closer Look at Birth Records](https://ancestralfindings.com/baptismal-records-a-closer-look-at-birth-records/). Passage read 2026-11-16. Used for: Baptisms months or years after birth when travelling clergy visited infrequently.
+
+- **S34:** Chris Reynolds, Hertfordshire Genealogy, [Are there hidden gaps in parish registers?](https://hertfordshire-genealogy.blogspot.com/2014/06/are-there-hidden-gaps-in-parish.html). Passage read 2026-11-16. Used for: Reynolds’s proposed explanation of an English copying certification: private notes copied into the parish register later; a mechanism to test, not an established finding about this register or a U.S. register.
+
+- **S35:** Michael John Neill, Genealogy Tip of the Day, [Confirming Confirmation](https://genealogytipoftheday.com/index.php/2023/04/21/confirming-confirmation/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S36:** Thomas MacEntee, MyHeritage Wiki, [Confirmation Records](https://www.myheritage.com/wiki/Confirmation_records). Passage read 2026-11-16. Used for: Confirmation locations and sponsors as research leads; confirmation age varies by denomination and local practice, including infant chrismation.
+
+- **S37:** Price Genealogy, [Researching Your Colonial Ancestors, Part I [249 Years of American Independence]](https://www.pricegen.com/researching-your-colonial-ancestors-part-i-249-years-of-american-independence/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S38:** Bob Baird, [Parish Records and Courts](https://genfiles.com/articles/parish-records-and-courts/). Passage read 2026-11-16. Used for: Virginia parish vital registration regardless of affiliation and the survival limits of the registers; the recipe uses the search route without adopting a universal compliance claim.
+
+- **S39:** Michael John Neill, Genealogy Tip of the Day, [Beyond the Vital Church Records](https://genealogytipoftheday.com/index.php/2023/09/20/beyond-the-vital-church-records/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S40:** Michael John Neill, Genealogy Tip of the Day, [All the Church Records–Not Just Your Favorites](https://genealogytipoftheday.com/index.php/2023/03/18/all-the-church-records-not-just-your-favorites/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S41:** Minnesota Historical Society, [Church Records](https://libguides.mnhs.org/church). Passage read 2026-11-16. Used for: Membership, minutes, administrative and financial records, and changing church affiliation.
+
+- **S42:** Michael John Neill, Genealogy Tip of the Day, [Probate Clues to Church?](https://genealogytipoftheday.com/index.php/2023/03/19/probate-clues-to-church/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S43:** Alicia Crane Williams, Vita Brevis, [Probate records: Part Six](https://vitabrevis.americanancestors.org/2016/03/probate-records-6). Passage read 2026-11-16. Used for: An estate inventory naming pews, one at a named meeting house, as a congregation lead.
+
+- **S44:** Price Genealogy, [German Influences in the United States Part 2](https://www.pricegen.com/german-influences-in-the-united-states/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S45:** Moravian Archives, Southern Province, [Records of the Moravians in North Carolina](https://moravianarchives.org/records-of-the-moravians-in-north-carolina/). Passage read 2026-11-16. Used for: Published translated excerpts from congregation diaries, travel diaries and annual accounts include information about Wachovia neighbours as well as Moravians.
+
+- **S46:** Price Genealogy, [Southwest United States Genealogy](https://www.pricegen.com/southwest-united-states-genealogy/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S47:** Church History Library, [Baptism and Confirmation Information in Early Records](https://churchhistorylibrary.churchofjesuschrist.org/guides/baptism-and-confirmation-information-in-early-records?lang=eng). Passage read 2026-11-16. Used for: The Record of members collection, 1836–1970, and ward/branch arrangement, including separately catalogued later acquisitions. The broader collection list in the community post was not imported.
+
 ## Credits
 
 - Family History Fanatics, Genealogy Research: How to Research When Records Have Scanty information (2020-12-05) — Short quotation for attribution and commentary; source rights retained by the presenter (quoted)
@@ -39,3 +77,4 @@ The four-state negative ledger, the candidate register fields, the order of step
 - Denyse Allen, Looking in PA County Histories (2021-06-11); same phrase in S7, Looking for PA County Histories (2024-07-25) — Short quotation for attribution and commentary; source rights retained by the presenter (quoted)
 - Kinprove original source annotations — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural synthesis; presenter examples and custody routes are attributed inline and cited as S1-S18; archive, depository and canon-law facts from S19-S29, paraphrased — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)

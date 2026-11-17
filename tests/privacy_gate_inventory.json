@@ -2716,5 +2716,11 @@
   "kind": "request",
   "action": "For an act book already transferred to the state archive, write to the archive, not to ZAGS",
   "checkpoint": "A request for a transferred act record names the person recorded"
+ },
+ {
+  "recipe": "scottish-parish-statutory-record-recovery.md",
+  "kind": "request",
+  "action": "Retrieve the admission entry for a pupil",
+  "checkpoint": "An admission entry for a pupil who may be living"
  }
 ]

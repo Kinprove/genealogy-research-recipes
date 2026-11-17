@@ -20,6 +20,15 @@ Use this recipe when a U.S. birth or death search has failed and someone is abou
 
 General negative-evidence rules are in [evidence/proof judgment § Negative-evidence gate](evidence-proof-judgment.md). How to weigh a delayed certificate as a late claim is in the same evidence/proof judgment recipe. Locality-wide search lines are in [research documentation](research-documentation.md). For browsing catalogued film that has no index, see [FamilySearch record workflows](familysearch-practical-record-workflows.md). A delayed certificate's filing date is not the birth date.
 
+## Contents
+
+- List every authority that could have registered the event
+- Split each authority into its separate series
+- Record custodians, access and copy fidelity for each series
+- Widen the places searched before recording a miss
+- Treat a delayed certificate as a set of leads
+- Report coverage as a table, not a verdict
+
 ## List every authority that could have registered the event
 
 For the event date and every candidate place, make one row for each body that may have registered births or deaths. Give each row its own start date.
@@ -30,6 +39,10 @@ For the event date and every candidate place, make one row for each body that ma
 - **The county.** The register of deeds, the courthouse or the county archives may hold births and deaths from before the state level began [S4]. Some counties, like Pennsylvania's, registered in separate periods with gaps between them. Give each period its own row.
 - **The state mandate.** Treat this as the start of one series, not the start of all coverage. Mandate years differ from state to state, and some states had an earlier state series that stopped. Virginia's state registers cover 1853–1896, and statewide registration started again in 1912 [S4]. Utah's statewide registration began in 1905 [S1]. Illinois statewide registration began on 1 January 1916 [S3].
 - **Mandate is not compliance.** Many births in the years just after a mandate were never registered. In Cook County, many people born in the late 19th century and the first two decades of the 20th never had a certificate and later filed delayed births [S3]. Treat the first years after a mandate as partial coverage and always add a delayed-birth row for them [S2]. Record, as a separate coverage marker, the year the state was admitted to the federal Death Registration Area (formally set up in 1900) or Birth Registration Area (set up in 1915). Admission required registration to be about 90% complete, and both areas covered every state by 1933 [S13].
+
+- **Hawaiʻi birth records.** Do not turn the Department of Health's 1896 start into the beginning of all birth records. Reporting laws began in 1842 and earlier records survive unevenly by island; give those series separate rows. Also search delayed-certificate applications made in 1911–1972 for births before 1911 [S22 @2026-11-17].
+
+- **Utah deaths.** Search county-clerk death registers from 1898 separately from statewide certificates from 1905. Some Utah cities registered deaths before 1898 [S23], [S24].
 
 For New York City before 1898, the Municipal Archives' list of holdings adds two points to the New York City item above. For a Bronx area annexed before 1898, search the Manhattan records only for events from the date of annexation through 1897. The Archives also holds separate marriage and death records for Kings County towns: Flatbush, 1847–1851 and 1880–1894; Flatlands, 1880–1895; Gravesend, 1880–1894; New Lots, 1881–1886; and New Utrecht, 1880–1894 [S11 @2026-11-13]. Give each town's series its own row.
 
@@ -80,6 +93,8 @@ For a New York City birth, marriage or death listed in an index on FamilySearch,
 
 - **A nearby city where the person worked but did not live.** People living just outside a city could register a birth or death with the city's board [S7], [S6].
 - **Where the mother's female relatives lived around the birth.** Look for her mother, sisters and other close female kin. Include neighbouring counties, and cross the state line where the family lived near one [S5].
+
+When a death is missing from the reported home county, test the death place rather than merely changing the name query. Read the burial permit, removal or transfer record for the actual death place, including a hospital or institution in another county or state. A burial permit can supply a death location that conflicts with an obituary's claim that the death occurred at home [S25], [S26].
 
 Each added place gets its own set of authority and series rows. It does not just widen one query.
 
