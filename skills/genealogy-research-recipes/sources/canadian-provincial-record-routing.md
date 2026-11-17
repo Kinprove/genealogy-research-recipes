@@ -1,5 +1,14 @@
 ## Sources
 
+- **S14:** [Anglican Church of Canada: Archives across Canada](https://www.anglican.ca/archives/archives-across-canada/), read 2026-11-16. Used for: diocesan custody of parish registers, sometimes through a university or provincial archive.
+- **S15:** [Archives of Manitoba: HBCA biographical sheets](https://gov.mb.ca/chc/archives/hbca/biographical/index.html), read 2026-11-16. Used for: partial alphabetical employee biographies for HBC and North West Company personnel; information should be verified in originals.
+- **S16:** [Archives of Ontario: Wills and estate files](https://www.archives.gov.on.ca/topic/wills-and-estate-files/), read 2026-11-16. Used for: pre-1859 Court of Probate estates valued at £5 or more in two or more districts; from 1859 general two-step indexed estate-file retrieval.
+- **S17:** [Archives of Ontario: Wills and estates 1785–1859](https://www.archives.gov.on.ca/topic-by-year/wills-and-estates-1785-1859/), read 2026-11-16. Used for: name search, reference and file/reel details for pre-1859 records.
+- **S18:** [Archives of Ontario: Wills and estates 1859–1976](https://www.archives.gov.on.ca/topic-by-year/will-and-estates-1859-to-1976/), read 2026-11-16. Used for: index to estate-file number then file; the Application to Probate Book 1859–1982 as a courthouse finder.
+- **S19:** [🇨🇦 Don’t Start With the Archives: How to Find Old Baptism Records. This saves you months of time!](https://www.youtube.com/watch?v=uU_qREYPJGM), captured-text excerpt inspected 2026-11-16. Used for: denomination-specific register-custody routing; the Anglican route was checked against the Church of Canada archive guide. Only the relevant text excerpt was read; live interfaces and video playback were not checked.
+- **S20:** [Why You Should Use Cyndi’s List: Have a Plan (Topic)](https://genealogypants.com/2022/08/24/why-you-should-use-cyndis-list-have-a-plan/), read 2026-11-16. Used for: the HBCA employee-biography pointer; partial coverage and original-record follow-up were checked against the Archives of Manitoba. The relevant article text was read at the public URL; linked interfaces were not tested.
+- **S21:** [Researching Ontario Ancestors : Part 2](https://www.pricegen.com/researching-ontario-ancestors-part-2/), read 2026-11-16. Used for: Ontario probate court/index routing leads; the official guides control the conjunctive court threshold and indexed post-1859 retrieval, rather than the blog’s broad unindexed claim. The relevant article text was read at the public URL; linked interfaces were not tested.
+
 - **S1:** Ontario Genealogical Society, [article on Ontario civil registration](https://ogs.on.ca/?p=19335), opened 2026-11-04. Used for: Ontario civil registration from 1 July 1869, and its patchy compliance in the first years.
 - **S2:** Archives of Ontario, [Order a copy of a birth, marriage or death registration](https://www.archives.gov.on.ca/order-a-copy-of-a-birth-marriage-or-death-registration/), opened 2026-11-04. Used for: the Archives of Ontario holding registrations from 1869 up to a cut-off per event type, and ServiceOntario holding later years.
 - **S3:** Royal BC Museum, [BC Archives Genealogy search](https://genealogy.royalbcmuseum.bc.ca/), opened 2026-11-04. Used for: the index coverage (births 1854–1904, marriages 1871–1950, deaths 1872–2005) and the annual release of data by the Vital Statistics Agency.
@@ -18,4 +27,5 @@ The decision order, the per-province coverage row, reading a miss against cut-of
 
 ## Credits
 
+- Community sources S19, S20, S21 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Kinprove original procedural synthesis; registration dates, archive holdings, series numbers, access rules and agency facts checked against Archives of Ontario, Royal BC Museum, Nova Scotia Archives, Library and Archives Canada, Archives of Manitoba and Barnardo's pages, an Ontario Genealogical Society page and a National Archives of Canada research guide, cited as S1 to S12; a Just Genealogy community live stream cited as S13 — FSL-1.1-MIT (kinprove-original)
