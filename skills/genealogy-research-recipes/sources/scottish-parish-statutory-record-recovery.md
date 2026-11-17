@@ -48,8 +48,24 @@ The Covenanter and Cromwellian-era gaps and "clandestine" marriage entries are n
 - **S34:** National Records of Scotland, [Statutory Registers of Births, Deaths and Marriages: Statutory Register of Deaths](https://nrscotland.gov.uk/learning-and-events/research-guides/statutory-registers-of-births-deaths-and-marriages/statutory-register-of-deaths), read 2026-11-12. Used for: most death entries from 1855 giving the father's name, surname and occupation, the mother's name and maiden surname, whether the parents were deceased, and the informant's signature and relation.
 - **S35:** Jonny Perl, DNA Painter blog, [DNA Diary: A promising Dawson connection](https://blog.dnapainter.com/blog/dna-diary-a-promising-dawson-connection/), 2025-04-09, read 2026-11-12. Used for: looking for a post-1855 Scottish death of a man aged 67 in the 1861 census because it might name his parents, and the postscript finding that he emigrated and died in Pennsylvania. A community blog post; a single case.
 
+- **S36:** ScotlandsPeople: Kirk session records, [ScotlandsPeople: Kirk session records](https://www.scotlandspeople.gov.uk/record-guides/kirk-session-records), read 2026-11-16. Used for: mixed minutes and accounts, mortcloth payments, poor relief and transference records.
+
+- **S37:** National Records of Scotland: Coverage of the Old Parish Registers, [National Records of Scotland: Coverage of the Old Parish Registers](https://nrscotland.gov.uk/learning-and-events/research-guides/coverage-of-the-old-parish-registers), read 2026-11-16. Used for: Appendix 1 listing pre-1855 vital entries in CH2 kirk-session records.
+
+- **S38:** National Records of Scotland: Church records, [National Records of Scotland: Church records](https://nrscotland.gov.uk/learning-and-events/research-guides/church-records), read 2026-11-16. Used for: CH2 Church of Scotland records and originals held by local archives under charge and superintendence.
+
+- **S39:** Glasgow Life: Schools, pupils and teachers, [Glasgow Life: Schools, pupils and teachers](https://www.glasgowlife.org.uk/libraries/family-history/research-guides/schools-pupils-and-teachers), read 2026-11-16. Used for: possible admission-register name, birth-date and address fields; school-event/staff log books very rarely contain individual pupil information.
+
+- **S40:** University of Edinburgh: Statistical Accounts of Scotland, [University of Edinburgh: Statistical Accounts of Scotland](https://digitalresearchservices.ed.ac.uk/resources/statistical-accounts-of-scotland), read 2026-11-16. Used for: ministers’ parish accounts in the 1791–99 and 1834–45 series.
+
+- **S41:** Price Genealogy: Scottish Kirk Session Records, [Price Genealogy: Scottish Kirk Session Records](https://www.pricegen.com/scottish-kirk-session-records/), read 2026-11-16. Used for: the search pivot from missing OPR entries to minutes and accounts, including grave and coffin payments; parish-name plus kirk-session catalogue search. Online-access and original-custody claims are checked separately against S36–S38.
+
+- **S42:** [Price Genealogy: Discover Your Scottish Ancestors](https://www.pricegen.com/discover-your-scottish-ancestors/), read 2026-11-16. Used for: the parish Statistical Accounts search suggestion.
+
 ## Credits
 
+- Community source S42 — Third-party content, rights retained by the owner; short attributed paraphrase of the identified post (adapted)
+- Price Genealogy, Scottish Kirk Session Records (S41) — Third-party content, rights retained by its owner; short attributed paraphrase (adapted)
 - BYU Family History Library / Maureen Brady, Scottish Family History Research: Historical & Geographical Background (2025-03-23) — YouTube Standard License (short attributed quotation) (quoted)
 - BYU Family History Library / Maureen Brady, Comparing the Birth, Marriage and Death Records of the United Kingdom (2025-09-19), quoting historical register wording — YouTube Standard License (short attributed quotation) (quoted)
 - Kinprove original procedural synthesis drawing on community video presentations cited as S1–S11 and S23, on official NRS and ScotlandsPeople guidance, an NRS consultation paper and a Glasgow Life guide, and on University of Glasgow registration-history research consulted when checking facts — FSL-1.1-MIT (kinprove-original)

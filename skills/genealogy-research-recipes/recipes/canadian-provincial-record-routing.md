@@ -1,7 +1,7 @@
 ---
 id: "canadian-provincial-record-routing"
-title: "Route a Canadian vital, military or Indigenous-series record to its province, custodian and access category"
-summary: "Route a Canadian vital record, war personnel file, Métis or First Nations record, or Home Child to its province, custodian and access category."
+title: "Route a Canadian vital, estate, military or Indigenous-series record to its province, custodian and access category"
+summary: "Route a Canadian vital or estate record, war personnel file, Métis or First Nations record, or Home Child to its province, custodian and access category."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "living-person"
@@ -14,7 +14,7 @@ capabilities: {"browse": ["record catalogues and original images"], "local_scrip
 router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 129}
 ---
 
-# Route a Canadian vital, military or Indigenous-series record to its province, custodian and access category
+# Route a Canadian vital, estate, military or Indigenous-series record to its province, custodian and access category
 
 Use this recipe before you search for a Canadian birth, marriage or death registration, a First or Second World War personnel file, a Métis or First Nations record, or a British Home Child. It sends each record to the custodian and access category of its own province, date and series. It prevents five failures: treating Canadian vital records as one national system, reading a miss past an archive's release cut-off or inside a registration gap as an absence, calling a Second World War file unavailable without checking whether it is open or closed, searching treaty paylists and scrip by surname alone, and searching for a Home Child with the family instead of inside the agency party.
 
@@ -36,6 +36,7 @@ Link out for the shared steps:
 - 3\. Route a military personnel file by war and access category
 - 4\. Search Métis and First Nations series by series, not by name index
 - 5\. Trace a British Home Child through the party and the agency
+- 6\. Recover Ontario estate files through their indexes
 - Close with a routing packet
 
 ## Inputs to gather first
@@ -48,6 +49,8 @@ Gather these before searching:
 - for an Indigenous line: the band, treaty or Métis community named in any record, and any band or ticket number seen
 - for a Home Child: the sending agency, the approximate arrival year and port
 - every index, database or image set already searched, with the date
+
+- for an Ontario estate: the approximate probate year and any known court or district
 
 ## 1. Fix the province and its coverage row for the event
 
@@ -75,6 +78,8 @@ Gather these before searching:
 - **In Ontario's first years, do not read a missing registration as an absence.** Registration began on 1 July 1869 but was not widely followed for some years [S1]. Search church and census substitutes before you call the event unrecorded.
 - **Write the row on every negative.** Record the province, the series, the years it covers and the cut-off date you read. A miss without that row is not a negative search.
 
+Establish the denomination and actual register holder before selecting an archive. Anglican historical parish registers are with the diocese, sometimes housed in a university or provincial archive [S14 @2026-11-16]. Follow the parish-record recipe for the chosen denomination. Only a transcript excerpt was inspected for the video’s custody suggestion [S19 @2026-11-16].
+
 ## 3. Route a military personnel file by war and access category
 
 **Privacy gate:** <!-- privacy-gate: request --> An ATIP request for the file of a veteran who survived the war sends the veteran's identity, and the veteran may be living; answer the privacy gate in `SKILL.md` before you send it.
@@ -96,6 +101,8 @@ Gather these before searching:
 - **Expect a privacy restriction on paylists after 1909** [S8]. Record a later list as restricted, not as missing.
 - **Hudson's Bay Company servants and posts: search the Hudson's Bay Company Archives at the Archives of Manitoba.** The HBCA is part of the Archives of Manitoba and holds servants' contracts and pre-1870 records from almost five hundred HBC posts [S9].
 
+For possible HBC or North West Company employment, browse HBCA’s alphabetical biographical sheets, a partial set of employee summaries. Copy the references and employment dates, then check the original records [S15 @2026-11-16]. A missing sheet does not exclude employment [S20 @2026-11-16].
+
 ## 5. Trace a British Home Child through the party and the agency
 
 **Privacy gate:** <!-- privacy-gate: request --> A request for a home child's agency case records sends the child's identity and a descendant's consent, and the records can name people who are still living; answer the privacy gate in `SKILL.md` before you send it.
@@ -104,6 +111,12 @@ Gather these before searching:
 - **Search LAC's Home Children index in Collection Search.** It is built mainly from passenger lists. Where lists were missing or unreadable, LAC filled gaps from other immigration records, and it added a Boards of Guardians register [S10].
 - **Search the party, not the family.** The child usually travelled in an agency party, not with relatives. LAC gave each group of children travelling together a code [S10]. Search by that code to see the whole party and its arrival.
 - **Request the agency's own case records.** Barnardo's holds the records of its child migrants and also those of the Marchmont, Annie Macpherson and Liverpool Sheltering Homes. It releases them through its Family History Service, with the signed consent of the nearest surviving descendant [S11].
+
+## 6. Recover Ontario estate files through their indexes
+
+For an Ontario estate before 1859, search the Archives’ name catalogue and copy the court, file and microfilm references [S17 @2026-11-16]. The Court of Probate handled estates valued at £5 or more **in two or more districts**; other estates went to district Surrogate Courts [S16 @2026-11-16]. Distinguish the probate date from the death date and follow the file or register locator [S21 @2026-11-16].
+
+For Ontario estates from 1859, find the estate-file number in the index, then retrieve the file [S18 @2026-11-16]. If the court is unknown, consult the *Application to Probate Book*, 1859–1982, as a courthouse finder [S18 @2026-11-16] [S21 @2026-11-16].
 
 ## Close with a routing packet
 
@@ -115,5 +128,7 @@ Return:
 - **Indigenous-series rows:** the series and finding aid searched, the band, any band or ticket number found, and any restricted years.
 - **Home Child rows:** the agency, the party code, the ship and arrival date, and the agency record request.
 - **Gaps:** registration gaps such as Nova Scotia 1877–1908, years past a cut-off, and restricted series.
+
+- **Ontario estate rows:** the court, index coverage, estate-file number and the file or register locator.
 
 The model assembles this packet. The researcher decides identity and kinship.

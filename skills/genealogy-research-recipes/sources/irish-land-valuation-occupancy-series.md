@@ -18,6 +18,14 @@ The candidate-row register, the separation of literal distinguishers from patron
 
 - **S14:** National Archives of Ireland, [Accessing collections useful for genealogy](https://nationalarchives.ie/genealogy-website/8790-2/), read 2026-11-13. Used for: the genealogy microsites being offline, and the Tithe Applotment Books, 1823–37, among the collections that can still be viewed in the Reading Room.
 
+- **S15:** National Archives of Ireland: Family history sources, [National Archives of Ireland: Family history sources](https://www.nationalarchives.ie/wp-content/uploads/2019/03/Family_History_Sources_NAI.pdf), read 2026-11-16. Used for: the agricultural scope and parish arrangement of the Tithe Applotment Books, and Griffith’s 1847–1864 date range. Historical scope only; its older portal instructions are not treated as current access evidence.
+
+- **S16:** Wicklow County Archives: Census substitutes for the nineteenth century, [Wicklow County Archives: Census substitutes for the nineteenth century](https://heritage.wicklowheritage.org/topics/genealogy/general-information/8_census_substitutes_for_the_19th_century), read 2026-11-16. Used for: civil-parish tithe arrangement, Irish acres of about 1.62 statute acres, and statute acres in Griffith’s. Older portal instructions are not used.
+
+- **S17:** Findmypast: Ireland dog licence registers, [Findmypast: Ireland dog licence registers](https://www.findmypast.ie/discover/institutions-and-organisations/courts-and-legal/ireland-dog-licence-registers), read 2026-11-16. Used for: licences first issued in 1866, the collection title 1866–1914, indexed names and addresses, and dog details in images.
+
+- **S18:** GenGuide, [Griffith’s Valuation](https://www.genguide.co.uk/source/griffiths-valuation-primary-valuation-of-ireland/), read 2026-11-16. Used for: women appearing as occupiers often being widows. The relationship and death-window rules are authored synthesis, conditional on outside evidence.
+
 ## Credits
 
 - Genealogy Gems, Irish Genealogy Expert Research Strategies (YouTube, 2020-07-30) — YouTube Standard License; brief attributed quotation (quoted)

@@ -21,7 +21,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## Version and updates
 
-This copy is version 1.21.0, released 2026-11-16.
+This copy is version 1.22.0, released 2026-11-17.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
@@ -348,7 +348,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/irish-probate-and-deed-recovery.md` — Recover an Irish will, administration or deed after the 1922 losses through surviving calendars, will books and the Registry of Deeds.
 - `recipes/irish-emigrant-origin-locality.md` — Resolve an Irish place named by an emigrant's records or family tradition to a searchable locality.
 - `recipes/irish-land-valuation-occupancy-series.md` — Read Griffith's Valuation, tithe books, valuation revisions and estate rentals as dated occupancy series.
-- `recipes/irish-1901-1911-census-returns.md` — Search, retrieve and read the Irish 1901 and 1911 census returns.
+- `recipes/irish-1901-1911-census-returns.md` — Search, retrieve and read the Irish 1901, 1911 and 1926 census returns.
 - `recipes/convict-transportation-record-chain.md` — Rebuild a transported British convict's sentence as a chain of dated record episodes.
 - `recipes/british-colonial-slave-registers.md` — Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records.
 
@@ -398,7 +398,7 @@ shared with others. Refer to them by role, for example "a witness".
 
 ### Canada, Latin America, Asia and Oceania
 
-- `recipes/canadian-provincial-record-routing.md` — Route a Canadian vital record, war personnel file, Métis or First Nations record, or Home Child to its province, custodian and access category.
+- `recipes/canadian-provincial-record-routing.md` — Route a Canadian vital or estate record, war personnel file, Métis or First Nations record, or Home Child to its province, custodian and access category.
 - `recipes/canadian-census-interpretation.md` — Read a historical Canadian census line as a de jure listing, and browse by geography when a name search misses.
 - `recipes/french-canadian-register-recovery.md` — Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts.
 - `recipes/hispanic-catholic-register-recovery.md` — Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers.

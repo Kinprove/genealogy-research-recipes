@@ -35,7 +35,7 @@
 
 **Authored synthesis in the S15 and S16 additions:** renaming IDs only in a derivative copy when an importer rejects them, with every pointer changed in the same pass and the old and new IDs recorded in the ID map, removing empty lines and terminating `0 TRLR`, and treating a target program's sample export as a structure reference rather than a content template, are this recipe's own. S15 and S16 supply the specification facts.
 
-- **S17:** MyHeritage Help Center, [Can I move my family tree from one family site to another?](https://www.myheritage.com/help/en/articles/12851241-can-i-move-my-family-tree-from-one-family-site-to-another), updated 2026-07-21, read 2026-11-12. Used for: a GEDCOM import creating a new family tree on the family site and not merging it with any existing tree there, no direct merging of two family sites, and Family Tree Builder for merging trees offline before syncing.
+- **S17:** MyHeritage Help Center, [Can I move my family tree from one family site to another?](https://www.myheritage.com/help/en/articles/12851241), updated 2026-07-21, read 2026-11-12. Used for: a GEDCOM import creating a new family tree on the family site and not merging it with any existing tree there, no direct merging of two family sites, and Family Tree Builder for merging trees offline before syncing.
 - **S18:** MyHeritage Knowledge Base, [What Is a GEDCOM File and How Does It Help in Genealogy?](https://education.myheritage.com/article/what-is-a-gedcom-file-and-how-does-it-help-in-genealogy/), 2025-12-02, read 2026-11-12. Used for: copying or merging entries by hand after an upload when a merge is needed. It says an upload "typically" creates a new tree; the firm statement rests on S17.
 - **S19:** legislation.gov.uk, [Calendar (New Style) Act 1750](https://www.legislation.gov.uk/apgb/Geo2/24/23), read 2026-11-13. Used for section 1: the year beginning on 25 March not to be used after the last day of December 1751, and the following 1 January counted as the first day of 1752, throughout the Crown's dominions in Europe, Asia, Africa and America.
 
@@ -43,7 +43,15 @@
 
 **Authored synthesis in the 2026-11-16 addition:** inspecting every text value and attachment for possibly living informants or correspondents outside person records, retaining other historical citations, and reporting withheld items without exposing their details extend the existing sharing rule. The continuation-line check above is reused; no new format rule or specification source is introduced.
 
+## Additional sources checked 2026-11-16
+
+- **S20:** [Reading GEDCOM – A Guide for Programmers](https://www.beholdgenealogy.com/blog/?p=3897), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **S21:** [The WITN (Witness) Tag in GEDCOM](https://www.beholdgenealogy.com/blog/?p=3873), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **S22:** [The GEDCOM Standard, release5.5.1](https://gedcom.io/specifications/ged551.pdf), opened 2026-11-16. Read grammar and event assertions (printedpp21,34–36), association structure(p31), user-defined tags(p74) and changes removing WITN(p72). Destination behaviour remains a separate check.
+- **S23:** [Excluding Living People](https://www.beholdgenealogy.com/blog/?p=3910), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+
 ## Credits
 
 - Kinprove original procedural synthesis, with facts checked against the FamilySearch GEDCOM 7.0 specification and the gedcom.io specifications index, a Chronoplex Software blog post, the GEDCOM 5.5.1 standard with inline errata, the ged4py documentation, a Tamura Jones article, the gedcom Ruby gem documentation, the gedcomkit source, the Calendar (New Style) Act 1750, a ScotlandsPeople guide, Familio's GEDCOM help, the gedcom.io migration guide, a FamilySearch Community thread and a RootsMagic support article cited as S1 to S14 — FSL-1.1-MIT (kinprove-original)
 - MyHeritage Knowledge Base, What Is a GEDCOM File and How Does It Help in Genealogy?, 2025-12-02, cited as S18 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)

@@ -1,5 +1,10 @@
 ## Sources
 
+- **S1:** [IrishGenealogy: Church records help](https://www.irishgenealogy.ie/help-with-searching-the-church-records/), read 2026-11-16. Used for: regional transcripts, searching all named roles and Latin forename equivalents; no guarantee of kinship or universal surname rule.
+- **S2:** [Robert E. Matheson: Prendergast (1901)](https://www.libraryireland.com/matheson/varieties/list/1737.php), read 2026-11-16. Used for: Pender among the forms listed with Prendergast; no clerical origin asserted.
+- **S3:** [How to Find Your Irish Ancestors for FREE Catholic Parish Records Guide](https://www.youtube.com/watch?v=K9bSxEo_sW8), captured-text excerpt inspected 2026-11-16. Used for: regional transcript, sponsor/witness and Latin-name search leads; adopted coverage and equivalents were checked against IrishGenealogy help. Only the relevant text excerpt was read; live interfaces and video playback were not checked.
+- **S4:** [Overcoming Irish Brick Walls – Names](https://www.pricegen.com/overcoming-irish-brick-walls-names/), read 2026-11-16. Used for: the Prendergast/Pender search suggestion, checked against Matheson’s synonyms list without assigning a clerical cause. The relevant article text was read at the public URL; linked interfaces were not tested.
+
 Original procedural synthesis. Sources are attributed and paraphrased; third-party prose,
 screenshots, index entries and real family examples are not reproduced.
 
@@ -53,4 +58,5 @@ screenshots, index entries and real family examples are not reproduced.
 
 ## Credits
 
+- Community sources S3, S4 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Kinprove — original procedural synthesis of NLI Irish Catholic parish-register image recovery; coverage and access facts checked against NLI, Findmypast, RootsIreland and FamilySearch pages (O3–O5) — FSL-1.1-MIT (kinprove-original)

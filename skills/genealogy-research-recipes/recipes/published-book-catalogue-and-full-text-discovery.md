@@ -73,6 +73,8 @@ On any full-text tool, including HathiTrust, a zero result can come from an OCR 
 
 **Write the queries as subject descriptions.** Use terms such as the locality's history, early settlement, the county or the religious group. The teaching example is a Joseph City, Arizona settler: the presenter looks for him under Arizona history and early settlement, not under his name [S2].
 
+**Use P. William Filby's *A Bibliography of American County Histories* as another title finder.** The Family History Library's Ohio research outline recommends the 1985 bibliography for local histories [S54]. Carry a discovered title, author and edition into current catalogues, and also search regional titles covering the locality rather than limiting the query to a single-county title [S58].
+
 **Search the catalogue of each library that serves the county, not only WorldCat and the FamilySearch Catalog.** WorldCat shows a library's copy only when the library is an OCLC member, has chosen to represent its collection in WorldCat and keeps the subscription that makes its holdings visible [S48 @2026-11-16]. The FamilySearch Catalog describes material that FamilySearch has collected [S49 @2026-11-16]. A book held only by a local library can be missing from both. Find the online catalogue of the public library or libraries serving the county and run the subject queries there too. The Just Genealogy video on county research makes this a step of its own for that reason (known here only from transcript excerpts; the video itself was not read) [S46† @2026-11-16]. Log each of these catalogues as a separate catalogue-search tool in the register.
 
 **Record WorldCat's holding libraries for each title.** Enter a postal code or location and WorldCat lists the nearest libraries that hold the title [S2], [S6].
@@ -123,6 +125,10 @@ without evidence that it applies there.
 **Expect hits on people who are not the sketch's subject.** In the presenter's example, a sketch of another man gave details about the wife's natal Barnes family, which the table of contents did not list. Other hits were people listed as members of a church, which pointed to the church records [S8].
 
 **When the ancestor has no sketch, look for each child's.** County-history sketches often name the subject's parents, siblings and children and give the family's ancestry and migration [S45]. A child's sketch can therefore describe a parent who has no entry and whom an index of main subjects does not list, as the presenter reports of such indexes [S44], [S8†]. List the known children, then search the index and the full text for each child by name. Add each daughter's husband, because a wife's family can appear in her husband's sketch, as in the Barnes example the presenter reports above [S8†]. Take what a child's sketch says about the parent as a lead: county histories often do not say where their information came from [S45]. Verify it as in [section 8](#8-treat-snippets-incidental-mentions-and-transcriptions-as-leads).
+
+**If the immigrant lacks a named sketch, extend the search to documented later descendants.** The Maine examples described in the Bangor Daily News include parents' and earlier generations' origins inside descendants' biographies [S53]. Extract the literal origin statement, whose ancestor it concerns and the relationship asserted. Use it to choose an origin search; a sketch does not guarantee an exact birth town [S57].
+
+**For a late-nineteenth- or early-twentieth-century mug book, check its subscription and biography-selection process.** Frevert describes advance subscribers buying inclusion and sometimes portraits, and subjects editing their sketches [S52]. A missing biography does not establish absence from the locality or lack of status. Treat the published sketch as a contributed account and pursue its named people, places and events in other records [S56].
 
 **Search compiled-genealogy collections by surname keyword as well as by title.** A presenter found apparent collateral relatives in a book titled for a different family. She recorded it as an unresearched lead [S5].
 
@@ -221,6 +227,8 @@ verified here; use the procedure to check the actual case rather than copy its e
 - On Internet Archive, near-identical item titles may hide the distinguishing range in the metadata. Read the sponsor field and check the sponsor's own site. In the presenter's case, the sponsor was Allen County Public Library, whose own site she found much easier to search [S14].
 
 Record both the aggregator locator and the host or sponsor locator.
+
+**Inspect an accessible library copy for handwritten annotations, corrections and inserted material even when you have read another copy of the edition.** UVA's Book Traces account documents such copy-specific additions [S51]. Cite the particular holding copy and page or insertion, and distinguish its printed text from later handwriting. Determine who wrote a note before attributing it to the donor or author [S55].
 
 ## 7. Search photographs and other non-text items through their descriptions
 

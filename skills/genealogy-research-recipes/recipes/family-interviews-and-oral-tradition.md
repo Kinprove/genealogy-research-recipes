@@ -10,7 +10,7 @@ guardrails: [{"id": "FAMILY-INTERVIEWS-AND-ORAL-TRADITION-01", "text": "A correc
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export", "request"], "contact": []}
 router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 153}
 ---
 
@@ -75,9 +75,15 @@ Record who prompted each answer. A familiar sibling or other close relative can 
 
 For a relayed or inherited account, record its chain. Note the speaker, whom they heard it from, the occasion, their approximate age then and how that teller could know [S5]. Add any interviewer and date, and each later note, typescript, duplicate, photocopy or retyping, marking unseen links and the generation you hold [S6]. Asking about the oldest person remembered from childhood can draw out such accounts [S9].
 
+**Privacy gate:** <!-- privacy-gate: request --> A request to FamilySearch for earlier collected accounts names the family, clan or village, and the recordings, transcripts or pedigrees it returns can name living tellers and relatives; answer the privacy gate in `SKILL.md`, including its record-request rules, before sending the request.
+
+Before arranging a new interview for an inherited oral genealogy, ask FamilySearch for earlier collected accounts of the relevant family, clan or village. A February 2019 project report describes collection in Tonga, Samoa, Fiji and Tahiti from the 1960s, Indonesia and Malaysia from the 1980s, and work in Africa at the time of the report. It documents historical collecting, not present coverage or access. If an item is found, distinguish the recording from a later transcript or pedigree and assess its teller, date and transmission chain [S32], [S33].
+
 An "as told by" typescript is a received transcript: its recording stays an open search, and a copy note is not the interview date [S7], [S6]. Differing versions are derivatives, not corroboration. A written version is one dated telling, so do not edit other tellings toward it [S8]. Relayed content, teller intent and remembered dates still need documentary support [S5], [S6].
 
 A printed sketch can carry a family account too. Before treating a nineteenth-century collective biography, such as Elizabeth Ellet's *The Women of the American Revolution*, as documentary evidence of an episode, read its footnotes and closing lines for its informant [S28] (known here from only a transcript extract). Ellet's 1850 volume III sketch of Eleanor Wilson, including her reply to Cornwallis when the British general and his staff occupied her house, cites no document; its only source note credits the sketch to Milton A. Haynes, who "obtained the materials from different members of the family", and its last sentence counts "the writer of this notice" among the descendants of her daughter-in-law [S29]. Record such a sketch as one dated written telling in the account's chain: the credited informant is its teller, the unnamed relatives are unseen earlier links, and the episode is not confirmed by appearing in print.
+
+Keep the order in which a narrator tells events separate from the chronology you later reconstruct. A wrong sequence does not by itself discredit the remembered events. Preserve the original telling, mark each explicit before/after statement as the narrator’s claim, and test the sequence and each event separately against dated records and other accounts [S30], [S31].
 
 ## Keep the recording, transcript and interpretation apart
 

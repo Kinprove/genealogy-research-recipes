@@ -53,6 +53,8 @@ Use this when an image has a caption, inherited identification or new informatio
 
 Record non-biometric context relevant to the question: an inscription, a stated occasion, location, photographer/imprint or independently supported format/date information. Preserve contradictions with a proposed attribution rather than resolving them from appearance. For related copies, retain their sources and what inscriptions or provenance they add [S6], [S1].
 
+Keep an uncropped view while testing the place of a photograph. Compare doors, windows, room corners, furniture and other fixtures with separately located photographs. Record the particular features and where the comparison photograph's location comes from. A similar room is a location hypothesis to test; it does not identify the sitter or prove a family relationship [S68], [S69].
+
 To seek other prints:
 
 1. **Privacy gate:** <!-- privacy-gate: contact --> Asking distant branches or heirs about the photograph contacts people who may be living and may not know the user; answer the privacy gate in `SKILL.md` before any message goes out. Ask distant and collateral branches, heirs of the relevant household goods and lines present at a photographed event [S8], [S9].

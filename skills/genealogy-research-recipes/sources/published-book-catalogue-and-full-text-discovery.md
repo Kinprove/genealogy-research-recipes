@@ -71,6 +71,17 @@ Additions read 2026-11-16. OCLC's help articles show no update date. The Allen C
 
 Authored synthesis in the 2026-11-16 additions: adding each daughter's husband to the child search (from S8's Barnes example); entering the county as WorldCat's location; logging each county library catalogue as a separate tool; and limiting a drafted loan or copy request to title, call number and pages, with its privacy checkpoint. S44 and S46 are community sources; each statement they prompted rests on S45 and S47–S50, which were read.
 
+### Additional sources checked 2026-11-16
+
+- **S51:** [VIRGINIA Magazine: Book Traces](https://www.uvamagazine.org/articles/book_traces), read 2026-11-16. Used for: copy-specific nineteenth-century annotations and inserted personal material; handwriting ownership is not assumed.
+- **S52:** [Rhonda Frevert: Mug Books, Commonplace](https://commonplace.online/article/mug-books/), read 2026-11-16. Used for: advance subscriptions and paid biographies/portraits, subject editing and selection bias in the genre; not all county histories.
+- **S53:** [Bangor Daily News: County histories often a helpful resource](https://www.bangordailynews.com/2013/12/01/living/county-histories-often-a-helpful-resource-on-maine-towns-families/), read 2026-11-16. Used for: examples of descendants' biographies naming parents and earlier generations' origins; no guarantee of an exact immigrant town.
+- **S54:** [Family History Library: Ohio Research Outline](https://files.lib.byu.edu/family-history-library/research-outlines/US/Ohio.pdf), read 2026-11-16. Used for: the local-history section recommending P. William Filby's 1985 Bibliography of American County Histories. Historical bibliographic recommendation only; old addresses and service instructions are not current access evidence.
+- **S55:** [Do You Need to See Another?](https://genealogytipoftheday.com/index.php/2026/06/03/do-you-need-to-see-another/), read 2026-11-16. Used for: establishing who wrote a note in a copy before attributing it to the donor or author. A community source.
+- **S56:** [Money Got that Bio in the Mug Book](https://genealogytipoftheday.com/index.php/2024/03/29/money-got-that-bio-in-the-mug-book/), read 2026-11-16. Used for: treating a paid mug-book sketch as a contributed account and pursuing its named people, places and events in other records. A community source.
+- **S57:** [Reverse Genealogy: Tracing the Descendants of Your Ancestors](https://www.pricegen.com/reverse-genealogy-tracing-the-descendants-of-your-ancestors/), read 2026-11-16. Used for: using a descendant's origin statement to choose an origin search, without expecting an exact birth town. A community source.
+- **S58:** [County Histories: Strategies and Tips](https://genealogypants.com/2023/01/25/county-histories-strategies-and-tips/), read 2026-11-16. Used for: carrying a found title, author and edition into current catalogues, and searching regional titles covering the locality as well as single-county titles. A community source.
+
 ## Credits
 
 - Genealogy Gems, Episode 270 Pennsylvania and Ohio Genealogy, Ohio Memory guest segment, 2022-11-14 — Third-party, all rights reserved; brief quotation of an interface label with attribution (quoted)
@@ -82,3 +93,4 @@ Authored synthesis in the 2026-11-16 additions: adding each daughter's husband t
 - Melanie McComb, American Ancestors, Reading Between the Lines: Searching for Family in County Histories and Mugbooks, 2026, cited as S45 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Just Genealogy, Fourth Steps in Genealogical Research in a County - JG0203, 2022-09-28, cited as S46 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove original child-sketch, county-catalogue and lending procedures; S44-S50 cited for factual support — FSL-1.1-MIT (kinprove-original)
+- Community sources S55, S56, S57, S58 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)

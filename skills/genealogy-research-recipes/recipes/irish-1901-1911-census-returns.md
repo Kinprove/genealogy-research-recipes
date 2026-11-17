@@ -1,7 +1,7 @@
 ---
 id: "irish-1901-1911-census-returns"
-title: "Search, retrieve and read the Irish 1901 and 1911 census returns"
-summary: "Search, retrieve and read the Irish 1901 and 1911 census returns."
+title: "Search, retrieve and read the Irish 1901, 1911 and 1926 census returns"
+summary: "Search, retrieve and read the Irish 1901, 1911 and 1926 census returns."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
@@ -14,7 +14,7 @@ capabilities: {"browse": ["record catalogues and original images"], "local_scrip
 router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 91}
 ---
 
-# Search, retrieve and read the Irish 1901 and 1911 census returns
+# Search, retrieve and read the Irish 1901, 1911 and 1926 census returns
 
 Use this recipe when a person or household should appear in the 1901 or 1911 census of Ireland, or when a return you found is about to be used as evidence of age, birthplace, kinship, religion or residence. It covers all 32 counties, including today's Northern Ireland: both censuses were taken for the whole island and are searched on the National Archives of Ireland (NAI) site [S23], [S24]. It prevents these failures:
 
@@ -31,6 +31,22 @@ Link out for the shared steps:
 - **Reading "present marriage" child counts and suspecting stepchildren:** [UK census interpretation](uk-census-and-1939-register-interpretation.md), whose 1911 rules apply to the Irish married-women columns too.
 - **Turning a birth year or a marriage-duration clue into a certificate:** [Irish civil registration recovery](irish-civil-registration-jurisdiction-recovery.md).
 - **Identity rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
+
+Use section 9 for 1926: that return set covers the Irish Free State [S36 @2026-11-16]. Keep its fields separate from the 1901 and 1911 forms.
+
+## Contents
+
+- Inputs to gather first
+- 1\. Search the current NAI system and use every field it offers
+- 2\. Recover names the index holds in another form
+- 3\. Prove the townland has an online return before you call a miss
+- 4\. Look for absent people where they slept that night
+- 5\. Collect the whole form set and the neighbours
+- 6\. Read ages under each year's rules
+- 7\. Read each column under its printed instruction
+- 8\. Choose between same-named households on more than the name
+- 9\. Use the 1926 return under its own questions
+- Close with a census packet
 
 ## Inputs to gather first
 
@@ -100,6 +116,14 @@ Link out for the shared steps:
 - **Link 1901 and 1911 as a pair.** Accept a match only when several of these agree: townland or street, children's forenames with ages rising by about ten, religion, county of birth, occupation, and B1 house details. A mismatch in religion or birthplace county is grounds to keep searching, not to reconcile [S7]. Record a different occupation in 1911 as a dated change, not a mismatch: a head can change work or retire in ten years.
 - **Cite the place chain.** Record year, county, DED, poor law union, townland or street, and house number. One published citation gives the townland, DED, poor law union, county and household number [S15]. On the new NAI site each person has a stable record URL, but households have no URL of their own, and image links no longer expire [S27]. Cite a person's record URL and the image links.
 
+## 9. Use the 1926 return under its own questions
+
+- **Coverage and place.** The 1926 NAI returns cover the Irish Free State [S36 @2026-11-16]. For a known townland or street, use the map’s county, DED and townland/street route to browse its households [S34 @2026-11-16]. Northern Ireland is outside this return set.
+- **Age.** Record years and months as asked on Form A, retaining both when comparing a birth record [S33 @2026-11-16].
+- **Occupation and employer.** Read these fields on the image [S33 @2026-11-16]. Their searchable transcription is a later release phase [S35 @2026-11-16]; a keyword miss does not show the image fields were blank.
+- **Child counts.** Married women reported completed years/months of the present marriage and its children born alive. Married men, widowers and widows reported living sons, daughters and stepchildren under 16, including those elsewhere [S33 @2026-11-16]. Do not subtract the under-16 count from children born alive to calculate deaths: the questions count different populations.
+- **Video source.** Only a transcript excerpt was inspected for the video’s 1926 search suggestions in this section [S37 @2026-11-16].
+
 ## Close with a census packet
 
 Return:
@@ -110,5 +134,7 @@ Return:
 - **Age table:** the 1901 and 1911 ages, the birth range derived from each, and a flag on every 1911 age of 60 or over.
 - **Absence leads:** institutions, other households and the England and Wales returns searched for anyone missing on census night.
 - **Citation:** year, county, DED, poor law union, townland or street, house number, person record URL and image links.
+
+- **1926 rows:** years and months of age, the exact child-count question and respondent category, and occupation/employer fields read on the image.
 
 Identity and kinship rulings go to evidence/proof judgment.

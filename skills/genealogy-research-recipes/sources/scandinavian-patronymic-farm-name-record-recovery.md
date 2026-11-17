@@ -38,6 +38,22 @@ The name-form register, the candidate comparison table, the bounded-browse repor
 
 No individual identity or kinship conclusion from the examples is adopted.
 
+### Additional sources checked 2026-11-16
+
+- **S28:** Price Genealogy, [Tracing Icelandic Roots](https://www.pricegen.com/tracing-icelandic-roots/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S29:** Icelandic Roots, [Vesturfaraskrá: an index chronicling Icelandic emigration](https://www.icelandicroots.com/post/2017/11/30/vesturfaraskrá-an-index-chronicling-icelandic-emigration). Passage read 2026-11-16, read again 2026-11-17. Used for: The 1983 printed emigration register of emigrants who left between 1870 and 1914, its first-name alphabetical arrangement, farm/year information and inclusion of some planned departures that did not occur. It is not described here as a live database.
+
+- **S30:** Icelandic Roots, [Understanding Icelandic Places, Part I](https://www.icelandicroots.com/post/2017/07/26/understanding-icelandic-places-part-i). Passage read 2026-11-16. Used for: Repeated farm names and the sýsla/county and sókn/parish hierarchy needed to distinguish them.
+
+- **S31:** Íslendingabók, [English information](https://islendingabok.is/english). Passage read 2026-11-16, read again 2026-11-17. Used for: Access restricted to Icelandic citizens and legal residents with a kennitala; the genealogical database compiled from church records, censuses, population registers and other documents and publications. No account or search was tested.
+
+- **S32:** FamilySearch Wiki, [Iceland Census](https://www.familysearch.org/en/wiki/Iceland_Census). Passage read 2026-11-16. Used for: The 1703 census’s names, ages, households and residences; the 1762 census names the head and counts other household members rather than naming all of them. Read during preparation before later403 responses.
+
+- **S33:** FamilySearch Wiki, [Iceland Church Records](https://www.familysearch.org/en/wiki/Iceland_Church_Records). Passage read 2026-11-16. Used for: Decrees of 1735 and 1746, earliest surviving records from 1664, and most surviving series beginning about 1750–1780. Read during preparation before later403 responses; no individual parish coverage inferred.
+
+- **S34:** Becky Byerly-Adams, Icelandic Roots, [In Search of the Lost Children](https://www.icelandicroots.com/post/in-search-of-the-lost-children). Passage read 2026-11-16, read again 2026-11-17. Used for: Worked example citing a 1906 Heimskringla memorial and a settlement history serialised in Lögberg-Heimskringla in 1969–1970. The newspaper originals were not independently inspected.
+
 ## Credits
 
 - Maureen Brady, Swedish Family History Research, BYU Family History Library — Third-party source, all rights reserved; brief adapted paraphrase with attribution (adapted)
@@ -46,3 +62,4 @@ No individual identity or kinship conclusion from the examples is adopted.
 - Lisa Lisson, Scandinavian Naming Patterns — Third-party source, all rights reserved; brief adapted paraphrase with attribution (adapted)
 - ArkivDigital, Föreläsning den 1 april 2026 – Lär dig mer om ArkivDigitalprogrammet — Third-party source, all rights reserved; brief adapted paraphrase with attribution (adapted)
 - Kinprove original procedural synthesis; naming mechanisms, examples and failure cases attributed to presenters S1–S9 and S18 and to the cited references, with archive and reference facts cited as S10–S17 and S19–S27 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)

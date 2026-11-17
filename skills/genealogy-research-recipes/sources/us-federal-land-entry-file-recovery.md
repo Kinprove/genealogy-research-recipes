@@ -34,9 +34,34 @@ This recipe's own contribution is the routing row, the party-role table, the two
 
 - **S25:** Ohio History Connection, Archives & Library, [Land Records at the Archives & Library: Land Divisions](https://ohiohistory.libguides.com/land/collections), read 2026-11-13. Used for: the Connecticut Western Reserve and the Firelands as part of Connecticut's western land claims; the Archives & Library holding no original entry or survey records, including plat maps, for the northeastern counties in them; and its suggestion of the Western Reserve Historical Society Library and the Connecticut State Library.
 
+### Sources added 2026-11-17
+
+- **S26:** Michael John Neill, Genealogy Tip of the Day, [What Section Borders What?](https://genealogytipoftheday.com/index.php/2023/05/01/what-section-borders-what/), read 2026-11-17. Used for: different survey and numbering systems in different parts of Ohio, and checking a local county atlas or plat book for the system an area uses.
+
+- **S27:** Ohio History Connection, [Land Records](https://ohiohistory.libguides.com/land), read 2026-11-17. Used for: Ohio's division into surveys or districts shown on its Ohio Land Divisions Map; Congress Lands described by range, township and section, and Virginia Military District entries by entry, warrant and survey numbers.
+
+- **S28:** Direct Line Software, [Ohio Land History](https://directlinesoftware.com/ohio.htm), read 2026-11-17. Used for: the several surveying systems used in Ohio, with different numbering schemes, and the Virginia Military District's metes-and-bounds surveys.
+
+- **S29:** Price Genealogy, [Homesteading Part 2](https://www.pricegen.com/8004-2/), read 2026-11-17. Used for: a Union veteran's homestead file holding a military affidavit about his service; final-proof witnesses, neighbours, asked how long they had known the claimant, how far away they lived and who lived closer.
+
+- **S30:** National Park Service, Homestead National Historical Park, [Homestead Records](https://www.nps.gov/home/learn/historyculture/homesteadrecords.htm), read 2026-11-17. Used for: service information sometimes included because military service could reduce the residence period; a date of death and an explanation of relationships when a widow or heirs completed the claim.
+
+- **S31:** Price Genealogy, [Homesteading in the United States Part 1](https://www.pricegen.com/homesteading-in-the-united-states-part-1/), read 2026-11-17. Used for: witnesses usually being neighbours and the questions put to them; an ancestor witnessing neighbours' homesteads whether or not completing one; a widow's homestead papers giving her husband's death date.
+
+- **S32:** Price Genealogy, [North Central United States Genealogy](https://www.pricegen.com/north-central-united-states-genealogy/), read 2026-11-17. Used for: witnesses usually being neighbours; an ancestor who was not a homesteader acting as a witness for a neighbour.
+
+- **S33:** Lineages, [Homesteading in the United States, Part 1](https://lineages.com/homesteading-in-the-united-states-part-1/), read 2026-11-17. Used for: claimant and witness testimony at final proof, including how long the witnesses knew the claimant and how far they lived from him; witnesses who did not complete their own homesteads.
+
+- **S34:** Cari A. Taplin, genealogy-pants, [Don’t Stop Digging: BLM GLO Records Tip](https://genealogypants.com/2024/08/21/dont-stop-digging-blm-glo-records-tip/), read 2026-11-17. Used for: land for a military warrant lying almost anywhere in the United States, not only in the veteran's state.
+
+- **S35:** Michael John Neill, Genealogy Tip of the Day, [Searching BLM GLO Database](https://genealogytipoftheday.com/index.php/2025/10/14/searching-blm-glo-database/), read 2026-11-17. Used for: a warrant patent tagged to the location of the land, not necessarily where the warrantee lived.
+
+- **S36:** Random Acts of Genealogical Kindness, [Military Bounty Land](https://raogk.org/land-records/military-bounty/), read 2026-11-17. Used for: federal bounty-land warrants usable at any GLO office from 1842.
+
 ## Credits
 
 - BYU Family History Library, Nicky Smith, United States Bureau of Land Management Tract Books, video published 2019-07-01 — Standard YouTube license, all rights reserved by the rights holder; brief quotation used for commentary and attribution (quoted)
 - Kinprove original procedural synthesis; presenter examples and record-series distinctions are cited as S1 through S14; NARA request fields, file periods and Kansas City index coverage are paraphrased from NARA public pages; the public-land-state check is paraphrased from S15 to S17 — FSL-1.1-MIT (kinprove-original)
 - Family Locket, Diana Elder, 5 Tips for Research When the Courthouse Burned, 2024-05-27, and Michelle Mickelson, Southwestern United States Research Part 4, 2024-02-17, cited as S18 and S20 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
 - Archive and land-office pages cited as S19 and S21 to S25 — Facts paraphrased with attribution (adapted)
+- Kinprove original procedural additions; community articles and guides cited as S26 to S36 are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)

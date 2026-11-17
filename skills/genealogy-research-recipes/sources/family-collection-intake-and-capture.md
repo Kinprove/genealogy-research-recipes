@@ -45,6 +45,13 @@
 
 **Authored synthesis (2026-11-16 additions).** Recording the gutter that a restricted binding hides as inaccessible applies the recipe's own surface states to S28's condition problem. The rule that papers and books are handled bare-handed is Kinprove synthesis from S28–S30. It corrects S27's glove advice and does not adopt it.
 
+## Additional sources checked 2026-11-16
+
+- **S31:** [Flipping Over Clippings in Books](https://genealogytipoftheday.com/index.php/2022/09/20/flipping-over-clippings-in-books/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **S32:** [A clipping-dating case: When did John Horgan die?](https://threadingneedlesinahaystack.blogspot.com/2008/02/genealogical-mystery-when-did-john.html), opened 2026-11-16. The author used a reverse-side headline to narrow candidate years, then reports a separately obtained death certificate; the reverse did not itself prove the date.
+- **S33:** [Thoughts on the Stuff I have in My Totes](https://genealogytipoftheday.com/index.php/2025/09/28/thoughts-on-the-stuff-i-have-in-my-totes/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **S34:** [Rideau: Genealogy photo captioning](https://rideau-info.com/photos/genealogy-captioning.html), opened 2026-11-16. The guidance adds a caption outside the picture on a new derivative and explains that metadata may not be displayed by recipients; no universal screenshot-loss claim is adopted.
+
 ## Credits
 
 - Mercedes, Who Are You Made Of?, What is the Storymaker Studio on Ancestry?, blog post, 2023-03-07 — All rights reserved; short attributed adaptation (adapted)
@@ -56,3 +63,4 @@
 - Library of Congress blog post cited as S26 — US Government work, public domain; short paraphrase (adapted)
 - MyHeritage Blog post cited as S27 — Copyright of its publisher; short paraphrase of the handling warning (adapted)
 - Library of Congress digitizing guidelines and Ask a Librarian answers cited as S28–S30 — US Government works, public domain; short paraphrase (adapted)
+- Kinprove original source-scoped additions from the practitioner and institutional references cited as S31–S34 and checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)

@@ -1,5 +1,8 @@
 ## Sources
 
+- **S11:** [Greater Sudbury Archives: Genealogy](https://www.greatersudbury.ca/play/arts-culture-and-heritage/archives/archives-genealogy/), read 2026-11-16. Used for: French surnames appearing in English forms, including Leblanc/White, as families move into English-speaking areas.
+- **S12:** [What is Methodology and an overview of courses in the program?](https://www.youtube.com/watch?v=i_I8ij1_Bvs), captured-text excerpt inspected 2026-11-16. Used for: a translated-surname search after a language-area move; the adopted Leblanc/White example comes from Greater Sudbury Archives and is not an identity conclusion. Only the relevant text excerpt was read; live interfaces and video playback were not checked.
+
 - **S1:** BYU Family History Library — Maureen Brady, [The Québecois – French-Canadian Research](https://www.youtube.com/watch?v=j_VNScjY6gk),
   published 2024-06-24 (session dated 20 June 2024). Used for: the Marie/Jean-Baptiste prefix,
   dit-name forms and order, St/Saint searching, reconciliation through baptism, marriage and
@@ -60,6 +63,7 @@ given parish.
 
 ## Credits
 
+- Community sources S12 — Third-party content, rights retained by its owners; short attributed paraphrases of the inspected text excerpts (adapted)
 - Institut Drouin, Genealogy Quebec Blog, The Drouin Collection, cited as S10 — Facts paraphrased with attribution; folder names cited as titles (adapted)
 - Roberta Estes, DNAeXplained, Honoré Lore or Lord's 1818 Estate Inventory, 2024-01-07, cited as S8 — Third-party content, all rights reserved by the rights holder; short quotations of the inventory wording with attribution (quoted)
 - Vermont Genealogy Library page on French currency, cited as S9 — Facts paraphrased with attribution (adapted)

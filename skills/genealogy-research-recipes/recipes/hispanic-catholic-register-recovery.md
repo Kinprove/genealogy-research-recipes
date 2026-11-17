@@ -113,6 +113,8 @@ Read the Spanish handwriting from the image; use an online translation only for 
 - **If no infant baptism turns up, search the months before the marriage** [S7], [S1].
 - **Wording for an entry with only a baptism date:** "born on or before" the baptism, with any estimated interval labelled as calculated. One presenter suggests birth was probably a few weeks earlier [S10]. Because baptisms could be late, treat that only as a starting window. The born-before reasoning is in the evidence/proof judgment recipe.
 
+When a date is missing, search the register around the given-name saint's feast day first, then widen the search [S39], [S40]. The naming custom can concern birth or baptism [S40]; use it as a search window, not an individual event date to enter.
+
 ## 5. Pair the civil and church records
 
 - **Direction of search.** The civil birth registration usually came before the baptism [S10]. From a baptism, search backward for the civil birth. From a civil birth, search forward for the baptism. If nothing turns up, reverse the direction [S10].

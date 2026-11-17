@@ -35,6 +35,7 @@ Some steps overlap with other recipes; use those recipes for them:
 - Read Scottish census images as enumeration books
 - Route executry and land apart from English probate
 - Bridge censuses with valuation rolls
+- Check school records and parish context
 - Close with an event register
 
 ## Fix the jurisdiction as of the event date
@@ -102,6 +103,10 @@ For a person born before 1855 whose parents are unknown, search for a Scottish d
   The presenter worked from a local transcription. She compared the result with the next census to separate the birth mother from the stepmother who raised the child. A confession is the church court's record, not proof of biological parentage. [S5], [S6]
 - **Choose the church register from the civil marriage entry's denomination, not its venue.** Read the "how married" wording (for example, "after banns according to the forms of" a named church) and the officiating minister's signature to identify the denomination and congregation. Use the place of marriage only as an extra locator: regular marriages often took place in private homes. An irregular marriage has no officiating minister and may have no church entry. Where the entry indicates a Catholic marriage, search Findmypast's Scottish Catholic collection, which covers all eight dioceses, for the religious record of the same event. Keep the civil and church entries as two records. [S11]
 
+- **Locate the kirk-session volume before browsing.** NRS's OPR coverage guide links Appendix 1 for pre-1855 vital entries in CH2 records [S37 @2026-11-16]. Use that list to select the reference and years. If the volume is absent from ScotlandsPeople, or the search extends beyond 1855, search the NRS catalogue by parish name and "kirk session" [S41 @2026-11-16]. Record the holding repository and CH2 volume reference. Local archives hold some originals under NRS charge and superintendence [S38 @2026-11-16].
+
+- **Search accounts as well as minutes when an OPR event is missing.** Check for baptisms and marriages dispersed through session minutes, including irregular-marriage payments, and for grave-digging, coffin and mortcloth charges as indirect death leads [S41]. ScotlandsPeople also describes mortcloth accounts, poor relief and certificates of transference [S36]. Record the person, payment or certificate, date and wording separately; a transference certificate is a movement lead rather than proof of where someone was born.
+
 ## Read Scottish census images as enumeration books
 
 - **Every Scottish census image from 1841 to 1911 is an enumeration book.** The household schedules, 1911 included, were destroyed once the census work was finished; the books hold the enumerator's transcription of them. [S20], [S21] A Scottish 1911 entry is therefore an enumerator's copy, not the household's own statement. Do not carry over the England and Wales 1911 household-schedule rule from [UK census and 1939 Register interpretation](uk-census-and-1939-register-interpretation.md). The images are on ScotlandsPeople, and some 1841 books are lost. [S21]
@@ -119,6 +124,14 @@ For a person born before 1855 whose parents are unknown, search for a Scottish d
 - **Use the rolls for residence and ownership between censuses.** Assessors compiled valuation rolls every year from 1855, naming the proprietor, tenant and occupier of each property with its annual rateable value. [S19] ScotlandsPeople has indexes and images for 1855, 1865, 1875, 1885, 1895, 1905, 1915, 1920, 1925, 1930, 1935 and 1940. [S19]
 - **A roll is not a household list.** It names only the owner and the resident head of household. Properties rented at under £4 a year, unless on a long lease, carry little detail. [S19] Absence or a bare entry does not prove the person lived elsewhere.
 - **Search by place as well as by name.** The search form has place, parish and burgh fields. The index expands every Mc to Mac; also allow for M' spellings and tee-names (by-names). [S19]
+
+## Check school records and parish context
+
+- **Privacy gate:** <!-- privacy-gate: request --> An admission entry for a pupil who may be living names that person; answer the privacy gate in `SKILL.md` before requesting it from an archive.
+
+- **Use school admissions for a later statement about a child's birth.** Admission registers can contain the pupil's name, birth date and address. Log books concern school events and staff and very rarely give individual pupil information [S39]. Retrieve the admission entry for a pupil; use the log for a teacher or school context. Keep the school's birth-date statement separate from a statutory birth entry and record any disagreement. A child's absence from the log does not establish absence from the school.
+
+- **Use parish reports to choose BMD substitutes.** Read the parish's Old Statistical Account (1791–99) and New Statistical Account (1834–45) for ministers' descriptions of local conditions [S40], [S42]. Follow any named church or school as a lead to its own records when a register entry is missing.
 
 ## Close with an event register
 
