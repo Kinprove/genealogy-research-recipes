@@ -24,6 +24,15 @@ Related recipes:
 - For the same date-role and successive-episode discipline in another war, see [Russian military/repression episodes](russian-military-repression-record-episodes.md).
 - Identity rulings belong in [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Record a draft registration as registration only
+- Build the soldier's card timeline before writing a narrative
+- Place unit events beside the timeline as labelled inferences
+- Bound a transfer instead of guessing it
+- Check database coverage before calling a miss negative
+- Return the episode packet
+
 ## Record a draft registration as registration only
 
 - **Record the heading.** Union draft registration was created under the Enrollment Act of 3 March 1863. The consolidated lists name men liable to be drafted. They are not service records. A line under a heading such as "Consolidated list of all persons of Class 1 subject to do military duty" means the man was enrolled as liable to the draft. It does not show that he served [S1]. The registers are online at Ancestry as U.S., Civil War Draft Registrations Records, 1863–1865, filmed from NARA Record Group 110.
@@ -78,6 +87,8 @@ Make one row per muster period: muster period | status as written (present, abse
   - **The conflict:** the date he reads off the roster for the transfer entries is "January 4th". If that means 4 January 1864, it falls before the 47th reached Vicksburg, so it does not fit his window. It could be a date of rank or enlistment, an order date, or a date in another year. Resolve it from Alderman's own dated cards, both companies' muster rolls and the transfer order, not from the roster line or the co-location window.
 - **Write a transfer-bounds note:** the earliest and latest possible dates, taken from the soldier's own dated records and the transfer documentation; the place(s) consistent with those records; the sources for each; and whether the transfer is documented or inferred.
 - **Assign movements only where his own records place him in that unit.** Give a unit's movements to the soldier only for periods his cards or other dated records show him in it. Inside the uncertain transfer interval, leave attribution unresolved.
+
+Check the current CMSR digitization listing for the supported army, state and organization before choosing an access route. NARA lists all Confederate and some Union organizations on Ancestry/Fold3, so do not assume that a Union record always requires an offline request or that an online Confederate index is the full file. Open the available jacket and card images and record their extent; use the established custodian route for material not digitized. [S11 @2026-11-16](https://www.pricegen.com/remembering-appomattox-the-civil-wars-end-160-years-later/) [S12 @2026-11-16](https://www.archives.gov/research/military/army/compiled-military-service-records)
 
 ## Check database coverage before calling a miss negative
 

@@ -197,8 +197,8 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [english-nonregister-record-recovery](skills/genealogy-research-recipes/recipes/english-nonregister-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [ethnicity-estimate-version-comparison](skills/genealogy-research-recipes/recipes/ethnicity-estimate-version-comparison.md) | — | — | — | export | — | required |
 | [evidence-proof-judgment](skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) | — | — | — | request | — | required |
-| [family-collection-intake-and-capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md) | record catalogues and original images | — | — | — | contact | required |
-| [family-interviews-and-oral-tradition](skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md) | record catalogues and original images | — | — | export | — | required |
+| [family-collection-intake-and-capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md) | record catalogues and original images | — | — | publish | contact | required |
+| [family-interviews-and-oral-tradition](skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md) | record catalogues and original images | — | — | export, request | — | required |
 | [family-papers-and-bible-register-dating](skills/genealogy-research-recipes/recipes/family-papers-and-bible-register-dating.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [family-photograph-attribution-and-dating](skills/genealogy-research-recipes/recipes/family-photograph-attribution-and-dating.md) | record catalogues and original images | — | — | link, publish, third-party-tool | contact | required |
 | [familysearch-practical-record-workflows](skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) | familysearch | — | — | export, publish, upload | — | required |

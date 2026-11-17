@@ -2698,5 +2698,23 @@
   "kind": "contact",
   "action": "Contact a page's keeper only when the user asks",
   "checkpoint": "A message to the keeper of another serviceman's memorial page"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "publish",
+  "action": "When a sharing copy needs an identification that remains visible without a metadata viewer, create a separate derivative with a caption strip outside the original picture area",
+  "checkpoint": "A captioned sharing copy shows everyone it reaches a photograph together with the name of a person who may still be living"
+ },
+ {
+  "recipe": "family-interviews-and-oral-tradition.md",
+  "kind": "request",
+  "action": "ask FamilySearch for earlier collected accounts of the relevant family, clan or village",
+  "checkpoint": "A request to FamilySearch for earlier collected accounts names the family, clan or village"
+ },
+ {
+  "recipe": "russian-empire-jewish-metrical-book-recovery.md",
+  "kind": "request",
+  "action": "For an act book already transferred to the state archive, write to the archive, not to ZAGS",
+  "checkpoint": "A request for a transferred act record names the person recorded"
  }
 ]

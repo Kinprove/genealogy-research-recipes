@@ -56,6 +56,8 @@ Related recipes cover overlapping steps. For index hits that are not proof a fil
   - So the posted list does not give the district composition for any one year. District borders also do not follow the regional groupings you might assume. Check the composition for your year in a reference work. [S2]
 - Curator fonds do hold lists for schools outside their own district (step 3). Do not work back from where a list was found to the district a school belonged to. One participant concluded that Kremenchuk was in the Moscow district because its list sat in ЦИАМ f.459. Poltava guberniya was in the Kiev district. [S2], [S13]
 
+For a Scottish school, check the present holder and any former local-government or regional archive coverage instead of assuming today's county holds everything. Glasgow's guide includes schools from the former Strathclyde region and explains that most of its records follow the 1872 Education (Scotland) Act's implementation in 1873, with few earlier exceptions. Do not use 1870 as Scotland's cutoff or infer that every earlier school lost its records. Separate admissions registers, which can identify pupils, from headteachers' logbooks, which rarely name individual pupils. Only the transcript of the Scottish school-records discussion was inspected; the Glasgow archive guide supports these bounded distinctions. [S35 @2026-11-16](https://www.youtube.com/watch?v=5Wi6WBBuJHg) [S36 @2026-11-16](https://www.glasgowlife.org.uk/libraries/family-history/stories-and-blogs-from-the-mitchell/ask-the-archivist/ask-the-archivist-school-records)
+
 ## 2. Judge the school's own fond from its inventory
 
 - Find the school's own fond in the regional archive. Estimate what survives from the date span and the number of files, not from the fond's title. Participants read two Pryluky girls' gymnasium fonds at the Chernihiv oblast archive as large enough to hold personal files or at least graduate lists:
@@ -183,6 +185,8 @@ A list of admissions to examinations is not a list of graduates or of years of s
 - Read "сведений не доставили / не доставил" as "supplied no information". It says nothing about death, emigration or absence. [S3]
 - The same yearbooks carry council minutes, such as stipend awards, and these give a student's course year. A participant reported 71 issues of the Временник openly available through the Russian State Library. [S3]
 - Carry the series into service files. Participants cited personnel files in ГАПК f.1 op.2 that restate the lyceum course and degree before the service record. [S3]
+
+For a yearbook, inspect another copy of the same edition even when the family owns one. Handwritten inscriptions are copy-specific: look beside the relevant printed entry, inside covers, and on notes or autograph pages, keeping the copy's holder and page locator. A signature or personal note may be absent from both OCR and the family's copy. Treat the handwriting's attribution as a separate claim; do not identify a person by comparing faces. [S33](https://genealogytipoftheday.com/index.php/2025/06/27/grandma-signed-a-yearbook/), [S34](https://www.amyjohnsoncrow.com/getting-more-out-of-yearbooks-for-genealogy/)
 
 ## 9. When institutional files are lost, recover the school from later files
 

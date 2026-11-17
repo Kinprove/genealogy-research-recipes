@@ -85,6 +85,12 @@ The decision order, routing by département and by classe and bureau, the browse
 
 The index-scope rules in steps 4 and 6 are authored retrieval synthesis from the MyHeritage posts S62 and S66, with collection scope checked against the FamilySearch, Revue française de généalogie and Filae pages S63 to S65, S67 and S68. S64's citation and S65 correct S62's reading of the Vienne years as birth years. The posts' *France, Births and Baptisms* collection is not used.
 
+### Additional sources checked 2026-11-16
+
+- **S69:** Price Genealogy, [Finding Your French Ancestors in Military Conscription Registers](https://www.pricegen.com/finding-your-french-ancestors-in-military-conscription-registers/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S70:** La Revue française de Généalogie, [Les registres matricules militaires en généalogie contemporaine](https://www.rfgenealogie.com/dossiers/les-registres-matricules-militaires-en-genealogie-contemporaine). Passage read 2026-11-16. Used for: Successive addresses, service and reserve annotations, and family-status information may continue after active service; use each entry’s own date and role.
+
 ## Credits
 
 - Kinprove original procedural synthesis; access rules, coverage, series codes, field lists and boundaries checked against INSEE and Ministry of Culture open-data pages, Légifrance, Assemblée nationale, Archives nationales and Ville de Paris pages, departmental archive pages (Côtes-d'Armor, Gard, Finistère, Calvados, Nièvre, Marne, Pyrénées-Orientales, Doubs), the Argelès camp memorial, a project repository, Wikisource and Wikipedia reference pages cited as S1 to S28; the civil-register start, two copies and ten-year tables checked against the Maine-et-Loire guide cited as S56 — FSL-1.1-MIT (kinprove-original)
@@ -97,3 +103,4 @@ The index-scope rules in steps 4 and 6 are authored retrieval synthesis from the
 - Kinprove original routing synthesis for Savoie registers, canton-seat marriages, Paris births and censuses and notarial tables, with facts checked against the Assemblée nationale answer S57, the Archives de Paris pages S58 to S59, the Maine-et-Loire notarial guide S60 and the Neogenea coverage page S61; no reproduced source passages, images or tables, and no claim to their rights — FSL-1.1-MIT (kinprove-original)
 - Kinprove original conscription-register and refugee-file routing synthesis, using the attributed blog post S46 and presentation S51, with facts checked against the Neogenea, Revue française de généalogie, Archives d'Alsace and OFPRA pages S47 to S50 and S52 to S55; no reproduced source passages, images or tables, and no claim to their rights — FSL-1.1-MIT (kinprove-original)
 - Kinprove original index-scope synthesis for succession tables and registres matricules, using the attributed MyHeritage blog posts S62 and S66, with collection scope checked against the FamilySearch, Revue française de généalogie and Filae pages S63 to S65, S67 and S68; no reproduced source passages, images or tables, and no claim to their rights — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)

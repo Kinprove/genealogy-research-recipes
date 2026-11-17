@@ -87,6 +87,11 @@
 
 **Not verified, 2026-11-16:** the current behaviour of any image-search, photo-sharing or tree platform, beyond the dated statements cited from S52, S53, S58, S59, S61 and S62; in particular who can open a FamilySearch album link, and Ancestry's current tagging and face-matching features, whose help pages returned HTTP 403 on 2026-11-16. Also whether a particular keepsake portrait was taken in life or after death; [S63]–[S67] describe the practice and single objects.
 
+## Additional sources checked 2026-11-16
+
+- **S68:** [Don’t Crop](https://genealogytipoftheday.com/index.php/2023/05/28/dont-crop/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **S69:** [FamilySearch: Five ways to identify an unknown family photo](https://www.familysearch.org/en/blog/5-ways-to-identify-an-unknown-family-photo), opened 2026-11-16. Read the comparison of furniture, houses and room corners; the separate photographer discussion describes same-angle snapshots. Scene resemblance supplies a lead rather than sitter identity.
+
 ## Credits
 
 - Ahnenforschung.net forum, Anfragen zu Fotos, forum thread started 2006-10-11 — All rights reserved; short attributed adaptation (adapted)
@@ -99,3 +104,4 @@
 - Family Tree Magazine Podcast, Exploring Family Tree Maker 2024 – An Interview with Rick Crume, YouTube, 2026-01-23, cited as S57 — Standard YouTube License (all rights reserved); short attributed adaptation (adapted)
 - Family Tree Magazine Podcast, Resolving Conflicting Birthdates with Lindsey Harner, YouTube, 2022-07-26, cited as S60 — Standard YouTube License (all rights reserved); short attributed adaptation (adapted)
 - Family Tree Magazine / Robbie Gorr, What We Can Learn From Death-Related Heirlooms, 2024-09-24, cited as S63 — All rights reserved; short attributed adaptation (adapted)
+- Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
