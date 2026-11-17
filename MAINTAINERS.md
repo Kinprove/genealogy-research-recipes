@@ -255,8 +255,10 @@ gh workflow run clawhub-publish.yml --repo Kinprove/genealogy-research-recipes -
 
 The workflow uses the tag's locked tools with lifecycle scripts disabled, validates
 the native package, verifies preview metadata, and publishes with explicit
-`--family code-plugin --owner kinprove`. Keep that family override: this repository
-also has Claude manifests. It waits for definitive publication, then inspects the
+`--family code-plugin`. Keep that family override: this repository also has Claude
+manifests. The live publish names no `--owner`: ClawHub takes the owner from the
+trusted-publisher configuration and rejects a trusted publish that overrides it
+("Trusted publishes must not override the package owner"). It waits for definitive publication, then inspects the
 exact public version and checks package, owner, version, repository, tag and
 commit. The job summary reports the registry's actual `hasProvenance` value
 separately. Do not announce availability based only on submission or preview.
