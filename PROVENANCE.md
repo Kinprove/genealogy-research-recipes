@@ -296,6 +296,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `repository-photograph-collection-search#C-7594460dfd84` | portal-availability | 2026-11-12 | 2027-02-10 | S33, S34 |
 | `repository-photograph-collection-search#C-28b96adf553b` | platform-ui | 2026-11-16 | 2027-05-15 | S38, S39 |
 | `research-documentation#C-e30bf1e96a0b` | portal-availability | 2026-11-12 | 2027-02-10 | H1, H2, H3 |
+| `research-documentation#C-59dd6b213688` | platform-ui | 2026-11-16 | 2027-05-15 | N3, N4 |
 | `russian-empire-emigrant-origin-recovery#C-1a1880aaebdd` | custody | 2026-11-08 | 2027-05-07 | H16, H17, H18 |
 | `russian-empire-emigrant-origin-recovery#C-fa4818ec921a` | portal-availability | 2026-11-12 | 2027-02-10 | H20 |
 | `russian-empire-emigrant-origin-recovery#C-3d063c133473` | portal-availability | 2026-11-12 | 2027-02-10 | H23, S21, H24, H25, S22 |
@@ -304,6 +305,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `russian-empire-jewish-identity-attribution#C-fc7c7f46ee6d` | custody | 2026-11-15 | 2027-05-14 | N31, N32 |
 | `russian-empire-jewish-metrical-book-recovery#C-odesa-city-birth-index-coverage` | portal-availability | 2026-11-16 | 2027-02-14 | S18, S17, S15, S16 |
 | `russian-empire-jewish-metrical-book-recovery#C-0b3e21e03a4d` | custody | 2026-11-15 | 2027-05-14 | S13, S14 |
+| `russian-empire-jewish-metrical-book-recovery#C-5fa4fec1d369` | custody | 2026-11-15 | 2027-05-14 | S22, S23 |
 | `russian-empire-jewish-metrical-book-recovery#C-later-note-finding-aids` | custody | 2026-11-16 | 2027-05-15 | S12 |
 | `russian-estate-registration-status#C-3d60525002f7` | custody | 2026-11-08 | 2027-05-07 | S17, S18, S19, S20 |
 | `russian-estate-registration-status#C-745f81673376` | custody | 2026-11-15 | 2027-05-14 | S51, S50 |
