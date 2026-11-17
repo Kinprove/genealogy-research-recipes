@@ -26,6 +26,23 @@ Use this recipe when an Irish surname, county and possibly a parish or townland 
 
 This recipe builds the holding register and the occupancy chain. Send every identity or kinship ruling to [evidence/proof judgment](evidence-proof-judgment.md). If the next step is a Catholic baptism or marriage register for the narrowed parish, use [Irish Catholic parish image recovery](irish-catholic-parish-image-recovery.md).
 
+## Contents
+
+- Check coverage and acreage units
+- Open every same-name entry as a candidate row
+- Keep distinguishers literal and allow for several lots
+- Do not read entry order as adjacency; narrow the townland with tithe clusters
+- Follow the same lot through the revision books
+- Separate lease-era and sale-year layers in estate-court rentals
+- Cross-check residence with dog licences
+- Close with a holding register
+
+## Check coverage and acreage units
+
+**Check coverage before interpreting a missing name.** Tithe books list occupiers of titheable agricultural land; people without such holdings are outside that coverage [S15]. Search the civil parish and townland, separately from the Catholic parish [S16]. For Griffith’s, read the county volume’s actual date within 1847–1864 before testing someone who died or emigrated earlier [S15].
+
+Before comparing tithe and Griffith’s holdings, copy each volume’s acreage unit. An Irish or plantation acre is about 1.62 statute acres; Griffith’s uses statute measure [S16]. Keep the literal acres, roods and perches and any conversion in separate fields.
+
 ## Open every same-name entry as a candidate row
 
 1. Treat Griffith's as a tax list, not a census substitute that lists people [S3]. Each entry describes a holding and its valuation, not a household. Griffith's is free to search online at Ask About Ireland (askaboutireland.ie) [S1, S2].
@@ -75,11 +92,17 @@ This recipe builds the holding register and the occupancy chain. Send every iden
 4. Later changes on the same lot, including passing to a different surname, need outside evidence for any relationship. In [S3], the presenter knew from other sources that a later occupier was the brother-in-law of the previous occupier. The revision book did not show it.
 5. To tie a 1901 or 1911 census household to a followed lot, work by place, not by name. The census returns are arranged by townland, or by street in towns, within each district electoral division (DED), and the National Archives of Ireland search can be browsed from county to DED to townland or street [S8], [S9]. Match the townland to the revision-book townland, then record any link between a household and a lot as a hypothesis.
 
+6. Read a dated "Widow [surname]" entry as reported widowhood by that date [S18]. It does not name the husband. Identify him from other records before assigning the report to the earlier occupier. His last established record alive supplies the lower bound for a proposed death window; the same-surname succession alone supplies neither his identity nor that bound.
+
 ## Separate lease-era and sale-year layers in estate-court rentals
 
 1. An estate-court rental lists tenants at the time of the sale, with lease details. The presenter in [S4] says the court began in 1848. That is wrong: the Encumbered Estates Court was set up under an Act of 1849, and the Landed Estates Court succeeded it in 1858. Record which court issued the rental, and take the rental's sale or statement date from the rental itself, never from a court start year. Record that date separately from each tenant's lease date. Search the rentals by name in Findmypast's *Landed Estates Court Rentals 1850-1885*, where each record has a transcript and an image of the original [S13].
 2. Record the lease date and every named life or occupant, with the relationship wording copied literally ("his brother", "son of the said..."). Record this as an observation dated to the lease, not to the sale year. In the [S4] example, the lease is dated 1 May 1800 and names a man, his brother and a son, across at least two generations.
 3. Read "only surviving" (or similar wording) as a window. The other named lives died at some point between the lease date and the date of the rental's statement [S4]. Record the death as "after [lease date], before [rental date]". Never assign a year inside that window. The presenter in [S4] closed the window at 1848, her stated court start year; use the date on the rental instead.
+
+## Cross-check residence with dog licences
+
+Use dog licences as a separate residence check from 1866. Findmypast’s *Ireland dog licence registers, 1866–1914* description gives names and addresses in the index and further dog details in images [S17]. Compare the licensee’s address and date with the occupancy chain; the licence is not a property title.
 
 ## Close with a holding register
 

@@ -52,7 +52,7 @@ no tools or hooks, and makes no network calls of its own. To set it up, see [Ins
 - **Births outside marriage and institutions:** [births outside marriage](skills/genealogy-research-recipes/recipes/illegitimacy-record-recovery.md), [asylum and state-hospital patients](skills/genealogy-research-recipes/recipes/institutional-patient-record-recovery.md)
 - **Family papers, photographs and oral history:** [family collection intake and capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md), [family photographs](skills/genealogy-research-recipes/recipes/family-photograph-attribution-and-dating.md), [family papers and Bible registers](skills/genealogy-research-recipes/recipes/family-papers-and-bible-register-dating.md), [family interviews and oral tradition](skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md), [repository photograph collections](skills/genealogy-research-recipes/recipes/repository-photograph-collection-search.md)
 
-Each recipe's sources are in [`https://github.com/Kinprove/genealogy-research-recipes/blob/5475bc91f95a586716a55ac839e085d9716271f6/skills/genealogy-research-recipes/sources/`](https://github.com/Kinprove/genealogy-research-recipes/blob/5475bc91f95a586716a55ac839e085d9716271f6/skills/genealogy-research-recipes/sources/).
+Each recipe's sources are in [`https://github.com/Kinprove/genealogy-research-recipes/blob/e9f4612be6360af67b306cb1eff7e5fe5d4e6f1a/skills/genealogy-research-recipes/sources/`](https://github.com/Kinprove/genealogy-research-recipes/blob/e9f4612be6360af67b306cb1eff7e5fe5d4e6f1a/skills/genealogy-research-recipes/sources/).
 
 ## Evaluation
 
@@ -197,8 +197,8 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [english-nonregister-record-recovery](skills/genealogy-research-recipes/recipes/english-nonregister-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [ethnicity-estimate-version-comparison](skills/genealogy-research-recipes/recipes/ethnicity-estimate-version-comparison.md) | — | — | — | export | — | required |
 | [evidence-proof-judgment](skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) | — | — | — | request | — | required |
-| [family-collection-intake-and-capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md) | record catalogues and original images | — | — | — | contact | required |
-| [family-interviews-and-oral-tradition](skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md) | record catalogues and original images | — | — | export | — | required |
+| [family-collection-intake-and-capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md) | record catalogues and original images | — | — | publish | contact | required |
+| [family-interviews-and-oral-tradition](skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md) | record catalogues and original images | — | — | export, request | — | required |
 | [family-papers-and-bible-register-dating](skills/genealogy-research-recipes/recipes/family-papers-and-bible-register-dating.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [family-photograph-attribution-and-dating](skills/genealogy-research-recipes/recipes/family-photograph-attribution-and-dating.md) | record catalogues and original images | — | — | link, publish, third-party-tool | contact | required |
 | [familysearch-practical-record-workflows](skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) | familysearch | — | — | export, publish, upload | — | required |
@@ -272,7 +272,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [russian-estate-registration-status](skills/genealogy-research-recipes/recipes/russian-estate-registration-status.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-household-list-transcription-audit](skills/genealogy-research-recipes/recipes/russian-household-list-transcription-audit.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-imperial-service-record-recovery](skills/genealogy-research-recipes/recipes/russian-imperial-service-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [russian-military-repression-record-episodes](skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md) | record catalogues and original images | — | — | request | — | required |
+| [russian-military-repression-record-episodes](skills/genealogy-research-recipes/recipes/russian-military-repression-record-episodes.md) | record catalogues and original images | — | — | request | contact | required |
 | [russian-orthodox-confession-list-reading](skills/genealogy-research-recipes/recipes/russian-orthodox-confession-list-reading.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-orthodox-metrical-book-recovery](skills/genealogy-research-recipes/recipes/russian-orthodox-metrical-book-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [russian-revision-list-household-chaining](skills/genealogy-research-recipes/recipes/russian-revision-list-household-chaining.md) | record catalogues and original images | — | — | — | — | — |

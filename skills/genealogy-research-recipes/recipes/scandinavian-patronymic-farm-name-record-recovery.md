@@ -31,6 +31,7 @@ Covered elsewhere and not repeated here: [same-name elimination](evidence-proof-
 - Read a Norwegian bygdebok by farm, then verify it
 - Use Norwegian censuses and emigrant protocols within their ranges
 - Denmark: go beyond the church books
+- Iceland: use the farm, census and emigration sources separately
 - Rebuild siblings and marriages from the named parents
 - Close with an origin packet
 
@@ -130,6 +131,22 @@ A candidate matches only when several of these discriminators agree. Leave any c
 
 - Rigsarkivet has scanned every census of the kingdom up to 1940 on Arkivalieronline. [S22 @2026-11-16] Its name-search guide lists fully transcribed censuses for 1787, 1801/1803, 1834, 1840, 1845, 1850, 1860, 1880, 1885 (Copenhagen only) and 1901, and describes DDD's coverage as 1787–1930. [S27 @2026-11-16] DDD (Dansk Demografisk Database) is run by Rigsarkivet. [S16 @2026-11-16] Rigsarkivet says DDD is closing as a separate platform and its data is being made searchable in Søg i Samlingerne. [S27 @2026-11-16] Check the actual transcription coverage for the locality and year; a nil in a partly transcribed year is not a negative. Check each transcription against the scan.
 - Use the lægdsruller (military levying rolls) to bridge censuses for men. Males of the peasant class were liable in 1788–1848, and all men from 1849. Rigsarkivet gives the registration ages as 0–36 for 1788–1808, 0–45 for 1808–1849, 15–38 from 1849, 19–38 from 1869 and 18–36 from 1912. After 1849 a boy was not entered at birth: look for him in the rolls for the years when his age fell within his period's range. The rolls give the father's name (the mother's if the man was born outside marriage) and the man's moves while liable for service. Moves can be followed across the country from 1789. Before 1788 only scattered rolls survive. [S17 @2026-11-16]
+
+## Iceland: use the farm, census and emigration sources separately
+
+Use Vesturfaraskrá as the 1983 printed emigration index for 1870–1914 described by Icelandic Roots, rather than assuming it is a searchable online database. Search its first-name arrangement with the observed patronymic and farm, then compare its year and destination with departure and arrival evidence. The index includes some planned departures that did not happen, so an entry alone does not prove that the person emigrated. [S28], [S29]
+
+An Icelandic farm name is not a unique location. Resolve it through the sýsla (county) and sókn (parish), and carry both into the place register before matching a census household to a church entry. Preserve competing same-named farms until the dated household, parents or neighbouring places distinguish them; a bare farm-name match does not select one. [S28], [S30]
+
+Check Íslendingabók’s access conditions before planning a lookup: its English information page restricts access to Icelandic citizens and legal residents with a kennitala. If that route is unavailable, retain it as unavailable and continue with the cited census and parish records. Treat a compiled family link as a lead to its evidence; no logged-in search or account access was tested for this guidance. [S28 @2026-11-16], [S31 @2026-11-16]
+
+For an Icelandic emigrant family, search diaspora newspapers and serialised settlement histories for the destination-side bridge. Byerly-Adams’s worked example cites a 1906 Heimskringla memorial and a history serialised in Lögberg-Heimskringla in 1969–1970. Follow such references to the issue and page, then test names, places and relationships against records. The article’s retelling and the newspaper original remain separate sources; the originals were not inspected for this guidance. [S28], [S34]
+
+### Earlier generations
+
+Choose an Icelandic census by its actual fields. The 1703 census supplies names, ages and household/residence context; the 1762 census names the household head and counts other household members. A wife or child unnamed in that latter return is not thereby absent from the household. Copy the headings and stated relationships before comparing same-named people across years. [S28], [S32]
+
+Check the Icelandic parish’s surviving years before inferring a birth from an early baptism search. FamilySearch’s guide dates record-keeping decrees to 1735 and 1746, identifies the earliest surviving records as 1664, and places most surviving series’ beginnings around 1750–1780. A decree date is not the start of every local book; record the actual parish, event series and earliest inspected year. [S28], [S33]
 
 ## Rebuild siblings and marriages from the named parents
 

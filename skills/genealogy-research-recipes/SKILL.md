@@ -21,7 +21,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## Version and updates
 
-This copy is version 1.21.0, released 2026-11-16.
+This copy is version 1.22.0, released 2026-11-17.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
@@ -87,7 +87,7 @@ today's date. Do not check for a newer version over the network yourself.
    the task-recipe read.
    Carry any material source limitation alongside the claim it affects: a search-result extract,
    unread page or unavailable recording is a lead, not a verified reading. Consult the paired
-   `https://github.com/Kinprove/genealogy-research-recipes/blob/5475bc91f95a586716a55ac839e085d9716271f6/skills/genealogy-research-recipes/sources/` file when the claim's support is unclear; attribute an independently read source
+   `https://github.com/Kinprove/genealogy-research-recipes/blob/e9f4612be6360af67b306cb1eff7e5fe5d4e6f1a/skills/genealogy-research-recipes/sources/` file when the claim's support is unclear; attribute an independently read source
    explicitly rather than treating an inaccessible additional citation as confirmation.
 3. Apply its "never trust / never delegate" boundaries as **hard constraints on your own output** —
    those are the exact places a confident answer goes wrong (e.g. fabricating cM→relationship odds,
@@ -109,7 +109,7 @@ today's date. Do not check for a newer version over the network yourself.
 A source marker identifies evidence, not a guarantee that the page was read or that it supports
 every sentence. Most cited passages lack a recorded review against their sources, and a marker or
 a date alone does not show that one was reviewed. When relying on a factual passage, read the
-entry for each cited source ID in its `https://github.com/Kinprove/genealogy-research-recipes/blob/5475bc91f95a586716a55ac839e085d9716271f6/skills/genealogy-research-recipes/sources/<recipe-id>.md` sidecar and carry the limitations
+entry for each cited source ID in its `https://github.com/Kinprove/genealogy-research-recipes/blob/e9f4612be6360af67b306cb1eff7e5fe5d4e6f1a/skills/genealogy-research-recipes/sources/<recipe-id>.md` sidecar and carry the limitations
 that entry states.
 
 `[S12 @2026-11-07]` gives the claim's last check date. A dagger such as `[S16†]` marks limited or
@@ -348,7 +348,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/irish-probate-and-deed-recovery.md` — Recover an Irish will, administration or deed after the 1922 losses through surviving calendars, will books and the Registry of Deeds.
 - `recipes/irish-emigrant-origin-locality.md` — Resolve an Irish place named by an emigrant's records or family tradition to a searchable locality.
 - `recipes/irish-land-valuation-occupancy-series.md` — Read Griffith's Valuation, tithe books, valuation revisions and estate rentals as dated occupancy series.
-- `recipes/irish-1901-1911-census-returns.md` — Search, retrieve and read the Irish 1901 and 1911 census returns.
+- `recipes/irish-1901-1911-census-returns.md` — Search, retrieve and read the Irish 1901, 1911 and 1926 census returns.
 - `recipes/convict-transportation-record-chain.md` — Rebuild a transported British convict's sentence as a chain of dated record episodes.
 - `recipes/british-colonial-slave-registers.md` — Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records.
 
@@ -398,7 +398,7 @@ shared with others. Refer to them by role, for example "a witness".
 
 ### Canada, Latin America, Asia and Oceania
 
-- `recipes/canadian-provincial-record-routing.md` — Route a Canadian vital record, war personnel file, Métis or First Nations record, or Home Child to its province, custodian and access category.
+- `recipes/canadian-provincial-record-routing.md` — Route a Canadian vital or estate record, war personnel file, Métis or First Nations record, or Home Child to its province, custodian and access category.
 - `recipes/canadian-census-interpretation.md` — Read a historical Canadian census line as a de jure listing, and browse by geography when a name search misses.
 - `recipes/french-canadian-register-recovery.md` — Recover French-Canadian ancestors from combined registers, French-post and Notre-Dame de Montréal entries and notarial acts.
 - `recipes/hispanic-catholic-register-recovery.md` — Find a Mexican or other Hispanic Catholic ancestor across parish books and civil registers.
@@ -454,5 +454,5 @@ shared with others. Refer to them by role, for example "a witness".
 ## Attribution
 
 These recipes are original Kinprove-authored distillations, licensed FSL-1.1-MIT (see `LICENSE`).
-Third-party facts and methods are credited in each recipe's `https://github.com/Kinprove/genealogy-research-recipes/blob/5475bc91f95a586716a55ac839e085d9716271f6/skills/genealogy-research-recipes/sources/<slug>.md`; any
+Third-party facts and methods are credited in each recipe's `https://github.com/Kinprove/genealogy-research-recipes/blob/e9f4612be6360af67b306cb1eff7e5fe5d4e6f1a/skills/genealogy-research-recipes/sources/<slug>.md`; any
 reproduced third-party data is carved out in `NOTICE`.

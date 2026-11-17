@@ -20,6 +20,10 @@ Use this recipe when you have a Quaker surname, a candidate monthly meeting and 
 
 Some steps belong to other recipes. To test a disputed year against the documented calendar and follow record versions, use [evidence/proof judgment](evidence-proof-judgment.md) § Follow record versions and test disputed dates. For general Ancestry zero-result diagnosis, use [Ancestry record-search recovery](ancestry-record-search-recovery.md).
 
+## Identify the meeting and reported record holder
+
+Use Thomas C. Hill’s Monthly Meetings in North America index at QuakerMeetings.com to identify candidate meetings, former names, parent bodies and reported record locations. Resolve the meeting for the date before selecting its books. The maintainers warn that not all website and record-location data can be kept current, so a listed repository is a custody lead to confirm, not a current holding proved by the index. [S19 @2026-11-16], [S20 @2026-11-16]
+
 ## Check compiled-abstract coverage before trusting silence
 
 1. Record whether the target meeting falls within Hinshaw's *Encyclopedia of American Quaker Genealogy*. This is a six-volume work compiled by William Wade Hinshaw and published 1936–1950. A separate index volume followed in 1999. It covers mainly meetings east of the Mississippi River, not the whole United States [S1]. The printed volumes are North Carolina (v. 1), Pennsylvania and New Jersey (v. 2), New York (v. 3), Ohio (v. 4–5) and Virginia (v. 6). Indiana is not in the printed set; Willard Heiss abstracted Indiana separately.
@@ -56,6 +60,20 @@ Some steps belong to other recipes. To test a disputed year against the document
 
    Take the current holder and call number from today's catalogues, not from Jacobsen. The Hicksite branch deposited its records at Friends Historical Library, Swarthmore, in 1967–1969. The Orthodox branch deposited its own and Virginia Yearly Meeting's records at Haverford's Quaker Collection in the 1960s, according to Hill's Quaker index, which was only partially read [S14 @2026-11-16]. Search the Quaker Meeting Catalog that Swarthmore and Haverford share [S16 @2026-11-16]. Also search the Maryland State Archives' Guide to Special Collections for Maryland churches, whose Friends entries give the Archives' collection numbers (only the first page of results was read) [S18 @2026-11-16]. Record Jacobsen's reel number and the current catalogue entry side by side.
 
+8. A birth recorded by a monthly meeting is not thereby a birth in that meeting’s locality. New-member entries can repeat birth and marriage information for the family; distinguish the stated birthplace, residence and receiving meeting, and retain an unstated entry date as unknown. Do not move a child’s birthplace to every meeting that later recorded the family. [S21]
+
+9. Read the intention preamble of a marriage certificate as well as its vows and witness list. It can name each party’s parents and state their townships or county of residence, as the published 1769 certificate does. Assign each place to the person and role actually named; a witness’s place or surname does not supply a missing parent or birthplace. [S22]
+
+10. Keep a removal certificate’s issue and receipt dates separate from the physical move. Some families obtained the certificate after migrating. Bracket the physical move only if evidence establishes the person’s presence at both endpoints; do not assign the certificate date as an exact departure or arrival date. [S23], [S24]
+
+11. Browse the selected meeting’s books in addition to searching its name index. Guilford College’s Ancestry guide describes the state → county → meeting → book route and warns that the viewer image number can differ from the record page. List the record types and books actually inspected; an indexed surname miss does not search every image or a neighbouring meeting. [S25 @2026-11-16], [S26 @2026-11-16]
+
+## Read disciplinary labels and emancipation instruments
+
+1. When a Revolutionary-era source labels a Friend a Loyalist, read the person’s entries in the monthly-meeting minutes for the act behind the label. Religious refusal to swear an allegiance oath, pay war taxes or support military action can differ from active support for the Crown. Keep the source’s label and the documented conduct separate; neither pacifism nor a label alone establishes the individual’s political allegiance. [S23], [S27]
+
+2. In North Carolina Quaker minutes, a statement that someone was freed “by instrument” is a lead to a separate emancipation paper. Search the meeting papers and relevant local court or deed records for the instrument itself. Hilty describes both court-issued deeds and private papers made without court approval; the phrase alone does not prove a recorded deed, immediate freedom or legal recognition. [S25], [S28]
+
 ## Check meeting-related court proceedings when minutes are unavailable
 
 If early minutes for the target meeting are unavailable, use its locality and period to look for court proceedings concerning Quaker gatherings, then inspect whom they name as attending. Ruane's Salem account motivates this fallback; keep a described gathering separate from the identified monthly-meeting unit, and do not treat an accusation or reported attendance as proof of membership. [S3]
@@ -71,13 +89,15 @@ If early minutes for the target meeting are unavailable, use its locality and pe
 
 Return a packet with these items:
 
-- the decoded meeting, with its literal code and the key used;
+- the decoded meeting, with its literal code and the key used, plus the Hill-index lookup and check of its listed record holder;
 - the Hinshaw coverage check (printed Encyclopedia or the Ancestry index) and its result;
-- each minute series inspected (men's and women's, and the branch after the yearly meeting's separation), with its span;
-- each removal-certificate series inspected, with outgoing and receiving pairs;
+- each minute series inspected (men's and women's, and the branch after the yearly meeting's separation), with its span, books and record types actually browsed, and record pages kept apart from viewer image numbers;
+- each removal-certificate series inspected, with outgoing and receiving pairs, issue and receipt dates as membership-transfer observations, and any physical-move bounds with their supporting presence evidence;
 - for an emigrant from Britain or Ireland, the received certificate's issuing meeting and the registers searched there;
 - for a Maryland meeting, Jacobsen's 1966 reel number beside the current holder and call number;
-- witness and associate lists transcribed from images;
+- witness and associate lists transcribed from images, and any parents and residence places extracted from a marriage preamble in their named roles;
+- each stated birthplace and residence kept apart from the recording meeting, with an unstated entry date left unknown;
+- any Loyalist label beside the conduct recorded in minutes, and any “by instrument” reference beside the paper retrieved or its retrieval gap;
 - every date as a literal value with a bracketed conversion, plus any year-ambiguity flag.
 
 Name any series you did not inspect as a retrieval gap. Index silence remains "not found in the searched index." It is never a finding that the person was not a member.
