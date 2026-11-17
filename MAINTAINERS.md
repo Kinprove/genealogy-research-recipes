@@ -258,7 +258,11 @@ the native package, verifies preview metadata, and publishes with explicit
 `--family code-plugin`. Keep that family override: this repository also has Claude
 manifests. The live publish names no `--owner`: ClawHub takes the owner from the
 trusted-publisher configuration and rejects a trusted publish that overrides it
-("Trusted publishes must not override the package owner"). It waits for definitive publication, then inspects the
+("Trusted publishes must not override the package owner"). Both publish commands
+declare the full tag ref, `refs/tags/vX.Y.Z`: ClawHub rejects a trusted publish whose
+source ref differs from the ref in the GitHub OIDC token ("Trusted publish source ref
+must match the authorized source ref") and records that full ref as the source tag.
+It waits for definitive publication, then inspects the
 exact public version and checks package, owner, version, repository, tag and
 commit. The job summary reports the registry's actual `hasProvenance` value
 separately. Do not announce availability based only on submission or preview.

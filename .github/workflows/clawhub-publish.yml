@@ -51,7 +51,7 @@ jobs:
         run: ci-tools/node_modules/.bin/clawhub package validate . --openclaw ci-tools/node_modules/openclaw --out "$RUNNER_TEMP/clawhub-validation" --json
       - name: Preview and verify the exact release source
         run: |
-          ci-tools/node_modules/.bin/clawhub package publish . --family code-plugin --owner kinprove --source-repo "$GITHUB_REPOSITORY" --source-commit "$GITHUB_SHA" --source-ref "$GITHUB_REF_NAME" --dry-run --json > "$RUNNER_TEMP/clawhub-preview.json"
+          ci-tools/node_modules/.bin/clawhub package publish . --family code-plugin --owner kinprove --source-repo "$GITHUB_REPOSITORY" --source-commit "$GITHUB_SHA" --source-ref "$GITHUB_REF" --dry-run --json > "$RUNNER_TEMP/clawhub-preview.json"
           python -B scripts/check_clawhub_release.py preview "$RUNNER_TEMP/clawhub-preview.json"
       - name: Publish through GitHub OIDC and wait for definitive publication
         if: ${{ !inputs.dry_run }}
@@ -59,7 +59,7 @@ jobs:
           set -euo pipefail
           # Keep non-secret attempt/release metadata even when publishing or verification fails.
           trap 'publish_status=$?; if [ -f "$RUNNER_TEMP/clawhub-publish.json" ]; then cat "$RUNNER_TEMP/clawhub-publish.json" || true; fi; exit "$publish_status"' EXIT
-          ci-tools/node_modules/.bin/clawhub package publish . --family code-plugin --source-repo "$GITHUB_REPOSITORY" --source-commit "$GITHUB_SHA" --source-ref "$GITHUB_REF_NAME" --wait --wait-timeout 1200 --json > "$RUNNER_TEMP/clawhub-publish.json"
+          ci-tools/node_modules/.bin/clawhub package publish . --family code-plugin --source-repo "$GITHUB_REPOSITORY" --source-commit "$GITHUB_SHA" --source-ref "$GITHUB_REF" --wait --wait-timeout 1200 --json > "$RUNNER_TEMP/clawhub-publish.json"
           python -B scripts/check_clawhub_release.py published "$RUNNER_TEMP/clawhub-publish.json"
       - name: Verify the public version and report registry provenance
         if: ${{ !inputs.dry_run }}

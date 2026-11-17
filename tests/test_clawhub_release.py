@@ -21,7 +21,7 @@ SHA = "a" * 40
 
 def preview():
     return {
-        "source": "github:Kinprove/genealogy-research-recipes@v9.8.7",
+        "source": "github:Kinprove/genealogy-research-recipes@refs/tags/v9.8.7",
         "name": "@kinprove/genealogy-research-recipes", "family": "code-plugin",
         "version": "9.8.7", "commit": SHA, "files": 298, "totalBytes": 2143103,
     }
@@ -35,7 +35,7 @@ def inspection():
         "owner": {"handle": "kinprove"},
         "version": {"version": "9.8.7", "verification": {
             "sourceRepo": "Kinprove/genealogy-research-recipes",
-            "sourceCommit": SHA, "sourceTag": "v9.8.7", "hasProvenance": False,
+            "sourceCommit": SHA, "sourceTag": "refs/tags/v9.8.7", "hasProvenance": False,
         }},
     }
 
@@ -78,30 +78,30 @@ class ClawHubReleaseTests(unittest.TestCase):
             release.release_version("refs/tags/v9.8.7", {**package, "name": "@other/package"})
 
     def test_preview_rejects_missing_or_wrong_release_identity(self):
-        release.verify_preview(preview(), "9.8.7", SHA, "v9.8.7")
+        release.verify_preview(preview(), "9.8.7", SHA, "refs/tags/v9.8.7")
         for key, wrong in (
             ("name", "@other/package"), ("family", "bundle-plugin"), ("version", "9.8.6"),
-            ("commit", "b" * 40), ("source", "github:other/repo@v9.8.7"),
+            ("commit", "b" * 40), ("source", "github:other/repo@refs/tags/v9.8.7"),
             ("source", "github:Kinprove/genealogy-research-recipes@main"),
         ):
             for omit in (False, True):
                 data = preview()
                 data.pop(key) if omit else data.update({key: wrong})
                 with self.subTest(key=key, omit=omit), self.assertRaises(ValueError):
-                    release.verify_preview(data, "9.8.7", SHA, "v9.8.7")
+                    release.verify_preview(data, "9.8.7", SHA, "refs/tags/v9.8.7")
 
     def test_only_definitive_publication_passes(self):
         published = {**preview(), "status": "published", "publicationStatus": "published"}
-        release.verify_publication(published, "9.8.7", SHA, "v9.8.7")
+        release.verify_publication(published, "9.8.7", SHA, "refs/tags/v9.8.7")
         for status in (None, "pending", "blocked", "failed", "expired"):
             with self.subTest(status=status), self.assertRaises(ValueError):
-                release.verify_publication({**published, "publicationStatus": status}, "9.8.7", SHA, "v9.8.7")
+                release.verify_publication({**published, "publicationStatus": status}, "9.8.7", SHA, "refs/tags/v9.8.7")
 
     def test_public_inspection_uses_the_selected_version_and_reports_provenance(self):
         data = inspection()
-        self.assertIs(release.verify_inspection(data, "9.8.7", SHA, "v9.8.7"), False)
+        self.assertIs(release.verify_inspection(data, "9.8.7", SHA, "refs/tags/v9.8.7"), False)
         del data["version"]["verification"]["hasProvenance"]
-        self.assertIsNone(release.verify_inspection(data, "9.8.7", SHA, "v9.8.7"))
+        self.assertIsNone(release.verify_inspection(data, "9.8.7", SHA, "refs/tags/v9.8.7"))
 
     def test_public_inspection_rejects_wrong_or_missing_source_and_owner(self):
         for path, wrong in (
@@ -118,10 +118,10 @@ class ClawHubReleaseTests(unittest.TestCase):
                     target = target[key]
                 target.pop(path[-1]) if omit else target.update({path[-1]: wrong})
                 with self.subTest(path=path, omit=omit), self.assertRaises(ValueError):
-                    release.verify_inspection(data, "9.8.7", SHA, "v9.8.7")
+                    release.verify_inspection(data, "9.8.7", SHA, "refs/tags/v9.8.7")
         for data in (None, [], {}, {**inspection(), "version": None}):
             with self.subTest(data=data), self.assertRaises(ValueError):
-                release.verify_inspection(data, "9.8.7", SHA, "v9.8.7")
+                release.verify_inspection(data, "9.8.7", SHA, "refs/tags/v9.8.7")
 
     def test_context_command_fails_for_a_branch_dispatch(self):
         with tempfile.TemporaryDirectory() as directory:
