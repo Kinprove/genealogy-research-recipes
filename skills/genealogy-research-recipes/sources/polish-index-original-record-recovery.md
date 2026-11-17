@@ -161,9 +161,28 @@ searches for one family.
   the metrical books she reads give no time of birth, while Polish ones give the hour of birth and
   of presentation for baptism.
 
+### Sources added 2026-11-16
+
+- **O18:** Danuta Wojtowicz, wolyn-metryki.pl, [English
+  page](https://wolyn-metryki.pl/Wolyn/Metryki_Wolyn/English.html), read 2026-11-16. Used for: the
+  database built from microfilms of 19th-century Roman Catholic parish registers of the dioceses of
+  Lutsk and Lviv, entries from 1848 in Russian and sometimes Ukrainian, and the search by first
+  name, last name, part of a name or town, but not first and last name together.
+- **O19:** Archiwum Główne Akt Dawnych, [leaflet on metrical
+  books](https://agad.gov.pl/wp-content/uploads/2020/12/ulotka_metrykalne.pdf),
+  read 2026-11-16 from the PDF's text layer. Used for: wolyn-metryki.pl named with Geneteka and W.
+  W. Żurek's index of persons from the parish records of the Lutsk diocese as aids to searching.
+- **P20:** Dzen channel «История одной семьи. Юлия Новожилова», [«Метрические книги
+  Украины»](https://dzen.ru/a/XuIRVpWblEYqg5bD), published 2020-06-11,
+  read 2026-11-15 from a captured copy. Used for: wolyn-metryki.pl listed among online aids for
+  Ukrainian metrical books. Its statement that the site is in Polish only is not used: the site has
+  an English page.
+
 ## Credits
 
 - Kinprove — original procedural synthesis of Polish interportal index, description and original-record retrieval — FSL-1.1-MIT (kinprove-original)
 - Posts on the Dzen channel «Генеалогия, или Как я встретил вашу маму», cited as P15, P18 and P19 — Copyright of their author; short paraphrase (adapted)
 - Stephen J. Danko's blog post cited as P16 and the JewishGen Polish-Jewish Genealogy questions and answers cited as P17 — Copyright of their authors; paraphrase (adapted)
 - Wiktionary entry cited as P14 — CC BY-SA 4.0; paraphrase (adapted)
+- Post on the Dzen channel «История одной семьи. Юлия Новожилова», cited as P20 — Copyright of its author; short paraphrase (adapted)
+- The wolyn-metryki.pl English page and AGAD's leaflet, cited as O18 and O19 — Copyright of their publishers; paraphrase (adapted)

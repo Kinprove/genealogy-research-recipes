@@ -117,6 +117,10 @@ cover only the books extracted. A
 [metrical-book marriage-table example](https://rodgersforum.borda.ru/?1-0-0-00000238-000-0-0-1721744472=)
 demonstrates this chaining.
 
+Retain the sequence of names as written in a deed, will or other list, even when you later create a sorted working table. Record each explicit age or ordinal separately. A will may group sons and daughters or name an executor later; list position alone does not establish birth order. Keep an inferred family order in a separate, sourced analysis [N1](https://genealogytipoftheday.com/index.php/2024/08/29/a-message-to-the-order/), [N2](https://vitabrevis.americanancestors.org/2016/07/birth-order-vs-will-order/).
+
+Log a genealogy.net Metasuche as a bounded metasearch, including the selected databases and any displayed failures. Its current help describes a ten-second wait for replies, not exhaustive completion of every underlying database. If a specific collection matters, search it directly and record that outcome separately; neither a timeout nor a temporarily disabled database is a negative search of its records [N3](https://www.pricegen.com/research-around-the-world/), [N4](https://meta.genealogy.net/).
+
 ## Turn locality coverage into the next searches
 
 Keep a locality guide bounded to the question and period: historical jurisdiction, relevant

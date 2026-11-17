@@ -118,6 +118,8 @@ Gather these before searching:
 - **After 1923, search the National Archives of Australia too.** PROV states that Victorian immigration records after 1923 are held by the NAA [S25 @2026-11-16]. Keep the state archive in the search: Queensland State Archives indexes immigrant ships bound for Queensland for 1922–1940 [S26 @2026-11-16].
 - **Route by colony and date before you call a passenger search negative.**
 
+Search the ship name and sailing date for another passenger’s diary, journal or shipboard newsletter. Match the vessel and voyage, and use the account as that passenger’s description [S33]. Only a transcript excerpt was inspected for this search suggestion [S34].
+
 ## 8. Search Trove and Papers Past inside their digitised runs
 
 - **Use Trove (Australia) and Papers Past (New Zealand) for family notices and shipping arrivals.**

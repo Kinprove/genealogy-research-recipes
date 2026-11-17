@@ -109,6 +109,12 @@ fallback. [Internet Archive's capture-data documentation](https://archive.org/he
 (updated 2013-09-24; text checked 2026-10-21) describes snapshot links and timestamps;
 the citation and gap controls are Kinprove synthesis.
 
+When a volume has no printed page number, describe the entry by its actual internal structure, such as the year section, entry number and named event. Add the provider's image number with the provider and the route to that volume, rather than treating an image counter as a page printed in the source. Retain enough of the volume identification and entry context to locate it through another copy if the viewer's numbering changes [N1](https://genealogytipoftheday.com/index.php/2025/04/10/no-page-number/), [N2](https://www.evidenceexplained.com/node/1391).
+
+For a filmed or digitized register, inspect the cover, spine or title frame and preserve its actual volume label. A catalogue title may describe an entire series rather than the specific volume you used. Record any mismatch explicitly; if the item has no title, supply a descriptive label as your own instead of silently assigning the series title to it [N3](https://genealogytipoftheday.com/index.php/2023/06/27/getting-all-the-details/), [N4](https://www.evidenceexplained.com/node/2230).
+
+Binding does not establish publication. If the "book" is an unpublished typescript or manuscript deposited in a repository, identify its creator, title or supplied description, composition date when known, collection/item locator and holding institution with location. Do not invent a publisher or publication date from the binding or catalogue appearance [N5](https://genealogytipoftheday.com/index.php/2024/12/13/when-to-cite-a-specific-book/), [N6](https://answers.library.georgetown.edu/research/faq/228516).
+
 ## Connect the citation to the evidence
 
 Attach the citation or its local handle to each extracted observation. Preserve the literal

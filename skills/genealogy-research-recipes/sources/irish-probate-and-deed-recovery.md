@@ -1,5 +1,9 @@
 ## Sources
 
+- **S22:** [Virtual Record Treasury of Ireland](https://virtualtreasury.ie/), read 2026-11-16. Used for: the current Treasury search for keywords, people, places and reference numbers.
+- **S23:** [National Archives of Ireland: Records in the Public Record Office of Ireland](https://nationalarchives.ie/help-with-research/research-guides/records-in-public-records-office-of-ireland/), read 2026-11-16. Used for: Wood’s 1919 guide as an inventory of pre-1922 holdings, not a guarantee of an item’s survival.
+- **S24:** [Ireland’s Public Records Office: Beyond 2022](https://englishancestors.blog/2022/07/01/irelands-public-records-office-beyond-2022/), read 2026-11-16. Used for: the Virtual Record Treasury and Wood pre-fire inventory as recovery finders, without assuming an item survived or has an exact modern location. The relevant article text was read at the public URL; linked interfaces were not tested.
+
 - **S1:** National Archives of Ireland, [Testamentary records](https://nationalarchives.ie/collections/court-records/testamentary-records/), opened 2026-11-04. Used for: the 1857 Act, the Principal Registry and 11 district registries; the district-registry will books, 1858–1900; the Principal Registry will books for 1874, 1878, 1891 and 1896; the 1922 losses up to 1904 and 1900; NAI holding the wills from 1904.
 - **S2:** National Archives of Ireland, [How to find a will](https://nationalarchives.ie/help-with-research/types-of-research/how-to-find-a-will/), opened 2026-11-04, read again 2026-11-13. Used for: the fields of a calendar entry; the retired genealogy microsite and its rebuilding; 1918–1922 calendars onsite only and 1923–1982 online and onsite; the microfilm indexes to pre-1858 wills.
 - **S3:** Public Record Office of Northern Ireland (PRONI), [Will calendars](https://www.proni.gov.uk/will-calendars), opened 2026-11-04, read again 2026-11-13. Used for: the database of Armagh, Belfast and Londonderry calendar entries, 1858–1965; the digitised copy wills and their years.
@@ -28,4 +32,5 @@ The decision order, the 1858 split, the copy-before-loss stop rule, the two-inde
 
 ## Credits
 
+- Community sources S24 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Kinprove original procedural synthesis; registries, dates, will-book survivals, calendar fields, index arrangements and dataset contents checked against National Archives of Ireland, Public Record Office of Northern Ireland, Tailte Éireann and Northern Ireland Department of Finance pages, the Registry of Deeds Index Project pages and one reference page cited as S1 to S21 — FSL-1.1-MIT (kinprove-original)

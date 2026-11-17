@@ -2680,5 +2680,23 @@
   "kind": "contact",
   "action": "Book a Virtual Reading Room appointment",
   "checkpoint": "Steps 2 and 3 below contact LVA staff in the user's name"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "When a public model performs poorly on a recurring hand, consider a custom text-recognition model",
+  "checkpoint": "Training a Transkribus model can send document images and transcriptions"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "request",
+  "action": "With the user's go-ahead, request the document from TsAMO by its locator",
+  "checkpoint": "A TsAMO request for a document known only by its locator"
+ },
+ {
+  "recipe": "russian-military-repression-record-episodes.md",
+  "kind": "contact",
+  "action": "Contact a page's keeper only when the user asks",
+  "checkpoint": "A message to the keeper of another serviceman's memorial page"
  }
 ]

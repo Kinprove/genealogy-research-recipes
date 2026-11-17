@@ -1,5 +1,11 @@
 ## Sources
 
+- **S33:** [National Archives of Ireland: Census 1926 forms](https://nationalarchives.ie/search-the-1926-census-2/census-1926/), read 2026-11-16. Used for: Form A age in years/months, occupation/employer fields, and the distinct married-women and under-16-child questions.
+- **S34:** [National Archives of Ireland: Finding people in the census 1926](https://nationalarchives.ie/search-the-1926-census-2/finding-people-in-the-census-1926/), read 2026-11-16. Used for: browse by supported townland or street when name searches fail.
+- **S35:** [National Archives of Ireland: Phased release of census 1926 information](https://nationalarchives.ie/search-the-1926-census-2/phased-release-of-census-1926-information/), read 2026-11-16. Used for: occupation and employer text available on images while their searchable transcription is a later phase.
+- **S36:** [National Archives of Ireland: Census1926 public programme](https://nationalarchives.ie/news-and-events/census-1926/), read 2026-11-16. Used for: 1926 as the first census of the Irish Free State.
+- **S37:** [Found a Name in the 1926 Irish Census? Check These 5 Hidden Details](https://www.youtube.com/watch?v=gaRIY8ZHdzg), captured-text excerpt inspected 2026-11-16. Used for: the 1926 place, age, occupation and child-count search suggestions; exact field and coverage scope follows the current NAI guides. Only the relevant text excerpt was read; live interfaces and video playback were not checked.
+
 - **S1:** John Grenham, Irish Roots blog, [Next census up: 1901](https://www.johngrenham.com/blog/2026/10/23/next-census-up-1901/), 23 October 2026. Used for: his rebuilt 1901 search at johngrenham.com/1901/; about 4,000 reversed-name returns made findable; forename and surname variant families with their counts; institutions listed by county, DED and townland; Previous and Next buttons; B1, B2 and N linked from each Form A page.
 - **S2:** John Grenham, Irish Roots blog, [Ghosts of 1901](https://www.johngrenham.com/blog/2026/07/17/ghosts-of-1901/), 17 July 2026. Used for: 16 complete or part DEDs (201 townlands) missing from the NAI 1901 data, found by comparing the database with the published DED totals; his 1911 gap list; the Coonogue/Coonague spelling pair.
 - **S3:** John Grenham, Irish Roots blog, [The Bould Thady Quill](https://www.johngrenham.com/blog/2022/04/20/the-bould-thady-quill/), 20 April 2022. Used for: Thady named Timothy on his gravestone; a Cork area, Kilmartin, missing from the online 1911.
@@ -37,4 +43,5 @@ The search order, the miss-is-not-absence tests, the age rule and its threshold,
 
 ## Credits
 
+- Community sources S37 — Third-party content, rights retained by its owners; short attributed paraphrases of the inspected text excerpts (adapted)
 - Kinprove original procedural synthesis drawing on genealogy blog posts, library and society presentations and live-stream talks (S1 to S16); search mechanics, form contents, printed instructions, coverage gaps and pension-era age figures checked against National Archives of Ireland pages (including an Internet Archive copy of its former search tips), a PRONI guide, IPUMS International transcriptions of the forms and the 1911 enumerator instructions, a reference page, a heritage news review, The National Archives (UK) census guide, a townland gazetteer page and published research on the 1908 old-age pension (S17 to S32) — FSL-1.1-MIT (kinprove-original)

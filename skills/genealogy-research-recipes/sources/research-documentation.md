@@ -168,7 +168,15 @@ are used.
   collection timeline and completeness; more than 50 TB archived, from national archives to
   local museums. The database itself was not searched.
 
+## Additional sources checked 2026-11-16
+
+- **N1:** [A Message to the Order](https://genealogytipoftheday.com/index.php/2024/08/29/a-message-to-the-order/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **N2:** [American Ancestors: Birth order versus will order](https://vitabrevis.americanancestors.org/2016/07/birth-order-vs-will-order/), opened 2026-11-16. The discussion distinguishes order of heirs in a will from demonstrated birth order; it supplies no universal inference from a list position.
+- **N3:** [Research Around the World](https://www.pricegen.com/research-around-the-world/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **N4:** [genealogy.net Metasuche](https://meta.genealogy.net/), opened 2026-11-16. The current page describes parallel database requests, a ten-second response window and individual database selection; it also marks temporarily disabled databases.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
 - Günter Junkers, Compgen-Blog, Backup für das kulturelle Erbe der Ukraine, 2022-03-15, cited as H1 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
