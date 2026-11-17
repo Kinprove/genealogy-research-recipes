@@ -79,6 +79,10 @@ Find the building from its occupancy label plus landmarks named in dated adverti
 4. Plot residences on a dated map, record each point's year, and mark any point you estimated. Family History Fanatics estimated positions on an 1842 directory map. They stated that the resulting cluster suggests a relationship but does not establish one [S19].
 5. Use the placement for bounded follow-ups, and treat each result as a lead. For example, choose nearby parishes by language and by whether their records survive, using the five-yearly "Locations of Chicago Roman Catholic Churches, 1850–1990" maps in the FamilySearch Digital Library [S12]. Or use an associate's work address from a WWI draft card [S21].
 
+**Electoral address dates:** For a historical British address, read the register's qualifying date as well as the date it came into force. Date its residence statement to the qualifying date, as The London Archives guide explains, and for London and Middlesex registers use the guide's name/address search route. Copy the qualifying date into the address worksheet before comparing street numbers. These lists contain eligible electors rather than every resident, so an absent name does not show that the building was empty or the whole household lived elsewhere. [S63 @2026-11-17], [S64 @2026-11-17]
+
+**Railroad routes:** Read the map's date and purpose before tracing a corridor. The Library of Congress collection described by TeachingHistory includes surveys, company-report maps and public route guides; distinguish a proposed or surveyed line from an operating route. Use a dated operating-route map to test travel between documented places, keeping the line's operating status separate from evidence of the family's actual journey. [S65], [S66]
+
 ## Find a vanished cemetery, church or settlement
 
 Start from a known point. Open every dated edition for the area and record each map's date, the features shown and the names as printed [S25]. Read period names from the edition closest to the event [S25]. If a feature is missing from GNIS, Google Maps, GeoHack services or Find a Grave, that alone does not show it never existed. In Tanner's 2016 searches, the Joseph City, Arizona cemetery appeared on maps but in none of those services. Coordinates from BillionGraves photos located it [S24]. It has since been listed on Find a Grave, so a gap in a listing service may only reflect when you searched.
@@ -109,9 +113,13 @@ For other countries, use these historical map services. Link the maps rather tha
 
 To test an oral report of a farm burial ground, check dated county maps and atlases for a cemetery mark. Private cemeteries of the 1840s and 1870s were drawn on them [S23]. Then work out which county held the site at that date. Lehigh was formed from Northampton in 1812, and Berks lost territory to Schuylkill in 1811 and to Lebanon in 1865. Some churches and burial grounds have moved between these counties [S23]. Treat a plotted symbol as an approximate lead for a site visit [S24].
 
+**Rural school sites:** Search legal sale or auction notices for a schoolhouse's land description, or its distance and direction from a named town as in the Sac County IAGenWeb transcription. Plot the description against a dated map and seek the underlying advertisement or conveyance. Extract this as school-property location evidence; identify pupils from records that name them. [S67], [S68]
+
 ## Read landowner maps and overlays with limits
 
 Record a landowner map's title, publisher, date and holder. A name on it shows who held the land in that edition. Neighbours and associates on the map are leads [S11]. Smith reports that LoC holds more than 1,800 land-ownership atlases [S11]. A map made for another purpose can still show landowners, such as an 1895 Civil War battle map. Record its purpose and date [S14].
+
+**Federal first-grantee maps:** Read the introduction and the dates behind each label to distinguish a map reconstructed from federal entries or patents from owners at one publication date. Federal tract books stop at transfer to private ownership; trace later private buyers through county conveyances. Compare the family's arrival and acquisition dates with the grant dates before expecting it on a first-grantee map. [S60], [S61], [S62]
 
 On a cadastral map, a parcel number is not the house number in a vital record. Galician (Austrian) metrical books give house numbers, but final-stage cadastral maps show building and land parcel numbers. Bridge the two with the earlier field sketch, which labels buildings with the house numbers used in vital records, or with the tax register, which links owners, house numbers and parcels. Check the Gesher Galicia cadastral inventory for what survives for the locality. One participant, working from the 1849 Jaworów map in the Gesher Galicia map room, planned to use such a parcel-to-house index in the Lviv archive [S28]. Record both numbers, the survey year and the concordance you used.
 

@@ -32,8 +32,31 @@ class gap is authored synthesis.
 
 - **S20:** National Archives of Ireland, [Search the Census (c19)](https://nationalarchives.ie/collections/search-the-census-c19/), read 2026-11-13. Used for: the pre-1901 census search page covering 1821, 1831, 1841 and 1851.
 
+- **S21:** National Library of Ireland: Further research, [National Library of Ireland: Further research](https://www.nli.ie/family-history/further-research), read 2026-11-17. Used for: Griffith's Valuation recording the owner as well as the occupier of land, searching surviving estate papers by the landlord's or the estate's name once a landlord is identified, and the list of surviving estate papers arranged by civil parish on the subscription site Irish Ancestors.
+
+- **S22:** PRONI: Companion guide to the eCatalogue, [PRONI: Companion guide to the eCatalogue](https://www.proni.gov.uk/publications/html-document/companion-guide-proni-ecatalogue), read 2026-11-17. Used for: catalogue searches for people, places and organisations, including townlands, parishes and streets.
+
+- **S23:** Findmypast: Ireland, Poverty Relief Loans 1821–1874, [Findmypast: Ireland, Poverty Relief Loans 1821–1874](https://www.findmypast.ie/discover/institutions-and-organisations/government/ireland-poverty-relief-loans-1821-1874), read 2026-11-16. Used for: T91 records for the western seaboard, loan papers and later returns with residence, health and emigration information.
+
+- **S24:** RootsIreland: Irish passenger lists, [RootsIreland: Irish passenger lists](https://www.rootsireland.ie/help/help-ships-passenger-lists/irish-passenger-lists/), read 2026-11-16. Used for: Brian Mitchell’s published Hardwicke lists for March 1803–March 1806 and the Cooke 1847–1867 and McCorkell 1864–1871 lists. This is a description of publications, not proof of a complete online index.
+
+- **S25:** Logainm: Placenames Database of Ireland, [Logainm: Placenames Database of Ireland](https://www.logainm.ie/en/), read 2026-11-16. Used for: English and Irish place-name forms displayed together.
+
+- **S26:** M. C. Moran: The McCabe List, [M. C. Moran: The McCabe List](https://www.ottawavalleyirish.com/2013/10/the-mccabe-list.html), read 2026-11-16. Used for: the 5 February 1829 petition of 673 men, mostly Irish, in the Bytown area, its family-origin details and Colonial Office reference CO 384/22.
+
+- **S27:** Church History Library: Missions and missionaries, [Church History Library: Missions and missionaries](https://churchhistorylibrary.churchofjesuschrist.org/guides/missions-and-missionaries?lang=eng), read 2026-11-16. Used for: Missionary Registers 1860–1959, generally missionaries set apart in Salt Lake City, with birth and parentage information; access restrictions vary.
+
+- **S28:** Boston College Libraries: The Boston Pilot story, [Boston College Libraries: The Boston Pilot story](https://libguides.bc.edu/boston-pilot-story), read 2026-11-16. Used for: Information Wanted advertisements beginning in 1831 and continuing for about 85 years. The historical description does not establish the coverage of any particular database or book edition.
+
+- **S29:** [Price Genealogy: Irish Emigration—Part 2: The Records](https://www.pricegen.com/7808-2/), read 2026-11-16. Used for: the McCabe, passenger-publication and loan-return retrieval suggestions; erroneous McCabe count and conflation with Peter Robinson emigration are not adopted.
+
+- **S30:** [Price Genealogy: Find Your Irish Place of Origin](https://www.pricegen.com/find-your-irish-place-of-origin/), read 2026-11-16. Used for: the missionary-register birthplace search suggestion.
+
+- **S31:** [Price Genealogy: Overcoming Irish Brick Walls—Finding Places](https://www.pricegen.com/overcoming-irish-brick-walls-finding-places/), read 2026-11-16. Used for: the missing-friends advertisement and bilingual-place search suggestions; the newspaper series is broader than the book subset cited there.
+
 ## Credits
 
+- Community sources S29, S30, S31 — Third-party content, rights retained by the owners; short attributed paraphrases of the identified posts (adapted)
 - Paraphrased factual summaries of examples given by Vaughn Johnson, Gillian and William (Denyse Allen episodes), Justin Houser and William Roulston, attributed inline as S1, S3, S4 and S7-S10 — YouTube Standard License (source); adaptation attributed inline (adapted)
 - Genealogy Gems, Episode 214, 2018-02-13, guest Donna Moughty (S2) — YouTube Standard License (source); adaptation attributed inline (adapted)
 - Denyse Allen with Peter Gilmore, Irish Presbyterians of Western Pennsylvania, 2024-07-25 re-release (S6), with the 2022-01-19 original (S5) — YouTube Standard License (source); adaptation attributed inline (adapted)

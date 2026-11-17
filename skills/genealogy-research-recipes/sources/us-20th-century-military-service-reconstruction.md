@@ -91,6 +91,17 @@ The videos S1–S22 do not support state war-history questionnaires; that separa
 
 These additions extend existing routes; they do not add a new section. The milConnect self-service portal, FOIA exemptions, classified work, the ALIC declassified-documents page, the B registry (already cited from H2) and OMPF content outside military service are not used.
 
+### AAD punch-card and WWI draft-card form sources
+
+- **S49:** [My World War I Ancestors](https://www.pricegen.com/my-world-war-i-ancestors/), preserved article text read 2026-11-16. Practitioner lead; the recipe keeps only the scope that S51–S54 support.
+- **S50:** [There Were Three US World War I Draft Registrations](https://genealogytipoftheday.com/index.php/2025/06/02/there-were-three-us-world-war-i-draft-registrations/), preserved article text read 2026-11-16. Practitioner lead; the recipe keeps only the scope that S51–S54 support.
+- **S51:** [NARA, World War I Draft Registration Cards](https://www.archives.gov/research/military/ww1/draft-registration), opened 2026-11-16. Read the three registration dates and ages and the differing fields.
+- **S52:** [NARA, WWI Draft Registration Card A blank form](https://www.archives.gov/files/research/genealogy/charts-forms/ww1-draft-a.pdf), opened 2026-11-16, reread 2026-11-17. Form fields inspected for printed number headings, birthplace, nearest-relative versus relationship fields and the printed corner-cut instruction. The blank forms do not establish how any filled card was completed.
+- **S53:** [NARA, WWI Draft Registration Card B blank form](https://www.archives.gov/files/research/genealogy/charts-forms/ww1-draft-b.pdf), opened 2026-11-16, reread 2026-11-17. Form fields inspected for printed number headings, birthplace, nearest-relative versus relationship fields and the printed corner-cut instruction. The blank forms do not establish how any filled card was completed.
+- **S54:** [NARA, WWI Draft Registration Card C blank form](https://www.archives.gov/files/research/genealogy/charts-forms/ww1-draft-c.pdf), opened 2026-11-16, reread 2026-11-17. Form fields inspected for printed number headings, birthplace, nearest-relative versus relationship fields and the printed corner-cut instruction. The blank forms do not establish how any filled card was completed.
+- **S55:** [My World War II Ancestors](https://www.pricegen.com/8127-2/), preserved article text read 2026-11-16. Practitioner lead; the recipe keeps only the scope that S56 supports.
+- **S56:** [Theodore J. Hull, The World War II Army Enlistment Records File and Access to Archival Databases](https://www.archives.gov/publications/prologue/2006/spring/aad-ww2.html), opened 2026-11-16. Read the original punch cards' destruction after microfilming and creation of the electronic reference file from surviving microfilm. The records are not digital-only.
+
 ## Credits
 
 - Kinprove original Army/Air Force trial-file, final-pay eligibility and award-order retrieval synthesis from the attributed NARA presentations S26–S28, with no reproduced transcript passages, images or tables and no claim to their rights — FSL-1.1-MIT (kinprove-original)
@@ -110,3 +121,4 @@ These additions extend existing routes; they do not add a new section. The milCo
 - MyHeritage Blog, Official Military Personnel Files: A Genealogist's Guide (2025-01-13) and MyHeritage Adds 1.2 Billion Historical Records in January 2025 (Esther Shuman, 2025-02-05), cited as S42 and S47 — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
 - National Archives and Records Administration pages, cited as S43–S46, and the rereads of H3–H5 — U.S. federal government works; paraphrase with attribution (adapted)
 - Reclaim The Records, Beneficiary Identification Records Locator Subsystem (BIRLS) Death File, cited as S48 — Third-party content, rights not stated; short adapted paraphrase with attribution (adapted)
+- Kinprove original source-scoped additions from the practitioner and institutional references cited as S49–S56, checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)

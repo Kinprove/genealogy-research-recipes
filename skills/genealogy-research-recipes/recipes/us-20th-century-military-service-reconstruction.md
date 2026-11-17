@@ -164,6 +164,8 @@ The file was converted from punch-card microfilm. 212 rolls holding about 1.5 mi
 - Tell same-name men apart by state of residence and year of birth. For a common surname, narrow the query by state of residence before reading the results.
 - AAD can refuse automated fetches: an automated fetch got HTTP 403 on 2026-11-04. Do not rely on web search to find its record pages. Log a 403 or an empty web search as an access failure, not a no-record finding, and search AAD in a browser session.
 
+Do not order the destroyed original punch cards as a fuller version of an AAD enlistment entry. NARA explains that the originals were destroyed after microfilming; the microfilm survives. Do not describe the AAD entry as a digital-only surviving record. [S55](https://www.pricegen.com/8127-2/), [S56](https://www.archives.gov/publications/prologue/2006/spring/aad-ww2.html)
+
 ## Test state and local routes before calling the claim unsupported
 
 Absence from federal service lists does not show non-service. In Tanner's repeated account, a man missing from every WWI list he searched had served in a National Guard unit [S1], [S3], [S4], [S5], [S6]:
@@ -197,6 +199,10 @@ service history. The Reclaiming Kin examples motivate the family-file and extent
 their historical site controls are not current access promises. [S23]
 
 A draft registration shows a man was present when he registered, not that he served [S5], [S14]. The 1917 card asks about prior military service, and Strauss says Guard service was often noted [S14]. Read the whole card, but don't count it as service.
+
+Read a WWI draft card against its actual form. The third registration's Card C has no birthplace or marital-status question; Card B asks the father's birthplace. A nearest-relative name and address do not state that person's relationship. Cards A and B print an instruction to cut a corner for a registrant recorded as of African descent; a damaged corner alone is not a racial identification. Copy the form's labels before interpreting missing fields or physical marks. [S49](https://www.pricegen.com/my-world-war-i-ancestors/), [S50](https://genealogytipoftheday.com/index.php/2025/06/02/there-were-three-us-world-war-i-draft-registrations/), [S51](https://www.archives.gov/research/military/ww1/draft-registration), [S52](https://www.archives.gov/files/research/genealogy/charts-forms/ww1-draft-a.pdf), [S53](https://www.archives.gov/files/research/genealogy/charts-forms/ww1-draft-b.pdf), [S54](https://www.archives.gov/files/research/genealogy/charts-forms/ww1-draft-c.pdf)
+
+Where two numbers appear at the top, copy each with its printed heading. NARA's blank Card B has Serial No. on the left and Registration No. on the right; Card C has Serial Number on the left and Order Number on the right. Do not record an unlabeled number as a service number. [S53](https://www.archives.gov/files/research/genealogy/charts-forms/ww1-draft-b.pdf), [S54](https://www.archives.gov/files/research/genealogy/charts-forms/ww1-draft-c.pdf)
 
 For WWII, the draft records in Record Group 147 cover men only. The Fourth Registration took men born from April 1877 to 16 February 1897. Its cards no longer exist for Alabama, Florida, Georgia, Maine, Mississippi, North Carolina, South Carolina and Tennessee. The other WWII registrations took men born from 17 February 1897 to 31 July 1927 ([NARA, Fourth Registration](https://www.archives.gov/files/research/military/ww2/draft-cards-fourth-registration.pdf); [NARA St. Louis, Selective Service](https://www.archives.gov/st-louis/selective-service)). NARA St. Louis also holds *Classification Records, 1940–1947* for many but not all states. Search the Catalog for his state's series before you rely on it ([NARA Catalog, example](https://catalog.archives.gov/id/2173095)). A classification entry, like a card, is not proof of service.
 
