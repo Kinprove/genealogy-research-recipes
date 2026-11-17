@@ -35,8 +35,12 @@ Also authored synthesis: the search order (street index or provincial finding ai
 
 S10, like S1–S5, supplies presenter experience and examples, not statute text or enumerator instructions. The 1931 district, sub-district and finding-aid rules come from LAC (S11–S14); the radio-column rule comes from the CCRI transcription of the 1931 instructions (S15); voters-list holdings and arrangement come from LAC (S16, S17), and the entry contents from a secondary blog (S18).
 
+- **S19:** [Library and Archives Canada: Census1842, Canada West](https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/censuses/pre-confederation/1842-west.html), read 2026-11-16. Used for: the head-of-family name and numerical household columns; surviving district coverage and unidentified sheets must be checked.
+- **S20:** [Researching Ontario Ancestors : Part 1](https://www.pricegen.com/researching-ontario-ancestors-part-1/), read 2026-11-16. Used for: the 1842 named-head versus numerical-household-count distinction, checked against LAC for Canada West. The relevant article text was read at the public URL; linked interfaces were not tested.
+
 ## Credits
 
+- Community sources S20 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - BYU Family History Library, Dave Obee, Discoveries in the 1931 Canadian Census (31 August 2023), absent-husband example in the de jure discussion — All rights reserved by the rights holder; close attributed paraphrase (adapted)
 - Genealogy Gems, Episode 154 10 Tips for Breaking Through Your Genealogy Brick Wall (same segment as S4), guest remark on the Canadian census — All rights reserved by the rights holder; short attributed quotation (quoted)
 - Kinprove original procedural synthesis; presenter experience and examples cited as S1-S5 (Dave Obee BYU talk; Genealogy Gems episodes 203, 154 and its 2013 release, and the 1931 search-strategies video); 1931 entry-type and reference-date rules drawn from the Statistics Canada 1931 Instructions to Commissioners and Enumerators; census dates and birth-date columns checked against Library and Archives Canada pages and the 1927–28 Canada Year Book (S6–S8) — FSL-1.1-MIT (kinprove-original)

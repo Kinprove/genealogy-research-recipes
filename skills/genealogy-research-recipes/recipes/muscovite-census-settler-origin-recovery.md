@@ -81,6 +81,8 @@ The Poskochin Tobolsk locator below has been confirmed against a published descr
 
 For a village founded after 1719, search the parent sloboda's books first. The 1744 revision lists such villages as newly founded and names households as moved there from the sloboda or another village. Only then turn to the village's own church fond. [S1], [S10]
 
+**1710 books online, and what they record.** The census1710.narod.ru site indexes 1710 census books and summaries for eight guberniyas (Azov, Archangel, Kazan, Kiev, Moscow, St Petersburg, Smolensk and Siberia); cite the archive's locator for a book, not the index page. [S32 @2026-11-15] A household entry in a full 1710 book names men and women with their ages and kinship, and sometimes the place and year the household came from [S34 @2026-11-15]; the Siberian books also say who died in which year (step 7). Some regions counted only part of the population: M. Klochkov's study of 1911 gives Kungur's figures for males and females and a Kiev table of people «обоих полов с летами» (of both sexes, with ages), but a Moscow count of males aged 10 to 60 only. [S33 @2026-11-15] So take a book's coverage from its heading before you read a missing woman or age as a gap.
+
 ## 2. Extract each statement literally, with its folio
 
 For each head of household, record the following as written:
@@ -180,6 +182,8 @@ Before you write that a family was absent, record which of these applies:
 - **The book is a copy limited to part of the territory,** such as the GAPO copy covering estates only. [S4]
 - **The book may be misfiled** under another territory's inventory. [S9]
 - **The household was hidden or recorded under another household or name.** [S14], [S20]
+
+- **The book did not record women.** A 17th-century census entry for a taxed household took in all its males, whatever their age, with their kinship and ages; women were added only in the 18th century. [S30] A genealogist found a 1678 book listing males only, with given names written in forms such as Якушко and Ивашка. [S31] So read a wife or daughter missing from a 17th-century book as out of its scope, and search for a man under the diminutive form of his given name as well as the full form.
 
 Only an inspected book that covered the place, with a hit-free reading of the relevant leaves, supports a negative result. Even then it is bounded to that book.
 

@@ -1,5 +1,8 @@
 ## Sources
 
+- **S33:** [National Library of Australia: Discovering your ancestors’ migration story, Part2](https://www.library.gov.au/news-media/discovering-your-ancestors-migration-story-part-2), read 2026-11-16. Used for: searching by ship and voyage date for another passenger’s diary, journal or shipboard newsletter; the article was fetched and read directly after browser-tool timeouts.
+- **S34:** [Family History News 14 Apr 2023](https://www.youtube.com/watch?v=wDW4LC8F7rg), captured-text excerpt inspected 2026-11-16. Used for: another passenger’s diary or shipboard newsletter for the same vessel and sailing; NLA independently supports the search and voyage distinction. Only the relevant text excerpt was read; live interfaces and video playback were not checked.
+
 - **S1:** National Library of Australia, [Births, deaths and marriages](https://www.library.gov.au/research/family-history/births-deaths-and-marriages), opened 2026-11-04, read again 2026-11-13. Used for: NT events of 1856–1863 in New South Wales records and of 1863–1870 in South Australian records; today's registries holding pre-separation events; the ACT area being part of New South Wales before 1911; Canberra-region births before 1918 and marriages and deaths before 1930 in the NSW indexes, possibly under the districts of Queanbeyan or Yass.
 - **S2:** Wikipedia (en), [Civil registration in Australia](https://en.wikipedia.org/wiki/Civil_registration_in_Australia), and Findmypast, [Australian and New Zealand birth, death and marriage certificates](https://www.findmypast.com.au/articles/articles-and-guides/australian-and-new-zealand-birth-death-and-marriage-certificates), opened 2026-11-04. Used for: the start year of civil registration in each colony.
 - **S3:** NSW Births, Deaths and Marriages, [History of the Registry's records](https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages/about-registry/our-story/history-of-registrys-records), opened 2026-11-04. Used for: NSW civil registration from 1856; transcribed church registers for 1788–1855, not the originals.
@@ -40,5 +43,6 @@ The decision order, the today's-registry rule, the miss-is-not-negative readings
 
 ## Credits
 
+- Community sources S34 — Third-party content, rights retained by its owners; short attributed paraphrases of the inspected text excerpts (adapted)
 - Kinprove original procedural synthesis; registration dates, release periods, enrolment law, custody of passenger lists, Māori Land Court and Aboriginal agency records, API key rules and catalogue identifiers checked against Australian and New Zealand state and federal registry, archive, electoral commission, library, court and gazette pages, a UNESCO register entry, a church archive page, a public API documentation page and two reference pages cited as S1 to S26 — FSL-1.1-MIT (kinprove-original)
 - Vera Miller, Lost Russian & Ukrainian Family, Two major Australian databases ease researching of USSR ancestors and relatives, 2025-09-27, cited as S29 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)

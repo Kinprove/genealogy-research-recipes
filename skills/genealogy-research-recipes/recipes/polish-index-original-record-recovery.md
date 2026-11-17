@@ -78,6 +78,16 @@ Genealogiczne lists (1918–1920 soldier lists and the 1926 Polish declaration f
 States); it does not search the regional projects. Log each project searched and its coverage for
 the parish before you record NIL. [O5], [O6], [O7], [O8], [O9], [O10], [O11], [O12], [O13]
 
+For Volhynia, also search wolyn-metryki.pl. AGAD's leaflet on metrical books names it, with Geneteka
+and a printed index of persons from the parish records of the Lutsk diocese, as an aid to searching.
+[O19 @2026-11-15] Its English page says it is built from microfilms of 19th-century Roman Catholic
+parish registers of the dioceses of Lutsk and Lviv, that entries from 1848 are in Russian and
+sometimes Ukrainian, and that its search takes a first name, a last name or part of one, or a town,
+but not a first and last name together. [O18 @2026-11-15] A genealogist lists it among the online
+aids for Ukrainian metrical books. [P20 @2026-11-15] A miss there says nothing about Orthodox, Greek
+Catholic or Jewish families: search the surname and the town as separate lanes, and log its coverage
+as Roman Catholic only.
+
 Search every form of a woman's surname. A surname ending in a consonant other than -g takes -owa for a wife and
 -ówna for a daughter (Nowakowa, Nowakówna); one ending in a vowel or -g takes -ina/-yna and -anka
 (Konopczyna, Konopczanka); -ski becomes -ska. [P4], [P6] A maiden name is written z + genitive

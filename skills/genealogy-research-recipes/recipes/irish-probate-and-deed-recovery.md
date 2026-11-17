@@ -53,6 +53,8 @@ Link out for the shared steps:
 
 ## 3. Find a copy before you call the will lost
 
+Add the Virtual Record Treasury of Ireland to a lost-record search. Its current search accepts keywords, people, places and reference numbers [S22 @2026-11-16]. Use Herbert Wood’s 1919 *Guide to the Records Deposited in the Public Record Office of Ireland* to identify the pre-fire series described by NAI [S23 @2026-11-16], then seek a surviving copy or surrogate. A guide’s entry describes a former holding, not current survival, and a Treasury miss does not exhaust copies elsewhere [S24 @2026-11-16].
+
 - **Know what burned in 1922.** The fire destroyed almost all original wills and administrations of the Principal Registry up to 1904 and of the district registries up to 1900 [S1]. NAI holds the later originals from 1904 for the registries in its collection [S1]. For Armagh, Belfast and Londonderry, PRONI holds the originals from 1900, Armagh from 1901 until that registry closed in September 1921 [S15], [S20].
 - **Search the district-registry will books for 1858–1900.** They hold copies of wills proved in the district registries in those years [S1].
 - **Expect almost nothing for the Principal Registry before 1904.** Its will books survive only for 1874, 1878, 1891 and 1896 [S1]. Outside those years, record the calendar entry as the surviving evidence and report the will itself as not found.

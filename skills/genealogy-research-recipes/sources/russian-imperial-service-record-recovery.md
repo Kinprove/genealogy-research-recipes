@@ -95,6 +95,13 @@
 
 The routes to RGA VMF and the Herold-master's office, looking for a father's list in the son's file, reading an insignia's return date as a lead, reading orders by their date, and the search order for «Вся Москва» are authored synthesis. S24, S28, S30, S33 and S34 are Dzen posts reporting their authors' own cases; S25, S26, S31, S32 and S36 are reference works and S37 an archival methods guide; S27 is a scholarly article; S29 is a volunteer database; S35 is a city news item. NOT verified: the St George journals' notes, court deprivation of an insignia as a cause of its return, and the current contents of «Моя семья».
 
+- **S38:** История одной семьи. Юлия Новожилова, [«Что можно узнать в РГВИА о предках-военных»](https://dzen.ru/a/X48tOWymnHgCHA2x), a Dzen post dated 20 November 2020 on the captured page, read 2026-11-15 from a captured copy. Used for: the electronic inventory search by surname, the fonds only partly catalogued, and the advice to enter part of the surname because the search has no fuzzy matching. Its statement that no documents are online is not used.
+- **S39:** Дом предков, [«РГВИА. Общая информация, основные документы и поиск»](https://dompredkov.ru/rgvia/), read 2026-11-16. Used for: the four kinds of RGVIA inventory (available remotely in electronic form, mainly for 1914–1920; electronic only in the reading room; paper in the reading room; ordered separately).
+- **S40:** История одной семьи. Юлия Новожилова, [«Как искать предков, живших в городе»](https://dzen.ru/a/XsunerB4IkfKF1Km), a Dzen post dated 31 May 2020 on the captured page, read 2026-11-15 from a captured copy. Used for: city address books giving home addresses as well as shops and businesses, the search by full name, namesakes told apart by address or workplace, and a man living with relatives not listed under his own name. Its pointer to digitised volumes on НЭБ (rusneb.ru) is not used: the site returned HTTP 403 on 2026-11-16.
+- **S41:** Wikipedia (en), [«Ves Peterburg»](https://en.wikipedia.org/wiki/Ves_Peterburg), read 2026-11-16. Used for: publication from 1894, the titles «Весь Петроград» (1914–1923) and «Весь Ленинград» (from 1924), only heads of households listed, and 70% or more of pre-revolutionary residents missing.
+
+Reading an RGVIA inventory miss as a miss in the online inventories only, browsing the fonds that fit the man's service, and searching city directories by full name with a known address are authored synthesis. S38 and S40 are Dzen posts by one genealogist; S39 is a genealogy guide; S41 is a reference work. NOT verified: which RGVIA inventories are online today (the inventory site failed TLS on 2026-11-16) and which St Petersburg directories are digitised.
+
 ## Credits
 
 - J-Roots Forum, beginners' trial-post thread on echoes of family stories — Forum post, all rights reserved by the posters; short quotation for citation (quoted)
@@ -111,7 +118,9 @@ The routes to RGA VMF and the Herold-master's office, looking for a father's lis
 - Уральская генеалогия forum, continuation thread on officials, 2023–2024 — Forum post, all rights reserved by the posters; factual restatement (adapted)
 - Уральская генеалогия forum, thread on a Urals clergy-descended family — Forum post, all rights reserved by the posters; short quotation for citation (quoted)
 - Dzen posts of the channels «Сыщик рода» and «Поиск предков: Тульская губерния» cited as S24, S28, S30, S33 and S34 — Copyright of their authors; short quotation and paraphrase (adapted)
-- Wikipedia articles cited as S25, S31, S32 and S36 — CC BY-SA 4.0; paraphrase (adapted)
+- Dzen posts of the channel «История одной семьи. Юлия Новожилова» cited as S38 and S40 — Copyright of their author; short quotation and paraphrase (adapted)
+- The Дом предков guide to RGVIA cited as S39 — Copyright of its publisher; paraphrase (adapted)
+- Wikipedia articles cited as S25, S31, S32, S36 and S41 — CC BY-SA 4.0; paraphrase (adapted)
 - ВНИИДАД methodical guide as reproduced on familytree.ru, cited as S37 — Copyright of its publisher; paraphrase and short quotation (adapted)
 - Encyclopedia of St Petersburg entry, Г. К. Всеволожский's article, the Помни род database page and the Moscow city news item cited as S26, S27, S29 and S35 — Copyright of their publishers; paraphrase and short quotation (adapted)
 - Kinprove original procedural synthesis drawing on forum threads cited as S1–S13, with the central series checked against the RGIA catalogue and Rosarkhiv's RGVIA guide (S19–S21) — FSL-1.1-MIT (kinprove-original)

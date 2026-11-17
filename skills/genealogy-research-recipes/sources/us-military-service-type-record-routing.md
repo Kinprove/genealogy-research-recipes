@@ -27,6 +27,14 @@ Based on recorded talks (reviewed 2026-10-20). Selected claims were checked on 2
 
 The War of 1812 additions (2026-11-16) are also authored synthesis where they tell the reader what to do: label an online War of 1812 service-record hit as an index entry, treat a Register entry as a derived abstract and follow it to its rolls, search the RG 98 books when the Register is thin, and count a state-roster miss only inside that roster's stated coverage. The coverage and custody statements themselves are attributed to S9–S19 as listed. Reading the Tennessee title as limited to two regiments is an inference from the title.
 
+## Additional sources checked 2026-11-16
+
+- **S20:** [Don’t Stop Digging: Graves Registration Cards, Ohio](https://genealogypants.com/2024/08/14/dont-stop-digging-graves-registration-cards-ohio/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **S21:** [Did MY George Long Serve in the War of 1812?](https://genealogypants.com/2025/07/09/did-my-george-long-serve-in-the-war-of-1812/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **S22:** [Union County, Ohio, Veterans Burial Records](https://www.unioncountyohio.gov/Veterans-Burial-Records), opened 2026-11-16. Read the project history: burial names were crosschecked against war records and local rosters and matches entered on cards. This is a compiled identification process, not independent proof of a particular service attribution.
+- **S23:** [NARA research](https://www.pricegen.com/7512-2/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **S24:** [NARA, Microfilm Publications and Original Records Digitized by Our Digitization Partners](https://www.archives.gov/digitization/digitized-by-partners), opened 2026-11-16. Read the publication-number and partner-link columns and the National Archives Catalog Availability Status column. No provider’s internal identifier search or particular image set was tested.
+
 ## Credits
 
 - Denyse Allen with Aaron McWilliams, All About PA Military Records (YouTube, 2024-07-25), describing the card marking — Source rights reserved (YouTube Standard License); minimal quotation of a record label for identification (quoted)
@@ -34,3 +42,4 @@ The War of 1812 additions (2026-11-16) are also authored synthesis where they te
 - Kinprove original source notes citing NARA (including the Prologue War of 1812 article), PHMC, POWER Library, Kentucky Secretary of State, Ohio History Connection, North Carolina State Archives and Genealogical Publishing Co. — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural synthesis (2026-11-16) of the Just Genealogy talk cited as S9, paraphrased in Kinprove's own wording; the recipe quotes nothing from the talk, and S9's entry quotes only single words to identify statements that were not used — FSL-1.1-MIT (kinprove-original)
 - Kinprove original source notes (2026-11-16) citing NARA (Compiled Military Service Records page, *Prologue* Winter 1991, the Indian scouts page, Guide to Federal Records RG 98), the Library of Virginia, the Kentucky Genealogical Society, the Internet Archive and Wikipedia; publication and collection titles are given for identification — FSL-1.1-MIT (kinprove-original)
+- Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)

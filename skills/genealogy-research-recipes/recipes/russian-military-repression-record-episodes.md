@@ -10,7 +10,7 @@ guardrails: [{"id": "RUSSIAN-MILITARY-REPRESSION-RECORD-EPISODES-01", "text": "a
 handoff: ["chechen-ingush-1944-deportation-records", "evidence-proof-judgment", "galicia-bukovina-habsburg-record-routing", "research-documentation"]
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
 router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 62}
 ---
 
@@ -74,6 +74,18 @@ million POW-file cards for about 3.5 million lower-rank records, so a result set
 of soldiers, residents or families. Do not name the archive behind the POW card file until a card
 or the site states it. [H17], [H18]
 
+Among GWAR's wound material, a genealogist found the notification of a wounded man's admission to a
+lazaret or hospital (отчетно-осведомительная карточка) the most informative card: it gives religion
+and nationality (народность), age or sometimes the birth year, residence, marital status, occupation
+before the war and literacy. Cards on arrival, white for officers and blue for lower ranks, give the
+illness or wound and the place of treatment, and name lists of the wounded give the place of call-up
+or birth, religion and the place of the battle. [H144] Open every card type a search returns for the
+man, not only the first. To find relatives, search the surname with the guberniya, uezd or volost of
+residence or call-up and vary the combinations; a guide advises adding the patronymic and the volost
+for a common surname, and warns that each added field can lose a record whose name or place was
+written wrongly. [H145] Treat the men from the ancestral place as candidate relatives, as the
+genealogist did, and link them only through parish or household records. [H144]
+
 Beyond GWAR, search two name lists for lower ranks and award holders, which a 2023 Dzen guide lists
 among its WWI sites. [H122 @2026-11-15] The СВРТ database (1914.svrt.ru) is built from the published
 alphabetical lists of lower-rank losses held in the Russian State Library; on 2026-11-15 it held
@@ -88,6 +100,16 @@ of mercy assigned to Red Cross, military, public and private hospitals (Petrogra
 compiled from the Main Directorate's records as of 1 August 1915 and open in the Russian State
 Library's digital library. [H123 @2026-11-15] A nurse first assigned after 1 August 1915 cannot
 be in it, so a miss says nothing about later service.
+
+For a Red Army man killed or lost in the Civil War, read the «Именной список потерь на фронтах в
+личном составе рабоче-крестьянской Красной армии за время гражданской войны» (Moscow, Main
+Directorate of the Red Army, 1926, 635 pages), open as a page-by-page scan in the electronic library
+of the State Public Historical Library (ГПИБ). [H147 @2026-11-15] A genealogist reads its entries
+for the full name, the locality the man was a native of («какой местности уроженец», which can be
+his residence or his birthplace), the date and reason he left the unit, and the locality's name as
+of 1 January 1926; the date of leaving the unit is most often the date of death. [H146 @2026-11-15]
+Record the locality as residence or birthplace, unresolved, and the date of leaving as written, not
+as a proven death date.
 
 OBD Memorial returns only records that meet the condition in every filled field, so changing one
 name part at a time misses a card with two variant parts. Test chosen combinations instead, for
@@ -338,6 +360,15 @@ Bakalstroy–Chelyabmetallurgstroy corrective labour camp, with a database searc
 says that documents on service in the labour army are also held by the Information Centre of the
 Interior Ministry's Chelyabinsk oblast directorate. [H111 @2026-11-13]
 
+Do not rule out the labour army because the person was Russian. Besides Soviet Germans and other
+nationalities, ethnic Russians, Ukrainians and Belarusians were mobilised into labour battalions,
+most of them young people who had lived under occupation and were considered unreliable, and freed
+Soviet prisoners of war and Ostarbeiter of call-up age who were found fit for military service were
+also sent to the labour army. [H142] A genealogist's post on wartime labour likewise names returned
+prisoners and Ostarbeiter. [H141] The term «трудовая армия» does not appear in official wartime
+documents, which speak of labour duty and labour reserves [H142], so search for the column, camp,
+construction project or enterprise and the period, not for the word.
+
 Last Address (Последний адрес, poslednyadres.ru) records give the residence, occupation and the
 dates of arrest, execution and rehabilitation. Its search, by surname, given name, birth year,
 city, street and house, covers only records of people sentenced to death, about 400,000 of more than
@@ -453,6 +484,31 @@ could approve, lower or at times raise the recommended award, so a change from t
 is recorded there, not in the proposal. [H25], [H26] On Pamyat Naroda, open every document in the man's
 record group, not only the first hit.
 
+Read the party-membership field (партийность) of an award sheet. The standard form has it beside the
+year of birth and nationality, with entries such as «член ВКП(б) с 1940 г.», «кандидат ВКП(б)», «чл.
+ВЛКСМ» or «беспартийный» («б/п»), though some sheets lack it. [H140] A genealogist learnt from
+Pamyat Naroda documents that a forebear had been a party member before any party papers turned up in
+the family. [H139] Take a member or candidate to the party files in [Soviet personal file
+recovery](soviet-personal-file-recovery.md#3-route-each-institution-to-its-series-and-present-custodian).
+
+**Privacy gate:** <!-- privacy-gate: request --> A TsAMO request for a document known only by its
+locator asks for a serviceman's records and names the family asking; answer the privacy gate in
+`SKILL.md` first.
+
+A Pamyat Naroda entry can give a document's storage place («место хранения»: archive, fond, opis,
+delo) without showing its image. A genealogist met this with political workers' personal cards and
+officers' record cards, and with a unit's name list whose documents were at TsAMO, not on the site.
+[H137], [H136] Copy the locator exactly and recheck the page later. Keep each date with its
+document: in that case the unit's list gave «выбыл из части» on 19 October 1942, other documents
+gave August, and the family remembered a death soon after call-up. [H136] Record «выбыл из части» as
+the date he left the unit's strength, not as a death date, and do not replace a later document date
+with the earliest one.
+
+A May 2026 article says that far from all surviving documents are on Pamyat Naroda, that officers'
+service record cards, though long digitised, are still not open online, and that TsAMO takes
+requests through a form on its website and charges for the result. [H138 @2026-11-16] With the
+user's go-ahead, request the document from TsAMO by its locator.
+
 From 4 June 1944 to 14 September 1957, the Order of the Red Star, the Order of the Red Banner and
 the Order of Lenin were also awarded for long service: the Red Star at 15 years, the Red Banner at
 20 and again at 30, Lenin at 25. The Medal 'For Battle Merit' was awarded at 10 years. The Navy
@@ -526,6 +582,18 @@ state databases. Search moypolk.ru with its own search, not a web search engine
 separately with [evidence/proof judgment](evidence-proof-judgment.md), then seek the original.
 Use only the documents and text on these pages: never compare faces or identify anyone in their photos. The
 pages can name living relatives; keep their details out of shared output.
+
+**Privacy gate:** <!-- privacy-gate: contact --> A message to the keeper of another serviceman's
+memorial page reaches a living person and says which soldier and family you research; answer the
+privacy gate in `SKILL.md` first.
+
+Search these sites for the pages of men from the same unit (однополчане) as well as for the
+relative's own. A genealogist found pages for fellow soldiers of two relatives, reached their
+descendants and received several documents about the relatives. [H143] A news report on the online
+procession of 9 May 2026 describes the same use of the movement's site: contacting the descendants
+of fellow soldiers to find documents or photos that others hold and the family does not. [H148]
+Contact a page's keeper only when the user asks, and only through the portal's own contact route, as
+in [repository photograph collection search](repository-photograph-collection-search.md).
 
 1. Copy the compilation's original source citation and archival locator. For a name collision,
    compare locality, occupation, relatives, unit/camp, case number and event dates. Keep missing

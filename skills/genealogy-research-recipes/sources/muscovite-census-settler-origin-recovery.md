@@ -42,11 +42,22 @@
 
 The rule that a worldly name can give the children's surname while their patronymic follows the baptismal name is drawn from S28's one case; S29 supplies only the general practice of several names.
 
+- **S30:** Википедия (ru), [«Переписные книги»](https://ru.wikipedia.org/wiki/Переписные_книги), read 2026-11-16. Used for: 17th-century descriptions of a taxed household taking in all its males whatever their age, with kinship and ages, and women added only in the 18th century.
+- **S31:** История одной семьи. Юлия Новожилова, [«Из каких переписей населения вы узнаете о своих предках»](https://dzen.ru/a/XmtSXlZi_Fcsbxgs), a Dzen post dated 13 March 2020 on the captured page, read 2026-11-15 from a captured copy. Used for: a 1678 book listing males only, with names written as Мартышка, Якушко and Ивашка. Its statements that the book is a дозорная книга and gives ages only for children are not used.
+- **S32:** Перепись 1710 года (census1710.narod.ru), [«1710 год»](https://census1710.narod.ru/admin.htm), index page, read 2026-11-16. Used for: the eight guberniyas indexed with their census books and summaries. The latest update date it showed was 15.11.2015.
+- **S33:** Перепись 1710 года (census1710.narod.ru), [extract from М. Клочков, «Население России при Петре Великом по переписям того времени», т. 1 (СПб., 1911)](https://census1710.narod.ru/spravka/klochkov.htm), read 2026-11-16. Used for: the Kungur figures by sex, the Kiev table «обоих полов с летами» and a Moscow count of males aged 10 to 60.
+- **S34:** История одной семьи. Юлия Новожилова, [«Перепись 1710 года онлайн»](https://dzen.ru/a/YDoCMC1Obnlxog_W), a Dzen post dated 28 February 2021 on the captured page, read 2026-11-15 from a captured copy. Used for: 1710 entries naming men and women with ages and kinship, sometimes with the place and year a household came from, and the pointer to census1710.narod.ru. Its pointer to rodnaya-vyatka.ru for 1710 material is not used: it was not verified.
+
+The rules on women and diminutive names in 17th-century books and on reading each 1710 book's coverage are authored synthesis from S30 to S34. S31 and S34 are posts by one genealogist about the author's own books; the 1678 diminutives rest on S31's one book.
+
 ## Credits
 
 - Kinprove original procedural synthesis drawing on forum threads cited as S1-S25 — FSL-1.1-MIT (kinprove-original)
 - Dzen post of the channel «Поиск предков: Тульская губерния» cited as S28 — Copyright of its author; short quotation and paraphrase (adapted)
 - Ф. Б. Успенский's chapter cited as S29 — Published scholarship; paraphrase of its abstract (adapted)
+- Dzen posts of the channel «История одной семьи. Юлия Новожилова» cited as S31 and S34 — Copyright of their author; short quotation and paraphrase (adapted)
+- Wikipedia article cited as S30 — CC BY-SA 4.0; paraphrase (adapted)
+- The census1710.narod.ru index and its extract from Klochkov's 1911 study, cited as S32 and S33 — Index data and public-domain scholarship as reproduced; short quotation and paraphrase (adapted)
 - Uralskaya genealogiya forum (rodgersforum), thread on a family of the Beloyarsk area and Chumlyak sloboda — Unspecified forum-post terms; paraphrased with attribution (adapted)
 - Uralskaya genealogiya forum (rodgersforum), thread on a family from Cheremisskoe with origin-resolution discussion — Unspecified forum-post terms; paraphrased with attribution, with a brief quotation of archival wording for identification (adapted)
 - Uralskaya genealogiya forum (rodgersforum), thread on the Kamensk works and Kamenskaya sloboda with 1719-1720 census headings — Unspecified forum-post terms; brief quotation of archival wording for identification (quoted)

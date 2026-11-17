@@ -34,6 +34,8 @@ Record each of these as its own field: townland, civil parish, Roman Catholic pa
 - **Barony.** A barony name may also appear as the name of another unit with different boundaries. The presenter's example is Duhallow. Do not assume the matching unit is the same place. [S3]
 - **Townland.** Never identify a townland from its name alone. Townland names repeat across Ireland, sometimes within one county. Accept a townland only if it appears in the townland list of the parish you already support. Otherwise, record it as unresolved. [S3]
 
+On the documented townland’s Townlands.ie page, copy the listed electoral division, civil parish, barony and county into separate fields [S16 @2026-11-16]. Follow the [Irish census recipe](irish-1901-1911-census-returns.md) for census searching. Only a transcript excerpt was inspected for the video’s place-name suggestion [S21 @2026-11-16].
+
 ## 2. Identify the registration district
 
 The registration district is the key field for a civil search. The district named in the indexes is the superintendent registrar's district, which has the same boundaries as the poor law union. [S1] Registrars' (dispensary) districts are smaller subdivisions of it. Do not put a registrar's district name in the district field. Get the district in one of two ways:
@@ -42,6 +44,8 @@ The registration district is the key field for a civil search. The district name
 - **From the event's townland or parish.** Use a townland database or a genealogical atlas. Brian Mitchell's *A New Genealogical Atlas of Ireland* (2nd edition) maps poor law unions alongside civil parishes, Catholic parishes and baronies. Either route requires a supported townland or parish first. [S1]
 
 Record the district under its own name, separately from the parish and town fields. In the presenter's example, a Findmypast index hit for 1871 gave Kilrush as the district. He then searched the civil records on IrishGenealogy.ie by name, district, year and event type, passed the CAPTCHA, and opened the register image. [S1]
+
+Search relevant O’ and Mac surnames with and without their prefix. Matheson recorded prefixed and unprefixed forms in the same record [S18]. Log each form separately and compare the person, place and event before linking hits [S23].
 
 ## 3. Carry the index locator to the certificate
 
@@ -66,6 +70,14 @@ Where the actual search expands name variants only for the primary party and tre
 **Northern Ireland after 1921.** IrishGenealogy.ie holds no Northern Ireland civil records after 1921, so a nil result there is not a negative search. [S1] The presenter described FamilySearch films of Northern Ireland indexes and certificate images for 1922–1959 as restricted. Record that as an access status, not as "no record". [S1] Search GRONI (General Register Office Northern Ireland) instead. It holds the registrations for what is now Northern Ireland from the start, births and deaths from 1864 and marriages from 1845 (non-Catholic) and 1864 (all), so it also covers six-county events before 1922. [S7] GRONI Online shows births over 100 years old, marriages over 75 and deaths over 50. [S6] Its free name search shows only how many matches exist. Viewing results needs an account holding credits (£0.50 each): the basic index is then free, the enhanced index costs 1 credit and the full entry or register image 5 credits, as of 7 November 2026. [S9]
 
 **Privacy gate:** <!-- privacy-gate: request --> An entry younger than those limits can name people who may be living; answer the privacy gate in `SKILL.md` before viewing or ordering one. For a later entry, book GRONI's Public Search Room in Belfast, which shows records up to the present at the same credit prices, or order a certificate. [S6], [S9] PRONI's search room also has GRONI terminals for the indexes and some scanned certificates. [S10]
+
+### Read the index fields and reconcile date statements
+
+Record a nineteenth-century Irish marriage’s "full age" as the reported status of 21 or over, retaining the literal wording. The CSO describes full-age/minor entries in the 1864 registers [S14], and the historical full-age threshold was 21 [S15]. Use it as a reported lower bound, not an exact age or calculated birth year [S20].
+
+When a birth-index entry supplies the mother’s maiden surname, search the two parents’ surnames with the district and date range for other children. IrishGenealogy’s learning module demonstrates this search [S17]. Compare the parents and residence on each candidate’s register image before grouping the children, and leave the maiden-name field unrestricted when the index does not supply it. Only a transcript excerpt was inspected for the video’s search suggestion [S22].
+
+When the civil birth date is later than a baptism attributed to the same child, retain both dates and the registration date. Establish the child’s identity and check the dates of both events. An established baptism date gives a latest possible birth date; a later civil birth date conflicts with that bound. Santry discusses parents declaring a later birth to avoid a late-registration fine [S19]; keep that as a possible explanation, not a motive proved for this family. Do not turn the baptism date into the birth date [S20].
 
 ## 4. Check where non-Catholic registers survive before choosing a route
 

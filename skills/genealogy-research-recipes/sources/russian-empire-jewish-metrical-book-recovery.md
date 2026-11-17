@@ -35,6 +35,16 @@ S15 is a vendor's announcement post, cited as the community source for the Odesa
 - **S17:** JewishGen Ukraine Research Division, ["Project: Data Acquisition and Translation for Birth, Marriage, Death Record, 1894-1902, Odessa"](https://www.jewishgen.org/ukraine/RES_Project.asp?id=625), no last-updated date shown, read 2026-11-16. Used for: indexes to the Odessa birth, marriage and death books that "contain the given name, surname, year and month of event and the location in the actual birth records book"; and "Translations submitted to JewishGen for Odessa birth indexes: 56,029 lines from 1878-1889, 1891, 1894, 1896-1897, 1900." The project is shown as in progress. Its per-year list of completed birth indexes omits 1882, which the summary range includes. Rights: rights retained by JewishGen; paraphrased, with short quotations.
 - **S18:** JewishGen Ukraine Research Division, ["Rabbinate Records, Fond 39, Odessa City"](https://www.jewishgen.org/ukraine/RES_collection.asp?id=1346), catalogue-of-holdings entry, read 2026-11-16. Used for: fond 39 holding 449 files for 1846–1920, with records for 1875–1919 "completely intact" and only births surviving for 1920. This is JewishGen's description of the Odessa State Archives' holdings, not the archive's own catalogue. Rights: rights retained by JewishGen; paraphrased.
 
+### Sources added 2026-11-17
+
+S19 and S22 are posts on the Dzen channel «История одной семьи. Юлия Новожилова», read on 2026-11-15 from copies captured that day, without their images; they report the author's own requests and readings. The other sources were opened on 2026-11-16.
+
+- **S19:** Dzen channel «История одной семьи. Юлия Новожилова», [«Кратко о метрической книге»](https://dzen.ru/a/XZw0KoYA4QCtcuPI), published 2019-10-08, read 2026-11-15 from a captured copy. Used for: reasons for divorce quoted from Jewish metrical books. Its statement that the obligations column of Jewish marriage entries can give a dowry of 100–200 «золотых» is not used: no source opened here supports it for Russian-Empire books.
+- **S20:** BYU Script Tutorial, [«Divorces»](https://script.byu.edu/russian-handwriting/documents/record-types/metrical-books/divorces), read 2026-11-16. Used for: divorces as the third part of non-Christian metrical books, and the column headings of the Jewish divorce form.
+- **S21:** BYU Script Tutorial, [«Marriages»](https://script.byu.edu/russian-handwriting/documents/record-types/metrical-books/marriages), read 2026-11-16. Used for: the Jewish marriage form's column «Главные акты или записи и обязательства между вступающими в брак и свидетели оных».
+- **S22:** Dzen channel «История одной семьи. Юлия Новожилова», [«Как подтвердить родство в ЗАГС»](https://dzen.ru/a/Zk2GcLbGFxoJ8zIl), published 2024-05-31, read 2026-11-15 from a captured copy. Used for: the oblast archive issuing a certificate from a transferred act book without proof of kinship, and ZAGS requiring the whole chain of kinship. Its fixed cut-off of 1925 is not used; the term moves each year (S13).
+- **S23:** Законы РФ (zakonrf.info), [Федеральный закон «Об архивном деле в Российской Федерации» № 125-ФЗ, ст. 25](https://www.zakonrf.info/doc-13407995/gl6-st25/), edition of 13.12.2024, read 2026-11-16. Used for: art. 25, part 3, restricting access to archival documents with information on personal and family secrets and private life for 75 years from their creation, and earlier lifting only with the written permission of the person or the heirs.
+
 ## Credits
 
 - J-Roots Forum, thread on the National Historical Archive of Belarus (NIAB) and its fonds — Forum post content, rights retained by the original authors; brief attributed paraphrase (adapted)
@@ -47,3 +57,6 @@ S15 is a vendor's announcement post, cited as the community source for the Odesa
 - Dzen channel «Сыщик рода» post cited as S14 — Copyright of its author; short paraphrase (adapted)
 - MyHeritage Blog post and MyHeritage Wiki page cited as S15 and S16 — Copyright of MyHeritage; brief attributed paraphrase and short quotations (adapted)
 - JewishGen Ukraine Research Division project and collection pages cited as S17 and S18 — Rights retained by JewishGen; brief attributed paraphrase and short quotations (adapted)
+- Dzen posts of the channel «История одной семьи. Юлия Новожилова» cited as S19 and S22 — Copyright of their author; short quotation and paraphrase (adapted)
+- BYU Script Tutorial pages cited as S20 and S21 — Copyright of Brigham Young University; short quotation of form headings (adapted)
+- The text of Federal Law 125-FZ as reproduced by zakonrf.info, cited as S23 — Public domain (official text); paraphrase (adapted)

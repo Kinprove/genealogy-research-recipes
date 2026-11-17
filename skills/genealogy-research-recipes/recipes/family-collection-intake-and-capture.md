@@ -10,7 +10,7 @@ guardrails: [{"id": "FAMILY-COLLECTION-INTAKE-AND-CAPTURE-01", "text": "The comm
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": ["contact"]}
 router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 150}
 ---
 
@@ -86,6 +86,8 @@ If suitable capture is unavailable, leave an explicit next action. Do not mail o
 
 For loose photographs you can safely reach, capture front and reverse and bind both to one object reference. Copy inscriptions literally and keep them separate from your interpretation. Mark each side as missing (not present), uninspected (reachable but not yet examined) or inaccessible (reachable only by intervention). For an album whose items are stuck down, such as a magnetic album, capture the whole page rather than lifting items, and keep that full page beside any individual crop. Save the last item or page actually completed, and the views still remaining, so another session can resume [S3], [S4].
 
+For an undated newspaper clipping, capture the reverse even when its text concerns another person or event. Use reverse-side headlines and advertisements to search for candidate issues. Log that as a lead, search for the complete issue and test the date against independent records; an event mentioned on the reverse is not automatically the clipping's publication date [S31](https://genealogytipoftheday.com/index.php/2022/09/20/flipping-over-clippings-in-books/), [S32](https://threadingneedlesinahaystack.blogspot.com/2008/02/genealogical-mystery-when-did-john.html).
+
 ## Keep received files, derivatives and versions apart
 
 Keep the full initial capture or received file. Make crops, resized copies and edits as separate derivatives. If a supplied image is already enhanced or cropped, describe it as received; do not claim that an untouched master exists. Record the source and role of each file. A new format extension cannot recover detail that the input lacks [S2]. An authored display or scrapbook page is also a derivative. It does not replace the source photograph, and it does not establish who is depicted.
@@ -93,6 +95,10 @@ Keep the full initial capture or received file. Make crops, resized copies and e
 If an original has been restored, damaged or otherwise altered, ask whether photographs or scans exist from before that change, as well as after it. Record each copy as a separate version, with its date, its maker, and whether it was made before or after the change. Do not treat the current poor image as the document itself [S7].
 
 Treat date, author, location or contact values embedded in a received scan as assertions by whoever digitized or later edited it [S8]. Record who set them, when known, and their basis, such as whether a date is an estimate, beside the original's inscriptions before using them as the photograph's creation date or maker.
+
+**Privacy gate:** <!-- privacy-gate: publish --> A captioned sharing copy shows everyone it reaches a photograph together with the name of a person who may still be living, so answer the privacy gate in `SKILL.md` before the captioned copy is shared.
+
+When a sharing copy needs an identification that remains visible without a metadata viewer, create a separate derivative with a caption strip outside the original picture area. Include the stable item reference and the attributed identification, with uncertainty visible. Retain the unaltered master and metadata/sidecar; label the captioned copy as a derivative and check the copy actually delivered. Visible annotation supplements the provenance record rather than replacing it [S33](https://genealogytipoftheday.com/index.php/2025/09/28/thoughts-on-the-stuff-i-have-in-my-totes/), [S34](https://rideau-info.com/photos/genealogy-captioning.html).
 
 ## Bind the parts of an oversized item
 

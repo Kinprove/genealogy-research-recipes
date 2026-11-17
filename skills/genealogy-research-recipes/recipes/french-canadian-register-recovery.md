@@ -62,6 +62,8 @@ resources. [S1]
 A hit under a variant only makes that record a candidate. Do not merge candidates because a dit
 name or given name matches.
 
+- **Translated surname.** For a family crossing from a French-speaking to an English-speaking area, search a documented English equivalent as well. Greater Sudbury Archives lists Leblanc/White [S11]; compare connecting relatives or residences before joining the hits. Only a transcript excerpt was inspected for the video’s search suggestion [S12].
+
 ## Join variants through documented ties, starting with the sacramental entries
 
 The presenter treats the baptism, marriage and burial entries as often the only way to show that

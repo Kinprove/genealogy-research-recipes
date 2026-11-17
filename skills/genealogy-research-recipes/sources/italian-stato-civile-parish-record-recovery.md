@@ -29,6 +29,13 @@ The decision order, the register-by-state table, the coverage-gap checklist, the
 - **S23:** Normattiva, [R.D. 24 settembre 1923 n. 2013, original text](https://www.normattiva.it/eli/id/1923/10/04/023U2013/ORIGINAL), read 2026-11-13. Used for: R.D. 15 November 1865 n. 2602 extended from 1 January 1924 to the territories annexed after the First World War.
 - **S24:** Portale Antenati, [Richieste di certificati](https://antenati.cultura.gov.it/il-portale/richieste-di-certificati/), read 2026-11-13 in a web browser. Used for: documents found on the portal having no legal value and not usable for legal or administrative purposes, in particular citizenship requests; Army service sheets not yet transferred to the State Archives held by the Centri documentali (former Distretti Militari), with other offices for the Navy, Air Force and Carabinieri.
 
+### Additional sources checked 2026-11-16
+
+- **S25:** Price Genealogy, [Romantic Italian Weddings – Why Research Italian Marriage Records?](https://www.pricegen.com/romantic-italian-weddings-why-research-marriage-records/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
+
+- **S26:** Piedmont Families Organization, [About the Waldensian Languages](https://www.waldensian.info/language.htm). Passage read 2026-11-16. Used for: The project’s explanation of its 1645 notarial abstract distinguishes fu before a parent’s name as indicating that the parent was deceased, rather than translating it as a verb. Only that factual reading is used; its abstract is not reproduced.
+
 ## Credits
 
 - Kinprove original procedural synthesis; civil-registration dates, decrees, series names, custody and portal origin checked against Italian State Archive pages, Ministero della Cultura pages, Normattiva legal texts, Regione Veneto, Provincia di Trento, BeWeB, a Soprintendenza parish-archive inventory, comune archive pages and Portale Antenati pages cited as S1 to S24 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)

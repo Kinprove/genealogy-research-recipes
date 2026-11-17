@@ -40,6 +40,13 @@ The spoken wording of [S25] and [S28] is known only from a community transcript 
 - the case outcomes in [S5], [S6], [S7] and [S10]
 - the current recording-consent law of any particular state or country, and whether a given use of a recording falls within the personal or household exemption; [S16] and [S17] are general summaries, and [S17] predates later UK changes
 
+## Additional sources checked 2026-11-16
+
+- **S30:** [Out of Order](https://genealogytipoftheday.com/index.php/2025/06/11/out-of-order-3/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **S31:** [History Matters: Interpreting oral history](https://historymatters.gmu.edu/mse/oral/interpret.html), opened 2026-11-16. The scholarly guide discusses memory, conflated events and comparison with other interviews and documentary evidence; it does not rank sequence as universally least reliable.
+- **S32:** [Finding Family Overseas: A Guide to Hiring Local Experts Insights from 50 Years of Professional Genealogy](https://www.pricegen.com/finding-family-overseas-a-guide-to-hiring-local-experts-insights-from-50-years-of-professional-genealogy/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
+- **S33:** [FamilySearch oral histories project, historical report](https://philanthropies.churchofjesuschrist.org/church-general-fund/church-general-fund-news-and-features/news-features/oral-histories-project-saving-families/), opened 2026-11-16. The February 2019 report dates Pacific collection to the 1960s and Southeast Asian expansion to the 1980s and describes African work at that time. It establishes neither current catalogue coverage nor access to a particular recording.
+
 ## Credits
 
 - MyHeritage / Daniel Horowitz, Recording Memories on the MyHeritage Mobile App, YouTube, 2022-07-20 — Standard YouTube License (all rights reserved); short attributed adaptation (adapted)
@@ -51,3 +58,4 @@ The spoken wording of [S25] and [S28] is known only from a community transcript 
 - Just Genealogy, How to Make a Living at Genealogy - Becoming A Researcher - JG0043, YouTube, 2022-04-23 — Standard YouTube License (all rights reserved); short attributed adaptation (adapted)
 - Elizabeth F. Ellet, The Women of the American Revolution, vol. 3, Baker and Scribner, 1850 — public domain (published 1850); brief attributed quotations (quoted)
 - Kinprove original procedural synthesis; presenter examples and guidance paraphrased with attribution and cited as S1-S29 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)

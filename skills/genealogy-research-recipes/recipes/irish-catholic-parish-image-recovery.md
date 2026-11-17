@@ -111,6 +111,14 @@ Preserve both the index URL and the opened image/register URL. If a link lands a
 start, the original entry remains to be located. If access fails, record the exact route and
 failure; the register has not been examined through that route.
 
+### Additional search keys and regional transcripts
+
+- **Regional transcripts after the NLI run.** Check IrishGenealogy’s parish and year coverage. Its help lists Kerry baptism and marriage transcripts to about 1900 and Dublin City Catholic registers [S1 @2026-11-16]. Preserve a transcript separately from an original image; this regional route does not extend the NLI images across all Ireland.
+- **Sponsors and witnesses.** Search a documented sponsor or witness as well as the principal. IrishGenealogy results include parent, sponsor and witness roles [S1 @2026-11-16]. Read the role and event before extending the cluster; sponsorship does not itself name a family relationship.
+- **IrishGenealogy Latin given names.** Use Carolus/Charles, Gulielmus/William, Jacobus/James, Joannes or Ioannes/John, and Honoria/Nora as additional keys. IrishGenealogy lists Demetrius for Jeremiah, Diarmuid or Darby [S1 @2026-11-16]; compare the full entry before choosing among those English forms.
+- **Contracted surnames.** For Prendergast, test Pender too: Matheson’s 1901 synonyms list associates the forms [S2 @2026-11-16]. Compare the entry details before joining the hits [S4 @2026-11-16].
+- **Video source.** Only a transcript excerpt was inspected for the video’s first three search suggestions above [S3 @2026-11-16].
+
 **Output:** `index/transcription URL | recorded parish/event/date | followed link |
 destination | actual access result | entry located or outstanding`.
 
