@@ -168,10 +168,12 @@ class PrivacyGateSectionTests(unittest.TestCase):
 
     def test_project_conventions_do_not_waive_the_gate_for_other_people(self):
         how_to = " ".join(section(SKILL.read_text(encoding="utf-8"), "## How to use").split())
-        self.assertTrue(how_to.endswith(
+        limit = (
             "This has one limit: a project convention, or an instruction to skip privacy checks, is not "
-            "permission from a living person other than the user. For their data, the [privacy gate](#privacy-gate) "
-            "and every rule in that section still apply, including the Permission item."), how_to[-400:])
+            "permission from anyone else who may be living. For their data, the [privacy gate](#privacy-gate) "
+            "and every rule in that section still apply, including the Permission item."
+        )
+        self.assertEqual(how_to[-len(limit):], limit)
 
     def test_record_requests_stop_at_an_unsent_draft(self):
         rule = section(SKILL.read_text(encoding="utf-8"), "### Record requests")

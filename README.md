@@ -344,10 +344,9 @@ read your own Kinprove matches and projects.
 
 ## Who publishes this
 
-Kinprove Ltd publishes these recipes and runs [kinprove.io](https://kinprove.io). It is a private
-company limited by shares, registered in Ireland under company number 826270; the
-[Kinprove terms](https://kinprove.io/terms) give its registered office. Contact:
-<hola@kinprove.io>.
+Kinprove Ltd, registered in Ireland under company number 826270, publishes these recipes and runs
+[kinprove.io](https://kinprove.io). Its registered office is in the
+[Kinprove privacy policy](https://kinprove.io/privacy). Contact: <hola@kinprove.io>.
 
 ## Contributing and reporting problems
 
