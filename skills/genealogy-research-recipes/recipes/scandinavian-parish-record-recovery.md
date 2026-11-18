@@ -223,7 +223,7 @@ This route leaves unverified holdings, unindexed fields and Finnish bulletin cov
   - Sweden: bouppteckningar from before 1980 are in the archives of the tingsrätt (district court) and of its predecessors: the rådhusrätt (town court), the domsaga and the häradsrätt (rural district court). Riksarkivet supplies inventories drawn up up to 30 June 2001. [S8 @2026-11-16]
   - Norway: death and probate records are in the archive of the sorenskriver (rural district judge) or, for a town, the byfogd (town judge). [S19 @2026-11-16] On Digitalarkivet, for example, Mandal sorenskriveri's skifteprotokoller (probate journals) sit under that archive, in the series *Dødsfall og skifte*. [S9 @2026-11-16] Some newer death and probate material has access restrictions. [S19 @2026-11-16]
 
-For a Danish probate, choose the authority by the deceased's status and the date of death with [Danish church books and probate](danish-church-book-probate-recovery.md#route-a-probate-by-status-and-date).
+For a Danish probate, use [Danish church books and probate](danish-church-book-probate-recovery.md#route-a-probate-by-status-and-date).
 
 **Poll-tax scans and coverage.** Riksarkivet's database page gives 15–62 for everyone able to work, without naming a period. [S29 @2026-11-13] Before you read an adult's absence from a mantalslängd as a negative, check that year's age range. Riksarkivet has scanned the mantalslängder of the whole of Sweden for 1642–1820 and indexed them by parish. Some volumes were not scanned. The regional archives (landsarkiv) keep other copies, not scanned, which may hold years missing from the scans. [S29]
 

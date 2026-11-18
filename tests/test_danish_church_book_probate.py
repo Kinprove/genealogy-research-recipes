@@ -2,8 +2,8 @@
 
 A model answering without the recipe invented the duplicate-register system, searched the church
 book first for a South Jutland birth after 1874, and misdated civil marriage. Each test reads one
-paragraph or bullet and checks that the event or class of person, the period and the authority or
-register appear together there, so swapping two authorities while keeping every word and year
+paragraph or bullet, or the opening of a section, and checks that the event or class of person, the
+period and the authority or register appear together there, so swapping two authorities while keeping every word and year
 still fails.
 """
 
@@ -57,8 +57,7 @@ class ChurchBookTests(unittest.TestCase):
         self.assertIn("confirmations (from 1736)", text)
 
     def test_other_copy_rule(self):
-        self.assertTrue(passage("When an entry is missing, damaged or unreadable in one copy").startswith(
-            "When an entry is missing, damaged or unreadable in one copy, read the same event in the other copy."))
+        passage("When an entry is missing, damaged or unreadable in one copy, read the same event in the other copy.")
 
 
 class CivilMarriageTests(unittest.TestCase):
@@ -101,7 +100,7 @@ class SouthJutlandTests(unittest.TestCase):
 
     def test_church_weddings_return_in_1926(self):
         text = passage("From 1926 priests again married couples")
-        self.assertIn("church weddings were entered as in the rest of the country, while births and deaths "
+        self.assertIn("marriages were again entered as in the rest of the country, while births and deaths "
                       "stayed in the personregistre", text)
 
     def test_route_grid_by_event_and_date(self):
@@ -117,7 +116,7 @@ class SouthJutlandTests(unittest.TestCase):
             "- **Probates up to 1920, ordinary or private:**": "start with the Register over sønderjyske skifter op "
                                                                "til 1920",
             "- **Probates after 1920:**": "use the general probate routes",
-            "- **Soldiers and officers before 1864:**": "the Schleswig and Holstein regiments stayed with their "
+            "- **Soldiers, officers and their families in South Jutland before 1864:**": "the Schleswig and Holstein regiments stayed with their "
                                                          "auditors until 1864",
         }
         for start, route in rows.items():
@@ -126,7 +125,7 @@ class SouthJutlandTests(unittest.TestCase):
 
     def test_south_jutland_probate_authorities(self):
         self.assertIn("the herredsfoged or birkefoged in the countryside and the byfoged in towns before 1864, none "
-                      "named for 1864–1866, and the Prussian district courts (amtsretter) for 1867–1920",
+                      "named for 1864–1866 (see the rule below), and the Prussian district courts (amtsretter) for 1867–1920",
                       passage("- **Probates up to 1920, ordinary or private:**"))
 
 
@@ -146,8 +145,7 @@ class ProbateTests(unittest.TestCase):
         self.assertIn("the amt before 1793, then the herredsfoged or birk until 1851.", text)
 
     def test_status_decides_before_1851(self):
-        self.assertIn("Until 1851 the deceased's status decided which authority held the probate.",
-                      passage("Until 1851 the deceased's status"))
+        passage("Until 1851 the deceased's status decided which authority held the probate.")
 
     def test_military_families_go_to_the_auditor(self):
         text = passage("- **Soldiers, officers and their families before 1864:**")

@@ -44,7 +44,7 @@ For each event date, write down the parish, the market town or herred or birk, t
 
 If the place is in South Jutland, read the South Jutland section first: it says which routes in this section apply there.
 
-Rigsarkivet's guide also says special rules apply to the church books of recognised faith communities (anerkendte trossamfund), which have a guide of their own. [S1]
+Rigsarkivet's guide says special rules apply to the church books of recognised faith communities (anerkendte trossamfund), which have a guide of their own. [S1]
 
 Royal letters of 1645 and 1646 ordered priests throughout the country to register baptisms, betrothals or marriages, and deaths, but far from every parish has a church book from the 1600s. [S1]
 
@@ -72,7 +72,7 @@ Before 1851 only a priest could marry a couple. From 1851 civil marriage was all
 
 Civil marriages are filed under the civil authority, not the parish. For 1851–1919 look under the byfoged, herredsfoged or birk, in the marriage book (ægteskabsbog or ægteskabsprotokol) or, where none was kept, the notarial protocol (notarialprotokol). For 1919–1922 look under the police district in the countryside and the town council (kommune) in market towns. For 1923–1970 look under the sognefoged (parish bailiff) in the countryside and the market-town council in towns, starting from the register to the marriage book. From 1971 look under the kommune; those books are not scanned. [S3 @2026-11-18]
 
-In Copenhagen the 1851–1922 originals are at Københavns Stadsarkiv, and the 1923–1970 marriage books are scanned under Københavns kommune. In South Jutland every marriage from 1874 to 1925 is in the civil registers (personregistre). [S3 @2026-11-18]
+In Copenhagen the 1851–1922 originals are at Københavns Stadsarkiv, and the 1923–1970 marriage books are scanned under Københavns kommune. [S3 @2026-11-18]
 
 Rigsarkivet says a civil marriage is often noted at the back of the church book, up to 1922 in the bride's parish, and that in some market towns civil marriages are found in the magistrate or town-hall archives. [S3 @2026-11-18] Check both before you call a marriage missing.
 
@@ -80,26 +80,28 @@ Rigsarkivet says a civil marriage is often noted at the back of the church book,
 
 South Jutland's church books reach back further than the rest of the country's: the oldest is from 1573. Fixed forms began there in 1763, and from 1775 the books were to be kept in two copies. [S4] Do not apply the dates for the rest of the country there.
 
+The other-copy rule applies to the two copies kept there from 1775.
+
 After South Jutland became part of Prussia in 1864, civil registration of births, marriages and deaths began in 1874, kept by the Standesamt (in Danish, personregister) under a registrar (personregisterfører). Rigsarkivet calls the church books for 1874–1925 secondary sources. The personregister covered births, marriages and deaths; confirmations stayed in the church book. [S4] For a South Jutland birth, marriage or death in 1874–1925, search the personregister first, then the church book.
 
-From 1926 priests again married couples, and church weddings were entered as in the rest of the country, while births and deaths stayed in the personregistre. [S4]
+From 1926 priests again married couples, and marriages were again entered as in the rest of the country, while births and deaths stayed in the personregistre. [S4]
 
 Route each South Jutland search by event and date:
 
 - **Births and deaths:** the church book before 1874; the personregister first for 1874–1925, with the church book as a secondary source; from 1926 the guide gives both the personregister and the church book. [S4 @2026-11-18]
-- **Confirmations:** the church book in every period; the personregistre cover only births, marriages and deaths. [S4 @2026-11-18]
+- **Confirmations:** the church book in every period. [S4 @2026-11-18]
 - **Marriages before 1874:** the church book; the guide names no civil-marriage route for South Jutland before 1874. [S3 @2026-11-18], [S4 @2026-11-18]
 - **Marriages in 1874–1925:** the civil registers (personregistre), which hold every marriage of those years; the church book is secondary. [S3 @2026-11-18], [S4 @2026-11-18]
 - **Marriages from 1926:** a church wedding in the church book; Rigsarkivet says marriages were then entered as in the rest of the country, so a civil wedding follows the general civil-marriage routes. [S4 @2026-11-18]
-- **Probates up to 1920, ordinary or private:** start with the Register over sønderjyske skifter op til 1920 (below), where the guide says all probates are entered; then the authority for the date: the herredsfoged or birkefoged in the countryside and the byfoged in towns before 1864, none named for 1864–1866, and the Prussian district courts (amtsretter) for 1867–1920. The guide names no other South Jutland authority for ordinary or private probates, so do not apply the status routes for the rest of Denmark there. [S5 @2026-11-18]
+- **Probates up to 1920, ordinary or private:** start with the Register over sønderjyske skifter op til 1920 (below); then the authority for the date: the herredsfoged or birkefoged in the countryside and the byfoged in towns before 1864, none named for 1864–1866 (see the rule below), and the Prussian district courts (amtsretter) for 1867–1920. The guide names no other South Jutland authority for ordinary or private probates, so do not apply the rest of Denmark's status and group routes there, except the army rule below. [S5 @2026-11-18]
 - **Probates after 1920:** the guide's South Jutland rules stop at 1920, so use the general probate routes. [S5 @2026-11-18]
-- **Soldiers and officers before 1864:** also check the army rule in the probate section; the Schleswig and Holstein regiments stayed with their auditors until 1864. [S7 @2026-11-18]
+- **Soldiers, officers and their families in South Jutland before 1864:** also check the army rule in the probate section; the Schleswig and Holstein regiments stayed with their auditors until 1864. [S7 @2026-11-18]
 
 Before 1874 the parish's hovedministerialbog or kontraministerialbog is scanned on Arkivalieronline. The personregistre are scanned on Arkivalieronline by registration district, which is roughly the parish, up to 1960/61, and the 1926–1960/61 church books are scanned as kontraministerialbøger. For 1960/61–1973, deaths are online up to about 1970, and the rest is ordered through Søg i Samlingerne for the reading room in Aabenraa. Rigsarkivet's guide gives separate routes from 1974. [S4 @2026-11-18]
 
-Private probate was easier to arrange in Schleswig, so fewer probates survive than elsewhere in Denmark. Rigsarkivet's index to South Jutland probates up to 1920 is the Register over sønderjyske skifter op til 1920 in DDD; it says all probates are entered there with the series and the protocol page. [S5 @2026-11-18] If the register gives no authority for a probate from 1864–1866, treat its route as unresolved rather than following another period's route.
+Private probate was easier to arrange in Schleswig, so fewer probates survive than elsewhere in Denmark. Rigsarkivet's index to South Jutland probates up to 1920 is the Register over sønderjyske skifter op til 1920 in DDD; the guide says all probates are entered there with the series and the protocol page. [S5 @2026-11-18] If the register gives no authority for a probate from 1864–1866, treat its route as unresolved rather than following another period's route.
 
-The register's search page answered on 18 November 2026. [S10 @2026-11-18] Rigsarkivet is phasing DDD out, is moving its data to Søg i Samlingerne and warns that DDD searches may fail. [S9 @2026-11-18] If the DDD search fails or the register has gone, try Søg i Samlingerne, and record the probate search as incomplete. Record an empty result as no hit in that index, not as proof that no probate was held.
+The register's search page answered on 18 November 2026. [S10 @2026-11-18] Rigsarkivet is phasing DDD out, is moving its data to Søg i Samlingerne and warns that DDD searches may fail. [S9 @2026-11-18] If the DDD search fails or the register has gone, try Søg i Samlingerne, and record the probate search as incomplete. Record an empty result as a nil for that index only, not as proof that no probate was held.
 
 ## Route a probate by status and date
 
@@ -132,11 +134,11 @@ Some groups had their own probate authority:
 ## Combine the sources into one household
 
 1. Start from the census that shows the household, and note each person's age, birthplace and position in it. For census coverage and transcriptions, use [Denmark: go beyond the church books](scandinavian-patronymic-farm-name-record-recovery.md#denmark-go-beyond-the-church-books).
-2. Take each birth, marriage and death to the register that its place, date and event type require, using the church-book, civil-marriage and South Jutland sections above. Where a church book has two copies, read both. Use confirmations to tie a child to a later adult, and burials to close each life.
-3. For a man between censuses, follow the levying rolls described in that same section.
+2. Take each birth, marriage and death to the register that its place, date and event type require, using the church-book, civil-marriage and South Jutland sections above. When an entry is missing, damaged or unreadable in one copy, read the other copy. Use confirmations to tie a child to a later adult, and burials to close each life.
+3. For a man between censuses, follow the levying rolls in [Denmark: go beyond the church books](scandinavian-patronymic-farm-name-record-recovery.md#denmark-go-beyond-the-church-books).
 4. For each death, establish the deceased's status, residence and date, and route the probate with the section above. Use the heirs it names to confirm the children, their spouses and their places.
 5. When a person leaves the parish, check the moves lists where the parish kept them, the next census's birthplace and the probate heirs' residences before you call the person lost.
 
 ## Close with a household packet
 
-For each person, record the parish and its herred, birk or amt on each event date; each church-book entry with the book or copy (enesteministerialbog, hovedministerialbog or kontraministerialbog), year, page and event type; any civil-marriage or personregister entry; the probate authority, series and protocol page or case number; and each search that found nothing, with the copy, years and series searched. Record a search of withheld, blurred, unscanned or failed material as incomplete, and keep "nil" for a completed search of named material.
+For each person, record the parish and its market town, herred or birk, amt and, for a tenant, the estate on each event date; each church-book entry with the book or copy (enesteministerialbog, hovedministerialbog or kontraministerialbog), year, page and event type; any civil-marriage or personregister entry; the probate authority, series and protocol page or case number; and each search that found nothing, with the copy, years and series searched. Record a search of withheld, blurred, unscanned or failed material as incomplete, and keep "nil" for a completed search of named material.
