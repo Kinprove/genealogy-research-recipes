@@ -72,6 +72,8 @@ If the place is in South Jutland, read the South Jutland section first: it says 
 
 Before 1851 only a priest could marry a couple. From 1851 civil marriage was allowed when one or both partners belonged to no recognised faith, or when the two belonged to different faiths; from 1923 anyone could choose it. [S3]
 
+**Privacy gate:** <!-- privacy-gate: request --> A civil marriage book can name people who may be living; unless the entry concerns only people known to be dead, answer the privacy gate in `SKILL.md` before you order it for the reading room.
+
 Civil marriages are filed under the civil authority, not the parish. For 1851–1919 look under the byfoged, herredsfoged or birk, in the marriage book (ægteskabsbog or ægteskabsprotokol) or, where none was kept, the notarial protocol (notarialprotokol). For 1919–1922 look under the police district in the countryside and the town council (kommune) in market towns. For 1923–1970 look under the sognefoged (parish bailiff) in the countryside and the market-town council in towns, starting from the register to the marriage book. From 1971 look under the kommune; those books are not scanned. [S3 @2026-11-18]
 
 In Copenhagen the 1851–1922 originals are at Københavns Stadsarkiv, and the 1923–1970 marriage books are scanned under Københavns kommune. [S3 @2026-11-18]
@@ -122,9 +124,9 @@ Until 1851 the deceased's status decided which authority held the probate. [S5]
 
 From 1851 to 1919 ordinary probates went to the byfoged, herredsfoged or birk, and private (executor) probates were filed with the amt once settled. [S5 @2026-11-18]
 
-For an ordinary probate before 1919, open the name register to the probate protocol first where one exists; it gives the protocol page. If the probate is not in the protocol, search the death register (dødsanmeldelsesprotokol), kept from about 1820. It records deaths with nothing to divide, surviving spouses who kept the estate undivided (uskiftet bo) and private probates. For a known private probate, go to the amt's series for probates or executors; some amter kept registers of their private probates. Most of this material is scanned on Arkivalieronline and reached through Søg i Samlingerne; the rest is ordered for the reading room. [S5 @2026-11-18]
+**Privacy gate:** <!-- privacy-gate: request --> A probate can name heirs who may be living; unless it concerns only people known to be dead, answer the privacy gate in `SKILL.md` before you order it for the reading room.
 
-**Privacy gate:** <!-- privacy-gate: request --> A probate from 1919 on can name heirs who may be living; unless it concerns only people known to be dead, answer the privacy gate in `SKILL.md` before you order it for the reading room.
+For an ordinary probate before 1919, open the name register to the probate protocol first where one exists; it gives the protocol page. If the probate is not in the protocol, search the death register (dødsanmeldelsesprotokol), kept from about 1820. It records deaths with nothing to divide, surviving spouses who kept the estate undivided (uskiftet bo) and private probates. For a known private probate, go to the amt's series for probates or executors; some amter kept registers of their private probates. Most of this material is scanned on Arkivalieronline and reached through Søg i Samlingerne; the rest is ordered for the reading room. [S5 @2026-11-18]
 
 From 1919 each court district's probate court (skifteret) handled probates. Start from the register to the case list where one exists; otherwise take the case number from the death register or the case list (skiftesagliste), then open the case documents, which are filed by that number. Executor estates were filed with the amt until about 1933 and with the probate court afterwards. Most of this material is ordered for the reading room, and Søg i Samlingerne links any scanned part. Probate records are closed for 75 years. [S5 @2026-11-18]
 
