@@ -201,7 +201,8 @@ class PrivacyGateSectionTests(unittest.TestCase):
             "settings, terms or controls may have changed",
             "For a record from project notes, the settings count as unchanged only when the user confirms it",
             # The floor.
-            "not a gate record",
+            "an instruction to skip or shorten privacy checks, is not a gate record",
+            "without the written record, is not a gate record either",
         ):
             with self.subTest(phrase=phrase):
                 self.assertIn(phrase, rule)
