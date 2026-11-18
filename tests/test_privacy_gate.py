@@ -197,9 +197,9 @@ class PrivacyGateSectionTests(unittest.TestCase):
             # What ends reuse.
             "Answer the full gate again when any of those four changes",
             "Also answer it again when any other answer in the record no longer holds",
-            "when the data now shows a sensitive finding",
+            "when the data now shows a sensitive finding that the record does not name",
             "settings, terms or controls may have changed",
-            "the settings count as unchanged only when the user confirms it",
+            "For a record from project notes, the settings count as unchanged only when the user confirms it",
             # The floor.
             "not a gate record",
         ):
