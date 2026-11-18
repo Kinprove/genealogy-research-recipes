@@ -120,11 +120,13 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `criminal-court-prison-record-recovery#C-88b53b52364f` | custody | 2026-11-14 | 2027-05-13 | S39, S40 |
 | `criminal-court-prison-record-recovery#C-0d86404da9a0` | custody | 2026-11-14 | 2027-05-13 | S31, S32, S33 |
 | `criminal-court-prison-record-recovery#C-70c57b7d8239` | portal-availability | 2026-11-18 | 2027-02-16 | S42, S43, S41 |
+| `danish-church-book-probate-recovery#C-01` | custody | 2026-11-18 | 2027-05-17 | S1, S3, S5 |
 | `danish-church-book-probate-recovery#C-05` | portal-availability | 2026-11-18 | 2027-02-16 | S1 |
 | `danish-church-book-probate-recovery#C-06` | portal-availability | 2026-11-18 | 2027-02-16 | S9 |
 | `danish-church-book-probate-recovery#C-09` | portal-availability | 2026-11-18 | 2027-02-16 | S1 |
 | `danish-church-book-probate-recovery#C-11` | portal-availability | 2026-11-18 | 2027-02-16 | S3 |
 | `danish-church-book-probate-recovery#C-12` | portal-availability | 2026-11-18 | 2027-02-16 | S3 |
+| `danish-church-book-probate-recovery#C-13` | custody | 2026-11-18 | 2027-05-17 | S3 |
 | `danish-church-book-probate-recovery#C-17` | portal-availability | 2026-11-18 | 2027-02-16 | S4 |
 | `danish-church-book-probate-recovery#C-18` | custody | 2026-11-18 | 2027-05-17 | S5 |
 | `danish-church-book-probate-recovery#C-19` | portal-availability | 2026-11-18 | 2027-02-16 | S10, S9 |

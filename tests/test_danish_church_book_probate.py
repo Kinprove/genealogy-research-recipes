@@ -77,8 +77,14 @@ class SouthJutlandTests(unittest.TestCase):
         text = passage("After South Jutland became part of Prussia in 1864")
         self.assertIn("civil registration of births, marriages and deaths began in 1874", text)
         self.assertIn("Rigsarkivet calls the church books for 1874–1925 secondary sources.", text)
-        self.assertIn("For a birth, marriage or death in 1874–1925, search the personregister first, "
-                      "then the church book.", text)
+        self.assertIn("The personregister covered births, marriages and deaths; confirmations stayed in the "
+                      "church book.", text)
+        self.assertIn("For a South Jutland birth, marriage or death in 1874–1925, search the personregister "
+                      "first, then the church book.", text)
+
+    def test_church_book_section_excludes_south_jutland(self):
+        self.assertIn("This section covers Denmark outside South Jutland.",
+                      passage("This section covers Denmark outside South Jutland."))
 
     def test_church_weddings_return_in_1926(self):
         text = passage("From 1926 priests again married couples")
@@ -96,7 +102,8 @@ class ProbateTests(unittest.TestCase):
         text = passage("- **Tenants (fæstere) and employees of an estate:**")
         self.assertIn("the estate's own archive.", text)
         self.assertIn("From 1817 the tenants of smaller estates went to the herredsfoged or birkefoged.", text)
-        self.assertIn("the cavalry districts were abolished in 1776", text)
+        self.assertIn("Tenants in a cavalry district (rytterdistrikt) went to the district or its birk; the cavalry "
+                      "districts were abolished in 1776.", text)
 
     def test_non_tenant_rural_people(self):
         text = passage("- **Estate owners, freeholders (selvejere) and other rural people without tenant status:**")
@@ -105,6 +112,11 @@ class ProbateTests(unittest.TestCase):
     def test_status_decides_before_1851(self):
         self.assertIn("Until 1851 the deceased's status decided which authority held the probate.",
                       passage("Until 1851 the deceased's status"))
+
+    def test_military_families_go_to_the_auditor(self):
+        text = passage("- **Soldiers, officers and their families before 1864:**")
+        self.assertIn("each regiment's auditor.", text)
+        self.assertIn("units elsewhere to the civil courts in 1805", text)
 
     def test_executor_estates_after_1919(self):
         text = passage("From 1919 each court district's probate court (skifteret) handled probates.")
