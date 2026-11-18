@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "evidence-proof-judgment", "unknown-parentage-w
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["23andme", "dna-painter"], "local_script": [], "extensions": ["Genea browser extension (optional)"], "data_transfer": ["export", "link", "third-party-tool", "upload"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 21}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 24}
 ---
 
 # Working with 23andMe DNA: matches, matrices, segments, and preservation
@@ -365,6 +365,15 @@ To orient the generated Family Tree, start with an identified cousin or other do
 relative and check their placed branch. Do not assume that the left/right order names your
 mother's and father's sides. The 2023 unknown-grandparent workflow combines these anchors,
 tree placements and Relatives in Common. [S8]
+
+Treat an automatic Family Tree placement as a hypothesis. 23andMe estimates placements
+from shared DNA and ages, considering the predicted relationships among matches when it
+chooses which tree to show. [O29 @2026-09-04]
+
+A large age gap can occur within one generation, according to the podcast excerpt. [S33†]
+When one branch repeatedly had children at younger ages than the other, keep a
+same-generation relationship in play. Count the parent-child links from each match to
+the candidate common ancestor to test the predicted generation. [S34]
 
 **Privacy gate:** <!-- privacy-gate: contact --> Asking a candidate family for a tree and
 grandparents' details approaches living people about a possible grandparent line; answer the

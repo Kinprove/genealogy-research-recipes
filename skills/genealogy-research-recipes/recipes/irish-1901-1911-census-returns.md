@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "irish-civil-registration-jurisdiction-reco
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 91}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 100}
 ---
 
 # Search, retrieve and read the Irish 1901, 1911 and 1926 census returns
@@ -79,6 +79,8 @@ Use section 9 for 1926: that return set covers the Irish Free State [S36 @2026-1
 - **Allow for changed place spellings.** One DED is Coonogue in the 1901 data and Coonague in 1911 [S2]. One townland is Rathcarbery in the census and Racabry in the valuation books [S15]. Search a fragment of the name with a wildcard before you decide a place is missing.
 - **Report the result accurately.** A townland classified as a gap gives "no online return for [year]". A nil Form N gives "uninhabited in [year]". Only a townland that has returns, searched by all the routes in steps 1–2 and browsed house by house, supports "not found in [townland], [year]".
 
+**Before 1901, check which returns survive.** For 1821, 1831, 1841 or 1851, check the NAI survival list by county and year, then establish whether the fragment covers the locality before you interpret a household miss. Most returns from those years were lost in the 1922 Public Record Office fire [S41]. No individual household returns survive for 1861, 1871, 1881 or 1891 [S41]. To follow a family across that gap, use [civil registration](irish-civil-registration-jurisdiction-recovery.md) where it covers the event and check the years that survive in the parish registers [S42].
+
 ## 4. Look for absent people where they slept that night
 
 - **Form A lists only who slept in the house on census night.** Census nights were Sunday 31 March 1901 and Sunday 2 April 1911. Absent members were left out unless they were out at work or travelling that night and came home on the Monday [S25], [S24]. A missing son or daughter is a lead to search elsewhere. Look as a visitor, boarder or servant (use the relation field), and in institutions.
@@ -118,11 +120,28 @@ Use section 9 for 1926: that return set covers the Irish Free State [S36 @2026-1
 
 ## 9. Use the 1926 return under its own questions
 
+**Choose the census by jurisdiction.** For a locality in the Irish Free State, go from 1911 to the first Free State census, taken on 18 April 1926 [S40], [S45]. No census was taken in Ireland in 1921 because of the War of Independence [S40].
+
+**For Northern Ireland, keep 1911 as the household reference.** Northern Ireland took a separate 1926 census, but its household returns are believed to have been destroyed [S43 @2026-11-18]. Use the published 1926 and 1937 tables for population and locality context only [S43 @2026-11-18], [S44 @2026-11-18].
+
+**Open the year’s search form.** Use NAI’s [Search the Census 1926](https://nationalarchives.ie/collections/search-the-1926-census/) for 1926 and follow its separate link for 1901 and 1911 [S47 @2026-11-18].
+
 - **Coverage and place.** The 1926 NAI returns cover the Irish Free State [S36 @2026-11-16]. For a known townland or street, use the map’s county, DED and townland/street route to browse its households [S34 @2026-11-16]. Northern Ireland is outside this return set.
 - **Age.** Record years and months as asked on Form A, retaining both when comparing a birth record [S33 @2026-11-16].
 - **Occupation and employer.** Read these fields on the image [S33 @2026-11-16]. Their searchable transcription is a later release phase [S35 @2026-11-16]; a keyword miss does not show the image fields were blank.
-- **Child counts.** Married women reported completed years/months of the present marriage and its children born alive. Married men, widowers and widows reported living sons, daughters and stepchildren under 16, including those elsewhere [S33 @2026-11-16]. Do not subtract the under-16 count from children born alive to calculate deaths: the questions count different populations.
 - **Video source.** Only a transcript excerpt was inspected for the video’s 1926 search suggestions in this section [S37 @2026-11-16].
+
+**Check relatives’ returns for a missing household member.** Look for the person as a visitor, or follow evidence that work or travel took them elsewhere. Form A counted those who spent census night in the household and those received the next morning who had yet to be counted [S45].
+
+**Read the birthplace townland or town on the image.** Form A asked for county and townland or town for an Irish birthplace [S45 @2026-11-18]. The birthplace search covers county or country [S46 @2026-11-18]. Use the locality written on the form to narrow earlier searches for a person with a common name or someone found in an institution. Keep the birthplace separate from where the person was enumerated.
+
+**Read employment separately from occupation.** Record the trade in the occupation column and the employer's name and business, or the status “Own Account” when given, from the employment column [S45].
+
+**Read marriage or orphanhood by age.** For a person aged 15 or over, record the marital status. For a child under 15, record whether the return says both parents were alive, the father was dead, the mother was dead, or both were dead [S45]. A parent’s absence from the household is a separate observation.
+
+**Use orphanhood to bound a death search.** Daniel Loftus’s suggestion from the available excerpt is to use the two censuses to narrow the search for a parent’s death [S38], [S39]. If you identify the parent alive in 1911 and the child’s 1926 orphanhood entry reports that parent dead, restrict the initial civil death or burial search to the interval between census nights. Treat the interval as a search lead until a matching record confirms the death [S45].
+
+**Keep the child counts tied to their questions.** In 1926, married women reported completed years and months of the present marriage and the children born alive to it. Keep the 1911 count of children still living with the 1911 return. In 1926, married men, widowers and widows reported one total of living children and stepchildren under 16, including those living elsewhere [S33], [S45]. Use this as a dependant count across marriages. Leave the number from any one marriage and the number of deaths unresolved by that total.
 
 ## Close with a census packet
 
@@ -135,6 +154,6 @@ Return:
 - **Absence leads:** institutions, other households and the England and Wales returns searched for anyone missing on census night.
 - **Citation:** year, county, DED, poor law union, townland or street, house number, person record URL and image links.
 
-- **1926 rows:** years and months of age, the exact child-count question and respondent category, and occupation/employer fields read on the image.
+- **1926 rows:** years and months of age, birthplace as written, marriage or orphanhood answer, the exact child-count question and respondent category, and occupation/employer fields read on the image.
 
 Identity and kinship rulings go to evidence/proof judgment.

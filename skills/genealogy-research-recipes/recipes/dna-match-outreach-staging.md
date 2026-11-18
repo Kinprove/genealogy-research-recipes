@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "publish"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 30}
+router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 34}
 ---
 
 # Stage and draft outreach to a DNA match or untested relative
@@ -78,9 +78,11 @@ Rank every planned recipient by how close the relationship is and how sensitive 
 
 Contacting a more distant relative is still contact. It needs the same consent and disclosure limits as step 1.
 
+When two close matches point to the same paternal family, ask a relative you can already reach which brothers were in that family [S17]. Keep the question to family structure and use the replies to build a candidate list. Agreement on a surname does not identify the father.
+
 ## 3. Write a first message the recipient can check
 
-**Privacy gate:** <!-- privacy-gate: contact, publish --> The message names kits, shared DNA and possibly a tree with living relatives in it; answer the privacy gate in `SKILL.md` before sending it or the tree link.
+**Privacy gate:** <!-- privacy-gate: contact, publish --> The message names kits, shared DNA and possibly a tree with living relatives in it; answer the privacy gate in `SKILL.md` before sending it or the tree link. The same gate covers historical record excerpts sent to the match that could identify living descendants.
 
 Address the message so that it works whether the recipient is the tester or someone managing the kit. Rossi manages several kits and warns against assuming that the reader is the matching tester, or that you are matching their own kit [S5]. Include:
 
@@ -102,6 +104,16 @@ Do not make the hypothesis or the question a suspected religious or ethnic origi
 
 For the most sensitive tier, step 2 limits what you may say, and those limits override this list. Leave out any kit or cM detail that would itself tell the recipient how they are related to the tester.
 
+If records point to a possible connection through enslavement, offer the match the relevant historical records in place of the checklist question and say explicitly that you expect no reply or information in return [S15] [S16]. Leave ancestry estimates out of the outreach decision. Send cleared excerpts if the match accepts the offer.
+
+### After a match replies
+
+**Privacy gate:** <!-- privacy-gate: contact, publish --> A photo can show living people and would reach the match and the relative who sees it. A birth surname sent to the match may reveal a living person's name change or adoption. Answer the privacy gate in `SKILL.md` before either disclosure, including any onward sharing of the photo.
+
+Ask the match whether an older relative who may have known the person would be willing to look at the photograph. After clearing the photo for both recipients, share it through the match and ask who the relative recognizes without suggesting an identity [S18] [S19]. Log any recognition as that relative's attributed claim. Never use facial resemblance as identity evidence.
+
+When following up on an unexpected match, share a birth surname of the tester's parent if the parent later used another surname and the disclosure is cleared. Ask whether the match recognizes the birth surname from their family's papers [S20]. Treat a mention as a lead to check before assigning a relationship.
+
 ## 4. Inviting an untested relative to test
 
 - **Privacy gate:** <!-- privacy-gate: contact, publish --> The invitation, and any tree snapshot or family photos sent with it, reach a living person and may show other living relatives; answer the privacy gate in `SKILL.md` first.
@@ -112,6 +124,10 @@ For the most sensitive tier, step 2 limits what you may say, and those limits ov
 - **Kits.** If the user is supplying kits, say up front that the recipient will not pay. The presenter treats a prepaid kit as removing a major barrier [S2].
 
 For a line from France, recruit testers among descendants of emigrants, such as Québécois or Acadian families, and expect few testers living in France [S11]. French law permits genetic examination of a person for medical or scientific-research purposes and for anti-doping, not for genealogy, and fines a person who requests one outside the legal conditions €3,750 (articles in force when checked on 2026-11-12) [S12], [S13]. Some people in France test anyway: a French law firm cited an estimate of three million in July 2026 [S14]. Do not read a lack of France-resident matches as evidence against a French origin.
+
+**Privacy gate:** <!-- privacy-gate: contact, publish --> A group invitation reaches the tester. Joining or posting may disclose the tester's identity, an unknown-parentage search or information about living relatives to the service and group members. Answer the privacy gate in `SKILL.md` for those destinations before inviting the tester or posting.
+
+If shared matches point to a common ancestral line and a private descendants' group already exists, offer the tester an invitation and let them decide whether to join [S21]. With permission for that audience, ask the group for family-branch information and for volunteers to test. Keep candidate parents' names and individual DNA results out of the group post.
 
 ## 5. Log every attempt; record silence as silence
 

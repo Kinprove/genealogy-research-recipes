@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-02"
 checked_basis: "checked on 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["link", "publish", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 151}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 171}
 ---
 
 # Attribute and date an inherited family photograph from captions, provenance and imprints
@@ -53,7 +53,15 @@ Use this when an image has a caption, inherited identification or new informatio
 
 Record non-biometric context relevant to the question: an inscription, a stated occasion, location, photographer/imprint or independently supported format/date information. Preserve contradictions with a proposed attribution rather than resolving them from appearance. For related copies, retain their sources and what inscriptions or provenance they add [S6], [S1].
 
+**Album dedications.** Record the named giver and recipient as part of the album's provenance. If captions or attributed accounts place members of the giver's family in the album, keep that as a lead to the two families' association. Verify any proposed kinship in records independent of the album [S70], [S71].
+
+For a carte-de-visite portrait, read formal dress as a clue to the social standing the sitter may have wanted to project. Verify claims about the family's wealth or influence separately [S70], [S71].
+
 Keep an uncropped view while testing the place of a photograph. Compare doors, windows, room corners, furniture and other fixtures with separately located photographs. Record the particular features and where the comparison photograph's location comes from. A similar room is a location hypothesis to test; it does not identify the sitter or prove a family relationship [S68], [S69].
+
+**Locate a scene with image search.** **Privacy gate:** <!-- privacy-gate: third-party-tool --> A crop from the family's photograph goes to Google Lens. Remove people, identifying text and file metadata from the crop. If the photograph shows anyone who may be living, compare the scene locally. Answer the privacy gate in `SKILL.md` and get the user's explicit permission before sending the crop. On a computer, send the scene crop through Google's **Search by image** control and choose **Upload a file**, or drag the crop into the search box [S72 @2026-11-18].
+
+Keep similar views as leads to the location. Check the vantage point and the arrangement of fixed features against the uncropped photograph, and corroborate the place with an independently located view [S73].
 
 To seek other prints:
 
@@ -109,6 +117,10 @@ Test an inherited, profile or published identification for consistency, never by
 2. For a dated occasion, calculate each proposed person's age from documented birth information.
 3. For a group, compare number, sex and broad life stage with a documented household. Do not read a child's sex from dress, hair or coloring.
 4. A fit shows consistency, not identity. A conflict other than the lifetime test in step 1 reopens the attribution [S13], [S22], [S26].
+
+**Captions naming a relative.** Use the caption's name and named relative together, with the independently supported studio place and period, to shortlist deceased candidates. Compare both names and the proposed relationship with the census household, and check whether the recorded age fits the sitting window [S74]. If the schedule gives relationships to the household head, read each relationship from that head. Adjacent lines alone do not establish kinship [S76].
+
+On a deceased candidate's FamilySearch person page, open **Sources**, select the attached census and follow its citation to the census schedule [S75 @2026-11-18].
 
 **Named sitters as date limits.** When a group photograph's sitters are named by a caption or an attributed account, and their birth years are documented independently, use them as date limits. A named child shown sets an earliest possible date. A documented sibling missing from the image may suggest a latest one. Record each limit with the identification and the document it rests on. An absent child may simply have been elsewhere, and one wrong attribution moves the whole range. Do not assign names from appearance to make the limits fit. In the dating discussion that motivates this check, the identifications stayed uncertain [S20].
 

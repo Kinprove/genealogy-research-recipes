@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 106}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 115}
 ---
 
 # Build a U.S. vital-registration coverage register before calling a birth or death record missing
@@ -60,6 +60,8 @@ A miss in one series tells you nothing about the others. Under each authority, l
 4. **Institutional and supplemental series.** A Philadelphia City Archives representative says the Archives holds births from the almshouse and from Philadelphia General Hospital alongside the official city births [S8]. The Archives' record-group list includes Blockley Almshouse and Philadelphia General Hospital, but it has not been confirmed that a separate births series exists within them.
 5. **Ledgers and group registers.** Some original city records are weekly group lists of who was born or buried, not individual certificates [S8]. Philadelphia deaths before July 1860 survive as cemetery (burial) returns, and death records are filed by cemetery [S8], [S10]. Search these as registers, not as certificate indexes.
 
+For Nebraska births in 1904–1911, look for the ledger entry under the father's name. The state usually filed these births under his name alone and omitted the child's name. Give birth certificates their own row starting in 1912 [S30 @2026-11-18]. Use the Father fields in MyHeritage's Nebraska Births index for this period and check the ledger image if it accompanies the hit [S27 @2026-11-18], [S29 @2026-11-18].
+
 ## Record custodians, access and copy fidelity for each series
 
 For each series, list every possible holder:
@@ -81,6 +83,10 @@ For each holder, record:
 
 A search of a filmed copy is not a search of the original holding. Record which one you searched.
 
+For Nebraska deaths, give the scanned 1904–1955 state death-index books and the searchable 1956–1968 database separate rows. After an aggregator miss in the earlier period, browse the scanned books by surname Soundex, then by given name. Log the image as an index page [S27 @2026-11-18], [S31 @2026-11-18].
+
+For a statewide Missouri death record, use the Missouri State Archives' death certificate database (1910–1975) and open the free scan when the result links one [S33 @2026-11-18], [S35 @2026-11-18]. Record the latest year posted for the coverage row and keep it separate from the 50-year transfer rule [S32 @2026-11-18], [S33 @2026-11-18], [S34 @2026-11-18].
+
 An index search is also bounded by how that index matches names. Before you record `searched – no hit` in an online state or county index, read its search tips, and treat it as exact-match only unless they promise phonetic or variant matching: smaller state and county indexes often have none, so a one-letter misreading (Bane for Bone) defeats every spelling of the right name [S20 @2026-11-12]. Then run an initials search with wildcards and a search with no name at all, by sex, county and death month and year. The name-free search is what found a 1928 Oklahoma death indexed as Margotte C. Bane, a day off the headstone date [S20 @2026-11-12].
 
 Oklahoma's OK2Explore death index works this way: it returns only exact matches, accepts an asterisk as a wildcard in any field, treats a blank field as a wildcard, and asks you to narrow any search that matches more than 15 records. Run the name-free search there with sex, death county and its ±1, 2 or 5-year date range [S21 @2026-11-12].
@@ -95,6 +101,8 @@ For a New York City birth, marriage or death listed in an index on FamilySearch,
 - **Where the mother's female relatives lived around the birth.** Look for her mother, sisters and other close female kin. Include neighbouring counties, and cross the state line where the family lived near one [S5].
 
 When a death is missing from the reported home county, test the death place rather than merely changing the name query. Read the burial permit, removal or transfer record for the actual death place, including a hospital or institution in another county or state. A burial permit can supply a death location that conflicts with an obituary's claim that the death occurred at home [S25], [S26].
+
+For a death indexed as filed in Collier County, Florida, read the place-of-death field separately and use it to choose the vital-registration authority. The Collier County Clerk records certificates issued elsewhere, so a Collier filing alone leaves the death place undetermined [S27 @2026-11-18], [S28 @2026-11-18].
 
 Each added place gets its own set of authority and series rows. It does not just widen one query.
 

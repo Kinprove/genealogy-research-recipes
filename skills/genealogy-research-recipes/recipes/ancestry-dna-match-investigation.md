@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "ai-for-documentary-records", "dna-match-outrea
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["ancestrydna"], "local_script": [], "extensions": ["browser extension view comparison (optional)"], "data_transfer": ["link", "publish"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 22}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 25}
 ---
 
 # AncestryDNA: eight practical ways to investigate matches
@@ -41,6 +41,11 @@ Read [ai-for-dna-research.md](ai-for-dna-research.md) for cM ranges, endogamy an
 ## Access and inputs
 
 The ordinary shared-match preview shows up to three people without membership; family-history membership unlocks the full list. Enhanced Shared Matches adds match-to-match cM with Pro Tools. That enhanced website view is available in the US, Canada, Australia and UK, as listed in Ancestry's help checked 2026-10-03; Ancestry can change availability without notice, so check the current page.
+
+To see how matches connect to one another, as Andrew Koch suggests [S15 @2026-11-18], open
+**DNA → Matches → By cluster** on the Ancestry website for a kit you can already access.
+This view is unavailable in the mobile app [S16 @2026-11-18]. An active Pro Tools add-on
+and family-history membership are required [S17 @2026-11-18].
 
 **Privacy gate:** <!-- privacy-gate: contact --> Asking a kit manager for a comparison involves living testers' DNA; answer the privacy gate in `SKILL.md` and stage the request through [DNA match outreach staging](dna-match-outreach-staging.md). Obtain a missing comparison from an authorized kit manager when your own access cannot show it.
 

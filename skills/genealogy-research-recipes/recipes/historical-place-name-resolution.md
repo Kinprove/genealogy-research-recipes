@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 40}
+router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 47}
 ---
 
 # Resolve a historical place name to dated, same-named candidates
@@ -125,6 +125,8 @@ Not covered here:
 
 - **A Russian village known by its owners' name.** A memoir or family story may give a village a colloquial name rather than its official one. In one Epifan uezd case, the village Корсаково in a memoir was the сельцо (a small landowner's village) Sukromna, which the blog post reporting the case says belonged to the Rimsky-Korsakov family; the family's ancestors were then found in the metrical books of Troitskoe-Ilyino, the parish Sukromna belonged to [S61]. A place directory lists it as «сельцо Сукромна (Корсакова, Корсаково)», shows it on the 1874 three-verst military map, and puts its residents in the parish of the Trinity church in Troitskoe (Ilyino) [S62]. When a remembered name matches no village, look for it as a bracketed alternative name in period lists of populated places and on period maps, then search the parish of the place that carries it.
 
+- **A large city in an immigrant's death record.** When the record gives the city as the place of origin, keep the city as written and test both the city itself and nearby towns or villages, as the advice from the available excerpt suggests [S91], [S92]. Use independent evidence to establish the exact locality (§7).
+
 ## 6. Plot candidates against dated jurisdictions
 
 - Carry decimal coordinates with their sign. Western-Hemisphere longitudes are negative. If you drop the minus sign, the point lands on the opposite side of the world [S4].
@@ -139,6 +141,8 @@ Not covered here:
 For a residence in or near former Cherokee lands, also plot it on Charles C. Royce's 1884 *Map of the former territorial limits of the Cherokee "Nation of" Indians*, which shows the boundaries of each cession the Cherokee made to the colonies and the United States [S50]. It is Plate VIII of Royce's *The Cherokee Nation of Indians* in the Bureau of Ethnology's Fifth Annual Report; Plate IX covers the lands assigned to the Cherokee west of the Mississippi [S51]. Each cession is numbered on the map, and Royce's table gives each number its treaty, a description of the tract and its colour. For example, cession 15, "Tract in Georgia, known as Wafford's Settlement", is red and was ceded by the treaty of 24 October 1804 [S51], [S52]. Read the number where the residence falls and take the treaty date from the map's own table, as Roberta Estes did for a family living in 1818 in what became Hall County, Georgia [S53]. Present-day county lines do not show these boundaries. Royce's later maps in *Indian Land Cessions in the United States* (1899) number the cessions differently, so record which map each cession number comes from [S52], [S54].
 
 - **County creation and organisation.** Keep creation, administrative attachment and full organisation separate when reading Newberry's Ohio chronology [S90]. Take each entry's date and the statute volume, chapter and page it cites into the candidate table's jurisdiction column (§8) [S90]. When an attachment affects the search, read that cited law for the county and function assigned, then select that county's relevant series instead of choosing from a boundary outline alone [S89], [S90].
+
+- **A birthplace jurisdiction in a pension.** Compare the boundaries at birth with the boundaries when the statement was made. For the War of 1812 pension example from the available excerpt, compare “North Carolina” in the 1771 birth year and at the 1815 statement date [S93]. Search both North Carolina as it stood in 1815 and the western lands claimed by colonial North Carolina that became Tennessee in 1796 until dated evidence narrows the birthplace [S94], [S95].
 
 ## 7. Narrow candidates only with independent, dated evidence
 

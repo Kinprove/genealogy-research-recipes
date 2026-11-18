@@ -47,6 +47,12 @@ The spoken wording of [S25] and [S28] is known only from a community transcript 
 - **S32:** [Finding Family Overseas: A Guide to Hiring Local Experts Insights from 50 Years of Professional Genealogy](https://www.pricegen.com/finding-family-overseas-a-guide-to-hiring-local-experts-insights-from-50-years-of-professional-genealogy/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **S33:** [FamilySearch oral histories project, historical report](https://philanthropies.churchofjesuschrist.org/church-general-fund/church-general-fund-news-and-features/news-features/oral-histories-project-saving-families/), opened 2026-11-16. The February 2019 report dates Pacific collection to the 1960s and Southeast Asian expansion to the 1980s and describes African work at that time. It establishes neither current catalogue coverage nor access to a particular recording.
 
+## Additional sources checked 2026-11-18
+
+- **S34:** David Ridd, [Being Samoan: Traditions and Exploring Your Genealogy](https://blog.myheritage.com/2025/09/being-samoan-traditions-and-exploring-your-genealogy/), MyHeritage Blog, published 2025-09-05. Community web page opened and read 2026-11-18. Ridd suggests asking elders for names, villages and matai titles. He describes births, marriages and land transfers as details that can come up in a telling and distinguishes chiefly titles from birth surnames. His use of *ta‘aga* for oral genealogical recitation was uncorroborated by the independent sources used here.
+- **S35:** Centre for Samoan Studies, National University of Samoa, [Samoan Heritage Project](https://nus.edu.ws/ACH/index.html). University project web page opened and read 2026-11-18. The project includes genealogies among Samoan oral traditions and describes older Samoans passing down oral traditions in families and villages.
+- **S36:** Oranga Tamariki, [Tautua – Samoan cultural approach](https://practice.orangatamariki.govt.nz/practice-framework/whai-oranga/vaaifetu/tautua-samoan-cultural-approach), last modified 2025-09-29. Government practice web page opened and read 2026-11-18. The guide describes matai as chiefly titles connected to extended family and village and advises checking the spelling of names, titles and villages.
+
 ## Credits
 
 - MyHeritage / Daniel Horowitz, Recording Memories on the MyHeritage Mobile App, YouTube, 2022-07-20 — Standard YouTube License (all rights reserved); short attributed adaptation (adapted)
@@ -59,3 +65,4 @@ The spoken wording of [S25] and [S28] is known only from a community transcript 
 - Elizabeth F. Ellet, The Women of the American Revolution, vol. 3, Baker and Scribner, 1850 — public domain (published 1850); brief attributed quotations (quoted)
 - Kinprove original procedural synthesis; presenter examples and guidance paraphrased with attribution and cited as S1-S29 — FSL-1.1-MIT (kinprove-original)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
+- David Ridd, Being Samoan: Traditions and Exploring Your Genealogy, MyHeritage Blog, 2025-09-05 — interview prompts paraphrased with attribution (adapted)

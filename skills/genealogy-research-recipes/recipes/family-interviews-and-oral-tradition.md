@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export", "request"], "contact": []}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 153}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 173}
 ---
 
 # Record a family interview or inherited account with its speaker, prompter and chain
@@ -62,6 +62,8 @@ For a new recording, use a bounded prompt such as a photograph, object, recipe o
 If the participant names someone in a photograph, record it as their identification, with the basis they give. Never compare faces or assign identity by appearance yourself. Resemblance is never evidence by itself.
 
 Use a census page the participant would remember as a neighbourhood prompt: with the recording running, show them their own entry, read out the neighbours listed before and after it, and ask what they recall [S4]. Link the page and question to the actual response, and keep the census and the recollection as separate sources. Page adjacency alone establishes neither kinship nor shared residence.
+
+In an ongoing interview with a Samoan family elder, invite them to recount the family lineage in their own words [S34], [S35]. In the interview notes, keep personal names, village affiliations and matai (chiefly) titles distinct [S34], [S36]. Leave the birth surname unresolved if the elder gives only a title. Attribute any births, marriages or land transfers mentioned to the teller [S34].
 
 ## Record the answers, not only the questions
 

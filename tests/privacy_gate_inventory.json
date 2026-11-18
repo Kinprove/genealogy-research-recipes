@@ -2722,5 +2722,455 @@
   "kind": "request",
   "action": "Retrieve the admission entry for a pupil",
   "checkpoint": "An admission entry for a pupil who may be living"
+ },
+ {
+  "recipe": "enslavement-record-disclosure.md",
+  "kind": "publish",
+  "action": "Publish the source-cited historical extract",
+  "checkpoint": "Names and details from the historical record and any living people named in the draft would go to the society, group and its audience. Apply the [privacy gate](../SKILL.md#privacy-gate) and redact unrelated living people’s data."
+ },
+ {
+  "recipe": "enslavement-record-disclosure.md",
+  "kind": "upload",
+  "action": "Arrange deposit of the original or a permitted copy",
+  "checkpoint": "The original or its copy and any owner, donor or living-person details would go to the receiving repository. Apply the [privacy gate](../SKILL.md#privacy-gate) and agree on access before transfer."
+ },
+ {
+  "recipe": "enslavement-record-disclosure.md",
+  "kind": "contact",
+  "action": "Send a concise record lead to the Gibbons Project",
+  "checkpoint": "The record citation and the sender’s details would go to the university’s descendant outreach contact. Apply the [privacy gate](../SKILL.md#privacy-gate) before sending."
+ },
+ {
+  "recipe": "enslavement-record-disclosure.md",
+  "kind": "publish",
+  "action": "Publish a documented parent-child link",
+  "checkpoint": "The tree entry and kinship evidence could be visible to service users or the public and could identify living descendants. Apply the [privacy gate](../SKILL.md#privacy-gate) before publishing."
+ },
+ {
+  "recipe": "samoan-matai-and-gafa-research.md",
+  "kind": "contact",
+  "action": "ask the village, congregation or family custodian",
+  "checkpoint": "The sender’s identity and the minimum family names, dates and locality would go to the selected record holder. Apply the [privacy gate](../SKILL.md#privacy-gate) and keep any recent record request unsent until its own access rules and permissions are established."
+ },
+ {
+  "recipe": "find-a-grave-memorial-corrections.md",
+  "kind": "publish",
+  "action": "Fill in the affected fields",
+  "checkpoint": "The proposed memorial changes and any evidence included go to Find a Grave and the manager and may become public if accepted. Screen living-person details through the [privacy gate](../SKILL.md#privacy-gate) before sending."
+ },
+ {
+  "recipe": "find-a-grave-memorial-corrections.md",
+  "kind": "contact",
+  "action": "use **Contact Manager** to request transfer",
+  "checkpoint": "The requester’s relationship and reason go through Find a Grave to the memorial manager. Apply the [privacy gate](../SKILL.md#privacy-gate), including the Living people rules."
+ },
+ {
+  "recipe": "find-a-grave-memorial-corrections.md",
+  "kind": "request",
+  "action": "use **Request to Manage**",
+  "checkpoint": "The account and selected memorial ID go to Find a Grave. Apply the [privacy gate](../SKILL.md#privacy-gate) before submitting."
+ },
+ {
+  "recipe": "philippine-surnames-and-registers.md",
+  "kind": "contact",
+  "action": "Ask the parish that served the town",
+  "checkpoint": "The sender’s details and any family facts in the inquiry would go to the parish. Apply the [privacy gate](../SKILL.md#privacy-gate) before sending and keep requests for records about anyone who may be living in draft until access and consent are established."
+ },
+ {
+  "recipe": "ancestry-pro-tools-tree-worklists.md",
+  "kind": "export",
+  "action": "Download the branch chart to the user’s own device",
+  "checkpoint": "The selected branch’s names, events and relationships would leave Ancestry for the user’s device. Apply the [privacy gate](../SKILL.md#privacy-gate), including the retention rule."
+ },
+ {
+  "recipe": "myheritage-kit-processing-and-downloads.md",
+  "kind": "export",
+  "action": "Download the regular raw DNA file to the user’s own device",
+  "checkpoint": "The tester’s raw genotype file leaves MyHeritage for the user’s own device. Apply the [privacy gate](../SKILL.md#privacy-gate) and its local retention rule."
+ },
+ {
+  "recipe": "myheritage-kit-processing-and-downloads.md",
+  "kind": "export",
+  "action": "Download the CRAM locally",
+  "checkpoint": "The tester’s extended genomic data leaves MyHeritage for the user’s own device. Apply the [privacy gate](../SKILL.md#privacy-gate) to the export and assess any later transfer separately."
+ },
+ {
+  "recipe": "myheritage-kit-processing-and-downloads.md",
+  "kind": "upload",
+  "action": "use a new MyHeritage cheek-swab kit",
+  "checkpoint": "The tester’s biological sample and kit identifiers would go to MyHeritage and its laboratory. Confirm the tester’s authorization and apply the [privacy gate](../SKILL.md#privacy-gate) before submission."
+ },
+ {
+  "recipe": "myheritage-kit-processing-and-downloads.md",
+  "kind": "request",
+  "action": "request processing of the stored sample",
+  "checkpoint": "The tester’s kit information and consent go to MyHeritage and its laboratory and authorize a new use of the stored sample. Apply the [privacy gate](../SKILL.md#privacy-gate) before requesting processing."
+ },
+ {
+  "recipe": "myheritage-profile-hint-extraction.md",
+  "kind": "link",
+  "action": "Confirm the profile match only",
+  "checkpoint": "The association between the online profile and the source or matching tree would be recorded on MyHeritage. Apply the [privacy gate](../SKILL.md#privacy-gate) before linking if either side identifies a person who may be living."
+ },
+ {
+  "recipe": "myheritage-profile-hint-extraction.md",
+  "kind": "publish",
+  "action": "Use **Save to tree** for the selected facts and relatives",
+  "checkpoint": "The source facts and selected family relationships become available in the MyHeritage tree according to its visibility settings. Apply the [privacy gate](../SKILL.md#privacy-gate) before saving any data about people who may be living."
+ },
+ {
+  "recipe": "olympic-participation-records.md",
+  "kind": "contact",
+  "action": "Ask the Olympic Studies Centre about access",
+  "checkpoint": "The sender’s details, file locator and any subject data go to the Olympic Studies Centre. Apply the [privacy gate](../SKILL.md#privacy-gate) before sending."
+ },
+ {
+  "recipe": "old-german-handwriting-comparison.md",
+  "kind": "third-party-tool",
+  "action": "Enter a short candidate word in the Schrift-Generator",
+  "checkpoint": "The candidate text goes to the Schrift-Generator. Apply the [privacy gate](../SKILL.md#privacy-gate) and substitute a non-identifying sample with the same letter sequence when the original contains personal details."
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "publish",
+  "action": "Post the source image with the chatbot's transcription and translation",
+  "checkpoint": "The record image or link and draft readings may disclose information"
+ },
+ {
+  "recipe": "australia-nz-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s Victorian indexes as a second pass",
+  "checkpoint": "before sending the subject’s name and any event year or place to MyHeritage"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "contact",
+  "action": "Use **Request Photo** on the memorial",
+  "checkpoint": "A marker photo request shares the deceased's memorial"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "upload",
+  "action": "Upload the marker photo through **Fulfill**",
+  "checkpoint": "Sending a grave photo gives Find a Grave and memorial viewers"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "upload",
+  "action": "Upload a geotagged marker photo only when",
+  "checkpoint": "Sending a grave photo gives Find a Grave and memorial viewers"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "third-party-tool",
+  "action": "For device-assisted navigation, use **Map It**",
+  "checkpoint": "Device-assisted navigation gives the Find a Grave app"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "publish",
+  "action": "Submit a documented memorial correction",
+  "checkpoint": "A memorial correction sends the deceased's corrected fields"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "link",
+  "action": "Enter the verified relative's Memorial ID",
+  "checkpoint": "A family link sends the memorial IDs and relationship"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "third-party-tool",
+  "action": "Use **Manage** on a recently deceased close relative's memorial",
+  "checkpoint": "A management claim gives Find a Grave the user's account"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "third-party-tool",
+  "action": "Search Google for a distinctive phrase",
+  "checkpoint": "An obituary phrase sent to Google can disclose details"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "request",
+  "action": "Use the printed case number in the request",
+  "checkpoint": "A court-file request can disclose a party's identity and allegations or family circumstances"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "enter the plaintiff's or defendant's name in the Name fields",
+  "checkpoint": "The index search sends a historical party's name"
+ },
+ {
+  "recipe": "criminal-court-prison-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's *Australia, New South Wales, Gaol Inmates & Photos, 1870–1930*",
+  "checkpoint": "A gaol search sends the inmate's identifying details to MyHeritage"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "When two close matches point to the same paternal family",
+  "checkpoint": "Every message in this step goes to a living person and can disclose"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "If records point to a possible connection through enslavement",
+  "checkpoint": "The message names kits, shared DNA and possibly a tree with living relatives"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "publish",
+  "action": "Send cleared excerpts if the match accepts the offer",
+  "checkpoint": "The message names kits, shared DNA and possibly a tree with living relatives"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "Ask the match whether an older relative who may have known the person",
+  "checkpoint": "A photo can show living people and would reach the match and the relative who sees it"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "publish",
+  "action": "After clearing the photo for both recipients, share it through the match",
+  "checkpoint": "A photo can show living people and would reach the match and the relative who sees it"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "When following up on an unexpected match, share a birth surname",
+  "checkpoint": "A photo can show living people and would reach the match and the relative who sees it"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "If shared matches point to a common ancestral line and a private descendants' group already exists",
+  "checkpoint": "A group invitation reaches the tester"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "publish",
+  "action": "With permission for that audience, ask the group for family-branch information and for volunteers to test",
+  "checkpoint": "A group invitation reaches the tester"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "use the multi-photo scanner in Reimagine to make individual working crops",
+  "checkpoint": "Batch scanning sends album-page images, including photographs and inscriptions about people who may still be living, to MyHeritage"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "contact",
+  "action": "With the user's authorization, send a private first message through a route allowed by the Living people rule",
+  "checkpoint": "Even a first message to a possible recipient discloses their proposed connection to the album to that person"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "upload a two-page PDF with the front and reverse in one Memory",
+  "checkpoint": "The upload sends both views and any names or other details about people who may still be living to FamilySearch"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "link",
+  "action": "Link the Memory as a source only to a corroborated profile for a deceased person",
+  "checkpoint": "The upload sends both views and any names or other details about people who may still be living to FamilySearch"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "third-party-tool",
+  "action": "send the scene crop through Google's **Search by image** control",
+  "checkpoint": "A crop from the family's photograph goes to Google Lens"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "upload",
+  "action": "Upload an identified photo or document",
+  "checkpoint": "An image, document, title, tag or comment can disclose"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Tag the same Memory for each additional identified subject",
+  "checkpoint": "An image, document, title, tag or comment can disclose"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Post a correction in the existing photo’s",
+  "checkpoint": "An image, document, title, tag or comment can disclose"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Click **Follow** in the identified deceased person’s page banner",
+  "checkpoint": "Following exposes the user's FamilySearch account"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Add a confirmed deceased person to the shared Tree only after",
+  "checkpoint": "Creating people or linking branches sends identifying details"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Create an unconnected deceased profile through",
+  "checkpoint": "Creating people or linking branches sends identifying details"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "upload",
+  "action": "Enter the minimum approved living-person details",
+  "checkpoint": "Creating people or linking branches sends identifying details"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Link to the corresponding shared profile",
+  "checkpoint": "Creating people or linking branches sends identifying details"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Copy only consented living profiles to that group",
+  "checkpoint": "Copying profiles exposes the approved living relatives’ details"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "contact",
+  "action": "Invite only the approved relatives",
+  "checkpoint": "Copying profiles exposes the approved living relatives’ details"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "contact",
+  "action": "Draft a private FamilySearch Chat message",
+  "checkpoint": "A private first message discloses the sender’s identity"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "publish",
+  "action": "Enable **Relationship Viewing** in FamilySearch settings",
+  "checkpoint": "Enabling relationship viewing exposes the user’s relationship path"
+ },
+ {
+  "recipe": "ftm-research-workflows.md",
+  "kind": "upload",
+  "action": "open the intended Source tree and choose **Create Antenna Tree**",
+  "checkpoint": "The Source tree's data and later edits go to Software MacKiev's TreeVault"
+ },
+ {
+  "recipe": "gedcom-research-export.md",
+  "kind": "export",
+  "action": "For an Ancestry tree the user owns, open",
+  "checkpoint": "The Ancestry export copies the selected tree"
+ },
+ {
+  "recipe": "gedcom-research-export.md",
+  "kind": "upload",
+  "action": "Import the prepared `.ged` into MyHeritage.",
+  "checkpoint": "A GEDCOM import sends tree data that may include living or possibly living people to the user's chosen MyHeritage family site."
+ },
+ {
+  "recipe": "gedmatch-practical-dna-workflows.md",
+  "kind": "upload",
+  "action": "send the tester's existing AncestryDNA autosomal raw data file to GEDmatch",
+  "checkpoint": "Upload a kit only after the privacy gate in"
+ },
+ {
+  "recipe": "manuscript-collection-recovery.md",
+  "kind": "contact",
+  "action": "Ask the auction house whether it can name",
+  "checkpoint": "Send only the public lot number and sale date"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "contact",
+  "action": "use the approved first-message procedure for the unclustered match",
+  "checkpoint": "The message discloses tested people and shared"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Run a parent-name search with the principal's name blank",
+  "checkpoint": "their name or other identifying terms go to MyHeritage"
+ },
+ {
+  "recipe": "newspapers-com-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the historical house number and street name by themselves",
+  "checkpoint": "The deceased occupants' historical house number and street name go to Newspapers.com."
+ },
+ {
+  "recipe": "scandinavian-parish-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the matching MyHeritage collection",
+  "checkpoint": "the names, dates and places that the search will send to MyHeritage"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "ask the proposed aunt whether she is willing to test",
+  "checkpoint": "Asking relatives or a match's older relatives to test, or asking matches for collaborator access"
+ },
+ {
+  "recipe": "us-census-practical-workflows.md",
+  "kind": "third-party-tool",
+  "action": "On the official 1950 Census website, start a full-name query",
+  "checkpoint": "The query sends the target household head's recorded name and historical location filters to the National Archives search portal."
+ },
+ {
+  "recipe": "us-census-practical-workflows.md",
+  "kind": "publish",
+  "action": "Submit a name transcription",
+  "checkpoint": "The transcribed name of the person on the selected line and the sheet and line reference go to the National Archives' public index. The submitter's e-mail goes to the National Archives for verification."
+ },
+ {
+  "recipe": "us-census-practical-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Enter the historical locality and street",
+  "checkpoint": "The historic street and locality associated with the target household go to Morse and Weintraub's ED Finder. Keep personal names and current addresses out of the query."
+ },
+ {
+  "recipe": "us-census-practical-workflows.md",
+  "kind": "export",
+  "action": "Save a local copy of the selected 1950 schedule page",
+  "checkpoint": "The selected schedule image, including other people on the sheet, comes from the National Archives to the user's own device. Keep the file local and apply the retention rule."
+ },
+ {
+  "recipe": "us-census-practical-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Use the index's name, age, birthplace and residence",
+  "checkpoint": "Any historical search terms entered for the 1890 census subject go to MyHeritage's collection search."
+ },
+ {
+  "recipe": "us-census-practical-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Enter only the needed code",
+  "checkpoint": "Only the selected historical census code goes to the One-Step lookup. Keep the person's name, image and record locator local."
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "Search the index by the confirmed deceased person's public name",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "For Boston arrivals in 1848–1891, search the",
+  "checkpoint": "A Boston index query sends the passenger's name"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "start with the surname and leave Exact Match off",
+  "checkpoint": "A Foundation search sends the passenger's name"
  }
 ]

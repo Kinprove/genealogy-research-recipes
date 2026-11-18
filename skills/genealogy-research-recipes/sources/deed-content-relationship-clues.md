@@ -106,6 +106,14 @@ Motives stated by presenters (tax avoidance, probate avoidance) are not adopted.
 - **S82:** TNGenNet, [Tennessee Land Terminology](https://www.tngenweb.org/tnland/terms.htm), read 2026-11-14. Used for: the chain carrier often a relative of the claimant, and the survey abbreviations "C.C. = Chain Carrier(s). Could be under legal age" and "S.C.C. = Sworn Chain Carrier(s). Would have reached legal age."
 - **S83:** NCGenWeb, [Cumberland County, NC Deeds](https://ncgenweb.us/cumberland/deeds.html), read 2026-11-14. Used for: chain carriers named on land grants and male chain carriers having to be 14 or older. A county genealogy page; the age rule was not checked against a statute.
 
+### Gift deeds and residence clues added 2026-11-18
+
+- **S84:** Chelsea Petry, MyHeritage Blog, [From 1637 to America 250: A 400-Year Legacy Proven in Ink and Parchment](https://blog.myheritage.com/2026/06/from-1637-to-america-250-a-400-year-legacy-proven-in-ink-and-parchment/), published 2026-06-16, read 2026-11-18. The family account describes a child missing from a will, an unrecorded gift deed kept in family papers, and the use of land transfers to challenge a published branch assignment. The gift deed and intervening transfers remain unverified.
+- **S85:** George Henry Knowlton, comp., [Errata and Addenda to Dr. Stocking's History and Genealogy of the Knowltons of England and America](https://upload.wikimedia.org/wikipedia/commons/c/cb/Errata_and_addenda_to_Dr._Stocking%27s_History_and_genealogy_of_the_Knowltons_of_England_and_America_%28IA_errataaddendatod00lcknow%29.pdf), 1903, pp. 165–167, will of John Knowlton Sr., read 2026-11-18. The printed text reproduces an attested probate copy of a 1713/14 Ipswich will that counts land already given by deed toward named sons' shares.
+- **S86:** DoHistory, [How to Search Deeds](https://dohistory.org/on_your_own/toolkit/deeds.html), read 2026-11-18. The guide explains how to trace successive owners forward or backward through deeds for the same parcel. The challenge to a published pedigree comes from the account in S84.
+- **S87:** Just Genealogy, [More Genealogical Assumptions that Will get you in trouble - JG0135](https://www.youtube.com/watch?v=G1Hc-L8chGc), retrieval attempted 2026-11-18. The supplied transcript excerpt contains the presenter's suggestion to look for someone named as living on land conveyed by others. The linked video did not open during this review. S88 independently supports the residence clue.
+- **S88:** Clwyd Record Office, [Handlist of the Denbigh Borough Records](https://discovery.nationalarchives.gov.uk/download/GB0209%20BD-A), BD/A/112, p. 10, read 2026-11-18. The handlist abstracts a 1574/75 grant to one person with another named as dwelling on the property.
+
 ## Credits
 
 - Judy G. Russell, The Legal Genealogist blog, posts cited as S13, S15, S22, S25, S27 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
@@ -125,3 +133,5 @@ Motives stated by presenters (tax avoidance, probate avoidance) are not adopted.
 - Genealogy TV 2, Finding Tons of Land Records (YouTube, 2024-10-20), cited as S45 — Third-party video (YouTube Standard License); short paraphrase with attribution (adapted)
 - Kenneth R. Marks, The Ancestor Hunt, cited as S54, and Legacy Tree Genealogists, cited as S50 and S57 — Third-party content, all rights reserved by the rights holders; short paraphrase with attribution (adapted)
 - Wehe²wiki² Hawaiian Language Dictionaries (S40), Wikipedia (S78, S79), the Handbook of Texas (S80) and TNGenNet's Tennessee Land Terminology (S82) — Third-party reference content; definitions and values restated with attribution, short dictionary and glossary definitions quoted in this sidecar (quoted)
+- Chelsea Petry, MyHeritage Blog (S84), and Just Genealogy (S87) — Third-party sources; short paraphrases with attribution (adapted)
+- George Henry Knowlton (S85), DoHistory (S86) and Clwyd Record Office (S88) — Source material paraphrased with attribution (adapted)

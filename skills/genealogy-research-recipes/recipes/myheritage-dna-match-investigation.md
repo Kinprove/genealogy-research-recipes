@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 25}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 28}
 ---
 
 # Recipe: MyHeritage DNA match investigation playbook
@@ -98,6 +98,10 @@ DNA uploads are no longer supported. It says nothing about kits uploaded before 
 what such a kit currently shows in the account rather than assuming its matches are gone or
 complete.
 
+Keep checking an earlier array kit or a previously uploaded kit for new matches
+[S42 @2026-11-18]. MyHeritage's whole-genome sequencing FAQ says both can match testers whose
+samples were sequenced [S31 @2026-11-18]. A new test is unnecessary just to keep looking for matches.
+
 ### Before replacing the whole linked tree
 
 **Privacy gate:** <!-- privacy-gate: link --> Relinking kits to a replacement tree moves living
@@ -143,6 +147,17 @@ for a whole-tree replacement, also the old/new kit-profile crosswalk and observe
    can make a moderate match more useful for this question than an uninformative higher-cM match.
 5. Save empty results with their actual query, kit, filters and date. Do not fill an unshown DNA
    measurement with zero or infer that a person outside the list has no shared DNA.
+
+Check the kit's DNA Matches list even when AutoClusters offers no lead. The report uses
+kit-specific thresholds and covers only a subset of matches [S33 @2026-11-18]. If the only
+workable match is absent from the chart, keep it on the shortlist and review it from the match
+list [S32 @2026-11-18].
+
+When a historical maintenance warrant names a possible father who is deceased, run his surname
+as a DNA Matches query [S37]. If a hit leads to his First World War personnel file, match the
+file's identifying details to the warrant [S38]. Check the whole file for court papers recording
+an admission of paternity or agreement to the maintenance order [S37]. Treat the surname hit
+as a lead and record separately what the court papers say.
 
 Do not read few or no Russia-resident matches, or Russian matches missing from an older list,
 as evidence about relatives living in Russia. MyHeritage stopped selling DNA kits in Russia at
@@ -200,6 +215,11 @@ relatives who tested elsewhere appear unmarked. So do not read a missing marker 
    relevant profile links and the next record or question required.
 5. If the next question is about a shared segment, use workflow 5. Being shared matches does not
    establish that all three share the same segment, nor name the ancestor who supplied it.
+
+Place multiple documented shared matches in the tester's tree. If their lines converge on an
+ancestral couple, prioritize that couple as a candidate and trace match A's possible descent
+[S34], [S35]. Keep the couple provisional while the records leave A's line unresolved. Use
+workflow 5 if you need to test whether the shared DNA came through that branch.
 
 **Sort by side in one direction only when your anchor is on one side.** If a known relative on one
 side, such as a maternal aunt, is your only anchor there, a match or cluster she shares is a lead to
@@ -316,6 +336,11 @@ this check without verifying its branch assignments.
 
 **Use when:** MyHeritage proposes a common ancestor or relationship path.
 
+If the purple banner on DNA Matches offers **View theories**, use it to show all matches with a
+theory [S36 @2026-11-18], [S10 @2026-11-18]. Use the Tree details filter below when the banner
+is absent. On an individual match card, choose **View theory** and open each path tab in the
+diagram [S36 @2026-11-18], [S12 @2026-11-18].
+
 1. Save the proposed relationship, common ancestor, complete path and alternative paths before
    changing its review state. Overall displayed confidence is the lowest confidence of the
    component Smart/Record Match links, not a probability that the relationship is true.
@@ -419,6 +444,9 @@ the limited packet reuses workflow 9's preservation controls.
 4. On a reply, attach its source and date, then update the next action. A reported family story
    starts a record search; an unanswered message does not contradict a relationship.
 
+If a match omitted from AutoClusters is your only workable lead, use the approved first-message
+procedure for the unclustered match when you have one question it can answer [S32].
+
 **Output:** approved message and correspondence row.
 
 ## 9. Resume with comparable snapshots and a preserved evidence packet
@@ -438,6 +466,11 @@ the limited packet reuses workflow 9's preservation controls.
 4. Match observations across sessions using stable match links/identifiers where available.
    Record additions, changes and unavailable observations. A disappeared row under changed
    filters or access is not evidence that shared DNA became zero.
+
+If the first DNA Matches review offered no lead, queue another pass for the same kit
+[S39 @2026-11-18]. Use a strong-match email to trigger a fresh review in the account even if
+the initial results showed only distant matches [S40 @2026-11-18], [S41 @2026-11-18]. Read the
+match card before adding the lead to the shortlist.
 
 **Output:** dated packet and a next-session queue with its actual coverage.
 

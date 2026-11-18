@@ -4,14 +4,14 @@ title: "Recovering historical records with MyHeritage"
 summary: "Recover MyHeritage historical records hidden by collection coverage, search fields, name variants, languages or OCR."
 kind: "platform"
 scope: {"platforms": ["myheritage"], "tasks": ["no-result searches, Collection Catalog, relative pivots, historical jurisdictions, newspaper keywords/OldNews or an index that must lead onward to an original record."]}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "MYHERITAGE-HISTORICAL-RECORD-SEARCH-01", "text": "Preserve the sparse baseline before tightening it. If a tighter query fails, relax one condition at a time and record the reason; changing everything together conceals what excluded the record."}]
 handoff: ["ai-for-documentary-records", "beider-given-name-variants", "evidence-proof-judgment"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 33}
+capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 37}
 ---
 
 # Recipe: Recovering historical records with MyHeritage
@@ -145,6 +145,10 @@ In a civil registration index, verify whether a quarter denotes registration rat
 keep certificate volume/page locators. A pension file can be created years after military service:
 do not restrict discovery to the war years alone. [S5, S9]
 
+When a marriage index gives both a license issue date and a marriage date, log them separately.
+If the entry gives only the issue date, leave the ceremony date open and look for a completed
+certificate or return that records it. [S23, S24]
+
 ### 7. Separate the person's place from the record's place
 
 Identify birthplace, residence, event location, publication town and collecting jurisdiction.
@@ -169,6 +173,13 @@ dates are missing. Avoid filling every relative field with guesses. [S1, H1]
 Alternatively search the relative directly, then inspect their household or named associates.
 In passenger records a person can appear as a destination contact or relative remaining abroad,
 as well as a traveler. Read the role and column: a name hit does not establish immigration. [S5]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> If the query identifies anyone who may be living, their name or other identifying terms go to MyHeritage. Hold the query locally until the gate is answered.
+
+Run a parent-name search with the principal's name blank. In MyHeritage's **New York City Births,
+1866–1909**, start with the **Mother** field and inspect the child's recorded name in the hit
+[S20 @2026-11-18] [S21 @2026-11-18]. In **New York City Marriages, 1866–1949**, try a known parent
+of either spouse, since MyHeritage indexes parents as searchable people [S20 @2026-11-18].
 
 ### 9. Replace a weak name with a distinctive contextual clue
 
@@ -239,6 +250,22 @@ inspect other pages and adjacent years for the same pupil's activities and name 
 For a death or unusual incident, search later issues and other local papers: the first report may
 precede a fuller obituary or correction. Preserve newspaper title, publication date, page and a
 full-page copy when available, alongside any clipping. Copied reports are not independent witnesses.
+
+For an obituary index hit, inspect the card image before moving on to the newspaper. In
+MyHeritage's **San Joaquin County Public Library Obituary Index, 1850–1991**, the card can carry
+the newspaper clipping itself [S25 @2026-11-18] [S26 @2026-11-18] [S27 @2026-11-18]. Read the
+clipping separately from the card's annotations.
+
+In MyHeritage's **New York City Marriages, 1866–1949**, page through the entire result. For
+1908–1937, both a Health Department certificate and a City Clerk license can document the same
+marriage. MyHeritage groups them in one result when it has both [S20 @2026-11-18] [S22 @2026-11-18].
+Within the City Clerk papers, check the officiant's completed certificate for witnesses
+[S20 @2026-11-18]. Record their names and any historical addresses or signatures on that page
+as leads for identifying them.
+
+In MyHeritage's **New York City Deaths, 1866–1948**, check the scanned certificate for the person
+who reported the death, even when the index has no reporter [S20 @2026-11-18]. Keep that role
+distinct from the attending physician or the person who requested funeral services.
 
 ### 14. Use supplied tree-event geography as a search worklist
 

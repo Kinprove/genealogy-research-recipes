@@ -11,7 +11,7 @@ handoff: ["galicia-bukovina-habsburg-record-routing"]
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 46}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 53}
 ---
 
 # Recover a Polish original from an index or archival description

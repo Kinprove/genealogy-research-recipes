@@ -50,8 +50,15 @@
 - **S22:** [The GEDCOM Standard, release5.5.1](https://gedcom.io/specifications/ged551.pdf), opened 2026-11-16. Read grammar and event assertions (printedpp21,34–36), association structure(p31), user-defined tags(p74) and changes removing WITN(p72). Destination behaviour remains a separate check.
 - **S23:** [Excluding Living People](https://www.beholdgenealogy.com/blog/?p=3910), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 
+## Additional sources checked 2026-11-18
+
+- **S24:** Daniella Levy, MyHeritage Blog, [Import Your Family Tree to MyHeritage & Uncover Your Global Roots](https://blog.myheritage.com/?p=111420) (17 April 2024). Community source (vendor blog, web page), read 2026-11-18. Used for the author's instructions for Ancestry export and MyHeritage import on an existing site. S25 supplies the current export controls and ZIP packaging. S26 supplies the current registration route.
+- **S25:** Ancestry Support, [Uploading and Downloading Trees](https://redir.ancestry.help/hc/en-us/articles/53933352542867-Uploading-and-Downloading-Trees). Help page read 2026-11-18. Used for the owner-only export, the export and download controls in Tree Settings, and extracting the downloaded GEDCOM from a ZIP. Checked against the public help page.
+- **S26:** MyHeritage Help Center, [How do I upload (import) a GEDCOM file to my family site on MyHeritage?](https://www.myheritage.com/help/en/articles/12852096-how-do-i-upload-import-a-gedcom-file-to-my-family-site-on-myheritage) (21 July 2026). Help page read 2026-11-18. Used for the existing family site menu and upload controls, and the registration page's GEDCOM option, signup fields and Get started button. Checked against the public help page.
+
 ## Credits
 
 - Kinprove original procedural synthesis, with facts checked against the FamilySearch GEDCOM 7.0 specification and the gedcom.io specifications index, a Chronoplex Software blog post, the GEDCOM 5.5.1 standard with inline errata, the ged4py documentation, a Tamura Jones article, the gedcom Ruby gem documentation, the gedcomkit source, the Calendar (New Style) Act 1750, a ScotlandsPeople guide, Familio's GEDCOM help, the gedcom.io migration guide, a FamilySearch Community thread and a RootsMagic support article cited as S1 to S14 — FSL-1.1-MIT (kinprove-original)
 - MyHeritage Knowledge Base, What Is a GEDCOM File and How Does It Help in Genealogy?, 2025-12-02, cited as S18 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
+- Daniella Levy, MyHeritage Blog, 2024-04-17, cited as S24 — third-party procedure paraphrased with attribution (adapted)

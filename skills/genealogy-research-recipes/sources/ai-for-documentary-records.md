@@ -188,6 +188,14 @@ used.
 - **S27:** [Transkribus: Training Text Recognition Models](https://help.transkribus.org/training-text-recognition-models), opened 2026-11-16. Opened current guidance on custom script recognition, accurate image/transcription training pairs and the need to run a new training job; editing recognised text alone does not retrain a model.
 - **S28:** [Transkribus: Managing Datasets](https://help.transkribus.org/managing-datasets), opened 2026-11-16. Opened the training/validation/test distinction and Ground Truth quality requirements. The documented automatic Test Set function is currently unavailable; no automatic test function is promised here.
 
+## Additional sources checked 2026-11-18
+
+- **S29:** Rick Crume, Family Tree Magazine, [Translating Old Genealogy Records: 20 Top Tools](https://familytreemagazine.com/resources/genealogy-translation-tools/), read 2026-11-18. Community article. Crume recommends an aligned scan at 300 dpi or higher and splitting complex material by page or column. He reports cropping and rotating a postcard message and asking a FamilySearch Community volunteer to check a chatbot draft against a German marriage entry. The article supplies the author's examples and comparison, without an independent reading of the record images here or a tested chatbot resolution threshold.
+- **S30:** Massachusetts Archives, [Digitization Guidelines](https://www.sec.state.ma.us/divisions/archives/records-management/digitization-guidelines.htm), read 2026-11-18. Institutional guidance. Recommends 300–400 ppi for printed and handwritten text, and a wider range for damaged text. Writing size, fading and handwriting inform the choice. The guidance concerns digitization, with no chatbot input requirement.
+- **S31:** FamilySearch Community, [Germany Research](https://community.familysearch.org/en/group/88-germany-research), read 2026-11-18. Public group page labels the group public and asks users to start translation discussion titles with “Translation Request.” The listing and instructions were read without making a post.
+- **S32:** Robert Seal, FamilySearch Community, [Help Us to Help You with Your Translation Requests](https://community.familysearch.org/en/discussion/187145/help-us-to-help-you-with-your-translation-requests), read 2026-11-18. Community discussion. The post requests year, locality and whole-page context. A follow-up accepts a crop with a usable link, and a later reply explains why subscription links alone may be inaccessible to volunteers.
+- **S33:** FamilySearch Help Center, [Do I have a legal right to use images I find on FamilySearch?](https://articles.familysearch.org/hc/en-us/articles/41672056350235-Do-I-have-a-legal-right-to-use-images-I-find-on-FamilySearch), read 2026-11-18. Official help on permission to publish FamilySearch record images. Used to ground the sharing-terms check. The help describes FamilySearch images and does not establish terms for other providers.
+
 ## Credits
 
 - Family Locket blog (Nicole Elder Dyer, Diana Elder), posts cited as S5, S6 and S9 — All rights reserved; short attributed adaptation (adapted)
@@ -197,3 +205,4 @@ used.
 - GitHub contributor lazyants, issue #327 and its measured-cost comment, cited as S15–S16 — Rights not established; attributed observations and measurements (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
+- Rick Crume, Family Tree Magazine, scan preparation and volunteer review, and Robert Seal, FamilySearch Community, translation request advice — attributed paraphrases (adapted)

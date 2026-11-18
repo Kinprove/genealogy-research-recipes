@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["elib.nlu.org.ua"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Ukrainian archives", "order": 73}
+router: {"section": "Records by country and region", "group": "Ukrainian archives", "order": 81}
 ---
 
 # Recipe: Recovering and identifying Ukrainian archival guides in ELIB

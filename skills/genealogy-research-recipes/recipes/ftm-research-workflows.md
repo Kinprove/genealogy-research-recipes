@@ -29,6 +29,7 @@ For identity and kinship decisions, use [evidence/proof judgment](evidence-proof
 - 4\. Search Ancestry and FamilySearch from Web Search
 - 5\. Roll back with Turn Back Time only when later work can go
 - 6\. Collect relatives' corrections through Connect
+- 7\. View your own tree in FTM Connect
 - Return packet
 
 ## What goes wrong
@@ -94,6 +95,18 @@ In FTM 2024 the Connect workspace shares the tree through TreeVault cloud servic
 2. **Privacy gate:** <!-- privacy-gate: contact --> An invitation contacts a living person. Answer the privacy gate in `SKILL.md` and apply the consent and disclosure rules and log of [DNA match outreach staging](dna-match-outreach-staging.md), skipping its DNA-only parts. The Connect workspace takes guests from people in the tree, from the computer's contacts or from typed email addresses, and sends a default or personalized email invitation [S20 @2026-11-16], [S22 @2026-11-16]. Add only the relatives the user names, with addresses the user already has. Do not import the address book and do not look up anyone's email address: the Living people rule applies.
 3. A guest's Relative Hint sticky note appears in the tree as soon as it is added [S8 @2026-11-16]. Review the notes on the Get Hints tab, which can turn a note into a fact or a permanent note [S20 @2026-11-16]. Before you convert one, record it as that relative's statement: who said it, when, and whether they saw the event. Then look for a record, and weigh the statement with [family interviews and oral tradition](family-interviews-and-oral-tradition.md).
 
+## 7. View your own tree in FTM Connect
+
+According to the episode transcript (partial read), Andrew Koch suggests consulting the tree on a phone or tablet when away from the desktop [S23†], [S24].
+
+In FTM 2024, use a TreeVault trial or subscription to maintain the Antenna Tree and the Family Tree Maker Connect mobile app to view it [S25 @2026-11-18], [S26 @2026-11-18]. Leave the desktop Connect workspace's guest invitations for §6.
+
+**Privacy gate:** <!-- privacy-gate: upload --> The Source tree's data and later edits go to Software MacKiev's TreeVault, including data about people who may be living [S27 @2026-11-18]. Identify the people, facts, notes and any media the upload would include. Answer the privacy gate in `SKILL.md` before accepting any prompt to create an Antenna Tree.
+
+Reuse the Antenna Tree if it already belongs to the Source tree you need. If the account has an Antenna Tree for a different Source tree, stop before replacing it. If there is none, open the intended Source tree and choose **Create Antenna Tree** from the TreeVault menu. Wait for the upload to finish [S27 @2026-11-18].
+
+Before leaving the desktop, sign in to FTM Connect on the phone or tablet with the owner's TreeVault account and verify that the expected tree opens [S25 @2026-11-18], [S28 @2026-11-18].
+
 ## Return packet
 
 - Ancestry: for each citation in the research question, whether its image is local or a gap naming the database; the backup file name; the privacy-gate answers for the sync.
@@ -102,3 +115,4 @@ In FTM 2024 the Connect workspace shares the tree through TreeVault cloud servic
 - Web Search: each candidate with its decision and the evidence used.
 - Turn Back Time: any rollback, the action rolled back and the backup file name.
 - Connect: the guests invited, the gate answers, and each relative's note logged as a statement with its follow-up record search.
+- For mobile reference, record which Antenna Tree opened on the device and the privacy-gate answers for any upload.

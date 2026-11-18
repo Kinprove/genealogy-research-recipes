@@ -143,6 +143,11 @@ The worksheet schemas, validation controls and prompt are original synthesis.
 - **S46:** Michael John Neill, Genealogy Tip of the Day, [Classifieds May Address Your Person](https://genealogytipoftheday.com/index.php/2023/08/12/classifieds-may-address-your-person/), 2023-08-12, read 2026-11-14. Used for: classified ads that can show where a person lived or had a business when the person is not in the city directory or no directory is available.
 - **S47:** Family Tree Magazine, [6 Old Newspaper Articles (Besides Obituaries) Where You Can Find Your Ancestors](https://familytreemagazine.com/records/newspapers/newspaper-article-types/), 2023-03-24, read 2026-11-14. Used for: a 1957 classified ad whose listing includes the business's address, and classified ads placed by private people.
 
+### Occupations and gaps
+
+- **S48:** Aryn S. Youngless, Family Tree Magazine, [Writing a New Narrative: Turning Genealogical Details into Family Stories](https://familytreemagazine.com/storytelling/writing/writing-a-new-narrative-turning-genealogical-details-into-family-stories/), read 2026-11-18. Community article. In “Ethically Fill Gaps,” Youngless suggests that a later lodging-housekeeper listing raises the possibility of taking in boarders during early widowhood. The article gives no directory locator for the listing and supplies no record dating the start of that work.
+- **S49:** New York Public Library, [City directories](https://libguides.nypl.org/genealogy/gettingstarted/citydirectories), research guide, read 2026-11-18. Used for: directories recording reported occupations and letting researchers trace career changes across a series of entries.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
@@ -153,3 +158,5 @@ The worksheet schemas, validation controls and prompt are original synthesis.
 - Katie, Price Genealogy, cited as S32 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Cari A. Taplin, Genealogy Pants blog, cited as S36 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - English Ancestors blog, cited as S37 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Aryn S. Youngless, Family Tree Magazine article, cited as S48 — Third-party article; method adapted with attribution (adapted)
+- New York Public Library research guide, cited as S49 — Third-party guidance paraphrased with attribution (adapted)

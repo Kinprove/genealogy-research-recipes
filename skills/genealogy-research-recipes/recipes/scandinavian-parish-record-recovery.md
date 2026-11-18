@@ -4,14 +4,14 @@ title: "Reconstruct a Swedish household through parish examination and moving re
 summary: "Reconstruct a Swedish household through the household-examination, birth, marriage, death and moving registers."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "SCANDINAVIAN-PARISH-RECORD-RECOVERY-01", "text": "Follow the family by farm or residence and by page cross-reference, not by patronymic. Settle identity at the household level."}]
 handoff: ["scandinavian-patronymic-farm-name-record-recovery", "tax-roll-observation-workflow"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 101}
+capabilities: {"browse": ["record catalogues and original images", "MyHeritage Swedish vital-record indexes"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 110}
 ---
 
 # Reconstruct a Swedish household through parish examination and moving registers
@@ -68,6 +68,12 @@ The cross-references run both ways. Expect them and follow them [S5]:
 - A move within the parish is noted with the page of the new residence. A move out of the parish is often noted with the departure date and the number of the moving-out entry.
 
 Record every page reference exactly as written, including ones you have not followed yet. If an expected reference is missing, note that as well.
+
+### Separate Swedish banns from the wedding
+
+Start the banns search in the bride's parish. Record the announcement under *lysning* and establish the wedding date from the *vigsel* entry. If the banns entry gives no wedding date, follow any wedding-parish note and search for the wedding separately. The two entries can be in different parishes. [S32] [S33] [S34]
+
+When an index hit gives a banns number and a wedding number, copy each with its label, parish and year. Use each number in the corresponding register or column and confirm both spouses in the entries. Keep entry numbers separate from printed page numbers. [S32] [S35]
 
 ### Decode an urban number before opening a page
 
@@ -165,6 +171,20 @@ Genealogy Gems lists several ways the trail can break [S5]:
 In these cases, browse the examination volumes by the recorded birth date. Birth dates sit in their own column and are easier to spot than names [S5]. A birth-date hit is only a candidate household. Before you link it, confirm it by matching the other members and the farm, and by at least one independent birth, marriage or death entry. Use any surviving farm or moving references as further support. In these cases their absence is expected and does not block the link.
 
 For Stockholm city from 1878 to 1926, the roteman offices kept the population register because parish registration could no longer keep up. Search the Rotemansarkivet at Stockholms stadsarkiv. Its online database is incomplete; the whole archive is on the computers in the archive's reading rooms. Record which version you searched. [S27]
+
+### Use a Swedish vital-record index to recover a parish lead
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Apply the privacy gate to the names, dates and places that the search will send to MyHeritage and to each person those terms describe, including anyone who may be living. Send only the terms needed for the search.
+
+Search the matching MyHeritage collection if you still need a parish or cannot locate the vital entry. Carry the hit back to the parish books and establish identity from the household and original entries.
+
+For a birth, use *Sweden Births, 1850–1920*. Take the parents' names and recorded residence into the parish's household examination or parish book. If the birth entry also gives a baptism date, record it separately. [S32 @2026-11-18] [S36 @2026-11-18]
+
+For a wedding, use *Sweden, Marriages and Banns, 1850–1945*. Compare both spouses' names, recorded ages or birth years, and residences with the household entries. Use a parent's name to extend the line only when the parish entry actually identifies that person as a parent. [S32 @2026-11-18] [S37 @2026-11-18]
+
+For a death, use *Sweden, Deaths, 1850–1945*. Match the birth date or age, residence and any named relatives to the household. In the parish entry, record the death and burial dates separately when both are given. [S32 @2026-11-18] [S33 @2026-11-18] [S38 @2026-11-18]
+
+If the image is a church-book extract sent to Statistics Sweden (*SCB*), cite it as an extract and take its parish and year to the parish's own register. Check that register before treating an omitted detail as absent. [S32] [S39]
 
 ### Follow a Norwegian or Danish lead through its separate bulletin index
 

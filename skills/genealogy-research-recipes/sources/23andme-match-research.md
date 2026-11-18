@@ -95,9 +95,18 @@ percentage. O17 holds. Recipe 10 was corrected to match, and S15 was re-read for
 cross-platform labels. No platform page was unreadable. Other practitioner posts, forum threads
 and videos that support methods, history or examples were not re-read.
 
+### Automatic Family Tree placements
+
+- **O29:** 23andMe Support, [The 23andMe Family Tree Feature](https://support.23andme.org/hc/en-us/articles/42963511056023), opened and read 2026-09-04. The How it works section describes shared DNA, ages and predicted relationships among matches as inputs to the generated tree.
+- **S33:** Family Tree Magazine Podcast, [Celebrating 15 Years of the Family Tree Magazine Podcast](https://www.youtube.com/watch?v=yFTJ_vF6x3E), video dated 2024-01-14 in the supplied metadata. Watch page access attempted 2026-09-04. The watch page and online captions could not be opened. The supplied transcript excerpts were read for the caution about ages within a generation, which S34 independently supports.
+- **S34:** Your DNA Guide, [How Long Is a Generation?](https://www.yourdnaguide.com/ydgblog/how-long-is-a-generation), published 2023-10-09, opened and read 2026-09-04. The author documents a widening age gap across branches, including between second cousins, and illustrates how an age-weighted estimate can downrank the documented relationship.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
 - Roberta Estes, DNAeXplained blog, posts cited as S7 and S31 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Jonny Perl, DNA Painter Blog, posts cited as S10 and S32 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - 23andMe, Premium Ancestry product page cited as O28 — Vendor page; brief quotation of its advertised figure with attribution (quoted)
+- 23andMe Support article cited as O29 — Vendor documentation paraphrased with attribution (adapted)
+- Family Tree Magazine Podcast episode cited as S33 — Community guidance paraphrased from supplied excerpts (adapted)
+- Your DNA Guide article cited as S34 — Pedigree example and research guidance paraphrased with attribution (adapted)

@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "gedmatch-practical-dna-workflows", "xdna-phasi
 checked: "2026-10-18"
 checked_basis: "checked 2026-10-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool", "upload"], "contact": []}
-router: {"section": "DNA", "group": "DNA reasoning", "order": 20}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 23}
 ---
 
 # Recipe: DNA comparison controls across services
@@ -42,6 +42,13 @@ A surname search can retrieve an ancestral surname rather than the tested person
 name. MyHeritage documents both as search targets. Inspect the returned card's own
 person and kit, and use spelling or script variants as leads rather than identity
 proof. A search miss with unresolved kit identity leaves the control unavailable. [H1]
+
+When a same-surname Y-DNA match appears too distant for the proposed relationship
+and the families lived near each other, check the autosomal results already available
+for the same two testers, following the advice reported in the transcript excerpt [H44†].
+Use the amount of autosomal sharing to assess whether a closer relationship fits [H45].
+Require segment and pedigree evidence before assigning the autosomal sharing to the
+direct paternal line [H46].
 
 Check the query or comparison with a known positive on the same selected kit and
 scope. Choose a control that exercises the operation being relied on: retrieving a

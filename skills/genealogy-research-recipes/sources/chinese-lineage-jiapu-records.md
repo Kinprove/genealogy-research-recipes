@@ -23,6 +23,11 @@ Tongzhi example is not adopted until it is checked in a conversion table.
 - **S11:** Chinese Lunar New Year, [Chinese Lunar New Year](https://www.pricegen.com/chinese-lunar-new-year/), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope.
 - **S12:** FamilySearch, Understanding Chinese Lunar Dates, [FamilySearch, Understanding Chinese Lunar Dates](https://www.familysearch.org/en/chinese/research/lunar-dates), opened 2026-11-16. Read the year-month-day order, the 12-year animal cycle and lunar years whose boundaries differ from Gregorian years; no particular recalled year was converted.
 
+## Additional sources checked 2026-11-18
+
+- **S13:** MyHeritage Blog, [Exploring the Diverse Origins of Middle Names: From Tradition to Trend](https://blog.myheritage.com/2024/10/exploring-the-diverse-origins-of-middle-names-from-tradition-to-trend/), published 2024-10-08. Community source, web page, Chinese naming passage read 2026-11-18. Describes the usual surname-first form, given-name length and absence of a separate middle name in this form.
+- **S14:** IFLA Cataloguing Section, with guidance from the National Library of China, [Names of Persons — Chinese Names](https://cdn.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/pubs/ifla_names_of_persons_chinese_names_2020.pdf), updated August 2020. Institutional PDF, name-element tables and catalogue-heading guidance read 2026-11-18. Independently supports reading the surname first in character-written Chinese names, keeping compound surnames intact and treating a two-character given name as a single element.
+
 ## Credits
 
 - Kinprove original procedural synthesis drawing on BYU Family History Library presentations by Franklin West, Clotilde Yap and Matthew Tyler (cited as S1–S5) — FSL-1.1-MIT (kinprove-original)
@@ -30,3 +35,4 @@ Tongzhi example is not adopted until it is checked in a conversion table.
 - S1: Franklin West, Beginning Chinese Research, BYU Family History Library, YouTube, published 2023-10-26 — Standard YouTube License; short quotation with attribution (quoted)
 - Kinprove original summaries and retrieval safeguards grounded in official NARA, FamilySearch, National Library of China and Palace Museum references S6–S10; no records, book images or source passages reproduced — FSL-1.1-MIT (kinprove-original)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
+- Kinprove original name-field instructions grounded in the MyHeritage and IFLA guidance checked 2026-11-18 — FSL-1.1-MIT (kinprove-original)

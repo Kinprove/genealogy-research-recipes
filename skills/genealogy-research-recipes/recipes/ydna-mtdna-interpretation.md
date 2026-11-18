@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-match-outreach-staging"]
 checked: "2026-07-18"
 checked_basis: "accessed 2026-07-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool", "upload"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA reasoning", "order": 18}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 21}
 ---
 
 # Recipe: Interpreting Y-DNA and mtDNA — what a haplogroup or STR/sequence match can (and can't) establish
@@ -159,6 +159,8 @@ Base rate cuts **both** ways: a commonly-cited **~5% per generation** misattribu
 When a medieval pedigree says several surnames descend from one ancestor, test it against the SNP branches of the surnames' tested bearers instead of accepting it, or checking only that the surnames fall under the dynasty's haplogroup. Place each surname on the Y tree by its testers' SNPs and on the pedigree, then ask three questions: do the reportedly related surnames cluster on one branch, does the branching order match the pedigree's, and do the branch ages fit the estimated births of the pedigree's common ancestors (Gleeson and DePew, FamilyTreeDNA blog, 2024-06-18 [N114 @2026-11-12])? Surnames from one pre-surname clan should sit on adjacent branches, probably under one overarching SNP (2024-05-24 [N113 @2026-11-12]). Testers of a clan who sit above the dynasty's defining SNP count against the clan's claimed attachment: the O'Malleys of Mayo fall under DF105, two steps above A259 [N114 @2026-11-12]. Rest that inference on several testers of the clan, not one man, and on a dynasty SNP established from its other lines. Two lines that fail to join where the pedigree joins them flag either a genealogical error or a DNA switch on one line, and the tree does not say which; the authors thought the genealogical error possibly more likely [N114 @2026-11-12]. Branch ages carry intervals of centuries, so an age that fits is weak support, and DNA alone does not show that a named ancestor existed [N114 @2026-11-12].
 
 A surname missing from the expected branch does not make the pedigree false. Its original signature may be absent because the surname died out, no bearer has tested, a DNA switch uncoupled the name from the signature, a family adopted a more powerful lord's surname (surname gravity), the Irish form was lost in 16th–19th-century anglicization, or testers have not made their results public on project pages (Gleeson and DePew, FamilyTreeDNA blog, 2024-05-24 [N113 @2026-11-12]).
+
+**Check which branch the Genghis Khan claim refers to.** The MyHeritage blog suggests comparing branches within C-M217 [N143 @2026-11-18]. Compare the tester's deepest measured SNPs with the specific branch cited for the claimed descent. The C2*-Star Cluster (C-F3796) is downstream of C-M217, and its estimated common ancestor predates Genghis Khan (Wei et al., 2018 [N144 @2026-11-18]). Use regional distributions to describe the sampled branches. Leave the named ancestor unresolved even if the comparison reaches the Star Cluster or the branch sampled in Golden Horde burials. Require independent evidence tying the reference branch to Genghis Khan before using it to evaluate a pedigree to him (Hawks, 2026 [N145 @2026-11-18]).
 
 ## When Y haplogroups differ: compare calls, then choose the next tester
 

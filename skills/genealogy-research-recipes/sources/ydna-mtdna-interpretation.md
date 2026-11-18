@@ -158,6 +158,10 @@
 141. *6 - Your Experiment: Branch Splitting to Improve Haplogroup Estimates for Big Y-700 DNA Test* — My Family Pattern (YouTube), 2024-08-13 — <https://www.youtube.com/watch?v=JauMRTmB8hQ> — Rights: cited reference, not reproduced. Used for recruiting Big Y-700 testers for an unplaced autosomal cluster, the shared estimate moving from about 1814 to 1767 and 1743 as testers were added, the cluster's new branch dated about 1809, and the records giving only indirect evidence. Transcript read on 2026-11-14 in a captured copy; the video page was checked the same day.
 142. *Explore Your Father's Line With Big Y-700* — FamilyTreeDNA product page, checked 2026-11-14 — <https://cms.familytreedna.com/?p=4027> — Rights: cited reference, not reproduced. Used for shared private variants becoming new branches on the haplotree and Big Y estimating the time to the most recent common ancestor with matches. The page's canonical address returned HTTP 404. Page read on 2026-11-14.
 
+143. *Unraveling the Family Tree of Genghis Khan: Exploring the Roots* — MyHeritage Blog, 2025-01-13 — <https://blog.myheritage.com/?p=114115> — Rights: cited reference, not reproduced. Community source for the proposed C-M217 connection and the suggestion to compare regional variants. Its description of C-M217 as a unique haplotype is corrected by N144. Read in full on 2026-11-18.
+144. *Whole-sequence analysis indicates that the Y chromosome C2\*-Star Cluster traces back to ordinary Mongols, rather than Genghis Khan* — Lan-Hai Wei et al. (European Journal of Human Genetics), 2018-01-22 — <https://loca.fudan.edu.cn/Doc/A153.pdf> — Rights: cited reference, not reproduced. Used for the phylogenetic placement of the C2*-Star Cluster under C-M217, its estimated age before Genghis Khan, and the regional distribution of sampled subbranches. Full text read on 2026-11-18 in the Fudan University copy.
+145. *Genomes from tombs of the Golden Horde, and the Y chromosome of Genghis Khan* — John Hawks, 2026-03-06 — <https://www.johnhawks.net/p/genomes-from-tombs-of-the-golden> — Rights: cited reference, not reproduced. Used for the study coauthor's account of the Golden Horde burial results and the lack of a direct link from those samples to Genghis Khan's genealogical heirs. Read in full on 2026-11-18.
+
 ## Credits
 
 - Roberta Estes, 'All About AI – What It Is, What It Isn't, and Why It Matters', DNAeXplained, 2026-06-25 — FSL-1.1-MIT (adapted)
@@ -168,4 +172,5 @@
 - Judy G. Russell, The Legal Genealogist, cited as N132 — Third-party post; rights remain with the author; paraphrased with attribution (adapted)
 - My Family Pattern, YouTube videos cited as N133, N137 and N141 — Third-party videos; rights remain with the creator; methods paraphrased with attribution (adapted)
 - Richard Price, Price Genealogy, 'Happy DNA Day!', cited as N134 — Third-party post; rights remain with the author; case paraphrased with attribution (adapted)
+- MyHeritage Blog, Genghis Khan post cited as N143 — Third-party post; rights remain with its publisher; advice paraphrased with attribution and corrected against independent evidence (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
