@@ -22,6 +22,9 @@
 
 The sequence of steps, the failure list and the request packet are authored synthesis. The presenter supplies the requirements, resources and examples. Authority links given inline correct or confirm his statements where they have been checked. Wikipedia merger histories are a convenience route and should be confirmed with the municipality.
 
+- **S20:** MyHeritage Blog, [Exploring the Diverse Origins of Middle Names: From Tradition to Trend](https://blog.myheritage.com/2024/10/exploring-the-diverse-origins-of-middle-names-from-tradition-to-trend/), published 2024-10-08. Reviewed community blog post (`web-page`, access `read`). Opened 2026-11-18 and read the discussion of Japanese names under “Cultural identity.” It describes the traditional family-name and given-name order and the absence of a middle name in that form.
+- **S21:** Agency for Cultural Affairs, National Language Council, [国際社会に対応する日本語の在り方, III.2(1)](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kakuki/22/tosin04/16.html), report dated 2000-12-08. Reviewed official report section (`web-page`, access `read`). Opened 2026-11-18 and read the section on romanizing Japanese names. It identifies surname-first as the traditional order and documents both orders in romanized usage.
+
 ## Credits
 
 - Kinprove original procedural synthesis. Presenter facts are paraphrased and cited as S1 (Koji Sekiguchi, BYU Family History Library, 30 May 2024) and S2 (Koji Sekiguchi, BYU Family History Library, 12 Nov 2025). Legal and fee details are paraphrased from official authority pages linked inline. Other details are paraphrased from the third-party pages S6, S8, S12 and S15. — FSL-1.1-MIT (kinprove-original)
@@ -31,3 +34,4 @@ The sequence of steps, the failure list and the request packet are authored synt
 - Video titles of S1 and S2 as published by BYU Family History Library on YouTube — Not applicable (titles quoted for citation) (quoted)
 - Page titles of S3–S15 as published on the linked pages — Not applicable (titles quoted for citation) (quoted)
 - Kinprove original summaries of official municipal and prefectural guidance S16–S19, with ordinary eligibility, document proof, wide-area products and survival kept separate; no certificate or register image reproduced — FSL-1.1-MIT (kinprove-original)
+- Japanese name parsing guidance adapted from the MyHeritage Blog (S20) and scoped using the National Language Council’s report (S21) — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)

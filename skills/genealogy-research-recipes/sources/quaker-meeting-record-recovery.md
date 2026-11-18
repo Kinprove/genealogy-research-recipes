@@ -77,6 +77,18 @@ What was not verified:
 
 - **S28:** Hiram H. Hilty, [Toward freedom for all: North Carolina Quakers and slavery, Part 4](https://ldsgenealogy.com/NC/books/Toward-freedom-for-all-North-Carolina-Quakers-and-slavery-part-4.htm). Passage read 2026-11-16. Used for: Machine-generated book text describes separate emancipation papers, court-issued deeds and private papers without court approval; not every instrument established legal freedom or a county-deed entry.
 
+### Additional sources checked 2026-11-18
+
+- **S29:** Community video, [Quakers and Military Service - JG0024](https://www.youtube.com/watch?v=bc_TJeE_GRA), published 2022-04-04 (supplied metadata). Supplied transcript excerpts read 2026-11-18. The video page could not be opened, and the full transcript and description were not inspected. Used for: the presenter’s suggestions to use military-related index terms, follow a case across entries, look for readmission after disownment, distinguish wartime support from enlistment, and check service and affiliation in the appropriate records.
+
+- **S30:** Ancestry, [Research Guide to Finding Your Quaker Ancestors](https://www.ancestrycdn.com/mars/landing/quaker/quaker-guide.pdf). Abbreviation table read 2026-11-18. Used for: the expansion of `exms` in the Hinshaw collections. This is the published guide’s table, and does not establish the location of abbreviation cards in the live collection viewer.
+
+- **S31:** Genealogical Society of Pennsylvania, [Bucks County Quakers and the Revolution](https://genpa.org/wp-content/uploads/publications/pennsylvania-genealogical-magazine/PGM-Volume-25-Number-1.pdf), *The Pennsylvania Genealogical Magazine* 25, no. 1 (1967), pp. 18–34. Transcribed minutes read 2026-11-18. Used for: Middletown Monthly Meeting entries distinguishing a report received, committee follow-up and final action, and recording different grounds for wartime discipline. The original minute book was not inspected.
+
+- **S32:** Maria M. Thompson, Free Quaker Society, [Historian’s Report](https://freequakers.org/wp-content/uploads/2020/10/Historians-Report-2010.pdf), 2010-11-18. Biddle passage read 2026-11-18. Used for: the historian’s account of wartime disownment for promoting military preparations and instruction, followed years later by an acknowledgment and reinstatement. The underlying meeting records were not inspected.
+
+- **S33:** U.S. National Archives, [Pre-World War I U.S. Army Pension and Bounty Land Applications](https://www.archives.gov/research/military/army/pensions). Contents and Revolutionary War sections read 2026-11-18. Used for: compiled military service records as sources for testing service, and applications and their supporting affidavits as further sources. The guide does not establish how often the records contain religious affiliation.
+
 ## Credits
 
 - BYU Family History Library, Maureen Brady, Quaker Family History Research (5 November 2025) — Third-party content, all rights reserved by the rights holder; brief attributed adaptation (adapted)
@@ -85,3 +97,5 @@ What was not verified:
 - Community video, First Steps in Genealogical Research in a County - JG0197 (S13) — Third-party content, all rights reserved by the rights holder; a single recommendation paraphrased with attribution, no quotation (adapted)
 - Thomas C. Hill, Monthly Meetings in North America: A Quaker Index, on QuakerMeetings.com (S14), licensed CC BY-NC-SA 4.0 as stated on the page — factual record-location statements paraphrased with attribution; no text reused (adapted)
 - Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
+- Community video, Quakers and Military Service - JG0024 (S29) — Third-party content, rights remain with the rights holder. Suggestions paraphrased from supplied transcript excerpts (adapted)
+- Ancestry’s Quaker research guide (S30) — Short factual abbreviation label and expansion with attribution (quoted)

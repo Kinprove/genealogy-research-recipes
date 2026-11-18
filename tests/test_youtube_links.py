@@ -18,7 +18,7 @@ VIDEO_URL = re.compile(
 )
 VIDEO_ID = re.compile(r"^[A-Za-z0-9_-]{11}$")
 # Real IDs with no capital letter, each opened on YouTube and matched to its cited video.
-VERIFIED_LOWERCASE_IDS = {"fn1m71109bg", "g5kj-arn5ts", "pdqsz950wnc"}
+VERIFIED_LOWERCASE_IDS = {"7v6-k4_4gtw", "fn1m71109bg", "g5kj-arn5ts", "pdqsz950wnc"}
 
 
 def bad_video_ids(text):

@@ -4,14 +4,14 @@ title: "Newspapers.com: Recover Notices That Name Searches Miss"
 summary: "Find notices on Newspapers.com that name searches miss, after checking which titles and issues are actually covered."
 kind: "platform"
 scope: {"platforms": ["newspapers.com"], "tasks": ["a failed newspaper name search, an unknown maiden name, a missing obituary, immigration or family-reconstruction leads, title changes, incomplete issue coverage, alternate holdings or unreadable OCR."]}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "NEWSPAPERS-COM-SEARCH-RECOVERY-01", "text": "A surname can occur in one item and a travel verb in another on the same page. Confirm the subject and event within the actual item before assigning that event to the searched person."}]
 handoff: ["ai-for-documentary-records", "australia-nz-record-routing", "court-case-file-recovery", "criminal-court-prison-record-recovery", "evidence-proof-judgment", "research-documentation", "us-federal-court-case-file-recovery"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["newspapers.com"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 34}
+capabilities: {"browse": ["newspapers.com"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 38}
 ---
 
 # Newspapers.com: Recover Notices That Name Searches Miss
@@ -200,6 +200,13 @@ about the former and current operators as a business-occupancy lead. Correlate d
 assigning the person's residence or departure. The [successor-notice example](https://familylocket.com/eleven-newspaper-notices-how-hotel-ads-and-sheriffs-sales-helped-prove-thomas-beverly-roystons-parentage/)
 supports this retrieval pivot; one later advertisement supplies no exact move or ownership date.
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The deceased occupants' historical house number and street name go to Newspapers.com.\
+Search the historical house number and street name by themselves in local papers from the
+household's period of occupancy. Leave the surname out of this pass [S94]. Check estate-sale and
+auction ads for itemized household goods [S95]. The speaker's example from the available excerpt
+concerns a sale before a move [S93]. Check dated occupancy evidence before attributing the advertised
+goods to the household.
+
 Date every letter-list entry and record the office holding the unclaimed mail; it suggests an
 intended destination or travel stop, not a residence. A pickup office can sit in another county or state than the residence, so search the
 residence records of every county that office served, including across the border. A dated
@@ -243,6 +250,12 @@ identical text may be a copy. Sources: [timing](https://www.youtube.com/watch?v=
 [memorial notices](https://www.youtube.com/watch?v=70ya-VPbkBc),
 [concurrent obituaries](https://www.youtube.com/watch?v=qLzNItRPj_c) and S3. None sets a typical
 interval, so set the extended window as an explicit budget.
+
+If an obituary refers to an unidentified event, such as “the flood,” use the event's likely place
+and date to select local papers [S94]. Follow the speaker's suggestion from the available excerpt
+and browse the issue for that date and the issues immediately before and after it [S93], [S96].
+Read the local reporting for the event's name and effects. Keep the identification provisional
+until the place and timing fit the obituary's reference.
 
 For a death in roughly the last hundred years, search the papers of the birthplace, the marriage place and every place the person lived for a significant time, as well as those of the death place: a family could place the obituary in a former hometown [S62], [S63]. The tip's author notes that this does not hold for most 19th-century deaths [S62]. For an emigrant, also search the home country's papers. A family there could print a death notice for a death abroad that the destination's papers never carried, and a Scottish local paper's death notices of 1837 to 1855 include deaths in Australia, Canada, India and the United States [S65], [S66].
 

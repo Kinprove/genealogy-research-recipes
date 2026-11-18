@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 111}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 120}
 ---
 
 # Recover a Quaker ancestor from monthly-meeting minutes and removal certificates
@@ -19,6 +19,18 @@ router: {"section": "Records by country and region", "group": "United States: pe
 Use this recipe when you have a Quaker surname, a candidate monthly meeting and state, and a Hinshaw or Ancestry index entry or abstract. Before relying on Hinshaw, check that it covers the meeting. Decode the entry's meeting before you assign it to a place. Then read the original men's and women's minutes and both removal-certificate series as images. Keep each numbered date exactly as written.
 
 Some steps belong to other recipes. To test a disputed year against the documented calendar and follow record versions, use [evidence/proof judgment](evidence-proof-judgment.md) § Follow record versions and test disputed dates. For general Ancestry zero-result diagnosis, use [Ancestry record-search recovery](ancestry-record-search-recovery.md).
+
+## Contents
+
+- Identify the meeting and reported record holder
+- Check compiled-abstract coverage before trusting silence
+- Decode the meeting code, then collect surname leads
+- Read both sexes' minutes and certificate series
+- Read disciplinary labels and emancipation instruments
+- Trace military-related discipline and verify service
+- Check meeting-related court proceedings when minutes are unavailable
+- Preserve numbered dates literally
+- Close with a meeting-scoped packet
 
 ## Identify the meeting and reported record holder
 
@@ -39,6 +51,8 @@ Use Thomas C. Hill’s Monthly Meetings in North America index at QuakerMeetings
 3. Once the meeting is decoded, search the meeting name together with the surname to gather every entry for that family in that meeting [S1]. Keep these entries as leads. A shared surname within one meeting does not establish one household or kinship.
 4. Keep the literal code, the decoded meeting name, and the key you used side by side, so that another researcher can check a misread code.
 5. Before you read an event from an entry, decode its abbreviations with the list at the front of the Hinshaw volume (Volume I, page xv) [S7], [S8]. Common ones: rocf = received on certificate from; gct = granted certificate to; rq = requested; rqct = requested certificate to; dis = disowned (for); mou = married out of unity (one partner not a Friend, or of another branch); mcd = married contrary to discipline; con = condemned (the member acknowledged his or her own misconduct); rmt = reported married to; d = died; dec = deceased; dt = daughter. "dis mou" records a disownment for marrying out of unity, not a death or a move. Copy the abbreviation literally and put your expansion beside it.
+
+In the Hinshaw collections, expand `exms` as “excused from military service” [S30]. According to the supplied transcript excerpt, the presenter suggests using the abbreviation as a cue for military-related entries [S29†]. Follow the cue to the meeting entry and record the excuse in the terms the entry uses.
 
 ## Read both sexes' minutes and certificate series
 
@@ -74,6 +88,14 @@ Use Thomas C. Hill’s Monthly Meetings in North America index at QuakerMeetings
 
 2. In North Carolina Quaker minutes, a statement that someone was freed “by instrument” is a lead to a separate emancipation paper. Search the meeting papers and relevant local court or deed records for the instrument itself. Hilty describes both court-issued deeds and private papers made without court approval; the phrase alone does not prove a recorded deed, immediate freedom or legal recognition. [S25], [S28]
 
+## Trace military-related discipline and verify service
+
+Browse the monthly meeting’s minutes on both sides of a military-related disciplinary entry. Put the first complaint or report, committee visits and reports, and the meeting’s decision in date order wherever they survive [S31]. According to the supplied transcript excerpt, the presenter suggests tracing the case across entries and checking later minutes for a return to membership [S29†]. After a disownment, look for an acknowledgment and the meeting’s separate decision restoring membership before recording a return [S32].
+
+For a Revolutionary-era disownment, record the stated cause and distinguish enlistment from other support for the war effort [S31], [S32]. If the minutes say enlistment was reported, retain it as a report received by the meeting and identify the informant if named [S31]. Check the military records that fit the conflict and place for evidence of the service itself, including relevant compiled service records, pension applications and bounty-land applications [S33].
+
+If early U.S. military records are silent about religion, leave Quaker affiliation open and look for membership or disciplinary entries in the candidate meeting for the period of service [S31]. If a pension affidavit mentions affiliation, record who made the statement [S33].
+
 ## Check meeting-related court proceedings when minutes are unavailable
 
 If early minutes for the target meeting are unavailable, use its locality and period to look for court proceedings concerning Quaker gatherings, then inspect whom they name as attending. Ruane's Salem account motivates this fallback; keep a described gathering separate from the identified monthly-meeting unit, and do not treat an accusation or reported attendance as proof of membership. [S3]
@@ -98,6 +120,7 @@ Return a packet with these items:
 - witness and associate lists transcribed from images, and any parents and residence places extracted from a marriage preamble in their named roles;
 - each stated birthplace and residence kept apart from the recording meeting, with an unstated entry date left unknown;
 - any Loyalist label beside the conduct recorded in minutes, and any “by instrument” reference beside the paper retrieved or its retrieval gap;
+- for a military-related disciplinary case, the dated meeting actions and stated cause, any recorded restoration, and the evidence for affiliation and service;
 - every date as a literal value with a bracketed conversion, plus any year-ambiguity flag.
 
 Name any series you did not inspect as a retrieval gap. Index silence remains "not found in the searched index." It is never a finding that the person was not a member.

@@ -11,7 +11,7 @@ handoff: ["criminal-court-prison-record-recovery", "us-federal-court-case-file-r
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 123}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 137}
 ---
 
 # Recover a U.S. court case file from its pointer records
@@ -71,6 +71,12 @@ Build a crosswalk from each pointer to the file it implies. Keep these parts sep
 
 **State chancery folder index.** The Library of Virginia chancery index is searched by county or city, then by surname, plaintiff or defendant. Not every listed case has linked images. If a folder is listed without images, keep its case details. Then search the FamilySearch Catalog by county, not by name, for that county's court records. [S7] For Catalog and film routes, use [FamilySearch workflows](familysearch-practical-record-workflows.md).
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The index search sends a historical party's name and any court or date filters to MyHeritage. Keep the query to the historical parties and their case details. Apply the privacy gate in `SKILL.md` before submitting the query.
+
+**Maine court registrations.** For 1696–1854, enter the plaintiff's or defendant's name in the Name fields of MyHeritage's Maine, Court Registrations index [S51 @2026-11-18], [S52 @2026-11-18]. From a hit, copy the party names, court, session date and recorded cause of action where given [S52 @2026-11-18]. Use the entry to locate the court record and leave the outcome open until you find the disposition.
+
+**Maine before statehood.** For sessions before March 15, 1820, identify the court in the Massachusetts system in force on the session date. Maine was part of Massachusetts before statehood on that date [S51], [S53], [S54]. Check Maine and Massachusetts court finding aids by the historical court name and session date [S55], [S56].
+
 **Incapacity indexes.** These are filed under period terms such as "lunatics" and "drunkards". Search them under the heading the court used at the time. In the example, a man who did not serve in the Civil War was checked against such an index at the Clearfield County, Pennsylvania courthouse, and divorce files were checked at the prothonotary's office. Neither search found him. The presenter left the question open. Record such a search as a negative for that index, that court and those years only. It proves neither capacity nor absence. [S8], [S9]
 
 **Appellate citation.** An appeal shows that a lower-court case was filed. Go to that court for the file. [S1]
@@ -99,7 +105,9 @@ Search the divorce files of the person's divorced brothers and sisters too. A di
 **Privacy gate:** <!-- privacy-gate: request --> A court-file request can disclose a party's
 identity and allegations or family circumstances involving people who may be living. Answer
 the privacy gate in `SKILL.md` before sending a request or supporting documents to the court
-or archive.
+or archive. A case number can also identify the parties.
+
+**Newspaper court listing.** Copy the printed case number, court and parties into the crosswalk. Andrew Koch suggests tracing the number to the corresponding court records to see whether and how the case ended [S46]. Follow the number to the named court's docket. Use the printed case number in the request if you need the clerk or archive to retrieve the case [S47]. Leave the outcome open until the court record establishes it.
 
 Archives often bring out only the bound minute books. Ask separately for the loose papers or case file: affidavits, subpoenas and other working papers. The county archivist on S5 says these are kept apart from the minute books. Also find out where the court's files were later transferred, whether to a basement, attic, storage facility, microfilm or online images. Do not assume the files stayed at the courthouse. [S2], [S5]
 
@@ -111,6 +119,8 @@ early: many older local-court series have moved there. Transfer dates vary by st
 so confirm custody for the named series and years rather than assuming all old files moved.
 For transferred federal files, follow the NARA route above; a current federal court may still
 hold recent files. [S11]
+
+**Courthouse loss.** Check a record-loss guide for the specific court, series and years. A courthouse fire can leave bound volumes intact while loose papers are lost [S49]. According to Katie Merkley, confirmed destruction is the point to switch to substitute records [S48†]. If the loose file was destroyed, look for the court's actions in surviving order books and for copies of the missing documents among exhibits in other cases [S49], [S50].
 
 ## Inventory the file by procedural stage
 

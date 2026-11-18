@@ -54,6 +54,12 @@ No individual identity or kinship conclusion from the examples is adopted.
 
 - **S34:** Becky Byerly-Adams, Icelandic Roots, [In Search of the Lost Children](https://www.icelandicroots.com/post/in-search-of-the-lost-children). Passage read 2026-11-16, read again 2026-11-17. Used for: Worked example citing a 1906 Heimskringla memorial and a settlement history serialised in Lögberg-Heimskringla in 1969–1970. The newspaper originals were not independently inspected.
 
+### Additional sources checked 2026-11-18
+
+- **S35:** MyHeritage Blog, [Exploring the Diverse Origins of Middle Names: From Tradition to Trend](https://blog.myheritage.com/2024/10/exploring-the-diverse-origins-of-middle-names-from-tradition-to-trend/), published 2024-10-08. Read the Icelandic naming passage on 2026-11-18. Community source for the illustrative link from Jónsson to Jón.
+
+- **S36:** Registers Iceland, [Appendix to certificates issued by Registers Iceland](https://www.skra.is/library/Samnyttar-skrar-/Einstaklingar/thjodskra/fylgiskjal%20vottorda_Skjalenska.pdf) (PDF). Read the surname explanation and examples on 2026-11-18. Used for the parent's genitive given name in a patronymic or matronymic and the Jónsson example.
+
 ## Credits
 
 - Maureen Brady, Swedish Family History Research, BYU Family History Library — Third-party source, all rights reserved; brief adapted paraphrase with attribution (adapted)
@@ -63,3 +69,4 @@ No individual identity or kinship conclusion from the examples is adopted.
 - ArkivDigital, Föreläsning den 1 april 2026 – Lär dig mer om ArkivDigitalprogrammet — Third-party source, all rights reserved; brief adapted paraphrase with attribution (adapted)
 - Kinprove original procedural synthesis; naming mechanisms, examples and failure cases attributed to presenters S1–S9 and S18 and to the cited references, with archive and reference facts cited as S10–S17 and S19–S27 — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
+- MyHeritage Blog, Exploring the Diverse Origins of Middle Names — Third-party source with brief adapted paraphrase and attribution (adapted)

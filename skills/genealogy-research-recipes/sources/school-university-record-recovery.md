@@ -55,6 +55,8 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - **S34:** [Amy Johnson Crow, Getting More Out of Yearbooks for Genealogy](https://www.amyjohnsoncrow.com/getting-more-out-of-yearbooks-for-genealogy/), opened 2026-11-16. Read the signatures/notes section: inspect inside covers and autograph pages, not only OCR hits. No handwriting identity or depicted person was independently established.
 - **S35:** [Scottish School Records-Genealogy Treasure Trove](https://www.youtube.com/watch?v=5Wi6WBBuJHg), transcript excerpts read 2026-11-16. Only preserved transcript excerpts were inspected; the video was not watched. Independent support supplies the factual scope.
 - **S36:** [Glasgow Life, Ask the Archivist: School records (23 June 2020)](https://www.glasgowlife.org.uk/libraries/family-history/stories-and-blogs-from-the-mitchell/ask-the-archivist/ask-the-archivist-school-records), opened 2026-11-16. Read the 1872 Act/1873 implementation, sparse earlier holdings, admissions versus logbooks and former Strathclyde coverage. The 2020 access periods and service arrangements are not adopted as current rules.
+- **S37:** Melina Papadopoulos, [A Guide to Libraries for Genealogy Research](https://familytreemagazine.com/libraries-archives/a-guide-to-libraries-for-genealogy-research/), Family Tree Magazine, 2024-03-01. Reviewed community article, indexed article text read 2026-11-18 after a 403 from the live URL. The author suggests looking for ancestors in yearbooks at the public library serving the family's area.
+- **S38:** Plainfield-Guilford Township Public Library, [Genealogy and Local History](https://www.plainfieldlibrary.net/services/genealogy/). Reviewed library holdings guide, opened 2026-11-18. Read the Hendricks County school-yearbooks section, which lists local volumes by school and year.
 
 ## Credits
 
@@ -84,3 +86,4 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - Kinprove original procedural synthesis drawing on the forum threads cited as S1–S21 and the CompGen blog post S22, with facts checked against S23–S25 — FSL-1.1-MIT (kinprove-original)
 - Post on the Dzen channel «История одной семьи. Юлия Новожилова» cited as S32 — Copyright of its author; short paraphrase (adapted)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
+- Melina Papadopoulos, Family Tree Magazine, cited as S37, and Plainfield-Guilford Township Public Library, cited as S38 — yearbook search advice paraphrased with attribution (adapted)

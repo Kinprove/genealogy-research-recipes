@@ -10,8 +10,8 @@ guardrails: [{"id": "BURIAL-EVIDENCE-PACKET-01", "text": "Keep death, burial, in
 handoff: ["german-military-record-period-routing", "immigrant-congregation-origin-records", "soviet-personal-file-recovery", "us-20th-century-military-service-reconstruction"]
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 140}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["link", "publish", "third-party-tool", "upload"], "contact": ["contact"]}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 160}
 ---
 
 # Build a burial evidence packet from cemetery records
@@ -54,6 +54,11 @@ available; in JOWBR the headstone icon identifies a supplied photograph, and **V
 Record** exposes the available fields and image. Leave missing fields empty. A result without a
 photograph remains a useful locator, but the inscription has not been examined. [O1]
 
+For a Jewish burial, search JewishGen's JOWBR or its copies on MyHeritage and BillionGraves.
+Record the cemetery, reported birth and death details, age at death and any names supplied for
+parents or spouse. Treat matching copies of the same JOWBR entry as one record for those details.
+[P177 @2026-11-18], [P178 @2026-11-18], [P179 @2026-11-18]
+
 A miss in Find a Grave, BillionGraves or another crowd-sourced site is not a coverage test,
 especially for small, inactive or private-land burial grounds. Also check county-society
 inventories, state cemetery surveys or commission databases, and state-archive or archaeological
@@ -76,6 +81,12 @@ apart from locations based on word of mouth or dowsing. The
 [2024](https://www.youtube.com/watch?v=0v5fySALYxs)) motivate this. They do not measure how
 complete or accurate a survey is, and a preservation group reports finding errors in its own
 compilation.
+
+At a plantation cemetery for enslaved people, log visible ground depressions as possible grave
+locations even where there are no markers. On an authorized visit, note the depressions from the
+surface without probing or disturbing the ground. Look for an existing cemetery delineation
+survey to check their position. Leave the occupants unidentified from these features alone.
+[P158], [P159]
 
 Do not stop at the newest published transcription of a cemetery. Look for older ones too, such as
 a 1940s reading beside a 1990s one: a stone legible then may be worn or gone now, so the older
@@ -178,6 +189,21 @@ administers Mexico City National Cemetery, Corozal American Cemetery in Panama a
 Cemetery in the Philippines [P99 @2026-11-13]. Do not rule ABMC out for a missing service member of
 those wars or a burial in those three cemeteries.
 
+For an early U.S. government headstone in a private cemetery, route the search by the likely
+application or order date. According to a supplied transcript excerpt, the presenter suggests
+checking the Quartermaster files for an early marker [P172†]. For an application around 1910,
+use Record Group 92, NM-81 entry 592, *Applications for Headstones in Private Cemeteries,
+1909–1924* (National Archives ID 607866), arranged by state and county of burial. For an order
+from about 1879 to 1903, check the card series M1845. Match the series to the date of the paperwork
+and retain the series locator even when a database search misses. [P173]
+
+For later applications, search Ancestry's *U.S., Headstone Applications for Military Veterans,
+1861–1985*. Its description lists applications made in 1925–1963. [P191 @2026-11-18] For
+M1916 (1925–1941) and M2113 (1941–1949), also search FamilySearch's *United States, Headstone
+Applications for U.S. Military Veterans, 1925–1949*. [P173 @2026-11-18], [P174 @2026-11-18]
+Search these series even for an earlier death if a later application is plausible. A miss in
+the later collections leaves a circa-1910 application unresolved.
+
 On a Soviet WWII mass grave (братская могила), a name on the plate may belong to a soldier buried
 elsewhere. A press report from Karelia describes a plate cut in 1965 from a military
 commissariat's unchecked list of the dead. [P94] A Kaliningrad researcher interviewed in the press
@@ -199,6 +225,23 @@ photo available | image examined | next source`.
 **Check:** Distinguish a searched name, an included cemetery and an inspected inscription.
 
 ## 2. Search the recorded name fields separately
+
+For Manchester, use MyHeritage's *England, Lancashire, Manchester Burials* for entries from
+1850 onward. Save the deceased's name and the stated date and place of burial. For parish
+burials, search its separate Diocese of Manchester collection (1603–1910). The similar
+titles and overlapping years cover different sets of records.
+[P177 @2026-11-18], [P189 @2026-11-18], [P190 @2026-11-18]
+
+For Stockton-on-Tees, search MyHeritage's Durham burial index from 1871 onward for the name
+and stated date and place of burial. Check the council's burial register search as well.
+Leave a miss unresolved. The council says its online entries are incomplete.
+[P186 @2026-11-18], [P187 @2026-11-18], [P188 @2026-11-18]
+
+For a French hit in MyHeritage's *France, Church Burials and Civil Deaths*, read the underlying
+entry and label it as a parish burial or a civil death. The combined index gives the death
+date and place. Take the burial place and date only from a statement about burial, and use the
+death commune as a lead when the burial place is missing. Coverage varies by département.
+[P180 @2026-11-18], [P181 @2026-11-18]
 
 When an East European Jewish stone has no surname, JOWBR documents searches using the deceased's
 given name, the father's given name or the Hebrew Name field. Use the known locality to assess
@@ -312,6 +355,16 @@ and mark each of their words as shown on the photograph, contradicted by it, or 
 A word that only the database or the quotation supplies stays attributed to that source and is not
 reported as part of the inscription. Not visible is not absent: the word may be eroded, on a face
 not photographed or outside the image.
+
+Before using the comparison, check that the attached photo actually shows the target's
+marker. If the name or plot evidence points to a different marker, log the attachment as
+a mismatch. Read doubtful letters and symbols against the carving. Preserve even apparent
+errors in the literal transcription and keep proposed corrections in the research notes.
+[P160]
+
+Treat the birth name and birth date on the stone as leads when the informant's firsthand
+knowledge is unknown. An accurate memorial transcription still carries the same inscription
+claim. Check those details against a birth or baptism entry where available. [P160], [P163]
 
 Record the pixel width and height of each image you read, and what was and was not legible at that
 size, for example `1200 × 900 px; given name and month-year legible; father's name eroded`. Read
@@ -496,6 +549,12 @@ placed later, record each date with the marker it comes from, who placed it and 
 lettering cut later, such as sandblasted text beside raised original lettering, as a later
 addition. A date conflict between markers stays an unresolved discrepancy (Section 5). [P66]
 
+If a veterans' cemetery tablet is identified as a cenotaph, record its site as a place of
+commemoration and leave interment there unconfirmed. According to a supplied transcript excerpt,
+the episode describes such a tablet for a sailor lost at sea [P175†]. On a U.S. government
+marker, read the heading `IN MEMORY OF` as the memorial designation. Check the burial or
+disposition record for the remains before assigning a place of burial. [P176]
+
 Do not assume a stone was set at the burial. It may have been put up years or decades later, with
 details given to the stonecutter from someone's memory: in one family, court records show a stone
 set in 1906 for a death in 1888 [P116]. RootsIreland warns that Irish gravestone information may
@@ -524,6 +583,11 @@ cemetery link can provide cemetery contact information and maps. A BillionGraves
 have GPS information; the cemetery-program tutorial demonstrates using its map to locate a
 marker. Record a supplied coordinate as a coordinate, and a section/plot reference as a separate
 locator. [P2, O1]
+
+To check a Find a Grave location, look for the same marker on BillionGraves. Match the carving
+and marker before comparing the cemetery or any GPS point, and log the source of each locator.
+BillionGraves distinguishes GPS headstone records from photos without coordinates. A shared
+photo counts once for what is visible on the stone. [P160 @2026-11-18], [P161 @2026-11-18]
 
 If a form can capture the device's current position, use that control only while physically at
 the intended site. When entering information off-site, leave current-position capture unused.
@@ -568,6 +632,19 @@ burial or proven kin. The [death-records class](https://www.youtube.com/watch?v=
 interviews ([2020](https://www.youtube.com/watch?v=WoBE9ZAMsg4),
 [2024](https://www.youtube.com/watch?v=gLXeAlkY6j0)) motivate this. They are US examples, and
 record survival and arrangement vary.
+
+Identify the series and column headings before interpreting a cemetery index's name and
+date. An entry in a lot sale register can name the purchaser and date of purchase, as in
+Boston's Evergreen Cemetery records. Carry those fields to the interment record by lot or
+grave number. Keep the purchase and interment as separate events. [P180], [P185]
+
+For Brooklyn's Green-Wood Cemetery, use MyHeritage's burial collection (1840–1937) to recover
+the burial number, lot number and funeral director where shown. Use the burial number to
+identify the entry and the lot number to locate the plot. Keep the undertaker as a separate
+record lead. The cemetery's own online burial search may show the date of interment at the
+current grave after a move. Check the register for the earlier interment before using that
+date for the original burial. [P180 @2026-11-18], [P182 @2026-11-18],
+[P183 @2026-11-18], [P184 @2026-11-18]
 
 Address each request to the body that holds that record. In the United States the usual holders
 are:
@@ -729,6 +806,11 @@ area separately from coordinates. Use co-burial/proximity to nominate associates
 their burial records before proposing a relationship. The [co-plot search description](https://lostrussianfamily.wordpress.com/2025/10/25/free-database-offers-more-than-5-million-indexed-burial-records-for-moscow/)
 supplies no fixed search radius or current provider/plot-accuracy guarantee.
 
+If a memorial's family link appears to come from neighbouring markers or a shared surname
+in one lot, check the actual grave sequence and adjacent inscriptions on an authorized
+visit or in a dated set of site photos. Keep the observed layout as a locator for the
+relationship search. Confirm kinship from the records for the people named. [P160]
+
 Some online burial databases, including ones run alongside grave-care businesses, publish
 burial cards with monument photographs and, for some entries, coordinates. [P32] Where one holds
 a card for a known deceased relative, use its photograph and coordinates to find older
@@ -784,6 +866,71 @@ the help pages direct you to the contributor for permission [P89]. The contribut
 for permission and provenance, not proof of who owns the copyright: an uploaded studio portrait
 may belong to someone else.
 
+Follow family links as leads to other memorials, including ones in a different locality.
+For each link, log the source that supports the claimed relationship, or mark the claim
+unsourced. If a public tree repeats the claim for the same deceased person, open the tree's
+attached evidence and trace which source each copy cites. A tree and a memorial that point
+to one another leave the relationship unsupported. [P160]
+
+Find a Grave asks if the creator is a close relative for deaths within the past year.
+For a memorial created by someone outside its transfer guidelines, it limits what others
+see for the first three months. [P165 @2026-11-18] Keep original creator and current manager
+separate. When the original creator is missing, log authorship as unknown and report those
+unknowns if counting family and non-family creators. Check the informant's firsthand knowledge
+for each fact before relying on it, even if the site shows a family relationship.
+[P160 @2026-11-18]
+
+According to a supplied transcript excerpt, the interview describes finding linked memorials
+across localities and Daniel Loftus suggests requesting a photo when the marker cannot be
+visited in person. [P164†]
+
+**Privacy gate:** <!-- privacy-gate: contact --> A marker photo request shares the deceased's memorial, plot details and any note with Find a Grave and its photo volunteers, and appears with the cemetery's requests. Leave e-mail sharing off and answer the privacy gate in `SKILL.md` before sending.
+
+Use **Request Photo** on the memorial when an on-site photo is needed. Supply the confirmed
+plot reference and specify the face or detail needed, including why a new image is needed
+if one already exists. Request the surviving marker without presuming it is a headstone.
+[P166 @2026-11-18]
+
+Before an authorized visit where the user wants to help, open the cemetery's **Photo Requests**
+list. Use the requested memorial's supplied grave location and any cemetery plan to locate
+the marker. Check the inscription and plot against the request before taking the picture.
+[P167 @2026-11-18]
+
+**Privacy gate:** <!-- privacy-gate: upload --> Sending a grave photo gives Find a Grave and memorial viewers the deceased's inscription and any included coordinates, which can disclose the photographer's location at capture. Crop bystanders and keep incidental living-person details local. Answer the privacy gate in `SKILL.md` before sharing.
+
+Upload the marker photo through **Fulfill** only for the verified memorial with the photo
+request. [P167 @2026-11-18]
+
+Upload a geotagged marker photo only when the user has authorized sharing the location.
+With Location Services on, Find a Grave's Android app uploads the coordinates with the
+photo through **Add Photo**. Capture the location at the marker. [P168 @2026-11-18]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Device-assisted navigation gives the Find a Grave app the visitor's current location and the marker location. Answer the privacy gate in `SKILL.md` before using device location.
+
+For device-assisted navigation, use **Map It** on a memorial with GPS in the iOS app.
+Keep the grave's mapped point as the marker locator. [P169 @2026-11-18]
+
+**Privacy gate:** <!-- privacy-gate: publish --> A memorial correction sends the deceased's corrected fields and supporting details to Find a Grave and, for a suggestion, the manager. Accepted changes are visible on the memorial. Keep living people's details local and answer the privacy gate in `SKILL.md` before submitting.
+
+Submit a documented memorial correction through **Edit** if the user's account currently
+manages the memorial or **Suggest Edits** if someone else manages it. Keep the inscription
+as carved in the packet when the memorial field is corrected.
+[P160 @2026-11-18], [P170 @2026-11-18]
+
+**Privacy gate:** <!-- privacy-gate: link --> A family link sends the memorial IDs and relationship to Find a Grave and can disclose family connections to memorial viewers. Answer the privacy gate in `SKILL.md` before linking.
+
+Enter the verified relative's Memorial ID in the corresponding **Family Members** field
+when editing or suggesting a link. Check the target memorial and relationship first.
+[P171 @2026-11-18]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A management claim gives Find a Grave the user's account, the deceased relative's memorial and their relationship. Management may be visible to viewers and the site's relationship setting controls its display. Answer the privacy gate in `SKILL.md` before submitting.
+
+Use **Manage** on a recently deceased close relative's memorial within a year of death
+if the user wants to manage it and qualifies under the site's transfer guidelines. Enter
+the relationship through the prompt and keep its display private. Once the account manages
+the memorial, use the correction step above.
+[P165 @2026-11-18], [P170 @2026-11-18]
+
 On BillionGraves, the app attaches GPS to photographs taken with it, volunteers transcribe the
 stones, and records not uploaded through the app have no GPS. [P90, P91]
 
@@ -799,6 +946,14 @@ Compare the inscription, online transcription and available cemetery record. If 
 differs from a civil or Social Security entry, preserve both values with their sources. The
 gravestone webinar specifically recommends recording the discrepancy, because errors can occur
 in either the stone or a government database. [P1]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> An obituary phrase sent to Google can disclose details of the deceased and anyone named in the text. Use a short phrase free of living people's details and answer the privacy gate in `SKILL.md` before sending.
+
+Search Google for a distinctive phrase from an uncited memorial biography, in quotation marks,
+to trace it to an obituary. Open the funeral home's notice or the digitized newspaper and
+cite that version for the death and any stated next-of-kin details. Keep names of living
+survivors local and distinguish announced burial plans from an interment record.
+[P160 @2026-11-18], [P162 @2026-11-18]
 
 Keep an earlier inscription transcript or research letter with its author/date, exact
 reported reading and any available image reference. Record a later inspection separately

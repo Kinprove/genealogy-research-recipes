@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing", "galicia-bukovina-habsburg-recor
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 41}
+router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 48}
 ---
 
 # Recover and read historical maps as dated, copy-specific evidence
@@ -54,6 +54,8 @@ describes this route; retain the map-to-case link as a candidate until the recor
 Keep the estimated map-production date, the case-file span and any dated event statements
 separate. Seek the case's actual statements before dating the depicted event or moving a
 same-named person to another generation. [S31]
+
+**Google Earth Pro:** For a known historical locality, look for the Rumsey Historical Maps layer under Gallery and check it for maps of the area. The layer is a selection from the David Rumsey collection. If it is unavailable or yields no map for the locality, search the full collection and other holders. [S69 @2026-11-18], [S70 @2026-11-18]
 
 ## Read a Sanborn volume, not a loose sheet
 
@@ -119,7 +121,11 @@ To test an oral report of a farm burial ground, check dated county maps and atla
 
 Record a landowner map's title, publisher, date and holder. A name on it shows who held the land in that edition. Neighbours and associates on the map are leads [S11]. Smith reports that LoC holds more than 1,800 land-ownership atlases [S11]. A map made for another purpose can still show landowners, such as an 1895 Civil War battle map. Record its purpose and date [S14].
 
+**Maiden-name leads from plats:** Start with the earliest landowner plat that covers the family's documented locality near the period in question. Use the nearby landowners' names to identify families whose daughters could match the woman you are tracing. Keep each surname as a candidate and test the daughter's dates and relationships against records that name her. [S71], [S72]
+
 **Federal first-grantee maps:** Read the introduction and the dates behind each label to distinguish a map reconstructed from federal entries or patents from owners at one publication date. Federal tract books stop at transfer to private ownership; trace later private buyers through county conveyances. Compare the family's arrival and acquisition dates with the grant dates before expecting it on a first-grantee map. [S60], [S61], [S62]
+
+**Old Frederick County tracts:** Copy both the tract identifier and the map number from Cecil O'Dell's *Pioneers of Old Frederick County, Virginia*, as the presenter reports both for one tract in the video walkthrough [S73†]. Find the tract on the cited map and test the placement against any parent patent, streams and roads named in the passage [S74]. If the map seems missing, check whether the reference points to a numbered map printed in the book or to a loose map. A contemporary review documents two loose maps with the 1995 edition [S75]. Search separately by title and mapmaker for a missing loose map, such as Galtjo Geertsema's *Northern Neck of Virginia, Old Frederick County* [S76].
 
 On a cadastral map, a parcel number is not the house number in a vital record. Galician (Austrian) metrical books give house numbers, but final-stage cadastral maps show building and land parcel numbers. Bridge the two with the earlier field sketch, which labels buildings with the house numbers used in vital records, or with the tax register, which links owners, house numbers and parcels. Check the Gesher Galicia cadastral inventory for what survives for the locality. One participant, working from the 1849 Jaworów map in the Gesher Galicia map room, planned to use such a parcel-to-house index in the Lviv archive [S28]. Record both numbers, the survey year and the concordance you used.
 

@@ -9,8 +9,18 @@
 
 The following are authored synthesis: the worklist fields, the ranking rule, the open/closed/corrected statuses, the closing rule tied to the negative-evidence gate, the census coverage markings and the rule against treating blanks as findings. The talks supply the gap patterns, the census-span examples and the sweep order. No demographic statistic is adopted.
 
+### Additional sources
+
+- **S7:** Esther Shuman, MyHeritage Blog, [The Woman Behind Mother’s Day — And the Cousins Who Carry Her Legacy](https://blog.myheritage.com/2025/05/the-woman-behind-mothers-day-and-the-cousins-who-carry-her-legacy/), published 2025-05-02. Community source, reviewed (web page, read), retrieved 2026-11-18. Basis: opened 2026-11-18 and read the account of tracing first-cousin lines using census records, historical documents and family trees after the sibling line ended.
+- **S8:** Ancestry ProGenealogists, [Probate Matters: Finding Heirs and Untangling Complex Webs of Kinship](https://nysba.org/wp-content/uploads/2021/01/Ancestry-ProGenealogists-White-Paper-07062020.pdf). Reviewed (PDF, read), retrieved 2026-11-18. Basis: opened 2026-11-18 and read the method for moving up to grandparents and down through their collateral lines.
+- **S9:** 10 Million Names / American Ancestors, [Patriots of Color](https://10millionnames.org/patriots-color). Reviewed (web page, read), retrieved 2026-11-18. Basis: opened 2026-11-18 and read the project description identifying the DAR database as the basis for the descendancy study.
+- **S10:** Family Tree Magazine, [Progress on the 10 Million Names Project – An Interview with Lindsay Fulton | Ep. 209](https://www.youtube.com/watch?v=2wTeAQ-zL0Q). Community source, reviewed (video, access unknown), retrieval attempted 2026-11-18. Basis: attempted to open the YouTube page on 2026-11-18. The page did not load. S11 supplies the transcript of the interview.
+- **S11:** Wave, [Family Tree Magazine Podcast transcript for the interview with Lindsay Fulton](https://pod.wave.co/podcast/1e334f2b-8726-4953-afd5-e3a54c63809a/progress-on-the-10-million-names-project-an-interview-with-lindsay-fulton). Reviewed (web page, read), retrieved 2026-11-18. Basis: opened 2026-11-18 and read Fulton's response in the third-party transcript on the descendant sweep, the 1900 birth cutoff and the comparison with a known ancestor. The cutoff describes the study method as Fulton explained it in the interview.
+
 ## Credits
 
 - James Tanner, BYU Library Family History Center: Finding Your Ancestors' Descendants (26 Feb 2023) and How do I do descendancy research on FamilySearch? — Third-party YouTube content (standard YouTube license); short paraphrased facts and examples with attribution (adapted)
 - GeneaVlogger: Building a Descendants Tree for Benjamin Franklin — Third-party YouTube content (standard YouTube license); short paraphrased method with attribution (adapted)
 - Kinprove original procedural synthesis; presenter techniques cited as S1, S2, S3; census coverage facts from U.S. National Archives (1840 and 1890 census pages, and S4) and The National Archives UK guides (including S5 and S6); FamilySearch source-count location from FamilySearch Community and FamilySearch blog — FSL-1.1-MIT (kinprove-original)
+- Esther Shuman / MyHeritage Blog and Ancestry ProGenealogists — collateral sweep method (adapted)
+- Lindsay Fulton / Family Tree Magazine and 10 Million Names / American Ancestors — Patriots of Color study method (adapted)

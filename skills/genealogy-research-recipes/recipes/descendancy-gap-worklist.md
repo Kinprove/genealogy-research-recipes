@@ -60,6 +60,8 @@ Do not follow whatever branch looks most interesting. Jumping around that way is
 - Finish the whole generation before you go down to the next one. Record the order you used so a later session can pick up where you stopped [S3].
 - Use the oldest children to confirm the family. If the same child appears with the other children in two censuses in a row (the presenter's example is 1910 and 1920), that agreement is a quick check that you are following the right household [S3].
 
+For the 10 Million Names Patriots of Color study, start the sweep from the patriot's entry in the DAR Patriots of Color database [S9]. According to Lindsay Fulton's interview, the study worked down through all children and grandchildren and stopped at births after 1900 [S10†], [S11]. When following that workflow, include births through 1900 and mark later births as outside the sweep. Compare the resulting lines locally with a grandparent or earlier ancestor the user has already identified.
+
 ## Close, open or correct each family
 
 Give every family in the sweep log one status:
@@ -67,6 +69,8 @@ Give every family in the sweep log one status:
 - **Open:** gaps remain. Name the next records to check.
 - **Closed:** a source states the absence, or the absence passes the negative-evidence gate in [evidence/proof judgment](evidence-proof-judgment.md): the records should have shown the event, record loss, coverage gaps and index errors are ruled out, and every search is logged with its date. State the reason and the source. A "never married/no children" tag then tells collaborators this absence was researched [S3]. A search that found nothing does not close the family by itself: keep it Open and log "searched X on date, no entry".
 - **Corrected:** research may show that the people in a family are not actually related to each other, or that the family was made up. If so, stop going down. Go back up the line and correct it until you reach the right ancestors, then continue [S1]. Send merge and separation decisions to the human through [evidence/proof judgment](evidence-proof-judgment.md).
+
+If the question is whether a childless subject has surviving relatives and the siblings' lines are documented as ended, restart the sweep at the subject's verified grandparents. Work down through the subject's aunts and uncles to the first cousins and their descendants. Use historical census records to trace the branches, with family trees as leads [S7], [S8]. For anyone who may be living, follow the [Living people rule](../SKILL.md#living-people) and work from family materials the user supplied.
 
 **Privacy gate:** <!-- privacy-gate: export --> A GEDCOM export of the corrected tree can carry recent descendants who may still be living, so answer the privacy gate in `SKILL.md` before exporting it.
 

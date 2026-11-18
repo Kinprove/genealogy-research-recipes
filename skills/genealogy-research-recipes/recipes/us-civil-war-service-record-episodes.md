@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 115}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 129}
 ---
 
 # Read Civil War registration, service cards and unit events as separate episodes
@@ -41,6 +41,12 @@ Related recipes:
 - **Do not assert service from a name match.** Assert service only after finding a service record that matches the same identity clues. In the presenter's example, John B. Ellis was a 39-year-old, single, white, Tennessee-born farmer living in Missouri. That fits Class 1, because he was unmarried and aged 35–45. Several men had his name, but none of their service records matched those clues, so she concluded he registered and never served [S1].
 - **Keep that kind of conclusion bounded.** It is a negative inference, and it holds only for the indexes and series actually searched. Record which ones those were.
 
+**Search Union service records for Quakers.** Include Union Army enlistments in the search even when the person's Society of Friends membership is documented, following advice from the available excerpt [S14] and illustrated by David Haworth's Union service [S20].
+
+**Read commutation against the date of the draft.** Use the commutation lead from the available excerpt [S14]. Section 13 of the Enrollment Act of 3 March 1863 allowed a notified draftee to furnish an acceptable substitute or pay the amount set for that draft, up to $300. Either action released him from liability under that draft [S21]. Check for a payment or substitution entry before inferring what happened to the man.
+
+**Identify who granted a Quaker exemption.** The amounts and salt-work lead come from the available excerpt [S14]. North Carolina's ordinance of 12 May 1862 required eligible Friends called to service to pay $100 for exemption and allowed the governor to detail those unable to pay to salt manufacture or hospital work [S22]. The Confederate act of 11 October 1862 required eligible members to furnish a substitute or pay a $500 tax [S23]. For a Wilmington salt-works entry, check state exemption or detail records before treating the work as Confederate Army service. The Jonathan Worth papers are a lead for both exemptions and the Wilmington salt works [S24].
+
 ## Build the soldier's card timeline before writing a narrative
 
 - **Confirm a CMSR should exist.** CMSRs exist for volunteers only. Nineteenth-century Regular Army men have no CMSR [S5]. For enlisted regulars, the service is in the Registers of Enlistments. For Regular Army officers, start with Heitman's *Historical Register* and then, for service from 1863, the Commission Branch and ACP files in RG 94 (NARA, *Prologue*, Fall 2002). If the man was a regular, finding no CMSR tells you nothing, so go to the records that match his rank.
@@ -56,6 +62,20 @@ Related recipes:
 - **Search under an alias when the jacket gives one.** The same presenter says aliases appear more often in the later Civil War period, when some men deserted and re-enlisted under another name [S6].
 
 - **Leave his fate open when the cards end in "deserted".** Keep the remark and its date as his last status as written. It ends the company's record of him, not his story, so do not write that he went home, survived or died until a record says so. Search his widow's obituary for an account of what became of him, including in papers of nearby towns where she was known but did not live. Log what you find as a late, secondhand account that conflicts with the card, not as proof. In one blogger's case, the record gave desertion on a stated date with no record of a return home. The widow's obituary, published 66 years later in a nearby rural town where she did not live, said only "We understand that Mrs. Smelcer's husband was killed during the war" [S9].
+
+**Follow a Charlottesville hospital entry into the hospital's register.** If a CMSR names the Confederate General Hospital at Charlottesville, Virginia, follow the register lead from the available excerpt [S13 @2026-11-18]. Use the index (chapter VI, volume 216) to find the patient entry in the National Archives register, 1861–1865 (volumes 214–215) [S18 @2026-11-18]. Record the disposition with its date when given. Distinguish death, return to duty and discharge from service [S19 @2026-11-18]. Where entries give an organization and admission date, group by both fields to count a unit's admissions on the same date. Label the count as admissions in this register.
+
+**Inventory the inner personal-papers jacket.** Separate the muster-roll abstracts from the individual documents filed inside the CMSR [S31]. Follow the example from the available excerpt [S17] and count the enclosures you can actually inspect. Use the outer jacket count as a lead when enclosures appear to be missing. Match any listed card numbers to the numbers on the backs of the cards before assigning a meaning to a jacket number [S42].
+
+**Use jacket ranks as endpoints and read the dated entries between them.** Follow the example from the available excerpt [S17]. If the jacket gives a rank in and a rank out, record them as endpoints and use dated cards to establish changes [S42]. Read the bookmark for capture, confinement, parole and the orders behind a desertion remark. For restoration without trial, record the order and any absence the record explicitly retains. For a court-martial, record each offense, finding and sentence separately. Follow the cited order when the disposition is unclear [S33].
+
+**Use Annapolis as a lead to prisoner records.** Follow the suggestion from the available excerpt [S17] and use the prisoner-of-war slips to establish whether capture or parole occurred. Record a City Point parole, a report at College Green Barracks in Annapolis and arrival at Camp Parole as distinct events when documented. Search the separate College Green Barracks and Camp Parole rolls for the matching entry [S34]. One documented 1863 itinerary records all three stops [S35].
+
+**Interpret hospital terms in their period.** For an unfamiliar diagnosis, use Hooper's *Lexicon Medicum*, following advice from the available excerpt [S17]. The 1843 American edition is one reference [S36]. Keep the term as written and label any gloss as an interpretation of the record.
+
+**Use the correspondence index when the CMSR or pension review leaves a dispute unresolved.** Follow the lead from the available excerpt [S16 @2026-11-18]. Search the *Index to General Correspondence of the Record and Pension Office, 1889–1904* (M686), listed on Ancestry [S27 @2026-11-18] and FamilySearch. Match the card to the soldier's unit and the subject of the inquiry. Carry its file reference to the Document File (NAID 300385) or Record Cards (NAID 588796), as indicated. Look for a correction of muster when the claimed rank is missing and for correspondence about removing a disputed desertion charge. The years in the index title date the correspondence and can be later than the service in question [S28 @2026-11-18].
+
+**Distinguish commission, duty, federal muster and later correction.** Follow the comparison from the available excerpt [S16]. For a Union volunteer officer, record the commission date, date of entry on duty in the grade, original muster date and any effective date granted by a later correction as separate observations [S29]. Compare the requested grade and date with the state adjutant general's papers and the federal ruling when enclosed [S30]. Record the company, who left the vacancy and why. If the predecessor's promotion opened the vacancy, look for that officer's own muster correction to corroborate the sequence [S29].
 
 Make one row per muster period: muster period | status as written (present, absent, sick, deserted, transferred, promoted) | rank | station if given | card/source locator. Leave periods without a card blank. Do not fill them in.
 
@@ -74,6 +94,14 @@ Make one row per muster period: muster period | status as written (present, abse
   - Tipton later moved to the 5th Florida Infantry. The 5th Florida fought at Second Bull Run, Antietam, Fredericksburg, Chancellorsville, Gettysburg, the Wilderness, Spotsylvania, Cold Harbor and the siege of Petersburg. The talk lists these as his battles. The 5th Florida cards shown in the talk are dated from January 1864, when he was promoted Fourth Corporal on 25 January, and he died at Petersburg [S1]. The cited talk confirms neither when he joined the 5th nor a card placing him in each listed battle.
   - Keep a list like that as the regiment's history, not as his service, until cards cover each period.
 - **A death or casualty card is direct evidence for that event only.** It does not prove presence at earlier engagements [S4].
+
+**Count repeated Dyer histories once.** Use the check from the available excerpt [S17]. The Civil War Soldiers and Sailors System used Dyer's *Compendium* for Union regimental histories [S32]. Compare wording and source credits before treating another site's account of the unit as independent evidence.
+
+**Put company movements on their own rows.** Use the company-level comparison from the available excerpt [S17]. For a Union volunteer organization, find the corresponding company letter under the regiment in NARA microfilm M594, *Compiled Records Showing Service of Military Units in Volunteer Union Organizations* [S31]. Keep the company dates, endpoints and reported march distances beside the regimental account. Use them to test ambiguous place names against the preceding and following stations before assigning a location.
+
+**Keep Monocacy Junction distinct from the river.** Use the distinction from the available excerpt [S17]. Read Monocacy Junction as a place-name that can refer to the railroad junction or the adjacent community [S41]. When a card gives only Monocacy, use the route and the wording of the entry to decide which feature it means.
+
+**Match capture to the dated engagement.** Use the date-and-place comparison from the available excerpt [S17]. A Winchester capture on 15 June 1863 fits the Second Battle of Winchester of 13–15 June 1863. The Third Battle was on 19 September 1864 [S37]. Record capture as the documented event and label the battle association as inferred unless the record names the engagement.
 
 ## Bound a transfer instead of guessing it
 
@@ -99,6 +127,14 @@ Check the current CMSR digitization listing for the supported army, state and or
 - **For any database, note the date and stated scope of each search.** A miss that falls inside the stated coverage is still only a search result. Name the original series that would settle the question.
 
 - **Do not rule out service from birthplace or citizenship.** Foreign birth, alien status during the war or a naturalization decades later does not show that he did not serve, so search the service and pension indexes for him anyway. The law expected alien soldiers: section 21 of the Act of 17 July 1862 (ch. 200) let any alien aged 21 or over who had enlisted in the regular or volunteer army and been honorably discharged become a citizen on petition, without a prior declaration of intention, on one year's residence and competent proof of the discharge [H10]. Read any naturalization file you find for a discharge or service reference. The Enrollment Act of 3 March 1863 made only citizens, and foreign-born men who had declared on oath their intention to become citizens, aged 20–45, liable to the draft [H11]. A non-declarant alien's absence from the draft lists therefore says nothing about whether he volunteered. A genealogy video raises the same trap [S10†]; only its title and channel could be checked; its transcript could not be opened.
+
+**Use a state roster when the Union CMSR images are unavailable.** Identify the candidate unit from a state adjutant general's roster or report, using the approach from the available excerpt [S15]. For Wisconsin, start with the *Roster of Wisconsin Volunteers, War of the Rebellion, 1861–1865* [S25]. Use the unit as a lead into the separate carded medical records for Union volunteers in RG 94, entry PI-17 534. Look under state, organization number and surname initial [S26].
+
+**Treat repeated Soldiers and Sailors hits as index entries.** Follow the comparison from the available excerpt [S17]. Compare side, state and regiment and follow the entries into the CMSR before deciding how many people they represent. The underlying index can have multiple cards for one person, including for alternate names or service in different regiments [S32].
+
+**Browse the Maryland Union jackets by unit and surname.** Use the browse sequence from the available excerpt [S17 @2026-11-18]. For a name-search miss, start with the M384 Maryland Union CMSR run that NARA lists on Fold3 [S39 @2026-11-18]. Find the regiment and the surname range before looking for the soldier's jacket. Within each unit M384 is arranged by surname [S38 @2026-11-18].
+
+**Check a Sixth Maryland Company J reading against Company I.** Test the Company I reading suggested from the available excerpt [S17] against the muster records. The Maryland muster-roll index lists Company I followed by Company K for the Sixth Maryland Infantry [S40]. Preserve the original reading and use the man's muster record to confirm the company.
 
 For the Navy pension route above, approved pension files of Navy veterans themselves are a separate series from M1279: NARA M1469, "Navy Survivors' Certificates", 1861–1910, arranged by certificate number [H9].
 

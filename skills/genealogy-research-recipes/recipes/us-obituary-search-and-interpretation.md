@@ -10,8 +10,8 @@ guardrails: [{"id": "US-OBITUARY-SEARCH-AND-INTERPRETATION-01", "text": "Read ev
 handoff: ["newspapers-com-search-recovery", "evidence-proof-judgment", "burial-evidence-packet", "dna-match-outreach-staging"]
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
-capabilities: {"browse": ["newspaper archives, obituary indexes and original page images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 107}
+capabilities: {"browse": ["newspaper archives, obituary indexes and original page images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": ["contact"]}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 116}
 ---
 
 # Find and interpret obituaries in U.S. newspapers
@@ -24,6 +24,7 @@ Use this recipe when you need a U.S. newspaper obituary or death notice for a pe
 - 1\. Set the expectation before you search
 - 2\. Search the relatives' obituaries
 - 3\. Search past the week of death
+- Find the original issue through an obituary index
 - 4\. Ask about funeral and memorial cards
 - 5\. Read the notice as the informant's account
 - 6\. Keep living survivors to the family question
@@ -59,6 +60,36 @@ When the person's own notice is missing or thin, or names a woman only through h
 Search the death notices and obituaries in the issues around the week of death [S1], then widen the window and record its limits in the search log. An obituary could take time to be written and submitted [S2], and a card of thanks, in which the family thanked the community, may appear right after the funeral or much later [S6]. Cards of thanks tied to deaths appear from the later nineteenth century; the earliest that the GenealogyBank author found is from 1879 [S6].
 
 Read a card of thanks for relationships and leads. It may describe the deceased as a wife and mother, or a survivor as a widow, which helps date a husband's death. It may give a wife's maiden name, a minister and church, or an employer and lodges [S6]. Relatives may appear only by initials or by relationship, so search for those forms too [S6].
+
+## Find the original issue through an obituary index
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The query sends the deceased subject's public name or the paper title and issue date to MyHeritage, the relevant library index, or the newspaper archive.
+
+Search the index by the confirmed deceased person's public name after answering the privacy gate in `SKILL.md`. Limit outbound searches to that name and, for the issue lookup, the newspaper title and publication date. Keep survivors' details and private research notes local.
+
+Use the newspaper title and publication date from the hit to open that issue, even when the date of death differs. If the hit gives a page or column, go straight there. Read the notice and any accompanying caption on the original page, and record what the text actually attributes. Keep the index entry as a locator [S13], [S14], [S29].
+
+Choose the index for the paper and locality. Use indexed dates, places and family names to sort candidates in the private log.
+
+- **Alabama, Tuscaloosa County.** MyHeritage's county index points to *Tuscaloosa News* notices from 1942 onward. Use age at death and death date to distinguish candidates, then use the publication date to retrieve the issue [S14 @2026-11-18], [S15 @2026-11-18].
+
+- **Colorado, Pueblo County.** MyHeritage's county index points to *The Pueblo Chieftain* notices from 1868 onward. Carry the publication date into the newspaper search [S14 @2026-11-18], [S16 @2026-11-18].
+
+- **Connecticut, Fairfield County.** MyHeritage's county index lists records from 1830 onward and typically gives the deceased's name and publication date. If the hit gives a date alone, use it to check the likely titles and leave the paper unidentified until you find the notice [S13 @2026-11-18], [S17 @2026-11-18].
+
+- **Idaho, Boise.** MyHeritage's Boise index starts in 1957 and points to the *Idaho Statesman* and *Idaho Daily Statesman*. Use the title on the hit [S13 @2026-11-18], [S18 @2026-11-18]. Boise Public Library's *Idaho Statesman* index supplies publication dates for 1957–2017 [S19 @2026-11-18].
+
+- **Indiana, Hendricks County.** Use MyHeritage's county index for entries from 1872 onward. Compare the burial place and spouse when supplied, then use the paper and publication date on the hit [S14 @2026-11-18], [S20 @2026-11-18].
+
+- **Indiana, Lake County.** Look for the *Post Tribune*, *Lake County Star* and *Crown Point Register* [S13 @2026-11-18] in Lake County Public Library's title-specific indexes and corresponding microfilm. Check the *Post Tribune* issues directly for 1987–1989, when its online index is incomplete [S21 @2026-11-18].
+
+- **Kansas, McPherson County.** Use MyHeritage's county index for its newspaper title and issue date. McPherson Public Library's local newspaper microfilm starts in 1872. Base the issue search on the cited paper and issue date, since the collection's stated 1841 start predates the county's first newspaper [S13 @2026-11-18], [S22 @2026-11-18], [S23 @2026-11-18], [S24 @2026-11-18].
+
+- **Kentucky, Daviess County.** Use the Daviess County Public Library's Owensboro Area Obituary Index for Owensboro papers. Use the indexed obituary date and expand the source code before looking up the issue. MI identifies the *Owensboro Messenger & Inquirer*, OM the *Owensboro Messenger*, and OI the *Owensboro Inquirer* [S13 @2026-11-18], [S25 @2026-11-18].
+
+- **Ohio, Columbiana County.** MyHeritage's county index points to the *Salem News*, with entries dated from 1934 and occasional parent and spouse names. Use the publication date to locate the issue [S13 @2026-11-18], [S26 @2026-11-18]. Check the Salem Public Library's gap list before relying on a miss in its local index [S27 @2026-11-18].
+
+- **Ohio, Williams County.** Use MyHeritage's county index for entries from 1863 onward. Keep the paper title with the publication date so you open the right issue [S14 @2026-11-18], [S28 @2026-11-18].
 
 ## 4. Ask about funeral and memorial cards
 

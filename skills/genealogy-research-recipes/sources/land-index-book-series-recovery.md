@@ -274,6 +274,13 @@ The index-audit, locator and series-resolution schemas are original synthesis.
 - **S109:** Random Acts of Genealogical Kindness, [Public-Domain Records](https://raogk.org/land-records/public-domain/), undated, read 2026-11-14. Used for: land owners filing records of their patents in the county's deed book.
 - **S110:** Carroll County IAGenWeb, [Carroll County Iowa Land Records Index](https://www.iagenweb.org/carroll/land/index.htm), read 2026-11-14. Used for: the county's book of original land grants, recording transactions in which the U.S. Government was the grantor, indexed by range and township.
 
+### North Carolina land-grant survey sources
+
+- **S111:** [14 Dec 2022 Just Genealogy Live Stream Results](https://www.youtube.com/watch?v=nYSZZqtguoI), community video, published 2022-12-15. Access on 2026-11-18 limited to the supplied transcript excerpt; the video page could not be opened. Used for: the speaker’s account of following an Ancestry hit to the same grant and its survey on McCorkle’s site. The specific grant and its location were not verified.
+- **S112:** Ancestry, [North Carolina, U.S., Land Grant Files, 1693-1960](https://www.ancestry.com/search/collections/60621?redirectFor=db.aspx), collection page read 2026-11-18. Used for: the collection’s identification and its description of the envelopes and accompanying documents. Individual images were not inspected.
+- **S113:** NC Historical Records Online, [NC Land Grant Images and Data](https://nclandgrants.com/), home page read 2026-11-18. Used for: the searchable North Carolina grant index, including grants for land now in Tennessee, and its loose-document images. The full extent of image coverage was not checked.
+- **S114:** NC Historical Records Online, [Getting Started](https://info.nclandgrants.com/start/), help page read 2026-11-18. Used for: checking county along with file number, opening a grant’s Virtual Shuck, and distinguishing the envelope and patent-book page from loose documents such as surveys. The coverage estimates on this page were not used.
+
 ## Credits
 
 - Judy G. Russell, The Legal Genealogist blog, posts cited as S39, S43, S98 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
@@ -295,3 +302,4 @@ The index-audit, locator and series-resolution schemas are original synthesis.
 - Land Oberösterreich (DORIS theme page and 2022 press release) and ÖFR, cited as S50–S52 — Official and society web pages; paraphrase with attribution and the theme and project names quoted for identification (quoted)
 - Calaveras Heritage Council, cited as S48, and Ulrich Pfister's lecture slides, cited as S55 — Third-party content, all rights reserved by the creators; short paraphrase with attribution (adapted)
 - Austria-Forum, AustriaWiki article Anerbenrecht, cited as S54 — Third-party wiki text; short paraphrase with attribution (adapted)
+- Just Genealogy livestream, Ancestry and NC Historical Records Online, cited as S111–S114 — Third-party video excerpt and documentation paraphrased with attribution (adapted)

@@ -1,0 +1,29 @@
+---
+id: "world-war-two-us-navy-battle-records"
+title: "Verify U.S. Navy participation in a World War II battle"
+summary: "Correlate wartime U.S. Navy muster and deck records with an action report before attributing participation to a sailor."
+kind: "records"
+scope: {"platforms": [], "tasks": []}
+privacy: "none"
+gates: []
+guardrails: [{"id": "WORLD-WAR-TWO-US-NAVY-BATTLE-RECORDS-01", "text": "Establish the person’s assignment and the ship’s or unit’s action separately."}]
+handoff: ["us-20th-century-military-service-reconstruction"]
+checked: null
+checked_basis: null
+capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 146}
+---
+
+# Verify U.S. Navy participation in a World War II battle
+
+Use this recipe when a Navy ancestor or family account names a World War II action such as Midway. Establish the person’s assignment and the ship’s or unit’s action separately.
+
+## Establish assignment on the battle date
+
+For an enlisted sailor, find the vessel or station in the World War II muster rolls, including the records around and after the battle date. Read changes, transfers and absences before concluding the sailor was aboard. Start from the service record if the ship is unknown. [S1], [S2], [S4]
+
+For an officer aboard ship, look in the deck log for officer lists and changes of assignment. Use the same deck log’s daily entries to track movements and any named casualties or personnel changes. [S2], [S3]
+
+## Establish the ship or unit’s action
+
+Use the ship’s deck log and the command’s war diary or action report for the battle dates. Correlate the unit’s activity with the person’s assignment, then check named casualty or missing reports for a claim of injury, death or disappearance. Attribute an individual role in the action only when the records describe it. [S1], [S3], [S4]

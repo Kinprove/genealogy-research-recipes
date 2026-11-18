@@ -123,6 +123,13 @@ that he had left Georgia.
 13. **Privacy gate:** <!-- privacy-gate: export --> A GEDCOM index or obituary extraction can name living relatives; answer the privacy gate in `SKILL.md` before exporting it to a spreadsheet. **Verify large batches in Excel.** Export a big structured extraction (a GEDCOM index, obituary fields) to a spreadsheet and check row counts and filters, because LLMs silently drop or invent data in the *middle* of a large input rather than raising a capacity error. (Genealogy TV — Little & Thompson)
 14. **Run two strong models and diff to find the uncertain tokens.** Transcribe or translate the same record with two different models; the diff points straight at the uncertain tokens. It is neither verification nor corroboration: settle each disputed token against the image, and do not feed both models one draft. (Kitty Cooper)
 
+**Prepare the scan before transcription.** If scanning from the original, align the page and
+start at 300 pixels per inch. Scan at higher resolution if the writing is small or faint
+[S29], [S30]. Work on a copy. Rotate a postcard into reading orientation and crop to the
+message [S29]. For a complex multi-column page, make one reading crop per column where the
+columns can be read separately [S29]. Keep the full page for checking headings and entries
+that span columns.
+
 When you compare a model's transcription with your own, settle every difference on the image
 rather than scoring the model against your typed copy. In Family Locket's deed test, the model
 was right and the researcher wrong in four of fifteen differences, one of them a misspelling in
@@ -387,3 +394,17 @@ Do not let AI fill a sex field from a familiar-looking given name. Names can be 
 - **Log which AI tools and conversations you used** — cite the AI step the way you cite any research step. (Family Locket)
 - **Check where a correction actually landed.** When correcting a transcription or structured extraction that passes between tools, record where the correction was saved and which version downstream work uses. Reopen the downstream copy or export to verify that it carries the correction. Do not assume that editing one derivative updates the upstream transcript or trains its recognizer. The [DES/Transkribus handoff example](https://www.youtube.com/watch?v=6IwX6kZbx4Q) motivates this check; current synchronization behavior is not asserted. (CompGen; verification steps are Kinprove synthesis)
 - **Privacy gate:** <!-- privacy-gate: third-party-tool --> Pasting living people's records into an AI chatbot sends their data to a third party; answer the privacy gate in `SKILL.md` first. **Apply the "water-cooler rule" before pasting living people's records into a consumer chatbot** — don't enter anything you wouldn't post publicly, because these tools may train on your uploads. Replacing names with **Person A / Person B** is *pseudonymization, not anonymization* — dates, places, relationships, and occupations can still re-identify someone, so also strip or generalize those indirect identifiers and treat the result as still potentially personal data; never upload private living-person data that fails the water-cooler rule. Use temporary chats, and keep a separate curated cloud account for connected folders. (This is the records-privacy caveat; the DNA recipe carries the separate de-identify/consent discipline for re-identifiable genetic data.) (Genealogy TV — Little & Thompson)
+
+### Ask for a German-record reading review
+
+**Privacy gate:** <!-- privacy-gate: publish --> The record image or link and draft readings may disclose information about living or possibly living people to FamilySearch Community and public readers. Answer the privacy gate in `SKILL.md` before posting.
+
+For a German record, use FamilySearch Community's public **Germany Research** group and
+start the discussion title with “Translation Request” [S31 @2026-11-18].
+
+Check the source site's image-sharing terms first [S33]. Post the source image with the
+chatbot's transcription and translation, mark both as drafts, and ask the volunteer to
+check the readings against the image [S29]. Give the record's year and locality. Include the
+full page if permitted so the volunteer can compare the handwriting. If you post a crop,
+include a link the volunteer can open to the full page [S32]. If the terms bar reposting the
+image, use a permitted, accessible link. Keep the request local if neither route is available.

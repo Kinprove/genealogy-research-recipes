@@ -11,7 +11,7 @@ handoff: ["chechen-ingush-1944-deportation-records", "evidence-proof-judgment", 
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 62}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 69}
 ---
 
 # Recipe: Recover separate military and Soviet-repression record episodes
@@ -447,6 +447,16 @@ number, which can identify the last unit; more often only an approximate period 
 still in touch. [H132] In one family's loss document, a man reported missing in January 1942 had
 last written on 4 November 1941, while on the road. [H133] Record such a date as the family's last
 contact: it shows he was alive when he wrote, and it does not date or place the loss.
+
+If a family assumes a missing WWII relative died when their hometown was destroyed, keep that
+place of death unconfirmed. When Soviet military service is plausible, look for a field-hospital
+episode even when the family has no hospital lead. Follow any admission to a documented outcome.
+[H149]
+
+In OBD Memorial's advanced search, include the hospital and medical-battalion documents and leave
+the presumed place of death out of the query. If a hospital record gives a death locality, check
+the named burial lists for that locality. Record the death and burial places as distinct fields.
+[H150 @2026-11-18]
 
 **Privacy gate:** <!-- privacy-gate: request --> A hospital or wound request asks for
 military-medical records about a serviceman who may still be living; answer the privacy gate in

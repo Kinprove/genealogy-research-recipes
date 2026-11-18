@@ -27,9 +27,20 @@ This recipe's own contribution is the separate-file rule for a FamilySearch bran
 
 **Not verified independently:** the Ancestry cancellation wording (S2, search-result extracts only); saving on FamilySearch from inside Web Search (S11 only); the Places people list in FTM 2024 (MacKiev and review descriptions are for FTM 2017 and FTM 2009, S14 and S15); whether Connect guests see living people (not stated in S8, S20, S21 or S22).
 
+### Sources for mobile access
+
+- **S23:** Family Tree Magazine / Andrew Koch, [Reflecting on the World of Genealogy in 2025 – An Interview with Andrew Koch | Episode 203](https://www.youtube.com/watch?v=vyNJ6WXstRw), community video. The attempt to open the YouTube page on 2026-11-18 returned a cache miss. The relevant advice was read in the episode transcript excerpt (S24). Used for attribution of the suggestion to consult the tree on a phone or tablet away from the desktop. MacKiev's documentation puts Antenna Tree setup in TreeVault.
+- **S24:** Family Tree Magazine / Andrew Koch, [Reflecting on the World of Genealogy in 2025 – An Interview with Andrew Koch](https://pod.wave.co/podcast/1e334f2b-8726-4953-afd5-e3a54c63809a/reflecting-on-the-world-of-genealogy-in-2025-an-interview-with-andrew-koch), community podcast transcript hosted by Wave. Read only the 13:36–14:40 transcript passage on 2026-11-18. Used for Koch's suggestion to consult the tree away from the desktop.
+- **S25:** Software MacKiev, [Getting Started with TreeVault Cloud Services](https://support.mackiev.com/637636-Getting-Started-with-TreeVault-Cloud-Services), support article, read 2026-11-18. Used for the FTM 2024 Source tree and TreeVault Antenna Tree, and viewing the owner's tree in Family Tree Maker Connect on a smartphone or tablet.
+- **S26:** Software MacKiev, [Creating a TreeVault Account](https://support.mackiev.com/712287-Creating-a-TreeVault-Account), support article, read 2026-11-18. Used for the TreeVault account, trial and optional paid subscription in FTM 2024.
+- **S27:** Software MacKiev, [Creating a TreeVault Antenna Tree](https://support.mackiev.com/597353-Creating-a-TreeVault-Antenna-Tree), support article, read 2026-11-18. Used for Create Antenna Tree under the TreeVault icon on Mac and Windows, the Source tree upload, automatic updates, and replacement of the previous Antenna Tree if a different Source tree is used.
+- **S28:** Software MacKiev, [Troubleshooting Issues in FTM Connect](https://support.mackiev.com/360471-Troubleshooting-Issues-in-FTM-Connect), support article, read 2026-11-18. Used for the owner's TreeVault login in the mobile app and loading the Antenna Tree from an FTM 2024 Source tree. The workflow was checked against documentation.
+
 ## Credits
 
 - Family Tree Magazine, Rick Crume interview, Episode 204, video published 2026-01-23 — Standard YouTube license, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove original procedural synthesis; platform behaviour is paraphrased from the pages cited as S2 to S22 — FSL-1.1-MIT (kinprove-original)
 - A Tree With No Name, Doris Kenney, First Impressions: Family Tree Maker 2024 (FTM 2024), 2025-05-11, and BellaOnline, Robert Larson, Family Tree Maker 2009 Features, cited as S11 and S15 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
 - Software MacKiev support articles, Ancestry and FamilySearch help pages cited as S2 to S10, S12 to S14 and S16 to S22 — Facts paraphrased with attribution (adapted)
+- Family Tree Magazine, Andrew Koch interview, Episode 203, cited as S23 and S24 — Mobile research suggestion paraphrased with attribution (adapted)
+- Software MacKiev support articles cited as S25 to S28 — Owner viewing and Antenna Tree procedures paraphrased with attribution (adapted)

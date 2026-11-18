@@ -58,6 +58,26 @@ This recipe's own contribution is the routing row, the party-role table, the two
 
 - **S36:** Random Acts of Genealogical Kindness, [Military Bounty Land](https://raogk.org/land-records/military-bounty/), read 2026-11-17. Used for: federal bounty-land warrants usable at any GLO office from 1842.
 
+### Sources added 2026-11-18
+
+- **S37:** [Reading a War of 1812 Pension Envelope - JG0278](https://www.youtube.com/watch?v=C4--cLVQPSQ), community video, published 2022-12-16. Supplied transcript excerpts reviewed 2026-11-18. The linked video could not be opened. Used for the presenter's suggestion to search GLO using separate bounty-land certificate numbers. The individual transactions were not verified.
+
+- **S38:** National Archives, [Index to War of 1812 Pension Application Files, M313](https://www.archives.gov/files/research/military/army/dc/m313.pdf), PDF, introduction read 2026-11-18. Used for the pension file numbers on the envelopes and the separate bounty-land notations in the upper right corner of some envelopes.
+
+- **S39:** National Archives, [Accessing Land Entry Records](https://www.archives.gov/research/land/accessing-land-entry-files), read 2026-11-18. Used for the GLO search lead and the act, acreage and warrant number that identify a surrendered military bounty-land warrant.
+
+- **S40:** [14 Dec 2022 Just Genealogy Live Stream Results](https://www.youtube.com/watch?v=nYSZZqtguoI), community video, published 2022-12-15. Supplied transcript excerpts reviewed 2026-11-18. The linked video could not be opened. Used for the presenter's advice to search GLO after a possible assignment, read the patent for its service designation and try the 1855 act for claims after the veteran's death. The excerpts do not establish a standard patent layout or wording. S41 confirms that a patent could issue in other parties' names. S42 defines who could receive a new warrant under the 1855 act after the veteran's death.
+
+- **S41:** General Land Office, [Letter of October 1, 1858, reproduced in *Thomas Hicks, Executor of Isaac Hicks*, H. Rept. 37-283, p. 7](https://www.govinfo.gov/content/pkg/SERIALSET-01146_00_00-008-0283-0000/pdf/SERIALSET-01146_00_00-008-0283-0000.pdf), PDF, letter read 2026-11-18. Used for a Revolutionary War warrant issued to Isaac Hicks that was used in a patent issued to two other men.
+
+- **S42:** U.S. Congress, [Act of March 3, 1855, ch. 207, 10 Stat. 701–702](https://www.govinfo.gov/content/pkg/STATUTE-10/pdf/STATUTE-10-Pg701-2.pdf), statute, sections 2 and 8 read 2026-11-18. Used for Revolutionary War eligibility and the widow or, in her absence, the children who were minors when the act took effect.
+
+- **S43:** U.S. Congress, [Act of September 28, 1850, ch. 85, 9 Stat. 520](https://www.govinfo.gov/link/statute/9/520), statute, section 1 read 2026-11-18. Used for the service covered by the 1850 act.
+
+- **S44:** National Archives, [Revolutionary War Pension and Bounty-Land Warrant Application Files, M804](https://www.archives.gov/files/research/microfilm/m804.pdf), PDF, bounty-land sections of the introduction read 2026-11-18. Used for the earlier federal Revolutionary War warrant authorities and evidence of service in warrant applications.
+
+- **S45:** National Archives, [Frequently Asked Questions](https://www.archives.gov/research/genealogy/start-research/faqs), Revolutionary War service question read 2026-11-18. Used for company and regiment in compiled military service records.
+
 ## Credits
 
 - BYU Family History Library, Nicky Smith, United States Bureau of Land Management Tract Books, video published 2019-07-01 — Standard YouTube license, all rights reserved by the rights holder; brief quotation used for commentary and attribution (quoted)
@@ -65,3 +85,5 @@ This recipe's own contribution is the routing row, the party-role table, the two
 - Family Locket, Diana Elder, 5 Tips for Research When the Courthouse Burned, 2024-05-27, and Michelle Mickelson, Southwestern United States Research Part 4, 2024-02-17, cited as S18 and S20 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
 - Archive and land-office pages cited as S19 and S21 to S25 — Facts paraphrased with attribution (adapted)
 - Kinprove original procedural additions; community articles and guides cited as S26 to S36 are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
+- Community video advice cited as S37 and S40 — Paraphrased with attribution (adapted)
+- Federal statutes and archival material cited as S38, S39 and S41 to S45 — Paraphrased with attribution (adapted)

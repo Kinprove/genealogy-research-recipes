@@ -56,6 +56,8 @@ No identification in the presenters' examples was independently checked.
 - **S38:** PastVu, [Rules](https://docs.pastvu.com/en/rules), revised 17 November 2025, opened 2026-11-16. Used for: the site's purpose of collecting images of human life and settlements up to 2000; photographs taken after 2000 excluded; moderators selecting the images; the year and the source entered by the user; and comments serving to discuss the images.
 - **S39:** PastVu, [Using the Map](https://docs.pastvu.com/en/guides/map), opened 2026-11-16. Used for: clusters of images that split into smaller clusters or single images as the map zooms in, a time slider limiting the markers to a time range, and a thumbnail opening the full image with more information.
 - **S40:** История одной семьи. Юлия Новожилова (Dzen channel), [«Старые фотографии родины предков онлайн»](https://dzen.ru/a/YG8qmIuhPQ0Evij0), 8 April 2021 by the page's date, read 2026-11-15 from a captured copy (Dzen refuses automated retrieval; images not captured). Used for: PastVu images taken for a family book; zooming the map to the settlement until grouped images become points; each image's place, period and shooting direction; and comments that can correct inaccuracies and add details. The shooting direction and comments were not checked in PastVu's own documentation.
+- **S41:** Melina Papadopoulos, Family Tree Magazine, [A Guide to Libraries for Genealogy Research](https://familytreemagazine.com/libraries-archives/a-guide-to-libraries-for-genealogy-research/), search-index text read 2026-11-18. Community research advice. The indexed Photos section suggests browsing library photograph holdings for period views of schools, churches, businesses and landmarks. The article page returned HTTP 403 on direct access.
+- **S42:** Concord Public Library, [CPL Digital Collections](https://concordnhlibrary.omeka.net/), opened 2026-11-18. The library describes its local-history material from the Concord Room, including images of local businesses, schools and churches, and provides a collection browse entry point separate from its library homepage.
 
 ## Credits
 
@@ -71,3 +73,4 @@ No identification in the presenters' examples was independently checked.
 - Wikipedia article cited as S37 — CC BY-SA 4.0; paraphrase (adapted)
 - PastVu documentation pages cited as S38 and S39 — Copyright of their publisher; short paraphrase (adapted)
 - Dzen post by Юлия Новожилова cited as S40 — Copyright of its author; short paraphrase of the author's report (adapted)
+- Melina Papadopoulos, Family Tree Magazine, A Guide to Libraries for Genealogy Research, cited as S41 — short paraphrase of the author’s advice (adapted)

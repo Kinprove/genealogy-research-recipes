@@ -10,8 +10,8 @@ guardrails: [{"id": "FAMILYSEARCH-PRACTICAL-RECORD-WORKFLOWS-01", "text": "Confi
 handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "gedcom-research-export", "research-documentation", "rootsmagic-tree-reconciliation-workflow"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["familysearch"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 32}
+capabilities: {"browse": ["familysearch"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": ["contact"]}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 36}
 ---
 
 # Recipe: FamilySearch record recovery and Tree maintenance
@@ -22,6 +22,7 @@ router: {"section": "Record websites, libraries and maps", "group": "Record webs
 - The failure to prevent
 - Before starting
 - Nineteen workflows
+- Find and maintain Family Tree profiles
 - Common working table
 - Hand off interpretation
 
@@ -135,6 +136,13 @@ still needs its original entry. Sources: [Jewish genealogy](https://www.youtube.
 [Danish places](https://www.youtube.com/watch?v=iA8SSSgUzyc),
 [Sweden](https://www.youtube.com/watch?v=T_fRRUa4lYY); their 2017–2022 search fields may differ now.
 
+When a citation gives a FamilySearch Catalog entry number, open it at
+`https://www.familysearch.org/en/search/catalog/<entry-number>` and match the title and coverage.
+Use the Catalog entry number in this URL. Keep film and DGS numbers for their own lookups.
+Entry 660634 is the index to volumes I–XXV of the *Colonial and State Records of North Carolina*
+[S106 @2026-11-18]. According to the reader’s transcript extract, Just Genealogy points to that
+separate index and shows how to open it by its Catalog number [S105† @2026-11-18].
+
 Treat the coverage ledger as an inventory of FamilySearch's holdings, not of the records that survive
 for the place. FamilySearch describes the Catalog as a guide to the records and resources it has
 collected, covering materials available in its libraries and centers, physically or as online
@@ -182,6 +190,12 @@ holder before citing it; cite the copy you read. Sources:
 3. Check the index's covered years; carry its entry/page reference to the correct original volume.
 4. Browse directly where the index is absent or incomplete, noting relevant relatives and neighboring entries.
 5. Log every examined image range and the ranges still outstanding.
+
+According to Katie Merkley’s advice, determine the arrangement before browsing individual images
+[S103† @2026-11-18]. Sample headings and entries to see whether the current item runs by surname,
+by date, or by one within the other. Use thumbnails or the image-number field to jump near the
+target, then step through the surrounding images individually. Check the ordering again after an
+item break [S104 @2026-11-18].
 
 **Artifact:** A browsing log with group/item, index coverage, original page reference, image range, names, findings and remaining work.
 
@@ -704,6 +718,22 @@ observations; confirm the current controls and do not assume one repair cleans b
 6. If the PDF stays private, put a self-contained, shareable evidence summary and underlying citations in visible source/reason fields so collaborators can assess the correction without opening the PDF.
 7. Reopen each profile's source and confirm the right person and documentary role. Check access from the intended audience's perspective, with authorized access, and record whether that audience can read the PDF or the evidence summary.
 
+**Privacy gate:** <!-- privacy-gate: upload, publish --> An image, document, title, tag or comment can disclose the identities or relationships of living people to FamilySearch or to everyone who can see the Memory. Answer the privacy gate in `SKILL.md` before adding the material or associating it with a profile.
+
+Upload an identified photo or document from the deceased subject’s **Memories > Add Memories**.
+Give it a descriptive title and record where the item came from and what supports the identification.
+You can contribute to a deceased person’s profile even if they are unrelated to you [S107 @2026-11-18].
+Select and verify visibility explicitly. FamilySearch documents a private default [S123 @2026-11-18].
+
+Tag the same Memory for each additional identified subject whose profile it belongs on. Confirm the
+profile for every tag, then reopen the Memory and check which people are linked. Use the tags on the
+existing item so each person points to the same copy [S107 @2026-11-18], [S124 @2026-11-18].
+
+Post a correction in the existing photo’s **Comments** when you have a basis for challenging a label.
+Point to the specific figure and give the proposed name and basis. Attribute a recognition to the
+person who made it. Disregard facial resemblance as evidence of identity and leave the tag unchanged
+until independent evidence establishes the identification [S107 @2026-11-18], [S125 @2026-11-18].
+
 **Artifact:** A source-reuse map: source/image URL, cited passage, named roles, attached PIDs, report version, intended audience, saved visibility, redaction/summary version and reader-access check.
 
 **Check:** Other Tree users can see a private Memory's source information without being able to read the Memory. Verify that the intended audience can inspect the evidence in the PDF or visible summary. Sharing a source does not imply every fact or conclusion applies to every named person. The report is an authored analysis; preserve its underlying evidence.
@@ -765,6 +795,93 @@ Recheck the pedigree afterwards. Sources: [Q&A #3](https://www.youtube.com/watch
 [editing](https://www.youtube.com/watch?v=iUYT0_CvbBU). Their controls date from 2017–2019, and the
 2018 dialog removed both parents at once, so check what the current control removes. They do not
 address loops created by merges.
+
+## Find and maintain Family Tree profiles
+
+### Find a profile and check its evidence
+
+If the direct-line profile leaves a gap, use **Search > Family Tree > Find by Name** for a deceased
+collateral relative or a documented associate such as a witness, godparent, pallbearer or neighbor.
+Enter the name and the documented place and approximate birth or death year. Use the returned
+profiles to queue sources and connections to verify [S107 @2026-11-18], [S108 @2026-11-18].
+
+Use **Find by ID** when you already have the Family Tree person ID (PID), and save that PID and the
+profile URL with your findings. A name search of the public Tree covers profiles listed as deceased.
+Log a miss as no public profile found by that search. A living or confidential profile can be outside
+that view [S107 @2026-11-18], [S108 @2026-11-18], [S126 @2026-11-18].
+
+Open the full person page from the result. Inspect **Sources** for attachments, **Collaborate**
+for notes and discussions, **Memories** for documents and photos, and **Details > Family Members**
+for linked parents, siblings, spouses and children. Check those links and the attached records
+before accepting the identity shown on the profile [S107 @2026-11-18], [S109 @2026-11-18].
+
+**Privacy gate:** <!-- privacy-gate: publish --> Following exposes the user's FamilySearch account to other followers who open the selected profile’s follower list [S111 @2026-11-18]. Answer the privacy gate in `SKILL.md` before subscribing.
+
+Click **Follow** in the identified deceased person’s page banner when you need alerts about later
+changes. Verify the profile on the **Following** list and review changes before updating the working
+conclusion [S107 @2026-11-18], [S109 @2026-11-18], [S110 @2026-11-18].
+
+### Add a documented person or extend a branch
+
+**Privacy gate:** <!-- privacy-gate: upload, publish --> Creating people or linking branches sends identifying details and kinship to FamilySearch. Living people in the bridge require permission, and shared Tree profiles and links can be visible to other users. Answer the privacy gate in `SKILL.md` for the particular data, people and audience before saving.
+
+Add a confirmed deceased person to the shared Tree only after searching for an existing profile.
+From an established parent, child or spouse, use **Details > Family Members** and the applicable
+**Add Child**, **Add Parent** or **Add Spouse** control. Compare the suggested profiles against the
+records and select an established match. If the identity and relationship are supported and no match
+remains, create the profile through that relationship [S107 @2026-11-18], [S112 @2026-11-18],
+[S113 @2026-11-18], [S114 @2026-11-18].
+
+Create an unconnected deceased profile through **Family Tree > Tree > Recents > Add Unconnected
+Person** if no supported immediate relative has a profile. Review the duplicate search before
+creating the entry. Save the new PID and evidence in the working packet so you can find the profile
+again and revisit the unresolved connection [S107 @2026-11-18], [S115 @2026-11-18].
+
+Connect the user’s branch in **Family Tree > Tree** only when the research requires it. Enter the
+minimum approved living-person details in the user’s private tree until the line reaches a documented
+deceased relative. Link to the corresponding shared profile when the records confirm it. Extend
+other supported branches for additional relationship paths and leave an unresolved link open
+[S107 @2026-11-18].
+
+### Share living profiles with a family group
+
+**Privacy gate:** <!-- privacy-gate: publish, contact --> Copying profiles exposes the approved living relatives’ details to FamilySearch and every member of the selected group [S117 @2026-11-18]. Invitations disclose the group link to their recipients. Answer the privacy gate in `SKILL.md` for the profile data, group membership and each invitation before sharing.
+
+Create a **Family Group Tree** from **Family Groups > Create Group** and enable its tree option.
+Copy only consented living profiles to that group. The group copies have different PIDs and do not
+sync edits back to the private copies [S107 @2026-11-18],
+[S116 @2026-11-18], [S117 @2026-11-18].
+
+Invite only the approved relatives through a route already permitted under
+[Living people](../SKILL.md#living-people). Confirm which group and tree the invitation opens and
+record the group's approved membership before relying on that audience [S117 @2026-11-18].
+
+### Ask about a contribution
+
+Trace an unsupported historical assertion to the specific entry under **Sources**, **Collaborate**,
+**Memories**, or **Details > Latest Changes > Show All**. Record the assertion and edit date as
+provenance. Apply [Living people](../SKILL.md#living-people) to any contributor who may be living
+and use only a contact route the user already has [S107 @2026-11-18], [S119 @2026-11-18].
+
+**Privacy gate:** <!-- privacy-gate: contact --> A private first message discloses the sender’s identity and the question to the known contributor through FamilySearch Chat. Follow the consent, disclosure and logging rules under Living people. Keep other living people’s data out of the message and stage any DNA question before outreach.
+
+Draft a private FamilySearch Chat message asking for the source behind that particular contribution
+if the user already has that chat route. Send it only with the user's explicit authorization and
+log the reply as an attributed lead [S107 @2026-11-18], [S118 @2026-11-18].
+
+### Check a displayed relationship path
+
+On the deceased person’s profile, use **View Relationship** if shown in the name banner. Record
+**Relationship Unknown** as no path returned within the viewer’s scope. If the control is absent,
+record that it was unavailable. For a displayed path, verify each parent–child link from records
+before relying on it [S107 @2026-11-18], [S120 @2026-11-18], [S121 @2026-11-18].
+
+**Privacy gate:** <!-- privacy-gate: publish --> Enabling relationship viewing exposes the user’s relationship path and common ancestors to participating FamilySearch users [S121 @2026-11-18]. Inspect the disclosures in the setting and answer the privacy gate in `SKILL.md` for any living person whose details become visible.
+
+Enable **Relationship Viewing** in FamilySearch settings only when the user authorizes that audience.
+For a contributor whose FamilySearch connection the user already has, open the displayed relationship
+to inspect the path if both users opted in and the viewer returns one. Verify each link before using it
+as evidence [S107 @2026-11-18], [S121 @2026-11-18], [S122 @2026-11-18].
 
 ## Common working table
 

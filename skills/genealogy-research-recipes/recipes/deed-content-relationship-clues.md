@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 144}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 164}
 ---
 
 # Read deed content as dated relationship, probate, migration and parcel hypotheses
@@ -83,12 +83,12 @@ Do not infer the price paid, or kinship, from a $1 or $10 recital alone in a 20t
 
 ## 3. Keep the inheritance trail open when probate is missing or landless
 
-There are four routes.
-
 - **Quitclaims among heirs.** When a parent's estate has no will or probate file, search the deed indexes for that parent's land. Look for quitclaims between heirs, or from heirs to a third party. Record each grantor as a possible heir to identify. A married daughter may appear under her married surname [S3]. Being a participant is not the same as being a child. Use [heir lists are not child lists](evidence-proof-judgment.md).
 - **Pre-death deed series.** When a probate holds little or no land, search the decedent's grantor index for the period before death. Look for a same-day series of nominal-price deeds of small, apportioned parcels in one area to several grantees. One presenter used such a series as indirect evidence that the grantees were heirs [S4]. Record each grantee as a possible heir. Record the pattern as indirect evidence that still needs correlation. Do not adopt the presenter's tax motive.
 - **Fiduciary deeds.** An executor's or administrator's deed in the chain of title means there was a probate. Use the deed date to go straight to the court record [S2]. Then hand the search to the probate inventory recipe.
 - **Life estate or survivorship.** Use this route when a child holds the land after a parent's death and there is no deed or probate at the death. Look back for an earlier deed from the parent that reserved a life estate. Under a life estate the property passes to the remainderman when the life tenant dies. Also look for a joint tenancy with right of survivorship, which passes the property automatically to the surviving tenant or tenants [S7]. Record the conveyance date and the end of the life tenancy as separate events. Do not treat the death as the date title passed. The presenter says that US jurisdictions usually require some evidence of the transfer at the death [S7]. Search the chain of title after the death for it, such as a later conveyance by the remainderman or a recital of the life tenant's death. Do not assume nothing was recorded.
+
+- **Lifetime gift to a child omitted from a will.** When a parent's final will omits a possible child, keep the child in the candidate list and look for a deed of gift made during the parent's lifetime [S84]. If the deed books yield no gift, check any family-held deeds already available [S84]. Compare the deed's date, parties and parcel with the will and later deeds. Land already given could have counted toward the child's share [S85]. Keep the reason for the omission open unless the records explain it.
 
 - **Heirs' deeds after the widow's death.** When a man died owning land and his widow outlived him, search for his heirs' conveyances after her death as well as after his. What she held as dower went back into his estate for his heirs. The estate should then have been reopened, but often the only record of the division is in the deed books, sometimes only in deeds for the separate pieces sold out of the family years later [S48]. Such a deed may not mention the widow or her death [S47].
 
@@ -107,6 +107,8 @@ There are four routes.
 - **Several deeds recorded together.** When a deed was recorded years after it was signed, read the entries recorded at the same time for other deeds to the same grantee. Deeds were entered in the order they reached the recorder, not the order they were signed [S66], [S67]. Some people waited until they had several to record: in 1738 one Middlesex County, Massachusetts, man had four deeds recorded, some signed nearly ten years earlier [S66]. Recording could also wait until the land was sold again, a generation or two later [S67].
 
 - **"Of [place]" against the land's county.** Do not assume a party lived in the county where the tract lies: a deed is recorded in the county of the land, but it often states where each party lived [S28]. When the stated county differs, search that county's census, tax and court records for the party as well. In one Ohio example a buyer of 1815 was "of Knox Co" though his land lay in another county, and the author then found a couple of the right age in a son's Knox County household in the 1820 census [S29]. Name each county as it stood on the instrument date: that land lies in today's Holmes County, which was created only in 1824 [S29], [S30]. When one person's successive patents or deeds change the stated residence from a parent county to a county formed from it, record a boundary change before a move, and search the new county's records for the later years. In an Arkansas example, a patentee first of Izard County was later of Fulton County, created from Izard with effect from 1 January 1843 [S31], [S32].
+
+- **Resident named in someone else's deed.** According to the presenter, read the landowner's historical deeds for clauses naming the person you seek as a resident [S87†]. Record the wording and parcel as a residence clue dated to the deed or to the period the clause states [S88]. Require title evidence before assigning ownership to the resident.
 
 - **Age of a buyer or lessee.** Do not conclude from a land purchase or lease alone that the party had reached 21, because an infant's contract to purchase land and a lease to an infant were voidable, not void [S23], [S24]. The Legal Genealogist applies this to land deeds where a jurisdiction treats minors' non-necessary contracts as voidable and says land generally was not a necessary [S25].
 
@@ -141,6 +143,8 @@ The Legal Genealogist reports, from one 1848 Caldwell County, North Carolina, de
 
 Keep an in-and-out table of each person's land: every parcel, its acreage, the record by which it came and the record by which it left. The acres acquired should equal the acres disposed of plus any still held at the end of the period you traced, apart from small surveying differences [S68]. A parcel with only an out entry, a parcel with only an in entry that the person no longer held, or acres that do not balance, means a transfer is still missing. Look for it in probate as well as in the deed books, since after the first title ownership passed by deeds and wills [S71], and outside the years you searched [S69]. In one Ontario case, full-text search found a purchase of 21 acres and a sale of 27; a gap like that calls for a search of the grantor and grantee indexes by hand. Full-text search need not find every deed [S70], and its AI transcriptions contain errors [S72].
 
+When a gift deed might resolve a disputed branch assignment in a published genealogy, trace the same parcel from the purchase through the gift and any later conveyances [S84], [S86]. Compare the owners named in that chain with the people each proposed branch places on the tract. Record any missing transfer and corroborate the proposed relationships with other records.
+
 Keep near-identical surnames (Wilmer/Wimmer in that example) as separate parties until other evidence joins them [S9]. Where a citing deed's date disagrees with the cited deed's own body, acknowledgment and cover note, keep both readings. A proposed misreading (13th/30th in the example) is a hypothesis to check on the image [S9]. That analysis was AI-assisted: Claude compared her own transcriptions, and she said she still needed to double-check the details [S9]. Verify every call and citation on the images yourself.
 
 To place a metes-and-bounds tract on a modern map, do not work from one description. Collect the calls from every grant, survey and deed for the man's tracts, and from each neighbour's grant or survey that names him as a corner, such as the side of a river, a mountain, ridge, valley, creek, spring, road or adjoining owner, then look for the one area where they all fit [S35]. Anchor the assembled plats to a fixed feature such as a river or county line before you overlay a modern map [S36]. Report the result as an approximate location until the original drawn surveys are checked: in the Virginia example the author had only transcribed surveys and listed the county surveyor's books as the next search [S35].
@@ -163,7 +167,7 @@ For each instrument, record:
 - consideration, and your comparison with the going rate or "not compared";
 - estate or reservation terms;
 - each party's role and "of" place, verbatim;
-- every other person named, with role: adjoiner, witness, chain carrier, trustee, lender or acknowledging official;
+- every other person named, with role: resident, adjoiner, witness, chain carrier, trustee, lender or acknowledging official;
 - parcel comparison: calls, cited book and page, acreage, neighbours, part-of links.
 
 Then list each clue as a hypothesis. Name the record that would corroborate it: the probate case, an heir list, the wife's identity, or the migration pair. Name the same-name alternative it must survive. Hand every proof ruling to [evidence/proof judgment](evidence-proof-judgment.md).

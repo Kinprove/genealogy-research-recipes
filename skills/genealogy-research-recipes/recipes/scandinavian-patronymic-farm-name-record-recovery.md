@@ -11,7 +11,7 @@ handoff: ["scandinavian-parish-record-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 102}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 111}
 ---
 
 # Recover a Scandinavian emigrant's home-parish entries under patronymic, farm and soldier names
@@ -133,6 +133,8 @@ A candidate matches only when several of these discriminators agree. Leave any c
 - Use the lægdsruller (military levying rolls) to bridge censuses for men. Males of the peasant class were liable in 1788–1848, and all men from 1849. Rigsarkivet gives the registration ages as 0–36 for 1788–1808, 0–45 for 1808–1849, 15–38 from 1849, 19–38 from 1869 and 18–36 from 1912. After 1849 a boy was not entered at birth: look for him in the rolls for the years when his age fell within his period's range. The rolls give the father's name (the mother's if the man was born outside marriage) and the man's moves while liable for service. Moves can be followed across the country from 1789. Before 1788 only scattered rolls survive. [S17 @2026-11-16]
 
 ## Iceland: use the farm, census and emigration sources separately
+
+Recover a candidate parent's given name from the genitive form in an Icelandic patronymic or matronymic [S36]. In MyHeritage's example, *Jónsson* gives *Jón* as the father's given-name lead [S35], [S36]. Confirm the relationship in the child's baptism entry before attaching a parent.
 
 Use Vesturfaraskrá as the 1983 printed emigration index for 1870–1914 described by Icelandic Roots, rather than assuming it is a searchable online database. Search its first-name arrangement with the observed patronymic and farm, then compare its year and destination with departure and arrival evidence. The index includes some planned departures that did not happen, so an entry alone does not prove that the person emigrated. [S28], [S29]
 

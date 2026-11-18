@@ -154,6 +154,12 @@ palette order, but a reader's comment of 2024-12-06 on the same page reports the
 the groups were created; method 4 now reports that comment and asks the reader to check their own
 list. No source was unreadable and no live account was used.
 
+### Sources for the 2026-11-18 addition
+
+- **S15:** Family Tree Magazine, YouTube, [Reflecting on the World of Genealogy in 2025 – An Interview with Andrew Koch | Episode 203](https://www.youtube.com/watch?v=vyNJ6WXstRw), December 2025 episode, read 2026-11-18 (cluster discussion in Podwave's transcript of the same episode, around 02:36). The YouTube page did not load. Used for Koch's suggestion to use clusters to see how DNA matches connect to one another and his description of Pro Tools access.
+- **S16:** Ancestry Help, [Matches by Cluster](https://support.ancestry.com/s/article/Matches-by-Cluster?language=en_US), read 2026-11-18 via the redirected help page. Used for the path through the DNA Matches page, authorized kit access and website-only availability. The signed-in view was not tested.
+- **S17:** Ancestry Help, [Ancestry Pro Tools Membership](https://redir.ancestry.help/hc/en-us/articles/53933348842131-Ancestry-Pro-Tools-Membership), read 2026-11-18. Used for the active family-history membership requirement and inclusion of Matches by Cluster in the Pro Tools add-on.
+
 ## Credits
 
 - Roberta Estes, DNAeXplained blog, posts cited as S6 and S10 — All rights reserved; short attributed adaptation (adapted)
@@ -166,4 +172,5 @@ list. No source was unreadable and no live account was used.
 - Randy Seaver, Genea-Musings, My AncestryDNA Clusters Are Limited At This Time, 2025-07-12, cited as S9 — All rights reserved; short attributed facts (adapted)
 - Dana Leeds, DNA Color Clustering: The Leeds Method for Easily Visualizing Matches, 2018-08-23, cited as S11 — All rights reserved; short attributed adaptation (adapted)
 - My Family Pattern, YouTube videos DNA Laddering (2026-01-01) and EGGOS Search Strategy for DNA Matches (2023-09-05), cited as S12 and S13 — All rights reserved; short attributed adaptation (adapted)
+- Andrew Koch, Family Tree Magazine podcast, Reflecting on the World of Genealogy in 2025 (December 2025), cited as S15 — short attributed adaptation (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 114}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 128}
 ---
 
 # Route pre-1900 U.S. military service by service type before searching or ruling it out
@@ -19,6 +19,16 @@ router: {"section": "Records by country and region", "group": "United States: mi
 Use this recipe before you search for, or rule out, pre-1900 U.S. military service. The usual failure is to search only federal compiled-service or pension indexes and then report "no service". A related mistake is reading an empty donation-land or bounty-land search as meaningful when the man was never eligible. This recipe works out the probable service type, sends each type to its own record series and custodian, labels what each record actually shows, and keeps same-named men apart.
 
 To retrieve a pension or bounty-land file, use [pension-file recovery](us-military-pension-file-recovery.md) (§1 for custodians, §4 for service the file does not declare). For merge or separate rulings, use [evidence/proof judgment](evidence-proof-judgment.md).
+
+## Contents
+
+- 1\. Fix residence and enlistment place, then classify the service
+- 2\. Write each series' eligibility rule before reading a miss
+- 3\. Label what kind of evidence each record is
+- 4\. Read unit designations by roster status
+- 5\. Route a suspected Loyalist separately
+- 6\. Separate same-named men without choosing a name-only hit
+- 7\. Return the routing packet
 
 ## 1. Fix residence and enlistment place, then classify the service
 
@@ -40,6 +50,8 @@ Classify each service clue into exactly one working type, and record the basis f
 - **Company books.** For 1812–15, NARA Record Group 98 (Records of United States Army Commands, 1784–1821) holds company books and order books for many regular infantry regiments, the 2nd and 3rd Artillery, the 1st and 3rd Rifle regiments and the Light Dragoons [S13 @2026-11-16]. One presenter (only transcript excerpts read) says these company and descriptive books carry the same kinds of detail as the Register [S9 @2026-11-16]. Search them when the Register entry is thin or the man is missing from it.
 
 If the type is unknown, keep two or more routes open. Do not choose one by default. Expect a man to have service of more than one type. An empty or incomplete CMSR search does not end the search. Check pension and state records for service the CMSR leaves out (pension recipe §4).
+
+**Quaker meeting clues.** Treat a Revolutionary-era Quaker monthly meeting minute that mentions military activity as a claim lead [S28]. Follow the presenter's advice from the available excerpt [S25] and use any place of service the entry names to choose the compiled service, pension and bounty-land records to search. Match each series to the probable service type and its eligibility rules (§2) [S29]. Keep the meeting's location separate from the place of service unless the minute connects them.
 
 With a known NARA microfilm-publication number, look it up in NARA's digitization-partner table and follow the listed collection links. Keep the National Archives Catalog Availability Status column separate from the extent of each partner's collection; check the target collection's coverage before reading a miss. Do not assume that a provider's name search indexes the publication number, or that a link to one partner proves the whole series is online. [S23 @2026-11-16](https://www.pricegen.com/7512-2/) [S24 @2026-11-16](https://www.archives.gov/digitization/digitized-by-partners)
 
@@ -73,6 +85,8 @@ Attach exactly one evidence-kind label to every record: **service proof**, **pay
 - **Pennsylvania militia-loan certificates.** These become service proof once you follow them to the underlying accounts. The archivist says they were issued from 1784 for wartime militia service, mostly frontier or guard duty. Cards with a certificate number that relate to militia loans say "militia loan accounts" in the lower right corner. The card itself gives little more than the name, the amount paid and perhaps the county. Following the certificate into the militia loan accounts can recover the date range, and often the place, of the tour. He calls these among the few records that prove when and where a man served [S3]. POWER Library hosts the Revolutionary War Military Abstract Card File (RG-13, Comptroller General's records). The archivist says the bulk of the militia records are there [S3], but not all of the collection is online.
 - **State pay vouchers are payment records with service value.** The North Carolina State Archives holds soldier pay vouchers. The presenter showing them says each records the amount and when and where it was claimed, and that the DAR uses them to prove service [S6].
 - **A state bounty-land warrant can carry service details.** The Virginia example names the soldier's Continental Line service and its length, as opposed to militia [S4]. Label it service proof only for what it actually states.
+
+**Pennsylvania muster fines.** Read a Revolutionary-era fine explicitly charged for missing an inactive-duty muster as evidence of absence at that muster [S26], as the presenter illustrates with an example from the available excerpt [S25]. Keep active duty and combat open. Compare dated fines for the man and his known relatives to spot repeated absences. Leave attendance unresolved on dates with no fine entry [S27]. If you suspect Quaker membership, check the relevant monthly meeting minutes [S28]. Record a reason for an absence only when the records support it.
 
 - **Ohio WPA veterans’ grave-registration cards: claim lead.** Treat an Ohio WPA veterans' grave-registration card's service attribution as a compiled lead, then check the cited unit in service records, rosters and any pension file. In Union County the project crosschecked cemetery names against war records and local rosters before creating cards. When two same-named men receive the same unit or dates, compare each man's residence, life dates and the unit's recruiting context rather than transferring the service to the man whose grave is easiest to find. Keep the burial identification and service identification separate. [S20](https://genealogypants.com/2024/08/14/dont-stop-digging-graves-registration-cards-ohio/), [S21](https://genealogypants.com/2025/07/09/did-my-george-long-serve-in-the-war-of-1812/), [S22](https://www.unioncountyohio.gov/Veterans-Burial-Records)
 

@@ -135,7 +135,7 @@ draw on each source.
 | S115 | Price Genealogy, [1790 – 1840 Censuses](https://www.pricegen.com/1790-1840-censuses/) | 2022-04-29 in saved metadata; read 2026-11-14 | 1, 4: early columns, lost returns, Indians not taxed |
 | S116 | U.S. Census Bureau, [Censuses of American Indians](https://www.census.gov/about/history/census-records-family-history/census-records/censuses-of-american-indians.html) | read 2026-11-14 | 1: Indians not taxed |
 | S117 | National Archives, 1950 Census website, [Native Americans in the 1950 Census](https://1950census.archives.gov/howto/native-americans.html) | read 2026-11-14 | 1: Form P8 |
-| S118 | National Archives, 1950 Census website, [FAQs](https://1950census.archives.gov/howto/faq.html) | read 2026-11-14 | 1, 6: forms P2, P4 and P8, overseas returns, housing side |
+| S118 | National Archives, 1950 Census website, [FAQs](https://1950census.archives.gov/howto/faq.html) | read 2026-11-14. Rechecked the search, image download and coverage FAQs on 2026-11-18. | 1, 2, 6, 10: P2, P4 and P8, overseas returns, housing, infant cards and agriculture |
 | S119 | Cari A. Taplin, Genealogy Pants, [Did MY George Long Serve in the War of 1812?](https://genealogypants.com/2025/07/09/did-my-george-long-serve-in-the-war-of-1812/) | 2025-07-09; read 2026-11-14 | 1: Ohio's 1810 census |
 | S120 | Amie Tennant, FamilySearch blog, [1810 United States Census](https://www.familysearch.org/en/blog/1810-us-census) | 2022-08-25; read 2026-11-14 | 1, 4: lost 1810 schedules, substitutes, columns |
 | S121 | National Archives, [Census Records: Microfilm Availability and Access, 1790–1890, part 2](https://www.archives.gov/research/census/microfilm-catalog/1790-1890/part-02) | read 2026-11-14 | 1: missing 1790 schedules |
@@ -187,6 +187,27 @@ draw on each source.
 | S167 | FamilySearch, [Wisconsin, State Census, 1895](https://www.familysearch.org/en/search/collection/1443712), collection description | read 2026-11-16 | 5: 1895 Wisconsin heads and counts |
 | S168 | Joan Benner, Marquette County, Wisconsin Genealogy, [1885 Wisconsin State Census of the Town of Buffalo, Marquette County](https://www.linkstothepast.com/wimarquette/1885buffalm.html), transcription from the Wisconsin Historical Society microcopy | site last updated June 2001; read 2026-11-16 | 5: 1885 Wisconsin nativity headings |
 | S169 | Clark Co., WI Internet Library, [1895 WI State Census For Colby Village--West Ward, Clark County Wisconsin](https://wiclarkcountyhistory.org/clark/facts/1895ColbyWest.htm), contributed by Kenneth Wood | read 2026-11-16 | 5: 1895 Wisconsin nativity headings |
+| S170 | Sunny Jane Morton, Family Tree Magazine, [1950 Census Research Guide](https://familytreemagazine.com/records/census/1950-census-records/) | web-page, reviewed, access: read. Read the guide's search, browsing, question and coverage sections on 2026-11-18. | 1, 2, 6, 7, 10: community search and field advice |
+| S171 | National Archives, [Official 1950 Census Website](https://1950census.archives.gov/) | help-page, reviewed, access: read. Read the home page's collection scope, filters and viewer instructions on 2026-11-18. | 1, 2: federal portal and search controls |
+| S172 | U.S. Census Bureau, [1950 Enumerator’s Reference Manual](https://www.census.gov/content/dam/Census/programs-surveys/decennial/technical-documentation/questionnaires/1950instructions.pdf) | pdf, reviewed, access: read. Read the relevant Form P1 instructions for the heading and items 1–38 on 2026-11-18. | 2, 6, 7, 10: original instructions for Form P1 |
+| S173 | National Archives, [1950 Census Transcription Projects](https://www.archives.gov/citizen-archivist/missions/1950census-transcription) | help-page, reviewed, access: read. Read the instructions on the dedicated census transcription tool on 2026-11-18. | 1: federal transcription tool |
+| S174 | Claire Kluskens, Open History Hub, [1950 Census: Transcription Tool FAQs](https://openhistoryhub.com/t/1950-census-transcription-tool-faqs/64321) | forum, reviewed, access: read. Published 2022-04-04. Read the archived walkthrough of transcription, searchability and e-mail verification on 2026-11-18. | 1: documented transcription procedure |
+| S175 | Stephen P. Morse and Joel D. Weintraub, [Unified Census ED Finder](https://stevemorse.org/census/unified.html?year=1950) | help-page, reviewed, access: read. Read the 1950 finder form and linked index of tools on 2026-11-18. | 2: 1950 district finder |
+| S176 | Stephen P. Morse and Joel D. Weintraub, [Frequently Asked Questions about the 1950 census tools](https://stevemorse.org/census/faq1950.htm) | help-page, reviewed, access: read. Read the 1950 street, cross-street, rural-description and boundary instructions on 2026-11-18. | 2: city street coverage and historical boundaries |
+| S177 | Claire Kluskens, National Archives, [Overview of What’s on the 1950 Census](https://www.archives.gov/files/calendar/genealogy-series/2022-03-02-kluskens-presentation.pdf) | pdf, reviewed, access: read. Published 2022-03-02. Read the slides on Form P1 headings, Individual Census Reports and transient nights on 2026-11-18. | 6: Form P1 heading and transient enumeration |
+| S178 | National Archives, [1950 Census Dataset on the Amazon Web Services Registry of Open Data](https://www.archives.gov/developer/1950-census) | catalogue, reviewed, access: read. Read the coverage notes on the surviving population images and scattered Individual Census Reports on 2026-11-18. | 6: surviving individual reports |
+| S179 | U.S. Census Bureau, [The 1950 Censuses: Editing, Coding, and Tabulating](https://www2.census.gov/library/publications/decennial/1950/procedural-studies/study-02/00322994ch06.pdf) | pdf, reviewed, access: read. Read the section on clerks adding codes to the population schedule on 2026-11-18. | 6: post-enumeration coding |
+| S180 | Stephen P. Morse and Joel D. Weintraub, [Deciphering Miscellaneous 1950 Census Codes](https://stevemorse.org/census/mcodes1950.htm) | help-page, reviewed, access: read. Read the displayed column lookup coverage and the note on column H on 2026-11-18. | 6: miscellaneous census code lookup |
+| S181 | Stephen P. Morse and Joel D. Weintraub, [Deciphering 1950 Census Occupation](https://stevemorse.org/census/1950occupationcodes.html) | help-page, reviewed, access: read. Read the column C instructions and code input labels on 2026-11-18. | 6: occupation and industry code lookup |
+| S182 | MyHeritage Blog, [MyHeritage Adds 4.7 Million Historical Records in October 2023](https://blog.myheritage.com/2023/11/myheritage-adds-4-7-million-historical-records-in-october-2023/) | web-page, reviewed, access: read. Published 2023-11-08. Read the Oklahoma territorial census announcement on 2026-11-18. | 5: community Oklahoma territorial index announcement |
+| S183 | MyHeritage, [1890 Oklahoma Territorial Census](https://www.myheritage.com/research/collection-20692/1890-oklahoma-territorial-census) | catalogue, reviewed, access: read. Read the public collection description and search form on 2026-11-18. | 5: live Oklahoma territorial index description |
+| S184 | National Archives, [First Territorial Census for Oklahoma, 1890, microfilm publication M1811](https://www.archives.gov/files/research/microfilm/m1811.pdf) | pdf, reviewed, access: read. Published 1994. Read the microfilm introduction and list of schedule fields on 2026-11-18. | 5: original Oklahoma territorial schedule scope and microfilm |
+| S185 | MyHeritage Blog, [The Murdaugh Family: A History of Slave Ownership](https://blog.myheritage.com/2025/03/the-murdaugh-family-a-history-of-slave-ownership/) | web-page, reviewed, access: read. Published 2025-03-10. Read the slave schedule, property comparison and agricultural discussion on 2026-11-18. | 9, 10: community slave schedule, property and crop comparisons |
+| S186 | U.S. Census Bureau, [1850 Census Instructions to Marshals and Assistant Marshals of the United States](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1850/1850-instructions.html) | web-page, reviewed, access: read. Read the 1850 instructions for Schedules 2 and 4 on 2026-11-18. | 9, 10: 1850 slave and agricultural schedule instructions |
+| S187 | U.S. Census Bureau, [1860 Census Instructions to Enumerators](https://www2.census.gov/programs-surveys/decennial/technical-documentation/questionnaires/1860/1860-instructions.pdf) | pdf, reviewed, access: read. Read the 1860 instructions for population property fields, slave schedules and crop reporting on 2026-11-18. | 9, 10: 1860 property, slave and agricultural schedule instructions |
+| S188 | U.S. Census Bureau, [1870 Census questionnaire and instructions](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires.1870_Census.html) | web-page, reviewed, access: read. Read the Schedule 1 question list on 2026-11-18. | 9: 1870 population property questions |
+| S189 | U.S. Census Bureau, [Agricultural Schedules: 1850 to 1910](https://www2.census.gov/prod2/decennial/documents/41033898v5ch11.pdf) | pdf, reviewed, access: read. Read the historical summary of farm schedule coverage and region-specific crop questions on 2026-11-18. | 10: agricultural schedule coverage by form |
+| S190 | U.S. Census Bureau, [1950 Decennial Census Official Publications](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1950.html) | catalogue, reviewed, access: read. Read the index of published 1950 housing and agriculture reports on 2026-11-18. | 6, 10: published housing and agriculture aggregates |
 | H9 | [National Archives, *Prologue* (Fall 2008), the forgotten federal census of 1885](https://www.archives.gov/publications/prologue/2008/fall/1885-census.html) | 2008; read 2026-11-07 | 5: 1885 censuses |
 | H10 | [National Archives, descriptive pamphlets for M846 (New Mexico) and M845 (Florida)](https://www.archives.gov/files/research/census/nonpopulation/m846.pdf) | read 2026-11-07 | 5: 1885 censuses |
 | H11 | [State Historical Society of North Dakota, census records of the 1800s](https://web.archive.org/web/20260113231006/https://www.history.nd.gov/archives/gencensus1800.html) | Internet Archive capture of 2026-01-13 (the live page returned 404 on 2026-11-07); read 2026-11-07 | 5: 1885 censuses |
@@ -359,6 +380,38 @@ British America column. No Wisconsin schedule image was inspected, and whether e
 form had that column was not checked. Reading the nativity counts as household tallies, and
 assigning one to the head only when no one else can hold it, is Kinprove synthesis.
 
+### Notes on sources added 2026-11-18
+
+S170 supplies the community search and extraction advice. The National Archives' pages
+(S118 and S171) establish the scope of the free federal search and document the viewer.
+The other sites' pricing and access were outside this check. The published help and
+walkthrough (S173 and S174) establish the submission process and e-mail verification.
+No search with a person's details, live transcription, image download or One-Step
+form submission was performed. The ED Finder instructions (S175 and S176) support
+using streets and cross streets and comparing the period map locally.
+
+The original Form P1 instructions in S172 control when they differ from S170. The
+heading dates the start of a sheet. Items 20a–20c describe the same job. Item 32
+excludes the sampled family head's own income and item 38 applies to eligible
+ever-married women on the last sample line. For item 29, the reference to item
+11 in paragraph 225 conflicts with the question heading, which points to
+item 17. S177 documents the lodging procedures and S178 describes surviving scattered
+Individual Census Reports, so S170's claim that they are all unavailable is too
+broad. S179 documents how clerks coded the forms. The two One-Step lookup pages
+(S180 and S181) describe the supported code inputs; the miscellaneous page lacks
+a key for column H.
+
+S182 announces the Oklahoma territorial index and S183 confirms its public landing
+page and description. S184 describes the source schedules, including occasionally
+blank county headings. No indexed entry or original territorial schedule was read.
+
+S185 provides the comparison examples. The original instructions (S186 and S187)
+document schedule coverage and the counting and reporting rules. S188 and the
+rechecked S103 distinguish later population fields. S189 identifies changes in crop
+coverage by year and region. The comparisons use recorded counts, property values
+and crop intervals. The named family's figures, regional standing and inferred
+causes were outside this check.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
@@ -371,3 +424,6 @@ assigning one to the head only when no one else can hold it, is Kinprove synthes
 - Cari A. Taplin, Genealogy Pants, posts of 2025 and 2026 cited as S119 and S143; English Ancestors, 2024-06-28, cited as S147; Genealogy TV 2, Finding Tons of Land Records, 2024-10-20, cited as S129 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
 - Legacy Tree Genealogists, posts of 2019 and 2021 cited as S130 and S133; Geoff Rasmussen, Legacy Family Tree blog, 2019-03-11, cited as S125; David A. Fryxell, Family Tree Magazine, cited as S135; Christopher C. Child, Vita Brevis, 2020-09-23, cited as S146 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
 - Just Genealogy, Genealogy Skills Test #2 Answers, 2022-08-19, cited as S157; MyHeritage blog, collection announcements of 2024-12-02 and 2025-02-05, cited as S159 and S158; New Horizons Genealogical Services, Questions from each New Jersey State Census, cited as S163 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
+- Sunny Jane Morton, Family Tree Magazine, 1950 Census Research Guide, cited as S170 — Third-party content, all rights reserved by the rights holder. Short adapted paraphrase with attribution (adapted)
+- Stephen P. Morse and Joel D. Weintraub, One-Step census tool instructions, cited as S175, S176, S180 and S181 — Third-party content, all rights reserved by the rights holders. Short adapted paraphrase with attribution (adapted)
+- MyHeritage Blog, collection announcement and Murdaugh family case study, cited as S182 and S185 — Third-party content, all rights reserved by the rights holder. Short adapted paraphrase with attribution (adapted)

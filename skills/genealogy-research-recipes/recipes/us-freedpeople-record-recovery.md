@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 113}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 122}
 ---
 
 # Trace an African American ancestor across the 1870 boundary
@@ -82,6 +82,10 @@ Each section below blocks one of these mistakes.
 
 - **A free woman heading an 1850 or 1860 household.** When a free woman of color heads a household with a growing number of children and no husband listed, keep an enslaved husband as one hypothesis. The FamilyTreeDNA guide reports that marriages between free and enslaved people, not uncommon in the Upper South, could not be formalized, and that the free-born children of an enslaved father carried their free mother's maiden name [S59]. Enslaved people could not legally marry [S64], and a child's status followed the mother's: Virginia's 1662 act held children "bond or free only according to the condition of the mother" [S63]. Search the children under the mother's surname as well as under any surname a father used. Widowhood, separation and an unmarried mother fit the same household, so keep the enslaved-husband reading open until a record names him. The same guide reports that such couples often registered in the 1866 cohabitation registers described in §2 [S59].
 
+According to the Just Genealogy livestream excerpt, Dorothy Provine’s register abstracts are a starting point for free-status research in Alexandria County and Washington, DC [S99†]. Search the Alexandria County volume for 1797–1861 and the District of Columbia volumes for 1821–1861. When logging a miss for the District, account for the gap between the volume ending in 1846 and the one beginning in 1855 [S100], [S101].
+
+For Boston, look in the Overseers of the Poor’s almshouse records for entries that describe a person as enslaved or formerly enslaved. Record the status the entry states and leave it open when the entry gives only an admission [S94], [S96].
+
 Search period vocabulary as well as modern subject terms. In North Carolina material, the UNC Greensboro exhibit identifies terms such as absconding, truancy, eloping and running away. Combine the terms actually used by the local records with place and date; do not expect a contemporary heading to use a modern research label. [S73], [S74]
 
 ## 2. Look for a document that names the enslaver
@@ -114,9 +118,17 @@ Look for a record that names the enslaver before you guess one from a surname.
 
   The Library of Virginia reports no statewide index to the 1853–1896 death registers, only indexes that some county clerks made, so look for a county index or read the register [S68 @2026-11-12].
 
+Read the expense clauses in a sharecropping agreement alongside the promised fraction. Record which costs come out before division when the agreement specifies deductions, and leave the actual payout open until an accounting or receipt shows it [S89], [S92]. Check what labor the agreement assigns to each household member, including domestic work, even when only one person is named as the farmer [S89], [S92], [S93].
+
 - **Crop liens and chattel mortgages.** After 1865, search the county's recorded crop liens, chattel mortgages and trust deeds for a freedman who farmed as a sharecropper or tenant. A lien can place him on a named landlord's farm in a given year [S71]. In Tennessee, look in books titled Deeds of Trust or Trust Deeds; elsewhere the books are often titled Crop Liens [S71]. The FamilyTreeDNA guide reports that farmers who signed one lien together shared the risk and were typically a parent and an adult son or son-in-law, or siblings and brothers-in-law [S59]. Record a co-signer as a candidate relative until a record states the relationship.
 
   The same guide reports that most of FamilySearch's crop liens and chattel mortgages are not indexed but can be reached through Full Text Search [S59 @2026-11-12].
+
+Search American Ancestors’ 10 Million Names databases for people enslaved in what became the United States. Include the collections about free and freed people and their communities when tracing a person across emancipation [S94 @2026-11-18], [S95 @2026-11-18].
+
+For a promising 10 Million Names hit, check the collection description for a named contributor. Use the contributor’s own site for the historical context and related records. For example, the project credits the Newport Historical Society for its Newport database, and the society describes the primary sources it used [S94 @2026-11-18], [S97 @2026-11-18], [S98 @2026-11-18].
+
+For someone who escaped enslavement, search contemporary newspaper reward advertisements placed by enslavers, including issues from before 1850. Use terms such as “ran away” and “reward” with the person’s name or the place [S87], [S88].
 
 A flight advertisement records an enslaver seeking someone; it does not establish where that person went. Include southern towns, wilderness refuges and Native communities among routes to test rather than assuming every escape went north. Surviving reports often reflect discovery or suppression, so an undiscovered refuge can leave little official documentation; preserve the destination as unknown unless evidence identifies it. [S75], [S76], [S77]
 
@@ -137,6 +149,8 @@ For Confederate forced labour, inspect the RG 109 Confederate Quartermaster and 
   The Liberty County presenter estimates that only about 10% of formerly enslaved people there took their last enslaver's name. In the presenter's example, the adopted surname pointed to a much earlier enslaver of the family [S12]. Treat that figure as a local, attributed estimate, not a rule.
 
 - **Do not read "Mulatto" as a sign of an enslaver father.** The 1870 and 1880 enumerator instructions call the word generic: it includes quadroons, octoroons and all persons having "any perceptible trace of African blood" [S66], [S67]. The entry therefore says nothing about how recent the white ancestry was, and the FamilyTreeDNA guide warns that it does not imply the person was the child of an enslaver [S59]. Do not add a candidate enslaver to the register on the strength of the color entry.
+
+Date a slave-schedule association to the census year and leave earlier ownership open. In 1850, the instructions treated the person for whom the enslaved person was found working as the owner. The 1860 instructions called for identifying the actual proprietor and the employer separately when someone returned people owned by others. Extract those roles as written and verify ownership in a separate record [S89], [S90], [S91].
 
 ## 4. Follow the personal-property chain, not land
 
@@ -159,6 +173,8 @@ Enslaved people appear in records of the enslaver's personal property: sale noti
   - Also search under the plantation, overseer and executor names [S3], [S6].
   - AI transcripts can drop commas between names, so read the original image [S6].
   - Re-run the searches every week or two, because processed coverage keeps growing [S3].
+
+When a purchase names an estate as the seller, pull that estate’s probate file under the decedent’s name. Check its inventory and distributions for the person and any relatives named there. Follow the seller’s file even when a buyer purchased from an in-law’s estate [S84], [S85].
 
 - **Search heirs' chancery suits.** When an enslaver's heirs disputed who should inherit an enslaved person, look for the suit in the county court of equity (chancery) and, occasionally, on appeal to a state court [S59]. Such a suit can state relationships that the will and the distribution omit. In the FamilyTreeDNA guide's North Carolina Kee example, the heirs disputed a girl born after the will was written, and agreed that she was the daughter of a named woman [S59]. The Library of Virginia's archives blog reports Virginia chancery causes about dividing enslaved people as part of an estate, whose exhibits give names, ages and family relationships [S72]. To find and inventory the file, use [court case file recovery](court-case-file-recovery.md).
 
@@ -184,6 +200,8 @@ Rules for reading the register:
 
 - **Age words and values.** Use descriptors and appraised values to bracket an age, not to fix one. "Old" and "young", like "big" and "little", may only tell apart two people with the same name, and do not show that they were related [S59], [S69]. Read "boy" and "girl" by that appraiser's own usage, not as children under ten: one 1843 Maryland appraiser counted "boys" as 17 and under [S69]. Prices were highest for healthy young adult men, then for women of childbearing age, and low for young children and for old or infirm people [S70], [S69]. A low value can therefore mean a child or an old person, so compare values only within one document and beside their descriptors.
 
+In a plantation list with explicit mother–child groups, look for daughters listed elsewhere in the same record as mothers. Record each stated relationship on its own, and keep the link between the two entries tentative until their details agree [S84], [S86].
+
 Keep an honorific separate from a relationship. The Natchez Trace history describes aunt and uncle as respectful forms of address for older Black people. A person called Uncle in a narrative is therefore a candidate relative only when other evidence supplies the kinship; copy the wording without manufacturing a parent-sibling connection. [S80], [S81]
 
 For North Carolina emancipation research, search county court records and the State Archives’ Records of Enslaved People collection, PC.1629, alongside Quaker meeting papers. Read the collection guide’s provenance notes: it combines originals and copies, and some selected copies have uncertain provenance. Identify the actual document and originating county or collection before treating a finding-aid entry as a complete county search. [S82], [S83]
@@ -193,6 +211,8 @@ For North Carolina emancipation research, search county court records and the St
 - **Registers.** Search the separate colored register, the back of the register and the regular or white register. Clerks differed, and entries in a colored register may not state race [S5].
 - **Other separated series.** Check Black churches, separate obituary sections, separate cemeteries or sections, segregated military units and prison records [S4].
 - **Catholic registers.** Find out whether the diocese kept separate registers by race or one combined register. The S19 guest reports that, among the dioceses she has worked with, Baltimore alone puts enslaved and free Black people in the regular sacramental registers. She says status such as "free black" appears in the margin and entries sometimes name the owner [S19]. Record margin status and owner as separate observations.
+
+Search for both Black and white names in Byrd and Smith’s North Carolina county volumes. According to the Just Genealogy livestream excerpt, names of white people appear in these sources too [S99†]. The Mecklenburg, Gaston and Union volume has a full name index and a table of civil and criminal cases [S102].
 
 Keep a coverage log of every series checked.
 

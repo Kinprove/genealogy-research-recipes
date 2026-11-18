@@ -477,6 +477,11 @@ H136, H137, H139, H141, H143, H144 and H146 are posts on the Dzen channel «Ис
 - **H147:** Государственная публичная историческая библиотека, [«Именной список потерь на фронтах в личном составе рабоче-крестьянской Красной армии за время гражданской войны. - [М.], 1926»](http://elib.shpl.ru/ru/nodes/5061-imennoy-spisok-poter-na-frontah-v-lichnom-sostave-raboche-krestyanskoy-krasnoy-armii-za-vremya-grazhdanskoy-voyny-m-1926) (http only: no https response), electronic library record, read 2026-11-16. Used for: the bibliographic description (ГУРККА, 1926, 635 pages), the collection of genealogical and biographical reference books, and the page-by-page scan. The https address redirected to http that day.
 - **H148:** Российская газета, [«Течет река "Бессмертного полка". В России проходит онлайн-шествие народной памяти»](https://rg.ru/2026/05/09/v-rossii-idet-onlajn-shestvie-bessmertnogo-polka.html), 9 May 2026, read 2026-11-16. Used for: contacting the relatives of a soldier or the descendants of fellow soldiers through the movement's site to find documents or photos that others hold.
 
+### Sources added 2026-11-18
+
+- **H149:** Roi Mandel, MyHeritage Blog, [Holocaust Survivor, 92, Finally Learns Brother’s Fate Thanks to MyHeritage](https://blog.myheritage.com/2023/09/holocaust-survivor-92-finally-learns-brothers-fate-thanks-to-myheritage-dna/), community account published 2023-09-21, read 2026-11-18. The post reports a family assumption that a missing relative died in the destruction of his hometown and an archival search that placed him in a field hospital in another town, where it says he later died and was buried. Used to motivate the hospital search. The post gives no original military record or archival locator for the case.
+- **H150:** Russian Ministry of Defence, OBD Memorial, [Поиск (Search help)](https://obd-memorial.ru/memorial/help_ru.htm), read 2026-11-18. Used for the separately selectable hospital and medical-battalion documents and named burial lists in advanced search.
+
 ## Credits
 
 - Vera Miller, Lost Russian & Ukrainian Family, posts of 2023-03-04 to 2026-07-18, cited as H78–H80, H83, H86, H88, H91, H92, H94 and H97 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
@@ -486,3 +491,4 @@ H136, H137, H139, H141, H143, H144 and H146 are posts on the Dzen channel «Ис
 - СВРТ, Нумизмат, the Russian State Library catalogue, «Дорога памяти», Arolsen Archives, ProQuest and Е. Васильева pages, cited as H119–H121, H123, H126 and H128–H132 — Copyright of their publishers; paraphrase (adapted)
 - Posts on the Dzen channel «История одной семьи. Юлия Новожилова», cited as H136, H137, H139, H141, H143, H144 and H146 — Copyright of their author; short quotation and paraphrase (adapted)
 - E1.RU, Новая газета, Википедия, Familio, the State Public Historical Library's record and Российская газета, cited as H138, H140, H142, H145, H147 and H148 — Copyright of their publishers; Wikipedia text CC BY-SA; short quotation and paraphrase (adapted)
+- Roi Mandel, MyHeritage Blog, cited as H149, and OBD Memorial help, cited as H150 — Sources paraphrased with attribution (adapted)

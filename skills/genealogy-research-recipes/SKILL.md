@@ -231,6 +231,9 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/gedcom-research-export.md` — Export research findings to a GEDCOM file, or bring a supplied one into research, without changing what they prove.
 - `recipes/descendancy-gap-worklist.md` — Turn "research the descendants" into a ranked list of gaps tied to the records each lifespan crosses.
 - `recipes/genealogical-numbering-systems.md` — Decode Ahnentafel, Henry, Register and NGSQ numbers when extracting people and relationships from a pedigree chart, descendancy list or compiled genealogy.
+- `recipes/ancestry-pro-tools-tree-worklists.md` — Build place or tag worklists, audit Tree Checker flags, and review the scope of Ancestry Pro Tools maps and charts.
+- `recipes/cousin-relationship-paths.md` — Calculate cousin degree and removal, and distinguish double or half cousin paths when pedigrees intersect more than once.
+- `recipes/myheritage-profile-hint-extraction.md` — Review the evidence behind a MyHeritage Hint, compare conflicting values and save only the supported facts or relationships.
 
 ## Recipes: DNA
 
@@ -250,6 +253,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/gedmatch-practical-dna-workflows.md` — Work reproducibly in GEDmatch: kit baselines, one-to-one checks, segment search, tag groups, triangulation, phasing and Lazarus kits.
 - `recipes/myheritage-dna-match-investigation.md` — Investigate MyHeritage DNA matches: the right kit, filtered shortlists, shared-match values, triangulation and Theory of Family Relativity.
 - `recipes/dnapainter-practical-dna-workflows.md` — Use DNA Painter to map segments, combine phased maps, estimate missing intervals, plan tests and check shared-cM ranges.
+- `recipes/myheritage-kit-processing-and-downloads.md` — Identify how MyHeritage processed a kit, distinguish its raw autosomal file from CRAM, and check options for a legacy result.
 
 ### Ethnicity, admixture and match outreach
 
@@ -267,6 +271,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/myheritage-historical-record-search.md` — Recover MyHeritage historical records hidden by collection coverage, search fields, name variants, languages or OCR.
 - `recipes/newspapers-com-search-recovery.md` — Find notices on Newspapers.com that name searches miss, after checking which titles and issues are actually covered.
 - `recipes/geni-practical-research-workflows.md` — Use Geni for name variants, relationship paths, citations, projects, merge decisions, tree conflicts and GEDCOM exports.
+- `recipes/find-a-grave-memorial-corrections.md` — Send evidence-backed Find a Grave corrections and route management requests to the right recipient.
 
 ### Books, periodicals and manuscripts
 
@@ -274,6 +279,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/periodical-index-search-retrieval.md` — Search a genealogical periodical index such as PERSI and retrieve the article.
 - `recipes/manuscript-collection-recovery.md` — Find personal, family and organisational papers that may mention an ancestor, including ledgers, daybooks and claim folders.
 - `recipes/local-repository-uncatalogued-holdings.md` — Ask a local library, society or archive about its uncatalogued holdings after its catalogue returns nothing.
+- `recipes/historical-newspaper-section-search.md` — Choose historical newspaper sections for social ties, business activity, missing immigrants, and out-of-town deaths.
+- `recipes/olympic-participation-records.md` — Check Olympic results and trials, then route Olympic publications and archival files to the right finding aid.
 
 ### Places and maps
 
@@ -320,6 +327,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/rabbinic-literature-person-search.md` — Find and interpret passages about a Jewish ancestor, rabbinic office or claimed lineage in rabbinic and Hasidic books.
 - `recipes/holocaust-testimony-source-interpretation.md` — Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement dates.
 - `recipes/israel-immigration-list-research.md` — Search MyHeritage's Israel immigration lists and decide whether an arrival entry for Mandatory Palestine or Israel records an immigrant, a returning resident or a tourist.
+- `recipes/lithuanian-jewish-household-registers.md` — Use LitvakSIG and MyHeritage household registers to trace dated residence and distinguish missing records from unindexed coverage.
 
 ### Ukrainian archives
 
@@ -335,6 +343,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/nazi-era-ancestry-proof-records.md` — Find and read a Nazi-era Ahnenpass or certified ancestry proof, and route the search by the role that required it.
 - `recipes/german-official-gazette-notice-search.md` — Read German gazette personnel, expulsion and expatriation notices as dated acts by a named authority.
 - `recipes/german-compensation-file-recovery.md` — Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it.
+- `recipes/old-german-handwriting-comparison.md` — Compare a disputed Old German word with script samples, generated candidate forms and examples in the same hand.
 
 ### Britain and Ireland
 
@@ -377,6 +386,11 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/quaker-meeting-record-recovery.md` — Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both removal-certificate series.
 - `recipes/us-tribal-enrollment-record-recovery.md` — Find a claimed Native American ancestor on the right tribal roll and read what enrollment, rejection or absence proves.
 - `recipes/us-freedpeople-record-recovery.md` — Trace an African American family back across the 1870 boundary.
+- `recipes/ark-and-dove-passenger-reconstruction.md` — Use the Ark and Dove compilation and original Maryland records to distinguish a voyage claim from early settlement or descent.
+- `recipes/enslavement-record-disclosure.md` — Make privately held records of enslaved people discoverable through source-cited extracts, archival deposits and documented tree links.
+- `recipes/mayflower-and-great-migration-genealogies.md` — Choose a passenger branch or an immigrant arrival series, then test the claimed line against the correct child lists.
+- `recipes/new-york-city-vital-certificate-extraction.md` — Recover both New York City marriage filings in 1908–1937 and extract birthplace and sibling clues from historical birth certificates.
+- `recipes/pennsylvania-marriage-licenses-and-returns.md` — Recover Pennsylvania county marriage packets from 1885 and compare them with early state copies and older marriage bonds.
 
 ### United States: military, land, courts and law
 
@@ -395,6 +409,10 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/criminal-court-prison-record-recovery.md` — Trace a U.S., English, Welsh or Swedish arrest or imprisonment to its court, prison and pardon records; a state or local court's case file belongs to court case-file recovery.
 - `recipes/state-legislative-private-act-petitions.md` — Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and its petition.
 - `recipes/us-period-law-record-reading.md` — Read a U.S. record's legal terms, courts, bonds, age and inheritance rules under the law of its place and date.
+- `recipes/confederate-hospital-record-recovery.md` — Route a Confederate treatment clue to the hospital’s patient registers, case books and separate wartime papers.
+- `recipes/southern-claims-commission-case-files.md` — Route a Southern Claims Commission claimant to the correct case file and use witness testimony to reconstruct wartime events.
+- `recipes/us-army-civil-war-court-martial-files.md` — Follow a general court-martial notation from a Civil War service card to the index and its Army case papers.
+- `recipes/world-war-two-us-navy-battle-records.md` — Correlate wartime U.S. Navy muster and deck records with an action report before attributing participation to a sailor.
 
 ### Canada, Latin America, Asia and Oceania
 
@@ -406,6 +424,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/australia-nz-record-routing.md` — Route an Australian or New Zealand vital, electoral, arrival, Māori Land Court or Aboriginal agency record to its holder and date window.
 - `recipes/chinese-lineage-jiapu-records.md` — Recover a Chinese emigrant's character-written name and ancestral village before searching lineage genealogies (jiapu).
 - `recipes/japanese-koseki-honseki-recovery.md` — Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family register (koseki).
+- `recipes/philippine-surnames-and-registers.md` — Use parish and civil records to trace a Philippine family through surname adoption or continuity across 1849.
+- `recipes/samoan-matai-and-gafa-research.md` — Follow Samoan chiefly titles and village clues from diaspora records into customary land, church and family sources.
 
 ## Recipes: Record types in any country
 
@@ -438,6 +458,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/family-papers-and-bible-register-dating.md` — Separate writing, mailing and event dates in letters, envelopes, address books, family Bible registers and inscribed books.
 - `recipes/family-interviews-and-oral-tradition.md` — Record a relative's interview, a supplied recording or an inherited story with its speaker, prompter and chain of transmission.
 - `recipes/repository-photograph-collection-search.md` — Search repository photograph collections for an ancestor, home, shop or community by place and subject.
+- `recipes/family-archives-material-storage.md` — Choose protective enclosures for fragile family originals while preserving the evidence that links loose items to their original homes.
 
 <!-- recipe-catalog:end -->
 
