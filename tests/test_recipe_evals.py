@@ -36,7 +36,8 @@ class StaticEvaluationTests(unittest.TestCase):
         required = {"cm-relationship", "gedmatch-upload", "match-outreach", "match-outreach-helper",
                     "wato-ranking", "ystr-distance", "memorial-proof", "photo-attribution",
                     "family-interview", "gedcom-ancestry", "parentage-proof", "russia-origin",
-                    "deportation-1944", "unreadable-village"}
+                    "deportation-1944", "unreadable-village", "gate-record-reuse",
+                    "gate-record-new-destination"}
         self.assertLessEqual(required, {case["id"] for case in load_cases()})
         self.assertGreater(report["recipes"], 100)
         self.assertGreaterEqual(report["guardrails"], 20)

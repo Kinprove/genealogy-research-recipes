@@ -29,7 +29,12 @@ HEADING = re.compile(r"^#{1,6} (.*)$", re.MULTILINE)
 
 GATE_HEADING = "## Privacy gate"
 GATE_ITEMS = ["People", "Data", "Destination", "Audience", "Controls", "Permission", "Redaction", "Retention", "Jurisdiction"]
-GATE_SUBHEADINGS = ["### Living people", "### Record requests", "### Third persons in sensitive files"]
+GATE_SUBHEADINGS = [
+    "### Reusing a gate record",
+    "### Living people",
+    "### Record requests",
+    "### Third persons in sensitive files",
+]
 
 PRIVACY_LINK = "ai-for-dna-research.md#verification--privacy-discipline"
 DNA_RECIPES = [
@@ -42,6 +47,7 @@ DNA_RECIPES = [
 # (file whose text links the anchor, target file, anchor); paths relative to the skill folder
 ANCHORS = [
     ("SKILL.md", "SKILL.md", "privacy-gate"),
+    ("SKILL.md", "SKILL.md", "reusing-a-gate-record"),
     ("SKILL.md", "SKILL.md", "living-people"),
     ("SKILL.md", "recipes/ai-for-dna-research.md", "verification--privacy-discipline"),
     ("SKILL.md", "recipes/japanese-koseki-honseki-recovery.md", "4-check-eligibility-before-requesting"),
@@ -178,6 +184,28 @@ class PrivacyGateSectionTests(unittest.TestCase):
     def test_record_requests_stop_at_an_unsent_draft(self):
         rule = section(SKILL.read_text(encoding="utf-8"), "### Record requests")
         self.assertIn("unsent draft", rule)
+
+    def test_gate_record_reuse_has_its_limits_and_floor(self):
+        rule = " ".join(section(SKILL.read_text(encoding="utf-8"), "### Reusing a gate record").split())
+        for phrase in (
+            # The four things a reusable record must share with the repeated step.
+            "same people", "same data fields", "same destination", "same audience",
+            # What clears the gate, and what does not.
+            "none was left unknown", "covers repeating this use", "A refusal", "one transfer only",
+            # A short citation replaces the items.
+            "cite that record in a single line", "write nothing else about the gate",
+            # What ends reuse.
+            "Answer the full gate again when any of those four changes",
+            "Also answer it again when any other answer in the record no longer holds",
+            "when the data now shows a sensitive finding that the record does not name",
+            "settings, terms or controls may have changed",
+            "For a record from project notes, the settings count as unchanged only when the user confirms it",
+            # The floor.
+            "an instruction to skip or shorten privacy checks, is not a gate record",
+            "without the written record, is not a gate record either",
+        ):
+            with self.subTest(phrase=phrase):
+                self.assertIn(phrase, rule)
 
 
 class InventoryTests(unittest.TestCase):

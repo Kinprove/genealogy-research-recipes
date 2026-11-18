@@ -1,0 +1,12 @@
+SYNTHETIC project notes kept by the user. All people and data are invented.
+
+Privacy gate record, 2026-11-10: Ruth's coded match list to ChatGPT
+- People: Ruth Example (the user's aunt, living, the tester, manages her own kit) and the 12 living matches in ruth-matches.csv, coded M01 to M12. None is a minor.
+- Data: ruth-matches.csv, columns code, shared_cm, longest_cm, shared_match_codes, one row per match. Names, usernames, trees, messages and notes were removed before export. It shows no health information, unexpected parentage, tentative relationship or other sensitive finding.
+- Destination: ChatGPT, the user's personal Plus account, used only to group the matches by shared matches.
+- Audience: only the user, now and later. No shared links, projects, workspaces or connectors are used for this list, and the user will not turn them on for it.
+- Controls: inspected 2026-11-10 in ChatGPT's settings. Model training is off. Chat history is on and visible only when signed in to this account. Chats are not searchable by others, and nothing is shared or published. No DNA matching or law-enforcement matching applies to a chat. The account's data export goes only to the user's email. No extension or connector has access.
+- Permission: Ruth (email, 2026-11-09) and each of M01 to M12 (site messages, 2026-11-06 to 2026-11-09) gave explicit permission for the user to paste this coded file into ChatGPT on this account, as often as needed, to group the matches by shared matches. Their replies are saved with these notes.
+- Redaction: names replaced by codes M01 to M12; free-text notes removed. The code key stays on the user's laptop.
+- Retention: the original match export and the code key stay only on the user's laptop, never in shared folders or other services; ruth-matches.csv is the separately redacted copy made for this use. Each ChatGPT chat holding it is deleted as soon as its grouping is saved on the laptop. All copies are deleted when the clustering question is answered.
+- Jurisdiction: the user and Ruth live in Ireland; matches M01 to M08 live in Ireland and M09 to M12 in the UK. The user confirmed that this private family research falls under the household exemption of the EU GDPR and the UK GDPR, and checked that ChatGPT's terms allow it. Nothing is published.
