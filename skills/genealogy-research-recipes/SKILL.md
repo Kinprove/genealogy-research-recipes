@@ -194,9 +194,9 @@ name, or when the destination's settings, terms or controls may have changed sin
 inspection. For a record from project notes, the settings count as unchanged only when the user
 confirms it; ask in one line unless the user already said so.
 
-A project convention, or a general instruction to skip or shorten privacy checks, is not a gate
-record: it holds no living person's permission. Neither is a statement that the gate was
-answered before, without the written record.
+A project convention, or an instruction to skip or shorten privacy checks, is not a gate record:
+it is not permission from anyone else who may be living. Neither is a statement that the gate
+was answered before, without the written record.
 
 ### Living people
 
