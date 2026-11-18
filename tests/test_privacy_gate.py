@@ -29,7 +29,12 @@ HEADING = re.compile(r"^#{1,6} (.*)$", re.MULTILINE)
 
 GATE_HEADING = "## Privacy gate"
 GATE_ITEMS = ["People", "Data", "Destination", "Audience", "Controls", "Permission", "Redaction", "Retention", "Jurisdiction"]
-GATE_SUBHEADINGS = ["### Living people", "### Record requests", "### Third persons in sensitive files"]
+GATE_SUBHEADINGS = [
+    "### Reusing a gate record",
+    "### Living people",
+    "### Record requests",
+    "### Third persons in sensitive files",
+]
 
 PRIVACY_LINK = "ai-for-dna-research.md#verification--privacy-discipline"
 DNA_RECIPES = [
@@ -42,6 +47,7 @@ DNA_RECIPES = [
 # (file whose text links the anchor, target file, anchor); paths relative to the skill folder
 ANCHORS = [
     ("SKILL.md", "SKILL.md", "privacy-gate"),
+    ("SKILL.md", "SKILL.md", "reusing-a-gate-record"),
     ("SKILL.md", "SKILL.md", "living-people"),
     ("SKILL.md", "recipes/ai-for-dna-research.md", "verification--privacy-discipline"),
     ("SKILL.md", "recipes/japanese-koseki-honseki-recovery.md", "4-check-eligibility-before-requesting"),
@@ -178,6 +184,22 @@ class PrivacyGateSectionTests(unittest.TestCase):
     def test_record_requests_stop_at_an_unsent_draft(self):
         rule = section(SKILL.read_text(encoding="utf-8"), "### Record requests")
         self.assertIn("unsent draft", rule)
+
+    def test_gate_record_reuse_has_its_limits_and_floor(self):
+        rule = " ".join(section(SKILL.read_text(encoding="utf-8"), "### Reusing a gate record").split())
+        for phrase in (
+            # The four things a reusable record must share with the repeated step.
+            "same people", "same data fields", "same destination", "same audience",
+            # What clears the gate, and what does not.
+            "none was left unknown", "covers repeating this use", "A refusal", "one transfer only",
+            # What ends reuse.
+            "any other answer in the record no longer holds", "sensitive finding",
+            "settings, terms or controls",
+            # The floor.
+            "not a gate record",
+        ):
+            with self.subTest(phrase=phrase):
+                self.assertIn(phrase, rule)
 
 
 class InventoryTests(unittest.TestCase):

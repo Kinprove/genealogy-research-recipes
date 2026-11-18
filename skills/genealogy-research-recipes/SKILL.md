@@ -130,7 +130,9 @@ that a genealogical inference is correct.
 ## Privacy gate
 
 Answer these items in writing, in your reply, before the step runs. If any answer is
-unknown, do not move the data: keep it local and tell the user what is missing.
+unknown, do not move the data: keep it local and tell the user what is missing. A step that
+repeats an earlier one can cite a written record instead; see
+[Reusing a gate record](#reusing-a-gate-record).
 
 - **People.** Name everyone whose data is involved. Treat anyone who may be living as
   living. A minor's data needs a parent's or guardian's permission.
@@ -173,6 +175,28 @@ unknown, do not move the data: keep it local and tell the user what is missing.
 
 For DNA data, also apply the consent and redaction rules in
 [AI for DNA research](recipes/ai-for-dna-research.md#verification--privacy-discipline).
+
+### Reusing a gate record
+
+When an earlier reply in this conversation, or a dated record in the user's project notes,
+cleared the gate for the same people, the same data fields, the same destination and the same
+audience, do not answer the items again. Cleared means every item was answered, none was left
+unknown, and any permission the Permission item requires covers repeating this use at this
+destination. Cite that record in one line instead: say where it is, give its date and say that
+those four are unchanged. A refusal, a missing answer, or a permission given for one transfer
+only does not clear the gate.
+
+Answer the full gate again when any of those four changes, for example a new match in the
+list, an added column, another service, account or workspace, or a wider audience. Also answer
+it again when any other answer in the record no longer holds (for example, someone named in it
+moved to another country), when the data now shows a sensitive finding that the record does not
+name, or when the destination's settings, terms or controls may have changed since the recorded
+inspection. For a record from project notes, the settings count as unchanged only when the user
+confirms it; ask in one line unless the user already said so.
+
+A project convention, or a general instruction to skip or shorten privacy checks, is not a gate
+record: it holds no living person's permission. Neither is a statement that the gate was
+answered before, without the written record.
 
 ### Living people
 
