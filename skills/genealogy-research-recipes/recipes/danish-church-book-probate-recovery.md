@@ -4,13 +4,13 @@ title: "Reconstruct a Danish household from church books and probate"
 summary: "Find a Danish ancestor's church-book entries, civil marriage and probate by choosing the register copy, South Jutland civil register and probate authority that apply to the date."
 kind: "records"
 scope: {"platforms": [], "tasks": ["kirkebøger, kontraministerialbog, skifteprotokol, dødsanmeldelsesprotokol, borgerlig vielse and personregister searches"]}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "DANISH-CHURCH-BOOK-PROBATE-RECOVERY-01", "text": "Choose the probate authority from the deceased's status and the date of death, not from the parish alone."}, {"id": "DANISH-CHURCH-BOOK-PROBATE-RECOVERY-02", "text": "When an entry is missing, damaged or unreadable in one copy, read the same event in the other copy."}, {"id": "DANISH-CHURCH-BOOK-PROBATE-RECOVERY-03", "text": "For a South Jutland birth, marriage or death in 1874–1925, search the personregister first, then the church book."}]
 handoff: ["scandinavian-patronymic-farm-name-record-recovery", "evidence-proof-judgment"]
 checked: "2026-11-18"
 checked_basis: "Read 2026-11-18"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 111}
 ---
 
@@ -53,6 +53,8 @@ Outside South Jutland, before about 1814 a parish kept one book, the enesteminis
 Outside South Jutland, a rescript of 11 December 1812 brought preprinted forms from about 1814 and two copies of each book: the hovedministerialbog, kept by the priest, and the kontraministerialbog, kept by the parish clerk (degn); the two were to be stored under separate roofs against loss by fire. [S1] Rigsarkivet's leaflet on nineteenth-century church books dates the forms and the two sets from about 1812, names the schoolteacher or the parish clerk as the second writer, and says the two copies were meant to hold the same information. [S2] From about 1814 the entries run by event type in the order born, confirmed, married, arrivals, departures and dead, and births, confirmations and deaths list males before females. [S1]
 
 When an entry is missing, damaged or unreadable in one copy, read the same event in the other copy. Cite the copy you used. If the copies differ, record both readings.
+
+**Privacy gate:** <!-- privacy-gate: request --> A church book from 1961 on can name people who may be living; unless the entry concerns only people known to be dead, answer the privacy gate in `SKILL.md` before you order it for the reading room.
 
 Rigsarkivet holds church books from the whole country from the 1600s to about 2000. Its guide sends you to the scans on Arkivalieronline, by parish, for the single books before about 1814 and for both copies from about 1814 to 1960. From 1961 it routes you to the kontraministerialbog through Søg i Samlingerne: death lists up to 1969 may be scanned there, and the rest is ordered for the reading room. [S1 @2026-11-18]
 
@@ -97,6 +99,8 @@ Route each South Jutland search by event and date:
 - **Probates after 1920:** the guide's South Jutland rules stop at 1920, so use the general probate routes. [S5 @2026-11-18]
 - **Soldiers, officers and their families in South Jutland before 1864:** also check the army rule in the probate section; the Schleswig and Holstein regiments stayed with their auditors until 1864. [S7 @2026-11-18]
 
+**Privacy gate:** <!-- privacy-gate: request --> A South Jutland register or church book from 1960/61 on can name people who may be living; unless the entry concerns only people known to be dead, answer the privacy gate in `SKILL.md` before you order it for the reading room.
+
 Before 1874 the parish's hovedministerialbog or kontraministerialbog is scanned on Arkivalieronline. The personregistre are scanned on Arkivalieronline by registration district, which is roughly the parish, up to 1960/61, and the 1926–1960/61 church books are scanned as kontraministerialbøger. For 1960/61–1973, deaths are online up to about 1970, and the rest is ordered through Søg i Samlingerne for the reading room in Aabenraa. Rigsarkivet's guide gives separate routes from 1974. [S4 @2026-11-18]
 
 Private probate was easier to arrange in Schleswig, so fewer probates survive than elsewhere in Denmark. Rigsarkivet's index to South Jutland probates up to 1920 is the Register over sønderjyske skifter op til 1920 in DDD; the guide says all probates are entered there with the series and the protocol page. [S5 @2026-11-18] If the register gives no authority for a probate from 1864–1866, treat its route as unresolved rather than following another period's route.
@@ -119,6 +123,8 @@ Until 1851 the deceased's status decided which authority held the probate. [S5]
 From 1851 to 1919 ordinary probates went to the byfoged, herredsfoged or birk, and private (executor) probates were filed with the amt once settled. [S5 @2026-11-18]
 
 For an ordinary probate before 1919, open the name register to the probate protocol first where one exists; it gives the protocol page. If the probate is not in the protocol, search the death register (dødsanmeldelsesprotokol), kept from about 1820. It records deaths with nothing to divide, surviving spouses who kept the estate undivided (uskiftet bo) and private probates. For a known private probate, go to the amt's series for probates or executors; some amter kept registers of their private probates. Most of this material is scanned on Arkivalieronline and reached through Søg i Samlingerne; the rest is ordered for the reading room. [S5 @2026-11-18]
+
+**Privacy gate:** <!-- privacy-gate: request --> A probate from 1919 on can name heirs who may be living; unless it concerns only people known to be dead, answer the privacy gate in `SKILL.md` before you order it for the reading room.
 
 From 1919 each court district's probate court (skifteret) handled probates. Start from the register to the case list where one exists; otherwise take the case number from the death register or the case list (skiftesagliste), then open the case documents, which are filed by that number. Executor estates were filed with the amt until about 1933 and with the probate court afterwards. Most of this material is ordered for the reading room, and Søg i Samlingerne links any scanned part. Probate records are closed for 75 years. [S5 @2026-11-18]
 

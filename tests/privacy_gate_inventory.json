@@ -648,6 +648,24 @@
   "checkpoint": "A name search on a trial-report,"
  },
  {
+  "recipe": "danish-church-book-probate-recovery.md",
+  "kind": "request",
+  "action": "death lists up to 1969 may be scanned there, and the rest is ordered for the reading room",
+  "checkpoint": "A church book from 1961 on can name people who may be living"
+ },
+ {
+  "recipe": "danish-church-book-probate-recovery.md",
+  "kind": "request",
+  "action": "and the rest is ordered through Søg i Samlingerne for the reading room in Aabenraa",
+  "checkpoint": "A South Jutland register or church book from 1960/61 on"
+ },
+ {
+  "recipe": "danish-church-book-probate-recovery.md",
+  "kind": "request",
+  "action": "Most of this material is ordered for the reading room, and Søg i Samlingerne links any scanned part",
+  "checkpoint": "A probate from 1919 on can name heirs who may be living"
+ },
+ {
   "recipe": "descendancy-gap-worklist.md",
   "kind": "export",
   "action": "For exporting the corrected tree as GEDCOM, see [Export research findings to a GEDCOM file",
