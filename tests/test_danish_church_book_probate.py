@@ -26,6 +26,14 @@ def blocks() -> list[str]:
     return result
 
 
+def section(heading: str) -> str:
+    """Return the whitespace-folded text from a level-2 heading up to the next one."""
+    text = RECIPE.read_text(encoding="utf-8")
+    begin = text.index(f"\n## {heading}\n")
+    end = text.find("\n## ", begin + 1)
+    return " ".join(text[begin : end if end != -1 else len(text)].split())
+
+
 def passage(start: str) -> str:
     """Return the single block or list item that begins with start."""
     found = [block for block in blocks() if block.startswith(start)]
@@ -83,8 +91,8 @@ class SouthJutlandTests(unittest.TestCase):
                       "first, then the church book.", text)
 
     def test_church_book_section_excludes_south_jutland(self):
-        self.assertIn("This section covers Denmark outside South Jutland.",
-                      passage("This section covers Denmark outside South Jutland."))
+        self.assertTrue(section("Read the church book for the period").startswith(
+            "## Read the church book for the period This section covers Denmark outside South Jutland."))
 
     def test_church_weddings_return_in_1926(self):
         text = passage("From 1926 priests again married couples")
@@ -117,6 +125,20 @@ class ProbateTests(unittest.TestCase):
         text = passage("- **Soldiers, officers and their families before 1864:**")
         self.assertIn("each regiment's auditor.", text)
         self.assertIn("units elsewhere to the civil courts in 1805", text)
+
+    def test_south_jutland_probate_before_1864(self):
+        text = passage("For South Jutland probate before 1864")
+        self.assertIn("names the herredsfoged or birkefoged in the countryside and the byfoged in towns", text)
+        self.assertIn("for 1867–1920 the archives of the Prussian district courts (amtsretter)", text)
+
+    def test_probate_section_sends_south_jutland_back(self):
+        self.assertTrue(section("Route a probate by status and date").startswith(
+            "## Route a probate by status and date For a probate in South Jutland, use the routes in its "
+            "section above, not the ones below."))
+
+    def test_ordinary_and_executor_probates_1851_to_1919(self):
+        self.assertIn("ordinary probates went to the byfoged, herredsfoged or birk, and private (executor) probates "
+                      "were filed with the amt once settled.", passage("From 1851 to 1919 ordinary probates"))
 
     def test_executor_estates_after_1919(self):
         text = passage("From 1919 each court district's probate court (skifteret) handled probates.")
