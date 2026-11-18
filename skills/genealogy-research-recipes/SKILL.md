@@ -130,9 +130,9 @@ that a genealogical inference is correct.
 ## Privacy gate
 
 Answer these items in writing, in your reply, before the step runs. If any answer is
-unknown, do not move the data: keep it local and tell the user what is missing. A step that
-repeats an earlier one can cite a written record instead; see
-[Reusing a gate record](#reusing-a-gate-record).
+unknown, do not move the data: keep it local and tell the user what is missing. When a step
+repeats an earlier one whose gate was cleared, cite that written record instead of answering
+the items again; see [Reusing a gate record](#reusing-a-gate-record).
 
 - **People.** Name everyone whose data is involved. Treat anyone who may be living as
   living. A minor's data needs a parent's or guardian's permission.
@@ -180,12 +180,13 @@ For DNA data, also apply the consent and redaction rules in
 
 When an earlier reply in this conversation, or a dated record in the user's project notes,
 cleared the gate for the same people, the same data fields, the same destination and the same
-audience, do not answer the items again. Cleared means every item was answered, none was left
-unknown, and any permission the Permission item requires covers repeating this use at this
-destination. Instead, cite that record in a single line that names it and says those four are
-unchanged, without restating its answers, for example: "Privacy gate: covered by the 2026-11-10
-record in your project notes; same people, data fields, destination and audience." Name an
-undated earlier reply by its place in the conversation. A refusal, a missing answer, or a
+audience, do not answer the items again. Instead, cite that record in a single line that names
+it and says those four are unchanged, for example: "Privacy gate: covered by your project-notes
+record of [date]; same people, data fields, destination and audience." Name an undated earlier
+reply by its place in the conversation. Check the conditions in this section without reporting
+them, and write nothing else about the gate: no restated answers, permissions or settings checks.
+Cleared means every item was answered, none was left unknown, and any permission the Permission
+item requires covers repeating this use at this destination. A refusal, a missing answer, or a
 permission given for one transfer only does not clear the gate.
 
 Answer the full gate again when any of those four changes, for example a new match in the
@@ -197,8 +198,8 @@ inspection. For a record from project notes, the settings count as unchanged onl
 confirms it; ask in one line unless the user already said so.
 
 A project convention, or an instruction to skip or shorten privacy checks, is not a gate record:
-it is not permission from anyone else who may be living. Neither is a statement that the gate
-was answered before, without the written record.
+it is not permission from anyone else who may be living. A statement that the gate was answered
+before, without the written record, is not a gate record either.
 
 ### Living people
 

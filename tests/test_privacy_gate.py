@@ -193,7 +193,7 @@ class PrivacyGateSectionTests(unittest.TestCase):
             # What clears the gate, and what does not.
             "none was left unknown", "covers repeating this use", "A refusal", "one transfer only",
             # A short citation replaces the items.
-            "cite that record in a single line", "without restating its answers",
+            "cite that record in a single line", "write nothing else about the gate",
             # What ends reuse.
             "Answer the full gate again when any of those four changes",
             "Also answer it again when any other answer in the record no longer holds",
