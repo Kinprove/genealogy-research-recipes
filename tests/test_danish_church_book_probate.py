@@ -133,8 +133,13 @@ class ProbateTests(unittest.TestCase):
 
     def test_probate_section_sends_south_jutland_back(self):
         self.assertTrue(section("Route a probate by status and date").startswith(
-            "## Route a probate by status and date For a probate in South Jutland, use the routes in its "
-            "section above, not the ones below."))
+            "## Route a probate by status and date For an ordinary probate in South Jutland before 1920, use "
+            "the routes in its section above instead of the dated routes below."))
+
+    def test_civil_marriage_routes_exclude_south_jutland(self):
+        self.assertTrue(section("Check civil marriages before calling a marriage missing").startswith(
+            "## Check civil marriages before calling a marriage missing The routes in this section are for "
+            "Denmark outside South Jutland."))
 
     def test_ordinary_and_executor_probates_1851_to_1919(self):
         self.assertIn("ordinary probates went to the byfoged, herredsfoged or birk, and private (executor) probates "

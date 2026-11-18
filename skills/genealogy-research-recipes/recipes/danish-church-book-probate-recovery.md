@@ -58,11 +58,13 @@ Rigsarkivet says Link Lives searches transcriptions of Danish parish registers f
 
 Some parishes kept lists of people moving in and out (af- og tilgangslister) in about 1814–1875. [S1] The leaflet says the lists were kept until 1854 in towns and 1875 in the countryside, and often record only servants and poor people. [S2] A missing arrival or departure entry does not show that the family stayed put.
 
-Use the other entries to link people. A baptism names the child, the parents and their residence; the godparents were often relatives of the parents. A confirmation names the confirmand, the parents or the master (husbond) and their residence, often says whether a parent was dead, and in older books gives grades. A marriage names the couple, their parents and residence, and the sureties (forlovere), normally close male relatives. A newer burial entry may name the parents and spouse and the couple's last common residence. A confirmand described as the child of a late ("afdøde") parent dates that parent's death before the confirmation, so search the burials backwards from it. [S2]
+Use the other entries to link people. A baptism names the child, the parents and their residence; the godparents were often relatives of the parents. A confirmation names the confirmand, the parents or the master (husbond) and their residence, often says whether a parent was dead, and in older books gives grades. A marriage names the couple and their residence, may name their parents, and names the sureties (forlovere), normally close male relatives. A newer burial entry may name the parents and spouse and the couple's last common residence. A confirmand described as the child of a late ("afdøde") parent dates that parent's death before the confirmation, so search the burials backwards from it. [S2]
 
 Church books after 1925 can contain CPR (personal identity) numbers and fall under a 100-year access period. In the books on Arkivalieronline, CPR numbers are blurred, and from 1892 the remarks column of the birth lists is blurred. [S1 @2026-11-18] A blurred field is withheld and an unscanned book is offline; neither is missing, so do not record either as a nil.
 
 ## Check civil marriages before calling a marriage missing
+
+The routes in this section are for Denmark outside South Jutland. For South Jutland, Rigsarkivet's civil-marriage guide gives only the 1874–1925 civil registers named below; before 1874, search the church books as its own section describes.
 
 Before 1851 only a priest could marry a couple. From 1851 civil marriage was allowed when one or both partners belonged to no recognised faith, or when the two belonged to different faiths; from 1923 anyone could choose it. [S3]
 
@@ -88,7 +90,7 @@ The register's search page answered on 18 November 2026. [S10 @2026-11-18] Rigsa
 
 ## Route a probate by status and date
 
-For a probate in South Jutland, use the routes in its section above, not the ones below.
+For an ordinary probate in South Jutland before 1920, use the routes in its section above instead of the dated routes below. For a soldier or officer, also check the army rule at the end of this section, which covers the Schleswig and Holstein regiments.
 
 A probate (skifte) lists the deceased's property and heirs. The oldest surviving probates are from about 1650, and older protocols may be lost. [S5]
 
@@ -101,7 +103,7 @@ Until 1851 the deceased's status decided which authority held the probate. [S5]
 
 From 1851 to 1919 ordinary probates went to the byfoged, herredsfoged or birk, and private (executor) probates were filed with the amt once settled. [S5 @2026-11-18]
 
-Before 1919, open the name register to the probate protocol first where one exists; it gives the protocol page. If the probate is not in the protocol, search the death register (dødsanmeldelsesprotokol), kept from about 1820. It records deaths with nothing to divide, surviving spouses who kept the estate undivided (uskiftet bo) and private probates. Most of this material is scanned on Arkivalieronline and reached through Søg i Samlingerne; the rest is ordered for the reading room. [S5 @2026-11-18]
+For an ordinary probate before 1919, open the name register to the probate protocol first where one exists; it gives the protocol page. If the probate is not in the protocol, search the death register (dødsanmeldelsesprotokol), kept from about 1820. It records deaths with nothing to divide, surviving spouses who kept the estate undivided (uskiftet bo) and private probates. For a known private probate, go to the amt's series for probates or executors; some amter kept registers of their private probates. Most of this material is scanned on Arkivalieronline and reached through Søg i Samlingerne; the rest is ordered for the reading room. [S5 @2026-11-18]
 
 From 1919 each court district's probate court (skifteret) handled probates. Start from the register to the case list where one exists; otherwise take the case number from the death register or the case list (skiftesagliste), then open the case documents, which are filed by that number. Executor estates were filed with the amt until about 1933 and with the probate court afterwards. Most of this material is ordered for the reading room, and Søg i Samlingerne links any scanned part. Probate records are closed for 75 years. [S5 @2026-11-18]
 
@@ -124,4 +126,4 @@ Some groups had their own probate authority:
 
 ## Close with a household packet
 
-For each person, record the parish and its herred, birk or amt on each event date; each church-book entry with the copy (hovedministerialbog or kontraministerialbog), year, page and event type; any civil-marriage or personregister entry; the probate authority, series and protocol page or case number; and each search that found nothing, with the copy, years and series searched. Record a search of withheld, blurred, unscanned or failed material as incomplete, and keep "nil" for a completed search of named material.
+For each person, record the parish and its herred, birk or amt on each event date; each church-book entry with the book or copy (enesteministerialbog, hovedministerialbog or kontraministerialbog), year, page and event type; any civil-marriage or personregister entry; the probate authority, series and protocol page or case number; and each search that found nothing, with the copy, years and series searched. Record a search of withheld, blurred, unscanned or failed material as incomplete, and keep "nil" for a completed search of named material.
