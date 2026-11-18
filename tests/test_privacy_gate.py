@@ -192,9 +192,14 @@ class PrivacyGateSectionTests(unittest.TestCase):
             "same people", "same data fields", "same destination", "same audience",
             # What clears the gate, and what does not.
             "none was left unknown", "covers repeating this use", "A refusal", "one transfer only",
+            # A short citation replaces the items.
+            "cite that record in a single line", "without restating its answers",
             # What ends reuse.
-            "any other answer in the record no longer holds", "sensitive finding",
-            "settings, terms or controls",
+            "Answer the full gate again when any of those four changes",
+            "Also answer it again when any other answer in the record no longer holds",
+            "when the data now shows a sensitive finding",
+            "settings, terms or controls may have changed",
+            "the settings count as unchanged only when the user confirms it",
             # The floor.
             "not a gate record",
         ):

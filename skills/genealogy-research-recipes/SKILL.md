@@ -182,9 +182,11 @@ When an earlier reply in this conversation, or a dated record in the user's proj
 cleared the gate for the same people, the same data fields, the same destination and the same
 audience, do not answer the items again. Cleared means every item was answered, none was left
 unknown, and any permission the Permission item requires covers repeating this use at this
-destination. Cite that record in one line instead: say where it is, give its date and say that
-those four are unchanged. A refusal, a missing answer, or a permission given for one transfer
-only does not clear the gate.
+destination. Instead, cite that record in a single line that names it and says those four are
+unchanged, without restating its answers, for example: "Privacy gate: covered by the 2026-11-10
+record in your project notes; same people, data fields, destination and audience." Name an
+undated earlier reply by its place in the conversation. A refusal, a missing answer, or a
+permission given for one transfer only does not clear the gate.
 
 Answer the full gate again when any of those four changes, for example a new match in the
 list, an added column, another service, account or workspace, or a wider audience. Also answer
