@@ -44,7 +44,7 @@ def passage(start: str) -> str:
 
 class ChurchBookTests(unittest.TestCase):
     def test_two_copies_and_their_writers(self):
-        text = passage("A rescript of 11 December 1812")
+        text = passage("Outside South Jutland, a rescript of 11 December 1812")
         self.assertIn("preprinted forms from about 1814", text)
         self.assertIn("the hovedministerialbog, kept by the priest", text)
         self.assertIn("the kontraministerialbog, kept by the parish clerk (degn)", text)
@@ -52,7 +52,7 @@ class ChurchBookTests(unittest.TestCase):
         self.assertIn("names the schoolteacher or the parish clerk as the second writer", text)
 
     def test_single_book_before_1814(self):
-        text = passage("Before about 1814 a parish kept one book")
+        text = passage("Outside South Jutland, before about 1814 a parish kept one book")
         self.assertIn("the enesteministerialbog", text)
         self.assertIn("confirmations (from 1736)", text)
 
@@ -90,16 +90,44 @@ class SouthJutlandTests(unittest.TestCase):
         self.assertIn("For a South Jutland birth, marriage or death in 1874–1925, search the personregister "
                       "first, then the church book.", text)
 
-    def test_church_book_section_excludes_south_jutland(self):
-        self.assertTrue(section("Read the church book for the period").startswith(
-            "## Read the church book for the period This section covers Denmark outside South Jutland."))
+    def test_general_sections_open_with_the_south_jutland_pointer(self):
+        pointer = ("If the place is in South Jutland, read the South Jutland section first: it says which routes "
+                   "in this section apply there.")
+        for heading in ("Read the church book for the period",
+                        "Check civil marriages before calling a marriage missing",
+                        "Route a probate by status and date"):
+            with self.subTest(heading=heading):
+                self.assertTrue(section(heading).startswith(f"## {heading} {pointer}"))
 
     def test_church_weddings_return_in_1926(self):
         text = passage("From 1926 priests again married couples")
         self.assertIn("church weddings were entered as in the rest of the country, while births and deaths "
                       "stayed in the personregistre", text)
-        self.assertIn("For a church wedding from 1926 use the church book; for a civil wedding use the "
-                      "civil-marriage section above.", text)
+
+    def test_route_grid_by_event_and_date(self):
+        rows = {
+            "- **Births and deaths:**": "the church book before 1874; the personregister first for 1874–1925, "
+                                         "with the church book as a secondary source",
+            "- **Confirmations:**": "the church book in every period",
+            "- **Marriages before 1874:**": "the church book; the guide names no civil-marriage route",
+            "- **Marriages in 1874–1925:**": "the civil registers (personregistre), which hold every marriage",
+            "- **Marriages from 1926:**": "a church wedding in the church book; Rigsarkivet says marriages were then "
+                                          "entered as in the rest of the country, so a civil wedding follows the "
+                                          "general civil-marriage routes",
+            "- **Probates up to 1920, ordinary or private:**": "start with the Register over sønderjyske skifter op "
+                                                               "til 1920",
+            "- **Probates after 1920:**": "use the general probate routes",
+            "- **Soldiers and officers before 1864:**": "the Schleswig and Holstein regiments stayed with their "
+                                                         "auditors until 1864",
+        }
+        for start, route in rows.items():
+            with self.subTest(row=start):
+                self.assertIn(route, passage(start))
+
+    def test_south_jutland_probate_authorities(self):
+        self.assertIn("the herredsfoged or birkefoged in the countryside and the byfoged in towns before 1864, none "
+                      "named for 1864–1866, and the Prussian district courts (amtsretter) for 1867–1920",
+                      passage("- **Probates up to 1920, ordinary or private:**"))
 
 
 class ProbateTests(unittest.TestCase):
@@ -125,21 +153,6 @@ class ProbateTests(unittest.TestCase):
         text = passage("- **Soldiers, officers and their families before 1864:**")
         self.assertIn("each regiment's auditor.", text)
         self.assertIn("units elsewhere to the civil courts in 1805", text)
-
-    def test_south_jutland_probate_before_1864(self):
-        text = passage("For South Jutland probate before 1864")
-        self.assertIn("names the herredsfoged or birkefoged in the countryside and the byfoged in towns", text)
-        self.assertIn("for 1867–1920 the archives of the Prussian district courts (amtsretter)", text)
-
-    def test_probate_section_sends_south_jutland_back(self):
-        self.assertTrue(section("Route a probate by status and date").startswith(
-            "## Route a probate by status and date For an ordinary probate in South Jutland before 1920, use "
-            "the routes in its section above instead of the dated routes below."))
-
-    def test_civil_marriage_routes_exclude_south_jutland(self):
-        self.assertTrue(section("Check civil marriages before calling a marriage missing").startswith(
-            "## Check civil marriages before calling a marriage missing The routes in this section are for "
-            "Denmark outside South Jutland."))
 
     def test_ordinary_and_executor_probates_1851_to_1919(self):
         self.assertIn("ordinary probates went to the byfoged, herredsfoged or birk, and private (executor) probates "
