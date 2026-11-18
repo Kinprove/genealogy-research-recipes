@@ -120,6 +120,19 @@ supports the claim, cite that support explicitly. Review this at claim level:
 keywords such as `403` or `search-result` can describe an earlier failed fetch
 followed by a successful reading, and do not by themselves make a claim unverified.
 
+A recipe tells the assistant what to do, check or record. A single reported case,
+such as a presenter's own family item, one researcher's find or one forum account,
+enters a recipe only for what it changes there. Keep its lesson, not its story:
+
+- State the rule, the alternatives it names and the citation. Add one clause only
+  when the case supplies an action or an alternative that the rule lacks.
+- Do not rest a positive, numeric or frequency claim on one unverified case. Cite
+  a source that supports it, or leave it out.
+- Keep values the assistant uses, a verified counterexample to a plausible bound,
+  and a dated report of undocumented platform behaviour paired with a check of the
+  user's own account.
+- Leave motivating links and who said what to the source sidecar.
+
 The reviewed `tests/privacy_gate_inventory.json` remains independent. Its
 actions must be declared in the header (`contact` for contact steps,
 `data_transfer` for the other checkpoint kinds). A new outbound step needs its
