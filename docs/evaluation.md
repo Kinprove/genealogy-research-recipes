@@ -99,8 +99,13 @@ against a local copy only after its skill hash and selected case contracts match
 
 Each report covers only the skill bytes and harness it names; a later recipe change is not
 covered until a new run. The most recent is the
-[2026-11-16 clarification report](../reports/issue-241-missing-record-clarification.md): the
-`unreadable-village` and `russia-origin` cases pass 3/3 on `aad4be6`, and the full suite passes
+[2026-11-18 privacy-gate record report](../reports/issue-385-privacy-gate-record-reuse.md): the
+`gate-record-reuse` and `gate-record-new-destination` cases pass 3/3 on `b235c0e`, and the full
+suite passes 15/16 cases as run; re-judging one invalid `match-outreach` judge verdict without
+new answers makes it 16/16. The release 1.22.0 baseline passed 9/10. Its
+[receipt](../reports/issue-385-privacy-gate-record-reuse.json) keeps every attempt. In the
+earlier [2026-11-16 clarification report](../reports/issue-241-missing-record-clarification.md),
+the `unreadable-village` and `russia-origin` cases pass 3/3 on `aad4be6`, and the full suite passes
 13/14 cases. A GEDmatch sample missed a required supplemental read; the case remains failed.
 The release 1.20.0 baseline passed 10/10. Its
 [receipt](../reports/issue-241-missing-record-clarification.json) preserves earlier failed and
