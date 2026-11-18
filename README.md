@@ -342,6 +342,13 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 With a Kinprove account, add `https://api.kinprove.io/mcp/v1` as an MCP connector so the agent can
 read your own Kinprove matches and projects.
 
+## Who publishes this
+
+Kinprove Ltd publishes these recipes and runs [kinprove.io](https://kinprove.io). It is a private
+company limited by shares, registered in Ireland under company number 826270; the
+[Kinprove terms](https://kinprove.io/terms) give its registered office. Contact:
+<hola@kinprove.io>.
+
 ## Contributing and reporting problems
 
 For corrections and installation failures, use the [issue templates](https://github.com/Kinprove/genealogy-research-recipes/issues/new/choose).

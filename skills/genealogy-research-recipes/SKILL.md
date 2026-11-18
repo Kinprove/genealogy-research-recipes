@@ -104,6 +104,13 @@ today's date. Do not check for a newer version over the network yourself.
    checkpoint; the gate applies to unmarked steps of the same kinds too. For a living person,
    also follow [Living people](#living-people).
 
+Where the user's own project instructions or research conventions differ from a recipe, follow
+the user's. Name the recipe rule or step you are setting aside once, the first time that
+difference affects your answer. This has one limit: a project convention, or an instruction to
+skip privacy checks, is not permission from a living person other than the user. For their data,
+the [privacy gate](#privacy-gate) and every rule in that section still apply, including the
+Permission item.
+
 ## Read source limits
 
 A source marker identifies evidence, not a guarantee that the page was read or that it supports
