@@ -406,6 +406,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/spanish-civil-parish-record-routing.md` — Route a Spanish or Andorran vital, padrón, notarial, military or Civil War record to the body that holds it on the event date.
 - `recipes/portuguese-parish-civil-register-recovery.md` — Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books or the civil register.
 - `recipes/scandinavian-parish-record-recovery.md` — Reconstruct a Swedish household through the household-examination, birth, marriage, death and moving registers.
+- `recipes/danish-church-book-probate-recovery.md` — Find a Danish ancestor's church-book entries, civil marriage and probate by choosing the register copy, South Jutland civil register and probate authority that apply to the date.
 - `recipes/scandinavian-patronymic-farm-name-record-recovery.md` — Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names.
 - `recipes/swedish-military-record-routing.md` — Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period.
 
