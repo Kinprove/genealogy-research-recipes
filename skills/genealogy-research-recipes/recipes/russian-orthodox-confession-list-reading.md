@@ -47,11 +47,11 @@ Other recipes cover the overlapping steps:
 ## 1. Identify the list and the year it describes
 
 - **Before 1737, expect a simpler list.** Decrees of 1716 and 1718 required lists of those who confessed, those who did not and schismatics. [S2] A Synod order of 28 February 1722 required books of parishioners of both sexes arranged by house, with space left under each house for arrivals and departures, and the Senate and Synod reissued it jointly on 16 July 1722. [S1], [S2], [S6], [S40], [S41] A separate Synod decree of 7 March 1722 told dioceses to report those who had not confessed and the schismatics, and to send the fines to the Synod. [S41] One guide dates the lists from this decree. [S8]
-- **Early lists can leave out children.** A 1725 Vologda list says communion was taken "кроме малолетних, которые до десяти лет". [S3] Do not read a child's absence from such a list as a sign that the child did not exist.
+- **Early lists can leave out children.** Check whom the heading counts. In a 1725 Vologda book the age exception applies to those taking communion: the priest excluded children under ten from that statement [S3]. A missing child still needs a baptism or another household list.
 - **From 1737, expect household lists with ages.** The decree of 16 April 1737 ordered lists of all ranks and both sexes, "от престарелых до сущаго младенца", arranged "по чинам и домам", with each person's age. [S1]
 - **The form still changed after 1737.** Metrical tables and the priest's covering report were added within a few years. "Разночинцы" left the lists in 1841 and "дворовые" after 1861. [S2] The Synod approved a new form on 15 October 1846. [S1] Read the headings of your own list.
 - **The series ends around 1917–1918.** Some priests went on keeping lists into the 1920s. [S6], [S13]
-- **Record the list's year and its filing date separately.** Confession was expected in Lent, or in the Peter or Dormition fast for those who missed Lent. [S2] Lists can be filed much later than that. One list for 1822 is marked as filed on 10 January 1823. [S31] A list for 1826 is marked as filed on 10 September 1826. [S20] Compute ages from the list's own year and keep the filing date as a separate note.
+- **Record the list year and filing date separately.** The usual time for confession was Lent, with the Peter or Dormition fast for those who missed it [S2]. A list could be filed in the same year [S20] or the next: an 1822 list was filed on 10 January 1823 [S31]. Calculate ages from the year the list describes.
 
 ## 2. Read the layout before the names
 
@@ -68,16 +68,16 @@ The usual columns are below. Column headings vary, so copy the headings of your 
 | "Которые у исповеди не были" | The mark and the reason | See step 3 [S6], [S12] |
 
 - **Estates come in a set order.** The usual order is clergy and their households, military, civil officials, merchants and townspeople, household serfs, then peasants. [S5], [S6] The clergy come first, so a cleric's family is on the first page of the parish. [S7]
-- **That order was often not kept.** In the Zamoskvorechye lists of Moscow, it was followed in 7 of 28 parishes in 1741 and in 18 of 37 in 1755. [S2] Read the whole parish before you report a family as missing from its estate section.
-- **Peasants are grouped by village and, before 1861, by owner.** The arrangement could vary: a village could be split among its owners, or landlords' villages could come before state villages. [S8] In one 1789 list, the section for a landlord's household serfs is headed with the landlord's name. [S15]
+- **Search outside the expected estate section.** In Moscow’s Zamoskvorechye, just 7 of 28 parishes followed the prescribed order in 1741 and 18 of 37 in 1755 [S2]. Read the whole parish before recording an absence.
+- **Search every owner’s section for the village.** Before 1861 a village could be split between owners, and landlords’ villages could precede state villages [S8]. Check headings under the landlord’s name for household serfs [S15].
 - **Soldiers' families sit with the military.** Retired soldiers, their wives and children, and the wives and children of men taken as recruits, appear under "Военные и их домашние". [S6] Look there before you report a recruit's family as gone.
 - **Inside a household,** the head comes first, then his wife, their children, their children's spouses and children, and then more distant kin. [S7], [S10] The head could be a widowed mother, and a relationship could be stated in a chain rather than to the head. [S8]
 - **One двор need not be one family.** Several families not closely related could share a двор, which could hold 20 people or more. [S8] Owners' servants, lodgers, hired workers, soldiers' wives and people living "из милости" could be listed there too. [S2]
 - **Infants may be absent.** The 1737 decree reached infants [S1], but guides report that children under one were usually left out [S6], [S11], [S13], and one says the threshold in practice was about six months [S17]. Treat the absence of a child under one or so as no evidence at all.
 - **Non-Orthodox people are outside the count.** Fedorets and Kopay describe the lists as covering the Orthodox only. [S2], [S10] One guide says non-Orthodox family members were entered without a number. [S6]
-- **Read to the end of the parish.** A summary table of houses and souls by estate closes the list. [S2], [S10] A list of persistent non-attenders or schismatics can follow it. [S8], [S10] Metrical entries can be bound into the same delo: an Urals reference article calls this general practice in the late 18th century, and one participant found births, marriages and deaths inside an 1800 confession list. [S24], [S25]
+- **Read past the parish summary.** After the counts by estate [S2], [S10], look for separate lists of persistent non-attenders or schismatics [S8], [S10] and for metrical entries bound into the volume [S24]. In an 1800 volume a researcher found a daughter’s birth even though her father was missing from the household list [S25].
 
-- **A marginal «порядок» can place a household in the village.** Dictionaries give порядок, in dated and regional use, as a row of houses forming one side of a village street. [S44] In the 1861 list of a Nizhny Novgorod-province village, the priest marked in the margin which порядок each run of households stood in, naming it after the road to a neighbouring village. With a survey plan made two years earlier, the researcher matched each порядок to its road, followed the household numbers as the priest's route from the church, divided the rows into plots by the number of households and found long runs in the same order in the 1858 revision's numbering, which gave an approximate map of the village. [S43] To match a household between the list and the revision, use the family's names and patronymics first, ages second and surnames last: in that village only 69 of 125 households had the same surname in the two documents, three years apart. [S43]
+- **Map a marginal «порядок».** The term can mean one side of a village street [S44]. If the heading names a road, locate it on a contemporary survey plan and trace the household sequence from the church. Compare runs of neighbours with the nearest revision before assigning even approximate plots. In one village, only 69 of 125 households kept the same surname between the 1858 revision and the 1861 list [S43]. Match the household’s given names and patronymics first, then compare ages and surnames.
 
 ## 3. Read the attendance columns as an administrative mark
 
@@ -91,7 +91,7 @@ The usual columns are below. Column headings vary, so copy the headings of your 
 - **A column of "был" can be routine.** One guide reports that "был" was often written in a sweep down the page, so the exceptions carry the information. [S10] Some priests listed every household and marked no attendance at all. [S2] Freeze argues that a priest had to compile the list after the rites, from memory, and that the non-compliant had reason to avoid being recorded. [S4]
 - **"Отлучка" needs a follow-up.** A person away at Lent was to confess where he was and bring a certificate back to his own priest. [S2], [S6] Kopay warns that absence could also cover a schismatic. [S10] Record it as "absent, reason given by the priest".
 - **Non-confession is not Old Belief.** People who missed confession for three years running were to be written down as schismatics under the 1737 rules. [S2] So a "раскол" label is an administrative classification with a date, and a plain "не был" is not even that. Use [Old Believer and sectarian record recovery](old-believer-sectarian-record-recovery.md) before you call a family Old Believer.
-- **Look for separate lists of non-confessants.** A statement drawn from confession lists about people absent in 1765–1767 (GASO f.24, op.1, d.2293) gave one man's patronymic and age, and a participant used it to link him to a family. [S29]
+- **Search separate returns of non-confessants.** Extract the age and patronymic and compare them with the household. In the 1765–1767 return in GASO, f. 24, op. 1, d. 2293, fol. 97v, a candidate matched the expected age but had a different patronymic [S29]. Keep that conflict visible.
 
 - **A confession certificate places a person away from home.** A person could confess in another parish but had to bring his own priest a certificate of confession and communion there, and a parishioner away for more than a year was to confess where he lived and be entered in that parish's list, as an 1882 handbook for priests summarises decrees of 1737 and 1772. [S45] A Tula blogger notes that such a свидетельство о говении, which was also issued to a pupil moving up a class, a worker taking a job or a couple marrying, names the person, his place of registration (приписка) and the church where he confessed. [S46] When one survives in family papers or in a school, employment or marriage file, search that parish's lists and metrical books for the person and his household in that year. In the host parish's list, first look for a separate list of outsiders (иногородние) after the parish's own estates: a blogger who reads Vologda-province lists describes outsiders to the parish as listed separately, and explains it by people away from home confessing where they stayed [S51]. Where a list has no such section, read every estate section for the person.
 
@@ -105,15 +105,14 @@ Set up one table per household, with one row per person and one column per list.
 
 **Test the ages.**
 
-- Work out what each age should be from the previous list. A list of 1827 and one of 1838 for the same man gave 47 and 58 years, exactly 11 apart. [S32] Do not assume every series will be so clean.
-- A participant comparing 18th-century lists found ages "очень условно": often the same age in different years, and sometimes a lower age in a later list. [S21]
+- Compare each reported age with the age expected from the preceding list [S32]. In an 18th-century series, ages sometimes stayed the same or decreased [S21]. Preserve both readings and check an independent event record.
 - A priest could set an age by eye, peasants often did not know their age, and the error grew with age and could run either way. [S7] One guide puts the spread at about ten years. [S10] A Ukrainian genealogy firm says priests could give only approximate ages, to be reconciled with the birth records. [S18]
-- Give each age as a range of birth years, one for each list. Keep the whole series. In one worked case, six sources implied births from 1794 to 1808 for one woman, and the 1838 confession list gave 30 years. [S22] A mismatch lowers a candidate's rank and does not exclude the candidate.
+- Calculate a birth-year range for each stated age and retain disagreements. Six records for one woman produced estimates from 1794 to 1808 [S22]. Use the household and baptism to test the candidate before excluding her on age.
 
 **Do not follow the household number.**
 
 - The numbers run through the whole list, so one added or removed household can change every number after it. That is an inference from the numbering. A guide based on Ukrainian lists says that numbers in neighbouring years roughly match but could change sharply. [S9]
-- In one Urals series, a participant's extracts give the same man as entry 213 in the list for 1827 and entry 725 in the list for 1838. They do not say which numbered column that is. [S32]
+- Identify the column before comparing numbers. An 1827 extract numbered a man 213 and an 1838 extract numbered him 725 without identifying which column either number came from [S32]. Those figures cannot establish a move.
 - Use the number to find your place in a neighbouring year. Identify the household by its people.
 
 **Treat agreement between years with care.**
@@ -124,30 +123,26 @@ Set up one table per household, with one row per person and one column per list.
 **Treat every name as a hypothesis.**
 
 - A guide warns that these lists have more errors in names, patronymics, ages and degrees of kinship than metrical books and revision lists do. [S6]
-- A woman can change given name between lists: one participant found "то Анисья, то Анна". [S30]
-- Watch for scribes' corrections. A priest in 1789 wrote one daughter's name and then bracketed it in favour of another. [S15] A participant found a name scraped out in a list of 1822 and could still see that it was a different name. [S22] Transcribe the cancelled form as well.
-- **Test a one-off name in the series before you create a person.** In a list of 1838, a son of one household appears as Гавриил while a brother named Гавриил heads his own household; the researcher marked the entry as an error for Григорий. [S32] Annotate such a name beside the verbatim entry. Do not correct it. Before you call it an error, search the nearest revision list for a second man of that name in that generation.
-- **Two living brothers can share a given name.** A Familio genealogist writes that old documents often show three Ivans or two Paraskevas in one family, names being taken from the church calendar or after a dead or departed child, and that it is then hard to tell which brother married, had a child or stood sponsor. [S47] A 1747 list of an Aleksin-uezd village gives two brothers as «Викула Васильев старший» and «Викула Васильев младший» [S48], and one Tambov-province family had two sons named Иван, born in 1717 and 1740. [S49] Keep both rows, tell them apart by age, by старший and младший and by household, and give a marriage, child or sponsorship to one of them only when the entry's age or household decides it.
+- Search both given names when the rest of the household matches. A reported series alternated between Анисья and Анна [S30]. Keep each form with its date and test the identification in metrical records.
+- Transcribe a bracketed or cancelled name alongside its replacement [S15]. If scraping has obscured the first name, mark what you can still read and leave the rest uncertain [S22].
+- **Test a one-off name in the series.** An 1838 extract calls a son Гавриил while a brother of that name heads a separate household; the transcriber proposed Григорий for the son [S32]. Preserve the entry and the proposed correction separately. Search the nearest revision for both men before deciding.
+- **Allow for living brothers with the same given name.** A 1747 list distinguishes «Викула Васильев старший» and «Викула Васильев младший» [S48]. Keep separate rows, including siblings born many years apart [S49]. Assign a marriage, child or sponsorship only when age, household or another identifying detail distinguishes the brothers [S47].
 
 **Use the changes between lists.**
 
 - Widowhood was stated for the surviving spouse, which can help when a death entry is missing. [S13], [S14] It dates the death only to the interval since the last list that shows the couple together.
-- A different wife's name is a trigger to test three explanations: the same woman under another name, a death and a remarriage, or an error. One worked case placed a first wife's death between the lists of 1812 and 1824, then narrowed it with an 1823 baptism in which the second wife stood as godmother. [S22]
+- When a wife’s name changes, test a variant name, a remarriage and a copying error. Look beyond the couple’s own children: an 1823 baptism named the later wife as godmother before she appeared in the 1824 household list [S22]. Check how the baptism identifies her before using it to date the marriage or the first wife’s death.
 - A daughter can vanish from her parents' household while a wife of the same unusual name appears in another. That is a lead, and only the marriage entry confirms it. [S10]
 - If the whole family vanishes, it may have moved. Check the revision list for the place, and if there is none, the lists of the whole uezd. [S6]
 
 ## 5. Check the household against revision lists and metrical books
 
 - **Know what each source can add.** Confession lists cover non-taxpaying groups that the revisions do not. [S5] They list women too: the 1722 orders already required books of both sexes [S1], [S6], [S40], [S41], and Vologda books from 1718 name every member of the household, men and women. [S3] Whether a revision lists women depends on the revision: the 1st, 2nd and 6th (1811) recorded men only. [S7] For the others, use [revision-list household chaining](russian-revision-list-household-chaining.md). Revision lists give the household's official registration and the previous revision's age. Metrical books date individual events.
-- **Bridge the gap between revisions.** A participant reported reconstructing Southern Trans-Urals male lines from 1850 back to the 1680s as follows: [S22]
-  1. Chain the revisions with the 1774–1830 confession lists (in the Orenburg archive).
-  2. Use the 1795 revision, which carries the 1782 figures as well, to link to the 1719 lists of the Iset slobodas.
-  3. Go to the 1710 census.
-  4. Go to the 1680s census, which gives the territory of origin.
-- **Separate residence from registration.** An 1834 revision tale notes a family "проживает с давних лет" at its new place, and a confession list shows it there by 1790, at least 44 years earlier. [S23] Date residence from the lists and registration from the revisions, and report them as two facts.
-- **Recover a bride from her home village.** A participant knew a great-grandmother's name, patronymic, birth date and home village, and read that village's lists family by family until one Ivan had a daughter of that name and age. A copy of her birth certificate later confirmed the match. [S28] Without that kind of confirmation, the result stays a hypothesis.
-- **Test absence across every source.** A participant noted that one or two omissions could be a scribe's error or a child too young to be listed, but checked a family across confession lists of 1808, 1815 and 1822, and revision lists of 1811 and 1816, before concluding that it had no such daughter. [S22] The 1811 revision recorded men only [S7], so that return says nothing about a daughter. Count only sources that record women.
-- **Be careful with Old Believer households.** One review compared a Rzhev list of 1850 with the tenth revision. It found the lists fairly reliable for the Orthodox and full of inaccuracies for Old Believer families, and it prefers revision lists for them. [S16]
+- **Bridge the gap between revisions.** For a Southern Trans-Urals line, a published forum route uses the Orenburg archive’s 1774–1830 confession lists alongside the revisions. Check the 1782 figures carried into the 1795 revision, the intervening revisions where needed, and the 1719 Iset sloboda lists. Compare the household in the 1710 census before looking for a place of origin in the 1680s census [S22]. Establish each link for the family under study.
+- **Date residence separately from registration.** An 1834 revision described a family as long resident at its new location, where a confession list already placed it in 1790 [S23]. Record the earliest documented presence and the revision’s registration details separately. The move could be earlier.
+- **Find a bride in her home village.** Use her patronymic to identify possible fathers, then compare daughters in each household by name and age. A reported identification made this way was later confirmed by a copy of the bride’s birth certificate [S28]. Until an independent record distinguishes her, retain the candidates.
+- **Count only returns that could name the missing person.** When checking for a daughter across confession lists and revisions [S22], exclude the male-only 1811 revision from the negative evidence [S7]. Record which surviving years cover her sex, age, household and parish.
+- **Cross-check Old Believer households.** A comparison of an 1850 Rzhev confession list with the tenth revision found discrepancies for Old Believer families [S16]. Check each disputed name and relationship in the revision and record which source supports it.
 
 **Check a soldier's wife before attaching her.** A «солдатка» with children in a household is not
 thereby the wife of that household's known recruit, nor are the children thereby his. Read the
@@ -155,10 +150,7 @@ pre-conscription list for his named wife, then test the proposed link against ma
 and death entries. A different name leaves alternatives to investigate, including another woman,
 remarriage or an error; keep the link unresolved until the evidence distinguishes them.
 
-Issue 341 reports a single case in which the pre-conscription list named the recruit's wife
-differently from a later «солдатка» proposed as his wife. The underlying lists were not
-independently inspected here. The case warns against attaching her from household placement;
-it does not by itself settle her identity. [S42]
+In one reported case the pre-conscription list gave the recruit’s wife a different name from the later «солдатка» proposed as his wife; the underlying lists have not been independently checked [S42].
 
 ## 6. Find the lists
 
@@ -169,9 +161,9 @@ it does not by itself settle her identity. [S42]
 - **Moscow.** Fedorets cites the Moscow lists as TsIAM f. 203, op. 747, from 1737 to 1915, bound by sorok. [S2 @2026-11-08] Kopay places f. 203 in TsGA Moscow and also names the fonds of district spiritual boards and of individual sorok. [S10 @2026-11-08] Glavarchiv Moscow added Orthodox lists of Moscow and Moscow guberniya, from the second quarter of the 18th century to the 1860s, to its «Моя семья» service in 2021. [S11 @2026-11-08]
 - **Other places.** Tver lists of 1728–1913 are cited from a FamilySearch collection. [S39 @2026-11-08] Archaeograph reports that many Ukrainian lists are online at FamilySearch and that their handwriting needs separate study. [S5 @2026-11-08]
 - **Late lists are rare.** A bulletin of 25 May 1927 ordered lists from 1865 onwards to be destroyed as having no historical value, and in Moscow guberniya nearly all of them were. [S20 @2026-11-08] Guides report that lists after the 1860s are very rare. [S5 @2026-11-08], [S6 @2026-11-08]
-- **Do not trust the inventory title alone.** One list of 1789 is recorded in the inventory under 1780, and the same delo contains a metrical book. [S27 @2026-11-08] Delo numbers in GASO f. 6, op. 3 were reassigned, so an inventory line can describe another file. [S37 @2026-11-08] An archive's negative reply for one church was overtaken when a participant found its 1776 list in the inventory under a later entry. [S38 @2026-11-08] Order or view the file before you report a gap.
+- **Verify the date and church inside the file.** A researcher reported finding the 1789 Basmanovskoye list and a metrical book in GASO, f. 322, op. 1, d. 2, inventoried under 1780 [S27 @2026-11-08]. Check for reassigned delo numbers in GASO, f. 6, op. 3 [S37 @2026-11-08]. After a negative archive reply for Katai’s Holy Trinity Church, a participant identified its 1776 list in the Perm archive, f. 636, op. 1, d. 23, distinct from the Elijah Church list in d. 19 [S38 @2026-11-08]. Recheck the inventory by parish and open the file before declaring a gap.
 
-- **Tula-area lists of the 18th century can be in Moscow.** A Tula researcher reports confession lists of many villages of Odoev uezd, and some of Chern and Novosil uezds, in ЦГА Москвы, f. 205 (Крутицкая консистория), op. 5, dd. 8–93, among them a list of 1747 for a village whose lists in the Tula archive begin in 1843. [S50 @2026-11-15] There a 1747 list gave a man who died before the 1763 revision with his patronymic and age, and a 1752 list showed his children's households after his death. [S50 @2026-11-15]
+- **Follow the historical consistory across modern archive boundaries.** For 18th-century Odoev villages and some in Chern and Novosil uezds, check ЦГА Москвы, f. 205 (Крутицкая консистория), op. 5, dd. 8–93. The Tula archive’s lists for Pokrovskoye-Zheleznitsa begin in 1843, but Moscow d. 9 contains its 1747 list; a 1752 list in the same fond lets the researcher follow the next generation [S50 @2026-11-15].
 
 ## 7. What a confession list does not prove
 
@@ -180,7 +172,7 @@ it does not by itself settle her identity. [S42]
 - **Parentage.** A child listed after a wife need not be hers, and children raised in the household can be listed there. [S8], [S10] Check each child against the baptism and against any earlier wife.
 - **One family.** Sharing a двор is not kinship. [S2], [S8]
 - **Presence or devotion.** The mark records what the priest wrote. Freeze notes that the figures record observance, not belief. [S4]
-- **Absence, death or departure.** The lists record the people present in the parish, so someone away may simply not be listed. [S2] A moderator's advice for a missing man was to look for him in another household as a son-in-law, or in another village, because he might have been skipped or entered elsewhere. [S25] One researcher read every 1800 list of an uezd and could not find people who appear in the metrical books; the reason stayed open. [S26]
+- **Absence, death or departure.** Check a missing person in other households, including as a son-in-law, and in neighbouring villages [S2], [S25]. A researcher who searched an entire uezd’s 1800 lists still missed people named in the metrical books [S26]. Record the search coverage and leave the reason for absence open.
 - **Old Belief.** See step 3.
 - **Independent confirmation.** Successive lists can be copies of one another, and one list's agreement with the next is not a second witness. [S9], [S19] Leave the ruling to [evidence/proof judgment](evidence-proof-judgment.md).
 
