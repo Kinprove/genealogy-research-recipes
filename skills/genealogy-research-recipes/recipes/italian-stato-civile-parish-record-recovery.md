@@ -105,7 +105,7 @@ Fix who registered the event before you choose a series. Use the event year and 
 
 **Use the archive's names for the file when you search its catalogue.** Napoleonic civil registers often have allegati or processetti matrimoniali (marriage attachments) beside them, which can give the spouses' parents and their consent [S20 @2026-11-13]. For the Stato civile from 1866, look for the Allegati (attachments) series: it was kept in one original only, at the court, and later passed to the State Archive, so the comune does not have it [S20 @2026-11-13].
 
-When an Italian record places fu before a parent’s name, read that parent as deceased by the date of the act. The Piedmont Families Organization demonstrates this reading in a notarial abstract. Use it to set a death-before bound and search the parent’s death separately; fu does not provide the death date, and its absence alone does not establish that a parent was alive. [S25], [S26]
+When an Italian record places fu before a parent’s name, read that parent as deceased by the date of the act. In a Piedmont notarial abstract of 10 January 1645, Martra fu Gioanni identifies Martra as the daughter of the late Gioanni [S26]. Use it to set a death-before bound and search the parent’s death separately; fu does not provide the death date, and its absence alone does not establish that a parent was alive. [S25], [S26]
 
 ## 4. Route parish books by the historical diocese
 
