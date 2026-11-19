@@ -46,17 +46,17 @@ From destination records (census, church, naturalization, obituary, passenger li
 
 Start with destination records, identify the parish, and then search that parish [S2]. An approximate age is not an anchor. The exact birth date is. Swedish church books, including the household examination books, record the exact birth date, often in its own column, so the date works almost like an identifier for telling same-named people apart [S5].
 
-Do not search the American surname backwards as if it were hereditary. Everett's example: a family known as Jensens in America cannot simply be looked for as Jensens in Denmark [S2].
+Treat the American surname as one search form. For a Danish emigrant called Jensen abroad, use the father’s given name in the home parish to derive the patronymic expected at baptism [S2].
 
 ## Build the expected name forms and log them as a register
 
 Create one row for each form you expect or observe. Record the literal form, the record it appears in, and its type: patronymic, matronymic, farm/house, soldier byname or adopted.
 
-- **Patronymic.** Built from the father's given name plus -son/-sen or -dotter/-datter. It changes every generation [S1], [S5]. Build spelling variants as well. Brady shows one man recorded as Persson, Pierson, Pettersson and similar forms across Swedish and U.S. records [S1]. Swedish given names also vary, for example Per, Petter, Peder and Pär for Peter [S1].
-- **Matronymic.** An illegitimate Swedish child may carry a surname based on the mother's name [S3]. A female-based surname is a lead to an illegitimate birth, not an error. Check the baptism entry for it before you look for a father.
-- **Farm or house name.** Clerks added these to tell parishioners apart. A farm name may stay with a family for generations or for only one [S6]. Castillo reports that the farm name changed when a person moved to another farm, and that she has seen a son-in-law who married into a family of daughters take his father-in-law's name or the farm's name [S3]. A change of farm name is therefore not a change of person.
-- **Soldier byname.** The army assigned these because so many men had the same name, and soldiers may appear under either the patronymic or the soldier name. Some men kept the byname afterwards. Brady's example is Johan Magnus Anderson from Kalmar province, who was John Falk in the U.S. and Johan Magnus Anderson in Swedish records [S1]. In S5, the guest's family surname came from a great-great-uncle's army byname, which an emigrant brother adopted instead of the patronymic. Search military records by unit and by the soldier name, not only by the civil name, starting with the local muster [S8].
-- **Adopted American name.** This may come from none of the forms above. Everett's Walter Slangerup was christened Waldemar … Martinson after his father. After emigrating he took the name of Slangerup, a town northwest of Copenhagen that his great-grandfather came from [S2]. Treat the American surname as one observed form, not as the search key.
+- **Patronymic.** The father’s given name supplies the stem for a son’s *-son/-sen* or a daughter’s *-dotter/-datter* [S1], [S5]. Search the father’s given-name variants as well as surname spellings. Persson, Pierson and Pettersson can lead to entries for the same person. Confirm each against the parish, dates and family [S1].
+- **Matronymic.** A Swedish baptism may identify a child by a name derived from the mother’s given name [S3]. Inspect the parentage and marital-status fields before drawing an inference from the surname.
+- **Farm or house name.** Trace the household through a move or marriage. A son-in-law could take the name of his wife’s farm or of her father [S3]. Enter the farm beside each dated record and use the household to test continuity when the name changes [S6].
+- **Soldier byname.** Search the regiment and local muster under both civil and soldier names [S8]. John Falk in America was known as Johan Magnus Anderson in Swedish records [S1]. A brother could also adopt a soldier’s byname abroad [S5]. Confirm which man served before using the name to link his family.
+- **Adopted American name.** A surname can name an earlier generation’s town. Walter Slangerup adopted the name of his great-grandfather’s Danish town after emigration. His own birth entry had to be sought under a patronymic [S2].
 
 In your tree, enter the name exactly as it appears in the christening (the first record) as the primary form. Log every farm, soldier or American name as an alternate with its source [S6].
 
@@ -68,11 +68,11 @@ ArkivDigital's April 2026 demonstration distinguishes its general-muster index f
 - If a dismissal note refers the soldier for *underhåll*, use that referral to investigate the Krigsmanshuset archive.
 - If the original names a *rusthållare* and records a *krigsmanshusavgift*, investigate the fee documentation for changes of rusthållare. Keep that holder and fee distinct from the soldier and his support history.
 
-The demonstration's original records contain support and fee annotations absent from the index. Check the actual indexed fields and the surviving regiment/archive volumes for the relevant interval; the demonstration does not establish current coverage or an individual's identity. [S18]
+Open the roll image even when the index has the soldier’s name. Copy the *underhåll* referral and any *krigsmanshusavgift* beside the named *rusthållare*. The latter points to the holder’s fee history, a different inquiry from the soldier’s support [S18].
 
 ## Search the forms, then browse to the known date
 
-Search the parish indexes under each patronymic and farm form in the register. If all of them fail, do not conclude the person is absent. Browse the parish register to the known birth date and recognize the entry from its context. Everett found Slangerup this way after no index search could reach him [S2].
+If the parish index misses every supported patronymic and farm name, browse the register by the known date. Match the parents, farm and witnesses in the entry before linking an emigrant whose surname later changed [S2].
 
 Write down the parish, register volume and date range you browsed. If you get no hit, report that bounded range, not "not born there."
 
@@ -88,13 +88,11 @@ Record the register, years and index you searched. A miss is bounded by them.
 
 If you cannot find the emigrant on a passenger list:
 
-1. Open the manifest of a known co-traveller, such as a future spouse or a sibling. In S5, the guest found his great-grandfather next to his future wife, listed under a father-derived "-son" form instead of the American surname.
-2. Scan the nearby pages, not only the family group, for people with the same farm name and a matching patronymic. In S7, a probable brother was listed on the parents' page of a Norway Heritage transcription, outside the family group, under the same farm name; the family's daughter appeared a page or two later. Those transcriptions mainly cover 1825–1873/75. The site search is currently down, so browse by ship and year.
-3. Treat any such person as a candidate only. Confirm through:
-   - the home-parish baptism, which should name the expected parents and parish
-   - the minister's record of people moving out (in Norwegian church books, the *utflyttede* section), with an entry dated before sailing [S7]
+1. Browse the ship and year of a known co-traveller. Inspect the entries beside a future spouse or sibling under a father-derived patronymic even if the emigrant later used another surname [S5].
+2. Scan past the family group and onto nearby pages. In one Norway Heritage transcription, a possible brother appeared on the parents’ page under the farm name, outside the group, while the daughter appeared later [S7]. Record the vessel, year and pages searched.
+3. Verify the relationship against the home-parish baptism for both parents and the dated moving-out entry (*utflyttede*) before sailing [S7].
 
-S7 found both records for its candidate. The moving-in and moving-out registers (*innflyttede* / *utflyttede* in Norway) also let you follow a person between parishes [S2], [S9].
+Follow a person between Norwegian parishes using the moving-out (*utflyttede*) and moving-in (*innflyttede*) sections. Check names, dates and destination against the next parish [S2].
 
 ## Discriminate same-named candidates with a comparison table
 
@@ -107,7 +105,7 @@ Same-named people are common in a parish. Families with the same parents' names 
 - smallpox vaccination date and place, from baptism, confirmation or marriage entries [S2]
 - the locator for each entry
 
-Vaccination became compulsory in Norway from 1810 and in Sweden from 1816. Denmark's decree of 3 April 1810 required a vaccination certificate for school, confirmation and marriage. In Danish confirmation and marriage entries after 1810, expect the vaccination note and use it. Everett shows it in a Norwegian marriage entry of 1843 and in confirmation entries, and uses the vaccination date and place to decide whether two records are the same person [S2]. In other places and periods, check whether the column exists before you count a blank against a candidate.
+Compare any smallpox entry by date, place and wording across the records. An 1843 Norwegian marriage entry and confirmation examples illustrate the extra identifier [S2]. Denmark and Norway’s decree of 3 April 1810 accepted proof of vaccination **or** previous smallpox for marriage from 1 January 1811. For confirmation it directed the priest to encourage vaccination, and its school rule excluded the lowest common schools [S37]. Sweden introduced compulsory vaccination in 1816 [S38]. Check the particular register and period before drawing an inference from a blank column.
 
 Tanner warns that a Norwegian line with no source at the house-census or farm level is very likely wrong in its places, its names or both [S4]. Treat such an inherited tree as unverified until you have tied it to farm-level records, such as the censuses and church records on Digitalarkivet.
 
@@ -144,7 +142,7 @@ An Icelandic farm name is not a unique location. Resolve it through the sýsla (
 
 Check Íslendingabók’s access conditions before planning a lookup: its English information page restricts access to Icelandic citizens and legal residents with a kennitala. If that route is unavailable, retain it as unavailable and continue with the cited census and parish records. Treat a compiled family link as a lead to its evidence; no logged-in search or account access was tested for this guidance. [S28 @2026-11-16], [S31 @2026-11-16]
 
-For an Icelandic emigrant family, search diaspora newspapers and serialised settlement histories for the destination-side bridge. Byerly-Adams’s worked example cites a 1906 Heimskringla memorial and a history serialised in Lögberg-Heimskringla in 1969–1970. Follow such references to the issue and page, then test names, places and relationships against records. The article’s retelling and the newspaper original remain separate sources; the originals were not inspected for this guidance. [S28], [S34]
+For an Icelandic emigrant, follow a diaspora memorial or serialised settlement history to its issue and page [S28]. For the Narrows, Manitoba, Byerly-Adams cites *Heimskringla*, 19 April 1906, p. 1, and the first instalment of Geirfinnur Peterson’s history in *Lögberg-Heimskringla*, 16 January 1969, p. 4 [S34]. Use those citations to obtain the newspaper pages before relying on the retelling.
 
 ### Earlier generations
 
