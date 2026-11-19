@@ -56,12 +56,7 @@ results to this feature. Do not remove existing tree attachments to recover a hi
 
 **Trigger:** a town, province or county in the catalog's Title/Keywords finds very little.
 
-Clear or replace the locality word in Title/Keywords before running separate
-state or country searches. A nationwide collection can contain that locality
-without naming it in its catalog text. Compare the collection lists, open national
-candidates, and then choose the locality inside the collection. The August 2026
-Ancestry tutorial demonstrates countrywide Canadian censuses disappearing when
-the catalog text query changes from Canada to Nova Scotia.
+Clear the town or province from the Card Catalog’s Title/Keywords fields and compare the list with a country or category search [S14 @2026-11-19]. In Ancestry’s 2026 demonstration, entering Nova Scotia hid national Canadian census collections that included the province [B1 @2026-11-19]. Open the national collection and look for the locality within its coverage.
 
 Inspect geographic filters separately and widen any that restrict the intended
 jurisdiction. Widening a filter alone does not repair a text query that still
@@ -81,12 +76,7 @@ registers when searching for census-like household or residence evidence.
 Open each plausible collection and inspect its actual coverage.
 See [the Card Catalog guide](https://help.ancestry.com/hc/en-us/articles/53933305954579-Using-the-Card-Catalog).
 
-If a catalog search returns nothing, try the singular and plural forms separately. In one
-demonstration a singular term missed plural titles. Also run a pass with no text at all, using
-only category and place filters, in case the catalog uses different vocabulary. Record each
-variant's count and rerun it later, because the presenter saw results change between runs.
-[Genealogy Gems' Card Catalog session](https://www.youtube.com/watch?v=99F9D51wz6Q) motivates
-these variants. It does not establish a stable matching rule.
+Try the singular and plural separately, then clear the text and compare a category-and-place search. In the Genealogy Gems demonstration, searching for “postcard” missed titles containing “postcards” [B16]. Log the date, terms, filters and count for each attempt so you can reproduce the difference.
 
 Do not take an empty Ancestry-wide search as proof that a newspaper item is absent. Ancestry's
 global search does not include the Newspapers.com Stories and Events Index collections because
@@ -144,22 +134,9 @@ not evidence that the person lacks a death record.
 See [How to Search](https://help.ancestry.com/hc/en-us/articles/53933305561747-How-to-Search-Ancestry)
 and [Search Tips](https://help.ancestry.com/hc/en-us/articles/53933347309331-Ancestry-Search-Tips).
 
-For a possible remarriage, test a supported previous married surname without requiring
-the maiden surname. Inspect prefilled parents and siblings too: a surname removed from
-the subject's field may still constrain the query through those relatives. Save the
-original query, remove those inherited constraints in the comparison query, and narrow
-to marriage records with supported place/time bounds where those fields are available.
-Inspect the recovered record and identifying details before accepting a remarriage.
-The [women's research demonstration](https://www.youtube.com/watch?v=2akp4WbCDlw) shows this
-specific search failure; it does not establish a universal naming practice or prove
-identity from a changed surname alone.
+For a possible remarriage, search the previous married surname within the supported dates and place. Inspect prefilled parents and siblings: their surnames can keep an unwanted maiden-name constraint in a query after it has been removed from the subject. Save both queries, remove the constraint and compare the results. Test the candidate against the actual marriage record [B8].
 
-If a candidate's reported surname differs from the hypothesized biological family's surname,
-keep the reported name as the record subject. Test the other surname as an associate/keyword
-clue only where the collection exposes a suitable field; retain supported place/year bounds.
-Inspect the full recovered record and its explicit parent, step-parent or other role before
-resolving the name-change or kinship hypothesis. The [subject-name/keyword example](https://whoareyoumadeof.com/blog/close-dna-match-how-to-figure-out-your-relationship/)
-supports this retrieval tactic, not its narrated identity or fixed cM exclusions.
+Keep the candidate’s reported surname in the subject field. Where the collection offers a suitable field, search the hypothesized family surname as a keyword or associate, with the supported place and year. Read the recovered record for the stated roles, including any parent or stepparent, before drawing a kinship conclusion [B23].
 
 ### 7. Relax the place level and age separately
 
@@ -176,16 +153,7 @@ wider interval. Preserve the reliable anchor while changing one constraint at a
 time, and record which change recovered a candidate.
 See [Ancestry's refinement guide](https://help.ancestry.com/hc/en-us/articles/53933347318419-Refining-Your-Search-to-Improve-Results).
 
-Treat an undocumented event year from a tree or family note as a possible estimate. A death year
-can be a midpoint between the last census showing the person and the first census without them.
-When the exact year fails, search that whole bracket. In the
-[Ohio death example](https://www.youtube.com/watch?v=GM1i0bLjoWk), a stated 1935 hid a 1930 death
-record, although the source does not show where the estimate came from. If widening still fails,
-try one query with transposed digits, such as 1762 for 1726. An indexer's transposition can fall
-outside any reasonable interval. The
-[birth-date strategies discussion](https://www.youtube.com/watch?v=v_tpU77sOn4) reports this from
-experience and says nothing about how often it happens. Any hit is only a candidate: check it
-against the image, the census date and other same-name people before attaching it.
+If an undocumented death year fails, check the last record showing the person alive and search across the surrounding years. Absence from the next census suggests another search date, but gives no upper bound on death. An Ohio example yielded a 1930 death record five years before the stated year [B17]. Test a transposition separately, such as 1762 for 1726 [B18]. Compare any hit with the image, other dated records and namesakes.
 
 For the **1841 England and Wales census**, allow for the instruction to round
 ages 15 and above down in five-year steps. Where applied, a recorded age of 30
@@ -196,14 +164,7 @@ before deciding whether rounding explains a discrepancy. The instruction alone
 does not prove how a particular entry was completed.
 See [The National Archives census guide, section 5](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/).
 
-For a missing death record, distinguish a candidate death locality from the last known
-residence. Use independently supported adult children's residences near the estimated
-death interval to build a short list of places where the parent might have stayed. Retain
-each child's identity, dated residence source and the proposed death-search locality as
-separate fields. Check the actual death-record collection's jurisdiction and date coverage
-before searching it. The [adult-child residence example](https://www.youtube.com/watch?v=Sr86Hc000tY)
-supports this locality pivot; a child's residence does not establish the parent's move or
-death there, and no particular child's household has automatic priority.
+Check where each identified adult child lived near the parent’s estimated death. Use those dated addresses to select other death-record jurisdictions and check each collection’s date coverage. Record the source for the child’s residence separately from the hypothesis that the parent stayed or died there [B11].
 
 For a U.S. death search, separate the residence county from the hospital or institution’s county. The standard death certificate gives separate residence, facility/place-of-death and county-of-death fields [S6]. If a known facility was elsewhere, search its locality as well as the home locality, preserving which place belongs to which field. Do not move the person’s residence merely because the death was recorded elsewhere [S10].
 
@@ -238,12 +199,7 @@ and [Searching with Soundex](https://help.ancestry.com/hc/en-us/articles/5393328
 
 **Trigger:** the right collection and locality exist, but variants still fail.
 
-Remove the target name and retain a discriminating combination of available
-fields: residence, approximate birth year, sex, birthplace or relatives. Prefer
-a sibling, household head or known neighbor with a more distinctive name as an
-entry point. Open the resulting image and inspect the target household or nearby
-pages. Ancestry's April 2026 tutorial recovers a mistranscribed Cowan household
-using non-name fields and the parents' names after direct searches fail.
+Remove the target name and search with a distinctive combination of residence, birth year, birthplace, sex or known relatives. Try each parent’s name or a sibling or neighbour whose name is easier to distinguish. Open the image, locate the household and check nearby pages for an entry indexed under another spelling [B2].
 
 **Privacy gate:** <!-- privacy-gate: publish --> An added reading becomes alternate information that
 other Ancestry users can find by search. Before adding a reading that names or links someone who may
@@ -251,14 +207,7 @@ be living, answer the privacy gate in `SKILL.md`. Until each such person has giv
 the reading in the user's local notes instead of adding it. A reading that concerns only people known
 to be dead can be added as before.
 
-Once the image shows a mistranscription, the user can add the correct reading: the
-record page's three-dot menu has **Add or update information**, which adds it as
-searchable alternate information and leaves the original index unchanged
-([Correcting a Record](https://help.ancestry.com/hc/en-us/articles/53933317670547-Correcting-a-Record)).
-The same mechanism explains some hits: a record may match only through alternate
-information another user added. A [2019 account](https://lisalouisecooke.com/2019/03/28/ancestry-indexing-mistake/)
-shows it beside the original indexed name, not in place of it. Cite the image's own
-wording, not the alternate.
+Once the image shows a mistranscription, the user can add the correct reading using **Add or update information** in the record page’s three-dot menu. Ancestry keeps the original index entry and makes the alternate reading searchable [B33 @2026-11-19]. A hit can therefore match someone else’s reading. Compare the indexed and alternate names with the original image, and cite the wording that appears there [B34 @2026-11-19].
 
 For births, search the parent fields alone, including a mother's-maiden-name field where the
 birth index offers one; some early registers omit the child's name, so a search by the child's
@@ -296,9 +245,7 @@ volume named by the index. Maps can require direct browsing because labels are
 initials or are poorly indexed. If the original book has no usable index, specify
 a bounded image range and inspect it systematically.
 
-Ancestry's probate demonstration follows an original index to a different book
-and its underlying will. If the collection offers a separate index volume,
-browse that too; finding the index entry is the start of retrieval, not the will.
+If there is a separate probate index volume, copy its reference to the will book and printed page. Open the named book, verify its heading and locate the actual will before reporting what it says [B5].
 
 The internal-index method is described by [Lisa Louise Cooke](https://lisalouisecooke.com/2019/11/17/browse-only-records-at-ancestry/).
 Use the current viewer's available navigation; the 2019 article's screen positions
@@ -343,16 +290,7 @@ Ancestry hosts the image. Access conditions can differ between a personal accoun
 and a library edition. See [Ancestry's library guide](https://help.ancestry.com/hc/en-us/articles/53933331964691-Searching-on-Ancestry-at-a-Library-or-School)
 and [Web Records guide](https://help.ancestry.com/hc/en-us/articles/53933331868179-Finding-Records-Online-with-Ancestry-Web-Records).
 
-Use the collection title, or a hit's source citation (publication, place, year), as a search key
-for other hosts, library copies or digitized editions, and read the entry there. Record each
-host as a separate retrieval attempt with its coverage, edition and search behaviour. Shared
-underlying records remain dependent evidence: a [2022 talk](https://www.youtube.com/watch?v=o6d7Z_W_qhg)
-reports one shared 1880 U.S. census index. Duplicate hits from overlapping collections, such as
-[two Find a Grave indexes](https://www.youtube.com/watch?v=3FJKJFw0Bjo), count as one source, as
-does a second copy of the same printed page. The
-[catalog-title](https://www.youtube.com/watch?v=V2vmIxs2WjM) and
-[directory](https://www.youtube.com/watch?v=YI-rwxManbs) examples do not show how to verify that
-the editions match.
+Search other catalogues for the exact collection or publication title, place and year [B22], [S11]. Record each host, edition and search attempted. Compare the cited original page, memorial identifier or source of the index before counting independent evidence. A shared 1880 census index or two Find a Grave indexes pointing to the same memorial can return the same observation twice [S12], [S13].
 
 **Privacy gate:** <!-- privacy-gate: request --> A personnel-file inquiry sends the person's birth
 and religious names to a religious community's archive, and the person or relatives named in the
@@ -394,13 +332,7 @@ infer a parent-child relationship from household membership. Ancestry documents
 [field and person selection](https://help.ancestry.com/hc/en-us/articles/53933314225043-Adding-Records-to-a-Tree)
 and [saving a source to another person](https://help.ancestry.com/hc/en-us/articles/53933348187923-Managing-Facts-Events-and-Sources-in-Trees).
 
-In a multi-person record, select the established person's own entry before choosing the
-destination profile. Inspect the name, role and proposed age, birthplace or parent fields;
-another household member's entry can propose that member's details. Keep existing supported
-values and source associations visible while reviewing a conflict. The
-[2025 tree-cleanup demonstration](https://www.youtube.com/watch?v=TjFQv6LAjUY) shows this
-wrong-row failure; use the controls and proposed fields actually offered. This check does not
-authorize deleting other attachments or accepting an unresolved identity.
+In a multi-person record, select the subject’s own row before choosing the destination profile. Check the proposed age, birthplace and parents against that row and the existing sources. Selecting another household member can offer that member’s details for the intended person [B9]. Leave conflicting facts and unrelated attachments in place while resolving the identity.
 
 ## Find a researcher or locality helper
 
