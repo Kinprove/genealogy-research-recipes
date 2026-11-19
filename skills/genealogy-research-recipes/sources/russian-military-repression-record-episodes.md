@@ -24,12 +24,12 @@ search-engine extracts, as marked), and details those pages did not support were
   investigative cases, prisoner personal files and exile registration, the custody
   registration-card route and its destruction mark, and for asking explicitly for family details
   in an archival certificate. Also used for the arrestee questionnaire in an investigative case as
-  a list of relatives given by the arrestee.
+  a list of relatives given by the arrestee. Captured forum text read 2026-11-19.
 - **H4:** Ahnenforschung.net Forum, thread "Linktipps (allgemeine)", first post 2006-02-01,
   <https://forum.ahnenforschung.net/forum/thread/7649/>. Rights: cited
   reference, not reproduced. Used for one post's report that death certificates sent to relatives of
   people executed in Moscow in 1950–53 deliberately carried false data and could later be replaced
-  with corrected ones.
+  with corrected ones. Captured forum text read 2026-11-19.
 - **H5:** J-Roots Forum, thread "Поиск информации о репрессированном родственнике. Теория", first
   post 2010-01-04, <https://forum.j-roots.info/viewtopic.php?f=64&t=564>. Rights: cited reference,
   not reproduced. Used for the distinct criminal, administrative and filtration-check file classes
@@ -63,20 +63,20 @@ search-engine extracts, as marked), and details those pages did not support were
   2010-04-23, <https://forum.j-roots.info/viewtopic.php?f=36&t=4542>. Rights: cited reference, not
   reproduced. Used for the quoted project description that unit-level award orders after 10
   November 1942 carry the deed in the award-list row instead of a separate award sheet, and for
-  loss-report relatives columns naming a dead parent or an evacuation address.
+  loss-report relatives columns naming a dead parent or an evacuation address. Captured forum text read 2026-11-19.
 - **H6 (addition):** J-Roots Forum, thread "Базы данных \"Жертвы политических репрессий\"", first
   post 2010-01-04, <https://forum.j-roots.info/viewtopic.php?f=64&t=558>. Rights: cited reference,
   not reproduced. Also used for recording a victims' list's inclusion rule, and for the
-  Russia-centred database coverage versus Ukrainian regional rehabilitation volumes.
+  Russia-centred database coverage versus Ukrainian regional rehabilitation volumes. Captured forum text read 2026-11-19.
 - **H3 (addition):** J-Roots Forum, thread "Вопросы и обсуждения по репрессированным", first post
   2009-09-27, <https://forum.j-roots.info/viewtopic.php?f=64&t=561>. Rights: cited reference, not
   reproduced. Also used for searching the database of the republic where a case was tried when
   Russian aggregators have no entry, and for posters' reports of uneven regional loading of that
-  database.
+  database. Captured forum text read 2026-11-19.
 - **H13:** J-Roots Forum, topic 7018 (forum f=64), first post 2018-05-17,
   <https://forum.j-roots.info/viewtopic.php?f=64&t=7018>. Rights: cited reference, not reproduced.
   Used for searching both the online database and the printed regional volumes of one Ukrainian
-  repression project, and for the volumes predating file transfers.
+  repression project, and for the volumes predating file transfers. Captured forum text read 2026-11-19.
 - **H3 (addition):** J-Roots Forum, thread "Вопросы и обсуждения по репрессированным", first post
   2009-09-27, <https://forum.j-roots.info/viewtopic.php?f=64&t=561>. Rights: cited reference, not
   reproduced. Also used for posters' reports that a 1950s case review and a 1990s formal
@@ -93,11 +93,11 @@ search-engine extracts, as marked), and details those pages did not support were
   undated, <https://rodgersforum.borda.ru/?1-2-0-00001643-000-0-0-1734245901=>. Rights: cited
   reference, not reproduced. Used for a son's WWII-record next-of-kin entry giving a later address
   for a parent from a family exiled in 1933, treated as a dated residence lead separate from the
-  exile episode.
+  exile episode. Captured forum text read 2026-11-19.
 - **H3 (addition):** J-Roots Forum, thread "Вопросы и обсуждения по репрессированным", first post
   2009-09-27, <https://forum.j-roots.info/viewtopic.php?f=64&t=561>. Rights: cited reference, not
   reproduced. Also used for a child's personnel-file autobiography that reported a repressed
-  parent's death year without mentioning the arrest.
+  parent's death year without mentioning the arrest. Captured forum text read 2026-11-19.
 - **H16:** Russian Ministry of Defence, Памяти героев Великой войны 1914–1918,
   [Как искать](https://gwar.mil.ru/note/), seen 2026-11-02 in search-engine extracts (the live
   page failed TLS). Used for: the help's two search groups, 'Основные данные' and 'Место
@@ -442,16 +442,16 @@ H122, H124, H125, H127, H131 and H133 are posts on the Dzen channels «Сыщи�
 - **H121:** Нумизмат, [«Георгиевские кавалеры»](https://www.numismat.ru/gkcatalogs.shtml), read 2026-11-15. Used for: S. B. Patrikeev's consolidated lists of St George Cross holders for 1914–1922, over 900,000 names, as PDF volumes by class and cross-number range; and the site's name search for WWI holders covering six regiments.
 - **H122:** Dzen channel «Сыщик рода», [«Поиск предка - героя Первой мировой войны онлайн»](https://dzen.ru/a/ZPMYGBw3SVbHOje7), published 2023-09-02, read 2026-11-15 from a captured copy. Used for: the СВРТ loss lists, погибшие.рф and numismat.ru listed beside GWAR as WWI sites. The погибшие.рф address did not resolve on 2026-11-15 and is not used.
 - **H123:** Российская государственная библиотека, [catalogue record 01004169941](https://search.rsl.ru/ru/record/01004169941), read 2026-11-15. Used for: «Список сестер милосердия Российскаго общества Краснаго Креста, назначенных для ухода за ранеными и больными воинами в лечебныя учреждения Краснаго Креста, военнаго ведомства, общественных организаций и частных лиц», compiled from the Main Directorate's records as of 1 August 1915, Petrograd 1915, XVI and 924 pages, in the library's open digital collection.
-- **H124:** Dzen channel «Генеалогия, или Как я встретил вашу маму», [a post on a Yaroslavl guberniya family](https://dzen.ru/a/Z6WfWMCfCHkVESob), published 2025-02-07, read 2026-11-15 from a captured copy. Used for: a Pamyat Naroda search that failed with the remembered town of birth and succeeded without it; the card's birth village in the town's district; and the birth found in that village's metrical books.
+- **H124:** Dzen channel «Генеалогия, или Как я встретил вашу маму», [a post on a Yaroslavl guberniya family](https://dzen.ru/a/Z6WfWMCfCHkVESob), published 2025-02-07, read 2026-11-15 from a captured copy. Used for: a Pamyat Naroda search that failed with the remembered town of birth and succeeded without it; the card's birth village in the town's district; and the birth found in that village's metrical books. Captured article read 2026-11-19. The post identifies Gorodishche in Pereslavl district and describes finding the birth in the metrical books.
 - **H125:** Dzen channel «Поиск предков: Тульская губерния», [a post on seven generations of a family from Plavsk district](https://dzen.ru/a/YEHoNBvUygUId35C), published 2024-01-11, read 2026-11-15 from a captured copy. Used for: a birth village taken from award documents of 1944–1945, and two other veterans born in that village, found through Pamyat Naroda and identified by the researcher as the woman's brother and uncle.
 - **H126:** Музейный комплекс «Дорога памяти», [home page](https://1418museum.ru/), read 2026-11-15 together with its search results and a participant card. Used for: 36,031,044 participant cards counted on the home page; cards giving name variants, birth date, rank, birthplace and call-up date with a field for the death date; user-sent information checked before publication; and new cards added only through the «Сохранить участника ВОВ» form.
 - **H127:** Dzen channel «Генеалогия, или Как я встретил вашу маму», [a post identifying a family photograph](https://dzen.ru/a/Z71HJM0bXGfe19gN), published 2025-02-25, read 2026-11-15 from a captured copy. Used for: a web search on a full name reaching the man's pages on Pamyat Naroda and «Дорога памяти» with a wartime photograph, birth date and place; and his death year from «Дорога памяти» used to date a captioned funeral photograph.
 - **H128:** Arolsen Archives, [«International Holocaust Remembrance Day: Milestone for the Online Archive»](https://arolsen-archives.org/en/press-releases/international-holocaust-remembrance-day-milestone-for-the-online-archive/), press release of 26 January 2026, read 2026-11-15. Used for: over eight million names from concentration-camp lists fully indexed with Ancestry; free at ancestry.com/alwaysremember with no paid subscription; and integration into Arolsen's online archive by 2027.
 - **H129:** Arolsen Archives e-Guide, [«Background information on concentration camp documents»](https://eguide.arolsen-archives.org/en/additional-resources/background-information-on-concentration-camp-documents/), read 2026-11-15. Used for: names spelled differently on different documents for the same person, because prisoner clerks recorded names quickly and often only by ear.
 - **H130:** ProQuest, [Ancestry Library Edition: search tips](https://proquest.libguides.com/ancestrylibraryedition/tips), read 2026-11-15. Used for: the asterisk as a wildcard for zero or more characters and the question mark for one character.
-- **H131:** Dzen channel «Поиск предков: Тульская губерния», [«От Тулы до Бухенвальда: восстанавливаем судьбу красноармейца»](https://dzen.ru/a/afy9qULsvj1TDBGj), published 2026-05-08, read 2026-11-15 from a captured copy. Used for: two given-name and seven surname spellings of one prisoner in the Arolsen documents; the Arolsen site's own search described as unreliable; the Ancestry search with asterisks and a birthplace filter; and the camp personal card's village birthplace leading to the parents in that parish's books.
+- **H131:** Dzen channel «Поиск предков: Тульская губерния», [«От Тулы до Бухенвальда: восстанавливаем судьбу красноармейца»](https://dzen.ru/a/afy9qULsvj1TDBGj), published 2026-05-08, read 2026-11-15 from a captured copy. Used for: two given-name and seven surname spellings of one prisoner in the Arolsen documents; the Arolsen site's own search described as unreliable; the Ancestry search with asterisks and a birthplace filter; and the camp personal card's village birthplace leading to the parents in that parish's books. Captured article read 2026-11-19. The search example distinguishes the Soviet birthplace/residence field giving Tula from the village in the camp card and describes the search in Romanovo parish.
 - **H132:** Елена Васильева, VK, [«3.2 Личная судьба бойца: документы о потерях и не только»](https://m.vk.ru/@lenakotka-32-lichnaya-sudba-boica-dokumenty-o-poteryah-i-ne-tolko), dated 9 May 2020, from her 2019 course on tracing a soldier's war path in open sources, read 2026-11-15. Used for: front-line loss reports set against the post-war household-survey sheets of district commissariats, titled as name lists of servicemen whose families had lost contact with them; the sheets giving the month of the last letter, the break in contact or the death notice, sometimes the last letter's field-post number, and more often only an approximate period; and downloading the first page to tell them apart.
-- **H133:** Dzen channel «Генеалогия, или Как я встретил вашу маму», [«Герои моей семьи. Великая Отечественная Война.»](https://dzen.ru/a/aCA84CoX8VCYbBXR), published 2026-05-10, read 2026-11-15 from a captured copy. Used for: a loss document recording a man missing in January 1942 whose last letter, of 4 November 1941, was written on the road.
+- **H133:** Dzen channel «Генеалогия, или Как я встретил вашу маму», [«Герои моей семьи. Великая Отечественная Война.»](https://dzen.ru/a/aCA84CoX8VCYbBXR), published 2026-05-10, read 2026-11-15 from a captured copy. Used for: a loss document recording a man missing in January 1942 whose last letter, of 4 November 1941, was written on the road. Captured article read 2026-11-19. The post explicitly distinguishes the last letter in November 1941 from the report of disappearance in January 1942.
 
 - **H134:** Stiftung Sächsische Gedenkstätten, Dokumentationsstelle Dresden, [Информация о базе данных о гражданах бывшего СССР](https://ru.stsg.de/cms/dokstelle/content/vydacha-spravok/grazhdane-sssr/grazhdane-sssr), read 2026-11-16. Used for: the stated enquiry remit from 2017, referral outside Saxony and the PA address printed there. The page's geographical description is attributed, not a verified equivalence between historical and modern boundaries.
 
@@ -461,7 +461,7 @@ H122, H124, H125, H127, H131 and H133 are posts on the Dzen channels «Сыщи�
 
 H136, H137, H139, H141, H143, H144 and H146 are posts on the Dzen channel «История одной семьи. Юлия Новожилова», read on 2026-11-15 from copies captured that day, without their images. They report the author's own family searches and apply only to the cases they describe. The other sources were opened on 2026-11-16; gwar.mil.ru failed TLS that day, so nothing about GWAR's card types rests on the site itself.
 
-- **H136:** Dzen channel «История одной семьи. Юлия Новожилова», [«Нашла прадеда спустя 7 лет поисков!»](https://dzen.ru/a/X3N1sqS1XxqRV_1O), published 2020-10-01, read 2026-11-15 from a captured copy. Used for: a unit's name list on Pamyat Naroda whose documents were at TsAMO, not on the site; its «выбыл из части» date of 19 October 1942 against other documents giving August; and the family's memory of a death soon after call-up.
+- **H136:** Dzen channel «История одной семьи. Юлия Новожилова», [«Нашла прадеда спустя 7 лет поисков!»](https://dzen.ru/a/X3N1sqS1XxqRV_1O), published 2020-10-01, read 2026-11-15 from a captured copy. Used for: a unit's name list on Pamyat Naroda whose documents were at TsAMO, not on the site; its «выбыл из части» date of 19 October 1942 against other documents giving August; and the family's memory of a death soon after call-up. Captured article read 2026-11-19. The list’s removal date and the different month in other documents are reported separately.
 - **H137:** Dzen channel «История одной семьи. Юлия Новожилова», [«Новые документы на сайте "Память народа"»](https://dzen.ru/a/XqsecXF0mgpNHF4G), published 2020-04-30, read 2026-11-15 from a captured copy. Used for: political workers' personal cards and officers' record cards shown with a storage place but no image.
 - **H138:** E1.RU, [«Что делал на фронте мой дед? Рассказываем, как узнать судьбу ветерана Великой Отечественной войны»](https://www.e1.ru/text/family/2026/05/07/76406254/), 7 May 2026, read 2026-11-16. Used for: far from all surviving documents on Pamyat Naroda; officers' service record cards long digitised but not open online; and TsAMO requests through a form on its website, with payment for the result.
 - **H139:** Dzen channel «История одной семьи. Юлия Новожилова», [«Запросы о партийных документах моего прадеда»](https://dzen.ru/a/X2tZlELC-UK-Icvm), published 2020-09-25, read 2026-11-15 from a captured copy. Used for: party membership learnt from Pamyat Naroda documents before party papers were found in the family.

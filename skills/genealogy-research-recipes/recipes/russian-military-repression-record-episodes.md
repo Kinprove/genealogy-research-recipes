@@ -83,8 +83,7 @@ or birth, religion and the place of the battle. [H144] Open every card type a se
 man, not only the first. To find relatives, search the surname with the guberniya, uezd or volost of
 residence or call-up and vary the combinations; a guide advises adding the patronymic and the volost
 for a common surname, and warns that each added field can lose a record whose name or place was
-written wrongly. [H145] Treat the men from the ancestral place as candidate relatives, as the
-genealogist did, and link them only through parish or household records. [H144]
+written wrongly [H145]. Use a namesake from the same place as a parish or household-record search lead. Establish the relationship there [H144].
 
 Beyond GWAR, search two name lists for lower ranks and award holders, which a 2023 Dzen guide lists
 among its WWI sites. [H122 @2026-11-15] The СВРТ database (1914.svrt.ru) is built from the published
@@ -121,8 +120,7 @@ or place and no surname, then filter locally. Flag hits on commonly confused nam
 identity check. Use the same tactics on GWAR or memory books only after reading their own search
 help. [H24]
 
-Search Pamyat Naroda (pamyat-naroda.ru) in Russian. In FamilySearch's example, «Иванов» returned
-over 950,000 results and "Ivanov" none. [H75 @2026-11-12] Do not treat it as a loss and award database only:
+Search Pamyat Naroda (pamyat-naroda.ru) using Cyrillic name variants. In a dated FamilySearch demonstration, Иванов returned matches where the Latin spelling Ivanov returned none [H75 @2026-11-12]. Include the following record types:
 it also holds conscription and demobilisation records from enlistment offices, navy and officer
 card files, burial details and loss and POW documents [H76 @2026-11-12], and Vera Miller reports added card
 indexes of partisan-movement participants, seamen's card files, burial lists and funeral notices
@@ -133,23 +131,13 @@ expect the village to be spelled several ways and placed under more than one rai
 documents are loaded periodically, so repeat a failed search after an update. [H77 @2026-11-12] Search women
 and people who were teenagers during the war as well, as Miller advises. [H80 @2026-11-12]
 
-Do not keep a family-remembered birthplace in a Pamyat Naroda search that returns nothing. Drop the
-place, search the name with the birth year, and take the birthplace from the soldier's card. In one
-family's case the card gave a village in the district of the town the family remembered, and that
-village's metrical books held the birth. [H124] Then search the card's birth village, or its raion,
-for everyone born there. In a Tula-region case, award records of 1944–1945 gave a woman's birth
-village, and the same site listed two other veterans born in that village, whom the researcher
-identified as her brother and uncle. [H125] Treat such natives, even under the same surname, as
-candidate relatives until parish or household records connect them.
+If the remembered birthplace yields no match, search by name and birth year alone. A serviceman remembered as born in Pereslavl-Zalessky gave Gorodishche in its district as his birthplace. The researcher found his birth in the village’s metrical books [H124]. Copy the place from the original record, then search for other natives of that village and raion. In a Tula-region search the starting place was Kobylinka, named in a woman’s 1944–1945 award papers [H125]. Use a shared village and surname as leads to parish or household records that can establish kinship.
 
 Also search «Дорога памяти» (1418museum.ru), the database of the museum complex of that name: on
 2026-11-15 its home page counted 36,031,044 participant cards, and its search returned cards with
 name variants, birth date, rank, birthplace and call-up date and a field for the death date. The
 site says that information sent by users is checked before publication and that new cards come
-only through its «Сохранить участника ВОВ» form. [H126 @2026-11-15] In one family's search, a web
-search on a husband's full name led to his pages on Pamyat Naroda and «Дорога памяти», with a
-wartime photograph, his birth date and place, and a death year that dated an undated photograph
-of his funeral. [H127 @2026-11-15] Grade a death date or photograph there as family-supplied unless
+only through its «Сохранить участника ВОВ» form [H126 @2026-11-15]. Compare a memorial card’s death year with a captioned but undated funeral photograph. One family used the card to assign a year to the picture [H127 @2026-11-15]. Grade a death date or photograph there as family-supplied unless
 the card names a document, and bound a photograph's date as in
 [family-photograph attribution and dating](family-photograph-attribution-and-dating.md#turn-every-other-date-clue-into-a-bound).
 
@@ -219,12 +207,7 @@ so one man's documents can carry several spellings. [H129 @2026-11-15] Search ev
 Ancestry's wildcards where German clerks varied the spelling: a question mark stands for one
 character and an asterisk for several [H130 @2026-11-15], but Ancestry's own help pages state
 different limits, one allowing an asterisk only zero to five characters, so follow the conservative
-rules in [Ancestry record search recovery, step 8](ancestry-record-search-recovery.md#8-use-wildcards-for-a-specific-spelling-uncertainty). A Tula-region researcher found one soldier's
-Buchenwald records under two forms of the given name (Wasil, Wasilij) and seven of the surname,
-which varied as -zk-, -ck- or -tz- and as Bel- or Bjel-, and filtered by place of birth; his
-personal card in the camp file gave a village birthplace more exact than the "Tula" on his Pamyat
-Naroda record, and that village's parish books named his parents. [H131 @2026-11-15] Open each hit's image on the Arolsen
-site before you read it; an index row is not the document.
+rules in [Ancestry record search recovery, step 8](ancestry-record-search-recovery.md#8-use-wildcards-for-a-specific-spelling-uncertainty). In one Buchenwald file search, Wasil/Wasilij and seven surname spellings included the variants Bel-/Bjel- and -zk-/-ck-/-tz-. The camp card gave Belolipetskoye (Belolipki) where the Soviet record gave Tula, and the researcher located the parents in the Romanovo parish books [H131 @2026-11-15]. Open the camp-card image for the actual birthplace before choosing a parish.
 
 For a Soviet prisoner who died in Finnish captivity, do not send the user to the National Archives
 of Finland's former online database: the archive's Arkistojen Portti page says the database closed
@@ -270,18 +253,7 @@ alphabetical card index of them; that of op. 2 covers the forced mobilisation of
 for work in Germany. [H116 @2026-11-13], [H117 @2026-11-13], [H118 @2026-11-13] These are inventory
 annotations, not file titles: find the file in the inventory before you cite it.
 
-For a repression lead, record each list's or database's stated inclusion rule and geography
-before reading a miss. Posters in a [repression-databases discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=558)
-note that a Magadan list covers only people given a second sentence in the camps and shot there,
-and that the Memorial database mainly covers Russia, without a Ukrainian regional series of
-rehabilitation volumes. In the [repression-records discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=561),
-for a person absent from Russian databases, a possible match under a different given name appears
-in the "Stalin lists" and in a Ukrainian database under that republic's code; posters call its
-regional loading uneven. A [Ukrainian repression-lists discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=7018)
-reports that one project's online database and printed volumes differ, and that the volumes
-predate many file transfers, so they do not identify the present custodian. Search the trial
-republic's database and volumes, recording each result separately. A miss is absence from that set
-only; these posts describe past coverage without measuring it.
+Record each repression list’s inclusion rule and the territory searched. The reported Magadan list covers a second conviction in the camps followed by execution there [H6-addition-1]. After a miss, check the republic where the case was tried. A discussion identifies a possible candidate under a different given name in the Stalin lists and a Ukrainian index [H3-addition-1]. Compare identifiers and case details before linking the entries. Search the regional rehabilitation volumes as well as the online list. Contributors reported differences between them and later file transfers [H13]. Use the volume’s archival reference to inquire about the file’s present holder.
 
 For Soviet Ukraine, the trial republic's own database is the State Archival Service's «Український
 мартиролог ХХ століття» (Ukrainian Martyrology of the 20th Century), on the Service's portal. It
@@ -444,9 +416,7 @@ after the war, as name lists of servicemen whose families had lost contact with 
 date, place and circumstances of death they give what reached the family: the month of the last
 letter, when contact broke off, when a death notice came, and sometimes the last letter's field-post
 number, which can identify the last unit; more often only an approximate period while the man was
-still in touch. [H132] In one family's loss document, a man reported missing in January 1942 had
-last written on 4 November 1941, while on the road. [H133] Record such a date as the family's last
-contact: it shows he was alive when he wrote, and it does not date or place the loss.
+still in touch [H132]. A loss report gives the last letter as 4 November 1941 and the missing date as January 1942 [H133]. Enter the letter as last known contact. Seek a separate record for when and where the loss occurred.
 
 If a family assumes a missing WWII relative died when their hometown was destroyed, keep that
 place of death unconfirmed. When Soviet military service is plausible, look for a field-hospital
@@ -496,23 +466,13 @@ record group, not only the first hit.
 
 Read the party-membership field (партийность) of an award sheet. The standard form has it beside the
 year of birth and nationality, with entries such as «член ВКП(б) с 1940 г.», «кандидат ВКП(б)», «чл.
-ВЛКСМ» or «беспартийный» («б/п»), though some sheets lack it. [H140] A genealogist learnt from
-Pamyat Naroda documents that a forebear had been a party member before any party papers turned up in
-the family. [H139] Take a member or candidate to the party files in [Soviet personal file
-recovery](soviet-personal-file-recovery.md#3-route-each-institution-to-its-series-and-present-custodian).
+ВЛКСМ» or «беспартийный» («б/п»), though some sheets lack it [H140]. Use the exact affiliation and any admission date to search party records even when family papers contain no membership card [H139]. See [Soviet personal-file recovery](soviet-personal-file-recovery.md#3-route-each-institution-to-its-series-and-present-custodian).
 
 **Privacy gate:** <!-- privacy-gate: request --> A TsAMO request for a document known only by its
 locator asks for a serviceman's records and names the family asking; answer the privacy gate in
 `SKILL.md` first.
 
-A Pamyat Naroda entry can give a document's storage place («место хранения»: archive, fond, opis,
-delo) without showing its image. A genealogist met this with political workers' personal cards and
-officers' record cards, and with a unit's name list whose documents were at TsAMO, not on the site.
-[H137], [H136] Copy the locator exactly and recheck the page later. Keep each date with its
-document: in that case the unit's list gave «выбыл из части» on 19 October 1942, other documents
-gave August, and the family remembered a death soon after call-up. [H136] Record «выбыл из части» as
-the date he left the unit's strength, not as a death date, and do not replace a later document date
-with the earliest one.
+When a record card or unit list gives only «место хранения», copy its archive, fond, opis and delo for a request or later image check. Researchers describe this for political workers’ and officers’ cards and a unit list held at TsAMO [H137], [H136]. Keep dates tied to documents. One unit list gave «выбыл из части» on 19 October 1942, while other records gave August [H136]. A removal from the unit’s strength does not date a death.
 
 A May 2026 article says that far from all surviving documents are on Pamyat Naroda, that officers'
 service record cards, though long digitised, are still not open online, and that TsAMO takes
@@ -527,12 +487,7 @@ and Navy awards stopped in 1956. [H27], [H28], [H29] A decree or order titled '�
 (for long service) marks these awards. [H28] Before writing a combat narrative for such an award
 to a career serviceman, find the title and date of the awarding decree or order.
 
-Treat a loss report's residence/relatives column as an entry whose informant and date are unknown.
-In an [OBD/Pamyat Naroda discussion](https://forum.j-roots.info/viewtopic.php?f=36&t=4542), one
-report names a father who had died years before call-up. Another poster says the relatives column
-often gives the family's evacuation address. Do not infer from this column that the relative was
-alive or where the family lived before the war; seek civil or prewar residence records. The
-posters could not say how the column was filled in.
+Identify who supplied the next-of-kin entry and when, if the loss report says. One report named a father who had died before the call-up. A contributor also describes evacuation addresses in that column [H12]. Record the literal entry and check civil records for the relative’s life dates and prewar records for residence.
 
 A casualty compilation can list the wounded beside the dead, and a database built from it
 can enter the out-of-action date in a field labelled as death. Record the compilation's own
@@ -546,18 +501,7 @@ persecuted more than once, and can acquire OCR or field-placement errors during 
 Thus different dates can describe successive events, duplicates or a collision of identities;
 the date difference alone does not select among them. [H2]
 
-A death certificate issued to relatives of an executed or repressed person is a separate
-administrative document. It is not the record of the event. Record its issue date, issuer and its
-stated date, place and cause apart from the sentence and any execution record. A later corrected
-certificate is a further episode. A [repression-records discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=561)
-relays a poster's account that relatives of people sentenced to death in 1937–38 were told of
-ten-year camp terms without correspondence and later given fictitious natural-cause certificates.
-A [publication notice](https://forum.ahnenforschung.net/forum/thread/7649/)
-reports deliberately false certificates for people executed in Moscow in 1950–53. Rehabilitation
-wording saying that relatives were not found or whereabouts are unknown records an inquiry, and an
-early case termination does not establish death: the repression-records discussion reports a release after one.
-Not every certificate is false, and neither thread offers a test. Seek decision, execution,
-custody or later-residence records before closing the life interval.
+Keep a death certificate issued to relatives separate from the sentence, custody and execution records. Record its issue date, issuer, stated cause and date of death, and any later correction. Accounts cited for executions in 1937–38 [H3] and Moscow in 1950–53 [H4] report certificates with false particulars. Establish the individual’s fate from the case and corroborating records. An unsuccessful inquiry about relatives does not date a death. A reported release after a case was terminated shows why the termination alone does not settle the person’s fate [H3].
 
 A KGB note to the CPSU Central Committee of 25 December 1962 (No. 3265-с) documents the
 false-certificate practice described above for one group. Under KGB instruction No. 108сс of 1955,
@@ -597,11 +541,7 @@ pages can name living relatives; keep their details out of shared output.
 memorial page reaches a living person and says which soldier and family you research; answer the
 privacy gate in `SKILL.md` first.
 
-Search these sites for the pages of men from the same unit (однополчане) as well as for the
-relative's own. A genealogist found pages for fellow soldiers of two relatives, reached their
-descendants and received several documents about the relatives. [H143] A news report on the online
-procession of 9 May 2026 describes the same use of the movement's site: contacting the descendants
-of fellow soldiers to find documents or photos that others hold and the family does not. [H148]
+Search memorial pages for identified members of the same unit (однополчане). A fellow soldier’s descendants may hold photographs or documents naming others who served with him [H143], [H148].
 Contact a page's keeper only when the user asks, and only through the portal's own contact route, as
 in [repository photograph collection search](repository-photograph-collection-search.md).
 
@@ -723,17 +663,7 @@ motivate this. Absence from repression lists does not show that a person was nev
 died naturally. None of these sources establishes a later fate, or a relative's identity without
 documented descriptors.
 
-Records made by the target's children can carry dated statements about a parent. A son's WWII
-entry on Pamyat Naroda may name a parent as next of kin at a later, distant address; a
-[descendant-search example](https://rodgersforum.borda.ru/?1-2-0-00001643-000-0-0-1734245901=)
-found this for a family exiled in 1933. A child's personnel file with an employer or education
-department may hold an autobiography giving a parent's occupation and death year; a
-[repression-records discussion](https://forum.j-roots.info/viewtopic.php?f=64&t=561) shows one
-that gave only a death year for a parent who had been arrested. Record each as the writer's
-statement at its own date, a separate episode, and use it to search that place's lists or arrest
-and decision records. Without matching descriptors it does not prove the parent's identity. It
-does not show when or how the family left exile, and a stated death year does not establish the
-date or cause of death; the wording may be guarded.
+Check records created by the children for dated statements about a parent. A son’s wartime next-of-kin entry can give a family address after a reported 1933 family exile. Seek the exile order before reconstructing any move [H15]. A daughter’s personnel-file autobiography at a district education office gave her father’s occupation and a death year of 1938, without mentioning his arrest [H3-addition-4]. Record the daughter as the informant and seek the arrest, decision and death records separately. Neither entry dates the family’s departure from exile.
 
 When a report wrapper explicitly describes attached family correspondence, continue to the
 actual letter and envelope within the available unit. Keep their separate locators, writer,
