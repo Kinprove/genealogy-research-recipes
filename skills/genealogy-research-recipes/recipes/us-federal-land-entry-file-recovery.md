@@ -56,9 +56,9 @@ A further caution for Ohio: its northeastern counties in the Connecticut Western
 
 ## 1. Route the entry by authority
 
-Start an entry-routing row for each GLO hit. Record the authority (military warrant, cash sale, homestead or another act), the act year, the acreage, the Document Nr. and the Accession Nr. as separate labelled fields, any warrant number, the land office and the legal description. The authority field classifies the entry. A military-warrant authority means the entry was not a cash sale or a homestead. In the Strauss example, the GLO detail showed a military warrant entry of 160 acres, file number 36643, under the bounty-land act of 1855. [S1]
+Start a row for each GLO hit. Copy the authority, act year, acreage, warrant number, land office and legal description. Keep the Document Nr. and Accession Nr. in separate fields. Use the stated authority to distinguish a military warrant from a cash sale or homestead [S1], [S39].
 
-If you have a pension or bounty-land index card, compare its BLWT number with the GLO hit. A BLWT number has three parts in this order: warrant/file number, acreage and act year (for example 36643-160-55). In Strauss's example all three matched the patent record. [S1] If any one part fails to match, treat the patent as belonging to a different warrant or person until you can explain the difference.
+Match the three parts of the bounty-land number on a pension or warrant index card against the entry. For example, 36643-160-55 means warrant 36643, 160 acres, Act of 1855 [S1]. The warrant number, acreage and authorizing act together identify the surrendered warrant [S39]. If a field differs, retain both references until you can explain the discrepancy.
 
 On a War of 1812 pension envelope, check the upper right corner for bounty-land notes and keep them separate from the pension file number [S38]. According to the presenter, use the bounty-land certificate numbers to search GLO [S37†]. Run a separate search for each warrant and confirm matches by warrant number, acreage awarded and act [S39].
 
@@ -83,9 +83,9 @@ Do not stop a military-bounty warrant search in the veteran’s home state. Once
 
 Keep one row per person, with the role that person plays: veteran; widow or heir who applied; assignee; locator/enterer; patentee. Record names exactly as each document gives them.
 
-- **Same-name patentees:** separate them by the spouse listed with each entry. In Strauss's search, three entries under one name split into two couples with different wives, and only one couple matched the veteran's widow. [S1]
-- **Assignment:** the Act of 1852 made warrants assignable. Brokers and speculators traded them, and newspapers quoted their prices. [S9], [S10], [S8] In the Strauss example, the widow assigned the warrant to a man whose relationship to the family is unknown. His name appears on the GLO page, and her signed assignment is on the back of the original warrant. [S1] Another presenter found that a War of 1812 veteran's bounty land went to someone else several years after the award. [S13]
-- **Long delay:** a warrant could be entered long after it was issued, so the locator's entry date dates neither the veteran's service nor the assignment. Tanner gives an extreme case from his own experience: a 1930s entry in Davis County, Utah, made with a War of 1812 warrant. This anecdote has not been independently confirmed. [S8], [S10]
+- **Namesakes.** Compare each spouse named in the entries with the pension or warrant application. Strauss distinguished two Noah Damons by their wives, Esther and Elizabeth [S1]. Keep separate candidates when the spouse or warrant details conflict.
+- **Assignment.** The Act of 22 March 1852 allowed federal military bounty-land warrants to pass by written assignment [S46]. Read the patent for the assignee, then inspect both sides of the surrendered warrant for the assignor’s name, signature or mark. Strauss reported finding Esther Damon’s signed assignment to Samuel Rice on the back of the warrant [S1]. Record what transferred and look elsewhere for any family relationship.
+- **Long delay.** Date the award, assignment and entry separately. Tanner described a War of 1812 warrant used in a 1930s purchase in Davis County, Utah [S10]. If an entry falls far outside the service period, trace the warrant through its successive holders before identifying the locator [S8], [S9], [S13].
 
 A warrant-based entry does not show that the locator served, was related to the veteran, or lived in the area when the warrant was issued. Treat any assignee as a separate identity question, and send kinship questions to evidence/proof judgment.
 
@@ -102,7 +102,7 @@ First check whether NARA publishes a name index to cancelled, rejected or relinq
 If no index covers the office and period, or it has no hit, get a section-township-range description from one of these:
 
 - **Newspaper legal notices:** final-proof (intent-to-prove) notices, contests and patent-ready notices, usually in the county's official paper. Final-proof notices ran weekly for several weeks so that adverse claimants could come forward. [S7], [S3] Search for them with the [newspaper recovery recipe](newspapers-com-search-recovery.md). A contest notice points to a disputed entry. It does not show that the claim failed. [S7]
-- **A GLO location search** on that description. In Smith's Kansas example, the claimant was missing from the patentees in his section, yet his entry fit "with no conflict". The gap was itself the clue. [S3] The GLO site also has survey plats, field notes and land status records (Master Title Plats) for that location. [S4]
+- **Neighbouring patents and survey records.** Plot the completed patents around the legal description, then compare the survey plat and field notes [S4], [S23]. A gap consistent with the claimant’s tract is a lead for a tract-book search [S3]. The gap alone cannot identify who entered it.
 - **A census civil township**, converted to township and range with a historical county atlas. [S3]
 
 In Ohio, identify the survey or land division before interpreting a township/range description. The state contains several systems with different numbering; the Virginia Military District uses metes and bounds. Use the Ohio History Connection land-division guide and a period map to select the system, then copy the description in that system instead of forcing every Ohio parcel into one rectangular grid. [S26], [S27], [S28]
@@ -111,10 +111,10 @@ In Ohio, identify the survey or land division before interpreting a township/ran
 
 Tract books record every transaction on a tract until the government transfers title, including unsuccessful entries. Later transfers are in county deed records. [S3]
 
-1. Use the tract-book coverage table on the FamilySearch wiki to choose the state or territory and the volume. If the table lists several candidate volumes, browse all of them and expect to search. In Smith's Dakota example, the volume the table gave and the volume where the entry turned up were different (as narrated). [S3]
-2. Log every entry on the tract in order, with its file number and any cancellation or relinquishment notation. In Smith's first example the person was the fourth claimant on one homestead. [S3]
-3. Read several pages before and after the hit. Smith found a second, cancelled claim by the same man this way, under a different file number. That is a second case file to request. [S3]
-4. Note relatives and associates on nearby tracts. Smith found two brothers-in-law close by. Their application file numbers were in the tract book even though they later left. [S3]
+1. Select possible tract-book volumes from the coverage table for the state or territory, township and range. Check the volume’s own coverage and search neighbouring volumes if needed. In Smith’s Dakota example the table pointed to volume 159, but she reported finding the entry in volume 154 [S3].
+2. Log the successive claimants on the same tract. Copy each file number and any cancellation or relinquishment notation [S3].
+3. Read several pages on either side for other entries by the same claimant. Smith reported finding a cancelled Kansas claim under a different file number from the man’s completed homestead [S3]. Request the files separately.
+4. Copy entries and application numbers for known associates on nearby tracts, including abandoned claims. Use the applications to test the association and later records to establish where the claimants went [S3].
 
 ## 6. Decide whether a no-description search is worth running
 
@@ -139,7 +139,7 @@ Inventory the file one document at a time instead of summarizing it. Contents va
 - Naturalization papers. The 1862 Homestead Act let citizens and people who had filed a declaration of intention make an entry, but citizenship was required by final proof. That makes a declaration or a citizenship certificate a likely item in the packet. [S6] If it names a court, look for the declaration or petition in that court. [S6] Take the court lead to [U.S. immigration search recovery](usa-immigration-search-recovery.md).
 - For warrant entries: the surrendered warrant and any signed assignment on its back. [S1]
 
-- The application or entry date. The patent ends an entry, and the case file can show when it began, often years earlier. Diana Elder found Arkansas patent applications dated four to six years before the earlier patents and two years before the later ones, and used an 1838 application as the earliest date for the man in the county [S18]. Do not read a homestead entry date as the start of residence: a homesteader had six months after filing to take up residence, and at final proof the witnesses testified when actual residence began [S24]. Title came after five years on the land, or after six months' residence and a cash payment [S19]. For any entry, record the entry date as a dated dealing with the land, not as proof that the person lived there.
+- Record the application, proof and patent dates separately. Elder reported an 1838 application that preceded an Arkansas patent and supplied an earlier dated dealing with the land [S18]. For an 1862 Act homestead, check the claimant’s and witnesses’ final proof for the date residence began. The rules allowed time to settle after filing, and the route to title could involve five years on the land or a shorter residence followed by cash payment [S24], [S19].
 
 When a homestead claimant sought military-service credit toward the residence requirement, check the case file for service papers. Carry any recorded unit and service dates into the military-record search. [S29], [S30]
 
@@ -151,7 +151,7 @@ Each item is a lead with its own locator. A name or place of origin given in a l
 
 ## 8. Optional: neighbouring patentees as FAN candidates
 
-Run a GLO location search on the entry's township and range, and on the adjacent sections (each about one square mile), to list nearby patentees. [S11] Treat them as candidates for the friends, associates and neighbours (FAN) cluster, not as residents. The presenter's own ancestor owned land in Minnesota as a speculator and never lived there. [S11]
+Use the township, range and adjacent sections to identify nearby patentees [S11]. Put them on a list of possible associates. A patentee could own land from a distance, so check tax, census, deed or case-file evidence for residence before calling anyone a neighbour [S11].
 
 ## Return packet
 
