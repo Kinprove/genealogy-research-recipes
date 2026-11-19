@@ -821,7 +821,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [institutional-patient-record-recovery](provenance/institutional-patient-record-recovery.yml) | 12 | 13 | 2 | — |
 | [interpreting-ancestry-composition-estimates](provenance/interpreting-ancestry-composition-estimates.yml) | 0 | 0 | 0 | — |
 | [irish-1901-1911-census-returns](provenance/irish-1901-1911-census-returns.yml) | 32 | 9 | 0 | — |
-| [irish-catholic-parish-image-recovery](provenance/irish-catholic-parish-image-recovery.yml) | 11 | 19 | 1 | — |
+| [irish-catholic-parish-image-recovery](provenance/irish-catholic-parish-image-recovery.yml) | 6 | 16 | 1 | — |
 | [irish-civil-registration-jurisdiction-recovery](provenance/irish-civil-registration-jurisdiction-recovery.yml) | 9 | 17 | 2 | — |
 | [irish-emigrant-origin-locality](provenance/irish-emigrant-origin-locality.yml) | 19 | 5 | 0 | — |
 | [irish-land-valuation-occupancy-series](provenance/irish-land-valuation-occupancy-series.yml) | 13 | 5 | 0 | — |

@@ -10,21 +10,21 @@ screenshots, index entries and real family examples are not reproduced.
 
 - **P1:** Vaughn Johnson, *Catholic Church Records In Ireland*, uploaded 2022-04-06 —
   [class](https://www.youtube.com/watch?v=agqov8pwbTY). Transcription → NLI parish image,
-  event/year/month narrowing and comparison with the original.
+  event/year/month narrowing and comparison with the original. Preserved class transcript read 2026-11-19 for Smith and Smyth in the February 1853 baptism example; no independent register image comparison was made.
 - **P2:** Family Locket, *Citing Irish Databases with Images*, published 2024-10-17 —
   [tutorial](https://www.youtube.com/watch?v=6_gpKNjpxcw). Different transcript/image link
-  destinations, event-date distinction and register/page metadata.
+  destinations, event-date distinction and register/page metadata. Preserved class transcript read 2026-11-19 for the estimated birth and recorded baptism date for Molahiffe; no independent register image comparison was made.
 - **P3:** Ancestry UK, *Understanding the Irish Catholic Parish Registers*, BTOP 2016,
   uploaded 2016-11-17 — [presentation](https://www.youtube.com/watch?v=Is_TuCW4u9E).
-  Diocese/parish/event-volume browsing and earlier neighboring parish coverage.
+  Diocese/parish/event-volume browsing and earlier neighboring parish coverage. Preserved class transcript read 2026-11-19 for the post-1850 parish split and the earlier neighboring register; no independent register image comparison was made.
 - **P4:** Vaughn Johnson (BYU Family History Library), *Irish Church Records*, published
   2022-04-13 — [class](https://www.youtube.com/watch?v=I0K7KFvOCZ8). Alternative parish names on
   the NLI parish page, separate English/Latin given-name searches, and Ancestry/Findmypast versus
-  RootsIreland transcriptions.
+  RootsIreland transcriptions. Preserved class transcript read 2026-11-19 for Martin’s unrecorded surname and the shared index; no independent register image comparison was made.
 - **P5:** Lisa Lisson, *Traveling Across the Ocean with Catholic Records*, published 2021-02-24 —
   [discussion](https://www.youtube.com/watch?v=kG5ylKec2Kg). Used for treating the Ancestry and
   Findmypast indexes as one derived source rather than corroboration, and for retrying a failed
-  search on the other platform.
+  search on the other platform. Preserved class transcript read 2026-11-19 for the vendor’s account of joint indexing and retrying a search; no independent register image comparison was made.
 - **P6:** Aimee Cross / Ancestry Aimee, interview with Natalie Bodle,
   *What You Need to Know to Start Family History Research in Ireland*, published 2024-05-30 —
   [interview](https://www.youtube.com/watch?v=Qa-SALvJ9UA). Destination-country origin clues,
