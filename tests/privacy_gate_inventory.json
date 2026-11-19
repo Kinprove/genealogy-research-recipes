@@ -1496,19 +1496,19 @@
  {
   "recipe": "institutional-patient-record-recovery.md",
   "kind": "request",
-  "action": "the entry, and send everything they hold for the patient [S3], [S4]. Make a mail-in request",
+  "action": "the entry, and send everything they hold for the patient [S3 @2026-11-19], [S4 @2026-11-19]. Make a mail-in request",
   "checkpoint": "A mail-in request for patient files and"
  },
  {
   "recipe": "institutional-patient-record-recovery.md",
   "kind": "request",
-  "action": "Ask for everything the custodian holds for the patient. Denyse Allen reports that when she",
+  "action": "Ask for everything the custodian holds for the patient.",
   "checkpoint": "Asking for a complete patient file, or for"
  },
  {
   "recipe": "institutional-patient-record-recovery.md",
   "kind": "request",
-  "action": "Ask whether other relatives were patients too. The guest reports that the Connecticut",
+  "action": "Ask whether other relatives were patients too.",
   "checkpoint": "Asking for a complete patient file, or for"
  },
  {
