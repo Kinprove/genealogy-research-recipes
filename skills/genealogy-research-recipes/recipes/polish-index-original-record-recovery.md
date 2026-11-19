@@ -101,12 +101,7 @@ person, and records may show either name alone. Search each element and the comp
 compound as written, and do not treat a switch from one element to the other as a new family
 without looking for the joined form. [P5], [P6], [P7]
 
-Search a surname with a nasal vowel in each written form. Zaremba is a variant and homophone of
-Zaręba, the ę spoken as em before b [P14], and an index can also hold the form with a plain e. A
-researcher whose index searches for a Zaremba line stopped at one couple, in the home parish and
-across Poland, turned to the wife's maiden name and found the couple's 1829 marriage in Glinojeck
-under Zareba. [P15] So search the ę, em and plain-e forms as separate lanes, and when the husband's
-surname runs dry, search the wife's maiden name without a place filter.
+Search Zaręba, Zaremba and Zareba separately: the nasal vowel before *b* can sound like *em*, and an index may omit the diacritic [P14]. If those searches stall, look for the wife’s maiden surname without a parish filter. One researcher reports that this recovered the couple’s 1829 Glinojeck marriage under Zareba [P15]. Verify both spouses in the act before linking them.
 
 **Output:** `index URL | candidate | locality/district | confession | event | year | act |
 comments | SKAN destination | observed link result`.
@@ -138,15 +133,7 @@ century, and the state archive now holds them. [O14] Record which copy an
 image or index row comes from. Before you call an entry unreadable or unannotated, look for the
 other copy and record its custodian.
 
-Do not infer the parish's location from the city of the holding archive. A [Polish
-archive-holdings discussion](https://forum.j-roots.info/viewtopic.php?f=165&t=470) shows that a
-register answered by a Warsaw archive came from an Archiwum Główne Akt Dawnych (AGAD) inventory of
-registers from the "eastern territories", not from a Warsaw parish. Identify the fonds, its
-inventory and the unit signature, and treat the parish's location as unresolved until that
-description or another source places it. Record whether the signature has scans. The source covers
-only this inventory, not AGAD's full scope or current scan coverage. [C1] For Eastern Galician
-metrical books in Lviv (TsDIAL) and Warsaw (AGAD), see
-[Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
+Distinguish the archive that answered from the parish that created the entry. A Warsaw archive answered one researcher about a Greek Catholic parish. A forum respondent identified the linked inventory as AGAD’s eastern-territory registers [C3]. Check the fonds, unit signature, parish, denomination and whether the description covers a register, extract or correspondence. AGAD’s own place index includes Ostrava because a postcard from that parish was inserted in the Wiśniowczyk register, fonds 301, signature 1653 [O20]. Check the actual unit for the requested parish, dates and scans. For Eastern Galician metrical books in Lviv or Warsaw, see [Galician or Bukovinian record routing](galicia-bukovina-habsburg-record-routing.md).
 
 **Output:** `description URL | creator/locality | confession | record type | described years |
 archive | full fonds reference | unit/year needed | scans listed`.
@@ -185,23 +172,9 @@ image URL/ordinal | inspected range | original reading | index discrepancy`.
 **Check:** The chain ends at the entry, with enough context to identify its register. An act
 number, printed page and viewer ordinal are separate coordinates.
 
-In civil-status acts from the Russian partition, the witnesses of the declaration (świadkowie) and the
-godparents (rodzice chrzestni) are separate roles, although the same people could fill both. In a 1913
-act shown by the State Archive in Kalisz, two men are named as witnesses and two other people as
-godparents; in an 1861 Evangelical act, two of the four godparents were also witnesses. [P13] Record
-each name with the role the act gives it, and do not infer godparenthood or kinship from witness
-status alone.
+Transcribe the declaration witnesses (*świadkowie*) and godparents (*rodzice chrzestni*) from their own clauses. The Kalisz archive shows distinct pairs in a 1913 act and two witnesses who also served among four godparents in an 1861 Evangelical act [P13]. Enter both roles only for a person named in both capacities. Neither role by itself establishes kinship.
 
-Keep a birth act's own date and hour apart from the birth's. A Congress Poland birth act opens with
-the place, date and hour of the act, at which the declarant presented the child; in Danko's
-1862 Szwelice example the baptism was performed the same day, and the body gives the birth as
-"yesterday at nine in the morning". [P16] In civil acts of Russian Poland each date is often written
-twice, Julian then Gregorian, 12 days apart from 1 March 1800 and 13 from 1 March 1900. [P17] An
-1890 Pułtusk act in Russian opens on 6/18 April at three in the afternoon and gives the birth as
-5/17 February at six in the evening. [P18] A researcher used to Orthodox metrical books, which she
-says give no hour, noticed that these acts give both hours. [P18], [P19] Record the act's date and
-hour, the birth date and hour, both calendar forms of each date, the witnesses' ages and
-occupations, and every given name; never take the opening date as the birth date.
+Separate the opening date and hour of the declaration from the date and hour in the clause describing the birth. In Danko’s 1862 Szwelice transcription, the birth is dated to the preceding day at nine in the morning, while the baptism was on the day of declaration [P16]. Keep relative wording and both written forms of a Julian/Gregorian date. The calendars differed by 12 days for most of the nineteenth century and by 13 after the 1900 change [P17]. In the Pułtusk transcription, the declaration is 6/18 April 1890 at 3 p.m., the birth 5/17 February at 6 p.m. [P18]. Record a time only where the text supplies it [P19]. Copy each witness’s stated age and occupation and all the child’s given names.
 
 ## 4. Classify the gap and choose another holding route
 
@@ -246,12 +219,7 @@ A regulation required Russian from 1 January 1868, so expect Russian from 1868 a
 from the language of each transition year's entries and its index. Do not expect a Latin-to-Russian switch in these registers. [P8], [P9] Use the year's language to choose the search spelling
 and to judge whether a Cyrillic or index spelling re-transliterates a Polish original.
 
-When preparing the request, give the surname in both Polish and Russian (Cyrillic) forms. List the
-known spelling variants and ask explicitly for similar-sounding names to be checked. A [Polish
-archive-request discussion](https://forum.j-roots.info/viewtopic.php?f=165&t=470) advises explicitly
-asking for those variants, from one participant's exchanges with three archives; this is not a
-universal archive policy. Treat a match on a variant as a candidate, not as an
-identity. [C1]
+For an archive request, list each known Polish and Cyrillic spelling and specify whether to search similar-sounding forms. Record which variants the reply says were checked [C1]. Test any candidate against the act’s date, household and place before assigning it to the family.
 
 When the vital-record route stops and you turn to printed context, Polona, the National Library of
 Poland's digital library, holds digitised books, periodicals and daily newspapers (browsable by
