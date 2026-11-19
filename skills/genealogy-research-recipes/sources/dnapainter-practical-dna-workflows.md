@@ -1,7 +1,5 @@
 ## Sources
 
-All procedures are independently written paraphrases. Sources are cited, not reproduced.
-
 - **S1:** Jonny Perl, [Painting a match: every step](https://blog.dnapainter.com/blog/painting-a-match-every-step/), 2021-01-14.
 - **S2:** Jonny Perl, [Top recurring FAQs](https://blog.dnapainter.com/blog/top-recurring-faqs/), 2021-06-24.
 - **S3:** Jonny Perl, [Changing segment layer order: did you know? #1](https://blog.dnapainter.com/blog/changing-segment-layer-order-did-you-know-1/), 2023-03-17.

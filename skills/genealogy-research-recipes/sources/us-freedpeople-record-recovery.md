@@ -113,7 +113,7 @@ The Freedman's Bank, Last Seen and Enslaved.org entries rest on the custodians' 
 
 - **S83:** State Archives of North Carolina, [Records of Enslaved People, PC.1629](https://appx.archives.ncdcr.gov/findingaids/PC_1629_Records_of_Enslaved_Peo_.html). Passage read 2026-11-16. Used for: Original and copied records concerning enslavement and emancipation; the guide identifies provenance limits for some selected copies.
 
-### Sources checked 2026-11-18
+### Sources S84–S102
 
 The local register sources below extend the earlier bibliography to Alexandria County and Washington, DC.
 
