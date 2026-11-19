@@ -55,8 +55,23 @@ screenshots, index entries and real family examples are not reproduced.
   [wiki](https://www.familysearch.org/en/wiki/Ireland_Catholic_Church_Records). Original
   registers in local custody; a priest may search them, and a fee or donation may be required;
   only 214 parishes recorded burials before 1880, against 1,042 that recorded baptisms.
+- **S5:** Family Tree Magazine, [Exploring the 1926 Census of Ireland – An Interview with Daniel Loftus | Episode 206](https://www.youtube.com/watch?v=BI3ICIA-Vtc),
+  YouTube upload dated 2026-04-10. Community interview, transcript read 2026-11-18
+  via S6. At 10:20 Loftus points to the late-1700s reach of some IrishGenealogy
+  parish records. Access via the transcript. The YouTube watch page could not be opened.
+- **S6:** Wave Pod, [Family Tree Magazine episode transcript](https://pod.wave.co/podcast/1e334f2b-8726-4953-afd5-e3a54c63809a/exploring-the-1926-census-of-ireland-an-interview-with-daniel-loftus),
+  transcript read 2026-11-18. Automated transcript of S5. Used for the parish-records
+  discussion at 10:20. Coverage checked separately against S7 and S8.
+- **S7:** IrishGenealogy, [Search Online Records](https://www.irishgenealogy.ie/),
+  official search page read 2026-11-18. The Church Records option accepts a church area,
+  event type and year range. The form was inspected without submitting a query.
+- **S8:** John Grenham, Irish Ancestors, [Roman Catholic records in Dublin city](https://www.johngrenham.com/records/county_church_full.php?county=Dublin+city&denomination=Roman+Catholic&search_type=full),
+  coverage catalogue read 2026-11-18. The St James’s entry lists IrishGenealogy
+  baptisms from 1752 to 1882 and a later start for marriages. Used for the
+  eighteenth-century baptism example. The date span is catalogue coverage.
 
 ## Credits
 
 - Community sources S3, S4 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
+- Community interview S5, transcribed in S6 — Third-party content, rights retained by its owners. Attributed paraphrase of Loftus’s early parish-record lead (adapted)
 - Kinprove — original procedural synthesis of NLI Irish Catholic parish-register image recovery; coverage and access facts checked against NLI, Findmypast, RootsIreland and FamilySearch pages (O3–O5) — FSL-1.1-MIT (kinprove-original)

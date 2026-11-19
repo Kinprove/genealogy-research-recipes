@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-comparison-controls", "evidence-proof-judg
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["gedmatch"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "third-party-tool", "upload"], "contact": []}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 24}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 27}
 ---
 
 # Recipe: Working reproducibly with GEDmatch
@@ -69,8 +69,10 @@ do not upload. Apply the consent rules in
 For an upload request, make the gate explicit in the first reply: ask whether the file
 is the user's own test or someone else's, distinguish permission to access or analyze
 it from permission to transfer it, and ask about permission for GEDmatch and the chosen
-visibility and law-enforcement matching options. Identify those controls as items to
-inspect on the current form; do not claim to have checked them from a tutorial. Until
+visibility and law-enforcement matching options. Before drafting that reply, read the linked
+**Verification & privacy discipline** section for its rules on consent and de-identification.
+Identify those controls as items to inspect on the current form; do not claim to have
+checked them from a tutorial. Until
 the answers establish informed permission, stop at these questions and a plan to inspect
 the controls before giving executable upload steps.
 
@@ -99,6 +101,15 @@ query controls, local marker coverage and reporting scope.
    shown, input kit numbers, displayed coordinate build, cM/SNP thresholds, match-count cap,
    chromosome/window filters, exclusions and other changed options. Mark controls the tool
    does not expose as `not exposed`; save the parameter screen with the result.
+
+After the upload checkpoint above, send the tester's existing AncestryDNA autosomal raw data
+file to GEDmatch [H20 @2026-09-27] for cross-company matching, as the presenter suggests in the
+supplied, unverified transcript excerpt [S31† @2026-09-27]. Once the kit is ready, run One-to-Many
+Limited and record the search scope as kits uploaded to GEDmatch, including kits from other
+testing services [H3 @2026-09-27], [H20 @2026-09-27].
+
+GEDmatch offers free upload of an existing AncestryDNA file [H21 @2026-09-27] and free basic
+matching in One-to-Many Limited [H3 @2026-09-27].
 
 Never combine raw files from different people into one uploaded kit. A merged file can carry
 more than two alleles at a position, so the matcher may report sharing that no single genome

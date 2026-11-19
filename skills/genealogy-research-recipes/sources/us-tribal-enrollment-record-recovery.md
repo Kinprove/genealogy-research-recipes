@@ -29,7 +29,7 @@
 
 The roll-selection table, the order of steps and the finding row are authored synthesis. The sources supply the rules, dates, counts and examples.
 
-### Additional sources checked 2026-11-16
+### Sources S27–S35
 
 - **S27:** the-family-history-guide-blog, [Access – The Real Genealogical Challenge](https://www.thefhguide.com/blog/access-the-real-genealogical-challenge/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
 

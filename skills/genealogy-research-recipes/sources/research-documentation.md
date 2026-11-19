@@ -168,7 +168,7 @@ are used.
   collection timeline and completeness; more than 50 TB archived, from national archives to
   local museums. The database itself was not searched.
 
-## Additional sources checked 2026-11-16
+## Sources N1–N4
 
 - **N1:** [A Message to the Order](https://genealogytipoftheday.com/index.php/2024/08/29/a-message-to-the-order/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **N2:** [American Ancestors: Birth order versus will order](https://vitabrevis.americanancestors.org/2016/07/birth-order-vs-will-order/), opened 2026-11-16. The discussion distinguishes order of heirs in a will from demonstrated birth order; it supplies no universal inference from a list position.

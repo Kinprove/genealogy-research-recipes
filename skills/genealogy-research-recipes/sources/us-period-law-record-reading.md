@@ -115,7 +115,7 @@ The sources below were opened 2026-11-08.
 
 The working order, the table of misreadings, the inference limits and the reading row are authored synthesis. The sources supply the definitions, statutes, cases and examples.
 
-### Sources added 2026-11-12
+### Sources S111–S131
 
 - **S111:** Roberta Estes, DNAeXplained, [Daniel Vannoy (1752-after 1820), "Lived in the Boundary of the Cherokee Indians" – Say What???](https://dna-explained.com/2025/09/29/daniel-vannoy-1752-after-1820-lived-in-the-boundary-of-the-cherokee-indians-say-what/), published 2025-09-29, read 2026-11-12. Used for: a 1786 Wilkes County, North Carolina writ to take the body, "words spoken" as slander, and an 1800 sheriff's return that nothing of value was found. The author's readings that the man would sit in jail, and that he had nothing left or was gone, are not followed.
 - **S112:** Black's Law Dictionary, 2nd edition (1910) at The Law Dictionary, [capias ad respondendum](https://thelawdictionary.org/capias-ad-respondendum/), read 2026-11-12. Used for: the writ that began actions at law.
@@ -142,7 +142,7 @@ The working order, the table of misreadings, the inference limits and the readin
 
 - **S131:** William Blackstone, *Commentaries on the Laws of England*, book 2, chapter 32, "Of Title by Testament, and Administration", [Avalon Project transcription](https://avalon.law.yale.edu/18th_century/blackstone_bk2ch32.asp), read 2026-11-13. Used for: the Statute of Distributions (22 & 23 Car. II c. 10), under which "one third shall go to the widow of the intestate" from the surplus of an intestate's personal estate. The transcription prints the long s as "f"; the quotation modernises it.
 
-### Sources added 2026-11-14
+### Sources S132–S175
 
 - **S132:** Hening, Statutes at Large, [vol. 12, Laws of 1785, ch. LXI](https://usgenwebsites.org/vagenweb/hening/vol12-07.htm), read 2026-11-14. Used for: the Virginia act concerning wills and executors, section IX on a witness who is also a legatee and section XVI on the executor's bond and its security. The same page holds ch. LX, cited as S80.
 - **S133:** Caselaw Access Project, [Fearn v. Postlethwaite, 240 Ill. 626 (1909)](https://static.case.law/ill/240/html/0626-01.html), read 2026-11-14. Used for: section 8 of the Illinois Wills Act as the court quoted it, voiding a gift to a subscribing witness unless the will was attested by enough other witnesses.
@@ -189,7 +189,7 @@ The working order, the table of misreadings, the inference limits and the readin
 - **S174:** Debbie Mieszala, The Advancing Genealogist, [home page and Law Library Index](https://www.advancinggenealogist.com/), read 2026-11-14. Used for: the index's entries for 29 states and territories, from Arizona to Wisconsin, as listed on that date.
 - **S175:** Caselaw Access Project, [Mosholder v. Industrial Commission, 329 Ill. 497 (1928)](https://static.case.law/ill/329/html/0497-01.html), read 2026-11-14. Used for: section 1a of the Illinois divorce act (Laws of 1905), one year for both parties and two years for the person decreed guilty of adultery.
 
-### Sources added 2026-11-16
+### Sources S176–S195
 
 - **S176:** Just Genealogy, YouTube, [Just Genealogy Live Stream Recording for 15 Sep 2022 - JG0190](https://www.youtube.com/watch?v=iknDl1tV4s0), published 2022-09-15, page opened 2026-11-16; the transcript did not load and was not re-read. Used for: the warning that a commissioner of the specific tax can be mistaken for a commissioner for public claims in Amherst and Loudoun County public-claims material, as quoted in the reader's extraction. Its statement that a commissioner of revenue served in the same period is not adopted; see S177, S178 and S181.
 - **S177:** Hening, Statutes at Large, [vol. 9, Laws of October 1777, ch. II](https://usgenwebsites.org/vagenweb/hening/vol09-17.htm), "An act for raising a supply of money for publick exigencies", pp. 349–357, read 2026-11-16. Used for: three commissioners of the tax elected yearly by each county's freeholders and housekeepers during the act's six-year term, who divided the county into hundreds and chose assessors.
@@ -209,6 +209,12 @@ The working order, the table of misreadings, the inference limits and the readin
 
 **Not verified independently:** the Amherst and Loudoun public-claims entries discussed in S176, and the Boston will and marriage in S183, which the video poses as an example question.
 
+- **S191:** Just Genealogy, YouTube, [Reading a War of 1812 Pension Envelope - JG0278](https://www.youtube.com/watch?v=C4--cLVQPSQ), published 2022-12-16. The watch page could not be opened 2026-11-18 and only the supplied transcript excerpts were available. Used for: reading an envelope’s acreage by act, interpreting the later 80 acres as a balance, and considering that a veteran may have skipped an earlier application. The service-length readings and the scope of the 1855 entitlement were corrected against S192–S195. The individual envelopes were not checked.
+- **S192:** United States, [Act of 28 September 1850, ch. 85, 9 Stat. 520–521](https://www.govinfo.gov/content/pkg/STATUTE-9/pdf/STATUTE-9-Pg520.pdf), §§ 1–2 read 2026-11-18. Used for: the 40-, 80- and 160-acre service tiers, the distinction between the term of engagement and time served, the disability-discharge proviso and the credit for captivity.
+- **S193:** United States, [Act of 22 March 1852, ch. 19, 10 Stat. 3–4](https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c32/llsl-c32.pdf), § 5 on p. 4 read 2026-11-18. Used for: crediting specified travel by organized units when computing service for the 1850 bounty-land tiers.
+- **S194:** United States, [Act of 3 March 1855, ch. 207, 10 Stat. 701–702](https://www.govinfo.gov/content/pkg/STATUTE-10/pdf/STATUTE-10-Pg701-2.pdf), §§ 1–3 read 2026-11-18. Used for: eligible classes, the 160-acre total including acreage already received, and the fourteen-day threshold with its battle exception.
+- **S195:** National Archives, [Index to War of 1812 Pension Application Files, M313](https://www.archives.gov/files/research/military/army/dc/m313.pdf), introduction read 2026-11-18. Used for: the separate 1871 and 1878 service-pension rules, the service details in pension and bounty-land applications, and the presence of bounty-land applications that the pension envelope may omit.
+
 ## Credits
 
 - Kinprove original procedural synthesis drawing on The Legal Genealogist blog posts by Judy G. Russell (S1 to S23); definitions, statutes, decisions and record descriptions checked against law dictionaries, session laws, reported cases, archive and library guides, and other published sources (S24 to S110) — FSL-1.1-MIT (kinprove-original)
@@ -226,3 +232,5 @@ The working order, the table of misreadings, the inference limits and the readin
 - Black's Law Dictionary, 2nd edition (1910), statutes and reported cases cited as S132, S133, S137, S145, S152, S154, S155, S158, S161, S162, S166 and S175 — Definitions, statutes and holdings paraphrased with attribution (adapted)
 - Just Genealogy, YouTube live stream of 2022-09-15 and video of 2023-11-18, cited as S176 and S183; Bevin Creel, Virginians in the Revolutionary War Era, 2014-10-07, cited as S182; Evidence Explained, Children named and not named in Wills, 2012-06-30, cited as S187 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
 - Hening's Statutes at Large, reported cases, a Library of Virginia research guide and an Open Library catalog record, cited as S177 to S181, S184 to S186 and S188 to S190 — Statutes, holdings and record descriptions paraphrased with attribution, with short phrases quoted (adapted)
+- Just Genealogy, Reading a War of 1812 Pension Envelope, 2022-12-16, cited as S191 — Supplied excerpts adapted with attribution (adapted)
+- U.S. Statutes at Large and the National Archives’ M313 introduction, cited as S192 to S195 — Statutes and record descriptions paraphrased with attribution (adapted)

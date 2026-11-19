@@ -87,10 +87,18 @@
 
 **Not verified, 2026-11-16:** the current behaviour of any image-search, photo-sharing or tree platform, beyond the dated statements cited from S52, S53, S58, S59, S61 and S62; in particular who can open a FamilySearch album link, and Ancestry's current tagging and face-matching features, whose help pages returned HTTP 403 on 2026-11-16. Also whether a particular keepsake portrait was taken in life or after death; [S63]–[S67] describe the practice and single objects.
 
-## Additional sources checked 2026-11-16
+## Sources S68–S76
 
 - **S68:** [Don’t Crop](https://genealogytipoftheday.com/index.php/2023/05/28/dont-crop/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **S69:** [FamilySearch: Five ways to identify an unknown family photo](https://www.familysearch.org/en/blog/5-ways-to-identify-an-unknown-family-photo), opened 2026-11-16. Read the comparison of furniture, houses and room corners; the separate photographer discussion describes same-angle snapshots. Scene resemblance supplies a lead rather than sitter identity.
+
+- **S70:** MyHeritage Blog / Daniella Levy, [Long-Lost, 100-Year-Old Family Album Returned to Man in Norway](https://blog.myheritage.com/2022/08/myheritage-returns-long-lost-family-album-to-user-in-norway/), published 2022-08-01, read 2026-11-18. Community source. The article transcribes an album dedication and reports that members of the giver's family appear in it. The article's suggestion of friendship and its inference about the families' influence from their dress are unconfirmed. The recipe uses the dedication as a provenance clue and limits the interpretation of dress to the portrait's presentation.
+- **S71:** Los Angeles County Museum of Art, [André-Adolphe-Eugène Disdéri, Self-Portrait](https://collections.lacma.org/object/94202), catalogue entry read 2026-11-18. The curatorial notes describe giving cartes de visite to friends and relatives and using dress, props and posture to convey status or aspirations. The entry does not independently identify the people in S70's album.
+- **S72:** Google Search Help, [Search with an image on Google](https://support.google.com/websearch/answer/1325808?co=GENIE.Platform%3DDesktop&hl=en), desktop instructions read 2026-11-18. Documents the Search by image control, file picker and drag-and-drop, and lists similar images among the possible results. No private photograph was uploaded to test the steps.
+- **S73:** Family Tree Magazine / Rick Crume, [How to Use Search Engines for Genealogy Research](https://familytreemagazine.com/strategies/how-to-use-search-engines-for-genealogy-research/), published online in January 2024 and updated February 2025, read 2026-11-18. Community source. Crume suggests using similar images to identify the setting of an uncaptioned photograph and illustrates the idea with views of a building from the same vantage point as an already captioned picture. The recipe takes the upload instructions from S72.
+- **S74:** Family Tree Magazine / Sunny Jane Morton, [How to Use the FamilySearch Tree As a Source](https://familytreemagazine.com/websites/familysearch/how-to-use-the-familysearch-tree-as-a-source/), a version appeared in July/August 2023 and the page was updated March 2025, read 2026-11-18. Community source. Morton suggests searching from clues on antique photographs and gives a worked example that pairs the photographer's mark and handwritten name and relationship with an attached census. The recipe uses the method without adopting the example's studio dates or sitter identification.
+- **S75:** FamilySearch Help Center, [Where can I find the source details in Family Tree?](https://articles.familysearch.org/hc/en-us/articles/41410937422491), updated 2026-04-25, read 2026-11-18. Documents viewing source titles and citations from a person page's Sources tab. No signed-in workflow was tested.
+- **S76:** U.S. National Archives, [1900 Federal Population Census – Part 1](https://www.archives.gov/research/census/microfilm-catalog/1900/part-01), catalogue introduction read 2026-11-18. Describes the recorded names, ages and relationships to the head of household in the 1900 schedules. The recipe scopes this interpretation to schedules that record that relationship.
 
 ## Credits
 
@@ -105,3 +113,7 @@
 - Family Tree Magazine Podcast, Resolving Conflicting Birthdates with Lindsey Harner, YouTube, 2022-07-26, cited as S60 — Standard YouTube License (all rights reserved); short attributed adaptation (adapted)
 - Family Tree Magazine / Robbie Gorr, What We Can Learn From Death-Related Heirlooms, 2024-09-24, cited as S63 — All rights reserved; short attributed adaptation (adapted)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
+- MyHeritage Blog / Daniella Levy, Long-Lost, 100-Year-Old Family Album Returned to Man in Norway, 2022-08-01, cited as S70 — short attributed adaptation (adapted)
+- Family Tree Magazine / Rick Crume, How to Use Search Engines for Genealogy Research, cited as S73 — short attributed adaptation (adapted)
+- Family Tree Magazine / Sunny Jane Morton, How to Use the FamilySearch Tree As a Source, cited as S74 — short attributed adaptation (adapted)
+- Kinprove original procedural synthesis from documentation and catalogue sources checked 2026-11-18 — FSL-1.1-MIT (kinprove-original)

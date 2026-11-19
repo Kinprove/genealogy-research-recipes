@@ -4,14 +4,14 @@ title: "Recover manuscript and archival collections that may mention an ancestor
 summary: "Find personal, family and organisational papers that may mention an ancestor, including ledgers, daybooks and claim folders."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "MANUSCRIPT-COLLECTION-RECOVERY-01", "text": "A personal-name search that finds nothing is therefore not a finding. Never report \"no manuscripts exist\" or \"not in this archive\" because a name search failed [S1], [S3], [S21]."}]
 handoff: []
 checked: "2026-10-21"
 checked_basis: "checked 2026-10-21"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 38}
+capabilities: {"browse": ["record catalogues and original images", "public auction catalogues and company histories"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 43}
 ---
 
 # Recover manuscript and archival collections that may mention an ancestor
@@ -43,6 +43,8 @@ Before you query, build two registers.
   - the compiler of any published family or local history. The compiler's research papers are a separate target from the book and can hold far more than the book printed [S5], [S9], [S10], [S12], [S15].
 
 For a congregation or similar unit, first fix the specific unit from a dated source. Then search for that unit's records instead of the person. The Church History Library example searches a named ward for the period, which turns up material that a name search misses [S21].
+
+If a suspected lifetime gift of land is missing from the deed books, search the landholding family's legal and financial papers for the original deed of gift [S59]. Chelsea Petry describes a deed of gift kept with her family's papers [S58]. Keep the transfer unresolved until the deed or other evidence supports it.
 
 When the identified creator is a fraternal insurer, check whether its actual collection has
 an index by personal name. Carry a matching entry and supplied claim/certificate numbers
@@ -98,6 +100,10 @@ If a town search is thin, widen it to the county and then the state [S4].
 
 For a store or professional ledger, also try `account book`, `journal`, `daybook`, `business papers` and `business records` with the supported creator or place. These are alternate finding-aid labels, not a promise that every business-paper hit contains a ledger; check the description for the dated volume [S28].
 
+For a Pennsylvania coal superintendent, use the employer named in the obituary to check the Pennsylvania State Archives' *Coal Miner Records* guide. Follow any matching company entry to its manuscript-group description [S64 @2026-11-18]. The livestream presenter suggests starting at the State Archives, according to the transcript [S60† @2026-11-18]. Check the company description for the relevant operation and employment years before treating it as a lead about the superintendent.
+
+Search the historical company name for mergers and successor names, then search catalogues under each documented name. The livestream presenter suggests tracing the company's ownership to find its business papers, according to the transcript [S60†]. Some of the Pennsylvania Coal Company's papers reached the archives through its parent railway [S65]. Confirm the collection and dates in the holding repository's own description before assigning custody from a company history.
+
 Do not limit the search to repositories near the ancestor. Papers move with descendants, migrants, donors and collectors. The George S. Tanner papers on northern Arizona are held at the University of Utah. The presenters also report Biltmore Hotel material at a different university than expected, and migrants' letters donated in the state where descendants settled [S3], [S5], [S9], [S14], [S15]. Do not apply a portal's map or repository filter before the keyword search [S3], [S7].
 
 If a result set is large, switch ArchiveGrid to its summary view and narrow by people/family, place, archive location or topic. Write down the facet state with the result count [S3], [S6], [S7].
@@ -117,6 +123,12 @@ For a family in Russia or the Soviet Union, search Прожито (Prozhito), th
 For a family in the antebellum South, including enslaved people and overseers, search the microfilm edition *Records of Ante-Bellum Southern Plantations from the Revolution through the Civil War* (University Publications of America); a presenter in [S48 @2026-11-16] (partial read of a transcript extract) uses it routinely for Southern families. It reproduces selected collections from Southern state archives and university and historical-society libraries in lettered series, each drawn from one or more repositories. Most of the material comes from larger tobacco, cotton, sugar and rice plantations between the War of 1812 and the Civil War: business records, account books, slave lists, overseers' reports, diaries and private letters. Most records dated after 1865 were left out [S54 @2026-11-16]. Look up the county, the plantation name and each planter's surname in Jean L. Cooper's *Index to Records of Ante-Bellum Southern Plantations* (2nd ed., 2009), an index to the series guides by location, plantation, surname and collection title [S55 @2026-11-16]. Then read the printed guide for that series and part: its reel index gives each collection's contents and omissions, so note the reel there before requesting film [S54 @2026-11-16]. Cooper indexes the guides, not every name on the film, and each series is a selection from its repository, so a miss leaves both the film and the original repository's own finding aid unsearched. A library may hold only part of the set: the University of Arkansas owns one part, says reels may be requested through interlibrary loan, and lists no online option for the set [S56 @2026-11-16]. For the years after emancipation, check the separate microfilm set *Records of Southern Plantations from Emancipation to the Great Migration*; the library listing that names it gives no date range [S57 @2026-11-16]. Record the reel and the original repository's collection as separate holders, as for any copy.
 
 A zero result applies only to that portal, its layer and the query. If a repository plausibly connects to the family's places, or to the places where children lived and died, contact it even if no portal shows anything [S12].
+
+For a missing plantation account book, search public auction catalogues by plantation, planter and the volume's years. Record the sale date, lot number and the volume description from a matching lot [S61]. According to the livestream transcript, a researcher traced a book to a sale and received no buyer information [S60†]. Keep the lot as a lead and leave current custody unresolved until a holder confirms it.
+
+**Privacy gate:** <!-- privacy-gate: contact --> Send only the public lot number and sale date and the sender's authorised reply details to the auction house through its public business channel. Apply the [privacy gate](../SKILL.md#privacy-gate) before sending.
+
+Ask the auction house whether it can name a publicly documented institutional destination for the lot. Limit the enquiry to public institutional leads.
 
 ## Read the hit as a description, not as contents
 
@@ -142,6 +154,8 @@ Exclude a collection only when its dates or material types cannot hold the targe
 ## Trace the hit to the repository's own finding aid
 
 Use the union portal mainly to learn the repository's name. Then follow its contact link, or search for the repository's own site, and open its catalogue record or finding aid [S1], [S6], [S7], [S25]. There, read the arrangement, container list and folder or correspondent entries. Navigating finding aids is often not intuitive, so ask the archivist or reference librarian how the collection is arranged [S9].
+
+For a plantation account book from Virginia's Fauquier–Loudoun area, search Duke's Rubenstein Library and the University of Virginia's Special Collections directly after an ArchiveGrid miss. The livestream presenter suggests both, according to the transcript [S60† @2026-11-18]. Search by planter and plantation in Duke's collection guides [S59 @2026-11-18], using its Virginia plantation account-book listing as a model [S62 @2026-11-18]. At the University of Virginia, also check its section of *Afro-American Sources in Virginia* for collection titles and accession numbers [S63 @2026-11-18]. Confirm a promising lead against the repository's own description.
 
 Some finding aids use an unexpected sort key. The Record of Members collection (call number CR 375 8) is arranged alphabetically by unit name. Spell out ward numbers when you browse it: Rasmussen's tip is that a 15th Ward files under F [S23].
 

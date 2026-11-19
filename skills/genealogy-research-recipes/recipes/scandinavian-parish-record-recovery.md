@@ -4,14 +4,14 @@ title: "Reconstruct a Swedish household through parish examination and moving re
 summary: "Reconstruct a Swedish household through the household-examination, birth, marriage, death and moving registers."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "SCANDINAVIAN-PARISH-RECORD-RECOVERY-01", "text": "Follow the family by farm or residence and by page cross-reference, not by patronymic. Settle identity at the household level."}]
 handoff: ["scandinavian-patronymic-farm-name-record-recovery", "tax-roll-observation-workflow"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 101}
+capabilities: {"browse": ["record catalogues and original images", "MyHeritage Swedish vital-record indexes"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 110}
 ---
 
 # Reconstruct a Swedish household through parish examination and moving registers
@@ -19,6 +19,8 @@ router: {"section": "Records by country and region", "group": "Western and North
 Use this recipe when you have a Swedish or Finnish ancestor's name, a rough parish or farm, and rough birth or marriage dates, and you can view digitized images of the household examination (husförhör), birth, marriage, death and moving-in/moving-out registers. The household examination is your index into the other registers. Follow the family by farm or residence and by page cross-reference, not by patronymic. Settle identity at the household level. Finland kept the same kind of register; its differences are in "Finland: work the rippikirjat the same way" below.
 
 Check the parish's actual holdings and image-access conditions at FamilySearch, Riksarkivet and ArkivDigital. Do not infer access or coverage for one parish from a country-wide description.
+
+For a Danish parish, use [Danish church books and probate](danish-church-book-probate-recovery.md) for the church books, civil marriages and probate.
 
 Related recipes:
 
@@ -68,6 +70,12 @@ The cross-references run both ways. Expect them and follow them [S5]:
 - A move within the parish is noted with the page of the new residence. A move out of the parish is often noted with the departure date and the number of the moving-out entry.
 
 Record every page reference exactly as written, including ones you have not followed yet. If an expected reference is missing, note that as well.
+
+### Separate Swedish banns from the wedding
+
+Start the banns search in the bride's parish. Record the announcement under *lysning* and establish the wedding date from the *vigsel* entry. If the banns entry gives no wedding date, follow any wedding-parish note and search for the wedding separately. The two entries can be in different parishes. [S32] [S33] [S34]
+
+When an index hit gives a banns number and a wedding number, copy each with its label, parish and year. Use each number in the corresponding register or column and confirm both spouses in the entries. Keep entry numbers separate from printed page numbers. [S32] [S35]
 
 ### Decode an urban number before opening a page
 
@@ -166,6 +174,20 @@ In these cases, browse the examination volumes by the recorded birth date. Birth
 
 For Stockholm city from 1878 to 1926, the roteman offices kept the population register because parish registration could no longer keep up. Search the Rotemansarkivet at Stockholms stadsarkiv. Its online database is incomplete; the whole archive is on the computers in the archive's reading rooms. Record which version you searched. [S27]
 
+### Use a Swedish vital-record index to recover a parish lead
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Apply the privacy gate to the names, dates and places that the search will send to MyHeritage and to each person those terms describe, including anyone who may be living. Send only the terms needed for the search.
+
+Search the matching MyHeritage collection if you still need a parish or cannot locate the vital entry. Carry the hit back to the parish books and establish identity from the household and original entries.
+
+For a birth, use *Sweden Births, 1850–1920*. Take the parents' names and recorded residence into the parish's household examination or parish book. If the birth entry also gives a baptism date, record it separately. [S32 @2026-11-18] [S36 @2026-11-18]
+
+For a wedding, use *Sweden, Marriages and Banns, 1850–1945*. Compare both spouses' names, recorded ages or birth years, and residences with the household entries. Use a parent's name to extend the line only when the parish entry actually identifies that person as a parent. [S32 @2026-11-18] [S37 @2026-11-18]
+
+For a death, use *Sweden, Deaths, 1850–1945*. Match the birth date or age, residence and any named relatives to the household. In the parish entry, record the death and burial dates separately when both are given. [S32 @2026-11-18] [S33 @2026-11-18] [S38 @2026-11-18]
+
+If the image is a church-book extract sent to Statistics Sweden (*SCB*), cite it as an extract and take its parish and year to the parish's own register. Check that register before treating an omitted detail as absent. [S32] [S39]
+
 ### Follow a Norwegian or Danish lead through its separate bulletin index
 
 When a dated move, destination or other independent lead points to Norway or Denmark, check that country's police-bulletin finding aids separately. In its 4 June 2025 demonstration, ArkivDigital described Norwegian name-register volumes outside its Swedish searchable police-notice index, and Danish index sections for people born in Sweden or Norway [S22]. These provide a separate entry route; a Swedish index miss does not search them.
@@ -200,6 +222,8 @@ This route leaves unverified holdings, unindexed fields and Finnish bulletin cov
 - **Probate inventories.** Search them by the deceased and the court district. Use the heirs named to bridge parish moves and to check a sibling set.
   - Sweden: bouppteckningar from before 1980 are in the archives of the tingsrätt (district court) and of its predecessors: the rådhusrätt (town court), the domsaga and the häradsrätt (rural district court). Riksarkivet supplies inventories drawn up up to 30 June 2001. [S8 @2026-11-16]
   - Norway: death and probate records are in the archive of the sorenskriver (rural district judge) or, for a town, the byfogd (town judge). [S19 @2026-11-16] On Digitalarkivet, for example, Mandal sorenskriveri's skifteprotokoller (probate journals) sit under that archive, in the series *Dødsfall og skifte*. [S9 @2026-11-16] Some newer death and probate material has access restrictions. [S19 @2026-11-16]
+
+For a Danish probate, use [Danish church books and probate](danish-church-book-probate-recovery.md#route-a-probate-by-status-and-date).
 
 **Poll-tax scans and coverage.** Riksarkivet's database page gives 15–62 for everyone able to work, without naming a period. [S29 @2026-11-13] Before you read an adult's absence from a mantalslängd as a negative, check that year's age range. Riksarkivet has scanned the mantalslängder of the whole of Sweden for 1642–1820 and indexed them by parish. Some volumes were not scanned. The regional archives (landsarkiv) keep other copies, not scanned, which may hold years missing from the scans. [S29]
 

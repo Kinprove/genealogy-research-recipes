@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Rights: every source below is a third-party work cited for attribution only — its content remains © its creator/publisher and is **not reproduced** here. The recipe text is Kinprove's own distillation.
-
 The following dates are video upload dates, not independently established session dates.
 
 - **S1:** *Get the Most from the MyHeritage Search Engine for Historical Records*, MyHeritage,
@@ -100,7 +98,7 @@ howto 12 now name that capture and its date. H11 records no address and could no
 howto 5 no longer cites it and describes the option to show results from other languages in H1's
 words instead of quoting the switch label. The videos S1 to S9, S12 and S13 were not rechecked.
 
-### Additional sources checked 2026-11-16
+### Sources S14–S19
 
 - **S14:** [MyHeritage Help: Filtering Record Matches](https://www.myheritage.com/help/en/articles/12851479-how-can-i-filter-my-record-matches), read 2026-11-16. Used for: Settings, confidence slider and record-type filters; no numeric0–5 range, increments or default verified.
 - **S15:** [MyHeritage Education: Getting the most out of Record Matches](https://education.myheritage.com/article/how-to-get-the-most-out-of-record-matches/), read 2026-11-16. Used for: matches to Geni, FamilySearch and WikiTree being other users’ trees rather than historical records.
@@ -116,7 +114,19 @@ techniques were not adopted. Most were collection announcements or advice the re
 Some could not be confirmed at a source opened that day: MyHeritage's collection pages, their
 Internet Archive captures and Tacoma Public Library's index page returned no readable content.
 
+### Sources S20–S27
+
+- **S20:** Esther Shuman, MyHeritage Blog (community source), [MyHeritage Releases New York City Birth, Marriage, and Death Record Collections](https://blog.myheritage.com/2024/05/myheritage-releases-new-york-city-birth-marriage-and-death-record-collections/), published 2024-05-01, read 2026-11-18. The publisher describes searchable parents, one birth search by the mother's name, the grouping of both marriage record types when available, and witnesses and death reporters omitted from the index. Its marriage example illustrates witness addresses and signatures. The public collection links for marriages and deaths returned no readable form, so the guidance for those collections is based on the published description and examples. No signed-in viewer or subscription was tested. Rights: cited reference, not reproduced.
+- **S21:** MyHeritage, [New York City Births, 1866–1909](https://www.myheritage.com/research/collection-20810/new-york-new-york-city-births-1866-1909), public collection description and search form read 2026-11-18. The form has a dedicated Mother field. No query was submitted. Rights: cited reference, not reproduced.
+- **S22:** NYC Department of Records and Information Services, [Marriage License Record Accession](https://www.nyc.gov/assets/records/html/march2017.html), Municipal Library Notes, read 2026-11-18. The accession note documents the separate Health Department and City Clerk series, their 1908–1937 overlap, and the officiant's certificate as part of the City Clerk papers. Used for the record series, not for the newsletter's contemporary online access instructions. Rights: cited reference, not reproduced.
+- **S23:** MyHeritage Blog (community source), [MyHeritage Adds 89 Million Historical Records in August 2023](https://blog.myheritage.com/2023/09/myheritage-adds-89-million-historical-records-in-august-2023/), published 2023-09-04, read 2026-11-18. Its Franklin and Bernalillo collection descriptions list license issue date separately from marriage date. Used for the distinction when both fields are present, without adopting collection dates or coverage from the announcement. Rights: cited reference, not reproduced.
+- **S24:** Franklin County Probate Court, Ohio, [Marriage](https://probate.franklincountyohio.gov/Departments/Marriage), read 2026-11-18. The court distinguishes license issuance from certification signed by the officiant after the wedding. Used for the distinction between those records, not for current ordering rules. Rights: cited reference, not reproduced.
+- **S25:** Thomas MacEntee, MyHeritage Blog (community source), [Amazing Ways to Use Death Records for Family History Research](https://blog.myheritage.com/2023/10/i-see-dead-people-amazing-ways-to-use-death-records-for-family-history-research/), published 2023-10-27, read 2026-11-18. The author describes an obituary clipping pasted to an index card. The article text was readable, while its link to the individual obituary did not open. Rights: cited reference, not reproduced.
+- **S26:** MyHeritage, [California, San Joaquin, County Public Library Obituary Index, 1850–1991](https://www.myheritage.com/research/collection/california-san-joaquin-county-public-library-obituary-index-1850-1991/colid-30282), public collection description read 2026-11-18. It describes digitized library index cards with newspaper clippings. No individual image was opened. Rights: cited reference, not reproduced.
+- **S27:** FamilySearch, [California, San Joaquin, County Public Library Obituary Index, 1850–1991](https://www.familysearch.org/en/search/collection/1929846), public collection description read 2026-11-18. It identifies clippings from Stockton and other San Joaquin County newspapers on the library's index cards. Used to corroborate the card contents. Rights: cited reference, not reproduced.
+
 ## Credits
 
 - Community sources S16, S17 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
+- Community sources S20, S23, S25 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

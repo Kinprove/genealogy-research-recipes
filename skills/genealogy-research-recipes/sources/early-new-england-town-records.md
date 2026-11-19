@@ -17,7 +17,7 @@
 
 The order of steps (jurisdiction first, then whole-volume reading with a coverage register, then Torrey decoding) and the output packet are authored synthesis. The sources supply the reading practice, the parent-town principle with its example, and the Torrey walkthrough. Torrey's notation rules are taken from his key as quoted on FamilySearch, not from the presenter.
 
-### Additional sources checked 2026-11-16
+### Sources S15–S22
 
 - **S15:** Price Genealogy, [Researching Your Colonial Ancestors, Part II [249 Years of American Independence]](https://www.pricegen.com/researching-your-colonial-ancestors-part-ii-249-years-of-american-independence/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
 
@@ -27,9 +27,18 @@ The order of steps (jurisdiction first, then whole-volume reading with a coverag
 
 - **S18:** FamilySearch Wiki, [Massachusetts Land and Property](https://www.familysearch.org/en/wiki/Massachusetts_Land_and_Property). Passage read 2026-11-16. Used for: Town-level original allotments and county/district Registry of Deeds conveyance records; choose the registry by the town.
 
+- **S19:** Community video, [Boston Beginnings – A List of Early Inhabitants before 1700 – Book for a Discount – JG0258](https://www.youtube.com/watch?v=-abtpkE93yU), published 2022-11-24. Supplied transcript excerpts read in full on 2026-11-18. The YouTube fetch returned a cache miss. Used for: The presenter’s suggested use of Holbrook and the printed reports, and the birth and marriage coverage leads checked against the ninth report. Holbrook’s exact citation conventions remain unverified.
+
+- **S20:** University of Massachusetts Amherst Libraries, [Massachusetts Vital Records](https://guides.library.umass.edu/c.php?g=1150390&p=8397451). The Boston Beginnings description was read on 2026-11-18. Used for: Holbrook’s name, the 1980 edition and its 1630–1699 scope, alphabetical arrangement, and the name, year, purpose and source in each entry. The library guide describes the book’s layout at the entry level.
+
+- **S21:** Boston Public Library, [Boston (City) Departmental Reports: Record Commissioners](https://guides.bpl.org/BostonReports/RecordCommissioners). The volume guide was read on 2026-11-18. Used for: Identifying volumes 2 and 7 as Boston town records and volume 9 as Boston vital records for 1630–1699.
+
+- **S22:** Boston Record Commissioners, [A Report of the Record Commissioners Containing Boston Births, Baptisms, Marriages, and Deaths, 1630–1699](https://archive.org/stream/recordsrelatingt09bost/recordsrelatingt09bost_djvu.txt), ninth report, 1883. The preface and the relevant passage on printed page 182 were read in the digitized text on 2026-11-18. Used for: Incomplete town births in 1647–1650 and 1675, First Church baptisms, the scope of the municipal marriage register sections, a marriage among the town births, and two additional 1699 marriages in the preface. The birth shortfall concerns the town records as a whole. The manuscript register ranges describe coverage at the volume level, with stray marriages elsewhere in the compilation.
+
 ## Credits
 
 - FamilySearch Catalog record for New London, Connecticut town records (catalog 192308) — Reported index-note quotation retained in the source entry with its sign-in limitation; not independently verified or relicensed (quoted)
 - Kinprove original procedural synthesis; the reading practice, parent-town principle and Torrey walkthrough are paraphrased from the cited videos S1-S5 and checked against outside authorities; the village and foundling example is paraphrased from S6 with its inspection limits stated above — FSL-1.1-MIT (kinprove-original)
 - Clarence Almon Torrey's notation key as quoted in the FamilySearch Wiki article Torrey's New England Marriages Prior to 1700 — Factual conventions paraphrased with attribution; source text not relicensed (adapted)
 - Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
+- Kinprove’s Boston lookup and coverage instructions paraphrase the community transcript excerpts and independently checked library and municipal sources listed above — FSL-1.1-MIT (kinprove-original)

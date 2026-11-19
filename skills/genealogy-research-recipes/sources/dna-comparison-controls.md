@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Original Kinprove synthesis. Third-party passages are not reproduced.
-
 Primary documentation opened and checked 2026-10-18. Public documentation confirms
 the described scope; it does not verify a signed-in account or every kit generation.
 
@@ -136,6 +134,12 @@ X reporting table, checked 2026-11-06 (H6 supplies the FamilyTreeDNA row):
 - **H42:** Louis Kessler, Behold Blog, [Converting Base Pairs to Centimorgans](https://www.beholdgenealogy.com/blog/?p=3879), published 2022-06-12, read 2026-11-14. Used for: the author's comparison of FamilyTreeDNA, GEDmatch, 23andMe and MyHeritage segment cM with a HapMap-based map. His 2015 chromosome totals are not used.
 - **H43:** Jonny Perl, DNA Painter blog, [cM estimator: Estimating cMs for a segment of DNA](https://dnapainter.com/blog/cm-estimator-estimating-cms-for-a-segment-of-dna/), published 2020-11-12, read 2026-11-14. Used for: HapMap-based estimates aligning closely with MyHeritage's and 23andMe's cM, and GEDmatch's figures differing.
 
+### Autosomal follow-up for a Y-DNA match
+
+- **H44:** Community video, [How to Get the Most Out of DNA Matches Without Breaking the Bank](https://www.youtube.com/watch?v=_2rDmfgV4m4), dated 2024-11-17 in the supplied item. Reviewed the supplied transcript excerpt on 2026-11-18. The YouTube page did not load during the check. The presenter suggests checking autosomal results for a same-surname Y-DNA match that appears too distant despite the families' geographic proximity. The excerpt gives no comparison result.
+- **H45:** Maarten Kruijver, *Genes*, [An Upper Bound on the Power of DNA to Distinguish Pedigree Relationships](https://pmc.ncbi.nlm.nih.gov/articles/PMC12110999/), published 2025-04-26, read 2026-11-18. The abstract and section 3.4 support using total autosomal sharing to assess possible relationship degrees. The study models idealized observations and supplies no cutoff for this workflow.
+- **H46:** Katy Rowe, FamilyTreeDNA presentation syllabus hosted by FamilySearch, [Y-DNA: An overview of your results](https://cms-b-assets.familysearch.org/36/0c/98513b9d4adb95763384fb45a856/y-dna-an-overview-of-your-results.pdf), read 2026-11-18. The tips section advises checking autosomal matching for the Y-DNA pair and verifying through triangulation that the autosomal sharing comes from the direct paternal line. Used for the method and the caution about lineage.
+
 ## Synthesis boundaries
 
 The self-match test by identity state (a self-match or identical twin fully identical almost
@@ -158,3 +162,6 @@ are part of this recipe.
 - GEDmatch Support, help articles cited as H30, H31 and H33 — Vendor documentation; paraphrased factual support with attribution (adapted)
 - Blaine Bettinger, The Genetic Genealogist blog, post cited as H34 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Louis Kessler, Behold Blog, posts cited as H39, H40 and H42 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Community video presenter, H44 — Advice paraphrased from the supplied transcript excerpt (adapted)
+- Maarten Kruijver, paper cited as H45 — CC BY. Methodological result paraphrased with attribution (adapted)
+- Katy Rowe, syllabus cited as H46 — Methodological advice paraphrased with attribution (adapted)

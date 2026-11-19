@@ -11,7 +11,7 @@ handoff: ["convict-transportation-record-chain", "court-case-file-recovery", "en
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 126}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 141}
 ---
 
 # Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes
@@ -40,6 +40,7 @@ followed by overseas transportation, use [the convict transportation chain](conv
 - Swedish court books: recover a separately surviving copy
 - Weigh an inmate-list miss against other evidence
 - Extract admission fields as self-reported leads
+- New South Wales: search gaol photograph books and read the full card
 - Output
 
 ## Choose available name indexes before browsing chronological registers
@@ -239,6 +240,20 @@ unlocated death inquiry, or establish criminality from a death or prison referen
 - Mark every field as given by the inmate or an unknown informant. Birth year is calculated from admission age, so record it as a range.
 - A ticked alias box with no alias written means the recorded name may itself be an alias [S4].
 - In the presenter's Idaho example, a nearest relative named as the father with a residence, together with a North Carolina birthplace, pointed the search to the previous generation in another state [S4]. Use such fields to target records. They do not establish parentage by themselves. The originals of this record type are at the Idaho State Archives (AR 42/2).
+
+## New South Wales: search gaol photograph books and read the full card
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A gaol search sends the inmate's identifying details to MyHeritage and may disclose a living person's connection to a criminal record. Answer the privacy gate in `SKILL.md` before entering identifying search terms.
+
+Search MyHeritage's *Australia, New South Wales, Gaol Inmates & Photos, 1870–1930* for an inmate held in New South Wales. It draws on photographic description books from several gaols [S42 @2026-11-18]. Check the individual gaol's coverage before drawing conclusions from a miss [S43 @2026-11-18]. Treat a hit as evidence of a gaol record and require separate evidence of transportation [S41 @2026-11-18].
+
+Read the full card for the gaol and prisoner or portrait number, birthplace, recorded birth date or year, occupation, physical description and convictions [S41], [S42], [S44]. Establish identity from the written identifiers and corroborating records. Never use facial resemblance as identity evidence.
+
+If the convictions field cites a previous report, record the earlier count with that reference and list each conviction itemized on the card separately. Keep the earlier convictions unresolved until you recover the earlier report or the individual conviction records [S41], [S44].
+
+In the education field, transcribe `R & W` as written and record its meaning separately as the gaol's statement that the inmate could read and write [S41], [S45].
+
+In the marks or special features field, transcribe the wording of tattoos, including personal names. Keep a name as a lead in the private notes and require separate evidence of the relationship [S41], [S46].
 
 ## Output
 

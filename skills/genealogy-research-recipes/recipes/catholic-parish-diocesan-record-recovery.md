@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 137}
+router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 158}
 ---
 
 # Recover a Catholic sacramental entry through parish, diocesan and successor holdings
@@ -19,6 +19,17 @@ router: {"section": "Record types in any country", "group": "Church and congrega
 Use this recipe before you conclude that a Catholic baptism, marriage or burial does not exist or that a register was lost. Use it when one parish search or one online collection has failed, when a parish name matches several churches, when a parish has closed or merged, or when the spouses in a marriage may have been related. It builds a holdings register: the parish that kept the register, alternative parishes, the diocesan copy, the successor custodian and any dispensation file, each with the level actually inspected.
 
 For Irish parishes and the National Library of Ireland (NLI) images, use [Irish Catholic parish image recovery](irish-catholic-parish-image-recovery.md). For FamilySearch Catalog and DGS steps, use [FamilySearch practical record workflows](familysearch-practical-record-workflows.md). For cemetery follow-up, use the [burial evidence packet](burial-evidence-packet.md). For identity and kinship rulings, and for comparing a register with its copy, use [evidence/proof judgment](evidence-proof-judgment.md).
+
+## Contents
+
+- 1\. Find the parish that kept the register, not just a church name
+- 2\. Widen the search in a fixed order and record each step
+- 3\. Record originals and copies as separate holdings
+- 4\. Treat an online miss as a coverage question first
+- 5\. Search dispensations and status proofs as separate records
+- 6\. Check for batch recording before using exact dates and places
+- 7\. Read names in sacramental entries
+- Output: holdings register
 
 ## 1. Find the parish that kept the register, not just a church name
 
@@ -94,6 +105,12 @@ For German, Latin and English terms, and for degrees under old and new canon law
 If several baptisms are entered under one date, the priest may have gathered notes from his circuit and written them up together. Such entries can be less accurate than they look. [S1], [S2] Flag the run as possible batch recording, compare sequence and handwriting, and keep the date and church as written. Treat them as the date and place of entry rather than of the ceremony only when the entry itself or the register's demonstrated practice shows that.
 
 When an entry says the priest supplied the ceremonies of baptism for a child already baptized privately, often at home by a layperson (French *ondoyé*), do not read it as a second baptism or take its date as the baptism date. A valid baptism was not repeated: after a private baptism in necessity, a priest supplied the other ceremonies later, in church, if the child survived [S44]. Record two events, the private baptism with its baptizer and any date given, and the supplied ceremonies on the entry date. In a 1742 Port-Royal entry the priest supplied the ceremonies on 24 June for a boy born on 17 June and baptized at home by a named layman [S45]. Keep the lay baptizer's name. Acadian relatives or witnesses baptized newborns while families waited for a missionary priest, who often entered that baptism later [S46], so the same layman baptizing a family's children in different years is a lead to where they lived, not proof of it [S47]. A lay baptism can also mean the child was in danger of death [S44].
+
+## 7. Read names in sacramental entries
+
+**Additional saints' names.** Check whether a local baptismal custom accounts for an added saint's name [S48]. In late-15th-century Florentine baptisms, *Romolo* or *Romola* added after the other given names can reflect devotion to a local saint [S49]. Keep the names in the recorded order. Do not use a shared *Romolo* or *Romola* by itself as evidence of kinship.
+
+**Mother's maiden name.** Check her children's baptisms and her own marriage entry first [S50], [S51]. The baptism may give her maiden name alongside the father's name, and the marriage may give it as the bride's surname [S51]. Check confirmation for her surname when the register records parents. A confirmation list can give a recipient and sponsor without naming either parent [S52]. Keep the maiden name unresolved if the entry gives only a married surname or leaves the surname blank.
 
 ## Output: holdings register
 

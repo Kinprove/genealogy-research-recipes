@@ -71,6 +71,10 @@ Treat structural validity and sharing readiness as separate findings. For an onl
 - **For a conversion, keep the original file unchanged** and write the result as a separate derivative file.
 - **Keep the research log, the research notes and the report.** The GEDCOM does not replace them. Do not hold the export back until every search is finished.
 
+**Privacy gate:** <!-- privacy-gate: export --> The Ancestry export copies the selected tree, which may include living or possibly living people, from the user's Ancestry account to their own device. Apply the privacy gate in `SKILL.md` before export and keep the ZIP and extracted file local.
+
+For an Ancestry tree the user owns, open **Tree Settings** and choose **Export tree** under **Manage your tree** [S24 @2026-11-18], [S25 @2026-11-18]. Select **Export** if the download button is missing. When **Download Your GEDCOM File** is available, select it and extract the `.ged` from the ZIP on the user's device [S25 @2026-11-18].
+
 ## 2. Put only evaluated findings in the file
 
 - **Export only people, events and links that have been evaluated against the evidence.** Keep hypotheses, candidates and unresolved alternatives in the research notes, not as facts or links in the file.
@@ -156,6 +160,10 @@ the private details. Renaming a file does not make its contents ready to share.
 - **Never upload a reduced test file over an existing online tree.** A re-import can replace the tree. Familio's help (a Russian-language tree service; checked 2026-11-04) says a re-import always fully replaces person pages: the new file replaces the old one, and all edits made by hand on Familio are lost [S11]. Test on a separate test tree or with a small synthetic file, and only on a destination the user chose.
 
 On MyHeritage, importing a GEDCOM creates a new family tree on the family site and does not merge it with any existing tree there; MyHeritage also does not merge two family sites directly [S17 @2026-11-12]. Tell the user that an upload creates a separate tree; it will not update or merge into their existing MyHeritage tree. Plan the merge instead: offline in Family Tree Builder before syncing, which MyHeritage suggests [S17 @2026-11-12], or by copying evaluated changes across by hand [S18 @2026-11-12]. Either way, apply §7: map the IDs, and do not merge same-named people automatically.
+
+**Privacy gate:** <!-- privacy-gate: upload --> A GEDCOM import sends tree data that may include living or possibly living people to the user's chosen MyHeritage family site. During registration the account holder's signup details also go to MyHeritage. Answer the privacy gate in `SKILL.md` and apply section 8's living-person rules before selecting the file for upload.
+
+Import the prepared `.ged` into MyHeritage. On the existing family site the user chose, select **Family Tree → Import GEDCOM**, then use **Upload** to select the file or drag it onto the page [S24 @2026-11-18], [S26 @2026-11-18]. To import while registering for a first family site, choose **Import tree (GEDCOM)** on the registration page and select the file. Have the account holder enter their name, gender and email address, then select **Get started** [S26 @2026-11-18].
 
 **Cross-reference IDs in 5.5.1:** the first character may be a letter, an underscore or a digit, and lowercase letters are allowed, unlike in 7.0 [S15]; the standard's own example ID is `@1234@` [S16]. A leading digit is valid in both versions and is no reason to rewrite IDs. If an importer still rejects the file's IDs, rename them in a derivative copy: a pointer must match a cross-reference ID in the same file [S16], so change each ID and every pointer to it in one pass, and add each old and new ID to the packet's ID map.
 

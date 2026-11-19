@@ -38,9 +38,9 @@ the additional Q&A was reviewed 2026-10-21.
   and AutoClusters as checks. Extending the caution from a vendor-proposed path to a fully
   documented one, and the `unresolved` default, are Kinprove synthesis.
 
-### Sources for the 2026-11-12 additions
+### Sources S1–S19
 
-The recipe cites these as S1–S19. MyHeritage help pages showed the date 2026-07-21 when read.
+MyHeritage help pages showed the date 2026-07-21 when read.
 Community posts are cited for their authors' own observations; platform behaviour rests on the
 MyHeritage pages beside them. No live MyHeritage account was used.
 
@@ -53,9 +53,9 @@ MyHeritage pages beside them. No live MyHeritage account was used.
 - **S7:** Jonny Perl, DNA Painter blog, [Segment data: what's going on?](https://dnapainter.com/blog/what-is-going-on-with-segment-data/), published 2023-11-20, read 2026-11-12. Used for: MyHeritage's removal of the all-match segment export in October 2023.
 - **S8:** MyHeritage Help Center, [How can I download the shared DNA segments data from the chromosome browser?](https://www.myheritage.com/help/en/articles/12851466-how-can-i-download-the-shared-dna-segments-data-from-the-chromosome-browser), page dated 2026-07-21, read 2026-11-12. Used for: the Advanced options → Download shared DNA info route and the CSV's contents and scope.
 - **S9:** Daniella Levy, MyHeritage Knowledge Base, [Family Tree Maintenance: Best Practices Checklist](https://education.myheritage.com/?p=21238), undated, read 2026-11-12. Used for: theories added in periodic updates rather than calculated automatically.
-- **S10:** MyHeritage Knowledge Base, [Why You Should Check Your Theories of Family Relativity Regularly](https://education.myheritage.com/article/why-you-should-check-your-theories-of-family-relativity-regularly/), undated, read 2026-11-12. Used for: periodic runs and the NEW badge on theories from the last 30 days.
+- **S10:** MyHeritage Knowledge Base, [Why You Should Check Your Theories of Family Relativity Regularly](https://education.myheritage.com/article/why-you-should-check-your-theories-of-family-relativity-regularly/), undated, read 2026-11-12. Used for: periodic runs and the NEW badge on theories from the last 30 days. Re-read 2026-11-18 for the temporary banner and its View theories button, which filters the match list to all matches with a theory.
 - **S11:** MyHeritage Blog, [New Update to Theory of Family Relativity](https://blog.myheritage.com/2022/06/new-update-to-theory-of-family-relativity/), published 2022-06-29, read 2026-11-12. Used for: the 2022 conditions (tree through the grandparents; a plan or the uploaded-kit unlock).
-- **S12:** MyHeritage Blog, [Major Update to Theory of Family Relativity: 103 Million Theories Added](https://blog.myheritage.com/2025/11/major-update-to-theory-of-family-relativity-103-million-theories-added/), published 2025-11-13, read 2026-11-12. Used for: the plans named for a full theory and the "All tree details" filter label. It gives no run schedule.
+- **S12:** MyHeritage Blog, [Major Update to Theory of Family Relativity: 103 Million Theories Added](https://blog.myheritage.com/2025/11/major-update-to-theory-of-family-relativity-103-million-theories-added/), published 2025-11-13, read 2026-11-12. Used for: the plans named for a full theory and the "All tree details" filter label. It gives no run schedule. Re-read 2026-11-18 for View theory and switching between alternative paths in the diagram.
 - **S13:** MyHeritage Help Center, [How can I filter the Theory of Family Relativity?](https://www.myheritage.com/help/en/articles/12851481-how-can-i-filter-the-theory-of-family-relativity), page dated 2026-07-21, read 2026-11-12. Used for: the Tree details filter's theory option.
 - **S14:** Roberta Estes, DNAeXplained, [MyHeritage Whole Genome Sequencing (WGS) Results and Comparison](https://dna-explained.com/2026/02/19/myheritage-whole-genome-sequencing-wgs-results-and-comparison/), published 2026-02-19, read 2026-11-12. Used for: theories not yet calculated for a new kit and differing by kit with its matches.
 - **S15:** MyHeritage Help Center, [What is the Theory of Family Relativity?](https://www.myheritage.com/help/en/articles/12852565-what-is-the-theory-of-family-relativity), page dated 2026-07-21, read 2026-11-12. Used for: the number of theories depending on the tree's size and detail.
@@ -64,7 +64,7 @@ MyHeritage pages beside them. No live MyHeritage account was used.
 - **S18:** Roberta Estes, DNAeXplained, [Cousin Finder – MyHeritage's Innovative New Tool Finds Your Relatives](https://dna-explained.com/2025/10/09/cousin-finder-myheritages-innovative-new-tool-finds-your-relatives/), published 2025-10-09, read 2026-11-12. Used for: finding trees for matches from other companies. No MyHeritage page describes this cross-company use; the identity check is Kinprove's.
 - **S19:** Jonny Perl, DNA Painter blog, [Investigating a new DNA match](https://dnapainter.com/blog/investigating-a-new-dna-match/), published 2021-02-22, read 2026-11-12. Used for: the "All tree details" → Has Theory of Family Relativity filter as one user saw it. Its route to a segment file from the match page is not current help and is not used.
 
-### Sources for the 2026-11-14 additions
+### Sources S20–S25
 
 - **S20:** Diane Rogers, Price Genealogy, [DNA – Shared Matches and Clustering](https://www.pricegen.com/dna-shared-matches-and-clustering/), published 2023-07-28, read 2026-11-14. Used for: a researcher's maternal matches possibly not shared with her maternal aunt, so clusters not shared with the aunt are not thereby paternal.
 - **S21:** Legacy Tree Genealogists, [Why Don't I Share Any DNA with My Known Relative?](https://www.legacytree.com/blog/why-dont-i-share-any-dna-with-my-known-relative), published 2019-06-04, read 2026-11-14. Used for: an aunt's DNA containing segments the researcher's mother did not inherit or did not pass on.
@@ -73,7 +73,7 @@ MyHeritage pages beside them. No live MyHeritage account was used.
 - **S24:** MyHeritage Wiki, [Theory Of Family Relativity](https://www.myheritage.com/wiki/Theory_of_Family_Relativity), undated, read 2026-11-14. Used for: each joining link carrying its own confidence level, and confirming a theory that is accurate through any path or rejecting it.
 - **S25:** Yvette Hoitink, Dutch Genealogy, [Quick tip: The first of same-named siblings probably died young](https://www.dutchgenealogy.nl/the-first-of-same-named-siblings-probably-died-young/), published 2014-07-16, read 2026-11-14. Used for: a later child named after a sibling who had died, and the rare case of two living siblings named after two same-named grandparents.
 
-### Sources for the 2026-11-16 additions
+### Sources S26–S30
 
 The recipe cites these as S26–S30 in workflow 4's subsection "Record cM Explainer predictions in
 their direction and full range". The community source is S27, a MyHeritage blog post from which a
@@ -87,6 +87,25 @@ entering numbers only, and the ban on looking up a match's age elsewhere are Kin
 - **S28:** MyHeritage Help Center, [Why does my DNA Match show the wrong relationship?](https://www.myheritage.com/help/en/articles/15835230-why-does-my-dna-match-show-the-wrong-relationship), page dated 2026-10-15, read 2026-11-16. Used for: predictions using the shared cM and the dates of birth on file for the kits; a missing, partial (year-only) or wrong date of birth, a wrong kit assignment, or a wrong profile gender giving a wrong label, both "Father" and "Son", or swapped aunt/uncle and mother/father labels; clicking the label on a DNA Match card to see all probable relationships with percentages; and opening cM Explainer to enter the cM value without ages for relationships based only on shared DNA.
 - **S29:** Erica Edvi, MyHeritage Blog, [New Enhancements to cM Explainer™](https://blog.myheritage.com/2023/04/new-enhancements-to-cm-explainer/), published 2023-04-24, read 2026-11-16. Used for: the endogamy adjustment limited to Ashkenazi Jewish ethnicity and to matches sharing under 200 cM, and its absence from the standalone tool, which takes no ethnicity data. The post does not address pedigree collapse. No later MyHeritage page found on 2026-11-16 describes the adjustment, so the recipe states it with its 2023 date.
 - **S30:** Melanie Mohler, Your DNA Guide, [MyHeritage cM Explainer | Estimate DNA Relationships](https://www.yourdnaguide.com/ydgblog/myheritage-cm-explainer), published 2023-03-02, read 2026-11-16. Used for: the standalone tool's inputs (shared cM, the tester's age, the match's age optional) and its use by people who tested with other DNA companies. The page does not say whether an account is needed.
+
+### Sources S31–S42
+
+The numbered entries below were reviewed as text. The community accounts document specific observations.
+Current platform behavior was checked against public documentation. The rule to treat a candidate
+couple as provisional is Kinprove synthesis.
+
+- **S31:** MyHeritage Blog, [MyHeritage Upgrades Its DNA Tests to Whole Genome Sequencing](https://blog.myheritage.com/2025/10/myheritage-upgrades-its-dna-tests-to-whole-genome-sequencing/), published 2025-10-17, read 2026-11-18. Community source for the FAQ stating that existing array tests and previously uploaded results continue to match newly sequenced kits. Future changes to match accuracy and counts are projections in the post.
+- **S32:** Daniella Levy, MyHeritage Blog, [There Was Only Me… Now There’s a We](https://blog.myheritage.com/2022/08/there-was-only-me-now-theres-a-we/), published 2022-08-16, read 2026-11-18. Community account of a researcher whose only lead was absent from her AutoClusters chart and whom she messaged on MyHeritage. The source gives no reason for the omission.
+- **S33:** MyHeritage Blog, [Introducing AutoClusters for DNA Matches](https://blog.myheritage.com/2019/02/introducing-autoclusters-for-dna-matches/), published 2019-02-28, read 2026-11-18. Used for: the report covering selected matches and thresholds varying by kit. These thresholds do not establish why the match in S32 was omitted.
+- **S34:** Daniella Levy, MyHeritage Blog, [Her DNA Sample Sat in a Drawer for 3 Years. Then She Sent It — and Found a Sister](https://blog.myheritage.com/2022/12/her-dna-sample-sat-in-a-drawer-for-3-years-then-she-sent-it-and-found-a-sister/), published 2022-12-08, read 2026-11-18. Community account of a researcher recognizing three shared cousins on one branch of her tree and using that placement to identify an ancestral couple to investigate.
+- **S35:** MyHeritage Help Center, [How do I review a DNA Match?](https://www.myheritage.com/help/en/articles/12852038-how-do-i-review-a-dna-match), page dated 2026-07-21, read 2026-11-18. Used for: Shared DNA Matches as clues to the side of the family and the pedigree chart as a means to look for common ancestors.
+- **S36:** Erica Edvi, MyHeritage Blog, [Theory of Family Relativity™ Update](https://blog.myheritage.com/2024/02/theory-of-family-relativity-update/), published 2024-02-01, read 2026-11-18. Community source for View theories on the banner and View theory on the match card with a choice of path. S10 and S12 corroborate those routes. The recipe keeps its later source for access conditions.
+- **S37:** Toni Fuller, MyHeritage Blog, [I Found Granny’s Birth Dad Thanks to a Newspaper Record on MyHeritage](https://blog.myheritage.com/2025/05/i-found-grannys-birth-dad-thanks-to-a-newspaper-record-on-myheritage/), published 2025-05-27, read 2026-11-18. Community account of using a warrant surname to find DNA results, then finding the named man's admission of paternity in a linked First World War personnel file. The account supplies the example of a court enclosure.
+- **S38:** Archives New Zealand, [World War One service records](https://www.archives.govt.nz/find-a-record/world-war-one-service-records), undated, read 2026-11-18. Used for: biographical details such as occupation and next of kin in personnel files. The guide does not list civil court papers as standard contents.
+- **S39:** Daniella Levy, MyHeritage Blog, [I Reunited a Pair of First Cousins Thanks to My Family History Research](https://blog.myheritage.com/2022/08/i-reunited-a-pair-of-first-cousins-thanks-to-my-family-history-research/), published 2022-08-30, read 2026-11-18. Community account of a useful match appearing after the initial results had offered no good lead.
+- **S40:** Roi Mandel, MyHeritage Blog, [‘He’s Found the Answers’: Londoner in Germany Finds Birth Mother & 2 Full Brothers in Ireland](https://blog.myheritage.com/2024/09/hes-found-the-answers-londoner-in-germany-finds-birth-mother-2-full-brothers-in-ireland/), published 2024-09-12, read 2026-11-18. Community account of a tester returning after a strong-match email and finding a first cousin after initially seeing distant matches. The observed delay is specific to that tester.
+- **S41:** MyHeritage Help Center, [How can I message a DNA match?](https://www.myheritage.com/help/en/articles/12851507-how-can-i-message-a-dna-match), page dated 2026-07-21, read 2026-11-18. Used for: the existence of DNA match notification emails.
+- **S42:** MyHeritage Help Center, [How do I get DNA Matches?](https://www.myheritage.com/help/en/articles/12851902-how-do-i-get-dna-matches), page dated 2026-07-21, read 2026-11-18. Used for: previously uploaded autosomal results still being eligible for DNA Matches. Cross-matching with newly sequenced kits is described in S31.
 
 ### Platform recheck, 2026-11-12
 
@@ -105,8 +124,7 @@ their help pages remain dated 21 July 2026. Two further help pages agree with th
 I message a DNA match? (21 July 2026) says contacting DNA matches is free for all DNA users, and
 the WGS upgrade page (edited 18 October 2026) says the raw-file header shows the processing used
 and that earlier kits are not reprocessed. Videos B16, B17, B19 and B20 and practitioner posts
-B18 and B21 support methods or attributed observations and were not rechecked. The recipe text
-needed no change.
+B18 and B21 support methods or attributed observations and were not rechecked.
 
 ## Credits
 
@@ -120,4 +138,5 @@ needed no change.
 - Melanie Mohler, Your DNA Guide, MyHeritage cM Explainer | Estimate DNA Relationships, blog post, 2023-03-02, cited as S30 — All rights reserved; short attributed facts (adapted)
 - Vera Miller, Lost Russian & Ukrainian Family, MyHeritage is on deadline to make a difficult change for some users on Feb. 1, blog post, 2025-01-04, cited as S6 — All rights reserved; short attributed facts (adapted)
 - The Moscow Times, Genealogy Platform MyHeritage Suspends Services in Russia, news report, 2024-12-31, cited as S5 — All rights reserved; short attributed facts (adapted)
+- MyHeritage Blog, reader accounts cited as S32, S34, S37, S39 and S40 — Short attributed adaptations (adapted)
 - Kinprove original procedural synthesis; platform facts attributed to the MyHeritage Knowledge Base, Help Center and blog pages listed in Sources — FSL-1.1-MIT (kinprove-original)

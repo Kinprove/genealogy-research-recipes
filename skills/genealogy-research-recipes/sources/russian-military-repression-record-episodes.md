@@ -385,7 +385,7 @@ example whose present Belarusian custodian was not confirmed, which interior-min
 which convict cards, and that the Dresden index and OBD Memorial reproduce the same cards. The
 Dresden and OBD Memorial rule is therefore stated as a check, not as a finding.
 
-### Sources added 2026-11-12
+### Sources H75–H118
 
 - **H75:** Amie Tennant, FamilySearch Blog, [How to Find Russian Military Records from World War II](https://www.familysearch.org/blog/en/find-russian-military-records-world-war-2), published 2020-05-13, read 2026-11-12. Used for: searching Pamyat Naroda with Russian spelling, and the example of «Иванов» with over 950,000 results against none for "Ivanov".
 - **H76:** Legacy Tree Genealogists, [Finding Your Soldier of the Great Patriotic War of 1941–45 (Eastern Front of WWII): Part I](https://www.legacytree.com/blog/soviet-military-service), published 2020-08-14, read 2026-11-12. Used for: Pamyat Naroda's conscription and demobilisation records from enlistment offices, navy and officer card files, burial details and loss and POW documents, and searches conducted in Russian.
@@ -411,8 +411,6 @@ Dresden and OBD Memorial rule is therefore stated as a check, not as a finding.
 - **H96:** Бессмертный барак, [Книги памяти](https://bessmertnybarak.com/books/), read 2026-11-12. Used for: the scope of people repressed from October 1917 to 1991 and the memory-book sections by country and list.
 - **H97:** Vera Miller, Lost Russian & Ukrainian Family, [Growing Soviet-era persecution database gives faces to victims](https://lostrussianfamily.wordpress.com/2024/11/23/growing-soviet-era-persecution-database-gives-faces-to-victims/), published 2024-11-23, read 2026-11-12. Used for: the fields she saw on victim pages. No victim page was opened in this check.
 
-### Sources added 2026-11-13
-
 - **H98:** KGB of the USSR Council of Ministers, note to the CPSU Central Committee No. 3265-с of 25 December 1962, [English translation in the Bukovsky Archive](https://bukovsky-archive.com/2016/07/01/25-december-1962-3265-s/), read 2026-11-13. Used for: KGB instruction No. 108сс of 1955 on what relatives of people shot by non-judicial bodies were told and how those deaths were registered at ZAGS, the court-sentence practice, and the note's proposal.
 - **H99:** The same note, [scan of the Russian original](https://bukovsky-archive.com/wp-content/uploads/2015/07/25-dec-62-4-pp-3265-s.pdf), read 2026-11-13 from the scan's page images (the left margin is clipped and the third image repeats the second). Used for: the Russian wording on death dates within ten years of the arrest and invented causes, and the military tribunals beside the Military Collegium, which the translation omits.
 - **H100:** Закон РФ от 18.10.1991 № 1761-1 «О реабилитации жертв политических репрессий» (ред. от 25.12.2023), [ст. 3](https://www.consultant.ru/document/cons_doc_LAW_1619/f130ce721f7ec7ae964cee1f78e85b0bd0f599ec/), ConsultantPlus, read 2026-11-13. Used for: point «в», people subjected by administrative order to exile, banishment, special settlement or forced labour under restricted freedom, including in "NKVD labour columns".
@@ -435,7 +433,7 @@ Dresden and OBD Memorial rule is therefore stated as a check, not as a finding.
 - **H117:** ЦДАВО України, [ф. 3206, опис 6](https://e-resource.tsdavo.gov.ua/inventories/2900/), annotation read 2026-11-13; the file list did not load. Used for: the labour department's lists, certificates, questionnaires and personal and court files of Russians and Ukrainians who worked in Germany, and its alphabetical card index.
 - **H118:** ЦДАВО України, [ф. 3206, опис 2](https://e-resource.tsdavo.gov.ua/inventories/2897/), annotation read 2026-11-13. Used for: the forced mobilisation of the local population for work in Germany.
 
-### Sources added 2026-11-15
+### Sources H119–H135
 
 H122, H124, H125, H127, H131 and H133 are posts on the Dzen channels «Сыщик рода», «Поиск предков: Тульская губерния» and «Генеалогия, или Как я встретил вашу маму», read on 2026-11-15 from copies captured that day, without their images. They report their authors' own family searches and apply only to the cases they describe. H132 is a researcher's course chapter published in a VK blog. The live sites were opened on 2026-11-15; ancestry.com refused an automated request that day, so the Ancestry access terms rest on Arolsen's release.
 
@@ -459,7 +457,7 @@ H122, H124, H125, H127, H131 and H133 are posts on the Dzen channels «Сыщи�
 
 - **H135:** Bundesarchiv, [Запросы о советских военнопленных, находившихся под стражей в Германии в 1941-1945 гг.](https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/personen-und-familienforschung/personenbezogene-unterlagen-militaerischer-herkunft-bis-1945/zaprosy-o-sovetskikh-voennoplennykh-nakhodivshikhsja-pod-strazhei-v-germanii-v-1941-1945-gg/), read 2026-11-16. Used for: the database's POW/camp/work-detachment scope, the Russian-permitted database form, signed German Benutzungsantrag and email/post route to Abteilung Deutsches Reich. No request was sent; this does not verify any individual record or a civilian-record route.
 
-### Sources added 2026-11-16
+### Sources H136–H148
 
 H136, H137, H139, H141, H143, H144 and H146 are posts on the Dzen channel «История одной семьи. Юлия Новожилова», read on 2026-11-15 from copies captured that day, without their images. They report the author's own family searches and apply only to the cases they describe. The other sources were opened on 2026-11-16; gwar.mil.ru failed TLS that day, so nothing about GWAR's card types rests on the site itself.
 
@@ -477,6 +475,11 @@ H136, H137, H139, H141, H143, H144 and H146 are posts on the Dzen channel «Ис
 - **H147:** Государственная публичная историческая библиотека, [«Именной список потерь на фронтах в личном составе рабоче-крестьянской Красной армии за время гражданской войны. - [М.], 1926»](http://elib.shpl.ru/ru/nodes/5061-imennoy-spisok-poter-na-frontah-v-lichnom-sostave-raboche-krestyanskoy-krasnoy-armii-za-vremya-grazhdanskoy-voyny-m-1926) (http only: no https response), electronic library record, read 2026-11-16. Used for: the bibliographic description (ГУРККА, 1926, 635 pages), the collection of genealogical and biographical reference books, and the page-by-page scan. The https address redirected to http that day.
 - **H148:** Российская газета, [«Течет река "Бессмертного полка". В России проходит онлайн-шествие народной памяти»](https://rg.ru/2026/05/09/v-rossii-idet-onlajn-shestvie-bessmertnogo-polka.html), 9 May 2026, read 2026-11-16. Used for: contacting the relatives of a soldier or the descendants of fellow soldiers through the movement's site to find documents or photos that others hold.
 
+### Sources H149–H150
+
+- **H149:** Roi Mandel, MyHeritage Blog, [Holocaust Survivor, 92, Finally Learns Brother’s Fate Thanks to MyHeritage](https://blog.myheritage.com/2023/09/holocaust-survivor-92-finally-learns-brothers-fate-thanks-to-myheritage-dna/), community account published 2023-09-21, read 2026-11-18. The post reports a family assumption that a missing relative died in the destruction of his hometown and an archival search that placed him in a field hospital in another town, where it says he later died and was buried. Used to motivate the hospital search. The post gives no original military record or archival locator for the case.
+- **H150:** Russian Ministry of Defence, OBD Memorial, [Поиск (Search help)](https://obd-memorial.ru/memorial/help_ru.htm), read 2026-11-18. Used for the separately selectable hospital and medical-battalion documents and named burial lists in advanced search.
+
 ## Credits
 
 - Vera Miller, Lost Russian & Ukrainian Family, posts of 2023-03-04 to 2026-07-18, cited as H78–H80, H83, H86, H88, H91, H92, H94 and H97 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
@@ -486,3 +489,4 @@ H136, H137, H139, H141, H143, H144 and H146 are posts on the Dzen channel «Ис
 - СВРТ, Нумизмат, the Russian State Library catalogue, «Дорога памяти», Arolsen Archives, ProQuest and Е. Васильева pages, cited as H119–H121, H123, H126 and H128–H132 — Copyright of their publishers; paraphrase (adapted)
 - Posts on the Dzen channel «История одной семьи. Юлия Новожилова», cited as H136, H137, H139, H141, H143, H144 and H146 — Copyright of their author; short quotation and paraphrase (adapted)
 - E1.RU, Новая газета, Википедия, Familio, the State Public Historical Library's record and Российская газета, cited as H138, H140, H142, H145, H147 and H148 — Copyright of their publishers; Wikipedia text CC BY-SA; short quotation and paraphrase (adapted)
+- Roi Mandel, MyHeritage Blog, cited as H149, and OBD Memorial help, cited as H150 — Sources paraphrased with attribution (adapted)

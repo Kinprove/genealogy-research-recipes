@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-21"
 checked_basis: "checked on 2026-10-21"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 145}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 166}
 ---
 
 # Read tax rolls as a liability-bounded annual series
@@ -41,6 +41,10 @@ First find out which years survive, and separately which years are in the set yo
 
 A name index is also a finding aid, not an inspection. FamilySearch's "Texas, County Tax Rolls, 1837–1910" indexes only selected years: the first year before 1845, then 1845, 1855, 1865, 1875, 1885, 1890, 1895 and 1905. It covers 231 of 254 counties and is about 13% complete. A miss in an index like that is "not inspected" for the year and county concerned. It becomes "inspected – no hit" only after you have read the images. Treat a list you find through a county guide or an abstract card the same way: record it as a finding aid, not as the inspected list [S16].
 
+Use MyHeritage's *England and Wales, Hearth Tax, 1662–1674* index for household-head names and residence dates and places [S47 @2026-11-18], [S49 @2026-11-18]. Check the collection's county list before searching. Pembrokeshire is the only Welsh county listed [S49 @2026-11-18].
+
+Use MyHeritage's Chester County septennial census index for name and residence leads from 1793 to 1863 [S50 @2026-11-18], [S52 @2026-11-18]. Consult the Chester County Archives' missing-township list for the target township and enumeration year before interpreting an index miss [S51 @2026-11-18], [S58 @2026-11-18].
+
 ## 2. Record the liability scope for each year before interpreting
 
 For each jurisdiction and year, write down who was liable and for what:
@@ -68,6 +72,10 @@ For Virginia colonial tithables, do not assume a minimum age of 21 or a white-ma
 
 Do not read homestead land as permanently exempt, as one community post implies [S43]. Land entered under the federal land laws could not be taxed by the state or county until the entrant had a perfect equity, at final proof and payment, or until the patent issued, so a homestead or other unpatented entry can be missing from the county land roll for years after settlement [S42]. In *Duncan v. Newcomer* (1896), the South Dakota Supreme Court held a homestead untaxable until the settler's final proof, and cited the rule that land became taxable after entry, payment and final certificate, before the patent [S42]. Check the land-office entry, final-proof and patent dates before you read a settler's absence from the land roll.
 
+For a household missing from a hearth-tax payment list, test whether it was exempt [S47]. Look for a non-chargeable entry or an exemption certificate for the place and term. Check the grounds in force, including whether the householder was excused from church and poor rates because of limited means or met the applicable rent and property limits [S48].
+
+For a free Black woman on a colonial Virginia tithables list, check the law in force before assigning liability. The Just Genealogy presenter reports that free women of color could be liable in Virginia [S53†]. The September 1668 act confirmed that Black women who had been freed remained liable [S56].
+
 ## 3. Search each tax series separately
 
 Search the land series and the personal-property or poll series separately, and keep a separate register for each. A man without land can still appear on a personal-property list as a single taxable poll or because of a taxable item such as a horse or a watch [S5]. On Virginia lists, horses were taxed from 1782 and watches had their own columns in the 1850s.
@@ -81,6 +89,8 @@ In seventeenth- and eighteenth-century Virginia records, read "tithable" as a pe
 In Pennsylvania township lists, "inmates" are renters or lodgers on someone else's land who were taxed on personal property. They are not prisoners. Exact definitions vary by county and period [S4], so record which section of the list each entry is in. The same presenter says Pennsylvania taxed some personal property, such as cattle and horses, up to the 1840s. Livestock appears on county lists from the 1780s and 1790s. For later years, take livestock liability from the list's column headings or the assessment law for that year, not from the 1840s date [S4].
 
 A land-tax entry in a person's own name shows that the person had a taxable interest in land there; it does not show that they lived there [S41]. An entry that names someone as agent, guardian or administrator records that capacity for another's land, not that person's own interest: record the capacity and keep the representative apart from the assessed owner, as in the McClure entries in section 5. Many rolls listed non-residents' land separately: Texas county rolls often carry a heading for property in the county owned by non-residents, and Mississippi kept non-resident land tax lists from 1844 to 1895 [S39], [S40]. Record which section an entry is in. For an owner who may not have lived there, test the alternatives Genealogy Tip of the Day names, land speculation, a former residence, inherited land and military bounty land, before you place them in the county [S41].
+
+Read a Pennsylvania septennial census as a seven-year enumeration of taxable inhabitants first authorized in 1779 [S50], [S51]. Look for the person's name, township and occupation in the return [S51], [S59]. Treat an absence as a residence clue only after verifying that the inclusion rule for that enumeration covered the person [S51].
 
 ## 4. Learn how the volume is arranged before browsing
 
@@ -106,6 +116,12 @@ When a parish is known from church records but the tax archive uses unfamiliar a
 ## 5. Extract one row per entry
 
 Name every column from its heading before you read its values: a sum of money, arrears, an age, a household or list number, a count of polls or animals. A number beside a name is not an age until a heading says it is one, and a column without a heading stays unread until the list's preamble or the governing law explains it (step 2). Keep the literal heading with the values. If a column gives ages, take the date they are reckoned from out of its heading, not from the year on the volume's label; if the heading leaves that date open, record no birth year from those ages.
+
+Read *chimney money* in England and Wales as the hearth tax introduced in 1662 and assessed per hearth or stove [S47], [S48]. Its two equal installments fell due at Lady Day (25 March) and Michaelmas (29 September) [S47], [S48]. Record the stated collection term as well as the year and keep the two terms separate in the series register.
+
+Transcribe *LF* as written and expand it as *levy free* where the list or its annotated transcription supports that reading, as in the 1813 Charlotte County, Virginia, roll [S54]. The Just Genealogy presenter reports this reading and gives a court order as one route to exemption [S53†]. Where the law provided for individual exemptions, check the county order book for the grant and record its scope and effective date. A St. Peter's Parish vestry entry records a parishioner producing such an order [S55].
+
+If a Virginia tithables list names an overseer, record that capacity alongside the enslaved people listed and the person charged with the levy. The Just Genealogy presenter reports that an overseer could be involved in the levy [S53†]. Under Virginia's October 1748 act, an overseer could file the list for an absent or nonresident owner, who still owed the levy on tithables the overseer failed to list [S57].
 
 For each entry, keep:
 

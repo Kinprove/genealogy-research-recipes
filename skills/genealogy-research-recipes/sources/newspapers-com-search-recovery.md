@@ -1,8 +1,5 @@
 ## Sources
 
-> Rights: third-party sources are cited for attribution and are not reproduced. The expression
-> and retrieval sequence are Kinprove's original distillation.
-
 Practitioner examples support the search tactics; their historical interfaces are not a
 promise about current controls.
 
@@ -138,6 +135,10 @@ Internet Archive capture named:
 - **S90:** Aaron Goodwin, NGS Monthly, [Unpacking Real Estate Abstracts](https://ngsmonthly.ngsgenealogy.org/unpacking-real-estate-abstracts/), 2021-06-30; the public excerpt read 2026-11-14, the rest of the article being for members only. Used for: real-estate abstracts that name grantees and grantors, locate the land and give the amount, common but not universal from the late 19th century onward, and usable as substitute indexes to deeds.
 - **S91:** Michael John Neill, Genealogy Tip of the Day, [Initialing Abbreviations](https://genealogytipoftheday.com/index.php/2025/04/22/initialing-abbreviations/), 2025-04-22, read 2026-11-14. Used for: typesetters, editors or writers who abbreviated a given name, as Wm., Jas., Saml., Geo. or Edw., or used only an initial to save space, though the person may never have done so.
 - **S92:** MyHeritage Wiki, [How to search for people in newspapers](https://www.myheritage.com/wiki/How_to_search_for_people_in_newspapers), dated 2025-08-08, read 2026-11-14. Used for: abbreviations used in old newspapers to save space, most notably in given names, with a list that includes Wm, Jas, Geo, Chas, Saml and Thos.
+- **S93:** Family Tree Magazine, [Writing About the Places Your Ancestors Lived – An Interview with Laura Hedgecock | Episode 190](https://www.youtube.com/watch?v=ixxtVKaS8YQ), YouTube upload dated 2025-01-16. Reviewed community source (video, partial access). Supplied transcript excerpts read on 2026-11-18. The video and its full captions could not be opened. The excerpts contain a speaker's account of finding an itemized sale advertisement with an address-only query and a suggestion to browse local issues from the relevant day and the days around it. The original advertisement and obituary were not inspected.
+- **S94:** Heather Haunert, NewspaperArchive, [31 Days of Family History: One Newspaper Search a Day](https://newspaperarchive.com/blog/31-days-of-family-history-one-newspaper-search-a-day/), 2026-10-01. Reviewed web page, read on 2026-11-18. Days 3 and 13 support a local search on a street address without requiring a person's name. Day 20 recommends finding the likely local paper by place and approximate date and inspecting issues around the event.
+- **S95:** Deborah Sugg Ryan, Findmypast, [10 ways to find out what your house was like generations ago](https://www.findmypast.co.uk/blog/help/house-design-history), 2022-01-20. Reviewed web page, read on 2026-11-18. The author recommends street-name searches and describes finding a list of household contents offered for sale or auction. The linked 1844 newspaper page could not be opened.
+- **S96:** Ancestry Support, [Finding Information in Newspapers](https://help.ancestry.com/hc/en-us/articles/53933332190867-Finding-Information-in-Newspapers), undated. Reviewed help page, read on 2026-11-18. Its general search advice includes looking on and around the event date.
 
 ### Platform recheck, 2026-11-12
 
@@ -176,4 +177,8 @@ sources support methods, history and examples and were not re-read.
 - Talking Family History and Untangling Family History, videos cited as S65 and S77 — Standard YouTube License (all rights reserved by creator); paraphrase with attribution (adapted)
 - Sunny Jane Morton, Family Tree Magazine, cited as S69 — Third-party content, all rights reserved by the publisher; paraphrase with attribution (adapted)
 - Cari A. Taplin, Genealogy Pants blog, cited as S83 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Family Tree Magazine, Episode 190, cited as S93 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Heather Haunert, NewspaperArchive, cited as S94 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Deborah Sugg Ryan, Findmypast, cited as S95 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Ancestry Support, Finding Information in Newspapers, cited as S96 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

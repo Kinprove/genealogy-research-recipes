@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Original Kinprove synthesis. Third-party passages are **not reproduced**.
-
 Practitioner demonstrations (historical controls and examples; retain their methods rather than
 their numeric presets):
 
@@ -83,6 +81,9 @@ page's contents; it does not verify the signed-in interface or current access le
 - **H1:** GEDmatch, [How to upload DNA data](https://www.gedmatch.com/blog/how-to-upload-dna-data-from-23andme-ancestry-and-other-testing-companies/). Posted 2025-02-13; Rechecked 2026-11-12. Its tool table lists Matching Segment Search, Triangulation and Multiple Kit Analysis among the paid tools; its prices are not adopted.
 - **H2:** GEDmatch, [One-to-One Autosomal DNA Comparison](https://www.gedmatch.com/applications/one-to-one-autosomal-dna-comparison/). Opened 2026-11-08.
 - **H3:** GEDmatch, [One-to-Many](https://www.gedmatch.com/applications/one-to-many/). Opened 2026-11-08. Re-read 2026-11-16: a pink overlap value "may be an indication of a less accurate match"; the page sets no overlap figure, and its remark that more shared SNPs usually indicate a closer relationship is still not adopted.
+  The public page was also opened 2026-09-27 for its listing of One-to-Many Limited under Free
+  Tools and its description of results drawn from other uploads to GEDmatch. The signed-in search
+  was not tested.
 - **H4:** GEDmatch / Andy Lee, [How to triangulate your matches](https://www.gedmatch.com/education/how-to-triangulate-your-matches/). Rechecked 2026-11-12; the page carries the transcription of its video, which opens Triangulation from the Tier 1 tools rather than the free DNA applications.
 - **H5:** GEDmatch / Andy Lee, [Searching for segments on GEDmatch](https://www.gedmatch.com/education/searching-for-segments-on-gedmatch/).
 - **H6:** GEDmatch / Andy Lee, [DNA comparison matrices in Multiple Kit Analysis](https://www.gedmatch.com/education/an-overview-of-dna-comparison-matrices-in-multiple-kit-analysis/). Opened 2026-11-08; the page carries the full transcription of its video.
@@ -170,14 +171,19 @@ publication date (footer "© GEDmatch 2024").
 - **S29:** Mercedes Brons, Who Are You Made Of?, [What is Overlap on Gedmatch?](https://whoareyoumadeof.com/blog/what-is-overlap-on-gedmatch/), last updated 2022-12-09, read 2026-11-16. Used for: pink overlap cells marking low overlap, and not ignoring low-overlap matches outright. Its cutoff options are historical and not adopted.
 - **S30:** Legacy Tree Genealogists, [Dealing with Endogamy, Part I: Exploring Amounts of Shared DNA](https://www.legacytree.com/blog/dealing-endogamy-part-exploring-amounts-shared-dna), published 2016-10-13, read 2026-11-16. Used for: recalculating shared totals at GEDmatch under higher cM thresholds and comparing several totals. It gives no GEDmatch threshold value.
 
-### Additions and recheck, 2026-11-16
+### Platform recheck, 2026-11-16
 
 Rechecked 2026-11-16: H3 and H9 were re-read for the overlap flag and the Superkit's Tier 1
 listing, and H12–H19 and S26–S30 were opened for the additions to workflows 1 and 2 and the new
 "Compare trees through GEDCOMs" section. No GEDmatch page opened sets the 100,000-SNP overlap
 figure in S26, and none documents a One-to-One SNP-density display or how One-to-One treats
-positions one kit did not test, so the recipe adopts neither. The recipe header's `checked` date
-was not moved.
+positions one kit did not test, so the recipe adopts neither.
+
+### AncestryDNA transfer and cross-company matching
+
+- **H20:** GEDmatch, [Ancestry DNA | Dive into Your Results](https://www.gedmatch.com/education/ancestry/). Reviewed public help page, opened 2026-09-27. Used for: uploading an existing AncestryDNA raw data file to compare with kits from other testing services. The signed-in upload interface was not tested.
+- **H21:** GEDmatch, [You Look Like Me](https://www.gedmatch.com/you-look-like-me/). Reviewed public web page, opened 2026-09-27. Used for: the offer of free upload for existing AncestryDNA results. The podcast promotion and profile count are outside the recipe's scope.
+- **S31:** [How to Get the Most Out of DNA Matches Without Breaking the Bank](https://www.youtube.com/watch?v=_2rDmfgV4m4), dated 2024-11-17 in the supplied extraction. Reviewed as a community video excerpt only. Tried to open the video page 2026-09-27, but the page could not be retrieved. The supplied transcript excerpt advises reusing an Ancestry autosomal test for free upload and matching through GEDmatch. H3, H20 and H21 independently support the scoped platform statements.
 
 ## Credits
 
@@ -190,3 +196,4 @@ was not moved.
 - Kitty Cooper, interview video cited as S26 — Community video; no explicit licence; paraphrase with attribution (adapted)
 - Mercedes Brons, Who Are You Made Of? blog, posts cited as S27, S28 and S29 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Legacy Tree Genealogists, blog post cited as S30 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
+- Community video cited as S31 — Advice paraphrased with attribution from the supplied excerpt (adapted)

@@ -10,8 +10,8 @@ guardrails: [{"id": "USA-IMMIGRATION-SEARCH-RECOVERY-01", "text": "The recurring
 handoff: ["land-index-book-series-recovery", "russian-empire-jewish-identity-attribution"]
 checked: "2026-10-26"
 checked_basis: "checked 26 October 2026"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 105}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 115}
 ---
 
 # Recover U.S. immigration and naturalization records
@@ -103,6 +103,19 @@ being used as proof of arrival place.
    incomplete passenger records, choose another record type rather than
    repeating an unsupported exact-name search.
 
+Before 1 January 1820 there was no federal rule requiring shipmasters to submit passenger
+lists. [N88] For earlier arrivals, start with published passenger-list compilations and
+surviving port series such as Philadelphia (1800–1819) and New Orleans (1813–1819).
+Allow for a list never having been created. Venezia raises that possibility
+in his advice from the available excerpt. [N87] [N88]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A Boston index query sends the passenger's name and any birth, residence or travel details entered to MyHeritage. Apply the privacy gate in `SKILL.md` first.
+
+For Boston arrivals in 1848–1891, search the [MyHeritage Boston manifest index](https://www.myheritage.com/research/collection-20681/massachusetts-boston-passenger-manifests-1848-1891).
+Use its ship and arrival date to locate the original list. Keep any indexed age, birthplace,
+residence and destination as leads until you read the corresponding fields on the image.
+[N89 @2026-11-18] [N90 @2026-11-18]
+
 If the evidence supports a flight, search the airport's passenger-arrival series,
 not only ship lists for the nearest seaport. Keep any supplied airport, airline
 and flight details with the date and traveler category. NARA lists airplane and
@@ -129,6 +142,31 @@ for an arrival before 1892 or between June 1897 and December 1900. Do not report
 arrival before June 1897 as lost in the fire: the fire burned the immigration manifests for those
 entries, but the customs lists remain.[N63]
 
+For early New York customs lists, look first for the name, age, origin and any occupation
+in the columns actually provided. Expect fewer details than on later immigration forms.
+Kathryn Marks points to that difference in her advice from the available excerpt. [N91]
+Use the form heading and date to judge whether a missing detail was ever asked. [N92]
+
+For a New York arrival, record the port and leave the inspection site open until a
+source identifies it. This follows Marks's advice from the available excerpt. [N91]
+Most arrivals after mid-1924 did not go to Ellis Island. If the question is whether
+someone went ashore there, look for a detention or other record that places them on
+the island. [N92]
+
+If the person may have worked aboard a ship, check the crew schedule for the known
+voyage. Looking for crew manifests is part of Marks's advice from the available excerpt. [N91]
+For New York vessel arrivals in 1897–1957, use the T715 ship and date locator to find
+the crew list. Keep employment aboard separate from immigrant passenger status. [N94]
+
+For nineteenth-century arrivals that fit the Balch Institute's passenger data,
+check the Russian, German, Italian or New York Irish Famine series in NARA's
+[electronic-records guide](https://www.archives.gov/research/genealogy/electronic-records).
+[N102 @2026-11-18] Reuse the manifest ID to match the passenger and vessel files and
+retrieve the original by ship, port and date. Series labels do not restrict every
+passenger to the named nationality. [N103 @2026-11-18] The account
+from the available excerpt of *Just Genealogy* describes finding all four
+series. [N101 @2026-11-18]
+
 For a Chinese traveler under the exclusion laws, a passenger-list search is not the only arrival
 route. Check the exclusion registers kept at the port of entry for the recorded status category
 (for example laborer, merchant or son of a native) and the admission result. Then look for the
@@ -154,6 +192,26 @@ types through one vendor's images. Confirm the custodian and the file locator se
 indexed spelling and the image reading separately. A spelling resemblance
 retrieves a candidate; companions and destination details must connect it to
 the researched person.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A Foundation search sends the passenger's name and any birth, residence or arrival details entered to the Statue of Liberty & Ellis Island Foundation. Apply the privacy gate in `SKILL.md` first.
+
+In the Foundation's [Arrival Search](https://www.statueofliberty.org/arrival-search/),
+start with the surname and leave Exact Match off when the spelling is uncertain.
+If the results are crowded, add Arrival Location or one supported field under
+Advanced Search. Use a range around an estimated Birth Year or Arrival Year.
+Keep Last Residence separate from birthplace. [N93 @2026-11-18]
+Marks's advice from the available excerpt is to narrow crowded results with
+known details and allow a couple of years on either side. [N91 @2026-11-18]
+
+When building the query ladder, give children traveling with an Italian mother
+variants under both her birth surname and the father's surname. For a Jewish
+emigrant, include Yiddish forms of the given
+name when the person's records or family context support them. For earlier
+New York lists, include an abbreviated given name such as `Wm` for William.
+For a married woman, include her husband's surname on its own and inspect
+candidate entries headed `Mrs.` These variants come from the available excerpt
+of Marks's interview and from Cooke's interview notes. [N91] [N98] Use the
+surrounding rows and independent records to confirm the person and relationship.
 
 In the Statue of Liberty–Ellis Island database, the
 [Genealogy Gems interview](https://www.youtube.com/watch?v=4xyd2c5Cv1Q) recommends not using the
@@ -313,6 +371,18 @@ the apparent destination does not fit.
 uncle, cousin or friend is a lead to investigate, including its address; it
 does not establish that relationship without further records.[6,11]
 
+When the form records who paid the passage and how much cash the passenger
+carried, extract those fields separately and read them with the traveling party.
+Use them to identify leads about who helped fund the trip. Leave the passenger's
+means and motives open. If an earlier-arriving spouse lived elsewhere, compare
+the intended destination with the spouse's dated residence before drawing
+conclusions about where the traveler settled. [N85] [N86] [N88]
+
+If a manifest labels a passenger `Hebrew` in the historical race-or-people
+column, retain the label verbatim as the clerk's recorded classification for
+Jewish origin. Keep nationality, birthplace and language in their own fields. Marks
+points to the label in her advice from the available excerpt. [N91] [N97]
+
 A clerk may have filled a column such as nationality or residence once and drawn a ditto line
 down the page. When a filter on an attribute you know is correct returns nothing, rerun the
 search without it. Read a dittoed value as the page's default, not as that passenger's own
@@ -354,6 +424,20 @@ crossing-out, or an unexplained alteration.
 crossing-out alone does not settle whether the person traveled. Do not count
 meals as days without understanding the form's accounting.
 [JewishGen left-margin guide](https://jewishgen.org/infofiles/manifests/left/)
+
+Read a left-margin `X` as a detention lead and `S.I.` as a special-inquiry lead.
+Browse the sailing's appended sheets, starting at the end of its image sequence,
+and copy the stated cause, disposition and discharge date. Expand `LPC` as
+“likely to become a public charge.” Use dated detention and discharge entries
+to establish the interval and keep meal counts as a cross-check. A count alone
+does not fix the number of days. [N95] [N96] [N99] Marks's advice
+from the available excerpt is to follow the margin marks to the detention
+pages and check the meal columns. [N91]
+
+Treat polygamy and anarchism entries on forms used under the 1907 Immigration
+Act as answers to admission screening questions. Use the separate inquiry or
+disposition record to establish whether officials refused admission. [N104]
+Marks's explanation from the available excerpt points to the screening purpose. [N91]
 
 ### 8. Separate the voyage from later verification on the same image
 
@@ -454,6 +538,19 @@ earlier names and arrival details, then compare them with the origin records. A 
 not proof the record is from before 1906. These are the applicant's statements, not an automatic
 identity bridge across the Atlantic.
 [N80], [N79]
+
+For an exact hometown, start with the relevant passenger manifest when it has
+town-level fields. If the manifest stops at a country, check the declaration
+and petition for the named place of birth. Pre-1906 courts used their own
+forms and only some give a precise birthplace. If the court papers stop at a
+country or an allegiance, look for the town in vital records. [N92] [N100]
+The sequence follows Rich Venezia's advice from the available excerpt. [N87]
+
+After a court search, leave open the possibility that the person never began
+naturalization. Becoming a U.S. citizen was voluntary. Record the court and
+date coverage of the search and keep citizenship unresolved unless other
+evidence establishes it. [N100] Non-filing is a possibility in Venezia's advice
+from the available excerpt. [N87]
 
 ### 10. Replace a missing woman's or child's petition with a status timeline
 

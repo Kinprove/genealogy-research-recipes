@@ -97,12 +97,10 @@ No Catalog structure, diocesan holding or current FamilySearch behaviour is asse
 attributed descriptions and the dated checks recorded in the entries above. Documentation checks
 do not establish the contents or availability of an individual register.
 
-### Sources added 2026-11-12
+### Sources S37–S40
 
 - **S37:** BYU Script Tutorial, [Spanish: Alphabet Charts](https://script.byu.edu/spanish-handwriting/alphabet/alphabet-charts), read 2026-11-12. Used for: the handwritten letter charts and the tutorial's menu of techniques and tools (common phrases, abbreviations, numbers, names, genealogical glossary), document guides and interactive baptism exercises. The page states no terms of use or login.
 - **S38:** Michelle Mickelson, Family Locket, [Southwestern United States Research: Key Records and Repositories Part 5 – Native American and Spanish Language Resources](https://familylocket.com/southwestern-united-states-research-key-records-and-repositories-part-5-native-american-and-spanish-language-resources/), published 2024-03-15, read 2026-11-12. Used for: online translation tools for a preliminary understanding only, and the BYU Script Tutorial as a free online resource with Spanish paleography tutorials.
-
-### Sources added 2026-11-17
 
 - **S39:** Price Genealogy, [A Beginner’s Guide to Latin American Genealogy](https://www.pricegen.com/a-beginners-guide-to-latin-american-genealogy/), read 2026-11-17. Used for: families naming children after the saint whose feast day coincides with the child's birth, as an aid when searching for baptism records.
 - **S40:** Nicolás Cabrera, Denver Public Library Special Collections and Archives, [Hispanic and Southwest Genealogy Tips and Strategies, Part 7](https://history.denverlibrary.org/node/26160), published 2022-04-12, read 2026-11-17. Used for: children given the name of the saint of the day on which they were born or baptized, with examples, and consulting calendars of saints and feast days to narrow down a missing birth date to on or near the feast.

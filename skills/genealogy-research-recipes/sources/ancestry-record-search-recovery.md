@@ -69,7 +69,7 @@ from the Internet Archive capture named. No live search was run.
 
 ## Newspapers.com indexes outside global search
 
-The recipe cites these as S1–S3. No live Ancestry search was run; the global-search exclusion
+No live Ancestry search was run; the global-search exclusion
 rests on the two March 2024 reports.
 
 - **S1:** Roberta Estes, DNAeXplained, [RootsTech 2024: DNA Academy and Ancestry Announcements](https://dna-explained.com/2024/03/14/rootstech-2024-dna-academy-and-ancestry-announcements/), published 2024-03-14, read 2026-11-12. Used for: Ancestry's RootsTech 2024 advice, as the author reports it, that the newspaper index records are not found by global search and that the Card Catalog leads to the collections. Its other collection names were not checked.
@@ -107,12 +107,9 @@ NARA's 1950 FAQ (B14) still explains sheets numbered 71 onward and neighbor sear
 Findmypast's RG 15 image guide in B27 refused automated access (HTTP 403) that day, in the shared
 fetch and in a separate request, so its description of the 1921 schedule rests on the 2026-10-20
 check. S2 could not be fetched that day (an interrupted browser load, then HTTP 403) and rests on
-its read earlier that day. Videos were not re-read. No live Ancestry search was run, and the
-recipe text was not changed.
+its read earlier that day. Videos were not re-read. No live Ancestry search was run.
 
 ## Social Security index, death places and Soundex
-
-The recipe cites these as S4–S10.
 
 - **S4:** [NARA: The Soundex indexing system](https://www.archives.gov/research/census/soundex), read 2026-11-16. Used for: T and L having different consonant codes, R being retained, and vowels/W ignored after the initial letter.
 - **S5:** [Ancestry: U.S., Social Security Applications and Claims Index, 1936–2007](https://www.ancestry.co.uk/search/collections/60901), read 2026-11-16. Used for: possible birth and parent fields, name changes and claims, incomplete inclusion and suppressed parents' names. A recheck on 2026-11-17 was refused (HTTP 403); the Internet Archive capture of the U.S. page from 2026-10-26 gives the same fields and warnings.

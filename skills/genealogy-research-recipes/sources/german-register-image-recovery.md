@@ -112,13 +112,13 @@ Not verified, and attributed in the text:
 
 The cited sources did not cover several points in this topic, and the recipe therefore gives no rules for them: movable-feast and saint's-day date conversion, archaic month names, divorce and funeral-sermon notes, "stillborn" usage, names inferred from sponsors, identical sibling names, daughter-church copies, and surname-distribution maps.
 
-### Sources added 2026-11-12
+### Sources S74–S76
 
 - **S74:** Brandenburg-Datenbank, [home page and database list](https://www.db-brandenburg.de/), read 2026-11-12. Used for: the database categories, the office-and-year civil-register entries marked *Namensindex* or *Vollabschrift*, and the news post of 31 October 2026. The page does not say whether every register is complete.
 - **S75:** Brandenburg-Datenbank, [Metasuche](https://db-brandenburg.de/?page_id=1244), read 2026-11-12. Used for: searching only the selected databases, birth-name matching, and the note that not all databases are available for the search yet.
 - **S76:** CompGen Blog, [Brandenburg-Datenbank mit neuen Einträgen](https://www.compgen.de/2022/02/44617/), published 2022-02-12, read 2026-11-12. Used for: the site as a volunteer database of source transcriptions and abstracts (Ortsfamilienbücher, church books, civil registers, address books), in the maintainer's 2022 summary of new entries.
 
-### Sources added 2026-11-16
+### Sources S77–S81
 
 S77 is a community magazine article. S78–S81 are the wiki operator's blog post, an archived wiki place article, a FamilySearch guide and the portal operator's description, all read on 2026-11-16. The live GenWiki and Szukaj w Archiwach pages refused automated access on 2026-11-16, so neither site's current pages or search screens were opened.
 

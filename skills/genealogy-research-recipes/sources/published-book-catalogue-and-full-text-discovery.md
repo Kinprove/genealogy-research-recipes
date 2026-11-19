@@ -71,7 +71,7 @@ Additions read 2026-11-16. OCLC's help articles show no update date. The Allen C
 
 Authored synthesis in the 2026-11-16 additions: adding each daughter's husband to the child search (from S8's Barnes example); entering the county as WorldCat's location; logging each county library catalogue as a separate tool; and limiting a drafted loan or copy request to title, call number and pages, with its privacy checkpoint. S44 and S46 are community sources; each statement they prompted rests on S45 and S47–S50, which were read.
 
-### Additional sources checked 2026-11-16
+### Sources S51–S66
 
 - **S51:** [VIRGINIA Magazine: Book Traces](https://www.uvamagazine.org/articles/book_traces), read 2026-11-16. Used for: copy-specific nineteenth-century annotations and inserted personal material; handwriting ownership is not assumed.
 - **S52:** [Rhonda Frevert: Mug Books, Commonplace](https://commonplace.online/article/mug-books/), read 2026-11-16. Used for: advance subscriptions and paid biographies/portraits, subject editing and selection bias in the genre; not all county histories.
@@ -81,6 +81,15 @@ Authored synthesis in the 2026-11-16 additions: adding each daughter's husband t
 - **S56:** [Money Got that Bio in the Mug Book](https://genealogytipoftheday.com/index.php/2024/03/29/money-got-that-bio-in-the-mug-book/), read 2026-11-16. Used for: treating a paid mug-book sketch as a contributed account and pursuing its named people, places and events in other records. A community source.
 - **S57:** [Reverse Genealogy: Tracing the Descendants of Your Ancestors](https://www.pricegen.com/reverse-genealogy-tracing-the-descendants-of-your-ancestors/), read 2026-11-16. Used for: using a descendant's origin statement to choose an origin search, without expecting an exact birth town. A community source.
 - **S58:** [County Histories: Strategies and Tips](https://genealogypants.com/2023/01/25/county-histories-strategies-and-tips/), read 2026-11-16. Used for: carrying a found title, author and edition into current catalogues, and searching regional titles covering the locality as well as single-county titles. A community source.
+
+- **S59:** Rick Crume, Family Tree Magazine, [How to Use Search Engines for Genealogy Research](https://familytreemagazine.com/strategies/how-to-use-search-engines-for-genealogy-research/). Article read 2026-11-18. Community advice on applying the Books filter to a name and place query, with a separate example of finding an Internet Archive volume in general results. The recipe uses the two search routes without assuming an exhaustive boundary for Books.
+- **S60:** Google Search Help, [Refine Google searches](https://support.google.com/websearch/answer/2466433). Help page read 2026-11-18. Used for Books as a search results filter, All as the broader view and the query-dependent choice and order of filters.
+- **S61:** Just Genealogy, [FourthShipping Free Shipping for Genealogists at Heritage Books - JG0114](https://www.youtube.com/watch?v=9W-F3eZLFWA), 2022-06-30. Supplied transcript excerpt read 2026-11-18. The video page could not be opened. The excerpt suggests using the alphabetical or combined Antient Press index. The excerpt belongs to a publisher promotion. S62 and S63 support the finding-aid route independently.
+- **S62:** Heritage Books, [Antient Press Indexes](https://heritagebooks.com/collections/antient-press-indexes). Catalogue listings read 2026-11-18. Used for the single-letter and A–Z index entries. The listings showed unavailable, and the index files themselves were not inspected.
+- **S63:** San Antonio Genealogical and Historical Society, [Library Catalog](https://www.txsaghs.org/libraryRecords.php?le=&nr=50&page=28&scl=bta&srch=&st=T). Catalogue results page read 2026-11-18. Used for Ruth and Sam Sparacio's *Virginia County Court Records Surname Indexes* in volumes identified by alphabetical ranges. The index volumes themselves were not inspected.
+- **S64:** Just Genealogy, [14 Dec 2022 Just Genealogy Live Stream Results](https://www.youtube.com/watch?v=nYSZZqtguoI), 2022-12-15. Supplied transcript excerpt read 2026-11-18. The video page could not be opened. Used for the suggestion to expand a WorldCat result to check for a later printing. The Kansas example was not independently confirmed and is omitted.
+- **S65:** OCLC Support, [Work with search results](https://help.oclc.org/Discovery_and_Reference/WorldCat-org/Search/Search_WorldCat_org/20Work_with_search_results). Help page read 2026-11-18. Used for the WorldCat.org results link **View All Formats & Editions** and its sign-in requirement.
+- **S66:** OCLC Support, [Why are the search filters showing a higher number of results than the number of search results in WorldCat.org](https://help.oclc.org/Discovery_and_Reference/WorldCat-org/Troubleshooting/Why_are_the_search_filters_showing_a_higher_number_of_results_than_the_number_of_search_results_in_WorldCat.org). Help page read 2026-11-18. Used for the grouping of records for different formats and editions into one search result.
 
 ## Credits
 
@@ -94,3 +103,4 @@ Authored synthesis in the 2026-11-16 additions: adding each daughter's husband t
 - Just Genealogy, Fourth Steps in Genealogical Research in a County - JG0203, 2022-09-28, cited as S46 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove original child-sketch, county-catalogue and lending procedures; S44-S50 cited for factual support — FSL-1.1-MIT (kinprove-original)
 - Community sources S55, S56, S57, S58 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
+- Rick Crume, Family Tree Magazine, cited as S59, and Just Genealogy, cited as S61 and S64 — Third-party content, rights retained by its owners. Short attributed paraphrases (adapted)

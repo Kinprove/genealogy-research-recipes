@@ -11,7 +11,7 @@ handoff: ["land-index-book-series-recovery"]
 checked: "2026-10-07"
 checked_basis: "checked 7 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 142}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 163}
 ---
 
 # Recipe: Build a checked city-directory observation series
@@ -289,6 +289,11 @@ A directory listing household heads does not make an unlisted household member a
 household or locality. CompGen's address-book example also distinguishes a woman's
 marital-status wording from an occupation; retain the printed role without inferring employment
 from it. [S20]
+
+If a census shows a recently widowed person living alone and a later directory lists them as a
+lodging housekeeper, record in the gap table the hypothesis that they took in boarders during
+the intervening years [S48]. Keep the reported occupation with the edition that lists it [S49].
+Leave the earlier livelihood and the start date unknown unless other evidence establishes them.
 
 When no directory covers the town for the year you need, or the person is missing from the one that does, widen to other directories before you treat the year as empty. A small town can appear in a county directory, and some states had state directories: Delaware's early directories covered the whole state [S32], [S33]. Rural-route, farm, church, club and professional directories also place people in a time and place, often yearly [S32], [S33], [S36]. Newspaper classified ads can give the home or business address of someone the directory missed; search them as in the [Newspapers.com recipe](newspapers-com-search-recovery.md) [S46], [S47]. Give each such listing its own row with its title, year and locator.
 

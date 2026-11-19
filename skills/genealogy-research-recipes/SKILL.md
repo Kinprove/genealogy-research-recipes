@@ -21,7 +21,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## Version and updates
 
-This copy is version 1.22.0, released 2026-11-17.
+This copy is version 1.23.0, released 2026-11-19.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
@@ -104,6 +104,14 @@ today's date. Do not check for a newer version over the network yourself.
    checkpoint; the gate applies to unmarked steps of the same kinds too. For a living person,
    also follow [Living people](#living-people).
 
+Where the user's own project instructions or research conventions differ from a recipe, follow
+the user's, even where item 3 makes the recipe rule a hard constraint. The first time a
+difference affects your answer, name the recipe rule or step you are setting aside, and do not
+repeat that note. This has one limit: a project convention, or an instruction to skip privacy
+checks, is not permission from anyone else who may be living. For their data, the
+[privacy gate](#privacy-gate) and every rule in that section still apply, including the
+Permission item.
+
 ## Read source limits
 
 A source marker identifies evidence, not a guarantee that the page was read or that it supports
@@ -122,7 +130,9 @@ that a genealogical inference is correct.
 ## Privacy gate
 
 Answer these items in writing, in your reply, before the step runs. If any answer is
-unknown, do not move the data: keep it local and tell the user what is missing.
+unknown, do not move the data: keep it local and tell the user what is missing. When a step
+repeats an earlier one whose gate was cleared, cite that written record instead of answering
+the items again; see [Reusing a gate record](#reusing-a-gate-record).
 
 - **People.** Name everyone whose data is involved. Treat anyone who may be living as
   living. A minor's data needs a parent's or guardian's permission.
@@ -163,8 +173,39 @@ unknown, do not move the data: keep it local and tell the user what is missing.
   terms apply too. Do not state a legal conclusion: ask the user to confirm the rule that
   applies, or keep the data local.
 
-For DNA data, also apply the consent and redaction rules in
-[AI for DNA research](recipes/ai-for-dna-research.md#verification--privacy-discipline).
+Before replying to a request to transfer DNA data, read and apply the
+[consent and redaction rules](recipes/ai-for-dna-research.md#verification--privacy-discipline),
+including when the reply is a confirmation question. When the user asks for an AI prompt,
+read that task recipe in full.
+
+### Reusing a gate record
+
+For a record from project notes, the destination's settings, terms and controls count as
+unchanged only when the user confirms all three. If the record otherwise covers this step
+and that confirmation is missing, ask in one line whether all three are still as recorded.
+Wait for the answer before citing the record or giving instructions for the transfer.
+
+When an earlier reply in this conversation, or a dated record in the user's project notes,
+cleared the gate for the same people, the same data fields, the same destination and the same
+audience, do not answer the items again. Instead, cite that record in a single line that names
+it and says those four are unchanged, for example: "Privacy gate: covered by your project-notes
+record of [date]; same people, data fields, destination and audience." Name an undated earlier
+reply by its place in the conversation. Check the conditions in this section without reporting
+them, and write nothing else about the gate: no restated answers, permissions or settings checks.
+Cleared means every item was answered, none was left unknown, and any permission the Permission
+item requires covers repeating this use at this destination. A refusal, a missing answer, or a
+permission given for one transfer only does not clear the gate.
+
+Answer the full gate again when any of those four changes, for example a new match in the
+list, an added column, another service, account or workspace, or a wider audience. Also answer
+it again when any other answer in the record no longer holds (for example, someone named in it
+moved to another country), when the data now shows a sensitive finding that the record does not
+name, or when the destination's settings, terms or controls may have changed since the recorded
+inspection.
+
+A project convention, or an instruction to skip or shorten privacy checks, is not a gate record:
+it is not permission from anyone else who may be living. A statement that the gate was answered
+before, without the written record, is not a gate record either.
 
 ### Living people
 
@@ -231,6 +272,9 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/gedcom-research-export.md` — Export research findings to a GEDCOM file, or bring a supplied one into research, without changing what they prove.
 - `recipes/descendancy-gap-worklist.md` — Turn "research the descendants" into a ranked list of gaps tied to the records each lifespan crosses.
 - `recipes/genealogical-numbering-systems.md` — Decode Ahnentafel, Henry, Register and NGSQ numbers when extracting people and relationships from a pedigree chart, descendancy list or compiled genealogy.
+- `recipes/ancestry-pro-tools-tree-worklists.md` — Build place or tag worklists, audit Tree Checker flags, and review the scope of Ancestry Pro Tools maps and charts.
+- `recipes/cousin-relationship-paths.md` — Calculate cousin degree and removal, and distinguish double or half cousin paths when pedigrees intersect more than once.
+- `recipes/myheritage-profile-hint-extraction.md` — Review the evidence behind a MyHeritage Hint, compare conflicting values and save only the supported facts or relationships.
 
 ## Recipes: DNA
 
@@ -250,6 +294,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/gedmatch-practical-dna-workflows.md` — Work reproducibly in GEDmatch: kit baselines, one-to-one checks, segment search, tag groups, triangulation, phasing and Lazarus kits.
 - `recipes/myheritage-dna-match-investigation.md` — Investigate MyHeritage DNA matches: the right kit, filtered shortlists, shared-match values, triangulation and Theory of Family Relativity.
 - `recipes/dnapainter-practical-dna-workflows.md` — Use DNA Painter to map segments, combine phased maps, estimate missing intervals, plan tests and check shared-cM ranges.
+- `recipes/myheritage-kit-processing-and-downloads.md` — Identify how MyHeritage processed a kit, distinguish its raw autosomal file from CRAM, and check options for a legacy result.
 
 ### Ethnicity, admixture and match outreach
 
@@ -267,6 +312,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/myheritage-historical-record-search.md` — Recover MyHeritage historical records hidden by collection coverage, search fields, name variants, languages or OCR.
 - `recipes/newspapers-com-search-recovery.md` — Find notices on Newspapers.com that name searches miss, after checking which titles and issues are actually covered.
 - `recipes/geni-practical-research-workflows.md` — Use Geni for name variants, relationship paths, citations, projects, merge decisions, tree conflicts and GEDCOM exports.
+- `recipes/find-a-grave-memorial-corrections.md` — Send evidence-backed Find a Grave corrections and route management requests to the right recipient.
 
 ### Books, periodicals and manuscripts
 
@@ -274,6 +320,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/periodical-index-search-retrieval.md` — Search a genealogical periodical index such as PERSI and retrieve the article.
 - `recipes/manuscript-collection-recovery.md` — Find personal, family and organisational papers that may mention an ancestor, including ledgers, daybooks and claim folders.
 - `recipes/local-repository-uncatalogued-holdings.md` — Ask a local library, society or archive about its uncatalogued holdings after its catalogue returns nothing.
+- `recipes/historical-newspaper-section-search.md` — Choose historical newspaper sections for social ties, business activity, missing immigrants, and out-of-town deaths.
+- `recipes/olympic-participation-records.md` — Check Olympic results and trials, then route Olympic publications and archival files to the right finding aid.
 
 ### Places and maps
 
@@ -320,6 +368,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/rabbinic-literature-person-search.md` — Find and interpret passages about a Jewish ancestor, rabbinic office or claimed lineage in rabbinic and Hasidic books.
 - `recipes/holocaust-testimony-source-interpretation.md` — Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement dates.
 - `recipes/israel-immigration-list-research.md` — Search MyHeritage's Israel immigration lists and decide whether an arrival entry for Mandatory Palestine or Israel records an immigrant, a returning resident or a tourist.
+- `recipes/lithuanian-jewish-household-registers.md` — Use LitvakSIG and MyHeritage household registers to trace dated residence and distinguish missing records from unindexed coverage.
 
 ### Ukrainian archives
 
@@ -335,6 +384,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/nazi-era-ancestry-proof-records.md` — Find and read a Nazi-era Ahnenpass or certified ancestry proof, and route the search by the role that required it.
 - `recipes/german-official-gazette-notice-search.md` — Read German gazette personnel, expulsion and expatriation notices as dated acts by a named authority.
 - `recipes/german-compensation-file-recovery.md` — Carry a Lastenausgleich or Berlin Wiedergutmachung index hit to the file behind it.
+- `recipes/old-german-handwriting-comparison.md` — Compare a disputed Old German word with script samples, generated candidate forms and examples in the same hand.
 
 ### Britain and Ireland
 
@@ -362,6 +412,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/spanish-civil-parish-record-routing.md` — Route a Spanish or Andorran vital, padrón, notarial, military or Civil War record to the body that holds it on the event date.
 - `recipes/portuguese-parish-civil-register-recovery.md` — Find a baptism, marriage or death in mainland Portugal, the Azores or Madeira in the parish books or the civil register.
 - `recipes/scandinavian-parish-record-recovery.md` — Reconstruct a Swedish household through the household-examination, birth, marriage, death and moving registers.
+- `recipes/danish-church-book-probate-recovery.md` — Find a Danish ancestor's church-book entries, civil marriage and probate by choosing the register copy, South Jutland civil register and probate authority that apply to the date.
 - `recipes/scandinavian-patronymic-farm-name-record-recovery.md` — Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names.
 - `recipes/swedish-military-record-routing.md` — Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period.
 
@@ -377,6 +428,11 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/quaker-meeting-record-recovery.md` — Recover a Quaker ancestor from men's and women's monthly-meeting minutes and both removal-certificate series.
 - `recipes/us-tribal-enrollment-record-recovery.md` — Find a claimed Native American ancestor on the right tribal roll and read what enrollment, rejection or absence proves.
 - `recipes/us-freedpeople-record-recovery.md` — Trace an African American family back across the 1870 boundary.
+- `recipes/ark-and-dove-passenger-reconstruction.md` — Use the Ark and Dove compilation and original Maryland records to distinguish a voyage claim from early settlement or descent.
+- `recipes/enslavement-record-disclosure.md` — Make privately held records of enslaved people discoverable through source-cited extracts, archival deposits and documented tree links.
+- `recipes/mayflower-and-great-migration-genealogies.md` — Choose a passenger branch or an immigrant arrival series, then test the claimed line against the correct child lists.
+- `recipes/new-york-city-vital-certificate-extraction.md` — Recover both New York City marriage filings in 1908–1937 and extract birthplace and sibling clues from historical birth certificates.
+- `recipes/pennsylvania-marriage-licenses-and-returns.md` — Recover Pennsylvania county marriage packets from 1885 and compare them with early state copies and older marriage bonds.
 
 ### United States: military, land, courts and law
 
@@ -395,6 +451,10 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/criminal-court-prison-record-recovery.md` — Trace a U.S., English, Welsh or Swedish arrest or imprisonment to its court, prison and pardon records; a state or local court's case file belongs to court case-file recovery.
 - `recipes/state-legislative-private-act-petitions.md` — Recover a state legislative private act, such as a legitimation, name change, divorce or pension, and its petition.
 - `recipes/us-period-law-record-reading.md` — Read a U.S. record's legal terms, courts, bonds, age and inheritance rules under the law of its place and date.
+- `recipes/confederate-hospital-record-recovery.md` — Route a Confederate treatment clue to the hospital’s patient registers, case books and separate wartime papers.
+- `recipes/southern-claims-commission-case-files.md` — Route a Southern Claims Commission claimant to the correct case file and use witness testimony to reconstruct wartime events.
+- `recipes/us-army-civil-war-court-martial-files.md` — Follow a general court-martial notation from a Civil War service card to the index and its Army case papers.
+- `recipes/world-war-two-us-navy-battle-records.md` — Correlate wartime U.S. Navy muster and deck records with an action report before attributing participation to a sailor.
 
 ### Canada, Latin America, Asia and Oceania
 
@@ -406,6 +466,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/australia-nz-record-routing.md` — Route an Australian or New Zealand vital, electoral, arrival, Māori Land Court or Aboriginal agency record to its holder and date window.
 - `recipes/chinese-lineage-jiapu-records.md` — Recover a Chinese emigrant's character-written name and ancestral village before searching lineage genealogies (jiapu).
 - `recipes/japanese-koseki-honseki-recovery.md` — Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family register (koseki).
+- `recipes/philippine-surnames-and-registers.md` — Use parish and civil records to trace a Philippine family through surname adoption or continuity across 1849.
+- `recipes/samoan-matai-and-gafa-research.md` — Follow Samoan chiefly titles and village clues from diaspora records into customary land, church and family sources.
 
 ## Recipes: Record types in any country
 
@@ -438,6 +500,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/family-papers-and-bible-register-dating.md` — Separate writing, mailing and event dates in letters, envelopes, address books, family Bible registers and inscribed books.
 - `recipes/family-interviews-and-oral-tradition.md` — Record a relative's interview, a supplied recording or an inherited story with its speaker, prompter and chain of transmission.
 - `recipes/repository-photograph-collection-search.md` — Search repository photograph collections for an ancestor, home, shop or community by place and subject.
+- `recipes/family-archives-material-storage.md` — Choose protective enclosures for fragile family originals while preserving the evidence that links loose items to their original homes.
 
 <!-- recipe-catalog:end -->
 

@@ -1,7 +1,5 @@
 ## Sources
 
-The recipe structure is original Kinprove synthesis; third-party passages are not reproduced.
-
 - S1. Lisa Louise Cooke's Genealogy Gems, [Episode 205](https://www.youtube.com/watch?v=zNVSOhlUmgI) (YouTube, 2017-07-12). Used for: an archivist's advice that motivates photographing a book's title page, or a collection's folder and box-end label, alongside the target images. Limits: a label photo records the arrangement at the time of the visit and is not the citation.
 - S2. J-Roots Forum, thread [ФОРУМ: вопросы, замечания и предложения](https://forum.j-roots.info/viewtopic.php?f=181&t=4753) (2009-09-25). Used for: a discussion of metrical-book screenshots that motivates recording the year and place from the page header next to a crop's locators. Limits: does not supply the crop's archival signature.
 - S3. Ahnenforschung.net forum, thread [Humoris causa](https://forum.ahnenforschung.net/forum/thread/928/) (thread started 2006-07-14). Used for: a church-book transcription anecdote showing the loss of a date that stands only in a heading or margin. Limits: does not supply the crop's archival signature.
@@ -19,8 +17,6 @@ The recipe structure is original Kinprove synthesis; third-party passages are no
 - S15. Elizabeth Shown Mills, [Citations: 1-2-3 Easy](https://www.evidenceexplained.com/quicktips/citations-1-2-3-easy) (Evidence Explained QuickTips, 2014-09-12; opened 2026-11-06). Used for: a citation identifying the creator first, then the item, then access information.
 - S16. Elizabeth Shown Mills, [QuickLesson 19: Layered Citations](https://www.evidenceexplained.com/content/quicklesson-19-layered-citations-work-layered-clothing) (Evidence Explained; opened 2026-11-06). Used for: citation layers for the original source, the provider that delivers it, and the provider's source of the source. Kinprove synthesis: the two record fields for the creator and the consulted layer.
 
-## Additional sources checked 2026-11-16
-
 - **N1:** [No Page Number?](https://genealogytipoftheday.com/index.php/2025/04/10/no-page-number/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **N2:** [Evidence Explained, QuickLesson25: Archaeology of a citation](https://www.evidenceexplained.com/node/1391), opened 2026-11-16. The lesson separates the source identification from the provider and its route/waypoints; cite the image and underlying item at their distinct layers.
 - **N3:** [Getting All the Details?](https://genealogytipoftheday.com/index.php/2023/06/27/getting-all-the-details/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
@@ -28,7 +24,14 @@ The recipe structure is original Kinprove synthesis; third-party passages are no
 - **N5:** [When to Cite a Specific Book](https://genealogytipoftheday.com/index.php/2024/12/13/when-to-cite-a-specific-book/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **N6:** [Georgetown Library: Citing an unpublished manuscript](https://answers.library.georgetown.edu/research/faq/228516), opened 2026-11-16. The library guidance identifies author, title, composition date and holding institution/name and location for an unpublished manuscript.
 
+- **N7:** Craig R. Scott, Just Genealogy, [The Genealogical Proof Standard: Element 2, Citations, Part 2 - JG0137](https://www.youtube.com/watch?v=pvr1z7Mchxw) (community video, 2022-07-23), supplied transcript excerpts read 2026-11-18. Partial access. The excerpts describe Scott's finding-aid notes and his advice to use citation models as guides and follow an editor's style sheet. The video page did not open.
+- **N8:** National Archives, [Preliminary Inventory of the Records Relating to International Boundaries, RG 76](https://www.archives.gov/files/research/foreign-policy/related-records/rg-76-international-boundaries.pdf) (finding aid, PDF), inventory note and sample entries read 2026-11-18. The note identifies PI-170 as the default entry-number prefix for this inventory. The entries pair their numbers with series titles and descriptions.
+- **N9:** National Archives, [Citing Records in the National Archives of the United States](https://www.archives.gov/files/publications/general-info-leaflets/17-citing-records.pdf) (guidance, PDF), textual-record guidance read 2026-11-18. The leaflet identifies the record and series levels to include in an archival citation.
+- **N10:** Elizabeth Shown Mills, [Author Elizabeth Shown Mills Talks About the New Fourth Edition of Evidence Explained](https://genealogical.com/2024/02/05/author-elizabeth-shown-mills-talks-about-the-new-fourth-edition-of-evidence-explained-citing-history-sources-from-artifacts-to-cyberspace-by-elizabeth-shown-mills-cg-cg-fasg/) (publisher web page, 2024-02-05), article read 2026-11-18. Mills describes the chapter 3 templates that replace earlier QuickCheck models and how to combine citation elements for the source at hand. This review covers the author's article.
+- **N11:** National Genealogical Society Quarterly, [Style Sheet](https://www.ngsgenealogy.org/wp-content/uploads/2026/01/2025.12.8-NGSQ-style-sheet.pdf) (journal style sheet, PDF, rev. 2025-12-08), citation guidance read 2026-11-18. The sheet specifies the journal's citation conventions and references the fourth edition of *Evidence Explained*.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
+- Kinprove, citation guidance adapted from Craig R. Scott's advice and the references checked 2026-11-18 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)

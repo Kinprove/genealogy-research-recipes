@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "evidence-proof-judgment", "land-index-boo
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 147}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 168}
 ---
 
 # Recipe: Inventory the documents of a probate case
@@ -65,6 +65,8 @@ between a related proceeding and the principal case, or leave that connection un
 
 Do not expect a pre-1900 U.S. probate file to give the death date: the court needed to know that the person was dead, not when, so the record may give no date or only "on or about" a date [S68]. Probate records are inconsistent about death dates, and an index can carry a date that the record itself lacks [S69]. Enter a stated date with its wording. Otherwise bound the death by the earliest court action that requires it, such as the petition to open the estate or the will's proving, and not by the witnesses' testimony, which in some areas was taken when the will was written [S69].
 
+When a colonial Maryland will gives both dates, use the signing date as the lower bound and the date the will was proved as the upper bound, as the presenter demonstrates in the only available excerpt on those dates [S100], [S101]. Record the interval as on or after signing and on or before probate. Keep any independently supported tighter bound.
+
 If the expected court yields no case, do not report "no probate". Widen the search as a logged
 set of candidate courts and years. Include the residence and place-of-death courts when they
 differ, adjoining counties, and a court where heirs lived. Extend the years well past the death,
@@ -99,6 +101,8 @@ Browse the county will book even when the person died intestate: in some U.S. ar
 
 For a Virginia estate, search the Library of Virginia's Wills and Estate Records Index, which covers wills, inventories, sales and other estate records from 1633 to 1800 in the will books of fifty-one counties and cities, and in some cases estate records in county order books [S86 @2026-11-14]. Then search that county court's order or minute books, which record every matter brought before the court and can hold information from loose papers since lost [S87 @2026-11-14]. Do not assume a loose-paper estate file exists: Neill expects a 1760 Virginia will to leave references in the order books but probably no case file [S85 @2026-11-14]. Record which loose papers survive for that county before calling a file missing.
 
+For images of a Sumter, South Carolina, estate, look for Sumter Estate Records, 1784–1960, within Ancestry’s statewide South Carolina, U.S., Wills and Probate Records, 1670–1980 [S98 @2026-11-18], [S99 @2026-11-18]. Use the county series and any known bundle or package to locate the papers. Use the county series dates when reporting coverage.
+
 For a death in Russia in the late Soviet period or later, search the public notarial
 inheritance-case registry by full name. Enter each hit as a candidate case row: death date, case
 number and year, the opening notary or state notary office, and the notarial chamber named for
@@ -121,6 +125,8 @@ For a Pennsylvania estate, search two sets of county series, even after a will i
 When a Pennsylvania index entry gives only a book and page, take them to FamilySearch's Pennsylvania, Probate Records, 1683-1994, which is browsed by county and volume through waypoints rather than searched by name [S41 @2026-11-12], [S42 @2026-11-12]. Open the named volume, go to the cited page, and record the image number separately [S21 @2026-11-12]. Do not stop at an index entry in Ancestry's Pennsylvania, U.S., Wills and Probate Records, 1683-1993, and do not read a missing image there as a lost record: that collection has searchable indexes, and not every entry has an image [S21 @2026-11-12], [S42 @2026-11-12].
 
 When no will survives for a colonial Maryland ancestor, search the court records [S56], and route them by date. Orphans' courts, each served by a register of wills, were first created under the Acts of 1777, so do not look for one earlier [S59]. The Provincial Court heard testamentary and guardianship cases until the Prerogative Court was established and guardianship passed to the county courts [S57]. From 1692 a deputy commissary in each county took probate, recorded each will, inventory and account in his own books and sent the papers to the Prerogative Office to be recorded again [S58]. Search both the county's books and the Prerogative Court's series.
+
+Route a Maryland will by its probate date, as the presenter suggests in the only available excerpt on the transition [S100]. Search the Prerogative Court’s will series and the relevant surviving county series for probate before the 1777 transfer. Search the county Register of Wills series for probate after the transfer. Search both if the probate date is uncertain around the transition [S101].
 
 For a New Hampshire estate before 1771, search the provincial probate records, not a county court. Probate from 1636 to 1771 was filed at Exeter and Portsmouth, and the colonial probate files are now at the New Hampshire State Archives [S60 @2026-11-14], [S61 @2026-11-14]. Counties were created in 1769, but the provincial probate period runs to 1771 [S61 @2026-11-14]. For a town near the Massachusetts border, also search the Massachusetts county probate records [S61 @2026-11-14].
 
@@ -165,6 +171,8 @@ rule or survival rate. For the talk's unlocated 1935 estate, the reason for abse
 later filing remain unknown.
 
 ## 2. Resolve every discovered reference into its own inventory row
+
+For a colonial Maryland will whose probate year is unknown, start with Magruder’s alphabetical Index of Maryland Colonial Wills, 1634–1777, as the presenter suggests in the only available excerpt on the lookup [S100]. Record the probate year, county, will book and page from the entry [S102]. Use the year and book to choose the relevant volumes of the 16-volume Maryland Calendar of Wills. Use each volume’s name index to find the abstract and read every page listed for the name. Record the role given in each abstract, including witness and heir [S103], [S104]. Use the will book and page to retrieve the recorded will and preserve its locator separately from the abstract page [S102].
 
 If the packet has a coded document key, locate the collection's actual master legend before
 decoding it. Keep both locators and compare the listed components with inspected documents;
@@ -250,6 +258,8 @@ Do not read "my now wife" in a will as evidence of an earlier marriage. Neill re
 
 Treat a bequest to grandchildren as a lead that their parent died before the will, not as proof: a will can leave property directly to grandchildren whose parent is alive, as current North Carolina law states [S55]. A grandchild with another surname suggests a daughter's child, and one with the testator's surname a son's child [S51], but an unmarried daughter's child can carry the testator's surname. Establish the grandchildren's parent, and whether that parent had died, from other records before placing them.
 
+When a colonial Maryland will names a grandson and identifies him as the son of a named son, record both stated links through that parent, each tied to the same clause [S101]. If a clause redirects land should a son die without issue, record the condition and alternate recipient. Leave his parenthood at signing unresolved [S105]. The presenter points to both clause types within the available portion of the transcript [S100].
+
 ## 3. Search for later and non-will parts of the proceeding
 
 1. Review the inventory for administration, guardianship, appraisal, accounts and settlement
@@ -272,6 +282,8 @@ results and reasons for each extension.
 after death demonstrates the need for that case's wider search; it supplies no universal deadline.
 
 When the final settlement or division comes years after the death, check two ordinary causes before reading the delay as a family dispute. Common-law dower was a widow's life estate in one third of her husband's land, so the heirs' possession of that part waited until her death [S82]; a will could also give her a life estate [S80]. Property was divided once all parties agreed or all heirs had come of age [S83], and heirs could wait for the youngest to come of age rather than act through a guardian [S80]. Run the search for the final settlement or partition to the later of the widow's death and the youngest heir's majority, taking the age of majority for that place, date and sex and whether marriage ended minority there, as in the Iowa rule below, and search the land records as well as probate, because the final division can appear in either or both; in Neill's Kentucky example, the land was partitioned sixteen years after the death [S81].
+
+For a colonial Maryland estate, use Vernon L. Skinner Jr.’s administration account and balance book abstracts as leads to separate Prerogative Court series. Match the volume to the estate dates and queue the underlying records [S106]. If tracing estate land, use Skinner’s Provincial Land Office debt book abstracts by county and year [S107]. Record those entries as land and quit-rent evidence [S108]. The presenter points to these series in the only available excerpt on Skinner’s work [S100].
 
 Do not record the administrator of an intestate estate as the spouse or a child by default. The spouse and heirs usually had priority, but a spouse could refuse and children could decline, so another heir or a creditor could take the office [S96]; current North Carolina law, for example, ranks the spouse, then heirs, next of kin and creditors, and lets a person with priority renounce [S97]. Record the person in the role of administrator only, and research an unfamiliar administrator's relationship to the deceased, if any, in other records.
 

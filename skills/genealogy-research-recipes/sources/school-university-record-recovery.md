@@ -39,7 +39,7 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - The ЦИАМ 459.14.61 signature was the indexer's guess.
 - Fees, email routes and website addresses for the Kyiv, Odessa, Tartu and Tomsk archives may have changed.
 
-### Sources added 2026-11-12
+### Sources S26–S38
 
 - **S26:** Arbeitsstelle für kulturwissenschaftliche Forschungen (AKF), Engi, [home page](https://www.forschungen-engi.ch/), read 2026-11-12. Used for: the AKF as a private institution led by Hanspeter Marti, and its three databases on Königsberg, Danzig, Elbing and Thorn.
 - **S27:** AKF, [Königsberger Universitätsschriften und Promotionen 1544 bis 1905](https://www.forschungen-engi.ch/datenbanken/koenigsberger-universitaetsschriften-und-promotionen-1544-bis-1905), read 2026-11-12. Used for: the search fields, including respondent or doctoral candidate, praeses, faculty, printer and library. No login was required.
@@ -47,14 +47,14 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - **S29:** AKF, [Königsberger Studenten von 1829 bis 1921](https://www.forschungen-engi.ch/datenbanken/koenigsberger-studenten-von-1829-bis-1921), read 2026-11-12. Used for: 24,822 records and the search by name, given name, place of origin, semester and faculty or subject.
 - **S30:** Günter Junkers, CompGen Blog, [Datenbanken zu Königsberger Studenten und Dissertationen](https://www.compgen.de/2023/09/datenbanken-zu-koenigsberger-studenten-und-dissertationen/), published 2023-09-25, read 2026-11-12. Used for: the three databases described as freely accessible and the illustrated 1710 Danzig dissertation of a student from Belgard, Pomerania.
 
-### Sources added 2026-11-16
-
 - **S31:** Инструкция о порядке ведения трудовых книжек на предприятиях, в учреждениях и организациях (Постановление Госкомтруда СССР от 20.06.1974 № 162), [ЮИС Легалакт](https://legalacts.ru/doc/instruktsija-o-porjadke-vedenija-trudovykh-knizhek-na/), read 2026-11-16. Used for: п. 2.10, education entered on the title page only from documents, and п. 2.17, periods of study at higher and secondary specialised schools entered with a reference to the supporting document.
 - **S32:** Dzen channel «История одной семьи. Юлия Новожилова», [«В каких документах искать основные сведения о родственнике?»](https://dzen.ru/a/XqHg1J7O_RH4y1M1), published 2020-04-23, read 2026-11-15 from a captured copy, without its images. Used for: study recorded in the labour book because it counted toward length of service.
 - **S33:** [Grandma Signed a Yearbook?](https://genealogytipoftheday.com/index.php/2025/06/27/grandma-signed-a-yearbook/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **S34:** [Amy Johnson Crow, Getting More Out of Yearbooks for Genealogy](https://www.amyjohnsoncrow.com/getting-more-out-of-yearbooks-for-genealogy/), opened 2026-11-16. Read the signatures/notes section: inspect inside covers and autograph pages, not only OCR hits. No handwriting identity or depicted person was independently established.
 - **S35:** [Scottish School Records-Genealogy Treasure Trove](https://www.youtube.com/watch?v=5Wi6WBBuJHg), transcript excerpts read 2026-11-16. Only preserved transcript excerpts were inspected; the video was not watched. Independent support supplies the factual scope.
 - **S36:** [Glasgow Life, Ask the Archivist: School records (23 June 2020)](https://www.glasgowlife.org.uk/libraries/family-history/stories-and-blogs-from-the-mitchell/ask-the-archivist/ask-the-archivist-school-records), opened 2026-11-16. Read the 1872 Act/1873 implementation, sparse earlier holdings, admissions versus logbooks and former Strathclyde coverage. The 2020 access periods and service arrangements are not adopted as current rules.
+- **S37:** Melina Papadopoulos, [A Guide to Libraries for Genealogy Research](https://familytreemagazine.com/libraries-archives/a-guide-to-libraries-for-genealogy-research/), Family Tree Magazine, 2024-03-01. Reviewed community article, indexed article text read 2026-11-18 after a 403 from the live URL. The author suggests looking for ancestors in yearbooks at the public library serving the family's area.
+- **S38:** Plainfield-Guilford Township Public Library, [Genealogy and Local History](https://www.plainfieldlibrary.net/services/genealogy/). Reviewed library holdings guide, opened 2026-11-18. Read the Hendricks County school-yearbooks section, which lists local volumes by school and year.
 
 ## Credits
 
@@ -84,3 +84,4 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - Kinprove original procedural synthesis drawing on the forum threads cited as S1–S21 and the CompGen blog post S22, with facts checked against S23–S25 — FSL-1.1-MIT (kinprove-original)
 - Post on the Dzen channel «История одной семьи. Юлия Новожилова» cited as S32 — Copyright of its author; short paraphrase (adapted)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
+- Melina Papadopoulos, Family Tree Magazine, cited as S37, and Plainfield-Guilford Township Public Library, cited as S38 — yearbook search advice paraphrased with attribution (adapted)

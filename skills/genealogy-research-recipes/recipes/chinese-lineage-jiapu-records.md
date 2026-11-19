@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 135}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 154}
 ---
 
 # Recover a Chinese emigrant's lineage from character-written names, village and jiapu
@@ -99,6 +99,11 @@ confirms it.
 
 Give each source its own row: source, literal romanized form, literal character form (or
 "none"), and a role label. Never collapse rows into one "correct spelling".
+
+In a traditional Chinese name written in characters, the surname usually takes one character
+and comes before a given name of one or two characters. [S13], [S14] Keep a compound surname
+intact. Enter both characters of a two-character given name in the given-name field and leave
+the middle-name field blank for this name form.
 
 - **Name types.** A man can carry a genealogical name, a courtesy name, a pseudonym or alias,
   and a taboo name. Record which one the jiapu entry headlines. Keep Western-record forms,

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 37}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 42}
 ---
 
 # Search a genealogical periodical index and retrieve the article
@@ -55,7 +55,15 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
 - **Treat an entry marked Rez. (Rezension) as a book review.** It points to a separately published book. Look for holdings of that book, for example in WorldCat. [S11]
 - **Track authors.** Note the author of any relevant article and add that name to later surname searches. Authors often write more than one article about the same family or area. [S10], [S12]
 
+- **Scan short PERSI surname hit lists before filtering.** Read the unfiltered titles for an unusual surname when the list is short. For a long list, put the place in the **Search Article Title** box under the **Article Title** column. Clear that filter and check the unfiltered list again when a relevant title could omit the place. [S38 @2026-11-18], [S39 @2026-11-18]
+
+- **Browse PERSI's subjects within the locality.** For an English locality, open **British Isles**, choose England under **Country**, and enter the place in **County or City/Town** [S38 @2026-11-18], [S40 @2026-11-18]. For a U.S. county, open **United States**, choose the state, then choose the county [S38 @2026-11-18], [S41 @2026-11-18]. Open each relevant subject in the results. A county search starts from the articles indexed to that county, so follow it with a title-keyword pass for a distinctive town name. [S39 @2026-11-18]
+
 - **Add PERSI's record types to place searches.** ACPL's PERSI handout lists the subject categories and record types PERSI uses: biographies, cemeteries, census, church, court records, deeds, directories, history, institutions, land, maps, military, naturalization, obituaries, passenger lists, school records, tax lists, vital records, voter lists, wills and other. Pair the place with each type that could record the event. Before narrowing, read the wording of the titles already in the results and take your next keywords from it, as the handout advises. [S31 @2026-11-16]
+
+- **Use PERSI's Research Techniques to find how-to articles.** Start with the broad record type and narrow to the method or topic you need. Keep this search separate from a locality search for published records. [S38 @2026-11-18], [S39 @2026-11-18]
+
+- **Use Article Title Keyword for distinctive places or events.** Enter a distinctive town name of at least five characters and scan the titles for the right town [S38 @2026-11-18], [S39 @2026-11-18], [S42 @2026-11-18]. When an event name brings up several occurrences, filter the **Article Title** column by the event year. Leave **Publication Year** alone and check the unfiltered titles for articles that omit the year. [S38 @2026-11-18], [S39 @2026-11-18]
 
 - **When the original record is lost, look for a printed transcription.** Society periodicals printed abstracts and transcriptions of local records, cemetery transcriptions among them, and PERSI indexes those articles [S33], [S34]. An ACPL staff member tells of a researcher who found a transcription of records that later burned (partial read: transcript excerpts only) [S30]. Before reporting a destroyed record's content as lost, search the place with that record type. Cite and weigh what you find as a derivative of the lost original, not as the original.
 
@@ -95,12 +103,12 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
   - other repositories, such as FamilySearch holdings or a state memory project
   - **Privacy gate:** <!-- privacy-gate: contact --> A loan request sends the user's name, library account details and the wanted citations to the user's own library and, through it, to the lending library.
   - a library that holds the periodical. Search WorldCat for the periodical title, not the article title [S31], then visit a holding library or ask your own library for an interlibrary loan.
-  - **Privacy gate:** <!-- privacy-gate: contact --> An article order sends the user's name and email address, the wanted citations and any payment details to the ACPL Genealogy Center by email.
+  - **Privacy gate:** <!-- privacy-gate: contact --> An article order sends the user's name and email address, the requested mailing address and the wanted citations to the ACPL Genealogy Center by email.
   - a copy order from ACPL, last (next bullet).
 
   ACPL staff add the publisher's own digitized issues and the WorldCat search by periodical title (partial read: transcript excerpts only) [S30]
 
-- **Order from ACPL on its current article order form.** ACPL's handout, opened 2026-11-16 (the file is dated April 2023), says to email the completed form to <genealogy@acpl.info>; the articles and the fee statement come back by email. It gives the fee as $7.50 for up to six articles plus $0.20 a page, not counting the cover or title page [S31 @2026-11-16]. The form asks for the full article title as PERSI gives it and the journal title, takes six articles per form, accepts no phone requests and says to allow six to eight weeks. It was read in a 2024 Internet Archive capture because the live file refused automated requests on 2026-11-16 [S32 @2026-11-16]. Follow the payment instructions on the form you send: the archived form asks for the $7.50 in advance, and the newer handout does not say.
+- **Order from ACPL on its current article order form.** Open the [article order form](https://www.genealogycenter.info/pdf/Article-ORDER-FORM.pdf) and enter the full PERSI article and journal titles for up to six articles per form [S38 @2026-11-18], [S32 @2026-11-18]. ACPL's handout directs you to email the completed form to <genealogy@acpl.info> and lists $7.50 per order plus $0.20 per copied page, excluding the cover or title page [S31 @2026-11-18]. The posted form calls for prepayment of the $7.50, asks you to allow six to eight weeks and rules out orders by phone [S32 @2026-11-18]. Confirm payment timing in the order inquiry before sending money.
 
 If a PERSI heading is missing from the cited issue's table of contents, first confirm the journal,
 volume and issue, then inspect the complete cited issue for the indexed subject. The ACPL

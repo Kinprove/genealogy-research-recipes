@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "us-military-pension-file-recovery"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["DAR Genealogical Research System Ancestor records"], "local_script": [], "extensions": [], "data_transfer": ["upload"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 118}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 133}
 ---
 
 # Interpret and correct a DAR Ancestor Database record
@@ -43,11 +43,19 @@ Copy into the user's notes, exactly as shown: the patriot's name and number, the
 
 DAR describes its databases as proprietary information not to be redistributed, apart from listed exceptions such as citing a patriot's name and number. Keep the extract in the user's own notes and cite the record; do not paste it into a shared tree, a public post or another service. [S2 @2026-11-16]
 
+Open the full Ancestor records when several patriots share a name. The **Pension Number** field, when present, can refer to a pension granted to the patriot or the spouse [S8 @2026-11-18], [S9 @2026-11-18]. In the verified application and supplemental listings, look for the patriot's child through whom each applicant descended and that child's spouse [S8 @2026-11-18], [S10 @2026-11-18].
+
+When other evidence points to a pension, use the pension references and associated families to narrow the same-name candidates, following the advice reported in the livestream excerpts [S7†]. Keep candidates with a blank pension field in play until other evidence rules them out. Once you identify the patriot, use the listed children and their spouses as leads for sibling and collateral research. Allow for children whose lines never appear in an application.
+
+When a North Carolina service citation gives “Clark” with a volume and page, test Walter Clark's edition of *The State Records of North Carolina* [S11]. The livestream advice reported in the excerpts suggests reading the surname and numbers as a single possible reference [S7†]. Confirm that the cited page supports the named patriot and service before expanding the citation in your notes.
+
 ## 2. Read a red notice as a rule for the next application
 
 A red notice tells the next applicant on that patriot what DAR no longer accepts from earlier papers and what the applicant must prove instead. When a line is closed to membership, the record says so in red. The notice FUTURE APPLICANTS MUST PROVE LINEAGE OF CHILD means that at least one paper verified on this ancestor has been found to contain an error in the lineage. [S2 @2026-11-16]
 
 A service notice works the same way. A third-party tutorial for DAR applicants explains that under "Future Applicants Must Prove Correct Service" DAR no longer accepts the service submitted with earlier papers on this ancestor, and new service must be found before an application is submitted [S5 @2026-11-16]. DAR's staff genealogist wrote in 2018 that a line is closed only as a last resort, when other service cannot be found [S3 @2026-11-16].
+
+If the comments flag a specific residence, follow the livestream advice reported in the excerpts and use the named place to direct the search [S7†]. Find evidence placing that patriot there during the period at issue, and check that the claimed service fits the proved wartime residence [S8]. Keep the residence question open if the service evidence leaves it unresolved.
 
 The 2014 edition of DAR's Genealogy Guidelines (partially read) describes the mechanism: when new information calls an established ancestor's service or verified lineage into question, the GRS record is coded, and the line stays closed to new applications and supplementals until the issue is resolved [S4]. That edition is superseded and was read only in part, in a third-party copy; the current edition was not read.
 
@@ -64,6 +72,8 @@ Do not look up or contact living members admitted on a flagged paper. The questi
 ## 4. Carry new evidence on an application or supplemental
 
 **Privacy gate:** <!-- privacy-gate: upload --> Before an application or supplemental packet leaves the user's device, answer the privacy gate in writing. Name each living person whose data the packet carries, usually the applicant and the most recent generations, and the documents that show them. Name the destination (the chapter registrar and DAR) and the audience: a verified paper becomes part of DAR's permanent membership record, which DAR does not alter later [S2 @2026-11-16]. Get each living person's permission for this transfer; until every item is answered, the packet stays an unsent draft.
+
+DAR requires its own application with supporting documentation and excludes applications from other hereditary societies [S12 @2026-11-18]. For a line accepted by the Sons of the American Revolution (SAR), follow the livestream advice reported in the excerpts and check each relationship against DAR's proof requirements using the underlying evidence [S7† @2026-11-18].
 
 DAR reviews new information about established patriots and prefers to make changes within a newly submitted application or supplemental [S2 @2026-11-16]. When the user has found service that the record lacks, or proof that answers a red notice, plan for it to reach the record on the next application or supplemental on this patriot that cites it.
 
