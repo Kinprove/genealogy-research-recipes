@@ -92,21 +92,28 @@ as written. A broad category or a blank field leaves Quaker membership unresolve
 
 - **In-service deaths:** request the WWI burial case file (also called a mortuary or casualty file) or the WWII Individual Deceased Personnel File (IDPF) separately from the OMPF. Do not merge it with the OMPF in the register. Route the request by custodian:
   - WWI-era burial case files (1915–1939, RG 92) were held at the National Archives in College Park and moved to NARA St. Louis in 2012 [S25].
-  - WWII Army IDPFs: search the National Archives Catalog for his file first, then ask NARA St. Louis, whatever his surname. NARA St. Louis lists IDPFs for 1939–1975 among its holdings [H6] and states that WWII Army IDPFs for surnames M–Z are open [H7]. The catalogue check on 7 November 2026 found digitized A–E surname files in the IDPF series [H23]. Older accounts split custody by surname between NARA and the Army, so do not route by surname alone. If NARA St. Louis says it does not hold the file, send a FOIA request to the U.S. Army Human Resources Command at Fort Knox, Kentucky. A 2025 History Hub reply gives the address and what to include [H24].
+
+  - WWII Army IDPFs: search the National Archives Catalog for his file first, then ask NARA St. Louis, whatever his surname. NARA St. Louis lists IDPFs for 1939–1975 among its holdings [H6 @2026-11-19] and states that WWII Army IDPFs for surnames M–Z are open [H7 @2026-11-19]. The catalogue check on 7 November 2026 found digitized A–E surname files in the IDPF series [H23 @2026-11-19]. Older accounts split custody by surname between NARA and the Army, so do not route by surname alone. If NARA St. Louis says it does not hold the file, send a FOIA request to the U.S. Army Human Resources Command at Fort Knox, Kentucky. A 2025 History Hub reply gives the address and what to include [H24 @2026-11-19].
+
   - Expect cause and date of death, temporary and permanent burial, medical records and sometimes a burial-site map [S10].
 - **VA claim file (VA C-file or XC-file):** request it by FOIA. It exists only if a benefits claim was made ([H8]; [S18], [S20], [S21]).
-  - Reclaim The Records offers a fax-based FOIA request for a deceased veteran’s claim file and publishes information on appeals [H8], [H9].
+
+  - Reclaim The Records offers a fax-based FOIA request for a deceased veteran’s claim file and publishes information on appeals [H8 @2026-11-19], [H9 @2026-11-19].
+
   - Inspect the claim file for a separation document such as DD Form 214 or WD AGO Form 53-55. Copy its actual form number, unit and decorations separately from the claim decision [S18].
   - Log the submission and reply dates. One request’s turnaround does not predict another’s [S18].
   - Record whether the reply supplies copies or only a summary. Reclaim The Records reported a change to summary-only replies in July 2025 [H9]. Preserve any stated reason for withholding records and the appeal instructions [S21]. A withheld file remains distinct from a search that found no file.
   - Name: keep the VA C-file apart from the USCIS C-file, which shares the label [S21].
-- **VA Master Index card (1917–1940):** held by NARA St. Louis, not the VA. It is digitized and free to search on [H10]. Search there first and log it as its own product [S20].
-- **BIRLS entry:** BIRLS (Beneficiary Identification Records Locator Subsystem) is a VA index of veterans and beneficiaries who claimed benefits, built from the 1980s on. Death does not create a BIRLS record. The public release covers only veterans the VA has confirmed as deceased ([H8]; [S17]). A BIRLS hit tells you a claim file may exist. Log it as its own product.
+
+- **VA Master Index card (1917–1940):** NARA St. Louis holds the index, and FamilySearch offers a free searchable collection [H10 @2026-11-19]. Log the card separately from a VA claim file [S20 @2026-11-19].
+- **BIRLS entry:** BIRLS (Beneficiary Identification Records Locator Subsystem) is a VA index of veterans and beneficiaries who claimed benefits, built from the 1980s on. Death does not create a BIRLS record. The public release covers only veterans the VA has confirmed as deceased ([H8 @2026-11-19]; [S17 @2026-11-19]). A BIRLS hit tells you a claim file may exist. Log it as its own product.
+
 - **Compensation file:** take the custodian and series from the file’s heading or citation. Extract company, battalion or division and any dated engagements it actually lists [S17].
 - **State bonus file:** many states paid their own WWI bonus or compensation. The application files are state records with a state custodian, separate from the OMPF. Search the archives of the veteran's home state [S29]:
-  - Pennsylvania State Archives, RG 19, Series 19.91, *World War I Veterans Service and Compensation File, 1917–1919, 1934–1948*. It records residence, unit, service and overseas dates, discharge, and dependents' names and addresses. Images are on Ancestry and, free to Pennsylvania residents, on Ancestry Pennsylvania ([H16]; [H17]; [H18]).
-  - Iowa: [H19] (State Historical Society of Iowa; the applications are indexed on FamilySearch).
-  - Washington: [H20] (Washington State Archives; on FamilySearch).
+
+  - Pennsylvania State Archives, RG 19, Series 19.91, *World War I Veterans Service and Compensation File, 1917–1919, 1934–1948*. It records residence, unit, service and overseas dates, discharge, and dependents' names and addresses. Images are on Ancestry, with free access for Pennsylvania residents through Ancestry Pennsylvania [H16 @2026-11-19], [H17 @2026-11-19], [H18 @2026-11-19].
+  - The State Historical Society of Iowa’s WWI applications have a FamilySearch index [H19 @2026-11-19].
+  - FamilySearch lists the Washington State Archives collection of veterans’ compensation applications [H20 @2026-11-19].
   - Use: the state holds these files, so they can supply a dated residence and service details when the OMPF burned in 1973. Cite the state custodian and series, not the federal one.
 
 - **BIRLS entry:** Reclaim The Records describes each entry as giving name, birth and death dates, branch of service, and enlistment and release dates [S48]; MyHeritage's 2025 release of the same index, *United States, Deceased Veteran Benefit Claims*, described the same date fields [S47]. When the OMPF burned, use these dates to bound the auxiliary, unit-record and claim-file requests. Log them as an index entry, not as a discharge document.
@@ -243,9 +250,11 @@ absence [S24]. Where that practice is confirmed, use an independently dated stat
 to choose an initial, bounded run of the supported unit or company's reports. A name missing
 on one day then does not show that the man was absent from the unit.
 
-- **Online first:** search the National Archives Catalog’s *Morning Reports, 1940–1946* (NAID 85713825) for the unit and dates [H29]. The series span alone does not establish that the needed monthly report is online. The 7 November 2026 check found monthly files through December 1944 [H29]. Record the files and dates currently visible. If the target is absent, check offline access [H4].
+- **Online first:** search the National Archives Catalog’s *Morning Reports, 1940–1946* (NAID 85713825) for the unit and dates [H29 @2026-11-07]. The series span alone does not establish that the needed monthly report is online. The 7 November 2026 check found monthly files through December 1944 [H29 @2026-11-07]. Record the files and dates currently visible. If the target is absent, check offline access [H4 @2026-11-07].
+
 - **Privacy gate:** <!-- privacy-gate: request --> Morning reports name the men of a unit, and the 1969–1974 reports may concern living people; answer the privacy gate in `SKILL.md` before requesting them or briefing a researcher.
-- **Offline access:** for archival Army morning reports (1912–1968), NPRC does not take written requests. Read them in person at St. Louis by appointment, or hire an independent researcher. Mail and fax requests apply only to non-archival 1969–1974 reports [H4].
+- **Offline access:** for archival Army morning reports (1912–1968), NPRC does not take written requests. Read them in person at St. Louis by appointment, or hire an independent researcher. Mail and fax requests apply only to non-archival 1969–1974 reports [H4 @2026-11-16].
+
 - **Personal entries:** promotions and furloughs, dated to the day [S16]. Log only entries that name him.
 - **Unit context:** date unit movements and incidents from unit records. An after-action report placed one incident on Christmas Eve when family memory placed it on Christmas Day [S16]. Seek an individual entry before placing the veteran there.
 
@@ -284,6 +293,8 @@ The presenters describe outbound and returning Army transport passenger lists [S
 - Record the vessel, dates, service number, company/regiment and named nearest relative with the stated relationship [S14].
 - Follow ditto marks up to the top of the page, or back to earlier pages, to read the unit [S22].
 - Compare the relative and address with the census household and city directories before attributing a letter, postcard or identity [S14], [S22].
+
+**Privacy gate:** <!-- privacy-gate: contact --> Asking a veterans’ association about a unit can disclose a living veteran’s service. Answer the privacy gate and follow Living people in `SKILL.md` before contacting the association. Ask by unit and dates where those are sufficient.
 
 Ask the veterans’ association which repositories hold diaries or photographs, and check the unit’s periodic reports, including hospital reports [S17], [S19].
 
