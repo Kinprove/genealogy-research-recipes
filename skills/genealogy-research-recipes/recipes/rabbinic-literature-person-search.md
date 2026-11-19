@@ -288,7 +288,7 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
 
 ## 9. Classify what each statement rests on
 
-Separate the statements even when they share a publication. In one 1991 article, letter facsimiles named the betrothed pair, the editor identified the girl’s father and inferred the season, and a named chain of tellers supplied the account of her death [S28]. Record each statement with its own page and basis.
+Separate the statements even when they share a publication. A field report describes a 1991 article whose letter facsimiles named the betrothed pair, the editor identified the girl’s father and inferred the season, and a named chain of tellers supplied the account of her death. The article and facsimiles have yet to be checked against that report [S28]. Record each statement with its own page and basis.
 
 1. Give every statement that you take from a rabbinic or Hasidic publication one of these
    classes, and carry the class with the statement into every note, ledger row and tree entry
