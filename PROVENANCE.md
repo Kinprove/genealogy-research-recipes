@@ -837,7 +837,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [portuguese-parish-civil-register-recovery](provenance/portuguese-parish-civil-register-recovery.yml) | 38 | 9 | 1 | — |
 | [probate-case-document-inventory](provenance/probate-case-document-inventory.yml) | 24 | 29 | 7 | — |
 | [published-book-catalogue-and-full-text-discovery](provenance/published-book-catalogue-and-full-text-discovery.yml) | 37 | 28 | 0 | — |
-| [quaker-meeting-record-recovery](provenance/quaker-meeting-record-recovery.yml) | 14 | 6 | 0 | — |
+| [quaker-meeting-record-recovery](provenance/quaker-meeting-record-recovery.yml) | 8 | 2 | 0 | — |
 | [rabbinic-literature-person-search](provenance/rabbinic-literature-person-search.yml) | 19 | 1 | 1 | — |
 | [repository-photograph-collection-search](provenance/repository-photograph-collection-search.yml) | 35 | 19 | 0 | — |
 | [research-documentation](provenance/research-documentation.yml) | 35 | 31 | 31 | — |
