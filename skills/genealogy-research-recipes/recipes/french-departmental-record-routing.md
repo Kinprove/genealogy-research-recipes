@@ -345,10 +345,7 @@ do not assume the table itself contains the adoption reference.
 
 ### A Basque surname change across a marriage
 
-In a French Basque inquiry, test a house-entry explanation when the records show a name
-change across marriage. The 2022 names presentation describes a man entering an heiress's
-household and using her surname, itself a house name [S30]. Treat that as a hypothesis
-for the particular couple, rather than a rule for every family, period or inheritance.
+When a French Basque surname changes across marriage, compare the earlier name with the spouse’s surname and the house name. The 2022 presentation describes a son-in-law taking over his in-laws’ farm and using his wife’s surname, which was the house name [S30]. Test that explanation against the particular couple’s records.
 
 1. Keep the person's earlier surname, spouse's surname and house name as separate fields,
    each with its dated source and commune. Preserve any wording for entry into the house.
