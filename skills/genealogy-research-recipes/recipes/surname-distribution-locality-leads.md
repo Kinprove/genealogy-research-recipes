@@ -47,11 +47,11 @@ If the date or basis is not stated, record "period unknown" and rank that source
 
 ## Choose the slice nearest the target period
 
-Read the slice closest to the ancestor's generation, not the most recent one or the most striking one. In the presenter's 2023 Geneanet demonstration, a surname was confined to one area in the 1500s slice, more spread out by the 1700s, and found in London and the Netherlands as well as France by the 1800s [S3]. A phonebook cluster or a medieval attestation is therefore evidence for a different period. Label it with its own period wherever you use it. When slices disagree, keep each one as a separate locality lead with its date.
+Use the time slice nearest the target generation, and save the location, period and source behind each dot. Gunther’s 2023 Geneanet demonstration showed a French cluster in the 1500s, a wider spread in the 1700s, and London and the Netherlands as well as France in the 1800s [S3]. Those later places suggest records to search for that period. A changing map alone cannot trace a particular household between them.
 
 ## Bound a couple's search area by surname overlap
 
-When you know both spouses' surnames, look each one up in the same dated distribution source. List only the localities where **both** occur, then plot them on a map. The method works because spouses usually came from nearby: they went to the same church or school, or met at the weekly market. In the presenter's own case, three shared villages lay fairly close together. That gave her a bounded area for parish searches instead of every church in Lithuania [S1].
+Look up both spouses’ surnames in the same dated distribution source. If at least one is uncommon, map the places where both occur. Sinickas used three nearby Lithuanian villages to narrow the parish search [S1]. Her demonstration does not establish the reference period of the underlying data. Keep the locations as leads and search the registers covering each village in the couple’s lifetime. Shared markets or churches can suggest where to look next.
 
 Limits [S1]:
 
@@ -62,10 +62,10 @@ Before you conclude that a name or place is absent, read the list in the source'
 
 ## Resolve dictionary attestations through a gazetteer
 
-Black's *The Surnames of Scotland* gives dated attestations and spelling variants. It names parishes without saying where they are, so look up each one in a gazetteer. In the Scottish example, Black records a Thomas Garmach as minister of three parishes. The presenter looked up one of them, Tarves, in *Groome's Ordnance Gazetteer of Scotland* (a digital book in FamilySearch's digital library). Tarves is in Aberdeenshire, so the name is localised to that part of Aberdeenshire and its adjoining parishes [S2].
+Record the spelling, date and parish in each surname-dictionary attestation, then locate the parish in a contemporary or historical gazetteer. Brady read an entry in Black for Thomas Garmach, a minister associated with three parishes, and chose Tarves to look up [S2]. Groome’s *Ordnance Gazetteer* identifies Tarves as both a village and a parish in central Aberdeenshire [S22]. The place is established; a posting there alone does not determine the minister’s birthplace or the origin of other bearers.
 
 - Resolve **every** attested parish, not just the first.
-- When several places share a village or parish name, pick the right one by region and adjoining parishes, and record why you chose it. The French example notes that one place name occurs in several parts of France [S3].
+- If several places share a name, keep each candidate until the department or parish, neighbouring places or another contemporary reference distinguishes it. A place-derived French surname can point to several localities with the same place name [S3]. Record why the chosen locality fits.
 
 ## Rank districts and keep the next one ready
 
@@ -73,15 +73,11 @@ Below its phonebook map, the German site the presenter showed listed the top cou
 
 **A place-derived byname is a district lead too.** Sometimes a person who appears under the family surname in one list shows up in a later list under a byname taken from a place. Read the place as a possible origin district, then search that district's earlier census books for the base surname. Rank the district as a lead dated to the later list that carries the byname, under rule 1 below. Record any base-surname hits from that census as their own attestation, dated to that census. Record the byname, both list dates and the identity reasoning next to the locality.
 
-In the forum example, a participant had already posted Tenigin entries from a 1677–78 census of part of Ustyug district. He then cited, as further support for Ustyug as a promising origin district, a Perfiley Petrov Tenigin in Shadrinsk sloboda in 1710 and a Perfiley Petrov "Ustyuzhanin" (someone from Ustyug) in Shadrinsk sloboda in 1719, implying that they are the same man [S7]. Under this rule the Ustyug lead is dated 1719, and the 1677–78 Tenigin entries are a separate attestation dated 1677–78.
+Keep each dated attestation separate. A forum contributor transcribed a Perfiley Petrov Tenigin, aged 23, in Shadrinsk sloboda in 1710 (RGADA, f. 214, op. 1, d. 1525). The same contributor quoted a Perfiley Petrov Ustyuzhanin, aged 35, in Mogilnaya village of the sloboda in 1719 (d. 1527). The byname makes Ustyug an origin lead dated to 1719. The earlier surname occurrences reported for 1677–78 in part of Ustyug district have their own locator (RGADA, f. 1209, op. 1, d. 15047, fols. 332–363v) [S7]. All three references were taken from the forum; the manuscripts were not inspected.
 
-Limits [S7]:
+To test the proposed identification, compare the household members in the original entries. The 1710 transcription names a wife Natalia, daughter Katerina and brother Arkhip. The two reported ages advance twelve years over a nine-year interval. The shared forename, patronymic and district leave the identity open. The contributor likewise treated the earlier Ustyug material as fragments [S7].
 
-- The identity link rests only on forename and patronymic, and the stated ages are about three years out (23 in 1710, 35 in 1719). Keep it provisional.
-- The poster calls the findings fragments that do not yet form a picture.
-- Finding the base surname in the district shows that namesakes lived there. It does not show that they were the family's ancestors.
-
-**A soldier database can test a village whose registers are lost.** When the metrical books of a candidate origin village in the former Russian Empire have not survived, search Second World War soldier records, such as Pamyat Naroda, for the surname with a recorded birthplace or home in that village or a neighbouring one. One researcher's candidate village in Belarus, proposed as a misreading of the place in a family record, had no surviving books; she found two bearers of her surname from a neighbouring village in Pamyat Naroda and one other database, and treated them only as possible kin [S19]. Rank such a hit as a locality lead dated to the record, under rule 1 below: it shows that namesakes came from the village, not that they were the family. For how Pamyat Naroda handles place names, see [Recover separate military and Soviet-repression record episodes](russian-military-repression-record-episodes.md#start-from-the-event-and-source-scope).
+**If a candidate village’s registers are missing, look for namesakes in neighbouring settlements.** A researcher reported an unlocated birthplace written as Рбинское in a civil-registry reply. A suggestion of Зябень and a reported gap in its metrical books prompted a search for Силкин in service records. She found two namesakes associated with Зябенская Дубровка in Pamyat Naroda and another database she called «Гвара» [S19]. These are leads to a different locality. Check the original entries, their dates and place fields, and the register inventory before linking either man to the family. See [military and Soviet-repression record episodes](russian-military-repression-record-episodes.md#start-from-the-event-and-source-scope).
 
 ## Size the bearer pool country-wide
 
@@ -91,7 +87,7 @@ Run a surname-only search on one large record site:
 - no forename and no dates;
 - the site's alternate-spellings option switched on (on Findmypast, "include name variants").
 
-Record the total, the date you ran it, and where the hits cluster. In 2016 the presenter reported about 10 Findmypast results across the United Kingdom, and about 18 after he varied the spelling, while common surnames in his family ran to hundreds of thousands or millions [S5]. Record your own count; do not measure it against his.
+Record the date, spelling, geographic filters and result total for each search. Tanner’s 2016 UK-wide Findmypast exercise returned about ten records on one search and up to about eighteen as he varied the spelling [S5]. Inspect the places and repeated individuals in the results. A portal hit count measures that search’s indexed records and supplies no national count of surname bearers.
 
 Limits:
 
@@ -112,7 +108,7 @@ Geopatronyme is no longer a separate site: geopatronyme.com now redirects to Fil
 
 ## Use variants and etymology as search terms only
 
-Listed spelling variants and "most found places" are search terms and destination clues [S3]. The site's surname etymology, and any guess about migration or religion drawn from a map, prove nothing about a particular family. The presenter herself presents a Huguenot explanation only as a suspicion she had not checked [S3]. Tree or profile content on the same site is user-submitted and needs independent sources [S3]. Never state a family's origin, religion, kinship or identity from aggregate maps or etymology.
+Use the displayed variants as search terms and the listed localities to select registers. Gunther suggested Huguenot migration as one explanation for French surname hits in London and the Netherlands, and said she had not established it for that family [S3]. Look for a record connecting the named person to a congregation or movement. Trace any user-submitted tree claim to its underlying evidence before assigning religion, origin or kinship.
 
 ## Rank leads when they disagree
 
