@@ -259,6 +259,9 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `geni-practical-research-workflows#C-ae6e616e3c60` | platform-ui | 2026-11-12 | 2027-05-11 | H13, H14, H15, H21 |
 | `georgia-texas-state-land-grant-recovery#C-4a33c892ea0e` | portal-availability | 2026-11-13 | 2027-02-11 | S26, S25 |
 | `german-compensation-file-recovery#C-98f01516b3f4` | custody | 2026-11-13 | 2027-05-12 | S1, S16, S15, S7, S2, S6, S14, S5, S13 |
+| `german-compensation-file-recovery#C-2f077d93c998` | portal-availability | 2026-11-19 | 2027-02-17 | S1, S2, S13, S15 |
+| `german-compensation-file-recovery#C-c49129f6acc0` | portal-availability | 2026-11-19 | 2027-02-17 | S15, S1, S9, S8, S3 |
+| `german-compensation-file-recovery#C-16a94eb33d57` | portal-availability | 2026-11-19 | 2027-02-17 | S1, S15 |
 | `german-compensation-file-recovery#C-01c34afbe5f9` | fee | 2026-11-12 | 2027-02-10 | S13 |
 | `german-compensation-file-recovery#C-62b3aa5aaef1` | custody | 2026-11-13 | 2027-05-12 | S10, S1 |
 | `german-local-census-registration-recovery#C-185e1221dfa8` | portal-availability | 2026-11-13 | 2027-02-11 | S10 |
@@ -762,7 +765,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [genealogy-standards-audit](provenance/genealogy-standards-audit.yml) | 17 | 2 | 2 | — |
 | [geni-practical-research-workflows](provenance/geni-practical-research-workflows.yml) | 20 | 7 | 0 | — |
 | [georgia-texas-state-land-grant-recovery](provenance/georgia-texas-state-land-grant-recovery.yml) | 0 | 0 | 0 | — |
-| [german-compensation-file-recovery](provenance/german-compensation-file-recovery.yml) | 2 | 7 | 0 | — |
+| [german-compensation-file-recovery](provenance/german-compensation-file-recovery.yml) | 0 | 1 | 0 | — |
 | [german-emigrant-origin-sources](provenance/german-emigrant-origin-sources.yml) | 19 | 27 | 0 | — |
 | [german-local-census-registration-recovery](provenance/german-local-census-registration-recovery.yml) | 9 | 21 | 1 | — |
 | [german-military-record-period-routing](provenance/german-military-record-period-routing.yml) | 18 | 12 | 2 | — |
