@@ -42,7 +42,7 @@ Before you query, build two registers.
   - relatives who moved away and may have kept letters;
   - the compiler of any published family or local history. The compiler's research papers are a separate target from the book and can hold far more than the book printed [S5], [S9], [S10], [S12], [S15].
 
-For congregational records, establish the unit name and dates from a record of residence or membership. Search the Church History Catalog under the historical ward, branch or stake name, then choose the record type and period. A person may appear on a page filed under the ward without appearing in the catalogue description [S21], [S66].
+Identify the congregation by its historical name and dates using residence or membership records, then look for its registers in the relevant denomination’s catalogue or finding aids. For a Latter-day Saint congregation, search the Church History Catalog by historical ward, branch or stake, record type and period. A person may appear on a page filed under the ward without appearing in the catalogue description [S21], [S66].
 
 For a possible lifetime land transfer, search the landholding family’s legal and financial papers under both parties to the gift. An unrecorded deed of gift was reported among one family’s private papers [S58], [S59]. Look for the dated instrument and compare the parties and parcel before recording the transfer.
 
@@ -56,7 +56,7 @@ questions; reading a transaction-only ledger does not exhaust that separate targ
 test book not located or inspected outstanding. The narrated example does not establish
 standard fields, identity or current availability. [S33]
 
-When a parish register ends, search its accounts (*Kirchenkassen-Rechnungen*) for the missing years. At Canditten, the 1822–1846 accounts name contributors and include an 1824 letter from the pastor to an administrative official [S30], [S31]. Check both the accounts and their enclosures. A payment or mention in a letter places a person in a particular transaction, and cannot supply a complete parish roster.
+When a parish register ends, search the parish accounts (*Kirchenkassen-Rechnungen*) for the missing years and inspect their enclosures. In two articles on Canditten, Gegner-Sünkler reports that the 1822–1846 accounts named contributors and held an 1824 letter from the pastor to an administrative official [S30], [S31]. The original accounts and letter have yet to be verified. A payment or mention in a letter documents a particular transaction and supplies no complete parish roster.
 
 For a property-change question tied to an identified early-Prussian territorial Amt and
 period, check whether the actual local muster-roll inventory includes relevant appendices:
