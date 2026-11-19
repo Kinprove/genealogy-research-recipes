@@ -1,7 +1,5 @@
 ## Sources
 
-All procedures are independently written paraphrases. Sources are cited, not reproduced.
-
 H1–H18 were read on 2026-11-07: H1, H7 and H16 directly, and the Help Center articles
 through the web reader after direct requests returned HTTP 403. This checks the documentation,
 including the named menu paths, not a signed-in account or its available controls. Dates labelled

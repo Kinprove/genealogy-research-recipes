@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Rights: every source below is a third-party work cited for attribution only — its content remains © its creator/publisher and is **not reproduced** here. The recipe text is Kinprove's own distillation.
-
 1. *How to Use DNA Matches to Identify Unknown Ancestors* — Diahan Southard, Your DNA Guide (YouTube), 2025-11-19 — <https://www.youtube.com/watch?v=uhSeKbeCU4I> — Rights: cited reference, not reproduced.
 2. *How Do You Generate Hypotheses in WATO Plus* — Family Locket (YouTube), 2025-03-27 — <https://www.youtube.com/watch?v=budyv2DuMro> — the ~269 cM ambiguous-band figure is reported by the source and not independently verified. Rights: cited reference, not reproduced.
 3. *My Fastest Father Find Ever* — Kitty Cooper's Blog, 2026-01-09 — <https://blog.kittycooper.com/2026/01/my-fastest-father-find-ever/> — supports the two-matches-intersect *heuristic* in step 2, and is the source of the *Suffix-field* bookkeeping (match initials + size-in-asterisks) and *duplicate-checking* tips. Rights: cited reference, not reproduced.

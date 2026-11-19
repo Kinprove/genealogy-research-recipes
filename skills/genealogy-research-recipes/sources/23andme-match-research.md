@@ -1,8 +1,5 @@
 ## Sources
 
-The recipe is original distillation and synthesis; third-party methods and facts are cited,
-not reproduced. Practitioner reports below preserve their publication dates.
-
 - **S1:** Family Locket, [RLP 411: 23andMe Clustering and Chromosome Browser](https://familylocket.com/rlp-411-23andme-clustering-and-chromosome-browser/), 25 May 2026. Transcript covering clustering, comparison tables and known-relative follow-up.
 - **S2:** Jonny Perl, [23andMe clustering](https://blog.dnapainter.com/blog/23andme-clustering/), 26 February 2026. Adjustable clustering and matrix import.
 - **S3:** Kitty Cooper, [The Reinvented 23andme](https://blog.kittycooper.com/2026/06/the-reinvented-23andme/), 20 June 2026. Selected browser tables, legacy-account eligibility and anchor spreadsheets.

@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Original Kinprove synthesis. Third-party passages are **not reproduced**.
-
 - **S1:** Roberta Estes, *FamilyTreeDNA Match Download Files are Back!*, DNAeXplained, 2024-08-29 —
   [post](https://dna-explained.com/2024/08/29/familytreedna-match-download-files-are-back/).
 - **S2:** Roberta Estes, *How to Download Your DNA Match Lists & Segment Files*, DNAeXplained,

@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Rights: third-party sources are cited for attribution and are not reproduced. The expression and retrieval sequence are Kinprove's original distillation.
-
 Practitioner material, read in the preserved source bodies:
 
 1. *Jewish Genealogy Research (Poland, Galicia, Lithuania, Eastern European)* — Genealogy Gems, uploaded 2021-05-20 — [video](https://www.youtube.com/watch?v=eB5KRGKSC1M).

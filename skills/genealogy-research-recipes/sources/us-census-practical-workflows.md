@@ -1,8 +1,5 @@
 ## Sources
 
-> Original Kinprove-authored distillation of the practitioner methods cited below.
-> Third-party source text is **not reproduced**.
-
 ### Source register
 
 Publication dates are listed below. Workflow numbers show which procedures

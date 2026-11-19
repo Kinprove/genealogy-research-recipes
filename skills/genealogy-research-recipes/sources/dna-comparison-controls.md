@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Original Kinprove synthesis. Third-party passages are not reproduced.
-
 Primary documentation opened and checked 2026-10-18. Public documentation confirms
 the described scope; it does not verify a signed-in account or every kit generation.
 

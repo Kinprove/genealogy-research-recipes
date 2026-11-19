@@ -1,7 +1,5 @@
 ## Sources
 
-The recipe structure is original Kinprove synthesis; third-party passages are not reproduced.
-
 - S1. Lisa Louise Cooke's Genealogy Gems, [Episode 205](https://www.youtube.com/watch?v=zNVSOhlUmgI) (YouTube, 2017-07-12). Used for: an archivist's advice that motivates photographing a book's title page, or a collection's folder and box-end label, alongside the target images. Limits: a label photo records the arrangement at the time of the visit and is not the citation.
 - S2. J-Roots Forum, thread [ФОРУМ: вопросы, замечания и предложения](https://forum.j-roots.info/viewtopic.php?f=181&t=4753) (2009-09-25). Used for: a discussion of metrical-book screenshots that motivates recording the year and place from the page header next to a crop's locators. Limits: does not supply the crop's archival signature.
 - S3. Ahnenforschung.net forum, thread [Humoris causa](https://forum.ahnenforschung.net/forum/thread/928/) (thread started 2006-07-14). Used for: a church-book transcription anecdote showing the loss of a date that stands only in a heading or margin. Limits: does not supply the crop's archival signature.

@@ -1,8 +1,5 @@
 ## Sources
 
-Original procedural synthesis. The sources are attributed and paraphrased; third-party prose,
-screenshots, catalog entries and real family examples are not reproduced.
-
 - **P1:** *Where to Find Genealogy Records for Poland*, published 2024-12-29 —
   [guide](https://whoareyoumadeof.com/blog/where-to-find-genealogy-records-for-poland/).
   Geneteka scan links and the onward archival route.

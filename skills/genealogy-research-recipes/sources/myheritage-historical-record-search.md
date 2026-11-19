@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Rights: every source below is a third-party work cited for attribution only — its content remains © its creator/publisher and is **not reproduced** here. The recipe text is Kinprove's own distillation.
-
 The following dates are video upload dates, not independently established session dates.
 
 - **S1:** *Get the Most from the MyHeritage Search Engine for Historical Records*, MyHeritage,

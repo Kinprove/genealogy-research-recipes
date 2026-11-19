@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Original Kinprove synthesis. Third-party passages are **not reproduced**.
-
 Practitioner demonstrations (historical controls and examples; retain their methods rather than
 their numeric presets):
 
