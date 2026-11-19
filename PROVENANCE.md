@@ -728,7 +728,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [confederate-hospital-record-recovery](provenance/confederate-hospital-record-recovery.yml) | 0 | 0 | 0 | — |
 | [convict-transportation-record-chain](provenance/convict-transportation-record-chain.yml) | 11 | 9 | 0 | — |
 | [corpus-seeded-name-search](provenance/corpus-seeded-name-search.yml) | 25 | 17 | 10 | — |
-| [court-case-file-recovery](provenance/court-case-file-recovery.yml) | 16 | 15 | 1 | — |
+| [court-case-file-recovery](provenance/court-case-file-recovery.yml) | 12 | 12 | 1 | — |
 | [cousin-relationship-paths](provenance/cousin-relationship-paths.yml) | 0 | 0 | 0 | — |
 | [criminal-court-prison-record-recovery](provenance/criminal-court-prison-record-recovery.yml) | 17 | 21 | 4 | — |
 | [danish-church-book-probate-recovery](provenance/danish-church-book-probate-recovery.yml) | 0 | 0 | 0 | — |
