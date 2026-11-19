@@ -77,7 +77,7 @@ these places establishes jurisdiction. The
 [later talks](https://www.youtube.com/watch?v=Yt91gmZt8sE) motivate this list. They supply no
 jurisdiction rule or fixed time span for any state or period. [S1, S14]
 
-Search the courts of the counties a person had left as well, even after the estate where he died is found and closed. An estate could be opened in a former county years later for money or property still there: in Neill's example, an estate was opened there ten years after the death in another state, to receive a settlement from a lawsuit that had taken years [S94]. A proceeding for assets in a state other than the one where the deceased lived is an ancillary administration [S95]. Enter such an estate as its own candidate case with its own locator and identity check.
+Search a former county when a deed, lawsuit or other record places an unresolved asset there. In one case a Maryland estate opened ten years after the man died in Ohio to receive a court settlement [S94]. A proceeding for assets outside the state of domicile may be an ancillary administration [S95]. Enter it as a separate case with its own court, locator and identity check.
 
 Before reporting a woman's death or estate record missing, look for a late last marriage and search under that husband's surname as well as the name she had with her children's father. Neill calls the last husband's surname crucial to finding a woman's death and estate settlement [S88]; widowed and divorced women often kept a prior husband's surname unless they remarried [S89].
 
@@ -99,7 +99,7 @@ of a specific court. [S5]
 
 Browse the county will book even when the person died intestate: in some U.S. areas, particularly before the Civil War, it also recorded inventories, appointments of administrators and executors, sale accounts and lists of disbursements [S84], [S86].
 
-For a Virginia estate, search the Library of Virginia's Wills and Estate Records Index, which covers wills, inventories, sales and other estate records from 1633 to 1800 in the will books of fifty-one counties and cities, and in some cases estate records in county order books [S86 @2026-11-14]. Then search that county court's order or minute books, which record every matter brought before the court and can hold information from loose papers since lost [S87 @2026-11-14]. Do not assume a loose-paper estate file exists: Neill expects a 1760 Virginia will to leave references in the order books but probably no case file [S85 @2026-11-14]. Record which loose papers survive for that county before calling a file missing.
+For a Virginia estate, search the Library of Virginia’s Wills and Estate Records Index. It covers 1633–1800 for fifty-one counties and cities, including wills, inventories, sales and some order-book entries [S86 @2026-11-14]. Then check the county court’s order or minute books, where orders may preserve information from lost loose papers [S87 @2026-11-14]. For an eighteenth-century will, use the book and folio to locate related orders and establish which loose papers actually survive before reporting a missing case file [S85 @2026-11-14].
 
 For images of a Sumter, South Carolina, estate, look for Sumter Estate Records, 1784–1960, within Ancestry’s statewide South Carolina, U.S., Wills and Probate Records, 1670–1980 [S98 @2026-11-18], [S99 @2026-11-18]. Use the county series and any known bundle or package to locate the papers. Use the county series dates when reporting coverage.
 
@@ -139,12 +139,7 @@ residence and verified court coverage into the existing case register. Keep four
 separate: was an inventory made, was a court copy filed, does a copy survive, and does the
 searched index or image set expose it? A legal expectation alone answers none of them. [S24]
 
-- **Index and filing date:** apply the later-year search already described above, retaining
-  death and filing dates separately. ArkivDigital reports an example filed decades after
-  death; it supplies no universal filing interval. Where the available index supports them,
-  use justified name variants or wildcards, log the actual date coverage, and retrieve the
-  court document behind a candidate. Do not carry the talk's historical index-coverage claim
-  forward as a guarantee about the current service.
+- **Index and filing date:** search beyond the death year under supported name variants. Use wildcards if available, log the years and court covered, and retrieve the document for each candidate. An ArkivDigital presenter reported an inventory appearing 70 years after death [S24]. For the National Archives search, record the name, birth and death dates, and registered residence at death [S109].
 - **Court copy and heirs' original:** the presenter distinguishes the copy filed with the
   court from the inventory delivered to heirs. If the court copy cannot be found, queue an
   heir-held original only when a family-paper inventory, citation or other evidence gives
@@ -165,10 +160,7 @@ searched index or image set expose it? A legal expectation alone answers none of
 **Artifact:** for each branch, add its actual evidence, target/custodian, covered dates,
 retrieval result and remaining production or survival question to the case register.
 
-**Check:** report an index miss, an unavailable court copy, an inspected private original
-or a dated certificate as that specific outcome. None alone establishes a general production
-rule or survival rate. For the talk's unlocated 1935 estate, the reason for absence and any
-later filing remain unknown.
+**Check:** enter an index miss, an unavailable court copy, an inspected private original or a dated poverty certificate as its own outcome. Keep the cause of any missing inventory unresolved unless a record establishes it.
 
 ## 2. Resolve every discovered reference into its own inventory row
 
@@ -226,7 +218,7 @@ workflow. A [will-versus-index comparison](https://forum.ahnenforschung.net/foru
 motivates this check. It does not explain why the index differs, and it does not show that the
 will is complete. [S15]
 
-To decide whether a will image shows an original or a clerk's copy, examine the volume instead of judging from the single image. The Legal Genealogist reports paging back to the start of the volume to identify a bound will book, looking for pins or ribbons fastening an inserted document, and comparing the dates of surrounding entries with the will's date and the testator's death. The worked example is one bound Missouri will book, and no independent source was found for this test. [S29]
+Before classifying a will image, page back to the volume’s title and date range. Compare the handwriting and entry sequence with the surrounding pages and look for fastenings such as pins or ribbons that could identify an inserted paper. In a Missouri will book, the entries surrounding the purported original were dated two years after the testator’s death [S29]. Seek the loose instrument or an independently identified copy when the format remains uncertain.
 
 Inventory a loose original and a clerk's recorded copy as separate rows with separate locators,
 and record which form each image shows. A will in a will book is usually the court's recorded
@@ -244,7 +236,7 @@ found. The [Maryland seal example](https://www.youtube.com/watch?v=Yt91gmZt8sE),
 this. None of these
 examples establishes routine recording or the survival of originals. [S6]
 
-Where an original will survives alongside the will book entry, compare each heir's name in the two instead of accepting a clear, legible entry as an accurate list of the children, because copying errors occur and the differences can be minor or important. [S30], [S31] The Legal Genealogist reports, from two Tennessee county wills, a recorded copy that carried an entirely different child's name and originals held only on microfilm at a county archive; those specific examples were not independently verified. [S32]
+Compare the original or its filmed image with the recorded will, transcribing every heir’s name and clause from each version [S30], [S31]. In a Sumner County, Tennessee, will the book named a child Pleasant, while the filmed original named Jarratt; a Pleasant Taylor also lived in the county [S32]. Keep both readings with their locators and look for records that identify the intended heir.
 
 If an index, docket or wrapper gives a packet or file number that the filmed or digitized
 collection lacks, record the result as "not in this copy" rather than a missing document, and log
@@ -252,7 +244,7 @@ a pending request to the present custodian for that number
 ([Huron County packet example](https://www.youtube.com/watch?v=D5weC7CmDlo)); this does not
 establish that any court still holds or will retrieve an unfilmed packet. [S7]
 
-When a will names many children, note which are grouped in the same clause with the widow and which are placed apart as already provided for, rather than extracting one sibling group of the widow or reading the split only as a difference in bequests. The Legal Genealogist reports treating such a split as a hypothesis of different mothers, to be tested against tombstone dates, family Bibles and similar sources, which belongs in the evidence workflow. The author says the grouping is not proof by itself, and the example is one North Carolina will. [S33]
+When children appear in different clauses, copy each group with the widow’s name and any statement of earlier provision. A North Carolina will grouped children in a way that suggested two mothers [S33]. Test the proposed relationships against marriages, death dates, family Bibles or other independent records before assigning a parent.
 
 Do not read "my now wife" in a will as evidence of an earlier marriage. Neill reads the phrase as naming the wife at the time the will was written, to make clear who takes a bequest, as in a farm left to "my now wife" and after her death to "our children" [S67]. Test an earlier marriage in other records.
 
@@ -281,7 +273,7 @@ results and reasons for each extension.
 **Check:** A later recording date is not a later death date. Finding a settlement several years
 after death demonstrates the need for that case's wider search; it supplies no universal deadline.
 
-When the final settlement or division comes years after the death, check two ordinary causes before reading the delay as a family dispute. Common-law dower was a widow's life estate in one third of her husband's land, so the heirs' possession of that part waited until her death [S82]; a will could also give her a life estate [S80]. Property was divided once all parties agreed or all heirs had come of age [S83], and heirs could wait for the youngest to come of age rather than act through a guardian [S80]. Run the search for the final settlement or partition to the later of the widow's death and the youngest heir's majority, taking the age of majority for that place, date and sex and whether marriage ended minority there, as in the Iowa rule below, and search the land records as well as probate, because the final division can appear in either or both; in Neill's Kentucky example, the land was partitioned sixteen years after the death [S81].
+Search for a final settlement or partition in both probate and land records beyond the death year. A widow’s life estate, whether from a will or an applicable dower right, could postpone possession, and heirs sometimes waited for the youngest to reach majority [S82], [S80], [S83]. Identify the actual interest and the local majority rule, including any effect of marriage. In Bourbon County, Kentucky, a man who died in 1815 had his land partitioned in 1831 [S81]. Use those events to extend the search and confirm the reason for a delay from the papers.
 
 For a colonial Maryland estate, use Vernon L. Skinner Jr.’s administration account and balance book abstracts as leads to separate Prerogative Court series. Match the volume to the estate dates and queue the underlying records [S106]. If tracing estate land, use Skinner’s Provincial Land Office debt book abstracts by county and year [S107]. Record those entries as land and quit-rent evidence [S108]. The presenter points to these series in the only available excerpt on Skinner’s work [S100].
 
@@ -289,7 +281,7 @@ Do not record the administrator of an intestate estate as the spouse or a child 
 
 An administrator *de bonis non* was appointed to finish an administration that the earlier administrator could no longer complete [S91], [S92]. Queue the earlier appointment as its own row and look in the court's orders for why it ended; the court may state a reason or may simply relieve the earlier administrator [S91].
 
-Search the probate index even for a person who left no property, and classify each hit by proceeding type before treating it as an estate. Probate courts could also decide a person's sanity before commitment to a state hospital: in Minnesota their records include insanity case files, in some counties numbered in one sequence with the estates, and insanity record books mostly dated before 1920 [S77]. Neill found two entries for one poor ancestor that were insanity cases, not estates [S76]. Take a commitment case to [institutional patient records](institutional-patient-record-recovery.md).
+Search the probate index even when the person left no known property. Check the proceeding type on the docket or file cover. In some Minnesota counties, commitment and estate files were numbered together, and a person could have several indexed proceedings [S77], [S76]. Record each case separately and take a commitment file to [institutional patient records](institutional-patient-record-recovery.md).
 
 If an inspected estate instrument defers distribution or control until a condition is met,
 retain its literal terms and locator. When independent records support a potential triggering
@@ -325,7 +317,7 @@ For a relative who vanished, list the relatives who died after the disappearance
 
 When an item in an estate appraisal is illegible, read it against its neighbors. Appraisers usually walked the property, often room by room, so an appraisal tends to group items by place or purpose, and some name the room [S78], [S79]. Ask where the surrounding items stood (kitchen, barn, field) and what the unclear word could be in that group, then record the reading as an inference with that reasoning, not as a transcription. Grouping is less likely in a list of items sold than in the appraisal [S78].
 
-Inventory an estate sale bill or vendue list as its own row, and copy each buyer with the item and price where the list gives them. Look for it with the inventory, in the case file or in a separate sales book. Buyers likely knew the deceased and can include relatives and associates; work first through those who bought more than two items [S44]. Flag a buyer of a family keepsake such as the Bible and a buyer who was also the administrator: in one 1821 Ohio estate, the author identified both as sons of the deceased from other records [S43]. Queue each flagged buyer as a separate candidate relative for the evidence workflow; a purchase alone does not prove kinship.
+Inventory the estate sale bill as a separate record. Look in the packet, with the inventory and in sales books. List every buyer with the item and price. Give repeat buyers, the administrator and the purchaser of a personal keepsake priority for a kinship check [S44]. In an Ohio estate, a family Bible buyer and the administrator were identified as sons through other records [S43]. Record the purchase and the relationship evidence separately.
 
 Do not skip guardianship or orphans' court entries because a parent survived: if minors may have
 inherited land or other property, search them in the estate's county and where the widow and
@@ -345,18 +337,9 @@ extent allow, or leave the lookup unresolved. Keep guardian, ward and parent as 
 roles, and queue each located proceeding with its own locator. Hoitink suggests this reverse
 search; guardianship alone establishes no kinship. [S18]
 
-Inventory each guardianship paper for the same minor as its own row. A court appointment and a
-later nomination of the same guardian are separate events, not duplicates and not a change of
-guardian. Record any stated age bracket literally, such as "under fourteen" or "above 14 years
-... has chosen him", and whether the minor chose the guardian. Read the dated wording as an age bound: a
-minor "above 14 years" who "has chosen" the guardian was at least 14 and still under age on that
-date, because the common law let a minor of 14 or over choose a guardian. When the mother's maiden
-name is unknown, a guardian with a surname other than the father's is a possible lead to her kin
-for the evidence workflow; check it in that family's own probate and vital records. The
-[Warham Wheeler guardianship example](https://vitabrevis.americanancestors.org/the-warham-wheeler-affair)
-motivates this. [S25]
+Inventory the court’s appointment and the minor’s later nomination as separate events, even when both name the same guardian. In William Wheeler’s Massachusetts papers, the initial appointment described him as under fourteen; the later one said he was above fourteen and had chosen the same guardian [S25]. Copy each phrase and date, then check the law in that jurisdiction before deriving an age range. If a guardian’s surname suggests the mother’s family, test the link in probate and vital records.
 
-Where an annual guardian's report has narrative text, read the paragraph ahead of the line entries rather than extracting only names and sums. The Legal Genealogist reports, from one 1896-1898 Louisa County, Iowa report book, that such paragraphs can show a ward's placement, custody with relatives, schooling and marriage consents, and treats a guardian's changed surname as a marriage clue; the author also says these accounts are often only line entries. [S26] Use a ward's attached receipt on reaching majority to bound a birth date only after checking the age for that place and sex and whether the ward married: under Iowa law through the Code of 1897, minority ended at 21 for males and 18 for females, and at marriage for any minor. [S27], [S28]
+Read the narrative above the figures in a guardian’s annual report. Extract any placement, school, relative, consent to marriage or change of surname. A receipt attached to a Louisa County report gave the day the ward said he had turned 21 [S26]. If a receipt says only that a ward reached majority, apply the rule for the person’s place, date, sex and marital status. In Iowa under the 1897 Code, majority came at 21 for males, 18 for females, or earlier upon marriage [S27], [S28].
 
 If land passed jointly to several heirs, or the estate papers or deeds point to a suit, add a
 bounded search of the court's civil or equity series for a partition, sale or title suit. An
@@ -370,7 +353,7 @@ clear title, so a family-versus-family caption is not evidence of a feud. The
 supplying local law. Not every jurisdiction required such a suit; establish the period's procedure before
 interpreting a suit. [S11]
 
-For Illinois land with underage heirs where dower, partition or sale was at issue, look for a court case, and do not read a filing over dower or partition as proof of a family dispute. A guardian's sale of a minor's land worked through a court order, and an 1877 decision held a guardian's sale decree void for lack of notice to the heirs. [S34], [S35] A partition decree had to include and represent minors. [S36] No Illinois authority was found that division or dower assignment always needed the court, so need is established only for guardian sales. The Legal Genealogist's example is one party's allegation in an 1880 McHenry County bill, and the post cites no statute for it. [S37]
+For Illinois land inherited by minors, search for a court order, notice and representation when a guardian sold the land or sought partition. An 1877 decision voided a guardian’s sale decree for lack of notice to the heirs, and the partition decision in *Roodhouse* illustrates the need to represent minor parties [S34], [S35], [S36]. A party’s allegations in an 1880 McHenry County dower bill establish what the party claimed [S37]. Read the decree and applicable law before calling the proceeding mandatory or inferring a family dispute.
 
 Search for a will contest outside the probate series as well as in it. A separate suit over a will may be filed with the non-probate court records of the county where the estate was administered [S45]. Which court heard a contest depends on the place and period: in Tennessee a contested probate could be filed in the chancery or circuit court [S47]; Maryland's 1777 act let the parties in contested cases file in the general court, the chancery court or the county court [S59]; in England and Wales before 1858 disputes could go to the church courts or to secular courts, most often Chancery, and from 1858 went first to the new Court of Probate, though Chancery could still hear them [S46]. Recover a U.S. suit file through [court case files](court-case-file-recovery.md). Read the probate packet even for an intestate estate: it can hold a copy of a will the court refused to probate, which still carries family clues [S45].
 
@@ -387,9 +370,9 @@ queue the proceeding it points to. The
 notice shows only what was published, such as alleged heirs or a scheduled hearing. It does not
 give the will's contents, the court's decision or a complete heir list. [S12]
 
-Search newspapers for the estate even when the packet survives. Neill found newspaper items about estate papers that were never found and that the packet did not mention, and one of them reported that the deceased had been married before and had children with his first wife [S93]. Enter such an item as a dated row with its newspaper locator, and pass any family statement in it to the evidence workflow as a lead.
+Search contemporary newspapers even when the probate packet survives. One report about a missing lockbox of estate papers also mentioned a prior wife and her children [S93]. Record the newspaper item and its date, then look for independent evidence of the marriage and children.
 
-Do not look for probate matters only in court files: The Legal Genealogist reports finding a probate court docket printed in a local newspaper, listing the matters scheduled for a court session and naming the role of the person acting, such as administrator or guardian. The example is one Missouri docket from August 1876, it could not be independently checked, and the post does not say how commonly newspapers printed such dockets. [S38]
+Search the local newspaper near the opening of a probate term for its printed docket. Record the case, the representative’s stated role and the scheduled hearing date, then check the court minutes for the outcome. The *Advertiser Courier* of Hermann, Missouri, 4 August 1876, p. 4, col. 3, is a published locator for a docket naming administrators and guardians [S38].
 
 ## 4. Reconcile retrieval coverage and hand off interpretation
 
