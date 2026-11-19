@@ -33,8 +33,7 @@ still requires enabling FamilySearch support and signing in; H6 still says AutoM
 data and still lists updated people under What's New; H7 still warns that disconnecting cannot be
 undone and names the three ways to reconnect. The RootsMagic 12 help pages for the same seven
 topics carry the same statements. H8, the 2017 FAQ, still places TreeShare under the Internet menu
-with a toolbar icon added on first use. The videos S1 to S6 were not re-read. The recipe needed no
-change.
+with a toolbar icon added on first use. The videos S1 to S6 were not re-read.
 
 ## Credits
 

@@ -99,7 +99,7 @@ the historical control sequence and example probabilities are not carried forwar
 
 ### Sources S1–S11
 
-The recipe cites these as S1–S11. Ancestry's help pages, including Custom Match Clusters,
+Ancestry's help pages, including Custom Match Clusters,
 Matches by Cluster and Understanding Unweighted Shared DNA, refused automated access (HTTP 403)
 on 2026-11-12, so the platform points below rest on the dated community sources named. No
 live Ancestry account was used.

@@ -150,7 +150,7 @@ pricing, model suitability and recognition gains are not verified.
 
 ### Sources S1–S14
 
-The recipe cites these as S1–S14. No live MyHeritage, Transkribus or Google Docs account was
+No live MyHeritage, Transkribus or Google Docs account was
 used.
 
 - **S1:** MyHeritage Help Center, [What is MyHeritage Scribe AI and how do I use it?](https://www.myheritage.com/help/en/articles/13942787-what-is-myheritage-scribe-ai-and-how-do-i-use-it), page dated 2026-04-26, read 2026-11-12. Used for: View Insights on gallery photos and record pages, and a PDF analysed as one unit (typically up to 15 pages; 10 MB limit).

@@ -40,7 +40,7 @@ the additional Q&A was reviewed 2026-10-21.
 
 ### Sources S1–S19
 
-The recipe cites these as S1–S19. MyHeritage help pages showed the date 2026-07-21 when read.
+MyHeritage help pages showed the date 2026-07-21 when read.
 Community posts are cited for their authors' own observations; platform behaviour rests on the
 MyHeritage pages beside them. No live MyHeritage account was used.
 
@@ -124,8 +124,7 @@ their help pages remain dated 21 July 2026. Two further help pages agree with th
 I message a DNA match? (21 July 2026) says contacting DNA matches is free for all DNA users, and
 the WGS upgrade page (edited 18 October 2026) says the raw-file header shows the processing used
 and that earlier kits are not reprocessed. Videos B16, B17, B19 and B20 and practitioner posts
-B18 and B21 support methods or attributed observations and were not rechecked. The recipe text
-needed no change.
+B18 and B21 support methods or attributed observations and were not rechecked.
 
 ## Credits
 

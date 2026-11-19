@@ -59,7 +59,7 @@ the Miriam Weiner Archive locator advice, which rests on entry 13 alone. JewishG
 catalogue lists the Miriam Weiner Routes to Roots Collection: Belarus
 Records as searchable (last updated 2020-05-06), although the Belarus page's database list does not
 show it; JewishGen's pages did not confirm that an entry's details give the archive, fond, opis and
-delo. The recipe text was not changed.
+delo.
 
 ## Sources 19–21
 

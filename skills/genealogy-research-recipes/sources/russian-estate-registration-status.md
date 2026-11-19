@@ -65,7 +65,7 @@
 
 The following were NOT verified: whether the treasury chamber's journals survive for other provinces; the 1890–1916 range of the Tula merchant lists, which comes from S31 alone; the whole contents of GATO f. Р-1905; and whether every sloboda book uses the same column headings.
 
-**Further additions of 2026-11-16.** Searching a redemption inventory by landowner and village, reading the part of the noble book that matches how the family gained nobility, not reading a personal noble's absence against the status, and reading an estate's later revision tales first are authored synthesis. S44, S46 and S50 are Dzen posts by one genealogist; S47 to S49 and S51 are catalogue listings; S45 is an index page of a heraldry site. Not verified: any estate-level revision tale later than 1880, and the inventories of f. 577 for guberniyas other than Kherson.
+Searching a redemption inventory by landowner and village, reading the part of the noble book that matches how the family gained nobility, not reading a personal noble's absence against the status, and reading an estate's later revision tales first are authored synthesis. S44, S46 and S50 are Dzen posts by one genealogist; S47 to S49 and S51 are catalogue listings; S45 is an index page of a heraldry site. Not verified: any estate-level revision tale later than 1880, and the inventories of f. 577 for guberniyas other than Kherson.
 
 ### Sources S52–S53
 

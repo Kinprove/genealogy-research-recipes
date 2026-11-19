@@ -78,7 +78,7 @@ skip people marked willing or unwilling, and the dated tree, matrix, Dimensions 
 tutorials; S10, S15, S29 to S35 and S37 were read on this date. H11 and H6 name the painting button
 Paint a match while S27, posted 2026-10-30, names the form Paint a new match; the recipe keeps its
 label. Practitioner posts that support methods and examples were not re-read beyond those already
-read on this date. No source was unreadable, and the recipe text is unchanged.
+read on this date. No source was unreadable.
 
 ## Credits
 

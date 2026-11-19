@@ -179,8 +179,7 @@ Rechecked 2026-11-16: H3 and H9 were re-read for the overlap flag and the Superk
 listing, and H12–H19 and S26–S30 were opened for the additions to workflows 1 and 2 and the new
 "Compare trees through GEDCOMs" section. No GEDmatch page opened sets the 100,000-SNP overlap
 figure in S26, and none documents a One-to-One SNP-density display or how One-to-One treats
-positions one kit did not test, so the recipe adopts neither. The recipe header's `checked` date
-was not moved.
+positions one kit did not test, so the recipe adopts neither.
 
 ### AncestryDNA transfer and cross-company matching
 

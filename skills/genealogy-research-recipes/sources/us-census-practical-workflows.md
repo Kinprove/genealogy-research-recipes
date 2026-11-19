@@ -347,7 +347,7 @@ not the same name; it shows the merger, not how often a man married two women wi
 name. S147 is one household's 1910 entry; the years come from S148 and S149. S153 is one
 county's transcription, and the tenure codes are taken from its column notes.
 
-S155 and S156 were added on 2026-11-14 after a pull-request review. S155 gives Alaska's
+S155 gives Alaska's
 1 October 1929 date for the 1930 census; other years' territorial dates were not checked.
 S156 is one inheritance-tax opinion on Texas law; the adoption forms of other states and
 periods were not checked.
