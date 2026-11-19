@@ -737,7 +737,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [descendancy-gap-worklist](provenance/descendancy-gap-worklist.yml) | 6 | 12 | 0 | — |
 | [dna-comparison-controls](provenance/dna-comparison-controls.yml) | 29 | 14 | 4 | — |
 | [dna-match-outreach-staging](provenance/dna-match-outreach-staging.yml) | 16 | 12 | 0 | — |
-| [dnapainter-practical-dna-workflows](provenance/dnapainter-practical-dna-workflows.yml) | 29 | 28 | 0 | H2, H3, H4 |
+| [dnapainter-practical-dna-workflows](provenance/dnapainter-practical-dna-workflows.yml) | 27 | 26 | 0 | H2, H3, H4 |
 | [dutch-civil-church-record-recovery](provenance/dutch-civil-church-record-recovery.yml) | 21 | 19 | 1 | — |
 | [early-new-england-town-records](provenance/early-new-england-town-records.yml) | 11 | 6 | 1 | — |
 | [elib-ukrainian-archive-reference-books](provenance/elib-ukrainian-archive-reference-books.yml) | 5 | 6 | 1 | — |
