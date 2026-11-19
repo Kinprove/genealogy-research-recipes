@@ -75,8 +75,7 @@ list size with each worksheet. Estes reports that matches the user has communica
 to, are kept after they would otherwise roll off the list [S7 @2026-11-12], [S31 @2026-11-12]. A
 distant cousin missing from a full list may sit below the cap: record `not in the capped list`,
 not `not tested` or `not related`. One endogamous side can fill the list with distant matches.
-Perl had only 88 maternal matches among 1,500 although both parents had tested
-[S32 @2026-11-12]. Few matches on one side do not show that few relatives on that side tested.
+In Perl’s 1,500-match list, just 88 matched his mother even though both parents had tested [S32 @2026-11-12]. Count that as the maternal representation in the retained list, not a count of maternal relatives who tested.
 
 For a requested visibility pause, check matching participation, existing Connections and the
 actual ancestry/health sharing scope for each managed profile separately. Record the states
@@ -519,8 +518,7 @@ If permission is unclear, keep the coordinates in a local spreadsheet.
    from the colors alone. Official help explains that Ancestry Composition and DNA Relatives
    use different phasing treatments. Check the actual matching evidence separately. [O7]
 
-Inspect population categories before summarizing imported rows. One 2022 DNA Painter example
-found both a broad population and its narrower child population in the same 23andMe export.
+Inspect population categories before summarizing imported rows. One 23andMe export included both Northwestern European and the narrower British & Irish label [S11].
 Keep the original rows and choose a consistent category level for a summary; do not add
 nested labels as if they were independent tracts. Record that filtering choice. [S11]
 
@@ -645,10 +643,7 @@ They do not establish pairwise matching on the same interval or assign every seg
 known relative's branch. Inspect useful matches with recipe 4 and the existing DNA judgment
 recipes, especially in endogamous families.
 
-Expect some bucketed matches that do not fit the branch. Perl found 17 matches in common between
-the lists of two testers who are not related to each other, each list holding more than 10,000
-matches [S10]. Before assigning an unexpected bucketed match to the branch, review its shared
-matches in detail on the testing site [S10].
+Check unexpected bucketed matches individually before assigning a branch. In Perl’s test, his father-in-law and a second cousin had 17 bucketed matches in common across lists of more than 10,000, although he knew of no relationship between the two testers [S10]. Return to the individual shared-match evidence for the proposed branch.
 
 ## Recipe 9: improve a Reconstructed Ancestor through verified tree placements
 
