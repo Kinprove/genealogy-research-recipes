@@ -778,7 +778,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [familysearch-practical-record-workflows](provenance/familysearch-practical-record-workflows.yml) | 101 | 55 | 24 | — |
 | [find-a-grave-memorial-corrections](provenance/find-a-grave-memorial-corrections.yml) | 0 | 0 | 0 | — |
 | [french-belgian-civil-act-extraction](provenance/french-belgian-civil-act-extraction.yml) | 7 | 11 | 0 | — |
-| [french-canadian-register-recovery](provenance/french-canadian-register-recovery.yml) | 7 | 11 | 0 | — |
+| [french-canadian-register-recovery](provenance/french-canadian-register-recovery.yml) | 6 | 8 | 0 | — |
 | [french-departmental-record-routing](provenance/french-departmental-record-routing.yml) | 44 | 29 | 3 | — |
 | [ftdna-practical-dna-workflows](provenance/ftdna-practical-dna-workflows.yml) | 25 | 31 | 7 | — |
 | [ftm-research-workflows](provenance/ftm-research-workflows.yml) | 0 | 0 | 0 | — |

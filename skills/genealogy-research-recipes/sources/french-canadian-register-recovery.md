@@ -8,7 +8,7 @@
   dit-name forms and order, St/Saint searching, reconciliation through baptism, marriage and
   burial, the combined B/M/S register, M-numbering and *défunte* cue, register start dates, the
   presenter's Montréal route for early settlements, Généalogie Québec and PRDH as listed
-  resources, and notarial records arranged by notary with an Ancestry index as the lead.
+  resources, and notarial records arranged by notary with an Ancestry index as the lead. Captured transcript read 2026-11-19.
 - **S2:** BYU Family History Library — Maureen Brady, [Family History Research in Illinois and Wisconsin](https://www.youtube.com/watch?v=kFxsAw8HHAs),
   published 2026-01-30 (session dated 28 January 2026). Used for: the presenter's account of
   circuit priests from Montréal serving sparsely settled posts, after-the-fact recording of
@@ -54,8 +54,8 @@ given parish.
 
 ### Sources S8–S10
 
-- **S8:** Roberta Estes, DNAeXplained, [Honoré Lore or Lord's 1818 Estate Inventory Provides a Window Into His Life](https://dna-explained.com/2024/01/07/honore-lore-or-lords-1818-estate-inventory-provides-a-window-into-his-life/), published 2024-01-07, read 2026-11-12. Used for: the Saint-Luc inventory of September 1818 appraised "aux livres et Sols ancien cours", its transcription's value column (48 sols as 2£ 8s), and the Google Translate renderings of the heading and of livres as pounds.
-- **S9:** Vermont Genealogy Library (VT French-Canadian Genealogical Society), [The Value of French Currency in the 17th & 18th Centuries](https://vtgenlib.org/general/quebecResearchInfo/french_money.php), read 2026-11-12. Used for: 12 deniers to the sol and 20 sols to the livre. The page covers New France and does not discuss the old currency after 1760; that the 1818 act still counted in livres and sols comes from the act itself (S8).
+- **S8:** Roberta Estes, DNAeXplained, [Honoré Lore or Lord's 1818 Estate Inventory Provides a Window Into His Life](https://dna-explained.com/2024/01/07/honore-lore-or-lords-1818-estate-inventory-provides-a-window-into-his-life/), published 2024-01-07, read 2026-11-12. Used for: the Saint-Luc inventory of September 1818 appraised "aux livres et Sols ancien cours", its transcription's value column (48 sols as 2£ 8s), and the Google Translate renderings of the heading and of livres as pounds. Captured article and transcription read 2026-11-19.
+- **S9:** Vermont Genealogy Library (VT French-Canadian Genealogical Society), [The Value of French Currency in the 17th & 18th Centuries](https://vtgenlib.org/general/quebecResearchInfo/french_money.php), read 2026-11-12. Used for: 12 deniers to the sol and 20 sols to the livre. The page covers New France and does not discuss the old currency after 1760; that the 1818 act still counted in livres and sols comes from the act itself (S8). Currency table read 2026-11-19.
 
 - **S10:** Institut Drouin, Genealogy Quebec Blog, [The Drouin Collection](https://blog.genealogiequebec.com/en/article/the-drouin-collection-records), published 2017-10-01 according to its byline, read 2026-11-13. Used for: the Fonds Drouin folder of the Drouin Collection Records holding the civil copy sent to the court office, and the Registres paroissiaux 1621-1876 folder holding the religious copy kept at the church, in different images. It is the publisher's general statement; no parish was checked image by image.
 
