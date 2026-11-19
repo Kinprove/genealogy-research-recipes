@@ -106,8 +106,7 @@ alternate primary. Treat that match as a research target, not a documented branc
 both runs with their seed, supplied cohort/settings and sidekicks actually used, then inspect
 returned members' documentary paths. A lower-sharing seed does not establish an older ancestor.
 
-[Nicole Dyer's 2026 demonstration](https://www.youtube.com/watch?v=1hwGyO2ft4g) shows this
-alternate-primary selection on a previously explored line.
+Dyer tried a different match of interest on a line she had already documented. Keep the primary match, chosen range and any sidekick matches with each run so you can tell what the change produced [B49].
 
 Set a custom cluster's range for the generation of the ancestor you are testing. Family
 Locket's summary of Ancestry's suggestions gives 90–340 cM for great-grandparents (second
@@ -132,8 +131,8 @@ motivates these checks.
 
 Orient SideView's initially anonymous Parent 1/Parent 2 split with known relatives. When a tested biological parent matches you, Ancestry labels the split maternal/paternal automatically.
 
-Orient each kit separately. A sibling's or other relative's Parent 1 can be the opposite side from yours, so record the maternal/paternal mapping for every kit you compare, along with the known relatives that established it. Treat a 'Both sides' assignment as a hypothesis, not evidence of double relatedness, until known relatives, shared matches or mapped segments support it. Leave Unassigned matches unplaced. Check cluster sides against documented relatives as well. The [cluster review](https://www.youtube.com/watch?v=jzcjI59F6YI) found clusters that all came through one parent split across both sides, especially in an endogamous profile. The [sibling comparison](https://www.youtube.com/watch?v=rVndHlIg9-Y) is a 2023 observation from one family.
-When compiling one parent's match list, also review the Both and Unassigned sets. A [both-sides report](https://genarchivist.net/showthread.php?tid=184) found Both-labelled matches excluded from the Maternal and Paternal filters. It also found a documented close relative of a tested parent listed as Unassigned for the child. Record the displayed side label and its origin (provider prediction, user-assigned or unknown; see the label-origin check in [section 6](#6-detect-a-label-that-already-uses-your-shared-match-evidence)) separately from your own side assignment and the evidence for it.
+Orient each kit separately. A sibling's or other relative's Parent 1 can be the opposite side from yours, so record the maternal/paternal mapping for every kit you compare, along with the known relatives that established it. Treat a 'Both sides' assignment as a hypothesis, not evidence of double relatedness, until known relatives, shared matches or mapped segments support it. Leave Unassigned matches unplaced. Check cluster sides against documented relatives as well. A cluster review put matches from one documented parental line on both sides [B43]. A 2023 sibling comparison also illustrates why each kit needs its own Parent 1/Parent 2 mapping [B32].
+When compiling one parent's match list, also review the Both and Unassigned sets. In one family, the maternal and paternal filters each left out matches labelled Both. The child also had an Unassigned match whom the tested parent recognized as a first cousin’s son [B35]. Record the displayed side label and its origin (provider prediction, user-assigned or unknown; see the label-origin check in [section 6](#6-detect-a-label-that-already-uses-your-shared-match-evidence)) separately from your own side assignment and the evidence for it.
 **Output:** a compact comparison table and the next match that distinguishes the competing paths.
 
 ## 3. Search collateral names, not just the ancestral surname
@@ -146,9 +145,9 @@ Surname and birthplace searches require no membership; viewing tree details does
 
 **Privacy gate:** <!-- privacy-gate: contact --> Confirming a tester with a kit manager is contact with a living person about their DNA; answer the privacy gate in `SKILL.md` and stage it through [DNA match outreach staging](dna-match-outreach-staging.md).
 
-Before searching a match's linked tree for the shared line, check that its home person is plausibly the tester. For example, compare the sex shown on the match page (such as the profile colour) with the tree's home person. If they differ, re-anchor on the likely tester, such as a spouse, and record that change before comparing surnames or places. A [tree-anchoring example](https://genarchivist.net/showthread.php?tid=588) found the shared line only after this switch. A corrected anchor is still a tree hypothesis: confirm the tester with the manager and the descent with records.
+Check whom the tree uses as its home person before looking for the tester’s ancestral line. In a reported search it appeared only after the researcher switched from the wife, the tree’s home person, to her husband [B38]. Before adopting the line, confirm the tester with the manager and the descent with records. The home-person setting alone cannot identify the tester.
 
-Treat a settler or diaspora Journey as a lead for a match search, not as evidence that a direct ancestor lived there. A [Journeys discussion](https://genarchivist.net/showthread.php?tid=1212) describes an assignment that came from an emigrant sibling's many descendants. Where the view is available, filter matches by that Journey and trace their trees to the collateral line that connects. Record the Journey's paternal/maternal label with its date, and separately the side of each tree person it lists. In a [later example](https://genarchivist.net/showthread.php?tid=2418) the list split across both parents. Those people come from your own tree, so they do not independently confirm it.
+Treat a settler or diaspora Journey as a lead for a match search, not as evidence that a direct ancestor lived there. One researcher attributed a Tasmania Journey to descendants of an ancestor’s emigrant sibling [B36]. Trace the emigrant’s branch before assigning a residence to the direct ancestor. Where the view is available, filter matches by that Journey and trace their trees to the collateral line that connects. Record the Journey's paternal/maternal label with its date, and separately the side of each tree person it lists. One Journey’s displayed tree people came from both parents’ sides [B33]. Those people come from your own tree, so they do not independently confirm it.
 **Output:** specific matches and people to trace back to the candidate couple.
 
 ## 4. Put the branch code first; make the dots readable
@@ -230,7 +229,7 @@ Only after that privacy decision, for an unresolved ancestral path:
 3. Allow up to 48 hours after each change. Save newly surfaced candidates, their cM, proposed descents and the hypothesis that generated them.
 4. Repeat for another hypothesis, then restore the original link.
 
-Bartlett (2023-07-08) reported **31 new ThruLines candidates** after changing a speculative lineage. Independently document candidates' descents, check the recorded cM against the relationship-range reference, and compare those sourced placements under the competing hypotheses. Mark paths supplied only by the research tree “tree-generated.”
+Bartlett’s speculative tree change produced 31 new ThruLines candidates sharing 6–30 cM [B22]. Keep the tree change and the resulting candidates together so none is counted as independent evidence for the change. Independently document candidates' descents, check the recorded cM against the relationship-range reference, and compare those sourced placements under the competing hypotheses. Mark paths supplied only by the research tree “tree-generated.”
 
 **Privacy gate:** <!-- privacy-gate: contact --> Writing to a match for records, photos and stories is contact with a living person; answer the privacy gate in `SKILL.md` and stage it through [DNA match outreach staging](dna-match-outreach-staging.md).
 
@@ -249,17 +248,12 @@ you descend. Southard's [2020 worked example](https://www.youtube.com/watch?v=em
 shows why the headline count can be misleading. Document each proposed link before
 promoting it.
 
-Treat a ThruLines “half” relationship as a reading of the trees, not of the DNA. A
-[JewishGen endogamy talk](https://www.youtube.com/watch?v=xaa5FcbZYb8) reports half labels that
-arose because a contributing tree recorded only one parent of the ancestral couple. Before
+Treat a ThruLines “half” relationship as a reading of the trees. A JewishGen presentation traced such labels to a contributing tree that recorded only one parent [B52]. Before
 recording a half relationship or a second partner, check whether your tree and the trees on the
 path record both spouses of the common couple. Resolve the couple from records and keep the half
 and full alternatives open.
 
-Do not read the children ThruLines shows under an ancestor as the whole family. It shows only
-children through whom a tested descendant's linked tree, yours or a match's, descends: in one
-2022 example it listed five children of a third-great-grandfather for whom the researcher had
-found eleven [S3 @2026-11-12], [S4 @2026-11-12]. Build the
+For a proposed ancestor, compare the ThruLines child list with the children named in records. In a 2022 comparison it displayed five children of a third-great-grandfather although the researcher had documented eleven. The display followed paths in participating testers’ linked trees [S3 @2026-11-12], [S4 @2026-11-12]. Build the
 sibling set from records, and treat the missing children's lines as places to look for
 untested descendants when choosing a tester (see
 [unknown-parentage-wato.md](unknown-parentage-wato.md)).
@@ -315,7 +309,7 @@ and removed the smaller ones at the end of August 2020, apart from matches the u
 messaged, given a note, starred or put in a group [S7 @2026-11-12], [S8 @2026-11-12]. Its absence neither confirms nor
 disproves the relationship.
 
-Do not read a documented relative's blank cluster cell or missing shared-list row as sharing below the displayed floor. The [threshold examples](https://genarchivist.net/showthread.php?tid=1693) and a [Timber-threshold discussion](https://genarchivist.net/showthread.php?tid=137) report pairs dropping out once the weighted amount fell below the floor, one with about 51 cM unweighted. Where you manage one kit of the pair, open the direct comparison and record weighted and unweighted totals, segments, longest segment, kit and date; a longest segment larger than the weighted total signals reduction. A shared-view 'unweighted' line can repeat the weighted figure, as in the [shared-view label report](https://genarchivist.net/showthread.php?tid=1272), and two kits of one person can differ, so record each kit separately.
+Do not read a documented relative's blank cluster cell or missing shared-list row as sharing below the displayed floor. Forum participants observed known relatives absent from thresholded displays and reported cases in which Timber reduced the sharing used for a threshold [B37], [B40]. In one pair, 51 cM before adjustment became 19 cM afterward, below a 20 cM shared-list floor [B40]. Where you manage one kit of the pair, open the direct comparison and record weighted and unweighted totals, segments, longest segment, kit and date; a longest segment larger than the weighted total signals reduction. A shared-view 'unweighted' line can repeat the weighted figure, as reported in one comparison [B39], and two kits of one person can differ, so record each kit separately.
 If an extension-modified browser view hides a known row or saved group, compare the same
 authorized account, kit and filters in an available unmodified view. Retain the observed
 row/group differences before concluding removal or a failed save; reappearance does not
