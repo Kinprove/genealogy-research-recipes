@@ -779,7 +779,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [find-a-grave-memorial-corrections](provenance/find-a-grave-memorial-corrections.yml) | 0 | 0 | 0 | — |
 | [french-belgian-civil-act-extraction](provenance/french-belgian-civil-act-extraction.yml) | 7 | 11 | 0 | — |
 | [french-canadian-register-recovery](provenance/french-canadian-register-recovery.yml) | 7 | 11 | 0 | — |
-| [french-departmental-record-routing](provenance/french-departmental-record-routing.yml) | 45 | 30 | 3 | — |
+| [french-departmental-record-routing](provenance/french-departmental-record-routing.yml) | 44 | 29 | 3 | — |
 | [ftdna-practical-dna-workflows](provenance/ftdna-practical-dna-workflows.yml) | 25 | 31 | 7 | — |
 | [ftm-research-workflows](provenance/ftm-research-workflows.yml) | 0 | 0 | 0 | — |
 | [galicia-bukovina-habsburg-record-routing](provenance/galicia-bukovina-habsburg-record-routing.yml) | 50 | 11 | 1 | — |
