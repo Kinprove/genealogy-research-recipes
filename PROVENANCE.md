@@ -238,7 +238,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `ftm-research-workflows#C-2c9d5e8b14a6` | platform-ui | 2026-11-16 | 2027-05-15 | S2, S9 |
 | `ftm-research-workflows#C-e3f60a7b9c21` | platform-ui | 2026-11-16 | 2027-05-15 | S10, S11, S12, S9 |
 | `ftm-research-workflows#C-4d81b2c7e5f0` | platform-ui | 2026-11-16 | 2027-05-15 | S4, S5 |
-| `ftm-research-workflows#C-91a7e4d3b6c8` | platform-ui | 2026-11-16 | 2027-05-15 | S4, S3, S5, S13, S11 |
+| `ftm-research-workflows#C-91a7e4d3b6c8` | platform-ui | 2026-11-19 | 2027-05-18 | S4, S3, S5, S13, S11 |
 | `ftm-research-workflows#C-5f2b8c1d9e07` | platform-ui | 2026-11-16 | 2027-05-15 | S14, S15 |
 | `ftm-research-workflows#C-a6c3d9e2f418` | platform-ui | 2026-11-16 | 2027-05-15 | S7, S8 |
 | `ftm-research-workflows#C-0e7d4a5b3c92` | platform-ui | 2026-11-16 | 2027-05-15 | S16, S17, S18, S19 |
