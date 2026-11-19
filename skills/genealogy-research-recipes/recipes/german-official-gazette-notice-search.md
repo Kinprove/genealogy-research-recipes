@@ -41,80 +41,61 @@ Other notice types and steps belong to other recipes. District-gazette notices o
 
 Choose the class before you search. Do not use the gazette as a general name index.
 
-- **Officials, clergy, teachers, foresters, postal staff, elected councillors.** Search the personnel notices in the Regierung's *Amtsblatt*. One Königsberg run gives these entry types [S2]:
-  - a parish conferred, and a vicar leaving
-  - transfers and promotions of government councillors
-  - a preacher appointed
-  - councillors elected for a term (one for six years, another unpaid)
-  - a half-year summary of transfers within the Oberpostdirektion
-  - a forester pensioned
-  - a teacher-seminary exam passed, with home place and age
-  - two women declared qualified for governess posts and for teaching above elementary level
-
-  Women appear too, so do not limit the search to men.
-- **Bavarian Palatinate teachers.** Search the *Amts- und Intelligenzblatt* under the title in use that year. A participant cited these titles [S4]:
-  - *Amts- und Intelligenzblatt des Königlich Bayerischen Rheinkreises* for 1837
-  - *Königlich bayerisches Amts- und Intelligenzblatt für die Pfalz*, Speyer, for 1850 and 1853
-
-  The German union catalogue of serials (ZDB) records three successive titles for this gazette, all printed in Speyer: *Amts- und Intelligenzblatt des Königlich Bayerischen Rheinkreises* for 1831–1837, *Königlich bayerisches Amts- und Intelligenzblatt für die Pfalz* for 1838–1853, and *Königlich-bayerisches Kreis-Amtsblatt der Pfalz* for 1854–1918 [S6]. Search each year under the title of that year. For a year before 1831, look up the title in the ZDB first. A participant gave this gazette and a Bavarian newspaper as the sources for one Jewish teacher's appointments and transfers [S4].
-- **Russian-Empire and other foreign subjects in Imperial Germany.** Search the expulsion lists. The examples run from 1894 to 1901 and cover subjects born in Courland and Livonia [S1].
-- **Émigrés of the 1930s–40s.** Search the *Reichsanzeiger* expatriation lists. Do not limit the search to the emigration years: search every list date from the person's departure onward, not only one. In [S3], a man who had lived in Berlin until about 1933 has a *Deutscher Reichsanzeiger* line of 22.06.1938, and so do his wife and their son. The participant who cited those lines also dated another couple's loss of citizenship 02.10.1940, but named no source for it. Do not treat that date as a confirmed list date.
+- **Officials, clergy, teachers, foresters, postal staff and elected councillors.** Search the Regierung’s *Amtsblatt* for appointments, departures, transfers, promotions, pensions, election terms, examinations and qualifications. Include half-yearly postal transfers and teaching qualifications for women. A Königsberg extract names two women qualified for teaching posts, which gives a dated lead even without an appointment [S2].
+- **Bavarian Palatinate teachers.** Match the year to the Speyer series: *Amts- und Intelligenzblatt des Königlich Bayerischen Rheinkreises* (1831–1837), *Königlich bayerisches Amts- und Intelligenzblatt für die Pfalz* (1838–1853), or *Königlich-bayerisches Kreis-Amtsblatt der Pfalz* (1854–1918). Issues 1–7 of 1838 carry a variant title [S6]. Use the Bavarian State Library’s issue calendar for digitised holdings [S7]. For an earlier year, identify the title in the ZDB. Compare the gazette with the regional press for appointments and transfers [S4].
+- **Foreign subjects in Imperial Germany.** Search for *Ausweisung von Ausländern aus dem Reichsgebiete*. Trier transcriptions for 1894, 1900 and 1901 include Russian subjects born in Courland and Livonia [S1]. Use these years as starting points and establish coverage for the years you need.
+- **Émigrés of the 1930s–40s.** Search the *Reichsanzeiger* expatriation lists for each family member from departure onward. A Berlin family’s reported entries appeared in June 1938, years after the reported departure [S3]. The Mannheim issue calendar identifies 22 June 1938 as issue 142 [S8]. Verify names and dates on the notice itself.
 
 ## 2. Search year by year and know what you are reading
 
 - **Work through the gazette one year at a time.** Where a volunteer or a publication offers per-year extracts, ask for every year of the person's working life.
-- **Record which names and spellings were searched.** In one thread a participant searched a Königsberg *Amtsblatt* run only for the two surnames the requester asked about, and reported hits from 1814 to 1868 [S2]. An extract like that is only as wide as the names searched. A "no entry" result does not cover spellings nobody searched.
-- **Expect spelling drift within one person's run.** The same set of extracts includes a spelling with an extra vowel among the regular hits. It also shows the prefix *v.* on some entries and not on others [S2]. Search the variants on purpose, and do not merge them until step 7.
-- **Treat a forum extract as a secondary transcription.** Each row should cite the gazette title, the year, and the page or issue if you have it. Open the printed notice before you rely on any field. A participant's summary can leave fields out: in [S3] one wife's 1938 line is summarised with no residence. Mark such a field *not transcribed*, not *absent*.
+- **Log the names, spellings and years actually covered.** A Königsberg reply gives extracts for Wegner and Krutein from 1814 to 1868 [S2]. A gap in those extracts cannot establish a negative search of the whole run.
+- **Search spelling and prefix variants.** The Königsberg extracts include *Wegner*, *Wegener* and *v. Wegner* [S2]. Search all forms and test each candidate by title, place and date.
+- **Record the transcription level.** Cite the gazette title, year, issue and page where available. A 1938 summary supplies an address for a father and son but omits it for the wife [S3]. Mark her residence *not transcribed* until you inspect the printed entry.
 
 ## 3. Transcribe each notice into separate fields
 
 Copy each field literally. Never fill one field from another.
 
 - **Issuing authority.** Record it as printed. Examples are the Royal Prussian Regierungspräsident in Potsdam or Königsberg, or the Imperial Bezirkspräsident in Straßburg [S1].
-- **Date and its label.** In the 1894 expulsion entries the date is labelled *Datum des Ausweisungsbeschlusses*, the date of the expulsion decision. The 1900–1901 extracts give a bare date with no label [S1]. By analogy with 1894 it is probably the decision date. Still, record it as *date, role unstated (probably decision)* until you have seen the printed notice.
+- **Date and its label.** Transcribe *Datum des Ausweisungsbeschlusses* as the date of the expulsion decision. The 1894 extracts carry that label, while extracts from 1900–1901 give dates without it [S1]. Keep the role of a bare date open until you inspect the notice or column heading.
 - **Name.** Record name forms separately.
-  - A 1900 entry for a seamstress gives a surname, then the birth sign (rendered *\** in the transcription), then a second surname [S1]. Record the second surname as a separate birth-surname field.
-  - In the 1940 entry the added names *(Sara)* and *(Israel)* appear in parentheses. The 1938 lines, which concern a different household, show none [S3]. Keep them as printed in their own field. They are not birth names, so do not search birth records under them.
-- **Occupation or title.** Record it literally: house servant, labourer, ship's stoker, pedlar, or a former minister (*a. D.*) and envoy [S1], [S3]. In the seminary-exam notice, the candidate is listed under the heading *Litthauer* [S2]. Keep that ethnic or language label as printed. Do not treat it as a birthplace.
+  - Keep a second surname and its identifying mark as printed. In the posted seamstress entry an asterisk occurs both before a second surname and before the birth date [S1]. Check what each mark introduces in the original before assigning a birth surname.
+  - Record parenthetical added names such as *(Sara)* and *(Israel)* separately and search for variants with and without them [S3]. Verify birth names in the birth record.
+- **Occupation, title and headings.** Preserve the wording, including *a. D.* for a former office holder [S1], [S3]. A seminary-exam extract puts the candidate under *Litthauer* but gives Pokraken near Tilsit as his home place [S2]. Transcribe the heading and home place separately; neither supplies a recorded birthplace.
 - **Birth date, or age.**
-  - Some expulsion entries give an age instead of a date, such as 65 years in 1894 [S1].
-  - The seminary-exam notice gives the home place and an age, 22½ years at Michaelmas 1843, not a birth date [S2].
+  - Keep the age with its reference date. An expulsion extract gives 65 years at the 1894 decision [S1]; an exam extract gives 22½ at Michaelmas 1843 [S2]. Derive a range at the precision of the recorded age.
   - Turn an age into a birth-year range. A candidate whose birth year falls outside that range ranks lower but is never excluded.
 - **Birthplace.** Record the town, governorate and country as printed.
-- **Registration community (*ortsangehörig*) or citizenship.** This is a separate field and often differs from the birthplace. Resolve what *ebendaselbst* ("in the same place") refers to before you copy it [S1]:
-  - **When it follows a named community, it repeats the region and country.** In the 1894 entry "born at Durben, Russia (Courland), *ortsangehörig zu Hasenpoth, ebendaselbst*", it repeats "Russia (Courland)". Record registration community = Hasenpoth, Courland, which is a different town from the birthplace.
-  - **When it stands alone, it points back to the birthplace.** In the 1901 entry "born at Mitau, Gouvernement Kurland, Russia, *ortsangehörig ebendaselbst*", record registration community = Mitau.
+- **Registration community (*ortsangehörig*) or citizenship.** Read the grammatical antecedent of *ebendaselbst* (“in the same place”) before copying a town. In the 1894 extract, Durben is the birthplace and Hasenpoth the named registration community; in the 1901 Mitau extract, *ortsangehörig ebendaselbst* refers back to Mitau [S1].
   - **When an entry states only citizenship** (*russischer Staatsangehöriger*), record the registration community as *not stated*. Do not fill it with the birthplace.
 - **Last residence (*letzter Wohnsitz*).** Expatriation lists give it. Record the house number as printed [S3].
 
 ## 4. Do not read the gazette's place as residence, or a decision as a departure
 
-- **The gazette that printed a notice is not the issuing district.** The *Amtsblatt der Königlichen Regierung zu Trier* printed expulsion decisions from Potsdam, Königsberg and Straßburg [S1]. So the expulsion lists were printed well outside the issuing district, and even outside the issuing state. Record the gazette (Trier, year) and the issuing authority as separate fields. Neither one shows that the person lived in the Trier district. For a foreign subject, use any Regierung *Amtsblatt* run you can reach for the right years, with Trier as one known run. Do not wait for the run of the district where you think the person lived.
-- **A personnel notice can concern another district.** A Königsberg *Amtsblatt* reports a councillor transferred to Gumbinnen and later promoted to Oberregierungsrat in Marienwerder [S2]. Record the posting the notice names, not the gazette's seat.
-- **An expulsion decision is only a decision.** The notices give a date and nothing more: labelled as the decision date in 1894, bare in 1900–1901 [S1]. Record *expulsion ordered*, with the date and its role as transcribed in step 3. Do not record a departure, a border crossing or an emigration date. Look in other record classes for whether the person was still present afterwards.
-- **A last residence is a past address.** It is not an emigration date or a place of departure. In [S3], the telephone books for 1925/26 to 1931/32 put the household at Schaperstr. 24, but the 1938 list gives Schaperstr. 21 as the last residence. Keep both numbers as conflicting observations, and do not silently correct either one.
+- **Separate the publishing gazette, the issuing authority and the residence.** Trier’s gazette reportedly printed expulsions ordered in Potsdam, Königsberg and Straßburg [S1]. Search another district’s surviving gazette when the local run is missing, then verify that it carried notices for the year and authority in question.
+- **Use the posting printed in a personnel notice.** A Königsberg extract records a transfer to Gumbinnen [S2]. Search the named posting and use the office, name and dates to test the next link.
+- **Record the administrative act.** Enter *expulsion ordered* when the notice says so and preserve the date label [S1]. Look for later residence, border or passenger records to establish whether and when the person left.
+- **Keep conflicting house numbers.** A Berlin family’s reported telephone-book address was Schaperstr. 24 and the reported 1938 last residence was Schaperstr. 21 [S3]. Check both originals and their dates before inferring a move.
 
 ## 5. Expatriation lists: one row per person per list date
 
-- **Give every listed family member a row with their own list date.** In [S3], a man, his wife and their son each have their own line of 22.06.1938. A separate entry of 02.10.1940 covers a woman and her husband. The participant wrote out the wife's part in full. The husband's part reads *Dasselbe für ihren Ehemann* ("the same for her husband"), followed by his given name, his added name and his titles. The act, the date and the last residence are written once, with her part. Find his own entry and transcribe it. Until then, mark his date and last residence *not transcribed*. Do not copy her fields into his row.
+- **Give every family member a separate row and a source for each populated field.** The 2 October 1940 account uses *Dasselbe für ihren Ehemann* (“the same for her husband”) and gives his names and titles, but cites no issue [S3]. Search the original for both spouses; leave his address and the publication date unverified until the notice identifies them.
 - **Do not assume relatives share one list.** Search each person separately across every list date. Record each list you searched that gave no hit.
 
 ## 6. Personnel notices: chain postings across years and titles
 
 - **Build one dated chain per *candidate*.** Link appointments, exam results, transfers, elections and retirements, and have each link cite its own gazette and year [S2], [S4].
-- **Then check the regional staff lists the participants cited** [S4]:
-  - the 1870 *Beamtenverzeichnis und Statistik des Königlich Bayerischen Regierungsbezirkes der Pfalz* (Speyer), which a participant reported on Bavarica
-  - a list of Israelite teachers in the Palatinate for 1830–1840, arranged by rabbinate district. It is by the Bezirksrabbiner in Landau, was printed in the *Israelitische Annalen*, and a participant reported it on Google Books.
-- **Tie each date to the source that gives it.** In [S4], a participant's career summary gives one teacher a provisional appointment in Rockenhausen on 28.10.1834. It lists its sources together at the end: a newspaper of 10.10.1834 and the gazette for 1837, 1850 and 1853. It does not say which source gives which date. The 1830–1840 list in the same thread gives the Rockenhausen post as 28 October 1837. Record both dates, each with its source. Treat the summary's dates as unassigned to any one of its cited sources until those notices are opened.
+- **Cross-check regional staff lists.** For Palatinate teachers, look up the 1870 *Beamtenverzeichnis und Statistik des Königlich Bayerischen Regierungsbezirkes der Pfalz* (Speyer) on Bavarica and Grünebaum’s *Das israelitische Schulwesen in der Pfalz* in the *Israelitische Annalen*, arranged by rabbinate district [S4].
+- **Tie an appointment date to its own notice.** A summary dates Moses Eigner’s provisional Rockenhausen appointment to 28 October 1834 but lists its sources together; a transcription of Grünebaum’s list gives 28 October 1837 for M. Eigner [S4]. Search both years and compare the full name, office and action before deciding which dates refer to the appointment.
 - **Treat initials-only list entries as candidates.** Entries with one initial and a surname rank lower. Confirm them through a notice that gives the full name.
-- **Split same-name people before chaining.** One surname run often holds several people with the same name. In [S2] they included clergy, government councillors, assessors, a forester, a landowner and a merchant elected councillor, and a postal secretary. The requester still had to place them. Split them by title, place and date before you chain anything.
+- **Separate same-name candidates before chaining posts.** Use title, place and date: a Königsberg surname run includes a forester, a postal secretary and elected councillors [S2]. A shared surname cannot connect their postings.
 
 ## 7. Keep identity open and choose the next search
 
-- **Mark every row *candidate*** until the title, occupation or address matches another source. In [S3], one participant put a man's address-book and telephone-book entries and his 1938 list entry into one dated chronology. The requester's restitution-file search for his name returned three hits. The same participant called one of them probably the wrong man, without saying why. That hit gave Magdeburg as the last residence, while the 1938 list gave Schaperstr. 21.
+- **Match each candidate against independent identifiers before joining rows.** An Otto Landsberg restitution-file hit gives Magdeburg while the transcribed 1938 notice gives a Berlin street address [S3]. Compare the dates, occupation and full addresses before accepting or dismissing the hit.
 - **Use the fields to target the next search:**
-  - **Last residence:** the address book of that town for the years before the list. In [S3], a participant answered a Schneidemühl last residence, in an entry of 02.10.1940, with a link to the 1931 Schneidemühl address book, but reported no result from it.
+  - **Last residence:** search the town’s address books for the years before the notice. A link to the 1931 Schneidemühl directory supplied a lead but no reported lookup result [S3]. Open the volume and record the entry or the search coverage.
   - **Registration community:** the registration records of that community, not those of the birthplace [S1].
   - **Posting, or home place in an exam notice:** the parish or civil registers of that place [S2].
 
@@ -128,7 +109,7 @@ Return one row per person per notice, with these fields:
 
 - gazette title and year (page or issue if known)
 - issuing authority
-- date and its stated role (decision, publication, or unstated/probably decision)
+- date and its stated role (decision, publication, or unstated)
 - name as printed, birth surname, parenthetical added name
 - occupation or title
 - birth date or age, with the computed range
