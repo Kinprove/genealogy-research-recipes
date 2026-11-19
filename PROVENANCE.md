@@ -762,7 +762,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [family-collection-intake-and-capture](provenance/family-collection-intake-and-capture.yml) | 25 | 17 | 0 | — |
 | [family-interviews-and-oral-tradition](provenance/family-interviews-and-oral-tradition.yml) | 26 | 11 | 0 | — |
 | [family-papers-and-bible-register-dating](provenance/family-papers-and-bible-register-dating.yml) | 41 | 5 | 0 | — |
-| [family-photograph-attribution-and-dating](provenance/family-photograph-attribution-and-dating.yml) | 60 | 13 | 0 | — |
+| [family-photograph-attribution-and-dating](provenance/family-photograph-attribution-and-dating.yml) | 42 | 8 | 0 | — |
 | [familysearch-practical-record-workflows](provenance/familysearch-practical-record-workflows.yml) | 101 | 55 | 24 | — |
 | [find-a-grave-memorial-corrections](provenance/find-a-grave-memorial-corrections.yml) | 0 | 0 | 0 | — |
 | [french-belgian-civil-act-extraction](provenance/french-belgian-civil-act-extraction.yml) | 7 | 11 | 0 | — |
