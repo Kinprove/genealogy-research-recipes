@@ -78,9 +78,13 @@ The routing row, request log, series-status vocabulary, conflict list and lead t
 
 - **S56:** [FamilySearch, Utah territorial district court case index, 1870–1896](https://www.familysearch.org/en/search/collection/1854318). Official page read 2026-11-19. The index covers 2,593 files and cites M1401 and Fold3. The description establishes index coverage, not the contents of any named person’s file.
 
+- **S57:** [New York State Archives, Sing Sing Prison B0145 name index and series description](https://www.archives.nysed.gov/research/name-index-by-series/B0145). Official page read 2026-11-19. Describes the 1939–1963 electrocution case files, their scope and record types.
+
+- **S58:** [National Archives, Prison Records at the National Archives](https://www.archives.gov/research/prisons). Official page read 2026-11-19. Distinguishes the indexes, photographs and series guides available for different federal prisons. A linked collection can cover only part of a prison’s operation.
+
 ## Credits
 
-- New York and Utah archives, National Archives, Federal Bureau of Prisons, Ancestry and FamilySearch (S47–S56) — Catalogue and index metadata paraphrased with attribution (adapted)
+- New York and Utah archives, National Archives, Federal Bureau of Prisons, Ancestry and FamilySearch (S47–S58) — Catalogue and index metadata paraphrased with attribution (adapted)
 - GenealCymru, Homelessness in Victorian Britain (2023-04-27), cited as S8 — Cited and paraphrased for historical record leads; the narrated case and excluded census/legal claims are not reproduced as findings (adapted)
 - BYU Family History Library, James Tanner, What if Your Ancestor Ended Up in Jail? (2023) — Short quotation for attribution; rights remain with the source (quoted)
 - Genealogy Gems, Episode 45 - Prison stories & research (2016), listener letter — Short quotation for attribution; rights remain with the source (quoted)
