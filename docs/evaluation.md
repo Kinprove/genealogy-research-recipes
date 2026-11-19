@@ -98,8 +98,12 @@ against a local copy only after its skill hash and selected case contracts match
 ## Results
 
 Each report covers only the skill bytes and harness it names; a later recipe change is not
-covered until a new run. The most recent is the
-[2026-11-18 privacy-gate record report](../reports/issue-385-privacy-gate-record-reuse.md): the
+covered until a new run. The
+[notes-confirmation report](../reports/issue-391-notes-confirmation.md) records all nine
+focused samples passing on `424a3f0`. The full suite passed 16/17 cases as run and 17/17
+after re-judging the same three outreach answers. The release 1.22.0 baseline passed 9/10.
+The
+[2026-11-18 privacy-gate record report](../reports/issue-385-privacy-gate-record-reuse.md) found that the
 `gate-record-reuse` and `gate-record-new-destination` cases pass 3/3 on `b235c0e`, and the full
 suite passes 15/16 cases as run; re-judging one invalid `match-outreach` judge verdict without
 new answers makes it 16/16. The release 1.22.0 baseline passed 9/10. Its
