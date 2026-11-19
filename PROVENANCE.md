@@ -892,7 +892,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [school-university-record-recovery](provenance/school-university-record-recovery.yml) | 7 | 2 | 0 | — |
 | [scottish-high-court-precognitions-trial-papers](provenance/scottish-high-court-precognitions-trial-papers.yml) | 0 | 0 | 0 | — |
 | [scottish-parish-statutory-record-recovery](provenance/scottish-parish-statutory-record-recovery.yml) | 37 | 11 | 1 | — |
-| [source-citation](provenance/source-citation.yml) | 16 | 11 | 11 | — |
+| [source-citation](provenance/source-citation.yml) | 9 | 6 | 6 | — |
 | [southern-claims-commission-case-files](provenance/southern-claims-commission-case-files.yml) | 0 | 0 | 0 | — |
 | [soviet-personal-file-recovery](provenance/soviet-personal-file-recovery.yml) | 7 | 5 | 2 | — |
 | [spanish-civil-parish-record-routing](provenance/spanish-civil-parish-record-routing.yml) | 29 | 9 | 2 | — |
