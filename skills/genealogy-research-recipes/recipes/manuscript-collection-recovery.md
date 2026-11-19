@@ -135,7 +135,7 @@ Read the finding aid’s creator, scope and acquisition fields before assigning 
 
 Compare each repository’s description of the actual materials. Utah’s *Mormon Settlement in Arizona* collection describes Tanner’s material as including photocopies and transcriptions. A presenter also reported consulting copies at Northern Arizona University [S69], [S15]. Record the holder, reference, extent and whether the particular diary or letter is an original, copy or transcript. Two collections bearing the same name can differ.
 
-Track custody through the receiving archive’s own notice. NARA Boston identifies the Railroad Retirement Board inactive claims folders transferred from Atlanta as about 54,000 cubic feet, Storages 8–20. Atlanta’s notice describes the move of Storages 8–15 and routes future requests to Boston [S35 @2026-11-19], [S36 @2026-11-19]. Cite the specific storage and claim reference when known. Volume alone gives neither a headcount nor evidence that a name is indexed [S20 @2026-11-19], [S22 @2026-11-19].
+Track custody through the receiving archive’s own notice. The Railroad Retirement Board inactive claims folders moved from Atlanta to Boston. NARA Boston identifies about 54,000 cubic feet of these folders (Storages 8–20) [S35 @2026-11-19]. Atlanta’s transfer notice says Storages 8–15 were unavailable there from April 2026 and directs future requests to Boston [S36 @2026-11-19]. Cite the specific storage and claim reference when known. Volume alone gives neither a headcount nor evidence that a name is indexed [S20 @2026-11-19], [S22 @2026-11-19].
 
 Exclude a collection only when its dates or material types cannot hold the target, and write down the reason. A matching surname, county or hometown is a lead. It is not evidence of kinship.
 
