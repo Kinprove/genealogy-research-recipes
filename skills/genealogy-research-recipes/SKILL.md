@@ -178,6 +178,10 @@ For DNA data, also apply the consent and redaction rules in
 
 ### Reusing a gate record
 
+Before responding to a repeat request involving DNA data and an AI service, read
+[AI for DNA research](recipes/ai-for-dna-research.md) in full to check its consent and
+redaction rules. Do this even when the only reply needed is a confirmation question.
+
 For a record from project notes, the destination's settings, terms and controls count as
 unchanged only when the user confirms all three. If the record otherwise covers this step
 and that confirmation is missing, ask in one line whether all three are still as recorded.
