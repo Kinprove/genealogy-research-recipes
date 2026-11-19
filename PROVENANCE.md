@@ -864,7 +864,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [state-archives-county-records-guides](provenance/state-archives-county-records-guides.yml) | 0 | 0 | 0 | — |
 | [state-legislative-private-act-petitions](provenance/state-legislative-private-act-petitions.yml) | 7 | 11 | 0 | — |
 | [surname-distribution-locality-leads](provenance/surname-distribution-locality-leads.yml) | 18 | 18 | 0 | — |
-| [swedish-military-record-routing](provenance/swedish-military-record-routing.yml) | 21 | 10 | 2 | — |
+| [swedish-military-record-routing](provenance/swedish-military-record-routing.yml) | 3 | 5 | 2 | — |
 | [tax-roll-observation-workflow](provenance/tax-roll-observation-workflow.yml) | 25 | 18 | 0 | — |
 | [uk-census-and-1939-register-interpretation](provenance/uk-census-and-1939-register-interpretation.yml) | 15 | 10 | 1 | — |
 | [unknown-parentage-wato](provenance/unknown-parentage-wato.yml) | 48 | 22 | 22 | — |
