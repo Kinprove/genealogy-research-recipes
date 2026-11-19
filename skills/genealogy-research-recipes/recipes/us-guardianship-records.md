@@ -47,7 +47,7 @@ Start a guardianship row for each ward and each appointment. Record as separate 
 
 **Minor or adult.** Read who petitioned, what authority they invoked and what the court ordered before deriving anything about the ward’s age. Williams describes relatives or friends petitioning about an adult’s management of his affairs [S6]. In Wayne County, Michigan Territory, the town’s overseers of the poor petitioned in 1835 because they feared having to support the ward, whom the court later designated a spendthrift [S4]. Separate the petitioners’ allegations from the court’s finding and handle an allegation of incapacity as sensitive [S1].
 
-**Estate or person.** Copy which powers the court granted. An appointment to manage a minor’s property could coexist with a surviving parent caring for the child [S2], [S3], [S7]. Establish where the child lived through a household record or a guardian’s account naming someone paid for board. Check the payee and period before using a schooling or maintenance payment as evidence of residence [S9].
+**Estate or person.** Copy which powers the court granted. An appointment to manage a minor’s property could coexist with a surviving parent caring for the child [S2], [S3], [S7]. Establish where the child lived through a household record or a guardian’s account naming someone paid for board. Check the payee and period before using a schooling or maintenance payment as evidence of residence [S9]. Do not place a minor ward in the guardian's household unless a record says the child lived there.
 
 ## 2. Read "orphan", the reason and the date as the record's own terms
 
@@ -83,7 +83,7 @@ When a child is missing from a parent's will or from a census, search the guardi
 
 Look up the rule for the court that appointed the guardian. For the 1868 Blair County case, Russell identifies the minor’s county of residence as the appointing jurisdiction and suggests searching nearby probate indexes for an accounting where the property lay [S5]. Search both counties if they differ. An appointment under a residence rule dates evidence of residence and leaves the date of any move open [S1].
 
-Log a negative search with the court, series, index and years. Even a child with property could go without a formal guardian until a transaction required one [S2], [S6]. Extend the search to the sale or distribution of the property. For a child without an estate, also check household, apprenticeship and binding-out records [S7], [S1].
+Log a negative search with the court, series, index and years. Even a child with property could go without a formal guardian until a transaction required one [S2], [S6]. Extend the search to the sale or distribution of the property. For a child without an estate, also check household, apprenticeship and binding-out records [S7], [S1]. A failed guardianship search is not evidence that the child did not exist or that the father was alive.
 
 ## 6. Collect the whole file and follow the property
 
