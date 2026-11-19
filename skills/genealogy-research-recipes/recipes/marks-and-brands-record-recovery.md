@@ -6,7 +6,7 @@ kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "MARKS-AND-BRANDS-RECORD-RECOVERY-01", "text": "Read the index headings and arrangement before searching by the owner's surname. A design initial can be the filing key: the teaching example finds an owner under the letter beginning the brand, rather than the owner's surname."}]
+guardrails: [{"id": "MARKS-AND-BRANDS-RECORD-RECOVERY-01", "text": "Read the index headings before searching by the owner’s surname."}]
 handoff: []
 checked: null
 checked_basis: null
