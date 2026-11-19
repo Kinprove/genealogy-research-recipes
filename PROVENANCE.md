@@ -831,7 +831,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [italian-stato-civile-parish-record-recovery](provenance/italian-stato-civile-parish-record-recovery.yml) | 1 | 1 | 1 | — |
 | [japanese-koseki-honseki-recovery](provenance/japanese-koseki-honseki-recovery.yml) | 19 | 10 | 1 | — |
 | [jewish-archival-list-triage](provenance/jewish-archival-list-triage.yml) | 7 | 5 | 5 | — |
-| [jewish-genealogy-conditional-hypotheses](provenance/jewish-genealogy-conditional-hypotheses.yml) | 14 | 15 | 2 | — |
+| [jewish-genealogy-conditional-hypotheses](provenance/jewish-genealogy-conditional-hypotheses.yml) | 8 | 11 | 1 | — |
 | [jewishgen-search-family-reconstruction](provenance/jewishgen-search-family-reconstruction.yml) | 16 | 24 | 24 | — |
 | [land-index-book-series-recovery](provenance/land-index-book-series-recovery.yml) | 17 | 25 | 3 | — |
 | [lithuanian-jewish-household-registers](provenance/lithuanian-jewish-household-registers.yml) | 0 | 0 | 0 | — |
