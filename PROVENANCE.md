@@ -833,7 +833,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [russian-estate-registration-status](provenance/russian-estate-registration-status.yml) | 16 | 13 | 0 | — |
 | [russian-household-list-transcription-audit](provenance/russian-household-list-transcription-audit.yml) | 0 | 0 | 0 | — |
 | [russian-imperial-service-record-recovery](provenance/russian-imperial-service-record-recovery.yml) | 25 | 10 | 1 | — |
-| [russian-military-repression-record-episodes](provenance/russian-military-repression-record-episodes.yml) | 61 | 29 | 13 | — |
+| [russian-military-repression-record-episodes](provenance/russian-military-repression-record-episodes.yml) | 53 | 25 | 9 | — |
 | [russian-orthodox-confession-list-reading](provenance/russian-orthodox-confession-list-reading.yml) | 0 | 0 | 0 | — |
 | [russian-orthodox-metrical-book-recovery](provenance/russian-orthodox-metrical-book-recovery.yml) | 20 | 10 | 2 | — |
 | [russian-revision-list-household-chaining](provenance/russian-revision-list-household-chaining.yml) | 14 | 8 | 0 | — |
