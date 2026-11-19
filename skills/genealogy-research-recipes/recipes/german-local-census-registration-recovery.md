@@ -52,7 +52,7 @@ Do not claim that German nominal census lists are lost or rare.
 - **Coverage:** Censuses were taken across the German states throughout 1816–1916. The presenter, who surveyed the topic state by state over several years, found censuses in all 38 states of the period. [S1] Many states counted every three years from 1834 under the customs union (Zollverein), whose population counts set each state's share of customs revenue. [S1] Regular imperial censuses followed in 1871, 1875 and every five years to 1910. [S1] For wartime years, establish the actual local enumeration and surviving list from its catalogue or original form; the prewar cycle alone does not establish wartime coverage.
 - **Content:** Heads-only lists and lists naming every inhabitant coexist; no single date separates them. Until about the 1840s most lists name only the head of household, with household members counted by gender, status, occupation or religion. Heads-only series continued much later, though: Mecklenburg-Schwerin took a heads-of-household census every year from 1828 to 1868, and Schaumburg's surviving lists for 1836–67 are heads of household. Meanwhile an 1819 Mecklenburg list already gives every person's full name and birth date. Lists that name every inhabitant may give age, birth date or birthplace. Identify the format from the state, the year and the actual form before reading anything into a missing spouse or child. [S1]
 - **Location:** Most surviving lists are in city and town archives: about 85% by the presenter's estimate, about 10% in regional archives, and very few in state or national archives. Start local. [S1], [S2]
-- **Limits:** Indexes are very rare. The presenter knows only of a partial index for the 1852 Hanover census. Images exist on microfilm and online only patchily, with no system to their availability. [S1] Indexes do exist for Schleswig, Holstein, Lauenburg and Mecklenburg-Schwerin; see step 3 of "Write locally, in order". [S9] The presenter has never seen a filled-out original of the 1875 individual forms, so do not promise that layer. [S2]
+- **Limits:** Indexes are very rare. The presenter knows only of a partial index for the 1852 Hanover census. Images exist on microfilm and online only patchily, with no system to their availability. [S1] Indexes do exist for Schleswig, Holstein, Lauenburg and Mecklenburg-Schwerin; see step 3 of "Write locally, in order". [S9] For 1875, distinguish the individual enumeration slip from a blank form or an aggregate table. The lecturer reports that he had not seen a completed original slip. Check which layer survives for the town [S2].
 
 ## Pin the town and county first
 
@@ -73,9 +73,9 @@ In German finding aids, use the German terms. The official word for census is *V
 The "census" heading is not enough, for two reasons:
 
 - House-census forms used in most states between 1840 and 1864 carried a "house list" title and have very often been miscatalogued. [S2]
-- A researcher on the presenter's project found about 100 FamilySearch census items by using ten catalogue descriptions. Searching "census" alone would have found a few dozen. [S1]
+- Search the catalogue under the equivalent headings above, then record which headings and places produced nominal pages. A search confined to «census» missed items catalogued under other descriptions in the presenter’s FamilySearch survey [S1].
 
-In archives that had nothing under "census", the same other headings turned up enumerations. On three occasions the presenter showed staff census records they did not know they held. [S1] A missing catalogue category is therefore not a negative result. Record each heading searched and each heading not available.
+Check older finding aids and filmed material when staff report no census. In one search a loose sheet led the archive director to a microfiche cabinet holding the records [S1]. Record the heading and format checked, including any unavailable guide.
 
 ## Write locally, in order
 
@@ -93,15 +93,15 @@ In each letter:
 - Name the family and, where known, a census year for that state. [S2]
 - Ask about census and registration records in the same request. [S3]
 - Ask for copies of the actual enumeration or registration pages. [S2]
-- State in writing that you will pay the standard fees. Government archives have fee schedules. [S1], [S3] The presenter calls fees usually nominal; one example he gives is about 50 documents for 37 dollars. Do not quote that as a current rate. [S3]
+- State in writing that you will pay the standard fees. Government archives have fee schedules. [S1], [S3] Ask for the archive’s fee schedule or an estimate for your own request, recording the charge separately from the number of pages [S3].
 
 **Privacy gate:** <!-- privacy-gate: request --> A request for younger registration records sends the user's proof of kinship or ID copy and concerns people who may be living; answer the privacy gate in `SKILL.md` first.
 
-**Privacy restriction:** By the presenter's account, registration records are transferred to the city archive after about 100 years and are open there. Younger records are released only if you show descent, for example with a family tree and a death certificate. [S3] The binding protection periods (*Schutzfristen*) and the terms of use by third parties are set by the state's archive law (*Archivgesetz*). [S4] Look up that law for the archive you are writing to. For records still inside the protection period, enclose with your first request the proof that law or the archive's use rules require; requirements differ (some archives asked for proof of kinship, others accepted a copy of an ID). [S4] A true loss can happen: one town told the presenter it had not kept its registration records. [S3]
+**Privacy restriction:** Establish which office holds the registration records and which law or access rules it applies. Report the date range, transfer and release conditions for that place. For records still inside the protection period, enclose with your first request the proof that law or the archive’s rules require, such as evidence of kinship where requested [S4]. The lecturer reports that one town had not kept its registration records [S3]. Distinguish a retention gap from a refusal to release an existing file.
 
 **Privacy gate:** <!-- privacy-gate: request --> A district registration card names the person's partner, children and parents, who may be living; answer the privacy gate in `SKILL.md` before requesting it.
 
-**District registration cards (former GDR, 20th century):** If the person's last residence was in the former GDR and the family documents were lost, ask the responsible county archive (Kreisarchiv) for the person's card in the GDR-era district registration file (*Kreismeldekartei*). A forum researcher received copies of these cards from several Kreisarchive. They named the partner, children and parents, plus birthplace and birth date, which the researcher had not known before. [S4] Release terms differ by archive: some asked for proof of kinship, some accepted a copy of an ID, and one released only names and birth dates, citing data protection. Another participant's advice: if your request is covered by the state's archive law, ask for the legal basis of a refusal under that law. [S4] Ask each district whether its cards survive before you build a plan on them. Treat each name, date and place on a card as a lead to the matching civil register entry, not as proof.
+**District registration cards (former GDR, 20th century):** If the person’s last residence was in the former GDR, ask the responsible county archive (Kreisarchiv) for the person's card in the GDR-era district registration file (*Kreismeldekartei*). Dahme-Spreewald describes cards for the former districts of Königs Wusterhausen, Luckau and Lübben, approximately 1949–1990, filed alphabetically. The police also kept address-based indexes [S12 @2026-11-19]. Ask about the person’s district and year. Compare the card’s birthplace, birth date and any relatives it names with the corresponding civil registers. One district released only names and birth dates for a card that the researcher expected to include family members [S4 @2026-11-19]. If a request is restricted, ask which rule applies and which fields can be supplied.
 
 **Port cities:** For an emigrant who stayed months in a port city before sailing, also try that port city's registration records. [S3]
 
@@ -117,11 +117,11 @@ Log each reply as one of the following statuses:
 - not preserved;
 - pages supplied.
 
-State archives told the presenter that their state never had a census, or that they held only the counts. His survey contradicted both answers. [S1] Keep statistical summaries (counts by gender or district) in a separate row from nominal pages, and never cite a summary as an enumeration of the family. [S2] "No census here" ends that route only. Follow it with the other headings and the next archive.
+A state archive’s reply that it holds only counts describes its own holdings. Nominal pages can be filed locally under another heading [S1]. Log statistical totals separately from lists naming people, then check the municipal holdings and their catalogue descriptions [S2]. "No census here" ends that route only. Follow it with the other headings and the next archive.
 
 ## Read registration place roles separately
 
-A registration entry can record the birthplace, the previous residence if different, and the next destination in separate columns. Some entries show family members born in three different places. [S3] For each person, transcribe these three place roles as separate fields. Never collapse them into a single "origin".
+A registration entry can record the birthplace, the previous residence if different, and the next destination in separate columns. A registration sheet gave the father, mother and child three different birthplaces [S3]. For each person, transcribe these three place roles as separate fields. Never collapse them into a single "origin".
 
 When a destination record names an origin town and searches of baptism, confirmation, marriage and civil records there all fail, check whether that town was the last residence rather than the birthplace:
 
@@ -129,9 +129,9 @@ When a destination record names an origin town and searches of baptism, confirma
 2. Read the "came from" place.
 3. Search church and civil records in that place.
 
-**Worked example (from the presenter):** A St. Louis marriage named Speyer. The three main Speyer churches had no entry, and neither did the civil records there (kept since the 1790s on the left bank of the Rhine; Reich-wide civil registration began only in 1876). An 1839 newcomer entry, filmed by the Genealogical Society of Utah in 1960, showed that he came from Rohrbach. The birth was then found at Rohrbach. [S3]
+A St. Louis marriage named Speyer, where searches of three churches and the civil records failed. The reported 1839 newcomer entry in Speyer named Rohrbach as the previous residence, and a subsequent search found the birth there [S3]. Use the arrival entry to choose the next locality and the birth entry to establish birthplace.
 
-**Follow a departure entry forward.** When a registration entry records a departure to a named place (*abgemeldet nach X*), search that place's records. Also check its local or district address book (*Adressbuch*) for the following years yourself, even when the archives there report no entries. In one thread, a city archive showed a man deregistering to a village in 1947. Three local archives and the state archive then reported nothing further. A forum participant nevertheless found him in the 1950 district address book covering that village. [S5] An address-book line places the named person there in that edition's year. A gap between surviving editions is a coverage gap; it establishes no move or death interval.
+**Follow a departure entry forward.** When a registration entry records a departure to a named place (*abgemeldet nach X*), search that place's records. Also check its local or district address book (*Adressbuch*) for the following years yourself, even when the archives there report no entries. A 1947 deregistration from Hannover named Haste. After three local archives and the state archive reported no further trace, the 1950 *Grafschaft Schaumburg* address book listed the name in Haste [S5]. An address-book line places the named person there in that edition's year. A gap between surviving editions is a coverage gap; it establishes no move or death interval.
 
 An inferred birthplace stays a hypothesis until a church or civil entry in that place confirms it. Route the identity ruling to the proof recipe.
 
@@ -139,11 +139,7 @@ An inferred birthplace stays a hypothesis until a church or civil entry in that 
 
 ### A Bavarian settlement or marriage-permission lead
 
-When local marriage and parish records leave an origin unresolved, check the dated
-settlement or permission administration as a separate record family. The Landshut
-presentation describes this route in its discussion of patrimonial administration in
-1808–1848, using a finder and an *Ansässigmachung* file with personal papers [S6].
-That setting is a historical finding lead, not a rule for every Bavarian town or period.
+When marriage and parish records leave an origin unresolved, search the responsible court’s finder for settlement or marriage permission. The Landshut lecture describes an *Ansässigmachung* file with personal papers in its discussion of Bavarian patrimonial administration in 1808–1848 [S6]. Confirm which court held jurisdiction over the settlement on the relevant date.
 
 1. Use the supported residence, person and period to identify the responsible settlement
    office in the actual holdings description, including a patrimonial court where the
@@ -163,10 +159,7 @@ That setting is a historical finding lead, not a rule for every Bavarian town or
 
 ### An occupation on a residential sheet leads to a trade file
 
-Use the actual occupation wording and dates from an inspected residential sheet as
-search keys, rather than treating its occupation list as a complete work history.
-The Augsburg presentation follows a *Meldebogen* to a *Gewerbekartei* card naming an
-additional trade and then to a separate *Gewerbeamt* permission file [S7].
+Transcribe the occupation and dates from the *Meldebogen*. In the Augsburg lecture, the *Gewerbekartei* added a trade missing from the residential sheet and supplied a route into a separate *Gewerbeamt* permission file [S7]. Search for the card, then for the permission to practise that trade.
 
 1. Search the responsible archive's trade-card or trade-registration finder for the
    supported person and period. Compare its identifiers with the residential entry;
@@ -184,8 +177,7 @@ additional trade and then to a separate *Gewerbeamt* permission file [S7].
    Seek a municipal personnel file only when a separate evidenced employment link
    supplies the municipal office or post and period. Use those details to select its
    personnel-file description. Private employment or a residence occupation alone
-   does not establish municipal employment. The source's separate personnel-file
-   example is not a promise that every resident has one [S7].
+   does not establish municipal employment. Check the town’s staff records for the independently documented post [S7].
 
 Return the linked entry, finder/card and separate file, with each locator, received
 extent and attributed place or work statement. Leave unsupported employment links,
