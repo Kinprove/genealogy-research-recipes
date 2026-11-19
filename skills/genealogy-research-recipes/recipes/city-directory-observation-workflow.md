@@ -125,8 +125,7 @@ repository's copy of that same volume supplies another access route, not another
    lookup exists, and the entries print addresses, a finite pass through the relevant
    locality section or volume in its actual arrangement can recover literal
    street/house-number matches. Add each match to the existing observation table
-   and record the inspected range; Gegner-Sünkler describes this approach for the
-   1812 Bremen directory. [S22]
+   and record the inspected range. A page-by-page search of the 1812 Bremen directory found two occupants at house no. 16, leaving the servant’s employer unresolved [S22].
 
 2. Copy the entry as printed, including initials, spouse wording, occupation and address when
    present. Preserve uncertain readings. Keep any normalized name in a separate column.
@@ -134,15 +133,11 @@ repository's copy of that same volume supplies another access route, not another
    records beneath it, and add the correct edition year to every imported row.
 4. Compare imported fields with the image. Information printed next to a name can be a locality
    or post office rather than another given name; retain the correction and the original index value.
-   Check the image for ditto marks. An index can merge two co-listed people into one row. Make a
-   separate row for each person on the image, expand a ditto only to the line it refers to, and
-   keep the merged index value as the original value. The
-   [MyHeritage example](https://www.youtube.com/watch?v=RRz2QHR4DmE) does not show how ditto
-   conventions differ between publishers.
+   Check the source image for ditto marks before splitting an indexed name. One index combined two people whose names the directory printed separately [S11]. Create one observation per printed person, expand the ditto only from its referenced line and retain the original index row for comparison.
 
-   In a 1913 Russian trade directory entry, an address such as 'Александровск., д.' followed by a surname in the genitive is probably a street name plus 'house of' an owner, not a town and a village. Record the street, the house owner and the listed firm holder or occupant in separate fields; the owner need not be the occupant. Check the edition's abbreviation key before expanding 'д.'. A [directory-address discussion](https://forum.j-roots.info/viewtopic.php?f=15&t=64) offers this reading as probable. It does not quote the key or show how the owner relates to the occupant.
+   In a 1913 trade listing for a Kremenchug hotel, readers interpreted «Александровск., д. Соловья» as a street and a house owner, although the first reader had taken it for a town and village [S15]. Transcribe the address literally, check the edition’s key for «д.» and keep the proposed owner separate from the hotel operator until the expansion is verified.
 
-   When working from a volunteer transcription or extract rather than the volume, record which printed fields it left out, such as street, district, establishment type or owner-versus-lessee wording, and any sort order the transcriber added. Mark the omitted fields unknown, not absent, and take them from the edition before interpreting anyone's role. A [transcribed address-book discussion](https://forum.ahnenforschung.net/forum/thread/2552/) describes such a field-limited extract. It does not show the original pages or check the extract's accuracy.
+   Record the fields and arrangement of a volunteer extract before searching it. A German directory transcriber kept just place, name and establishment and added an alphabetical surname sort [S18]. Return to the edition for the street, district, type of establishment and owner or lessee where printed. A field omitted from an extract stays unknown.
 5. Check the first and last imported entries, remove repeated headers or interface text, and
    confirm that each row still has its year and locator. Manual extraction uses the same schema.
    [S1, S3]
@@ -184,26 +179,20 @@ each printed address or an exact move date. Keep an unstated time basis unknown.
    relevant street and nearby entries. Record those observations separately.
 6. Create a question for each change or competing group, with the row IDs that caused it.
    A recurring name, occupation or address is a comparison clue, not an automatic merge. [S1, S2]
-   Test the opposite error too: one person can appear as two rows. A married woman may be listed
-   under her husband's entry and again on her own line with her occupation, employer and another
-   address, sometimes spelled differently. If she later appears under a new surname, a continuing
-   occupation can suggest the link. Record both rows as a proposed same-person question with
-   their row IDs. Confirm the link with a marriage or other record, because a common occupation
-   alone is weak. The [presenter's Marion example](https://www.youtube.com/watch?v=d39IOclm3wU)
-   motivates this check without showing how often such double listings occur.
+   Search the married woman’s own surname entry as well as her husband’s listing. Compare spellings, home and work addresses, occupation and employer across both entries. In a 1968 directory, Marion’s separate entry gave her occupation and workplace in Alexandria; the continuing occupation later suggested a remarriage [S10]. Record both row IDs and seek a marriage or other independent record before joining the names.
 
-   A business run under one initial across many editions may cover more than one holder, such as a husband and then his widow continuing the trade. Before assigning the run to one person, check the death dates of possible holders and split the run at any death as a question. A death record giving another occupation does not by itself rule out the match. A [business-run discussion](https://forum.ahnenforschung.net/forum/thread/3014463/) proposes this reading as a hypothesis. It did not compare the initial and full given name edition by edition.
+   If a business continues under one initial after a possible owner’s death, compare each edition’s name and occupation with the death and marriage records. Berlin researchers proposed that B. Fliegner could refer first to Bernhard, then to his widow Bertha in the egg trade [S16]. Keep the succession open until the dated entries support it. A different occupation on a death record merits a check against other identifiers.
 
-   Follow a person through a change of surname by what stays the same. A woman who married several times could stay in the same home, so search the later editions by her address as well as her names, and record a run of different surnames at that address as a proposed same-person question with its row IDs [S44], [S45]. Confirm each link with a marriage or other record before merging the rows.
+   After a reported remarriage, search later editions by the earlier street address as well as by both surnames [S44], [S45]. Link the row IDs as a candidate sequence and use a marriage or other independent record to distinguish a surname change from a new occupant.
 
-   When a Russian or Soviet city directory shows same-named entries at one address with different occupations, do not merge or split them on the directory alone. When contact is authorized, request the house books (домовые книги) for that building and period, which register residents individually. Treat a professional directory, such as a medical one, as a separate series whose first listing can differ from the general directory's. A [house-book discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) and a [directory-and-house-book example](https://forum.j-roots.info/viewtopic.php?f=9&t=4132) motivate this. They do not establish survival outside one city or current access rules.
+   For same-named people with different occupations at one historical Russian or Soviet address, locate the surviving house book (домовая книга) for that building and period. Its resident entries can help distinguish the people [S12], [S19]. If an authorized request is necessary, identify the volume by historical building and year. Compare the general and professional directories separately because their first listings may differ.
 7. For a located former-resident entry with a reported later locality, use that place for
    one bounded follow-up, such as a later directory or a relevant civil-register search there.
    Keep it as a source-attributed lead; it does not establish a move at the edition date. [S4]
 
-   Before treating a person's disappearance from the main list as a dead end, read the entries in the editions around it for a destination printed in place of a street address, such as 'removed to' or 'moved to' and a place, sometimes abbreviated: an 1891 Seattle entry reads 'removed to S F, Cal.' Copy the note as printed and use the place for one bounded follow-up, such as that city's directory for the same and next years. A same-name hit there is a candidate, not a match, and the edition year is not the date of the move. [S29], [S30]
+   Look for a departure note in place of a street address before closing a search. The 1891 Seattle directory printed ‘removed to S F, Cal.’ for James S. Adams [S30]. Preserve the wording, then check San Francisco’s directory for that and the following year [S29]. A same-name hit remains a candidate, and the edition dates the listing only.
 
-   In a former-resident list, also read the other rows under the target's former house number. Their later addresses are leads to where the household went, not evidence of a tie; in a large city a shared address can be coincidence. Copy 'über' or 'üb.' places as printed. They name the delivering post office, not the residence. Confirm the place in that locality's own directory before searching there, and check the supplement, where a later entry may give another form. An [expellee address-book discussion](https://forum.ahnenforschung.net/forum/thread/3014348/) shows both checks. It does not establish the co-resident link.
+   In a former-resident list, inspect other entries at the former house number for leads to later addresses. In a 1950 directory the entry ‘Post Raden über Haste’ distinguished Raden from the delivering post office [S17]. Copy ‘über’ or ‘üb.’ literally, check the destination locality’s own directory and supplement, and use a separate record to establish any household relationship.
 8. Copy 'widow', 'wid of' or a printed death note exactly, as the status reported in that
    edition. When a man's run of entries ends and his wife next appears as his widow, rule out
    same-name men and record both row IDs as a death-interval clue. Propose a death-search window
@@ -215,15 +204,7 @@ each printed address or an exact move date. Keep an unstated time basis unknown.
    divorces-granted lists as separate observations. They are leads to the death or court record,
    bounded only by the stated period. A printed death date is the directory's statement and
    should be checked against the death or obituary record; widow labels and death or divorce
-   lists only bound or suggest a death and do not prove one. See the
-   [widow-interval](https://www.youtube.com/watch?v=JY9qiuftib4),
-   [frequency](https://www.youtube.com/watch?v=VDsZBiAxlzg),
-   [paper-widow](https://www.youtube.com/watch?v=dck2TkjsKso),
-   [listener](https://www.youtube.com/watch?v=EsfciqHqnBE),
-   [delay](https://www.youtube.com/watch?v=d39IOclm3wU),
-   [printed-date](https://www.youtube.com/watch?v=iTdSalYI6a4),
-   [death-list](https://www.youtube.com/watch?v=9Lz5OLRv8E0) and
-   [divorce-list](https://www.youtube.com/watch?v=9XPYpWcaU1o) examples.
+   lists only bound or suggest a death and do not prove one [S10], [S50], [S51], [S52], [S53], [S54], [S55], [S56].
 
 **Artifact:** The observation table, saved sort/filter criteria, provisional groups and a
 worklist such as “retrieve a record linking observations D07 and D12.”
@@ -233,10 +214,7 @@ provisional until the records support that person's identity.
 
 For a supported same-block or building question, retain each literal building and unit number,
 including fractional addresses. Compare dated street/reverse entries and stable-neighbor
-context before choosing between a move, unit conversion, renumbering or an erroneous entry.
-Keep the proposed correspondence provisional until supported; do not silently correct numbers.
-The [old-home address example](https://dna-explained.com/2023/04/09/finding-the-old-home-place-with-zillow-52-ancestors-394/)
-motivates the comparison without proving occupancy, identity, a conveyance or renumbering.
+context before choosing between a move, unit conversion, renumbering or error. At 530 and 530½ W. Sycamore, a researcher reported a former two-unit house later restored to a single residence [S23]. Keep both literal numbers and record the evidence for any proposed correspondence.
 
 Before treating the present building at that address as the historical dwelling, compare its
 construction date with the record date and retain the construction-date source. An unverified
@@ -247,10 +225,7 @@ neither occupancy nor that today's appearance is unchanged. [S21]
 
 If an inspected auxiliary section labels a land-register reference, preserve its heading,
 locality, street/house wording and land number separately. Carry the stated reference into
-the [land-index/book-series workflow](land-index-book-series-recovery.md); house, parcel and
-land-register numbers are different roles. [CompGen's directory example](https://www.compgen.de/2023/02/adressbuch-mit-unerwartetem-inhalt-entdeckt/)
-identifies such a section, but its missing illustrated table does not establish fields in
-another volume or prove ownership.
+the [land-index/book-series workflow](land-index-book-series-recovery.md). A directory’s Grundbuchnummer can point to a land-register entry [S24]. Copy it separately from the house or parcel number and check the land record for ownership.
 
 If a marriage record names an officiant without identifying a congregation, check an available
 directory near the event's date for a clergy listing. Preserve the printed name, denomination
@@ -285,10 +260,7 @@ When an entry names the employer, look the firm up in the same edition: in the b
 **Check:** A gap in a database's editions and an absent entry on inspected pages are different
 results. Neither alone establishes why the person is missing.
 
-A directory listing household heads does not make an unlisted household member absent from the
-household or locality. CompGen's address-book example also distinguishes a woman's
-marital-status wording from an occupation; retain the printed role without inferring employment
-from it. [S20]
+Check whom the directory intended to list before using a household member’s absence. For a listed woman, transcribe `Witwe` as widow and record an occupation only when the entry supplies one for her [S20]. A household-head list can omit other residents.
 
 If a census shows a recently widowed person living alone and a later directory lists them as a
 lodging housekeeper, record in the gap table the hypothesis that they took in boarders during
