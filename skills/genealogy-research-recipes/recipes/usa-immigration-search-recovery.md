@@ -70,10 +70,7 @@ Treat the ship and arrival date on an AR-2 as the registrant's own statement, no
 locator. Record them as an attributed journey claim, and confirm that the named ship made that
 voyage and that the person appears on its manifest before treating it as an established journey.
 If the claim conflicts with a manifest already found, record the conflict rather than inventing a
-second trip. The
-[Annie's Ghosts example](https://www.youtube.com/watch?v=9OkR0D6bDyg) motivates this check: the
-registrant named a voyage that never took place. It does not establish how often such answers
-are wrong.
+second trip. One AR-2 gave 4 July 1910 for a New York arrival; the named ship made no such voyage, while the passenger had been found on a manifest for 20 June 1907 [N13].
 
 When an immigrant-community church admission or transfer entry names a previous parish,
 retain that literal field, date and locator as a separate journey clue. It may identify a
@@ -163,9 +160,7 @@ check the Russian, German, Italian or New York Irish Famine series in NARA's
 [electronic-records guide](https://www.archives.gov/research/genealogy/electronic-records).
 [N102 @2026-11-18] Reuse the manifest ID to match the passenger and vessel files and
 retrieve the original by ship, port and date. Series labels do not restrict every
-passenger to the named nationality. [N103 @2026-11-18] The account
-from the available excerpt of *Just Genealogy* describes finding all four
-series. [N101 @2026-11-18]
+passenger to the named nationality [N103 @2026-11-18]. The account from the available excerpt identifies all four series [N101 @2026-11-18].
 
 For a Chinese traveler under the exclusion laws, a passenger-list search is not the only arrival
 route. Check the exclusion registers kept at the port of entry for the recorded status category
@@ -386,12 +381,10 @@ points to the label in her advice from the available excerpt. [N91] [N97]
 A clerk may have filled a column such as nationality or residence once and drawn a ditto line
 down the page. When a filter on an attribute you know is correct returns nothing, rerun the
 search without it. Read a dittoed value as the page's default, not as that passenger's own
-statement. In the [Journey Takers example](https://www.youtube.com/watch?v=nto6GVn0CLk), a German
-family was recorded under the Swedish entry at the top of their page. Also do not assume a
+statement. A New York page carried “Sweden” down from the first entry, hiding a German family from a German-nationality search [N22]. Also do not assume a
 family appears together on one list. Follow annotations that point to another page and line. In
 later periods, search the same voyage's U.S.-citizen list for a naturalized relative who may
-have gone back to bring them over. The
-[Lisa Lisson interview](https://www.youtube.com/watch?v=4d43ZFUIzbs) states this as a pattern.
+have gone back to bring them over [N23].
 When separate citizen lists existed depends on the period and port, and neither source shows how
 widespread these practices were.
 
@@ -583,18 +576,9 @@ Keep it as the applicant's nationality statement and a separate parent/origin
 lead, including an unfamiliar name form. Compare the parent's dated records
 before choosing an origin jurisdiction. Do not replace the stated allegiance
 with the present-day country of the petitioner's birthplace, or infer inherited
-citizenship from a parent's birthplace. The Complicated Naturalizations article
-reports such a clause; its original court paper and legal interpretation remain
-unverified.[35]
+citizenship from a parent’s birthplace. One reported petition named a Danish sovereign and called the applicant’s father his “alien parent” [N35]. The article gives no precise locator for the original court paper.
 
-Check the reverse case too. A U.S.-born married woman recorded as alien in a census may have
-lost citizenship through her marriage; the entry is not necessarily an enumeration error. Check
-the rule for her marriage date, then search naturalization records in her own name for a later
-repatriation oath or application. Once a man's naturalization after 1922 is found, inspect the
-entries next to it in the same series for a separate filing by his wife or another relative.
-Compare their stated facts as separate observations. The
-[naturalization introduction](https://www.youtube.com/watch?v=2K4FYUhoNbc) motivates both
-checks, each from one family. A related filing is not guaranteed to sit next to his.
+Check how the citizenship rules in force on the marriage date applied to each spouse [N45]. A 1910 marriage appears on a Minnesota-born woman’s later oath application, helping explain the alien designation in her census entry [N25]. Search her own name. After 1922, check adjacent filings in the same series for a separate petition by the spouse or another relative, then verify each filing’s own date and identity [N25].
 
 ### 11. Route federal records by type and actual custody
 
@@ -662,14 +646,11 @@ catalog miss leaves custody unresolved.
 alien-registration request names an immigrant who may be living, and the files can name family
 members; answer the privacy gate in `SKILL.md` before sending any of them.
 
-Do not use the immigration visa number printed on an arrival manifest as the file locator for a
-visa file. These files are reportedly not arranged by that number. Request a USCIS index search
-for the arrival first to get the file number, then make a separate records request. Expect the file to hold papers needed for entry, such as birth and good-conduct certificates, recent residences and a photograph.
-Do not expect evidence of life after arrival unless a naturalization application or other official
-attention followed. The
-[visa-file discussion](https://forum.ahnenforschung.net/forum/thread/185403/)
-paraphrases USCIS guidance, but the search it reports came back empty. Verify current USCIS
-instructions and any NARA custody.
+Keep the visa number printed on the manifest separate from the INS Visa File number. INS assigned its own number and indexed by name, birth date and birthplace [N105]. If the file number is unknown and USCIS holds the series, request a USCIS index search for the arrival first to get the file number, then make a separate records request.
+
+Check the current custodian and whether the visa papers were placed in a later A-File or C-File [N106 @2026-11-19].
+
+For the entry itself, look for supporting vital records, certificates, addresses and photographs. One forum search using a manifest visa-number lead ended without a result [N28]. Record where the search stopped; it does not establish that a file never existed.
 
 Alien registration was not only the 1940 AR-2. For WWI enemy-alien registrations and state-run
 registrations, ask both the state archives and the NARA regional facility with jurisdiction over
