@@ -868,7 +868,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [rabbinic-literature-person-search](provenance/rabbinic-literature-person-search.yml) | 19 | 1 | 1 | — |
 | [repository-photograph-collection-search](provenance/repository-photograph-collection-search.yml) | 35 | 19 | 0 | — |
 | [research-documentation](provenance/research-documentation.yml) | 35 | 31 | 31 | — |
-| [rootsmagic-tree-reconciliation-workflow](provenance/rootsmagic-tree-reconciliation-workflow.yml) | 14 | 9 | 2 | — |
+| [rootsmagic-tree-reconciliation-workflow](provenance/rootsmagic-tree-reconciliation-workflow.yml) | 12 | 8 | 2 | — |
 | [russian-empire-emigrant-origin-recovery](provenance/russian-empire-emigrant-origin-recovery.yml) | 28 | 24 | 10 | — |
 | [russian-empire-jewish-identity-attribution](provenance/russian-empire-jewish-identity-attribution.yml) | 6 | 4 | 4 | — |
 | [russian-empire-jewish-metrical-book-recovery](provenance/russian-empire-jewish-metrical-book-recovery.yml) | 0 | 4 | 0 | — |
