@@ -2322,6 +2322,12 @@
   "checkpoint": "Morning reports and unit rosters name the men of a unit"
  },
  {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "contact",
+  "action": "Ask the veterans’ association which repositories hold diaries or photographs",
+  "checkpoint": "Asking a veterans’ association about a unit can disclose a living veteran’s service"
+ },
+ {
   "recipe": "us-federal-court-case-file-recovery.md",
   "kind": "request",
   "action": "Ask Philadelphia for the index first, then request the case file from Kansas City",
