@@ -38,7 +38,7 @@ The name-form register, the candidate comparison table, the bounded-browse repor
 
 No individual identity or kinship conclusion from the examples is adopted.
 
-### Additional sources checked 2026-11-16
+### Sources S28–S36
 
 - **S28:** Price Genealogy, [Tracing Icelandic Roots](https://www.pricegen.com/tracing-icelandic-roots/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
 
@@ -53,8 +53,6 @@ No individual identity or kinship conclusion from the examples is adopted.
 - **S33:** FamilySearch Wiki, [Iceland Church Records](https://www.familysearch.org/en/wiki/Iceland_Church_Records). Passage read 2026-11-16. Used for: Decrees of 1735 and 1746, earliest surviving records from 1664, and most surviving series beginning about 1750–1780. Read during preparation before later403 responses; no individual parish coverage inferred.
 
 - **S34:** Becky Byerly-Adams, Icelandic Roots, [In Search of the Lost Children](https://www.icelandicroots.com/post/in-search-of-the-lost-children). Passage read 2026-11-16, read again 2026-11-17. Used for: Worked example citing a 1906 Heimskringla memorial and a settlement history serialised in Lögberg-Heimskringla in 1969–1970. The newspaper originals were not independently inspected.
-
-### Additional sources checked 2026-11-18
 
 - **S35:** MyHeritage Blog, [Exploring the Diverse Origins of Middle Names: From Tradition to Trend](https://blog.myheritage.com/2024/10/exploring-the-diverse-origins-of-middle-names-from-tradition-to-trend/), published 2024-10-08. Read the Icelandic naming passage on 2026-11-18. Community source for the illustrative link from Jónsson to Jón.
 

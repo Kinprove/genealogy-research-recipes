@@ -33,7 +33,7 @@
 - whether a particular film is nitrate or acetate; the recipe gives no identification test and leaves that to a specialist
 - the copyright status of any particular item; [S22] and [S23] state U.S. rules, and other countries differ
 
-### Sources added 2026-11-16
+### Sources S24–S30
 
 - **S24:** История одной семьи. Юлия Новожилова (Dzen channel), [«Как сберечь бабушкины фото?»](https://dzen.ru/a/Xd12K7ur3worrwwG), 29 November 2019 by the page's date, read 2026-11-15 from a captured copy (Dzen refuses automated retrieval; images not captured). Used for: scanning old prints in colour to ease later restoration; not using the scanning program's automatic correction, so as to get the original; not cropping, but leaving a white margin, with rotation and cropping done later during restoration. The post's dpi figures and its TIFF-or-JPEG choice are not adopted.
 - **S25:** Damien Symonds, [Scanning guidelines for old photo restoration](https://damiensymonds.net/scanning-guidelines-for-old-photo-restoration/), opened 2026-11-16. Used for: scanning in full colour even for a black-and-white photo; 16 bits per channel; resolution by print size, from 300 ppi for 8×10 inches or larger through 600 ppi for about 6×4 to 1200 ppi for 2×3 inches or smaller; extra room around the photo; no sharpening during the scan; and saving as TIFF or PSD, not JPEG, because JPEG files can only be 8-bit. A restoration specialist's guidance, not an archival standard.
@@ -45,14 +45,12 @@
 
 **Authored synthesis (2026-11-16 additions).** Recording the gutter that a restricted binding hides as inaccessible applies the recipe's own surface states to S28's condition problem. The rule that papers and books are handled bare-handed is Kinprove synthesis from S28–S30. It corrects S27's glove advice and does not adopt it.
 
-## Additional sources checked 2026-11-16
+## Sources S31–S55
 
 - **S31:** [Flipping Over Clippings in Books](https://genealogytipoftheday.com/index.php/2022/09/20/flipping-over-clippings-in-books/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **S32:** [A clipping-dating case: When did John Horgan die?](https://threadingneedlesinahaystack.blogspot.com/2008/02/genealogical-mystery-when-did-john.html), opened 2026-11-16. The author used a reverse-side headline to narrow candidate years, then reports a separately obtained death certificate; the reverse did not itself prove the date.
 - **S33:** [Thoughts on the Stuff I have in My Totes](https://genealogytipoftheday.com/index.php/2025/09/28/thoughts-on-the-stuff-i-have-in-my-totes/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **S34:** [Rideau: Genealogy photo captioning](https://rideau-info.com/photos/genealogy-captioning.html), opened 2026-11-16. The guidance adds a caption outside the picture on a new derivative and explains that metadata may not be displayed by recipients; no universal screenshot-loss claim is adopted.
-
-## Additional sources checked 2026-11-18
 
 - **S35:** Andrew Koch, Family Tree Magazine, [5 Genealogy Activities to Do September: Falling into Family History](https://familytreemagazine.com/projects/september-genealogy-activities/), published 2024-08-30. Reviewed search-result passage on separate newsprint storage 2026-11-18. The article itself returned HTTP 403. S36 supplies the independently read handling guidance.
 - **S36:** Mary Lynn Ritzenthaler, U.S. National Archives, [Preserving Newspaper Clippings](https://www.archives.gov/publications/prologue/2016/spring/preserve-clippings.html), spring 2016. Opened and read 2026-11-18. Used for housing loose newsprint apart from letters, photographs and other documents.

@@ -156,7 +156,7 @@ puts the file in the Pedigree Resource File, which all users can view and others
 Videos, practitioner posts and forum threads were not re-read. The group-tree paragraph's step of
 sharing a private Memory with the group is supported by S18 and S19, which it does not cite.
 
-### Additional sources checked 2026-11-16
+### Sources S92–S102
 
 - **S92:** [FamilySearch Community: User Trees feedback](https://community.familysearch.org/en/group/338-user-trees-feedback), read 2026-11-16. Used for: the announcement that CET terminology has been retired in favour of User Trees.
 - **S93:** [FamilySearch: Old family group sheets can be found on FamilySearch](https://www.familysearch.org/en/blog/old-family-group-sheets-can-be-found-on-familysearch), read 2026-11-16. Used for: the2013 description of the Archive Section1942–1969 and its alphabetical surname/head arrangement; no current image count or access guarantee.
@@ -177,7 +177,7 @@ workflow 1's series and custodians, marking an unlisted series as not held by Fa
 looking for it in the custodian's own catalogue are Kinprove synthesis. S102 motivates the
 locality-guide search only; its wording is not reproduced.
 
-### Additional sources checked 2026-11-18
+### Sources S103–S126
 
 - **S103:** Katie Merkley, *Making the Most of Your Genealogy Research Time*, Family Tree Magazine, published 2024-05-20 — [source](https://familytreemagazine.com/strategies/making-the-most-of-your-genealogy-research-time/). Community article, search-result excerpts read 2026-11-18. The article URL returned HTTP 403. The excerpts show the advice to work out the order, then use thumbnails or the number box. S104 independently supports the browsing steps.
 - **S104:** FamilySearch Help Center, *How do I find an image in an unindexed collection in Historical Records?* — [source](https://articles.familysearch.org/hc/en-us/articles/41335494946587-How-do-I-find-an-image-in-an-unindexed-collection-in-Historical-Records). Help page, read 2026-11-18. The website instructions cover number jumps, thumbnails, item and book boundaries, and sampling images to determine order.

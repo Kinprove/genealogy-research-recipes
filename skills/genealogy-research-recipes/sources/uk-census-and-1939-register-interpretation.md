@@ -23,7 +23,7 @@
 
 The year-by-year interpretation register, the observation-record fields and the handling of missing people and annotations are authored synthesis. The sources supply the year-specific facts and worked examples as presenters stated them. Where a presenter's statement conflicted with authoritative guidance (1851 rounding, the 25 April date, under-16 orphanhood, enumerator coding), the recipe follows the authority and names the presenter's version. S7 and S10 repeat S8 and do not corroborate it.
 
-### Sources added on 2026-11-14
+### Sources S21–S56
 
 The community posts and videos below (S23, S25, S26, S29, S32, S36, S37, S39, S41, S44, S45, S50, S51, S55) prompted the rules added on 2026-11-14. Each rule is checked against the official, archive or reference source cited beside it; where a post was wrong or out of date, the recipe follows that source and the entry says so.
 

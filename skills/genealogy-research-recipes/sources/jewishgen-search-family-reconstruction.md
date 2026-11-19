@@ -61,7 +61,7 @@ Records as searchable (last updated 2020-05-06), although the Belarus page's dat
 show it; JewishGen's pages did not confirm that an entry's details give the archive, fond, opis and
 delo. The recipe text was not changed.
 
-## Additional sources checked 2026-11-16
+## Sources 19–21
 
 19. Translating a Book at No Cost with Passable Results, [Translating a Book at No Cost with Passable Results](https://www.beholdgenealogy.com/blog/?p=3874), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope. <!-- markdownlint-disable-line MD029 -->
 20. JewishGen Yizkor Book Project, Frequently Asked Questions, [JewishGen Yizkor Book Project, Frequently Asked Questions](https://www.jewishgen.org/Yizkor/faq.html), opened 2026-11-16. Read questions 5, 6 and 9: locate community or regional books and inspect what translation material is actually linked; a listed book is not a full translation. <!-- markdownlint-disable-line MD029 -->

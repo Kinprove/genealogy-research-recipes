@@ -217,7 +217,7 @@ footnotes and statement-by-statement attribution chain are Kinprove's original m
 synthesis. They add no universal error rate or verified historical identification and are not
 represented as instructions prescribed by the cited third-party sources.
 
-### Sources for the additions of 2026-11-14
+### Sources 194–301
 
 <!-- markdownlint-disable MD029 -->
 194. *Was Great-grandma a DAR Member?* — Michael John Neill, Genealogy Tip of the Day, 2022-12-09 — <https://genealogytipoftheday.com/index.php/2022/12/09/was-great-grandma-a-dar-member/> — read 2026-11-14 — Used for: a female ancestor's DAR application papers as research clues for non-members, with older applications approved under less stringent standards. Community blog post. Rights: cited reference, not reproduced.
@@ -330,7 +330,7 @@ represented as instructions prescribed by the cited third-party sources.
 301. *§ 17.1-240. Recording by microphotographic or electronic process* — Code of Virginia — <https://law.lis.virginia.gov/vacode/title17.1/chapter2/section17.1-240/> — read 2026-11-14 — Used for: writings otherwise spread in the Deed Book, the Will Book and other clerk's books recorded instead by micrographic, microphotographic or electronic process (history from 1977). One state's current statute, used as an example. Rights: cited reference, not reproduced.
 <!-- markdownlint-enable MD029 -->
 
-### Sources for the additions of 2026-11-16
+### Sources 302–314
 
 <!-- markdownlint-disable MD029 -->
 302. *MyHeritage Reveals the Fascinating Roots of Good Morning Britain Hosts* — Daniella Levy, MyHeritage Blog, 2024-08-06 — <https://blog.myheritage.com/2024/08/myheritage-reveals-the-fascinating-roots-of-good-morning-britain-hosts/> — read 2026-11-16 — Used for: an October 1859 birth record from Thorpe, Norfolk, naming the mother and also calling the child "Frank Smith", where the researchers could not determine whether Smith was the father's surname or a middle name. A company blog post promoting its research; only the unresolved-name example is used. Community blog post. Rights: cited reference, not reproduced.
@@ -350,7 +350,7 @@ represented as instructions prescribed by the cited third-party sources.
 
 Maintenance note, 2026-11-16: comparing a unit's collective residences and dated movements with a compiled state attribution generalises one researcher's case (sources 312 and 313); the steps and their limits are Kinprove synthesis. Reading an age that moves with a motive as one stream, and treating a sub-nine-month sibling gap as a conflict to investigate, are Kinprove reasoning built on sources 308–311. The Norfolk Record Office page on illegitimacy returned HTTP 403 on 2026-11-16 and is not cited.
 
-### Sources for the additions of 2026-11-18
+### Sources 315–327
 
 <!-- markdownlint-disable MD029 -->
 315. *The Myth of the Burning Bra: The Act of Feminist Extremism That Never Happened* — Daniella Levy, MyHeritage Blog, 2023-12-17 — <https://blog.myheritage.com/2023/12/the-myth-of-the-burning-bra-the-act-of-feminist-extremism-that-never-happened/> — read 2026-11-18 — Used for: the author's distinction between the specific act asserted by an opinion column, the evidence for it and repetition of the assertion. The recipe uses the test of the claim and makes no finding about what burned. Community blog post. Rights: cited reference, not reproduced.

@@ -148,7 +148,7 @@ pricing, model suitability and recognition gains are not verified.
 - *The 1931 Census is now online* — Library and Archives Canada news release, 2023-06-01 — <https://www.canada.ca/en/library-archives/news/2023/06/the-1931-census-is-now-online.html> — opened 2026-11-06 — Used for: Ancestry applying its proprietary handwriting-recognition AI to transcribe the 1931 Census of Canada. Rights: cited reference, not reproduced.
 - *1921 census released on Ancestry* — Who Do You Think You Are? Magazine, 2025-01-09 — <https://www.whodoyouthinkyouaremagazine.com/news/1921-census-ancestry> — opened 2026-11-06 — Used for: Ancestry licensing Findmypast's transcription of the 1921 England and Wales census rather than producing its own. Rights: cited reference, not reproduced.
 
-### Sources for the 2026-11-12 additions
+### Sources S1–S14
 
 The recipe cites these as S1–S14. No live MyHeritage, Transkribus or Google Docs account was
 used.
@@ -168,12 +168,10 @@ used.
 - **S13:** MyHeritage Help Center, [How do I use Deep Nostalgia?](https://www.myheritage.com/help/en/articles/12852104-how-do-i-use-deep-nostalgia), page dated 2026-07-21, read 2026-11-12. Used for: the motion icon at the bottom left and the animation called a technological simulation, not authentic.
 - **S14:** Daniella Levy, MyHeritage Knowledge Base, [How to Use Deep Nostalgia to Animate Family Photos](https://education.myheritage.com/article/how-to-use-deep-nostalgia-to-animate-family-photos/), undated, read 2026-11-12. Used for: the animation not being authentic. The article places the icons on the lower right in one passage and the bottom left in another; the recipe follows the help pages.
 
-### Sources for the 2026-11-16 reader-setup additions
+### Reader-setup sources
 
 - **S15:** GitHub contributor lazyants, [AI transcription of handwritten scans: measured reader setup (control gate, image scale, batch size, lean readers)](https://github.com/Kinprove/genealogy-research-recipes/issues/327), issue opened 2026-11-14, body read 2026-11-16. Used for: the blind control gate, seven-variant scale/script-tip comparison, persistent field errors, 20-frame reader overhead, lean configuration and image-access refusal, continuation boundaries, 140 skipped frames and false patronymic index hits. This is the practitioner's public report; the underlying scans, expected readings, prompts and run logs were not inspected. Its five-entry, twelve-field, single-run comparison does not establish a best setting or a reliable one/two-field gain. Rights not established; cited for attribution, no record images or private case identities reproduced.
 - **S16:** GitHub contributor lazyants, [Measured cost: lean ≤5-frame readers vs the earlier delegated 20-frame batches](https://github.com/Kinprove/genealogy-research-recipes/issues/327#issuecomment-6880426987), comment posted 2026-11-14, read 2026-11-16. Used for: the reported 120-frame/140-frame comparison, input/cache/output counts, image views, six-reader throughput and the author's explanation. Counts came from agent logs versus worker result events; these artifacts were not inspected. Different frames/densities and simultaneous batch/prompt/launch changes prevent isolating causes; six network-interrupted lean batches with no token counts were excluded. Input includes cache reads and is not billed monetary cost; this comparison does not establish transcription accuracy. Rights not established; cited for attribution, no underlying logs reproduced.
-
-## Additional sources checked 2026-11-16
 
 - **S17:** [Inconsistent Writing?](https://genealogytipoftheday.com/index.php/2024/10/15/inconsistent-writing/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **S18:** [Changing Up the Handwriting?](https://genealogytipoftheday.com/index.php/2024/06/12/changing-up-the-handwriting/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
@@ -187,8 +185,6 @@ used.
 - **S26:** [Artificial Intelligence and the Future of Family History](https://www.pricegen.com/artificial-intelligence-and-the-future-of-family-history/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **S27:** [Transkribus: Training Text Recognition Models](https://help.transkribus.org/training-text-recognition-models), opened 2026-11-16. Opened current guidance on custom script recognition, accurate image/transcription training pairs and the need to run a new training job; editing recognised text alone does not retrain a model.
 - **S28:** [Transkribus: Managing Datasets](https://help.transkribus.org/managing-datasets), opened 2026-11-16. Opened the training/validation/test distinction and Ground Truth quality requirements. The documented automatic Test Set function is currently unavailable; no automatic test function is promised here.
-
-## Additional sources checked 2026-11-18
 
 - **S29:** Rick Crume, Family Tree Magazine, [Translating Old Genealogy Records: 20 Top Tools](https://familytreemagazine.com/resources/genealogy-translation-tools/), read 2026-11-18. Community article. Crume recommends an aligned scan at 300 dpi or higher and splitting complex material by page or column. He reports cropping and rotating a postcard message and asking a FamilySearch Community volunteer to check a chatbot draft against a German marriage entry. The article supplies the author's examples and comparison, without an independent reading of the record images here or a tested chatbot resolution threshold.
 - **S30:** Massachusetts Archives, [Digitization Guidelines](https://www.sec.state.ma.us/divisions/archives/records-management/digitization-guidelines.htm), read 2026-11-18. Institutional guidance. Recommends 300–400 ppi for printed and handwritten text, and a wider range for damaged text. Writing size, fading and handwriting inform the choice. The guidance concerns digitization, with no chatbot input requirement.

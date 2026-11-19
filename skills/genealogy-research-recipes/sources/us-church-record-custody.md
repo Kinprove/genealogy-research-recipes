@@ -32,7 +32,7 @@
 
 The four-state negative ledger, the candidate register fields, the order of steps and the treatment of membership dates as brackets are authored synthesis. The presenters supply the denomination-specific examples, the custody routes and the index limits.
 
-### Additional sources checked 2026-11-16
+### Sources S30–S47
 
 - **S30:** Price Genealogy, [German Influences in the United States – Part One](https://www.pricegen.com/8228-2/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
 

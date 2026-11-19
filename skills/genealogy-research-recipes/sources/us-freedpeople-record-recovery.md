@@ -70,7 +70,7 @@ The Freedman's Bank, Last Seen and Enslaved.org entries rest on the custodians' 
 - **S57:** [Records of Slavery, NYC Department of Records & Information Services](https://www.archives.nyc/slavery-records), read 2026-11-08; read again 2026-11-13. Used for: city or town clerk registration under New York's 1799 act; the 1799 act's exclusion of people born before 4 July 1799; and the 1817 legislation that freed the remaining enslaved people in 1827.
 - **S58:** [Chains Unbound: Slave Emancipations in Greenwich Connecticut Online](https://chainsunboundgreenwichct.blogspot.com), read 2026-11-08. Used for: town clerk registration in Connecticut.
 
-### Sources added 2026-11-12
+### Sources S59–S72
 
 - **S59:** FamilyTreeDNA, [Researching the Ancestry of Formerly-Enslaved African American Families Part 2: Beyond the 1870 Brick Wall](https://blog.familytreedna.com/tracing-african-american-ancestry-beyond-1870-brick-wall/), published 2026-06-17, read 2026-11-12. Used for: free mothers' households and their children's surname, the "Mulatto" warning, joint crop-lien signers and unindexed liens, the Kee heirs' dispute, and same-name "Old" and "Young". Its readings of "boy" and "girl" as children under ten and of values rising to age 45–50 are not followed.
 - **S60:** FamilyTreeDNA, [Researching the Ancestry of Formerly-Enslaved African American Families, Part 1: Up to the 1870 Brick Wall](https://blog.familytreedna.com/researching-ancestry-formerly-enslaved-african-american-families/), published 2026-06-17, read 2026-11-12. Used for: cohabitation records as a source of maiden names, and same-day registrations.
@@ -89,7 +89,7 @@ The Freedman's Bank, Last Seen and Enslaved.org entries rest on the custodians' 
 
 **Not verified independently:** that the free-born children of enslaved fathers carried their free mother's maiden name, the usual kinship of joint crop-lien signers, and the indexing of FamilySearch's crop liens (S59 only); same-day cohabitation registrations as a kinship clue (S60 only); the Washington County place-of-death pattern and the incomplete registration of enslaved people's deaths (S62 only); and the Kee case papers themselves.
 
-### Additional sources checked 2026-11-16
+### Sources S73–S83
 
 - **S73:** Genealogy Just Ask, [This Time, I Look West of Anson County, North Carolina](https://genealogyjustask.substack.com/p/this-time-i-look-west-of-anson-county). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
 

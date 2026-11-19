@@ -97,7 +97,7 @@ the historical control sequence and example probabilities are not carried forwar
 
 - [Shared cM Project, DNA Painter](https://dnapainter.com/tools/sharedcmv4): relationship-range reference for the worked example.
 
-### Sources for the 2026-11-12 additions
+### Sources S1–S11
 
 The recipe cites these as S1–S11. Ancestry's help pages, including Custom Match Clusters,
 Matches by Cluster and Understanding Unweighted Shared DNA, refused automated access (HTTP 403)
@@ -116,7 +116,7 @@ live Ancestry account was used.
 - **S10:** Roberta Estes, DNAeXplained, [How to Use Ancestry's New Match Clusters and What They Mean](https://dna-explained.com/2025/07/10/how-to-use-ancestrys-new-match-clusters-and-what-they-mean/), published 2025-07-10, read 2026-11-12. The same post as the 2025 example above, numbered here for these additions. Used for: the chart-view message, the Maternal and Paternal views, and matches in both grandparents' clusters.
 - **S11:** Dana Leeds, [DNA Color Clustering: The Leeds Method for Easily Visualizing Matches](https://www.danaleeds.com/dna-color-clustering-the-leeds-method-for-easily-visualizing-matches/), published 2018-08-23, read 2026-11-12. Used for: cluster overlap from pedigree collapse, and a match sharing two grandparents merging clusters (the author's comment of 2018-08-28).
 
-### Sources for the 2026-11-14 additions
+### Sources S12–S14
 
 - **S12:** My Family Pattern, YouTube, [DNA Laddering: Quickly Identify Unknown Matches](https://www.youtube.com/watch?v=MrMj-g0Mv4A), published 2026-01-01, read 2026-11-14 (transcript in a captured copy; the video page was checked the same day). Used for: pairing a tester descended through an ancestor's first wife with a match through another wife, so that their shared matches should relate to his line.
 - **S13:** My Family Pattern, YouTube, [EGGOS Search Strategy for DNA Matches](https://www.youtube.com/watch?v=DK7r5BqplEs), published 2023-09-05, read 2026-11-14 (transcript in a captured copy; the video page was checked the same day). Used for: ThruLines missing a match whose tree stops at their parents or grandparents, descendancy building down to the match's grandparents letting Ancestry make the connection, and nothing helping a match with no linked tree.
@@ -154,7 +154,7 @@ palette order, but a reader's comment of 2024-12-06 on the same page reports the
 the groups were created; method 4 now reports that comment and asks the reader to check their own
 list. No source was unreadable and no live account was used.
 
-### Sources for the 2026-11-18 addition
+### Sources S15–S17
 
 - **S15:** Family Tree Magazine, YouTube, [Reflecting on the World of Genealogy in 2025 – An Interview with Andrew Koch | Episode 203](https://www.youtube.com/watch?v=vyNJ6WXstRw), December 2025 episode, read 2026-11-18 (cluster discussion in Podwave's transcript of the same episode, around 02:36). The YouTube page did not load. Used for Koch's suggestion to use clusters to see how DNA matches connect to one another and his description of Pro Tools access.
 - **S16:** Ancestry Help, [Matches by Cluster](https://support.ancestry.com/s/article/Matches-by-Cluster?language=en_US), read 2026-11-18 via the redirected help page. Used for the path through the DNA Matches page, authorized kit access and website-only availability. The signed-in view was not tested.

@@ -87,12 +87,10 @@
 
 **Not verified, 2026-11-16:** the current behaviour of any image-search, photo-sharing or tree platform, beyond the dated statements cited from S52, S53, S58, S59, S61 and S62; in particular who can open a FamilySearch album link, and Ancestry's current tagging and face-matching features, whose help pages returned HTTP 403 on 2026-11-16. Also whether a particular keepsake portrait was taken in life or after death; [S63]–[S67] describe the practice and single objects.
 
-## Additional sources checked 2026-11-16
+## Sources S68–S76
 
 - **S68:** [Don’t Crop](https://genealogytipoftheday.com/index.php/2023/05/28/dont-crop/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **S69:** [FamilySearch: Five ways to identify an unknown family photo](https://www.familysearch.org/en/blog/5-ways-to-identify-an-unknown-family-photo), opened 2026-11-16. Read the comparison of furniture, houses and room corners; the separate photographer discussion describes same-angle snapshots. Scene resemblance supplies a lead rather than sitter identity.
-
-## Additional sources checked 2026-11-18
 
 - **S70:** MyHeritage Blog / Daniella Levy, [Long-Lost, 100-Year-Old Family Album Returned to Man in Norway](https://blog.myheritage.com/2022/08/myheritage-returns-long-lost-family-album-to-user-in-norway/), published 2022-08-01, read 2026-11-18. Community source. The article transcribes an album dedication and reports that members of the giver's family appear in it. The article's suggestion of friendship and its inference about the families' influence from their dress are unconfirmed. The recipe uses the dedication as a provenance clue and limits the interpretation of dress to the portrait's presentation.
 - **S71:** Los Angeles County Museum of Art, [André-Adolphe-Eugène Disdéri, Self-Portrait](https://collections.lacma.org/object/94202), catalogue entry read 2026-11-18. The curatorial notes describe giving cartes de visite to friends and relatives and using dress, props and posture to convey status or aspirations. The entry does not independently identify the people in S70's album.

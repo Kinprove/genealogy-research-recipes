@@ -10,7 +10,7 @@
 
 **What is authored and what was not verified.** The recipe's steps are authored synthesis: the scope test, the extension to other index sections, the act-versus-application comparison and the packet. The locator-group step is adapted from Brady's demonstrated procedure: she read every entry with the same year and locator, then had the petition retrieved at the archives [S1], [S2]. The sources supply two worked examples as told by the presenters.
 
-### Sources added 2026-11-14
+### Sources S8–S21
 
 - **S8:** Hening, Statutes at Large, [vol. 12, Laws of 1785, ch. LX](https://usgenwebsites.org/vagenweb/hening/vol12-07.htm), read 2026-11-14. Used for: the Virginia descent act, in force from 1 January 1787, on children born outside marriage inheriting on the mother's side and on legitimation by the parents' later marriage.
 - **S9:** Hening, Statutes at Large, [vol. 12, Laws of October 1786, private acts](https://usgenwebsites.org/vagenweb/hening/vol12-17.htm), read 2026-11-14. Used for: ch. LXXV, vesting an intestate natural son's land, liable to escheat, in his mother on her application, and ch. XCIV, vesting an escheatable reversion in a natural son on his petition.
@@ -20,8 +20,6 @@
 - **S13:** John P. Deeben, National Archives, Prologue, [A Final Appeal to Capitol Hill: The U.S. House's Accompanying Papers File, 1865–1903](https://www.archives.gov/publications/prologue/2007/spring/genea-accompany.html), Spring 2007, read 2026-11-14. Used for: a widow's private pension bill recommended in 1872 and rejected in 1873, marriage records in pension claims, a claim resubmitted in a later session, the Serial Set's private-claims indexes, and the custody of Congress's claims records.
 - **S14:** Library of Congress, Teaching with the Library blog, [Congress.gov July 2021 Release: the Addition of 30,000 Bills and Resolutions from 1799-1873](https://blogs.loc.gov/teachers/2021/07/congress-gov-july-2021-release-the-addition-of-30000-bills-and-resolutions-from-1799-1873/), published 2021-07-07, read 2026-11-14. Used for: the bills loaded from Century of Lawmaking into Congress.gov, the Senate's start in 1819 and the missing 12th Congress. Congress.gov itself refused the fetch and was not inspected.
 - **S15:** National Archives, Center for Legislative Archives, [Research Our Records](https://www.archives.gov/legislative/research), read 2026-11-14. Used for: the Center and its address in Washington, D.C.
-
-### Sources added 2026-11-18
 
 - **S16:** Community livestream, [14 Dec 2022 Just Genealogy Live Stream Results](https://www.youtube.com/watch?v=nYSZZqtguoI), published 2022-12-15, transcript excerpts in the supplied item packet read 2026-11-18. Partial access. The video page did not load. Used for the presenter's suggestions to find the act behind a suspected North Carolina legislative grant, choose between the North Carolina record series by date and volume, and search Virginia legislative petitions and the Library of Virginia website for a Loyalist claim. Access to the relevant North Carolina volume on FamilySearch was unverified.
 - **S17:** North Carolina General Assembly, [Laws of North Carolina, April 1784 session](https://ncleg.gov/Files/Library/sessionlaws/1781-1784/pubs_generalassembly_serial_sessionlaws1784_04.pdf), relevant chapters read 2026-11-18. Chapter LVIII authorizes land grants to named Davidson County petitioners. Chapter XVIII confirms Nathaniel Greene's land title and cites the 1782 act that made the allotment.

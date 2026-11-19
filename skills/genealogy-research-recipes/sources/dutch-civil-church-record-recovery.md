@@ -26,8 +26,6 @@
 
 The sources supply the procedures demonstrated and the presenters' or author's statements. The following are authored synthesis: the order of the steps, the date-role labels, the same-spouse check for couples, and the packet format. S5–S7 supply source-attributed retrieval leads; their pictured examples and local historical/legal assertions were not independently verified. S8 to S15 supply the denomination, civil-registration start and CBG custody facts added on 2026-11-04. S16 to S23 supply the marriage-consent law, index coverage, population-register start and estate-tax return facts added on 2026-11-07.
 
-### Sources added 2026-11-13
-
 - **S24:** Yvette Hoitink, Dutch Genealogy, [Dutch term – Meerderjarig](https://www.dutchgenealogy.nl/meerderjarig/), published 2015-06-15, read 2026-11-13. Used for: the Dutch age of majority, 21 for 1811–1838, 23 for 1838–1901, 21 for 1901–1988 and 18 since 1988, from a table citing Pieter Nieuwland, *Friezen Gezocht* (2005). The page gives years, not the day a change took effect.
 
 ## Credits

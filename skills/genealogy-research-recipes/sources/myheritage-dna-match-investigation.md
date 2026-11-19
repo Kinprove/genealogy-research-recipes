@@ -38,7 +38,7 @@ the additional Q&A was reviewed 2026-10-21.
   and AutoClusters as checks. Extending the caution from a vendor-proposed path to a fully
   documented one, and the `unresolved` default, are Kinprove synthesis.
 
-### Sources for the 2026-11-12 additions
+### Sources S1–S19
 
 The recipe cites these as S1–S19. MyHeritage help pages showed the date 2026-07-21 when read.
 Community posts are cited for their authors' own observations; platform behaviour rests on the
@@ -64,7 +64,7 @@ MyHeritage pages beside them. No live MyHeritage account was used.
 - **S18:** Roberta Estes, DNAeXplained, [Cousin Finder – MyHeritage's Innovative New Tool Finds Your Relatives](https://dna-explained.com/2025/10/09/cousin-finder-myheritages-innovative-new-tool-finds-your-relatives/), published 2025-10-09, read 2026-11-12. Used for: finding trees for matches from other companies. No MyHeritage page describes this cross-company use; the identity check is Kinprove's.
 - **S19:** Jonny Perl, DNA Painter blog, [Investigating a new DNA match](https://dnapainter.com/blog/investigating-a-new-dna-match/), published 2021-02-22, read 2026-11-12. Used for: the "All tree details" → Has Theory of Family Relativity filter as one user saw it. Its route to a segment file from the match page is not current help and is not used.
 
-### Sources for the 2026-11-14 additions
+### Sources S20–S25
 
 - **S20:** Diane Rogers, Price Genealogy, [DNA – Shared Matches and Clustering](https://www.pricegen.com/dna-shared-matches-and-clustering/), published 2023-07-28, read 2026-11-14. Used for: a researcher's maternal matches possibly not shared with her maternal aunt, so clusters not shared with the aunt are not thereby paternal.
 - **S21:** Legacy Tree Genealogists, [Why Don't I Share Any DNA with My Known Relative?](https://www.legacytree.com/blog/why-dont-i-share-any-dna-with-my-known-relative), published 2019-06-04, read 2026-11-14. Used for: an aunt's DNA containing segments the researcher's mother did not inherit or did not pass on.
@@ -73,7 +73,7 @@ MyHeritage pages beside them. No live MyHeritage account was used.
 - **S24:** MyHeritage Wiki, [Theory Of Family Relativity](https://www.myheritage.com/wiki/Theory_of_Family_Relativity), undated, read 2026-11-14. Used for: each joining link carrying its own confidence level, and confirming a theory that is accurate through any path or rejecting it.
 - **S25:** Yvette Hoitink, Dutch Genealogy, [Quick tip: The first of same-named siblings probably died young](https://www.dutchgenealogy.nl/the-first-of-same-named-siblings-probably-died-young/), published 2014-07-16, read 2026-11-14. Used for: a later child named after a sibling who had died, and the rare case of two living siblings named after two same-named grandparents.
 
-### Sources for the 2026-11-16 additions
+### Sources S26–S30
 
 The recipe cites these as S26–S30 in workflow 4's subsection "Record cM Explainer predictions in
 their direction and full range". The community source is S27, a MyHeritage blog post from which a
@@ -88,7 +88,7 @@ entering numbers only, and the ban on looking up a match's age elsewhere are Kin
 - **S29:** Erica Edvi, MyHeritage Blog, [New Enhancements to cM Explainer™](https://blog.myheritage.com/2023/04/new-enhancements-to-cm-explainer/), published 2023-04-24, read 2026-11-16. Used for: the endogamy adjustment limited to Ashkenazi Jewish ethnicity and to matches sharing under 200 cM, and its absence from the standalone tool, which takes no ethnicity data. The post does not address pedigree collapse. No later MyHeritage page found on 2026-11-16 describes the adjustment, so the recipe states it with its 2023 date.
 - **S30:** Melanie Mohler, Your DNA Guide, [MyHeritage cM Explainer | Estimate DNA Relationships](https://www.yourdnaguide.com/ydgblog/myheritage-cm-explainer), published 2023-03-02, read 2026-11-16. Used for: the standalone tool's inputs (shared cM, the tester's age, the match's age optional) and its use by people who tested with other DNA companies. The page does not say whether an account is needed.
 
-### Sources for the 2026-11-18 additions
+### Sources S31–S42
 
 The numbered entries below were reviewed as text. The community accounts document specific observations.
 Current platform behavior was checked against public documentation. The rule to treat a candidate

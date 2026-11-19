@@ -19,16 +19,12 @@ The recipe structure is original Kinprove synthesis; third-party passages are no
 - S15. Elizabeth Shown Mills, [Citations: 1-2-3 Easy](https://www.evidenceexplained.com/quicktips/citations-1-2-3-easy) (Evidence Explained QuickTips, 2014-09-12; opened 2026-11-06). Used for: a citation identifying the creator first, then the item, then access information.
 - S16. Elizabeth Shown Mills, [QuickLesson 19: Layered Citations](https://www.evidenceexplained.com/content/quicklesson-19-layered-citations-work-layered-clothing) (Evidence Explained; opened 2026-11-06). Used for: citation layers for the original source, the provider that delivers it, and the provider's source of the source. Kinprove synthesis: the two record fields for the creator and the consulted layer.
 
-## Additional sources checked 2026-11-16
-
 - **N1:** [No Page Number?](https://genealogytipoftheday.com/index.php/2025/04/10/no-page-number/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **N2:** [Evidence Explained, QuickLesson25: Archaeology of a citation](https://www.evidenceexplained.com/node/1391), opened 2026-11-16. The lesson separates the source identification from the provider and its route/waypoints; cite the image and underlying item at their distinct layers.
 - **N3:** [Getting All the Details?](https://genealogytipoftheday.com/index.php/2023/06/27/getting-all-the-details/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **N4:** [Evidence Explained: Identifying a digitized volume](https://www.evidenceexplained.com/node/2230), opened 2026-11-16. The answer directs use of the actual label on the filmed volume, distinguished from a catalogue title covering an entire series.
 - **N5:** [When to Cite a Specific Book](https://genealogytipoftheday.com/index.php/2024/12/13/when-to-cite-a-specific-book/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **N6:** [Georgetown Library: Citing an unpublished manuscript](https://answers.library.georgetown.edu/research/faq/228516), opened 2026-11-16. The library guidance identifies author, title, composition date and holding institution/name and location for an unpublished manuscript.
-
-## Additional sources checked 2026-11-18
 
 - **N7:** Craig R. Scott, Just Genealogy, [The Genealogical Proof Standard: Element 2, Citations, Part 2 - JG0137](https://www.youtube.com/watch?v=pvr1z7Mchxw) (community video, 2022-07-23), supplied transcript excerpts read 2026-11-18. Partial access. The excerpts describe Scott's finding-aid notes and his advice to use citation models as guides and follow an editor's style sheet. The video page did not open.
 - **N8:** National Archives, [Preliminary Inventory of the Records Relating to International Boundaries, RG 76](https://www.archives.gov/files/research/foreign-policy/related-records/rg-76-international-boundaries.pdf) (finding aid, PDF), inventory note and sample entries read 2026-11-18. The note identifies PI-170 as the default entry-number prefix for this inventory. The entries pair their numbers with series titles and descriptions.

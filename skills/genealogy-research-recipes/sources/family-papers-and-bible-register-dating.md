@@ -59,13 +59,13 @@ The presenters supply the examples and the failure modes.
 - how often a family Bible was reprinted from earlier plates; [S13] documents examples, not a rate
 - the current coverage, access and fees of the collections in [S22]–[S28]; the DAR and Ancestry pages themselves could not be opened
 
-### Funeral guest book sources, added 2026-11-14
+### Funeral guest book sources
 
 - **S29:** Michael John Neill, Genealogy Tip of the Day, [Funeral Book?](https://genealogytipoftheday.com/index.php/2025/12/30/funeral-book/), published 2025-12-30, read 2026-11-14. Used: a recent relative's funeral book, copies kept by relatives with their personal family papers, its signers as possible associates and people alive when the relative died, and the city of residence some signers wrote.
 - **S30:** Kenneth R. Marks, The Ancestor Hunt, [15 Reasons to Research Funeral and Memorial Books](https://theancestorhunt.com/blog/15-reasons-to-research-funeral-and-memorial-books-2/), published 2024-01-08, read 2026-11-14. Used: attendees listed in a funeral book having known the deceased somehow, as a co-worker, neighbour, relative or friend of one of the deceased's children.
 - **S31:** Tharp Funeral Home, [The Funeral Guest Book: Everything You Need to Know](https://www.tharpfuneralhome.com/the-funeral-guest-book-everything-you-need-to-know), read 2026-11-14. Used: a funeral guest book's primary purpose of recording the names and addresses of guests at a visitation, wake or memorial service. A funeral home's description of present practice.
 
-### Diary sources, added 2026-11-16
+### Diary sources
 
 - **S32:** Just Genealogy, [The Genealogical Proof Standard: An Overview - JG0123](https://www.youtube.com/watch?v=TytTVU1dzk0), YouTube, published 2022-07-09; video page and channel opened 2026-11-16, content reviewed from transcript excerpts supplied with the extracted item. Used: checking diary material for what it reports, whether it was edited, and whether the writer recorded an event that day or long afterward. The presenter ties these checks to whether a diary is original or derivative; the recipe narrows this on [S33]: editing and copying decide the source's class, and the time gap and the writer's knowledge bear on the information. The full video was not reviewed.
 - **S33:** Elizabeth Shown Mills, [QuickLesson 17: The Evidence Analysis Process Map](https://evidenceexplained.com/content/quicklesson-17-evidence-analysis-process-map), Evidence Explained, opened 2026-11-16. Used: an original record as the first time a source was written or uttered; derivative records as alternate versions of the original, such as transcripts, translations, abstracts and extracts; primary and secondary information as firsthand and secondhand knowledge; and a time lapse that may affect the quality of a recollection without altering the primary nature of the information. The page shows no publication date.

@@ -115,7 +115,7 @@ The sources below were opened 2026-11-08.
 
 The working order, the table of misreadings, the inference limits and the reading row are authored synthesis. The sources supply the definitions, statutes, cases and examples.
 
-### Sources added 2026-11-12
+### Sources S111–S131
 
 - **S111:** Roberta Estes, DNAeXplained, [Daniel Vannoy (1752-after 1820), "Lived in the Boundary of the Cherokee Indians" – Say What???](https://dna-explained.com/2025/09/29/daniel-vannoy-1752-after-1820-lived-in-the-boundary-of-the-cherokee-indians-say-what/), published 2025-09-29, read 2026-11-12. Used for: a 1786 Wilkes County, North Carolina writ to take the body, "words spoken" as slander, and an 1800 sheriff's return that nothing of value was found. The author's readings that the man would sit in jail, and that he had nothing left or was gone, are not followed.
 - **S112:** Black's Law Dictionary, 2nd edition (1910) at The Law Dictionary, [capias ad respondendum](https://thelawdictionary.org/capias-ad-respondendum/), read 2026-11-12. Used for: the writ that began actions at law.
@@ -142,7 +142,7 @@ The working order, the table of misreadings, the inference limits and the readin
 
 - **S131:** William Blackstone, *Commentaries on the Laws of England*, book 2, chapter 32, "Of Title by Testament, and Administration", [Avalon Project transcription](https://avalon.law.yale.edu/18th_century/blackstone_bk2ch32.asp), read 2026-11-13. Used for: the Statute of Distributions (22 & 23 Car. II c. 10), under which "one third shall go to the widow of the intestate" from the surplus of an intestate's personal estate. The transcription prints the long s as "f"; the quotation modernises it.
 
-### Sources added 2026-11-14
+### Sources S132–S175
 
 - **S132:** Hening, Statutes at Large, [vol. 12, Laws of 1785, ch. LXI](https://usgenwebsites.org/vagenweb/hening/vol12-07.htm), read 2026-11-14. Used for: the Virginia act concerning wills and executors, section IX on a witness who is also a legatee and section XVI on the executor's bond and its security. The same page holds ch. LX, cited as S80.
 - **S133:** Caselaw Access Project, [Fearn v. Postlethwaite, 240 Ill. 626 (1909)](https://static.case.law/ill/240/html/0626-01.html), read 2026-11-14. Used for: section 8 of the Illinois Wills Act as the court quoted it, voiding a gift to a subscribing witness unless the will was attested by enough other witnesses.
@@ -189,7 +189,7 @@ The working order, the table of misreadings, the inference limits and the readin
 - **S174:** Debbie Mieszala, The Advancing Genealogist, [home page and Law Library Index](https://www.advancinggenealogist.com/), read 2026-11-14. Used for: the index's entries for 29 states and territories, from Arizona to Wisconsin, as listed on that date.
 - **S175:** Caselaw Access Project, [Mosholder v. Industrial Commission, 329 Ill. 497 (1928)](https://static.case.law/ill/329/html/0497-01.html), read 2026-11-14. Used for: section 1a of the Illinois divorce act (Laws of 1905), one year for both parties and two years for the person decreed guilty of adultery.
 
-### Sources added 2026-11-16
+### Sources S176–S195
 
 - **S176:** Just Genealogy, YouTube, [Just Genealogy Live Stream Recording for 15 Sep 2022 - JG0190](https://www.youtube.com/watch?v=iknDl1tV4s0), published 2022-09-15, page opened 2026-11-16; the transcript did not load and was not re-read. Used for: the warning that a commissioner of the specific tax can be mistaken for a commissioner for public claims in Amherst and Loudoun County public-claims material, as quoted in the reader's extraction. Its statement that a commissioner of revenue served in the same period is not adopted; see S177, S178 and S181.
 - **S177:** Hening, Statutes at Large, [vol. 9, Laws of October 1777, ch. II](https://usgenwebsites.org/vagenweb/hening/vol09-17.htm), "An act for raising a supply of money for publick exigencies", pp. 349–357, read 2026-11-16. Used for: three commissioners of the tax elected yearly by each county's freeholders and housekeepers during the act's six-year term, who divided the county into hundreds and chose assessors.
