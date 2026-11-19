@@ -5,7 +5,7 @@ The linked routing, request-receipt and image/timeline schemas are original synt
 
 - **S1:** BYU Family History Library, Julia A. Anderson,
   [U.S. Military Pension Files (1776–1916): A Gold Mine](https://www.youtube.com/watch?v=OcAeLJxT9XU),
-  15 July 2024. Service clues, index versus file, requests and chronological reading.
+  15 July 2024. Service clues, index versus file, requests and chronological reading. Captured transcript read 2026-11-19.
 - **S2:** BlackProGen LIVE!,
   [Episode 65: Civil War Pensions and the Grand Army of the Republic](https://www.youtube.com/watch?v=nSfAqzYaiWM),
   15 August 2018. Application/certificate locators, unsuccessful applications and reading the
@@ -41,11 +41,11 @@ The linked routing, request-receipt and image/timeline schemas are original synt
   field search; pension applicants absent from a roster; widow on card not always the wartime wife.
 - **S8:** Family History Fanatics,
   [EASILY Research Civil War Pension Files Using @findmypast](https://www.youtube.com/watch?v=Wo-M7iIWj78),
-  5 April 2021. The presenter interprets the illustrated series' state field as filing residence; verify the series' field definition before applying that interpretation.
+  5 April 2021. The presenter interprets the illustrated series' state field as filing residence; verify the series' field definition before applying that interpretation. Captured transcript read 2026-11-19.
 - **S9:** BYU Family History Library, Alyssa Martinez,
   [O Say, Can You See: Introducing U.S. Military Records](https://www.youtube.com/watch?v=mRt2jTgEqVw),
   12 June 2024. A veteran's and widow's papers tended to be combined under the widow's certificate
-  number.
+  number. Captured transcript read 2026-11-19.
 - **S10:** BYU Family History Library, Marilyn Thomsen,
   [Military Research: What and When](https://www.youtube.com/watch?v=C2_9AVcodcg),
   20 August 2024, with S4. A Georgia pension-roll entry as a pointer; a remarried widow's later
@@ -69,33 +69,33 @@ The linked routing, request-receipt and image/timeline schemas are original synt
   28 November 2024. Comparing pension-index card versions for a later XC file identifier omitted
   from another version. The per-version locator comparison and unresolved-mismatch handling
   are original synthesis. Historical provider coverage and transfer descriptions are not adopted
-  as current website or custody guarantees.
+  as current website or custody guarantees. Captured transcript read 2026-11-19.
 - **S15:** Family Locket, Michael Strauss,
   [RLP 94: U.S. Federal Pensions with Michael Strauss](https://www.youtube.com/watch?v=dSVVQE7iVgo),
   27 April 2020. Posed unreadable-number problem and a separately arranged regiment/company
   index route. No original card pair was inspected; universal index coverage, current hosting,
-  death-date availability and historical custody or eligibility assertions are not adopted.
+  death-date availability and historical custody or eligibility assertions are not adopted. Captured transcript read 2026-11-19.
 - **S16:** Genealogy TV, [Revolutionary War Records for Genealogy Research - Part Two](https://www.youtube.com/watch?v=HdLpafGWn6A),
   10 July 2020. Searching Southern Campaign pension abstracts for a target mentioned in
   another applicant's file, then returning to the original. Only the teaching narration
   was inspected here; the original pension, named people and their service or relationships
-  were not verified. Current hosting, coverage, charges and eligibility rules are not adopted.
+  were not verified. Current hosting, coverage, charges and eligibility rules are not adopted. Captured transcript read 2026-11-19.
 - **S17:** Vita Brevis, Danielle Rose,
   [Pension record insights](https://vitabrevis.americanancestors.org/2022/07/pension-record-insights),
   13 July 2022. Property and income statements in a need-based Revolutionary War claim.
-  The article's blanket 1818–1832 schedule chronology is not adopted.
+  The article's blanket 1818–1832 schedule chronology is not adopted. Article text read 2026-11-19.
 - **S18:** Vita Brevis, Jonathan Hill,
   [Cato Freedom: Soldier of the Revolution](https://vitabrevis.americanancestors.org/cato-freedom),
   24 February 2025. A household declaration beside the claimant's property, occupation and
   ability to work, with a separate clerk's assessment. Only the article was inspected here;
   the original pension images, named family and narrated explanation for a muster-roll gap
-  were not verified. The dated household-and-means row is original synthesis.
+  were not verified. The dated household-and-means row is original synthesis. Article text read 2026-11-19.
 - **S19:** DNAeXplained, Roberta Estes,
   [Sarah Cook (1774/1775-1863), Epitome of Perseverance – 52 Ancestors #386](https://dna-explained.com/2023/01/09/sarah-cook-1774-1775-1863-epitome-of-perseverance-52-ancestors-386/),
   9 January 2023. A re-retrieval example that motivates comparing a newly received pension
   package with earlier copies or notes. The unmatched-item queue, with its locator, observation
   basis and retrieval status, is original synthesis. Misfiling and the contents of any missing
-  paper are not adopted.
+  paper are not adopted. Article text read 2026-11-19.
 - **H1:** National Archives,
   [Requesting Copies of Older Military Service Records](https://www.archives.gov/veterans/military-service-records/pre-ww-1-records),
   page reviewed 16 January 2026; checked 7 October 2026. Request forms, federal scope and
@@ -108,7 +108,7 @@ The linked routing, request-receipt and image/timeline schemas are original synt
   [Family Tree Friday: More Unexpected Finds in Military Pensions](https://narations.blogs.archives.gov/?p=603),
   20 November 2009; checked 26 October 2026. An 1820 need-supporting property inventory and
   accompanying letter about the claimant's wife and resident daughter. Corroborates looking
-  beyond service testimony; the historical hosted-file link is not a current access guarantee.
+  beyond service testimony; the historical hosted-file link is not a current access guarantee. Article text read 2026-11-19.
 - **H4:** National Archives,
   [NARA Reproduction Fees](https://www.archives.gov/research/order/fees), fees as of 20 April
   2018, read 2026-11-07. NATF 85 products and prices (pre-Civil War and Civil War-and-later
@@ -200,7 +200,7 @@ The linked routing, request-receipt and image/timeline schemas are original synt
 ### Pension-file contents sources
 
 - **S66:** National Park Service, [Revolutionary War Pension Files: Tips and a Guide for the Curious](https://www.nps.gov/articles/000/what-might-you-find-in-the-revolutionary-war-pension-files.htm), last updated 2023-08-08, read 2026-11-16. Used for: each file associated with a surviving soldier, his widow or children; a widow pension that may or may not include the veteran's pension; a veteran rejected under one act who reapplied and was approved years later under another; and papers in no particular order, with important documents possibly toward the end of the file. Its reading of an R number as the rejection of only the most recent application is not adopted. Read again 2026-11-18 for the 1832 veteran’s court testimony and witness corroboration, and widows’ testimony, marriage proof and corroboration for the 1836 act.
-- **S67:** Just Genealogy, [Corrections & Futures #1 - JG0035](https://www.youtube.com/watch?v=9ibCCjCUb9E), dated 2022-04-15 in the community extraction; the video page and its oEmbed title and channel were opened 2026-11-16, but no transcript or publication date could be retrieved, so its content was not read in this review. Used for: motivating the sort of a pension file's papers by pensioner, allowing for a rejected claim, before ordering them by date. Known here only from transcript quotations in the community extraction. Its readings of S as survivor and of a W envelope that likely also holds the soldier's pension rest on S26, S34 and S66 instead, and its advice to rename files into date order is not adopted because the recipe keeps the original image order.
+- **S67:** Just Genealogy, [Corrections & Futures #1 - JG0035](https://www.youtube.com/watch?v=9ibCCjCUb9E). Captured transcript read 2026-11-19. The presenter suggests sorting documents by claimant, including a claim that was rejected. The recipe keeps the archival image sequence.
 
 ### Claim testimony, transcriptions and pension jackets
 
@@ -209,15 +209,33 @@ The linked routing, request-receipt and image/timeline schemas are original synt
 - **S70:** National Park Service, [Cuff Chambers (Blanchard)](https://www.nps.gov/people/cuff-chambers.htm), last updated 2025-01-30, read 2026-11-18. Used for the cited granddaughter's affidavit in an M804 file, as an example of a relative who appears among the witnesses.
 - **S71:** National Park Service, [Revolutionary War Pension Files Transcription Project](https://www.nps.gov/subjects/americanrevolution/revolutionary-war-pension-project.htm), read 2026-11-18. Used for the collaboration with NARA and the use of Citizen Archivist volunteers. The project page is documentary evidence for the project and does not establish coverage for any individual file.
 - **S72:** National Archives, [Citizen Archivist Frequently Asked Questions](https://www.archives.gov/citizen-archivist/faqs), read 2026-11-18. Used for the distinction between volunteer transcriptions and machine-extracted text and the searchable text contributed by volunteers. The catalog search was not tested against individual pension files.
-- **S73:** Just Genealogy, [Reading a War of 1812 Pension Envelope - JG0278](https://www.youtube.com/watch?v=C4--cLVQPSQ), dated 2022-12-16 in the community extraction. The video and transcript could not be opened on 2026-11-18. The supplied quotations motivated reading the jacket, retaining its fields and checking the separate disability-pension route. The file and index rules are supported by S33 and S74–S76. The suggested usual explanations for a missing widow entry and likelihood of a particular filing are not adopted as frequency claims.
+- **S73:** Just Genealogy, [Reading a War of 1812 Pension Envelope - JG0278](https://www.youtube.com/watch?v=C4--cLVQPSQ). Captured transcript read 2026-11-19. The presenter reads Rebecca Morgan’s widow application and certificate numbers from the cover and considers a possible separate Old Wars disability claim. The cover does not establish the veteran’s own award.
 - **S74:** National Archives, [Index to War of 1812 Pension Application Files, M313](https://www.archives.gov/files/research/military/army/dc/m313.pdf), descriptive pamphlet, read 2026-11-18. Used for what the microfilm reproduces, the information that can appear on an envelope, service-verification reports in the files, consolidation of applications, and the distinction between early disability pensions and later service pensions.
 - **S75:** Virgil D. White, [Abbreviation key and sample entries from Index to War of 1812 Pension Files, Vol. II](https://www.therainwatercollection.com/reference/ref076.pdf), 1992, read 2026-11-18. The posted extract supplies the expansion of SO, SC, WO and WC and examples of rank, unit and captain in index entries.
 - **S76:** Claire Prechtel-Kluskens, [Anatomy of a Union Civil War Pension File](https://www.archives.gov/files/calendar/genealogy-fair/2010/handouts/anatomy-pension-file.pdf), *NGS NewsMagazine* 34, no. 3 (July–September 2008), read 2026-11-18. Used for the Pension Office distinction between an original application number and a certificate number issued on approval. Its examples are Civil War files. The War of 1812 expansions come from S75.
-- **S77:** Just Genealogy, [US Civil War Records: William A. Knilans and the Record and Pension Office Part II - JG0097](https://www.youtube.com/watch?v=Jf9adXRwtvo), dated 2022-06-14 in the community extraction. The video and transcript could not be opened on 2026-11-18. The supplied quotations motivated checking the officer's commissioned grade when the service papers name a higher acting grade. The statutory support and scope come from S78 and S79.
+- **S77:** Just Genealogy, [US Civil War Records: William A. Knilans and the Record and Pension Office Part II - JG0097](https://www.youtube.com/watch?v=Jf9adXRwtvo). Captured transcript read 2026-11-19. The presenter distinguishes acting command from a commission while discussing William A. Knilans. The statutory tests come from S78 and S79.
 - **S78:** U.S. Government Publishing Office, [Act of 14 July 1862, ch. 166, 12 Stat. 566](https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg566-2.pdf), read 2026-11-18. Section 1 supplies the disability pension rates by commissioned rank.
 - **S79:** U.S. Government Publishing Office, [Act of 24 February 1897, ch. 311, 29 Stat. 593](https://www.govinfo.gov/content/pkg/STATUTE-29/pdf/STATUTE-29-Pg593-2.pdf), read 2026-11-18. Section 1 covers recognition of a qualifying appointment or commission for specified Civil War volunteer officers, including when the commission was not actually received. The statute sets additional conditions for recognition.
-- **S80:** Just Genealogy, [14 Dec 2022 Just Genealogy Live Stream Results](https://www.youtube.com/watch?v=nYSZZqtguoI), dated 2022-12-15 in the community extraction. The video and transcript could not be opened on 2026-11-18. The supplied quotations motivated looking for the legal representative in a surviving final-payment voucher. S30 supplies the record contents. The extract's assurance that a final payment lists all heirs is not adopted.
+- **S80:** Just Genealogy, [14 Dec 2022 Just Genealogy Live Stream Results](https://www.youtube.com/watch?v=nYSZZqtguoI). Captured transcript read 2026-11-19. The discussion suggests checking the final payment for the administrator or a widow’s legal representative. The file contents come from S30.
 - **S81:** Southern Campaigns Revolutionary War Pension Statements and Rosters, [Jacob Micheller pension file W25706](https://revwarapps.org/w25706.pdf), transcript and abstracts, read 2026-11-18. Used for the editor's abstracts of statements by a grandson and a son-in-law. The original images for these two statements were not inspected.
+
+- **S82:** Marilyn Thomsen, BYU Family History Library, [State Military Record Resources](https://www.youtube.com/watch?v=8i254jbCQDQ), published 2024-09-03. Captured transcript read 2026-11-19.
+
+- **S83:** Julie Wilcox, BYU Family History Library, [Discover Family History Through Military Records](https://www.youtube.com/watch?v=HG6sY_S-Neg), published 2023-09-14. Captured transcript read 2026-11-19.
+
+- **S84:** Rachel Derenthal, BYU Family History Library, [Wrong Until Proven Right: Think Like a Genealogist](https://www.youtube.com/watch?v=cLMzNfMNHic), published 2025-08-21. Captured transcript read 2026-11-19.
+
+- **S85:** Laura Lefler, BYU Family History Library, [How to Learn About My Civil War Ancestors Part 2](https://www.youtube.com/watch?v=tD9lgibwBRE), published 2024-11-19. Captured transcript read 2026-11-19.
+
+- **S86:** Family History Fanatics, [Creating the Foundation: Initial Genealogy Research Using Spreadsheets - Civil War Part 2](https://www.youtube.com/watch?v=P9g7JwVmnIM), published 2024-10-21. Captured transcript read 2026-11-19.
+
+- **S87:** Family History Fanatics, [What I Learned Researching 1,000 Civil War Soldiers - Civil War Genealogy Pt 10](https://www.youtube.com/watch?v=8h90dEdVBYc), published 2025-02-22. Captured transcript read 2026-11-19.
+
+- **S88:** Family History Fanatics, [Diving into the Data - Civil War Part 3](https://www.youtube.com/watch?v=cpulm6BuAJ8), published 2024-10-28. Captured transcript read 2026-11-19.
+
+- **S89:** Michael Strauss, Genealogy Gems, [Episode 213](https://www.youtube.com/watch?v=M72-nL_Yb2I), published 2018-01-10. Captured transcript read 2026-11-19.
+
+- **S90:** Michael Strauss, Genealogy Gems, [Episode 209](https://www.youtube.com/watch?v=CPSlx8VfKps), published 2017-10-11. Captured transcript read 2026-11-19.
 
 ## Credits
 
