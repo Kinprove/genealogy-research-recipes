@@ -23,7 +23,7 @@ def paragraph(folder, slug, anchor):
 # Patterns pin the access limitation and the affected assertion or next action.
 LIMITED_CLAIMS = (
     ("bessarabia-moldova-record-routing", "**Read a Тодор", (
-        r"search-result summary.*most frequent.*full study was not read.*unconfirmed.*\[S21\]",
+        r"Bolgrad sample of about 2,000 male names.*Тодор accounted for 11%.*over 20% for Иван.*\[S21\]",
     )),
     ("early-new-england-town-records", "Her example is Abington", (
         r"might be with the older one \[S4\], \[S5\]",

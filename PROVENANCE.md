@@ -747,7 +747,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [australia-nz-record-routing](provenance/australia-nz-record-routing.yml) | 22 | 10 | 0 | — |
 | [austrian-confessional-register-routing](provenance/austrian-confessional-register-routing.yml) | 19 | 6 | 0 | — |
 | [beider-given-name-variants](provenance/beider-given-name-variants.yml) | 3 | 1 | 1 | — |
-| [bessarabia-moldova-record-routing](provenance/bessarabia-moldova-record-routing.yml) | 18 | 7 | 0 | — |
+| [bessarabia-moldova-record-routing](provenance/bessarabia-moldova-record-routing.yml) | 13 | 6 | 0 | — |
 | [brazilian-parish-civil-registry-recovery](provenance/brazilian-parish-civil-registry-recovery.yml) | 44 | 11 | 1 | — |
 | [british-colonial-slave-registers](provenance/british-colonial-slave-registers.yml) | 3 | 2 | 0 | — |
 | [burial-evidence-packet](provenance/burial-evidence-packet.yml) | 78 | 44 | 8 | — |
