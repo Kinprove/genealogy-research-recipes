@@ -329,7 +329,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `irish-probate-and-deed-recovery#C-11bb7fa3bc4b` | portal-availability | 2026-11-13 | 2027-02-11 | S5 |
 | `irish-probate-and-deed-recovery#C-treasury-wood` | platform-ui | 2026-11-16 | 2027-05-15 | S22, S23, S24 |
 | `israel-immigration-list-research#C-4a7d1e9b2c30` | custody | 2026-11-16 | 2027-05-15 | S1, S2, S3, S4 |
-| `israel-immigration-list-research#C-1b9e47a2d6f8` | platform-ui | 2026-11-16 | 2027-05-15 | S1, S2, S4, S3 |
+| `israel-immigration-list-research#C-1b9e47a2d6f8` | platform-ui | 2026-11-16 | 2027-05-15 | S1, S4, S2, S3 |
 | `israel-immigration-list-research#C-6c3a0f85e2d1` | platform-ui | 2026-11-16 | 2027-05-15 | S3 |
 | `israel-immigration-list-research#C-9e05b3c7f142` | platform-ui | 2026-11-16 | 2027-05-15 | S3, S1, S2 |
 | `israel-immigration-list-research#C-74e9b0d2c5a1` | custody | 2026-11-16 | 2027-05-15 | S4, S2 |
