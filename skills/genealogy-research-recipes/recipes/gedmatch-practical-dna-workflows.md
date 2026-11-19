@@ -128,14 +128,13 @@ GEDmatch's database: generate it only after the privacy gate in `SKILL.md`, with
 explicit permission for the Superkit and its privacy option, exactly as for an upload.
 GEDmatch's own route for combining one person's tests is the Tier 1 tool "Combine multiple kits
 into 1 Superkit", which its help scopes to results from different testing companies for the same
-individual [H9 @2026-11-16], [H15 @2026-11-16]. Never select another
+individual [H9 @2026-11-19], [H15 @2026-11-19]. Never select another
 person's kit as an input. Register the Superkit as derived with its source kits, and name one kit
-as the active baseline, as above. Its gain is more positions assayed in common with matches tested
-at other companies, as Kitty Cooper's [2024 interview](https://www.youtube.com/watch?v=ajAnhgs8ck8)
-(unverified transcript excerpts) describes [S26† @2026-11-16]. Do not assume that gain adds shared DNA: in
-GEDmatch's own tutorial on a hand-merged superkit, some matches gained overlap with no change in
-shared cM [H19 @2026-11-16]. Run a candidate against the source kit and the Superkit as separate
-recorded runs, and compare overlap and segments.
+as the active baseline, as above. Compare the candidate separately with the source kit and the
+Superkit. Record the SNP overlap, shared cM and segments for each run. In GEDmatch's tutorial,
+one match went from roughly 194,000 comparable SNPs to almost 400,000 with identical shared cM.
+Another went from 12.40 to about 21.60 cM [H19 @2026-11-19]. A kit can add comparable positions
+across testing companies [S26 @2026-11-19]. Report the measured change for this pair.
 
 When parental relatedness affects the interpretation, run the parental-relatedness check on the
 relevant selected kit and store the result, its thresholds, the output it reports and its
@@ -162,9 +161,9 @@ When inspecting a supplied combined AutoKinship report, record which component r
 actually have results. Keep each group label with its run and report type: an AutoCluster
 number and an AutoSegment number identify different groups, even when the numbers match.
 Preserve every reported membership for a kit rather than forcing one group per person.
-An AutoSegment member may lack AutoCluster membership in that report; keep that distinction
-without treating the blank as no DNA match. Estes's 2022 example demonstrates these separate
-numbering systems and memberships. [S19]
+An AutoSegment member may lack AutoCluster membership in that report. In Estes's report,
+AutoCluster 136 contained five segment clusters. Bill appeared in only one of them, AutoSegment
+185 on chromosome 3 [S19]. Record the component, group and kit together when following a match.
 
 For a crosswalk, retain `run_id, report_type, reported_group, kit_id, membership, result_ref`
 and any supplied interval fields. Link entries through verified kit identities while retaining
@@ -211,17 +210,15 @@ data) or sets any threshold, and neither verifies which vendors' files are unsui
 If the top matches' own lists show the same inflation, or the tester's ancestry comes from a
 documented intermarrying community, read each row's largest segment beside its total. A large total
 made of small segments, with a small largest segment, is a recognized sign of endogamy and does not
-support the close relationship the total alone suggests [S28 @2026-11-16]. Keep the default run.
+support the close relationship the total alone suggests [S28 @2026-11-19]. Keep the default run.
 Where the current form offers a minimum-segment setting, re-run One-to-Many with a higher minimum
 as a separate recorded run. GEDmatch's 2026 guide describes the minimum as typically 7 cM,
 recommends adjusting it when endogamy is suspected and gives 10–15 cM as a raised setting
-[H17 @2026-11-16]. Legacy Tree recommends recalculating totals at GEDmatch under higher thresholds
-and comparing the results [S30 @2026-11-16]. Kitty Cooper's
-[2024 interview](https://www.youtube.com/watch?v=ajAnhgs8ck8) (unverified transcript excerpts) raises the
-threshold to 12 cM and reads a small largest segment as several distant relationships rather than
-one fourth-cousin relationship [S26† @2026-11-16]. Record which candidates survive the raised
-setting, but do not reclassify relationships here: send both runs to the endogamy guidance in
-`ai-for-dna-research.md`.
+[H17 @2026-11-19]. Legacy Tree recommends recalculating totals at GEDmatch under higher thresholds
+and comparing the results [S30 @2026-11-19]. Cooper used 12 cM in an endogamy search
+[S26 @2026-11-19]. Keep both runs and compare the largest segment with the total for the
+surviving candidates. Multiple distant relationships can inflate the total. Use the endogamy
+guidance in `ai-for-dna-research.md` before assigning a relationship.
 
 Keep every displayed match-list column as reported, but mark any estimated generation or
 relationship column as derived from the shared total. A derived value is not a second
@@ -261,13 +258,12 @@ threshold or an expected range, or explains why values are missing.
 
 Record the overlap cutoff each One-to-Many run applied and whether a row's overlap is
 colour-flagged. GEDmatch's One-to-Many page says a pink overlap value may indicate a less accurate
-match [H3 @2026-11-16]. Its tutorials raise the cutoff to drop low-overlap kits and list a
-changeable cutoff among the Tier 1 features [H16 @2026-11-16], [H18 @2026-11-16]. A 2022 guide
-advises against ignoring low-overlap matches outright [S29 @2026-11-16]. Kitty Cooper's
-[2024 interview](https://www.youtube.com/watch?v=ajAnhgs8ck8) (unverified transcript excerpts) treats overlap
-under 100,000 SNPs as possibly less accurate [S26† @2026-11-16], but none of the GEDmatch pages
-opened on 2026-11-16 sets that figure: do not apply it as a cutoff. Check a flagged row's segments
-in One-to-One before relying on its total, and keep the flag in the ledger.
+match [H3 @2026-11-19]. Its tutorials raise the cutoff to drop low-overlap kits and list a
+changeable cutoff among the Tier 1 features [H16 @2026-11-19], [H18 @2026-11-19]. A 2022 guide
+advises against ignoring low-overlap matches outright [S29 @2026-11-19]. Cooper cautions that
+overlap under 100,000 SNPs can be less accurate [S26 @2026-11-19]. Treat that as her caution.
+GEDmatch's cited guides do not establish it as a cutoff. Check each flagged row in One-to-One
+before relying on the total, and keep the flag in the ledger.
 
 **Artifact:** candidate-to-comparison ledger: `candidate_run_id, pair_run_id, kit_a, kit_b,
 chromosome, start, end, cm, snps, comparison_type, status, discrepancy_reason`.
@@ -301,13 +297,11 @@ segments, so the two need not match [S25]. Lowering the largest-segment threshol
 people whose best segment is small; with endogamy, or a long shared-match list, raise it instead
 [S24], [S25].
 
-When candidates overlapping one region fall into two separate ancestral groups, tabulate exact
-start and end positions from each pair's comparison table rather than from the graphic, and check
-every unordered pair in the set. Record the testing source behind each kit. When kits were
-assayed on different chips, endpoint differences alone do not establish different inherited
-tracts; preserve the differences and check the actual comparable overlap. Matching boundaries do not establish a shared ancestor or a parental side. The
-[presenter's two-group case](https://www.youtube.com/watch?v=KY_t2X7yXNY) motivates the position
-tabulation. His reading of identical starts as proof of relatedness is not established.
+When overlapping matches fall into two ancestral groups, tabulate the start and end positions
+from every pair's comparison table and record the testing source for each kit. In one worked
+case the presenter compared exact endpoints between groups that looked similar on the graphic
+[S10]. Different chips can shift reported boundaries. A shared start is a reason to check the
+actual overlap and all pairs. It cannot identify a parental side or a common ancestor.
 
 **Artifact:** triplet table: `kit_a, kit_b, kit_c, ab_run, ac_run, bc_run, chromosome, build,
 pair_intervals, core_start, core_end, status, interpretation_ref`.
@@ -438,40 +432,35 @@ A tree comparison proposes a common ancestor for a DNA match; it does not test o
 steps to make the proposal and then test it.
 
 1. **Privacy gate:** <!-- privacy-gate: upload, link --> A GEDCOM upload places a family tree, linked to
-   a tested person's kit, on GEDmatch, where other users' tree tools search it [H12 @2026-11-16].
+   a tested person's kit, on GEDmatch, where other users' tree tools search it [H12 @2026-11-19].
    Before uploading, answer the privacy gate in `SKILL.md` for the tree's living people and the
-   linked tester. Export ancestors only, since the comparison needs common ancestors, not
-   collateral relatives, as Kitty Cooper's
-   [2024 interview](https://www.youtube.com/watch?v=ajAnhgs8ck8) (unverified transcript excerpts) recommends
-   [S26† @2026-11-16]. Remove anyone who may be living unless that person permits the upload.
+   linked tester. Export ancestors only, as Cooper recommends [S26 @2026-11-19].
+   Remove anyone who may be living unless that person permits the upload.
    GEDmatch's help says people marked living are hidden from everyone except the GEDCOM's owner,
-   and that the upload takes a plain-text `.ged` file [H14 @2026-11-16]; hidden people's data
+   and that the upload takes a plain-text `.ged` file [H14 @2026-11-19]; hidden people's data
    still leaves the user's device. Record the GEDCOM number assigned and the kit linked to the tested person's place in the tree;
-   the common-ancestor search needs that link [S27 @2026-11-16].
+   the common-ancestor search needs that link [S27 @2026-11-19].
 2. Choose the tool for the question and record its inputs. GEDmatch's tutorial describes a
    two-GEDCOM comparison that takes two GEDCOM numbers and checks only those trees, a search of one
    GEDCOM against all uploaded GEDCOMs, and GEDCOM + DNA matches, which limits a kit's match list
-   to matches with an attached tree [H12 @2026-11-16]. Its most-recent-common-ancestor (MRCA) tool
+   to matches with an attached tree [H12 @2026-11-19]. Its most-recent-common-ancestor (MRCA) tool
    searches the trees of a kit's DNA matches and takes the number of kits searched, a minimum cM
-   and a match score [H13 @2026-11-16]. A 2022 guide calls that search a Tier 1 tool
-   [S27 @2026-11-16], and the interview (unverified transcript excerpts) describes both the pairwise
-   comparison and a Tier 1 search across matches' trees [S26† @2026-11-16]. Check the home-page
-   marking before planning on it.
+   and a match score [H13 @2026-11-19]. A 2022 guide calls that search a Tier 1 tool
+   [S27 @2026-11-19]. Cooper also described the pairwise comparison and the subscriber search
+   across matches' trees [S26 @2026-11-19]. Check the current home-page marking.
 3. **Privacy gate:** <!-- privacy-gate: export --> The MRCA result lists living matches' kit
-   numbers, names and email addresses [S27 @2026-11-16]. Keep it on the user's device, do not
+   numbers, names and email addresses [S27 @2026-11-19]. Keep it on the user's device, do not
    copy match email addresses into the research record (Living people, in `SKILL.md`), and delete
    it when the question is answered, as the privacy gate in `SKILL.md` says. Save each run's tool,
    GEDCOM numbers, linked kit, kit count, minimum cM and match score with the result.
-4. Treat a returned ancestor as a name match between two trees, not the path of the shared DNA.
-   GEDmatch's MRCA tutorial calls results potentials to research and shows a same-name candidate
-   with different birth details and places [H13]. Brons warns that the listed ancestor may not be
-   the one both matches inherited the shared DNA from, since people can be related in several ways
-   [S27]. Check the pair's segments in One-to-One (workflow 2) and the documentation for each
-   generation on both paths. When the only shared ancestor lies far back, do not let it explain the
-   segment. In the interview's example (unverified transcript excerpts), a single-segment match led to a
-   13th-century ancestor in Norway, and the speaker favoured a more recent connection that the
-   trees had not documented correctly [S26†]. Keep such a connection as a competing hypothesis, and
-   send the path to `evidence-proof-judgment.md`.
+4. Compare a proposed ancestor's birth date, birthplace and relatives in both trees. In the
+   GEDmatch tutorial, a pair sharing 35 cM returned the same ancestor name but the birth date
+   and birthplace differed [H13]. Keep the candidates separate until records link them. Even
+   a documented common ancestor may represent only one of several relationships [S27]. Check
+   the pair in One-to-One and verify every generation on both paths. In another single-segment
+   case, Cooper's tree comparison reached thirteenth-century Norway. She suspected a closer
+   undocumented connection [S26]. Leave the segment's source unresolved and send competing
+   paths to `evidence-proof-judgment.md`.
 
 **Artifact:** tree-comparison ledger: `run_id, tool_label, gedcom_a, gedcom_b, linked_kit,
 match_kit, settings, candidate_ancestor, generations_a, generations_b, match_score, pair_run_id,
