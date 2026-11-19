@@ -782,7 +782,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [dnapainter-practical-dna-workflows](provenance/dnapainter-practical-dna-workflows.yml) | 27 | 26 | 0 | H2, H3, H4 |
 | [dutch-civil-church-record-recovery](provenance/dutch-civil-church-record-recovery.yml) | 21 | 19 | 1 | — |
 | [early-new-england-town-records](provenance/early-new-england-town-records.yml) | 11 | 6 | 1 | — |
-| [elib-ukrainian-archive-reference-books](provenance/elib-ukrainian-archive-reference-books.yml) | 5 | 6 | 1 | — |
+| [elib-ukrainian-archive-reference-books](provenance/elib-ukrainian-archive-reference-books.yml) | 4 | 5 | 1 | — |
 | [england-wales-gro-index-recovery](provenance/england-wales-gro-index-recovery.yml) | 39 | 9 | 0 | — |
 | [english-nonregister-record-recovery](provenance/english-nonregister-record-recovery.yml) | 34 | 9 | 1 | — |
 | [enslavement-record-disclosure](provenance/enslavement-record-disclosure.yml) | 0 | 0 | 0 | — |
