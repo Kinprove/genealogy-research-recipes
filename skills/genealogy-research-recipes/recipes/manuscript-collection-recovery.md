@@ -42,18 +42,11 @@ Before you query, build two registers.
   - relatives who moved away and may have kept letters;
   - the compiler of any published family or local history. The compiler's research papers are a separate target from the book and can hold far more than the book printed [S5], [S9], [S10], [S12], [S15].
 
-For a congregation or similar unit, first fix the specific unit from a dated source. Then search for that unit's records instead of the person. The Church History Library example searches a named ward for the period, which turns up material that a name search misses [S21].
+For congregational records, establish the unit name and dates from a record of residence or membership. Search the Church History Catalog under the historical ward, branch or stake name, then choose the record type and period. A person may appear on a page filed under the ward without appearing in the catalogue description [S21], [S66].
 
-If a suspected lifetime gift of land is missing from the deed books, search the landholding family's legal and financial papers for the original deed of gift [S59]. Chelsea Petry describes a deed of gift kept with her family's papers [S58]. Keep the transfer unresolved until the deed or other evidence supports it.
+For a possible lifetime land transfer, search the landholding family’s legal and financial papers under both parties to the gift. An unrecorded deed of gift was reported among one family’s private papers [S58], [S59]. Look for the dated instrument and compare the parties and parcel before recording the transfer.
 
-When the identified creator is a fraternal insurer, check whether its actual collection has
-an index by personal name. Carry a matching entry and supplied claim/certificate numbers
-to the file's established holder, and seek the complete claim folder. For a family-origin
-question, look for an earlier application rather than stopping at a death certificate.
-Szczepankiewicz's [PRCUA account](https://fromshepherdsandshoemakers.com/2022/01/24/researching-marianna-drajem/)
-describes a death-claim packet containing a 1915 insurance application with family information.
-Keep that application's date and informant separate from the death claim. One reported packet
-does not establish standard contents, verify family statements or guarantee a current copy route. [S29]
+For a fraternal insurer, search its claim index by the member’s name, then record the claim, certificate and society numbers supplied. In the Polish Roman Catholic Union of America (PRCUA) index, the society number can separate namesakes. Check the claim number against the list of missing files [S67]. Request the whole surviving folder. One researcher found a son’s 1915 application naming his parents inside his later death-claim file [S29]. Cite the applicant and application date separately from the death claim.
 
 For an identified Emigrant Industrial Savings Bank account, check whether the actual collection
 separately describes deposit ledgers and test books. If it does, use the supplied account number
@@ -63,12 +56,7 @@ questions; reading a transaction-only ledger does not exhaust that separate targ
 test book not located or inspected outstanding. The narrated example does not establish
 standard fields, identity or current availability. [S33]
 
-After a gap in sacramental registers, include the identified parish's cash accounts
-(`Kirchenkassen-Rechnungen`) in the context search. Gegner-Sünkler's Canditten articles
-describe named contributors and an administrative letter in those accounts. Check the actual
-series description for relevant volumes and associated papers; do not restrict the enquiry
-to payer lists. These are reported contents of one parish's accounts, not standard contents
-or a complete parish census. [S30, S31]
+When a parish register ends, search its accounts (*Kirchenkassen-Rechnungen*) for the missing years. At Canditten, the 1822–1846 accounts name contributors and include an 1824 letter from the pastor to an administrative official [S30], [S31]. Check both the accounts and their enclosures. A payment or mention in a letter places a person in a particular transaction, and cannot supply a complete parish roster.
 
 For a property-change question tied to an identified early-Prussian territorial Amt and
 period, check whether the actual local muster-roll inventory includes relevant appendices:
@@ -88,13 +76,13 @@ Look up every phonetic spelling of the surname and note each place of origin car
 
 In NARA’s Catalog, use a known **Record Group Number** or **Collection Identifier** in Advanced Search [S45 @2026-11-16], or narrow results with **Part of Collections** or **Part of Record Groups**. Open the relevant description and use **Search within this** for the group, collection or series [S46 @2026-11-16]. Run a personal-name query alongside this context search when useful; a name miss does not search every described file. Copy each level’s actual reference rather than manufacturing a series number by adding a decimal to the record-group number [S47 @2026-11-16].
 
-Run batches that combine place with a creating body, record type, religion, occupation, ethnicity or event. The presenters' examples include:
+Combine terms that describe how the records were created and filed. Try
 
-- a Methodist church plus county and state, instead of a baptism plus a name [S2];
-- "Chinese exclusion", which returned more than 300 collections in the presenter's 2025 demonstration, where a name search would have found little [S1];
-- a county plus "tax", which surfaced a county tax-office account book [S4];
-- "bible", narrowed by a family facet [S6];
-- "Crown Point expedition" for a 1755 participant [S24].
+- a congregation’s denomination, county and state for membership or baptism records [S2]
+- a law or administrative process, such as *Chinese exclusion*, for immigration case files [S1]
+- a jurisdiction and office function, such as *Essex County New Jersey tax*, for a tax-office account book [S4]
+- a record type such as *Bible*, narrowed by family name [S6]
+- an event, place and year such as *Crown Point expedition 1755* for lists of payments to officers [S24].
 
 If a town search is thin, widen it to the county and then the state [S4].
 
@@ -104,7 +92,7 @@ For a Pennsylvania coal superintendent, use the employer named in the obituary t
 
 Search the historical company name for mergers and successor names, then search catalogues under each documented name. The livestream presenter suggests tracing the company's ownership to find its business papers, according to the transcript [S60†]. Some of the Pennsylvania Coal Company's papers reached the archives through its parent railway [S65]. Confirm the collection and dates in the holding repository's own description before assigning custody from a company history.
 
-Do not limit the search to repositories near the ancestor. Papers move with descendants, migrants, donors and collectors. The George S. Tanner papers on northern Arizona are held at the University of Utah. The presenters also report Biltmore Hotel material at a different university than expected, and migrants' letters donated in the state where descendants settled [S3], [S5], [S9], [S14], [S15]. Do not apply a portal's map or repository filter before the keyword search [S3], [S7].
+Search without a repository-location filter first. Include the places where relatives settled, as well as the ancestor’s home, and follow a named donor, employer or collector across state lines [S3], [S5], [S9], [S14], [S15]. Apply a geographic filter only after recording the unrestricted query [S3], [S7].
 
 If a result set is large, switch ArchiveGrid to its summary view and narrow by people/family, place, archive location or topic. Write down the facet state with the result count [S3], [S6], [S7].
 
@@ -118,13 +106,13 @@ For each search, record which layer it ran against:
 
 - **NUCMC**, the Library of Congress's National Union Catalog of Manuscript Collections. Its printed volumes, 1959–1993, describe about 72,300 collections reported by 1,406 repositories and index personal and family names [S49 @2026-11-16]. Its records in WorldCat start in 1986, and the 1959–1985 reports are not there, so a WorldCat or ArchiveGrid miss does not cover them [S50 @2026-11-16]. Search those years in the printed volumes, in the *Index to Personal Names in the National Union Catalog of Manuscript Collections, 1959–1984* [S49 @2026-11-16], or in ArchiveFinder, a subscription database that contains NUCMC from 1959 to 2006 [S51 @2026-11-16]. Look up each family surname there, not only the individual, to catch family-papers collections; a presenter in [S48 @2026-11-16] (partial read of a transcript extract) checks for family papers under the surname this way. A NUCMC entry reports a collection held by the reporting repository, not by the Library of Congress, so trace it to that repository [S50 @2026-11-16]. The Library sunset the program as of 31 May 2026 [S52 @2026-11-16], [S53 @2026-11-16].
 
-For a family in Russia or the Soviet Union, search Прожито (Prozhito), the European University at St Petersburg's collection of published diaries and memoirs. It can be filtered by date, sex, age and the place where a diary was kept, and it has taken memoirs as well as diaries since 2019; in March 2023 it held more than 626,000 daily entries of the 18th to 20th centuries by 2,727 diarists, in Russian, Ukrainian, Belarusian and Kazakh sections [S42]. Ordinary people's diaries sit beside prominent ones, some given by their families [S40], [S43], [S44]. Search by place first, then by each ancestral surname. One blogger who searched a diary site this way found no direct ancestor, but found diaries from her family's region by a place tag and, by surname, a diary of a man living near the village where her family had first settled, whom she took for a distant relative [S41]. Query in modern spelling: Prozhito loads pre-reform texts in modern spelling because its search handles the old one poorly, and for some recently published books a query returns only the entries containing its words, not the whole diary [S42]. Treat a hit as a lead about a place or a namesake until other records tie the writer or the people named to the family; a miss says nothing.
+For a family in Russia or the Soviet Union, search Прожито (Prozhito) by the place where a diary was written, then by each surname. Family-donated diaries and memoirs can supply local accounts [S40], [S43], [S44]. One researcher found a diary near her family’s settlement under a surname, but the link to a relative remained uncertain [S41]. The project’s March 2023 guide describes modernized spelling for pre-reform texts and a search mode that shows only matching entries for some recent books [S42]. Record which text you could see before interpreting a miss.
 
 For a family in the antebellum South, including enslaved people and overseers, search the microfilm edition *Records of Ante-Bellum Southern Plantations from the Revolution through the Civil War* (University Publications of America); a presenter in [S48 @2026-11-16] (partial read of a transcript extract) uses it routinely for Southern families. It reproduces selected collections from Southern state archives and university and historical-society libraries in lettered series, each drawn from one or more repositories. Most of the material comes from larger tobacco, cotton, sugar and rice plantations between the War of 1812 and the Civil War: business records, account books, slave lists, overseers' reports, diaries and private letters. Most records dated after 1865 were left out [S54 @2026-11-16]. Look up the county, the plantation name and each planter's surname in Jean L. Cooper's *Index to Records of Ante-Bellum Southern Plantations* (2nd ed., 2009), an index to the series guides by location, plantation, surname and collection title [S55 @2026-11-16]. Then read the printed guide for that series and part: its reel index gives each collection's contents and omissions, so note the reel there before requesting film [S54 @2026-11-16]. Cooper indexes the guides, not every name on the film, and each series is a selection from its repository, so a miss leaves both the film and the original repository's own finding aid unsearched. A library may hold only part of the set: the University of Arkansas owns one part, says reels may be requested through interlibrary loan, and lists no online option for the set [S56 @2026-11-16]. For the years after emancipation, check the separate microfilm set *Records of Southern Plantations from Emancipation to the Great Migration*; the library listing that names it gives no date range [S57 @2026-11-16]. Record the reel and the original repository's collection as separate holders, as for any copy.
 
 A zero result applies only to that portal, its layer and the query. If a repository plausibly connects to the family's places, or to the places where children lived and died, contact it even if no portal shows anything [S12].
 
-For a missing plantation account book, search public auction catalogues by plantation, planter and the volume's years. Record the sale date, lot number and the volume description from a matching lot [S61]. According to the livestream transcript, a researcher traced a book to a sale and received no buyer information [S60†]. Keep the lot as a lead and leave current custody unresolved until a holder confirms it.
+For a missing plantation account book, search auction catalogues by estate, planter and the volume’s dates. Save the sale date, lot number and description [S61]. A recorded sale may be the last public locator when the buyer’s name is unavailable, as a researcher reported in the livestream transcript [S60†]. Check for a later donation or resale before assigning current custody.
 
 **Privacy gate:** <!-- privacy-gate: contact --> Send only the public lot number and sale date and the sender's authorised reply details to the auction house through its public business channel. Apply the [privacy gate](../SKILL.md#privacy-gate) before sending.
 
@@ -143,11 +131,11 @@ A catalogue hit tells you that a collection exists and who holds it. It does not
 - related or digital links;
 - whether the holding is the original or a copy [S6], [S7], [S8], [S15], [S24].
 
-Do not assume a personal name in a collection title is the creator or donor. A collection can be titled for its subject: DACS rule 2.3.23 gives the example of a collection on Isadora Duncan that she did not collect [S34]. Take the named person's role from the finding aid's creator, acquisition and scope notes. Either way, the title does not index the people inside. The presenter in [S3] shows the Miriam Matthews collection of Los Angeles newspapers on African Americans at UCLA, where the description shows that she assembled and donated it.
+Read the finding aid’s creator, scope and acquisition fields before assigning a role to a name in the title. DACS rule 2.3.23 illustrates a title naming the subject, Isadora Duncan [S34]. UCLA collection 1839 illustrates two other roles: Miriam Matthews collected the Los Angeles newspapers, and Charles Matthews donated them in 2009 [S68]. The lecture attributed the gift to Miriam [S3]. Use the repository’s acquisition note for the donor.
 
-Watch for copies held elsewhere. The University of Utah holds the original George S. Tanner papers, 21.25 linear feet. The presenter in [S15] worked from a copy set at Northern Arizona University. Record the original holder separately from any copy holder, and take each holder's extent from its own current description.
+Compare each repository’s description of the actual materials. Utah’s *Mormon Settlement in Arizona* collection describes Tanner’s material as including photocopies and transcriptions. A presenter also reported consulting copies at Northern Arizona University [S69], [S15]. Record the holder, reference, extent and whether the particular diary or letter is an original, copy or transcript. Two collections bearing the same name can differ.
 
-An extent is not a count of people, and custody moves. In 2022 Tanner read NARA Atlanta's notice that it had received about 54,000 cubic feet of Railroad Retirement Board inactive claims folders from the Great Lakes region, with indexing unknown [S20]. NARA Boston's page, checked 2026-11-07, states that it holds about 54,000 cubic feet of these folders (Storages 8–20), transferred from Atlanta. [S35] Atlanta's transfer notice says Storages 8–15 were unavailable there from April 2026, with availability in Boston estimated from mid-June and all future reference requests routed there. [S36] Do not assume a series sits near where the person worked, that it is indexed by name, or that the first custody notice you find is current. For an agency series, follow every documented transfer to the current custodian and confirm on that custodian's own page [S20], [S22].
+Track custody through the receiving archive’s own notice. NARA Boston identifies the Railroad Retirement Board inactive claims folders transferred from Atlanta as about 54,000 cubic feet, Storages 8–20. Atlanta’s notice describes the move of Storages 8–15 and routes future requests to Boston [S35 @2026-11-19], [S36 @2026-11-19]. Cite the specific storage and claim reference when known. Volume alone gives neither a headcount nor evidence that a name is indexed [S20 @2026-11-19], [S22 @2026-11-19].
 
 Exclude a collection only when its dates or material types cannot hold the target, and write down the reason. A matching surname, county or hometown is a lead. It is not evidence of kinship.
 
@@ -159,7 +147,7 @@ For a plantation account book from Virginia's Fauquier–Loudoun area, search Du
 
 Some finding aids use an unexpected sort key. The Record of Members collection (call number CR 375 8) is arranged alphabetically by unit name. Spell out ward numbers when you browse it: Rasmussen's tip is that a 15th Ward files under F [S23].
 
-A series may be filed under a unit with a different title, so a search on the series name alone can miss it. Widen the search in three ways. First, search the contents notes of other units, and read hits in the search view, not only in the browse tree. For the Nürnberg council decrees (Ratsverlässe), a series-name search returned nothing, yet the decrees for 1520–1604 were listed, with folio numbers, in the "Enthält/Darin" contents note of a copybook (Kopialbuch); in that case the note surfaced in a search of the Bavarian state archives' finding-aid database but not in its archive-structure (tectonics) browse view [S27]. Second, search the parent bodies; for these decrees, look under the chancery and council records, the council minutes and the inner council [S27]. Third, check every custodian that may hold part of a series: the Nürnberg Fünfergericht court files, for example, are divided among the city archive, the state archive and special collections [S27]. The Bavarian state archives state that only a small part of their holdings is described online, so a miss there does not establish that the records are absent [S27].
+Search the contents notes of larger volumes and read the full catalogue record as well as the hierarchy. In the Bavarian state archives database, a participant found Nürnberg council decrees (*Ratsverlässe*), 1520–1604, at folios 101–183r in a copybook’s *Enthält-/Darin* note after the series-name search had failed [S27]. Try the parent chancery, council minutes and inner council. For the Fünfergericht, check the city archive, state archive and special collections separately. Record the catalogue and description level searched for each.
 
 Record each finding-aid entry exactly as written, with its date and its series/box/folder position. That entry stays an unread lead until someone inspects the item.
 
@@ -173,7 +161,7 @@ Before you request or travel, ask the repository:
 
 The presenters describe items that are digital but sit behind a sign-in, and others that can be viewed only on site, or only after an access or digitisation request [S21], [S23]. Record of Members is also being indexed on FamilySearch (collection 3714676), which changes what a name search can reach for that collection. NEHGS holds the April 1755 list of payments to New Hampshire officers for the Crown Point expedition (Mss C 2051). The item is also listed in the free Digital Commonwealth portal. Check every free access route before you pay for a membership or a copy.
 
-Request items by the repository's own locator (collection or call number, box, folder or item), not by a surname. If staff say a collection is not held, ask again using the repository's own catalogue record. In the presenter's account in [S15], the front desk first denied a holding that was in fact there.
+Request items by collection or call number, box and folder. If staff say they do not hold a described item, give them the catalogue entry, check whether it describes a copy, and ask which department or storage location the reference belongs to. At Northern Arizona, a presenter reported obtaining materials after an initial desk enquiry failed [S15]. Record the repository’s reply and the items actually produced.
 
 For a ledger copy request, include the account heading and any linked continuation pages. The article in [S28] describes debit amounts that can continue on another page and a separate payment column. Check the actual volume's labels and page links before treating a partial page as the complete account; no particular debit/credit layout is assumed.
 
