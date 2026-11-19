@@ -9,7 +9,7 @@
 - **S2:** [Full-text PDF linked by that card](https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014010.pdf&IMAGE_FILE_DOWNLOAD=0).
   The PDF was accessible; text extraction from its first pages was garbled.
   The recipe's visual/OCR fallback is a response to that observed extraction
-  limitation, not a claim that all ELIB books have the same extraction problem.
+  limitation, not a claim that all ELIB books have the same extraction problem. Rendered title page and compared text extracted from PDF pages 1–3 on 2026-11-19. The rendered title page identified the Chernihiv guide, first volume, Chernihiv, 2001. Interior contents were not checked.
 
 ## Sources opened 2026-11-02
 
