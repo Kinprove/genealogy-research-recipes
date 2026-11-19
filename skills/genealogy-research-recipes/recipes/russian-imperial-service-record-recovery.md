@@ -109,12 +109,19 @@ lists also gave the children's religion and, not always, the wife's birth date a
 ## 5. Add dated observations from professional lists and calendars
 
 - Search provincial address calendars and Памятные книжки by year and section, recording each edition and page. In the 1904 Tobolsk address calendar a search missed the family on p. 18 but found members in the women’s school and elementary-school sections on pp. 46 and 49 [S10].
+
 - **Where to find address books and Памятные книжки.**
-  - The National Library of Russia (РНБ) lists Памятные книжки by guberniya at <https://nlr.ru/elibrarypro/memo/RA5888/spisok-guberniy>; the bare `/elibrarypro/memo/` address returns 404. A separate index names the libraries, archives and museums that hold copies, by city. [S14], [S15]
-  - The Vologda Regional Library hosts a name index from the Novgorod Памятные книжки [S16] and texts of the Vologda books [S46].
-  - The Presidential Library search results could not be read past a browser security check on 19 November 2026 [S17†]. If the check recurs, hand the search to the user’s browser.
+
+  - The National Library of Russia (РНБ) lists Памятные книжки by guberniya [S14 @2026-11-19]. The bare `/elibrarypro/memo/` address could not be read and returned HTTP 404 [S47† @2026-11-19]. Its separate holdings index lists libraries, archives and museums by city [S15 @2026-11-19].
+
+  - The Vologda Regional Library hosts a name index from the Novgorod Памятные книжки [S16 @2026-11-19] and texts of the Vologda books [S46 @2026-11-19].
+
+  - The Presidential Library search results could not be read past a browser security check on 19 November 2026 [S17† @2026-11-19]. If the check recurs, hand the search to the user’s browser.
+
   - Before you trust a zero from a digital library's full-text search, search a phrase you can see on a page of the same volume. Search names and places in pre-1918 spelling as well as modern spelling, using the [pre-reform spelling lane](corpus-seeded-name-search.md#diagnose-three-different-failures).
-- **Erik-Amburger-Datenbank.** For an official or professional of foreign origin, search the Erik-Amburger-Datenbank of the Leibniz-Institut für Ost- und Südosteuropaforschung (IOS, Regensburg). It catalogues about 100,000 foreigners in the Russian Empire up to 1917, built from Erik Amburger's card file, and publishes a list of its sources. It is a compilation: follow each entry to its cited source before you use it. [S18]
+
+- **Erik-Amburger-Datenbank.** For an official or professional of foreign origin, search the Erik-Amburger-Datenbank of the Leibniz-Institut für Ost- und Südosteuropaforschung (IOS, Regensburg). It catalogues about 100,000 foreigners in the Russian Empire up to 1917, built from Erik Amburger's card file, and publishes a list of its sources. It is a compilation: follow each entry to its cited source before you use it. [S18 @2026-11-19]
+
 - **Российский медицинский список (RMS).** Follow a university-record lead into the RMS [S12]. Record the edition, “as of” date, section and page. The Russian State Library dates the 1914 and 1916 lists to 1 May of their respective years [S42], [S44]. Check the alphabetical women-physicians section under the birth surname as well as the married surname introduced by по мужу, and copy the post as printed [S10].
 - **Decode compressed RMS fields from the edition's printed legend, not from a forum reading.**
   - The 1914 legend gives the order: birth year, then degree, then graduation year. Its own example is "63 Л. 82": born 1863, лекарь, graduated 1882 [S45].

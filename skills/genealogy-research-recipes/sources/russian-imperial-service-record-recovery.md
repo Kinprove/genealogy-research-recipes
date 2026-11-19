@@ -112,8 +112,11 @@ Reading an RGVIA inventory miss as a miss in the online inventories only, browsi
 
 - **S46:** [Vologda Regional Universal Scientific Library, Памятные книжки Вологодской губернии](https://booksite.ru/fulltext/memo/book/1.htm). Library page read 2026-11-19. The page reproduces text from Vologda’s provincial books.
 
+- **S47:** National Library of Russia, [bare directory address](https://nlr.ru/elibrarypro/memo/). A direct request on 2026-11-19 returned HTTP 404; the index was not accessible at this address.
+
 ## Credits
 
+- National Library of Russia (S47) — HTTP response recorded for this address (adapted)
 - Russian State Library (S42–S44), Pomnirod transcription of the 1914 directory (S45), and Vologda Regional Library (S46) — Bibliographic details and document instructions restated with attribution (adapted)
 - J-Roots Forum, beginners' trial-post thread on echoes of family stories — Forum post, all rights reserved by the posters; short quotation for citation (quoted)
 - Уральская генеалогия forum, continuation thread on a Urals clergy family, 2022–2026 — Forum post, all rights reserved by the posters; short quotation for citation (quoted)
