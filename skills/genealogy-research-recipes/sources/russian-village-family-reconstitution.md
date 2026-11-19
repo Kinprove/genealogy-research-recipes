@@ -112,10 +112,15 @@ The following were NOT verified: any public source that names the full identity 
 
 Checking twins against the running count and the burials, and looking for a son-in-law's marriage and adoption agreement before counting him as a son by birth, are authored synthesis. S91 and S94 are Dzen posts by one blogger; S92 is a blog post; S93 was read as its repository abstract, not the full article. NOT verified: the reason the blogger gives for same-named twins, how often twins shared a name elsewhere, and the consent case in S94.
 
+- **S95:** N. K. Smirnov, [chapter on blood kinship](https://azbyka.ru/otechnik/pravila/iz-jasnenie-tserkovno-grazhdanskih-postanovlenij-otnositelno-brakov-zaklyuchaemyh-v-rodstve-ili-svojstve/3), opened 2026-11-19. The manual requires permission for fifth- and sixth-degree collateral blood kinship and dispenses with it from the seventh. S75 includes the seventh among the degrees a bishop could permit.
+
+- **S96:** Holy Synod, [decree of 19 January 1810, reproduced in Smirnov’s appendix](https://azbyka.ru/otechnik/pravila/iz-jasnenie-tserkovno-grazhdanskih-postanovlenij-otnositelno-brakov-zaklyuchaemyh-v-rodstve-ili-svojstve/7), PSZ I, vol. XXXI, no. 24091, pp. 40–41, opened 2026-11-19. The text cites the first-cousin prohibition and assigns more distant cases to the bishops.
+
 - **O1:** Kinprove, [issue #342: «russian-village-family-reconstitution: calibrations and inputs from a first full reconstitution pass»](https://github.com/Kinprove/genealogy-research-recipes/issues/342), filed by lazyants on 2026-11-15, report body read 2026-11-16. Used for: the prior tree/extraction and dropped hypotheses; the 287-act compact digest and 57 couples; brides' origins and patronymic leads; the 1904 name variant and probable 1882/1848 match; the reported 1882 numbered-yard plan (GAKO f. 62, op. 17, d. 1246); and the open ends. First-party report of one Kaluga-province village, not a general result or independent verification. The report says the 1904 variant was read on the image, but the sponsor/marriage index readings and the probable householder match were not; this check inspected neither the images nor the private artifacts. No record names the father.
 
 ## Credits
 
+- N. K. Smirnov and the reproduced 1810 Synod decree (S95, S96) — historical text in the public domain, paraphrased (adapted)
 - Board for Certification of Genealogists, Evidence Explained, BYU Script Tutorial, Microsoft, Scholars Portal, UK Data Service, Transkribus, Anthropic and DiSSCo pages cited as S6 to S8, S10, S11, S19 to S22, S27, S30, S38, S39, S41 to S45, S47 to S49, S59 and S60 — Copyright of their publishers; short quotation and paraphrase (adapted)
 - Wikipedia articles cited as S2, S24, S29 and S70 — CC BY-SA 4.0; short quotation and paraphrase (adapted)
 - Wikisource text cited as S16 — Published 1919 article as reproduced by Wikisource; short quotation (quoted)
