@@ -73,7 +73,7 @@ For each series, list every possible holder:
 - a county or local genealogical or historical society, which may have compiled the only index [S7]
 - FamilySearch, Ancestry, Findmypast and MyHeritage. The presenter says each has contracts with archives and often carries different collections, so check all four [S4], [S7].
 
-When holders are unclear, search the state's vital-records listing in the FamilySearch Catalog or ask a county archivist [S4]. The presenter phoned Raleigh and was told that copies of the city's records were at a Raleigh library and at the state archives. The FamilySearch Catalog then showed city records at the state level [S4]. The library is the Olivia Raney Local History Library (Wake County). It holds microfilm of Raleigh city birth registers for 1890–1938 and death registers for 1887–1937.
+If municipal registers precede statewide registration, search the city and the state catalogue levels and compare their series and coverage. In Raleigh, a call to the city pointed Lefler to a local library and the state archives; the FamilySearch state-level catalogue also identified city records [S4 @2026-11-19]. Wake County's catalogue lists microfilm at the Olivia Raney Local History Library for Raleigh births, 1890–1938 [S36 @2026-11-19], and deaths, 1887–1937 [S37 @2026-11-19]. Use the register for the event year and log each copy's holder.
 
 For each holder, record:
 
@@ -87,7 +87,7 @@ For Nebraska deaths, give the scanned 1904–1955 state death-index books and th
 
 For a statewide Missouri death record, use the Missouri State Archives' death certificate database (1910–1975) and open the free scan when the result links one [S33 @2026-11-18], [S35 @2026-11-18]. Record the latest year posted for the coverage row and keep it separate from the 50-year transfer rule [S32 @2026-11-18], [S33 @2026-11-18], [S34 @2026-11-18].
 
-An index search is also bounded by how that index matches names. Before you record `searched – no hit` in an online state or county index, read its search tips, and treat it as exact-match only unless they promise phonetic or variant matching: smaller state and county indexes often have none, so a one-letter misreading (Bane for Bone) defeats every spelling of the right name [S20 @2026-11-12]. Then run an initials search with wildcards and a search with no name at all, by sex, county and death month and year. The name-free search is what found a 1928 Oklahoma death indexed as Margotte C. Bane, a day off the headstone date [S20 @2026-11-12].
+Read the index's matching rules before logging a failed name search. Oklahoma's OK2Explore returns exact matches, accepts an asterisk as a wildcard and treats blank fields as wildcards [S38 @2026-11-19]. Dyer found a record indexed as Margotte C. Bane by leaving the name blank and searching for a female death in Love County in February 1928. The index gave 12 February, one day later than the headstone. The desired surname was Bone [S20 @2026-11-19]. Try surname and given-name initials with wildcards as a separate search, then compare the certificate, index and headstone before resolving the spelling or date.
 
 Oklahoma's OK2Explore death index works this way: it returns only exact matches, accepts an asterisk as a wildcard in any field, treats a blank field as a wildcard, and asks you to narrow any search that matches more than 15 records. Run the name-free search there with sex, death county and its ±1, 2 or 5-year date range [S21 @2026-11-12].
 
@@ -108,7 +108,7 @@ Each added place gets its own set of authority and series rows. It does not just
 
 ## Treat a delayed certificate as a set of leads
 
-When you find a delayed certificate, record each item in its evidence section as a separate lead with a likely holder. Typical items are a family Bible, a parent's affidavit, a child's birth certificate and school records (school records came from a viewer's report) [S2], [S9]. For a Bible, work out which collateral line holds it [S9], [S5].
+Read the delayed certificate's evidence section and record each item, its date and its likely holder. It may cite a family Bible, a parent's affidavit or a child's birth certificate [S2], [S9]. One researcher reported a school record as supporting evidence [S2]. If a school is named, trace that school's records for the child's years. For a family Bible, identify the collateral branch that kept it [S9], [S5].
 
 From the affidavits and signatures, record these points separately, and keep each affidavit's date apart from the certificate's filing date:
 
