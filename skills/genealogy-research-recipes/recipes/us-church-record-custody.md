@@ -37,9 +37,9 @@ Use an ethnicity or immigrant origin only as a lead to the branch. Do not use it
 
 Before searching, list the record types you expect for each candidate congregation. Mark a record type the branch never created as **never-created**. Do not mark it as missing.
 
-- **Presbyterians** recognized two sacraments, baptism and communion. Expect baptisms to be more productive than marriages. [S10] Request the register (baptisms, marriages, members) and the session minutes as separate series. The minutes record the congregation's business and history. [S12] Look in session and membership records for transfers of membership. Houser found 1700s entries naming the Irish presbytery or parish a family transferred from. [S13]
+- **Presbyterians.** Baptisms can be easier to find than marriages [S10]. Request the register and the session minutes, which document congregational business [S12]. Check admissions for a previous congregation. Eighteenth-century transfers led Houser to the parish he called Cumber, County Derry, for some of his Wilson family [S13]. Search there for the household.
 - **Baptists** practised believer's baptism, so do not expect infant baptisms. [S10] Do not look for confirmation registers. Expect minutes, including women's-group minutes, to be the main surviving series, and search for them first. Do not treat them as a fallback. [S4], [S8]
-- **Seventh Day Baptists:** Tanner reports that his ancestors' congregation kept only membership lists, with no births or deaths. [S1]
+- **Seventh Day Baptists.** Tanner’s Rhode Island congregation kept membership lists without birth or death entries [S1]. Use a dated appearance to trace membership. Check what the particular church recorded before drawing a conclusion about vital events.
 - **Catholics:** expect parish registers of baptisms and marriages [S1], [S4], and expect a death or burial register as well. The Roman Ritual of 1614 gave forms for the parish books, including a book of the dead (*Liber Defunctorum*) [S20]. The Second Plenary Council of Baltimore (1866) told pastors to keep registers of baptisms, confirmations, marriages and funerals [S21]. Brady says many Catholic churches did not record burials, while French Canadian parishes regularly did [S4]. So do not assume every parish kept one. Before you mark it never-created or lost, check what that parish actually recorded and who holds its books now.
 - **Quakers:** expect minutes, membership books and registers of births, marriages and deaths or burials, and certificates of removal when a member moved to another meeting [S22], [S26]. Some meetings kept removal registers; others recorded removals only in the minutes, so check both [S26].
 
@@ -55,7 +55,7 @@ Do not pick the church nearest the census or directory address.
 
 - **Catholic (territorial):** start with the parish whose boundaries cover the address. Check whether the nearest church was a mission or chapel without parish status, in which case its sacraments were recorded at the parish it belonged to. [S1] Record the parish, not just the church.
 - **Chosen-church denominations (e.g. Presbyterian):** members could attend the church they preferred. In rural areas that was often the nearest church. In towns it may have been any of several, reached on foot or by trolley. Keep every congregation of that branch active in the period as a candidate until its registers are checked. [S11]
-- **African American members:** search all local congregations of the denomination, not only historically Black churches. The archivists report finding African American members in the registers of other congregations. [S11]
+- **African American Presbyterians.** Include all Presbyterian congregations active nearby. In Pennsylvania, an archivist found African American members in registers outside the historically Black congregations [S11]. Record which churches and years you checked.
 - **Rural or remote families:** Lefler notes they might use whichever preacher came through, of any denomination. Widen the candidate list across denominations. [S3]
 
 - **Colonial Virginia:** For colonial Virginia, search the territorial Anglican parish’s birth/christening and death/burial registers even when the family belonged to another faith. Establish the parish boundary and surviving years first; a duty to report does not show that a particular event was entered or that its register survives. [S37], [S38]
@@ -67,7 +67,7 @@ Sources for the list:
 - **Community-news columns** (revivals, Bible schools, visiting speakers) to find small or independent churches you did not know existed. [S9], [S18]
 - **Denominational periodicals**, for example the Baptist *Biblical Recorder* in Lisson's area. It was founded in 1833 and moves to digital-only publication after 2026. [S9]
 
-- **Probate inventories:** Use the full probate file to generate church leads. An inventory can name a pew or the meeting house where it lay, as Williams’s example shows. Follow that named congregation into its records; owning or inheriting a pew is a property observation, not proof that the owner attended or belonged to the church. [S42], [S43]
+- **Probate inventories.** Look for pews among the property [S42]. Of Joseph Alden’s two pews in his 1787 Middleborough inventory, only one is located, at Mr. Gurney’s meeting house [S43]. Trace that congregation and leave the other pew unassigned. Neither establishes attendance.
 
 - **Moravian diaries:** For a person near the Moravian settlements of Wachovia, include the published Records of the Moravians in North Carolina. Its translated excerpts from congregation diaries, travel diaries and annual accounts discuss neighbours as well as Moravians. Follow an item to the cited diary or archival locator where needed, and keep a neighbour’s mention separate from evidence of Moravian membership. [S44], [S45]
 
@@ -76,19 +76,19 @@ For each candidate, record: name, branch, place name as it changed, dates active
 ## Work the officiant
 
 - Read the minister's return as well as the license. Record the officiant's name and literal title. "M.G." means minister of the gospel and does not identify a denomination. [S17]
-- If the name is badly written, compare the same officiant's other entries in that register. Check whether he married siblings or other relatives. In Starkey's example, two siblings were married by the same pastor, and his church was still at the address given on the records. [S16], [S17]
+- Compare an unclear officiant’s signature with relatives’ marriage returns [S17]. Two New York City certificates named the same parents and officiant. Searching their shared **347 East 74th Street** address led Starkey to the church office [S16]. Check the officiant and address in a directory from the marriage year.
 - Find his church through city directories or newspapers. [S17] Then ask that church for its own entry. It may include details the civil record leaves out, such as birthplace. [S16]
-- Search the archive catalogue under the pastor's name for personal pastoral registers. The Presbyterian Historical Society catalogues them that way. Record his dated service at each church. The archivists found that the registers they hold mostly show service at one church after another, with few overlaps. Still check for overlapping service before ruling a church out. [S11]
+- Search under the minister’s own name for a personal register. Presbyterian Historical Society archivists describe cataloguing pastoral registers this way and finding mostly successive appointments in the volumes they handled [S11]. List the dates served at each church and check possible overlaps.
 
 ## Read circuit entries without moving the family
 
 - Baptisms clustered at intervals (for example every six weeks) suggest a visiting minister. Search the other churches he served. [S15]
 - Start at the nearest church, then widen the search. Check the other congregations in the same charge, the pastor's private registers (which he may never have copied into the congregation's book) and churches across nearby county lines. [S14]
-- A circuit preacher may have recorded an act somewhere other than where it took place, or may not have recorded it at all. [S3] An entry in a distant book does not show residence or attendance. Beidler gives the example of western Berks County families who appear in the register of an eastern Berks County church only because they shared its pastor. [S14]
+- Record the register title, event location and residence separately. A circuit minister could record a ceremony elsewhere or omit it [S3]. Western Berks County marriages appear in an eastern church’s book because its pastor served both congregations [S14]. Check his appointments before assigning a venue.
 
 - **Delayed baptism:** A baptism search confined to the birth year is incomplete. For a child served by visiting clergy, search the following years as well: baptisms could occur months or years after birth, and several siblings could be baptized together. Keep the stated birth and baptism dates separate; do not impose a one- or two-year maximum delay. [S33]
 
-- **Later copying:** Separate a delayed baptism from a delayed entry. Reynolds proposes that a minister’s private notes were copied into the English register later; test that mechanism against this register’s hand, dates and copying statements rather than assuming every U.S. book was entered contemporaneously. [S34]
+- **Later copying.** At Little Wymondley, a certification dated 12 July 1867 follows Arthur Hose’s 1 November 1866 baptism and identifies the 1866 entries as copies. Reynolds suggests the minister used private notes. The certification does not identify his source [S34]. In a U.S. book, transcribe comparable copying statements and distinguish baptism dates from copying dates.
 
 ## Trace custody for a closed or unknown congregation
 
