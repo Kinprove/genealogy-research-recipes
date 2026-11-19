@@ -50,7 +50,7 @@ This recipe covers the cross-platform discovery of a book. Some steps overlap wi
 **Label every tool you plan to use with its search type:**
 
 - **Catalogue search** (WorldCat, a library OPAC) matches only the terms cataloguers assigned. WorldCat does not search a book's contents [S2], [S12]. Some records include a table of contents or a summary, and those are searched too.
-- **OCR full-text search** matches words inside the scanned pages. MyHeritage's book collection (Compilation of Published Sources) is OCR'd and searchable page by page [S12]. Google Books searches the text of the books it has scanned. A quoted search for the presenter's great-grandfather returned about 154 books that mention him. Google Books also searches inside snippet-view books, not only "read" (full view) books. For a snippet-view book it shows only a few snippets around the term, not every page where the term appears [S6], [S15]. HathiTrust's full-text search matches the OCR text and lists individual volumes.
+- **OCR full-text search** looks for words inside scanned pages, including names absent from the catalogue record. Run a quoted name and spelling variants in Google Books and in full-text collections such as MyHeritage’s Compilation of Published Sources or HathiTrust [S6], [S12], [S15]. Google Books can return a snippet without showing all the matching pages. Record the volume and edition, then obtain the page in an accessible copy.
 
 **Know which search each tool runs before you count a zero as a negative:**
 
@@ -71,7 +71,7 @@ On any full-text tool, including HathiTrust, a zero result can come from an OCR 
 
 **Don't type the ancestor's name into a catalogue and stop.** A catalogue is arranged by subject categories and is not a word-for-word transcription. Searching by name and finding nothing is the failure this recipe exists to prevent [S2].
 
-**Write the queries as subject descriptions.** Use terms such as the locality's history, early settlement, the county or the religious group. The teaching example is a Joseph City, Arizona settler: the presenter looks for him under Arizona history and early settlement, not under his name [S2].
+**Write the queries as subject descriptions.** For a Joseph City settler, try Arizona history, early settlement and the town or religious community [S2]. A catalogue record can describe the community while omitting the settler. Search that person's name inside the books the subject search identifies.
 
 **Use P. William Filby's *A Bibliography of American County Histories* as another title finder.** The Family History Library's Ohio research outline recommends the 1985 bibliography for local histories [S54]. Carry a discovered title, author and edition into current catalogues, and also search regional titles covering the locality rather than limiting the query to a single-county title [S58].
 
@@ -83,9 +83,7 @@ On any full-text tool, including HathiTrust, a zero result can come from an OCR 
 
 **Read WorldCat records critically:**
 
-- The presenter found two WorldCat records for one 1964 book. They were not two editions: two libraries had catalogued the same book differently, and one record had a truncated title [S6].
-- Compare imprint, date and full title before you count editions.
-- Keep each record's identifier when you do.
+- Compare the full title, author, imprint, date and pagination before counting editions. Two WorldCat descriptions of the same 1964 book about Henry Martin Tanner used different title lengths [S6]. Keep both identifiers and their holdings, and use the title page to decide whether they describe the same edition.
 
 **Expand a WorldCat result to check for a later printing.** Just Genealogy suggests this step, according to the transcript excerpt [S64† @2026-11-18]. Open **View All Formats & Editions** when offered and use the **Sign in** prompt to see the full list [S65 @2026-11-18]. A single search result can group records for different editions and formats [S66 @2026-11-18]. Compare the imprint and date, then check holdings for the printing you need.
 
@@ -103,7 +101,7 @@ On any full-text tool, including HathiTrust, a zero result can come from an OCR 
 - Online, use the catalogue's subject or call-number browse.
 - Check each volume's index or full text for the surname.
 
-In the presenter's Vermont example, a single Vermont-history hit led him to the social sciences section. Working through every book in that range turned up a transcribed probate record for his ancestor that he did not know existed [S10].
+Use a relevant catalogue hit to identify a shelf range. At BYU, a Vermont history volume led to neighbouring books in the social sciences section, where an index pointed to a transcribed probate record [S10]. Note the range and indexes inspected, then verify the transcription against the probate file.
 
 **Repeat the browse under every other plausible classification.** The presenters give several reasons:
 
@@ -124,15 +122,15 @@ without evidence that it applies there.
 
 **Within digitised county histories and compiled genealogies, run full-text searches for the surname.** Don't rely on the title, the table of contents or the printed index. The presenter found that many county-history indexes list only the main subject of each biographical sketch [S8].
 
-**Expect hits on people who are not the sketch's subject.** In the presenter's example, a sketch of another man gave details about the wife's natal Barnes family, which the table of contents did not list. Other hits were people listed as members of a church, which pointed to the church records [S8].
+**Look for people named inside someone else's sketch.** A county-history sketch named Effie Barnes as the daughter of John and Emma even though Barnes was absent from the table of contents. A separate surname hit appeared on a church membership list [S8]. Record the page and whether it names a relative or a church member, then follow the appropriate family or congregation records.
 
-**When the ancestor has no sketch, look for each child's.** County-history sketches often name the subject's parents, siblings and children and give the family's ancestry and migration [S45]. A child's sketch can therefore describe a parent who has no entry and whom an index of main subjects does not list, as the presenter reports of such indexes [S44], [S8†]. List the known children, then search the index and the full text for each child by name. Add each daughter's husband, because a wife's family can appear in her husband's sketch, as in the Barnes example the presenter reports above [S8†]. Take what a child's sketch says about the parent as a lead: county histories often do not say where their information came from [S45]. Verify it as in [section 8](#8-treat-snippets-incidental-mentions-and-transcriptions-as-leads).
+**When the ancestor has no sketch, look for each child's.** A child's biography may name a parent who has no entry [S44]. Search the index and full text for each child and each daughter's husband. A sketch indexed under the husband's name can identify his wife's parents [S8]. Treat the relationship, origin and migration reported by a county history as leads until independently verified [S45]. Follow [section 8](#8-treat-snippets-incidental-mentions-and-transcriptions-as-leads).
 
 **If the immigrant lacks a named sketch, extend the search to documented later descendants.** The Maine examples described in the Bangor Daily News include parents' and earlier generations' origins inside descendants' biographies [S53]. Extract the literal origin statement, whose ancestor it concerns and the relationship asserted. Use it to choose an origin search; a sketch does not guarantee an exact birth town [S57].
 
 **For a late-nineteenth- or early-twentieth-century mug book, check its subscription and biography-selection process.** Frevert describes advance subscribers buying inclusion and sometimes portraits, and subjects editing their sketches [S52]. A missing biography does not establish absence from the locality or lack of status. Treat the published sketch as a contributed account and pursue its named people, places and events in other records [S56].
 
-**Search compiled-genealogy collections by surname keyword as well as by title.** A presenter found apparent collateral relatives in a book titled for a different family. She recorded it as an unresearched lead [S5].
+**Search a compiled-genealogy collection by surname keyword.** A search inside a book titled for another family turned up several familiar names and a possible collateral relative [S5]. Record the page and the proposed relationship separately, then look for each link in independent records.
 
 **Search Google Books for the ancestor's name across all books, not only full-view ones.** For a common name, put the full name in quotation marks and add a place or occupation qualifier [S6]. Record every query string exactly as you ran it.
 
@@ -198,16 +196,12 @@ verified here; use the procedure to check the actual case rather than copy its e
 
 **Treat each platform's statement as that platform's own knowledge only:**
 
-- **Google Books "No eBook available"** is the Google Play purchase box. It means Google doesn't sell the book as an ebook. It does not mean Google has no scan, and snippet-view and preview books often show it too. Use the view label to judge Google's own access, and keep looking elsewhere. In the teaching example, a book marked this way had a complete, downloadable copy in FamilySearch Books [S6], [S15].
+- **Check the book's viewing options separately from its purchase options.** Google Books showed “No eBook available” for a 1964 volume on Henry Martin Tanner of Joseph City, Arizona. A search by name and place located a complete downloadable copy at FamilySearch Books [S6], [S15]. Record the holding and the extent actually visible at each host.
 - **Google Books "preview" or "snippet"** is that platform's access level only. Look up the same book at Internet Archive or HathiTrust [S11].
-- **A locked HathiTrust item** may be accessible elsewhere. The rules are:
-  - Anyone can read public-domain "Full view" items without logging in.
-  - Non-members can download whole public-domain volumes that carry no download restriction, such as items digitised by Internet Archive or released under Creative Commons.
-  - For restricted items, mainly those digitised by Google, non-members can download only one page at a time.
-  - Members of partner institutions can download all public-domain works in full.
-  - Copyrighted limited (search-only) books stay closed even to members logging in through their institution. HathiTrust says it cannot provide access to them.
-  - Full view also depends on the country you search from. In 2026, works published in the U.S. in 1930 or earlier, or elsewhere in 1900 or earlier, are public domain for everyone. Works published outside the U.S. from 1901 to 1930 open in full view only from a U.S. IP address and show as "Limited (search-only)" elsewhere. Works from 1931 on are in copyright. These years move forward each January, and the rights code on the volume decides; the code `icus` opens a volume only outside the U.S. [S29], [S30], [S37].
-  - HathiTrust's default search lists only items you can read, so outside the U.S. set Item Viewability to All Items to see that a volume exists [S31]. Its Bibliographic API reports the view for a U.S. user, so a "Full View" there is not the answer for a reader elsewhere [S32].
+
+- **Check the HathiTrust volume's rights and download options [S67 @2026-11-19].** Anyone can read a public-domain Full View item. Visitors can download unrestricted public-domain volumes in full, including many scanned by Internet Archive and items released under Creative Commons. For vendor-restricted scans, visitors can download single pages. Users signed in through a member library can download full public-domain volumes [S67 @2026-11-19]. A member login alone does not open a search-only copyrighted volume for ordinary reading [S67 @2026-11-19].
+  - Check the place and date of publication and the item's rights code. HathiTrust's 2026 guidance treats U.S. publications through 1930 and non-U.S. publications through 1900 as public domain. For non-U.S. publications from 1901 through 1930, its default full-view access applies from a U.S. IP address. For 1931 and later it generally treats the item as in copyright, subject to the individual volume's rights. Recheck the current thresholds when repeating a search [S29 @2026-11-19]. The code `pdus` restricts full view to a U.S. IP address, and `icus` to locations outside the U.S. [S30 @2026-11-19].
+  - To find volumes outside the default viewable set, choose All Items under Item Viewability [S31 @2026-11-19]. The Bibliographic API documents `usRightsString` as the U.S. user's view. Check the volume page from your own location before recording access [S32 @2026-11-19].
 
   Google digitised most HathiTrust content, so check Google Books for a locked item, as the presenter does [S7 @2026-11-08]. Google Books also decides what a reader may view from the reader's country and IP address [S33 @2026-11-08].
 - **A FamilySearch access-restriction message** (such as "not authorized to view") means the book is restricted, not missing. FamilySearch gives each book one of three access levels, shown in its search result and in the Access Level filter [S34 @2026-11-08]:
@@ -225,12 +219,12 @@ verified here; use the procedure to check the actual case rather than copy its e
 
 ## 6. Open the copy and cite the real host
 
-**Open every claimed online copy and confirm it shows the book's content before you record it.** In the presenter's search for a rare 1964 family book, a "free ebook" page turned out to be an ad-driven clickbait site [S6].
+**Verify a claimed digital copy.** A result advertising a free copy of the 1964 Tanner book led to advertisements [S6]. Open the title page and the relevant printed page. If neither is available, record the listing as a lead and try a library holding.
 
 **Use an aggregator hit to find the host institution's item, then cite that host:**
 
 - DPLA collects other institutions' metadata and does not hold the objects. Follow the hit to the host's item page for the object, its rights and download options [S7].
-- On Internet Archive, near-identical item titles may hide the distinguishing range in the metadata. Read the sponsor field and check the sponsor's own site. In the presenter's case, the sponsor was Allen County Public Library, whose own site she found much easier to search [S14].
+- On Internet Archive, compare the date range, volume and sponsor for near-identical titles. When the sponsor field names a library such as Allen County Public Library, use its catalogue or collection index to identify the right item, then match its details back to the scan [S14].
 
 Record both the aggregator locator and the host or sponsor locator.
 
