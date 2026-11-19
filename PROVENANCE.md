@@ -832,7 +832,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [local-repository-uncatalogued-holdings](provenance/local-repository-uncatalogued-holdings.yml) | 10 | 10 | 0 | — |
 | [maiden-name-recovery](provenance/maiden-name-recovery.yml) | 0 | 0 | 0 | — |
 | [manuscript-collection-recovery](provenance/manuscript-collection-recovery.yml) | 36 | 28 | 1 | — |
-| [marks-and-brands-record-recovery](provenance/marks-and-brands-record-recovery.yml) | 1 | 2 | 0 | — |
+| [marks-and-brands-record-recovery](provenance/marks-and-brands-record-recovery.yml) | 0 | 1 | 0 | — |
 | [mayflower-and-great-migration-genealogies](provenance/mayflower-and-great-migration-genealogies.yml) | 0 | 0 | 0 | — |
 | [memorial-card-and-coffin-plate-evidence](provenance/memorial-card-and-coffin-plate-evidence.yml) | 0 | 0 | 0 | — |
 | [missing-marriage-jurisdiction-search](provenance/missing-marriage-jurisdiction-search.yml) | 27 | 14 | 0 | — |

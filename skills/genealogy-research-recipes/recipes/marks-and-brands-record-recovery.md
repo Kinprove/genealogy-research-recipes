@@ -6,7 +6,7 @@ kind: "records"
 scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
-guardrails: [{"id": "MARKS-AND-BRANDS-RECORD-RECOVERY-01", "text": "Read the index headings and arrangement before searching by the owner's surname. A design initial can be the filing key: the teaching example finds an owner under the letter beginning the brand, rather than the owner's surname."}]
+guardrails: [{"id": "MARKS-AND-BRANDS-RECORD-RECOVERY-01", "text": "Read the index headings before searching by the owner’s surname."}]
 handoff: []
 checked: null
 checked_basis: null
@@ -23,12 +23,9 @@ for grants and conveyances and [evidence/proof judgment](evidence-proof-judgment
 
 ## Follow the actual index key
 
-Read the index headings and arrangement before searching by the owner's surname. A design
-initial can be the filing key: the teaching example finds an owner under the letter beginning
-the brand, rather than the owner's surname. Establish this from the supplied index; do not
-generalize that arrangement to every brand book. [S1]
+Read the index headings before searching by the owner’s surname. In the Milam County example, the owner’s entry was filed under the initial of the brand design [S1]. Follow the index reference to the recorded drawing and owner.
 
-The Legal Genealogist recommends searching for town or county livestock mark registers with the terms brand, mark and earmark in the FamilySearch catalog, Google Books, HathiTrust and Internet Archive, and says such registers generally do not sit inside books of births, marriages and deaths, although the one discussed did. [S2] In that example, from Shaftsbury, Vermont, a reader's find that the author discusses, with entries from 1766 onward, a registration places the owner in town and notations such as "dead" or "moved away" stand in for missing death or deed evidence, but the author offers this only for use "in a pinch" and says the town's purpose was "potentially" to free the mark for reuse. [S2] Treat this as one reported example, usable only where a register actually carries such annotations, rather than as settled proof of a death or a move. [S2]
+The Legal Genealogist recommends searching for town or county livestock mark registers with the terms brand, mark and earmark in the FamilySearch catalog, Google Books, HathiTrust and Internet Archive, and says such registers generally do not sit inside books of births, marriages and deaths, although the one discussed did. [S2] The Shaftsbury, Vermont register, with entries from 1766, included annotations such as “dead” or “moved away” [S2]. Use the dated registration to place the owner in town and an annotation as a lead to a death or move. Check the event in other records before giving it a date.
 
 Retain the index entry number, literal owner name, visible brand/earmark representation and
 referenced register volume/page separately. An index entry number is not a register page.
