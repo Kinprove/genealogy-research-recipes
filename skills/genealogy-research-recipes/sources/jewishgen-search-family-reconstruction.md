@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Rights: third-party sources are cited for attribution and are not reproduced. The expression and retrieval sequence are Kinprove's original distillation.
-
 Practitioner material, read in the preserved source bodies:
 
 1. *Jewish Genealogy Research (Poland, Galicia, Lithuania, Eastern European)* — Genealogy Gems, uploaded 2021-05-20 — [video](https://www.youtube.com/watch?v=eB5KRGKSC1M).
@@ -59,9 +57,9 @@ the Miriam Weiner Archive locator advice, which rests on entry 13 alone. JewishG
 catalogue lists the Miriam Weiner Routes to Roots Collection: Belarus
 Records as searchable (last updated 2020-05-06), although the Belarus page's database list does not
 show it; JewishGen's pages did not confirm that an entry's details give the archive, fond, opis and
-delo. The recipe text was not changed.
+delo.
 
-## Additional sources checked 2026-11-16
+## Sources 19–21
 
 19. Translating a Book at No Cost with Passable Results, [Translating a Book at No Cost with Passable Results](https://www.beholdgenealogy.com/blog/?p=3874), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope. <!-- markdownlint-disable-line MD029 -->
 20. JewishGen Yizkor Book Project, Frequently Asked Questions, [JewishGen Yizkor Book Project, Frequently Asked Questions](https://www.jewishgen.org/Yizkor/faq.html), opened 2026-11-16. Read questions 5, 6 and 9: locate community or regional books and inspect what translation material is actually linked; a listed book is not a full translation. <!-- markdownlint-disable-line MD029 -->

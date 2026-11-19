@@ -49,7 +49,7 @@ The decision order, the period and diocese routing, the survival-before-loss che
 - **S44:** PARES, [Movimientos Migratorios: búsqueda](https://pares.cultura.gob.es/MovimientosMigratorios/buscadorAvanzadoFilter.form), read 2026-11-13. Used for: the search fields (name, birth year, place and year of departure or arrival) and the series it covers.
 - **S45:** BOE, [Ley del Notariado, original text of art. 37](https://www.boe.es/buscar/act.php?id=BOE-A-1862-4073&b=44&tn=1&p=18620529) (1862 version, in force until 8 November 2023), read 2026-11-13. Used for: protocols more than 25 years old going to the general archive.
 
-### Additional sources checked 2026-11-16
+### Sources S46–S49
 
 - **S46:** spanish-genealogy, [Spanish Civil Records: TEN THINGS You Should Know to Research Your Family Tree](https://www.youtube.com/watch?v=u_e47_rmT9k). Only a transcript excerpt was read 2026-11-16 from the copy scraped 2026-11-10; video playback was not inspected. Used for the corrected method addition.
 

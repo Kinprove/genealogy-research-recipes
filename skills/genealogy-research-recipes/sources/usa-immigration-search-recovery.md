@@ -330,7 +330,7 @@ the relevant workflow. Community references:
     to date. Its 1869–1924 birth-year range and its counts are not adopted; step 11 uses
     NARA's own transfer rule and counts (47).
 
-## Additional sources checked 2026-11-16
+## Sources 68–104
 
 68. Research Around the World, [Research Around the World](https://www.pricegen.com/research-around-the-world/), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope. <!-- markdownlint-disable-line MD029 -->
 69. FamilySearch, United States, Border Crossings from Mexico to United States, 1903–1957, [FamilySearch, United States, Border Crossings from Mexico to United States, 1903–1957](https://www.familysearch.org/en/search/collection/1803932), opened 2026-11-16. Collection description read: an index of aliens and citizens crossing various Mexican-border ports, 1903–1957; not a complete record of every crossing. <!-- markdownlint-disable-line MD029 -->
@@ -349,8 +349,6 @@ the relevant workflow. Community references:
 82. Pennsylvania Historical and Museum Commission, Oaths of Fidelity and Abjuration, [Pennsylvania Historical and Museum Commission, Oaths of Fidelity and Abjuration](https://www.phmc.state.pa.us/portal/communities/documents/1681-1776/oaths-fidelity.html), opened 2026-11-16. Read for the 1727 requirement that foreign males aged 16 and over take an allegiance oath. An arrival oath is not itself a naturalization proceeding. <!-- markdownlint-disable-line MD029 -->
 83. World War I U.S. Alien Registration Records, [World War I U.S. Alien Registration Records](https://www.pricegen.com/world-war-i-u-s-alien-registration-records/), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope. <!-- markdownlint-disable-line MD029 -->
 84. NARA, World War I Enemy Alien Records, [NARA, World War I Enemy Alien Records](https://www.archives.gov/research/immigration/enemy-aliens/ww1), opened 2026-11-16. Read registration-survival qualifications, RG 118 versus selected courts, DOJ index NAID 602456 to Class 9 NAID 599528, and State Department name index NAID 581008. No individual file was inspected. <!-- markdownlint-disable-line MD029 -->
-
-## Additional sources checked 2026-11-18
 
 85. Aryn S. Youngless, Family Tree Magazine, *Writing a New Narrative: Turning Genealogical Details into Family Stories*, 7 October 2026. <https://familytreemagazine.com/storytelling/writing/writing-a-new-narrative-turning-genealogical-details-into-family-stories/> Article read on 2026-11-18. Youngless suggests comparing the fare payer, cash, party and destination as leads. The hypothetical motives are left open. <!-- markdownlint-disable-line MD029 -->
 86. National Archives, *List or Manifest of Alien Passengers for the United States*, 1912 New York arrival sample. <https://www.archives.gov/files/nyc/education/images/passenger-arrival.pdf> Sample form read on 2026-11-18. It includes a fare-payer column on the steerage form. The sample does not establish uniform fields across forms. <!-- markdownlint-disable-line MD029 -->

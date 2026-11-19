@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Rights: every source below is a third-party work cited for attribution only — its content remains © its creator/publisher and is **not reproduced** here. The recipe text is Kinprove's own distillation.
-
 The following dates are video upload dates, not independently established session dates.
 
 - **S1:** *Get the Most from the MyHeritage Search Engine for Historical Records*, MyHeritage,
@@ -100,7 +98,7 @@ howto 12 now name that capture and its date. H11 records no address and could no
 howto 5 no longer cites it and describes the option to show results from other languages in H1's
 words instead of quoting the switch label. The videos S1 to S9, S12 and S13 were not rechecked.
 
-### Additional sources checked 2026-11-16
+### Sources S14–S19
 
 - **S14:** [MyHeritage Help: Filtering Record Matches](https://www.myheritage.com/help/en/articles/12851479-how-can-i-filter-my-record-matches), read 2026-11-16. Used for: Settings, confidence slider and record-type filters; no numeric0–5 range, increments or default verified.
 - **S15:** [MyHeritage Education: Getting the most out of Record Matches](https://education.myheritage.com/article/how-to-get-the-most-out-of-record-matches/), read 2026-11-16. Used for: matches to Geni, FamilySearch and WikiTree being other users’ trees rather than historical records.
@@ -116,7 +114,7 @@ techniques were not adopted. Most were collection announcements or advice the re
 Some could not be confirmed at a source opened that day: MyHeritage's collection pages, their
 Internet Archive captures and Tacoma Public Library's index page returned no readable content.
 
-### Additional sources checked 2026-11-18
+### Sources S20–S27
 
 - **S20:** Esther Shuman, MyHeritage Blog (community source), [MyHeritage Releases New York City Birth, Marriage, and Death Record Collections](https://blog.myheritage.com/2024/05/myheritage-releases-new-york-city-birth-marriage-and-death-record-collections/), published 2024-05-01, read 2026-11-18. The publisher describes searchable parents, one birth search by the mother's name, the grouping of both marriage record types when available, and witnesses and death reporters omitted from the index. Its marriage example illustrates witness addresses and signatures. The public collection links for marriages and deaths returned no readable form, so the guidance for those collections is based on the published description and examples. No signed-in viewer or subscription was tested. Rights: cited reference, not reproduced.
 - **S21:** MyHeritage, [New York City Births, 1866–1909](https://www.myheritage.com/research/collection-20810/new-york-new-york-city-births-1866-1909), public collection description and search form read 2026-11-18. The form has a dedicated Mother field. No query was submitted. Rights: cited reference, not reproduced.

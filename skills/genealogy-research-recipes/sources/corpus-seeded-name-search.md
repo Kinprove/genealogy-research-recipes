@@ -61,7 +61,7 @@ S32 to S41 were read on 2026-11-12. Not verified independently: the call-name ex
 
 S42 to S46 were read on 2026-11-15. Not verified independently: the 1875 Efremov count (S42), the Фомин–Хамин identification (S45) and how often clerks wrote ф for хв (S44).
 
-## Additional sources checked 2026-11-16
+## Sources S47–S57
 
 - **S47:** [IrishGenealogy: Church records help](https://www.irishgenealogy.ie/help-with-searching-the-church-records/), read 2026-11-16. Used for: O’Brien, O Brien and Obrien forms; variants are search keys, not proof of relationships.
 - **S48:** [Yvette Hoitink: Prefixes in surnames](https://www.dutchgenealogy.nl/prefixes-in-surnames/), read 2026-11-16. Used for: Dutch filing under the surname root and separate prefix fields; the author’s comment also describes joined forms in Belgium.

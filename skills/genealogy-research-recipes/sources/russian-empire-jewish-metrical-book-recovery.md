@@ -19,14 +19,14 @@
 
 The full-image transcription, competing-requester hypotheses, later-name search and holding-archive questions in section 7 are authored procedure. The invented issue-note example is illustrative, not a transcription of an inspected record. S12 supports only the expressly limited catalogue example.
 
-### Sources added 2026-11-15
+### Sources S13–S14
 
 S14 is a post on the Dzen channel «Сыщик рода», read on 2026-11-15 from a copy captured that day, without its images; its archive example applies only to Moscow guberniya.
 
 - **S13:** КонсультантПлюс, ["Федеральный закон «Об актах гражданского состояния» № 143-ФЗ, ст. 77"](https://www.consultant.ru/document/cons_doc_LAW_16758/7bffa90c9f7761365b38aa5eb603a386d4c6c4c5/), edition of 04.08.2026, read 2026-11-15. Used for: act books kept in the civil-registration bodies for one hundred years from the drawing up of the records, then transferred to the state archives.
 - **S14:** Dzen channel «Сыщик рода», [«Справка ЗАГС с иными сведениями - новый объект охоты генеалогов!»](https://dzen.ru/a/ZKfCSy2Tyz1eDC1M), published 2023-08-02, read 2026-11-15 from a captured copy. Used for: Art. 77 applied to early Soviet act records of 1918 to about 1926, to be sought in regional archives, and the Central State Archive of Moscow Oblast named as the holder of Moscow guberniya act records.
 
-### Sources added 2026-11-16
+### Sources S15–S18
 
 S15 is a vendor's announcement post, cited as the community source for the Odesa birth-index bullet in section 3; its record count and its "1878 to 1900" description date from 2022. S17 corrects that description: the index submitted to JewishGen covers only listed years within the span. S16–S18 supply the current collection listing, the index's fields and years, and fond 39's survival. Reading a miss against the project's year list, and the order of index, then book, then a separate version, are authored synthesis.
 
@@ -35,7 +35,7 @@ S15 is a vendor's announcement post, cited as the community source for the Odesa
 - **S17:** JewishGen Ukraine Research Division, ["Project: Data Acquisition and Translation for Birth, Marriage, Death Record, 1894-1902, Odessa"](https://www.jewishgen.org/ukraine/RES_Project.asp?id=625), no last-updated date shown, read 2026-11-16. Used for: indexes to the Odessa birth, marriage and death books that "contain the given name, surname, year and month of event and the location in the actual birth records book"; and "Translations submitted to JewishGen for Odessa birth indexes: 56,029 lines from 1878-1889, 1891, 1894, 1896-1897, 1900." The project is shown as in progress. Its per-year list of completed birth indexes omits 1882, which the summary range includes. Rights: rights retained by JewishGen; paraphrased, with short quotations.
 - **S18:** JewishGen Ukraine Research Division, ["Rabbinate Records, Fond 39, Odessa City"](https://www.jewishgen.org/ukraine/RES_collection.asp?id=1346), catalogue-of-holdings entry, read 2026-11-16. Used for: fond 39 holding 449 files for 1846–1920, with records for 1875–1919 "completely intact" and only births surviving for 1920. This is JewishGen's description of the Odessa State Archives' holdings, not the archive's own catalogue. Rights: rights retained by JewishGen; paraphrased.
 
-### Sources added 2026-11-17
+### Sources S19–S23
 
 S19 and S22 are posts on the Dzen channel «История одной семьи. Юлия Новожилова», read on 2026-11-15 from copies captured that day, without their images; they report the author's own requests and readings. The other sources were opened on 2026-11-16.
 

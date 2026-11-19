@@ -17,7 +17,7 @@
 
 The order of steps (jurisdiction first, then whole-volume reading with a coverage register, then Torrey decoding) and the output packet are authored synthesis. The sources supply the reading practice, the parent-town principle with its example, and the Torrey walkthrough. Torrey's notation rules are taken from his key as quoted on FamilySearch, not from the presenter.
 
-### Additional sources checked 2026-11-16
+### Sources S15–S22
 
 - **S15:** Price Genealogy, [Researching Your Colonial Ancestors, Part II [249 Years of American Independence]](https://www.pricegen.com/researching-your-colonial-ancestors-part-ii-249-years-of-american-independence/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
 
@@ -26,8 +26,6 @@ The order of steps (jurisdiction first, then whole-volume reading with a coverag
 - **S17:** Salem Public Library, NOBLE Digital Heritage, [Massachusetts Vital Records to 1850](https://omeka-s.noblenet.org/s/salem/item/11544). Passage read 2026-11-16. Used for: The Tan Books compile town, church and private records, gravestone inscriptions and newspaper articles.
 
 - **S18:** FamilySearch Wiki, [Massachusetts Land and Property](https://www.familysearch.org/en/wiki/Massachusetts_Land_and_Property). Passage read 2026-11-16. Used for: Town-level original allotments and county/district Registry of Deeds conveyance records; choose the registry by the town.
-
-### Additional sources checked 2026-11-18
 
 - **S19:** Community video, [Boston Beginnings – A List of Early Inhabitants before 1700 – Book for a Discount – JG0258](https://www.youtube.com/watch?v=-abtpkE93yU), published 2022-11-24. Supplied transcript excerpts read in full on 2026-11-18. The YouTube fetch returned a cache miss. Used for: The presenter’s suggested use of Holbrook and the printed reports, and the birth and marriage coverage leads checked against the ninth report. Holbrook’s exact citation conventions remain unverified.
 

@@ -75,7 +75,7 @@ Several of the S2 and S9 routes come from a few experienced participants, and th
 - **S46:** Закон України № 3262-IV «Про доступ до судових рішень», art. 7, [Internet Archive capture of 24 December 2024 of the official print page](https://web.archive.org/web/20241224205839/https://zakon.rada.gov.ua/laws/show/3262-15/print), read 2026-11-13 (the live site timed out). Used for: identifying details in published decisions replaced by letters or numbers.
 - **S47:** Чечельницький районний суд Вінницької області, [рішення від 08.12.2025 у справі № 129/2514/25](https://reyestr.court.gov.ua/Review/132430639), read 2026-11-13. Used for: the Odesa oblast archive's reference of 17 January 2025 that the 1930 birth register of Kodyma never reached the archive and is considered lost in 1941–1944.
 
-### Sources added 2026-11-15
+### Sources S48–S65
 
 S50, S54, S57, S61 and S64 are posts on the Dzen channels «Поиск предков: Тульская губерния» and «Сыщик рода», read on 2026-11-15 from copies captured that day, without their images. They report their authors' own searches and advice; each applies only to the archive, region and years it names. S52, S58 and S59 are guides by a heritage service, a genealogist's blog and a family-history company, S55 is a researcher's commentary in a genealogy community, and S60 is one researcher's forum post. ГИС УИАД itself (online.archives.ru) did not answer a connection on 2026-11-15, so the recipe gives its launch terms and the 2025 change as dated reports.
 
@@ -98,7 +98,7 @@ S50, S54, S57, S61 and S64 are posts on the Dzen channels «Поиск пред�
 - **S64:** Dzen channel «Сыщик рода», [«Как похозяйственные книги помогут в поиске предков?»](https://dzen.ru/a/ZJ1uiEm60gGvjfoH), published 2023-07-05, read 2026-11-15 from a captured copy. Used for: kinship proof required for household books less than 75 years old; the author's emailed request stating each person's relation and offering kinship documents; and certified copies of a family's books for 1936–1961 received by post from a municipal archive.
 - **S65:** КонсультантПлюс, ["Федеральный закон «Об актах гражданского состояния» № 143-ФЗ, ст. 9"](https://www.consultant.ru/document/cons_doc_LAW_16758/1b062c16d27cfdeecb6e2dd2fcc76e226df3c11f/), edition of 04.08.2026, read 2026-11-15 (the page S25 cites, read again for Part 2) and again 2026-11-16. Used for: Part 2, a repeat certificate issued to a relative of the deceased or another interested person when the person named in the record has died; and, from the 2026-11-16 reading, Part 2's other recipients (the person named in the record; parents while the person named in a birth record is under 18, and after that only for another document confirming the birth registration; and a holder of a notarised power of attorney) and Part 7 (an identity document and documents proving the right to receive the document).
 
-### Sources added 2026-11-16
+### Sources S66–S116
 
 S67, S68, S69, S71, S76, S77, S78, S81, S83, S85, S86, S88, S92, S96, S97, S98, S103, S104, S105, S106, S107, S111, S112 and S113 are posts on the Dzen channel «История одной семьи. Юлия Новожилова», read on 2026-11-15 from copies captured that day, without their images. They report the author's own searches, archive replies and advice; each applies only to the archive, region and years it names. Posts whose titles name the author's relatives are described instead of quoted. The legal texts were read in the editions the cited pages carried on 2026-11-16.
 

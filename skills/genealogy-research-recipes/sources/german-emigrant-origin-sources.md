@@ -28,7 +28,7 @@ Forum participants (S7–S11) supply worked examples of home-side local records,
 
 Corrections to the lectures rest on outside authorities.
 
-## Additional sources checked 2026-11-16
+## Sources S17–S20
 
 - **S17:** German Influences in the United States Part 2, [German Influences in the United States Part 2](https://www.pricegen.com/german-influences-in-the-united-states/), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope.
 - **S18:** U.S. Census Bureau, 1870 Census Instructions to Assistant Marshals, [U.S. Census Bureau, 1870 Census Instructions to Assistant Marshals](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1870/1870-instructions.html), opened 2026-11-16. Read column 10 instructions: name the German state instead of Germany. The instruction does not prove enumerator compliance or a precise town.

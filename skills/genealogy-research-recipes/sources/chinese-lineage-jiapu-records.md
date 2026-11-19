@@ -18,12 +18,10 @@ the presenters' romanized readings of names; the 1104 founder
 date and the 95% placement; the placeholder-wife convention. The exact Western day of the
 Tongzhi example is not adopted until it is checked in a conversion table.
 
-## Additional sources checked 2026-11-16
+## Sources S11–S14
 
 - **S11:** Chinese Lunar New Year, [Chinese Lunar New Year](https://www.pricegen.com/chinese-lunar-new-year/), preserved article text read 2026-11-16. Practitioner retrieval lead; the amendment uses the independently checked scope.
 - **S12:** FamilySearch, Understanding Chinese Lunar Dates, [FamilySearch, Understanding Chinese Lunar Dates](https://www.familysearch.org/en/chinese/research/lunar-dates), opened 2026-11-16. Read the year-month-day order, the 12-year animal cycle and lunar years whose boundaries differ from Gregorian years; no particular recalled year was converted.
-
-## Additional sources checked 2026-11-18
 
 - **S13:** MyHeritage Blog, [Exploring the Diverse Origins of Middle Names: From Tradition to Trend](https://blog.myheritage.com/2024/10/exploring-the-diverse-origins-of-middle-names-from-tradition-to-trend/), published 2024-10-08. Community source, web page, Chinese naming passage read 2026-11-18. Describes the usual surname-first form, given-name length and absence of a separate middle name in this form.
 - **S14:** IFLA Cataloguing Section, with guidance from the National Library of China, [Names of Persons — Chinese Names](https://cdn.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/pubs/ifla_names_of_persons_chinese_names_2020.pdf), updated August 2020. Institutional PDF, name-element tables and catalogue-heading guidance read 2026-11-18. Independently supports reading the surname first in character-written Chinese names, keeping compound surnames intact and treating a two-character given name as a single element.

@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Rights: every source below is a third-party work cited for attribution only — its content remains © its creator/publisher and is **not reproduced** here. The recipe text is Kinprove's own distillation.
-
 1. *An In-Depth Analysis of the Use of Small Segments as Genealogical Evidence* — Blaine Bettinger, The Genetic Genealogist, 2022-08-07 — <https://thegeneticgenealogist.com/2022/08/07/an-in-depth-analysis-of-the-use-of-small-segments-as-genealogical-evidence/> — Rights: cited reference, not reproduced.
 2. *X-DNA Basics for Genealogists: Finding and Confirming Connections* — FamilyTreeDNA (presented by Roberta Estes), 2026-03-17 — <https://www.youtube.com/watch?v=EOMIlP8fvB4> — Rights: cited reference, not reproduced.
 3. *Can DNA Tell Which Man Is My Father? (X-DNA vs Autosomal Explained)* — Family History Fanatics (Andy), 2026-06-03 — <https://www.youtube.com/watch?v=sR-wz7U_U9E> — Rights: cited reference, not reproduced.

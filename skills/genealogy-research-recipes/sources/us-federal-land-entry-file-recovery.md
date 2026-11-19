@@ -20,7 +20,7 @@
 
 This recipe's own contribution is the routing row, the party-role table, the two-locator rule, the tract-book observation log and the return packet. The public-land-state check rests on S15 to S17. The presenters supply the examples, the record-series distinctions and the feasibility questions.
 
-### Sources added 2026-11-12
+### Sources S18–S25
 
 - **S18:** Diana Elder, Family Locket, [5 Tips for Research When the Courthouse Burned](https://familylocket.com/5-tips-for-research-when-the-courthouse-burned/), published 2024-05-27, read 2026-11-12. Used for: Izard County, Arkansas patent applications predating the patents by two to six years, and an 1838 application as the earliest date for a man in the county. Its statement that the applications are available only in Washington is not followed; serial files from the early 1960s on are often at regional facilities (§7).
 - **S19:** National Archives, Milestone Documents, [Homestead Act (1862)](https://www.archives.gov/milestone-documents/homestead-act), read 2026-11-12. Used for: the filing affidavit and fee, title after five years on the land, and title after six months' residence and a cash payment.
@@ -34,7 +34,7 @@ This recipe's own contribution is the routing row, the party-role table, the two
 
 - **S25:** Ohio History Connection, Archives & Library, [Land Records at the Archives & Library: Land Divisions](https://ohiohistory.libguides.com/land/collections), read 2026-11-13. Used for: the Connecticut Western Reserve and the Firelands as part of Connecticut's western land claims; the Archives & Library holding no original entry or survey records, including plat maps, for the northeastern counties in them; and its suggestion of the Western Reserve Historical Society Library and the Connecticut State Library.
 
-### Sources added 2026-11-17
+### Sources S26–S45
 
 - **S26:** Michael John Neill, Genealogy Tip of the Day, [What Section Borders What?](https://genealogytipoftheday.com/index.php/2023/05/01/what-section-borders-what/), read 2026-11-17. Used for: different survey and numbering systems in different parts of Ohio, and checking a local county atlas or plat book for the system an area uses.
 
@@ -57,8 +57,6 @@ This recipe's own contribution is the routing row, the party-role table, the two
 - **S35:** Michael John Neill, Genealogy Tip of the Day, [Searching BLM GLO Database](https://genealogytipoftheday.com/index.php/2025/10/14/searching-blm-glo-database/), read 2026-11-17. Used for: a warrant patent tagged to the location of the land, not necessarily where the warrantee lived.
 
 - **S36:** Random Acts of Genealogical Kindness, [Military Bounty Land](https://raogk.org/land-records/military-bounty/), read 2026-11-17. Used for: federal bounty-land warrants usable at any GLO office from 1842.
-
-### Sources added 2026-11-18
 
 - **S37:** [Reading a War of 1812 Pension Envelope - JG0278](https://www.youtube.com/watch?v=C4--cLVQPSQ), community video, published 2022-12-16. Supplied transcript excerpts reviewed 2026-11-18. The linked video could not be opened. Used for the presenter's suggestion to search GLO using separate bounty-land certificate numbers. The individual transactions were not verified.
 

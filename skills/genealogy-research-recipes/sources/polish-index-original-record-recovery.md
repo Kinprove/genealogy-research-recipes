@@ -125,7 +125,7 @@ screenshots, catalog entries and real family examples are not reproduced.
 
 - **P13:** Archiwum Państwowe w Kaliszu, [online exhibition «Nadaję ci imię»](https://www.kalisz.ap.gov.pl/wystawy-on-line/nadaje-ci-imie), read 2026-11-13. Used for: witnesses of the declaration and godparents as separate roles in acts from the Russian partition, with an annotated act of 1913 and an Evangelical act of 1861 in which two of the four godparents were also witnesses.
 
-### Sources added 2026-11-15
+### Sources P14–P20 and O18–O19
 
 P15, P18 and P19 are posts on the Dzen channel «Генеалогия, или Как я встретил вашу маму», read on
 2026-11-15 from copies captured that day, without their images; they report one researcher's
@@ -160,8 +160,6 @@ searches for one family.
   published 2025-06-05, read 2026-11-15 from a captured copy. Used for: the author's statement that
   the metrical books she reads give no time of birth, while Polish ones give the hour of birth and
   of presentation for baptism.
-
-### Sources added 2026-11-16
 
 - **O18:** Danuta Wojtowicz, wolyn-metryki.pl, [English
   page](https://wolyn-metryki.pl/Wolyn/Metryki_Wolyn/English.html), read 2026-11-16. Used for: the

@@ -1,7 +1,5 @@
 ## Sources
 
-All procedures are independently written paraphrases. Sources are cited, not reproduced.
-
 - **S1:** Jonny Perl, [Painting a match: every step](https://blog.dnapainter.com/blog/painting-a-match-every-step/), 2021-01-14.
 - **S2:** Jonny Perl, [Top recurring FAQs](https://blog.dnapainter.com/blog/top-recurring-faqs/), 2021-06-24.
 - **S3:** Jonny Perl, [Changing segment layer order: did you know? #1](https://blog.dnapainter.com/blog/changing-segment-layer-order-did-you-know-1/), 2023-03-17.
@@ -78,7 +76,7 @@ skip people marked willing or unwilling, and the dated tree, matrix, Dimensions 
 tutorials; S10, S15, S29 to S35 and S37 were read on this date. H11 and H6 name the painting button
 Paint a match while S27, posted 2026-10-30, names the form Paint a new match; the recipe keeps its
 label. Practitioner posts that support methods and examples were not re-read beyond those already
-read on this date. No source was unreadable, and the recipe text is unchanged.
+read on this date. No source was unreadable.
 
 ## Credits
 

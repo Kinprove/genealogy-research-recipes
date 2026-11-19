@@ -64,7 +64,7 @@ S38–S40. Not checked: ordering prices, current aggregator displays, and the ye
 the GRO online index first gives ages at death (S41). No coding for under-one ages at death or
 FreeBMD wildcard syntax is adopted.
 
-### Sources added on 2026-11-14
+### Sources S42–S51
 
 The English Ancestors posts below (S47–S51) prompted the rules added on 2026-11-14; each rule is
 checked against the official or archive source cited beside it. Ordering prices and the PDF and

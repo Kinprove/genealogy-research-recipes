@@ -45,7 +45,7 @@ with the same contents: the twelve Podolia uyezds, the overview of fonds and a s
 book 1; Volhynia and Kyiv guberniyas, Roman Catholic, Old Believer and Jewish records and a
 settlement index in book 2. Both S5 PDFs downloaded without login, with 857 and 386 pages,
 matching the page counts on S3 and S4. The catalogue pages show no edit date. All sources were
-readable and every statement holds; the recipe text is unchanged.
+readable and every statement holds.
 
 ## Credits
 

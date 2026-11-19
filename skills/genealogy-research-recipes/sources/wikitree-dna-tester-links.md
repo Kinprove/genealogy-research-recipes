@@ -21,7 +21,7 @@ pedigree. The practitioner posts S4 and S5 were read again and hold as dated des
 video S3 was not re-read; the recipe already attributes its statements to the 2020 tutorial and
 tells the reader to read the notice on the page. WikiTree's own help pages on DNA tests could not
 be read: the WikiTree website answered plain requests for them with HTTP 202 and a challenge page
-without article text, so no WikiTree documentation was compared. The recipe did not change.
+without article text, so no WikiTree documentation was compared.
 
 ## Credits
 

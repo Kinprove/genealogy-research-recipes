@@ -55,7 +55,7 @@ What was not verified:
 - the current form of the meeting-code key;
 - that marriage witnesses are not indexed on Ancestry.
 
-### Additional sources checked 2026-11-16
+### Sources S19–S33
 
 - **S19:** Price Genealogy, [Researching Your American Quaker Ancestors, Part 2](https://www.pricegen.com/researching-your-american-quaker-ancestors-part-2/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
 
@@ -76,8 +76,6 @@ What was not verified:
 - **S27:** Shannon E. Duffy, Encyclopedia of Greater Philadelphia, [Loyalists](https://philadelphiaencyclopedia.org/essays/loyalists/). Passage read 2026-11-16. Used for: Religious refusal to swear oaths, pay war taxes or support war, distinct from affirmative political allegiance.
 
 - **S28:** Hiram H. Hilty, [Toward freedom for all: North Carolina Quakers and slavery, Part 4](https://ldsgenealogy.com/NC/books/Toward-freedom-for-all-North-Carolina-Quakers-and-slavery-part-4.htm). Passage read 2026-11-16. Used for: Machine-generated book text describes separate emancipation papers, court-issued deeds and private papers without court approval; not every instrument established legal freedom or a county-deed entry.
-
-### Additional sources checked 2026-11-18
 
 - **S29:** Community video, [Quakers and Military Service - JG0024](https://www.youtube.com/watch?v=bc_TJeE_GRA), published 2022-04-04 (supplied metadata). Supplied transcript excerpts read 2026-11-18. The video page could not be opened, and the full transcript and description were not inspected. Used for: the presenter’s suggestions to use military-related index terms, follow a case across entries, look for readmission after disownment, distinguish wartime support from enlistment, and check service and affiliation in the appropriate records.
 

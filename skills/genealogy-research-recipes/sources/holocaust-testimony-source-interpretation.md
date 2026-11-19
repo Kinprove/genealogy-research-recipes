@@ -105,7 +105,7 @@ original synthesis, applying the existing evidence/proof recipe to these source 
   the Arolsen Archives for further information", and the archive tree's count of 0 files for the
   unit.
 
-### Sources added 2026-11-15
+### Sources H22–H26
 
 - **H22:** VK community «Клуб генеаголиков», [«Картотеки Центра розыска информации Красного Креста:
   история одной архивной трагедии»](https://vk.ru/@-211758731-kartoteki-centra-rozyska-informacii-krasnogo-kresta-istoriya),
@@ -119,8 +119,6 @@ original synthesis, applying the existing evidence/proof recipe to these source 
   read 2026-11-15 from a captured copy, without its images. Rights: cited reference, not
   reproduced. Used for: children under 16 often written onto one parent's card in the evacuee card
   file held by ЦРИ РКК.
-
-### Sources added 2026-11-16
 
 - **H24:** Центр розыска и информации Российского Красного Креста, [«Критерии розыска»](https://crirkk.ru/rozysk-ankety/kriterii-rozyska/),
   read 2026-11-16. Rights: cited reference, not reproduced. Used for: the written, dated and signed

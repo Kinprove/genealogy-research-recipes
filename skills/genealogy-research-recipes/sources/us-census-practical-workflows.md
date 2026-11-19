@@ -1,8 +1,5 @@
 ## Sources
 
-> Original Kinprove-authored distillation of the practitioner methods cited below.
-> Third-party source text is **not reproduced**.
-
 ### Source register
 
 Publication dates are listed below. Workflow numbers show which procedures
@@ -303,7 +300,7 @@ transferred to NARA. H10 confirms M846 and M845. H11 confirms that North Dakota 
 northern part; South Dakota's custody of the southern part rests on H9 only. No 1885 schedule
 was inspected for this recipe.
 
-### Notes on sources added 2026-11-12
+### Notes on S81–S94
 
 S81 to S94 were read on 2026-11-12. Not verified independently: the 1870 and 1880 surname
 pattern and the share of agricultural schedules filmed (S81 only), the apartment-building
@@ -312,7 +309,7 @@ household (S86 only), and Oglethorpe County as the only county with an extant 18
 (S92; the Georgia Archives lists that return among its state census reports, S93). The
 apartment rule was checked for 1910 only (S85).
 
-### Notes on sources added 2026-11-14
+### Notes on S95–S156
 
 S95 to S154 were read on 2026-11-14; the IPUMS pages (S103 to S110, S131) are transcriptions
 of the enumerator instructions and item lists, not the printed originals. S129 was read as
@@ -347,12 +344,12 @@ not the same name; it shows the merger, not how often a man married two women wi
 name. S147 is one household's 1910 entry; the years come from S148 and S149. S153 is one
 county's transcription, and the tenure codes are taken from its column notes.
 
-S155 and S156 were added on 2026-11-14 after a pull-request review. S155 gives Alaska's
+S155 gives Alaska's
 1 October 1929 date for the 1930 census; other years' territorial dates were not checked.
 S156 is one inheritance-tax opinion on Texas law; the adoption forms of other states and
 periods were not checked.
 
-### Notes on sources added 2026-11-16
+### Notes on S157–S169
 
 S157 to S169 were read on 2026-11-16, except S157: its title and channel were confirmed,
 but the video and captions were not read. Its Wisconsin example is cited from the transcript
@@ -380,7 +377,7 @@ British America column. No Wisconsin schedule image was inspected, and whether e
 form had that column was not checked. Reading the nativity counts as household tallies, and
 assigning one to the head only when no one else can hold it, is Kinprove synthesis.
 
-### Notes on sources added 2026-11-18
+### Notes on S170–S189, S103 and S118 (checked 2026-11-18)
 
 S170 supplies the community search and extraction advice. The National Archives' pages
 (S118 and S171) establish the scope of the free federal search and document the viewer.

@@ -9,9 +9,11 @@ explains the evidence boundary and deferred private-export integration.
 Each recipe's ledger is `provenance/<recipe-id>.yml` at the repository root,
 outside the skill folder, so it neither ships with the skill nor reaches the
 assistant. The `sources/<recipe-id>.md` sidecar holds only the prose bibliography
-and Credits. In the ledger, `schema: 1`, `sources:` and `claims:` are literal
-lines; each list item is one JSON object. Duplicate keys and IDs are errors. Keep source
-URLs byte-exact: case, query order, escaping and fragments matter. Existing IDs
+and Credits. It records evidence, not its own edit history: no heading that dates
+when sources were added and no note such as "the recipe text was not changed".
+That history belongs in the pull request. In the ledger, `schema: 1`, `sources:`
+and `claims:` are literal lines; each list item is one JSON object. Duplicate keys
+and IDs are errors. Keep source URLs byte-exact: case, query order, escaping and fragments matter. Existing IDs
 stay stable, including gaps; numbered bibliographies use `N1`, unlabelled bullets
 `B1`, and separately retained additions `H3-addition-1` in their ledgers.
 

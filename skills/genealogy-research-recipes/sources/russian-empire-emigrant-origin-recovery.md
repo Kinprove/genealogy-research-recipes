@@ -161,7 +161,7 @@
   fetched 2026-11-08 and refused with HTTP 403, so no content was read. Used for: the refused
   automated access only; nothing about the catalogue's holdings or search fields is taken from it.
 
-### Sources added 2026-11-12
+### Sources S20–S22 and H19–H27
 
 - **S20:** Vera Miller, Lost Russian & Ukrainian Family,
   [Top tips for researching Ukrainian and Russian immigrants on Canada's free national archives portal](https://lostrussianfamily.wordpress.com/2025/11/15/top-tips-for-researching-ukrainian-and-russian-immigrants-on-canadas-free-national-archives-portal/),

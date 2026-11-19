@@ -1,7 +1,5 @@
 ## Sources (provenance + dates)
 
-> Original Kinprove synthesis. Third-party passages are **not reproduced**.
-
 Practitioner demonstrations (historical controls and examples; retain their methods rather than
 their numeric presets):
 
@@ -173,14 +171,13 @@ publication date (footer "© GEDmatch 2024").
 - **S29:** Mercedes Brons, Who Are You Made Of?, [What is Overlap on Gedmatch?](https://whoareyoumadeof.com/blog/what-is-overlap-on-gedmatch/), last updated 2022-12-09, read 2026-11-16. Used for: pink overlap cells marking low overlap, and not ignoring low-overlap matches outright. Its cutoff options are historical and not adopted.
 - **S30:** Legacy Tree Genealogists, [Dealing with Endogamy, Part I: Exploring Amounts of Shared DNA](https://www.legacytree.com/blog/dealing-endogamy-part-exploring-amounts-shared-dna), published 2016-10-13, read 2026-11-16. Used for: recalculating shared totals at GEDmatch under higher cM thresholds and comparing several totals. It gives no GEDmatch threshold value.
 
-### Additions and recheck, 2026-11-16
+### Platform recheck, 2026-11-16
 
 Rechecked 2026-11-16: H3 and H9 were re-read for the overlap flag and the Superkit's Tier 1
 listing, and H12–H19 and S26–S30 were opened for the additions to workflows 1 and 2 and the new
 "Compare trees through GEDCOMs" section. No GEDmatch page opened sets the 100,000-SNP overlap
 figure in S26, and none documents a One-to-One SNP-density display or how One-to-One treats
-positions one kit did not test, so the recipe adopts neither. The recipe header's `checked` date
-was not moved.
+positions one kit did not test, so the recipe adopts neither.
 
 ### AncestryDNA transfer and cross-company matching
 

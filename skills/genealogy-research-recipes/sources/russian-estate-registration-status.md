@@ -59,15 +59,15 @@
 - **S50:** История одной семьи. Юлия Новожилова, [«Как найти предков крестьян. Крестьянский поземельный банк»](https://dzen.ru/a/Zfu3eTZSlBcUMPl0), a Dzen post dated 21 March 2024 on the captured page, read 2026-11-15 from a captured copy. Used for: RGIA f. 577 and the title of a redemption file of 1870 for a village of Kozlov uezd, Tambov guberniya.
 - **S51:** Президентская библиотека, [РГИА, ф. 577, оп. 46](https://www.prlib.ru/item/1105892) (the library's record of the inventory), read 2026-11-16. Used for: f. 577 as the Main Redemption Institution of the Ministry of Finance, op. 46 for Kherson guberniya with 1,278 files, and file titles naming the landowner and the village.
 
-### Notes on the additions of 2026-11-16
+### Notes on S21–S42 and S44–S51
 
 **What is authored and what the sources supply.** The rules that the issuer of a мещанин's or сельский обыватель's passport names the registering society, that «крестьянин-собственник» dates a move to redemption rather than a paid-off buyout, that the treasury chamber's journals are the route for a missing transfer decree, that an «Р» fond can hold pre-1917 lists, that a Part 2 entry dates the family's nobility from an ancestor's rank, that a sloboda book's revision numbers lead straight to the 1850 and 1858 revisions, and that a family missing from an odnodvortsy or ploughing-soldier list is searched among the state peasants are authored synthesis. S22, S23, S25, S27, S28, S31, S36, S37, S39 and S42 are Dzen posts by two genealogy channels and report their authors' own cases, mostly from Tula guberniya and Moscow; they show what was found there, not a general rule. S21, S24, S26, S33 to S35, S38, S40 and S41 are reference works; S29, S30 and S32 are catalogue listings and a researcher's notes.
 
 The following were NOT verified: whether the treasury chamber's journals survive for other provinces; the 1890–1916 range of the Tula merchant lists, which comes from S31 alone; the whole contents of GATO f. Р-1905; and whether every sloboda book uses the same column headings.
 
-**Further additions of 2026-11-16.** Searching a redemption inventory by landowner and village, reading the part of the noble book that matches how the family gained nobility, not reading a personal noble's absence against the status, and reading an estate's later revision tales first are authored synthesis. S44, S46 and S50 are Dzen posts by one genealogist; S47 to S49 and S51 are catalogue listings; S45 is an index page of a heraldry site. Not verified: any estate-level revision tale later than 1880, and the inventories of f. 577 for guberniyas other than Kherson.
+Searching a redemption inventory by landowner and village, reading the part of the noble book that matches how the family gained nobility, not reading a personal noble's absence against the status, and reading an estate's later revision tales first are authored synthesis. S44, S46 and S50 are Dzen posts by one genealogist; S47 to S49 and S51 are catalogue listings; S45 is an index page of a heraldry site. Not verified: any estate-level revision tale later than 1880, and the inventories of f. 577 for guberniyas other than Kherson.
 
-### Additional sources checked 2026-11-16
+### Sources S52–S53
 
 - **S52:** Price Genealogy, [My Genealogy Journey in Post-Soviet Russia](https://www.pricegen.com/my-genealogy-journey-in-post-soviet-russia/). Passage read 2026-11-16 and again 2026-11-17. Used for: its statement that families who confirmed their noble descent were listed in the Russian nobility genealogy books. It does not mention RGIA, the noble assemblies or the confirmation files.
 

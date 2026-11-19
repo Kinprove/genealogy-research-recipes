@@ -18,7 +18,7 @@ one-third figure come from the Archives de Paris (S6), not from the article. The
 article's online year spans, exact annual-table exception, blanket loss/survival
 narrative and named family conclusions are not adopted as verified claims.
 
-### Sources added 2026-11-13
+### Sources S7–S8
 
 - **S7:** Archives de la Ville de Bruxelles, [État civil](https://archives.bruxelles.be/etat-civil), read 2026-11-13. Used for: from 1 January 2025, for genealogical, historical or scientific research, birth acts public after 100 years and marriage and death acts after 75 years, an act of exactly 75 or 100 years not yet public, ten-year tables on the same terms, and the change dated to the law of 13 September 2023 and its royal decree of 11 November 2024.
 - **S8:** State Archives of Belgium, [Archives à consulter](https://www.arch.be/index.php?l=fr&m=genealogiste&r=archives-a-consulter) (page for genealogists), read 2026-11-13. Used for: the page still giving 50 years for death acts, 75 for marriage acts and 100 for birth acts.

@@ -71,7 +71,7 @@ Additions read 2026-11-16. OCLC's help articles show no update date. The Allen C
 
 Authored synthesis in the 2026-11-16 additions: adding each daughter's husband to the child search (from S8's Barnes example); entering the county as WorldCat's location; logging each county library catalogue as a separate tool; and limiting a drafted loan or copy request to title, call number and pages, with its privacy checkpoint. S44 and S46 are community sources; each statement they prompted rests on S45 and S47–S50, which were read.
 
-### Additional sources checked 2026-11-16
+### Sources S51–S66
 
 - **S51:** [VIRGINIA Magazine: Book Traces](https://www.uvamagazine.org/articles/book_traces), read 2026-11-16. Used for: copy-specific nineteenth-century annotations and inserted personal material; handwriting ownership is not assumed.
 - **S52:** [Rhonda Frevert: Mug Books, Commonplace](https://commonplace.online/article/mug-books/), read 2026-11-16. Used for: advance subscriptions and paid biographies/portraits, subject editing and selection bias in the genre; not all county histories.
@@ -81,8 +81,6 @@ Authored synthesis in the 2026-11-16 additions: adding each daughter's husband t
 - **S56:** [Money Got that Bio in the Mug Book](https://genealogytipoftheday.com/index.php/2024/03/29/money-got-that-bio-in-the-mug-book/), read 2026-11-16. Used for: treating a paid mug-book sketch as a contributed account and pursuing its named people, places and events in other records. A community source.
 - **S57:** [Reverse Genealogy: Tracing the Descendants of Your Ancestors](https://www.pricegen.com/reverse-genealogy-tracing-the-descendants-of-your-ancestors/), read 2026-11-16. Used for: using a descendant's origin statement to choose an origin search, without expecting an exact birth town. A community source.
 - **S58:** [County Histories: Strategies and Tips](https://genealogypants.com/2023/01/25/county-histories-strategies-and-tips/), read 2026-11-16. Used for: carrying a found title, author and edition into current catalogues, and searching regional titles covering the locality as well as single-county titles. A community source.
-
-### Additional sources checked 2026-11-18
 
 - **S59:** Rick Crume, Family Tree Magazine, [How to Use Search Engines for Genealogy Research](https://familytreemagazine.com/strategies/how-to-use-search-engines-for-genealogy-research/). Article read 2026-11-18. Community advice on applying the Books filter to a name and place query, with a separate example of finding an Internet Archive volume in general results. The recipe uses the two search routes without assuming an exhaustive boundary for Books.
 - **S60:** Google Search Help, [Refine Google searches](https://support.google.com/websearch/answer/2466433). Help page read 2026-11-18. Used for Books as a search results filter, All as the broader view and the query-dependent choice and order of filters.

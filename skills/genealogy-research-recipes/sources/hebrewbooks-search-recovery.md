@@ -69,7 +69,7 @@ list, introduction and approbation statements. The Otzar HaHochma page still giv
 OCR search engine and paid hard-drive and online versions. The 2018 study's abstract page was
 reachable; its body was not re-read, as it supports history. The articles by Zitter, MacDowell and
 Brand were not re-read, as they support history and methods, and the J-Roots topic could not be read
-because the forum's certificate had expired. The recipe text was not changed.
+because the forum's certificate had expired.
 
 ### Bound-part control, 2026-11-16
 
