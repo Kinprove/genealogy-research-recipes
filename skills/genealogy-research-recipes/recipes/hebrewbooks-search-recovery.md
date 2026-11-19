@@ -100,27 +100,24 @@ part's title or edition and page as in step 6 and the part register below.
    recording a miss.
 
 4. **Change discovery route when the surface has failed.** Run
-   `site:hebrewbooks.org <Hebrew phrase>` in an external search engine; include the
-   OCR-confused spelling when that is the probe. MacDowell demonstrates exactly this
-   combination with `site:hebrewbooks.org ימקב`. Also try `https://beta.hebrewbooks.org/`,
-   the enhanced search entry point identified by Brand's 2022 guide. On 2026-11-07 automated
-   requests to it and to the main site got mixed answers, some of them HTTP 403 with a Cloudflare
-   challenge, so confirm in a browser that it is still offered. Another large Hebrew library,
-   Otzar HaHochma (`https://www.otzar.org/`), sells OCR full-text search of about 156,000
-   Judaic books.
+   `site:hebrewbooks.org <Hebrew phrase>` in an external search engine. MacDowell's
+   example used the OCR reading `ימקב` for `יעקב` [B2 @2026-11-19]. Check the
+   beta search entry point identified in Brand's 2022 guide [B3 @2026-11-19] and
+   record its response on the date you search. Otzar HaHochma advertises paid OCR
+   full-text search in a separate collection of about 156,000 Judaic books [B12 @2026-11-19].
    **For an inaccessible catalogue, also use the [Shafeh search form](https://shafeh.org/hb/search).**
-   It exposes separate title, author and OCR fields. A live title-field query for
-   `מסילת ישרים` on 2026-10-03 returned matching record **41768**, alongside partial
-   titles such as `מסילת הברזל` and `דובר ישרים`.
-   **If a route returns 403, switch to Shafeh or external site-search to collect book
-   links or IDs.** Save the intended
-   within-book query for when the viewer is accessible.
+   Select the title field for a catalogue search. Author and OCR have separate fields
+   [B4 @2026-11-19]. A title search for `מסילת ישרים` returned book **41768**,
+   listed under Moshe Hayyim Luzzatto, alongside partial matches `מסילת הברזל` and
+   `דובר ישרים` [S16 @2026-11-19]. Verify the whole title and author before saving
+   the book ID. Record the intended within-book query separately until you can search
+   the text or inspect the page.
 
 5. **For a located work, use its printed index when OCR does not find the passage.**
-   Read the heading and several entries before choosing the lookup key. A J-Roots
-   participant explicitly corrected a supposed surname index to one alphabetized by
-   **given name**. Search the given-name section when that is the demonstrated order;
-   a surname-only lookup can miss an indexed person.
+   Read the heading and compare several entries before choosing the lookup key. In
+   a J-Roots discussion, the correction identified the index starting on page 21 as
+   arranged by given name. A surname search alone would miss the reader's lookup
+   route [B5]. Record the sorting field, then follow the entry to the printed page.
 
 6. **Keep the hit's coordinates separate.** Record the book ID (`req`), viewer page
    (`pgnum`), printed page or folio visible on the image, and edition from the title page.
