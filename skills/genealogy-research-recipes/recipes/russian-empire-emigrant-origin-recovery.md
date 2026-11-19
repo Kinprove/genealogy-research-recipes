@@ -87,11 +87,7 @@ A German-speaking household recorded as born in “Germany” may instead come f
 German colonies, for example in Bessarabia. Compare the birthplace across every census year and the
 manifest's origin field before searching German emigration sources. A later census or manifest
 origin that reads “Russia” is a reason to add a colony candidate; a reported miss in German
-emigration lists is not. In the
-[Bessarabian-colonist case](https://forum.ahnenforschung.net/forum/thread/3013995/),
-the manifest that was found had sailed from Bremen, and the colony marriage and manifest were linked
-only by names, ages and a child. Treat such a link as a candidate to test. It does not settle the
-family's earlier German origin.
+emigration lists is not. The *Werra* manifest from Bremen listed a couple from Russia with a child, Conrad, aged 1½. A published forum search connected them to a Bessarabian colony marriage by names, ages and child [S15]. Record the proposed link; the port of departure does not locate an earlier German home.
 
 **Privacy gate:** <!-- privacy-gate: request --> A request for a resettler's EWZ file sends their
 identity and the user's signed application, and a person resettled as a child in 1939–1945 may be
@@ -138,11 +134,7 @@ Do not expect every emigrant, wife or child to have a separate naturalization pa
 When a declaration of intention bears the emigrant's signature in Yiddish or another non-Latin
 script, record it as a separate, self-written name observation. Have it read independently, log
 every proposed reading and any illegible portion, and add the readings to the name-variant searches
-for origin-side records. The
-[GeneaVlogger's great-grandfather case](https://www.youtube.com/watch?v=2YLat4WuFKY) and the
-[later recap](https://www.youtube.com/watch?v=2h6zplRuD28) motivate this step: a crowd reading
-produced a surname different from the family's American surname, with an uncertain ending. A
-signature reading is a search key. It does not prove the name used in origin records.
+for origin-side records. Readers of a Yiddish declaration signature proposed David Goldenberg, although the ending was hard to read and the family used Goldberg in America [S12], [S23]. Search both forms and keep the uncertain letters with the transcription.
 
 **Artifact — movement chronology:**
 
@@ -164,10 +156,7 @@ Run a short, logged ladder:
 
 1. Search the documented name variants with the chronology's date interval. Leave an uncertain
    birthplace or nationality filter off the initial searches.
-2. Search a spouse, child or documented fellow traveler using their own recorded variants. In a
-   forum case, a search for a second passenger of the same surname, under the spelling Lewender
-   for Lavender, found the passenger list on FamilySearch, and all the children's names could then
-   be read. [S3]
+2. Search a spouse, child or documented fellow traveler using their own recorded variants. A search for a second passenger, under the spelling Lewender for Lavender, found the passenger list on FamilySearch. Reading the manifest then provided the children’s names [S3].
    Use [beider-given-name-variants.md](../../genealogy-research-recipes/recipes/beider-given-name-variants.md)
    for supported Jewish given-name variants; keep generated guesses separate.
 3. If the database supports it, search the known U.S. contact's name or address. Otherwise inspect
@@ -276,12 +265,7 @@ network. [S1, S3, S4]
 When records turn up several people with the destination contact's name, give each namesake a
 separate row: birth, arrival and naturalization data, plus the dated addresses from censuses and
 citizenship papers. Before linking any of them to the traveler, compare each dated address with the
-manifest's contact address. A
-[contact-namesake discussion](https://forum.ahnenforschung.net/forum/thread/185403/)
-shows this check. The candidates' 1925 and 1930 census addresses did not quite match the manifest
-address, and one candidate's naturalization address was only nearby. A nearby street or a similar
-year narrows the field but does not identify the contact. The link to the traveler's home district
-still has to be tested.
+manifest’s contact address. In one search, neither the 1925 nor the 1930 census address matched it exactly, and one namesake’s naturalization address was only nearby [S16]. Keep the candidates separate until the same person can be followed to the address at the date of arrival.
 
 Only after the target's own, family and contact records give no usable origin, and when the surname
 is genuinely rare, build a separate surname survey as a lead list. Record each passenger-list or
@@ -308,23 +292,14 @@ If a relative may have prepaid the passage, look for passage-ticket records such
 ledgers (e.g. Blitzstein), and open the original entry rather than stopping at an index. Extract
 the date, passenger, the passenger's origin address, route and line, then add the purchaser's name
 and address as its own contact row. A purchaser recorded under a different surname can be a lead
-linking pre-migration and American names; test it by comparing addresses with other records. In the
-GeneaVlogger's [ledger walkthrough](https://www.youtube.com/watch?v=pVfGwY6uBHU) and
-[surname case](https://www.youtube.com/watch?v=VQgE0u9SGSU), the presenter is unsure of some
-columns and of the holding repository. The ledger does not state the payer's relationship, and the
-presenter calls the match strong but not confirmed.
+linking pre-migration and American names; test it by comparing addresses with other records. In a Blitzstein ledger case the passenger and payer had different surnames. The presenter could not establish their relationship from the entry or identify every column with confidence [S13], [S24]. Transcribe the two roles separately and verify the repository from the catalogue.
 
 **Privacy gate:** <!-- privacy-gate: publish --> A forum question publicly exposes the family
 surname and case details, which can identify the user and living relatives; answer the privacy
 gate in `SKILL.md` before posting.
 
 If money was sent between the emigrant and relatives back home, search the surname in the documents
-of Russian consulates in the USA, for example by asking in the J-Roots forum's index topic for them. A
-[consular-records reply](https://forum.j-roots.info/viewtopic.php?f=75&t=7576) says hits can be
-viewed through FamilySearch, and the poster found documents on an undelivered money transfer and
-refund that way. The reply gives no period, coverage, finding aid or field list. Record any named
-person and place as written, as an unverified contact lead, and do not treat a miss as a negative
-search.
+of Russian consulates in the USA, for example by asking in the J-Roots forum's index topic for them. One researcher followed a hit to FamilySearch film and found papers on an undelivered remittance and refund [S14]. Record the named persons, addresses and disposition as written. Establish the film’s coverage before treating a miss as evidence.
 
 If the emigrant or a relative lived in an émigré community abroad before arriving, for example in
 Harbin or Shanghai, search two more lead sources. The Hoover Institution's Russia Abroad Digital
@@ -370,11 +345,7 @@ origin, take the state and district of the event date from
 When a place string on a passenger list cannot be identified, compare its doubtful letters with the
 same letter groups in other words on the page. Then test
 whether the string is a German transcription of a Slavic name (for example, Sch for Ш) and enter
-each resulting candidate in the competing-locality table. In a
-[manifest place-reading discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667), one
-participant read an unrecognised name as Schomer, comparing the same letter group elsewhere on the page, and
-participants considered Zhitomir. The thread shows no confirming record, so a reconstructed reading
-stays a candidate and is not the locality.
+each resulting candidate in the competing-locality table. In one discussion, comparison with letters elsewhere on the manifest yielded *Schomer*. Zhitomir was proposed but no confirming record was given [S17]. Preserve the handwriting reading and proposed locality as separate hypotheses.
 
 A place name that matches a guberniya or a major city can be a province-level or nearby-city answer
 rather than the town of origin. Before entering Kovno, Vilna, Warsaw or a similar name as a town
@@ -398,11 +369,7 @@ vedomosti*, which printed official search notices. [H13] Search under the Russia
 patronymic. Such a notice can name the issuing court, the person's estate (*soslovie*) and town of
 registration, and the article charged. Enter that town as a registration-society row in the
 competing-locality table, not as a birthplace. Use the court and case details to look for the case
-file, and search the town's metrical books for siblings. In
-[*Finding Your Roots* (PBS, season 10, episode 9)](https://www.pbs.org/video/michael-douglas-unravels-his-familys-secret-past),
-a 1906 Mogilev District Court notice described the man sought as a townsperson of Chausy and gave
-the article he was charged under. A notice matched on name and patronymic is a candidate to test
-against the chronology. It does not identify the emigrant. [S19]
+file, and search the town’s metrical books for siblings. A 1906 Mogilev District Court notice read in *Finding Your Roots* called the person sought a Chausy townsperson and cited article 1654 [S19], [S25]. Use the patronymic and chronology to test the candidate. The notice establishes neither birthplace nor identity with the emigrant.
 
 **Artifact — competing localities:**
 
