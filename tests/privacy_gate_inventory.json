@@ -1862,7 +1862,7 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Send a request for an older act to that state archive, not to the ДРАЦС, unless",
+  "action": "Send a request for an older act to that state archive",
   "checkpoint": "A Ukrainian civil-status request, even for an act over 75 years old, can name people who are still living"
  },
  {
@@ -1892,13 +1892,13 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Participants reported the steps: request copies by email, receive an invoice, get scans after payment.",
+  "action": "Ask what identifier the archive needs, including date of death for a search of cancelled cards",
   "checkpoint": "A party card names the member and relatives, some of whom may be living"
  },
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Write to the military commissariat (военкомат) at the last residence** for the personal file.",
+  "action": "Write to the military commissariat (военкомат) at the last residence.",
   "checkpoint": "Military personal files list the nearest relatives, who may be living"
  },
  {
@@ -1922,7 +1922,7 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Note whether you asked for copies or only for an archival certificate (архивная справка).",
+  "action": "Distinguish a request for copies from a request for an archival certificate (архивная справка).",
   "checkpoint": "Requests for personal-file copies, archival certificates or kinship-proof certificates can concern people who may be living"
  },
  {
@@ -1946,7 +1946,7 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Ask for every set in the file.",
+  "action": "Ask for every set, including the original registration and subsequent exchanges",
   "checkpoint": "A party card names the member and relatives, some of whom may be living"
  },
  {
@@ -1976,13 +1976,13 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Build the chain of step 5 before you apply.",
+  "action": "Build the chain in step 5 and check whose authorisation a living adult’s documents require",
   "checkpoint": "A ZAGS search or repeat-document request can concern acts naming people who may still be living"
  },
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Ask which body holds the earlier books before you treat the years as lost.",
+  "action": "Ask about district archives and inter-district offices before recording a loss.",
   "checkpoint": "A ZAGS search or repeat-document request can concern acts naming people who may still be living"
  },
  {
@@ -1994,7 +1994,7 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Request the record with that number and date;",
+  "action": "Request the справка using the certificate number and date",
   "checkpoint": "A marriage record found through a labour book names both spouses, who may be living"
  },
  {
@@ -2030,13 +2030,13 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Use the date to ask ZAGS again",
+  "action": "Use a dated lead to renew the ZAGS request",
   "checkpoint": "Household-book entries list every household member and their age, and some may still be living"
  },
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Request the whole run for the settlement, not one book.",
+  "action": "request the whole surviving run",
   "checkpoint": "Household-book entries list every household member and their age, and some may still be living"
  },
  {
@@ -2048,7 +2048,7 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "If the archive service has no card, ask the МФЦ or the passport office.",
+  "action": "If the city archive service has no card, ask the МФЦ or passport office about a registration extract",
   "checkpoint": "An apartment card lists everyone registered in a flat, some of whom may be living"
  },
  {
@@ -2060,13 +2060,13 @@
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "ask the branch of the previous residence when the first reply is negative",
+  "action": "Check the branch at the previous residence if the current one has no file",
   "checkpoint": "A pension file holds the pensioner's family documents, which name a spouse and children who may be living"
  },
  {
   "recipe": "soviet-personal-file-recovery.md",
   "kind": "request",
-  "action": "Order the file even when the labour book survives",
+  "action": "Request the supporting papers whether the labour book is lost",
   "checkpoint": "A pension file holds the pensioner's family documents, which name a spouse and children who may be living"
  },
  {
