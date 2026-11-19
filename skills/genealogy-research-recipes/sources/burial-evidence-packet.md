@@ -25,7 +25,7 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
   Native-script searches and the demonstrated Pomnim/Pogost field order.
 - **P4:** James Tanner (BYU Family History Library), *Finding and Using Cemetery Records Like a
   Pro*, published 2020-11-20 — [class](https://www.youtube.com/watch?v=th8_R6cKTnw). Published and
-  commission cemetery surveys beyond the large sites; records created by the burial process.
+  commission cemetery surveys beyond the large sites; records created by the burial process. Captured transcript read 2026-11-19.
 - **P5:** James Tanner (BYU Family History Library), *Discovering Your Ancestors Using
   Genealogical Periodicals*, published 2021-08-24 —
   [class](https://www.youtube.com/watch?v=ETyI_TSMpzQ); *Using Online Maps to Locate Cemeteries*,
@@ -74,7 +74,7 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
 - **P15:** J-Roots Forum, *Отголоски семейных историй. Тема для пробных постов начинающих
   генеалогов*, first post 2010-05-16 — [thread](https://forum.j-roots.info/viewtopic.php?f=20&t=5084).
   Rights: cited reference, not reproduced. Used for burial-certificate files that run parallel to
-  death registers and omit the grave location.
+  death registers and omit the grave location. Forum discussion read 2026-11-19.
 - **P16:** Уральская генеалогия, *Кладбищенские списки. Некрополи*, first post undated —
   [thread](https://rodgersforum.borda.ru/?1-7-0-00000136-000-0-0-1774709430=). Rights: cited
   reference, not reproduced. Used for telling necropolis lists compiled from cemetery documents
@@ -84,7 +84,7 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
   [thread](https://forum.j-roots.info/viewtopic.php?f=208&t=9621). Rights: cited reference, not
   reproduced. Used for treating painted or chalked letters on photographed stones as an
   interpretation that must be re-checked, and for reading kohen, Levite and occupation markers as
-  titles rather than surnames (with P18).
+  titles rather than surnames (with P18). Forum discussion read 2026-11-19.
 - **P18:** J-Roots Forum, *Не знаете, где спросить? Спросите здесь*, first post 2009-08-24 —
   [thread](https://forum.j-roots.info/viewtopic.php?f=75&t=7576). Rights: cited reference, not
   reproduced. Used for attaching a Levite title after a woman's patronymic to her father.
@@ -92,18 +92,18 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
   Grabstellen, Kirchen, Häuser?*, first post 2010-04-18 —
   [thread](https://forum.ahnenforschung.net/forum/thread/19335/).
   Rights: cited reference, not reproduced. Used for asking the cemetery office about grave type and status, such as a war grave or a removed stone, and about the recorded field of an anonymous burial, before
-  treating a missing marker as a failed lead.
+  treating a missing marker as a failed lead. Forum discussion read 2026-11-19.
 - **P20:** J-Roots Forum, *Нужно мнение коллег*, first post 2015-09-22 —
   [thread](https://forum.j-roots.info/viewtopic.php?f=4&t=4667). Rights: cited reference, not
   reproduced. Used for reading 'Reb' on a tombstone, and 'Rabbi' or 'Rev.' in later sources, as
   titles to check against accounts of the person's actual role rather than as proof of
-  ordination.
+  ordination. Forum discussion read 2026-11-19.
 - **P21:** Roberta Estes, *Anne Doucet (1713–1791), Oceans, Rivers, and Perseverance —
   52 Ancestors #438*, published 2025-01-04 —
   [article](https://dna-explained.com/2025/01/04/anne-doucet-1713-1791-oceans-rivers-and-perseverance-52-ancestors-438/).
   Comparing a memorial's cemetery assignment with cemetery chronology and forming a
   historical-ground candidate list. The founding dates, proposed final location and reports
-  of moved stones are the author's account; this recipe does not independently verify them.
+  of moved stones are the author's account; this recipe does not independently verify them. Article text read 2026-11-19.
 - **P22:** Aimee Cross / Ancestry Aimee, *What death records are you missing?*, published
   2024-10-31 — [tutorial](https://www.youtube.com/watch?v=6TDebNoMsvQ).
   Death-certificate undertaker/address fields, period-directory business identification,
@@ -159,7 +159,7 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
   record. Only the saved article was inspected; no original transport or interment record was
   examined. Local series, arrangement, survival, current custody/access, the article's 50-year
   rule, coverage spans and individual examples remain unverified. The conditional retrieval and
-  record-role checks are Kinprove synthesis; a stated destination does not establish burial.
+  record-role checks are Kinprove synthesis; a stated destination does not establish burial. Article text read 2026-11-19.
 
 - **P29:** Julie Roberts Szczepankiewicz, [McNamara’s Band: A Closer Look at Some of the Walshes’ FANs](https://fromshepherdsandshoemakers.com/2022/09/08/mcnamaras-band-a-closer-look-at-some-of-the-walshes-fans/),
   published 2022-09-08 in the saved metadata. Describes a cemetery plot-owner card's
@@ -194,7 +194,7 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
   DNAeXplained, published 2023-09-19 in the saved metadata. Used for: a reported relocation and
   grave dedication as the example for keeping original burial, reported transfer and later marker
   installation as separate source-linked events. The reported relocation is the author's account;
-  this recipe does not independently verify it.
+  this recipe does not independently verify it. Article text read 2026-11-19.
 
 - **P36:** Vera Miller, [Free database offers more than 5 million indexed burial records for Moscow](https://lostrussianfamily.wordpress.com/2025/10/25/free-database-offers-more-than-5-million-indexed-burial-records-for-moscow/),
   Lost Russian & Ukrainian Family, published 2025-10-25 in the saved metadata. Used for: the
@@ -208,7 +208,7 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
   reported inscription reading set beside a later inspection that did not locate or fully read
   the marker. The page supplies no earlier photograph and does not prove identity, marker
   replacement or why the present reading failed; recording the two statements separately is
-  Kinprove synthesis.
+  Kinprove synthesis. Article text read 2026-11-19.
 
 - **P38:** Amy Whorf McGuiggan (Vita Brevis), [A cultural heritage database](https://vitabrevis.americanancestors.org/2022/02/a-cultural-heritage-database),
   published 2022-02-09 in the saved metadata. Describes a cemetery survey and individual markers
@@ -217,7 +217,7 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
   interface, terms, access and survey completeness were not checked. Original Old Burial Hill
   and Truro inventory files, images and individual marker or burial claims were not inspected.
   The lookup and locator controls are Kinprove procedural synthesis; no universal category labels
-  or source-material reuse rights are inferred.
+  or source-material reuse rights are inferred. Article text read 2026-11-19.
 
 - **P39:** Israel Genealogy Research Association (IGRA), [Burial Societies](https://genealogy.org.il/resource-guides/burial-societies/),
   opened 2026-11-04. Used for: a current English list of societies based on the Ministry of
@@ -316,14 +316,14 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
   New York City death certificate as a lead to the person who hired the undertaker and their
   relationship, the initial that may be the husband's, and the place-of-burial field linking a
   death to a cemetery in another state. The certificate layout is one narrated example; searching
-  both readings of the initial is Kinprove synthesis.
+  both readings of the initial is Kinprove synthesis. Captured transcript read 2026-11-19.
 
 - **P61:** FamilySearch, [Discovering the Past, One Headstone at a Time](https://www.youtube.com/watch?v=Cid_0GZZ1jM),
   published 2026-10-30. Used for: leased Scandinavian graves losing their stones once nobody
   renews them, a missing stone as weak evidence of no burial, older cemetery transcriptions in
   local-history collections, and FamilySearch Full-Text search for digitised transcriptions. Its
   claims that removed stones are routinely lined up at the cemetery edge and that Danish stones are
-  usually crushed are not adopted.
+  usually crushed are not adopted. Captured transcript read 2026-11-19.
 
 - **P62:** Svenska kyrkan parish pages: Trollhättan, [Frågor och svar kring gravrätt](https://www.svenskakyrkan.se/trollhattan/kgf/fragor-och-svar-kring-gravratt);
   Uddevalla, [Gravrätt och gravbrev](https://www.svenskakyrkan.se/uddevalla/gravratt-och-gravbrev);
@@ -345,11 +345,11 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
   states none.
 
 - **P64:** FamilySearch, [Full-Text Search Leaves FamilySearch Labs](https://www.familysearch.org/en/blog/full-text-search-leaves-familysearch-labs),
-  published 2025-08-30, opened 2026-11-06. Used for: Full-Text search in the main Search menu.
+  published 2025-08-30, opened 2026-11-06. Used for: Full-Text search in the main Search menu. Article text read 2026-11-19.
 
 - **P65:** South Carolina State Library, [South Carolina State Library Digitizes Works Progress Administration (WPA) Transcripts of Tombstone Inscriptions in South Carolina](https://statelibrary.sc.gov/news/south-carolina-state-library-digitizes-works-progress-administration-wpa-transcripts-tombstone),
   dated 2025-04-14, opened 2026-11-06. Used for: WPA tombstone transcriptions made in the late
-  1930s, with the original cards held by the South Carolina Historical Society.
+  1930s, with the original cards held by the South Carolina Historical Society. Article text read 2026-11-19.
 
 - **P66:** Genealogy TV, [Discovering Your Roots: Cemetery Research Guide, Tombstone Symbols, and Find a Grave Tips](https://www.youtube.com/watch?v=dAV-AS0-474),
   published 2026-10-23. Used for: recording dates from a family stone and a later commemorative
@@ -573,7 +573,7 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
 - **P147:** Ancestral Findings, [Guest Books: A Genealogical Treasure Trove](https://ancestralfindings.com/guest-books-a-genealogical-treasure-trove/), undated, read 2026-11-14. Used for: guest books kept in families and handed down, signers with a family surname as probable relatives to research, and signers who cannot be connected as probable friends.
 - **P148:** Kenneth R Marks, The Ancestor Hunt, [15 Reasons to Research Funeral and Memorial Books](https://theancestorhunt.com/blog/15-reasons-to-research-funeral-and-memorial-books-2/), 2024-01-08, read 2026-11-14. Used for: memorial books listing those who attended, people who knew the deceased as a co-worker, neighbour, relative or friend of one of the children.
 - **P149:** Barry Ewell, Deseret News, [Genealogy: Tips for searching cemeteries and photographing headstones](https://www.deseret.com/2013/10/5/20526867/genealogy-tips-for-searching-cemeteries-and-photographing-headstones), 2013-10-05, read 2026-11-14. Used for: a group photograph of a family plot showing the number and proximity of the graves, taken before each headstone.
-- **P150:** Just Genealogy, [Just Genealogy Live Stream Recording for 15 Sep 2022 - JG0190](https://www.youtube.com/watch?v=iknDl1tV4s0), livestream of 2022-09-15, opened 2026-11-16, partly read: the video page showed only its title, and the passage comes from a transcript extract supplied with the community item set, not from replaying the video. Community source. Used for: a presenter's guess that Henry County was one of the Iowa counties the WPA skipped, cited only as the guess that P151 contradicts.
+- **P150:** Just Genealogy, [Just Genealogy Live Stream Recording for 15 Sep 2022 - JG0190](https://www.youtube.com/watch?v=iknDl1tV4s0), livestream of 2022-09-15. Captured transcript read 2026-11-19. The presenter speculated about a gap in Henry County; compare the county entry in the 17 January 2026 capture (P151).
 - **P151:** IAGenWeb, [Iowa WPA Graves Registration Survey](https://web.archive.org/web/20260117072640/https://iowawpagraves.org/), Wayback Machine capture of 2026-01-17 of iowawpagraves.org, read 2026-11-16; the live site refused the fetcher (HTTP 403). Used for: 656,621 records within 82 Iowa counties; the list of completely transcribed counties, with Henry County at 3,379 WPA records; and the 17 counties not indexed by the 1930s WPA Graves Registration Project and so not in the database. The page does not say whether only veterans were recorded, and the live counts on 2026-11-16 were not seen.
 - **P152:** Tama County IAGenWeb, [Day Cemetery (Richland Twp) WPA Records](https://www.iagenweb.org/tama/cems/daywpa.html), contributed by Von Mings Stachon, read 2026-11-16. Used for: the WPA recording cemeteries in the late 1930s; the note that it is unknown whether the workers viewed the tombstones or took the information from death records at the courthouse or from newspaper obituaries; and entries for women. One cemetery's transcription in one county.
 - **P153:** MyHeritage Blog, [How to Find an Obituary for a Specific Person: A Comprehensive Guide](https://blog.myheritage.com/2024/10/how-to-find-an-obituary-for-a-specific-person-a-comprehensive-guide/), published 2024-10-12, read 2026-11-16. Community source. Used for: websites whose volunteers photograph headstones also carrying portraits of the person and pictures of obituaries clipped from newspapers. Its Pulaski County family-cemetery example is not used.
@@ -599,7 +599,7 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
 - **P172:** Just Genealogy, [The Case of Henry Eppers - JG0064](https://www.youtube.com/watch?v=SXbT23qTTUY), published 2022-05-11. Community source. Fetch attempted 2026-11-18; the video did not render on open. Attribution is limited to the supplied transcript excerpt in which the presenter suggests looking in the Quartermaster files. The caption's death cutoff and general assertion about digitization are not used.
 - **P173:** Claire Kluskens, National Archives, [Research Guide for Headstone Records for U.S. Military Veterans Buried in Nonfederal Cemeteries, 1879–1985](https://www.archives.gov/files/research/military/veterans/headstones-nonfederal-cemeteries.pdf), February 2019 edition, read 2026-11-18. The guide identifies RG 92 entry 592, its 1909–1924 scope and arrangement by state and county, M1845, and the M1916 and M2113 microfilm copies on Ancestry and FamilySearch. It notes that those later application series include earlier deaths. Ancestry's live record images were not inspected.
 - **P174:** FamilySearch, [United States, Headstone Applications for U.S. Military Veterans, 1925-1949](https://www.familysearch.org/en/search/collection/1916249), read 2026-11-18. The collection page identifies Quartermaster General applications on M1916 (1925–1941) and M2113 (1941–1949).
-- **P175:** Just Genealogy, [News & Corrections Just Genealogy #2 - JG0087](https://www.youtube.com/watch?v=mGUmoVxB2b0), published 2022-06-03. Community source. Fetch attempted 2026-11-18; the video did not render on open. The supplied transcript excerpt describes a veterans' cemetery cenotaph for a sailor lost at sea. The example does not supply a burial record.
+- **P175:** Just Genealogy, [News & Corrections Just Genealogy #2 - JG0087](https://www.youtube.com/watch?v=mGUmoVxB2b0), published 2022-06-03. Community source. Captured transcript read 2026-11-19. The presenter relayed a relative’s account of a Maryland veterans’ cemetery cenotaph for a sailor lost aboard USS Cyclops, without supplying a burial record.
 - **P176:** VA National Cemetery Administration, [Headstones, Markers, and Medallions](https://www.cem.va.gov/hmm/), read 2026-11-18. The memorial-marker section describes commemorating people whose remains are unavailable, including burials at sea, and specifies the heading “IN MEMORY OF” on government memorial markers.
 - **P177:** MyHeritage Blog, [MyHeritage Adds 89 Million Historical Records in August 2023](https://blog.myheritage.com/2023/09/myheritage-adds-89-million-historical-records-in-august-2023/), published 2023-09-04, read 2026-11-18. Community source and provider announcement. Describes the two partner copies of the Worldwide Jewish Burial Registry and the scope and fields of the Manchester collection. The recipe omits the launch-era country and record counts and the assertion of near-complete Israeli coverage.
 - **P178:** MyHeritage, [Worldwide Jewish Burial Registry from JewishGen](https://www.myheritage.com/research/collection-11019/worldwide-jewish-burial-registry-from-jewishgen), read 2026-11-18. Confirms JewishGen supplied the data and lists optional birth, death, age, cemetery, parent and spouse fields.
@@ -616,6 +616,8 @@ were checked on 2026-11-16 against P151, P152 and P154–P157.
 - **P189:** MyHeritage, [England, Lancashire, Manchester Burials](https://www.myheritage.com/research/collection-20601/england-lancashire-manchester-burials), read 2026-11-18 on the provider's redirected French-language page. The collection description confirms burials from 1850 onward and the deceased's name and burial date and place.
 - **P190:** MyHeritage, [England, Lancashire, Manchester Parish Burials, 1603-1910](https://www.myheritage.com/research/collection/england-lancashire-manchester-parish-burials-1603-1910/colid-20795), read 2026-11-18 on the provider's redirected Dutch-language page. The collection description confirms the Diocese of Manchester and 1603–1910 scope.
 - **P191:** Ancestry, [U.S., Headstone Applications for Military Veterans, 1861-1985](https://www.ancestry.ca/search/collections/2375), read 2026-11-18 on Ancestry's Canadian site after the U.S. page refused the fetch. The collection description dates the forms it describes to 1925–1963 and says the files include veterans of earlier conflicts. The page announces a 2023 addition without identifying the added years in the description. The recipe uses the catalog title for navigation and the application-series dates for coverage.
+
+- **P192:** Denyse Allen, [Berks County Association for Graveyard Preservation](https://www.youtube.com/watch?v=38jzvP3IYKc), published 2020-11-20. Captured transcript read 2026-11-19. The interview describes the association’s own cemetery compilation, its errors and its inclusion of dowsing-based locations.
 
 ## Credits
 
