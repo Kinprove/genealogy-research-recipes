@@ -156,7 +156,7 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
    father's name is writing within twelve months of the father's death. A posthumous printing
    can add ז"ל, so the printing year does not date a death. When the passage's own date is
    known, such as a dated introduction, ז"ל shows the person was dead by then.
-4. Check each surname hit in its sentence. In a Ukrainian-family search, matches included names from other regions and the name of a town [S27]. Record which hits actually denote people, then test each person’s era, place and kin.
+4. Check each surname hit in its sentence. Kinprove’s search for a Ukrainian family returned namesakes from other regions [S27]. Determine whether the word in each new hit names a person or a place before using it as relationship evidence.
 
 ## 4. Collect the forms that the texts use
 
@@ -166,7 +166,7 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
 2. Add the sacred and everyday given-name pairs: Tzvi and Hirsh, Aryeh and Leib, Dov and
    Ber, Ze'ev and Wolf, Naftali and Hirsh, Yehudah and Leib, Shlomo and Zalman.
 3. Search Yiddish and Hebrew place spellings separately, including אומין and אומן for Uman. A dated Otzar search found books under one spelling of a town after another gave zero [S27]. Keep the exact query, date and editions returned for each form.
-4. Search a distinctive letter pair in the text to find additional spellings. For Kremenchug, טש occurs inside קרימינטשאק, including in the addressee of letter 226 in *Alim le-Terufah* [S27].
+4. Search a distinctive letter pair in the text to find additional spellings. For Kremenchug, טש occurs inside קרימינטשאק, including in the addressee of letter 226 in *Alim le-Terufah* [S29].
 5. Keep a table of each spelling and its hit count. A missing form looks exactly like a
    missing person.
 

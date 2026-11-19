@@ -123,12 +123,15 @@ identifiers or account details are included.
   read 2026-11-13. Used for: in a traditional wedding, the ketubah is signed by two witnesses and
   read aloud under the chuppah between the erusin and the nissuin.
 
-- **S27. Kinprove, original research notes on searching rabbinic and Hasidic books.** [Field notes](https://github.com/Kinprove/genealogy-research-recipes/blob/871275861ec513f393dce8c64958db80499b3bfa/skills/genealogy-research-recipes/sources/rabbinic-literature-person-search.md). Original published account of the May–October 2026 corpus checks read 2026-11-19. The underlying scan includes town names among the apparent surname hits. The Kremenchug spelling was checked in the transcription of letter 226; the counts were not reproduced.
+- **S27. Kinprove, original research notes on searching rabbinic and Hasidic books.** [Field notes](https://github.com/Kinprove/genealogy-research-recipes/blob/871275861ec513f393dce8c64958db80499b3bfa/skills/genealogy-research-recipes/sources/rabbinic-literature-person-search.md). Original published account of the May–October 2026 corpus checks read 2026-11-19. It reports the surname and place-spelling searches; the numerical results were not reproduced.
 
 - **S28. Kinprove, field report on a 1991 journal article, issue 294.** [Field notes](https://github.com/Kinprove/genealogy-research-recipes/issues/294). Published field report read 2026-11-19. The report describes two letter facsimiles, an editorial identification, a reconstructed season and an oral chain; the source article was not independently inspected.
 
+- **S29. R. Noson Sternhartz of Nemirov, Alim le-Terufah.** [Warsaw 1930 edition, letter 226, printed p. 194 (scan page 212)](https://hebrewbooks.org/pdfpager.aspx?req=43280&st=&pgnum=212). Warsaw 1930 YIVO scan, HebrewBooks 43280, printed page 194 (PDF page 212), letter 226: the printed address line was read 2026-11-19 and checked against the text layer. The heading identifies R. Ephraim of Kremenchug as the addressee.
+
 ## Credits
 
+- Noson Sternhartz, YIVO copy via HebrewBooks (S29) — Bibliographic locator and place spelling (adapted)
 - Kinprove (S28) — Original field observations (kinprove-original)
 - Kinprove (S27) — Original field observations (kinprove-original)
 - Kinprove — original distillation, synthesis and measurements; third-party pages are cited,
