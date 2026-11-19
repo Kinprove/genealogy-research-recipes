@@ -128,9 +128,11 @@ enters a recipe only for what it changes there. Keep its lesson, not its story:
   when the case supplies an action or an alternative that the rule lacks.
 - Do not rest a positive, numeric or frequency claim on one unverified case. Cite
   a source that supports it, or leave it out.
-- Keep values the assistant uses, a verified counterexample to a plausible bound,
-  and a dated report of undocumented platform behaviour paired with a check of the
-  user's own account.
+- Keep values the assistant uses and a dated report of undocumented platform
+  behaviour paired with a check of the user's own account.
+- Keep a counterexample that shows a tempting inference failing, as one sentence
+  with its citation. In a pilot, removing one such sentence led a model into the
+  trap it warns about ([report](reports/issue-389-single-case-pilot.md)).
 - Leave motivating links and who said what to the source sidecar.
 
 The reviewed `tests/privacy_gate_inventory.json` remains independent. Its
