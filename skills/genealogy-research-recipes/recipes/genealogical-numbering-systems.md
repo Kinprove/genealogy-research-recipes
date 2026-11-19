@@ -50,7 +50,7 @@ Find the compiler's key or introduction and name the system before decoding a si
 - Person 1 is the subject, male or female. For any person n, the father is 2n and the mother is 2n + 1. [S3], [S6], [S2]
 - Every number from 2 up is therefore male if even and female if odd. Take person 1's sex from the records, not from the number. [S3], [S6]
 - By the same rule, person n's child in the chart is n divided by 2, rounded down. Each generation starts at a power of two: the parents are 2 and 3, the grandparents 4 to 7, the great-grandparents 8 to 15. This arithmetic is the recipe's own.
-- To read a long number as a path, write it in binary, drop the leading 1 and read the remaining digits from the subject upward: 0 is a father, 1 is a mother. Tree & Leaf's example 116 (binary 1110100) is the subject's mother's mother's father's mother's father's father. [S3]
+- To read a long number as a path, write it in binary, drop the leading 1 and read the remaining digits from the subject upward: 0 is a father, 1 is a mother. For 116, drop the first digit of 1110100 and trace 110100 from the subject: mother, mother, father, mother, father, father [S3].
 - The direct paternal line is 2, 4, 8, 16 and so on, the powers of two. [S6] By the same rule, the direct maternal line is 3, 7, 15, 31.
 - Even numbers do not mark the paternal side. That side is 2 and all of 2's ancestors, and the maternal side is 3 and all of 3's ancestors, with men and women on each. [S6]
 
@@ -64,7 +64,7 @@ Henry numbering gives the progenitor 1 and each child the parent's number follow
 
 Positions past nine differ by scheme. In Henry's own scheme the tenth child is X, the eleventh A and the twelfth B; Modified Henry puts the position in parentheses, so the tenth child of 12 is 12(10) rather than 12X. [S2] Count a parenthesized group as one position. d'Aboville numbering separates generations with periods, so count the period-separated segments instead. [S2] Never decode a letter or bracket in a Henry number until the document's key says which child position it stands for.
 
-The Just Genealogy presenter reports the same reading of 11 and 112 with the digit count as the generation, and reports a working-paper extension under the Modified Henry name that continues past nine with letters [S1†].
+Check the author’s key when “Modified Henry” appears on working papers. The Just Genealogy presenter reports using letters past the ninth child under that name [S1†]. A parenthesized position and a letter can therefore require different readings [S2].
 
 ## 4. Register: follow identification numbers to full entries
 
@@ -83,9 +83,9 @@ The Just Genealogy presenter reports that NGSQ numbering gives everybody a numbe
 
 ## 6. Split given names from surname at the generation superscript
 
-In NEHGS-style genealogies the superscript generation number follows the given names and precedes the surname, as in Christopher Challender⁶ Child, and a parenthetical list after the name gives the ancestors back to generation 1, each with a superscript. [S5], [S3] Treat the words before the superscript as given names and those after it as the surname, even when the surname has more than one word. Published genealogies differ in where the superscript sits relative to the surname, so confirm the placement on an entry whose names you already know before splitting names across a whole publication. [S5]
+In NEHGS-style genealogies the superscript generation number follows the given names and precedes the surname, so Christopher Challender⁶ Child has the surname Child. The parenthetical list traces his ancestors back to generation 1, with a superscript for each. [S5], [S3] Treat the words before the superscript as given names and those after it as the surname, even when the surname has more than one word. Published genealogies differ in where the superscript sits relative to the surname, so confirm the placement on an entry whose names you already know before splitting names across a whole publication. [S5]
 
-Read a superscript against the publication's own generation 1, not against the person you are researching. Child, for example, numbers the first generation living in the United States as 1 and marks earlier, non-emigrant generations with letters, A being the immigrant's father. [S5]
+Read a superscript against the publication's own generation 1, not against the person you are researching. In Child’s examples a first U.S. generation is numbered 1, and its non-emigrant father may be marked A [S5]. Record the author’s starting generation before comparing the same person across lineages.
 
 The Just Genealogy presenter reports placing a number between the given names and the surname to tell surnames, including unhyphenated ones, from other names [S1†].
 
