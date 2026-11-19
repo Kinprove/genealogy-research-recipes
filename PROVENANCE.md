@@ -730,7 +730,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [criminal-court-prison-record-recovery](provenance/criminal-court-prison-record-recovery.yml) | 17 | 21 | 4 | — |
 | [danish-church-book-probate-recovery](provenance/danish-church-book-probate-recovery.yml) | 0 | 0 | 0 | — |
 | [dar-ancestor-record-interpretation-and-correction](provenance/dar-ancestor-record-interpretation-and-correction.yml) | 0 | 0 | 0 | — |
-| [deed-content-relationship-clues](provenance/deed-content-relationship-clues.yml) | 16 | 8 | 0 | — |
+| [deed-content-relationship-clues](provenance/deed-content-relationship-clues.yml) | 10 | 3 | 0 | — |
 | [descendancy-gap-worklist](provenance/descendancy-gap-worklist.yml) | 6 | 12 | 0 | — |
 | [dna-comparison-controls](provenance/dna-comparison-controls.yml) | 29 | 14 | 4 | — |
 | [dna-match-outreach-staging](provenance/dna-match-outreach-staging.yml) | 16 | 12 | 0 | — |
