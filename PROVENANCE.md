@@ -249,10 +249,10 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `gedcom-research-export#C-305b8ca171cd` | platform-ui | 2026-11-18 | 2027-05-17 | S24, S26 |
 | `gedmatch-practical-dna-workflows#C-4e9da65b05fc` | fee | 2026-11-12 | 2027-02-10 | H9, H1, H4 |
 | `gedmatch-practical-dna-workflows#C-144b3560073f` | platform-ui | 2026-11-12 | 2027-05-11 | S21, S22, S23 |
-| `gedmatch-practical-dna-workflows#C-superkit-same-person` | platform-ui | 2026-11-16 | 2027-05-15 | H9, H15, S26, H19 |
-| `gedmatch-practical-dna-workflows#C-endogamy-largest-segment-threshold` | platform-ui | 2026-11-16 | 2027-05-15 | S28, H17, S30, S26 |
-| `gedmatch-practical-dna-workflows#C-overlap-flag-cutoff` | platform-ui | 2026-11-16 | 2027-05-15 | H3, H16, H18, S29, S26 |
-| `gedmatch-practical-dna-workflows#C-gedcom-tree-comparison` | platform-ui | 2026-11-16 | 2027-05-15 | H12, S26, H14, S27, H13 |
+| `gedmatch-practical-dna-workflows#C-superkit-same-person` | platform-ui | 2026-11-19 | 2027-05-18 | H9, H15, H19, S26 |
+| `gedmatch-practical-dna-workflows#C-endogamy-largest-segment-threshold` | platform-ui | 2026-11-19 | 2027-05-18 | S28, H17, S30, S26 |
+| `gedmatch-practical-dna-workflows#C-overlap-flag-cutoff` | platform-ui | 2026-11-19 | 2027-05-18 | H3, H16, H18, S29, S26 |
+| `gedmatch-practical-dna-workflows#C-gedcom-tree-comparison` | platform-ui | 2026-11-19 | 2027-05-18 | H12, S26, H14, S27, H13 |
 | `gedmatch-practical-dna-workflows#C-ancestrydna-cross-company-matching` | platform-ui | 2026-09-27 | 2027-03-26 | H20, S31, H3 |
 | `gedmatch-practical-dna-workflows#C-ancestrydna-upload-and-basic-matching-fee` | fee | 2026-09-27 | 2026-12-26 | H21, H3 |
 | `geni-practical-research-workflows#C-bb9ca1866a58` | platform-ui | 2026-11-12 | 2027-05-11 | H19, H20, H21, H22, H24 |
@@ -772,7 +772,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [ftm-research-workflows](provenance/ftm-research-workflows.yml) | 0 | 0 | 0 | — |
 | [galicia-bukovina-habsburg-record-routing](provenance/galicia-bukovina-habsburg-record-routing.yml) | 50 | 11 | 1 | — |
 | [gedcom-research-export](provenance/gedcom-research-export.yml) | 8 | 7 | 0 | — |
-| [gedmatch-practical-dna-workflows](provenance/gedmatch-practical-dna-workflows.yml) | 20 | 16 | 8 | — |
+| [gedmatch-practical-dna-workflows](provenance/gedmatch-practical-dna-workflows.yml) | 18 | 14 | 7 | — |
 | [genealogical-numbering-systems](provenance/genealogical-numbering-systems.yml) | 0 | 0 | 0 | — |
 | [genealogy-standards-audit](provenance/genealogy-standards-audit.yml) | 17 | 2 | 2 | — |
 | [geni-practical-research-workflows](provenance/geni-practical-research-workflows.yml) | 20 | 7 | 0 | — |
