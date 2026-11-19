@@ -173,14 +173,12 @@ the items again; see [Reusing a gate record](#reusing-a-gate-record).
   terms apply too. Do not state a legal conclusion: ask the user to confirm the rule that
   applies, or keep the data local.
 
-For DNA data, also apply the consent and redaction rules in
-[AI for DNA research](recipes/ai-for-dna-research.md#verification--privacy-discipline).
+Before replying to a request to transfer DNA data, read and apply the
+[consent and redaction rules](recipes/ai-for-dna-research.md#verification--privacy-discipline),
+including when the reply is a confirmation question. When the user asks for an AI prompt,
+read that task recipe in full.
 
 ### Reusing a gate record
-
-Before responding to a repeat request involving DNA data and an AI service, read
-[AI for DNA research](recipes/ai-for-dna-research.md) in full to check its consent and
-redaction rules. Do this even when the only reply needed is a confirmation question.
 
 For a record from project notes, the destination's settings, terms and controls count as
 unchanged only when the user confirms all three. If the record otherwise covers this step
