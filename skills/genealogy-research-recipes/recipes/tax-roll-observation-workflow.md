@@ -37,7 +37,7 @@ Make one row for each combination of jurisdiction (town, township or county), ta
 - **list not surviving**
 - **not inspected**
 
-First find out which years survive, and separately which years are in the set you are actually viewing. In the teaching example, the presenter's online Chester County set has an 1838 list and then nothing until 1875 [S15]. That gap leaves 36 years (1839–1874) with no list in that set. It does not give you 36 observed absences. The Chester County Archives reports holding tax records from 1715 onward, so treat the gap as a limit of the set viewed, not as loss: mark 1839–1874 "not inspected" and check the Archives' holdings for those years. Treat absence as informative only where you have evidence that the locality's lists were comprehensive for the person's category, and record where that evidence comes from [S15]. A tax list covers only part of the community, mostly men. It leaves out groups such as exempted men, so it is not a full census substitute [S9].
+Compare the years in the online set with the archive's series guide. A search in New Garden, Chester County, jumped from 1838 to 1875 [S15]. Mark 1839–1874 uninspected in that set. The county archive's digital guide lists provincial taxes as early as 1715 and includes 1871–1900 under County Taxes, RG2040.003 [S60]. Check the township in those additional rolls before logging a miss. Even an inspected tax list covers only the people liable in that place and year [S9].
 
 A name index is also a finding aid, not an inspection. FamilySearch's "Texas, County Tax Rolls, 1837–1910" indexes only selected years: the first year before 1845, then 1845, 1855, 1865, 1875, 1885, 1890, 1895 and 1905. It covers 231 of 254 counties and is about 13% complete. A miss in an index like that is "not inspected" for the year and county concerned. It becomes "inspected – no hit" only after you have read the images. Treat a list you find through a county guide or an abstract card the same way: record it as a finding aid, not as the inspected list [S16].
 
@@ -59,14 +59,14 @@ Take this from, in order of preference:
 
 1. the list's preamble or column headings, which can state who and what was taxed and the age range [S1]
 2. the session statutes in force for that place and year, for taxable ages, taxable property, exemptions and form layout [S2], [S3]
-3. a published summary of the period's tax laws; one presenter used a summary of Tennessee tax law [S3]
+3. a published tax-law summary for that jurisdiction, used to identify the legislation for the list's year [S3]
 4. an archivist at the state archives [S6]
 
 If the statute book gives no assessment rate, search contemporary newspapers for it [S2]. When columns or check marks have no headings, do not guess what they taxed. Find the governing law first [S3].
 
 To test whether a Virginia county taxed males aged 16–21 after 1783, do not stop at the state statutes: read that county court's order books, where county levies can appear [S26], [S32]. Section IX of the May 1783 act left county courts free to list free male tithables of those ages and tax them for county or parish levies, but it does not require a specific order, and clerks varied [S26], [S33]. An order found shows the county levied the tax; no order found leaves the county's practice undetermined [S26], [S33].
 
-Do not apply a poll-tax age from memory (21, 45, 50, 55). Each of these is tied to a particular state and period. In North Carolina, the State Library of North Carolina's guide gives poll-tax liability for freemen and male servants aged 21 and over by 1784, an exemption for men over 50 by 1801, and a limit lowered to 45 in 1817. Texas's first poll tax (1837) fell on white males aged 21 to 55. One presenter uses an over-55 exemption as an example [S6]. Cite the rule for your place and year, or mark the scope **not determined**.
+Verify the poll-tax age for the jurisdiction, period and person's category [S6]. The State Library of North Carolina's table lists free men aged 21 and over in 1784, 21–50 in 1801 and 21–45 in 1817 [S61]. Section 8 of the Republic of Texas act of 12 June 1837 specified white males aged 21 to 55 [S62]. Cite the applicable rule, or mark the age range **not determined**.
 
 For Virginia colonial tithables, do not assume a minimum age of 21 or a white-male-only rule: the March 1642/3 law set 16 for youths and also named Black women at 16, and 16 continued for white males through the October 1748 act [S26], [S27], [S28]. A state poll tax at 21 was levied by October 1777 and the November 1781 act taxed free males above 21, but the Library of Virginia says counties could still choose to tax everyone over 16 in 1782–1787 [S29], [S30], [S31].
 
@@ -74,7 +74,7 @@ Do not read homestead land as permanently exempt, as one community post implies 
 
 For a household missing from a hearth-tax payment list, test whether it was exempt [S47]. Look for a non-chargeable entry or an exemption certificate for the place and term. Check the grounds in force, including whether the householder was excused from church and poor rates because of limited means or met the applicable rent and property limits [S48].
 
-For a free Black woman on a colonial Virginia tithables list, check the law in force before assigning liability. The Just Genealogy presenter reports that free women of color could be liable in Virginia [S53†]. The September 1668 act confirmed that Black women who had been freed remained liable [S56].
+For a free Black woman on a colonial Virginia tithables list, check the law in force before assigning liability. The Just Genealogy presenter reports that free women of color could be liable in Virginia [S53]. The September 1668 act confirmed that Black women who had been freed remained liable [S56].
 
 ## 3. Search each tax series separately
 
@@ -94,7 +94,7 @@ Read a Pennsylvania septennial census as a seven-year enumeration of taxable inh
 
 ## 4. Learn how the volume is arranged before browsing
 
-Before paging through an unindexed volume, read its township or section headings and plot their order on a contemporary township/range map. One presenter, working in Ohio and Michigan volumes, found them arranged by township/range position rather than alphabetically, and the direction of travel was not consistent [S2]. Pennsylvania lists are organised by township, so use land records first to find the family's township [S16].
+Use the volume's headings and a contemporary township/range map to find the sequence before browsing. Chester Ward's 1845 Genesee County, Michigan, entry was in section 2, township 8, range 7 [S2]. Check the next headings to establish which direction this particular roll runs. For a Pennsylvania list arranged by township, locate the family's land first [S16].
 
 Treat names next to each other as neighbour candidates only if you have shown the list follows a geographic or assessor-visit order. Alphabetical, letter-grouped or recopied lists say nothing about who lived next to whom. In a letter-grouped list, read the whole letter block before you record "inspected – no hit". Write the arrangement you found into the register.
 
@@ -105,9 +105,9 @@ Treat an alphabetical list as a probable recopy. Some tax lists were rewritten i
 When a parish is known from church records but the tax archive uses unfamiliar administrative divisions, look for a parish/year contents index rather than guessing the tax district. ArkivDigital's 7 February 2024 demonstration used *Innehållsförteckningar till mantalslängder* to reach the parish's section of the original roll [S25]. This is a contents index, not a person index.
 
 1. Fix the parish and bounded years from the household research. In the demonstrated route, choose the tax-roll contents index under register search, enter the parish and year range, and inspect the returned roll references. Locate the corresponding finding aid in the current service; the demonstration does not guarantee today's menu or coverage.
-2. Keep each returned volume separate. The example returned two rolls for one year [S25]; one result is not necessarily the whole annual set. Copy the archive, volume, stated year and parish-section locator supplied by each result into the series register.
+2. List every roll returned for the same parish and year. An ArkivDigital contents search yielded two rolls for a single year [S25]. Keep the archive, volume, stated year and parish-section locator for each until its images establish what it covers.
 3. Follow the image link to the original roll and verify its parish heading and year. Then locate the recorded farm or residence within that section. The contents hit establishes a browsing entry point; it does not establish that the household is present.
-4. Read the volume's opening pages and original column headings before extracting counts or marks. In the demonstration, the presenter returns to the first page to explain the columns and stresses that their meanings vary by period [S25]. Keep the heading locator and literal labels with that year's entries; leave an unexplained column unresolved.
+4. Check the first page for the original column key before interpreting ticks or counts [S25]. Record the heading and its locator with that year's entries. Where a label stays unreadable, leave the column unresolved.
 5. Repeat for the next inspected year, retaining the same farm/residence clue alongside the names, household categories and counts actually recorded. Recheck headings and liability rules rather than carrying a column meaning or age threshold across years automatically.
 6. Apply the interval and competing-explanation checks below. The presenter describes annual farm tracking and warns that a child's appearance can reflect the applicable taxable age, while an adult's disappearance can reflect exemption from tax [S25]. Neither change dates a birth or death. A missing or uninspected roll remains a gap in the chain.
 
@@ -119,9 +119,9 @@ Name every column from its heading before you read its values: a sum of money, a
 
 Read *chimney money* in England and Wales as the hearth tax introduced in 1662 and assessed per hearth or stove [S47], [S48]. Its two equal installments fell due at Lady Day (25 March) and Michaelmas (29 September) [S47], [S48]. Record the stated collection term as well as the year and keep the two terms separate in the series register.
 
-Transcribe *LF* as written and expand it as *levy free* where the list or its annotated transcription supports that reading, as in the 1813 Charlotte County, Virginia, roll [S54]. The Just Genealogy presenter reports this reading and gives a court order as one route to exemption [S53†]. Where the law provided for individual exemptions, check the county order book for the grant and record its scope and effective date. A St. Peter's Parish vestry entry records a parishioner producing such an order [S55].
+Transcribe *LF* before expanding the abbreviation. In the 1813 Charlotte County, Virginia, transcription, Peggy Bird's entry includes an explicit gloss of *Lf* as *levy free* [S54]. Where an exemption could be granted individually, check the county order book [S53]. The St. Peter's Parish vestry recorded Peter Maye presenting a court order for levy-free status [S55]. Cite the minute as evidence he produced it, and look for the order itself to establish its date and scope.
 
-If a Virginia tithables list names an overseer, record that capacity alongside the enslaved people listed and the person charged with the levy. The Just Genealogy presenter reports that an overseer could be involved in the levy [S53†]. Under Virginia's October 1748 act, an overseer could file the list for an absent or nonresident owner, who still owed the levy on tithables the overseer failed to list [S57].
+If a Virginia tithables list names an overseer, record that capacity alongside the enslaved people listed and the person charged with the levy. The Just Genealogy presenter reports that an overseer could be involved in the levy [S53]. Under Virginia's October 1748 act, an overseer could file the list for an absent or nonresident owner, who still owed the levy on tithables the overseer failed to list [S57].
 
 For each entry, keep:
 
@@ -131,14 +131,11 @@ For each entry, keep:
 - any paid or delinquent mark, plus the list section (land, personal, inmates, poll)
 - the image or volume locator
 
-Capacity notations carry dating information. In the teaching example, the presenter worked backward one year at a time from the 1860 Rusk County, Texas roll [S12]. Put in chronological order, her reported sequence is:
+Trace changes in capacity on the same tract back from the last identified taxpayer. In Rusk County, Texas, the 400-acre tract links entries under different names [S12]. Read the following observations in date order and keep years without an inspected roll open.
 
-- 1850–1852: James McClure, taxed on 400 acres. James M. Johnson is named as the original owner in 1851–1852; in 1850 the original owner is given as James McClure.
-- 1853: Susan McClure alone, with matching property
-- 1854: S. W. McClure, administrator of "J." McClure, listed directly below F. M. McClure
-- 1855: F. M. McClure, guardian for the heirs of McClure
-- 1859: Francis M. McClure, agent for McClure
-- 1860: F. M. McClure
+- In 1850–1852 James McClure was taxed on 400 acres. The 1850 entry names James as original owner, while 1851–1852 name James M. Johnson [S12].
+- In 1853 Susan McClure appears with matching property. In 1854 S. W. McClure, administrator of “J.” McClure, appears below F. M. McClure [S12].
+- In 1855 F. M. McClure is guardian for the heirs of McClure. The 1859 roll identifies Francis M. McClure as an agent and the 1860 entry names F. M. McClure [S12]. Check probate and deeds before equating the taxpayers, the decedent or their relationships.
 
 Link the years through the repeated tract description, because the name and capacity change from year to year. Then trace an unusual acreage in deeds, where a nominal sale price is a lead and not proof of kinship [S14].
 
@@ -162,7 +159,7 @@ Test the candidates against other records:
 - Census presence [S13].
 - The next jurisdiction, for a candidate move [S20], [S19].
 
-The bound you report runs from the last inspected list on one side of the change to the first inspected list on the other. Annual lists give a one-year interval only when those two years are consecutive and both are inspected – hit or inspected – no hit. Across a run of missing or uninspected years, the interval covers the whole run. With annual lists, one year is the tightest bound. One presenter says some town lists were made monthly and that he timed a Rhode Island-to-New York move to the month from them [S20], [S18]. Claim month-level precision only where your own register shows consecutive inspected monthly lists.
+Bound a change by the last inspected roll on one side and the first inspected roll on the other [S18], [S20]. Two consecutive inspected annual rolls give an interval of about a year. Missing or uninspected years widen it. A Rhode Island-to-New York move was reportedly narrowed using monthly town lists [S20]. Use a month-level interval only if your series register identifies the two inspected monthly rolls and their actual dates.
 
 A son's first entry as a separate taxpayer is a bounded clue to his coming of age or to a separate household [S18]. It is not an exact birthday. If you estimate a birth year from a liability age, give a range and cite the specific rule you used [S8]. Without a documented age band, give no estimate. Same-surname men taxed next to an older householder are only candidate sons. Send them, and every identity question, to [evidence/proof judgment](evidence-proof-judgment.md).
 
