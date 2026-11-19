@@ -22,6 +22,7 @@ example the [emigrant-origin packet](russian-empire-emigrant-origin-recovery.md)
 ## Contents
 
 - Preserve the locator
+- Format the citation
 - Connect the citation to the evidence
 - Recheck shortened report references after editing
 - Follow an earlier application cited as evidence
@@ -55,6 +56,16 @@ of your visit. It supports the citation but is not the citation. The
 Keep the record's creation date separate from the date you viewed it. Preserve a documented
 mapping between archive and film identifiers when available. An index entry and an inspected
 original image have different retrieval paths; record which one you used.
+
+When a U.S. National Archives finding aid identifies the series for a textual record, note the
+record group and full entry number. Include the inventory or preliminary inventory number when
+needed to identify the aid. Use the entry to recover the series title and any series identifier
+the aid supplies. Check the series description against the record you inspected
+[N8](https://www.archives.gov/files/research/foreign-policy/related-records/rg-76-international-boundaries.pdf).
+In the finished citation, include the series and the item or file locator alongside the record
+group and repository [N9](https://www.archives.gov/files/publications/general-info-leaflets/17-citing-records.pdf).
+This step draws on Craig R. Scott's note-taking advice from the available excerpt
+[N7](https://www.youtube.com/watch?v=pvr1z7Mchxw).
 
 A cropped image or transcription of one register entry often loses the page header, so it may
 carry no year or place. While the full page is still open, record those values from the page
@@ -114,6 +125,17 @@ When a volume has no printed page number, describe the entry by its actual inter
 For a filmed or digitized register, inspect the cover, spine or title frame and preserve its actual volume label. A catalogue title may describe an entire series rather than the specific volume you used. Record any mismatch explicitly; if the item has no title, supply a descriptive label as your own instead of silently assigning the series title to it [N3](https://genealogytipoftheday.com/index.php/2023/06/27/getting-all-the-details/), [N4](https://www.evidenceexplained.com/node/2230).
 
 Binding does not establish publication. If the "book" is an unpublished typescript or manuscript deposited in a repository, identify its creator, title or supplied description, composition date when known, collection/item locator and holding institution with location. Do not invent a publisher or publication date from the binding or catalogue appearance [N5](https://genealogytipoftheday.com/index.php/2024/12/13/when-to-cite-a-specific-book/), [N6](https://answers.library.georgetown.edu/research/faq/228516).
+
+## Format the citation
+
+If you use *Evidence Explained*, adapt a chapter 3 template from the fourth edition or a
+QuickCheck model from an earlier edition to the source and layer you actually inspected
+[N10](https://genealogical.com/2024/02/05/author-elizabeth-shown-mills-talks-about-the-new-fourth-edition-of-evidence-explained-citing-history-sources-from-artifacts-to-cyberspace-by-elizabeth-shown-mills-cg-cg-fasg/).
+When the editor provides a style sheet, use it to format the publication draft
+[N11](https://www.ngsgenealogy.org/wp-content/uploads/2026/01/2025.12.8-NGSQ-style-sheet.pdf)
+and retain the full locator in your working notes. The advice to use a model as a guide comes
+from Craig R. Scott's video (partial access via supplied transcript excerpts)
+[N7](https://www.youtube.com/watch?v=pvr1z7Mchxw).
 
 ## Connect the citation to the evidence
 

@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 110}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 120}
 ---
 
 # Read early New England town books across parent towns and decode Torrey entries
@@ -52,6 +52,16 @@ For Connecticut’s Barbour Collection, copy the town, volume and page locator a
 Treat Massachusetts Vital Records to 1850, the Tan Books, as compiled evidence drawn from town, church and private records, gravestones and newspapers. Decode the source label for the particular entry and seek that underlying record. Do not describe every Tan Book entry as a transcription of a town clerk’s original, or add a family Bible to its provenance unless the volume identifies one. [S15], [S17]
 
 For Massachusetts land, separate the town’s original allotment from the later conveyance record. Search town records for the distribution, then use the county or land district’s Registry of Deeds for recorded transfers. Select the registry that covers the town, rather than assuming the town clerk’s book contains the whole title chain. [S15], [S18]
+
+## Use early Boston compilations
+
+For a seventeenth-century Boston resident, search the alphabetical entries in Jay Mack Holbrook’s *Boston Beginnings, 1630–1699* (1980). Copy the name as printed, the record year, the purpose of the entry and the cited source. Check the cited source before using the row’s year as an event date. [S19], [S20]
+
+Choose the Boston Record Commissioners’ report by record type. Use volumes 2 and 7 for seventeenth-century town business and volume 9 for early Boston births, baptisms, marriages and deaths. Use the Boston Public Library’s volume guide to identify the report before searching it. [S19], [S21]
+
+If a Boston birth search comes up empty in 1647–1650 or 1675, flag the incomplete town birth coverage identified in the ninth report’s preface. Check the separately labelled First Church baptisms and record any baptism under its own event type. [S19], [S22]
+
+For a Boston marriage, note the municipal marriage register runs described in the ninth report’s preface for 1651–1662 and 1689–1699. For the intervening years, scan the surrounding town entries, including pages headed *Births and Baptisms*. A marriage appears among the town births on printed page 182. For 1699, also check the two marriage entries added in the preface. [S19], [S22]
 
 ## Decode a Torrey entry before using it
 

@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-match-outreach-staging", "evidence-proof-j
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
 capabilities: {"browse": ["ethnicity-estimate help pages and published method papers", "the tester's own estimate and match list"], "local_script": [], "extensions": [], "data_transfer": ["upload"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 27}
+router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 31}
 ---
 
 # Interpret an ancestry-composition (ethnicity) estimate
@@ -47,6 +47,10 @@ Record each estimate as the site shows it: the platform (or the admixture projec
 - **Regions are not countries.** MyHeritage describes the boundaries between ethnicity groups as blurry and not confined by modern political borders, so a result may point to a neighbouring group with shared ancestry. [S3] Russell, comparing five companies, finds the numbers strong at the continental level and still problematic at the regional or country level. [S7]
 - **Precision differs by population.** At the lower threshold, 23andMe's Ashkenazi Jewish population reached 99.3% precision and 98.6% recall; its Central & West Europe population reached 79.7% and 81.3%. These figures were measured on reference individuals of unmixed ancestry. [S5]
 
+If a percentage estimate omits an expected place, check whether the testing company's reference panel covers the population you are investigating. A gap in reference coverage can explain the omission, according to Ancestry's documentation [S14] and the submitted extract from the Family Tree Magazine episode [S13†]. Keep the ancestry question open and test the line with records or matches.
+
+Use the places highlighted in a DNA community or location report to choose localities for a historical record search, as the Family Tree Magazine search-result extract recommends [S11†]. Read the community timeline as group history [S12]. Establish when each ancestor lived there and for how long from records.
+
 ## 2. Treat a small share as unconfirmed
 
 The MyHeritage post behind this rule says a reported origin can be trusted even at 2%. [S1] That is not followed. MyHeritage's help centre says small percentages may be noise rather than an ancestral signal and may not indicate a meaningful heritage connection [S3], and its 2017 announcement of the ethnicity analysis warned of false positives, especially at very low percentages [S4].
@@ -64,6 +68,12 @@ The community source for this section, Kitty Cooper in a Family Tree Magazine in
 ## 4. Do not test relationships with percentage differences
 
 A child does not inherit a parent's percentages. [S1] Each child receives a random half of each parent's DNA, so the share from each grandparent can differ from a quarter (MyHeritage's example is 30% and 20%), siblings can carry different proportions from the same ancestors, and a distant line can leave little or no detectable DNA. [S3] A child's share of a region can therefore be larger or smaller than a parent's, or missing. Of five siblings in Russell's family, four were labelled Scandinavian and the fifth got the North and West European label the family expected. [S7]
+
+To see which parental side AncestryDNA assigns a painted segment to, use the tester's existing results. With an Ancestry family history membership, open **DNA → Origins → By parent → View chromosome painter** and switch between the two parent views, labelled **Maternal** and **Paternal** when the sides are named. The colours show estimated regions and can change when the estimate is updated. Read matching colours on two charts as matching region labels and use shared DNA to test relationships. [S17 @2026-11-18]
+
+Keep the numbered labels Parent 1 and Parent 2 until you can identify a side, for example by checking where Ancestry placed a DNA match whose side you already know. [S18 @2026-11-18]
+
+According to the submitted extract [S15†], the presenter suggests switching between the two parent views in the Family Tree Magazine episode's Tree Talk segment on Chromosome Painter [S16].
 
 Never use the size of a percentage difference between relatives as evidence for or against a relationship. Test relationships with shared DNA through [AI for DNA research](ai-for-dna-research.md). The exception is §6: a share that neither known parent could have passed on.
 

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 136}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 155}
 ---
 
 # Recover the kanji name and honseki before requesting a Japanese koseki
@@ -30,6 +30,8 @@ Use this recipe when someone wants a Japanese family register (koseki) for an em
 Start with the emigrant ship's passenger list. For Japanese emigrants to Brazil, the presenter uses the passenger database of the Japanese immigration museum in São Paulo. He demonstrates searching it by ship, prefecture of origin, period, given name or surname. In his demonstration a romanized search returned the name in kanji, along with the ship, departure and arrival dates, and the family members who travelled together. Keep that family group as context for identification. [S2]
 
 Record the kanji exactly as shown, together with the database, the search terms and the returned entry. A kanji form taken from one index entry is still a reading to confirm against the passport or emigrant record or the koseki.
+
+When a name is written in traditional Japanese order, read the family name first and keep the full given name in one field. Leave the middle-name field blank for this form. [S20] For a romanized entry, confirm which part is the family name before filling the fields, because either order can occur. [S21]
 
 ## 2. Get the full honseki from passport and emigrant records
 

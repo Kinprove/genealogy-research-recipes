@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 120}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 135}
 ---
 
 # Recover a U.S. federal land-entry case file behind (or without) a GLO patent
@@ -60,7 +60,11 @@ Start an entry-routing row for each GLO hit. Record the authority (military warr
 
 If you have a pension or bounty-land index card, compare its BLWT number with the GLO hit. A BLWT number has three parts in this order: warrant/file number, acreage and act year (for example 36643-160-55). In Strauss's example all three matched the patent record. [S1] If any one part fails to match, treat the patent as belonging to a different warrant or person until you can explain the difference.
 
+On a War of 1812 pension envelope, check the upper right corner for bounty-land notes and keep them separate from the pension file number [S38]. According to the presenter, use the bounty-land certificate numbers to search GLO [S37†]. Run a separate search for each warrant and confirm matches by warrant number, acreage awarded and act [S39].
+
 Read the acreage against the act. A veteran who received 40 acres under the 1850 act could receive another 120 acres under the 1855 act, for 160 acres in total. [S2] So one veteran can lie behind more than one warrant and more than one entry. The 1855 act was the last general bounty-land act, but warrants under the 1847–1855 acts kept being issued for decades. Acreage varied by rank and changed with each act. For example, the basic War of 1812 grant of 160 acres was raised to 320 by an 1814 act. [S9], [S12] State bounty-land programmes had their own rules and fall outside this federal route. [S12], [S1]
+
+**Revolutionary War claims under the 1855 act.** According to the presenter, search under the 1855 act even if the Revolutionary War veteran had already died [S40†]. For a new warrant on that service, check for an eligible widow or, if there was no widow, children who were minors when the act took effect [S42]. The September 28, 1850 act covered specified War of 1812 and post-1790 Indian War service and included commissioned officers who served in the Mexican War [S43]. Keep earlier Revolutionary War warrant authorities in the search [S44].
 
 **Mining claims.** Search the GLO records for a mining claim, as Family Locket's mining guide advises [S20 @2026-11-12], but expect only claims that went to patent. The site gives access to federal land conveyance records [S23 @2026-11-12], and its 2004 glossary names the Mineral Certificate as the document that describes a lode, placer or millsite claim [S21 @2026-11-12]. An unpatented claim was never conveyed, so a GLO miss says nothing about it. Look for its location notice in the records of the county where the claim lies, and in BLM's copies of notices recorded under section 314 of the Federal Land Policy and Management Act [S22 @2026-11-12].
 
@@ -84,6 +88,10 @@ Keep one row per person, with the role that person plays: veteran; widow or heir
 - **Long delay:** a warrant could be entered long after it was issued, so the locator's entry date dates neither the veteran's service nor the assignment. Tanner gives an extreme case from his own experience: a 1930s entry in Davis County, Utah, made with a War of 1812 warrant. This anecdote has not been independently confirmed. [S8], [S10]
 
 A warrant-based entry does not show that the locator served, was related to the veteran, or lived in the area when the warrant was issued. Treat any assignee as a separate identity question, and send kinship questions to evidence/proof judgment.
+
+**Assigned Revolutionary War warrants.** According to the presenter, search GLO for the veteran even if the warrant may have been sold [S40†]. Read the patent for the veteran and any stated assignment. Identify the patentee from the grant clause. A Revolutionary War warrant could underlie a patent issued to someone else [S41]. Carry the warrant into the application search (§2) for evidence of the veteran's service [S44].
+
+According to the presenter, read the Revolutionary War patent for its service designation [S40†]. If it gives only a line or militia designation, carry that wording into the service search. Use a warrant application or a military service record that identifies the regiment before recording one [S44], [S45].
 
 ## 4. If GLO has no name hit, check NARA's cancelled-entry name indexes, then get a legal description
 

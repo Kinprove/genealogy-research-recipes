@@ -4,14 +4,14 @@ title: "Route an Australian or New Zealand record to the holder and window of it
 summary: "Route an Australian or New Zealand vital, electoral, arrival, Māori Land Court or Aboriginal agency record to its holder and date window."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "AUSTRALIA-NZ-RECORD-ROUTING-01", "text": "**Do not send a Port Phillip or Moreton Bay event to New South Wales because it predates separation.** Today's Victorian or Queensland index is the first stop."}]
 handoff: ["convict-transportation-record-chain", "evidence-proof-judgment", "historical-place-name-resolution", "newspapers-com-search-recovery", "research-documentation", "source-citation"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 134}
+capabilities: {"browse": ["record catalogues and original images", "MyHeritage Victorian birth and death indexes"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 153}
 ---
 
 # Route an Australian or New Zealand record to the holder and window of its date
@@ -89,6 +89,10 @@ Gather these before searching:
 
 - **A miss for an event still inside the window is out of scope, not negative evidence.**
 - **Search the NZ historical index at bdmhistoricalrecords.dia.govt.nz.** It needs no verified RealMe account [S8]. BDM Online (bdmonline.dia.govt.nz) is the certificate-ordering service for verified RealMe users and approved organisations [S9]. Do not use it as the historical index.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Apply the [privacy gate](../SKILL.md#privacy-gate) before sending the subject’s name and any event year or place to MyHeritage.
+
+**Search MyHeritage’s Victorian indexes as a second pass.** Use the Victoria Birth Index for baptisms in 1837–1853 and birth registrations in 1853–1920 [S35 @2026-11-18] [S36 @2026-11-18]. Use the Victoria Death Index for burials in 1836–1853 and death registrations in 1853–1985 [S35 @2026-11-18] [S37 @2026-11-18]. For events outside those spans, check the Victorian registry’s historical index and its own release window [S38 @2026-11-18].
 
 ## 4. Search both New Zealand registers for a Māori event
 

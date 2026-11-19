@@ -11,7 +11,7 @@ handoff: ["chechen-ingush-1944-deportation-records", "evidence-proof-judgment", 
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 62}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 69}
 ---
 
 # Recipe: Recover separate military and Soviet-repression record episodes
@@ -448,6 +448,16 @@ still in touch. [H132] In one family's loss document, a man reported missing in 
 last written on 4 November 1941, while on the road. [H133] Record such a date as the family's last
 contact: it shows he was alive when he wrote, and it does not date or place the loss.
 
+If a family assumes a missing WWII relative died when their hometown was destroyed, keep that
+place of death unconfirmed. When Soviet military service is plausible, look for a field-hospital
+episode even when the family has no hospital lead. Follow any admission to a documented outcome.
+[H149]
+
+In OBD Memorial's advanced search, include the hospital and medical-battalion documents and leave
+the presumed place of death out of the query. If a hospital record gives a death locality, check
+the named burial lists for that locality. Record the death and burial places as distinct fields.
+[H150 @2026-11-18]
+
 **Privacy gate:** <!-- privacy-gate: request --> A hospital or wound request asks for
 military-medical records about a serviceman who may still be living; answer the privacy gate in
 `SKILL.md` first.
@@ -788,4 +798,4 @@ or seeking rehabilitation is a separate action requiring the user's scope and cu
 
 ## Sources
 
-[Primary-source checks and withheld claims](https://github.com/Kinprove/genealogy-research-recipes/blob/e9f4612be6360af67b306cb1eff7e5fe5d4e6f1a/skills/genealogy-research-recipes/sources/russian-military-repression-record-episodes.md).
+[Primary-source checks and withheld claims](https://github.com/Kinprove/genealogy-research-recipes/blob/68b0259a2f3621877bd2158f52d0836589b4c004/skills/genealogy-research-recipes/sources/russian-military-repression-record-episodes.md).

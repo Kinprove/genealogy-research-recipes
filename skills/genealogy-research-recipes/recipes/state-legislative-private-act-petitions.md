@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-03"
 checked_basis: "checked 2026-11-03"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 127}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 142}
 ---
 
 # Recover a state legislative private act and its petition
@@ -31,6 +31,15 @@ Related recipes:
 - For identity and kinship rulings, use [evidence/proof judgment](evidence-proof-judgment.md).
 - For citation form, use [source citation](source-citation.md).
 
+## Contents
+
+- Decide whether the legislature is in scope
+- Read the index entry and everything sharing its locator
+- Retrieve the act, then the petition or application
+- Check the act against the application
+- Search Congress for a private relief bill
+- Return a legislative-act packet
+
 ## Decide whether the legislature is in scope
 
 Don't rule out the state legislature just because the event sounds like county business. In early Tennessee, residents petitioned the General Assembly for private acts, including divorce, legitimation and name change. Brady explains that where a county was not yet organized, this was the only way to get the legal action done [S1], [S2]. The Acts of Tennessee index covers 1796–1850 [S2]. Brady advises anyone with family in Tennessee in roughly 1800–1830 to check it, even if the family only passed through [S1].
@@ -42,6 +51,10 @@ Also check the session laws when a person appears in a statute as the recipient 
 In Virginia, also search the legislative petitions when an intestate's land faced escheat. Under the descent act in force from 1 January 1787, a child born outside marriage inherited on the mother's side, and from the father only if he later married the mother and recognized the child [S8]. In October 1786 the General Assembly vested escheatable land in a man's natural son on his petition, and an intestate natural son's land in his mother on her application [S9]. Michael John Neill reports natural children in late 18th-century Bedford County petitioning the legislature to keep their father's farm from escheating; that case was not verified [S10].
 
 The Library of Virginia's Legislative Petitions collection holds nearly 25,000 items from 1776 to 1865, searchable by name, locality and keyword, and petitions can include wills, deeds, affidavits and judgments. Its search is moving to a new platform, and Virginia Memory holds the full collection [S11 @2026-11-14].
+
+For a Revolutionary-era Virginia Loyalist claim, take the presenter's advice from the available excerpt [S16] and check Virginia legislative petitions for a possible appeal to the General Assembly [S19]. Record any Virginia legislative petition and any application to Britain's Loyalist Claims Commission as separate proceedings [S21].
+
+Search the Library of Virginia website separately for “loyalist claims” and for the Revolutionary-era claimant's name [S20 @2026-11-18].
 
 For any other state, search its session laws and the legislature's own petition files (in Pennsylvania, the House files), and establish when that state's county courts began operating. Don't carry Tennessee's dates over.
 
@@ -63,6 +76,8 @@ Authored extension: Brady describes only the entries on the same index page. If 
 ## Retrieve the act, then the petition or application
 
 Treat the index as a finding aid only [S2]. Retrieve the act from the session laws. Then look for the underlying petition or application in the legislature's own files. The Pennsylvania example used the House files [S3], [S4].
+
+When a North Carolina land grant may have followed a legislative petition, follow the presenter's suggestion from the available excerpt [S16] and look for the authorizing act alongside the petition. Start with the grant year and follow references to earlier acts [S17]. For the 1784 session laws, open volume 24 of the *State Records of North Carolina* [S18]. Choose by record type as well as by year. The *Colonial Records* (volumes 1–10) extend through 1776, and the *State Records* (volumes 11–26) also include laws from 1715 through 1776 in volume 23 [S18].
 
 What the two example documents contained:
 

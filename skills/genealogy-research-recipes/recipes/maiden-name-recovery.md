@@ -10,7 +10,7 @@ guardrails: [{"id": "MAIDEN-NAME-RECOVERY-01", "text": "A bride's surname on a m
 handoff: ["evidence-proof-judgment", "newspapers-com-search-recovery", "usa-immigration-search-recovery", "japanese-koseki-honseki-recovery"]
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
-capabilities: {"browse": ["civil-registration indexes, census images, newspapers, probate and land records, Social Security indexes"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["civil-registration indexes, historical divorce files, census images, newspapers, probate and land records, Social Security indexes, First Families rosters"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
 router: {"section": "Research method", "group": "Search coverage and name searches", "order": 9}
 ---
 
@@ -30,6 +30,7 @@ If she may be living, apply the [Living people rule](../SKILL.md#living-people):
 - 4\. Search newspapers under her husband's name
 - 5\. Read probate and land records for her as a relative
 - 6\. U.S.: read the Social Security application
+- 7\. Check First Families rosters for leads
 - Return packet
 
 ## What goes wrong
@@ -58,6 +59,8 @@ In English-language records, "Shee" is the Cantonese transliteration of 氏, "Ms
 
 Search the birth registration of every child, not just one [S1]. In England and Wales the birth certificate gives the name and maiden name of the mother [S2]. Record the maiden name each registration gives, child by child, with its locator. Treat a differing name as a conflict to resolve: it can be a previous married name or a different mother.
 
+For a historical New York City birth, read the mother's name on the birth return itself. Look for the maiden-name label under the mother's full name on forms that use it [S26], [S27]. Use the recorded surname to look for her birth family.
+
 In England and Wales, use the GRO's own online index before buying certificates. The GRO birth index includes the mother's maiden name from the September quarter of 1911, and the online index shows it where available [S2 @2026-11-16]. That online index covers births from 1837 to 1934 [S3 @2026-11-16] and includes the mother's maiden name before 1911 [S4 @2026-11-16]. Do not read the name's absence from an older printed or transcribed index as its absence from the GRO's online index.
 
 On FamilySearch, search her children's death records with her as their mother: enter the child's name, the place and a year range for the death, add a mother relationship with only her given name, and set the record type to Death. The mother's maiden name may appear on the record [S5 @2026-11-16].
@@ -68,7 +71,13 @@ On FamilySearch, search her children's death records with her as their mother: e
 
 Search each marriage under the groom's name, the place and the approximate date [S1], [S9]. The name the bride gives is the one she used at the time of that marriage [S7]. In England and Wales the certificate states her condition, such as spinster or widow, and her father's name and surname [S6]. A bride who had married before probably used her previous husband's surname; her father's name is then the lead to her maiden name [S8].
 
+For a historical New York City marriage, read the bride's and groom's affidavits in the City Clerk license packet for each mother's full maiden name [S26], [S29]. If you have a Health Department marriage certificate for 1908–1937, check for a separate City Clerk record for the same couple [S28].
+
+When a marriage-license transcription gives both spouses the same surname, check the bride's entry on the license image and keep a genuine same-surname marriage open as a possibility. If the image leaves the name unresolved, look for an alternate surname in any autosomal match notes the user has already supplied and test it against independent records [S30].
+
 Work backwards. When she married as a widow or divorced woman, search for the earlier marriage under her given name, her birth date and the surname she used at the later one [S1]. Repeat until you reach a marriage at which she had not married before; among her marriage records, that is the one that should give her maiden surname [S8].
+
+If a deceased woman's marriage ended in divorce, read her case papers for a former surname when you have the papers in hand or they are open for public inspection [S30]. The New Haven County divorce index for 1900–1922 can give a previous husband's surname in its former-name field [S31]. Use the name to search for her birth and census records and check for an earlier marriage before calling it her birth surname.
 
 Keep one row per marriage: date and place, the surname she used, her condition, her father's name, how and when the marriage ended, and the children born to it [S1]. Do not assign every child in the household to the current wife; children with the family surname can be the husband's from an earlier marriage [S12].
 
@@ -78,6 +87,8 @@ Read the household for her relatives [S1]. The 1850 U.S. census was the first de
 
 Where relationships are given, a mother-in-law of a male head is his wife's mother or the mother of an earlier wife; in Diane Haddad's case, a first wife's mother stayed in the home after the head remarried [S12]. A brother-in-law or sister-in-law can be the wife's sibling or the spouse of the head's sibling. The mother-in-law may have taken a different surname since the wife's birth [S9]. Record each in-law's surname, age and birthplace as a lead, and test it against the marriage chain (§2).
 
+If someone with a different surname lived with the couple, investigate whether that person was a parent of the wife even when the census gives no usable relationship [S30]. Trace the person in other records before adding their surname to her list of candidates.
+
 ## 4. Search newspapers under her husband's name
 
 Search engagement and wedding notices with the groom's name, the place and the approximate marriage date [S1], and look for marriage-license items and other articles that name husband and wife together [S14]. Search her obituary and her husband's: a woman's obituary may give her maiden name or name a parent, a brother or an unmarried sister [S9]. A brother or an unmarried sister usually carries her birth surname; a married sister does not. Search her as "Mrs." with her husband's given name or initials, for example `"Mrs. * Smith"` or `Mrs Smith NEAR/5 John` [S13]. Use [newspaper search recovery](newspapers-com-search-recovery.md) for search mechanics.
@@ -85,6 +96,8 @@ Search engagement and wedding notices with the groom's name, the place and the a
 ## 5. Read probate and land records for her as a relative
 
 When household records name her only as a wife, mother or daughter, turn to wills, property and tax records [S1]. Look for her there as a relative, not as a head of household; widows and single women sometimes appear as landholders or guardians in probate and tax rolls [S13]. Probate can name a decedent's in-laws, and wills list many family members [S15]. Read the probate of each candidate father for a daughter with her given name and her husband's name, and the husband's probate and deeds for her as his widow. A hit is a hypothesis for [evidence/proof judgment](evidence-proof-judgment.md), not a conclusion.
+
+Follow payments to heirs in estate accounts and sales of inherited land [S30]. Look for a husband paid "in right of his wife" and read the relationship stated for her [S32]. If the account identifies her as a daughter, test the decedent's surname as a candidate for her maiden name.
 
 ## 6. U.S.: read the Social Security application
 
@@ -97,6 +110,10 @@ Search the NUMIDENT collection on FamilySearch first. It is free to search, cove
 For a copy of the SS-5 itself, follow the Social Security Administration's process for a deceased person. Its manual directs such requests to its FOIA webpage, releases a deceased person's records when it has acceptable proof of death, such as a copy of a public record of the death, and withholds the parents' first and last names without proof of their deaths; a fee may apply [S18 @2026-11-16]. Send proof of the parents' deaths with the request, or expect their names withheld.
 
 Do not treat a miss as evidence that she never applied. The MyHeritage post notes that only some people applied and that name changes and record errors get in the way [S1]. The NUMIDENT collection covers deceased people only [S16], and the Applications and Claims Index on Ancestry does not include everyone listed in the Social Security Death Index [S19]. Search under each surname in her marriage chain and through her children's entries.
+
+## 7. Check First Families rosters for leads
+
+For a family that lived in a U.S. state during the period covered by a First Families program, look for its published ancestor roster [S30]. Search under the known husband's name and read any spouse and county fields, as in the 2025 First Families of Ohio roster [S33]. Track the surname as a lead until the underlying records support it.
 
 ## Return packet
 

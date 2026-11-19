@@ -10,8 +10,8 @@ guardrails: [{"id": "FAMILY-COLLECTION-INTAKE-AND-CAPTURE-01", "text": "The comm
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 150}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "upload", "link"], "contact": ["contact"]}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 171}
 ---
 
 # Take in, capture and hand over an inherited family collection
@@ -43,6 +43,8 @@ This recipe covers intake, capture and hand-off only. It prescribes no conservat
 
 1. Work with the requested subset. Keep a record of where it sits in the larger collection, but do not expand the assignment.
 2. Before reorganizing, record what arrived, who supplied it, when and how it was received, and who holds the originals when known. Keep a short collection note alongside the files. Link the source email or the relative's note rather than silently paraphrasing it into established facts. An unknown creator, holder or date stays unknown [S1], [S2].
+
+If the user asks which papers to keep, check for an accessible library copy or digital equivalent before marking a book or record copy as replaceable, according to the podcast's discussion with Lisa Alzo [S50†], [S53], [S54]. Give priority to handwritten notes and family narratives [S55]. Inspect books and record copies for family annotations or loose notes before recommending disposal. Keep that material with its source.
 
 ## Give every item a stable reference tied to its place
 
@@ -86,7 +88,15 @@ If suitable capture is unavailable, leave an explicit next action. Do not mail o
 
 For loose photographs you can safely reach, capture front and reverse and bind both to one object reference. Copy inscriptions literally and keep them separate from your interpretation. Mark each side as missing (not present), uninspected (reachable but not yet examined) or inaccessible (reachable only by intervention). For an album whose items are stuck down, such as a magnetic album, capture the whole page rather than lifting items, and keep that full page beside any individual crop. Save the last item or page actually completed, and the views still remaining, so another session can resume [S3], [S4].
 
+**Privacy gate:** <!-- privacy-gate: upload --> Batch scanning sends album-page images, including photographs and inscriptions about people who may still be living, to MyHeritage. Check who can see the destination album and answer the privacy gate in `SKILL.md` before scanning.
+
+Capture each whole page locally and keep that full capture as the master. If the user chooses batch scanning in MyHeritage, use the multi-photo scanner in Reimagine to make individual working crops from safely accessible album pages [S45 @2026-11-18], [S46 @2026-11-18]. The MyHeritage mobile app's Photo Scanner can also detect and save pictures separately [S47 @2026-11-18]. A Reimagine upload to an existing family-site album follows that album's visibility settings [S48 @2026-11-18]. Check the returned crops against the master for missed photos or cut-off edges. Retain the page reference with each crop.
+
+According to Andrew Koch's preservation advice [S35†] and the U.S. National Archives [S36], house loose acidic newsprint apart from letters, photographs and other papers. Record where each clipping was found before moving it. Leave adhered clippings in place.
+
 For an undated newspaper clipping, capture the reverse even when its text concerns another person or event. Use reverse-side headlines and advertisements to search for candidate issues. Log that as a lead, search for the complete issue and test the date against independent records; an event mentioned on the reverse is not automatically the clipping's publication date [S31](https://genealogytipoftheday.com/index.php/2022/09/20/flipping-over-clippings-in-books/), [S32](https://threadingneedlesinahaystack.blogspot.com/2008/02/genealogical-mystery-when-did-john.html).
+
+When the newsprint itself need not be retained, use a paper copy. According to the podcast, the library practice is to photocopy the newsprint onto acid-free paper or scan it and print the scan on that paper [S37†]. Use acid-free archival bond paper [S38], [S39]. Keep the original when the physical item matters or the copy loses detail [S39].
 
 ## Keep received files, derivatives and versions apart
 
@@ -110,6 +120,16 @@ If a known photo, document or recording is missing from the expected person's vi
 
 ## Record what a recipient actually agreed to take
 
+When preparing to return a found album, record the named recipient, giver, place and date from the dedication under the album's reference. Start with the named recipient in historical records [S40]. Use the dedication as a lead to the album's history and keep the identities of individual sitters unresolved until supported [S41].
+
+If historical records show that the album recipient's direct line ended, trace a sibling's branch for a possible family handover [S40]. A documented relationship identifies a candidate for the handover. Keep the question of authority open and follow the [Living people rule](../SKILL.md#living-people) when the trail reaches anyone who may still be living.
+
+**Privacy gate:** <!-- privacy-gate: contact --> Even a first message to a possible recipient discloses their proposed connection to the album to that person. Keep other people's names, images and relationship details local and answer the privacy gate in `SKILL.md` before contact.
+
+With the user's authorization, send a private first message through a route allowed by the Living people rule. Ask whether the person wants to discuss the album and record what they agree to receive.
+
+When no family recipient is available, shortlist specialist repositories by the ethnic community or place of settlement documented in the collection, according to the podcast's discussion with Lisa Alzo [S50†], [S53]. Compare the collection's places, community and formats with each institution's published collecting criteria before approaching it [S51], [S52].
+
 **Privacy gate:** <!-- privacy-gate: contact --> Describing or handing over the collection passes photographs, papers and names of people who may still be living to an outside society or archive, so answer the privacy gate in `SKILL.md` before contacting the recipient.
 
 Contact the receiving society or archive before handing anything over, and record what it actually agrees to take, including limits on scope. Expect duplicates of what it already holds to be refused. Material that nobody has accepted stays unresolved. A named recipient alone does not establish an arranged transfer or legal authority [S11].
@@ -117,6 +137,12 @@ Contact the receiving society or archive before handing anything over, and recor
 In the United States, a signed deed of gift transfers ownership of the physical or digital items. Apart from a will, an inheritance or another transfer made by law itself, a transfer of copyright needs a signed writing, such as a clause in the deed; a donor who keeps the copyright can grant a separate licence instead. A donor can transfer only the rights the donor holds: a donor may have inherited the copyright in a relative's own letters, while the copyright in a studio portrait, or in letters other people wrote, may not be the family's to give [S22], [S23]. Record what the deed says about copyright: transferred, licensed or not addressed.
 
 ## Check the hand-off from the delivered copy
+
+For a found photograph with a name on the back, use the inscription to look for a matching family in historical records. Anna Styles captures both sides and researches the family before sharing [S42].
+
+**Privacy gate:** <!-- privacy-gate: upload, link --> The upload sends both views and any names or other details about people who may still be living to FamilySearch. Linking associates the copy with a tree profile and exposes the source details to its viewers. Answer the privacy gate in `SKILL.md` before either action.
+
+For an authorized FamilySearch hand-off, upload a two-page PDF with the front and reverse in one Memory [S43 @2026-11-18]. Link the Memory as a source only to a corroborated profile for a deceased person, and give the basis for the link [S49 @2026-11-18]. Check the Memory's visibility and omit living-person details from the source title and notes. Other tree users can see source information even when the Memory is private [S44 @2026-11-18].
 
 Open a representative delivered item and its companion files from the location they were delivered to. Check that the item reference leads to its page or context, its accessible reverse and its source note. Check that captions and other required metadata survived the actual export. Where the software allows it, also embed dates, sources, captions, places and people in each file's own metadata so they travel with the image [S12]. When an application drops those fields, preserve them in an accompanying register or plain-text sidecar file and record the gap [S1]. A passed check covers only the item you opened.
 

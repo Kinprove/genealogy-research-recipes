@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-07"
 checked_basis: "checked 7 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 117}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 132}
 ---
 
 # Recipe: Recover and inventory a U.S. military pension file
@@ -186,6 +186,17 @@ for half pay for life; and BLWt a bounty-land warrant application [S26], [S53]. 
 every claim in the file failed: many files under the Virginia act of 5 July 1832 were numbered R
 although the claims were not rejected [S25], [S26].
 
+For War of 1812 pensions, the M313 index images reproduce the faces of the file envelopes
+[S74]. Read `S` in `SO` and `SC` as Survivor. For the Survivor and Widow entries, copy Original
+as the application number and Certificate as the award number for that claimant [S75], [S76].
+Copy the veteran's rank, militia unit and captain where the jacket supplies them, then check
+the service verification inside the file [S74], [S75]. If the jacket shows a widow's award,
+read the file for the veteran's own application and for earlier or rejected claims. Leave the
+veteran's outcome open until you find his decision. If the widow field is blank, leave the order
+of the spouses' deaths open and check the marriage and death evidence against the acts in
+section 5 [S74]. The cover-reading example reported in the Just Genealogy transcript extract
+motivates these checks [S73†].
+
 A pension index can exist in more than one hosted version. The versions may be arranged
 differently and may carry different fields, such as a death date or place or a dependent's name.
 Before ordering, check each version. Give each version its own locator row naming its series, and
@@ -275,6 +286,11 @@ locator or observation basis and its current retrieval status. Keep absent testi
 a note about it does not recreate the document. The [Sarah Cook re-retrieval example](https://dna-explained.com/2023/01/09/sarah-cook-1774-1775-1863-epitome-of-perseverance-52-ancestors-386/)
 motivates this comparison without establishing misfiling or the missing paper's contents.
 
+For Revolutionary War pensions, use the NPS–NARA transcription project as a text route into the
+files. Citizen Archivist transcriptions are searchable in the National Archives Catalog
+[S68 @2026-11-18], [S71 @2026-11-18], [S72 @2026-11-18]. Use a hit to locate the corresponding
+image and cite its page. Keep untranscribed pages open after a text-search miss.
+
 ## 4. Inventory the pages and reconstruct the claim's sequence
 
 1. Read the received file through once, including covers, administrative notes, rejected claims
@@ -302,6 +318,23 @@ widow's, a rejected claim, another claimant's, or unassigned when the papers do 
 order each claim's documents by date in the claim-action timeline. Record the sort in the tables;
 do not rename or reorder the images. A Just Genealogy video motivates this sort by pensioner,
 allowing for a rejected claim; its transcript could not be opened for this review [S67†].
+
+Read a Revolutionary War court declaration as testimony given to establish eligibility under
+the named act [S68], [S66]. In the 1832 veteran's interrogatories, record birthplace and birth
+year, residence when called into service, residences since the war, and residence at the time
+of the declaration as separate entries. Keep the court venue separate from the wartime residence
+[S69]. Log each witness and what the witness attests to, distinguishing service or marriage
+testimony from a statement about the applicant's reputation [S66], [S69].
+
+Read the letters, diaries and other personal accounts in a Revolutionary War file for leads
+about the writer's or applicant's occupation and residence. If someone is named as providing
+land, record who made that statement and carry the named person into the land-record search.
+Keep personal accounts attributed to their writers [S68], [S34].
+
+For kin beyond the veteran's household, look in the Revolutionary War file's family records and
+affidavits for grandchildren or children's spouses. Record the relationship as stated by the
+writer or witness. A relative can appear as an affiant without appearing in a household list
+[S68], [S34], [S70], [S81].
 
 On an affidavit that does not state where the affiant lived, copy the venue line and the county
 named in the notary's or justice's certificate. Record the venue county as where the affiant was
@@ -362,6 +395,11 @@ FamilySearch has the T718 images as "United States, Revolutionary War Pension Pa
 Follow a death or last-payment remark to the final payment. Under the act of 6 April 1838, heirs
 could claim from the Treasury the pension accrued between the last payment and the death, and
 those settled accounts often give the date and place of death and the heirs' names [S29], [S55].
+
+In a surviving Revolutionary War final-payment voucher, copy each named person's role. An
+attorney, executor or estate administrator is a lead to the claim or estate papers. Keep that
+role separate from any stated relationship or heirship [S30]. The final-payment example
+reported in the Just Genealogy transcript extract motivates this check [S80†].
 
 Fold3's "US, Final Payment Vouchers Index for Military Pensions, 1818-1864" indexes final and
 last payments to more than 65,000 pensioners of the Revolutionary War and some later wars. Each
@@ -450,6 +488,11 @@ not get a pension; search for his widow's claim and for bounty land (section 1) 
 widow qualified only under the 1878 act, compare her marriage date with 17 February 1815 before
 looking for another reason [S36], [S50].
 
+If a War of 1812 file suggests a separate pension for service-connected disability, check the
+Old Wars index (T316) and confirm the pension type from the papers. Keep that search open even
+when you already have a service-pension jacket [S33], [S74]. The filing suggestion reported in
+the Just Genealogy transcript extract motivates the separate search [S73†].
+
 ### Union Civil War and later
 
 | Act | Who qualified |
@@ -469,6 +512,13 @@ under the law in force when it was filed, not as evidence that the man did not s
 as you would an approved file [S62]. An application number with no certificate number is a usual
 sign of denial, not the decision itself; keep the outcome open until the file gives it [S62]. Search the indexes under a woman's own names for a claim as a nurse, not only as a widow
 or dependant [S44], [S56].
+
+For an officer's disability pension under the act of 14 July 1862, take the grade from the
+commission. Treat a lieutenant's acting command as a duty assignment until you find evidence of
+a higher commission [S78]. If the file invokes the act of 24 February 1897, check for a qualifying
+appointment or commission and the record of its recognition, even if the commission was never
+delivered [S79]. The acting-rank example reported in the Just Genealogy
+transcript extract motivates this check [S77†].
 
 A continuing Union widow's pension with no remarriage record does not show that she lived alone.
 Remarriage ended a widow's pension, the Pension Office reported widows who lived with a man

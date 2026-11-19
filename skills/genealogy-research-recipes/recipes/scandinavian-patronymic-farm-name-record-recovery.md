@@ -7,11 +7,11 @@ scope: {"platforms": [], "tasks": []}
 privacy: "none"
 gates: []
 guardrails: [{"id": "SCANDINAVIAN-PATRONYMIC-FARM-NAME-RECORD-RECOVERY-01", "text": "The name in the parish register is usually not the American surname. Same-named parishioners are common, so separate them by birth date, parents, spouse, farm and vaccination entries, never by name alone."}]
-handoff: ["scandinavian-parish-record-recovery"]
+handoff: ["scandinavian-parish-record-recovery", "danish-church-book-probate-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 102}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 112}
 ---
 
 # Recover a Scandinavian emigrant's home-parish entries under patronymic, farm and soldier names
@@ -129,10 +129,14 @@ A candidate matches only when several of these discriminators agree. Leave any c
 
 ## Denmark: go beyond the church books
 
+For the church books themselves, civil marriages and probate, use [Danish church books and probate](danish-church-book-probate-recovery.md).
+
 - Rigsarkivet has scanned every census of the kingdom up to 1940 on Arkivalieronline. [S22 @2026-11-16] Its name-search guide lists fully transcribed censuses for 1787, 1801/1803, 1834, 1840, 1845, 1850, 1860, 1880, 1885 (Copenhagen only) and 1901, and describes DDD's coverage as 1787–1930. [S27 @2026-11-16] DDD (Dansk Demografisk Database) is run by Rigsarkivet. [S16 @2026-11-16] Rigsarkivet says DDD is closing as a separate platform and its data is being made searchable in Søg i Samlingerne. [S27 @2026-11-16] Check the actual transcription coverage for the locality and year; a nil in a partly transcribed year is not a negative. Check each transcription against the scan.
 - Use the lægdsruller (military levying rolls) to bridge censuses for men. Males of the peasant class were liable in 1788–1848, and all men from 1849. Rigsarkivet gives the registration ages as 0–36 for 1788–1808, 0–45 for 1808–1849, 15–38 from 1849, 19–38 from 1869 and 18–36 from 1912. After 1849 a boy was not entered at birth: look for him in the rolls for the years when his age fell within his period's range. The rolls give the father's name (the mother's if the man was born outside marriage) and the man's moves while liable for service. Moves can be followed across the country from 1789. Before 1788 only scattered rolls survive. [S17 @2026-11-16]
 
 ## Iceland: use the farm, census and emigration sources separately
+
+Recover a candidate parent's given name from the genitive form in an Icelandic patronymic or matronymic [S36]. In MyHeritage's example, *Jónsson* gives *Jón* as the father's given-name lead [S35], [S36]. Confirm the relationship in the child's baptism entry before attaching a parent.
 
 Use Vesturfaraskrá as the 1983 printed emigration index for 1870–1914 described by Icelandic Roots, rather than assuming it is a searchable online database. Search its first-name arrangement with the observed patronymic and farm, then compare its year and destination with departure and arrival evidence. The index includes some planned departures that did not happen, so an entry alone does not prove that the person emigrated. [S28], [S29]
 

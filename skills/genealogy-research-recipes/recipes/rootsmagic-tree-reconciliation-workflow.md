@@ -75,6 +75,14 @@ intended_sharing_scope`.
 **Checkpoint:** the backup can be located, the media preservation method is explicit and
 the receiving tree/profile is named before the first mutation.
 
+### Keep database-wide work local
+
+Use the full local RootsMagic data for large merges and whole-tree reports, following the
+recommendation from the available excerpt. [S7 @2026-11-18] Run the merge on a backed-up
+local working copy and review proposed duplicate pairs before combining records. [H10 @2026-11-18]
+For a whole-tree person list in RootsMagic 11, include everyone in Individual List and
+view the report on screen. [H11 @2026-11-18] Keep both jobs outside the online transfer batch.
+
 ### Prepare a scoped working database
 
 If a separate database is needed, define each selection by its source person reference,
@@ -175,6 +183,11 @@ where needed. Then apply the existing backup, scoped transfer and destination ch
 The [Family Tree Maker demonstration](https://www.youtube.com/watch?v=44HrciUhiHI)
 supplies the keep/change/detail/defer choices. It does not establish a RootsMagic bulk
 control, historical place equivalence or lossless transfer. [S3]
+
+In RootsMagic 8, select a place in Places, switch to Sources to inspect the source, and
+return to Places with the same place selected. [H9 @2026-11-18] The example
+from the available excerpt shows this round trip. [S7 @2026-11-18] Resume the place
+review without searching for it again.
 
 ## 4. Reopen the destination and check what arrived
 

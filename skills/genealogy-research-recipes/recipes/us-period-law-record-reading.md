@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "deed-content-relationship-clues", "eviden
 checked: "2026-11-08"
 checked_basis: "opened 2026-11-08"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 128}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 143}
 ---
 
 # Read U.S. records under the law and legal language of their own place and date
@@ -115,6 +115,16 @@ Link out for the shared steps:
 - **A late or out-of-state remarriage after a divorce can come from the divorce law.** Check the act in force at the decree for a waiting period or a bar [S160]. New York's 1829 Revised Statutes barred a defendant divorced for adultery from marrying again while the former spouse lived; from 1879 a court could lift the bar after five years, if the former spouse had remarried and the defendant's conduct had been uniformly good [S157]. Tennessee's code barred a defendant guilty of adultery from marrying the other party to it during the former spouse's life, and in 1937 its Supreme Court applied the bar only to a defendant adjudged guilty of adultery [S158]. Illinois required divorced people to wait one year before remarrying, and the party decreed guilty of adultery two years, from 1905 to 1923 [S159], [S175]. People evaded such laws by marrying in another state, so search neighbouring states for the remarriage; in 1912 the Illinois Supreme Court held such a marriage by Illinois residents invalid [S157], [S159].
 - **Marriage into the Cherokee Nation did not end U.S. citizenship.** For a U.S.-citizen woman adopted into the Cherokee Nation in Indian Territory by intermarriage, search Cherokee court records for her civil suits with tribal members. Do not read later naturalization papers as proof she had lost citizenship. The decision rests on Cherokee treaties and does not establish this for recognized tribes generally [S7], [S71].
 - **A final Dawes roll entry can hide earlier status changes.** For a Five Civilized Tribes enrollment, read the enrollment card and the application file, not only the final roll: the cards record the actions of the Commission and the Secretary of the Interior on each family group, and the applications hold testimony and correspondence [S129]. Status could change late. *Red Bird v. United States*, decided 5 November 1906, held that whites who married into the Cherokee Nation after 1 November 1875 could not share in the allotment of its lands [S128]. On 10 January 1907 the Commission cited that decision in denying one applicant's enrollment as a citizen by intermarriage [S130]. Janine Cloud reports an ancestor listed as Cherokee by blood, corrected to citizen by intermarriage, then removed from the roll and denied citizenship [S127]. Record each status with its date and the document that gives it.
+
+### War of 1812 pension envelopes
+
+**Read each bounty-land warrant under the act named on the envelope.** Record the act, acreage and warrant number together. The Just Genealogy video suggests reading the acreage by act and considering that a veteran may have skipped an earlier application, as reported in the supplied transcript excerpts [S191†].
+
+**Use the 1850 acreage as a clue to service.** For a veteran’s award, the act of 28 September 1850 ordinarily paired 80 acres with a six-month engagement and at least four months served, and 160 acres with an engagement for twelve months or the duration of the war and at least nine months served. The 40-acre tier required at least one month served on a fixed or indefinite engagement [S192]. Check for an honorable discharge for a disability incurred in service, credited captivity [S192], and travel credit allowed by the 1852 act [S193]. Establish actual service from the application and service records [S195].
+
+**Read a second 80 acres under the 1855 act as the balance.** If the same veteran’s envelope lists 80 acres under each act, the second warrant brings the total to 160 acres. The act of 3 March 1855 gave eligible claimants the balance after crediting earlier warrants and generally required fourteen days of service or participation in a battle [S194].
+
+**Treat a lone 1855 warrant as an incomplete record of earlier claims.** If a veteran’s envelope shows an approved survivor pension and only a 160-acre warrant under the 1855 act, keep both 1850 eligibility and whether the veteran applied under that act unresolved. The pension had separate eligibility rules, and the file can contain bounty-land applications omitted from the envelope [S195]. Test the documented service against the 1850 thresholds and check statutory bars, including entitlement to an earlier military land bounty [S192], [S195].
 
 ## 5. Check inheritance and widows' rights against the date
 

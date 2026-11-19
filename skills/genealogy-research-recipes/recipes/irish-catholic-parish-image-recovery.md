@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 87}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 96}
 ---
 
 # Recover an Irish Catholic parish entry at the NLI
@@ -112,6 +112,12 @@ start, the original entry remains to be located. If access fails, record the exa
 failure; the register has not been examined through that route.
 
 ### Additional search keys and regional transcripts
+
+For a late-1700s Catholic baptism or marriage, check IrishGenealogy’s Church Records
+as Daniel Loftus suggests [S5 @2026-11-18] [S6 @2026-11-18]. Use the church area,
+event type and year range [S7 @2026-11-18]. Confirm coverage for that parish, event and
+year before interpreting a miss. For example, Irish Ancestors lists eighteenth-century
+baptisms for St James’s, Dublin City, on IrishGenealogy [S8 @2026-11-18].
 
 - **Regional transcripts after the NLI run.** Check IrishGenealogy’s parish and year coverage. Its help lists Kerry baptism and marriage transcripts to about 1900 and Dublin City Catholic registers [S1 @2026-11-16]. Preserve a transcript separately from an original image; this regional route does not extend the NLI images across all Ireland.
 - **Sponsors and witnesses.** Search a documented sponsor or witness as well as the principal. IrishGenealogy results include parent, sponsor and witness roles [S1 @2026-11-16]. Read the role and event before extending the cluster; sponsorship does not itself name a family relationship.

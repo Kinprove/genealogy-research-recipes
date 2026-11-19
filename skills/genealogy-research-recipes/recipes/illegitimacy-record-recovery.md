@@ -11,7 +11,7 @@ handoff: ["english-nonregister-record-recovery"]
 checked: "2026-11-05"
 checked_basis: "checked 2026-11-05"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record types in any country", "group": "Births outside marriage and institutions", "order": 148}
+router: {"section": "Record types in any country", "group": "Births outside marriage and institutions", "order": 169}
 ---
 
 # Recover records of a birth outside marriage
@@ -47,6 +47,8 @@ Record each of these signals as a reason to search, along with the record it cam
 Start with the mother's surname. A child born outside marriage usually took it [S1], [S2]. Lisson says the father's surname was used mainly when he acknowledged the child, and that in that case a bastardy bond is unlikely because he had accepted financial responsibility [S2]. A child could also take the father's surname later, for example after the parents married. If the child used the father's surname, record that as a separate observation. It is not evidence that the parents were married when the child was born.
 
 Search each child's own later records, the marriage above all, under both surnames. Where the parents married after some of the births, the children could use different surnames or switch between them; in Michael John Neill's 1840s German example one daughter married under her mother's maiden surname, not her father's [S20]. In German records a child born before the parents married took the mother's family name, and a change to the father's name followed a legal process such as legitimation, as an Archion forum moderator summarizes the law [S21]. Judy G. Russell reports a daughter born in Bremen in 1832 under her mother's surname and legitimated by her parents' marriage in 1833, whose legitimation was entered only in 1860, when she married [S22]. Do not search a whole sibling group under one surname, and do not conclude from one failed surname search that a child's marriage record is missing.
+
+**Maintenance warrant notices.** When a search under the mother's name in a historical case turns up a newspaper or police gazette notice of a maintenance warrant, record the man named on the warrant and any date the notice explicitly gives as the child's birth date [S26]. Keep the warrant and arrears dates in separate fields [S27]. Compare the child's full birth date with the date in an independent record. Use an exact match to follow up on the named man as a possible father, as Toni Fuller reports doing [S25]. Keep biological paternity open.
 
 **English naming leads.** The double-surname examples below come from Sorensen's UK lecture
 [S6], not a general U.S. naming rule. In U.S. records a woman's alias can also mark a maiden

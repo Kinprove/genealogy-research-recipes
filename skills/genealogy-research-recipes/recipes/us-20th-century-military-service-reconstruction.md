@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-26"
 checked_basis: "checked 2026-10-26"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 116}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 131}
 ---
 
 # Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction
@@ -81,6 +81,13 @@ A payroll entry dates the end of service and names the last unit. It is not a fu
 
 Copy the character of discharge exactly as written, and read the discharge papers for the stated reason [S30]. During WWII about 50,000 people received "blue" discharges, named for the paper, for "undesirable habits and traits of character". About 9,000 of them were men and women discharged because of their sexuality, and African American men were the largest group of recipients. The practice ended on 1 July 1947, when the undesirable discharge replaced the blue discharge and the general discharge was created [S41]. The VA's reading of the GI Bill barred blue-discharge recipients from veterans' benefits [S31], so a missing VA claim file can follow from the discharge type, not from non-service. A blue or other-than-honorable discharge is a lead to the reason for separation; it does not by itself establish his sexuality or any other reason.
 
+For possible Quaker affiliation, use the suggestion from the available excerpt of *Just
+Genealogy* and check surviving military papers for a religion entry [S62].
+For WWI, look for a burial-related entry on a service health form. For WWII, check the
+personnel papers for a recorded religious preference [S63]. If the WWII Army papers include
+a stateside Hospital Report of Death (WD AGO Form 52-9), check item 7 [S64]. Copy the entry
+as written. A broad category or a blank field leaves Quaker membership unresolved.
+
 ## Request records that were never part of the OMPF
 
 - **In-service deaths:** request the WWI burial case file (also called a mortuary or casualty file) or the WWII Individual Deceased Personnel File (IDPF) separately from the OMPF. Do not merge it with the OMPF in the register. Route the request by custodian:
@@ -125,6 +132,13 @@ trial series. Use these distinctions to select a candidate finding description, 
 verify its actual period, custodian, survival and access before requesting it. They do
 not establish that an individual's file survives or was destroyed. A later discharge
 upgrade alone does not settle survival; preserve the original disposition and appeal dates.
+
+For an early Army court-martial, check the 1894–1917 case files at the National Archives
+in Washington, DC (RG 153, NAID 5916762) [S60 @2026-11-18]. Use the 1891–1917
+index (RG 153, entry 17) to find a missing general court-martial case number
+[S61 @2026-11-18]. In the case from the available excerpt, the presenter went to the
+archives for an early cavalry court-martial [S57 @2026-11-18]. For a trial in 1917, check
+which series covers its date before choosing the lookup procedure.
 
 For a trial-file search without a case number:
 
@@ -206,9 +220,25 @@ Where two numbers appear at the top, copy each with its printed heading. NARA's 
 
 For WWII, the draft records in Record Group 147 cover men only. The Fourth Registration took men born from April 1877 to 16 February 1897. Its cards no longer exist for Alabama, Florida, Georgia, Maine, Mississippi, North Carolina, South Carolina and Tennessee. The other WWII registrations took men born from 17 February 1897 to 31 July 1927 ([NARA, Fourth Registration](https://www.archives.gov/files/research/military/ww2/draft-cards-fourth-registration.pdf); [NARA St. Louis, Selective Service](https://www.archives.gov/st-louis/selective-service)). NARA St. Louis also holds *Classification Records, 1940–1947* for many but not all states. Search the Catalog for his state's series before you rely on it ([NARA Catalog, example](https://catalog.archives.gov/id/2173095)). A classification entry, like a card, is not proof of service.
 
+If earlier Regular Army service is plausible, search the *Register of Enlistments in the
+U.S. Army, 1798–1914* (NARA microfilm M233, RG 94) even when his WWI or WWII draft
+card is silent. Start with the likely enlistment years. Check the entry's age and birthplace
+against your identity evidence, then record the unit and read the remarks for service dates
+and changes [S58]. The WWII Fourth Registration card has no prior-service field [S59].
+In the case from the available excerpt, neither draft card mentioned the cavalry
+enlistment [S57].
+
 ## Place him with unit records without giving him the unit's events
 
 An OMPF is primarily an administrative record. NARA states that it does not contain detailed information about the veteran's participation in battles and engagements [S46]. Do not read the file's silence about a battle as evidence that he was not there; take engagements from the unit records below and log them as unit context [S42].
+
+For WWI Army unit research, search the Center of Military History's *Order of Battle of
+the United States Land Forces in the World War* by title and volume. Use volume 3, part 2
+for a U.S. post or camp and volumes 1–2 for American Expeditionary Forces (AEF)
+organizations [S66]. The suggestion from the available excerpt is to search stateside
+and overseas service separately [S65]. The Zone of the Interior includes U.S. possessions,
+and its *Directory of Troops* (volume 3, part 3) also lists AEF units [S67]. Verify the
+unit's location for the relevant period before drawing an inference from its inclusion.
 
 With a service number and unit, get the morning reports and after-action reports covering his dates. Morning reports and muster rolls are unit records that were not part of the OMPF, and the fire did not touch them [S10], [S16].
 

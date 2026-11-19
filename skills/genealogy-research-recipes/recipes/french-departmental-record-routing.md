@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "evidence-proof-judgment", "fr
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 94}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 103}
 ---
 
 # Route French records by département, creator, series and access rule

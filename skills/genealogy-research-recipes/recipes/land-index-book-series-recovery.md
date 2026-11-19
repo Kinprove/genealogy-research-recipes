@@ -11,7 +11,7 @@ handoff: ["historical-map-record-recovery", "tax-roll-observation-workflow", "us
 checked: "2026-11-05"
 checked_basis: "checked 5 November 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 143}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 164}
 ---
 
 # Recipe: Recover land instruments through indexes, book series and entry files
@@ -149,6 +149,10 @@ This recovery step does not by itself establish a death date, a sale, kinship, l
 or the identity of same-name people.
 
 ### Colony, state and province routes
+
+**North Carolina grants.** Follow a hit in Ancestry’s North Carolina land-grant files [S112 @2026-11-18] to the matching grant in NC Land Grant Images and Data, which includes North Carolina grants for land now in Tennessee [S113 @2026-11-18]. Match the county and file number where available. Open the grant’s Virtual Shuck and look for the survey among the loose-document images even if you already have the envelope summary or patent-book page [S114 @2026-11-18].
+
+The account from the available excerpt of the livestream describes finding the same grant and its survey on McCorkle’s site after starting on Ancestry [S111].
 
 **South Carolina.** Records were kept by district for long periods, so search a place under both "X District" and "X County" [S65]. The seven judicial districts date from 1769, not 1766 as a community post gives [S65], [S66]. The 1785 act laid out counties inside the districts; in 1800 most counties became districts, and from 1 January 1800 to 16 April 1868 the districts were the principal administrative units while counties survived mostly as geographical names; the 1868 constitution renamed the districts counties [S66], [S67]. For 1769–1799, also search the district that contained the county; for 1800–1868, read "district" as the county-level unit.
 

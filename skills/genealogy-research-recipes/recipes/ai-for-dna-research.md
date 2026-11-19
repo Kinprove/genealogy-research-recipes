@@ -6,12 +6,12 @@ kind: "judgment"
 scope: {"platforms": [], "tasks": ["any \"can AI/ChatGPT/Claude help me with my DNA / tree / citations\", **or** whenever you (the assistant) are about to compute or assert something in this domain."]}
 privacy: "genetic-third-party"
 gates: ["privacy-transfer"]
-guardrails: [{"id": "AI-FOR-DNA-RESEARCH-01", "text": "Never ask the LLM to compute relationship probabilities from a cM number — it *fabricates* them. Route a *single* cM figure to the **Shared cM Project / DNA Painter's Shared cM Tool** (point cM → the *range* of candidate relationships); if you have a tree plus multiple matches to place, that's **WATO** — a *different* DNA Painter tool that scores hypothesis slots, not a cM→relationship lookup."}, {"id": "CM-01", "text": "Never ask the LLM to compute relationship probabilities from a cM number — it *fabricates* them."}, {"id": "CM-02", "text": "Either way, always ask for **all** candidate relationships, never a single point answer."}]
+guardrails: [{"id": "AI-FOR-DNA-RESEARCH-01", "text": "Never ask the LLM to compute relationship probabilities from a cM number — it *fabricates* them. Route a *single* cM figure to the **Shared cM Project / DNA Painter's Shared cM Tool** (point cM → the *range* of candidate relationships); if you have a tree plus multiple matches to place, that's **WATO** — a *different* DNA Painter tool that scores hypothesis slots, not a cM→relationship lookup."}, {"id": "CM-01", "text": "Never ask the LLM to compute relationship probabilities from a cM number — it *fabricates* them."}, {"id": "CM-02", "text": "Either way, always ask for **all** candidate relationships, never a single point answer."}, {"id": "AI-GATE-01", "text": "Pasting anyone's DNA or match data into an AI or other external tool moves living people's data; answer the privacy gate in `SKILL.md` first."}]
 handoff: ["23andme-match-research", "unknown-parentage-wato", "xdna-phasing-judgment"]
 checked: "2026-07-18"
 checked_basis: "accessed 2026-07-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA reasoning", "order": 17}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 20}
 ---
 
 # Recipe: Using AI reliably in DNA genealogy research

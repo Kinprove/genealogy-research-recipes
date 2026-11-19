@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 59}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 66}
 ---
 
 # Recover a pupil or student through school, district, copy and later-file layers
@@ -187,6 +187,8 @@ A list of admissions to examinations is not a list of graduates or of years of s
 - Carry the series into service files. Participants cited personnel files in ГАПК f.1 op.2 that restate the lyceum course and degree before the service record. [S3]
 
 For a yearbook, inspect another copy of the same edition even when the family owns one. Handwritten inscriptions are copy-specific: look beside the relevant printed entry, inside covers, and on notes or autograph pages, keeping the copy's holder and page locator. A signature or personal note may be absent from both OCR and the family's copy. Treat the handwriting's attribution as a separate claim; do not identify a person by comparing faces. [S33](https://genealogytipoftheday.com/index.php/2025/06/27/grandma-signed-a-yearbook/), [S34](https://www.amyjohnsoncrow.com/getting-more-out-of-yearbooks-for-genealogy/)
+
+If the school's own holdings turn up no yearbook for the year you need, check the local-history collection of the public library serving the area where the family lived. Look for the volume by school and year. [S37](https://familytreemagazine.com/libraries-archives/a-guide-to-libraries-for-genealogy-research/), [S38](https://www.plainfieldlibrary.net/services/genealogy/)
 
 ## 9. When institutional files are lost, recover the school from later files
 

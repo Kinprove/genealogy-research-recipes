@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 28}
+router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 32}
 ---
 
 # Record the run scope before reading a G25, calculator or qpAdm admixture result

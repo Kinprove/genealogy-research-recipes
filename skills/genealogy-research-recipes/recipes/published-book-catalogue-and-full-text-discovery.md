@@ -11,7 +11,7 @@ handoff: ["hebrewbooks-search-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 36}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 41}
 ---
 
 # Find a published local history, compiled genealogy or family book across catalogues and full text
@@ -87,6 +87,8 @@ On any full-text tool, including HathiTrust, a zero result can come from an OCR 
 - Compare imprint, date and full title before you count editions.
 - Keep each record's identifier when you do.
 
+**Expand a WorldCat result to check for a later printing.** Just Genealogy suggests this step, according to the transcript excerpt [S64† @2026-11-18]. Open **View All Formats & Editions** when offered and use the **Sign in** prompt to see the full list [S65 @2026-11-18]. A single search result can group records for different editions and formats [S66 @2026-11-18]. Compare the imprint and date, then check holdings for the printing you need.
+
 **Read Library of Congress-style records critically:**
 
 - Catalogue and finding-aid entries for manuscripts and archival groups describe whole groups of items, sometimes hundreds, not individual items [S3].
@@ -134,6 +136,8 @@ without evidence that it applies there.
 
 **Search Google Books for the ancestor's name across all books, not only full-view ones.** For a common name, put the full name in quotation marks and add a place or occupation qualifier [S6]. Record every query string exactly as you ran it.
 
+**Run the same historical name-and-place query under both Books and All in Google Search.** For a deceased ancestor, quote the full name and add the locality. Crume suggests applying **Books** to find published family and local histories and also checking **All** for copies at other hosts such as Internet Archive [S59 @2026-11-18]. Google varies which filters it displays by query, so check the available filters for **Books** [S60 @2026-11-18]. Record the filter with each set of hits and misses.
+
 **For Central and Eastern European directories, yizkor (memorial) books and military lists, search Genealogy Indexer (genealogyindexer.org).** It searches the OCR text of these publications, and its guide warns that the OCR is not fully accurate [S16], [S17]. An empty 'surname near uezd' proximity query is weaker evidence than an empty surname-only query, because an OCR error in either word blocks the match. Also try its OCR-Adjusted matching and wildcards [S17]. If the source list shows no edition for the target guberniya, look for its residents in empire-wide editions and the WWI casualty lists. The page images sit on the holders' websites, and a moved image shows the host's error page, so find the volume at another holder [S18]. Its robots.txt disallows /search/ and /words/ for all robots (checked 2026-11-02), so run searches only in the user's browser [S19].
 
 In these sources a given name is often not spelled out. Genealogy Indexer's guide warns that some give only an initial or an abbreviated given name, and suggests searching for both forms near the surname, as `"j pytel"~3 | "joz* pytel"~3` [S38 @2026-11-12]. Vera Miller adds that in Russian and Ukrainian sources the given name and the patronymic may each be cut to about four letters, or given as initials only [S39 @2026-11-12]. Run the surname with an initial and with a short wildcard stem of the given name, and the surname with the place. Do not read a miss on the full given name and patronymic as a negative, and match an abbreviated hit to the person on the page image, not on the hit line.
@@ -143,6 +147,8 @@ In these sources a given name is often not spelled out. Genealogy Indexer's guid
 **For Pennsylvania, search the published *Pennsylvania Archives*, which is not the Pennsylvania State Archives.** The *Pennsylvania Archives* is a printed set of transcribed records, issued 1838–1935 in ten series: the Colonial Records and the First to Ninth Series. The State Archives is the repository in Harrisburg [S40], [S41], [S42]. The transcribed lists include militia and muster rolls, tax lists, land warrantees, church marriages and baptisms, oaths of allegiance of foreigners arriving at Philadelphia, and governors' papers [S40], [S41], [S42]. The set runs from 1614 (Second Series volume V, on the Delaware colonies) to 1902 (Fourth Series, governors' papers), and the Ninth Series covers 1790–1838, so do not skip it for an event after 1780 [S41], [S42], [S43]. Search its own name indexes as a separate route: the last four volumes of the Third Series index the sixteen volumes before them, volume XV of the Sixth Series indexes the Fifth, and the Seventh Series indexes the names in the first fourteen volumes of the Sixth [S41]. Fold3's description of the set warns that names were misread in transcription, German names above all [S42]. Search spelling variants, and trace each entry you rely on to the original record, as in [section 8](#8-treat-snippets-incidental-mentions-and-transcriptions-as-leads).
 
 Fold3 has page images of all ten series, which you can search by name or browse by series and volume, under the title "US, Pennsylvania Archives, 1660-1780"; the title understates the set's dates [S40 @2026-11-13], [S42 @2026-11-13]. The Pennsylvania Historical and Museum Commission names Ancestry and HathiTrust as other hosts, and its summary of each series helps you choose a volume [S41 @2026-11-13]. Wikipedia's volume list covers only the Colonial Records and the First to Seventh Series; it links the volumes to scans at Internet Archive, Google Books and FamilySearch [S43 @2026-11-13].
+
+**For colonial Virginia, use the Antient Press surname index to choose which volumes to open.** Just Genealogy suggests looking under the surname's initial or using the combined index, according to the transcript excerpt [S61† @2026-11-18]. Heritage Books lists both kinds of entry under [Antient Press Indexes](https://heritagebooks.com/collections/antient-press-indexes) [S62 @2026-11-18]. If you have only a listing, locate the matching alphabetical volume of Ruth and Sam Sparacio's *Virginia County Court Records Surname Indexes* in a library catalogue [S63 @2026-11-18]. Record the surname range you searched and follow each hit into the cited volume to read the abstract.
 
 ### Follow a separate all-person index into the biography
 

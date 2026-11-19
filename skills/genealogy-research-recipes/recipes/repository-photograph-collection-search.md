@@ -11,7 +11,7 @@ handoff: ["family-photograph-attribution-and-dating", "soviet-personal-file-reco
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 154}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 175}
 ---
 
 # Search repository photograph collections by place and subject
@@ -50,6 +50,8 @@ Start from the family's locality and date range, not from the name. List these c
 - **Historical-society photo databases.** Find them through the society's website or social-media page [S5].
 - **Digital collections at county or local genealogy repositories.** One presenter reached her ancestor's photograph through a link on a county genealogy society's website [S4].
 - **Orphan or unidentified-photo sites.** These hold both identified and unidentified photos. Search the identified ones by surname, and search the unidentified subset (on DeadFred, the "Mysteries") by place, not by name [S7].
+
+**Local public library photograph collections.** Browse the library’s local-history photo collection directly and log it separately from a search of the general catalogue [S42]. According to Melina Papadopoulos’s guide, a library photo collection is a place to look for period views of a school, church, business or landmark connected to the ancestor [S41†].
 
 Use only collections whose catalogue or description actually covers the place and period. Do not assume that a photographer's work survives for the family's town.
 
