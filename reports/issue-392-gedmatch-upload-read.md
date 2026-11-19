@@ -43,5 +43,24 @@ now explicitly say to read that section before drafting the first reply. The
 [case](../skills/genealogy-research-recipes/evals/cases/gedmatch-upload.yaml)
 still requires the read in all three samples. Both historical proposals remain
 failed on this case. The 1.20.0 and 1.22.0 release batches and the later
-`proposal_full_b235c0e` batch passed it 3/3. The gap in the wording is visible.
-The cause of either miss and the long-run miss rate remain unknown.
+`proposal_full_b235c0e` batch passed it 3/3. The cause of either miss and the
+long-run miss rate remain unknown.
+
+## Checking the change
+
+The [evaluation receipt](issue-392-gedmatch-upload-read.json) records the unchanged
+release baseline, the proposed suite and a judge replay. The repository harness
+used the native reader and locked CLI 2.1.322 with `claude-opus-5-5` for both
+assistant and judge. The case, rubric and thresholds were fixed throughout.
+
+The first baseline login hit its weekly limit on all 30 samples. On the fallback
+login, release 1.22.0 passed 10/10 cases. All three GEDmatch samples read the
+companion recipe and passed both rubric items.
+
+The full proposed suite at `7a27a33` passed 15/16 cases. All three GEDmatch samples
+read the full 499-line task recipe and the full 300-line companion. The judge
+returned only `GM-03` for sample 2, omitting `GM-02`. This made GEDmatch the
+sole failed case as run. Replaying those same three
+answers with the repository evaluator produced two passing verdicts per answer.
+The assistant transcripts, answers and read records match across the original run
+and replay.
