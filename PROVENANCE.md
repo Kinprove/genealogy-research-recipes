@@ -817,7 +817,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [missing-marriage-jurisdiction-search](provenance/missing-marriage-jurisdiction-search.yml) | 27 | 14 | 0 | — |
 | [muscovite-census-settler-origin-recovery](provenance/muscovite-census-settler-origin-recovery.yml) | 8 | 5 | 0 | — |
 | [myheritage-dna-match-investigation](provenance/myheritage-dna-match-investigation.yml) | 19 | 6 | 6 | — |
-| [myheritage-historical-record-search](provenance/myheritage-historical-record-search.yml) | 23 | 27 | 2 | — |
+| [myheritage-historical-record-search](provenance/myheritage-historical-record-search.yml) | 21 | 26 | 2 | — |
 | [myheritage-kit-processing-and-downloads](provenance/myheritage-kit-processing-and-downloads.yml) | 0 | 0 | 0 | — |
 | [myheritage-profile-hint-extraction](provenance/myheritage-profile-hint-extraction.yml) | 0 | 0 | 0 | — |
 | [nazi-era-ancestry-proof-records](provenance/nazi-era-ancestry-proof-records.yml) | 40 | 8 | 0 | — |

@@ -16,9 +16,9 @@ The following dates are video upload dates, not independently established sessio
   uploaded 2019-10-31 — [video](https://www.youtube.com/watch?v=fTbB2OkkHRM). Rights: cited reference, not reproduced.
 - **S7:** *MyHeritage Founder & CEO Gilad Japhet's Session at RootsTech 2026*, MyHeritage,
   uploaded 2026-03-18 — [video](https://www.youtube.com/watch?v=P5QdO_SYgoc). Rights: cited reference, not reproduced.
-- **S8:** *Ask The Expert — German Records*, MyHeritage,
+- **S8:** *Ask The Expert — German Records*, MyHeritage, Relevant passage in the saved presentation transcript read 2026-11-19.
   uploaded 2022-03-13 — [video](https://www.youtube.com/watch?v=pLM4pmlBH5g). Rights: cited reference, not reproduced.
-- **S9:** *10 Must-Have MyHeritage Databases*, MyHeritage,
+- **S9:** *10 Must-Have MyHeritage Databases*, MyHeritage, Relevant passage in the saved presentation transcript read 2026-11-19.
   uploaded 2020-07-23 — [video](https://www.youtube.com/watch?v=L5osnrCmc04). Rights: cited reference, not reproduced.
 - **S10:** MyHeritage Knowledge Base, [Looking for Info on an Old Family Business? Try School Yearbooks](https://education.myheritage.com/article/looking-for-info-on-an-old-family-business-try-school-yearbooks/).
   Publication date 2021-08-12, not independently
