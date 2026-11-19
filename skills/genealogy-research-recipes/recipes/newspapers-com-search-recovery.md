@@ -88,31 +88,22 @@ finding-aid collection link supplies a locator, not proof that the target issue 
 
    For a county, list every title the directory shows across the family's whole residence period.
    Extend the period past deaths, because obituaries and estate notices come later, and back before
-   the earliest births or marriages. Include small, cheap and rival papers. Note any known party,
-   labor or immigrant/working-class readership, since a paper tended to report on its own
-   subscribers. Give each title its own register row; a miss in the best-digitized daily is a
-   no-match for that title only. A directory listing does not always show whether a title is
-   digitized. The [directory exercise](https://www.youtube.com/watch?v=mXrdfV1SFnk),
-   [cheapest-paper observation](https://www.youtube.com/watch?v=KTHR-RiI3c4),
-   [rival-paper example](https://www.youtube.com/watch?v=HDlHaVNiiJc) and
-   [working-class death-notice example](https://www.youtube.com/watch?v=89uJQ6yxqVA) are
-   presenters' assertions, not measured coverage. They do not predict which title printed an item.
+   the earliest births or marriages. Include small, inexpensive and competing papers. Use known party, labor, immigrant or working-class readership to choose additional titles [S37], [S38], [S39], [S40]. Give each title its own register row and verify the available issues before recording a miss [S14].
 2. **Resolve the holder and format.** Follow the title record's holdings links and the identified
    institution's catalog. For each relevant holding, record institution, holding identifier or
    call number, format, stated held dates/gaps and access route. Print, microfilm and digital
    holdings can cover different date ranges. If you use a locality-based finding aid, follow
    its collection link to the actual provider or repository before recording coverage.
-   A collection-level lead stays `holding unverified` until its holdings are checked. (S13,
-   S14, H2)
+   A collection-level lead stays `holding unverified` until its holdings are checked [S13], [S14], [H2].
 3. **Verify the target issue.** For a digital holding, open its issue calendar/list and then the
    required date and edition; record the pages present and what you could inspect. For a print
    or microfilm holding, prepare a bounded request or visit plan with title identifier, call
    number, format and exact dates. Record `physical issue not inspected` until the actual issue
    has been checked. A catalog's held date span alone does not settle a particular issue/page.
    Apply the OCR/name tactics below to accessible images; an access problem needs the recorded
-   alternate holding or request, rather than more spelling probes. (S14, H2; authored check)
+   alternate holding or request, rather than more spelling probes [S14], [H2].
 
-The directory's list of libraries that hold a title is not complete: a local public library can hold a title's whole run on microfilm without being listed [S83], [S84]. Before you record that no holding exists, search for the title in the catalogs of the local public library, the local and state historical societies and the state library, and in WorldCat, and give each holding you find its own register row [S84].
+Search local library and historical society catalogs as well as the state library and WorldCat before closing a title search. The Library of Congress directory entry for the *Daily Sentinel-Tribune* omitted the Wood County District Public Library, where a researcher had used its complete microfilm run [S83]. Record each holding separately [S84].
 
 **Artifact:** one register row for each title–holding–target-issue combination:
 
@@ -174,7 +165,7 @@ Set place and publication-date limits separately. (S9, H7, H8, H9)
 | 1 | Nothing appears for the expected place and date. | Use Browse to inspect titles and the actual available issues for that interval. Check competing papers and predecessor/successor titles, including small title changes such as adding Daily. (S3, S8, S9) | Is the relevant issue, edition and page present and accessible with your subscription tier? Record a coverage gap separately from a query that returned no match. |
 | 2 | A full name returns no useful notice. | Inspect naming style in a known issue. For William Richard Evans, try `"Richard Evans"`, `"W R Evans"` and a surname-only `Evans` search in a tighter place/time scope. Also try a known nickname and the abbreviated given name that editors used to save space even if the person never did, such as `"Wm Evans"`, `Jas.`, `Saml.`, `Geo.`, `Chas.` or `Thos.` (S2, S6, S91, S92) | Are these forms actually used by the title or plausible for this person? Initial spacing and punctuation can differ; a failed exact phrase does not eliminate the initial form. |
 | 3 | A woman's own full name is missing. | Try her maiden and married surnames, then her husband's name or initials: `"Mrs Robert Evans"`, `"Mrs R Evans"`. Keep searching her maiden surname in issues long after the wedding, where an item can call her `"the former Mary Jones"` or `"formerly Miss Jones"`. Search surname-only lists and notices about relatives when her given name is omitted. (S5, S9, S11, S75, S76) | Does the item identify the wife, or only a different person sharing the surname? Read compressed lists with their heading and surrounding sentences. One `Misses` or `Mrs.` before a run of surnames applies to each of them: after `Misses` they are maiden surnames, after `Mrs.` married surnames, without given names. |
-| 4 | The image looks readable but the query misses it. | First look at how the OCR read the name: check the highlighted words on a hit's page thumbnail, or open the article text (OCR) under a clipping of the item, made private as in rule 7. Query the misreading you see. Otherwise test a small set of visually plausible letter confusions, such as B/H or C/E, based on the scan, or run one wildcard probe such as `Ev?ns`. For a `Mc` surname, also try the `M` split off as an initial or the `c` dropped, such as `M Kay` for McKay: one record's transcription split a Mc surname this way. Shorten an over-specific phrase, search an uncommon given name alone within a tight place and date scope, or search another intact word from the expected notice. (S1, S11, H7, H8, H10, H15, S82) | Read the original letters. Label a distorted or wildcard search form as an OCR probe, not a corrected historical name. |
+| 4 | The image looks readable but the query misses it. | First look at how the OCR read the name: check the highlighted words on a hit's page thumbnail, or open the article text (OCR) under a clipping of the item, made private as in rule 7. Query the misreading you see. Otherwise test a small set of visually plausible letter confusions, such as B/H or C/E, based on the scan, or run one wildcard probe such as `Ev?ns`. For a `Mc` surname, try dropping the `c` and splitting the remaining `M` off as an initial: Peter McLane was indexed as Peter M Lane [S82]. Shorten an over-specific phrase, search an uncommon given name alone within a tight place and date scope, or search another intact word from the expected notice. (S1, S11, H7, H8, H10, H15, S82) | Read the original letters. Label a distorted or wildcard search form as an OCR probe, not a corrected historical name. |
 | 5 | A smudged target name may be in a group notice. | Search a known relative, witness, neighbor or club member who could appear in that same item; alternatively search the known club name within the relevant title/time. (S1; club-name search authored) | Does the recovered item actually include the target? A notice about the club alone supplies context, not personal participation. |
 | 6 | A common surname produces too much noise. | Try a surname with a known occupation or address: `Evans carpenter`, `Evans "42 Oak Street"`. In 20th-century papers, also search the family's known telephone number: a classified ad for eggs, straw or livestock may print only the number. Run these as separate clue-based passes. (S3, S79, S80) | Do the clue and surname belong to the same notice and person? Inspect the full address; a reused address can lead to different occupants. A telephone number can match through a transposed or mistyped digit, so check that what the ad offers fits the family. |
 | 7 | You need a visit, departure or migration clue. | Run one verb per pass: `Evans visited`, `Evans arrived`, `Evans left`, `Evans returned`, `Evans moved`. Read society items in both plausible departure and destination papers, and in the parents' hometown paper, where a person who never lived there can appear visiting relatives. (S4, S71, S72) | Who performed the action, when, and where? A highlighted surname beside an unrelated arrival notice is not the searched person's trip. |
@@ -184,28 +175,23 @@ Set place and publication-date limits separately. (S9, H7, H8, H9)
 | 11 | One article suggests a longer story. | Search subsequent months for court proceedings, settlement or verdict; revisit former residences for a death mention. Reuse newly recovered witnesses, addresses and institutions as search clues. (S2, S3) | Record each article's publication date and reported event date separately. Do not turn the first report or filing into the final outcome. |
 | 12 | Keywords still fail despite an available likely issue. | Switch retrieval mode: browse its pages directly. For an obituary, marriage or birth item, also search the matching index. Newspapers.com's 2023–24 posts put these indexes in the Categories drop-down under the Keyword box. For an obituary or marriage, the Newspapers.com index on Ancestry is a second route. Follow any candidate to the image. (S5, S6, H13, H14) | The index is another access path, not independent corroboration. A category search reaches only items placed in that index, so a miss there needs the same search without the category. Check the full notice and its boundaries; inspect missing or inaccessible pages separately. |
 
-When a notice dates an event relative to another date, such as 'issued yesterday' or 'last
-Wednesday', retain the literal wording and its anchor before deriving a date. The demonstrated
-`ult.` refers to the preceding month; use that reading only after checking the notice's context
-and whether its anchor is the issue date, a dated letter or an earlier report. Save `wording |
+When a notice dates an event relative to another date, such as ‘issued yesterday’ or ‘last
+Wednesday’, retain the literal wording and its anchor before deriving a date. For `ult.` (the preceding month), identify the date of the item, letter or original report that supplied the expression [S33], [S47]. Save `wording |
 anchor and basis | derived event date | uncertainty` separately from the publication date. If a
 reprint, such as one whose original date is unknown, or an ambiguous anchor prevents a reliable
-calculation, leave the event date unresolved. (S33, S47)
+calculation, leave the event date unresolved.
 
-Read `inst.` or "instant" as the current month and `prox.` (proximo) as the next month, beside `ult.` (ultimo) for the last month: a notice that a regiment leaves "on the 10th instant" means the 10th of the month in which it was written [S85], [S86]. That is usually the issue's month; when the item quotes a dated letter or an earlier report, take the month from that anchor as above.
+For `inst.` or ‘instant’, use the month of the dated statement; for `prox.` (proximo), use the next month [S85], [S86]. A regiment leaving ‘on the 10th instant’ was due to leave on the tenth of the writer’s month [S85]. Check for a dateline or quoted letter before using the issue’s month.
 
 For an independently documented business/address, also search a successor's advertisement
 and read any wording naming the former operator. Retain the notice date and literal wording
 about the former and current operators as a business-occupancy lead. Correlate dated records before
-assigning the person's residence or departure. The [successor-notice example](https://familylocket.com/eleven-newspaper-notices-how-hotel-ads-and-sheriffs-sales-helped-prove-thomas-beverly-roystons-parentage/)
-supports this retrieval pivot; one later advertisement supplies no exact move or ownership date.
+assigning the person’s residence or departure. John Dawson’s January 1830 hotel advertisement in Athens named L. A. Erwin as the former occupant, leaving the date of the handover and ownership open [S52].
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> The deceased occupants' historical house number and street name go to Newspapers.com.\
 Search the historical house number and street name by themselves in local papers from the
 household's period of occupancy. Leave the surname out of this pass [S94]. Check estate-sale and
-auction ads for itemized household goods [S95]. The speaker's example from the available excerpt
-concerns a sale before a move [S93]. Check dated occupancy evidence before attributing the advertised
-goods to the household.
+auction ads for itemized household goods [S95]. Search before a documented move as well as after a death: an estate-sale advertisement may describe belongings sold before a family left [S93]. Verify who occupied the address on the advertisement date before attributing the goods.
 
 Date every letter-list entry and record the office holding the unclaimed mail; it suggests an
 intended destination or travel stop, not a residence. A pickup office can sit in another county or state than the residence, so search the
@@ -218,25 +204,7 @@ Chattahoochee and not on Chambers County's border. (S7, S52, S53, H3)
 
 When a family moved to a place where no relative, former neighbor or associate can be found, look for an advertisement that drew them. Land agents, speculators and developers promoted their settlements in newspapers, as well as in broadsides, pamphlets and books aimed at prospective migrants [S73], [S74]. Search the papers of the place the family left, in the years before the move, for the destination's name with a word such as `land` or `farms`. An advertisement found there is a motive to test against the move's date and route; it does not show that the family read it [S73].
 
-When the local issue is lost, undigitized or silent, search the name across all titles without a
-place filter for a reprint. Editors exchanged papers and copied items, often crediting the source,
-and wire copies reached distant and overseas titles. A "[place] papers please copy" request, as at
-the end of a death notice, shows only that the notice's author wanted it reprinted there; it
-proves neither that another paper printed it nor residence or route. Preserve the request as a
-publication-locality lead and use the title/holding workflow above to search a bounded interval
-in that place's papers. (S47) Record each version's title, date, length,
-differing details and any credited original separately, and group copies under their originating
-report. A reprint may be abridged or altered and is not independent corroboration. A distant
-paper's 'native of' claim may come from the original report. The
-[exchange explanation](https://www.youtube.com/watch?v=RHv0Zxq5MlU), distant-obituary examples
-([1](https://www.youtube.com/watch?v=Tk0MFU86pmI), [2](https://www.youtube.com/watch?v=k6E3ZJu1Txg),
-[3](https://www.youtube.com/watch?v=hi8XCcmA2kw), [4](https://www.youtube.com/watch?v=AZfIlQYexb8)),
-[wire example](https://www.youtube.com/watch?v=D-eqV-ZS5UY),
-[five reports](https://www.youtube.com/watch?v=jgJ5ei6keMs),
-[regional reprints](https://www.youtube.com/watch?v=1Ptl1u6wRoY),
-[overseas reprints](https://www.youtube.com/watch?v=81A_q2fGuqo) and
-["please copy" question](https://www.youtube.com/watch?v=7vUOB1x6QR0) motivate this. None predicts
-which papers copied an item.
+When the local issue is lost, undigitized or silent, search the name across titles without a place filter. Editors exchanged items and wire services carried them to distant and overseas papers [S15], [S17], [S19], [S21], [S22]. A Louisiana notice asked Texas papers to copy it [S47]: use Texas as a place to search, then verify which title actually printed it. The request alone leaves residence and travel unresolved. For each copy, record title, date, length, differences and any credited original. Group derivative versions under the originating report, including any borrowed claim about where the person came from [S14], [S16], [S18], [S20], [S23].
 
 For a death, set the issue window from the event chain rather than stopping at the first obituary.
 A short death notice can precede a full obituary printed months later, after a winter burial or
@@ -259,19 +227,13 @@ until the place and timing fit the obituary's reference.
 
 For a death in roughly the last hundred years, search the papers of the birthplace, the marriage place and every place the person lived for a significant time, as well as those of the death place: a family could place the obituary in a former hometown [S62], [S63]. The tip's author notes that this does not hold for most 19th-century deaths [S62]. For an emigrant, also search the home country's papers. A family there could print a death notice for a death abroad that the destination's papers never carried, and a Scottish local paper's death notices of 1837 to 1855 include deaths in Australia, Canada, India and the United States [S65], [S66].
 
-Read back from the death as well. In the weeks or months before it, local correspondents' and gossip columns can report an illness, a hospital stay or a relative's visit, with names and residences that the obituary leaves out [S80], [S81]. In the tip's 1923 example, such an item gave the name, slightly wrong, and the residence of the dying woman's sister [S81]; carry a name from such an item as a lead to that relative's own records.
+Read local correspondents’ and gossip columns in the weeks or months before the death for an illness, hospital stay or relative’s visit [S80]. A 1923 item about Nancy Rampley’s illness gave her sister’s residence but slightly misstated her name [S81]. Use the place to search the sister’s own records before adopting the spelling.
 
 Read an obituary's relationships as the family's account. The newspaper or funeral home usually printed what the family supplied without checking it, a relative often wrote it in a hurry, and space or cost could cut names [S67], [S68]. When a long survivor list can be grouped more than one way, for example which surname or spouse goes with which listed child, write out every grouping and test each against the obituaries and records of the relatives it names [S67].
 
 For a recent death, also read the guestbook, tribute wall or comments under an online obituary [S87]. One memorial platform's guestbook lists each signer with their connection to the deceased, such as family, friend, coworker or schoolmate [S88]. Record each stated connection as the commenter's claim and use it as a lead. Commenters are usually living people: keep their names and messages in the user's private research notes and out of anything shared (Living people, in `SKILL.md`).
 
-For a migrant who died away from home, also read any death lists a destination-city newspaper
-printed. A [Vienna death-list series](https://forum.ahnenforschung.net/forum/thread/1082/)
-shows entries giving the death date, name, occupation, age, the place the person had arrived from,
-the cause and the hospital or address. Record the issue date and page separately from the death
-date, and carry the stated origin to that place's registers. 'Arrived from' may name a last
-residence rather than a birthplace. A list entry is a printed summary, not the register entry. The
-examples do not establish which years or cities printed such lists.
+For a migrant who died away from home, inspect death lists in the destination city’s papers. A transcription of the *Wiener Zeitung* of 8 March 1871, p. 955, describes Georg Skoday as having arrived from Verbocz and dying in Vienna’s general hospital on 2 March [S46]. Copy any name, age, occupation, cause and address in the entry. Separate the death date from the issue date and follow the stated origin to its registers, leaving birthplace open.
 
 For vital events, run surname-plus-event passes instead of full-name searches: born, christened,
 engaged (a truncated stem where the engine supports it), shower, wedding, eloped, divorce,
@@ -294,13 +256,7 @@ person's lifetime. Congregation histories, 'years ago' columns and rosters of a 
 printed decades later can carry earlier births, marriages, service or obituaries. This matters most
 when the original years are not digitized. Read the heading to learn what compiled list or column
 it is. Record the later issue's date, any original date it cites and the stated event date
-separately. Use them to seek the original issue or underlying record. Such text is a later,
-possibly abridged statement, not a contemporaneous report. The
-[church-history](https://www.youtube.com/watch?v=RvbalvEJXn8),
-[1905 roster](https://www.youtube.com/watch?v=uzQBBaf-J1Y),
-[reprint-column](https://www.youtube.com/watch?v=FvrKolaUiR0) and
-[church-feature](https://www.youtube.com/watch?v=SnGo_gOikdE) examples motivate this pass. They do
-not show how common such items were.
+separately. Search the original issue or underlying record. A Civil War roster shown in one presentation was printed in 1905 [S34]. Treat late rosters, reprinted obituaries and retrospective church features as later accounts, recording any abridgment [S29], [S35], [S36].
 
 For probate, court, tax or land matters, and especially when deeds or court files are missing,
 browse the legal-notice matter as well as running name searches. Notices may lack a heading and sit
@@ -318,7 +274,7 @@ illustrative; establish each jurisdiction's actual rule.
 
 When deed books burned or are thin, also browse the routine real-estate-transfer columns [S89]. An NGS Monthly article, judged from the available excerpt, says that from the late 19th century many papers, though not all, printed brief abstracts of recorded transfers and mortgages that name grantors and grantees, locate the land and give the price, and that these can stand in for a deed index [S90]. If the county's own run of the paper burned too, look for the same title in another holding with the title–holding–issue workflow above [S89]. Copy each abstract verbatim with its issue and page, and use it to request the deed where the book survives.
 
-Do not overlook equity notices addressed to absent defendants: one can name defendants said to live outside the state and give the case caption and kind of suit, which you can then carry to the court records. [S55], [S56] A September 1840 notice from Cheraw District, South Carolina, in `Goodson et al. v. Beck et al.`, a bill for account and partition, does this; another Cheraw commissioner's notice that year prescribes publication twice a month for three months, and an 1853 South Carolina decision describes three months' newspaper publication as standing in place of service. [S56], [S57], [S58] A caption does not show that a case file survives, so check for the file before relying on it. [S55], [S56]
+In an equity notice addressed to absent defendants, copy the named parties, court, type of suit and wording about residence [S55]. The September 1840 Cheraw District notice in *Goodson et al. v. Beck et al.* named out-of-state defendants in a bill for account and partition [S56]. A separate Cheraw order called for publication twice a month for three months [S57]; an 1853 South Carolina decision explains the period’s use of publication in place of service [S58]. Search for the underlying case file before drawing conclusions about the parties.
 
 Search crime news as well as obituaries and family notices. In the 1940s to 1960s, U.S. local papers reported police raids on gay bars and often printed the names, addresses and occupations of the people arrested, sometimes on the front page [S59], [S60]. After the 1964 raid on the Fun Lounge near Chicago, in which 109 people aged 19 to 56 were arrested, the *Chicago Daily News* printed a partial list in which almost every name carried the person's age, address and place of work, supplied by the police; other Chicago papers printed teachers' names and addresses [S60]. A journalism historian describes the same practice in Washington, D.C., where men had their names, ages and street addresses printed [S61]. When the question concerns a relative who may have been gay or lesbian in that period, or a family story of an arrest or a lost job, search the surname with `raid` or with the bar's name, such as `Evans raid`, and browse the issues from the day of a known raid onward. Read the item as a report of an arrest only: it does not establish the person's sexual orientation or any offence. A court dismissed the charges against 99 of the 109 Fun Lounge arrestees three weeks later [S60], so follow the case as in row 11 of the search table and the [court-notice handoff](#optional-handoff-from-a-court-notice).
 
@@ -331,10 +287,7 @@ or two notices. An associate's advertisement places the associate, not the targe
 target in with a notice that names him, such as a sheriff's sale he signed as deputy, which
 places him in office in that county on that date. Pair a sheriff's-sale, execution or
 bankruptcy notice with any surviving sheriff's deed: the notice explains why the deed exists,
-and the deed confirms the sale took place. In the
-[Royston case](https://familylocket.com/eleven-newspaper-notices-how-hotel-ads-and-sheriffs-sales-helped-prove-thomas-beverly-roystons-parentage/),
-the target produced two useful notices and an advertising associate produced eight. That is one
-case, not a typical yield. (S52, S53)
+and the deed can confirm whether the sale took place. In Cass County, Thomas B. Royston signed an 1834 sale notice as deputy sheriff, while John Dawson’s more frequent advertisements traced Dawson’s movements [S52], [S53].
 
 From notices already found, list every printed form of address and search those the initials and
 married-name passes miss. These include title-only forms (`Judge Evans`), honorific-only forms
@@ -438,9 +391,7 @@ federal; for a reported arrest, criminal trial or imprisonment, also use
 in a collection whose actual arrangement supports it. Check a retrieved file against the parties
 and case context, preserving its own locator, inspected pages and gaps. Keep a notice-only lead or
 unavailable file explicit.
-The [reported newspaper-to-divorce-file example](https://familylocket.com/rlp-359-until-death-do-us-part-or-five-weeks-later-a-tale-of-marital-woe-in-1875-dallas/)
-illustrates this handoff. Publication of a notice does not establish its allegations, the final
-judgment or the parties' identities; recovering the notice does not mean the case file was read.
+The *Dallas Daily Herald* docket for 28 October 1875 gave no. 2745 for *Belle Carpenter v. John W. Carpenter*, leading a researcher to the numbered Dallas County file [S48]. Keep each allegation attributed to its source until the case papers establish the outcome.
 
 ## Prompt-craft
 
