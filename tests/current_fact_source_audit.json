@@ -301,7 +301,7 @@
       "recipe": "periodical-index-search-retrieval.md",
       "bindings": [
         {
-          "claim": "Start with ACPL's own free PERSI search",
+          "claim": "Start with ACPL’s free PERSI search",
           "sources": [
             "S18"
           ]
