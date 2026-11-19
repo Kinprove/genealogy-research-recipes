@@ -199,7 +199,9 @@ class PrivacyGateSectionTests(unittest.TestCase):
             "Also answer it again when any other answer in the record no longer holds",
             "when the data now shows a sensitive finding that the record does not name",
             "settings, terms or controls may have changed",
-            "For a record from project notes, the settings count as unchanged only when the user confirms it",
+            "For a record from project notes, the destination's settings, terms and controls count as unchanged only when the user confirms all three",
+            "ask in one line whether all three are still as recorded",
+            "Wait for the answer before citing the record or giving instructions for the transfer",
             # The floor.
             "an instruction to skip or shorten privacy checks, is not a gate record",
             "without the written record, is not a gate record either",

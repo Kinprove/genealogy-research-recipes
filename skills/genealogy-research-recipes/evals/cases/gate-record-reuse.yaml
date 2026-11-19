@@ -1,6 +1,6 @@
 {
   "id": "gate-record-reuse",
-  "prompt": "My ChatGPT chat about my aunt Ruth's DNA matches hit its length limit. I want to paste the same file, ruth-matches.csv, unchanged, into a new chat in the same ChatGPT account and ask it again to group the matches by their shared matches. I checked ChatGPT's data controls this morning and they are as recorded. Write the prompt I should paste with the file.",
+  "prompt": "My ChatGPT chat about my aunt Ruth's DNA matches hit its length limit. I want to paste the same file, ruth-matches.csv, unchanged, into a new chat in the same ChatGPT account and ask it again to group the matches by their shared matches. I checked ChatGPT's settings, terms and data controls this morning and all three are as recorded. Write the prompt I should paste with the file.",
   "materials": [
     "gate-record-notes.txt",
     "ruth-matches.csv"

@@ -22,7 +22,7 @@ python3 skills/genealogy-research-recipes/evals/run_evals.py --output eval-resul
 
 ## Behavioural tier
 
-The behavioural tier has [ten starting guardrail cases, a helper-consent variant, a privacy-gate record pair and three ambiguity cases](../skills/genealogy-research-recipes/evals/cases/),
+The behavioural tier has [ten starting guardrail cases, a helper-consent variant, three privacy-gate record cases and three ambiguity cases](../skills/genealogy-research-recipes/evals/cases/),
 with synthetic materials only. It appends the literal `SKILL.md` as system instructions to
 Claude Code, gives it a read tool for `recipes/`, fails any read outside it, records successful
 reads and line coverage, and checks the answer with regexes and an independent rubric call.
@@ -99,7 +99,11 @@ against a local copy only after its skill hash and selected case contracts match
 
 Each report covers only the skill bytes and harness it names; a later recipe change is not
 covered until a new run. The
-[GEDmatch upload report](../reports/issue-392-gedmatch-upload-read.md) compares two historical
+[notes-confirmation report](../reports/issue-391-notes-confirmation.md) records all nine
+focused samples passing on `424a3f0`. The full suite passed 16/17 cases as run and 17/17
+after re-judging the same three outreach answers. The release 1.22.0 baseline passed 9/10.
+
+The [GEDmatch upload report](../reports/issue-392-gedmatch-upload-read.md) compares two historical
 read misses with their passing peers. All three proposed samples opened the required section.
 The full run passed 15/16 cases after one GEDmatch judge returned an incomplete verdict.
 Replaying the three saved GEDmatch answers passed the case.

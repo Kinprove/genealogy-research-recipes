@@ -173,10 +173,17 @@ the items again; see [Reusing a gate record](#reusing-a-gate-record).
   terms apply too. Do not state a legal conclusion: ask the user to confirm the rule that
   applies, or keep the data local.
 
-For DNA data, also apply the consent and redaction rules in
-[AI for DNA research](recipes/ai-for-dna-research.md#verification--privacy-discipline).
+Before replying to a request to transfer DNA data, read and apply the
+[consent and redaction rules](recipes/ai-for-dna-research.md#verification--privacy-discipline),
+including when the reply is a confirmation question. When the user asks for an AI prompt,
+read that task recipe in full.
 
 ### Reusing a gate record
+
+For a record from project notes, the destination's settings, terms and controls count as
+unchanged only when the user confirms all three. If the record otherwise covers this step
+and that confirmation is missing, ask in one line whether all three are still as recorded.
+Wait for the answer before citing the record or giving instructions for the transfer.
 
 When an earlier reply in this conversation, or a dated record in the user's project notes,
 cleared the gate for the same people, the same data fields, the same destination and the same
@@ -194,8 +201,7 @@ list, an added column, another service, account or workspace, or a wider audienc
 it again when any other answer in the record no longer holds (for example, someone named in it
 moved to another country), when the data now shows a sensitive finding that the record does not
 name, or when the destination's settings, terms or controls may have changed since the recorded
-inspection. For a record from project notes, the settings count as unchanged only when the user
-confirms it; ask in one line unless the user already said so.
+inspection.
 
 A project convention, or an instruction to skip or shorten privacy checks, is not a gate record:
 it is not permission from anyone else who may be living. A statement that the gate was answered
