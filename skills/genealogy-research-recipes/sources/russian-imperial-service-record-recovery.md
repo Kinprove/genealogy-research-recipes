@@ -1,66 +1,66 @@
 ## Sources
 
-- **S1:** J-Roots Forum, [Отголоски семейных историй. Тема для пробных постов начинающих генеалогов](https://forum.j-roots.info/viewtopic.php?f=20&t=5084), thread started 2010-05-16. Used for:
-  - one participant's reading of a medical-list entry (diploma year, Л-prefixed birth year, specialty);
+- **S1:** J-Roots Forum, [Отголоски семейных историй. Тема для пробных постов начинающих генеалогов](https://forum.j-roots.info/viewtopic.php?f=20&t=5084), thread started 2010-05-16. Used for: Cited passages in the captured forum text read 2026-11-19.
+  - the reading of an entry linked to the Soviet directory for 1924 (S43);
   - directory namesakes treated as candidates;
   - the corrected account of pharmacy stages and owner versus pharmacist;
   - the list of sources for pharmacy questions.
-- **S2:** Уральская генеалогия, [Участники русско-турецкой войны 1877—1878 гг.](https://rodgersforum.borda.ru/?1-23-0-00000043-000-0-0-1743010301=), start date not shown. Used for:
+- **S2:** Уральская генеалогия, [Участники русско-турецкой войны 1877—1878 гг.](https://rodgersforum.borda.ru/?1-23-0-00000043-000-0-0-1743010301=), start date not shown. Used for: Cited passages in the captured forum text read 2026-11-19.
   - service lists of war participants in ГАПК ф. 143, 162 and 111;
   - Starchevsky's 1878 reference.
-- **S3:** Уральская генеалогия, [Полицейские](https://rodgersforum.borda.ru/?1-11-0-00000237-000-0-0-1780934391=), start date not shown. Used for:
+- **S3:** Уральская генеалогия, [Полицейские](https://rodgersforum.borda.ru/?1-11-0-00000237-000-0-0-1780934391=), start date not shown. Used for: Cited passages in the captured forum text read 2026-11-19.
   - police posts in metrical entries and the advice to search police fonds;
   - the ГАПК ф. 132 files;
   - police inspectors' and a factory-office employee's lists filed in ф. 111;
   - lists in ф. 36;
   - family blocks and several lists for one person.
-- **S4:** Уральская генеалогия, [Ярославский Демидовский юридический лицей](https://rodgersforum.borda.ru/?1-11-0-00000243-000-0-0-1748684177=), start date not shown. Used for:
+- **S4:** Уральская генеалогия, [Ярославский Демидовский юридический лицей](https://rodgersforum.borda.ru/?1-11-0-00000243-000-0-0-1748684177=), start date not shown. Used for: Cited passages in the captured forum text read 2026-11-19.
   - district-court files in ГАПК ф. 1 оп. 2;
   - a land captain's file in ф. 38 оп. 2;
   - adoption by court ruling;
   - closing entries naming the next employer.
-- **S5:** Уральская генеалогия, [2023 Потомственные и личные почетные граждане](https://rodgersforum.borda.ru/?1-11-0-00000255-000-0-0-1774707238=), start date not shown. Used for:
+- **S5:** Уральская генеалогия, [2023 Потомственные и личные почетные граждане](https://rodgersforum.borda.ru/?1-11-0-00000255-000-0-0-1774707238=), start date not shown. Used for: Cited passages in the captured forum text read 2026-11-19.
   - treasury and chancery lists in ф. 111 and ф. 36;
   - seniority dates for ranks and honorary citizenship;
   - visible date slips in abstracts.
-- **S6:** Уральская генеалогия, [Медицина и фармакология (продолжение 2)](https://rodgersforum.borda.ru/?1-11-0-00000262-000-0-0-1768844276=), start date not shown. Used for:
+- **S6:** Уральская генеалогия, [Медицина и фармакология (продолжение 2)](https://rodgersforum.borda.ru/?1-11-0-00000262-000-0-0-1768844276=), start date not shown. Used for: Cited passages in the captured forum text read 2026-11-19.
   - pharmacy apprentice and assistant files in ГАПК ф. 143 оп. 1;
   - examining bodies;
   - pharmacies named by owner and managing pharmacist;
   - moves between provinces.
-- **S7:** Уральская генеалогия, [Лесная стража](https://rodgersforum.borda.ru/?1-11-0-00000270-000-0-0-1772555736=), start date not shown. Used for:
+- **S7:** Уральская генеалогия, [Лесная стража](https://rodgersforum.borda.ru/?1-11-0-00000270-000-0-0-1772555736=), start date not shown. Used for: Cited passages in the captured forum text read 2026-11-19.
   - the ГАСО forestry fond list;
   - folio ranges by dacha and volost in 55-2-377;
   - related ф. 55, 72 and 78 files;
-  - paper-only access;
+  - the contributor’s paper reading at the time of the post;
   - forest officials' lists in ГАПК.
-- **S8:** Уральская генеалогия, [2023-2024 Чиновники (продолжение)](https://rodgersforum.borda.ru/?1-11-0-00000276-000-0-0-1781377984=), start date not shown. Used for:
+- **S8:** Уральская генеалогия, [2023-2024 Чиновники (продолжение)](https://rodgersforum.borda.ru/?1-11-0-00000276-000-0-0-1781377984=), start date not shown. Used for: Cited passages in the captured forum text read 2026-11-19.
   - ф. 111 оп. 1 lists with marriage dates and maiden names;
   - a prison-department clerk's service file;
   - adopted children;
   - closing entries (railway control, military call-up, retirement);
   - seniority dates.
-- **S9:** Уральская генеалогия, [a thread on a Urals clergy family](https://rodgersforum.borda.ru/?1-29-0-00001516-000-0-0-1773915766=), start date not shown. Used for:
+- **S9:** Уральская генеалогия, [a thread on a Urals clergy family](https://rodgersforum.borda.ru/?1-29-0-00001516-000-0-0-1773915766=), start date not shown. Used for: Cited passages in the captured forum text read 2026-11-19.
   - zemstvo veterinary postings and Весь Киев entries;
   - the 1914 list of subjects caught abroad;
   - an RMS entry in the standard layout;
   - linking a clergyman to a later civil clerk.
-- **S10:** Уральская генеалогия, [a thread on a Urals clergy family (continuation, 2022–2026)](https://rodgersforum.borda.ru/?1-29-0-00001597-000-0-0-1780931575=), start date not shown. Used for:
+- **S10:** Уральская генеалогия, [a thread on a Urals clergy family (continuation, 2022–2026)](https://rodgersforum.borda.ru/?1-29-0-00001597-000-0-0-1780931575=), start date not shown. Used for: Cited passages in the captured forum text read 2026-11-19.
   - year-by-year Tobolsk address calendars and Памятная книжка entries;
   - RMS 1914 and 1916 "as of" dates and pages;
   - the women-physicians list;
   - a miss specific to one section.
-- **S11:** Уральская генеалогия, [a thread on an official's daughter in Perm province](https://rodgersforum.borda.ru/?1-2-0-00002035-000-0-0-1775028086=), start date not shown. Used for: a father's service file (ГАПК ф. 113 оп. 1) giving a daughter's birth date and town.
-- **S12:** J-Roots Forum, [Варшава. Императорский Университет](https://forum.j-roots.info/viewtopic.php?f=175&t=4188), thread started 2014-10-06. Used for:
+- **S11:** Уральская генеалогия, [a thread on an official's daughter in Perm province](https://rodgersforum.borda.ru/?1-2-0-00002035-000-0-0-1775028086=), start date not shown. Used for: a father's service file (ГАПК ф. 113 оп. 1 д. 331) giving a daughter's birth date and town. Cited passages in the captured forum text read 2026-11-19.
+- **S12:** J-Roots Forum, [Варшава. Императорский Университет](https://forum.j-roots.info/viewtopic.php?f=175&t=4188), thread started 2014-10-06. Used for: Cited passages in the captured forum text read 2026-11-19.
   - following a university record into the RMS;
   - its reported free online access;
   - failed searches under spelling variants.
-- **S13:** Уральская генеалогия, [Заграничный поход Русской армии 1813 - 1814](https://rodgersforum.borda.ru/?1-23-0-00000055-000-0-0-1743010435=), start date not shown. Used for: veterans' military careers restated in treasury service lists, ГАПК ф. 111 оп. 1 д. 1021.
-- **S14:** National Library of Russia (РНБ), [Памятные книжки губерний и областей Российской империи — список губерний](https://nlr.ru/elibrarypro/memo/RA5888/spisok-guberniy), opened 2026-11-02. Used for: the live entry point to the Памятные книжки by guberniya (the bare `/elibrarypro/memo/` address returned 404).
-- **S15:** National Library of Russia (РНБ), [Указатель наличия изданий в библиотеках, архивах и музеях](https://nlr.ru/elibrarypro/memo/RA5937/ukazatel-nalichiya-izdaniy-v-bibliotekakh), opened 2026-11-02. Used for: the index of institutions holding Памятные книжки, arranged by city.
-- **S16:** Vologda Regional Universal Scientific Library (booksite.ru), [Персоналии из «Памятных книжек»](https://booksite.ru/novgorod-pk/index.html) and [full-text Памятные книжки](https://booksite.ru/fulltext/memo/book/1.htm), opened 2026-11-02. Used for: the library's Памятные книжки material.
-- **S17:** Presidential Library (prlib.ru), [search page](https://www.prlib.ru/search?ss=памятная%20книжка), opened 2026-11-02, when it returned a browser security check ('Проверяем ваш браузер перед доступом к сайту') instead of results, as a participant had reported on 2026-10-28. Used for: handing prlib.ru searches to the user's browser. Perishable; recheck before relying on it.
-- **S18:** Leibniz-Institut für Ost- und Südosteuropaforschung, [Erik Amburger Database on Foreigners in Prerevolutionary Russia](https://leibniz-ios.de/en/library/databases/erik-amburger-database), opened 2026-11-02. Used for: about 100,000 foreigners in the Russian Empire until 1917, the published list of database sources and the database's origin in Amburger's card file.
+- **S13:** Уральская генеалогия, [Заграничный поход Русской армии 1813 - 1814](https://rodgersforum.borda.ru/?1-23-0-00000055-000-0-0-1743010435=), start date not shown. Used for: veterans' military careers restated in treasury service lists, ГАПК ф. 111 оп. 1 д. 1021. Cited passages in the captured forum text read 2026-11-19.
+- **S14:** National Library of Russia (РНБ), [Памятные книжки губерний и областей Российской империи — список губерний](https://nlr.ru/elibrarypro/memo/RA5888/spisok-guberniy), opened 2026-11-02. Used for: the live entry point to the Памятные книжки by guberniya (the bare `/elibrarypro/memo/` address returned 404). Library page read 2026-11-19.
+- **S15:** National Library of Russia (РНБ), [Указатель наличия изданий в библиотеках, архивах и музеях](https://nlr.ru/elibrarypro/memo/RA5937/ukazatel-nalichiya-izdaniy-v-bibliotekakh), opened 2026-11-02. Used for: the index of institutions holding Памятные книжки, arranged by city. Library page read 2026-11-19.
+- **S16:** Vologda Regional Universal Scientific Library, [Новгородская губерния. Персоналии из «Памятных книжек»](https://booksite.ru/novgorod-pk/index.html). Used for the province covered by the searchable name index. Library page read 2026-11-19.
+- **S17:** Presidential Library (prlib.ru), [search page](https://www.prlib.ru/search?ss=памятная%20книжка), opened 2026-11-02, when it returned a browser security check ('Проверяем ваш браузер перед доступом к сайту') instead of results, as a participant had reported on 2026-10-28. Used for: handing prlib.ru searches to the user's browser. Perishable; recheck before relying on it. Search results inaccessible behind the browser check 2026-11-19.
+- **S18:** Leibniz-Institut für Ost- und Südosteuropaforschung, [Erik Amburger Database on Foreigners in Prerevolutionary Russia](https://leibniz-ios.de/en/library/databases/erik-amburger-database), opened 2026-11-02. Used for: about 100,000 foreigners in the Russian Empire until 1917, the published list of database sources and the database's origin in Amburger's card file. Institute page read 2026-11-19.
 - **S19:** Российский государственный исторический архив (RGIA), electronic catalogue, [fond record Ф. 1349](https://fgurgia.ru/object/439283) and its six inventory records, opened 2026-11-07. Used for: f. 1349 as a collection of civil officials' formulary lists (31,672 files, 1754–1917, 6 inventories) formed in the Senate archive from several streams, including lists from Senate and Ministry of Justice files intended for destruction; and the contents of оп. 1–6.
 - **S20:** RGIA electronic catalogue, [fond record Ф. 1343](https://fgurgia.ru/object/439271) (Third Department of the Senate, Department of Heraldry), opened 2026-11-07. Used for: cases on inclusion in the nobility (1813–1917), hereditary and personal honorary citizenship, change of surname and adoption.
 - **S21:** Rosarkhiv, «Путеводители по российским архивам», RGVIA guide, vol. 1 (2006), fond pages for [f. 409](https://web.archive.org/web/20200914181255/http://guides.rusarchives.ru/funds/15/posluzhnye-spiski-attestacii-i-nagradnye-listy-oficerov-russkoy-armii), [f. 489](https://web.archive.org/web/20200806021503/http://guides.rusarchives.ru/funds/15/formulyarnye-spiski-i-drugie-dokumenty-o-sluzhbe-lichnogo-sostava-russkoy-armii), [f. 879](https://web.archive.org/web/20200914180713/http://guides.rusarchives.ru/funds/15/medicinskiy-departament-1812-1867) and [f. 546](https://web.archive.org/web/20200914181601/http://guides.rusarchives.ru/funds/15/glavnoe-voenno-sanitarnoe-upravlenie-1867-1918-i-podvedomstvennye-emu-uchrezhdeniya-1840), read from 2020 Internet Archive captures on 2026-11-07 (the live guide fails TLS verification). Used for: officers' service lists, attestations and award sheets in f. 409 (1847–1938); formulary and service lists of generals, officers, soldiers and officials in f. 489 (1720–1900); and formulary lists of military medical staff in f. 879 (1799–1867) and f. 546 (1862–1918, name index for 1867–1918).
@@ -102,8 +102,19 @@ The routes to RGA VMF and the Herold-master's office, looking for a father's lis
 
 Reading an RGVIA inventory miss as a miss in the online inventories only, browsing the fonds that fit the man's service, and searching city directories by full name with a known address are authored synthesis. S38 and S40 are Dzen posts by one genealogist; S39 is a genealogy guide; S41 is a reference work. NOT verified: which RGVIA inventories are online today (the inventory site failed TLS on 2026-11-16) and which St Petersburg directories are digitised.
 
+- **S42:** [Российский медицинский список на 1914 год, Russian State Library](https://search.rsl.ru/ru/record/01006516586). Catalogue entry read 2026-11-19. The catalogue identifies the list as current on 1 May 1914.
+
+- **S43:** [Список медицинских врачей С.С.С.Р., Russian State Library](https://search.rsl.ru/ru/record/01006531161). Catalogue entry read 2026-11-19. The item linked by the forum contributor (S1) is current on 1 January 1924 and was published in Moscow in 1925. The catalogue identifies the edition; the individual entry was not inspected.
+
+- **S44:** [Российский медицинский список на 1916 год, Russian State Library](https://search.rsl.ru/ru/record/01006516589). Catalogue entry read 2026-11-19. The catalogue identifies the list as current on 1 May 1916.
+
+- **S45:** [Российский медицинский список, 1914, transcription of the printed instructions](https://www.pomnirod.ru/materialy-k-statyam/vsya-rossiya/medicinskie-rabotniki/россійскій-медицинскій-списокъ-списки-врачей-ветеринаровъ-зубныхъ-врачей-фармацевтовъ-и-аптекъ-по-свѣдѣніямъ-на-1-мая-1914-г.html). Transcribed edition key read 2026-11-19. The instructions give the order and meaning of the date and degree abbreviations and expand the example 63 Л. 82.
+
+- **S46:** [Vologda Regional Universal Scientific Library, Памятные книжки Вологодской губернии](https://booksite.ru/fulltext/memo/book/1.htm). Library page read 2026-11-19. The page reproduces text from Vologda’s provincial books.
+
 ## Credits
 
+- Russian State Library (S42–S44), Pomnirod transcription of the 1914 directory (S45), and Vologda Regional Library (S46) — Bibliographic details and document instructions restated with attribution (adapted)
 - J-Roots Forum, beginners' trial-post thread on echoes of family stories — Forum post, all rights reserved by the posters; short quotation for citation (quoted)
 - Уральская генеалогия forum, continuation thread on a Urals clergy family, 2022–2026 — Forum post, all rights reserved by the posters; short quotation for citation (quoted)
 - Уральская генеалогия forum, thread on an official's daughter in Perm province — Forum post, all rights reserved by the posters; factual restatement (adapted)
