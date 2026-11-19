@@ -305,6 +305,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `historical-place-name-resolution#C-postal-place-vs-residence` | custody | 2026-11-17 | 2027-05-16 | S86, S87, S88 |
 | `holocaust-testimony-source-interpretation#C-2d89c69f5ab0` | portal-availability | 2026-11-08 | 2027-02-06 | H18, H19, H20 |
 | `holocaust-testimony-source-interpretation#C-94d94db1afa5` | portal-availability | 2026-11-12 | 2027-02-10 | H21 |
+| `illegitimacy-record-recovery#C-adb950ae9e4d` | custody | 2026-11-19 | 2027-05-18 | S2, S1, S14, S8, S4, S5, S3, S7, S15, S16 |
 | `illegitimacy-record-recovery#C-bfb5dbd04ae9` | custody | 2026-11-12 | 2027-05-11 | S17 |
 | `interpreting-ancestry-composition-estimates#C-f19c3b5e7d02` | platform-ui | 2026-11-16 | 2027-05-15 | S6 |
 | `interpreting-ancestry-composition-estimates#C-c5f81a26e3d4` | platform-ui | 2026-11-16 | 2027-05-15 | S6 |
@@ -801,7 +802,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [historical-newspaper-section-search](provenance/historical-newspaper-section-search.yml) | 0 | 0 | 0 | — |
 | [historical-place-name-resolution](provenance/historical-place-name-resolution.yml) | 8 | 0 | 0 | — |
 | [holocaust-testimony-source-interpretation](provenance/holocaust-testimony-source-interpretation.yml) | 19 | 11 | 6 | — |
-| [illegitimacy-record-recovery](provenance/illegitimacy-record-recovery.yml) | 15 | 21 | 0 | — |
+| [illegitimacy-record-recovery](provenance/illegitimacy-record-recovery.yml) | 3 | 17 | 0 | — |
 | [immigrant-congregation-origin-records](provenance/immigrant-congregation-origin-records.yml) | 7 | 21 | 3 | — |
 | [institutional-patient-record-recovery](provenance/institutional-patient-record-recovery.yml) | 12 | 13 | 2 | — |
 | [interpreting-ancestry-composition-estimates](provenance/interpreting-ancestry-composition-estimates.yml) | 0 | 0 | 0 | — |
