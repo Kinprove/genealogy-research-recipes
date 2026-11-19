@@ -56,7 +56,7 @@ questions; reading a transaction-only ledger does not exhaust that separate targ
 test book not located or inspected outstanding. The narrated example does not establish
 standard fields, identity or current availability. [S33]
 
-When a parish register ends, search the parish accounts (*Kirchenkassen-Rechnungen*) for the missing years and inspect their enclosures. In two articles on Canditten, Gegner-Sünkler reports that the 1822–1846 accounts named contributors and held an 1824 letter from the pastor to an administrative official [S30], [S31]. The original accounts and letter have yet to be verified. A payment or mention in a letter documents a particular transaction and supplies no complete parish roster.
+When a parish register ends, search the parish accounts (*Kirchenkassen-Rechnungen*) for the missing years and inspect their enclosures. In two articles on Canditten, Gegner-Sünkler reports that the 1822–1846 accounts named contributors and held an 1824 letter from the pastor to an administrative official [S30], [S31]. The original accounts and letter have yet to be verified. Record a payer only where the account records a payment. The letter reportedly discussed a proposed purchase [S31]. Look for a deed, receipt or other evidence of completion before recording a sale or debt. Keep the contributor list separate from any parish roster.
 
 For a property-change question tied to an identified early-Prussian territorial Amt and
 period, check whether the actual local muster-roll inventory includes relevant appendices:
