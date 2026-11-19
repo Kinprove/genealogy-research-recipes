@@ -7,17 +7,13 @@
   spelling variation and the historical absence of authority control.
 - Mississippi Fred MacDowell, *Searching online in Hebrew with imperfect OCR*,
   [On the Main Line, 2011-09-02](https://onthemainline.blogspot.com/2011/09/searching-online-in-hebrew-with.html).
-  Supports the three OCR-confusion examples and external site-search route.
+  Supports the three OCR-confusion examples and external site-search route. Publisher text read 2026-11-19.
 - Ezra Brand, *Guide and Review of Online Resources 2022, Part I*,
   [Seforim Blog, 2022-03-30](https://seforimblog.com/2022/03/guide-and-review-of-online-resources-2022-part-i/).
-  Recommends the beta search entry point.
-- [Shafeh catalogue form](https://shafeh.org/hb/search) and
-  [submitted title query](https://shafeh.org/hb/search?title=%D7%9E%D7%A1%D7%99%D7%9C%D7%AA+%D7%99%D7%A9%D7%A8%D7%99%D7%9D&author=&ocr=&commit=%D7%97%D7%99%D7%A4%D7%95%D7%A9),
-  inspected independently twice on 2026-10-03. Both requests returned HTTP 200; the query
-  rendered catalogue records. The form submits separate `title`, `author` and `ocr`
-  parameters. The footer attributes data to beta.hebrewbooks.org.
+  Recommends the beta search entry point. Publisher text read 2026-11-19.
+- [Shafeh catalogue form](https://shafeh.org/hb/search). Separate title, author and OCR inputs. The submitted title query is listed as B16. Search form and its separate fields read 2026-11-19.
 - [J-Roots topic 64, “Случайные находки”](https://forum.j-roots.info/viewtopic.php?f=15&t=64).
-  A participant corrected surname index order to given-name order.
+  A participant corrected surname index order to given-name order. Captured forum posts read 2026-11-19.
 - [Hebrew Wikisource template documentation](https://he.wikisource.org/wiki/תבנית:היברובוקס-דף),
   last edited 2016-03-08. Distinguishes viewer and printed page numbers.
 - HebrewBooks public mobile app, commit `7b2443c23854ef8fa68b3d3d0104bf1ec2dcb428`:
@@ -45,7 +41,7 @@
   current OCR.
 - Otzar HaHochma, [English home page](https://www.otzar.org/otzaren/indexeng.asp), checked
   2026-11-07. Supports the size (156,000 books), the OCR full-text search and its sale as a
-  paid product.
+  paid product. Publisher text read 2026-11-19.
 - Automated requests to `https://beta.hebrewbooks.org/` and `https://hebrewbooks.org/` on
   2026-11-07 got mixed answers: several returned HTTP 403 with a Cloudflare challenge, a later
   one returned HTTP 200, and the pages' content was not inspected. The step therefore asks for a
@@ -94,6 +90,8 @@ because the forum's certificate had expired.
 The part-date controls distinguish the evidence on each part from the publication year
 inferred for it. The linked rabbinic-literature recipe retains the fuller approbation and
 Hebrew-date guidance; no conversion rule is newly asserted here.
+
+- Shafeh, [submitted title query for מסילת ישרים](https://shafeh.org/hb/search?title=%D7%9E%D7%A1%D7%99%D7%9C%D7%AA+%D7%99%D7%A9%D7%A8%D7%99%D7%9D&author=&ocr=&commit=%D7%97%D7%99%D7%A4%D7%95%D7%A9). Submitted title results read 2026-11-19. The result cards identify 41768 and its author beside partial titles.
 
 ## Credits
 
