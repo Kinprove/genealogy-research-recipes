@@ -45,9 +45,10 @@ class EuropeHispanicReviewCorrectionsTests(unittest.TestCase):
         self.assertTrue(any("1870" in s and "Västerbotten" in s and "Norrbotten" in s for s in sentences))
         self.assertNotIn("You can search it for 1860, 1870, 1880", text)
 
-    def test_places_without_a_parish_are_many_and_one_in_ten_stays_attributed(self):
+    def test_birthplace_and_serving_parish_are_separate_search_fields(self):
         text = recipe("german-register-image-recovery.md")
-        self.assertIn("Many smaller places had no parish of their own. One presenter estimates", text)
+        self.assertIn("enter the birthplace and the serving parish as separate fields", text)
+        self.assertNotIn("one case in ten", text)
         self.assertNotIn("Most towns had no parish of their own", text)
 
     def test_meyers_edition_year_matches_across_recipes(self):
