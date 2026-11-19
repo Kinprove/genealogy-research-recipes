@@ -4,41 +4,41 @@ The research-log, locality, request, next-step and report rules are original Kin
 The community examples that motivate individual rules are linked inline in the recipe where they
 are used.
 
-- S1. Lisa Lisson, "Chatting All Things Genealogy!", YouTube video, 2021-03-05,
+- S1. (B1) Lisa Lisson, "Chatting All Things Genealogy!", YouTube video, 2021-03-05,
   <https://www.youtube.com/watch?v=0_GHyojrnu8>. Used for: an example of checking a collection
   again after the provider lists it as updated, which motivates re-running a logged NIL search as
-  a new dated row.
+  a new dated row. Captured presentation transcript read 2026-11-19.
 - S2. J-Roots Forum, thread "Отголоски семейных историй. Тема для пробных постов начинающих
   генеалогов" (Echoes of family stories: a thread for beginners' trial posts), started 2010-05-16,
   <https://forum.j-roots.info/viewtopic.php?f=20&t=5084>. Used for: a database-search tip about
   one site's 100-record display, which motivates splitting capped queries into slices. Also used
   as beginners' advice for searching catalogues by the administrative units in force at the record
   date.
-- S3. Family History Fanatics, "Conquering Genealogy Guilt: Mastering Citations Post-research! -
+- S3. (B3) Family History Fanatics, "Conquering Genealogy Guilt: Mastering Citations Post-research! -
   Civil War Part 4", YouTube video, 2024-11-04, <https://www.youtube.com/watch?v=BSOrsobztYY>.
   Used for: an example of recovering unlogged searches from browser history to rebuild citations
-  after the fact.
+  after the fact. Captured presentation transcript read 2026-11-19.
 - S4. Family Locket, "RLP 401: Airtable Research Log Updates for 2026", YouTube video, 2026-03-16,
   <https://www.youtube.com/watch?v=8Smljk9Aink>. Used for: a timeline-sorting example in which a
   partial date is shown beside a generated first-of-month value.
-- S5. Roberta Estes, "Tracking John Dobkins or Dobbins to Maryland – 52 Ancestors #378",
+- S5. (B5) Roberta Estes, "Tracking John Dobkins or Dobbins to Maryland – 52 Ancestors #378",
   DNAeXplained, 2022-10-16,
   <https://dna-explained.com/2022/10/16/tracking-john-dobkins-or-dobbins-to-maryland-52-ancestors-378/>.
-  Used for: a record-tracking example with a two-way lookup between named people and source items.
-- S6. Nicole Elder Dyer, "RLP 257: Alford/Johnson Project – Interview with Michelle Mickelson
+  Used for: a record-tracking example with a two-way lookup between named people and source items. Published article or interview transcript read 2026-11-19.
+- S6. (B6) Nicole Elder Dyer, "RLP 257: Alford/Johnson Project – Interview with Michelle Mickelson
   Part 1", Family Locket, 2023-06-12,
   <https://familylocket.com/rlp-257-alford-johnson-project-interview-with-michelle-mickelson-part-1/>.
-  Used for: a FAN chart that sets people against sources in chronological order.
-- S7. Roberta Estes, "Genealogy Proof Series: Extracting and Recording Data So That You Can Find
+  Used for: a FAN chart that sets people against sources in chronological order. Published article or interview transcript read 2026-11-19.
+- S7. (B7) Roberta Estes, "Genealogy Proof Series: Extracting and Recording Data So That You Can Find
   It", DNAeXplained, 2024-06-14,
   <https://dna-explained.com/2024/06/14/genealogy-proof-series-extracting-and-recording-data-so-that-you-can-find-it/>.
   Used for: an extraction-log example that separates names deliberately searched from names met
-  while extracting other surnames.
-- S8. Уральская генеалогия forum, thread "Генеалогическое следствие" (Genealogical
+  while extracting other surnames. Published article or interview transcript read 2026-11-19.
+- S8. (B8) Уральская генеалогия forum, thread "Генеалогическое следствие" (Genealogical
   investigation), <https://rodgersforum.borda.ru/?1-0-0-00000238-000-0-0-1721744472=>. Title from
   the saved copy. The page fetched on 2026-11-03 had broken text encoding; its first post is dated
   2023-11-11. Used for: an example of metrical-book marriage tables kept per surname, used to
-  chain a widow back to her first marriage.
+  chain a widow back to her first marriage. Captured forum discussion read 2026-11-19.
 - S9. James Tanner, "How to Analyze Genealogical Sources", BYU Library Family History Center,
   YouTube video, 2020-05-05, <https://www.youtube.com/watch?v=7Jn_XMUozo0>. Used for: a
   jurisdiction-layer example, which motivates listing every body that created records for a place
@@ -80,10 +80,10 @@ are used.
   <https://rodgersforum.borda.ru/?1-14-0-00000139-000-0-0-1767764008=>. Title from the saved copy.
   The page fetched on 2026-11-03 had broken text encoding; its first post is dated 2022-11-05.
   Used for: a revision-list exchange that illustrates the same place-unit search rule (S16).
-- S18. Diana Elder, "Using the Fan Methodology to Find a Female's Father: Part 2 – Locality
+- S18. (B18) Diana Elder, "Using the Fan Methodology to Find a Female's Father: Part 2 – Locality
   Research and Research Planning", Family Locket, 2022-10-20,
   <https://familylocket.com/using-the-fan-methodology-to-find-a-females-father-part-2-locality-research-and-research-planning/>.
-  Used for: the method origin of the locality guide and search planning.
+  Used for: the method origin of the locality guide and search planning. Published article or interview transcript read 2026-11-19.
 - S19. Amy Johnson Crow, "Are You Missing THESE Records in Your Southern Genealogy?", YouTube
   video, 2018-10-17, <https://www.youtube.com/watch?v=in4Jda5KglQ>. Used for: an interview on
   plantation records that shows the route from a collection index to a collection.
@@ -102,10 +102,10 @@ are used.
   2023-12-18, <https://familylocket.com/rlp-284-university-archives-with-sam-howes/>. Used for:
   a demonstration of creator and subject searches in ArchiveGrid, and its report that
   participation is incomplete.
-- S24. Roberta Estes, "FOCUS: Step 1 – Seven Solutions for DNA Matches with Absent or Shrunken
+- S24. (B24) Roberta Estes, "FOCUS: Step 1 – Seven Solutions for DNA Matches with Absent or Shrunken
   Trees", DNAeXplained, 2026-10-02,
   <https://dna-explained.com/2026/10/02/focus-step-1-seven-solutions-for-dna-matches-with-absent-or-shrunken-trees/>.
-  Used for: a broken-link example of recovering a dated page from a web archive.
+  Used for: a broken-link example of recovering a dated page from a web archive. Published article or interview transcript read 2026-11-19.
 - S25. Genealogy TV, "DIGITAL BOOKS and ONLINE PUBLICATIONS For Family History Research", YouTube
   video, 2020-06-12, <https://www.youtube.com/watch?v=a-539DY1aak>. Used for: a demonstration of
   searching archived captures over time.
@@ -175,8 +175,11 @@ are used.
 - **N3:** [Research Around the World](https://www.pricegen.com/research-around-the-world/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **N4:** [genealogy.net Metasuche](https://meta.genealogy.net/), opened 2026-11-16. The current page describes parallel database requests, a ten-second response window and individual database selection; it also marks temporarily disabled databases.
 
+- **S36:** [Internet Archive, Using the Wayback Machine](https://help.archive.org/help/using-the-wayback-machine/). Internet Archive help page read 2026-11-19. Explains using dated URLs and why captures, pages or embedded resources can be absent.
+
 ## Credits
 
+- Internet Archive, Using the Wayback Machine (S36) — Capture and retrieval guidance paraphrased (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
 - Günter Junkers, Compgen-Blog, Backup für das kulturelle Erbe der Ukraine, 2022-03-15, cited as H1 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
