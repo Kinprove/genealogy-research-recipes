@@ -715,7 +715,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 
 | Recipe | Pending sources | Pending anchors | Unlinked anchors | Missing source IDs |
 | --- | ---: | ---: | ---: | --- |
-| [23andme-match-research](provenance/23andme-match-research.yml) | 44 | 51 | 1 | — |
+| [23andme-match-research](provenance/23andme-match-research.yml) | 43 | 50 | 1 | — |
 | [admixture-model-run-scope](provenance/admixture-model-run-scope.yml) | 12 | 2 | 0 | — |
 | [agent-research-project](provenance/agent-research-project.yml) | 0 | 0 | 0 | — |
 | [ai-for-dna-research](provenance/ai-for-dna-research.yml) | 94 | 34 | 34 | — |
