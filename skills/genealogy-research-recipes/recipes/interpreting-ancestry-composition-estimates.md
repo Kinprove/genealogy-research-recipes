@@ -59,15 +59,15 @@ A share of a few percent is a question, not a finding. Do not add an origin, a m
 
 ## 3. Expect German ancestry under neighbouring labels
 
-Do not reject a documented German line because the German-labelled category is low or missing. Family Locket's guide to German DNA research says neighbouring ethnicities are common on German results and that ethnicity is less reliable for German ancestors. [S8] Judy Russell's father's family was German, traced there for about 400 years, and she expected about half western and eastern European, mostly German, ancestry. MyHeritage estimated her at 66.9% Scandinavian, AncestryDNA at 14%, FamilyTreeDNA at 11% and 23andMe at 5.4%; she accepts her East European and Balkan shares as coming from a grandfather born in the former East Germany. [S7] In 23andMe's cross-validation, Central & West Europe had the lowest precision of its European populations, and its recall fell to 64.4% at the stricter threshold. [S5]
+Do not reject a documented German line because the German-labelled category is low or missing. Family Locket's guide to German DNA research says neighbouring ethnicities are common on German results and that ethnicity is less reliable for German ancestors. [S8] Russell traced her father’s German ancestry for roughly 400 years, yet her Scandinavian estimates ran from 5.4% at 23andMe to 66.9% at MyHeritage [S7]. In 23andMe's cross-validation, Central & West Europe had the lowest precision of its European populations, and its recall fell to 64.4% at the stricter threshold. [S5]
 
 Read the German-labelled share together with the neighbouring and broad north-west and central European shares as one block. Test the German line with matches whose ancestors come from documented German places, and with records [S8], not with the label. Do not open a new Scandinavian, French or East European line on the strength of a neighbouring label alone.
 
-The community source for this section, Kitty Cooper in a Family Tree Magazine interview, is reported as saying that German ancestry may appear under other European labels and that an unexpected label is no cause for alarm. The interview's transcript and audio were not available to this review, so this attribution is not independently verified. [S2†]
+In the *Family Tree Magazine* interview, Kitty Cooper describes German ancestry appearing under neighbouring European labels [S2].
 
 ## 4. Do not test relationships with percentage differences
 
-A child does not inherit a parent's percentages. [S1] Each child receives a random half of each parent's DNA, so the share from each grandparent can differ from a quarter (MyHeritage's example is 30% and 20%), siblings can carry different proportions from the same ancestors, and a distant line can leave little or no detectable DNA. [S3] A child's share of a region can therefore be larger or smaller than a parent's, or missing. Of five siblings in Russell's family, four were labelled Scandinavian and the fifth got the North and West European label the family expected. [S7]
+A child does not inherit a parent's percentages. [S1] Each child receives a random half of each parent's DNA, so the share from each grandparent can differ from a quarter (MyHeritage's example is 30% and 20%), siblings can carry different proportions from the same ancestors, and a distant line can leave little or no detectable DNA. [S3] A child's share of a region can therefore be larger or smaller than a parent's, or missing. Russell reports that four siblings received the Scandinavian label and the fifth received North and West European [S7]. Record those labels with the individual results before comparing siblings.
 
 To see which parental side AncestryDNA assigns a painted segment to, use the tester's existing results. With an Ancestry family history membership, open **DNA → Origins → By parent → View chromosome painter** and switch between the two parent views, labelled **Maternal** and **Paternal** when the sides are named. The colours show estimated regions and can change when the estimate is updated. Read matching colours on two charts as matching region labels and use shared DNA to test relationships. [S17 @2026-11-18]
 
@@ -85,7 +85,7 @@ GEDmatch's Admixture (Heritage) tool offers calculators from five projects, many
 - Never average calculators, or a calculator and a company estimate, and never choose the calculator whose result fits the expectation.
 - A calculator figure neither confirms nor overturns a company estimate. Where they disagree, take the question to matches and records.
 
-Kitty Cooper, the community source for this section, is reported as calling ancestry composition an inexact science, unlike relative matching. The interview's transcript and audio were not available to this review, so this attribution is not independently verified. [S2†]
+Cooper distinguishes regional estimates from matching relatives in the interview [S2]. Use shared DNA to test a proposed relationship.
 
 **Privacy gate:** <!-- privacy-gate: upload --> The tester's raw DNA file, the genetic data of the tester (the user, a parent or another relative, who may be living), leaves the user's device for GEDmatch, a matching database.
 
@@ -95,9 +95,9 @@ GEDmatch's calculators become available once a kit's upload is complete [S6 @202
 
 Compare the estimate with what the documented parents could have passed on. A share of about half in a population that neither known parent belongs to, or a share of only about half when both known parents belong to it entirely, is not ordinary inheritance variation (§4). When the population is one the model detects precisely, treat it as a parentage lead. Ashkenazi Jewish ancestry is the clearest case: 99.3% precision and 98.6% recall in 23andMe's cross-validation. [S5]
 
-Published cases show how such a lead resolves. A woman conceived with a donor described as of Jewish extraction was estimated at 49.9% Ashkenazi Jewish, and the donor later appeared among her 23andMe relative matches. [S9] The DNA Geek describes a woman whose parents and four grandparents were all Jewish but whom four companies estimated as only about half Ashkenazi; her legal father's brother shared only 69 cM with her, and the case resolved to a known donor. [S10]
+Compare the percentage lead with an actual relative match. In Greschler’s account, a 49.9% Ashkenazi estimate preceded a direct 23andMe match to the donor [S9]. In a separate case, four companies estimated a tester with four Jewish grandparents at about half Ashkenazi. She shared only 69 cM with her legal father’s brother, then 495 cM with a grandson of the proposed donor’s brother [S10]. Record which comparison tests each relationship.
 
-Kitty Cooper, the community source for this section, is reported as describing a half-Jewish result that led to the discovery of a sperm donor. The interview's transcript and audio were not available to this review, so this attribution is not independently verified. [S2†]
+Cooper also mentions donor conception after an unexpected half-Jewish estimate, without giving a match or shared-DNA amount for that account [S2].
 
 - Record it as a parentage lead, not a conclusion, and keep it private. The estimate does not show which parent, which generation or which explanation applies; donor conception, another misattributed parentage and a parent's own unknown origins can all produce it.
 - Test it with shared DNA: compare shared cM with known relatives on each side through [AI for DNA research](ai-for-dna-research.md), and take the kinship ruling to [evidence/proof judgment](evidence-proof-judgment.md).
