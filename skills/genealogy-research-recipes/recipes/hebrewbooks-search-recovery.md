@@ -109,7 +109,7 @@ part's title or edition and page as in step 6 and the part register below.
    Select the title field for a catalogue search. Author and OCR have separate fields
    [B4 @2026-11-19]. A title search for `מסילת ישרים` returned book **41768**,
    listed under Moshe Hayyim Luzzatto, alongside partial matches `מסילת הברזל` and
-   `דובר ישרים` [S16 @2026-11-19]. Verify the whole title and author before saving
+   `דובר ישרים` [B16 @2026-11-19]. Verify the whole title and author before saving
    the book ID. Record the intended within-book query separately until you can search
    the text or inspect the page.
 

@@ -314,7 +314,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `german-register-image-recovery#C-876771680214` | portal-availability | 2026-11-19 | 2027-02-17 | S52, S53 |
 | `german-register-image-recovery#C-f5061abd25ab` | portal-availability | 2026-11-19 | 2027-02-17 | S48, S49 |
 | `german-register-image-recovery#C-85560e1bbb5f` | portal-availability | 2026-11-19 | 2027-02-17 | S5, S45 |
-| `hebrewbooks-search-recovery#C-70fe20bd1183` | platform-ui | 2026-11-19 | 2027-05-18 | B2, B3, B12, B4, S16 |
+| `hebrewbooks-search-recovery#C-70fe20bd1183` | platform-ui | 2026-11-19 | 2027-05-18 | B2, B3, B12, B4, B16 |
 | `hebrewbooks-search-recovery#C-public-page-pdf` | platform-ui | 2026-11-16 | 2027-05-15 | B14, B15 |
 | `hispanic-catholic-register-recovery#C-886045d1f530` | portal-availability | 2026-11-12 | 2027-02-10 | S38, S37 |
 | `hispanic-catholic-register-recovery#C-59388ea3eb7a` | portal-availability | 2026-11-19 | 2027-02-17 | S23 |

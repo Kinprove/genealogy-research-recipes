@@ -11,7 +11,7 @@
 - Ezra Brand, *Guide and Review of Online Resources 2022, Part I*,
   [Seforim Blog, 2022-03-30](https://seforimblog.com/2022/03/guide-and-review-of-online-resources-2022-part-i/).
   Recommends the beta search entry point. Publisher text read 2026-11-19.
-- [Shafeh catalogue form](https://shafeh.org/hb/search). Separate title, author and OCR inputs. The submitted title query is listed as S16. Search form and its separate fields read 2026-11-19.
+- [Shafeh catalogue form](https://shafeh.org/hb/search). Separate title, author and OCR inputs. The submitted title query is listed as B16. Search form and its separate fields read 2026-11-19.
 - [J-Roots topic 64, “Случайные находки”](https://forum.j-roots.info/viewtopic.php?f=15&t=64).
   A participant corrected surname index order to given-name order. Captured forum posts read 2026-11-19.
 - [Hebrew Wikisource template documentation](https://he.wikisource.org/wiki/תבנית:היברובוקס-דף),
@@ -91,7 +91,7 @@ The part-date controls distinguish the evidence on each part from the publicatio
 inferred for it. The linked rabbinic-literature recipe retains the fuller approbation and
 Hebrew-date guidance; no conversion rule is newly asserted here.
 
-- **S16:** Shafeh, [submitted title query for מסילת ישרים](https://shafeh.org/hb/search?title=%D7%9E%D7%A1%D7%99%D7%9C%D7%AA+%D7%99%D7%A9%D7%A8%D7%99%D7%9D&author=&ocr=&commit=%D7%97%D7%99%D7%A4%D7%95%D7%A9). Submitted title results read 2026-11-19. The result cards identify 41768 and its author beside partial titles.
+- Shafeh, [submitted title query for מסילת ישרים](https://shafeh.org/hb/search?title=%D7%9E%D7%A1%D7%99%D7%9C%D7%AA+%D7%99%D7%A9%D7%A8%D7%99%D7%9D&author=&ocr=&commit=%D7%97%D7%99%D7%A4%D7%95%D7%A9). Submitted title results read 2026-11-19. The result cards identify 41768 and its author beside partial titles.
 
 ## Credits
 
