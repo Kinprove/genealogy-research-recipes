@@ -770,7 +770,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [ethnicity-estimate-version-comparison](provenance/ethnicity-estimate-version-comparison.yml) | 22 | 10 | 0 | — |
 | [evidence-proof-judgment](provenance/evidence-proof-judgment.yml) | 81 | 19 | 19 | — |
 | [family-archives-material-storage](provenance/family-archives-material-storage.yml) | 0 | 0 | 0 | — |
-| [family-collection-intake-and-capture](provenance/family-collection-intake-and-capture.yml) | 25 | 17 | 0 | — |
+| [family-collection-intake-and-capture](provenance/family-collection-intake-and-capture.yml) | 24 | 16 | 0 | — |
 | [family-interviews-and-oral-tradition](provenance/family-interviews-and-oral-tradition.yml) | 26 | 11 | 0 | — |
 | [family-papers-and-bible-register-dating](provenance/family-papers-and-bible-register-dating.yml) | 41 | 5 | 0 | — |
 | [family-photograph-attribution-and-dating](provenance/family-photograph-attribution-and-dating.yml) | 42 | 8 | 0 | — |

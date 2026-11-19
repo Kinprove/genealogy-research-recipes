@@ -116,7 +116,7 @@ If an oversized item is captured in portions, bind each part to the item and to 
 
 ## Look for a missing item under another association
 
-If a known photo, document or recording is missing from the expected person's view, check its associations with the spouse and other close relatives first; one author found her misplaced items often attached to a spouse [S10]. Then inspect a collection-wide media list if one is available, using the item's retained object details. Mark the item either as found under another association or as not located, and never record one as the other. An association does not establish the identity of the person depicted or recorded.
+If a known photo, document or recording is missing from the expected person's view, check its associations with the spouse and other close relatives first; a document missing from the expected profile may have been attached to the spouse’s profile [S10]. Then inspect a collection-wide media list if one is available, using the item's retained object details. Mark the item either as found under another association or as not located, and never record one as the other. An association does not establish the identity of the person depicted or recorded.
 
 ## Record what a recipient actually agreed to take
 
@@ -138,7 +138,7 @@ In the United States, a signed deed of gift transfers ownership of the physical 
 
 ## Check the hand-off from the delivered copy
 
-For a found photograph with a name on the back, use the inscription to look for a matching family in historical records. Anna Styles captures both sides and researches the family before sharing [S42].
+For a found photograph with a name on the back, use the inscription to look for a matching family in historical records. For a flea-market find, preserve both sides together so the written name can be compared with the family found in records [S42].
 
 **Privacy gate:** <!-- privacy-gate: upload, link --> The upload sends both views and any names or other details about people who may still be living to FamilySearch. Linking associates the copy with a tree profile and exposes the source details to its viewers. Answer the privacy gate in `SKILL.md` before either action.
 
