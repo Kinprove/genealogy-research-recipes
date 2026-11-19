@@ -44,12 +44,13 @@ This recipe covers search coverage and caption provenance. For a located Swedish
 
 Start from the family's locality and date range, not from the name. List these candidate holdings:
 
-- **Local photographer or studio negative collections.**
-  - The Overson studio's glass-plate negatives from St. Johns/Apache County, Eastern Arizona, run from about the 1880s to 1940. They were being placed on FamilySearch Memories in 2016 [S1]. Group and student shots are among them, and the presenter estimates that most local families of that period were photographed at least once. Browse a locality's studio negatives early, by group and subject. The presenter says the originals went to a university. The University of Arizona's Overson family photograph collection (MS 549) lists access as in person only, and its contents date from 1840 to the 1950s, mostly 1920s–1940s. Log a holding like that as unsearched until someone searches it on site.
-  - The Larson Studio negative collection (Provo and Utah County, studio active 1916–1968) is held by the Utah State Historical Society and hosted in the University of Utah Marriott Library's digital library [S2].
+- **Local studio negatives.** Browse school, church and group portraits under the town and studio. In 2016 James Tanner described St. Johns, Arizona, glass negatives being added to FamilySearch Memories, including class groups [S1]. Search images filed under the school or class even if an individual pupil is unnamed.
+
+- **Record the institution’s access instructions with the call number.** The University of Arizona’s Overson family photograph collection, MS 549, dates from 1840 to the 1950s, chiefly the 1920s–1940s. Its collection page illustrates a circa-1916 graduation group (box 1, folder 1), says the images were scanned and directs researchers to visit for access. A negative and a print can yield separate scans of the same exposure [S43 @2026-11-19]. The Utah Historical Society lists the Larson Studio Negative Collection, 1916–1968, as Mss C 230 [S44 @2026-11-19]. Log the items actually examined in each collection.
+
 - **Historical-society photo databases.** Find them through the society's website or social-media page [S5].
-- **Digital collections at county or local genealogy repositories.** One presenter reached her ancestor's photograph through a link on a county genealogy society's website [S4].
-- **Orphan or unidentified-photo sites.** These hold both identified and unidentified photos. Search the identified ones by surname, and search the unidentified subset (on DeadFred, the "Mysteries") by place, not by name [S7].
+- **Follow a county society’s links to the holding repository.** In Surry County, North Carolina, the society’s website led Lisa Lisson to a local digital collection containing a family portrait [S4]. Record the repository and item citation as well as how you found it.
+- **Unidentified-photo collections.** Search named portraits by surname. For unnamed items, use the photographer’s town and state. The DeadFred account describes this route through its “Mysteries” category [S7].
 
 **Local public library photograph collections.** Browse the library’s local-history photo collection directly and log it separately from a search of the general catalogue [S42]. According to Melina Papadopoulos’s guide, a library photo collection is a place to look for period views of a school, church, business or landmark connected to the ancestor [S41†].
 
@@ -59,9 +60,11 @@ For a town, church or school in Russia, add History of Russia in Photographs (ru
 
 PastVu (pastvu.com) collects users' images of human life and settlements up to the year 2000. Moderators select what is published, the uploader enters the year and the source, and comments serve to discuss the images [S38 @2026-11-16]. On its map, images are grouped into clusters that split into smaller clusters or single images as you zoom in; a time slider limits the markers to a range of years, and a thumbnail opens the full image with its information [S39 @2026-11-16].
 
-A family historian took old images of an ancestral town from PastVu for a family book: zoom the map to the place until the clusters split into single points, then read each image's place, period and shooting direction and its comments, which can correct details or add them [S40]. Use a hit as a place or context image, as with History of Russia in Photographs: record the place, period and direction as the uploader's claim and each comment as its writer's, and never identify a person in it by appearance.
+For a PastVu place image, record the uploader’s locality, period and camera direction. Credit a later correction to its commenter and check it against a map or dated landmark before using it. Novozhilova’s 2021 Taganrog example shows why the upload and the comments need separate attributions [S40]. A matched view can illustrate the town without identifying a sitter.
 
-For a person or family from Russia, also search Goskatalog (goskatalog.ru), the State Catalogue of the Museum Fund of the Russian Federation. It is the Ministry of Culture's single database of the objects in the Museum Fund, which unites all state museums, and the main source on the holdings of most Russian museums [S37]. A 2020 guide by a family historian searches it by surname: the search runs across all museums and object types, can be limited to photographs and negatives, documents or rare books, or to one museum, such as a district museum in the ancestral area, and each object's record gives its description and holding museum [S35]. In 2025 another family historian found a couple's portrait captioned with her family's surname and the husband's initials, then his employment record book, military card and medals, in the museum of a town where many of her family had lived [S36]. Use the holding museum's town as a locality check, not as proof: a surname and initials in the right town's museum make a candidate, to be confirmed from the object's own details against documents. goskatalog.ru did not respond when checked on 2026-11-15; if it does not load, record the catalogue as not searched rather than as a miss.
+Use Goskatalog, the Russian Museum Fund’s state catalogue, to find related objects at the same museum [S37]. Novozhilova’s 2020 account searched a surname, narrowed by museum or object type, and inspected each item’s description and holder [S35]. A 2025 report from the Raichikhinsk museum linked a couple’s portrait captioned with the surname Oleshko, the husband’s initials and the wife’s name to an employment book, military card and medals [S36]. Check the family details in the documents against the caption. A museum’s town and a surname alone cannot identify the couple.
+
+The Goskatalog portal was inaccessible from this check on 19 November 2026 (connection timed out) [S46† @2026-11-19]. Record an unsuccessful connection separately from a completed search returning no objects.
 
 ## Browse by place, subject and business, not by person
 
@@ -70,10 +73,10 @@ For a person or family from Russia, also search Goskatalog (goskatalog.ru), the 
    - street and building
    - business name
    - group subject: classes, graduations, teams, events [S1], [S2], [S6]
-2. Do not treat a personal-name miss as absence. The 2023 presenter in [S2] reported that a couple of thousand Larson Studio sitters were titled only "unknown man" or "unknown woman", and that about 1,500 were still unidentified. He found his mother-in-law's 1956 graduation portrait under "unknown woman". Browse the thumbnails for the right period instead.
-3. Search the street or business, not the exact modern address, because addresses change [S5]. One presenter found a great-grandfather in a historical-society photo of his store. He was not named, but the store's name contained the family surname [S5]. Before searching, check the earlier street or business name against a directory.
-4. On unidentified-photo sites, query the ancestral town and state. In [S7], a researcher typed the town and state instead of the surname and reached a "mystery photo" of her relative.
-5. Also run a surname-only search with the format filter set to images. A presenter recommends the surname alone, without forenames, because it tolerates spelling variants [S3]. Log it as one surface among several, not as the whole search.
+2. Browse generic titles within the period of a known event. In the Larson Studio collection, Myntti reported finding his mother-in-law’s 1956 graduation portrait under “Unknown Woman” [S2]. His library account also records the family’s response and the later catalogue update [S45]. A later search under the sitter’s name can therefore retrieve an image indexed anonymously at the time of discovery.
+3. Search the business and historical street name. The historical-society description named the hardware store but omitted the great-grandfather pictured inside it. His surname was part of the business name [S5]. Check period directories for name and address changes.
+4. Query an ancestral town and state in the unidentified subset. A DeadFred search found a candidate through those two place fields even though the family surname was absent [S7]. Save the item and its caption for a separate attribution check.
+5. Try the surname alone and limit the format to images [S3]. Repeat with spelling variants. Record the collection searched and the names actually returned.
 
 ## Riddarhuset portraits: select the branch, then inspect the object
 
@@ -135,7 +138,7 @@ Use [archival image coverage verification](archival-image-coverage-verification.
 
 ## Exhaust each repository's surfaces before reporting no image
 
-**Search every photographer collection that holds images of people, not only the largest one.** The [S3] example comes from BYU special collections. There, a surname search filtered to images returned mostly hits from the George Edward Anderson collection, but other collections also produced results. The presenter advises searching at least both of the main people-image collections, Anderson and C. R. Savage, rather than going straight to Anderson [S3]. The general lesson: one photographer's collection is never the whole repository.
+**Search across photographers, then record which collections returned hits.** In BYU’s 2016 demonstration, the George Edward Anderson collection supplied most results for a surname filtered to images, but other collections also returned photographs. Include C. R. Savage as well as Anderson when their coverage fits [S3].
 
 **Then search the manuscript finding aids.** The same presenter notes that many photographs in BYU's manuscript collections had not been digitized and would not appear in the digital photo collections [S3]. Search the manuscript finding aids at every repository, not only at BYU.
 
@@ -183,9 +186,9 @@ On Meshok, checked 2026-11-08, keyword search matches lot titles only, so also b
 
 For every candidate image, record these as separate fields:
 
-- **Photographer's original caption and date**, as the holder transcribes them. In the Frith collection on Findmypast, each record carries the photographer's original description, the date and the location [S6].
-- **Holder-added coordinates**, flagged as approximate. The Frith records also give latitude and longitude. These were added after the fact, because 19th-century photographers did not record them. She says they are fairly precise for well-known landmarks and loose for general scenes such as a party on a mountainside [S6]. Never report them as the exact spot.
-- **Recorded donor**, kept separate from what the image shows. A donor is a lead to where the identification came from and to related family material. The presenter in [S4] planned to contact the donor of her ancestor's photograph. A donor's identification is a claim to trace, not a confirmed fact.
+- **Photographer’s original description.** Separate the caption, date and place transcribed from the original from fields supplied later. The 2021 Frith demonstration shows both kinds of information [S6].
+- **Holder-added coordinates.** Record who supplied the location and its precision. In the Frith demonstration a named landmark could be placed more precisely than a party on a mountainside [S6].
+- **Recorded donor.** Copy the donor attribution attached to the item [S4]. Distinguish who deposited the photograph from who first identified the sitter, and note any missing link between them.
 - **Nearby-place images**, labelled "local context only". A view of the next village or the town centre does not show the ancestor's house or the ancestor.
 
 ## Record a proposed identification as an attribution
@@ -196,11 +199,11 @@ If the user or a relative recognises someone, record it as that person's attribu
 - when
 - the basis they state: their own comparison with a family photo of known provenance that they hold, a store name, a group roster, the date or the setting
 
-Do not compare faces yourself and do not name anyone from appearance. Resemblance is never evidence on its own: a recognition stays an attributed claim until documents support it. In [S7], the researcher recognised the man in a mystery photo found on the site by comparing it with a different photo of him that she owned. Never use an AI-enhanced or AI-generated face in any comparison (see the AI-for-documentary-records link above).
+Do not compare faces yourself and do not name anyone from appearance. Resemblance is never evidence on its own: a recognition stays an attributed claim until documents support it. Record who made the attribution, when, and the provenance of any family photograph they cite [S7]. Keep AI-enhanced or generated faces out of comparisons.
 
 **Privacy gate:** <!-- privacy-gate: publish --> A suggested metadata correction makes the names of people in the photo public in the holder's catalogue, and some sitters may be living; answer the privacy gate in `SKILL.md` first.
 
-Offer a supported identification to the holding institution as a suggested metadata correction. Keep the original caption alongside it, and do not overwrite it in your own notes. A presenter encourages suggesting such updates so that others can find the images [S2]. In [S5], the holder was glad of help identifying the people in the store photo.
+Offer a supported identification to the holding institution as a suggested metadata correction. Supply the item reference, the proposed name and its documentary basis [S2], [S5]. Preserve the original caption and record the holder’s response separately [S45].
 
 ## Return
 
