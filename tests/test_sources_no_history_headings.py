@@ -17,8 +17,7 @@ ADDITION = re.compile(r"\b(?:added|additions?|additional)\b", re.IGNORECASE)
 def history_headings(text):
     """Return the headings that date an addition of sources."""
     return [line for line in text.splitlines()
-            if line.startswith("#") and DATE.search(line) and ADDITION.search(line)
-            and "recheck" not in line.lower()]
+            if line.startswith("#") and DATE.search(line) and ADDITION.search(line)]
 
 
 class HistoryHeadingTests(unittest.TestCase):
@@ -29,7 +28,8 @@ class HistoryHeadingTests(unittest.TestCase):
         self.assertEqual(history_headings("### Sources for the 2026-11-12 additions"),
                          ["### Sources for the 2026-11-12 additions"])
         self.assertEqual(history_headings("### Platform recheck, 2026-11-12"), [])
-        self.assertEqual(history_headings("### Additions and recheck, 2026-11-16"), [])
+        self.assertEqual(history_headings("### Sources added 2026-11-20 after recheck"),
+                         ["### Sources added 2026-11-20 after recheck"])
         self.assertEqual(history_headings("### Sources S36–S47"), [])
         self.assertEqual(history_headings("Sources added 2026-11-20 in prose is not a heading"), [])
 
