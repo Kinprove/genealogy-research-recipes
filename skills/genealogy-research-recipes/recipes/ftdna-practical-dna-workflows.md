@@ -109,10 +109,7 @@ selected exports as subsets with their criteria and actual export choice.
 When the match list is filtered by ancestral surname or haplogroup, treat the result as a search
 subset. A surname search may return similar spellings: check each returned row's surname fields for
 the target surname, and mark the others `similar-name hit` before following their shared matches. A
-haplogroup filter or same-haplogroup indicator covers only haplogroups FTDNA holds for those kits.
-Record a match missing from that result as `haplogroup not shown`, not as carrying a different
-haplogroup. The [2021 search discussion](https://www.youtube.com/watch?v=gNFNKpvy1no) motivates both
-checks, including a haplogroup known only from another vendor's test that did not appear.
+haplogroup field records what the platform shows for that kit. In Eberle’s 2021 search, a haplogroup known from another vendor’s test did not appear. Record the result as `haplogroup not shown` and retain the other vendor’s label with its source [S10].
 
 For a same-surname search, also compare the Y haplogroups shown for male matches. A label may
 be STR-predicted, derived from the Family Finder test (partial, SNP-based) or SNP-tested; a
@@ -130,9 +127,9 @@ Different upstream and downstream labels alone do not establish incompatibility.
 
 Read a match's ancestral surname list as self-reported. Its order carries no fixed meaning: a list may run by generation, alphabetically or in order of appearance, and a [2020 FamilyTreeDNA walkthrough](https://dna-explained.com/?p=31186) shows surnames shared with the viewer moved to the top in bold. Do not infer side, generation or line from a surname's position. To reconstruct the tree of a match without a usable tree, search compiled trees for combinations of the listed surnames and any most distant paternal and maternal ancestors named on the profile. Record a couple found this way as `candidate couple` until descendancy research accounts for the other listed surnames; list any surname it leaves unexplained. A [2024 case-study article](https://www.legacytree.com/blog/genetic-genealogy-proceed-if-a-dna-match-never-responds) motivates this check. [S20, S21]
 
-Treat a match-date value as the date shown on that match row, not as the match's test date, chip version or processing cohort. A [Family Finder match-date discussion](https://genarchivist.net/showthread.php?tid=275) reports older matches showing 2021 dates after matching was recalculated. It also shows a kit's order history and administrator lab-results view recording a later chip procedure for an earlier order. Where authorized, take test and chip history from those records; otherwise record `test date unknown`.
+Record the date displayed on the match row separately from test and chip dates. A Family Finder discussion reports a July 2021 recalculation that gave older matches 2021 dates. One kit’s order history and administrator lab-results view also showed a later chip procedure for an earlier order [S13]. Where authorized, record both dates from those views. Otherwise leave the test date unknown.
 
-A match present in only one of two dated exports of the same kit is a list change (`absent in later export` or `new in later export`, with both retrieval dates), not relationship evidence. A [Family Finder reprocessing discussion](https://forum.molgen.org/index.php/topic,1298.0.html) shows matches removed and later restored after provider reruns in 2012–2013.
+Compare dated exports of the same kit before interpreting a missing match. During the 2012–2013 Family Finder reruns, testers reported losing matches and then seeing some return [S17]. Label the row `absent in later export` or `new in later export`, with both retrieval dates. The list change alone cannot establish a relationship.
 
 **Artifact:** export manifest, one row per file: kit handle, retrieval date/time, file name, tool, export
 choice, active filters, scope (`all`, `filtered: <criteria>`, `selected: <n>`), row count, interface
@@ -175,10 +172,7 @@ Before concluding that a tester who has died or cannot swab again can get no fur
 FamilyTreeDNA test, have the account holder ask Customer Service whether samples from an earlier
 test remain in storage, how many and how old [S31 @2026-11-12], [S32 @2026-11-12]. Stored samples
 degrade, and older ones are less likely to give a result [S32 @2026-11-12]. Record the answer and
-its date. Estes ordered Family Finder on her late mother's stored sample, so that close relative
-is at FamilyTreeDNA, and later at MyHeritage by upload, but can never be at AncestryDNA or 23andMe
-[S33 @2026-11-12]. A close relative missing from those two databases may still be at
-FamilyTreeDNA.
+its date. Estes ordered Family Finder on her late mother’s stored sample, then uploaded the result to MyHeritage. She could still compare with her mother there and at FamilyTreeDNA, despite having no result for her at AncestryDNA or 23andMe [S33 @2026-11-12]. Record which relative is represented in each database and how the result got there.
 
 ### 2. Join matches to segments without collisions
 
@@ -357,19 +351,17 @@ The [project-to-broader-tree example](https://dna-explained.com/2023/10/18/y-dna
 supplies this handoff; modern earliest-ancestor places plus node ages do not establish a
 historical ancestor's location, migration or identity.
 
-When quoting a branch's tester count, country distribution or ancient-sample list from FamilyTreeDNA's public trees or Discover, record the view, branch level and retrieval date with each number. A [haplotree-versus-Discover count comparison](https://genarchivist.net/showthread.php?tid=275) found materially different country counts for the same branch, matching the pages' own descriptions of FTDNA-tested users versus testers plus academic participants; an [mtDNA Ancient Connections versus Classic Tree count](https://genarchivist.net/showthread.php?tid=1508) also differed, without an explained cause. Do not combine, subtract or substitute counts across views, and do not read a sample missing from one view as absent from the branch.
+Give each branch count its report name, branch level, stated population and retrieval date. A tester comparing the public Y tree with Discover found different country counts for the same branch. One view described FTDNA-tested users and the other included academic participants [S13]. In an mtDNA comparison, ancient samples on the H80 Classic Tree and Ancient Connections lists also differed without an established cause [S14]. Retain the separate counts and lists.
 
 Record whether each Discover report was read in the public view, through a shared page, or signed
 in through the tester's own kit. Signed in with a Big Y kit, Discover shows up to 30 Ancient
 Connections for the haplogroup, against up to 10 otherwise [S37 @2026-11-12]. Globetrekker and the
 Y-DNA Match Time Tree open only for a Big Y tester signed in to that kit [S38 @2026-11-12],
-[S39 @2026-11-12], [S36 @2026-11-12]. Estes saw two or three Ancient Connections on a publicly
-shared page where the signed-in tester had more than 20 [S40 @2026-11-12]. Record a report missing
-from a public or shared view as `not inspected in this view`, never as absent.
+[S39 @2026-11-12], [S36 @2026-11-12]. One publicly shared page displayed only two or three Ancient Connections while the same tester’s dashboard showed more than 20 [S40 @2026-11-12]. Record a report missing from the public or shared page as `not inspected in this view`.
 
-Treat a public haplotree surname report as a display subset, not a branch roster. A [surname-report discussion](https://genarchivist.net/showthread.php?tid=275) quotes a display rule requiring at least two kits with public project-profile sharing and the same surname spelling; posters also observed names listed only at the kits' terminal branch. Record a surname missing from the report as `surname not displayed`, not as evidence that no tester of that surname sits on the branch, and note the branch level viewed. A listed surname does not establish a shared recent ancestor.
+For a public haplotree surname report, note the displayed branch and surname spelling. Participants quoted a rule requiring at least two kits with the same spelling and public project-profile sharing, and reported surnames visible on the kits’ terminal branch only [S13]. Record an omission as `surname not displayed`. A displayed surname alone does not establish a shared recent ancestor.
 
-When a Discover branch shows a tester who is not among the kit's matches, check whether the branch's suggested projects lead to a public project results page listing that tester. Record the project URL, retrieval date and the displayed surname, earliest known ancestor and haplotype exactly as published, labelled as project-display data. Record how the project row was tied to the branch entry; if the link rests only on inference, label it `unconfirmed link`. A [Discover-to-project lookup](https://genarchivist.net/showthread.php?tid=416) motivates this route. It shows only what that project chooses to publish. It establishes no match, contact route or genealogical connection.
+When a Discover branch shows a tester who is not among the kit's matches, check whether the branch's suggested projects lead to a public project results page listing that tester. Record the project URL, retrieval date and the displayed surname, earliest known ancestor and haplotype exactly as published, labelled as project-display data. Record how the project row was tied to the branch entry; if the link rests only on inference, label it `unconfirmed link`. In one search, Suggested Projects led to a surname project displaying the surname, earliest known ancestor and STR haplotype [S15]. Those fields describe the published project row; the relationship remains unverified.
 
 An mtDNA tester listed in a Discover haplogroup report but absent from the kit's mtDNA matches may
 simply be beyond the match threshold. At the coding-region level, tested only by mtFull Sequence,
@@ -423,9 +415,7 @@ and check the interval. A count of one segment does not replace that check. With
 When the third person is a relative whose kit you manage or are authorized to open, take the
 missing pairing from that kit. In the focal kit's Chromosome Browser compare the focal kit with the
 relative and with the match; then open the relative's kit and compare the relative with the focal
-kit and with the match. An interval present in all three pairings is triangulated, as in Kessler's
-uncle-and-match comparison of segments of 6 cM or more (Behold Blog, 2022-01-10 [S47]). The focal
-browser alone cannot supply that pairing: it shows whether people match you on the same segment, not
+kit and with the match. Identify the interval shared in all three pairings. With a 6 cM display threshold, Kessler and his uncle triangulated with a match on three smaller segments; their respective 37 cM and 32 cM matches with that person did not triangulate [S47]. The focal browser alone shows whether other testers match you on a segment, not
 whether they match each other (Estes, DNAeXplained, 2019-11-06 [S48]). Record each pairing's
 coordinates with the kit it was read from. A triangulated interval still needs the segment and
 ancestor checks in `xdna-phasing-judgment.md`.
@@ -493,7 +483,7 @@ geographical categories. An upstream label or upgrade prompt does not establish 
 The [2023 comparison example](https://dna-explained.com/2023/10/11/new-discover-tool-compare-haplogroups-more-at-familytreedna/)
 motivates this input/reference crosswalk.
 
-With each supplied Y label, also record the haplotree version shown in Discover's About section, if available, and the date the label last changed. Treat a label that changed recently or is under a pending analysis as `provisional`. Recheck it after a later published tree version, including the haplogroup's variants/equivalents details. A [Big Y results discussion](https://genarchivist.net/showthread.php?tid=6) reports a dated snapshot version, publication lag and a placement that reverted within a day.
+With each supplied Y label, also record the haplotree version shown in Discover's About section, if available, and the date the label last changed. Treat a label that changed recently or is under a pending analysis as `provisional`. Recheck it after a later published tree version, including the haplogroup's variants/equivalents details. A Big Y tester reported R-FT98683 for one day before the assignment returned to R-Y103496. The discussion also distinguishes a Discover snapshot date from its publication [S16]. Preserve the previous and new labels alongside their observation dates.
 
 **Artifact:** two source-labelled inputs, the observed reference/view and displayed results,
 with unresolved labels or unavailable views. These are attributed provider outputs, not
