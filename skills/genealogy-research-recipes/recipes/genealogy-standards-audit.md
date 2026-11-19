@@ -102,7 +102,7 @@ correlated indirect evidence. A count of other sources attached to the person do
 Report that link as the research frontier and mark everyone above it as unsupported; do not
 propose searches for the topmost name. A relationship-viewer path only repeats tree entries. On
 each link, also flag biologically impossible timing; a birth after the father's death alone is
-not an impossibility. Walk the documented line back until a relationship lacks support [B15], [S18]. If a register is missing, record its coverage and the evidence still needed for that parent-child link [S19].
+not an impossibility. Walk the documented line back until a relationship lacks support [B15], [S1]. If a register is missing, record its coverage and the evidence still needed for that parent-child link [S2].
 
 ## Audit the searches behind an absence claim
 

@@ -51,7 +51,7 @@ citations and certification rubrics are not reproduced. Checked 2026-10-07.
 - Dyer and Elder, [RLP 193: Five Takeaways from the DNA Proof Arguments SLIG Course](https://familylocket.com/rlp-193-five-takeaways-from-the-dna-proof-arguments-slig-course/)
   (2022-03-21) — organize proof around reasoning and distinguish it from reporting
   the research process. Rights: cited for attribution, not reproduced.
-- James Tanner (BYU Family History Library), [Untangling a Mess on the FamilySearch Family Tree](https://www.youtube.com/watch?v=9YdOl_wgvb4), 2024-10-15. Walk-back demonstration in the saved presentation transcript read 2026-11-19. The other presentations formerly grouped here are S18 and S19.
+- James Tanner (BYU Family History Library), [Untangling a Mess on the FamilySearch Family Tree](https://www.youtube.com/watch?v=9YdOl_wgvb4), 2024-10-15. Walk-back demonstration in the saved presentation transcript read 2026-11-19. The other presentations formerly grouped here are S1 and S2.
 - GeneaVlogger, [Why Everyone is Wrong about Jewish Pirates of the Caribbean](https://www.youtube.com/watch?v=8AMDbehYYts)
   (2022-07-22). Used for: comparing a published book's quotation with the original source
   wording before accepting an identity claim. Rights: cited for attribution, not reproduced. Comparison with the cited Adler text in the presentation transcript read 2026-11-19; the earlier text was not independently inspected.
@@ -59,12 +59,12 @@ citations and certification rubrics are not reproduced. Checked 2026-10-07.
   (2023-03-08). Used for: checking event places in a tree against when the named town, county
   and state were created. Rights: cited for attribution, not reproduced.
 
-- **S18:** James Tanner, BYU Family History Library, [Evaluating the Accuracy of Entries in the FamilySearch Family Tree](https://www.youtube.com/watch?v=-mmKGzEd7PE). Pedigree review in the presentation transcript read 2026-11-19.
+- **S1:** James Tanner, BYU Family History Library, [Evaluating the Accuracy of Entries in the FamilySearch Family Tree](https://www.youtube.com/watch?v=-mmKGzEd7PE). Pedigree review in the presentation transcript read 2026-11-19.
 
-- **S19:** James Tanner, BYU Family History Library, [Brickwall vs. End-of-Line, Which is it?](https://www.youtube.com/watch?v=i5nCiwPqqCQ). Discussion of surviving records in the presentation transcript read 2026-11-19.
+- **S2:** James Tanner, BYU Family History Library, [Brickwall vs. End-of-Line, Which is it?](https://www.youtube.com/watch?v=i5nCiwPqqCQ). Discussion of surviving records in the presentation transcript read 2026-11-19.
 
 ## Credits
 
-- James Tanner, BYU Family History Library (S19) — Teaching example paraphrased with attribution (adapted)
-- James Tanner, BYU Family History Library (S18) — Teaching example paraphrased with attribution (adapted)
+- James Tanner, BYU Family History Library (S2) — Teaching example paraphrased with attribution (adapted)
+- James Tanner, BYU Family History Library (S1) — Teaching example paraphrased with attribution (adapted)
 - Kinprove — original genealogy standards audit synthesis — FSL-1.1-MIT (kinprove-original)
