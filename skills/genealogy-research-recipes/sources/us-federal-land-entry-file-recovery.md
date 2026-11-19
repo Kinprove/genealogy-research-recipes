@@ -80,7 +80,7 @@ This recipe's own contribution is the routing row, the party-role table, the two
 
 ## Credits
 
-- United States Statutes at Large, S46 — 1852 assignment provision paraphrased (public-domain)
+- United States Statutes at Large, S46 — Public-domain 1852 assignment provision paraphrased (adapted)
 - BYU Family History Library, Nicky Smith, United States Bureau of Land Management Tract Books, video published 2019-07-01 — Standard YouTube license, all rights reserved by the rights holder; brief quotation used for commentary and attribution (quoted)
 - Kinprove original procedural synthesis; presenter examples and record-series distinctions are cited as S1 through S14; NARA request fields, file periods and Kansas City index coverage are paraphrased from NARA public pages; the public-land-state check is paraphrased from S15 to S17 — FSL-1.1-MIT (kinprove-original)
 - Family Locket, Diana Elder, 5 Tips for Research When the Courthouse Burned, 2024-05-27, and Michelle Mickelson, Southwestern United States Research Part 4, 2024-02-17, cited as S18 and S20 — Third-party content, all rights reserved by the rights holders; short adapted paraphrase with attribution (adapted)
