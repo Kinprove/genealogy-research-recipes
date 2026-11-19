@@ -67,40 +67,13 @@ group and repository [N9](https://www.archives.gov/files/publications/general-in
 This step draws on Craig R. Scott's note-taking advice from the available excerpt
 [N7](https://www.youtube.com/watch?v=pvr1z7Mchxw).
 
-A cropped image or transcription of one register entry often loses the page header, so it may
-carry no year or place. While the full page is still open, record those values from the page
-header or margin next to the crop's locators. A
-[metrical-book screenshot collection discussion](https://forum.j-roots.info/viewtopic.php?f=181&t=4753)
-motivates this step. A
-[church-book transcription anecdote](https://forum.ahnenforschung.net/forum/thread/928/)
-shows the same loss when the date stands only in a heading or margin. Neither source supplies the
-crop's archival signature, which still needs its own locator.
+When saving a register crop, record the year and place from the full page alongside the file, folio and side. In one transcription the researcher copied every word of the entry but missed the date in the heading or margin. A headerless crop can leave the same gap [B2], [B3].
 
-An archive can renumber an inventory, so file numbers in older extracts may no longer match its
-current numbering. Record the file number as you found it, and mark whether it follows the old or
-the current numbering. A
-[parish-register extract discussion](https://rodgersforum.borda.ru/?1-29-0-00001515-000-0-0-1777199479=)
-motivates this step: the poster notes that the numbers in his old extracts predate the renumbering
-and labels one file number as new. It does not give a concordance or say when the renumbering
-happened.
+Copy an archival file number as cited and identify the numbering system. In one set of parish extracts the compiler says inventory 3 was renumbered and marks file 964 as new [B4]. No concordance accompanies the post. Ask the archive to match an older reference before ordering it.
 
-An entry number alone may not identify one entry when a register section runs more than one
-numbering sequence. Cite the entry by file, leaf and side, section, sequence (in this example,
-apparently one for males and one for females), number and date as written. A
-[metrical-book transcription](https://rodgersforum.borda.ru/?1-7-0-00001326-000-0-0-1780129313=)
-motivates this step. In one year's deaths section, two sequences interleave, so the same numbers
-appear twice. The transcription does not explain the page layout. It does not show that every
-parish or year numbered entries this way, so check the image before choosing the sequence.
+Cite a register entry by file, leaf and side, section, sequence, number and date as written. On leaf 36 of one 1818 deaths transcription, 1 January and 2 January both carry entry no. 1 [B5]. Inspect the register image to identify the columns before assigning a sequence to either entry.
 
-When a printed local history cites archive files for a passage, cite the book and page as the
-source you actually read. Record the author's fond, inventory, file and folio citation in its own
-field as a lead to the original. Do not record it as an inspected source. Keep any hedge as given:
-if a citation is marked only as a possible source, record it that way, and note whether the book
-or the person excerpting it supplied the citation. A
-[local-history excerpt thread](https://rodgersforum.borda.ru/?1-7-0-00000258-000-0-0-1776484154=)
-shows both kinds of citation as posted by a forum member; it does not show which of them the book
-prints itself. It does not establish that the cited files exist under those numbers today or that
-they contain the paraphrased content.
+Cite a printed local history by book and page, then copy its archival references into a separate field for follow-up. In a posted extract about the 1843 Shadrinsk district unrest, the contributor labels the accompanying source as possible [B6]. Preserve that qualification and check the printed page for who supplied the reference before requesting the file.
 
 Before you record a URL, test whether it reopens the specific entry in a new session. Some
 search-result URLs expire, and some only reopen the search form. If so, save a capture of the
@@ -115,10 +88,7 @@ If a cited web URL no longer resolves, recover a dated capture with the
 Cite the capture you inspected, retaining the original URL, archived-capture URL and timestamp,
 and your access date separately; its timestamp is not the record's creation date.
 
-The [historical lookup example](https://www.youtube.com/watch?v=OHDYkHli39k) motivates this
-fallback. [Internet Archive's capture-data documentation](https://archive.org/help/wayback_api.php)
-(updated 2013-09-24; text checked 2026-10-21) describes snapshot links and timestamps;
-the citation and gap controls are Kinprove synthesis.
+For a broken link copied from a book or article, try the exact URL in the Wayback Machine [B9]. Internet Archive’s published API example distinguishes the archived URL from its capture timestamp [B10]. Record both with the original URL and your access date.
 
 When a volume has no printed page number, describe the entry by its actual internal structure, such as the year section, entry number and named event. Add the provider's image number with the provider and the route to that volume, rather than treating an image counter as a page printed in the source. Retain enough of the volume identification and entry context to locate it through another copy if the viewer's numbering changes [N1](https://genealogytipoftheday.com/index.php/2025/04/10/no-page-number/), [N2](https://www.evidenceexplained.com/node/1391).
 
