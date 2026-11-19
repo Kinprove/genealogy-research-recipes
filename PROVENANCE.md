@@ -807,7 +807,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [myheritage-profile-hint-extraction](provenance/myheritage-profile-hint-extraction.yml) | 0 | 0 | 0 | — |
 | [nazi-era-ancestry-proof-records](provenance/nazi-era-ancestry-proof-records.yml) | 40 | 8 | 0 | — |
 | [new-york-city-vital-certificate-extraction](provenance/new-york-city-vital-certificate-extraction.yml) | 0 | 0 | 0 | — |
-| [newspapers-com-search-recovery](provenance/newspapers-com-search-recovery.yml) | 50 | 24 | 13 | — |
+| [newspapers-com-search-recovery](provenance/newspapers-com-search-recovery.yml) | 24 | 16 | 9 | — |
 | [old-believer-sectarian-record-recovery](provenance/old-believer-sectarian-record-recovery.yml) | 3 | 10 | 0 | — |
 | [old-german-handwriting-comparison](provenance/old-german-handwriting-comparison.yml) | 0 | 0 | 0 | — |
 | [olympic-participation-records](provenance/olympic-participation-records.yml) | 0 | 0 | 0 | — |
