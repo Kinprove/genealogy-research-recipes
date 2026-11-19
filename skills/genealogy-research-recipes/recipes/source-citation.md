@@ -69,11 +69,11 @@ This step draws on Craig R. Scott's note-taking advice from the available excerp
 
 When saving a register crop, record the year and place from the full page alongside the file, folio and side. In one transcription the researcher copied every word of the entry but missed the date in the heading or margin. A headerless crop can leave the same gap [B2], [B3].
 
-Copy an archival file number as cited and identify the numbering system. In one set of parish extracts the compiler says inventory 3 was renumbered and marks file 964 as new [B4]. No concordance accompanies the post. Ask the archive to match an older reference before ordering it.
+Copy an archival file number as cited and identify the numbering system. In one set of parish extracts the compiler says inventory 3 was renumbered and marks file 964 as new [B4]. No concordance accompanies the post. Check the dated catalogue or concordance for a matching record description before adopting a replacement number.
 
 Cite a register entry by file, leaf and side, section, sequence, number and date as written. On leaf 36 of one 1818 deaths transcription, 1 January and 2 January both carry entry no. 1 [B5]. Inspect the register image to identify the columns before assigning a sequence to either entry.
 
-Cite a printed local history by book and page, then copy its archival references into a separate field for follow-up. In a posted extract about the 1843 Shadrinsk district unrest, the contributor labels the accompanying source as possible [B6]. Preserve that qualification and check the printed page for who supplied the reference before requesting the file.
+Cite a printed local history by book and page, then copy its archival references into a separate field for follow-up. In a posted extract about the 1843 Shadrinsk district unrest, the contributor labels the accompanying source as possible [B6]. Preserve that qualification and check the printed page for who supplied the reference before recording the file as a lead.
 
 Before you record a URL, test whether it reopens the specific entry in a new session. Some
 search-result URLs expire, and some only reopen the search form. If so, save a capture of the
