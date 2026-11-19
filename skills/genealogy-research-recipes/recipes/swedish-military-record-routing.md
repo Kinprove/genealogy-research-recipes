@@ -110,7 +110,7 @@ Record the index, the fields you searched and its coverage in the routing row. A
 - **Army pension fund (Arméns pensionskassa), 1757-1937.** Officers, NCOs and civilian military staff paid into it [S18]. Before 1757 their pensions came from the Vadstena krigsmanshuskassa, which from then on served only privates and corporals [S18].
   - Officers and NCOs sent merit records (*meritförteckningar*: appointments, promotions, detachments, training) to the fund throughout their service. They are bound as *meritband* in series EV [S18].
   - Read the first submission for an age certificate or parents’ names and the last for the career up to that date [S18]. A pastor’s certificate accompanying a 1771 submission identifies the member’s birth in Saxony in 1714. Use the certificate’s locality to find the corresponding parish entry [S7].
-  - The person registers to the *meritband* cover 1757–1895 [S18]. ArkivDigital’s October 2024 catalogue lists merit books for 1757–1883 [S17]. Use the fund’s person register when the date falls outside that published range.
+  - ArkivDigital’s October 2024 catalogue lists merit books for 1757–1883 [S17]. For 1884–1895, use the fund’s person register, which covers 1757–1895. For 1896–1937, consult the finding aid for Arméns pensionskassa at Krigsarkivet and check the surviving series EV volumes by date [S18].
   - Pension decisions: series C III (1757-1783) and D (1784-1914). Pension applications: series E II, with a person register for each year [S18].
 - **Other merit series.** Krigsarkivet also has a collection of army officers' merit records [S19], and regiments kept their own series [S1], [S3]. Navy officers' merit lists are a separate series [S17].
 - **Printed and inspection sources.**
