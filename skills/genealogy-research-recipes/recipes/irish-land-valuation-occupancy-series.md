@@ -45,8 +45,8 @@ Before comparing tithe and Griffith’s holdings, copy each volume’s acreage u
 
 ## Open every same-name entry as a candidate row
 
-1. Treat Griffith's as a tax list, not a census substitute that lists people [S3]. Each entry describes a holding and its valuation, not a household. Griffith's is free to search online at Ask About Ireland (askaboutireland.ie) [S1, S2].
-2. Search the surname across the candidate county, and allow for spelling variation. Open the detail for **every** entry with the target given name. Do not stop at the first one that seems plausible. In [S1], one surname in one county gave several entries for the same given name, and they differed sharply. One was a house only, rated at a few shillings, under one lessor. Another was a house and land of about 15 acres under a different lessor. Another occupier with the same surname was rated far higher.
+1. Begin with the county’s Griffith’s Valuation surname search. The Ask About Ireland demonstration shows a route from an index result to the individual entry [S1], [S2]. Each entry describes a holding and its valuation. One occupier can appear on several lots [S3].
+2. Open every hit for the target name, including spelling variants. In the Limerick search for James Scully, the speaker read a house valued at 11 shillings under Thomas Noonan and a house with 15 acres, 3 roods and 29 perches under Thomas O’Grady [S1]. Record those values in separate rows. They are valuations rather than amounts of rent paid.
 3. Make one row per entry. Record these fields separately:
    - townland
    - lot number, copied literally (for example a lot with a letter suffix)
@@ -57,8 +57,8 @@ Before comparing tithe and Griffith’s holdings, copy each volume’s acreage u
    - rateable value
    - series, and the date printed on the volume you consulted
    Do not identify the family at this stage.
-4. Do not rank or eliminate rows on the strength of family lore about wealth or land. In [S1] the presenter tested a "wealthy family" story against holding size and value and then named a "most likely candidate". Here, that kind of ranking is only a working note attached to the rows. It is not an identification. A small holding does not rule out a person, and a large one does not confirm the lore.
-5. Note lessor and sub-lease relationships between occupiers who share a surname. [S1] shows one occupier leasing from another with the same name, marked junior and senior. Record the "Jr"/"Sr" literally and add no relationship.
+4. Put family recollections in a separate note. A story about wealth led the Limerick search toward the larger Scully holding [S1]. Retain the smaller holdings and test each candidate against a parish, marriage or migration record that connects the person to the townland.
+5. Copy the occupier and immediate lessor into separate fields. In the same demonstration the speaker read one John Scully as junior and presumed the other was senior [S1]. Mark a qualifier as transcribed only if it appears on the page. A sublease between same-named men supplies a lead to their dealings, not a parent-child relationship.
 
 ## Keep distinguishers literal and allow for several lots
 
@@ -80,7 +80,9 @@ Before comparing tithe and Griffith’s holdings, copy each volume’s acreage u
 
 ## Follow the same lot through the revision books
 
-1. Once you have a Griffith's holding, follow **that lot** forward in the manuscript valuation revision ("cancelled") books. Valuers revisited the books, crossed out the occupier, wrote in the new one and dated the change [S3]. The books are manuscript only and were never printed, and Republic holdings can be followed in them into the 1970s [S3]. For the six counties of Northern Ireland they are held by PRONI. PRONI's books for 1864–1933 (VAL/12/B) are digitised and can be browsed on PRONI's site by place name, by county and parish, or by PRONI reference [S5]. A name index of about 3.2 million names from them is on Ancestry as "Northern Ireland, Valuation Revision Books, 1864-1933", free with a registered guest account [S6]. Follow the lot through these online before planning a visit. For the Republic, the original books are in the Tailte Éireann Valuation archive in Dublin (the former Valuation Office merged into Tailte Éireann in 2023) and can be seen only in its office [S7]. Access is by pre-booked appointment only; digitised records are viewed on customer terminals in the office, and books not yet digitised are produced as physical volumes (Tailte Éireann).
+1. Follow the lot forward from Griffith’s through the manuscript revision books. Match its number, area and any subdivision before comparing the names. A valuer could cross out an occupier and date the replacement [S3]. The 2023 launch of the Ancestry index to Northern Ireland’s 1864–1933 revisions reported around 3.2 million indexed names and guest-account access at launch [S6].
+For Northern Ireland, PRONI provides place searches and images of the 1864–1933 books, series VAL/12/B [S5 @2026-11-19]. For the Republic, Tailte Éireann holds the original post-primary revisions and maps. Its archive describes on-site terminals for the digitised books and a staff research service for people unable to visit [S7 @2026-11-19]. Confirm appointment and production arrangements before travelling.
+
 2. For each change, record:
    - book and page
    - lot
@@ -88,17 +90,17 @@ Before comparing tithe and Griffith’s holdings, copy each volume’s acreage u
    - the replacement name, copied literally
    - the date written beside the change
    - the colour or ink of the entry, if visible
-3. Treat each change as a dated observation that the occupier changed. Do not record it as an inheritance. A change can be a correction of a misread name. In the example in [S3], a family's surname in Griffith's was crossed out and replaced with a different surname in a revision dated 1883. The presenter took this to be a father-to-son transfer that also revealed the earlier misreading. On the page itself, that is two hypotheses: a correction and a transfer.
-4. Later changes on the same lot, including passing to a different surname, need outside evidence for any relationship. In [S3], the presenter knew from other sources that a later occupier was the brother-in-law of the previous occupier. The revision book did not show it.
-5. To tie a 1901 or 1911 census household to a followed lot, work by place, not by name. The census returns are arranged by townland, or by street in towns, within each district electoral division (DED), and the National Archives of Ireland search can be browsed from county to DED to townland or street [S8], [S9]. Match the townland to the revision-book townland, then record any link between a household and a lot as a hypothesis.
+3. Separate a change in what the valuer wrote from a change in tenancy. In Aghnabohy, civil parish of Piercetown, County Westmeath, Donna Moughty traced a Griffith’s entry for Bernard Murtagh to a revision she dated to 1883 in the interview. Her own article identifies the replacement surname as Moughty and reports church entries under that spelling [S3], [S19]. Transcribe both names from the revision image. Test the spelling correction and the proposed succession between two Bernards separately.
+4. A new surname can lead to a marriage search. Moughty followed the lot through a John in the 1950s and a later occupier after John’s reported death in 1966. She attributed the later occupier’s link through John’s sister to evidence outside the valuation [S3]. Retrieve that marriage and check a death or probate record before recording the brother-in-law relationship.
+5. Compare the townland or street in the 1901 or 1911 return with the lot’s townland. Record the county and district electoral division as well [S8], [S9]. Treat a household-to-lot link as provisional until independent details agree.
 
 6. Read a dated "Widow [surname]" entry as reported widowhood by that date [S18]. It does not name the husband. Identify him from other records before assigning the report to the earlier occupier. His last established record alive supplies the lower bound for a proposed death window; the same-surname succession alone supplies neither his identity nor that bound.
 
 ## Separate lease-era and sale-year layers in estate-court rentals
 
-1. An estate-court rental lists tenants at the time of the sale, with lease details. The presenter in [S4] says the court began in 1848. That is wrong: the Encumbered Estates Court was set up under an Act of 1849, and the Landed Estates Court succeeded it in 1858. Record which court issued the rental, and take the rental's sale or statement date from the rental itself, never from a court start year. Record that date separately from each tenant's lease date. Search the rentals by name in Findmypast's *Landed Estates Court Rentals 1850-1885*, where each record has a transcript and an image of the original [S13].
-2. Record the lease date and every named life or occupant, with the relationship wording copied literally ("his brother", "son of the said..."). Record this as an observation dated to the lease, not to the sale year. In the [S4] example, the lease is dated 1 May 1800 and names a man, his brother and a son, across at least two generations.
-3. Read "only surviving" (or similar wording) as a window. The other named lives died at some point between the lease date and the date of the rental's statement [S4]. Record the death as "after [lease date], before [rental date]". Never assign a year inside that window. The presenter in [S4] closed the window at 1848, her stated court start year; use the date on the rental instead.
+1. Identify the issuing court on the rental. The 1849 Act authorised Commissioners for the Sale of Incumbered Estates [S20]. The 1858 Act created the permanent Landed Estates Court [S21]. Retrieve the rental image by estate or tenant name, then copy the statement date and proposed sale date separately. Findmypast’s archived *Landed Estates Court Rentals 1850-1885* description identifies transcripts and images [S13].
+2. Give each life in the lease a separate row. In the lease Lisson reads, dated 1 May 1800, William Kearney’s brother Joseph and William’s son Joseph are two named lives [S4]. Record each relationship to William and check the spelling, lease and lot on the rental image before identifying either Joseph elsewhere.
+3. Lisson reads William as the sole survivor [S4]. For each other life established as alive on 1 May 1800, the observation brackets death between the lease and the rental’s dated survival statement. When that statement’s date is missing, leave the upper bound unresolved. Neither the year the court opened nor an assumed sale year can supply it.
 
 ## Cross-check residence with dog licences
 
