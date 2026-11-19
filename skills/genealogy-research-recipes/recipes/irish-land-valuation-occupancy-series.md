@@ -80,8 +80,11 @@ Before comparing tithe and Griffith’s holdings, copy each volume’s acreage u
 
 ## Follow the same lot through the revision books
 
+For Northern Ireland, PRONI provides place searches and images of the 1864–1933 books in series VAL/12/B [S5 @2026-11-19].
+
+In the Republic, Tailte Éireann holds the original post-primary revisions and maps. Its archive describes on-site terminals for the digitised books and a staff research service for people unable to visit. Confirm appointment and production arrangements before travelling [S7 @2026-11-19].
+
 1. Follow the lot forward from Griffith’s through the manuscript revision books. Match its number, area and any subdivision before comparing the names. A valuer could cross out an occupier and date the replacement [S3]. The 2023 launch of the Ancestry index to Northern Ireland’s 1864–1933 revisions reported around 3.2 million indexed names and guest-account access at launch [S6].
-For Northern Ireland, PRONI provides place searches and images of the 1864–1933 books, series VAL/12/B [S5 @2026-11-19]. For the Republic, Tailte Éireann holds the original post-primary revisions and maps. Its archive describes on-site terminals for the digitised books and a staff research service for people unable to visit [S7 @2026-11-19]. Confirm appointment and production arrangements before travelling.
 
 2. For each change, record:
    - book and page
