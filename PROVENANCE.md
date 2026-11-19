@@ -883,7 +883,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [us-20th-century-military-service-reconstruction](provenance/us-20th-century-military-service-reconstruction.yml) | 18 | 27 | 8 | — |
 | [us-army-civil-war-court-martial-files](provenance/us-army-civil-war-court-martial-files.yml) | 0 | 0 | 0 | — |
 | [us-census-practical-workflows](provenance/us-census-practical-workflows.yml) | 44 | 17 | 6 | — |
-| [us-church-record-custody](provenance/us-church-record-custody.yml) | 29 | 12 | 3 | — |
+| [us-church-record-custody](provenance/us-church-record-custody.yml) | 13 | 8 | 3 | — |
 | [us-civil-war-service-record-episodes](provenance/us-civil-war-service-record-episodes.yml) | 24 | 5 | 0 | — |
 | [us-federal-court-case-file-recovery](provenance/us-federal-court-case-file-recovery.yml) | 8 | 19 | 2 | — |
 | [us-federal-land-entry-file-recovery](provenance/us-federal-land-entry-file-recovery.yml) | 17 | 23 | 3 | — |
