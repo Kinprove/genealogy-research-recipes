@@ -69,8 +69,10 @@ do not upload. Apply the consent rules in
 For an upload request, make the gate explicit in the first reply: ask whether the file
 is the user's own test or someone else's, distinguish permission to access or analyze
 it from permission to transfer it, and ask about permission for GEDmatch and the chosen
-visibility and law-enforcement matching options. Identify those controls as items to
-inspect on the current form; do not claim to have checked them from a tutorial. Until
+visibility and law-enforcement matching options. Before drafting that reply, read the linked
+**Verification & privacy discipline** section for its rules on consent and de-identification.
+Identify those controls as items to inspect on the current form; do not claim to have
+checked them from a tutorial. Until
 the answers establish informed permission, stop at these questions and a plan to inspect
 the controls before giving executable upload steps.
 
