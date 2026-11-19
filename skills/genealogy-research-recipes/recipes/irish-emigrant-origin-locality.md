@@ -49,20 +49,14 @@ limited to the family's later church. Each step below blocks one of these errors
 
 - Collect all destination-side statements first: vital, church, immigration, naturalization,
   obituary, newspaper and land records, plus each family-tradition version. Include siblings who
-  emigrated. One presenter's case was solved by a brother's later census, which named the place
-  where the ancestor's own records said only "Ireland". Do not stop at the first specific place.
-  Donna Moughty, the Genealogy Gems guest, says the townland, if it was recorded at all, will most
-  likely appear in a destination record [S2], [S4].
+  emigrated. A brother’s last census named the locality where the emigrant’s records gave only “Ireland” [S3], [S4]. Record its date and wording and compare the other family statements [S2].
 - Classify each statement by every unit it could name: townland, civil parish, Catholic parish,
   barony, county, diocese, poor-law union/registration district, city, departure port or nearby
   well-known town. One word can name several units. Armagh is a city, civil parish, barony, county,
   archdiocese and poor-law union; Derry/Londonderry is both a city and a county [S3], [S4].
 - A named place may be the departure port or the nearest town a stranger would recognize. The
   guests warn that a family convinced of Cork may be naming only the departure point, and that
-  "Belfast" may be given for a small place nearby [S3], [S4]. In the Genealogy Gems case, tradition said
-  Mullingar. The birth record named a small place about ten miles away, in a different civil and
-  ecclesiastical jurisdiction and registration district. The presenter warns that a common-name
-  search in Mullingar would have found the wrong man [S2].
+  “Belfast” may stand for a smaller place nearby [S3], [S4]. One birth record placed the family about ten miles from the remembered Mullingar, across civil, ecclesiastical and registration boundaries [S2]. Search the jurisdiction for the recorded locality before accepting a common-name match.
 - Different records may name the religious parish, the registration district or the townland.
   Keep conflicting statements side by side as possibly different levels. Do not choose a winner
   at this stage [S2], [S3], [S4].
@@ -70,15 +64,9 @@ limited to the family's later church. Each step below blocks one of these errors
 ## 2. Generate same-named and mis-transcribed candidates
 
 - Do not assume the famous place. Ireland has more than 60,000 townlands, and many names repeat
-  because they are descriptive (Derry from *doire*, "oakwood"; Bally-, Tully-, Drum-). The guests'
-  example is a family from a small Newcastle townland on the Ards Peninsula (Slanes civil parish),
-  not the Co. Down seaside resort near the Mournes [S3], [S4].
-- Test one-letter transcription errors by clerks or indexers. The guests' example is Portstewart
-  (Co. Londonderry) versus Fort Stewart (Co. Donegal, near Ramelton). Also allow for older
-  spellings when the emigration was early [S3], [S4].
-- Normalize variant spellings in a townland index or gazetteer. Enter the name segment that the
-  variants share plus the county, and take the standard form it returns. Johnson shows this with
-  two priest spellings of one Kilkenny townland [S1]. Use PlaceNamesNI for the six counties of
+  because they are descriptive (Derry from *doire*, “oakwood”; Bally-, Tully-, Drum-). In County Down, the Newcastle in one family’s account was a townland in Slanes civil parish on the Ards Peninsula, distinct from the seaside town near the Mournes [S3], [S4].
+- Test one-letter transcription errors and older spellings. Confusing Portstewart (Co. Londonderry) with Fort Stewart (Co. Donegal, near Ramelton) sends the search to a different county [S3], [S4].
+- Keep each priest’s spelling. Where two forms share a stem, as in one Kilkenny townland search, query the stem with the county and compare the candidate names in the gazetteer [S1]. Use PlaceNamesNI for the six counties of
   Northern Ireland, Logainm (the Placenames Database of Ireland) for the Republic, and the historic
   map viewers of PRONI and of Tailte Éireann (formerly Ordnance Survey Ireland) [S3], [S4].
   Keep the recorded spellings beside the standard form.
@@ -92,25 +80,26 @@ limited to the family's later church. Each step below blocks one of these errors
   and the 1901/1911 censuses, even if the person left earlier. Siblings, cousins and their
   descendants who stayed are what these later records capture. Use the clusters to choose
   candidate parishes for church-record searches; one presenter does this even for 1700s emigrants
-  [S3], [S4], [S13]. Flag a candidate area where the surname does not occur and lower its priority;
+  [S3], [S4]. Flag a candidate area where the surname does not occur and lower its priority;
   absence from a name list ranks an area down but does not exclude it. Houser describes the same
   approach, using surname-distribution views from the 1850s and 1901. It works best for a
   relatively uncommon surname [S7], [S8].
+
 - Check which census years survive before you log a year as searched. The 1821–1851 returns were
   mostly destroyed in the 1922 Public Record Office fire at the Four Courts, leaving only fragments.
   The 1861 and 1871 returns were destroyed by government order shortly after collection, and 1881
   and 1891 were pulped during the First World War. 1901 and 1911 are the only complete returns
-  from before independence [S14]. For 1841 and 1851, use the census search forms: searches of those
-  returns made for people proving their age for an old-age pension under the 1908 Act. The National
+  from before independence [S14].
+
+- For 1841 and 1851, use the census search forms: searches of those returns for people proving their age for an old-age pension under the 1908 Act. The National
   Archives of Ireland has withdrawn their online catalogue; use its Reading Room microfilm,
-  FamilySearch or Findmypast, and PRONI for Ulster counties [S15]. The 1926 census covers only the
+  FamilySearch or Findmypast, and PRONI for Ulster counties [S15 @2026-11-19]. The 1926 census covers only the
   26 counties of the Free State, not Northern Ireland, and has been free online at the National
-  Archives of Ireland since 18 April 2026 [S16]. Report a missing year as a survival gap, not as a
+  Archives of Ireland since 18 April 2026 [S16 @2026-11-19], [S32 @2026-11-19]. Report a missing year as a survival gap, not as a
   failed search.
+
 - Use the 1901/1911 religious profile of the surname (both censuses record each person's religion)
-  to decide which denominations' registers to search. Allow for conversion after emigration. In the
-  guests' example, a family that was Catholic in Australia carried a surname that was entirely
-  Protestant in the Irish census, and the grandfather proved to have converted [S3], [S4].
+  to decide which denominations’ registers to search. In one Australian Catholic family the grandfather’s conversion in Australia explained why a search restricted to Catholic registers in Ireland would have missed his earlier affiliation [S3], [S4].
 - Limit: distribution and denomination tests rank where to search. They do not identify the
   family, and a cluster of a common surname shows very little.
 
