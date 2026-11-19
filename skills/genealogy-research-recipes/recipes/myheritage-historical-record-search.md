@@ -159,10 +159,7 @@ Check neighboring towns, historical spellings and jurisdictions created by borde
 Search the countries under which the locality's records might be cataloged, then inspect the
 collection description. A modern national filter can conceal records organized another way. [S1, S5]
 
-The German-records tutorial uses a US census entry for someone born in Germany to explain why
-a Germany place filter need not identify a German source: event geography does not establish
-source custody. Likewise, an American who served with Canadian forces may appear
-in Canadian military records. Read the originating collection and recorded role separately. [S8, S9]
+A Germany birthplace can appear in a U.S. census return [S8]. Follow the collection title and its creator to identify the source. Conversely, U.S. nationals who served with Canadian forces may appear in Canadian military records [S9]. Record the person’s role and the jurisdiction responsible for the record separately.
 
 ### 8. Find the target through a better-documented relative
 
