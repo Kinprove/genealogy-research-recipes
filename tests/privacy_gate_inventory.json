@@ -2420,7 +2420,7 @@
  {
   "recipe": "xdna-phasing-judgment.md",
   "kind": "third-party-tool",
-  "action": "GEDmatch's \"Match Both or 1 of 2\" tool surfaces this directly.",
+  "action": "Use GEDmatch’s “Match Both or 1 of 2” comparison to identify close matches",
   "checkpoint": "Running both testers' kits through a GEDmatch comparison exposes two living people's DNA and their living matches"
  },
  {
