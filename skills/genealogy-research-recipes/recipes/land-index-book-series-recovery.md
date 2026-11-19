@@ -51,7 +51,7 @@ before B existed. Search the appropriate parent-county series for that period an
 those books are held today. Keep later recording dates in mind too; a modern county-only search
 does not cover the tract's earlier records. [S35]
 
-Boundaries also moved between counties formed long before. When a family's deeds stop in one county although nothing shows that they sold out or moved, check for a later boundary adjustment that put their land in the neighbouring county, and search that county's indexes from the date of the change [S57]. Genealogy Tip of the Day reports a Kentucky adjustment, made well after both counties were formed, that moved several square miles and an ancestor's farm with them [S57]. Take the dates from a county-boundary chronology such as the *Atlas of Historical County Boundaries*, which outlines each county's boundary from its creation to its most recent change [S58].
+If deeds stop in a county while the family still appears on its farm, check for boundary changes even when both counties had existed for years. In one Kentucky account a boundary adjustment moved the farm into the neighbouring county [S57]. Locate the parcel on the dated boundaries in the *Atlas of Historical County Boundaries* and search the receiving county’s indexes from the effective date [S58].
 
 Do not assume a county's older land books are still at the courthouse. Some states take in older local records that a county can no longer keep [S59 @2026-11-14]. In Texas, the State Library and Archives Commission houses such permanent local government records, deeds among them, in regional depositories; a transfer is voluntary, and once records are transferred the state holds title to them [S60 @2026-11-14]. Before reporting a county series lost, look up that state's transfer program and search the state archives' holdings of local records [S59 @2026-11-14], [S60 @2026-11-14].
 
@@ -71,30 +71,15 @@ lists its "Mining and Land Claims 1852-1931, and Indexes 1850-1892" with images 
 land records [S47 @2026-11-12], and the Calaveras Heritage Council describes the county archives in
 San Andreas as holding mining claims with deeds and other county records [S48 @2026-11-12].
 
-If the grant is filed under a historical land district, preserve that district/code separately
-from the parcel's county. Use the period district map and stated property description to resolve
-the county before selecting local indexes; leave an unsupported mapping unresolved. A familiar
-district name does not establish the same-named modern county or the person's residence.
-The [district/parcel example](https://familylocket.com/rlp-196-texas-land-grants-republic-and-statehood/)
-motivates this field-role check without resolving legal boundaries.
+Record the historical land district or code separately from the parcel’s county. In Texas, a grant filed under the Robertson land district could concern land in another county [S19]. Use the period district map and the parcel description to choose the county indexes. Leave an uncertain county unresolved.
 
-When a patent states the grantee is “of” another place, preserve that exact residence
-statement and date separately from the parcel description and county. Use each place role
-as a bounded follow-up lead, retaining namesake alternatives and the actual search outcome.
-The [female-parentage research example](https://familylocket.com/rlp-230-finding-a-females-father-research-log-and-report/)
-motivates this handoff without independently establishing the stated residence or identity.
+Transcribe a patent’s dated “of [place]” statement separately from the parcel’s location. Search local records in the stated place for the grantee, keeping same-name candidates open until an independent record identifies the person [S20].
 
 Use the existing platform workflow to open an image-only index and distinguish printed page
 numbers from viewer image numbers. This recipe adds land-index, book-series and entry-file controls.
 It does not infer kinship, explain property law, draw plats or build a chain of title.
 
-For an original-government grant lead, carry separately supplied warrant, survey and patent
-book/page references into linked retrieval rows; seek any separately described application.
-Preserve applicant/warrantee, assignee and final patentee, each action's date and stage-specific
-acreage. Reconcile the retrieved components against the register before following later private
-conveyances, leaving missing parts and conflicting dates or acreage unresolved. The
-[Pennsylvania acquisition example](https://familylocket.com/part-4-pennsylvania-germans-the-land-acquisition-process-in-colonial-pennsylvania/)
-motivates the crosswalk; it does not establish a universal grant procedure or legal title.
+For an original-government grant, link the warrant, survey and patent by their own book and page references and seek any separately described application. Record the warrantee, assignee and patentee, the date of each action and the acreage at each stage. In a Pennsylvania register, the surveyed acreage differed from the quantity warranted [S21]. Resolve the parcel through the underlying records before tracing private conveyances.
 
 Do not assume the warrant, survey and patent were completed before private sales began. A
 warranted or surveyed tract may pass through county deeds before a later patent, so the patentee
@@ -104,24 +89,14 @@ motivates this order check. [S7]
 
 For a Pennsylvania original grant, search the State Archives' Land Office indexes stage by stage [S61 @2026-11-14]. The Warrant Registers (1733 to about 1957) are the basic index to warrants, surveys and patents for about 70% of the state's land. Each register covers a county as it was at the date of the warrant, so land now in a younger county is in the parent county's register, and entries run by the first letter of the warrantee's surname, then roughly by warrant date [S62 @2026-11-14]. The registers give the patentee but cannot be searched by that name; for the patentee, use the Patent Indexes (1684 to about 1957), arranged by the patentee's surname, which also give the warrantee, warrant date, patent book and page, acreage and county [S62 @2026-11-14], [S63 @2026-11-14]. Before 1733, use the Old Rights registers and the Proprietary Rights Index [S62 @2026-11-14]. Keep the stages apart: an application requests a warrant; a warrant authorizes a survey and starts title but does not convey all rights; the return of survey goes from the Surveyor General to the Secretary of the Land Office; only the patent conveys clear title [S61 @2026-11-14], [S64 @2026-11-14]. The State Archives holds only the surveys made for patenting; deeds and later surveys are with the county Recorder of Deeds [S61 @2026-11-14].
 
-When a supported warrant/survey or assignment lead remains unexplained by a deed search,
-follow the applicable grant/patent index to the described original survey and jacket. Inspect
-available assignment endorsements; retain assignor, assignee, requested grantee and dates as
-separate stages with their own locators. The [Dobkins survey example](https://dna-explained.com/2022/10/16/tracking-john-dobkins-or-dobbins-to-maryland-52-ancestors-378/)
-identifies this next target without assuming assignments were universally unrecorded or
-establishing residence, ownership, kinship or a complete chain of title.
+If a deed search leaves a warrant, survey or assignment unexplained, use the grant index to retrieve the original survey and any jacket. Inspect the endorsements for the assignor, assignee, requested grantee and dates. Record each change with its own locator before connecting it to a later patent [S22].
 
-When a tax row explicitly supplies the original grantee or abstract number, carry that exact
-parcel reference into the government-grant search while keeping the assessed taxpayer's role
-separate. Queue later local conveyances separately; first tax appearance does not date
-acquisition or arrival. The [Mexican Texas research example](https://familylocket.com/rlp-195-texas-land-grants-mexican-era/)
-supplies this tax-to-grant handoff.
+When a tax row supplies an original grantee or abstract number, copy it into the grant search. Record the taxpayer separately and queue later local conveyances. The first tax appearance alone cannot date acquisition or arrival [S23].
 
 If a finding description identifies a related character certificate, queue it separately from
 the grant and follow an abstract's ellipsis to the available full item. Keep original,
 translation and compiled abstract distinct; extract only the household, origin or oath wording
-actually present. The same example motivates this related-item check without guaranteeing
-particular fields, complete survival or a present translation service.
+actually present. Keep a missing field or an unavailable translation unresolved [S23].
 
 ### Tax rolls used for a land lead
 
@@ -130,29 +105,15 @@ register and its inspection statuses, separate tax-type searches, reading a volu
 literal capacity notations such as *administrator of* or *estate of*, and delinquent addenda.
 For a roll used for a land lead, also apply the checks below.
 
-Map every volume and tax-class section of each selected year before interpreting a surname miss
-or stopping at one hit, and record each section's own sort key, locator and inspected extent in
-the series register: a real-estate section may follow land location while another list follows
-names. Check separately described supplementary or nonresident sections without assuming every
-place has them, and recheck the arrangement for another year. The
-[reported one-book to two-book transition](https://familylocket.com/rlp-329-using-ai-in-report-writing/)
-motivates this inventory. A missing name in one section is not absence from the annual set, and
-a complete search of supplied volumes does not establish complete survival or legal liability.
+Inventory the volumes and tax classes for each year, including any separately described nonresident or supplementary section. Record each section’s sort key, locator and inspected extent. A real-estate section may be ordered by parcel location even when another section is alphabetical by taxpayer [S16]. Recheck the arrangement in the next year. Keep a surname miss bounded by the sections actually searched.
 
-If an expected taxpayer is missing from a roll used for this land lead, inspect its actual
-organization and bounded unsearched sections for entries filed under another payer or estate
-representative. Preserve the names and sections searched, their extent and the result.
-In the [1849 tax-roll example](https://familylocket.com/rlp-315-tips-for-when-the-courthouse-burned/),
-the speaker reports finding John Cline's entry under W for administrator Wiseman after
-missing it under C. Carry any supplied parcel reference into the comparison with land records.
-This recovery step does not by itself establish a death date, a sale, kinship, legal liability
-or the identity of same-name people.
+If the taxpayer is missing, check whether the roll uses the payer’s or estate administrator’s surname. In a reported 1849 Arkansas search, John Cline was filed under W for his administrator Wiseman [S15]. Record both names and their stated roles, the sections searched and any parcel reference. Seek independent records for a death date, sale or family relationship.
 
 ### Colony, state and province routes
 
 **North Carolina grants.** Follow a hit in Ancestry’s North Carolina land-grant files [S112 @2026-11-18] to the matching grant in NC Land Grant Images and Data, which includes North Carolina grants for land now in Tennessee [S113 @2026-11-18]. Match the county and file number where available. Open the grant’s Virtual Shuck and look for the survey among the loose-document images even if you already have the envelope summary or patent-book page [S114 @2026-11-18].
 
-The account from the available excerpt of the livestream describes finding the same grant and its survey on McCorkle’s site after starting on Ancestry [S111].
+Record the county, file and image for the survey actually retrieved. The cross-site match reported in this livestream is known from the available excerpt and still needs confirmation against the grant and survey images [S111].
 
 **South Carolina.** Records were kept by district for long periods, so search a place under both "X District" and "X County" [S65]. The seven judicial districts date from 1769, not 1766 as a community post gives [S65], [S66]. The 1785 act laid out counties inside the districts; in 1800 most counties became districts, and from 1 January 1800 to 16 April 1868 the districts were the principal administrative units while counties survived mostly as geographical names; the 1868 constitution renamed the districts counties [S66], [S67]. For 1769–1799, also search the district that contained the county; for 1800–1868, read "district" as the county-level unit.
 
@@ -200,10 +161,7 @@ same key. [S37]
 Do not screen deed-index entries down to land sales. A county's deed books may also hold
 mortgages, leases, powers of attorney, sales and manumissions of enslaved people, bills of sale,
 indentures and apprentice papers, adoptions, livestock brands, wills and tax lists [S44].
-Retrieve every entry under the target name whatever its instrument type. Expect heirs among the
-parties too: brothers and sisters may all sign one deed giving up their claim to property from
-their parents [S44], and a guide to tracing formerly enslaved families reports finding a 1910
-deed that divided a man's land among his heirs [S45].
+Retrieve each instrument under the target name. Look for releases of siblings’ claims [S44] and divisions of land among heirs [S45]. Extract the parties and their stated interests even when the index gives only one name.
 
 Many clerks' grantor and grantee indexes list only the first-named grantor and the first-named grantee [S80], [S81], [S82]. A co-heir, co-seller or partner named second may have no entry under their own name, and deeds that settle inheritances, estate disputes and partnerships may have several parties [S80]. When the target is missing, search the index under each relative by blood or marriage, and each partner, who could have been named first; if that also fails, read the deed books page by page for the relevant years [S80], [S82].
 
@@ -214,8 +172,7 @@ Many clerks' grantor and grantee indexes list only the first-named grantor and t
 2. Mark unreadable characters rather than choosing the locator that is easiest to open.
 3. Use the other index direction when available to compare an uncertain name, book or page
    reference. Inspect neighboring entries to understand the handwriting and column layout.
-4. If a recorded locator produces the wrong document, return to the index before changing
-   the person's identity. A page range such as “4 and 5” can be misread as a single larger number.
+4. If the locator retrieves the wrong parties, recheck separators and continuation pages. In a reported search two consecutive pages, 4 and 5, had been read as one page number [S2].
 5. Keep the first reading and correction in the ledger. When both entries describe the same
    instrument, link them to one candidate instrument rather than counting them as two sources.
    [S1, S2, S4]
@@ -226,12 +183,7 @@ book-series label, book/page as written, tentative reading, correction basis and
 **Check:** The fetched document matches the indexed parties and locator. The second index entry
 checks retrieval; it does not create independent evidence of the underlying transaction.
 
-When parallel registers, translations or compiled indexes are supplied, align the same entry
-and its original page/sequence before comparing locators. Keep a compiler's bracketed grant
-reference or added field separate from the original register's words. Use the added locator
-as an attributed retrieval lead; do not date that information to the original register or
-count derivative versions as independent witnesses. The [parallel Texas-register example](https://familylocket.com/navigating-the-unique-texas-land-grant-system-mexican-era-1821-1836/)
-motivates this check, without requiring three versions or validating the translation or legal claim.
+Align the entry and page or sequence in parallel registers, translations and compiled indexes. In a Texas index, bracketed notes added by the compiler identify final grants [S24]. Attribute such a locator to the compiler, then retrieve the grant. The repeated entry supplies no independent confirmation of the original statement.
 
 ## 3. Resolve the book series instead of guessing from the number
 
@@ -255,15 +207,11 @@ result, verified document extent and any conflict between the supplied and retri
 **Check:** A miss in deed volume 12 does not settle an index reference to an unspecified volume
 12. Record which series was tested and what makes an alternative series plausible.
 
-Search the recorder's miscellaneous books under the family's names as well as the deed books. In Hamilton County, Ohio, the recorder accepted almost any document from 1794: non-deed instruments went into the deed books until 1859 and into Miscellaneous Books after that, except groups that got books of their own, such as powers of attorney and partnerships [S83]. The types listed include decrees, marriage certificates, changes of name, depositions, dower, wills and patents, and Army discharges to 1865 are in Miscellaneous Book 1 [S83]. Genealogy Tip of the Day reports out-of-state divorce decrees and copies of medical licences in such books [S84]. Read each book's own index; what a county put there varies.
+Search the recorder’s miscellaneous books by family name. In Hamilton County, Ohio, miscellaneous instruments went into deed books until 1859 and then into Miscellaneous Books, with powers of attorney and partnerships among the types given separate books. The county guide lists decrees, marriage certificates, name changes, depositions, dower, wills and patents, and places Army discharges to 1865 in Miscellaneous Book 1 [S83]. An out-of-state divorce decree or medical licence may also have been recorded locally [S84]. Check the book’s own index and the county’s coverage dates.
 
 After you find a deed, read the deeds recorded the same day and several pages before and after it, for other transactions by the same people or for nearby land [S85]. Deeds that one grantor brought in together can be recorded one after another, and Genealogy Tip of the Day warns that some of them may not have been indexed [S86].
 
-When an attributed lead identifies a loose or unrecorded deed, retain its parties, date and
-property clues. Check the actual custodian's holdings and finding route for those papers
-separately from recorded deed books; distinguish the target requested from what was recovered.
-The [loose-deed example](https://familylocket.com/rlp-225-how-multiple-relationships-affect-dna-match-analysis/)
-motivates this fallback without guaranteeing survival, access or a reason for nonrecording.
+If a source identifies a loose or unrecorded deed, record its parties, date and parcel clues. Check the custodian’s finding aid for loose papers separately from the recorded books [S25]. Record which item was requested and which was retrieved. Leave the reason for nonrecording open.
 
 When other records show a transaction for which no deed was recorded, look for collections of unrecorded deeds: published compilations and manuscript collections at historical societies [S87 @2026-11-14], and county archives. The Lancaster County, Pennsylvania, Archives Division keeps a grantor and grantee index of unrecorded deeds; it explains that the hardship of reaching the courthouse left some deeds never recorded and others recorded more than a century after they were drawn up [S88 @2026-11-14]. Some deeds in that collection were recorded later, so check the regular deed index for each hit too [S88 @2026-11-14].
 
@@ -283,11 +231,7 @@ Before accepting that "the courthouse burned", find out what was lost: some cour
 
 ### Swedish property books: follow rooms and changed parcel identifiers
 
-**Use when:** an identified Swedish farm lacks a purchase date, or its older designation
-does not match the parcel now being searched. Start with the actual property description
-and available book coverage; an approximate purchase decade need not be the only entry key.
-The [property-book demonstration](https://www.youtube.com/watch?v=DoRSQ94Hd1M) follows a property
-through numbered entries and a later book. It does not verify the questioner's farm. [S27]
+**Use when:** an identified Swedish farm lacks a purchase date or its older designation differs from the one now in use. Check the period covered by the books, then use the farm, numbered entry and any reference to a successor volume to trace it [S27].
 
 **Check the books' period and scope first.** Riksarkivet describes its *lagfartsböcker* as books
 for rural properties, kept from the 1870s, with information from about 1875 to 1933. Its index of
@@ -300,11 +244,7 @@ directly; for that you need the property's name at the time and its parish. [S56
    the current designation without a documented connection.
    If a carryover gives a book label that the catalogue does not recognize, compare the
    available spine/title images with the catalogue's series description. Keep both labels
-   in a volume crosswalk, with the image that connects them. In the lecture's example, a
-   later ownership column points back to an older book and numbered rooms, while the book's
-   spine and catalogue use different labels [S28]. Verify that match for the actual archive;
-   the example is not a nationwide series-code conversion. Check the farm-name alphabetic
-   division and covered years as well: the same name can require successive period volumes.
+   in a volume crosswalk, with the image that connects them. A later ownership column may refer back to an older book and room under its spine label [S28]. Verify the link against the catalogue, the farm-name alphabetic division and the period covered. The same farm may require successive volumes.
 2. Copy the entry's *rum* number, the numbered space in the book, separately from the
    printed page and viewer image. In the predecessor's column, follow a supplied room
    reference backward; in the remarks, follow the reference to the next owner's room.
@@ -348,18 +288,11 @@ parcel link. Nor does the same *mantal* alone establish an unchanged parcel. [S2
    where available; a missing parent record remains a gap. Do not derive a parent by
    deleting digits or force every historical holding into one modern unit. [S28, S30, S31]
 
-For a historical survey whose act reference is not yet known, use an available survey
-register card as a finding aid. The lecture locates a farm-number card through the county,
-parish and farm's register, then takes the card's act label and year to the corresponding
-map [S28]. Copy the card's farm identifier, act/signum, year and stated survey action;
-retain separate rows for subdivisions, partitions, road divisions or other listed acts.
-Register formats vary by locality, so inspect the actual headings rather than applying the
-example's card layout elsewhere. A card listing is a retrieval target, not an inspected act.
+To find a historical survey without an act reference, look for a register card under the county, parish, farm and farm number. Copy the farm identifier, act/signum, year and stated survey action. Use these to retrieve the corresponding map and act [S28]. Give each listed subdivision, partition or road division its own row. Record a card hit separately from inspection of the act.
 
 Open the matching act and use its map with the descriptions and decisions already required
 above. Compare the card's reference with the act actually retrieved, and retain any missing
-text or map as an unresolved component. Record later parcel labels or annotations separately
-from the survey's original date: the lecture's map had numbers added afterwards [S28]. Use
+text or map as an unresolved component. Date later parcel numbers or annotations separately from the original survey. Numbers added later can look as if they belonged to the original map [S28]. Use
 the [map-record workflow](historical-map-record-recovery.md) for this copy's legend and
 base/correction dates. An undated added label cannot date that designation or building to
 the original survey, and a named feature does not identify its occupant.
@@ -454,10 +387,7 @@ by another authority, and court records divided among subordinate Ämter [S32].
 
 #### Follow a documented secondary obligation to another institution's book
 
-If the farm's records identify dues or an endowment owed to a second court, church or
-foundation, preserve that institution and the obligation's wording, date and source.
-The Landshut presentation describes farms appearing in such books despite belonging
-to another principal lord, and a *Salbuch* with earlier deed copies appended [S33].
+If a farm owed dues or an endowment to a second court, church or foundation, record that institution, the obligation, date and source. A farm may appear in the recipient’s books even when another lord held it. Check the *Salbuch* for appended copies of earlier deeds [S33].
 
 Use the evidenced recipient to select its property-book descriptions for the farm and
 period. Inspect the identified entry and any described appendices or associated deed
@@ -567,17 +497,11 @@ local transfer records decide [S55].
 **Check:** A later registration does not move the underlying transaction to that year.
 Do not fill an absent date from an index column whose meaning remains unknown.
 
-Book order is recording order. Deeds were entered in the order they reached the recorder, not the order they were signed, so sort transactions by their instrument dates before you read a sequence of sales, or who died first, from the book [S94], [S95]. Recording could wait years or decades: one 1636 New England deed was recorded in 1717 [S95]. It often waited until the land was sold again, until the owner died, or until a minor child came of age or a surviving parent died or remarried [S85], [S94], [S95]. When a deed, release or power of attorney is missing near its date, search the indexes again from the parcel's next sale, from the settlement of the owner's estate and from any lawsuit over the land [S94], [S96]. Genealogy Tip of the Day reports a relinquishment recorded only when the land came into an out-of-state lawsuit decades later, and powers of attorney recorded only with the deed made under them [S96].
+Sort sales by instrument date and record the filing date separately. Deeds entered the books as delivered to the recorder [S94], [S95]. If an instrument is missing near its date, search again around a resale, estate settlement, court case, child coming of age or surviving parent’s remarriage [S85], [S94], [S95]. For a power of attorney, also check the date the resulting deed was filed. A relinquishment could surface when the land became the subject of litigation in another state [S96].
 
-Do not read a long gap between a deed's date and its acknowledgment as absence, dispute or a wrong date until you know the local procedure. Where a deed had to be acknowledged in open court, the grantor had to wait for a session, and in some areas court met only three or four times a year [S97]. In a Burke County, North Carolina, example, a deed dated 24 July 1805 was acknowledged in open court at the January 1807 session, and the entry survives in the court's minutes although the county's deed books were destroyed [S98]. Find out where and before whom acknowledgment had to be made and when the court sat, and search the court minutes for the acknowledgment or proof [S97], [S98].
+Check how, where and when a deed had to be acknowledged. When acknowledgment took place in open court, the grantor had to wait for a session [S97]. In Burke County, North Carolina, the January 1807 minutes preserve an acknowledgment of a July 1805 deed even though the deed books were destroyed [S98]. Search the later sessions before interpreting a delay as absence or dispute.
 
-Compare the opening party roster with the execution names and roles before reporting a
-person absent from a deed. Retain blanks, additional names and discrepancies with their page
-locators; use relevant book practice and independent records to investigate unresolved roles.
-The [Joanna West deed example](https://familylocket.com/rlp-217-joanna-west-case-study-part-2/)
-supplies this crosscheck. Placement or omission alone does not establish widowhood, legal
-incapacity, a spouse's death or kinship; execution names in a recorded copy are not necessarily
-original autographs.
+Compare the opening roster with the names and roles at execution. In one reported deed a woman signed even though she was omitted from the opening list [S26]. Preserve both readings and page references. Verify the role independently before inferring widowhood, incapacity, death or kinship. Signatures copied into a recorded book may be in the clerk’s hand [S85].
 
 Before reporting a grantor's wife absent from a sale, read the recorded instrument through its
 acknowledgments for a release or separate-examination clause. If none appears, search later index
@@ -603,14 +527,14 @@ absence either. [S8]
 
 On surveys and grants, read a name marked C.C. or C.B. as a chain carrier or chain bearer, who carried the surveyor's measuring chain, and S.C.C. as a sworn chain carrier [S99], [S100]. Party indexes do not list them, so read the survey itself. Chain carriers were often relatives of the person for whom the land was surveyed, such as sons or brothers [S100], [S101]; record them as associates to test, not as kin. Do not infer legal age from the label alone: a Tennessee glossary says a plain C.C. could be under legal age while a sworn carrier would have reached it, and a Cumberland County, North Carolina, guide says male chain carriers had to be 14 or older [S100], [S101].
 
-When grantor and grantee indexes show no deed for someone who, according to other records, held land that must later have passed to another, read the surviving deed books page by page for the relevant years if they can be reviewed. [S41], [S42] This prevents a careful index search, even one covering spelling variants, from becoming a conclusion that the person never sold or recorded a deed. [S43] The Legal Genealogist's Winston County, Mississippi, example motivates this general practice; its index and deeds were not independently verified. [S43]
+If other records place land with the person and both indexes miss the expected transfer, read the surviving deed books page by page for the relevant period [S41], [S42]. A Winston County researcher reported finding deeds despite a negative search in both indexes [S43]. Record the books and years actually read before reporting the result.
 
 Before that page-by-page read, test the two routes by which land often left an owner without a deed in the owner's name.
 
-- **Title by will or descent.** Land passed by inheritance as well as by deed, and the only record of a transfer may be in the probate records, or nowhere if the land passed by intestate descent [S82]. Genealogy Tip of the Day describes a farm bought in the late 1860s whose purchase is still its last recorded deed, because each later owner left it by will [S102]. Search the probate records of each later owner.
+- **Title by will or descent.** If the last recorded deed predates several later owners, search the probate records of each in turn. A series of wills can account for successive transfers without another recorded deed [S102]. Intestate descent also may leave no separate instrument of transfer [S82].
 - **A forced sale.** Land sold for unpaid taxes or to satisfy a judgment was conveyed by an officer, so the deed is not under the owner's name in the grantor index [S82], [S103], [S104]. Search the grantor index under "Sheriff" and under the sheriff's own name, look for separate sheriff's or treasurer's deed books, such as the Laramie County, Wyoming, treasurer's deeds for property sold at tax sales, and look for the sale in the court records [S82], [S104], [S105].
 
-When you find a mortgage, look for how it ended. A payoff can be recorded as its own release or satisfaction and also noted on the mortgage record: Pennsylvania's statute has the recorder index each satisfaction piece and note it on the recorded mortgage, in its margin where the record allows [S107], and a teaching example shows an 1876 Illinois clerk's payment note in the left-hand column of the recorded mortgage [S104]. Search both the release index and the mortgage entry. If no payoff appears, search the court records for a foreclosure, then the deed indexes for the sheriff's deed or other sale that followed [S104], [S106]. Record a missing release as an inspected result, not as proof that the debt went unpaid.
+When tracing a mortgage payoff, search the release or satisfaction index and read the original mortgage entry through its margins. Pennsylvania provides for indexing the satisfaction and annotating the mortgage, in the margin when the record format permits [S107]. Check the left-hand column where a clerk could enter payment [S104]. If no release appears, search for a foreclosure in court and for the resulting sheriff’s deed or other sale in the deed indexes [S104], [S106]. Document the missing release and leave the payment status open.
 
 When an original deed survives outside the recorded book, read any clerk's endorsement giving
 the book, page or acknowledgment date. Use it to find the recorded copy, then compare the two
@@ -635,8 +559,7 @@ Search the county deed books for the patent too. Owners could record their feder
 1. Save the patent image/locator and its supplied state, land office, act and date,
    acreage, document/patent number and exact land description. Keep these labelled fields
    separate; an absent entry-file number is not supplied by relabelling the patent number.
-   The [NARA preparation account](https://www.danaleeds.com/10_tips_for_nara/) shows a
-   BLM-linked locator worksheet, not a universal current request form. [S10]
+   Copy the BLM land office, act year and document locator into the request worksheet, then check what the custodian requires for the particular series [S10].
 2. Identify the entry class from the document or finding description. The cited cases
    include cash sales, bounty-land military warrants and homestead entries. Match the
    locator fields to the actual custodian's series description and instructions for that
@@ -648,10 +571,7 @@ Search the county deed books for the patent too. Owners could record their feder
    not reach patent, and retain the literal entry status, legal description, land office and any
    entry/file number. Queue a
    corresponding case series only when that locator and the actual holdings support it,
-   keeping requested and retrieved files separate. The [historical tract-book example](https://www.youtube.com/watch?v=fEuF00FwZN8)
-   motivates this fallback. A patent-search miss does not establish that no application existed
-   or that its file survives; the historical entry status and present retrieval status remain
-   distinct. [S17]
+   keeping requested and retrieved files separate. Tract books can record entries that never reached patent [S17]. Record the entry’s historical status separately from whether its file can now be retrieved.
 4. When the packet is available, compare its identifiers with the patent lead and inventory
    the actual jacket and component documents against the entry-class targets below. Inspect
    certificate and assignment reverses where present. Retain each component actually present,
@@ -671,8 +591,7 @@ Search the county deed books for the patent too. Owners could record their feder
 | Bounty land warrant | Certificate and its reverse or assignment endorsements |
 | Homestead | Application papers, claimant and witness testimony, and related enclosures actually present |
 
-The [land-file examples](https://www.danaleeds.com/nara-land-records-discovering-family-history-details-that-arent-online/)
-motivate these inspection targets, not a universal contents list or eligibility rule.
+Use this table as an inspection checklist. Record which documents actually appear in each packet, including any endorsements on the reverse [S11].
 
 **Artifact:** patent-to-file locator crosswalk, entry class and retrieval state, component
 inventory, named roles and separately sourced event dates.
