@@ -55,34 +55,24 @@
   [interview](https://www.youtube.com/watch?v=RKqz2lXQU7w). Separately filed marriage components
   with differing content, including the NYC licence application with parents' birthplaces (date
   range stated with uncertainty), and big-city names standing in for nearby villages.
-- **S12:** GeneaVlogger, *Researching My Paternal Great-Grandfather (VLOG #4)*, published
-  2017-07-10 — [vlog](https://www.youtube.com/watch?v=2YLat4WuFKY); and *Using DNA and Immigration
-  Records to Breakdown Brick Walls in American Jewish Genealogy (VLOG #29)*, published 2019-06-02 —
-  [vlog](https://www.youtube.com/watch?v=2h6zplRuD28). Reading a Yiddish signature on a declaration
-  as a separate name observation used as a search key; the crowd reading is not adopted as the
-  original name.
-- **S13:** GeneaVlogger, *Answering Live Genealogy and DNA Test Questions*, published 2025-07-25 —
-  [live stream](https://www.youtube.com/watch?v=pVfGwY6uBHU); and *Holiday Genealogy & DNA Q&A –
-  Ask Me Anything LIVE*, published 2025-12-26 —
-  [live stream](https://www.youtube.com/watch?v=VQgE0u9SGSU). Passage-ticket ledger fields and a
-  purchaser-passenger link between surname forms; the presenter's uncertainty about the repository
-  and column meanings is retained.
-- **S14:** J-Roots participants, *Не знаете, где спросить? Спросите здесь*, thread begun 2009-08-24 —
+- **S12:** GeneaVlogger, [Researching My Paternal Great-Grandfather](https://www.youtube.com/watch?v=2YLat4WuFKY). Account of the difficult signature and proposed reading in the saved lecture transcript read 2026-11-19. The other source formerly listed here is S23.
+- **S13:** GeneaVlogger, [Answering Live Genealogy and DNA Test Questions](https://www.youtube.com/watch?v=pVfGwY6uBHU). Passage ledger walkthrough in the saved lecture transcript read 2026-11-19. The other source formerly listed here is S24.
+- **S14:** J-Roots participants, *Не знаете, где спросить? Спросите здесь*, thread begun 2009-08-24 — Cited passages read in the saved forum text on 2026-11-19; original records were not inspected.
   [discussion](https://forum.j-roots.info/viewtopic.php?f=75&t=7576). Rights: cited reference, not
   reproduced. Used for the pointer to Russian consular records in the USA (viewable on FamilySearch
   film) as a source for undelivered-remittance files naming sender and recipient; coverage is not
   adopted from the thread.
-- **S15:** Ahnenforschung.net participants, Ahnenforschung.net topic 3013995, thread begun 2026-04-30 —
+- **S15:** Ahnenforschung.net participants, Ahnenforschung.net topic 3013995, thread begun 2026-04-30 — Cited passages read in the saved forum text on 2026-11-19; original records were not inspected.
   [discussion](https://forum.ahnenforschung.net/forum/thread/3013995/).
   Rights: cited reference, not reproduced. Used for comparing census birthplaces and manifest origin
   when a German-speaking family recorded as born in 'Germany' may come from Russian Empire German
   colonies; the family's identity and ancestral origin are not adjudicated here.
-- **S16:** Ahnenforschung.net participants, *Auswanderung USA*, thread begun 2021-11-22 —
+- **S16:** Ahnenforschung.net participants, *Auswanderung USA*, thread begun 2021-11-22 — Cited passages read in the saved forum text on 2026-11-19; original records were not inspected.
   [discussion](https://forum.ahnenforschung.net/forum/thread/185403/). Rights:
   cited reference, not reproduced. Used for separating same-named destination contacts and
   comparing each one's dated addresses with the manifest contact address; no candidate is adopted
   as the contact.
-- **S17:** J-Roots participants, *Нужно мнение коллег*, thread begun 2015-09-22 —
+- **S17:** J-Roots participants, *Нужно мнение коллег*, thread begun 2015-09-22 — Cited passages read in the saved forum text on 2026-11-19; original records were not inspected.
   [discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667). Rights: cited reference, not
   reproduced. Used for reconstructing an unrecognised place name on a German-written passenger list
   by comparing letterforms on the page and German spellings of Slavic sounds; the proposed reading
@@ -90,13 +80,7 @@
 - **S18:** Doukhobor Genealogy, [Ship Passenger Lists](https://doukhobor.org/shiplists/),
   opened 2026-11-02. Used for: the Doukhobor arrival periods, and patronymics or family nicknames
   sometimes recorded instead of official surnames.
-- **S19:** Ancestry, *Michael Douglas Discovers the Untold Truth About His History | PBS' Finding
-  Your Roots | Ancestry*, published 2026-10-27 — [clip](https://www.youtube.com/watch?v=uFyZWbkmoAs);
-  from PBS, *Finding Your Roots*, season 10, episode 9 —
-  [clip page with transcript](https://www.pbs.org/video/michael-douglas-unravels-his-familys-secret-past),
-  opened 2026-11-06. A 1906 Mogilev District Court notice seeking a Chausy townsperson and naming
-  the article charged, used as a lead to a registration town, court files and siblings' metrical
-  entries; the programme's other claims about the charge and the family are not adopted.
+- **S19:** Ancestry / PBS Finding Your Roots, [Michael Douglas Discovers the Untold Truth About His History](https://www.youtube.com/watch?v=uFyZWbkmoAs). Court notice read aloud in the saved episode clip transcript read 2026-11-19; the original newspaper was not inspected. The other source formerly listed here is S25.
 - **H1:** U.S. National Archives, [Passenger Arrival Records](https://www.archives.gov/research/immigration/passenger-arrival.html).
 - **H2:** U.S. National Archives, [Naturalization Records](https://www.archives.gov/research/immigration/naturalization).
 - **H3:** Marian L. Smith, [By Way of Canada](https://www.archives.gov/publications/prologue/2000/fall/us-canada-immigration-records-1.html),
@@ -130,7 +114,7 @@
   [blog post on using the EWZ records](https://www.familysearch.org/blog/en/using-the-ewz-records-for-german-and-eastern-european-research),
   opened 2026-11-02. Used for: the origin regions of the resettled groups, and FamilySearch
   holding only part of the series on film.
-- **H13:** RAPSI (Russian legal news agency), Anna Shubina,
+- **H13:** RAPSI (Russian legal news agency), Anna Shubina, RAPSI article on official notices in provincial newspapers read 2026-11-19.
   [«100 лет назад. 25 ноября – 1 декабря»](https://rapsinews.ru/judicial_analyst/20131125/269819088.html)
   ("100 years ago"), 2013-11-25, opened 2026-11-06. Used for: search notices from a prison inspectorate and district
   police offices printed in *Vologodskie gubernskie vedomosti* in November 1913.
@@ -209,8 +193,17 @@
 - **H26:** Путеводитель Государственного архива Хабаровского края, [ф. Р-830 «Главное бюро по делам российских эмигрантов в Маньчжурской Империи»](https://guides.rusarchives.ru/node/19980), read 2026-11-13. Used for: the fond's dates (1932–1947) and size (56,850 units), and the 56,260 personal files of emigrants transferred from the regional security directorate in 1992–1993.
 - **H27:** Государственный архив Российской Федерации, [«Возвращенная история»](https://statearchive.ru/2044), read 2026-11-13. Used for: the collection of the Russian Foreign Historical Archive in Prague (1923–1945) held in GARF since January 1946.
 
+- **S23:** GeneaVlogger, [Using DNA and Immigration Records to Break Down Brick Walls in American Jewish Genealogy](https://www.youtube.com/watch?v=2h6zplRuD28). Later account of the signature and American surname in the saved lecture transcript read 2026-11-19.
+
+- **S24:** GeneaVlogger, [Holiday Genealogy & DNA Q&A – Ask Me Anything LIVE](https://www.youtube.com/watch?v=VQgE0u9SGSU). Follow-up surname comparison in the saved lecture transcript read 2026-11-19.
+
+- **S25:** Ancestry / PBS Finding Your Roots, [Michael Douglas Unravels His Family’s Secret Past](https://www.pbs.org/video/michael-douglas-unravels-his-familys-secret-past). PBS clip transcript, including the judicial notice and town, read 2026-11-19; the original newspaper was not inspected.
+
 ## Credits
 
+- Ancestry / PBS Finding Your Roots (S25) — Account paraphrased with attribution (adapted)
+- GeneaVlogger (S24) — Account paraphrased with attribution (adapted)
+- GeneaVlogger (S23) — Account paraphrased with attribution (adapted)
 - Vera Miller, Lost Russian & Ukrainian Family, posts of 2025-06-14, 2025-11-15 and 2025-12-13, cited as S20–S22 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Library and Archives Canada, Hoover Institution, China Families, Wikipedia and the Internet Encyclopedia of Ukraine pages, cited as H19–H25 — Facts paraphrased with attribution (adapted)
 - Kinprove — original procedural distillation; practitioner methods and archive facts attributed to the sources listed in Sources — FSL-1.1-MIT (kinprove-original)
