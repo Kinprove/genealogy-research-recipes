@@ -175,11 +175,11 @@ are used.
 - **N3:** [Research Around the World](https://www.pricegen.com/research-around-the-world/), preserved article text read 2026-11-16. Practitioner lead read in the preserved article text; the amendment retains only the independently supported scope.
 - **N4:** [genealogy.net Metasuche](https://meta.genealogy.net/), opened 2026-11-16. The current page describes parallel database requests, a ten-second response window and individual database selection; it also marks temporarily disabled databases.
 
-- **S36:** [Internet Archive, Using the Wayback Machine](https://help.archive.org/help/using-the-wayback-machine/). Internet Archive help page read 2026-11-19. Explains using dated URLs and why captures, pages or embedded resources can be absent.
+- **H4:** [Internet Archive, Using the Wayback Machine](https://help.archive.org/help/using-the-wayback-machine/). Internet Archive help page read 2026-11-19. Explains using dated URLs and why captures, pages or embedded resources can be absent.
 
 ## Credits
 
-- Internet Archive, Using the Wayback Machine (S36) — Capture and retrieval guidance paraphrased (adapted)
+- Internet Archive, Using the Wayback Machine (H4) — Capture and retrieval guidance paraphrased (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
 - Günter Junkers, Compgen-Blog, Backup für das kulturelle Erbe der Ukraine, 2022-03-15, cited as H1 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)

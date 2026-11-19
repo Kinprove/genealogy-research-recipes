@@ -218,7 +218,7 @@ Use the onsite preparation checks above for any described material you plan to r
 
 ## Recover a dated page behind a dead citation
 
-Keep the exact URL of a broken citation and look it up in a web archive [B24](https://dna-explained.com/2026/10/02/focus-step-1-seven-solutions-for-dna-matches-with-absent-or-shrunken-trees/). Inspect the page itself. When a later capture contains an error, work backwards to a content-bearing version and then compare later captures for the last usable copy. Record the original URL, archive URL, capture time, access date and what was visible. Keep any original publication date separate, and log missing pages, links and images individually [S36]. A retrieved family tree remains an authored account of its claims. If there is no usable capture, leave the cited page unavailable.
+Keep the exact URL of a broken citation and look it up in a web archive [B24](https://dna-explained.com/2026/10/02/focus-step-1-seven-solutions-for-dna-matches-with-absent-or-shrunken-trees/). Inspect the page itself. When a later capture contains an error, work backwards to a content-bearing version and then compare later captures for the last usable copy. Record the original URL, archive URL, capture time, access date and what was visible. Keep any original publication date separate, and log missing pages, links and images individually [H4]. A retrieved family tree remains an authored account of its claims. If there is no usable capture, leave the cited page unavailable.
 
 The [digital-publications demonstration](https://www.youtube.com/watch?v=a-539DY1aak)
 shows the temporal search across captures. A surviving page does not mean its search form or
