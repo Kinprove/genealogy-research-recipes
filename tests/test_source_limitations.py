@@ -36,8 +36,9 @@ LIMITED_CLAIMS = (
     ("early-new-england-town-records", "Most town books", (
         r"New London.*sign-in page.*index note was not confirmed.*\[S11\]",
     )),
-    ("early-new-england-town-records", "**Cut-off:**", (
-        r"HSP catalog lead.*1985.*2002.*HTTP 403.*details remain unconfirmed.*\[S14\]",
+    ("early-new-england-town-records", "**Cut-off.**", (
+        r"Newberry Library.*1985 revised edition \[S24\]",
+        r"Ohio Genealogical Society.*2002 second revised edition \[S25\]",
     )),
     ("familysearch-practical-record-workflows", "A parent–child link", (
         r"Y2S38-s3tSc.*private when checked on 2026-10-22.*does not verify the parent-link types.*\[S47\]",
