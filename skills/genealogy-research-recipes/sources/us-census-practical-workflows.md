@@ -377,7 +377,7 @@ British America column. No Wisconsin schedule image was inspected, and whether e
 form had that column was not checked. Reading the nativity counts as household tallies, and
 assigning one to the head only when no one else can hold it, is Kinprove synthesis.
 
-### Notes on S170–S189, S103 and S118: check of 2026-11-18
+### Notes on S170–S189, S103 and S118 (checked 2026-11-18)
 
 S170 supplies the community search and extraction advice. The National Archives' pages
 (S118 and S171) establish the scope of the free federal search and document the viewer.

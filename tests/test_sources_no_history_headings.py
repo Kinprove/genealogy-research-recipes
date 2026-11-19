@@ -1,4 +1,4 @@
-"""Sources files carry no heading that dates when sources were added; that history belongs in the PR.
+"""Source sidecars carry no heading that dates when sources were added; that history belongs in the PR.
 
 A dated recheck heading ("Platform recheck, 2026-11-12") records a check, which is evidence, and stays.
 """
@@ -28,9 +28,9 @@ class HistoryHeadingTests(unittest.TestCase):
         self.assertEqual(history_headings("### Sources for the 2026-11-12 additions"),
                          ["### Sources for the 2026-11-12 additions"])
         self.assertEqual(history_headings("### Platform recheck, 2026-11-12"), [])
-        self.assertEqual(history_headings("### Sources added 2026-11-20 after recheck"),
-                         ["### Sources added 2026-11-20 after recheck"])
-        self.assertEqual(history_headings("### Sources S36–S47"), [])
+        self.assertEqual(history_headings("### Additions and recheck, 2026-11-16"),
+                         ["### Additions and recheck, 2026-11-16"])
+        self.assertEqual(history_headings("### Additional sources"), [])
         self.assertEqual(history_headings("Sources added 2026-11-20 in prose is not a heading"), [])
 
     def test_sources_files_have_no_history_headings(self):
