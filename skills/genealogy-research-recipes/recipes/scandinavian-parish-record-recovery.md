@@ -53,13 +53,13 @@ Related recipes:
 
 On the examination page, record each of these items separately [S1], [S2]:
 
-- the farm name and the family's place on the farm (Brady's example is one of four families on one farm);
+- the farm and the household’s position on its page. Several families can occupy one farm. Use the household head and neighbours to distinguish them [S1];
 - the head of household and his occupation;
-- each member's date and place, copied exactly as written. The "Born" column records year, day and place of birth (FamilySearch collection description; Genealogy Gems also calls these birth dates [S5]). If a page or entry shows a christening date as well, label each date separately;
+- each member’s date and place under the printed birth headings. Copy them as written and label any separate christening date [S1], [S5];
 - the couple's marriage date;
 - the moved-in and moved-out columns, and any crossed-out names with their notes on departure or death.
 
-Use those dates and places to go straight to the original birth and marriage entries. In Brady's demonstration, the child's birth entry and the parents' marriage entry matched the examination page [S1].
+Use the examination entry to locate the child’s birth and the parents’ marriage. Compare the names, dates and residence in both originals with the household page, and record any disagreement [S1].
 
 The cross-references run both ways. Expect them and follow them [S5]:
 
@@ -79,10 +79,7 @@ When an index hit gives a banns number and a wedding number, copy each with its 
 
 ### Decode an urban number before opening a page
 
-An urban reference can identify a *tomt* (lot), rather than a printed page. In
-ArkivDigital's Borås demonstration, the birth entry's number 7 leads through a lot
-index to page 15; later references require other lots and a named locality [S23].
-Use the actual book's headings and indexes to establish the reference's role.
+A number beside an urban birth may identify a *tomt* (lot). Read the column heading and find the lot in the book’s index. In ArkivDigital’s Borås example, lot 7 led to printed page 15, shown as viewer image 12 [S23].
 
 1. Copy the reference and its column heading, parish, date and referring volume.
    Distinguish a lot number, a printed page or folio (*fol.*), and a viewer image
@@ -93,10 +90,7 @@ Use the actual book's headings and indexes to establish the reference's role.
 3. Read the contents and place/lot indexes at the front or back. Follow the lot's
    index entry to its printed page, then check the lot heading and household there.
    Keep the index locator, target page and viewer image separate.
-4. If the destination changes from a number to a place name, check the town's
-   place indexes before choosing a same-named parish elsewhere. The demonstrated
-   Karlsdal index has two starting references; inspect each relevant block and its
-   continuations, recording their results rather than stopping after the first miss.
+4. When a move gives a place name in place of a number, check the town’s place index before searching another parish. Follow every starting page for the locality and any continuation. ArkivDigital found the Karlsdal household in the second indexed block after a miss in the first [S23].
 5. Re-read the receiving page's layout: moving-in, moving-out and death columns
    can change position or extend across a spread. Compare the receiving entry's
    stated previous residence and year with the departing entry. Preserve conflicts
@@ -114,12 +108,7 @@ reference. ArkivDigital's example explains it as a register for people whose res
 was not known to the parish, including people who had not taken out a moving certificate.
 The label does not establish that they emigrated. [S23]
 
-Check the catalogue and contents for the relevant dates: the section may be embedded in
-a household volume or kept in a separate book. Follow the supplied folio into that
-actual section, verify the person and household, and read any later departure note.
-Retain a newly different birth date as a discrepancy against the earlier birth and
-household entries. The demonstration later follows a Stockholm parish destination;
-that later statement is separate from the unknown-whereabouts classification. [S23]
+Use the catalogue and contents for the relevant dates to locate the *obefintlighetsbok*, whether it is a section in a household volume or a separate book. Follow its folio, check the household and retain any conflict with the birth entry. In the Borås example, the birth day changed from 22 to 23 January and a later departure column named Stockholm Maria [S23]. Use that dated note to search the receiving parish. Keep the earlier period of unknown whereabouts open.
 
 Add each step to the household chain: referring entry and literal wording, reference
 type and its reading basis, selected volume/index block, received entry, incoming/outgoing
@@ -149,17 +138,17 @@ When an entry gives *GB* or *GL* with a page, ArkivDigital explains these as *ga
 
 - Read forward to the latest volume that shows the couple. Hallen says early entries list only the children born so far, and later children were added afterwards [S3].
 - Expect children who died young to be missing from the rolls [S3]. Search the birth and death registers for them and list them separately, marked as found outside the household lists.
-- Compare the household with the death entry. In Brady's example, the father's death entry repeated his birth details and age and gave the number of surviving sons and daughters, and that number matched the children on the roll [S1]. Swedish death entries generally record residence, age and cause of death (FamilySearch blog). Not every period gives a count of surviving children. Where one appears, it covers only children alive at the parent's death. A matching count supports the reconstruction. If it does not match, take out the children who died before the parent, then search the birth and death registers for children not on the roll. If the difference is still unexplained, reopen the household identification.
+- Compare residence, age and other identifying details in the parent’s death entry with the household roll [S33]. If it gives surviving children, count only those alive at the parent’s death. Brady reports a death entry counting two sons and one daughter, matching the three children on the roll [S1]. Check birth and burial registers for children who died earlier. Reopen the identification if the discrepancy persists.
 
 ## Follow a missing birth to another parish
 
 If a person's birth, or a parent's birth, is not in the current parish, keep going. Search that parish's moving-in and moving-out registers. Record the previous or next parish and the date given, then continue in that parish's examination and vital registers [S2]. Tanner says a moving-out note usually records where the person went [S4].
 
-When a Swedish receiving household entry gives only a birth year, establish the approximate arrival date and receiving parish, then check whether incoming moving certificates (*inflyttningsattester*) survive for that interval. Browse that series for the identified person: the sending priest's certificate may retain an exact birth date and place omitted from the receiving entry. ArkivDigital demonstrated this possibility on 1 April 2026; survival and contents vary by case. Reconcile any recovered detail with available original birth entries. [S20]
+If the receiving household book gives only a birth year, establish the arrival period and browse the parish’s surviving incoming moving certificates (*inflyttningsattester*). The sending priest may have supplied a full date and birthplace that the receiving priest abbreviated. Compare any detail found with the original birth entry [S20].
 
 For an immigrant from abroad, look for the incoming certificate in the church archive of the first Swedish parish of arrival, not a later one: the certificate stays with the parish that received it [S24]. Parish archive inventories file these certificates in series H II, the attachments to the moving registers, often titled *Bilagor till flyttningslängderna*; the wording varies by parish [S25]. Search NAD by that parish to see whether H II survives for the arrival years and whether it is digitized, then browse it for the arrival interval.
 
-Before declaring a Swedish parish event missing, check the archive information and its NAD (Riksarkivet's national archive database) link for dated pastorate membership, mother/annex relationships and documented losses. Establish the relationship for the event year: a jointly kept book may be filed under the other parish. ArkivDigital's 1 April 2026 demonstration used arrow-marked linked volumes to open that other parish's book. Follow the identified book and verify its actual parish/year coverage; a documented loss explains unavailable evidence, not whether the event occurred. [S20]
+Check the parish’s archive description and its National Archival Database (NAD) entry for the pastorate and mother or annex parish at the date of the event. A joint register may be catalogued under the other parish: ArkivDigital’s 2026 demonstration followed the linked Götlunda birth and baptism books for 1688–1706 and 1707–1723 into Flistad’s archive [S20]. Verify both the parish and the years in the volume. A note of loss explains a gap in the records.
 
 ## When the page trail breaks
 
@@ -207,12 +196,15 @@ This route leaves unverified holdings, unindexed fields and Finnish bulletin cov
 
 ## Do not call it a census
 
-- Everett describes household examinations as registers kept parish by parish by the priest. He says they could be written up at different times of the year, so strictly they are not a government census taken on one day [S2]. Do not give an examination entry a single enumeration date. Cite the volume and its stated year range.
-- Riksarkivet's census database (Folkräkningar) is built from extracts of household examinations and later parish books. It is complete for 1880, 1890, 1900 and 1910. For 1860 it covers only Jämtlands län, and for 1870 only Västerbottens and Norrbottens län. 1920 is not in the database. 1930 is complete for some counties and still being registered for the rest; check the county in Riksarkivet's registration-status table, since a miss outside the registered counties is not a negative [S26]. The 1930 census is also compiled from parish-book extracts plus tax registers, and is limited to people born more than 100 years ago. Use the database as an extract of selected years. It does not cover every year and does not replace the volumes in between. Everett describes it as "1860 through 1920" and says 1930 was left out as Sweden's first national census [S2]. Both statements are wrong, so do not repeat them.
+- A priest updated the household examination across a period. Cite the parish, volume and the years or dated marks that apply to the person [S2].
+
+- Riksarkivet’s Folkräkningar database has complete national data for 1880, 1890, 1900 and 1910. For 1860 it covers only Jämtlands län, and for 1870 only Västerbottens and Norrbottens län [S26 @2026-11-19]. The database omits 1920, and 1930 registration varies by county [S41 @2026-11-19], [S40 @2026-11-19]. The public 1930 search includes only people born more than 100 years ago [S42 @2026-11-19]. Check the county’s registration status before interpreting a miss.
+
+- Follow the census extract back to its source. Swedish censuses from 1860 drew on named extracts from parish registers [S41]. For Stockholm city, the 1930 project identifies the population register of the *Mantalskontoret* as its source [S43].
 - Early coverage:
   - Riksarkivet's administrative history assigns parish registration to the pastor under the Church Law of 1686 and describes catechism or household-examination lists. [S28] This is the statutory context, not proof that a volume survives for a particular parish or year.
-  - Survival is a separate question from the law. Riksarkivet describes the oldest examination lists as late-1600s or early-1700s records, initially focused on religious knowledge and not always giving a birth year. [S28] Brady gives about 1756 as a practical starting point [S1]; treat that as her guide, not a promise of coverage. Check the parish's actual holdings for every year needed.
-  - Identify the parish's separate moving-in and moving-out series and their surviving spans before searching them. If no separate volume covers the move, inspect the examination's own moving columns. A presenter's general start date [S2] does not establish local survival.
+  - Check the parish’s actual holdings for each year. Riksarkivet dates the oldest surviving examination lists to the late 1600s or early 1700s and notes that an entry focused on religious knowledge may omit the birth year [S28].
+  - Identify the parish's separate moving-in and moving-out series and their surviving spans before searching them. If no separate volume covers the move, inspect the examination's own moving columns. [S2]
 - Before you claim any volume is missing, check that parish's actual holdings.
 
 ## Bridge gaps with poll-tax registers and probate
