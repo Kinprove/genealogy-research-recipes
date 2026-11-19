@@ -94,18 +94,7 @@ unavailable pages unresolved. This check does not require changing the profile. 
 3. Follow the locality's record-type links to candidate collections.
 4. When formal recording began after the event, queue the locality's named substitutes, such as church, burial or cemetery records.
 
-When carrying the resolved jurisdiction into a Tree event, choose the place standard whose displayed
-date range contains the event date, not the first or modern match, and keep the specific church or
-cemetery in the place text. Do not read an English civil registration district or poor law union as
-the same-named town; the event may have been in a different parish within that district. A place
-tool's alternate names and spellings are search variants and finding aids; confirm jurisdiction
-through the Wiki and records above, and treat a presenter's claim that two nearby names are the same
-town as anecdotal. Explain the choice in a reason statement. Sources:
-[secrets class](https://www.youtube.com/watch?v=1gBnq8dOj7E),
-[correction demonstration](https://www.youtube.com/watch?v=2oWr4nSqyeM),
-[standards class](https://www.youtube.com/watch?v=SjTkwLdqhXI),
-[clean-up example](https://www.youtube.com/watch?v=PNSYBkjdyEg). None explains how place timelines
-are sourced or how to find the parish inside a district.
+When recording a Tree event, keep the church or cemetery in the place text and choose a standard whose date range covers the event [S21], [S22], [S23]. An English civil registration district such as Ormskirk contained more than the town of that name. Check the record for the parish. Use alternate spellings and nearby names as search leads [S20]. Cite the record and explain the choice before treating two place names as equivalent.
 
 **Artifact:** An event → year → historical jurisdiction → custodian → series/substitute table.
 
@@ -136,12 +125,7 @@ still needs its original entry. Sources: [Jewish genealogy](https://www.youtube.
 [Danish places](https://www.youtube.com/watch?v=iA8SSSgUzyc),
 [Sweden](https://www.youtube.com/watch?v=T_fRRUa4lYY); their 2017–2022 search fields may differ now.
 
-When a citation gives a FamilySearch Catalog entry number, open it at
-`https://www.familysearch.org/en/search/catalog/<entry-number>` and match the title and coverage.
-Use the Catalog entry number in this URL. Keep film and DGS numbers for their own lookups.
-Entry 660634 is the index to volumes I–XXV of the *Colonial and State Records of North Carolina*
-[S106 @2026-11-18]. According to the reader’s transcript extract, Just Genealogy points to that
-separate index and shows how to open it by its Catalog number [S105† @2026-11-18].
+When a citation supplies a FamilySearch Catalog entry number, try the English Catalog address ending in that number. Match the title and volume range before opening a film or image group. In a December 2022 demonstration, number 660634 retrieved Stephen B. Weeks’s index to volumes I–XXV of the *Colonial and State Records of North Carolina* [S105]. The Catalog entry inspected on 18 November 2026 identified the same index [S106]. Use the index to find the volume and page of the underlying record. If direct access fails, keep the entry number and search for the full title.
 
 Treat the coverage ledger as an inventory of FamilySearch's holdings, not of the records that survive
 for the place. FamilySearch describes the Catalog as a guide to the records and resources it has
@@ -229,14 +213,7 @@ item break [S104 @2026-11-18].
 4. Search Full Text with the DGS and a name/keyword; the dated sources also describe comma-separated group numbers.
 5. Record both item-view and complete-group image positions when they differ.
 
-When an external index supplies an archive signature (holding archive, record group, accession, file
-number), do not open the first Catalog collection whose title matches the record type. Compare each
-candidate Catalog entry with the index's signature (holder, record group, accession). Then check that
-the chosen entry's volumes are arranged by file number, not by letter volumes or number ranges that
-cannot hold that file. Locate the file by its number and record any locked image range as an access
-state (workflow 6). A [probate-file index discussion](https://forum.ahnenforschung.net/forum/thread/148940/)
-shows a wrong series with the same title being corrected; the thread does not show which details
-confirmed the right series. A matching title alone does not establish the right series.
+Match the external index’s archive, series, accession and file number against the Catalog description. In the Groß Lichterfelde probate search for Klara Ritter, the index specified Landesarchiv Berlin, Rep. 45, Acc. 1232, file 2567, court reference 6 IV 65. The first R volume ran from 14090 to 14135. The researcher reported finding file 2567 after switching to Catalog 286393 [S54]. Check the file’s own identifiers and record any locked images as an access limit (workflow 6).
 
 **Artifact:** A crosswalk: Catalog URL, series/years, physical film/item, DGS, image URL, viewing scope and exact Full Text query.
 
@@ -300,7 +277,7 @@ index entry exists. Never construct a record ID for a line that has no index ent
 
 **Artifact:** A citation with an identifier crosswalk and any permitted local image/transcription.
 
-**Check:** The example is item 5, image 2 of 158, versus complete-group image 830 of 1,138. Those are two locators for the same image; the article's later '830 of 158' is a typo. The example does not establish universal permanent URL availability.
+**Check:** Save the same document under both viewing scopes. In the Russell County, Alabama, Orphan’s Court docket, image group 005175954, the cover is item 5 image 2 of 158 and complete-group image 830 of 1,138 [S09]. Reopen the citation and match the cover or actual entry. Include the item number or the group total whenever you give an image ordinal.
 
 **Sources:** [S09](https://familylocket.com/citing-digitized-records-on-familysearch/).
 
@@ -314,29 +291,9 @@ index entry exists. Never construct a record ID for a line that has no index ent
 4. Try documented initials, abbreviations, spelling variants and name order.
 5. Temporarily remove a group restriction, then add place and time filters incrementally.
 
-Return to indexed Records search for the following two tactics; they use its principal, relative and
-exact-match fields. Before accepting one christening as a common-named ancestor's family, rebuild the
-parish's same-surname families. Leave the given name and relatives blank. Search the surname with a
-one-character wildcard and exact matching for the spellings you observed, and extend the years to the
-first census naming everyone. Include burials, since an unbaptized child may appear only there.
-Export the hits, and treat identical rows as possible duplicate filming. The
-[parish class](https://www.youtube.com/watch?v=ZOBFGCHCKy8) demonstrates the broad surname search;
-the [cluster example](https://www.youtube.com/watch?v=FSElDcp4ySo) found a missing child only through
-a burial noted as unbaptized. Treat any family grouping as a hypothesis and check the images.
+Switch from Full Text back to indexed Records for the parish and parent searches that follow. For a common surname in English parish registers, search the whole parish through the first census naming everyone. Try the observed spellings and a one-character wildcard, leaving the given name and relatives blank [S50]. Include burials when reconstructing children. A burial explicitly recorded that a child had never been baptized, explaining why a baptism-only reconstruction had missed him [S128]. Group entries provisionally by household and inspect the images before treating identical rows as twins or duplicate filming.
 
-To recover a couple's children, leave the principal name blank. Enter the parents' names (father's
-full name, mother's given name) plus the locality, and wildcard an uncertain surname ending. Narrow
-by place or collection; widen again if sparse. If exact-match relative names return nothing, release
-exact match on each relative field in turn and log each variant; one presenter suspected an
-initial-only index entry but did not verify it. Same-named couples mix together, so every hit is a
-candidate; a differing birthplace may reveal an intermediate residence. Rerun when an index gains
-parent fields, and run the same search in the Tree before adding the family. Sources:
-[Irish essentials](https://www.youtube.com/watch?v=n_J_5s4EH0w),
-[repeat-search rule](https://www.youtube.com/watch?v=KdGfu_Tc3c8),
-[Danish example](https://www.youtube.com/watch?v=cZZ2IbQSyPc),
-[parental search](https://www.youtube.com/watch?v=CC-6uGAuSiY),
-[exact match](https://www.youtube.com/watch?v=qIy0D1-mhPA). Shared parents' names do not prove
-kinship.
+For a couple’s children, search indexed Records with the principal name blank. Enter the father’s name, the mother’s given name and the locality [S28], [S29]. Test place and collection filters separately [S30]. If an exact relative field produces no results, release one field at a time and inspect the indexed spellings [S31]. Compare each candidate’s dates, residence and siblings with the family. Rerun the search when an index gains parent fields [S127], and check for an existing Tree entry before adding a family [S29].
 
 **Artifact:** A query matrix with exact query, search surface, scope, observed count, image links and rejected identities.
 
@@ -356,7 +313,7 @@ kinship.
 
 **Artifact:** An operator comparison table: exact syntax, counts, sample image links and observed behavior.
 
-**Check:** Read the matching words and confirm required terms. The Aimee Cross example's single `+Mary` admitted Mary-only results; do not assume that one plus requires all other unprefixed words. Quoted-name behavior is not demonstrated as a universal byte-for-byte phrase guarantee.
+**Check:** Compare a single required word with every intended term prefixed individually. In Cross’s demonstration, a search for George Stephenson with only `+Mary` returned records mentioning Mary alone [S01]. Sorensen demonstrated a separate plus for each required term [S07]. Inspect matching text beyond the first hits and record what the quoted and unquoted versions returned.
 
 **Sources:** [S07](https://www.youtube.com/watch?v=4M3h-bSiQGM), [S01](https://www.youtube.com/watch?v=mZc2-Z-TROw), [S03](https://www.youtube.com/watch?v=NUwBg94RXdk).
 
@@ -370,12 +327,7 @@ kinship.
 4. Compare material names, dates and legal roles in the AI transcript with the image; preserve uncertain readings.
 5. Build any summary from the corrected reading of that document.
 
-Before reading a register page as complete, do not assume the adjacent image shows the neighbouring
-page: some registers had left and right pages filmed separately, so the pages before and after may
-lie elsewhere in the same group. Record the image numbers of every page you use. A
-[split-page filming discussion](https://forum.ahnenforschung.net/forum/thread/3014856/)
-flags a baptism film whose preceding and following pages lay more than a hundred images away from the
-cited image. It does not say how those pages were found or how common such filming is.
+Check whether the two sides of a spread were filmed in separate runs. In a baptism-register discussion, a contributor paired image 412 with images 293 and 294 for the pages before and after it. The contributor could not view the baptism itself on FamilySearch and suggested checking Archion [S55]. Use headings, written page numbers and entry sequence to verify each join. Cite each image used.
 
 **Artifact:** An image sequence, document-boundary map, original/corrected transcript and source-linked summary.
 
@@ -477,13 +429,7 @@ until records compare them. Sources: [data](https://www.youtube.com/watch?v=90K2
 [extraction duplicates](https://www.youtube.com/watch?v=pdqsz950wnc),
 [misindexed family](https://www.youtube.com/watch?v=EQu60tXwvvA).
 
-When reviewing a record's unfinished attachments, do not create profiles for people who may still be
-living. The [hinting demonstration](https://www.youtube.com/watch?v=be-zx7r_hE4) inferred this from a
-sibling's 1943 birth. Dismiss entries that are not family members to be added: a census lodger, an
-employer or business indexed as a person on a draft card, or a stray number read as a name. Leave
-plausible but unresearched relatives unattached for later work rather than dismissing them. The
-presenter's living-person judgement is a heuristic, not a rule. Apply your privacy policy and confirm
-the current controls.
+Before acting on an unfinished attachment, check what the indexed row represents. A lodger can be a real person outside the family, while an employer or a stray number can be indexed as a person by mistake [S43]. Leave plausible relatives unattached while their identity or living status remains unresolved. A sibling’s recent birth is a reason for caution and supplies no evidence of the other person’s death.
 
 Never set Deceased, a birth year or another required field without evidence just to make an add or
 attach succeed. A profile marked deceased normally becomes public in the shared Tree, where any user
@@ -702,7 +648,7 @@ observations; confirm the current controls and do not assume one repair cleans b
 
 **Artifact:** A before/after identity matrix, merge chronology, evidence links, restored PID list and correction log.
 
-**Check:** The 2023 case required manual cleanup after restoration. An alert note informs collaborators; it does not establish the identity or prevent further editing. A deleted profile's old facts are historical tree claims to investigate.
+**Check:** After restoring a profile, verify names, dates, relationships and sources on both surviving and restored profiles. In the 2023 John West reconstruction the author left the Fauquier County man’s disputed birthplace blank and documented his birth-year range separately [S17]. Record the evidence for each correction. An alert note can explain the distinction to collaborators.
 
 **Sources:** [S17](https://familylocket.com/?p=31567), [same-named wives case](https://www.youtube.com/watch?v=0tNC4c2HmQQ).
 
