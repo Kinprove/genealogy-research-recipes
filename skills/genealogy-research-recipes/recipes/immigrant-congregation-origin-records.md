@@ -58,14 +58,14 @@ Related recipes cover the surrounding steps:
 
 ## 2. Build a candidate congregation table, not a nearest-church guess
 
-Do not use distance to choose the congregation. Allen describes researchers who searched for hours in a Polish church a few doors from an Italian family's home. The family had worshipped about three miles away, in a church that used their language. [S5], [S6]
+Identify congregations that served the family’s language community, even beyond the immediate neighbourhood. Allen suggested checking an Italian-speaking church three miles away after a search of a Polish church three houses from an Italian family’s home [S5], [S6]. The account does not report a register hit. The Archdiocese of New York explains that national parishes served immigrants from a particular country in their own language [S8].
 
 For each place and date, list every congregation that could have served the family. For each one, record:
 
-- **Language or ethnic community served.** Ethnic or national parishes can be several miles from the household.
-- **Founding date.** The congregation must have existed before the event. Castillo narrowed a Manhattan search to two German-serving parishes, then to the only one founded early enough. [S4]
-- **Splits and offshoots, dated against the event.** Allen describes Polish members who attended a German church until a new congregation formed. The family could be in either set of registers, depending on the event date. [S5], [S6]
-- **Address fit.** Castillo's choice also matched the family's neighbourhood in the city directory. Use the address only after the language and date filters have narrowed the list. [S4]
+- **Language and community.** Include both territorial parishes and congregations formed for an immigrant community [S8].
+- **Founding date.** Check that each candidate existed on the event date. In Castillo’s Manhattan search, only one of two German-serving parishes had already opened [S4].
+- **Splits and offshoots.** Date the formation of the new congregation. Allen described Polish worshippers attending a German church before a separate congregation formed [S5], [S6]. Search the parent register for earlier events and check both sets around the transition.
+- **Address.** Compare the dated city-directory address with the area each remaining candidate served [S4].
 - **Custodian or successor**, filled in during step 5.
 
 **Catholic cases:** list the diocese's parishes and other Catholic institutions from the printed historical volumes of the *Official Catholic Directory*. The series began in 1817 as the *Laity's Directory to the Church Service*. It did not appear every year at first (1817, 1822, then from 1833), and the *Official Catholic Directory* title dates from 1912. No volume exists for 1818–1821 or 1823–1832, so for those years build the parish list from other diocesan sources. In her 2017 talk, Castillo said the printed volumes carry historical parish information that the online version lacks. [S4]
@@ -80,11 +80,11 @@ In each candidate congregation, search the immigrant and their relatives. Also s
 
 Search these register types:
 
-- **Baptisms of U.S.-born children.** These can give each parent's birthplace. Minert estimates that about 20% of baptism entries do so. [S2], [S3]
-- **Confirmations.** Minert's examples give the exact birth date and hometown. [S2], [S3]
-- **Marriages.** Read each entry for the bride's and groom's stated origins. That is the main thing to take from a marriage entry. Minert's 1875 example names both home towns or districts, which is enough to go to the German parishes, but it gives no birth dates or ages. Where an entry gives no age, estimate birth years from the marriage date, as Minert does, and label them estimated. [S2], [S3]
+- **Baptisms of U.S.-born children.** Read the parents’ birthplace fields, distinguishing each parent’s origin from the child’s birthplace [S2], [S3].
+- **Confirmations.** Copy the confirmand’s stated birthplace and birth date when given [S2], [S3].
+- **Marriages.** Copy the place given for each spouse and distinguish town, parish and district. Minert’s 1875 entry gave places for both spouses but no ages [S2], [S3]. Use those places for the next register search and label any inferred birth years as estimates.
 - **Membership or soul registers.** [S1]
-- **Deaths and burials.** Minert's 1882 example gives a birthplace and an age at death. Check each entry for a stated origin and age. Use any age only to calculate an estimated birth date, and label it as calculated. [S2], [S3]
+- **Deaths and burials.** Distinguish birthplace, death place, age and date of death. If you derive a birth date from the age at death, label it as calculated [S2], [S3].
 
 Set expectations by confession and period:
 
@@ -100,25 +100,21 @@ When the name index of a series volume misses, do not stop there:
 
 1. Open the table of contents at the place and congregation of known residence.
 2. Browse every entry, matching on the context from step 1 (given names, birth years, spouse, children).
-3. Expect index errors. Everett estimates the series is about 99.9% accurate, yet in his case study an "n" was read as "u", so the family's surname was missing from the index. Browse even when the index shows nothing. [S1]
+3. Test visually confusable letters against the given names, dates and relatives. In Everett’s example, an *n* had been indexed as *u*, so searching the expected surname missed the entry [S1].
 
 Next, find the heading of that congregation's section, which may be many pages earlier. Copy its U.S. place, county and state, and the source reference it gives for the original. Everett describes this reference as a FamilySearch film number or an Ancestry reference. At least one section instead cites a denominational archive microfilm (ELCA), so copy the reference as printed. [S1]
 
 Then inspect the original image for three things:
 
 - the correct spelling
-- details the abstract leaves out (Everett's original death entry added widowhood, a birth date, birthplace and residence details)
+- details absent from the abstract, such as marital status, exact birth date, birthplace and residence, keeping each in its own field
 - other entries for the same family [S1]
 
 Keep three locators separate and linked: the abstract page, the film, archive or Ancestry reference, and the image locator. For catalogue and film navigation, use [FamilySearch workflows](familysearch-practical-record-workflows.md) or [Ancestry search recovery](ancestry-record-search-recovery.md).
 
 ### Swedish-American membership entry to a Swedish parish search
 
-For a Swedish emigrant whose American surname does not recover a reliable origin,
-inspect the selected Swedish-American congregation's membership images for a birth
-parish and date. ArkivDigital's 2022 demonstration uses an American-name entry to
-obtain those two search anchors and then checks a Swedish household image [S7].
-The German abstract series described above is a separate finding aid.
+If the American surname gives no reliable Swedish origin, copy the stated birth parish and birth date from the Swedish-American congregation’s membership register. ArkivDigital’s 2022 demonstration used those fields to search for a Swedish household under the emigrant’s given name [S7]. Compare the household with the U.S. evidence before linking the people.
 
 1. Use the candidate congregation table to select the U.S. church and relevant years.
    Check which membership and other register volumes are actually available. The
@@ -152,8 +148,8 @@ ruling to the evidence workflow and keep missing origin-side records explicit.
 
 Everett says that some sections were abstracted from books held by a local church or church archive. For those sections, the original can only be seen at that local church or archive. If the section heading gives no film or Ancestry reference, request the original from its custodian. [S1]
 
-1. **Find the present-day successor.** Do not assume the historical name still exists. Minert describes an Illinois "German Evangelical Lutheran" church that is now Trinity Lutheran. He placed the renaming around World War I, possibly as early as 1900. [S3]
-2. **Check denominational archives and their microfilm.** Minert says the LCMS and ELCA archives let him copy congregation records. [S3]
+1. **Trace the name and affiliation through dated directories or congregational histories.** Minert described an Illinois German Evangelical Lutheran church that he located under the name Trinity Lutheran [S3 @2026-11-19]. Keep the renaming date open until you find a dated record.
+2. **Check denominational holdings.** For a Lutheran Church—Missouri Synod congregation, use Concordia Historical Institute’s guide to church records and historical annuals [S9 @2026-11-19]. For an Evangelical Lutheran Church in America predecessor, use the ELCA regional directory to identify the archive serving the relevant synod and years [S10 @2026-11-19]. Ask which registers or microfilms it holds and what copying is permitted.
 3. **Contact the congregation directly.** Ask whether its books are digitised and whether staff can search for a specific entry. [S3]
 4. **Log each request:** the custodian asked, the date, what was requested, and the answer.
 
