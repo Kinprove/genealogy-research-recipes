@@ -791,7 +791,7 @@ records fail CI. Source IDs and numbering gaps are preserved, including unresolv
 | [french-departmental-record-routing](provenance/french-departmental-record-routing.yml) | 44 | 29 | 3 | — |
 | [ftdna-practical-dna-workflows](provenance/ftdna-practical-dna-workflows.yml) | 25 | 31 | 7 | — |
 | [ftm-research-workflows](provenance/ftm-research-workflows.yml) | 0 | 0 | 0 | — |
-| [galicia-bukovina-habsburg-record-routing](provenance/galicia-bukovina-habsburg-record-routing.yml) | 50 | 11 | 1 | — |
+| [galicia-bukovina-habsburg-record-routing](provenance/galicia-bukovina-habsburg-record-routing.yml) | 44 | 10 | 1 | — |
 | [gedcom-research-export](provenance/gedcom-research-export.yml) | 8 | 7 | 0 | — |
 | [gedmatch-practical-dna-workflows](provenance/gedmatch-practical-dna-workflows.yml) | 18 | 14 | 7 | — |
 | [genealogical-numbering-systems](provenance/genealogical-numbering-systems.yml) | 0 | 0 | 0 | — |
