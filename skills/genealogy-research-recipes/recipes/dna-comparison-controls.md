@@ -171,14 +171,7 @@ kits as unresolved variation for this pair. A
 [converted-upload discrepancy report](https://forum.molgen.org/index.php/topic,10423.0.html)
 motivate this step. Neither shows which value is correct or establishes the cause. [H18, H19]
 
-Before reading a new parent- or sibling-level match as a newly found relative, rule out the
-tester's own second test or upload. Estes reports one tester who took herself for a parent after
-uploading another company's file and forgetting an earlier test, and another who took one
-person's uploads from two companies for two sisters [H32 @2026-11-12]. GEDmatch flags a re-upload of identical
-DNA as a duplicate but accepts one person's kits from different companies [H33 @2026-11-12]. A self-match
-can show a parent-sized total; identity state separates them, because a self-match or an
-identical twin is fully identical almost throughout, while a parent is half-identical. Compare
-names, kit managers and kit histories before recording a relationship.
+Before assigning a parent or sibling, compare tester names, managers, original vendors and prior uploads. Estes reports that a tester’s earlier test appeared to be a parent match and that one person’s two vendor uploads appeared to be two sisters [H32 @2026-11-12]. GEDmatch flags an identical upload, but accepts two vendors’ kits for the same tester [H33 @2026-11-12]. Where identity-state data are available, a self-match or identical twin should be fully identical across almost all comparable autosomal regions. A parent and child typically share one copy across those regions. Resolve the kit identities before recording the relationship.
 
 For degraded, forensic, artifact or heirloom-derived kits, record the reported call rate or
 processing status with each result, and treat segment count, endpoints and total cM as
@@ -209,19 +202,7 @@ from the derivation or the source data; report the control as unavailable. The
 They give no thresholds, liftover error rate or measured loss, and the symptoms do not identify a
 cause. [H14, H15, H16, H17]
 
-Treat a MyHeritage raw file from whole-genome sequencing as imputed, not as read genotypes.
-MyHeritage sequences at low pass with 2x coverage, each position read twice on average, and
-reconstructs the rest by imputation [H36 @2026-11-14], [H37 @2026-11-14]. New samples have been
-processed this way since January 2026; the raw file's header shows whether a kit was, and a CRAM
-file holds the sequence data [H38 @2026-11-14]. The raw autosomal file is a chip-style file
-generated from that data. At a mean of 2 reads, about 13.5% of positions get no read and 27.1%
-one read, and two reads see the same allele half the time [H40 @2026-11-14]; low depth leaves few
-reads spanning both alleles of a heterozygous site [H41 @2026-11-14]. Before the switch Kessler expected half
-the heterozygous sites to go unseen [H39 @2026-11-14]; his own file then had no no-calls and agreed
-with his earlier chip file at 99.25% of 584,174 shared SNPs, which he could explain only by
-imputation [H40 @2026-11-14]. So many calls, heterozygous ones above all, are inferred: do not use
-single calls from that file for SNP-level phasing, a genotype-conflict check or a health claim, and
-do not read its lack of no-calls as full coverage in the summary check above.
+Check whether the MyHeritage raw-file header identifies a chip or a whole-genome sequencing kit. MyHeritage reports using 2× mean sequencing depth with imputation [H36 @2026-11-14], [H37 @2026-11-14], and offers the standard genotype file and a separate CRAM for WGS kits, including new samples processed from January 2026 [H38 @2026-11-14]. A mean of two reads leaves some sites unread and others with only one read. Even at a heterozygous site, two independent reads can sample the same allele [H39 @2026-11-14], [H41 @2026-11-14]. In one kit, Kessler found no no-calls in the autosomal export and 99.25% agreement with his earlier chip among 584,174 shared SNPs [H40 @2026-11-14]. That is a comparison of one tester’s files. A filled-in genotype alone cannot establish which alleles were read at that site. Before using a genotype conflict for phasing, verify the locus independently. Keep imputed calls out of health conclusions and report the observed comparison coverage.
 
 ## Reconcile rows before interpreting totals
 

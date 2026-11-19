@@ -150,7 +150,7 @@ Candidate detection is heuristic; uncited factual claims can still require edito
 | `dar-ancestor-record-interpretation-and-correction#C-15a1d381dab9` | custody | 2026-11-18 | 2027-05-17 | S12, S7 |
 | `dna-comparison-controls#C-a6c6a5c55901` | platform-ui | 2026-11-12 | 2027-05-11 | H29, H30, H31 |
 | `dna-comparison-controls#C-7e99f9a644d0` | platform-ui | 2026-11-12 | 2027-05-11 | H32, H33 |
-| `dna-comparison-controls#C-23e9d0dede66` | platform-ui | 2026-11-14 | 2027-05-13 | H36, H37, H38, H40, H41, H39 |
+| `dna-comparison-controls#C-23e9d0dede66` | platform-ui | 2026-11-14 | 2027-05-13 | H36, H37, H38, H39, H41, H40 |
 | `dnapainter-practical-dna-workflows#C-e41d8cd693ba` | platform-ui | 2026-11-12 | 2027-05-11 | S35, H10, H12 |
 | `dnapainter-practical-dna-workflows#C-3b4a9c768b87` | platform-ui | 2026-11-12 | 2027-05-11 | H9, S10, S29 |
 | `dnapainter-practical-dna-workflows#C-c6fa6c413978` | platform-ui | 2026-11-12 | 2027-05-11 | H15, S34, S33 |
