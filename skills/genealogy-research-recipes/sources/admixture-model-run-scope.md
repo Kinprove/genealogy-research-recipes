@@ -1,6 +1,6 @@
 ## Sources
 
-All sources are threads on the GenArchivist Forum. Where a thread start date is not shown, that is stated.
+Sources S1–S25 are threads on the GenArchivist Forum. Where a thread start date is not shown, that is stated.
 
 - **S1:** [Excessive Yemeni/Peninsular Arab DNA in fully NW European?](https://genarchivist.net/showthread.php?tid=2476), started 2026-03-31. Used for: the penalty-and-removal sequence with distances at each stage, the regional-only fit, and an offer to check for drift on a PCA plot. Captured forum text read 2026-11-19.
 - **S2:** [G25 Calculator - Modern K99](https://genarchivist.net/showthread.php?tid=2463), started 2026-03-24. Used for: labels built by clustering, combined label names, fixed-range components, removing populations that cause overfitting, and one participant's distance rule of thumb. Captured forum text read 2026-11-19.
@@ -51,8 +51,17 @@ All participants are hobbyists posting their own runs. Several of these threads 
 
 - **S27:** [ADMIXTOOLS 2, qpadm function reference](https://uqrmaie1.github.io/admixtools/reference/qpadm.html). Documentation read 2026-11-19. Used for the model weights, standard errors and rank-drop test output.
 
+- **S28:** Erica Edvi, [Introducing Ancient Origins: Trace Your Origins Back 10,000 Years](https://blog.myheritage.com/2025/02/introducing-ancient-origins-trace-your-origins-back-10000-years/), 2025-02-19. MyHeritage community-source blog post. Reviewed public launch post read 2026-11-20. Used for the coordinate method and partner handoff, origin-tailored Breakdown, era and fit controls, original report names and map scope. Current report placement follows S29 and S31.
+
+- **S29:** MyHeritage Help Center, [What type of results will I get with Ancient Origins?](https://www.myheritage.com/help/en/articles/12852605-what-type-of-results-will-i-get-with-ancient-origins), dated 2026-07-21. Reviewed public help page read 2026-11-20. Used for the vector and its recipient, the recommended origin choice, the model and era controls, Genetic Fit, report scope and map regions. The check used public documentation without opening a DNA kit.
+
+- **S30:** MyHeritage Help Center, [What is Ancient Origins?](https://www.myheritage.com/help/en/articles/12870037-what-is-ancient-origins), dated 2026-07-21. Reviewed public help page read 2026-11-20. Used for the consent prompt and the recommendation to choose one represented origin, including when to use Global.
+
+- **S31:** Daniella Levy, [New in Ancient Origins: Discover Your Connection to Notable Individuals from History](https://blog.myheritage.com/2026/05/new-in-ancient-origins-discover-your-connection-to-notable-individuals-from-history/), 2026-05-24. Reviewed public product update read 2026-11-20. Used for the move from Genetic Similarities' Single origin view to Closest Populations and the continued placement of the dual- and triple-origin views.
+
 ## Credits
 
+- MyHeritage Blog and Help Center, S28–S31 — Paraphrase with attribution (adapted)
 - Classic ADMIXTOOLS and ADMIXTOOLS 2 documentation, S26–S27 — Paraphrase with attribution (adapted)
 - GenArchivist Forum thread presenting a curated G25 averages collection — No license stated by the forum post; short quotation of reference label tags (quoted)
 - GenArchivist Forum thread on personal qpAdm modelling with consumer raw data — No license stated by the forum post; short quotation of file and log strings (quoted)

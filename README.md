@@ -158,7 +158,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | Recipe | Browse | Local script | Extensions | Data transfer | Contact | Privacy gate |
 | --- | --- | --- | --- | --- | --- | --- |
 | [23andme-match-research](skills/genealogy-research-recipes/recipes/23andme-match-research.md) | 23andme, dna-painter | — | Genea browser extension (optional) | export, link, third-party-tool, upload | contact | required |
-| [admixture-model-run-scope](skills/genealogy-research-recipes/recipes/admixture-model-run-scope.md) | — | — | — | — | — | — |
+| [admixture-model-run-scope](skills/genealogy-research-recipes/recipes/admixture-model-run-scope.md) | — | — | — | third-party-tool | — | required |
 | [agent-research-project](skills/genealogy-research-recipes/recipes/agent-research-project.md) | — | — | — | publish, third-party-tool, upload | — | required |
 | [ai-for-dna-research](skills/genealogy-research-recipes/recipes/ai-for-dna-research.md) | — | — | — | export, third-party-tool | contact | required |
 | [ai-for-documentary-records](skills/genealogy-research-recipes/recipes/ai-for-documentary-records.md) | — | generated plotting script | — | export, publish, third-party-tool | — | required |
