@@ -308,7 +308,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [spanish-civil-parish-record-routing](skills/genealogy-research-recipes/recipes/spanish-civil-parish-record-routing.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [state-archives-county-records-guides](skills/genealogy-research-recipes/recipes/state-archives-county-records-guides.md) | state archives county guides, catalogues and finding aids, FamilySearch catalogue | — | — | — | — | — |
 | [state-legislative-private-act-petitions](skills/genealogy-research-recipes/recipes/state-legislative-private-act-petitions.md) | record catalogues and original images | — | — | request | — | required |
-| [surname-distribution-locality-leads](skills/genealogy-research-recipes/recipes/surname-distribution-locality-leads.md) | record catalogues and original images | — | — | — | — | — |
+| [surname-distribution-locality-leads](skills/genealogy-research-recipes/recipes/surname-distribution-locality-leads.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [swedish-military-record-routing](skills/genealogy-research-recipes/recipes/swedish-military-record-routing.md) | record catalogues and original images | — | — | — | — | — |
 | [tax-roll-observation-workflow](skills/genealogy-research-recipes/recipes/tax-roll-observation-workflow.md) | record catalogues and original images | — | — | — | — | — |
 | [uk-census-and-1939-register-interpretation](skills/genealogy-research-recipes/recipes/uk-census-and-1939-register-interpretation.md) | record catalogues and original images | — | — | request | — | required |

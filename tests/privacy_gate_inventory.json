@@ -3292,5 +3292,17 @@
   "kind": "request",
   "action": "For a certified 1954–1970 copy, use the health department",
   "checkpoint": "Before sending an Ohio death-copy request,"
+ },
+ {
+  "recipe": "surname-distribution-locality-leads.md",
+  "kind": "third-party-tool",
+  "action": "Ask the user to run the Mapa Nazwisk lookup manually",
+  "checkpoint": "The research subject's surname alone goes to Mapa Nazwisk"
+ },
+ {
+  "recipe": "surname-distribution-locality-leads.md",
+  "kind": "third-party-tool",
+  "action": "Look up the surname in Nazwiska polskie",
+  "checkpoint": "The research subject's surname alone goes to Nazwiska polskie"
  }
 ]
