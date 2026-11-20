@@ -10,7 +10,7 @@ guardrails: [{"id": "MYHERITAGE-PROFILE-HINT-EXTRACTION-01", "text": "Decide whi
 handoff: ["myheritage-historical-record-search", "evidence-proof-judgment"]
 checked: "2026-11-18"
 checked_basis: "Read 2026-11-18"
-capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["link", "publish"], "contact": []}
+capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["link", "publish"], "contact": ["contact"]}
 router: {"section": "Research method", "group": "Family trees and research planning", "order": 18}
 ---
 
@@ -21,6 +21,12 @@ Use this recipe from a MyHeritage tree profile with a Hint that may supply facts
 ## Read beyond the highlighted hint
 
 Open the person’s **Profile**, open the **Hint** and choose **Review** on the relevant source card. Scroll through the side-by-side comparison and open the underlying source where available. Review fields beyond the yellow highlighting. Check whether the source concerns the same person. [S1 @2026-11-18]
+
+When tracing an emigrant branch from a Smart Match, open the matching tree if you have access. Find a relative you can already place in your own tree and follow the relationships from that person toward the emigrant branch. [S3 @2026-11-20] Check the tree even when the match adds no facts about the matched person. If you cannot open the tree, inspect the Smart Match’s close-family comparison for leads. [S4 @2026-11-20] Verify each relationship before copying it.
+
+**Privacy gate:** <!-- privacy-gate: contact --> The message shares the sender’s identity and the names or relationships needed for the question with the matching site manager through MyHeritage. Apply the [privacy gate](../SKILL.md#privacy-gate) and the [Living people contact rules](../SKILL.md#living-people) before sending.
+
+If a relationship on the branch needs clarification, open the person’s Smart Matches list. Click or hover on the matching site manager’s name and choose **Contact** if available in your account. Ask the manager which source supports the relationship. [S5 @2026-11-20]
 
 ## Select values and relationships individually
 
