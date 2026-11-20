@@ -75,11 +75,17 @@ In Register format each child in a family's list has a lowercase Roman numeral f
 
 The Just Genealogy presenter reports the identification number as the pointer to the entry carried forward elsewhere in the publication, and numbering only the people carried forward as the key to the format [S1†].
 
+To count the progenitor and listed descendants, tally the progenitor and every child in the family lists, including children with only a Roman numeral. Use the matching Arabic identification number to count a child listed both under a parent and in a full entry only once. [S4]
+
 ## 5. NGSQ: decide continuation by the plus sign
 
 The NGSQ system, also called the Record or Modified Register system, gives every child an Arabic number whether or not the child is known to have progeny. [S2], [S8] A plus sign before a child's number marks a child with a fuller entry further on. [S3] So decide continuation by the plus sign, never by the presence of a number. For a child without a plus sign, the parent's child list is the whole treatment; do not search the genealogy for a later entry.
 
 The Just Genealogy presenter reports that NGSQ numbering gives everybody a number and that the plus sign determines who moves forward [S1†].
+
+Use the highest Arabic identification number as the count of the progenitor and numbered descendants, a shortcut reported in the community video [S9†], only after checking that the complete genealogy assigns one ID per person in a single, gap-free sequence from 1 [S10 p. ii]. Tally unnumbered spouses and other people separately if the question includes them.
+
+If the sequence has gaps, suffixes or restarts, tally the numbered people directly and count repeated entries for the same person once. In the NGSQ-style Baker genealogy, added people received letter suffixes and removed people left gaps in the sequence [S11 p. xvii]. If you have only part of the genealogy, give the count for the pages you have.
 
 ## 6. Split given names from surname at the generation superscript
 
