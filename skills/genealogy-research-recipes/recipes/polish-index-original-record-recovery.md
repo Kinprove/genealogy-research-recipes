@@ -78,6 +78,12 @@ Genealogiczne lists (1918–1920 soldier lists and the 1926 Polish declaration f
 States); it does not search the regional projects. Log each project searched and its coverage for
 the parish before you record NIL. [O5], [O6], [O7], [O8], [O9], [O10], [O11], [O12], [O13]
 
+For a BaSIA hit, follow its scan link when supplied and keep the archival reference
+from the hit. [P21 @2026-11-20], [O21 @2026-11-20] If the link is missing or broken,
+or the surname search comes up empty, look up the register locality in BaSIA's
+**Mapa jednostek do indeksacji**. Open the matching unit by its *sygnatura* (archival
+reference) to reach its scans in Szukaj w Archiwach. [O22 @2026-11-20]
+
 For Volhynia, also search wolyn-metryki.pl. AGAD's leaflet on metrical books names it, with Geneteka
 and a printed index of persons from the parish records of the Lutsk diocese, as an aid to searching.
 [O19 @2026-11-15] Its English page says it is built from microfilms of 19th-century Roman Catholic
@@ -127,6 +133,12 @@ fields. Its descriptions can identify locality, confession, years, record type a
 the supplied reference code into the archival fonds, then open **List of files**. The official
 instructions say that the file list shows available units and scan counts. [O1]
 
+For a map, photograph or technical drawing named in an archival lead, use Szukaj w Archiwach's
+main search and select **Mapy**, **Fotografie** or **Projekty techniczne** under the document-type
+filters. [P21 @2026-11-20], [O23 @2026-11-20] If the vital-record search or scan viewer stalls,
+open **Filmy instruktażowe**. Choose **Wyszukiwarka akt metrykalnych** for the vital-record search
+or **Jak korzystać ze skanów na Szukaj w Archiwach** for the scan viewer. [O24 @2026-11-20]
+
 For the Akta Stanu Cywilnego (ASC, the civil-status registers kept by each confession) that AP
 Katowice describes, the duplicates went to the competent local courts from the early nineteenth
 century, and the state archive now holds them. [O14] Record which copy an
@@ -160,6 +172,12 @@ metrical books, as in the former Russian western provinces, do not expect an ale
 When Metryki covers the relevant register, the demonstrated route is region → parish → available
 years/record type → scans. The tutorial follows those choices into a register image; this is
 a second retrieval route, not a promise that every Polish parish is included. [P2]
+
+If a Geneteka hit has no working **SKAN** link, carry its year or volume into Skanoteka.
+[P21 @2026-11-20] Use **Szukaj** with the parish or registry office that created the
+register, or choose **przeglądaj archiwa** if you know the holding archive. [O25 @2026-11-20]
+In the matching fonds, choose the unit that covers the indexed year or volume and event type
+before looking for the act in its scans. [O26 @2026-11-20]
 
 Match the original's event, year, act and participants to the index lead. Preserve material
 differences between the index and the image, including an uncertain name or date. Use the

@@ -169,6 +169,14 @@ searches for one family.
 
 - **C3:** J-Roots Forum, [Архивы Польши, post 21](https://forum.j-roots.info/viewtopic.php?t=470&start=20). Captured forum discussion read 2026-11-19. A respondent identified the AGAD inventory of eastern-territory registers after initially assuming a Warsaw parish. Rights: cited reference, not reproduced.
 
+- **P21:** Lisa A. Alzo, Family Tree Magazine, [A Guide to Polish Genealogy Research](https://familytreemagazine.com/heritage/polish/a-guide-to-polish-genealogy-research/), marked updated 2026-10-30, read 2026-11-20. Alzo points to the State Archives portal's search videos and to BaSIA's links to scans. She suggests taking a year or volume from a Geneteka hit to the Skanoteka catalogue linked in O25. Used for these routes. The scan and index totals were outside this review.
+- **O21:** BaSIA, [Regulamin serwisu BaSIA](https://www.basia.famula.pl/pl/regulamin), read 2026-11-20. Sections 4 and 7 describe the source reference and external scan links, including links to Szukaj w Archiwach.
+- **O22:** BaSIA, [Mapa jednostek do indeksacji](https://www.basia.famula.pl/pl/skany), read 2026-11-20. The map instructions describe finding units by locality and following a register's archival reference to its scans in Szukaj w Archiwach. The list includes units awaiting indexing.
+- **O23:** Szukaj w Archiwach, [Polish home page](https://www.szukajwarchiwach.gov.pl/), read 2026-11-20. The main search lists distinct document-type filters for maps, photographs and technical projects alongside a separate vital-record search.
+- **O24:** Szukaj w Archiwach, [Filmy instruktażowe](https://www.szukajwarchiwach.gov.pl/filmy-instruktazowe), read 2026-11-20. The index lists separate videos for the vital-record search and using scans. Review covered the index and its titles. Playback was unverified.
+- **O25:** Polskie Towarzystwo Genealogiczne, [Skanoteka catalogue](https://skanoteka.genealodzy.pl/), read 2026-11-20. The start page provides a search field and archive browsing and lists fonds by archive, number and title.
+- **O26:** Polskie Towarzystwo Genealogiczne, Skanoteka, [Goźlice Roman Catholic civil-status fonds](https://skanoteka.genealodzy.pl/id235), read 2026-11-20. The fonds page shows the unit list with year, description and file count, and links into the units. Review covered the listing.
+
 ## Credits
 
 - Archiwum Główne Akt Dawnych (O20) — Place-index introduction and finding-aid example paraphrased (adapted)
@@ -178,3 +186,5 @@ searches for one family.
 - Wiktionary entry cited as P14 — CC BY-SA 4.0; paraphrase (adapted)
 - Post on the Dzen channel «История одной семьи. Юлия Новожилова», cited as P20 — Copyright of its author; short paraphrase (adapted)
 - The wolyn-metryki.pl English page and AGAD's leaflet, cited as O18 and O19 — Copyright of their publishers; paraphrase (adapted)
+- Lisa A. Alzo, Family Tree Magazine (P21) — Copyright of the publisher; retrieval advice paraphrased (adapted)
+- BaSIA (O21–O22), Szukaj w Archiwach (O23–O24) and Polskie Towarzystwo Genealogiczne (O25–O26) — Cited for their own service instructions and catalogue labels (adapted)
