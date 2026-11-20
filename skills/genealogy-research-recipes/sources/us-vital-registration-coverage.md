@@ -66,6 +66,70 @@ Not verified:
 
 - **S38:** Oklahoma State Department of Health, [OK2Explore death search](https://ok2explore.health.ok.gov/app/deathsearch). Search form and exact-match and wildcard instructions read 2026-11-19.
 
+- **S39:** Nancy Hendrickson, Family Tree Magazine, [California Genealogy Research Guide](https://familytreemagazine.com/us/california-genealogy-research-guide/), 2025-09-05. Matching Vital Records text read in the March/April 2021 print edition on 2026-11-20. Community guide to county and state records, partial death indexes, informational copies and the San Francisco fire. The linked online article showed the same relevant passages in the search index but returned 403 when opened. The independent sources supply corrected date, coverage and request scopes.
+
+- **S40:** California State Archives, [Frequently Asked Questions](https://www.sos.ca.gov/archives/faq). Vital-record guidance read 2026-11-20. County recorder route before July 1905, CDPH statewide filing and county service for known event places.
+
+- **S41:** FamilySearch, [California, County Birth and Death Records, 1800–1994](https://www.familysearch.org/en/search/collection/2001287). Collection description and browse information read 2026-11-20. County records and images, missing counties, and limited localities covered by the death name index.
+
+- **S42:** FamilySearch, [California, Deaths and Burials, 1776–2000](https://www.familysearch.org/en/search/collection/3518938). Collection description and coverage notes read 2026-11-20. Partial index drawn from multiple sources. Its title dates are collection bounds.
+
+- **S43:** Archives.com, [California Death Index, 1905–1939](https://www.archives.com/collections?Collection=927). Collection description read 2026-11-20. Specific statewide death index, including county and death date. The entry does not establish coverage after 1939.
+
+- **S44:** California Genealogical Society, [California Research Tips](https://www.californiaancestors.org/ca-research-tips/). San Francisco vital, cemetery and mortuary holdings read 2026-11-20. The society lists its surviving death-ledger film by date span and describes the loss of records in the April 1906 earthquake and fire, newspaper coverage and other surviving holdings.
+
+- **S45:** California Department of Public Health, [How to Obtain a Certified Copy of a Birth Record](https://www.cdph.ca.gov/CDPH%20Document%20Library/ControlledForms/vs111.pdf). Birth application VS 111 and mailing instructions read 2026-11-20. Informational copy option and fields sent with the mailed application. Online informational ordering was not used to establish a request route.
+
+- **S46:** California Department of Public Health, [How to Obtain a Certified Copy of a Death Record](https://www.cdph.ca.gov/CDPH%20Document%20Library/ControlledForms/VS112.pdf). Death application VS 112 and mailing instructions read 2026-11-20. Informational copy option and mailed request.
+
+- **S47:** Shelley K. Bishop, Family Tree Magazine, [Ohio Genealogy Research Guide](https://familytreemagazine.com/us/ohio-genealogy-research-guide/), 2025-09-08. Vital Records section read 2026-11-20. Community guide to county and state series, online access and requests. S48–S56 supply the checked routes, index dates, transfer discretion and access exceptions. The Ancestry collection link could not be opened.
+
+- **S48:** Ohio History Connection, [Vital Records: Birth Records](https://ohiohistory.libguides.com/vital/birthrecords). Birth-record coverage, access routes and research tips read 2026-11-20. County ledger dates, reporting gaps, incomplete indexing, and state and local certificate access.
+
+- **S49:** Ohio History Connection, [Vital Records: Death Records](https://ohiohistory.libguides.com/vital/death). Death-record coverage and access routes read 2026-11-20. County ledger dates and gaps, state collection holdings, archive microfilm through 1953, and the on-site digital route for 1954–1970 effective July 2026.
+
+- **S50:** FamilySearch, [Ohio, County Births, 1841–2003](https://www.familysearch.org/en/search/collection/1932106). Collection description and image-browse information read 2026-11-20. Separate county birth collection and available image waypoints.
+
+- **S51:** FamilySearch, [Ohio, County Death Records, 1840–2001](https://www.familysearch.org/en/search/collection/2128172?collectionNameFilter=true). Collection description and image-browse information read 2026-11-20. County death records and browsable registers. Some indexed records have no published image.
+
+- **S52:** FamilySearch, [Ohio, Deaths, 1908–1953](https://www.familysearch.org/en/search/collection/1307272?collectionNameFilter=true). State death certificate collection description read 2026-11-20. Separate state certificate index and images.
+
+- **S53:** Ohio History Connection, [Ohio Death Record Index Search](https://resources.ohiohistory.org/death/). Index scope and search instructions read 2026-11-20. The main state death index covers 1913–1944 and 1954–1970. Index coverage is distinct from archive holdings and copy access.
+
+- **S54:** Ohio Laws and Administrative Rules, [Ohio Administrative Code rule 3701-5-11](https://codes.ohio.gov/ohio-administrative-code/rule-3701-5-11). Preservation and transfer rule read 2026-11-20. Discretionary transfer after the specified periods. The rule supplies no schedule of transfers actually made.
+
+- **S55:** Ohio Laws and Administrative Rules, [Ohio Revised Code section 3705.23](https://codes.ohio.gov/ohio-revised-code/section-3705.23). Certified-copy provisions and exceptions read 2026-11-20. Public vital-record copies, health-use fields, and Social Security number restrictions.
+
+- **S56:** National Center for Health Statistics, [Where to Write for Vital Records: Ohio](https://www.cdc.gov/nchs/w2w/Ohio.htm). Ohio birth and death ordering guidance read 2026-11-20. State births from 20 December 1908 and state office death copies from 1971.
+
+- **S57:** Esther Shuman, MyHeritage Blog, [MyHeritage Adds 66 Million Historical Records in May 2026](https://blog.myheritage.com/2026/06/myheritage-adds-66-million-historical-records-in-may-2026/), 2026-06-07. California, Illinois and New York collection descriptions read 2026-11-20. Community source for the three collections. The Illinois collection page returned no usable description. Its dates are attributed as an announcement and the FamilySearch scope is checked separately.
+
+- **S58:** MyHeritage, [California, County Death Registers, 1873–1994](https://www.myheritage.com/research/collection-21036/california-county-death-registers-1873-1994). Collection description read 2026-11-20. Collection date range, names, birth details and parent fields.
+
+- **S59:** FamilySearch, [Illinois, Deaths and Stillbirths, 1916–1948](https://www.familysearch.org/en/search/collection/1438856). Collection description and scope note read 2026-11-20. The searchable name index is described as covering 1916–1947 despite the collection heading.
+
+- **S60:** MyHeritage, [New York State Deaths, 1880–2017](https://www.myheritage.com/research/collection-10701/new-york-state-deaths-1880-2017). Collection page and description read 2026-11-20. Collection date range and New York State death index. S61 describes the fields released in the underlying state data.
+
+- **S61:** Reclaim The Records, [The FULL New York State Death Index, 1880–2017](https://www.reclaimtherecords.org/records-request/32/). Dataset release description read 2026-11-20. Death date, residence at death and associated state file number are in the disclosed fields.
+
+- **S62:** Just Genealogy / Craig R. Scott, [Genealogy Pastime and Profession - Chapter Twelve - Source Material](https://www.youtube.com/watch?v=5Gx_gZfVHE4), 2024-08-13. Supplied transcript excerpts and indexed video description inspected 2026-11-20. Reading from Donald Lines Jacobus on Connecticut town records, their copies, postwar gaps and baptism as a fallback. The video did not open. S63–S66 establish the checked Connecticut scope. The broader New England chronology and a Connecticut marriage-law date were not used.
+
+- **S63:** Connecticut State Library, [Genealogy Indexes: Barbour Collection](https://libguides.ctstatelibrary.org/c.php?g=211782&p=11144249). Barbour Collection description and source-fidelity notes read 2026-11-20. Most towns through about 1850, surname slips and town volumes, references to record volume and page, normalized surnames and slips derived from publications.
+
+- **S64:** Connecticut State Library, [Vital Records by Town](https://libguides.ctstatelibrary.org/c.php?g=1484014&p=11065598). Town finding-aid overview read 2026-11-20. Town-by-town vital-record holdings and links to church, cemetery and other local sources.
+
+- **S65:** Hayner Genealogy & Local History Library, [Connecticut Genealogy Research](https://www.haynerlibrary.org/wp-content/uploads/2024/11/Connecticut-Genealogy-Research.pdf). Town Clerk and State Vital Records section read 2026-11-20. Connecticut town clerks did not always record vital events after the Revolutionary War.
+
+- **S66:** Connecticut State Library, [CT State Archives Record Group 072: Vital Records circa 1850–1900](https://libguides.ctstatelibrary.org/c.php?g=1414714). Collection description read 2026-11-20. Birth and death certificates and other material from various towns in this separate collection.
+
+- **S67:** Just Genealogy / Craig R. Scott, [The Genealogical Proof Standard: Element 4, Resolving Conflict - JG0195](https://www.youtube.com/watch?v=RymRlIhHj6M), 2022-09-20. Supplied transcript excerpt and indexed video description inspected 2026-11-20. The presenter recounts a New York birth inquiry that located a child with a different given name under the same birth date and parents. The video did not open and the individual record was not inspected. S68 and S69 support the broader search and the request fields.
+
+- **S68:** New York City Municipal Archives, [How to Research the Vital Records Collection](https://www.archives.nyc/blog/2021/5/20/how-to-research-the-vital-records-collection). Birth-index research guidance read 2026-11-20. Broaden birth-index terms when the recorded given name differs from the one expected.
+
+- **S69:** New York State Department of Health, hosted by the Village of Nyack, [Genealogy Services: General Information and Application](https://www.nyack.gov/media/Clerk/Genealogy%20Services%20Application.pdf). Birth lookup fields in the agency form read 2026-11-20. Birth date and parents are among the fields a researcher can supply to assist a search.
+
+- **S70:** Connecticut Department of Public Health, [1998 Connecticut Registration Report](https://portal.ct.gov/dph/-/media/departments-and-agencies/dph/vital-statistics/registration-reports/reports/rr1998pdf.pdf?hash=ED8D31164C596C6265911867A4DEFC4C&rev=fa4c08a3b7134def8b5427d443523e32). Introduction on the history of vital statistics read 2026-11-20. The statewide statistical series begins with the 1848 report. This dates aggregate reporting and leaves town entry coverage to the town series.
+
 ## Credits
 
 - Kinprove original procedural synthesis; presenter examples are cited as S1 to S10 and S14 and dates were checked against named archival and vital-records authorities, including the Pennsylvania State Archives municipal records inventory — FSL-1.1-MIT (kinprove-original)
@@ -74,3 +138,7 @@ Not verified:
 - Kinprove original source-scoped additions from the practitioner and institutional references cited as S22 to S26; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
 - Esther Shuman and MyHeritage Blog, community posts cited as S27 and S32 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove procedural synthesis from the custodian, statute, catalog and index sources cited as S28 to S31 and S33 to S35 — FSL-1.1-MIT (kinprove-original)
+- Nancy Hendrickson and Shelley K. Bishop, Family Tree Magazine state guides cited as S39 and S47 — Third-party articles, paraphrased with attribution (adapted)
+- Esther Shuman, MyHeritage Blog collection roundup cited as S57 — Third-party article, paraphrased with attribution (adapted)
+- Donald Lines Jacobus as read by Craig R. Scott, and Craig R. Scott's presentation, cited as S62 and S67 — Third-party works, paraphrased with attribution (adapted)
+- Kinprove procedural synthesis from the catalogues, custodians and record-access authorities cited as S40 to S46, S48 to S56, S58 to S61, S63 to S66 and S68 to S70 — FSL-1.1-MIT (kinprove-original)

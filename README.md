@@ -327,7 +327,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [us-obituary-search-and-interpretation](skills/genealogy-research-recipes/recipes/us-obituary-search-and-interpretation.md) | newspaper archives, obituary indexes and original page images | — | — | third-party-tool | contact | required |
 | [us-period-law-record-reading](skills/genealogy-research-recipes/recipes/us-period-law-record-reading.md) | record catalogues and original images | — | — | — | — | — |
 | [us-tribal-enrollment-record-recovery](skills/genealogy-research-recipes/recipes/us-tribal-enrollment-record-recovery.md) | record catalogues and original images | — | — | request | — | required |
-| [us-vital-registration-coverage](skills/genealogy-research-recipes/recipes/us-vital-registration-coverage.md) | record catalogues and original images | — | — | — | — | — |
+| [us-vital-registration-coverage](skills/genealogy-research-recipes/recipes/us-vital-registration-coverage.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [usa-immigration-search-recovery](skills/genealogy-research-recipes/recipes/usa-immigration-search-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [virginia-revolutionary-public-service-claims](skills/genealogy-research-recipes/recipes/virginia-revolutionary-public-service-claims.md) | record catalogues and original images | — | — | — | contact | required |
 | [wikitree-dna-tester-links](skills/genealogy-research-recipes/recipes/wikitree-dna-tester-links.md) | wikitree, familytreedna | — | — | link | — | required |
