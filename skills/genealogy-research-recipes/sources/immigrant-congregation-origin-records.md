@@ -17,9 +17,21 @@
 
 - **S10:** [Evangelical Lutheran Church in America, ELCA Regional Archives](https://cdn.elca.org/cdn/wp-content/uploads/ELCA_Regional_Archives.pdf). Institutional publication read 2026-11-19. Identifies regional holdings and predecessor synods, including Congregational and Swedish Lutheran material at named repositories.
 
+- **S11:** Lisa A. Alzo, Family Tree Magazine, [A Guide to Polish Genealogy Research](https://familytreemagazine.com/heritage/polish/a-guide-to-polish-genealogy-research/). Community article read 2026-11-20. Alzo suggests looking for origins in the marriage and baptism entries of U.S. Polish Catholic parishes when U.S. vital records name only a country or region.
+
+- **S12:** Julie Roberts Szczepankiewicz, [Grandma Said She Was from Poznań: An Introduction to Polish Genealogy](https://cms-z-assets.familysearch.org/d3/aa/576aa0c9044d130c33d497fa8d3e/grandma-said-she-was-from-poznan-rootstech-syllabus.pdf), RootsTech syllabus. Conference syllabus read 2026-11-20. Lists records of ethnic Polish parishes among the principal sources for locating a Polish immigrant’s place of origin.
+
+- **S13:** MyHeritage Blog, [Spanish Immigration to America: A Genealogical Guide](https://blog.myheritage.com/2025/02/spanish-immigration-to-america/), published 2025-02-24. Community article read 2026-11-20. Describes Our Lady of Covadonga in Carondelet and Our Lady of Guadalupe in New York and recommends Catholic baptism and marriage records. Use S14 for film coverage and S15 for the Manhattan location and historical use for baptisms and weddings.
+
+- **S14:** Christine Human Hughes, compiler, St. Louis County Library, [Guide to St. Louis Catholic Archdiocesan Parish Records](https://www.slcl.org/sites/default/files/2023-06/HG%20SLAPR%202015.pdf), revised edition, 2015. Institutional finding aid read 2026-11-20. The Covadonga entry on p. 76 lists the parish dates as 1915–1932 and gives roll 100, item 4 (Family History Library film 1887440), for baptisms in 1915–1931 and marriages in 1915–1927. These ranges describe the filmed item.
+
+- **S15:** New York City Landmarks Preservation Commission, [Letter on Our Lady of Guadalupe Church, 229–231 West 14th Street, Manhattan](https://media.villagepreservation.org/wp-content/uploads/2023/08/04104928/LPC_OurLadyofGuadalupe_toVillagePreservation.pdf), dated 2023-08-03. Institutional letter read 2026-11-20. Dates the church’s opening to 1902 and draws on archdiocesan records to document its use for baptisms and weddings. Verify surviving register ranges separately.
+
 ## Credits
 
 - Archdiocese of New York, Concordia Historical Institute and Evangelical Lutheran Church in America (S8–S10) — Parish and archive guidance paraphrased with attribution (adapted)
 - Roger P. Minert, German Immigrants in American Church Records goes to Pennsylvania!, BYU Family History Library video, 2025-05-29 — All rights reserved by the rights holder; short attributed quotation (quoted)
 - ArkivDigital, What is new in Swedish research using ArkivDigital - RootsTech Open House 2022 (video, 2022-03-09), cited as S7 — Short attributed adaptation of the membership-origin retrieval technique and date-format warning; video remains under its publisher's terms (adapted)
 - Kinprove original procedural synthesis; the techniques and examples are paraphrased and attributed to S1–S6 (Everett, Minert, Castillo, Allen video presentations) — FSL-1.1-MIT (kinprove-original)
+- Lisa A. Alzo and Julie Roberts Szczepankiewicz (S11–S12) — Research guidance paraphrased with attribution (adapted)
+- MyHeritage Blog, Christine Human Hughes and the New York City Landmarks Preservation Commission (S13–S15) — Parish leads and register details paraphrased with attribution (adapted)
