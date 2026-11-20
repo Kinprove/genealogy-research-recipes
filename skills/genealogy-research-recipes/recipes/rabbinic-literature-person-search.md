@@ -56,10 +56,8 @@ the body that kept metrical books is covered by
 
 - **People are named by office, father and town, rarely by surname.** A typical form is
   "R. Moshe son of R. Yaakov, av beit din of X", "the Rav of X" or "R. Leib Rivke's".
-  Surnames arrive late. In one English edition of Breslov works, a rabbi's surname appeared
-  once, while "the Rav of <town>" appeared 121 times for the same man.
-- **One name is many men.** A bare "R. Nachman" names at least six different men in one
-  Breslov anthology series. "The Rav of X" names every man who held that office.
+  Search the town title alongside the surname. In one English edition of Breslov works, the same rabbi appeared under the town title repeatedly but under his surname only once [S27].
+- **One name can identify several men.** Before assigning “R. Nachman” in *Siach Sarfei Kodesh*, distinguish candidates by kin, town, office and date [S27]. A town title can also pass to a successor.
 - **The genealogy sits around the text, not in it.** Title pages, introductions,
   approbations (haskamot), subscriber lists (prenumeranten), letters, testaments, appendices
   and an author's own autobiographical passages name fathers, fathers-in-law and wives.
@@ -158,9 +156,7 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
    father's name is writing within twelve months of the father's death. A posthumous printing
    can add ז"ל, so the printing year does not date a death. When the passage's own date is
    known, such as a dated introduction, ז"ל shows the person was dead by then.
-4. Check the geographic pool before counting hits. Hits for a surname often belong to
-   Lithuanian or Galician families of the same name: in one study, 80 of 81 hits for a
-   Ukrainian family's surname were such namesakes.
+4. Check each surname hit in its sentence. Kinprove’s search for a Ukrainian family returned namesakes from other regions [S27]. Determine whether the word in each new hit names a person or a place before using it as relationship evidence.
 
 ## 4. Collect the forms that the texts use
 
@@ -169,11 +165,8 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
    input; do not correct it silently.
 2. Add the sacred and everyday given-name pairs: Tzvi and Hirsh, Aryeh and Leib, Dov and
    Ber, Ze'ev and Wolf, Naftali and Hirsh, Yehudah and Leib, Shlomo and Zalman.
-3. Search Yiddish and Hebrew spellings of a place as separate queries. Breslov books write
-   Uman as אומין far more often than אומן. On Otzar HaHochma, one town's Yiddish spelling
-   returned five hits in four books where its Hebrew spelling returned none.
-4. Find the spellings no one would guess from the texts themselves. A sweep for a
-   distinctive letter pair, such as טש, surfaced קרימינטשאק for Kremenchug.
+3. Search Yiddish and Hebrew place spellings separately, including אומין and אומן for Uman. A dated Otzar search found books under one spelling of a town after another gave zero [S27]. Keep the exact query, date and editions returned for each form.
+4. Search a distinctive letter pair in the text to find additional spellings. For Kremenchug, טש occurs inside קרימינטשאק, including in the addressee of letter 226 in *Alim le-Terufah* [S29].
 5. Keep a table of each spelling and its hit count. A missing form looks exactly like a
    missing person.
 
@@ -197,11 +190,7 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
   real word. Approbations, notes and much front matter are set in Rashi script, which OCR
   reads far worse: read those pages as images (see
   [HebrewBooks search recovery](hebrewbooks-search-recovery.md)).
-- **Who finds the forms.** No one can read a whole library. Search the libraries to choose
-  books, have a language model read the chosen books in full to find forms and kinship
-  phrases, then search again with the forms found. Use exact-string tools only to check forms
-  already found. A closed keyword list reported no candidates in hundreds of sections that a
-  full reading then mined.
+- **Finding forms the query missed.** Read selected sections of a relevant book, note new spellings and kinship phrases, and search again. A closed keyword list returned no candidates in sections where a later reading found them [S27]. Check each proposed reading against the page.
 
 ## 6. Search by office, place and relation, not by surname
 
@@ -299,12 +288,7 @@ are typed in, check a passage you cite against a printed edition or a scan. [S21
 
 ## 9. Classify what each statement rests on
 
-One publication can mix several kinds of evidence within a few pages. A journal article can
-print facsimiles of letters that name a girl and her betrothed, the editor's identification of
-her father, an engagement season that the editor worked out and no letter states, and, pages
-later, the story of her death footnoted to a named chain of tellers. Summarised as one account,
-this reads as a documented family with dates. Taken apart, only the betrothal and the two given
-names rest on a document.
+Separate the statements even when they share a publication. A field report describes a 1991 article whose letter facsimiles named the betrothed pair, the editor identified the girl’s father and inferred the season, and a named chain of tellers supplied the account of her death. The article and facsimiles have yet to be checked against that report [S28]. Record each statement with its own page and basis.
 
 1. Give every statement that you take from a rabbinic or Hasidic publication one of these
    classes, and carry the class with the statement into every note, ledger row and tree entry

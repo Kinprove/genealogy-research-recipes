@@ -148,24 +148,15 @@ for a whole-tree replacement, also the old/new kit-profile crosswalk and observe
 5. Save empty results with their actual query, kit, filters and date. Do not fill an unshown DNA
    measurement with zero or infer that a person outside the list has no shared DNA.
 
-Check the kit's DNA Matches list even when AutoClusters offers no lead. The report uses
-kit-specific thresholds and covers only a subset of matches [S33 @2026-11-18]. If the only
-workable match is absent from the chart, keep it on the shortlist and review it from the match
-list [S32 @2026-11-18].
+Return to the kit’s DNA Matches list when AutoClusters leaves a lead out of the chart. Its thresholds select only a subset of the kit’s matches [S33 @2026-11-18]. One researcher’s only promising match shared 2.3% and did not appear in the chart [S32 @2026-11-18]. Keep that match on the shortlist.
 
-When a historical maintenance warrant names a possible father who is deceased, run his surname
-as a DNA Matches query [S37]. If a hit leads to his First World War personnel file, match the
-file's identifying details to the warrant [S38]. Check the whole file for court papers recording
-an admission of paternity or agreement to the maintenance order [S37]. Treat the surname hit
-as a lead and record separately what the court papers say.
+A failure-to-pay maintenance warrant gave Fuller a possible father’s surname to search in DNA Matches. She reports that his First World War personnel file held court papers in which he admitted paternity and agreed to maintenance [S37]. Compare identifying details such as occupation and next of kin in the personnel file with the warrant and other records [S38]. Record the documentary admission separately from the surname hit.
 
 Do not read few or no Russia-resident matches, or Russian matches missing from an older list,
 as evidence about relatives living in Russia. MyHeritage stopped selling DNA kits in Russia at
 the end of February 2020 [S4 @2026-11-12]. In emails reported on 31 December 2024, it told Russian users
 that their accounts and associated data would be permanently deleted by 1 February 2025
-[S5 @2026-11-12], [S6 @2026-11-12]. A MyHeritage representative told one researcher that messages from those members
-would remain, with the sender shown as a deleted member [S6 @2026-11-12]. Record the gap as a limit of the
-database, not as a negative search.
+[S5 @2026-11-12], [S6 @2026-11-12]. According to the published exchange, the company said that earlier messages would remain with the sender identified as a deleted member [S6 @2026-11-12]. Log the change in account or message status separately from any inference about the family.
 
 **Privacy gate:** <!-- privacy-gate: contact --> Asking a Cousin Finder relative about DNA testing
 contacts a living person; answer the privacy gate in `SKILL.md` first.
@@ -173,10 +164,7 @@ contacts a living person; answer the privacy gate in `SKILL.md` first.
 Outside the DNA Matches list, MyHeritage's tree-based Cousin Finder lists relatives found through
 family trees, including people who may never have tested. Record each entry as a tree assertion
 that is only as good as the trees behind it. Do not treat it as a DNA match or a DNA-supported
-relationship, and do not give it shortlist cM fields. In a
-[Cousin Finder discussion](https://genarchivist.net/showthread.php?tid=1549), one user reports that
-the "DNA Match" marker indicates results on MyHeritage (tested there or uploaded), and that some
-relatives who tested elsewhere appear unmarked. So do not read a missing marker as untested; check other companies, or ask the relative when contact is authorized, before planning a test.
+relationship, and do not give it shortlist cM fields. In one Cousin Finder comparison, relatives who had tested only elsewhere appeared without the “DNA Match” marker. Relatives with a MyHeritage test or upload could carry it [B18]. For an unmarked person, check other companies, or ask the relative when contact is authorized, before planning a test.
 
 **Output:** shortlist rows and a search log, including filtered negative searches.
 
@@ -216,10 +204,7 @@ relatives who tested elsewhere appear unmarked. So do not read a missing marker 
 5. If the next question is about a shared segment, use workflow 5. Being shared matches does not
    establish that all three share the same segment, nor name the ancestor who supplied it.
 
-Place multiple documented shared matches in the tester's tree. If their lines converge on an
-ancestral couple, prioritize that couple as a candidate and trace match A's possible descent
-[S34], [S35]. Keep the couple provisional while the records leave A's line unresolved. Use
-workflow 5 if you need to test whether the shared DNA came through that branch.
+Place documented shared matches in the tester’s tree. In the published case, their lines converged on the tester’s great-grandparents, giving the family a couple whose descendants they could trace [S34], [S35]. Record how the unplaced match might descend from the couple, and leave that connection provisional until documents support it. Use workflow 5 to investigate the segment.
 
 **Sort by side in one direction only when your anchor is on one side.** If a known relative on one
 side, such as a maternal aunt, is your only anchor there, a match or cluster she shares is a lead to
@@ -326,9 +311,7 @@ relative's long segment are only candidates. Overlap at one position fits either
 that chromosome. Check each candidate against that relative's shared-match list. Put overlapping
 non-shared matches in a provisional other-side group to test against an anchor from that side.
 Shared-match status is not triangulation, and a missing shared match may reflect a display
-threshold. If a cM cutoff in your copy hides a relevant segment, return to the unfiltered file. The
-[BYU presentation's chromosome 13 example](https://www.youtube.com/watch?v=DzNZhaIdQJo) motivates
-this check without verifying its branch assignments.
+threshold. If a cM cutoff removes a candidate from the working copy, repeat the comparison in the unfiltered export. In Baker’s chromosome 13 example, sorting overlapping segments helped select candidates; the sort alone could not assign them to a branch [B16].
 
 **Output:** one segment observation per exact comparison set, with display evidence and date.
 
@@ -366,12 +349,8 @@ diagram [S36 @2026-11-18], [S12 @2026-11-18].
    No theory means no generated suggestion currently visible, not no biological relationship.
 
 **Check the family group behind each connection, not only the join.** Test the family the
-underlying tree shows against your records and against plausibility. In a 2022 theory, one tree in
-the chain listed two brothers of nearly the same name born 1796 and 1848; brothers 52 years apart
-pointed to an error there, and the later man was more plausibly the earlier one's grandson, while
-the connections that agreed with the author's records held (Kessler, Behold Blog, 2022-06-29
-[S23 @2026-11-14]). Mark such a connection `contradicted` or `unresolved`, consider whether the
-person sits one generation off, and keep the connections your records support. Two siblings with
+underlying tree shows against your records and against plausibility. Kessler found two near-namesakes born in 1796 and 1848 recorded as brothers in a theory. The 52-year gap suggested that the younger man might instead be a grandson [S23 @2026-11-14]. Mark the unsupported link `contradicted` or `unresolved`, consider where a generation may have been missed,
+and keep the connections your records support. Two siblings with
 one given name are only a warning sign: in many families the later child was named after one who
 had died (Hoitink, Dutch Genealogy, 2014-07-16 [S25 @2026-11-14]). MyHeritage lets you confirm or
 reject a theory as a whole, and its wiki says to confirm one that is accurate through any path
@@ -382,10 +361,8 @@ MyHeritage adds theories in periodic runs, not as trees or matches change [S9 @2
 [S10 @2026-11-12]. Its 2022 conditions are a tree that includes at least the tester, the
 parents and the grandparents, and a plan with the advanced DNA features or the one-time unlock
 of an uploaded kit; its 2025 update names Premium, PremiumPlus, Complete and Omni as the plans
-that show a full theory [S11 @2026-11-12], [S12 @2026-11-12]. Theories follow each kit's own
-matches, so a new kit, such as the same person's whole-genome test, can have none while that
-person's older kit already has some [S14 @2026-11-12]. Record "no theory" with the kit and the
-date checked, check each of the tester's kits, and look again after a later run. Theories from
+that show a full theory [S11 @2026-11-12], [S12 @2026-11-12]. Check every authorized kit separately. One tester’s older kit already had theories while her new whole-genome kit had none [S14 @2026-11-12]. Record “no theory” with the kit and the
+date checked, and look again after a later run. Theories from
 the last 30 days carry a NEW badge, and the Has Theory of Family Relativity option under the
 Tree details filter (All tree details in some views) lists the matches that have one
 [S10 @2026-11-12], [S13 @2026-11-12], [S12 @2026-11-12], [S19 @2026-11-12].
@@ -413,10 +390,7 @@ through the grandchildren where she can [S16 @2026-11-12]; do this with deceased
 
 When a match at another company has no tree there or only a small one, look for the same
 person in this kit's DNA Matches and in Cousin Finder, which finds relatives through matches
-between family trees and labels those who are DNA matches [S17 @2026-11-12]. Estes found trees
-in Cousin Finder for people who matched her at other companies but had no trees there
-[S18 @2026-11-12]. Use such a tree only after the name, the tree's people and shared matches
-show that it is the same person; a matching name is not enough.
+between family trees and labels those who are DNA matches [S17 @2026-11-12]. Estes found Cousin Finder trees for people whose match profiles at other companies had no tree [S18 @2026-11-12]. Compare the tree’s people and the shared matches before linking the profiles. A name match alone leaves their identity open.
 
 **Output:** an access-state record, a linked lead, and one answerable question.
 
@@ -444,8 +418,7 @@ the limited packet reuses workflow 9's preservation controls.
 4. On a reply, attach its source and date, then update the next action. A reported family story
    starts a record search; an unanswered message does not contradict a relationship.
 
-If a match omitted from AutoClusters is your only workable lead, use the approved first-message
-procedure for the unclustered match when you have one question it can answer [S32].
+Use the approved first-message procedure for an unclustered match when you have one question they can answer. A 2.3% match outside the chart provided the researcher’s only promising lead [S32].
 
 **Output:** approved message and correspondence row.
 
@@ -467,10 +440,7 @@ procedure for the unclustered match when you have one question it can answer [S3
    Record additions, changes and unavailable observations. A disappeared row under changed
    filters or access is not evidence that shared DNA became zero.
 
-If the first DNA Matches review offered no lead, queue another pass for the same kit
-[S39 @2026-11-18]. Use a strong-match email to trigger a fresh review in the account even if
-the initial results showed only distant matches [S40 @2026-11-18], [S41 @2026-11-18]. Read the
-match card before adding the lead to the shortlist.
+Recheck the same kit when new matches arrive after an unproductive review [S39 @2026-11-18]. In one case a strong-match email followed a list of distant cousins. The tester opened the account and found a first-cousin match [S40 @2026-11-18], [S41 @2026-11-18]. Read the card and log its relationship estimate before adding it to the shortlist.
 
 **Output:** dated packet and a next-session queue with its actual coverage.
 

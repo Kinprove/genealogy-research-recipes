@@ -1,4 +1,4 @@
-![Genealogy Research Recipes: a family tree drawn in dots, with a DNA double helix for its trunk](assets/banner.png)
+![Genealogy Research Recipes v2, with a dotted family tree and a DNA double helix for its trunk](assets/banner.png)
 
 # Genealogy Research Recipes
 

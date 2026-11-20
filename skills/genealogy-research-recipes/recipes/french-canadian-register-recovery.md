@@ -42,19 +42,8 @@ search with these forms and log every form and its result. Run them in every ind
 including Généalogie Québec and the PRDH database, which the presenter lists among the Québec
 resources. [S1]
 
-- **Baptismal prefix.** Québec children usually had several given names, and later records often
-  use a different one from the baptism. The presenter says almost all girls (especially in the
-  17th–18th centuries) were baptized *Marie* plus a second and sometimes a third name, and were
-  known by the second name. Censuses often show only that name. She also says many boys were
-  *Jean-Baptiste* plus another name. So search *Marie Cécile* as well as *Cécile*, and
-  *Jean-Baptiste Pierre* as well as *Pierre*. Use the French spelling (*Jean*, *Baptiste*). Also
-  try the abbreviated prefix (*M. Louise*, as in the presenter's example), hyphenated and
-  unhyphenated given names, and the forms with the prefix dropped. [S1]
-- **Dit names.** One person's dit name varies across their records. Search each surname alone,
-  the full *X dit Y* form, *Y dit X*, and the feminine form (*dite*). In the presenter's example,
-  one woman appears as *Briault dite Lamarche*, as *M. Louise* under each surname, and with the
-  order reversed. The presenter says a dit name can reflect where the father or grandfather came
-  from, or a parish the family left. Do not assume which one applies to your person. [S1]
+- **Baptismal prefix.** Search each given name alone and in combination. A person indexed as Cécile might be baptized Marie Cécile, and Pierre might also occur as Jean-Baptiste Pierre. Try a hyphen, a space, an initial or the omission of the first name. Brady’s worked example pairs M. Louise with Marie Louise [S1]. Check parents or spouse on the register image before accepting a match.
+- **Dit names.** For Briault dite Lamarche, search Briault and Lamarche separately, both surname orders, and the forms dit and dite. Brady described M. Louise under each surname and the name sequence reversed in the records she consulted [S1]. Keep a separate citation for each form you find. Establish any connection to a place or earlier generation from records naming that place or relative.
 - **Place names.** Search *St*/*Ste* and the spelled-out *Saint*/*Sainte*. Family trees and
   indexes often use the abbreviation. FamilySearch standard place names spell *Saint* out in
   full. [S1]
@@ -82,20 +71,12 @@ link rests on other records, send that correlation to evidence/proof judgment fo
 
 ## Read a combined register as one chronological book
 
-The presenter describes this as a common feature of Québec registers: baptisms, marriages and
-burials appear in a single book in date order. A margin letter marks each entry type: **B** for
-baptême (baptism), **M** for mariage (marriage) and **S** for sépulture (burial). When the letter
-carries a number, record it as part of the locator; in her example the marriage is marked
-**M 5**, the fifth marriage of the year. [S1] To work through such a book:
+Check the volume heading, then scan the margins of the chronological register for **B** (baptême), **M** (mariage) or **S** (sépulture). Copy the number with its letter and year. In the volume Brady showed, **M 5** marked the fifth marriage of that year even though baptisms and burials intervened [S1]. Use the couple’s names and the date in the entry to verify the locator.
 
 - To find one event type, scan the margins for that letter. Do not look for a separate burial or
   marriage book until you have checked that this volume does not cover the event.
-- If a baptism calls a parent *défunt* or *défunte*, use that as a cue. Search the same volume
-  backwards and forwards for that parent's **S** entry and for the parents' **M** entry. The
-  presenter's example baptism shows the mother as deceased at the time of the baptism. [S1]
-- A marriage entry gives details for both the bride and the groom: parents and whether each was
-  of age. In the presenter's example it also states that the bride's mother is deceased. Extract
-  each of those statements separately. [S1]
+- When the baptism describes the mother as *défunte*, record that she was reported dead by the baptism. In Brady’s Jean-Baptiste example the child was described as born the previous day. That wording neither dates the mother’s death nor gives its cause [S1]. Scan before and after the baptism for her **S** entry, then compare the husband’s name, residence and the parents’ **M** entry.
+- Read each spouse’s parentage and status separately. Brady’s marriage example distinguishes the groom’s and bride’s majority wording and identifies the bride’s mother as deceased [S1]. Keep the literal French with each person. A majority statement alone gives no exact age, and the marriage date supplies only a latest date for the reported death.
 
 Record the volume, year and entry letter/number for each entry, and keep the literal French
 wording beside your translation.
@@ -185,13 +166,7 @@ date/number if shown, and whether you actually inspected the act or only saw a r
 notary chosen because he worked in the town gives you a place to browse; it does not tell you the
 family used him.
 
-Before you read any sum in an inventaire après décès, find the act's own statement of the money
-of account. A September 1818 inventory from Saint-Luc says the goods were appraised "aux livres et
-sols ancien cours" (in livres and sols of the old currency), and its transcription writes an item
-priced at 48 sols as 2£ 8s [S8]. There £ and s mean livres and sols, not pounds sterling. Count
-20 sols to the livre and 12 deniers to the sol [S9]. Do not trust a machine translation of these
-amounts: Google Translate rendered the heading as "books and old course floors" and turned livres
-into pounds [S8]. Transcribe each sum as written, with its unit.
+Read the currency heading before translating an *inventaire après décès*. In the published transcription of Honoré Lord and Marguerite Babin’s Saint-Luc inventory (22 September 1818, notary Roger-François Dandurand, Archives nationales à Montréal, CN601,S107), image 140 part 2 values goods in *livres et sols ancien cours*. The medium pot and lid are priced at 48 sols, entered in the table as 2£ 8s [S8]. Check the arithmetic using 20 sols per livre and 12 deniers per sol [S9]. The £ sign here represents livres. A machine rendering of *livres* as books or pounds loses the unit established by the heading [S8]. Log the original sum, unit and image separately from any modern equivalent.
 
 ## Close with a register packet
 

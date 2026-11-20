@@ -48,9 +48,7 @@ Nothing in this recipe establishes an ancestor, an origin locality or a relation
 
 Make one row per run, never one row per person. Record:
 
-- **Target input.** Which raw file produced the coordinates (the vendor's own test or an upload). Whether they are real or simulated, and scaled or unscaled. The dataset release or date.
-  - Two vendor files for one person gave different fits: 92.2% Spanish at 1.58% distance, and 76.6% Spanish plus 8.8% Icelandic at 1.90% [S8].
-  - In another report, three uploaded files gave near-identical period models. The vendor's own file gave different populations and an unexpected Oceanian component [S9].
+- **Target input.** Record the raw-file vendor, upload or native test, release, and whether the coordinates are real or simulated and scaled or unscaled. Different files for the same person produced different population labels in reported runs [S8], [S9]. Keep the files in separate rows and compare them under identical settings before attributing a difference to the input.
 - **Reference sheet and edition.** Official averages; a curated averages sheet with or without simulated coordinates; ancients-only or moderns-only; or a named calculator panel [S11], [S4], [S2].
 - **Mode.** Single/open, R2P–R5P, n-way Oracle, a nearest-population or nearest-individual list, or a dendrogram with its N-closest setting [S7], [S3], [S18].
 - **Penalty, metric and constraints.**
@@ -60,50 +58,42 @@ Make one row per run, never one row per person. Record:
   - References added or removed [S1], [S7], [S17], [S3].
 - **Fit and date.** The distance, or for qpAdm the tail probability, copied next to the proportions.
 
-Rerun an identical single-mode run before quoting it. Three R5P runs on one target gave distances of 1.43–1.45%, with a different minor fifth component each time [S3]. Report the spread, not one draw.
+Repeat a run with the identical target, panel, mode and settings. In repeated R5P fits, a different minor fifth component gave nearly the same distance [S3]. Report the spread in distance and weights, including interchangeable labels.
 
 ## 2. Label how each coordinate set was produced
 
-- **Keep the tool's label word for word** (scaled, unscaled, "-sim"). Put the target and every reference on one scale, the one the sheet and tool expect, and never mix scales in one model. A participant blamed fits that made no sense on unscaled coordinates, and the fit improved after switching to scaled ones [S21].
-- **Simulated coordinates are weaker evidence.** The curator of a large sheet said sims are converted from other calculators' results, get you into the neighbourhood, lose detail, and usually give smaller distances than real coordinates for the same person [S11].
-  - A small distance to a simulated reference counts for less than the same distance to real data.
-  - Runs that differ in whether sims are included cannot be compared.
+- **Keep the tool's label word for word** (scaled, unscaled, "-sim"). Put the target and every reference on one scale, the one the sheet and tool expect, and never mix scales in one model. If a fit is implausible, check the expected scale before interpreting any component and rerun with compatible coordinates [S21].
+- **Trace simulated coordinates to their inputs.** A sheet curator described converting other calculators’ results to make some references [S11]. Label those references and rerun with measured coordinates where available. A shorter distance to a simulated reference by itself cannot establish a closer relationship.
 - **Coordinates change between releases.** A participant warned that the v62 release changed many coordinates, so files posted before it are out of date [S12].
   - Record the release of every coordinate file.
   - Fetch the current file before running.
   - Never mix pre-release and post-release coordinates in one run or comparison.
   - Keep coverage tags ("Cov_unknown", "Cov_1.04%", "low_res") with ancient samples, and mark low-coverage samples as provisional [S12], [S17].
-- **A re-derived or "purified" reference is the output of a method.** One reference's Amerindian share went from 77% to 87% after references were added. It then went to 72% under a different purification method, and a third calculator put it near 71% [S13]. That is variation between methods, not a change in the person.
+- **Trace a re-derived reference to its method.** In one reported comparison, changing the reference set and then the “purification” method moved the same reference’s estimated Amerindian share in opposite directions [S13]. Preserve each reference version and compare one change at a time.
 
 ## 3. Check fit and scope before reading proportions
 
-- **Do not interpret components when the target is outside the calculator's intended scope.** A European-Neolithic calculator gave a South Asian target a distance of 14.68%. A participant called the fit terrible and the results unrealistic [S19].
-- **Do not read any component of a run whose distance is far above comparable runs.** Three ancient samples fitted at about 2.0–2.5% and a fourth at 11.48%. A participant attributed the fourth to sample quality [S20].
-- **Distances only mean something on their own tool's scale.** One K15 thread printed distances from about 197% to 3201% [S5]. Never rank runs across calculators.
-- **A very low distance with an exotic sliver is not stronger evidence.** If a regional-only model fits almost as well and drops the sliver, record the sliver as model-dependent.
-  - Example: 4.8% Peninsular Arab at 1.642%, against a British/Austrian/south German model with no Arab component at 2.027% [S1], [S2].
-  - One participant offered cutoffs: overfit below 0.02, and genuine MENA ancestry at 0.03 or above. These are that person's rule of thumb for one panel. Do not reuse them as thresholds.
+- **Check geographic and temporal coverage.** Compare the target with the populations the calculator was constructed to represent. Mark an out-of-scope result uninterpretable, even when the tool prints proportions [S19].
+- **Investigate an outlying distance.** Compare like targets under identical settings. Check coverage, sample quality and possible missing references before interpreting the proportions. One conspicuously worse ancient-sample fit did not establish the cause of the discrepancy [S20].
+- **Read the distance in its printed units.** A K15 output displayed distances above 100% [S5]. Keep both the metric and its scale; compare distances only within the same calculator and specification.
+- **Test a minor component against a regional model.** In one report, the Peninsular Arab component disappeared while a European-only model retained a similar distance [S1]. Record both fits, the panel and the settings [S2]. A suggested threshold from one panel cannot diagnose ancestry on another.
 
 ## 4. Test a minor component with reruns that change one input
 
 For a component the pedigree does not predict, change one input per rerun and record the distance next to each result:
 
-1. **Add a penalty.** An aunt with a documented Northwest European pedigree scored about 3% Arabian on one K-calculator and 3–5% Peninsular Arab on G25 [S1]. In one panel the component behaved like this:
-   - 4.8% at 1.642%;
-   - 3.2% at 1.814% with Scandinavian removed;
-   - 2.8% at ADC 0.25x;
-   - absent at ADC 0.5x (2.027%, with only two European components).
-2. **Restrict the run to regional references.** British, Austrian and south German references alone fitted at 2.027% [S1].
+1. **Add a penalty.** Keep the target and reference roster fixed. Record each penalty, the distance and the minor component’s weight, including zero [S1].
+2. **Restrict the panel to plausible regional references.** Record the references kept and compare the regional model’s distance with the broader fit [S1].
 3. **Remove the dominant or suspect source, or switch sheets.**
-   - On the official sheet, two Near Eastern/Caucasus components appeared in 4-way fits. The participant read them as stand-ins for regional samples missing from that sheet. They did not appear in 4-way runs on the larger curated sheet [S4].
-   - In another thread, swapping in a closer local reference shifted a small component. A control person of known ancestry then needed an extra southern source to balance that reference [S6].
-4. **Add the reference the panel lacks.** K15 runs gave Native American shares (10.4% plus 6.0%, at 3201% distance) to a man described as having none. After Ashkenazi and Sephardic references were added, a reduced three-way run showed none. That rerun also switched mode from ADC 0.25x RC to R3P, so it changed two inputs and does not isolate the effect of the added references [S5].
-5. **Find the single sample driving the component** in the unaggregated output, and rerun without it. One steppe signal rested mainly on a single sample. With that sample removed, part of the signal moved to a neighbouring cluster, and the cluster percentages fluctuated between runs [S22].
-6. **Read near-tied Oracle rows together.** A 3-way Oracle returned about 0.8–0.9% of several unrelated East Asian labels at almost identical distances [S3]. Slivers that can be swapped for each other are one unresolved leftover, not several ancestries.
+   - Replace an omitted regional reference or compare matched runs on the official and curated sheets. A component that disappears may have stood in for a missing source [S4].
+   - Test the substitute on a control of independently documented ancestry. A closer local reference shifted another component in one target but required an extra balancing source in the control [S6].
+4. **Add the missing reference without changing mode.** A K15 component disappeared after the reference panel and the fitting mode both changed [S5]. Repeat each change separately before attributing the disappearance to the new sources.
+5. **Inspect the individual samples behind a cluster.** Remove the sample carrying the signal and rerun. Record whether weight disappears or moves to neighbouring clusters [S22].
+6. **Keep near-tied Oracle rows together.** If minor labels can replace each other at almost identical distances, report the unresolved alternatives and their weights [S3].
 
 Classify the component by what the reruns showed:
 
-- **Reference-gap artefact (tested):** it disappears when the missing reference is added or a larger sheet is used, at a comparable fit. An example is [S4].
+- **Reference-gap artefact (tested):** adding the missing reference under otherwise identical settings removes the component at a comparable fit. If replacing a whole sheet also changed other samples, describe it as model-dependent until the isolated addition has been tested [S4].
 - **Model-dependent:** it disappears under a penalty, regional restriction or source removal at a comparable fit [S1].
 - **Possible proxy (untested):** this applies only while the missing-reference test has not been run.
 - **Stable within those scopes:** it survives every tested change. This is still not an ancestry finding.
@@ -114,18 +104,13 @@ A second calculator that agrees [S22] is not independent if it draws on overlapp
 
 - **Sample counts and singletons.** Curated sheets print "(n=1)" and "(low_res)" tags, and fits often lean on several n=1 rows [S11], [S4]. A singleton label is one person.
 - **Who defined the label.** "Profile" tags and grouped names are the curator's groupings [S11], [S17].
-  - One panel's labels come from clustering, and its combined names were explicitly not meant to say the groups are the same [S2].
-  - A provider category means what the provider's own description says. Participants guessed that one ancient category was a single hunter-gatherer component. Another participant reported that the provider's info panel names two steppe-era cultures [S16]. Open that description before explaining a category.
+  - Read the curator’s clustering notes and the provider’s description before interpreting a combined or historical label. Record its named constituent samples, populations or cultures. A cluster label or a provider category can combine groups whose genealogical histories differ [S2], [S16].
 - **Locality, checked against the study's sample table.**
-  - For one newly released study, a participant found that the first locality tags in circulation were mostly wrong, and corrected them from the sample list [S15].
-  - A regional reading was distorted by two villages with nearly the same name, Startsevo in the Rhodopes and Starchevo in the south-west. They are distinct places [S15].
-  - Record whether the coordinates were built from the authors' published genotype data, as a participant said these were, or are simulated [S15].
+  - Match each sample’s identifier to the locality in the study table. A reported correction distinguished Startsevo in the Rhodopes from Starchevo in southwest Bulgaria [S15]. Record which genotype data the coordinates derive from and whether they are simulated.
 - **Mislabelled samples.**
-  - Participants identified one island reference as belonging to a different population [S14].
-  - The maker of another average could not recall what was in it [S14].
-  - Some sheet rows are themselves tagged "probably_misattributed" [S17].
-- **Outliers and clusters.** Note any "_o", "_o1", "_o2" or core-cluster labels, and whether a run kept or removed them. One calculator maker said he removed source samples that gave odd results for even one or two targets [S22].
-- **Circular inclusion.** Check whether the tested kit, or a close relative, is itself one of the references. One project built its references from uploaded kits [S13].
+  - Verify the individuals included in an average, especially if the location or population is disputed or the curator cannot identify the underlying samples [S14]. Preserve warnings such as «probably_misattributed» beside the row [S17].
+- **Outliers and clusters.** Record any «_o», «_o1», «_o2» or core-cluster label. Check whether the curator dropped samples based on how individual targets fitted, and rerun with and without the exclusions if the data permit [S22].
+- **Circular inclusion.** If a panel accepts uploaded kits, check whether the test kit or a close relative helped build the reference. Record membership as unknown when the roster is unavailable [S13].
 
 ## 6. qpAdm: specify the model and screen the population lists
 
@@ -140,21 +125,21 @@ qpAdm models a target as a mix of "left" (source) populations, tested against a 
   - input format;
   - the SNP count actually used.
 - **Data product.** The AADR reference data are distributed in 1240K and Human Origins (HO) versions. A participant said the raw-file merge step offered "v62.0_1240k or v62.0_HO" [S23].
-- **SNP count.** One combined consumer file used 420,180 SNPs against the 1240k build and about 149,192 against the HO build. The participant reported that ADMIXTOOLS 2 prints the count in a "Computing block lengths for … SNPs" line [S23].
-- **Read the right p-value.** In classic qpAdm output, the model's p-value is "tail" on the rank line for (number of sources − 1). "taildiff" (with chisqdiff and dofdiff) is a different test: it compares that rank with the next lower rank. A participant equated taildiff with the p-value [S23]. The qpWave/qpAdm documentation does not support that, so never accept or reject a model on taildiff.
-- **Runs on different data products are different measurements.** One model passed at about 0.3 on HO and failed on 1240k [S23].
-- **Never pool pass/fail verdicts across software.** Participants reported that ADMIXTOOLS 2 passes models more easily than classic qpAdm [S23]. That is unverified, and the ADMIXTOOLS 2 tutorial says its results should generally match classic ADMIXTOOLS. Record the software either way.
+- **SNP overlap.** Record the SNP count actually used for the target and reference data product. Check any merge or filtering step and retain the program’s precisely labelled count: the number entering block construction can differ from the effective overlap for a particular statistic [S23].
+- **Read the overall model test.** In classic qpAdm, read `tail` at rank (number of sources − 1). `taildiff` compares adjacent ranks, and its meaning depends on the row. In the authors’ example, the full-rank row’s `taildiff` equals the model’s overall tail on the preceding row [S26]. Copy the field, rank and degrees of freedom with the value before interpreting a forum or software report [S23].
+- **Keep the data product fixed.** A model reportedly passed the chosen threshold on HO and failed it on 1240k [S23]. Keep separate rows and inspect SNP overlap and model settings before interpreting the difference.
+- **Record implementation and version.** Compare classic ADMIXTOOLS and ADMIXTOOLS 2 only with matched data, SNP treatment, population lists and settings. A forum observation about which version passes a model more readily cannot establish a general difference [S23].
 - **Remove duplicate individuals, then rerun.** The same individual can appear under several IDs. Check the annotation file, including repeated outgroup, Caucasus and Natufian samples in a right set [S23], [S24].
 - **Population size and platform limits.**
   - A participant advised against n=1 left populations unless a study used them [S23].
-  - Note any platform cap on the number of right populations. One participant reported a cap of 30 on a web tool [S23].
-- **Swap a left source and keep both runs on the same target.** Replace it with another sample of the same population. In one thread a child's model still passed at 0.16 after the African source was swapped for a two-sample alternative. The participant reported a worse fit, with the main source at 88.5% [S24]. A regional-average model in the same thread passed at tail probability 0.070 (dof 11, chi-square 18.524, coefficients 73.4/15.2/11.5%) [S24]. That run has a different target, so it is not the before-run for the swap, and the difference between the two says nothing about the swap.
+  - Record the software’s actual limit, if any, on the number of right populations and which entries were excluded. Limits reported for a particular web interface do not establish a qpAdm-wide cap [S23].
+- **Swap a left source while keeping the target fixed.** Retain the original and replacement sample IDs, group sizes, weights, standard errors and overall test for both runs. A regional-average model and a child’s individual model had different targets in the reported comparison [S24]; substituting one as the baseline cannot show the effect of the source swap.
 - **Do not lower the acceptance threshold to manufacture a pass.**
   - Report the overall tail probability.
   - List the other passing models with their standard errors.
-  - A passing model is one admissible fit only if every fitted weight lies between 0 and 1. Record that feasibility check with the run (ADMIXTOOLS 2 reports it separately from the p-value); a pass that needs a negative weight or one above 100% is not a feasible mixture.
+  - A passing model is one admissible fit only if every fitted weight lies between 0 and 1. Record that feasibility check with the run (check the fitted weights alongside the overall test [S27]); a pass that needs a negative weight or one above 100% is not a feasible mixture.
   - A 0% coefficient is that source's fitted weight in that model and right set. It does not show the ancestry is absent.
-- **If identical reruns differ, change one technical input at a time.** ADMIXTOOLS 2 accepts both PLINK (.bed/.bim/.fam) and EIGENSTRAT (.geno/.ind/.snp) input. One participant traced unstable f4 output to the PLINK input. The same runs were stable with .geno/.ind/.snp, and the instability came back on a second machine when PLINK input was used again [S25]. That participant was working around the v2.0.1 release (published 3 March 2024). Record input format and package version with every result.
+- **Reproduce unstable runs.** With the data and software fixed, compare input formats and verify sample, allele and SNP mappings through conversion. A participant reported unstable f4 reruns with PLINK input and repeatable results from EIGENSTRAT files [S25]. Preserve the inputs, version and rerun output; this report does not identify a general PLINK defect.
 
 ## 7. Compare only within one declared scope
 

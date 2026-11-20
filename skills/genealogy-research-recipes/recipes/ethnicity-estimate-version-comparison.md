@@ -56,23 +56,24 @@ Link out for the shared steps:
 
 ## 1. Save the outgoing version before the vendor withdraws it
 
-- **AncestryDNA keeps only the current version and the most recent former version, and offers the former for download for 90 days after an update.** Older versions are not available [S1]. Save the previous version first, then the current one [S11].
+- **AncestryDNA keeps only the current version and the most recent former version, and offers the former for download for 90 days after an update.** Older versions are not available [S1 @2026-11-19], [S24 @2026-11-19]. Save the previous version first, then the current one [S11].
 - **Privacy gate:** <!-- privacy-gate: export --> Downloading the estimate PDF and saving screenshots of the Chromosome Painter, parent views and map export the tester's DNA-derived results from the account; answer the privacy gate in `SKILL.md` first.
-- **Download route, website only:** the download is not offered in the Ancestry app [S1]. Open DNA > Origins > Regions. Below the last region, next to the update date, click the previous-results link. Then, beside "What changed?", click **Download PDF** [S1], [S11]. Find the link by its position: its wording changes between years ("See what changed and FAQs" in 2024, "View previous results and FAQs" in 2026) [S12], [S11].
-- **The PDF lists the previous regions with each percentage and range [S11]. It holds nothing else.** Save every other view while the old version is still live: Chromosome Painter, By Parent (and By Grandparent where offered), Journeys and the map [S11], [S19]. Ancestry users reported an advance "update coming" banner before the 2025 release, and advised screenshotting the Chromosome Painter then, to see which stretches were reassigned [S19]. After the update, the "What changed?" comparison and its PDF are what Ancestry offers of the old version [S1].
+- **Download route, website only:** the download is not offered in the Ancestry app [S1]. Open DNA > Origins > Regions. Below the last region, next to the update date, click the previous-results link. Then, beside "What changed?", click **Download PDF** [S1], [S11]. Find the link by its position: its wording changes between years ("See what changed and FAQs" in 2024, "View previous results and FAQs" in 2026) [S12 @2026-11-19], [S11 @2026-11-19].
+- **Save the views the PDF omits.** The previous-version PDF lists the regions, percentages and ranges. Save every other view while the old version is still live: Chromosome Painter, By Parent (and By Grandparent where offered), Journeys and the map [S11 @2026-11-19]. If an update banner appears, capture the Painter then so the outgoing chromosome assignments can be compared with the next version [S28 @2026-11-19].
 - **Capture the current version in full.** Screenshot the whole regions list, from the first heading to the last region, including the update date, and the map. Ranges are not in the list: click each region, then its "i" icon, and record the range [S11].
 - **Start every file name with the date in year-month-day order** [S11].
 - **Save at every update, even when nothing seems to have changed.** With only two versions online at any time, your files are the only record of earlier versions.
-- **MyHeritage:** existing users opt in to v2.5, and the previous model v0.95 stays selectable from the dropdown menu on the results page [S5], [S22]. Capture both versions now.
-- **FamilyTreeDNA:** an upgrade to the NGS Family Finder removes the previous results, and FamilyTreeDNA warns that myOrigins can move by a few points [S8]. Save first, as the FamilyTreeDNA recipe describes.
+
+- **MyHeritage:** for the v2.5 release, existing users could opt in and switch back to v0.95 through the results menu [S5], [S22]. The June 2024 v2 rollout had reached only some kits [S31]. Save each version you can still open.
+- **FamilyTreeDNA:** its August 2026 NGS upgrade guide warned that previous results would be removed and that myOrigins estimates could shift by a few points [S8]. Save the outgoing results before an assay upgrade.
 
 ## 2. Date each estimate by when the vendor computed it, and label its version
 
-- **In the Ancestry PDF, "Processed in" dates the estimate; "Downloaded on" dates only your save.** Name the version by the processed date: a file processed in October 2025 is the 2025 estimate, whenever it was downloaded [S11]. A kit first processed after an update has no previous version [S11].
-- **Do not take dates from the "What changed?" column headings or the regions-page date.** The same comparison was headed "October 2025 / October 2026" on one day and "Previous / Current" two weeks later [S11]. One presenter's regions page showed October 2024 right after the update and later July 2024, with the same percentages [S17]. Quote a displayed date as displayed, next to your own capture date.
-- **Use the version label on the results page, not an announcement or email.** MyHeritage numbers its models (v0.95, a limited v2 in June 2024, v2.5) [S5], [S22]. One user was prompted for "V2.6", then got an email and results reading v2.5 [S20]. FamilyTreeDNA prints "Version 3" at the top of myOrigins [S7]. When no number can be found for a release, as for one 2024 MyHeritage version [S21], label it by its processed or capture date.
-- **Rollouts are staggered kit by kit.** Kits in one MyHeritage family updated at different times, with uploaded and native kits in no consistent order [S20]. Ancestry's banner reached accounts at different times [S19]. Before comparing relatives, confirm that both kits show the same version label. Estimates from different versions are different measurements, not evidence about inheritance.
-- **A new assay is a new version.** FamilyTreeDNA's NGS upgrade can move myOrigins by a few points without a new model [S8]. Record the assay with the version label.
+- Record the vendor’s processing date separately from the date you saved the estimate. In the Ancestry PDF shown in the 2026 guide, these fields were labelled “Processed in” and “Downloaded on.” A kit first processed after the update had no earlier version to compare [S11].
+- Copy the comparison headings and regions-page date as displayed, alongside your capture date. A presenter saw the regions-page date change from October to July 2024 while her percentages stayed the same [S17]. Use the processing date or explicit model label to identify the estimate [S11].
+- Copy the version from the results themselves. For example, FamilyTreeDNA’s 2020 release identified myOrigins with “Version 3” [S7]. A MyHeritage user reported a v2.6 prompt followed by v2.5 results [S29]. If the results give no model number, label them by processing date, or use a capture date explicitly marked as such [S21].
+- Before comparing relatives, check the label on each kit. During the MyHeritage rollout, kits in the same family could still show different versions [S20], [S30]. Defer an inheritance comparison until the estimates use the same model.
+- Record the assay alongside the model label. FamilyTreeDNA’s NGS upgrade guide described possible changes to myOrigins estimates following a change of assay [S8].
 
 ## 3. Write down the method change before reading any number
 
@@ -92,11 +93,11 @@ The tester's DNA did not change between versions; the vendor's method did. Ask f
 
 ## 4. Align the two versions through the vendor's hierarchy, broadest level first
 
-- **Place every region of both versions in Ancestry's hierarchy: continent, then subregion, then region.** Ancestry's interactive list at `ancestry.com/ethnicity/all-regions` puts each region in one subregion of one of five continents [S10], [S11]. Add up each version by continent, then by subregion, and only then compare regions [S11].
-- **Macro-region headings on the results page are a display grouping.** "Celtic & Gaelic" or "West Africa" are not derived from the tester's DNA and carry no percentage of their own [S2]. By late October 2026 the headings showed a percentage equal to the sum of the regions beneath them [S11]. Headings and subregions do not always match one to one: in one example, Northern Europe was the England heading plus the Celtic & Gaelic heading [S11]. Compute every subregion total from its regions, and use the headings only as a cross-check. The previous-version PDF has no headings, so group the old regions yourself [S11].
+- Use the region list for each release to place regions under their subregion and continent. Start with the continent totals, compare subregions next, then examine individual regions [S10], [S11].
+- Compute subtotals from the underlying regions. Ancestry’s 2026 FAQ describes macro-region headings as display groups without their own reference panels [S25]. In the October guide, the England and Celtic & Gaelic headings together covered the tester’s Northern Europe subregion [S11]. Use displayed heading sums as a check and apply the same grouping to older results that lack headings.
 - **"Subregion" names different levels in different years.** Ancestry's 2024 results showed subregions as finer areas inside a region, calculated partly from DNA matches [S12]. The 2026 list uses subregion for the level between continent and region [S10]. Never align a 2024 subregion with a 2026 subregion by name.
 - **A name is not a boundary.** Treat same or similar names in two versions as different regions: "Southeastern England & Northwestern Europe" (2025) and "Southeastern England" (2026); "Western Bantu Peoples" and "Western Bantu & Forest Peoples"; "Canada & United States" and "Atlantic Northeast (Canada & USA)" [S11]. Compare such pairs only through the subregion or continent total they share.
-- **Place an old region that no longer exists by its map area** [S11]. Where an old name straddles two groups, count it with the group its name suggests and record which way the error runs. If part of 30% "Southeastern England & Northwestern Europe" was continental, the British total in 2025 was smaller and the 2026 British gain larger [S11].
+- Use the old map to place a retired region. If it spans two groups, keep its share unsplit, state which group you counted it in and record how that choice affects the comparison. Assigning all of “Southeastern England & Northwestern Europe” to Britain sets an upper bound on that region’s British contribution in the old estimate [S11].
 - **Settler-sounding names in the Americas describe Indigenous-inherited DNA.** In 2026, regions such as "Atlantic Northeast (Canada & USA)" are built only from the Indigenous-inherited parts of reference genomes [S3 p. 5], [S15]. Never align one with a colonial European line.
 - **MyHeritage: group the v2.5 ethnicities under the broad v0.95 groups by their maps**, and record each judgment. The boundaries do not nest exactly: East European took in the easternmost part of the old North and West European area, including part of Germany [S21].
 
@@ -107,24 +108,25 @@ Work from the broadest level down. Stop at the first pattern that explains the c
 | Pattern seen | Reading | Check |
 | --- | --- | --- |
 | A continent moves by 1 or 2 points | Update side effect; regions display as whole percentages, so a continent total can move a point from rounding alone | Treat the continent total as steady |
-| One region gains about what its neighbours lose | The same DNA reassigned between look-alike neighbours | Add the gains and the losses inside the subregion; read the subregion total |
+| One region gains about what its neighbours lose | A reassignment among neighbouring regions could explain the pattern | Compare the broader total and check the two saved Painter views for changes at the same chromosome positions |
 | A region drops to 0 and new names appear in the same area | Split, rename or retirement | Is the old name still on the current list? Compare the shared parent total |
 | A region moves, but the new value sits inside the old range | The range gives no reading; go on to the subregion total | Section 6 |
 
-- **A trade between neighbours is inside what Ancestry counts as correct.** In its 2026 single-origin tests, raw precision for a region is about 50%, while weighted precision, which counts an assignment to a genetically similar neighbour as a correct reading, is above 90% for most regions [S3 pp. 18, 22]. The hard choice is between close neighbours: England has six neighbouring regions, Nigeria eight and Mexico 15 [S3 p. 13]. Ancestry staff say this applies to large percentages too, not only small ones: which neighbour receives the DNA depends on who is in the reference panel [S16].
-- **Worked reassignment:** Great Britain rose 15 points; Ireland and the Nordic countries fell 5 each, Western and Southern Europe 2 each. The losses total 14, close to the gain, so the DNA was reassigned. Northern Europe rose only from 55% to 60%, mostly with the 4 points Western and Southern Europe lost, and Europe as a whole moved one point [S11].
-- **Worked split:** West Africa went from seven regions to nine, with nearly every name changed, while its total moved from 33% to 31% [S11]. Compare the West Africa total. Never divide an old percentage among the new regions.
-- **"New" next to a region is a naming event.** Ancestry labels newly reported regions "New", and Ancestry staff explain such labels as a former single region broken out into several [S14], [S16]. Align a "New" region through its parent total before reading it.
-- **A trade that runs over several updates is still an update effect.** One tester's Scotland went from 66% to 51% to 26% across three successive versions, while England & Northwestern Europe rose from 28% to 55% in the last step [S19]. Watch the subregion total, not one region's trend.
-- **A category that disappeared with a version says nothing against that ancestry.** MyHeritage dropped Maasai and Sierra Leonean in v2.5 for lack of training samples and says they may return [S5]. Ancestry split its former Germanic Europe region and retired its Middle East region [S2].
+- **A trade between neighbours is inside what Ancestry counts as correct.** In its 2026 single-origin tests, raw precision for a region is about 50%, while weighted precision, which counts an assignment to a genetically similar neighbour as a correct reading, is above 90% for most regions [S3 pp. 18, 22]. The hard choice is between close neighbours: England has six neighbouring regions, Nigeria eight and Mexico 15 [S3 p. 13]. Ancestry staff say this applies to large percentages too, not only small ones: which neighbour receives the DNA depends on who is in the reference panel [S16], [S26].
+- Add a region’s gain and its neighbours’ losses in percentage points. Similar totals support reassignment as a possible explanation. To locate a change on a chromosome, compare the same positions in both saved Painter views [S11], [S27], [S28].
+- When a category splits, compare the total across the same map area. The published West Africa example went from seven labels to nine while the combined estimate moved from 33% to 31% [S11]. Leave the old share intact unless the older results themselves give a breakdown.
+- Check the release’s explanation of labels. In Ancestry’s 2026 FAQ, “New” identified a newly reported region and “Split into” indicated a named split [S25]. Check the old regional map before interpreting a new name [S14], [S16].
+- For movement across several updates, align the groups afresh for each release. Follow the broader total alongside the individual estimates before interpreting a recurring regional trend [S11], [S19].
+- **A category that disappeared with a version says nothing against that ancestry.** MyHeritage dropped Maasai and Sierra Leonean in v2.5 for lack of training samples and says they may return [S5]. Ancestry split its former Germanic Europe region and retired its Middle East region [S25].
 
 ## 6. Compare the new percentage with the old range, never one range with another
 
 - **Ranges from different versions are built differently.** Ancestry's 2026 ranges come from measured error in simulated people of known ancestry [S3 p. 25]; its 2025 ranges came from 1,000 alternative model paths [S4 p. 19]; a 2013 Ancestry presentation described the percentage as the average of 40 runs [S9]. Do not compare an old range with a new one. A narrower new range is not new certainty about the person.
-- **Ask one question: is the new percentage inside the old range?** Connacht fell from 10% (range 1–10%) to 2%; Leinster rose from 1% (0–10%) to 5%; three regions fell to 0% from ranges that already included 0 [S11].
+- Check whether the new percentage falls within the old range, including zero. In the published Connacht comparison, the change from 10% to 2% stayed within the former 1–10% range [S11].
 - **Inside the old range:** the old estimate already allowed this value, so the move alone is no evidence about ancestry [S11]. Read its subregion total first, because neighbouring regions trade share, then run the region through sections 7 and 8 [S11]. A region that keeps bouncing between updates is wobble [S11].
 - **Outside the old range:** look for a section 5 pattern first: a reassignment or split pushes one region outside its old range while the subregion total holds [S11]. If no section 5 pattern explains it at the subregion or continent level, it becomes a section 8 hypothesis.
-- **Record every current range now.** The next update's PDF prints them, but only for 90 days [S1], [S11].
+
+- Record the current ranges with the estimate. Ancestry makes the previous estimate available for 90 days after an update [S24 @2026-11-19]. The 2026 guide shows where the previous ranges appeared in the download [S11 @2026-11-19].
 
 ## 7. Apply the version's own reliability floor to small regions
 
@@ -139,9 +141,9 @@ Work from the broadest level down. Stop at the first pattern that explains the c
 
 ## 8. Keep a version log and form hypotheses only from what is left unexplained
 
-- **Log one row per level, broadest first:** level, name in each version, percentage in each version, the range for a region, the pattern from sections 5–7, and any hypothesis [S11]. This log is the only multi-year comparison that will survive.
+- **Log one row per level, broadest first:** level, name in each version, percentage in each version, the range for a region, the pattern from sections 5–7, and any hypothesis [S11].
 - **Write a hypothesis only for a change no pattern explains** [S11]. Candidates: a continent move larger than 2 points that no region on a continental boundary explains; a subregion total that moved with no matching loss elsewhere in its continent; a region above its floor that persists across versions and conflicts with the documented pedigree. Name the records or matches that would test it.
-- **A new version that fits the paper trail better does not confirm the paper trail.** One tester's Germanic Europe went from 4% to 37%, closer to the documented lines [S19]. That shows the model changed, not that the pedigree is right.
+- When a revised estimate agrees more closely with a documented line, keep the estimate and the records as separate observations. In one reported Germanic Europe result, the percentage changed from 4% to 37% between updates [S19]. Test the relationship against records and identified DNA matches.
 
 ## Close with a version-comparison packet
 

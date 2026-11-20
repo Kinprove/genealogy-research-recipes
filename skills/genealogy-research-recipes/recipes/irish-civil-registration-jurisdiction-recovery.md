@@ -30,8 +30,8 @@ To select a Catholic parish and open its register images, use [Irish Catholic pa
 
 Record each of these as its own field: townland, civil parish, Roman Catholic parish, poor law union / registration district, barony and county (add the province if known). Do not copy one unit's name into another field. Names and boundaries differ between these units, and different record series are arranged by different units. [S3]
 
-- **Civil parish vs Catholic parish.** Keep them separate. In County Cork, the civil parish of Clonfert (barony of Duhallow) is divided between two present-day Catholic parishes, Newmarket and Rock and Meelin, and their boundaries do not match the civil parish. [S3] Lewis's 1837 *Topographical Dictionary* instead gives Kanturk and Newmarket as its Catholic parochial districts [S4], so match the Catholic parish to the date of the record. Civil parishes generally, though not always, shared boundaries with Church of Ireland parishes until disestablishment (Irish Church Act 1869, in force 1 January 1871). For a record before 1871, confirm the match against Lewis's entry for the parish or the RCB register list before treating the two as one unit. After that date, do not assume they match.
-- **Barony.** A barony name may also appear as the name of another unit with different boundaries. The presenter's example is Duhallow. Do not assume the matching unit is the same place. [S3]
+- **Civil and ecclesiastical parishes.** Match the townland to the parish of the right denomination at the event date. For Clonfert civil parish, County Cork, Lewis lists Kanturk and Newmarket as Catholic districts in 1837 [S4]. Brady’s later map shows Newmarket and Rock and Meelin across the civil parish [S3]. For a Church of Ireland entry, check Lewis or the parish register list. Disestablishment took effect on 1 January 1871 [S25]. That date alone does not establish a local boundary.
+- **Barony.** Keep the barony and its county in separate fields. In Brady’s Cork example, Duhallow is the barony and Clonfert the civil parish [S3]. Check which unit the finding aid actually indexes.
 - **Townland.** Never identify a townland from its name alone. Townland names repeat across Ireland, sometimes within one county. Accept a townland only if it appears in the townland list of the parish you already support. Otherwise, record it as unresolved. [S3]
 
 On the documented townland’s Townlands.ie page, copy the listed electoral division, civil parish, barony and county into separate fields [S16 @2026-11-16]. Follow the [Irish census recipe](irish-1901-1911-census-returns.md) for census searching. Only a transcript excerpt was inspected for the video’s place-name suggestion [S21 @2026-11-16].
@@ -43,7 +43,7 @@ The registration district is the key field for a civil search. The district name
 - **From a civil-registration index entry.** Search IrishGenealogy.ie first. It is free and needs no registration. It covers the whole island to the end of 1921 and the Republic only from 1922: births 1864–1925, marriages 1845–1950 (Catholic marriages from 1864) and deaths 1864–1975, with one more year added each spring. Most index entries open the register image free; deaths before 1871 are index only. [S8] Findmypast, Ancestry and FamilySearch also carry the indexes. If one site returns no hit, search the others before treating the index as silent.
 - **From the event's townland or parish.** Use a townland database or a genealogical atlas. Brian Mitchell's *A New Genealogical Atlas of Ireland* (2nd edition) maps poor law unions alongside civil parishes, Catholic parishes and baronies. Either route requires a supported townland or parish first. [S1]
 
-Record the district under its own name, separately from the parish and town fields. In the presenter's example, a Findmypast index hit for 1871 gave Kilrush as the district. He then searched the civil records on IrishGenealogy.ie by name, district, year and event type, passed the CAPTCHA, and opened the register image. [S1]
+Carry the registration district from an index hit to the register search, along with name, year and event type. In Johnson’s 1871 example, Kilrush was the district that led from the Findmypast index to the IrishGenealogy register image [S1]. Transcribe the residence from the entry under its own field.
 
 Search relevant O’ and Mac surnames with and without their prefix. Matheson recorded prefixed and unprefixed forms in the same record [S18]. Log each form separately and compare the person, place and event before linking hits [S23].
 
@@ -51,11 +51,11 @@ Search relevant O’ and Mac surnames with and without their prefix. Matheson re
 
 From the index entry, copy these fields exactly: year, quarter (from 1878 only), registration district, volume, page and mother's maiden name if shown. [S1] The national indexes for 1864–1877 are annual and have no quarter. For those years, record the year only and leave the quarter field empty rather than guessing one.
 
-- **Prefer the online image.** Where IrishGenealogy.ie opens the register image, cite that image. The next two bullets, on certificate films, apply only to an entry it shows without an image (such as a death of 1864–1870) or to a FamilySearch film locator you already hold. [S8]
+- **Prefer the online image.** Where IrishGenealogy.ie opens the register image, cite that image. The next two bullets, on certificate films, apply only to an entry it shows without an image (such as a death of 1864–1870) or to a FamilySearch film locator you already hold. [S26 @2026-11-19]
 - **Don't use the index film number.** It belongs to the index, not the certificates. Ignore it when choosing the certificate film. [S1]
 - **Check the volume first.** Confirm you are in the correct volume before going to the page; the presenter notes that one certificate film can hold several volumes. [S1]
-- **Don't treat the quarter as the birth date.** In the presenter's example, the index showed a registration quarter of April–June 1942, but the child was born in March 1942. Births are registered after they happen, so put the quarter in its own field. Take the event date only from the certificate. [S1]
-- **Page through every result.** Do not stop at the first page of index hits. In the presenter's example, the target was on the second page. [S1]
+- **Separate registration quarter and birth date.** Births are registered after they happen, so put the quarter in its own field. Take the event date only from the certificate. Johnson reports a March 1942 birth indexed in April–June 1942 [S1 @2026-11-19]. Include the following quarter when searching near a quarter boundary.
+- **Check the remaining results.** Page through the entire result set and compare the mother’s maiden surname where the index supplies it. Johnson located a candidate on page two and checked the maiden surname there [S1 @2026-11-19].
 
 Where the actual search expands name variants only for the primary party and treats the second-party name literally, rerun the marriage search with the parties exchanged, even after a plausible hit. [S5]
 
@@ -81,7 +81,7 @@ When the civil birth date is later than a baptism attributed to the same child, 
 
 ## 4. Check where non-Catholic registers survive before choosing a route
 
-For Church of Ireland parishes, look up the parish in the RCB Library's published list of Church of Ireland parish registers first. The presenter reached it by searching for "list of Church of Ireland registers". The list is colour-coded. Record the parish's disposition as one of the following: [S2]
+Look up the Church of Ireland parish in the RCB Library’s *List of Church of Ireland Parish Registers* [S24 @2026-11-19]. Read the colour key and the full parish entry, including separate lines for losses and surviving material as Johnson demonstrates [S2 @2026-11-19]. Record the date range and the disposition that applies to the register you need:
 
 - held by the Representative Church Body (Dublin)
 - held by PRONI (Belfast)

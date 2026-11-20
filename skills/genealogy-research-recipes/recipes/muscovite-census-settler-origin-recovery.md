@@ -40,10 +40,10 @@ Related recipes: for searching under historical administrative units, parallel c
 
 The revisions are not the earliest layer. For the Ural and Siberian side, the Siberian Prikaz fond (RGADA f.214) and related fonds hold a dense pre-1719 series. Before you search a surname, list the books that fit the target sloboda's uezd and period.
 
-The Poskochin Tobolsk locator below has been confirmed against a published description. The other locators come from participants' posted extracts and have not been confirmed. Use them as working locators, but confirm each fond/opis/delo in the current inventory before you order, however many threads cite it: repeated citations often come from the same participant.
+Check the fond, opis and delo against an inventory before ordering. The RGADA inventories cited below identify Poskochin’s Tobolsk volume and the two 1748 Ekaterinburg books. Treat the other locators from posted extracts as leads. Several threads can repeat the same reader’s citation.
 
 - **Census books (переписные книги).**
-  - Tobolsk uezd, census of L. Poskochin, years 189–191 (1680/81–1682/83): RGADA f.214 op.5 d.261. [S1], [S2], [S5], [S7], [S19] Order it as op.5. One post cites op.15 [S10]. That reading is a slip and has no other support.
+  - Tobolsk uezd, L. Poskochin: RGADA f. 214, op. 5, d. 261. The inventory calls it a Tobolsk cadastral book and dates it 1683 [S35]. Posted extracts give its working years as 189–191 (1680/81–1682/83) [S1], [S2], [S5], [S7], [S19]. Use op. 5 when ordering; one thread prints op. 15 [S10].
   - Verkhoturye uezd, Poskochin, 1680: f.214 op.1 d.697. [S18]
   - Tobolsk uezd 1710: the Tomilov book, f.214 op.1 d.1524 [S1]; Maslyanskaya and Barnevskaya slobodas, d.1525 [S5], [S10]; the Turskiy book, d.1526 [S5], [S11].
   - Verkhoturye uezd 1710: d.1539. [S18]
@@ -59,17 +59,17 @@ The Poskochin Tobolsk locator below has been confirmed against a published descr
 - **Post-1719 bridges.**
   - The 1735 Katay revision (GASO f.42 op.1 d.86) and the 1743 revision (GASO f.38 op.1 d.29). [S7]
   - The 1744 Shadrinsk district revision, cited as RGADA f.614 op.1 d.73. [S1], [S2] Both threads work from this case, and S1 gives its folio index. Verify the fond number in the inventory when you order.
-  - The 1747/48 Ekaterinburg-department revision (RGADA f.350 op.2 d.900, d.901). [S18], [S24]
-  - A Tobolsk uezd book that a participant tentatively dated 1726 (GATO f.И47 op.1 d.556). [S19] Settle its date from the GATO f.И47 op.1 inventory description or the book's title leaf before you use it as a dated episode.
+  - Ekaterinburg department: forum extracts give RGADA f. 350, op. 2, dd. 900 and 901 [S18], [S24]. The inventory dates both to 1748 and lists different settlements: Katai and Kamensk in d. 900, Aramashevskaya and Nevyanskaya in d. 901 [S36].
+  - Tobolsk uezd, GATO f. И47, op. 1, d. 556: the posted extract gives “1726?” [S19]. Check the inventory or title leaf before assigning the household to 1726.
 - **On the European departure side,** use RGADA f.1209 for 17th-century census and cadastral books and the 1710 censuses. Examples are Solvychegodsk 1710 (d.1082), Vyatka 1710 (d.1098), Ustyug Utmanovskaya volost 1677–78 (d.15047), Urzhum 1646 (d.6468), Vyatka 1678 (d.521) and the Kadyy volosts (d.10958–10996). [S2], [S8], [S11], [S14], [S6] Use RGADA f.350 for the 1716–17 landrat censuses, for example Urzhum (op.1 d.136) and the Arskaya doroga (op.1 d.147). [S8], [S25]
 - **Holders outside the state fond.** [S4], [S9]
   - Estate books (сотные) for the Stroganov estates are in the Stroganov fond at RGADA.
   - A sound 18th-century copy of the 1623/24 Solikamsk census is in GASO f.111.
-  - A 1735 copy of the 1678 Belsky census of the Stroganov estates is in a personal fond at GAPO. Its units are paid, and full copying was refused.
+  - For Stroganov estates, seek the 1735 copy of the 1678 Belsky census in the Dmitriev personal fond at GAPO. A researcher reported receiving an extract after a request to copy the whole Kishert estate section was refused [S4]. Confirm current copying terms for the material you need.
   - The 1623/24 Kaysarov cadastral book for Cherdyn and Solikamsk is in ОР РГБ, cited as f.256 d.308.
 
   For each copy, record its date, holder and the part of the territory it covers. The GAPO copy covers only the Stroganov estates, not Solikamsk. [S4]
-- **Boyar and town books (RGADA f.137).** These are filed by territory but can be misfiled. A participant reports that the 1645/46 Dvina uezd census sits in the Klin inventory. [S9]
+- **Boyar and town books (RGADA f. 137).** If the territorial inventory misses a known book, check alternative inventory headings. A researcher reports the 1645/46 Dvina uezd census under Klin [S9]. Verify the book’s own heading before assigning its entries to either place.
 - **Later copies of land grants.** According to a posted GASO inventory, f.733 op.1 d.1 holds petitions and land grants of Irbit uezd state peasants. They are 1831 copies of 17th–18th-century documents, not originals. [S22]
 
 **Finding and viewing cases.**
@@ -104,57 +104,49 @@ Note the section heading as well. Siberian books group newcomers under headings 
 - **Short anno-mundi years.** Before 1700, '189' means 7189. The year began on 1 September, so 7189 = September 1680 to August 1681. Write it as "189 [7189 = 1680/81]". If the month is given, subtract 5509 for September–December and 5508 for January–August (for example, 7206 in September = 1697). [S1], [S3], [S15]
 - **Letter numerals.** Fugitive-inquiry files write years as letter numerals. Examples: РПЗ = 187, РПИ = 188, РПѲ/РЧ/РЧА = 189/190/191, РЧЕ = 195, СS = 206, ҂АѰГ = 1703. [S17] Transcribe the letters and give the value in brackets. Three-letter values of this kind are short anno-mundi years and are converted as above. A ҂ multiplies the letter after it by a thousand and does not mark the era, so read the full value: ҂АѰГ = 1703 is a Nativity year, but a full anno-mundi form such as ҂ЗРПѲ = 7189 is converted as above.
 - **From 1700 the books count from the Nativity.** These are the 1700 customs book, the 1702 and 1703 income books, and later short forms such as 700, 720, 724, 742. A 1710 entry can put a death 'в 202-м году' (7202 = 1693/94) next to one 'в 700-м году' (1700). [S3], [S4], [S7], [S18] Never subtract 5508 from a three-digit year of 700 or more.
-- **Separate folios from years.** In one posted extract, '698)' looked like part of a name. A later post corrected it to the folio number 698 and supplied the real dates in the same sentence (186 and 190). [S2] A three-digit number next to '(л' or a bracket is a folio until the text shows otherwise.
+- **Separate folios from years.** Look for a leaf boundary or «л.» and read the surrounding sentence. In one transcription «698)» was the folio, while 186 and 190 were the survey years [S2]. Confirm a bare number against the image or neighbouring folios before treating it as a date.
 
 ## 4. Treat origin, arrival year and age as testimony
 
-- **An arrival year is what the householder or clerk said.** A man recorded as present in the 1659 census was entered in 1680 as arriving 'со 171-го году' (1662/63). A participant suggested that the clerk fixed the year by an event the man remembered, such as a raid. [S16] Test every arrival year against earlier books. Keep the stated year and the year you have shown separately.
-- **Formula phrases can be wrong.** In a 1743 entry, 'native of the same ostrog' was given for a man about 82 whose family is absent from the known 1683 and 1695 censuses. The researcher read it as a clerk's stock phrase. [S7]
-- **Do not use an adult age as a filter.** Adults gave approximate, often rounded ages. In the two copies of the 1719 census for one ostrog, the same men differ by 5 to 10 years. Children's ages were recorded more closely, though a 3-year difference occurs there too. [S7]
-- **A household list can be incomplete.** A family listed in the 1677–78 Ustyug census reappears in the 1680 Shadrinsk book with sons whose ages place their births before 1678, though the earlier book does not list them. Treat the earlier count as incomplete for such households. [S14]
-- **A mismatch lowers rank, it does not exclude.** An age or arrival-year mismatch lowers a candidate's rank. It never excludes the candidate.
+- **Test the stated arrival against earlier books.** A Beloslud resident appears in the 1659 census despite a later statement dating his arrival to 1662/63 [S16]. Keep the reported arrival and earliest documented presence in separate fields. Leave the reason for the conflict open.
+- **Test birthplace formulas.** If an entry calls someone native to the ostrog, check named relatives and earlier returns with known coverage. In one 1743 case the family was missing from the 1683 and 1695 censuses [S7]. That raises a question about the birthplace formula without identifying another birthplace.
+- **Compare ages across copies.** In a reported Katai comparison some adults’ ages differed by five to ten years, and even a child’s age differed by three [S7]. Keep both figures, compare relatives and household structure, and avoid a fixed age cut-off.
+- **Check for children omitted from the household.** A 1680 Shadrinsk extract names sons whose stated ages imply they were already born when the 1677–78 Ustyug list omitted them [S14]. Verify the household link, ages and coverage before using an absence against a proposed son.
+- **Retain conflicting readings.** An approximate age or stated arrival year can justify a lower ranking. Test the conflict against independent dated records before accepting or excluding the candidate [S7], [S16].
 
 ## 5. Resolve the stated origin through the uezd
 
-- **Anchor on the uezd.** A participant who works these origins says that uezd names were written more or less correctly, but volost and village names were often distorted beyond recognition. [S6] In the worked case, the Siberian entry's 'Кудская волость города Кадуя' was the Kuskaya volost of Kadyy. The modern Kaduy in Vologda oblast was a false look-alike. [S6]
-- **List the place's historical successors.** In that case the participant gave this chain: Kadyevskaya osada of Kostroma uezd, then Kadyy uezd of Kostroma province or namestnichestvo, then Makaryev uezd of Kostroma guberniya. [S6] Kadyy was an uezd of the Kostroma namestnichestvo from 1778 until the end of 1796. When the uezd was abolished, its territory was divided among Galich, Kineshma and Makaryev uezds. Check which successor took the specific volost, and search the origin-side books under each unit that held it. For dated-jurisdiction checking, use [evidence/proof judgment](evidence-proof-judgment.md).
-- **Record each stop on the route separately.** A village in Vyatka uezd mentioned in the same statement was an intermediate stop between flight from a landowner and arrival in the sloboda. It was not the origin. [S6]
+- **Use the uezd to test a distorted place name.** A reported Siberian entry gave «Кудская волость города Кадуя» [S6]. A 1710 estate return places the named households in Куская волость, Кадыевская осада, Kostroma uezd [S37]. Check the period jurisdiction before selecting the modern Vologda place called Kaduy.
+- **Trace the specific volost through boundary changes.** Start with Kadyevskaya osada of Kostroma uezd [S6], [S37]. Kadyy became an uezd town of the Kostroma namestnichestvo in 1778 and belonged to Makaryev uezd after 1796 [S38]. For the former uezd’s villages, check the Galich, Kineshma and Makaryev successors against a dated map or inventory before searching the books [S39]. See [evidence/proof judgment](evidence-proof-judgment.md).
+- **Separate birthplace, intermediate residence and arrival.** A settler’s statement named a Vyatka village between his flight from the landowner and his arrival in the Siberian sloboda [S6]. Preserve each place with the words that identify its role.
 - **Do not infer an origin from a surname alone.** Carry the stated birth uezd to its own records. [S19]
 - **If no origin is stated, test surname clusters.** Tabulate every family of the destination village. Check each family against the 1710 and 1719 books of candidate source slobodas. Search first and deepest where a cluster appears, but do not require a cluster: a lone household from a more distant place can still be traced on its own. Allow for surnames that changed. [S11] One participant held that the Middle Urals were settled from the west and the southern Trans-Urals from the north, not the east. Use that to order the search, not to exclude a source area. [S11]
 
 ## 6. Confirm the origin on the departure side
 
 - **Look for the departure note.** Search the origin-side census or cadastral book for a deserted-homestead note naming the same man.
-  - Worked case, departure side: the 1710 Solvychegodsk census (f.1209 op.1 d.1082) recorded an empty homestead site in the stated village. It said the site had become empty after the census books of 186 and before the scribe books of 190, and that the peasant had gone 'to the Siberian towns' with wife and children.
-  - Worked case, arrival side: the Poskochin book has him in Maslyanskaya sloboda 'since 189', with the same parish and village of birth and a diminutive of the same given name. [S2]
-  - Record both folios and the departure window between the two surveys (186–190 = 1677/78–1681/82). Check that the window agrees with the stated arrival.
-- **One match covers one household.** The same village produced two settler households in the Poskochin book. A departure note matches one of them, so log the other as unconfirmed. [S2]
-- **Origin-side books also record departures with years.** The 1646 Yarensk census (cited by a participant as RGADA f.1209 op.1 kn.143) notes men who 'сшел в Сибирь' in 148, 150 or 152. [S12] Read these notes as departure-side observations that you can carry forward.
-- **Finding the family at its former residence is a second confirmation route.** In the Kadyy case, the named men were found in the 1710 census of the stated volost. Surviving 17th-century census and cadastral books for that osada then gave a route further back. [S6]
+  - Match the departure interval, direction of travel, household, parish and village against the arrival statement. In the posted Solvychegodsk extract (RGADA f. 1209, op. 1, d. 1082), the two surveys bracket a family’s departure for Siberia between 186 and 190 (1677/78–1681/82). The Maslyanskaya entry gives arrival in 189, the origin village and a diminutive of the given name [S2]. Record the two folios separately.
+- **Match one household at a time.** Two Maslyanskaya households gave the same origin village, but only one could be linked to that departure note [S2]. Keep the second household open.
+- **Extract explicit dates of departure.** Check the 1646 Yarensk census, cited as RGADA f. 1209, op. 1, kn. 143, for «сшел в Сибирь» and the year that follows [S12]. Use the wording to date departure. Search the destination separately for arrival.
+- **Distinguish a mention in the old village from presence there.** In the 1710 Shutovo return, Agapit Vasilyev is listed with his family, while Roman Vasilyev is named in an empty-household entry that dates his flight to 1708 (RGADA f. 350, op. 1, d. 133, fols. 170–170v) [S37]. Trace the earlier osada in its census and cadastral books [S6].
 
 ## 7. Chain households through backward statements, fiscal and inquiry records
 
-- **Use the backward statements in 1710–1711 books.** Entries say a man lives in his father's or grandfather's house, who died in which year, and which empty houses were left and when. [S4], [S17] A 1711 entry can also correct an earlier census, for example by saying that a son written in the 186 books died in 206. [S17]
+- **Extract retrospective statements in 1710–1711 books.** Look for the previous householder, a father’s or grandfather’s house, a deserted dwelling and a dated death [S4], [S17]. If a later clerk amends an earlier entry, retain the old wording alongside the correction and locate the earlier folio.
 - **Follow empty-household notes to the heirs.** If a census marks a house empty and says the heirs live on a named new settlement (починок), go to that починок in the same census. Match the sons by name and age to the earlier household listing. [S20]
 - **Use the explicit back-references in landrat books (1716–17).** They record each household's entry in the 1710/1711 census, a split from a father's or uncle's household, a move from another village of the same hundred, and deaths and flights with year and destination. Link across the two censuses by these references, not by name. [S25]
 - **Date a settler's arrival from fiscal books.**
   - Find the income-book section for peasants newly charged obrok after leaving the settler exemption ('вышли изо льготы').
-  - Work out the exemption length from a documented case in the same sloboda and period. A participant derived one year for Novopyshminskaya around 1698. The settler was placed in September 7206 (1697) and appears among those leaving the exemption in 1698/99. Do not carry that length over to other slobodas or decades. [S3]
+  - Compare a dated placement with the first tax assessment in the same sloboda. A September 7206 (1697) placement and a 1698/99 entry leaving exemption prompted an estimate of one year at Novopyshminskaya [S3]. Use the local dates and any stated terms before estimating another settler’s arrival.
   - Customs books record sales between named peasants and can give an earlier attestation. [S3]
   - Peasant books were obrok assignments, not censuses. A man could still be listed at his old place after moving to the works. [S16]
-- **Look for a fugitive-inquiry (сыск) file.** A posted extract of a 1703 inquiry (f.214 op.1 d.1314) quotes, for each household, the Poskochin book of 189–191, the 195 census, the 206 census and a copy of the 187 estate census. It adds the man's own interrogation about origin, flight, marriages and in-laws. [S17] Log each quoted book and year as its own observation, then check the cited books themselves.
-- **Do not assume the interrogated man is the head of household in the books.** In that file the man interrogated was the son of the head named in the books. The father's patronymic appears in two forms, and one man's given name is written one way in the books and another way in the interrogation. [S17] Link these by the household's composition and route, not by an exact name match.
-- **Some books list householders only.** Some 17th-century Siberian books give only the householder, without family members (for example the 1659 Beloslud entries). [S16]
+- **Look for a fugitive inquiry (сыск).** A posted 1703 extract (RGADA f. 214, op. 1, d. 1314) quotes the 189–191, 195 and 206 books and a copy of the 187 estate census, alongside testimony about origin, flight and marriages [S17]. Extract the speaker and locator for each statement and check each quoted entry against its book.
+- **Identify the person being questioned.** In that inquiry the witness was the son of the household head in the books, and the name forms differed between records [S17]. Compare the named father, household and route before linking the testimony.
+- **Check whether the enumerator named dependants.** The reported 1659 Beloslud entries name householders alone [S16]. Use another series to look for their spouses or children.
 
 ## 8. Compare parallel copies entry by entry
 
-The 1719 census survives for the Katay ostrog both in the RGADA f.214 op.1 d.1587 book and in GASO f.24 op.2 d.74, the household book of D. Rukin. A participant compared them and recorded these differences [S7]:
-
-- The GASO copy adds women and taxes.
-- Surnames are spelled by ear differently in the two copies.
-- Settlements are grouped differently: one copy merges a village into a selo, and a selo in one copy is the ostrog's posad in the other.
-- Adult ages differ by up to 10 years.
-- A child is half a year old in one copy and one year in the other, which suggests the copies were made at different times.
+For the 1719 Katai ostrog, compare RGADA f. 214, op. 1, d. 1587 with D. Rukin’s household book, GASO f. 24, op. 2, d. 74. The local version reportedly names women and records taxes absent from the central version [S7]. Compare ages, surname spellings and village grouping row by row. A village can be folded into a selo or its inhabitants listed under the ostrog’s posad. A child’s differing ages may prompt a check of the two dates, but cannot date the copies by themselves.
 
 Log each copy as a separate observation with its own locator. Do not treat agreement between them as independent support. For the copy discipline itself, follow [research documentation](research-documentation.md).
 
@@ -166,24 +158,24 @@ Log each copy as a separate observation with its own locator. Do not treat agree
   - householders without a surname in a village whose alternative name ('… тож') matches the surname
   - letter confusions such as Т/М
 
-  A link such as a widow's son aged 4 in 1646 and a man with the same name and patronymic in 1678 stays a hypothesis. [S12] Pre-baptismal or worldly names can stand as the official name. A 1747 entry gives the earlier census name and the baptismal name together. [S20], [S23]
-- **Expect surnames to change.** A settler can carry a surname taken from his father's church office in the Siberian book while his children later revert to the family surname. [S14]
-- **A surname dictionary built from census books is a lead, not a source.** In one check, the dictionary attributed a 1623 person to one surname while the manuscript extract read a similar but different one. The dictionary's cited village also lacked a person who appears in a neighbouring починок. Read the manuscript or an extract, and check neighbouring settlements. [S9]
-- **A within-family chain is stronger where only one household of the surname lives in the village.** That was the case for the bridge from the 1747 revision to early-19th-century metrical books. Even then, test patronymics generation by generation. [S18] Send the identity ruling to [evidence/proof judgment](evidence-proof-judgment.md).
+  Keep a proposed child-to-adult link open if only the name and patronymic agree across the interval [S12]. Preserve the earlier name and baptismal name separately when a later return supplies both [S20], [S23].
+- **Track occupational and family names separately.** One posted comparison links a church clerk’s son named Хомяков at origin with a Siberian entry under Попов and reports that his children later used Хомяков [S14]. Test the link through birthplace, household and patronymics before adopting either surname.
+- **Follow a surname dictionary’s citation to the record.** In a reported check the surname reading differed from the manuscript extract, and another cited person turned up in a neighbouring починок [S9]. Inspect the original page when possible, including nearby settlements, and retain the dictionary’s reading separately.
+- **Check each generation across a gap.** Even if only one household of the surname appears in a village in 1747, compare each later household’s patronymics and relatives before connecting it to the early-19th-century metrical books [S18]. Use [evidence/proof judgment](evidence-proof-judgment.md) for the identity ruling.
 
-- **A father's worldly name can become his children's surname while their patronymic follows his baptismal name.** In medieval Rus one person could bear several names at once, and his public name often differed from the name he received at baptism. [S29] In a Tula-region case, the 1624 cadastre of Venev lists a townsman under the worldly name Завьялко; the blogger reports that later documents give his baptismal name as Игнатий, and the 1646 household census of the town lists his sons in the form «… Игнатов сын Завьялов». [S28] Search the father's worldly name as the children's surname, and do not reject a son whose patronymic does not match it.
+- **Search a father’s worldly and baptismal names separately.** One person could use both [S29]. A 1624 Venev cadastre names Завьялко, while a 1646 census gives two householders the form «Игнатов сын Завьялов» [S28]. The blogger attributes Игнатий as the father’s baptismal name to unidentified later records. Test the father’s worldly name as the sons’ surname and the baptismal name as the source of their patronymic.
 
 ## 10. Classify an absence before reading it
 
 Before you write that a family was absent, record which of these applies:
 
 - **The book did not record departures.** Treat the 1719 books as not showing those who left. A participant states this and points to a transcribed 1719 book [S11]. It fits the 1719 census's place as the first poll-tax census. The 1744 Shadrinsk revision, which had 1719 to count against, has a separate dead-and-departed section for each village. [S1] A family missing from a 1719 village has therefore not been shown to have left.
-- **The book is incomplete or out of scope.** The 1744 Shadrinsk case has no beginning or end, and the town's leaves 1–33 are missing. It contains no Techenskaya sloboda at all, and one village listed in 1719 is missing from its 1744 group. [S1] The 1719 Chumlyak book was reported missing. [S11]
+- **Record missing leaves and settlements.** The posted description of the 1744 Shadrinsk book identifies missing ends and town leaves 1–33, and gives no Techenskaya sloboda or entry for one village known in 1719 [S1]. A separate report describes the Chumlyak book for 1719 as missing [S11]. Distinguish a missing part of a book from a whole volume you have yet to locate.
 - **The book is a copy limited to part of the territory,** such as the GAPO copy covering estates only. [S4]
 - **The book may be misfiled** under another territory's inventory. [S9]
 - **The household was hidden or recorded under another household or name.** [S14], [S20]
 
-- **The book did not record women.** A 17th-century census entry for a taxed household took in all its males, whatever their age, with their kinship and ages; women were added only in the 18th century. [S30] A genealogist found a 1678 book listing males only, with given names written in forms such as Якушко and Ивашка. [S31] So read a wife or daughter missing from a 17th-century book as out of its scope, and search for a man under the diminutive form of his given name as well as the full form.
+- **Check whom the 17th-century book names.** Taxed-household lists could concentrate on males [S30]. A published 1678 example uses male diminutives such as Якушко and Ивашка [S31], but extracts from the 1646 Yarensk census name widows as householders with their sons [S12]. Read the heading and household roles before interpreting a missing wife or daughter. Search diminutives alongside full given names.
 
 Only an inspected book that covered the place, with a hit-free reading of the relevant leaves, supports a negative result. Even then it is bounded to that book.
 

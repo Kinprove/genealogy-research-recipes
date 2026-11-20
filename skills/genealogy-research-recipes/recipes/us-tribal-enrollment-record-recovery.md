@@ -57,8 +57,8 @@ Link out for the shared steps:
 
 ## 1. Turn the lore into a claim about one person, one tribe, one place and one period
 
-- **Test the tribe against the place before choosing a roll.** Ask which nation the family is said to belong to. Then ask which nations lived where the family actually lived, and when [S3]. If no history places that nation in the family's county, treat that as a warning sign, not a gap to explain away. One presenter answers a Cherokee claim from Houston County, Alabama, by pointing to Creek country in the east of the state and old Choctaw territory in the west [S2].
-- **Check whether the lore has moved to the wrong person or the wrong tribe.** In the Isenhour case, the family said Eliza Ann Isenhour (1850–1898) was "full-blooded Cherokee". The enrollment packet records her as a non-citizen. Her second husband, Jacob Meek, was a quarter Choctaw, and their son Calvin and her stepson James were enrolled as Choctaw by blood. The lore had attached to the mother instead of the husband and stepchildren, and had changed the tribe [S9].
+- **Test the claimed nation against the family’s location and date.** Trace the household’s residences before selecting a roll [S3]. In a discussion about Houston County, Alabama, the presenters suggest checking Creek and Choctaw history alongside the family’s Cherokee account [S2]. Use a dated local source to identify possible nations, then look for the individual’s records.
+- **Test each household member separately.** Include spouses, children and stepchildren, and record whose status the application actually describes. In Elder and Dyer’s account, Jacob Meek’s enrollment packet calls Eliza Isenhour a non-citizen, while her husband Jacob, their son Calvin and her stepson James obtained Choctaw enrollment by blood [S9]. The family’s identifying Eliza as Cherokee remains a separate claim.
 - **Split the claim into one roll question per tribe and period.** "Cherokee in Georgia before removal", "Cherokee in Indian Territory in 1900" and "Cherokee in North Carolina in 1924" point to different rolls (step 2).
 
 ## 2. Choose the roll by tribe, place and period
@@ -88,7 +88,7 @@ For Alaska Native census leads, use FamilySearch’s Alaska, Village Census Roll
 Then ask the people who hold the records:
 
 - **Ask the tribe's enrollment office.** Each tribe manages its own enrollment, so contact its office directly [S10].
-- **Ask the agency that holds the official record early, not last.** One family spent months on probate, deed, mortgage and guardianship searches. Then the Osage Agency BIA office answered the question in one visit [S13].
+- **Ask the agency that holds the official record early, not last.** Give the agency the names of known holders and the interest being traced. In Hunt’s account the Osage Agency in Pawhuska identified the relative who had acquired the family’s headright share after searches in county probate, deed, mortgage and guardianship records had left the transfer unresolved [S13]. Record the transfer and seek its underlying documentation.
 - **Read agency microfilm page by page.** Some agency microfilm is narrative, not a name list, so read through the images instead of expecting a name index [S3].
 
 Use NARA’s state-by-state BIA guide to identify the agency that served the tribe, place and period. The Arizona guide lists agencies, their jurisdictions and holding routes. Carry the agency name, covered years and listed facility into the catalogue search, instead of treating all RG 75 material as one statewide name index. [S27 @2026-11-16], [S28 @2026-11-16]
@@ -107,11 +107,11 @@ For Alaska series that cross 1931, search the creator history under both the Ala
 
 - **A rejection is a decision under that roll's rules, not a finding about ancestry.**
   - Rejected Dawes applicants have no allotment jacket, but may still have a census card and an application [S15].
-  - Rejected files are often the richest. One presenter's ancestor was denied after an 80-page file that gave another generation [S2]. Estes says declined applications often hold more family information than approved ones [S8].
+  - Read the rejected applicant’s testimony and witnesses for named parents, spouses or an earlier generation [S8]. One presenter reports finding another generation in an 80-page file despite the denial [S2]. Verify each relationship against a separately identified record.
   - Mississippi Choctaw "MCR" (refused) cards include applicants turned away for many reasons, including white applicants [S4].
   - The Choctaw Nation describes the Commission as flooded with fraudulent applications [S24].
   - A rejection alone neither shows nor rules out Native descent.
-- **Read every page of a rejected file, then confirm identity independently.** In Ancestry's worked example, a rejected 1903 Mississippi Choctaw application was tied to an 1881 Texas marriage and a 1910 Oklahoma census household of the same man, Jim Wilkerson. The tie rested on his wife's name, the children's names and ages, and the places [S3].
+- **Correlate the rejected file with independent records.** Compare the spouse’s name and aliases, the children’s names and ages, and the family’s moves. Ancestry’s presentation links Jim Wilkerson’s rejected 1903 Mississippi Choctaw application to an 1881 Texas marriage and a 1910 Oklahoma household through Sarah/Sally and the children [S3]. Distinguish the identification of the applicant from his claim to enrollment.
 - **Check whether a Guion Miller rejection was procedural.** NARA says most applications for minors and dependents were rejected because they arrived late, and that rejected applications still hold family history [S16]. Published extracts of rejected applications exist (Jo Ann Curls Page; Jerry Wright Jordan, *Cherokee by Blood*) [S7].
 - **Absence from the Dawes Rolls has known causes. Name them before drawing any conclusion.**
   - The person did not live in Indian Territory [S14].
@@ -131,7 +131,7 @@ For Alaska series that cross 1931, search the creator history under both the Ala
   - UKB: the 1949 base roll or Dawes, and 1/4 [S22].
   - Before an application, confirm the current rule with the enrollment office.
 - **Do not offer DNA as proof of membership.** The BIA says DNA tests will not document descent [S18]. The Cherokee Nation does not accept DNA results [S20], and EBCI accepts DNA only for parentage [S21].
-- **A BIA payment or an inherited tribal asset is not proof of descent.** In the Osage case, a family's headright share came from a relative who bought it in 1952 from a non-Osage man. He had inherited it from his Osage wife [S13].
+- **Trace how a headright changed hands.** For each transfer, record the previous holder, date and whether the interest was inherited or bought. Hunt reports that her great-aunt bought a share in 1952 from a non-Osage widower who had inherited it from his Osage wife in 1938 [S13]. A payment to the later holder therefore cannot, by itself, establish descent from the original allottee.
 
 For an adopted person’s local document checklist, use the current Cherokee Nation packet. The packet checked on 16 November 2026 requires a certified final adoption decree and a state-certified full-image birth certificate after adoption; it also requires the petition if the decree omits the birth parents. Use those papers’ parentage statements to document the biological Dawes line, keeping the adoptive relationship in its own role. [S29 @2026-11-16], [S30 @2026-11-16]
 

@@ -46,9 +46,9 @@ Don't rule out the state legislature just because the event sounds like county b
 
 The legislature was not always the only route. The publisher's store description of Alan N. Miller's *[Nineteenth-Century Tennessee Adoptions, Legitimations, and Name Changes](https://genealogical.com/store/nineteenth-century-tennessee-adoptions-legitimations-and-name-changes/)*, read in a web-archive copy, reports that legitimation in Tennessee was done by private act until 1805, when the lower courts could also hear it, and that from 1827 the circuit courts could also change names [S5]. The book itself was not consulted. Use those dates as leads to check both the acts index and court minutes, and verify the applicable law before drawing a legal conclusion.
 
-Also check the session laws when a person appears in a statute as the recipient of a gratuity or pension. The Pennsylvania legislature granted pensions and gratuities to individuals by special act. A Pennsylvania State Archives archivist found his ancestor named in the Laws of Pennsylvania this way [S3], [S4].
+For a Pennsylvania pension or gratuity, search the session laws by surname and county, then ask for the application in the House files. In Denyse Allen’s interview, archivist Aaron McWilliams describes following an Erie County index entry for John McWilliams to a special act and then to the application [S3], [S4].
 
-In Virginia, also search the legislative petitions when an intestate's land faced escheat. Under the descent act in force from 1 January 1787, a child born outside marriage inherited on the mother's side, and from the father only if he later married the mother and recognized the child [S8]. In October 1786 the General Assembly vested escheatable land in a man's natural son on his petition, and an intestate natural son's land in his mother on her application [S9]. Michael John Neill reports natural children in late 18th-century Bedford County petitioning the legislature to keep their father's farm from escheating; that case was not verified [S10].
+When Virginia land faced escheat, search the session laws for both the deceased and the petitioner. In October 1786 Mary Arvin obtained land left by her son John Askins, who died intestate and without issue. Reuben Coutts petitioned over a different interest: his father’s will had given him a life estate, and the reversion was at risk [S9]. Apply the descent law in force at the death. The act effective 1 January 1787 allowed inheritance through the mother and recognized paternal legitimation upon the parents’ subsequent marriage and the father’s recognition of the child [S8]. For a reported Bedford County petition over a 200-acre farm, use county, acreage and approximate date to seek the family and petition. Neill supplies neither the names nor a file reference [S10].
 
 The Library of Virginia's Legislative Petitions collection holds nearly 25,000 items from 1776 to 1865, searchable by name, locality and keyword, and petitions can include wills, deeds, affidavits and judgments. Its search is moving to a new platform, and Virginia Memory holds the full collection [S11 @2026-11-14].
 
@@ -60,16 +60,16 @@ For any other state, search its session laws and the legislature's own petition 
 
 ## Read the index entry and everything sharing its locator
 
-Search the legislative acts index by surname. For every entry under the target person, record each column separately, using the index's own column labels. The Tennessee State Library and Archives (TSLA) index has these columns: Name, Date, Serial Number, Chapter and Section, and Description. It has no volume or page fields. Record:
+Search by surname and transcribe the printed headings. Tennessee’s acts index separates last name, first name, year, serial, chapter and section, and description [S6]. Record each field before opening the session laws.
 
 - the literal name;
 - the year the act passed;
 - the locator values, exactly as printed and labeled (in Tennessee, serial number and chapter/section);
 - the description.
 
-One name can carry unrelated acts. In Brady's example, one of three Stephen Cantrell entries concerned funding for an academy in Davidson County [S1].
+Separate matters filed under the same name. Stephen Cantrell’s 1796 entry concerns an auditor for Davidson Academy (serial 4, chapter/section 4.2). His 1807 entry concerns funding for state academies (14, 104.11). Neither locator belongs to the 1803 family act [S6].
 
-Next, read every entry in the index that shares the same year and locator. In Brady's example, a "children legitimized" entry for Stephen Cantrell in 1803 carried the numbers 10 and 50. She read them as "volume 10, page 50" [S2], but the index has no volume or page columns, so the two numbers are probably the entry's serial number and chapter/section (likely serial 10, chapter 50). The other 1803 name-change entries with the same numbers turned out to be his children [S1], [S2]. The group of persons comes from this shared locator, not from the target's own line.
+For the 1803 entry on the children, copy **serial 10, chapter 50** from the TSLA headings [S6]. Brady’s method was to collect every name on the page with the same year and numbers [S1], [S2]. Use the printed act to determine each person’s role. Chapter L names eight children of Molly Cantrell, formerly Molly Blakemore: Stephen, Sally, Alfred, Ota, William, Zebulon, Polly and Darby Henley. It changes their surnames to Cantrell and makes them lawful heirs of Stephen Cantrell senior [S22].
 
 Authored extension: Brady describes only the entries on the same index page. If the index can be searched by locator, or if the parties may be indexed under another surname (for example, the mother's), check those sections too. Record which sections you actually read. A co-indexed name is a candidate member of the group until the act or petition names them.
 
@@ -79,26 +79,26 @@ Treat the index as a finding aid only [S2]. Retrieve the act from the session la
 
 When a North Carolina land grant may have followed a legislative petition, follow the presenter's suggestion from the available excerpt [S16] and look for the authorizing act alongside the petition. Start with the grant year and follow references to earlier acts [S17]. For the 1784 session laws, open volume 24 of the *State Records of North Carolina* [S18]. Choose by record type as well as by year. The *Colonial Records* (volumes 1–10) extend through 1776, and the *State Records* (volumes 11–26) also include laws from 1715 through 1776 in volume 23 [S18].
 
-What the two example documents contained:
+Keep a separate extraction for each document.
 
-- **Tennessee (Cantrell):** about ten children with their birth dates or years, the mother (Mary Blakemore), and the parents' marriage date and place [S1], [S2].
-- **Pennsylvania (McWilliams):** a county of service and a year, Chester County in 1794 [S3], [S4].
+- **Cantrell.** Transcribe the eight children and their mother from the printed act [S22]. Brady recalled about ten children and called their mother Mary Blakemore in one talk [S1]. In another she reported that the petition supplied the children’s birth dates and the parents’ marriage date and place [S2]. Those details still require the petition image or a copy.
+- **McWilliams.** Record Chester County and 1794 as the service lead attributed to the House application in Allen’s interview [S3], [S4]. Use Erie County separately to look for evidence connecting the applicant to the later resident.
 
-The Cantrell document was the petition to the legislature, brought out to Brady at the archives in Nashville. The petition gave the children's birth dates, the mother, and the marriage date and place [S2].
+Brady obtained the Cantrell petition in person in Nashville [S2]. To request that file, give the archive the act’s year, chapter and names under both surnames [S6], [S22]. Keep the repository’s reply and any petition locator beside the session-law citation.
 
-Record access status plainly. Brady says she could not get the Cantrell petition online and had it brought out to her at the archives in Nashville. She also says most of TSLA's online databases are indexes rather than images [S2]. TSLA's [legislative petitions guide](https://sos.tn.gov/tsla/guides/tennessee-legislative-petitions) indexes the petitions by subject and by the names in the petition text, not by signer. It says most original petitions went back to the petitioners, although the General Assembly kept many, and it points to TSLA's ordering instructions for a copy of an indexed record. TSLA also has an online name index to the acts for 1796–1850 ([FamilySearch Wiki](https://www.familysearch.org/en/wiki/Tennessee_Law_and_Legislation)). If you have only searched the index, report that the next step is an on-site visit or a copy request. Don't present the index description as the content of the petition.
+TSLA’s petitions guide indexes subjects and names in the petition text, excluding people listed only as signers. Most petitions went back to their petitioners, and the legislature retained some. The guide gives a route for ordering an indexed record [S7 @2026-11-19]. Record which index and spellings you searched and whether you obtained the petition.
 
 ## Check the act against the application
 
-Compare the service, event or relationship stated in the act with what the application says. In the Pennsylvania example, the law described McWilliams's gratuity as being for Revolution or Indian Wars service. His House-file application showed Whiskey Rebellion service out of Chester County in 1794 [S3], [S4].
+Transcribe the reason for relief separately from the service claimed in the application. McWilliams recalled broad Revolution or Indian Wars wording in the gratuity act and described the application as evidence of Whiskey Rebellion service from Chester County in 1794 [S3], [S4]. The two recordings reproduce the same interview. Cite each original when recovered and keep the discrepancy visible.
 
 Keep both readings, each with its locator. Don't correct the act silently. Treat a special act as relief granted to one person, whatever it says the grant was for.
 
-The archivist linked the Erie County man to the act because he knew of only one man of that name there at the time [S3], [S4]. That is an identity hypothesis, so send it to evidence/proof judgment. A legitimation or name-change act establishes legal status. Send any question of biological kinship to evidence/proof judgment.
+Test a same-name identification against an independent residence, tax or service record. McWilliams knew of one John McWilliams in Erie County at the relevant time [S3], [S4]. That narrows the search but leaves the link to the Chester County applicant open. For a name change, extract the legal relationship the act establishes and assess biological kinship separately [S22].
 
 ## Search Congress for a private relief bill
 
-When a claim against the federal government, such as a veteran's widow's pension, may have gone to Congress, search for a private bill as well as the regular file, above all before a general law covered such claims [S12]. Committee papers can survive although the bill failed. In one case the House committee recommended a widow's private pension bill in 1872 and the Senate rejected it in 1873, and pension claims in the House's Accompanying Papers File, 1865–1903, include notarized copies of marriage records [S13]. Claimants sometimes petitioned again in a later session, so check the other sessions [S12], [S13].
+Search Congress for a private bill even when the Pension Bureau rejected a widow’s application, then check later sessions for a renewed claim [S12], [S13]. Sarah Maynard’s petition listed eight children with birth dates. The House committee recommended H.R. 2550 on 24 April 1872, and the Senate rejected it on 6 February 1873 (42nd Congress, Senate Report 398). Look for exhibits in the claimant’s own file. Mary E. Wainwright’s separate file contains a notarized marriage record (43rd Congress, Accompanying Papers 43A-D1, RG 233) [S13].
 
 Find the Congress, session and bill or report number first. The Serial Set's indexes of private claims, arranged by claimant, give the Congress and session, the committee, any reports, and the number and fate of related bills [S13]. The Library of Congress reported in July 2021 that it had loaded the text of over 30,000 bills and resolutions of 1799–1873 from its Century of Lawmaking site into Congress.gov; Senate bills start in 1819, and the 12th Congress is missing [S14].
 

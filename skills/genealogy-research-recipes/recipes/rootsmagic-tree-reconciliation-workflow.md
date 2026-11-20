@@ -197,10 +197,12 @@ review without searching for it again.
    Accept only the reviewed batch, then reopen each affected destination profile.
 2. Check the saved date/place/name or relationship; then inspect its attached citation,
    URL, source text, note and media when those objects were selected.
-3. Compare source content and associations before importing another copy. In S2's worked
-   case, custom citations and directly linked Ancestry records were represented differently;
-   copying both lists increased the local count without resolving the correspondence.
-   Preserve a duplicate candidate rather than repeatedly copying to make counts equal.
+3. Match citations by the underlying record, person and fact before copying more. In
+   the TreeShare demonstration there were ten sources on Ancestry and twelve in
+   RootsMagic. The red difference indicator included custom citations and records linked
+   directly on Ancestry. Copying the ten could yield 22 local entries while leaving
+   equivalent citations unresolved [S2]. Retain both descriptions as possible duplicates
+   until you compare their record details and attachments.
 4. Open a transferred media item or record link with the intended access. A source URL
    does not by itself establish that an image was copied or is readable locally.
 5. Record `verified`, `partial`, `failed` or `deferred` and the exact missing/changed

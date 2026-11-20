@@ -91,10 +91,7 @@ Extend the index search to the soldier's brothers, sisters, sisters-in-law, wido
 dependent claimants, and give each of them a separate candidate row. A relative's file can hold
 family Bible pages, dates, or an affidavit in which a woman gives her married name and her
 relationship to the applicant. Record each affiant's stated name, relationship and date as a
-second-party claim. Correlate that claim with other records; on its own it does not prove a
-marriage. The [Thomsen state-records talk](https://www.youtube.com/watch?v=8i254jbCQDQ) and the
-[Wilcox Patillo example](https://www.youtube.com/watch?v=HG6sY_S-Neg) motivate this step. Neither
-shows how often collateral files contain such material.
+second-party claim. In Samuel David Patillo’s pension papers, Mrs. M. J. Wise identified him as her brother [S83]. Compare the stated relationship with marriage and other independent records [S82].
 
 When the target has no file of his own, or his file says little about his service, also search
 the files of men from his company. A man who never applied often testified for others, so search
@@ -103,17 +100,7 @@ they shared with him [S51]. List each witness in the target's own file, with the
 papers give (neighbor, relative or fellow soldier), as an associate lead [S51]. Record another
 man's account of a shared tour as that man's claim about the target.
 
-Compare the person's age with every conflict he lived through, including regional or Indian wars,
-and give each conflict its own routing row. A Confederate veteran may also have a federal file for
-earlier service, and that file can be fuller than a state pension
-([Derenthal Mexican War example](https://www.youtube.com/watch?v=cLMzNfMNHic)). For a Confederate
-veteran or widow, presenters describe the relevant state as the one where the applicant lived when
-applying, which may not be the unit's state; verify the series' residence requirements. Establish postwar residence from other records, check each later state of
-residence, and bring the unit and postwar counties to the inquiry
-([Anderson overview](https://www.youtube.com/watch?v=OcAeLJxT9XU);
-[Lefler's Alabama example](https://www.youtube.com/watch?v=tD9lgibwBRE)). These sources give only
-scattered examples of acts and state rules, not a complete set, so confirm eligibility and coverage
-with the custodian.
+List every conflict that overlaps the person’s lifetime, including regional and Indian wars. A Confederate veteran’s earlier Mexican War pension file held affidavits about the second wife’s disputed marriage [S84]. For each Confederate application, establish the applicant’s residence at filing, which can differ from the unit’s state. Search each later state of residence and check its eligibility requirements with the custodian [S1], [S85].
 
 **Artifact:** A routing row: candidate ID, service evidence, conflict/branch/unit, record type,
 claimant category, index/series coverage, current custodian, retrieval route and date checked.
@@ -125,10 +112,7 @@ Where an available pension-abstract or full-text collection covers the question,
 supported target-name forms in the text as well as the claimant index. The target may appear in
 another applicant's file. Retain the actual applicant/file locator and the abstract passage,
 then seek that file and inspect the named person's stated role in the original document. Keep an
-unresolved locator or identity open; a mention does not establish that the target applied for a
-pension, served in the stated unit or was related to the applicant. The Southern Campaign
-teaching example motivates this route without verifying the narrated case or promising
-comprehensive coverage. [S16]
+unresolved locator or identity open. A name in the full text can identify a witness or fellow soldier even when the target never applied [S16], [S26]. Verify the role, service and any stated relationship in the original file.
 
 **Before you call a miss "no pension", check whether any act covered the man or his widow while
 they lived** (section 5), then search the routes a federal pension index does not cover.
@@ -194,42 +178,18 @@ the service verification inside the file [S74], [S75]. If the jacket shows a wid
 read the file for the veteran's own application and for earlier or rejected claims. Leave the
 veteran's outcome open until you find his decision. If the widow field is blank, leave the order
 of the spouses' deaths open and check the marriage and death evidence against the acts in
-section 5 [S74]. The cover-reading example reported in the Just Genealogy transcript extract
-motivates these checks [S73†].
+section 5 [S74]. In the Morgan jacket, Rebecca’s WO 9611 and WC 5199 identified her application and award while leaving Willis Morgan’s own pension outcome open [S73].
 
 A pension index can exist in more than one hosted version. The versions may be arranged
 differently and may carry different fields, such as a death date or place or a dependent's name.
 Before ordering, check each version. Give each version its own locator row naming its series, and
 note the fields it adds or contradicts. Do not merge the versions' fields into one card. Record a
 miss separately for each series and search route. Where a version is arranged by state, unit,
-company and surname, browse the candidate's company as well as searching by name. Transcribed
-names, units and dates can be wrong, and a regiment may be named several ways. The
-[Family History Fanatics regiment project](https://www.youtube.com/watch?v=P9g7JwVmnIM)
-([part 10](https://www.youtube.com/watch?v=8h90dEdVBYc)) motivates this step. It does not
-establish each version's coverage or accuracy, that browsing is complete, or that a site's
-arrangement stays the same.
+company and surname, browse the candidate’s company under each documented unit designation. Compare its cards with the name-search results and record any differences in names, units or dates [S86], [S87].
 
-When another index-card version or series is actually available for the same supported claim,
-compare its image with the first card. A later file identifier may appear on one version and be
-absent on another; the interview in S14 illustrates this with an XC number. In each version's
-locator row, keep its available filing/transfer dates and number, preserving both images
-where permitted. Carry an additional identifier into the custody check without overwriting the
-earlier application/certificate locator. An unresolved mismatch remains open; a missing field on
-one card does not establish that no later identifier exists. Do not assume a particular website
-always supplies the fuller card or that a prefix establishes the file's present location. [S14]
+Compare the images when two indexes cover the same claim. An XC number at the bottom of one card can be missing from the other [S14]. Keep each image’s series, original number and filing or transfer dates. Take the additional identifier into the custody check and leave any mismatch open until the custodian confirms where the file is held.
 
-Read a card's claimant details as they stood at that filing. For the illustrated card
-series, presenters describe the state as where the claimant lived when filing, not the enlistment or
-unit state; verify the series' field definition, then treat a different state as a migration lead ([Findmypast walkthrough](https://www.youtube.com/watch?v=Wo-M7iIWj78)). The widow
-named on the card is the claimant, not necessarily the wartime wife. Take the marriage date from
-the file and check for earlier wives
-([regiment spreadsheet](https://www.youtube.com/watch?v=cpulm6BuAJ8)). When a card shows both a
-veteran's and a widow's claim, copy both numbers and try the widow's certificate number too,
-because the papers tended to be combined under it
-([Martinez overview](https://www.youtube.com/watch?v=mRt2jTgEqVw)). If a widow remarried, search
-again under each later surname and link the new locator rows. A roll entry that only notes an
-application is a pointer ([Thomsen Georgia example](https://www.youtube.com/watch?v=8i254jbCQDQ)).
-These are tendencies and single examples, not rules for every war, state or index.
+Read claimant details as of the filing date. Check how the series defines its state field and investigate a difference from the unit state as a possible move [S8]. Take the claimant widow’s marriage date from the file and look for earlier wives [S88]. When a card shows both spouses’ claims, copy both numbers and try the widow’s certificate number for the combined papers [S9]. Search remarried widows under each later surname. If a state roll reports only that the widow applied, request the application and decision before recording an award [S82].
 
 **Artifact:** An index-locator table with a separate row per candidate and claim/category.
 
@@ -240,10 +200,7 @@ If an application or certificate number is unreadable, check whether a separatel
 index covers that service and claimant category. Use supported regiment/company and applicant
 context to find a candidate; reconcile the claim category and application-versus-certificate
 fields before using its number. Preserve both index locators and literal readings with the
-resolution basis; unresolved digits stay unreadable. The
-[historical regiment-index teaching example](https://www.youtube.com/watch?v=dSVVQE7iVgo)
-supplies this recovery route, not a verified matched-card pair or current hosting/coverage
-guarantee. A second index can resolve a locator without independently confirming its genealogy.
+resolution basis. For an unreadable number on an alphabetic card, try a separately arranged regiment and company index [S15]. Keep unresolved digits unreadable. Both cards may point to the same file.
 
 ## 3. Obtain the intended file product and record its limits
 
@@ -282,9 +239,7 @@ Record the actual package and unresolved omissions. Do not claim a request was s
 
 When identifiable prior copies, dated notes or internal references describe particular papers,
 compare them with the newly received package. Queue each unmatched item with its earlier
-locator or observation basis and its current retrieval status. Keep absent testimony unrecovered;
-a note about it does not recreate the document. The [Sarah Cook re-retrieval example](https://dna-explained.com/2023/01/09/sarah-cook-1774-1775-1863-epitome-of-perseverance-52-ancestors-386/)
-motivates this comparison without establishing misfiling or the missing paper's contents.
+locator or observation basis and its current retrieval status. Sarah Cook’s later papers referred to marriage evidence submitted in 1816 that the researcher could not locate [S19]. Preserve the reference and leave the earlier testimony unrecovered.
 
 For Revolutionary War pensions, use the NPS–NARA transcription project as a text route into the
 files. Citizen Archivist transcriptions are searchable in the National Archives Catalog
@@ -316,8 +271,7 @@ particular order, and important ones can lie near the end [S66].
 Give each document in the image/document inventory the claim it belongs to: the soldier's, the
 widow's, a rejected claim, another claimant's, or unassigned when the papers do not show it. Then
 order each claim's documents by date in the claim-action timeline. Record the sort in the tables;
-do not rename or reorder the images. A Just Genealogy video motivates this sort by pensioner,
-allowing for a rejected claim; its transcript could not be opened for this review [S67†].
+keep the original image order and filenames. A rejected application may need its own timeline even when the archive filed it alongside an awarded claim [S67].
 
 Read a Revolutionary War court declaration as testimony given to establish eligibility under
 the named act [S68], [S66]. In the 1832 veteran's interrogatories, record birthplace and birth
@@ -332,9 +286,7 @@ land, record who made that statement and carry the named person into the land-re
 Keep personal accounts attributed to their writers [S68], [S34].
 
 For kin beyond the veteran's household, look in the Revolutionary War file's family records and
-affidavits for grandchildren or children's spouses. Record the relationship as stated by the
-writer or witness. A relative can appear as an affiant without appearing in a household list
-[S68], [S34], [S70], [S81].
+affidavits for grandchildren or children’s spouses [S68], [S34], [S70]. The abstracts for file W25706 identify Joseph H. Mitchler as a grandson and William Lewis as a son-in-law from their own testimony [S81]. Record each relationship with its speaker and check the affidavit image.
 
 On an affidavit that does not state where the affiant lived, copy the venue line and the county
 named in the notary's or justice's certificate. Record the venue county as where the affiant was
@@ -356,11 +308,7 @@ For a Revolutionary War veteran's postwar household, look for a property or inco
 submitted to demonstrate need, together with its accompanying household statement or letter.
 Build a dated household-and-means row: named people, stated relationships and ages, residence,
 occupation, ability to work, assets, debts and income, recording only fields actually supplied.
-Keep the applicant's statement separate from a clerk's or witness's assessment. Such papers can
-name family members not individually named in a contemporary census return; retrieve the pension images
-before treating an article's extract as an inspected original. Preserve the declaration's
-need-supporting purpose: its valuations are reported claims, and the listed household is not a
-complete list of the veteran's relatives. [S17, S18, H3]
+Keep the applicant’s statement separate from a clerk’s or witness’s assessment. Cato Freedom’s declaration named daughters Charlotte and Aurelia and described each girl’s ability to work [S18]. Compare the people named with the contemporary census and inspect the pension images for the declaration and the clerk’s separate remarks [S17], [H3]. The schedule was drawn up to demonstrate need, so treat valuations as claims and leave unlisted relatives open.
 
 Never read a filing date as a death date. Take death dates from a document that states them, such
 as a drop report, a widow's declaration, or a later widow's proof that an earlier marriage had
@@ -380,10 +328,7 @@ arranged by act, then by pension agency, then roughly by the first letter of the
 give each pensioner's allowance, the date payments began, a mark for each payment, and remarks
 such as a death or a transfer to another agency; payments were usually made twice a year, in
 arrears [S29], [S60]. Build a dated row for each agency from the payment marks and transfers. It
-places the pensioner by the agency that paid him, not by an exact residence. Treat a transfer as
-a lead for a move, not proof: in NARA's worked example the pensioner moved in 1819 but his
-transfer was entered only in 1826, and in 1831 his pension passed automatically to the newly
-created Albany agency [S29]. Compare the agency with residence and burial evidence before you
+locates the paying agency. William McCullar moved to New York in 1819 but requested a transfer in 1826; creation of the Albany agency moved his account again in 1831 [S29]. Compare each transfer with residence and burial evidence before you
 call a transfer a migration [S54]. Letters the Pension Office sent can survive outside the file,
 in its Letters Sent, 1800–1866; some volumes are indexed by addressee, so search the names of
 people who wrote on the pensioner's behalf as well as his own [S29], [S53].
@@ -398,8 +343,7 @@ those settled accounts often give the date and place of death and the heirs' nam
 
 In a surviving Revolutionary War final-payment voucher, copy each named person's role. An
 attorney, executor or estate administrator is a lead to the claim or estate papers. Keep that
-role separate from any stated relationship or heirship [S30]. The final-payment example
-reported in the Just Genealogy transcript extract motivates this check [S80†].
+role separate from any stated relationship or heirship. For someone acting on behalf of a widow, read the voucher’s authorization before entering the representative among the heirs [S30], [S80].
 
 Fold3's "US, Final Payment Vouchers Index for Military Pensions, 1818-1864" indexes final and
 last payments to more than 65,000 pensioners of the Revolutionary War and some later wars. Each
@@ -411,16 +355,7 @@ separate items.
 
 When "Invalid" appears on the jacket of a military service record, read it first as the noun for a disabled or infirm soldier and look for evidence of a claimed service-related injury or disability; taking it to mean "void" can wrongly suggest that the enlistment or record had no force. [S20], [S21] The Legal Genealogist traces this usage in American service from the Revolution through Civil War pension forms. [S20] Confirm the reading from the injury or disability evidence in the record. [S20], [S22]
 
-Treat the service described in a pension file as what the claimant chose to declare, not as a
-complete military history. Search federal and state records separately for other regular,
-volunteer, militia or opposing-army enlistments. Link any you find only after comparing identity
-evidence, and do not guess why service was left out
-([Strauss regular-army example](https://www.youtube.com/watch?v=M72-nL_Yb2I);
-[Confederate-then-Union example](https://www.youtube.com/watch?v=CPSlx8VfKps)). Conversely, if an
-index lists the candidate under a unit that a published roster omits, keep the candidate and mark
-the conflict unresolved. Record whether the claim appears allowed or rejected, and check further
-service sources ([regiment project](https://www.youtube.com/watch?v=P9g7JwVmnIM)). An application
-alone does not prove service, and a gap in a roster does not disprove it.
+Check federal and state service records for enlistments outside the pension narrative. One claimant’s Civil War pension omitted his later enlistment in the 13th U.S. Infantry [S89]; a different claimant’s federal pension omitted earlier Confederate service [S90]. Compare identifiers before linking the episodes and leave the reason for an omission open. If the pension index names a unit but its published roster omits the applicant, retain both findings, check whether the claim was allowed and look for independent service papers [S86].
 
 If a Continental soldier or officer is linked to a corps of invalids under the 26 August 1776 resolution, read that as placing the man among those entitled to a disability pension but found capable of guard or garrison duty, and do not assume that an "invalid" was unfit for any further service. [S20], [S23], [S24] Do not date the eight-company Corps of Invalids from that resolution, because it came from a later one of 20 June 1777. [S23], [S24] Do not infer a man's actual duties from the resolution alone. [S20], [S23], [S24]
 
@@ -465,14 +400,7 @@ Read the bracket for the widow's marriage date from the act she applied under, a
 itself from her proof. A widow pensioned under the 1853 act may have married the veteran long
 after the war and need not be the mother of his children [S25], [S52], [S63].
 
-Read a rejected Revolutionary War claim as a failure of proof under the act, not as evidence
-that the service was false. In a random sample of 34 rejected federal claims, just over half of
-the soldiers' rejections were for good cause, most often service short of the act's minimum (nine
-months under the 1818 act, six months under the 1832 act); widows' claims failed mainly on proof
-of the marriage date [S26]. First total the tours the applicant proved against the act's minimum
-[S63]; then look for the stated reason in the file or in *Rejected or Suspended Applications for
-Revolutionary War Pensions* (1852) [S26]. Some rejections were the Pension Office's own errors,
-such as requiring a militiaman's name on a roster when its regulations exempted militiamen [S26].
+For a rejected Revolutionary War claim, look for the decision in the file or in *Rejected or Suspended Applications for Revolutionary War Pensions* (1852) [S26]. Compare the tours the applicant proved with the qualifying service under the act, including nine months in 1818 and six months in 1832 [S26], [S63]. For a widow, check the marriage-date evidence. In its sample of 34 rejected claims, Southern Campaigns found militia claims denied for absence from a roster even though the rules exempted militiamen [S26]. Record the stated reason and test it against the applicable rules before concluding the service was false.
 
 ### War of 1812
 
@@ -490,8 +418,7 @@ looking for another reason [S36], [S50].
 
 If a War of 1812 file suggests a separate pension for service-connected disability, check the
 Old Wars index (T316) and confirm the pension type from the papers. Keep that search open even
-when you already have a service-pension jacket [S33], [S74]. The filing suggestion reported in
-the Just Genealogy transcript extract motivates the separate search [S73†].
+when you already have a service-pension jacket [S33], [S74]. The Morgan cover prompted a separate disability-pension search, but the cover alone did not identify a disability award [S73].
 
 ### Union Civil War and later
 
@@ -517,8 +444,7 @@ For an officer's disability pension under the act of 14 July 1862, take the grad
 commission. Treat a lieutenant's acting command as a duty assignment until you find evidence of
 a higher commission [S78]. If the file invokes the act of 24 February 1897, check for a qualifying
 appointment or commission and the record of its recognition, even if the commission was never
-delivered [S79]. The acting-rank example reported in the Just Genealogy
-transcript extract motivates this check [S77†].
+delivered [S79]. The William A. Knilans discussion illustrates why a lieutenant’s acting command and evidence for pensionable rank should be recorded separately [S77].
 
 A continuing Union widow's pension with no remarriage record does not show that she lived alone.
 Remarriage ended a widow's pension, the Pension Office reported widows who lived with a man

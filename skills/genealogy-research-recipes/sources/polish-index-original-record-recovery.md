@@ -31,18 +31,7 @@ screenshots, catalog entries and real family examples are not reproduced.
 - **O4:** Polskie Towarzystwo Genealogiczne, *O Genetece*, opened 2026-11-02 —
   [page](https://geneteka.genealodzy.pl/ogenetece.php). Used for: indexed data whose scans and
   photographs are not available.
-- **C1:** J-Roots Forum, *Архивы Польши*, first post 2009-12-07 —
-  [thread](https://forum.j-roots.info/viewtopic.php?f=165&t=470). Rights: cited reference, not
-  reproduced. Used for the Księga ludności / Spis ludności search terms, the house-number
-  arrangement of these books, the warning that external indexes of them are incomplete, and for
-  giving Polish and Russian surname forms and spelling variants when requesting Congress Poland
-  register entries. Checked 2026-11-07: post 1 was read in search-result text after direct access
-  failed; it bases the advice to request spelling variants explicitly on the writer's exchanges
-  with Radom, Kielce and Warsaw archives;
-  it does not establish a policy for every archive. [Post 21](https://forum.j-roots.info/viewtopic.php?t=470&start=20)
-  was read through the web reader and identifies the linked `ge298x.xml` inventory as AGAD's eastern-territory metrical books after a
-  reader mistook the holding city for the parish location. Used only for that reported inventory
-  example; neither the inventory nor its current scans were independently checked.
+- **C1:** J-Roots Forum, [Архивы Польши](https://forum.j-roots.info/viewtopic.php?f=165&t=470), first post 2009-12-07. Captured forum discussion read 2026-11-19. Post 1 reports exchanges with Radom, Kielce and Warsaw archives and advises naming spelling variants. The discussion also covers house-number order and the Księga ludności and Spis ludności search terms. Rights: cited reference, not reproduced.
 - **C2:** J-Roots Forum, *Нужно мнение коллег*, first post 2015-09-22 —
   [thread](https://forum.j-roots.info/viewtopic.php?f=4&t=4667). Rights: cited reference, not
   reproduced. Used for the warning that many 20th-century Polish civil-status registers are still
@@ -176,8 +165,13 @@ searches for one family.
   Ukrainian metrical books. Its statement that the site is in Polish only is not used: the site has
   an English page.
 
+- **O20:** [Archiwum Główne Akt Dawnych, Indeks zbiorczy miejscowości](https://www.agad.gov.pl/inwentarze/indemetr.html). AGAD collective place index read 2026-11-19. The introduction distinguishes registers from related papers and identifies the Ostrava postcard inserted in the Wiśniowczyk register, fonds 301, signature 1653.
+
+- **C3:** J-Roots Forum, [Архивы Польши, post 21](https://forum.j-roots.info/viewtopic.php?t=470&start=20). Captured forum discussion read 2026-11-19. A respondent identified the AGAD inventory of eastern-territory registers after initially assuming a Warsaw parish. Rights: cited reference, not reproduced.
+
 ## Credits
 
+- Archiwum Główne Akt Dawnych (O20) — Place-index introduction and finding-aid example paraphrased (adapted)
 - Kinprove — original procedural synthesis of Polish interportal index, description and original-record retrieval — FSL-1.1-MIT (kinprove-original)
 - Posts on the Dzen channel «Генеалогия, или Как я встретил вашу маму», cited as P15, P18 and P19 — Copyright of their author; short paraphrase (adapted)
 - Stephen J. Danko's blog post cited as P16 and the JewishGen Polish-Jewish Genealogy questions and answers cited as P17 — Copyright of their authors; paraphrase (adapted)

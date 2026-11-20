@@ -164,7 +164,7 @@ The linked inventory/queue schema and scope-completion rule are original synthes
   general legal-production statement and historical index-completeness claim are not adopted.
   Requiring a specific private-paper lead, verified local filing/coverage and separate
   production/copy/index outcomes is authored synthesis; no current holding or legal duty is
-  established.
+  established. Captured ArkivDigital lecture transcript read 2026-11-19.
 
 - **S25:** Ashley Morin / Vita Brevis (NEHGS),
   [The Warham Wheeler Affair](https://vitabrevis.americanancestors.org/the-warham-wheeler-affair),
@@ -172,7 +172,7 @@ The linked inventory/queue schema and scope-completion rule are original synthes
   fourteen" and a 1783 nomination of the same guardian, whom the minor "above 14 years" had
   chosen, and the guardian's possible link to the minor's mother, which the article treats as a
   theory. The separate-row inventory and the rule-first age bound are authored synthesis; no
-  age-of-choice rule for any place or period and no kinship are established.
+  age-of-choice rule for any place or period and no kinship are established. Captured author article read 2026-11-19.
 
 ### Period-law sources
 
@@ -266,8 +266,11 @@ The linked inventory/queue schema and scope-completion rule are original synthes
 - **S107:** Genealogical Publishing Company, [Abstracts of the Debt Books of the Provincial Land Office of Maryland, Charles County, Volume I](https://genealogical.com/store/abstracts-of-the-debt-books-of-the-provincial-land-office-of-maryland-charles-county-volume-i/), publisher’s description read 2026-11-18. Identifies Skinner as compiler and describes the abstract series’ county arrangement, debt book years and land details.
 - **S108:** Maryland State Archives, [Land Office Debt Book, MSA S12](https://guide.msa.maryland.gov/pages/series.aspx?ID=S12), series description read 2026-11-18. Describes the debt books as proprietary quit-rent records and identifies the names, tracts and rent amounts recorded.
 
+- **S109:** Riksarkivet, [Bouppteckningar](https://riksarkivet.se/utforska-och-bestall/bestall-kopior-och-undersokningsuppdrag/bouppteckningar). National Archives guide read 2026-11-19. The guide requests the name, dates of birth and death, and registered residence at death to locate an estate inventory.
+
 ## Credits
 
+- Sweden’s National Archives (Riksarkivet), S109 — Inventory lookup guide paraphrased with attribution (adapted)
 - Judy G. Russell, The Legal Genealogist blog, posts cited as S26, S29, S32, S33, S37, S38 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Kinprove — original distillation and synthesis, including the bounded reverse-guardian search and role checks attributed to S18 and Swedish production/copy retrieval controls attributed to S24 — FSL-1.1-MIT (kinprove-original)
 - Alice Childs and Jan Joyce, Family Locket, posts cited as S21 and S43 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)

@@ -37,11 +37,11 @@ For the general rule that an intention or banns entry is not a marriage, use [ev
 
 ## Read the index hit before trusting it
 
-- **Check the role column of every hit.** The name shown can be the father's rather than the child's. In S2's example, a doop hit that looked like a man's 1799 birth was really his son's entry [S2].
-- **Search for children through a parent in the pre-1811 baptism index.** The Stadsarchief's guide says these registers give the child's given names and the parents' full names. S1's presenter states that the index carries no surname for the child [S1]. So search by a parent's surname in the father or mother role, one parent at a time, and add the child's given name if you know it. A child's name will not lead you to the parents [S1].
-- **Expand spellings on purpose.** Clerks wrote surnames by sound, even for people who could write [S1], [S2]. Use wildcards to cover variants such as IJ/Y, C/K and S/Z. The archive's current search help documents the `*` wildcard (for example R*eboom). In 2019, S2's presenter also used a phonetic option labelled "ongeveer" [S2]. Check whether the current interface still offers it.
-- **Search and read the original Dutch pages, not machine-translated ones.** In the presenters' demonstrations, browser translation changed the name Jan Jong to "John Young" [S1] and Dahan to "Rooster" [S6]. Translate only the interface labels, and do that separately.
-- **Treat an index-only gap as a lead.** In S1's example, the indexer merged a given name into the surname, which made it look like a double surname. The given name had been taken from the mother's maiden name. Check the image, the person's signature and the parents' entry [S1].
+- **Check who the index hit names.** A 1799 Portuguese-Jewish birth entry returned for Jacob Nunes Vaz names him as the newborn’s father [S2]. Record the indexed person’s role before assigning the birth.
+- **Search for children through a parent in the pre-1811 baptism index.** The register typically gives the child’s given names and the parents’ full names. Search the father and mother separately by surname, then narrow the results by the child’s given name [S1], [S21], [S26].
+- **Search variant spellings.** Try IJ/Y, C/K or S/Z and keep the original readings. The archive’s search help uses `me*er` to retrieve forms including Meijer and Meter [S1], [S2], [S25].
+- **Copy names from the Dutch page before translating interface labels.** A browser translated Jan Jong as “John Young” in one demonstration [S1], [S6].
+- **Check a double surname against the image, the signature and the parents’ entry.** One indexer joined a given name taken from the mother’s maiden name to the child’s surname [S1]. Search the two readings separately.
 
 ## Fix the locator and the register's own rules
 
@@ -57,11 +57,11 @@ Before you interpret entries, read the inleiding (introduction) or PDF inventory
 
 ## Ondertrouw: a registration, not a wedding
 
-- **Record the intention date as the date of a public announcement of an intended marriage, not as the ceremony.** The announcement was made so that objections could be raised [S2], [S9], [S11]. Find the marriage, ketubah or civil act separately.
-- **Check whether the intention was crossed out or rejected.** Read the marginal note. Per the Stadsarchief, these notes can point to a separate register of objections or of refusals of parental consent. Open that register as well. S1's presenter shows the index marking a struck-through intention. In S1's example the intention was stopped because the couple were too closely related. Expect the couple to register again later [S1].
-- **Do not count two registrations of one couple as two marriages.** Church (kerk) and city-hall (pui) ondertrouw series both exist. Per S1's presenter, one couple can appear in both the Dutch Reformed church register and the pui register. Treat these as duplicate registrations of one couple [S1].
+- **Record the ondertrouw date as registration of the intention.** The banns followed over three Sundays, allowing objections. Look separately for the ceremony in the appropriate marriage register or ketubah [S2], [S9], [S22], [S26].
+- **Read the margin of a struck-through intention.** Follow a reference to an objection or a refusal of parental consent. *Niet gecompareerd* means the couple did not appear to sign. Check for a later application in Amsterdam or elsewhere before drawing a conclusion about the marriage [S1], [S22].
+- **Compare repeated hits by date, series, image and signatures.** The index can include both the clerk’s spelling and a signature, a cancelled application and a fresh one, or a mixed couple registered in both church (*kerk*) and town-hall (*pui*) series [S1], [S22].
 - **Do not read the series as proof of religion.** Up to June 1795, search both the church and pui series. From 6 June 1795 to 1811 there is only one series [S18]. In the 17th century, Sephardic Jews often used a former Iberian Christian name alongside their Jewish name, so one person can appear under two names in different records [S17], [S18]. Link two names only through an explicit alias statement, such as an ondertrouw entry, a settlement or an estate division, or other documented evidence that they identify the same person. Otherwise keep the link unresolved.
-- **Extract every field on the image.** The Stadsarchief lists birthplace, age, marital status, residence and witnesses as standard fields. The presenters' images also show:
+- **Extract every field on the image.** The Stadsarchief lists birthplace, age, marital status, residence and witnesses [S22]. Also look for
   - origin ("van …")
   - any parent the party lived with
   - prior spouse
@@ -71,7 +71,7 @@ Before you interpret entries, read the inleiding (introduction) or PDF inventory
   Record the clerk's spelling and the party's own signature as two separate attested forms. The signed form can point to the place of origin [S1], [S2].
 - **Treat an assisting relative as a role, not proof of parentage.** An ondertrouw entry names whoever appeared to assist each party, and the relationship it gives can be wrong or can belong to a stand-in [S17]. Before you add a named parent, check for a burial entry showing an earlier death, and for later deeds that name the relationship.
 - **Follow a widowed party back to the first marriage.** Age was recorded only at a first marriage. If the intention says a party was widowed, look for the intention of the named previous marriage. Repeat until you reach a first marriage. S1's presenter adds that widowed parties' later intentions usually also lack a birthplace, which the first marriage gives [S1].
-- **Link pre-1811 Ashkenazi patronymics to later surnames.** Ashkenazi parties usually appear under patronymics until surnames were adopted under Napoleonic rule in 1811. Treat the link between a patronymic form and the later surname as a hypothesis. Do not search only under the later surname. S8's example is a 1793 intention whose groom later carries an added surname [S8].
+- **Link a patronymic to a later surname through family records.** Under the 1811 decree, people who lacked a family name had to adopt one. Search the earlier intention by patronymic and origin, then compare the spouse and relatives with the later records. A groom recorded by patronymic in 1793 later appears with an added surname [S8], [S27].
 
 ### Follow a remarriage clearance into orphan-chamber records
 
@@ -83,39 +83,11 @@ marginalia into chamber declarations, guardian appointments and later discharges
 Portuguese-Jewish community's archive 334 or assume the route applies only to Jews.
 Check the chamber's actual finding aid, period and surviving series before searching.
 
-1. **Preserve the starting note.** Copy the complete marginal wording or abbreviation,
-   its date if supplied, the intention's locator, the widowed party and the named
-   previous spouse. Keep an uncertain reading unresolved. In S16, the presenter reads
-   the note as satisfaction of the orphan chamber; that is a lead to the chamber's
-   record, not a statement that the wedding took place or that money was paid.
-2. **Find and check the chamber entry.** Use the supported names, dated remarriage
-   context and any explicit reference to search the relevant chamber register or
-   index. Preserve its own archive, inventory, folio and image locator. Compare the
-   surviving parent, deceased spouse and children actually named before linking it
-   to the intention. A clearance note need not contain a complete chamber locator;
-   an unlocated entry remains an open target rather than a reconstructed account.
-3. **Extract the earlier household from the account or declaration.** Record each
-   child separately, with the age as stated and the date of that statement. Copy
-   maternal-estate wording, amounts or shares and named recipients exactly. Retain
-   adult or married children and any stated spouse or sibling relationship; the
-   relevant roster need not consist only of minors in the parent's later household.
-   S15 reports children aged 12 to 22 and a brother-in-law connected to an already
-   married daughter. That supplies an extraction target, not verified people for
-   another tree or a complete list of every child.
-4. **Follow appointments beyond the first entry.** Locate the separately described
-   guardian-appointment register for the supported people and period. Copy each
-   appointment, replacement, account reference and discharge with its own date and
-   locator. Use later entries to test the earlier roster: S16 follows replacement
-   guardians and a later review of their administration. Keep guardian, child,
-   reviewer and estate representative as separate roles; a replacement or discharge
-   does not by itself establish a death, exact birthday or new family relationship.
-5. **Reconcile the money without inventing the missing ketubah.** A chamber statement
-   that the children received their mother's inheritance can recover a dated estate
-   observation even when the first-marriage contract is unavailable. It does not
-   recover that contract's terms or establish where the money originated. S15's
-   suggested connection to an earlier marriage provision remains a hypothesis.
-   S16 also shows a declaration naming five children while reporting no means to
-   declare. Keep a named child roster separate from a positive cash balance.
+1. **Copy the clearance note.** Record the marginal wording, date, locator, widowed party and previous spouse. The formula *hij/sij weeskamer voldaan* points to arrangements for minor children’s inheritance before remarriage. Look for the chamber entry before recording any payment, and for the marriage entry before recording a wedding [S16], [S22], [S23].
+2. **Follow the chamber’s own index to the entry.** In archive 5073, consult inventories 835–883 (1509–1840) or 3964–3971 (1468–1656). Depending on the index, look under the children or the deceased parent. Take the leaf number to the volume covering the same period in inventories 772–834. Record the volume, leaf, side and image, and compare the surviving parent, deceased spouse and children with the intention [S23].
+3. **Extract each child, including adults who have married.** Record ages as of the declaration date, shares, recipients and stated relationships. One account lists children aged 12 to 22 and identifies a brother-in-law through a married daughter [S15].
+4. **Follow the guardians through replacements and discharge.** Search the appointment registers for the named people and period. Record the date, locator, roles and account references for each appointment, replacement and review. Establish deaths, birthdays and kinship from records that give them [S16].
+5. **Separate the roster from the estate balance.** The chamber can record a maternal inheritance even when the first-marriage ketubah is missing. Enter the amount and recipient, and leave the original contract terms open [S15]. One declaration named five children while reporting no means to declare [S16].
 
 The chamber's own records are Stadsarchief archive 5073 [S20]. The chamber registered
 each orphan's inherited share and held it until the child came of age at 25 [S17], [S19].
@@ -127,17 +99,9 @@ Stadsarchief: States of Holland archive 3.01.04.01, with petitions from 1652 to 
 inventory numbers 2085–2191 (indexed to 1700) and registers of grants at 2192–2193. For
 1801–1802, see the Hof van Holland archive 3.03.01.01, inventory number 4883 [S19].
 
-Before using a chamber miss, check any located will for the executors, guardians
-and chamber-exclusion wording it actually contains. S16 describes wills that
-excluded chamber intervention; this is a reason to inspect the will, not a
-universal legal rule or an explanation for every absent entry. Record whether a
-will was inspected, unavailable or not yet located. Neither a chamber miss nor a
-declaration reporting no means establishes that there were no children.
+Before treating a chamber miss as evidence, read any surviving will for named guardians, executors and a clause excluding chamber intervention. Record the clause or the status of the will search, and keep the search for children open [S16], [S29].
 
-Keep an unspecified **uncle** unspecified. In S16, the presenter cannot determine
-whether the named uncle belongs to the deceased wife's family or the surviving
-husband's. Preserve the literal relationship and the person to whom it refers,
-where stated; leave the family side open. Appointment as guardian does not resolve it.
+Copy **uncle** literally when a guardian is described that way. One appointment leaves open whether he was related to the deceased wife or the surviving husband [S16]. Record a family side only when the documents identify it.
 
 Add the linked records to the register-entry packet:
 
@@ -155,9 +119,9 @@ the underlying chamber entries and missing ketubah have not been inspected here.
 ## Population register: a running household ledger
 
 - **A crossed-out name means the person left the household, not that they died**, unless the entry says death. Record the departure date and destination beside each person as a separate observation. Keep other family groups on the same sheet apart [S2], [S3], [S6].
-- **Open every residence entry for the household**, including repeated stays at the same address. In S1's example, a child appeared only at the second stay [S1].
-- **Check the mother's birth year against the children's births before assigning children to her.** In S1's example, the listed wife was a later wife, born too late to be the mother. The marriage supplements settled who the mother was [S1].
-- **Treat population-register dates as clues.** S1's presenter reports finding many errors in them [S1].
+- **Read each stay at the same address.** A child appears only during the family’s second stay in a demonstrated register [S1]. Compare the entry and departure dates for each person across both stays.
+- **Compare the wife’s birth year with each child’s birth.** One register lists a later wife who was too young to be the mother; the marriage supplements identified the mother [S1]. Seek the civil birth or the couple’s supplements before assigning parentage.
+- **Use the household dates to locate civil acts.** Compare each date with the birth, marriage or death entry and retain the discrepancy with both locators [S1].
 
 ## Civil-period follow-ups
 
@@ -170,19 +134,19 @@ Civil registration began in Amsterdam in 1811 [S13], [S14]. Do not give 1811 as 
 ## Portuguese-Jewish material before and after 1811
 
 - **When the name index fails before 1811, browse archive 334.** Do not conclude the person is absent. Browse the community's member registers (births, circumcisions, marriages, deaths) [S3], [S4].
-- **Find the mother in a second birth register.** S4's presenter worked from a birth register in 334 arranged alphabetically by given name, which named only the father. A parallel chronological register for the same date gave the mother's name and patronymic. Record both entries [S4].
-- **A "doop" (baptism) label on a Jewish entry is not a baptism, and it is not a circumcision record either.** Jews were not baptised. The Stadsarchief's guide to the pre-1811 baptism index includes the Portuguese-Israelite community's birth registrations but not the Hebrew-language Ashkenazi (Hoogduits) birth registers. In 1811 the Portuguese Jews handed in birth registrations for boys and girls going back to 1736. S2's 1799 Nunes Vaz hit reads as such a birth entry [S2].
+- **Check both arrangements of the birth registers.** In one search, the alphabetical list under the child’s given name supplied the father, while the chronological entry for the same birth gave the mother’s name and patronymic [S4]. Use the first entry’s date to locate and cite the second.
+- **Identify the event on the image under a *doop* (baptism) index label.** The index includes Portuguese-Jewish birth registers from 1736. For Hebrew-language Ashkenazi births, use the archive’s separate guide to surviving birth and circumcision registers [S2], [S21], [S24], [S29].
   - Record the register label and the event type separately.
-  - Read the date as a reported birth.
+  - Take the birth date from the birth entry.
   - Look for the circumcision in the separate circumcision registers (archive 5001) or in the community's own registers in 334.
-  - Portuguese-Jewish registers carry both Gregorian and Hebrew years (S2's example shows 5559 beside 1799). Use both when browsing [S2].
-- **Treat Beth Haim burial cards as a later compilation that contains errors.** The cards were compiled from community records, and index cards survive as inventory 500A–500M in 334. S5's presenter adds that some people found in the inventories are missing from the cards [S5].
-  - Follow each card's register/folio/number reference to the underlying circumcision, marriage or burial entry. S5 demonstrates this [S5].
+  - Copy both Hebrew and Gregorian dates when the register gives them. The 1799 entry also carries the year 5559 [S2].
+- **Follow Beth Haim cards back to the underlying records.** Archive 334 inventories 500A–500M are a 1960 card index to the Ouderkerk burial register for about 1700–1850 [S28]. The presenter found entries in the inventories for people missing from the cards [S5].
+  - Take the register, folio and number from a card and verify the event and relatives in the referenced burial, marriage or circumcision entry [S5].
   - Rebuild child lists year by year from the birth registers.
   - Search each surname component, birth and married names, and recorded aliases as separate keys. S3's presenter shows the Beth Haim database splitting Sephardic names into first and second family-name fields [S3].
   - Absence from the cards does not show that the person did not die in Amsterdam. Check the inventories and payment entries for burials, and consider a death elsewhere [S5].
-- **Use dated administrative lists for a last appearance, not a death date.** The 334 finding aid has a matsebet (matzah bakery) section. S7 reads the community's lists of people admitted to matzah baking year by year, matching reversed name orders [S7]. A last appearance there is not a death date. S7's presenter then checked a tree's death-place claim against a death register at the proposed place [S7].
-- **Keep the community's surname spelling and the Dutch clerk's spelling as separate attested forms.** S12's example is Barzilay vs Barzilaij. Do not normalize to the civil form [S2], [S12].
+- **Date the last appearance in the matzah-baking lists.** Browse successive years in archive 334 under both name orders. If a death elsewhere is suggested, check the death register there. After the Amsterdam list entries ended, a presenter traced a tree’s Livorno lead to a March 1742 entry in its Jewish death register [S7], [S28].
+- **Index spellings by writer.** Keep the community’s and the Dutch clerk’s forms as separate search keys and cite the record for each, including variants such as *Barzilay* and *Barzilaij* [S2], [S12].
 
 ## Close with a register-entry packet
 

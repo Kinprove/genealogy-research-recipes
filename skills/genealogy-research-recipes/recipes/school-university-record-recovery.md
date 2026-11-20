@@ -46,31 +46,27 @@ Related recipes cover overlapping steps. For index hits that are not proof a fil
 
 - List every school of the right type in the town for the attendance years. Do the same for every higher school the person could have reached. Sources for this include:
   - published annual school reports;
-  - address-calendars (participants suggested the 1900 Poltava address-calendar for Kremenchuk);
-  - later records that name a school. In one thread, an 1881 Kharkiv marriage entry was the only trace of a Kremenchuk state Jewish school. [S4], [S16]
-- Check that the institution and the relevant faculty existed at the date. A participant quoted an article saying private Jewish gymnasiums in Kyiv appeared only during the First World War. Tomsk University opened in 1888 with a medical faculty only. Its law faculty opened in 1898. [S12], [S15]
-- Do not limit the search to schools of the person's own confession. A Lutheran church school in St Petersburg, the Petrischule, had Jewish graduates. A participant found them in the school's graduate lists for 1891–1914. [S10]
-- Record the educational district that held the school's guberniya at the event date. A participant posted a list of fifteen Ministry of Public Education districts. It puts Vitebsk, Minsk, Mogilev, Grodno, Kovno, Vilna and Kholm guberniyas in the Vilna district, and Poltava and Chernigov in the Kiev district.
-  - Poltava and Chernigov in the Kiev district is correct.
-  - Kholm is not. Kholm guberniya was created under the 1912 law, and its schools were placed under the curator of the Kiev district.
-  - So the posted list does not give the district composition for any one year. District borders also do not follow the regional groupings you might assume. Check the composition for your year in a reference work. [S2]
-- Curator fonds do hold lists for schools outside their own district (step 3). Do not work back from where a list was found to the district a school belonged to. One participant concluded that Kremenchuk was in the Moscow district because its list sat in ЦИАМ f.459. Poltava guberniya was in the Kiev district. [S2], [S13]
+  - the town’s address-calendar for the relevant year (the 1900 Poltava volume was suggested for Kremenchuk) [S4];
+  - later records naming the school. A report cites Kharkiv marriage entry no. 40 of 1881 for a one-class state Jewish school in Kremenchuk. Use the wording to search education records [S4].
+- Check the faculty as well as the school. Tomsk University admitted its first medical students in 1888 and opened its law faculty in 1898 [S39]. Date a proposed Kyiv private Jewish gymnasium separately against evidence for that institution [S12].
+- Include schools run by other confessions. A researcher reports Jewish graduates at St Petersburg’s Lutheran Petrischule and points to images of graduate lists for at least 1891–1914. Check the pupil’s row for birth date, previous school and, for boys, intended destination [S10].
+- Identify the educational district at the attendance date. An undated list assigns Kholm to Vilna [S2]. The law creating Kholm guberniya dates to 23 June 1912 [S41]. The Kyiv curator’s fond description dates the transfer of Poltava schools to 1839 and Kholm schools to 1912 [S42].
+- Keep the school’s district separate from the archive holding a copy. For Kremenchuk, search Kyiv district records and the graduate lists copied to Moscow. A 1913 seventh-class certificate list was reported in Moscow curator records [S4], [S13].
 
 For a Scottish school, check the present holder and any former local-government or regional archive coverage instead of assuming today's county holds everything. Glasgow's guide includes schools from the former Strathclyde region and explains that most of its records follow the 1872 Education (Scotland) Act's implementation in 1873, with few earlier exceptions. Do not use 1870 as Scotland's cutoff or infer that every earlier school lost its records. Separate admissions registers, which can identify pupils, from headteachers' logbooks, which rarely name individual pupils. Only the transcript of the Scottish school-records discussion was inspected; the Glasgow archive guide supports these bounded distinctions. [S35 @2026-11-16](https://www.youtube.com/watch?v=5Wi6WBBuJHg) [S36 @2026-11-16](https://www.glasgowlife.org.uk/libraries/family-history/stories-and-blogs-from-the-mitchell/ask-the-archivist/ask-the-archivist-school-records)
 
 ## 2. Judge the school's own fond from its inventory
 
-- Find the school's own fond in the regional archive. Estimate what survives from the date span and the number of files, not from the fond's title. Participants read two Pryluky girls' gymnasium fonds at the Chernihiv oblast archive as large enough to hold personal files or at least graduate lists:
-  - f.1440: 1907–1920, 2 inventories, 263 files;
-  - f.1436: 1882–1921, 202 files. [S1]
-- Keep personal files and graduate lists apart. A pupil's personal file usually holds a copy of the metrical certificate. A graduate list may give only name and year. [S1]
-- A school's documents can also give classes completed, who paid for the pupil's keep, later teaching posts and a home address. A 1915 gymnasium document gave a pupil's address. [S21]
+- For the two Pryluky girls’ gymnasiums, use the Chernihiv archive’s published register to choose the inventory [S40]. The forum suggested both fonds from their size [S1].
+  - The Fedorenko private gymnasium, f.1440, has 263 files for 1907–1920. Op.1 includes pupils’ marks. Op.2 explicitly includes lists and personal files of teachers and pupils [S40].
+  - The Pryluky girls’ gymnasium, f.1436 op.1, has 202 files for 1882–1921. The description names graduates’ certificates and diplomas [S40].
+- Check what the specific file contains. A pupil’s personal file may include a copy of a metrical certificate, while a graduate list may give only a name and year [S1]. A reported 1915 Kungur gymnasium document gave a pupil’s home address. Copy the address with its date and school [S21].
 - Record both of the school's layers, each with its own fond, opis and delo. For the Vilna First Gymnasium, a participant cited:
   - the gymnasium's own fond, LVIA f.574;
   - separately, pupil lists for 1835/36 in the educational-district fond, LVIA f.567, op.2, d.3668.
 
   A published graduate list (1837 onward, with medals) leaves out pupils who left before graduating. [S14]
-- If the regional inventories show nothing for the school, write "no fond found in [archive] inventories", not "no records". A participant found nothing on Kremenchuk gymnasiums in the Poltava archive's inventories. A Kremenchuk certificate list then turned up elsewhere. [S4], [S13]
+- Record which Poltava inventories you checked. A reported miss for Kremenchuk gymnasiums there left another route open. Moscow held a list of numbered certificates for pupils completing the seventh class in 1913 [S4], [S13].
 
 ## 3. If the school's fond is lost, go to the district curator and cross-district lists
 
@@ -79,18 +75,10 @@ For a Scottish school, check the present holder and any former local-government 
 - In ЦГА Москвы, search both fonds. They are arranged differently and hold different cases, so a school missing from one can be in the other. Participants cited these cases:
   - f.459, grouped by district or by town initial: a set for Vilna-district gymnasium graduates, reported as two volumes (order every volume), and a case for girls' gymnasiums in towns beginning with Г;
   - f.363 op.3, named by school: d.209 for the Gomel girls' gymnasium and d.210 for the Gomel boys' gymnasium. [S16]
-- Participants reported these limits of the Moscow lists:
-  - They start in 1905 at the earliest, more often 1908. A participant thought they were sent to Moscow higher schools to prevent forged certificates.
-  - They give name and surname, rarely a patronymic, more rarely the estate, and sometimes the confession.
-  - A 1901 graduate has no chance here. [S16]
-- A participant posted the archive's reply to them. The archive said:
-  - it had never received personal files of pupils from schools outside the Moscow district;
-  - such pupils may appear in general lists, or in the personal file of a student who went on to a Moscow higher school;
-  - a file search needs the name of that school.
-
-  Another participant replied that the op.3 cases list all graduates for the years they cover. The two statements do not conflict: the reply concerns personal files, the counterpoint concerns lists. Do not expect a pupil's personal file here for a school outside the Moscow district. Order the op.3 case for the graduate list, and search for a personal file only through the Moscow higher school the person attended, named in the request. [S16]
+- In the series described by the contributors, lists begin in 1905 at the earliest and more often in 1908. They usually give a surname and given name, sometimes a patronymic, estate or confession. For a 1901 graduate, search the school or later institution and record the dates of the Moscow cases checked [S16].
+- The archive’s reply transcribed in [S16] distinguishes records it received. For an out-of-district pupil, look in a general list. To request a personal file, name the Moscow higher school the pupil later attended. The contributor describes f.363 op.3 as graduate lists for specified years. Use the case title to establish which school and cohort it covers [S16].
 - Participants reported that the Vilnius archive holds cases on graduates of schools across several districts of the Empire for 1910–1911. Lists for Vyazma (Moscow district, 1909–1911) were found there, but without patronymics. [S13]
-- Ask for these cases offline. Participants said such lists are rarely online. The route is a request to the archive, or a visit by a local researcher. [S4], [S16]
+- If the catalogue gives only a title, quote the full case reference in a request for the list or arrange an on-site inspection [S4], [S16].
 
 ## 4. Compare parallel custodial copies entry by entry
 
@@ -113,34 +101,32 @@ For a Scottish school, check the present holder and any former local-government 
   - Then check the volume in the subject inventory. Accept it as a personal file only if that inventory calls it "Akta osobowe studentów".
   - Pharmacists are in a separate list, and so are midwives with dentists.
   - Names are written in Latin script, so search a Polish spelling as well. [S6]
-- The same participant reported that the university's own archive said it held only data taken from the Warsaw archive. It still gave details of two students missing from the alphabetical index. Ask each custodian. Do not treat the alphabetical index as complete. [S6]
-- Participants listed scans of Warsaw University material on genealodzy.pl:
+- Ask the university archive about a miss in the Warsaw f.214 alphabetical index. In one transcribed account the university supplied details of two students whose surname the researcher had not found, although the university said its data came from the Warsaw archive. Ask for the underlying volume and signature [S6].
+- Use the scan labels reported for Warsaw University on genealodzy.pl as locators [S8]. The contributors identified:
   - a diploma book for 1899–1912, which lists both people who studied there and people who only sat the qualifying examinations;
   - examination sheets for 1869–1914, in folders labelled 72_0214_0131 to 72_0214_0175 (the last folder is labelled 1914–1915 but holds 1913–1914);
   - petitions from 1912–1914. [S8]
-- **Tartu (Dorpat/Yuryev).** A participant described the national archive's alphabetical file search.
-  - It leads to full files. Many have photographs and copies of metrical certificates and school certificates.
+- **Tartu (Dorpat/Yuryev).** Use the alphabetical files described for students, auditors and professional trainees [S7].
+  - Ask for the complete file and check for photographs and copies of metrical and school certificates.
   - Read each letter to its end, because order within a letter is poor.
   - It also covers auditors, midwives and pharmacist's assistants.
 
-  Compiled lists of Jewish students for 1889–1918 missed students whose files the archive later sent. For twin sisters, only one was on the list, and the archive sent five files, covering both student and preparatory-department files. Read the note at the foot of a compiled list. [S7]
-- **Tomsk.** A printed annual list of students and outside auditors does not show that a personal file survives. Participants found one example on the institute's e-archive: the Technological Institute list for 1909–1910. One student on it had no file in the archive's name index.
-  - A participant found that the name-index cards for student files gave only the full name, with no graduation date. You cannot apply a year cutoff from the index.
-  - One inventory alone lists 963 files. Compare the index count with the inventory totals before treating the index as complete.
+  Read the compiler’s scope note and search student and preparatory-department files separately. Only one of two twin sisters appeared in a compiled list. The archive supplied five files covering the two sisters and the two classes of files. Another researcher received files for two medical students absent from the 1889–1918 list [S7].
+- **Tomsk.** Compare the printed annual roll with the personal-file inventory. A contributor found a chemistry student from Mariupol in the Technological Institute’s 1909–1910 list of students and auditors, but no corresponding file in the name index searched [S15].
+  - The name cards described in that exchange gave no graduation dates. Op.3 alone was reported to contain 963 files. Compare the scope of the cards with the inventory before using a year cutoff [S15].
   - Convert Old Style dates before using a year cutoff. In the 19th century the difference was 12 days, so 22 December 1893 OS is 3 January 1894 NS. [S15]
-- **Kyiv Polytechnic (State Archive of Kyiv City, f.18).** Participants linked the scanned inventory.
-  - Find the entry in it. Record the delo number, any second number on the line, the scan number and the sheet count.
-  - Ask by email for copies of all sheets of the file, quoting the full locator.
-  - A participant said the archive replies with an invoice and sends copies once you have paid. [S12]
+- **Kyiv Polytechnic (State Archive of Kyiv City, f.18).** From the inventory copy the delo number, any second number, the scan number and sheet count. Quote them when asking for all sheets, the available delivery method and any fee [S12].
 - **Other fonds participants cited:**
   - ГАРФ f.1250 op.1: Warsaw Polytechnic Institute, more than 4,000 student personal files. The posted span, 1879–1918, starts before the institute's founding in 1898, so confirm the dates in the opis. [S8]
   - ЦГИА СПб: a student file in f.115 op.2 (1915–1916) for the Petersburg Psycho-Neurological Institute, and a real-school pupil's file. [S1]
   - Mining Institute, split by period:
-    - ЦГИА СПб f.963 (Mining Institute, 1773–1918). A participant said its annotation lists files on students, auditors and staff.
-    - ЦГА СПб f.Р-8811 (from 1917). A participant said its inventories are online. [S11]
-  - Odessa University: personal files at ДАОО. Participants said its inventories are on the archive's website. [S19]
-- **German chemistry candidates, 1898–1939.** Search the [CompGen DES transcription](https://des.genealogy.net/chemiker/search) of the *Berichte des Verbandes der Laboratoriums-Vorstände an deutschen Hochschulen*. It has 30 booklets and about 29,500 entries, and lists people who passed the Verband's preliminary examination, received a Technische Hochschule diploma or took a doctorate. [S22], [S23]
-  - Read the Hochschule field before you name the school. Munich had both a university and a Technische Hochschule. So did Berlin, but its TH stood in Charlottenburg, a separate city until 1920. [S22], [S24]
+    - ЦГИА СПб f.963 (1773–1918), whose reported description includes students, auditors and staff [S11].
+    - ЦГА СПб f.Р-8811 for records from 1917. Compare the inventories for overlapping years [S11].
+  - Odessa University: search the ДАОО inventories for student personal files [S19].
+
+- **German chemistry candidates, 1898–1939.** The [CompGen DES search](https://des.genealogy.net/chemiker/search) lets you search the transcriptions by institution and qualification [S23 @2026-11-19].
+
+  - CompGen describes 30 booklets of the *Berichte des Verbandes der Laboratoriums-Vorstände an deutschen Hochschulen*. Distinguish the examining institution from the city. Berlin’s Technische Hochschule stood in Charlottenburg, a separate city until 1920 [S22], [S24].
   - Read the Typ field as the qualification. A Verbandszeugnis is the certificate of a preliminary chemistry examination required before the doctorate or diploma examination; it is not a degree. Link one person's separate entries, which may be at different institutions, into a dated sequence. [S22], [S25]
   - Entries often give place of origin, prior schooling and the supervising professor. Check each dissertation against the *Jahresverzeichnis der Deutschen Hochschulschriften*. [S22]
 - Use the higher-school route to find the school too. Entry to a university required a gymnasium certificate, earned either by study or as an external candidate. [S1], [S4]
@@ -151,26 +137,17 @@ For a Scottish school, check the present holder and any former local-government 
 - *Dissertationen des Akademischen Gymnasiums Danzig, des Gymnasiums Elbing und Thorner Gymnasiums*: browse by document, person, role, school, faculty and city [S28 @2026-11-12].
 - *Königsberger Studenten von 1829 bis 1921*: search by name, given name, place of origin, semester and faculty or subject [S29 @2026-11-12].
 
-Record each person's role in a hit. The respondent or candidate is the student; the praeses presided over the disputation. A dissertation can name the student's home town: CompGen's report on these databases shows a 1710 Danzig dissertation by a student from Belgard in Pomerania [S30].
+Distinguish the respondent or doctoral candidate from the *praeses*, who presided. CompGen reproduces a 1710 Danzig dissertation naming Johannes Gottfried Drave of Belgard, Pomerania. Record the stated origin separately from the place of the disputation [S30].
 
 ## 6. Read the full original list, not a filtered extract
 
-- A confession-filtered extract misses people. Published Kharkiv University student lists give course, confession, admission date, estate, means of support and previous school. A participant warned that obviously Jewish names appear there with Orthodox or Lutheran confession. If a relative is known to have attended but is missing from an extract, read the original list. [S5]
+- In the published Kharkiv student lists, read the recorded confession alongside course, admission, estate, support and previous school. A confession-filtered extract excludes entries recorded under other confessions. Search the full roll under spelling variants and compare identifying details. A surname alone cannot establish the student’s confession [S5].
 - Read the whole case, not only the summary page. Moscow district reports go school by school, folio by folio, and list women separately. [S9]
-- A transcribed list can carry impossible values. In one posted leaving-certificate list, a pupil's attendance ends before it starts. In the same list, another pupil's birth year falls after her first school date. Go back to the cited signature before you use a date from a transcription. [S18]
+- Check impossible dates against the volume. In a transcription of Berlin leaving certificates, one attendance interval runs backwards and another pupil appears to enter school before birth. Keep each reading provisional until checked against the signature [S18].
 
 ## 7. Classify each entry's role before you infer years or graduation
 
-Record the category exactly as the list states it. A participant posted a 1913 Moscow district report on Jewish candidates admitted to examinations (ЦИАМ f.459, op.14, d.27). Its categories include: [S9]
-
-- school pupil (ученик);
-- external candidate (экстерн);
-- outsider (посторонний);
-- admitted to the graduation examination, the final examination, or a supplementary examination (including one admitted without the modern languages);
-- did not appear, or failed;
-- an entry crossed out;
-- a candidate who announced a conversion during the examination;
-- a former graduate re-sitting to raise his marks.
+In the posted extract of the 1913 Moscow district examination report (ЦИАМ f.459 op.14 d.27), distinguish pupil (ученик), external candidate (экстерн) and outsider (посторонний). Record the examination and its outcome separately. The extract distinguishes admission to a supplementary exam, absence, failure, a crossed-out entry and a former graduate re-sitting for higher marks. Retain individual qualifications such as an exemption from modern languages or a conversion reported during the examination [S9].
 
 A list of admissions to examinations is not a list of graduates or of years of study. Other lists have further categories to keep:
 
@@ -181,9 +158,9 @@ A list of admissions to examinations is not a list of graduates or of years of s
 
 ## 8. Build a dated career series from serial yearbooks
 
-- For a lyceum or university graduate, find the cohort list in the institution's serial yearbook. Look for the same cohort reprinted in later volumes with each alumnus's current post updated. Participants traced one 1881 Demidov Lyceum graduate through three books of its Временник: book 27, book 53 (1891) and book 81 (1900). His post changed between them. Record each volume and year as a separate observation. [S3]
+- Compare the same graduating cohort in later volumes of the institution’s yearbook. The Demidov Lyceum’s *Временник* records Lavr Popov’s qualification in the 1881 cohort (book 27), then his posts as an investigating magistrate in Yekaterinburg district (book 53, 1891) and a deputy prosecutor in Yekaterinburg (book 81, 1900), as transcribed in [S3]. Cite each volume for the post it names.
 - Read "сведений не доставили / не доставил" as "supplied no information". It says nothing about death, emigration or absence. [S3]
-- The same yearbooks carry council minutes, such as stipend awards, and these give a student's course year. A participant reported 71 issues of the Временник openly available through the Russian State Library. [S3]
+- Check the council minutes for stipends and course year. Book 18 records a stipend for Popov as a third-year student in 1878 [S3].
 - Carry the series into service files. Participants cited personnel files in ГАПК f.1 op.2 that restate the lyceum course and degree before the service record. [S3]
 
 For a yearbook, inspect another copy of the same edition even when the family owns one. Handwritten inscriptions are copy-specific: look beside the relevant printed entry, inside covers, and on notes or autograph pages, keeping the copy's holder and page locator. A signature or personal note may be absent from both OCR and the family's copy. Treat the handwriting's attribution as a separate claim; do not identify a person by comparing faces. [S33](https://genealogytipoftheday.com/index.php/2025/06/27/grandma-signed-a-yearbook/), [S34](https://www.amyjohnsoncrow.com/getting-more-out-of-yearbooks-for-genealogy/)
@@ -192,20 +169,17 @@ If the school's own holdings turn up no yearbook for the year you need, check th
 
 ## 9. When institutional files are lost, recover the school from later files
 
-- **The next institution's file.** A participant found a relative's Kremenchuk gymnasium certificate in the file of the institution she attended next. [S4] A Moscow higher school's student file can hold the record of a pupil from another district. [S16]
+- **The next institution’s file.** A researcher recovered a great-aunt’s Kremenchuk gymnasium certificate from her next institution’s file [S4]. Search the admissions papers under the later school’s name and request the earlier certificate with the student’s file [S16].
 - **Marriage records** can name a school (step 1). [S4]
 - **A conversion said to have been made for university entry.** Search three places separately:
   - the metrical book of the baptising church;
   - guberniya inventories for files on payments to converts;
   - the student's personal file.
 
-  A participant reported that a personal file at ДАОО held baptism and reliability (благонадежность) documents, a photograph and the father's biography. Another participant found that the published Odessa student lists run only to 1903. [S19]
-- **German leaving-certificate registers.** Choose the volume by leaving year, not birth year. A participant gave the holding for the Luisenschule Berlin certificates of 1883–1921 as Landesarchiv Berlin, A Rep. 020-05, Sign. 1–8.
-  - Sign. 1 covers 1883–1893.
-  - The participant placed pupils born 1900–1915 in Sign. 7 (1913–1919) and Sign. 8 (1914–1921).
-  - Entries give birth date and place, the father's occupation (sometimes his residence), confession and attendance dates. [S18]
-- **An unlocated German student-list entry** (link lost; it gives a term, a number, birth date and place, an occupation and place read as the father's, and the subject studied in Berlin). Use the father's details to separate men with the same name. Do not call it a matriculation register or assign a role to the number until you re-find the source and its column headings. [S20]
-- **A student-corporation album that cannot be found.** Look under the corporation's later name. A participant could not find the 1872–1897 album of the Dorpat pharmacy students' association in the original. The 1977 "Album Baltonorum et Gotonorum 1872–1976" covers members from 1872. The participant reported 879 members plus 32 honorary and corresponding members, with biographies, and said he had filled in some from other sources. Record it as a later compiled derivative. [S17]
+  A researcher describes finding baptism and official reliability (благонадёжность) documents, photographs and a father’s biography among Odessa student records. The student lists another researcher had checked ended in 1903. Record that search limit before checking personal files [S19].
+- **Berlin leaving certificates.** For the Luisenschule, the reported locator is Landesarchiv Berlin, A Rep. 020-05, Sign. 1–8. Choose by leaving year. Sign. 1 covers 1883–1893. For a possible departure in 1913–1921, compare the overlapping ranges reported for Sign. 7 (1913–1919) and Sign. 8 (1914–1921). Check the individual row for birthplace, father’s occupation or residence, confession and attendance [S18].
+- **A copied entry without a source.** The reported Easter 1893 entry for a Berlin law student includes a number, birthplace, occupation and town. Recover the page and its headings before interpreting the number or assigning the occupation and town to his father. Until then the transcript is a search lead [S20].
+- **A missing student-association album.** For the unlocated 1872–1897 Dorpat pharmacy students’ album, search under the association’s later name. The 1977 *Album Baltonorum et Gotonorum 1872–1976* was reported to contain biographies for 879 members and 32 honorary or corresponding members. Distinguish the later compilation from the original album and from the contributor’s own supplements [S17].
 - **Soviet-period records.** Look for the parents' personal files at their workplaces. Start from the house books of the city where the person last lived, because a family often shared one flat before the war. [S1]
 
 - **The person's own labour book (трудовая книжка).** Under the 1974 USSR instruction, education was entered on its title page only from a diploma or certificate, and periods of study at higher and secondary specialised schools were entered among the work records with a reference to the supporting document (пп. 2.10, 2.17). [S31] A 2020 Dzen guide adds that study was entered because it counted toward length of service. [S32] Take the school and years from each study entry before you search that school's fond.

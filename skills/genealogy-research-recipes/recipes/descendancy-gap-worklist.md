@@ -20,7 +20,7 @@ Use this recipe when you are researching downward from an ancestor who is alread
 
 ## Do not read a blank as a finding
 
-The tree shows no spouse, no death or no children for someone. Record that as an **open question**. Do not write "never married", "died young" or "childless" unless a source says so. One unrecorded marriage can hide a whole branch. The presenter's example is Henry Woodson Morgan, who lived from 1830 to 1895 (65 years) with no marriage shown. The presenter estimates that if he did marry and have children, there could be two or three thousand descendants between 1830 and the present to account for [S1]. Only state an absence as a conclusion when a source states it or it passes the negative-evidence gate, and give the source for it (see the closing section below).
+Turn an empty spouse, death or children field into an open research question. An adult with no recorded marriage may have a spouse or children missing from this tree. Add the marriage or household search to the worklist [S1]. Describe a person as never married or childless only when a source supports it or the search satisfies the negative-evidence gate in the closing section. Cite the evidence for that conclusion.
 
 ## Flag the three gap patterns
 
@@ -42,10 +42,10 @@ For each person on the list, record: person ID, gap type, source count, lifespan
 
 From each lifespan, list every census taken while the person was alive. Then mark each one as name-level, head-only, or largely lost. The name-level censuses that survive are the first targets [S1]. In the U.S., the censuses from 1790 to 1840 name only heads of household, so anyone else appears only as an unnamed tally in the household where they were counted [S4]. The 1890 population schedule was mostly destroyed after the January 1921 Commerce Department fire. Check the surviving fragments, but expect a gap between 1880 and 1900.
 
-The presenter's examples, with those coverage notes added:
+Build a census timeline from the person’s dates and jurisdiction:
 
-- **Born 1819, died 1893 (U.S.).** The presenter names the 1850, 1860, 1870 and 1880 censuses, which are the four surviving censuses that list this person by name. By 1850 the person was an adult [S1]. The same lifespan also crosses 1820–1840, where only heads of household are named: in 1840, first search for the person by name as a head of household; if they are not found, find the household in which they were counted. It also crosses 1890, where you should check the fragments.
-- **Born 1855.** The presenter places this person in the 1860, 1870 and 1880 U.S. censuses, and says that in England the equivalent would be 1861, 1871, 1881 and 1891 [S1]. The two lists cover different spans. If the person was alive in 1890, the U.S. 1890 census is largely lost. If they lived longer, add 1900 and later in the U.S., and 1901, 1911 and 1921 in England. The England and Wales list stops there: the 1931 census was destroyed by fire in 1942, and no census was taken in 1941 [S5]. For those years, use the 1939 Register, taken on 29 September 1939 [S6].
+- **U.S. lifespan, 1819–1893.** For 1820–1840, search the named head of household and test the other members’ age groups [S4]. By 1840 the person might themselves head a household. For 1850 and 1860, free population schedules name individuals, while slave schedules generally identify enslaved people only by characteristics such as age and sex [S12]. Include 1870 and 1880, and check whether an 1890 population fragment survives for the locality [S1, S12].
+- **Birth in 1855.** After locating the family, list the census years the child could have lived through. Start in 1860 in the United States or 1861 in England and Wales [S1]. For each subsequent enumeration, check that the person was still alive and living there. In England and Wales, continue through 1921 if the dates fit. The 1931 returns were destroyed and there was no 1941 census [S5]. For someone alive on 29 September 1939, check the separate 1939 Register [S6].
 
 Work out the list from each person's own dates and jurisdiction. Do not reuse these lists as fixed defaults. The presenter calls people in this period comparatively accessible because these censuses exist, and treats that as a factor in choosing whom to research first [S1]. Rank them accordingly.
 
@@ -58,7 +58,7 @@ Do not follow whatever branch looks most interesting. Jumping around that way is
 - Within each family, go from the oldest child to the youngest. The presenter says most family software programs place the oldest child on the far left, so the sweep runs left to right [S3]. In a vertical list view such as FamilySearch's descendancy view, use birth order instead.
 - Identify every child you can for that family, then move to the next family in the same generation [S3].
 - Finish the whole generation before you go down to the next one. Record the order you used so a later session can pick up where you stopped [S3].
-- Use the oldest children to confirm the family. If the same child appears with the other children in two censuses in a row (the presenter's example is 1910 and 1920), that agreement is a quick check that you are following the right household [S3].
+- Follow an older child across consecutive censuses. Match the other siblings, their ages and their parents before joining the two households [S3]. If the child has moved or the family composition differs, verify the relationship with a birth, marriage or other independent record.
 
 For the 10 Million Names Patriots of Color study, start the sweep from the patriot's entry in the DAR Patriots of Color database [S9]. According to Lindsay Fulton's interview, the study worked down through all children and grandchildren and stopped at births after 1900 [S10†], [S11]. When following that workflow, include births through 1900 and mark later births as outside the sweep. Compare the resulting lines locally with a grandparent or earlier ancestor the user has already identified.
 

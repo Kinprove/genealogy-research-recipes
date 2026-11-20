@@ -3,7 +3,7 @@
 Reviewed 2026-10-19 from the published teaching article. The original register,
 drawings and microfilm were not independently inspected.
 
-- **S1:** Family Locket, [Marks and Brands in Milam County: Research at the County Records Annex and Public Library](https://familylocket.com/marks-and-brands-in-milam-county-research-at-the-county-records-annex-and-public-library/).
+- **S1:** Family Locket, [Marks and Brands in Milam County: Research at the County Records Annex and Public Library](https://familylocket.com/marks-and-brands-in-milam-county-research-at-the-county-records-annex-and-public-library/). Published account of the Milam County index read 2026-11-19; the register and drawings were not independently inspected.
   The reported search uses a design initial rather than the owner's surname, follows an
   index entry to a register volume/page, and locates an alternate film when the original
   cannot be retrieved. The described film contains overlapping volume coverage. The account

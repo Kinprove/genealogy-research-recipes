@@ -44,7 +44,7 @@ the relevant workflow. Community references:
 13. Steve Luxenberg with Lisa Louise Cooke, Genealogy Gems, *Episode 121 –
     Mysteries in Family History, Part 2*, published 23 December 2016.
     <https://www.youtube.com/watch?v=9OkR0D6bDyg> — Used for an AR-2 ship and
-    date that matched no real voyage and contradicted the known manifest.
+    date that matched no real voyage and contradicted the known manifest. Source interview transcript read 2026-11-19.
 14. Clotilde Yap, BYU Family History Library, *Introducing My China Roots*,
     published 23 September 2024.
     <https://www.youtube.com/watch?v=x5P9fKp25lw> — Used for the Chinese
@@ -84,13 +84,13 @@ the relevant workflow. Community references:
 22. Lisa Louise Cooke, Genealogy Gems, *Episode 98: The Journey Takers*,
     published 23 December 2016.
     <https://www.youtube.com/watch?v=nto6GVn0CLk> — Used for a page-wide ditto
-    entry (Sweden for German passengers) that defeated a correct search filter.
+    entry (Sweden for German passengers) that defeated a correct search filter. Source interview transcript read 2026-11-19.
 23. Lisa Lisson, *Chatting About Researching Immigrant Ancestors*, published 19
     June 2020. <https://www.youtube.com/watch?v=4d43ZFUIzbs> — Used for
     page/line cross-references between family entries and for a naturalized
     relative listed on the same voyage's U.S.-citizen list; also used for state
     and federal alien registrations and for split family listings and citizen
-    lists.
+    lists. Source interview transcript read 2026-11-19.
 24. James Tanner, BYU Family History Library, *Understanding Naturalization for
     Genealogists*, published 13 July 2017.
     <https://www.youtube.com/watch?v=8d_4x7YTNQA>. Used for keeping the search
@@ -99,7 +99,7 @@ the relevant workflow. Community references:
 25. Alyssa Martinez, BYU Family History Library, *Certifying Citizenship*,
     published 10 April 2026. <https://www.youtube.com/watch?v=2K4FYUhoNbc> Used
     for the U.S.-born woman recorded as alien whose repatriation oath was
-    found, and for a wife's filing next to her husband's.
+    found, and for a wife's filing next to her husband's. Source interview transcript read 2026-11-19.
 26. GeneaVlogger, *Building Lil Dicky's Family Tree*, published 23 February
     2024. <https://www.youtube.com/watch?v=SKDoU7MJkds> — Used for finding the
     certificate of arrival on an adjacent image and using it to reach the
@@ -112,7 +112,7 @@ the relevant workflow. Community references:
     <https://forum.ahnenforschung.net/forum/thread/185403/> — Rights: cited
     reference, not reproduced. Used for the warning that manifest visa numbers do not locate
     USCIS visa files, which need an index search first, and for the limited contents to expect;
-    also used for searching British inbound passenger lists for a return leg through Britain.
+    also used for searching British inbound passenger lists for a return leg through Britain. Cited search discussion read 2026-11-19.
 29. Aimee Cross, *Missed Records at the National Archives*, 17 July 2025.
     <https://www.youtube.com/watch?v=T9iEw4Zhb7M>
     A possible naturalization-paper lead inside a homestead packet; the interview's
@@ -154,7 +154,7 @@ the relevant workflow. Community references:
     as a nationality/parent lead. The original court paper was not inspected and has
     no precise locator in the article. Its Royal Charter, Foraker/Jones Act and Danish
     nationality-inheritance claims are not adopted. The lead row and its limits are
-    Kinprove synthesis.
+    Kinprove synthesis. Published case account read 2026-11-19; the original court paper was not inspected.
 36. National Archives, *Alien Registration (AR-2) Forms*, last reviewed 6 September 2024.
     <https://www.archives.gov/research/immigration/alien-registration-ar-2>
     Used for the AR-2 fields that separate first arrival from most recent arrival, for
@@ -205,7 +205,7 @@ the relevant workflow. Community references:
     hereafter be married . . ." Women and Naturalization, ca. 1802–1940*, Summer 1998.
     <https://www.archives.gov/publications/prologue/1998/summer/women-and-naturalization-1.html>
     Used for the historical marriage-related changes to a woman's citizenship, checked
-    against the dates of her timeline.
+    against the dates of her timeline. National Archives historical account of citizenship and marriage read 2026-11-19.
 46. U.S. Department of State, Foreign Affairs Manual, 8 FAM section on historical
     derivative-citizenship charts, undated.
     <https://fam.state.gov/FAM/08FAM/08FAM030109.html>
@@ -371,8 +371,14 @@ the relevant workflow. Community references:
 103. Lynn Goodsell, National Archives, *Accessing the Passenger Arrival Data Records*, Winter 2017–18. <https://www.archives.gov/publications/prologue/2017/winter/aad-passengers> Article read on 2026-11-18. Used for the selected-port coverage, mixed nationalities and manifest ID that joins passenger and vessel files. This article describes the files independently of the current search form. <!-- markdownlint-disable-line MD029 -->
 104. United States, Immigration Act of 20 February 1907, ch. 1134, 34 Stat. 898, section 2. <https://www.govinfo.gov/content/pkg/STATUTE-34/pdf/STATUTE-34-Pg898.pdf> Section 2 read on 2026-11-18. It lists exclusion grounds that explain the historical polygamy and anarchism questions. It does not establish the outcome of a particular inspection. <!-- markdownlint-disable-line MD029 -->
 
+105. [INS / USCIS, immigrant Visa Files disposition schedule](https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-homeland-security/rg-0566/n1-566-04-003_sf115.pdf). Schedule description of file numbering and name, date and place indexes read 2026-11-19. <!-- markdownlint-disable-line MD029 -->
+
+106. [National Archives, Department of State Visa Records](https://www.archives.gov/research/immigration/visa-records). Visa Files section read 2026-11-19 for access and re-filing in A-Files and C-Files. <!-- markdownlint-disable-line MD029 -->
+
 ## Credits
 
+- United States government (N106) — Record description paraphrased with attribution (adapted)
+- United States government (N105) — Record description paraphrased with attribution (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
 - FamilySearch, Sunny Jane Morton, Castle Garden: Immigration Before Ellis Island, and the United States, Index to Alien Case Files, 1940-2003 collection page, cited as N61 and N66 — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)
 - MyHeritage Knowledge Base articles on New York passenger lists and on the Border Crossings from Canada collection, and the MyHeritage Blog release notice, cited as N62, N64 and N65 — Third-party content, all rights reserved by the creator; short adapted paraphrase with attribution (adapted)

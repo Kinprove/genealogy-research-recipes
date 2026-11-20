@@ -5,13 +5,13 @@ The worksheet schemas, validation controls and prompt are original synthesis.
 
 - **S1:** Genealogy TV, [Extract Ancestors from City Directories Using Ancestry or FamilySearch
   into Excel Spreadsheets](https://www.youtube.com/watch?v=MXLDjp4W0YY), 14 January 2022.
-  Header/year handling, repeated imports, filters and comparison across editions.
+  Header/year handling, repeated imports, filters and comparison across editions. Captured transcript read 2026-11-19.
 - **S2:** Ancestry, [City Directories and How to Use for Family History](https://www.youtube.com/watch?v=YFsbwJ3PozI),
   17 April 2012. Edition-specific abbreviations, reverse listings, multi-field sorting, and a
   marriage-officiant to clergy-listing to candidate-congregation handoff. The narrated example,
-  rather than the original directory or marriage record, was inspected.
+  rather than the original directory or marriage record, was inspected. Captured transcript read 2026-11-19.
 - **S3:** Family Locket, [When City Directory Indexing Goes Wrong: A Genealogist's Tale](https://familylocket.com/when-city-directory-indexing-goes-wrong-a-genealogists-tale/),
-  28 October 2024. Separate locality sections, incorrect post-office/name indexing and coverage gaps.
+  28 October 2024. Separate locality sections, incorrect post-office/name indexing and coverage gaps. Article text read 2026-11-19.
 - **H1:** Library of Congress, [Directory Holdings Data Package README](https://data.labs.loc.gov/directories/README.html),
   version 1.2, 17 April 2024; checked 7 October 2026. Holdings tables can omit localities within a
   volume and are not comprehensive; directory coverage can contain gaps.
@@ -19,7 +19,7 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   6 February 2022. The article quotes the 1949/50 volume's foreword: later addresses of former
   residents are arranged by earlier Breslau street and house number. Later localities can guide
   civil-register and subsequent-directory research. The recipe's conditional schema and time-role
-  controls are original synthesis from this example; the article, not a directory-book image, was inspected.
+  controls are original synthesis from this example; the article, not a directory-book image, was inspected. Article text read 2026-11-19.
 - **S5:** Lisa Lisson, [Using City Directories In Your Genealogy Research](https://www.youtube.com/watch?v=VcsuFFgIrWw),
   30 May 2019; [Uncover Your Ancestor's Birth Date with These 3 Overlooked Sources](https://www.youtube.com/watch?v=xjLPo2MMuHs),
   28 November 2023; [City Directories for Genealogy Research - More Reasons To Love Them!](https://www.youtube.com/watch?v=b2O3BFQZ4mg),
@@ -52,23 +52,23 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   widow entry, and printed death dates.
 - **S10:** BYU Family History Library, Marilyn Thomsen, [City Directories May Resolve Family History Conundrums](https://www.youtube.com/watch?v=d39IOclm3wU),
   8 June 2023. Used for segregated sections and race designations, weak absence where canvassing
-  was poor, and the same woman listed twice in one edition.
+  was poor, and the same woman listed twice in one edition. Captured transcript read 2026-11-19.
 - **S11:** Family History Fanatics, [MyHeritage City Directories: A Revolutionary Genealogy Collection](https://www.youtube.com/watch?v=RRz2QHR4DmE),
-  21 March 2020. Used for an index entry that merged two people listed with a ditto mark.
-- **S12:** J-Roots Forum, [Нужно мнение коллег](https://forum.j-roots.info/viewtopic.php?f=4&t=4667), first post 22 September 2015. Rights: cited reference, not reproduced. Used for reading a trade directory's inclusion threshold in the volume and for the registration town differing from residence, and for resolving same-named entries at one address through house books.
+  21 March 2020. Used for an index entry that merged two people listed with a ditto mark. Captured transcript read 2026-11-19.
+- **S12:** J-Roots Forum, [Нужно мнение коллег](https://forum.j-roots.info/viewtopic.php?f=4&t=4667), first post 22 September 2015. Rights: cited reference, not reproduced. Used for reading a trade directory's inclusion threshold in the volume and for the registration town differing from residence, and for resolving same-named entries at one address through house books. Forum discussion read 2026-11-19.
 - **S13:** Ahnenforschung.net Forum, topic 2950717, first post 7 September 2025, <https://forum.ahnenforschung.net/forum/thread/2950717/>. Rights: cited reference, not reproduced. Used for within-surname occupation ordering and widows filed under the husband's occupation in Berlin address books.
 - **S14:** No entry; this number is not cited by the recipe.
-- **S15:** J-Roots Forum, [Случайные находки](https://forum.j-roots.info/viewtopic.php?f=15&t=64), first post 25 August 2009. Rights: cited reference, not reproduced. Used for reading a street plus house-owner address form instead of a town and village.
-- **S16:** Ahnenforschung.net Forum, topic 3014463, first post 15 May 2026, <https://forum.ahnenforschung.net/forum/thread/3014463/>. Rights: cited reference, not reproduced. Used for splitting a long business run under one initial at a possible holder's death.
-- **S17:** Ahnenforschung.net Forum, [Suche nach meinem Urgroßvater](https://forum.ahnenforschung.net/forum/thread/3014348/), first post 12 May 2026. Rights: cited reference, not reproduced. Used for co-residents at a former house number as leads and for 'über' post-office wording confirmed in a local directory.
-- **S18:** Ahnenforschung.net Forum, [Adressbücher, Lexika, Verzeichnisse ... in Euren Regalen!](https://forum.ahnenforschung.net/forum/thread/2552/), first post 2 August 2006. Rights: cited reference, not reproduced. Used for recording the fields a volunteer transcription left out or re-sorted.
-- **S19:** J-Roots Forum, [Черта оседлости](https://forum.j-roots.info/viewtopic.php?f=9&t=4132), first post 10 October 2009. Rights: cited reference, not reproduced. Used for comparing a general city directory with a professional directory and house books for one household.
+- **S15:** J-Roots Forum, [Случайные находки](https://forum.j-roots.info/viewtopic.php?f=15&t=64), first post 25 August 2009. Rights: cited reference, not reproduced. Used for reading a street plus house-owner address form instead of a town and village. Forum discussion read 2026-11-19.
+- **S16:** Ahnenforschung.net Forum, topic 3014463, first post 15 May 2026, <https://forum.ahnenforschung.net/forum/thread/3014463/>. Rights: cited reference, not reproduced. Used for splitting a long business run under one initial at a possible holder's death. Forum discussion read 2026-11-19.
+- **S17:** Ahnenforschung.net Forum, [Suche nach meinem Urgroßvater](https://forum.ahnenforschung.net/forum/thread/3014348/), first post 12 May 2026. Rights: cited reference, not reproduced. Used for co-residents at a former house number as leads and for 'über' post-office wording confirmed in a local directory. Forum discussion read 2026-11-19.
+- **S18:** Ahnenforschung.net Forum, [Adressbücher, Lexika, Verzeichnisse ... in Euren Regalen!](https://forum.ahnenforschung.net/forum/thread/2552/), first post 2 August 2006. Rights: cited reference, not reproduced. Used for recording the fields a volunteer transcription left out or re-sorted. Forum discussion read 2026-11-19.
+- **S19:** J-Roots Forum, [Черта оседлости](https://forum.j-roots.info/viewtopic.php?f=9&t=4132), first post 10 October 2009. Rights: cited reference, not reproduced. Used for comparing a general city directory with a professional directory and house books for one household. Forum discussion read 2026-11-19.
 
 - **S20:** CompGen-Forschungstipps, [Räumliche Visualisierung genealogischer Daten mit dem Programm QGIS](https://www.youtube.com/watch?v=Ct-eZM0TONs),
   5 June 2023. The presenter describes address-book data dominated by household heads and
   distinguishes women's marital-status wording from occupational wording. This
   talk does not establish another edition's inclusion policy. Recording an edition's
-  stated rule and locator, or leaving it unknown, is Kinprove synthesis from that limitation.
+  stated rule and locator, or leaving it unknown, is Kinprove synthesis from that limitation. Captured transcript read 2026-11-19.
 
 - **S21:** Aimee Cross / Ancestry Aimee, [Finding Ancestors’ Addresses: Why They Matter & Where to Look](https://www.youtube.com/watch?v=7U_z66Fl0MQ),
   5 February 2026. Compares listing-site construction years with a census and a draft-card
@@ -84,14 +84,14 @@ The worksheet schemas, validation controls and prompt are original synthesis.
   its reproduced row gives Hermann Wilhelm; that difference remains unresolved.
   The finite search extent and existing-table reuse are authored synthesis. Original
   record accuracy, current access and coverage, employer or kinship, ownership and
-  continuity with modern numbering are not established.
+  continuity with modern numbering are not established. Article text read 2026-11-19.
 
 - **S23:** Roberta Estes, DNAeXplained, [Finding the Old Home Place with Zillow – 52 Ancestors #394](https://dna-explained.com/2023/04/09/finding-the-old-home-place-with-zillow-52-ancestors-394/),
   9 April 2023. Used as the example that motivates comparing literal building and unit numbers
   with dated street or reverse entries and stable-neighbor context. The recipe's choice between
   a move, unit conversion, renumbering or an erroneous entry, and keeping the correspondence
   provisional, are Kinprove synthesis; the example does not prove occupancy, identity, a
-  conveyance or renumbering.
+  conveyance or renumbering. Article text read 2026-11-19.
 
 - **S24:** CompGen Blog, News-Redaktion, [Adressbuch mit unerwartetem Inhalt entdeckt](https://www.compgen.de/2023/02/adressbuch-mit-unerwartetem-inhalt-entdeckt/),
   published 2023-02-17, read 2026-11-12. Used for identifying an address-book auxiliary section that labels
@@ -147,6 +147,20 @@ The worksheet schemas, validation controls and prompt are original synthesis.
 
 - **S48:** Aryn S. Youngless, Family Tree Magazine, [Writing a New Narrative: Turning Genealogical Details into Family Stories](https://familytreemagazine.com/storytelling/writing/writing-a-new-narrative-turning-genealogical-details-into-family-stories/), read 2026-11-18. Community article. In “Ethically Fill Gaps,” Youngless suggests that a later lodging-housekeeper listing raises the possibility of taking in boarders during early widowhood. The article gives no directory locator for the listing and supplies no record dating the start of that work.
 - **S49:** New York Public Library, [City directories](https://libguides.nypl.org/genealogy/gettingstarted/citydirectories), research guide, read 2026-11-18. Used for: directories recording reported occupations and letting researchers trace career changes across a series of entries.
+
+- **S50:** Lisa Lisson, [Genealogy Grab Bag of Reader Questions and More!](https://www.youtube.com/watch?v=JY9qiuftib4). Captured transcript read 2026-11-19.
+
+- **S51:** Lisa Lisson, [8 Alternatives To Vital Records](https://www.youtube.com/watch?v=VDsZBiAxlzg). Captured transcript read 2026-11-19.
+
+- **S52:** Family History Fanatics, [When Did They Die? Finding Your Ancestor's Death Date](https://www.youtube.com/watch?v=dck2TkjsKso). Captured transcript read 2026-11-19.
+
+- **S53:** Genealogy Gems, [Episode 212](https://www.youtube.com/watch?v=EsfciqHqnBE). Captured transcript read 2026-11-19.
+
+- **S54:** Michael Strauss, [Influenza: The Twentieth Century's Deadliest Pandemic](https://www.youtube.com/watch?v=iTdSalYI6a4). Captured transcript read 2026-11-19.
+
+- **S55:** Lisa Lisson, [Finding an Ancestor's Date of Death](https://www.youtube.com/watch?v=9Lz5OLRv8E0). Captured transcript read 2026-11-19.
+
+- **S56:** Lisa Lisson, [Finding An Ancestor's Divorce Records - Facebook Live Replay](https://www.youtube.com/watch?v=9XPYpWcaU1o). Captured transcript read 2026-11-19.
 
 ## Credits
 
