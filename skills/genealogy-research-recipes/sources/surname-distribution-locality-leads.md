@@ -26,6 +26,12 @@
 - **S21:** Ann Marynissen and Paul Bijnens (concept), with support from Familiekunde Vlaanderen, Familienaam.be, [Geografische spreiding van familienamen in België](https://www.familienaam.be/), opened 2026-11-17. Used for: data from the Belgian population register for 1998 and 2008; the choice between absolute and relative frequency; the notices that search is case-sensitive and that capitals, spaces and accents matter. The page does not say what the relative frequency is relative to or which map unit it uses, and no surname result was displayed in the retrieved page.
 
 - **S22:** Francis H. Groome, [Ordnance Gazetteer of Scotland, entry for Tarves](https://deriv.nls.uk/dcn23/9738/97387613.23.pdf), National Library of Scotland scan. Distinguishes the village and parish in central Aberdeenshire. Gazetteer entry read 2026-11-19.
+- **S23:** Family Tree Magazine / Lisa A. Alzo, [A Guide to Polish Genealogy Research](https://familytreemagazine.com/heritage/polish/a-guide-to-polish-genealogy-research/), opened 2026-11-20. The page shows a last update of 2026-10-30. In “Names and Places,” Alzo suggests using a Mapa Nazwisk concentration to narrow the region for an uncommon surname. The tool's documentation dates the distribution to 2000 telephone directories [S24].
+- **S24:** Mapa Nazwisk / Stefano Ravara, [About the Surname Map](https://www.mapanazwisk.eu/en/info.php), opened 2026-11-20. The tool's help page gives the 2000 telephone directories as the basis and specifies nominative singular, masculine form where the ending differs, and exact Polish diacritics. The documentation was read without running a surname query.
+- **S25:** Mapa Nazwisk / Stefano Ravara, [Terms of Use](https://www.mapanazwisk.eu/en/terms_of_use.php), opened 2026-11-20. Section 2 limits use to personal, informational purposes and bars automated access or extraction. The page shows a last update of 2025-07-01.
+- **S26:** MyHeritage Blog, [Polish Family History: Uncovering Your Ancestry in Poland](https://blog.myheritage.com/2025/01/polish-family-history/), published 2025-01-13, opened 2026-11-20. The post suggests using Nazwiska polskie to check frequency and regional distribution, including when a surname is common. The resource passage names the tool without giving a reference date for its data.
+- **S27:** Nazwiska polskie, [Kowalski](https://nazwiska-polskie.pl/Kowalski), opened 2026-11-20. The existing result page shows an approximate national count and locality and voivodeship tables. The displayed counts were used to confirm the type of results, without adopting the example counts or treating its coverage as exhaustive.
+- **S28:** Nazwiska polskie, [Informacje o danych](https://nazwiska-polskie.pl/o-danych), opened 2026-11-20. The operator describes city counts as approximate and says some localities may be missing. It describes the age of the source data in relative terms without anchoring that wording to a fixed date.
 
 ## Credits
 
@@ -42,3 +48,7 @@
 - The Family History Guide blog / Bob Taylor, What’s In a Name?, 2024-11-03, cited as S20 — Copyright of its author; no reuse licence stated, short paraphrase with attribution (adapted)
 - Familienaam.be (concept Ann Marynissen and Paul Bijnens), live site text at the time of checking, cited as S21 — Third-party website text; no reuse licence stated, short paraphrase of its labels and notices with attribution (adapted)
 - Francis H. Groome’s gazetteer, National Library of Scotland scan (S22) — Historical place description paraphrased (adapted)
+- Family Tree Magazine / Lisa A. Alzo, A Guide to Polish Genealogy Research (S23) — No reuse licence stated, short paraphrase with attribution (adapted)
+- Mapa Nazwisk / Stefano Ravara, help page and terms (S24 and S25) — Site terms restrict reuse, procedural facts paraphrased with attribution (adapted)
+- MyHeritage Blog, Polish Family History: Uncovering Your Ancestry in Poland (S26) — No reuse licence stated, short paraphrase with attribution (adapted)
+- Nazwiska polskie, surname result and data notes (S27 and S28) — No reuse licence stated, display and data limitations paraphrased with attribution (adapted)
