@@ -28,6 +28,8 @@ Use this recipe when a historical Canadian census line is about to be used as ev
 
 ## Record the enumeration basis before reading the line
 
+For a pre-Confederation search in present-day Québec, select the census by year and historical jurisdiction [S29 @2026-11-20]. In LAC's pre-Confederation guide, open Lower Canada for 1825 or 1831, Canada East for 1842, or the Québec returns under *Census of 1851* or *Census of 1861* [S30 @2026-11-20]. Check the surviving sub-districts before treating a miss as evidence of absence [S30 @2026-11-20].
+
 For 1842 Canada West, read the head’s name separately from the numerical household columns. LAC lists a named head of each family, followed by counts by age, sex and other categories [S19]. Do not assign unnamed household counts to particular spouses or children. Check the surviving district pages and their headings before calling a household absent; a statistical total is not a nominal return [S20].
 
 For any census from 1871 onward, write on the observation that the enumeration was de jure. People were listed where they were supposed to belong, as reported by an informant, not where they physically were at a cutoff time. Both presenters stress this as the critical difference from de facto systems, and Ep. 203 contrasts it with the English census [S1], [S2]. The 1852 census (1851 series) is the exception. It mixed de facto and de jure counting and included visitors. Do not apply the presence, absence or duplicate consequences below to 1852 without first checking that year's rules, and read a listed visitor there as someone physically present at that household. Name the informant if the record does. Otherwise mark the informant as unknown.
