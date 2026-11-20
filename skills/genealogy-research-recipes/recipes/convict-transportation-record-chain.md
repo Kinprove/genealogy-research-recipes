@@ -44,6 +44,8 @@ Stages 5 to 8 name New South Wales series; only the stage 7 pardons collection a
 - **Van Diemen's Land (Tasmania), from 1803** [S5]. Libraries Tasmania holds the conduct registers, indents (CON14 to CON16) and description lists (CON18, CON19) [S6]. Choose the conduct register by sex and period: men under the assignment system, 1803–1843 (CON31), and under the probation system, 1840–1853 (CON33); women under assignment, 1803–1843 (CON40), and under probation (CON41) [S6]. A miss in CON31 says nothing about a man who arrived under probation. Search the person by name in the Tasmanian Names Index, whose convict records cover people transported to Tasmania and people convicted locally, and which also indexes convict permissions to marry [S5].
 - **Western Australia, June 1850 to January 1868.** The State Records Office of Western Australia holds the convict registers and character books, ticket-of-leave, expiree and reconviction registers, medical records and correspondence [S7].
 
+**If the receiving colony is unknown for an Irish convict sent to Australia,** start with the New South Wales convict indents and the Tasmanian Names Index for Van Diemen’s Land, using any known voyage date to narrow the search [S20], [S21]. For a case tied to the 1867 Fenian Rising, search the Western Australian convict registers for a match on the *Hougoumont*, which arrived in January 1868 [S21], [S22], [S23].
+
 A miss in a NSW-only series says nothing about a Tasmanian or Western Australian convict. Record which colony's series each search covered.
 
 ## Keep each stage's date role and what it proves
