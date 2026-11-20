@@ -36,9 +36,9 @@ update step for the user's installation, or the applicable options if the host i
 - Claude.ai or the Claude desktop app: on the Plugins page, select **Check for updates** on
   the `kinprove` marketplace, or turn on **Sync automatically**.
 - Hermes Agent: `hermes plugins update genealogy-research-recipes`.
-  Catalog reviews can lag GitHub; if no change is reported, use the latest GitHub release's
-  full commit SHA in
-  `hermes plugins install Kinprove/genealogy-research-recipes --force --ref <full-commit-sha> --no-enable && hermes plugins enable genealogy-research-recipes`.
+  If Hermes reports no update, check the
+  [Hermes Marketplace listing](https://hermes-agent.nousresearch.com/marketplace/genealogy-research-recipes)
+  for the version available through the catalog.
 - OpenClaw: `openclaw plugins update genealogy-research-recipes`.
   ClawHub releases can lag GitHub; if no change is reported, reinstall from the repository:
   `openclaw plugins install git:github.com/Kinprove/genealogy-research-recipes --force`.
