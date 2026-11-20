@@ -18,6 +18,12 @@ router: {"section": "Record types in any country", "group": "Family papers, phot
 
 Open this recipe when inherited documents, albums, photographs or textiles need safer physical storage. Record what was kept together before rehousing any item.
 
+## Choose a storage location
+
+Keep photographic prints and albums in a cool, dry place with little variation in temperature or humidity. For acetate negatives and color negatives, slides or prints, consider cold storage with protective packaging. [S3], [S10], [S11]
+
+Move boxes of family papers off garage or basement floors and onto shelves in a climate-controlled interior room. [S3], [S12] Move them even if scanning has to wait, according to Family Tree Magazine’s advice. [S13†]
+
 ## Separate loose paper and newsprint
 
 According to the presenter’s advice, house family papers in archival folders and separate retained newsprint from other originals. [S1†]
@@ -31,6 +37,16 @@ If a news clipping came out of a Bible, photograph or note where it lay before m
 According to the presenter, choose boxes that fit the prints or film and preserve the grouping of albums or originals. [S1†]
 
 Use sleeves or folders that pass the Photographic Activity Test for prints. Choose a box that supports the size and format, and use archival pages in albums. Identify a film negative’s base before choosing a sleeve, and use suitable paper enclosures for nitrate, acetate or glass plate negatives. Preserve labels when moving slides or negatives into new housing. [S3], [S5]
+
+If using card stock as a protective cover for prints, choose acid-free, lignin-free stock that passes the Photographic Activity Test. [S10], [S12]
+
+## Handle and display photographs and albums
+
+Turn paper album pages with clean, dry hands. When handling loose prints or negatives directly, wear clean, fitted nitrile gloves and hold the item by its edges. [S10], [S11], [S14], [S15]
+
+Leave a photograph stuck to glass in place. Avoid heat, prying and other DIY removal methods. [S10], [S14]
+
+Use existing scans for routine viewing and display on the user's own device. Keep the original album boxed to limit handling and light exposure. [S16], [S17]
 
 ## Support books and textile folds
 
