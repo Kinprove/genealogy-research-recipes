@@ -3304,5 +3304,17 @@
   "kind": "third-party-tool",
   "action": "Look up the surname in Nazwiska polskie",
   "checkpoint": "The research subject's surname alone goes to Nazwiska polskie"
+ },
+ {
+  "recipe": "admixture-model-run-scope.md",
+  "kind": "third-party-tool",
+  "action": "Set the Breakdown origin",
+  "checkpoint": "before opting in to generate reports or requesting a recalculation"
+ },
+ {
+  "recipe": "admixture-model-run-scope.md",
+  "kind": "third-party-tool",
+  "action": "Change the Breakdown origin",
+  "checkpoint": "before opting in to generate reports or requesting a recalculation"
  }
 ]

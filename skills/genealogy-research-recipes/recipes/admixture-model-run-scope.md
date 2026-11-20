@@ -4,13 +4,13 @@ title: "Record the run scope before reading a G25, calculator or qpAdm admixture
 summary: "Record the run scope of a G25, calculator or qpAdm admixture result before reading it."
 kind: "judgment"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "genetic-third-party"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "ADMIXTURE-MODEL-RUN-SCOPE-01", "text": "Nothing in this recipe establishes an ancestor, an origin locality or a relationship. A result that disagrees with a documented pedigree may make a candidate less likely. It never rules one out."}]
 handoff: []
 checked: null
 checked_basis: null
-capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
 router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 32}
 ---
 
@@ -71,12 +71,28 @@ Repeat a run with the identical target, panel, mode and settings. In repeated R5
   - Keep coverage tags ("Cov_unknown", "Cov_1.04%", "low_res") with ancient samples, and mark low-coverage samples as provisional [S12], [S17].
 - **Trace a re-derived reference to its method.** In one reported comparison, changing the reference set and then the “purification” method moved the same reference’s estimated Amerindian share in opposite directions [S13]. Preserve each reference version and compare one change at a time.
 
+**MyHeritage DeepAncestry Coordinates.** Record the target as the provider's 25-dimensional PCA vector, derived from the tester's raw DNA against a panel of modern and ancient populations [S28 @2026-11-20] [S29 @2026-11-20]. Verify the coordinate system and scaling before using any reference sheet with it.
+
 ## 3. Check fit and scope before reading proportions
 
 - **Check geographic and temporal coverage.** Compare the target with the populations the calculator was constructed to represent. Mark an out-of-scope result uninterpretable, even when the tool prints proportions [S19].
 - **Investigate an outlying distance.** Compare like targets under identical settings. Check coverage, sample quality and possible missing references before interpreting the proportions. One conspicuously worse ancient-sample fit did not establish the cause of the discrepancy [S20].
 - **Read the distance in its printed units.** A K15 output displayed distances above 100% [S5]. Keep both the metric and its scale; compare distances only within the same calculator and specification.
 - **Test a minor component against a regional model.** In one report, the Peninsular Arab component disappeared while a European-only model retained a similar distance [S1]. Record both fits, the panel and the settings [S2]. A suggested threshold from one panel cannot diagnose ancestry on another.
+
+### MyHeritage Ancient Origins
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Clear the [privacy gate](../SKILL.md#privacy-gate) before opting in to generate reports or requesting a recalculation. MyHeritage sends the tester's DNA-derived DeepAncestry Coordinates to IllustrativeDNA to generate the reports [S28 @2026-11-20] [S29 @2026-11-20].
+
+**Set the Breakdown origin.** At the prompt after the tester consents, select one origin [S30 @2026-11-20]. Follow MyHeritage's recommendation to choose the tester's dominant ethnicity if known, or "Global" if there is no dominant origin or the tester is unsure [S29 @2026-11-20] [S30 @2026-11-20]. Record the selection because it guides which references the Breakdown uses [S28 @2026-11-20] [S29 @2026-11-20].
+
+**Change the Breakdown origin.** Use "Tailor the model" to try another region that may better represent the tester's origins [S28 @2026-11-20] [S29 @2026-11-20]. Keep the era fixed and give the recalculated Breakdown its own row with the new origin.
+
+**Match the era to the score.** Use the era slider in the Breakdown or the Genetic Similarities dual-origin view to select the Bronze Age, Iron Age, Roman Era or Middle Ages [S28 @2026-11-20] [S29 @2026-11-20]. Read a lower Genetic Fit as a closer fit to the model's references. Copy the Breakdown's Genetic Fit from the selected era because the score updates as the era changes [S28 @2026-11-20] [S29 @2026-11-20].
+
+**Choose the report by population count.** Use Closest Populations, formerly the "Single origin" view in Genetic Similarities, to rank individual ancient populations [S28 @2026-11-20] [S29 @2026-11-20] [S31 @2026-11-20]. Use Genetic Similarities' dual-origin and triple-origin views for models combining two or three populations, respectively [S29 @2026-11-20] [S31 @2026-11-20]. Read both reports against the provider's full reference panel and keep the origin-tailored Breakdown in its own row [S29 @2026-11-20].
+
+**Record the map region.** Use the region dropdown in Genetic Distance Maps. MyHeritage suggests "Europe" for finer detail when examining European origins. Choose "Global" to see the tester's position relative to all samples and populations in the reference panel [S28 @2026-11-20] [S29 @2026-11-20]. Record the region alongside the plot.
 
 ## 4. Test a minor component with reruns that change one input
 
