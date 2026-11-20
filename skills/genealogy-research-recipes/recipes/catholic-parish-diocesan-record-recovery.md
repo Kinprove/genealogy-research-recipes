@@ -57,6 +57,8 @@ Treat burial separately. In the Archdiocese of Philadelphia, the archdiocesan ce
 - A copy and its original are not independent corroboration. If they differ, keep both readings ([evidence/proof judgment: compare the creation stages](evidence-proof-judgment.md)).
 - If a priest says the registers are missing or burned, record that as his statement. Then look for the diocesan copy before you write that the register is lost. [S3], [S7]
 
+**Poland.** If the parish lacks the register or target year, check the diocesan or archdiocesan archive for that parish's *księgi metrykalne* [S61 @2026-11-20]. At the Archdiocesan Archive in Poznań, search by parish name [S62 @2026-11-20] and check for deposited parish originals as well as duplicates [S63 @2026-11-20]. Compare the years each holder lists for the sacrament and record the archive's call number and whether it identifies an original or a copy.
+
 ## 4. Treat an online miss as a coverage question first
 
 Before you record "not found", check:
