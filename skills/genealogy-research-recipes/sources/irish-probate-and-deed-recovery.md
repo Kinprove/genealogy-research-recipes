@@ -29,8 +29,11 @@
 The decision order, the 1858 split, the copy-before-loss stop rule, the two-index deed search, the Northern Ireland deed split, the weak-nil rule and the packet are authored synthesis; the sources supply the registries, dates, survivals, index arrangements and dataset contents.
 
 - **S21:** National Archives of Ireland, [Accessing collections useful for genealogy](https://nationalarchives.ie/genealogy-website/8790-2/), read 2026-11-13. Used for: the genealogy microsites being offline; the will calendars, 1858–1920, and the prerogative and diocesan copies of some wills and indexes to others, 1595–1858, among the collections that can be viewed in the Reading Room.
+- **S25:** Esther Shuman, [MyHeritage Adds 71 Million Historical Records in March 2024](https://blog.myheritage.com/2024/04/myheritage-adds-71-million-historical-records-in-march-2024/), published 2024-04-01, read 2026-11-20. Used for: the Northern Ireland collection announcement's distinction between estates with and without a will and its mention of property value and diocesan boundaries.
+- **S26:** Ulster Historical Foundation, [Genealogy FAQ: How can I find out if one of my ancestors left a will?](https://ulsterhistoricalfoundation.com/getting-started/genealogy-faq), read 2026-11-20. Used for: the diocesan courts' jurisdiction over wills and administrations and the Prerogative Court's jurisdiction when a deceased person held property worth more than £5 in another diocese.
 
 ## Credits
 
-- Community sources S24 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
+- Community sources S24 and S25 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
+- Ulster Historical Foundation guidance S26 — Third-party content, rights retained by its owners. Procedural adaptation of the published guidance (adapted)
 - Kinprove original procedural synthesis; registries, dates, will-book survivals, calendar fields, index arrangements and dataset contents checked against National Archives of Ireland, Public Record Office of Northern Ireland, Tailte Éireann and Northern Ireland Department of Finance pages, the Registry of Deeds Index Project pages and one reference page cited as S1 to S21 — FSL-1.1-MIT (kinprove-original)
