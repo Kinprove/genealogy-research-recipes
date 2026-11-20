@@ -3208,5 +3208,11 @@
   "kind": "third-party-tool",
   "action": "start with the surname and leave Exact Match off",
   "checkpoint": "A Foundation search sends the passenger's name"
+ },
+ {
+  "recipe": "myheritage-profile-hint-extraction.md",
+  "kind": "contact",
+  "action": "choose **Contact** if available in your account",
+  "checkpoint": "The message shares the sender’s identity and the names or relationships needed for the question with the matching site manager through MyHeritage."
  }
 ]

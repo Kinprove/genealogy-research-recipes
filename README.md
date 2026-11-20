@@ -264,7 +264,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [myheritage-dna-match-investigation](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) | myheritage | — | — | export, link, publish, third-party-tool | contact | required |
 | [myheritage-historical-record-search](skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md) | myheritage | — | — | third-party-tool | — | required |
 | [myheritage-kit-processing-and-downloads](skills/genealogy-research-recipes/recipes/myheritage-kit-processing-and-downloads.md) | public catalogues, documentation and historical records | — | — | export, request, upload | — | required |
-| [myheritage-profile-hint-extraction](skills/genealogy-research-recipes/recipes/myheritage-profile-hint-extraction.md) | public catalogues, documentation and historical records | — | — | link, publish | — | required |
+| [myheritage-profile-hint-extraction](skills/genealogy-research-recipes/recipes/myheritage-profile-hint-extraction.md) | public catalogues, documentation and historical records | — | — | link, publish | contact | required |
 | [nazi-era-ancestry-proof-records](skills/genealogy-research-recipes/recipes/nazi-era-ancestry-proof-records.md) | record catalogues and original images | — | — | request | — | required |
 | [new-york-city-vital-certificate-extraction](skills/genealogy-research-recipes/recipes/new-york-city-vital-certificate-extraction.md) | public catalogues, documentation and historical records | — | — | — | — | — |
 | [newspapers-com-search-recovery](skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md) | newspapers.com | — | — | third-party-tool | — | required |
