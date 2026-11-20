@@ -3214,5 +3214,11 @@
   "kind": "contact",
   "action": "choose **Contact** if available in your account",
   "checkpoint": "The message shares the sender’s identity and the names or relationships needed for the question with the matching site manager through MyHeritage."
+ },
+ {
+  "recipe": "dutch-civil-church-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search by the deceased's name and any known death date or place",
+  "checkpoint": "MyHeritage receives the deceased person's name and any death date or place entered"
  }
 ]

@@ -195,7 +195,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [dna-comparison-controls](skills/genealogy-research-recipes/recipes/dna-comparison-controls.md) | — | — | — | export, third-party-tool, upload | — | required |
 | [dna-match-outreach-staging](skills/genealogy-research-recipes/recipes/dna-match-outreach-staging.md) | — | — | — | export, publish | contact | required |
 | [dnapainter-practical-dna-workflows](skills/genealogy-research-recipes/recipes/dnapainter-practical-dna-workflows.md) | dna-painter | — | — | export, link, publish, third-party-tool, upload | — | required |
-| [dutch-civil-church-record-recovery](skills/genealogy-research-recipes/recipes/dutch-civil-church-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
+| [dutch-civil-church-record-recovery](skills/genealogy-research-recipes/recipes/dutch-civil-church-record-recovery.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [early-new-england-town-records](skills/genealogy-research-recipes/recipes/early-new-england-town-records.md) | record catalogues and original images | — | — | — | — | — |
 | [elib-ukrainian-archive-reference-books](skills/genealogy-research-recipes/recipes/elib-ukrainian-archive-reference-books.md) | elib.nlu.org.ua | — | — | — | — | — |
 | [england-wales-gro-index-recovery](skills/genealogy-research-recipes/recipes/england-wales-gro-index-recovery.md) | record catalogues and original images | — | — | request | — | required |
