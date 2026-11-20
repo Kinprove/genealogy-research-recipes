@@ -18,9 +18,14 @@ synthesis. No repository's actual holdings, access policy, processing backlog or
 was verified.
 
 - **S11:** [Jennings County Public Library, Genealogy](https://www.jenningslib.org/genealogy). Jennings County Public Library collection guide read 2026-11-19. The Gray Boxes section describes separate surname searches for court-file copies and other holdings.
+- **S12:** Lisa Lisson, [12 Underused Sources for Family Photos](https://familytreemagazine.com/photos/underused-sources-for-family-photos/), *Family Tree Magazine*. Search-result extract of section 3 read 2026-11-20 after the article URL returned HTTP 403. Lisson suggests looking for local family photographs in vertical files, either on site or by asking staff to search remotely.
+- **S13:** Genealogical Forum of Oregon, [Vertical Files](https://gfo.org/resources/digitalarchive/vertical-files/). Collection guide read 2026-11-20. It describes member contributions arranged by surname, place or cemetery, with photographs among the possible contents and undigitized folders available in the library.
+- **S14:** Genealogical Forum of Oregon, [Research Services](https://gfo.org/resources/research-services.html). Lookup service page read 2026-11-20. It lists vertical files among the materials eligible for staff lookups.
 
 ## Credits
 
+- Lisa Lisson, Family Tree Magazine (S12) — Third-party article advice paraphrased (adapted)
+- Genealogical Forum of Oregon (S13, S14) — Third-party collection and lookup descriptions paraphrased (adapted)
 - Jennings County Public Library (S11) — Gray Boxes collection description paraphrased (adapted)
 - Genealogy Gems Episode 205 (Lisa Louise Cooke with Melissa Barker) and Episode 210 (Melissa Barker segment) — Third-party, all rights reserved; short attributed paraphrase (adapted)
 - Kinprove original procedural synthesis; presenter accounts cited as S1-S10 (Genealogy Gems, Lisa Lisson, GeneaVlogger videos) — FSL-1.1-MIT (kinprove-original)

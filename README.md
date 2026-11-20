@@ -253,7 +253,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [jewishgen-search-family-reconstruction](skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md) | jewishgen | — | — | — | contact | required |
 | [land-index-book-series-recovery](skills/genealogy-research-recipes/recipes/land-index-book-series-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [lithuanian-jewish-household-registers](skills/genealogy-research-recipes/recipes/lithuanian-jewish-household-registers.md) | public catalogues, documentation and historical records | — | — | — | — | — |
-| [local-repository-uncatalogued-holdings](skills/genealogy-research-recipes/recipes/local-repository-uncatalogued-holdings.md) | record catalogues and original images | — | — | — | — | — |
+| [local-repository-uncatalogued-holdings](skills/genealogy-research-recipes/recipes/local-repository-uncatalogued-holdings.md) | record catalogues and original images | — | — | — | contact | required |
 | [maiden-name-recovery](skills/genealogy-research-recipes/recipes/maiden-name-recovery.md) | civil-registration indexes, historical divorce files, census images, newspapers, probate and land records, Social Security indexes, First Families rosters | — | — | request | — | required |
 | [manuscript-collection-recovery](skills/genealogy-research-recipes/recipes/manuscript-collection-recovery.md) | record catalogues and original images, public auction catalogues and company histories | — | — | — | contact | required |
 | [marks-and-brands-record-recovery](skills/genealogy-research-recipes/recipes/marks-and-brands-record-recovery.md) | record catalogues and original images | — | — | — | — | — |

@@ -4,13 +4,13 @@ title: "Ask for a local repository's uncatalogued holdings before reporting a ne
 summary: "Ask a local library, society or archive about its uncatalogued holdings after its catalogue returns nothing."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "LOCAL-REPOSITORY-UNCATALOGUED-HOLDINGS-01", "text": "Treat an empty catalogue or online search as covering only the repository's processed, catalogued holdings. Do not write \"not held\", \"nothing found\" or \"searched [repository]\" on the strength of it."}]
 handoff: []
 checked: null
 checked_basis: null
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
 router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 44}
 ---
 
@@ -36,6 +36,8 @@ being processed, filmed or put online [S1], [S2], [S3].
 
 ## Ask about four categories by name
 
+**Privacy gate:** <!-- privacy-gate: contact --> Before contacting library or archive staff, clear the gate for the sender's details and the family's names, places and dates the inquiry would disclose. Apply the record-request rules if the lookup concerns anyone who may be living.
+
 Ask staff about each category by name, on site or by email or phone. Melissa Barker presents these
 four as collections that patrons usually cannot see and that staff usually do not volunteer, so you
 have to ask for them [S1], [S3]:
@@ -50,6 +52,11 @@ have to ask for them [S1], [S3]:
    for processing [S3]. Ask what staff can inspect or copy remotely and whether viewing requires an on-site visit [S2].
 
 When remote, ask staff to check a named family and area and to say what they checked [S9].
+
+For photographs of a local family, check surname and locality vertical files even when the catalogue
+lists no photographs [S13]. According to Lisa Lisson [S12†], you can inspect the folders on site or
+ask staff to search them remotely. Confirm that the repository offers vertical-file
+lookups before relying on a remote search [S14].
 
 ## Log each category's access state
 
