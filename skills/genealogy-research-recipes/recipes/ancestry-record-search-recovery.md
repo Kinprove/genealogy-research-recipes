@@ -153,6 +153,10 @@ wider interval. Preserve the reliable anchor while changing one constraint at a
 time, and record which change recovered a candidate.
 See [Ancestry's refinement guide](https://help.ancestry.com/hc/en-us/articles/53933347318419-Refining-Your-Search-to-Improve-Results).
 
+When a broad historical-record search returns hits from too many places, use the record
+location filter on the left of the results page [S15 @2026-11-20], [S16 @2026-11-20].
+Keep the person query as entered so the comparison isolates the effect of the filter.
+
 If an undocumented death year fails, check the last record showing the person alive and search across the surrounding years. Absence from the next census suggests another search date, but gives no upper bound on death. An Ohio example yielded a 1930 death record five years before the stated year [B17]. Test a transposition separately, such as 1762 for 1726 [B18]. Compare any hit with the image, other dated records and namesakes.
 
 For the **1841 England and Wales census**, allow for the instruction to round
