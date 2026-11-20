@@ -52,13 +52,7 @@ Run the site's own search across the name variants (such as Cyrillic е/ё spell
 surname endings), and log that venue and query as what was searched; an empty search-engine result
 is not a NIL for the site's database.
 
-Date each NIL against the collection as it stood at the time. Record the collection title and any
-coverage or last-updated note the provider showed. A NIL covers only that version. If the provider
-later lists the collection as added to or updated, for example with new counties or years, re-run
-the logged search as a new dated row. Do not overwrite the old row. The
-[Lisa Lisson update-check example](https://www.youtube.com/watch?v=0_GHyojrnu8) motivates this
-re-check. An update notice does not show that the target place or period was added, so confirm the
-new coverage before expecting a hit.
+Date each NIL and record the collection title, years, localities and version or update date shown. When the provider announces an update, check which counties, years or images were added. If the update affects the earlier search, repeat the saved query as a new dated row and keep its predecessor [B1](https://www.youtube.com/watch?v=0_GHyojrnu8).
 
 When a database displays only a fixed maximum number of hits, a list that reaches that cap may be
 incomplete, so a target missing from it is untested, not a NIL. Narrow the query, for example to
@@ -68,12 +62,7 @@ Log each slice as its own row with the category and range used. A
 for one site's 100-record display. Check each tool's actual cap. A completed set of slices still
 covers only that database.
 
-If searches went unlogged, a browser-history export for that period can list the pages to reopen.
-Rebuild each citation and log row from the reopened record page, not from the URL, and mark these
-rows as reconstructed after the fact. History lists the URLs of visited pages. It does not show
-every query run or every result inspected and dismissed, so do not turn it into NIL entries. The
-[Family History Fanatics recovery example](https://www.youtube.com/watch?v=BSOrsobztYY) motivates
-this step without naming a tool or making extraction from record pages automatic.
+If a search went unlogged, use the browser history for the relevant dates to reopen the pages that were visited [B3](https://www.youtube.com/watch?v=BSOrsobztYY). Reconstruct the citation and log entry from the record, and label the entry as reconstructed. A visited URL cannot tell you which names you tried or which results you dismissed. Leave an undocumented search open.
 
 When building a timeline, keep the date as written, its source locator and stated precision
 separate from any derived sort key. If software supplies a synthetic first day to order a
@@ -84,38 +73,13 @@ The [timeline-sorting example](https://www.youtube.com/watch?v=8Smljk9Aink) repo
 date beside a generated first-of-month value. It motivates this distinction without
 establishing a current formula or interface contract.
 
-For a bounded set of multi-person records, an optional associate index can keep one row
-per named person's occurrence, with the same source-item/document number on every row from
-that item. Filter by person to see their occurrences or by item number to recover its named
-participants. Retain documentary roles and unresolved same-name identities. These are
-occurrence rows, not additional records or independent confirmations; keep the ordinary log.
-The [John Dobkins record-tracking example](https://dna-explained.com/2022/10/16/tracking-john-dobkins-or-dobbins-to-maryland-52-ancestors-378/)
-supplies this two-way lookup; repeated association does not establish kinship.
+For a set of multi-person records, assign each source item a document number and repeat it on one row per person mentioned. Record the person’s role and keep unresolved identities distinct. Filter by name to find occurrences across documents, then filter by document number to recover everyone named together [B5](https://dna-explained.com/2022/10/16/tracking-john-dobkins-or-dobbins-to-maryland-52-ancestors-378/). Multiple rows from one record add no independent evidence of kinship.
 
-To compare recurrence across record types, derive a matrix from those occurrence rows:
-one identified person or unresolved identity candidate per row, and one source item per
-column, ordered by the recorded action or observation date. Retain the date and document
-number in each column and mark only observed occurrences. Keep uncertain identities
-separate rather than merging same-named people to fill the grid. Compare recurring
-participants to choose the next distinguishing record; empty cells do not record a
-completed search, and multiple columns containing copies remain dependent evidence.
-The [Alford/Johnson FAN-chart example](https://familylocket.com/rlp-257-alford-johnson-project-interview-with-michelle-mickelson-part-1/)
-supplies the chronological people-by-source view; the identity and blank-cell controls
-apply the existing evidence rules. Keep the underlying log and occurrence rows.
+To compare associates across record types, give each identified person or unresolved candidate a row and each dated source item a column. Order the columns by the recorded action or observation and retain their document numbers [B6](https://familylocket.com/rlp-257-alford-johnson-project-interview-with-michelle-mickelson-part-1/). Mark observed occurrences and use recurrent combinations to choose a distinguishing record. A blank cell leaves the occurrence unknown, and copies of a single record remain dependent. Keep the source log and occurrence rows behind the chart.
 
-Record which names you deliberately searched in each resource, with the date and method.
-A name met incidentally while extracting other surnames is an occurrence, not a completed
-search for that name; queue that search separately. The [extraction-log example](https://dna-explained.com/2024/06/14/genealogy-proof-series-extracting-and-recording-data-so-that-you-can-find-it/)
-motivates this distinction without requiring every name to be transcribed.
+Log the names actually searched in each resource, with the date and method. If you encountered another surname while extracting records, record the occurrence and queue a separate search before describing that surname as covered [B7](https://dna-explained.com/2024/06/14/genealogy-proof-series-extracting-and-recording-data-so-that-you-can-find-it/).
 
-For women in a parish's metrical books, a per-surname extraction table can hold two marriage lists
-besides family groups: brides born with the surname, and brides who married into it. Record any
-prior married surname each entry gives. A widow recorded without a maiden name can then be traced
-back one marriage at a time to her first marriage, which states her birth surname. Each link is a
-candidate until the original entry is reread. Ages at remarriage may be unreliable, and the lists
-cover only the books extracted. A
-[metrical-book marriage-table example](https://rodgersforum.borda.ru/?1-0-0-00000238-000-0-0-1721744472=)
-demonstrates this chaining.
+For a surname study in parish metrical books, keep separate lists of brides born with the surname and brides who took it at marriage, alongside the family groups [B8](https://rodgersforum.borda.ru/?1-0-0-00000238-000-0-0-1721744472=). When a widow is recorded under a previous husband’s name, follow that marriage back one entry at a time. Look for her birth surname in the first marriage you can establish. Check the spouses, places and chronology against each original, retain age discrepancies and mark any marriage you could not locate.
 
 Retain the sequence of names as written in a deed, will or other list, even when you later create a sorted working table. Record each explicit age or ordinal separately. A will may group sons and daughters or name an executor later; list position alone does not establish birth order. Keep an inferred family order in a separate, sourced analysis [N1](https://genealogytipoftheday.com/index.php/2024/08/29/a-message-to-the-order/), [N2](https://vitabrevis.americanancestors.org/2016/07/birth-order-vs-will-order/).
 
@@ -148,12 +112,7 @@ replacing an earlier site with today's coordinates. The [2025 historical-place d
 supplies these reference-point and relocation distinctions; their use in this locality guide
 is synthesis, not evidence that any particular place moved.
 
-Use that coverage to choose the next searches: target series and locator, dates or sections
-to inspect, access route and the observation that could distinguish the competing explanations.
-After a local record loss, distinguish copies transmitted to another custodian from records
-created separately by another administrative level. In Family Locket's 2022 example, state-held
-tax copies and federal land patents supply different routes; a patent does not replace a
-subsequent county deed. Verify the relevant custody and survival for the actual locality.
+Choose the next search by recording the series, dates, access route and observation that would distinguish the competing explanations. After a local record loss, check whether a copy was sent outside the county or a different office created a related record. For Izard County, Arkansas, Elder identified state-held tax lists and proposed federal patents for the initial land grant. Later sales still require county deeds or separate evidence of a transfer [B18](https://familylocket.com/using-the-fan-methodology-to-find-a-females-father-part-2-locality-research-and-research-planning/). Confirm the series and survival for the place in question.
 
 Trace custody series by series across every jurisdiction that controlled the spot during the
 record period. After a county split, older records may stay with the parent county, pass to the
@@ -259,18 +218,7 @@ Use the onsite preparation checks above for any described material you plan to r
 
 ## Recover a dated page behind a dead citation
 
-For a broken link to a historical genealogy page, retain the exact original URL and check
-an available web archive, such as the Internet Archive's Wayback Machine, for a dated capture.
-Inspect a capture's page content as well as its capture date: several later
-captures may preserve only an error page. Move back to a content-bearing capture, then inspect
-later available versions for the needed pre-change page. Record the original URL, archive URL
-and capture timestamp, inspected dates, access date and actual content or error state; keep any
-known original publication date separate and retain any pointer to the underlying source. Record
-missing pages, images and linked material individually. No usable capture means the page
-remains unavailable. An archived tree or transcription keeps that source role; retrieval adds
-neither independent corroboration nor proof of kinship. Roberta Estes's
-[2026 broken-link example](https://dna-explained.com/2026/10/02/focus-step-1-seven-solutions-for-dna-matches-with-absent-or-shrunken-trees/)
-supplies this recovery route, without guaranteeing a capture or the site's current content.
+Keep the exact URL of a broken citation and look it up in a web archive [B24](https://dna-explained.com/2026/10/02/focus-step-1-seven-solutions-for-dna-matches-with-absent-or-shrunken-trees/). Inspect the page itself. When a later capture contains an error, work backwards to a content-bearing version and then compare later captures for the last usable copy. Record the original URL, archive URL, capture time, access date and what was visible. Keep any original publication date separate, and log missing pages, links and images individually [H4]. A retrieved family tree remains an authored account of its claims. If there is no usable capture, leave the cited page unavailable.
 
 The [digital-publications demonstration](https://www.youtube.com/watch?v=a-539DY1aak)
 shows the temporal search across captures. A surviving page does not mean its search form or
@@ -398,4 +346,4 @@ Original Kinprove reference, licensed FSL-1.1-MIT.
 
 ## Sources
 
-[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/68b0259a2f3621877bd2158f52d0836589b4c004/skills/genealogy-research-recipes/sources/research-documentation.md).
+[Source notes and credits](https://github.com/Kinprove/genealogy-research-recipes/blob/71a8f9f838d56088b90856e757dfee5006dd17fd/skills/genealogy-research-recipes/sources/research-documentation.md).

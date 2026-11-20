@@ -40,24 +40,14 @@ Ask staff about each category by name, on site or by email or phone. Melissa Bar
 four as collections that patrons usually cannot see and that staff usually do not volunteer, so you
 have to ask for them [S1], [S3]:
 
-1. **Vertical files.** These are folders arranged by surname or subject [S1]. Ask for the target
-   surname and also for the locality, church and relevant topics [S6], [S8]. They can be held by local
-   and state libraries, historical societies and state archives [S8], [S10]. Ask whether the repository
-   also keeps family files. A presenter describes one county library that puts everything asked about
-   a family into one file, including a past librarian's own search notes [S4].
+1. **Vertical files.** Ask for folders under the surname, locality, church and relevant subjects [S1, S6, S8]. Local and state libraries, historical societies and archives may hold them [S8, S10]. Ask whether the family folder includes earlier inquiries or a librarian’s search notes. In a Jennings County Public Library interview the researcher found both under the Whitcomb surname [S4].
 2. **The index to manuscript-collection finding aids.** Ask for the index itself, then the relevant
    finding aid [S1].
-3. **Loose records.** These are court working papers such as affidavits and subpoenas, filed
-   separately from the bound minute books that are usually brought out [S1]. Ask for them by name
-   when only the minute books have been offered. A presenter also mentions boxes of court records
-   that went unexamined until a local group indexed them [S4]. Ask whether there are unexamined boxes
-   of court records, or boxes a local group has indexed.
+3. **Loose court records.** If staff bring out the bound minutes, also ask about affidavits, subpoenas and other papers filed with the case [S1]. Ask whether anyone indexed the boxes locally. GeneaVlogger’s interview describes the indexing of fifty boxes [S4]. Jennings County Public Library’s own guide names a separate surname database for copies of court files in its Gray Boxes [S11]. Use the file description and date to request the full case.
 4. **Accessioned but unprocessed donations.** Ask whether there are recent or unprocessed collections
    for the surname or place. Ask what the archivist's cursory accession inventory records about each
    one [S1], [S3]. Barker says that asking shows interest in a collection and may move it up the list
-   for processing [S3]. Staff can describe this material by email or phone, but plan an onsite visit to see
-   it: these donations are not filmed or online, and Barker says you will most likely have to travel
-   [S2].
+   for processing [S3]. Ask what staff can inspect or copy remotely and whether viewing requires an on-site visit [S2].
 
 When remote, ask staff to check a named family and area and to say what they checked [S9].
 
@@ -79,15 +69,9 @@ Cite a vertical-file item by repository, file heading (surname or topic) and ite
 the compiler where known: a donating researcher, a past librarian's search notes, or an earlier
 relative's inquiry [S4], [S5], [S7]. Record the item's creator and date where visible.
 
-Lisa Lisson reports finding photocopies of deeds, family Bible pages and photographs, as well as
-newspaper clippings, in compilers' surname files, and says vertical files hold copies rather than
-original records [S5], [S10]. Label such items as copies held in the compiler's file. Do not cite them
-as the Bible, the deed or the newspaper. Clippings may be undated [S5]. Leave a missing date blank
-rather than inferring one.
+Identify what you actually handled: a photograph, photocopy, clipping or researcher’s notes. Record the repository, folder heading and item description before following the underlying source. Lisson describes finding both copied material and actual photographs in vertical files [S5, S10]. For an undated clipping, transcribe any visible newspaper title and leave the date unresolved [S5].
 
-Lisson also describes Bible photocopies carrying citations to the original Bible [S5]. When a copy
-carries such a citation, transcribe it into the log and list the original as a separate item still
-to locate. Also list the sources the compiler's notes say were used, as retrieval targets [S5].
+If a photocopied family Bible page gives a citation to the original, copy that citation into the log and identify exactly which pages the file contains [S5]. List the original Bible and any other records the compiler named as separate retrieval targets.
 
 ## Keep the compiler's conclusions as clues
 

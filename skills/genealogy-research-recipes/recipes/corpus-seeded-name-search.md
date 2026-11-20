@@ -67,13 +67,7 @@ name links people to a holding; by itself it does not show blood kinship. A
 motivates this step. It does not show how widespread the custom was or how consistently clerks
 wrote it.
 
-In Pennsylvania German baptisms, the first given name, such as Johann or Anna, could be given to
-every child of the same sex in a family. The second name was the call name (Rufname) the child
-went by: a family's Johann Georg, Johann Jacob and Anna Barbara were known as Georg, Jacob and
-Barbara [S32, S33]. Search each child under the call name alone as its own lane. Do not treat the
-shared first name as the name in daily use, and do not merge siblings who appear in later records
-as plain Johann or Anna. A baptism that gives only 'Johannes' may belong to a man later known as
-John [S32]. A call-name match is a candidate, not proof that two entries are one person.
+In Pennsylvania German baptisms, search each given name separately. A family could reuse Johann or Anna for several siblings and use another name in daily life. Childs illustrates the pattern with Johan Georg, Johan Jacob and Anna Barbara, whose call names would be Georg, Jacob and Barbara [S33]. For a baptism with Johannes alone, also test John [S32]. Distinguish siblings with their parents, spouses and dates.
 
 ## Diagnose three different failures
 
@@ -112,21 +106,9 @@ forms, for example Ѳома/Фома, Ѳеодоръ/Феодор (and the verna
 image. In a volume that binds several parishes, limit a negative to the target parish's section
 and to the years and pages that carry recognised text.
 
-A register can also differ from the church calendar within pre-reform spelling. Counting the boys
-born in Efremov uezd, Tula guberniya, in 1875, a researcher found Алексѣй, with ять, written more
-often than the святцы (church calendar) form Алексій, and vernacular forms such as Антон, Ефим and
-Захар beside Антоний, Евфимий and Захарий [S42]. A pre-1918 orthography handbook gives Алексѣй as
-the standard spelling [S43]. Search the calendar form, the register's pre-reform form and the modern
-form as separate lanes.
+Search the church-calendar, local pre-reform and modern forms separately. For Алексій, include Алексѣй, the spelling listed by a pre-reform orthography handbook, and modern Алексей [S43]. A count of 1875 entries in Efremov uezd reports that the spelling with ѣ predominated there and that the registers also used Антон, Ефим and Захар alongside Антоний, Евфимий and Захарий [S42]. Copy the actual spelling from the image.
 
-Transcription can also move or replace whole name parts. When an expected entry is missing from a
-transcribed index, test a query with the given name and patronymic swapped, since a man recorded
-as X son of Y may be indexed as Y son of X. Also allow for an indexer who substituted a dissimilar
-local name for a Jewish given name. Run these as separate logged lanes and confirm any hit against
-the record image before using it. A
-[transcribed metrical-index example](https://forum.j-roots.info/viewtopic.php?f=164&t=6963)
-reports both errors in one database. It gives no error rate and does not say which collections are
-affected.
+In a transcribed index, search the given name and patronymic in reversed order. One LitvakSIG user reports finding Лейба Берков transcribed as Берк Лейбов and Йетта as Устина [S14]. A substituted given name can defeat even the reversed search. Browse by locality, year and relatives, then check the image before accepting either reading.
 
 When a record was written in a language or dialect other than the family's, search the recording
 office's form of the name as a separate lane. Church entries may Latinize given names. A French
@@ -141,16 +123,7 @@ systematic conversion table. A matching form is a candidate, not proof of identi
 and Russian name lanes in Bessarabian records, see
 [Route a Bessarabian or Moldovan record by date, district and bank of the Dniester](bessarabia-moldova-record-routing.md).
 
-For Tula guberniya records, add a South Russian dialect lane. Russian Wikipedia's article on the
-southern dialects gives х or хв for ф (Хвёдор) in their western and central groups, which take in
-the south and west of today's Tula oblast, and аканье, unstressed о pronounced as а, as a southern
-feature [S46]. Clerks who wrote names by ear left both directions in the books. In an 1895
-baptism in a Dedilovo family, a godmother is entered as the wife of a man surnamed Хамин, of a
-family the researcher otherwise found as Фомины [S45]. The Belev uezd village of Коровьи Хвосты is headed «Каровьих
-Фастов» in the 1795 revision list and «Коровьих Фостов» in that of 1782, and mid-19th-century
-parish priests' descriptions of Bogoroditsk uezd villages give Хвилип and Хилип for Филипп [S44].
-The same post notes that inventories and indexes often keep the spelling the document used [S44].
-Search х, хв and хф for ф, ф for хв, and а for unstressed о, as separate logged lanes.
+In Tula records, test х, хв and хф for ф, ф for хв, and а for unstressed о as separate variants. Descriptions of regional speech document х or хв for ф and аканье in parts of the southern dialect area [S46]. A researcher connects Хамин in an 1895 Dedilovo godparent entry to a family otherwise recorded as Фомины [S45]. Search village names the same way. The reported Belev uezd headings for Коровьи Хвосты are Каровьих Фастов in 1795 and Коровьих Фостов in 1782. The same author cites Хвилип and Хилип for Филипп in Bogoroditsk uezd parish descriptions [S44]. Verify a proposed match by locality, household and date.
 
 In English-language records, a German surname may be translated by meaning, not only respelled:
 Zimmermann as Carpenter, Schwarzwälder as Blackwelder, Becker as Baker [S34]. More often the
@@ -253,18 +226,7 @@ shorter stem with a wildcard, and confirm that hits contain the target. The
 [forum-search test](https://forum.j-roots.info/viewtopic.php?f=181&t=9163) documents one
 installation's configurable limits. Other sites differ, and a stem can match unrelated words.
 
-Some lists, registers and card indexes are arranged alphabetically and may need to be browsed in
-filing order when a name search fails. Before you report a name as absent from one, find out how
-its compiler filed letters. A list made in a language with extra letters may give letters such as
-Spanish ñ or the traditional ll, or Icelandic á, ð and þ, their own alphabet position, while a
-transcribed copy may have dropped those letters. Browse both positions, plus the entries just
-before and after the target surname, and record the ranges you browsed. The
-[Scandinavian](https://www.youtube.com/watch?v=1CzAygZqg2Q),
-[Icelandic](https://www.youtube.com/watch?v=4jhIdvmyFUw) and
-[Mexican](https://www.youtube.com/watch?v=siMS_6gGKYs) examples supply no collation table for any
-particular index. In the [Maryland death-index example](https://www.youtube.com/watch?v=ClvFJDrlrUw),
-browsing the Murray cards filed right after Murphy found a card whose date conflicted with the
-known events. A card found by browsing is only a candidate until it is tested against known events.
+When an alphabetical index yields no match, inspect the order used on its own pages. Test native letters and normalized spellings in both positions, and record the ranges browsed. Check Scandinavian and Icelandic letters such as á, ð and þ [S5, S58], and Spanish ñ or traditional ll where the index files them separately [S59]. Browse adjacent surname cards, then compare dates, place and relatives with independent records. A Maryland search for Murphy turned up an Ethel May Murray card in the next surname group, but its January 1908 death date preceded the daughter’s reported birth in May 1909 [S6].
 
 JewishGen's transcription rules allow hidden “Other Surnames” and “Other Towns” fields to make names in comments searchable in typed fields. Their existence does not show they were populated in a particular collection. Compare free-text and typed-field retrieval where supported. [S3]
 
@@ -288,4 +250,4 @@ Keep the corpus/index version or access date, field, exact Unicode query, filter
 
 A successful search can still have incomplete coverage. A completed zero-hit query describes that query and scope; it does not exclude a person whose record or spelling has not been tested. When a newly attested form changes an earlier negative, rerun the affected searches and amend that specific conclusion. Do not infer kinship from the rescued name hit.
 
-For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/68b0259a2f3621877bd2158f52d0836589b4c004/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).
+For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/71a8f9f838d56088b90856e757dfee5006dd17fd/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).

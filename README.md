@@ -1,4 +1,4 @@
-![Genealogy Research Recipes: a family tree drawn in dots, with a DNA double helix for its trunk](assets/banner.png)
+![Genealogy Research Recipes v2, with a dotted family tree and a DNA double helix for its trunk](assets/banner.png)
 
 # Genealogy Research Recipes
 
@@ -52,7 +52,7 @@ no tools or hooks, and makes no network calls of its own. To set it up, see [Ins
 - **Births outside marriage and institutions:** [births outside marriage](skills/genealogy-research-recipes/recipes/illegitimacy-record-recovery.md), [asylum and state-hospital patients](skills/genealogy-research-recipes/recipes/institutional-patient-record-recovery.md)
 - **Family papers, photographs and oral history:** [family collection intake and capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md), [family photographs](skills/genealogy-research-recipes/recipes/family-photograph-attribution-and-dating.md), [family papers and Bible registers](skills/genealogy-research-recipes/recipes/family-papers-and-bible-register-dating.md), [family interviews and oral tradition](skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md), [repository photograph collections](skills/genealogy-research-recipes/recipes/repository-photograph-collection-search.md), [storing family papers and objects](skills/genealogy-research-recipes/recipes/family-archives-material-storage.md)
 
-Each recipe's sources are in [`https://github.com/Kinprove/genealogy-research-recipes/blob/68b0259a2f3621877bd2158f52d0836589b4c004/skills/genealogy-research-recipes/sources/`](https://github.com/Kinprove/genealogy-research-recipes/blob/68b0259a2f3621877bd2158f52d0836589b4c004/skills/genealogy-research-recipes/sources/).
+Each recipe's sources are in [`https://github.com/Kinprove/genealogy-research-recipes/blob/71a8f9f838d56088b90856e757dfee5006dd17fd/skills/genealogy-research-recipes/sources/`](https://github.com/Kinprove/genealogy-research-recipes/blob/71a8f9f838d56088b90856e757dfee5006dd17fd/skills/genealogy-research-recipes/sources/).
 
 ## Evaluation
 

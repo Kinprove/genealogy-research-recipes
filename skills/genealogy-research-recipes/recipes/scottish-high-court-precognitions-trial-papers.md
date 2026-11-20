@@ -29,7 +29,7 @@ For a sentence of transportation, continue with [convict transportation record c
 
 ## 1. Search the indexes for the accused and any victim
 
-Start with the free High Court index on Scottish Indexes. It covers 1800 to 1916 with over 133,000 entries, which is not every High Court record, and lists the accused and some victims. Each hit gives the full NRS reference, and the index adds ages and other details from sources outside the NRS catalogue. Its guide warns that a catalogue search can miss a name recorded as "Jane Mitchell alias Scott", so search each alias separately [S4 @2026-11-16].
+Search the accused’s given name with each surname or alias separately. Scottish Indexes illustrates why a quoted phrase can miss: “Jane Scott” is absent as a phrase from “Jane Mitchell alias Scott”. An unquoted Jane and Scott can also match two different people in one description. Read the full entry before linking it. Scottish Indexes’ free High Court index covers part of 1800–1916, with more than 133,000 entries for accused people and some victims. Copy the full NRS reference from each candidate and identify details, such as ages, that Scottish Indexes drew from additional sources [S4 @2026-11-16].
 
 Then search the NRS online catalogue. Put the accused's name in the "Search For" field and AD14, AD15 or JC26 in the "Reference" field; a year is optional. NRS has catalogued the trials in full for 1800, 1833–37 and 1840–1930, and its cataloguing of early 19th-century case papers is incomplete. An accused person's entry includes previous convictions where known. Victim names are incomplete and stop with the trials of 1905, because NRS left victim details out of cases less than 100 years old [S2 @2026-11-16].
 

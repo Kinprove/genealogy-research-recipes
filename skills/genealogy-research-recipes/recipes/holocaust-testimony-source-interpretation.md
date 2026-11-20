@@ -98,14 +98,7 @@ original archive, file and folio as separate locators. A selected-records copy m
 a whole file. A finding-aid description does not show that a given person appears, so inspect the
 listed folios before drawing any conclusion.
 
-Archives of evacuation destinations also run their own name-searchable evacuee databases, such as
-the Uzarchive agency's evacuation.archive.uz (Uzbekistan) and the Mari El State Archive's
-evacuation.gosarhivrme.ru (people evacuated to the Mari ASSR, 1941–1945). [H9], [H10] Search the
-destination region's database, then the original list it cites. Uzbek records give a list number
-and a position on that list, not a page. A miss is not a negative. A fund label such as
-'Holocaust' on a result says nothing about the person's ethnicity or fate: Uzbek records carry it
-even for evacuees recorded as Russian. On 2026-11-04 the birth dates on the Uzbek records opened
-showed a placeholder date, so take birth data from the original list, not the database card. [H9]
+Search the evacuation destination’s archive by name. Uzarchive offers an evacuee search and the Mari El State Archive lists people evacuated to the Mari ASSR in 1941–1945 [H9 @2026-11-19], [H10 @2026-11-19]. On 19 November 2026, two Uzbek results labelled the fund “Holocaust” while their detail cards recorded the evacuees as Russian. The cards also showed birth dates after the wartime evacuations. Use the list number and position to check the original for the person’s recorded details. A fund label establishes neither ethnicity nor fate, and an unsuccessful database search does not establish absence [H9 @2026-11-19].
 
 ## Recover separated evacuation household cards
 
@@ -163,11 +156,7 @@ Names Database, which indexes individuals found in JDC's historical records. [H1
 the finding aid for JDC's New York office, 1933–1944, File 428 holds JDC's beneficiary lists Nos.
 1–73 from the parcel service it ran from Tehran for Polish-Jewish refugees in the USSR; the File
 427 entry says these lists gave the names and addresses of refugees, mostly in Asiatic Russia, and
-were forwarded from New York to Tehran between January 1943 and November 1945. [H19 @2026-11-08] A
-family story on the JDC Archives site reports finding a grandmother on the 1943–1945
-parcel-beneficiary list in the Names Database, with the family's wartime address in Samarkand.
-[H20 @2026-11-08] Search the Names Database by surname together with the wartime town, and treat a
-hit as the person's address on that list's date, not as proof of survival.
+were forwarded from New York to Tehran between January 1943 and November 1945. [H19 @2026-11-08] Search by surname and wartime town. A granddaughter located her grandmother’s Samarkand address on the JDC parcel-beneficiary list [H20 @2026-11-08]. Date any address to the list before using it to reconstruct the family’s movements.
 
 ## Keep dated observations distinct from final fate
 
@@ -234,4 +223,4 @@ Living people rule: use the consent, disclosure and log rules of
 
 ## Sources
 
-[Primary-source checks and limits](https://github.com/Kinprove/genealogy-research-recipes/blob/68b0259a2f3621877bd2158f52d0836589b4c004/skills/genealogy-research-recipes/sources/holocaust-testimony-source-interpretation.md).
+[Primary-source checks and limits](https://github.com/Kinprove/genealogy-research-recipes/blob/71a8f9f838d56088b90856e757dfee5006dd17fd/skills/genealogy-research-recipes/sources/holocaust-testimony-source-interpretation.md).

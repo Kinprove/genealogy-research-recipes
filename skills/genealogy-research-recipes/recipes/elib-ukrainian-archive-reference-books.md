@@ -53,11 +53,7 @@ before naming the downloaded file. Similar archive titles and publication years
 do not distinguish volumes by themselves. Keep the item ID alongside the volume
 identity so a renamed local file remains traceable.
 
-If extracted cover text is unreadable, inspect the rendered title page or OCR
-that small area. The checked PDF is accessible, but text extracted from its first
-pages is garbled: poor extraction alone does not establish a corrupt document. [S2]
-Check readable interior pages separately; neither a title guess nor a successful
-download settles the book's identity or completeness.
+When extracted letters are unreadable, render the title page and compare the visible title, volume and year with the catalogue card. If the page is difficult to read visually, OCR just that area and compare the result with the image. For item `0014010`, the rendered title page reads *Державний архів Чернігівської області. Путівник*, *Том перший*, Чернігів, 2001, even though text extracted from the opening pages is garbled [S2]. Record which pages you inspected and check interior pages separately before describing the volume’s contents or completeness.
 
 ## Check the consolidated metrical-book catalogue
 
@@ -101,4 +97,4 @@ the actual case. Continue with [archival-image-coverage-verification.md](archiva
 when identifying or inspecting retrieved case images.
 
 Provider examples were checked on 2026-10-18 and the consolidated-catalogue
-volume on 2026-11-02; see [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/68b0259a2f3621877bd2158f52d0836589b4c004/skills/genealogy-research-recipes/sources/elib-ukrainian-archive-reference-books.md).
+volume on 2026-11-02; see [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/71a8f9f838d56088b90856e757dfee5006dd17fd/skills/genealogy-research-recipes/sources/elib-ukrainian-archive-reference-books.md).

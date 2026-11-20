@@ -51,10 +51,7 @@ For general FamilySearch jurisdiction and missed-person recovery, use
 3. Keep the district separate from the birthplace and the county. A district is an
    administrative unit. It can cover many parishes, can share its name with a town or county,
    and can cross county lines [S1], [S8], [S10], [S11]. Do not reject a candidate because their
-   parish differs from the district name [S8]. Check the dates on any such pairing. One
-   presenter's example puts an Aston parish entry under Birmingham district [S8], but Aston was
-   its own district until 1 September 1924, when it was split between Birmingham North and
-   Birmingham South. Before that date, Aston entries are indexed under Aston. If you infer a
+   parish differs from the district name [S8]. Date the parish and the district separately. Aston civil parish joined Birmingham on 9 November 1912, but Aston registration district continued until 1 September 1924, when it split between Birmingham North and Birmingham South [S52]. If you infer a
    county from consistent census residence, label it as an inference and revise it once the
    entry is obtained [S11].
 
@@ -94,26 +91,26 @@ wrong; the father named is not always the biological father [S43], [S47].
 ## Sweep for the full sibling group
 
 1. Search by surname only (forename blank) plus the mother's maiden surname
-   [S12], [S14], [S13], [S18]. Before you sweep, check that every window falls inside the GRO
+   [S12 @2026-11-19], [S14 @2026-11-19], [S13 @2026-11-19], [S18 @2026-11-19], [S38 @2026-11-19]. Before you sweep, check that every window falls inside the GRO
    online index's birth years (step 5 of "Reconcile copies"). For births from 1935 to 1983, sweep a copy of the
    quarterly index (FreeBMD, Ancestry or Findmypast) instead; the copies carry the mother's maiden
-   surname only from the September quarter of 1911 [S39], [S40]. The GRO search window is at most
+   surname only from the September quarter of 1911 [S39 @2026-11-19], [S40 @2026-11-19]. The GRO search window is at most
    ±2 years, so each search covers five years. GRO's guide lists sex as a required field, so each
-   search takes one sex at a time [S12], [S13], [S38]. Start at, or just before, the
+   search takes one sex at a time [S12 @2026-11-19], [S13 @2026-11-19], [S38 @2026-11-19]. Start at, or just before, the
    marriage year. Run consecutive, non-overlapping windows, female and male, until the end of
-   childbearing. Presenters stop 25–30 years after the marriage [S14] or at the census of
-   interest [S7], [S13]. Log every window: year, ±, sex, district, maiden-name spelling.
+   childbearing. Presenters stop 25–30 years after the marriage [S14 @2026-11-19] or at the census of
+   interest [S7 @2026-11-19], [S13 @2026-11-19]. Log every window: year, ±, sex, district, maiden-name spelling.
+
 2. Presenters prefer the GRO "similar sounding" option to the broader phonetic option, which one
-   finds too wide [S13], [S15]. These options have changed over time. In 2021 the GRO removed
+   finds too wide [S13], [S15]. These options changed over time. The September 2021 LostCousins newsletter reported that the GRO removed
    "similar sounding" variations for the surname field in birth and death searches, kept them
-   for the mother's maiden surname, and later reinstated them. Record which option you used on
+   for the mother's maiden surname, and later reinstated them [S55]. Record which option you used on
    which field, and check what the form currently offers. Rerun with maiden-surname spelling
    variants [S14], [S15]. Do not centre on a census age at ±2 and stop there. Census ages are
    often off by a year or two [S15].
+
 3. Leave the district blank first, or widen it after a miss. Boundaries change and families
-   move [S13], [S19]. When a hit falls in an unexpected district (Watford, a Hertfordshire
-   district, in a Buckinghamshire family's search [S13]), check that district's coverage and
-   log the entry as unresolved. Do not attach it [S13]. Accept a candidate only when surname,
+   move [S13], [S19]. Grant left a Watford hit unresolved when looking for a Buckinghamshire family [S13]. Check the parish and date even when the district’s county differs: Watford was in Hertfordshire but included part of Chalfont St. Peter, Buckinghamshire, in 1907–1908 [S53]. Accept a candidate only when surname,
    maiden surname, district and sibling spacing agree, and note how common the surname is
    locally [S13].
 4. Reconcile hits with every census household. The 1911 census asked for years married and
@@ -143,14 +140,14 @@ wrong; the father named is not always the biological father [S43], [S47].
 
 1. If a child, especially the first child, is missing under the father's surname, search the
     mother's maiden surname, including dates before the marriage [S19], [S21], [S20]. If no
-    marriage can be found, search all the children that way. In one presenter's case the
-    presumed father's surname appeared as the children's middle name [S20].
+    marriage can be found, search all the children that way. In Grant’s search the children were registered under their mother’s surname and carried the presumed father’s surname as a middle name. His paternity remained unconfirmed [S20].
+
 2. GRO's guide says a dash in the maiden-name column means no maiden surname was captured for
-    the entry: the informant did not give one, or it was not data-captured [S38]. Presenters read
+    the entry: the informant did not give one, or it was not data-captured [S38 @2026-11-19]. Presenters read
     a dash as a sign that the mother's surname matched the child's, often because she was
-    unmarried [S21], [S22], [S14], [S19]. GRO's guide does not say this, so treat it as a lead,
+    unmarried [S21 @2026-11-19], [S22 @2026-11-19], [S14 @2026-11-19], [S19 @2026-11-19]. GRO's guide does not say this, so treat it as a lead,
     not proof. One presenter warns that the parents' surnames can coincidentally be the same
-    [S22]. Confirm from the entry before attaching the child [S21].
+    [S22 @2026-11-19]. Confirm from the entry before attaching the child [S21 @2026-11-19].
 
 ## Treat a marriage page as a candidate list
 
@@ -171,45 +168,48 @@ end (step 5), or for a recent entry from a local register office (step 6), sends
 date and the place to the GRO or the office, and the people in the entry may be living. Answer
 the privacy gate in `SKILL.md` before you order it.
 
-1. The FamilySearch "England and Wales birth registration" entries and Ancestry's
-    GRO-titled index reproduce the GRO index [S5], [S7]. Match copies by district, quarter,
+1. In Grant’s demonstrations, FamilySearch "England and Wales birth registration" entries and Ancestry's
+    GRO-titled index reproduced the GRO index [S5], [S7]. Match copies by district, quarter,
     volume and page, and count them as one observation, not as independent support.
+
 2. Copies do not all carry the same fields. FreeBMD and the commercial copies reproduce the
     printed quarterly index. The printed index added the mother's maiden surname to births from
     the September quarter of 1911 and age at death from the March quarter of 1866; from the June
-    quarter of 1969, death entries give the date of birth instead of the age [S39]. Before those
+    quarter of 1969, death entries give the date of birth instead of the age [S39 @2026-11-19]. Before those
     quarters a copy has no such field to read or search. GRO built its online index from its own
     digitised records and added the mother's maiden surname to earlier births "where possible"
-    [S38]. 2016 launch reports say it also gives ages at death for earlier deaths, but they
-    disagree on the first year [S41]. For births under 100 years old, the GRO index shows the
-    mother's maiden surname only if you entered it in the search [S38]. In one example, FreeBMD
-    had no maiden name for a child whose GRO entry showed a dash [S21]. FreeBMD is volunteer-transcribed and incomplete [S21]. Its coverage starts with the
+    [S38 @2026-11-19]. 2016 launch reports say it also gives ages at death for earlier deaths, but they
+    disagree on the first year [S41 @2026-11-19]. For births under 100 years old, the GRO index shows the
+    mother's maiden surname only if you entered it in the search [S38 @2026-11-19]. For an 1885 birth, Grant found no maiden-name field in FreeBMD and a dash in the corresponding GRO entry [S21 @2026-11-19]. Record the two displays separately. FreeBMD is volunteer-transcribed and incomplete [S54 @2026-11-19]. Its coverage starts with the
     September quarter of 1837. Rule: when FreeBMD or an aggregator finds an entry inside the GRO
     online index's years (step 5), rerun its exact spelling in the GRO index to get the
-    maiden-name field or the age at death [S21], [S19]. A blank maiden name in a copy is not a
+    maiden-name field or the age at death [S21 @2026-11-19], [S19 @2026-11-19]. A blank maiden name in a copy is not a
     dash.
+
 3. Before linking a same-named death to a child, read the GRO age at death [S19], [S14].
     Searching by age needs a wide margin; one presenter uses at least five years [S14]. Also
     run the search without it, and compare the age you see.
 4. A failed search is not a finding. Births before 1875, especially near 1837, are the most
     likely to be unregistered [S15]. Entries can be misindexed or indexed under another form of
     the forename [S20], or under the mother's surname. Report the windows actually searched.
+
 5. Check the GRO online index's range before a sweep. It covers births 1837–1934 and deaths
     1837–1957, then both again from 1984 to a recent year, so it has no entries for births 1935–1983 or
-    deaths 1958–1983, and it has no marriage index [S24]. Read the current end year on the GRO
+    deaths 1958–1983, and it has no marriage index [S24 @2026-11-19]. Read the current end year on the GRO
     site. For those gaps and for every marriage, use FreeBMD or another copy of the quarterly
     index. Check the marriage index's end year before you treat a miss on a recent marriage as a
-    nil [S33]. Ancestry's marriage index and the Findmypast index on FamilySearch stop at 2005
-    [S34], [S35]. FreeBMD stops sooner: its marriage chart ends at 2000, and its transcription is
-    incomplete [S36]. Order a later marriage from the GRO without a reference by giving the date
+    nil [S33 @2026-11-19]. Ancestry’s November 2026 catalogue capture and the Findmypast collection on FamilySearch give 2005 as their end year
+    [S34 @2026-11-19], [S35 @2026-11-19]. FreeBMD stops sooner: its marriage chart ends at 2000, and its transcription is
+    incomplete [S36 @2026-11-19]. Order a later marriage from the GRO without a reference by giving the date
     and place (extra search fee, slower dispatch), or from the register office for the district
-    where it took place [S37].
+    where it took place [S37 @2026-11-19].
+
 6. Before calling a miss final, search the local register-office index for the district,
     reached through the UKBMD county pages. Local indexes are transcribed from the district's own
     registers, not from the GRO copies, so they can hold entries that are missing or misindexed in
-    the GRO index [S25]. Some local marriage indexes name the church; Lancashire BMD, for example,
-    has a marriage-venue search [S27]. Order from the local office with its own register and
-    entry reference: the GRO volume and page mean nothing there [S26].
+    the GRO index [S25 @2026-11-19]. Some local marriage indexes name the church; Lancashire BMD, for example,
+    has a marriage-venue search [S27 @2026-11-19]. Order from the local office with its own register and
+    entry reference: the GRO volume and page mean nothing there [S26 @2026-11-19].
 
 ## Route Isle of Man and Channel Islands events to the islands
 
@@ -261,10 +261,9 @@ cover births from 1837 up to 100 years ago and deaths from 1837 to 1957, need th
 index reference and can be ordered only online; neither exists for marriages
 [S24 @2026-11-14], [S42 @2026-11-14], [S48 @2026-11-14]. An Online View image can be viewed and
 downloaded for 3 months from the order and is then removed without a reminder
-[S24 @2026-11-14], [S42 @2026-11-14]. Download it at once and save it with its GRO reference
-(year, quarter, district, volume and page) and the download date, as one blogger's citation
-template does [S51 @2026-11-14]. A cheap image also answers side questions, such as the causes
-of death of siblings who died in infancy [S49 @2026-11-14].
+[S24 @2026-11-14], [S42 @2026-11-14].
+
+Save the download date with the GRO reference (year, quarter, district, volume and page) so the image remains identifiable after online access ends [S51]. A sibling’s infant death entry can also supply a recorded cause of death [S49].
 
 Cite any GRO certificate, PDF or image as a copy. The GRO holds the quarterly copies that
 registrars sent it, while the original register stays with the local register office, which

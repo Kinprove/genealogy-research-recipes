@@ -65,22 +65,11 @@ inventories, state cemetery surveys or commission databases, and state-archive o
 survey files, which may not be digitized. Record each survey's title, date, holding place and any
 registered cemetery number as a separate locator. A listing locates a burial ground, not who lies
 in it. For older compiled transcriptions, check the local-history collection of the library or
-historical society near the cemetery; some hold transcriptions made as early as the 1930s, such as
-the US Works Progress Administration (WPA) tombstone transcripts. Run FamilySearch Full-Text search
-(Search > Full-Text, free account) for `cemetery` with the place name to find digitised ones.
-[P61, P64, P65] A survey reading is a derivative transcription made at its date. Where a stone has since
-broken or vanished, keep it as a dated observation (Section 5). Keep inscriptions actually read
-apart from locations based on word of mouth or dowsing. The
-[cemetery-records class](https://www.youtube.com/watch?v=th8_R6cKTnw),
-[periodicals talk](https://www.youtube.com/watch?v=ETyI_TSMpzQ),
-[family-cemetery session](https://www.youtube.com/watch?v=4di3XOsN4GE),
-[burial-place talk](https://www.youtube.com/watch?v=Cfdt0Fd0opI),
-[etiquette class](https://www.youtube.com/watch?v=fBm75Zoz1-A),
-[preservation interview](https://www.youtube.com/watch?v=38jzvP3IYKc) and research-trip videos
-([2021](https://www.youtube.com/watch?v=kINOGgLV3ak),
-[2024](https://www.youtube.com/watch?v=0v5fySALYxs)) motivate this. They do not measure how
-complete or accurate a survey is, and a preservation group reports finding errors in its own
-compilation.
+historical society near the cemetery. Some hold 1930s WPA tombstone transcripts [P4], [P61], [P65].
+
+FamilySearch lists Full-Text under its Search menu. Sign in and try `cemetery` with the place name to locate digitized transcriptions [P64 @2026-11-19].
+
+Keep each survey’s date with its reading of a stone that later broke or disappeared. Record whether the compiler read the inscription, relied on a local account or located the grave by dowsing. The Berks County preservation group reported that its compilation included dowsing-based locations and that it still found errors [P192].
 
 At a plantation cemetery for enslaved people, log visible ground depressions as possible grave
 locations even where there are no markers. On an authorized visit, note the depressions from the
@@ -88,25 +77,14 @@ surface without probing or disturbing the ground. Look for an existing cemetery 
 survey to check their position. Leave the occupants unidentified from these features alone.
 [P158], [P159]
 
-Do not stop at the newest published transcription of a cemetery. Look for older ones too, such as
-a 1940s reading beside a 1990s one: a stone legible then may be worn or gone now, so the older
-reading can hold words the newer one lacks, and a newer transcription does not supersede it
-[P118], [P146]. Keep each reading with its compiler and date, compare them word by word, and
-check a disagreement against the stone or its photograph where one survives [P146].
+Compare dated cemetery transcriptions word by word, including older editions: a stone legible to a 1940s compiler may have worn away by the 1990s [P118]. Record the compiler and date for each reading and check disputed words against an image or the surviving stone [P146].
 
 For an Iowa burial, search the 1930s WPA Graves Registration Project transcription that IAGenWeb
 hosts at iowawpagraves.org. A Wayback Machine capture of 17 January 2026 lists 656,621 records from
 82 counties and names the 17 counties the project never indexed: Appanoose, Benton, Cherokee,
 Clinton, Dallas, Des Moines, Dubuque, Hardin, Humboldt, Ida, Iowa, Jasper, Lyon, Monona, Osceola,
 Pottawattamie and Warren [P151 @2026-11-16]. In those counties a miss is a coverage gap; elsewhere
-it is still not a negative. Take a county's coverage from that list, not from hearsay: according to a
-transcript extract of a 2022 livestream, a presenter guessed that the WPA had skipped Henry County
-[P150† @2026-11-16], but the capture lists 3,379 Henry County records [P151 @2026-11-16]. Do not
-read the project's name as veterans only: the Tama County WPA list for Day Cemetery includes women.
-Its transcriber notes that it is unknown whether the workers viewed the stones or took the details
-from courthouse death records or newspaper obituaries [P152 @2026-11-16]. Record a WPA entry as a
-1930s derivative, not a reading of the stone, and check it against the stone, its photograph or the
-cemetery's records.
+a miss leaves the individual burial unresolved. A presenter thought the WPA might have skipped Henry County [P150 @2026-11-16]; the captured county list gives 3,379 records there [P151 @2026-11-16]. Check the lists for the people they actually include: the Tama County transcription for Day Cemetery names Mary A. Blazer [P152 @2026-11-16]. Its contributor could not tell whether the workers read the stones or used courthouse death records or obituaries. Cite the WPA transcription and verify the entry against a stone, photograph or cemetery record.
 
 German graves are reassigned after a rest period (Ruhezeit), and small children rarely received
 permanent stones. A gravestone survey such as the CompGen Grabstein-Projekt
@@ -133,10 +111,7 @@ does not hold every grave. [P40] So a miss there, in JOWBR or in Find a Grave is
 Find the society in the Israel Genealogy Research Association (IGRA) list of burial societies, which is based on
 the Ministry of Religious Services lists, and ask it for the entry when contact is authorized. [P39]
 
-If a heritage inventory catalogues a cemetery and its individual markers separately, search both
-relevant asset categories for the locality. McGuiggan's 2022 MACRIS account describes a cemetery survey
-under `Burial Ground` and individual markers under `Object`; verify the actual inventory's
-headings and retain each category search and item locator separately. [P38]
+Search the heritage inventory once for the burial ground and again for individual markers. In a 2022 MACRIS search, Plymouth’s Old Burial Hill survey was under `Burial Ground` and individual markers appeared under `Object` [P38]. Keep the category and locator for each item.
 
 For a published necropolis or burial list, record what it was compiled from: cemetery documents
 or monuments, or the death section of parish metrical books. Treat the two kinds as separate
@@ -204,10 +179,7 @@ Applications for U.S. Military Veterans, 1925–1949*. [P173 @2026-11-18], [P174
 Search these series even for an earlier death if a later application is plausible. A miss in
 the later collections leaves a circa-1910 application unresolved.
 
-On a Soviet WWII mass grave (братская могила), a name on the plate may belong to a soldier buried
-elsewhere. A press report from Karelia describes a plate cut in 1965 from a military
-commissariat's unchecked list of the dead. [P94] A Kaliningrad researcher interviewed in the press
-describes names moved without the remains when mass graves were consolidated. [P93] Under a 2023
+On a Soviet WWII mass grave (братская могила), check the name on the plate against the burial records. A 1965 Karelia plate drew on a military commissariat’s list of the dead [P94], and a Kaliningrad researcher reported names transferred between memorial lists without the remains [P93]. Under a 2023
 Ministry of Defence letter, a soldier wrongly counted at a second burial is removed from its list
 but his name normally stays on its plate. [P92] A user-contributed photograph of a plate, for
 example on «Место памяти», shows only what is inscribed: record the contributor, date and page
@@ -372,14 +344,7 @@ the largest copy available, not a thumbnail. A word that cannot be read in a sma
 copy is unread, not missing from the stone. An AI model may receive a smaller image than the file;
 see [ai-for-documentary-records](ai-for-documentary-records.md#the-pitfalls-worth-internalizing-the-least-obvious-most-llm-usable-part).
 
-Record whether the stone's letters were traced (outlined) before the photograph was taken. A
-traced photograph shows the tracer's reading, not the carving itself. Check each doubtful letter
-against the wording expected at that point in the formula and, where available, a better or
-untreated image; note which image each reading comes from. The
-[matzevah-reading discussion](https://forum.j-roots.info/viewtopic.php?f=208&t=9621) shows a
-letter read as מ that a participant identified as a wrongly traced ה of צנועה. It supplies no
-untreated comparison images, and the expected formula only flags a doubtful letter; it does not
-settle the reading.
+Record whether anyone outlined the inscription before photographing it. Compare a doubtful letter with an untreated image if available and label each reading by its image. In a matzevah discussion a reader proposed that an apparent מ was the traced ה of צנועה [P17]. Without an untreated image, record the expected formula as a reason to recheck the carving.
 
 For a difficult inscription, an optional second photograph uses light directed from the side
 by a hand-held reflector or flashlight, held clear of the marker. Keep the ordinary-light and
@@ -450,11 +415,7 @@ stone to contain the same fields. [P1, O1]
 
 On a short formulaic Hebrew epitaph, transcribe the descriptor before the name as its own field:
 for example איש or אשה, הבתולה (maiden), הבחור (young man) or הישיש (old man). Use it as a possible
-life-stage or marital-status clue when comparing candidates. Do not turn it into an age or a proven
-marital status. Leave a doubtful term unresolved. In the
-[epitaph-descriptor discussion](https://forum.j-roots.info/viewtopic.php?f=208&t=9621), the sense
-of החתן (groom, young man or something else) stayed disputed; one participant only tentatively
-settled on "young man".
+life-stage or marital-status clue when comparing candidates. Keep the literal term when meanings compete: readers proposed both ‘groom’ and ‘young man’ for החתן on one matzevah [P17]. Leave exact age and marital status open.
 
 Before treating a word on a Hebrew stone as a surname, check whether it is a status or occupation
 marker, such as כ"ץ for a kohen, הלוי for a Levite, or, less certainly, שו"ב for a ritual
@@ -465,14 +426,7 @@ apparent surname. The [matzevah-reading discussion](https://forum.j-roots.info/v
 and [title question](https://forum.j-roots.info/viewtopic.php?f=75&t=7576) motivate this. כ"ץ (Katz) can be a real surname in other contexts, and neither thread proves an identification. A conflict such as
 'bar' followed by a female name stays unresolved until the image is checked.
 
-Treat ר' or 'Reb' before a man's name on a stone as an honorific, not evidence of rabbinic
-ordination. Likewise, do not turn 'Rabbi' or 'Rev.' in later family or community sources into the
-occupation rabbi. Record the literal title. Then look for period or scholarly accounts of what the
-person actually did, such as ritual slaughterer, teacher or prayer leader. The
-[title-and-ordination discussion](https://forum.j-roots.info/viewtopic.php?f=4&t=4667) motivates
-this. It sets a tombstone reading beside community histories that describe the man's roles and
-mention no ordination. Usage varied by period and community; the title alone neither proves nor
-rules out ordination.
+Transcribe ר׳ or ‘Reb’ as an honorific. Check ‘Rabbi’ or ‘Rev.’ against evidence for ordination and for the work the person performed. Community histories quoted for one man described as ‘Rev.’ identified him as a ritual slaughterer and teacher [P20]. Record those roles separately and leave ordination open where the sources are silent.
 
 Do not expand ב"ב as the city of Bnei Brak by default. The abbreviation has many expansions, among
 them בני ביתו ('his household'), the Talmud tractate בבא בתרא (Bava Batra), בעל בית ('householder')
@@ -540,31 +494,16 @@ judgment, rather than overwriting either value. [P23]
 If a source reports reinterment or a replacement marker, retain original burial, reported
 transfer and later marker installation as separate source-linked events. Keep original and
 present cemetery/plot locators separately; seek the relocation or register evidence for an
-unresolved transfer. A new marker does not date the burial or identify the remains. The
-[George Estes dedication example](https://dna-explained.com/2023/09/19/calling-all-descendants-of-george-estes-1763-1859-youre-invited-to-his-revolutionary-war-grave-dedication-52-ancestors-410/)
-motivates this event chain without independently verifying the reported relocation.
+unresolved transfer. George Estes’s 2023 marker dedication was announced for Oak Ridge Cemetery, but the transfer of his remains is reported in family accounts [P35].
 
 When one grave has a family stone and a commemorative marker, such as a military marker a society
 placed later, record each date with the marker it comes from, who placed it and when. Record
 lettering cut later, such as sandblasted text beside raised original lettering, as a later
 addition. A date conflict between markers stays an unresolved discrepancy (Section 5). [P66]
 
-If a veterans' cemetery tablet is identified as a cenotaph, record its site as a place of
-commemoration and leave interment there unconfirmed. According to a supplied transcript excerpt,
-the episode describes such a tablet for a sailor lost at sea [P175†]. On a U.S. government
-marker, read the heading `IN MEMORY OF` as the memorial designation. Check the burial or
-disposition record for the remains before assigning a place of burial. [P176]
+For a U.S. government marker, look for the memorial designation `IN MEMORY OF` [P176]. A relative reported a Maryland veterans’ cemetery tablet for a sailor lost at sea aboard USS *Cyclops* [P175]. Record the memorial site separately and seek a disposition record before assigning a place of burial.
 
-Do not assume a stone was set at the burial. It may have been put up years or decades later, with
-details given to the stonecutter from someone's memory: in one family, court records show a stone
-set in 1906 for a death in 1888 [P116]. RootsIreland warns that Irish gravestone information may
-be inaccurate for this reason [P142]. An Irish family stone can be erected 20 to 50 or more years
-after most of the deaths it lists, and a man it shows dying in 1899 can still appear in the 1901
-census [P117]. Record the erection date as unknown unless a record dates it. Look where the
-stone's purchase may be written down: an estate or court account, as in the 1906 example, the
-cemetery's burial or memorial register, or the funeral home's file [P116], [P143]. Check each
-date on such a stone against the census, the civil death registration and the burial register
-before you use it.
+Date a stone independently of the deaths it records. One researcher found court records dating a stone to 1906 for a relative who died in 1888 [P116]. An Irish family stone may record deaths several decades after the event from relatives’ recollections [P117], [P142]. Check its dates against a census, civil death registration and burial register, testing even a death inscribed as 1899 against a possible 1901 census entry for the same person [P117]. For the marker’s purchase or erection, check estate or court accounts, cemetery burial or memorial registers, and funeral-home files [P116], [P143]. Record an unknown erection date as such.
 
 In a damaged or cleared cemetery, compare the present enclosure with any dated map of its former
 extent. Record the areas outside the boundary as lost or not examined, so that a missing stone is
@@ -598,10 +537,7 @@ capture-origin check, not a guarantee of coordinate accuracy, grave identity or 
 
 If the death municipality in France is known but the cemetery is not, check whether its archival
 descriptions list `registres des convois funéraires` or `registres des transports de corps` for the
-relevant period. The Auprès de nos Racines article describes this municipal record leading to an
-out-of-town cemetery. Keep the transport date and stated destination separate, then seek that
-cemetery's interment entry for burial and plot. The stated destination is a lead, not proof of
-burial. [P28]
+relevant period. A Paris transport entry of 27 December 1955 gave Vignot in the Meuse as the destination for Victor Grandsire, four days after his death [P28]. Copy the date and destination, then seek the interment entry and plot at the receiving cemetery.
 
 When the plot cannot be located or the online entry lacks detail, identify the cemetery office
 and prepare a request for the recorded burial and its plot location. The gravestone tutorial
@@ -613,11 +549,7 @@ Before treating a missing or unfindable marker as a wrong lead, ask the cemetery
 grave's type and status when contact is authorized. Is it a war grave? Was the stone removed, for
 example as unstable? Record any reported grave status and the current section, row and number
 beside the original locator. If the office reports an anonymous interment, ask for the recorded
-burial field and log it as the locator of an unmarked burial. The
-[Berlin grave-photo request thread](https://forum.ahnenforschung.net/forum/thread/19335/)
-motivates this. Its report that a war grave survives and its advice that the office can name the
-field of an anonymous burial are local forum statements; the thread does not show a field being
-released, and grave-retention rules vary by cemetery and period. [P19]
+field. A Berlin cemetery inquiry located a surviving war grave by section and row; in a separate anonymous-burial inquiry the discussion suggested asking for the field but recorded no answer [P19]. Log the locator the office actually provides.
 
 Custodians may produce only what is asked for by name. Request each record type separately:
 interment register, plot purchase or deed, burial or grave-opening permit, transit permit,
@@ -691,10 +623,7 @@ still the record to get [P108], [P109].
 Read the section and the grave type too, not only the location. Under the Burial Acts, part of a
 new public cemetery was consecrated for Church of England burials and part left unconsecrated for
 other denominations; Leeds's municipal cemetery opened in 1845 with the two sections [P106],
-[P130]. A burial in the consecrated part is a denomination clue [P106], [P109], not proof:
-English Ancestors reports a man buried there whose first child was baptised Catholic [P106]. The
-officiating minister is a second clue [P129]. Test the denomination against baptism and chapel
-records, as in [english-nonregister-record-recovery § 5](english-nonregister-record-recovery.md#5-a-label-that-says-only-dissenter-or-nonconformist).
+[P130]. An Ulster-born man buried in the consecrated part had a first child baptised Catholic [P106]. Record the section and officiating minister as clues [P109], [P129], then compare baptism and chapel records, as in [english-nonregister-record-recovery § 5](english-nonregister-record-recovery.md#5-a-label-that-says-only-dissenter-or-nonconformist).
 
 Do not doubt an identification because a suicide lies in consecrated ground. In England and Wales
 the Burial of Suicides Act 1823 already allowed a person found felo de se to be buried in the
@@ -749,11 +678,7 @@ that the grave is absent.
 
 A burial register or burial-certificate file can confirm a burial without giving any grave
 location. Record the plot as `not recorded in this series` instead of expecting the register to
-supply it. Where the burial series closely parallels the death register for the same community, as
-in the [Moscow burial-certificate discussion](https://forum.j-roots.info/viewtopic.php?f=20&t=5084),
-cite both and mark them as related records, not two independent confirmations. That example rests
-on one researcher's description of a single year's file. It does not show how other cemeteries or
-periods kept their records.
+supply it. In a Moscow researcher’s account, the 1917 burial certificates in fond 1457 omitted the plot and closely paralleled the death register in fond 2372 [P15]. Compare the two series and record any dependence before counting confirmations.
 
 When no funeral home or cemetery is named, or the named office or firm has closed, trace who now
 holds the records and list the possible custodians for the period before concluding that no record
@@ -780,16 +705,7 @@ burial record, retaining requested, unavailable and received states. Use the sam
 authorization rule above. The demonstration establishes no present holder, guaranteed survival
 or entitlement to the records. [P22]
 
-Read every page and face of an inspected death certificate, not only the personal particulars. On
-some early-20th-century certificates, such as one New York City example, the undertaker's
-certification names the person who hired the undertaker and that person's relationship to the
-deceased. That may be the only mention of a sibling. Record the employer's name and the stated
-relationship literally, as a relationship lead. An initial before a woman's stated role ("M.
-[Surname], the sister of deceased") may be her husband's initial, in the form 'Mrs. [husband's
-name]'. Search both for a sister married to a man with that initial and for a sister whose own name
-has that initial; do not pick one reading. Record the certificate's place-of-burial field as a
-cemetery lead, then find the interment entry there. A burial-place match in another state supports
-identity, but it is not the interment record. [P60]
+Inspect the undertaker’s certification on every page and face of a death certificate. In a New York City example the person who hired the undertaker was identified as the deceased’s sister [P60]. Transcribe the name and role as written. For ‘M. [Surname], the sister of deceased’, test both a sister with that initial and one whose husband used it. Check the certificate’s burial-place field against the named cemetery’s interment entry, including when the cemetery lies in another state.
 
 A funeral guest register or memorial book, usually kept by the family and handed down, lists
 people who came to pay their respects. Use each name as a lead to relatives, associates and
@@ -958,9 +874,7 @@ survivors local and distinguish announced burial plans from an interment record.
 Keep an earlier inscription transcript or research letter with its author/date, exact
 reported reading and any available image reference. Record a later inspection separately
 as not located, not inspected, unreadable or partly read, according to what happened.
-A failed present reading neither verifies nor erases the older statement. The [road-trip example](https://familylocket.com/rlp-231-family-history-road-trip/)
-motivates this distinction without supplying an earlier photograph or proving identity,
-marker replacement or the reason a present reading failed.
+A 1966 researcher transcribed a double marker at McGee Cemetery and noted faint lettering; a later visitor could not locate it [P37]. Keep both observations and leave the reason for the failed search open.
 
 If an online memorial assigns an early burial to a named cemetery, compare the burial date
 with that cemetery's documented opening or operating period. An opening after the burial
@@ -969,8 +883,7 @@ unresolved until its own evidence is found (section 3). Record the dating source
 uncertainty about earlier use of the site. Use the burial entry's parish or church and the
 locality's cemetery histories to list grounds operating at the burial date as candidates,
 with a source for each period and parish connection. A candidate ground does not locate
-a grave. The [Anne Doucet example](https://dna-explained.com/2025/01/04/anne-doucet-1713-1791-oceans-rivers-and-perseverance-52-ancestors-438/)
-motivates this chronology check; its proposed final grave location remains unverified. [P21]
+a grave. The reported 1884 opening of Saints-Anges excludes it as Anne Doucet’s original 1791 burial ground but leaves any later removal unresolved [P21].
 
 Choose the next retrieval action from the gap: a clearer photograph for uncertain letters, a
 cemetery register for an unlabelled burial date, or the underlying civil record for a conflicting

@@ -92,7 +92,7 @@ Establish the denomination and actual register holder before selecting an archiv
 
 - **Open the LAC entry even when you already hold an attestation paper.** The service file of a man who served holds one copy of his attestation paper, and most entries have two digitised items: the service file as a PDF and the attestation paper as a JPEG [S6 @2026-11-16]. An attestation paper from another site is one document of the file, not the file.
 
-- **For an American volunteer, search under other names and birthplaces.** A 2022 community live stream traced American volunteers in the CEF through their attestation papers [S13] (only a transcript excerpt was read). The United States did not allow its citizens to join another country's army, and some American volunteers gave a false name and place of birth [S6]. Search every alias and birthplace the family reports, not only the real name and a U.S. birthplace, before you call the file missing.
+- **For an American volunteer, search under other names and birthplaces.** Search for the Canadian Expeditionary Force attestation paper under the names the family used [S13]. Library and Archives Canada warns that some American volunteers supplied both a different name and a different birthplace [S6]. If a search restricted to a U.S. birthplace fails, remove that filter and try the aliases separately. Compare next of kin, date of birth and residence on the candidate's attestation with independent records before attaching the file.
 
 ## 4. Search Métis and First Nations series by series, not by name index
 

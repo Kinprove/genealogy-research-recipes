@@ -36,7 +36,9 @@ When an early American marriage has no licence or return, do not write it off as
 
 ## Keep residence, licence and ceremony places apart
 
-Add a row for each party's residence county and a separate row for the county where the ceremony took place, if it is known or suspected. In a Pennsylvania teaching example, the bride, groom and ceremony are in three different counties, and the presenter says to search all three [S12], [S13]. Don't assume the licence sits in the ceremony county. Current Pennsylvania county guidance says a licence can be taken out in any county and used anywhere in the Commonwealth. The marriage is recorded in the county that issued the licence, and that is where the officiant's return goes. That guidance is present-day practice. For an older marriage, record the period rule as an open question and search every residence county and the ceremony county until it is settled. Record the issuing county and the ceremony county as separate fields, even when they turn out to be the same. Search for the record in the issuing county.
+Record each partner’s residence county, the ceremony county and the issuing county separately. Search both residence counties and the ceremony county if the issuer is unknown [S12], [S13]. For an older marriage, establish where a licence could be obtained under the law in force on the marriage date.
+
+In Pennsylvania today a licence issued in any county can be used anywhere in the Commonwealth. Follow the officiant’s return to the issuing county [S35 @2026-11-19], [S17 @2026-11-19].
 
 Rank the bride's residence county first among the residence rows. Couples usually married where the bride lived [S1], [S5]. That sets the order of the search. It does not let you skip the groom's county or the ceremony county.
 
@@ -44,32 +46,35 @@ Rank the bride's residence county first among the residence rows. Couples usuall
 
 List every adjacent county, including those across a state line. Rank them by how easily someone could reach each courthouse at the time, not by straight-line distance:
 
-- Use period road, railroad and topographic maps. Mark the residence, every county seat, rivers and the terrain in between [S6], [S9], [S11]. In the Warren County case below, the presenter worked from a 1924 map he found in the David Rumsey collection [S6].
-- Look for county lines that cut a community off from its own seat. Part of Conway County, Arkansas, lies across the Arkansas River from Morrilton, its county seat. Add Perry County, on the near side of the river, as a candidate for couples there, especially for spring marriages when the river ran high [S15].
-- Account for the season. One presenter's rural farm ancestors in Surry County, North Carolina, married in winter or early spring, before planting. Crossing a swollen river then was dangerous, so a longer but safer trip to a Virginia county was the easier choice [S11]. Another presenter points to spring rains and thaws that swelled rivers, and to a family found to live closer to the next county's courthouse [S9].
-- Follow rail lines beyond the adjacent ring. In the Warren County, Kentucky case, the presenter searched every adjacent county and counties up the line as far as Louisville without success. The marriage turned up just over the Tennessee line at Mitchellville, Sumner County, a railroad stop [S6].
+- Mark the residence, county seats, river crossings and rail stops on a map close to the marriage date. The David Rumsey collection supplied the 1924 map in Lowe’s Warren County search [S6], [S36].
+- Check which courthouse was reachable from the couple’s side of a river. Castillo uses the Arkansas River between part of Conway County and its seat at Morrilton to suggest a search in neighbouring Perry County when high water blocked the crossing [S15].
+- Compare routes for the season of the marriage. Lisson suggests a longer overland route to a Virginia courthouse could have been safer for Surry County, North Carolina, families during winter rains or the spring thaw [S11], [S9].
+- Follow the railway in both directions across county and state lines. After searching north as far as Louisville, Lowe reported finding the Warren County couple’s bond at Mitchellville in Sumner County, Tennessee, the rail stop just south of the border [S6], [S36].
 - Add the couple's church. People travelled long distances to marry in their preferred church [S15]. Find the couple's denomination and congregation, and add that church's county as a candidate.
 
 ## Compare the marriage law in force at the marriage date
 
 For the home state and each neighbouring state, record the rules at the marriage date: consent age, waiting period, blood test, residency, bond and fees. Cite the edition you used. One presenter uses the Census Bureau marriage-and-divorce reports on Google Books and HathiTrust. He notes that not every annual report includes marriage statistics [S7], [S8].
 
-- Pull the edition nearest the marriage date and record each state's consent age. In the presenter's 1909 example, Kentucky required parental consent under 21 and Tennessee under 16, a Tennessee rule he dates to 1899; he adds that northern Kentuckians crossed into Indiana and southern Kentuckians into northern Tennessee counties [S7].
-- Use the reports' tables of counties with marriage rates above the state rate to flag border counties that drew couples from elsewhere. The presenter's 1922 example lists only Brooke County, West Virginia, which lies between Ohio and Pennsylvania. He says those two states had stricter laws than West Virginia [S7], [S8].
-- Consult the FamilySearch Wiki's Gretna Greens article and its residence-to-destination chart [S4], [S10], [S11], [S14]. The chart pairs New York with Niagara Falls, Ontario. One presenter also names Dillon, South Carolina, as the destination for North Carolina couples [S10]. That pairing comes from her, not from the Wiki chart. Check each destination against your period and add the date to any web search [S16].
-- The presenter recommends Cornell LII's state marriage-law table as a summary of current law and past changes [S7]. The table cites a chart in the 1999 World Almanac and says entries have been updated through statute review, but gives no date for an individual entry. [S27] Use its statute links as leads, then inspect the version in force at the marriage date; the table itself does not establish a historical rule. Never take its figures as the rule for any marriage date.
+- Distinguish the report’s publication year from the dates covered. The Census Bureau’s 1909 report covers 1867–1906 [S37]. Lowe used a Kentucky–Tennessee difference in parental consent requirements as a lead [S7]. Check the applicable statutes on both sides for each partner’s age, sex and marriage date before ranking a crossing on that basis.
+- Check a high-rate border county against a period map and the registers. Lowe pointed to Brooke County, West Virginia, between Ohio and Pennsylvania, in a table from the 1922 report [S7], [S8]. A high marriage rate alone cannot identify the couple’s residence or motive.
+- Use lists of elopement destinations, also called Gretna Greens, to generate candidates for the home county [S4], [S10], [S11], [S14]. The examples include Niagara Falls, Ontario, for New Yorkers and Dillon, South Carolina, for North Carolinians [S10]. Include the date in a search for a local destination and verify its use in that period [S16].
+
+- Use Cornell’s state marriage-law table to locate statutes. The table cites a chart in the 1999 World Almanac and reports subsequent statute checks without dating individual entries [S27 @2026-11-19]. Retrieve the version of the statute in force at the marriage date.
 
 Do not suggest modern resort venues by default. Las Vegas, Hawaii or Mexico belong on the list only when the period, the couple's location and the travel options make them plausible [S1]. A high-rate county or an easier law is a reason to search a place. It is not evidence that the couple married there [S10].
 
 ## Add counties from the family timeline
 
-Find where the bride's siblings and other close relatives lived at the likely marriage date. Weddings were often held in a relative's home. One presenter found a marriage in a sister's county only after the courthouse and Gretna Green searches had failed [S14]. Add counties where other family members married, because a destination can repeat within a family [S6], [S14].
+Map where siblings and close relatives lived at the likely marriage date, including the counties where other family members had married [S6]. Lisson reports locating an ancestor’s wedding in her sister’s home in another county after checking the home county and known elopement destinations [S14]. Add a relative’s county even when the couple never lived there.
 
-Add military, training or work postings. Pull the groom's service record and add the counties within reach of any posting near the marriage date. In one example, a 1951 Tennessee couple married in Aiken, South Carolina; the presenter found in the groom's service record an Air Force enlistment that March and air police training in August at Camp Gordon, Georgia, which she places about 36 miles from Aiken [S5]. Camp Gordon later became Fort Gordon, which was renamed Fort Eisenhower in 2023 and renamed Fort Gordon again in June 2025. Use Fort Gordon for modern lookups. Wartime haste is another reason to look further afield [S14].
+Match each partner’s service or work postings to the marriage window. Lefler reports that a Tennessee groom’s March 1951 Air Force enlistment and August air police training at Camp Gordon, Georgia, put him within reach of Aiken, South Carolina, where the couple married that August [S5]. Search across the state line from the posting and use the installation’s name at the time [S5], [S14]. For catalogue and map searches, the Army dates the change from Camp Gordon to Fort Gordon to 1956, the Fort Eisenhower name to 2023 and the return to Fort Gordon to June 2025 [S39].
 
 ## Investigate the county where the record should be
 
-If the evidence strongly points to one county and the record is still missing, ask the clerk, the county historian or local genealogists how records were kept there. One presenter reports a reader's case: a justice of the peace married couples but never turned his register in to the clerk, and then left town [S9]. Look for minister or circuit-rider journals in denominational archives and local museums. Search for them through ArchiveGrid and PERSI [S9]. Search PERSI first in the free search of the Allen County Public Library (ACPL): ACPL staff compile PERSI, and this copy is the larger one. Findmypast also carries PERSI, with fewer entries but images of some articles, so use it as a second search and for those images [S25], [S26]. If county records were lost, check what survived before writing the county off, and turn to church records and newspapers [S11].
+When independent evidence points to one county, ask its clerk, historian or archive which returns actually entered the official series. Lisson relays a reader’s report of a justice who left town with his register unfiled [S9]. Search for a minister’s or circuit rider’s papers in denominational archives, museums and ArchiveGrid, and check church records and newspapers where county papers were lost [S9], [S11].
+
+Search the Periodical Source Index (PERSI) by place and subject for a published transcription, then obtain the article and follow its citation to the journal or register [S38 @2026-11-19]. In the providers’ archived descriptions, ACPL staff compile PERSI, and this copy is the larger one (September 2026) [S25 @2026-11-19]. Findmypast described its version in September 2025 as an index with fewer entries but images of some articles [S26 @2026-11-19].
 
 ## Carry each hit to the original and close the list
 
@@ -92,6 +97,6 @@ Ask each county's clerk or archive for its loose marriage records as well as the
 
 A licence does not show that banns were read: in English law a special licence could dispense with publication, so check the local rule before assuming banns for a licensed marriage [S28], [S31].
 
-Read the bondsmen and officiant as possible associates, but check their role first. In the presenter's Mitchellville bond, the bondsman, F. M. Groves, was the justice of the peace who performed the marriage, and the bond notes that Groves paid for it [S6].
+Compare the bondsman’s signature with the officiant’s name and the fee notation before treating him as a family associate. In Lowe’s account of the Mitchellville bond, F. M. Groves served as bondsman and justice of the peace and was listed as paying for the bond [S6], [S36].
 
 Close by naming any candidates left unsearched after a verified hit or recorded as unavailable, the reason each remains, and any record-keeping gaps found. Hand the interpretation of any remaining absence to the evidence recipe.

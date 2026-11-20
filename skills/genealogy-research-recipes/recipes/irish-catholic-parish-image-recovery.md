@@ -77,10 +77,7 @@ Record the alternative names given on the NLI parish page. A Catholic parish can
 than one name, so a lead's parish name may not match the NLI heading. Match the lead's parish name
 to an NLI name or listed variant before concluding the parish is absent. [P4]
 
-If the target date precedes the available register, inspect earlier-starting neighboring registers
-and evidence of a predecessor parish. The demonstration shows an older parish divided when a
-new parish was created. Save each candidate register and its coverage; proximity alone does not
-establish where the event was recorded. [P3]
+If the target date precedes a parish’s surviving register, check when the parish was formed and which parish previously served the place. In the 2016 demonstration, a parish created after 1850 had a neighbor with earlier registers covering the formerly undivided parish [P3]. Record the dates and jurisdiction before choosing a volume.
 
 **Output:** `place lead | Catholic parish | diocese | register URL | microfilm/item |
 event type | described dates | parish-history question | next register`.
@@ -140,19 +137,9 @@ entry. [P1, P2, O1]
 Inspect pages whose dates differ from the main description. NLI explains that page-level filter
 metadata can include annotations outside the register's main described dates. [O1]
 
-Compare the name, parents or spouse, stated residence, event and date with the transcription.
-Preserve the original name forms and uncertain letters. The 2022 tutorial finds a maternal-surname
-transcription difference in the image. The 2024 tutorial finds a transcription that presents the
-baptism date as an estimated birth date. Keep those source statements separate; do not copy the
-estimate into an asserted birth. [P1, P2]
+Compare names, residence, event and date with the register image. Johnson reads Bridget’s surname as Smyth where the index has Smith [P1]. In a Molahiffe entry the index estimated a birth on 24 July 1852, the date the register gives for baptism [P2]. Preserve uncertain letters and enter a baptism date as such.
 
-Do not count matching Ancestry and Findmypast entries as two confirmations. Johnson says Ancestry
-and Findmypast use the same transcription; in the Lisa Lisson discussion a vendor speaker says the
-two publish the same images and indexed them together, though the indexes differ slightly.
-Johnson's class shows an inferred father's surname that only the image corrected, and it treats
-RootsIreland as a separately made transcription. In the Lisson discussion, the vendor speaker
-advises that if one platform finds nothing, the search should be repeated on the other. Any hit is
-still only a lead to the image. Neither source says how the indexes differ today. [P4, P5]
+Treat matching Ancestry and Findmypast entries as one derived lead. Johnson describes a shared transcription and treats RootsIreland as separately transcribed. In the Galway example, the transcription gives the father as Martin Fitzgerald but the image records only Martin’s given name [P4]. A Findmypast speaker said the two vendors indexed the same images together and advised retrying a failed search on the other platform because the indexes differed slightly [P5]. Check any hit against the image.
 
 For faint text, try NLI's documented brightness, contrast or inverse-image controls. Label the
 adjusted view; retain the original locator. Route disputed readings to the documentary-records

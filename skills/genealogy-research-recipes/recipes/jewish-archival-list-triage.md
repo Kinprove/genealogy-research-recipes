@@ -59,12 +59,7 @@ guide, for example, heads fond 39 «Одеський міський рабина
 городской раввинат» beside it. [B7] Search both `рабин` and `раввин`; `рабин` also matches
 surnames such as Рабинович, so read each hit.
 
-Preserve the original Ukrainian title beside any translated display. A browser translation
-can turn a surname or locality into an ordinary word; it is not the literal catalogue text.
-An exact query can also miss an inflected heading: the [Ukrainian archive-wiki example](https://lostrussianfamily.wordpress.com/2024/02/24/wiki-site-details-records-of-ukrainian-archives-on-a-user-friendly-and-searchable-site/)
-contrasts `Канівський повіт` with `Канівського повіту`. After an exact miss, test a distinctive
-stem or the relevant case ending, retaining each original query and inspecting the returned
-contexts. There is no universal rule to remove a fixed number of letters.
+Copy the original Ukrainian heading before translating it. A translator may turn a surname or locality into an ordinary word. When an exact phrase fails, search the inflected form or a distinctive stem, then read the full heading. Miller illustrates the difference with nominative `Канівський повіт` and genitive `Канівського повіту` [U567f922da6fa]. Log both queries and the scope you searched.
 
 When site search is unhelpful, try browser Find on the original-language page and record
 that page's scope separately from a whole-site or archive-specific search. A shortened
@@ -83,16 +78,7 @@ peasant or volost heading can be deprioritized in a narrow title sweep; that cho
 does not establish the absence of Jewish entries in a broader fund inspection.
 Similarly, an administrative title may conceal an attached named schedule.
 
-Files on community administration, such as elections, can hold such schedules. A [discussion of rabbi-election files](https://forum.j-roots.info/viewtopic.php?f=164&t=5924) cites Vilnius archive cases,
-outside Ukraine, on electing a town's rabbi, assistant rabbi and the boards of its Jewish prayer
-schools. Candidate and elector lists were extracted from these cases. Add election and rabbi terms
-such as `выбор`, `раввин` and `молитвен` to title searches in the funds you are triaging. A
-[discussion of 1920s synagogue community member lists](https://forum.j-roots.info/viewtopic.php?f=75&t=5625)
-reports a regional fund of member lists for the synagogue communities of a town and its uezd. Only
-part of that inventory is posted online, so check posted coverage case by case. Treat an election
-list as a dated roll of people taking part in that election, not a community census. Neither thread
-shows the lists' fields, eligibility rules or whether every community appears. List membership
-alone does not establish residence or kinship.
+Search for elections of rabbis, assistant rabbis and prayer-school boards under `выбор`, `раввин` and `молитвен`. A Vilnius archive researcher reports extracting candidates and electors for Druya, including the 1892 prayer-school board elections (LVIA 381-17-1277) [B3]. Use these terms to search Ukrainian inventories. For synagogue membership, check religious-community registration files under the local administration. A forum reader reported seeing only part of the Vinnytsia inventory online [B4]. The regional archive’s inventory of fond R-196, opys 1, describes file 843 for the Kloyz synagogue in Lityn (1925–26) as containing a statute, minutes and lists [B8]. Inspect the lists for their dates, fields and inclusion rules before using a name as evidence of participation, residence or kinship.
 
 ## Keep geographical selection separate from content verification
 
@@ -103,24 +89,9 @@ territory relevant, retain its in-scope cases as geographical candidates for rev
 Do not label the entire fund Jewish, assume all years are relevant, or infer a
 person's ethnicity from the administrative boundary.
 
-Search for named lists at town, uezd and guberniya level. Include uezd- and governorate-level
-fiscal creators such as a treasury chamber, not only funds or titles that name a Jewish
-community. A [discussion of uezd-level Jewish lists](https://forum.j-roots.info/viewtopic.php?f=20&t=5084)
-warns that a list titled by uezd may cover only the district outside its uezd town, so check
-its stated territory before treating an absent name as a negative. A
-[discussion of registration societies and neutral case titles](https://forum.j-roots.info/viewtopic.php?f=20&t=4270)
-cites a revision list held under a title that names only the uezd. Before this search, read which society the person's own record names. A burgher society of a place does not prove that no separate
-Jewish society existed there, and the place of registration need not be the place of
-residence. A neutrally titled case is still only a catalogue lead until its pages are
-inspected.
+Search town, uezd and guberniya inventories, including the treasury chamber. Check whether an uezd list includes its principal town before recording a negative. A forum source raises that question for the 1874 Vitebsk guberniya lists of Jewish men [B1]. In another discussion a researcher reports that a file catalogued simply as an undated Gomel uezd revision may contain lists of Jewish men [B2]. Record the title as written and inspect the pages. Also copy the exact registration society from the person’s record. A burgher designation alone establishes neither a separate Jewish society nor residence in the place of registration.
 
-Before concluding that a society has no surviving registers, search the inventory of the fund that
-holds Jewish-society metrical books, using that society's name. List each case by year and event
-type. In the same [discussion of Jewish-society metrical-book inventories](https://forum.j-roots.info/viewtopic.php?f=20&t=4270),
-a researcher learned of such a society's surviving books only late in the discussion. A case titled
-for one society may have been kept by the rabbi of a wider sub-district (stan) and include entries
-for neighbouring towns, so review those towns' books together. A listed case does not establish
-that it contains the target entry.
+Search Jewish-society metrical-book inventories by society, year and event. The Streshin discussion lists separate 1880 marriage and death books under fond 2412, inventory 1, files 88 and 89, and identifies the rabbi of the second district (*stan*) of Rogachev uezd [B2]. Check Streshin alongside Rogachev, Zhlobin and Karpilovka in that district, then verify the locality and person in each entry. An inventory title alone cannot establish either.
 
 For 1941–44, also check occupation-administration creators, such as a district Gebietskommissariat
 or a town burgomaster. A [finding-aid excerpt for copied regional fonds](https://forum.j-roots.info/viewtopic.php?f=167&t=4906)
@@ -159,5 +130,5 @@ Deliver the case keys, exact titles, reasons, inspected locators and unresolved
 retrieval needs. Stop at the agreed catalogue or case scope; an uninspected reserve
 is a possible next source, not a completed search.
 
-This triage rubric is an investigator-created workflow. [Source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/68b0259a2f3621877bd2158f52d0836589b4c004/skills/genealogy-research-recipes/sources/jewish-archival-list-triage.md)
+This triage rubric is an investigator-created workflow. [Source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/71a8f9f838d56088b90856e757dfee5006dd17fd/skills/genealogy-research-recipes/sources/jewish-archival-list-triage.md)
 separate it from provider facts and related verification methods.

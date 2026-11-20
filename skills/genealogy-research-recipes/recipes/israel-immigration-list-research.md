@@ -29,7 +29,7 @@ A person in a later entry may still be living. Treat anyone who may be living as
 
 ## 1. Search in Hebrew script as well as in English
 
-English and other languages work: MyHeritage's name translation makes the mostly Hebrew index searchable in them, and MyHeritage's example finds a woman's Hebrew record from her original name typed in English. [S1 @2026-11-16], [S2 @2026-11-16], [S4 @2026-11-16] Do not stop at an English miss. MyHeritage's search guide asks for the first and last name preferably in Hebrew, and the Jewish Agency clerks wrote the names in Hebrew. [S3 @2026-11-16] Search every name both ways: in Hebrew script and in each Latin spelling the person used before arriving.
+Search the person’s pre-arrival name in its original spelling, then search the Hebrew form independently. MyHeritage’s index supports cross-language searching [S1 @2026-11-16], [S4 @2026-11-16]. Its published example retrieves Bracha Fuld’s Hebrew entry (ברכה) with the English query Barbara Fuld [S2 @2026-11-16]. Do not stop at an English miss. The search guide recommends entering the given name and surname in Hebrew where possible because the clerks recorded names in Hebrew [S3 @2026-11-16]. Compare the name, arrival date and companions on the list image.
 
 Narrow a common name with the guide's search fields: birth year, departure place, arrival date and place, gender, residence, and the father's, mother's or spouse's name. [S3 @2026-11-16]
 

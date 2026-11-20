@@ -43,7 +43,7 @@ Translate the U.S. clue into the historical territory (the lectures call it the 
 
 Do not rule out a middle level just because the territory is not Prussia. The presenter says only the Kingdom of Prussia had a middle level, but that is wrong. Bavaria set up mid-level Kreise/Regierungsbezirke in 1808, and by 1871 most states of the Empire had adopted the idea. The same lecture also shows a Bavarian middle-level catalogue entry (§ 2). Check every level the territory actually had. [S2]
 
-Hessen example (the Grand Duchy of Hesse, called "the duchy of Hessen" in the lecture): the upper level was three provinces (Oberhessen, Rheinhessen, Starkenburg). The presenter says emigration records were not kept at province level. They were kept by the district (Kreis) offices. In his catalogue example, a district-level emigration series holds the file for one family's emigration, dated 16 October 1854. [S1], [S2]
+In the Grand Duchy of Hesse, work down from the province (Oberhessen, Rheinhessen or Starkenburg) to the *Kreisamt*. The catalogue case dated 16 October 1854 concerns a family in a district emigration series [S1], [S2]. In the Darmstadt finding aid, start with G 15 for *Kreis- und Landratsämter*. Record the district and file reference before ordering the papers [S21].
 
 Expect these files to be handwritten, with several documents per emigrant. The presenter treats them as a last resort after indexes. [S1] A second presenter, who has translated many of them, says permission files record [S6]:
 
@@ -88,10 +88,10 @@ For every published state or district index, write down its stated geography, da
 - **Original Bremen and Hamburg departure lists.** Most Bremen lists are lost. From 1875 to 1908, lists older than three years were discarded for lack of space, and nearly all the rest were lost in World War II. About 3,000 lists from 1920–1939 survive, held by the Bremen Chamber of Commerce, and are indexed online at passagierlisten.de. [S12] Before 1920, apart from a few fragments, no Bremen departure list survives, so search the arrival manifest. The Hamburg emigrant lists in the Staatsarchiv Hamburg cover 1850–1934. [S13] They give each emigrant's name, place of origin and destination. They are searchable on Ancestry, which is free of charge in the Staatsarchiv reading room and at the BallinStadt museum. [S13], [S14] Ancestry labels the place as the residence (*Wohnort*). [S14] Treat it as the last home, not as the birthplace. A Hamburg miss counts only for the years your search platform indexes. For pairing a departure list with the arrival, see [U.S. immigration search recovery § 5](usa-immigration-search-recovery.md#5-recover-an-arrival-through-the-departure-list).
 - **Ortsfamilienbücher (village family books).** Online books are listed at online-ofb.de; many exist only in print. [S15] A hit gives a candidate village. A miss counts only for the registers and years the book covers. For reading a book and its scope note, see [German register recovery § 7](german-register-image-recovery.md#7-classify-the-register-version-behind-every-image).
 
-State-archive emigrant databases need the same coverage note. Forum participants used two of them:
+For each state-archive database, record its geographical coverage and the source cited by the entry.
 
-- **Baden-Württemberg:** the emigrant index reached through the LEO-BW portal. One thread used an entry from it to date a departure (§ 7). [S9]
-- **Hessen:** the Hessian emigrant data in LAGIS, built from the Marburg HESAUS database and older Darmstadt card indexes. Another thread matched one village's LAGIS entries to settlers at the destination (§ 5). [S11]
+- **Baden-Württemberg.** The Landesarchiv’s guide directs name and place searches to the LEO-BW emigration database [S22 @2026-11-19]. Copy the archive signature as well as the emigration year.
+- **Hessen.** The Hessisches Landesarchiv identifies the Darmstadt, Marburg and Wiesbaden indexes in the LAGIS *Hessische Auswanderer* module. In Marburg, the underlying HESAUS index draws on names in multiple record series [S21 @2026-11-19]. Check the office and dates before interpreting a miss.
 
 The Baden-Württemberg database comes from 1970s index cards centred on 1850–1900. Do not assume either database covers every year or every district. Write down the years and places that your village's entries actually span. A miss outside that span means nothing.
 
@@ -106,15 +106,15 @@ Look for a separate series or volume for them. The presenter's example is Mülle
 - Part I lists authorized emigrants, 1816–1900;
 - Part II lists unauthorized ("heimliche") emigrants, 1814–1900.
 
-Use the back index in Part II: take the person's assigned number and page, then open the entry. In his example the entry gives birthplace, birth date and parents. [S3] Write down the number, page and volume. An index line alone is not the entry.
+In Part II of the Minden work, follow the alphabetical index to the assigned number and page. The entry for Abraham Jacoby gives his parents, Hartum as his birthplace and 5 May 1830 as his birth date [S3]. Record volume, page and number, then check the baptism under the recorded place and date.
 
 ### Other home-side records that name emigrants
 
 Once you have a candidate home town or district, look for local records made because someone was leaving or had left. These can name a person who is missing from both the permission files and the indexes:
 
-- **District gazettes (Kreisblatt, Amtsblatt).** A forum participant collected 1867 notices from one district gazette. They included statements of intent to emigrate, giving residence, occupation, the wife's maiden name and the number of children. They also included creditor calls and auctions of the same man's livestock, household goods and house, spread over several months. Read the notices together to date the break-up of the household. [S8]
-- **Municipal council minutes and subsidies.** One participant posted council minutes from a Bavarian village (1852 and 1864) granting community money towards poor residents' passage to America. The same post lists that village's emigrants as reported both to the district office and to the regional government. Note which level each list came from (§ 1). Another post records that a Baden municipality gave a penniless woman a travel subsidy in 1849 so she could join her husband in North America. [S7]
-- **Guardianship, estate and power-of-attorney files.** A published inventory of emigration sources in the Rhineland-Palatinate and Saarland state archives lists guardianship and estate files with inheritances for children who had emigrated. Another post cites a 1787 power of attorney sent from Maryland to manage a house, property and an inheritance at home (Landesarchiv Saarbrücken, HV K 55). Emigrants kept appearing in such files for years after they left. [S7]
+- **District gazettes (*Kreisblatt*, *Amtsblatt*).** Search adjacent issues for the same household, property and creditors. In the 1867 *Eisenacher Kreis-Blatt*, no. 62 announced an April sale of Caspar Dietzel’s livestock and goods at Krauthausen. Supplements to nos. 115 and 117 advertised his house, land or household effects in July. No. 121 called for creditor claims in August [S8]. These notices date the household’s dispersal. A notice of intent may also supply a spouse’s maiden name and the number of children. Verify departure separately.
+- **Municipal council minutes and subsidies.** Check the minutes and reports sent to both district and regional offices. Helmstadt council voted passage aid in 1852 and 1864. At Wangen in 1849, Maria Josepha Reitze received travel money to join her husband already in North America [S7]. Search council decisions under a spouse who followed later.
+- **Guardianship, estate and powers of attorney.** An heir overseas may appear in the home court’s papers long after leaving. Follow the forum’s locator to the bilingual power of attorney of 13 March 1787, Landesarchiv Saarbrücken, HV K 55. A man in Maryland empowered a Philadelphia agent to handle his house, property and inheritance in Europe [S7]. Verify the names and relationships against the instrument.
 
 Limits: the gazette notices were chance finds, not a complete run, and a notice shows intent, not departure or destination. The thread gives only inventory summaries and one archive reference, not the contents of the files. Treat a name in these records as a candidate. Then confirm it in the original birth or baptism register (§ 7).
 
@@ -132,12 +132,12 @@ The presenter says the series is print-only and recommends buying a volume only 
 
 ### Read the destination community for chain migration
 
-If a passenger list or census places the emigrant in a small place that was not a common destination, suspect chain migration from one home village. A forum example shows how to test it [S11]:
+Test chain migration by comparing households at the destination with emigrants recorded at the candidate village [S11].
 
 1. Read the census page around the ancestor, including nearby lines.
 2. Look for a local settlement history or newspaper article that lists early settlers.
 3. Compare those names with the candidate village's emigrant list and church book.
-4. In the example, several neighbours and early settlers matched emigrants from one Hessian village. A group passenger-list entry giving that village and the destination tied them together.
+4. Check the reported passenger group against both places. A contributor transcribed the 5 August 1847 Baltimore arrival of the *President Smidt* from Bremen, with a group from “Rehrta” bound for “Dionesta.” Röhrda emigrant entries and early settlers around Tionesta, Pennsylvania, suggest identities to test for these passengers [S11]. Keep each person’s arrival year separate from later migrants on the same route.
 
 Record the years the village's emigrant list covers. Settlers who arrived before it begins stay unresolved; do not count them as non-matches. A shared surname is only a lead for each person. Identity needs that person's own records.
 
@@ -165,11 +165,7 @@ index. Neither German birth nor a HETRINA miss selects one of those service hist
 
 ## 7. Confirm the hit in the original birth or baptism register
 
-Take every index candidate to the original birth or baptism register of the named place that fits the candidate's confession and date: the parish church register, the Jewish community register, or the civil register once civil registration had begun. The presenter's Württemberg example shows why [S1]:
-
-- the register marked the child as born out of wedlock. Under the rule the presenter describes, that child received the mother's surname;
-- it named the father;
-- it recorded that the parents later married and the father legitimated the child. The presenter says that without legitimation the son could not have carried his father's surname or inherited from him.
+Check the original birth or baptism register for the candidate’s place, confession and date. In a Württemberg baptism, Johann Michael’s entry recorded birth outside marriage and named his father. The later marriage and the father’s subsequent legitimation were distinct events [S1]. Search under the mother’s surname at birth and the father’s surname in later records. Date each name from the entry that uses it.
 
 Record illegitimacy, a named father, legitimation and any later surname change exactly as written. If several census or index candidates fit, compare them on birth year, spouse and residence first, then confirm in the register. [S1] Identity rulings belong in the evidence/proof recipe linked above.
 
@@ -178,7 +174,7 @@ Record illegitimacy, a named father, legitimation and any later surname change e
 - the earliest possible departure: the last event at home, such as a child's birth or baptism there;
 - the latest possible departure: the first record in the U.S., such as a remarriage there.
 
-Search the emigrant index and the passenger lists first inside that window. Widen it if the bounding events do not prove the person was present, since a man could leave before his last child was born. In one forum example, the window was 1851–1853, and a LEO-BW emigrant-index entry narrowed it to 1852 and showed that he left without his wife. If a spouse is missing from the departure, search the home parish's death register within the window. Her absence does not prove she died. [S9]
+Search the emigrant index and the passenger lists within the time window. A child’s birth at home supplies a family date without necessarily placing the father there [S9]. After an 1851 birth in Ebnat and an 1853 Ohio remarriage, the 1852 Max Grupp index entry is a lead to the Stuttgart original, HStAS E 143 Bü 488 Qu 38. It lists one adult and four children and says the wife or mother is unlisted [S23]. Search manifests for the party and Ebnat’s burial register for the spouse. Her omission alone cannot establish her death or her travel date.
 
 For a man of military age, yearly conscription-list (Musterungsliste) entries also help:
 

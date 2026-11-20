@@ -44,22 +44,13 @@ For identity rulings, use
 A general privacy concern is not a search result. Access depends on the custodian and on the
 state, and the presenters' own outcomes show how far apart states are [S2], [S6]:
 
-- **Connecticut:** a guest got her grandmother's Norwich State Hospital file from the state
-  archives after proving descent [S2].
-- **New York:** the same guest got a form letter from a New York state hospital refusing on
-  privacy grounds, saying privacy did not end at death and that it does not release records
-  for genealogy [S2]. The New York Office of Mental Health page, checked 2026-11-07, says it
-  does not provide
-  copies for genealogy searches and cites Mental Hygiene Law §33.13 for confidentiality. [S9]
+- **Connecticut:** The state archives released a grandmother’s Norwich State Hospital file after her granddaughter documented her descent [S2 @2026-11-19], [S10 @2026-11-19].
+- **New York:** The same researcher received a refusal letter from a New York state hospital after the patient’s death [S2 @2026-11-19]. The Office of Mental Health says it does not provide copies for genealogy searches and cites Mental Hygiene Law §33.13 for confidentiality [S9 @2026-11-19]. Record the custodian’s wording and the purpose of the request.
 - **Privacy gate:** <!-- privacy-gate: request --> A court petition or direct request for a
   patient file sends the requester's proof of descent and can open records naming possibly
   living relatives; answer the privacy gate in `SKILL.md` before you petition or request.
-- **Illinois:** Amy Johnson Crow says she needed a judge's order to open the hospital records
-  of a relative who died in 1899 at the state hospital in Kankakee (the Illinois Eastern
-  Hospital for the Insane, later Kankakee State Hospital) [S6]. This is her case, not a
-  general access rule. Ask the custodian which applicant rules apply, and work out which
-  group your requester is in before you go to court.
-- **Ohio:** Crow says access "depends on the time period" [S6]. Confirm the current
+- **Illinois:** A judge’s order was required for Crow’s search for a relative who died at the state hospital in Kankakee in 1899 [S6 @2026-11-19]. Check the present custodian’s eligibility rules and which group your requester is in before you go to court.
+- **Ohio:** Crow says access "depends on the time period" [S6 @2026-11-19]. Confirm the current
   eligibility and documentation requirements with the custodian; do not infer them from
   family closeness or a death date alone.
 
@@ -76,41 +67,23 @@ a diagnosis or admission, and the supplement may name no institution. [S7]
 
 ## 1. Identify the current custodian and its access rules
 
-- Find out who holds a closed institution's records now. A web search told the guest that
-  Norwich State Hospital's records were at the Connecticut State Archives [S2]. Her 2018
-  article cites RG 021:008, Norwich State Hospital Records, 1904–1996. [S10] That is her
-  published locator, not a fresh verification of the catalogue or its access rules. Asked
-  about Columbus State Hospital, Crow named the Ohio History Connection as the holder [S6].
-  The repository's own research guide explains restrictions on identifiable patient records
-  under Ohio Revised Code 5122.31. [S11] Confirm the current holder, series and restriction
-  from the repository before requesting an individual file.
+- Search for the hospital name with the words *patient records*. Mangin found the Norwich State Hospital collection in the Connecticut State Archives. Her 2018 article cites RG 021:008 for 1904–1996 [S2 @2026-11-19], [S10 @2026-11-19]. The state library’s archival guide describes Norwich patient records for 1904–1966 under RG 021 [S13 @2026-11-19]. Check the patient series for the date you need.
+- For Columbus State Hospital, Crow names Ohio History Connection [S6 @2026-11-19]. The search-result excerpt from the repository’s older guide describes transferred hospital collections and identifies confidentiality under Ohio Revised Code 5122.31. [S11† @2026-11-19] The statute allows Ohio History Connection to release records to the deceased patient’s closest living relative on request. Under §5122.31(A)(14), records and reports concerning a person dead at least 50 years are no longer confidential under that section [S14 @2026-11-19]. Check which collection covers the patient.
 - Write down every access condition the custodian states, kept as separate entries:
-  - **Who may request.** Connecticut accepted a documented chain of descent when the requester
-    sent the patient's death certificate plus birth certificates linking each generation down
-    to herself [S2].
-  - **Years since death.** The Pennsylvania State Archives releases state hospital patient
-    records on request when the patient has been dead 50 years or more [S3], [S4]. The official
-    request page, checked 2026-11-07, says requests are processed if the patient
-    has been dead at least 50 years or the record is at least 75 years old. [S12] Ask which
-    proof of death the archive requires and send it with the request.
-  - **Record age for viewing in person.** Pennsylvania opens records 75 years or older to the
-    public [S3], [S4]. When a record spans several years, the 75 years run from its most recent
-    date.
-  - **Court-order requirements**, and who is exempt from them (see Illinois above) [S6].
-- Don't assume the closest living relative is the authorized requester. Steve Luxenberg
-  describes learning that his mother, who died after her sister (the patient), was the legal
-  heir, so under the law he was not next in line, even though he was the surviving next of kin
-  [S1]. This is his account of his own case, and the rule depends on the jurisdiction. Ask the
-  custodian who qualifies. Don't infer it from family closeness.
+  - **Who may request.** Mangin documented the Norwich patient’s death and linked each generation to herself with birth certificates [S2 @2026-11-19], [S10 @2026-11-19]. Record which documents the custodian accepted in your case.
+  - **Years since death or record age.** Pennsylvania processes research requests if the patient has been dead at least 50 years or the record is at least 75 years old. [S12 @2026-11-19] Check the proof required before using the mail-in request below.
+  - **Mixed-date volumes.** The Pennsylvania archivist measured the age of a register from its latest entries [S3 @2026-11-19], [S4 @2026-11-19]. Identify the patient’s entry date and the closing date of the volume before planning a visit.
+  - **Court-order requirements**, and who is exempt from them (see Illinois above) [S6 @2026-11-19].
+- Record the order of deaths and the estate representative’s authority. Luxenberg’s mother survived her sister, the patient. He reports that he first became his mother’s personal representative, then could open his aunt’s estate; being the surviving nephew did not establish standing [S1 @2026-11-19]. Check which authority the custodian recognizes for this patient.
 - **Privacy gate:** <!-- privacy-gate: request --> A mail-in request for patient files and
   register entries sends family proof and can return pages naming possibly living relatives;
   answer the privacy gate in `SKILL.md` before you send it.
 - Plan for mixed-date registers at the Pennsylvania State Archives. Patient entries sit in
   registers covering many years. If the page with your patient also carries entries that are
   still restricted, or the volume runs past the 75-year mark, the archivist says staff may not
-  bring the original out, and it depends on the record [S3], [S4]. The archivist calls a mail-in
+  bring the original out, and it depends on the record [S3 @2026-11-19], [S4 @2026-11-19]. The archivist calls a mail-in
   request "the safest way": staff copy the original or, if the page can't be copied, abstract
-  the entry, and send everything they hold for the patient [S3], [S4]. Make a mail-in request
+  the entry, and send everything they hold for the patient [S3 @2026-11-19], [S4 @2026-11-19]. Make a mail-in request
   first. Don't travel on the assumption that the volume will be produced.
 - These thresholds are the Pennsylvania State Archives' own. Do not carry them to another
   custodian.
@@ -120,38 +93,21 @@ a diagnosis or admission, and the supplement may name no institution. [S7]
 - **Privacy gate:** <!-- privacy-gate: request --> Asking for a complete patient file, or for
   other relatives' files, can bring back interviews, photographs and health details about
   possibly living family members; answer the privacy gate in `SKILL.md` before each request.
-- Ask for everything the custodian holds for the patient. Denyse Allen reports that when she
-  requested a great-grandfather's file from the Pennsylvania State Archives, staff said it
-  exceeded the standard fee. They offered the highlights they selected, or a full copy at extra
-  cost. She chose the full copy. It included an admission photograph and an interview with his
-  wife [S3], [S4]. If you are offered highlights, ask for the full-copy price.
+- Ask for everything the custodian holds for the patient. Compare the prices for selected pages and a full copy. When her great-grandfather’s file exceeded the standard fee, Allen chose the full copy and received his admission photograph and an interview with his wife [S3], [S4].
 - Give each item received one product label: **copy of original**, **staff abstract**,
   **staff-selected highlights**, or **refusal/no response**. Don't treat an abstract or a set
   of highlights as the whole file. Write down what the product leaves out, if the custodian
   said.
-- Keep the custodian's record group, file and roll locators exactly as given. Allen's packet
-  named them [S3], [S4]. Keep a separate entry for each relative's file.
-- Ask whether other relatives were patients too. The guest reports that the Connecticut
-  archive told her this was something it does, and that it named three more relatives who had
-  been patients. She then obtained their files [S2].
-- Once you have the file, look for visits and letters that test family stories. In the
-  guest's Norwich file, a relative's visits and letters to the superintendent contradicted an
-  inherited story [S2]. A file entry is that institution's statement. It doesn't settle family
-  motives.
+- Transcribe the record group, file and roll from the archive’s packet so you can locate or cite each item again [S3], [S4]. Keep a separate entry for each relative.
+- Ask whether other relatives were patients too. Norwich staff identified three additional relatives whose files Mangin subsequently obtained [S2]. Apply the checkpoint above to each separate request.
+- Check dated visits and correspondence against the family account. The family said a husband had abandoned his wife; her Norwich file recorded his visits and letters to the superintendent after her 1908 admission [S2]. Those entries document contact. His motives remain unknown.
 
 ## 3. Search the committing court and newspaper court recaps
 
 - Work out which county the patient was committed from. Search that county's court records for
   a commitment or sanity proceeding. Depending on the jurisdiction, the court may be probate or
-  civil [S6]. In Luxenberg's case, the Wayne County (Detroit) probate court handled
-  mental-health matters, as it handles involuntary commitments today. He argues that even a
-  "voluntary" admission to a public hospital in 1940 probably went through a legal proceeding
-  [S1]. Search the court even when the family calls it voluntary.
-- Expect the court file to have survived when the hospital file is closed or destroyed. Both
-  presenters say court files are kept and usually open, filed in with other cases [S1], [S6].
-  The exception to check for: Crow's published guidance notes that some insanity files are
-  redacted and that Michigan commitment files are restricted today. Log a sealed or redacted
-  court file as an access outcome, not as an absence.
+  civil [S6]. For a reported voluntary admission in Detroit in 1940, Luxenberg searched for a legal proceeding in Wayne County Probate Court [S1]. Search its docket even if the family described the admission as voluntary.
+- Check retention, the docket and the underlying case file separately. Log a sealed or redacted file as an access outcome. An unavailable hospital file does not establish whether a court file survives [S1], [S6].
 - Search local newspapers for weekly court summaries around the likely commitment date. Crow
   says most newspapers ran a recap of the court's rulings, sometimes only a line or two per
   matter [S6].
@@ -168,9 +124,7 @@ notification was required or that a notice survives for the person. [S7]
 
 Where clues suggest municipal funding, check whether the municipality's archival
 descriptions include registers of decisions or resolutions for the period. From a
-relevant entry, retain the dated payment or placement decision and follow any court
-or authorization reference it supplies; Hoitink's Leeuwarden example begins with a
-resolution abstract, which is a lead to the entry. [S8]
+relevant entry, copy the decision date and any court or authorization reference. Hoitink traced a death in Deventer to a Leeuwarden resolution abstract dated 6 November 1841. It describes a court order, the city’s decision to pay and its request for permission to place the patient in Deventer [S8]. Use those references to seek the resolution and order.
 
 ## 4. Estimate admission from an in-institution death certificate
 
@@ -179,11 +133,7 @@ resolution abstract, which is a lead to the entry. [S8]
   the person had been at the place of death [S5]. Count back from the death date to get an
   **estimated admission interval**. Make it a range, because the figure usually comes from an
   informant and may be rounded.
-- Test that interval against the institution's opening date, any new wards, and transfers from
-  earlier institutions. In the presenter's Rhode Island example, the School for the
-  Feeble-Minded at Exeter opened in 1908 for boys and admitted girls from 1913. Her counted-back
-  date fitted a move of female inmates from the state almshouse when the girls' dormitory
-  opened [S5]. The transfer is her own explanation, not a documented admission.
+- Compare the interval with opening dates, new wards and transfer records. At Exeter, Rhode Island, the school first admitted boys in 1908; the girls’ dormitory opened in 1913. The residence length on a death certificate pointed Mangin to 1913 and a possible transfer from the state almshouse [S5]. Look for the individual transfer or admission entry to test that inference.
 - Label the result as an inference. It doesn't replace an admission register, a court order or
   a transfer list. Use it to narrow the court, newspaper and register searches.
 

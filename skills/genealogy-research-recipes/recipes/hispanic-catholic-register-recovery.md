@@ -53,13 +53,15 @@ The start years in step 5 come from FamilySearch and the laws and archive pages 
 
 ## 1. Select the parish, not the town
 
-- **A town lead is not a register selection.** A larger town or city has many parishes, so the town alone does not tell you which books to search. One presenter puts the number as high as a hundred in a larger town or city [S4]. Ask relatives which church the family used for baptisms and marriages, and record that answer as its own lead [S4].
-- **A large city can also have several civil registry offices.** Havana and Santiago de Cuba have many parishes and municipal districts [S13]. Cuban records are held by the individual church or by the regional civil registry office, and one original Havana entry came from the Registro Civil of Norte de La Habana [S13]. Identify the registry district as well as the parish, and record both.
-- **Order a Buenos Aires civil act by its reference.** The city's Registro Civil identifies each act by circunscripción or sección (registry district), tomo (volume), acta (act number) and year [S23]. Take that reference from an index entry before you request a copy through the city's Solicitud de partidas procedure. You can still order by name and approximate date, but then the registry has to run a separate search [S23]. Record the reference next to the parish locator, as for the Havana registry district.
+- **Identify the parish.** In a city with many churches, use a historical address or the family's recollection of the church used for baptisms and marriages to choose a parish. Record the reason for that choice [S4].
+- **Identify the civil district separately.** For Havana or Santiago de Cuba, narrow the address to the municipal district as well as the parish. A Havana family's civil entry was traced to Norte de La Habana [S13]. Record that level of detail for your own search.
+
+- **Copy the Buenos Aires civil act reference.** Record circunscripción or sección (registry district), tomo (volume), acta (act number) and year. The city's Solicitud de partidas service lists an additional charge when the reference is unknown. For a birth or death search it asks for the full name and approximate date, and for a marriage it asks for both spouses' full names [S23 @2026-11-19].
+
 - **Parish and municipality boundaries differ.** One parish can cover several municipalities, and one municipality can contain several parishes [S1].
-- **The FamilySearch Catalog can list a parish and a municipality under the same place name.** The presenter's example reads the first entry as the parish and the second as the municipality [S1]. Open each entry's record list. Do not stop at the first match.
+- **Check both Catalog entries for a shared place name.** Open the record lists under the parish and the municipality, then record which entry contains the series and years you need [S1].
 - **Catholic marriage records can sit in two Catalog series.** The Catalog usually lists them under Matrimonios and Información matrimonial [S14]. Search both when the parish has both, and record which series supplied each entry.
-- **A colonial parish could keep separate books by calidad.** Mexico City's Sagrario parish kept baptism and marriage books for españoles and separate books for castas, while Indians had parishes of their own [S32]. In Valladolid (now Morelia, Michoacán), one book was divided into sections by calidad from 1643, and separate books began in 1652 [S33]. The book followed the calidad the priest assigned, and a person's calidad could vary: one child has entries in both the castas and the españoles books, under the same baptism date [S33]. When a colonial entry is missing, search every book the parish kept for those years, and record which book held the entry.
+- **Search parallel books kept by calidad.** At Mexico City's Sagrario parish, españoles and castas had separate baptism and marriage books. Indigenous communities had their own parishes [S32]. Valladolid (now Morelia, Michoacán) used sections from 1643 and separate books from 1652. María Josefa Eulalia's baptism on 16 February 1770 appears in both the castas and españoles books, with her parents described differently [S33]. Check each volume covering the date and compare the parents and birth date before counting two children. Record both locators.
 - **A small chapel visited by a priest normally kept no books.** If no parish appears for a small town, go up one level to the municipality and search its parish seat [S6].
 - **Records can move when a parish changes.** When a family vanishes from a parish's books, check whether the parish closed, a new parish was founded, or the books were transferred. The people may have stayed put while their records moved [S1]. Follow the books before you infer that the family migrated.
 
@@ -69,7 +71,7 @@ Record the parish name, its jurisdiction and the Catalog entry used. These locat
 
 Extract each field separately [S10], [S2]:
 
-- **Margin name:** copy it exactly. It can be written surname first, with the given name abbreviated (the presenter's example shows Torres before an abbreviated Juan Pablo) [S10]. Use the margin name to find your subject [S2].
+- **Margin name:** scan for the surname and copy the wording and order. Compare the name with the body of the entry before expanding it. Juan Pablo Torres's margin put Torres first and abbreviated Juan [S10], [S2].
 - **Officiating priest:** the opening formula names the priest. Do not record him as the child or a relative [S2].
 - **Legitimacy:** record the term exactly as written (legítimo, hijo natural or an abbreviation such as L) [S10]. In a parish register, legítimo means the parents were married in the church. Natural means the child was not born of a church marriage. Usually that means born out of wedlock [S10], but a child whose parents had married only civilly was also entered as natural [S2]. So "natural" does not prove the parents never married. Search the civil marriage register before you state that they were unmarried. When a child carries the mother's surname, one presenter takes it as a likely sign that the parents were unmarried [S2]. Treat that as a hypothesis.
 - **Casta label:** copy any colonial casta or calidad label (español, mestizo, castizo, mulato, indio and others) exactly as written. It is the priest's or official's description in that one entry. Labels for the same person could shift between records, by passing or drift [S24]. A label mismatch does not, by itself, show that two entries are different people. The label is not proof of ancestry either: it recorded social standing (calidad), judged also by dress, speech and conduct, as well as descent [S24].
@@ -81,9 +83,9 @@ Extract each field separately [S10], [S2]:
 - **Grandparents:** an entry can also name the paternal and maternal grandparents. Extract each one as its own field, marked paternal or maternal, with any birthplace or residence given. Each named grandparent takes the line up a generation [S15]; use them to target the parents' baptisms and marriage. Not every entry names them, and how often they appear varies:
   - Cuban civil and church entries follow the Spanish model and almost always name the grandparents, often with each one's birthplace [S13].
   - One source says baptisms often name both sets from the 19th century on [S16].
-  - One researcher finds that Mexican civil births of legitimate children often name both sets, while the entries for two natural children named no other family [S17].
+  - In Michoacán, the civil births of Salvador Sanchez and his sister Josefina named their parents and described the children as natural. Neither entry named grandparents, although the researcher found both sets in other Mexican civil births [S17].
 
-  Do not read a missing grandparent line as a wrong match. When a civil birth names no grandparents, search the baptism, which can also carry lineage [S17]. A transcribed certificate kept by the family can leave out the grandparents' birthplaces that the original entry gives [S13]; obtain the original register entry before you record a field as absent. If the direct ancestor's marriage cannot be found, search a full sibling's records, which name the same parents [S15].
+  When grandparents are missing, compare the civil birth with the baptism [S17]. Check any family certificate against the register before marking a birthplace unknown. In the Norte de La Habana entry, the grandparents' birthplaces were missing only from the family's transcription [S13]. If the parents of a marriage partner remain unknown, check a full sibling's marriage for the same parents [S15].
 
 For machine- or AI-indexed versions of these entries, use the correct-and-verify loop in the AI-for-documentary-records recipe.
 
@@ -93,8 +95,8 @@ Read the Spanish handwriting from the image; use an online translation only for 
 
 ## 3. Search both name forms and every surname arrangement
 
-- **Devotional prefix.** Priests often added a leading José, Juan or María at baptism, and the person usually dropped it in daily life [S5], [S4], [S11]. Examples: a baptismal José Miguel who is plain Miguel in the census [S11], and an everyday Pablo who was baptized José Pablo [S4]. Search censuses and civil records under the everyday name and baptismal entries under the prefixed form. Keep both forms as separate observations in the name register.
-- **Do not merge siblings who share the prefix.** In some parishes every boy was José and every girl María. That pattern does not mean one child was baptized more than once, or that middle names kept changing [S12]. Tell the siblings apart by the following name, the parents and the dates. How often this happened, and where and when, is less settled. One presenter's example is from 1920s–1930s Mexican baptisms [S12]. Another says the practice has mostly faded over roughly the last century but continues in more conservative areas of Mexico [S4]. For the test for same-named siblings, use the evidence/proof judgment recipe.
+- **Search with and without a devotional prefix.** Try José, Juan or María before the everyday name in baptisms, then try the following name alone in censuses and civil records [S5], [S4]. José Miguel appears as Miguel in census records [S11]. Compare the relatives and dates before recording both names for one person.
+- **Distinguish siblings who share the prefix.** In the registers of one Mexican parish in the 1920s or 1930s, boys repeatedly received José and girls María [S12]. Compare the following name, parents and dates across the whole sibling group. A shared prefix alone cannot identify a duplicate baptism. For a full test, use the evidence/proof judgment recipe.
 - **Compound surnames.** Search under:
   - the paternal surname
   - the maternal surname
@@ -102,13 +104,13 @@ Read the Spanish handwriting from the image; use an online translation only for 
   - the two surnames hyphenated or joined into one word, forms some immigrants adopted in the United States [S18]
 
   A U.S. record may have dropped one surname [S2]. Record every ordering searched and its result.
-- **Immigrants appear under a Spanish form of their name.** In one Puerto Rican marriage record, a couple from the French Caribbean are cited with Spanish forms of their given names [S19]. Another immigrant to Puerto Rico took the Spanish form of his middle name as his given name and his mother's surname as his second surname [S20]. Search the Spanish form and the two-surname pattern as well as the birth name. Keep each form as its own observation in the name register.
+- **Try Spanish forms of each given name and both family surnames.** In an 1869 Vieques marriage, Gustave Jean Charles appears as Gustave Juan Charles [S19]. A search for Isaac Ludwig Solomon Bravo in Puerto Rico also needs Luis Bravo Pardo, the name he used there, taking Luis from Ludwig and Pardo from his mother [S20]. Log each form with its document and compare the family identifiers.
 - **When the index fails, browse the images.** Compound surnames make Latin American indexes unreliable: an indexer has to pick one surname, and people who did not follow the standard pattern get lost [S2]. Browse the chronological registers by place and date [S2], [S4]. A zero-result index query is not an absence finding.
 
 ## 4. Keep each date in its own role
 
 - **Never copy a baptism date into the birth field.** Baptism could be late because of distance, the priest's fee or inertia [S2].
-- **Whole families were sometimes baptized on one day** [S2], [S9]. In one example, two children baptized together looked like twins until their birth dates differed [S9].
+- **Compare each child's birth date before identifying twins.** Siblings could be baptized together [S2], [S9]. Two entries on the same day with the same parents gave different birth dates [S9]. If a birth date is missing, leave twin status unresolved.
 - **Some people were baptized as adults.** The priest could require baptism shortly before a marriage [S1], [S2], [S7].
 - **If no infant baptism turns up, search the months before the marriage** [S7], [S1].
 - **Wording for an entry with only a baptism date:** "born on or before" the baptism, with any estimated interval labelled as calculated. One presenter suggests birth was probably a few weeks earlier [S10]. Because baptisms could be late, treat that only as a starting window. The born-before reasoning is in the evidence/proof judgment recipe.
@@ -129,9 +131,9 @@ When a date is missing, search the register around the given-name saint's feast 
 
   Before the start year, rely on the parish books [S10]. After it, a missing civil entry in a given municipality may be a compliance gap, so keep searching the parish books.
 - **Build a paired event table.** Each row holds the event, the record type, the date role and the locator. A civil entry and a church entry for the same event stay as two rows.
-- **Deaths: get both records.** Search the civil death register as well as the burial book. The civil entry can give the cause of death and name the informant, who may be a relative [S21].
+- **Deaths: get both records.** Search the civil death register as well as the burial book. The civil entry can give the cause of death and name the informant, who may be a relative [S41].
 - **One Mexican marriage can leave several entries with different dates.** Once civil registration was in force, a marriage is often found in both the civil and the church register, usually on different dates [S22]. The civil entry is often the earlier, but the church entry is occasionally earlier [S22]. Different dates mark different stages, not a conflict or a second couple. Do not reject a church entry because it predates the civil act.
-- **A Mexican civil register can hold more than one act for one couple.** The 1859 civil-marriage law set out the steps: a declaration of intention before the registrar, a public notice posted for 15 days, then the marriage act [S22]. Search back from the marriage act for the declaration. In one worked example the declaration, an appointment to marry and the marriage were three numbered acts. The declaration came 24 days before the marriage and gave each party's parents, age, residence and marital status, with two witnesses for each; the church marriage followed days later [S22]. Search for every act and give each its own row and date role.
+- **Search backward for the earlier acts of a Mexican civil marriage.** The 1859 law called for a declaration, a 15-day public notice and a marriage act [S22]. In Monclova in 1890, act 106 recorded the marriage of Gerónimo Garcia and Dolores Cantú, act 105 the appointment, and act 79 the declaration 24 days earlier. Act 79 gave ages, residences, marital status, parents and two witnesses for each party. The parish marriage followed in May [S22]. Give each act its own row, date and locator.
 
 ## 6. Sweep the family from a confirmed anchor
 

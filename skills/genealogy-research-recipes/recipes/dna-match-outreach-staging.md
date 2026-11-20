@@ -71,10 +71,10 @@ Rank every planned recipient by how close the relationship is and how sensitive 
     - the sender was born in this place in this year;
     - if known and permitted, the birth mother's name.
   - Then ask for help. The letter must not state the conclusion. Leave the recipient to work it out and decide whether and how to reply. [S4]
-  - Eberle credits this kind of model letter to a template a genetic genealogist published in 2017, and points to The DNA Geek blog [S4]. The template is Leah Larkin's [Letter to a Birth Parent](https://thednageek.com/letter-to-a-birth-parent/) (The DNA Geek, 2017-07-19). Read the published template before using it. Do not reconstruct it from memory.
+  - Eberle credits this kind of model letter to a template a genetic genealogist published in 2017, and points to The DNA Geek blog [S4]. Leah Larkin published the template as *Letter to a Birth Parent* in 2017 [S22]. Read the published template before using it. Do not reconstruct it from memory.
 - **First cousins, aunts, uncles and anyone in between.** Put them in the sensitive tier unless the tester decides otherwise. A close relative's reply can itself reveal the parentage answer.
-- **A close implicated relative who does not reply.** Do not send repeated or more pointed messages. Write instead to a second cousin on the same line. People a couple of generations removed do not carry the same emotions and are freer to talk factually. Jones has given this advice several times and reports that it worked [S3]. Ask that person for tree facts, not for a ruling on parentage.
-- **Writing again to the same close match.** Wait at least a year, then send a new sensitive-tier message, not a reminder. Bardige gives this advice for a close match (570 cM in his example) who stops replying after first contact [S8].
+- **A close relative does not reply.** Stop sending follow-ups. With the tester's permission, use Jones's alternative [S3]. Write instead to a second cousin on the same line. Ask only for a place, date or family connection. Keep the close match's identity and the parentage question private.
+- **A previously responsive match goes quiet.** A participant reported that a 570 cM match initially discussed the connection and then stopped replying. Record the last exchange and any contact preference. If the person asked for no further contact, stop there. If the tester chooses to write again, Bardige recommended the following approach [S8]. Wait at least a year, then send a new sensitive-tier message, not a reminder.
 
 Contacting a more distant relative is still contact. It needs the same consent and disclosure limits as step 1.
 
@@ -100,7 +100,7 @@ Check the match's linked tree for signs that someone other than the tester runs 
 
 Do not make the one question a request for access to the recipient's test results. Ask for that only after they have replied. Legacy Tree lists results access among useful requests to a genetic cousin [S6]. This governs what a message asks; a site's own connection or sharing request, such as 23andMe's, follows that site's recipe.
 
-Do not make the hypothesis or the question a suspected religious or ethnic origin, such as Jewish ancestry. Ask for neutral tree facts instead, such as how far back the recipient's family records go. Milgrom got no answers while she asked Iberian matches about Jewish lineage. She got usable answers once she asked only whether they had family information going back to the 1400s and 1500s [S10]. Write in the recipient's likely language as well as your own; she sent short templates in English and Spanish [S10].
+Ask a question the recipient can answer from their records. Milgrom reports that questions to Iberian matches about Jewish lineage drew no replies. After she asked whether their family records reached the 1400s or 1500s, some matches could answer [S10]. Ask about a person, place or period without assigning an ancestry to the recipient. Milgrom sent short versions in English and Spanish; choose languages the recipient is likely to use [S10].
 
 For the most sensitive tier, step 2 limits what you may say, and those limits override this list. Leave out any kit or cM detail that would itself tell the recipient how they are related to the tester.
 
@@ -137,7 +137,7 @@ For each message, log the date, recipient, kit, site, channel, sender (tester or
 
 Before the first message to any match, and before posting about the case online, save dated screenshots of the match entry (kit names, shared cM, longest segment) and of any tree linked to the match. Keep them with the log. Matches may later make their profiles private or remove their trees [S7].
 
-Record a missing reply as **no response as of [date]**, never as "refused" or "declined". Silence is common when a close relative is implicated, and it is not an answer. Jones describes a cousin who narrowed her father to one of six brothers and had no reply after more than a year. He attributes this to the brothers all being married now and the risk of disrupting families [S3]. Silence does not confirm or rule out any hypothesis. Respond with the step 2 fallback, not with follow-ups to the same person.
+Record a missing reply as **no response as of [date]**, never as “refused” or “declined”. Jones describes a parentage search that narrowed to six brothers. More than a year after contact, the family had not replied [S3]. Leave the reason for the silence and the identity of the father unresolved. A contact log establishes only what was sent, received or expressly declined.
 
 Record a reply such as "no, I don't recognise those names" as **does not recognise**, never as "no connection". Bardige notes that this is the usual answer to a list of surnames and towns. It means only that the names are not in the recipient's documented tree, so it does not count against the hypothesis [S8].
 

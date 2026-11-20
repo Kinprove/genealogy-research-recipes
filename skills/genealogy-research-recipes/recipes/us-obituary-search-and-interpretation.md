@@ -50,10 +50,10 @@ Before you search, write down what kind of notice the date and place make likely
 
 When the person's own notice is missing or thin, or names a woman only through her husband, search the obituaries of every sibling, child and spouse, not only those of direct ancestors [S1], [S3].
 
-- **A woman missing under her own name.** Federal censuses before 1850 named only the head of household and counted everyone else by age, sex and race [S11], so a wife can be invisible there. Look for her in her children's obituaries [S1]. Search by the full name of a surviving child or sibling, or by her married surname with a daughter's or sister's married surname. Her married and maiden names together can find notices that list her parents or surviving brothers [S4].
+- **A woman missing under her own name.** If a pre-1850 federal population schedule names only the head of household, a wife may appear only in a tally [S11]. Look for her in her children's obituaries [S1]. Search by the full name of a surviving child or sibling, or by her married surname with a daughter's or sister's married surname. Her married and maiden names together can find notices that list her parents or surviving brothers [S4].
 - **An unknown remarriage.** If the expected surname fails, look for the surname she had at death [S5]. Allow for a remarriage you do not know about, and take her later surname from a child's or sibling's survivors list [S1]. A survivors list can give daughters' and sisters' married surnames [S5].
-- **Parents and the mother's maiden name.** A sibling's obituary can name the shared parents, including the mother's maiden name [S1]. Treat that name as a lead. Neill found an obituary that gave the wrong maiden name for the deceased's mother [S7].
-- **Full and half siblings.** Survivors lists often do not separate full from half siblings; in Neill's example an obituary counted four siblings where there were ten. Where a parent married more than once, collect the other siblings' obituaries before you attach a child to a set of parents [S8].
+- **Parents and the mother's maiden name.** Search siblings' obituaries for the mother's name [S1]. In one notice Neill found that the surname attributed to the mother appeared to belong to the grandmother, possibly as her middle name [S7]. Keep the printed name under the stated generation and test both generations against marriage and birth records.
+- **Full and half siblings.** Compare each parent's children across marriages with the people named in the notice. In Neill's case the four listed siblings were three full siblings and one maternal half-sibling. Six paternal half-siblings were omitted [S8]. Record the relationship each notice actually gives and check parentage separately for every sibling.
 
 ## 3. Search past the week of death
 
@@ -105,9 +105,9 @@ Read every name, date and relationship in an obituary as the informant's stateme
 
 Errors can enter at each step, from the informant to the funeral home to the newspaper [S1]. Most obituaries are not checked for accuracy, stated relationships may be wrong, and a poorly edited survivors list can be read in more than one way [S3]. In the nineteenth century, many notices were written by editors or ministers rather than by the family, and names could be misspelled or abbreviated [S9].
 
-Check even explicit relationships. In one woman's death notice, the MyHeritage author found her sons and daughters listed as her brothers and sisters [S1]. Neill found stated relationships changing from one obituary to another after remarriages and divorces [S7].
+Check the relationship label against a record that identifies the same people in another role. Eliza Bryant's Atlanta death notice listed her children as her brothers and sisters [S1]. Compare each relative's own notice as well. Neill found that the named relatives and their stated relationships could differ between notices in a family with remarriages or divorces [S7].
 
-A missing spouse, child, sibling, employer or military service is not evidence that none existed. Omissions come from editing mistakes, limits of length or cost, and compilers who lacked the information or chose not to share it; in Neill's example an obituary mentions two marriages but says nothing about the first spouse [S10]. Families also choose what to print in limited space [S1].
+A missing spouse, child, sibling, employer or military service is not evidence that none existed. When a notice mentions two marriages but gives no outcome for the first, search for both a death and a divorce before assigning an end date [S10]. Record the omission with the printed wording. Space, cost and the informant's knowledge can affect what the family includes [S1], [S10].
 
 Read praise as a portrait, not as a balanced biography. Editors sometimes embellished lives, especially those of prominent people, and left out less flattering details [S9]. The MyHeritage author finds that obituaries show the deceased in the best light and may leave negative events out [S1]. Silence in an obituary does not show that nothing adverse happened.
 
