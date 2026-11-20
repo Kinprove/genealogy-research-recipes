@@ -58,6 +58,8 @@ Create one row for each form you expect or observe. Record the literal form, the
 - **Soldier byname.** Search the regiment and local muster under both civil and soldier names [S8]. John Falk in America was known as Johan Magnus Anderson in Swedish records [S1]. A brother could also adopt a soldier’s byname abroad [S5]. Confirm which man served before using the name to link his family.
 - **Adopted American name.** A surname can name an earlier generation’s town. Walter Slangerup adopted the name of his great-grandfather’s Danish town after emigration. His own birth entry had to be sought under a patronymic [S2].
 
+In Swedish household examination books, compare surname forms across generations before using a child's surname stem as a clue to the father's given name [S39], [S40]. A *-son* form that stays the same as the fathers' given names change points to a fixed surname [S40]. When the records support a patronymic, use the stem as a search lead and verify the father in the child's baptism entry.
+
 In your tree, enter the name exactly as it appears in the christening (the first record) as the primary form. Log every farm, soldier or American name as an alternate with its source [S6].
 
 ## Follow a Swedish soldier name beyond the muster index
