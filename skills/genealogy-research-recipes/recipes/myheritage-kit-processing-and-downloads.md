@@ -24,9 +24,15 @@ Use this recipe if you need to distinguish an uploaded array result from a seque
 
 Download the regular raw DNA file to the user’s own device if a copy is required. Open only the file header to check for the platform’s processing description. Record the method and kit date in the research log, keeping an ambiguous or missing header unresolved. [S1 @2026-11-18], [S2 @2026-11-18], [S4 @2026-11-18]
 
-## Interpret low-pass coverage and imputation
+Use late-2025 processing dates as rollout context. [S6 @2026-11-20] Expect WGS for new samples sent to MyHeritage’s lab from January 2026. A kit upgraded to DNA Health before it reached the lab uses the older array. Confirm the tester’s processing method in the raw file header. [S4 @2026-11-20]
+
+If the research requires inspecting genotype rows in desktop Excel, extract the text file on the user’s device if it came in a ZIP. Select the delimiter used in the file, such as Tab or Comma, and check the columns in the import preview. Keep the file on the user’s device. [S9 @2026-11-20], [S10 @2026-11-20], [S11 @2026-11-20]
+
+## Interpret low-pass coverage, phasing and imputation
 
 For the 2× low-pass implementation described by MyHeritage, read 2× as mean depth across positions. Individual sites can differ from that average. Treat an imputed genotype as a statistical estimate and distinguish it from a directly observed read when documenting your evidence. [S1]
+
+Use phasing to group variants inherited together. [S9] Assign a phased group to the mother or father only when separate evidence establishes the parental side. [S12] Leave parental origin unresolved when the only clue is the order of alleles in a MyHeritage raw file. [S10]
 
 ## Choose the file that answers the question
 
@@ -35,6 +41,8 @@ For the 2× low-pass implementation described by MyHeritage, read 2× as mean de
 Choose the regular raw autosomal file when the task expects a genotype file. Choose the **Specialized Genomic CRAM File** for sequence reads from a MyHeritage kit processed with WGS. Download the CRAM locally only when the research question requires it. [S1 @2026-11-18], [S2 @2026-11-18]
 
 ## Check options for an array result
+
+Rule out a fresh raw DNA upload from another testing service when planning a MyHeritage match search. MyHeritage has closed the upload route described in older guidance. [S7 @2026-11-20], [S8 @2026-11-20]
 
 **Privacy gate:** <!-- privacy-gate: upload --> The tester’s biological sample and kit identifiers would go to MyHeritage and its laboratory. Confirm the tester’s authorization and apply the [privacy gate](../SKILL.md#privacy-gate) before submission.
 
