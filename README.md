@@ -305,7 +305,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [source-citation](skills/genealogy-research-recipes/recipes/source-citation.md) | — | — | — | — | — | — |
 | [southern-claims-commission-case-files](skills/genealogy-research-recipes/recipes/southern-claims-commission-case-files.md) | public catalogues, documentation and historical records | — | — | — | — | — |
 | [soviet-personal-file-recovery](skills/genealogy-research-recipes/recipes/soviet-personal-file-recovery.md) | record catalogues and original images | — | — | request | — | required |
-| [spanish-civil-parish-record-routing](skills/genealogy-research-recipes/recipes/spanish-civil-parish-record-routing.md) | record catalogues and original images | — | — | request | — | required |
+| [spanish-civil-parish-record-routing](skills/genealogy-research-recipes/recipes/spanish-civil-parish-record-routing.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [state-archives-county-records-guides](skills/genealogy-research-recipes/recipes/state-archives-county-records-guides.md) | state archives county guides, catalogues and finding aids, FamilySearch catalogue | — | — | — | — | — |
 | [state-legislative-private-act-petitions](skills/genealogy-research-recipes/recipes/state-legislative-private-act-petitions.md) | record catalogues and original images | — | — | request | — | required |
 | [surname-distribution-locality-leads](skills/genealogy-research-recipes/recipes/surname-distribution-locality-leads.md) | record catalogues and original images | — | — | — | — | — |

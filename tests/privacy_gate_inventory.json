@@ -3220,5 +3220,11 @@
   "kind": "third-party-tool",
   "action": "Search by the deceased's name and any known death date or place",
   "checkpoint": "MyHeritage receives the deceased person's name and any death date or place entered"
+ },
+ {
+  "recipe": "spanish-civil-parish-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's Spain, Barcelona Marriages",
+  "checkpoint": "Submitting this search sends the historical spouses' names"
  }
 ]
