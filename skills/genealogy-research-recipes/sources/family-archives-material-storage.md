@@ -4,7 +4,7 @@
 
 - **S2:** [Celebrating 15 Years of the Family Tree Magazine Podcast](https://www.youtube.com/watch?v=yFTJ_vF6x3E), published 2024-01-14. Reviewed 2026-11-18, video, access unknown. Opened the video URL on 2026-11-18 but playback or the full transcript was not accessible. Used the supplied transcript excerpt to identify the interview’s advice on storing, handling and repairing family Bibles and bound albums.
 
-- **S3:** [U.S. National Archives, Storing Family Papers and Photographs](https://www.archives.gov/preservation/family-archives/storing). Reviewed 2026-11-18, web-page, access read. Read 2026-11-18. Archival enclosure sizing, flat and rolled storage, sleeves and protection of albums.
+- **S3:** [U.S. National Archives, Storing Family Papers and Photographs](https://www.archives.gov/preservation/family-archives/storing). Reviewed 2026-11-20, web-page, access read. Read 2026-11-18. Archival enclosure sizing, flat and rolled storage, sleeves and protection of albums. Rechecked 2026-11-20 for shelving away from damp basements and garages, and for the formats and packaging discussed under cold storage.
 
 - **S4:** [U.S. National Archives, How can I preserve an important edition of a newspaper?](https://www.archives.gov/preservation/holdings-maintenance/newspaper.html). Reviewed 2026-11-18, web-page, access read. Read 2026-11-18. Separate flat housing for newsprint and copying where content matters more than the artifact.
 
@@ -17,6 +17,22 @@
 - **S8:** [Library of Congress, Preserving Your Books, Repairing](https://guides.loc.gov/preserving-your-books/repairing). Reviewed 2026-11-18, web-page, access read. Read 2026-11-18. Staff guidance on boxing fragile books and qualified conservation treatment.
 
 - **S9:** [Smithsonian National Museum of African American History and Culture, Hometown Treasures Toolkit for Individuals](https://nmaahc.si.edu/sites/default/files/2022-05/family_treasures_toolkit_individuals_20220520.pdf). Reviewed 2026-11-18, pdf, access read. Read 2026-11-18. Museum staff guidance for boxing textiles and supporting folds with unbuffered acid-free tissue.
+
+- **S10:** [Melina Papadopoulos, A Guide to Photography for Genealogy Research and Projects](https://familytreemagazine.com/photos/a-guide-to-photography-for-genealogy-research-and-projects/), posted in February 2024 and updated 2026-05-04. Reviewed 2026-11-20, web-page, access read. Read 2026-11-20. The author advises dry, stable storage and clean hands for albums, suggests gloves and card stock, and warns against using heat or other home methods to remove a photograph stuck to glass.
+
+- **S11:** [Library of Congress, Care, Handling and Storage of Photographs](https://www.loc.gov/preservation/care/photo.html). Reviewed 2026-11-20, web-page, access read. Read 2026-11-20. Preservation staff guidance on cool, relatively dry, stable conditions, lower temperatures for color photographs and film negatives, and handling by the edges.
+
+- **S12:** [U.S. National Archives, Family Archives: General Guidance](https://www.archives.gov/preservation/holdings-maintenance/general-guidance.html). Reviewed 2026-11-20, web-page, access read. Read 2026-11-20. Preservation staff recommend interior closets above ground and specify acid-free, lignin-free paper and the Photographic Activity Test for materials used to house photographs.
+
+- **S13:** [Family Tree Magazine, 5 Genealogy “Crimes” You Should Forgive Yourself For (Plus Some You Shouldn’t)](https://familytreemagazine.com/strategies/genealogy-crimes/). Reviewed 2026-11-20, web-page, access snippet-only. The publisher returned HTTP 403 on 2026-11-20. The search extract showed the interior-room and off-floor advice. The supplied excerpt is the basis for attributing the advice to move papers before scanning.
+
+- **S14:** [Library of Congress, Photographs FAQ](https://loc.gov/preservation/about/faqs/photographs.html). Reviewed 2026-11-20, web-page, access read. Read 2026-11-20. Preservation staff advise well-fitting gloves when handling photographs and film and explain the risk of serious damage when detaching photographs stuck to glass.
+
+- **S15:** [U.S. National Archives, Tips for Handling Family Papers and Photographs](https://www.archives.gov/preservation/family-archives/handling.html). Reviewed 2026-11-20, web-page, access read. Read 2026-11-20. Preservation staff distinguish bare-handed handling of paper with freshly washed hands from gloved handling of photographs and negatives.
+
+- **S16:** [Daniella Levy, 7 Reasons You Need the Reimagine App](https://blog.myheritage.com/2023/08/7-reasons-you-need-the-reimagine-app/), published 2023-08-22. Reviewed 2026-11-20, web-page, access read. Read 2026-11-20. The author advises displaying scanned photographs and storing the original album where it will be handled less often.
+
+- **S17:** [U.S. National Archives, Displaying Family Papers and Photographs](https://www.archives.gov/preservation/family-archives/displaying). Reviewed 2026-11-20, web-page, access read. Read 2026-11-20. Preservation staff recommend displaying copies made from scans and keeping the originals boxed to limit light exposure.
 
 ## Credits
 
