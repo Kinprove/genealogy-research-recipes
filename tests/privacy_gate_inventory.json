@@ -3232,5 +3232,65 @@
   "kind": "contact",
   "action": "ask staff to search them remotely",
   "checkpoint": "Before contacting library or archive staff"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "request",
+  "action": "Request a California informational birth or death copy",
+  "checkpoint": "Before sending the subject's name and event details"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "request",
+  "action": "Request the Ohio birth certificate",
+  "checkpoint": "Before sending an Ohio birth request"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "request",
+  "action": "After a birth-record request under an expected given name",
+  "checkpoint": "Clear the Record requests gate before giving the local registrar"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "Search FamilySearch's *California, Deaths and Burials",
+  "checkpoint": "Before using the California indexes below for a name search,"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "Archives.com's *California Death Index",
+  "checkpoint": "Before using the California indexes below for a name search,"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "give MyHeritage's *California, County Death Registers",
+  "checkpoint": "Before using the California indexes below for a name search,"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "For the Ohio county rows, search FamilySearch",
+  "checkpoint": "Before entering identifying details in the Ohio FamilySearch indexes,"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "search FamilySearch's *Ohio, Deaths, 1908–1953*",
+  "checkpoint": "Before entering identifying details in the Ohio FamilySearch indexes,"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "third-party-tool",
+  "action": "search MyHeritage's *New York State Deaths",
+  "checkpoint": "Before running the New York death-index name search,"
+ },
+ {
+  "recipe": "us-vital-registration-coverage.md",
+  "kind": "request",
+  "action": "For a certified 1954–1970 copy, use the health department",
+  "checkpoint": "Before sending an Ohio death-copy request,"
  }
 ]
