@@ -104,6 +104,22 @@ propose searches for the topmost name. A relationship-viewer path only repeats t
 each link, also flag biologically impossible timing; a birth after the father's death alone is
 not an impossibility. Walk the documented line back until a relationship lacks support [B15], [S1]. If a register is missing, record its coverage and the evidence still needed for that parent-child link [S2].
 
+If a compiled chart cites an English will for an American immigrant’s parentage, locate the
+will by testator, probate court and probate date. Inspect the original will or the court’s
+registered copy and cite the exact passage that bears on parentage [S4]. Leave the link open
+if the will is unlocated, unavailable for inspection or insufficient to support the claim.
+
+When a photograph of a pedigree supplies a decisive name or relationship, compare the exact
+entry with the original and record both locators [S5]. Flag details that occur only in the
+reproduction. Comparing a scanned letter with its original exposed a substituted son’s name
+[S5]. According to supplied transcript excerpts from a reading of Jacobus’s chapter, a
+separate photographed pedigree included decisive details absent from the original [S3†]. The
+recording and full transcript were unavailable.
+
+Verify each parent-child link in a published royal pedigree even when a lineage society has
+accepted the line. Use any application and attachments in the packet as leads to the citations
+and supporting records, then audit those records against the claimed links [S6].
+
 ## Audit the searches behind an absence claim
 
 Keep search history distinct from an event timeline: the log can contain searches

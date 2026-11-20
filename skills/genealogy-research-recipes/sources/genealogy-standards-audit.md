@@ -63,8 +63,20 @@ citations and certification rubrics are not reproduced. Checked 2026-10-07.
 
 - **S2:** James Tanner, BYU Family History Library, [Brickwall vs. End-of-Line, Which is it?](https://www.youtube.com/watch?v=i5nCiwPqqCQ). Discussion of surviving records in the presentation transcript read 2026-11-19.
 
+- **S3:** Craig R. Scott, Just Genealogy, [Genealogy as Pastime and Profession, Chapter VI - Royal Ancestry - JG0331](https://www.youtube.com/watch?v=G1liYml2_-8) (2023-09-23), a reading of Donald Lines Jacobus. Video title and description checked in search results 2026-11-20. The watch page and full transcript were unavailable. In the supplied transcript excerpts, Jacobus describes a chart relying on purported wills he calls fictitious and a photographed pedigree supplying decisive information absent from the original. He describes society acceptance of some examples as his understanding. S4–S6 support the audit procedures independently of these historical anecdotes.
+
+- **S4:** The National Archives, [Wills and Administrations 1383–1858 and Death Duty Registers 1796–1903](https://cdn.nationalarchives.gov.uk/documents/records/ifa-wills-and-admins-1383-1858-death-duty-registers-1796-1903.pdf). Probate search instructions read 2026-11-20. The guide distinguishes the Prerogative Court of Canterbury’s registered copies and original wills and identifies the search details for locating them.
+
+- **S5:** Elizabeth Shown Mills, [Working with Historical Evidence: Genealogical Principles and Standards](https://historicpathways.com/download/workwthhistevidence.pdf), *National Genealogical Society Quarterly* 87 (September 1999), 165–84. The altered letter example on page 172 read 2026-11-20. Mills describes a scan used to support descent in which one son’s name had been replaced, as revealed by inspecting the original letter. This is a separate case from the photographed pedigree in S3.
+
+- **S6:** Barbara J. Mathews and Darcie Hind Posz, [Meeting Lineage Society Requirements: Part 2, Standards](https://genealogical.com/2021/10/25/meeting-lineage-society-requirements-part-2-standards/) (2021-10-25). Guidance on older applications and evidence standards read 2026-11-20. The authors advise following the citations and checking the documents filed with an application before relying on the lineage.
+
 ## Credits
 
+- Donald Lines Jacobus, read by Craig R. Scott (S3) — Teaching examples paraphrased with attribution (adapted)
+- The National Archives (S4) — Probate search method paraphrased with attribution (adapted)
+- Elizabeth Shown Mills (S5) — Published example paraphrased with attribution (adapted)
+- Barbara J. Mathews and Darcie Hind Posz (S6) — Published guidance paraphrased with attribution (adapted)
 - James Tanner, BYU Family History Library (S2) — Teaching example paraphrased with attribution (adapted)
 - James Tanner, BYU Family History Library (S1) — Teaching example paraphrased with attribution (adapted)
 - Kinprove — original genealogy standards audit synthesis — FSL-1.1-MIT (kinprove-original)
