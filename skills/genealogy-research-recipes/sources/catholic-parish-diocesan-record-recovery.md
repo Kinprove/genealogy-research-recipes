@@ -76,6 +76,12 @@
 
 - **S60:** Holy See, [Code of Canon Law, canon 1091](https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann998-1165_en.html). Read 2026-11-19 for the fourth degree in the collateral line.
 
+- **S61:** Lisa A. Alzo, Family Tree Magazine, [A Guide to Polish Genealogy Research](https://familytreemagazine.com/heritage/polish/a-guide-to-polish-genealogy-research/). Community article, last updated 2026-10-30. Read the church records section on 2026-11-20 for Alzo's suggestion to check archdiocesan holdings for earlier or later years missing at the parish.
+
+- **S62:** Archiwum Archidiecezjalne w Poznaniu, [Genealogia](https://aap.poznan.pl/o-archiwum/uslugi-archiwalne/genealogia/). Official archive guide. Read 2026-11-20 for the baptism, marriage and death register holdings and the instruction to search the inventory by parish name.
+
+- **S63:** Archiwum Archidiecezjalne w Poznaniu, [Zarządzenie o przekazywaniu archiwaliów i duplikatów](https://aap.poznan.pl/zarzadzenie-metropolity-poznanskiego-o-przekazywaniu-archiwaliow-do-archiwum-archidiecezjalnego-w-poznaniu/). Archdiocesan order dated 2013-02-22. Read 2026-11-20 for the distinction between depositing older parish registers and making scanned duplicates of other registers before returning the originals to the parish.
+
 ## Credits
 
 - Roberta Estes, DNAeXplained, posts of 2023-05-22, 2023-10-08 and 2025-05-04, cited as S36, S45 and S47 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
@@ -83,4 +89,5 @@
 - Les Guédry et Petitpas d'Asteur pages, DWDS dictionary entries, the Roland zu Dortmund document list and the Catholic Encyclopedia, cited as S37–S42, S44 and S46 — Facts and word senses paraphrased with attribution (adapted)
 - Ahnenforschung.net Forum thread 'Batschkaforscher! Digitale Matriken des Erzbischöflichen Archivs von Kalocsa', participant post quoting a row of the Kalocsa archive locality spreadsheet — Short factual data excerpt; rights remain with the forum author and the archive (quoted)
 - MyHeritage Blog posts of 2024-10-08 and 2024-10-15, the Florentine naming study and the Seattle and Boston archdiocesan guides, cited as S48–S52 — Suggestions and findings paraphrased with attribution (adapted)
+- Lisa A. Alzo's Family Tree Magazine guide and the Poznań Archdiocesan Archive's genealogy guide and transfer order, cited as S61–S63 — Advice and archival procedures paraphrased with attribution (adapted)
 - Kinprove original procedural synthesis drawing on talks S1–S13, forum threads S14–S15 and the paraphrased research accounts S16 and S24, with Swiss and Latgale routing cited to the official pages S17–S23 and dispensation-degree counting cited to the reference and archive pages S25–S28, and the Latgale revision and Białystok diocesan-copy leads cited to the reference, journal, catalogue, archive and episcopal pages S29–S35; earlier checks against provider, archive and diocesan pages and the Code of Canon Law do not verify S16's archival or eligibility claims — FSL-1.1-MIT (kinprove-original)
