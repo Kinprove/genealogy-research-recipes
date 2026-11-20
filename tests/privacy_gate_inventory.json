@@ -3226,5 +3226,11 @@
   "kind": "third-party-tool",
   "action": "Search MyHeritage's Spain, Barcelona Marriages",
   "checkpoint": "Submitting this search sends the historical spouses' names"
+ },
+ {
+  "recipe": "local-repository-uncatalogued-holdings.md",
+  "kind": "contact",
+  "action": "ask staff to search them remotely",
+  "checkpoint": "Before contacting library or archive staff"
  }
 ]
