@@ -94,6 +94,8 @@ Inspect the margins of the marriage entry as well as its main text. The SSA’s 
 - **Check whether the diocesan archive keeps duplicates.** A book missing in the parish may survive there.
 - **Record originals and duplicates as separate holdings,** with the rules in [Catholic parish and diocesan record recovery](catholic-parish-diocesan-record-recovery.md), step 3.
 
+**Check the diocesan inventory by parish and sacrament for Castilian events before 1550.** The claimed 1550 start for Castilian church records [S53] would miss the 1494 Nofuentes baptism entry documented by the Archdiocese of Burgos [S54].
+
 ## 4. For Andorra, ask the holders and widen to the Catalan valleys
 
 - **Ask the parish and the Arxiu Nacional d'Andorra [S42 @2026-11-13] where the parish books can be consulted.** Record which holder answered and what form (original or copy) they hold.

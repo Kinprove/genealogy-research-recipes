@@ -65,6 +65,10 @@ The decision order, the period and diocese routing, the survival-before-loss che
 
 - **S52:** Arxiu Diocesà de Barcelona, [Arxius Parroquials](https://arxiu.esglesia.barcelona/arxius-parroquials/). Public catalogue read 2026-11-20. Used for the independent route through the archive's listings of parishes with surviving pre-Civil War records.
 
+- **S53:** Raquel Cañizares, MyHeritage Blog, [I Discovered the Girl in a Faded 18th-Century Painting Was My Direct Ancestor](https://blog.myheritage.com/2025/09/i-discovered-the-girl-in-a-faded-18th-century-painting-was-my-direct-ancestor/) (25 September 2025). Community post read 2026-11-21. Cañizares reports tracing her family from Trigueros del Valle back to 1550 and describes 1550 as the earliest year for church records in Castile. S54 documents the counterexample to that regional date.
+
+- **S54:** Archdiocese of Burgos, [El Archivo Diocesano: Historia al servicio de la sociedad](https://www.archiburgos.es/patrimonio/archivo-diocesano-burgos) (16 February 2020). Public article read 2026-11-21. The description of the parish fonds identifies a baptism entry from Nofuentes dated 1494. The evidence reviewed was the archive's description of the entry.
+
 ## Credits
 
 - Kinprove original procedural synthesis; civil-registration dates, diocesan boundaries, custody, series scope and access rules checked against BOE and Gaceta legal texts, the Acta Apostolicae Sedis, PARES and Archivo Histórico Nacional pages, diocesan, provincial, foral and notarial-college pages, Defence and Culture ministry pages and the Army's personnel-custody guide, INE statistics, open-data and university library records, reference pages, an Andorran law and archive pages and a journal article cited as S1 to S45 — FSL-1.1-MIT (kinprove-original)
