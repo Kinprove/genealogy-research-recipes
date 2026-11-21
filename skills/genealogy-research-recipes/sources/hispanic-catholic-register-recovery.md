@@ -97,7 +97,7 @@ No Catalog structure, diocesan holding or current FamilySearch behaviour is asse
 attributed descriptions and the dated checks recorded in the entries above. Documentation checks
 do not establish the contents or availability of an individual register.
 
-### Sources S37–S41
+### Sources S37–S45
 
 - **S37:** BYU Script Tutorial, [Spanish: Alphabet Charts](https://script.byu.edu/spanish-handwriting/alphabet/alphabet-charts), read 2026-11-12. Used for: the handwritten letter charts and the tutorial's menu of techniques and tools (common phrases, abbreviations, numbers, names, genealogical glossary), document guides and interactive baptism exercises. The page states no terms of use or login.
 - **S38:** Michelle Mickelson, Family Locket, [Southwestern United States Research: Key Records and Repositories Part 5 – Native American and Spanish Language Resources](https://familylocket.com/southwestern-united-states-research-key-records-and-repositories-part-5-native-american-and-spanish-language-resources/), published 2024-03-15, read 2026-11-12. Used for: online translation tools for a preliminary understanding only, and the BYU Script Tutorial as a free online resource with Spanish paleography tutorials.
@@ -107,8 +107,15 @@ do not establish the contents or availability of an individual register.
 
 - **S41:** Legacy Tree Genealogists, [Latin American Research: Church & Civil Records](https://www.legacytree.com/blog/the-bread-and-butter-of-latin-american-research-church-and-civil-registration-records), 2022-02-17. Article text read 2026-11-19. Used for the information available in civil death records.
 
+- **S42:** Nancy Hendrickson, Family Tree Magazine, [California Genealogy Research Guide](https://familytreemagazine.com/us/california-genealogy-research-guide/). Search extract read 2026-11-20 after direct access returned HTTP 403. The extract identifies the Early California Population Project as a source for mission baptisms, marriages and burials. The Huntington’s own project description verifies the collection scope (S43).
+- **S43:** The Huntington, [Early California Population Project](https://www.huntington.org/library/library-collections/early-california-population-project). Project description read 2026-11-20. Used for the mission baptism, marriage and burial database and its overall 1769–1850 date range. S44 gives exceptions to that coverage.
+- **S44:** Early California Population Project, [Project Overview](https://ecpp.ucr.edu/overview.html). Project overview read 2026-11-20. Used for the transcription basis, register numbering, Los Angeles Plaza Church (1826–1848), Santa Barbara Presidio (1782–1848) and the loss of Mission Soledad’s burial records.
+- **S45:** Early California Population Project, [Tips](https://ecpp.ucr.edu/tips.html). Search instructions read 2026-11-20. Used for the mission identifier codes and the separate baptism, marriage and burial searches. The tips note that register numbers can be skipped or repeated.
+
 ## Credits
 
+- Nancy Hendrickson, Family Tree Magazine California research guide, cited as S42 — Third-party content. Search recommendation paraphrased with attribution (adapted)
+- The Huntington and University of California, Riverside, Early California Population Project documentation, cited as S43 to S45 — Third-party documentation paraphrased with attribution. No register content reproduced (adapted)
 - Nicolás Cabrera, Denver Public Library, Hispanic and Southwest Genealogy Tips and Strategies, Part 7, 2022-04-12, cited as S40 — Third-party content; the page states no licence; short adapted paraphrase with attribution (adapted)
 - Price Genealogy, A Beginner’s Guide to Latin American Genealogy, cited as S39 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Michelle Mickelson, Family Locket, Southwestern United States Research: Key Records and Repositories Part 5, 2024-03-15, cited as S38 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
