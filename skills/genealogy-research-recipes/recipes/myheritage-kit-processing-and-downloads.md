@@ -44,6 +44,8 @@ Choose the regular raw autosomal file when the task expects a genotype file. Cho
 
 Rule out a fresh raw DNA upload from another testing service when planning a MyHeritage match search. MyHeritage has closed the upload route described in older guidance. [S7 @2026-11-20], [S8 @2026-11-20]
 
+If the tester already has results uploaded from another service, review that kit’s free DNA Matches before considering a new test for matching. [S13 @2026-11-21], [S14 @2026-11-21] Check what the user’s account already includes for that kit before relying on advanced tools such as the Chromosome Browser. Access can depend on the upload date, a subscription, or a per-kit unlock. [S15 @2026-11-21]
+
 **Privacy gate:** <!-- privacy-gate: upload --> The tester’s biological sample and kit identifiers would go to MyHeritage and its laboratory. Confirm the tester’s authorization and apply the [privacy gate](../SKILL.md#privacy-gate) before submission.
 
 If the kit contains only an uploaded array file and the research requires WGS, use a new MyHeritage cheek-swab kit for the tester’s physical sample. Keep the old result and the newly processed kit distinct in your log. [S1 @2026-11-18], [S4 @2026-11-18], [S5 @2026-11-18]
