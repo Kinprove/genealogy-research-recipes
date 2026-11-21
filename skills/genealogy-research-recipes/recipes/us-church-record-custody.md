@@ -18,6 +18,16 @@ router: {"section": "Records by country and region", "group": "United States: pe
 
 Use this when a U.S. ancestor's baptism, marriage, burial or membership record is needed and the denomination, the congregation or the current holder of its registers is unknown or uncertain. Before searching, work out the exact denominational branch, the record types that branch kept, the congregation or minister who kept the entry, and who holds those registers now. Do not report "not found" or "records lost" until that custody path has been checked. For tracing custody through jurisdiction and holding changes in general, use [locality coverage in research documentation](research-documentation.md). For directory addresses, use [city-directory observations](city-directory-observation-workflow.md). For church-news searching, use [newspaper search recovery](newspapers-com-search-recovery.md). For identity rulings, use [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Pin the branch, not the family name of the faith
+- Write down what that branch recorded
+- Build a dated congregation candidate register
+- Work the officiant
+- Read circuit entries without moving the family
+- Trace custody for a closed or unknown congregation
+- Bound every negative
+
 ## Pin the branch, not the family name of the faith
 
 "Lutheran", "Presbyterian", "Baptist" or "Catholic" is not enough to find an archive. Record the exact branch for the place and period, and record its mergers and splits.
@@ -46,6 +56,8 @@ Before searching, list the record types you expect for each candidate congregati
 - **Confirmation entries:** Use a confirmation entry to add a dated rite location and its sponsors or witnesses to the candidate register. Check that denomination’s and parish’s confirmation practice before estimating an age: teenage confirmation is not universal. The church’s location directs a residence search; it does not itself establish the person’s home address. [S35], [S36]
 
 - **Family, communicant and financial records:** Inventory more than the vital-event books: check family registers, communicant and membership lists, and administrative or financial records that may name donors. A family register groups entries by household; a communicant or contribution list gives another dated appearance. Preserve the recorded role rather than treating a donation or communion appearance as permanent membership. [S39], [S40], [S41], [S32]
+
+- **Old Kanawha Baptist Church.** For the congregation in Pratt, West Virginia, search Eugene Lincoln Peck and Regina Peck Andrus’s *Old Kanawha Baptist Church Minutes, Indexed, Plus Unpublished County Court Records of West Virginia*. Check the July 1796–August 1845 transcription for meetings, baptisms and member dismissals. Search the separate county-record section in the same book and cite each hit to the section it came from. [S55], [S56], [S57]
 
 Membership lists are dated observations of presence. A first or last appearance brackets joining or leaving. It is not a birth or death. Where a body admitted members only at an older age, an admission is not a birth. [S1]
 
@@ -99,6 +111,10 @@ For each candidate, record: name, branch, place name as it changed, dates active
 
 - **Latter-day Saints:** For Latter-day Saint membership evidence, use the Church History Library’s Record of members collection, 1836–1970, and search the catalogue by the ward or branch. The library’s guide says acquisitions after the 1960s–1970s microfilming project are catalogued separately, so the main collection is not the whole search. Record the particular series and its access conditions, without assuming an online image is available. [S46 @2026-11-16], [S47 @2026-11-16]
 
+- **Connecticut historical society holdings.** Look for published church records and for church-record abstracts in the genealogical manuscripts filed by town or family at the Connecticut Museum of Culture and History in Hartford, formerly the Connecticut Historical Society. Use a copy or abstract to identify the congregation and trace the register. [S48 @2026-11-20], [S51 @2026-11-20], [S52 @2026-11-20]
+
+- **Connecticut State Library.** Look up the town and congregation in *Church Records by Town*. Record the call number, reel or archival reference and distinguish original registers from copies. The SLI notation marks coverage by the separate Church Records Index. Use an index slip’s town, church, volume and page to locate the entry. If the needed register is outside the index, browse the relevant volume or reel by year. [S48 @2026-11-20], [S53 @2026-11-20], [S54 @2026-11-20]
+
 ## Bound every negative
 
 Keep four states separate: **never-created**, **unlocated** (custodian unknown), **unsearched**, and **searched with no hit**. For each search, record the holder, the catalogue checked, the series and years inspected, and the index scope.
@@ -106,5 +122,7 @@ Keep four states separate: **never-created**, **unlocated** (custodian unknown),
 - An online index covers only what was scanned. Ancestry scanned and indexed many, but not all, of the Presbyterian Historical Society's congregational records, and the Society keeps no central index of names. [S12] A miss in an Ancestry or FamilySearch index is not proof of absence. Use [Ancestry search recovery](ancestry-record-search-recovery.md) or [FamilySearch workflows](familysearch-practical-record-workflows.md) for index diagnosis. Record Hall's Index's cutoff (about 2015) as part of its scope.
 - A county history's statement that records "no longer exist" is the author's view when the history was written. Allen treats such records as possibly held elsewhere. [S6], [S7]
 - Repository databases are updated from time to time without announcement. Date each check. [S8]
+
+- **Early Connecticut marriages.** Use Frederic W. Bailey’s *Early Connecticut Marriages as Found on Ancient Church Records Prior to 1800* to locate candidate entries. Use Scott Andrew Bartley’s annotated table of contents to identify the church, years and volume and page across the seven books. Check the original edition’s errata if the reprint omits them, and compare Bailey’s reading of each name with the church register. [S48], [S49], [S50]
 
 Return: the candidate register, expected record types, a custody trail (holder, how it was confirmed, catalogue checked, index scope), officiant leads (name, title, service dates, pastoral registers searched), and the bounded negatives.
