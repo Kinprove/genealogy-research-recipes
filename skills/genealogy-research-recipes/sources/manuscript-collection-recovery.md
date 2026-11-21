@@ -87,8 +87,31 @@ The two Tanner talks give conflicting extents and family relationships for the s
 
 - **S69:** [University of Utah, J. Willard Marriott Library, Mormon Settlement in Arizona, Mountain West Digital Library](https://mwdl.org/mwdl-collections/mormon-settlement-in-arizona/). Institutional guide or finding aid read 2026-11-19. Describes Tanner’s collected material as including photocopied or transcribed diaries, histories, correspondence and other papers. This description does not identify the custodian of the underlying original of every item.
 
+- **S70:** Naama Lanski and Daniella Levy, [The Polish Priest Who Revived the Legacy of a Lost Jewish Community](https://blog.myheritage.com/2024/05/the-polish-priest-who-revived-the-legacy-of-a-lost-jewish-community/), MyHeritage Blog, 2024-05-05. Community post read 2026-11-20. Reports that Leszek Szkudlarek gathered historical materials from Chocz residents, including from a resident who found books and papers associated with former Jewish residents while renovating his home.
+
+- **S71:** Irena Kuczyńska, [„Chocz Ziemia Obiecana?” – historię żydowskiej społeczności opisał katolicki ksiądz](https://irenakuczynska.pl/chocz-ziemia-obiecana-historie-zydowskiej-spolecznosci-opisal-katolicki-ksiadz/), InfoPleszew, 2024-03-10. Local report read 2026-11-20. Describes prayer books found beneath beams during renovation and handwritten notes on the inside covers. Used for the private lead and findspot, with current custody and the identity of earlier owners unresolved.
+
+- **S72:** David Ridd, [D-Day and Your Family History: Rediscovering Roots Through World Events](https://blog.myheritage.com/2025/11/d-day-and-your-family-history-rediscovering-roots-through-world-events/), MyHeritage Blog, 2025-11-09. Community post read 2026-11-20. The author suggests searching military archives, veterans’ organisations and local historical societies for private correspondence and personal papers.
+
+- **S73:** Library of Congress, [World War II Veterans: Resources in the Veterans History Project, Advanced Search Techniques](https://guides.loc.gov/world-war-ii-veterans/advanced-search). Institutional guide read 2026-11-20. Describes the war, unit and campaign search limits and explains that the veteran or donor may have omitted battle details from the description.
+
+- **S74:** Library of Congress, [D-Day 75th Anniversary](https://wwws.loc.gov/vets/stories/ex-war-dday75.html). Institutional collection feature read 2026-11-20. Shows selected Veterans History Project collections with correspondence, diaries and interviews, and points to digitised letters in its story map. The featured veterans are a selection.
+
+- **S75:** Family Tree Magazine, [The Virtual Genealogical Association – An Interview with Jeanette Sheliga | Best Websites](https://www.youtube.com/watch?v=3lhhFgpqzng), 2024-01-26. Watch page attempted 2026-11-20 without retrieving the recording or transcript. In the supplied excerpt, Sheliga describes itemised store debts found in a Minnesota storekeeper’s probate file and suggests looking for store ledgers in local libraries. The individual probate file and volume were unidentified.
+
+- **S76:** Minnesota Historical Society, [Using Minnesota Probate Court Records](https://www2.mnhs.org/genealogy/family/genieguide/probate.htm). Institutional guide read 2026-11-20. Explains the distinction between the full estate case file and the will book, inventories of assets and liabilities, and finding a case number through an index or register of actions. The example in S75 remains unverified.
+
+- **S77:** Michigan Technological University Archives and Copper Country Historical Collections, [General Store Account Books, MS-236](https://www.mtu.edu/library/archives/collections/documents/ms-236-general-store-account-books.pdf). Institutional finding aid read 2026-11-20. Describes daybooks with lists of goods purchased and a ledger recording a customer’s purchases. These Michigan holdings illustrate a place-based search for stores whose identities are uncertain.
+
+- **S78:** Just Genealogy, [Genealogy Pastime and Profession - Chapter Twelve - Source Material](https://www.youtube.com/watch?v=5Gx_gZfVHE4), 2024-08-13. Watch page attempted 2026-11-20 without retrieving the recording or transcript. In the supplied excerpt of the reading of Donald Lines Jacobus, he advises taking a genealogist’s notes compiled from original and printed sources as clues. The excerpt describes collections as Jacobus knew them.
+
+- **S79:** New Haven Colony Historical Society, [Jacobus Collection, MSS 101, Box XIV inventory](https://www.newhavenmuseum.org/wp-content/uploads/2013/06/MSS-101.pdf#page=6). Box XIV inventory page read 2026-11-20. The 1979 finding aid distinguishes family research notes from Jacobus’s copy of the Stratford vital records in folder E and identifies a gap in the copied pages.
+
 ## Credits
 
+- Naama Lanski, Daniella Levy, Irena Kuczyńska and David Ridd (S70–S72) — Rights retained by their owners, with attributed paraphrases of the accessed posts (adapted)
+- Library of Congress, Minnesota Historical Society, Michigan Technological University and New Haven Colony Historical Society (S73–S74, S76–S77 and S79) — Rights not reviewed, with attributed paraphrases of guides and collection descriptions (adapted)
+- Family Tree Magazine and Just Genealogy (S75 and S78) — Rights retained by their owners, with attribution and paraphrases of supplied transcript excerpts (adapted)
 - Church History Library, Polish Genealogical Society of America, UCLA and University of Utah (S66–S69) — Guides and collection descriptions paraphrased with attribution (adapted)
 - Community sources S47 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
 - Kinprove original procedural synthesis drawing on community videos, forum threads and the Reclaiming Kin, From Shepherds and Shoemakers and Genealogie-Tagebuch articles cited as S1 to S33, with S34 cited for a standard's rule number — FSL-1.1-MIT (kinprove-original)

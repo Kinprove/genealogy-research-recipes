@@ -3514,5 +3514,11 @@
   "kind": "third-party-tool",
   "action": "Search by the veteran's name in the Ancestry collection",
   "checkpoint": "Ancestry receives the veteran’s name in the transport search"
+ },
+ {
+  "recipe": "manuscript-collection-recovery.md",
+  "kind": "contact",
+  "action": "ask a town resident the user already knows",
+  "checkpoint": "Share only the town, historical community, period and kinds of papers sought"
  }
 ]
