@@ -3502,5 +3502,11 @@
   "kind": "third-party-tool",
   "action": "Search the Ohio divorce indexes within their date coverage",
   "checkpoint": "An Ohio divorce index query sends a spouse's name"
+ },
+ {
+  "recipe": "family-photograph-attribution-and-dating.md",
+  "kind": "contact",
+  "action": "Ask whether the other branch holds a separately captioned or attributed group photograph",
+  "checkpoint": "A request describing the photograph and the family connection may disclose information about living people"
  }
 ]
