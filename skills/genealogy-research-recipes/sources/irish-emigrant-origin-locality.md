@@ -56,8 +56,22 @@ class gap is authored synthesis.
 
 - **S32:** National Archives of Ireland, [1926 census search](https://nationalarchives.ie/collections/search-the-1926-census). Live 1926 census search and its 26-county map description read 2026-11-19.
 
+- **S33:** MyHeritage Blog, [Tracing Irish Ancestors: A Guide to Famine-Era Genealogy](https://blog.myheritage.com/2026/03/tracing-irish-ancestors-a-guide-to-famine-era-genealogy/), 2026-03-16. United Kingdom and Australian research sections read 2026-11-20. The author suggests English and Welsh census, civil and parish records when passenger lists are scarce, and Australian death indexes and gravestone inscriptions for place and family clues.
+
+- **S34:** UK Parliament, [Key dates](https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/key-dates/). Parliamentary union and Great Famine entries read 2026-11-20. Used for the union in force during the 1845–1852 famine.
+
+- **S35:** Maritime and Coastguard Agency, [Historical records information](https://www.gov.uk/government/publications/qualifying-details-for-campaign-medals-for-merchant-seamen/historical-records-information). Passenger Lists section read 2026-11-20. Used for the starting dates and voyage coverage of BT 26 and BT 27.
+
+- **S36:** FamilySearch, [England and Wales, Census, 1851](https://www.familysearch.org/en/search/collection/2563939). Collection description read 2026-11-20. Used for census-night enumeration, household birthplaces and relationships, and the HO 107 series reference.
+
+- **S37:** New South Wales Registry of Births, Deaths & Marriages, [What records are available in the Registry index](https://www.nsw.gov.au/family-and-relationships/family-history-search/what-records-are-available). Registry index and historical certificate guidance read 2026-11-20. Used for the March 1856 start of civil registration and the birthplace, parent and informant details in civil death certificates.
+
+- **S38:** Timothy Adams, [Carved in Stone: An Examination of Identity in an Early Regional Cemetery](https://press-files.anu.edu.au/downloads/press/n11504/html/03_adams.xhtml), ANU Historical Journal II, no. 4. Cemetery survey methods and epitaph discussion read 2026-11-20. Used for Irish places of birth and family relationships recorded in inscriptions at Riverside Cemetery, Queanbeyan.
+
 ## Credits
 
+- MyHeritage Blog (S33) — Third-party content, rights retained by the owner, with attributed paraphrases of the research suggestions (adapted)
+- UK Parliament, Maritime and Coastguard Agency, FamilySearch, New South Wales Registry and ANU Historical Journal II (S34–S38) — Historical scope, record fields and inscription evidence described with attribution (adapted)
 - National Archives of Ireland (S32) — Census search and geographic scope described with attribution (adapted)
 - Community sources S29, S30, S31 — Third-party content, rights retained by the owners; short attributed paraphrases of the identified posts (adapted)
 - Paraphrased factual summaries of examples given by Vaughn Johnson, Gillian and William (Denyse Allen episodes), Justin Houser and William Roulston, attributed inline as S1, S3, S4 and S7-S10 — YouTube Standard License (source); adaptation attributed inline (adapted)
