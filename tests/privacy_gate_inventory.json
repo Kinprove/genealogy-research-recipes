@@ -3574,5 +3574,11 @@
   "kind": "contact",
   "action": "the Smart Match tree manager where that match offers",
   "checkpoint": "A message to a Smart Match tree manager can"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "ask the match for the minimum historical detail that would distinguish the placements",
+  "checkpoint": "Comparing family accounts with a DNA match discloses the parentage question"
  }
 ]
