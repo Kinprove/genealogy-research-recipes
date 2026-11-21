@@ -82,8 +82,16 @@ The routing row, request log, series-status vocabulary, conflict list and lead t
 
 - **S58:** [National Archives, Prison Records at the National Archives](https://www.archives.gov/research/prisons). Official page read 2026-11-19. Distinguishes the indexes, photographs and series guides available for different federal prisons. A linked collection can cover only part of a prison’s operation.
 
+- **S59:** Lisa Lisson, [12 Underused Sources for Family Photos](https://familytreemagazine.com/photos/underused-sources-for-family-photos/), Family Tree Magazine. Complete indexed article text read 2026-05-13 after the publisher page returned HTTP 403. Lisson suggests looking for written descriptions when no photograph turns up and illustrates the advice with a reported 1883 Sing Sing admission that describes scars and ink marks. The original entry was not inspected.
+
+- **S60:** [New York State Archives, Sing Sing Prison inmate admission registers (B0143)](https://digitalcollections.archives.nysed.gov/index.php/Browse/collections/view/pdf/download/1/export_format/_pdf_collections_list/key/8e901317e36cd5591162a1079efcc97a#page=35). B0143 catalogue entry read 2026-05-13. Lists admission date, height, weight, complexion, hair and eye color, and other physical characteristics for early volumes. The entry describes the series rather than any individual admission.
+
+- **S61:** [State Records of South Australia, Register of prisoners – Yatala Labour Prison (GRG54/41)](https://catalogue.archives.sa.gov.au/series/GRG54-41). Official series description read 2026-05-13. Lists the date received, register number, teeth, scars and tattoos among the recorded details. Used to confirm examples of fields to extract when present.
+
 ## Credits
 
+- Lisa Lisson, Family Tree Magazine, cited as S59 — Third-party article paraphrased with attribution (adapted)
+- New York State Archives and State Records of South Australia, cited as S60 and S61 — Catalogue descriptions paraphrased with attribution (adapted)
 - New York and Utah archives, National Archives, Federal Bureau of Prisons, Ancestry and FamilySearch (S47–S58) — Catalogue and index metadata paraphrased with attribution (adapted)
 - GenealCymru, Homelessness in Victorian Britain (2023-04-27), cited as S8 — Cited and paraphrased for historical record leads; the narrated case and excluded census/legal claims are not reproduced as findings (adapted)
 - BYU Family History Library, James Tanner, What if Your Ancestor Ended Up in Jail? (2023) — Short quotation for attribution; rights remain with the source (quoted)
