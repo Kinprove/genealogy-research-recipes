@@ -49,6 +49,10 @@ If the date or basis is not stated, record "period unknown" and rank that source
 
 Use the time slice nearest the target generation, and save the location, period and source behind each dot. Gunther’s 2023 Geneanet demonstration showed a French cluster in the 1500s, a wider spread in the 1700s, and London and the Netherlands as well as France in the 1800s [S3]. Those later places suggest records to search for that period. A changing map alone cannot trace a particular household between them.
 
+**For German-speaking Switzerland, check the *Familiennamenatlas der Deutschschweiz*.** Search a library catalogue by title [S29 @2026-11-21] or use the open-access edition (complete set ePDF ISBN 978-3-381-14512-6) [S30 @2026-11-21]. Search the surname locally in volume III’s *Familiennamenregister* to find the relevant pages [S31 @2026-11-21].
+
+Read the map legend for the spelling and time layer. Label historical *Familiennamenbuch der Schweiz* localities as places of municipal citizenship [S30], [S32]. Label the modern layer as 2020 STATPOP population data [S30]. Rank the places in the layer nearest the target generation for register searches and record the volume, map number and layer. Keep the search area open if the atlas has no map for the spelling.
+
 ## Bound a couple's search area by surname overlap
 
 Look up both spouses’ surnames in the same dated distribution source. If at least one is uncommon, map the places where both occur. Sinickas used three nearby Lithuanian villages to narrow the parish search [S1]. Her demonstration does not establish the reference period of the underlying data. Keep the locations as leads and search the registers covering each village in the couple’s lifetime. Shared markets or churches can suggest where to look next.
