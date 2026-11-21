@@ -32,8 +32,17 @@ The Queensland index supplies the court, sentence and ship reference. The trial 
 
 - **S19:** [The National Archives, Criminal court cases: Old Bailey](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/criminal-court-cases-old-bailey-the-central-criminal-court/). Source read 2026-11-19. The table gives the court’s changing geographical scope and the dates of the published proceedings.
 
+- **S20:** Ireland Reaching Out, [Tracing Irish Ancestors: A Guide to Famine-Era Genealogy](https://blog.myheritage.com/2026/03/tracing-irish-ancestors-a-guide-to-famine-era-genealogy/), MyHeritage Blog, published 2026-03-16. Community post read 2026-11-20. The post names New South Wales and Van Diemen’s Land as the main destinations and suggests searching Irish convict transportation records.
+
+- **S21:** National Library of Australia, [Transportation & arrival](https://www.library.gov.au/research/family-history/family-history-research-guide/convicts-research-guide/transportation), published 2023-12-06. Source read 2026-11-20. The guide identifies the New South Wales convict indents, the Tasmanian Names Index and the Western Australian convict registers as separate search leads.
+
+- **S22:** National Archives of Ireland, [Ireland-Australia transportation records](https://nationalarchives.ie/help-with-research/research-guides/australian-transportation-records/). Source read 2026-11-20. The timeline identifies the 1867 Fenian Rising cases as an exception to the end of regular transportation in 1853.
+
+- **S23:** Beth Frayne, Toodyay Historical Society and Newcastle Gaol Museum, [Toodyay’s convicts from the Hougoumont](https://www.toodyay.wa.gov.au/documents/228/toodyays-convicts-from-the-hougoumont), Toodyay Convict Hiring Depot exhibition, dated 2018-01-16. Exhibition introduction read 2026-11-20. It dates the ship’s arrival in Fremantle, Western Australia, to January 1868 and identifies Irish Fenian prisoners among those aboard.
+
 ## Credits
 
 - Ancestry collection titles and the NSW indent column heading as shown in S2 and S3, checked against Ancestry's catalogue and the Digital Panopticon — Factual titles/labels; not subject to copyright (quoted)
 - Genealogy Gems, Episode 167 – Colonial American Genealogy (guest remarks on runaway notices) — Third-party video (YouTube standard license); brief attributed paraphrase (adapted)
 - Kinprove original procedural synthesis; the teaching case and collection descriptions are attributed to S1-S4 (BYU Family History Library / James Tanner talks; Genealogy Gems Episode 167); record series and coverage checked against Libraries Tasmania, State Records Office of Western Australia, The National Archives, State Library of Queensland, Digital Panopticon and National Archives of Ireland pages (S5 to S12) — FSL-1.1-MIT (kinprove-original)
+- Ireland Reaching Out via the MyHeritage Blog (S20), for the New South Wales and Van Diemen’s Land search leads — Third-party blog post, brief attributed paraphrase (adapted)

@@ -62,6 +62,10 @@ No individual identity or kinship conclusion from the examples is adopted.
 
 - **S38:** [Kungl. Maj:ts proposition nr 78 (1915), historical account of the Swedish regulations](https://weburn.kb.se/riks/tv%C3%A5kammarriksdagen/pdf/web/1915/web_prop_1915____78/prop_1915____78.pdf). Historical text read 2026-11-19. The legislative history identifies the general regulation of 6 March 1816.
 
+- **S39:** Aíne Lagan, MyHeritage Blog, [Being Swedish: Traditions and Genealogy](https://blog.myheritage.com/2025/07/being-swedish-traditions-and-genealogy/), published 2025-07-18. Read the naming and household examination passages on 2026-11-20. Community source for distinguishing father-derived names from fixed surnames and using household examination books to follow families. The post gives broad transition timing. S40 supports assessing the family's own naming pattern.
+
+- **S40:** Institutet för språk och folkminnen (Sweden's Institute for Language and Folklore), [Efternamn](https://www.isof.se/namn/personnamn/lar-dig-mer-om-personnamn-i-sverige/efternamn), published 2020-08-26. Read the historical surname and patronymic sections on 2026-11-20. The institute describes how father-derived forms changed by generation and how *-son* forms also passed down as fixed surnames.
+
 ## Credits
 
 - Maureen Brady, Swedish Family History Research, BYU Family History Library — Third-party source, all rights reserved; brief adapted paraphrase with attribution (adapted)
@@ -72,3 +76,5 @@ No individual identity or kinship conclusion from the examples is adopted.
 - Kinprove original procedural synthesis; naming mechanisms, examples and failure cases attributed to presenters S1–S9 and S18 and to the cited references, with archive and reference facts cited as S10–S17 and S19–S27 — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
 - MyHeritage Blog, Exploring the Diverse Origins of Middle Names — Third-party source with brief adapted paraphrase and attribution (adapted)
+- Aíne Lagan, Being Swedish: Traditions and Genealogy, MyHeritage Blog — Third-party source with brief adapted paraphrase and attribution (adapted)
+- Institutet för språk och folkminnen, Efternamn — Third-party source with brief adapted paraphrase and attribution (adapted)

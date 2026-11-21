@@ -11,7 +11,7 @@ handoff: ["land-index-book-series-recovery", "russian-empire-jewish-identity-att
 checked: "2026-10-26"
 checked_basis: "checked 26 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 115}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 122}
 ---
 
 # Recover U.S. immigration and naturalization records
@@ -162,6 +162,18 @@ check the Russian, German, Italian or New York Irish Famine series in NARA's
 retrieve the original by ship, port and date. Series labels do not restrict every
 passenger to the named nationality [N103 @2026-11-18]. The account from the available excerpt identifies all four series [N101 @2026-11-18].
 
+For a Spanish cigar worker who settled in Tampa around the turn of the twentieth
+century, include sailings from Cuba when browsing the Tampa arrival lists (M1844).
+Use the recorded embarkation port to test for a separate Spain-to-Cuba leg.
+[N135] [N136] [N108]
+
+For a Spanish immigrant linked to a Hawaiʻi sugar plantation, start with the
+1907–1913 window in the Honolulu vessel manifests (A3422 or A4156).
+For the 1907 S.S. Heliopolis sailing from Málaga, use the separate Hawaiʻi State
+Archives passenger index and MFL 50, reel 17. For other sailings, use the
+ship and date to browse; the state archive's general 1900–1921 index is to ships.
+[N135] [N137] [N108]
+
 For a Chinese traveler under the exclusion laws, a passenger-list search is not the only arrival
 route. Check the exclusion registers kept at the port of entry for the recorded status category
 (for example laborer, merchant or son of a native) and the admission result. Then look for the
@@ -170,6 +182,21 @@ photographs, signatures, letters and witness interview transcripts. Treat status
 testimony as statements made to win admission, not as independent proof of kinship. The
 [My China Roots demonstration](https://www.youtube.com/watch?v=x5P9fKp25lw) shows these record
 types through one vendor's images. Confirm the custodian and the file locator separately.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A Chinese arrival index query sends the traveler's name and any entered birth or arrival details to Ancestry. Apply the privacy gate in `SKILL.md` first.
+
+For the San Francisco arrival lead from the available excerpt, search Ancestry's Chinese Arrival Case Files Index (1884–1940). [N120 @2026-11-20]
+Record the indexed name, age, gender, birth date and place, arrival date and ship
+where supplied. Save the case and box numbers for the corresponding San Francisco
+investigation file, NAID 296445 (1884–1944). The index dates extend beyond Angel
+Island's 1910–1940 station years. [N121 @2026-11-20] [N122 @2026-11-20]
+
+**Privacy gate:** <!-- privacy-gate: request --> An arrival case-file request sends the traveler's name and case locator to NARA at San Francisco. Apply the privacy gate in `SKILL.md` first.
+
+Request the original investigation file by case number from NARA at San Francisco
+in San Bruno. If the index misses, use the San Francisco vessel manifest M1410
+to reconstruct the case locator from the ship's arrival number and the ticket
+number or, after 1910, the manifest page and line. [N121 @2026-11-20] [N122 @2026-11-20]
 
 ### 3. Recover the recorded name without inventing a renaming event
 
@@ -197,6 +224,13 @@ Advanced Search. Use a range around an estimated Birth Year or Arrival Year.
 Keep Last Residence separate from birthplace. [N93 @2026-11-18]
 Marks's advice from the available excerpt is to narrow crowded results with
 known details and allow a couple of years on either side. [N91 @2026-11-18]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A One-Step query sends the passenger's and any companion's names and the town or voyage details entered to Stephen P. Morse's One-Step tool. Apply the privacy gate in `SKILL.md` first.
+
+If the Ellis Island name search is empty and the town is known, try the One-Step enhanced Ellis Island form.
+Search by Town Name with the surname blank, then narrow a crowded result by
+First Name of Companion or another supported attribute. Confirm which place
+the original manifest field records. [N113 @2026-11-20] [N114 @2026-11-20]
 
 When building the query ladder, give children traveling with an Italian mother
 variants under both her birth surname and the father's surname. For a Jewish
@@ -251,6 +285,36 @@ has its own locator; an unavailable early series is a coverage gap.
 [NARA series by port of entry](https://www.archives.gov/research/immigration/ports),
 [Mexican border crossing series and coverage](https://www.archives.gov/research/immigration/border-mexico),
 [Canadian-border district explanation](https://www.archives.gov/publications/prologue/2000/fall/us-canada-immigration-records-1.html)
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A Canadian route index query sends the traveler's name and any entered birth, residence or journey details to the selected provider, FamilySearch or Ancestry. Apply the privacy gate in `SKILL.md` first.
+
+For a crossing station lead, use the Canada-to-U.S. indexes on FamilySearch and Ancestry
+(collection 1803785, labelled 1895–1956, and collection 1075, labelled 1895–1960).
+Use the Research Wiki series table on the FamilySearch collection page to choose
+the microfilm and determine whether a second manifest is expected. For the
+St. Albans district, use FamilySearch collection 2185163 (1895–1954), which
+includes Soundex indexes M1461 and M1463 and manifests M1464 and M1465.
+Read the crossing station on the card or manifest. [N109 @2026-11-20] [N110 @2026-11-20]
+A record filed under St. Albans places the crossing at Sault Ste-Marie,
+Michigan, in the example from the available excerpt. [N107 @2026-11-20]
+
+For a Detroit lead from the available excerpt, search Ancestry's Detroit border crossing and passenger collection (1070). [N107 @2026-11-20]
+Use the record type and year to choose the series. For example, NARA lists
+Detroit entry cards as M1478 (1906–1954), vessel passenger and alien crew
+lists as M1479 (1946–1957), and a later vessel and airplane series as A3728
+(1957–1981). Use each series' own span when judging a miss. [N111 @2026-11-20] [N108 @2026-11-20]
+
+For the Canadian seaport lead from the available excerpt, search Ancestry's U.S.-bound vessel collection
+(60501) for passenger and crew entries in 1912–1939 or 1953–1962. [N107 @2026-11-20]
+Use the port and vessel to retrieve that arrival leg, then check for a separate
+U.S. land entry. [N112 @2026-11-20] [N108 @2026-11-20]
+
+On a land-border form, copy any prior U.S. visits, companions and named contacts
+at either end as separate clues. Treat the recorded relationship as a lead.
+On Form 1-Canada, use the earlier Canadian port, date and ship to retrieve
+the overseas leg. For someone whose destination at that time was Canada,
+browse the Canadian passenger list even if the U.S. list made at the Canadian
+seaport omits the traveler. [N132] [N134]
 
 On the Canadian side, Library and Archives Canada staff said in a
 [2017 interview](https://www.youtube.com/watch?v=Dqa7RGnfDOk) that no Canadian government
@@ -366,6 +430,36 @@ the apparent destination does not fit.
 uncle, cousin or friend is a lead to investigate, including its address; it
 does not establish that relationship without further records.[6,11]
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A New York passenger index query sends the passenger's name and any entered birth or voyage details to MyHeritage. Apply the privacy gate in `SKILL.md` first.
+
+For 1890–1891 New York arrivals recorded with Austrian, Polish or Galician
+citizenship, use the MyHeritage Austria, Poland and Galicia index from JewishGen.
+Save the indexed name, ship, arrival date, roll and line reference. Use M237
+rolls 543–580 to retrieve the manifest. If the line points to someone else,
+check the vessel's other numbered lists. Read any age, occupation, marital status
+and destination on the manifest, and keep the indexed citizenship separate
+from birthplace. [N125 @2026-11-20] [N126 @2026-11-20] [N127 @2026-11-20]
+
+For 1906–1942 ship arrivals, search MyHeritage's New York Passenger List Book Indexes
+and use the indexed name, birth year, arrival year and ship to locate the row.
+When the viewer shows a joined two-page manifest, inspect both halves of the
+same image. Match line numbers before transcribing the continuation. [N128 @2026-11-20] [N131 @2026-11-20]
+
+Date the manifest before treating a missing contact as an omission. On the
+1907 two-page form, look for the nearest relative or friend in the country
+the passenger came from and the separate U.S. relative-or-friend field.
+Use the actual headings to determine which questions were asked. [N128] [N133] [N92]
+
+Read the question about earlier U.S. visits by heading. On the 1907
+two-page form it is on the continuation. Copy the reported when and where into
+a separate journey row and search that earlier arrival window. [N132] [N133]
+
+Copy any brackets grouping passengers and preserve the adjacent relationship
+labels with their row numbers. For each family member still missing, search for
+a separate arrival and compare the order, companions and named contacts across
+journeys. Check a stated relationship against household and vital records,
+including a witness or informant role that links the same people. [N132]
+
 When the form records who paid the passage and how much cash the passenger
 carried, extract those fields separately and read them with the traveling party.
 Use them to identify leads about who helped fund the trip. Leave the passenger's
@@ -417,6 +511,15 @@ crossing-out, or an unexplained alteration.
 crossing-out alone does not settle whether the person traveled. Do not count
 meals as days without understanding the form's accounting.
 [JewishGen left-margin guide](https://jewishgen.org/infofiles/manifests/left/)
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A San Francisco detainee index query sends the traveler's name and any entered arrival year or ship to MyHeritage. Apply the privacy gate in `SKILL.md` first.
+
+For a possible San Francisco special inquiry in 1910–1941, search the MyHeritage San Francisco special-inquiry index.
+Use the name, arrival year and ship to match the detention register image to
+the traveler. The San Francisco registers of persons held for inquiry
+(February 1910–May 1941, NAID 4468084) are a separate route when the vessel's
+images lack the appended sheets. Check the recorded disposition before assigning
+an admission or exclusion outcome. [N128 @2026-11-20] [N129 @2026-11-20] [N130 @2026-11-20]
 
 Read a left-margin `X` as a detention lead and `S.I.` as a special-inquiry lead.
 Browse the sailing's appended sheets, starting at the end of its image sequence,
@@ -510,6 +613,55 @@ years before accepting a same-name court hint elsewhere. Use changes from alien 
 papers to naturalized to rank the court-search window and residences. Keep each census answer
 as an informant's report: an inconsistent answer does not by itself exclude a court record.
 [N72], [N73]
+
+For a foreign-born man aged 21 or older in 1870, read column 19 of the
+population schedule as a reported citizenship clue and seek the underlying
+proof. If the person later applied for a U.S. passport, extract any court and
+naturalization date from the application and search that proceeding. Record
+the census and passport statements with their own dates and sources.
+[N115] [N116] [N117]
+
+When an index says “first papers,” retrieve the declaration of intention
+and check its birth and arrival fields. For “second papers,” retrieve the
+petition for naturalization. On a petition with family fields, copy the
+reported spouse and children with any birth dates, and the date and place
+of marriage when supplied. Use the forms' actual fields and keep the reported
+relationships provisional. [N115] [N118] [N119] [N132]
+
+When an arrival search stalls, use the voyage or arrival year stated in
+the petition to rerun the manifest search, even if the packet has no certificate
+of arrival. Check the stated port and ship against the voyage itself before
+replacing any established journey date. [N132] [N118]
+
+When the granted court packet lacks the certificate, check family papers
+for the original. Copy the name, certificate date and any issuing court or
+number. Before 27 September 1906, courts did not keep backup copies of these
+certificates; check the court's admission order if the family copy is missing.
+For a grant from 27 September 1906 through 31 March 1956, follow the C-File
+route for the federal duplicate. [N115] [N119]
+
+For an Ohio federal-court lead, use the NARA Chicago inventory to identify the
+district and city, then check dates separately for the petition index,
+declarations and petitions. Keep plausible Ohio local courts in the court
+table on both sides of the 1906 change. Treat the listed spans as ranges that
+can contain gaps. [N123 @2026-11-20] [N124 @2026-11-20] [N118 @2026-11-20]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A Queens or Bronx naturalization query sends the applicant's name and any entered origin, arrival or filing details to the NY Naturalizations portal. Apply the privacy gate in `SKILL.md` first.
+
+For the Queens and Bronx lead from the available excerpt, search the NY Naturalizations portal. [N138 @2026-11-20]
+Use the filing county and number to match the documents. The clerk ranges are
+1795–1952 for Queens and 1914–1952 for the Bronx. Check the available
+declaration, petition or arrival certificate for birthplace and port. A
+declaration-only Bronx filing can be absent from the online search. Keep the
+clerk's declaration series in the recovery queue for that case.
+[N139 @2026-11-20] [N140 @2026-11-20] [N141 @2026-11-20] [N142 @2026-11-20]
+
+For the Waterbury court lead from the available excerpt, use the NARA partner
+list to locate the separate FamilySearch volumes for the District Court at
+Waterbury, New Haven County. [N143 @2026-11-20]
+Check Adults (NAID 4522153), Minors (4522170) and “Under 18” (6920294),
+each 1885–1906, and “Second Papers” (6920472), 1885–1903. Match the actual
+volume title before recording which series a search tested. [N144 @2026-11-20]
 
 A missing earlier declaration can be legitimate under the minor-alien exception used in
 1824–1906. Check the actual proceeding and applicable law: the 1824 act concerned applicants

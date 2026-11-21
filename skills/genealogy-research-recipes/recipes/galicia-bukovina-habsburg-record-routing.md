@@ -11,7 +11,7 @@ handoff: ["austrian-confessional-register-routing", "bessarabia-moldova-record-r
 checked: "2026-11-02"
 checked_basis: "checked on 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 49}
+router: {"section": "Records by country and region", "group": "Central and Eastern Europe by period state", "order": 51}
 ---
 
 # Route a Galician or Bukovinian record by date, confession and custodian
@@ -72,6 +72,8 @@ Transcarpathia is not covered. Link out for the shared steps:
   - **After 1945:** western Galicia, with the Przemyśl and Lemko borderlands, in Poland; the rest of Galicia in four oblasts of the Ukrainian SSR [S33]. Northern Bukovina, Chernivtsi oblast since August 1940, in the Ukrainian SSR and Southern Bukovina in Romania; the 1947 peace treaty recognised the border of 28 June 1940 [S34].
 - **Do not read a voivodeship as today's country.** The 1920 act that organised the Lwów voivodeship listed Przemyśl, Rzeszów, Jarosław, Sanok, Krosno and Tarnobrzeg among its powiats [S7], and all are now in Poland. An interwar "województwo lwowskie" entry can lead to a Polish archive. Route by the village.
 - **Resolve the village before you choose an archive.** Use the place-name recipe to list and date its candidates, and keep the form each record gives.
+
+- **Look up the Galician town for 1900.** Open Gesher Galicia's [Galician Town Locator](https://www.geshergalicia.org/galician-town-locator/) and find the town in the table. Record the administrative district and the judicial district separately, along with the listed Jewish center and the Roman Catholic and Greek Catholic parish locations [S53 @2026-11-20], [S54 @2026-11-20]. For an event in another year, confirm the districts and the parish or Jewish center for that date before choosing books.
 
 ## 2. Choose the books by confession
 

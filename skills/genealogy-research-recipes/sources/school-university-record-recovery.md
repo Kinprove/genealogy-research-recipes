@@ -64,6 +64,18 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 
 - **S42:** [UkrFamily, description of Kyiv educational district fond 707](https://ukrfamily.com.ua/tsgiak-ukrainy/fondy-uchebnykh-zavedenij/fond-707-upravlenie-kievskogo-uchebnogo-okruga). Publication read 2026-11-19. The published description points to the circulars and correspondence about Poltava schools in 1839 and Kholm schools in 1912. Individual cases were not inspected.
 
+- **S43:** Naama Lanski and Daniella Levy, MyHeritage Blog, [The Polish Priest Who Revived the Legacy of a Lost Jewish Community](https://blog.myheritage.com/2024/05/the-polish-priest-who-revived-the-legacy-of-a-lost-jewish-community/), published 2024-05-05. Reviewed community account opened 2026-11-20. The authors describe Leszek Szkudlarek taking a Chocz school photograph as the starting point for researching the individuals pictured and their former community. The account dates the photo to 1935 and describes the photographer attribution as something he was told.
+
+- **S44:** Jewish Insider, [With a new book, Polish priest uncovers buried past of a Jewish community destroyed by Nazis](https://jewishinsider.com/2024/05/polish-priest-leszek-szkudlarek-chocz-jewish-history-holocaust/). Reviewed interview and report opened 2026-11-20. The report describes the photographs prompting research into some of the pupils and records being used to trace them. It gives an estimated 1936–1937 date for two photos. The recipe uses the search method and leaves the dates and individual identifications unresolved.
+
+- **S45:** Chicago History Museum, [Yearbook Collection](https://libguides.chicagohistory.org/c.php?g=1204645&p=8811154). Reviewed collection guide opened 2026-11-20. The finding-individuals section points to student rolls and photo captions, including captions that use initials or nicknames.
+
+- **S46:** Scioto County Public Library Local History Digital Collection, [Unknown School Class Photo](https://www.sciotolibrary.org/history/items/show/32500), item 32500. Reviewed catalogue description opened 2026-11-20. The description transcribes the names from the reverse by row and leaves the school unidentified.
+
+- **S47:** Aíne Lagan, MyHeritage Blog, [What Is a Township and Why Is It Important in Historical Research?](https://blog.myheritage.com/2025/05/what-is-a-township-and-why-is-it-important-in-historical-research/), published 2025-05-31. Reviewed community article opened 2026-11-20. Lagan suggests using the family's township to locate local records, including school records where the township administered schools, and distinguishes civil and survey townships.
+
+- **S48:** Rutherford B. Hayes Presidential Library & Museums, [Green Creek Township Records (Sandusky Co. Ohio)](https://www.rbhayes.org/collection-items/local-government-records/green-creek-township-records-sandusky-co.-ohio/). Reviewed finding aid opened 2026-11-20. The administrative history describes township boards of education and the later county oversight. Inventory item 3 lists the 1840 enumeration for School District #2 under Loose papers. The inventory entry supplies the locator.
+
 ## Credits
 
 - Tomsk State University, State Archives of Chernihiv Oblast, Electronic Library of Historical Documents and UkrFamily (S39–S42) — Histories, register and catalogue descriptions paraphrased with attribution (adapted)
@@ -94,3 +106,5 @@ Forum participants supplied the fond numbers, case contents, start years, covera
 - Post on the Dzen channel «История одной семьи. Юлия Новожилова» cited as S32 — Copyright of its author; short paraphrase (adapted)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
 - Melina Papadopoulos, Family Tree Magazine, cited as S37, and Plainfield-Guilford Township Public Library, cited as S38 — yearbook search advice paraphrased with attribution (adapted)
+- Naama Lanski and Daniella Levy and Aíne Lagan, MyHeritage Blog (S43, S47) — Search method and advice paraphrased with attribution (adapted)
+- Jewish Insider, Chicago History Museum, Scioto County Public Library and Rutherford B. Hayes Presidential Library & Museums (S44–S46, S48) — Reporting, guidance and catalogue descriptions paraphrased with attribution (adapted)

@@ -11,7 +11,7 @@ handoff: ["convict-transportation-record-chain", "court-case-file-recovery", "en
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 141}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 150}
 ---
 
 # Trace a U.S. arrest or imprisonment to its trying court, prison and clemency records, with England/Wales and Swedish routes
@@ -232,6 +232,8 @@ unlocated death inquiry, or establish criminality from a death or prison referen
 - Mark every field as given by the inmate or an unknown informant. Birth year is calculated from admission age, so record it as a range.
 - A ticked alias box with no alias written means the recorded name may itself be an alias [S4].
 - Use the named relative, the relative’s stated residence and the inmate’s birthplace to search the previous generation in that place [S4]. Confirm the suggested relationship in an independent record. For the Idaho example, consult the Idaho State Archives’ inmate files and convict descriptions (AR 42/2).
+
+If no mugshot turns up, read the prison admission register for a written physical description [S59]. For an early Sing Sing admission, check the B0143 register entry for height, complexion, hair and eye color, and other physical characteristics [S60]. Transcribe any recorded scars, tattoos and notes on teeth, and keep the admission date and register locator with the description [S61].
 
 ## New South Wales: search gaol photograph books and read the full card
 

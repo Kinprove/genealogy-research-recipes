@@ -11,7 +11,7 @@ handoff: ["land-index-book-series-recovery"]
 checked: "2026-10-07"
 checked_basis: "checked 7 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 163}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 179}
 ---
 
 # Recipe: Build a checked city-directory observation series
@@ -93,6 +93,10 @@ The worksheets below work with manually read images or copied index rows.
    Do not skip an address book whose DES transcription is still in progress: data entered through DES can be searched by anyone at once, so a partly entered book can already return hits [S24 @2026-11-12], [S28 @2026-11-12]. A miss in such a book is the partial-transcription case above, not a negative.
 
 Before you call an edition missing, find out which directories were published for the place and where they are held. For a U.S. place, uscitydirectories.com lists directories by state and locality with the repositories that hold them; its pages carry a 2002–2005 copyright, so a year it omits is unlisted there, not unpublished [S32 @2026-11-14], [S36 @2026-11-14], [S42 @2026-11-14]. The Library of Congress guide *United States: City and Telephone Directories* indexes the Library's own city and telephone directories by state [S36 @2026-11-14], [S43 @2026-11-14].
+
+For Los Angeles, browse the Los Angeles Public Library's digitized city and street directories in ResCarta [S58 @2026-11-20]. If the edition is missing there, check the library's City Directories Index for paper and microform holdings [S59 @2026-11-20]. Record a holdings match with its format and mark an edition viewable online only after opening its scans. A search-result extract from Nancy Hendrickson's guide points to both routes [S57† @2026-11-20].
+
+For Ohio, start with the LDSGenealogy.com Ohio City Directories index and open the relevant county page [S60 @2026-11-20], [S61 @2026-11-20]. Check countywide listings as well as any section for the target locality [S62 @2026-11-20]. Follow the provider's link and verify access to the specific edition before marking it accessible in the coverage row.
 
 Identify each edition by its publisher as well as its place and year. In some cities competing publishers issued directories for the same year, and each can hold entries the other lacks, so give each its own coverage row and look for a rival before you treat a year as covered [S31], [S32], [S33].
 

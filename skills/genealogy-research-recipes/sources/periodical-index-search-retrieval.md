@@ -66,6 +66,8 @@ The live form was unavailable on 2026-11-16 and was read on 2026-11-18 (S32). Ot
 - **S40:** Allen County Public Library Genealogy Center, [PERSI Location Search — British Isles](https://www.genealogycenter.info/search_persilocation_bi.php). Public search form read on 2026-11-18. Used for the Country and County or City/Town fields. No query was submitted.
 - **S41:** Allen County Public Library Genealogy Center, [PERSI Location Search — United States](https://www.genealogycenter.info/search_persilocation.php). Public search form read on 2026-11-18. Used for the US State and County selectors. No query was submitted.
 - **S42:** Allen County Public Library Genealogy Center, [PERSI Article Title Search](https://www.genealogycenter.info/search_persiarttitle.php). Public search form read on 2026-11-18. Used for the Keyword field and its five-character minimum. No query was submitted.
+- **S43:** Nancy Hendrickson, Family Tree Magazine, [California Genealogy Research Guide](https://familytreemagazine.com/us/california-genealogy-research-guide/). Community article. Relevant passage read on 2026-11-20 in the magazine's March/April 2021 print edition, p. 36. The linked web edition returned HTTP 403. Hendrickson gives the San Diego society's journal as an example of a publication with a full surname index for each volume and member access to the issues. S44 establishes current access to the indexes and back issues.
+- **S44:** San Diego Genealogical Society, [San Diego Records](https://casdgs.org/San-Diego-Records/). Public records and index directory read on 2026-11-20. The society lists the surname indexes for volumes 1–47 separately from the member archive and identifies libraries as a route for nonmembers. The member archive was not tested.
 
 ## Credits
 
@@ -83,3 +85,4 @@ The live form was unavailable on 2026-11-16 and was read on 2026-11-18 (S32). Ot
 - Kinprove original procedural synthesis of the record-type place search, the lost-record transcription check, the retrieval order, the ACPL order step and the copy-request privacy checkpoint, drawing on S30–S37 — FSL-1.1-MIT (kinprove-original)
 - Sunny Jane Morton, PERSI explainer S38, [publisher's full transcript](https://familytreemagazine.com/websites/persi-periodical-source-index/#persi-video-transcript) — Copyright of the publisher, short paraphrase (adapted)
 - ACPL Genealogy Center handout and search forms S39–S42 — Copyright of the publisher, short paraphrase and exact search field names (adapted)
+- Nancy Hendrickson, California Genealogy Research Guide S43, and San Diego Genealogical Society's index directory S44 — Copyright of their publishers, short paraphrase (adapted)

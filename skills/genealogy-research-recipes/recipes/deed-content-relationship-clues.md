@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 165}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 181}
 ---
 
 # Read deed content as dated relationship, probate, migration and parcel hypotheses
@@ -90,6 +90,8 @@ A nominal $1 or $10 recital, including “other good and valuable consideration�
 
 - **Lifetime gift to a child omitted from a will.** When a parent's final will omits a possible child, keep the child in the candidate list and look for a deed of gift made during the parent's lifetime [S84]. If the deed books yield no gift, check any family-held deeds already available [S84]. Compare the deed's date, parties and parcel with the will and later deeds. Land already given could have counted toward the child's share [S85]. Keep the reason for the omission open unless the records explain it.
 
+- **Joint conveyance by heirs.** When several heirs convey together, read the recital for their relationships to the former owner, according to Jacobus’s advice on early Connecticut deeds [S89†]. Copy each stated relationship alongside the person's role in the deed and leave unstated relationships open. A 1780 Norwich deed names the buyer’s wife among the co-heirs and lists two heirs’ husbands among the grantors [S91]. Check the relationships against the estate papers.
+
 - **Heirs' deeds after the widow's death.** When a man died owning land and his widow outlived him, search for his heirs' conveyances after her death as well as after his. What she held as dower went back into his estate for his heirs. The estate should then have been reopened, but often the only record of the division is in the deed books, sometimes only in deeds for the separate pieces sold out of the family years later [S48]. Such a deed may not mention the widow or her death [S47].
 
 - **A widow’s will over a life estate.** Check her husband’s deed or will for the duration of her interest and the named remaindermen. If the estate was measured by her life, her interest ended at death, even though she could convey that interest while alive [S52]. In one reported case a widow’s will left her property to one son, but the farm was already settled on the children after her death [S51]. Check the probate decision and the remaindermen’s deeds before recording who acquired the farm.
@@ -114,6 +116,8 @@ A nominal $1 or $10 recital, including “other good and valuable consideration�
 
 - **How the seller acquired the land.** Extract the source of title from the parcel description, including any stated relationship to an earlier owner [S26]. Tennessee deeds named a grantor’s father, yet several men in the county bore the father’s name [S27]. Trace the earlier conveyance and distinguish the candidates before assigning him.
 
+- **Wife’s inherited interest.** When a marriage record is missing, examine early Connecticut deeds in which husband and wife convey together. Look for land set to her from her father's estate in the source-of-title wording, according to Jacobus’s advice [S89†]. Copy the estate recital and compare the woman, spouse and parcel with the estate distribution before assigning her a father. In an 1869 Connecticut deed that recites an allotment, the woman’s co-grantor has a different given name from the husband named for the distributee [S90].
+
 - **Court proof of a deed your target witnessed.** Read the later testimony even if the target never owned the land. In one Tennessee proof, the men identifying an absent witness’s handwriting called themselves his father and brother [S27]. Record exactly who claimed which relationship. Another signatory’s matching surname or “Jr.”, or the absence of a son from one candidate’s known family, still needs independent support.
 
 - **Marriage settlement.** Read any separate-estate provisions, trustee appointments and witness signatures. A simple settlement could have no trustee, and a relative could serve where one was appointed [S34]. Record every trustee and witness as a possible relative. Test their identities, including a woman’s married name, in independent records before assigning the relationship [S33].
@@ -121,6 +125,8 @@ A nominal $1 or $10 recital, including “other good and valuable consideration�
 - **Names in boundary descriptions.** Extract every adjoining owner, including women under a new married surname [S54]. A 1780 Massachusetts deed named the seller’s remarried mother in its boundaries without calling her his mother [S53]. Test each proposed relationship outside the deed.
 
 - **Deed witnesses.** Do not assign one witness to the husband's family and one to the wife's, as a guidebook did [S55]. Colonial law asked only that a witness be credible, meaning competent to testify and without an interest in the transaction; Virginia's 1710 act, for example, required deeds for land to be proved by two or more credible witnesses [S56]. Treat each witness as an associate lead. Research first the witnesses who recur on documents the person signed, especially across years and places [S55], [S57].
+
+- **Official roles of witnesses.** Before prioritizing a witness as a relative or household lead, check whether a justice or clerk who drew the deed also witnessed it, according to Jacobus’s advice on early Connecticut deeds [S89†]. Compare the witness, acknowledgment and recording lines and record each role stated. A 1711 Preston deed lists the same man as witness and acknowledging justice [S92]. Compare appearances on deeds for other grantors and seek a separate family or household link before prioritizing a recurring official signature.
 
 - **Chain carriers.** Read a name marked CC, CB or SCC on a survey, plat or grant as a chain carrier, who carried the surveyor's measuring chain, not as a witness or a party [S58], [S59]. Do not infer legal age from a plain CC: a Tennessee land glossary reads C.C. as possibly under legal age and S.C.C., a sworn carrier, as having reached it [S82], and a Cumberland County, North Carolina, page gives 14 as the minimum age for male carriers [S83]. Family members commonly carried the chain [S60], [S82]; the man having the survey made very often had relatives carry it, especially brothers-in-law, but carriers could be anyone [S61]. List them as possible kin of the landowner to test.
 

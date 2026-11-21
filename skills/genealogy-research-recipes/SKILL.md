@@ -21,7 +21,7 @@ authorship does not require a Kinprove account, connector or scoring engine.
 
 ## Version and updates
 
-This copy is version 2.0.0, released 2026-11-20.
+This copy is version 2.1.0, released 2026-11-21.
 
 Many installations do not update by themselves. If today's date is more than 7 days after
 that release date, end your first answer in the conversation with one short note: this copy
@@ -36,9 +36,9 @@ update step for the user's installation, or the applicable options if the host i
 - Claude.ai or the Claude desktop app: on the Plugins page, select **Check for updates** on
   the `kinprove` marketplace, or turn on **Sync automatically**.
 - Hermes Agent: `hermes plugins update genealogy-research-recipes`.
-  Catalog reviews can lag GitHub; if no change is reported, use the latest GitHub release's
-  full commit SHA in
-  `hermes plugins install Kinprove/genealogy-research-recipes --force --ref <full-commit-sha> --no-enable && hermes plugins enable genealogy-research-recipes`.
+  If Hermes reports no update, check the
+  [Hermes Marketplace listing](https://hermes-agent.nousresearch.com/marketplace/genealogy-research-recipes)
+  for the version available through the catalog.
 - OpenClaw: `openclaw plugins update genealogy-research-recipes`.
   ClawHub releases can lag GitHub; if no change is reported, reinstall from the repository:
   `openclaw plugins install git:github.com/Kinprove/genealogy-research-recipes --force`.
@@ -275,6 +275,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/ancestry-pro-tools-tree-worklists.md` — Build place or tag worklists, audit Tree Checker flags, and review the scope of Ancestry Pro Tools maps and charts.
 - `recipes/cousin-relationship-paths.md` — Calculate cousin degree and removal, and distinguish double or half cousin paths when pedigrees intersect more than once.
 - `recipes/myheritage-profile-hint-extraction.md` — Review the evidence behind a MyHeritage Hint, compare conflicting values and save only the supported facts or relationships.
+- `recipes/myheritage-country-coding-place-audit.md` — Use MyHeritage Country Coding to review uncoded locality names and modern flags that can misrepresent historical jurisdictions.
 
 ## Recipes: DNA
 
@@ -313,6 +314,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/newspapers-com-search-recovery.md` — Find notices on Newspapers.com that name searches miss, after checking which titles and issues are actually covered.
 - `recipes/geni-practical-research-workflows.md` — Use Geni for name variants, relationship paths, citations, projects, merge decisions, tree conflicts and GEDCOM exports.
 - `recipes/find-a-grave-memorial-corrections.md` — Send evidence-backed Find a Grave corrections and route management requests to the right recipient.
+- `recipes/newspaper-finder-title-coverage.md` — Use Newspaper Finder to discover alternate hosts for a historical newspaper and verify whether a host carries the target issue.
 
 ### Books, periodicals and manuscripts
 
@@ -337,6 +339,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/historic-hungary-record-routing.md` — Route a record from the pre-1920 Kingdom of Hungary by county, successor state and record type.
 - `recipes/austrian-confessional-register-routing.md` — Route an Austrian or Czech-lands birth, marriage or death to the confessional or civil register that legally recorded it.
 - `recipes/polish-index-original-record-recovery.md` — Recover an original Polish register entry from Geneteka, Metryki or Szukaj w Archiwach, or document the retrieval gap.
+- `recipes/polish-parish-and-civil-register-routing.md` — Identify the relevant Polish registration district by date and confession, then locate the parish, civil or archival copy.
 
 ### Russian Empire and Soviet Union
 
@@ -369,6 +372,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/holocaust-testimony-source-interpretation.md` — Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement dates.
 - `recipes/israel-immigration-list-research.md` — Search MyHeritage's Israel immigration lists and decide whether an arrival entry for Mandatory Palestine or Israel records an immigrant, a returning resident or a tourist.
 - `recipes/lithuanian-jewish-household-registers.md` — Use LitvakSIG and MyHeritage household registers to trace dated residence and distinguish missing records from unindexed coverage.
+- `recipes/holocaust-register-and-survivor-list-recovery.md` — Separate ghetto residence, imprisonment, death and postwar survivor registration while retrieving the underlying Holocaust-era record.
 
 ### Ukrainian archives
 
@@ -401,6 +405,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/irish-1901-1911-census-returns.md` — Search, retrieve and read the Irish 1901, 1911 and 1926 census returns.
 - `recipes/convict-transportation-record-chain.md` — Rebuild a transported British convict's sentence as a chain of dated record episodes.
 - `recipes/british-colonial-slave-registers.md` — Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records.
+- `recipes/british-army-first-world-war-service-records.md` — Route a First World War British Army soldier, nurse or Household Cavalry member to the surviving series for their service.
+- `recipes/piracy-and-privateering-records.md` — Use a commission, vessel history and surviving court papers to distinguish a commissioned capture from piracy and follow a sailor’s disposition.
 
 ### Western and Northern Europe
 
@@ -415,6 +421,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/danish-church-book-probate-recovery.md` — Find a Danish ancestor's church-book entries, civil marriage and probate by choosing the register copy, South Jutland civil register and probate authority that apply to the date.
 - `recipes/scandinavian-patronymic-farm-name-record-recovery.md` — Find a Danish, Norwegian, Swedish or Icelandic emigrant's home-parish entries under patronymic, farm and soldier names.
 - `recipes/swedish-military-record-routing.md` — Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period.
+- `recipes/french-succession-and-absence-tables.md` — Use a French registration-office index to distinguish a recorded death from declared absence and retrieve the referenced succession declaration.
 
 ### United States: people, vital and church records
 
@@ -433,6 +440,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/mayflower-and-great-migration-genealogies.md` — Choose a passenger branch or an immigrant arrival series, then test the claimed line against the correct child lists.
 - `recipes/new-york-city-vital-certificate-extraction.md` — Recover both New York City marriage filings in 1908–1937 and extract birthplace and sibling clues from historical birth certificates.
 - `recipes/pennsylvania-marriage-licenses-and-returns.md` — Recover Pennsylvania county marriage packets from 1885 and compare them with early state copies and older marriage bonds.
+- `recipes/american-voter-register-eligibility.md` — Check voting and registration eligibility in the relevant year before using a U.S. voter-register entry or omission as residence evidence.
+- `recipes/us-social-security-application-recovery.md` — Choose between a Social Security death index, Numident extract and original SS-5 when researching a deceased person’s birth or parents.
 
 ### United States: military, land, courts and law
 
@@ -455,6 +464,11 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/southern-claims-commission-case-files.md` — Route a Southern Claims Commission claimant to the correct case file and use witness testimony to reconstruct wartime events.
 - `recipes/us-army-civil-war-court-martial-files.md` — Follow a general court-martial notation from a Civil War service card to the index and its Army case papers.
 - `recipes/world-war-two-us-navy-battle-records.md` — Correlate wartime U.S. Navy muster and deck records with an action report before attributing participation to a sailor.
+- `recipes/boston-tea-party-participant-evidence.md` — Trace a Boston Tea Party participant claim from compiled lists to the evidence for the person’s role on 16 December 1773.
+- `recipes/colonial-and-state-military-bounty-land.md` — Distinguish a colonial or state military land award from a federal warrant and trace the soldier, heir, assignee and tract separately.
+- `recipes/colonial-virginia-patent-and-northern-neck-recovery.md` — Find the issuer of a colonial Virginia land grant and use its patent, warrant, survey or headright evidence to identify the tract and parties.
+- `recipes/us-army-quartermaster-record-recovery.md` — Use the Quartermaster General’s claims, contracts, correspondence and personnel series to trace Army suppliers, employees or officers.
+- `recipes/us-military-headstone-application-recovery.md` — Route a U.S. military headstone application by death and application dates, then compare its service and burial identifiers.
 
 ### Canada, Latin America, Asia and Oceania
 
@@ -468,6 +482,8 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/japanese-koseki-honseki-recovery.md` — Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family register (koseki).
 - `recipes/philippine-surnames-and-registers.md` — Use parish and civil records to trace a Philippine family through surname adoption or continuity across 1849.
 - `recipes/samoan-matai-and-gafa-research.md` — Follow Samoan chiefly titles and village clues from diaspora records into customary land, church and family sources.
+- `recipes/acadian-records-across-the-expulsion.md` — Locate an Acadian household before deportation, then link it to records at a destination or later resettlement.
+- `recipes/canadian-arrival-record-routing.md` — Choose a Canadian ocean or land arrival series by port and date, and seek substitutes before interpreting a missing entry.
 
 ## Recipes: Record types in any country
 
@@ -492,6 +508,7 @@ shared with others. Refer to them by role, for example "a witness".
 
 - `recipes/illegitimacy-record-recovery.md` — Find the bastardy bonds, court cases, support orders and church entries a birth outside marriage could create.
 - `recipes/institutional-patient-record-recovery.md` — Find asylum or state-hospital patient records through custodians, courts and newspapers, including Dutch admission correspondence.
+- `recipes/child-placement-and-orphan-train-records.md` — Find an orphanage admission, foster placement or orphan-train file and establish whether a separate legal adoption followed.
 
 ### Family papers, photographs and oral history
 

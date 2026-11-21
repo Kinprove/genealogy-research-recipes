@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-03"
 checked_basis: "checked 2026-11-03"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 142}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 151}
 ---
 
 # Recover a state legislative private act and its petition
@@ -47,6 +47,10 @@ Don't rule out the state legislature just because the event sounds like county b
 The legislature was not always the only route. The publisher's store description of Alan N. Miller's *[Nineteenth-Century Tennessee Adoptions, Legitimations, and Name Changes](https://genealogical.com/store/nineteenth-century-tennessee-adoptions-legitimations-and-name-changes/)*, read in a web-archive copy, reports that legitimation in Tennessee was done by private act until 1805, when the lower courts could also hear it, and that from 1827 the circuit courts could also change names [S5]. The book itself was not consulted. Use those dates as leads to check both the acts index and court minutes, and verify the applicable law before drawing a legal conclusion.
 
 For a Pennsylvania pension or gratuity, search the session laws by surname and county, then ask for the application in the House files. In Denyse Allen’s interview, archivist Aaron McWilliams describes following an Erie County index entry for John McWilliams to a special act and then to the application [S3], [S4].
+
+When a War of 1812 widow did not qualify for a federal pension, follow Craig R. Scott’s advice from the available excerpt and search state session laws for a private relief act and state legislative papers for her petition [S23]. Search under both the widow’s and the veteran’s names. Record the state petition and any award separately from the federal claim.
+
+In Maryland, use Index 52 (MSA S1425) to trace state payments to the military pension roll [S24]. Search the General Assembly journals for the widow’s petition even if the payment index has no entry [S25]. Use the act cited on an index card to locate the session law [S26].
 
 When Virginia land faced escheat, search the session laws for both the deceased and the petitioner. In October 1786 Mary Arvin obtained land left by her son John Askins, who died intestate and without issue. Reuben Coutts petitioned over a different interest: his father’s will had given him a life estate, and the reversion was at risk [S9]. Apply the descent law in force at the death. The act effective 1 January 1787 allowed inheritance through the mother and recognized paternal legitimation upon the parents’ subsequent marriage and the father’s recognition of the child [S8]. For a reported Bedford County petition over a 200-acre farm, use county, acreage and approximate date to seek the family and petition. Neill supplies neither the names nor a file reference [S10].
 

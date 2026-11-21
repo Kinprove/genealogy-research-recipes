@@ -67,6 +67,30 @@ No identification in the presenters' examples was independently checked.
 
 - **S46:** [State Catalogue of the Museum Fund of the Russian Federation, public portal](https://goskatalog.ru/portal/). Portal connection timed out 2026-11-19. No catalogue search was performed during the failed connection.
 
+- **S47:** Melina Papadopoulos, Family Tree Magazine, [A Guide to Photography for Genealogy Research and Projects](https://familytreemagazine.com/photos/a-guide-to-photography-for-genealogy-research-and-projects/), first posted in February 2024, updated May 2026. Community guide read 2026-11-20. Used: the resource list’s link to the Library of Congress Digital Collections. The recipe covers the BYU search route separately.
+
+- **S48:** Library of Congress, [Using Local and Family History Photographs to Tell the Stories of Your Ancestors: Prints & Photographs Online Catalog](https://guides.loc.gov/local-history-and-family-photos/prints-and-photographs). Institutional guide read 2026-11-20. Used: the catalogue includes records and digital images; on-site finding aids, card catalogues and browsing files supplement its descriptions.
+
+- **S49:** David Ridd, MyHeritage Blog, [D-Day and Your Family History: Rediscovering Roots Through World Events](https://blog.myheritage.com/2025/11/d-day-and-your-family-history-rediscovering-roots-through-world-events/), 2025-11-09. Community advice read 2026-11-20. Used: the suggestion to search military photograph collections and yearbooks. The post’s statements about medals, notable units, military IDs and MyHeritage coverage are outside this use.
+
+- **S50:** U.S. National Archives Still Picture Branch, [How to Research: Photographs Relating to World War II Army Units](https://unwritten-record.blogs.archives.gov/2017/03/30/how-to-research-photographs-relating-to-world-war-ii-army-units/), 2017-03-30. Institutional research guide read 2026-11-20. Used: widening a U.S. Army photograph search to the parent formation and campaign locations documented for the unit.
+
+- **S51:** Lisa Lisson, Family Tree Magazine, [12 Underused Sources for Family Photos](https://familytreemagazine.com/photos/underused-sources-for-family-photos/), 2022-02-08. Search-index text read 2026-11-20. Used: the author’s advice to search church histories for early members and groups, pictorial directories for families and individuals, and museum exhibits for relevant photographs and leads to holdings off display. Direct retrieval returned HTTP 403. S52–S54 supply separately inspected support for the search routes.
+
+- **S52:** Lisa Lisson, [Find Photographs of Past Generations](https://familytreemagazine.com/wp-content/uploads/2020/12/Lisson-Find-Photographs-of-Past-Generations-Handout.pdf), Family Tree University, 2020. Community handout read 2026-11-20. Used: church histories with founding-member photos, directories with member photographs, and the author’s suggestions to check the church, local libraries and denominational offices.
+
+- **S53:** Presbyterian Historical Society, [Records of Congregations and Mid Councils](https://pcusa.org/historical-society/services/records-management/records-congregations-and-mid-councils). Institutional guidance read 2026-11-20. Used: the deposit route for closed PC(USA) congregations and the inclusion of selected photos and albums among commemorative records. Deposit of a particular directory is not guaranteed.
+
+- **S54:** J. Paul Getty Museum, [Photographs](https://www.getty.edu/museum/photographs/). Institutional page read 2026-11-20. Used: the distinction between displayed photographs and the collection accessible through the study room, and contacting the museum about a research subject. The procedure does not imply that other museums provide the same viewing arrangements.
+
+- **S55:** Nancy Hendrickson, Family Tree Magazine, [California Genealogy Research Guide](https://familytreemagazine.com/us/california-genealogy-research-guide/), 2025-09-05. Search-index text read 2026-11-20. Used: the recommendation and title of the USC digital series for historical California views. Direct retrieval returned HTTP 403. The legacy USC collection link returned HTTP 404. The guide’s image count and the availability of its mission drawings are not used.
+
+- **S56:** Stanford University Libraries, [California Historical Society Collection at Stanford](https://library.stanford.edu/california-historical-society-collection-stanford), updated 2026-10-27. Institutional collection page read 2026-11-20. Used: the archive transferred in January 2025, the links to both catalogues and the rolling release of digitized materials. Stanford’s notice about retirement concerns the CHS Digital Library.
+
+- **S57:** Library of Congress, [Using Local and Family History Photographs to Tell the Stories of Your Ancestors: Digital Collections](https://guides.loc.gov/local-history-and-family-photos/digital-collections). Institutional guide read 2026-11-20. Used: the recommended photographic collections by subject and place, and the route to the Library’s full Digital Collections list. The general Digital Collections landing page returned HTTP 403 from this check.
+
+- **S58:** Stanford University Libraries, [California Historical Society Collection at Stanford: Introduction](https://guides.library.stanford.edu/CHSCollectionatStanford_guide), updated 2026-11-09. Institutional guide read 2026-11-20. Used: historical photograph holdings, catalogue and finding-aid entries released in stages, and the recommendation to check SearchWorks and Archival Collections at Stanford. Individual images and catalogue coverage were not verified.
+
 ## Credits
 
 - University of Arizona Libraries, Utah Historical Society and J. Willard Marriott Library (S43–S45) — collection descriptions and attributed account paraphrased (adapted)
@@ -83,3 +107,9 @@ No identification in the presenters' examples was independently checked.
 - PastVu documentation pages cited as S38 and S39 — Copyright of their publisher; short paraphrase (adapted)
 - Dzen post by Юлия Новожилова cited as S40 — Copyright of its author; short paraphrase of the author's report (adapted)
 - Melina Papadopoulos, Family Tree Magazine, A Guide to Libraries for Genealogy Research, cited as S41 — short paraphrase of the author’s advice (adapted)
+- Melina Papadopoulos, Family Tree Magazine, and Library of Congress, cited as S47 and S48 — short paraphrase of the resource recommendation and catalogue guidance (adapted)
+- David Ridd, MyHeritage Blog, and the U.S. National Archives Still Picture Branch, cited as S49 and S50 — short paraphrase of the authors’ search advice (adapted)
+- Lisa Lisson, Family Tree Magazine and Family Tree University, cited as S51 and S52 — short paraphrase of the author’s advice (adapted)
+- Presbyterian Historical Society and J. Paul Getty Museum, cited as S53 and S54 — institutional guidance paraphrased (adapted)
+- Nancy Hendrickson, Family Tree Magazine, and Stanford University Libraries, cited as S55, S56 and S58 — search recommendation and institutional guidance paraphrased (adapted)
+- Library of Congress, cited as S57 — institutional guide paraphrased (adapted)

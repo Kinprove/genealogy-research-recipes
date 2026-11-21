@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing", "galicia-bukovina-habsburg-recor
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 48}
+router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 50}
 ---
 
 # Recover and read historical maps as dated, copy-specific evidence
@@ -54,6 +54,14 @@ separate. Seek the case's actual statements before dating the depicted event or 
 same-named person to another generation. [S31]
 
 **Google Earth Pro:** For a known historical locality, look for the Rumsey Historical Maps layer under Gallery and check it for maps of the area. The layer is a selection from the David Rumsey collection. If it is unavailable or yields no map for the locality, search the full collection and other holders. [S69 @2026-11-18], [S70 @2026-11-18]
+
+**U.S. county boundaries.** Select the state in the Newberry Library's Atlas of Historical County Boundaries and open its interactive map [S80 @2026-06-08], [S81 @2026-06-08]. Choose the last boundary-change date on or before the event date. Identify the county that contained the locality then and record the effective date and boundary-change citation before choosing which county's records to search [S81 @2026-06-08], [S95 @2026-06-08]. Use the county chronology or dated PDF maps if the viewer is unavailable [S95 @2026-06-08]. For local map work, download the state files or the U.S. dataset. Choose KMZ for Google Earth Pro or the GIS shapefiles for date-filtered GIS work [S80 @2026-06-08], [S82 @2026-06-08].
+
+**Polish border changes.** In OldMapsOnline, search for the locality or pan to it. Open a map close to the event date and record the administrative division shown and the sheet date [S85 @2026-06-08], [S86 @2026-06-08]. The site's “Galicia” landing page leads to Spain, so use the settlement's location to find maps of Habsburg Galicia [S87 @2026-06-08]. Use the historical division to identify candidate archive inventories across today's borders. For Galician parish registers, check the inventories in Warsaw's AGAD and Lviv's TsDIAL by parish, confession and year [S88 @2026-06-08], [S89 @2026-06-08]. See [Galician and Bukovinian record routing](galicia-bukovina-habsburg-record-routing.md) for the record series and holders.
+
+**European locality searches.** Search for the settlement in Arcanum Maps and check city plans, country maps and thematic maps for the date and area you need [S90 @2026-06-08], [S91 @2026-06-08]. Look for the name on the historical sheet itself. A search marker can appear even if the settlement did not exist when the map was made [S91 @2026-06-08].
+
+**Kanawha Valley waterways.** Trace each named waterway to its junction with the main river or another tributary. Compare the detailed sheet with the water-route inset on John S. Swann's 1867 *Title Map of the Coal Field of the Great Kanawha Valley*. Search the Library of Congress under that title or use David Rumsey map 4965.001 [S92], [S93], [S94]. If the sheet ends before the junction, check an adjoining map from the period before ruling out the connection.
 
 ## Read a Sanborn volume, not a loose sheet
 
@@ -132,6 +140,8 @@ Galicia also has two earlier land surveys whose rolls name householders: the Jos
 To place a vanished hamlet, use Arcanum's Mapire, which overlays the georeferenced Habsburg military surveys on a modern map. mapire.eu now redirects to maps.arcanum.com, where full access needs a subscription. It carries the first survey (1763–1787; Galicia 1779–1783, Bukovina 1773–1775) and the second (1806–1869; Galicia and Bukovina 1861–1864) [S36], [S37]. Keep the Gesher Galicia Map Room as the route to cadastral maps [S32]. For the jurisdiction and record holders that put these Galician cadastral and military-survey maps in context, see [Route a Galician or Bukovinian record by date, confession and custodian](galicia-bukovina-habsburg-record-routing.md).
 
 Check an overlay’s alignment against surviving roads, railways or other fixed features across the area of interest, and retain the georeferencing files with the image [S13]. A historical atlas may distort locally even where the roads align [S11], [S14]. For a hand-drawn Sanborn outline, check whether the line denotes a building or parcel before measuring from it [S8]. Establish a property boundary from the deed or survey; on PLSS land, plot the aliquot parts in the description [S2], [S11]. Use [land-index recovery](land-index-book-series-recovery.md) to retrieve the deed.
+
+**Custom overlays in Google Earth Pro.** If the available overlays miss the place or period, choose a public map image of the right edition and open it from the computer with **Add → Image Overlay → Browse**. Lower the opacity until both maps are visible. Move, rotate or resize the image to match several surviving landmarks across the area. Record the map edition, the landmarks used and where the fit breaks down [S83 @2026-06-08], [S84 @2026-06-08].
 
 ## Return a map packet
 

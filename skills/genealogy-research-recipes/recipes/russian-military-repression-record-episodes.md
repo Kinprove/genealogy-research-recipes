@@ -11,7 +11,7 @@ handoff: ["chechen-ingush-1944-deportation-records", "evidence-proof-judgment", 
 checked: "2026-10-18"
 checked_basis: "opened 18 October 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 69}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 72}
 ---
 
 # Recipe: Recover separate military and Soviet-repression record episodes
@@ -119,6 +119,13 @@ filled, so when the surname may be unrecognisable, search given name and patrony
 or place and no surname, then filter locally. Flag hits on commonly confused names for an
 identity check. Use the same tactics on GWAR or memory books only after reading their own search
 help. [H24]
+
+For a suspected Soviet WWII casualty, search OBD Memorial directly. If the user has already
+searched MyHeritage for the serviceman, check the user's own MyHeritage Search Alert emails even
+if the first search yielded nothing useful. [H151 @2026-11-20], [H152 @2026-11-20] Use any name
+variant, birth year, unit or loss date in an alert to locate the underlying report in OBD Memorial
+or the repository named in the result. Keep the alert as a lead until the report supports the
+identification.
 
 Search Pamyat Naroda (pamyat-naroda.ru) using Cyrillic name variants. In a dated FamilySearch demonstration, Иванов returned matches where the Latin spelling Ivanov returned none [H75 @2026-11-12]. Include the following record types:
 it also holds conscription and demobilisation records from enlistment offices, navy and officer
@@ -488,6 +495,12 @@ and Navy awards stopped in 1956. [H27], [H28], [H29] A decree or order titled '�
 to a career serviceman, find the title and date of the awarding decree or order.
 
 Identify who supplied the next-of-kin entry and when, if the loss report says. One report named a father who had died before the call-up. A contributor also describes evacuation addresses in that column [H12]. Record the literal entry and check civil records for the relative’s life dates and prewar records for residence.
+
+If a WWII loss report names a deceased mother, take her recorded name and any locality in the
+relatives column as leads to her own burial. [H151], [H153] Mark her role in reporting or receiving
+notice as unknown unless the report specifies it. Search cemetery registers or grave inscriptions
+for her in that locality, then under any later documented surname or residence. Verify the grave
+against her life dates or family details and record it separately from the serviceman's burial.
 
 A casualty compilation can list the wounded beside the dead, and a database built from it
 can enter the out-of-action date in a field labelled as death. Record the compilation's own

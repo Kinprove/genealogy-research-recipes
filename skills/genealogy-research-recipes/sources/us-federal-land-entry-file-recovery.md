@@ -78,6 +78,12 @@ This recipe's own contribution is the routing row, the party-role table, the two
 
 - **S46:** United States, [An Act to make Land Warrants assignable, and for other Purposes](https://www.govinfo.gov/content/pkg/STATUTE-10/pdf/STATUTE-10-Pg3.pdf), 22 March 1852, chapter 19, 10 Stat. 3. Statutes at Large scan read 2026-11-19. Section 1 makes federal military bounty-land warrants and valid locations assignable by written instrument.
 
+- **S47:** Nancy Hendrickson, Family Tree Magazine, [California Genealogy Research Guide](https://familytreemagazine.com/us/california-genealogy-research-guide/), community guide, published 2025-09-05. Publisher page returned HTTP 403 on 2026-11-20. The supplied excerpt and search-result extract give the guide’s distinction between public-land sales and earlier grants. S48 supports the private-claim patent distinction, and S49 identifies the state archive’s grant holdings.
+
+- **S48:** U.S. Congress, [An Act to ascertain and settle the private Land Claims in the State of California](https://govtrackus.s3.amazonaws.com/legislink/pdf/stat/9/STATUTE-9-Pg631a.pdf), March 3, 1851, ch. 41, 9 Stat. 631. Sections 8 and 13 read 2026-11-20 in the Statutes at Large scan. Used for the Spanish and Mexican basis of the claims and the issuance of U.S. patents after confirmation and survey.
+
+- **S49:** California Secretary of State, California State Archives, [Spanish and Mexican Land Grants](https://www.sos.ca.gov/archives/collections/ussg), collection description read 2026-11-20. Used for the official copies of title papers and sketch maps and the Surveyor General map series.
+
 ## Credits
 
 - United States Statutes at Large, S46 — Public-domain 1852 assignment provision paraphrased (adapted)
@@ -88,3 +94,5 @@ This recipe's own contribution is the routing row, the party-role table, the two
 - Kinprove original procedural additions; community articles and guides cited as S26 to S36 are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
 - Community video advice cited as S37 and S40 — Paraphrased with attribution (adapted)
 - Federal statutes and archival material cited as S38, S39 and S41 to S45 — Paraphrased with attribution (adapted)
+- Nancy Hendrickson, Family Tree Magazine, California Genealogy Research Guide, S47 — Third-party guidance paraphrased with attribution (adapted)
+- United States Statutes at Large and California State Archives, S48 and S49 — Statutory and collection facts paraphrased with attribution (adapted)

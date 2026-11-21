@@ -6,9 +6,23 @@
 
 - **S3:** [MyHeritage, What is the MyHeritage DNA BioBank?](https://www.myheritage.com/help/en/articles/12852595-what-is-the-myheritage-dna-biobank). Reviewed 2026-11-18, help-page, access read. Read 2026-11-18. Current provider guidance on eligibility for using an existing stored sample, country availability and consent.
 
-- **S4:** [MyHeritage, What does the Whole Genome Sequencing upgrade mean for my DNA results?](https://www.myheritage.com/help/en/articles/12852457-what-does-the-whole-genome-sequencing-wgs-upgrade-mean-for-my-dna-results). Reviewed 2026-11-18, help-page, access read. Read 2026-11-18. Current provider documentation identifies WGS as the processing route and shows how to verify it in the downloaded file header.
+- **S4:** [MyHeritage, What does the Whole Genome Sequencing upgrade mean for my DNA results?](https://www.myheritage.com/help/en/articles/12852457-what-does-the-whole-genome-sequencing-wgs-upgrade-mean-for-my-dna-results). Reviewed 2026-11-20, help-page, access read. Read 2026-11-18. Current provider documentation identifies WGS as the processing route and shows how to verify it in the downloaded file header. Rechecked 2026-11-20. The provider specifies January 2026 for automatic WGS of new samples sent to the lab and describes the array exception for kits upgraded to DNA Health before reaching the lab.
 
 - **S5:** [MyHeritage, How do I collect my DNA sample?](https://www.myheritage.com/help/en/articles/12851734-how-do-i-collect-my-dna-sample). Reviewed 2026-11-18, help-page, access read. Read 2026-11-18. Current provider documentation identifies the specimen from a cheek swab.
+
+- **S6:** Katharine Andrew, [RootsTech 2026 Recap: Genealogy News and Announcements](https://familytreemagazine.com/blog/news/rootstech-2026-recap-genealogy-news-and-announcements/), last updated 2026-03-20. Reviewed 2026-11-20, web-page, access read. Read 2026-11-20. Community recap places the WGS transition in November without specifying a day or year. S4 supplies the documented scope and date for automatic processing.
+
+- **S7:** Daniella Levy, [MyHeritage Announces Third Installment of DNA Quest Initiative](https://blog.myheritage.com/2023/03/myheritage-announces-third-installment-of-dna-quest-initiative/), published 2023-03-03. Reviewed 2026-11-20, web-page, access read. Read 2026-11-20. The blog advises people who had already tested to use the free upload option in an adoption-related search. S8 supersedes that guidance for new uploads.
+
+- **S8:** [MyHeritage, Why can't I upload my DNA data file?](https://www.myheritage.com/help/en/articles/12852724-why-can-t-i-upload-my-dna-data-file). Reviewed 2026-11-20, help-page, access read. Read 2026-11-20. Current provider help confirms that new uploads from other testing services have ended.
+
+- **S9:** [MyHeritage, How to Interpret Your Raw DNA Data Easily and Unlock Your Ancestry](https://blog.myheritage.com/2025/01/how-to-interpret-your-raw-dna-data-easily/), published 2025-01-20. Reviewed 2026-11-20, web-page, access read. Read 2026-11-20. The blog suggests extracting the raw file from a ZIP and selecting the tab delimiter in Excel. It also describes phasing as separating variants inherited from each parent. S10 and S11 guide interpretation of the export and selection of a delimiter. S12 supports treating parental-side assignment as a separate inference.
+
+- **S10:** [MyHeritage, How should I interpret my raw DNA data?](https://www.myheritage.com/help/en/articles/12852246-how-should-i-interpret-my-raw-dna-data). Reviewed 2026-11-20, help-page, access read. Read 2026-11-20. Provider help describes a tab-delimited layout and explains that the allele columns have no fixed maternal or paternal ordering.
+
+- **S11:** [Microsoft Support, Text Import Wizard](https://support.microsoft.com/en-us/excel/text-import-wizard). Reviewed 2026-11-20, help-page, access read. Read 2026-11-20. The Excel import documentation explains choosing the separator used in the file and checking how the preview splits the columns.
+
+- **S12:** Robin J. Hofmeister et al., [Parent-of-origin effects on complex traits in up to 236,781 individuals](https://www.nature.com/articles/s41586-025-09357-5.pdf), published online 2025-08-06. Reviewed 2026-11-20, pdf, access read. Read 2026-11-20. Figure 1 and the phasing methods distinguish grouping inherited variants from identifying their maternal or paternal origin.
 
 ## Credits
 

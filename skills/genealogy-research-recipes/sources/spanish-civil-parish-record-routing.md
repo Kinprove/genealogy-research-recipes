@@ -59,6 +59,12 @@ The decision order, the period and diocese routing, the survival-before-loss che
 
 - **S49:** U.S. Social Security Administration, [GN00312.372 Spain: Vital Statistics Records](https://secure.ssa.gov/POMS.NSF/lnx/0200312372). Passage read 2026-11-16. Used for: The procedure states that divorce is recorded as a marginal note on the marriage record terminated by divorce; old contact addresses were not adopted.
 
+- **S50:** Esther Shuman, MyHeritage Blog, [MyHeritage Adds 180 Million Historical Records in November 2025](https://blog.myheritage.com/2025/12/myheritage-adds-180-million-historical-records-in-november-2025/) (3 December 2025). Community announcement read 2026-11-20. Used for the author's suggestion to search the Barcelona Catholic marriage index and the original collection title, which includes Catalonia.
+
+- **S51:** MyHeritage, [Spain, Barcelona Marriages, 1847-1904](https://www.myheritage.com/research/collection/spain-barcelona-marriages-1847-1904/colid-20978). Public catalogue description and search form read 2026-11-20. Used for the displayed title, the Catholic marriage scope, the name and spouse search fields and the date, place and parents' names described as typical index fields. Review covered the public page only.
+
+- **S52:** Arxiu Diocesà de Barcelona, [Arxius Parroquials](https://arxiu.esglesia.barcelona/arxius-parroquials/). Public catalogue read 2026-11-20. Used for the independent route through the archive's listings of parishes with surviving pre-Civil War records.
+
 ## Credits
 
 - Kinprove original procedural synthesis; civil-registration dates, diocesan boundaries, custody, series scope and access rules checked against BOE and Gaceta legal texts, the Acta Apostolicae Sedis, PARES and Archivo Histórico Nacional pages, diocesan, provincial, foral and notarial-college pages, Defence and Culture ministry pages and the Army's personnel-custody guide, INE statistics, open-data and university library records, reference pages, an Andorran law and archive pages and a journal article cited as S1 to S45 — FSL-1.1-MIT (kinprove-original)

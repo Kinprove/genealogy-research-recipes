@@ -10,8 +10,8 @@ guardrails: [{"id": "MYHERITAGE-DNA-MATCH-INVESTIGATION-01", "text": "Save empty
 handoff: ["ai-for-dna-research"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 28}
+capabilities: {"browse": ["myheritage"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish", "third-party-tool", "upload"], "contact": ["contact"]}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 29}
 ---
 
 # Recipe: MyHeritage DNA match investigation playbook
@@ -148,6 +148,29 @@ for a whole-tree replacement, also the old/new kit-profile crosswalk and observe
 5. Save empty results with their actual query, kit, filters and date. Do not fill an unshown DNA
    measurement with zero or infer that a person outside the list has no shared DNA.
 
+Use **Tree details → Has shared surnames** for a pass looking for any ancestral surname the two
+trees share [S51 @2026-11-20], [S52 @2026-11-20]. To look for a particular surname, run a separate
+ancestral-surname search with that filter cleared, especially if the name is still missing from
+the tester's tree.
+
+When a match card shows a name in brackets after the original, use the Global Name Translation
+rendering as a spelling lead. Save both forms with the match's identifier and verify the person's
+identity before joining records across scripts [S47 @2026-11-20], [S49 @2026-11-20].
+
+If the first company's list stalls and relatives on the target branch are reported to use
+MyHeritage, review an existing authorized MyHeritage kit for the same tester. If a parent helped
+sort the first list, include that parent's authorized kit when available. Compare the tester's
+results across services for new leads. Log each match under the kit and service that returned it
+[S53], [S54].
+
+**Privacy gate:** <!-- privacy-gate: upload --> A new DNA test sends the living tester's kit
+activation data to MyHeritage and their cheek sample to its testing lab. Answer the privacy gate
+in `SKILL.md` first.
+
+If there is no existing kit and the tester chooses this search, use a new MyHeritage DNA test
+for the tester who needs matches [S55 @2026-11-20]. Treat the reported use of the site as a
+reason to check that database. Leave relatives' testing status open until you have evidence.
+
 Return to the kit’s DNA Matches list when AutoClusters leaves a lead out of the chart. Its thresholds select only a subset of the kit’s matches [S33 @2026-11-18]. One researcher’s only promising match shared 2.3% and did not appear in the chart [S32 @2026-11-18]. Keep that match on the shortlist.
 
 A failure-to-pay maintenance warrant gave Fuller a possible father’s surname to search in DNA Matches. She reports that his First World War personnel file held court papers in which he admitted paternity and agreed to maintenance [S37]. Compare identifying details such as occupation and next of kin in the personnel file with the warrant and other records [S38]. Record the documentary admission separately from the surname hit.
@@ -187,6 +210,10 @@ relationship, and do not give it shortlist cM fields. In one Cousin Finder compa
 5. When evidence changes, update the label and note together, recording why. Keep the dated old
    assessment in the packet so a tentative label cannot later masquerade as original evidence.
 
+When resuming from a match review, look for its labels at the top of **Review DNA Match** and
+for each shared match's labels on its row. Open the label manager to read the full names and any
+labels hidden from the row's display [S43 @2026-11-20], [S46 @2026-11-20], [S60 @2026-11-20].
+
 **Output:** label key, dated match notes, and a follow-up queue.
 
 ## 4. Turn shared matches into specific comparison candidates
@@ -203,6 +230,15 @@ relationship, and do not give it shortlist cM fields. In one Cousin Finder compa
    relevant profile links and the next record or question required.
 5. If the next question is about a shared segment, use workflow 5. Being shared matches does not
    establish that all three share the same segment, nor name the ancestor who supplied it.
+
+In **Shared DNA Matches**, hover over the tree icon on B's row and choose **View tree** if offered.
+Hover over the note icon to read your existing note before repeating research
+[S43 @2026-11-20], [S44 @2026-11-20]. If the tree cannot be opened, record the access state.
+
+Use the **Shared DNA Matches** sort menu to rank B by DNA shared with A when looking for A's
+strongest matches. Choose DNA shared with the focal kit when looking for the tester's strongest
+matches. The default ranks by the sum of both amounts. Record which pair drove each pass
+[S47 @2026-11-20], [S48 @2026-11-20].
 
 Place documented shared matches in the tester’s tree. In the published case, their lines converged on the tester’s great-grandparents, giving the family a couple whose descendants they could trace [S34], [S35]. Record how the unplaced match might descend from the couple, and leave that connection provisional until documents support it. Use workflow 5 to investigate the segment.
 
@@ -348,6 +384,12 @@ diagram [S36 @2026-11-18], [S12 @2026-11-18].
    assessment; it neither supplies documentary proof nor automatically updates the family tree.
    No theory means no generated suggestion currently visible, not no biological relationship.
 
+Use **Confirm** or **Reject** above the full theory path and check the resulting status on the
+DNA Match card. If new evidence reopens the question, select **View theory** and undo the decision
+to return that theory to pending. When a card has several theories, record status in each theory's
+own view. A card can show confirmed when only one theory is confirmed
+[S11 @2026-11-20], [S50 @2026-11-20].
+
 **Check the family group behind each connection, not only the join.** Test the family the
 underlying tree shows against your records and against plausibility. Kessler found two near-namesakes born in 1796 and 1848 recorded as brothers in a theory. The 52-year gap suggested that the younger man might instead be a grandson [S23 @2026-11-14]. Mark the unsupported link `contradicted` or `unresolved`, consider where a generation may have been missed,
 and keep the connections your records support. Two siblings with
@@ -367,15 +409,21 @@ the last 30 days carry a NEW badge, and the Has Theory of Family Relativity opti
 Tree details filter (All tree details in some views) lists the matches that have one
 [S10 @2026-11-12], [S13 @2026-11-12], [S12 @2026-11-12], [S19 @2026-11-12].
 
+Compare a visible theory with the saved path before recording it as revised. The June 2022 run
+added theories without revising earlier ones [S11].
+
 To give later runs more people to join on, extend the tree: MyHeritage says the number of
 theories depends on the size and detail of the tree [S15 @2026-11-12]. Estes extends each ancestor's line
 through the grandchildren where she can [S16 @2026-11-12]; do this with deceased people only.
+
+Before the next run, check for documented deceased great-grandparents and great-great-grandparents
+missing from the linked tree. List them for the deceased-only extension above [S11].
 
 **Output:** theory packet, connection ledger and recorded review decision.
 
 ## 7. Recover genealogical leads when the match's tree is missing or private
 
-**Use when:** a useful match has no accessible pedigree.
+**Use when:** a useful match has no accessible pedigree or its pedigree leaves the connection open.
 
 1. Record whether the tree is absent, private, or inaccessible with the present account. Keep
    those states separate; do not invent ancestors from a surname or ethnicity display.
@@ -387,6 +435,29 @@ through the grandchildren where she can [S16 @2026-11-12]; do this with deceased
    tree belongs to; it is not automatically A's tree.
 4. Form one bounded question for A or the manager, such as a grandparent's birth surname and
    birthplace, or whether a specified documented ancestor appears in their tree.
+
+For a geography question, compare the tester's and match's **Genetic Groups** on **Review DNA
+Match** if that panel is visible. Use a shared group to choose a place to investigate and check it
+against the pedigrees. Keep the branch unassigned until you have evidence for it
+[S43 @2026-11-20], [S45 @2026-11-20].
+
+If the target surname is missing from the match names, search the match's accessible tree and
+any relevant tree already available from the kit manager. Include the target ancestor's birth
+surname. Record where it occurs and which connecting people remain to be found [S56], [S57].
+
+When the connection remains open and a **Smart Match** places a known relative in another tree,
+use **Discoveries → Matches by people → Review Match** to inspect the overlap [S58 @2026-11-20].
+Compare that branch with the DNA match's tree for the missing person. Check whether a candidate's
+child in one tree appears as the match's grandparent in the other, and verify each link before
+recording the relationship [S57 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: contact --> A message to a Smart Match tree manager can
+disclose living relatives' identities or a tentative relationship to that manager. Answer the
+privacy gate in `SKILL.md` first.
+
+If a specific link is still missing, use workflow 8's approved first-message procedure to ask
+the Smart Match tree manager where that match offers **Contact**. Ask only for the missing
+relationship or its source [S57 @2026-11-20], [S59 @2026-11-20].
 
 When a match at another company has no tree there or only a small one, look for the same
 person in this kit's DNA Matches and in Cousin Finder, which finds relatives through matches
@@ -439,6 +510,10 @@ Use the approved first-message procedure for an unclustered match when you have 
 4. Match observations across sessions using stable match links/identifiers where available.
    Record additions, changes and unavailable observations. A disappeared row under changed
    filters or access is not evidence that shared DNA became zero.
+
+If a retained MyHeritage match-list export contains labels, use those values to reconstruct
+the groupings as of the export date. Check the match's live labels before treating the old
+grouping as current [S43], [S46].
 
 Recheck the same kit when new matches arrive after an unproductive review [S39 @2026-11-18]. In one case a strong-match email followed a list of distant cousins. The tester opened the account and found a first-cousin match [S40 @2026-11-18], [S41 @2026-11-18]. Read the card and log its relationship estimate before adding it to the shortlist.
 

@@ -11,7 +11,7 @@ handoff: []
 checked: null
 checked_basis: null
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "publish"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 34}
+router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 35}
 ---
 
 # Stage and draft outreach to a DNA match or untested relative
@@ -54,7 +54,7 @@ It does not cover the following, which have their own recipes:
 
 ## 2. Stage the approach by relationship closeness
 
-**Privacy gate:** <!-- privacy-gate: contact --> Every message in this step goes to a living person and can disclose the tester's case; clear step 1 and answer the privacy gate in `SKILL.md` before any of them is sent.
+**Privacy gate:** <!-- privacy-gate: contact --> Every message in this step goes to a living person and can disclose the tester's case; clear step 1 and answer the privacy gate in `SKILL.md` before any of them is sent. If a spouse passes on a message, clear what the tester shares with both the spouse and the eventual recipient.
 
 Rank every planned recipient by how close the relationship is and how sensitive the case is. Then apply these tiers:
 
@@ -80,6 +80,8 @@ Contacting a more distant relative is still contact. It needs the same consent a
 
 When two close matches point to the same paternal family, ask a relative you can already reach which brothers were in that family [S17]. Keep the question to family structure and use the replies to build a candidate list. Agreement on a surname does not identify the father.
 
+If a match has died and other matches cannot answer the branch question, ask a surviving spouse you can already reach whether they remember anyone the match had reconnected with on that line [S31]. If the spouse already has a way to reach that person, ask whether the spouse would pass on a cleared message. Follow the Living people rule in `SKILL.md` and leave private contact lists and details out of the request.
+
 ## 3. Write a first message the recipient can check
 
 **Privacy gate:** <!-- privacy-gate: contact, publish --> The message names kits, shared DNA and possibly a tree with living relatives in it; answer the privacy gate in `SKILL.md` before sending it or the tree link. The same gate covers historical record excerpts sent to the match that could identify living descendants.
@@ -98,15 +100,27 @@ Keep it short. The aim is that the recipient does not have to move from website 
 
 Check the match's linked tree for signs that someone other than the tester runs the kit, sometimes the family's genealogist [S9]. If so, write to that person. In the sensitive tier, the tester decides first whether that person may be contacted (step 1).
 
+To message a MyHeritage match, use **Contact** on the match [S25 @2026-11-20] or at the top of **Review DNA Match** [S26 @2026-11-20]. For a managed kit, you can contact the kit manager or, if the match has their own MyHeritage account, the match [S26 @2026-11-20]. Check the options in the user's account and confirm the selected recipient is cleared before sending.
+
 Do not make the one question a request for access to the recipient's test results. Ask for that only after they have replied. Legacy Tree lists results access among useful requests to a genetic cousin [S6]. This governs what a message asks; a site's own connection or sharing request, such as 23andMe's, follows that site's recipe.
 
 Ask a question the recipient can answer from their records. Milgrom reports that questions to Iberian matches about Jewish lineage drew no replies. After she asked whether their family records reached the 1400s or 1500s, some matches could answer [S10]. Ask about a person, place or period without assigning an ancestry to the recipient. Milgrom sent short versions in English and Spanish; choose languages the recipient is likely to use [S10].
 
+If the paper trail breaks at a migration or displacement, ask a match in a likely branch what their family kept from the missing place or period, such as letters, photographs, family Bible entries, military keepsakes or oral histories [S28] [S30]. If you have a regional cluster, use it to choose which branches to ask. Keep the gap open until you have evidence for the missing link.
+
 For the most sensitive tier, step 2 limits what you may say, and those limits override this list. Leave out any kit or cM detail that would itself tell the recipient how they are related to the tester.
+
+If the tester already knows of a possible half-sibling, acknowledge that the recipient may know nothing about the tester and give a brief introduction before asking for help [S24]. Keep the suspected relationship out of the subject line and the message.
 
 If records point to a possible connection through enslavement, offer the match the relevant historical records in place of the checklist question and say explicitly that you expect no reply or information in return [S15] [S16]. Leave ancestry estimates out of the outreach decision. Send cleared excerpts if the match accepts the offer.
 
 ### After a match replies
+
+**Privacy gate:** <!-- privacy-gate: contact --> An introduction or question to a witness can disclose the tester's case and identifying details about living relatives to the match, kit manager, or anyone they involve. Answer the privacy gate in `SKILL.md` for each recipient and what that person will see.
+
+If a second-cousin match is on the line you need, ask whether the match would arrange an introduction, with the relative's agreement, to their parent or that parent's sibling on that line [S23]. If a kit manager knows the relevant branch, ask whether they can pass an invitation through a relative they already know [S27]. Reassess the disclosure tier for each new recipient.
+
+If a match's parent may have known the tester's mother, ask whether that parent would be willing to describe what they remember and how they knew her [S29]. Use the recollection as an attributed lead when evaluating candidate relationships.
 
 **Privacy gate:** <!-- privacy-gate: contact, publish --> A photo can show living people and would reach the match and the relative who sees it. A birth surname sent to the match may reveal a living person's name change or adoption. Answer the privacy gate in `SKILL.md` before either disclosure, including any onward sharing of the photo.
 

@@ -11,7 +11,7 @@ handoff: ["burial-evidence-packet"]
 checked: "2026-11-18"
 checked_basis: "Read 2026-11-18"
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["publish", "request"], "contact": ["contact"]}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 40}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 41}
 ---
 
 # Correct a Find a Grave memorial or request its management

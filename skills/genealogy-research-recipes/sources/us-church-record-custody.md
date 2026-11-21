@@ -70,6 +70,26 @@ The four-state negative ledger, the candidate register fields, the order of step
 
 - **S47:** Church History Library, [Baptism and Confirmation Information in Early Records](https://churchhistorylibrary.churchofjesuschrist.org/guides/baptism-and-confirmation-information-in-early-records?lang=eng). Passage read 2026-11-16. Used for: The Record of members collection, 1836–1970, and ward/branch arrangement, including separately catalogued later acquisitions. The broader collection list in the community post was not imported.
 
+- **S48:** Just Genealogy / Craig R. Scott reading Donald Lines Jacobus, [Genealogy Pastime and Profession  - Chapter Twelve -  Source Material](https://www.youtube.com/watch?v=5Gx_gZfVHE4), published 2024-08-13. Supplied transcript passages read 2026-11-20. Jacobus recommends Bailey’s compilation as a quick reference, cautions about its name readings and describes historical society copies and State Library deposits and indexing. The search result identified the reading, and the watch page could not be opened. The passages supplied the research leads, with the title, errata and holdings checked against the other sources. The frequency of name errors and the local storage arrangements remain unverified.
+
+- **S49:** Scott Andrew Bartley, American Ancestors, [An Annotated Table of Contents for Bailey's Early Connecticut Marriages](https://www.americanancestors.org/annotated-table-contents-baileys-early-connecticut-marriages), published 2002-10-11. Annotated table and introductory notes read 2026-11-20. The table gives congregation coverage, years, and volume and page locators for the seven books. The notes identify omitted errata in several one-volume reprints.
+
+- **S50:** Cornell University Library via Internet Archive, [Early Connecticut Marriages as Found on Ancient Church Records Prior to 1800](https://archive.org/details/cu31924092205842). Catalogue entry read 2026-11-20. The entry confirms Frederic W. Bailey’s name, the title and the inclusion of errata in most original volumes.
+
+- **S51:** Connecticut Museum of Culture and History, [Family History](https://www.connecticutmuseum.org/research-old/family-history/). Collection description read 2026-11-20. The Hartford museum describes published church records and abstracts in genealogical manuscripts filed by town or family. Statewide coverage of register copies was not established.
+
+- **S52:** Connecticut Museum of Culture and History, [Brand Launch FAQs](https://www.connecticutmuseum.org/brand-faq/). Name history read 2026-11-20. The institution formerly used the name Connecticut Historical Society and unveiled its current name in 2023.
+
+- **S53:** Connecticut State Library, [Church Records by Town](https://libguides.ctstatelibrary.org/c.php?g=1363457&p=11150487). Finding aid introduction and abbreviations read 2026-11-20. The town guide identifies microfilm, State Archives records and Church Records Index coverage.
+
+- **S54:** Connecticut State Library, [Genealogy Indexes: Church Records](https://libguides.ctstatelibrary.org/c.php?g=211782&p=11144255). Index guide read 2026-11-20. The guide explains the SLI notation, limits of coverage and the record citation on each abstract slip.
+
+- **S55:** Just Genealogy / Craig R. Scott, [Kanawha River Valley and the Genealogist - JG0077](https://www.youtube.com/watch?v=NjS8_aIcjOY), published 2022-05-24. Supplied transcript passage read 2026-11-20. Scott describes the published minutes and the county records included in the book. The search result identified the episode and its Heritage Books sponsorship, and the watch page could not be opened. The publisher and the library acquisitions review corroborate the publication’s arrangement.
+
+- **S56:** Heritage Books, [Old Kanawha Baptist Church Minutes, Indexed, Plus Unpublished County Court Records of West Virginia](https://heritagebooks.com/products/101-p0735). Publisher description read 2026-11-20. It identifies Peck and Andrus, the July 1796–August 1845 Pratt minutes, their meeting, baptism and dismissal entries, and the separate county-record section. The book itself was not inspected.
+
+- **S57:** Clark County Genealogical Society, [25 Years of “Trail Breakers”](https://www.ccgs-wa.org/wp-content/uploads/2021/12/v25n1.pdf), vol. 25, no. 2 (Winter 1998–99), p. 15. Library acquisitions entry read 2026-11-20. The entry identifies Peck and Andrus’s book, the Pratt transcription and the county-record section. The review concerns the 1997 edition.
+
 ## Credits
 
 - Family History Fanatics, Genealogy Research: How to Research When Records Have Scanty information (2020-12-05) — Short quotation for attribution and commentary; source rights retained by the presenter (quoted)
@@ -78,3 +98,4 @@ The four-state negative ledger, the candidate register fields, the order of step
 - Kinprove original source annotations — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural synthesis; presenter examples and custody routes are attributed inline and cited as S1-S18; archive, depository and canon-law facts from S19-S29, paraphrased — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural additions; community passages and separately checked guides listed above are paraphrased with attribution, without reproducing their expression — FSL-1.1-MIT (kinprove-original)
+- Donald Lines Jacobus as read by Craig R. Scott, and Craig R. Scott’s Just Genealogy episode (S48 and S55) — Research leads paraphrased with attribution, with source rights retained by the respective rights holders (adapted)

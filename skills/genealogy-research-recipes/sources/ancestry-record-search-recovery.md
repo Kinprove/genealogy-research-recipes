@@ -127,10 +127,15 @@ its read earlier that day. Videos were not re-read. No live Ancestry search was 
 
 - **S14:** [Ancestry Support, Using the Card Catalog](https://redir.ancestry.help/hc/en-us/articles/53933305954579-Using-the-Card-Catalog). Documents title and keyword fields, associated terms, filters and searching a selected collection. Ancestry Support article read 2026-11-19.
 
+- **S15:** Gena Philibert-Ortega, Family Tree Magazine, [Finding Female Ancestors: Common Brick Walls and How to Solve Them](https://familytreemagazine.com/female-ancestors/brick-walls-women-genealogy/). Community article read 2026-11-20. The author suggests filtering existing Ancestry results by place. The recipe adopts this advice for the historical-record results view documented in S16.
+
+- **S16:** [Ancestry Support, Refining Your Search to Improve Results](https://redir.ancestry.help/hc/en-us/articles/53933347318419-Refining-Your-Search-to-Improve-Results). Ancestry Support article read 2026-11-20. Documents filtering historical-record results by record location from the left side of the results page.
+
 ## Credits
 
 - Roberta Estes, DNAeXplained, RootsTech 2024: DNA Academy and Ancestry Announcements, blog post, 2024-03-14, cited as S1 — All rights reserved; short attributed facts (adapted)
 - Suzan Younger, Dallas Genealogical Society, The Newspapers Stories and Events Index, 2024-03-25, cited as S2 — All rights reserved; short attributed facts (adapted)
 - Andrew Koch, Family Tree Magazine, Searching the Newspaper.com Indexes at Ancestry, updated 2026-05-04, cited as S3 — All rights reserved; short attributed facts (adapted)
 - Community sources S7, S8, S9, S10 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
+- Gena Philibert-Ortega, Family Tree Magazine, Finding Female Ancestors: Common Brick Walls and How to Solve Them, cited as S15 — Rights retained by their owners, with the advice paraphrased (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)

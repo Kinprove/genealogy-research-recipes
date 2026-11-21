@@ -93,8 +93,14 @@ The page × target ledger, field-specific adjudication, catalogue-conflict handl
 
 - **S67:** Ukrainian Wikisource, [Архів:ДАЖО/1/77](https://uk.wikisource.org/wiki/Архів:ДАЖО/1/77). Parent inventory and navigation by file cipher checked 2026-11-19.
 
+- **S68:** Family Tree Magazine, Sunny Morton, [The Family Search Historical Images Portal: A Quick Tour](https://www.youtube.com/watch?v=_H4Kh-0PfUY), published 2023-08-22. Supplied transcript excerpt read 2026-11-20. Morton suggests scrolling the thumbnail grid to gauge the extent of the group and looking for another title page as a possible start of a later volume. The full video could not be opened. The excerpt supplies the browsing tip, and S69 supplies the current interface instructions.
+
+- **S69:** FamilySearch Help Center, [How do I find an image in an unindexed collection in Historical Records?](https://articles.familysearch.org/hc/en-us/articles/41335494946587-How-do-I-find-an-image-in-an-unindexed-collection-in-Historical-Records), updated 2025-09-22, read 2026-11-20. Used for the Explore Historical Images web viewer's 3×3 grid control and the use of thumbnails to locate books within a single image group.
+
 ## Credits
 
+- Family Tree Magazine, Sunny Morton (S68) — Copyright retained by the rights holder, with the browsing advice paraphrased and credited (adapted)
+- FamilySearch Help Center (S69) — Copyright retained by the rights holder, with the viewer instructions paraphrased and credited (adapted)
 - Ukrainian Wikisource (S67) — Inventory navigation paraphrased with attribution (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
 - Dzen posts of the channels «Сыщик рода» and «Поиск предков: Тульская губерния» cited as S57, S59 and S60 — Copyright of their authors; short paraphrase of the authors' reports (adapted)

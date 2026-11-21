@@ -10,8 +10,8 @@ guardrails: [{"id": "SPANISH-CIVIL-PARISH-RECORD-ROUTING-01", "text": "**Expect 
 handoff: ["catholic-parish-diocesan-record-recovery", "city-directory-observation-workflow", "evidence-proof-judgment", "hispanic-catholic-register-recovery", "historical-place-name-resolution", "school-university-record-recovery", "tax-roll-observation-workflow", "usa-immigration-search-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 108}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 114}
 ---
 
 # Route a Spanish or Andorran record to the archive that holds it on the event date
@@ -83,6 +83,10 @@ Inspect the margins of the marriage entry as well as its main text. The SSA’s 
 - **Search the Archivo Histórico de Euskadi's Registros Sacramentales index for a Basque event.** It indexes baptisms, marriages and deaths of all the historical Basque parishes, about 1490–1900, under a cooperation programme with the three dioceses [S4], [S5]. The portal shows index entries only. Each entry is linked to the digitized image held by the owning diocesan archive (for Bizkaia, the Archivo Histórico Eclesiástico de Bizkaia), and copies come from that archive [S4].
 - **Test an index miss in the book.** Use the rules in [Catholic parish and diocesan record recovery](catholic-parish-diocesan-record-recovery.md), step 4, and the surname lanes in [Hispanic Catholic register recovery](hispanic-catholic-register-recovery.md), step 3.
 - **Where a diocese has no online index, write to its archive.** Give the parish, the record type, the approximate date and the names.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Submitting this search sends the historical spouses' names and any marriage date or parents' names you enter to MyHeritage. Answer the privacy gate in `SKILL.md` before you submit it.
+
+**Search MyHeritage's Spain, Barcelona Marriages, 1847-1904 index** for a Catholic marriage in Barcelona in that period [S50 @2026-11-20], [S51 @2026-11-20]. Search by the spouses' names and record the indexed date, place and parents' names when present [S51 @2026-11-20]. Treat a hit as a lead to the marriage book. If the search misses, check the parish and year in the Arxiu Diocesà de Barcelona's *Arxius Parroquials* catalogue before drawing a conclusion [S52 @2026-11-20].
 
 ## 3. Check survival and duplicates before calling a book lost
 

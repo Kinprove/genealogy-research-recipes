@@ -10,8 +10,8 @@ guardrails: [{"id": "US-20TH-CENTURY-MILITARY-SERVICE-RECONSTRUCTION-01", "text"
 handoff: []
 checked: "2026-10-26"
 checked_basis: "checked 2026-10-26"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 131}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": ["contact"]}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 140}
 ---
 
 # Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction
@@ -80,6 +80,11 @@ death-file route below. A missing voucher is not evidence of non-service.
 A payroll entry dates the end of service and names the last unit. It is not a full service history. The recorded unit may be a separation unit rather than the operational unit [S27]. Log "no OMPF; auxiliary returned, 3 pp." rather than "file destroyed".
 
 Copy the character of discharge exactly as written, and read the discharge papers for the stated reason [S30]. During WWII about 50,000 people received "blue" discharges, named for the paper, for "undesirable habits and traits of character". About 9,000 of them were men and women discharged because of their sexuality, and African American men were the largest group of recipients. The practice ended on 1 July 1947, when the undesirable discharge replaced the blue discharge and the general discharge was created [S41]. The VA's reading of the GI Bill barred blue-discharge recipients from veterans' benefits [S31], so a missing VA claim file can follow from the discharge type, not from non-service. A blue or other-than-honorable discharge is a lead to the reason for separation; it does not by itself establish his sexuality or any other reason.
+
+Before closing a WWII Army decorations search, read the darkened pages of surviving
+copies for award references and use any order number in the award-order search below
+[H2], [S69]. One incomplete, darkened set of papers reportedly yielded a Good Conduct
+Award reference [S69].
 
 For possible Quaker affiliation, use the suggestion from the available excerpt of *Just
 Genealogy* and check surviving military papers for a religion entry [S62].
@@ -264,6 +269,34 @@ on one day then does not show that the man was absent from the unit.
 
 If he served in the Navy, Army morning reports and AAD's WWII Army enlistment file do not cover him; his unit records are the muster rolls of each ship and station he passed through. A muster roll records the date a man reported on board or for duty. The personnel diaries, the Navy's equivalent of the Army's morning rosters, record reporting to and transfer from the activity. For 1939–1956 the rolls list enlisted men only; for an officer serving aboard a commissioned ship, use that ship's deck logs [S35 @2026-11-12]. NARA's muster-roll page points to the Ancestry collection *U.S. World War II Navy Muster Rolls, 1938–1949* [S36 @2026-11-12]. Log each "received" and "transferred" entry with its roll and month as a dated row, then add the Notice of Separation and the discharge certificate. Follow transfers through shore stations and naval hospitals as well as ships [S37 @2026-11-12]. The rolls are not daily lists, so a gap between two entries does not place him anywhere [S35 @2026-11-12].
 
+### Find and read early Army morning reports
+
+Check the user's Fold3 account for *US, Morning Reports, 1912–1939*, listed by NARA
+staff in 2024 [S75 @2026-11-20]. Use the company ranges from the available excerpt of
+the April 2022 walkthrough when the account offers them [S74 @2026-11-20]. Match
+the exact company and month before reading the images.
+
+If Fold3 lacks the target company or month, log the gap and use the offline route
+above. For WWI reports, look up the arm of service or unit type and unit number in
+the NARA morning-report index. Use the box number on the index card to locate the
+microfilm reel [S76].
+
+On a WWI monthly form, use the month and year in the heading and the day number
+in the dated remark to place the status change. Read the daily strength columns as
+unit totals and the signed men’s rations figures as ration changes. Use the named
+remarks to establish who went sick, returned to duty, joined or left. Match a
+surname-only entry against the documented company and retain the service number
+where given. Keep the identification open if more than one person fits [S76].
+
+Use **Station and Record of Events** to date the company’s locations and movements.
+Follow the suggestion from the available excerpt and check this section as well as
+the remarks for individual names and serial numbers [S74]. Keep the itinerary in
+unit context unless an entry ties the person to the event. Follow any continuation sheets,
+including typed pages, and match them to the unit and date before reading the
+report as complete [S76], [S77].
+
+### Trace an award reference
+
 **An award reference:** an OMPF decorations field is a lead to an order, not the order
 itself. For Korean War Army records, NARA's 2023 presentation gives two search keys:
 the General Order (GO) number, or the awarding unit and approximate award date [S28].
@@ -287,12 +320,50 @@ Keep the order as a separate row in the routing register. A GO is not a complete
 roster, and neither an uninspected award reference nor a unit narrative proves the man's
 action. Continue to separate personal statements from unit context in the timeline.
 
+### Follow Army transport voyages
+
 The presenters describe outbound and returning Army transport passenger lists [S14], [S22]. The [Ancestry database 61174 link](https://search.ancestry.com/search/db.aspx?dbid=61174) is a collection lead: its fetch returned HTTP 403, so the reported RG 92 attribution and 1910–1939 coverage were not confirmed from the collection description [H12]. Check that description before choosing the collection, then search both directions:
 
 - Treat a 1930 census veteran answer as a lead either way: search the transport lists even when the answer is "no" [S22].
 - Record the vessel, dates, service number, company/regiment and named nearest relative with the stated relationship [S14].
 - Follow ditto marks up to the top of the page, or back to earlier pages, to read the unit [S22].
 - Compare the relative and address with the census household and city directories before attributing a letter, postcard or identity [S14], [S22].
+
+For WWI transport, check Ancestry collection 61174 even when the NARA Catalog has
+no images for the target direction. NARA's partner table points both RG 92 series
+to the same Ancestry collection, with incoming lists at NAID 6234465 and outgoing
+lists at NAID 6234477. Read the availability column as the status in NARA's own
+Catalog. Use the partner table to identify the database if its description is
+blocked. Check the vessel and date coverage on Ancestry for each direction
+[S71 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Ancestry receives the veteran’s name in the transport search. Answer the privacy gate in `SKILL.md` before entering it.
+
+Search by the veteran's name in the Ancestry collection and look for the outbound
+and return images separately. Compare any recorded rank, unit, service number
+and next of kin across the two results and against the independent identity
+evidence. Record the ship, voyage date and port in the role each manifest gives
+them [S71 @2026-11-20], [S72 @2026-11-20].
+
+If the outbound manifest places him on a voyage overseas and the return search
+comes up empty, keep the return unresolved. When his fate is also unresolved,
+check the WWI burial-case series for a possible death in service [S61].
+
+If you have a unit and need the ship, use the finding-aid approach
+from the available excerpt [S70]. For WWI, start with RG 92 entry 2043 for U.S.
+departures to Europe in 1917–1919, entry 2051 for organizations traveling overseas
+and back in 1918–1919, or entry 2053 for troop returns in 1918–1920. Search by
+organization type and unit number. Keep the ship, date and port with the unit lead. For the archival passenger
+lists, look under the vessel and then the date in entry 2060 for incoming voyages
+or entry 2061 for outgoing voyages [S61].
+
+If a WWI morning report records an embarkation without naming the ship, use the
+division's **Movement Overseas** section in *Order of Battle of the United States
+Land Forces in the World War*, volume 2 (CMH Pub 23-2), to bound the sailing date
+and port [S78]. Use those leads and the exact unit in the vessel indexes, then
+verify the person's voyage on the manifest [S61].
+
+### Follow up with unit sources
 
 **Privacy gate:** <!-- privacy-gate: contact --> Asking a veterans’ association about a unit can disclose a living veteran’s service. Answer the privacy gate and follow Living people in `SKILL.md` before contacting the association. Ask by unit and dates where those are sufficient.
 
@@ -305,6 +376,13 @@ Ask the veterans’ association which repositories hold diaries or photographs, 
 ## Treat WWII casualty lists as incomplete
 
 Compare the federal WWII casualty roster for the relevant branch and circumstances with local newspaper casualty lists, county memorial lists and, for a crash, the full crew roster. Differences can reveal a name missed in the initial search [S13]. Record which list or report supplies each name and verify the individual’s status.
+
+For a missing WWII Army Air Forces crew, look for the *Missing Air Crew Report*
+(MACR). If the report number is unknown, browse the digitized crew-name card index
+in the NARA Catalog (RG 92, entry A1 2109-A). Use the report number to retrieve the
+file in the Catalog (entry A1 2109-B) or in Fold3's M1380 collection. Record the
+MACR as its own product and compare the names, service numbers and crew positions
+actually given with the casualty list [S73 @2026-11-20], [S71 @2026-11-20].
 
 Before reading a miss, check which branch and which deaths each list covers. NARA's 1946 *World War II Honor List of Dead and Missing Army and Army Air Forces Personnel* lists War Department casualties only, by state and then county [S38], [S40]. Each entry gives serial number, rank and type of casualty, not birthplace or residence [S38]. Navy, Marine Corps and Coast Guard men are in the separate 1946 *State Summary of War Casualties*. It covers deaths from enemy action or from operations against the enemy in war zones, and leaves out deaths in the United States and deaths from disease, homicide or suicide anywhere [S39]. A sailor or Marine absent from the Army list, or a man who died stateside or of illness absent from the Navy summary, is outside that list's scope; log the miss as out of scope, not as a negative.
 

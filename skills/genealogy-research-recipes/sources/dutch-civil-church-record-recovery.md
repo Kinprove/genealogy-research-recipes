@@ -34,9 +34,14 @@ The sources supply the procedures demonstrated and the presenters' or author's s
 
 - **S27:** Stadsarchief Rotterdam via Open Archives, [marriage of Cleis Kool and Anna Moerkerke](https://www.openarchieven.nl/srt:A3FDCB69-8896-4415-8372-201FC3AA620A/en), Charlois, 26 July 1848. Archive 2, inventory 545, act 1848.13, folio 16v. The names and roles cited come from the archive’s index. The folio image was not examined. Index entry read 2026-11-19.
 
+- **S28:** Esther Shuman / MyHeritage Blog, [MyHeritage Adds 66 Million Historical Records in May 2026](https://blog.myheritage.com/2026/06/myheritage-adds-66-million-historical-records-in-may-2026/), published 2026-06-07. Collection announcement read 2026-11-20. Used for the South Holland civil-death index lead and date range. The announcement describes age at death. The collection page (S29) lists birth year among the typical fields.
+
+- **S29:** MyHeritage, [Netherlands, South Holland, Civil Deaths, 1900-1942](https://www.myheritage.com/research/collection-21023/netherlands-south-holland-civil-deaths-1900-1942), collection 21023. Public collection description and search form read 2026-11-20. Used for the date range, the list of included civil registration offices, the name and death search fields, and the description of entries with birth year, death date and place, and parents' and spouse's names. Review covered the public catalogue page.
+
 ## Credits
 
 - Kinprove original procedural synthesis; presenter demonstrations and statements cited as S1 (BYU Family History Library / Laurie Castillo), S2 and S3 (BYU Family History Library / Ina Robertson), S4 (GeneaVlogger), and retrieval leads from Yvette Hoitink's Dutch Genealogy articles S5–S7; archive, CBG and reference facts cited as S8–S23; corrections drawn from the IISG, the Amsterdam City Archives DTB guide, ECAL information sheets, the Stadsarchief Delft, CODART and archimon.nl — FSL-1.1-MIT (kinprove-original)
 - Yvette Hoitink, Dutch Genealogy, Dutch term – Meerderjarig, cited as S24 — Facts paraphrased with attribution (adapted)
 - Kinprove original editorial notes summarizing citations — FSL-1.1-MIT (kinprove-original)
 - Nationaal Archief, Old Go and Stadsarchief Rotterdam via Open Archives (S25–S27) — Archive descriptions and published register evidence paraphrased (adapted)
+- Esther Shuman / MyHeritage Blog and MyHeritage (S28–S29) — Collection descriptions paraphrased with attribution (adapted)

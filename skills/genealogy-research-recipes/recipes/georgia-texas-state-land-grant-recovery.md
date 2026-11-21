@@ -11,7 +11,7 @@ handoff: ["ai-for-documentary-records", "deed-content-relationship-clues", "evid
 checked: "2026-11-13"
 checked_basis: "read 2026-11-13"
 capabilities: {"browse": ["state archive and land office pages, databases and file images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 136}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 145}
 ---
 # Read Georgia and Texas original land grants: lottery draws, headright classes and the land office file
 
@@ -69,6 +69,14 @@ Link out for the shared steps:
 - **West of the Oconee: lottery.** Georgia held eight lotteries between 1805 and 1833 [S11]. Each was set up by its own act, which set its own lot size, fee, eligible classes and exclusions [S12], [S13], [S14], [S15].
 - **Name the role before you search.** A person can appear as a whole-lot grantee, a fractional-lot grantee, a participant, a fortunate drawer or a purchaser of land the state sold after a lottery. Each role has a different research route [S6], [S17]. Do not use one search strategy for all lotteries [S6].
 - **Do not apply neighbour-cluster reasoning to lottery lots.** Headright grantees chose their land [S16]. Lottery lots were assigned by draw, and winners did not choose where their land lay [S3], [S11]. A drawer's lot neighbours are not evidence of kin. The people who registered in the same county are the better cluster.
+
+**Read the bounty certificate before assigning military service.** A Georgia Revolutionary War bounty grant alone leaves Georgia military service unresolved. Georgia residents who enlisted in another state's units could qualify as refugees, and eligible residents who remained in Georgia could qualify as citizens without military service [S28], [S29]. Georgia also awarded bounty land to deserters from British service [S29]. Its 20 February 1782 proclamation offered land to Hessian and other troops who left British service and wished to settle in Georgia [S30]. Record the qualification stated on the certificate and corroborate any claimed unit in military records.
+
+**Find the papers behind the grant.** Match the grant to any surviving certificate, petition or warrant of survey in the Georgia Archives' Headright and Bounty Documents (RG 003.04.005) [S31 @2026-11-20].
+
+**Test bounty land as a reason for a postwar move from Virginia.** Search Georgia's Revolutionary War bounty grants and their supporting papers. Check who earned the bounty and who took up the land, since veterans could sell their warrants [S32]. Compare the petition or warrant date with the last evidence of residence in Virginia and the first in Georgia. Look for a record that ties the move to the claim before assigning a motive.
+
+Both leads come from the available excerpt of Craig Scott's talk on state bounty land [S27].
 
 ## 3. Georgia: read the lottery entry under that year's act
 

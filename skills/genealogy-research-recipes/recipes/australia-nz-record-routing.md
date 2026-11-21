@@ -11,7 +11,7 @@ handoff: ["convict-transportation-record-chain", "evidence-proof-judgment", "his
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images", "MyHeritage Victorian birth and death indexes"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 153}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 167}
 ---
 
 # Route an Australian or New Zealand record to the holder and window of its date
@@ -121,6 +121,12 @@ Gather these before searching:
 - **For Victoria, distinguish the original series from its copies.** Public Record Office Victoria holds inward overseas lists of unassisted passengers for 1852–1923 in VPRS 947, covering British, foreign and New Zealand ports. VPRS 7666 is the microfiche copy for British ports [S14 @2026-11-16].
 - **After 1923, search the National Archives of Australia too.** PROV states that Victorian immigration records after 1923 are held by the NAA [S25 @2026-11-16]. Keep the state archive in the search: Queensland State Archives indexes immigrant ships bound for Queensland for 1922–1940 [S26 @2026-11-16].
 - **Route by colony and date before you call a passenger search negative.**
+
+**For an Irish famine-era arrival around 1848–1850, search both assisted and unassisted records at each plausible port, including Sydney, Port Phillip and Moreton Bay** [S39]. Use the ship and arrival date to identify the voyage. Record the native place, parents and any relatives in the colony as written when the assisted list gives them [S40].
+
+**For assisted arrivals, include the NSW colonial lists.** Search the Agent’s and Board’s lists (NRS 5316 and NRS 5317) for Sydney and Moreton Bay, and NRS 5318 for Port Phillip [S40 @2026-11-20]. For Port Phillip, also search Public Record Office Victoria’s assisted index for 1839–1871 [S41 @2026-11-20]. For Moreton Bay, also check Queensland State Archives’ Assisted Immigration index for 1848–1912 [S44 @2026-11-20].
+
+**For unassisted arrivals, choose a source that covers the port and year.** For Sydney, use the 1842–1855 name index (National Library of Australia, mc N 1187) [S40 @2026-11-20]. For Port Phillip before 1852, look for the voyage in Melbourne’s inward shipping register and check the shipping columns of *The Argus* for names [S42 @2026-11-20]. Treat a miss in Victoria’s unassisted index as out of window for those years [S42 @2026-11-20]. For Moreton Bay, use *Early Shipping in Moreton Bay*, volume 1 (1846–1859), to identify the voyage. Its extracts name saloon passengers [S43 @2026-11-20]. For steerage, take the voyage details to the original shipping columns of *The Moreton Bay Courier*. A steerage-name miss in the extracts leaves the question open [S43 @2026-11-20].
 
 Search the ship name and sailing date for another passenger’s diary, journal or shipboard newsletter. Match the vessel and voyage, and use the account as that passenger’s description [S33]. Only a transcript excerpt was inspected for this search suggestion [S34].
 

@@ -138,8 +138,22 @@ S77 is a community magazine article. S78–S81 are the wiki operator's blog post
 
 - **S86:** [German Roots, Places to Find German Genealogy Records and Databases Online](https://germanroots.com/germandata.html). Geographical list read 2026-11-19. The list identifies the regional Lutheran collections for Württemberg and Hesse. Its links are collection locators; current image coverage must be checked for the book.
 
+- **S87:** Esther Shuman / MyHeritage Blog, [2021: MyHeritage Year in Review](https://blog.myheritage.com/2022/01/2021-myheritage-year-in-review/), 2022-01-03. Community source. Post read 2026-11-20. Identifies the NRW civil death index and reports a 2021 update. Use the current collection page (S88) for the search route and title.
+
+- **S88:** MyHeritage, [Germany, North Rhine-Westphalia, Deaths 1874-1938](https://www.myheritage.com/research/collection-10864/germany-north-rhine-westphalia-deaths-1874-1938). Public collection page read 2026-11-20. Used for the title, collection ID, civil-death search fields, stated span, incomplete indexing and the distinction between registration and death dates. The description still gives a March 2023 publication projection for remaining records from Düsseldorf and Köln. Exact office coverage and signed-in access were not tested.
+
+- **S89:** Talya / MyHeritage Blog, [MyHeritage updates Germany, North Rhine Westphalia, Death Index 1874-1938](https://blog.myheritage.com/2021/12/myheritage-updates-germany-north-rhine-westphalia-death-index-1874-1938/), 2021-12-12. Update post read 2026-11-20. The update links the collection and illustrates the civil registry office, volume and entry locators. Its record totals, district coverage and access terms describe the 2021 update.
+
+- **S90:** Daniella Levy / MyHeritage Blog, [I Was an Only Child. Thanks to MyHeritage DNA, I Found 3 Siblings](https://blog.myheritage.com/2024/06/i-was-an-only-child-thanks-to-myheritage-dna-i-found-3-siblings/), 2024-06-10. Community source. Account read 2026-11-20. Monika Fleming says she received scans of the former Lutheran parish's prewar birth, marriage and death registers after contacting someone in a village now in Poland where a Catholic church renovation had uncovered the books. The village, book references and current custodian are unspecified. The scans were not inspected.
+
+- **S91:** Archiwum Diecezji Koszalińsko-Kołobrzeskiej, [Ewangelickie księgi metrykalne](https://www.archiwum.koszalin.opoka.org.pl/ksiegi_ew.html). Inventory read 2026-11-20. The Catholic diocesan archive lists Lutheran books by German and Polish locality, register type and date range. A digitised label describes the format and does not establish online image access.
+
+- **S92:** Archiwum Diecezji Koszalińsko-Kołobrzeskiej, [Zarządzenie w sprawie gromadzenia zbiorów Archiwum Diecezji Koszalińsko-Kołobrzeskiej](https://www.archiwum.koszalin.opoka.org.pl/zarzadzenie.html). Diocesan directive read 2026-11-20. It includes Protestant records already in parish possession in the transfer to this diocesan archive. Its terms apply to this diocese and do not identify the parish or books in S90.
+
 ## Credits
 
+- MyHeritage Blog and MyHeritage collection catalogue (S87–S90) — Collection details and one contributor's account paraphrased with attribution (adapted)
+- Archiwum Diecezji Koszalińsko-Kołobrzeskiej (S91–S92) — Catalogue and directive paraphrased with attribution (adapted)
 - Institut für Sächsische Geschichte und Volkskunde, BYU Library, FamilySearch, Meyers Gazetteer and German Roots (S82–S86) — Reference entries paraphrased with attribution (adapted)
 - CompGen Blog, Brandenburg-Datenbank mit neuen Einträgen, 2022-02-12, cited as S76 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Brandenburg-Datenbank home page and Metasuche, cited as S74–S75 — Facts paraphrased with attribution; one register label quoted (adapted)

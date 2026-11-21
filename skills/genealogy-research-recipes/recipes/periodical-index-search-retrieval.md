@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
-router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 42}
+router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 44}
 ---
 
 # Search a genealogical periodical index and retrieve the article
@@ -56,6 +56,10 @@ Use this recipe when an ancestor's surname, place or event might appear in a gen
 - **Copy any qualifier printed after a place name exactly.** Examples are Kr. (Kreis, district) or an abbreviation for a cultural or topographical region. Resolve the qualifier in the Meyers gazetteer, which separates same-named places by Kreis, before tying the article to one place. In the worked example, one of four like-named places matched the printed district. [S11]
 - **Treat an entry marked Rez. (Rezension) as a book review.** It points to a separately published book. Look for holdings of that book, for example in WorldCat. [S11]
 - **Track authors.** Note the author of any relevant article and add that name to later surname searches. Authors often write more than one article about the same family or area. [S10], [S12]
+
+- **Check the journal's own surname indexes before obtaining an issue.** When you have a likely journal, look for volume-level surname indexes on the publisher's site. Check the relevant volumes even after a PERSI surname miss. [S43]
+
+  For *San Diego Leaves & Saplings*, open **Indexes – Leaves & Saplings** on the [San Diego Records page](https://casdgs.org/San-Diego-Records/) and browse the public surname index for each relevant volume. Use the index locator to read the matching page in the society's member archive or in a library copy. [S44 @2026-11-20]
 
 - **Scan short PERSI surname hit lists before filtering.** Read the unfiltered titles for an unusual surname when the list is short. For a long list, put the place in the **Search Article Title** box under the **Article Title** column. Clear that filter and check the unfiltered list again when a relevant title could omit the place. [S38 @2026-11-18], [S39 @2026-11-18]
 

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 149}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 163}
 ---
 
 # Interpret a historical Canadian census entry as a de jure listing
@@ -27,6 +27,8 @@ Use this recipe when a historical Canadian census line is about to be used as ev
 - Return an annotated observation
 
 ## Record the enumeration basis before reading the line
+
+For a pre-Confederation search in present-day Québec, select the census by year and historical jurisdiction [S29 @2026-11-20]. In LAC's pre-Confederation guide, open Lower Canada for 1825 or 1831, Canada East for 1842, or the Québec returns under *Census of 1851* or *Census of 1861* [S30 @2026-11-20]. Check the surviving sub-districts before treating a miss as evidence of absence [S30 @2026-11-20].
 
 For 1842 Canada West, read the head’s name separately from the numerical household columns. LAC lists a named head of each family, followed by counts by age, sex and other categories [S19]. Do not assign unnamed household counts to particular spouses or children. Check the surviving district pages and their headings before calling a household absent; a statistical total is not a nominal return [S20].
 

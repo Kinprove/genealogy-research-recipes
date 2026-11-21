@@ -54,6 +54,10 @@ S10, like S1–S5, supplies presenter experience and examples, not statute text 
 
 - **S28:** Library and Archives Canada, [1926 census](https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/censuses/prairie-provinces/1926.html). Census description and schedule headings read 2026-11-19.
 
+- **S29:** Judy Nimer Muhn, Family Tree Magazine, [How to Find Your Acadian Ancestors: From Canada to Diaspora](https://familytreemagazine.com/heritage/canadian/acadian-ancestors/), updated 2026-08-27. Censuses section read 2026-11-20. Muhn suggests using the historical names Lower Canada and Canada East when searching for ancestors in Québec. S30 supplies the census titles and scope for each year.
+
+- **S30:** Library and Archives Canada, [Pre-Confederation, 1825 to 1867](https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/censuses/pre-confederation.html). Coverage table and search tips read 2026-11-20. Used for the census titles and coverage by year for Québec and the gaps in surviving sub-district returns.
+
 ## Credits
 
 - Community sources S20 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
@@ -62,3 +66,4 @@ S10, like S1–S5, supplies presenter experience and examples, not statute text 
 - Kinprove original procedural synthesis; presenter experience and examples cited as S1-S5 (Dave Obee BYU talk; Genealogy Gems episodes 203, 154 and its 2013 release, and the 1931 search-strategies video); 1931 entry-type and reference-date rules drawn from the Statistics Canada 1931 Instructions to Commissioners and Enumerators; census dates and birth-date columns checked against Library and Archives Canada pages and the 1927–28 Canada Year Book (S6–S8, S11 and S21–S28) — FSL-1.1-MIT (kinprove-original)
 - Dominion Bureau of Statistics, Instructions to Commissioners and Enumerators for the Seventh Census of Canada, 1931, instruction 100, as transcribed by the Canadian Century Research Infrastructure project (S15), the radio question and the "irrespective of the ownership of the instrument" wording — rights not reviewed (null); short attributed quotation (quoted)
 - Kinprove original procedural synthesis, added 2026-11-16: the 1931 sub-district lookup, voters-list lead and radio-column rules; community suggestions from the Kathryn Lake Hogan interview cited as S10 and corrected against Library and Archives Canada pages, finding aids and blog posts, the CCRI census guide and a secondary blog (S11–S18) — FSL-1.1-MIT (kinprove-original)
+- Judy Nimer Muhn, Family Tree Magazine (S29), historical-jurisdiction search advice with census titles from Library and Archives Canada (S30) — Third-party content, rights retained by its owners (adapted)

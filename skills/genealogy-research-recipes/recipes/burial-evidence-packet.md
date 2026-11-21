@@ -11,7 +11,7 @@ handoff: ["german-military-record-period-routing", "immigrant-congregation-origi
 checked: "2026-10-07"
 checked_basis: "checked 2026-10-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["link", "publish", "third-party-tool", "upload"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 161}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 177}
 ---
 
 # Build a burial evidence packet from cemetery records
@@ -79,6 +79,19 @@ survey to check their position. Leave the occupants unidentified from these feat
 
 Compare dated cemetery transcriptions word by word, including older editions: a stone legible to a 1940s compiler may have worn away by the 1990s [P118]. Record the compiler and date for each reading and check disputed words against an image or the surviving stone [P146].
 
+A marker search can miss early Acadian burials at Fort Anne in Annapolis Royal because the
+wooden crosses used during the French period deteriorated.
+Search the Nova Scotia Archives' St. Jean-Baptiste parish registers for 1702–1755 when the
+date fits. Retain the parish entry and leave the plot unresolved unless another record locates it.
+[P194 @2026-11-20], [P195 @2026-11-20], [P196 @2026-11-20]
+
+According to Donald Lines Jacobus, the WPA index is a route to Connecticut gravestone
+inscriptions [P213† @2026-11-20]. If a town's death entry is missing or its stone is unreadable,
+search the Charles R. Hale Collection's statewide index. Check the town's circa-1934
+cemetery transcriptions for the inscription and its reported death date. In FamilySearch's Hale index,
+check whether the hit points to a cemetery transcription or a newspaper notice.
+[P214 @2026-11-20], [P215 @2026-11-20]
+
 For an Iowa burial, search the 1930s WPA Graves Registration Project transcription that IAGenWeb
 hosts at iowawpagraves.org. A Wayback Machine capture of 17 January 2026 lists 656,621 records from
 82 counties and names the 17 counties the project never indexed: Appanoose, Benton, Cherokee,
@@ -134,6 +147,11 @@ The Presidential Library shows volume 1 of each without login, and the Russian S
 of the provincial volume is in open access. [P100 @2026-11-13], [P101 @2026-11-13],
 [P102 @2026-11-13], [P103 @2026-11-13]
 
+For a Jewish burial in Vienna's Zentralfriedhof, check both Jewish sections, at Gate I and
+Gate IV. Record the section with the grave locator. Use the Jewish Community of Vienna's
+online burial database through 1945. A later burial lies outside that database's stated
+coverage. [P205 @2026-11-20], [P206 @2026-11-20]
+
 For a death in war or a veteran's burial, search the official registers, which governments and
 war-graves bodies compile, each as its own surface. A miss outside a register's stated coverage
 is not a negative.
@@ -164,6 +182,28 @@ administers Mexico City National Cemetery, Corozal American Cemetery in Panama a
 Cemetery in the Philippines [P99 @2026-11-13]. Do not rule ABMC out for a missing service member of
 those wars or a burial in those three cemeteries.
 
+According to Katharine Andrew, DAR has a Revolutionary War grave marker index
+[P211† @2026-11-20]. In the Genealogical Research System's Revolutionary War Records section,
+use the **DAR Marker and Grave Location Index**. Search by the marker's locality when known.
+The chapter state identifies the state of the chapter that placed the marker. A miss leaves the grave
+unresolved because the index covers recorded reports from the 1890s to about 2005.
+[P212 @2026-11-20]
+
+According to Craig Scott, the Quartermaster records are a route to U.S. military cemetery
+and headstone files [P216†]. In the Record Group 92 guide, search section 92.8.3 for the exact national
+cemetery name and retain its date range. For post cemeteries in the Philippine Islands,
+Puerto Rico or Cuba, use section 92.8.4 for the 1894–1917 reports and burial lists.
+For the locating and marking of Confederate graves, use section 92.10.2, especially for
+prisoners who died in the North. Distinguish a located grave from a name on a monument
+commemorating people whose graves could not be found. [P217]
+
+For a War of 1812 death, use the hospital or place of confinement named in the service
+records to narrow the cemetery search. According to Craig Scott, local battle-cemetery
+sites can supply leads in the Buffalo area [P224†]. For a death at the Williamsville
+military hospital, check the Garrison Cemetery (War of 1812 Cemetery) in Cheektowaga.
+Use the survey’s cemetery description and the hospital record as locators. A hospital
+death alone leaves the individual’s burial place unresolved. [P225]
+
 For an early U.S. government headstone in a private cemetery, route the search by the likely
 application or order date. According to a supplied transcript excerpt, the presenter suggests
 checking the Quartermaster files for an early marker [P172†]. For an application around 1910,
@@ -178,6 +218,24 @@ M1916 (1925–1941) and M2113 (1941–1949), also search FamilySearch's *United 
 Applications for U.S. Military Veterans, 1925–1949*. [P173 @2026-11-18], [P174 @2026-11-18]
 Search these series even for an earlier death if a later application is plausible. A miss in
 the later collections leaves a circa-1910 application unresolved.
+
+For a burial linked to a U.S. military post, camp or station, search FamilySearch's
+*United States, Burial Registers for Military Posts, Camps, and Stations, 1768–1921*
+(RG 92 microfilm M2014). If a name search misses, browse under the post. Check the remarks
+for a removal and use its destination as a lead to the later grave. [P221 @2026-11-20]
+
+For M1845 headstone orders, search FamilySearch's *United States, Records of Headstones of
+Deceased Union Veterans, 1879–1903*. Copy the cemetery, grave or section if given, and
+contract date. Use the cemetery fields to find the interment entry. Read the series years
+as the headstone order period and retain the recorded death date separately. [P222 @2026-11-20]
+
+Inspect the reverse of the 1925–1949 U.S. military headstone application. Record any service
+entries, such as enlistment, unit or discharge, and any certification or stamps by image
+number and side. If only the front is available, mark the reverse unexamined. According to
+Scott's 2022 comparison, Ancestry displayed color in the copies he examined [P216†]. If a scan
+obscures detail, compare the same application and side on both sites in the user's own account
+where available.
+[P173]
 
 On a Soviet WWII mass grave (братская могила), check the name on the plate against the burial records. A 1965 Karelia plate drew on a military commissariat’s list of the dead [P94], and a Kaliningrad researcher reported names transferred between memorial lists without the remains [P93]. Under a 2023
 Ministry of Defence letter, a soldier wrongly counted at a second burial is removed from its list
@@ -214,6 +272,26 @@ entry and label it as a parish burial or a civil death. The combined index gives
 date and place. Take the burial place and date only from a statement about burial, and use the
 death commune as a lead when the burial place is missing. Coverage varies by département.
 [P180 @2026-11-18], [P181 @2026-11-18]
+
+For Jewish deaths and burials in England, Wales, Jersey or the Isle of Man, search
+MyHeritage's *United Kingdom, Jewish Death and Burial Records* (1733–2012). Record the full
+name and stated death place, plus any birth date, death date or age. Check the JCR-UK
+cemetery list for local coverage and shared submissions to JOWBR before counting another
+hit as independent. Take the burial place from an explicit burial statement.
+[P201 @2026-11-20], [P202 @2026-11-20], [P203 @2026-11-20]
+
+If a Jewish grave search misses, search JewishGen's **Memorials & Plaques Database** for a
+synagogue or society memorial. On a plaque hit, copy the deceased's name, civil and Hebrew
+death dates, Hebrew name, parents' names, any cemetery ID and comments as supplied. Check
+which name field matched. Use a cemetery ID to seek a burial record and keep the plaque as evidence
+of commemoration. [P201 @2026-11-20], [P204 @2026-11-20]
+
+For a Paris municipal cemetery burial, search MyHeritage’s *Daily Burial Registers of Parisian
+Cemeteries* and check its cemetery list, including the sites outside the city limits. In the
+Archives de Paris, use the annual index and open the daily register by cemetery. Follow the
+burial date or, if the index gives the death date, its entry number. Copy the grave location
+and label the death and burial dates from the entry itself.
+[P198 @2026-11-20], [P199 @2026-11-20], [P200 @2026-11-20]
 
 When an East European Jewish stone has no surname, JOWBR documents searches using the deceased's
 given name, the father's given name or the Hebrew Name field. Use the known locality to assess
@@ -328,11 +406,25 @@ A word that only the database or the quotation supplies stays attributed to that
 reported as part of the inscription. Not visible is not absent: the word may be eroded, on a face
 not photographed or outside the image.
 
+At Săpânța's Merry Cemetery, record the painted cross’s carved scene and epitaph separately.
+Use a depicted activity as a lead for an occupation search. Confirm the occupation in a
+record independent of the carver’s depiction. [P205], [P207]
+
 Before using the comparison, check that the attached photo actually shows the target's
 marker. If the name or plot evidence points to a different marker, log the attachment as
 a mismatch. Read doubtful letters and symbols against the carving. Preserve even apparent
 errors in the literal transcription and keep proposed corrections in the research notes.
 [P160]
+
+If her inscription reads only ‘Mrs. [husband’s name]’, transcribe the designation as carved
+and keep the birth and death dates separately. Leave her given and maiden names unresolved.
+Use the husband’s name as a search lead in the census and check the household against the
+burial evidence. [P193]
+
+For a Polish immigrant buried in the United States, inspect the stone and cemetery record
+for an exact village of origin. Preserve the spelling and the place's stated role. Use a named
+village to choose candidate parishes and check the lead in the immigrant’s U.S. parish
+marriage or baptismal records. [P197]
 
 Treat the birth name and birth date on the stone as leads when the informant's firsthand
 knowledge is unknown. An accurate memorial transcription still carries the same inscription
@@ -496,6 +588,16 @@ transfer and later marker installation as separate source-linked events. Keep or
 present cemetery/plot locators separately; seek the relocation or register evidence for an
 unresolved transfer. George Estes’s 2023 marker dedication was announced for Oak Ridge Cemetery, but the transfer of his remains is reported in family accounts [P35].
 
+Transcribe ‘woodman of the world’ or ‘Dum Tacet Clamat’ as carved and use it to look for
+Woodmen of the World membership. Seek an explicit membership statement in contemporary
+death or funeral coverage. A tree-stump shape alone leaves the affiliation unresolved.
+[P209], [P210]
+
+For a U.S. government headstone, distinguish the pointed, shieldless Confederate design
+from the rounded Civil War–Spanish War design used for Union veterans. Use the shape to
+label the design and check the inscription and service record for the veteran’s allegiance
+and unit. [P223]
+
 When one grave has a family stone and a commemorative marker, such as a military marker a society
 placed later, record each date with the marker it comes from, who placed it and when. Record
 lettering cut later, such as sandblasted text beside raised original lettering, as a later
@@ -528,6 +630,10 @@ and marker before comparing the cemetery or any GPS point, and log the source of
 BillionGraves distinguishes GPS headstone records from photos without coordinates. A shared
 photo counts once for what is visible on the stone. [P160 @2026-11-18], [P161 @2026-11-18]
 
+If the section or plot is unknown, inspect the posted gravesite photos for the marker's
+position in the grounds and its size relative to nearby stones. Use those features to choose
+where to look on an authorized visit. Match the inscription before assigning the plot. [P209]
+
 If a form can capture the device's current position, use that control only while physically at
 the intended site. When entering information off-site, leave current-position capture unused.
 Retain where the coordinate came from and what point it represents; keep an independently
@@ -538,6 +644,22 @@ capture-origin check, not a guarantee of coordinate accuracy, grave identity or 
 If the death municipality in France is known but the cemetery is not, check whether its archival
 descriptions list `registres des convois funéraires` or `registres des transports de corps` for the
 relevant period. A Paris transport entry of 27 December 1955 gave Vignot in the Meuse as the destination for Victor Grandsire, four days after his death [P28]. Copy the date and destination, then seek the interment entry and plot at the receiving cemetery.
+
+To trace a U.S. service burial or transfer in the World War I era, look in RG 92,
+NM-81 entry 1942, *Burial Case Files*, 1915–1939 (National Archives ID 595318).
+Check for scans in the catalog by name, including surname group files when present.
+Read reports, applications, letters and telegrams for the temporary burial, the next of kin's
+choice of return home or permanent burial in Europe, and the actual transfer or reburial. Use the
+**Report of Disinterment and Reburial** and any shipment papers to follow the remains
+to the final cemetery. Keep a requested destination and the completed transfer separately.
+[P173], [P218], [P219]
+
+For an early military burial routed through Manila, use the post-cemetery papers in RG 92
+to trace the death, temporary plot and shipment separately. According to Scott,
+the route through San Francisco continued to the next of kin [P216†]. Follow the documented
+route to the receiving cemetery. Treat a port or next-of-kin destination as a transfer locator.
+Leave final burial unresolved until a burial record places it.
+[P217], [P220]
 
 When the plot cannot be located or the online entry lacks detail, identify the cemetery office
 and prepare a request for the recorded burial and its plot location. The gravestone tutorial
@@ -591,6 +713,17 @@ are:
 Permit rules and record survival vary by state and period.
 
 **Privacy gate:** <!-- privacy-gate: contact --> A search request to a council, church, record office or Friends group names the deceased and the burial place and discloses the user's research interest; answer the privacy gate in `SKILL.md` before you send it.
+
+**Privacy gate:** <!-- privacy-gate: contact --> A former cemetery inquiry shares the historical site locator and the user's research interest with a local heritage group or a resident the user already knows. Use an authorized contact route and answer the privacy gate in `SKILL.md` before sending.
+
+For a former Jewish cemetery at Borșa, Maramureș, look for the illustrated map in the
+*Memorial Book of Borsha* and compare it with the accounts of the three cemeteries on
+pages 49–50 [P208]. When contact is authorized, ask a local heritage group or a resident
+the user already knows whether a cemetery used to stand at the mapped site.
+Keep the site as a candidate when no complete marker is visible, as Horowitz reports
+that an exposed fragment at Borșa turned out to be part of a tombstone with a legible
+inscription [P205]. Record any inscription visible on an authorized surface inspection
+and leave partly buried stones undisturbed.
 
 In England and Wales, the registers of a council-run cemetery are held by the council's
 bereavement service, often called Cemeteries and Crematoria ('Cems and Crems') or Bereavement
@@ -884,6 +1017,12 @@ uncertainty about earlier use of the site. Use the burial entry's parish or chur
 locality's cemetery histories to list grounds operating at the burial date as candidates,
 with a source for each period and parish connection. A candidate ground does not locate
 a grave. The reported 1884 opening of Saints-Anges excludes it as Anne Doucet’s original 1791 burial ground but leaves any later removal unresolved [P21].
+
+If a family story places the death abroad, search for a grave by name without restricting
+the search to the reported death place. Compare the candidate's dates and name against
+independent records. In one reported case, a family story pointed to a death in Mexico
+and a matching grave entry pointed to Petaluma [P209]. Carry the cemetery as a burial
+lead and check the place of death separately in a death record or contemporary notice.
 
 Choose the next retrieval action from the gap: a clearer photograph for uncertain letters, a
 cemetery register for an unlabelled burial date, or the underlying civil record for a conflicting

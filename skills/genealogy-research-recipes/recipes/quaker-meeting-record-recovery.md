@@ -11,12 +11,12 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 121}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 128}
 ---
 
 # Recover a Quaker ancestor from monthly-meeting minutes and removal certificates
 
-Use this recipe when you have a Quaker surname, a candidate monthly meeting and state, and a Hinshaw or Ancestry index entry or abstract. Before relying on Hinshaw, check that it covers the meeting. Decode the entry's meeting before you assign it to a place. Then read the original men's and women's minutes and both removal-certificate series as images. Keep each numbered date exactly as written.
+Use this recipe when a Hinshaw or Ancestry index entry points to a Quaker meeting or when you need to identify candidate meetings for a family's place and dates. Before relying on Hinshaw, check that it covers the meeting. Decode the entry's meeting before you assign it to a place. Then read the original men's and women's minutes and both removal-certificate series as images. Keep each numbered date exactly as written.
 
 Some steps belong to other recipes. To test a disputed year against the documented calendar and follow record versions, use [evidence/proof judgment](evidence-proof-judgment.md) § Follow record versions and test disputed dates. For general Ancestry zero-result diagnosis, use [Ancestry record-search recovery](ancestry-record-search-recovery.md).
 
@@ -35,6 +35,10 @@ Some steps belong to other recipes. To test a disputed year against the document
 ## Identify the meeting and reported record holder
 
 Use Thomas C. Hill’s Monthly Meetings in North America index at QuakerMeetings.com to identify candidate meetings, former names, parent bodies and reported record locations. Resolve the meeting for the date before selecting its books. The maintainers warn that not all website and record-location data can be kept current, so a listed repository is a custody lead to confirm, not a current holding proved by the index. [S19 @2026-11-16], [S20 @2026-11-16]
+
+For a colonial Mid-Atlantic family, include the minutes of monthly meetings that served its locality even if the family’s affiliation is unknown. Start with the best-supported candidate and search nearby monthly meetings that also fit the family’s dates and places. According to the supplied transcript excerpt, the presenter suggests both searches [S34†]. If a preparative meeting was set off as a monthly meeting during the period, check the former parent and the new monthly meeting on either side of the change, even if the family stayed put. For Goose Creek in Loudoun County, for example, check Fairfax Monthly Meeting’s minutes during Goose Creek’s preparative years from 1774 to its set-off in 1785 [S35].
+
+For Waterford families in Loudoun County, Virginia, check both spouses’ death notices in Patricia B. Duncan’s *Genealogical Abstracts from the Telephone, Loudoun County, Virginia* (1881–1896) [S41]. According to the supplied transcript excerpt, the presenter reads a statement of Society of Friends membership in one spouse’s notice and a Friends meetinghouse funeral in the other [S40†]. Attribute each clue to its own notice. Use a Waterford Friends meetinghouse reference to test Fairfax Monthly Meeting as a candidate [S42]. Keep the funeral venue separate from any claim about either spouse’s membership.
 
 ## Check compiled-abstract coverage before trusting silence
 
@@ -88,6 +92,10 @@ In the Hinshaw collections, expand `exms` as “excused from military service”
 
 2. In North Carolina Quaker minutes, a statement that someone was freed “by instrument” is a lead to a separate emancipation paper. Search the meeting papers and relevant local court or deed records for the instrument itself. Hilty describes both court-issued deeds and private papers made without court approval; the phrase alone does not prove a recorded deed, immediate freedom or legal recognition. [S25], [S28]
 
+For a woman’s disciplinary case, start in the women’s minutes and compare the men’s entry for the same case. According to the supplied transcript excerpt, the presenter prefers to read the women’s minutes first [S34†]. In Dartmouth, the women’s minutes give the grounds for Katurah Peckham’s disownment, which the men’s concurrence entry omits [S38], [S39]. Record the stated conduct and each meeting’s action under their own citations.
+
+When a case was appealed, identify the quarterly and yearly meetings for the monthly meeting’s date and branch. Follow the appeal into the quarterly minutes and, if it went further, into the yearly minutes. Look for separately filed appeal papers and copies of the lower meetings’ minutes [S36], [S37]. Record the decision at each level you can document. According to the supplied transcript excerpt, the presenter suggests looking beyond the monthly meeting to both higher levels [S34†].
+
 ## Trace military-related discipline and verify service
 
 Browse the monthly meeting’s minutes on both sides of a military-related disciplinary entry. Put the first complaint or report, committee visits and reports, and the meeting’s decision in date order wherever they survive [S31]. According to the supplied transcript excerpt, the presenter suggests tracing the case across entries and checking later minutes for a return to membership [S29†]. After a disownment, look for an acknowledgment and the meeting’s separate decision restoring membership before recording a return [S32].
@@ -112,6 +120,7 @@ If early minutes for the target meeting are unavailable, use its locality and pe
 Return a packet with these items:
 
 - the decoded meeting, with its literal code and the key used, plus the Hill-index lookup and check of its listed record holder;
+- the other candidate monthly meetings searched and any change in which meeting kept the records for the locality;
 - the Hinshaw coverage check (printed Encyclopedia or the Ancestry index) and its result;
 - each minute series inspected (men's and women's, and the branch after the yearly meeting's separation), with its span, books and record types actually browsed, and record pages kept apart from viewer image numbers;
 - each removal-certificate series inspected, with outgoing and receiving pairs, issue and receipt dates as membership-transfer observations, and any physical-move bounds with their supporting presence evidence;
@@ -120,6 +129,7 @@ Return a packet with these items:
 - witness and associate lists transcribed from images, and any parents and residence places extracted from a marriage preamble in their named roles;
 - each stated birthplace and residence kept apart from the recording meeting, with an unstated entry date left unknown;
 - any Loyalist label beside the conduct recorded in minutes, and any “by instrument” reference beside the paper retrieved or its retrieval gap;
+- for an appealed disciplinary case, the decisions documented in quarterly and yearly minutes or separate appeal papers;
 - for a military-related disciplinary case, the dated meeting actions and stated cause, any recorded restoration, and the evidence for affiliation and service;
 - every date as a literal value with a bracketed conversion, plus any year-ambiguity flag.
 

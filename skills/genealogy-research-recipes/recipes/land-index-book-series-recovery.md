@@ -11,7 +11,7 @@ handoff: ["historical-map-record-recovery", "tax-roll-observation-workflow", "us
 checked: "2026-11-05"
 checked_basis: "checked 5 November 2026"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 164}
+router: {"section": "Record types in any country", "group": "Burials, directories, land and probate", "order": 180}
 ---
 
 # Recipe: Recover land instruments through indexes, book series and entry files
@@ -98,6 +98,8 @@ the grant and follow an abstract's ellipsis to the available full item. Keep ori
 translation and compiled abstract distinct; extract only the household, origin or oath wording
 actually present. Keep a missing field or an unavailable translation unresolved [S23].
 
+When column 8 of the 1850, 1860 or 1870 U.S. population schedule gives a real-estate value, use the presenter's advice from the available excerpt and search for deeds under that person's name [S115]. The column could include property outside the enumeration locality [S116], [S117], [S118]. Search both deed-index directions in the census locality if it fits the other evidence, and follow tax rolls, probate files or deed references to other supported jurisdictions. Keep the parcel unresolved until a record locates it.
+
 ### Tax rolls used for a land lead
 
 Use the [tax roll observation](tax-roll-observation-workflow.md) workflow for the annual series
@@ -110,6 +112,8 @@ Inventory the volumes and tax classes for each year, including any separately de
 If the taxpayer is missing, check whether the roll uses the payer’s or estate administrator’s surname. In a reported 1849 Arkansas search, John Cline was filed under W for his administrator Wiseman [S15]. Record both names and their stated roles, the sections searched and any parcel reference. Seek independent records for a death date, sale or family relationship.
 
 ### Colony, state and province routes
+
+**Connecticut conveyances.** Search the town where the tract lay when the deed was recorded, following the town-level route from the available excerpt [S119 @2026-11-20]. Use that town's deed indexes and books. The town holds the original land records, and the FamilySearch Catalog lists filmed copies by town [S120 @2026-11-20]. A county-only search leaves the town's series unsearched.
 
 **North Carolina grants.** Follow a hit in Ancestry’s North Carolina land-grant files [S112 @2026-11-18] to the matching grant in NC Land Grant Images and Data, which includes North Carolina grants for land now in Tennessee [S113 @2026-11-18]. Match the county and file number where available. Open the grant’s Virtual Shuck and look for the survey among the loose-document images even if you already have the envelope summary or patent-book page [S114 @2026-11-18].
 
@@ -206,6 +210,8 @@ result, verified document extent and any conflict between the supplied and retri
 
 **Check:** A miss in deed volume 12 does not settle an index reference to an unspecified volume
 12. Record which series was tested and what makes an alternative series plausible.
+
+**Highland County, Virginia.** Follow the presenter's advice from the available excerpt to find both the general deed indexes and the deed books [S121 @2026-11-20]. Look up FamilySearch Catalog entry 533216 for deed books dated 1847–1885 and general deed indexes dated 1847–1981 [S122 @2026-11-20]. In your own account, open the access notice for the index film and the deed film separately. Use a FamilySearch center or affiliate library if the notice allows that location [S123 @2026-11-20]. Affiliate libraries have access to only some restricted films [S124 @2026-11-20]. If the needed film is inaccessible or the index points beyond the listed deed-book years, match the index or book to a reel in the Library of Virginia's Highland County microfilm inventory [S125 @2026-11-20].
 
 Search the recorder’s miscellaneous books by family name. In Hamilton County, Ohio, miscellaneous instruments went into deed books until 1859 and then into Miscellaneous Books, with powers of attorney and partnerships among the types given separate books. The county guide lists decrees, marriage certificates, name changes, depositions, dower, wills and patents, and places Army discharges to 1865 in Miscellaneous Book 1 [S83]. An out-of-state divorce decree or medical licence may also have been recorded locally [S84]. Check the book’s own index and the county’s coverage dates.
 

@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 150}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 164}
 ---
 
 # Recover French-Canadian ancestors from combined registers, post and Montréal entries and notarial acts
@@ -53,6 +53,14 @@ name or given name matches.
 
 - **Translated surname.** For a family crossing from a French-speaking to an English-speaking area, search a documented English equivalent as well. Greater Sudbury Archives lists Leblanc/White [S11]; compare connecting relatives or residences before joining the hits. Only a transcript excerpt was inspected for the video’s search suggestion [S12].
 
+Search the PRDH-IGD *Répertoire des actes* for extracts from Québec Catholic baptism, marriage
+and burial registers for 1621–1861. For 1862–1871, use its additional marriage records and go to
+the parish registers for baptisms and burials. Use the parish and date from an extract to find
+the register entry. [S13 @2026-11-20] [S14 @2026-11-20]
+
+Run the name variants through PRDH-IGD’s free results list before opening candidate entries.
+Opening a record, individual, family or union file uses a paid hit. [S15 @2026-11-20]
+
 ## Join variants through documented ties, starting with the sacramental entries
 
 The presenter treats the baptism, marriage and burial entries as often the only way to show that
@@ -68,6 +76,13 @@ candidate link, record:
 Keep unreconciled links in a separate list. A census or index entry under a shortened name can be
 attached only after the link is reconciled. If the person's own B/M/S chain is incomplete and the
 link rests on other records, send that correlation to evidence/proof judgment for the ruling.
+
+For a missing Québec marriage, search the Blue Drouin directories in Genealogy Quebec’s *Grandes
+collections de l’Institut Drouin*. Pick the *Joseph-Drouin* series for 1760–1880 or the
+*Gabriel-Drouin* series for 1880–1935. Look up the groom’s surname in *La Masculine* or the bride’s
+in *La Féminine*. In print, *La Masculine* has 61 volumes and *La Féminine* has 64. When one
+surname fails, try the other series. Use the parish and marriage date from the directory to find
+the **M** entry in the register. [S13 @2026-11-20] [S16 @2026-11-20] [S17 @2026-11-20] [S18 @2026-11-20]
 
 ## Read a combined register as one chronological book
 
@@ -106,6 +121,12 @@ On Genealogy Quebec, the Institut Drouin says which copy each folder of its Drou
 Records holds. The Fonds Drouin folder has the court copy. The Registres paroissiaux 1621-1876
 (Parish registers 1621-1876) folder has the parish copy, in different images. [S10 @2026-11-13]
 Treat the two folders as the two copies, and log the folder with the entry.
+
+For a deceased ancestor’s church entry, search Ancestry’s Card Catalogue for *Drouin*. Use
+Québec Vital and Church Records for Québec, Acadian Vital and Church Records for covered parishes
+in Nova Scotia and New Brunswick, or Ontario Catholic Church Records for Ontario. Check whether
+the collection covers the parish and year before interpreting a miss.
+[S13 @2026-11-20] [S19 @2026-11-20] [S20 @2026-11-20]
 
 ## Search the post's own register first, then Notre-Dame de Montréal
 

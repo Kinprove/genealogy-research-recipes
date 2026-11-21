@@ -11,7 +11,7 @@ handoff: ["scandinavian-parish-record-recovery"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 160}
+router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 176}
 ---
 
 # Find an immigrant's hometown in U.S. congregation records
@@ -70,6 +70,10 @@ For each place and date, list every congregation that could have served the fami
 
 **Catholic cases:** list the diocese's parishes and other Catholic institutions from the printed historical volumes of the *Official Catholic Directory*. The series began in 1817 as the *Laity's Directory to the Church Service*. It did not appear every year at first (1817, 1822, then from 1833), and the *Official Catholic Directory* title dates from 1912. No volume exists for 1818–1821 or 1823–1832, so for those years build the parish list from other diocesan sources. In her 2017 talk, Castillo said the printed volumes carry historical parish information that the online version lacks. [S4]
 
+For Spanish immigrant families in Carondelet, south St. Louis, check Our Lady of Covadonga, founded in 1915 [S13], [S14]. The library finding aid lists roll 100, item 4 (Family History Library film 1887440), for baptisms dated 1915–1931 and marriages dated 1915–1927 [S14]. Match the sacrament’s year range to the event date.
+
+For Spanish immigrant families in early twentieth-century New York City, add Manhattan’s Our Lady of Guadalupe (229–231 West 14th Street, founded in 1902) to the baptism and marriage search [S13], [S15]. Check each register’s year range against the event date.
+
 **Places with no resident clergy:** visiting or circuit clergy may have kept the entries. Find out whom they reported to and where their journals or logs are now held. [S4]
 
 Each candidate stays open until its relevant years have been searched. Otherwise it goes on the not-searched list with a reason.
@@ -85,6 +89,8 @@ Search these register types:
 - **Marriages.** Copy the place given for each spouse and distinguish town, parish and district. Minert’s 1875 entry gave places for both spouses but no ages [S2], [S3]. Use those places for the next register search and label any inferred birth years as estimates.
 - **Membership or soul registers.** [S1]
 - **Deaths and burials.** Distinguish birthplace, death place, age and date of death. If you derive a birth date from the age at death, label it as calculated [S2], [S3].
+
+If a U.S. vital record for a Polish immigrant gives only a country or region, start the hometown search with the immigrant’s marriage and their children’s baptisms in candidate U.S. Polish Catholic parishes [S11], [S12]. Record the place stated for each spouse or parent and retain the broader civil label alongside it.
 
 Set expectations by confession and period:
 

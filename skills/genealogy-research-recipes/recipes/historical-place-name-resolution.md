@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 47}
+router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 49}
 ---
 
 # Resolve a historical place name to dated, same-named candidates
@@ -64,6 +64,12 @@ Not covered here:
 
 - **Ontario Locator.** Search CanadaGenWeb's directory of past and present Ontario place names and aliases [S84 @2026-11-17], [S85 @2026-11-17]. Carry each matching township and county or district into a separate candidate row, then compare its dated jurisdiction with the event (§6) before selecting a place [S85 @2026-11-17].
 
+- **Partly legible place on a passenger list.** Use legible place names in nearby rows to propose a search region. Compare the letters you can read with names in a municipality list for that region and enter the plausible matches as candidates [S107]. Treat neighbouring rows as a search clue and verify the locality independently (§7).
+
+- **A village on a modern map of Poland.** Search Mapa/Szukacz using only the village name to locate it on today's map [S97 @2026-11-20], [S98 @2026-11-20]. Carry each plausible location forward to a dated gazetteer (§3).
+
+- **Ohio towns and townships through 1900.** Look up the name in the 2011 revision of Julie Minot Overton's *Ohio Towns and Townships to 1900: A Location Guide*. Check the entries for abandoned places as well as surviving ones [S105], [S106]. Take each matching location into the event-date county check (§6).
+
 ## 3. Date the name before matching it
 
 - Every candidate row needs a gazetteer or map dated close to the record. A modern-only match is not a candidate yet. Place names change in three ways:
@@ -93,6 +99,12 @@ Not covered here:
   - **Privacy gate:** <!-- privacy-gate: request --> A ZAGS справка on a sibling's birth can name people who may still be living; answer the privacy gate in `SKILL.md` before requesting one.
   - When a Soviet birthplace cannot be found, request the person's and the siblings' birth справки and name the act record's place lines you need under «Иные сведения» ([Soviet personal files § 1](soviet-personal-file-recovery.md#1-read-the-negative-reply-before-you-treat-it-as-a-dead-end)).
 
+- **Parish clues in the former Polish lands.** Look up the village in *Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich* (1880–1902) [S97], [S99], [S100]. Compare the administrative and ecclesiastical details of same-named villages. Record the volume, page and parish where given, then check which parish served the village on the event date [S99].
+
+- **Civil and church jurisdictions in Meyers.** For a village in the German Empire covered by Meyers, take the Kreis (district) and Standesamt (civil registry office) from Entry. Read the named Catholic or Protestant parish at the top of Ecclesiastical when present [S97 @2026-11-20], [S103 @2026-11-20], [S104 @2026-11-20]. Treat the table of nearby congregations as a search list. If the parish assignment is missing, confirm which parish served the village using a dated parish directory or register.
+
+- **Scottish localities around 1881.** Check John Wilson's 1882 *The Gazetteer of Scotland*, a lead from the available excerpt [S113], [S115]. Use the population drawn from the 1881 census returns and any named churches or schools to distinguish same-named places [S114]. Verify the parish at the event date (§6).
+
 ## 4. Convert phonetic and translated forms back to the source language
 
 - Map each syllable and regional term into the source language, for example Middle→Mittel and Lower Franconia→Unterfranken. Check the national gazetteer first (Meyers), then the alphabetical list in the regional (state-level) gazetteer, in this case Bavaria's [S12].
@@ -113,6 +125,8 @@ Not covered here:
 
 - **A large city in an immigrant's death record.** When the record gives the city as the place of origin, keep the city as written and test both the city itself and nearby towns or villages, as the advice from the available excerpt suggests [S91], [S92]. Use independent evidence to establish the exact locality (§7).
 
+- **An “upper” river valley.** In a Virginia or West Virginia river-valley description, test an upstream reading of “upper”, a suggestion from the available excerpt [S111]. For the upper Kanawha, start near Gauley Bridge where the New and Gauley rivers join [S112]. Use dated evidence to narrow the reach and identify the locality.
+
 ## 6. Plot candidates against dated jurisdictions
 
 - Carry decimal coordinates with their sign. Western-Hemisphere longitudes are negative. If you drop the minus sign, the point lands on the opposite side of the world [S4].
@@ -127,6 +141,10 @@ Not covered here:
 For a residence in or near former Cherokee lands, also plot it on Charles C. Royce's 1884 *Map of the former territorial limits of the Cherokee "Nation of" Indians*, which shows the boundaries of each cession the Cherokee made to the colonies and the United States [S50]. It is Plate VIII of Royce's *The Cherokee Nation of Indians* in the Bureau of Ethnology's Fifth Annual Report; Plate IX covers the lands assigned to the Cherokee west of the Mississippi [S51]. Each cession is numbered on the map, and Royce's table gives each number its treaty, a description of the tract and its colour. For example, cession 15, "Tract in Georgia, known as Wafford's Settlement", is red and was ceded by the treaty of 24 October 1804 [S51], [S52]. Read the number where the residence falls and take the treaty date from the map's own table. Plot the residence as of its documented date [S53]. Present-day county lines do not show these boundaries. Royce's later maps in *Indian Land Cessions in the United States* (1899) number the cessions differently, so record which map each cession number comes from [S52], [S54].
 
 - **County creation and organisation.** Keep creation, administrative attachment and full organisation separate when reading Newberry's Ohio chronology [S90]. Take each entry's date and the statute volume, chapter and page it cites into the candidate table's jurisdiction column (§8) [S90]. When an attachment affects the search, read that cited law for the county and function assigned, then select that county's relevant series instead of choosing from a boundary outline alone [S89], [S90].
+
+- **Borders around a Polish locality.** Find a map that depicts the event date in the David Rumsey Map Collection's Eastern Europe and Poland holdings or the FEEFHS Map Library [S97 @2026-11-20], [S101 @2026-11-20], [S102 @2026-11-20]. Record the date depicted and the map's publication date separately. Use the boundary and its legend to identify the governing jurisdiction before looking for the parish or civil district (§3).
+
+- **Post-office name changes.** Search contemporary newspaper notices for the old and new names, then search locality records under both [S109]. In Meade County, Kentucky, search Good Springs and Meadville [S110]. Check the 23 July 1851 issue of the *National Intelligencer* as a lead from the available excerpt [S108].
 
 - **A birthplace jurisdiction in a pension.** Compare the boundaries at birth with those when the statement was made. For a reported 1771 North Carolina birth in an 1815 statement (from the available excerpt of the transcript) [S93], include both the later state and its former western lands. Tennessee entered the Union in 1796 from land North Carolina had ceded [S94], [S95]. Narrow the search with dated evidence.
 

@@ -47,6 +47,14 @@ as the presenters reported them. No AI transcription method is adopted here.
 
 - **S27:** [Percival L. Strauss, debtor’s petition, reproduced by Genealogy Gems](https://lisalouisecooke.com/wp-content/uploads/2019/11/PLS-Bankruptcy1.jpg). Published image examined 2026-11-19. The visible portion names the petitioner and gives Bethel Township, Berks County, in the Eastern District of Pennsylvania. No filing date is visible.
 
+- **S28:** David Ridd, MyHeritage Blog, [7 Vessels That Carried Enslaved Africans to America](https://blog.myheritage.com/2025/12/7-vessels-that-carried-enslaved-africans-to-america/), published 2025-12-14. Community post read 2026-11-20. Ridd points genealogists to the Amistad depositions for leads about the captives’ identities and experiences. S29 supplies the file locator.
+
+- **S29:** National Archives, [descriptive pamphlet for microfilm publication M2012](https://www.archives.gov/files/dc-metro/washington/m2012.pdf), published 1997. Descriptive pamphlet read 2026-11-20. Identifies Supreme Court appellate case file no. 2161 in RG 267, the depositions and testimony in the 12 February 1841 certiorari return, and the Connecticut district and circuit court papers reproduced on M1753.
+
+- **S30:** National Archives, [U.S. Supreme Court Appellate Case Files](https://www.archives.gov/research/court-records/appellate-case-files). Repository guide read 2026-11-20. The guide lists M2012 as digitized under National Archives Identifier 561022. The Catalog link returned a fetch error during this check.
+
+- **S31:** [*United States v. The Amistad*, 40 U.S. (15 Pet.) 518 (1841), pp. 524 and 538](https://tile.loc.gov/storage-services/service/ll/usrep/usrep040/usrep040518/usrep040518.pdf), Library of Congress copy. Cited pages of the official report read 2026-11-20. Page 524 summarizes Pedro Montez’s name lists, and page 538 reproduces James Covey’s account of what the captives told him, including where they said they sailed from.
+
 ## Credits
 
 - National Archives, Federal Judicial Center, U.S. Statutes at Large and Genealogy Gems (S20–S27) — Retrieval guidance, period law, show notes and reproduced court papers paraphrased with attribution (adapted)
@@ -57,3 +65,5 @@ as the presenters reported them. No AI transcription method is adopted here.
 - Michelle Mickelson, Southwestern United States Research: Key Records and Repositories Part 1, Family Locket, cited as S14 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - U.S. National Archives and Records Administration, facility and Researcher Updates pages, cited as S15 to S18 — U.S. federal government work; paraphrase with attribution (adapted)
 - California Office of the Attorney General, press release of 2026-10-14, cited as S19 — Public state government press release; paraphrase with attribution (adapted)
+- David Ridd, MyHeritage Blog, cited as S28 — Third-party article; paraphrase with attribution (adapted)
+- National Archives guides and U.S. Reports, cited as S29–S31 — U.S. federal government publications paraphrased with attribution (adapted)
