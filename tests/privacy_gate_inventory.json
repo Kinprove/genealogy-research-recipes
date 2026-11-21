@@ -3370,5 +3370,17 @@
   "kind": "contact",
   "action": "ask whether that parent would be willing to describe what they remember",
   "checkpoint": "An introduction or question to a witness can disclose the tester's case"
+ },
+ {
+  "recipe": "repository-photograph-collection-search.md",
+  "kind": "contact",
+  "action": "ask the museum curator about related photographs off display",
+  "checkpoint": "A museum inquiry sends the user’s name and reply address"
+ },
+ {
+  "recipe": "repository-photograph-collection-search.md",
+  "kind": "contact",
+  "action": "Ask an operating congregation which editions it holds",
+  "checkpoint": "A congregation inquiry sends the user’s name and reply address"
  }
 ]
