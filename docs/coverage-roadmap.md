@@ -28,7 +28,6 @@ covered only where a recipe gives a search route for it.
 | 6 | Sephardic records outside Amsterdam, and Ottoman records | Amsterdam's Portuguese-Jewish community archive in [Amsterdam archival records](../skills/genealogy-research-recipes/recipes/amsterdam-archival-record-recovery.md); nothing for Ottoman lands | Inferring Sephardic origin from a surname or naming pattern alone |
 | 7 | Huguenot records, and Mennonite records outside the Netherlands | Dutch Mennonite registers in [Dutch civil and church records](../skills/genealogy-research-recipes/recipes/dutch-civil-church-record-recovery.md); passing mentions otherwise | Reading a parish-register miss as covering a separate church's own membership and baptism series |
 | 8 | Occupational records outside the Soviet Union: railroad, guild and company personnel files | Soviet workplace personnel files in [Soviet personal files](../skills/genealogy-research-recipes/recipes/soviet-personal-file-recovery.md); apprenticeship records in [English records beyond the parish register](../skills/genealogy-research-recipes/recipes/english-nonregister-record-recovery.md); directory listings in [city directories](../skills/genealogy-research-recipes/recipes/city-directory-observation-workflow.md); no route for other personnel files | Calling a personnel file lost before finding the employer's successor or archive |
-| 9 | Orphan-train and child-placement records | Adoption proceedings and sealed records in [illegitimacy record recovery](../skills/genealogy-research-recipes/recipes/illegitimacy-record-recovery.md); British Home Children in [Canadian record routing](../skills/genealogy-research-recipes/recipes/canadian-provincial-record-routing.md); a caution on orphanage listings in [evidence/proof judgment](../skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md); no route for orphan-train or placing-out files | Treating a placement as a legal adoption without the court record |
 
 ## Covered now
 
@@ -52,6 +51,9 @@ These areas were in issue 101's list and now have a search route in a recipe:
   [English records beyond the parish register](../skills/genealogy-research-recipes/recipes/english-nonregister-record-recovery.md), §5 and §6.
 - U.S. Native American rolls: Dawes, Guion Miller, Baker and agency census rolls:
   [U.S. tribal enrollment records](../skills/genealogy-research-recipes/recipes/us-tribal-enrollment-record-recovery.md).
+
+- Orphan-train and child-placement records:
+  [Child placement and orphan trains](../skills/genealogy-research-recipes/recipes/child-placement-and-orphan-train-records.md).
 
 ## Updating this list
 
