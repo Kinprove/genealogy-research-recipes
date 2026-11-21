@@ -3700,5 +3700,11 @@
   "kind": "third-party-tool",
   "action": "For a confirmed deceased person, search the",
   "checkpoint": "Identify the name and dates that would go to MyHeritage"
+ },
+ {
+  "recipe": "world-war-two-us-navy-battle-records.md",
+  "kind": "third-party-tool",
+  "action": "Search for the sailor by name in MyHeritage’s",
+  "checkpoint": "The sailor’s name goes to MyHeritage as the muster-roll search query."
  }
 ]
