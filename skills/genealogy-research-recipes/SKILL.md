@@ -275,6 +275,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/ancestry-pro-tools-tree-worklists.md` — Build place or tag worklists, audit Tree Checker flags, and review the scope of Ancestry Pro Tools maps and charts.
 - `recipes/cousin-relationship-paths.md` — Calculate cousin degree and removal, and distinguish double or half cousin paths when pedigrees intersect more than once.
 - `recipes/myheritage-profile-hint-extraction.md` — Review the evidence behind a MyHeritage Hint, compare conflicting values and save only the supported facts or relationships.
+- `recipes/myheritage-country-coding-place-audit.md` — Use MyHeritage Country Coding to review uncoded locality names and modern flags that can misrepresent historical jurisdictions.
 
 ## Recipes: DNA
 

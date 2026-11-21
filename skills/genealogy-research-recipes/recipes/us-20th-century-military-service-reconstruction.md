@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-10-26"
 checked_basis: "checked 2026-10-26"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": ["contact"]}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 131}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 132}
 ---
 
 # Rebuild a 20th-century U.S. Army or Air Force service record after file loss or restriction
