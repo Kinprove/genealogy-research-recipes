@@ -29,7 +29,7 @@
 
 The roll-selection table, the order of steps and the finding row are authored synthesis. The sources supply the rules, dates, counts and examples.
 
-### Sources S27–S35
+### Sources S27–S42
 
 - **S27:** the-family-history-guide-blog, [Access – The Real Genealogical Challenge](https://www.thefhguide.com/blog/access-the-real-genealogical-challenge/). Passage read 2026-11-16. Used for: The saved community article or transcript passage that motivated the narrowly scoped method addition; corrected against the separately listed sources.
 
@@ -48,6 +48,20 @@ The roll-selection table, the order of steps and the finding row are authored sy
 - **S34:** National Archives, [Records of the Bureau of Indian Affairs, RG 75, section 75.11](https://www.archives.gov/research/guide-fed-records/groups/075.html). Passage read 2026-11-16. Used for: Alaska Division of the Office of Education transferred to the BIA by Secretary’s Order 494 of 14 March 1931; a creator-history boundary, not a current custody assertion.
 
 - **S35:** FamilySearch, [Alaska, Village Census Rolls, 1912–1978](https://www.familysearch.org/en/search/collection/4465440). Passage read 2026-11-16. Used for: Official collection-page metadata opened by the independent availability check on 2026-11-16: BIA Alaska Native census material supplied by Sealaska Heritage Institute Archives. The title’s 1912–1978 and description’s 1919–1972 spans conflict; no record images or complete coverage inspected.
+
+- **S36:** Jason Felihkatubbe, MyHeritage Blog (community), [Little Bighorn at 150: History, Aftermath, and Researching Sioux Family History](https://blog.myheritage.com/2026/06/little-bighorn-at-150-history-aftermath-and-researching-sioux-family-history/), published 2026-06-29. Research passages read 2026-11-20. Felihkatubbe suggests Access Genealogy and checking individual reservations for coverage. The National Archives guides supply the historical agency headings and distinguish census line numbers from other recorded identifiers.
+
+- **S37:** Access Genealogy, [Free US Indian Census Rolls 1885-1940](https://accessgenealogy.com/native/free-us-indian-census-rolls.htm). Directory entries read 2026-11-20. The public directory groups links by agency and year, including Cheyenne River and Standing Rock. The sampled Standing Rock link redirected to an Internet Archive reader that could not be inspected.
+
+- **S38:** National Archives at Kansas City, [Record Groups 54 through 96](https://www.archives.gov/kansas-city/holdings/rg-050-099.html). Agency histories read 2026-11-20. The RG 75 entries identify the bands served by Cheyenne River, Standing Rock, Pine Ridge and Rosebud, the Lower Brule and Crow Creek jurisdiction changes, the Devil’s Lake and Fort Totten relationship, and the Santee transfers.
+
+- **S39:** Spirit Lake Nation, [History](https://www.spiritlakenation.com/history/). Reservation history read 2026-11-20. Identifies Sisseton, Wahpeton and Cut Head bands in the reservation’s history.
+
+- **S40:** Just Genealogy (community), YouTube, [1885 Census Possibilities - JG0162](https://www.youtube.com/watch?v=VW9Iu4ZLDJM), published 2022-08-17. Supplied transcript excerpt read 2026-11-20. The presenter reports searching for `1885` and describes the providers then as planned. The video page and transcript could not be independently opened.
+
+- **S41:** National Archives, [Microfilm Publications and Original Records Digitized by Our Digitization Partners](https://www.archives.gov/digitization/digitized-by-partners). Table headers and M0595 row read 2026-11-20. The row’s title ends in 1941, its Fold3 and Ancestry link columns are populated, and its Catalog availability column reads “Not available.”
+
+- **S42:** National Archives, [Indian Census Rolls](https://www.archives.gov/research/native-americans/census/research-indian-census.html). Access guide read 2026-11-20. Lists the Catalog and partner routes for M595 under the standard 1885–1940 title. Partner image access and account entitlements were outside the scope of this check.
 
 ## Credits
 
