@@ -22,6 +22,8 @@ Choose the register by the historical jurisdiction and confession before choosin
 
 Use the village and event year to identify the civil district or the relevant Catholic, Protestant, Greek Catholic or Jewish register district. For events before the uniform postwar civil system, identify the registration system used in that place and year. Search parish and civil copies as separate holdings where both were kept. In the Central Archives of Historical Records guide for the former eastern territories, first select the correct confession and locality [S1] [S2] [S3] [S5].
 
+For places in the original Duchy of Warsaw, search Napoleonic civil registers for events from 1 May 1808 [S6] [S7]. For places annexed from Austria in 1809, look for the Napoleonic civil series from 1810 and check when local entries begin [S8] [S9]. For events before the change in registration, follow the preceding jurisdiction’s parish or other register system.
+
 For a sacramental register, compare the parish or diocesan holdings with the state archives' catalogue. Check for Protestant registers by historical parish and Jewish registers by registration district. For an account book, confirmation list or other internal church record, check the parish or diocesan holdings separately from the civil copies [S1 @2026-11-20] [S2 @2026-11-20] [S3 @2026-11-20].
 
 ## Route the civil copy by age and transfer
