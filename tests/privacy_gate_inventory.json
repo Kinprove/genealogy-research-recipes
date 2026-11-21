@@ -3598,5 +3598,65 @@
   "kind": "third-party-tool",
   "action": "For a faded scan originally taken in color, use MyHeritage",
   "checkpoint": "Color restoration sends the scan"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search Ancestry's Chinese Arrival Case Files Index",
+  "checkpoint": "A Chinese arrival index query sends the traveler's name and any entered birth or arrival details to Ancestry"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "request",
+  "action": "Request the original investigation file by case number",
+  "checkpoint": "An arrival case-file request sends the traveler's name and case locator to NARA at San Francisco"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "try the One-Step enhanced Ellis Island form",
+  "checkpoint": "A One-Step query sends the passenger's and any companion's names and the town or voyage details entered to Stephen P. Morse's One-Step tool"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "use the Canada-to-U.S. indexes on FamilySearch and Ancestry",
+  "checkpoint": "A Canadian route index query sends the traveler's name and any entered birth, residence or journey details to the selected provider, FamilySearch or Ancestry"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search Ancestry's Detroit border crossing and passenger collection",
+  "checkpoint": "A Canadian route index query sends the traveler's name and any entered birth, residence or journey details to the selected provider, FamilySearch or Ancestry"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search Ancestry's U.S.-bound vessel collection",
+  "checkpoint": "A Canadian route index query sends the traveler's name and any entered birth, residence or journey details to the selected provider, FamilySearch or Ancestry"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "use the MyHeritage Austria, Poland and Galicia index",
+  "checkpoint": "A New York passenger index query sends the passenger's name and any entered birth or voyage details to MyHeritage"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search MyHeritage's New York Passenger List Book Indexes",
+  "checkpoint": "A New York passenger index query sends the passenger's name and any entered birth or voyage details to MyHeritage"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search the MyHeritage San Francisco special-inquiry index",
+  "checkpoint": "A San Francisco detainee index query sends the traveler's name and any entered arrival year or ship to MyHeritage"
+ },
+ {
+  "recipe": "usa-immigration-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search the NY Naturalizations portal",
+  "checkpoint": "A Queens or Bronx naturalization query sends the applicant's name and any entered origin, arrival or filing details to the NY Naturalizations portal"
  }
 ]
