@@ -462,6 +462,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/world-war-two-us-navy-battle-records.md` — Correlate wartime U.S. Navy muster and deck records with an action report before attributing participation to a sailor.
 - `recipes/boston-tea-party-participant-evidence.md` — Trace a Boston Tea Party participant claim from compiled lists to the evidence for the person’s role on 16 December 1773.
 - `recipes/colonial-and-state-military-bounty-land.md` — Distinguish a colonial or state military land award from a federal warrant and trace the soldier, heir, assignee and tract separately.
+- `recipes/colonial-virginia-patent-and-northern-neck-recovery.md` — Find the issuer of a colonial Virginia land grant and use its patent, warrant, survey or headright evidence to identify the tract and parties.
 
 ### Canada, Latin America, Asia and Oceania
 
