@@ -3418,5 +3418,17 @@
   "kind": "contact",
   "action": "Ask a specialist in the claimed period's script to examine the printing and handwriting",
   "checkpoint": "A register image shown to a handwriting specialist may reveal relatives' dates and relationships"
+ },
+ {
+  "recipe": "newspapers-com-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Run the surname probe with the same title and date limits",
+  "checkpoint": "The research subject’s surname fragment and identifying search terms go to Newspapers.com."
+ },
+ {
+  "recipe": "newspapers-com-search-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Rerun the logged query over the newly available target issues",
+  "checkpoint": "The logged query sends the research subject’s and any named associates’ names and identifying terms to Chronicling America."
  }
 ]

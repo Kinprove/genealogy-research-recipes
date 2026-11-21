@@ -175,6 +175,14 @@ Set place and publication-date limits separately. (S9, H7, H8, H9)
 | 11 | One article suggests a longer story. | Search subsequent months for court proceedings, settlement or verdict; revisit former residences for a death mention. Reuse newly recovered witnesses, addresses and institutions as search clues. (S2, S3) | Record each article's publication date and reported event date separately. Do not turn the first report or filing into the final outcome. |
 | 12 | Keywords still fail despite an available likely issue. | Switch retrieval mode: browse its pages directly. For an obituary, marriage or birth item, also search the matching index. Newspapers.com's 2023–24 posts put these indexes in the Categories drop-down under the Keyword box. For an obituary or marriage, the Newspapers.com index on Ancestry is a second route. Follow any candidate to the image. (S5, S6, H13, H14) | The index is another access path, not independent corroboration. A category search reaches only items placed in that index, so a miss there needs the same search without the category. Check the full notice and its boundaries; inspect missing or inaccessible pages separately. |
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The research subject’s surname fragment and identifying search terms go to Newspapers.com.\
+When a printed misspelling could explain an exact-surname miss, try the wildcard tactic suggested
+in the interview, from the available excerpt [S97]. First test an internal asterisk on a known public
+hit in the user's account. If it works, keep the likely intact beginning and ending of the surname
+and replace the uncertain letters with `*`, as in `Ev*ns`. Run the surname probe with the same title
+and date limits [S98]. Read the name on the image and record the printed spelling, OCR text and
+query separately. If the probe fails, search an intact event term or browse the likely issues.
+
 When a notice dates an event relative to another date, such as ‘issued yesterday’ or ‘last
 Wednesday’, retain the literal wording and its anchor before deriving a date. For `ult.` (the preceding month), identify the date of the item, letter or original report that supplied the expression [S33], [S47]. Save `wording |
 anchor and basis | derived event date | uncertainty` separately from the publication date. If a
@@ -341,6 +349,17 @@ Run the recovery in this order:
    issue date, page, URL and the notice's own stated event date. (S4)
 
 Newspapers.com sorts results by Best Match unless you choose otherwise. To read a story's reports in order, sort by paper date with the oldest first. When you repeat a search from the research log, sort by Date added, which puts matches from the most recently added papers first, so the papers added since your last run come before those you have read [H9 @2026-11-14], [S65 @2026-11-14]. That order goes by when a paper was added, so it does not bring forward a match that the site's re-OCR newly found in an older paper; a no match recorded before the re-OCR still needs the repeat described under the result labels below.
+
+If a target issue was missing in Chronicling America when you last searched, look up the title's
+LCCN in the Library of Congress's [Recent Additions](https://guides.loc.gov/chronicling-america/recent-additions)
+table. Open the matching batch link and confirm the target issue date and edition before counting
+it as newly available [S99 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The logged query sends the research subject’s and any named associates’ names and identifying terms to Chronicling America.\
+Rerun the logged query over the newly available target issues, following the interview's suggestion
+from the available excerpt to revisit a search after holdings grow [S97]. Keep the earlier search
+scope and date in the log. If the issue is still missing, keep the coverage gap and check the next
+holding.
 
 Stop this retrieval task when the requested notice has been recovered and inspected, when
 the remaining necessary material is unavailable or inaccessible, or when the agreed
