@@ -10,7 +10,7 @@ guardrails: [{"id": "RESEARCH-DOCUMENTATION-01", "text": "Use `NIL` for a comple
 handoff: ["evidence-proof-judgment", "manuscript-collection-recovery", "russian-empire-emigrant-origin-recovery", "source-citation", "unknown-parentage-wato"]
 checked: "2026-11-03"
 checked_basis: "fetched on 2026-11-03"
-capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": []}
+capabilities: {"browse": ["FamilySearch Catalog", "Ancestry Card Catalog", "Fold3"], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": []}
 router: {"section": "Research method", "group": "Evidence and proof", "order": 3}
 ---
 
@@ -91,6 +91,13 @@ Keep a locality guide bounded to the question and period: historical jurisdictio
 series and dates, known loss, present custodian, access and collection/finding-aid links.
 Include geography or administrative history when it changes where to search. A described
 collection remains uninspected until its contents have actually been examined.
+
+For an initial U.S. county survey, search by place in the FamilySearch Catalog with availability set
+to Any. Check each relevant entry's access route, including physical holdings and restricted images
+[B37 @2026-11-20]. Then use Ancestry's Card Catalog location and record-type filters to look for
+additional collections [B38 @2026-11-20]. If military records could answer the question, check
+Fold3 by conflict [B39 @2026-11-20]. This order follows a suggestion from the available excerpt
+[B36 @2026-11-20]. Add each relevant collection's coverage and access route to the locality guide.
 
 List every body that created records for the place and period as a separate line in the guide.
 That includes town, school and church bodies, special-purpose districts such as irrigation or

@@ -282,7 +282,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [quaker-meeting-record-recovery](skills/genealogy-research-recipes/recipes/quaker-meeting-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [rabbinic-literature-person-search](skills/genealogy-research-recipes/recipes/rabbinic-literature-person-search.md) | record catalogues and original images | — | — | — | — | — |
 | [repository-photograph-collection-search](skills/genealogy-research-recipes/recipes/repository-photograph-collection-search.md) | record catalogues and original images | — | — | publish, third-party-tool | contact | required |
-| [research-documentation](skills/genealogy-research-recipes/recipes/research-documentation.md) | — | — | — | publish | — | required |
+| [research-documentation](skills/genealogy-research-recipes/recipes/research-documentation.md) | FamilySearch Catalog, Ancestry Card Catalog, Fold3 | — | — | publish | — | required |
 | [rootsmagic-tree-reconciliation-workflow](skills/genealogy-research-recipes/recipes/rootsmagic-tree-reconciliation-workflow.md) | rootsmagic, ancestry, familysearch | — | — | export, link, upload | — | required |
 | [russian-empire-emigrant-origin-recovery](skills/genealogy-research-recipes/recipes/russian-empire-emigrant-origin-recovery.md) | record catalogues and original images | — | — | publish, request | — | required |
 | [russian-empire-jewish-identity-attribution](skills/genealogy-research-recipes/recipes/russian-empire-jewish-identity-attribution.md) | record catalogues and original images | — | — | — | contact | required |
