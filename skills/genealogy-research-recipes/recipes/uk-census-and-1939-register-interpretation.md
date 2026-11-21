@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 94}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 95}
 ---
 
 # Read England and Wales censuses and the 1939 Register under each year's own rules
