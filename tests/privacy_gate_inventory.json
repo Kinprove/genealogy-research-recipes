@@ -3718,5 +3718,11 @@
   "kind": "export",
   "action": "With Country Coding enabled, download the fan chart",
   "checkpoint": "The fan chart can carry names, family relationships and place flags from MyHeritage to the user's device."
+ },
+ {
+  "recipe": "austrian-confessional-register-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search the MyHeritage Opava indexes by event type",
+  "checkpoint": "Before you send MyHeritage names, dates or places"
  }
 ]
