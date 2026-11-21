@@ -3448,5 +3448,11 @@
   "kind": "upload",
   "action": "enter supported titles, dates or places inline",
   "checkpoint": "Saving photo titles, dates or places sends details about the pictured people"
+ },
+ {
+  "recipe": "scandinavian-parish-record-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage’s *Sweden Household Examination Books*",
+  "checkpoint": "the names, dates and places that the search will send to MyHeritage"
  }
 ]

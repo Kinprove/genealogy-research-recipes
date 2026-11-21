@@ -10,7 +10,7 @@ guardrails: [{"id": "SCANDINAVIAN-PARISH-RECORD-RECOVERY-01", "text": "Follow th
 handoff: ["scandinavian-patronymic-farm-name-record-recovery", "tax-roll-observation-workflow"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images", "MyHeritage Swedish vital-record indexes"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images", "MyHeritage Swedish household and vital-record indexes"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
 router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 110}
 ---
 
@@ -163,9 +163,13 @@ In these cases, browse the examination volumes by the recorded birth date. Birth
 
 For Stockholm city from 1878 to 1926, the roteman offices kept the population register because parish registration could no longer keep up. Search the Rotemansarkivet at Stockholms stadsarkiv. Its online database is incomplete; the whole archive is on the computers in the archive's reading rooms. Record which version you searched. [S27]
 
-### Use a Swedish vital-record index to recover a parish lead
+### Use Swedish household and vital-record indexes to recover a parish lead
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> Apply the privacy gate to the names, dates and places that the search will send to MyHeritage and to each person those terms describe, including anyone who may be living. Send only the terms needed for the search.
+
+Search MyHeritage’s *Sweden Household Examination Books* when the household-page trail breaks. Start with the name and recorded birth date, and put a known residence parish in the Residence field. The catalogue describes coverage mainly from 1800 to 1947. [S45 @2026-11-20] Check the parish and years covered before interpreting a miss.
+
+Take a promising hit to the full household page and record its parish, volume and page. Compare the residence, stated relationships, marriage dates and any moves with the last verified household entry. [S44] Keep a name-only hit as a candidate. Follow a move within the parish by its page reference and a move across parishes through the moving registers. [S46]
 
 Search the matching MyHeritage collection if you still need a parish or cannot locate the vital entry. Carry the hit back to the parish books and establish identity from the household and original entries.
 
