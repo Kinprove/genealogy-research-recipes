@@ -93,6 +93,8 @@ On any full-text tool, including HathiTrust, a zero result can come from an OCR 
 - Not all manuscript collections have finding aids. The presenter notes that much of the Library of Congress's manuscript material is still waiting to be catalogued [S3].
 - A catalogue that finds nothing is not evidence that the library doesn't hold the material.
 
+**Search a genealogy publisher's catalogue by county and state when a county bibliography has gaps.** The presenter reports a 2022 FamilySearch Catalog miss for the Highland County death book [S95† @2026-11-20], which the Library of Virginia lists as Woodrow Clay Hamilton's *Highland County, Virginia Death Records, 1853–1898*, F232 H8 H36 2010 [S97 @2026-11-20]. Recheck the title and county in the FamilySearch Catalog you can access. For Virginia, search Heritage Books' Virginia catalogue by county and record type [S96 @2026-11-20], then carry any discovered title into a holder's catalogue.
+
 ## 3. Browse the classification range from a relevant hit
 
 **Use one relevant catalogue hit to find its call-number range.** Then browse that whole range:
@@ -147,6 +149,34 @@ In these sources a given name is often not spelled out. Genealogy Indexer's guid
 Fold3 has page images of all ten series, which you can search by name or browse by series and volume, under the title "US, Pennsylvania Archives, 1660-1780"; the title understates the set's dates [S40 @2026-11-13], [S42 @2026-11-13]. The Pennsylvania Historical and Museum Commission names Ancestry and HathiTrust as other hosts, and its summary of each series helps you choose a volume [S41 @2026-11-13]. Wikipedia's volume list covers only the Colonial Records and the First to Seventh Series; it links the volumes to scans at Internet Archive, Google Books and FamilySearch [S43 @2026-11-13].
 
 **For colonial Virginia, use the Antient Press surname index to choose which volumes to open.** Just Genealogy suggests looking under the surname's initial or using the combined index, according to the transcript excerpt [S61† @2026-11-18]. Heritage Books lists both kinds of entry under [Antient Press Indexes](https://heritagebooks.com/collections/antient-press-indexes) [S62 @2026-11-18]. If you have only a listing, locate the matching alphabetical volume of Ruth and Sam Sparacio's *Virginia County Court Records Surname Indexes* in a library catalogue [S63 @2026-11-18]. Record the surname range you searched and follow each hit into the cited volume to read the abstract.
+
+### Choose the compilation by place, period and question
+
+**For early Québec families, open René Jetté's *Dictionnaire généalogique des familles du Québec des origines à 1730* first.** This 1983 Presses de l’Université de Montréal dictionary revises and corrects material in Cyprien Tanguay's *Dictionnaire généalogique des familles canadiennes* within Jetté's period [S68], [S69]. For years beyond 1730, check Tanguay's coverage. Resolve conflicting entries with the records behind them.
+
+**Search Ancestry for the Tanguay Collection or collection number 2177.** Check the collection label for Cyprien Tanguay's seven-volume *Dictionnaire généalogique des familles canadiennes* [S68 @2026-11-20], [S70 @2026-11-20]. If the surname is elusive, check volume VII for surname variants and *dit* names [S70 @2026-11-20]. Record the volume and printed page and follow the entry's details into the relevant register.
+
+**Look for the Red Drouin under *Dictionnaire national des Canadiens français*.** Use the American-French Genealogical Society's Red Drouin listing to locate the CD or USB edition [S68 @2026-11-20], [S71 @2026-11-20]. In Genealogy Quebec's unified search, look for book 4 from the legacy Great Collections tool [S98 @2026-11-20]. Match the exact title and book number before using a Drouin result.
+
+**Trace a Red Drouin entry through Tanguay before counting corroboration.** The Red Drouin carries forward some of Tanguay's entries and errors [S68], [S72]. If the two give the same relationship, check what each cites and use the underlying record to settle it.
+
+**For Acadian families, search by exact title and author before choosing a volume.** Look in WorldCat for Bona Arsenault's *Histoire et généalogie des Acadiens* and Stephen A. White's *Dictionnaire généalogique des familles acadiennes* [S68], [S73], [S74]. Check the Arsenault edition and its contents for the settlement you need. For White's first part, use volume I for A–G or volume II for H–Z, and check that the family was formed before 1715. Apply the holding copy's lending rule in [section 5](#5-carry-the-confirmed-title-across-holders).
+
+**For a Polish locality, search Polona for published material about the place.** Search by locality and inspect books, periodicals and maps before narrowing to surname hits. Record which types you checked and carry the titles you find into the within-book search [S80 @2026-11-20], [S81 @2026-11-20].
+
+**For an ethnic German family in a known Romanian village, look for an *Ortsfamilienbuch*.** According to the podcast transcript excerpt, one such book led between family groups through cross-references [S84† @2026-11-20]. Check the St. Louis County Library list by village for a title, including the village's German name if known [S85 @2026-11-20]. Check the parish and years covered, start with the surname, and follow family numbers across surnames to track marriages and children's births. Record the family number and cited register entries before drawing a relationship conclusion [S86 @2026-11-20].
+
+**After an Ellis Island search, look for books about the migration identified by the record.** The podcast suggests Harvard's collection, according to the supplied transcript excerpt [S82† @2026-11-20]. Use Harvard's *Immigration to the United States, 1789–1930* to find publications on voluntary immigration by migrant group or destination [S83 @2026-11-20]. Use them for migration context and retain the passenger record for the individual arrival.
+
+**For Palatines who may have reached Pennsylvania through New York, look for Matthias Henry Richards's *The German Emigration from New York Province into Pennsylvania*.** The presenter suggests this route, according to the transcript excerpt [S87†]. Search for the standalone reprint or Part V of *Pennsylvania: The German Influence in Its Settlement and Development*, in volume IX of the Pennsylvania-German Society's *Proceedings and Addresses* (1899) [S88]. Use it to test the Schoharie-to-Tulpehocken route alongside a search for a direct arrival.
+
+**For families who reached southwestern Pennsylvania from the Shenandoah Valley, search the Pennsylvania settlement separately.** The presenter suggests Howard L. Leckey's *The Tenmile Country and Its Pioneer Families*, according to the transcript excerpt [S87†]. For Greene and Washington counties, use the reprint's every-name index, then read the family sketch under its place of settlement [S89]. A Shenandoah book's coverage can end before the later settlement.
+
+**For Virginia claims in western Pennsylvania or Pennsylvania donation lands, open Third Series, volume 3 of the published *Pennsylvania Archives*.** The presenter suggests checking the set, according to the transcript excerpt [S87†]. Use William Henry Egle's *Old Rights, Proprietary Rights, Virginia Entries, and Soldiers Entitled to Donation Lands* as the volume locator [S90]. Start at that volume in the Fold3 browse described above. Check the section heading before treating an entry as a Virginia claim or a donation-land entitlement.
+
+**For West Virginia's Kanawha Valley, choose a volume by the kind of evidence needed.** According to the transcript excerpt, the presenter distinguishes settlement history from resident sketches [S91†]. In the 1891 *History of the Great Kanawha Valley*, start in volume I for early settlements and border events, including chapter X for the account of Cornstalk's death and later attacks [S92]. In volume II, browse the resident's county under the biographical sketches and check the medical history for pioneer physicians [S93]. Record volume and printed page with each lead.
+
+**For homes and settlers of the upper Kanawha, check Ruth Woods Dayton's *Pioneers and Their Homes on the Upper Kanawha* (1947).** The presenter suggests this title, according to the transcript excerpt [S91†]. Compare the target home or locality with the book's coverage before using a miss to assess the family's presence [S94].
 
 ### Follow a separate all-person index into the biography
 
@@ -217,6 +247,8 @@ verified here; use the procedure to check the actual case rather than copy its e
 
 **For a book held only on paper, record whether the holding copy lends.** Read the holding library's lending rule before you list interlibrary loan as the route. Allen County Public Library, for example, excludes reference materials and rare or unique materials from interlibrary loan, and its Genealogy department lends nothing but offers copying services [S50 @2026-11-16]. Where the copy does not lend, record a request for copies of the pages you need as the follow-up route. The user sends any loan or copy request, including the interlibrary loan in [section 8](#8-treat-snippets-incidental-mentions-and-transcriptions-as-leads). Draft it with the title, call number and pages only.
 
+**For a family account of U.S.–Canadian migration, check Allen County Public Library's Family Resources.** The article suggests Allen County Public Library, according to its search-result extract [S75† @2026-11-20]. Open **Family Resources** from the Genealogy Center's Research Resources and check for a submitted family history or file even if a published-title search found nothing [S76 @2026-11-20]. Record the account and the places it actually covers.
+
 ## 6. Open the copy and cite the real host
 
 **Verify a claimed digital copy.** A result advertising a free copy of the 1964 Tanner book led to advertisements [S6]. Open the title page and the relevant printed page. If neither is available, record the listing as a lead and try a library holding.
@@ -236,6 +268,8 @@ Photographs, plates and other items without searchable text can be found only th
 
 - use keywords and place names from the item's own period;
 - if the "exclude full text sources" box is on the home page, tick it so newspaper OCR hits don't bury these items.
+
+**Browse the illustrations in a county history or a town's anniversary book.** According to the author's search-result excerpt, county histories and commemorative books are places to look for photographs [S77†]. Search library and historical society catalogues for the place with `history`, `centennial` or `bicentennial` [S78], [S79]. Once you have the book, browse its plates and captions even when the name search is empty. Record the edition, page or plate and the exact caption. Use a person's recognition only as their attributed claim. Facial resemblance carries no weight for identity.
 
 ## 8. Treat snippets, incidental mentions and transcriptions as leads
 
