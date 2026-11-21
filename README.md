@@ -171,7 +171,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [archival-image-coverage-verification](skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md) | — | — | — | request | — | required |
 | [ark-and-dove-passenger-reconstruction](skills/genealogy-research-recipes/recipes/ark-and-dove-passenger-reconstruction.md) | public catalogues, documentation and historical records | — | — | — | — | — |
 | [australia-nz-record-routing](skills/genealogy-research-recipes/recipes/australia-nz-record-routing.md) | record catalogues and original images, MyHeritage Victorian birth and death indexes | — | — | third-party-tool | — | required |
-| [austrian-confessional-register-routing](skills/genealogy-research-recipes/recipes/austrian-confessional-register-routing.md) | record catalogues and original images | — | — | request | — | required |
+| [austrian-confessional-register-routing](skills/genealogy-research-recipes/recipes/austrian-confessional-register-routing.md) | record catalogues and original images, MyHeritage Opava indexes | — | — | request, third-party-tool | — | required |
 | [beider-given-name-variants](skills/genealogy-research-recipes/recipes/beider-given-name-variants.md) | — | scripts/lookup_beider_name.py | — | — | — | — |
 | [bessarabia-moldova-record-routing](skills/genealogy-research-recipes/recipes/bessarabia-moldova-record-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [boston-tea-party-participant-evidence](skills/genealogy-research-recipes/recipes/boston-tea-party-participant-evidence.md) | record catalogues and original images | — | — | — | — | — |
