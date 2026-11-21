@@ -331,7 +331,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [us-army-civil-war-court-martial-files](skills/genealogy-research-recipes/recipes/us-army-civil-war-court-martial-files.md) | public catalogues, documentation and historical records | — | — | — | — | — |
 | [us-army-quartermaster-record-recovery](skills/genealogy-research-recipes/recipes/us-army-quartermaster-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [us-census-practical-workflows](skills/genealogy-research-recipes/recipes/us-census-practical-workflows.md) | record catalogues and original images | — | — | export, publish, third-party-tool | — | required |
-| [us-church-record-custody](skills/genealogy-research-recipes/recipes/us-church-record-custody.md) | record catalogues and original images | — | — | — | — | — |
+| [us-church-record-custody](skills/genealogy-research-recipes/recipes/us-church-record-custody.md) | record catalogues and original images | — | — | — | contact | required |
 | [us-civil-war-service-record-episodes](skills/genealogy-research-recipes/recipes/us-civil-war-service-record-episodes.md) | record catalogues and original images | — | — | — | — | — |
 | [us-federal-court-case-file-recovery](skills/genealogy-research-recipes/recipes/us-federal-court-case-file-recovery.md) | record catalogues and original images | — | — | request | — | required |
 | [us-federal-land-entry-file-recovery](skills/genealogy-research-recipes/recipes/us-federal-land-entry-file-recovery.md) | record catalogues and original images | — | — | — | — | — |
