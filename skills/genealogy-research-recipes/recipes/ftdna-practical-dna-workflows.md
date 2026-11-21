@@ -51,6 +51,14 @@ an interval where both overlap the focal kit.
 
 ## Before starting
 
+When choosing a new test to find relatives in FamilyTreeDNA's match database, select a dedicated
+Y-DNA test for the direct paternal line or mtFull Sequence for the direct maternal line
+[S50 @2026-11-20]. Shannon Combs-Bennett also recommended FamilyTreeDNA for Y-DNA or mtDNA
+matches in a 2023 interview, with access limited to a transcript excerpt [S49 @2026-11-20].
+If the supplied results contain only autosomal matches or haplogroup labels, mark the
+line-specific match list `not supplied` [S50 @2026-11-20]. Record the database searched with
+each Y-DNA or mtDNA match list [S50 @2026-11-20], [S51 @2026-11-20].
+
 For workflows 1–4, use authorized account access and start with the paired export in workflow 1. FTDNA downloads
 require two-factor authentication. [H6]
 Keep original files and profile details private; use opaque handles in shared summaries.
