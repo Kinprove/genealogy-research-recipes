@@ -151,6 +151,23 @@ are used.
   controls. Limits: no new video inspection was performed; current archive rules, permissions
   and service quality remain unverified. The example does not establish universal numerical
   limits or measured benefit. Third-party material is cited, not reproduced.
+- S36. (B36) Just Genealogy, "Third Steps in Genealogical Research in a County - JG0199",
+  YouTube video, 2022-09-24, <https://www.youtube.com/watch?v=W8i9SpFPuR8>.
+  Supplied transcript excerpt read 2026-11-20. The presenter suggests surveying FamilySearch,
+  Ancestry and Fold3 in that order. The watch page could not be opened. Access was limited to
+  the supplied excerpt. The provider references below support the individual search routes.
+- S37. (B37) FamilySearch Help Center, "How do I search the FamilySearch Catalog for records?",
+  <https://articles.familysearch.org/hc/en-us/articles/40890974066971-How-do-I-search-the-FamilySearch-Catalog-for-records>.
+  Official help article read 2026-11-20. Documents searching by place with Any availability
+  and using entry icons to distinguish online images, viewing restrictions and physical media.
+- S38. (B38) Ancestry, "Using the Card Catalog",
+  <https://redir.ancestry.help/hc/en-us/articles/53933305954579-Using-the-Card-Catalog>.
+  Official help article read 2026-11-20. Describes combining the geographic and record-type
+  filters to find collections.
+- S39. (B39) Ancestry Academy, "How to Use Fold3 to Find Your Ancestors' Military Records",
+  <https://www.ancestry.com/c/discover/education/fold3/>.
+  Publisher's event description read 2026-11-20. The description identifies conflict-based
+  organization for military records.
 - **H1.** Günter Junkers, "Backup für das kulturelle Erbe der Ukraine", Compgen-Blog,
   2022-03-15, <https://www.compgen.de/2022/03/backup-fuer-das-kulturelle-erbe-der-ukraine/>,
   read 2026-11-12. Used for: Wayback captures of Ukrainian museum and library sites mostly saving
@@ -183,3 +200,4 @@ are used.
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
 - Günter Junkers, Compgen-Blog, Backup für das kulturelle Erbe der Ukraine, 2022-03-15, cited as H1 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
+- Just Genealogy, FamilySearch and Ancestry (S36–S39) — Third-party guidance paraphrased with attribution (adapted)
