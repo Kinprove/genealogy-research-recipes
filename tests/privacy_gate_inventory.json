@@ -3694,5 +3694,11 @@
   "kind": "request",
   "action": "Request the original SS-5 from SSA",
   "checkpoint": "subject’s name, dates, any Social Security number and proof of death"
+ },
+ {
+  "recipe": "us-social-security-application-recovery.md",
+  "kind": "third-party-tool",
+  "action": "For a confirmed deceased person, search the",
+  "checkpoint": "Identify the name and dates that would go to MyHeritage"
  }
 ]
