@@ -406,6 +406,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/convict-transportation-record-chain.md` — Rebuild a transported British convict's sentence as a chain of dated record episodes.
 - `recipes/british-colonial-slave-registers.md` — Trace an enslaved ancestor through the British colonial slave registers of 1813–1834 and the compensation records.
 - `recipes/british-army-first-world-war-service-records.md` — Route a First World War British Army soldier, nurse or Household Cavalry member to the surviving series for their service.
+- `recipes/piracy-and-privateering-records.md` — Use a commission, vessel history and surviving court papers to distinguish a commissioned capture from piracy and follow a sailor’s disposition.
 
 ### Western and Northern Europe
 
