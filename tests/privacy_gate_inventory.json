@@ -3706,5 +3706,17 @@
   "kind": "third-party-tool",
   "action": "Search for the sailor by name in MyHeritage’s",
   "checkpoint": "The sailor’s name goes to MyHeritage as the muster-roll search query."
+ },
+ {
+  "recipe": "myheritage-country-coding-place-audit.md",
+  "kind": "upload",
+  "action": "Enter a verified birthplace in **Edit profile**",
+  "checkpoint": "A verified birthplace goes into the person's profile on MyHeritage."
+ },
+ {
+  "recipe": "myheritage-country-coding-place-audit.md",
+  "kind": "export",
+  "action": "With Country Coding enabled, download the fan chart",
+  "checkpoint": "The fan chart can carry names, family relationships and place flags from MyHeritage to the user's device."
  }
 ]

@@ -271,7 +271,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [memorial-card-and-coffin-plate-evidence](skills/genealogy-research-recipes/recipes/memorial-card-and-coffin-plate-evidence.md) | record catalogues and original images | — | — | — | — | required |
 | [missing-marriage-jurisdiction-search](skills/genealogy-research-recipes/recipes/missing-marriage-jurisdiction-search.md) | record catalogues and original images | — | — | request | — | required |
 | [muscovite-census-settler-origin-recovery](skills/genealogy-research-recipes/recipes/muscovite-census-settler-origin-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [myheritage-country-coding-place-audit](skills/genealogy-research-recipes/recipes/myheritage-country-coding-place-audit.md) | record catalogues and original images | — | — | — | — | — |
+| [myheritage-country-coding-place-audit](skills/genealogy-research-recipes/recipes/myheritage-country-coding-place-audit.md) | record catalogues and original images | — | — | upload, export | — | required |
 | [myheritage-dna-match-investigation](skills/genealogy-research-recipes/recipes/myheritage-dna-match-investigation.md) | myheritage | — | — | export, link, publish, third-party-tool, upload | contact | required |
 | [myheritage-historical-record-search](skills/genealogy-research-recipes/recipes/myheritage-historical-record-search.md) | myheritage | — | — | third-party-tool | — | required |
 | [myheritage-kit-processing-and-downloads](skills/genealogy-research-recipes/recipes/myheritage-kit-processing-and-downloads.md) | public catalogues, documentation and historical records | — | — | export, request, upload | — | required |
