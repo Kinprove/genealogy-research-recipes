@@ -11,7 +11,7 @@ handoff: ["23andme-match-research", "admixture-model-run-scope", "ai-for-dna-res
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export"], "contact": []}
-router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 33}
+router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 34}
 ---
 
 # Save, date and compare successive ethnicity-estimate versions
@@ -67,6 +67,12 @@ Link out for the shared steps:
 - **MyHeritage:** for the v2.5 release, existing users could opt in and switch back to v0.95 through the results menu [S5], [S22]. The June 2024 v2 rollout had reached only some kits [S31]. Save each version you can still open.
 - **FamilyTreeDNA:** its August 2026 NGS upgrade guide warned that previous results would be removed and that myOrigins estimates could shift by a few points [S8]. Save the outgoing results before an assay upgrade.
 
+**Open the MyHeritage estimate for the kit you want to compare.** On the web, choose **DNA > Ethnicity Estimate**. In the app, tap the **DNA** icon at the bottom and select **Ethnicity Estimate**. If you manage several kits, use the arrow beside “This is you” to select the tester [S33 @2026-11-20].
+
+**Request v2.5 if the selected kit still shows v0.95 and offers the update.** Choose “Get the update” in the invitation. If you chose “Maybe later”, look for the update banner at the top of the results or in the left panel [S32 @2026-11-20], [S5 @2026-11-20]. Use the existing MyHeritage kit even if it was tested years ago or used an older chip [S32 @2026-11-20], [S5 @2026-11-20]. Opt in for each eligible kit you plan to compare and reopen its results after the readiness email arrives. MyHeritage's rollout guidance allowed about a day for calculation [S32 @2026-11-20].
+
+**Switch versions for that same kit.** On desktop or mobile web, check for the version dropdown directly below “Your ethnicity results”. When both versions are offered, open v0.95 and v2.5 in turn [S32 @2026-11-20], [S5 @2026-11-20].
+
 ## 2. Date each estimate by when the vendor computed it, and label its version
 
 - Record the vendor’s processing date separately from the date you saved the estimate. In the Ancestry PDF shown in the 2026 guide, these fields were labelled “Processed in” and “Downloaded on.” A kit first processed after the update had no earlier version to compare [S11].
@@ -91,6 +97,10 @@ The tester's DNA did not change between versions; the vendor's method did. Ask f
 - **Do not rank two versions by their white-paper accuracy numbers.** The statistics, floors and simulation sets differ [S3], [S4], [S10].
 - **A region can keep its continent and change its panel rule.** Ancestry builds its Americas panels from Indigenous-inherited segments only. In 2025 most of these panels required both copies to carry an Indigenous assignment; Cuba and Haiti & Dominican Republic instead combined single Indigenous-assigned chromosomes from different people. In 2026 the rule uses one or both copies [S4 pp. 6–7], [S3 p. 5].
 
+**Compare MyHeritage Genetic Groups by group name.** The v0.95-to-v2.5 release revised the Ethnicity Estimate and carried over the Genetic Groups algorithm [S32]. Use group membership as a separate geographic clue. The ethnicity heading a group sits under can change between versions [S5].
+
+**Compare MyHeritage Ancient Origins reports in their own log.** Match the report and time period for the same kit and record each capture date. Before interpreting a change, check for additions to the sample database or research updates that may have affected the report [S36 @2026-11-20], [S37 @2026-11-20].
+
 ## 4. Align the two versions through the vendor's hierarchy, broadest level first
 
 - Use the region list for each release to place regions under their subregion and continent. Start with the continent totals, compare subregions next, then examine individual regions [S10], [S11].
@@ -100,6 +110,8 @@ The tester's DNA did not change between versions; the vendor's method did. Ask f
 - Use the old map to place a retired region. If it spans two groups, keep its share unsplit, state which group you counted it in and record how that choice affects the comparison. Assigning all of “Southeastern England & Northwestern Europe” to Britain sets an upper bound on that region’s British contribution in the old estimate [S11].
 - **Settler-sounding names in the Americas describe Indigenous-inherited DNA.** In 2026, regions such as "Atlantic Northeast (Canada & USA)" are built only from the Indigenous-inherited parts of reference genomes [S3 p. 5], [S15]. Never align one with a colonial European line.
 - **MyHeritage: group the v2.5 ethnicities under the broad v0.95 groups by their maps**, and record each judgment. The boundaries do not nest exactly: East European took in the easternmost part of the old North and West European area, including part of Germany [S21].
+
+If v0.95 shows **Scandinavian**, add the **Swedish**, **Norwegian** and **Danish** percentages shown for the same kit in v2.5 and compare that subtotal with the old Scandinavian share [S32].
 
 ## 5. Sort every change into a known update effect before calling it new
 
@@ -138,6 +150,10 @@ Work from the broadest level down. Stop at the first pattern that explains the c
 - **Expect updates to clear away 1–2% regions.** Many 2026 Ancestry results lost odd 1% and 2% regions [S14]; MyHeritage's June 2024 update removed many small components [S20]. That is the floor at work, not a correction of the pedigree.
 
 **An older Ancestry page's 0.5% is not this minimum.** An Ancestry help page on low confidence regions, read in its Internet Archive copy of 17 July 2025, lists a region under "other regions tested", shown after selecting "Show all regions", when its estimate is below 0.5% and its range does not exceed 2.5% [S23]. That page describes the low confidence regions that the trace-regions point above says Ancestry removed in 2018, not the 2025 or 2026 method. Do not record 0.5% as the reporting minimum of either version.
+
+**Check the older MyHeritage display at low confidence.** If a v2.5 ethnicity looks new, check the same kit’s v0.95 view. Set the Genetic Groups confidence slider to Low if it appears, and look under the ethnicity headings and under “Additional Genetic Groups”. Record any geographic clue you find as a Genetic Group, separate from the percentage entries [S35 @2026-11-20].
+
+A tester reported in January 2025 that Georgia appeared in the older view only at low confidence [S34].
 
 ## 8. Keep a version log and form hypotheses only from what is left unexplained
 

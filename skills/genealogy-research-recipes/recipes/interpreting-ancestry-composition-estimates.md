@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-match-outreach-staging", "evidence-proof-j
 checked: "2026-11-16"
 checked_basis: "read 2026-11-16"
 capabilities: {"browse": ["ethnicity-estimate help pages and published method papers", "the tester's own estimate and match list"], "local_script": [], "extensions": [], "data_transfer": ["upload"], "contact": ["contact"]}
-router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 31}
+router: {"section": "DNA", "group": "Ethnicity, admixture and match outreach", "order": 32}
 ---
 
 # Interpret an ancestry-composition (ethnicity) estimate
@@ -50,6 +50,32 @@ Record each estimate as the site shows it: the platform (or the admixture projec
 If a percentage estimate omits an expected place, check whether the testing company's reference panel covers the population you are investigating. A gap in reference coverage can explain the omission, according to Ancestry's documentation [S14] and the submitted extract from the Family Tree Magazine episode [S13†]. Keep the ancestry question open and test the line with records or matches.
 
 Use the places highlighted in a DNA community or location report to choose localities for a historical record search, as the Family Tree Magazine search-result extract recommends [S11†]. Read the community timeline as group history [S12]. Establish when each ancestor lived there and for how long from records.
+
+### Read MyHeritage Ethnicity Estimates and Genetic Groups
+
+Read the **Ethnicity Estimate** percentages as population estimates. Use **Genetic Groups** as geographic leads to regions or cities. Record a Genetic Group by name without assigning it the percentage of the ethnicity under which it appears. [S21 @2026-11-20] [S22 @2026-11-20]
+
+Open the tester's Genetic Group from **DNA → Ethnicity Estimate**. Compare periods on the **Timeline Widget** to follow the group's migration. For the period under research, expand **Top Places** to shortlist localities for record searches. Use the period and places as group leads and establish the ancestor's residence from records. [S19 @2026-11-20] [S20 @2026-11-20] [S21 @2026-11-20]
+
+For a kit already linked to a tree, open **DNA → Ethnicity Estimate** and select **Family tree events** on the map. Use the ancestral birth pins to compare the tree's localities with the estimate. Treat the pins as assertions from the tree and check the underlying records. [S23 @2026-11-20] [S24 @2026-11-20] [S25 @2026-11-20]
+
+If a MyHeritage v0.95 assignment is unexpected, check which versions are available for that kit. Compare its v0.95 and v2.5 estimates using available or saved results, and check both against its Genetic Groups and documented genealogy. If the assignment disappears and the revised estimate fits the groups and records, treat model error as a possible explanation. [S22], [S26]
+
+In MyHeritage's published comparison for one kit, an 8% Greek and South Italian assignment in v0.95 disappeared in v2.5. [S22]
+
+### Read MyHeritage Ancient Origins
+
+When the tester already has both reports, use the **Ethnicity Estimate** for modern population estimates going back a few hundred years. Use **Ancient Origins** for comparisons with ancient DNA samples and populations from the Neolithic through the late Middle Ages. Record which report and time frame each result came from. [S27 @2026-11-20] [S28 @2026-11-20]
+
+Read **Closest Populations** as the 50 highest-ranked single populations. In **Genetic Similarities**, compare the leading combination with other high-ranking entries among the 50 models in the selected **dual origin** or **triple origin** view. A lower **Genetic Fit** score means a closer fit in that comparison. Keep competing combinations open when different reference populations give a similar fit. [S27 @2026-11-20] [S28 @2026-11-20]
+
+On a **Genetic Distance Map**, find the black **You** label and inspect nearby ancient population or sample points. Compare the points with one another for clusters and outliers. Read proximity on this plot as genetic similarity and require separate evidence of descent from any named population or individual. [S27 @2026-11-20] [S28 @2026-11-20]
+
+### Follow up African and Native American origin leads
+
+For an enslaved ancestor's African origin, use existing DNA matches with documented ancestral ties to African or diaspora communities to shortlist possible regions. Check the proposed line in plantation records, wills or bills of sale. Treat a match's present-day location as insufficient to assign an ancestral birthplace or voyage. [S29], [S30] To trace the line across 1870, use [US freedpeople record recovery](us-freedpeople-record-recovery.md).
+
+When testing descent from a specific Native American tribe, use an ethnicity estimate as a geographic lead. Use shared DNA to test the proposed family relationships and trace the line to a named ancestor in records for the relevant tribe or reservation. For a deceased ancestor, look for the appropriate historical reservation census or tribal roll through [US tribal enrollment record recovery](us-tribal-enrollment-record-recovery.md). [S31], [S32], [S33]
 
 ## 2. Treat a small share as unconfirmed
 
@@ -114,6 +140,7 @@ Asking a parent or relative to test or to share results, or messaging a match ab
 - An estimate table: platform, or project and calculator; the estimate's date or version; each region and percentage; any range or confidence setting shown.
 - For each region, the level read (continent, region or country) and a status: supported by records or matches, lead, or unconfirmed small share.
 - An expected-versus-reported comparison against the documented parents and tree, with neighbouring-label shares read together (§3).
+- For Genetic Groups, the group, period and places selected for record searches. For Ancient Origins, the report, time frame and alternative models considered.
 - Any parentage lead, kept private, with the shared-DNA tests planned and their results.
 - The written privacy-gate answers for any upload or contact, or a note that none took place.
 - Explicit gaps: no parent tested, calculator not chosen in advance, lead not yet tested with matches.

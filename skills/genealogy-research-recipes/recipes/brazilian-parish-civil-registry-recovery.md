@@ -10,8 +10,8 @@ guardrails: [{"id": "BRAZILIAN-PARISH-CIVIL-REGISTRY-RECOVERY-01", "text": "**Wo
 handoff: ["catholic-parish-diocesan-record-recovery", "evidence-proof-judgment", "familysearch-practical-record-workflows", "hispanic-catholic-register-recovery", "portuguese-parish-civil-register-recovery", "probate-case-document-inventory"]
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 152}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 166}
 ---
 
 # Recover a Brazilian ancestor in parish books, registry-office records and their substitutes
@@ -111,6 +111,10 @@ Gather these before searching:
 - **Follow the date gap back to the parish.** In the Pombal, Paraíba, search documented in 2024, the filmed marriages ended in 1900 and the deaths in 1889. The parish located the marriage sought for 1904–1906 in its own books [S23]. Give the parish the missing interval and identify which volumes you already checked.
 - **Look for the same register in a larger image set.** A 106-page São Paulo parish book omitted a marriage found in a 792-image set combining several volumes. For Patu, Rio Grande do Norte, the same demonstration found images under the locality when the catalog search had returned none [S24]. Check the title leaf and actual entries against the advertised dates. One volume held an 1889 birth before its listed range. Browse mixed books (*livros mistos*) for marriage investigations [S25].
 - **Match the certificate to its intended use.** A filmed entry predates any marginal note added later. Check the receiving authority’s requirements before you order a recent second original (segunda via). The São Paulo Italian consulate’s December 2023 document list specified Brazilian certificates in full-text form (*inteiro teor*), with apostille and apostilled sworn translation [S26].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Submitting a search sends MyHeritage the names of the subject and any relatives you enter, along with identifying event dates and places. Answer the privacy gate in `SKILL.md` before submitting data about anyone who may be living.
+
+**Search the MyHeritage collections for Pernambuco.** If the FamilySearch search comes up short, use *Brazil, Pernambuco Births and Baptisms, 1800–1920* for births and baptisms [S53 @2026-11-20] and *Brazil, Pernambuco Marriages, 1800–1960* for marriages [S54 @2026-11-20], [S52 @2026-11-20]. The title ranges cover most entries [S53 @2026-11-20], [S54 @2026-11-20]. Check nearby years outside the range when the event could fall there.
 
 - **Choose the certificate form.** Under the CNJ rules, a short-form certificate (*breve relato*) generally requires no written application or identification. For a full text, sign a written request giving your identity, purpose, relationship if any, and whether the registered person has died. Death certificates in any form require neither an application nor judicial authorisation (arts. 113–118) [S47 @2026-11-19].
 - **Check which birth fields can be disclosed.** Article 6 of Law 8.560/1992 excludes the parents’ civil status, the nature of filiation and the place and registry of their marriage. It expressly provides for a reasoned judicial authorisation or requisition for the full text. Order the full text for those fields only under the applicable access rules [S28 @2026-11-19], [S47 @2026-11-19].

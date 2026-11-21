@@ -34,6 +34,12 @@ Read candidate-bearing passages in the available corpus before fixing the search
 
 Keep observed spellings, dictionary forms and generated possibilities in separate columns. A remembered list is a starting set, not an exhaustive inventory; corpus discovery is also not a guarantee of completeness. Review matched surface forms with context before interpreting counts. Short stems can match ordinary words, place names and unrelated surnames.
 
+Before comparing an immigrant’s names across records, record the original spelling and
+pronunciation. Add attested regional nicknames and relevant religious forms, such as Hebrew,
+Greek or Latin forms, to the query inventory [S60]. Use the pronunciation to propose spellings a
+recorder might have written by ear. Keep those spellings and inferred transliterations in the
+candidate column [S60, S61].
+
 For each attested form, also record who produced it: family tradition, an enumerator or clerk, a
 formal document or the person's own signature. Add the record type, place and date range. Mark
 forms seen only once, or only in one record class or under one recorder. Check whether a spelling
@@ -133,6 +139,10 @@ the translated surname as its own lane: a spelling-variant or Soundex search wil
 (Zimmermann and Carpenter have different Soundex codes). Keep
 the literal form in the inventory, and treat a translated-name hit as a candidate until place,
 family and dates connect it.
+
+When tracing a surname across a move, build separate queries from the complete forms attested in
+origin and destination records. Use the literal Cyrillic spelling where Russian-language records
+attest it, and keep any added or replaced suffix in the destination spelling [S62, S63].
 
 In Russian-language records an Armenian given name may appear as a Russian one. A 2024
 Familio.Media article by Nina Galishnikova describes a list of Moscow Armenian community members
@@ -250,4 +260,4 @@ Keep the corpus/index version or access date, field, exact Unicode query, filter
 
 A successful search can still have incomplete coverage. A completed zero-hit query describes that query and scope; it does not exclude a person whose record or spelling has not been tested. When a newly attested form changes an earlier negative, rerun the affected searches and amend that specific conclusion. Do not infer kinship from the rescued name hit.
 
-For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/71a8f9f838d56088b90856e757dfee5006dd17fd/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).
+For checking the source images and unreadable gaps, use [archival-image-coverage-verification.md](archival-image-coverage-verification.md). Sources and synthesis limits: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/042c9a945a21a73bb0abfefd765ce1ba88489021/skills/genealogy-research-recipes/sources/corpus-seeded-name-search.md).

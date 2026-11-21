@@ -10,8 +10,8 @@ guardrails: [{"id": "FAMILY-INTERVIEWS-AND-ORAL-TRADITION-01", "text": "A correc
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export", "request"], "contact": []}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 174}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["export", "request", "upload"], "contact": []}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 191}
 ---
 
 # Record a family interview or inherited account with its speaker, prompter and chain
@@ -61,6 +61,8 @@ For a new recording, use a bounded prompt such as a photograph, object, recipe o
 
 If the participant names someone in a photograph, record it as their identification, with the basis they give. Never compare faces or assign identity by appearance yourself. Resemblance is never evidence by itself.
 
+If no photograph has turned up and the participant knew the ancestor, ask what they remember about that person's appearance [S41], [S42]. Keep that firsthand description separate from claims about how a whole branch looked or which ancestor passed down a trait. Attribute those claims to the teller and flag them as generalizations that need corroboration [S41].
+
 Use a census page the participant would remember as a neighbourhood prompt: with the recording running, show them their own entry, read out the neighbours listed before and after it, and ask what they recall [S4]. Link the page and question to the actual response, and keep the census and the recollection as separate sources. Page adjacency alone establishes neither kinship nor shared residence.
 
 In an ongoing interview with a Samoan family elder, invite them to recount the family lineage in their own words [S34], [S35]. In the interview notes, keep personal names, village affiliations and matai (chiefly) titles distinct [S34], [S36]. Leave the birth surname unresolved if the elder gives only a title. Attribute any births, marriages or land transfers mentioned to the teller [S34].
@@ -68,6 +70,10 @@ In an ongoing interview with a Samoan family elder, invite them to recount the f
 ## Record the answers, not only the questions
 
 Make a short test recording of both voices and play it back before the interview [S23]. For a seated one-to-one interview indoors, clip a lapel (lavalier) microphone on the relative answering [S3], [S21], [S22]. Record the interviewer's questions and any cueing relative too: with a second microphone if the recorder takes one, or with the recorder placed between you, so that every question and cue can be heard later [S21], [S22], [S23]. Keep the recorder running for the whole session instead of stopping and restarting it, and watch the counter or level meter while it runs [S21], [S23]. A recorder that splits a long session into files of about an hour is fine [S23]. If you can, run a second device as a backup [S24]. In a 2022 demonstration of one family-history app, the presenter advised keeping recordings made in the app to a few minutes, even splitting an interview [S1]; that advice is for the app, not for an interview on a recorder. Check the file right after the session for audibility and completeness [S1], and copy it to a second place [S13]. If an answer was not recorded or cannot be heard, record that limitation; never reconstruct it from the question. For supplied recordings, mark inaudible or missing passages and keep any available session notes separate.
+
+**Privacy gate:** <!-- privacy-gate: upload --> Saving a photo story sends the narrator's voice and any details about living people in the recording to MyHeritage, where the audio takes the photo's privacy setting [S40 @2026-11-20]. Answer the privacy gate in `SKILL.md` before recording in the app.
+
+To record a story for a photo already in MyHeritage, check the photo's audience and find Photo Storyteller in the user's mobile app [S39 @2026-11-20], [S40 @2026-11-20]. Once the gate is cleared, open the photo, tap the microphone, record the story, then stop and play it back before saving it to the photo [S40 @2026-11-20]. If you cannot verify the control or clear the gate, record locally and note the photo's reference in the session register.
 
 ## Record who prompted each answer
 
@@ -90,6 +96,8 @@ Keep the order in which a narrator tells events separate from the chronology you
 ## Keep the recording, transcript and interpretation apart
 
 Retain the speaker, recording date and context when known, prompt or item reference and actual audio or video file. Distinguish spoken testimony from your transcript, paraphrase and later interpretation. Use recording offsets for quoted or uncertain passages so they can be replayed. Preserve the original alongside edited extracts; mark uncertain readings rather than polishing them into definite names or quotations.
+
+When a Polish family account gives a town or village name by sound, write down the pronunciation as heard and keep it separate from candidate spellings [S37]. Use the sound to find candidate places in a phonetic gazetteer. Compare the candidates with family documents and a historical map or period gazetteer before choosing a locality [S37], [S38].
 
 **Privacy gate:** <!-- privacy-gate: export --> An export from the app moves the participant's recorded voice and testimony, with linked photos, comments and notes about living relatives, into files; answer the privacy gate in `SKILL.md` before requesting or opening that export.
 

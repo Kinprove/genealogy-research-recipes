@@ -4,19 +4,32 @@ title: "Recover Dutch civil acts and the church register kept before civil regis
 summary: "Recover Dutch civil acts through ten-year indexes and marriage supplements, and the church registers kept before civil registration."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "DUTCH-CIVIL-CHURCH-RECORD-RECOVERY-01", "text": "A failed search on WieWasWie or Open Archieven (openarchieven.nl) does not show that the event is missing from the municipality's records."}]
 handoff: ["probate-case-document-inventory"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 105}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 111}
 ---
 
 # Recover Dutch civil acts and the church register kept before civil registration
 
 Use this recipe when a Dutch person or couple is missing from an online index, when a civil marriage has to be carried back to the church baptism registers kept before civil registration began (1811 in most of the country), or when a compiled tree supplies a father, a death date or a sibling set that the original entries may not support. It covers the ten-year tables, marriage supplements and separate contracts, choosing a church register, and the roles of dates in Dutch church registers. For an intention to marry (ondertrouw, banns) compared with the marriage itself, and for testing a reused given name, use [evidence/proof judgment](evidence-proof-judgment.md). For AI extraction of event types, use [AI for documentary records](ai-for-documentary-records.md). For FamilySearch Catalog and film navigation, use [FamilySearch workflows](familysearch-practical-record-workflows.md).
+
+## Contents
+
+- When the index fails, open the ten-year tables
+- Once civil registration starts, use the marriage supplements to reach the church
+- Check separate contracts and guardian agreements
+- Choose the register by denomination and place
+- Give each church-register date its own role
+- Different surnames do not rule out siblings
+- Read recognition wording before accepting a father
+- Search a couple as two people, then check the spouse
+- After the population registers, request the CBG card
+- Return a recovery packet
 
 ## When the index fails, open the ten-year tables
 
@@ -26,6 +39,10 @@ A failed search on WieWasWie or Open Archieven (openarchieven.nl) does not show 
 - Copy the date under its heading and use it to retrieve the full act. The regional archive describes dates of registration in the ten-year tables and warns specifically that both births and deaths may have occurred earlier [S19]. Even when the two dates coincide in an example [S3], transcribe the event date from the act.
 - Go to that year's register for that event type, browse to the date, and read the full act. Several candidates with the same name can turn up. Keep each one as a separate candidate until the full act ties it to your family. [S3]
 - If the event may fall outside the block you read (for example a death), repeat the search in the next decade's table. Record which blocks and event groups you read. [S3]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> MyHeritage receives the deceased person's name and any death date or place entered. Keep relatives' details local.
+
+For a death in Zuid-Holland in 1900–1942, use MyHeritage's *Netherlands, South Holland, Civil Deaths, 1900-1942* (collection 21023) [S28 @2026-11-20] [S29 @2026-11-20]. Check the collection's list of civil registration offices. Search by the deceased's name and any known death date or place. Compare the indexed birth year, death date and place, and the parents' and spouse's names where present [S29 @2026-11-20]. Follow a candidate to the full civil act. If the office is unlisted or the search comes up empty, continue in the municipality's death tables and register.
 
 A miss can also mean that the act is not yet public. Throughout the Netherlands, birth acts become public after 100 years, marriage acts and their supplements after 75 years, and death acts after 50 years [S19]. The Zeeuws Archief gives the same terms and says registers with recent acts cannot be inspected [S12]. For an act still within its term, a miss in the public records says nothing about whether the event happened.
 

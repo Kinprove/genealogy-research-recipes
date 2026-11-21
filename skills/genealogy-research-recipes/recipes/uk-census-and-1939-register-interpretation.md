@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 92}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 96}
 ---
 
 # Read England and Wales censuses and the 1939 Register under each year's own rules
@@ -108,6 +108,12 @@ A different house number in a later census does not show that the family moved. 
 Match a court dwelling by the court as well as the house. A court could be renamed: in Birmingham, the court built in 1802 by a silversmith was first called Willmore's Court, after him, and later Court 14 Inge Street [S46]. A court named for its builder in one record and a street-and-number court in another can be the same place; settle it by the neighbours, as above. A post on the Birmingham back-to-backs prompted this check [S50].
 
 ## Read the 1939 Register as a registration list, not a census
+
+Open [The National Archives' 1939 Register research guide](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/1939-register) to check who was enumerated, which fields were recorded and how the books are arranged. Use the guide's access links to check what each provider lets you view and whether viewing requires payment [S58].
+
+Use **RG 101** to locate digital copies of the enumerators' transcript books. If the person was outside England and Wales on registration day, record a coverage gap for this series [S59].
+
+If you find an entry in the FamilySearch index, follow its link to Findmypast for the image [S60 @2026-11-20]. Record any barrier to viewing the page as an access gap.
 
 - **Registration day.** 29 September 1939. Use it as the observation date.
 - **What the image is.** It is the master list the enumerator copied from numbered household schedules. Each person's sub-number matches their line on the schedule [S1]. A presenter reports that nobody knows what happened to the schedules and that they were probably destroyed after copying [S1]. Cite the schedule number and sub-number.

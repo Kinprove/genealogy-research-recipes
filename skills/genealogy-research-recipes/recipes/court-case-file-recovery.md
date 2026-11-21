@@ -11,7 +11,7 @@ handoff: ["criminal-court-prison-record-recovery", "us-federal-court-case-file-r
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 138}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 147}
 ---
 
 # Recover a U.S. court case file from its pointer records
@@ -69,6 +69,8 @@ Build a crosswalk from each pointer to the file it implies. Keep these parts sep
 
 **Read the order or minute book around the entry, not only the indexed line.** Order and minute books record all matters brought before the court while it was in session [S42]. Page through the volume on either side of a family entry: its sittings show when the court actually met, and its routine business shows what a terse entry means [S30]. Find the county's order books through the FamilySearch Catalog by county.
 
+**Highland County, Virginia, circuit court order books.** Recheck the order books described as locked in September 2022, using the lead from the available excerpt [S63 @2026-11-20]. Have the user open the exact film in their own signed-in FamilySearch account. Follow its access message to a FamilySearch center or affiliate library if it lists one [S64 @2026-11-20]. If the images are unavailable, match the series and dates to the Library of Virginia's microfilm guide, which lists separate common-law and chancery order books. For example, look for Chancery Order Book 1, 1848–1873, on reel 7 [S65 @2026-11-20].
+
 **State chancery folder index.** The Library of Virginia chancery index is searched by county or city, then by surname, plaintiff or defendant. Not every listed case has linked images. If a folder is listed without images, keep its case details. Then search the FamilySearch Catalog by county, not by name, for that county's court records. [S7] For Catalog and film routes, use [FamilySearch workflows](familysearch-practical-record-workflows.md).
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> The index search sends a historical party's name and any court or date filters to MyHeritage. Keep the query to the historical parties and their case details. Apply the privacy gate in `SKILL.md` before submitting the query.
@@ -91,6 +93,16 @@ file names both spouses and their children and repeats allegations about the mar
 such a file from a clerk or archive.
 
 Search every county where either spouse lived, not only the couple's home. A divorce was usually filed in a local court where one spouse lived or had met the residency requirement, which varied by state, and there is usually no statewide index [S23], [S24]. One party may have moved to another state and filed there [S36]. Start with the counties where each spouse lived and their neighbours [S24]. Search for a suit for separate maintenance or support as well as for a divorce [S22]. The 13 July 1909 Fort Wayne report on Cora Clark's claim against Edwin Clark calls it a suit for support [S37]. Use the stated cause of action when looking it up.
+
+**Ohio divorce courts.** For a divorce before 1843, search the records of the Supreme Court sitting in the county and check the General Assembly's local acts for legislative divorces. For 1843–1852, search the county Common Pleas chancery records. Use Common Pleas records for later cases and check the county probate court as well for 1894–1911, when some counties had concurrent jurisdiction. For cases from 1914 onward, check the domestic relations court where the county had one [S58]. Skip the modern statewide Supreme Court as a starting point for the early files [S58].
+
+**Ohio county copies.** Use the county, court and year to identify the series. Request the Ohio county case file from the clerk of courts, as the Family Tree Magazine guide suggests [S57 @2026-11-20]. If the clerk transferred the series, check the county archives and the Ohio History Connection's catalog [S58 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> An Ohio divorce index query sends a spouse's name and any search filters to Ancestry or Findmypast and can identify a possibly living person in connection with a divorce. Answer the privacy gate in `SKILL.md` before submitting the query to each service.
+
+**Ohio divorce indexes.** Use the commercial indexes as leads, as Family Tree Magazine suggests [S57 @2026-11-20]. Search the Ohio divorce indexes within their date coverage. Use Findmypast for selected years from 1962 to 2011 [S59 @2026-11-20] or Ancestry's Ohio Divorce Abstracts for 1962–1963, 1967–1971 or 1973–2007 [S60 @2026-11-20]. Copy the divorce date, county and any volume number given [S59 @2026-11-20], then follow those details to the county court file. Continue with the county court series if neither index covers the year or the searches return no hit.
+
+**Connecticut Superior Court divorce files.** Look for the divorce petitions and related papers described in the chapter reading. Follow the lead from the available excerpt [S61 @2026-11-20] into the Connecticut State Library's Record Group 003, Judicial Records. Use its Divorce Records By County guide to match the county and year to the Superior Court's holdings. Check the general civil case files as well as any separately listed divorce series, since divorce papers can be interfiled [S62 @2026-11-20].
 
 Read the decree's wording. A divorce *a vinculo matrimonii* dissolved the marriage. A divorce *a mensa et thoro*, from bed and board, was a court-ordered separation: the couple stayed married and could not marry anyone else [S26], [S38]. Where a court did not use that term, the same arrangement may appear as a suit for separate maintenance [S26].
 

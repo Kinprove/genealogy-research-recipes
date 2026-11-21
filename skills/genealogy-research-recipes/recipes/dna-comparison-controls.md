@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "gedmatch-practical-dna-workflows", "xdna-phasi
 checked: "2026-10-18"
 checked_basis: "checked 2026-10-18"
 capabilities: {"browse": [], "local_script": [], "extensions": [], "data_transfer": ["export", "third-party-tool", "upload"], "contact": []}
-router: {"section": "DNA", "group": "DNA reasoning", "order": 23}
+router: {"section": "DNA", "group": "DNA reasoning", "order": 24}
 ---
 
 # Recipe: DNA comparison controls across services
@@ -150,6 +150,13 @@ explanations for disagreement; the discrepancy alone does not select its cause.
 Family Finder 5.0 is one documented example of processed output, not an unfiltered
 reference instrument. [H3]
 
+For conflicting match reports, consult each service's white paper for the matching
+workflow, following the advice reported in Shannon Combs-Bennett's interview excerpt [H48†].
+Record the paper's date or version and the processing step that could affect the result.
+For example, Figure 1.4 of AncestryDNA's 2025 matching white paper places Timber filtering
+after segment matching [H49]. Leave the processing effect unresolved when the documented
+workflow cannot be tied to the report.
+
 When the missing match is a tested relative documented as a second cousin or closer, do not stop
 at reporting floors and settings. First confirm that the comparison exists: both kits are in the
 same database, both take part in matching, and neither match is hidden. A confirmed zero in
@@ -201,6 +208,10 @@ from the derivation or the source data; report the control as unavailable. The
 [sequencing-file quality warning](https://genarchivist.net/showthread.php?tid=106) motivate this.
 They give no thresholds, liftover error rate or measured loss, and the symptoms do not identify a
 cause. [H14, H15, H16, H17]
+
+When a MyHeritage comparison cites about 700,000 SNPs, confirm that the kit used the legacy
+GSA chip before recording that figure as its design count [H47, H38]. Use the kit's own calls
+to establish coverage in the interval under comparison.
 
 Check whether the MyHeritage raw-file header identifies a chip or a whole-genome sequencing kit. MyHeritage reports using 2× mean sequencing depth with imputation [H36 @2026-11-14], [H37 @2026-11-14], and offers the standard genotype file and a separate CRAM for WGS kits, including new samples processed from January 2026 [H38 @2026-11-14]. A mean of two reads leaves some sites unread and others with only one read. Even at a heterozygous site, two independent reads can sample the same allele [H39 @2026-11-14], [H41 @2026-11-14]. In one kit, Kessler found no no-calls in the autosomal export and 99.25% agreement with his earlier chip among 584,174 shared SNPs [H40 @2026-11-14]. That is a comparison of one tester’s files. A filled-in genotype alone cannot establish which alleles were read at that site. Before using a genotype conflict for phasing, verify the locus independently. Keep imputed calls out of health conclusions and report the observed comparison coverage.
 

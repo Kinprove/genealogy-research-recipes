@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "irish-civil-registration-jurisdiction-reco
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 100}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 104}
 ---
 
 # Search, retrieve and read the Irish 1901, 1911 and 1926 census returns
@@ -64,6 +64,8 @@ Use section 9 for 1926: that return set covers the Irish Free State [S36 @2026-1
 - **Test surname variants separately.** Compare the results with and without “Exact matches only,” then try the prefix with and without a space or apostrophe. In a March 2025 test for Mary O'Brien of Acres, Castlehyde, County Cork, O'Brien, Brien and Obrien found her. O Brien, O'Brian, O Briain and Bryan missed her [S27 @2026-11-19]. Record the individual spellings and wildcard patterns tried [S18 @2026-11-19].
 - **Search NAI for Ulster too.** The NAI site holds the returns for all 32 counties, and PRONI's own guide sends researchers there [S24 @2026-11-19].
 
+**Open household members from a MyHeritage hit.** In a [1901 Ireland Census](https://www.myheritage.com/research/collection-10199/1901-ireland-census) record [S52 @2026-11-20], check whether the names under **Household** are linked in your view. Open the member’s individual entry from that list when available [S51 @2026-11-20]. If the list does not open the member’s entry, find the household on NAI and select the person in its household view [S18 @2026-11-20].
+
 ## 2. Recover names the index holds in another form
 
 - **Swap the fields.** Householders sometimes reversed names or wrote both in one column. Search for the surname in the forename field [S22 @2026-11-19]. In October 2026 Grenham reported making about 4,000 reversed-name returns findable in his 1901 search without changing the transcript [S1 @2026-11-19].
@@ -89,6 +91,8 @@ Use section 9 for 1926: that return set covers the Irish Free State [S36 @2026-1
 - **Search England and Wales on the same night.** England and Wales took their censuses on the same nights, 31 March 1901 and 2 April 1911 [S31]. An absence from an Irish household is a lead to search there.
 
 ## 5. Collect the whole form set and the neighbours
+
+**Open Form A from a MyHeritage hit.** Check the top right of your MyHeritage 1901 census record for an image control. Open it when present [S51 @2026-11-20] and match the National Archives scan to the household [S52 @2026-11-20]. If you cannot open the scan, find the household on NAI by county, DED and townland or street (step 3), then open the form image there [S18 @2026-11-20].
 
 - **Open both sides of Form A.** The front lists the people. The back carries the address block (county, poor law union, DED, barony, parish, townland, street and house number), the head's name and the house's number on Form B [S25]. The NAI record links the front and back images and the townland's other forms [S27].
 - **Find the house's row on Form B1** using the number on Form B. B1, the house and building return, gives for each house the walls and roof (permanent or perishable), number of rooms, windows in front, class of house (1st to 4th), number of families, the head of each family, rooms and persons per family, and the landholder on whose holding the house stood [S26]. Presenters use it to judge living conditions and to name the landlord [S9]. Follow the holding in the valuation records under B1's landholder entry. When the landholder is not the head, the house stood on someone else's holding.

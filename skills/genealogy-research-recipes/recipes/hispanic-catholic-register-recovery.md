@@ -11,7 +11,7 @@ handoff: ["brazilian-parish-civil-registry-recovery", "portuguese-parish-civil-r
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 151}
+router: {"section": "Records by country and region", "group": "Canada, Latin America, Asia and Oceania", "order": 165}
 ---
 
 # Recover a Mexican or Hispanic Catholic ancestor across parish and civil registers
@@ -66,6 +66,10 @@ The start years in step 5 come from FamilySearch and the laws and archive pages 
 - **Records can move when a parish changes.** When a family vanishes from a parish's books, check whether the parish closed, a new parish was founded, or the books were transferred. The people may have stayed put while their records moved [S1]. Follow the books before you infer that the family migrated.
 
 Record the parish name, its jurisdiction and the Catalog entry used. These locators are separate from the town name.
+
+**Search the Early California Population Project for Alta California.** According to Family Tree Magazine’s California guide [S42† @2026-11-20], use the project for mission baptisms, marriages and burials. Search the 1769–1850 transcriptions [S43 @2026-11-20] one event type at a time [S45 @2026-11-20]. Record the mission code and register entry number for each hit [S44 @2026-11-20], [S45 @2026-11-20].
+
+Check coverage by place and event before treating a failed search as evidence of absence. The project also includes records from Los Angeles Plaza Church (1826–1848) and Santa Barbara Presidio (1782–1848) [S44 @2026-11-20]. If a Mission Soledad burial search comes up empty, log the lost burial register as a coverage gap [S44 @2026-11-20].
 
 ## 2. Read the entry field by field
 

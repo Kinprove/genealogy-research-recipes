@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 158}
+router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 174}
 ---
 
 # Recover a Catholic sacramental entry through parish, diocesan and successor holdings
@@ -56,6 +56,8 @@ Treat burial separately. In the Archdiocese of Philadelphia, the archdiocesan ce
 - An online collection may contain only one of the two series. FamilySearch may have filmed the diocesan copy and skipped the parish books, or the reverse. [S3], [S5] For every holding, record whether it is the **parish original** or a **diocesan copy**, who made it, the years it covers, its locator, and whether you inspected an index, a catalogue entry or the image.
 - A copy and its original are not independent corroboration. If they differ, keep both readings ([evidence/proof judgment: compare the creation stages](evidence-proof-judgment.md)).
 - If a priest says the registers are missing or burned, record that as his statement. Then look for the diocesan copy before you write that the register is lost. [S3], [S7]
+
+**Poland.** If the parish lacks the register or target year, check the diocesan or archdiocesan archive for that parish's *księgi metrykalne* [S61 @2026-11-20]. At the Archdiocesan Archive in Poznań, search by parish name [S62 @2026-11-20] and check for deposited parish originals as well as duplicates [S63 @2026-11-20]. Compare the years each holder lists for the sacrament and record the archive's call number and whether it identifies an original or a copy.
 
 ## 4. Treat an online miss as a coverage question first
 

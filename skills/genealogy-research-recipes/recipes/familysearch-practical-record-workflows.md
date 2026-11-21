@@ -10,8 +10,8 @@ guardrails: [{"id": "FAMILYSEARCH-PRACTICAL-RECORD-WORKFLOWS-01", "text": "Confi
 handoff: ["ai-for-documentary-records", "evidence-proof-judgment", "gedcom-research-export", "research-documentation", "rootsmagic-tree-reconciliation-workflow"]
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
-capabilities: {"browse": ["familysearch"], "local_script": [], "extensions": [], "data_transfer": ["export", "publish", "upload"], "contact": ["contact"]}
-router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 36}
+capabilities: {"browse": ["familysearch"], "local_script": [], "extensions": ["goldie-may"], "data_transfer": ["export", "link", "publish", "third-party-tool", "upload"], "contact": ["contact"]}
+router: {"section": "Record websites, libraries and maps", "group": "Record websites", "order": 37}
 ---
 
 # Recipe: FamilySearch record recovery and Tree maintenance
@@ -94,6 +94,11 @@ unavailable pages unresolved. This check does not require changing the profile. 
 3. Follow the locality's record-type links to candidate collections.
 4. When formal recording began after the event, queue the locality's named substitutes, such as church, burial or cemetery records.
 
+For early Canadian church or civil records, open **Search > Records > Search by Place** and choose
+the standardized province [S133 @2026-11-20], [S134 @2026-11-20]. Inspect its record collections.
+Use **Browse all collections** with the province and collection type if you need to narrow the list
+[S135 @2026-11-20]. Check the collection's actual locality and dates before recording coverage.
+
 When recording a Tree event, keep the church or cemetery in the place text and choose a standard whose date range covers the event [S21], [S22], [S23]. An English civil registration district such as Ormskirk contained more than the town of that name. Check the record for the parish. Use alternate spellings and nearby names as search leads [S20]. Cite the record and explain the choice before treating two place names as equivalent.
 
 **Artifact:** An event → year → historical jurisdiction → custodian → series/substitute table.
@@ -111,6 +116,13 @@ When recording a Tree event, keep the church or cemetery in the place text and c
 3. Inspect each entry's creator, language, notes, dates and individual volume/film rows.
 4. Record indexed search, browsable images, digital books and physical holdings as separate access routes.
 5. Cross-check Images for relevant groups that have not reached the Catalog.
+
+For the first Catalog inventory, use **Place** and leave **Availability** set to **Any**.
+Switch to **Online** only for a digital-access pass, and check each result's access separately.
+The **Online** filter can include items whose images are restricted at home [S141 @2026-11-20].
+
+According to a 2022 transcript excerpt, the county inventory demonstration uses **Any** before
+working out where each item can be viewed [S140†].
 
 A Catalog place search lists items catalogued at that jurisdiction level, so town registers inside a
 county, or a family history catalogued under another locality, may not appear. Also run keyword or
@@ -174,6 +186,26 @@ holder before citing it; cite the copy you read. Sources:
 3. Check the index's covered years; carry its entry/page reference to the correct original volume.
 4. Browse directly where the index is absent or incomplete, noting relevant relatives and neighboring entries.
 5. Log every examined image range and the ranges still outstanding.
+
+Sign in and open **Search > Images** after a name-search miss to find image-only collections.
+Start with the standardized place and leave optional filters broad. In **Help me find a
+collection**, add the standardized date range only when useful. Check and adjust it in **Filters**
+on collection results or **Refine Search** on image-group results [S137 @2026-11-20],
+[S138 @2026-11-20]. If a dated small-place search returns zero, rerun it with the dates cleared.
+When the period must stay fixed, keep the date range and rerun the search for the surrounding
+jurisdiction. Inspect each candidate group's actual creator and locality [S137 @2026-11-20],
+[S138 @2026-11-20].
+
+Use **Life Event** first when looking for an event across several kinds of records. A marriage may
+be in a volume described as parish records or vital records. Add **Record Type** after identifying
+the series you want [S139 @2026-11-20].
+
+Scan thumbnails at the beginning and end of each volume for a title page, contents or index.
+Enlarge the opening pages and read the headings to tell entries from an index [S104 @2026-11-20].
+
+If the register includes both event and recording dates, sample entries to establish which date
+governs the sequence [S104]. Continue beyond the target event date when entries run by recording
+date, following the 2023 advice reported in a transcript excerpt [S136†].
 
 According to Katie Merkley’s advice, determine the arrangement before browsing individual images
 [S103† @2026-11-18]. Sample headings and entries to see whether the current item runs by surname,
@@ -458,6 +490,13 @@ their stories, photos and recordings can be restricted to the group by setting e
 to Private and selecting that group [S82], [S83]. Do not use a group tree
 to protect research from outside edits. [S77]
 
+**Privacy gate:** <!-- privacy-gate: link --> Linking a Full Text result sends the record reference, any source notes and the profile association to FamilySearch and the profile’s audience. The linked record can disclose living people. Answer the privacy gate in `SKILL.md` before attaching it.
+
+For a confirmed Full Text hit, open the result's document view and attach the image as a source to
+the verified Tree PID. Use that view's attachment control without waiting for an indexed record or
+a Source Linker match. Use Source Box if staging the citation for later [S129 @2026-11-20],
+[S130 @2026-11-20]. Reopen the intended profile's **Sources** and verify the image and locator.
+
 **Artifact:** An attachment checklist: record/image URL, named person, documentary role, Tree PID, attachment and reason.
 
 **Check:** The right person is attached, not merely a same-named person on the visible screen. The transcript's focus controls are a 2024 observation.
@@ -679,6 +718,14 @@ Post a correction in the existing photo’s **Comments** when you have a basis f
 Point to the specific figure and give the proposed name and basis. Attribute a recognition to the
 person who made it. Disregard facial resemblance as evidence of identity and leave the tag unchanged
 until independent evidence establishes the identification [S107 @2026-11-18], [S125 @2026-11-18].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A record page can send names, dates and relationships of living people to Goldie May and the selected AI provider. The saved source and profile association go to FamilySearch and the target tree’s audience [S131 @2026-11-20], [S132 @2026-11-20]. Answer the privacy gate in `SKILL.md` for both transfers before invoking the command.
+
+With the authorized Goldie May extension already installed, confirm the destination tree and
+person ID. Right-click the outside record page and use Goldie May's offered FamilySearch attachment
+command [S129 @2026-11-20], [S131 @2026-11-20]. Check the generated citation and description against
+the original, and reopen the intended PID's **Sources** to verify the saved link. If the command is
+unavailable, use the source-creation route in step 1.
 
 **Artifact:** A source-reuse map: source/image URL, cited passage, named roles, attached PIDs, report version, intended audience, saved visibility, redaction/summary version and reader-access check.
 

@@ -11,7 +11,7 @@ handoff: ["city-directory-observation-workflow", "deed-content-relationship-clue
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 97}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 101}
 ---
 
 # Recover an Irish will, grant or deed after the 1922 losses
@@ -29,6 +29,17 @@ Link out for the shared steps:
 - **Building a street-directory series:** [city directory observation workflow](city-directory-observation-workflow.md).
 - **Identity and kinship rulings:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Split the probate search at 1858
+- 2\. Read the calendar entry for what it is
+- 3\. Find a copy before you call the will lost
+- 4\. Search the Registry of Deeds by grantor and by land
+- 5\. Read a deed nil as weak evidence
+- 6\. For an Ulster family, search PRONI's online applications separately
+- Close with a probate-and-deed packet
+
 ## Inputs to gather first
 
 - the deceased's name forms, with the record each came from
@@ -42,6 +53,8 @@ Link out for the shared steps:
 - **Before 1858, look for the church courts' records.** The Probate Act of 1857 moved probate to a Principal Registry in Dublin and 11 district registries [S1]. A pre-1858 will was proved in a diocesan court or the Prerogative court.
 - **From 1858, start with the annual calendars.** They were printed each year, alphabetical by the deceased's surname [S4].
 - **Record which registry issued the grant.** It decides which will book can hold a copy (step 3) and whether PRONI's database covers the grant (step 2).
+
+**Choose the pre-1858 court by diocese and estate.** Start with the Church of Ireland court for the deceased's diocese of residence. If the deceased held property worth more than £5 in another diocese, start with the Prerogative Court of the Archbishop of Armagh [S26]. Search both courts' indexes when the property's location or value is unclear. Search for administrations as well as wills when you do not know whether the deceased left a will [S25], [S26].
 
 ## 2. Read the calendar entry for what it is
 

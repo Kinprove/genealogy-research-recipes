@@ -10,8 +10,8 @@ guardrails: [{"id": "FRENCH-DEPARTMENTAL-RECORD-ROUTING-01", "text": "**Send eac
 handoff: ["archival-image-coverage-verification", "evidence-proof-judgment", "french-belgian-civil-act-extraction", "historical-map-record-recovery", "historical-place-name-resolution", "land-index-book-series-recovery", "source-citation", "tax-roll-observation-workflow"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 103}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 109}
 ---
 
 # Route French records by département, creator, series and access rule
@@ -84,6 +84,14 @@ Gather these before searching:
 
 **Paris, 12th arrondissement:** the birth acts of 1 January 1870 to 25 May 1871 were also destroyed; look for them among the [reconstructed acts](french-belgian-civil-act-extraction.md#check-a-paris-reconstructed-record-branch) [S58].
 
+### Use a name index to locate the register
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A civil or parish name search sends the subject's name and any event place, date or relatives entered to MyHeritage. Answer the privacy gate in `SKILL.md` before submitting a query.
+
+**Search the civil or parish index for the event type.** For a civil act in Nord, use MyHeritage's *France, Nord Civil Births, 1820–1915* or *France, Nord Civil Deaths, 1820–1935* within its stated span [S71 @2026-11-20], [S73 @2026-11-20], [S74 @2026-11-20]. For a broader search, select *France, Church Baptisms and Civil Births*, *France, Church Marriages and Civil Marriages* or *France, Church Burials and Civil Deaths* by event. Check place and year coverage even when the title says France. The marriage collection includes selected banns, so identify the entry type before using its date [S71 @2026-11-20], [S75 @2026-11-20], [S76 @2026-11-20], [S77 @2026-11-20].
+
+**Try the *France, Vital Records Index* as a separate transcription route.** It draws on genealogical-society transcriptions and supplies no scans [S71 @2026-11-20], [S78 @2026-11-20], [S79 @2026-11-20]. Use the hit's commune, event type and date to select the parish or civil register and cite the original entry with its page or image locator. If an index misses or its coverage is unclear, return to the departmental finding aid and ten-year tables where applicable.
+
 ## 2. Work out whether the act is open yet
 
 **Privacy gate:** <!-- privacy-gate: request --> A request to a mairie for a birth or marriage act that is still closed, as described below, sends the names of people who may be living and your kinship to them; answer the privacy gate in `SKILL.md` before you send it.
@@ -136,6 +144,18 @@ judgments registered at the Fort-de-France court [S44]. These are two record tar
 
 ## 5. Read the nominative census lists household by household
 
+### Check whether a name index covers the commune and year
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A census name search sends the subject's name and any birth or residence filters entered to MyHeritage. Answer the privacy gate in `SKILL.md` before submitting a query.
+
+**Search a year-specific census index when it covers the place.** MyHeritage's *1872 France Census* and *1906 France Census* each list the départements covered. In *1901 France Census*, check the eight listed départements: Charente, Creuse, Dordogne, Eure-et-Loir, Indre, Marne, Orne and Vienne [S71 @2026-11-20], [S80 @2026-11-20], [S81 @2026-11-20], [S82 @2026-11-20]. Check for gaps at commune level before interpreting a miss.
+
+**Search the corresponding MyHeritage census collection for 1911, 1921 or 1931.** Each indexes selected départements and has associated images [S72 @2026-11-20], [S83 @2026-11-20], [S84 @2026-11-20], [S85 @2026-11-20]. From a hit, open the image and read the whole household. Record its commune, street or hamlet, page or image locator, and the birth years, birthplaces and relationships the list actually gives. Keep household membership distinct from kinship inferred by the index.
+
+**Try the département-specific census collection for its own years.** Use *France, Census of Corrèze, 1911* for Corrèze in 1911, *France, Hérault Censuses, 1836–1936* for Hérault, or *France, Côtes-d’Armor Censuses, 1872–1906* for Côtes-d’Armor [S71 @2026-11-20], [S86 @2026-11-20], [S87 @2026-11-20], [S88 @2026-11-20]. Check the exact enumeration and commune within a multi-year range. If coverage is unclear or the index gives no hit, browse the departmental list below.
+
+### Browse the departmental lists
+
 - **Expect a list every five years from 1836 to 1936, then 1946.** The 1871 census was taken in 1872 and none was taken in 1916 [S5].
 - **Find the lists by commune and year.** Up to 1936 they are often in sub-series 6 M [S5], [S6]; in the Côtes-d'Armor the 1946 lists are in a W series [S5]. Inside a commune they run by street and household [S6].
 - **Read the columns of the year you open.** The lists give names and occupations [S6]; the role in the household (head, wife, children) is given only from 1881 [S5]. Other columns change by year: birthplace and nationality are absent from 1856 to 1866, and from 1906 a birth date replaces the age [S5]. Do not expect a birthplace in every year.
@@ -167,6 +187,12 @@ verified service dates.
 Read the matricule’s successive-address section after identifying the recruit. Copy each address with the date attached to it, then use that dated commune or street to select census and civil-register searches, including another département when the address changes. Keep an address annotation separate from a regiment’s location; neither a name hit nor a unit transfer places the family at the same address. [S69], [S70]
 
 Continue through the reserve and later annotations rather than ending at discharge from active service. A matricule can add later residence and family-status information, including a reported number of children. Date the observation by its annotation and preserve exactly what it states: a child count does not identify the children, establish their birth dates or mean they were born during active service. [S69], [S70]
+
+### Check the Nord and former Seine military indexes
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A recruitment name search sends the recruit's name and any birth or enlistment filters entered to MyHeritage. Answer the privacy gate in `SKILL.md` before submitting a query.
+
+**Search the military index for the recruitment place.** For enlistment or conscription in Nord, use MyHeritage's *France, Military Enlistees and Conscripts of Nord*. Carry the date and place of enlistment or conscription from a hit into the appropriate recruitment series [S71 @2026-11-20], [S89 @2026-11-20]. For conscription in the former Seine from 1887 to 1921, use *France, Military Conscripts of Seine*. Take the bureau and matricule from the hit to the register image and confirm the classe there [S71 @2026-11-20], [S90 @2026-11-20]. Use the historical recruitment jurisdiction when choosing the index. After a miss, continue with the classe and bureau or the earlier recruitment stages below.
 
 ### Before classe 1867: follow the local recruitment stages
 

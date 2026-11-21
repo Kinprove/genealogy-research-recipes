@@ -4,13 +4,13 @@ title: "Rank localities to search from dated surname-distribution sources"
 summary: "Rank localities to search from dated surname-distribution sources for an uncommon surname."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "SURNAME-DISTRIBUTION-LOCALITY-LEADS-01", "text": "It turns time-sliced maps, attestation dictionaries, a couple's surname overlap and country-wide counts into a **ranked, bounded list of localities to search**. It never produces an origin finding."}]
 handoff: ["scandinavian-patronymic-farm-name-record-recovery"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
 router: {"section": "Research method", "group": "Search coverage and name searches", "order": 8}
 ---
 
@@ -93,6 +93,16 @@ Limits:
 
 - The count measures that site's indexed coverage, not the historical population. The presenter notes that many parishes in his target period (late 1600s to early 1700s) were not recording baptisms [S5]. English parishes had been required to keep registers since 1538. The real problem is gaps in the later 1600s, plus nonconformist baptisms that often never reached the parish register.
 - He also claims that if the bearers are all in one place he is related to every one of them [S5]. Do not adopt that. A small, clustered pool shortens the matching list but proves no relationship.
+
+### Compare Polish surname distributions
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The research subject's surname alone goes to Mapa Nazwisk. Clear the gate first if the subject may be living.
+
+Ask the user to run the Mapa Nazwisk lookup manually for personal research. The site's terms restrict automated access [S25 @2026-11-20]. Have the user enter the nominative singular with Polish diacritics, using the masculine form where the surname has gendered endings [S24 @2026-11-20]. Use clusters for an uncommon surname to rank regions for register searches [S23 @2026-11-20]. Label the map as a distribution from Poland's 2000 telephone directories [S24 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The research subject's surname alone goes to Nazwiska polskie. Clear the gate first if the subject may be living.
+
+Look up the surname in Nazwiska polskie (nazwiska-polskie.pl) for approximate national and local counts and use the listed places as leads [S26 @2026-11-20], [S27 @2026-11-20], [S28 @2026-11-20]. Keep unlisted places open because the site may omit localities [S28 @2026-11-20]. Without a fixed reference date, log "period unknown" and rank these leads last. Establish rarity from a dated nationwide source before narrowing the search.
 
 **For Belgium, use Familienaam.be's population-register maps for 1998 or 2008.** Select the year nearer the target period under the time-slice rule above. Compare relative frequencies to rank concentrations and absolute counts to read numbers of bearers. Keep the selected spelling, capitalisation, spaces and accents with the result, and rank it as a population-register observation for that reference year. [S20 @2026-11-17], [S21 @2026-11-17]
 

@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "dna-comparison-controls", "myheritage-dna-matc
 checked: "2026-11-12"
 checked_basis: "Rechecked 2026-11-12"
 capabilities: {"browse": ["familytreedna"], "local_script": [], "extensions": [], "data_transfer": ["export", "link", "publish"], "contact": []}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 26}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 27}
 ---
 
 # Recipe: Maintaining FamilyTreeDNA exports and tree links
@@ -50,6 +50,14 @@ A Matrix pair value reports sharing between two matches; it does not locate that
 an interval where both overlap the focal kit.
 
 ## Before starting
+
+When choosing a new test to find relatives in FamilyTreeDNA's match database, select a dedicated
+Y-DNA test for the direct paternal line or mtFull Sequence for the direct maternal line
+[S50 @2026-11-20]. Shannon Combs-Bennett also recommended FamilyTreeDNA for Y-DNA or mtDNA
+matches in a 2023 interview, with access limited to a transcript excerpt [S49 @2026-11-20].
+If the supplied results contain only autosomal matches or haplogroup labels, mark the
+line-specific match list `not supplied` [S50 @2026-11-20]. Record the database searched with
+each Y-DNA or mtDNA match list [S50 @2026-11-20], [S51 @2026-11-20].
 
 For workflows 1–4, use authorized account access and start with the paired export in workflow 1. FTDNA downloads
 require two-factor authentication. [H6]

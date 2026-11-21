@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-02"
 checked_basis: "checked on 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["link", "publish", "third-party-tool"], "contact": ["contact"]}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 172}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 189}
 ---
 
 # Attribute and date an inherited family photograph from captions, provenance and imprints
@@ -49,6 +49,8 @@ Use this when an image has a caption, inherited identification or new informatio
 
    On FamilySearch, albums belong to Memories, and the uploader sets each memory as public or as viewable only by themselves [S59 @2026-11-16]. FamilySearch's Content Submission Agreement says uploaded content may be displayed and available for others to search and view, and that photographs of living people, other than the uploader's own minor children, must not be posted without their consent [S58 @2026-11-16]. MyHeritage's Photo Tagger groups the faces it believes belong to one person and suggests names of deceased people from the tree [S62 @2026-11-16]; MyHeritage's 2022 announcement calls it facial recognition and says that, once enabled, it scans newly uploaded photos automatically [S61 @2026-11-16].
 
+**Embedded captions.** Read names in a digital copy's IPTC Description/Caption and Keywords fields as attributions. Record the field and file version, and the contributor and their basis when known [S77], [S83].
+
 ## Record the context and look for other copies
 
 Record non-biometric context relevant to the question: an inscription, a stated occasion, location, photographer/imprint or independently supported format/date information. Preserve contradictions with a proposed attribution rather than resolving them from appearance. For related copies, retain their sources and what inscriptions or provenance they add [S6], [S1].
@@ -72,6 +74,10 @@ To seek other prints:
 5. Another copy's caption is its source's attribution. Count matching captions across trees, books and sites as one attribution until someone shows an independent basis: wrong identifications are copied quickly. The earliest upload points to a holder, not a maker or sitter [S12]. A place found for one album item is a lead for its neighbours, not a finding. These are leads to ask, never resemblance matches.
 
 The commissioner rule in step 4 did not end with Britain's 1911 Act. Under the Copyright Act 1956, a person who commissioned a photograph or a portrait, and paid or agreed to pay for it, was entitled to its copyright, unless an agreement excluded that [S54]. The Copyright, Designs and Patents Act 1988 gives first ownership to the author, or to the employer for work an employee made in the course of employment unless they agreed otherwise [S55]. The law in force when a work was made decides who first owned it, except that a commission given before the 1988 Act took effect keeps the earlier rule for a work made under it after that date [S56].
+
+**Photographs linking branches.** Use the named parent and kinship in a reverse caption to choose which branch's collection to check. Test a place attached to a person's name separately from the place of the sitting [S85].
+
+**Privacy gate:** <!-- privacy-gate: contact --> A request describing the photograph and the family connection may disclose information about living people to relatives in the other branch. Answer the privacy gate in `SKILL.md` before contacting a relative through a route the user already has. Ask whether the other branch holds a separately captioned or attributed group photograph showing members of both branches. Check where its identifications came from before using the grouping as evidence of an association. Verify the proposed kinship in records [S85].
 
 **Keepsake copies.** **Privacy gate:** <!-- privacy-gate: contact --> These questions go to relatives and heirs who may be living; answer the privacy gate in `SKILL.md` before any message goes out, as in step 1. When you ask for other prints, ask also about small portraits set into lockets and brooches. Victorian families kept photographs of their dead in such keepsakes, including portraits taken after death [S63], [S64], [S65]. Record a keepsake portrait as another copy, and transcribe the jewel's own inscription literally as a separate caption: one Royal Collection locket pairs a Camille Silvy photograph of Prince Albert with a lock of hair and is inscribed "December 14/1861" [S67]. An inscribed date marks the keepsake or the event it commemorates, not the sitting. A mourning setting does not make the portrait post-mortem: a mourning brooch of about 1885 at The Henry Ford holds a tintype of the deceased taken while still alive [S66]. Record a portrait as taken after death only on an inscription or an attributed account, never from pose or appearance. Such a sitting follows the documented death: take the death date as its earliest bound, and in the documented-lifetime test treat a sitting after the death as expected, not as a misattachment.
 
@@ -102,6 +108,16 @@ Name the object class before using any format clue: a cased image (a daguerreoty
 - An old-system house number bounds the image only where dated directories show the change [S24].
 - A licence plate's year bounds the photograph only approximately, because next year's plates could go on sale before the year began. The plate is a lead to the vehicle's owner, not to who is pictured [S25].
 - Inspect each photo in a supplied identity document (an internal passport, a party or military card, a pass) and its reverse. A photo shown to have been pasted in at issue was taken no later than the issue date, but the issue date is not the sitting date. A replacement photo or a copy needs its own bound: under the 1974 Soviet Passport Regulation, new photos were pasted in at ages 25 and 45, and the holder had a month after that birthday to hand them in [S31].
+
+**Photographs on plates.** Inspect the image-bearing surface and support. Leave any housing assembled. A mirrorlike metal image surface points to a daguerreotype, commonly made on silver-plated copper [S77], [S79]. A glass image plate that appears positive against a dark backing points to an ambrotype. A photographic layer on dark-coated iron points to a tintype [S77], [S78]. A metal backing behind an ambrotype can also attract a magnet [S78]. If the support is obscured, keep the possible formats and their date bounds conditional.
+
+**Small card portraits.** Measure the card mount and the print separately. An intact carte de visite typically measures about 2½ × 4 inches (6.4 × 10 cm) overall. Check the mount and imprint together and allow for trimming before applying the format's date range [S77], [S80].
+
+**Crayon portraits.** For a portrait that looks drawn, check for hand-applied media over a photographic enlargement [S77], [S81]. Record the enlargement separately and seek the source photograph. Apply the enlargement's date clues to the enlargement.
+
+**Digital dates.** Inspect the EXIF fields locally on the earliest available file. Distinguish `DateTimeOriginal` (capture) from `DateTimeDigitized` (digitization). Establish what the device captured before using either timestamp or the GPS coordinates. For a scan or a photograph of a print, metadata generated by the copying device describes the digital copy. Look for a date or place for the sitting on the physical photograph or in its provenance [S77], [S82].
+
+**Vehicles.** If a car's design is visible, record the features that distinguish the make, model or variant. Check manufacturer literature or collection records for when that design first appeared. Use a supported introduction date as the earliest bound and leave the latest date open [S77], [S84]. In a 2012 Indiana Historical Society post, a then-recent photograph shows a boy beside a 1970s car [S84].
 
 Treat an AI date estimate, such as MyHeritage's PhotoDater, as a rough range to test against the bounds above, never as a bound itself. MyHeritage says the tool gives a best-guess year only for photos taken between 1860 and 1990, and only when its confidence is good enough. In its own test about 60% of estimates fell within five years of the actual date [S52 @2026-11-12] [S53 @2026-11-12]. A missing estimate tells you nothing about the date: MyHeritage names photo quality and other factors as reasons it gives none [S52 @2026-11-12]. Record the estimate with the tool's name and the date you read it, beside the bounds from physical clues. Uploading a photo to get an estimate is an outside-service step under the privacy gate in step 3 of "Record the context and look for other copies".
 

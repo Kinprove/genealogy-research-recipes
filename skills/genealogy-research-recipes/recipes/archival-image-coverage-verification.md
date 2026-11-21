@@ -40,6 +40,10 @@ agreement between copies is not independent corroboration. Family Locket describ
 
 FamilySearch distinguishes image numbers, record pages, household numbers and family numbers. Its item-grouping instructions allow multiple books on a film and a book split across films. A film's image count therefore cannot establish a particular case's boundaries. [S1, S2]
 
+In the FamilySearch Explore Historical Images web viewer, open the image group and use the 3×3 grid icon to see its thumbnails [S69 @2026-11-20].
+
+Scroll through the thumbnails to gauge the group's extent and look for a later title page, a cue from the available excerpt [S68]. Open each candidate title page and its neighbouring frames at readable size. Record the starting image number for each volume you confirm.
+
 For the requested item, inspect opening and closing material and representative interior pages. Reconcile its covers, title boards, headings, foliation and entries with the catalogue. A readable copy's own page count is not independent evidence that it contains the whole case. If an inventory, certification or other copy establishes a boundary, cite that evidence; otherwise report inspected pages with completeness unresolved.
 
 **Privacy gate:** <!-- privacy-gate: request --> A request for further sheets of a case file asks for more about the people it names, who may be living; answer the privacy gate in `SKILL.md` before you send it, and apply its rule for third persons named in the file.
@@ -235,4 +239,4 @@ Record which sides of loose documents an image copy shows; filming can miss a pa
 
 Deliver the literal passage and verified fields, the exact inspected locator, coverage actually achieved and remaining gaps. For OCR retrieval use [corpus-seeded-name-search.md](corpus-seeded-name-search.md); for household reconstruction use [jewishgen-search-family-reconstruction.md](jewishgen-search-family-reconstruction.md).
 
-Sources and the distinction between provider facts and workflow synthesis: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/71a8f9f838d56088b90856e757dfee5006dd17fd/skills/genealogy-research-recipes/sources/archival-image-coverage-verification.md).
+Sources and the distinction between provider facts and workflow synthesis: [source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/042c9a945a21a73bb0abfefd765ce1ba88489021/skills/genealogy-research-recipes/sources/archival-image-coverage-verification.md).

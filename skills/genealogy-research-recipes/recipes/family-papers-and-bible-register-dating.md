@@ -10,8 +10,8 @@ guardrails: [{"id": "FAMILY-PAPERS-AND-BIBLE-REGISTER-DATING-01", "text": "A pos
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
-router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 173}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": ["contact"]}
+router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 190}
 ---
 
 # Separate writing, mailing and event dates in family papers and Bible registers
@@ -83,6 +83,18 @@ Begin with the book's stable item reference and received provenance from the Fam
 7. **A relative's attribution of a hand stays attributed.**
 8. **Distinguish the transcriber, sender and online poster from the holding branch.** A 2017 tree post reproduced a genealogical-society secretary's transcription forwarded by a third person. The Bible itself had descended through the eldest son's line [S10]. Follow the holding branch for images and compare each date with independent records. Even a signed attestation of accuracy accompanied a date contradicted by other evidence [S7].
 
+9. **Check Bible birth dates against church baptisms for the same family.** Start with the eldest child if the entries appear to have been reconstructed together, given the errors in eldest children's dates reported in [S41†]. Compare any separately stated birth date in the baptism register with the Bible date. If the register gives only the baptism date, use it as the latest possible birth date [S43]. In the Potter case, a baptism dated thirteen months after the Bible's stated birth date still left the birth year unresolved [S43]. If the evidence supports a correction, give the Bible date exactly as written beside the supported date and cite the evidence for the change.
+
+### Find Connecticut Bible and family transcriptions
+
+**For a gap in historical Connecticut public records, check the Connecticut State Library's Bible and Family Records.** Search the statewide slip index by family name, then follow each relevant hit to the cited volume and page of the transcription [S42 @2026-11-20]. Search the index at the back of volume 27 separately. The statewide slip index covers volumes 1–26 [S42 @2026-11-20].
+
+### Check a disputed pedigree entry
+
+**Privacy gate:** <!-- privacy-gate: contact --> A register image shown to a handwriting specialist may reveal relatives' dates and relationships, including those of living people. Answer the privacy gate in `SKILL.md` before making contact and limit any image to the cleared area needed for comparison.
+
+**Ask a specialist in the claimed period's script to examine the printing and handwriting on a Bible entry that carries a disputed pedigree link.** Compare the leaf and the entry with dated examples from the claimed period, following the test suggested by the case reported in [S44†]. Check for a later copy before calling an anachronistic entry a forgery. An 1823 copy of *Essays on Petrarch* bears a forged Byron inscription [S45]. Keep the pedigree link unresolved until independent evidence supports it.
+
 ### Edition, binding and inscriptions
 
 1. **Separate the work's first publication, this edition or copy, any later alteration, and a claimed acquisition or inheritance** [S11].
@@ -117,6 +129,7 @@ Compare the imprint, title page and binding across copies. Effie Kelsey's copy o
   - every dated page and the publisher's address, and the printing date taken from them
   - whether the register leaves belong to this book, do not, or are unresolved
   - an entry table: stated event date, apparent hand, ink or medium with any earliest date it gives, position, and apparent writing occasion (later copy or recollection, consistent with near-event, or undetermined)
+  - for a corrected date, the Bible date exactly as written, the supported date and the evidence for the change
   - any earlier register, recorded as documented (with the document) or not yet documented
   - every copy, with transcriber, sender, poster and holding branch
 - **For each family book:**

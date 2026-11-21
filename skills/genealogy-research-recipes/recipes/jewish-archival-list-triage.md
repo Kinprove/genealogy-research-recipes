@@ -11,7 +11,7 @@ handoff: ["archival-image-coverage-verification", "corpus-seeded-name-search"]
 checked: "2026-11-07"
 checked_basis: "checked 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Ukrainian archives", "order": 80}
+router: {"section": "Records by country and region", "group": "Ukrainian archives", "order": 84}
 ---
 
 # Recipe: Finding Jewish genealogical lists behind archival catalogue titles
@@ -130,5 +130,5 @@ Deliver the case keys, exact titles, reasons, inspected locators and unresolved
 retrieval needs. Stop at the agreed catalogue or case scope; an uninspected reserve
 is a possible next source, not a completed search.
 
-This triage rubric is an investigator-created workflow. [Source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/71a8f9f838d56088b90856e757dfee5006dd17fd/skills/genealogy-research-recipes/sources/jewish-archival-list-triage.md)
+This triage rubric is an investigator-created workflow. [Source notes](https://github.com/Kinprove/genealogy-research-recipes/blob/042c9a945a21a73bb0abfefd765ce1ba88489021/skills/genealogy-research-recipes/sources/jewish-archival-list-triage.md)
 separate it from provider facts and related verification methods.

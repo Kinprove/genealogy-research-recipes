@@ -11,7 +11,7 @@ handoff: ["court-case-file-recovery", "criminal-court-prison-record-recovery"]
 checked: "2026-11-07"
 checked_basis: "read 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 140}
+router: {"section": "Records by country and region", "group": "United States: military, land, courts and law", "order": 149}
 ---
 
 # Recover a U.S. federal court case file
@@ -152,6 +152,12 @@ that applies and mark it retrieved, requested, not found or not yet searched [S2
 - **Loose case file**: the largest body of papers, sometimes tied in a bundle.
 
 Keep a distinct locator for each series. Record the dates on the first and last surviving papers as well as the date of filing. Allen describes a loose federal suit file that began in the 1870s and continued into 1881 [S3].
+
+For the Amistad captives, go past the published decision to the depositions and testimony [S28]. Look in the 12 February 1841 certiorari return in Supreme Court case file no. 2161, *United States v. The Amistad* (RG 267, microfilm M2012), and check microfilm M1753 for the related Connecticut district and circuit court papers (RG 21) [S29].
+
+Search the National Archives Catalog by identifier 561022 for the digitized M2012 [S30 @2026-11-20].
+
+Record each name, language and place with its speaker. Use James Covey’s deposition as reported at 40 U.S. 518, 538 to trace what the captives told him about their voyage [S31]. Treat the names in Pedro Montez’s claim as leads, since the published account gives three Spanish names and four African names without matching them person by person (p. 524) [S31].
 
 ## Record a complete-index negative, then widen to relatives
 

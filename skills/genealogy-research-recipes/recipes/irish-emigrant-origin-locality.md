@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 98}
+router: {"section": "Records by country and region", "group": "Britain and Ireland", "order": 102}
 ---
 
 # Resolve an Irish emigrant's origin locality from a place statement
@@ -145,6 +145,24 @@ Run it for the surname and county first.
   J. & J. Cooke (1847–1867) and McCorkell (1864–1871) [S24], [S29]. Search the matching volume
   and read the passenger's stated address or residence and identifying details. Record the title,
   edition and page consulted.
+
+- **Keep a famine-era Irish Sea crossing open when the passenger search is blank.** Travel from
+  Ireland to Great Britain in 1845–1852 was within the United Kingdom [S33], [S34]. The Board of
+  Trade series BT 26 and BT 27 start in 1878 and 1890 respectively and cover voyages to or from
+  ports outside Europe and the Mediterranean [S35]. Treat a blank result in those series as a
+  coverage gap and test the crossing through records in Britain.
+
+- If the emigrant may have been in England or Wales on the night of 30 March 1851, search the
+  1851 census (HO 107) for the emigrant and family. Read the household's birthplaces and
+  relationships [S36].
+  If the birthplace says only “Ireland,” use the census residence to target local parish registers
+  and civil birth and marriage indexes for the family [S33].
+
+- For a famine-era emigrant who settled in Australia, use the state death index as a locator for
+  the death registration and check the gravestone inscription [S33]. For a New South Wales civil
+  death from March 1856, read the certificate's birthplace, parents and informant details [S37].
+  Log the gravestone's Irish place wording and any stated kinship separately from the certificate
+  [S38].
 
 - For a family in the Bytown area in 1829, search the McCabe List: a petition dated
   5 February 1829 by 673 men, mostly Irish, with family-origin details. Moran's guide points to

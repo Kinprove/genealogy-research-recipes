@@ -11,7 +11,7 @@ handoff: ["ai-for-dna-research", "evidence-proof-judgment", "family-interviews-a
 checked: "2026-11-13"
 checked_basis: "read 2026-11-13"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 122}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 129}
 ---
 # Find a claimed Native American ancestor on the right tribal roll, and read what the roll proves
 
@@ -76,6 +76,10 @@ Each roll was made for its own purpose, with its own eligibility test. A person 
 - **For an ancestor of a tribe outside the Five Tribes, do not search the Dawes Rolls.** They hold only the five tribes above. Each tribe sets its own enrollment rules and its own base roll [S18], [S10], and a present-day tribe can still require Dawes descent, as the UKB does (step 6).
 - **Do not treat the three Cherokee tribes as one.** The Cherokee Nation, the Eastern Band and the United Keetoowah Band each have their own citizenship rules and base roll [S5], [S20], [S21], [S22].
 
+**Browse M595 under the historical agency headings.** Use the band, place and year to choose which rolls to open. Search both Cheyenne River and Standing Rock for a Sihásapa (Blackfoot Lakota) lead. Cheyenne River also covers Minnecoujou, Two Kettle and Sans Arc (Itázipčho). Standing Rock also covers Hunkpapa and Yanktonai [S36], [S38].
+
+For Oglala, check both Pine Ridge and Oglala Sioux Indians. For Sicangu (Brulé), start with Rosebud. For Lower Brulé, check Lower Brule and Crow Creek by year. For a Spirit Lake lead for Sisseton, Wahpeton or Cut Head (Pabaksa), check Devils Lake and Fort Totten. For Santee Dakota in Nebraska, check Santee and the relevant years under Yankton and Winnebago. For Northern Cheyenne, look under Tongue River [S36], [S38], [S39], [S17].
+
 For Alaska Native census leads, use FamilySearch’s Alaska, Village Census Rolls collection page to identify the relevant items. It describes BIA census material supplied by Sealaska Heritage Institute Archives, but its title says 1912–1978 while its description says 1919–1972. Record the village and year from the individual item and retain the conflicting collection-page spans in the coverage log; neither span establishes complete village-by-year coverage. [S33 @2026-11-16], [S35 @2026-11-16]
 
 ## 3. Find who holds the record now
@@ -92,6 +96,10 @@ Then ask the people who hold the records:
 - **Read agency microfilm page by page.** Some agency microfilm is narrative, not a name list, so read through the images instead of expecting a name index [S3].
 
 Use NARA’s state-by-state BIA guide to identify the agency that served the tribe, place and period. The Arizona guide lists agencies, their jurisdictions and holding routes. Carry the agency name, covered years and listed facility into the catalogue search, instead of treating all RG 75 material as one statewide name index. [S27 @2026-11-16], [S28 @2026-11-16]
+
+For Sioux agency rolls, use Access Genealogy’s free U.S. Indian Census Rolls directory to locate links by agency and year, including Cheyenne River and Standing Rock. Match the directory result to the M595 roll and confirm the year on the roll itself [S36 @2026-11-20], [S37 @2026-11-20].
+
+Use `M0595` in NARA’s Digitized by Partners table to narrow the `1885` lookup reported in a 2022 video excerpt [S40† @2026-11-20]. The “Indian Census Rolls, 1885 - 1941” row lists “Not available” under National Archives Catalog status and gives separate links to Fold3 and Ancestry [S41 @2026-11-20]. Use NARA’s Indian Census Rolls guide to reach the Catalog or a provider you can access, then confirm the specific agency and year there [S42 @2026-11-20].
 
 For Alaska series that cross 1931, search the creator history under both the Alaska Division of the Office of Education and the Bureau of Indian Affairs. The division transferred to the BIA on 14 March 1931 under Secretary’s Order 494. Record the creator and dates from the series description, then take the holding facility from the catalogue’s custody information. [S33], [S34]
 
@@ -120,6 +128,8 @@ For Alaska series that cross 1931, search the creator history under both the Ala
   - Some ancestors hid from government agents [S11].
 - **Absence from the Indian Census Rolls follows from who was counted.** Only people with a formal tribal affiliation under federal supervision were counted [S17], [S1].
 - **Absence from every roll that fits leaves descent unproven.** It does not disprove it [S5]. Do not turn that into support for the lore either. Report the rolls searched, and the rule that would have kept the person off each one.
+
+**Check the agency year and the form before reporting an absence.** In M595, the Standing Rock listing for roll 553 includes 1912–1913 and 1915–1916, so log 1914 as a coverage gap in that series [S17]. When the year is present, check the form headings for names, ages, relationships and identifiers, and record an absent column separately from a blank entry [S36], [S17]. Transcribe each number with its column label. A census row number could change from year to year, so reserve “tribal enrollment number” for a number identified as such [S17].
 
 ## 6. Separate historical descent from current membership
 

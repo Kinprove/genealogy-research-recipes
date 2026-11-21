@@ -49,6 +49,8 @@ Build a census timeline from the person’s dates and jurisdiction:
 
 Work out the list from each person's own dates and jurisdiction. Do not reuse these lists as fixed defaults. The presenter calls people in this period comparatively accessible because these censuses exist, and treats that as a factor in choosing whom to research first [S1]. Rank them accordingly.
 
+If a cousin branch stalls and the child list comes from nineteenth-century census households, add the intervals between enumerations to the worklist. Search birth and baptism records by the parents' names, and check death and burial records for children who could have been born and died between counts [S13, S14]. For a possible U.S. death in the year before the 1850, 1860, 1870 or 1880 census, check that census's mortality schedule too [S15].
+
 Censuses are not the only targets. Lineage-society applications can carry documented descendant lines. For example, Sons of the American Revolution membership applications require the applicant to prove direct descent from a Patriot [S3]. Use the documents an application cites as leads for each generation of the descendant line.
 
 ## Sweep one generation at a time
@@ -60,9 +62,13 @@ Do not follow whatever branch looks most interesting. Jumping around that way is
 - Finish the whole generation before you go down to the next one. Record the order you used so a later session can pick up where you stopped [S3].
 - Follow an older child across consecutive censuses. Match the other siblings, their ages and their parents before joining the two households [S3]. If the child has moved or the family composition differs, verify the relationship with a birth, marriage or other independent record.
 
+When a DNA match is estimated to be a third cousin, keep other plausible relationships open [S16]. Test the third-cousin hypothesis by starting with the children of verified great-great-grandparents on plausible lines. At each generation, if the match's path is still missing, recheck every sibling's child list before moving down to the next generation [S13]. Compare details about anyone who may be living using only materials the user supplied, under the [Living people rule](../SKILL.md#living-people).
+
 For the 10 Million Names Patriots of Color study, start the sweep from the patriot's entry in the DAR Patriots of Color database [S9]. According to Lindsay Fulton's interview, the study worked down through all children and grandchildren and stopped at births after 1900 [S10†], [S11]. When following that workflow, include births through 1900 and mark later births as outside the sweep. Compare the resulting lines locally with a grandparent or earlier ancestor the user has already identified.
 
 ## Close, open or correct each family
+
+In the final review of each cousin branch, check for omitted divorces and remarriages. For deceased people, check marriage records and use newspaper divorce notices as leads to court records [S13, S14]. Log the documented events and reconcile the child lists across the unions. Record the earlier and later surnames at each documented marriage-related name change and carry both into the branch's search targets [S13, S14]. For anyone who may be living, follow the [Living people rule](../SKILL.md#living-people) and work from materials the user supplied.
 
 Give every family in the sweep log one status:
 

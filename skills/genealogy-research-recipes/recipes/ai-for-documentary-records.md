@@ -78,6 +78,30 @@ Upload a multi-page document as one PDF rather than as separate images: Scribe A
 one unit, typically up to about 15 pages, with a 10 MB file limit [S1 @2026-11-12],
 [S2 @2026-11-12].
 
+For Swedish court books (*domböcker*), use ArkivDigital’s **Machine-Transcribed Text**
+(*Maskinell texttolkning*) to search the text of volumes listed as covered [S36 @2026-11-20],
+[S37 @2026-11-20], [S38 @2026-11-20]. Filter by court, volume type and date. Start with one
+Swedish search term per query because a multiword query requires the terms on the same image
+[S38 @2026-11-20]. Open each hit and cite the court, volume and page or image. If the volume is
+outside coverage or repeated queries miss, browse the volume by date.
+
+**Privacy gate:** <!-- privacy-gate: publish --> A BillionGraves contribution sends images and names or other details of anyone shown or mentioned, including living relatives, to BillionGraves for use in its public database. Answer the privacy gate in `SKILL.md` before contributing.
+
+For a BillionGraves contribution, use the desktop Dashboard’s upload section and select
+the source type for a headstone photo, obituary, death certificate or funeral program.
+Review Cemetery Intelligence’s extracted fields against the image [S36 @2026-11-20],
+[S39 @2026-11-20]. For headstone photos taken in the app, check whether the account offers
+automatic transcription. The app can release photos into the public transcription queue
+even if you choose self-transcription [S40 @2026-11-20]. Use a local reader for material
+you need to keep private.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A page sent to the PERO OCR demonstration app can disclose living people’s details in the page image and transcription corrections to Brno University of Technology. Answer the privacy gate in `SKILL.md` first.
+
+Try the PERO OCR demonstration app on a sample of historical Latin-script print. Its
+documented handwriting scope is mainly Czech [S41 @2026-11-20], [S42 @2026-11-20]. For
+Russian or Ukrainian Cyrillic handwriting, choose a reader with a model for the script and
+check the sample’s letters and names against the scan before running more pages.
+
 ## What to never trust or delegate (verify, or don't)
 
 Each of these is a documented failure, not a hypothetical.
@@ -105,6 +129,15 @@ had died. The act of 9 June 1825 let the wives and children of men absent from t
 three years draw as though they were widows and orphans [S3], [S4], [S5]. Before searching for
 the father's death or probate before 1827, check the act's categories and look for evidence
 that he had left Georgia.
+
+On a MyHeritage **Names & Stories** result from OldNews.com, use the AI-generated summary
+and extracted fields to locate the article. Find the separate article-text snippet when
+present, and check names and relationships on the full scanned page before citing the
+article [S43 @2026-11-20], [S44 @2026-11-20], [S45 @2026-11-20].
+
+Check the user’s account for MyHeritage Omni or OldNews Pro access to the full page on
+OldNews.com [S46 @2026-11-20], [S47 @2026-11-20]. If access stops at the index, use the
+newspaper title, issue date and place to find the page in another archive.
 
 ## Prompt-craft that practitioners found works (the reusable core)
 
@@ -277,6 +310,19 @@ separately [S12 @2026-11-12]. MyHeritage calls an animation a technological simu
 authentic [S13 @2026-11-12], [S14 @2026-11-12]. A marked image is a derived artifact; ask for
 the original. A cropped or re-saved copy can lose the marks, so their absence does not show
 that an image is unaltered.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Color restoration sends the scan and any details of living or possibly living people pictured in it to MyHeritage for processing. Answer the privacy gate in `SKILL.md` first.
+
+For a faded scan originally taken in color, use MyHeritage **Color Restoration**. Reserve
+colorization for black-and-white originals. Label the result as color-restored and retain
+the unedited scan for evidence [S48 @2026-11-20], [S49 @2026-11-20].
+
+In a military portrait, inspect the collar for numbers or insignia. Use an existing
+enhanced copy to locate the detail, check the reading on the original, and compare it with
+period uniform references. Use the candidate unit to guide a search of service records
+[S50], [S51]. Leave digits that appear only in the enhancement unresolved. Exclude facial
+resemblance from the identity evidence and record a person’s recognition only as their
+attributed claim.
 
 ## The pitfalls worth internalizing (the least-obvious, most-LLM-usable part)
 

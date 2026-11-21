@@ -10,8 +10,8 @@ guardrails: [{"id": "GERMAN-REGISTER-IMAGE-RECOVERY-01", "text": "**Narrow by th
 handoff: ["french-departmental-record-routing"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Germany", "order": 82}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": ["contact"]}
+router: {"section": "Records by country and region", "group": "Germany", "order": 86}
 ---
 
 # Recover a German register entry through its locality, record offices and register version
@@ -156,6 +156,10 @@ Worked example, for the Weikersheim of section 2: the article (Internet Archive 
 
   - So far only death registers (1874/76 to June 1938) of Regierungsbezirk Münster are indexed: Kreise Ahaus, Beckum, Borken, Coesfeld, Lüdinghausen, Landkreis Münster, Recklinghausen, Steinfurt, Tecklenburg and Warendorf; Städte Bocholt, Bottrop, Gelsenkirchen, Gladbeck, Münster and Recklinghausen; and Isselburg. Marriage registers (1874–1899) and other districts are to follow; check the [current list](https://www.archive.nrw.de/landesarchiv-nrw/geschichte-erfahren/familienforschung/familienforschung-digital/indexdaten-zu-den). The image link opens the register without marking the name, so find the certificate and read all of it. [S52 @2026-11-19], [S53 @2026-11-19]
 
+  **Privacy gate:** <!-- privacy-gate: third-party-tool --> The deceased person's search name and any birth or death dates and places entered go to MyHeritage. Clear the gate in `SKILL.md` before submitting the query and leave out living relatives' details.
+
+  **Search MyHeritage's separate collection** *Germany, North Rhine-Westphalia, Deaths 1874-1938* (10864) for civil deaths in that span [S87 @2026-11-20], [S88 @2026-11-20]. Use a hit to identify the Standesamt, registration year and certificate number, then verify the date of death on the register image [S88 @2026-11-20], [S89 @2026-11-20]. Coverage is incomplete, so on a miss check the Landesarchiv's holdings for the office and year and browse the volume if available [S88 @2026-11-20].
+
 - **Baden 1810–1870: open the Standesbücher.** From 1 January 1810 the clergy, and the rabbis for Jewish communities, kept their registers as civil-status books and sent a second copy (Standesbuch) to the district office after each year's end. Mayors became civil registrars only from 1 February 1870. [S48]
 
   - The second copies are at the Generallandesarchiv Karlsruhe (390) for northern Baden and at the Staatsarchiv Freiburg (L 10) for southern Baden, both fully digitised by the Landesarchiv Baden-Württemberg. [S48 @2026-11-19], [S49 @2026-11-19]
@@ -174,6 +178,12 @@ Worked example, for the Weikersheim of section 2: the article (Internet Archive 
   - Build a table of custodian, register type, years and serving parish. If every church copy has a gap, turn to the civil registers (the Standesamt step in section 4). [S34]
 
 **Places now in Poland: also search Szukaj w Archiwach** (szukajwarchiwach.gov.pl), the Polish State Archives' portal of archival descriptions and scans, which includes the PRADZIAD data on parish and civil registers [S81 @2026-11-16]. Records are listed under the place that created them, the parish or the civil registry office (*urząd stanu cywilnego*), so search the seat you fixed in sections 4 and 5, not only the village [S80 @2026-11-16]. Search under the German name and again under the Polish name from section 5: not every result is listed under both [S77 @2026-11-16], [S80 @2026-11-16]. Separate same-named places by the gmina and the archive shown with each result, and record each unit's reference code [S80 @2026-11-16]. FamilySearch's January 2022 guide says the portal does not include church diocesan archives, so a miss there does not settle where a Catholic parish's books are [S80 @2026-11-16]. For the vital-records search, PRADZIAD and coverage gaps, use [Polish index-to-original recovery](polish-index-original-record-recovery.md).
+
+**Check Catholic holdings for missing prewar Lutheran books.** If the usual catalogues leave a gap in a place now in Poland, check the Catholic diocesan inventory under the former Lutheran parish's German and Polish place names. The Catholic diocesan archive of Koszalin–Kołobrzeg lists prewar Lutheran registers under *Ewangelickie księgi metrykalne* [S91 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: contact --> The message gives an existing village contact the historical parish, register type and years. Omit family identifiers, follow the Living people rules in `SKILL.md` and clear the gate before sending it.
+
+**Ask an existing village contact** whether the present Catholic parish has the former Lutheran parish's books or scans and where they can be consulted [S90], [S92]. Record the holding parish or archive and the book reference for any scan you receive, then classify the register version (section 7).
 
 **Brandenburg and Berlin: also search the Brandenburg-Datenbank** (db-brandenburg.de), a volunteer database of transcribed sources [S76 @2026-11-12]. Its categories include church books, civil registers, address books, cemeteries and graves, war memorials including the fallen, genealogical evaluations (OFB), and Familienstammbücher und Ahnenpässe. Civil registers are added office by office and year by year, each marked as a name index (*Namensindex*) or a full transcription (*Vollabschrift*), for example "Standesamt Berlin 10b (B) Geburten 1904 (Namensindex)" [S74 @2026-11-12]. The Metasuche searches only the databases you select, also matches birth names, and does not yet cover every database [S75 @2026-11-12].
 

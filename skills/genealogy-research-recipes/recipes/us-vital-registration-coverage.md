@@ -4,14 +4,14 @@ title: "Build a U.S. vital-registration coverage register before calling a birth
 summary: "List every U.S. birth and death registration authority and series before calling a record missing."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "US-VITAL-REGISTRATION-COVERAGE-01", "text": "The usual mistake is to treat the statewide mandate year as the first year of coverage, search one certificate index for one county, and report a negative. Before any absence statement, build a register with one row for each registration authority and each separate series."}]
 handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 116}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
+router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 123}
 ---
 
 # Build a U.S. vital-registration coverage register before calling a birth or death record missing
@@ -26,6 +26,7 @@ General negative-evidence rules are in [evidence/proof judgment § Negative-evid
 - Split each authority into its separate series
 - Record custodians, access and copy fidelity for each series
 - Widen the places searched before recording a miss
+- Retry a birth search without the expected given name
 - Treat a delayed certificate as a set of leads
 - Report coverage as a table, not a verdict
 
@@ -49,6 +50,14 @@ For New York City before 1898, the Municipal Archives' list of holdings adds two
 Mark each start date as either `verified` (and name the authority you checked) or `presenter-reported`. Re-check any presenter-reported date with the state archives or the vital-records office before you rely on it. Do not extend one state's arrangement to another state.
 
 Consolidations change what a name refers to. The city and county of Philadelphia merged under the Act of 2 February 1854, and the city took over the county's boundaries [S7], [S6]. A "Philadelphia" record from before 1854 may therefore come from the old small city, a borough or a township. Set the authority to match the event date, not today's map.
+
+**California.** For births and deaths before 1 July 1905, start with the county recorder for the place of the event. Check that county's dates in FamilySearch's *California, County Birth and Death Records, 1800–1994*. The collection omits San Francisco and its death name index covers only selected localities. Browse county images where available. Give the state filing series from July 1905 its own row [S39 @2026-11-20], [S40 @2026-11-20], [S41 @2026-11-20].
+
+**San Francisco.** Mark the April 1906 earthquake and fire as a loss of local coverage. For a death before the fire, check the California Genealogical Society's list of surviving death ledgers against the event month and year. For a birth or death from July 1905 to the fire, give the state series its own search. Add newspaper notices and, for deaths, surviving cemetery and mortuary records as separate leads [S39 @2026-11-20], [S44 @2026-11-20], [S40 @2026-11-20].
+
+**Ohio.** Give the county probate court ledgers from 1867 through 19 December 1908 and the state-format certificates from 20 December 1908 separate rows. The 1867 law required county recording, and some births and deaths still went unreported. Record a ledger miss against that county and period [S47], [S48], [S49].
+
+**Connecticut.** Check post-Revolutionary War town birth and death coverage by town and event. According to the chapter, town recording declined after the war [S62† @2026-11-20], [S65 @2026-11-20]. Log the 1848 start of the state's statistical reports as a separate marker [S70 @2026-11-20]. Check the Connecticut State Archives' *Vital Records circa 1850–1900* for the towns and years represented there [S66 @2026-11-20].
 
 ## Split each authority into its separate series
 
@@ -83,6 +92,52 @@ For each holder, record:
 
 A search of a filmed copy is not a search of the original holding. Record which one you searched.
 
+### California
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Before using the California indexes below for a name search, clear the [privacy gate](../SKILL.md#privacy-gate) for each destination that would receive names, event details or parents’ names for anyone who may be living. Treat each search site as a separate destination. Use collection coverage and non-identifying filters while the gate is pending.
+
+Search FamilySearch's *California, Deaths and Burials, 1776–2000* as a partial index. Check its coverage table for the locality and keep this search separate from the county register and state certificate searches [S39 @2026-11-20], [S42 @2026-11-20].
+
+For state death index coverage beginning in 1905, record the years of the specific index searched. Archives.com's *California Death Index, 1905–1939* supplies the county and death date for a certificate search [S39 @2026-11-20], [S43 @2026-11-20].
+
+For county deaths, give MyHeritage's *California, County Death Registers, 1873–1994* its own index row and check the county and year before logging a miss. Use birth details and parents' names, where given, to distinguish same-name entries [S57 @2026-11-20], [S58 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: request --> Before sending the subject's name and event details, any living parents' details, and the applicant's information to CDPH or the county office, clear the Record requests gate for anyone who may be living. Keep the application as an unsent draft until the gate is cleared.
+
+Request a California informational birth or death copy by mail using the California Department of Public Health form when using the state route. If the county is known, compare the county recorder's copy and turnaround with the state route [S39 @2026-11-20], [S40 @2026-11-20], [S45 @2026-11-20], [S46 @2026-11-20].
+
+### Ohio
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Before entering identifying details in the Ohio FamilySearch indexes, clear the [privacy gate](../SKILL.md#privacy-gate) for names, dates or parents’ names of anyone who may be living. Use county and year alone while the gate is pending.
+
+For the Ohio county rows, search FamilySearch's *Ohio, County Births, 1841–2003* and *Ohio, County Death Records, 1840–2001* as applicable. After a name miss, browse the event county and year within the respective collection and check for gaps against the probate court's holdings [S47 @2026-11-20], [S48 @2026-11-20], [S49 @2026-11-20], [S50 @2026-11-20], [S51 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: request --> Before sending an Ohio birth request with the registrant's birth details, any living parents' details, and the applicant's information to the Bureau of Vital Statistics or local health department, clear the Record requests gate for anyone who may be living. Keep the application as an unsent draft until the gate is cleared.
+
+Use an Ohio state birth index hit to locate the certificate. Request the Ohio birth certificate for a birth from 20 December 1908 onward from the Ohio Bureau of Vital Statistics or a local health department [S47 @2026-11-20], [S48 @2026-11-20], [S56 @2026-11-20].
+
+Check the access rule for the specific Ohio record and fields. Section 3705.23 generally permits any applicant to obtain a public vital-record copy, with exceptions including restricted medical and health fields on birth records and limits on release of Social Security numbers during the first five years after death. Apply the Record requests gate independently of the office's eligibility rule [S47 @2026-11-20], [S55 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: request --> Before sending an Ohio death-copy request, clear the [privacy gate](../SKILL.md#privacy-gate) for the applicant’s identifying information and any other identifying details about people who may be living that would go to the county health department. Keep the application as an unsent draft until the gate is cleared.
+
+For Ohio state deaths from 20 December 1908 through 1953, search FamilySearch's *Ohio, Deaths, 1908–1953* and open the certificate image where available. The Ohio History Connection holds the 1908–1970 state death certificates. Its online index has separate ranges for the main state death series, 1913–1944 and 1954–1970. For the archive copy, use its microfilm through 1953 or its on-site digital access for 1954–1970. For a certified 1954–1970 copy, use the health department for the county of death [S47 @2026-11-20], [S49 @2026-11-20], [S52 @2026-11-20], [S53 @2026-11-20].
+
+Log the Ohio History Connection's holdings separately from the transfer thresholds. Ohio may transfer a record after 125 years for births or 50 years for deaths. Check the archive's county birth holdings and state death holdings before routing a request there. Use the state office's death series from 1971 [S47 @2026-11-20], [S48 @2026-11-20], [S49 @2026-11-20], [S54 @2026-11-20], [S56 @2026-11-20].
+
+### Other state and town indexes
+
+For an Illinois stillbirth, include the statewide death-and-stillbirth index in the coverage register. Check the years in the copy you search. MyHeritage announced a 1916–1948 index and FamilySearch describes its indexed records as 1916–1947 [S57 @2026-11-20], [S59 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Before running the New York death-index name search, clear the [privacy gate](../SKILL.md#privacy-gate) for any names or event details you would send to MyHeritage about someone who may be living. Check the collection’s years and fields while the gate is pending.
+
+For a New York State death outside New York City, search MyHeritage's *New York State Deaths, 1880–2017* as an index. Save the death date and state file or certificate number when present. Check the field label before using an indexed place to route the certificate search, since the state data can give residence at death [S57 @2026-11-20], [S60 @2026-11-20], [S61 @2026-11-20].
+
+For a Connecticut town birth or death through about 1850, use the Barbour statewide surname slips or the relevant town volume. Copy the town, volume and page and use them to find the town register or its film. According to the chapter, names and dates can change in transcription [S62† @2026-11-20]. Check both against the original entry. The town volumes can group different surname spellings and a slip can cite a published transcript. Check the source and years for the particular town in the State Library's *Vital Records by Town* [S63 @2026-11-20], [S64 @2026-11-20].
+
+If the Connecticut town birth entry is missing, use the State Library's town finding aid to identify a church register and check the baptism entry [S64 @2026-11-20]. According to the chapter, a baptism date can help estimate a missing birth date [S62† @2026-11-20]. Record the baptism date separately and, if the entry gives no birth date, use it only as the latest possible birth date.
+
+### Other examples
+
 For Nebraska deaths, give the scanned 1904–1955 state death-index books and the searchable 1956–1968 database separate rows. After an aggregator miss in the earlier period, browse the scanned books by surname Soundex, then by given name. Log the image as an index page [S27 @2026-11-18], [S31 @2026-11-18].
 
 For a statewide Missouri death record, use the Missouri State Archives' death certificate database (1910–1975) and open the free scan when the result links one [S33 @2026-11-18], [S35 @2026-11-18]. Record the latest year posted for the coverage row and keep it separate from the 50-year transfer rule [S32 @2026-11-18], [S33 @2026-11-18], [S34 @2026-11-18].
@@ -105,6 +160,12 @@ When a death is missing from the reported home county, test the death place rath
 For a death indexed as filed in Collier County, Florida, read the place-of-death field separately and use it to choose the vital-registration authority. The Collier County Clerk records certificates issued elsewhere, so a Collier filing alone leaves the death place undetermined [S27 @2026-11-18], [S28 @2026-11-18].
 
 Each added place gets its own set of authority and series rows. It does not just widen one query.
+
+## Retry a birth search without the expected given name
+
+**Privacy gate:** <!-- privacy-gate: request --> Clear the Record requests gate before giving the local registrar the child's birth date and any names of the child or parents who may be living. Keep the request as an unsent draft until the gate is cleared.
+
+After a birth-record request under an expected given name comes back empty, ask the local registrar to check the known birth date and parents' names without requiring that given name [S68], [S69]. That search located a birth filed under a different given name, according to the presenter [S67†]. Keep the entry as a candidate while you resolve the name conflict.
 
 ## Treat a delayed certificate as a set of leads
 

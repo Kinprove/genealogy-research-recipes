@@ -100,6 +100,8 @@ Two consequences follow, and they are the whole recipe: (1) treat the model as a
 
 ## Techniques that work
 
+**Check who qualified for a county-history biography.** Read the specific volume's preface, prospectus or subscriber list for its selection rules before weighing a family's omission. According to the podcast discussion, payment is one possible reason for inclusion [N340†]. An 1899 Iowa editorial described a county history whose biographical directory included subscribers [N341]. Leave the omission without evidentiary weight unless the volume's coverage created an expectation of inclusion.
+
 For a compiled genealogy or local history, inspect its preface/editorial notes for a named
 contributor to the relevant family or section. Retain that attribution and locator, then assess
 the contributor's possible knowledge of each statement rather than assigning every fact to
@@ -217,7 +219,19 @@ For a Russian Orthodox household, run the one-off-name test across consecutive c
 
 - **Test a compiled unit attribution against its men and movements.** U.S. Revolutionary War compiled service records are War Department card abstracts organised by troops or state and unit. Uncarded records may survive with a state archive or historical society [N314]. Trace the men individually in local marriage, probate and land records, then compare their documented residences with the attributed state [N312]. Test engagements against dated musters and pension evidence using the travel time available. A reported Connecticut attribution conflicted with where pension testimony placed the men, although the presenter was unsure of the proposed battle year [N313]. A cluster identifies a place to search. Establish each individual’s service separately.
 
+**Test kinship suggested by an estate appointment.** Search the estate's history for the official's own father and any stated relationship to the owner. Compare direct descent, collateral kinship and employment without a family tie. A local history identifies the Semily estate manager as the owner's nephew, giving a collateral link where a family account had entertained direct descent [N338], [N339]. Check the history's named links against the underlying records before entering them in a pedigree.
+
+**Check unusually young Revolutionary War service against the claimed role.** Compare the candidate's age at the stated service date with dated muster evidence and pension testimony. According to the recorded talk, Jack Darrell Crowder's *Underage Warriors* is a lead for claims of early service [N344†], [N345]. Follow a relevant account back to the pension or other supporting record and check what role the person actually held. Evaluate the age and the person's identity separately.
+
+**Keep a DNA conflict tied to the descent path it tests.** When identifying historical remains, compare each genetic result with its documented line of descent, then correlate the excavation context, radiocarbon dating, estimated age at death, skeletal findings and injuries, and written accounts [N335], [N336]. The identification of Richard III weighed a Y-DNA mismatch alongside mitochondrial results and the archaeological and historical evidence, leaving open where the documented paternal line might diverge from biological descent [N336].
+
+**Keep the search open when a given name leaves sex ambiguous.** Run the census, yearbook or passenger-list search without a sex filter derived from the name. Compare household relationships, ages, places and occupations across records before assigning a hit or merging profiles [N337].
+
 ### Read each record for what it can show
+
+**Test a name used consistently across censuses against the birth entry.** When a series of returns uses a different given name from the birth registration, compare household members, age and birthplace across the entries. Keep the birth-record form and the later form in the dossier with their own citations. If the descriptors link the entries, consider a nickname or informal name use before deciding that one entry is wrong or belongs to someone else [N333].
+
+**Test whether occupations overlapped.** Put the occupation statements from census and other dated records on one timeline. Read the instructions for each form to see whether it asked for one occupation or allowed several. The 1851 England and Wales household schedule allowed people to list distinct trades in order of importance [N334]. Keep concurrent work, a change of trade and a namesake open until the dated records distinguish them [N333], [N334].
 
 **Take signatures and marks from originals before you use them as descriptors.** A deed or will book in which a clerk copied each document by hand holds the clerk's copy of each signature and mark: a signature in the same hand as the whole document is most likely the clerk's [N197], [N198]. Check how the volume was made first: where the law allowed recording by photographic or electronic image, as Virginia's code does for deed and will books, the book can show the signer's own hand [N301]. Look for the person's own hand in original papers: probate and court case packets, marriage papers the couple had to sign, pension and bounty-land applications, some federal land files and draft registration cards [N197], [N198]. Search other people's records too, where the person signed as a witness or affiant, such as a relative's will or homestead affidavit, and note where each sample is so you can find it again. Compare samples from different years, because signatures change [N199], [N200]. A mark need not be an X; some people made an initial or another sign [N201], [N202]. A distinctive mark that recurs on originals, such as an M or an O, can tell namesakes apart, but a mark in a hand-copied volume is the clerk's rendering of it [N201]. A mark is evidence that the person could not write their name, not proof: literate people sometimes made a mark for convenience, at someone's request or when too weak to write [N203], [N204]. Before you call someone illiterate, look for their signature in other local records and for the census literacy answer [N203], [N205].
 
@@ -398,6 +412,8 @@ marriage record' instead.
 
 ## Follow record versions and test disputed dates
 
+**Compare parental names across dated Social Security applications.** When several filings belong to the same person, put each application or NUMIDENT entry in its own row and transcribe the father's name and mother's maiden name as shown [N343]. Record the application date where given. Keep the NUMIDENT cycle date and entry code to help distinguish new applications from other updates [N346]. One presenter reports a case in which two filings named different parents [N342†]. Compare conflicting names with independent parentage evidence before accepting the parents from either filing.
+
 For a struck-out index or later-filed entry, retain both references and distinguish the
 event, registration and change dates. Follow supplied amendment/court references to the
 available original and amended records. Read a later marginal identity or married-name
@@ -466,6 +482,8 @@ Read a baptism's whole sponsor section, including any note in the entry, before 
 Run the sponsor search forward to date an arrival. When a person's own records do not show when they settled in a place, collect the baptisms there of all their grandchildren and other relatives, and keep the earliest entry in which they stand sponsor in person; it places them there by that date [N285], [N286], [N287]. Apply the role check above first: an entry naming an absent or represented sponsor places no one.
 
 ## Resolve a relationship label across successive unions
+
+**Test census surnames and marital labels separately.** If a woman uses her partner's surname, keep informal surname use open while looking for a marriage entry. If a return describes someone as single or widowed despite evidence of an earlier marriage, trace the earlier spouse and check marriage, death and divorce records. Keep the census wording as a dated statement and leave legal marital history unresolved until other records settle it [N333].
 
 Retain an in-law term verbatim with its reference person and record date. Compare earlier
 and later household entries and independently supported unions before calling the term a
