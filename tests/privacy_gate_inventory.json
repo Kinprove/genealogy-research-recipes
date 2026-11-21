@@ -3658,5 +3658,11 @@
   "kind": "third-party-tool",
   "action": "search the NY Naturalizations portal",
   "checkpoint": "A Queens or Bronx naturalization query sends the applicant's name and any entered origin, arrival or filing details to the NY Naturalizations portal"
+ },
+ {
+  "recipe": "burial-evidence-packet.md",
+  "kind": "contact",
+  "action": "ask a local heritage group or a resident the user already knows",
+  "checkpoint": "A former cemetery inquiry shares the historical site locator"
  }
 ]
