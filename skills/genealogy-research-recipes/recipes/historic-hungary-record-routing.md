@@ -38,6 +38,18 @@ Link out for the shared steps:
 - **Frame versus leaf and the inspection ledger:** [archival image coverage verification](archival-image-coverage-verification.md).
 - **Identity rulings and negative evidence:** [evidence/proof judgment](evidence-proof-judgment.md).
 
+## Contents
+
+- Inputs to gather first
+- 1\. Place the village in its 1895 county and today's successor state
+- 2\. Choose civil or church books by date and territory
+- 3\. Take custody from the successor state, not from Budapest
+- 4\. Search both name orders and every language form of the given name
+- 5\. Read tax conscriptions as taxpaying heads and the 1784–87 census as a count
+- 6\. Use the context portals as finding aids
+- 7\. Check where a Jewish register starts before calling an event missing
+- Close with a routing packet
+
 ## Inputs to gather first
 
 Gather these before searching:
@@ -92,6 +104,8 @@ Gather these before searching:
 - **Expect nobles in the 1784–87 Josephine census, but not named women.** It counted the whole population, nobles and clergy included; women were recorded only as numbers [S9]. Its main enumeration ran in 1784–85, with revisions to 1787 [S9].
 - **Record each tax-conscription entry as a taxpaying head present at a place and date.** Do not reconstruct a household from a conscription line. Treat absence from a tax-based list as uninformative: the person may have been noble, untaxed, a dependant or a servant. For reading a run of tax lists, use the tax-roll recipe.
 
+**Start with the 1828 Hungarian town and county names** in MyHeritage's *Hungary, Property Tax Census, 1828 From JewishGen* [S23 @2026-11-20], [S27 @2026-11-20] and in the JewishGen index [S11 @2026-11-20]. Keep the indexed spellings in the series locator and the modern place name in the jurisdiction row.
+
 ## 6. Use the context portals as finding aids
 
 - **MNL AdatbázisokOnline:** the National Archives of Hungary's portal of thematic databases, many of them built around named persons [S12].
@@ -101,6 +115,12 @@ Gather these before searching:
 
 - **Find the start year of the community's own register before you call an earlier event missing.** Record a year before that start as a coverage gap, not as a negative search.
 - **From 1 October 1895, search the state civil registers too** (step 2) [S1].
+
+**Search the Jewish vital-record index for a deceased person's historic birth, marriage or death.** Open *Hungary, Jewish Vital Records* (collection 10994) in MyHeritage [S23 @2026-11-20], [S24 @2026-11-20]. If it is unavailable in the user's account, use JewishGen's *Hungarian Vital Records* index [S25 @2026-11-20].
+
+**Keep the event place and registration town in separate fields.** Record the event date and any parents' names shown [S23], [S24], [S25]. Use the registration town and any record number or film reference to locate the register [S25]. If the event place is blank, leave it blank.
+
+**Read *Megye* in a birth entry as the county field.** Check that county against a gazetteer for the event year before using it to route the search [S25]. MyHeritage's published sample for an 1860 Pest birth shows *Pest-Pilis-Solt-Kiskun*, a county formed in 1876 [S23], [S26].
 
 ## Close with a routing packet
 
