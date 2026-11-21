@@ -11,7 +11,7 @@ handoff: ["russian-orthodox-confession-list-reading"]
 checked: null
 checked_basis: null
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 65}
+router: {"section": "Records by country and region", "group": "Russian Empire and Soviet Union", "order": 66}
 ---
 
 # Rebuild a Russian Orthodox cleric's career and household from directories, eparchial gazettes and clergy registers

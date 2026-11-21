@@ -11,7 +11,7 @@ handoff: ["bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 48}
+router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 49}
 ---
 
 # Resolve a historical place name to dated, same-named candidates
