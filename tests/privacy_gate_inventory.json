@@ -3394,5 +3394,17 @@
   "kind": "contact",
   "action": "Ask an existing village contact",
   "checkpoint": "The message gives an existing village contact"
+ },
+ {
+  "recipe": "dar-ancestor-record-interpretation-and-correction.md",
+  "kind": "request",
+  "action": "Request the selected DAR record copy",
+  "checkpoint": "Before requesting a DAR paper or supporting documentation"
+ },
+ {
+  "recipe": "dar-ancestor-record-interpretation-and-correction.md",
+  "kind": "request",
+  "action": "request any available supporting documents separately",
+  "checkpoint": "Before requesting a DAR paper or supporting documentation"
  }
 ]
