@@ -11,7 +11,7 @@ handoff: ["evidence-proof-judgment", "scandinavian-parish-record-recovery", "sca
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 117}
+router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 118}
 ---
 
 # Route a Swedish soldier, sailor, officer or conscript to the military series that survive for his type and period

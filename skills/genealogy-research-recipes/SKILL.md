@@ -372,6 +372,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/holocaust-testimony-source-interpretation.md` — Interpret a Yad Vashem result through its testimony, wartime list or survivor source and statement dates.
 - `recipes/israel-immigration-list-research.md` — Search MyHeritage's Israel immigration lists and decide whether an arrival entry for Mandatory Palestine or Israel records an immigrant, a returning resident or a tourist.
 - `recipes/lithuanian-jewish-household-registers.md` — Use LitvakSIG and MyHeritage household registers to trace dated residence and distinguish missing records from unindexed coverage.
+- `recipes/holocaust-register-and-survivor-list-recovery.md` — Separate ghetto residence, imprisonment, death and postwar survivor registration while retrieving the underlying Holocaust-era record.
 
 ### Ukrainian archives
 
