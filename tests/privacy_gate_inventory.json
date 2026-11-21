@@ -3430,5 +3430,11 @@
   "kind": "third-party-tool",
   "action": "Rerun the logged query over the newly available target issues",
   "checkpoint": "The logged query sends the research subject’s and any named associates’ names and identifying terms to Chronicling America."
+ },
+ {
+  "recipe": "us-obituary-search-and-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "obituary index on MyHeritage or JewishGen by the deceased person's public name",
+  "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
  }
 ]
