@@ -48,6 +48,10 @@ The legislature was not always the only route. The publisher's store description
 
 For a Pennsylvania pension or gratuity, search the session laws by surname and county, then ask for the application in the House files. In Denyse Allen’s interview, archivist Aaron McWilliams describes following an Erie County index entry for John McWilliams to a special act and then to the application [S3], [S4].
 
+When a War of 1812 widow did not qualify for a federal pension, follow Craig R. Scott’s advice from the available excerpt and search state session laws for a private relief act and state legislative papers for her petition [S23]. Search under both the widow’s and the veteran’s names. Record the state petition and any award separately from the federal claim.
+
+In Maryland, use Index 52 (MSA S1425) to trace state payments to the military pension roll [S24]. Search the General Assembly journals for the widow’s petition even if the payment index has no entry [S25]. Use the act cited on an index card to locate the session law [S26].
+
 When Virginia land faced escheat, search the session laws for both the deceased and the petitioner. In October 1786 Mary Arvin obtained land left by her son John Askins, who died intestate and without issue. Reuben Coutts petitioned over a different interest: his father’s will had given him a life estate, and the reversion was at risk [S9]. Apply the descent law in force at the death. The act effective 1 January 1787 allowed inheritance through the mother and recognized paternal legitimation upon the parents’ subsequent marriage and the father’s recognition of the child [S8]. For a reported Bedford County petition over a 200-acre farm, use county, acreage and approximate date to seek the family and petition. Neill supplies neither the names nor a file reference [S10].
 
 The Library of Virginia's Legislative Petitions collection holds nearly 25,000 items from 1776 to 1865, searchable by name, locality and keyword, and petitions can include wills, deeds, affidavits and judgments. Its search is moving to a new platform, and Virginia Memory holds the full collection [S11 @2026-11-14].

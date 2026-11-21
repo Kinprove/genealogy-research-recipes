@@ -10,7 +10,7 @@
 
 **What is authored and what was not verified.** The recipe's steps are authored synthesis: the scope test, the extension to other index sections, the act-versus-application comparison and the packet. The locator-group step is adapted from Brady's demonstrated procedure: she read every entry with the same year and locator, then had the petition retrieved at the archives [S1], [S2]. The Tennessee index and printed act were checked directly [S6], [S22]. Details attributed to the Cantrell petition and the McWilliams application come from the presenters; copies of those two files were not examined. Archive guide read 2026-11-19.
 
-### Sources S8–S22
+### Sources S8–S26
 
 - **S8:** Hening, Statutes at Large, [vol. 12, Laws of 1785, ch. LX](https://usgenwebsites.org/vagenweb/hening/vol12-07.htm), read 2026-11-14. Used for: the Virginia descent act, in force from 1 January 1787, on children born outside marriage inheriting on the mother's side and on legitimation by the parents' later marriage. Source text read 2026-11-19.
 - **S9:** Hening, Statutes at Large, [vol. 12, Laws of October 1786, private acts](https://usgenwebsites.org/vagenweb/hening/vol12-17.htm), read 2026-11-14. Used for: ch. LXXV, vesting an intestate natural son's land, liable to escheat, in his mother on her application, and ch. XCIV, vesting an escheatable reversion in a natural son on his petition. Source text read 2026-11-19.
@@ -29,6 +29,10 @@
 - **S21:** Library of Virginia, [Virginia Revolutionary War Service Records: Loyalists](https://lva-virginia.libguides.com/revolutionary-war/loyalists), read 2026-11-18. Used for Virginia Loyalists' requests for compensation from the British Loyalist Claims Commission.
 
 - **S22:** Tennessee General Assembly, [Acts of 1803, chapter L, pp. 94–95](https://www.mtas.tennessee.edu/system/files/mrln/books/main/1792-1809-004_Part4.pdf), University of Tennessee Municipal Technical Advisory Service scan. The chapter names Molly, gives eight children’s names before and after the change, and specifies their status as heirs. Printed act read 2026-11-19.
+- **S23:** Craig R. Scott, Just Genealogy, [War of 1812 dead - JO0034](https://www.youtube.com/watch?v=n3JunP5L7pc), published 2022-04-14. Partial access. Supplied transcript excerpts and public video description read 2026-11-20. Used for Scott’s suggestion to look for state relief legislation and petitions when a widow did not qualify for a federal pension. The video did not load for direct review. Scott names Georgia as an example; a Georgia widow-pension act or petition was not verified.
+- **S24:** Maryland State Archives, [Pension Records, War of 1812, Index, 1867–1889 (MSA S1425)](https://guide.msa.maryland.gov/pages/series.aspx?ID=S1425). Series description read 2026-11-20. Used for the scope of Index 52 (pensions issued to veterans and their widows), the payment dates, and the references to the Comptroller of the Treasury’s military pension roll (MSA S688 and SM121).
+- **S25:** Maryland General Assembly, [Senate Journal, 1872, printed p. 373](https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000190/html/am190--1979.html), *Archives of Maryland*, vol. 190, digital p. 1979. Official site’s OCR text read 2026-11-20. The journal records petitions for pensions from widows of War of 1812 veterans. The page image did not load.
+- **S26:** Ben Primer, Maryland State Archives, [Pension Roll and Index 52 notes](https://msa.maryland.gov/msa/refserv/bulldog/bull88/html/bull88.html), *The Archivists’ Bulldog*, vol. 2, no. 22, published 1988-06-20. Pension notes read 2026-11-20. Used for Maryland’s general and private pensions for War of 1812 veterans and widows and the citations to authorizing acts on the index cards.
 
 ## Credits
 
@@ -39,3 +43,5 @@
 - Hening's Statutes at Large (S8, S9), the Library of Virginia guide (S11), National Archives pages (S13, S15) and the Library of Congress blog (S14) — Statutes and official information paraphrased with attribution (adapted)
 - Just Genealogy livestream, December 2022 (S16) — Paraphrased research suggestions from supplied transcript excerpts (adapted)
 - Tennessee State Library and Archives acts index and petitions guide (S6, S7) and Tennessee General Assembly, Acts of 1803, chapter L (S22) — Archival headings and historical provisions paraphrased (adapted)
+- Craig R. Scott, Just Genealogy (S23) — Research suggestion paraphrased with attribution (adapted)
+- Maryland State Archives pension guides and Maryland Senate Journal (S24, S25, S26) — Archival descriptions and proceedings paraphrased with attribution (adapted)
