@@ -233,6 +233,8 @@ unlocated death inquiry, or establish criminality from a death or prison referen
 - A ticked alias box with no alias written means the recorded name may itself be an alias [S4].
 - Use the named relative, the relative’s stated residence and the inmate’s birthplace to search the previous generation in that place [S4]. Confirm the suggested relationship in an independent record. For the Idaho example, consult the Idaho State Archives’ inmate files and convict descriptions (AR 42/2).
 
+If no mugshot turns up, read the prison admission register for a written physical description [S59]. For an early Sing Sing admission, check the B0143 register entry for height, complexion, hair and eye color, and other physical characteristics [S60]. Transcribe any recorded scars, tattoos and notes on teeth, and keep the admission date and register locator with the description [S61].
+
 ## New South Wales: search gaol photograph books and read the full card
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> A gaol search sends the inmate's identifying details to MyHeritage and may disclose a living person's connection to a criminal record. Answer the privacy gate in `SKILL.md` before entering identifying search terms.
