@@ -3724,5 +3724,23 @@
   "kind": "third-party-tool",
   "action": "Search the MyHeritage Opava indexes by event type",
   "checkpoint": "Before you send MyHeritage names, dates or places"
+ },
+ {
+  "recipe": "new-york-city-vital-certificate-extraction.md",
+  "kind": "third-party-tool",
+  "action": "If you lack a certificate number, try the portal’s name search",
+  "checkpoint": "clear the gate for the fields sent to NYC Historical Vital Records or to the outside index you use"
+ },
+ {
+  "recipe": "new-york-city-vital-certificate-extraction.md",
+  "kind": "third-party-tool",
+  "action": "If the name search misses, look up the number in an outside index",
+  "checkpoint": "clear the gate for the fields sent to NYC Historical Vital Records or to the outside index you use"
+ },
+ {
+  "recipe": "new-york-city-vital-certificate-extraction.md",
+  "kind": "third-party-tool",
+  "action": "If the city search stalls, use the collection links",
+  "checkpoint": "any names, dates or places you would send to MyHeritage that identify people who may be living"
  }
 ]
