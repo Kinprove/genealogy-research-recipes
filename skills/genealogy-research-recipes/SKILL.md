@@ -436,6 +436,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/mayflower-and-great-migration-genealogies.md` — Choose a passenger branch or an immigrant arrival series, then test the claimed line against the correct child lists.
 - `recipes/new-york-city-vital-certificate-extraction.md` — Recover both New York City marriage filings in 1908–1937 and extract birthplace and sibling clues from historical birth certificates.
 - `recipes/pennsylvania-marriage-licenses-and-returns.md` — Recover Pennsylvania county marriage packets from 1885 and compare them with early state copies and older marriage bonds.
+- `recipes/american-voter-register-eligibility.md` — Check voting and registration eligibility in the relevant year before using a U.S. voter-register entry or omission as residence evidence.
 
 ### United States: military, land, courts and law
 
