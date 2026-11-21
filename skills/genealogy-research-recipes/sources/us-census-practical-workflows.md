@@ -209,6 +209,19 @@ draw on each source.
 | S192 | [Genealogy Gems Podcast, Episode 221](https://www.youtube.com/watch?v=dY9EV5R_6ZA). Captured transcript read 2026-11-19. | 2018-09-12 | duplicate entries and comparison of households |
 | S193 | [Family History Fanatics, How to Use AI In Your Genealogy Research + Other Topics](https://www.youtube.com/watch?v=jeshnSv9xQ0). Captured transcript read 2026-11-19. | 2023-07-22 | alternative searches for an absent household |
 | S194 | [James Tanner, Proven Ways to Find Your Immigrant Ancestors](https://www.youtube.com/watch?v=SxDbhOu-_1Y). Captured transcript read 2026-11-19. | 2016-03-16 | language and recorded country of birth |
+| S195 | Gena Philibert-Ortega, Family Tree Magazine, [Finding Female Ancestors: Common Brick Walls and How to Solve Them](https://familytreemagazine.com/female-ancestors/brick-walls-women-genealogy/) | web-page, reviewed, access: read. Published 2025-02-28. Read the husband-first search and the two sections on census absence on 2026-11-20. | 1, 8: spouse and relative anchors and mortality schedules |
+| S196 | Shelley K. Bishop, Family Tree Magazine, [Ohio Genealogy Research Guide](https://familytreemagazine.com/us/ohio-genealogy-research-guide/) | web-page, reviewed, access: read. Published 2025-09-08. Read the Ohio Census Records section on 2026-11-20. | 1, 5: Ohio coverage and substitutes |
+| S197 | National Archives, [1800 Census Records](https://www.archives.gov/research/census/1800) | catalogue, reviewed, access: read. Read the M1804 listing and the Washington County coverage notes on 2026-11-20. | 1: 1800 and 1803 Washington County returns |
+| S198 | National Archives at Riverside, [Census Records on Microfilm in Laguna Niguel, CA](https://www.archives.gov/riverside/finding-aids/microfilm-census.html) | catalogue, reviewed, access: read. Read the separate Washington County entry for M1803 on 2026-11-20. | 1: 1810 Washington County microfilm |
+| S199 | National Archives, [1820 Census Records](https://www.archives.gov/research/census/1820) | catalogue, reviewed, access: read. Read the list of included states and missing 1820 schedules on 2026-11-20. | 1: missing Franklin and Wood county returns |
+| S200 | National Archives, [1890 Federal Population Census - Microfilm Catalog](https://www.archives.gov/research/census/microfilm-catalog/1790-1890/part-08) | catalogue, reviewed, access: read. Read the M407 roll 3 and M123 Ohio entries on 2026-11-20. | 5: population fragments and separate veterans schedules |
+| S201 | Naama Lanski, MyHeritage Blog, [Exploring U.S. Presidents’ Lives in 1950 Census Data](https://blog.myheritage.com/2024/10/exploring-u-s-presidents-lives-in-1950-census-data/) | web-page, reviewed, access: read. Published 2024-10-30. Read the household and move examples in the article text on 2026-11-20. | 1, 6: separate census entries, grandparents and lodgers |
+| S202 | Aíne Lagan, MyHeritage Blog, [What Is a Township and Why Is It Important in Historical Research?](https://blog.myheritage.com/2025/05/what-is-a-township-and-why-is-it-important-in-historical-research/) | web-page, reviewed, access: read. Published 2025-05-31. Read the sections on civil townships and census locality on 2026-11-20. | 2: civil township as a historical locality |
+| S203 | Claire Prechtel-Kluskens, National Archives, [Plans of Division: Describing the Enumeration Districts of the 1930 Census](https://www.archives.gov/publications/prologue/2003/fall/1930-eds.html) | web-page, reviewed, access: read. Read the 1930 district arrangement by civil division and the boundary cases on 2026-11-20. | 2: county and civil township in district descriptions |
+| S204 | National Archives, [1810 Census Records](https://www.archives.gov/research/census/1810) | catalogue, reviewed, access: read. Read the general list of missing 1810 schedules on 2026-11-20. | 1: Ohio exception omitted from general coverage |
+| S205 | National Archives, [Federal Nonpopulation Census Schedules, 1850–1880](https://www.archives.gov/files/research/census/nonpopulation/reference-report-1850-1880.pdf) | pdf, reviewed, access: read. Read the decennial reporting window and mortality schedule years on 2026-11-20. | 8: mortality schedule years and scope |
+| S206 | MyHeritage Blog, [Tracing Your Roots: Using Immigration Records to Find Ancestral Origin](https://blog.myheritage.com/2024/11/tracing-your-roots-using-immigration-records-to-find-ancestral-origin/) | web-page, reviewed, access: read. Published 2024-11-01. Read the census and parental birthplace advice on 2026-11-20. | 7: parental birthplace leads |
+| S207 | National Archives, [Clues in Census Records, 1850–1950](https://www.archives.gov/research/census/1850-1950) | web-page, reviewed, access: read. Read the foreign-born parents section and its year and column list on 2026-11-20. | 7: parental birthplace and foreign-birth fields |
 | H9 | [National Archives, *Prologue* (Fall 2008), the forgotten federal census of 1885](https://www.archives.gov/publications/prologue/2008/fall/1885-census.html) | 2008; read 2026-11-07 | 5: 1885 censuses |
 | H10 | [National Archives, descriptive pamphlets for M846 (New Mexico) and M845 (Florida)](https://www.archives.gov/files/research/census/nonpopulation/m846.pdf) | read 2026-11-07 | 5: 1885 censuses |
 | H11 | [State Historical Society of North Dakota, census records of the 1800s](https://web.archive.org/web/20260113231006/https://www.history.nd.gov/archives/gencensus1800.html) | Internet Archive capture of 2026-01-13 (the live page returned 404 on 2026-11-07); read 2026-11-07 | 5: 1885 censuses |
@@ -410,6 +423,36 @@ coverage by year and region. The comparisons use recorded counts, property value
 and crop intervals. The named family's figures, regional standing and inferred
 causes were outside this check.
 
+### Notes on S195–S207
+
+S195 suggests using a known husband to find an otherwise unnamed wife and
+separately reports identifying a wife in her husband's 1950 entry. It also
+suggests looking in a child's household and checking dated mentions before
+inferring a death. The reported identification was read in the article.
+
+S196 flags early Ohio losses and the 1890 exceptions. S197 gives the 1800 and
+1803 locator, S198 lists Washington County's 1810 film separately, and S199
+names the two missing 1820 counties. The general 1810 summary in S204 omits the
+Washington County exception. S200 identifies the localities of the 1890
+population fragments and the separate veterans rolls. The listings were
+checked without inspecting the schedule images.
+
+S201 reports a 1950 entry for a father alone outside his family's destination,
+a young child with maternal grandparents, and a lodger identified by the author
+as the brother of the head's son-in-law. The article's explanation for the
+mother's absence from the child's household is tentative. The identifications
+and move chronology were read as reported cases. S110, rechecked in the
+transcribed instructions on 2026-11-20, defines item 8's relationship referent.
+S202 distinguishes civil and survey townships. S203 documents the use of
+civil divisions in the 1930 district descriptions.
+
+S205 supports the decennial mortality schedule years and reporting window
+discussed in S195. The archive guide was used for schedule scope. Provider
+access and completeness were outside this check.
+
+S206 suggests using parents' birthplaces for immigrant research. S207
+identifies the specific years and distinguishes the 1870 foreign-birth marks.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
@@ -425,3 +468,5 @@ causes were outside this check.
 - Sunny Jane Morton, Family Tree Magazine, 1950 Census Research Guide, cited as S170 — Third-party content, all rights reserved by the rights holder. Short adapted paraphrase with attribution (adapted)
 - Stephen P. Morse and Joel D. Weintraub, One-Step census tool instructions, cited as S175, S176, S180 and S181 — Third-party content, all rights reserved by the rights holders. Short adapted paraphrase with attribution (adapted)
 - MyHeritage Blog, collection announcement and Murdaugh family case study, cited as S182 and S185 — Third-party content, all rights reserved by the rights holder. Short adapted paraphrase with attribution (adapted)
+- Gena Philibert-Ortega and Shelley K. Bishop, Family Tree Magazine, cited as S195 and S196 — Third-party content, all rights reserved by the rights holders. Short adapted paraphrase with attribution (adapted)
+- Naama Lanski, Aíne Lagan and MyHeritage Blog, cited as S201, S202 and S206 — Third-party content, all rights reserved by the rights holders. Short adapted paraphrase with attribution (adapted)
