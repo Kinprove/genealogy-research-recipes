@@ -74,6 +74,15 @@ limited to the family's later church. Each step below blocks one of these errors
   Keep English and Irish forms in the candidate-place table. Logainm displays both forms [S25], [S31];
   search each relevant form.
 
+- **Look for a road bearing the recorded place name.** If the birthplace is hard to place,
+  search a modern map for a road with that name in the reported county [S39]. Use a road match
+  to find candidate townlands and parishes on a period map or in a gazetteer. Keep the road as a
+  lead until records tie the person to the locality.
+
+  In Northern Ireland, compare a modern basemap with a historical Ordnance Survey map in the
+  PRONI Historical Maps Viewer and read the townland and parish for points along the road
+  [S41 @2026-11-21].
+
 ## 3. Test each candidate against surname and denomination
 
 - Look up the surname in the Tithe Applotment books (1823–1837), Griffith's Valuation (1847–1864)
@@ -138,6 +147,15 @@ Run it for the surname and county first.
   Each list covers one class of people, so absence from it does not prove absence from the place.
 
 ## Recover additional origin statements
+
+- **Look for a passport application when a deceased emigrant or relative returned to Ireland.**
+  Use the approximate date of the trip, including a return to settle an estate, to search the
+  historical passport applications of the issuing country [S39], [S40]. Transcribe the applicant's
+  stated birthplace separately from any destination or reason for travel. Use a relative's
+  birthplace as a lead for the emigrant and log the application date and number or archival reference.
+
+  For a regular U.S. passport, start with M1372 (1795–1905, with gaps) or M1490
+  (January 1906–March 1925) [S40].
 
 - **Search the published passenger lists for the matching period.** Locate Brian Mitchell's
   *Irish Passenger Lists 1803–1806* for Hardwicke-paper departures from Irish ports in
