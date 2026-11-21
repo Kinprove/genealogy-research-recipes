@@ -471,6 +471,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/japanese-koseki-honseki-recovery.md` — Recover the kanji name and full historical domicile (honseki) before requesting a Japanese family register (koseki).
 - `recipes/philippine-surnames-and-registers.md` — Use parish and civil records to trace a Philippine family through surname adoption or continuity across 1849.
 - `recipes/samoan-matai-and-gafa-research.md` — Follow Samoan chiefly titles and village clues from diaspora records into customary land, church and family sources.
+- `recipes/acadian-records-across-the-expulsion.md` — Locate an Acadian household before deportation, then link it to records at a destination or later resettlement.
 
 ## Recipes: Record types in any country
 
