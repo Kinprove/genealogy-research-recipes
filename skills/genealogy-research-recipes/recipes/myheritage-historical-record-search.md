@@ -65,6 +65,11 @@ For Jewish research, try Jewish-related descriptions alongside the relevant town
 religious or national record groups. A neutral collection title may contain relevant material.
 Neither a keyword match nor its absence establishes complete coverage of a community. [S4]
 
+For wills, check both **Wills & Probates** and **Court Records**. Try `notarial` in the catalog
+with the relevant jurisdiction as well. **Netherlands, Notarial Records, 1600–1935** includes
+wills alongside other deeds, so a title search for `will` alone can miss a useful collection
+[S49 @2026-11-20] [S50 @2026-11-20] [S51 @2026-11-20].
+
 ### 2. Check coverage and remove filters that hide useful collections
 
 Use catalog type, location and time filters to discover plausible sets, then read their descriptions.
@@ -75,10 +80,30 @@ Repeat discovery without an images restriction: an index may provide the locator
 A collection-level image indicator does not guarantee an image for every entry. Clear accumulated
 filters when changing jurisdictions, and preserve promising index-only collections in the ledger.
 
+MyHeritage describes **France Deaths** as an index of INSEE data that can include births and deaths
+abroad [S33 @2026-11-20]. Keep those places eligible. The provider estimates that the index captures
+about 8% of deaths in 1970 and about half in 1971 [S33 @2026-11-20]. After a zero in either year,
+leave the death unresolved and check the civil death register for the known locality. INSEE identifies civil
+registration reports as the underlying source [S34 @2026-11-20].
+
+In **Latvia, Jewish Birth Records from JewishGen**, check the town and year before interpreting
+a miss. The index spans 1838–1921, with most entries from 1854–1909
+[S29 @2026-11-20] [S30 @2026-11-20]. Check coverage of the town's registers outside that concentration.
+
 ### 3. Run a sparse → tight → relaxed ladder
 
 Start sparsely, select a suitable collection, then add one supported event or relative.
 If candidates disappear, remove the weakest condition first. [S1, S6, H1]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A scoped query may send names, dates or places identifying people who may be living to MyHeritage. Hold those terms locally until the gate is answered.
+
+Run the target query from the category or subcategory form when you know the record type. For a
+single set, open its own form from the Collection Catalog or the category's collection list. Log
+that scope before returning to global search [S28 @2026-11-20] [H1 @2026-11-20].
+
+Keep the all-terms exact-match switch off for the sparse baseline. Use field-level name matching
+when only the name should be exact. Turn on all-terms exact matching only when you intend to
+require exact matches on all the entered terms [S28 @2026-11-20] [H1 @2026-11-20].
 
 **Synthetic walk-through:** Anna Weiss's marriage in 1911 is documented; birth in 1887 and
 Millford birthplace are estimates. Suppose requiring exact spelling and both estimates fails.
@@ -113,6 +138,10 @@ A wildcard query that returns nothing has not searched the variants.
 An exact form can reduce a common-name result set, but also exclude abbreviated or reordered text.
 In newspapers, a woman may appear under her husband's name or an honorific. Test those forms as
 separate leads; do not turn a familiar name or shared surname into an identity conclusion. [S1, S3, H5]
+
+For a known deceased person in the **Index to Soviet Extraordinary Commission Pinsk Records from
+JewishGen**, try the surname alone or with the given-name initial. The index can reduce the given
+name to an initial, so a compulsory full name can hide a candidate [S29 @2026-11-20] [S31 @2026-11-20].
 
 ### 5. Preserve native names beneath translated results
 
@@ -160,6 +189,23 @@ Search the countries under which the locality's records might be cataloged, then
 collection description. A modern national filter can conceal records organized another way. [S1, S5]
 
 A Germany birthplace can appear in a U.S. census return [S8]. Follow the collection title and its creator to identify the source. Conversely, U.S. nationals who served with Canadian forces may appear in Canadian military records [S9]. Record the person’s role and the jurisdiction responsible for the record separately.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Names, birthplaces or other search details identifying people who may be living go to MyHeritage when the query runs. Keep those details local until the gate is answered.
+
+Check **Germany, Revoked Citizenships and Property Seizures from JewishGen** for 1933–1945
+citizenship, property or business sanctions. Keep former German residents and people in annexed parts of
+Czechoslovakia in scope. Read the type of action and last residence before interpreting the entry
+[S29 @2026-11-20] [S32 @2026-11-20].
+
+For Spanish Civil War exile research, try **Spain, Migration to the Americas, 1880–1930** without
+requiring the title's date range or a Spanish birthplace [S35 @2026-11-20] [S36 @2026-11-20].
+MyHeritage illustrates that exception with a 1942 Mexican immigration entry for an exile born in
+Paris who had lived in Valencia [S35 @2026-11-20].
+
+In **France, Naturalizations**, use the decree date from the index to find the published decree.
+Check both the *Bulletin des lois* and the *Journal officiel* for publication in 1924–1930.
+Residence in France leaves naturalization an open question
+[S37 @2026-11-20] [S38 @2026-11-20] [S39 @2026-11-20].
 
 ### 8. Find the target through a better-documented relative
 
@@ -238,6 +284,21 @@ warns of mistakes such as incorrect relationships and advises reading the scanne
 [H12 @2026-11-12]. Use the summary only to find the article, and quote and cite only the printed
 article.
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Names, relationships and event dates that identify anyone who may be living go to MyHeritage in the newspaper query. Keep those query terms local until the gate is answered.
+
+For a **Names & Stories** wedding search, try the documented marriage date in the event field.
+The index can resolve relative wording using the issue date. For a wife named by given name only,
+try her given name with her husband's surname as a separate query. Transcribe the words from the
+scan and label any date or surname that the index supplied [H7 @2026-11-20].
+
+Look below the **Names & Stories** snippet for other indexed people when a list is shown. Verify
+each person's role on the printed page before treating them as a relative [H7 @2026-11-20].
+
+For France, check both **France, Names & Stories in Newspapers** and **France, Names & Stories in
+Newspapers from OldNews.com**. Use the OCR and Gallica scan link for the first collection and the
+OldNews scan for the second. Log the newspaper, issue date and page to spot the same article in
+both routes [S40 @2026-11-20] [S42 @2026-11-20] [S43 @2026-11-20] [S44 @2026-11-20].
+
 ### 13. Read beyond the highlighted hit
 
 Read the whole article, continuation, page heading and surrounding entries. In censuses, inspect
@@ -264,6 +325,11 @@ In MyHeritage's **New York City Deaths, 1866–1948**, check the scanned certifi
 who reported the death, even when the index has no reporter [S20 @2026-11-18]. Keep that role
 distinct from the attending physician or the person who requested funeral services.
 
+In **Spain, Catalonia, Barcelona Births and Baptisms, 1850–1923**, check both sets of grandparents
+and the parents' birthplaces and residence. Use the grandparents to distinguish similarly named
+parents and the birthplaces to choose which parish records to check next
+[S40 @2026-11-20] [S41 @2026-11-20].
+
 ### 14. Use supplied tree-event geography as a search worklist
 
 When a tree-event map or locality list is available, retain its person/branch, event-type
@@ -278,7 +344,17 @@ a current map widget or export.
 
 Classify the source behind each Record Match before using it. MyHeritage identifies Geni, FamilySearch and WikiTree results as matches to other family trees [S15]. Follow their cited records and evaluate those separately; the Record Match label does not turn another user’s tree assertion into an independent historical record [S16].
 
+For **Filae Family Trees**, missing profiles may reflect the indexing rule. Filae limits sharing
+with MyHeritage to non-confidential profiles treated as deceased, which restricts MyHeritage search
+results and Record Matches [S45 @2026-11-20] [S46 @2026-11-20]. Leave the contents of the original
+tree unresolved when a profile is absent.
+
 If expected Record Matches are not displayed, inspect **Settings**, the confidence slider and the record-type filters described by MyHeritage. Broaden one filter at a time and record what changes [S14 @2026-11-16]. Do not treat a filtered view as a search of every match, or assign an unverified numeric meaning to a slider position [S16 @2026-11-16].
+
+After an unproductive signed-in search, check the user's **Search Alert** settings and review any
+alert they supply against the saved query. MyHeritage documents exclusions for very common names
+and searches with too many results. Keep the manual follow-up on the worklist if no alert arrives
+[S47 @2026-11-20] [S48 @2026-11-20].
 
 If no image is supplied, save the collection citation, originating institution, reference number,
 volume/page and original-source link that are actually provided. Use that locator to seek the image

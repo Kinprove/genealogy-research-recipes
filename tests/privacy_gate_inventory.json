@@ -3520,5 +3520,47 @@
   "kind": "contact",
   "action": "ask a town resident the user already knows",
   "checkpoint": "Share only the town, historical community, period and kinds of papers sought"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Run the target query from the category or subcategory form",
+  "checkpoint": "A scoped query may send names, dates or places identifying people who may be living to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Turn on all-terms exact matching only when you intend",
+  "checkpoint": "A scoped query may send names, dates or places identifying people who may be living to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "Check **Germany, Revoked Citizenships and Property Seizures from JewishGen**",
+  "checkpoint": "Names, birthplaces or other search details identifying people who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For Spanish Civil War exile research, try",
+  "checkpoint": "Names, birthplaces or other search details identifying people who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For a **Names & Stories** wedding search, try",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "try her given name with her husband's surname as a separate query",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-historical-record-search.md",
+  "kind": "third-party-tool",
+  "action": "For France, check both **France, Names & Stories in Newspapers**",
+  "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
  }
 ]
