@@ -467,6 +467,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/colonial-and-state-military-bounty-land.md` — Distinguish a colonial or state military land award from a federal warrant and trace the soldier, heir, assignee and tract separately.
 - `recipes/colonial-virginia-patent-and-northern-neck-recovery.md` — Find the issuer of a colonial Virginia land grant and use its patent, warrant, survey or headright evidence to identify the tract and parties.
 - `recipes/us-army-quartermaster-record-recovery.md` — Use the Quartermaster General’s claims, contracts, correspondence and personnel series to trace Army suppliers, employees or officers.
+- `recipes/us-military-headstone-application-recovery.md` — Route a U.S. military headstone application by death and application dates, then compare its service and burial identifiers.
 
 ### Canada, Latin America, Asia and Oceania
 
