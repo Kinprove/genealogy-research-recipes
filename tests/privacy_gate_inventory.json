@@ -3454,5 +3454,41 @@
   "kind": "third-party-tool",
   "action": "Search MyHeritage’s *Sweden Household Examination Books*",
   "checkpoint": "the names, dates and places that the search will send to MyHeritage"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search the civil or parish index for the event type",
+  "checkpoint": "A civil or parish name search sends the subject's name"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Try the *France, Vital Records Index* as a separate transcription route",
+  "checkpoint": "A civil or parish name search sends the subject's name"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search a year-specific census index when it covers the place",
+  "checkpoint": "A census name search sends the subject's name"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search the corresponding MyHeritage census collection for 1911, 1921 or 1931",
+  "checkpoint": "A census name search sends the subject's name"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Try the département-specific census collection for its own years",
+  "checkpoint": "A census name search sends the subject's name"
+ },
+ {
+  "recipe": "french-departmental-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "Search the military index for the recruitment place",
+  "checkpoint": "A recruitment name search sends the recruit's name"
  }
 ]
