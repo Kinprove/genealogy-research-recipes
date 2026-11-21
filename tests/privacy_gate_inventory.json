@@ -3760,5 +3760,23 @@
   "kind": "third-party-tool",
   "action": "give the chatbot only the two columns of match codes",
   "checkpoint": "Sending the two coded match columns to a chatbot discloses each living match's coded membership"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "For a supplied probate PDF, ask for an alphabetical table",
+  "checkpoint": "Sending a probate PDF to an external AI reader"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "Check the original before using the color wheel in Reimagine",
+  "checkpoint": "Color restoration sends the scan"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "publish",
+  "action": "From the single-photo view in Reimagine, tap the share icon",
+  "checkpoint": "Sharing from Reimagine sends the selected photo or comparison"
  }
 ]
