@@ -214,6 +214,12 @@ they can become the missing links [S14 @2026-11-14]. Add only people known to be
 the match or a parent who may be living, and mark a path that appears this way tree-generated
 until its descent is documented. It does nothing for a match with no linked tree.
 
+For an unplaced DNA match, open available member-tree hints with **Review** on the Ancestry
+website [S20 @2026-11-20]. Follow the hints to sketch a path to a possible common ancestor
+in a separate local working tree [S19 @2026-11-20]. According to Rachel Christian, this
+use of hints calls for follow-up research [S18† @2026-11-20]. Keep each link provisional
+until independent records support it.
+
 **Privacy gate before relinking:** <!-- privacy-gate: link --> A separate, labeled tree is not by itself a
 privacy safeguard. Before changing the DNA link or searchability, inspect the candidate
 people, notes and tentative relationships against the actual visibility/searchability
