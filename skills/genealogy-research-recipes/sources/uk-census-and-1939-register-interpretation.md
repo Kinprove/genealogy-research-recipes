@@ -65,6 +65,9 @@ The community posts and videos below (S23, S25, S26, S29, S32, S36, S37, S39, S4
 - **S56:** IPUMS USA, [1920 Census: Instructions to Enumerators](https://usa.ipums.org/usa/voliii/inst1920.shtml), read 2026-11-14. Used for: the mother-tongue question asked of every person born in a foreign country (paragraph 144), and a parent's mother tongue asked only when that parent was born in a foreign country (paragraph 148 for the father).
 
 - **S57:** The National Archives, [1939 Register](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/1939-register). National Archives guidance on opening a closed entry read 2026-11-19.
+- **S58:** Richard Simon John Willis, Family Tree Magazine, [Tutorial: Find Records at the UK National Archives Website](https://familytreemagazine.com/heritage/english/uk-national-archives/), 2023-05-08. Community tutorial read 2026-11-20. Willis suggests using the 1939 Register guide to check coverage, recorded fields, compilation, arrangement and access options. The guide link returned HTTP 403 on 2026-11-20. The Archives' separate search guide (S59) verifies the series description and geographic coverage. FamilySearch's collection page (S60) documents an image route.
+- **S59:** The National Archives, [1939 Register: Subject deceased (F.O.I. enquiry)](https://cdn.nationalarchives.gov.uk/documents/1939-register-foi.pdf), official search guide read 2026-11-20. Used for the RG 101 reference, the scans of enumerators' transcript books and the series' restriction to enumeration districts in England and Wales.
+- **S60:** FamilySearch, [England and Wales, National Register, 1939](https://www.familysearch.org/en/search/collection/2836130), collection description read 2026-11-20. Used for the Findmypast image route from the FamilySearch index. Image access in an account was not tested.
 
 ## Credits
 
@@ -74,3 +77,5 @@ The community posts and videos below (S23, S25, S26, S29, S32, S36, S37, S39, S4
 - Price Genealogy, posts cited as S26, S29 and S32 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Untangling Family History, videos cited as S36 and S37 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Peter Calver, LostCousins, Inside the 1939 Register, cited as S21, and Sarah Pettyfer, Battling with Census Returns, cited as S47 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
+- Richard Simon John Willis, Family Tree Magazine tutorial cited as S58 — Third-party content, all rights reserved by the rights holder. Advice paraphrased with attribution (adapted)
+- Kinprove original wording of the RG 101 coverage and image access instructions, using The National Archives and FamilySearch (S59 and S60) — FSL-1.1-MIT (kinprove-original)
