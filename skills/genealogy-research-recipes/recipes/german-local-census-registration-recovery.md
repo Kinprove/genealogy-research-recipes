@@ -11,7 +11,7 @@ handoff: ["german-emigrant-origin-sources"]
 checked: "2026-11-06"
 checked_basis: "checked 2026-11-06"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Records by country and region", "group": "Germany", "order": 86}
+router: {"section": "Records by country and region", "group": "Germany", "order": 87}
 ---
 
 # Recover German local census lists and residential-registration entries

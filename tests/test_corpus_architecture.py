@@ -18,7 +18,7 @@ COURTS = ("court-case-file-recovery", "criminal-court-prison-record-recovery",
 EAST_GROUP = "Central and Eastern Europe by period state"
 EAST_ROUTERS = ("galicia-bukovina-habsburg-record-routing", "bessarabia-moldova-record-routing",
                 "historic-hungary-record-routing", "austrian-confessional-register-routing",
-                "polish-index-original-record-recovery")
+                "polish-index-original-record-recovery", "polish-parish-and-civil-register-routing")
 EAST_HANDOFFS = (
     ("galicia-bukovina-habsburg-record-routing", "bessarabia-moldova-record-routing"),
     ("bessarabia-moldova-record-routing", "galicia-bukovina-habsburg-record-routing"),

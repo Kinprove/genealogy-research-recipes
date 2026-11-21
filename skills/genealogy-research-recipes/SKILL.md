@@ -339,6 +339,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/historic-hungary-record-routing.md` — Route a record from the pre-1920 Kingdom of Hungary by county, successor state and record type.
 - `recipes/austrian-confessional-register-routing.md` — Route an Austrian or Czech-lands birth, marriage or death to the confessional or civil register that legally recorded it.
 - `recipes/polish-index-original-record-recovery.md` — Recover an original Polish register entry from Geneteka, Metryki or Szukaj w Archiwach, or document the retrieval gap.
+- `recipes/polish-parish-and-civil-register-routing.md` — Identify the relevant Polish registration district by date and confession, then locate the parish, civil or archival copy.
 
 ### Russian Empire and Soviet Union
 
