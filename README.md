@@ -212,7 +212,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [find-a-grave-memorial-corrections](skills/genealogy-research-recipes/recipes/find-a-grave-memorial-corrections.md) | public catalogues, documentation and historical records | — | — | publish, request | contact | required |
 | [french-belgian-civil-act-extraction](skills/genealogy-research-recipes/recipes/french-belgian-civil-act-extraction.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [french-canadian-register-recovery](skills/genealogy-research-recipes/recipes/french-canadian-register-recovery.md) | record catalogues and original images | — | — | — | — | — |
-| [french-departmental-record-routing](skills/genealogy-research-recipes/recipes/french-departmental-record-routing.md) | record catalogues and original images | — | — | request | — | required |
+| [french-departmental-record-routing](skills/genealogy-research-recipes/recipes/french-departmental-record-routing.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [ftdna-practical-dna-workflows](skills/genealogy-research-recipes/recipes/ftdna-practical-dna-workflows.md) | familytreedna | — | — | export, link, publish | — | required |
 | [ftm-research-workflows](skills/genealogy-research-recipes/recipes/ftm-research-workflows.md) | familytreemaker, ancestry, familysearch | — | — | link, publish, upload | contact | required |
 | [galicia-bukovina-habsburg-record-routing](skills/genealogy-research-recipes/recipes/galicia-bukovina-habsburg-record-routing.md) | record catalogues and original images | — | — | request | — | required |
