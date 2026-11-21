@@ -172,7 +172,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [austrian-confessional-register-routing](skills/genealogy-research-recipes/recipes/austrian-confessional-register-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [beider-given-name-variants](skills/genealogy-research-recipes/recipes/beider-given-name-variants.md) | — | scripts/lookup_beider_name.py | — | — | — | — |
 | [bessarabia-moldova-record-routing](skills/genealogy-research-recipes/recipes/bessarabia-moldova-record-routing.md) | record catalogues and original images | — | — | request | — | required |
-| [brazilian-parish-civil-registry-recovery](skills/genealogy-research-recipes/recipes/brazilian-parish-civil-registry-recovery.md) | record catalogues and original images | — | — | request | — | required |
+| [brazilian-parish-civil-registry-recovery](skills/genealogy-research-recipes/recipes/brazilian-parish-civil-registry-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [british-colonial-slave-registers](skills/genealogy-research-recipes/recipes/british-colonial-slave-registers.md) | record catalogues and original images | — | — | — | — | — |
 | [burial-evidence-packet](skills/genealogy-research-recipes/recipes/burial-evidence-packet.md) | record catalogues and original images | — | — | link, publish, third-party-tool, upload | contact | required |
 | [canadian-census-interpretation](skills/genealogy-research-recipes/recipes/canadian-census-interpretation.md) | record catalogues and original images | — | — | — | — | — |

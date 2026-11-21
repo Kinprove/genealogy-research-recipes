@@ -57,6 +57,13 @@ The decision order, the two-chain jurisdiction rule, the youngest-sibling and ci
 
 - **S51:** IBGE Biblioteca, [Acari, Formação Administrativa](https://biblioteca.ibge.gov.br/visualizacao/dtb/riograndedonorte/acari.pdf). IBGE municipal history read 2026-11-19.
 
+- **S52:** Esther Shuman, MyHeritage Blog, [2021: MyHeritage Year in Review](https://blog.myheritage.com/2022/01/2021-myheritage-year-in-review/), 2022-01-03. Reviewed community blog post. Historical records section read 2026-11-20. It lists the two Pernambuco collections and their title ranges among the additions for 2021. S53 and S54 establish the search route and the scope of each range.
+
+- **S53:** MyHeritage, [Brasil, Nascimentos e Baptismos de Pernambuco, 1800–1920](https://www.myheritage.com.pt/research/collection-10962/brazil-pernambuco-births-baptisms-1800-1920). Reviewed collection catalogue. Public collection description and search form read 2026-11-20. The title dates cover most entries, and the description allows for earlier and later records.
+
+- **S54:** MyHeritage, [Brasil, Casamentos de Pernambuco, 1800–1960](https://www.myheritage.com.pt/research/collection-10964/brasil-casamentos-de-pernambuco-1800-1960). Reviewed collection catalogue. Public collection description and search form read 2026-11-20. The title dates cover most entries, and the description allows for earlier and later records.
+
 ## Credits
 
 - Kinprove original procedural synthesis of Portuguese-, English-, German- and French-language genealogy lectures and videos (Genealogia para Iniciantes, Colégio Brasileiro de Genealogia, FamilySearch Library, Ahnenforscher-Stammtisch Unna, Généalogie Archives & Culture, Allen County Public Library); civil-registration dates, record contents, certificate rules, marriage-file and land-register custody, voter-list contents and municipal histories checked against Brazilian federal decrees and laws on Câmara dos Deputados and Senado Federal pages, the national justice council's code of norms for registries, IBGE municipal histories and a municipal monograph, FamilySearch Research Wiki pages, an Italian consulate document list, a registrars' association page, a research-foundation magazine, a genealogical-society journal article and an archive-project record, cited as S1 to S49 — FSL-1.1-MIT (kinprove-original)
+- Kinprove original Pernambuco search guidance based on Esther Shuman’s MyHeritage Blog post and the two MyHeritage collection descriptions, cited as S52 to S54 — FSL-1.1-MIT (kinprove-original)

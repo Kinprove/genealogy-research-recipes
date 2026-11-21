@@ -3406,5 +3406,11 @@
   "kind": "request",
   "action": "request any available supporting documents separately",
   "checkpoint": "Before requesting a DAR paper or supporting documentation"
+ },
+ {
+  "recipe": "brazilian-parish-civil-registry-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the MyHeritage collections for Pernambuco",
+  "checkpoint": "Submitting a search sends MyHeritage the names of the subject"
  }
 ]
