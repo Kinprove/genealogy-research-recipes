@@ -67,6 +67,8 @@ Link out for the shared steps:
 
 **Read the statute text in force on the event date.** Look for the session laws and the revised code of that year, not today's code, in Google Books and other scanned-book collections [S173 @2026-11-14]. Debbie Mieszala's Law Library Index on The Advancing Genealogist links historic statutes and, for some, case law for 29 states and territories, from Arizona to Wisconsin; it has no entry for Virginia, North Carolina or Texas, for example [S174 @2026-11-14].
 
+**Separate piracy from commissioned privateering.** For a record under the U.S. Constitution, start with Article I, section 8. Clause 10 gives Congress power to define and punish piracy. Clause 11 gives Congress power to grant letters of marque and reprisal [S200]. Read the statute in force on the event date and check any commission for its issuer, dates and scope before deciding how to describe a capture [S199].
+
 ## 2. Read the word in a dictionary of the period
 
 - **Use a dictionary close to the record.** When a term in an older statute is missing from Black's 1891 dictionary, try an older one closer to the statute, such as Tomlins's 1797 revision of Giles Jacob [S12], [S103], [S104].
@@ -104,6 +106,8 @@ Link out for the shared steps:
 | `late of [place]`, `formerly of [place]` | Former residence: the person used to live there [S144], [S146], [S147] | Proof of death, or of death in that place | Black's gives `late` both senses, dead and formerly [S145]. Conclude a death only from a separate word such as `deceased` or from another record. Without one, look for the person in a new place [S146]. Neill reads `late widow of` a named man as usually meaning that she had married again [S147] |
 | `indenture` (a form of deed) | Any reciprocal sealed agreement between two or more parties [S8], [S37], [S42], [S41] | Only servitude, apprenticeship or land | Read the operative promises. Premarital agreements in 1760 Boston and 1857 Vermont were also called indentures [S107], [S8] |
 
+**Read `in room of` as `in the place of` in a militia recommendation.** In an order recommending A in room of B, record A as the proposed replacement and B as the officer whose place was to be filled. Check for a commission or an entry recording qualification before dating A’s time in office. Tazewell County’s 1817 court entries record a recommendation for captain and, in a later entry, production of the commission and the oath [S209]. The Just Genealogy presenter reads the phrase as a replacement, as reported in the supplied transcript excerpt [S208†].
+
 ## 4. Infer only what the law actually required
 
 - **A young bride is not proof of an unlawful marriage.** Find the statute in force at the exact time and place. Where the common-law rule applied, a male at fourteen and a female at twelve could consent to marry, and a marriage below those ages was inchoate and voidable, not simply impossible [S14], [S48]. Do not assume which rule applied. The Ohio Supreme Court said in 1851 that the common-law rule prevailed in some states while others set the matter by statute, and Ohio's own ages were eighteen and fourteen [S83].
@@ -116,6 +120,16 @@ Link out for the shared steps:
 - **Marriage into the Cherokee Nation did not end U.S. citizenship.** For a U.S.-citizen woman adopted into the Cherokee Nation in Indian Territory by intermarriage, search Cherokee court records for her civil suits with tribal members. Do not read later naturalization papers as proof she had lost citizenship. The decision rests on Cherokee treaties and does not establish this for recognized tribes generally [S7], [S71].
 - **Compare the Dawes roll, enrollment card and application.** The card records Commission and Interior actions, while the application can preserve testimony and correspondence [S129]. A reported change from Cherokee by blood to citizen by intermarriage followed by removal makes each dated action worth checking [S127]. For an allotment claim based on intermarriage, compare the marriage date and governing decision. *Red Bird v. United States* (5 November 1906) addressed rights in common tribal property for whites marrying Cherokee citizens after 1 November 1875 [S128]. A transcribed Commission decision of 10 January 1907 applied it in denying enrollment, with Interior’s affirmance dated 26 January [S130]. Record the actual ground in the applicant’s file.
 
+### Colonial militia rolls and land bounties
+
+**Check the colony’s militia act before drawing an age inference or explaining an absence.** The Just Genealogy presenter suggests checking the age rules and exemptions in force and using William Waller Hening’s *Statutes at Large* for Virginia’s militia and bounty-land rules, as reported in the supplied transcript excerpts [S204†].
+
+**Read the age limits for the record’s kind of service.** The April 1757 Virginia act’s listing clause covered males over 18 and under 60, with Hampshire County and imported servants excepted from that clause. Its rules for free Black, mixed-race and Indigenous men distinguished enrollment from armed duty [S205]. The Virginia convention’s July 1775 ordinance used over 16 and under 50 for the general militia it set out to enroll [S206]. Use the dated rule as an age clue and establish the person’s age and status from individual evidence.
+
+**Check what an exemption covered.** Virginia’s April 1757 act exempted specified officials, including members of the council, while they held office. It still required some exempt men to supply arms [S205]. The July 1775 ordinance exempted Quakers and Mennonites from service under the colony’s relief acts [S206]. Check whether the person met the exemption’s conditions on the date of the roll before using it to explain an absence.
+
+**Find the authority for the bounty itself.** In Hening’s *Statutes at Large*, match a Virginia land claim to the act or proclamation covering the service. Dinwiddie’s 19 February 1754 proclamation, vol. 7, pp. 661–662, offered land for voluntary service in the expedition to build and support the fort at the Forks of the Ohio [S207]. Establish qualifying service separately from ordinary militia enrollment.
+
 ### War of 1812 pension envelopes
 
 **Read each bounty-land warrant under the act named on the envelope.** Record the act, acreage and warrant number together. The Just Genealogy video suggests reading the acreage by act and considering that a veteran may have skipped an earlier application, as reported in the supplied transcript excerpts [S191†].
@@ -125,6 +139,10 @@ Link out for the shared steps:
 **Read a second 80 acres under the 1855 act as the balance.** If the same veteran’s envelope lists 80 acres under each act, the second warrant brings the total to 160 acres. The act of 3 March 1855 gave eligible claimants the balance after crediting earlier warrants and generally required fourteen days of service or participation in a battle [S194].
 
 **Treat a lone 1855 warrant as an incomplete record of earlier claims.** If a veteran’s envelope shows an approved survivor pension and only a 160-acre warrant under the 1855 act, keep both 1850 eligibility and whether the veteran applied under that act unresolved. The pension had separate eligibility rules, and the file can contain bounty-land applications omitted from the envelope [S195]. Test the documented service against the 1850 thresholds and check statutory bars, including entitlement to an earlier military land bounty [S192], [S195].
+
+### Homestead patents
+
+**Identify the route to title under the Homestead Act of 1862.** Under § 2, the ordinary route required two witnesses to prove five years of residence or cultivation after the initial affidavit. Section 8 allowed an earlier purchase with proof of settlement and cultivation [S202], [S210]. Identify the route from the case papers before inferring a period of residence from a patent. Read the final proof for the witnesses’ statements about the improvements [S203]. The Family Tree Magazine episode notes describe the improvement condition and link to the National Archives lesson, as reported in the supplied excerpt [S201†].
 
 ## 5. Check inheritance and widows' rights against the date
 
