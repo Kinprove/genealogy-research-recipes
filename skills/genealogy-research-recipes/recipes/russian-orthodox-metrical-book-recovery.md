@@ -276,6 +276,8 @@ Copy each note in full, with its issuing body, date and number, as a separate ob
 - **Surnames in other series.** Look in revision tales for surnames omitted from parish books [S97], and in metrical books when revisions omit them [S163]. One family reportedly used three recurring surnames before the Soviet period, so a later record under one of those forms need not imply concealment [S98], [S163].
 - **One full name in several roles.** If the same name repeats for different participants, check for a clerical slip and a later correction. Verify each role in other entries [S99], [S139].
 
+- **Follow godparents and marriage guarantors.** Copy the names of baptismal sponsors (восприемники), marriage guarantors (поручители) and any separately listed witnesses. Preserve each role and any rank, title or office the entry gives [S192], [S193]. Use a recorded noble title to check the relevant guberniya’s nobility registers, or a named civil office to check that institution’s service lists (формулярные списки) [S194]. Require separate evidence before claiming kinship or descent.
+
 ## 10. Use machine-read full-text search for leads, never for a negative
 
 Yandex «Поиск по архивам» (yandex.ru/archive) searches machine-recognised text of 18th- to early-20th-century metrical books, revision tales and confession lists. It names archives of Moscow and of the Astrakhan, Orenburg and Irkutsk regions, among others. Viewing a document needs a login, which the user does. [S26] Its catalogue (Источники) lists the holding archives in full: 29 on 8 October 2026, against about nine in July 2023. [S37] Have the logged-in user open the catalogue and record the archives it lists, with the date, before you treat a miss as a coverage gap.
