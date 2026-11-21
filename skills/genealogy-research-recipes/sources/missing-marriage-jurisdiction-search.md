@@ -56,8 +56,17 @@ The ranked list, its columns and outcome codes, the separate issuing and ceremon
 
 - **S39:** [Fort Gordon, History](https://home.army.mil/gordon/index.php/about/history). U.S. Army installation history read 2026-11-19. Dates the changes between Camp Gordon, Fort Gordon and Fort Eisenhower.
 
+- **S40:** [Genealogy Book Sunday #9 Loudon County, Virginia Newspapers - JG0082](https://www.youtube.com/watch?v=SxufihPynxY), community video dated 2022-05-29. Supplied transcript excerpts read 2026-11-20. The watch page could not be retrieved. The presenter reads a notice that places the Frye–Wire marriage at the bride's residence in Burkittsville, Maryland, while describing both partners as from Loudoun County. The presenter also reads an advance notice for the Ewell–Nelson ceremony that gives Grace Chapel, the 15th and the officiant and says the couple planned to leave for their future home in the West. Verification was limited to the excerpts for both notices.
+
+- **S41:** Heritage Books, [Virginia: Loudoun County](https://heritagebooks.com/collections/virginia-loudoun-county). Publisher catalogue listing read 2026-11-20. The listing identifies the 1857–1879 volume as covering both the *Democratic Mirror* and the *Mirror*.
+
+- **S42:** Virginia Department of Historic Resources, [Oakham Farm National Register of Historic Places nomination, bibliography](https://www.dhr.virginia.gov/VLR_to_transfer/PDFNoms/053-0091_OakhamFarm_2015_NRHP_FINAL.pdf). Section 9 bibliography read 2026-11-20. Identifies Patricia B. Duncan's newspaper abstracts and their year spans, including the 1857–1879 and 1891–1899 volumes. The verification covers the titles and dates of coverage.
+
+- **S43:** Thomas Balch Library, [Microfilm Index by Drawer](https://www.leesburgva.gov/home/showpublisheddocument/13252/636869652454270000). Library index entry for the Leesburg *Mirror* read 2026-11-20. The row lists 1865–1902 under drawer 12. Use the issue date from the abstract to identify the issue to check.
+
 ## Credits
 
+- Genealogy Book Sunday, Heritage Books, Virginia Department of Historic Resources and Thomas Balch Library (S40–S43) — The book walkthrough, catalogue, bibliography and microfilm index are paraphrased with attribution (adapted)
 - Adams County, Genealogy Gems, U.S. Bureau of the Census Allen County Public Library and the U.S. Army (S35–S39) — Office instructions, the reissued case study, publication coverage and periodical search guidance paraphrased (adapted)
 - Judy G. Russell, The Legal Genealogist blog, posts cited as S28 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Kinprove original procedural synthesis; presenter worked examples and named tools cited as S1, S4 to S16; state record facts and PERSI hosting from the custodians' pages S17 to S26, paraphrased — FSL-1.1-MIT (kinprove-original)

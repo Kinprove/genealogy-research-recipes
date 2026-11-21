@@ -18,6 +18,16 @@ router: {"section": "Records by country and region", "group": "United States: pe
 
 Use this recipe when a marriage is not found in the county where the couple lived. It replaces a single miss with a dated, ranked list of candidate jurisdictions, each with a reason, a law and date basis, the record series searched and its result. A verified original that resolves the marriage ends the search. Otherwise the search is not finished, and the gap is not reported, until every ranked candidate has been searched or recorded as unavailable. To decide what an absence means, use [evidence/proof judgment](evidence-proof-judgment.md). For the probate version of a widened court search, see [probate case inventory](probate-case-document-inventory.md).
 
+## Contents
+
+- Record the first miss with its limits
+- Keep residence, licence and ceremony places apart
+- Rank adjacent and reachable courthouses by period access
+- Compare the marriage law in force at the marriage date
+- Add counties from the family timeline
+- Investigate the county where the record should be
+- Carry each hit to the original and close the list
+
 ## Record the first miss with its limits
 
 Log the residence-county search as one row: jurisdiction, office, record series (licence, bond, register, return), years covered, index or image, and outcome. Set the date window from evidence. Start with the years from about age 18 to the first child's birth, and widen the window when the evidence calls for it [S12], [S13]. A miss in this row is only a "no hit" for that series and those years. Do not write "no marriage" or "never married." Non-marriage is a real possibility, but it is a hypothesis to test after the search, not a conclusion drawn from one county [S10], [S11].
@@ -41,6 +51,12 @@ Record each partner’s residence county, the ceremony county and the issuing co
 In Pennsylvania today a licence issued in any county can be used anywhere in the Commonwealth. Follow the officiant’s return to the issuing county [S35 @2026-11-19], [S17 @2026-11-19].
 
 Rank the bride's residence county first among the residence rows. Couples usually married where the bride lived [S1], [S5]. That sets the order of the search. It does not let you skip the groom's county or the ceremony county.
+
+After a residence-county miss, search marriage notices and newspaper abstracts for each partner’s residence at the likely marriage date, even if you began in their later home. Add the reported or planned venue’s jurisdiction to the candidate list and use the ceremony date and officiant to search civil returns or church registers. For a planned wedding, resolve relative dates against the issue date and keep the venue and day provisional until you find a record of the ceremony. The example from the available excerpt points to Burkittsville, Maryland, even though the notice describes both partners as Loudoun County residents [S40].
+
+For Loudoun County, Virginia, search Patricia B. Duncan’s *Democratic Mirror* and *Mirror* abstracts for 1857–1879 [S41] or the *Mirror* abstracts for 1891–1899 [S42].
+
+Follow the abstract to its original newspaper issue. For the Leesburg *Mirror*, check drawer 12 (1865–1902) in the Thomas Balch Library microfilm index [S43 @2026-11-20].
 
 ## Rank adjacent and reachable courthouses by period access
 
