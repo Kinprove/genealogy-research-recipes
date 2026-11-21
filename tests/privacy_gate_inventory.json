@@ -3328,5 +3328,47 @@
   "kind": "third-party-tool",
   "action": "search the matching MyHeritage collection",
   "checkpoint": "event date and locality entered in the search go to MyHeritage"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "ask a surviving spouse you can already reach",
+  "checkpoint": "Every message in this step goes to a living person and can disclose"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "ask whether the spouse would pass on a cleared message",
+  "checkpoint": "Every message in this step goes to a living person and can disclose"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "To message a MyHeritage match, use",
+  "checkpoint": "The message names kits, shared DNA and possibly a tree with living relatives"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "ask a match in a likely branch what their family kept",
+  "checkpoint": "The message names kits, shared DNA and possibly a tree with living relatives"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "ask whether the match would arrange an introduction",
+  "checkpoint": "An introduction or question to a witness can disclose the tester's case"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "ask whether they can pass an invitation through a relative they already know",
+  "checkpoint": "An introduction or question to a witness can disclose the tester's case"
+ },
+ {
+  "recipe": "dna-match-outreach-staging.md",
+  "kind": "contact",
+  "action": "ask whether that parent would be willing to describe what they remember",
+  "checkpoint": "An introduction or question to a witness can disclose the tester's case"
  }
 ]
