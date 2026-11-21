@@ -315,6 +315,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/geni-practical-research-workflows.md` — Use Geni for name variants, relationship paths, citations, projects, merge decisions, tree conflicts and GEDCOM exports.
 - `recipes/find-a-grave-memorial-corrections.md` — Send evidence-backed Find a Grave corrections and route management requests to the right recipient.
 - `recipes/newspaper-finder-title-coverage.md` — Use Newspaper Finder to discover alternate hosts for a historical newspaper and verify whether a host carries the target issue.
+- `recipes/us-national-archives-finding-aids-and-microfilm.md` — Resolve a U.S. National Archives series or film reference into an exact entry, roll and access route.
 
 ### Books, periodicals and manuscripts
 

@@ -11,7 +11,7 @@ handoff: ["french-departmental-record-routing", "galicia-bukovina-habsburg-recor
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 50}
+router: {"section": "Record websites, libraries and maps", "group": "Places and maps", "order": 51}
 ---
 
 # Recover and read historical maps as dated, copy-specific evidence
