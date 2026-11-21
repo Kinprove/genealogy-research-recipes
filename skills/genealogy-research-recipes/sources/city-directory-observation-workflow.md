@@ -162,6 +162,13 @@ The worksheet schemas, validation controls and prompt are original synthesis.
 
 - **S56:** Lisa Lisson, [Finding An Ancestor's Divorce Records - Facebook Live Replay](https://www.youtube.com/watch?v=9XPYpWcaU1o). Captured transcript read 2026-11-19.
 
+- **S57:** Nancy Hendrickson, Family Tree Magazine, [California Genealogy Research Guide](https://familytreemagazine.com/us/california-genealogy-research-guide/), 2025-09-05. Community article. Search-result extract read 2026-11-20. Opening the article returned HTTP 403. The extract points to the Los Angeles Public Library's holdings index and digitized Los Angeles directories. S58 and S59 directly support the distinction between the two resources.
+- **S58:** Los Angeles Public Library, [ResCarta-Web: Browse Collections](https://rescarta.lapl.org/ResCarta-Web/jsp/RcWebBrowseCollections.jsp), read 2026-11-20. The browse page identifies its digitized city directory and street reverse directory collections. Use the volume list to check the particular edition.
+- **S59:** Los Angeles Public Library, [City Directories Index](https://www.lapl.org/city-directories-index), read 2026-11-20. The index identifies its scope as the History & Genealogy Department's paper and microform holdings. An index result is a holdings locator.
+- **S60:** Shelley K. Bishop, Family Tree Magazine, [Ohio Genealogy Research Guide](https://familytreemagazine.com/us/ohio-genealogy-research-guide/), 2025-09-08. Community article, read 2026-11-20. The Directories section recommends LDSGenealogy.com's county-by-county listing for links to online holdings.
+- **S61:** LDSGenealogy.com, [Ohio City Directories](https://ldsgenealogy.com/OH/City-Directories.htm), read 2026-11-20. The statewide finding aid links to county pages and lists additional statewide sources.
+- **S62:** LDSGenealogy.com, [Darke County OH City Directories](https://ldsgenealogy.com/OH/Darke-County-City-Directories.htm), read 2026-11-20. This county page has separate countywide and Greenville sections with links to online editions and to library listings. It was checked as an example of how the finding aid is organized.
+
 ## Credits
 
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
@@ -174,3 +181,5 @@ The worksheet schemas, validation controls and prompt are original synthesis.
 - English Ancestors blog, cited as S37 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
 - Aryn S. Youngless, Family Tree Magazine article, cited as S48 — Third-party article; method adapted with attribution (adapted)
 - New York Public Library research guide, cited as S49 — Third-party guidance paraphrased with attribution (adapted)
+- Nancy Hendrickson and Shelley K. Bishop, Family Tree Magazine guides, cited as S57 and S60 — Third-party articles paraphrased with attribution (adapted)
+- Los Angeles Public Library and LDSGenealogy.com, cited as S58, S59, S61 and S62 — Third-party finding aids described with attribution (adapted)
