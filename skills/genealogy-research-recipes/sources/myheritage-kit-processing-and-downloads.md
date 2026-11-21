@@ -24,6 +24,12 @@
 
 - **S12:** Robin J. Hofmeister et al., [Parent-of-origin effects on complex traits in up to 236,781 individuals](https://www.nature.com/articles/s41586-025-09357-5.pdf), published online 2025-08-06. Reviewed 2026-11-20, pdf, access read. Read 2026-11-20. Figure 1 and the phasing methods distinguish grouping inherited variants from identifying their maternal or paternal origin.
 
+- **S13:** Melina Papadopoulos, [MyHeritage for Free: 10 Tips for Using It Without a Subscription](https://familytreemagazine.com/websites/myheritage-for-free/), last updated 2026-08-17. Reviewed 2026-11-21, web-page, access read. Read 2026-11-21. In tip 8 the author suggests using existing uploads to explore results for free. S14 confirms free DNA Matching for prior uploads, and S15 documents separate access terms for advanced tools.
+
+- **S14:** [MyHeritage, Is DNA matching free?](https://www.myheritage.com/help/en/articles/12852332-is-dna-matching-free). Reviewed 2026-11-21, help-page, access read. Read 2026-11-21. Provider help confirms free DNA Matching for prior autosomal uploads from 23andMe, Family Tree DNA and AncestryDNA.
+
+- **S15:** [MyHeritage, What are the Advanced MyHeritage DNA Features?](https://www.myheritage.com/help/en/articles/12852419-what-are-the-advanced-myheritage-dna-features). Reviewed 2026-11-21, help-page, access read. Read 2026-11-21. Provider help lists the Chromosome Browser as an advanced tool and describes how the upload date, subscription and per-kit unlock affect access.
+
 ## Credits
 
 - Community advice and independent sources in S1 onward — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
