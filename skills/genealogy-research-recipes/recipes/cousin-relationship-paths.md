@@ -24,7 +24,11 @@ For each distinct line, find the closest common ancestor on that line and count 
 
 ## Read a MyHeritage relationship diagram
 
-In the redesigned view of the user's existing MyHeritage tree on the website, first confirm that the user's account is associated with their profile in that tree [S5 @2026-11-20]. Then open the relative's profile panel and click the relationship beneath the name to view the Relationship Diagram. [S4 @2026-11-20], [S5 @2026-11-20] Check that the diagram starts at the user's own profile. Use the displayed path as a lead, verify each parent-child link, and check the other branches for additional shared lines.
+On the MyHeritage website, first confirm that the user's account is associated with their profile in their existing tree [S5 @2026-11-20]. In the redesigned tree view, open the relative's profile panel and click the relationship beneath the name to view the Relationship Diagram. [S4 @2026-11-20], [S5 @2026-11-20]
+
+On the full desktop profile page, click the relationship beneath the person's name to open the same diagram. [S9 @2026-11-21], [S11 @2026-11-21] If a large tree shows **Relative** beneath the name, click that label to see the path before classifying the relationship. [S10 @2026-11-21], [S11 @2026-11-21]
+
+Check that the diagram starts at the user's own profile. Use the displayed path as a lead, verify each parent-child link, and check the other branches for additional shared lines.
 
 ## Check for additional and half relationships
 
