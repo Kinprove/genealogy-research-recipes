@@ -20,7 +20,6 @@ covered only where a recipe gives a search route for it.
 
 | # | Area | What the catalog has now | Mistake a recipe must prevent |
 | --- | --- | --- | --- |
-| 1 | U.S. Social Security records: SS-5 applications, Numident, SSDI | No route; one passing mention of a Social Security entry in [burial evidence](../skills/genealogy-research-recipes/recipes/burial-evidence-packet.md) | Treating a person's absence from the SSDI as proof that the person was not deceased |
 | 2 | UK and Commonwealth First and Second World War service records | War-dead burials through CWGC in [burial evidence](../skills/genealogy-research-recipes/recipes/burial-evidence-packet.md); Canadian personnel files in [Canadian record routing](../skills/genealogy-research-recipes/recipes/canadian-provincial-record-routing.md); no route for British service files | Reading a missing or burnt First World War service file as proof that the man did not serve |
 | 3 | Baltic records: a routing recipe for Estonia, Latvia and Lithuania | The Estonian and Latvian church-book portals (Saaga, Raduraksti), with name-form and parish-browsing advice, in [image coverage verification](../skills/genealogy-research-recipes/recipes/archival-image-coverage-verification.md); Lithuanian Jewish records through Litvak SIG and JewishGen, including its translated-record coverage check, in [JewishGen search](../skills/genealogy-research-recipes/recipes/jewishgen-search-family-reconstruction.md); no route for other Lithuanian records and no Baltic routing recipe | Searching by today's country instead of the period state and the family's confession, and reading one portal's miss as a lost record |
 | 5 | Caribbean civil registration under British and Dutch rule | Cuba and Puerto Rico in [Hispanic Catholic registers](../skills/genealogy-research-recipes/recipes/hispanic-catholic-register-recovery.md); the 1813–1834 [British colonial slave registers](../skills/genealogy-research-recipes/recipes/british-colonial-slave-registers.md); an overseas civil-registration reference in [French departmental routing](../skills/genealogy-research-recipes/recipes/french-departmental-record-routing.md) | Routing an event by today's country instead of the authority that ruled the place on the event date |
@@ -56,6 +55,9 @@ These areas were in issue 101's list and now have a search route in a recipe:
 
 - A general recipe for arrivals in Canada:
   [Arrivals in Canada by sea or land](../skills/genealogy-research-recipes/recipes/canadian-arrival-record-routing.md).
+
+- U.S. Social Security records: SS-5 applications, Numident, SSDI:
+  [U.S. Social Security applications and Numident](../skills/genealogy-research-recipes/recipes/us-social-security-application-recovery.md).
 
 ## Updating this list
 
