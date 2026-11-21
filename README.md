@@ -189,7 +189,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [cousin-relationship-paths](skills/genealogy-research-recipes/recipes/cousin-relationship-paths.md) | public catalogues, documentation and historical records | — | — | — | — | — |
 | [criminal-court-prison-record-recovery](skills/genealogy-research-recipes/recipes/criminal-court-prison-record-recovery.md) | record catalogues and original images | — | — | request, third-party-tool | — | required |
 | [danish-church-book-probate-recovery](skills/genealogy-research-recipes/recipes/danish-church-book-probate-recovery.md) | record catalogues and original images | — | — | request | — | required |
-| [dar-ancestor-record-interpretation-and-correction](skills/genealogy-research-recipes/recipes/dar-ancestor-record-interpretation-and-correction.md) | DAR Genealogical Research System Ancestor records | — | — | upload | contact | required |
+| [dar-ancestor-record-interpretation-and-correction](skills/genealogy-research-recipes/recipes/dar-ancestor-record-interpretation-and-correction.md) | DAR Genealogical Research System Ancestor records, DAR Genealogical Research System Descendants index, FamilySearch Revolutionary War rolls | — | — | upload, request | contact | required |
 | [deed-content-relationship-clues](skills/genealogy-research-recipes/recipes/deed-content-relationship-clues.md) | record catalogues and original images | — | — | — | — | — |
 | [descendancy-gap-worklist](skills/genealogy-research-recipes/recipes/descendancy-gap-worklist.md) | — | — | — | export | — | required |
 | [dna-comparison-controls](skills/genealogy-research-recipes/recipes/dna-comparison-controls.md) | — | — | — | export, third-party-tool, upload | — | required |
