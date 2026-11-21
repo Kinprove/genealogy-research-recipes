@@ -73,6 +73,8 @@ Transcarpathia is not covered. Link out for the shared steps:
 - **Do not read a voivodeship as today's country.** The 1920 act that organised the Lwów voivodeship listed Przemyśl, Rzeszów, Jarosław, Sanok, Krosno and Tarnobrzeg among its powiats [S7], and all are now in Poland. An interwar "województwo lwowskie" entry can lead to a Polish archive. Route by the village.
 - **Resolve the village before you choose an archive.** Use the place-name recipe to list and date its candidates, and keep the form each record gives.
 
+- **Look up the Galician town for 1900.** Open Gesher Galicia's [Galician Town Locator](https://www.geshergalicia.org/galician-town-locator/) and find the town in the table. Record the administrative district and the judicial district separately, along with the listed Jewish center and the Roman Catholic and Greek Catholic parish locations [S53 @2026-11-20], [S54 @2026-11-20]. For an event in another year, confirm the districts and the parish or Jewish center for that date before choosing books.
+
 ## 2. Choose the books by confession
 
 - **Start an ethnic Ukrainian villager in Galicia in Greek Catholic books, not Orthodox ones.** The Habsburg authorities had the Roman Catholic and Greek Catholic clergy keep the vital records [S9]. For Lemko families the default holds until 1926 [S10]. In 1921 the five powiats of Kraków voivodeship where Lemkos lived counted 51,044 Greek Catholics and 142 Orthodox [S10].
