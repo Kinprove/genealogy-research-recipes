@@ -11,7 +11,7 @@ handoff: ["dna-comparison-controls", "ai-for-dna-research"]
 checked: "2026-11-18"
 checked_basis: "Read 2026-11-18"
 capabilities: {"browse": ["public catalogues, documentation and historical records"], "local_script": [], "extensions": [], "data_transfer": ["export", "request", "upload"], "contact": []}
-router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 30}
+router: {"section": "DNA", "group": "DNA testing sites and tools", "order": 31}
 ---
 
 # Identify the processing and file type of a MyHeritage DNA result
