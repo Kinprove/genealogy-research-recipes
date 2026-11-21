@@ -3580,5 +3580,23 @@
   "kind": "contact",
   "action": "ask the match for the minimum historical detail that would distinguish the placements",
   "checkpoint": "Comparing family accounts with a DNA match discloses the parentage question"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "publish",
+  "action": "For a BillionGraves contribution, use the desktop Dashboard",
+  "checkpoint": "A BillionGraves contribution sends images and names or other details"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "Try the PERO OCR demonstration app",
+  "checkpoint": "A page sent to the PERO OCR demonstration app can disclose"
+ },
+ {
+  "recipe": "ai-for-documentary-records.md",
+  "kind": "third-party-tool",
+  "action": "For a faded scan originally taken in color, use MyHeritage",
+  "checkpoint": "Color restoration sends the scan"
  }
 ]
