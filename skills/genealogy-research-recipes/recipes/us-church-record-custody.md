@@ -4,13 +4,13 @@ title: "Find the custodian of a U.S. church record before calling it missing"
 summary: "Work out the denominational branch, congregation and current custodian of a U.S. church record."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "US-CHURCH-RECORD-CUSTODY-01", "text": "Before searching, work out the exact denominational branch, the record types that branch kept, the congregation or minister who kept the entry, and who holds those registers now. Do not report \"not found\" or \"records lost\" until that custody path has been checked."}]
 handoff: []
 checked: null
 checked_basis: null
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": ["contact"]}
 router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 126}
 ---
 
@@ -108,6 +108,10 @@ For each candidate, record: name, branch, place name as it changed, dates active
 - **Other denominations:** check the last minister, a neighbouring congregation of the same faith, local and state historical societies [S5], and the state or regional denominational body, such as a state Baptist association [S8]. Ask the local genealogical society what happened to the records. [S5], [S18] If the church still exists, contact its historian. [S8] For itinerant ministers (Allen's example is Methodist circuit riders), check the denomination's regional repositories and the county where the minister died. [S6], [S7]
 - When contacting the Presbyterian Historical Society, give the congregation name plus its city and state, because that is how its holdings are arranged. Have the staff confirm which records survive for that congregation before they say yes or no to a particular entry. [S12]
 - A denominational archive may document mainly the organization and its history rather than individual members. Tanner's examples include the American Baptist Historical Society and the Archives of the Episcopal Church. Check what it actually holds before treating it as the source of a person's record. [S1]
+
+**Privacy gate:** <!-- privacy-gate: contact --> The inquiry shares the congregation name, record series and date range with the archivist. Clear the gate before including the name or other identifying details of a sister who may be living.
+
+**Catholic nuns and sisters.** For membership in a U.S. Catholic religious community, start with the archive of the specific congregation the nun or sister joined [S58 @2026-11-21], [S59 @2026-11-21]. If the custody path is unclear, look up the congregation by name or initials in *Women Religious History Sources: A Digital Guide to Repositories in North America* [S60 @2026-11-21]. Ask the archivist at the motherhouse if it holds the collection, or at the receiving repository if it was transferred, which series and years you can consult [S59 @2026-11-21], [S60 @2026-11-21], [S61 @2026-11-21].
 
 - **Latter-day Saints:** For Latter-day Saint membership evidence, use the Church History Library’s Record of members collection, 1836–1970, and search the catalogue by the ward or branch. The library’s guide says acquisitions after the 1960s–1970s microfilming project are catalogued separately, so the main collection is not the whole search. Record the particular series and its access conditions, without assuming an online image is available. [S46 @2026-11-16], [S47 @2026-11-16]
 
