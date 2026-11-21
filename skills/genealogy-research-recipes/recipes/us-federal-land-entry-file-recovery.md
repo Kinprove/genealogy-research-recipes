@@ -54,6 +54,10 @@ Two cautions. In Tennessee, the United States held title to the land south and w
 
 A further caution for Ohio: its northeastern counties in the Connecticut Western Reserve and the Firelands were part of Connecticut's western land claims. The Ohio History Connection holds no original entry or survey records for those counties and suggests the Western Reserve Historical Society Library and the Connecticut State Library [S25 @2026-11-13]. For land there, start with those two libraries.
 
+**California.** According to Family Tree Magazine’s California guide, distinguish federal public-land sales from earlier Spanish or Mexican grants [S47†]. Read the patent’s authority before choosing a file series. The 1851 act provided for U.S. patents on confirmed claims based on Spanish or Mexican grants [S48]. For a federal public-land sale, follow the cash-entry route (§§1 and 7) [S39].
+
+For an earlier Spanish or Mexican grant, check the California State Archives’ *Spanish and Mexican Land Grants* collection for copies of title papers and maps [S49 @2026-11-20].
+
 ## 1. Route the entry by authority
 
 Start a row for each GLO hit. Copy the authority, act year, acreage, warrant number, land office and legal description. Keep the Document Nr. and Accession Nr. in separate fields. Use the stated authority to distinguish a military warrant from a cash sale or homestead [S1], [S39].
