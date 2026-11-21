@@ -46,6 +46,10 @@ Before you search, write down what kind of notice the date and place make likely
 - **A large city.** Expect less on an everyday resident. Nineteenth-century papers in cities such as New York, Chicago and St. Louis carried less information on fewer residents than papers in rural communities and small cities [S2], and small-town papers often gave obituaries considerable space [S9]. Add the papers of neighbouring smaller communities before you call the search negative [S1], choosing them as [newspaper search recovery](newspapers-com-search-recovery.md) directs.
 - **Any date.** Not everyone had an obituary [S3]. Record a miss as "no notice found" in the titles and issues you checked, not as "no obituary".
 
+Browse death columns in papers from the person's documented former residences as well as the place of death. Include a former hometown even when it is outside the region where the person died [S34], [S35].
+
+When testing a claim of Boston Tea Party participation, browse nineteenth-century death columns, including those headed `DIED`, for wording that ties the person to the destruction of the tea [S36], [S37]. Record what role the notice claims, including whether the person took part or witnessed the event, and check that role against an independent account [S37].
+
 ## 2. Search the relatives' obituaries
 
 When the person's own notice is missing or thin, or names a woman only through her husband, search the obituaries of every sibling, child and spouse, not only those of direct ancestors [S1], [S3].
@@ -63,7 +67,7 @@ Read a card of thanks for relationships and leads. It may describe the deceased 
 
 ## Find the original issue through an obituary index
 
-**Privacy gate:** <!-- privacy-gate: third-party-tool --> The query sends the deceased subject's public name or the paper title and issue date to MyHeritage, the relevant library index, or the newspaper archive.
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The query sends the deceased subject's public name or the paper title and issue date to MyHeritage, JewishGen, the relevant library index, or the newspaper archive.
 
 Search the index by the confirmed deceased person's public name after answering the privacy gate in `SKILL.md`. Limit outbound searches to that name and, for the issue lookup, the newspaper title and publication date. Keep survivors' details and private research notes local.
 
@@ -91,6 +95,8 @@ Choose the index for the paper and locality. Use indexed dates, places and famil
 
 - **Ohio, Williams County.** Use MyHeritage's county index for entries from 1863 onward. Keep the paper title with the publication date so you open the right issue [S14 @2026-11-18], [S28 @2026-11-18].
 
+- **Pennsylvania, Philadelphia.** Search the *Philadelphia Jewish Exponent* obituary index on MyHeritage or JewishGen by the deceased person's public name. Compare age at death and birthplace when supplied. The index spans 1887–2013 with gaps. On a miss, check JewishGen's coverage list and go directly to issues in the gaps [S30 @2026-11-20], [S31 @2026-11-20], [S32 @2026-11-20]. Use the publication date and any page number to locate the original through Temple University's *Jewish Exponent* holdings guide [S33 @2026-11-20]. If JewishGen shows `Nerc'y` in the page field, browse the necrology in the dated issue [S32 @2026-11-20].
+
 ## 4. Ask about funeral and memorial cards
 
 Ask the user whether family papers hold a funeral or memorial card for the person [S1]. Early cards told family and friends of the death and of the funeral and burial services; later cards were handed out at the wake, funeral and interment as keepsakes. They give birth and death dates and places and sometimes family members' names, some larger cards carry a photograph, and a card can lead to the funeral home, church and cemetery [S12]. Record what the card actually carries; do not assume that it reproduces the obituary.
@@ -110,6 +116,8 @@ Check the relationship label against a record that identifies the same people in
 A missing spouse, child, sibling, employer or military service is not evidence that none existed. When a notice mentions two marriages but gives no outcome for the first, search for both a death and a divorce before assigning an end date [S10]. Record the omission with the printed wording. Space, cost and the informant's knowledge can affect what the family includes [S1], [S10].
 
 Read praise as a portrait, not as a balanced biography. Editors sometimes embellished lives, especially those of prominent people, and left out less flattering details [S9]. The MyHeritage author finds that obituaries show the deceased in the best light and may leave negative events out [S1]. Silence in an obituary does not show that nothing adverse happened.
+
+When a family story attributes a death to an accident abroad, compare the death notice with news coverage around the death and around the reported accident. Record the date and attributed cause of death, then date the earlier episode and any reported return separately. A corroborated return and a later death notice can overturn a claim that the person died on the trip [S38]. Check whether the death coverage actually links the accident to the death [S35], [S38].
 
 ## 6. Keep living survivors to the family question
 
