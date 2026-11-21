@@ -45,6 +45,16 @@ Use MyHeritage's *England and Wales, Hearth Tax, 1662–1674* index for househol
 
 Use MyHeritage's Chester County septennial census index for name and residence leads from 1793 to 1863 [S50 @2026-11-18], [S52 @2026-11-18]. Consult the Chester County Archives' missing-township list for the target township and enumeration year before interpreting an index miss [S51 @2026-11-18], [S58 @2026-11-18].
 
+Search MyHeritage's *Hungary, Property Tax Census, 1828 From JewishGen* by given name, surname and place [S64 @2026-11-20]. Search with the 1828 Hungarian place names and record both town and county from the hit [S63 @2026-11-20], [S64 @2026-11-20].
+
+Leave residence unresolved after a miss in this index. JewishGen extracted entries identified as Jewish or judged likely to be Jewish from a census limited to people with taxable property [S65]. Use the town and county to locate the original return. For a JewishGen hit, use its microfilm and entry numbers to find the census line [S65].
+
+For a place now in Highland County, Virginia, identify which county covered it before Highland was formed in 1847, then search the personal-property tax lists for Pendleton (now in West Virginia) or Bath accordingly [S69].
+
+For Highland County's 1847–1850 personal-property tax lists, open FamilySearch Catalog entry 776302 (film 2024589, DGS 8707155) [S67 @2026-11-20]. Check **Film/Digital Notes** in the user's signed-in account and use the camera if it opens the images [S66 @2026-11-20], [S67 @2026-11-20]. If the images are unavailable, use Library of Virginia reel 177 for those years [S68 @2026-11-20].
+
+Treat 1850 as the end of that catalog entry and continue with the Library of Virginia's Highland County microfilm, starting with reel 574 for 1851–1854 [S67 @2026-11-20], [S68 @2026-11-20].
+
 ## 2. Record the liability scope for each year before interpreting
 
 For each jurisdiction and year, write down who was liable and for what:
