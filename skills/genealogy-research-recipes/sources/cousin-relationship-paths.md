@@ -16,8 +16,15 @@
 
 - **S8:** Lee Cronk et al., [Kin terms and fitness interdependence](https://anthro.rutgers.edu/images/documents/publications/Cronk%20et%20al%20kin%20terms%20and%20FI%20EHB%202019.pdf), *Evolution and Human Behavior* 40 (2019), pp. 281–291. Reviewed 2026-11-20, pdf, access read. Read 2026-11-20. Used pp. 281–282 to check how parental sibling paths distinguish cross and parallel cousins in kinship systems that use these categories.
 
+- **S9:** Erica Edvi, [Introducing All-New Profile Pages With Hints](https://blog.myheritage.com/2024/02/introducing-all-new-profile-pages-with-hints/), MyHeritage Blog, published 2024-02-29. Reviewed 2026-11-21, web-page, access read. Read 2026-11-21. Used the author's walkthrough of opening the Relationship Diagram from the full desktop profile page. Checked the relationship link against S11.
+
+- **S10:** Esther Shuman, [Wrapping Up 2024: MyHeritage Year in Review](https://blog.myheritage.com/2025/01/wrapping-up-2024-myheritage-year-in-review/), MyHeritage Blog, published 2025-01-01. Reviewed 2026-11-21, web-page, access read. Read 2026-11-21. Used the July recap of Relationship Diagram support for large trees. Used S11 to verify what to click when the relationship label is generic.
+
+- **S11:** MyHeritage Help Center, [Why don’t I see relationships in my online tree?](https://www.myheritage.com/help/en/articles/12852747-why-don-t-i-see-relationships-in-my-online-tree). Reviewed 2026-11-21, help-page, access read. Read 2026-11-21. Used the documentation for opening the diagram from the label beneath a person's name, including the generic Relative label in large trees.
+
 ## Credits
 
 - Community advice and independent sources in S1–S6 and S8 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Shared cM Project 4.0 data in S7 by Blaine T. Bettinger, presented by Jonny Perl — CC BY 4.0 for the project data (adapted)
+- MyHeritage Blog and Help Center content in S9–S11 — Third-party content, all rights reserved by the rights holder. Short adapted paraphrase with attribution (adapted)
 - Kinprove original research procedure — FSL-1.1-MIT (kinprove-original)
