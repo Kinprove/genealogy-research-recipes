@@ -3682,5 +3682,11 @@
   "kind": "request",
   "action": "Request the placement file using the agency locator",
   "checkpoint": "the child's names, estimated dates and placement clues"
+ },
+ {
+  "recipe": "canadian-arrival-record-routing.md",
+  "kind": "third-party-tool",
+  "action": "try Ancestry's Canada, Border Crossings from U.S. to Canada, 1908–1935 index",
+  "checkpoint": "Ancestry receives the traveller's name or itinerary in a border-index search"
  }
 ]
