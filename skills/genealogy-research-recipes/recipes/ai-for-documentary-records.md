@@ -156,12 +156,24 @@ newspaper title, issue date and place to find the page in another archive.
 13. **Privacy gate:** <!-- privacy-gate: export --> A GEDCOM index or obituary extraction can name living relatives; answer the privacy gate in `SKILL.md` before exporting it to a spreadsheet. **Verify large batches in Excel.** Export a big structured extraction (a GEDCOM index, obituary fields) to a spreadsheet and check row counts and filters, because LLMs silently drop or invent data in the *middle* of a large input rather than raising a capacity error. (Genealogy TV — Little & Thompson)
 14. **Run two strong models and diff to find the uncertain tokens.** Transcribe or translate the same record with two different models; the diff points straight at the uncertain tokens. It is neither verification nor corroboration: settle each disputed token against the image, and do not feed both models one draft. (Kitty Cooper)
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Sending a probate PDF to an external AI reader discloses names, relationships and estate details about anyone mentioned, including living or possibly living people, to the tool provider. Answer the privacy gate in `SKILL.md` before attaching it.
+
+For a supplied probate PDF, ask for an alphabetical table of names, exact relationship wording
+and page locators. Check each stated relationship to the deceased on its cited page [S52].
+Record estate roles in a separate column and leave an unstated relationship blank, even if the
+person receives a bequest [S53].
+
 **Prepare the scan before transcription.** If scanning from the original, align the page and
 start at 300 pixels per inch. Scan at higher resolution if the writing is small or faint
 [S29], [S30]. Work on a copy. Rotate a postcard into reading orientation and crop to the
 message [S29]. For a complex multi-column page, make one reading crop per column where the
 columns can be read separately [S29]. Keep the full page for checking headings and entries
 that span columns.
+
+For a chatbot’s census extraction, locate the person’s or household’s row on the original
+page and follow it across to the exact column heading for each value [S52], [S54]. If the page
+lacks headings, find them on another page of the same schedule before assigning fields [S55].
+Record the row and column for each correction.
 
 Settle differences between a model’s transcription and your own using the image. In Family Locket’s comparison, the typed reference had regularised a spelling that the model preserved [S6 @2026-11-12]. When preparing a reference transcript, turn off automatic spelling corrections and retain the original spelling [S7 @2026-11-12].
 
@@ -302,6 +314,9 @@ Treat any AI-altered image as a **derived, non-documentary** artifact and keep i
 - **Convert a reconstruction to a pencil drawing or painting** to signal it is interpretive, not photographic. (Denyse Allen; Genealogy TV)
 - Keep generated, enhanced and colourised images separate from the original. Colourisation invents an original colour, removing a background can erase a building or an album mount used for dating, and generative restoration can change a face or add anachronisms. Date or identify the photograph from the original and label the derivative when showing it [B2], [B12].
 
+For a family-history scrapbook, work from copies of photos and documents [S56], [S57].
+Skip AI enhancements that add, erase or replace details before placing the copies on the page [S56].
+
 Before treating an image taken from MyHeritage as the original photograph, look at its
 corners; MyHeritage's help places its marks at the bottom left [S12 @2026-11-12],
 [S13 @2026-11-12]. A palette marks a colorized or color-restored photo, a magic wand an
@@ -311,11 +326,26 @@ authentic [S13 @2026-11-12], [S14 @2026-11-12]. A marked image is a derived arti
 the original. A cropped or re-saved copy can lose the marks, so their absence does not show
 that an image is unaltered.
 
-**Privacy gate:** <!-- privacy-gate: third-party-tool --> Color restoration sends the scan and any details of living or possibly living people pictured in it to MyHeritage for processing. Answer the privacy gate in `SKILL.md` first.
+In a Reimagine album, look for the edit icons on the thumbnails while choosing photos to
+inspect. Open the separately stored original before using a marked photo as a source
+[S12 @2026-11-21], [S58 @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Color restoration sends the scan and any details of living or possibly living people pictured in it to MyHeritage for processing. The same gate covers colorizing a photo with Reimagine’s color wheel. Answer the privacy gate in `SKILL.md` first.
 
 For a faded scan originally taken in color, use MyHeritage **Color Restoration**. Reserve
 colorization for black-and-white originals. Label the result as color-restored and retain
 the unedited scan for evidence [S48 @2026-11-20], [S49 @2026-11-20].
+
+Check the original before using the color wheel in Reimagine. The same control colorizes
+a black-and-white original and restores a faded color original. If the original colors are
+intact, the result can look unchanged. Compare both versions before labeling the result
+[S12 @2026-11-21], [S58 @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: publish --> Sharing from Reimagine sends the selected photo or comparison, with details of anyone shown, including living or possibly living people, to the chosen service and audience. Answer the privacy gate in `SKILL.md` before sharing.
+
+From the single-photo view in Reimagine, tap the share icon at the top. Choose the original
+when sending the source photo. Choose the before-and-after comparison to show the edit and
+label which version was AI-processed [S58 @2026-11-21], [S59 @2026-11-21].
 
 In a military portrait, inspect the collar for numbers or insignia. Use an existing
 enhanced copy to locate the detail, check the reading on the original, and compare it with
