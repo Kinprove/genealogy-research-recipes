@@ -55,6 +55,10 @@ Related recipes cover overlapping steps. For index hits that are not proof a fil
 
 For a Scottish school, check the present holder and any former local-government or regional archive coverage instead of assuming today's county holds everything. Glasgow's guide includes schools from the former Strathclyde region and explains that most of its records follow the 1872 Education (Scotland) Act's implementation in 1873, with few earlier exceptions. Do not use 1870 as Scotland's cutoff or infer that every earlier school lost its records. Separate admissions registers, which can identify pupils, from headteachers' logbooks, which rarely name individual pupils. Only the transcript of the Scottish school-records discussion was inspected; the Glasgow archive guide supports these bounded distinctions. [S35 @2026-11-16](https://www.youtube.com/watch?v=5Wi6WBBuJHg) [S36 @2026-11-16](https://www.glasgowlife.org.uk/libraries/family-history/stories-and-blogs-from-the-mitchell/ask-the-archivist/ask-the-archivist-school-records)
 
+For a U.S. school in an area with township government, identify the family's civil township, county and state for the attendance years. Verify which authority ran the school at that date. If the township ran it, search local-government finding aids under the township and county for board of education records and school-age enumerations. Check the school district or successor office's inventory if responsibility changed. Use survey township numbers as location clues. [S47], [S48]
+
+The Rutherford B. Hayes Presidential Library & Museums lists the 1840 enumeration for School District #2 of Green Creek Township, Sandusky County, Ohio, in *Green Creek Township Records*, inventory item 3, Loose papers. [S48 @2026-11-20]
+
 ## 2. Judge the school's own fond from its inventory
 
 - For the two Pryluky girls’ gymnasiums, use the Chernihiv archive’s published register to choose the inventory [S40]. The forum suggested both fonds from their size [S1].
@@ -166,6 +170,10 @@ A list of admissions to examinations is not a list of graduates or of years of s
 For a yearbook, inspect another copy of the same edition even when the family owns one. Handwritten inscriptions are copy-specific: look beside the relevant printed entry, inside covers, and on notes or autograph pages, keeping the copy's holder and page locator. A signature or personal note may be absent from both OCR and the family's copy. Treat the handwriting's attribution as a separate claim; do not identify a person by comparing faces. [S33](https://genealogytipoftheday.com/index.php/2025/06/27/grandma-signed-a-yearbook/), [S34](https://www.amyjohnsoncrow.com/getting-more-out-of-yearbooks-for-genealogy/)
 
 If the school's own holdings turn up no yearbook for the year you need, check the local-history collection of the public library serving the area where the family lived. Look for the volume by school and year. [S37](https://familytreemagazine.com/libraries-archives/a-guide-to-libraries-for-genealogy-research/), [S38](https://www.plainfieldlibrary.net/services/genealogy/)
+
+When tracing a former community from a yearbook group photo, work through the whole group by row and position. Use captions or annotations to propose names. Where the school and year are known, check those names against class lists. Require evidence linking each name to its position in the photo, and record a recognition only as the claim of the person who made it. Search local records from the period for each candidate name, including classmates outside the family you started with. Leave unsupported positions unresolved. [S43], [S44], [S45]
+
+The reverse of *Unknown School Class Photo* (item 32500) supplies names by row, with the school still unidentified. [S46]
 
 ## 9. When institutional files are lost, recover the school from later files
 
