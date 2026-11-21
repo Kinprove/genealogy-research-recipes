@@ -3322,5 +3322,11 @@
   "kind": "upload",
   "action": "open the photo, tap the microphone, record the story",
   "checkpoint": "Saving a photo story sends the narrator's voice and any details about living people in the recording to MyHeritage"
+ },
+ {
+  "recipe": "french-belgian-civil-act-extraction.md",
+  "kind": "third-party-tool",
+  "action": "search the matching MyHeritage collection",
+  "checkpoint": "event date and locality entered in the search go to MyHeritage"
  }
 ]
