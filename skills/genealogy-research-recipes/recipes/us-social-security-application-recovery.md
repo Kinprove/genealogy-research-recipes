@@ -10,7 +10,7 @@ guardrails: [{"id": "US-SOCIAL-SECURITY-APPLICATION-RECOVERY-01", "text": "A mis
 handoff: ["usa-immigration-search-recovery", "historical-place-name-resolution", "maiden-name-recovery"]
 checked: null
 checked_basis: null
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
 router: {"section": "Records by country and region", "group": "United States: people, vital and church records", "order": 137}
 ---
 
@@ -21,6 +21,10 @@ A miss in a Social Security death index leaves the person's death and applicatio
 ## Identify which record you found
 
 Distinguish a death extract from an application or claim entry. The National Archives' 1936–2007 NUMIDENT series describes a selection based on verified death or the age the applicant would have reached at the cutoff. SSA death information depends on reports reaching the agency. Record which series you searched and pursue other death evidence after a miss [S3 @2026-11-20] [S4 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Identify the name and dates that would go to MyHeritage. Answer the privacy gate in `SKILL.md` before submitting the search. Confirm the subject is deceased and send only the terms needed for the lookup.
+
+For a confirmed deceased person, search the [U.S. Social Security Death Index (SSDI) on MyHeritage](https://www.myheritage.com/research/collection/us-social-security-death-index-ssdi/colid-10002) and open any candidate entry in the free collection before considering a paid subscription [S5 @2026-11-21] [S6 @2026-11-21].
 
 ## Recover a missing birthplace
 
