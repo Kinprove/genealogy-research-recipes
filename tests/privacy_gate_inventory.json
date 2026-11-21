@@ -3562,5 +3562,17 @@
   "kind": "third-party-tool",
   "action": "For France, check both **France, Names & Stories in Newspapers**",
   "checkpoint": "Names, relationships and event dates that identify anyone who may be living go to MyHeritage"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "upload",
+  "action": "use a new MyHeritage DNA test",
+  "checkpoint": "A new DNA test sends the living tester's kit"
+ },
+ {
+  "recipe": "myheritage-dna-match-investigation.md",
+  "kind": "contact",
+  "action": "the Smart Match tree manager where that match offers",
+  "checkpoint": "A message to a Smart Match tree manager can"
  }
 ]
