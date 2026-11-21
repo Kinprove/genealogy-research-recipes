@@ -314,6 +314,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/newspapers-com-search-recovery.md` — Find notices on Newspapers.com that name searches miss, after checking which titles and issues are actually covered.
 - `recipes/geni-practical-research-workflows.md` — Use Geni for name variants, relationship paths, citations, projects, merge decisions, tree conflicts and GEDCOM exports.
 - `recipes/find-a-grave-memorial-corrections.md` — Send evidence-backed Find a Grave corrections and route management requests to the right recipient.
+- `recipes/newspaper-finder-title-coverage.md` — Use Newspaper Finder to discover alternate hosts for a historical newspaper and verify whether a host carries the target issue.
 
 ### Books, periodicals and manuscripts
 
