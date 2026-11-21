@@ -35,6 +35,10 @@ The rule to pair marriage-index entries by their locators instead of trusting a 
 
 - **S26:** [Department of Culture, Communications and Sport, February 2026 civil-register release](https://www.gov.ie/en/department-of-culture-communications-and-sport/press-releases/historic-records-of-charles-j-haughey-and-%C3%A9amon-de-valera-unveiled-online/). Official release and image coverage notes read 2026-11-19.
 
+- **S27:** Esther Shuman, MyHeritage Blog, [Wrapping Up 2024: MyHeritage Year in Review](https://blog.myheritage.com/2025/01/wrapping-up-2024-myheritage-year-in-review/), published 2025-01-01. Community source, article opened and read 2026-11-21. The year-in-review post suggests using the Irish civil indexes as leads and links to the birth and death collections. Their separate descriptions and search forms are cited in S28 and S29.
+- **S28:** MyHeritage, [Ireland Births, 1864-1958 (collection 20865)](https://www.myheritage.com/research/collection/ireland-births-1864-1958/colid-20865). Public collection description and search form read 2026-11-21. Used for the birth index’s years, geographic scope and name, birth year and place fields. No signed-in searches were run.
+- **S29:** MyHeritage, [Ireland Deaths, 1864-1958 (collection 20866)](https://www.myheritage.com/research/collection-20866/ireland-deaths-1864-1958). Public collection description and search form read 2026-11-21. Used for the death index’s years, geographic scope and name, death year and place fields. No signed-in searches were run.
+
 ## Credits
 
 - Representative Church Body Library, Irish Statute Book and Department of Culture, Communications and Sport (S24–S26) — Register descriptions, historic effective date and image coverage paraphrased (adapted)
@@ -48,3 +52,4 @@ The rule to pair marriage-index entries by their locators instead of trusting a 
 - FamilySearch, Ireland, Civil Registration Indexes, 1845-1958 collection description — rights not stated; facts paraphrased with attribution (adapted)
 - Kinprove original procedural synthesis for pairing marriage-index entries by locator; the index structure and coverage are cited as S11–S13 — FSL-1.1-MIT (kinprove-original)
 - Community sources S20, S21, S22, S23 — Third-party content, rights retained by its owners; short attributed paraphrases of accessed source text (adapted)
+- Esther Shuman and MyHeritage (S27–S29) — Rights not stated. Search suggestion and collection descriptions paraphrased with attribution (adapted)

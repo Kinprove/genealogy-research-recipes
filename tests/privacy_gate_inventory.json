@@ -3742,5 +3742,11 @@
   "kind": "third-party-tool",
   "action": "If the city search stalls, use the collection links",
   "checkpoint": "any names, dates or places you would send to MyHeritage that identify people who may be living"
+ },
+ {
+  "recipe": "irish-civil-registration-jurisdiction-recovery.md",
+  "kind": "third-party-tool",
+  "action": "search the matching MyHeritage index by name",
+  "checkpoint": "before sending the record subject’s name, event year or place to MyHeritage"
  }
 ]
