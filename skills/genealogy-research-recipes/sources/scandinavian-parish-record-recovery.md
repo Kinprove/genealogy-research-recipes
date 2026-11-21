@@ -55,8 +55,13 @@
 
 - **S43:** [Sveriges Släktforskarförbund, Fler poster i folkräkningsdatabasen för 1930](https://www.rotter.se/senaste-nytt/3866-1930-ars-folkrakning-uppdaterad-med-nya-poster). Project partner’s account read 2026-11-19. Identifies parish-book extracts and the Stockholm city population register kept by the Mantalskontoret.
 
+- **S44:** MyHeritage Blog / Aíne Lagan, [Being Swedish: Traditions and Genealogy](https://blog.myheritage.com/2025/07/being-swedish-traditions-and-genealogy/) (community post), published 2025-07-18. Community post read 2026-11-20. Lagan recommends household examination books for researching relatives, marriage dates and moves. Use S45 for the catalogue title and scope. The publisher counts indexed records, while the post calls them books.
+- **S45:** MyHeritage, [Sweden Household Examination Books](https://www.myheritage.com/research/collection/sweden-household-examination-books/colid-10180) (collection catalogue). Public collection description and search form read 2026-11-20. The catalogue describes a name index to images supplied by ArkivDigital, covering mainly 1800–1947 with some earlier material. The form has separate Birth and Residence fields. Parish-level coverage and signed-in image access were outside the scope of this check.
+- **S46:** Riksarkivet i Uppsala, [Släktforskningens grunder](https://cdn.abicart.com/shop/25093/art94/20255494-bfc5df-slaktforskning_vagledning-fran-riksarkivet-i-uppsala.pdf) (archive guide, PDF hosted by an external distributor), updated 2025-07-02. Archive guide read 2026-11-20. It describes households arranged by residence, notes that within-parish moves point to another page, and directs researchers to the moving registers for moves between parishes.
+
 ## Credits
 
+- MyHeritage Blog, Aíne Lagan (S44), MyHeritage collection catalogue (S45) and Riksarkivet i Uppsala (S46) — Household-index and parish-register retrieval guidance paraphrased with attribution (adapted)
 - Riksarkivet and Sveriges Släktforskarförbund (S40–S43) — Census coverage, source and registration guidance paraphrased with attribution (adapted)
 - BYU Family History Library, Joe Everett, Scandinavian Research (video, 2019-02-05), cited as S2 — Short attributed quotation for criticism and correction; video remains under its publisher's terms (quoted)
 - Genealogy Gems, Episode 210 (video, 2017-10-24), cited as S5 — Close attributed adaptation of short lists and a procedure; video remains under its publisher's terms (adapted)
