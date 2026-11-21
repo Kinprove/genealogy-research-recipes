@@ -3490,5 +3490,17 @@
   "kind": "third-party-tool",
   "action": "Search the military index for the recruitment place",
   "checkpoint": "A recruitment name search sends the recruit's name"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "request",
+  "action": "Request the Ohio county case file from the clerk of courts",
+  "checkpoint": "A request for a divorce, support or separation"
+ },
+ {
+  "recipe": "court-case-file-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search the Ohio divorce indexes within their date coverage",
+  "checkpoint": "An Ohio divorce index query sends a spouse's name"
  }
 ]
