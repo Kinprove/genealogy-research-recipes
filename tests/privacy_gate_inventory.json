@@ -3508,5 +3508,11 @@
   "kind": "contact",
   "action": "Ask whether the other branch holds a separately captioned or attributed group photograph",
   "checkpoint": "A request describing the photograph and the family connection may disclose information about living people"
+ },
+ {
+  "recipe": "us-20th-century-military-service-reconstruction.md",
+  "kind": "third-party-tool",
+  "action": "Search by the veteran's name in the Ancestry collection",
+  "checkpoint": "Ancestry receives the veteran’s name in the transport search"
  }
 ]
