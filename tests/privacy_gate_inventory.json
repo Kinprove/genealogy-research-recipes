@@ -3754,5 +3754,11 @@
   "kind": "contact",
   "action": "Ask the archivist at the motherhouse",
   "checkpoint": "The inquiry shares the congregation name, record series and date range with the archivist."
+ },
+ {
+  "recipe": "ai-for-dna-research.md",
+  "kind": "third-party-tool",
+  "action": "give the chatbot only the two columns of match codes",
+  "checkpoint": "Sending the two coded match columns to a chatbot discloses each living match's coded membership"
  }
 ]
