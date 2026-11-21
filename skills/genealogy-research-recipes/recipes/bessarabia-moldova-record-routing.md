@@ -42,6 +42,7 @@ It covers the period routing, the left bank, the 1941–1944 Transnistria fonds,
 - 6\. Generate Romanian and Cyrillic name forms as query lanes
 - 7\. Search notarial acts by fond, office and year
 - 8\. Search digitised newspapers on Arcanum
+- 9\. Search 1906–1907 Duma voter lists for a locality lead
 - Close with a routing packet
 
 ## Inputs to gather first
@@ -130,6 +131,14 @@ Gather these before searching:
 - **After the latest year in fond 211, ask ANA, then the Public Services Agency.** On 7 November 2026 the fond's table ended in 1923, op. 24 aside [S9]. Moldova's Public Services Agency (Agenția Servicii Publice, ASP) keeps paper civil-status registers of the last 100 years, and when the term ends each year passes to ANA. ANA took over the 1922 parish registers only in 2023, so later years may still be added [S24], [S25]. For a year after the last one in the fond's table, ask ANA whether it has taken that year in; for a register still inside the 100-year term, ask ASP. This applies to villages now in Moldova; for a village that went to the Ukrainian SSR in 1940, follow step 1.
 - **Browse FamilySearch "Moldova, Church Books, 1811–1936"; do not name-search it.** The collection (1943763) offers image browsing and no name index, with images from the state archive in Chișinău [S14]. A name-search miss there tests nothing. Browse by locality and year, and map each image group to its fond 211 opis and delo through the book's title page. The collection runs to 1936, past the end of fond 211, so do not assume every image group is fond 211.
 
+### Use the Jewish birth and death indexes to find the register
+
+**Search MyHeritage’s *Bessarabia, Jewish Births from JewishGen* by the deceased subject’s name and birth date or place.** The collection was announced with a span of 1829–1915 [S34 @2026-11-20]. Record the child’s name, birth date and place, parents and original-record locator. Capture each grandfather’s name when given and keep the paternal and maternal entries separate [S35 @2026-11-20].
+
+**Search MyHeritage’s *Bessarabia, Jewish Deaths from JewishGen* by the deceased’s name and death date or place.** Record the name, death date and place, age at death, residence and original-record locator. Check for parents or a spouse, and keep the place of death and residence in separate fields [S34 @2026-11-20], [S36 @2026-11-20].
+
+**Follow the locator to the town congregation’s register.** Use the archive cipher or the film, item and page when given. If the locator is incomplete, use the registration town and year to choose the opis [S38]. Read *uyezd* as county or district and *gubernia* as governorate or province for an imperial-era entry [S34], [S35]. Read the Cyrillic and Hebrew sides where both are present. Some entries are in Russian only [S38].
+
 ## 5. Search revision and census lists by fond, not by name
 
 - **Search Bessarabian revision lists (ревизские сказки) mainly in ANA fond 134.** It is the Bessarabian Treasury Chamber (Camera de stat a Guberniei Basarabiei, Russian Казённая палата). Its own dates are 1824–1917, and it has three inventories [S15]. Most revision lists sit in its opis 2 [S17], [S18].
@@ -160,6 +169,12 @@ Gather these before searching:
 - **Search the Arcanum newspaper database for notices naming the family, and read every hit on the page image before citing it.** On 21 July 2026 the Arcanum database made available another 450,000 pages from ANA's newspaper collections, covering 1874–2010, among them Бессарабские губернские ведомости (1874–1917), Cuvânt Moldovenesc (1914–1944), Moldova Suverană (1990–2010) and Независимая Молдова (1994–2010) [S31 @2026-11-08]. ANA says they can be read free only in its reading room in Chișinău [S31 @2026-11-08]. An earlier ANA notice offers Советская Молдавия for 1953–1991 free in the same reading room [S32 @2026-11-08].
 
 - **Search Moldova Socialistă with the Soviet Moldovan Cyrillic forms from step 6, not only with Latin Romanian forms.** The Library of Congress guide to its Romanian newspapers lists this party paper as printed in Cyrillic letters and available in the Arcanum database for 1967–1989 [S33 @2026-11-08].
+
+## 9. Search 1906–1907 Duma voter lists for a locality lead
+
+**Search MyHeritage’s *Bessarabia, Voter Lists, 1906–1907 from JewishGen*.** Record the voter’s name, list year, town, uyezd and qualification code when given. Keep Moldova or Ukraine as the modern locator. Use JewishGen’s key to decode the qualification and treat a recorded patronymic as a clue to the father’s given name [S34 @2026-11-20], [S37 @2026-11-20], [S39 @2026-11-20].
+
+**Leave residence unresolved after a miss.** The lists covered men who met voting qualifications [S34], [S39]. For a hit, check whether the listed place was the voter’s residence or the location of qualifying property before routing another record there [S39].
 
 ## Close with a routing packet
 
