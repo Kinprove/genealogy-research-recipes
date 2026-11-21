@@ -4,13 +4,13 @@ title: "Extract French and Belgian civil acts field by field"
 summary: "Extract French or Belgian civil acts field by field, follow marginal notes and copies, and use Paris reconstructions for lost originals."
 kind: "records"
 scope: {"platforms": [], "tasks": []}
-privacy: "none"
-gates: []
+privacy: "living-person"
+gates: ["privacy-transfer"]
 guardrails: [{"id": "FRENCH-BELGIAN-CIVIL-ACT-EXTRACTION-01", "text": "Store two fields: the act date, and the event date as stated (literal) or as resolved. Never fill only one date field."}]
 handoff: ["french-departmental-record-routing"]
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["third-party-tool"], "contact": []}
 router: {"section": "Records by country and region", "group": "Western and Northern Europe", "order": 104}
 ---
 
@@ -22,16 +22,29 @@ Work from the original image. A yearly index or a ten-year table (*table décenn
 
 ## Contents
 
+- Find civil acts through MyHeritage indexes
 - Find Belgian register images in AGATHA
 - Check a Paris reconstructed-record branch
 - Anchor every act on its own date
+- Extract declarants and family details
 - Convert Republican dates with a tool, never by arithmetic
 - Apply *je dis* corrections
 - Read status words as limits at the act date
 - Classify every statement about a parent's death
 - Read a marriage to the end for legitimated children
 - Check marginal continuations and separate copies
+- Follow French death registers and later transcriptions
 - Output
+
+## Find civil acts through MyHeritage indexes
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The subject’s name and any event date and locality entered in the search go to MyHeritage.
+
+After clearing the gate, search the matching MyHeritage collection using the subject’s name and only the event date and locality needed to find the act.
+
+For Val-de-Marne, use the **Civil Births** index for 1792–1900 and the **Civil Deaths** index for 1792–1937 [S14 @2026-11-20], [S16 @2026-11-20]. Open the associated image where available. The death collection’s coverage varies by commune [S17 @2026-11-20]. When either index misses, check the commune and year in the departmental tables and registers [S22 @2026-11-20].
+
+For Belgium, use **Civil Birth Registers** for 1800–1925, **Civil Marriage Registers** for 1800–1938 and **Civil Death Registers** for 1800–1950 [S15 @2026-11-20], [S18 @2026-11-20]. Apply the end year for each act type. Use any registration place, date or act number in the hit to locate the register entry. If the index misses, check the commune’s own tables and available images in AGATHA [S19 @2026-11-20].
 
 ## Find Belgian register images in AGATHA
 
@@ -63,6 +76,14 @@ did not occur or that no other reconstruction survives.
 2. Resolve relative expressions against that act date: *aujourd'hui* (today), *hier* (yesterday), "the Nth of this month", or a late declaration that gives a day and says "N years ago". Store two fields: the act date, and the event date as stated (literal) or as resolved. Never fill only one date field. [S1]
 3. In a marriage act, the opening date is the marriage date. The spouses' birth extracts were handed to the officer, who worked out each spouse's age from them. These ages contain errors. Treat the age as derived, and keep any mismatch with the birth act visible instead of correcting it. [S1]
 4. Transcribe a year written in words before normalising it. A clerk’s *quatre-vingt-onze* contributes 91 to the year, so look for the preceding thousands and hundreds in the same date [S2].
+
+## Extract declarants and family details
+
+In a French birth act, copy the child’s name and birthplace and each parent’s name as written, including the mother’s birth surname and either parent’s stated age [S14], [S22]. Identify the declarant from the opening formula and keep that role separate from parentage. The 1803 text of Code civil article 56 allowed a birth attendant such as a midwife to declare in the father’s absence and provided for the person who hosted an out-of-home delivery to declare it [S20].
+
+In a French death act, record the deceased’s name, stated birth date and place, and any named parents or spouse [S14]. Capture each declarant’s role and any explicit degree of kinship. The 1918 text of Code civil article 78 allowed neighbors and other nonrelatives to declare a death. Leave a declarant’s kinship open if the act gives none [S21].
+
+In a Belgian birth act, record the child’s name and keep the place of birth separate from the place of registration. Copy each parent’s name, residence and any stated birth date. For a death, capture the deceased’s birth and death places and dates, marital status and any named parents or spouse. For a marriage, capture the place and date of marriage, both spouses’ names and birth details, and their parents’ names. Leave fields open where the act is silent [S15], [S19].
 
 ## Convert Republican dates with a tool, never by arithmetic
 
@@ -111,6 +132,16 @@ annotation-maintenance dates instead of assuming both copies were updated alike.
 note in one copy is not proof of no marriage, divorce or death, nor of an event before a
 cutoff. [S4]
 
+For a French birth recorded outside marriage, check the birth margin for a reference to an act of recognition or to a legitimation. Use the note’s date and any commune or act number to retrieve the referenced act. Record what the note does and retain its locator alongside the original wording [S14], [S20], [S22].
+
+## Follow French death registers and later transcriptions
+
+For a death in Val-de-Marne, start with the death register of the commune where the person died. When only the death date is known, inspect entries from that date and the days immediately following [S14], [S22].
+
+When a child was stillborn or died before the birth was registered, search the death table and register in the commune of delivery around the delivery date [S14]. Where the French decree of 4 July 1806 applies, look for *présenté sans vie* and use the parents’ names to identify candidate entries. If the table gives no hit, scan the register itself. That wording alone leaves live birth unresolved [S23].
+
+For a French First World War soldier who died away from home, follow the transcription commune and date in the military death record if given [S24]. Otherwise, check the death registers of the last known domicile for a transcription of the death act or declaratory judgment [S14], [S21], [S25]. Search later register years if the entry is absent in the death year. Some September 1914 deaths appear in the 1918 registers [S25]. Record the death, judgment and transcription dates separately when stated.
+
 ## Output
 
 For each act, return a table with these fields:
@@ -118,7 +149,8 @@ For each act, return a table with these fields:
 - commune, register type and image locator
 - act date
 - event date (literal, converted or resolved, and the converter used)
-- declarants, in order
+- names, places and family details stated for the act type
+- declarants, in order, with their roles and any stated kinship
 - the status limit for each spouse and parent
 - *je dis* corrections (kept value / superseded value)
 - the basis of each parental death statement

@@ -33,6 +33,30 @@ narrative and named family conclusions are not adopted as verified claims.
 
 - **S13:** [Code civil, article 331, version in force 31 March 1804](https://criminocorpus.org/fr/legislation/droit/civil/premier/vii/iii/i/1804-03-31/). Historical statutory text read 2026-11-19. Specifies both parents’ recognition before or in the marriage act and the exclusions in that version.
 
+- **S14:** Talya, MyHeritage Blog, [New Historical Records Added in January and February 2022](https://blog.myheritage.com/2022/02/new-historical-records-added-in-january-and-february-2022/), published 2022-02-27. Community post read 2026-11-20. The Val-de-Marne sections describe the birth and death indexes with images and give leads for marginal notes, deaths at birth and late military entries. The worked birth example lists ages for both parents. The catalog and historical sources below establish the scope of the collection and the corrected routes for declarants and transcriptions.
+
+- **S15:** Esther Shuman, MyHeritage Blog, [MyHeritage Adds 66 Million Historical Records in May 2026](https://blog.myheritage.com/2026/06/myheritage-adds-66-million-historical-records-in-may-2026/), published 2026-06-07. Community post read 2026-11-20. The Belgian sections describe fields for each act type. The collection descriptions give 1925 for births, 1938 for marriages and 1950 for deaths. The summary table labels all three 1800–1950. The catalog in S18 supports the end years given in the descriptions.
+
+- **S16:** MyHeritage, [Collection catalog for French vital records](https://www.myheritage.de/research/records-catalog/france?categoryName=birth-records&years=1700-1799). German catalog listings read 2026-11-20. The Val-de-Marne birth and death listings show 1792–1900 and 1792–1937 respectively and identify both as collections with images. The check covers the public listings.
+
+- **S17:** MyHeritage, [France, Val-de-Marne, Civil Deaths](https://www.myheritage.com/research/collection-10990/france-val-de-marne-civil-deaths). German collection description read 2026-11-20 after locale redirect. It gives the 1792–1937 span and says coverage and completeness vary by commune. The check covers the public description and search form.
+
+- **S18:** MyHeritage, [Collection catalog for Belgian vital records](https://www.myheritage.com/research/records-catalog/belgium/birth-marriage-death/catid-2000). Public catalog listings read 2026-11-20. The birth, marriage and death titles show 1800–1925, 1800–1938 and 1800–1950 respectively. The check covers the collection listings.
+
+- **S19:** State Archives of Belgium, AGATHA, [Genealogy: how to get started?](https://agatha.arch.be/en/help/beginning/). Civil status guidance read 2026-11-20. Describes birth, marriage and death fields and using a municipality’s index or ten-year table to find the register entry. Used for interpreting fields and locating images by commune.
+
+- **S20:** Criminocorpus, [Code civil, Des actes de naissance, version in force 21 March 1803](https://criminocorpus.org/fr/legislation/droit/civil/premier/ii/ii/1803-03-21/). Historical statutory text read 2026-11-20. Article 56 identifies the birth declarants and article 62 provides for a separate recognition act and a marginal reference when a birth act exists.
+
+- **S21:** Criminocorpus, [Code civil, Des actes de décès, version in force 18 May 1918](https://criminocorpus.org/fr/legislation/droit/civil/premier/ii/iv/1918-05-18/). Historical statutory text read 2026-11-20. Articles 78 and 79 distinguish declarants and stated kinship. Article 92 locates declaratory judgment transcriptions in the register of the last domicile when known.
+
+- **S22:** Archives départementales du Val-de-Marne, [Rechercher un acte d’état civil](https://archives.valdemarne.fr/fichier/61340/2536). Archive research guide read 2026-11-20. Gives the commune-and-year route into civil tables and registers, illustrates parental ages in a birth act and identifies recognition and legitimation as distinct marginal mentions.
+
+- **S23:** Légifrance, [Décret du 4 juillet 1806 sur l’enfant présenté sans vie](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069465/2024-02-13). Historical decree read 2026-11-20. Articles 1 and 2 specify the wording, parental details and entry in the death register without deciding whether the child had lived.
+
+- **S24:** Archives départementales de l’Orne, [Histoire d’un Poilu](https://archives.orne.fr/node/36). Archive research guide read 2026-11-20. Describes the place and date of civil transcription recorded on the First World War death cards in the Mémoire des Hommes *Morts pour la France* database.
+
+- **S25:** French Senate, [Documents parlementaires, session ordinaire de 1919](https://www.senat.fr/comptes-rendus-seances/3eme/pdf/documents_parlementaires/1919/DP1919_001_096.pdf). Explanatory memorandum to Annex No. 5 read 2026-11-20. Describes transcriptions in the communes of domicile and gives the example of September 1914 deaths transcribed in 1918. Used for contemporary evidence about the routing and delay.
+
 ## Credits
 
 - Archives du Gard, Fondation Napoléon, Heemkunde Nieuwerkerken, Belgian Chamber of Representatives and Criminocorpus (S9–S13) — Calendar tables, historical guidance and legal texts paraphrased (adapted)
@@ -41,3 +65,6 @@ narrative and named family conclusions are not adopted as verified claims.
 - Elise Lenoble, Auprès de nos Racines, Rechercher dans les archives de l’état civil de Paris, 2024-12-29 — cited procedural source; no record images reproduced (adapted)
 - Archives de la Ville de Bruxelles, État civil, and State Archives of Belgium, Archives à consulter, cited as S7 and S8 — Facts paraphrased with attribution (adapted)
 - Kinprove original procedural synthesis, including the conditional marginal-note locator, subject and copy checks attributed to S4; the presenter's reading techniques and worked examples are cited as S1 and S2; Belgian archive routing is checked against the State Archives and pages cited as S5; the Paris loss date and one-third figure are paraphrased from the Archives de Paris page cited as S6 — FSL-1.1-MIT (kinprove-original)
+- Talya, Esther Shuman and MyHeritage (S14–S18) — Blog and catalog information paraphrased with attribution (adapted)
+- State Archives of Belgium and Archives départementales du Val-de-Marne and de l’Orne (S19, S22, S24) — Archive research guidance paraphrased with attribution (adapted)
+- Criminocorpus, Légifrance and the French Senate (S20–S21, S23, S25) — Historical statutory and parliamentary texts paraphrased with attribution (adapted)

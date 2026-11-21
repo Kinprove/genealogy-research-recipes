@@ -210,7 +210,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [family-photograph-attribution-and-dating](skills/genealogy-research-recipes/recipes/family-photograph-attribution-and-dating.md) | record catalogues and original images | — | — | link, publish, third-party-tool | contact | required |
 | [familysearch-practical-record-workflows](skills/genealogy-research-recipes/recipes/familysearch-practical-record-workflows.md) | familysearch | — | — | export, publish, upload | contact | required |
 | [find-a-grave-memorial-corrections](skills/genealogy-research-recipes/recipes/find-a-grave-memorial-corrections.md) | public catalogues, documentation and historical records | — | — | publish, request | contact | required |
-| [french-belgian-civil-act-extraction](skills/genealogy-research-recipes/recipes/french-belgian-civil-act-extraction.md) | record catalogues and original images | — | — | — | — | — |
+| [french-belgian-civil-act-extraction](skills/genealogy-research-recipes/recipes/french-belgian-civil-act-extraction.md) | record catalogues and original images | — | — | third-party-tool | — | required |
 | [french-canadian-register-recovery](skills/genealogy-research-recipes/recipes/french-canadian-register-recovery.md) | record catalogues and original images | — | — | — | — | — |
 | [french-departmental-record-routing](skills/genealogy-research-recipes/recipes/french-departmental-record-routing.md) | record catalogues and original images | — | — | request | — | required |
 | [ftdna-practical-dna-workflows](skills/genealogy-research-recipes/recipes/ftdna-practical-dna-workflows.md) | familytreedna | — | — | export, link, publish | — | required |
