@@ -59,9 +59,12 @@ The search order, the miss-is-not-absence tests, the age rule and its threshold,
 
 - **S51:** Talya, MyHeritage Blog, [Free Irish Records for St. Patrick’s Day](https://blog.myheritage.com/2023/03/free-irish-records-for-st-patricks-day/), 14 March 2023. Community source. Published text read 2026-11-20. The post uses James Joyce’s 1901 entry to show switching between individual records in Household and points to the top-right control for the census image. The live sample record could not be opened to verify either control or the image link’s destination.
 - **S52:** MyHeritage, [1901 Ireland Census](https://www.myheritage.com/research/collection-10199/1901-ireland-census). Public catalogue entry read 2026-11-20. The collection credits the National Archives of Ireland for its index and images and links the Joyce sample. The catalogue does not document the controls on an individual record.
+- **S53:** Esther Shuman, MyHeritage Blog, [Celebrate St. Patrick’s Day with Free Access to 14 Million Irish Records on MyHeritage!](https://blog.myheritage.com/2024/03/celebrate-st-patricks-day-with-free-access-to-14-million-irish-records-on-myheritage/), 14 March 2024. Community source. Published text read 2026-11-21. Shuman links both census collections and suggests comparing the years to see changes over time. The free-access announcement was for a March 2024 promotion.
+- **S54:** MyHeritage, [1911 Ireland Census](https://www.myheritage.com/research/collection-10198/1911-ireland-census). Public catalogue entry read 2026-11-21. The entry shows the collection search form and credits the National Archives of Ireland for its index and images. Only the public catalogue was inspected.
 
 ## Credits
 
+- Community source S53 — MyHeritage Blog, rights retained by its owners, with the two-year comparison suggestion paraphrased (adapted)
 - Community source S51 — MyHeritage Blog, rights retained by its owners, with the two navigation steps paraphrased (adapted)
 - Community sources S37 — Third-party content, rights retained by its owners; short attributed paraphrases of the inspected text excerpts (adapted)
 - Community source S38, accessed via S39 — Family Tree Magazine interview with Daniel Loftus; rights retained by their owners; attributed paraphrase of the census research advice (adapted)
