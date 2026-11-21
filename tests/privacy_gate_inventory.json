@@ -3664,5 +3664,17 @@
   "kind": "contact",
   "action": "ask a local heritage group or a resident the user already knows",
   "checkpoint": "A former cemetery inquiry shares the historical site locator"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "link",
+  "action": "open the result's document view and attach the image as a source",
+  "checkpoint": "Linking a Full Text result sends the record reference"
+ },
+ {
+  "recipe": "familysearch-practical-record-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Right-click the outside record page and use Goldie May's offered FamilySearch attachment",
+  "checkpoint": "A record page can send names, dates and relationships of living people to Goldie May"
  }
 ]
