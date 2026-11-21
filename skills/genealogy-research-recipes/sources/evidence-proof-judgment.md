@@ -376,6 +376,34 @@ Maintenance note, 2026-11-16: comparing a unit's collective residences and dated
 
 <!-- markdownlint-enable MD029 -->
 
+333. Aíne Lagan, *Why Do Census Records Sometimes Have Conflicting Information?*, MyHeritage Blog (2025-05-05) — <https://blog.myheritage.com/2025/05/why-do-census-records-sometimes-have-conflicting-information/> — community article read 2026-11-20. Lagan suggests testing an informal given name, partner surname, reported marital status and simultaneous jobs when census returns conflict. The article supplies no basis for frequencies or for inferring an individual's motive. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+334. Registrar General, *1851 England and Wales census household schedule and instructions*, reproduced by IPUMS International — <https://international.ipums.org/international-action/source_documents/enum_form_uk1851a_tag.xml> — household schedule and instructions read 2026-11-20. The instructions allow someone following multiple trades to return them in order of importance. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+335. *Royal Bloodlines: Are You Descended From Royalty?*, MyHeritage Blog (2025-01-16) — <https://blog.myheritage.com/2025/01/royal-bloodlines-are-you-descended-from-royalty/> — community article read 2026-11-20. Used for the suggestion to correlate genetic results with the find location, skeletal evidence and written accounts. The test results and pedigrees are taken from King et al. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+336. Turi E. King et al., *Identification of the remains of King Richard III*, Nature Communications 5, 5631 (2014-12-02) — <https://www.ucl.ac.uk/life-sciences/sites/life_sciences/files/King-etal_NatComm14_RichardIII.pdf> — article abstract and identification discussion read 2026-11-20. The researchers weighed the mitochondrial comparisons and the Y-chromosome mismatch with archaeological and historical evidence. They discussed a break between recorded and biological paternity in any intervening generation as a possible explanation for the mismatch. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+337. David Ridd, *Unisex Names: Are They Actually Common?*, MyHeritage Blog (2026-01-13) — <https://blog.myheritage.com/2026/01/unisex-names-are-they-actually-common/> — community article read 2026-11-20. Ridd recommends testing the identity implied by a given name with independent demographic and household descriptors. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+338. Marketa Svelebil, *From Royalty to Refugees: Uncovering the Incredible Stories of My Family with MyHeritage*, MyHeritage Blog (2025-08-31) — <https://blog.myheritage.com/2025/08/from-royalty-to-refugees-uncovering-the-incredible-stories-of-my-family-with-myheritage/> — community article read 2026-11-20. Svelebil reports that a Czech historical account identified the estate manager Antonín Veith as the proprietor's nephew through Johann, his brother. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+339. *Jakub Veith – vyloupená hrobka a šlechtický titul*, Volarský zpravodaj (January 2024) — <https://www.kic-volary.cz/assets/files/culture-bulletin/cs/182/VZ_1_2024_web.pdf?lastChange=20240102081536&version=56> — relevant article passage read 2026-11-20. The municipal bulletin identifies Johann as Jakub's brother and Johann's son Antonín as the Semily estate manager. It distinguishes him from other Veiths named Anton or Antonín. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+340. Family Tree Magazine, *Become a 20th Century Census Expert — An Interview with Gena Philibert-Ortega* (2022-04-27) — <https://www.youtube.com/watch?v=olzP8iOWMdQ> — supplied transcript excerpt read 2026-11-20. The speaker suggests that some families may have paid for inclusion in county or town histories. The video could not be opened. The period editorial supplies the example of selection by subscription. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+341. *County Histories*, Editorial Department, Annals of Iowa (July 1899), pp. 151–152, reproduced by Hanover College — <https://history.hanover.edu/courses/excerpts/360county.html> — reproduced editorial read 2026-11-20. It describes a county history with a directory limited to subscribers. The example gives a selection rule to look for in a specific work. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+342. Just Genealogy, *The Genealogical Proof Standard: Element 4, Resolving Conflict - JG0195* (2022-09-20) — <https://www.youtube.com/watch?v=RymRlIhHj6M> — supplied transcript excerpt read 2026-11-20. The presenter reports two Social Security applications for the same person naming different parents. The video could not be opened and the applications were not inspected. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+343. U.S. National Archives, *Frequently Asked Questions: Numerical Identification (NUMIDENT) Files* (July 2022) — <https://aad.archives.gov/aad/content/aad_docs/rg047_num_faq_2022July.pdf> — application fields and multiple-record FAQ read 2026-11-20. The documentation identifies the parental fields and describes why someone may have submitted multiple applications. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+344. Just Genealogy, *Beginning Genealogy #2 - Become the skeptic - JG0045* (2022-04-26) — <https://www.youtube.com/watch?v=ot8YwH48nN8> — supplied transcript excerpt read 2026-11-20. The presenter suggests Crowder's book when evaluating unusually young service. The video could not be opened and the excerpt does not verify a minimum age. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+345. United Empire Loyalists' Association of Canada, *Loyalist Trails*, no. 14 (2018), book notice for Jack Darrell Crowder's *Underage Warriors* — <https://epe.lac-bac.gc.ca/100/201/300/loyalist_trails/2018_no01_onward/no14.pdf?nodisclaimer=1> — archived book notice read 2026-11-20. The notice describes Crowder's use of the veterans' pension applications. The notice was read as a guide to the book and its sources. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
+346. U.S. National Archives, *Numerical Identification Files, Supplemental User Note 5: Number of Records and Unique SSNs* — <https://aad.archives.gov/aad/content/aad_docs/rg047_num_sup_notes_2-6.pdf> — Supplemental User Note 5 application-record passage read 2026-11-20. The note describes entries created by new applications and by administrative updates, and points to the entry code and cycle date as aids in distinguishing records. Rights: cited reference, not reproduced. <!-- markdownlint-disable-line MD029 -->
+
 ## Credits
 
 - Talks cited individually as sources 328–332 — Third-party talks, paraphrased from captured transcripts (adapted)
@@ -390,3 +418,6 @@ Maintenance note, 2026-11-16: comparing a unit's collective residences and dated
 - Laura Hedgecock interview and Treasure Chest of Memories blog, cited as sources 317 and 319 — Third-party video and blog; paraphrase with attribution (adapted)
 - Just Genealogy recorded talks on YouTube, cited as sources 320 and 323 — Third-party videos; paraphrase with attribution (adapted)
 - Kathryn's Quest and Genealogy Jude, cited as sources 321 and 326 — Third-party blogs; paraphrase with attribution (adapted)
+- Aíne Lagan, MyHeritage Blog editors and David Ridd, cited as sources 333, 335 and 337 — Third-party blog posts, paraphrased with attribution (adapted)
+- Marketa Svelebil, MyHeritage Blog, cited as source 338 — Third-party blog post, paraphrased with attribution (adapted)
+- Family Tree Magazine and Just Genealogy, cited as sources 340, 342 and 344 — Third-party recorded talks, paraphrased from supplied transcript excerpts (adapted)
