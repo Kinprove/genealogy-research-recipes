@@ -86,6 +86,16 @@ The presenters supply the examples and the failure modes.
 
 - **S40:** Georgia Archives, [Virtual Vault Collections](https://www.georgiaarchives.org/assets/documents/Virtual_Vault_Handout_Lunch_and_Learn_final_June_2020.pdf). Read 2026-11-19 for the Bible Records Microfilm Index without images.
 
+- **S41:** Just Genealogy, [Genealogy Pastime and Profession - Chapter Twelve - Source Material](https://www.youtube.com/watch?v=5Gx_gZfVHE4), published 2024-08-13. This reading of Donald Lines Jacobus was reviewed from supplied transcript excerpts on 2026-11-20. The YouTube search listing identifies the reading, and the watch page could not be opened. Jacobus describes his experience of discrepancies between retrospectively entered Bible birth dates and the same family's baptisms, including errors for the eldest child. He advises giving the original reading alongside the correction and points to Connecticut State Library copies for gaps in public records. [S42] supplies the current index scope. The excerpts supply no basis for an error rate or a standard adjustment to a birth date.
+
+- **S42:** Connecticut State Library, [Bible & Family Records](https://libguides.ctstatelibrary.org/hg/genealogyindexes/bible), in *Genealogy Indexes*. Read 2026-11-20 for the alphabetical statewide slip index, the volume and page locators for the transcriptions, and the separate index in volume 27.
+
+- **S43:** Garfield Clack, [Searching for Elusive Eliza: An Africa-England Odyssey](https://www.bifhsgo.ca/uploads/files/ACR/2005-2009/2006%20Vol%2012/ACR_Vol_12_No3_Fall_2006.pdf), *Anglo-Celtic Roots* 12, no. 3 (Fall 2006), pp. 95–99. Article read 2026-11-20. Clack compared a birth date in a Bible with the baptism in the Caversham parish register. The interval and other evidence left open whether the Bible's birth year was wrong or the baptism took place more than a year after birth.
+
+- **S44:** Just Genealogy, [Genealogy as Pastime and Profession, Chapter VI - Royal Ancestry - JG0331](https://www.youtube.com/watch?v=G1liYml2_-8), published 2023-09-23. This reading of Donald Lines Jacobus was reviewed from supplied transcript excerpts on 2026-11-20. The YouTube search listing identifies the reading, and the watch page could not be opened. Jacobus describes a pedigree from an American family to an English titled house based on forged Bible entries. In his account, the printing and handwriting exposed the forgery to a reader familiar with the period script. The account supplies the comparison to make, and the specific forgery was not independently verified.
+
+- **S45:** University of Delaware Library, Museums and Press, [Manuscript Forgeries](https://exhibitions.lib.udel.edu/things-arent-what-they-seem/home/manuscript-forgeries/), from *Things Aren't What They Seem*. Read 2026-11-20 for the displayed 1823 copy of *Essays on Petrarch* with a forged Byron inscription and for examples of handwriting that conflicts with a manuscript's purported date.
+
 ## Credits
 
 - Diana Elder, Effie Kelsey and BitterSweet: A Poem - Researching Material Culture, FamilyLocket blog, 2025-02-02 — All rights reserved; short attributed adaptation (adapted)
@@ -97,5 +107,7 @@ The presenters supply the examples and the failure modes.
 - Kenneth R. Marks, The Ancestor Hunt, cited as S30, and Tharp Funeral Home, cited as S31 — Third-party content, all rights reserved by the rights holders; short paraphrase with attribution (adapted)
 - Just Genealogy, The Genealogical Proof Standard: An Overview - JG0123, YouTube, 2022-07-09, cited as S32 — Standard YouTube License (all rights reserved); short attributed paraphrase (adapted)
 - Elizabeth Shown Mills, QuickLesson 17: The Evidence Analysis Process Map, Evidence Explained, cited as S33; DoHistory, Martha Ballard's Story – Chapter 16, cited as S34; and Anne Frank House, The two versions of Anne's diary, cited as S35 — Third-party content, all rights reserved by the rights holders; short paraphrase with attribution (adapted)
+- Donald Lines Jacobus, Genealogy as Pastime and Profession, chapters XII and VI, read by Just Genealogy, cited as S41 and S44 — Rights remain with the respective rights holders, short attributed paraphrase (adapted)
+- Connecticut State Library, Bible & Family Records, cited as S42, Garfield Clack, Searching for Elusive Eliza, cited as S43, and University of Delaware Library, Museums and Press, Manuscript Forgeries, cited as S45 — Rights remain with the respective rights holders, short attributed paraphrase (adapted)
 - Kinprove original source annotations — FSL-1.1-MIT (kinprove-original)
 - Kinprove original procedural synthesis; presenter examples and guidance paraphrased with attribution and cited as S1-S28 — FSL-1.1-MIT (kinprove-original)
