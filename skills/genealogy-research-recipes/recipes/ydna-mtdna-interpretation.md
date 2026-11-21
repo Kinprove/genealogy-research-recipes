@@ -26,6 +26,7 @@ router: {"section": "DNA", "group": "DNA reasoning", "order": 21}
 - Prompt-craft (how to keep an assistant honest here)
 - Pitfalls worth internalizing (least-obvious, most-LLM-usable)
 - Keep an ancient-sample catalogue query separate from ancestry inference
+- Evaluate lineage evidence for historical remains
 - Inventory lineage and test coverage before choosing another tester
 - Build a maternal pedigree and locality worklist
 - Combining tests: establish which ancestral path each supports
@@ -253,6 +254,12 @@ from the label lookup.
 **Check a proposed Indigenous American direct-maternal connection at the measured subclade.** Relevant founder branches occur within A, B, C, D and X, which also contain lineages elsewhere (Tamm et al., partially read [N124 @2026-11-12]; [N125 @2026-11-12]). Compare the full-sequence path with the specific founder branch [N107 @2026-11-12]. The Ancient Connections report identifies the shared node and its estimated age [N126 @2026-11-12]. In the published comparison, Radegonde Lambert’s inferred X2b4g and Kennewick Man’s X2a share the older X2 node [N121 @2026-11-12]. Limit the inference to the tested maternal line.
 
 Kennewick Man’s sequenced mitochondrial genome lies at the root of X2a [N147]. A match at the older X2 node cannot establish descent from an X2a founder.
+
+## Evaluate lineage evidence for historical remains
+
+**Trace a maternal comparison through a sister who shared the proposed individual's biological mother.** Document the descent through daughters at every intermediate generation [N149], [N150], [N151]. The final comparison relative may be a son or a daughter [N150], [N151]. Compare available mtDNA results over the regions both results cover [N150].
+
+**Weigh a Y-DNA mismatch alongside the other identification evidence.** Recheck both paternal paths from their proposed common ancestor for a pedigree error or misattributed paternity [N149], [N150]. Keep the identification under consideration when the maternal comparison, burial context, skeletal findings, dating or historical records still support it [N150]. The Richard III study identified the remains despite a Y-DNA mismatch with distant paternal-line relatives [N150].
 
 ## Inventory lineage and test coverage before choosing another tester
 
