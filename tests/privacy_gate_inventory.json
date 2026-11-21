@@ -3382,5 +3382,17 @@
   "kind": "contact",
   "action": "Ask an operating congregation which editions it holds",
   "checkpoint": "A congregation inquiry sends the user’s name and reply address"
+ },
+ {
+  "recipe": "german-register-image-recovery.md",
+  "kind": "third-party-tool",
+  "action": "Search MyHeritage's separate collection",
+  "checkpoint": "The deceased person's search name"
+ },
+ {
+  "recipe": "german-register-image-recovery.md",
+  "kind": "contact",
+  "action": "Ask an existing village contact",
+  "checkpoint": "The message gives an existing village contact"
  }
 ]
