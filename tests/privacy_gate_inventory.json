@@ -3316,5 +3316,11 @@
   "kind": "third-party-tool",
   "action": "Change the Breakdown origin",
   "checkpoint": "before opting in to generate reports or requesting a recalculation"
+ },
+ {
+  "recipe": "family-interviews-and-oral-tradition.md",
+  "kind": "upload",
+  "action": "open the photo, tap the microphone, record the story",
+  "checkpoint": "Saving a photo story sends the narrator's voice and any details about living people in the recording to MyHeritage"
  }
 ]
