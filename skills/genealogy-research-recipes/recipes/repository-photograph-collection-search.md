@@ -56,6 +56,8 @@ Start from the family's locality and date range, not from the name. List these c
 
 Use only collections whose catalogue or description actually covers the place and period. Do not assume that a photographer's work survives for the family's town.
 
+**Historical California views.** Search the California Historical Society holdings by town, neighborhood or mission name. According to Nancy Hendrickson’s guide, the USC digital series is titled *California Historical Society Collection, 1860–1960* [S55† @2026-11-20]. Search Stanford’s SearchWorks and Archival Collections for the transferred holdings, and check the collection page for digitization updates [S56 @2026-11-20] [S58 @2026-11-20]. Record the item’s date and medium so a mission drawing stays distinct from a photograph. Log a catalogue description without an image as a lead.
+
 For a town, church or school in Russia, add History of Russia in Photographs (russiainphoto.ru). On 2026-11-12 its About page described 214,551 photographs taken on the territory of Russia from 1840 to 1999; 174,880 were placed by museums, archives and private owners and 39,671 uploaded by site visitors. It can be searched by the place where the print or negative is kept, and photos with a recorded location appear on a map [S33 @2026-11-12]. Vera Miller suggests starting with a surname or a town or village name translated into Russian, and reports portraits, class graduations, churches and street views among its photos [S34 @2026-11-12]. Use a hit as a place or context image. Record the holder and caption as the holder's claim, keep visitor uploads apart from museum and archive items, and never identify a person in it by appearance.
 
 PastVu (pastvu.com) collects users' images of human life and settlements up to the year 2000. Moderators select what is published, the uploader enters the year and the source, and comments serve to discuss the images [S38 @2026-11-16]. On its map, images are grouped into clusters that split into smaller clusters or single images as you zoom in; a time slider limits the markers to a range of years, and a thumbnail opens the full image with its information [S39 @2026-11-16].
@@ -142,6 +144,12 @@ Use [archival image coverage verification](archival-image-coverage-verification.
 
 **Then search the manuscript finding aids.** The same presenter notes that many photographs in BYU's manuscript collections had not been digitized and would not appear in the digital photo collections [S3]. Search the manuscript finding aids at every repository, not only at BYU.
 
+**Library of Congress.** For a place or subject covered by the Library of Congress, search Digital Collections [S47 @2026-11-20] [S57 @2026-11-20] and the Prints & Photographs Online Catalog [S48 @2026-11-20]. Record description-only hits separately from images you opened. When the online catalogue leaves a gap, check the division’s on-site finding aids and picture files [S48 @2026-11-20].
+
+**Privacy gate:** <!-- privacy-gate: contact --> A museum inquiry sends the user’s name and reply address, the exhibit reference and any details about people named in the inquiry to museum staff. Use public exhibit references and answer the privacy gate in `SKILL.md` before sending.
+
+**Museum exhibits and off-display photographs.** According to Lisa Lisson’s guide, start with local-history exhibits that cover the ancestor’s period, occupation or cause [S51†]. Browse the photographs on display and follow their credits to the holding collection. Use the exhibit title and any item numbers to ask the museum curator about related photographs off display [S54]. Log what you actually examined on each surface.
+
 **Log each surface separately.** For each one, record:
 
 - the collection
@@ -161,6 +169,12 @@ Some records about a person include that person's photograph, and for some famil
 - **Alien Files (A-files).** They can contain photographs among visas and applications [S22]. The 1940 alien registration form (AR-2) records a fingerprint and a physical description, not a photograph [S23].
 - **U.S. federal prison inmate case files.** They can include identification photographs. The National Archives at Kansas City holds Leavenworth files for 1895 to 1957, and most include a mugshot, with front and side views [S29], [S24]. The National Archives at San Francisco holds Alcatraz files dated mainly 1934 to 1963, with prisoner identification photographs [S25].
 - **Soviet internal passports and personnel files.** Under the 1974 Passport Regulation, applicants handed in two photographs, and new ones were pasted in at ages 25 and 45, so one passport can hold portraits from different ages [S26]. To bound the date of each, see [family photograph attribution and dating](family-photograph-attribution-and-dating.md). A workplace personnel file (личное дело) may have a photograph pasted in, but not always [S27]; to find the file, see [Soviet personal-file recovery](soviet-personal-file-recovery.md).
+
+**Privacy gate:** <!-- privacy-gate: contact --> A congregation inquiry sends the user’s name and reply address to the congregation and may disclose the religious affiliation of relatives named in it. Start with the congregation name and edition years, and answer the privacy gate in `SKILL.md` before sending.
+
+**Congregation histories and pictorial directories.** According to Lisa Lisson’s guide, look in published histories for early members, leaders and groups such as choirs or children’s programs, and in pictorial directories for family or individual portraits [S51†] [S52]. Browse both kinds of historical publication. Ask an operating congregation which editions it holds. For a closed congregation, check local libraries and the denomination’s regional or diocesan archives [S52] [S53].
+
+**World War II service photographs.** For a service member, browse military photograph collections and yearbooks for the documented unit and period [S49]. For a U.S. Army unit, search under its parent formation at the time and its campaign locations as well as the unit’s name [S50]. Label group images as context unless a caption or other documentation links the person to the image. Record the identification as an attribution.
 
 ## Add family-uploaded memorial portals in former Soviet cases
 
