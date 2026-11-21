@@ -3436,5 +3436,17 @@
   "kind": "third-party-tool",
   "action": "obituary index on MyHeritage or JewishGen by the deceased person's public name",
   "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "try capturing one facing-page spread in a single shot in the user's Reimagine app",
+  "checkpoint": "Batch scanning sends album-page images, including photographs and inscriptions about people who may still be living, to MyHeritage"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "enter supported titles, dates or places inline",
+  "checkpoint": "Saving photo titles, dates or places sends details about the pictured people"
  }
 ]
