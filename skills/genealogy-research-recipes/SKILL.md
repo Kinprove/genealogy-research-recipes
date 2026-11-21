@@ -499,6 +499,7 @@ shared with others. Refer to them by role, for example "a witness".
 
 - `recipes/illegitimacy-record-recovery.md` — Find the bastardy bonds, court cases, support orders and church entries a birth outside marriage could create.
 - `recipes/institutional-patient-record-recovery.md` — Find asylum or state-hospital patient records through custodians, courts and newspapers, including Dutch admission correspondence.
+- `recipes/child-placement-and-orphan-train-records.md` — Find an orphanage admission, foster placement or orphan-train file and establish whether a separate legal adoption followed.
 
 ### Family papers, photographs and oral history
 

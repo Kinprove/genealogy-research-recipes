@@ -3676,5 +3676,11 @@
   "kind": "third-party-tool",
   "action": "Right-click the outside record page and use Goldie May's offered FamilySearch attachment",
   "checkpoint": "A record page can send names, dates and relationships of living people to Goldie May"
+ },
+ {
+  "recipe": "child-placement-and-orphan-train-records.md",
+  "kind": "request",
+  "action": "Request the placement file using the agency locator",
+  "checkpoint": "the child's names, estimated dates and placement clues"
  }
 ]
