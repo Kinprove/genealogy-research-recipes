@@ -49,11 +49,27 @@ Classify each service clue into exactly one working type, and record the basis f
 
 - **Company books.** For 1812–15, NARA Record Group 98 (Records of United States Army Commands, 1784–1821) holds company books and order books for many regular infantry regiments, the 2nd and 3rd Artillery, the 1st and 3rd Rifle regiments and the Light Dragoons [S13 @2026-11-16]. One presenter (only transcript excerpts read) says these company and descriptive books carry the same kinds of detail as the Register [S9 @2026-11-16]. Search them when the Register entry is thin or the man is missing from it.
 
+**Privateering commissions.** For a Revolutionary letter of marque, identify the vessel and issuing authority before choosing a record series. Follow Continental Congress commissions and state-issued commissions as separate leads [S34 @2026-11-20] [S35 @2026-11-20]. For the War of 1812, start with the State Department's letters-of-marque correspondence in RG 59, M588, roll 1. Check applications and abstracts returned by customs collectors as well as applications sent directly to the department [S36 @2026-11-20].
+
+**Navy muster and pay rolls.** If the Navy rolls in RG 45 or RG 24 leave a gap [S58 @2026-11-20], check the Treasury series in National Archives RG 217, §217.9.5. Use its card index (1828–1907) to find muster, pay and receipt rolls (1820–1898) [S38 @2026-11-20]. Follow the presenter's advice (only transcript excerpts read) to check the index by ship or shore station even when the series description suggests a gap, then look for the relevant dates in the rolls [S37 @2026-11-20].
+
+For a Coast Survey vessel or revenue cutter that operated with the Navy [S61] [S39], search by vessel name in the Navy muster rolls. Also test the vessel name in the Treasury index when the Navy rolls leave a gap, as the presenter suggests (only transcript excerpts read) [S37].
+
 If the type is unknown, keep two or more routes open. Do not choose one by default. Expect a man to have service of more than one type. An empty or incomplete CMSR search does not end the search. Check pension and state records for service the CMSR leaves out (pension recipe §4).
 
 **Quaker meeting clues.** Treat a Revolutionary-era Quaker monthly meeting minute that mentions military activity as a claim lead [S28]. Use any place of service named in the minute [S25] to choose the compiled service, pension and bounty-land records to search. Match each series to the probable service type and its eligibility rules (§2) [S29]. Keep the meeting's location separate from the place of service unless the minute connects them.
 
 With a known NARA microfilm-publication number, look it up in NARA's digitization-partner table and follow the listed collection links. Keep the National Archives Catalog Availability Status column separate from the extent of each partner's collection; check the target collection's coverage before reading a miss. Do not assume that a provider's name search indexes the publication number, or that a link to one partner proves the whole series is online. [S23 @2026-11-16](https://www.pricegen.com/7512-2/) [S24 @2026-11-16](https://www.archives.gov/digitization/digitized-by-partners)
+
+**Death during the War of 1812.** For a regular enlisted soldier, inspect the Remarks field in the Register of Enlistments (M233). Read the full page for other death entries only when the question covers other soldiers as well, as the presenter suggests (only transcript excerpts read) [S48] [S49]. Treat a notation in the Register as a lead to the roll or other original record.
+
+For a volunteer, follow the presenter's advice (only transcript excerpts read) to check the full compiled military service record for a death notation or related personal paper [S48] [S10]. Use a silent file as a reason to check the unit rolls.
+
+For a death lead, follow the presenter's advice (only transcript excerpts read) to inspect the original unit muster roll's Remarks field when a published roster is silent [S48 @2026-11-20]. Use the National Archives' RG 94 finding aids to distinguish the volunteer War of 1812 rolls (NAID 654644) from regular-army rolls (NAID 654583) [S50 @2026-11-20]. For regulars, search by arm of service, regiment, company and date [S49 @2026-11-20].
+
+For a regular unit, use the National Archives RG 98 guide to locate surviving company books by regiment [S13 @2026-11-20]. Check the descriptive entries and rosters of men separated from service for a death [S51 @2026-11-20]. Start with the company or regiment and date, following the presenter's advice (only transcript excerpts read) [S48 @2026-11-20].
+
+**Hardy County militia officers.** Follow the presenter's lead (only transcript excerpts read) to search county court minutes and orders for recommendations [S54 @2026-11-20]. For the late 1790s through the War of 1812, start with the Library of Virginia's Hardy County Record Book 4 (1795–1798, reel 3) and use the 1795–1812 index (reel 11) and the later volumes to look for appointments or promotions. Check the overlapping volumes against the dates sought [S55 @2026-11-20].
 
 ## 2. Write each series' eligibility rule before reading a miss
 
@@ -76,6 +92,20 @@ Build a routing table with one row per series: custodian, coverage, eligibility 
 
   - **Tennessee.** *Tennessee Soldiers in the War of 1812: Regiments of Col. Allcorn and Col. Allison* (Penelope Johnson Allen, with the National and Tennessee Societies of the U.S. Daughters of 1812, 1947) is limited by its title to those two regiments [S19]. A miss there says nothing about other Tennessee service.
 
+**Mexican War horse claims.** For mounted service with a clue to the loss of a horse, search the Third Auditor's Claims Division in National Archives RG 217, §217.8.5, beginning with the abstracts of horse claims (1846–1865) [S38 @2026-11-20]. The presenter points to the horse-claim route (only a transcript excerpt read) [S40 @2026-11-20]. Capture the unit, appraisal, loss and replacement details where stated. Use the claim as a lead to the tour and check the service rolls [S41 @2026-11-20].
+
+**Georgia frontier militia claims.** For service on the Georgia frontier in 1792–94, search the five rolls of M1745, *Claims for Georgia Militia Campaigns Against Indians on the Frontier, 1792–1827* [S44 @2026-11-20]. The National Archives lists the publication as fully digitized in its Catalog [S43 @2026-11-20]. Search the Catalog by publication number. Use the M1745 finding aid to locate the voucher, as the presenter suggests (only transcript excerpts read), and open the corresponding roll [S42 @2026-11-20].
+
+**Colonial militia substitutes.** If a man is missing from a colonial expedition's service roll, check whether the local rules let a man chosen for duty furnish a substitute or pay for one. Follow the presenter's lead (only transcript excerpts read) and look for a substitution or fine entry that names him before treating the roll search as conclusive [S45] [S46].
+
+**New Jersey War of 1812 deaths.** Check the muster-roll entries in *Records of Officers and Men of New Jersey in Wars, 1791–1815* for an explicit death remark, as the presenter suggests (only transcript excerpts read) [S48] [S60]. Carry the unit and date to the original rolls if the printed entry leaves details unresolved.
+
+**Virginia militia company to county.** Use the commander index and county-by-county listings in Part III of Stuart Lee Butler's *A Guide to Virginia Militia Units in the War of 1812* to match a known company to a county. The presenter suggests the county route (only transcript excerpts read) [S48] [S52]. Carry the company and county into the state and federal searches. Use this as a unit guide and verify the soldier's service in a roll or service file.
+
+**Maryland privateering in the War of 1812.** Check chapter II of William M. Marine's *The British Invasion of Maryland, 1812–1815* and its appendix for a person or vessel connected with privateering, as the presenter suggests (only transcript excerpts read) [S48] [S53]. Treat a hit as a lead to the commission records (§1).
+
+**Delaware and Maryland militia deaths.** Use a published muster entry to identify the company and date. If the entry is silent about death, inspect the original unit roll's remarks, as the presenter suggests (only transcript excerpts read) [S48 @2026-11-20]. For Delaware, check the Delaware Public Archives' posted 1813 rolls [S62 @2026-11-20]. For Maryland, use the state archive's military records bibliography to find the relevant county volume or unit roll citation [S63 @2026-11-20].
+
 ## 3. Label what kind of evidence each record is
 
 Attach exactly one evidence-kind label to every record: **service proof**, **payment**, **levy/fine**, **enumeration** or **claim lead**.
@@ -89,6 +119,14 @@ Attach exactly one evidence-kind label to every record: **service proof**, **pay
 **Pennsylvania muster fines.** Transcribe the date and offense. A fine explicitly levied for missing an inactive-duty muster records absence at that muster [S25], [S26]. Keep active duty and combat open. Compare dated fines for the man and his known relatives to spot repeated absences. Leave attendance unresolved on dates with no fine entry [S27]. If you suspect Quaker membership, check the relevant monthly meeting minutes [S28]. Record a reason for an absence only when the records support it.
 
 - **Ohio WPA veterans’ grave-registration cards: claim lead.** Treat an Ohio WPA veterans' grave-registration card's service attribution as a compiled lead, then check the cited unit in service records, rosters and any pension file. In Union County the project crosschecked cemetery names against war records and local rosters before creating cards. When two same-named men receive the same unit or dates, compare each man's residence, life dates and the unit's recruiting context rather than transferring the service to the man whose grave is easiest to find. Keep the burial identification and service identification separate. [S20](https://genealogypants.com/2024/08/14/dont-stop-digging-graves-registration-cards-ohio/), [S21](https://genealogypants.com/2025/07/09/did-my-george-long-serve-in-the-war-of-1812/), [S22](https://www.unioncountyohio.gov/Veterans-Burial-Records)
+
+**Georgia militia vouchers (M1745).** Label the voucher as payment and record the serviceman, company, service interval and amount where stated [S44]. Use the service interval to place the man when the voucher identifies where he served. Following the presenter's examples (only transcript excerpts read), record the later voucher date separately and keep any widow, executor or assignee in the role the voucher gives [S42].
+
+**Colonial militia fines.** If drill rolls are missing, follow the presenter's suggestion (only transcript excerpts read) to check local militia fines for failure to appear [S45]. For colonial Virginia, include county court-martial records in that search. Use the offense as written, since fines also covered other conduct [S59]. For a Quaker, compare the fine entry with the monthly meeting minutes for an explicit refusal to pay or a record of collection [S47].
+
+**Virginia militia nominations.** Label the court's recommendation as a claim lead. Establish the appointment and its date from a record of the governor's action [S57 @2026-11-20]. Follow the presenter's suggestion (only transcript excerpts read) to check the governor's records at the Library of Virginia [S54 @2026-11-20]. Search the Militia Commission Papers, 1777–1858 (misc. reels 6443–6616), and use the Journals of the Council of the State of Virginia (misc. reels 2981–2998) as a rough index into the governor's correspondence [S56 @2026-11-20].
+
+In later Hardy County orders, search for a successor named “in room of” the officer, as the presenter suggests (only transcript excerpts read) [S54]. Record “removed” or “promoted” as the stated vacancy reason and leave the circumstances or new rank open until another record supplies them. Use the later orders and commission records to establish the rank and date at each step from ensign to captain [S55] [S56].
 
 ## 4. Read unit designations by roster status
 
