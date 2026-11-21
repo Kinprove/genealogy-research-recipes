@@ -461,6 +461,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/us-army-civil-war-court-martial-files.md` — Follow a general court-martial notation from a Civil War service card to the index and its Army case papers.
 - `recipes/world-war-two-us-navy-battle-records.md` — Correlate wartime U.S. Navy muster and deck records with an action report before attributing participation to a sailor.
 - `recipes/boston-tea-party-participant-evidence.md` — Trace a Boston Tea Party participant claim from compiled lists to the evidence for the person’s role on 16 December 1773.
+- `recipes/colonial-and-state-military-bounty-land.md` — Distinguish a colonial or state military land award from a federal warrant and trace the soldier, heir, assignee and tract separately.
 
 ### Canada, Latin America, Asia and Oceania
 
