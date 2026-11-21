@@ -154,11 +154,14 @@ palette order, but a reader's comment of 2024-12-06 on the same page reports the
 the groups were created; method 4 now reports that comment and asks the reader to check their own
 list. No source was unreadable and no live account was used.
 
-### Sources S15–S17
+### Sources S15–S20
 
 - **S15:** Family Tree Magazine, YouTube, [Reflecting on the World of Genealogy in 2025 – An Interview with Andrew Koch | Episode 203](https://www.youtube.com/watch?v=vyNJ6WXstRw), December 2025 episode, read 2026-11-18 (cluster discussion in Podwave's transcript of the same episode, around 02:36). The YouTube page did not load. Used for Koch's suggestion to use clusters to see how DNA matches connect to one another and his description of Pro Tools access.
 - **S16:** Ancestry Help, [Matches by Cluster](https://support.ancestry.com/s/article/Matches-by-Cluster?language=en_US), read 2026-11-18 via the redirected help page. Used for the path through the DNA Matches page, authorized kit access and website-only availability. The signed-in view was not tested.
 - **S17:** Ancestry Help, [Ancestry Pro Tools Membership](https://redir.ancestry.help/hc/en-us/articles/53933348842131-Ancestry-Pro-Tools-Membership), read 2026-11-18. Used for the active family-history membership requirement and inclusion of Matches by Cluster in the Pro Tools add-on.
+- **S18:** Rachel Christian, Family Tree Magazine, [5 Genealogy “Crimes” You Should Forgive Yourself For (Plus Some You Shouldn’t)](https://familytreemagazine.com/strategies/genealogy-crimes/), search-result text inspected 2026-11-20. The direct article returned HTTP 403. The indexed text under “Copying from others’ trees” gives Christian’s advice to follow hints for a provisional DNA-match tree and follow up to establish the relationship.
+- **S19:** Donna Rutherford, [FAQ What Where How When 2025 (updated)](https://donnarutherford.com/faq-what-where-how-when-2025/), read 2026-11-20. Used for her advice to use hints in a separate research tree to look for a common ancestor and test the resulting hypothesis. Keeping the working tree on the user’s device is the recipe’s implementation.
+- **S20:** Ancestry Help, [Ancestry Hints](https://redir.ancestry.help/hc/en-us/articles/53933288454291-Ancestry-Hints), read 2026-11-20 via the redirected help page. Used for public member-tree hints on the website and the Review control. The signed-in view was not tested.
 
 ## Credits
 
@@ -173,4 +176,6 @@ list. No source was unreadable and no live account was used.
 - Dana Leeds, DNA Color Clustering: The Leeds Method for Easily Visualizing Matches, 2018-08-23, cited as S11 — All rights reserved; short attributed adaptation (adapted)
 - My Family Pattern, YouTube videos DNA Laddering (2026-01-01) and EGGOS Search Strategy for DNA Matches (2023-09-05), cited as S12 and S13 — All rights reserved; short attributed adaptation (adapted)
 - Andrew Koch, Family Tree Magazine podcast, Reflecting on the World of Genealogy in 2025 (December 2025), cited as S15 — short attributed adaptation (adapted)
+- Rachel Christian, Family Tree Magazine, 5 Genealogy “Crimes” You Should Forgive Yourself For (Plus Some You Shouldn’t), cited as S18 — short attributed adaptation (adapted)
+- Donna Rutherford, FAQ What Where How When 2025 (updated), cited as S19 — short attributed adaptation (adapted)
 - Kinprove — original distillation and synthesis — FSL-1.1-MIT (kinprove-original)
