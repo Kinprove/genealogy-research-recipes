@@ -71,6 +71,22 @@ When saving a register crop, record the year and place from the full page alongs
 
 Copy an archival file number as cited and identify the numbering system. In one set of parish extracts the compiler says inventory 3 was renumbered and marks file 964 as new [B4]. No concordance accompanies the post. Check the dated catalogue or concordance for a matching record description before adopting a replacement number.
 
+When an old volume-and-page citation fails to locate the entry, look up the name and date in
+the later index if one exists and check which pagination it uses. For an old probate abstract
+whose volume number does not match, compare volume labels and date ranges in the repository's
+finding aid. Confirm the match in the record and preserve both locators with their numbering systems
+[B20, from the available excerpt] [B21] [B22].
+
+For a Connecticut State Library probate estate file, cite the probate district and file number
+with the estate name and date [B20, from the available excerpt] [B23].
+
+For *Settled Accounts for Payment of Accrued Pensions (Final Payments)* under the Act of
+6 April 1838 (RG 217, Inventory 14, Series 724), cite the payment year and account number
+alongside the box number used. If a box number from an older citation fails, use a box
+concordance if the finding aid supplies one. Verify the account by payment year and account
+number, and use those fields to locate it if you have no concordance
+[B24, from the available excerpt] [B28].
+
 Cite a register entry by file, leaf and side, section, sequence, number and date as written. On leaf 36 of one 1818 deaths transcription, 1 January and 2 January both carry entry no. 1 [B5]. Inspect the register image to identify the columns before assigning a sequence to either entry.
 
 Cite a printed local history by book and page, then copy its archival references into a separate field for follow-up. In a posted extract about the 1843 Shadrinsk district unrest, the contributor labels the accompanying source as possible [B6]. Preserve that qualification and check the printed page for who supplied the reference before recording the file as a lead.
@@ -94,6 +110,20 @@ When a volume has no printed page number, describe the entry by its actual inter
 
 For a filmed or digitized register, inspect the cover, spine or title frame and preserve its actual volume label. A catalogue title may describe an entire series rather than the specific volume you used. Record any mismatch explicitly; if the item has no title, supply a descriptive label as your own instead of silently assigning the series title to it [N3](https://genealogytipoftheday.com/index.php/2023/06/27/getting-all-the-details/), [N4](https://www.evidenceexplained.com/node/2230).
 
+When viewing digitized U.S. National Archives microfilm through another provider, inspect the
+opening title frames for the publication title, publication number and roll number. Cite the
+identified publication with its roll and frame numbers when present. Keep the provider and its
+item URL or image number in the access layer [B24, from the available excerpt] [B25] [B30].
+
+If the film description is incomplete, recover the title and roll details by publication number
+in the National Archives Microfilm Catalog [B26 @2026-09-19] [B29 @2026-09-19]. For a FamilySearch
+film, look up the film or DGS number in the FamilySearch Catalog and match the entry to the item
+and page or image you consulted [B27 @2026-09-19].
+
+When making a local screenshot of a supplied social media post, keep the poster's displayed
+name or handle in the frame with the post [B17, from the available excerpt] [B18]. Keep the
+item URL and capture date with the screenshot on the user's device [B18].
+
 Binding does not establish publication. If the "book" is an unpublished typescript or manuscript deposited in a repository, identify its creator, title or supplied description, composition date when known, collection/item locator and holding institution with location. Do not invent a publisher or publication date from the binding or catalogue appearance [N5](https://genealogytipoftheday.com/index.php/2024/12/13/when-to-cite-a-specific-book/), [N6](https://answers.library.georgetown.edu/research/faq/228516).
 
 ## Format the citation
@@ -106,6 +136,11 @@ When the editor provides a style sheet, use it to format the publication draft
 and retain the full locator in your working notes. The advice to use a model as a guide comes
 from Craig R. Scott's video (partial access via supplied transcript excerpts)
 [N7](https://www.youtube.com/watch?v=pvr1z7Mchxw).
+
+To use the *Evidence Explained* model for a Facebook group post, start with the individual
+poster and give the group page title in quotation marks and *Facebook* in italics. Put the URL
+and posting date in parentheses, then identify the specific post or attachment you cited
+[B17, from the available excerpt] [B19].
 
 ## Connect the citation to the evidence
 
