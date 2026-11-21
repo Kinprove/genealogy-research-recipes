@@ -94,6 +94,10 @@ The worksheets below work with manually read images or copied index rows.
 
 Before you call an edition missing, find out which directories were published for the place and where they are held. For a U.S. place, uscitydirectories.com lists directories by state and locality with the repositories that hold them; its pages carry a 2002–2005 copyright, so a year it omits is unlisted there, not unpublished [S32 @2026-11-14], [S36 @2026-11-14], [S42 @2026-11-14]. The Library of Congress guide *United States: City and Telephone Directories* indexes the Library's own city and telephone directories by state [S36 @2026-11-14], [S43 @2026-11-14].
 
+For Los Angeles, browse the Los Angeles Public Library's digitized city and street directories in ResCarta [S58 @2026-11-20]. If the edition is missing there, check the library's City Directories Index for paper and microform holdings [S59 @2026-11-20]. Record a holdings match with its format and mark an edition viewable online only after opening its scans. A search-result extract from Nancy Hendrickson's guide points to both routes [S57† @2026-11-20].
+
+For Ohio, start with the LDSGenealogy.com Ohio City Directories index and open the relevant county page [S60 @2026-11-20], [S61 @2026-11-20]. Check countywide listings as well as any section for the target locality [S62 @2026-11-20]. Follow the provider's link and verify access to the specific edition before marking it accessible in the coverage row.
+
 Identify each edition by its publisher as well as its place and year. In some cities competing publishers issued directories for the same year, and each can hold entries the other lacks, so give each its own coverage row and look for a rival before you treat a year as covered [S31], [S32], [S33].
 
 Some U.S. directories marked Black or other non-white residents in the main list with an asterisk or an abbreviation such as `col'd`, besides or instead of printing them in a separate 'colored' section [S32], [S35]. Decode such a mark with the edition's key rather than reading it as a footnote, and copy it with the entry as the compiler's designation.
