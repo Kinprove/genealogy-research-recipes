@@ -101,6 +101,16 @@ Browse the county will book even when the person died intestate: in some U.S. ar
 
 For a Virginia estate, search the Library of Virginia’s Wills and Estate Records Index. It covers 1633–1800 for fifty-one counties and cities, including wills, inventories, sales and some order-book entries [S86 @2026-11-14]. Then check the county court’s order or minute books, where orders may preserve information from lost loose papers [S87 @2026-11-14]. For an eighteenth-century will, use the book and folio to locate related orders and establish which loose papers actually survive before reporting a missing case file [S85 @2026-11-14].
 
+For a Highland County, Virginia, estate from 1847 through 1858, look for wills in Inventories and Appraisements 1, 1847–1858, on reel 4. Browse beyond its incomplete index. Will Book 2 begins in 1859, the boundary noted within the available excerpt [S122 @2026-11-20]. Search County Court Order Book 1, 1847–1858, on reel 6 for related orders [S123 @2026-11-20].
+
+For an Ohio estate, search the county Court of Common Pleas series before the 1851–1852 transition and the county Probate Court series after it [S110], [S112]. Search both around the transition. The 1851 Ohio Constitution provided for the existing probate papers and proceedings to pass from Common Pleas to the new Probate Courts [S111]. Use the county archival inventory to locate each series by its original court and dates.
+
+For an Ohio will or estate through 1850, use Carol Willsey Bell’s *Ohio Wills and Estates to 1850: An Index*, reprinted by Clearfield in 2012 [S110], [S115]. Record the entry’s year, county, record type and original source, then queue that source. Use the index’s county holdings notes to assess a miss.
+
+For digitized Ohio records, browse FamilySearch’s *Ohio, Probate Records, 1789–1996* and its county catalog listings for will books, estate journals and guardianship records [S110 @2026-11-20], [S113 @2026-11-20]. Check Ancestry Library Edition’s *Ohio, U.S., Wills and Probate Records, 1786–1998* as a second route [S114 @2026-11-20]. Record the county, series and years actually searched on each platform. A statewide title’s dates do not establish coverage of an individual county or series.
+
+For a death in England or Wales from 1858 onward, use GOV.UK’s probate search [S116 @2026-11-20], [S117 @2026-11-20]. For the older calendars (1858–1996), look under the year of the grant and check later years when the death-year search misses. Search for administration grants as well as probate grants when a will is missing. Record the grant type as given and distinguish an administration with will annexed from an administration grant without a will.
+
 For images of a Sumter, South Carolina, estate, look for Sumter Estate Records, 1784–1960, within Ancestry’s statewide South Carolina, U.S., Wills and Probate Records, 1670–1980 [S98 @2026-11-18], [S99 @2026-11-18]. Use the county series and any known bundle or package to locate the papers. Use the county series dates when reporting coverage.
 
 For a death in Russia in the late Soviet period or later, search the public notarial
@@ -131,6 +141,14 @@ Route a Maryland will by its probate date, as the presenter suggests in the only
 For a New Hampshire estate before 1771, search the provincial probate records, not a county court. Probate from 1636 to 1771 was filed at Exeter and Portsmouth, and the colonial probate files are now at the New Hampshire State Archives [S60 @2026-11-14], [S61 @2026-11-14]. Counties were created in 1769, but the provincial probate period runs to 1771 [S61 @2026-11-14]. For a town near the Massachusetts border, also search the Massachusetts county probate records [S61 @2026-11-14].
 
 For Connecticut, search by probate district, not by town or county [S60 @2026-11-14]. Look the town up in the Connecticut State Library's Probate Districts by Town guide, which gives the district or districts the town belonged to at different times [S62 @2026-11-14]. A district created later out of another does not hold the earlier estates: Colchester's district was created in 1832 out of East Haddam, so an earlier Colchester estate is in the East Haddam district [S63 @2026-11-14]. Repeat the check for the parent district's own creation date. Connecticut probate courts also handled guardianships, adoptions and conservatorships, so search the same district for them [S62 @2026-11-14].
+
+For Connecticut estate papers, use the two index routes from the available excerpt [S118 @2026-11-20]. Check the district and years in the State Library’s Probate Estate Papers Index coverage list. Use the surname-arranged cards to identify the district and listed packet contents, and check the Godard Digest by district and name for papers in that inventory [S119 @2026-11-20]. If a district or year falls outside the index, check the district finding aid and the successor probate court’s holdings before calling the papers missing [S62 @2026-11-20], [S120 @2026-11-20].
+
+Search Connecticut’s estate papers and probate record volumes separately, following the distinction from the available excerpt [S118]. Check the volume’s own index and browse by court date for orders when the loose papers are incomplete [S62]. Inventory any order with no corresponding loose paper as a record-volume entry. Check the packet for supporting papers when the volume gives only the court’s record of the proceeding.
+
+For an original Connecticut will that was filed but never admitted to probate, check the holdings of the probate court serving the district and the Probate Records Center. The transfer rule for files closed before July 1976 excludes such originals from State Library transfers and allows transfer to the Probate Records Center [S120 @2026-11-20]. A search of the transferred estate papers alone leaves that original unresolved.
+
+For a Connecticut estate before the separate probate courts were established in 1698, check the court that served the locality at the time. Where the County Court handled probate, use the State Archives’ Record Group 003 finding aid to locate the county’s bound proceedings and files. Search for orders on administration, guardianship and distribution even when no will turns up. Follow references to separately recorded wills and inventories into the probate volumes and check Record Group 004 for those records [S121 @2026-11-20]. The County Court and probate-volume search comes from the available excerpt on early court records [S118 @2026-11-20].
 
 ### Swedish absent probate: separate production from surviving copies
 
@@ -273,6 +291,8 @@ results and reasons for each extension.
 **Check:** A later recording date is not a later death date. Finding a settlement several years
 after death demonstrates the need for that case's wider search; it supplies no universal deadline.
 
+When a will is missing, check any inheritance-tax series that covers the decedent’s locality and estate years [S116 @2026-11-20]. In Union County, Ohio, start with the Archives’ *Inheritance Tax Records, 1904–1962* listing and check each volume’s dates. Use a matching entry’s administrator and filing dates to queue a search of the corresponding probate docket [S112 @2026-11-20]. Keep a tax entry as its own record and leave the existence of a will unresolved.
+
 Search for a final settlement or partition in both probate and land records beyond the death year. A widow’s life estate, whether from a will or an applicable dower right, could postpone possession, and heirs sometimes waited for the youngest to reach majority [S82], [S80], [S83]. Identify the actual interest and the local majority rule, including any effect of marriage. In Bourbon County, Kentucky, a man who died in 1815 had his land partitioned in 1831 [S81]. Use those events to extend the search and confirm the reason for a delay from the papers.
 
 For a colonial Maryland estate, use Vernon L. Skinner Jr.’s administration account and balance book abstracts as leads to separate Prerogative Court series. Match the volume to the estate dates and queue the underlying records [S106]. If tracing estate land, use Skinner’s Provincial Land Office debt book abstracts by county and year [S107]. Record those entries as land and quit-rent evidence [S108]. The presenter points to these series in the only available excerpt on Skinner’s work [S100].
@@ -373,6 +393,8 @@ give the will's contents, the court's decision or a complete heir list. [S12]
 Search contemporary newspapers even when the probate packet survives. One report about a missing lockbox of estate papers also mentioned a prior wife and her children [S93]. Record the newspaper item and its date, then look for independent evidence of the marriage and children.
 
 Search the local newspaper near the opening of a probate term for its printed docket. Record the case, the representative’s stated role and the scheduled hearing date, then check the court minutes for the outcome. The *Advertiser Courier* of Hermann, Missouri, 4 August 1876, p. 4, col. 3, is a published locator for a docket naming administrators and guardians [S38].
+
+For a Loudoun County, Virginia, estate, use Patricia B. Duncan’s *Genealogical Abstracts from the Mirror* for 1880–1890 or 1891–1899 [S125 @2026-11-20]. When October is the relevant court term, look for reports like those from the available excerpt: wills admitted to probate, administrators appointed and estates committed to the sheriff [S124 @2026-11-20]. Use the issue date to locate the original on Thomas Balch Library’s *Mirror (Leesburg)* microfilm [S126 @2026-11-20]. Use the decedent, court month and reported action to locate the court’s own entry.
 
 ## 4. Reconcile retrieval coverage and hand off interpretation
 
