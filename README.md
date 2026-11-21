@@ -277,7 +277,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [myheritage-kit-processing-and-downloads](skills/genealogy-research-recipes/recipes/myheritage-kit-processing-and-downloads.md) | public catalogues, documentation and historical records | — | — | export, request, upload | — | required |
 | [myheritage-profile-hint-extraction](skills/genealogy-research-recipes/recipes/myheritage-profile-hint-extraction.md) | public catalogues, documentation and historical records | — | — | link, publish | contact | required |
 | [nazi-era-ancestry-proof-records](skills/genealogy-research-recipes/recipes/nazi-era-ancestry-proof-records.md) | record catalogues and original images | — | — | request | — | required |
-| [new-york-city-vital-certificate-extraction](skills/genealogy-research-recipes/recipes/new-york-city-vital-certificate-extraction.md) | public catalogues, documentation and historical records | — | — | — | — | — |
+| [new-york-city-vital-certificate-extraction](skills/genealogy-research-recipes/recipes/new-york-city-vital-certificate-extraction.md) | public catalogues, documentation and historical records | — | — | third-party-tool | — | required |
 | [newspaper-finder-title-coverage](skills/genealogy-research-recipes/recipes/newspaper-finder-title-coverage.md) | record catalogues and original images | — | — | — | — | — |
 | [newspapers-com-search-recovery](skills/genealogy-research-recipes/recipes/newspapers-com-search-recovery.md) | newspapers.com | — | — | third-party-tool | — | required |
 | [old-believer-sectarian-record-recovery](skills/genealogy-research-recipes/recipes/old-believer-sectarian-record-recovery.md) | record catalogues and original images | — | — | — | — | — |
