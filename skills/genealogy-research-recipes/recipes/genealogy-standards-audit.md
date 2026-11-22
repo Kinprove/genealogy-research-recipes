@@ -95,6 +95,20 @@ item back to the claim. Check these failure points:
 An inaccessible original leaves original-image validation unassessed. It does not
 automatically erase the value of a honestly identified index or derivative source.
 
+When the packet uses Mills’s Evidence Analysis Process Map, check the flyleaf
+copy in *Evidence Explained* or a copy from elsewhere for three classes under each
+heading. Use the expanded map in figure 1 of QuickLesson 17 if the copy shows
+only two classes [S8].
+
+If a claim row calls a record a “primary source” or an “indirect source,” identify
+the version examined as an original record, derivative record or authored narrative.
+Classify the extracted information as primary, secondary or undetermined based on
+the informant’s knowledge. Assign direct, indirect or negative to the evidence
+for the stated question. Flag conclusions that treat a record’s originality as
+proof of firsthand knowledge or a reliable answer [S8]. According to the supplied
+transcript excerpts, Scott recommends the three-class check and cautions
+against using “primary” or “indirect” to classify the source [S7†].
+
 For a documented tree or compiled pedigree, check the parent-child links one at a time,
 starting with the present generation and moving back. Stop at the first link that lacks cited
 evidence and an inspectable argument supporting the relationship; consider both direct and
@@ -103,6 +117,16 @@ Report that link as the research frontier and mark everyone above it as unsuppor
 propose searches for the topmost name. A relationship-viewer path only repeats tree entries. On
 each link, also flag biologically impossible timing; a birth after the father's death alone is
 not an impossibility. Walk the documented line back until a relationship lacks support [B15], [S1]. If a register is missing, record its coverage and the evidence still needed for that parent-child link [S2].
+
+In a compiled pedigree, compare the child’s birth date with the stated parents’
+marriage date. If the birth predates the marriage, flag the link for verification.
+Check both dates against the cited birth or baptism and marriage entries, and look
+for records that identify the child’s parents. Keep a birth to the same couple
+before marriage and a mistaken parent assignment open until the records resolve
+the link [S10]. Urdank’s Gloucestershire reconstruction places one couple’s
+first child’s birth before their recorded marriage [S10 p. 10]. According to the
+supplied transcript excerpt, Jacobus describes a pedigree in which a birth before
+the recorded marriage prompted a review of the assigned parents [S9†].
 
 If a compiled chart cites an English will for an American immigrant’s parentage, locate the
 will by testator, probate court and probate date. Inspect the original will or the court’s
