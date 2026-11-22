@@ -64,8 +64,15 @@ The ranked list, its columns and outcome codes, the separate issuing and ceremon
 
 - **S43:** Thomas Balch Library, [Microfilm Index by Drawer](https://www.leesburgva.gov/home/showpublisheddocument/13252/636869652454270000). Library index entry for the Leesburg *Mirror* read 2026-11-20. The row lists 1865–1902 under drawer 12. Use the issue date from the abstract to identify the issue to check.
 
+- **S44:** Just Genealogy, [November 9th, 2022 Just Genealogy Live Stream Discussion Recording - JG244](https://www.youtube.com/watch?v=pkQMLA74_3A), community video published 2022-11-10. Supplied transcript excerpts read 2026-11-21. The video page could not be retrieved. The speaker suggests checking a Shenandoah County marriage book for a marriage sought in Hardy County, based on a possible earlier Shenandoah residence investigated through the 1787 tax list. The excerpts give the suggestion without establishing the identity match or a marriage-record result.
+
+- **S45:** Library of Virginia, [Shenandoah Co. Personal Property Tax](https://lva-virginia.libguides.com/personal-property-tax/shenandoah). Library microfilm guide read 2026-11-21. Reel 315 is listed for 1782–1799, which includes the 1787 tax year. The guide establishes the reel locator and coverage.
+
+- **S46:** Library of Virginia, [Shenandoah County Microfilm](https://www.lva.virginia.gov/collections/ccmf/VA/VA257). Marriage records catalogue rows read 2026-11-21. The catalogue lists the 1781–1850 register on reel 65 and marriage bonds for 1772–1788 and 1789–1791 on reels 68 and 69, respectively. The catalogue establishes the reel locators and coverage.
+
 ## Credits
 
+- Just Genealogy and the Library of Virginia (S44–S46) — Third-party material paraphrased with attribution, with rights retained by the respective holders (adapted)
 - Genealogy Book Sunday, Heritage Books, Virginia Department of Historic Resources and Thomas Balch Library (S40–S43) — The book walkthrough, catalogue, bibliography and microfilm index are paraphrased with attribution (adapted)
 - Adams County, Genealogy Gems, U.S. Bureau of the Census Allen County Public Library and the U.S. Army (S35–S39) — Office instructions, the reissued case study, publication coverage and periodical search guidance paraphrased (adapted)
 - Judy G. Russell, The Legal Genealogist blog, posts cited as S28 — Third-party blog; no explicit licence; paraphrase with attribution (adapted)
