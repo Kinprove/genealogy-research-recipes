@@ -208,7 +208,7 @@ checked on 2026-11-18 and cite only S2, which the sidecar records as read on
 | Check | What it reads |
 | --- | --- |
 | Expiry of a current-state claim | The ledger's `checked` date only |
-| Dated marker | For each cited source, a marker with the ledger's `checked` date |
+| Dated marker | Every dated marker, which must show the ledger's `checked` date; each cited source needs one |
 | Source join | The paragraph's rendered markers, compared with the ledger's `sources` |
 | Unread or partly read source | The sentence that holds each marker of that source |
 | Unregistered passage | A marker, or a domain, currency, current-state phrase or custodian name in the raw paragraph |
@@ -332,3 +332,14 @@ Changing the layout would require these changes:
 - each of them: change the "Read source limits" text in `SKILL.md` and the
   provenance section of `MAINTAINERS.md`, and update the tests that quote dated
   recipe text or test the dated-marker rule.
+
+### Follow-up from the review
+
+The reviews found that the dated-marker check accepted an old date on a second
+marker of the same source, so a recheck that updated only one marker passed. 270
+reviewed current-state claims in 105 recipes cite a source with two or more dated
+markers. `validate()` now requires every dated marker of a claim with a
+`checked` date to show that date. This tightens the current format and does not
+change it; no recipe or ledger record had to change. Six reviewed `method` claims
+show a dated marker while their ledger records no `checked` date. The rule does not
+cover them.

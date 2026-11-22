@@ -379,6 +379,18 @@ class ProvenanceTests(unittest.TestCase):
         ledger['claims'][0]['anchor'] = anchor
         self.rejects(ledger, 'missing dated marker', recipe=RECIPE.replace(ANCHOR, anchor))
 
+    def test_every_dated_marker_shows_the_claim_check_date(self):
+        # A recheck that updates one of a source's dated markers must update the others too (#697).
+        ledger = reviewed()
+        for date, ok in (('2026-11-01', False), ('2026-11-07', True)):
+            anchor = ANCHOR + f' Search covers each parish register. [S1 @{date}]'
+            ledger['claims'][0]['anchor'] = anchor
+            recipe = RECIPE.replace(ANCHOR, anchor)
+            if ok:
+                self.check(ledger, recipe=recipe)
+            else:
+                self.rejects(ledger, 'dated marker differs from the claim check date', recipe=recipe)
+
     def test_durable_method_does_not_expire(self):
         ledger = reviewed()
         ledger['claims'][0]['kind'] = 'method'
