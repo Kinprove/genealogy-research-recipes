@@ -450,6 +450,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/pennsylvania-marriage-licenses-and-returns.md` — Recover Pennsylvania county marriage packets from 1885 and compare them with early state copies and older marriage bonds.
 - `recipes/american-voter-register-eligibility.md` — Check voting and registration eligibility in the relevant year before using a U.S. voter-register entry or omission as residence evidence.
 - `recipes/us-social-security-application-recovery.md` — Choose between a Social Security death index, Numident extract and original SS-5 when researching a deceased person’s birth or parents.
+- `recipes/us-historical-passport-application-recovery.md` — Find U.S. passport applications through March 1925 and separate recorded identity, companions and planned travel from the journey itself.
 
 ### United States: military, land, courts and law
 
