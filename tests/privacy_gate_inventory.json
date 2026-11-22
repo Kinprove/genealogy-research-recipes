@@ -3838,5 +3838,101 @@
   "kind": "upload",
   "action": "Submit an estate record",
   "checkpoint": "The submitter’s details and any family files, scans, estate records or questionnaire answers would go to 10 Million Names through its help center."
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "create an entry for each documented object with the app's plus button",
+  "checkpoint": "Creating or updating an Artifcts entry sends object photos, captions, recordings and any supporting documents"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "attach only the supporting documents cleared for Artifcts",
+  "checkpoint": "Creating or updating an Artifcts entry sends object photos, captions, recordings and any supporting documents"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "link",
+  "action": "share the private Artifcts entry directly with each named relative",
+  "checkpoint": "Sharing a private Artifcts entry with relatives sends a link or invitation to the named recipients"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "contact",
+  "action": "invite their account of the object",
+  "checkpoint": "Sharing a private Artifcts entry with relatives sends a link or invitation to the named recipients"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "link",
+  "action": "connect Reimagine to the intended MyHeritage family site",
+  "checkpoint": "Connecting Reimagine to a MyHeritage family site links the app to that site's photo collection"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "open Reimagine's **+ > Scan photos**",
+  "checkpoint": "Batch scanning sends album-page images, including photographs and inscriptions about people who may still be living, to MyHeritage"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "use **Photos > Photo Scanner** or **Scan photos & albums** to batch capture",
+  "checkpoint": "Batch scanning sends album-page images, including photographs and inscriptions about people who may still be living, to MyHeritage"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "third-party-tool",
+  "action": "save approved working scans into the Mylio InBox",
+  "checkpoint": "Adding scans through the Mylio InBox gives Mylio Photos access to the files"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "link",
+  "action": "grant Mylio Photos access to the iPhone photo library",
+  "checkpoint": "Connecting the iPhone photo library can expose the phone's existing and future photos and metadata"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "export",
+  "action": "choose **Share > Export** to write a new file with edits applied",
+  "checkpoint": "Exporting edits in Mylio Photos writes the selected images and chosen metadata"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "link",
+  "action": "add a supported person tag manually on the linked MyHeritage family site",
+  "checkpoint": "Saving a person tag links a name and pictured person"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "upload",
+  "action": "save a supported title, date or place through **Edit photo info**",
+  "checkpoint": "Saving photo titles, dates or places sends details about the pictured people"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "export",
+  "action": "choose **Download > ZIP** when the hand-off needs the attachments",
+  "checkpoint": "Downloading an Artifcts ZIP writes inventory fields and attached photos, recordings and documents"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "link",
+  "action": "print the album's item QR code and put it on a loose slip",
+  "checkpoint": "An item QR code passed with an album links its readers to the Artifcts entry"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "link",
+  "action": "name the primary Legacy Contact and a backup",
+  "checkpoint": "Naming Artifcts Legacy Contacts sends those people's email addresses to Artifcts"
+ },
+ {
+  "recipe": "family-collection-intake-and-capture.md",
+  "kind": "contact",
+  "action": "name the primary Legacy Contact and a backup",
+  "checkpoint": "Naming Artifcts Legacy Contacts sends those people's email addresses to Artifcts"
  }
 ]

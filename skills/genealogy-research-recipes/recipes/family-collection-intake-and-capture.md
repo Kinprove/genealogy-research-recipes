@@ -10,7 +10,7 @@ guardrails: [{"id": "FAMILY-COLLECTION-INTAKE-AND-CAPTURE-01", "text": "The comm
 handoff: []
 checked: "2026-11-06"
 checked_basis: "opened 2026-11-06"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "upload", "link"], "contact": ["contact"]}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["publish", "upload", "link", "export", "third-party-tool"], "contact": ["contact"]}
 router: {"section": "Record types in any country", "group": "Family papers, photographs and oral history", "order": 190}
 ---
 
@@ -62,6 +62,16 @@ Keep four kinds of statement distinguishable: a received caption, a relative's a
 
 Never compare faces, and never assign identity by appearance. When the user or a relative recognises someone, record that recognition as their attributed claim, together with its basis. Resemblance is never evidence by itself.
 
+**Privacy gate:** <!-- privacy-gate: upload --> Creating or updating an Artifcts entry sends object photos, captions, recordings and any supporting documents about people who may still be living to Artifcts. Check the entry audience and answer the privacy gate in `SKILL.md` before uploading.
+
+If the user chooses Artifcts, create an entry for each documented object with the app's plus button and add its photo. Put the stable item reference and a short, attributed caption in the description. Where a narration adds context, attach the approved audio or video under the same reference [S76 @2026-11-21], [S77 @2026-11-21], [S78 @2026-11-21].
+
+For an Artifcts entry that needs supporting records, open Full Details to record the maker and acquisition details with their basis. Keep exact storage locations and valuations in the local register and attach only the supporting documents cleared for Artifcts [S76 @2026-11-21], [S77 @2026-11-21], [S78 @2026-11-21]. Check the documentation permission separately before sharing the entry [S79 @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: link, contact --> Sharing a private Artifcts entry with relatives sends a link or invitation to the named recipients and reveals the cleared images and stories about people who may still be living. Answer the privacy gate in `SKILL.md` before sharing or inviting a reply.
+
+With the user's authorization, share the private Artifcts entry directly with each named relative by their known email or Artifcts screen name [S76 @2026-11-21], [S79 @2026-11-21]. Use a route allowed by the Living people rule to invite their account of the object. Keep each reply as a separate attributed account in the local register.
+
 ## Plan capture from the media actually present
 
 Inventory the media and their observed condition before proposing capture [S4]. Record the equipment actually available, the intended reuse and the settings chosen for each material, rather than one resolution or file format for everything. Match the method to the object:
@@ -90,11 +100,21 @@ If suitable capture is unavailable, leave an explicit next action. Do not mail o
 
 For loose photographs you can safely reach, capture front and reverse and bind both to one object reference. Copy inscriptions literally and keep them separate from your interpretation. Mark each side as missing (not present), uninspected (reachable but not yet examined) or inaccessible (reachable only by intervention). For an album whose items are stuck down, such as a magnetic album, capture the whole page rather than lifting items, and keep that full page beside any individual crop. Save the last item or page actually completed, and the views still remaining, so another session can resume [S3], [S4].
 
+When a print is stuck to an album page and a phone is the available camera, photograph it in place. Keep the phone parallel to the page and check the edges in the preview. If a wide-angle view bends the edges or the phone casts a shadow, step back and use a longer optical setting if the phone offers one. Use even, diffuse daylight or daylight-balanced light and avoid mixing light sources. If the page still reflects light, move the light or tilt the supported album and realign the phone. Use any locally saved scan-mode crop or perspective correction only as a working copy and retain the full page [S67], [S68], [S69].
+
+**Privacy gate:** <!-- privacy-gate: link --> Connecting Reimagine to a MyHeritage family site links the app to that site's photo collection and routes new photos of people who may still be living to that site and its album audience. Answer the privacy gate in `SKILL.md` for the chosen destination before linking.
+
+If the user manages more than one site, connect Reimagine to the intended MyHeritage family site using the user's existing account. Choose a dedicated family site if the scans need a separate collection. Verify the selected site and album audience in the user's account before capturing a batch [S81 @2026-11-21], [S83 @2026-11-21].
+
 **Privacy gate:** <!-- privacy-gate: upload --> Batch scanning sends album-page images, including photographs and inscriptions about people who may still be living, to MyHeritage. Check who can see the destination album and answer the privacy gate in `SKILL.md` before scanning.
 
 Capture each whole page locally and keep that full capture as the master. If the user chooses batch scanning in MyHeritage, use the multi-photo scanner in Reimagine to make individual working crops from safely accessible album pages [S45 @2026-11-18], [S46 @2026-11-18]. The MyHeritage mobile app's Photo Scanner can also detect and save pictures separately [S47 @2026-11-18]. A Reimagine upload to an existing family-site album follows that album's visibility settings [S48 @2026-11-18]. Check the returned crops against the master for missed photos or cut-off edges. Retain the page reference with each crop.
 
+After the upload gate is cleared, open Reimagine's **+ > Scan photos**. Use indirect light and hold the phone steady. Tap the capture button for each safely supported page or group of loose photos. Continue to the next page while earlier crops process, then open the thumbnail to inspect the results. Compare the processed count and crops with the photos visible in the local masters before closing the batch [S66 @2026-11-21], [S81 @2026-11-21], [S82 @2026-11-21].
+
 Once that upload gate is cleared, try capturing one facing-page spread in a single shot in the user's Reimagine app if the album opens freely and both pages fit in frame [S65 @2026-11-20], [S66 @2026-11-20]. Compare the crops from both pages with their local masters. Switch to one page at a time if the spread requires pressure on the binding or the trial misses or clips a print.
+
+In the MyHeritage mobile app, after the upload gate is cleared, use **Photos > Photo Scanner** or **Scan photos & albums** to batch capture. Retrieve the individual cropped and straightened working copies from the dedicated album in **Photos**, using the scan date and time to find it. Compare the crops with the local page master [S47 @2026-11-21], [S85 @2026-11-21], [S86 @2026-11-21].
 
 According to Andrew Koch's preservation advice [S35†] and the U.S. National Archives [S36], house loose acidic newsprint apart from letters, photographs and other papers. Record where each clipping was found before moving it. Leave adhered clippings in place.
 
@@ -105,6 +125,20 @@ When the newsprint itself need not be retained, use a paper copy. According to t
 ## Keep received files, derivatives and versions apart
 
 Keep the full initial capture or received file. Make crops, resized copies and edits as separate derivatives. If a supplied image is already enhanced or cropped, describe it as received; do not claim that an untouched master exists. Record the source and role of each file. A new format extension cannot recover detail that the input lacks [S2]. An authored display or scrapbook page is also a derivative. It does not replace the source photograph, and it does not establish who is depicted.
+
+For a new scrapbook, mount prints made from the photo scans and print document copies on acid-free paper or as photographic prints. Keep the originals in their enclosures and record which source item each print came from [S74], [S75].
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Adding scans through the Mylio InBox gives Mylio Photos access to the files, including images and inscriptions about people who may still be living. Check the library's sync destinations and answer the privacy gate in `SKILL.md` before adding scans.
+
+For automatic desktop intake, save approved working scans into the Mylio InBox and keep the master files in their existing collection folders. Verify that a test scan appears in the library under its recorded item reference before routing the rest of the batch through the InBox [S67 @2026-11-21], [S70 @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: link --> Connecting the iPhone photo library can expose the phone's existing and future photos and metadata about people who may still be living to Mylio Photos and its configured sync destinations. Check the scope and answer the privacy gate in `SKILL.md` before granting library access.
+
+For automatic intake from an iPhone, grant Mylio Photos access to the iPhone photo library only if the existing library and future intake clear the gate [S67 @2026-11-21], [S71 @2026-11-21]. Check that a new test photo appears before relying on automatic intake. If the gate clears only the collection's scans, keep the camera roll unlinked and use the InBox for those copies [S70 @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: export --> Exporting edits in Mylio Photos writes the selected images and chosen metadata about people who may still be living to the selected folder on the user's device. Check that the folder is local and answer the privacy gate in `SKILL.md` before exporting.
+
+In Mylio Photos on the computer, choose **Share > Export** to write a new file with edits applied. Keep the original scan and its XMP sidecar together. Save the derivative to a different local folder and open it there to verify the edits. Leave **Save Metadata to File** unused on the master [S67 @2026-11-21], [S72 @2026-11-21], [S73 @2026-11-21].
 
 If an original has been restored, damaged or otherwise altered, ask whether photographs or scans exist from before that change, as well as after it. Record each copy as a separate version, with its date, its maker, and whether it was made before or after the change. Do not treat the current poor image as the document itself [S7].
 
@@ -125,6 +159,14 @@ If a known photo, document or recording is missing from the expected person's vi
 **Privacy gate:** <!-- privacy-gate: upload --> Saving photo titles, dates or places sends details about the pictured people, including anyone who may still be living, to MyHeritage, where the family site's album audience may see them. Check that audience and answer the privacy gate in `SKILL.md` before saving.
 
 For photos already on the MyHeritage website, check the user's Photos page for List view. Review thumbnails beside titles, existing tags, dates and places [S62 @2026-11-20], [S63 @2026-11-20], [S64 @2026-11-20]. Once the gate is cleared, enter supported titles, dates or places inline if the account offers those fields [S63 @2026-11-20]. Keep each value's basis and any unresolved details in the local item register. Treat existing tags as leads for locating the file.
+
+**Privacy gate:** <!-- privacy-gate: link --> Saving a person tag links a name and pictured person, who may still be living, to a photo in the MyHeritage family site and exposes that association to its permitted audience. Answer the privacy gate in `SKILL.md` before saving a tag.
+
+For a Reimagine scan, add a supported person tag manually on the linked MyHeritage family site, using the website or MyHeritage mobile app. Keep the basis in the local item register and record a person's recognition there only as their attributed claim. Leave suggested identities unassigned until corroborated [S81 @2026-11-21], [S84 @2026-11-21].
+
+Use Reimagine's magnifying-glass filter to search for a name already tagged on the linked site, or choose a recorded place. If a photo shows no tags in Reimagine, open the same photo on the linked MyHeritage family site and inspect its tags there before recording a gap [S81 @2026-11-21], [S84 @2026-11-21].
+
+For a photo already in Reimagine, once the photo-details upload gate is cleared for the linked site, save a supported title, date or place through **Edit photo info** in the three-dot menu or the fields below the photo. Tap the check mark and reopen the photo to verify the saved value [S66 @2026-11-21], [S81 @2026-11-21].
 
 ## Record what a recipient actually agreed to take
 
@@ -157,6 +199,18 @@ For a found photograph with a name on the back, use the inscription to look for 
 For an authorized FamilySearch hand-off, upload a two-page PDF with the front and reverse in one Memory [S43 @2026-11-18]. Link the Memory as a source only to a corroborated profile for a deceased person, and give the basis for the link [S49 @2026-11-18]. Check the Memory's visibility and omit living-person details from the source title and notes. Other tree users can see source information even when the Memory is private [S44 @2026-11-18].
 
 Open a representative delivered item and its companion files from the location they were delivered to. Check that the item reference leads to its page or context, its accessible reverse and its source note. Check that captions and other required metadata survived the actual export. Where the software allows it, also embed dates, sources, captions, places and people in each file's own metadata so they travel with the image [S12]. When an application drops those fields, preserve them in an accompanying register or plain-text sidecar file and record the gap [S1]. A passed check covers only the item you opened.
+
+**Privacy gate:** <!-- privacy-gate: export --> Downloading an Artifcts ZIP writes inventory fields and attached photos, recordings and documents, including material about people who may still be living, to the user's device. Answer the privacy gate in `SKILL.md` before downloading.
+
+For an existing Artifcts entry, choose **Download > ZIP** when the hand-off needs the attachments. Unpack it locally and check that the Excel inventory and the expected photographs, documents, audio and video are present and readable. An inventory spreadsheet by itself leaves the attached files out [S76 @2026-11-21], [S79 @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: link --> An item QR code passed with an album links its readers to the Artifcts entry, where access may expose photos and stories about people who may still be living. Check the approved audience and answer the privacy gate in `SKILL.md` before including the code.
+
+For an Artifcts-linked album, print the album's item QR code and put it on a loose slip with its stable reference. Test the slip with the recipient's approved access. A reader without permission can reach an access request for a private entry. Keep the local hand-off reference usable on its own [S76 @2026-11-21], [S77 @2026-11-21], [S79 @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: link, contact --> Naming Artifcts Legacy Contacts sends those people's email addresses to Artifcts, which notifies them, and can give them future access to private photos, stories and documents about people who may still be living. Answer the privacy gate in `SKILL.md` before adding a contact.
+
+In Artifcts, use **Account Settings > Security & Longevity** to name the primary Legacy Contact and a backup if the user has chosen one. Check what access the contacts will receive and how it is activated. Keep a checked local hand-off packet alongside the account arrangement [S76 @2026-11-21], [S80 @2026-11-21].
 
 ## Return
 

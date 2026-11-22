@@ -212,7 +212,7 @@ no declared action of that kind. The privacy gate also applies to unlisted outbo
 | [ethnicity-estimate-version-comparison](skills/genealogy-research-recipes/recipes/ethnicity-estimate-version-comparison.md) | — | — | — | export | — | required |
 | [evidence-proof-judgment](skills/genealogy-research-recipes/recipes/evidence-proof-judgment.md) | — | — | — | request | — | required |
 | [family-archives-material-storage](skills/genealogy-research-recipes/recipes/family-archives-material-storage.md) | public catalogues, documentation and historical records | — | — | — | — | — |
-| [family-collection-intake-and-capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md) | record catalogues and original images | — | — | publish, upload, link | contact | required |
+| [family-collection-intake-and-capture](skills/genealogy-research-recipes/recipes/family-collection-intake-and-capture.md) | record catalogues and original images | — | — | publish, upload, link, export, third-party-tool | contact | required |
 | [family-interviews-and-oral-tradition](skills/genealogy-research-recipes/recipes/family-interviews-and-oral-tradition.md) | record catalogues and original images | — | — | export, request, upload | — | required |
 | [family-papers-and-bible-register-dating](skills/genealogy-research-recipes/recipes/family-papers-and-bible-register-dating.md) | record catalogues and original images | — | — | third-party-tool | contact | required |
 | [family-photograph-attribution-and-dating](skills/genealogy-research-recipes/recipes/family-photograph-attribution-and-dating.md) | record catalogues and original images | — | — | link, publish, third-party-tool | contact | required |
