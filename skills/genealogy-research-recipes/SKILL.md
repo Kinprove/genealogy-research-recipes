@@ -534,6 +534,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/repository-photograph-collection-search.md` — Search repository photograph collections for an ancestor, home, shop or community by place and subject.
 - `recipes/family-archives-material-storage.md` — Choose protective enclosures for fragile family originals while preserving the evidence that links loose items to their original homes.
 - `recipes/mylio-historical-photo-date-and-worklist.md` — Use Mylio Photos to keep uncertain original photo dates, review queues, event groups and a local backup for a scan project.
+- `recipes/vaud-foundling-baptism-and-naming-records.md` — Follow a Vaud foundling’s baptismal note into a dated naming or placement inquiry and identify which relationship each record establishes.
 
 <!-- recipe-catalog:end -->
 
