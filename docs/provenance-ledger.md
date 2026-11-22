@@ -258,7 +258,8 @@ Record Group 233, Fold3), and a New York City birth certificate without a
 certificate number (portal steps). In each task, the user's date was 15 September
 2027, past every expiry window. Each layout ran three times per task. For each
 layout, `SKILL.md` described the markers that layout uses. The same model,
-without the layout name, graded each answer against the recipe's facts.
+without the layout name, graded each answer against the recipe's facts. The table
+shows its grades.
 
 | Layout | Right steps | States the check date | Warns that steps may have changed | Keeps attribution |
 | --- | --- | --- | --- | --- |
