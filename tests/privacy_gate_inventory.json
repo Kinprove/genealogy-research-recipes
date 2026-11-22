@@ -4234,5 +4234,11 @@
   "kind": "third-party-tool",
   "action": "also check the Washington County Free Library's Obituary Locator",
   "checkpoint": "The query sends the deceased subject's public name or the paper title and issue date"
+ },
+ {
+  "recipe": "uk-census-and-1939-register-interpretation.md",
+  "kind": "third-party-tool",
+  "action": "try MyHeritage's",
+  "checkpoint": "Before sending a 1921 census search to MyHeritage"
  }
 ]
