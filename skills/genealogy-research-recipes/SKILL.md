@@ -317,6 +317,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/newspaper-finder-title-coverage.md` — Use Newspaper Finder to discover alternate hosts for a historical newspaper and verify whether a host carries the target issue.
 - `recipes/us-national-archives-finding-aids-and-microfilm.md` — Resolve a U.S. National Archives series or film reference into an exact entry, roll and access route.
 - `recipes/familysearch-research-wiki-locality-routing.md` — Use FamilySearch Research Wiki jurisdiction and record-type pages to locate online and offline holdings before running a name search.
+- `recipes/rootstech-on-demand-session-recovery.md` — Find a relevant RootsTech session across location, language and speaker filters and check for a recording or downloadable handout.
 
 ### Books, periodicals and manuscripts
 
