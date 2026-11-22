@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-04"
 checked_basis: "opened 2026-11-04"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
-router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 177}
+router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 178}
 ---
 
 # Recover a Catholic sacramental entry through parish, diocesan and successor holdings

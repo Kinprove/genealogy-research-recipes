@@ -11,7 +11,7 @@ handoff: []
 checked: "2026-11-07"
 checked_basis: "opened 2026-11-07"
 capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": [], "contact": []}
-router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 178}
+router: {"section": "Record types in any country", "group": "Church and congregation registers", "order": 179}
 ---
 
 # Follow Catholic baptism–marriage cross-notations between parishes
