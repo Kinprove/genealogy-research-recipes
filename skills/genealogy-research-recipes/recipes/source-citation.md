@@ -53,6 +53,10 @@ keeps its collection, box and folder context. A label photo records the arrangem
 of your visit. It supports the citation but is not the citation. The
 [archivist's advice](https://www.youtube.com/watch?v=zNVSOhlUmgI) motivates this step.
 
+When a working scan or printout may be copied one page at a time, put the full citation with
+the locator for that page on the same side as the image. Keep the unaltered capture separately.
+Craig R. Scott describes placing the citation below the scan so it stays with a photocopy [N12].
+
 For a courthouse book inspected in person, cite the specific court and the courthouse where
 you consulted the book, with the book title, number and entry page [B34, from the available excerpt].
 Record the office, room or vault where you found the volume [B35].
