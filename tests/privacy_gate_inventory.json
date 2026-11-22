@@ -4018,5 +4018,17 @@
   "kind": "link",
   "action": "repeat the connection from each kit's FamilyTreeDNA account",
   "checkpoint": "Account linkage sends the kit holder's account details"
+ },
+ {
+  "recipe": "gedcom-research-export.md",
+  "kind": "export",
+  "action": "For a local copy of an archived FamilyTreeDNA tree",
+  "checkpoint": "These exports copy the selected tree from FamilyTreeDNA or MyHeritage to the user's own device."
+ },
+ {
+  "recipe": "gedcom-research-export.md",
+  "kind": "export",
+  "action": "For a copy of a tree already transferred to MyHeritage",
+  "checkpoint": "These exports copy the selected tree from FamilyTreeDNA or MyHeritage to the user's own device."
  }
 ]
