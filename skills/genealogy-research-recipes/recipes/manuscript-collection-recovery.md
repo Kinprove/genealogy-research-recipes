@@ -44,6 +44,8 @@ Before you query, build two registers.
 
 Identify the congregation by its historical name and dates using residence or membership records, then look for its registers in the relevant denomination’s catalogue or finding aids. For a Latter-day Saint congregation, search the Church History Catalog by historical ward, branch or stake, record type and period. A person may appear on a page filed under the ward without appearing in the catalogue description [S21], [S66].
 
+For a known member, search under the organisation’s historical name for meeting minutes covering their membership. Look for named motions, recorded votes and remarks attributed to the member [S80], [S81]. Record the meeting date and page. Attribute summaries to the minutes and leave the member’s position open when the entry gives only the group’s decision.
+
 For a possible lifetime land transfer, search the landholding family’s legal and financial papers under both parties to the gift. An unrecorded deed of gift was reported among one family’s private papers [S58], [S59]. Look for the dated instrument and compare the parties and parcel before recording the transfer.
 
 For a fraternal insurer, search its claim index by the member’s name, then record the claim, certificate and society numbers supplied. In the Polish Roman Catholic Union of America (PRCUA) index, the society number can separate namesakes. Check the claim number against the list of missing files [S67]. Request the whole surviving folder. One researcher found a son’s 1915 application naming his parents inside his later death-claim file [S29]. Cite the applicant and application date separately from the death claim.
@@ -100,6 +102,8 @@ Search without a repository-location filter first. Include the places where rela
 
 If a result set is large, switch ArchiveGrid to its summary view and narrow by people/family, place, archive location or topic. Write down the facet state with the result count [S3], [S6], [S7].
 
+After a WorldCat miss for a rare original, search manuscript catalogues, as Morton suggests according to the interview transcript [S86† @2026-11-21]. Search the likely repository’s own finding aids by creator, place and date, and try ArchiveGrid for its harvested finding aids [S88 @2026-11-21]. WorldCat includes manuscript records [S87 @2026-11-21]. Log the miss against the WorldCat query alone.
+
 For each search, record which layer it ran against:
 
 - **ArchiveGrid** draws on two inputs: MARC records from WorldCat, and finding aids (EAD, HTML or PDF) harvested from contributing institutions. Any institution can contribute, so OCLC membership is not a condition of inclusion. It is still a mainly United States, non-exhaustive collection-level index, so a miss there says nothing about repositories that have not contributed [S12], [S16].
@@ -114,11 +118,19 @@ For a family in Russia or the Soviet Union, search Прожито (Prozhito) by 
 
 For a family in the antebellum South, including enslaved people and overseers, search the microfilm edition *Records of Ante-Bellum Southern Plantations from the Revolution through the Civil War* (University Publications of America); a presenter in [S48 @2026-11-16] (partial read of a transcript extract) uses it routinely for Southern families. It reproduces selected collections from Southern state archives and university and historical-society libraries in lettered series, each drawn from one or more repositories. Most of the material comes from larger tobacco, cotton, sugar and rice plantations between the War of 1812 and the Civil War: business records, account books, slave lists, overseers' reports, diaries and private letters. Most records dated after 1865 were left out [S54 @2026-11-16]. Look up the county, the plantation name and each planter's surname in Jean L. Cooper's *Index to Records of Ante-Bellum Southern Plantations* (2nd ed., 2009), an index to the series guides by location, plantation, surname and collection title [S55 @2026-11-16]. Then read the printed guide for that series and part: its reel index gives each collection's contents and omissions, so note the reel there before requesting film [S54 @2026-11-16]. Cooper indexes the guides, not every name on the film, and each series is a selection from its repository, so a miss leaves both the film and the original repository's own finding aid unsearched. A library may hold only part of the set: the University of Arkansas owns one part, says reels may be requested through interlibrary loan, and lists no online option for the set [S56 @2026-11-16]. For the years after emancipation, check the separate microfilm set *Records of Southern Plantations from Emancipation to the Great Migration*; the library listing that names it gives no date range [S57 @2026-11-16]. Record the reel and the original repository's collection as separate holders, as for any copy.
 
+When researching an enslaved person, check any available landholding family papers for farm journals, as Fulton suggests according to the interview transcript [S84†]. In harvest entries, look for the worker’s name alongside the crop or assigned work. Record the name as written, the crop or task, the entry date and the page [S85]. Keep farm-wide totals separate from the work recorded for named individuals.
+
 A zero result applies only to that portal, its layer and the query. If a repository plausibly connects to the family's places, or to the places where children lived and died, contact it even if no portal shows anything [S12].
 
 **Privacy gate:** <!-- privacy-gate: contact --> Share only the town, historical community, period and kinds of papers sought, plus the sender’s authorised reply details, with the resident through a route the user already has. Apply the [privacy gate](../SKILL.md#privacy-gate) and its [Living people rule](../SKILL.md#living-people) before sending.
 
 If catalogues turn up little about a former local community, ask a town resident the user already knows whether they know of privately held books or papers from that community, including material found during renovations [S70], [S71]. Record the reported findspot and check inscriptions or other ownership marks before assigning earlier ownership.
+
+Keep the owner of a relevant tree on the list of possible holders even when the connection runs through a relative’s spouse. In one such case, a MyHeritage tree owner shared family photographs and documents [S82].
+
+**Privacy gate:** <!-- privacy-gate: contact --> Send only the sender’s authorised identity, the deceased ancestor’s name and period, and the question about the material to the tree owner via MyHeritage. Apply the [privacy gate](../SKILL.md#privacy-gate) and its [Living people rule](../SKILL.md#living-people) before sending.
+
+Check whether the user’s MyHeritage account offers private messaging for that tree lead. If it does, ask the tree owner about photographs or papers relating to the deceased ancestor [S83 @2026-11-21].
 
 For a missing plantation account book, search auction catalogues by estate, planter and the volume’s dates. Save the sale date, lot number and description [S61]. A recorded sale may be the last public locator when the buyer’s name is unavailable, as a researcher reported in the livestream transcript [S60†]. Check for a later donation or resale before assigning current custody.
 

@@ -107,8 +107,29 @@ The two Tanner talks give conflicting extents and family relationships for the s
 
 - **S79:** New Haven Colony Historical Society, [Jacobus Collection, MSS 101, Box XIV inventory](https://www.newhavenmuseum.org/wp-content/uploads/2013/06/MSS-101.pdf#page=6). Box XIV inventory page read 2026-11-20. The 1979 finding aid distinguishes family research notes from Jacobus’s copy of the Stratford vital records in folder E and identifies a gap in the copied pages.
 
+- **S80:** Rhonda Lauritzen, [Writing Compelling Characters in Your Family History](https://familytreemagazine.com/storytelling/writing-compelling-characters-in-your-family-history/), Family Tree Magazine, updated 2026-08-03. Community article read 2026-11-21. Lauritzen suggests looking in a group’s minutes for words attributed to a member and causes they supported.
+
+- **S81:** University of Georgia Libraries, [Demosthenian Society minutes (transcript)](https://dlg.usg.edu/record/guan_ua97-106_harg97-106-001-007), University of Georgia Literary Societies papers, UA97-106, Box 1, Folder 7. Institutional transcript page read 2026-11-21. The 24 October 1862 entry records a debate outcome and separately attributes a motion to Mr. Franklin. The site identifies the text as a typed copy of the minutes.
+
+- **S82:** Suzanne Cohen, [I Discovered That the Family I Thought Had Perished in the Holocaust — and Their Shoe Store — Are Still Thriving](https://blog.myheritage.com/2025/01/i-discovered-that-the-family-i-thought-had-perished-in-the-holocaust-and-their-shoe-store-are-still-thriving/), MyHeritage Blog, 2025-01-26. Community post read 2026-11-21. Cohen reports that a MyHeritage tree owner shared photographs and documents with help from her son as translator. The tree owner’s husband was the nephew of the wife of Cohen’s great-uncle. Cohen’s account supplies the lead through marriage and leaves the initial contact route unspecified.
+
+- **S83:** Daniella Levy, [Contacting Other MyHeritage Users: Instructions & Tips](https://education.myheritage.com/article/contacting-other-myheritage-users-instructions-tips/), MyHeritage Knowledge Base. Platform guide read 2026-11-21. It describes private messaging to other members, including a tree owner reached through a Smart Match. Availability for a particular lead depends on what the user sees in their account.
+
+- **S84:** Family Tree Magazine, [Understanding the 10 Million Names Project – An Interview with Lindsay Fulton | Episode 184](https://www.youtube.com/watch?v=e4dzU-MkQNA), 2024-05-06. Watch page attempted 2026-11-21 without retrieving the recording or transcript. In the supplied excerpt, Fulton describes a harvest journal linking an enslaved person’s name with a crop and encourages listeners to inspect their own family papers. The particular journal was unidentified.
+
+- **S85:** University of Mississippi Libraries, [Finding Aid for the Locust Grove Plantation Slave Ledger (MUM00275)](https://egrove.olemiss.edu/finding_aids/147/). Finding-aid catalogue page read 2026-11-21. The description identifies names of enslaved people and individual cotton harvest data in the 1825–1845 ledger. This is a separate collection from the unidentified journal in S84. The ledger itself was not inspected.
+
+- **S86:** Family Tree Magazine, [Exploring WorldCat.org – An Interview with Sunny Jane Morton | Best Websites](https://www.youtube.com/watch?v=r9QTO5CE0hg), 2025-02-19. Watch page attempted 2026-11-21 without retrieving the recording or transcript. In the supplied excerpt, Morton distinguishes a search for a rare original in a manuscript catalogue from a WorldCat search and acknowledges that WorldCat includes manuscript material. Use the documented coverage in S87 and S88 for the scope of each service.
+
+- **S87:** OCLC, [WorldCat](https://help.oclc.org/Discovery_and_Reference/FirstSearch/FirstSearch_databases/WorldCat), OCLC Support. Database documentation read 2026-11-21. It lists manuscripts among the materials catalogued in WorldCat and identifies WorldCat.org as an access route. The documentation gives no minimum copy count for a record.
+
+- **S88:** OCLC Research, [ArchiveGrid](https://www.oclc.org/research/areas/research-collections/archivegrid.html). Aggregation documentation read 2026-11-21. It distinguishes MARC records from WorldCat from finding aids harvested on contributor websites. The latter provide a separate search layer and cover contributing institutions’ material.
+
 ## Credits
 
+- Rhonda Lauritzen, Suzanne Cohen and Daniella Levy (S80, S82 and S83) — Rights retained by their owners, with attributed paraphrases of the accessed articles (adapted)
+- University of Georgia Libraries, University of Mississippi Libraries and OCLC (S81, S85 and S87–S88) — Rights not reviewed, with attributed paraphrases of the transcript, collection description and documentation (adapted)
+- Family Tree Magazine (S84 and S86) — Rights retained by their owners, with attribution and paraphrases of supplied interview excerpts (adapted)
 - Naama Lanski, Daniella Levy, Irena Kuczyńska and David Ridd (S70–S72) — Rights retained by their owners, with attributed paraphrases of the accessed posts (adapted)
 - Library of Congress, Minnesota Historical Society, Michigan Technological University and New Haven Colony Historical Society (S73–S74, S76–S77 and S79) — Rights not reviewed, with attributed paraphrases of guides and collection descriptions (adapted)
 - Family Tree Magazine and Just Genealogy (S75 and S78) — Rights retained by their owners, with attribution and paraphrases of supplied transcript excerpts (adapted)

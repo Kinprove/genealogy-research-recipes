@@ -4048,5 +4048,11 @@
   "kind": "request",
   "action": "request a staff search for the immigrant’s Swedish parish of origin",
   "checkpoint": "before sharing the immigrant’s or named relatives’ names"
+ },
+ {
+  "recipe": "manuscript-collection-recovery.md",
+  "kind": "contact",
+  "action": "ask the tree owner about photographs or papers",
+  "checkpoint": "Send only the sender’s authorised identity, the deceased ancestor’s name and period"
  }
 ]
