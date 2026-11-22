@@ -4192,5 +4192,17 @@
   "kind": "third-party-tool",
   "action": "by name and birth date, with birthplace blank",
   "checkpoint": "The Swedish emigrant’s name and exact birth date go to ArkivDigital"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "ask the match what names the candidate went by",
+  "checkpoint": "Comparing family accounts with a DNA match discloses the parentage question"
+ },
+ {
+  "recipe": "unknown-parentage-wato.md",
+  "kind": "contact",
+  "action": "ask the proposed sibling whether they are willing to test",
+  "checkpoint": "Recruiting a living relative to DNA-test discloses the hypothesis and asks for their genetic data"
  }
 ]
