@@ -21,9 +21,16 @@ was verified.
 - **S12:** Lisa Lisson, [12 Underused Sources for Family Photos](https://familytreemagazine.com/photos/underused-sources-for-family-photos/), *Family Tree Magazine*. Search-result extract of section 3 read 2026-11-20 after the article URL returned HTTP 403. Lisson suggests looking for local family photographs in vertical files, either on site or by asking staff to search remotely.
 - **S13:** Genealogical Forum of Oregon, [Vertical Files](https://gfo.org/resources/digitalarchive/vertical-files/). Collection guide read 2026-11-20. It describes member contributions arranged by surname, place or cemetery, with photographs among the possible contents and undigitized folders available in the library.
 - **S14:** Genealogical Forum of Oregon, [Research Services](https://gfo.org/resources/research-services.html). Lookup service page read 2026-11-20. It lists vertical files among the materials eligible for staff lookups.
+- **S15:** Family Tree Magazine, [Researching Your Family History at Your Local Library – An Interview with Anna Rose Johnson](https://www.youtube.com/watch?v=Us20XQMebGo), 2023-02-06. Supplied transcript excerpts and the publisher's search listing read 2026-11-21. The watch page could not be opened. Johnson suggests checking the library for local newspapers missing online and browsing its site menus for collections and links to resources hosted elsewhere.
+- **S16:** Anna Rose Johnson, [Using Local Libraries for Genealogy Research](https://familytreemagazine.com/libraries-archives/using-local-libraries-for-genealogy-research/), *Family Tree Magazine*. Companion article read 2026-11-21. Johnson suggests looking under Resources, Genealogy, Research or Local Archives for genealogy materials, local newspapers, photographs and links to outside collections.
+- **S17:** Galesburg Public Library, [Using the Local History Collection](https://galesburglibrary.org/archives/collection). Archives guide read 2026-11-21. It lists manuscript collections and links to a selection of the library's photographs on Flickr.
+- **S18:** Kern County Library, [Online Resources By Subject](https://kerncountylibrary.org/online-resources-by-subject/). Local History Room description read 2026-11-21. It directs readers to microfilm for area newspapers that have not been digitized.
+- **S19:** Hastings Public Library, [Genealogy and History Research](https://www.hastingspubliclibrary.org/resources/online_resources/genealogy-and-history-research). Newspaper holdings table read 2026-11-21. It separates online runs from print runs by newspaper title and date range.
 
 ## Credits
 
+- Family Tree Magazine and Anna Rose Johnson (S15, S16) — Third-party interview and article advice paraphrased (adapted)
+- Galesburg Public Library, Kern County Library and Hastings Public Library (S17–S19) — Third-party collection descriptions paraphrased (adapted)
 - Lisa Lisson, Family Tree Magazine (S12) — Third-party article advice paraphrased (adapted)
 - Genealogical Forum of Oregon (S13, S14) — Third-party collection and lookup descriptions paraphrased (adapted)
 - Jennings County Public Library (S11) — Gray Boxes collection description paraphrased (adapted)
