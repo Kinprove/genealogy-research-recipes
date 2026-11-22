@@ -10,7 +10,7 @@ guardrails: [{"id": "RESEARCH-DOCUMENTATION-01", "text": "Use `NIL` for a comple
 handoff: ["evidence-proof-judgment", "manuscript-collection-recovery", "russian-empire-emigrant-origin-recovery", "source-citation", "unknown-parentage-wato"]
 checked: "2026-11-03"
 checked_basis: "fetched on 2026-11-03"
-capabilities: {"browse": ["FamilySearch Catalog", "Ancestry Card Catalog", "Fold3"], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": []}
+capabilities: {"browse": ["FamilySearch Catalog", "Ancestry Card Catalog", "Fold3"], "local_script": [], "extensions": [], "data_transfer": ["publish"], "contact": ["contact"]}
 router: {"section": "Research method", "group": "Evidence and proof", "order": 3}
 ---
 
@@ -47,6 +47,17 @@ Use `NIL` for a completed search with no hits. Record inaccessible images, inter
 and unsearched collections with their actual status. Keep literal record wording and uncertain
 readings separate from your interpretation.
 
+For a faded immigration entry, transcribe what you can read and mark the illegible spans.
+Keep the document number and the exact location in the image with the partial reading [B42].
+
+**Privacy gate:** <!-- privacy-gate: publish --> Posting an immigration-record excerpt or question
+can expose details about the traveler and other people named in the record to the genealogy forum
+or social media group and its audience. Answer the privacy gate in `SKILL.md` first.
+
+If you still need a second reading, post only the cropped, redacted excerpt and the question
+needed to read it to a genealogy forum or social media group after clearing the gate. Log each
+suggestion with its contributor and check it against the image before adopting it [B42].
+
 A web search-engine query, including a `site:` query, does not search a site's internal database.
 Run the site's own search across the name variants (such as Cyrillic е/ё spellings and -ев/-ов
 surname endings), and log that venue and query as what was searched; an empty search-engine result
@@ -78,6 +89,12 @@ For a set of multi-person records, assign each source item a document number and
 To compare associates across record types, give each identified person or unresolved candidate a row and each dated source item a column. Order the columns by the recorded action or observation and retain their document numbers [B6](https://familylocket.com/rlp-257-alford-johnson-project-interview-with-michelle-mickelson-part-1/). Mark observed occurrences and use recurrent combinations to choose a distinguishing record. A blank cell leaves the occurrence unknown, and copies of a single record remain dependent. Keep the source log and occurrence rows behind the chart.
 
 Log the names actually searched in each resource, with the date and method. If you encountered another surname while extracting records, record the occurrence and queue a separate search before describing that surname as covered [B7](https://dna-explained.com/2024/06/14/genealogy-proof-series-extracting-and-recording-data-so-that-you-can-find-it/).
+
+When records give different names for a person or candidate, log each full name as written with
+the record date and citation. Compare the forms in date order. In the next search, start with
+forms recorded near the target date, including any middle name or nickname used in the given-name
+field [B41]. Keep the recorded forms alongside the working name and check identity against other
+details in the records.
 
 For a surname study in parish metrical books, keep separate lists of brides born with the surname and brides who took it at marriage, alongside the family groups [B8](https://rodgersforum.borda.ru/?1-0-0-00000238-000-0-0-1721744472=). When a widow is recorded under a previous husband’s name, follow that marriage back one entry at a time. Look for her birth surname in the first marriage you can establish. Check the spouses, places and chronology against each original, retain age discrepancies and mark any marriage you could not locate.
 
@@ -302,6 +319,19 @@ without imposing an additional approval process.
 State the person and question, list the records inspected, and explain which observations
 support or contradict each proposed identity, movement or locality. Refer to the document
 numbers and citations so another researcher can retrace the analysis.
+
+For a family-history scrapbook, draft the narrative along the subject's life timeline. If
+portraits are scarce, use record images, gravestone photos or relevant book and newspaper extracts.
+Keep the source locator with each and turn gaps exposed by the draft into specific questions
+tied to the timeline [B40].
+
+**Privacy gate:** <!-- privacy-gate: contact --> A question sent to a living relative may disclose
+details about the subject or other living people to that relative. Answer the privacy gate in
+`SKILL.md` first.
+
+After clearing the gate, ask a living relative who may know the missing detail through a route
+allowed by the [Living people rule](../SKILL.md#living-people). Record any recollection with
+the speaker and date, and leave unresolved details open [B40].
 
 **Privacy gate:** <!-- privacy-gate: publish --> Handing or sharing the report, in full or in parts,
 exposes what it says about living relatives to family members and other readers; answer the

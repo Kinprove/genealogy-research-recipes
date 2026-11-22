@@ -168,6 +168,24 @@ are used.
   <https://www.ancestry.com/c/discover/education/fold3/>.
   Publisher's event description read 2026-11-20. The description identifies conflict-based
   organization for military records.
+- S40. (B40) Sunny Jane Morton, "Scraps of History: Scrapbooking Family History", Family Tree
+  Magazine, last updated 2026-10-27,
+  <https://familytreemagazine.com/projects/scraps-of-history-scrapbooking-family-history/>.
+  Community article read 2026-11-21. Morton describes Irene Miller building an illustrated
+  timeline with record images, gravestone photos and copies of printed sources. Morton suggests
+  filling gaps found while drafting and gives Cindy L. Hearrell's example of asking living
+  relatives about missing details. The recipe applies the project's citation and contact rules.
+- S41. (B41) MyHeritage Blog, "Top 8 Traditional Middle Names to Help Narrow Your Search",
+  2024-10-14, <https://blog.myheritage.com/2024/10/top-traditional-middle-names-to-help-narrow-your-search/>.
+  Community article read 2026-11-21. The blog suggests comparing full names, sources and dates
+  across records, and searching middle names and nicknames in place of first names. The recipe
+  uses dated forms to guide searches and checks identity against the records.
+- S42. (B42) MyHeritage Blog, "Tracing Your Roots: Using Immigration Records to Find Ancestral
+  Origin", 2025-01-20,
+  <https://blog.myheritage.com/2025/01/tracing-your-roots-using-immigration-records-to-find-ancestral-origin-2/>.
+  Community article read 2026-11-21. The blog suggests retaining partial notes and asking a
+  genealogy forum or social media group for help with hard-to-read immigration entries. The
+  recipe applies the project's disclosure and evidence rules to that advice.
 - **H1.** Günter Junkers, "Backup für das kulturelle Erbe der Ukraine", Compgen-Blog,
   2022-03-15, <https://www.compgen.de/2022/03/backup-fuer-das-kulturelle-erbe-der-ukraine/>,
   read 2026-11-12. Used for: Wayback captures of Ukrainian museum and library sites mostly saving
@@ -201,3 +219,4 @@ are used.
 - Günter Junkers, Compgen-Blog, Backup für das kulturelle Erbe der Ukraine, 2022-03-15, cited as H1 — Third-party content, all rights reserved by the rights holder; short adapted paraphrase with attribution (adapted)
 - Kinprove original source-scoped additions from the practitioner and institutional references checked 2026-11-16; no source passages reproduced — FSL-1.1-MIT (kinprove-original)
 - Just Genealogy, FamilySearch and Ancestry (S36–S39) — Third-party guidance paraphrased with attribution (adapted)
+- Sunny Jane Morton, Family Tree Magazine, and MyHeritage Blog (S40–S42) — Third-party rights retained by their holders, guidance paraphrased with attribution (adapted)
