@@ -10,7 +10,7 @@ guardrails: [{"id": "PUBLISHED-BOOK-CATALOGUE-AND-FULL-TEXT-DISCOVERY-01", "text
 handoff: ["hebrewbooks-search-recovery"]
 checked: "2026-11-02"
 checked_basis: "opened 2026-11-02"
-capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request"], "contact": []}
+capabilities: {"browse": ["record catalogues and original images"], "local_script": [], "extensions": [], "data_transfer": ["request", "third-party-tool"], "contact": []}
 router: {"section": "Record websites, libraries and maps", "group": "Books, periodicals and manuscripts", "order": 44}
 ---
 
@@ -75,6 +75,8 @@ On any full-text tool, including HathiTrust, a zero result can come from an OCR 
 
 **Use P. William Filby's *A Bibliography of American County Histories* as another title finder.** The Family History Library's Ohio research outline recommends the 1985 bibliography for local histories [S54]. Carry a discovered title, author and edition into current catalogues, and also search regional titles covering the locality rather than limiting the query to a single-county title [S58].
 
+**Look up the surname in Munsell's *Index to American Genealogies* for early published U.S. research.** Use the 1900 fifth edition and search the *Supplement, 1900 to 1908* separately. The Genealogical Publishing Company reprint issued in Baltimore in 1979 contains both [S113], [S114]. Carry each cited book or article into the catalogue search. Search later publications separately. According to the chapter transcript, Jacobus describes the index as useful for the earlier literature [S112†].
+
 **Search the catalogue of each library that serves the county, not only WorldCat and the FamilySearch Catalog.** WorldCat shows a library's copy only when the library is an OCLC member, has chosen to represent its collection in WorldCat and keeps the subscription that makes its holdings visible [S48 @2026-11-16]. The FamilySearch Catalog describes material that FamilySearch has collected [S49 @2026-11-16]. A book held only by a local library can be missing from both. Find the online catalogue of the public library or libraries serving the county and run the subject queries there too. The Just Genealogy video on county research makes this a step of its own for that reason (known here only from transcript excerpts; the video itself was not read) [S46† @2026-11-16]. Log each of these catalogues as a separate catalogue-search tool in the register.
 
 **Record WorldCat's holding libraries for each title.** Enter a postal code or location and WorldCat lists the nearest libraries that hold the title [S2], [S6].
@@ -96,6 +98,10 @@ On any full-text tool, including HathiTrust, a zero result can come from an OCR 
 **Search a genealogy publisher's catalogue by county and state when a county bibliography has gaps.** The presenter reports a 2022 FamilySearch Catalog miss for the Highland County death book [S95† @2026-11-20], which the Library of Virginia lists as Woodrow Clay Hamilton's *Highland County, Virginia Death Records, 1853–1898*, F232 H8 H36 2010 [S97 @2026-11-20]. Recheck the title and county in the FamilySearch Catalog you can access. For Virginia, search Heritage Books' Virginia catalogue by county and record type [S96 @2026-11-20], then carry any discovered title into a holder's catalogue.
 
 ## 3. Browse the classification range from a relevant hit
+
+**Use a relevant WorldCat record to start a new subject or author search.** In the item details, expand **Show More** under **Subjects** and click the heading that matches the place, topic and period [S100 @2026-11-21]. Run a separate **Author** search in **Advanced Search** for other works by the author [S101 @2026-11-21]. Log both queries. According to the episode transcript, Sunny Jane Morton demonstrates following a subject heading and suggests searching by author [S99† @2026-11-21].
+
+**Use WorldCat's public lists as another source of titles.** Once you have a relevant family history, use its historical surnames and localities as leads for list names in **Lists** search. Open promising lists and check each title against your scope [S107 @2026-11-21]. According to the episode transcript, Morton suggests looking for overlap in surnames and places and revisiting a relevant list for later additions [S99† @2026-11-21]. Record the list locator with the [book-discovery register](#9-close-with-a-book-discovery-register).
 
 **Use one relevant catalogue hit to find its call-number range.** Then browse that whole range:
 
@@ -152,6 +158,12 @@ Fold3 has page images of all ten series, which you can search by name or browse 
 
 ### Choose the compilation by place, period and question
 
+**For a Swiss locality, look for a *Familienbuch* before abandoning the book search.** The MyHeritage author suggests looking through regional libraries and historical societies [S109]. Query their catalogues and bibliographies with the place name and *Familienbuch*. For the Basel region, check the genealogical society's source list for local family compilations [S110]. Verify the place and years covered and classify the item before using it. The Basel-Stadt archive guide also uses *Familienbuch* for household registers [S111].
+
+**For nineteenth-century U.S. contributors claiming colonial descent, search Joel Munsell's Sons' *American Ancestry*.** Use the twelve-volume set or the Clearfield reprint in four books. Start with the nineteenth-century descendant and work backward through the asserted line [S115]. Verify each link in the records. According to the chapter transcript, Jacobus describes the series as inviting contributors to submit their own lines [S112†].
+
+**For submitted U.S. pedigrees, search Frederick A. Virkus's seven-volume set.** Search under *The Abridged Compendium of American Genealogy* and *The Compendium of American Genealogy*. The original series used the shorter title for volumes 4–7 [S116]. Check the volume indexes for the descendant or the earliest American ancestor named in the line, and verify the reported links [S117]. According to the chapter transcript, Jacobus describes the scope of the pedigrees [S112†].
+
 **For early Québec families, open René Jetté's *Dictionnaire généalogique des familles du Québec des origines à 1730* first.** This 1983 Presses de l’Université de Montréal dictionary revises and corrects material in Cyprien Tanguay's *Dictionnaire généalogique des familles canadiennes* within Jetté's period [S68], [S69]. For years beyond 1730, check Tanguay's coverage. Resolve conflicting entries with the records behind them.
 
 **Search Ancestry for the Tanguay Collection or collection number 2177.** Check the collection label for Cyprien Tanguay's seven-volume *Dictionnaire généalogique des familles canadiennes* [S68 @2026-11-20], [S70 @2026-11-20]. If the surname is elusive, check volume VII for surname variants and *dit* names [S70 @2026-11-20]. Record the volume and printed page and follow the entry's details into the relevant register.
@@ -177,6 +189,16 @@ Fold3 has page images of all ten series, which you can search by name or browse 
 **For West Virginia's Kanawha Valley, choose a volume by the kind of evidence needed.** According to the transcript excerpt, the presenter distinguishes settlement history from resident sketches [S91†]. In the 1891 *History of the Great Kanawha Valley*, start in volume I for early settlements and border events, including chapter X for the account of Cornstalk's death and later attacks [S92]. In volume II, browse the resident's county under the biographical sketches and check the medical history for pioneer physicians [S93]. Record volume and printed page with each lead.
 
 **For homes and settlers of the upper Kanawha, check Ruth Woods Dayton's *Pioneers and Their Homes on the Upper Kanawha* (1947).** The presenter suggests this title, according to the transcript excerpt [S91†]. Compare the target home or locality with the book's coverage before using a miss to assess the family's presence [S94].
+
+**For early settlers of Canton, Connecticut, search under West Simsbury as well.** Open Abiel Brown's *Genealogical History, with Short Sketches and Family Records, of the Early Settlers of West Simsbury, Now Canton, Conn.* (1856) for the family sketches [S128]. According to the episode transcript, the presenter recommends the book for these settlers [S123†].
+
+**For Brent Town and the Elk Run Valley in Fauquier County, Virginia, choose the volume by question.** Use Joan W. Peters's *Brent Town and the Elk Run Valley, A History*, volume I (*From Acquisition to Settlement, 1688–1800*) for land and settlement [S126]. Use volume II (*The Families and Homes, 1759–1800*) for family entries arranged by surname, and follow the probate records behind the family charts [S127]. According to the episode transcript, the presenter recommends both volumes [S123†].
+
+**For the Newton County, Mississippi, Amis compilation, choose the chapter by the family branch's earlier locality.** Search Lucius F. Wright's edition by ISBN 9780788455667 or by title words *Amis*, *Brewer* and *Newton County*. Use the chapters for Lewis or William Amis of Granville County, North Carolina, John Amis of Maury County, Tennessee, or the Brewer families of Sumter County, Alabama, through 1860 [S124]. According to the episode transcript, the presenter describes Wright's edition as an expansion [S123†]. Use Wright's second-edition introduction to identify what he added or recast in Register format and what comes from the 1936 manuscript by A. B. Amis. Count a claim carried over from the manuscript as one account [S125].
+
+**For a Charleston patriot thought to have been exiled to St. Augustine in 1780, check the appendices in *Patriots in Exile*.** In the book by James Waring McCrady and C. L. Bragg, start with appendix A for the exiles and appendix C for sources identifying them [S130]. Use those citations to follow the individual into the underlying records. According to the episode transcript, the presenter suggests using the names, sketches and citations in the book [S129†].
+
+**If a Missouri county history omits the ancestor, read the county section and search its sketches for documented associates.** Look for Goodspeed's *History of Franklin, Jefferson, Washington, Crawford & Gasconade Counties, Missouri* (1888) and the added index in Southern Historical Press's 2001 reprint [S122]. Treat anyone found as an associate only when a record or passage supports the connection. According to the episode transcript, the presenter suggests the county history and the sketches of possible associates as alternate leads [S121†].
 
 ### Follow a separate all-person index into the biography
 
@@ -243,9 +265,17 @@ verified here; use the procedure to check the actual case rather than copy its e
 
 **Record a view level for each holder checked:** full view or "read", snippet, preview, timed loan, restricted/on-site, or catalogue only. Note which copy and edition you actually read, and the country you searched from.
 
-**Privacy gate:** <!-- privacy-gate: request --> A loan or page-copy request sends the book's title, call number and pages, and the name of any person it mentions, to library staff (the user's own library for a loan, the holding library for page copies). Before a request names a person or asks staff to search for one, answer the [privacy gate](../SKILL.md#privacy-gate) for that person, who may be living.
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> The visit search sends the city chosen by the user to WorldCat. Use a public destination city and leave out home addresses and device location.
+
+**For an in-person visit, centre the WorldCat holdings search on a city the user can visit.** Use that public city name in the location setting [S102 @2026-11-21]. In **Find a Copy at a Library**, match the edition and compare the distances shown for featured libraries. Check **All libraries** for additional holders when available [S103 @2026-11-21]. According to the episode transcript, Morton used a city-based search to locate a copy she could visit [S99† @2026-11-21].
+
+**Check visitor access separately from lending at a seminary library.** Read the holding library's guest policy and opening hours before planning an on-site consultation. Saint Charles Borromeo Seminary's library allows visitors and lists separate borrowing eligibility [S104 @2026-11-21]. According to the episode transcript, Morton consulted a WorldCat holding on-site at a private seminary [S99† @2026-11-21].
+
+**Privacy gate:** <!-- privacy-gate: request --> A loan or page-copy request sends the book's title, call number and pages, and the name of any person it mentions, to library staff (the user's own library for a loan, the holding library for page copies). An index lookup sends the title and identifying search details to the holding library's staff. Before a request names a person or asks staff to search for one, answer the [privacy gate](../SKILL.md#privacy-gate) for that person, who may be living.
 
 **For a book held only on paper, record whether the holding copy lends.** Read the holding library's lending rule before you list interlibrary loan as the route. Allen County Public Library, for example, excludes reference materials and rare or unique materials from interlibrary loan, and its Genealogy department lends nothing but offers copying services [S50 @2026-11-16]. Where the copy does not lend, record a request for copies of the pages you need as the follow-up route. The user sends any loan or copy request, including the interlibrary loan in [section 8](#8-treat-snippets-incidental-mentions-and-transcriptions-as-leads). Draft it with the title, call number and pages only.
+
+**For an indexed work with an unknown page number, check the holding department's lookup policy.** Look for reference, local history or genealogy services at the holding library. If it offers lookups, draft a targeted index lookup for the user to send with the title, volume or edition, call number and the minimum name or date needed. St. Louis County Library accepts requests identifying an indexed source [S105 @2026-11-21]. According to the episode transcript, Morton suggests watching the holdings for these departments and describes asking for a lookup in an obituary index [S99† @2026-11-21].
 
 **For a family account of U.S.–Canadian migration, check Allen County Public Library's Family Resources.** The article suggests Allen County Public Library, according to its search-result extract [S75† @2026-11-20]. Open **Family Resources** from the Genealogy Center's Research Resources and check for a submitted family history or file even if a published-title search found nothing [S76 @2026-11-20]. Record the account and the places it actually covers.
 
@@ -261,6 +291,10 @@ verified here; use the procedure to check the actual case rather than copy its e
 Record both the aggregator locator and the host or sponsor locator.
 
 **Inspect an accessible library copy for handwritten annotations, corrections and inserted material even when you have read another copy of the edition.** UVA's Book Traces account documents such copy-specific additions [S51]. Cite the particular holding copy and page or insertion, and distinguish its printed text from later handwriting. Determine who wrote a note before attributing it to the donor or author [S55].
+
+**Check a reprint's front and back matter for added indexes, corrections and additions.** Search any added index and cite the edition and section that supplied the hit. Compare a correction with the original and record the source named for it. The Genealogical Publishing Company editions of *History and Genealogy of the Families of Old Fairfield* and *Kentucky Soldiers of the War of 1812* illustrate added corrections and an added index, respectively [S118], [S119]. According to the chapter transcript, Jacobus also describes reprints made from annotated copies [S112†]. If copied handwriting appears in a reprint, identify it as an annotation and look for the source copy.
+
+**Search for a separate reprint when you have a reference to a periodical or printed archives volume.** Try the article or record-set title with the parent publication and the reprint publisher. Check the reprint's contents and citation to the original. For *The Pennsylvania Magazine of History and Biography*, check *Genealogies of Pennsylvania Families* [S120]. For Virginia land entries and Pennsylvania donation lands, check William Henry Egle's *Virginia Claims to Land in Western Pennsylvania Published with an Account of the Donation Lands of Pennsylvania*, the Clearfield reprint of two *Pennsylvania Archives* excerpts [S131]. According to the chapter transcript, Jacobus describes separate reprints of previously published records [S112†].
 
 ## 7. Search photographs and other non-text items through their descriptions
 
@@ -293,3 +327,9 @@ Return one register containing:
 - **Holders or ranges not checked**, listed separately.
 
 A miss is only a miss for that tool, query and range. It never establishes that the book doesn't exist or isn't held.
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> Saving or following a list sends the user's account association, selected titles or list identifier, and any supplied list name or description to WorldCat. Use public bibliographic details only, leave living people's details out, and answer the [privacy gate](../SKILL.md#privacy-gate) before any account action sends personal data.
+
+**Save titles to a private WorldCat list when the user chooses account-based tracking.** In a personal account, use **Add item to list** and verify **Private** before saving. A public list is visible to WorldCat visitors [S106 @2026-11-21]. According to the episode transcript, Morton suggests grouping books by topic [S99† @2026-11-21].
+
+**Follow the public list if the user wants to revisit it and their account offers that control.** OCLC documents access to followed lists from the user profile [S108 @2026-11-21]. Keep the list locator in the register for later checks.
