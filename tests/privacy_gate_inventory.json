@@ -4210,5 +4210,11 @@
   "kind": "third-party-tool",
   "action": "If the soldier's handwritten name on a WWI letter is hard to read, search MyHeritage's",
   "checkpoint": "MyHeritage receives the soldier's tentative name and, if entered, the addressee's historical city or county"
+ },
+ {
+  "recipe": "us-census-practical-workflows.md",
+  "kind": "third-party-tool",
+  "action": "Try the MyHeritage 1950 United States Federal Census index",
+  "checkpoint": "The historical name and location search terms for the census subject go to MyHeritage's collection search."
  }
 ]
