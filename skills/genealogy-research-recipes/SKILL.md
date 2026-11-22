@@ -412,6 +412,7 @@ shared with others. Refer to them by role, for example "a witness".
 - `recipes/british-army-first-world-war-service-records.md` — Route a First World War British Army soldier, nurse or Household Cavalry member to the surviving series for their service.
 - `recipes/piracy-and-privateering-records.md` — Use a commission, vessel history and surviving court papers to distinguish a commissioned capture from piracy and follow a sailor’s disposition.
 - `recipes/british-raf-air-force-list-recovery.md` — Reconstruct British RAF officer rank and seniority from dated Air Force Lists, then choose the personnel series that fits the person.
+- `recipes/jersey-occupation-registration-card-recovery.md` — Trace a Jersey resident or child through German Occupation registration cards and household entries.
 
 ### Western and Northern Europe
 
