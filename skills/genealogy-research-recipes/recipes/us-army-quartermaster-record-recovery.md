@@ -28,9 +28,23 @@ According to the presenter, a hospital lead in these records should first be tre
 
 According to the presenter, check the main series of letters sent by the Office of the Quartermaster General on microfilm M745 [S1† @2026-11-20]. Use the calendar date and office to narrow the volume, and carry any recipient and subject into the correspondence search [S2 @2026-11-20].
 
+## Trace a newspaper solicitation to the contract
+
+According to the presenter, use a newspaper solicitation to start an award search with the goods, delivery point and bid deadline, when given [S5† @2026-11-21] [S6 @2026-11-21]. Search the military contracts and leases in the Second Comptroller’s Quartermaster Division, RG 217 (§217.4.5), using the likely contract year and, when known, the contractor’s surname. Check the general contract index for 1862–1889 and the registers of bonds, contracts and leases for 1817–1894. Verify the award before crediting a supplier [S7 @2026-11-21].
+
+According to the presenter, follow a Treasury contract into the Quartermaster General’s correspondence for the proposal and its enclosures [S5† @2026-11-21]. Carry the contractor, commodity, date and issuing office into RG 92’s supply correspondence (§92.4.1) and check the headquarters *Consolidated Correspondence File*, 1794–1890 (§92.3.1), when it covers the transaction [S2 @2026-11-21]. For a cloth bid, look for the specification and any sample requested with the proposal [S8 @2026-11-21].
+
 ## Carry a claim index hit to the papers
 
 According to the presenter, start a possible quartermaster claim with microfilm M1999 [S1† @2026-11-20]. Locate the *Index to Quartermaster Claims, 1839–1894* in the National Archives Catalog. Copy the index’s register, claim and claimant references into the search for the corresponding register and case papers. A miss covers the index rather than all quartermaster transactions [S2 @2026-11-20] [S3 @2026-11-20] [S4 @2026-11-20].
+
+According to the presenter, check a Mexican War teamster’s possible horse claim by claimant surname [S9† @2026-11-21]. Use M1999 for RG 92, including its references to the register for claims chiefly relating to the Mexican War, 1847–1858 (NM 81, part I, entry 790). Keep both the register volume and claim number from the hit [S10 @2026-11-21]. Check the Treasury’s *Registers of Mexican War Horse Claims* (NAID 2662977) and *Abstracts of Mexican War Horse Claims* (NAID 2663104) separately in RG 217 [S11 @2026-11-21].
+
+## Identify a Quartermaster officer named by a teamster
+
+According to the presenter, test an uncertain officer name in a Mexican War teamster record against Francis Heitman’s *Historical Register and Dictionary of the United States Army*, volume 1, part II [S12†]. Use the alphabetical officer list to compare possible surnames and the dates of their Quartermaster appointments with the service clue [S13].
+
+According to the presenter, read `bvt` as brevet and compare its date with the regular appointment date before ruling out a candidate [S12†] [S13]. Verify pay separately in a pay record [S14]. A wartime reference to Major Ebenezer S. Sibley fits his brevet of 23 February 1847, which preceded his appointment as major quartermaster on 22 December 1856 [S13].
 
 ## Handoffs
 
