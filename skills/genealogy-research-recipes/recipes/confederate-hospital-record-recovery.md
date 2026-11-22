@@ -32,6 +32,8 @@ For Charlottesville General Hospital, use the separate patient index in Chapter 
 
 When opening a hospital’s records, distinguish a patient register from case accounts or statistical returns. A name search in a statistical return supplies no named patient coverage. Use a dated register entry to tie treatment to a patient and a unit. [S2], [S3]
 
+Robert J. Driver Jr.’s Prince Edward County volume covers Farmville Hospital deaths, according to the presenter’s book roundup. [S7†] For a death at Farmville General Hospital from April 1862 through April 1865, look up the name in the volume’s separate hospital death list (ISBN 9780788426971). Check the death list even if the county soldiers’ roster has no entry for the patient. [S8]
+
 ## Search related papers at other custodians
 
 Alongside the Charlottesville register, check the James Edgar Chancellor papers at the University of Virginia for the 1862–1863 surgical cases. For Louisiana State Museum leads, check RG 326 at item level for surviving furlough, discharge and orders material for the relevant hospital. Keep these series separate when recording which dates and patients you searched. [S5 @2026-11-18], [S6 @2026-11-18]
