@@ -65,6 +65,8 @@ between a related proceeding and the principal case, or leave that connection un
 
 Do not expect a pre-1900 U.S. probate file to give the death date: the court needed to know that the person was dead, not when, so the record may give no date or only "on or about" a date [S68]. Probate records are inconsistent about death dates, and an index can carry a date that the record itself lacks [S69]. Enter a stated date with its wording. Otherwise bound the death by the earliest court action that requires it, such as the petition to open the estate or the will's proving, and not by the witnesses' testimony, which in some areas was taken when the will was written [S69].
 
+When a War of 1812 bounty-land warrant is followed by census misses, search for the veteran’s estate in the last supported residence and other independently supported venues. Look for heirs and an executor or administrator [S127]. Check the warrant application for who applied and where. Widows and heirs could apply, so keep the warrant date and census misses as search leads and establish any death bounds from other evidence [S128].
+
 When a colonial Maryland will gives both dates, use the signing date as the lower bound and the date the will was proved as the upper bound, as the presenter demonstrates in the only available excerpt on those dates [S100], [S101]. Record the interval as on or after signing and on or before probate. Keep any independently supported tighter bound.
 
 If the expected court yields no case, do not report "no probate". Widen the search as a logged
@@ -138,6 +140,8 @@ When no will survives for a colonial Maryland ancestor, search the court records
 
 Route a Maryland will by its probate date, as the presenter suggests in the only available excerpt on the transition [S100]. Search the Prerogative Court’s will series and the relevant surviving county series for probate before the 1777 transfer. Search the county Register of Wills series for probate after the transfer. Search both if the probate date is uncertain around the transition [S101].
 
+For a Maryland estate after the transfer, use the Register of Wills series for the filing county or Baltimore City, even when the matter went before the Orphans’ Court (the courthouse lead from the available excerpt [S129 @2026-11-21]). The Register keeps the proceedings as clerk to the Orphans’ Court, which decides probate disputes [S130 @2026-11-21]. For historical records, use the Maryland State Archives’ county probate guide to check the series, years and access location [S131 @2026-11-21].
+
 For a New Hampshire estate before 1771, search the provincial probate records, not a county court. Probate from 1636 to 1771 was filed at Exeter and Portsmouth, and the colonial probate files are now at the New Hampshire State Archives [S60 @2026-11-14], [S61 @2026-11-14]. Counties were created in 1769, but the provincial probate period runs to 1771 [S61 @2026-11-14]. For a town near the Massachusetts border, also search the Massachusetts county probate records [S61 @2026-11-14].
 
 For Connecticut, search by probate district, not by town or county [S60 @2026-11-14]. Look the town up in the Connecticut State Library's Probate Districts by Town guide, which gives the district or districts the town belonged to at different times [S62 @2026-11-14]. A district created later out of another does not hold the earlier estates: Colchester's district was created in 1832 out of East Haddam, so an earlier Colchester estate is in the East Haddam district [S63 @2026-11-14]. Repeat the check for the parent district's own creation date. Connecticut probate courts also handled guardianships, adoptions and conservatorships, so search the same district for them [S62 @2026-11-14].
@@ -183,6 +187,14 @@ retrieval result and remaining production or survival question to the case regis
 ## 2. Resolve every discovered reference into its own inventory row
 
 For a colonial Maryland will whose probate year is unknown, start with Magruder’s alphabetical Index of Maryland Colonial Wills, 1634–1777, as the presenter suggests in the only available excerpt on the lookup [S100]. Record the probate year, county, will book and page from the entry [S102]. Use the year and book to choose the relevant volumes of the 16-volume Maryland Calendar of Wills. Use each volume’s name index to find the abstract and read every page listed for the name. Record the role given in each abstract, including witness and heir [S103], [S104]. Use the will book and page to retrieve the recorded will and preserve its locator separately from the abstract page [S102].
+
+For a New Hampshire provincial will from 1718 through 1740, search the full-name index in *Probate Records of the Province of New Hampshire*, volume 2 of the probate series and volume 32 of the State Papers (the volume from the available excerpt [S134]) [S137], [S138]. Keep the published will transcript or other probate abstract as a finding aid to the provincial record, with its own citation [S138].
+
+For Essex County, Virginia, start with Wesley E. Pippenger’s *Consolidated Index to Wills and Fiduciary Accounts, Etc., 1692–1903* (the finding aid from the available excerpt [S134 @2026-11-21]). Use this expanded index for wills and administrations from 1692 through 1716 as well as the later entries. Search alphabetically by surname. Record the document type under *Instrument* and the book and page or other source code. Note any named spouse, bonded party, administrator or executor [S135 @2026-11-21]. Use the locator to select the underlying series in the Library of Virginia’s Essex County microfilm list [S136 @2026-11-21].
+
+In the Essex County consolidated index, record *Date of Instrument* as the creation date and *Date of Recordation* as the recording date. For a January–March date before 1753, check the underlying record for the date as written. Preserve both forms if the index’s calendar adjustment changed the date [S135].
+
+For Belmont County, Ohio, use Lorraine Indermill Quillon’s *Abstracts of Early Probate Records* for 1802–1827 (the early volume from the available excerpt [S139]). Check it for administration and guardianship bonds as well as wills [S141]. For lettered will books, use her *Will Abstracts* for A–C (1810–1827), D–F (1827–1839), G–H (1839–1856), or I and K (1856–1872) [S140]. Search both sets when their dates overlap and follow the abstract’s locator to the original record. For 1856–1872, continue directly from I to K, the next volume in the will-book sequence [S142].
 
 If the packet has a coded document key, locate the collection's actual master legend before
 decoding it. Keep both locators and compare the listed components with inspected documents;
@@ -290,6 +302,8 @@ results and reasons for each extension.
 
 **Check:** A later recording date is not a later death date. Finding a settlement several years
 after death demonstrates the need for that case's wider search; it supplies no universal deadline.
+
+Check the court’s finding aids for separate indexes to bonds, intestate administrations, lists of heirs and fiduciary accounts (the series checklist from the available excerpt [S129]). Search the available inventories too, even after a will-index miss [S132], [S133]. When a relationship is at issue, retrieve any list of heirs and record the relationships it actually states [S132].
 
 When a will is missing, check any inheritance-tax series that covers the decedent’s locality and estate years [S116 @2026-11-20]. In Union County, Ohio, start with the Archives’ *Inheritance Tax Records, 1904–1962* listing and check each volume’s dates. Use a matching entry’s administrator and filing dates to queue a search of the corresponding probate docket [S112 @2026-11-20]. Keep a tax entry as its own record and leave the existence of a will unresolved.
 
