@@ -88,8 +88,16 @@ The routing row, request log, series-status vocabulary, conflict list and lead t
 
 - **S61:** [State Records of South Australia, Register of prisoners – Yatala Labour Prison (GRG54/41)](https://catalogue.archives.sa.gov.au/series/GRG54-41). Official series description read 2026-05-13. Lists the date received, register number, teeth, scars and tattoos among the recorded details. Used to confirm examples of fields to extract when present.
 
+- **S62:** Craig R. Scott, Just Genealogy, [Belmont County, Ohio Genealogy Research Resources - JG0289](https://www.youtube.com/watch?v=lDpV8qsACxI), published 2023-03-28. Community video. Supplied transcript excerpt read 2026-11-21. Scott points readers to the Ohio Secretary of State’s jail reports for 1852–1855. The video page did not open directly. The compilation and the Belmont return are supported separately by S63 and S64.
+
+- **S63:** Heritage Books, [Annual Report of the Secretary of State to the Governor of Ohio: Jail Reports Covering the Years 1852, 1853, 1854, and 1855](https://heritagebooks.com/products/101-a0103). Publisher catalogue entry read 2026-11-21. Gives the 1988 compilation’s ISBN and lists Belmont among its counties. The listing provides no county-by-year coverage table. The compilation itself was not inspected.
+
+- **S64:** Ohio Secretary of State, [Annual Report of the Secretary of State, to the Governor of Ohio, for the Year 1855](https://upload.wikimedia.org/wikipedia/commons/1/19/Annual_Report_%28IA_annualreport05statgoog%29.pdf), Columbus, Statesman Steam Press, 1856. Title page, jail-report discussion and Belmont return read in the digitized PDF text 2026-11-21. Page 4 notes incomplete sheriff reporting and points to Appendix C. The Belmont return on p. 18 gives a reporting period of November 1, 1853, to November 1, 1854. Belmont coverage for the other years was not established.
+
 ## Credits
 
+- Craig R. Scott, Just Genealogy, cited as S62 — Community video paraphrased with attribution; rights remain with the publisher (adapted)
+- Heritage Books and Ohio Secretary of State, cited as S63 and S64 — Third-party catalogue metadata and public-domain report paraphrased with attribution (adapted)
 - Lisa Lisson, Family Tree Magazine, cited as S59 — Third-party article paraphrased with attribution (adapted)
 - New York State Archives and State Records of South Australia, cited as S60 and S61 — Catalogue descriptions paraphrased with attribution (adapted)
 - New York and Utah archives, National Archives, Federal Bureau of Prisons, Ancestry and FamilySearch (S47–S58) — Catalogue and index metadata paraphrased with attribution (adapted)
