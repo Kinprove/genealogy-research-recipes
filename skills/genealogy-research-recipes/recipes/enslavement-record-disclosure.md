@@ -16,7 +16,7 @@ router: {"section": "Records by country and region", "group": "United States: pe
 
 # Make privately held records of enslaved people discoverable
 
-Use this recipe after finding named enslaved people in privately held papers. Prepare an extract that preserves the names as written and gives a locator for the original. Keep an association in the record distinct from a family relationship inferred from it.
+Use this recipe to share privately held records of enslavement and relevant family knowledge. Prepare an extract that preserves the names as written and gives a locator for the original. Keep an association in the record distinct from a family relationship inferred from it.
 
 ## Publish the names with a way back to the record
 
@@ -37,6 +37,22 @@ The author suggests routing records about the construction of the University of 
 **Privacy gate:** <!-- privacy-gate: contact --> The record citation and the sender’s details would go to the university’s descendant outreach contact. Apply the [privacy gate](../SKILL.md#privacy-gate) before sending.
 
 Send a concise record lead to the Gibbons Project’s descendant outreach contact when the document connects people enslaved by the family to labor at the University of Virginia. Identify the record and its locator in the first message. [S3 @2026-11-18]
+
+## Contribute family materials to 10 Million Names
+
+Lindsay Fulton’s advice from the available excerpt of the May 2024 interview includes sharing family materials, remembered family history and estate records that describe enslaved people without naming them. [S4]
+
+On the 10 Million Names homepage, select “Read More” under “Share Names of Enslaved People” to open “Help 10 Million Names Research.” [S5 @2026-11-21], [S6 @2026-11-21]
+
+**Privacy gate:** <!-- privacy-gate: upload --> The submitter’s details and any family files, scans, estate records or questionnaire answers would go to 10 Million Names through its help center. The material could include living relatives’ details or a living narrator’s voice and may be made available to researchers. Apply the [privacy gate](../SKILL.md#privacy-gate) before submission and redact living-person data outside the cleared scope.
+
+Submit existing family material through the form for the matching category: GEDCOM, oral history, family notes or genealogy, or family records from a religious text such as a Bible. [S6 @2026-11-21]
+
+Use the family history questionnaire when the user has relevant family knowledge and no tree, notes or image to share. Enter family members’ names only if they are known to be deceased. Mark uncertain names or places with a question mark. [S7 @2026-11-21]
+
+Submit a high-quality scan of the record when the family wants to keep the original. Use the form for family records from a religious text when it fits, and “I have something else to contribute” for other scans. Confirm the permissions and intended access before sending. [S8 @2026-11-21], [S9 @2026-11-21], [S10 @2026-11-21]
+
+Submit an estate record that lists enslaved people only by age and gender through “I have something else to contribute.” Give the enslaving household’s name, the recorded descriptions and the record locator. Treat those descriptions as leads for identification. [S10 @2026-11-21]
 
 ## Describe a documented parent-child relationship
 
