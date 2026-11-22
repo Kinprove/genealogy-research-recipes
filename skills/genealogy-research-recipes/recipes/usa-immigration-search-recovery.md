@@ -66,6 +66,17 @@ every window states which record supports it. Stop treating the years as a
 contradiction once they demonstrably describe different journeys.
 [NARA AR-2 guide](https://www.archives.gov/research/immigration/alien-registration-ar-2)
 
+Read the reported immigration year in each available 1900, 1910, 1920 and 1930
+U.S. population schedule. Carry the birthplace and an estimated birth year into
+the passenger search. In 1920, also copy any reported year of naturalization
+into the court-search table. Use the voyage date on the identified manifest for
+that journey and keep the census answers as separate reports. [N73] [N152] [N156] [N165]
+
+If dated births place the same household first abroad and then in the United
+States, search the interval between them first. Verify whose location each
+record fixes before using it to bound another family member's arrival. Keep
+separate arrivals and return trips open. [N156] [N157]
+
 Treat the ship and arrival date on an AR-2 as the registrant's own statement, not a verified
 locator. Record them as an attributed journey claim, and confirm that the named ship made that
 voyage and that the person appears on its manifest before treating it as an established journey.
@@ -113,6 +124,23 @@ Use its ship and arrival date to locate the original list. Keep any indexed age,
 residence and destination as leads until you read the corresponding fields on the image.
 [N89 @2026-11-18] [N90 @2026-11-18]
 
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A regional passenger or crew query sends the traveler's name and any entered birth or voyage details to MyHeritage. Apply the privacy gate in `SKILL.md` first.
+
+For a ship lead at Fall River, New London or a listed Rhode Island port, search MyHeritage's
+[New England passenger and crew collection](https://www.myheritage.com/research/collection-20348/new-england-passenger-crew-lists).
+Record the ship and arrival date from the index, then check the image for the
+recorded birthplace and departure. Check coverage by port and series before
+using the site's 1829–1957 label to interpret a miss. The archive dates A3468
+to August 1918–November 1954 and lists later series separately.
+[N149 @2026-11-21] [N150 @2026-11-21] [N108 @2026-11-21]
+
+For a Wilmington or Morehead City ship lead in 1908–1958, search MyHeritage's
+North Carolina, Passenger and Crew Lists from its [collection guide](https://www.myheritage.com/wiki/North_Carolina_passenger_lists_index).
+Use the ship and arrival date to match the indexed entry to the manifest, then
+read the birth and departure fields there. If the site query misses, use the
+archive's port listing to locate the 1908–1958 series by port and date.
+[N149 @2026-11-21] [N151 @2026-11-21] [N108 @2026-11-21]
+
 If the evidence supports a flight, search the airport's passenger-arrival series,
 not only ship lists for the nearest seaport. Keep any supplied airport, airline
 and flight details with the date and traveler category. NARA lists airplane and
@@ -139,6 +167,26 @@ for an arrival before 1892 or between June 1897 and December 1900. Do not report
 arrival before June 1897 as lost in the fire: the fire burned the immigration manifests for those
 entries, but the customs lists remain.[N63]
 
+For a New York arrival near the station handover, use 3 August 1855 as Castle
+Garden's opening date and 19 April 1890 as the start of federal processing at the
+Barge Office. Check the arrival and inspection dates separately if they straddle
+the change. Keep the New York passenger-list search open across the handover.
+[N152] [N153] [N154]
+
+**Privacy gate:** <!-- privacy-gate: third-party-tool --> A broad New York passenger or crew query sends the traveler's name and any entered birth or voyage details to MyHeritage. Apply the privacy gate in `SKILL.md` first.
+
+Search MyHeritage's [Ellis Island and Other New York Passenger Lists, 1820–1957](https://www.myheritage.com/research/collection-10512/ellis-island-other-new-york-passenger-lists-1820-1957)
+for New York arrivals across the Castle Garden, Barge Office and Ellis Island
+eras. The collection draws on M237 and T715. Save the ship, arrival date and
+numbered line from the manifest. [N166 @2026-11-21] Use the collection dates to
+choose where to search and the station chronology to describe the arrival.
+[N152 @2026-11-21] [N155 @2026-11-21]
+
+For a Swedish migrant with a lead through Britain, test Liverpool as the
+Atlantic embarkation port. If that lead fails, broaden the search without an
+embarkation constraint. Keep the Swedish departure port and Atlantic
+embarkation in separate journey fields. [N152] [N158]
+
 For early New York customs lists, look first for the name, age, origin and any occupation
 in the columns actually provided. Expect fewer details than on later immigration forms.
 Kathryn Marks points to that difference in her advice from the available excerpt. [N91]
@@ -161,6 +209,11 @@ check the Russian, German, Italian or New York Irish Famine series in NARA's
 [N102 @2026-11-18] Reuse the manifest ID to match the passenger and vessel files and
 retrieve the original by ship, port and date. Series labels do not restrict every
 passenger to the named nationality [N103 @2026-11-18]. The account from the available excerpt identifies all four series [N101 @2026-11-18].
+
+For an 1846–1851 New York lead, check the Irish Famine series even if the
+traveler's origin was elsewhere. Use the dates listed for each of the German,
+Italian and Russian series when searching those files. The Irish Famine window
+applies to that series. [N152] [N102]
 
 For a Spanish cigar worker who settled in Tampa around the turn of the twentieth
 century, include sailings from Cuba when browsing the Tampa arrival lists (M1844).
@@ -231,6 +284,11 @@ If the Ellis Island name search is empty and the town is known, try the One-Step
 Search by Town Name with the surname blank, then narrow a crowded result by
 First Name of Companion or another supported attribute. Confirm which place
 the original manifest field records. [N113 @2026-11-20] [N114 @2026-11-20]
+
+If you need to choose a One-Step tool, open Morse's [About this Website and how to use it guide](https://stevemorse.org/onestep/onestep3.htm).
+Use the Ellis Island section to choose a passenger-name search, a ship-arrival
+search or a direct lookup by roll and frame, according to the locator you have.
+[N147 @2026-11-21] [N148 @2026-11-21]
 
 When building the query ladder, give children traveling with an Italian mother
 variants under both her birth surname and the father's surname. For a Jewish
@@ -364,6 +422,12 @@ and sailing are known.
 Two websites reproducing one manifest are alternate access paths to that
 record, not two independent attestations.
 
+For a Swedish arrival in 1820–1850, look up Nils William Olsson and Erik Wikén's
+*Swedish Passenger Arrivals in the United States, 1820–1850* through the
+[Library of Congress passenger-list guide](https://guides.loc.gov/nordic-scandinavian-emigration/passenger-lists).
+Use the U.S.-wide volume when the port is unknown. Follow any listed ship and
+date back to the original list. [N145 @2026-11-21] [N146 @2026-11-21]
+
 Departure lists survive unevenly. Choose the series from the manifest's port of
 embarkation and record that series' surviving span in the coverage table before
 searching:
@@ -430,6 +494,11 @@ the apparent destination does not fit.
 uncle, cousin or friend is a lead to investigate, including its address; it
 does not establish that relationship without further records.[6,11]
 
+In MyHeritage's New England and North Carolina passenger and crew collections,
+check both halves when the viewer joins a two-page manifest. If the second half
+is absent, locate the continuation by ship, list and line before marking the
+entry read. [N149 @2026-11-21] [N150 @2026-11-21] [N151 @2026-11-21]
+
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> A New York passenger index query sends the passenger's name and any entered birth or voyage details to MyHeritage. Apply the privacy gate in `SKILL.md` first.
 
 For 1890–1891 New York arrivals recorded with Austrian, Polish or Galician
@@ -494,6 +563,10 @@ does not establish kinship or identity, and finding no overlap does not disprove
 The [passenger-inventory demonstration](https://www.youtube.com/watch?v=xm7HHLneP-E)
 supplies this method; no particular export control or complete index is assumed.[31]
 
+When party markings are absent, prioritize fellow passengers who share both the
+recorded town and the intended destination. Carry both literal fields and each
+row locator into the companion comparison. [N156]
+
 ### 7. Turn a detention mark into an outcome search
 
 **Trigger:** the row contains detention or special-inquiry markings, a
@@ -534,6 +607,22 @@ Treat polygamy and anarchism entries on forms used under the 1907 Immigration
 Act as answers to admission screening questions. Use the separate inquiry or
 disposition record to establish whether officials refused admission. [N104]
 Marks's explanation from the available excerpt points to the screening purpose. [N91]
+
+When an Ellis Island record points to an exclusion or appeal, follow the action
+date to a separate case file. For an action before 1 April 1944, check the INS
+Subject and Policy Files (NAID 559947), especially if the case was appealed.
+For actions on or after that date, start with the A-File route in workflow 11.
+If a later appeal still points to the Subject and Policy Files, check both
+series. Keep the manifest and any inquiry sheet as their own sources. A routine
+arrival or an unappealed exclusion may have no surviving case packet.
+[N159 @2026-11-21] [N160 @2026-11-21]
+
+**Privacy gate:** <!-- privacy-gate: request --> A special-inquiry index request sends the immigrant's name and any supplied birth, arrival or case details to the USCIS Genealogy Program. Apply the privacy gate in `SKILL.md` first.
+
+For a supported pre-April 1944 special-inquiry lead without a file number,
+request a USCIS Genealogy Program name-index search for the Subject and Policy
+Files. Carry the returned number into the archival recovery queue.
+[N130 @2026-11-21]
 
 ### 8. Separate the voyage from later verification on the same image
 
@@ -645,6 +734,19 @@ district and city, then check dates separately for the petition index,
 declarations and petitions. Keep plausible Ohio local courts in the court
 table on both sides of the 1906 change. Treat the listed spans as ranges that
 can contain gaps. [N123 @2026-11-20] [N124 @2026-11-20] [N118 @2026-11-20]
+
+Use the series search from the available excerpt of Just Genealogy's catalog
+demonstration. [N161 @2026-11-21] Search the NARA Catalog for
+`petitions for naturalization` plus the court or place. Open the series description for the
+court, dates and holdings location, then check the partner list and the
+applicable name index. A series description can exist without a linked petition
+image. [N162 @2026-11-21] [N144 @2026-11-21]
+
+For U.S. District Court petitions from the Southern District of New York,
+start with M1972 (1897–1944). Use the roll list with the volume and page or
+petition number from your locator. Check the separate M1676 petition index
+for its own 1824–1941 range. M1879 covers Eastern District petitions.
+[N163 @2026-11-21] [N164 @2026-11-21]
 
 **Privacy gate:** <!-- privacy-gate: third-party-tool --> A Queens or Bronx naturalization query sends the applicant's name and any entered origin, arrival or filing details to the NY Naturalizations portal. Apply the privacy gate in `SKILL.md` first.
 
